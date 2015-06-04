@@ -1,0 +1,822 @@
+ Tauranga
+ ?
+ Dunedin
+ Christchurch
+ Ramelton
+ Wanganui
+ Auckland
+ Kaiapoi
+ Thames
+ Marton
+ Auckland
+ Auckland
+ Greytown
+ Wellington
+ Waipawa
+ Dunedin
+ Greymouth
+ Christchurch
+ S Rakaia
+ Turkina
+ Wanganui
+ Invercargill
+ Caversham
+ Invercargill
+ Wellington
+ Wanganui
+ Broughty Ferry
+ Waimate
+ Mataura
+ Dipton
+ Wellington
+ Wellington
+ London
+ Akaroa
+ Masterton
+ Dunedin
+ Rangiaohia
+ Christchurch
+ Leeston
+ S Dunedin
+ Hawera
+ Dunedin
+ Okaiawa
+ Wellington
+ Auckland
+ Auckland
+ Christchurch
+ Camerontown
+ Teschemakers
+ Milton
+ Hawera
+ Riccarton
+ Invercargill
+ Dunedin
+ Lawrence
+ Waitara
+ Napier
+ Christchurch
+ Lyttelton
+ ?
+ Invercargill
+ Southern Grove
+ Dunedin
+ Buller
+ Blenheim
+ Wellington
+ Christchurch
+ Cromwell
+ Auckland
+ Masterton
+ Dunedin
+ Invercargill
+ New Plymouth
+ Napier
+ VIC
+ Masterton
+ Dunedin
+ Inverleithen
+ Wellington
+ Napier
+ Milton
+ Thames
+ Lyttelton
+ Christchurch
+ Manaia
+ Auckland
+ Christchurch
+ Dunedin
+ Galatea
+ Dunedin
+ Auckland
+ New Plymouth
+ Timaru
+ New Plymouth
+ Auckland
+ Masterton
+ Christchurch
+ Auckland
+ Invercargill
+ Geraldine
+ Kaiapoi
+ Taranak
+ Clinton
+ Linwood
+ Waratah
+ Waitara
+ Dunedin
+ Arrowtown
+ Wellington
+ Dunedin
+ Wellington
+ Wellington
+ Westport
+ Auckland
+ Palmerston North
+ Featherston
+ Port Chalmers
+ Matakanui
+ Auckland
+ Waikaia
+ Wellington
+ Greytown
+ Dunedin
+ Dillmanstown
+ Temuka
+ Invercargill
+ Auckland
+ Inglewood
+ Dunedin
+ Rewiti
+ Auckland
+ Wellington
+ Wanganui
+ Auckland
+ Otautau
+ Lyttelton
+ Featherston
+ Auckland
+ Wairapapa
+ Auckland
+ Picton
+ Wairoa
+ Lyttelton
+ Toowoomba
+ Wanganui
+ Lowburn
+ Tokomaru Bay
+ Edinburgh
+ Amberley
+ Christchurch
+ Maungaturoto
+ Hastings
+ Whangaroa
+ Invercargill
+ Lumsden
+ Studholm
+ Ashburton
+ Islington
+ Waikaia
+ Invercargill
+ NSW
+ Paeroa
+ Burnham
+ Masterton
+ Westport
+ Invercargill
+ King Country
+ Puni
+ Wanganui
+ Clareville
+ Masterton
+ Nelson
+ Dunedin
+ Tikokino
+ Auckland
+ Chertsey
+ Thames
+ Mosstown
+ Featherston
+ Wellington
+ 1905
+ Christchurch
+ Dunedin
+ Raetihi
+ Auckland
+ Dunedin
+ Wanganui
+ Foxton
+ Nelson
+ Leichhard
+ Nelson
+ Invercargill
+ Dunedin
+ Invercargill
+ American Samoa
+ Wanganui
+ Auckland
+ Invercargill
+ Waimate
+ Petone
+ Dunedin
+ Wairea
+ Stratford
+ Dunedin
+ Auckland
+ Auckland
+ Qld
+ Rakaia
+ Temuka
+ Wellington
+ Seddonville
+ Waiuta
+ Nuhaka
+ Rothesay
+ Woodville
+ Invercargill
+ Tokomaru Bay
+ Wellington
+ Napier
+ Nelson
+ Hastings
+ Wellington
+ Christchurch
+ Dunedin
+ nr.Dargaville
+ Oamaru
+ Riverton
+ Christchurch
+ Auckland
+ Christchurch
+ Palmerston
+ Kingston
+ Tahora
+ Mataura
+ Mosgiel Junction
+ Raglan
+ Houhora
+ Auckland
+ Invercargill
+ Christchurch
+ Gisborne
+ Christchurch
+ Kurow
+ Oamaru
+ Auckland
+ Hamilton
+ Otahuhu
+ Wellington
+ Timaru
+ Normanby
+ Wanganui
+ Prestonpans
+ Auckland
+ Lyttelton
+ Wellington
+ Kaikohe
+ Dannevirke
+ Balclutha
+ Springhills
+ Whangarei
+ Bluff
+ Timaru
+ Feilding
+ Christchurch
+ Te Awamutu
+ Temuka
+ Thames
+ Rotorua
+ Taupiri
+ Otahuhu
+ Naseby
+ Wellington
+ Dunedin
+ Gisborne
+ Owaka
+ Nelson
+ Dunedin
+ Mosgiel
+ Greymouth
+ Wellington
+ Carterton
+ Raetihi
+ Auckland
+ Auckland
+ Ashburton
+ Alexandra
+ Wellington
+ Mokihinui
+ Gore
+ Dunedin
+ Gisborne
+ Beaumont
+ Kawakawa
+ Wanganui
+ Auckland
+ Thames
+ Carterton
+ Wellington
+ Palmerston North
+ Owhango
+ Cromwell
+ New Plymouth
+ Otiria
+ Prestonpans
+ Greytown
+ Auckland
+ Hawera
+ Lyttelton
+ Waipapakauri
+ Lower Hutt
+ Naseby
+ Gore
+ Bluff
+ Wellington
+ Masterton
+ Dunedin
+ Nelson
+ Christchurch
+ Wellington
+ Alexandra
+ Carterton
+ Auckland
+ Greymouth
+ Te Kuiti
+ Whangarei
+ Otorohanga
+ Whakatane
+ Blenheim
+ Auckland
+ Motueka
+ Kaponga
+ N.Cant.
+ Opotiki
+ Whangarei
+ Rawhiti
+ Christchurch
+ Dannevirke
+ Palmerston North
+ Kawakawa
+ Kaitaia
+ Wanganui
+ Gore
+ Tauranga
+ Gisborne
+ Ashburton
+ Dunedin
+ Mataura
+ Wanganui
+ Kaitaia
+ Te Puke
+ Taranaki
+ New Plymouth
+ Auckland
+ New Plymouth
+ Lower Hutt
+ Wataroa
+ Middlemarch
+ Auckland
+ Christchurch
+ Pihama
+ Auckland
+ Auckland
+ Cambridge
+ Auckland
+ Papakura
+ Temuka
+ Stratford
+ Mataura
+ Te Kuiti
+ Dunedin
+ Christchurch
+ Cromwell
+ Cromwell
+ Ashburton
+ Opunake
+ New Plymouth
+ Wellington
+ Whakatane
+ Invercargill
+ Stratford
+ Auckland
+ Kawakawa
+ New Plymouth
+ Wellington
+ Nightcaps
+ Auckland
+ Auckland
+ Brisbane
+ Auckland
+ Arapuni
+ New Plymouth
+ Kaitaia
+ Auckland
+ Hamilton
+ Auckland
+ Marton
+ Invercargill
+ Christchurch
+ Rotherham
+ Akaroa
+ Auckland
+ Mokai
+ Auckland
+ Temuka
+ Christchurch
+ Balclutha
+ Auckland
+ Porirua
+ Masterton
+ Dunedin
+ Cromwell
+ Tokomaru Nay
+ Auckland
+ Dunedin
+ Wellington
+ Auckland
+ Auckland
+ Auckland
+ Ashburton
+ Invercargill
+ Christchurch
+ Greymouth
+ Hastings
+ Kawakawa
+ Whakatane
+ Eltham
+ Palmerston North
+ Taumarunui
+ Wellington
+ Gisborne
+ Mosgiel
+ Christchurch
+ Ashburton
+ Auckland
+ Milton
+ Culverden
+ Paeroa
+ Stratford
+ Te Puke
+ Auckland
+ Blenheim
+ Christchurch
+ Tokomaru Bay
+ Lower Hutt
+ Auckland
+ Dannevirke
+ Wellington
+ Dunedin
+ New Plymouth
+ Whakatane
+ Lower Hutt
+ Oamaru
+ Christchurch
+ Waikari
+ Auckland
+ Christchurch
+ Dunedin
+ Waipawa
+ Kurow
+ Lower Hutt
+ Dannevirke
+ Palmerston
+ Nelson
+ Wairoa
+ Hastings
+ Patea
+ Wanganui
+ Dunedin
+ Featherston
+ Greytown
+ Taumarunui
+ Rawene
+ Waipawa
+ Wairoa
+ Oamaru
+ Warkworth
+ Waiuku
+ Gore
+ Hamilton
+ Napier
+ Palmerston North
+ Auckland
+ Lower Hutt
+ Dunedin
+ Hamilton
+ Auckland
+ New Plymouth
+ Whangarei
+ Wanganui
+ Christchurch
+ Cromwell
+ Dunedin
+ Palmerston North
+ Matamata
+ Auckland
+ Feilding
+ Dunedin
+ Takara
+ Auckland
+ Wanganui
+ Auckland
+ Auckland
+ Kaikoura
+ New Plymouth
+ Opunake
+ Dunstan
+ Timaru
+ Palmerston North
+ Wellington
+ Gore
+ Dunedin
+ Gore
+ Napier
+ Dunedin
+ Waiuku
+ Makahu
+ Christchurch
+ Hamilton
+ Wellington
+ Stratford
+ Hamilton
+ Patea
+ Tauranga
+ Auckland
+ Hastings
+ Te Kopuru
+ Auckland
+ Lautoka
+ Wellington
+ Otahuhu
+ Leeston
+ Whangarei
+ Pukekohe
+ Rotorua
+ Palmerston North
+ Putaruru
+ Taumarunui
+ Auckland
+ Hamilton
+ Tokoroa
+ Rangiora
+ Papakura
+ Papakura
+ Lower Hutt
+ Gisborne
+ Taupo
+ Kaikohe
+ Auckland
+ Eltham
+ Hawera
+ Waioeka
+ Auckland
+ 1959
+ Auckland
+ Tokoroa
+ Te Kopuru
+ Christchurch
+ Hamilton
+ Christchurch
+ Tauranga
+ Wanganui
+ Cheviot
+ Wanganui
+ Wellington
+ Christchurch
+ Christchurch
+ Auckland
+ Wairoa
+ Auckland
+ Wellington
+ Kaponga
+ Wellington
+ Timaru
+ New Plymouth
+ Rotorua
+ Gisborne
+ Te Kuiti
+ Mangakino
+ Pukekohe
+ Auckland
+ Gisborne
+ Christchurch
+ Auckland
+ Palmerston North
+ Gisborne
+ Auckland
+ Takapuna
+ Lower Hutt
+ Auckland
+ Wellington
+ Auckland
+ Rotorua
+ London
+ Auckland
+ Chevot
+ Waiuku
+ Auckland
+ Cheviot
+ Western Samoa
+ Christchurch
+ New Plymouth
+ Whangarei
+ Tokoroa
+ Te Aroha
+ Bluff
+ Dannevirke
+ Auckland
+ Dunedin
+ Waihi
+ Western Samoa
+ Clyde
+ Christchurch
+ Auckland
+ Auckland
+ Napier
+ Hamilton
+ Western Samoa
+ Blenheim
+ Northshore
+ Te Awamutu
+ Takapuna
+ Warkworth
+ Western Samoa
+ Gisborne
+ Auckland
+ Auckland
+ Stratford
+ Wellington
+ Pahiatua
+ Te Awamutu
+ Invercargill
+ Auckland
+ Lower Hutt
+ Lyttelton
+ Auckland
+ Western Samoa
+ Hastings
+ Durban
+ Wanganui
+ Hastings
+ Auckland
+ Invercargill
+ Takapuna
+ Mataura
+ Paraparaumu
+ S Brisbane
+ Tokoroa
+ Otahuhu
+ Whangarei
+ Hastings
+ Lower Hutt
+ Invercargill
+ Nuku'alofa
+ Wellington
+ Levin
+ Auckland
+ Rangiora
+ Palmerston North
+ Rotorua
+ Auckland
+ Longoteme
+ Nausori Highland
+ Tauranga
+ Tokoroa
+ Wellington
+ Auckland
+ Auckland
+ Blenheim
+ Lumsden
+ Rawene
+ Auckland
+ New Plymouth
+ Dunedin
+ Nuku'alofa
+ Christchurch
+ Burwood
+ Rotorua
+ Otahuhu
+ Wairoa
+ Auckland
+ Wellington
+ Wanganui
+ Blenheim
+ Stratford
+ New Plymouth
+ Thames
+ Lower Hutt
+ Hamilton
+ Opunake
+ Putaruhu
+ Western Samoa
+ Christchurch
+ Oamaru
+ Christchurch
+ Christchurch
+ Westport
+ Turangi
+ Hastings
+ Christchurch
+ Dunedin
+ Subiaco
+ Christchurch
+ NSW
+ Dunedin
+ Huntly
+ Te Aroha
+ Auckland
+ Hastings
+ Auckland
+ Tauranga
+ Cambridge
+ Tokoroa
+ Western Samoa
+ Helensville
+ Paraparaumu
+ Wellington
+ Nadi
+ Western Samoa
+ Leeston
+ Mosgiel
+ Invercargill
+ Auckland
+ Henderson
+ Takapuna
+ Auckland
+ Rotorua
+ Auckland
+ Gisborne
+ Hawera
+ Ha'apai
+ Auckland
+ Gore
+ Western Samoa
+ Lower Hutt
+ Christchurch
+ Suva
+ Tasmania
+ Western Samoa
+ Waipukarau
+ Ha'apai
+ Waitara
+ Auckland
+ Western Samoa
+ Lower Hutt
+ Whangarei
+ Auckland
+ Palmerston North
+ Western Samoa
+ Invercargill
+ Durban
+ American Samoa
+ Blenheim
+ Christchurch
+ Christchurch
+ Morrinsville
+ Lower Hutt
+ Western Samoa
+ Auckland
+ Ashburton
+ Auckland
+ Papakura
+ Tokoroa
+ Auckland
+ Te Aroha
+ Gisborne
+ Lower Hutt
+ Invercargill
+ Blenheim
+ Papakura
+ Ashburton
+ Hastings
+ Te Puke
+ Christchurch
+ Wellington
+ Palmerston North
+ Motueka
+ Palmerston North
+ Rotorua
+ Greytown
+ Rotorua
+ Wellington
+ Dunedin
+ Marton
+ VIC
+ NSW
+ Palmerston North
+ Wellington
+ Palmerston North
+ Whangarei
+ Hastings
+ Christchurch
+ Auckland
+ Hastings
+ Wellington
+ Rangiora
+ Wellington
+ Palmerston North
+ Rotorua
+ Christchurch
+ New Plymouth
+ South Auckland
+ Paraparaumu
+ VIC
+ Auckland
+ Auckland
+ Auckland
+ Auckland
+ Christchurch
+ Nelson
+ Christchurch
+ Auckland
+ Waipukurau
+ Pangai
+ Wellington
+ Palmerston North
+ Ha'apai
+ Wellington
+ Auckland
+ Christchurch
+ Tauranga
+ S Auckland
+ Auckland
