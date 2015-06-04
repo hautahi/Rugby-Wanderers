@@ -1,0 +1,1054 @@
+Fly-half
+Prop, Lock
+No. 8
+Wing, Lock, No. 8
+Fullback
+Hooker
+Flanker, Lock
+Lock
+Scrum-half
+Centre, Wing
+Centre
+Prop, Lock
+Wing
+Wing, Centre
+Prop, Lock
+No. 8
+Fly-half
+Centre, Wing
+Centre
+Wing, Centre, Flanker
+Flanker
+Fullback, Centre, Fly-half
+Prop, No. 8
+Fly-half, Flanker, Halfback
+Fullback
+Fullback, Centre
+Prop, Hooker, Lock
+Hooker
+Wing
+Lock, Flanker, Hooker
+Fly-half, Flanker
+Lock, Prop
+Fly-half, Scrum-half
+Flanker
+Prop, Lock
+Centre, Lock, No. 8
+Flanker, Lock
+Fullback
+Hooker
+Centre
+Lock
+Scrum-half
+Fullback
+Flanker
+Wing, Centre, Fly-half
+Scrum-half, Flanker
+Lock
+Centre, Flanker, No. 8
+Fly-half
+Centre, Flanker
+Hooker
+Prop
+Centre, Fly-half, Wing
+Centre, Flanker
+Fullback
+Prop, Lock
+Prop, Lock, No. 8
+Fullback
+Centre, Fly-half
+Halfback, Scrum-half
+Wing
+Fly-half
+Lock, Flanker
+Lock, Flanker
+Wing
+Lock, Flanker
+Centre
+Prop, Lock
+Fly-half
+Wing, Fly-half
+Fullback
+Hooker
+Centre
+Prop
+Lock
+Flanker
+Prop, Lock
+Back-row
+Wing, Centre
+Centre
+Scrum-half, Wing
+Hooker
+Prop
+Lock, Prop
+Hooker
+Centre
+Wing, Prop, Lock
+Scrum-half, Halfback
+Wing, Centre
+Prop, Flanker, No. 8
+Wing
+Fly-half
+Prop
+Fly-half
+Lock
+Fullback
+Scrum-half
+Flanker
+Prop
+Lock
+Prop, Hooker
+Wing
+Fullback, Centre, Flanker
+Lock, Flanker
+Prop, Lock
+Centre
+Fly-half, Centre
+Centre, Fly-half
+Lock
+Lock
+Flanker
+Hooker
+Fly-half
+Lock, No. 8
+Wing, Fullback
+Centre
+Wing
+Flanker
+No. 8
+Prop, Hooker
+Lock
+Wing
+Lock, Flanker
+Fullback
+Flanker
+Centre
+Prop, Lock
+Prop
+Flanker
+Centre
+Hooker
+Wing
+Hooker, Flanker
+Lock, No. 8, Prop
+Back-row
+Fly-half, Halfback, Fullback
+Prop, Lock
+Wing
+Scrum-half
+Lock, No. 8
+Fly-half
+Wing
+Hooker
+Wing
+Centre, Wing
+Wing, Centre
+Flanker
+Fly-half
+Wing
+Wing, Centre
+Prop, Hooker
+Prop, Lock
+Flanker
+Back-row
+Hooker
+Scrum-half
+Wing
+Centre
+Lock
+Prop, Flanker, No. 8
+Fly-half, Scrum-half
+Centre
+Wing
+Fullback, Centre, Fly-half
+Centre
+Flanker
+Fullback
+Wing
+Fly-half
+Prop
+Back-row
+Wing, Centre
+Prop
+Fullback
+Back-row
+Wing, Centre
+Flanker
+Flanker
+Fullback
+Centre
+Prop, Lock
+Flanker
+Centre
+Centre, Wing
+Fly-half
+Hooker
+Prop
+Prop, Lock
+Wing
+Lock
+Fullback
+Wing
+Flanker
+Wing
+Lock
+Centre
+Fullback
+Scrum-half, Halfback
+Lock
+Scrum-half
+Wing
+Centre, Fly-half
+Centre, Fly-half
+Wing
+Scrum-half
+Prop
+Scrum-half
+Lock, Prop
+Back-row
+Fly-half
+Wing
+Prop
+Fullback
+Wing
+Wing
+Scrum-half
+Fly-half
+Back-row
+Lock, No. 8
+Centre, Wing
+Prop
+Prop
+Hooker
+No. 8
+Lock
+Back-row
+Lock
+Centre
+Scrum-half
+Centre, Fly-half
+Fullback
+Flanker
+Fullback
+Hooker
+Hooker, Lock, Flanker, Prop
+Wing
+Lock, Prop
+Lock, Prop
+Scrum-half
+Prop, Lock
+Centre
+Fly-half
+No. 8
+Back-row
+Wing
+Lock
+Lock, Flanker
+Fly-half
+Wing
+Wing
+Prop, Hooker
+Hooker, Flanker
+Prop, Lock
+Wing
+Wing
+Prop, Hooker
+Wing
+Lock, Flanker, No. 8
+Hooker
+Prop, Lock
+Fullback, Centre
+Fly-half
+Prop
+Scrum-half, Halfback
+Hooker, Prop
+Centre
+Lock
+Centre
+Prop
+Wing
+Hooker
+Flanker
+Fullback
+Fly-half
+Fullback, Wing
+Flanker
+Centre
+Back-row
+Back-row
+Wing
+Prop, Lock
+Prop, Hooker
+Hooker
+Hooker
+Fly-half
+Prop
+Wing
+Flanker
+Wing
+Fly-half, Centre
+Wing
+No. 8
+Flanker, Scrum-half
+Flanker
+Scrum-half
+Wing, Centre
+Lock
+Flanker
+Wing
+Prop
+Wing
+Prop, Lock
+Lock
+Fly-half
+Hooker, Flanker
+Scrum-half, Flanker
+Centre
+Hooker
+Centre, Fly-half
+Wing
+Fullback
+Lock
+Prop
+Fly-half
+Fullback
+Fullback
+Lock
+Centre
+Lock
+Wing
+Fly-half
+Flanker
+No. 8
+Flanker
+Wing
+Prop
+Wing
+Prop, Lock
+Centre
+Fly-half, Scrum-half
+Flanker
+No. 8
+Lock
+Flanker
+Prop
+Hooker
+Scrum-half
+Wing
+Lock
+Wing, Centre
+Scrum-half
+Centre
+Wing
+Hooker
+Centre
+Lock, Prop
+Fullback
+Lock
+Flanker
+Lock, Prop
+No. 8
+Lock
+Fullback, Fly-half
+Wing
+Scrum-half
+Fullback
+Hooker
+Back-row
+Wing, Centre
+Flanker
+Wing
+Centre, Fly-half
+Hooker
+Wing
+Prop, Lock
+Fullback, Centre
+Wing
+Hooker
+Prop
+Scrum-half
+Wing
+Hooker
+Wing
+Centre, Fly-half
+Centre, Fly-half
+Wing
+Prop, Lock
+Wing
+Fullback
+Fly-half
+Centre
+No. 8
+Fullback
+Flanker, Prop
+Lock
+Prop
+Centre, Fly-half
+Prop
+Centre
+Flanker
+Scrum-half, Halfback, Centre
+Hooker
+Fullback, Wing, Centre
+Wing
+Fly-half
+Prop
+Fly-half
+Lock
+Lock
+Wing
+Centre
+Prop
+Wing
+Fullback
+Flanker
+Prop, Lock
+Lock
+Fly-half
+Hooker
+Fullback, Scrum-half
+Centre, Fly-half, Fullback
+Lock
+Fly-half
+Wing
+Fullback
+Centre
+Fly-half
+Centre, Wing
+Prop, Lock
+Fullback
+Lock, No. 8
+Hooker
+Prop
+Back-row
+Fly-half
+Fly-half
+Flanker
+Centre
+Fullback
+Scrum-half
+Centre
+Back-row
+Fly-half, Centre
+Wing, Centre
+Fullback
+Prop, No. 8
+Fullback, Fly-half
+Hooker
+Prop
+Flanker
+Wing
+Centre, Wing
+Flanker, No. 8, Lock
+Fly-half
+Lock
+Scrum-half
+Flanker
+Fullback, Centre
+Prop, Lock, No. 8
+Wing
+Wing
+Wing
+Hooker
+No. 8, Prop
+Flanker
+Wing, Centre
+Lock
+Wing, Centre
+Wing
+Hooker
+Scrum-half
+Scrum-half
+Flanker, Lock
+Centre
+Wing
+Lock
+Lock
+Flanker
+Wing
+Back-row
+Lock
+Centre, Fly-half
+Flanker, Prop
+Scrum-half
+Prop
+Wing
+Centre
+Lock
+Fullback
+Fullback, Centre
+Fly-half
+Wing
+Hooker
+Back-row
+Centre
+Lock
+Prop, Lock
+Prop
+Fullback
+Centre
+Wing
+No. 8
+Hooker
+Lock, Flanker
+Centre, Fly-half, Fullback, Wing
+Prop, Lock
+Scrum-half
+Fullback, Wing, Centre
+Prop
+Hooker
+Fullback
+No. 8
+Wing, Centre
+Fly-half
+Lock
+Wing, Fly-half
+Lock
+Flanker
+Flanker
+Back-row
+Wing, Scrum-half
+Wing
+Lock, Flanker, No. 8
+Prop
+Fullback, Centre
+Wing
+No. 8
+Prop
+Fullback
+Hooker
+Lock, No. 8
+Scrum-half, Halfback
+Lock
+Prop
+Prop
+Hooker
+Back-row
+Flanker
+Prop
+Lock, No. 8
+Prop
+Fly-half
+Prop
+Hooker
+Flanker
+Hooker
+Wing, Centre
+Fly-half, Centre
+No. 8, Lock, Flanker
+Scrum-half
+Wing
+Prop
+Lock
+Fly-half
+Wing
+Centre
+Fly-half, Centre
+Flanker
+Centre
+Flanker
+Centre
+Centre, Wing
+Prop, Lock
+Fly-half, Fullback
+Prop
+Flanker, Wing
+Fullback, Fly-half
+Prop, Lock, No. 8
+Hooker
+Lock
+Scrum-half
+Wing
+Centre
+Fullback, Wing
+Wing
+Wing
+Scrum-half
+Wing
+Prop
+Hooker, Flanker
+Back-row
+Hooker
+Prop
+Wing
+Fullback, Fly-half
+Lock, Flanker
+Fly-half, Scrum-half
+Back-row
+Flanker
+Fullback
+Flanker
+Fly-half
+Centre
+Wing
+Flanker
+Flanker
+Wing
+Hooker
+Prop
+Hooker
+Centre, Flanker
+Lock, No. 8
+Wing
+Flanker
+Centre
+Lock
+Fullback, Wing
+Scrum-half
+Scrum-half
+Flanker
+Prop
+Wing, Centre
+No. 8, Lock
+No. 8, Lock, Flanker
+Flanker
+Fullback, Scrum-half
+Flanker
+No. 8
+Wing
+Prop
+Prop
+Scrum-half
+Back-row
+Prop
+Scrum-half
+Fly-half
+Hooker
+Prop, Lock
+Fullback, Wing
+Fly-half
+Prop
+Centre
+Wing
+Centre
+Prop, Hooker
+Lock
+Wing
+Prop, Hooker
+Flanker
+Wing, Centre
+Wing
+Lock
+Prop, Hooker
+Lock
+Wing
+Centre
+Fullback
+Prop, Lock
+Lock, No. 8
+Flanker
+Wing
+Hooker
+Centre
+Hooker
+Wing
+Lock
+Prop
+Flanker
+Fullback, Centre, Fly-half
+Back-row
+Lock
+Fullback
+Centre
+Lock
+Wing
+Back-row
+Wing
+Flanker
+Centre
+Prop
+Scrum-half
+Fullback, Fly-half
+Wing
+Wing, Fly-half
+No. 8
+Centre, Scrum-half
+Lock, No. 8
+Wing
+Fly-half
+No. 8
+Lock
+Back-row
+Centre
+Prop
+Hooker
+Centre
+Lock, No. 8, Prop
+Hooker, Prop
+No. 8
+Lock, No. 8
+Lock
+Fullback
+Fly-half
+Fullback, Wing
+Scrum-half
+Flanker
+Fullback, Wing, Centre
+Lock, Prop
+Flanker
+Prop
+Flanker
+Scrum-half
+Lock
+Fly-half
+Back-row
+Wing
+Lock
+Back-row
+Scrum-half
+Fly-half, Fullback
+Fly-half
+Scrum-half
+Centre
+Fullback, Wing, Fly-half
+Centre
+Lock
+Wing
+Centre, Wing
+Flanker
+No. 8, Lock
+Wing
+Fly-half
+Hooker
+Hooker
+Prop
+Fullback, Wing
+Wing
+Prop
+Flanker
+Wing, Centre
+Wing
+Flanker
+Prop
+Lock, No. 8
+Hooker, Prop
+Wing, Centre
+Fullback
+Wing, Centre
+Prop
+Lock
+Fullback, Wing
+Back-row
+Fly-half, Centre
+Prop, Hooker
+Prop
+Scrum-half
+Prop
+Flanker
+No. 8
+Scrum-half
+Lock
+Scrum-half
+No. 8, Hooker
+Lock
+Hooker
+Hooker
+Fly-half
+Flanker, No. 8, Lock
+Flanker
+Wing
+Prop, Lock
+Prop
+Wing
+Fly-half
+Wing
+Flanker
+Flanker
+Prop
+Centre
+Wing
+Lock
+No. 8
+Prop
+Flanker
+Scrum-half
+Wing
+Lock
+Flanker
+Prop
+Lock
+Lock
+Flanker
+Scrum-half
+Prop
+Hooker
+Prop
+Flanker
+Fullback
+Lock
+Fly-half
+Fullback
+No. 8
+Fly-half, Fullback
+Hooker
+Fly-half
+Centre
+Fullback
+Hooker
+Centre
+Wing
+Fly-half
+Prop
+Centre
+Lock
+Prop
+Lock
+Centre
+Flanker
+Wing
+Prop
+Wing
+Lock
+Fly-half
+Scrum-half
+Scrum-half
+Prop
+Flanker
+Hooker
+Back-row
+Centre
+Flanker
+Prop
+Centre
+Hooker
+Scrum-half
+Fly-half, Fullback
+Centre
+No. 8
+No. 8, Lock
+Prop
+Centre
+Flanker
+No. 8
+Hooker
+Hooker
+Back-row
+Lock
+Flanker
+Wing
+Prop
+No. 8
+Centre
+Centre, Fly-half
+Wing
+Prop
+Fly-half
+Flanker
+Prop
+Fullback
+Wing
+Flanker
+Centre
+Scrum-half
+Prop
+Scrum-half
+Flanker
+Prop
+Fullback, Wing
+Scrum-half
+Fullback, Wing
+Lock
+Centre
+Centre
+Centre
+Fullback
+Prop
+Wing
+Wing, Centre
+Prop
+Back-row
+Centre
+Lock
+Back-row
+Scrum-half
+Flanker
+Centre
+Back-row
+Wing, Fullback
+Fly-half
+Centre
+Flanker
+Lock
+Scrum-half
+Prop
+Centre
+Lock
+No. 8
+Lock
+Fly-half, Scrum-half
+Wing
+Lock
+Fullback
+Back-row
+Utility back
+Prop
+Lock
+Lock
+Fullback
+Centre
+Prop
+Prop
+Hooker
+Wing
+Centre, Fullback
+Flanker
+Centre
+Wing
+Back-row
+No. 8
+Flanker
+Fullback
+Fly-half
+Fly-half
+Centre
+No. 8
+Fullback
+Lock
+Centre
+Centre
+Fly-half
+Hooker
+Prop, Hooker
+Lock
+Scrum-half
+No. 8
+Hooker
+Lock
+Lock
+Prop
+Wing
+Hooker
+Scrum-half
+Lock
+Prop
+Centre
+Lock
+Hooker
+Fly-half
+Flanker
+Scrum-half
+Lock
+Back-row
+Fullback
+Wing, Centre
+Back-row
+Flanker
+Wing
+Flanker
+Scrum-half
+Hooker
+Back-row
+Centre
+Fullback
+Centre
+Centre
+Wing
+Centre
+Lock
+Prop
+Centre
+Fly-half
+Prop
+Back-row
+Prop
+Lock
+Fly-half
+Hooker
+Wing
+Scrum-half
+Back-row
+Centre
+Lock
+Fullback
+No. 8
+Scrum-half
+Fly-half
+Prop
+Lock
+Centre
+Prop
+Flanker
+Prop
+Prop
+Wing
+Fly-half
+Lock
+Scrum-half
+No. 8
+Fullback
+Prop
+Centre
+Flanker
+Hooker
+Scrum-half
+Prop
+Wing
+Prop
+Centre
+Hooker
+Centre
+Back-row
+Scrum-half
+Prop
+Centre
+Flanker
+Fullback
+Wing
+Centre
+Prop
+Scrum-half
+Flanker
+Wing
+Wing
+Flanker
+Prop
+Wing
+Flanker
+Fullback
+Centre
+Prop
+Hooker
+Wing
+No. 8
+Scrum-half
+Centre
+Lock
+Fullback
+Fullback
+Prop
+Lock
+Hooker
+Scrum-half
+Lock
+Prop
+Lock
+Lock
+No. 8
+Centre
+Fly-half
+Wing
+Lock
+Prop
+Flanker
+Fly-half
+Prop
+Prop
+Fullback
+Scrum-half
+Fly-half
+Flanker
+Fullback
+Hooker
+Centre
+Centre
+Prop
+Centre
+Fullback
+Wing
+Prop
+Prop
+Scrum-half
+Flanker
+No. 8
+Wing

@@ -13,6 +13,7 @@ from urllib2 import urlopen
 from time import sleep # be nice
 import re
 import os
+import time
 
 #-------------------------------------------------------------#
 # 2. Define Strings
@@ -21,18 +22,23 @@ import os
 storage =  "./data/"
 BASE_URL = "http://www.espnscrum.com"
 
-COUNTRY = ["England", "Scotland", "Ireland", "Wales", "SouthAfrica","Australia", "NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan"]
+#COUNTRY = ["England", "Scotland", "Ireland", "Wales", "SouthAfrica","Australia", "NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan"]
 
-TEAM_URL = ["/england/rugby/player/caps.html?team=1", "/scotland/rugby/player/caps.html?team=2",    "/ireland/rugby/player/caps.html?team=3",
-            "/wales/rugby/player/caps.html?team=4",   "/southafrica/rugby/player/caps.html?team=5", "/australia/rugby/player/caps.html?team=6",
-            "/newzealand/rugby/player/caps.html?team=8", "/france/rugby/player/caps.html?team=9",  "/argentina/rugby/player/caps.html?team=10",
-            "/italy/rugby/player/caps.html?team=20","/other/rugby/player/caps.html?team=15", "/other/rugby/player/caps.html?team=16",
-            "/other/rugby/player/caps.html?team=14","/other/rugby/player/caps.html?team=23"]
+#TEAM_URL = ["/england/rugby/player/caps.html?team=1", "/scotland/rugby/player/caps.html?team=2",    "/ireland/rugby/player/caps.html?team=3",
+ #           "/wales/rugby/player/caps.html?team=4",   "/southafrica/rugby/player/caps.html?team=5", "/australia/rugby/player/caps.html?team=6",
+  #          "/newzealand/rugby/player/caps.html?team=8", "/france/rugby/player/caps.html?team=9",  "/argentina/rugby/player/caps.html?team=10",
+   #         "/italy/rugby/player/caps.html?team=20","/other/rugby/player/caps.html?team=15", "/other/rugby/player/caps.html?team=16",
+    #        "/other/rugby/player/caps.html?team=14","/other/rugby/player/caps.html?team=23"]
+
+COUNTRY = ["Fiji","Japan"]
+
+TEAM_URL = ["/other/rugby/player/caps.html?team=14","/other/rugby/player/caps.html?team=23"]
 
 #-------------------------------------------------------------#
 # 3. Define Functions
 #-------------------------------------------------------------#
 
+# Note to self: Tidy up the "next's" by using nextSibling
 def make_soup(url):
     html = urlopen(url).read()
     return BeautifulSoup(html, "lxml")
@@ -84,6 +90,12 @@ def get_player_losses(soup):
     losses = stats.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
     return losses
 
+def get_player_position(soup):
+    stats  = soup.findAll(text=re.compile('Position'))
+    stats  = stats[-1]
+    position = stats.next  
+    return position
+
 def get_player_debut(soup):
     temp  = soup.find(text=re.compile('Test debut'))
     if temp is None:
@@ -97,99 +109,112 @@ def get_player_debut(soup):
 # 4. Retrieve Data
 #-------------------------------------------------------------#
 
-indicator = 0
-country = COUNTRY[indicator]
-team_url = BASE_URL + TEAM_URL[indicator]
+# Loop over each country
+for i in range(len(COUNTRY)):
+		start_time = time.time() 				# Start timer for this country iteration
+
+		country = COUNTRY[i]
+		team_url = BASE_URL + TEAM_URL[i]
+
+		print country
 
 # Retrieve url links for each player from the country page
-links = get_player_links(team_url)
-links_short = links[-80:-60] 			# use this for debugging
-print links[-20]  			  	# print an example, aslo used for debugging
+		links = get_player_links(team_url)
+		links_short = links			 			# use this for debugging
+		print links[-20]  			  			# print an example, also used for debugging
 
 # Retrieve player statistics from each player's page
-NAMES  = []
-BIRTH  = []
-TESTS  = []
-POINTS = []
-TRIES  = []
-WINS   = []
-LOSSES = []
-DEBUT  = []
+		NAMES  = []
+		BIRTH  = []
+		TESTS  = []
+		POINTS = []
+		TRIES  = []
+		WINS   = []
+		LOSSES = []
+		DEBUT  = []
+		POSITION = []
 
-for link in links_short:
-    soup=make_soup(link)
+		for link in links_short:
+			soup=make_soup(link)
 
-    name = get_player_name(soup)
-    NAMES.append(name)
+			name = get_player_name(soup)
+			NAMES.append(name)
 
-    born = get_player_birth(soup)
-    BIRTH.append(born)
-    BIRTH = map(lambda s: s.strip(), BIRTH)
+			born = get_player_birth(soup)
+			BIRTH.append(born)
+			BIRTH = map(lambda s: s.strip(), BIRTH)
 
-    test = get_player_tests(soup)
-    TESTS.append(test)
-    TESTS = map(lambda s: s.strip(), TESTS)
+			test = get_player_tests(soup)
+			TESTS.append(test)
+			TESTS = map(lambda s: s.strip(), TESTS)
 
-    points = get_player_tests(soup)
-    POINTS.append(points)
-    POINTS = map(lambda s: s.strip(), POINTS)
+			points = get_player_points(soup)
+			POINTS.append(points)
+			POINTS = map(lambda s: s.strip(), POINTS)
 
-    tries = get_player_tries(soup)
-    TRIES.append(tries)
-    TRIES = map(lambda s: s.strip(), TRIES)
+			tries = get_player_tries(soup)
+			TRIES.append(tries)
+			TRIES = map(lambda s: s.strip(), TRIES)
 
-    wins = get_player_wins(soup)
-    WINS.append(wins)
-    WINS = map(lambda s: s.strip(), WINS)
+			wins = get_player_wins(soup)
+			WINS.append(wins)
+			WINS = map(lambda s: s.strip(), WINS)
 
-    losses = get_player_losses(soup)
-    LOSSES.append(losses)
-    LOSSES = map(lambda s: s.strip(), LOSSES)
+			losses = get_player_losses(soup)
+			LOSSES.append(losses)
+			LOSSES = map(lambda s: s.strip(), LOSSES)
 
-    debut = get_player_debut(soup)
-    DEBUT.append(debut)
-    DEBUT = map(lambda s: s.strip(), DEBUT)
+			debut = get_player_debut(soup)
+			DEBUT.append(debut)
+			DEBUT = map(lambda s: s.strip(), DEBUT) 
 
-#-------------------------------------------------------------#
-# 5. Save Data as txt files
-#-------------------------------------------------------------#
+			position = get_player_position(soup)
+			POSITION.append(position)
+			POSITION = map(lambda s: s.strip(), POSITION)
 
 # Create country directory if it does not exist
-if not os.path.isdir(storage + country):
-    os.makedirs(storage + country)
+		if not os.path.isdir(storage + country):
+			os.makedirs(storage + country)
 
-f = open(storage + country + "/player_links.txt", "w+")
-f.write("\n".join(str(x) for x in links))
-f.close()
+# Save data as text files
+		f = open(storage + country + "/player_links.txt", "w+")
+		f.write("\n".join(str(x) for x in links))
+		f.close()
 
-f = open(storage + country + "/names.txt", "w+")
-f.write("\n".join(str(x) for x in NAMES))
-f.close()
+		f = open(storage + country + "/names.txt", "w+")
+		f.write("\n".join(str(x) for x in NAMES))
+		f.close()
 
-f = open(storage + country + "/birth.txt", "w+")
-f.write("\n".join(str(x) for x in BIRTH))
-f.close()
+		f = open(storage + country + "/birth.txt", "w+")
+		f.write("\n".join(str(x) for x in BIRTH))
+		f.close()
 
-f = open(storage + country + "/tests.txt", "w+")
-f.write("\n".join(str(x) for x in TESTS))
-f.close()
+		f = open(storage + country + "/tests.txt", "w+")
+		f.write("\n".join(str(x) for x in TESTS))
+		f.close()
 
-f = open(storage + country + "/points.txt", "w+")
-f.write("\n".join(str(x) for x in POINTS))
-f.close()
+		f = open(storage + country + "/points.txt", "w+")
+		f.write("\n".join(str(x) for x in POINTS))
+		f.close()
 
-f = open(storage + country + "/tries.txt", "w+")
-f.write("\n".join(str(x) for x in TRIES))
-f.close()
+		f = open(storage + country + "/tries.txt", "w+")
+		f.write("\n".join(str(x) for x in TRIES))
+		f.close()
 
-f = open(storage + country + "/wins.txt", "w+")
-f.write("\n".join(str(x) for x in WINS))
-f.close()
+		f = open(storage + country + "/wins.txt", "w+")
+		f.write("\n".join(str(x) for x in WINS))
+		f.close()
 
-f = open(storage + country + "/losses.txt", "w+")
-f.write("\n".join(str(x) for x in LOSSES))
-f.close()
+		f = open(storage + country + "/losses.txt", "w+")
+		f.write("\n".join(str(x) for x in LOSSES))
+		f.close() 
 
-f = open(storage + country + "/debut.txt", "w+")
-f.write("\n".join(str(x) for x in DEBUT))
-f.close()
+		f = open(storage + country + "/positions.txt", "w+")
+		f.write("\n".join(str(x) for x in POSITION))
+		f.close()
+
+		f = open(storage + country + "/debut.txt", "w+")
+		f.write("\n".join(str(x) for x in DEBUT))
+		f.close()
+
+		print("--- %s seconds ---" % (time.time() - start_time))	# print execution time

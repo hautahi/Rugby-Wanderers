@@ -1,0 +1,814 @@
+A. Bover
+A. Donelly
+Oswald Gebbie
+L.H. Gribbell
+Fairy Heatlie
+F. Henrys
+Frank Heriot
+W.H. Hyman
+C.J. MacCarthy
+Carlos Mold
+Alvan Reid
+J.E. Saffery
+Frederick Sawyer
+Henry Talbot
+Arnaldo Watson-Hutton
+W. Braddon
+Enrique Bustamante
+Ray Cameron
+Jorge Conrard
+Reginald Cooper
+Jose Cuesta Silva
+Antonio Hobson
+Fabio Lucioni
+Miguel McCormick
+Antonio Pasalagua
+Cesar Pollano
+Arturo Rodriguez Jurado
+Rodolfo Serra
+Cesar Vazquez
+Alberto Zappa
+Martin Ayerra
+Roberto Botting
+G.E.F. Cooke
+Marco Hernandez
+A. Jacobs
+Carlos Reyes
+Alfredo Riganti
+Julian Sommer
+C. Derkheim
+Norberto Escary
+Vicente Grimoldi
+Llewellyn Makin
+Francisco Torino
+Salvador Muller
+J. Bridger
+Ernesto Cilley
+K.A.M. Cookson
+Roberto de Abelleyra
+Carlos Echeverria
+Jumbo Francombe
+Carlos Huntley-Robertson
+Harald Maurer
+Adolfo Navajas
+Edmundo Stanfield
+Jorge Stewart
+Norman Tozer
+A. Turner
+Oscar Bernat
+Antonio Lanusse
+Ian Lewis
+Tomas Sanderson
+Hector Alfonso
+Jorge Cilley
+Noel Cooper
+Riebeck Elliot
+Jose Frigoli
+Virgilio Inchausti
+Gilbert Logan
+Bernardo Mitchelstein
+Horacio Pascuali
+Tomas Salzman
+Emilio Schiavio
+Herbert Talbot
+Percy Talbot
+Eduardo Arriaga
+Archie Cameron
+Luis Hughes
+Walter Sutton
+Jose Tagliabue
+Raymond Wilkins
+Archie Ker
+Hector Pasman
+Samuel Ratcliff
+Tomas Blades
+Eric Buckley
+Keith Bush
+Jeronimo Cernegoy
+P.H. Cox
+Douglas Hine
+Ricardo Martin
+Marcelo Pacheco
+J. Topping
+Matias Avellaneda
+Juan de Pablo
+Guillermo Ehrman
+Ricardo Follett
+Ricardo Frigerio
+Ricardo Giles
+Lucas Glastra
+Bruno Grigolon
+Luis Maurette
+Enrique Monpelat
+Miguel Sarandon
+Ronaldo Sharpe
+Carlos Swain
+Normando Tompkins
+Prudencio Torres Garcia
+Horacio Achaval
+Juan Hardie
+Ezequiel Holmberg
+A. Jones
+Jaime O'Farrell
+Arturo Phillips
+Jorge Sansot
+Julian Santiago
+Edmundo Caffarone
+Emilio Dominguez
+Luis Dorado
+Barry Holmes
+Miguel Hughes
+Pedro Macadam
+Carlos Orti
+Alfredo Palma
+Juan Petrone
+William Chiswell
+Emilio Dacharry
+Leslie Allen
+Ricardo Bazan
+Desmond Farrell
+Enrique Fernandez del Casal
+Marcelo Lanusse
+Carlos Morea
+Jose Morganti
+Uriel O'Farrell
+Ricardo Pont Lezica
+Horacio Solveyra
+Isidro Comas
+Alberto Conen
+Julio Genoud
+Rodolfo Grosse
+Gaston Recagno
+Antonio Salinas
+Osvaldo Bernacchi
+Victor Christianson
+Eric Gahan
+Erwin Hirsch
+Michael Hughes
+Roberto Pineo
+Bernardo Yustini
+Luis Bavio
+Osvaldo Elia
+Jesus Loures
+Oscar Martinez Basante
+Juan Manuel Belgrano
+Malcolm Caldwell
+Ricardo Dell'Acqua
+Juan Diez
+Pedro Felisari
+Elias Gavina
+Stanley Hogg
+Roque Lagarde
+Enrique Mitchelstein
+Roberto Ochoa
+Martin Azpiros
+Roberto Dillon
+Angel Guastella
+Eamon Horan
+Uriel Propato
+Pablo Yanguela
+Carlos Alvarez
+Carlos Ezcurra
+Juan Guidi
+Ricardo Hogg
+Enrique Holmgren
+Carlos Lennon
+Luis Mendez
+Carlos Olivera
+Raul Pesce
+Eduardo Sorhaburu
+Eduardo Verardo
+Enrique Bianchetti
+Juan Casanegra
+Carlos Giuliano
+Esteban Karplus
+Ricardo Raimundez
+Rodolfo Devoto
+Eduardo Gonzalez del Solar
+Enrique Krossler
+Enrico Neri
+Ricardo Oliveri
+Aitor Otano
+Jorge Pulido
+Rodolfo Schmidt
+Florencio Varela
+Glauco Wessek
+Cristobal Hirsch
+Jorge Rios
+Horacio Vidou
+Walter Aniz
+John Vibart
+Camilo Aldao
+Hector Goti
+Jorge Lavayen
+Guillermo Montes de Oca
+Martin Odriozola
+Eduardo Scharemberg
+Luis Varela
+Adolfo Etchegaray
+Nicanor Gonzalez del Solar
+Jose Lasalle
+Raul Loyola
+Mariano Molina Berro
+Miguel Puigdeval
+Juan Queirolo
+Guillermo Schmitt
+Leopoldo Tahier
+Carlos Contepomi
+Alejandro da Milano
+Jorge Dartiguelongue
+Roberto Gallo
+Willie McCormick
+Manuel Beccar Varela
+Juan Benzi
+Roberto Cazenave
+Ronnie Foster
+Luis Garcia Yanez
+Guillermo Illia
+Marcelo Pascual
+Eduardo Espana
+Eduardo Poggi
+Arturo Rodriguez Jurado
+Hector Silva
+Luis Gradin
+Adrian Anthony
+Eduardo Quetglas
+Mario Bouza
+Miguel Chesta
+Marcos Dumas
+Ricardo Handley
+Jose Imhoff
+Hector Mendez
+Ronaldo Seaton
+Alejandro Travaglini
+Mario Walther
+Dudley Morgan
+Marcelo Farina
+Jorge Seaton
+Nestor Perez
+Tomas Harris-Smith
+Hugo Miguens
+Arturo Abella
+Nestor Carbone
+Miguel Cutler
+Carlos Martinez
+Julio Otaola
+Guillermo Blacksley
+Ricardo Espagnol
+Roberto Matarazzo
+Jorge Wittman
+Jose Fernandez
+Miguel Morgan
+Hugo Nicola
+Jose Costante
+Julio Walther
+Guillermo Casas
+Jorge Carracedo
+Ruben Castro
+Gustavo Foster
+Fernando Insua
+Enrique Martinez
+Marcelo Martinez Mosquera
+Hugo Porta
+Marcelo Rodriguez Jurado
+Alberto Velasquez
+Jorge Braceras
+Gustavo Pimentel
+Alejandro Altberg
+Eduardo Morgan
+Martin Alonso
+Mario Carluccio
+Juan Dumas
+Jose Virasoro
+Miguel Iglesias
+Carlos Bottarini
+Roberto Fariello
+Martin Giargia
+Raul Sanz
+Guillermo Perez Leiros
+Rito Iraneta
+Arturo Orzabal
+Osvaldo Rocha
+Guillermo Alvarez
+Eduardo Brouchou
+Juan Cato
+Jorge Copello
+Felix d'Agnilo
+Miguel Devoto
+Javier Escalante
+Alejandro Iachetti
+Tomas Landajo
+Roberto Lucke
+Ernesto Miguens
+Manuel Parra
+Eduardo Sanguinetti
+Rodolfo Ventura
+Eduardo Vila
+Camilo Abud
+Julio Bach
+Eduardo de Forteza
+Buenaventura Minguez
+Ricardo Muniz
+Nestor Bozzo
+Javier Capalbo
+Daniel Beccar Varela
+Jorge Gauweloose
+Ricardo Mastai
+Carlos Neyra
+Martin Sansot
+Carlos Bori
+Alejandro Cerioni
+Gonzalo Beccar Varela
+Eliseo Branca
+Adolfo Cappelletti
+Ricardo Castagna
+Horacio Mazzini
+Fernando Bustillo
+Luis Balfour
+Alejandro Cubelli
+Eduardo Garcia Teran
+Guillermo Morgan
+Ricardo Passaglia
+Javier Trucco
+Agustin Badano
+Gabriel Allen
+Pablo Guarrochena
+Jorge Posse
+Santos Rosatti
+Marcelo Campo
+Marcelo Loffreda
+Rafael Madero
+Tomas Petersen
+Gabriel Travaglini
+Carlos Serrano
+Alfredo Soares Gache
+Marcos Iachetti
+Javier Perez Cobo
+Topo Rodriguez
+Ernesto Ure
+Fernando Argerich
+Andres Courreges
+Miguel Glastra
+Armando Memoli
+Andres Nicholson
+Guillermo Paz
+Carlos Ramallo
+Carlos Sainz Trapaga
+Guillermo Sanguinetti
+Martin Garcia Laborde
+Carlos Jacobi
+Mario Negri
+Alejandro Puccio
+Jaime Sartori
+Marcelo Dip
+Fernando Morel
+Daniel Baetti
+Juan Pablo Piccardo
+Jorge Allen
+Jose Palma
+Pablo Devoto
+Javier Miguens
+Gustavo Milano
+Guillermo Varone
+Serafin Dengra
+Ricardo de Vedia
+Bernardo Miguens
+Juan Aguilar
+Ricardo Annichini
+Eduardo Basile
+Diego Cuesta Silva
+Sebastian Dassen
+Lucio de Chazal
+Gonzalo Gasso
+Pedro Lanza
+Alejandro Schiavio
+Alejandro Scolni
+Marcos Baeck
+Marcelo Carrique
+Carlos Cordeiro
+Jose Carlos Galvalisi
+Ricardo Sauze
+Eduardo Torello
+Diego Cash
+Juan Lanza
+Fabian Turnes
+Fabio Gomez
+Rodrigo de la Arena
+Pedro Merlo
+Luis Molina
+Daniel Sanes
+Jose Luis Visca
+Guillermo Holmgren
+Sergio Carossio
+Eduardo Valesani
+Joaquin Uriarte
+Jose Mostany
+Sebastian Salvat
+Martin Yanguela
+Guillermo Angaut
+Pablo Garreton
+Marcelo Ricci
+Juan Jose Angelillo
+Javier Caminotti
+Roberto Cobelo
+Julio Coria
+Pablo Franchi
+Mario Gerosa
+Cristian Mendy
+Mario Carreras
+Julio Clement
+Dardo Gonzalez
+Santiago Meson
+Hernan Vidou
+Gabriel Teran Nougues
+Fernando Conti
+Federico Silvestre
+Miguel Bertranou
+Marcelo Valesani
+Juan Soler Valls
+Pablo Buabse
+Pablo di Nisio
+Marcelo Righentini
+Pablo Camerlinckx
+Diego Halle
+Gustavo Jorge
+Federico Schacht
+Jose Simes
+Juan Coppola
+Diego Dominguez
+Hector Lacarra
+Sergio Bunader
+Adrian Rocca
+Javier Grondona
+Ricardo Zanero
+Matias Allen
+Pablo Garzon
+Manuel Aguirre
+Rodrigo Crexell
+Santiago Ezcurra
+Hernan Garcia Simon
+Ricardo le Fort
+German Llanes
+Agustin Macome
+Federico Mendez Azpillaga
+Pedro Sporleder
+Lisandro Arbizu
+Gonzalo Camardon
+Emilio Ezcurra
+Guillermo del Castillo
+Jose Santamarina
+Martin Teran Nougues
+Fernando Buabse
+Rafael Bullrich
+Juan Luis Damioli
+Rodolfo Etchegoyen
+Lucas Herrera
+Martin Lanfranco
+Alejandro Marguery
+Federico Jose Mendez
+Julio Jose Paz
+Franco Rossi
+Guillermo Ugartemendia
+Marcelo Urbano
+Ariel Mammana
+Eduardo Pittinari
+Patricio Noriega
+Alejandro Tolomei
+Eduardo Laborde
+Mariano Bosch
+Francisco Irarrazaval
+Luis Criscuolo
+Raul Perez
+Normando Ferrari
+Eduardo Garbarino
+Matias Roby
+Leandro Bouza
+Gonzalo Garcia Orsetti
+Pablo Cremaschi
+Roberto Grau
+Sebastian Irazoqui
+Diego Silvetti
+Martin Grau
+Matias Corral
+Sebastian Paz Posse
+Cristian Viel Temperley
+Martin Viola
+Eduardo Garcia Hamilton
+Ivan Merlo
+Sergio Peretti
+Pablo Fernandez Bravo
+Nicolas Fernandez Miranda
+Rolando Martin
+Martin Pfister
+Francisco Garcia
+Jose Cilley
+Diego Albanese
+Nicolas Bossicovich
+Omar Hasan Jalil
+Martin Lerga
+Fernando del Castillo
+Agustin Pichot
+Ezequiel Jurado
+Jose Luna
+Omar Portillo
+Martin Sugasti
+Roberto Petti
+Pablo Bouza
+Carlos Promanzio
+Mauricio Reggiardo
+Gustavo Rivero
+Facundo Soler
+Julian Legora
+Octavio Bartolucci
+Ignacio Fernandez Lobbe
+Leandro Lobrauco
+Martin Palou
+Gonzalo Quesada
+Martin Scelzo
+Eduardo Simone
+Roberto Travaglini
+Federico Werner
+Christian Barrea
+Diego Giannantonio
+Mario Ledesma Arocena
+Jose Orengo
+Tomas Solari
+German Aristide
+Miguel Ruiz
+Alejandro Aguirre
+Pablo Alexenicer
+Alejandro Allub
+Matias Brandi
+Marcelo Carmona
+Diego Gomez Coll
+Agustin Lopresti
+Juan Meabe
+Facundo Rave
+Damian Rotondo
+Gustavo Veron
+Raul Cano
+Manuel Diaz
+Andres Irigoyen
+Fernando Diaz Alberdi
+Juan Fernandez Miranda
+Santiago Phelan
+Camilo Boffelli
+Hugo Cespedes
+Guillermo Bernardi
+Martin Durand
+Leonardo Gravano
+Emiliano Mulieri
+Gaston Nazassi
+Nicolas Gomez
+Federico Todeschini
+Manuel Contepomi
+Gabriel Bocca
+Ignacio Corleto
+Patricio Fuselli
+Pablo Garcia Hamilton
+Rodrigo Roncero
+Rafael Silva
+Bernardo Stortoni
+Daniel Villen
+Arturo Mimesi
+Damian Rodriguez
+Patricio Grande
+Matias Lamas
+Martin Molina
+Christian Ohanian
+Jose Altube
+Rimas Alvarez Kairelis
+Julio Garcia
+Alejandro Moreno
+Eduardo Zapiola
+Julio Brolese
+Felipe Contepomi
+Gerardo Lazcano Miranda
+Ernesto Naveyra
+Matias Peri Brusa
+Martin Gaitan
+Gonzalo Longo Elia
+Lucas Ostiglia
+Agustin Canalda
+Hugo Dande
+Leopoldo de Chazal
+Santiago Gonzalez Bonorino
+Gustavo Morlaes Oliver
+Jose Nunez Piossek
+Leonardo Roldan
+Juan Jose Villar
+Matias Albina
+Francisco Leonelli Morey
+Mariano Sambucetti
+Emiliano Bergamaschi
+Pablo Cardinali
+Daniel Rodriguez
+Hernan Senillosa
+Alfonso Amuchastegui
+Maximiliano Nannini
+Juan Cruz Legora
+Patricio Albacete
+Lucas Borges
+German Bustos
+Eusebio Guinazu
+Juan Martin Hernandez
+Francisco Lecot
+Leonardo Ortiz
+Martin Schusterman
+Martin Rospide
+Federico Cortopasso
+Julio Freixas
+Federico Serra Miras
+Santiago Sanz
+Federico Aramburu
+Francisco Bosch
+Pablo Henn
+Ariel Castellina
+Federico Andres Genoud
+Andres Romagnoli
+Galo Alvarez Quinones
+Juan Martin Fernandez Lobbe
+Alvaro Galindo
+Lucio Lopez Fleming
+Fernando Higgs
+Pablo Gomez Cora
+Santiago Artese
+Augusto Petrilli
+Gonzalo Tiesi
+Marcos Ayerza
+Manuel Carizza
+Alberto Vernet Basualdo
+Miguel Avramovic
+Juan Manuel Leguizamon
+Agustin Creevy
+Horacio Agulla
+Jaime Arocena Mesones
+Agustin Costa Repetto
+Gaston de Robertis
+Matias Cortese
+Sebastien Rondinelli
+Nicolas Vergallo
+Rafael Carballo
+Pablo Gambarini
+Esteban Lozada
+Juan Gomez
+Tomas de Vedia
+Genaro Fessia
+Marcelo Bosch
+Alejandro Abadie
+Federico Amelong
+Felipe Aranguren
+Gabriel Ascarate
+Gonzalo Begino
+Agustin Guzman
+Francisco Merello
+Ignacio Mieres
+Sebastian Ponce
+James Stuart
+Ben Urdapilleta
+Francisco Albarracin
+Alejandro Campos
+Bruno Fabricio Cuezzo
+Ramiro del Busto
+Lucas Gonzalez Amorosino
+Tomas Roan
+Federico Rodriguez
+Lucas Barrera Oro
+Felipe Bettolli
+Gonzalo Camacho
+Mauro Comuzzi
+Juan Ignacio Gauthier
+Francisco Gomez Kodela
+Juan Pablo Lagarrigue
+Rodrigo Maria
+Leonardo Senatore
+Carlos Caceres
+Ariel Hevia
+Roman Miralles
+Alvaro Tejeda
+Pedro Ledesma Arocena
+Alfredo Lalanne
+Martin Bustos Moyano
+Miguel de Achaval
+Juan-Pablo Estelles
+Tomas Leonardi
+Agustin Smidt
+Esteban Bustillo
+Mauricio Guidone
+Martin Landajo
+Ignacio Pasman
+Juan Pablo Orlandi
+Santiago Fernandez
+Agustin Figuerola
+Belisario Agulla
+Lucas Alcacer Mackinlay
+Rodrigo Bruno
+Pedro Garzon
+Santiago Gonzalez Iglesias
+Juan Imhoff
+Benjamin Macome
+Matias Narvaez
+Santiago Piccaluga
+Guillermo Roan
+Facundo Vega
+Francisco Cubelli
+Ignacio di Santi
+Paolo Mac
+Federico Merlo
+Gabriel Pata Curello
+Martin Rodriguez Gurruchage
+Horacio San Martin
+Leandro Pereyra
+Matias Viazzo
+Tomas Cubelli
+Marcos Lobato
+Ramiro Pacheco
+Luciano Proto
+Nicolas Sanchez
+Rodrigo Baez
+Nahuel Tetaz Chaparro
+Mariano Galarza
+Santiago Guzman
+Juan Figallo
+Julio Farias Cabello
+Jose Basile
+Santiago Bottini
+Tomas de la Vega
+Tomas Rosati
+Hugo Schierano
+Roberto Tejerizo
+Federico Alloggio
+Nicolas Centurion
+Gaston Cortes
+Benjamin Madero
+Martin Maineri
+Ramiro Moyano Joya
+Fernando Luna
+Walter Weiss
+Tomas Baravalle
+Agustin Gosio
+Tomas Vallejos Cinalli
+Lisandro Ahualli de Chazal
+Valentin Cruz Hernestrosa
+Martin Garcia Veiga
+Manuel Montero
+Matias Orlando
+Javier Ortega Desio
+Diego Palma
+Javier Rojas Alvarez
+Stefano Ambrosio
+Nicolas Azorin
+Facundo Barrea
+Cesar Fruttero
+Bruno Postiglioni
+Ignacio Saenz Lancuba
+German Araoz
+Santiago Craig
+Joaquin Tuculet
+Andres Bordoy
+Nahuel Lobo
+Maximiliano Bustos
+Juan Cappiello
+Tomas Carrio
+Matias Diaz
+Dan Isaack
+Fidel Lamy
+Tomas Lavanini
+Santiago Mendez Angelillo
+Francisco Panessi
+Joaquin Paz
+Sebastian Poet
+Santiago Rocchia
+German Schultz
+Santiago Alvarez
+Tomas Borghi
+Martin Chiappesoni
+Tomas Gilardon
+Santiago Iglesias Valdez
+Pedro Imhoff
+Patricio Fernandez Fiant
+Santiago Garcia Botta
+Pablo Matera
+Joaquin Paz
+Macario Villaluenga
+Gonzalo Manso
+Santiago Cordero
+Antonio Ahualli de Chazal
+Matias Alemanno
+Jeronimo de la Fuente
+Lucas Noguera Paz
+Lucas Ponce
+Felipe Ezcurra
+Julian Montoya
+Lucas Maguire
+Ramiro Herrera
+Matias Moroni
+Juan Cruz Guillemain
+Facundo Isa
+Guido Petti Pagadizaval
+Tomas Lezana
+Geronimo Albertario
+Gregorio del Prete
+Juan Leon Novillo
+Gonzalo Bertranou
+Manuel Plaza
