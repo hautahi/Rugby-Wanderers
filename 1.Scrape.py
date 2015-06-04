@@ -22,17 +22,17 @@ import time
 storage =  "./data/"
 BASE_URL = "http://www.espnscrum.com"
 
-#COUNTRY = ["England", "Scotland", "Ireland", "Wales", "SouthAfrica","Australia", "NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan"]
+#COUNTRY = ["England", "Scotland", "Ireland", "Wales", "SouthAfrica","Australia", "NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan","Canada","USA"]
 
 #TEAM_URL = ["/england/rugby/player/caps.html?team=1", "/scotland/rugby/player/caps.html?team=2",    "/ireland/rugby/player/caps.html?team=3",
  #           "/wales/rugby/player/caps.html?team=4",   "/southafrica/rugby/player/caps.html?team=5", "/australia/rugby/player/caps.html?team=6",
   #          "/newzealand/rugby/player/caps.html?team=8", "/france/rugby/player/caps.html?team=9",  "/argentina/rugby/player/caps.html?team=10",
    #         "/italy/rugby/player/caps.html?team=20","/other/rugby/player/caps.html?team=15", "/other/rugby/player/caps.html?team=16",
-    #        "/other/rugby/player/caps.html?team=14","/other/rugby/player/caps.html?team=23"]
+    #        "/other/rugby/player/caps.html?team=14","/other/rugby/player/caps.html?team=23", "/other/rugby/player/caps.html?team=25","/other/rugby/player/caps.html?team=11"]
 
-COUNTRY = ["Fiji","Japan"]
+COUNTRY = ["Japan","Canada","USA"]
 
-TEAM_URL = ["/other/rugby/player/caps.html?team=14","/other/rugby/player/caps.html?team=23"]
+TEAM_URL = ["/other/rugby/player/caps.html?team=23", "/other/rugby/player/caps.html?team=25","/other/rugby/player/caps.html?team=11"]
 
 #-------------------------------------------------------------#
 # 3. Define Functions
@@ -136,7 +136,7 @@ for i in range(len(COUNTRY)):
 
 		for link in links_short:
 			soup=make_soup(link)
-
+			
 			name = get_player_name(soup)
 			NAMES.append(name)
 
@@ -163,58 +163,57 @@ for i in range(len(COUNTRY)):
 			losses = get_player_losses(soup)
 			LOSSES.append(losses)
 			LOSSES = map(lambda s: s.strip(), LOSSES)
-
+			
 			debut = get_player_debut(soup)
 			DEBUT.append(debut)
 			DEBUT = map(lambda s: s.strip(), DEBUT) 
-
+			
 			position = get_player_position(soup)
 			POSITION.append(position)
 			POSITION = map(lambda s: s.strip(), POSITION)
-
+			
 # Create country directory if it does not exist
 		if not os.path.isdir(storage + country):
 			os.makedirs(storage + country)
 
-# Save data as text files
+# Save data as text files (making sure to break down into utf8 bytes)
 		f = open(storage + country + "/player_links.txt", "w+")
-		f.write("\n".join(str(x) for x in links))
+		f.write("\n".join(x.encode('utf8') for x in links))
 		f.close()
 
 		f = open(storage + country + "/names.txt", "w+")
-		f.write("\n".join(str(x) for x in NAMES))
+		f.write("\n".join(x.encode('utf8') for x in NAMES))
 		f.close()
 
 		f = open(storage + country + "/birth.txt", "w+")
-		f.write("\n".join(str(x) for x in BIRTH))
+		f.write("\n".join(x.encode('utf8') for x in BIRTH))
 		f.close()
 
 		f = open(storage + country + "/tests.txt", "w+")
-		f.write("\n".join(str(x) for x in TESTS))
+		f.write("\n".join(x.encode('utf8') for x in TESTS))
 		f.close()
 
 		f = open(storage + country + "/points.txt", "w+")
-		f.write("\n".join(str(x) for x in POINTS))
+		f.write("\n".join(x.encode('utf8') for x in POINTS))
 		f.close()
 
 		f = open(storage + country + "/tries.txt", "w+")
-		f.write("\n".join(str(x) for x in TRIES))
+		f.write("\n".join(x.encode('utf8') for x in TRIES))
 		f.close()
 
 		f = open(storage + country + "/wins.txt", "w+")
-		f.write("\n".join(str(x) for x in WINS))
+		f.write("\n".join(x.encode('utf8') for x in WINS))
 		f.close()
 
 		f = open(storage + country + "/losses.txt", "w+")
-		f.write("\n".join(str(x) for x in LOSSES))
+		f.write("\n".join(x.encode('utf8') for x in LOSSES))
 		f.close() 
 
 		f = open(storage + country + "/positions.txt", "w+")
-		f.write("\n".join(str(x) for x in POSITION))
+		f.write("\n".join(x.encode('utf8') for x in POSITION))
 		f.close()
-
 		f = open(storage + country + "/debut.txt", "w+")
-		f.write("\n".join(str(x) for x in DEBUT))
+		f.write("\n".join(x.encode('utf8') for x in DEBUT))
 		f.close()
 
 		print("--- %s seconds ---" % (time.time() - start_time))	# print execution time
