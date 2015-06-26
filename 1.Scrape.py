@@ -1,6 +1,7 @@
-# This program downloads player statitics from the ESPNscrum website
+# This program scrapes player statitics from the ESPNscrum website
+# Statistics are stored as "pickled" Python objects
 # Author: Hautahi Kingi
-# Date: 3 June 2015
+# Date: 19 June 2015
 
 #-------------------------------------------------------------#
 # 1.  Setup
@@ -23,17 +24,11 @@ import cPickle
 storage =  "./data/"
 BASE_URL = "http://www.espnscrum.com"
 
-#COUNTRY = ["England", "Scotland", "Ireland", "Wales", "SouthAfrica","Australia", "NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan","Canada","USA"]
+COUNTRY = ["England", "Scotland", "Ireland", "Wales", "SouthAfrica","Australia", "NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan","Canada","USA"]
 
-#TEAM_URL = ["/england/rugby/player/caps.html?team=1", "/scotland/rugby/player/caps.html?team=2",    "/ireland/rugby/player/caps.html?team=3",
- #          "/wales/rugby/player/caps.html?team=4",   "/southafrica/rugby/player/caps.html?team=5", "/australia/rugby/player/caps.html?team=6",
-  #         "/newzealand/rugby/player/caps.html?team=8", "/france/rugby/player/caps.html?team=9",  "/argentina/rugby/player/caps.html?team=10",
-   #        "/italy/rugby/player/caps.html?team=20","/other/rugby/player/caps.html?team=15", "/other/rugby/player/caps.html?team=16",
-    #       "/other/rugby/player/caps.html?team=14","/other/rugby/player/caps.html?team=23", "/other/rugby/player/caps.html?team=25","/other/rugby/player/caps.html?team=11"]
-
-COUNTRY = ["NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan","Canada","USA"]
-
-TEAM_URL = [ "/newzealand/rugby/player/caps.html?team=8", "/france/rugby/player/caps.html?team=9",  "/argentina/rugby/player/caps.html?team=10",
+TEAM_URL = ["/england/rugby/player/caps.html?team=1", "/scotland/rugby/player/caps.html?team=2",    "/ireland/rugby/player/caps.html?team=3",
+           "/wales/rugby/player/caps.html?team=4",   "/southafrica/rugby/player/caps.html?team=5", "/australia/rugby/player/caps.html?team=6",
+           "/newzealand/rugby/player/caps.html?team=8", "/france/rugby/player/caps.html?team=9",  "/argentina/rugby/player/caps.html?team=10",
            "/italy/rugby/player/caps.html?team=20","/other/rugby/player/caps.html?team=15", "/other/rugby/player/caps.html?team=16",
            "/other/rugby/player/caps.html?team=14","/other/rugby/player/caps.html?team=23", "/other/rugby/player/caps.html?team=25","/other/rugby/player/caps.html?team=11"]
 
@@ -115,6 +110,10 @@ def get_stats(soup):
     cat12 = category.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next.next
 	
     return {str(cat1):str(stat1),str(cat2):str(stat2),str(cat3):str(stat3),str(cat4):str(stat4),str(cat5):str(stat5),str(cat6):str(stat6),str(cat7):str(stat7),str(cat8):str(stat8),str(cat9):str(stat9),str(cat10):str(stat10),str(cat11):str(stat11),str(cat12):str(stat12)}
+
+# Allow user to call the above functions using an import command
+if __name__ == "__main__":
+	pass
 
 #-------------------------------------------------------------#
 # 4. Retrieve Data
