@@ -5,12 +5,14 @@ p3
 aS'1932'
 p4
 aS''
-aS'date unknown'
-p5
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p5
 aS'g'
 aS'n'
 aS'i'
@@ -20,12 +22,14 @@ p7
 aS'1932'
 p8
 aS''
-aS'date unknown'
-p9
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p9
 aS'g'
 aS'n'
 aS'i'
@@ -35,12 +39,14 @@ p11
 aS'1932'
 p12
 aS''
-aS'date unknown'
-p13
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p13
 aS'g'
 aS'n'
 aS'i'
@@ -50,12 +56,14 @@ p15
 aS'1932'
 p16
 aS''
-aS'date unknown'
-p17
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p17
 aS'g'
 aS'n'
 aS'i'
@@ -65,12 +73,14 @@ p19
 aS'1932'
 p20
 aS''
-aS'date unknown'
-p21
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p21
 aS'g'
 aS'n'
 aS'i'
@@ -80,12 +90,14 @@ p23
 aS'1932'
 p24
 aS''
-aS'date unknown'
-p25
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p25
 aS'g'
 aS'n'
 aS'i'
@@ -95,12 +107,14 @@ p27
 aS'1932'
 p28
 aS''
-aS'date unknown'
-p29
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p29
 aS'g'
 aS'n'
 aS'i'
@@ -110,12 +124,14 @@ p31
 aS'1932'
 p32
 aS''
-aS'date unknown'
-p33
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p33
 aS'g'
 aS'n'
 aS'i'
@@ -125,12 +141,14 @@ p35
 aS'1932'
 p36
 aS''
-aS'date unknown'
-p37
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p37
 aS'g'
 aS'n'
 aS'i'
@@ -140,12 +158,14 @@ p39
 aS'1932'
 p40
 aS''
-aS'date unknown'
-p41
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p41
 aS'g'
 aS'n'
 aS'i'
@@ -155,12 +175,14 @@ p43
 aS'1932'
 p44
 aS''
-aS'date unknown'
-p45
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p45
 aS'g'
 aS'n'
 aS'i'
@@ -170,12 +192,14 @@ p47
 aS'1932'
 p48
 aS''
-aS'date unknown'
-p49
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p49
 aS'g'
 aS'n'
 aS'i'
@@ -185,12 +209,14 @@ p51
 aS'1932'
 p52
 aS''
-aS'date unknown'
-p53
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p53
 aS'g'
 aS'n'
 aS'i'
@@ -200,12 +226,14 @@ p55
 aS'1932'
 p56
 aS''
-aS'date unknown'
-p57
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p57
 aS'g'
 aS'n'
 aS'i'
@@ -215,12 +243,14 @@ p59
 aS'1932'
 p60
 aS''
-aS'date unknown'
-p61
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p61
 aS'g'
 aS'n'
 aS'i'
@@ -230,12 +260,14 @@ p63
 aS'1932'
 p64
 aS''
-aS'date unknown'
-p65
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p65
 aS'g'
 aS'n'
 aS'i'
@@ -245,12 +277,14 @@ p67
 aS'1932'
 p68
 aS''
-aS'date unknown'
-p69
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p69
 aS'g'
 aS'n'
 aS'i'
@@ -260,12 +294,14 @@ p71
 aS'1932'
 p72
 aS''
-aS'date unknown'
-p73
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'2'
+aS'date unknown'
+p73
 aS'g'
 aS'n'
 aS'i'
@@ -276,12 +312,14 @@ aS'1932'
 p76
 aS'Wing'
 p77
-aS'London'
-p78
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'London'
+p78
 aVUnited Kingdom
 p79
 aVEngland
@@ -294,12 +332,14 @@ p83
 aS'1962'
 p84
 aS''
-aS'date unknown'
-p85
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'date unknown'
+p85
 aS'g'
 aS'n'
 aS'i'
@@ -309,12 +349,14 @@ p87
 aS'1962'
 p88
 aS''
-aS'date unknown'
-p89
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'3'
+aS'date unknown'
+p89
 aS'g'
 aS'n'
 aS'i'
@@ -324,12 +366,14 @@ p91
 aS'1962'
 p92
 aS''
-aS'date unknown'
-p93
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'1'
 aS'3'
+aS'date unknown'
+p93
 aS'g'
 aS'n'
 aS'i'
@@ -339,12 +383,14 @@ p95
 aS'1962'
 p96
 aS''
-aS'date unknown'
-p97
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'date unknown'
+p97
 aS'g'
 aS'n'
 aS'i'
@@ -354,12 +400,14 @@ p99
 aS'1962'
 p100
 aS''
-aS'date unknown'
-p101
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p101
 aS'g'
 aS'n'
 aS'i'
@@ -369,12 +417,14 @@ p103
 aS'1962'
 p104
 aS''
-aS'date unknown'
-p105
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p105
 aS'g'
 aS'n'
 aS'i'
@@ -384,12 +434,14 @@ p107
 aS'1962'
 p108
 aS''
-aS'date unknown'
-p109
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p109
 aS'g'
 aS'n'
 aS'i'
@@ -399,12 +451,14 @@ p111
 aS'1962'
 p112
 aS''
-aS'date unknown'
-p113
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p113
 aS'g'
 aS'n'
 aS'i'
@@ -414,12 +468,14 @@ p115
 aS'1962'
 p116
 aS''
-aS'date unknown'
-p117
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p117
 aS'g'
 aS'n'
 aS'i'
@@ -429,12 +485,14 @@ p119
 aS'1962'
 p120
 aS''
-aS'date unknown'
-p121
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'date unknown'
+p121
 aS'g'
 aS'n'
 aS'i'
@@ -444,12 +502,14 @@ p123
 aS'1962'
 p124
 aS''
-aS'date unknown'
-p125
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p125
 aS'g'
 aS'n'
 aS'i'
@@ -459,12 +519,14 @@ p127
 aS'1962'
 p128
 aS''
-aS'date unknown'
-p129
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'date unknown'
+p129
 aS'g'
 aS'n'
 aS'i'
@@ -474,12 +536,14 @@ p131
 aS'1962'
 p132
 aS''
-aS'date unknown'
-p133
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p133
 aS'g'
 aS'n'
 aS'i'
@@ -489,12 +553,14 @@ p135
 aS'1962'
 p136
 aS''
-aS'date unknown'
-p137
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p137
 aS'g'
 aS'n'
 aS'i'
@@ -504,12 +570,14 @@ p139
 aS'1962'
 p140
 aS''
-aS'date unknown'
-p141
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'date unknown'
+p141
 aS'g'
 aS'n'
 aS'i'
@@ -519,12 +587,14 @@ p143
 aS'1962'
 p144
 aS''
-aS'date unknown'
-p145
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p145
 aS'g'
 aS'n'
 aS'i'
@@ -534,12 +604,14 @@ p147
 aS'1962'
 p148
 aS''
-aS'date unknown'
-p149
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p149
 aS'g'
 aS'n'
 aS'i'
@@ -549,12 +621,14 @@ p151
 aS'1962'
 p152
 aS''
-aS'date unknown'
-p153
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p153
 aS'g'
 aS'n'
 aS'i'
@@ -564,12 +638,14 @@ p155
 aS'1962'
 p156
 aS''
-aS'date unknown'
-p157
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p157
 aS'g'
 aS'n'
 aS'i'
@@ -579,12 +655,14 @@ p159
 aS'1962'
 p160
 aS''
-aS'date unknown'
-p161
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p161
 aS'g'
 aS'n'
 aS'i'
@@ -594,12 +672,14 @@ p163
 aS'1966'
 p164
 aS''
-aS'date unknown'
-p165
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p165
 aS'g'
 aS'n'
 aS'i'
@@ -609,12 +689,14 @@ p167
 aS'1966'
 p168
 aS''
-aS'date unknown'
-p169
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p169
 aS'g'
 aS'n'
 aS'i'
@@ -624,12 +706,14 @@ p171
 aS'1966'
 p172
 aS''
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'4'
 aS'date unknown'
 p173
-aS'4'
-aS'0'
-aS'0'
-aS'4'
 aS'g'
 aS'n'
 aS'i'
@@ -639,12 +723,14 @@ p175
 aS'1966'
 p176
 aS''
-aS'date unknown'
-p177
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p177
 aS'g'
 aS'n'
 aS'i'
@@ -654,12 +740,14 @@ p179
 aS'1966'
 p180
 aS''
-aS'date unknown'
-p181
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p181
 aS'g'
 aS'n'
 aS'i'
@@ -669,12 +757,14 @@ p183
 aS'1966'
 p184
 aS''
-aS'date unknown'
-p185
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p185
 aS'g'
 aS'n'
 aS'i'
@@ -684,12 +774,14 @@ p187
 aS'1966'
 p188
 aS''
-aS'date unknown'
-p189
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p189
 aS'g'
 aS'n'
 aS'i'
@@ -699,12 +791,14 @@ p191
 aS'1966'
 p192
 aS''
-aS'date unknown'
-p193
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p193
 aS'g'
 aS'n'
 aS'i'
@@ -714,12 +808,14 @@ p195
 aS'1966'
 p196
 aS''
-aS'date unknown'
-p197
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p197
 aS'g'
 aS'n'
 aS'i'
@@ -729,12 +825,14 @@ p199
 aS'1966'
 p200
 aS''
-aS'date unknown'
-p201
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p201
 aS'g'
 aS'n'
 aS'i'
@@ -745,12 +843,14 @@ aS'1966'
 p204
 aS'Flanker'
 p205
-aS'date unknown'
-p206
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p206
 aS'g'
 aS'n'
 aS'i'
@@ -760,12 +860,14 @@ p208
 aS'1966'
 p209
 aS''
-aS'date unknown'
-p210
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p210
 aS'g'
 aS'n'
 aS'i'
@@ -775,12 +877,14 @@ p212
 aS'1966'
 p213
 aS''
-aS'date unknown'
-p214
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p214
 aS'g'
 aS'n'
 aS'i'
@@ -790,12 +894,14 @@ p216
 aS'1967'
 p217
 aS''
-aS'date unknown'
-p218
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p218
 aS'g'
 aS'n'
 aS'i'
@@ -805,12 +911,14 @@ p220
 aS'1967'
 p221
 aS''
-aS'date unknown'
-p222
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p222
 aS'g'
 aS'n'
 aS'i'
@@ -820,12 +928,14 @@ p224
 aS'1967'
 p225
 aS''
-aS'date unknown'
-p226
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p226
 aS'g'
 aS'n'
 aS'i'
@@ -835,12 +945,14 @@ p228
 aS'1967'
 p229
 aS''
-aS'date unknown'
-p230
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p230
 aS'g'
 aS'n'
 aS'i'
@@ -850,12 +962,14 @@ p232
 aS'1967'
 p233
 aS''
-aS'date unknown'
-p234
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p234
 aS'g'
 aS'n'
 aS'i'
@@ -865,12 +979,14 @@ p236
 aS'1967'
 p237
 aS''
-aS'date unknown'
-p238
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p238
 aS'g'
 aS'n'
 aS'i'
@@ -880,12 +996,14 @@ p240
 aS'1967'
 p241
 aS''
-aS'date unknown'
-p242
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p242
 aS'g'
 aS'n'
 aS'i'
@@ -895,12 +1013,14 @@ p244
 aS'1967'
 p245
 aS''
-aS'date unknown'
-p246
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p246
 aS'g'
 aS'n'
 aS'i'
@@ -911,12 +1031,14 @@ aS'1967'
 p249
 aS'Prop'
 p250
-aS'date unknown'
-p251
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p251
 aS'g'
 aS'n'
 aS'i'
@@ -926,12 +1048,14 @@ p253
 aS'1970'
 p254
 aS''
-aS'date unknown'
-p255
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p255
 aS'g'
 aS'n'
 aS'i'
@@ -941,12 +1065,14 @@ p257
 aS'1970'
 p258
 aS''
-aS'date unknown'
-p259
 aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p259
 aS'g'
 aS'n'
 aS'i'
@@ -956,12 +1082,14 @@ p261
 aS'1970'
 p262
 aS''
-aS'date unknown'
-p263
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p263
 aS'g'
 aS'n'
 aS'i'
@@ -971,12 +1099,14 @@ p265
 aS'1970'
 p266
 aS''
-aS'date unknown'
-p267
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p267
 aS'g'
 aS'n'
 aS'i'
@@ -986,12 +1116,14 @@ p269
 aS'1970'
 p270
 aS''
-aS'date unknown'
-p271
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p271
 aS'g'
 aS'n'
 aS'i'
@@ -1002,3882 +1134,4247 @@ aS'1970'
 p274
 aS'Centre'
 p275
-aS'circa 1949'
-p276
 aS'22'
-p277
+p276
 aS'7'
+aS'14'
+p277
+aS'1'
 aS'5'
 aS'20'
 p278
-aVPerú
+aS'circa 1949'
 p279
-aVTacna
+aVPerú
 p280
-aVCandarave
+aVTacna
 p281
-aa(lp282
+aVCandarave
+p282
+aa(lp283
 S'K. Myhre'
-p283
-aS'1970'
 p284
-aS''
-aS'date unknown'
+aS'1970'
 p285
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p286
 aS'g'
 aS'n'
 aS'i'
-aa(lp286
+aa(lp287
 S'Doug Schick'
-p287
-aS'1970'
 p288
-aS'Centre'
+aS'1970'
 p289
-aS'date unknown'
+aS'Centre'
 p290
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p291
 aS'g'
 aS'n'
 aS'i'
-aa(lp291
+aa(lp292
 S'W. Thomson'
-p292
-aS'1970'
 p293
-aS''
-aS'date unknown'
+aS'1970'
 p294
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p295
 aS'g'
 aS'n'
 aS'i'
-aa(lp295
+aa(lp296
 S'Jordan Allers'
-p296
-aS'1971'
 p297
-aS''
-aS'date unknown'
+aS'1971'
 p298
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p299
 aS'g'
 aS'n'
 aS'i'
-aa(lp299
+aa(lp300
 S'Mike Ashton'
-p300
-aS'1971'
 p301
-aS''
-aS'date unknown'
+aS'1971'
 p302
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p303
 aS'g'
 aS'n'
 aS'i'
-aa(lp303
+aa(lp304
 S'G. Henrikson'
-p304
-aS'1971'
 p305
-aS''
-aS'date unknown'
+aS'1971'
 p306
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp307
-S'D.V. Pahl'
-p308
-aS'1971'
-p309
 aS''
-aS'date unknown'
-p310
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p307
 aS'g'
 aS'n'
 aS'i'
-aa(lp311
-S'Dave Slater'
-p312
+aa(lp308
+S'D.V. Pahl'
+p309
 aS'1971'
-p313
-aS'Scrum-half'
-p314
+p310
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
+p311
+aS'g'
+aS'n'
+aS'i'
+aa(lp312
+S'Dave Slater'
+p313
+aS'1971'
+p314
+aS'Scrum-half'
 p315
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p316
 aS'g'
 aS'n'
 aS'i'
-aa(lp316
+aa(lp317
 S'Andy Stanton'
-p317
-aS'1971'
 p318
-aS'Wing'
+aS'1971'
 p319
-aS'date unknown'
+aS'Wing'
 p320
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p321
 aS'g'
 aS'n'
 aS'i'
-aa(lp321
+aa(lp322
 S'F.J. Sturrock'
-p322
-aS'1971'
 p323
-aS''
-aS'date unknown'
+aS'1971'
 p324
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p325
 aS'g'
 aS'n'
 aS'i'
-aa(lp325
+aa(lp326
 S'Ken Wilke'
-p326
-aS'1971'
 p327
-aS''
-aS'date unknown'
+aS'1971'
 p328
+aS''
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p329
 aS'g'
 aS'n'
 aS'i'
-aa(lp329
+aa(lp330
 S'S. Barber'
-p330
-aS'1973'
 p331
-aS''
-aS'date unknown'
+aS'1973'
 p332
+aS''
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p333
 aS'g'
 aS'n'
 aS'i'
-aa(lp333
+aa(lp334
 S'Tim Blackwell'
-p334
-aS'1973'
 p335
-aS''
-aS'date unknown'
+aS'1973'
 p336
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p337
 aS'g'
 aS'n'
 aS'i'
-aa(lp337
+aa(lp338
 S'N. Browne'
-p338
-aS'1973'
 p339
-aS''
-aS'date unknown'
+aS'1973'
 p340
+aS''
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p341
 aS'g'
 aS'n'
 aS'i'
-aa(lp341
+aa(lp342
 S'F. Deacy'
-p342
-aS'1973'
 p343
-aS''
-aS'date unknown'
+aS'1973'
 p344
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'8'
+aS'date unknown'
+p345
 aS'g'
 aS'n'
 aS'i'
-aa(lp345
+aa(lp346
 S'Dave Docherty'
-p346
-aS'1973'
 p347
-aS''
-aS'date unknown'
+aS'1973'
 p348
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p349
 aS'g'
 aS'n'
 aS'i'
-aa(lp349
+aa(lp350
 S'G. Ellwand'
-p350
-aS'1973'
 p351
-aS''
-aS'date unknown'
+aS'1973'
 p352
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p353
 aS'g'
 aS'n'
 aS'i'
-aa(lp353
+aa(lp354
 S'G. Greig'
-p354
-aS'1973'
 p355
-aS''
-aS'date unknown'
+aS'1973'
 p356
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p357
 aS'g'
 aS'n'
 aS'i'
-aa(lp357
+aa(lp358
 S'G. Gudmunseth'
-p358
-aS'1973'
 p359
-aS''
-aS'date unknown'
+aS'1973'
 p360
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp361
-S'L. Hillier'
-p362
-aS'1973'
-p363
 aS''
-aS'date unknown'
-p364
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p361
 aS'g'
 aS'n'
 aS'i'
-aa(lp365
-S'Ro Hindson'
-p366
+aa(lp362
+S'L. Hillier'
+p363
 aS'1973'
+p364
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p365
+aS'g'
+aS'n'
+aS'i'
+aa(lp366
+S'Ro Hindson'
 p367
-aS'Lock'
+aS'1973'
 p368
-aS'Durban'
+aS'Lock'
 p369
 aS'31'
 p370
 aS'9'
+aS'21'
+p371
+aS'1'
 aS'0'
 aS'9'
-aVSouth Africa
-p371
-aVKwaZulu-Natal
+aS'Durban'
 p372
-aVeThekwini Metropolitan Municipality
+aVSouth Africa
 p373
-aa(lp374
-S'Barry Legh'
+aVKwaZulu-Natal
+p374
+aVeThekwini Metropolitan Municipality
 p375
-aS'1973'
-p376
-aS'Fullback'
+aa(lp376
+S'Barry Legh'
 p377
-aS'date unknown'
+aS'1973'
 p378
+aS'Fullback'
+p379
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p380
 aS'g'
 aS'n'
 aS'i'
-aa(lp379
+aa(lp381
 S'H. Wyndham'
-p380
-aS'1973'
-p381
-aS''
-aS'date unknown'
 p382
+aS'1973'
+p383
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'2'
 aS'8'
+aS'date unknown'
+p384
 aS'g'
 aS'n'
 aS'i'
-aa(lp383
+aa(lp385
 S'R. McGeein'
-p384
-aS'1973'
-p385
-aS''
-aS'date unknown'
 p386
+aS'1973'
+p387
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p388
 aS'g'
 aS'n'
 aS'i'
-aa(lp387
+aa(lp389
 S'John Billingsley'
-p388
-aS'1974'
-p389
-aS'Fly-half'
 p390
-aS'BC'
+aS'1974'
 p391
+aS'Fly-half'
+p392
 aS'9'
 aS'4'
+aS'5'
 aS'0'
 aS'0'
-aVCanada
-p392
-aVBritish Columbia
+aS'0'
+aS'BC'
 p393
-aS'Missing'
+aVCanada
 p394
-aa(lp395
-S'Hans de Goede'
+aVBritish Columbia
+p395
+aS'Missing'
 p396
-aS'1974'
-p397
-aS'Lock'
+aa(lp397
+S'Hans de Goede'
 p398
-aS'Netherland'
+aS'1974'
 p399
-aS'24'
+aS'Lock'
 p400
+aS'24'
+p401
 aS'8'
+aS'15'
+p402
+aS'1'
 aS'2'
 aS'8'
-aVPhilippines
-p401
-aV4023
-p402
-aVCalabarzon
+aS'Netherland'
 p403
-aa(lp404
-S'Alan Douglas'
+aVPhilippines
+p404
+aV4023
 p405
-aS'1974'
+aVCalabarzon
 p406
-aS'Prop'
-p407
-aS'date unknown'
+aa(lp407
+S'Alan Douglas'
 p408
+aS'1974'
+p409
+aS'Prop'
+p410
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p411
 aS'g'
 aS'n'
 aS'i'
-aa(lp409
+aa(lp412
 S'M.A. Eckardt'
-p410
+p413
 aS'1974'
-p411
+p414
 aS''
-aS'date unknown'
-p412
 aS'5'
 aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp413
-S'P. Howlett'
-p414
-aS'1974'
-p415
-aS''
-aS'date unknown'
-p416
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp417
-S'A. Kingham'
-p418
-aS'1974'
-p419
-aS''
-aS'date unknown'
-p420
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp421
-S'Mike Luke'
-p422
-aS'1974'
-p423
-aS'Hooker'
-p424
-aS'Cornwall'
-p425
-aS'16'
-p426
 aS'4'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p427
-aVEngland
-p428
-aVSouth West England
-p429
-aa(lp430
-S'J. McDonald'
-p431
-aS'1974'
-p432
-aS''
+aS'0'
 aS'date unknown'
-p433
+p415
+aS'g'
+aS'n'
+aS'i'
+aa(lp416
+S'P. Howlett'
+p417
+aS'1974'
+p418
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p419
 aS'g'
 aS'n'
 aS'i'
+aa(lp420
+S'A. Kingham'
+p421
+aS'1974'
+p422
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p423
+aS'g'
+aS'n'
+aS'i'
+aa(lp424
+S'Mike Luke'
+p425
+aS'1974'
+p426
+aS'Hooker'
+p427
+aS'16'
+p428
+aS'4'
+aS'11'
+p429
+aS'1'
+aS'0'
+aS'0'
+aS'Cornwall'
+p430
+aVUnited Kingdom
+p431
+aVEngland
+p432
+aVSouth West England
+p433
 aa(lp434
-S'Peter Mason'
+S'J. McDonald'
 p435
 aS'1974'
 p436
-aS'Fullback'
-p437
-aS'date unknown'
-p438
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p437
 aS'g'
 aS'n'
 aS'i'
-aa(lp439
-S'Geoff Relph'
-p440
+aa(lp438
+S'Peter Mason'
+p439
 aS'1974'
+p440
+aS'Fullback'
 p441
-aS'Centre'
-p442
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p443
+p442
+aS'g'
+aS'n'
+aS'i'
+aa(lp443
+S'Geoff Relph'
+p444
+aS'1974'
+p445
+aS'Centre'
+p446
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p447
 aS'g'
 aS'n'
 aS'i'
-aa(lp444
+aa(lp448
 S'David Whyte'
-p445
+p449
 aS'1974'
-p446
+p450
 aS'Wing'
-p447
-aS'date unknown'
-p448
+p451
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'1'
 aS'9'
+aS'date unknown'
+p452
 aS'g'
 aS'n'
 aS'i'
-aa(lp449
+aa(lp453
 S'Mike Alder'
-p450
+p454
 aS'1976'
-p451
+p455
 aS'Fly-half'
-p452
-aS'date unknown'
-p453
+p456
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp454
-S'I. Fleming'
-p455
-aS'1976'
-p456
-aS''
 aS'date unknown'
 p457
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp458
-S'C.E. le Fevre'
+S'I. Fleming'
 p459
 aS'1976'
 p460
 aS''
-aS'date unknown'
-p461
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p461
 aS'g'
 aS'n'
 aS'i'
 aa(lp462
-S'D.L.J. Quigley'
+S'C.E. le Fevre'
 p463
 aS'1976'
 p464
 aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p465
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp466
-S'A. Scott'
+S'D.L.J. Quigley'
 p467
 aS'1976'
 p468
 aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p469
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp470
-S'C. Walt'
+S'A. Scott'
 p471
 aS'1976'
 p472
 aS''
-aS'date unknown'
-p473
-aS'6'
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p473
 aS'g'
 aS'n'
 aS'i'
 aa(lp474
-S'Keith Wilkinson'
+S'C. Walt'
 p475
 aS'1976'
 p476
-aS'Centre'
-p477
+aS''
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p478
+p477
+aS'g'
+aS'n'
+aS'i'
+aa(lp478
+S'Keith Wilkinson'
+p479
+aS'1976'
+p480
+aS'Centre'
+p481
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp479
-S'A. Bauer'
-p480
-aS'1977'
-p481
-aS''
 aS'date unknown'
 p482
-aS'5'
-aS'2'
-aS'1'
-aS'4'
 aS'g'
 aS'n'
 aS'i'
 aa(lp483
-S'Bill Collins'
+S'A. Bauer'
 p484
 aS'1977'
 p485
 aS''
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
 aS'date unknown'
 p486
-aS'2'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp487
-S'M.J.W. Dandy'
+S'Bill Collins'
 p488
 aS'1977'
 p489
-aS'Wing'
-p490
-aS'date unknown'
-p491
-aS'3'
+aS''
+aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p490
 aS'g'
 aS'n'
 aS'i'
-aa(lp492
-S'D.C. Eburne'
-p493
+aa(lp491
+S'M.J.W. Dandy'
+p492
 aS'1977'
+p493
+aS'Wing'
 p494
-aS''
-aS'date unknown'
-p495
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p495
 aS'g'
 aS'n'
 aS'i'
 aa(lp496
-S'G.G. Gonis'
+S'D.C. Eburne'
 p497
 aS'1977'
 p498
 aS''
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p499
-aS'4'
-aS'1'
-aS'1'
-aS'9'
 aS'g'
 aS'n'
 aS'i'
 aa(lp500
-S'Robbie Greig'
+S'G.G. Gonis'
 p501
 aS'1977'
 p502
 aS''
-aS'Vancouver'
-p503
-aS'10'
-p504
 aS'4'
-aS'2'
-aS'8'
-aVCanada
-p505
-aVBritish Columbia
-p506
-aVGreater Vancouver Regional District
-p507
-aa(lp508
-S'Preston Wiley'
-p509
-aS'1977'
-p510
-aS''
-aS'Vancouver'
-p511
-aS'10'
-p512
-aS'4'
-aS'0'
-aS'22'
-p513
-aVCanada
-p514
-aVBritish Columbia
-p515
-aVGreater Vancouver Regional District
-p516
-aa(lp517
-S'F. Carson'
-p518
-aS'1977'
-p519
-aS''
-aS'date unknown'
-p520
 aS'1'
+aS'3'
 aS'0'
-aS'0'
-aS'0'
+aS'1'
+aS'9'
+aS'date unknown'
+p503
 aS'g'
 aS'n'
 aS'i'
+aa(lp504
+S'Robbie Greig'
+p505
+aS'1977'
+p506
+aS''
+aS'10'
+p507
+aS'4'
+aS'6'
+aS'0'
+aS'2'
+aS'8'
+aS'Vancouver'
+p508
+aVCanada
+p509
+aVBritish Columbia
+p510
+aVGreater Vancouver Regional District
+p511
+aa(lp512
+S'Preston Wiley'
+p513
+aS'1977'
+p514
+aS''
+aS'10'
+p515
+aS'4'
+aS'6'
+aS'0'
+aS'0'
+aS'22'
+p516
+aS'Vancouver'
+p517
+aVCanada
+p518
+aVBritish Columbia
+p519
+aVGreater Vancouver Regional District
+p520
 aa(lp521
-S'Garry Hirayama'
+S'F. Carson'
 p522
 aS'1977'
 p523
-aS'Fly-half'
-p524
-aS'Winnipeg'
-p525
-aS'12'
-p526
-aS'3'
-aS'0'
-aS'0'
-aVCanada
-p527
-aVManitoba
-p528
-aVWinnipeg
-p529
-aa(lp530
-S'Gary Grant'
-p531
-aS'1977'
-p532
 aS''
-aS'date unknown'
-p533
-aS'6'
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p524
 aS'g'
 aS'n'
 aS'i'
+aa(lp525
+S'Garry Hirayama'
+p526
+aS'1977'
+p527
+aS'Fly-half'
+p528
+aS'12'
+p529
+aS'3'
+aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS'Winnipeg'
+p530
+aVCanada
+p531
+aVManitoba
+p532
+aVWinnipeg
+p533
 aa(lp534
-S'S. Wood'
+S'Gary Grant'
 p535
 aS'1977'
 p536
 aS''
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p537
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp538
-S'E.R. Stapleton'
+S'S. Wood'
 p539
-aS'1978'
+aS'1977'
 p540
 aS''
-aS'date unknown'
-p541
-aS'2'
+aS'1'
 aS'0'
 aS'1'
-aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p541
 aS'g'
 aS'n'
 aS'i'
 aa(lp542
-S'Michael Williams'
+S'E.R. Stapleton'
 p543
 aS'1978'
 p544
-aS'Centre'
-p545
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
 aS'date unknown'
-p546
+p545
+aS'g'
+aS'n'
+aS'i'
+aa(lp546
+S'Michael Williams'
+p547
+aS'1978'
+p548
+aS'Centre'
+p549
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p550
 aS'g'
 aS'n'
 aS'i'
-aa(lp547
+aa(lp551
 S'Jim Donaldson'
-p548
-aS'1978'
-p549
-aS'No. 8'
-p550
-aS'BC'
-p551
-aS'13'
 p552
+aS'1978'
+p553
+aS'No. 8'
+p554
+aS'13'
+p555
 aS'5'
+aS'7'
+aS'1'
 aS'1'
 aS'7'
-aVCanada
-p553
-aVBritish Columbia
-p554
-ag394
-aa(lp555
-S'G.R. Johnston'
+aS'BC'
 p556
-aS'1978'
+aVCanada
 p557
-aS''
-aS'date unknown'
+aVBritish Columbia
 p558
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
+ag396
 aa(lp559
-S'K.J. Peace'
+S'G.R. Johnston'
 p560
 aS'1978'
 p561
 aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p562
-aS'5'
-aS'2'
-aS'1'
-aS'4'
 aS'g'
 aS'n'
 aS'i'
 aa(lp563
-S'J.D. Shaw'
+S'K.J. Peace'
 p564
 aS'1978'
 p565
 aS''
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
 aS'date unknown'
 p566
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp567
-S'Graham Taylor'
+S'J.D. Shaw'
 p568
 aS'1978'
 p569
-aS'Fullback'
-p570
-aS'Vancouver'
-p571
-aS'10'
-p572
-aS'5'
-aS'0'
-aS'8'
-aVCanada
-p573
-aVBritish Columbia
-p574
-aVGreater Vancouver Regional District
-p575
-aa(lp576
-S'Larry Chung'
-p577
-aS'1978'
-p578
 aS''
-aS'date unknown'
-p579
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p570
 aS'g'
 aS'n'
 aS'i'
+aa(lp571
+S'Graham Taylor'
+p572
+aS'1978'
+p573
+aS'Fullback'
+p574
+aS'10'
+p575
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'8'
+aS'Vancouver'
+p576
+aVCanada
+p577
+aVBritish Columbia
+p578
+aVGreater Vancouver Regional District
+p579
 aa(lp580
-S'D.G. van Eeuwen'
+S'Larry Chung'
 p581
 aS'1978'
 p582
 aS''
-aS'date unknown'
-p583
-aS'2'
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p583
 aS'g'
 aS'n'
 aS'i'
 aa(lp584
-S'Andrew Bibby'
+S'D.G. van Eeuwen'
 p585
-aS'1979'
+aS'1978'
 p586
-aS'Centre'
-p587
-aS'Barnet'
-p588
-aS'9'
-aS'3'
-aS'1'
-aS'7'
-aVUnited Kingdom
-p589
-aVEN4 8RW
-p590
-aVEngland
-p591
-aa(lp592
-S'Robin Russell'
-p593
-aS'1979'
-p594
 aS''
-aS'date unknown'
-p595
-aS'4'
+aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p587
 aS'g'
 aS'n'
 aS'i'
+aa(lp588
+S'Andrew Bibby'
+p589
+aS'1979'
+p590
+aS'Centre'
+p591
+aS'9'
+aS'3'
+aS'6'
+aS'0'
+aS'1'
+aS'7'
+aS'Barnet'
+p592
+aVUnited Kingdom
+p593
+aVEN4 8RW
+p594
+aVEngland
+p595
 aa(lp596
-S'Ron McInnes'
+S'Robin Russell'
 p597
 aS'1979'
 p598
-aS'Prop'
-p599
-aS'Saskatoon'
-p600
-aS'13'
-p601
-aS'4'
-aS'0'
-aS'0'
-aVCanada
-p602
-aVSaskatchewan
-p603
-aVSaskatoon
-p604
-aa(lp605
-S'Dave Sinnott'
-p606
-aS'1979'
-p607
 aS''
-aS'date unknown'
-p608
-aS'3'
+aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p599
 aS'g'
 aS'n'
 aS'i'
-aa(lp609
-S'Don Carson'
-p610
-aS'1980'
-p611
-aS'Flanker'
-p612
-aS'New Westminster'
-p613
-aS'10'
-p614
-aS'3'
-aS'0'
-aS'0'
-aVCanada
-p615
-aVBritish Columbia
-p616
-aVGreater Vancouver Regional District
-p617
-aa(lp618
-S'Gary Dukelow'
-p619
-aS'1980'
-p620
+aa(lp600
+S'Ron McInnes'
+p601
+aS'1979'
+p602
 aS'Prop'
-p621
-aS'Terrace'
-p622
-aS'14'
-p623
+p603
+aS'13'
+p604
 aS'4'
+aS'8'
+aS'1'
 aS'0'
 aS'0'
+aS'Saskatoon'
+p605
 aVCanada
-p624
-aVBritish Columbia
-p625
-aVRegional District of Kitimat-Stikine
-p626
-aa(lp627
-S'Mark Schiefler'
-p628
-aS'1980'
-p629
+p606
+aVSaskatchewan
+p607
+aVSaskatoon
+p608
+aa(lp609
+S'Dave Sinnott'
+p610
+aS'1979'
+p611
 aS''
-aS'Dawson Creek'
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p612
+aS'g'
+aS'n'
+aS'i'
+aa(lp613
+S'Don Carson'
+p614
+aS'1980'
+p615
+aS'Flanker'
+p616
+aS'10'
+p617
+aS'3'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'New Westminster'
+p618
+aVCanada
+p619
+aVBritish Columbia
+p620
+aVGreater Vancouver Regional District
+p621
+aa(lp622
+S'Gary Dukelow'
+p623
+aS'1980'
+p624
+aS'Prop'
+p625
+aS'14'
+p626
+aS'4'
+aS'9'
+aS'1'
+aS'0'
+aS'0'
+aS'Terrace'
+p627
+aVCanada
+p628
+aVBritish Columbia
+p629
+aVRegional District of Kitimat-Stikine
 p630
+aa(lp631
+S'Mark Schiefler'
+p632
+aS'1980'
+p633
+aS''
 aS'9'
 aS'3'
+aS'5'
+aS'1'
 aS'0'
 aS'12'
-p631
-aVCanada
-p632
-aVBritish Columbia
-p633
-aVPeace River Regional District
 p634
-aa(lp635
-S'Chuck Shergold'
+aS'Dawson Creek'
+p635
+aVCanada
 p636
-aS'1980'
-p637
-aS''
-aS'BC'
-p638
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVCanada
-p639
 aVBritish Columbia
+p637
+aVPeace River Regional District
+p638
+aa(lp639
+S'Chuck Shergold'
 p640
-ag394
-aa(lp641
-S'John Phelan'
-p642
 aS'1980'
-p643
+p641
 aS''
-aS'Alberta'
-p644
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aVCanada
-p645
-aVAlberta
-p646
-ag394
-aa(lp647
-S'Garland Jennings'
-p648
-aS'1981'
-p649
-aS'Lock'
-p650
-aS'Newfdld'
-p651
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp652
-S'Charlie MacLaghlan'
-p653
-aS'1981'
-p654
-aS'Hooker'
-p655
-aS'date unknown'
-p656
 aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp657
-S'Ian MacMillan'
-p658
-aS'1981'
-p659
-aS'Scrum-half'
-p660
-aS'Toronto'
-p661
-aS'9'
 aS'2'
-aS'0'
-aS'0'
-aVCanada
-p662
-aVOntario
-p663
-aVToronto
-p664
-aa(lp665
-S'Jim Moyes'
-p666
-aS'1981'
-p667
-aS'Centre'
-p668
-aS'Bournemouth'
-p669
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p670
-aVEngland
-p671
-aVSouth West England
-p672
-aa(lp673
-S'Bill Spofford'
-p674
-aS'1981'
-p675
-aS''
-aS'date unknown'
-p676
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'BC'
+p642
+aVCanada
+p643
+aVBritish Columbia
+p644
+ag396
+aa(lp645
+S'John Phelan'
+p646
+aS'1980'
+p647
+aS''
+aS'5'
+aS'0'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Alberta'
+p648
+aVCanada
+p649
+aVAlberta
+p650
+ag396
+aa(lp651
+S'Garland Jennings'
+p652
+aS'1981'
+p653
+aS'Lock'
+p654
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Newfdld'
+p655
 aS'g'
 aS'n'
 aS'i'
+aa(lp656
+S'Charlie MacLaghlan'
+p657
+aS'1981'
+p658
+aS'Hooker'
+p659
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p660
+aS'g'
+aS'n'
+aS'i'
+aa(lp661
+S'Ian MacMillan'
+p662
+aS'1981'
+p663
+aS'Scrum-half'
+p664
+aS'9'
+aS'2'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'Toronto'
+p665
+aVCanada
+p666
+aVOntario
+p667
+aVToronto
+p668
+aa(lp669
+S'Jim Moyes'
+p670
+aS'1981'
+p671
+aS'Centre'
+p672
+aS'5'
+aS'0'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Bournemouth'
+p673
+aVUnited Kingdom
+p674
+aVEngland
+p675
+aVSouth West England
+p676
 aa(lp677
-S'Jamie Hawthorn'
+S'Bill Spofford'
 p678
-aS'1982'
+aS'1981'
 p679
-aS'Wing'
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p680
-aS'Vancouver'
-p681
+aS'g'
+aS'n'
+aS'i'
+aa(lp681
+S'Jamie Hawthorn'
+p682
+aS'1982'
+p683
+aS'Wing'
+p684
 aS'6'
 aS'2'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'Vancouver'
+p685
 aVCanada
-p682
-aVBritish Columbia
-p683
-aVGreater Vancouver Regional District
-p684
-aa(lp685
-S'Evan Jones'
 p686
-aS'1982'
+aVBritish Columbia
 p687
-aS'No. 8'
+aVGreater Vancouver Regional District
 p688
-aS'date unknown'
-p689
+aa(lp689
+S'Evan Jones'
+p690
+aS'1982'
+p691
+aS'No. 8'
+p692
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p693
 aS'g'
 aS'n'
 aS'i'
-aa(lp690
+aa(lp694
 S'Paul Monaghan'
-p691
+p695
 aS'1982'
-p692
+p696
 aS'Centre'
-p693
-aS'BC'
-p694
+p697
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVCanada
-p695
-aVBritish Columbia
-p696
-ag394
-aa(lp697
-S'Mark Wyatt'
+aS'BC'
 p698
-aS'1982'
+aVCanada
 p699
-aS'Fullback'
+aVBritish Columbia
 p700
-aS'1961'
-p701
-aS'29'
+ag396
+aa(lp701
+S'Mark Wyatt'
 p702
-aS'13'
+aS'1982'
 p703
+aS'Fullback'
+p704
+aS'29'
+p705
+aS'13'
+p706
+aS'15'
+p707
+aS'1'
 aS'2'
 aS'234'
-p704
-aVSverige
-p705
-aVSvealand
-p706
-aVVästmanlands län
-p707
-aa(lp708
-S'Tony Godziek'
+p708
+aS'1961'
 p709
-aS'1982'
+aVSverige
 p710
-aS'Flanker'
+aVSvealand
 p711
-aS'Oakville'
+aVVästmanlands län
 p712
+aa(lp713
+S'Tony Godziek'
+p714
+aS'1982'
+p715
+aS'Flanker'
+p716
 aS'8'
 aS'2'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
-aVCanada
-p713
-aVOntario
-p714
-aVOakville
-p715
-aa(lp716
-S'John Lecky'
+aS'Oakville'
 p717
-aS'1982'
+aVCanada
 p718
-aS'Centre'
+aVOntario
 p719
-aS'Winnepeg'
+aVOakville
 p720
+aa(lp721
+S'John Lecky'
+p722
+aS'1982'
+p723
+aS'Centre'
+p724
 aS'18'
-p721
+p725
 aS'9'
+aS'8'
+aS'1'
 aS'1'
 aS'4'
-aVUnited States of America
-p722
-aV80910
-p723
-aVColorado
-p724
-aa(lp725
-S'Bernie Bonenberg'
+aS'Winnepeg'
 p726
-aS'1983'
+aVUnited States of America
 p727
-aS'Hooker'
+aV80910
 p728
-aS'date unknown'
+aVColorado
 p729
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
 aa(lp730
-S'F. Forster'
+S'Bernie Bonenberg'
 p731
 aS'1983'
 p732
-aS'Wing'
+aS'Hooker'
 p733
-aS'date unknown'
-p734
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p734
 aS'g'
 aS'n'
 aS'i'
 aa(lp735
-S'P.J. MacLean'
+S'F. Forster'
 p736
 aS'1983'
 p737
-aS'Fly-half'
+aS'Wing'
 p738
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p739
-aS'4'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp740
-S'McLean'
+S'P.J. MacLean'
 p741
 aS'1983'
 p742
 aS'Fly-half'
 p743
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p744
-aS'1'
-aS'1'
-aS'0'
-aS'3'
 aS'g'
 aS'n'
 aS'i'
 aa(lp745
-S'Ross Breen'
+S'McLean'
 p746
 aS'1983'
 p747
-aS'Prop'
+aS'Fly-half'
 p748
-aS'circa 1957'
-p749
-aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVPerú
-p750
-aVTacna
-p751
-aVCandarave
-p752
-aa(lp753
-S'Z. Cvitak'
-p754
-aS'1983'
-p755
-aS'Flanker'
-p756
+aS'0'
+aS'3'
 aS'date unknown'
-p757
-aS'1'
-aS'0'
-aS'0'
-aS'0'
+p749
 aS'g'
 aS'n'
 aS'i'
-aa(lp758
-S'Jim Delaney'
-p759
+aa(lp750
+S'Ross Breen'
+p751
 aS'1983'
-p760
-aS'Centre'
-p761
-aS'date unknown'
-p762
+p752
+aS'Prop'
+p753
+aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'circa 1957'
+p754
+aVPerú
+p755
+aVTacna
+p756
+aVCandarave
+p757
+aa(lp758
+S'Z. Cvitak'
+p759
+aS'1983'
+p760
+aS'Flanker'
+p761
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p762
 aS'g'
 aS'n'
 aS'i'
 aa(lp763
-S'G. Fraser'
+S'Jim Delaney'
 p764
 aS'1983'
 p765
 aS'Centre'
 p766
-aS'date unknown'
-p767
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p767
 aS'g'
 aS'n'
 aS'i'
 aa(lp768
-S'Cliff Jones'
+S'G. Fraser'
 p769
 aS'1983'
 p770
-aS''
-aS'date unknown'
+aS'Centre'
 p771
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p772
+aS'g'
+aS'n'
+aS'i'
+aa(lp773
+S'Cliff Jones'
+p774
+aS'1983'
+p775
+aS''
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp772
-S'Pat Palmer'
-p773
-aS'1983'
-p774
-aS'Wing'
-p775
-aS'Vancouver'
-p776
-aS'17'
-p777
-aS'8'
-aS'9'
-aS'36'
-p778
-aVCanada
-p779
-aVBritish Columbia
-p780
-aVGreater Vancouver Regional District
-p781
-aa(lp782
-S'R. Strang'
-p783
-aS'1983'
-p784
-aS'Lock'
-p785
-aS'date unknown'
-p786
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p776
 aS'g'
 aS'n'
 aS'i'
+aa(lp777
+S'Pat Palmer'
+p778
+aS'1983'
+p779
+aS'Wing'
+p780
+aS'17'
+p781
+aS'8'
+aS'9'
+aS'0'
+aS'9'
+aS'36'
+p782
+aS'Vancouver'
+p783
+aVCanada
+p784
+aVBritish Columbia
+p785
+aVGreater Vancouver Regional District
+p786
 aa(lp787
-S'John Vivian'
+S'R. Strang'
 p788
 aS'1983'
 p789
-aS'Hooker'
+aS'Lock'
 p790
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p791
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp792
-S'Steve Gray'
+S'John Vivian'
 p793
-aS'1984'
+aS'1983'
 p794
-aS'Centre'
+aS'Hooker'
 p795
-aS'Ottawa'
-p796
-aS'47'
-p797
-aS'25'
-p798
-aS'6'
-aS'26'
-p799
-aVCanada
-p800
-aVOntario
-p801
-aVOttawa
-p802
-aa(lp803
-S'Matt Kokan'
-p804
-aS'1984'
-p805
-aS'Lock'
-p806
-aS'date unknown'
-p807
-aS'3'
-aS'1'
+aS'2'
 aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp808
-S'P.A. Kyle'
-p809
-aS'1984'
-p810
-aS''
-aS'date unknown'
-p811
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp812
-S'Ian Stuart'
-p813
-aS'1984'
-p814
-aS'Centre'
-p815
-aS'Vancouver'
-p816
-aS'21'
-p817
-aS'9'
-aS'3'
-aS'13'
-p818
-aVCanada
-p819
-aVBritish Columbia
-p820
-aVGreater Vancouver Regional District
-p821
-aa(lp822
-S'Tom Woods'
-p823
-aS'1984'
-p824
-aS'Centre'
-p825
-aS'Victoria'
-p826
-aS'19'
-p827
-aS'8'
-aS'1'
-aS'5'
-aVAustralia
-p828
-aVVictoria
-p829
-ag394
-aa(lp830
-S'Norman Carr'
-p831
-aS'1985'
-p832
-aS'Centre'
-p833
-aS'1960'
-p834
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+aS'date unknown'
+p796
+aS'g'
+aS'n'
+aS'i'
+aa(lp797
+S'Steve Gray'
+p798
+aS'1984'
+p799
+aS'Centre'
+p800
+aS'47'
+p801
+aS'25'
+p802
+aS'22'
+p803
+aS'0'
+aS'6'
+aS'26'
+p804
+aS'Ottawa'
+p805
+aVCanada
+p806
+aVOntario
+p807
+aVOttawa
+p808
+aa(lp809
+S'Matt Kokan'
+p810
+aS'1984'
+p811
+aS'Lock'
+p812
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p813
+aS'g'
+aS'n'
+aS'i'
+aa(lp814
+S'P.A. Kyle'
+p815
+aS'1984'
+p816
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p817
+aS'g'
+aS'n'
+aS'i'
+aa(lp818
+S'Ian Stuart'
+p819
+aS'1984'
+p820
+aS'Centre'
+p821
+aS'21'
+p822
+aS'9'
+aS'12'
+p823
+aS'0'
+aS'3'
+aS'13'
+p824
+aS'Vancouver'
+p825
+aVCanada
+p826
+aVBritish Columbia
+p827
+aVGreater Vancouver Regional District
+p828
+aa(lp829
+S'Tom Woods'
+p830
+aS'1984'
+p831
+aS'Centre'
+p832
+aS'19'
+p833
+aS'8'
+aS'11'
+p834
+aS'0'
+aS'1'
+aS'5'
+aS'Victoria'
 p835
-aVSétif - \u0633\u0637\u064a\u0641\u200e
+aVAustralia
 p836
-aVDaïra Hammam Sokhna
+aVVictoria
 p837
+ag396
 aa(lp838
-S'Mike Clarkin'
+S'Norman Carr'
 p839
 aS'1985'
 p840
-aS'Wing'
+aS'Centre'
 p841
-aS'date unknown'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1960'
 p842
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp843
-S'Marius Felix'
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p843
+aVSétif - \u0633\u0637\u064a\u0641\u200e
 p844
-aS'1985'
+aVDaïra Hammam Sokhna
 p845
-aS'Lock'
-p846
-aS'date unknown'
+aa(lp846
+S'Mike Clarkin'
 p847
-aS'4'
+aS'1985'
+p848
+aS'Wing'
+p849
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p850
 aS'g'
 aS'n'
 aS'i'
-aa(lp848
-S'Bill Handson'
-p849
-aS'1985'
-p850
-aS'Prop'
-p851
-aS'circa 1955'
+aa(lp851
+S'Marius Felix'
 p852
-aS'9'
-aS'4'
-aS'0'
-aS'0'
-aVPerú
+aS'1985'
 p853
-aVTacna
+aS'Lock'
 p854
-aVCandarave
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p855
+aS'g'
+aS'n'
+aS'i'
 aa(lp856
-S'A.C. McGann'
+S'Bill Handson'
 p857
 aS'1985'
 p858
-aS'Fullback'
+aS'Prop'
 p859
-aS'date unknown'
+aS'9'
+aS'4'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1955'
 p860
+aVPerú
+p861
+aVTacna
+p862
+aVCandarave
+p863
+aa(lp864
+S'A.C. McGann'
+p865
+aS'1985'
+p866
+aS'Fullback'
+p867
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p868
 aS'g'
 aS'n'
 aS'i'
-aa(lp861
-S'Randy McKellar'
-p862
-aS'1985'
-p863
-aS'Prop'
-p864
-aS'circa 1962'
-p865
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVPerú
-p866
-aVTacna
-p867
-aVCandarave
-p868
 aa(lp869
-S'John Robertsen'
+S'Randy McKellar'
 p870
 aS'1985'
 p871
-aS'Lock'
+aS'Prop'
 p872
-aS'East London'
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1962'
 p873
-aS'9'
-aS'5'
-aS'0'
-aS'0'
-aVSouth Africa
+aVPerú
 p874
-aVEastern Cape
+aVTacna
 p875
-aVBuffalo City Metropolitan Municipality
+aVCandarave
 p876
 aa(lp877
-S'Karl Svoboda'
+S'John Robertsen'
 p878
 aS'1985'
 p879
-aS'Hooker'
+aS'Lock'
 p880
-aS'Belleville'
+aS'9'
+aS'5'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'East London'
 p881
-aS'24'
+aVSouth Africa
 p882
-aS'12'
+aVEastern Cape
 p883
-aS'0'
-aS'0'
-aVUnited States of America
+aVBuffalo City Metropolitan Municipality
 p884
-aVIllinois
-p885
-aVSaint Clair County
+aa(lp885
+S'Karl Svoboda'
 p886
-aa(lp887
-S'Dave Tucker'
-p888
 aS'1985'
+p887
+aS'Hooker'
+p888
+aS'24'
 p889
-aS'Scrum-half'
+aS'12'
 p890
-aS'circa 1962'
+aS'12'
 p891
+aS'0'
+aS'0'
+aS'0'
+aS'Belleville'
+p892
+aVUnited States of America
+p893
+aVIllinois
+p894
+aVSaint Clair County
+p895
+aa(lp896
+S'Dave Tucker'
+p897
+aS'1985'
+p898
+aS'Scrum-half'
+p899
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'1'
 aS'4'
-aVPerú
-p892
-aVTacna
-p893
-aVCandarave
-p894
-aa(lp895
-S'Roy Radu'
-p896
-aS'1985'
-p897
-aS'Flanker'
-p898
-aS'Burnaby'
-p899
-aS'12'
+aS'circa 1962'
 p900
-aS'8'
-aS'0'
-aS'0'
-aVCanada
+aVPerú
 p901
-aVBritish Columbia
+aVTacna
 p902
-aVGreater Vancouver Regional District
+aVCandarave
 p903
 aa(lp904
-S'J.D.O. Devlin'
+S'Roy Radu'
 p905
 aS'1985'
 p906
-aS''
-aS'date unknown'
-p907
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp908
-S'E.D. Kettleson'
-p909
-aS'1985'
-p910
-aS''
-aS'date unknown'
-p911
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp912
-S'Gord MacKinnon'
-p913
-aS'1985'
-p914
 aS'Flanker'
+p907
+aS'12'
+p908
+aS'8'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Burnaby'
+p909
+aVCanada
+p910
+aVBritish Columbia
+p911
+aVGreater Vancouver Regional District
+p912
+aa(lp913
+S'J.D.O. Devlin'
+p914
+aS'1985'
 p915
-aS'Glasgow'
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p916
-aS'28'
-p917
-aS'13'
+aS'g'
+aS'n'
+aS'i'
+aa(lp917
+S'E.D. Kettleson'
 p918
+aS'1985'
+p919
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p920
+aS'g'
+aS'n'
+aS'i'
+aa(lp921
+S'Gord MacKinnon'
+p922
+aS'1985'
+p923
+aS'Flanker'
+p924
+aS'28'
+p925
+aS'13'
+p926
+aS'15'
+p927
+aS'0'
 aS'4'
 aS'18'
-p919
+p928
+aS'Glasgow'
+p929
 aVUnited Kingdom
-p920
+p930
 aVG
 aVScotland
-p921
-aa(lp922
+p931
+aa(lp932
 S'Paul Vaesen'
-p923
+p933
 aS'1985'
-p924
+p934
 aS'Centre'
-p925
-aS'circa 1959'
-p926
+p935
 aS'5'
 aS'4'
+aS'1'
+aS'0'
 aS'2'
 aS'8'
-aVPerú
-p927
-aVTacna
-p928
-aVCandarave
-p929
-aa(lp930
-S'Glen Ennis'
-p931
-aS'1986'
-p932
-aS'No. 8'
-p933
-aS'Vancouver'
-p934
-aS'32'
-p935
-aS'18'
+aS'circa 1959'
 p936
+aVPerú
+p937
+aVTacna
+p938
+aVCandarave
+p939
+aa(lp940
+S'Glen Ennis'
+p941
+aS'1986'
+p942
+aS'No. 8'
+p943
+aS'32'
+p944
+aS'18'
+p945
+aS'14'
+p946
+aS'0'
 aS'7'
 aS'28'
-p937
+p947
+aS'Vancouver'
+p948
 aVCanada
-p938
+p949
 aVBritish Columbia
-p939
+p950
 aVGreater Vancouver Regional District
-p940
-aa(lp941
+p951
+aa(lp952
 S'Rob Frame'
-p942
+p953
 aS'1986'
-p943
+p954
 aS'Flanker'
-p944
-aS'circa 1962'
-p945
+p955
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'2'
 aS'8'
-aVPerú
-p946
-aVTacna
-p947
-aVCandarave
-p948
-aa(lp949
-S'Ian Hyde-Lay'
-p950
-aS'1986'
-p951
-aS'Fly-half'
-p952
-aS'circa 1958'
-p953
-aS'3'
-aS'1'
-aS'1'
-aS'7'
-aVPerú
-p954
-aVTacna
-p955
-aVCandarave
+aS'circa 1962'
 p956
-aa(lp957
-S'Eddie Evans'
+aVPerú
+p957
+aVTacna
 p958
-aS'1986'
+aVCandarave
 p959
-aS'Prop'
-p960
-aS'Terrace'
+aa(lp960
+S'Ian Hyde-Lay'
 p961
-aS'49'
+aS'1986'
 p962
-aS'30'
+aS'Fly-half'
 p963
 aS'3'
-aS'14'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'7'
+aS'circa 1958'
 p964
-aVCanada
+aVPerú
 p965
-aVBritish Columbia
+aVTacna
 p966
-aVRegional District of Kitimat-Stikine
+aVCandarave
 p967
 aa(lp968
-S'Gareth Rees'
+S'Eddie Evans'
 p969
 aS'1986'
 p970
-aS'Fullback'
+aS'Prop'
 p971
-aS'Duncan'
+aS'49'
 p972
-aS'55'
+aS'30'
 p973
-aS'31'
-p974
-aS'7'
-aS'491'
-p975
-aVCanada
-p976
-aVBritish Columbia
-p977
-aVCowichan Valley Regional District
-p978
-aa(lp979
-S'Ron van den Brink'
-p980
-aS'1986'
-p981
-aS'Lock'
-p982
-aS'Maple Ridge'
-p983
-aS'8'
-aS'5'
-aS'1'
-aS'4'
-aVCanada
-p984
-aVBritish Columbia
-p985
-aVGreater Vancouver Regional District
-p986
-aa(lp987
-S'Bruce Breen'
-p988
-aS'1986'
-p989
-aS'Flanker'
-p990
-aS'Lethbridge'
-p991
-aS'9'
-aS'7'
-aS'1'
-aS'4'
-aVCanada
-p992
-aVAlberta
-p993
-aVCity of Lethbridge
-p994
-aa(lp995
-S'Mark Cardinal'
-p996
-aS'1986'
-p997
-aS'Hooker'
-p998
-aS'Victoria'
-p999
-aS'35'
-p1000
 aS'19'
-p1001
+p974
+aS'0'
 aS'3'
 aS'14'
-p1002
-aVAustralia
-p1003
-aVVictoria
-p1004
-ag394
-aa(lp1005
-S'Norm Hadley'
-p1006
-aS'1987'
-p1007
-aS'Lock'
-p1008
-aS'Winnipeg'
-p1009
-aS'15'
-p1010
-aS'8'
-aS'0'
-aS'0'
+p975
+aS'Terrace'
+p976
 aVCanada
-p1011
-aVManitoba
-p1012
-aVWinnipeg
-p1013
-aa(lp1014
-S'Mark Holmes'
-p1015
-aS'1987'
-p1016
+p977
+aVBritish Columbia
+p978
+aVRegional District of Kitimat-Stikine
+p979
+aa(lp980
+S'Gareth Rees'
+p981
+aS'1986'
+p982
+aS'Fullback'
+p983
+aS'55'
+p984
+aS'31'
+p985
+aS'24'
+p986
+aS'0'
+aS'7'
+aS'491'
+p987
+aS'Duncan'
+p988
+aVCanada
+p989
+aVBritish Columbia
+p990
+aVCowichan Valley Regional District
+p991
+aa(lp992
+S'Ron van den Brink'
+p993
+aS'1986'
+p994
 aS'Lock'
+p995
+aS'8'
+aS'5'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
+aS'Maple Ridge'
+p996
+aVCanada
+p997
+aVBritish Columbia
+p998
+aVGreater Vancouver Regional District
+p999
+aa(lp1000
+S'Bruce Breen'
+p1001
+aS'1986'
+p1002
+aS'Flanker'
+p1003
+aS'9'
+aS'7'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'Lethbridge'
+p1004
+aVCanada
+p1005
+aVAlberta
+p1006
+aVCity of Lethbridge
+p1007
+aa(lp1008
+S'Mark Cardinal'
+p1009
+aS'1986'
+p1010
+aS'Hooker'
+p1011
+aS'35'
+p1012
+aS'19'
+p1013
+aS'16'
+p1014
+aS'0'
+aS'3'
+aS'14'
+p1015
+aS'Victoria'
+p1016
+aVAustralia
 p1017
-aS'date unknown'
+aVVictoria
 p1018
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
+ag396
 aa(lp1019
-S'Chris Tynan'
+S'Norm Hadley'
 p1020
 aS'1987'
 p1021
-aS'Scrum-half'
+aS'Lock'
 p1022
-aS'Vancouver'
-p1023
-aS'20'
-p1024
 aS'15'
+p1023
+aS'8'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Winnipeg'
+p1024
+aVCanada
 p1025
+aVManitoba
+p1026
+aVWinnipeg
+p1027
+aa(lp1028
+S'Mark Holmes'
+p1029
+aS'1987'
+p1030
+aS'Lock'
+p1031
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1032
+aS'g'
+aS'n'
+aS'i'
+aa(lp1033
+S'Chris Tynan'
+p1034
+aS'1987'
+p1035
+aS'Scrum-half'
+p1036
+aS'20'
+p1037
+aS'15'
+p1038
+aS'5'
+aS'0'
 aS'4'
 aS'18'
-p1026
-aVCanada
-p1027
-aVBritish Columbia
-p1028
-aVGreater Vancouver Regional District
-p1029
-aa(lp1030
-S'Tony Arthurs'
-p1031
-aS'1988'
-p1032
-aS'Prop'
-p1033
-aS'date unknown'
-p1034
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1035
-S'Stuart Creagh'
-p1036
-aS'1988'
-p1037
-aS'Prop'
-p1038
-aS'date unknown'
 p1039
+aS'Vancouver'
+p1040
+aVCanada
+p1041
+aVBritish Columbia
+p1042
+aVGreater Vancouver Regional District
+p1043
+aa(lp1044
+S'Tony Arthurs'
+p1045
+aS'1988'
+p1046
+aS'Prop'
+p1047
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1048
 aS'g'
 aS'n'
 aS'i'
-aa(lp1040
-S'Chris Fowler'
-p1041
+aa(lp1049
+S'Stuart Creagh'
+p1050
 aS'1988'
-p1042
-aS'Lock'
-p1043
+p1051
+aS'Prop'
+p1052
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p1044
+p1053
+aS'g'
+aS'n'
+aS'i'
+aa(lp1054
+S'Chris Fowler'
+p1055
+aS'1988'
+p1056
+aS'Lock'
+p1057
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1058
 aS'g'
 aS'n'
 aS'i'
-aa(lp1045
+aa(lp1059
 S'A.R. Heaman'
-p1046
+p1060
 aS'1988'
-p1047
+p1061
 aS'Wing'
-p1048
-aS'date unknown'
-p1049
+p1062
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1063
 aS'g'
 aS'n'
 aS'i'
-aa(lp1050
+aa(lp1064
 S'David Speirs'
-p1051
+p1065
 aS'1988'
-p1052
+p1066
 aS'Hooker'
-p1053
-aS'Toronto'
-p1054
+p1067
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Toronto'
+p1068
 aVCanada
-p1055
+p1069
 aVOntario
-p1056
+p1070
 aVToronto
-p1057
-aa(lp1058
+p1071
+aa(lp1072
 S'Shayne Brown'
-p1059
+p1073
 aS'1989'
-p1060
+p1074
 aS'Centre'
-p1061
-aS'1967'
-p1062
+p1075
 aS'2'
 aS'1'
+aS'1'
+aS'0'
 aS'1'
 aS'4'
+aS'1967'
+p1076
 aVDanmark
-p1063
+p1077
 aV1967
-p1064
+p1078
 aVRegion Hovedstaden
-p1065
-aa(lp1066
+p1079
+aa(lp1080
 S'John Graf'
-p1067
+p1081
 aS'1989'
-p1068
+p1082
 aS'Scrum-half'
-p1069
-aS'Vancouver'
-p1070
+p1083
 aS'54'
-p1071
+p1084
 aS'29'
-p1072
+p1085
+aS'25'
+p1086
+aS'0'
 aS'9'
 aS'89'
-p1073
+p1087
+aS'Vancouver'
+p1088
 aVCanada
-p1074
+p1089
 aVBritish Columbia
-p1075
+p1090
 aVGreater Vancouver Regional District
-p1076
-aa(lp1077
+p1091
+aa(lp1092
 S'Bobby Ross'
-p1078
+p1093
 aS'1989'
-p1079
+p1094
 aS'Fly-half'
-p1080
-aS'Victoria'
-p1081
+p1095
 aS'58'
-p1082
+p1096
 aS'30'
-p1083
+p1097
+aS'28'
+p1098
+aS'0'
 aS'7'
 aS'419'
-p1084
+p1099
+aS'Victoria'
+p1100
 aVAustralia
-p1085
+p1101
 aVVictoria
-p1086
-ag394
-aa(lp1087
+p1102
+ag396
+aa(lp1103
 S'Paul Szabo'
-p1088
+p1104
 aS'1989'
-p1089
+p1105
 aS'Prop'
-p1090
-aS'New Westminster'
-p1091
+p1106
 aS'9'
 aS'5'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'New Westminster'
+p1107
 aVCanada
-p1092
+p1108
 aVBritish Columbia
-p1093
+p1109
 aVGreater Vancouver Regional District
-p1094
-aa(lp1095
+p1110
+aa(lp1111
 S'Scott Stewart'
-p1096
+p1112
 aS'1989'
-p1097
+p1113
 aS'Fullback'
-p1098
-aS'Vancouver'
-p1099
+p1114
 aS'64'
-p1100
+p1115
 aS'29'
-p1101
+p1116
+aS'34'
+p1117
+aS'1'
 aS'5'
 aS'84'
-p1102
+p1118
+aS'Vancouver'
+p1119
 aVCanada
-p1103
+p1120
 aVBritish Columbia
-p1104
+p1121
 aVGreater Vancouver Regional District
-p1105
-aa(lp1106
+p1122
+aa(lp1123
 S'Alan Charron'
-p1107
+p1124
 aS'1990'
-p1108
+p1125
 aS'Back-row'
-p1109
-aS'Ottawa'
-p1110
+p1126
 aS'76'
-p1111
+p1127
 aS'40'
-p1112
+p1128
+aS'36'
+p1129
+aS'0'
 aS'9'
 aS'44'
-p1113
+p1130
+aS'Ottawa'
+p1131
 aVCanada
-p1114
+p1132
 aVOntario
-p1115
+p1133
 aVOttawa
-p1116
-aa(lp1117
+p1134
+aa(lp1135
 S'Dave Lougheed'
-p1118
+p1136
 aS'1990'
-p1119
+p1137
 aS'Wing, Centre'
-p1120
-aS'Toronto'
-p1121
+p1138
 aS'34'
-p1122
+p1139
 aS'14'
-p1123
+p1140
+aS'20'
+p1141
+aS'0'
 aS'7'
 aS'35'
-p1124
+p1142
+aS'Toronto'
+p1143
 aVCanada
-p1125
+p1144
 aVOntario
-p1126
+p1145
 aVToronto
-p1127
-aa(lp1128
+p1146
+aa(lp1147
 S'Dan Jackart'
-p1129
+p1148
 aS'1991'
-p1130
+p1149
 aS'Prop'
-p1131
-aS'BC'
-p1132
+p1150
 aS'21'
-p1133
+p1151
 aS'12'
-p1134
+p1152
+aS'9'
+aS'0'
 aS'3'
 aS'15'
-p1135
-aVCanada
-p1136
-aVBritish Columbia
-p1137
-ag394
-aa(lp1138
-S'Christian Stewart'
-p1139
-aS'1991'
-p1140
-aS'Centre'
-p1141
-aS'Toronto'
-p1142
-aS'17'
-p1143
-aS'8'
-aS'2'
-aS'10'
-p1144
-aVCanada
-p1145
-aVOntario
-p1146
-aVToronto
-p1147
-aa(lp1148
-S'Ian Gordon'
-p1149
-aS'1991'
-p1150
-aS'Flanker'
-p1151
-aS'Vancouver'
-p1152
-aS'27'
 p1153
-aS'14'
+aS'BC'
 p1154
-aS'0'
-aS'0'
 aVCanada
 p1155
 aVBritish Columbia
 p1156
-aVGreater Vancouver Regional District
-p1157
-aa(lp1158
-S'Colin McKenzie'
+ag396
+aa(lp1157
+S'Christian Stewart'
+p1158
+aS'1991'
 p1159
-aS'1992'
+aS'Centre'
 p1160
-aS'No. 8'
+aS'17'
 p1161
-aS'Vancouver'
-p1162
-aS'25'
-p1163
-aS'14'
-p1164
+aS'8'
+aS'9'
+aS'0'
 aS'2'
 aS'10'
-p1165
+p1162
+aS'Toronto'
+p1163
 aVCanada
+p1164
+aVOntario
+p1165
+aVToronto
 p1166
-aVBritish Columbia
-p1167
-aVGreater Vancouver Regional District
+aa(lp1167
+S'Ian Gordon'
 p1168
-aa(lp1169
-S'Scott MacKinnon'
+aS'1991'
+p1169
+aS'Flanker'
 p1170
-aS'1992'
+aS'27'
 p1171
-aS'Wing'
+aS'14'
 p1172
-aS'Ont.'
+aS'13'
 p1173
+aS'0'
+aS'0'
+aS'0'
+aS'Vancouver'
+p1174
+aVCanada
+p1175
+aVBritish Columbia
+p1176
+aVGreater Vancouver Regional District
+p1177
+aa(lp1178
+S'Colin McKenzie'
+p1179
+aS'1992'
+p1180
+aS'No. 8'
+p1181
+aS'25'
+p1182
+aS'14'
+p1183
+aS'11'
+p1184
+aS'0'
+aS'2'
+aS'10'
+p1185
+aS'Vancouver'
+p1186
+aVCanada
+p1187
+aVBritish Columbia
+p1188
+aVGreater Vancouver Regional District
+p1189
+aa(lp1190
+S'Scott MacKinnon'
+p1191
+aS'1992'
+p1192
+aS'Wing'
+p1193
 aS'4'
 aS'3'
 aS'1'
-aS'5'
-aVCanada
-p1174
-aVOntario
-p1175
-aVPeel Region
-p1176
-aa(lp1177
-S'Jeff Knauer'
-p1178
-aS'1992'
-p1179
-aS'Lock'
-p1180
-aS'United States'
-p1181
-aS'5'
-aS'3'
 aS'0'
-aS'0'
-aVUnited States of America
-p1182
-ag394
-ag394
-aa(lp1183
-S'M. Williams'
-p1184
-aS'1992'
-p1185
-aS''
-aS'date unknown'
-p1186
-aS'3'
 aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1187
-S'Kevin Wirachowski'
-p1188
-aS'1992'
-p1189
-aS'Prop'
-p1190
-aS'BC'
-p1191
-aS'19'
-p1192
-aS'12'
-p1193
-aS'3'
-aS'15'
+aS'5'
+aS'Ont.'
 p1194
 aVCanada
 p1195
-aVBritish Columbia
-p1196
-ag394
-aa(lp1197
-S'Julian Loveday'
-p1198
-aS'1993'
-p1199
-aS'Wing'
-p1200
-aS'1963'
-p1201
-aS'10'
-p1202
-aS'5'
-aS'1'
-aS'5'
-aVÖsterreich
-p1203
-aV8362
-p1204
-aVSteiermark
-p1205
-aa(lp1206
-S'John Hutchinson'
-p1207
-aS'1993'
-p1208
-aS'Flanker'
-p1209
-aS'Toronto'
-p1210
-aS'50'
-p1211
-aS'23'
-p1212
-aS'8'
-aS'40'
-p1213
-aVCanada
-p1214
 aVOntario
-p1215
-aVToronto
-p1216
-aa(lp1217
-S'Chris Whittaker'
-p1218
-aS'1993'
-p1219
+p1196
+aVPeel Region
+p1197
+aa(lp1198
+S'Jeff Knauer'
+p1199
+aS'1992'
+p1200
 aS'Lock'
-p1220
-aS'Victoria'
-p1221
-aS'16'
-p1222
-aS'9'
-aS'1'
+p1201
 aS'5'
-aVAustralia
-p1223
-aVVictoria
-p1224
-ag394
-aa(lp1225
-S'Ian Kennedy'
-p1226
-aS'1993'
-p1227
-aS'Hooker'
-p1228
-aS'date unknown'
-p1229
+aS'3'
 aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p1202
+aVUnited States of America
+p1203
+ag396
+ag396
+aa(lp1204
+S'M. Williams'
+p1205
+aS'1992'
+p1206
+aS''
+aS'3'
 aS'1'
-aS'1'
-aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1207
 aS'g'
 aS'n'
 aS'i'
-aa(lp1230
-S'Ian MacKay'
-p1231
-aS'1993'
-p1232
-aS'Scrum-half'
-p1233
+aa(lp1208
+S'Kevin Wirachowski'
+p1209
+aS'1992'
+p1210
+aS'Prop'
+p1211
+aS'19'
+p1212
+aS'12'
+p1213
+aS'7'
+aS'0'
+aS'3'
+aS'15'
+p1214
 aS'BC'
+p1215
+aVCanada
+p1216
+aVBritish Columbia
+p1217
+ag396
+aa(lp1218
+S'Julian Loveday'
+p1219
+aS'1993'
+p1220
+aS'Wing'
+p1221
+aS'10'
+p1222
+aS'5'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'1963'
+p1223
+aVÖsterreich
+p1224
+aV8362
+p1225
+aVSteiermark
+p1226
+aa(lp1227
+S'John Hutchinson'
+p1228
+aS'1993'
+p1229
+aS'Flanker'
+p1230
+aS'50'
+p1231
+aS'23'
+p1232
+aS'27'
+p1233
+aS'0'
+aS'8'
+aS'40'
 p1234
+aS'Toronto'
+p1235
+aVCanada
+p1236
+aVOntario
+p1237
+aVToronto
+p1238
+aa(lp1239
+S'Chris Whittaker'
+p1240
+aS'1993'
+p1241
+aS'Lock'
+p1242
+aS'16'
+p1243
+aS'9'
+aS'7'
+aS'0'
+aS'1'
+aS'5'
+aS'Victoria'
+p1244
+aVAustralia
+p1245
+aVVictoria
+p1246
+ag396
+aa(lp1247
+S'Ian Kennedy'
+p1248
+aS'1993'
+p1249
+aS'Hooker'
+p1250
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVCanada
-p1235
-aVBritish Columbia
-p1236
-ag394
-aa(lp1237
-S'Ron Toews'
-p1238
-aS'1993'
-p1239
-aS'Wing'
-p1240
-aS'Winnipeg'
-p1241
-aS'16'
-p1242
-aS'9'
-aS'0'
-aS'0'
-aVCanada
-p1243
-aVManitoba
-p1244
-aVWinnipeg
-p1245
-aa(lp1246
-S'Ian Cooper'
-p1247
-aS'1993'
-p1248
-aS''
-aS'Vancouver'
-p1249
-aS'1'
 aS'1'
 aS'0'
-aS'0'
-aVCanada
-p1250
-aVBritish Columbia
+aS'1'
+aS'5'
+aS'date unknown'
 p1251
-aVGreater Vancouver Regional District
-p1252
-aa(lp1253
-S'Mike James'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1252
+S'Ian MacKay'
+p1253
+aS'1993'
 p1254
-aS'1994'
+aS'Scrum-half'
 p1255
-aS'Lock'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'BC'
 p1256
-aS'Vancouver'
-p1257
-aS'56'
-p1258
-aS'26'
-p1259
-aS'4'
-aS'20'
-p1260
 aVCanada
-p1261
+p1257
 aVBritish Columbia
-p1262
-aVGreater Vancouver Regional District
-p1263
-aa(lp1264
-S'Winston Stanley'
-p1265
-aS'1994'
-p1266
+p1258
+ag396
+aa(lp1259
+S'Ron Toews'
+p1260
+aS'1993'
+p1261
 aS'Wing'
+p1262
+aS'16'
+p1263
+aS'9'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Winnipeg'
+p1264
+aVCanada
+p1265
+aVManitoba
+p1266
+aVWinnipeg
 p1267
-aS'Victoria'
-p1268
-aS'66'
+aa(lp1268
+S'Ian Cooper'
 p1269
-aS'27'
+aS'1993'
 p1270
-aS'24'
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Vancouver'
 p1271
-aS'123'
+aVCanada
 p1272
-aVAustralia
+aVBritish Columbia
 p1273
-aVVictoria
+aVGreater Vancouver Regional District
 p1274
-ag394
 aa(lp1275
-S'Paul LeBlanc'
+S'Mike James'
 p1276
 aS'1994'
 p1277
-aS'Prop'
+aS'Lock'
 p1278
-aS'Sept Isles'
+aS'56'
 p1279
+aS'26'
+p1280
+aS'29'
+p1281
+aS'1'
+aS'4'
+aS'20'
+p1282
+aS'Vancouver'
+p1283
+aVCanada
+p1284
+aVBritish Columbia
+p1285
+aVGreater Vancouver Regional District
+p1286
+aa(lp1287
+S'Winston Stanley'
+p1288
+aS'1994'
+p1289
+aS'Wing'
+p1290
+aS'66'
+p1291
+aS'27'
+p1292
+aS'38'
+p1293
+aS'1'
+aS'24'
+p1294
+aS'123'
+p1295
+aS'Victoria'
+p1296
+aVAustralia
+p1297
+aVVictoria
+p1298
+ag396
+aa(lp1299
+S'Paul LeBlanc'
+p1300
+aS'1994'
+p1301
+aS'Prop'
+p1302
 aS'4'
 aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1280
-S'Kevin Whitley'
-p1281
-aS'1995'
-p1282
-aS'Lock'
-p1283
-aS'Bandar Seri Begawan'
-p1284
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVBrunei Darussalam
-p1285
-aVBrunei-Muara
-p1286
-aVBandar Seri Begawan
-p1287
-aa(lp1288
-S'Jeff Grout'
-p1289
-aS'1995'
-p1290
-aS''
-aS'date unknown'
-p1291
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1292
-S'Shawn Lytton'
-p1293
-aS'1995'
-p1294
-aS'Wing'
-p1295
-aS'Tokyo'
-p1296
-aS'9'
-aS'6'
-aS'1'
-aS'5'
-aV\u65e5\u672c
-p1297
-aV\u95a2\u6771\u5730\u65b9
-p1298
-aV\u6771\u4eac\u90fd
-p1299
-aa(lp1300
-S'Danny Nikas'
-p1301
-aS'1995'
-p1302
-aS''
-aS'date unknown'
-p1303
 aS'2'
-aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Sept Isles'
+p1303
 aS'g'
 aS'n'
 aS'i'
 aa(lp1304
-S'Courtney Smith'
+S'Kevin Whitley'
 p1305
 aS'1995'
 p1306
-aS'Wing'
-p1307
-aS'Kingston'
-p1308
-aS'21'
-p1309
-aS'10'
-p1310
-aS'8'
-aS'40'
-p1311
-aVJamaica
-p1312
-aVSurrey County
-p1313
-aVKingston and St. Andrew Corporation
-p1314
-aa(lp1315
-S'Alan Tynan'
-p1316
-aS'1995'
-p1317
-aS'Scrum-half'
-p1318
-aS'Vancouver'
-p1319
-aS'5'
-aS'2'
-aS'2'
-aS'10'
-p1320
-aVCanada
-p1321
-aVBritish Columbia
-p1322
-aVGreater Vancouver Regional District
-p1323
-aa(lp1324
-S'Gareth Rowlands'
-p1325
-aS'1995'
-p1326
 aS'Lock'
-p1327
-aS'Cardiff'
-p1328
-aS'6'
+p1307
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p1329
-aVWales
-p1330
-aVCardiff
-p1331
-aa(lp1332
-S'Rod Snow'
-p1333
+aS'0'
+aS'Bandar Seri Begawan'
+p1308
+aVBrunei Darussalam
+p1309
+aVBrunei-Muara
+p1310
+aVBandar Seri Begawan
+p1311
+aa(lp1312
+S'Jeff Grout'
+p1313
 aS'1995'
-p1334
-aS'Prop'
-p1335
-aS'Bonavista'
-p1336
-aS'62'
-p1337
-aS'27'
-p1338
-aS'8'
-aS'40'
-p1339
-aVCanada
-p1340
-aVNewfoundland and Labrador
-p1341
-aVBonavista
-p1342
-aa(lp1343
-S'Barry Ebl'
-p1344
-aS'1995'
-p1345
-aS'Wing'
-p1346
-aS'1969'
-p1347
-aS'3'
+p1314
+aS''
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVNederland
-p1348
-aV1969
-p1349
-aVNederland
-p1350
-aa(lp1351
-S'Chris Michaluk'
-p1352
-aS'1995'
-p1353
-aS'No. 8'
-p1354
-aS'Kelowna'
-p1355
-aS'4'
-aS'3'
 aS'0'
 aS'0'
-aVCanada
-p1356
-aVBritish Columbia
-p1357
-aVRegional District of Central Okanagan
-p1358
-aa(lp1359
-S'David Penney'
-p1360
-aS'1995'
-p1361
-aS'Prop'
-p1362
-aS"St John's"
-p1363
-aS'7'
-aS'2'
-aS'0'
-aS'0'
-aVCanada
-p1364
-aVNewfoundland and Labrador
-p1365
-aVSt. John's
-p1366
-aa(lp1367
-S'Nick Clapinson'
-p1368
-aS'1995'
-p1369
-aS'Prop'
-p1370
-aS'Quebec'
-p1371
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVCanada
-p1372
-aVQuébec
-p1373
-ag394
-aa(lp1374
-S'Rob Card'
-p1375
-aS'1996'
-p1376
-aS'Scrum-half'
-p1377
-aS'1975'
-p1378
-aS'8'
-aS'4'
-aS'0'
-aS'0'
-aVÖsterreich
-p1379
-aV8271
-p1380
-aVSteiermark
-p1381
-aa(lp1382
-S'Jim Yeganegi'
-p1383
-aS'1996'
-p1384
-aS'Flanker'
-p1385
 aS'date unknown'
-p1386
-aS'2'
-aS'1'
-aS'0'
-aS'0'
+p1315
 aS'g'
 aS'n'
 aS'i'
-aa(lp1387
-S'Richard Bice'
-p1388
-aS'1996'
-p1389
-aS'Prop'
-p1390
-aS'Vancouver'
-p1391
-aS'22'
-p1392
-aS'10'
-p1393
-aS'0'
-aS'0'
-aVCanada
-p1394
-aVBritish Columbia
-p1395
-aVGreater Vancouver Regional District
-p1396
-aa(lp1397
-S'Jason Hall'
-p1398
-aS'1996'
-p1399
-aS'Centre'
-p1400
-aS'1968'
-p1401
-aS'7'
-aS'5'
-aS'1'
-aS'5'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1402
-aV\u0421\u041a\u0424\u041e
-p1403
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1404
-aa(lp1405
-S'Tony Healy'
-p1406
-aS'1996'
-p1407
-aS'Lock'
-p1408
-aS'BC'
-p1409
-aS'15'
-p1410
-aS'12'
-p1411
-aS'0'
-aS'0'
-aVCanada
-p1412
-aVBritish Columbia
-p1413
-ag394
-aa(lp1414
-S'Dennis Clarke'
-p1415
-aS'1996'
-p1416
-aS'Centre'
-p1417
-aS'Montreal'
-p1418
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVCanada
-p1419
-aVQuébec
-p1420
-aVMontréal (06)
-p1421
-aa(lp1422
-S'Jeff Tomlinson'
-p1423
-aS'1996'
-p1424
-aS'Back-row'
-p1425
-aS'Toronto'
-p1426
+aa(lp1316
+S'Shawn Lytton'
+p1317
+aS'1995'
+p1318
+aS'Wing'
+p1319
+aS'9'
+aS'6'
 aS'3'
+aS'0'
+aS'1'
+aS'5'
+aS'Tokyo'
+p1320
+aV\u65e5\u672c
+p1321
+aV\u95a2\u6771\u5730\u65b9
+p1322
+aV\u6771\u4eac\u90fd
+p1323
+aa(lp1324
+S'Danny Nikas'
+p1325
+aS'1995'
+p1326
+aS''
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1327
+aS'g'
+aS'n'
+aS'i'
+aa(lp1328
+S'Courtney Smith'
+p1329
+aS'1995'
+p1330
+aS'Wing'
+p1331
+aS'21'
+p1332
+aS'10'
+p1333
+aS'11'
+p1334
+aS'0'
+aS'8'
+aS'40'
+p1335
+aS'Kingston'
+p1336
+aVJamaica
+p1337
+aVSurrey County
+p1338
+aVKingston and St. Andrew Corporation
+p1339
+aa(lp1340
+S'Alan Tynan'
+p1341
+aS'1995'
+p1342
+aS'Scrum-half'
+p1343
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'2'
+aS'10'
+p1344
+aS'Vancouver'
+p1345
+aVCanada
+p1346
+aVBritish Columbia
+p1347
+aVGreater Vancouver Regional District
+p1348
+aa(lp1349
+S'Gareth Rowlands'
+p1350
+aS'1995'
+p1351
+aS'Lock'
+p1352
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Cardiff'
+p1353
+aVUnited Kingdom
+p1354
+aVWales
+p1355
+aVCardiff
+p1356
+aa(lp1357
+S'Rod Snow'
+p1358
+aS'1995'
+p1359
+aS'Prop'
+p1360
+aS'62'
+p1361
+aS'27'
+p1362
+aS'33'
+p1363
+aS'2'
+aS'8'
+aS'40'
+p1364
+aS'Bonavista'
+p1365
+aVCanada
+p1366
+aVNewfoundland and Labrador
+p1367
+aVBonavista
+p1368
+aa(lp1369
+S'Barry Ebl'
+p1370
+aS'1995'
+p1371
+aS'Wing'
+p1372
+aS'3'
+aS'1'
 aS'2'
 aS'0'
 aS'0'
-aVCanada
-p1427
-aVOntario
-p1428
-aVToronto
-p1429
-aa(lp1430
-S'Scott Bryan'
-p1431
-aS'1996'
-p1432
-aS'Centre'
-p1433
-aS'Toronto'
-p1434
-aS'20'
-p1435
-aS'9'
+aS'0'
+aS'1969'
+p1373
+aVNederland
+p1374
+aV1969
+p1375
+aVNederland
+p1376
+aa(lp1377
+S'Chris Michaluk'
+p1378
+aS'1995'
+p1379
+aS'No. 8'
+p1380
+aS'4'
 aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Kelowna'
+p1381
+aVCanada
+p1382
+aVBritish Columbia
+p1383
+aVRegional District of Central Okanagan
+p1384
+aa(lp1385
+S'David Penney'
+p1386
+aS'1995'
+p1387
+aS'Prop'
+p1388
+aS'7'
+aS'2'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS"St John's"
+p1389
+aVCanada
+p1390
+aVNewfoundland and Labrador
+p1391
+aVSt. John's
+p1392
+aa(lp1393
+S'Nick Clapinson'
+p1394
+aS'1995'
+p1395
+aS'Prop'
+p1396
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Quebec'
+p1397
+aVCanada
+p1398
+aVQuébec
+p1399
+ag396
+aa(lp1400
+S'Rob Card'
+p1401
+aS'1996'
+p1402
+aS'Scrum-half'
+p1403
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'1975'
+p1404
+aVÖsterreich
+p1405
+aV8271
+p1406
+aVSteiermark
+p1407
+aa(lp1408
+S'Jim Yeganegi'
+p1409
+aS'1996'
+p1410
+aS'Flanker'
+p1411
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1412
+aS'g'
+aS'n'
+aS'i'
+aa(lp1413
+S'Richard Bice'
+p1414
+aS'1996'
+p1415
+aS'Prop'
+p1416
+aS'22'
+p1417
+aS'10'
+p1418
+aS'12'
+p1419
+aS'0'
+aS'0'
+aS'0'
+aS'Vancouver'
+p1420
+aVCanada
+p1421
+aVBritish Columbia
+p1422
+aVGreater Vancouver Regional District
+p1423
+aa(lp1424
+S'Jason Hall'
+p1425
+aS'1996'
+p1426
+aS'Centre'
+p1427
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'1968'
+p1428
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p1429
+aV\u0421\u041a\u0424\u041e
+p1430
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p1431
+aa(lp1432
+S'Tony Healy'
+p1433
+aS'1996'
+p1434
+aS'Lock'
+p1435
 aS'15'
 p1436
-aVCanada
+aS'12'
 p1437
-aVOntario
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'BC'
 p1438
-aVToronto
+aVCanada
 p1439
-aa(lp1440
-S'Joe Haley'
-p1441
-aS'1996'
+aVBritish Columbia
+p1440
+ag396
+aa(lp1441
+S'Dennis Clarke'
 p1442
-aS'Fullback'
+aS'1996'
 p1443
-aS'N Vancouver'
+aS'Centre'
 p1444
 aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aVCanada
+aS'0'
+aS'Montreal'
 p1445
-aVBritish Columbia
+aVCanada
 p1446
-aVGreater Vancouver Regional District
+aVQuébec
 p1447
-aa(lp1448
-S'Scott Hendry'
-p1449
-aS'1996'
+aVMontréal (06)
+p1448
+aa(lp1449
+S'Jeff Tomlinson'
 p1450
-aS'Hooker'
+aS'1996'
 p1451
-aS'Paisley'
+aS'Back-row'
 p1452
 aS'3'
 aS'2'
 aS'1'
-aS'5'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'0'
+aS'Toronto'
 p1453
-aVScotland
+aVCanada
 p1454
-aVRenfrewshire
+aVOntario
 p1455
-aa(lp1456
-S'Brian Mosychuck'
-p1457
-aS'1996'
+aVToronto
+p1456
+aa(lp1457
+S'Scott Bryan'
 p1458
-aS'Prop'
+aS'1996'
 p1459
-aS'1966'
+aS'Centre'
 p1460
-aS'2'
+aS'20'
+p1461
+aS'9'
+aS'11'
+p1462
+aS'0'
+aS'3'
+aS'15'
+p1463
+aS'Toronto'
+p1464
+aVCanada
+p1465
+aVOntario
+p1466
+aVToronto
+p1467
+aa(lp1468
+S'Joe Haley'
+p1469
+aS'1996'
+p1470
+aS'Fullback'
+p1471
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1461
-aV\u0421\u041a\u0424\u041e
-p1462
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1463
-aa(lp1464
-S'Kyle Nichols'
-p1465
-aS'1996'
-p1466
-aS'Centre'
-p1467
-aS'Scarborough'
-p1468
-aS'25'
-p1469
-aS'11'
-p1470
-aS'10'
-p1471
-aS'61'
+aS'0'
+aS'0'
+aS'N Vancouver'
 p1472
-aVUnited Kingdom
+aVCanada
 p1473
-aVEngland
+aVBritish Columbia
 p1474
-aVYorkshire and the Humber
+aVGreater Vancouver Regional District
 p1475
 aa(lp1476
-S'Mike Schmid'
+S'Scott Hendry'
 p1477
 aS'1996'
 p1478
-aS'No. 8'
+aS'Hooker'
 p1479
-aS'New Westminster'
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Paisley'
 p1480
-aS'24'
+aVUnited Kingdom
 p1481
-aS'12'
+aVScotland
 p1482
+aVRenfrewshire
+p1483
+aa(lp1484
+S'Brian Mosychuck'
+p1485
+aS'1996'
+p1486
+aS'Prop'
+p1487
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1966'
+p1488
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p1489
+aV\u0421\u041a\u0424\u041e
+p1490
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p1491
+aa(lp1492
+S'Kyle Nichols'
+p1493
+aS'1996'
+p1494
+aS'Centre'
+p1495
+aS'25'
+p1496
+aS'11'
+p1497
+aS'13'
+p1498
+aS'1'
+aS'10'
+p1499
+aS'61'
+p1500
+aS'Scarborough'
+p1501
+aVUnited Kingdom
+p1502
+aVEngland
+p1503
+aVYorkshire and the Humber
+p1504
+aa(lp1505
+S'Mike Schmid'
+p1506
+aS'1996'
+p1507
+aS'No. 8'
+p1508
+aS'24'
+p1509
+aS'12'
+p1510
+aS'12'
+p1511
+aS'0'
 aS'2'
 aS'10'
-p1483
+p1512
+aS'New Westminster'
+p1513
 aVCanada
-p1484
+p1514
 aVBritish Columbia
-p1485
+p1515
 aVGreater Vancouver Regional District
-p1486
-aa(lp1487
+p1516
+aa(lp1517
 S'Jason Penaluna'
-p1488
+p1518
 aS'1996'
-p1489
+p1519
 aS'Fly-half'
-p1490
-aS'Winnipeg'
-p1491
+p1520
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
+aS'Winnipeg'
+p1521
 aVCanada
-p1492
+p1522
 aVManitoba
-p1493
+p1523
 aVWinnipeg
-p1494
-aa(lp1495
+p1524
+aa(lp1525
 S'Brian McCarthy'
-p1496
+p1526
 aS'1996'
-p1497
+p1527
 aS'Lock'
-p1498
-aS'Brockville'
-p1499
+p1528
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Brockville'
+p1529
 aVCanada
-p1500
+p1530
 aVOntario
-p1501
+p1531
 aVBrockville
-p1502
-aa(lp1503
+p1532
+aa(lp1533
 S'John Tait'
-p1504
+p1534
 aS'1997'
-p1505
+p1535
 aS'Lock'
-p1506
-aS'Orangeville'
-p1507
+p1536
 aS'37'
-p1508
+p1537
 aS'14'
-p1509
+p1538
+aS'22'
+p1539
+aS'1'
 aS'1'
 aS'5'
+aS'Orangeville'
+p1540
 aVCanada
-p1510
+p1541
 aVOntario
-p1511
+p1542
 aVOrangeville
-p1512
-aa(lp1513
+p1543
+aa(lp1544
 S'Adam Marshall'
-p1514
+p1545
 aS'1997'
-p1515
+p1546
 aS'Hooker, Prop'
-p1516
+p1547
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'Toronto'
-p1517
-aS'2'
-aS'1'
-aS'0'
-aS'0'
+p1548
 aVCanada
-p1518
+p1549
 aVOntario
-p1519
+p1550
 aVToronto
-p1520
-aa(lp1521
+p1551
+aa(lp1552
 S'C. Smythe'
-p1522
+p1553
 aS'1997'
-p1523
+p1554
 aS''
-aS'date unknown'
-p1524
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1555
 aS'g'
 aS'n'
 aS'i'
-aa(lp1525
+aa(lp1556
 S'Kevin Morgan'
-p1526
+p1557
 aS'1997'
-p1527
+p1558
 aS''
-aS'1965'
-p1528
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
-aVDanmark
-p1529
-aV1965
-p1530
-aVRegion Hovedstaden
-p1531
-aa(lp1532
-S'Colin Robertson'
-p1533
-aS'1997'
-p1534
-aS'Centre'
-p1535
-aS'1975'
-p1536
-aS'7'
-aS'7'
-aS'3'
-aS'15'
-p1537
-aVÖsterreich
-p1538
-aV8271
-p1539
-aVSteiermark
-p1540
-aa(lp1541
-S'Joe Pagano'
-p1542
-aS'1997'
-p1543
-aS'Wing'
-p1544
-aS'Toronto'
-p1545
-aS'10'
-p1546
-aS'6'
-aS'3'
-aS'15'
-p1547
-aVCanada
-p1548
-aVOntario
-p1549
-aVToronto
-p1550
-aa(lp1551
-S'Dan Baugh'
-p1552
-aS'1998'
-p1553
-aS'Back-row'
-p1554
-aS'SK'
-p1555
-aS'27'
-p1556
-aS'11'
-p1557
-aS'5'
-aS'25'
-p1558
-aVSlovensko
+aS'0'
+aS'1965'
 p1559
-ag394
-ag394
-aa(lp1560
-S'Pat Dunkley'
+aVDanmark
+p1560
+aV1965
 p1561
-aS'1998'
+aVRegion Hovedstaden
 p1562
-aS'Hooker'
-p1563
-aS'Cardiff'
+aa(lp1563
+S'Colin Robertson'
 p1564
-aS'38'
+aS'1997'
 p1565
-aS'14'
+aS'Centre'
 p1566
+aS'7'
+aS'7'
+aS'0'
+aS'0'
 aS'3'
 aS'15'
 p1567
-aVUnited Kingdom
+aS'1975'
 p1568
-aVWales
+aVÖsterreich
 p1569
-aVCardiff
+aV8271
 p1570
-aa(lp1571
-S'Harry Toews'
-p1572
-aS'1998'
+aVSteiermark
+p1571
+aa(lp1572
+S'Joe Pagano'
 p1573
-aS'Prop'
+aS'1997'
 p1574
-aS'Alberta'
+aS'Wing'
 p1575
-aS'11'
+aS'10'
 p1576
-aS'5'
-aS'1'
-aS'5'
-aVCanada
-p1577
-aVAlberta
-p1578
-ag394
-aa(lp1579
-S'Troy MacDonald'
-p1580
-aS'1998'
-p1581
-aS'Scrum-half, Fly-half'
-p1582
-aS'date unknown'
-p1583
-aS'1'
+aS'6'
+aS'4'
 aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1584
-S'Rob Robson'
-p1585
-aS'1998'
-p1586
-aS'Flanker'
-p1587
-aS'Victoria'
-p1588
 aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1589
-aVVictoria
-p1590
-ag394
-aa(lp1591
-S'Nik Witkowski'
-p1592
+aS'15'
+p1577
+aS'Toronto'
+p1578
+aVCanada
+p1579
+aVOntario
+p1580
+aVToronto
+p1581
+aa(lp1582
+S'Dan Baugh'
+p1583
 aS'1998'
+p1584
+aS'Back-row'
+p1585
+aS'27'
+p1586
+aS'11'
+p1587
+aS'15'
+p1588
+aS'1'
+aS'5'
+aS'25'
+p1589
+aS'SK'
+p1590
+aVSlovensko
+p1591
+ag396
+ag396
+aa(lp1592
+S'Pat Dunkley'
 p1593
-aS'Centre'
+aS'1998'
 p1594
-aS'London'
+aS'Hooker'
 p1595
-aS'34'
+aS'38'
 p1596
 aS'14'
 p1597
-aS'6'
-aS'30'
+aS'23'
 p1598
-aVUnited Kingdom
+aS'1'
+aS'3'
+aS'15'
 p1599
-aVEngland
+aS'Cardiff'
 p1600
-aVGreater London
+aVUnited Kingdom
 p1601
-aa(lp1602
-S'Jon Thiel'
+aVWales
+p1602
+aVCardiff
 p1603
-aS'1998'
-p1604
-aS'Prop'
+aa(lp1604
+S'Harry Toews'
 p1605
-aS'Victoria'
+aS'1998'
 p1606
-aS'44'
+aS'Prop'
 p1607
-aS'14'
+aS'11'
 p1608
-aS'4'
-aS'20'
+aS'5'
+aS'6'
+aS'0'
+aS'1'
+aS'5'
+aS'Alberta'
 p1609
-aVAustralia
+aVCanada
 p1610
-aVVictoria
+aVAlberta
 p1611
-ag394
+ag396
 aa(lp1612
-S'Jeremy Cordle'
+S'Troy MacDonald'
 p1613
 aS'1998'
 p1614
-aS'Wing'
+aS'Scrum-half, Fly-half'
 p1615
-aS'Cardiff'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1616
+aS'g'
+aS'n'
+aS'i'
+aa(lp1617
+S'Rob Robson'
+p1618
+aS'1998'
+p1619
+aS'Flanker'
+p1620
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Victoria'
+p1621
+aVAustralia
+p1622
+aVVictoria
+p1623
+ag396
+aa(lp1624
+S'Nik Witkowski'
+p1625
+aS'1998'
+p1626
+aS'Centre'
+p1627
+aS'34'
+p1628
+aS'14'
+p1629
+aS'19'
+p1630
+aS'1'
+aS'6'
+aS'30'
+p1631
+aS'London'
+p1632
+aVUnited Kingdom
+p1633
+aVEngland
+p1634
+aVGreater London
+p1635
+aa(lp1636
+S'Jon Thiel'
+p1637
+aS'1998'
+p1638
+aS'Prop'
+p1639
+aS'44'
+p1640
+aS'14'
+p1641
+aS'28'
+p1642
+aS'2'
+aS'4'
+aS'20'
+p1643
+aS'Victoria'
+p1644
+aVAustralia
+p1645
+aVVictoria
+p1646
+ag396
+aa(lp1647
+S'Jeremy Cordle'
+p1648
+aS'1998'
+p1649
+aS'Wing'
+p1650
 aS'6'
 aS'2'
-aS'1'
-aS'5'
-aVUnited Kingdom
-p1617
-aVWales
-p1618
-aVCardiff
-p1619
-aa(lp1620
-S'Roger Robinson'
-p1621
-aS'1998'
-p1622
-aS'Centre'
-p1623
-aS'1968'
-p1624
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1625
-aV\u0421\u041a\u0424\u041e
-p1626
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1627
-aa(lp1628
-S'Ryan Banks'
-p1629
-aS'1999'
-p1630
-aS'Back-row'
-p1631
-aS'Vancouver'
-p1632
-aS'36'
-p1633
-aS'12'
-p1634
-aS'3'
-aS'15'
-p1635
-aVCanada
-p1636
-aVBritish Columbia
-p1637
-aVGreater Vancouver Regional District
-p1638
-aa(lp1639
-S'Fred Asselin'
-p1640
-aS'1999'
-p1641
-aS'Wing'
-p1642
-aS'Montreal'
-p1643
-aS'15'
-p1644
-aS'7'
-aS'3'
-aS'15'
-p1645
-aVCanada
-p1646
-aVQuébec
-p1647
-aVMontréal (06)
-p1648
-aa(lp1649
-S'Morgan Williams'
-p1650
-aS'1999'
-p1651
-aS'Scrum-half'
-p1652
-aS'Ontario'
-p1653
-aS'56'
-p1654
-aS'18'
-p1655
-aS'13'
-p1656
-aS'68'
-p1657
-aVCanada
-p1658
-aVOntario
-p1659
-ag394
-aa(lp1660
-S'Duane Major'
-p1661
-aS'1999'
-p1662
-aS'Prop'
-p1663
-aS'Christchurch'
-p1664
-aS'12'
-p1665
 aS'4'
 aS'0'
+aS'1'
+aS'5'
+aS'Cardiff'
+p1651
+aVUnited Kingdom
+p1652
+aVWales
+p1653
+aVCardiff
+p1654
+aa(lp1655
+S'Roger Robinson'
+p1656
+aS'1998'
+p1657
+aS'Centre'
+p1658
+aS'1'
+aS'1'
 aS'0'
-aVNew Zealand/Aotearoa
+aS'0'
+aS'0'
+aS'0'
+aS'1968'
+p1659
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p1660
+aV\u0421\u041a\u0424\u041e
+p1661
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p1662
+aa(lp1663
+S'Ryan Banks'
+p1664
+aS'1999'
+p1665
+aS'Back-row'
 p1666
-aVCanterbury
+aS'36'
 p1667
-aVChristchurch City
+aS'12'
 p1668
-aa(lp1669
-S'Jared Barker'
+aS'23'
+p1669
+aS'1'
+aS'3'
+aS'15'
 p1670
-aS'2000'
+aS'Vancouver'
 p1671
-aS'Fly-half'
+aVCanada
 p1672
-aS'Edmonton'
+aVBritish Columbia
 p1673
-aS'18'
+aVGreater Vancouver Regional District
 p1674
+aa(lp1675
+S'Fred Asselin'
+p1676
+aS'1999'
+p1677
+aS'Wing'
+p1678
+aS'15'
+p1679
+aS'7'
+aS'8'
+aS'0'
+aS'3'
+aS'15'
+p1680
+aS'Montreal'
+p1681
+aVCanada
+p1682
+aVQuébec
+p1683
+aVMontréal (06)
+p1684
+aa(lp1685
+S'Morgan Williams'
+p1686
+aS'1999'
+p1687
+aS'Scrum-half'
+p1688
+aS'56'
+p1689
+aS'18'
+p1690
+aS'36'
+p1691
+aS'2'
+aS'13'
+p1692
+aS'68'
+p1693
+aS'Ontario'
+p1694
+aVCanada
+p1695
+aVOntario
+p1696
+ag396
+aa(lp1697
+S'Duane Major'
+p1698
+aS'1999'
+p1699
+aS'Prop'
+p1700
+aS'12'
+p1701
+aS'4'
+aS'7'
+aS'1'
+aS'0'
+aS'0'
+aS'Christchurch'
+p1702
+aVNew Zealand/Aotearoa
+p1703
+aVCanterbury
+p1704
+aVChristchurch City
+p1705
+aa(lp1706
+S'Jared Barker'
+p1707
+aS'2000'
+p1708
+aS'Fly-half'
+p1709
+aS'18'
+p1710
 aS'10'
-p1675
+p1711
+aS'8'
+aS'0'
 aS'2'
 aS'226'
-p1676
+p1712
+aS'Edmonton'
+p1713
 aVCanada
-p1677
+p1714
 aVAlberta
-p1678
+p1715
 aVEdmonton
-p1679
-aa(lp1680
+p1716
+aa(lp1717
 S'Garth Cooke'
-p1681
+p1718
 aS'2000'
-p1682
+p1719
 aS'Prop'
-p1683
-aS'BC'
-p1684
+p1720
 aS'25'
-p1685
+p1721
 aS'8'
+aS'17'
+p1722
 aS'0'
 aS'0'
+aS'0'
+aS'BC'
+p1723
 aVCanada
-p1686
+p1724
 aVBritish Columbia
-p1687
-ag394
-aa(lp1688
+p1725
+ag396
+aa(lp1726
 S'Sean Fauth'
-p1689
+p1727
 aS'2000'
-p1690
+p1728
 aS'Wing'
-p1691
-aS'Calgary'
-p1692
+p1729
 aS'29'
-p1693
+p1730
 aS'12'
-p1694
+p1731
+aS'16'
+p1732
+aS'1'
 aS'7'
 aS'35'
-p1695
-aVCanada
-p1696
-aVAlberta
-p1697
-aVCalgary
-p1698
-aa(lp1699
-S'Ed Knaggs'
-p1700
-aS'2000'
-p1701
-aS'Lock'
-p1702
-aS'1973'
-p1703
-aS'19'
-p1704
-aS'6'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1705
-aV\u0421\u041a\u0424\u041e
-p1706
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1707
-aa(lp1708
-S'Phil Murphy'
-p1709
-aS'2000'
-p1710
-aS'No. 8'
-p1711
-aS'Newf.'
-p1712
-aS'20'
-p1713
-aS'7'
-aS'5'
-aS'25'
-p1714
-aVUnited Kingdom
-p1715
-aVCB2 1UJ
-p1716
-aVEngland
-p1717
-aa(lp1718
-S'Kevin Tkachuk'
-p1719
-aS'2000'
-p1720
-aS'Prop'
-p1721
-aS'Manitoba'
-p1722
-aS'55'
-p1723
-aS'18'
-p1724
-aS'5'
-aS'25'
-p1725
-aVCanada
-p1726
-aVManitoba
-p1727
-ag394
-aa(lp1728
-S'Adam van Staveren'
-p1729
-aS'2000'
-p1730
-aS'Flanker'
-p1731
-aS'Pickering'
-p1732
-aS'20'
 p1733
-aS'8'
-aS'0'
-aS'0'
-aVCanada
+aS'Calgary'
 p1734
-aVOntario
+aVCanada
 p1735
-aVDurham Region
+aVAlberta
 p1736
-aa(lp1737
-S'Mark Irvine'
-p1738
-aS'2000'
+aVCalgary
+p1737
+aa(lp1738
+S'Ed Knaggs'
 p1739
-aS'Centre, Flanker'
+aS'2000'
 p1740
-aS'1975'
+aS'Lock'
 p1741
+aS'19'
+p1742
+aS'6'
+aS'12'
+p1743
+aS'1'
+aS'0'
+aS'0'
+aS'1973'
+p1744
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p1745
+aV\u0421\u041a\u0424\u041e
+p1746
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p1747
+aa(lp1748
+S'Phil Murphy'
+p1749
+aS'2000'
+p1750
+aS'No. 8'
+p1751
+aS'20'
+p1752
+aS'7'
+aS'12'
+p1753
+aS'1'
+aS'5'
+aS'25'
+p1754
+aS'Newf.'
+p1755
+aVUnited Kingdom
+p1756
+aVCB2 1UJ
+p1757
+aVEngland
+p1758
+aa(lp1759
+S'Kevin Tkachuk'
+p1760
+aS'2000'
+p1761
+aS'Prop'
+p1762
+aS'55'
+p1763
+aS'18'
+p1764
+aS'37'
+p1765
+aS'0'
+aS'5'
+aS'25'
+p1766
+aS'Manitoba'
+p1767
+aVCanada
+p1768
+aVManitoba
+p1769
+ag396
+aa(lp1770
+S'Adam van Staveren'
+p1771
+aS'2000'
+p1772
+aS'Flanker'
+p1773
+aS'20'
+p1774
+aS'8'
+aS'12'
+p1775
+aS'0'
+aS'0'
+aS'0'
+aS'Pickering'
+p1776
+aVCanada
+p1777
+aVOntario
+p1778
+aVDurham Region
+p1779
+aa(lp1780
+S'Mark Irvine'
+p1781
+aS'2000'
+p1782
+aS'Centre, Flanker'
+p1783
 aS'8'
 aS'3'
+aS'4'
+aS'1'
 aS'0'
 aS'0'
+aS'1975'
+p1784
 aVÖsterreich
-p1742
+p1785
 aV8271
-p1743
+p1786
 aVSteiermark
-p1744
-aa(lp1745
+p1787
+aa(lp1788
 S'Nick Milau'
-p1746
+p1789
 aS'2000'
-p1747
+p1790
 aS'Fullback, Scrum-half'
-p1748
-aS'1974'
-p1749
+p1791
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVÖsterreich
-p1750
-aV8573
-p1751
-aVSteiermark
-p1752
-aa(lp1753
-S'Gregor Dixon'
-p1754
-aS'2000'
-p1755
-aS'Flanker'
-p1756
-aS'1972'
-p1757
-aS'10'
-p1758
-aS'3'
-aS'0'
-aS'0'
-aVDanmark
-p1759
-aV1972
-p1760
-aVRegion Hovedstaden
-p1761
-aa(lp1762
-S'Jason Verstraten'
-p1763
-aS'2000'
-p1764
-aS'Wing, Centre'
-p1765
-aS'1975'
-p1766
-aS'3'
 aS'1'
-aS'1'
-aS'5'
-aVÖsterreich
-p1767
-aV8271
-p1768
-aVSteiermark
-p1769
-aa(lp1770
-S'John Cannon'
-p1771
-aS'2001'
-p1772
-aS'Centre'
-p1773
-aS'Abbotsford'
-p1774
-aS'31'
-p1775
-aS'8'
 aS'0'
 aS'0'
-aVCanada
-p1776
-aVBritish Columbia
-p1777
-aVFraser Valley Regional District
-p1778
-aa(lp1779
-S'Ed Fairhurst'
-p1780
-aS'2001'
-p1781
-aS'Scrum-half'
-p1782
-aS'SK'
-p1783
-aS'57'
-p1784
-aS'22'
-p1785
-aS'4'
-aS'46'
-p1786
-aVSlovensko
-p1787
-ag394
-ag394
-aa(lp1788
-S'Jeff Williams'
-p1789
-aS'2001'
-p1790
-aS'Fullback, Wing'
-p1791
+aS'0'
 aS'1974'
 p1792
-aS'5'
-aS'2'
-aS'0'
-aS'0'
 aVÖsterreich
 p1793
 aV8573
@@ -4885,2475 +5382,2875 @@ p1794
 aVSteiermark
 p1795
 aa(lp1796
-S'Dale Burleigh'
+S'Gregor Dixon'
 p1797
-aS'2001'
+aS'2000'
 p1798
-aS'Hooker'
+aS'Flanker'
 p1799
-aS'ON'
+aS'10'
 p1800
-aS'5'
+aS'3'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'1972'
+p1801
+aVDanmark
+p1802
+aV1972
+p1803
+aVRegion Hovedstaden
+p1804
+aa(lp1805
+S'Jason Verstraten'
+p1806
+aS'2000'
+p1807
+aS'Wing, Centre'
+p1808
+aS'3'
+aS'1'
 aS'2'
+aS'0'
 aS'1'
 aS'5'
-aVCanada
-p1801
-aVOntario
-p1802
-ag394
-aa(lp1803
-S'Marco di Girolomo'
-p1804
-aS'2001'
-p1805
-aS'Scrum-half'
-p1806
-aS'Toronto'
-p1807
-aS'22'
-p1808
-aS'8'
-aS'3'
-aS'15'
+aS'1975'
 p1809
-aVCanada
+aVÖsterreich
 p1810
-aVOntario
+aV8271
 p1811
-aVToronto
+aVSteiermark
 p1812
 aa(lp1813
-S'Ron Johnstone'
+S'John Cannon'
 p1814
 aS'2001'
 p1815
-aS'Lock'
+aS'Centre'
 p1816
-aS'1977'
+aS'31'
 p1817
 aS'8'
+aS'23'
+p1818
+aS'0'
+aS'0'
+aS'0'
+aS'Abbotsford'
+p1819
+aVCanada
+p1820
+aVBritish Columbia
+p1821
+aVFraser Valley Regional District
+p1822
+aa(lp1823
+S'Ed Fairhurst'
+p1824
+aS'2001'
+p1825
+aS'Scrum-half'
+p1826
+aS'57'
+p1827
+aS'22'
+p1828
+aS'34'
+p1829
+aS'1'
+aS'4'
+aS'46'
+p1830
+aS'SK'
+p1831
+aVSlovensko
+p1832
+ag396
+ag396
+aa(lp1833
+S'Jeff Williams'
+p1834
+aS'2001'
+p1835
+aS'Fullback, Wing'
+p1836
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1974'
+p1837
+aVÖsterreich
+p1838
+aV8573
+p1839
+aVSteiermark
+p1840
+aa(lp1841
+S'Dale Burleigh'
+p1842
+aS'2001'
+p1843
+aS'Hooker'
+p1844
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'1'
+aS'5'
+aS'ON'
+p1845
+aVCanada
+p1846
+aVOntario
+p1847
+ag396
+aa(lp1848
+S'Marco di Girolomo'
+p1849
+aS'2001'
+p1850
+aS'Scrum-half'
+p1851
+aS'22'
+p1852
+aS'8'
+aS'14'
+p1853
+aS'0'
+aS'3'
+aS'15'
+p1854
+aS'Toronto'
+p1855
+aVCanada
+p1856
+aVOntario
+p1857
+aVToronto
+p1858
+aa(lp1859
+S'Ron Johnstone'
+p1860
+aS'2001'
+p1861
+aS'Lock'
+p1862
+aS'8'
+aS'4'
 aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'1977'
+p1863
 aVSvizra
-p1818
+p1864
 aVSvizzera
-p1819
+p1865
 aVSuisse
-p1820
-aa(lp1821
+p1866
+aa(lp1867
 S'Boris Stoikos'
-p1822
+p1868
 aS'2001'
-p1823
+p1869
 aS'Prop'
-p1824
+p1870
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Toronto'
-p1825
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p1871
 aVCanada
-p1826
+p1872
 aVOntario
-p1827
+p1873
 aVToronto
-p1828
-aa(lp1829
+p1874
+aa(lp1875
 S'Colin Yukes'
-p1830
+p1876
 aS'2001'
-p1831
+p1877
 aS'Flanker, Lock'
-p1832
-aS'Edmonton'
-p1833
+p1878
 aS'36'
-p1834
+p1879
 aS'11'
-p1835
+p1880
+aS'24'
+p1881
+aS'1'
 aS'0'
 aS'0'
+aS'Edmonton'
+p1882
 aVCanada
-p1836
+p1883
 aVAlberta
-p1837
+p1884
 aVEdmonton
-p1838
-aa(lp1839
+p1885
+aa(lp1886
 S'Brad Major'
-p1840
+p1887
 aS'2001'
-p1841
+p1888
 aS'Flanker'
-p1842
-aS'date unknown'
-p1843
+p1889
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1890
 aS'g'
 aS'n'
 aS'i'
-aa(lp1844
+aa(lp1891
 S'Shane Thompson'
-p1845
+p1892
 aS'2001'
-p1846
+p1893
 aS'Centre, Scrum-half'
-p1847
-aS'1973'
-p1848
+p1894
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'1973'
+p1895
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1849
+p1896
 aV\u0421\u041a\u0424\u041e
-p1850
+p1897
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1851
-aa(lp1852
+p1898
+aa(lp1899
 S'Mike Danskin'
-p1853
+p1900
 aS'2001'
-p1854
+p1901
 aS'Fly-half'
-p1855
-aS'BC'
-p1856
+p1902
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'8'
+aS'BC'
+p1903
 aVCanada
-p1857
+p1904
 aVBritish Columbia
-p1858
-ag394
-aa(lp1859
+p1905
+ag396
+aa(lp1906
 S'Mark Lawson'
-p1860
+p1907
 aS'2002'
-p1861
+p1908
 aS'Hooker'
-p1862
-aS'Vancouver'
-p1863
+p1909
 aS'26'
-p1864
+p1910
 aS'10'
-p1865
+p1911
+aS'16'
+p1912
+aS'0'
 aS'1'
 aS'5'
+aS'Vancouver'
+p1913
 aVCanada
-p1866
+p1914
 aVBritish Columbia
-p1867
+p1915
 aVGreater Vancouver Regional District
-p1868
-aa(lp1869
+p1916
+aa(lp1917
 S'Jamie Cudmore'
-p1870
+p1918
 aS'2002'
-p1871
+p1919
 aS'Lock'
-p1872
-aS'Winnipeg'
-p1873
+p1920
 aS'33'
-p1874
+p1921
 aS'11'
-p1875
+p1922
+aS'21'
+p1923
+aS'1'
 aS'2'
 aS'10'
-p1876
+p1924
+aS'Winnipeg'
+p1925
 aVCanada
-p1877
+p1926
 aVManitoba
-p1878
+p1927
 aVWinnipeg
-p1879
-aa(lp1880
+p1928
+aa(lp1929
 S'Matt King'
-p1881
+p1930
 aS'2002'
-p1882
+p1931
 aS'Flanker, Wing'
-p1883
-aS'Woodstock'
-p1884
+p1932
 aS'11'
-p1885
+p1933
 aS'4'
+aS'7'
 aS'0'
 aS'0'
+aS'0'
+aS'Woodstock'
+p1934
 aVUnited States of America
-p1886
+p1935
 aVNew York
-p1887
+p1936
 aVUlster County
-p1888
-aa(lp1889
+p1937
+aa(lp1938
 S'Leif Carlson'
-p1890
+p1939
 aS'2002'
-p1891
+p1940
 aS'Flanker'
-p1892
-aS'1973'
-p1893
+p1941
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'1973'
+p1942
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1894
+p1943
 aV\u0421\u041a\u0424\u041e
-p1895
+p1944
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1896
-aa(lp1897
+p1945
+aa(lp1946
 S'Quentin Fyffe'
-p1898
+p1947
 aS'2003'
-p1899
+p1948
 aS'Fullback'
-p1900
-aS'Gosford'
-p1901
+p1949
 aS'15'
-p1902
+p1950
 aS'6'
+aS'9'
+aS'0'
 aS'5'
 aS'25'
-p1903
-aVAustralia
-p1904
-aVNew South Wales
-p1905
-aVGosford
-p1906
-aa(lp1907
-S'David Moonlight'
-p1908
-aS'2003'
-p1909
-aS'Wing'
-p1910
-aS'ONT'
-p1911
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVCanada
-p1912
-aVOntario
-p1913
-aVPeel Region
-p1914
-aa(lp1915
-S'Chad Plater'
-p1916
-aS'2003'
-p1917
-aS'Prop'
-p1918
-aS'1977'
-p1919
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVSvizra
-p1920
-aVSvizzera
-p1921
-aVSuisse
-p1922
-aa(lp1923
-S'Pat Riordan'
-p1924
-aS'2003'
-p1925
-aS'Hooker'
-p1926
-aS'ON'
-p1927
-aS'43'
-p1928
-aS'20'
-p1929
-aS'4'
-aS'20'
-p1930
-aVCanada
-p1931
-aVOntario
-p1932
-ag394
-aa(lp1933
-S'Ryan Smith'
-p1934
-aS'2003'
-p1935
-aS'Centre'
-p1936
-aS'ONT'
-p1937
-aS'51'
-p1938
-aS'18'
-p1939
-aS'9'
-aS'45'
-p1940
-aVCanada
-p1941
-aVOntario
-p1942
-aVPeel Region
-p1943
-aa(lp1944
-S'Aaron Abrams'
-p1945
-aS'2003'
-p1946
-aS'Hooker'
-p1947
-aS'ON'
-p1948
-aS'22'
-p1949
-aS'7'
-aS'2'
-aS'10'
-p1950
-aVCanada
 p1951
-aVOntario
+aS'Gosford'
 p1952
-ag394
-aa(lp1953
-S'James Pritchard'
-p1954
-aS'2003'
-p1955
-aS'Fullback, Wing'
-p1956
-aS'NSW'
-p1957
-aS'59'
-p1958
-aS'26'
-p1959
-aS'18'
-p1960
-aS'597'
-p1961
 aVAustralia
-p1962
+p1953
 aVNew South Wales
+p1954
+aVGosford
+p1955
+aa(lp1956
+S'David Moonlight'
+p1957
+aS'2003'
+p1958
+aS'Wing'
+p1959
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'ONT'
+p1960
+aVCanada
+p1961
+aVOntario
+p1962
+aVPeel Region
 p1963
-ag394
 aa(lp1964
-S'Jim Douglas'
+S'Chad Plater'
 p1965
 aS'2003'
 p1966
-aS'Flanker'
+aS'Prop'
 p1967
-aS'BC'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1977'
 p1968
+aVSvizra
+p1969
+aVSvizzera
+p1970
+aVSuisse
+p1971
+aa(lp1972
+S'Pat Riordan'
+p1973
+aS'2003'
+p1974
+aS'Hooker'
+p1975
+aS'43'
+p1976
+aS'20'
+p1977
+aS'21'
+p1978
+aS'2'
+aS'4'
+aS'20'
+p1979
+aS'ON'
+p1980
+aVCanada
+p1981
+aVOntario
+p1982
+ag396
+aa(lp1983
+S'Ryan Smith'
+p1984
+aS'2003'
+p1985
+aS'Centre'
+p1986
+aS'51'
+p1987
+aS'18'
+p1988
+aS'31'
+p1989
+aS'2'
+aS'9'
+aS'45'
+p1990
+aS'ONT'
+p1991
+aVCanada
+p1992
+aVOntario
+p1993
+aVPeel Region
+p1994
+aa(lp1995
+S'Aaron Abrams'
+p1996
+aS'2003'
+p1997
+aS'Hooker'
+p1998
+aS'22'
+p1999
+aS'7'
+aS'15'
+p2000
+aS'0'
+aS'2'
+aS'10'
+p2001
+aS'ON'
+p2002
+aVCanada
+p2003
+aVOntario
+p2004
+ag396
+aa(lp2005
+S'James Pritchard'
+p2006
+aS'2003'
+p2007
+aS'Fullback, Wing'
+p2008
+aS'59'
+p2009
+aS'26'
+p2010
+aS'31'
+p2011
+aS'2'
+aS'18'
+p2012
+aS'597'
+p2013
+aS'NSW'
+p2014
+aVAustralia
+p2015
+aVNew South Wales
+p2016
+ag396
+aa(lp2017
+S'Jim Douglas'
+p2018
+aS'2003'
+p2019
+aS'Flanker'
+p2020
 aS'9'
 aS'2'
+aS'7'
 aS'0'
 aS'0'
+aS'0'
+aS'BC'
+p2021
 aVCanada
-p1969
+p2022
 aVBritish Columbia
-p1970
-ag394
-aa(lp1971
+p2023
+ag396
+aa(lp2024
 S'Jeff Reid'
-p1972
+p2025
 aS'2003'
-p1973
+p2026
 aS'No. 8'
-p1974
-aS'NSW'
-p1975
+p2027
 aS'5'
 aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p1976
-aVNew South Wales
-p1977
-ag394
-aa(lp1978
-S'Josh Jackson'
-p1979
-aS'2003'
-p1980
-aS'Lock'
-p1981
-aS'ON'
-p1982
-aS'24'
-p1983
-aS'6'
-aS'0'
-aS'0'
-aVCanada
-p1984
-aVOntario
-p1985
-ag394
-aa(lp1986
-S'Pat Bickerton'
-p1987
-aS'2004'
-p1988
-aS'Back-row'
-p1989
-aS'1978'
-p1990
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVSvizra
-p1991
-aVSvizzera
-p1992
-aVSuisse
-p1993
-aa(lp1994
-S'Forrest Gainer'
-p1995
-aS'2004'
-p1996
-aS'Prop'
-p1997
-aS'Edmonton'
-p1998
-aS'16'
-p1999
 aS'4'
 aS'0'
 aS'0'
-aVCanada
-p2000
-aVAlberta
-p2001
-aVEdmonton
-p2002
-aa(lp2003
-S'Stan McKeen'
-p2004
-aS'2004'
-p2005
-aS'Back-row'
-p2006
-aS'Vancouver'
-p2007
-aS'20'
-p2008
-aS'7'
 aS'0'
-aS'0'
-aVCanada
-p2009
-aVBritish Columbia
-p2010
-aVGreater Vancouver Regional District
-p2011
-aa(lp2012
-S"Sean O'Leary"
-p2013
-aS'2004'
-p2014
+aS'NSW'
+p2028
+aVAustralia
+p2029
+aVNew South Wales
+p2030
+ag396
+aa(lp2031
+S'Josh Jackson'
+p2032
+aS'2003'
+p2033
 aS'Lock'
-p2015
-aS'1979'
-p2016
+p2034
+aS'24'
+p2035
 aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVRomânia
-p2017
-aVVâlcea
-p2018
-aV1979
-p2019
-aa(lp2020
-S'Alby Pasutto'
-p2021
-aS'2004'
-p2022
-aS'Prop'
-p2023
-aS'1973'
-p2024
-aS'2'
+aS'17'
+p2036
 aS'1'
 aS'0'
 aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2025
-aV\u0421\u041a\u0424\u041e
-p2026
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2027
-aa(lp2028
-S'Mike Pyke'
-p2029
+aS'ON'
+p2037
+aVCanada
+p2038
+aVOntario
+p2039
+ag396
+aa(lp2040
+S'Pat Bickerton'
+p2041
 aS'2004'
-p2030
+p2042
+aS'Back-row'
+p2043
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1978'
+p2044
+aVSvizra
+p2045
+aVSvizzera
+p2046
+aVSuisse
+p2047
+aa(lp2048
+S'Forrest Gainer'
+p2049
+aS'2004'
+p2050
+aS'Prop'
+p2051
+aS'16'
+p2052
+aS'4'
+aS'12'
+p2053
+aS'0'
+aS'0'
+aS'0'
+aS'Edmonton'
+p2054
+aVCanada
+p2055
+aVAlberta
+p2056
+aVEdmonton
+p2057
+aa(lp2058
+S'Stan McKeen'
+p2059
+aS'2004'
+p2060
+aS'Back-row'
+p2061
+aS'20'
+p2062
+aS'7'
+aS'13'
+p2063
+aS'0'
+aS'0'
+aS'0'
+aS'Vancouver'
+p2064
+aVCanada
+p2065
+aVBritish Columbia
+p2066
+aVGreater Vancouver Regional District
+p2067
+aa(lp2068
+S"Sean O'Leary"
+p2069
+aS'2004'
+p2070
+aS'Lock'
+p2071
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1979'
+p2072
+aVRomânia
+p2073
+aVVâlcea
+p2074
+aV1979
+p2075
+aa(lp2076
+S'Alby Pasutto'
+p2077
+aS'2004'
+p2078
+aS'Prop'
+p2079
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1973'
+p2080
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2081
+aV\u0421\u041a\u0424\u041e
+p2082
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2083
+aa(lp2084
+S'Mike Pyke'
+p2085
+aS'2004'
+p2086
 aS'Fullback, Wing'
-p2031
-aS'BC'
-p2032
+p2087
 aS'22'
-p2033
+p2088
 aS'9'
+aS'12'
+p2089
+aS'1'
 aS'6'
 aS'40'
-p2034
-aVCanada
-p2035
-aVBritish Columbia
-p2036
-ag394
-aa(lp2037
-S'Mike Webb'
-p2038
-aS'2004'
-p2039
-aS'Flanker'
-p2040
-aS'BC'
-p2041
-aS'18'
-p2042
-aS'7'
-aS'0'
-aS'0'
-aVCanada
-p2043
-aVBritish Columbia
-p2044
-ag394
-aa(lp2045
-S'Tyler Wish'
-p2046
-aS'2004'
-p2047
-aS'Wing'
-p2048
-aS'1980'
-p2049
-aS'2'
-aS'1'
-aS'1'
-aS'5'
-aVSverige
-p2050
-aVSvealand
-p2051
-aVVästmanlands län
-p2052
-aa(lp2053
-S'Mike Burak'
-p2054
-aS'2004'
-p2055
-aS'Lock'
-p2056
-aS'Vancouver'
-p2057
-aS'29'
-p2058
-aS'8'
-aS'0'
-aS'0'
-aVCanada
-p2059
-aVBritish Columbia
-p2060
-aVGreater Vancouver Regional District
-p2061
-aa(lp2062
-S'Brian Collins'
-p2063
-aS'2004'
-p2064
-aS'Flanker'
-p2065
-aS'1980'
-p2066
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVSverige
-p2067
-aVSvealand
-p2068
-aVVästmanlands län
-p2069
-aa(lp2070
-S'Pat Fleck'
-p2071
-aS'2004'
-p2072
-aS'Scrum-half'
-p2073
-aS'1979'
-p2074
-aS'7'
-aS'3'
-aS'0'
-aS'0'
-aVRomânia
-p2075
-aVVâlcea
-p2076
-aV1979
-p2077
-aa(lp2078
-S'Tony LaCarte'
-p2079
-aS'2004'
-p2080
-aS'Wing'
-p2081
-aS'1983'
-p2082
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVSverige
-p2083
-aVSvealand
-p2084
-aVVästmanlands län
-p2085
-aa(lp2086
-S'Barkley Luke'
-p2087
-aS'2004'
-p2088
-aS'Centre'
-p2089
-aS'1976'
 p2090
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aS'BC'
 p2091
-aV\u0421\u041a\u0424\u041e
+aVCanada
 p2092
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aVBritish Columbia
 p2093
+ag396
 aa(lp2094
-S'Dan Pletch'
+S'Mike Webb'
 p2095
 aS'2004'
 p2096
-aS'Prop'
-p2097
-aS'ON'
-p2098
-aS'31'
-p2099
-aS'13'
-p2100
-aS'2'
-aS'10'
-p2101
-aVCanada
-p2102
-aVOntario
-p2103
-ag394
-aa(lp2104
-S'Matt Weingart'
-p2105
-aS'2004'
-p2106
-aS'Scrum-half'
-p2107
-aS'Williams Lake'
-p2108
-aS'7'
-aS'3'
-aS'0'
-aS'0'
-aVCanada
-p2109
-aVBritish Columbia
-p2110
-aVCariboo Regional District
-p2111
-aa(lp2112
-S'Mike Langley'
-p2113
-aS'2004'
-p2114
 aS'Flanker'
-p2115
-aS'date unknown'
-p2116
-aS'2'
+p2097
+aS'18'
+p2098
+aS'7'
+aS'10'
+p2099
 aS'1'
 aS'0'
 aS'0'
+aS'BC'
+p2100
+aVCanada
+p2101
+aVBritish Columbia
+p2102
+ag396
+aa(lp2103
+S'Tyler Wish'
+p2104
+aS'2004'
+p2105
+aS'Wing'
+p2106
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'1980'
+p2107
+aVSverige
+p2108
+aVSvealand
+p2109
+aVVästmanlands län
+p2110
+aa(lp2111
+S'Mike Burak'
+p2112
+aS'2004'
+p2113
+aS'Lock'
+p2114
+aS'29'
+p2115
+aS'8'
+aS'20'
+p2116
+aS'1'
+aS'0'
+aS'0'
+aS'Vancouver'
+p2117
+aVCanada
+p2118
+aVBritish Columbia
+p2119
+aVGreater Vancouver Regional District
+p2120
+aa(lp2121
+S'Brian Collins'
+p2122
+aS'2004'
+p2123
+aS'Flanker'
+p2124
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1980'
+p2125
+aVSverige
+p2126
+aVSvealand
+p2127
+aVVästmanlands län
+p2128
+aa(lp2129
+S'Pat Fleck'
+p2130
+aS'2004'
+p2131
+aS'Scrum-half'
+p2132
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'1979'
+p2133
+aVRomânia
+p2134
+aVVâlcea
+p2135
+aV1979
+p2136
+aa(lp2137
+S'Tony LaCarte'
+p2138
+aS'2004'
+p2139
+aS'Wing'
+p2140
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1983'
+p2141
+aVSverige
+p2142
+aVSvealand
+p2143
+aVVästmanlands län
+p2144
+aa(lp2145
+S'Barkley Luke'
+p2146
+aS'2004'
+p2147
+aS'Centre'
+p2148
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1976'
+p2149
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2150
+aV\u0421\u041a\u0424\u041e
+p2151
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2152
+aa(lp2153
+S'Dan Pletch'
+p2154
+aS'2004'
+p2155
+aS'Prop'
+p2156
+aS'31'
+p2157
+aS'13'
+p2158
+aS'17'
+p2159
+aS'1'
+aS'2'
+aS'10'
+p2160
+aS'ON'
+p2161
+aVCanada
+p2162
+aVOntario
+p2163
+ag396
+aa(lp2164
+S'Matt Weingart'
+p2165
+aS'2004'
+p2166
+aS'Scrum-half'
+p2167
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Williams Lake'
+p2168
+aVCanada
+p2169
+aVBritish Columbia
+p2170
+aVCariboo Regional District
+p2171
+aa(lp2172
+S'Mike Langley'
+p2173
+aS'2004'
+p2174
+aS'Flanker'
+p2175
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2176
 aS'g'
 aS'n'
 aS'i'
-aa(lp2117
+aa(lp2177
 S'Stirling Richmond'
-p2118
+p2178
 aS'2004'
-p2119
+p2179
 aS'Wing'
-p2120
-aS'1980'
-p2121
+p2180
 aS'8'
 aS'1'
+aS'7'
+aS'0'
 aS'3'
 aS'15'
-p2122
+p2181
+aS'1980'
+p2182
 aVSverige
-p2123
+p2183
 aVSvealand
-p2124
+p2184
 aVVästmanlands län
-p2125
-aa(lp2126
+p2185
+aa(lp2186
 S'Christoph Strubin'
-p2127
+p2187
 aS'2004'
-p2128
+p2188
 aS'Prop'
-p2129
-aS'N Vancouver'
-p2130
+p2189
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'N Vancouver'
+p2190
 aVCanada
-p2131
+p2191
 aVBritish Columbia
-p2132
+p2192
 aVGreater Vancouver Regional District
-p2133
-aa(lp2134
+p2193
+aa(lp2194
 S'Derek Daypuck'
-p2135
+p2195
 aS'2004'
-p2136
+p2196
 aS'Centre, Fly-half'
-p2137
-aS'ON'
-p2138
+p2197
 aS'17'
-p2139
+p2198
 aS'6'
+aS'11'
+p2199
+aS'0'
 aS'1'
 aS'54'
-p2140
-aVCanada
-p2141
-aVOntario
-p2142
-ag394
-aa(lp2143
-S'Dave Spicer'
-p2144
-aS'2004'
-p2145
-aS'Fly-half, Centre'
-p2146
-aS'BC'
-p2147
-aS'17'
-p2148
-aS'6'
-aS'2'
-aS'10'
-p2149
-aVCanada
-p2150
-aVBritish Columbia
-p2151
-ag394
-aa(lp2152
-S'Aaron Carpenter'
-p2153
-aS'2005'
-p2154
-aS'Hooker, Back-row'
-p2155
-aS'ON'
-p2156
-aS'60'
-p2157
-aS'26'
-p2158
-aS'11'
-p2159
-aS'55'
-p2160
-aVCanada
-p2161
-aVOntario
-p2162
-ag394
-aa(lp2163
-S'Dave Ramsay'
-p2164
-aS'2005'
-p2165
-aS'Flanker'
-p2166
-aS'Devon'
-p2167
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2168
-aVEngland
-p2169
-aVSouth West England
-p2170
-aa(lp2171
-S'Luke Tait'
-p2172
-aS'2005'
-p2173
-aS'Lock'
-p2174
-aS'ON'
-p2175
-aS'20'
-p2176
-aS'8'
-aS'1'
-aS'5'
-aVCanada
-p2177
-aVOntario
-p2178
-ag394
-aa(lp2179
-S'Ken Goodland'
-p2180
-aS'2005'
-p2181
-aS'Back-row'
-p2182
-aS'1975'
-p2183
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVÖsterreich
-p2184
-aV8271
-p2185
-aVSteiermark
-p2186
-aa(lp2187
-S'Ollie Atkinson'
-p2188
-aS'2005'
-p2189
-aS'Lock, Flanker'
-p2190
-aS'1980'
-p2191
-aS'5'
-aS'3'
-aS'0'
-aS'0'
-aVSverige
-p2192
-aVSvealand
-p2193
-aVVästmanlands län
-p2194
-aa(lp2195
-S'Brodie Henderson'
-p2196
-aS'2005'
-p2197
-aS'Wing'
-p2198
-aS'N Vancouver'
-p2199
-aS'3'
-aS'1'
-aS'2'
-aS'10'
 p2200
-aVCanada
-p2201
-aVBritish Columbia
-p2202
-aVGreater Vancouver Regional District
-p2203
-aa(lp2204
-S'Dean van Camp'
-p2205
-aS'2005'
-p2206
-aS'Wing, Centre'
-p2207
 aS'ON'
+p2201
+aVCanada
+p2202
+aVOntario
+p2203
+ag396
+aa(lp2204
+S'Dave Spicer'
+p2205
+aS'2004'
+p2206
+aS'Fly-half, Centre'
+p2207
+aS'17'
 p2208
-aS'9'
-aS'4'
+aS'6'
+aS'10'
+p2209
+aS'1'
+aS'2'
+aS'10'
+p2210
+aS'BC'
+p2211
+aVCanada
+p2212
+aVBritish Columbia
+p2213
+ag396
+aa(lp2214
+S'Aaron Carpenter'
+p2215
+aS'2005'
+p2216
+aS'Hooker, Back-row'
+p2217
+aS'60'
+p2218
+aS'26'
+p2219
+aS'32'
+p2220
+aS'2'
+aS'11'
+p2221
+aS'55'
+p2222
+aS'ON'
+p2223
+aVCanada
+p2224
+aVOntario
+p2225
+ag396
+aa(lp2226
+S'Dave Ramsay'
+p2227
+aS'2005'
+p2228
+aS'Flanker'
+p2229
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Devon'
+p2230
+aVUnited Kingdom
+p2231
+aVEngland
+p2232
+aVSouth West England
+p2233
+aa(lp2234
+S'Luke Tait'
+p2235
+aS'2005'
+p2236
+aS'Lock'
+p2237
+aS'20'
+p2238
+aS'8'
+aS'12'
+p2239
+aS'0'
 aS'1'
 aS'5'
-aVCanada
-p2209
-aVOntario
-p2210
-ag394
-aa(lp2211
-S'Kevin Parfrey'
-p2212
-aS'2005'
-p2213
-aS'Flanker'
-p2214
-aS'1981'
-p2215
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVSverige
-p2216
-aVSvealand
-p2217
-aVVästmanlands län
-p2218
-aa(lp2219
-S'Simon Pacey'
-p2220
-aS'2005'
-p2221
-aS'Wing'
-p2222
-aS'1974'
-p2223
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVÖsterreich
-p2224
-aV8573
-p2225
-aVSteiermark
-p2226
-aa(lp2227
-S'Kris Witkowski'
-p2228
-aS'2005'
-p2229
-aS'Centre'
-p2230
-aS'Warsaw'
-p2231
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVPolska
-p2232
-aVwojewództwo mazowieckie
-p2233
-aVWarszawa
-p2234
-aa(lp2235
-S'Peter Densmore'
-p2236
-aS'2005'
-p2237
-aS'Hooker'
-p2238
-aS'1976'
-p2239
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aS'ON'
 p2240
-aV\u0421\u041a\u0424\u041e
+aVCanada
 p2241
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aVOntario
 p2242
+ag396
 aa(lp2243
-S'Casey Dunning'
+S'Ken Goodland'
 p2244
 aS'2005'
 p2245
-aS'Prop'
+aS'Back-row'
 p2246
-aS'AL'
-p2247
-aS'5'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited States of America
+aS'0'
+aS'0'
+aS'1975'
+p2247
+aVÖsterreich
 p2248
-aVAlabama
+aV8271
 p2249
-ag394
-aa(lp2250
-S'Iain Exner'
-p2251
-aS'2005'
+aVSteiermark
+p2250
+aa(lp2251
+S'Ollie Atkinson'
 p2252
-aS'Prop'
+aS'2005'
 p2253
-aS'1979'
+aS'Lock, Flanker'
 p2254
+aS'5'
+aS'3'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVRomânia
+aS'1980'
 p2255
-aVVâlcea
+aVSverige
 p2256
-aV1979
+aVSvealand
 p2257
-aa(lp2258
-S'Sean-Michael Stephen'
-p2259
-aS'2005'
+aVVästmanlands län
+p2258
+aa(lp2259
+S'Brodie Henderson'
 p2260
-aS'Lock, Back-row'
+aS'2005'
 p2261
-aS'ON'
+aS'Wing'
 p2262
-aS'22'
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'2'
+aS'10'
 p2263
-aS'7'
-aS'5'
-aS'25'
+aS'N Vancouver'
 p2264
 aVCanada
 p2265
-aVOntario
+aVBritish Columbia
 p2266
-ag394
-aa(lp2267
-S'Simon Rodgers'
-p2268
-aS'2005'
+aVGreater Vancouver Regional District
+p2267
+aa(lp2268
+S'Dean van Camp'
 p2269
-aS'Fly-half'
+aS'2005'
 p2270
-aS'1978'
+aS'Wing, Centre'
 p2271
+aS'9'
+aS'4'
+aS'5'
+aS'0'
 aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVSvizra
+aS'5'
+aS'ON'
 p2272
-aVSvizzera
+aVCanada
 p2273
-aVSuisse
+aVOntario
 p2274
+ag396
 aa(lp2275
-S'Akio Tyler'
+S'Kevin Parfrey'
 p2276
 aS'2005'
 p2277
-aS'Centre'
+aS'Flanker'
 p2278
-aS'BC'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1981'
 p2279
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVCanada
+aVSverige
 p2280
-aVBritish Columbia
+aVSvealand
 p2281
-ag394
-aa(lp2282
-S'Mike Pletch'
-p2283
-aS'2005'
+aVVästmanlands län
+p2282
+aa(lp2283
+S'Simon Pacey'
 p2284
-aS'Hooker, Prop'
+aS'2005'
 p2285
-aS'ON'
+aS'Wing'
 p2286
-aS'26'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1974'
 p2287
-aS'11'
+aVÖsterreich
 p2288
-aS'0'
-aS'0'
-aVCanada
+aV8573
 p2289
-aVOntario
+aVSteiermark
 p2290
-ag394
 aa(lp2291
-S'Adam Kleeberger'
+S'Kris Witkowski'
 p2292
 aS'2005'
 p2293
-aS'Flanker'
-p2294
-aS'AB'
-p2295
-aS'38'
-p2296
-aS'17'
-p2297
-aS'4'
-aS'20'
-p2298
-aVCanada
-p2299
-aVAlberta
-p2300
-ag394
-aa(lp2301
-S'Ryan McWhinney'
-p2302
-aS'2005'
-p2303
 aS'Centre'
-p2304
-aS'Abbotsford'
-p2305
+p2294
+aS'3'
+aS'1'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVCanada
-p2306
-aVBritish Columbia
-p2307
-aVFraser Valley Regional District
-p2308
-aa(lp2309
-S'Scott Hunter'
-p2310
+aS'Warsaw'
+p2295
+aVPolska
+p2296
+aVwojewództwo mazowieckie
+p2297
+aVWarszawa
+p2298
+aa(lp2299
+S'Peter Densmore'
+p2300
 aS'2005'
-p2311
-aS'Lock'
-p2312
-aS'date unknown'
-p2313
+p2301
+aS'Hooker'
+p2302
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
+aS'1976'
+p2303
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2304
+aV\u0421\u041a\u0424\u041e
+p2305
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2306
+aa(lp2307
+S'Casey Dunning'
+p2308
+aS'2005'
+p2309
+aS'Prop'
+p2310
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'AL'
+p2311
+aVUnited States of America
+p2312
+aVAlabama
+p2313
+ag396
 aa(lp2314
-S'Ryan Stewart'
+S'Iain Exner'
 p2315
 aS'2005'
 p2316
-aS'Wing'
+aS'Prop'
 p2317
-aS'date unknown'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1979'
 p2318
+aVRomânia
+p2319
+aVVâlcea
+p2320
+aV1979
+p2321
+aa(lp2322
+S'Sean-Michael Stephen'
+p2323
+aS'2005'
+p2324
+aS'Lock, Back-row'
+p2325
+aS'22'
+p2326
+aS'7'
+aS'15'
+p2327
+aS'0'
+aS'5'
+aS'25'
+p2328
+aS'ON'
+p2329
+aVCanada
+p2330
+aVOntario
+p2331
+ag396
+aa(lp2332
+S'Simon Rodgers'
+p2333
+aS'2005'
+p2334
+aS'Fly-half'
+p2335
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'1978'
+p2336
+aVSvizra
+p2337
+aVSvizzera
+p2338
+aVSuisse
+p2339
+aa(lp2340
+S'Akio Tyler'
+p2341
+aS'2005'
+p2342
+aS'Centre'
+p2343
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'BC'
+p2344
+aVCanada
+p2345
+aVBritish Columbia
+p2346
+ag396
+aa(lp2347
+S'Mike Pletch'
+p2348
+aS'2005'
+p2349
+aS'Hooker, Prop'
+p2350
+aS'26'
+p2351
+aS'11'
+p2352
+aS'14'
+p2353
+aS'1'
+aS'0'
+aS'0'
+aS'ON'
+p2354
+aVCanada
+p2355
+aVOntario
+p2356
+ag396
+aa(lp2357
+S'Adam Kleeberger'
+p2358
+aS'2005'
+p2359
+aS'Flanker'
+p2360
+aS'38'
+p2361
+aS'17'
+p2362
+aS'19'
+p2363
+aS'2'
+aS'4'
+aS'20'
+p2364
+aS'AB'
+p2365
+aVCanada
+p2366
+aVAlberta
+p2367
+ag396
+aa(lp2368
+S'Ryan McWhinney'
+p2369
+aS'2005'
+p2370
+aS'Centre'
+p2371
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Abbotsford'
+p2372
+aVCanada
+p2373
+aVBritish Columbia
+p2374
+aVFraser Valley Regional District
+p2375
+aa(lp2376
+S'Scott Hunter'
+p2377
+aS'2005'
+p2378
+aS'Lock'
+p2379
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2380
 aS'g'
 aS'n'
 aS'i'
-aa(lp2319
-S'Justin Mensah-Coker'
-p2320
-aS'2006'
-p2321
+aa(lp2381
+S'Ryan Stewart'
+p2382
+aS'2005'
+p2383
 aS'Wing'
-p2322
-aS'BC'
-p2323
+p2384
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2385
+aS'g'
+aS'n'
+aS'i'
+aa(lp2386
+S'Justin Mensah-Coker'
+p2387
+aS'2006'
+p2388
+aS'Wing'
+p2389
 aS'26'
-p2324
+p2390
 aS'12'
-p2325
+p2391
+aS'13'
+p2392
+aS'1'
 aS'7'
 aS'35'
-p2326
+p2393
+aS'BC'
+p2394
 aVCanada
-p2327
+p2395
 aVBritish Columbia
-p2328
-ag394
-aa(lp2329
+p2396
+ag396
+aa(lp2397
 S'Chris Pack'
-p2330
+p2398
 aS'2006'
-p2331
+p2399
 aS'Centre'
-p2332
-aS'1978'
-p2333
+p2400
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'1978'
+p2401
 aVSvizra
-p2334
+p2402
 aVSvizzera
-p2335
+p2403
 aVSuisse
-p2336
-aa(lp2337
+p2404
+aa(lp2405
 S'Dave Biddle'
-p2338
+p2406
 aS'2006'
-p2339
+p2407
 aS'Flanker'
-p2340
-aS'Vancouver'
-p2341
+p2408
 aS'6'
 aS'1'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'Vancouver'
+p2409
 aVCanada
-p2342
+p2410
 aVBritish Columbia
-p2343
+p2411
 aVGreater Vancouver Regional District
-p2344
-aa(lp2345
+p2412
+aa(lp2413
 S'Matt Phinney'
-p2346
+p2414
 aS'2006'
-p2347
+p2415
 aS'Back-row, Lock'
-p2348
+p2416
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'1980'
-p2349
-aS'2'
-aS'0'
-aS'0'
-aS'0'
+p2417
 aVSverige
-p2350
+p2418
 aVSvealand
-p2351
+p2419
 aVVästmanlands län
-p2352
-aa(lp2353
+p2420
+aa(lp2421
 S'Mike Barbieri'
-p2354
+p2422
 aS'2006'
-p2355
+p2423
 aS'Prop'
-p2356
-aS'Toronto'
-p2357
+p2424
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Toronto'
+p2425
 aVCanada
-p2358
+p2426
 aVOntario
-p2359
+p2427
 aVToronto
-p2360
-aa(lp2361
+p2428
+aa(lp2429
 S'Ander Monro'
-p2362
+p2430
 aS'2006'
-p2363
+p2431
 aS'Fly-half'
-p2364
-aS'ON'
-p2365
+p2432
 aS'30'
-p2366
+p2433
 aS'15'
-p2367
+p2434
+aS'14'
+p2435
+aS'1'
 aS'3'
 aS'65'
-p2368
-aVCanada
-p2369
-aVOntario
-p2370
-ag394
-aa(lp2371
-S'Hubert Buydens'
-p2372
-aS'2006'
-p2373
-aS'Prop'
-p2374
-aS'SK'
-p2375
-aS'28'
-p2376
-aS'13'
-p2377
-aS'0'
-aS'0'
-aVSlovensko
-p2378
-ag394
-ag394
-aa(lp2379
-S'Craig Culpan'
-p2380
-aS'2006'
-p2381
-aS'Centre'
-p2382
-aS'Vancouver'
-p2383
-aS'7'
-aS'2'
-aS'1'
-aS'5'
-aVCanada
-p2384
-aVBritish Columbia
-p2385
-aVGreater Vancouver Regional District
-p2386
-aa(lp2387
-S'DTH van der Merwe'
-p2388
-aS'2006'
-p2389
-aS'Wing'
-p2390
-aS'Worcester'
-p2391
-aS'32'
-p2392
-aS'14'
-p2393
-aS'14'
-p2394
-aS'70'
-p2395
-aVUnited Kingdom
-p2396
-aVEngland
-p2397
-aVWest Midlands
-p2398
-aa(lp2399
-S'Stu Ault'
-p2400
-aS'2006'
-p2401
-aS'Lock, Back-row'
-p2402
-aS'1981'
-p2403
-aS'7'
-aS'4'
-aS'0'
-aS'0'
-aVSverige
-p2404
-aVSvealand
-p2405
-aVVästmanlands län
-p2406
-aa(lp2407
-S'Scott Franklin'
-p2408
-aS'2007'
-p2409
-aS'Prop'
-p2410
-aS'SK'
-p2411
-aS'12'
-p2412
-aS'5'
-aS'0'
-aS'0'
-aVSlovensko
-p2413
-ag394
-ag394
-aa(lp2414
-S'Nanyak Dala'
-p2415
-aS'2007'
-p2416
-aS'Flanker'
-p2417
-aS'Jos'
-p2418
-aS'31'
-p2419
-aS'17'
-p2420
-aS'4'
-aS'20'
-p2421
-aVNigeria
-p2422
-aVPlateau
-p2423
-aVJos North
-p2424
-aa(lp2425
-S'Nick Trenkel'
-p2426
-aS'2007'
-p2427
-aS'Centre'
-p2428
-aS'Randburg'
-p2429
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVSouth Africa
-p2430
-aVGauteng
-p2431
-aVCity of Johannesburg Metropolitan Municipality
-p2432
-aa(lp2433
-S'Luke Cudmore'
-p2434
-aS'2008'
-p2435
-aS'Lock'
 p2436
-aS'Vancouver'
+aS'ON'
 p2437
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVCanada
 p2438
-aVBritish Columbia
+aVOntario
 p2439
-aVGreater Vancouver Regional District
-p2440
-aa(lp2441
-S'Tyler Hotson'
+ag396
+aa(lp2440
+S'Hubert Buydens'
+p2441
+aS'2006'
 p2442
-aS'2008'
+aS'Prop'
 p2443
-aS'Lock'
+aS'28'
 p2444
-aS'BC'
+aS'13'
 p2445
-aS'42'
+aS'14'
 p2446
-aS'22'
+aS'1'
+aS'0'
+aS'0'
+aS'SK'
 p2447
-aS'0'
-aS'0'
-aVCanada
+aVSlovensko
 p2448
-aVBritish Columbia
-p2449
-ag394
-aa(lp2450
-S'Bryn Keys'
+ag396
+ag396
+aa(lp2449
+S'Craig Culpan'
+p2450
+aS'2006'
 p2451
-aS'2008'
-p2452
 aS'Centre'
-p2453
-aS'1985'
-p2454
-aS'8'
+p2452
+aS'7'
+aS'2'
 aS'4'
-aS'0'
-aS'0'
-aVNederland
+aS'1'
+aS'1'
+aS'5'
+aS'Vancouver'
+p2453
+aVCanada
+p2454
+aVBritish Columbia
 p2455
-aV1985
+aVGreater Vancouver Regional District
 p2456
-aVNederland
-p2457
-aa(lp2458
-S'Andy Wilson'
+aa(lp2457
+S'DTH van der Merwe'
+p2458
+aS'2006'
 p2459
-aS'2008'
+aS'Wing'
 p2460
-aS'Lock'
+aS'32'
 p2461
-aS'1985'
+aS'14'
 p2462
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVNederland
+aS'16'
 p2463
-aV1985
+aS'2'
+aS'14'
 p2464
-aVNederland
+aS'70'
 p2465
-aa(lp2466
-S'Andrew Fagan'
+aS'Worcester'
+p2466
+aVUnited Kingdom
 p2467
-aS'2008'
+aVEngland
 p2468
-aS'Flanker'
+aVWest Midlands
 p2469
-aS'1984'
-p2470
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVSverige
+aa(lp2470
+S'Stu Ault'
 p2471
-aVSvealand
+aS'2006'
 p2472
-aVVästmanlands län
+aS'Lock, Back-row'
 p2473
-aa(lp2474
-S'Phil MacKenzie'
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1981'
+p2474
+aVSverige
 p2475
-aS'2008'
+aVSvealand
 p2476
-aS'Wing, Centre'
+aVVästmanlands län
 p2477
-aS'Oakville'
-p2478
-aS'21'
+aa(lp2478
+S'Scott Franklin'
 p2479
-aS'12'
+aS'2007'
 p2480
+aS'Prop'
+p2481
+aS'12'
+p2482
+aS'5'
+aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'SK'
+p2483
+aVSlovensko
+p2484
+ag396
+ag396
+aa(lp2485
+S'Nanyak Dala'
+p2486
+aS'2007'
+p2487
+aS'Flanker'
+p2488
+aS'31'
+p2489
+aS'17'
+p2490
+aS'14'
+p2491
+aS'0'
 aS'4'
 aS'20'
-p2481
-aVCanada
-p2482
-aVOntario
-p2483
-aVOakville
-p2484
-aa(lp2485
-S'Nathan Hirayama'
-p2486
+p2492
+aS'Jos'
+p2493
+aVNigeria
+p2494
+aVPlateau
+p2495
+aVJos North
+p2496
+aa(lp2497
+S'Nick Trenkel'
+p2498
+aS'2007'
+p2499
+aS'Centre'
+p2500
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Randburg'
+p2501
+aVSouth Africa
+p2502
+aVGauteng
+p2503
+aVCity of Johannesburg Metropolitan Municipality
+p2504
+aa(lp2505
+S'Luke Cudmore'
+p2506
 aS'2008'
-p2487
+p2507
+aS'Lock'
+p2508
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Vancouver'
+p2509
+aVCanada
+p2510
+aVBritish Columbia
+p2511
+aVGreater Vancouver Regional District
+p2512
+aa(lp2513
+S'Tyler Hotson'
+p2514
+aS'2008'
+p2515
+aS'Lock'
+p2516
+aS'42'
+p2517
+aS'22'
+p2518
+aS'19'
+p2519
+aS'1'
+aS'0'
+aS'0'
+aS'BC'
+p2520
+aVCanada
+p2521
+aVBritish Columbia
+p2522
+ag396
+aa(lp2523
+S'Bryn Keys'
+p2524
+aS'2008'
+p2525
+aS'Centre'
+p2526
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'1985'
+p2527
+aVNederland
+p2528
+aV1985
+p2529
+aVNederland
+p2530
+aa(lp2531
+S'Andy Wilson'
+p2532
+aS'2008'
+p2533
+aS'Lock'
+p2534
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1985'
+p2535
+aVNederland
+p2536
+aV1985
+p2537
+aVNederland
+p2538
+aa(lp2539
+S'Andrew Fagan'
+p2540
+aS'2008'
+p2541
+aS'Flanker'
+p2542
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1984'
+p2543
+aVSverige
+p2544
+aVSvealand
+p2545
+aVVästmanlands län
+p2546
+aa(lp2547
+S'Phil MacKenzie'
+p2548
+aS'2008'
+p2549
+aS'Wing, Centre'
+p2550
+aS'21'
+p2551
+aS'12'
+p2552
+aS'8'
+aS'1'
+aS'4'
+aS'20'
+p2553
+aS'Oakville'
+p2554
+aVCanada
+p2555
+aVOntario
+p2556
+aVOakville
+p2557
+aa(lp2558
+S'Nathan Hirayama'
+p2559
+aS'2008'
+p2560
 aS'Fly-half'
-p2488
-aS'Richmond'
-p2489
+p2561
 aS'14'
-p2490
+p2562
 aS'7'
+aS'7'
+aS'0'
 aS'1'
 aS'11'
-p2491
+p2563
+aS'Richmond'
+p2564
 aVUnited States of America
-p2492
+p2565
 aVVirginia
-p2493
+p2566
 aVHenrico
-p2494
-aa(lp2495
+p2567
+aa(lp2568
 S'Jebb Sinclair'
-p2496
+p2569
 aS'2008'
-p2497
+p2570
 aS'Flanker'
-p2498
-aS'Red Deer'
-p2499
+p2571
 aS'37'
-p2500
+p2572
 aS'18'
-p2501
+p2573
+aS'18'
+p2574
+aS'1'
 aS'2'
 aS'10'
-p2502
+p2575
+aS'Red Deer'
+p2576
 aVCanada
-p2503
+p2577
 aVAlberta
-p2504
+p2578
 aVCity of Red Deer
-p2505
-aa(lp2506
+p2579
+aa(lp2580
 S'Ciaran Hearn'
-p2507
+p2581
 aS'2008'
-p2508
+p2582
 aS'Centre, Fullback'
-p2509
-aS"St John's"
-p2510
+p2583
 aS'39'
-p2511
+p2584
 aS'19'
-p2512
+p2585
+aS'20'
+p2586
+aS'0'
 aS'6'
 aS'35'
-p2513
+p2587
+aS"St John's"
+p2588
 aVCanada
-p2514
+p2589
 aVNewfoundland and Labrador
-p2515
+p2590
 aVSt. John's
-p2516
-aa(lp2517
+p2591
+aa(lp2592
 S'Matt Evans'
-p2518
+p2593
 aS'2008'
-p2519
+p2594
 aS'Wing'
-p2520
-aS'Salisbury'
-p2521
+p2595
 aS'24'
-p2522
+p2596
 aS'12'
-p2523
+p2597
+aS'11'
+p2598
+aS'1'
 aS'7'
 aS'35'
-p2524
+p2599
+aS'Salisbury'
+p2600
 aVUnited Kingdom
-p2525
+p2601
 aVEngland
-p2526
+p2602
 aVSouth West England
-p2527
-aa(lp2528
+p2603
+aa(lp2604
 S'Frank Walsh'
-p2529
+p2605
 aS'2008'
-p2530
+p2606
 aS'Prop'
-p2531
-aS"St John's"
-p2532
+p2607
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS"St John's"
+p2608
 aVCanada
-p2533
+p2609
 aVNewfoundland and Labrador
-p2534
+p2610
 aVSt. John's
-p2535
-aa(lp2536
+p2611
+aa(lp2612
 S'Sean Duke'
-p2537
+p2613
 aS'2008'
-p2538
+p2614
 aS'Wing'
-p2539
-aS'1988'
-p2540
+p2615
 aS'11'
-p2541
+p2616
 aS'7'
 aS'4'
+aS'0'
+aS'4'
 aS'20'
-p2542
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2543
-aV\u0421\u041a\u0424\u041e
-p2544
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2545
-aa(lp2546
-S'Jason Marshall'
-p2547
-aS'2008'
-p2548
-aS'Prop'
-p2549
-aS'N Vancouver'
-p2550
-aS'30'
-p2551
-aS'16'
-p2552
-aS'3'
-aS'15'
-p2553
-aVCanada
-p2554
-aVBritish Columbia
-p2555
-aVGreater Vancouver Regional District
-p2556
-aa(lp2557
-S"Chauncey O'Toole"
-p2558
-aS'2009'
-p2559
-aS'Flanker'
-p2560
-aS'NB'
-p2561
-aS'21'
-p2562
-aS'12'
-p2563
-aS'3'
-aS'15'
-p2564
-aVCanada
-p2565
-aVNew Brunswick
-p2566
-ag394
-aa(lp2567
-S'Phil Mack'
-p2568
-aS'2009'
-p2569
-aS'Scrum-half'
-p2570
-aS'Victoria'
-p2571
-aS'21'
-p2572
-aS'10'
-p2573
-aS'1'
-aS'5'
-aVAustralia
-p2574
-aVVictoria
-p2575
-ag394
-aa(lp2576
-S'Doug Wooldridge'
-p2577
-aS'2009'
-p2578
-aS'Prop'
-p2579
-aS'1985'
-p2580
-aS'14'
-p2581
-aS'8'
-aS'0'
-aS'0'
-aVNederland
-p2582
-aV1985
-p2583
-aVNederland
-p2584
-aa(lp2585
-S'Andrew Tiedemann'
-p2586
-aS'2009'
-p2587
-aS'Prop'
-p2588
-aS'St Albert'
-p2589
-aS'30'
-p2590
-aS'15'
-p2591
-aS'0'
-aS'0'
-aVCanada
-p2592
-aVAlberta
-p2593
-aVSaint Albert
-p2594
-aa(lp2595
-S'John Moonlight'
-p2596
-aS'2009'
-p2597
-aS'Back-row'
-p2598
-aS'1987'
-p2599
-aS'15'
-p2600
-aS'9'
-aS'3'
-aS'15'
-p2601
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2602
-aV\u0421\u041a\u0424\u041e
-p2603
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2604
-aa(lp2605
-S'Nick Blevins'
-p2606
-aS'2009'
-p2607
-aS'Centre'
-p2608
-aS'1988'
-p2609
-aS'20'
-p2610
-aS'10'
-p2611
-aS'2'
-aS'10'
-p2612
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2613
-aV\u0421\u041a\u0424\u041e
-p2614
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2615
-aa(lp2616
-S'Sean White'
 p2617
-aS'2009'
+aS'1988'
 p2618
-aS'Scrum-half'
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p2619
-aS'Victoria'
+aV\u0421\u041a\u0424\u041e
 p2620
-aS'27'
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p2621
-aS'15'
-p2622
-aS'2'
-aS'10'
+aa(lp2622
+S'Jason Marshall'
 p2623
-aVAustralia
+aS'2008'
 p2624
-aVVictoria
-p2625
-ag394
-aa(lp2626
-S'Tom Dolezel'
-p2627
-aS'2009'
-p2628
 aS'Prop'
-p2629
-aS'1984'
-p2630
+p2625
+aS'30'
+p2626
+aS'16'
+p2627
 aS'13'
-p2631
-aS'10'
-p2632
+p2628
 aS'1'
-aS'5'
-aVSverige
-p2633
-aVSvealand
-p2634
-aVVästmanlands län
-p2635
-aa(lp2636
-S'Brian Erichsen'
-p2637
-aS'2009'
-p2638
-aS'Lock'
-p2639
-aS'Winnipeg'
-p2640
-aS'5'
-aS'5'
-aS'0'
-aS'0'
+aS'3'
+aS'15'
+p2629
+aS'N Vancouver'
+p2630
 aVCanada
+p2631
+aVBritish Columbia
+p2632
+aVGreater Vancouver Regional District
+p2633
+aa(lp2634
+S"Chauncey O'Toole"
+p2635
+aS'2009'
+p2636
+aS'Flanker'
+p2637
+aS'21'
+p2638
+aS'12'
+p2639
+aS'8'
+aS'1'
+aS'3'
+aS'15'
+p2640
+aS'NB'
 p2641
-aVManitoba
+aVCanada
 p2642
-aVWinnipeg
+aVNew Brunswick
 p2643
+ag396
 aa(lp2644
-S'Mark MacSween'
+S'Phil Mack'
 p2645
 aS'2009'
 p2646
-aS'Flanker'
-p2647
-aS'1986'
-p2648
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2649
-aV\u0421\u041a\u0424\u041e
-p2650
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2651
-aa(lp2652
-S'Mike Scholz'
-p2653
-aS'2009'
-p2654
-aS'Centre'
-p2655
-aS'ON'
-p2656
-aS'6'
-aS'5'
-aS'0'
-aS'0'
-aVCanada
-p2657
-aVOntario
-p2658
-ag394
-aa(lp2659
-S'Ryan Hamilton'
-p2660
-aS'2010'
-p2661
-aS'Hooker'
-p2662
-aS'Edmonton'
-p2663
-aS'17'
-p2664
-aS'11'
-p2665
-aS'0'
-aS'0'
-aVCanada
-p2666
-aVAlberta
-p2667
-aVEdmonton
-p2668
-aa(lp2669
-S'Jeremy Kyne'
-p2670
-aS'2010'
-p2671
-aS'Flanker'
-p2672
-aS'Wellington'
-p2673
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p2674
-aVWellington
-p2675
-aVWellington City
-p2676
-aa(lp2677
-S'Taylor Paris'
-p2678
-aS'2010'
-p2679
-aS'Wing'
-p2680
-aS'Barrie'
-p2681
-aS'12'
-p2682
-aS'7'
-aS'5'
-aS'25'
-p2683
-aVCanada
-p2684
-aVOntario
-p2685
-aVBarrie
-p2686
-aa(lp2687
-S'Connor Braid'
-p2688
-aS'2010'
-p2689
-aS'Fly-half, Centre'
-p2690
-aS'1990'
-p2691
-aS'14'
-p2692
-aS'6'
-aS'2'
-aS'26'
-p2693
-aVPortugal
-p2694
-aV1990
-p2695
-aVLisboa
-p2696
-aa(lp2697
-S'Mitch Gudgeon'
-p2698
-aS'2010'
-p2699
-aS'Lock'
-p2700
-aS'1986'
-p2701
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2702
-aV\u0421\u041a\u0424\u041e
-p2703
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2704
-aa(lp2705
-S'Jamie Mackenzie'
-p2706
-aS'2010'
-p2707
 aS'Scrum-half'
-p2708
-aS'Troon'
-p2709
-aS'5'
-aS'4'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2710
-aVScotland
-p2711
-aVSouth Ayrshire
-p2712
-aa(lp2713
-S'Jon Phelan'
-p2714
-aS'2010'
-p2715
-aS'Lock'
-p2716
-aS'1986'
-p2717
-aS'19'
-p2718
-aS'9'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2719
-aV\u0421\u041a\u0424\u041e
-p2720
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2721
-aa(lp2722
-S'Conor Trainor'
-p2723
-aS'2011'
-p2724
-aS'Centre'
-p2725
-aS'Vancouver'
-p2726
-aS'13'
-p2727
-aS'5'
-aS'5'
-aS'25'
-p2728
-aVCanada
-p2729
-aVBritish Columbia
-p2730
-aVGreater Vancouver Regional District
-p2731
-aa(lp2732
-S'Brett Beukeboom'
-p2733
-aS'2012'
-p2734
-aS'Lock'
-p2735
-aS'1989'
-p2736
+p2647
+aS'21'
+p2648
+aS'10'
+p2649
 aS'11'
-p2737
+p2650
+aS'0'
+aS'1'
+aS'5'
+aS'Victoria'
+p2651
+aVAustralia
+p2652
+aVVictoria
+p2653
+ag396
+aa(lp2654
+S'Doug Wooldridge'
+p2655
+aS'2009'
+p2656
+aS'Prop'
+p2657
+aS'14'
+p2658
+aS'8'
 aS'6'
 aS'0'
 aS'0'
-aV\u010cesko
-p2738
-aV43201
-p2739
-aVSeverozápad
-p2740
-aa(lp2741
-S'Tyler Ardron'
-p2742
-aS'2012'
-p2743
-aS'Flanker'
-p2744
-aS'ON'
-p2745
-aS'17'
-p2746
-aS'7'
-aS'2'
-aS'10'
-p2747
+aS'0'
+aS'1985'
+p2659
+aVNederland
+p2660
+aV1985
+p2661
+aVNederland
+p2662
+aa(lp2663
+S'Andrew Tiedemann'
+p2664
+aS'2009'
+p2665
+aS'Prop'
+p2666
+aS'30'
+p2667
+aS'15'
+p2668
+aS'15'
+p2669
+aS'0'
+aS'0'
+aS'0'
+aS'St Albert'
+p2670
 aVCanada
-p2748
-aVOntario
-p2749
-ag394
-aa(lp2750
-S'Jeff Hassler'
-p2751
-aS'2012'
-p2752
-aS'Wing'
-p2753
-aS'AL'
-p2754
-aS'11'
-p2755
-aS'3'
+p2671
+aVAlberta
+p2672
+aVSaint Albert
+p2673
+aa(lp2674
+S'John Moonlight'
+p2675
+aS'2009'
+p2676
+aS'Back-row'
+p2677
+aS'15'
+p2678
+aS'9'
+aS'6'
+aS'0'
 aS'3'
 aS'15'
-p2756
-aVUnited States of America
-p2757
-aVAlabama
-p2758
-ag394
-aa(lp2759
-S'Ray Barkwill'
-p2760
-aS'2012'
-p2761
-aS'Hooker'
-p2762
-aS'1980'
-p2763
-aS'17'
-p2764
-aS'8'
+p2679
+aS'1987'
+p2680
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2681
+aV\u0421\u041a\u0424\u041e
+p2682
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2683
+aa(lp2684
+S'Nick Blevins'
+p2685
+aS'2009'
+p2686
+aS'Centre'
+p2687
+aS'20'
+p2688
+aS'10'
+p2689
+aS'10'
+p2690
+aS'0'
+aS'2'
+aS'10'
+p2691
+aS'1988'
+p2692
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2693
+aV\u0421\u041a\u0424\u041e
+p2694
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2695
+aa(lp2696
+S'Sean White'
+p2697
+aS'2009'
+p2698
+aS'Scrum-half'
+p2699
+aS'27'
+p2700
+aS'15'
+p2701
+aS'11'
+p2702
+aS'1'
+aS'2'
+aS'10'
+p2703
+aS'Victoria'
+p2704
+aVAustralia
+p2705
+aVVictoria
+p2706
+ag396
+aa(lp2707
+S'Tom Dolezel'
+p2708
+aS'2009'
+p2709
+aS'Prop'
+p2710
+aS'13'
+p2711
+aS'10'
+p2712
+aS'3'
+aS'0'
 aS'1'
 aS'5'
+aS'1984'
+p2713
 aVSverige
-p2765
+p2714
 aVSvealand
-p2766
+p2715
 aVVästmanlands län
-p2767
-aa(lp2768
-S'Eric Wilson'
-p2769
-aS'2012'
-p2770
-aS'Fullback'
-p2771
-aS'1983'
-p2772
+p2716
+aa(lp2717
+S'Brian Erichsen'
+p2718
+aS'2009'
+p2719
+aS'Lock'
+p2720
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Winnipeg'
+p2721
+aVCanada
+p2722
+aVManitoba
+p2723
+aVWinnipeg
+p2724
+aa(lp2725
+S'Mark MacSween'
+p2726
+aS'2009'
+p2727
+aS'Flanker'
+p2728
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1986'
+p2729
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2730
+aV\u0421\u041a\u0424\u041e
+p2731
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2732
+aa(lp2733
+S'Mike Scholz'
+p2734
+aS'2009'
+p2735
+aS'Centre'
+p2736
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'ON'
+p2737
+aVCanada
+p2738
+aVOntario
+p2739
+ag396
+aa(lp2740
+S'Ryan Hamilton'
+p2741
+aS'2010'
+p2742
+aS'Hooker'
+p2743
+aS'17'
+p2744
+aS'11'
+p2745
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'Edmonton'
+p2746
+aVCanada
+p2747
+aVAlberta
+p2748
+aVEdmonton
+p2749
+aa(lp2750
+S'Jeremy Kyne'
+p2751
+aS'2010'
+p2752
+aS'Flanker'
+p2753
 aS'2'
 aS'1'
 aS'0'
+aS'1'
 aS'0'
-aVSverige
-p2773
-aVSvealand
-p2774
-aVVästmanlands län
-p2775
-aa(lp2776
-S'Harry Jones'
-p2777
-aS'2012'
-p2778
-aS'Fly-half, Fullback'
-p2779
-aS'1989'
-p2780
+aS'0'
+aS'Wellington'
+p2754
+aVNew Zealand/Aotearoa
+p2755
+aVWellington
+p2756
+aVWellington City
+p2757
+aa(lp2758
+S'Taylor Paris'
+p2759
+aS'2010'
+p2760
+aS'Wing'
+p2761
 aS'12'
-p2781
-aS'6'
+p2762
+aS'7'
 aS'5'
-aS'38'
+aS'0'
+aS'5'
+aS'25'
+p2763
+aS'Barrie'
+p2764
+aVCanada
+p2765
+aVOntario
+p2766
+aVBarrie
+p2767
+aa(lp2768
+S'Connor Braid'
+p2769
+aS'2010'
+p2770
+aS'Fly-half, Centre'
+p2771
+aS'14'
+p2772
+aS'6'
+aS'8'
+aS'0'
+aS'2'
+aS'26'
+p2773
+aS'1990'
+p2774
+aVPortugal
+p2775
+aV1990
+p2776
+aVLisboa
+p2777
+aa(lp2778
+S'Mitch Gudgeon'
+p2779
+aS'2010'
+p2780
+aS'Lock'
+p2781
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1986'
 p2782
-aV\u010cesko
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p2783
-aV43201
+aV\u0421\u041a\u0424\u041e
 p2784
-aVSeverozápad
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p2785
 aa(lp2786
-S'Pat Parfrey'
+S'Jamie Mackenzie'
 p2787
-aS'2013'
+aS'2010'
 p2788
-aS'Centre'
+aS'Scrum-half'
 p2789
-aS'1991'
-p2790
-aS'7'
-aS'3'
-aS'0'
-aS'0'
-aVNederland
-p2791
-aV1991
-p2792
-aVNederland
-p2793
-aa(lp2794
-S'Liam Underwood'
-p2795
-aS'2013'
-p2796
-aS'Fly-half'
-p2797
-aS'1991'
-p2798
-aS'6'
-aS'3'
-aS'0'
-aS'9'
-aVNederland
-p2799
-aV1991
-p2800
-aVNederland
-p2801
-aa(lp2802
-S'Aaron Flagg'
-p2803
-aS'2013'
-p2804
-aS'Lock'
-p2805
-aS'1989'
-p2806
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aV\u010cesko
-p2807
-aV43201
-p2808
-aVSeverozápad
-p2809
-aa(lp2810
-S'Michael Fuailefau'
-p2811
-aS'2013'
-p2812
-aS'Centre'
-p2813
-aS'1992'
-p2814
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2815
-aV\u0421\u041a\u0424\u041e
-p2816
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2817
-aa(lp2818
-S'Cam Pierce'
-p2819
-aS'2013'
-p2820
-aS'Lock'
-p2821
-aS'1991'
-p2822
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVNederland
-p2823
-aV1991
-p2824
-aVNederland
-p2825
-aa(lp2826
-S'Jake Ilnicki'
-p2827
-aS'2013'
-p2828
-aS'Prop'
-p2829
-aS'BC'
-p2830
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aVCanada
-p2831
-aVBritish Columbia
-p2832
-ag394
-aa(lp2833
-S'Benoit Piffero'
-p2834
-aS'2013'
-p2835
-aS'Hooker'
-p2836
-aS'1987'
-p2837
+aS'5'
 aS'4'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Troon'
+p2790
+aVUnited Kingdom
+p2791
+aVScotland
+p2792
+aVSouth Ayrshire
+p2793
+aa(lp2794
+S'Jon Phelan'
+p2795
+aS'2010'
+p2796
+aS'Lock'
+p2797
+aS'19'
+p2798
+aS'9'
+aS'10'
+p2799
+aS'0'
+aS'0'
+aS'0'
+aS'1986'
+p2800
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2838
+p2801
 aV\u0421\u041a\u0424\u041e
-p2839
+p2802
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2840
-aa(lp2841
-S'Kyle Gilmour'
-p2842
-aS'2013'
-p2843
-aS'Flanker'
-p2844
-aS'1988'
-p2845
+p2803
+aa(lp2804
+S'Conor Trainor'
+p2805
+aS'2011'
+p2806
+aS'Centre'
+p2807
+aS'13'
+p2808
 aS'5'
-aS'2'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2846
-aV\u0421\u041a\u0424\u041e
-p2847
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2848
-aa(lp2849
-S'Djustice Sears-Duru'
-p2850
-aS'2013'
-p2851
-aS'Prop'
-p2852
-aS'1994'
-p2853
+aS'7'
 aS'1'
-aS'1'
+aS'5'
+aS'25'
+p2809
+aS'Vancouver'
+p2810
+aVCanada
+p2811
+aVBritish Columbia
+p2812
+aVGreater Vancouver Regional District
+p2813
+aa(lp2814
+S'Brett Beukeboom'
+p2815
+aS'2012'
+p2816
+aS'Lock'
+p2817
+aS'11'
+p2818
+aS'6'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'1989'
+p2819
 aV\u010cesko
+p2820
+aV43201
+p2821
+aVSeverozápad
+p2822
+aa(lp2823
+S'Tyler Ardron'
+p2824
+aS'2012'
+p2825
+aS'Flanker'
+p2826
+aS'17'
+p2827
+aS'7'
+aS'10'
+p2828
+aS'0'
+aS'2'
+aS'10'
+p2829
+aS'ON'
+p2830
+aVCanada
+p2831
+aVOntario
+p2832
+ag396
+aa(lp2833
+S'Jeff Hassler'
+p2834
+aS'2012'
+p2835
+aS'Wing'
+p2836
+aS'11'
+p2837
+aS'3'
+aS'8'
+aS'0'
+aS'3'
+aS'15'
+p2838
+aS'AL'
+p2839
+aVUnited States of America
+p2840
+aVAlabama
+p2841
+ag396
+aa(lp2842
+S'Ray Barkwill'
+p2843
+aS'2012'
+p2844
+aS'Hooker'
+p2845
+aS'17'
+p2846
+aS'8'
+aS'9'
+aS'0'
+aS'1'
+aS'5'
+aS'1980'
+p2847
+aVSverige
+p2848
+aVSvealand
+p2849
+aVVästmanlands län
+p2850
+aa(lp2851
+S'Eric Wilson'
+p2852
+aS'2012'
+p2853
+aS'Fullback'
 p2854
-aVJihozápad
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1983'
 p2855
-aVPlze\u0148ský kraj
+aVSverige
 p2856
-aa(lp2857
-S'Gordon McRorie'
+aVSvealand
+p2857
+aVVästmanlands län
 p2858
-aS'2014'
-p2859
-aS'Scrum-half'
+aa(lp2859
+S'Harry Jones'
 p2860
-aS'1988'
+aS'2012'
 p2861
+aS'Fly-half, Fullback'
+p2862
+aS'12'
+p2863
+aS'6'
+aS'6'
+aS'0'
+aS'5'
+aS'38'
+p2864
+aS'1989'
+p2865
+aV\u010cesko
+p2866
+aV43201
+p2867
+aVSeverozápad
+p2868
+aa(lp2869
+S'Pat Parfrey'
+p2870
+aS'2013'
+p2871
+aS'Centre'
+p2872
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'1991'
+p2873
+aVNederland
+p2874
+aV1991
+p2875
+aVNederland
+p2876
+aa(lp2877
+S'Liam Underwood'
+p2878
+aS'2013'
+p2879
+aS'Fly-half'
+p2880
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'9'
+aS'1991'
+p2881
+aVNederland
+p2882
+aV1991
+p2883
+aVNederland
+p2884
+aa(lp2885
+S'Aaron Flagg'
+p2886
+aS'2013'
+p2887
+aS'Lock'
+p2888
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1989'
+p2889
+aV\u010cesko
+p2890
+aV43201
+p2891
+aVSeverozápad
+p2892
+aa(lp2893
+S'Michael Fuailefau'
+p2894
+aS'2013'
+p2895
+aS'Centre'
+p2896
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1992'
+p2897
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2898
+aV\u0421\u041a\u0424\u041e
+p2899
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2900
+aa(lp2901
+S'Cam Pierce'
+p2902
+aS'2013'
+p2903
+aS'Lock'
+p2904
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1991'
+p2905
+aVNederland
+p2906
+aV1991
+p2907
+aVNederland
+p2908
+aa(lp2909
+S'Jake Ilnicki'
+p2910
+aS'2013'
+p2911
+aS'Prop'
+p2912
 aS'6'
 aS'1'
+aS'5'
 aS'0'
-aS'21'
-p2862
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2863
-aV\u0421\u041a\u0424\u041e
-p2864
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2865
-aa(lp2866
-S'Jordan Wilson-Ross'
-p2867
-aS'2014'
-p2868
-aS'Fullback, Wing'
-p2869
-aS'1989'
-p2870
+aS'0'
+aS'0'
+aS'BC'
+p2913
+aVCanada
+p2914
+aVBritish Columbia
+p2915
+ag396
+aa(lp2916
+S'Benoit Piffero'
+p2917
+aS'2013'
+p2918
+aS'Hooker'
+p2919
+aS'4'
+aS'1'
 aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1987'
+p2920
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2921
+aV\u0421\u041a\u0424\u041e
+p2922
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2923
+aa(lp2924
+S'Kyle Gilmour'
+p2925
+aS'2013'
+p2926
+aS'Flanker'
+p2927
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1988'
+p2928
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2929
+aV\u0421\u041a\u0424\u041e
+p2930
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2931
+aa(lp2932
+S'Djustice Sears-Duru'
+p2933
+aS'2013'
+p2934
+aS'Prop'
+p2935
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'1994'
+p2936
 aV\u010cesko
-p2871
-aV43201
-p2872
-aVSeverozápad
-p2873
-aa(lp2874
-S'Richard Thorpe'
-p2875
+p2937
+aVJihozápad
+p2938
+aVPlze\u0148ský kraj
+p2939
+aa(lp2940
+S'Gordon McRorie'
+p2941
 aS'2014'
-p2876
-aS'Flanker'
-p2877
-aS'Beckenham'
-p2878
+p2942
+aS'Scrum-half'
+p2943
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'21'
+p2944
+aS'1988'
+p2945
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2946
+aV\u0421\u041a\u0424\u041e
+p2947
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2948
+aa(lp2949
+S'Jordan Wilson-Ross'
+p2950
+aS'2014'
+p2951
+aS'Fullback, Wing'
+p2952
+aS'3'
+aS'1'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'1989'
+p2953
+aV\u010cesko
+p2954
+aV43201
+p2955
+aVSeverozápad
+p2956
+aa(lp2957
+S'Richard Thorpe'
+p2958
+aS'2014'
+p2959
+aS'Flanker'
+p2960
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Beckenham'
+p2961
 aVUnited Kingdom
-p2879
+p2962
 aVEngland
-p2880
+p2963
 aVGreater London
-p2881
+p2964
 aa.

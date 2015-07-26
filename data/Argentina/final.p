@@ -6,12 +6,14 @@ aS'1910'
 p4
 aS'Prop'
 p5
-aS'date unknown'
-p6
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p6
 aS'g'
 aS'n'
 aS'i'
@@ -22,12 +24,14 @@ aS'1910'
 p9
 aS'Hooker'
 p10
-aS'date unknown'
-p11
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p11
 aS'g'
 aS'n'
 aS'i'
@@ -38,12 +42,14 @@ aS'1910'
 p14
 aS'Centre'
 p15
-aS'Florencia Varela'
-p16
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Florencia Varela'
+p16
 aVArgentina
 p17
 aV9000
@@ -57,12 +63,14 @@ aS'1910'
 p22
 aS'Flanker'
 p23
-aS'date unknown'
-p24
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p24
 aS'g'
 aS'n'
 aS'i'
@@ -73,12 +81,14 @@ aS'1891'
 p27
 aS'Forward'
 p28
-aS'Cape Prov'
-p29
 aS'7'
 aS'2'
+aS'4'
+aS'1'
 aS'0'
 aS'6'
+aS'Cape Prov'
+p29
 aS'g'
 aS'n'
 aS'i'
@@ -89,12 +99,14 @@ aS'1910'
 p32
 aS'Lock'
 p33
-aS'date unknown'
-p34
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p34
 aS'g'
 aS'n'
 aS'i'
@@ -105,12 +117,14 @@ aS'1910'
 p37
 aS'Centre'
 p38
-aS'Philippine'
-p39
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Philippine'
+p39
 aVNederland
 p40
 aV4553
@@ -124,12 +138,14 @@ aS'1910'
 p45
 aS'Flanker'
 p46
-aS'date unknown'
-p47
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p47
 aS'g'
 aS'n'
 aS'i'
@@ -140,12 +156,14 @@ aS'1910'
 p50
 aS'Wing'
 p51
-aS'date unknown'
-p52
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p52
 aS'g'
 aS'n'
 aS'i'
@@ -156,12 +174,14 @@ aS'1910'
 p55
 aS'Fly-half'
 p56
-aS'date unknown'
-p57
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p57
 aS'g'
 aS'n'
 aS'i'
@@ -172,12 +192,14 @@ aS'1910'
 p60
 aS'Prop'
 p61
-aS'date unknown'
-p62
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p62
 aS'g'
 aS'n'
 aS'i'
@@ -188,12 +210,14 @@ aS'1910'
 p65
 aS'Fullback'
 p66
-aS'date unknown'
-p67
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p67
 aS'g'
 aS'n'
 aS'i'
@@ -204,12 +228,14 @@ aS'1910'
 p70
 aS'Lock'
 p71
-aS'Surrey'
-p72
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Surrey'
+p72
 aVUnited Kingdom
 p73
 aVEngland
@@ -223,12 +249,14 @@ aS'1910'
 p78
 aS'Wing'
 p79
-aS'date unknown'
-p80
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p80
 aS'g'
 aS'n'
 aS'i'
@@ -239,12 +267,14 @@ aS'1910'
 p83
 aS'Scrum-half'
 p84
-aS'date unknown'
-p85
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p85
 aS'g'
 aS'n'
 aS'i'
@@ -254,12 +284,14 @@ p87
 aS'1927'
 p88
 aS''
-aS'date unknown'
-p89
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p89
 aS'g'
 aS'n'
 aS'i'
@@ -269,12 +301,14 @@ p91
 aS'1927'
 p92
 aS''
-aS'date unknown'
-p93
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p93
 aS'g'
 aS'n'
 aS'i'
@@ -284,12 +318,14 @@ p95
 aS'1927'
 p96
 aS''
-aS'date unknown'
-p97
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p97
 aS'g'
 aS'n'
 aS'i'
@@ -299,12 +335,14 @@ p99
 aS'1927'
 p100
 aS''
-aS'date unknown'
-p101
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p101
 aS'g'
 aS'n'
 aS'i'
@@ -314,12 +352,14 @@ p103
 aS'1927'
 p104
 aS''
-aS'date unknown'
-p105
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p105
 aS'g'
 aS'n'
 aS'i'
@@ -329,12 +369,14 @@ p107
 aS'1927'
 p108
 aS''
-aS'date unknown'
-p109
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p109
 aS'g'
 aS'n'
 aS'i'
@@ -344,12 +386,14 @@ p111
 aS'1927'
 p112
 aS''
-aS'date unknown'
-p113
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p113
 aS'g'
 aS'n'
 aS'i'
@@ -359,12 +403,14 @@ p115
 aS'1927'
 p116
 aS''
-aS'date unknown'
-p117
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p117
 aS'g'
 aS'n'
 aS'i'
@@ -374,12 +420,14 @@ p119
 aS'1927'
 p120
 aS''
-aS'date unknown'
-p121
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p121
 aS'g'
 aS'n'
 aS'i'
@@ -389,12 +437,14 @@ p123
 aS'1927'
 p124
 aS''
-aS'date unknown'
-p125
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p125
 aS'g'
 aS'n'
 aS'i'
@@ -404,12 +454,14 @@ p127
 aS'1927'
 p128
 aS''
-aS'date unknown'
-p129
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p129
 aS'g'
 aS'n'
 aS'i'
@@ -419,12 +471,14 @@ p131
 aS'1927'
 p132
 aS''
-aS'Buenos Aires'
-p133
 aS'8'
 aS'2'
+aS'6'
 aS'0'
 aS'0'
+aS'0'
+aS'Buenos Aires'
+p133
 aVArgentina
 p134
 aVCABA
@@ -437,12 +491,14 @@ p138
 aS'1927'
 p139
 aS''
-aS'date unknown'
-p140
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p140
 aS'g'
 aS'n'
 aS'i'
@@ -452,12 +508,14 @@ p142
 aS'1927'
 p143
 aS''
-aS'date unknown'
-p144
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p144
 aS'g'
 aS'n'
 aS'i'
@@ -467,12 +525,14 @@ p146
 aS'1927'
 p147
 aS''
-aS'date unknown'
-p148
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p148
 aS'g'
 aS'n'
 aS'i'
@@ -482,12 +542,14 @@ p150
 aS'1927'
 p151
 aS''
-aS'date unknown'
-p152
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p152
 aS'g'
 aS'n'
 aS'i'
@@ -497,12 +559,14 @@ p154
 aS'1927'
 p155
 aS''
-aS'date unknown'
-p156
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p156
 aS'g'
 aS'n'
 aS'i'
@@ -512,12 +576,14 @@ p158
 aS'1927'
 p159
 aS''
-aS'date unknown'
-p160
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p160
 aS'g'
 aS'n'
 aS'i'
@@ -527,12 +593,14 @@ p162
 aS'1927'
 p163
 aS''
-aS'date unknown'
-p164
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p164
 aS'g'
 aS'n'
 aS'i'
@@ -542,12 +610,14 @@ p166
 aS'1927'
 p167
 aS''
-aS'date unknown'
-p168
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p168
 aS'g'
 aS'n'
 aS'i'
@@ -557,12 +627,14 @@ p170
 aS'1927'
 p171
 aS''
-aS'date unknown'
-p172
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p172
 aS'g'
 aS'n'
 aS'i'
@@ -572,12 +644,14 @@ p174
 aS'1927'
 p175
 aS''
-aS'date unknown'
-p176
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p176
 aS'g'
 aS'n'
 aS'i'
@@ -587,12 +661,14 @@ p178
 aS'1927'
 p179
 aS''
-aS'date unknown'
-p180
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p180
 aS'g'
 aS'n'
 aS'i'
@@ -602,12 +678,14 @@ p182
 aS'1927'
 p183
 aS''
-aS'date unknown'
-p184
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p184
 aS'g'
 aS'n'
 aS'i'
@@ -617,12 +695,14 @@ p186
 aS'1927'
 p187
 aS''
-aS'date unknown'
-p188
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p188
 aS'g'
 aS'n'
 aS'i'
@@ -632,12 +712,14 @@ p190
 aS'1927'
 p191
 aS''
-aS'date unknown'
-p192
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p192
 aS'g'
 aS'n'
 aS'i'
@@ -647,12 +729,14 @@ p194
 aS'1927'
 p195
 aS''
-aS'date unknown'
-p196
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p196
 aS'g'
 aS'n'
 aS'i'
@@ -662,12 +746,14 @@ p198
 aS'1927'
 p199
 aS''
-aS'date unknown'
-p200
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'3'
+aS'date unknown'
+p200
 aS'g'
 aS'n'
 aS'i'
@@ -677,12 +763,14 @@ p202
 aS'1927'
 p203
 aS''
-aS'date unknown'
-p204
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p204
 aS'g'
 aS'n'
 aS'i'
@@ -692,12 +780,14 @@ p206
 aS'1932'
 p207
 aS''
-aS'date unknown'
-p208
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p208
 aS'g'
 aS'n'
 aS'i'
@@ -707,12 +797,14 @@ p210
 aS'1932'
 p211
 aS''
-aS'date unknown'
-p212
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p212
 aS'g'
 aS'n'
 aS'i'
@@ -722,12 +814,14 @@ p214
 aS'1932'
 p215
 aS''
-aS'date unknown'
-p216
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p216
 aS'g'
 aS'n'
 aS'i'
@@ -737,12 +831,14 @@ p218
 aS'1932'
 p219
 aS''
-aS'date unknown'
-p220
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p220
 aS'g'
 aS'n'
 aS'i'
@@ -752,12 +848,14 @@ p222
 aS'1932'
 p223
 aS''
-aS'date unknown'
-p224
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p224
 aS'g'
 aS'n'
 aS'i'
@@ -767,12 +865,14 @@ p226
 aS'1932'
 p227
 aS''
-aS'date unknown'
-p228
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p228
 aS'g'
 aS'n'
 aS'i'
@@ -782,12 +882,14 @@ p230
 aS'1932'
 p231
 aS''
-aS'date unknown'
-p232
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p232
 aS'g'
 aS'n'
 aS'i'
@@ -797,12 +899,14 @@ p234
 aS'1932'
 p235
 aS''
-aS'date unknown'
-p236
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p236
 aS'g'
 aS'n'
 aS'i'
@@ -812,12 +916,14 @@ p238
 aS'1932'
 p239
 aS''
-aS'date unknown'
-p240
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p240
 aS'g'
 aS'n'
 aS'i'
@@ -827,12 +933,14 @@ p242
 aS'1932'
 p243
 aS''
-aS'date unknown'
-p244
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p244
 aS'g'
 aS'n'
 aS'i'
@@ -842,12 +950,14 @@ p246
 aS'1932'
 p247
 aS''
-aS'date unknown'
-p248
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p248
 aS'g'
 aS'n'
 aS'i'
@@ -857,12 +967,14 @@ p250
 aS'1932'
 p251
 aS''
-aS'date unknown'
-p252
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p252
 aS'g'
 aS'n'
 aS'i'
@@ -872,12 +984,14 @@ p254
 aS'1932'
 p255
 aS''
-aS'date unknown'
-p256
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p256
 aS'g'
 aS'n'
 aS'i'
@@ -887,12 +1001,14 @@ p258
 aS'1932'
 p259
 aS''
-aS'date unknown'
-p260
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p260
 aS'g'
 aS'n'
 aS'i'
@@ -902,12 +1018,14 @@ p262
 aS'1932'
 p263
 aS''
-aS'date unknown'
-p264
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p264
 aS'g'
 aS'n'
 aS'i'
@@ -917,12 +1035,14 @@ p266
 aS'1932'
 p267
 aS''
-aS'date unknown'
-p268
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p268
 aS'g'
 aS'n'
 aS'i'
@@ -932,12 +1052,14 @@ p270
 aS'1932'
 p271
 aS''
-aS'date unknown'
-p272
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p272
 aS'g'
 aS'n'
 aS'i'
@@ -947,12 +1069,14 @@ p274
 aS'1936'
 p275
 aS''
-aS'date unknown'
-p276
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p276
 aS'g'
 aS'n'
 aS'i'
@@ -962,12 +1086,14 @@ p278
 aS'1936'
 p279
 aS''
-aS'date unknown'
-p280
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p280
 aS'g'
 aS'n'
 aS'i'
@@ -977,12 +1103,14 @@ p282
 aS'1936'
 p283
 aS''
-aS'date unknown'
-p284
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p284
 aS'g'
 aS'n'
 aS'i'
@@ -992,12 +1120,14 @@ p286
 aS'1936'
 p287
 aS''
-aS'date unknown'
-p288
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p288
 aS'g'
 aS'n'
 aS'i'
@@ -1007,12 +1137,14 @@ p290
 aS'1936'
 p291
 aS''
-aS'date unknown'
-p292
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p292
 aS'g'
 aS'n'
 aS'i'
@@ -1022,12 +1154,14 @@ p294
 aS'1936'
 p295
 aS''
-aS'date unknown'
-p296
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p296
 aS'g'
 aS'n'
 aS'i'
@@ -1037,12 +1171,14 @@ p298
 aS'1936'
 p299
 aS''
-aS'date unknown'
-p300
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p300
 aS'g'
 aS'n'
 aS'i'
@@ -1052,12 +1188,14 @@ p302
 aS'1936'
 p303
 aS''
-aS'date unknown'
-p304
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p304
 aS'g'
 aS'n'
 aS'i'
@@ -1067,12 +1205,14 @@ p306
 aS'1936'
 p307
 aS''
-aS'date unknown'
-p308
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p308
 aS'g'
 aS'n'
 aS'i'
@@ -1082,12 +1222,14 @@ p310
 aS'1936'
 p311
 aS''
-aS'date unknown'
-p312
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p312
 aS'g'
 aS'n'
 aS'i'
@@ -1097,12 +1239,14 @@ p314
 aS'1936'
 p315
 aS''
-aS'date unknown'
-p316
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p316
 aS'g'
 aS'n'
 aS'i'
@@ -1112,12 +1256,14 @@ p318
 aS'1936'
 p319
 aS''
-aS'date unknown'
-p320
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p320
 aS'g'
 aS'n'
 aS'i'
@@ -1127,12 +1273,14 @@ p322
 aS'1936'
 p323
 aS''
-aS'date unknown'
-p324
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p324
 aS'g'
 aS'n'
 aS'i'
@@ -1142,12 +1290,14 @@ p326
 aS'1936'
 p327
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p328
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1158,12 +1308,14 @@ aS'1936'
 p331
 aS'Hooker'
 p332
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p333
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1173,12 +1325,14 @@ p335
 aS'1936'
 p336
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p337
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1188,12 +1342,14 @@ p339
 aS'1936'
 p340
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p341
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1203,12 +1359,14 @@ p343
 aS'1936'
 p344
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p345
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1218,12 +1376,14 @@ p347
 aS'1936'
 p348
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p349
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1233,12 +1393,14 @@ p351
 aS'1936'
 p352
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p353
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1248,12 +1410,14 @@ p355
 aS'1936'
 p356
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p357
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1263,12 +1427,14 @@ p359
 aS'1936'
 p360
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p361
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1278,12 +1444,14 @@ p363
 aS'1938'
 p364
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p365
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1293,12 +1461,14 @@ p367
 aS'1938'
 p368
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p369
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1308,12 +1478,14 @@ p371
 aS'1938'
 p372
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p373
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1323,12 +1495,14 @@ p375
 aS'1938'
 p376
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p377
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1338,12 +1512,14 @@ p379
 aS'1938'
 p380
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p381
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1353,12 +1529,14 @@ p383
 aS'1938'
 p384
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p385
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1368,12 +1546,14 @@ p387
 aS'1938'
 p388
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p389
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1383,12 +1563,14 @@ p391
 aS'1938'
 p392
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p393
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1398,12 +1580,14 @@ p395
 aS'1938'
 p396
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p397
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1414,12 +1598,14 @@ aS'1948'
 p400
 aS'Wing'
 p401
-aS'Parana'
-p402
 aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Parana'
+p402
 aVBrasil
 p403
 aVRegião Nordeste
@@ -1433,12 +1619,14 @@ aS'1948'
 p408
 aS'Wing'
 p409
-aS'date unknown'
-p410
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p410
 aS'g'
 aS'n'
 aS'i'
@@ -1449,13 +1637,15 @@ aS'1948'
 p413
 aS'Scrum-half'
 p414
-aS'date unknown'
-p415
 aS'10'
-p416
+p415
 aS'3'
+aS'6'
+aS'1'
 aS'5'
 aS'21'
+p416
+aS'date unknown'
 p417
 aS'g'
 aS'n'
@@ -1467,12 +1657,14 @@ aS'1948'
 p420
 aS'Prop'
 p421
-aS'Buenos Aires'
-p422
 aS'5'
 aS'0'
+aS'4'
+aS'1'
 aS'0'
 aS'0'
+aS'Buenos Aires'
+p422
 aVArgentina
 p423
 aVCABA
@@ -1486,12 +1678,14 @@ aS'1948'
 p428
 aS'Fullback'
 p429
-aS'date unknown'
-p430
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p430
 aS'g'
 aS'n'
 aS'i'
@@ -1502,12 +1696,14 @@ aS'1948'
 p433
 aS'Fly-half'
 p434
-aS'date unknown'
-p435
 aS'6'
+aS'1'
+aS'4'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p435
 aS'g'
 aS'n'
 aS'i'
@@ -1518,12 +1714,14 @@ aS'1948'
 p438
 aS'Lock'
 p439
-aS'date unknown'
-p440
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p440
 aS'g'
 aS'n'
 aS'i'
@@ -1534,12 +1732,14 @@ aS'1948'
 p443
 aS'Flanker, Prop'
 p444
-aS'date unknown'
-p445
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p445
 aS'g'
 aS'n'
 aS'i'
@@ -1550,12 +1750,14 @@ aS'1948'
 p448
 aS'Lock'
 p449
-aS'date unknown'
-p450
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p450
 aS'g'
 aS'n'
 aS'i'
@@ -1566,12 +1768,14 @@ aS'1948'
 p453
 aS'Centre, Fly-half'
 p454
-aS'date unknown'
-p455
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p455
 aS'g'
 aS'n'
 aS'i'
@@ -1582,12 +1786,14 @@ aS'1948'
 p458
 aS'Back-row, Hooker'
 p459
-aS'date unknown'
-p460
 aS'9'
 aS'3'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p460
 aS'g'
 aS'n'
 aS'i'
@@ -1598,12 +1804,14 @@ aS'1948'
 p463
 aS'Prop'
 p464
-aS'date unknown'
-p465
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p465
 aS'g'
 aS'n'
 aS'i'
@@ -1614,12 +1822,14 @@ aS'1948'
 p468
 aS'Hooker'
 p469
-aS'date unknown'
-p470
 aS'7'
 aS'3'
+aS'3'
+aS'1'
 aS'1'
 aS'3'
+aS'date unknown'
+p470
 aS'g'
 aS'n'
 aS'i'
@@ -1630,12 +1840,14 @@ aS'1948'
 p473
 aS'Lock, Flanker'
 p474
-aS'date unknown'
-p475
 aS'5'
 aS'0'
+aS'4'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p475
 aS'g'
 aS'n'
 aS'i'
@@ -1646,12 +1858,14 @@ aS'1948'
 p478
 aS'Centre'
 p479
-aS'date unknown'
-p480
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p480
 aS'g'
 aS'n'
 aS'i'
@@ -1662,12 +1876,14 @@ aS'1948'
 p483
 aS'Hooker'
 p484
-aS'date unknown'
-p485
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p485
 aS'g'
 aS'n'
 aS'i'
@@ -1678,12 +1894,14 @@ aS'1948'
 p488
 aS'Prop'
 p489
-aS'date unknown'
-p490
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p490
 aS'g'
 aS'n'
 aS'i'
@@ -1694,12 +1912,14 @@ aS'1948'
 p493
 aS'Scrum-half, Flanker'
 p494
-aS'date unknown'
-p495
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p495
 aS'g'
 aS'n'
 aS'i'
@@ -1710,12 +1930,14 @@ aS'1948'
 p498
 aS'Centre'
 p499
-aS'date unknown'
-p500
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p500
 aS'g'
 aS'n'
 aS'i'
@@ -1726,12 +1948,14 @@ aS'1948'
 p503
 aS'Prop, Flanker'
 p504
-aS'date unknown'
-p505
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'6'
 aS'18'
+p505
+aS'date unknown'
 p506
 aS'g'
 aS'n'
@@ -1743,12 +1967,14 @@ aS'1948'
 p509
 aS'No. 8'
 p510
-aS'date unknown'
-p511
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p511
 aS'g'
 aS'n'
 aS'i'
@@ -1759,12 +1985,14 @@ aS'1948'
 p514
 aS'Centre'
 p515
-aS'date unknown'
-p516
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p516
 aS'g'
 aS'n'
 aS'i'
@@ -1775,12 +2003,14 @@ aS'1948'
 p519
 aS'Wing'
 p520
-aS'date unknown'
-p521
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p521
 aS'g'
 aS'n'
 aS'i'
@@ -1791,12 +2021,14 @@ aS'1949'
 p524
 aS'Wing'
 p525
-aS'date unknown'
-p526
 aS'8'
 aS'2'
+aS'5'
+aS'1'
 aS'2'
 aS'6'
+aS'date unknown'
+p526
 aS'g'
 aS'n'
 aS'i'
@@ -1807,12 +2039,14 @@ aS'1949'
 p529
 aS'Lock'
 p530
-aS'date unknown'
-p531
 aS'6'
 aS'0'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p531
 aS'g'
 aS'n'
 aS'i'
@@ -1823,12 +2057,14 @@ aS'1949'
 p534
 aS'Wing'
 p535
-aS'date unknown'
-p536
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p536
 aS'g'
 aS'n'
 aS'i'
@@ -1839,12 +2075,14 @@ aS'1949'
 p539
 aS'Fullback'
 p540
-aS'Buenos Aires'
-p541
 aS'6'
 aS'2'
+aS'4'
+aS'0'
 aS'0'
 aS'4'
+aS'Buenos Aires'
+p541
 aVArgentina
 p542
 aVCABA
@@ -1858,12 +2096,14 @@ aS'1949'
 p547
 aS'Flanker'
 p548
-aS'date unknown'
-p549
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p549
 aS'g'
 aS'n'
 aS'i'
@@ -1874,12 +2114,14 @@ aS'1949'
 p552
 aS'Centre'
 p553
-aS'1921'
-p554
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'1921'
+p554
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
 p555
 aVSétif - \u0633\u0637\u064a\u0641\u200e
@@ -1893,12 +2135,14 @@ aS'1949'
 p560
 aS'Prop'
 p561
-aS'date unknown'
-p562
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p562
 aS'g'
 aS'n'
 aS'i'
@@ -1909,12 +2153,14 @@ aS'1949'
 p565
 aS'Centre'
 p566
-aS'date unknown'
-p567
 aS'6'
 aS'0'
+aS'5'
+aS'1'
 aS'1'
 aS'3'
+aS'date unknown'
+p567
 aS'g'
 aS'n'
 aS'i'
@@ -1925,12 +2171,14 @@ aS'1949'
 p570
 aS'Prop'
 p571
-aS'date unknown'
-p572
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p572
 aS'g'
 aS'n'
 aS'i'
@@ -1941,12 +2189,14 @@ aS'1949'
 p575
 aS'Wing'
 p576
-aS'date unknown'
-p577
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p577
 aS'g'
 aS'n'
 aS'i'
@@ -1957,12 +2207,14 @@ aS'1949'
 p580
 aS'Hooker'
 p581
-aS'date unknown'
-p582
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p582
 aS'g'
 aS'n'
 aS'i'
@@ -1973,12 +2225,14 @@ aS'1951'
 p585
 aS'Prop'
 p586
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p587
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1989,12 +2243,14 @@ aS'1951'
 p590
 aS'Centre'
 p591
-aS'date unknown'
-p592
 aS'4'
 aS'3'
+aS'1'
+aS'0'
 aS'2'
 aS'8'
+aS'date unknown'
+p592
 aS'g'
 aS'n'
 aS'i'
@@ -2004,12 +2260,14 @@ p594
 aS'1951'
 p595
 aS''
-aS'date unknown'
-p596
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
+aS'date unknown'
+p596
 aS'g'
 aS'n'
 aS'i'
@@ -2020,12 +2278,14 @@ aS'1951'
 p599
 aS'Centre'
 p600
-aS'date unknown'
-p601
 aS'7'
 aS'3'
+aS'3'
+aS'1'
 aS'0'
 aS'40'
+p601
+aS'date unknown'
 p602
 aS'g'
 aS'n'
@@ -2037,12 +2297,14 @@ aS'1951'
 p605
 aS'Back-row'
 p606
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p607
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -2053,12 +2315,14 @@ aS'1951'
 p610
 aS'Lock'
 p611
-aS'date unknown'
-p612
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
+aS'date unknown'
+p612
 aS'g'
 aS'n'
 aS'i'
@@ -2069,12 +2333,14 @@ aS'1951'
 p615
 aS'Lock'
 p616
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p617
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -2085,13 +2351,15 @@ aS'1951'
 p620
 aS'Wing'
 p621
-aS'date unknown'
-p622
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'14'
-p623
+p622
 aS'42'
+p623
+aS'date unknown'
 p624
 aS'g'
 aS'n'
@@ -2103,12 +2371,14 @@ aS'1951'
 p627
 aS'Back-row'
 p628
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p629
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -2118,12 +2388,14 @@ p631
 aS'1951'
 p632
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p633
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -2134,12 +2406,14 @@ aS'1951'
 p636
 aS'Fly-half'
 p637
-aS'date unknown'
-p638
 aS'5'
 aS'4'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
+aS'date unknown'
+p638
 aS'g'
 aS'n'
 aS'i'
@@ -2150,12 +2424,14 @@ aS'1951'
 p641
 aS'No. 8'
 p642
-aS'date unknown'
-p643
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p643
 aS'g'
 aS'n'
 aS'i'
@@ -2166,12 +2442,14 @@ aS'1952'
 p646
 aS'Fullback'
 p647
-aS'date unknown'
-p648
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p648
 aS'g'
 aS'n'
 aS'i'
@@ -2182,12 +2460,14 @@ aS'1952'
 p651
 aS'Flanker'
 p652
-aS'date unknown'
-p653
 aS'4'
 aS'0'
+aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p653
 aS'g'
 aS'n'
 aS'i'
@@ -2198,12 +2478,14 @@ aS'1952'
 p656
 aS'Centre'
 p657
-aS'date unknown'
-p658
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p658
 aS'g'
 aS'n'
 aS'i'
@@ -2214,12 +2496,14 @@ aS'1952'
 p661
 aS'Flanker, Wing'
 p662
-aS'date unknown'
-p663
 aS'7'
 aS'2'
+aS'5'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p663
 aS'g'
 aS'n'
 aS'i'
@@ -2230,12 +2514,14 @@ aS'1954'
 p666
 aS'Wing'
 p667
-aS'date unknown'
-p668
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'0'
 aS'3'
+aS'date unknown'
+p668
 aS'g'
 aS'n'
 aS'i'
@@ -2246,12 +2532,14 @@ aS'1954'
 p671
 aS'Hooker'
 p672
-aS'date unknown'
-p673
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p673
 aS'g'
 aS'n'
 aS'i'
@@ -2262,12 +2550,14 @@ aS'1954'
 p676
 aS'Centre'
 p677
-aS'date unknown'
-p678
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p678
 aS'g'
 aS'n'
 aS'i'
@@ -2278,12 +2568,14 @@ aS'1954'
 p681
 aS'Prop'
 p682
-aS'date unknown'
-p683
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p683
 aS'g'
 aS'n'
 aS'i'
@@ -2294,12 +2586,14 @@ aS'1954'
 p686
 aS'Fly-half'
 p687
-aS'date unknown'
-p688
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p688
 aS'g'
 aS'n'
 aS'i'
@@ -2310,12 +2604,14 @@ aS'1954'
 p691
 aS'Flanker'
 p692
-aS'date unknown'
-p693
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p693
 aS'g'
 aS'n'
 aS'i'
@@ -2326,12 +2622,14 @@ aS'1954'
 p696
 aS'Lock'
 p697
-aS'date unknown'
-p698
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p698
 aS'g'
 aS'n'
 aS'i'
@@ -2342,12 +2640,14 @@ aS'1954'
 p701
 aS'No. 8'
 p702
-aS'date unknown'
-p703
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p703
 aS'g'
 aS'n'
 aS'i'
@@ -2358,12 +2658,14 @@ aS'1954'
 p706
 aS'Fullback'
 p707
-aS'date unknown'
-p708
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p708
 aS'g'
 aS'n'
 aS'i'
@@ -2374,12 +2676,14 @@ aS'1954'
 p711
 aS'Flanker'
 p712
-aS'date unknown'
-p713
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p713
 aS'g'
 aS'n'
 aS'i'
@@ -2390,12 +2694,14 @@ aS'1954'
 p716
 aS'Lock'
 p717
-aS'date unknown'
-p718
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p718
 aS'g'
 aS'n'
 aS'i'
@@ -2405,12 +2711,14 @@ p720
 aS'1956'
 p721
 aS''
-aS'date unknown'
-p722
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p722
 aS'g'
 aS'n'
 aS'i'
@@ -2420,12 +2728,14 @@ p724
 aS'1956'
 p725
 aS''
-aS'date unknown'
-p726
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p726
 aS'g'
 aS'n'
 aS'i'
@@ -2435,12 +2745,14 @@ p728
 aS'1956'
 p729
 aS''
-aS'date unknown'
-p730
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p730
 aS'g'
 aS'n'
 aS'i'
@@ -2450,12 +2762,14 @@ p732
 aS'1956'
 p733
 aS''
-aS'date unknown'
-p734
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p734
 aS'g'
 aS'n'
 aS'i'
@@ -2465,12 +2779,14 @@ p736
 aS'1956'
 p737
 aS''
-aS'date unknown'
-p738
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p738
 aS'g'
 aS'n'
 aS'i'
@@ -2481,13 +2797,15 @@ aS'1956'
 p741
 aS'Prop'
 p742
-aS'date unknown'
-p743
 aS'12'
-p744
+p743
+aS'6'
 aS'6'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p744
 aS'g'
 aS'n'
 aS'i'
@@ -2497,12 +2815,14 @@ p746
 aS'1956'
 p747
 aS''
-aS'date unknown'
-p748
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p748
 aS'g'
 aS'n'
 aS'i'
@@ -2512,12 +2832,14 @@ p750
 aS'1956'
 p751
 aS''
-aS'date unknown'
-p752
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p752
 aS'g'
 aS'n'
 aS'i'
@@ -2528,12 +2850,14 @@ aS'1956'
 p755
 aS'No. 8'
 p756
-aS'date unknown'
-p757
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p757
 aS'g'
 aS'n'
 aS'i'
@@ -2543,12 +2867,14 @@ p759
 aS'1956'
 p760
 aS''
-aS'date unknown'
-p761
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p761
 aS'g'
 aS'n'
 aS'i'
@@ -2558,12 +2884,14 @@ p763
 aS'1956'
 p764
 aS''
-aS'date unknown'
-p765
 aS'6'
+aS'3'
 aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p765
 aS'g'
 aS'n'
 aS'i'
@@ -2573,12 +2901,14 @@ p767
 aS'1956'
 p768
 aS''
-aS'date unknown'
-p769
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p769
 aS'g'
 aS'n'
 aS'i'
@@ -2589,12 +2919,14 @@ aS'1956'
 p772
 aS'Fly-half'
 p773
-aS'date unknown'
-p774
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'6'
+aS'date unknown'
+p774
 aS'g'
 aS'n'
 aS'i'
@@ -2604,12 +2936,14 @@ p776
 aS'1956'
 p777
 aS''
-aS'date unknown'
-p778
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p778
 aS'g'
 aS'n'
 aS'i'
@@ -2619,12 +2953,14 @@ p780
 aS'1956'
 p781
 aS''
-aS'date unknown'
-p782
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p782
 aS'g'
 aS'n'
 aS'i'
@@ -2634,12 +2970,14 @@ p784
 aS'1956'
 p785
 aS''
-aS'date unknown'
-p786
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p786
 aS'g'
 aS'n'
 aS'i'
@@ -2650,12 +2988,14 @@ aS'1958'
 p789
 aS'Flanker'
 p790
-aS'date unknown'
-p791
 aS'6'
+aS'3'
 aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p791
 aS'g'
 aS'n'
 aS'i'
@@ -2665,12 +3005,14 @@ p793
 aS'1958'
 p794
 aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p795
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -2681,12 +3023,14 @@ aS'1958'
 p798
 aS'Fly-half'
 p799
-aS'date unknown'
-p800
 aS'8'
 aS'6'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p800
 aS'g'
 aS'n'
 aS'i'
@@ -2696,12 +3040,14 @@ p802
 aS'1958'
 p803
 aS''
-aS'date unknown'
-p804
 aS'8'
 aS'6'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p804
 aS'g'
 aS'n'
 aS'i'
@@ -2712,12 +3058,14 @@ aS'1958'
 p807
 aS'Scrum-half'
 p808
-aS'date unknown'
-p809
 aS'7'
 aS'3'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p809
 aS'g'
 aS'n'
 aS'i'
@@ -2728,12 +3076,14 @@ aS'1958'
 p812
 aS'Wing'
 p813
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p814
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -2743,12 +3093,14 @@ p816
 aS'1958'
 p817
 aS''
-aS'date unknown'
-p818
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p818
 aS'g'
 aS'n'
 aS'i'
@@ -2758,12 +3110,14 @@ p820
 aS'1958'
 p821
 aS''
-aS'date unknown'
-p822
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p822
 aS'g'
 aS'n'
 aS'i'
@@ -2773,12 +3127,14 @@ p824
 aS'1958'
 p825
 aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p826
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -2789,12 +3145,14 @@ aS'1958'
 p829
 aS'Prop'
 p830
-aS'date unknown'
-p831
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p831
 aS'g'
 aS'n'
 aS'i'
@@ -2804,12 +3162,14 @@ p833
 aS'1958'
 p834
 aS''
-aS'date unknown'
-p835
 aS'8'
 aS'6'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p835
 aS'g'
 aS'n'
 aS'i'
@@ -2819,12 +3179,14 @@ p837
 aS'1959'
 p838
 aS''
-aS'date unknown'
-p839
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p839
 aS'g'
 aS'n'
 aS'i'
@@ -2835,12 +3197,14 @@ aS'1959'
 p842
 aS'Hooker'
 p843
-aS'date unknown'
-p844
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p844
 aS'g'
 aS'n'
 aS'i'
@@ -2851,12 +3215,14 @@ aS'1959'
 p847
 aS'Wing'
 p848
-aS'date unknown'
-p849
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p849
 aS'g'
 aS'n'
 aS'i'
@@ -2867,12 +3233,14 @@ aS'1959'
 p852
 aS'Centre'
 p853
-aS'date unknown'
-p854
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p854
 aS'g'
 aS'n'
 aS'i'
@@ -2882,12 +3250,14 @@ p856
 aS'1959'
 p857
 aS''
-aS'date unknown'
-p858
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'3'
+aS'date unknown'
+p858
 aS'g'
 aS'n'
 aS'i'
@@ -2898,12 +3268,14 @@ aS'1960'
 p861
 aS'Fullback'
 p862
-aS'date unknown'
-p863
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'3'
+aS'date unknown'
+p863
 aS'g'
 aS'n'
 aS'i'
@@ -2914,12 +3286,14 @@ aS'1960'
 p866
 aS'Scrum-half'
 p867
-aS'date unknown'
-p868
 aS'4'
 aS'3'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
+aS'date unknown'
+p868
 aS'g'
 aS'n'
 aS'i'
@@ -2930,12 +3304,14 @@ aS'1960'
 p871
 aS'Wing'
 p872
-aS'date unknown'
-p873
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p873
 aS'g'
 aS'n'
 aS'i'
@@ -2946,14 +3322,16 @@ aS'1960'
 p876
 aS'Wing'
 p877
-aS'date unknown'
-p878
 aS'13'
-p879
+p878
 aS'7'
+aS'6'
+aS'0'
 aS'12'
-p880
+p879
 aS'36'
+p880
+aS'date unknown'
 p881
 aS'g'
 aS'n'
@@ -2965,12 +3343,14 @@ aS'1960'
 p884
 aS'Centre'
 p885
-aS'date unknown'
-p886
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'1'
 aS'34'
+p886
+aS'date unknown'
 p887
 aS'g'
 aS'n'
@@ -2982,14 +3362,16 @@ aS'1960'
 p890
 aS'Lock'
 p891
-aS'1938'
-p892
 aS'26'
-p893
+p892
 aS'15'
-p894
+p893
+aS'9'
+aS'2'
 aS'6'
 aS'18'
+p894
+aS'1938'
 p895
 aVNorge
 p896
@@ -3004,12 +3386,14 @@ aS'1960'
 p901
 aS'Flanker'
 p902
-aS'date unknown'
-p903
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p903
 aS'g'
 aS'n'
 aS'i'
@@ -3020,12 +3404,14 @@ aS'1960'
 p906
 aS'Lock'
 p907
-aS'date unknown'
-p908
 aS'7'
 aS'4'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p908
 aS'g'
 aS'n'
 aS'i'
@@ -3036,12 +3422,14 @@ aS'1960'
 p911
 aS'No. 8'
 p912
-aS'date unknown'
-p913
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p913
 aS'g'
 aS'n'
 aS'i'
@@ -3052,12 +3440,14 @@ aS'1960'
 p916
 aS'Flanker'
 p917
-aS'Buenos Aires'
-p918
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Buenos Aires'
+p918
 aVArgentina
 p919
 aVCABA
@@ -3071,12 +3461,14 @@ aS'1960'
 p924
 aS'Prop'
 p925
-aS'date unknown'
-p926
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p926
 aS'g'
 aS'n'
 aS'i'
@@ -3087,12 +3479,14 @@ aS'1960'
 p929
 aS'Fullback'
 p930
-aS'date unknown'
-p931
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'6'
+aS'date unknown'
+p931
 aS'g'
 aS'n'
 aS'i'
@@ -3103,12 +3497,14 @@ aS'1960'
 p934
 aS'Hooker'
 p935
-aS'date unknown'
-p936
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p936
 aS'g'
 aS'n'
 aS'i'
@@ -3119,12 +3515,14 @@ aS'1960'
 p939
 aS'Prop'
 p940
-aS'date unknown'
-p941
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p941
 aS'g'
 aS'n'
 aS'i'
@@ -3135,12 +3533,14 @@ aS'1960'
 p944
 aS'Flanker'
 p945
-aS'date unknown'
-p946
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p946
 aS'g'
 aS'n'
 aS'i'
@@ -3150,12 +3550,14 @@ p948
 aS'1961'
 p949
 aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p950
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -3165,13 +3567,15 @@ p952
 aS'1961'
 p953
 aS''
-aS'date unknown'
-p954
 aS'8'
 aS'6'
+aS'2'
+aS'0'
 aS'11'
-p955
+p954
 aS'37'
+p955
+aS'date unknown'
 p956
 aS'g'
 aS'n'
@@ -3182,12 +3586,14 @@ p958
 aS'1961'
 p959
 aS''
-aS'date unknown'
-p960
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p960
 aS'g'
 aS'n'
 aS'i'
@@ -3197,12 +3603,14 @@ p962
 aS'1961'
 p963
 aS''
-aS'date unknown'
-p964
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
+aS'date unknown'
+p964
 aS'g'
 aS'n'
 aS'i'
@@ -3213,12 +3621,14 @@ aS'1961'
 p967
 aS'Centre, Fly-half'
 p968
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p969
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -3229,13 +3639,15 @@ aS'1961'
 p972
 aS'Flanker'
 p973
-aS'date unknown'
-p974
 aS'11'
-p975
+p974
 aS'8'
+aS'2'
+aS'1'
 aS'3'
 aS'9'
+aS'date unknown'
+p975
 aS'g'
 aS'n'
 aS'i'
@@ -3245,12 +3657,14 @@ p977
 aS'1961'
 p978
 aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p979
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -3261,14 +3675,16 @@ aS'1964'
 p982
 aS'Scrum-half'
 p983
-aS'circa 1942'
-p984
 aS'25'
-p985
+p984
 aS'15'
-p986
+p985
+aS'9'
+aS'1'
 aS'3'
 aS'10'
+p986
+aS'circa 1942'
 p987
 aVPerú
 p988
@@ -3283,12 +3699,14 @@ aS'1964'
 p993
 aS'Hooker'
 p994
-aS'date unknown'
-p995
 aS'8'
 aS'5'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p995
 aS'g'
 aS'n'
 aS'i'
@@ -3298,12 +3716,14 @@ p997
 aS'1964'
 p998
 aS''
-aS'date unknown'
-p999
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p999
 aS'g'
 aS'n'
 aS'i'
@@ -3314,15 +3734,17 @@ aS'1964'
 p1002
 aS'Flanker'
 p1003
-aS'date unknown'
-p1004
 aS'19'
-p1005
+p1004
 aS'12'
-p1006
+p1005
+aS'5'
+aS'2'
 aS'11'
-p1007
+p1006
 aS'33'
+p1007
+aS'date unknown'
 p1008
 aS'g'
 aS'n'
@@ -3333,12 +3755,14 @@ p1010
 aS'1964'
 p1011
 aS''
-aS'date unknown'
-p1012
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'1'
 aS'26'
+p1012
+aS'date unknown'
 p1013
 aS'g'
 aS'n'
@@ -3349,12 +3773,14 @@ p1015
 aS'1964'
 p1016
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1017
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -3364,12 +3790,14 @@ p1019
 aS'1964'
 p1020
 aS''
-aS'date unknown'
-p1021
 aS'3'
 aS'3'
 aS'0'
+aS'0'
+aS'0'
 aS'5'
+aS'date unknown'
+p1021
 aS'g'
 aS'n'
 aS'i'
@@ -3379,12 +3807,14 @@ p1023
 aS'1964'
 p1024
 aS''
-aS'date unknown'
-p1025
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
+aS'date unknown'
+p1025
 aS'g'
 aS'n'
 aS'i'
@@ -3394,12 +3824,14 @@ p1027
 aS'1964'
 p1028
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1029
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -3409,12 +3841,14 @@ p1031
 aS'1964'
 p1032
 aS''
-aS'date unknown'
-p1033
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p1033
 aS'g'
 aS'n'
 aS'i'
@@ -3424,12 +3858,14 @@ p1035
 aS'1964'
 p1036
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1037
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -3440,12 +3876,14 @@ aS'1964'
 p1040
 aS'Fly-half'
 p1041
-aS'date unknown'
-p1042
 aS'4'
 aS'3'
+aS'0'
+aS'1'
 aS'1'
 aS'3'
+aS'date unknown'
+p1042
 aS'g'
 aS'n'
 aS'i'
@@ -3455,12 +3893,14 @@ p1044
 aS'1964'
 p1045
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1046
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -3470,12 +3910,14 @@ p1048
 aS'1964'
 p1049
 aS''
-aS'date unknown'
-p1050
 aS'8'
 aS'3'
+aS'4'
+aS'1'
 aS'1'
 aS'3'
+aS'date unknown'
+p1050
 aS'g'
 aS'n'
 aS'i'
@@ -3485,12 +3927,14 @@ p1052
 aS'1965'
 p1053
 aS''
-aS'date unknown'
-p1054
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p1054
 aS'g'
 aS'n'
 aS'i'
@@ -3501,12 +3945,14 @@ aS'1965'
 p1057
 aS'Centre'
 p1058
-aS'date unknown'
-p1059
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'3'
 aS'9'
+aS'date unknown'
+p1059
 aS'g'
 aS'n'
 aS'i'
@@ -3517,12 +3963,14 @@ aS'1965'
 p1062
 aS'Fullback'
 p1063
-aS'date unknown'
-p1064
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'1'
 aS'14'
+p1064
+aS'date unknown'
 p1065
 aS'g'
 aS'n'
@@ -3534,13 +3982,15 @@ aS'1965'
 p1068
 aS'Prop'
 p1069
-aS'date unknown'
-p1070
 aS'14'
-p1071
+p1070
 aS'7'
+aS'6'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p1071
 aS'g'
 aS'n'
 aS'i'
@@ -3551,14 +4001,16 @@ aS'1965'
 p1074
 aS'Prop'
 p1075
-aS'date unknown'
-p1076
 aS'20'
-p1077
+p1076
 aS'12'
+p1077
+aS'6'
+aS'2'
+aS'0'
+aS'0'
+aS'date unknown'
 p1078
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -3568,12 +4020,14 @@ p1080
 aS'1965'
 p1081
 aS''
-aS'date unknown'
-p1082
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1082
 aS'g'
 aS'n'
 aS'i'
@@ -3584,14 +4038,16 @@ aS'1965'
 p1085
 aS'Wing, Centre'
 p1086
-aS'date unknown'
-p1087
 aS'21'
-p1088
+p1087
 aS'13'
-p1089
+p1088
+aS'6'
+aS'2'
 aS'8'
 aS'24'
+p1089
+aS'date unknown'
 p1090
 aS'g'
 aS'n'
@@ -3603,12 +4059,14 @@ aS'1965'
 p1093
 aS'Wing'
 p1094
-aS'date unknown'
-p1095
 aS'6'
 aS'4'
+aS'1'
+aS'1'
 aS'4'
 aS'12'
+p1095
+aS'date unknown'
 p1096
 aS'g'
 aS'n'
@@ -3620,12 +4078,14 @@ aS'1965'
 p1099
 aS'Fly-half'
 p1100
-aS'date unknown'
-p1101
 aS'7'
 aS'4'
+aS'2'
+aS'1'
 aS'1'
 aS'36'
+p1101
+aS'date unknown'
 p1102
 aS'g'
 aS'n'
@@ -3637,1626 +4097,1801 @@ aS'1965'
 p1105
 aS'Centre'
 p1106
-aS'circa 1944'
-p1107
 aS'24'
-p1108
+p1107
 aS'12'
+p1108
+aS'10'
 p1109
+aS'2'
 aS'11'
 p1110
 aS'43'
 p1111
-aVPerú
+aS'circa 1944'
 p1112
-aVTacna
+aVPerú
 p1113
-aVCandarave
+aVTacna
 p1114
-aa(lp1115
+aVCandarave
+p1115
+aa(lp1116
 S'Hector Silva'
-p1116
-aS'1965'
 p1117
-aS'No. 8'
+aS'1965'
 p1118
-aS'circa 1945'
+aS'No. 8'
 p1119
 aS'24'
 p1120
 aS'15'
 p1121
+aS'6'
+aS'3'
 aS'5'
 aS'16'
 p1122
-aVPerú
+aS'circa 1945'
 p1123
-aVTacna
+aVPerú
 p1124
-aVCandarave
+aVTacna
 p1125
-aa(lp1126
+aVCandarave
+p1126
+aa(lp1127
 S'Luis Gradin'
-p1127
-aS'1965'
 p1128
-aS'Scrum-half'
+aS'1965'
 p1129
-aS'date unknown'
+aS'Scrum-half'
 p1130
 aS'14'
 p1131
 aS'9'
+aS'4'
+aS'1'
 aS'5'
 aS'32'
 p1132
+aS'date unknown'
+p1133
 aS'g'
 aS'n'
 aS'i'
-aa(lp1133
+aa(lp1134
 S'Adrian Anthony'
-p1134
-aS'1965'
 p1135
-aS'Lock'
+aS'1965'
 p1136
-aS'date unknown'
+aS'Lock'
 p1137
 aS'19'
 p1138
 aS'12'
 p1139
+aS'6'
+aS'1'
 aS'2'
 aS'6'
+aS'date unknown'
+p1140
 aS'g'
 aS'n'
 aS'i'
-aa(lp1140
+aa(lp1141
 S'Eduardo Quetglas'
-p1141
-aS'1965'
 p1142
-aS''
-aS'date unknown'
+aS'1965'
 p1143
+aS''
 aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1144
 aS'g'
 aS'n'
 aS'i'
-aa(lp1144
+aa(lp1145
 S'Mario Bouza'
-p1145
-aS'1966'
 p1146
-aS''
-aS'date unknown'
+aS'1966'
 p1147
+aS''
 aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1148
 aS'g'
 aS'n'
 aS'i'
-aa(lp1148
+aa(lp1149
 S'Miguel Chesta'
-p1149
-aS'1966'
 p1150
-aS'Flanker'
+aS'1966'
 p1151
-aS'date unknown'
+aS'Flanker'
 p1152
 aS'6'
 aS'3'
+aS'2'
+aS'1'
 aS'1'
 aS'3'
+aS'date unknown'
+p1153
 aS'g'
 aS'n'
 aS'i'
-aa(lp1153
+aa(lp1154
 S'Marcos Dumas'
-p1154
-aS'1966'
 p1155
-aS''
-aS'date unknown'
+aS'1966'
 p1156
+aS''
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1157
 aS'g'
 aS'n'
 aS'i'
-aa(lp1157
+aa(lp1158
 S'Ricardo Handley'
-p1158
-aS'1966'
 p1159
-aS'Hooker'
+aS'1966'
 p1160
-aS'date unknown'
+aS'Hooker'
 p1161
 aS'14'
 p1162
 aS'8'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1163
-S'Jose Imhoff'
-p1164
-aS'1967'
-p1165
-aS''
 aS'date unknown'
-p1166
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+p1163
 aS'g'
 aS'n'
 aS'i'
-aa(lp1167
-S'Hector Mendez'
-p1168
+aa(lp1164
+S'Jose Imhoff'
+p1165
 aS'1967'
-p1169
+p1166
 aS''
-aS'circa 1945'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1167
+aS'g'
+aS'n'
+aS'i'
+aa(lp1168
+S'Hector Mendez'
+p1169
+aS'1967'
 p1170
+aS''
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'15'
 p1171
-aVPerú
+aS'circa 1945'
 p1172
-aVTacna
+aVPerú
 p1173
-aVCandarave
+aVTacna
 p1174
-aa(lp1175
+aVCandarave
+p1175
+aa(lp1176
 S'Ronaldo Seaton'
-p1176
-aS'1967'
 p1177
-aS''
-aS'date unknown'
+aS'1967'
 p1178
+aS''
 aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1179
 aS'g'
 aS'n'
 aS'i'
-aa(lp1179
+aa(lp1180
 S'Alejandro Travaglini'
-p1180
-aS'1967'
 p1181
-aS'Centre'
+aS'1967'
 p1182
-aS'circa 1947'
+aS'Centre'
 p1183
 aS'27'
 p1184
 aS'15'
 p1185
-aS'10'
+aS'12'
 p1186
-aS'36'
+aS'0'
+aS'10'
 p1187
-aVPerú
+aS'36'
 p1188
-aVTacna
+aS'circa 1947'
 p1189
-aVCandarave
+aVPerú
 p1190
-aa(lp1191
-S'Mario Walther'
+aVTacna
+p1191
+aVCandarave
 p1192
-aS'1967'
-p1193
-aS'Wing'
+aa(lp1193
+S'Mario Walther'
 p1194
-aS'date unknown'
+aS'1967'
 p1195
-aS'17'
+aS'Wing'
 p1196
-aS'13'
+aS'17'
 p1197
+aS'13'
+p1198
+aS'3'
+aS'1'
 aS'9'
 aS'31'
-p1198
-aS'g'
-aS'n'
-aS'i'
-aa(lp1199
-S'Dudley Morgan'
+p1199
+aS'date unknown'
 p1200
-aS'1967'
-p1201
-aS'Fullback'
-p1202
-aS'date unknown'
-p1203
-aS'11'
-p1204
-aS'8'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1205
-S'Marcelo Farina'
-p1206
-aS'1968'
-p1207
-aS'Prop'
-p1208
+aa(lp1201
+S'Dudley Morgan'
+p1202
+aS'1967'
+p1203
+aS'Fullback'
+p1204
+aS'11'
+p1205
+aS'8'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
+p1206
+aS'g'
+aS'n'
+aS'i'
+aa(lp1207
+S'Marcelo Farina'
+p1208
+aS'1968'
 p1209
+aS'Prop'
+p1210
 aS'4'
 aS'2'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p1211
 aS'g'
 aS'n'
 aS'i'
-aa(lp1210
+aa(lp1212
 S'Jorge Seaton'
-p1211
-aS'1968'
-p1212
-aS'Fullback'
 p1213
-aS'date unknown'
+aS'1968'
 p1214
+aS'Fullback'
+p1215
 aS'4'
 aS'3'
+aS'0'
+aS'1'
 aS'0'
 aS'40'
-p1215
+p1216
+aS'date unknown'
+p1217
 aS'g'
 aS'n'
 aS'i'
-aa(lp1216
+aa(lp1218
 S'Nestor Perez'
-p1217
-aS'1968'
-p1218
-aS'Wing'
 p1219
-aS'date unknown'
+aS'1968'
 p1220
+aS'Wing'
+p1221
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'date unknown'
+p1222
 aS'g'
 aS'n'
 aS'i'
-aa(lp1221
+aa(lp1223
 S'Tomas Harris-Smith'
-p1222
-aS'1969'
-p1223
-aS'Fly-half'
 p1224
-aS'date unknown'
+aS'1969'
 p1225
+aS'Fly-half'
+p1226
 aS'7'
 aS'6'
+aS'1'
+aS'0'
 aS'1'
 aS'32'
-p1226
+p1227
+aS'date unknown'
+p1228
 aS'g'
 aS'n'
 aS'i'
-aa(lp1227
+aa(lp1229
 S'Hugo Miguens'
-p1228
-aS'1969'
-p1229
-aS'No. 8'
 p1230
-aS'date unknown'
+aS'1969'
 p1231
-aS'18'
+aS'No. 8'
 p1232
-aS'13'
+aS'18'
 p1233
+aS'13'
+p1234
+aS'5'
+aS'0'
 aS'2'
 aS'7'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1234
-S'Arturo Abella'
+aS'date unknown'
 p1235
-aS'1969'
-p1236
-aS''
-aS'date unknown'
-p1237
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1238
-S'Nestor Carbone'
-p1239
+aa(lp1236
+S'Arturo Abella'
+p1237
 aS'1969'
-p1240
-aS'Flanker'
-p1241
+p1238
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
+p1239
+aS'g'
+aS'n'
+aS'i'
+aa(lp1240
+S'Nestor Carbone'
+p1241
+aS'1969'
 p1242
+aS'Flanker'
+p1243
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p1244
 aS'g'
 aS'n'
 aS'i'
-aa(lp1243
+aa(lp1245
 S'Miguel Cutler'
-p1244
-aS'1969'
-p1245
-aS''
-aS'date unknown'
 p1246
+aS'1969'
+p1247
+aS''
 aS'5'
 aS'5'
+aS'0'
+aS'0'
 aS'0'
 aS'25'
-p1247
+p1248
+aS'date unknown'
+p1249
 aS'g'
 aS'n'
 aS'i'
-aa(lp1248
+aa(lp1250
 S'Carlos Martinez'
-p1249
-aS'1969'
-p1250
-aS'Fly-half'
 p1251
-aS'date unknown'
+aS'1969'
 p1252
+aS'Fly-half'
+p1253
 aS'4'
 aS'4'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
+aS'date unknown'
+p1254
 aS'g'
 aS'n'
 aS'i'
-aa(lp1253
+aa(lp1255
 S'Julio Otaola'
-p1254
-aS'1970'
-p1255
-aS'Wing'
 p1256
-aS'date unknown'
+aS'1970'
 p1257
+aS'Wing'
+p1258
 aS'7'
 aS'5'
+aS'2'
+aS'0'
 aS'3'
 aS'9'
+aS'date unknown'
+p1259
 aS'g'
 aS'n'
 aS'i'
-aa(lp1258
+aa(lp1260
 S'Guillermo Blacksley'
-p1259
-aS'1971'
-p1260
-aS''
-aS'date unknown'
 p1261
+aS'1971'
+p1262
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1263
 aS'g'
 aS'n'
 aS'i'
-aa(lp1262
+aa(lp1264
 S'Ricardo Espagnol'
-p1263
-aS'1971'
-p1264
-aS''
-aS'date unknown'
 p1265
+aS'1971'
+p1266
+aS''
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'6'
+aS'date unknown'
+p1267
 aS'g'
 aS'n'
 aS'i'
-aa(lp1266
+aa(lp1268
 S'Roberto Matarazzo'
-p1267
-aS'1971'
-p1268
-aS'Centre'
 p1269
-aS'date unknown'
+aS'1971'
 p1270
-aS'15'
+aS'Centre'
 p1271
+aS'15'
+p1272
 aS'9'
+aS'6'
+aS'0'
 aS'5'
 aS'20'
-p1272
+p1273
+aS'date unknown'
+p1274
 aS'g'
 aS'n'
 aS'i'
-aa(lp1273
+aa(lp1275
 S'Jorge Wittman'
-p1274
-aS'1971'
-p1275
-aS'Flanker'
 p1276
-aS'date unknown'
+aS'1971'
 p1277
+aS'Flanker'
+p1278
 aS'8'
 aS'6'
+aS'2'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1278
-S'Jose Fernandez'
-p1279
-aS'1971'
-p1280
-aS'Lock'
-p1281
-aS'circa 1949'
-p1282
-aS'24'
-p1283
-aS'12'
-p1284
-aS'1'
-aS'3'
-aVPerú
-p1285
-aVTacna
-p1286
-aVCandarave
-p1287
-aa(lp1288
-S'Miguel Morgan'
-p1289
-aS'1971'
-p1290
-aS''
+aS'0'
 aS'date unknown'
-p1291
-aS'3'
-aS'3'
-aS'1'
-aS'3'
+p1279
 aS'g'
 aS'n'
 aS'i'
-aa(lp1292
-S'Hugo Nicola'
-p1293
+aa(lp1280
+S'Jose Fernandez'
+p1281
 aS'1971'
+p1282
+aS'Lock'
+p1283
+aS'24'
+p1284
+aS'12'
+p1285
+aS'11'
+p1286
+aS'1'
+aS'1'
+aS'3'
+aS'circa 1949'
+p1287
+aVPerú
+p1288
+aVTacna
+p1289
+aVCandarave
+p1290
+aa(lp1291
+S'Miguel Morgan'
+p1292
+aS'1971'
+p1293
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'date unknown'
 p1294
-aS'Prop'
-p1295
-aS'circa 1947'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1295
+S'Hugo Nicola'
 p1296
-aS'15'
+aS'1971'
 p1297
+aS'Prop'
+p1298
+aS'15'
+p1299
 aS'7'
+aS'7'
+aS'1'
 aS'2'
 aS'6'
-aVPerú
-p1298
-aVTacna
-p1299
-aVCandarave
+aS'circa 1947'
 p1300
-aa(lp1301
-S'Jose Costante'
+aVPerú
+p1301
+aVTacna
 p1302
-aS'1971'
+aVCandarave
 p1303
-aS'Hooker'
-p1304
-aS'circa 1946'
+aa(lp1304
+S'Jose Costante'
 p1305
+aS'1971'
+p1306
+aS'Hooker'
+p1307
 aS'9'
 aS'6'
 aS'2'
+aS'1'
+aS'2'
 aS'6'
-aVPerú
-p1306
-aVTacna
-p1307
-aVCandarave
+aS'circa 1946'
 p1308
-aa(lp1309
-S'Julio Walther'
+aVPerú
+p1309
+aVTacna
 p1310
-aS'1971'
+aVCandarave
 p1311
+aa(lp1312
+S'Julio Walther'
+p1313
+aS'1971'
+p1314
 aS''
-aS'date unknown'
-p1312
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p1315
 aS'g'
 aS'n'
 aS'i'
-aa(lp1313
+aa(lp1316
 S'Guillermo Casas'
-p1314
-aS'1971'
-p1315
-aS'Hooker'
-p1316
-aS'date unknown'
 p1317
+aS'1971'
+p1318
+aS'Hooker'
+p1319
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p1320
 aS'g'
 aS'n'
 aS'i'
-aa(lp1318
+aa(lp1321
 S'Jorge Carracedo'
-p1319
-aS'1971'
-p1320
-aS'Flanker'
-p1321
-aS'circa 1947'
 p1322
-aS'19'
+aS'1971'
 p1323
-aS'10'
+aS'Flanker'
 p1324
+aS'19'
+p1325
+aS'10'
+p1326
+aS'8'
+aS'1'
 aS'8'
 aS'28'
-p1325
-aVPerú
-p1326
-aVTacna
 p1327
-aVCandarave
+aS'circa 1947'
 p1328
-aa(lp1329
-S'Ruben Castro'
+aVPerú
+p1329
+aVTacna
 p1330
-aS'1971'
+aVCandarave
 p1331
-aS''
-aS'date unknown'
-p1332
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1333
-S'Gustavo Foster'
+aa(lp1332
+S'Ruben Castro'
+p1333
+aS'1971'
 p1334
-aS'1971'
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1335
-aS''
-aS'date unknown'
-p1336
-aS'4'
-aS'4'
-aS'1'
-aS'3'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1337
-S'Fernando Insua'
+aa(lp1336
+S'Gustavo Foster'
+p1337
+aS'1971'
 p1338
-aS'1971'
-p1339
-aS'Prop'
-p1340
+aS''
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
 aS'date unknown'
+p1339
+aS'g'
+aS'n'
+aS'i'
+aa(lp1340
+S'Fernando Insua'
 p1341
-aS'18'
+aS'1971'
 p1342
+aS'Prop'
+p1343
+aS'18'
+p1344
 aS'8'
+aS'9'
+aS'1'
 aS'1'
 aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1343
-S'Enrique Martinez'
-p1344
-aS'1971'
+aS'date unknown'
 p1345
-aS''
-aS'date unknown'
-p1346
-aS'3'
-aS'3'
-aS'1'
-aS'3'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1347
-S'Marcelo Martinez Mosquera'
-p1348
+aa(lp1346
+S'Enrique Martinez'
+p1347
 aS'1971'
-p1349
+p1348
 aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
 aS'date unknown'
-p1350
+p1349
+aS'g'
+aS'n'
+aS'i'
+aa(lp1350
+S'Marcelo Martinez Mosquera'
+p1351
+aS'1971'
+p1352
+aS''
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1351
-S'Hugo Porta'
-p1352
-aS'1971'
-p1353
-aS'Fly-half'
-p1354
-aS'Buenos Aires'
-p1355
-aS'66'
-p1356
-aS'26'
-p1357
-aS'12'
-p1358
-aS'651'
-p1359
-aVArgentina
-p1360
-aVCABA
-p1361
-aVComuna 6
-p1362
-aa(lp1363
-S'Marcelo Rodriguez Jurado'
-p1364
-aS'1971'
-p1365
-aS''
 aS'date unknown'
-p1366
-aS'4'
-aS'4'
-aS'10'
-p1367
-aS'58'
-p1368
+p1353
 aS'g'
 aS'n'
 aS'i'
-aa(lp1369
-S'Alberto Velasquez'
-p1370
+aa(lp1354
+S'Hugo Porta'
+p1355
 aS'1971'
-p1371
+p1356
+aS'Fly-half'
+p1357
+aS'66'
+p1358
+aS'26'
+p1359
+aS'35'
+p1360
+aS'5'
+aS'12'
+p1361
+aS'651'
+p1362
+aS'Buenos Aires'
+p1363
+aVArgentina
+p1364
+aVCABA
+p1365
+aVComuna 6
+p1366
+aa(lp1367
+S'Marcelo Rodriguez Jurado'
+p1368
+aS'1971'
+p1369
 aS''
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'10'
+p1370
+aS'58'
+p1371
 aS'date unknown'
 p1372
-aS'2'
-aS'2'
-aS'1'
-aS'3'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1373
-S'Jorge Braceras'
+S'Alberto Velasquez'
 p1374
 aS'1971'
 p1375
-aS'Hooker'
-p1376
-aS'circa 1946'
-p1377
-aS'5'
-aS'2'
-aS'2'
-aS'6'
-aVPerú
-p1378
-aVTacna
-p1379
-aVCandarave
-p1380
-aa(lp1381
-S'Gustavo Pimentel'
-p1382
-aS'1971'
-p1383
 aS''
-aS'date unknown'
-p1384
-aS'1'
-aS'1'
+aS'2'
+aS'2'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1385
-S'Alejandro Altberg'
-p1386
-aS'1972'
-p1387
-aS'Wing'
-p1388
-aS'date unknown'
-p1389
-aS'5'
-aS'4'
 aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1390
-S'Eduardo Morgan'
-p1391
-aS'1972'
-p1392
-aS'Wing, Fullback'
-p1393
+aS'3'
 aS'date unknown'
-p1394
-aS'12'
-p1395
-aS'7'
-aS'12'
-p1396
-aS'127'
-p1397
+p1376
 aS'g'
 aS'n'
 aS'i'
-aa(lp1398
-S'Martin Alonso'
-p1399
-aS'1973'
-p1400
-aS'Fullback'
-p1401
-aS'circa 1952'
-p1402
+aa(lp1377
+S'Jorge Braceras'
+p1378
+aS'1971'
+p1379
+aS'Hooker'
+p1380
 aS'5'
 aS'2'
+aS'3'
+aS'0'
+aS'2'
+aS'6'
+aS'circa 1946'
+p1381
+aVPerú
+p1382
+aVTacna
+p1383
+aVCandarave
+p1384
+aa(lp1385
+S'Gustavo Pimentel'
+p1386
+aS'1971'
+p1387
+aS''
 aS'1'
-aS'4'
-aVPerú
-p1403
-aVTacna
-p1404
-aVCandarave
-p1405
-aa(lp1406
-S'Mario Carluccio'
-p1407
-aS'1973'
-p1408
-aS'Prop'
-p1409
-aS'circa 1945'
-p1410
-aS'10'
-p1411
-aS'5'
+aS'1'
 aS'0'
 aS'0'
-aVPerú
-p1412
-aVTacna
-p1413
-aVCandarave
-p1414
-aa(lp1415
-S'Juan Dumas'
-p1416
-aS'1973'
-p1417
-aS'Hooker'
-p1418
+aS'0'
+aS'0'
 aS'date unknown'
-p1419
-aS'5'
-aS'4'
-aS'1'
-aS'4'
+p1388
 aS'g'
 aS'n'
 aS'i'
-aa(lp1420
-S'Jose Virasoro'
-p1421
-aS'1973'
-p1422
-aS'Lock'
-p1423
+aa(lp1389
+S'Alejandro Altberg'
+p1390
+aS'1972'
+p1391
+aS'Wing'
+p1392
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
 aS'date unknown'
-p1424
+p1393
+aS'g'
+aS'n'
+aS'i'
+aa(lp1394
+S'Eduardo Morgan'
+p1395
+aS'1972'
+p1396
+aS'Wing, Fullback'
+p1397
+aS'12'
+p1398
+aS'7'
+aS'5'
+aS'0'
+aS'12'
+p1399
+aS'127'
+p1400
+aS'date unknown'
+p1401
+aS'g'
+aS'n'
+aS'i'
+aa(lp1402
+S'Martin Alonso'
+p1403
+aS'1973'
+p1404
+aS'Fullback'
+p1405
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'1'
+aS'4'
+aS'circa 1952'
+p1406
+aVPerú
+p1407
+aVTacna
+p1408
+aVCandarave
+p1409
+aa(lp1410
+S'Mario Carluccio'
+p1411
+aS'1973'
+p1412
+aS'Prop'
+p1413
+aS'10'
+p1414
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'circa 1945'
+p1415
+aVPerú
+p1416
+aVTacna
+p1417
+aVCandarave
+p1418
+aa(lp1419
+S'Juan Dumas'
+p1420
+aS'1973'
+p1421
+aS'Hooker'
+p1422
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p1423
+aS'g'
+aS'n'
+aS'i'
+aa(lp1424
+S'Jose Virasoro'
+p1425
+aS'1973'
+p1426
+aS'Lock'
+p1427
 aS'6'
 aS'5'
 aS'1'
+aS'0'
+aS'1'
 aS'4'
+aS'date unknown'
+p1428
 aS'g'
 aS'n'
 aS'i'
-aa(lp1425
+aa(lp1429
 S'Miguel Iglesias'
-p1426
+p1430
 aS'1973'
-p1427
+p1431
 aS'Flanker'
-p1428
-aS'date unknown'
-p1429
+p1432
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1433
 aS'g'
 aS'n'
 aS'i'
-aa(lp1430
+aa(lp1434
 S'Carlos Bottarini'
-p1431
-aS'1973'
-p1432
-aS'Lock'
-p1433
-aS'date unknown'
-p1434
-aS'15'
 p1435
-aS'10'
+aS'1973'
 p1436
+aS'Lock'
+p1437
+aS'15'
+p1438
+aS'10'
+p1439
+aS'5'
+aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p1440
 aS'g'
 aS'n'
 aS'i'
-aa(lp1437
+aa(lp1441
 S'Roberto Fariello'
-p1438
+p1442
 aS'1973'
-p1439
+p1443
 aS'Prop'
-p1440
-aS'date unknown'
-p1441
+p1444
 aS'3'
 aS'2'
+aS'1'
+aS'0'
 aS'2'
 aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1442
-S'Martin Giargia'
-p1443
-aS'1973'
-p1444
-aS''
 aS'date unknown'
 p1445
-aS'5'
-aS'5'
-aS'1'
-aS'4'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1446
-S'Raul Sanz'
+S'Martin Giargia'
 p1447
 aS'1973'
 p1448
-aS'No. 8'
-p1449
-aS'circa 1949'
-p1450
-aS'7'
-aS'4'
-aS'6'
-aS'24'
-p1451
-aVPerú
-p1452
-aVTacna
-p1453
-aVCandarave
-p1454
-aa(lp1455
-S'Guillermo Perez Leiros'
-p1456
-aS'1973'
-p1457
-aS'Wing'
-p1458
-aS'date unknown'
-p1459
-aS'2'
+aS''
+aS'5'
+aS'5'
+aS'0'
+aS'0'
 aS'1'
 aS'4'
-aS'16'
-p1460
+aS'date unknown'
+p1449
 aS'g'
 aS'n'
 aS'i'
-aa(lp1461
-S'Rito Iraneta'
+aa(lp1450
+S'Raul Sanz'
+p1451
+aS'1973'
+p1452
+aS'No. 8'
+p1453
+aS'7'
+aS'4'
+aS'2'
+aS'1'
+aS'6'
+aS'24'
+p1454
+aS'circa 1949'
+p1455
+aVPerú
+p1456
+aVTacna
+p1457
+aVCandarave
+p1458
+aa(lp1459
+S'Guillermo Perez Leiros'
+p1460
+aS'1973'
+p1461
+aS'Wing'
 p1462
-aS'1974'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'4'
+aS'16'
 p1463
-aS'Prop'
+aS'date unknown'
 p1464
-aS'circa 1951'
-p1465
+aS'g'
+aS'n'
+aS'i'
+aa(lp1465
+S'Rito Iraneta'
+p1466
+aS'1974'
+p1467
+aS'Prop'
+p1468
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
-aVPerú
-p1466
-aVTacna
-p1467
-aVCandarave
-p1468
-aa(lp1469
-S'Arturo Orzabal'
-p1470
-aS'1974'
-p1471
-aS'Prop'
-p1472
-aS'date unknown'
-p1473
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1474
-S'Osvaldo Rocha'
-p1475
-aS'1974'
-p1476
-aS'Hooker'
-p1477
-aS'date unknown'
-p1478
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1479
-S'Guillermo Alvarez'
-p1480
-aS'1975'
-p1481
-aS'Wing'
-p1482
 aS'circa 1951'
-p1483
+p1469
+aVPerú
+p1470
+aVTacna
+p1471
+aVCandarave
+p1472
+aa(lp1473
+S'Arturo Orzabal'
+p1474
+aS'1974'
+p1475
+aS'Prop'
+p1476
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1477
+aS'g'
+aS'n'
+aS'i'
+aa(lp1478
+S'Osvaldo Rocha'
+p1479
+aS'1974'
+p1480
+aS'Hooker'
+p1481
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1482
+aS'g'
+aS'n'
+aS'i'
+aa(lp1483
+S'Guillermo Alvarez'
+p1484
+aS'1975'
+p1485
+aS'Wing'
+p1486
 aS'9'
 aS'8'
+aS'1'
+aS'0'
 aS'14'
-p1484
-aS'56'
-p1485
-aVPerú
-p1486
-aVTacna
 p1487
-aVCandarave
+aS'56'
 p1488
-aa(lp1489
-S'Eduardo Brouchou'
+aS'circa 1951'
+p1489
+aVPerú
 p1490
-aS'1975'
+aVTacna
 p1491
-aS''
-aS'date unknown'
+aVCandarave
 p1492
+aa(lp1493
+S'Eduardo Brouchou'
+p1494
+aS'1975'
+p1495
+aS''
 aS'4'
 aS'4'
+aS'0'
+aS'0'
 aS'4'
 aS'16'
-p1493
-aS'g'
-aS'n'
-aS'i'
-aa(lp1494
-S'Juan Cato'
-p1495
-aS'1975'
 p1496
-aS''
 aS'date unknown'
 p1497
-aS'2'
-aS'2'
-aS'1'
-aS'4'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1498
-S'Jorge Copello'
+S'Juan Cato'
 p1499
 aS'1975'
 p1500
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
 aS'date unknown'
 p1501
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1502
-S"Felix d'Agnilo"
+S'Jorge Copello'
 p1503
 aS'1975'
 p1504
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1505
-aS'6'
-aS'6'
-aS'3'
-aS'12'
-p1506
 aS'g'
 aS'n'
 aS'i'
-aa(lp1507
-S'Miguel Devoto'
-p1508
+aa(lp1506
+S"Felix d'Agnilo"
+p1507
 aS'1975'
-p1509
+p1508
 aS''
+aS'6'
+aS'6'
+aS'0'
+aS'0'
+aS'3'
+aS'12'
+p1509
 aS'date unknown'
 p1510
-aS'4'
-aS'4'
-aS'1'
-aS'4'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1511
-S'Javier Escalante'
+S'Miguel Devoto'
 p1512
 aS'1975'
 p1513
-aS'Centre'
-p1514
+aS''
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
 aS'date unknown'
-p1515
+p1514
+aS'g'
+aS'n'
+aS'i'
+aa(lp1515
+S'Javier Escalante'
+p1516
+aS'1975'
+p1517
+aS'Centre'
+p1518
 aS'7'
 aS'6'
+aS'1'
+aS'0'
 aS'2'
 aS'16'
-p1516
+p1519
+aS'date unknown'
+p1520
 aS'g'
 aS'n'
 aS'i'
-aa(lp1517
+aa(lp1521
 S'Alejandro Iachetti'
-p1518
-aS'1975'
-p1519
-aS'Lock'
-p1520
-aS'1956'
-p1521
-aS'38'
 p1522
-aS'18'
+aS'1975'
 p1523
+aS'Lock'
+p1524
+aS'38'
+p1525
+aS'18'
+p1526
+aS'17'
+p1527
+aS'3'
 aS'3'
 aS'12'
-p1524
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p1525
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p1526
-aVDaïra El Eulma
-p1527
-aa(lp1528
-S'Tomas Landajo'
+p1528
+aS'1956'
 p1529
-aS'1975'
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
 p1530
-aS'Scrum-half'
+aVSétif - \u0633\u0637\u064a\u0641\u200e
 p1531
-aS'circa 1953'
+aVDaïra El Eulma
 p1532
+aa(lp1533
+S'Tomas Landajo'
+p1534
+aS'1975'
+p1535
+aS'Scrum-half'
+p1536
 aS'18'
-p1533
+p1537
 aS'9'
+aS'6'
+aS'3'
 aS'1'
 aS'13'
-p1534
-aVPerú
-p1535
-aVTacna
-p1536
-aVCandarave
-p1537
-aa(lp1538
-S'Roberto Lucke'
-p1539
-aS'1975'
-p1540
-aS'No. 8'
-p1541
+p1538
 aS'circa 1953'
-p1542
-aS'5'
-aS'5'
-aS'2'
-aS'8'
+p1539
 aVPerú
-p1543
+p1540
 aVTacna
-p1544
+p1541
 aVCandarave
-p1545
-aa(lp1546
-S'Ernesto Miguens'
-p1547
+p1542
+aa(lp1543
+S'Roberto Lucke'
+p1544
 aS'1975'
-p1548
+p1545
 aS'No. 8'
-p1549
-aS'date unknown'
-p1550
-aS'3'
-aS'3'
+p1546
+aS'5'
+aS'5'
+aS'0'
+aS'0'
 aS'2'
 aS'8'
-aS'g'
-aS'n'
-aS'i'
+aS'circa 1953'
+p1547
+aVPerú
+p1548
+aVTacna
+p1549
+aVCandarave
+p1550
 aa(lp1551
-S'Manuel Parra'
+S'Ernesto Miguens'
 p1552
 aS'1975'
 p1553
-aS''
-aS'date unknown'
+aS'No. 8'
 p1554
 aS'3'
 aS'3'
 aS'0'
 aS'0'
+aS'2'
+aS'8'
+aS'date unknown'
+p1555
 aS'g'
 aS'n'
 aS'i'
-aa(lp1555
-S'Eduardo Sanguinetti'
-p1556
-aS'1975'
+aa(lp1556
+S'Manuel Parra'
 p1557
-aS'Fullback'
+aS'1975'
 p1558
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1559
+aS'g'
+aS'n'
+aS'i'
+aa(lp1560
+S'Eduardo Sanguinetti'
+p1561
+aS'1975'
+p1562
+aS'Fullback'
+p1563
 aS'9'
 aS'6'
 aS'3'
+aS'0'
+aS'3'
 aS'36'
-p1560
-aS'g'
-aS'n'
-aS'i'
-aa(lp1561
-S'Rodolfo Ventura'
-p1562
-aS'1975'
-p1563
-aS'Prop'
 p1564
 aS'date unknown'
 p1565
-aS'12'
-p1566
-aS'11'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1566
+S'Rodolfo Ventura'
 p1567
+aS'1975'
+p1568
+aS'Prop'
+p1569
+aS'12'
+p1570
+aS'11'
+p1571
+aS'1'
+aS'0'
 aS'6'
 aS'24'
-p1568
+p1572
+aS'date unknown'
+p1573
 aS'g'
 aS'n'
 aS'i'
-aa(lp1569
+aa(lp1574
 S'Eduardo Vila'
-p1570
+p1575
 aS'1975'
-p1571
+p1576
 aS''
-aS'date unknown'
-p1572
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1577
 aS'g'
 aS'n'
 aS'i'
-aa(lp1573
+aa(lp1578
 S'Camilo Abud'
-p1574
+p1579
 aS'1975'
-p1575
+p1580
 aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p1576
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p1581
 aS'g'
 aS'n'
 aS'i'
-aa(lp1577
+aa(lp1582
 S'Julio Bach'
-p1578
+p1583
 aS'1975'
-p1579
+p1584
 aS''
-aS'date unknown'
-p1580
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1581
-S'Eduardo de Forteza'
-p1582
-aS'1975'
-p1583
-aS''
 aS'date unknown'
-p1584
-aS'3'
-aS'3'
-aS'2'
-aS'66'
 p1585
 aS'g'
 aS'n'
 aS'i'
 aa(lp1586
-S'Buenaventura Minguez'
+S'Eduardo de Forteza'
 p1587
 aS'1975'
 p1588
-aS'No. 8'
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'66'
 p1589
 aS'date unknown'
 p1590
-aS'13'
-p1591
-aS'10'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1591
+S'Buenaventura Minguez'
 p1592
+aS'1975'
+p1593
+aS'No. 8'
+p1594
+aS'13'
+p1595
+aS'10'
+p1596
+aS'3'
+aS'0'
 aS'5'
 aS'20'
-p1593
+p1597
+aS'date unknown'
+p1598
 aS'g'
 aS'n'
 aS'i'
-aa(lp1594
+aa(lp1599
 S'Ricardo Muniz'
-p1595
+p1600
 aS'1975'
-p1596
+p1601
 aS'Fullback'
-p1597
-aS'circa 1955'
-p1598
+p1602
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'8'
-aVPerú
-p1599
-aVTacna
-p1600
-aVCandarave
-p1601
-aa(lp1602
-S'Nestor Bozzo'
+aS'circa 1955'
 p1603
-aS'1975'
+aVPerú
 p1604
-aS''
-aS'date unknown'
+aVTacna
 p1605
-aS'1'
-aS'1'
-aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1606
-S'Javier Capalbo'
-p1607
-aS'1975'
+aVCandarave
+p1606
+aa(lp1607
+S'Nestor Bozzo'
 p1608
-aS''
-aS'date unknown'
+aS'1975'
 p1609
-aS'4'
-aS'4'
+aS''
 aS'1'
-aS'42'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
 p1610
 aS'g'
 aS'n'
 aS'i'
 aa(lp1611
-S'Daniel Beccar Varela'
+S'Javier Capalbo'
 p1612
 aS'1975'
 p1613
-aS'Wing'
+aS''
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'1'
+aS'42'
 p1614
-aS'Buenos Aires'
+aS'date unknown'
 p1615
-aS'6'
-aS'0'
-aS'0'
-aS'0'
-aVArgentina
-p1616
-aVCABA
+aS'g'
+aS'n'
+aS'i'
+aa(lp1616
+S'Daniel Beccar Varela'
 p1617
-aVComuna 6
+aS'1975'
 p1618
-aa(lp1619
-S'Jorge Gauweloose'
-p1620
-aS'1975'
-p1621
 aS'Wing'
-p1622
-aS'circa 1955'
-p1623
-aS'8'
-aS'1'
-aS'2'
-aS'8'
-aVPerú
-p1624
-aVTacna
-p1625
-aVCandarave
-p1626
-aa(lp1627
-S'Ricardo Mastai'
-p1628
-aS'1975'
-p1629
-aS'No. 8'
-p1630
-aS'circa 1954'
-p1631
-aS'11'
-p1632
+p1619
+aS'6'
+aS'0'
 aS'5'
-aS'2'
-aS'8'
-aVPerú
-p1633
-aVTacna
-p1634
-aVCandarave
-p1635
-aa(lp1636
-S'Carlos Neyra'
-p1637
-aS'1975'
-p1638
-aS'Flanker'
-p1639
-aS'Santa Fe'
-p1640
-aS'6'
 aS'1'
 aS'0'
 aS'0'
-aVUnited States of America
-p1641
-aVNew Mexico
-p1642
-aVSanta Fe County
-p1643
-aa(lp1644
-S'Martin Sansot'
-p1645
+aS'Buenos Aires'
+p1620
+aVArgentina
+p1621
+aVCABA
+p1622
+aVComuna 6
+p1623
+aa(lp1624
+S'Jorge Gauweloose'
+p1625
 aS'1975'
-p1646
-aS'Fullback'
-p1647
-aS'circa 1955'
-p1648
-aS'18'
-p1649
+p1626
+aS'Wing'
+p1627
+aS'8'
+aS'1'
 aS'6'
+aS'1'
+aS'2'
+aS'8'
+aS'circa 1955'
+p1628
+aVPerú
+p1629
+aVTacna
+p1630
+aVCandarave
+p1631
+aa(lp1632
+S'Ricardo Mastai'
+p1633
+aS'1975'
+p1634
+aS'No. 8'
+p1635
+aS'11'
+p1636
+aS'5'
+aS'5'
+aS'1'
+aS'2'
+aS'8'
+aS'circa 1954'
+p1637
+aVPerú
+p1638
+aVTacna
+p1639
+aVCandarave
+p1640
+aa(lp1641
+S'Carlos Neyra'
+p1642
+aS'1975'
+p1643
+aS'Flanker'
+p1644
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Santa Fe'
+p1645
+aVUnited States of America
+p1646
+aVNew Mexico
+p1647
+aVSanta Fe County
+p1648
+aa(lp1649
+S'Martin Sansot'
+p1650
+aS'1975'
+p1651
+aS'Fullback'
+p1652
+aS'18'
+p1653
+aS'6'
+aS'11'
+p1654
+aS'1'
 aS'7'
 aS'63'
-p1650
-aVPerú
-p1651
-aVTacna
-p1652
-aVCandarave
-p1653
-aa(lp1654
-S'Carlos Bori'
 p1655
-aS'1975'
+aS'circa 1955'
 p1656
-aS'No. 8'
+aVPerú
 p1657
-aS'date unknown'
+aVTacna
 p1658
+aVCandarave
+p1659
+aa(lp1660
+S'Carlos Bori'
+p1661
+aS'1975'
+p1662
+aS'No. 8'
+p1663
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1664
 aS'g'
 aS'n'
 aS'i'
-aa(lp1659
+aa(lp1665
 S'Alejandro Cerioni'
-p1660
+p1666
 aS'1975'
-p1661
+p1667
 aS'Prop'
-p1662
-aS'date unknown'
-p1663
+p1668
 aS'5'
 aS'2'
+aS'2'
+aS'1'
 aS'2'
 aS'8'
+aS'date unknown'
+p1669
 aS'g'
 aS'n'
 aS'i'
-aa(lp1664
+aa(lp1670
 S'Gonzalo Beccar Varela'
-p1665
+p1671
 aS'1976'
-p1666
+p1672
 aS'Centre'
-p1667
-aS'Buenos Aires'
-p1668
+p1673
 aS'7'
 aS'2'
+aS'4'
+aS'1'
 aS'1'
 aS'30'
-p1669
-aVArgentina
-p1670
-aVCABA
-p1671
-aVComuna 6
-p1672
-aa(lp1673
-S'Eliseo Branca'
 p1674
-aS'1976'
+aS'Buenos Aires'
 p1675
-aS'Lock'
+aVArgentina
 p1676
-aS'1957'
+aVCABA
 p1677
-aS'40'
+aVComuna 6
 p1678
-aS'19'
-p1679
-aS'5'
-aS'20'
+aa(lp1679
+S'Eliseo Branca'
 p1680
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+aS'1976'
 p1681
-aVSétif - \u0633\u0637\u064a\u0641\u200e
+aS'Lock'
 p1682
-aVDaïra Amoucha
+aS'40'
 p1683
-aa(lp1684
-S'Adolfo Cappelletti'
-p1685
-aS'1977'
-p1686
-aS'Wing'
-p1687
-aS'circa 1954'
-p1688
+aS'19'
+p1684
 aS'17'
-p1689
+p1685
 aS'4'
 aS'5'
 aS'20'
+p1686
+aS'1957'
+p1687
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p1688
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p1689
+aVDaïra Amoucha
 p1690
-aVPerú
-p1691
-aVTacna
+aa(lp1691
+S'Adolfo Cappelletti'
 p1692
-aVCandarave
-p1693
-aa(lp1694
-S'Ricardo Castagna'
-p1695
 aS'1977'
+p1693
+aS'Wing'
+p1694
+aS'17'
+p1695
+aS'4'
+aS'10'
 p1696
-aS'Scrum-half'
+aS'3'
+aS'5'
+aS'20'
 p1697
-aS'circa 1953'
+aS'circa 1954'
 p1698
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVPerú
 p1699
 aVTacna
@@ -5264,18 +5899,20 @@ p1700
 aVCandarave
 p1701
 aa(lp1702
-S'Horacio Mazzini'
+S'Ricardo Castagna'
 p1703
 aS'1977'
 p1704
-aS'No. 8'
+aS'Scrum-half'
 p1705
-aS'circa 1949'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1953'
 p1706
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVPerú
 p1707
 aVTacna
@@ -5283,3155 +5920,3440 @@ p1708
 aVCandarave
 p1709
 aa(lp1710
-S'Fernando Bustillo'
+S'Horacio Mazzini'
 p1711
 aS'1977'
 p1712
-aS''
-aS'date unknown'
+aS'No. 8'
 p1713
-aS'6'
-aS'4'
+aS'2'
+aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1714
-S'Luis Balfour'
-p1715
-aS'1977'
-p1716
-aS''
-aS'date unknown'
-p1717
-aS'4'
-aS'4'
-aS'3'
-aS'12'
-p1718
-aS'g'
-aS'n'
-aS'i'
-aa(lp1719
-S'Alejandro Cubelli'
-p1720
-aS'1977'
-p1721
-aS'Hooker'
-p1722
-aS'circa 1959'
-p1723
-aS'21'
-p1724
-aS'10'
-p1725
-aS'4'
-aS'16'
-p1726
+aS'circa 1949'
+p1714
 aVPerú
-p1727
+p1715
 aVTacna
-p1728
+p1716
 aVCandarave
-p1729
-aa(lp1730
-S'Eduardo Garcia Teran'
-p1731
+p1717
+aa(lp1718
+S'Fernando Bustillo'
+p1719
 aS'1977'
-p1732
+p1720
 aS''
-aS'date unknown'
-p1733
 aS'6'
-aS'6'
-aS'10'
-p1734
-aS'40'
-p1735
-aS'g'
-aS'n'
-aS'i'
-aa(lp1736
-S'Guillermo Morgan'
-p1737
-aS'1977'
-p1738
-aS''
-aS'date unknown'
-p1739
-aS'7'
-aS'7'
-aS'14'
-p1740
-aS'56'
-p1741
-aS'g'
-aS'n'
-aS'i'
-aa(lp1742
-S'Ricardo Passaglia'
-p1743
-aS'1977'
-p1744
-aS'Lock'
-p1745
-aS'date unknown'
-p1746
-aS'5'
-aS'3'
-aS'2'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1747
-S'Javier Trucco'
-p1748
-aS'1977'
-p1749
-aS''
-aS'date unknown'
-p1750
-aS'4'
-aS'4'
-aS'2'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1751
-S'Agustin Badano'
-p1752
-aS'1977'
-p1753
-aS''
-aS'date unknown'
-p1754
-aS'4'
 aS'4'
 aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'date unknown'
+p1721
+aS'g'
+aS'n'
+aS'i'
+aa(lp1722
+S'Luis Balfour'
+p1723
+aS'1977'
+p1724
+aS''
 aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'3'
+aS'12'
+p1725
+aS'date unknown'
+p1726
+aS'g'
+aS'n'
+aS'i'
+aa(lp1727
+S'Alejandro Cubelli'
+p1728
+aS'1977'
+p1729
+aS'Hooker'
+p1730
+aS'21'
+p1731
+aS'10'
+p1732
+aS'9'
+aS'2'
+aS'4'
+aS'16'
+p1733
+aS'circa 1959'
+p1734
+aVPerú
+p1735
+aVTacna
+p1736
+aVCandarave
+p1737
+aa(lp1738
+S'Eduardo Garcia Teran'
+p1739
+aS'1977'
+p1740
+aS''
+aS'6'
+aS'6'
+aS'0'
+aS'0'
+aS'10'
+p1741
+aS'40'
+p1742
+aS'date unknown'
+p1743
+aS'g'
+aS'n'
+aS'i'
+aa(lp1744
+S'Guillermo Morgan'
+p1745
+aS'1977'
+p1746
+aS''
+aS'7'
+aS'7'
+aS'0'
+aS'0'
+aS'14'
+p1747
+aS'56'
+p1748
+aS'date unknown'
+p1749
+aS'g'
+aS'n'
+aS'i'
+aa(lp1750
+S'Ricardo Passaglia'
+p1751
+aS'1977'
+p1752
+aS'Lock'
+p1753
+aS'5'
+aS'3'
+aS'1'
+aS'1'
+aS'2'
+aS'8'
+aS'date unknown'
+p1754
 aS'g'
 aS'n'
 aS'i'
 aa(lp1755
-S'Gabriel Allen'
+S'Javier Trucco'
 p1756
 aS'1977'
 p1757
 aS''
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'2'
+aS'8'
 aS'date unknown'
 p1758
-aS'1'
-aS'1'
-aS'1'
-aS'4'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1759
-S'Pablo Guarrochena'
+S'Agustin Badano'
 p1760
 aS'1977'
 p1761
 aS''
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
 aS'date unknown'
 p1762
+aS'g'
+aS'n'
+aS'i'
+aa(lp1763
+S'Gabriel Allen'
+p1764
+aS'1977'
+p1765
+aS''
 aS'1'
 aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p1766
+aS'g'
+aS'n'
+aS'i'
+aa(lp1767
+S'Pablo Guarrochena'
+p1768
+aS'1977'
+p1769
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
 aS'0'
 aS'29'
-p1763
-aS'g'
-aS'n'
-aS'i'
-aa(lp1764
-S'Jorge Posse'
-p1765
-aS'1977'
-p1766
-aS''
-aS'date unknown'
-p1767
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1768
-S'Santos Rosatti'
-p1769
-aS'1977'
 p1770
-aS''
 aS'date unknown'
 p1771
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1772
-S'Marcelo Campo'
+S'Jorge Posse'
 p1773
-aS'1978'
+aS'1977'
 p1774
-aS'Wing'
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1775
-aS'circa 1957'
-p1776
-aS'26'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1776
+S'Santos Rosatti'
 p1777
+aS'1977'
+p1778
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1779
+aS'g'
+aS'n'
+aS'i'
+aa(lp1780
+S'Marcelo Campo'
+p1781
+aS'1978'
+p1782
+aS'Wing'
+p1783
+aS'26'
+p1784
 aS'8'
+aS'16'
+p1785
+aS'2'
 aS'9'
 aS'36'
-p1778
-aVPerú
-p1779
-aVTacna
-p1780
-aVCandarave
-p1781
-aa(lp1782
-S'Marcelo Loffreda'
-p1783
-aS'1978'
-p1784
-aS'Centre'
-p1785
-aS'Buenos Aires'
 p1786
-aS'50'
+aS'circa 1957'
 p1787
-aS'29'
+aVPerú
 p1788
-aS'11'
+aVTacna
 p1789
-aS'57'
+aVCandarave
 p1790
-aVArgentina
-p1791
-aVCABA
+aa(lp1791
+S'Marcelo Loffreda'
 p1792
-aVComuna 6
-p1793
-aa(lp1794
-S'Rafael Madero'
-p1795
 aS'1978'
+p1793
+aS'Centre'
+p1794
+aS'50'
+p1795
+aS'29'
 p1796
-aS'Fullback, Centre, Fly-half'
+aS'18'
 p1797
-aS'1958'
+aS'3'
+aS'11'
 p1798
-aS'44'
+aS'57'
 p1799
-aS'20'
+aS'Buenos Aires'
 p1800
+aVArgentina
+p1801
+aVCABA
+p1802
+aVComuna 6
+p1803
+aa(lp1804
+S'Rafael Madero'
+p1805
+aS'1978'
+p1806
+aS'Fullback, Centre, Fly-half'
+p1807
+aS'44'
+p1808
+aS'20'
+p1809
+aS'20'
+p1810
+aS'4'
 aS'9'
 aS'42'
-p1801
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p1802
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p1803
-aVDaïra Hammam Sokhna
-p1804
-aa(lp1805
-S'Tomas Petersen'
-p1806
-aS'1978'
-p1807
-aS'Flanker'
-p1808
-aS'circa 1957'
-p1809
-aS'30'
-p1810
-aS'11'
 p1811
-aS'4'
-aS'16'
+aS'1958'
 p1812
-aVPerú
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
 p1813
-aVTacna
+aVSétif - \u0633\u0637\u064a\u0641\u200e
 p1814
-aVCandarave
+aVDaïra Hammam Sokhna
 p1815
 aa(lp1816
-S'Gabriel Travaglini'
+S'Tomas Petersen'
 p1817
 aS'1978'
 p1818
-aS'No. 8'
+aS'Flanker'
 p1819
-aS'circa 1958'
+aS'30'
 p1820
-aS'23'
+aS'11'
 p1821
+aS'16'
+p1822
+aS'3'
+aS'4'
+aS'16'
+p1823
+aS'circa 1957'
+p1824
+aVPerú
+p1825
+aVTacna
+p1826
+aVCandarave
+p1827
+aa(lp1828
+S'Gabriel Travaglini'
+p1829
+aS'1978'
+p1830
+aS'No. 8'
+p1831
+aS'23'
+p1832
 aS'8'
+aS'13'
+p1833
+aS'2'
 aS'8'
 aS'32'
-p1822
+p1834
+aS'circa 1958'
+p1835
 aVPerú
-p1823
+p1836
 aVTacna
-p1824
+p1837
 aVCandarave
-p1825
-aa(lp1826
+p1838
+aa(lp1839
 S'Carlos Serrano'
-p1827
+p1840
 aS'1978'
-p1828
+p1841
 aS'Flanker'
-p1829
-aS'date unknown'
-p1830
+p1842
 aS'7'
 aS'4'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1843
 aS'g'
 aS'n'
 aS'i'
-aa(lp1831
+aa(lp1844
 S'Alfredo Soares Gache'
-p1832
+p1845
 aS'1978'
-p1833
+p1846
 aS'Scrum-half'
-p1834
-aS'circa 1953'
-p1835
+p1847
 aS'15'
-p1836
+p1848
 aS'7'
-aS'0'
-aS'0'
-aVPerú
-p1837
-aVTacna
-p1838
-aVCandarave
-p1839
-aa(lp1840
-S'Marcos Iachetti'
-p1841
-aS'1979'
-p1842
-aS'Lock'
-p1843
-aS'circa 1958'
-p1844
-aS'4'
+aS'7'
 aS'1'
 aS'0'
 aS'0'
-aVPerú
-p1845
-aVTacna
-p1846
-aVCandarave
-p1847
-aa(lp1848
-S'Javier Perez Cobo'
+aS'circa 1953'
 p1849
-aS'1979'
+aVPerú
 p1850
-aS'Hooker'
+aVTacna
 p1851
-aS'circa 1957'
+aVCandarave
 p1852
+aa(lp1853
+S'Marcos Iachetti'
+p1854
+aS'1979'
+p1855
+aS'Lock'
+p1856
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1958'
+p1857
+aVPerú
+p1858
+aVTacna
+p1859
+aVCandarave
+p1860
+aa(lp1861
+S'Javier Perez Cobo'
+p1862
+aS'1979'
+p1863
+aS'Hooker'
+p1864
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'1'
 aS'4'
-aVPerú
-p1853
-aVTacna
-p1854
-aVCandarave
-p1855
-aa(lp1856
-S'Topo Rodriguez'
-p1857
-aS'1979'
-p1858
-aS'Prop'
-p1859
-aS'Cordoba'
-p1860
-aS'43'
-p1861
-aS'25'
-p1862
-aS'0'
-aS'0'
-aVEspaña
-p1863
-aVAndalucía
-p1864
-aVCórdoba
+aS'circa 1957'
 p1865
-aa(lp1866
-S'Ernesto Ure'
-p1867
-aS'1979'
-p1868
-aS'Flanker'
-p1869
-aS'circa 1959'
-p1870
-aS'27'
-p1871
-aS'9'
-aS'5'
-aS'20'
-p1872
 aVPerú
-p1873
+p1866
 aVTacna
-p1874
+p1867
 aVCandarave
-p1875
-aa(lp1876
-S'Fernando Argerich'
-p1877
+p1868
+aa(lp1869
+S'Topo Rodriguez'
+p1870
 aS'1979'
+p1871
+aS'Prop'
+p1872
+aS'43'
+p1873
+aS'25'
+p1874
+aS'16'
+p1875
+aS'2'
+aS'0'
+aS'0'
+aS'Cordoba'
+p1876
+aVEspaña
+p1877
+aVAndalucía
 p1878
-aS''
-aS'date unknown'
+aVCórdoba
 p1879
-aS'1'
-aS'1'
-aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
 aa(lp1880
-S'Andres Courreges'
+S'Ernesto Ure'
 p1881
 aS'1979'
 p1882
-aS'Hooker'
+aS'Flanker'
 p1883
-aS'date unknown'
+aS'27'
 p1884
-aS'15'
-p1885
-aS'10'
-p1886
-aS'4'
+aS'9'
 aS'16'
-p1887
-aS'g'
-aS'n'
-aS'i'
-aa(lp1888
-S'Miguel Glastra'
-p1889
-aS'1979'
-p1890
-aS'Lock'
-p1891
-aS'date unknown'
-p1892
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1893
-S'Armando Memoli'
-p1894
-aS'1979'
-p1895
-aS''
-aS'date unknown'
-p1896
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1897
-S'Andres Nicholson'
-p1898
-aS'1979'
-p1899
-aS'Scrum-half'
-p1900
-aS'date unknown'
-p1901
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1902
-S'Guillermo Paz'
-p1903
-aS'1979'
-p1904
-aS''
-aS'date unknown'
-p1905
-aS'7'
-aS'7'
+p1885
+aS'2'
 aS'5'
 aS'20'
-p1906
+p1886
+aS'circa 1959'
+p1887
+aVPerú
+p1888
+aVTacna
+p1889
+aVCandarave
+p1890
+aa(lp1891
+S'Fernando Argerich'
+p1892
+aS'1979'
+p1893
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p1894
 aS'g'
 aS'n'
 aS'i'
-aa(lp1907
-S'Carlos Ramallo'
-p1908
+aa(lp1895
+S'Andres Courreges'
+p1896
 aS'1979'
-p1909
-aS''
+p1897
+aS'Hooker'
+p1898
+aS'15'
+p1899
+aS'10'
+p1900
+aS'4'
+aS'1'
+aS'4'
+aS'16'
+p1901
 aS'date unknown'
+p1902
+aS'g'
+aS'n'
+aS'i'
+aa(lp1903
+S'Miguel Glastra'
+p1904
+aS'1979'
+p1905
+aS'Lock'
+p1906
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1907
+aS'g'
+aS'n'
+aS'i'
+aa(lp1908
+S'Armando Memoli'
+p1909
+aS'1979'
 p1910
+aS''
 aS'3'
 aS'3'
-aS'3'
-aS'12'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1911
 aS'g'
 aS'n'
 aS'i'
 aa(lp1912
-S'Carlos Sainz Trapaga'
+S'Andres Nicholson'
 p1913
 aS'1979'
 p1914
-aS'Prop'
+aS'Scrum-half'
 p1915
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1916
-aS'3'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1917
-S'Guillermo Sanguinetti'
+S'Guillermo Paz'
 p1918
 aS'1979'
 p1919
-aS'Fly-half'
+aS''
+aS'7'
+aS'7'
+aS'0'
+aS'0'
+aS'5'
+aS'20'
 p1920
 aS'date unknown'
 p1921
-aS'4'
-aS'4'
-aS'3'
-aS'31'
-p1922
 aS'g'
 aS'n'
 aS'i'
-aa(lp1923
-S'Martin Garcia Laborde'
-p1924
+aa(lp1922
+S'Carlos Ramallo'
+p1923
 aS'1979'
-p1925
+p1924
 aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'3'
+aS'12'
+p1925
 aS'date unknown'
 p1926
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1927
-S'Carlos Jacobi'
+S'Carlos Sainz Trapaga'
 p1928
 aS'1979'
 p1929
-aS''
-aS'date unknown'
+aS'Prop'
 p1930
+aS'3'
 aS'2'
-aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1931
 aS'g'
 aS'n'
 aS'i'
-aa(lp1931
-S'Mario Negri'
-p1932
-aS'1979'
+aa(lp1932
+S'Guillermo Sanguinetti'
 p1933
-aS'No. 8'
+aS'1979'
 p1934
-aS'date unknown'
+aS'Fly-half'
 p1935
+aS'4'
+aS'4'
+aS'0'
+aS'0'
 aS'3'
-aS'3'
-aS'2'
-aS'8'
+aS'31'
+p1936
+aS'date unknown'
+p1937
 aS'g'
 aS'n'
 aS'i'
-aa(lp1936
-S'Alejandro Puccio'
-p1937
-aS'1979'
-p1938
-aS'Wing'
+aa(lp1938
+S'Martin Garcia Laborde'
 p1939
-aS'date unknown'
+aS'1979'
 p1940
-aS'5'
-aS'4'
-aS'3'
-aS'12'
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1941
 aS'g'
 aS'n'
 aS'i'
 aa(lp1942
-S'Jaime Sartori'
+S'Carlos Jacobi'
 p1943
 aS'1979'
 p1944
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1945
-aS'3'
-aS'3'
-aS'3'
-aS'12'
-p1946
 aS'g'
 aS'n'
 aS'i'
-aa(lp1947
-S'Marcelo Dip'
-p1948
+aa(lp1946
+S'Mario Negri'
+p1947
 aS'1979'
+p1948
+aS'No. 8'
 p1949
-aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'8'
 aS'date unknown'
 p1950
+aS'g'
+aS'n'
+aS'i'
+aa(lp1951
+S'Alejandro Puccio'
+p1952
+aS'1979'
+p1953
+aS'Wing'
+p1954
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'3'
+aS'12'
+p1955
+aS'date unknown'
+p1956
+aS'g'
+aS'n'
+aS'i'
+aa(lp1957
+S'Jaime Sartori'
+p1958
+aS'1979'
+p1959
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'3'
+aS'12'
+p1960
+aS'date unknown'
+p1961
+aS'g'
+aS'n'
+aS'i'
+aa(lp1962
+S'Marcelo Dip'
+p1963
+aS'1979'
+p1964
+aS''
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'40'
-p1951
+p1965
+aS'date unknown'
+p1966
 aS'g'
 aS'n'
 aS'i'
-aa(lp1952
+aa(lp1967
 S'Fernando Morel'
-p1953
-aS'1979'
-p1954
-aS'Prop'
-p1955
-aS'1957'
-p1956
-aS'23'
-p1957
-aS'10'
-p1958
-aS'0'
-aS'0'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p1959
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p1960
-aVDaïra Amoucha
-p1961
-aa(lp1962
-S'Daniel Baetti'
-p1963
-aS'1980'
-p1964
-aS'Scrum-half'
-p1965
-aS'circa 1956'
-p1966
-aS'19'
-p1967
-aS'10'
 p1968
+aS'1979'
+p1969
+aS'Prop'
+p1970
+aS'23'
+p1971
+aS'10'
+p1972
+aS'11'
+p1973
+aS'2'
+aS'0'
+aS'0'
+aS'1957'
+p1974
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p1975
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p1976
+aVDaïra Amoucha
+p1977
+aa(lp1978
+S'Daniel Baetti'
+p1979
+aS'1980'
+p1980
+aS'Scrum-half'
+p1981
+aS'19'
+p1982
+aS'10'
+p1983
+aS'8'
+aS'1'
 aS'4'
 aS'112'
-p1969
-aVPerú
-p1970
-aVTacna
-p1971
-aVCandarave
-p1972
-aa(lp1973
-S'Juan Pablo Piccardo'
-p1974
-aS'1980'
-p1975
-aS'Centre'
-p1976
-aS'circa 1959'
-p1977
-aS'6'
-aS'3'
-aS'1'
-aS'28'
-p1978
-aVPerú
-p1979
-aVTacna
-p1980
-aVCandarave
-p1981
-aa(lp1982
-S'Jorge Allen'
-p1983
-aS'1980'
 p1984
-aS'Flanker'
+aS'circa 1956'
 p1985
-aS'Vicente Lopez'
-p1986
-aS'29'
-p1987
-aS'15'
-p1988
-aS'1'
-aS'4'
-aVArgentina
-p1989
-aVBA
-p1990
-aVPartido de Vicente López
-p1991
-aa(lp1992
-S'Jose Palma'
-p1993
-aS'1981'
-p1994
-aS'Wing'
-p1995
-aS'date unknown'
-p1996
-aS'9'
-aS'4'
-aS'2'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1997
-S'Pablo Devoto'
-p1998
-aS'1982'
-p1999
-aS'Prop'
-p2000
-aS'date unknown'
-p2001
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2002
-S'Javier Miguens'
-p2003
-aS'1982'
-p2004
-aS'Scrum-half'
-p2005
-aS'date unknown'
-p2006
-aS'9'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2007
-S'Gustavo Milano'
-p2008
-aS'1982'
-p2009
-aS'Lock'
-p2010
-aS'Rosario'
-p2011
-aS'33'
-p2012
-aS'16'
-p2013
-aS'6'
-aS'24'
-p2014
-aVArgentina
-p2015
-aVS2000
-p2016
-aVSFE
-p2017
-aa(lp2018
-S'Guillermo Varone'
-p2019
-aS'1980'
-p2020
-aS'Wing'
-p2021
-aS'date unknown'
-p2022
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2023
-S'Serafin Dengra'
-p2024
-aS'1982'
-p2025
-aS'Prop'
-p2026
-aS'Buenos Aires'
-p2027
-aS'21'
-p2028
-aS'9'
-aS'1'
-aS'4'
-aVArgentina
-p2029
-aVCABA
-p2030
-aVComuna 6
-p2031
-aa(lp2032
-S'Ricardo de Vedia'
-p2033
-aS'1982'
-p2034
-aS'Flanker'
-p2035
-aS'date unknown'
-p2036
-aS'3'
-aS'1'
-aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2037
-S'Bernardo Miguens'
-p2038
-aS'1983'
-p2039
-aS'Fullback'
-p2040
-aS'date unknown'
-p2041
-aS'12'
-p2042
-aS'5'
-aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2043
-S'Juan Aguilar'
-p2044
-aS'1983'
-p2045
-aS''
-aS'date unknown'
-p2046
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2047
-S'Ricardo Annichini'
-p2048
-aS'1983'
-p2049
-aS'Wing'
-p2050
-aS'date unknown'
-p2051
-aS'5'
-aS'5'
-aS'8'
-aS'32'
-p2052
-aS'g'
-aS'n'
-aS'i'
-aa(lp2053
-S'Eduardo Basile'
-p2054
-aS'1983'
-p2055
-aS''
-aS'date unknown'
-p2056
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2057
-S'Diego Cuesta Silva'
-p2058
-aS'1983'
-p2059
-aS'Wing, Centre'
-p2060
-aS'Buenos Aires'
-p2061
-aS'65'
-p2062
-aS'31'
-p2063
-aS'28'
-p2064
-aS'125'
-p2065
-aVArgentina
-p2066
-aVCABA
-p2067
-aVComuna 6
-p2068
-aa(lp2069
-S'Sebastian Dassen'
-p2070
-aS'1983'
-p2071
-aS''
-aS'date unknown'
-p2072
-aS'3'
-aS'3'
-aS'2'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2073
-S'Lucio de Chazal'
-p2074
-aS'1983'
-p2075
-aS''
-aS'date unknown'
-p2076
-aS'3'
-aS'3'
-aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2077
-S'Gonzalo Gasso'
-p2078
-aS'1983'
-p2079
-aS''
-aS'date unknown'
-p2080
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2081
-S'Pedro Lanza'
-p2082
-aS'1983'
-p2083
-aS'Wing'
-p2084
-aS'1963'
-p2085
-aS'16'
-p2086
-aS'9'
-aS'6'
-aS'24'
-p2087
-aVÖsterreich
-p2088
-aV8362
-p2089
-aVSteiermark
-p2090
-aa(lp2091
-S'Alejandro Schiavio'
-p2092
-aS'1983'
-p2093
-aS'Flanker'
-p2094
-aS'1961'
-p2095
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVSverige
-p2096
-aVSvealand
-p2097
-aVVästmanlands län
-p2098
-aa(lp2099
-S'Alejandro Scolni'
-p2100
-aS'1983'
-p2101
-aS'Fullback, Wing'
-p2102
-aS'1962'
-p2103
-aS'19'
-p2104
-aS'9'
-aS'8'
-aS'32'
-p2105
-aVSverige
-p2106
-aVSvealand
-p2107
-aVVästmanlands län
-p2108
-aa(lp2109
-S'Marcos Baeck'
-p2110
-aS'1983'
-p2111
-aS'Flanker'
-p2112
-aS'circa 1961'
-p2113
-aS'7'
-aS'6'
-aS'3'
-aS'12'
-p2114
 aVPerú
-p2115
+p1986
 aVTacna
-p2116
+p1987
 aVCandarave
-p2117
-aa(lp2118
-S'Marcelo Carrique'
-p2119
-aS'1983'
-p2120
-aS''
+p1988
+aa(lp1989
+S'Juan Pablo Piccardo'
+p1990
+aS'1980'
+p1991
+aS'Centre'
+p1992
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'1'
+aS'28'
+p1993
+aS'circa 1959'
+p1994
+aVPerú
+p1995
+aVTacna
+p1996
+aVCandarave
+p1997
+aa(lp1998
+S'Jorge Allen'
+p1999
+aS'1980'
+p2000
+aS'Flanker'
+p2001
+aS'29'
+p2002
+aS'15'
+p2003
+aS'12'
+p2004
+aS'2'
+aS'1'
+aS'4'
+aS'Vicente Lopez'
+p2005
+aVArgentina
+p2006
+aVBA
+p2007
+aVPartido de Vicente López
+p2008
+aa(lp2009
+S'Jose Palma'
+p2010
+aS'1981'
+p2011
+aS'Wing'
+p2012
+aS'9'
+aS'4'
+aS'5'
+aS'0'
+aS'2'
+aS'8'
 aS'date unknown'
-p2121
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+p2013
 aS'g'
 aS'n'
 aS'i'
-aa(lp2122
-S'Carlos Cordeiro'
-p2123
-aS'1983'
-p2124
-aS''
+aa(lp2014
+S'Pablo Devoto'
+p2015
+aS'1982'
+p2016
+aS'Prop'
+p2017
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p2125
+p2018
+aS'g'
+aS'n'
+aS'i'
+aa(lp2019
+S'Javier Miguens'
+p2020
+aS'1982'
+p2021
+aS'Scrum-half'
+p2022
+aS'9'
+aS'2'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2023
+aS'g'
+aS'n'
+aS'i'
+aa(lp2024
+S'Gustavo Milano'
+p2025
+aS'1982'
+p2026
+aS'Lock'
+p2027
+aS'33'
+p2028
+aS'16'
+p2029
+aS'15'
+p2030
+aS'2'
+aS'6'
+aS'24'
+p2031
+aS'Rosario'
+p2032
+aVArgentina
+p2033
+aVS2000
+p2034
+aVSFE
+p2035
+aa(lp2036
+S'Guillermo Varone'
+p2037
+aS'1980'
+p2038
+aS'Wing'
+p2039
+aS'4'
 aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2040
+aS'g'
+aS'n'
+aS'i'
+aa(lp2041
+S'Serafin Dengra'
+p2042
+aS'1982'
+p2043
+aS'Prop'
+p2044
+aS'21'
+p2045
+aS'9'
+aS'11'
+p2046
 aS'1'
 aS'1'
 aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2126
-S'Jose Carlos Galvalisi'
-p2127
-aS'1983'
-p2128
-aS'Prop'
-p2129
-aS'date unknown'
-p2130
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2131
-S'Ricardo Sauze'
-p2132
-aS'1983'
-p2133
-aS''
-aS'date unknown'
-p2134
-aS'1'
-aS'1'
-aS'0'
-aS'7'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2135
-S'Eduardo Torello'
-p2136
-aS'1983'
-p2137
-aS''
-aS'date unknown'
-p2138
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2139
-S'Diego Cash'
-p2140
-aS'1984'
-p2141
-aS'Prop'
-p2142
 aS'Buenos Aires'
-p2143
-aS'41'
-p2144
-aS'14'
-p2145
-aS'3'
-aS'12'
-p2146
+p2047
 aVArgentina
-p2147
+p2048
 aVCABA
-p2148
+p2049
 aVComuna 6
-p2149
-aa(lp2150
-S'Juan Lanza'
-p2151
-aS'1985'
-p2152
-aS'Wing'
-p2153
-aS'1963'
-p2154
-aS'13'
-p2155
+p2050
+aa(lp2051
+S'Ricardo de Vedia'
+p2052
+aS'1982'
+p2053
+aS'Flanker'
+p2054
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p2055
+aS'g'
+aS'n'
+aS'i'
+aa(lp2056
+S'Bernardo Miguens'
+p2057
+aS'1983'
+p2058
+aS'Fullback'
+p2059
+aS'12'
+p2060
+aS'5'
 aS'6'
+aS'1'
+aS'1'
+aS'4'
+aS'date unknown'
+p2061
+aS'g'
+aS'n'
+aS'i'
+aa(lp2062
+S'Juan Aguilar'
+p2063
+aS'1983'
+p2064
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2065
+aS'g'
+aS'n'
+aS'i'
+aa(lp2066
+S'Ricardo Annichini'
+p2067
+aS'1983'
+p2068
+aS'Wing'
+p2069
+aS'5'
+aS'5'
+aS'0'
+aS'0'
 aS'8'
 aS'32'
-p2156
+p2070
+aS'date unknown'
+p2071
+aS'g'
+aS'n'
+aS'i'
+aa(lp2072
+S'Eduardo Basile'
+p2073
+aS'1983'
+p2074
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2075
+aS'g'
+aS'n'
+aS'i'
+aa(lp2076
+S'Diego Cuesta Silva'
+p2077
+aS'1983'
+p2078
+aS'Wing, Centre'
+p2079
+aS'65'
+p2080
+aS'31'
+p2081
+aS'32'
+p2082
+aS'2'
+aS'28'
+p2083
+aS'125'
+p2084
+aS'Buenos Aires'
+p2085
+aVArgentina
+p2086
+aVCABA
+p2087
+aVComuna 6
+p2088
+aa(lp2089
+S'Sebastian Dassen'
+p2090
+aS'1983'
+p2091
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'8'
+aS'date unknown'
+p2092
+aS'g'
+aS'n'
+aS'i'
+aa(lp2093
+S'Lucio de Chazal'
+p2094
+aS'1983'
+p2095
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p2096
+aS'g'
+aS'n'
+aS'i'
+aa(lp2097
+S'Gonzalo Gasso'
+p2098
+aS'1983'
+p2099
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2100
+aS'g'
+aS'n'
+aS'i'
+aa(lp2101
+S'Pedro Lanza'
+p2102
+aS'1983'
+p2103
+aS'Wing'
+p2104
+aS'16'
+p2105
+aS'9'
+aS'6'
+aS'1'
+aS'6'
+aS'24'
+p2106
+aS'1963'
+p2107
 aVÖsterreich
-p2157
+p2108
 aV8362
-p2158
+p2109
 aVSteiermark
+p2110
+aa(lp2111
+S'Alejandro Schiavio'
+p2112
+aS'1983'
+p2113
+aS'Flanker'
+p2114
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1961'
+p2115
+aVSverige
+p2116
+aVSvealand
+p2117
+aVVästmanlands län
+p2118
+aa(lp2119
+S'Alejandro Scolni'
+p2120
+aS'1983'
+p2121
+aS'Fullback, Wing'
+p2122
+aS'19'
+p2123
+aS'9'
+aS'10'
+p2124
+aS'0'
+aS'8'
+aS'32'
+p2125
+aS'1962'
+p2126
+aVSverige
+p2127
+aVSvealand
+p2128
+aVVästmanlands län
+p2129
+aa(lp2130
+S'Marcos Baeck'
+p2131
+aS'1983'
+p2132
+aS'Flanker'
+p2133
+aS'7'
+aS'6'
+aS'1'
+aS'0'
+aS'3'
+aS'12'
+p2134
+aS'circa 1961'
+p2135
+aVPerú
+p2136
+aVTacna
+p2137
+aVCandarave
+p2138
+aa(lp2139
+S'Marcelo Carrique'
+p2140
+aS'1983'
+p2141
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2142
+aS'g'
+aS'n'
+aS'i'
+aa(lp2143
+S'Carlos Cordeiro'
+p2144
+aS'1983'
+p2145
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p2146
+aS'g'
+aS'n'
+aS'i'
+aa(lp2147
+S'Jose Carlos Galvalisi'
+p2148
+aS'1983'
+p2149
+aS'Prop'
+p2150
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2151
+aS'g'
+aS'n'
+aS'i'
+aa(lp2152
+S'Ricardo Sauze'
+p2153
+aS'1983'
+p2154
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'7'
+aS'date unknown'
+p2155
+aS'g'
+aS'n'
+aS'i'
+aa(lp2156
+S'Eduardo Torello'
+p2157
+aS'1983'
+p2158
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p2159
+aS'g'
+aS'n'
+aS'i'
 aa(lp2160
-S'Fabian Turnes'
+S'Diego Cash'
 p2161
 aS'1984'
 p2162
-aS'Centre'
+aS'Prop'
 p2163
-aS'1965'
+aS'41'
 p2164
-aS'29'
+aS'14'
 p2165
-aS'11'
+aS'25'
 p2166
-aS'5'
-aS'65'
-p2167
-aVDanmark
-p2168
-aV1965
-p2169
-aVRegion Hovedstaden
-p2170
-aa(lp2171
-S'Fabio Gomez'
-p2172
-aS'1985'
-p2173
-aS'Scrum-half'
-p2174
-aS'Buenos Aires'
-p2175
-aS'9'
-aS'4'
-aS'1'
-aS'4'
-aVArgentina
-p2176
-aVCABA
-p2177
-aVComuna 6
-p2178
-aa(lp2179
-S'Rodrigo de la Arena'
-p2180
-aS'1985'
-p2181
-aS'Fullback'
-p2182
-aS'date unknown'
-p2183
-aS'4'
+aS'2'
 aS'3'
-aS'4'
-aS'17'
-p2184
-aS'g'
-aS'n'
-aS'i'
-aa(lp2185
-S'Pedro Merlo'
-p2186
+aS'12'
+p2167
+aS'Buenos Aires'
+p2168
+aVArgentina
+p2169
+aVCABA
+p2170
+aVComuna 6
+p2171
+aa(lp2172
+S'Juan Lanza'
+p2173
 aS'1985'
+p2174
+aS'Wing'
+p2175
+aS'13'
+p2176
+aS'6'
+aS'6'
+aS'1'
+aS'8'
+aS'32'
+p2177
+aS'1963'
+p2178
+aVÖsterreich
+p2179
+aV8362
+p2180
+aVSteiermark
+p2181
+aa(lp2182
+S'Fabian Turnes'
+p2183
+aS'1984'
+p2184
+aS'Centre'
+p2185
+aS'29'
+p2186
+aS'11'
 p2187
-aS''
-aS'date unknown'
+aS'16'
 p2188
 aS'2'
-aS'2'
-aS'4'
-aS'16'
+aS'5'
+aS'65'
 p2189
+aS'1965'
+p2190
+aVDanmark
+p2191
+aV1965
+p2192
+aVRegion Hovedstaden
+p2193
+aa(lp2194
+S'Fabio Gomez'
+p2195
+aS'1985'
+p2196
+aS'Scrum-half'
+p2197
+aS'9'
+aS'4'
+aS'5'
+aS'0'
+aS'1'
+aS'4'
+aS'Buenos Aires'
+p2198
+aVArgentina
+p2199
+aVCABA
+p2200
+aVComuna 6
+p2201
+aa(lp2202
+S'Rodrigo de la Arena'
+p2203
+aS'1985'
+p2204
+aS'Fullback'
+p2205
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'4'
+aS'17'
+p2206
+aS'date unknown'
+p2207
 aS'g'
 aS'n'
 aS'i'
-aa(lp2190
-S'Luis Molina'
-p2191
+aa(lp2208
+S'Pedro Merlo'
+p2209
 aS'1985'
-p2192
+p2210
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'4'
+aS'16'
+p2211
+aS'date unknown'
+p2212
+aS'g'
+aS'n'
+aS'i'
+aa(lp2213
+S'Luis Molina'
+p2214
+aS'1985'
+p2215
 aS'Prop'
-p2193
-aS'San Miguel de Tucuma'
-p2194
+p2216
 aS'12'
-p2195
+p2217
+aS'6'
 aS'6'
 aS'0'
 aS'0'
+aS'0'
+aS'San Miguel de Tucuma'
+p2218
 aS'g'
 aS'n'
 aS'i'
-aa(lp2196
+aa(lp2219
 S'Daniel Sanes'
-p2197
+p2220
 aS'1985'
-p2198
+p2221
 aS'Prop'
-p2199
-aS'1962'
-p2200
+p2222
 aS'9'
 aS'8'
+aS'1'
+aS'0'
 aS'2'
 aS'8'
-aVSverige
-p2201
-aVSvealand
-p2202
-aVVästmanlands län
-p2203
-aa(lp2204
-S'Jose Luis Visca'
-p2205
-aS'1985'
-p2206
-aS'Flanker'
-p2207
-aS'date unknown'
-p2208
-aS'1'
-aS'1'
-aS'2'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2209
-S'Guillermo Holmgren'
-p2210
-aS'1985'
-p2211
-aS'Scrum-half'
-p2212
-aS'date unknown'
-p2213
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2214
-S'Sergio Carossio'
-p2215
-aS'1985'
-p2216
-aS'Lock'
-p2217
 aS'1962'
-p2218
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVSverige
-p2219
-aVSvealand
-p2220
-aVVästmanlands län
-p2221
-aa(lp2222
-S'Eduardo Valesani'
 p2223
-aS'1986'
+aVSverige
 p2224
-aS''
-aS'date unknown'
+aVSvealand
 p2225
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2226
-S'Joaquin Uriarte'
-p2227
-aS'1986'
+aVVästmanlands län
+p2226
+aa(lp2227
+S'Jose Luis Visca'
 p2228
-aS'Lock'
+aS'1985'
 p2229
-aS'circa 1963'
+aS'Flanker'
 p2230
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVPerú
-p2231
-aVTacna
-p2232
-aVCandarave
-p2233
-aa(lp2234
-S'Jose Mostany'
-p2235
-aS'1987'
-p2236
-aS'Flanker'
-p2237
-aS'circa 1963'
-p2238
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVPerú
-p2239
-aVTacna
-p2240
-aVCandarave
-p2241
-aa(lp2242
-S'Sebastian Salvat'
-p2243
-aS'1987'
-p2244
-aS'Centre'
-p2245
-aS'Buenos Aires'
-p2246
-aS'37'
-p2247
-aS'21'
-p2248
-aS'12'
-p2249
-aS'58'
-p2250
-aVArgentina
-p2251
-aVCABA
-p2252
-aVComuna 6
-p2253
-aa(lp2254
-S'Martin Yanguela'
-p2255
-aS'1987'
-p2256
-aS'Scrum-half'
-p2257
-aS'circa 1962'
-p2258
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVPerú
-p2259
-aVTacna
-p2260
-aVCandarave
-p2261
-aa(lp2262
-S'Guillermo Angaut'
-p2263
-aS'1987'
-p2264
-aS'Fullback'
-p2265
-aS'La Plata'
-p2266
-aS'7'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
-p2267
-aVBA
-p2268
-aVPartido de La Plata
-p2269
-aa(lp2270
-S'Pablo Garreton'
-p2271
-aS'1987'
-p2272
-aS'Flanker'
-p2273
-aS'San Miguel de Tucuma'
-p2274
-aS'31'
-p2275
-aS'14'
-p2276
 aS'2'
 aS'8'
+aS'date unknown'
+p2231
 aS'g'
 aS'n'
 aS'i'
-aa(lp2277
-S'Marcelo Ricci'
-p2278
-aS'1987'
-p2279
-aS'No. 8'
-p2280
+aa(lp2232
+S'Guillermo Holmgren'
+p2233
+aS'1985'
+p2234
+aS'Scrum-half'
+p2235
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
 aS'date unknown'
+p2236
+aS'g'
+aS'n'
+aS'i'
+aa(lp2237
+S'Sergio Carossio'
+p2238
+aS'1985'
+p2239
+aS'Lock'
+p2240
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1962'
+p2241
+aVSverige
+p2242
+aVSvealand
+p2243
+aVVästmanlands län
+p2244
+aa(lp2245
+S'Eduardo Valesani'
+p2246
+aS'1986'
+p2247
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2248
+aS'g'
+aS'n'
+aS'i'
+aa(lp2249
+S'Joaquin Uriarte'
+p2250
+aS'1986'
+p2251
+aS'Lock'
+p2252
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1963'
+p2253
+aVPerú
+p2254
+aVTacna
+p2255
+aVCandarave
+p2256
+aa(lp2257
+S'Jose Mostany'
+p2258
+aS'1987'
+p2259
+aS'Flanker'
+p2260
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1963'
+p2261
+aVPerú
+p2262
+aVTacna
+p2263
+aVCandarave
+p2264
+aa(lp2265
+S'Sebastian Salvat'
+p2266
+aS'1987'
+p2267
+aS'Centre'
+p2268
+aS'37'
+p2269
+aS'21'
+p2270
+aS'16'
+p2271
+aS'0'
+aS'12'
+p2272
+aS'58'
+p2273
+aS'Buenos Aires'
+p2274
+aVArgentina
+p2275
+aVCABA
+p2276
+aVComuna 6
+p2277
+aa(lp2278
+S'Martin Yanguela'
+p2279
+aS'1987'
+p2280
+aS'Scrum-half'
 p2281
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2282
-S'Juan Jose Angelillo'
-p2283
-aS'1987'
-p2284
-aS'Hooker'
-p2285
-aS'1963'
-p2286
-aS'26'
-p2287
-aS'19'
-p2288
-aS'4'
-aS'17'
-p2289
-aVÖsterreich
-p2290
-aV8362
-p2291
-aVSteiermark
-p2292
-aa(lp2293
-S'Javier Caminotti'
-p2294
-aS'1987'
-p2295
-aS''
-aS'date unknown'
-p2296
-aS'3'
-aS'3'
-aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2297
-S'Roberto Cobelo'
-p2298
-aS'1987'
-p2299
-aS'Lock'
-p2300
-aS'circa 1963'
-p2301
-aS'3'
-aS'3'
 aS'0'
 aS'0'
+aS'circa 1962'
+p2282
 aVPerú
-p2302
+p2283
 aVTacna
-p2303
+p2284
 aVCandarave
-p2304
-aa(lp2305
-S'Julio Coria'
-p2306
+p2285
+aa(lp2286
+S'Guillermo Angaut'
+p2287
 aS'1987'
-p2307
-aS''
-aS'date unknown'
-p2308
-aS'4'
-aS'4'
+p2288
+aS'Fullback'
+p2289
+aS'7'
+aS'2'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'La Plata'
+p2290
+aVArgentina
+p2291
+aVBA
+p2292
+aVPartido de La Plata
+p2293
+aa(lp2294
+S'Pablo Garreton'
+p2295
+aS'1987'
+p2296
+aS'Flanker'
+p2297
+aS'31'
+p2298
+aS'14'
+p2299
+aS'16'
+p2300
 aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2309
-S'Pablo Franchi'
-p2310
-aS'1987'
-p2311
-aS''
-aS'date unknown'
-p2312
-aS'3'
-aS'3'
 aS'2'
 aS'8'
+aS'San Miguel de Tucuma'
+p2301
 aS'g'
 aS'n'
 aS'i'
-aa(lp2313
-S'Mario Gerosa'
-p2314
+aa(lp2302
+S'Marcelo Ricci'
+p2303
 aS'1987'
+p2304
+aS'No. 8'
+p2305
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2306
+aS'g'
+aS'n'
+aS'i'
+aa(lp2307
+S'Juan Jose Angelillo'
+p2308
+aS'1987'
+p2309
+aS'Hooker'
+p2310
+aS'26'
+p2311
+aS'19'
+p2312
+aS'7'
+aS'0'
+aS'4'
+aS'17'
+p2313
+aS'1963'
+p2314
+aVÖsterreich
 p2315
-aS'Wing'
+aV8362
 p2316
-aS'Rosario'
+aVSteiermark
 p2317
-aS'9'
-aS'5'
-aS'8'
-aS'36'
-p2318
-aVArgentina
+aa(lp2318
+S'Javier Caminotti'
 p2319
-aVS2000
+aS'1987'
 p2320
-aVSFE
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
 p2321
+aS'g'
+aS'n'
+aS'i'
 aa(lp2322
-S'Cristian Mendy'
+S'Roberto Cobelo'
 p2323
 aS'1987'
 p2324
-aS'Wing'
+aS'Lock'
 p2325
-aS'1966'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1963'
 p2326
-aS'17'
+aVPerú
 p2327
-aS'10'
+aVTacna
 p2328
+aVCandarave
+p2329
+aa(lp2330
+S'Julio Coria'
+p2331
+aS'1987'
+p2332
+aS''
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p2333
+aS'g'
+aS'n'
+aS'i'
+aa(lp2334
+S'Pablo Franchi'
+p2335
+aS'1987'
+p2336
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'8'
+aS'date unknown'
+p2337
+aS'g'
+aS'n'
+aS'i'
+aa(lp2338
+S'Mario Gerosa'
+p2339
+aS'1987'
+p2340
+aS'Wing'
+p2341
+aS'9'
+aS'5'
+aS'4'
+aS'0'
+aS'8'
+aS'36'
+p2342
+aS'Rosario'
+p2343
+aVArgentina
+p2344
+aVS2000
+p2345
+aVSFE
+p2346
+aa(lp2347
+S'Cristian Mendy'
+p2348
+aS'1987'
+p2349
+aS'Wing'
+p2350
+aS'17'
+p2351
+aS'10'
+p2352
+aS'6'
+aS'1'
 aS'7'
 aS'28'
-p2329
+p2353
+aS'1966'
+p2354
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2330
+p2355
 aV\u0421\u041a\u0424\u041e
-p2331
+p2356
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2332
-aa(lp2333
+p2357
+aa(lp2358
 S'Mario Carreras'
-p2334
+p2359
 aS'1987'
-p2335
+p2360
 aS'Flanker'
-p2336
+p2361
+aS'8'
+aS'2'
+aS'6'
+aS'0'
+aS'2'
+aS'8'
 aS'Buenos Aires'
-p2337
-aS'8'
-aS'2'
-aS'2'
-aS'8'
+p2362
 aVArgentina
-p2338
+p2363
 aVCABA
-p2339
+p2364
 aVComuna 6
-p2340
-aa(lp2341
+p2365
+aa(lp2366
 S'Julio Clement'
-p2342
+p2367
 aS'1987'
-p2343
+p2368
 aS'Hooker'
-p2344
+p2369
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'circa 1962'
-p2345
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+p2370
 aVPerú
-p2346
+p2371
 aVTacna
-p2347
+p2372
 aVCandarave
-p2348
-aa(lp2349
+p2373
+aa(lp2374
 S'Dardo Gonzalez'
-p2350
+p2375
 aS'1987'
-p2351
+p2376
 aS''
-aS'date unknown'
-p2352
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p2377
 aS'g'
 aS'n'
 aS'i'
-aa(lp2353
+aa(lp2378
 S'Santiago Meson'
-p2354
+p2379
 aS'1987'
-p2355
+p2380
 aS'Fullback'
-p2356
-aS'San Miguel de Tucuma'
-p2357
+p2381
 aS'34'
-p2358
+p2382
 aS'23'
-p2359
+p2383
+aS'11'
+p2384
+aS'0'
 aS'8'
 aS'365'
-p2360
+p2385
+aS'San Miguel de Tucuma'
+p2386
 aS'g'
 aS'n'
 aS'i'
-aa(lp2361
+aa(lp2387
 S'Hernan Vidou'
-p2362
+p2388
 aS'1987'
-p2363
+p2389
 aS'Fly-half'
-p2364
-aS'1967'
-p2365
+p2390
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'1'
 aS'48'
-p2366
-aVDanmark
-p2367
-aV1967
-p2368
-aVRegion Hovedstaden
-p2369
-aa(lp2370
-S'Gabriel Teran Nougues'
-p2371
-aS'1988'
-p2372
-aS'Wing'
-p2373
-aS'date unknown'
-p2374
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2375
-S'Fernando Conti'
-p2376
-aS'1988'
-p2377
-aS'Flanker'
-p2378
-aS'date unknown'
-p2379
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2380
-S'Federico Silvestre'
-p2381
-aS'1988'
-p2382
-aS'Scrum-half'
-p2383
-aS'circa 1967'
-p2384
-aS'7'
-aS'5'
-aS'2'
-aS'8'
-aVPerú
-p2385
-aVTacna
-p2386
-aVTarata
-p2387
-aa(lp2388
-S'Miguel Bertranou'
-p2389
-aS'1989'
-p2390
-aS'No. 8'
 p2391
 aS'1967'
 p2392
-aS'15'
+aVDanmark
 p2393
-aS'6'
+aV1967
+p2394
+aVRegion Hovedstaden
+p2395
+aa(lp2396
+S'Gabriel Teran Nougues'
+p2397
+aS'1988'
+p2398
+aS'Wing'
+p2399
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2400
+aS'g'
+aS'n'
+aS'i'
+aa(lp2401
+S'Fernando Conti'
+p2402
+aS'1988'
+p2403
+aS'Flanker'
+p2404
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2405
+aS'g'
+aS'n'
+aS'i'
+aa(lp2406
+S'Federico Silvestre'
+p2407
+aS'1988'
+p2408
+aS'Scrum-half'
+p2409
+aS'7'
+aS'5'
+aS'2'
+aS'0'
 aS'2'
 aS'8'
-aVDanmark
-p2394
-aV1967
-p2395
-aVRegion Hovedstaden
-p2396
-aa(lp2397
-S'Marcelo Valesani'
-p2398
-aS'1989'
-p2399
-aS'Lock'
-p2400
-aS'circa 1965'
-p2401
-aS'10'
-p2402
-aS'6'
-aS'0'
-aS'0'
-aVPerú
-p2403
-aVTacna
-p2404
-aVCandarave
-p2405
-aa(lp2406
-S'Juan Soler Valls'
-p2407
-aS'1989'
-p2408
-aS'Fullback'
-p2409
-aS'circa 1966'
+aS'circa 1967'
 p2410
+aVPerú
+p2411
+aVTacna
+p2412
+aVTarata
+p2413
+aa(lp2414
+S'Miguel Bertranou'
+p2415
+aS'1989'
+p2416
+aS'No. 8'
+p2417
+aS'15'
+p2418
+aS'6'
+aS'9'
+aS'0'
+aS'2'
+aS'8'
+aS'1967'
+p2419
+aVDanmark
+p2420
+aV1967
+p2421
+aVRegion Hovedstaden
+p2422
+aa(lp2423
+S'Marcelo Valesani'
+p2424
+aS'1989'
+p2425
+aS'Lock'
+p2426
+aS'10'
+p2427
+aS'6'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1965'
+p2428
+aVPerú
+p2429
+aVTacna
+p2430
+aVCandarave
+p2431
+aa(lp2432
+S'Juan Soler Valls'
+p2433
+aS'1989'
+p2434
+aS'Fullback'
+p2435
 aS'4'
 aS'4'
+aS'0'
+aS'0'
 aS'5'
 aS'20'
-p2411
+p2436
+aS'circa 1966'
+p2437
 aVPerú
-p2412
+p2438
 aVTacna
-p2413
+p2439
 aVCandarave
-p2414
-aa(lp2415
+p2440
+aa(lp2441
 S'Pablo Buabse'
-p2416
+p2442
 aS'1989'
-p2417
+p2443
 aS'Lock, Flanker'
-p2418
-aS'San Miguel de Tucuma'
-p2419
+p2444
 aS'7'
 aS'4'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'San Miguel de Tucuma'
+p2445
 aS'g'
 aS'n'
 aS'i'
-aa(lp2420
+aa(lp2446
 S'Pablo di Nisio'
-p2421
+p2447
 aS'1989'
-p2422
+p2448
 aS'Flanker'
-p2423
-aS'circa 1965'
-p2424
+p2449
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'circa 1965'
+p2450
 aVPerú
-p2425
+p2451
 aVTacna
-p2426
+p2452
 aVCandarave
-p2427
-aa(lp2428
+p2453
+aa(lp2454
 S'Marcelo Righentini'
-p2429
+p2455
 aS'1989'
-p2430
+p2456
 aS'Wing'
-p2431
-aS'circa 1969'
-p2432
+p2457
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'circa 1969'
+p2458
 aVPerú
-p2433
+p2459
 aVTacna
-p2434
+p2460
 aVCandarave
-p2435
-aa(lp2436
+p2461
+aa(lp2462
 S'Pablo Camerlinckx'
-p2437
+p2463
 aS'1989'
-p2438
+p2464
 aS'No. 8'
-p2439
-aS'Buenos Aires'
-p2440
+p2465
 aS'32'
-p2441
+p2466
 aS'17'
-p2442
+p2467
+aS'14'
+p2468
+aS'1'
 aS'8'
 aS'36'
-p2443
+p2469
+aS'Buenos Aires'
+p2470
 aVArgentina
-p2444
+p2471
 aVCABA
-p2445
+p2472
 aVComuna 6
-p2446
-aa(lp2447
+p2473
+aa(lp2474
 S'Diego Halle'
-p2448
+p2475
 aS'1989'
-p2449
+p2476
 aS'Fly-half'
-p2450
-aS'date unknown'
-p2451
+p2477
 aS'5'
 aS'5'
+aS'0'
+aS'0'
 aS'1'
 aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2452
-S'Gustavo Jorge'
-p2453
-aS'1989'
-p2454
-aS'Wing'
-p2455
-aS'Lomas de Zamora'
-p2456
-aS'23'
-p2457
-aS'17'
-p2458
-aS'24'
-p2459
-aS'111'
-p2460
-aVArgentina
-p2461
-aVBA
-p2462
-aVPartido de Lomas de Zamora
-p2463
-aa(lp2464
-S'Federico Schacht'
-p2465
-aS'1989'
-p2466
-aS'Wing'
-p2467
 aS'date unknown'
-p2468
-aS'6'
-aS'5'
-aS'9'
-aS'36'
-p2469
+p2478
 aS'g'
 aS'n'
 aS'i'
-aa(lp2470
-S'Jose Simes'
-p2471
-aS'1989'
-p2472
-aS'Lock'
-p2473
-aS'1967'
-p2474
-aS'12'
-p2475
-aS'9'
-aS'0'
-aS'0'
-aVDanmark
-p2476
-aV1967
-p2477
-aVRegion Hovedstaden
-p2478
 aa(lp2479
-S'Juan Coppola'
+S'Gustavo Jorge'
 p2480
 aS'1989'
 p2481
-aS''
-aS'date unknown'
+aS'Wing'
 p2482
-aS'2'
-aS'2'
-aS'3'
-aS'12'
+aS'23'
 p2483
-aS'g'
-aS'n'
-aS'i'
-aa(lp2484
-S'Diego Dominguez'
-p2485
-aS'1989'
-p2486
-aS'Fly-half'
-p2487
-aS'Cordoba'
-p2488
-aS'76'
-p2489
-aS'29'
-p2490
-aS'9'
-aS'1010'
-p2491
-aVEspaña
-p2492
-aVAndalucía
-p2493
-aVCórdoba
-p2494
-aa(lp2495
-S'Hector Lacarra'
-p2496
-aS'1989'
-p2497
-aS''
-aS'date unknown'
-p2498
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2499
-S'Sergio Bunader'
-p2500
-aS'1989'
-p2501
-aS'No. 8'
-p2502
-aS'1962'
-p2503
-aS'2'
-aS'1'
-aS'3'
-aS'12'
-p2504
-aVSverige
-p2505
-aVSvealand
-p2506
-aVVästmanlands län
-p2507
-aa(lp2508
-S'Adrian Rocca'
-p2509
-aS'1989'
-p2510
-aS'Prop'
-p2511
-aS'1962'
-p2512
-aS'7'
-aS'4'
-aS'1'
-aS'4'
-aVSverige
-p2513
-aVSvealand
-p2514
-aVVästmanlands län
-p2515
-aa(lp2516
-S'Javier Grondona'
-p2517
-aS'1990'
-p2518
-aS'Lock'
-p2519
-aS'date unknown'
-p2520
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2521
-S'Ricardo Zanero'
-p2522
-aS'1990'
-p2523
-aS'Wing'
-p2524
-aS'date unknown'
-p2525
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2526
-S'Matias Allen'
-p2527
-aS'1990'
-p2528
-aS'Centre'
-p2529
-aS'Buenos Aires'
-p2530
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aVArgentina
-p2531
-aVCABA
-p2532
-aVComuna 6
-p2533
-aa(lp2534
-S'Pablo Garzon'
-p2535
-aS'1990'
-p2536
-aS'Fullback'
-p2537
-aS'circa 1964'
-p2538
-aS'3'
-aS'2'
-aS'3'
-aS'12'
-p2539
-aVPerú
-p2540
-aVTacna
-p2541
-aVCandarave
-p2542
-aa(lp2543
-S'Manuel Aguirre'
-p2544
-aS'1990'
-p2545
-aS'Prop'
-p2546
-aS'Buenos Aires'
-p2547
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVArgentina
-p2548
-aVCABA
-p2549
-aVComuna 6
-p2550
-aa(lp2551
-S'Rodrigo Crexell'
-p2552
-aS'1990'
-p2553
-aS'Scrum-half'
-p2554
-aS'1968'
-p2555
-aS'14'
-p2556
-aS'8'
-aS'5'
-aS'32'
-p2557
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2558
-aV\u0421\u041a\u0424\u041e
-p2559
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2560
-aa(lp2561
-S'Santiago Ezcurra'
-p2562
-aS'1990'
-p2563
-aS'Wing'
-p2564
-aS'date unknown'
-p2565
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2566
-S'Hernan Garcia Simon'
-p2567
-aS'1990'
-p2568
-aS'Centre'
-p2569
-aS'Buenos Aires'
-p2570
-aS'7'
-aS'0'
-aS'1'
-aS'4'
-aVArgentina
-p2571
-aVCABA
-p2572
-aVComuna 6
-p2573
-aa(lp2574
-S'Ricardo le Fort'
-p2575
-aS'1990'
-p2576
-aS'Hooker'
-p2577
-aS'San Miguel de Tucuma'
-p2578
-aS'16'
-p2579
-aS'8'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2580
-S'German Llanes'
-p2581
-aS'1990'
-p2582
-aS'Lock'
-p2583
-aS'Junin'
-p2584
-aS'42'
-p2585
-aS'13'
-p2586
-aS'1'
-aS'5'
-aVPerú
-p2587
-aVJunín
-p2588
-aS'Missing'
-p2589
-aa(lp2590
-S'Agustin Macome'
-p2591
-aS'1990'
-p2592
-aS'Flanker'
-p2593
-aS'1967'
-p2594
-aS'4'
-aS'2'
-aS'1'
-aS'4'
-aVDanmark
-p2595
-aV1967
-p2596
-aVRegion Hovedstaden
-p2597
-aa(lp2598
-S'Federico Mendez Azpillaga'
-p2599
-aS'1990'
-p2600
-aS'Prop, Hooker'
-p2601
-aS'Mendoza'
-p2602
-aS'73'
-p2603
-aS'33'
-p2604
-aS'14'
-p2605
-aS'70'
-p2606
-aVArgentina
-p2607
-aVMZA
-p2608
-aVDepartamento Capital
-p2609
-aa(lp2610
-S'Pedro Sporleder'
-p2611
-aS'1990'
-p2612
-aS'Lock'
-p2613
-aS'Buenos Aires'
-p2614
-aS'78'
-p2615
-aS'41'
-p2616
-aS'14'
-p2617
-aS'70'
-p2618
-aVArgentina
-p2619
-aVCABA
-p2620
-aVComuna 6
-p2621
-aa(lp2622
-S'Lisandro Arbizu'
-p2623
-aS'1990'
-p2624
-aS'Fly-half'
-p2625
-aS'Buenos Aires'
-p2626
-aS'86'
-p2627
-aS'41'
-p2628
 aS'17'
-p2629
-aS'188'
-p2630
-aVArgentina
-p2631
-aVCABA
-p2632
-aVComuna 6
-p2633
-aa(lp2634
-S'Gonzalo Camardon'
-p2635
-aS'1990'
-p2636
-aS'Centre, Scrum-half'
-p2637
-aS'Buenos Aires'
-p2638
-aS'41'
-p2639
-aS'21'
-p2640
-aS'10'
-p2641
-aS'49'
-p2642
-aVArgentina
-p2643
-aVCABA
-p2644
-aVComuna 6
-p2645
-aa(lp2646
-S'Emilio Ezcurra'
-p2647
-aS'1990'
-p2648
-aS'Flanker'
-p2649
-aS'date unknown'
-p2650
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2651
-S'Guillermo del Castillo'
-p2652
-aS'1991'
-p2653
-aS'Fly-half'
-p2654
-aS'Rosario'
-p2655
-aS'15'
-p2656
-aS'8'
+p2484
+aS'6'
 aS'0'
 aS'24'
-p2657
+p2485
+aS'111'
+p2486
+aS'Lomas de Zamora'
+p2487
 aVArgentina
-p2658
-aVS2000
-p2659
-aVSFE
-p2660
-aa(lp2661
-S'Jose Santamarina'
-p2662
-aS'1991'
-p2663
-aS'No. 8'
-p2664
-aS'San Miguel de Tucuma'
-p2665
-aS'23'
-p2666
-aS'12'
-p2667
-aS'2'
-aS'9'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2668
-S'Martin Teran Nougues'
-p2669
-aS'1991'
-p2670
+p2488
+aVBA
+p2489
+aVPartido de Lomas de Zamora
+p2490
+aa(lp2491
+S'Federico Schacht'
+p2492
+aS'1989'
+p2493
 aS'Wing'
-p2671
-aS'San Miguel de Tucuma'
-p2672
-aS'30'
-p2673
-aS'14'
-p2674
-aS'11'
-p2675
-aS'50'
-p2676
-aS'g'
-aS'n'
-aS'i'
-aa(lp2677
-S'Fernando Buabse'
-p2678
-aS'1991'
-p2679
-aS''
-aS'date unknown'
-p2680
-aS'4'
-aS'4'
-aS'2'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2681
-S'Rafael Bullrich'
-p2682
-aS'1991'
-p2683
-aS'Scrum-half'
-p2684
-aS'date unknown'
-p2685
-aS'8'
+p2494
+aS'6'
 aS'5'
+aS'1'
 aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2686
-S'Juan Luis Damioli'
-p2687
-aS'1991'
-p2688
-aS''
+aS'9'
+aS'36'
+p2495
 aS'date unknown'
-p2689
-aS'3'
-aS'3'
-aS'2'
-aS'8'
+p2496
 aS'g'
 aS'n'
 aS'i'
-aa(lp2690
-S'Rodolfo Etchegoyen'
-p2691
-aS'1991'
-p2692
+aa(lp2497
+S'Jose Simes'
+p2498
+aS'1989'
+p2499
+aS'Lock'
+p2500
+aS'12'
+p2501
+aS'9'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1967'
+p2502
+aVDanmark
+p2503
+aV1967
+p2504
+aVRegion Hovedstaden
+p2505
+aa(lp2506
+S'Juan Coppola'
+p2507
+aS'1989'
+p2508
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'3'
+aS'12'
+p2509
+aS'date unknown'
+p2510
+aS'g'
+aS'n'
+aS'i'
+aa(lp2511
+S'Diego Dominguez'
+p2512
+aS'1989'
+p2513
+aS'Fly-half'
+p2514
+aS'76'
+p2515
+aS'29'
+p2516
+aS'46'
+p2517
+aS'1'
+aS'9'
+aS'1010'
+p2518
+aS'Cordoba'
+p2519
+aVEspaña
+p2520
+aVAndalucía
+p2521
+aVCórdoba
+p2522
+aa(lp2523
+S'Hector Lacarra'
+p2524
+aS'1989'
+p2525
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2526
+aS'g'
+aS'n'
+aS'i'
+aa(lp2527
+S'Sergio Bunader'
+p2528
+aS'1989'
+p2529
 aS'No. 8'
-p2693
-aS'date unknown'
-p2694
-aS'3'
-aS'3'
-aS'2'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2695
-S'Lucas Herrera'
-p2696
-aS'1991'
-p2697
-aS''
-aS'date unknown'
-p2698
-aS'2'
+p2530
 aS'2'
 aS'1'
+aS'1'
+aS'0'
+aS'3'
+aS'12'
+p2531
+aS'1962'
+p2532
+aVSverige
+p2533
+aVSvealand
+p2534
+aVVästmanlands län
+p2535
+aa(lp2536
+S'Adrian Rocca'
+p2537
+aS'1989'
+p2538
+aS'Prop'
+p2539
+aS'7'
 aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2699
-S'Martin Lanfranco'
-p2700
-aS'1991'
-p2701
-aS''
+aS'3'
+aS'0'
+aS'1'
+aS'4'
+aS'1962'
+p2540
+aVSverige
+p2541
+aVSvealand
+p2542
+aVVästmanlands län
+p2543
+aa(lp2544
+S'Javier Grondona'
+p2545
+aS'1990'
+p2546
+aS'Lock'
+p2547
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p2702
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p2548
 aS'g'
 aS'n'
 aS'i'
-aa(lp2703
-S'Alejandro Marguery'
-p2704
-aS'1991'
-p2705
+aa(lp2549
+S'Ricardo Zanero'
+p2550
+aS'1990'
+p2551
+aS'Wing'
+p2552
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2553
+aS'g'
+aS'n'
+aS'i'
+aa(lp2554
+S'Matias Allen'
+p2555
+aS'1990'
+p2556
 aS'Centre'
-p2706
+p2557
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p2558
+aVArgentina
+p2559
+aVCABA
+p2560
+aVComuna 6
+p2561
+aa(lp2562
+S'Pablo Garzon'
+p2563
+aS'1990'
+p2564
+aS'Fullback'
+p2565
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'3'
+aS'12'
+p2566
+aS'circa 1964'
+p2567
+aVPerú
+p2568
+aVTacna
+p2569
+aVCandarave
+p2570
+aa(lp2571
+S'Manuel Aguirre'
+p2572
+aS'1990'
+p2573
+aS'Prop'
+p2574
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p2575
+aVArgentina
+p2576
+aVCABA
+p2577
+aVComuna 6
+p2578
+aa(lp2579
+S'Rodrigo Crexell'
+p2580
+aS'1990'
+p2581
+aS'Scrum-half'
+p2582
+aS'14'
+p2583
+aS'8'
+aS'6'
+aS'0'
+aS'5'
+aS'32'
+p2584
+aS'1968'
+p2585
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2586
+aV\u0421\u041a\u0424\u041e
+p2587
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2588
+aa(lp2589
+S'Santiago Ezcurra'
+p2590
+aS'1990'
+p2591
+aS'Wing'
+p2592
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
+p2593
+aS'g'
+aS'n'
+aS'i'
+aa(lp2594
+S'Hernan Garcia Simon'
+p2595
+aS'1990'
+p2596
+aS'Centre'
+p2597
+aS'7'
+aS'0'
+aS'7'
+aS'0'
+aS'1'
+aS'4'
+aS'Buenos Aires'
+p2598
+aVArgentina
+p2599
+aVCABA
+p2600
+aVComuna 6
+p2601
+aa(lp2602
+S'Ricardo le Fort'
+p2603
+aS'1990'
+p2604
+aS'Hooker'
+p2605
+aS'16'
+p2606
+aS'8'
+aS'8'
+aS'0'
+aS'1'
+aS'5'
+aS'San Miguel de Tucuma'
+p2607
+aS'g'
+aS'n'
+aS'i'
+aa(lp2608
+S'German Llanes'
+p2609
+aS'1990'
+p2610
+aS'Lock'
+p2611
+aS'42'
+p2612
+aS'13'
+p2613
+aS'28'
+p2614
+aS'1'
+aS'1'
+aS'5'
+aS'Junin'
+p2615
+aVPerú
+p2616
+aVJunín
+p2617
+aS'Missing'
+p2618
+aa(lp2619
+S'Agustin Macome'
+p2620
+aS'1990'
+p2621
+aS'Flanker'
+p2622
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'1967'
+p2623
+aVDanmark
+p2624
+aV1967
+p2625
+aVRegion Hovedstaden
+p2626
+aa(lp2627
+S'Federico Mendez Azpillaga'
+p2628
+aS'1990'
+p2629
+aS'Prop, Hooker'
+p2630
+aS'73'
+p2631
+aS'33'
+p2632
+aS'40'
+p2633
+aS'0'
+aS'14'
+p2634
+aS'70'
+p2635
+aS'Mendoza'
+p2636
+aVArgentina
+p2637
+aVMZA
+p2638
+aVDepartamento Capital
+p2639
+aa(lp2640
+S'Pedro Sporleder'
+p2641
+aS'1990'
+p2642
+aS'Lock'
+p2643
+aS'78'
+p2644
+aS'41'
+p2645
+aS'36'
+p2646
+aS'1'
+aS'14'
+p2647
+aS'70'
+p2648
+aS'Buenos Aires'
+p2649
+aVArgentina
+p2650
+aVCABA
+p2651
+aVComuna 6
+p2652
+aa(lp2653
+S'Lisandro Arbizu'
+p2654
+aS'1990'
+p2655
+aS'Fly-half'
+p2656
+aS'86'
+p2657
+aS'41'
+p2658
+aS'44'
+p2659
+aS'1'
+aS'17'
+p2660
+aS'188'
+p2661
+aS'Buenos Aires'
+p2662
+aVArgentina
+p2663
+aVCABA
+p2664
+aVComuna 6
+p2665
+aa(lp2666
+S'Gonzalo Camardon'
+p2667
+aS'1990'
+p2668
+aS'Centre, Scrum-half'
+p2669
+aS'41'
+p2670
+aS'21'
+p2671
+aS'20'
+p2672
+aS'0'
+aS'10'
+p2673
+aS'49'
+p2674
+aS'Buenos Aires'
+p2675
+aVArgentina
+p2676
+aVCABA
+p2677
+aVComuna 6
+p2678
+aa(lp2679
+S'Emilio Ezcurra'
+p2680
+aS'1990'
+p2681
+aS'Flanker'
+p2682
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2683
+aS'g'
+aS'n'
+aS'i'
+aa(lp2684
+S'Guillermo del Castillo'
+p2685
+aS'1991'
+p2686
+aS'Fly-half'
+p2687
+aS'15'
+p2688
+aS'8'
+aS'7'
+aS'0'
+aS'0'
+aS'24'
+p2689
+aS'Rosario'
+p2690
+aVArgentina
+p2691
+aVS2000
+p2692
+aVSFE
+p2693
+aa(lp2694
+S'Jose Santamarina'
+p2695
+aS'1991'
+p2696
+aS'No. 8'
+p2697
+aS'23'
+p2698
+aS'12'
+p2699
+aS'11'
+p2700
+aS'0'
+aS'2'
+aS'9'
+aS'San Miguel de Tucuma'
+p2701
+aS'g'
+aS'n'
+aS'i'
+aa(lp2702
+S'Martin Teran Nougues'
+p2703
+aS'1991'
+p2704
+aS'Wing'
+p2705
+aS'30'
+p2706
+aS'14'
 p2707
+aS'16'
+p2708
+aS'0'
+aS'11'
+p2709
+aS'50'
+p2710
+aS'San Miguel de Tucuma'
+p2711
+aS'g'
+aS'n'
+aS'i'
+aa(lp2712
+S'Fernando Buabse'
+p2713
+aS'1991'
+p2714
+aS''
 aS'4'
 aS'4'
+aS'0'
+aS'0'
+aS'2'
+aS'8'
+aS'date unknown'
+p2715
+aS'g'
+aS'n'
+aS'i'
+aa(lp2716
+S'Rafael Bullrich'
+p2717
+aS'1991'
+p2718
+aS'Scrum-half'
+p2719
+aS'8'
+aS'5'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2720
+aS'g'
+aS'n'
+aS'i'
+aa(lp2721
+S'Juan Luis Damioli'
+p2722
+aS'1991'
+p2723
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'8'
+aS'date unknown'
+p2724
+aS'g'
+aS'n'
+aS'i'
+aa(lp2725
+S'Rodolfo Etchegoyen'
+p2726
+aS'1991'
+p2727
+aS'No. 8'
+p2728
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'8'
+aS'date unknown'
+p2729
+aS'g'
+aS'n'
+aS'i'
+aa(lp2730
+S'Lucas Herrera'
+p2731
+aS'1991'
+p2732
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p2733
+aS'g'
+aS'n'
+aS'i'
+aa(lp2734
+S'Martin Lanfranco'
+p2735
+aS'1991'
+p2736
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2737
+aS'g'
+aS'n'
+aS'i'
+aa(lp2738
+S'Alejandro Marguery'
+p2739
+aS'1991'
+p2740
+aS'Centre'
+p2741
+aS'4'
+aS'4'
+aS'0'
+aS'0'
 aS'3'
 aS'13'
-p2708
+p2742
+aS'date unknown'
+p2743
 aS'g'
 aS'n'
 aS'i'
-aa(lp2709
+aa(lp2744
 S'Federico Jose Mendez'
-p2710
+p2745
 aS'1991'
-p2711
+p2746
 aS'Fly-half'
-p2712
-aS'date unknown'
-p2713
+p2747
 aS'6'
 aS'6'
+aS'0'
+aS'0'
 aS'1'
 aS'63'
-p2714
-aS'g'
-aS'n'
-aS'i'
-aa(lp2715
-S'Julio Jose Paz'
-p2716
-aS'1991'
-p2717
-aS''
+p2748
 aS'date unknown'
-p2718
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p2749
 aS'g'
 aS'n'
 aS'i'
-aa(lp2719
-S'Franco Rossi'
-p2720
+aa(lp2750
+S'Julio Jose Paz'
+p2751
 aS'1991'
-p2721
+p2752
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2753
+aS'g'
+aS'n'
+aS'i'
+aa(lp2754
+S'Franco Rossi'
+p2755
+aS'1991'
+p2756
 aS'No. 8'
-p2722
-aS'Rosario'
-p2723
+p2757
 aS'4'
 aS'3'
+aS'1'
+aS'0'
 aS'3'
 aS'12'
-p2724
+p2758
+aS'Rosario'
+p2759
 aVArgentina
-p2725
+p2760
 aVS2000
-p2726
+p2761
 aVSFE
-p2727
-aa(lp2728
+p2762
+aa(lp2763
 S'Guillermo Ugartemendia'
-p2729
+p2764
 aS'1991'
-p2730
+p2765
 aS'No. 8, Lock'
-p2731
-aS'Buenos Aires'
-p2732
+p2766
 aS'13'
-p2733
+p2767
 aS'8'
+aS'5'
+aS'0'
 aS'1'
 aS'5'
+aS'Buenos Aires'
+p2768
 aVArgentina
-p2734
+p2769
 aVCABA
-p2735
+p2770
 aVComuna 6
-p2736
-aa(lp2737
+p2771
+aa(lp2772
 S'Marcelo Urbano'
-p2738
+p2773
 aS'1991'
-p2739
+p2774
 aS'Prop'
-p2740
-aS'1965'
-p2741
+p2775
 aS'7'
 aS'6'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'1965'
+p2776
 aVDanmark
-p2742
+p2777
 aV1965
-p2743
+p2778
 aVRegion Hovedstaden
-p2744
-aa(lp2745
+p2779
+aa(lp2780
 S'Ariel Mammana'
-p2746
+p2781
 aS'1991'
-p2747
+p2782
 aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p2748
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p2783
 aS'g'
 aS'n'
 aS'i'
-aa(lp2749
+aa(lp2784
 S'Eduardo Pittinari'
-p2750
+p2785
 aS'1991'
-p2751
+p2786
 aS''
-aS'date unknown'
-p2752
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p2787
 aS'g'
 aS'n'
 aS'i'
-aa(lp2753
+aa(lp2788
 S'Patricio Noriega'
-p2754
+p2789
 aS'1991'
-p2755
+p2790
 aS'Prop'
-p2756
-aS'Buenos Aires'
-p2757
+p2791
 aS'49'
-p2758
+p2792
 aS'32'
-p2759
+p2793
+aS'17'
+p2794
+aS'0'
 aS'2'
 aS'10'
-p2760
+p2795
+aS'Buenos Aires'
+p2796
 aVArgentina
-p2761
+p2797
 aVCABA
-p2762
+p2798
 aVComuna 6
-p2763
-aa(lp2764
+p2799
+aa(lp2800
 S'Alejandro Tolomei'
-p2765
+p2801
 aS'1991'
-p2766
+p2802
 aS'Wing'
-p2767
-aS'date unknown'
-p2768
+p2803
 aS'5'
 aS'5'
+aS'0'
+aS'0'
 aS'11'
-p2769
+p2804
 aS'51'
-p2770
+p2805
+aS'date unknown'
+p2806
 aS'g'
 aS'n'
 aS'i'
-aa(lp2771
+aa(lp2807
 S'Eduardo Laborde'
-p2772
+p2808
 aS'1991'
-p2773
+p2809
 aS'Centre'
-p2774
+p2810
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'3'
 aS'Buenos Aires'
-p2775
-aS'3'
-aS'0'
-aS'0'
-aS'3'
+p2811
 aVArgentina
-p2776
+p2812
 aVCABA
-p2777
+p2813
 aVComuna 6
-p2778
-aa(lp2779
+p2814
+aa(lp2815
 S'Mariano Bosch'
-p2780
+p2816
 aS'1991'
-p2781
+p2817
 aS'Hooker'
-p2782
-aS'Buenos Aires'
-p2783
+p2818
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'Buenos Aires'
+p2819
 aVArgentina
-p2784
+p2820
 aVCABA
-p2785
+p2821
 aVComuna 6
-p2786
-aa(lp2787
+p2822
+aa(lp2823
 S'Francisco Irarrazaval'
-p2788
+p2824
 aS'1991'
-p2789
+p2825
 aS'Flanker'
-p2790
-aS'Mendoza'
-p2791
+p2826
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Mendoza'
+p2827
 aVArgentina
-p2792
+p2828
 aVMZA
-p2793
+p2829
 aVDepartamento Capital
-p2794
-aa(lp2795
+p2830
+aa(lp2831
 S'Luis Criscuolo'
-p2796
+p2832
 aS'1992'
-p2797
+p2833
 aS'Centre, Fullback'
-p2798
-aS'Buenos Aires'
-p2799
+p2834
 aS'7'
 aS'2'
+aS'5'
+aS'0'
 aS'1'
 aS'9'
-aVArgentina
-p2800
-aVCABA
-p2801
-aVComuna 6
-p2802
-aa(lp2803
-S'Raul Perez'
-p2804
-aS'1992'
-p2805
-aS'Flanker'
-p2806
 aS'Buenos Aires'
-p2807
-aS'21'
-p2808
-aS'14'
-p2809
-aS'1'
-aS'5'
-aVArgentina
-p2810
-aVCABA
-p2811
-aVComuna 6
-p2812
-aa(lp2813
-S'Normando Ferrari'
-p2814
-aS'1992'
-p2815
-aS'No. 8, Lock'
-p2816
-aS'date unknown'
-p2817
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2818
-S'Eduardo Garbarino'
-p2819
-aS'1992'
-p2820
-aS'Hooker'
-p2821
-aS'date unknown'
-p2822
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2823
-S'Matias Roby'
-p2824
-aS'1992'
-p2825
-aS'Wing'
-p2826
-aS'date unknown'
-p2827
-aS'2'
-aS'2'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2828
-S'Leandro Bouza'
-p2829
-aS'1992'
-p2830
-aS'Wing'
-p2831
-aS'1971'
-p2832
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2833
-aV\u0421\u041a\u0424\u041e
-p2834
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p2835
-aa(lp2836
-S'Gonzalo Garcia Orsetti'
+aVArgentina
+p2836
+aVCABA
 p2837
-aS'1992'
+aVComuna 6
 p2838
-aS'Flanker'
-p2839
-aS'1971'
+aa(lp2839
+S'Raul Perez'
 p2840
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aS'1992'
 p2841
-aV\u0421\u041a\u0424\u041e
+aS'Flanker'
 p2842
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aS'21'
 p2843
-aa(lp2844
-S'Pablo Cremaschi'
+aS'14'
+p2844
+aS'7'
+aS'0'
+aS'1'
+aS'5'
+aS'Buenos Aires'
 p2845
-aS'1993'
+aVArgentina
 p2846
-aS'Centre'
+aVCABA
 p2847
-aS'date unknown'
+aVComuna 6
 p2848
+aa(lp2849
+S'Normando Ferrari'
+p2850
+aS'1992'
+p2851
+aS'No. 8, Lock'
+p2852
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2853
+aS'g'
+aS'n'
+aS'i'
+aa(lp2854
+S'Eduardo Garbarino'
+p2855
+aS'1992'
+p2856
+aS'Hooker'
+p2857
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2858
+aS'g'
+aS'n'
+aS'i'
+aa(lp2859
+S'Matias Roby'
+p2860
+aS'1992'
+p2861
+aS'Wing'
+p2862
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'date unknown'
+p2863
+aS'g'
+aS'n'
+aS'i'
+aa(lp2864
+S'Leandro Bouza'
+p2865
+aS'1992'
+p2866
+aS'Wing'
+p2867
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1971'
+p2868
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2869
+aV\u0421\u041a\u0424\u041e
+p2870
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2871
+aa(lp2872
+S'Gonzalo Garcia Orsetti'
+p2873
+aS'1992'
+p2874
+aS'Flanker'
+p2875
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1971'
+p2876
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2877
+aV\u0421\u041a\u0424\u041e
+p2878
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2879
+aa(lp2880
+S'Pablo Cremaschi'
+p2881
+aS'1993'
+p2882
+aS'Centre'
+p2883
 aS'6'
 aS'6'
+aS'0'
+aS'0'
 aS'3'
 aS'40'
-p2849
+p2884
+aS'date unknown'
+p2885
 aS'g'
 aS'n'
 aS'i'
-aa(lp2850
+aa(lp2886
 S'Roberto Grau'
-p2851
+p2887
 aS'1993'
-p2852
+p2888
 aS'Prop'
-p2853
-aS'Buenos Aires'
-p2854
+p2889
 aS'47'
-p2855
+p2890
 aS'19'
-p2856
+p2891
+aS'28'
+p2892
+aS'0'
 aS'2'
 aS'10'
-p2857
+p2893
+aS'Buenos Aires'
+p2894
 aVArgentina
-p2858
+p2895
 aVCABA
-p2859
+p2896
 aVComuna 6
-p2860
-aa(lp2861
+p2897
+aa(lp2898
 S'Sebastian Irazoqui'
-p2862
+p2899
 aS'1993'
-p2863
+p2900
 aS'No. 8'
-p2864
-aS'1969'
-p2865
+p2901
 aS'8'
 aS'6'
+aS'2'
+aS'0'
 aS'1'
 aS'5'
+aS'1969'
+p2902
 aVNederland
-p2866
+p2903
 aV1969
-p2867
+p2904
 aVNederland
-p2868
-aa(lp2869
+p2905
+aa(lp2906
 S'Diego Silvetti'
-p2870
+p2907
 aS'1993'
-p2871
+p2908
 aS'Hooker'
-p2872
-aS'date unknown'
-p2873
+p2909
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p2910
 aS'g'
 aS'n'
 aS'i'
-aa(lp2874
+aa(lp2911
 S'Martin Grau'
-p2875
+p2912
 aS'1993'
-p2876
+p2913
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p2877
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p2914
 aS'g'
 aS'n'
 aS'i'
-aa(lp2878
+aa(lp2915
 S'Matias Corral'
-p2879
+p2916
 aS'1993'
-p2880
+p2917
 aS'Prop'
-p2881
-aS'Buenos Aires'
-p2882
+p2918
 aS'17'
-p2883
+p2919
 aS'8'
+aS'9'
+aS'0'
 aS'1'
 aS'5'
+aS'Buenos Aires'
+p2920
 aVArgentina
-p2884
+p2921
 aVCABA
-p2885
+p2922
 aVComuna 6
-p2886
-aa(lp2887
+p2923
+aa(lp2924
 S'Sebastian Paz Posse'
-p2888
+p2925
 aS'1993'
-p2889
+p2926
 aS'Hooker'
-p2890
-aS'date unknown'
-p2891
+p2927
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'10'
-p2892
+p2928
+aS'date unknown'
+p2929
 aS'g'
 aS'n'
 aS'i'
-aa(lp2893
+aa(lp2930
 S'Cristian Viel Temperley'
-p2894
+p2931
 aS'1993'
-p2895
+p2932
 aS'Flanker'
-p2896
-aS'Buenos Aires'
-p2897
+p2933
 aS'26'
-p2898
+p2934
 aS'16'
-p2899
+p2935
+aS'10'
+p2936
+aS'0'
 aS'3'
 aS'15'
-p2900
-aVArgentina
-p2901
-aVCABA
-p2902
-aVComuna 6
-p2903
-aa(lp2904
-S'Martin Viola'
-p2905
-aS'1993'
-p2906
-aS''
-aS'date unknown'
-p2907
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2908
-S'Eduardo Garcia Hamilton'
-p2909
-aS'1993'
-p2910
-aS''
-aS'date unknown'
-p2911
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2912
-S'Ivan Merlo'
-p2913
-aS'1993'
-p2914
-aS'Centre'
-p2915
-aS'Cordoba'
-p2916
-aS'2'
-aS'2'
-aS'2'
-aS'10'
-p2917
-aVEspaña
-p2918
-aVAndalucía
-p2919
-aVCórdoba
-p2920
-aa(lp2921
-S'Sergio Peretti'
-p2922
-aS'1993'
-p2923
-aS'Hooker'
-p2924
-aS'date unknown'
-p2925
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2926
-S'Pablo Fernandez Bravo'
-p2927
-aS'1993'
-p2928
-aS'Flanker'
-p2929
-aS'date unknown'
-p2930
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2931
-S'Nicolas Fernandez Miranda'
-p2932
-aS'1994'
-p2933
-aS'Scrum-half'
-p2934
-aS'Buenos Aires'
-p2935
-aS'46'
-p2936
-aS'33'
 p2937
-aS'6'
-aS'30'
+aS'Buenos Aires'
 p2938
 aVArgentina
 p2939
@@ -8440,2637 +9362,2887 @@ p2940
 aVComuna 6
 p2941
 aa(lp2942
-S'Rolando Martin'
+S'Martin Viola'
 p2943
-aS'1994'
+aS'1993'
 p2944
-aS'Flanker'
-p2945
-aS'United States'
-p2946
-aS'86'
-p2947
-aS'44'
-p2948
-aS'18'
-p2949
-aS'90'
-p2950
-aVUnited States of America
-p2951
-ag2589
-ag2589
-aa(lp2952
-S'Martin Pfister'
-p2953
-aS'1994'
-p2954
-aS'Wing'
-p2955
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p2956
-aS'6'
-aS'2'
-aS'2'
-aS'10'
-p2957
+p2945
 aS'g'
 aS'n'
 aS'i'
-aa(lp2958
-S'Francisco Garcia'
-p2959
-aS'1994'
-p2960
+aa(lp2946
+S'Eduardo Garcia Hamilton'
+p2947
+aS'1993'
+p2948
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2949
+aS'g'
+aS'n'
+aS'i'
+aa(lp2950
+S'Ivan Merlo'
+p2951
+aS'1993'
+p2952
 aS'Centre'
-p2961
-aS'1970'
-p2962
-aS'13'
-p2963
-aS'5'
+p2953
+aS'2'
+aS'2'
+aS'0'
+aS'0'
 aS'2'
 aS'10'
-p2964
-aVDanmark
+p2954
+aS'Cordoba'
+p2955
+aVEspaña
+p2956
+aVAndalucía
+p2957
+aVCórdoba
+p2958
+aa(lp2959
+S'Sergio Peretti'
+p2960
+aS'1993'
+p2961
+aS'Hooker'
+p2962
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2963
+aS'g'
+aS'n'
+aS'i'
+aa(lp2964
+S'Pablo Fernandez Bravo'
 p2965
-aV1970
+aS'1993'
 p2966
-aVRegion Hovedstaden
+aS'Flanker'
 p2967
-aa(lp2968
-S'Jose Cilley'
-p2969
-aS'1994'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2968
+aS'g'
+aS'n'
+aS'i'
+aa(lp2969
+S'Nicolas Fernandez Miranda'
 p2970
-aS'Fly-half'
+aS'1994'
 p2971
-aS'Buenos Aires'
+aS'Scrum-half'
 p2972
-aS'15'
+aS'46'
 p2973
+aS'33'
+p2974
+aS'13'
+p2975
+aS'0'
 aS'6'
+aS'30'
+p2976
+aS'Buenos Aires'
+p2977
+aVArgentina
+p2978
+aVCABA
+p2979
+aVComuna 6
+p2980
+aa(lp2981
+S'Rolando Martin'
+p2982
+aS'1994'
+p2983
+aS'Flanker'
+p2984
+aS'86'
+p2985
+aS'44'
+p2986
+aS'41'
+p2987
+aS'1'
+aS'18'
+p2988
+aS'90'
+p2989
+aS'United States'
+p2990
+aVUnited States of America
+p2991
+ag2618
+ag2618
+aa(lp2992
+S'Martin Pfister'
+p2993
+aS'1994'
+p2994
+aS'Wing'
+p2995
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'2'
+aS'10'
+p2996
+aS'date unknown'
+p2997
+aS'g'
+aS'n'
+aS'i'
+aa(lp2998
+S'Francisco Garcia'
+p2999
+aS'1994'
+p3000
+aS'Centre'
+p3001
+aS'13'
+p3002
+aS'5'
+aS'8'
+aS'0'
+aS'2'
+aS'10'
+p3003
+aS'1970'
+p3004
+aVDanmark
+p3005
+aV1970
+p3006
+aVRegion Hovedstaden
+p3007
+aa(lp3008
+S'Jose Cilley'
+p3009
+aS'1994'
+p3010
+aS'Fly-half'
+p3011
+aS'15'
+p3012
+aS'6'
+aS'9'
+aS'0'
 aS'2'
 aS'138'
-p2974
-aVArgentina
-p2975
-aVCABA
-p2976
-aVComuna 6
-p2977
-aa(lp2978
-S'Diego Albanese'
-p2979
-aS'1995'
-p2980
-aS'Wing'
-p2981
-aS'Mar del Plata'
-p2982
-aS'55'
-p2983
-aS'24'
-p2984
-aS'10'
-p2985
-aS'50'
-p2986
-aVArgentina
-p2987
-aVBA
-p2988
-aVPartido de General Pueyrredón
-p2989
-aa(lp2990
-S'Nicolas Bossicovich'
-p2991
-aS'1995'
-p2992
-aS''
-aS'Rosario'
-p2993
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
-p2994
-aVS2000
-p2995
-aVSFE
-p2996
-aa(lp2997
-S'Omar Hasan Jalil'
-p2998
-aS'1995'
-p2999
-aS'Prop'
-p3000
-aS'Tucuman'
-p3001
-aS'65'
-p3002
-aS'34'
-p3003
-aS'4'
-aS'20'
-p3004
-aVArgentina
-p3005
-aVTucumán
-p3006
-ag2589
-aa(lp3007
-S'Martin Lerga'
-p3008
-aS'1995'
-p3009
-aS''
-aS'date unknown'
-p3010
-aS'5'
-aS'4'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3011
-S'Fernando del Castillo'
-p3012
-aS'1995'
 p3013
-aS'Centre'
-p3014
-aS'Rosario'
-p3015
-aS'6'
-aS'5'
-aS'0'
-aS'0'
-aVArgentina
-p3016
-aVS2000
-p3017
-aVSFE
-p3018
-aa(lp3019
-S'Agustin Pichot'
-p3020
-aS'1995'
-p3021
-aS'Scrum-half'
-p3022
 aS'Buenos Aires'
+p3014
+aVArgentina
+p3015
+aVCABA
+p3016
+aVComuna 6
+p3017
+aa(lp3018
+S'Diego Albanese'
+p3019
+aS'1995'
+p3020
+aS'Wing'
+p3021
+aS'55'
+p3022
+aS'24'
 p3023
-aS'71'
+aS'30'
 p3024
-aS'34'
+aS'1'
+aS'10'
 p3025
-aS'12'
+aS'50'
 p3026
-aS'60'
+aS'Mar del Plata'
 p3027
 aVArgentina
 p3028
-aVCABA
+aVBA
 p3029
-aVComuna 6
+aVPartido de General Pueyrredón
 p3030
 aa(lp3031
-S'Ezequiel Jurado'
+S'Nicolas Bossicovich'
 p3032
 aS'1995'
 p3033
-aS'Fullback'
-p3034
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Rosario'
+p3034
+aVArgentina
 p3035
-aS'28'
+aVS2000
 p3036
-aS'11'
+aVSFE
 p3037
+aa(lp3038
+S'Omar Hasan Jalil'
+p3039
+aS'1995'
+p3040
+aS'Prop'
+p3041
+aS'65'
+p3042
+aS'34'
+p3043
+aS'30'
+p3044
+aS'1'
+aS'4'
+aS'20'
+p3045
+aS'Tucuman'
+p3046
+aVArgentina
+p3047
+aVTucumán
+p3048
+ag2618
+aa(lp3049
+S'Martin Lerga'
+p3050
+aS'1995'
+p3051
+aS''
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3052
+aS'g'
+aS'n'
+aS'i'
+aa(lp3053
+S'Fernando del Castillo'
+p3054
+aS'1995'
+p3055
+aS'Centre'
+p3056
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Rosario'
+p3057
+aVArgentina
+p3058
+aVS2000
+p3059
+aVSFE
+p3060
+aa(lp3061
+S'Agustin Pichot'
+p3062
+aS'1995'
+p3063
+aS'Scrum-half'
+p3064
+aS'71'
+p3065
+aS'34'
+p3066
+aS'36'
+p3067
+aS'1'
+aS'12'
+p3068
+aS'60'
+p3069
+aS'Buenos Aires'
+p3070
+aVArgentina
+p3071
+aVCABA
+p3072
+aVComuna 6
+p3073
+aa(lp3074
+S'Ezequiel Jurado'
+p3075
+aS'1995'
+p3076
+aS'Fullback'
+p3077
+aS'28'
+p3078
+aS'11'
+p3079
+aS'16'
+p3080
+aS'1'
 aS'6'
 aS'30'
-p3038
+p3081
+aS'Rosario'
+p3082
 aVArgentina
-p3039
+p3083
 aVS2000
-p3040
+p3084
 aVSFE
-p3041
-aa(lp3042
+p3085
+aa(lp3086
 S'Jose Luna'
-p3043
+p3087
 aS'1995'
-p3044
+p3088
 aS'Wing'
-p3045
-aS'1971'
-p3046
+p3089
 aS'8'
 aS'7'
+aS'1'
+aS'0'
 aS'4'
 aS'129'
-p3047
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3048
-aV\u0421\u041a\u0424\u041e
-p3049
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3050
-aa(lp3051
-S'Omar Portillo'
-p3052
-aS'1995'
-p3053
-aS'Lock'
-p3054
-aS'date unknown'
-p3055
-aS'4'
-aS'4'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3056
-S'Martin Sugasti'
-p3057
-aS'1995'
-p3058
-aS''
-aS'1967'
-p3059
-aS'2'
-aS'2'
-aS'1'
-aS'5'
-aVDanmark
-p3060
-aV1967
-p3061
-aVRegion Hovedstaden
-p3062
-aa(lp3063
-S'Roberto Petti'
-p3064
-aS'1995'
-p3065
-aS''
-aS'date unknown'
-p3066
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3067
-S'Pablo Bouza'
-p3068
-aS'1996'
-p3069
-aS'Lock'
-p3070
-aS'Rosario'
-p3071
-aS'37'
-p3072
-aS'27'
-p3073
-aS'10'
-p3074
-aS'50'
-p3075
-aVArgentina
-p3076
-aVS2000
-p3077
-aVSFE
-p3078
-aa(lp3079
-S'Carlos Promanzio'
-p3080
-aS'1996'
-p3081
-aS'Hooker'
-p3082
-aS'1971'
-p3083
-aS'10'
-p3084
-aS'4'
-aS'1'
-aS'5'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3085
-aV\u0421\u041a\u0424\u041e
-p3086
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3087
-aa(lp3088
-S'Mauricio Reggiardo'
-p3089
-aS'1996'
 p3090
-aS'Prop'
+aS'1971'
 p3091
-aS'Bragado'
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p3092
-aS'50'
+aV\u0421\u041a\u0424\u041e
 p3093
-aS'23'
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p3094
-aS'3'
-aS'15'
-p3095
-aVArgentina
+aa(lp3095
+S'Omar Portillo'
 p3096
-aVBA
+aS'1995'
 p3097
-aVPartido de Bragado
+aS'Lock'
 p3098
-aa(lp3099
-S'Gustavo Rivero'
-p3100
-aS'1996'
-p3101
-aS'Prop'
-p3102
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
 aS'date unknown'
-p3103
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p3099
 aS'g'
 aS'n'
 aS'i'
-aa(lp3104
-S'Facundo Soler'
-p3105
-aS'1996'
-p3106
-aS'Fullback'
-p3107
-aS'Cordoba'
-p3108
-aS'25'
-p3109
-aS'12'
-p3110
-aS'18'
-p3111
-aS'90'
-p3112
-aVEspaña
-p3113
-aVAndalucía
-p3114
-aVCórdoba
-p3115
-aa(lp3116
-S'Julian Legora'
-p3117
-aS'1996'
-p3118
-aS'Centre'
-p3119
-aS'1973'
-p3120
-aS'6'
-aS'4'
+aa(lp3100
+S'Martin Sugasti'
+p3101
+aS'1995'
+p3102
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aS'1967'
+p3103
+aVDanmark
+p3104
+aV1967
+p3105
+aVRegion Hovedstaden
+p3106
+aa(lp3107
+S'Roberto Petti'
+p3108
+aS'1995'
+p3109
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3110
+aS'g'
+aS'n'
+aS'i'
+aa(lp3111
+S'Pablo Bouza'
+p3112
+aS'1996'
+p3113
+aS'Lock'
+p3114
+aS'37'
+p3115
+aS'27'
+p3116
+aS'10'
+p3117
+aS'0'
+aS'10'
+p3118
+aS'50'
+p3119
+aS'Rosario'
+p3120
+aVArgentina
 p3121
-aV\u0421\u041a\u0424\u041e
+aVS2000
 p3122
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aVSFE
 p3123
 aa(lp3124
-S'Octavio Bartolucci'
+S'Carlos Promanzio'
 p3125
 aS'1996'
 p3126
-aS'Wing'
-p3127
-aS'Rosario'
-p3128
-aS'20'
-p3129
-aS'11'
-p3130
-aS'9'
-aS'45'
-p3131
-aVArgentina
-p3132
-aVS2000
-p3133
-aVSFE
-p3134
-aa(lp3135
-S'Ignacio Fernandez Lobbe'
-p3136
-aS'1996'
-p3137
-aS'Lock'
-p3138
-aS'Buenos Aires'
-p3139
-aS'65'
-p3140
-aS'33'
-p3141
-aS'6'
-aS'30'
-p3142
-aVArgentina
-p3143
-aVCABA
-p3144
-aVComuna 6
-p3145
-aa(lp3146
-S'Leandro Lobrauco'
-p3147
-aS'1996'
-p3148
-aS'Scrum-half'
-p3149
-aS'Rosario'
-p3150
-aS'5'
-aS'4'
-aS'1'
-aS'9'
-aVArgentina
-p3151
-aVS2000
-p3152
-aVSFE
-p3153
-aa(lp3154
-S'Martin Palou'
-p3155
-aS'1996'
-p3156
-aS'Lock'
-p3157
-aS'1968'
-p3158
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3159
-aV\u0421\u041a\u0424\u041e
-p3160
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3161
-aa(lp3162
-S'Gonzalo Quesada'
-p3163
-aS'1996'
-p3164
-aS'Fly-half'
-p3165
-aS'Buenos Aires'
-p3166
-aS'38'
-p3167
-aS'19'
-p3168
-aS'4'
-aS'486'
-p3169
-aVArgentina
-p3170
-aVCABA
-p3171
-aVComuna 6
-p3172
-aa(lp3173
-S'Martin Scelzo'
-p3174
-aS'1996'
-p3175
-aS'Prop'
-p3176
-aS'Buenos Aires'
-p3177
-aS'59'
-p3178
-aS'34'
-p3179
-aS'10'
-p3180
-aS'50'
-p3181
-aVArgentina
-p3182
-aVCABA
-p3183
-aVComuna 6
-p3184
-aa(lp3185
-S'Eduardo Simone'
-p3186
-aS'1996'
-p3187
-aS'Centre'
-p3188
-aS'Buenos Aires'
-p3189
-aS'36'
-p3190
-aS'17'
-p3191
-aS'9'
-aS'45'
-p3192
-aVArgentina
-p3193
-aVCABA
-p3194
-aVComuna 6
-p3195
-aa(lp3196
-S'Roberto Travaglini'
-p3197
-aS'1996'
-p3198
-aS'Flanker'
-p3199
-aS'Buenos Aires'
-p3200
-aS'8'
-aS'6'
-aS'1'
-aS'5'
-aVArgentina
-p3201
-aVCABA
-p3202
-aVComuna 6
-p3203
-aa(lp3204
-S'Federico Werner'
-p3205
-aS'1996'
-p3206
-aS'Prop'
-p3207
-aS'1973'
-p3208
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3209
-aV\u0421\u041a\u0424\u041e
-p3210
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3211
-aa(lp3212
-S'Christian Barrea'
-p3213
-aS'1996'
-p3214
-aS'Scrum-half'
-p3215
-aS'1972'
-p3216
-aS'3'
-aS'2'
-aS'1'
-aS'5'
-aVDanmark
-p3217
-aV1972
-p3218
-aVRegion Hovedstaden
-p3219
-aa(lp3220
-S'Diego Giannantonio'
-p3221
-aS'1996'
-p3222
-aS'Centre'
-p3223
-aS'Buenos Aires'
-p3224
-aS'10'
-p3225
-aS'4'
-aS'3'
-aS'38'
-p3226
-aVArgentina
-p3227
-aVCABA
-p3228
-aVComuna 6
-p3229
-aa(lp3230
-S'Mario Ledesma Arocena'
-p3231
-aS'1996'
-p3232
 aS'Hooker'
-p3233
-aS'Buenos Aires'
-p3234
-aS'84'
-p3235
-aS'42'
-p3236
+p3127
+aS'10'
+p3128
+aS'4'
+aS'6'
+aS'0'
+aS'1'
+aS'5'
+aS'1971'
+p3129
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3130
+aV\u0421\u041a\u0424\u041e
+p3131
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3132
+aa(lp3133
+S'Mauricio Reggiardo'
+p3134
+aS'1996'
+p3135
+aS'Prop'
+p3136
+aS'50'
+p3137
+aS'23'
+p3138
+aS'27'
+p3139
+aS'0'
 aS'3'
 aS'15'
-p3237
+p3140
+aS'Bragado'
+p3141
 aVArgentina
-p3238
-aVCABA
-p3239
-aVComuna 6
-p3240
-aa(lp3241
-S'Jose Orengo'
-p3242
+p3142
+aVBA
+p3143
+aVPartido de Bragado
+p3144
+aa(lp3145
+S'Gustavo Rivero'
+p3146
 aS'1996'
-p3243
+p3147
+aS'Prop'
+p3148
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3149
+aS'g'
+aS'n'
+aS'i'
+aa(lp3150
+S'Facundo Soler'
+p3151
+aS'1996'
+p3152
+aS'Fullback'
+p3153
+aS'25'
+p3154
+aS'12'
+p3155
+aS'12'
+p3156
+aS'1'
+aS'18'
+p3157
+aS'90'
+p3158
+aS'Cordoba'
+p3159
+aVEspaña
+p3160
+aVAndalucía
+p3161
+aVCórdoba
+p3162
+aa(lp3163
+S'Julian Legora'
+p3164
+aS'1996'
+p3165
 aS'Centre'
-p3244
-aS'Rosario'
-p3245
-aS'36'
-p3246
-aS'17'
-p3247
+p3166
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'1973'
+p3167
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3168
+aV\u0421\u041a\u0424\u041e
+p3169
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3170
+aa(lp3171
+S'Octavio Bartolucci'
+p3172
+aS'1996'
+p3173
+aS'Wing'
+p3174
+aS'20'
+p3175
+aS'11'
+p3176
+aS'9'
+aS'0'
 aS'9'
 aS'45'
-p3248
+p3177
+aS'Rosario'
+p3178
 aVArgentina
-p3249
+p3179
 aVS2000
-p3250
+p3180
 aVSFE
-p3251
-aa(lp3252
-S'Tomas Solari'
-p3253
+p3181
+aa(lp3182
+S'Ignacio Fernandez Lobbe'
+p3183
 aS'1996'
+p3184
+aS'Lock'
+p3185
+aS'65'
+p3186
+aS'33'
+p3187
+aS'32'
+p3188
+aS'0'
+aS'6'
+aS'30'
+p3189
+aS'Buenos Aires'
+p3190
+aVArgentina
+p3191
+aVCABA
+p3192
+aVComuna 6
+p3193
+aa(lp3194
+S'Leandro Lobrauco'
+p3195
+aS'1996'
+p3196
+aS'Scrum-half'
+p3197
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'1'
+aS'9'
+aS'Rosario'
+p3198
+aVArgentina
+p3199
+aVS2000
+p3200
+aVSFE
+p3201
+aa(lp3202
+S'Martin Palou'
+p3203
+aS'1996'
+p3204
+aS'Lock'
+p3205
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1968'
+p3206
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3207
+aV\u0421\u041a\u0424\u041e
+p3208
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3209
+aa(lp3210
+S'Gonzalo Quesada'
+p3211
+aS'1996'
+p3212
+aS'Fly-half'
+p3213
+aS'38'
+p3214
+aS'19'
+p3215
+aS'19'
+p3216
+aS'0'
+aS'4'
+aS'486'
+p3217
+aS'Buenos Aires'
+p3218
+aVArgentina
+p3219
+aVCABA
+p3220
+aVComuna 6
+p3221
+aa(lp3222
+S'Martin Scelzo'
+p3223
+aS'1996'
+p3224
+aS'Prop'
+p3225
+aS'59'
+p3226
+aS'34'
+p3227
+aS'24'
+p3228
+aS'1'
+aS'10'
+p3229
+aS'50'
+p3230
+aS'Buenos Aires'
+p3231
+aVArgentina
+p3232
+aVCABA
+p3233
+aVComuna 6
+p3234
+aa(lp3235
+S'Eduardo Simone'
+p3236
+aS'1996'
+p3237
+aS'Centre'
+p3238
+aS'36'
+p3239
+aS'17'
+p3240
+aS'19'
+p3241
+aS'0'
+aS'9'
+aS'45'
+p3242
+aS'Buenos Aires'
+p3243
+aVArgentina
+p3244
+aVCABA
+p3245
+aVComuna 6
+p3246
+aa(lp3247
+S'Roberto Travaglini'
+p3248
+aS'1996'
+p3249
+aS'Flanker'
+p3250
+aS'8'
+aS'6'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p3251
+aVArgentina
+p3252
+aVCABA
+p3253
+aVComuna 6
 p3254
-aS'Wing'
-p3255
-aS'1976'
+aa(lp3255
+S'Federico Werner'
 p3256
+aS'1996'
+p3257
+aS'Prop'
+p3258
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1973'
+p3259
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3260
+aV\u0421\u041a\u0424\u041e
+p3261
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3262
+aa(lp3263
+S'Christian Barrea'
+p3264
+aS'1996'
+p3265
+aS'Scrum-half'
+p3266
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'1972'
+p3267
+aVDanmark
+p3268
+aV1972
+p3269
+aVRegion Hovedstaden
+p3270
+aa(lp3271
+S'Diego Giannantonio'
+p3272
+aS'1996'
+p3273
+aS'Centre'
+p3274
+aS'10'
+p3275
+aS'4'
+aS'5'
+aS'1'
+aS'3'
+aS'38'
+p3276
+aS'Buenos Aires'
+p3277
+aVArgentina
+p3278
+aVCABA
+p3279
+aVComuna 6
+p3280
+aa(lp3281
+S'Mario Ledesma Arocena'
+p3282
+aS'1996'
+p3283
+aS'Hooker'
+p3284
+aS'84'
+p3285
+aS'42'
+p3286
+aS'41'
+p3287
+aS'1'
+aS'3'
+aS'15'
+p3288
+aS'Buenos Aires'
+p3289
+aVArgentina
+p3290
+aVCABA
+p3291
+aVComuna 6
+p3292
+aa(lp3293
+S'Jose Orengo'
+p3294
+aS'1996'
+p3295
+aS'Centre'
+p3296
+aS'36'
+p3297
+aS'17'
+p3298
+aS'18'
+p3299
+aS'1'
+aS'9'
+aS'45'
+p3300
+aS'Rosario'
+p3301
+aVArgentina
+p3302
+aVS2000
+p3303
+aVSFE
+p3304
+aa(lp3305
+S'Tomas Solari'
+p3306
+aS'1996'
+p3307
+aS'Wing'
+p3308
 aS'7'
 aS'3'
 aS'4'
+aS'0'
+aS'4'
 aS'20'
-p3257
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3258
-aV\u0421\u041a\u0424\u041e
-p3259
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3260
-aa(lp3261
-S'German Aristide'
-p3262
-aS'1997'
-p3263
-aS'Centre'
-p3264
-aS'Rosario'
-p3265
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVArgentina
-p3266
-aVS2000
-p3267
-aVSFE
-p3268
-aa(lp3269
-S'Miguel Ruiz'
-p3270
-aS'1997'
-p3271
-aS'Back-row'
-p3272
-aS'Mendoza'
-p3273
-aS'24'
-p3274
-aS'12'
-p3275
-aS'2'
-aS'10'
-p3276
-aVArgentina
-p3277
-aVMZA
-p3278
-aVDepartamento Capital
-p3279
-aa(lp3280
-S'Alejandro Aguirre'
-p3281
-aS'1997'
-p3282
-aS'Lock'
-p3283
-aS'date unknown'
-p3284
-aS'2'
-aS'2'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3285
-S'Pablo Alexenicer'
-p3286
-aS'1997'
-p3287
-aS'Lock'
-p3288
-aS'date unknown'
-p3289
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3290
-S'Alejandro Allub'
-p3291
-aS'1997'
-p3292
-aS'Lock'
-p3293
-aS'Cordoba'
-p3294
-aS'29'
-p3295
-aS'10'
-p3296
-aS'1'
-aS'5'
-aVEspaña
-p3297
-aVAndalucía
-p3298
-aVCórdoba
-p3299
-aa(lp3300
-S'Matias Brandi'
-p3301
-aS'1997'
-p3302
-aS'Fullback'
-p3303
-aS'date unknown'
-p3304
-aS'5'
-aS'5'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3305
-S'Marcelo Carmona'
-p3306
-aS'1997'
-p3307
-aS'Flanker'
-p3308
-aS'date unknown'
 p3309
-aS'2'
-aS'2'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3310
-S'Diego Gomez Coll'
+aS'1976'
+p3310
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p3311
-aS'1997'
+aV\u0421\u041a\u0424\u041e
 p3312
-aS'Centre'
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p3313
-aS'date unknown'
-p3314
-aS'1'
-aS'1'
-aS'3'
-aS'15'
+aa(lp3314
+S'German Aristide'
 p3315
-aS'g'
-aS'n'
-aS'i'
-aa(lp3316
-S'Agustin Lopresti'
+aS'1997'
+p3316
+aS'Centre'
 p3317
-aS'1997'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Rosario'
 p3318
-aS'Hooker, Prop'
-p3319
-aS'Salta'
-p3320
-aS'2'
-aS'2'
-aS'1'
-aS'5'
 aVArgentina
+p3319
+aVS2000
+p3320
+aVSFE
 p3321
-aVSalta
-p3322
-ag2589
-aa(lp3323
-S'Juan Meabe'
+aa(lp3322
+S'Miguel Ruiz'
+p3323
+aS'1997'
 p3324
-aS'1997'
+aS'Back-row'
 p3325
-aS'Flanker'
+aS'24'
 p3326
-aS'date unknown'
+aS'12'
 p3327
+aS'11'
+p3328
 aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3328
-S'Facundo Rave'
+aS'2'
+aS'10'
 p3329
-aS'1997'
+aS'Mendoza'
 p3330
-aS'Wing'
+aVArgentina
 p3331
-aS'date unknown'
+aVMZA
 p3332
-aS'1'
-aS'1'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3333
-S'Damian Rotondo'
-p3334
-aS'1997'
+aVDepartamento Capital
+p3333
+aa(lp3334
+S'Alejandro Aguirre'
 p3335
-aS'Flanker'
+aS'1997'
 p3336
-aS'date unknown'
+aS'Lock'
 p3337
 aS'2'
 aS'2'
-aS'3'
-aS'15'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'date unknown'
 p3338
 aS'g'
 aS'n'
 aS'i'
 aa(lp3339
-S'Gustavo Veron'
+S'Pablo Alexenicer'
 p3340
 aS'1997'
 p3341
-aS'Wing'
+aS'Lock'
 p3342
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p3343
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp3344
-S'Raul Cano'
+S'Alejandro Allub'
 p3345
 aS'1997'
 p3346
-aS''
-aS'date unknown'
+aS'Lock'
 p3347
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3348
-S'Manuel Diaz'
-p3349
-aS'1997'
-p3350
-aS'Scrum-half'
-p3351
-aS'La Prida'
-p3352
-aS'5'
-aS'4'
-aS'2'
-aS'10'
-p3353
-aVEspaña
-p3354
-aVPrincipado de Asturias
-p3355
-aVLlanes
-p3356
-aa(lp3357
-S'Andres Irigoyen'
-p3358
-aS'1997'
-p3359
-aS''
-aS'date unknown'
-p3360
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3361
-S'Fernando Diaz Alberdi'
-p3362
-aS'1997'
-p3363
-aS'Prop'
-p3364
-aS'Buenos Aires'
-p3365
-aS'5'
-aS'2'
-aS'1'
-aS'5'
-aVArgentina
-p3366
-aVCABA
-p3367
-aVComuna 6
-p3368
-aa(lp3369
-S'Juan Fernandez Miranda'
-p3370
-aS'1997'
-p3371
-aS'Fly-half'
-p3372
-aS'Buenos Aires'
-p3373
 aS'29'
-p3374
-aS'22'
-p3375
+p3348
+aS'10'
+p3349
+aS'18'
+p3350
+aS'1'
+aS'1'
 aS'5'
-aS'158'
-p3376
-aVArgentina
-p3377
-aVCABA
-p3378
-aVComuna 6
-p3379
-aa(lp3380
-S'Santiago Phelan'
-p3381
+aS'Cordoba'
+p3351
+aVEspaña
+p3352
+aVAndalucía
+p3353
+aVCórdoba
+p3354
+aa(lp3355
+S'Matias Brandi'
+p3356
 aS'1997'
-p3382
+p3357
+aS'Fullback'
+p3358
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'date unknown'
+p3359
+aS'g'
+aS'n'
+aS'i'
+aa(lp3360
+S'Marcelo Carmona'
+p3361
+aS'1997'
+p3362
 aS'Flanker'
-p3383
-aS'San Isidro'
+p3363
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'date unknown'
+p3364
+aS'g'
+aS'n'
+aS'i'
+aa(lp3365
+S'Diego Gomez Coll'
+p3366
+aS'1997'
+p3367
+aS'Centre'
+p3368
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'3'
+aS'15'
+p3369
+aS'date unknown'
+p3370
+aS'g'
+aS'n'
+aS'i'
+aa(lp3371
+S'Agustin Lopresti'
+p3372
+aS'1997'
+p3373
+aS'Hooker, Prop'
+p3374
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Salta'
+p3375
+aVArgentina
+p3376
+aVSalta
+p3377
+ag2618
+aa(lp3378
+S'Juan Meabe'
+p3379
+aS'1997'
+p3380
+aS'Flanker'
+p3381
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3382
+aS'g'
+aS'n'
+aS'i'
+aa(lp3383
+S'Facundo Rave'
 p3384
-aS'45'
+aS'1997'
 p3385
-aS'26'
+aS'Wing'
 p3386
 aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
 aS'5'
-aVPhilippines
-p3387
-aV8421
-p3388
-aVCaraga
-p3389
-aa(lp3390
-S'Camilo Boffelli'
-p3391
-aS'1997'
-p3392
-aS'Flanker'
-p3393
 aS'date unknown'
-p3394
+p3387
+aS'g'
+aS'n'
+aS'i'
+aa(lp3388
+S'Damian Rotondo'
+p3389
+aS'1997'
+p3390
+aS'Flanker'
+p3391
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'3'
+aS'15'
+p3392
+aS'date unknown'
+p3393
+aS'g'
+aS'n'
+aS'i'
+aa(lp3394
+S'Gustavo Veron'
+p3395
+aS'1997'
+p3396
+aS'Wing'
+p3397
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3398
+aS'g'
+aS'n'
+aS'i'
+aa(lp3399
+S'Raul Cano'
+p3400
+aS'1997'
+p3401
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3402
+aS'g'
+aS'n'
+aS'i'
+aa(lp3403
+S'Manuel Diaz'
+p3404
+aS'1997'
+p3405
+aS'Scrum-half'
+p3406
 aS'5'
-aS'5'
+aS'4'
+aS'1'
+aS'0'
 aS'2'
 aS'10'
-p3395
-aS'g'
-aS'n'
-aS'i'
-aa(lp3396
-S'Hugo Cespedes'
-p3397
-aS'1997'
-p3398
-aS'Prop'
-p3399
-aS'date unknown'
-p3400
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3401
-S'Guillermo Bernardi'
-p3402
-aS'1997'
-p3403
-aS''
-aS'date unknown'
-p3404
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3405
-S'Martin Durand'
-p3406
-aS'1997'
 p3407
-aS'Flanker'
+aS'La Prida'
 p3408
-aS'Buenos Aires'
+aVEspaña
 p3409
-aS'60'
+aVPrincipado de Asturias
 p3410
-aS'38'
+aVLlanes
 p3411
-aS'9'
-aS'45'
-p3412
-aVArgentina
+aa(lp3412
+S'Andres Irigoyen'
 p3413
-aVCABA
+aS'1997'
 p3414
-aVComuna 6
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p3415
+aS'g'
+aS'n'
+aS'i'
 aa(lp3416
-S'Leonardo Gravano'
+S'Fernando Diaz Alberdi'
 p3417
 aS'1997'
 p3418
-aS'Fullback'
+aS'Prop'
 p3419
-aS'date unknown'
-p3420
+aS'5'
+aS'2'
 aS'3'
-aS'3'
+aS'0'
 aS'1'
 aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3421
-S'Emiliano Mulieri'
+aS'Buenos Aires'
+p3420
+aVArgentina
+p3421
+aVCABA
 p3422
-aS'1997'
+aVComuna 6
 p3423
-aS'Fullback, Wing'
-p3424
-aS'Mar del Plata'
+aa(lp3424
+S'Juan Fernandez Miranda'
 p3425
+aS'1997'
+p3426
+aS'Fly-half'
+p3427
+aS'29'
+p3428
+aS'22'
+p3429
+aS'6'
+aS'1'
+aS'5'
+aS'158'
+p3430
+aS'Buenos Aires'
+p3431
+aVArgentina
+p3432
+aVCABA
+p3433
+aVComuna 6
+p3434
+aa(lp3435
+S'Santiago Phelan'
+p3436
+aS'1997'
+p3437
+aS'Flanker'
+p3438
+aS'45'
+p3439
+aS'26'
+p3440
+aS'18'
+p3441
 aS'1'
 aS'1'
+aS'5'
+aS'San Isidro'
+p3442
+aVPhilippines
+p3443
+aV8421
+p3444
+aVCaraga
+p3445
+aa(lp3446
+S'Camilo Boffelli'
+p3447
+aS'1997'
+p3448
+aS'Flanker'
+p3449
+aS'5'
+aS'5'
+aS'0'
+aS'0'
 aS'2'
 aS'10'
-p3426
-aVArgentina
-p3427
-aVBA
-p3428
-aVPartido de General Pueyrredón
-p3429
-aa(lp3430
-S'Gaston Nazassi'
-p3431
-aS'1997'
-p3432
-aS''
-aS'date unknown'
-p3433
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3434
-S'Nicolas Gomez'
-p3435
-aS'1997'
-p3436
-aS''
-aS'date unknown'
-p3437
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3438
-S'Federico Todeschini'
-p3439
-aS'1998'
-p3440
-aS'Fly-half, Fullback'
-p3441
-aS'Rosario'
-p3442
-aS'21'
-p3443
-aS'16'
-p3444
-aS'4'
-aS'256'
-p3445
-aVArgentina
-p3446
-aVS2000
-p3447
-aVSFE
-p3448
-aa(lp3449
-S'Manuel Contepomi'
 p3450
-aS'1998'
+aS'date unknown'
 p3451
-aS'Centre'
-p3452
-aS'Buenos Aires'
+aS'g'
+aS'n'
+aS'i'
+aa(lp3452
+S'Hugo Cespedes'
 p3453
-aS'38'
+aS'1997'
 p3454
-aS'23'
+aS'Prop'
 p3455
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3456
+aS'g'
+aS'n'
+aS'i'
+aa(lp3457
+S'Guillermo Bernardi'
+p3458
+aS'1997'
+p3459
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3460
+aS'g'
+aS'n'
+aS'i'
+aa(lp3461
+S'Martin Durand'
+p3462
+aS'1997'
+p3463
+aS'Flanker'
+p3464
+aS'60'
+p3465
+aS'38'
+p3466
+aS'22'
+p3467
+aS'0'
 aS'9'
 aS'45'
-p3456
-aVArgentina
-p3457
-aVCABA
-p3458
-aVComuna 6
-p3459
-aa(lp3460
-S'Gabriel Bocca'
-p3461
-aS'1998'
-p3462
-aS'Prop'
-p3463
+p3468
 aS'Buenos Aires'
-p3464
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVArgentina
-p3465
-aVCABA
-p3466
-aVComuna 6
-p3467
-aa(lp3468
-S'Ignacio Corleto'
 p3469
-aS'1998'
-p3470
-aS'Fullback'
-p3471
-aS'Buenos Aires'
-p3472
-aS'37'
-p3473
-aS'19'
-p3474
-aS'14'
-p3475
-aS'73'
-p3476
 aVArgentina
-p3477
+p3470
 aVCABA
-p3478
+p3471
 aVComuna 6
-p3479
-aa(lp3480
-S'Patricio Fuselli'
-p3481
-aS'1998'
-p3482
-aS'Fly-half'
-p3483
-aS'date unknown'
-p3484
-aS'2'
-aS'1'
+p3472
+aa(lp3473
+S'Leonardo Gravano'
+p3474
+aS'1997'
+p3475
+aS'Fullback'
+p3476
+aS'3'
+aS'3'
 aS'0'
-aS'10'
-p3485
+aS'0'
+aS'1'
+aS'5'
+aS'date unknown'
+p3477
 aS'g'
 aS'n'
 aS'i'
-aa(lp3486
-S'Pablo Garcia Hamilton'
-p3487
-aS'1998'
-p3488
-aS'Wing'
-p3489
-aS'date unknown'
-p3490
-aS'2'
+aa(lp3478
+S'Emiliano Mulieri'
+p3479
+aS'1997'
+p3480
+aS'Fullback, Wing'
+p3481
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'2'
+aS'10'
+p3482
+aS'Mar del Plata'
+p3483
+aVArgentina
+p3484
+aVBA
+p3485
+aVPartido de General Pueyrredón
+p3486
+aa(lp3487
+S'Gaston Nazassi'
+p3488
+aS'1997'
+p3489
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3490
 aS'g'
 aS'n'
 aS'i'
 aa(lp3491
-S'Rodrigo Roncero'
+S'Nicolas Gomez'
 p3492
-aS'1998'
+aS'1997'
 p3493
-aS'Prop'
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p3494
-aS'Buenos Aires'
-p3495
-aS'55'
+aS'g'
+aS'n'
+aS'i'
+aa(lp3495
+S'Federico Todeschini'
 p3496
-aS'26'
+aS'1998'
 p3497
+aS'Fly-half, Fullback'
+p3498
+aS'21'
+p3499
+aS'16'
+p3500
+aS'5'
+aS'0'
+aS'4'
+aS'256'
+p3501
+aS'Rosario'
+p3502
+aVArgentina
+p3503
+aVS2000
+p3504
+aVSFE
+p3505
+aa(lp3506
+S'Manuel Contepomi'
+p3507
+aS'1998'
+p3508
+aS'Centre'
+p3509
+aS'38'
+p3510
+aS'23'
+p3511
+aS'15'
+p3512
+aS'0'
+aS'9'
+aS'45'
+p3513
+aS'Buenos Aires'
+p3514
+aVArgentina
+p3515
+aVCABA
+p3516
+aVComuna 6
+p3517
+aa(lp3518
+S'Gabriel Bocca'
+p3519
+aS'1998'
+p3520
+aS'Prop'
+p3521
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p3522
+aVArgentina
+p3523
+aVCABA
+p3524
+aVComuna 6
+p3525
+aa(lp3526
+S'Ignacio Corleto'
+p3527
+aS'1998'
+p3528
+aS'Fullback'
+p3529
+aS'37'
+p3530
+aS'19'
+p3531
+aS'18'
+p3532
+aS'0'
+aS'14'
+p3533
+aS'73'
+p3534
+aS'Buenos Aires'
+p3535
+aVArgentina
+p3536
+aVCABA
+p3537
+aVComuna 6
+p3538
+aa(lp3539
+S'Patricio Fuselli'
+p3540
+aS'1998'
+p3541
+aS'Fly-half'
+p3542
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'10'
+p3543
+aS'date unknown'
+p3544
+aS'g'
+aS'n'
+aS'i'
+aa(lp3545
+S'Pablo Garcia Hamilton'
+p3546
+aS'1998'
+p3547
+aS'Wing'
+p3548
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3549
+aS'g'
+aS'n'
+aS'i'
+aa(lp3550
+S'Rodrigo Roncero'
+p3551
+aS'1998'
+p3552
+aS'Prop'
+p3553
+aS'55'
+p3554
+aS'26'
+p3555
+aS'28'
+p3556
+aS'1'
 aS'6'
 aS'30'
-p3498
+p3557
+aS'Buenos Aires'
+p3558
 aVArgentina
-p3499
+p3559
 aVCABA
-p3500
+p3560
 aVComuna 6
-p3501
-aa(lp3502
+p3561
+aa(lp3562
 S'Rafael Silva'
-p3503
+p3563
 aS'1998'
-p3504
+p3564
 aS'Flanker'
-p3505
-aS'date unknown'
-p3506
+p3565
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p3566
 aS'g'
 aS'n'
 aS'i'
-aa(lp3507
+aa(lp3567
 S'Bernardo Stortoni'
-p3508
+p3568
 aS'1998'
-p3509
+p3569
 aS'Fullback'
-p3510
-aS'Bahia Blanca'
-p3511
+p3570
 aS'26'
-p3512
+p3571
 aS'17'
-p3513
+p3572
+aS'9'
+aS'0'
 aS'10'
-p3514
+p3573
 aS'50'
-p3515
+p3574
+aS'Bahia Blanca'
+p3575
 aVArgentina
-p3516
+p3576
 aVBA
-p3517
+p3577
 aVPartido de Bahía Blanca
-p3518
-aa(lp3519
+p3578
+aa(lp3579
 S'Daniel Villen'
-p3520
+p3580
 aS'1998'
-p3521
+p3581
 aS'Fullback'
-p3522
-aS'date unknown'
-p3523
+p3582
 aS'2'
 aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p3583
 aS'g'
 aS'n'
 aS'i'
-aa(lp3524
+aa(lp3584
 S'Arturo Mimesi'
-p3525
+p3585
 aS'1998'
-p3526
+p3586
 aS'Lock'
-p3527
-aS'date unknown'
-p3528
+p3587
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p3588
 aS'g'
 aS'n'
 aS'i'
-aa(lp3529
+aa(lp3589
 S'Damian Rodriguez'
-p3530
+p3590
 aS'1998'
-p3531
+p3591
 aS'Prop'
-p3532
-aS'date unknown'
-p3533
+p3592
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p3593
 aS'g'
 aS'n'
 aS'i'
-aa(lp3534
+aa(lp3594
 S'Patricio Grande'
-p3535
+p3595
 aS'1998'
-p3536
+p3596
 aS'Wing'
-p3537
-aS'1972'
-p3538
+p3597
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'6'
 aS'30'
-p3539
+p3598
+aS'1972'
+p3599
 aVDanmark
-p3540
+p3600
 aV1972
-p3541
+p3601
 aVRegion Hovedstaden
-p3542
-aa(lp3543
+p3602
+aa(lp3603
 S'Matias Lamas'
-p3544
+p3604
 aS'1998'
-p3545
+p3605
 aS'Hooker'
-p3546
+p3606
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p3547
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+p3607
 aS'g'
 aS'n'
 aS'i'
-aa(lp3548
+aa(lp3608
 S'Martin Molina'
-p3549
+p3609
 aS'1998'
-p3550
+p3610
 aS'Centre'
-p3551
-aS'date unknown'
-p3552
+p3611
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'12'
-p3553
+p3612
+aS'date unknown'
+p3613
 aS'g'
 aS'n'
 aS'i'
-aa(lp3554
+aa(lp3614
 S'Christian Ohanian'
-p3555
+p3615
 aS'1998'
-p3556
+p3616
 aS'No. 8'
-p3557
-aS'date unknown'
-p3558
+p3617
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p3618
 aS'g'
 aS'n'
 aS'i'
-aa(lp3559
+aa(lp3619
 S'Jose Altube'
-p3560
+p3620
 aS'1998'
-p3561
+p3621
 aS'Fly-half'
-p3562
-aS'date unknown'
-p3563
+p3622
 aS'3'
 aS'3'
 aS'0'
+aS'0'
+aS'0'
 aS'9'
+aS'date unknown'
+p3623
 aS'g'
 aS'n'
 aS'i'
-aa(lp3564
+aa(lp3624
 S'Rimas Alvarez Kairelis'
-p3565
+p3625
 aS'1998'
-p3566
+p3626
 aS'Lock'
-p3567
-aS'Quilmes'
-p3568
+p3627
 aS'44'
-p3569
+p3628
 aS'30'
-p3570
+p3629
+aS'14'
+p3630
+aS'0'
 aS'3'
 aS'15'
-p3571
-aVArgentina
-p3572
-aVBA
-p3573
-aVPartido de Quilmes
-p3574
-aa(lp3575
-S'Julio Garcia'
-p3576
-aS'1998'
-p3577
-aS'Prop'
-p3578
-aS'Cordoba'
-p3579
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVEspaña
-p3580
-aVAndalucía
-p3581
-aVCórdoba
-p3582
-aa(lp3583
-S'Alejandro Moreno'
-p3584
-aS'1998'
-p3585
-aS'Prop'
-p3586
-aS'Buenos Aires'
-p3587
-aS'8'
-aS'4'
-aS'0'
-aS'0'
-aVArgentina
-p3588
-aVCABA
-p3589
-aVComuna 6
-p3590
-aa(lp3591
-S'Eduardo Zapiola'
-p3592
-aS'1998'
-p3593
-aS''
-aS'date unknown'
-p3594
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3595
-S'Julio Brolese'
-p3596
-aS'1998'
-p3597
-aS'Flanker'
-p3598
-aS'date unknown'
-p3599
-aS'2'
-aS'2'
-aS'2'
-aS'10'
-p3600
-aS'g'
-aS'n'
-aS'i'
-aa(lp3601
-S'Felipe Contepomi'
-p3602
-aS'1998'
-p3603
-aS'Fly-half'
-p3604
-aS'Buenos Aires'
-p3605
-aS'87'
-p3606
-aS'42'
-p3607
-aS'16'
-p3608
-aS'651'
-p3609
-aVArgentina
-p3610
-aVCABA
-p3611
-aVComuna 6
-p3612
-aa(lp3613
-S'Gerardo Lazcano Miranda'
-p3614
-aS'1998'
-p3615
-aS'Lock'
-p3616
-aS'date unknown'
-p3617
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3618
-S'Ernesto Naveyra'
-p3619
-aS'1998'
-p3620
-aS''
-aS'date unknown'
-p3621
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3622
-S'Matias Peri Brusa'
-p3623
-aS'1998'
-p3624
-aS''
-aS'date unknown'
-p3625
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3626
-S'Martin Gaitan'
-p3627
-aS'1998'
-p3628
-aS'Centre'
-p3629
-aS'Parana'
-p3630
-aS'10'
 p3631
-aS'9'
-aS'8'
-aS'40'
+aS'Quilmes'
 p3632
-aVBrasil
+aVArgentina
 p3633
-aVRegião Nordeste
+aVBA
 p3634
-aVPE
+aVPartido de Quilmes
 p3635
 aa(lp3636
-S'Gonzalo Longo Elia'
+S'Julio Garcia'
 p3637
-aS'1999'
+aS'1998'
 p3638
-aS'No. 8'
+aS'Prop'
 p3639
-aS'San Isidro'
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cordoba'
 p3640
-aS'51'
+aVEspaña
 p3641
-aS'24'
+aVAndalucía
 p3642
-aS'5'
-aS'25'
+aVCórdoba
 p3643
-aVPhilippines
-p3644
-aV8421
+aa(lp3644
+S'Alejandro Moreno'
 p3645
-aVCaraga
+aS'1998'
 p3646
-aa(lp3647
-S'Lucas Ostiglia'
+aS'Prop'
+p3647
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
 p3648
-aS'1999'
+aVArgentina
 p3649
-aS'Flanker'
+aVCABA
 p3650
-aS'Buenos Aires'
+aVComuna 6
 p3651
-aS'32'
-p3652
-aS'17'
+aa(lp3652
+S'Eduardo Zapiola'
 p3653
-aS'3'
-aS'15'
+aS'1998'
 p3654
-aVArgentina
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p3655
-aVCABA
-p3656
-aVComuna 6
+aS'g'
+aS'n'
+aS'i'
+aa(lp3656
+S'Julio Brolese'
 p3657
-aa(lp3658
-S'Agustin Canalda'
-p3659
-aS'1999'
-p3660
-aS'Hooker'
-p3661
-aS'Buenos Aires'
-p3662
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVArgentina
-p3663
-aVCABA
-p3664
-aVComuna 6
-p3665
-aa(lp3666
-S'Hugo Dande'
-p3667
-aS'2001'
-p3668
+aS'1998'
+p3658
 aS'Flanker'
-p3669
-aS'Tucuman'
-p3670
-aS'4'
-aS'4'
+p3659
+aS'2'
+aS'2'
+aS'0'
+aS'0'
 aS'2'
 aS'10'
+p3660
+aS'date unknown'
+p3661
+aS'g'
+aS'n'
+aS'i'
+aa(lp3662
+S'Felipe Contepomi'
+p3663
+aS'1998'
+p3664
+aS'Fly-half'
+p3665
+aS'87'
+p3666
+aS'42'
+p3667
+aS'45'
+p3668
+aS'0'
+aS'16'
+p3669
+aS'651'
+p3670
+aS'Buenos Aires'
 p3671
 aVArgentina
 p3672
-aVTucumán
-p3673
-ag2589
-aa(lp3674
-S'Leopoldo de Chazal'
-p3675
-aS'2001'
-p3676
-aS'Prop'
-p3677
-aS'Tucuman'
-p3678
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
-p3679
-aVTucumán
-p3680
-ag2589
-aa(lp3681
-S'Santiago Gonzalez Bonorino'
-p3682
-aS'2001'
-p3683
-aS'Prop'
-p3684
-aS'Buenos Aires'
-p3685
-aS'15'
-p3686
-aS'12'
-p3687
-aS'0'
-aS'0'
-aVArgentina
-p3688
 aVCABA
-p3689
+p3673
 aVComuna 6
-p3690
-aa(lp3691
-S'Gustavo Morlaes Oliver'
-p3692
-aS'2001'
-p3693
+p3674
+aa(lp3675
+S'Gerardo Lazcano Miranda'
+p3676
+aS'1998'
+p3677
 aS'Lock'
-p3694
+p3678
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p3695
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p3679
 aS'g'
 aS'n'
 aS'i'
-aa(lp3696
-S'Jose Nunez Piossek'
-p3697
-aS'2001'
-p3698
-aS'Wing, Centre'
-p3699
-aS'Tucuman'
-p3700
-aS'28'
-p3701
-aS'18'
-p3702
-aS'29'
-p3703
-aS'145'
-p3704
-aVArgentina
-p3705
-aVTucumán
-p3706
-ag2589
-aa(lp3707
-S'Leonardo Roldan'
-p3708
-aS'2001'
-p3709
-aS'Lock'
-p3710
-aS'Rosario'
-p3711
-aS'2'
-aS'2'
+aa(lp3680
+S'Ernesto Naveyra'
+p3681
+aS'1998'
+p3682
+aS''
 aS'1'
-aS'5'
-aVArgentina
-p3712
-aVS2000
-p3713
-aVSFE
-p3714
-aa(lp3715
-S'Juan Jose Villar'
-p3716
-aS'2001'
-p3717
-aS'Hooker'
-p3718
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p3719
-aS'5'
-aS'5'
-aS'0'
-aS'0'
+p3683
 aS'g'
 aS'n'
 aS'i'
-aa(lp3720
-S'Matias Albina'
-p3721
-aS'2001'
-p3722
-aS'Scrum-half'
-p3723
-aS'La Plata'
-p3724
+aa(lp3684
+S'Matias Peri Brusa'
+p3685
+aS'1998'
+p3686
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3687
+aS'g'
+aS'n'
+aS'i'
+aa(lp3688
+S'Martin Gaitan'
+p3689
+aS'1998'
+p3690
+aS'Centre'
+p3691
 aS'10'
-p3725
+p3692
 aS'9'
-aS'4'
-aS'20'
+aS'1'
+aS'0'
+aS'8'
+aS'40'
+p3693
+aS'Parana'
+p3694
+aVBrasil
+p3695
+aVRegião Nordeste
+p3696
+aVPE
+p3697
+aa(lp3698
+S'Gonzalo Longo Elia'
+p3699
+aS'1999'
+p3700
+aS'No. 8'
+p3701
+aS'51'
+p3702
+aS'24'
+p3703
+aS'27'
+p3704
+aS'0'
+aS'5'
+aS'25'
+p3705
+aS'San Isidro'
+p3706
+aVPhilippines
+p3707
+aV8421
+p3708
+aVCaraga
+p3709
+aa(lp3710
+S'Lucas Ostiglia'
+p3711
+aS'1999'
+p3712
+aS'Flanker'
+p3713
+aS'32'
+p3714
+aS'17'
+p3715
+aS'15'
+p3716
+aS'0'
+aS'3'
+aS'15'
+p3717
+aS'Buenos Aires'
+p3718
+aVArgentina
+p3719
+aVCABA
+p3720
+aVComuna 6
+p3721
+aa(lp3722
+S'Agustin Canalda'
+p3723
+aS'1999'
+p3724
+aS'Hooker'
+p3725
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
 p3726
 aVArgentina
 p3727
-aVBA
+aVCABA
 p3728
-aVPartido de La Plata
+aVComuna 6
 p3729
 aa(lp3730
-S'Francisco Leonelli Morey'
+S'Hugo Dande'
 p3731
 aS'2001'
 p3732
-aS'Wing, Fullback'
+aS'Flanker'
 p3733
-aS'Bolivia'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'2'
+aS'10'
 p3734
-aS'16'
+aS'Tucuman'
 p3735
-aS'13'
+aVArgentina
 p3736
-aS'8'
-aS'40'
+aVTucumán
 p3737
-aVBolivia
-p3738
-ag2589
-ag2589
-aa(lp3739
-S'Mariano Sambucetti'
+ag2618
+aa(lp3738
+S'Leopoldo de Chazal'
+p3739
+aS'2001'
 p3740
-aS'2001'
+aS'Prop'
 p3741
-aS'Lock'
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Tucuman'
 p3742
-aS'Buenos Aires'
+aVArgentina
 p3743
-aS'11'
+aVTucumán
 p3744
-aS'9'
-aS'3'
-aS'15'
-p3745
-aVArgentina
+ag2618
+aa(lp3745
+S'Santiago Gonzalez Bonorino'
 p3746
-aVCABA
+aS'2001'
 p3747
-aVComuna 6
+aS'Prop'
 p3748
-aa(lp3749
-S'Emiliano Bergamaschi'
+aS'15'
+p3749
+aS'12'
 p3750
-aS'2001'
-p3751
-aS'Prop'
-p3752
-aS'Rosario'
-p3753
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVArgentina
-p3754
-aVS2000
-p3755
-aVSFE
-p3756
-aa(lp3757
-S'Pablo Cardinali'
-p3758
-aS'2001'
-p3759
-aS'Prop'
-p3760
-aS'La Plata'
-p3761
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aVArgentina
-p3762
-aVBA
-p3763
-aVPartido de La Plata
-p3764
-aa(lp3765
-S'Daniel Rodriguez'
-p3766
-aS'2002'
-p3767
-aS'Prop'
-p3768
-aS'Cordoba'
-p3769
-aS'3'
 aS'3'
 aS'0'
 aS'0'
-aVEspaña
-p3770
-aVAndalucía
-p3771
-aVCórdoba
-p3772
-aa(lp3773
-S'Hernan Senillosa'
-p3774
-aS'2002'
-p3775
-aS'Wing, Centre'
-p3776
+aS'0'
 aS'Buenos Aires'
-p3777
-aS'33'
-p3778
-aS'27'
-p3779
-aS'17'
-p3780
-aS'128'
-p3781
+p3751
 aVArgentina
-p3782
+p3752
 aVCABA
-p3783
+p3753
 aVComuna 6
-p3784
-aa(lp3785
-S'Alfonso Amuchastegui'
-p3786
-aS'2002'
-p3787
-aS'No. 8'
-p3788
-aS'Rosario'
-p3789
+p3754
+aa(lp3755
+S'Gustavo Morlaes Oliver'
+p3756
+aS'2001'
+p3757
+aS'Lock'
+p3758
 aS'3'
 aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3759
+aS'g'
+aS'n'
+aS'i'
+aa(lp3760
+S'Jose Nunez Piossek'
+p3761
+aS'2001'
+p3762
+aS'Wing, Centre'
+p3763
+aS'28'
+p3764
+aS'18'
+p3765
+aS'10'
+p3766
+aS'0'
+aS'29'
+p3767
+aS'145'
+p3768
+aS'Tucuman'
+p3769
 aVArgentina
-p3790
-aVS2000
-p3791
-aVSFE
-p3792
-aa(lp3793
-S'Maximiliano Nannini'
-p3794
-aS'2002'
-p3795
-aS'Centre'
-p3796
+p3770
+aVTucumán
+p3771
+ag2618
+aa(lp3772
+S'Leonardo Roldan'
+p3773
+aS'2001'
+p3774
+aS'Lock'
+p3775
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
 aS'Rosario'
-p3797
+p3776
+aVArgentina
+p3777
+aVS2000
+p3778
+aVSFE
+p3779
+aa(lp3780
+S'Juan Jose Villar'
+p3781
+aS'2001'
+p3782
+aS'Hooker'
+p3783
 aS'5'
 aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3784
+aS'g'
+aS'n'
+aS'i'
+aa(lp3785
+S'Matias Albina'
+p3786
+aS'2001'
+p3787
+aS'Scrum-half'
+p3788
+aS'10'
+p3789
+aS'9'
+aS'1'
+aS'0'
 aS'4'
 aS'20'
-p3798
-aVArgentina
-p3799
-aVS2000
-p3800
-aVSFE
-p3801
-aa(lp3802
-S'Juan Cruz Legora'
-p3803
-aS'2002'
-p3804
-aS'Scrum-half'
-p3805
-aS'Cordoba'
-p3806
-aS'2'
-aS'2'
-aS'1'
-aS'5'
-aVEspaña
-p3807
-aVAndalucía
-p3808
-aVCórdoba
-p3809
-aa(lp3810
-S'Patricio Albacete'
-p3811
-aS'2003'
-p3812
-aS'Lock'
-p3813
-aS'Buenos Aires'
-p3814
-aS'57'
-p3815
-aS'24'
-p3816
-aS'1'
-aS'5'
-aVArgentina
-p3817
-aVCABA
-p3818
-aVComuna 6
-p3819
-aa(lp3820
-S'Lucas Borges'
-p3821
-aS'2003'
-p3822
-aS'Wing'
-p3823
-aS'Buenos Aires'
-p3824
-aS'32'
-p3825
-aS'19'
-p3826
-aS'14'
-p3827
-aS'70'
-p3828
-aVArgentina
-p3829
-aVCABA
-p3830
-aVComuna 6
-p3831
-aa(lp3832
-S'German Bustos'
-p3833
-aS'2003'
-p3834
-aS'Fly-half'
-p3835
-aS'Mendoza'
-p3836
-aS'4'
-aS'4'
-aS'0'
-aS'51'
-p3837
-aVArgentina
-p3838
-aVMZA
-p3839
-aVDepartamento Capital
-p3840
-aa(lp3841
-S'Eusebio Guinazu'
-p3842
-aS'2003'
-p3843
-aS'Hooker'
-p3844
-aS'Mendoza'
-p3845
-aS'36'
-p3846
-aS'16'
-p3847
-aS'1'
-aS'5'
-aVArgentina
-p3848
-aVMZA
-p3849
-aVDepartamento Capital
-p3850
-aa(lp3851
-S'Juan Martin Hernandez'
-p3852
-aS'2003'
-p3853
-aS'Fullback'
-p3854
-aS'Buenos Aires'
-p3855
-aS'52'
-p3856
-aS'25'
-p3857
-aS'6'
-aS'133'
-p3858
-aVArgentina
-p3859
-aVCABA
-p3860
-aVComuna 6
-p3861
-aa(lp3862
-S'Francisco Lecot'
-p3863
-aS'2003'
-p3864
-aS'Prop'
-p3865
-aS'Catamarca'
-p3866
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aVArgentina
-p3867
-aVCatamarca
-p3868
-ag2589
-aa(lp3869
-S'Leonardo Ortiz'
-p3870
-aS'2003'
-p3871
-aS'Hooker'
-p3872
-aS'date unknown'
-p3873
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3874
-S'Martin Schusterman'
-p3875
-aS'2003'
-p3876
-aS'Flanker'
-p3877
-aS'San Juan'
-p3878
-aS'17'
-p3879
-aS'13'
-p3880
-aS'1'
-aS'5'
-aVUnited States of America
-p3881
-aVPuerto Rico
-p3882
-aVSan Juan
-p3883
-aa(lp3884
-S'Martin Rospide'
-p3885
-aS'2003'
-p3886
-aS'Prop'
-p3887
-aS'1979'
-p3888
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVRomânia
-p3889
-aVVâlcea
-p3890
-aV1979
-p3891
-aa(lp3892
-S'Federico Cortopasso'
-p3893
-aS'2003'
-p3894
-aS'Hooker'
-p3895
-aS'date unknown'
-p3896
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3897
-S'Julio Freixas'
-p3898
-aS'2003'
-p3899
-aS'Centre'
-p3900
-aS'date unknown'
-p3901
-aS'2'
-aS'2'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3902
-S'Federico Serra Miras'
-p3903
-aS'2003'
-p3904
-aS'Fullback'
-p3905
-aS'Buenos Aires'
-p3906
-aS'10'
-p3907
-aS'8'
-aS'2'
-aS'26'
-p3908
-aVArgentina
-p3909
-aVCABA
-p3910
-aVComuna 6
-p3911
-aa(lp3912
-S'Santiago Sanz'
-p3913
-aS'2003'
-p3914
-aS'Flanker'
-p3915
-aS'Buenos Aires'
-p3916
-aS'6'
-aS'5'
-aS'1'
-aS'5'
-aVArgentina
-p3917
-aVCABA
-p3918
-aVComuna 6
-p3919
-aa(lp3920
-S'Federico Aramburu'
-p3921
-aS'2004'
-p3922
-aS'Wing, Centre'
-p3923
+p3790
 aS'La Plata'
-p3924
-aS'22'
-p3925
-aS'10'
-p3926
+p3791
+aVArgentina
+p3792
+aVBA
+p3793
+aVPartido de La Plata
+p3794
+aa(lp3795
+S'Francisco Leonelli Morey'
+p3796
+aS'2001'
+p3797
+aS'Wing, Fullback'
+p3798
+aS'16'
+p3799
+aS'13'
+p3800
+aS'3'
+aS'0'
 aS'8'
 aS'40'
+p3801
+aS'Bolivia'
+p3802
+aVBolivia
+p3803
+ag2618
+ag2618
+aa(lp3804
+S'Mariano Sambucetti'
+p3805
+aS'2001'
+p3806
+aS'Lock'
+p3807
+aS'11'
+p3808
+aS'9'
+aS'2'
+aS'0'
+aS'3'
+aS'15'
+p3809
+aS'Buenos Aires'
+p3810
+aVArgentina
+p3811
+aVCABA
+p3812
+aVComuna 6
+p3813
+aa(lp3814
+S'Emiliano Bergamaschi'
+p3815
+aS'2001'
+p3816
+aS'Prop'
+p3817
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Rosario'
+p3818
+aVArgentina
+p3819
+aVS2000
+p3820
+aVSFE
+p3821
+aa(lp3822
+S'Pablo Cardinali'
+p3823
+aS'2001'
+p3824
+aS'Prop'
+p3825
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'La Plata'
+p3826
+aVArgentina
+p3827
+aVBA
+p3828
+aVPartido de La Plata
+p3829
+aa(lp3830
+S'Daniel Rodriguez'
+p3831
+aS'2002'
+p3832
+aS'Prop'
+p3833
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cordoba'
+p3834
+aVEspaña
+p3835
+aVAndalucía
+p3836
+aVCórdoba
+p3837
+aa(lp3838
+S'Hernan Senillosa'
+p3839
+aS'2002'
+p3840
+aS'Wing, Centre'
+p3841
+aS'33'
+p3842
+aS'27'
+p3843
+aS'6'
+aS'0'
+aS'17'
+p3844
+aS'128'
+p3845
+aS'Buenos Aires'
+p3846
+aVArgentina
+p3847
+aVCABA
+p3848
+aVComuna 6
+p3849
+aa(lp3850
+S'Alfonso Amuchastegui'
+p3851
+aS'2002'
+p3852
+aS'No. 8'
+p3853
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Rosario'
+p3854
+aVArgentina
+p3855
+aVS2000
+p3856
+aVSFE
+p3857
+aa(lp3858
+S'Maximiliano Nannini'
+p3859
+aS'2002'
+p3860
+aS'Centre'
+p3861
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'4'
+aS'20'
+p3862
+aS'Rosario'
+p3863
+aVArgentina
+p3864
+aVS2000
+p3865
+aVSFE
+p3866
+aa(lp3867
+S'Juan Cruz Legora'
+p3868
+aS'2002'
+p3869
+aS'Scrum-half'
+p3870
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Cordoba'
+p3871
+aVEspaña
+p3872
+aVAndalucía
+p3873
+aVCórdoba
+p3874
+aa(lp3875
+S'Patricio Albacete'
+p3876
+aS'2003'
+p3877
+aS'Lock'
+p3878
+aS'57'
+p3879
+aS'24'
+p3880
+aS'32'
+p3881
+aS'1'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p3882
+aVArgentina
+p3883
+aVCABA
+p3884
+aVComuna 6
+p3885
+aa(lp3886
+S'Lucas Borges'
+p3887
+aS'2003'
+p3888
+aS'Wing'
+p3889
+aS'32'
+p3890
+aS'19'
+p3891
+aS'13'
+p3892
+aS'0'
+aS'14'
+p3893
+aS'70'
+p3894
+aS'Buenos Aires'
+p3895
+aVArgentina
+p3896
+aVCABA
+p3897
+aVComuna 6
+p3898
+aa(lp3899
+S'German Bustos'
+p3900
+aS'2003'
+p3901
+aS'Fly-half'
+p3902
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'51'
+p3903
+aS'Mendoza'
+p3904
+aVArgentina
+p3905
+aVMZA
+p3906
+aVDepartamento Capital
+p3907
+aa(lp3908
+S'Eusebio Guinazu'
+p3909
+aS'2003'
+p3910
+aS'Hooker'
+p3911
+aS'36'
+p3912
+aS'16'
+p3913
+aS'19'
+p3914
+aS'1'
+aS'1'
+aS'5'
+aS'Mendoza'
+p3915
+aVArgentina
+p3916
+aVMZA
+p3917
+aVDepartamento Capital
+p3918
+aa(lp3919
+S'Juan Martin Hernandez'
+p3920
+aS'2003'
+p3921
+aS'Fullback'
+p3922
+aS'52'
+p3923
+aS'25'
+p3924
+aS'27'
+p3925
+aS'0'
+aS'6'
+aS'133'
+p3926
+aS'Buenos Aires'
 p3927
 aVArgentina
 p3928
-aVBA
+aVCABA
 p3929
-aVPartido de La Plata
+aVComuna 6
 p3930
 aa(lp3931
-S'Francisco Bosch'
+S'Francisco Lecot'
 p3932
-aS'2004'
+aS'2003'
 p3933
-aS'Fullback, Wing'
-p3934
-aS'Buenos Aires'
-p3935
-aS'4'
-aS'2'
-aS'2'
-aS'10'
-p3936
-aVArgentina
-p3937
-aVCABA
-p3938
-aVComuna 6
-p3939
-aa(lp3940
-S'Pablo Henn'
-p3941
-aS'2004'
-p3942
 aS'Prop'
-p3943
-aS'Don Torcuato'
+p3934
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Catamarca'
+p3935
+aVArgentina
+p3936
+aVCatamarca
+p3937
+ag2618
+aa(lp3938
+S'Leonardo Ortiz'
+p3939
+aS'2003'
+p3940
+aS'Hooker'
+p3941
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3942
+aS'g'
+aS'n'
+aS'i'
+aa(lp3943
+S'Martin Schusterman'
 p3944
-aS'9'
-aS'7'
+aS'2003'
+p3945
+aS'Flanker'
+p3946
+aS'17'
+p3947
+aS'13'
+p3948
+aS'4'
+aS'0'
 aS'1'
 aS'5'
-aVArgentina
-p3945
-aVBA
-p3946
-aVPartido de Tigre
-p3947
-aa(lp3948
-S'Ariel Castellina'
+aS'San Juan'
 p3949
-aS'2004'
+aVUnited States of America
 p3950
-aS'Prop'
+aVPuerto Rico
 p3951
-aS'Tucuman'
+aVSan Juan
 p3952
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVArgentina
-p3953
-aVTucumán
+aa(lp3953
+S'Martin Rospide'
 p3954
-ag2589
-aa(lp3955
-S'Federico Andres Genoud'
+aS'2003'
+p3955
+aS'Prop'
 p3956
-aS'2004'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1979'
 p3957
-aS'Flanker'
+aVRomânia
 p3958
-aS'Mendoza'
+aVVâlcea
 p3959
-aS'6'
-aS'6'
-aS'2'
-aS'10'
+aV1979
 p3960
-aVArgentina
-p3961
-aVMZA
+aa(lp3961
+S'Federico Cortopasso'
 p3962
-aVDepartamento Capital
+aS'2003'
 p3963
-aa(lp3964
-S'Andres Romagnoli'
+aS'Hooker'
+p3964
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p3965
-aS'2004'
-p3966
-aS'Fly-half'
+aS'g'
+aS'n'
+aS'i'
+aa(lp3966
+S'Julio Freixas'
 p3967
-aS'Buenos Aires'
+aS'2003'
 p3968
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVArgentina
+aS'Centre'
 p3969
-aVCABA
-p3970
-aVComuna 6
-p3971
-aa(lp3972
-S'Galo Alvarez Quinones'
-p3973
-aS'2004'
-p3974
-aS'Prop, Hooker'
-p3975
-aS'Cordoba'
-p3976
 aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVEspaña
-p3977
-aVAndalucía
-p3978
-aVCórdoba
-p3979
-aa(lp3980
-S'Juan Martin Fernandez Lobbe'
-p3981
-aS'2004'
-p3982
-aS'No. 8'
-p3983
-aS'Buenos Aires'
-p3984
-aS'61'
-p3985
-aS'26'
-p3986
-aS'6'
-aS'30'
-p3987
-aVArgentina
-p3988
-aVCABA
-p3989
-aVComuna 6
-p3990
-aa(lp3991
-S'Alvaro Galindo'
-p3992
-aS'2004'
-p3993
-aS'Back-row'
-p3994
-aS'Tucuman'
-p3995
-aS'13'
-p3996
+aS'1'
 aS'5'
-aS'2'
+aS'date unknown'
+p3970
+aS'g'
+aS'n'
+aS'i'
+aa(lp3971
+S'Federico Serra Miras'
+p3972
+aS'2003'
+p3973
+aS'Fullback'
+p3974
 aS'10'
+p3975
+aS'8'
+aS'2'
+aS'0'
+aS'2'
+aS'26'
+p3976
+aS'Buenos Aires'
+p3977
+aVArgentina
+p3978
+aVCABA
+p3979
+aVComuna 6
+p3980
+aa(lp3981
+S'Santiago Sanz'
+p3982
+aS'2003'
+p3983
+aS'Flanker'
+p3984
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p3985
+aVArgentina
+p3986
+aVCABA
+p3987
+aVComuna 6
+p3988
+aa(lp3989
+S'Federico Aramburu'
+p3990
+aS'2004'
+p3991
+aS'Wing, Centre'
+p3992
+aS'22'
+p3993
+aS'10'
+p3994
+aS'12'
+p3995
+aS'0'
+aS'8'
+aS'40'
+p3996
+aS'La Plata'
 p3997
 aVArgentina
 p3998
-aVTucumán
-p3999
-ag2589
-aa(lp4000
-S'Lucio Lopez Fleming'
-p4001
-aS'2004'
-p4002
-aS'Wing, Scrum-half'
-p4003
-aS'Salta'
-p4004
-aS'5'
-aS'4'
-aS'4'
-aS'20'
-p4005
-aVArgentina
-p4006
-aVSalta
-p4007
-ag2589
-aa(lp4008
-S'Fernando Higgs'
-p4009
-aS'2004'
-p4010
-aS'Utility back'
-p4011
-aS'Mendoza'
-p4012
-aS'3'
-aS'3'
-aS'7'
-aS'35'
-p4013
-aVArgentina
-p4014
-aVMZA
-p4015
-aVDepartamento Capital
-p4016
-aa(lp4017
-S'Pablo Gomez Cora'
-p4018
-aS'2004'
-p4019
-aS'Centre'
-p4020
-aS'Lomas de Zamora'
-p4021
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVArgentina
-p4022
 aVBA
+p3999
+aVPartido de La Plata
+p4000
+aa(lp4001
+S'Francisco Bosch'
+p4002
+aS'2004'
+p4003
+aS'Fullback, Wing'
+p4004
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'2'
+aS'10'
+p4005
+aS'Buenos Aires'
+p4006
+aVArgentina
+p4007
+aVCABA
+p4008
+aVComuna 6
+p4009
+aa(lp4010
+S'Pablo Henn'
+p4011
+aS'2004'
+p4012
+aS'Prop'
+p4013
+aS'9'
+aS'7'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'Don Torcuato'
+p4014
+aVArgentina
+p4015
+aVBA
+p4016
+aVPartido de Tigre
+p4017
+aa(lp4018
+S'Ariel Castellina'
+p4019
+aS'2004'
+p4020
+aS'Prop'
+p4021
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tucuman'
+p4022
+aVArgentina
 p4023
-aVPartido de Lomas de Zamora
+aVTucumán
 p4024
+ag2618
 aa(lp4025
-S'Santiago Artese'
+S'Federico Andres Genoud'
 p4026
 aS'2004'
 p4027
-aS'Lock'
+aS'Flanker'
 p4028
-aS'Buenos Aires'
-p4029
-aS'1'
+aS'6'
+aS'6'
 aS'0'
-aS'1'
-aS'5'
-aVArgentina
-p4030
-aVCABA
-p4031
-aVComuna 6
-p4032
-aa(lp4033
-S'Augusto Petrilli'
-p4034
-aS'2004'
-p4035
-aS'Back-row'
-p4036
-aS'San Fernando'
-p4037
+aS'0'
 aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVPhilippines
-p4038
-aVMimaropa
-p4039
-aVRomblon
-p4040
-aa(lp4041
-S'Gonzalo Tiesi'
-p4042
+aS'10'
+p4029
+aS'Mendoza'
+p4030
+aVArgentina
+p4031
+aVMZA
+p4032
+aVDepartamento Capital
+p4033
+aa(lp4034
+S'Andres Romagnoli'
+p4035
 aS'2004'
-p4043
-aS'Centre'
-p4044
+p4036
+aS'Fly-half'
+p4037
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Buenos Aires'
+p4038
+aVArgentina
+p4039
+aVCABA
+p4040
+aVComuna 6
+p4041
+aa(lp4042
+S'Galo Alvarez Quinones'
+p4043
+aS'2004'
+p4044
+aS'Prop, Hooker'
 p4045
-aS'37'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cordoba'
 p4046
-aS'17'
+aVEspaña
 p4047
+aVAndalucía
+p4048
+aVCórdoba
+p4049
+aa(lp4050
+S'Juan Martin Fernandez Lobbe'
+p4051
+aS'2004'
+p4052
+aS'No. 8'
+p4053
+aS'61'
+p4054
+aS'26'
+p4055
+aS'34'
+p4056
+aS'1'
 aS'6'
 aS'30'
-p4048
-aVArgentina
-p4049
-aVCABA
-p4050
-aVComuna 6
-p4051
-aa(lp4052
-S'Marcos Ayerza'
-p4053
-aS'2004'
-p4054
-aS'Prop'
-p4055
-aS'Buenos Aires'
-p4056
-aS'57'
 p4057
-aS'24'
+aS'Buenos Aires'
 p4058
-aS'1'
-aS'5'
 aVArgentina
 p4059
 aVCABA
@@ -11078,340 +12250,361 @@ p4060
 aVComuna 6
 p4061
 aa(lp4062
-S'Manuel Carizza'
+S'Alvaro Galindo'
 p4063
 aS'2004'
 p4064
-aS'Lock'
-p4065
-aS'Rosario'
-p4066
-aS'43'
-p4067
-aS'14'
-p4068
-aS'1'
-aS'5'
-aVArgentina
-p4069
-aVS2000
-p4070
-aVSFE
-p4071
-aa(lp4072
-S'Alberto Vernet Basualdo'
-p4073
-aS'2004'
-p4074
-aS'Hooker'
-p4075
-aS'Buenos Aires'
-p4076
-aS'12'
-p4077
-aS'9'
-aS'0'
-aS'0'
-aVArgentina
-p4078
-aVCABA
-p4079
-aVComuna 6
-p4080
-aa(lp4081
-S'Miguel Avramovic'
-p4082
-aS'2005'
-p4083
-aS'Centre'
-p4084
-aS'Buenos Aires'
-p4085
-aS'11'
-p4086
-aS'6'
-aS'4'
-aS'20'
-p4087
-aVArgentina
-p4088
-aVCABA
-p4089
-aVComuna 6
-p4090
-aa(lp4091
-S'Juan Manuel Leguizamon'
-p4092
-aS'2005'
-p4093
 aS'Back-row'
-p4094
-aS'Santiago del Estero'
-p4095
-aS'59'
-p4096
-aS'25'
-p4097
-aS'10'
-p4098
-aS'50'
-p4099
-aVArgentina
-p4100
-aVSantiago del Estero
-p4101
-ag2589
-aa(lp4102
-S'Agustin Creevy'
-p4103
-aS'2005'
-p4104
-aS'Hooker'
-p4105
-aS'La Plata'
-p4106
-aS'36'
-p4107
-aS'11'
-p4108
-aS'0'
-aS'0'
-aVArgentina
-p4109
-aVBA
-p4110
-aVPartido de La Plata
-p4111
-aa(lp4112
-S'Horacio Agulla'
-p4113
-aS'2005'
-p4114
-aS'Fullback, Wing'
-p4115
-aS'Buenos Aires'
-p4116
-aS'58'
-p4117
-aS'22'
-p4118
+p4065
+aS'13'
+p4066
 aS'5'
-aS'25'
-p4119
-aVArgentina
-p4120
-aVCABA
-p4121
-aVComuna 6
-p4122
-aa(lp4123
-S'Jaime Arocena Mesones'
-p4124
-aS'2005'
-p4125
-aS'Lock'
-p4126
-aS'1978'
-p4127
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVSvizra
-p4128
-aVSvizzera
-p4129
-aVSuisse
-p4130
-aa(lp4131
-S'Agustin Costa Repetto'
-p4132
-aS'2005'
-p4133
-aS'Prop, Hooker'
-p4134
-aS'Buenos Aires'
-p4135
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVArgentina
-p4136
-aVCABA
-p4137
-aVComuna 6
-p4138
-aa(lp4139
-S'Gaston de Robertis'
-p4140
-aS'2005'
-p4141
-aS'Prop'
-p4142
-aS'Buenos Aires'
-p4143
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVArgentina
-p4144
-aVCABA
-p4145
-aVComuna 6
-p4146
-aa(lp4147
-S'Matias Cortese'
-p4148
-aS'2005'
-p4149
-aS'Hooker'
-p4150
-aS'Mendoza'
-p4151
-aS'15'
-p4152
 aS'7'
 aS'1'
-aS'5'
-aVArgentina
-p4153
-aVMZA
-p4154
-aVDepartamento Capital
-p4155
-aa(lp4156
-S'Sebastien Rondinelli'
-p4157
-aS'2005'
-p4158
-aS'Prop'
-p4159
-aS'La Plata'
-p4160
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVArgentina
-p4161
-aVBA
-p4162
-aVPartido de La Plata
-p4163
-aa(lp4164
-S'Nicolas Vergallo'
-p4165
-aS'2005'
-p4166
-aS'Scrum-half'
-p4167
-aS'Rosario'
-p4168
-aS'33'
-p4169
-aS'13'
-p4170
-aS'0'
-aS'0'
-aVArgentina
-p4171
-aVS2000
-p4172
-aVSFE
-p4173
-aa(lp4174
-S'Rafael Carballo'
-p4175
-aS'2006'
-p4176
-aS'Wing'
-p4177
-aS'Buenos Aires'
-p4178
-aS'8'
-aS'5'
-aS'3'
-aS'15'
-p4179
-aVArgentina
-p4180
-aVCABA
-p4181
-aVComuna 6
-p4182
-aa(lp4183
-S'Pablo Gambarini'
-p4184
-aS'2006'
-p4185
-aS'Hooker'
-p4186
+aS'2'
+aS'10'
+p4067
 aS'Tucuman'
-p4187
-aS'8'
-aS'8'
+p4068
+aVArgentina
+p4069
+aVTucumán
+p4070
+ag2618
+aa(lp4071
+S'Lucio Lopez Fleming'
+p4072
+aS'2004'
+p4073
+aS'Wing, Scrum-half'
+p4074
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'4'
+aS'20'
+p4075
+aS'Salta'
+p4076
+aVArgentina
+p4077
+aVSalta
+p4078
+ag2618
+aa(lp4079
+S'Fernando Higgs'
+p4080
+aS'2004'
+p4081
+aS'Utility back'
+p4082
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'7'
+aS'35'
+p4083
+aS'Mendoza'
+p4084
+aVArgentina
+p4085
+aVMZA
+p4086
+aVDepartamento Capital
+p4087
+aa(lp4088
+S'Pablo Gomez Cora'
+p4089
+aS'2004'
+p4090
+aS'Centre'
+p4091
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Lomas de Zamora'
+p4092
+aVArgentina
+p4093
+aVBA
+p4094
+aVPartido de Lomas de Zamora
+p4095
+aa(lp4096
+S'Santiago Artese'
+p4097
+aS'2004'
+p4098
+aS'Lock'
+p4099
+aS'1'
+aS'0'
+aS'1'
+aS'0'
 aS'1'
 aS'5'
+aS'Buenos Aires'
+p4100
 aVArgentina
-p4188
-aVTucumán
-p4189
-ag2589
-aa(lp4190
-S'Esteban Lozada'
-p4191
-aS'2006'
-p4192
+p4101
+aVCABA
+p4102
+aVComuna 6
+p4103
+aa(lp4104
+S'Augusto Petrilli'
+p4105
+aS'2004'
+p4106
+aS'Back-row'
+p4107
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'San Fernando'
+p4108
+aVPhilippines
+p4109
+aVMimaropa
+p4110
+aVRomblon
+p4111
+aa(lp4112
+S'Gonzalo Tiesi'
+p4113
+aS'2004'
+p4114
+aS'Centre'
+p4115
+aS'37'
+p4116
+aS'17'
+p4117
+aS'20'
+p4118
+aS'0'
+aS'6'
+aS'30'
+p4119
+aS'Buenos Aires'
+p4120
+aVArgentina
+p4121
+aVCABA
+p4122
+aVComuna 6
+p4123
+aa(lp4124
+S'Marcos Ayerza'
+p4125
+aS'2004'
+p4126
+aS'Prop'
+p4127
+aS'57'
+p4128
+aS'24'
+p4129
+aS'32'
+p4130
+aS'1'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p4131
+aVArgentina
+p4132
+aVCABA
+p4133
+aVComuna 6
+p4134
+aa(lp4135
+S'Manuel Carizza'
+p4136
+aS'2004'
+p4137
 aS'Lock'
-p4193
-aS'Brussels'
-p4194
-aS'22'
-p4195
+p4138
+aS'43'
+p4139
+aS'14'
+p4140
+aS'28'
+p4141
+aS'1'
+aS'1'
+aS'5'
+aS'Rosario'
+p4142
+aVArgentina
+p4143
+aVS2000
+p4144
+aVSFE
+p4145
+aa(lp4146
+S'Alberto Vernet Basualdo'
+p4147
+aS'2004'
+p4148
+aS'Hooker'
+p4149
 aS'12'
+p4150
+aS'9'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4151
+aVArgentina
+p4152
+aVCABA
+p4153
+aVComuna 6
+p4154
+aa(lp4155
+S'Miguel Avramovic'
+p4156
+aS'2005'
+p4157
+aS'Centre'
+p4158
+aS'11'
+p4159
+aS'6'
+aS'5'
+aS'0'
+aS'4'
+aS'20'
+p4160
+aS'Buenos Aires'
+p4161
+aVArgentina
+p4162
+aVCABA
+p4163
+aVComuna 6
+p4164
+aa(lp4165
+S'Juan Manuel Leguizamon'
+p4166
+aS'2005'
+p4167
+aS'Back-row'
+p4168
+aS'59'
+p4169
+aS'25'
+p4170
+aS'34'
+p4171
+aS'0'
+aS'10'
+p4172
+aS'50'
+p4173
+aS'Santiago del Estero'
+p4174
+aVArgentina
+p4175
+aVSantiago del Estero
+p4176
+ag2618
+aa(lp4177
+S'Agustin Creevy'
+p4178
+aS'2005'
+p4179
+aS'Hooker'
+p4180
+aS'36'
+p4181
+aS'11'
+p4182
+aS'25'
+p4183
+aS'0'
+aS'0'
+aS'0'
+aS'La Plata'
+p4184
+aVArgentina
+p4185
+aVBA
+p4186
+aVPartido de La Plata
+p4187
+aa(lp4188
+S'Horacio Agulla'
+p4189
+aS'2005'
+p4190
+aS'Fullback, Wing'
+p4191
+aS'58'
+p4192
+aS'22'
+p4193
+aS'35'
+p4194
+aS'1'
+aS'5'
+aS'25'
+p4195
+aS'Buenos Aires'
 p4196
-aS'0'
-aS'0'
-aVBelgië - Belgique - Belgien
+aVArgentina
 p4197
-aV1000;1040
+aVCABA
 p4198
-aVRégion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+aVComuna 6
 p4199
 aa(lp4200
-S'Juan Gomez'
+S'Jaime Arocena Mesones'
 p4201
-aS'2006'
+aS'2005'
 p4202
-aS'Prop'
+aS'Lock'
 p4203
-aS'Buenos Aires'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1978'
 p4204
-aS'6'
-aS'4'
-aS'0'
-aS'0'
-aVArgentina
+aVSvizra
 p4205
-aVCABA
+aVSvizzera
 p4206
-aVComuna 6
+aVSuisse
 p4207
 aa(lp4208
-S'Tomas de Vedia'
+S'Agustin Costa Repetto'
 p4209
-aS'2007'
+aS'2005'
 p4210
-aS'Wing'
+aS'Prop, Hooker'
 p4211
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'Buenos Aires'
 p4212
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aVArgentina
 p4213
 aVCABA
@@ -11419,79 +12612,87 @@ p4214
 aVComuna 6
 p4215
 aa(lp4216
-S'Genaro Fessia'
+S'Gaston de Robertis'
 p4217
-aS'2007'
+aS'2005'
 p4218
-aS'Back-row'
+aS'Prop'
 p4219
-aS'Cordoba'
-p4220
-aS'13'
-p4221
-aS'9'
-aS'2'
-aS'10'
-p4222
-aVEspaña
-p4223
-aVAndalucía
-p4224
-aVCórdoba
-p4225
-aa(lp4226
-S'Marcelo Bosch'
-p4227
-aS'2007'
-p4228
-aS'Centre'
-p4229
-aS'Buenos Aires'
-p4230
-aS'33'
-p4231
-aS'6'
 aS'4'
-aS'45'
-p4232
-aVArgentina
-p4233
-aVCABA
-p4234
-aVComuna 6
-p4235
-aa(lp4236
-S'Alejandro Abadie'
-p4237
-aS'2007'
-p4238
-aS'Back-row'
-p4239
-aS'San Fernando'
-p4240
-aS'5'
 aS'3'
 aS'1'
-aS'5'
-aVPhilippines
-p4241
-aVMimaropa
-p4242
-aVRomblon
-p4243
-aa(lp4244
-S'Federico Amelong'
-p4245
-aS'2007'
-p4246
-aS'Centre'
-p4247
-aS'Rosario'
-p4248
-aS'2'
-aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4220
+aVArgentina
+p4221
+aVCABA
+p4222
+aVComuna 6
+p4223
+aa(lp4224
+S'Matias Cortese'
+p4225
+aS'2005'
+p4226
+aS'Hooker'
+p4227
+aS'15'
+p4228
+aS'7'
+aS'8'
+aS'0'
 aS'1'
 aS'5'
+aS'Mendoza'
+p4229
+aVArgentina
+p4230
+aVMZA
+p4231
+aVDepartamento Capital
+p4232
+aa(lp4233
+S'Sebastien Rondinelli'
+p4234
+aS'2005'
+p4235
+aS'Prop'
+p4236
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'La Plata'
+p4237
+aVArgentina
+p4238
+aVBA
+p4239
+aVPartido de La Plata
+p4240
+aa(lp4241
+S'Nicolas Vergallo'
+p4242
+aS'2005'
+p4243
+aS'Scrum-half'
+p4244
+aS'33'
+p4245
+aS'13'
+p4246
+aS'19'
+p4247
+aS'1'
+aS'0'
+aS'0'
+aS'Rosario'
+p4248
 aVArgentina
 p4249
 aVS2000
@@ -11499,208 +12700,217 @@ p4250
 aVSFE
 p4251
 aa(lp4252
-S'Felipe Aranguren'
+S'Rafael Carballo'
 p4253
-aS'2007'
+aS'2006'
 p4254
-aS'Lock'
-p4255
-aS'Buenos Aires'
-p4256
-aS'6'
-aS'6'
-aS'1'
-aS'5'
-aVArgentina
-p4257
-aVCABA
-p4258
-aVComuna 6
-p4259
-aa(lp4260
-S'Gabriel Ascarate'
-p4261
-aS'2007'
-p4262
-aS'Fullback, Centre'
-p4263
-aS'San Miguel de Tucuma'
-p4264
-aS'16'
-p4265
-aS'10'
-p4266
-aS'4'
-aS'20'
-p4267
-aS'g'
-aS'n'
-aS'i'
-aa(lp4268
-S'Gonzalo Begino'
-p4269
-aS'2007'
-p4270
-aS'Prop'
-p4271
-aS'1976'
-p4272
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p4273
-aV\u0421\u041a\u0424\u041e
-p4274
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p4275
-aa(lp4276
-S'Agustin Guzman'
-p4277
-aS'2007'
-p4278
-aS'Back-row'
-p4279
-aS'San Miguel de Tucuma'
-p4280
-aS'5'
-aS'5'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp4281
-S'Francisco Merello'
-p4282
-aS'2007'
-p4283
 aS'Wing'
-p4284
+p4255
+aS'8'
+aS'5'
+aS'3'
+aS'0'
+aS'3'
+aS'15'
+p4256
 aS'Buenos Aires'
-p4285
-aS'5'
-aS'5'
-aS'6'
-aS'30'
-p4286
+p4257
 aVArgentina
-p4287
+p4258
 aVCABA
-p4288
+p4259
 aVComuna 6
-p4289
-aa(lp4290
-S'Ignacio Mieres'
-p4291
-aS'2007'
-p4292
-aS'Fly-half'
-p4293
-aS'Buenos Aires'
-p4294
+p4260
+aa(lp4261
+S'Pablo Gambarini'
+p4262
+aS'2006'
+p4263
+aS'Hooker'
+p4264
+aS'8'
+aS'8'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Tucuman'
+p4265
+aVArgentina
+p4266
+aVTucumán
+p4267
+ag2618
+aa(lp4268
+S'Esteban Lozada'
+p4269
+aS'2006'
+p4270
+aS'Lock'
+p4271
+aS'22'
+p4272
+aS'12'
+p4273
+aS'10'
+p4274
+aS'0'
+aS'0'
+aS'0'
+aS'Brussels'
+p4275
+aVBelgië - Belgique - Belgien
+p4276
+aV1000;1040
+p4277
+aVRégion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+p4278
+aa(lp4279
+S'Juan Gomez'
+p4280
+aS'2006'
+p4281
+aS'Prop'
+p4282
 aS'6'
-aS'6'
+aS'4'
 aS'2'
-aS'32'
-p4295
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4283
 aVArgentina
-p4296
+p4284
 aVCABA
-p4297
+p4285
 aVComuna 6
-p4298
-aa(lp4299
-S'Sebastian Ponce'
-p4300
+p4286
+aa(lp4287
+S'Tomas de Vedia'
+p4288
 aS'2007'
-p4301
-aS'Fullback'
-p4302
-aS'date unknown'
-p4303
-aS'1'
-aS'1'
+p4289
+aS'Wing'
+p4290
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4291
+aVArgentina
+p4292
+aVCABA
+p4293
+aVComuna 6
+p4294
+aa(lp4295
+S'Genaro Fessia'
+p4296
+aS'2007'
+p4297
+aS'Back-row'
+p4298
+aS'13'
+p4299
+aS'9'
+aS'4'
+aS'0'
 aS'2'
 aS'10'
+p4300
+aS'Cordoba'
+p4301
+aVEspaña
+p4302
+aVAndalucía
+p4303
+aVCórdoba
 p4304
-aS'g'
-aS'n'
-aS'i'
 aa(lp4305
-S'James Stuart'
+S'Marcelo Bosch'
 p4306
 aS'2007'
 p4307
-aS'Lock'
+aS'Centre'
 p4308
-aS'Buenos Aires'
+aS'33'
 p4309
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVArgentina
-p4310
-aVCABA
-p4311
-aVComuna 6
-p4312
-aa(lp4313
-S'Ben Urdapilleta'
-p4314
-aS'2007'
-p4315
-aS'Fly-half'
-p4316
-aS'Buenos Aires'
-p4317
-aS'10'
-p4318
 aS'6'
-aS'2'
-aS'40'
-p4319
-aVArgentina
-p4320
-aVCABA
-p4321
-aVComuna 6
-p4322
-aa(lp4323
-S'Francisco Albarracin'
-p4324
-aS'2007'
-p4325
-aS'Scrum-half'
-p4326
-aS'La Plata'
-p4327
-aS'3'
-aS'3'
+aS'26'
+p4310
 aS'1'
-aS'5'
-aVArgentina
-p4328
-aVBA
-p4329
-aVPartido de La Plata
-p4330
-aa(lp4331
-S'Alejandro Campos'
-p4332
-aS'2007'
-p4333
-aS'Back-row'
-p4334
+aS'4'
+aS'45'
+p4311
 aS'Buenos Aires'
-p4335
-aS'15'
-p4336
-aS'7'
+p4312
+aVArgentina
+p4313
+aVCABA
+p4314
+aVComuna 6
+p4315
+aa(lp4316
+S'Alejandro Abadie'
+p4317
+aS'2007'
+p4318
+aS'Back-row'
+p4319
+aS'5'
+aS'3'
+aS'2'
+aS'0'
 aS'1'
 aS'5'
+aS'San Fernando'
+p4320
+aVPhilippines
+p4321
+aVMimaropa
+p4322
+aVRomblon
+p4323
+aa(lp4324
+S'Federico Amelong'
+p4325
+aS'2007'
+p4326
+aS'Centre'
+p4327
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Rosario'
+p4328
+aVArgentina
+p4329
+aVS2000
+p4330
+aVSFE
+p4331
+aa(lp4332
+S'Felipe Aranguren'
+p4333
+aS'2007'
+p4334
+aS'Lock'
+p4335
+aS'6'
+aS'6'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p4336
 aVArgentina
 p4337
 aVCABA
@@ -11708,498 +12918,550 @@ p4338
 aVComuna 6
 p4339
 aa(lp4340
-S'Bruno Fabricio Cuezzo'
+S'Gabriel Ascarate'
 p4341
 aS'2007'
 p4342
-aS'No. 8'
+aS'Fullback, Centre'
 p4343
-aS'1976'
+aS'16'
 p4344
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aS'10'
 p4345
-aV\u0421\u041a\u0424\u041e
+aS'6'
+aS'0'
+aS'4'
+aS'20'
 p4346
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aS'San Miguel de Tucuma'
 p4347
+aS'g'
+aS'n'
+aS'i'
 aa(lp4348
-S'Ramiro del Busto'
+S'Gonzalo Begino'
 p4349
 aS'2007'
 p4350
-aS'Fullback'
+aS'Prop'
 p4351
-aS'Buenos Aires'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1976'
 p4352
-aS'1'
-aS'1'
-aS'1'
-aS'5'
-aVArgentina
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p4353
-aVCABA
+aV\u0421\u041a\u0424\u041e
 p4354
-aVComuna 6
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p4355
 aa(lp4356
-S'Lucas Gonzalez Amorosino'
+S'Agustin Guzman'
 p4357
 aS'2007'
 p4358
-aS'Fullback'
+aS'Back-row'
 p4359
-aS'Buenos Aires'
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'San Miguel de Tucuma'
 p4360
-aS'40'
-p4361
-aS'13'
-p4362
-aS'7'
-aS'35'
-p4363
-aVArgentina
-p4364
-aVCABA
-p4365
-aVComuna 6
-p4366
-aa(lp4367
-S'Tomas Roan'
-p4368
-aS'2007'
-p4369
-aS'Lock'
-p4370
-aS'La Plata'
-p4371
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
-p4372
-aVBA
-p4373
-aVPartido de La Plata
-p4374
-aa(lp4375
-S'Federico Rodriguez'
-p4376
-aS'2007'
-p4377
-aS'Hooker'
-p4378
-aS'date unknown'
-p4379
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
-aa(lp4380
-S'Lucas Barrera Oro'
-p4381
-aS'2008'
-p4382
-aS'Fullback'
-p4383
-aS'Tucuman'
-p4384
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVArgentina
-p4385
-aVTucumán
-p4386
-ag2589
-aa(lp4387
-S'Felipe Bettolli'
-p4388
-aS'2008'
-p4389
-aS'Prop'
-p4390
-aS'Cordoba'
-p4391
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVEspaña
-p4392
-aVAndalucía
-p4393
-aVCórdoba
-p4394
-aa(lp4395
-S'Gonzalo Camacho'
-p4396
-aS'2008'
-p4397
+aa(lp4361
+S'Francisco Merello'
+p4362
+aS'2007'
+p4363
 aS'Wing'
+p4364
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'6'
+aS'30'
+p4365
+aS'Buenos Aires'
+p4366
+aVArgentina
+p4367
+aVCABA
+p4368
+aVComuna 6
+p4369
+aa(lp4370
+S'Ignacio Mieres'
+p4371
+aS'2007'
+p4372
+aS'Fly-half'
+p4373
+aS'6'
+aS'6'
+aS'0'
+aS'0'
+aS'2'
+aS'32'
+p4374
+aS'Buenos Aires'
+p4375
+aVArgentina
+p4376
+aVCABA
+p4377
+aVComuna 6
+p4378
+aa(lp4379
+S'Sebastian Ponce'
+p4380
+aS'2007'
+p4381
+aS'Fullback'
+p4382
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'10'
+p4383
+aS'date unknown'
+p4384
+aS'g'
+aS'n'
+aS'i'
+aa(lp4385
+S'James Stuart'
+p4386
+aS'2007'
+p4387
+aS'Lock'
+p4388
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4389
+aVArgentina
+p4390
+aVCABA
+p4391
+aVComuna 6
+p4392
+aa(lp4393
+S'Ben Urdapilleta'
+p4394
+aS'2007'
+p4395
+aS'Fly-half'
+p4396
+aS'10'
+p4397
+aS'6'
+aS'4'
+aS'0'
+aS'2'
+aS'40'
 p4398
 aS'Buenos Aires'
 p4399
-aS'23'
+aVArgentina
 p4400
-aS'7'
-aS'6'
-aS'30'
+aVCABA
 p4401
-aVArgentina
+aVComuna 6
 p4402
-aVCABA
-p4403
-aVComuna 6
+aa(lp4403
+S'Francisco Albarracin'
 p4404
-aa(lp4405
-S'Mauro Comuzzi'
+aS'2007'
+p4405
+aS'Scrum-half'
 p4406
-aS'2008'
-p4407
-aS'Wing, Fullback'
-p4408
-aS'Buenos Aires'
-p4409
-aS'5'
+aS'3'
 aS'3'
 aS'0'
 aS'0'
-aVArgentina
-p4410
-aVCABA
-p4411
-aVComuna 6
-p4412
-aa(lp4413
-S'Juan Ignacio Gauthier'
-p4414
-aS'2008'
-p4415
-aS'Utility back'
-p4416
-aS'Buenos Aires'
-p4417
-aS'2'
-aS'2'
-aS'3'
-aS'15'
-p4418
-aVArgentina
-p4419
-aVCABA
-p4420
-aVComuna 6
-p4421
-aa(lp4422
-S'Francisco Gomez Kodela'
-p4423
-aS'2008'
-p4424
-aS'Prop'
-p4425
-aS'1985'
-p4426
-aS'11'
-p4427
-aS'6'
 aS'1'
 aS'5'
-aVNederland
-p4428
-aV1985
-p4429
-aVNederland
-p4430
-aa(lp4431
-S'Juan Pablo Lagarrigue'
-p4432
-aS'2008'
-p4433
-aS'Lock'
-p4434
-aS'Tucuman'
-p4435
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+aS'La Plata'
+p4407
 aVArgentina
-p4436
-aVTucumán
+p4408
+aVBA
+p4409
+aVPartido de La Plata
+p4410
+aa(lp4411
+S'Alejandro Campos'
+p4412
+aS'2007'
+p4413
+aS'Back-row'
+p4414
+aS'15'
+p4415
+aS'7'
+aS'8'
+aS'0'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p4416
+aVArgentina
+p4417
+aVCABA
+p4418
+aVComuna 6
+p4419
+aa(lp4420
+S'Bruno Fabricio Cuezzo'
+p4421
+aS'2007'
+p4422
+aS'No. 8'
+p4423
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1976'
+p4424
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p4425
+aV\u0421\u041a\u0424\u041e
+p4426
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p4427
+aa(lp4428
+S'Ramiro del Busto'
+p4429
+aS'2007'
+p4430
+aS'Fullback'
+p4431
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p4432
+aVArgentina
+p4433
+aVCABA
+p4434
+aVComuna 6
+p4435
+aa(lp4436
+S'Lucas Gonzalez Amorosino'
 p4437
-ag2589
-aa(lp4438
-S'Rodrigo Maria'
+aS'2007'
+p4438
+aS'Fullback'
 p4439
-aS'2008'
+aS'40'
 p4440
-aS'Hooker'
+aS'13'
 p4441
-aS'date unknown'
+aS'26'
 p4442
 aS'1'
-aS'1'
-aS'2'
-aS'10'
+aS'7'
+aS'35'
 p4443
-aS'g'
-aS'n'
-aS'i'
-aa(lp4444
-S'Leonardo Senatore'
+aS'Buenos Aires'
+p4444
+aVArgentina
 p4445
-aS'2008'
-p4446
-aS'Back-row'
-p4447
-aS'Rosario'
-p4448
-aS'29'
-p4449
-aS'11'
-p4450
-aS'3'
-aS'15'
-p4451
-aVArgentina
-p4452
-aVS2000
-p4453
-aVSFE
-p4454
-aa(lp4455
-S'Carlos Caceres'
-p4456
-aS'2008'
-p4457
-aS'Lock'
-p4458
-aS'Tucuman'
-p4459
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aVArgentina
-p4460
-aVTucumán
-p4461
-ag2589
-aa(lp4462
-S'Ariel Hevia'
-p4463
-aS'2008'
-p4464
-aS'Prop'
-p4465
-aS'Buenos Aires'
-p4466
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVArgentina
-p4467
 aVCABA
-p4468
+p4446
 aVComuna 6
-p4469
-aa(lp4470
-S'Roman Miralles'
-p4471
-aS'2008'
-p4472
-aS'Fullback'
-p4473
-aS'Rosario'
-p4474
-aS'5'
-aS'5'
-aS'3'
-aS'15'
-p4475
+p4447
+aa(lp4448
+S'Tomas Roan'
+p4449
+aS'2007'
+p4450
+aS'Lock'
+p4451
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'La Plata'
+p4452
 aVArgentina
-p4476
-aVS2000
-p4477
-aVSFE
-p4478
-aa(lp4479
-S'Alvaro Tejeda'
-p4480
-aS'2008'
-p4481
+p4453
+aVBA
+p4454
+aVPartido de La Plata
+p4455
+aa(lp4456
+S'Federico Rodriguez'
+p4457
+aS'2007'
+p4458
 aS'Hooker'
-p4482
-aS'San Miguel de Tucuma'
-p4483
-aS'3'
+p4459
 aS'1'
 aS'1'
-aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p4460
 aS'g'
 aS'n'
 aS'i'
-aa(lp4484
-S'Pedro Ledesma Arocena'
-p4485
+aa(lp4461
+S'Lucas Barrera Oro'
+p4462
 aS'2008'
-p4486
+p4463
+aS'Fullback'
+p4464
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tucuman'
+p4465
+aVArgentina
+p4466
+aVTucumán
+p4467
+ag2618
+aa(lp4468
+S'Felipe Bettolli'
+p4469
+aS'2008'
+p4470
 aS'Prop'
-p4487
-aS'Buenos Aires'
-p4488
-aS'2'
+p4471
+aS'3'
+aS'3'
 aS'0'
 aS'0'
 aS'0'
-aVArgentina
-p4489
-aVCABA
-p4490
-aVComuna 6
-p4491
-aa(lp4492
-S'Alfredo Lalanne'
-p4493
-aS'2008'
-p4494
-aS'Scrum-half'
-p4495
-aS'Buenos Aires'
-p4496
-aS'10'
-p4497
-aS'4'
 aS'0'
-aS'0'
-aVArgentina
-p4498
-aVCABA
-p4499
-aVComuna 6
-p4500
-aa(lp4501
-S'Martin Bustos Moyano'
-p4502
-aS'2008'
-p4503
-aS'Wing'
-p4504
 aS'Cordoba'
-p4505
-aS'4'
+p4472
+aVEspaña
+p4473
+aVAndalucía
+p4474
+aVCórdoba
+p4475
+aa(lp4476
+S'Gonzalo Camacho'
+p4477
+aS'2008'
+p4478
+aS'Wing'
+p4479
+aS'23'
+p4480
+aS'7'
+aS'15'
+p4481
+aS'1'
+aS'6'
+aS'30'
+p4482
+aS'Buenos Aires'
+p4483
+aVArgentina
+p4484
+aVCABA
+p4485
+aVComuna 6
+p4486
+aa(lp4487
+S'Mauro Comuzzi'
+p4488
+aS'2008'
+p4489
+aS'Wing, Fullback'
+p4490
+aS'5'
+aS'3'
 aS'2'
 aS'0'
-aS'43'
-p4506
-aVEspaña
-p4507
-aVAndalucía
-p4508
-aVCórdoba
-p4509
-aa(lp4510
-S'Miguel de Achaval'
-p4511
-aS'2008'
-p4512
-aS'Back-row'
-p4513
+aS'0'
+aS'0'
 aS'Buenos Aires'
-p4514
-aS'5'
-aS'4'
-aS'1'
-aS'5'
+p4491
 aVArgentina
-p4515
+p4492
 aVCABA
-p4516
+p4493
 aVComuna 6
-p4517
-aa(lp4518
-S'Juan-Pablo Estelles'
-p4519
+p4494
+aa(lp4495
+S'Juan Ignacio Gauthier'
+p4496
 aS'2008'
-p4520
-aS'Centre'
-p4521
-aS'Rosario'
-p4522
-aS'1'
-aS'1'
+p4497
+aS'Utility back'
+p4498
+aS'2'
+aS'2'
 aS'0'
 aS'0'
+aS'3'
+aS'15'
+p4499
+aS'Buenos Aires'
+p4500
 aVArgentina
+p4501
+aVCABA
+p4502
+aVComuna 6
+p4503
+aa(lp4504
+S'Francisco Gomez Kodela'
+p4505
+aS'2008'
+p4506
+aS'Prop'
+p4507
+aS'11'
+p4508
+aS'6'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'1985'
+p4509
+aVNederland
+p4510
+aV1985
+p4511
+aVNederland
+p4512
+aa(lp4513
+S'Juan Pablo Lagarrigue'
+p4514
+aS'2008'
+p4515
+aS'Lock'
+p4516
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tucuman'
+p4517
+aVArgentina
+p4518
+aVTucumán
+p4519
+ag2618
+aa(lp4520
+S'Rodrigo Maria'
+p4521
+aS'2008'
+p4522
+aS'Hooker'
 p4523
-aVS2000
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'10'
 p4524
-aVSFE
+aS'date unknown'
 p4525
+aS'g'
+aS'n'
+aS'i'
 aa(lp4526
-S'Tomas Leonardi'
+S'Leonardo Senatore'
 p4527
 aS'2008'
 p4528
 aS'Back-row'
 p4529
-aS'Buenos Aires'
+aS'29'
 p4530
-aS'18'
+aS'11'
 p4531
-aS'6'
-aS'4'
-aS'20'
+aS'17'
 p4532
-aVArgentina
+aS'1'
+aS'3'
+aS'15'
 p4533
-aVCABA
+aS'Rosario'
 p4534
-aVComuna 6
+aVArgentina
 p4535
-aa(lp4536
-S'Agustin Smidt'
+aVS2000
+p4536
+aVSFE
 p4537
-aS'2008'
-p4538
-aS'Lock'
+aa(lp4538
+S'Carlos Caceres'
 p4539
-aS'Cordoba'
+aS'2008'
 p4540
-aS'3'
-aS'3'
-aS'2'
-aS'10'
+aS'Lock'
 p4541
-aVEspaña
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tucuman'
 p4542
-aVAndalucía
+aVArgentina
 p4543
-aVCórdoba
+aVTucumán
 p4544
+ag2618
 aa(lp4545
-S'Esteban Bustillo'
+S'Ariel Hevia'
 p4546
 aS'2008'
 p4547
-aS'Hooker'
+aS'Prop'
 p4548
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Buenos Aires'
 p4549
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVArgentina
 p4550
 aVCABA
@@ -12207,2055 +13469,2243 @@ p4551
 aVComuna 6
 p4552
 aa(lp4553
-S'Mauricio Guidone'
+S'Roman Miralles'
 p4554
 aS'2008'
 p4555
-aS'Hooker, Prop'
+aS'Fullback'
 p4556
-aS'La Plata'
-p4557
-aS'10'
-p4558
-aS'8'
-aS'1'
 aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'3'
+aS'15'
+p4557
+aS'Rosario'
+p4558
 aVArgentina
 p4559
-aVBA
+aVS2000
 p4560
-aVPartido de La Plata
+aVSFE
 p4561
 aa(lp4562
-S'Martin Landajo'
+S'Alvaro Tejeda'
 p4563
 aS'2008'
 p4564
-aS'Scrum-half'
+aS'Hooker'
 p4565
-aS'Buenos Aires'
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'San Miguel de Tucuma'
 p4566
-aS'42'
-p4567
-aS'16'
+aS'g'
+aS'n'
+aS'i'
+aa(lp4567
+S'Pedro Ledesma Arocena'
 p4568
+aS'2008'
+p4569
+aS'Prop'
+p4570
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4571
+aVArgentina
+p4572
+aVCABA
+p4573
+aVComuna 6
+p4574
+aa(lp4575
+S'Alfredo Lalanne'
+p4576
+aS'2008'
+p4577
+aS'Scrum-half'
+p4578
+aS'10'
+p4579
+aS'4'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4580
+aVArgentina
+p4581
+aVCABA
+p4582
+aVComuna 6
+p4583
+aa(lp4584
+S'Martin Bustos Moyano'
+p4585
+aS'2008'
+p4586
+aS'Wing'
+p4587
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'43'
+p4588
+aS'Cordoba'
+p4589
+aVEspaña
+p4590
+aVAndalucía
+p4591
+aVCórdoba
+p4592
+aa(lp4593
+S'Miguel de Achaval'
+p4594
+aS'2008'
+p4595
+aS'Back-row'
+p4596
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p4597
+aVArgentina
+p4598
+aVCABA
+p4599
+aVComuna 6
+p4600
+aa(lp4601
+S'Juan-Pablo Estelles'
+p4602
+aS'2008'
+p4603
+aS'Centre'
+p4604
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Rosario'
+p4605
+aVArgentina
+p4606
+aVS2000
+p4607
+aVSFE
+p4608
+aa(lp4609
+S'Tomas Leonardi'
+p4610
+aS'2008'
+p4611
+aS'Back-row'
+p4612
+aS'18'
+p4613
+aS'6'
+aS'11'
+p4614
+aS'1'
+aS'4'
+aS'20'
+p4615
+aS'Buenos Aires'
+p4616
+aVArgentina
+p4617
+aVCABA
+p4618
+aVComuna 6
+p4619
+aa(lp4620
+S'Agustin Smidt'
+p4621
+aS'2008'
+p4622
+aS'Lock'
+p4623
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'10'
+p4624
+aS'Cordoba'
+p4625
+aVEspaña
+p4626
+aVAndalucía
+p4627
+aVCórdoba
+p4628
+aa(lp4629
+S'Esteban Bustillo'
+p4630
+aS'2008'
+p4631
+aS'Hooker'
+p4632
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4633
+aVArgentina
+p4634
+aVCABA
+p4635
+aVComuna 6
+p4636
+aa(lp4637
+S'Mauricio Guidone'
+p4638
+aS'2008'
+p4639
+aS'Hooker, Prop'
+p4640
+aS'10'
+p4641
+aS'8'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'La Plata'
+p4642
+aVArgentina
+p4643
+aVBA
+p4644
+aVPartido de La Plata
+p4645
+aa(lp4646
+S'Martin Landajo'
+p4647
+aS'2008'
+p4648
+aS'Scrum-half'
+p4649
+aS'42'
+p4650
+aS'16'
+p4651
+aS'25'
+p4652
+aS'1'
 aS'3'
 aS'15'
-p4569
+p4653
+aS'Buenos Aires'
+p4654
 aVArgentina
-p4570
+p4655
 aVCABA
-p4571
+p4656
 aVComuna 6
-p4572
-aa(lp4573
+p4657
+aa(lp4658
 S'Ignacio Pasman'
-p4574
+p4659
 aS'2008'
-p4575
+p4660
 aS'Back-row'
-p4576
+p4661
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Buenos Aires'
-p4577
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+p4662
 aVArgentina
-p4578
+p4663
 aVCABA
-p4579
+p4664
 aVComuna 6
-p4580
-aa(lp4581
+p4665
+aa(lp4666
 S'Juan Pablo Orlandi'
-p4582
+p4667
 aS'2008'
-p4583
+p4668
 aS'Prop'
-p4584
-aS'Mendoza'
-p4585
+p4669
 aS'15'
-p4586
+p4670
 aS'2'
+aS'13'
+p4671
 aS'0'
 aS'0'
+aS'0'
+aS'Mendoza'
+p4672
 aVArgentina
-p4587
+p4673
 aVMZA
-p4588
+p4674
 aVDepartamento Capital
-p4589
-aa(lp4590
+p4675
+aa(lp4676
 S'Santiago Fernandez'
-p4591
+p4677
 aS'2008'
-p4592
+p4678
 aS'Centre'
-p4593
-aS'Buenos Aires'
-p4594
+p4679
 aS'32'
-p4595
+p4680
 aS'8'
+aS'23'
+p4681
+aS'1'
 aS'1'
 aS'8'
-aVArgentina
-p4596
-aVCABA
-p4597
-aVComuna 6
-p4598
-aa(lp4599
-S'Agustin Figuerola'
-p4600
-aS'2008'
-p4601
-aS'Scrum-half'
-p4602
 aS'Buenos Aires'
-p4603
+p4682
+aVArgentina
+p4683
+aVCABA
+p4684
+aVComuna 6
+p4685
+aa(lp4686
+S'Agustin Figuerola'
+p4687
+aS'2008'
+p4688
+aS'Scrum-half'
+p4689
 aS'7'
 aS'2'
+aS'5'
 aS'0'
 aS'0'
-aVArgentina
-p4604
-aVCABA
-p4605
-aVComuna 6
-p4606
-aa(lp4607
-S'Belisario Agulla'
-p4608
-aS'2009'
-p4609
-aS'Fullback'
-p4610
+aS'0'
 aS'Buenos Aires'
-p4611
+p4690
+aVArgentina
+p4691
+aVCABA
+p4692
+aVComuna 6
+p4693
+aa(lp4694
+S'Belisario Agulla'
+p4695
+aS'2009'
+p4696
+aS'Fullback'
+p4697
 aS'11'
-p4612
+p4698
 aS'9'
+aS'2'
+aS'0'
 aS'7'
 aS'35'
-p4613
-aVArgentina
-p4614
-aVCABA
-p4615
-aVComuna 6
-p4616
-aa(lp4617
-S'Lucas Alcacer Mackinlay'
-p4618
-aS'2009'
-p4619
-aS'Scrum-half'
-p4620
+p4699
 aS'Buenos Aires'
-p4621
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+p4700
 aVArgentina
-p4622
+p4701
 aVCABA
-p4623
+p4702
 aVComuna 6
-p4624
-aa(lp4625
-S'Rodrigo Bruno'
-p4626
+p4703
+aa(lp4704
+S'Lucas Alcacer Mackinlay'
+p4705
 aS'2009'
-p4627
+p4706
+aS'Scrum-half'
+p4707
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4708
+aVArgentina
+p4709
+aVCABA
+p4710
+aVComuna 6
+p4711
+aa(lp4712
+S'Rodrigo Bruno'
+p4713
+aS'2009'
+p4714
 aS'Flanker'
-p4628
-aS'Cordoba'
-p4629
+p4715
 aS'7'
 aS'7'
+aS'0'
+aS'0'
 aS'3'
 aS'15'
-p4630
-aVEspaña
-p4631
-aVAndalucía
-p4632
-aVCórdoba
-p4633
-aa(lp4634
-S'Pedro Garzon'
-p4635
-aS'2009'
-p4636
-aS'Fullback'
-p4637
+p4716
 aS'Cordoba'
-p4638
+p4717
+aVEspaña
+p4718
+aVAndalucía
+p4719
+aVCórdoba
+p4720
+aa(lp4721
+S'Pedro Garzon'
+p4722
+aS'2009'
+p4723
+aS'Fullback'
+p4724
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
+aS'Cordoba'
+p4725
 aVEspaña
-p4639
+p4726
 aVAndalucía
-p4640
+p4727
 aVCórdoba
-p4641
-aa(lp4642
+p4728
+aa(lp4729
 S'Santiago Gonzalez Iglesias'
-p4643
+p4730
 aS'2009'
-p4644
+p4731
 aS'Fly-half'
-p4645
-aS'Buenos Aires'
-p4646
+p4732
 aS'14'
-p4647
+p4733
 aS'7'
+aS'7'
+aS'0'
 aS'4'
 aS'91'
-p4648
-aVArgentina
-p4649
-aVCABA
-p4650
-aVComuna 6
-p4651
-aa(lp4652
-S'Juan Imhoff'
-p4653
-aS'2009'
-p4654
-aS'Wing'
-p4655
-aS'Rosario'
-p4656
-aS'26'
-p4657
-aS'9'
-aS'13'
-p4658
-aS'65'
-p4659
-aVArgentina
-p4660
-aVS2000
-p4661
-aVSFE
-p4662
-aa(lp4663
-S'Benjamin Macome'
-p4664
-aS'2009'
-p4665
-aS'No. 8'
-p4666
-aS'Tucuman'
-p4667
-aS'21'
-p4668
-aS'10'
-p4669
-aS'2'
-aS'10'
-p4670
-aVArgentina
-p4671
-aVTucumán
-p4672
-ag2589
-aa(lp4673
-S'Matias Narvaez'
-p4674
-aS'2009'
-p4675
-aS'Prop'
-p4676
-aS'Cordoba'
-p4677
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVEspaña
-p4678
-aVAndalucía
-p4679
-aVCórdoba
-p4680
-aa(lp4681
-S'Santiago Piccaluga'
-p4682
-aS'2009'
-p4683
-aS'Centre'
-p4684
-aS'Buenos Aires'
-p4685
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
-p4686
-aVCABA
-p4687
-aVComuna 6
-p4688
-aa(lp4689
-S'Guillermo Roan'
-p4690
-aS'2009'
-p4691
-aS'Prop'
-p4692
-aS'La Plata'
-p4693
-aS'7'
-aS'5'
-aS'0'
-aS'0'
-aVArgentina
-p4694
-aVBA
-p4695
-aVPartido de La Plata
-p4696
-aa(lp4697
-S'Facundo Vega'
-p4698
-aS'2009'
-p4699
-aS'Centre'
-p4700
-aS'date unknown'
-p4701
-aS'2'
-aS'2'
-aS'1'
-aS'9'
-aS'g'
-aS'n'
-aS'i'
-aa(lp4702
-S'Francisco Cubelli'
-p4703
-aS'2009'
-p4704
-aS'Scrum-half'
-p4705
-aS'date unknown'
-p4706
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp4707
-S'Ignacio di Santi'
-p4708
-aS'2009'
-p4709
-aS'Hooker'
-p4710
-aS'1988'
-p4711
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p4712
-aV\u0421\u041a\u0424\u041e
-p4713
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p4714
-aa(lp4715
-S'Paolo Mac'
-p4716
-aS'2009'
-p4717
-aS'Centre'
-p4718
-aS'1988'
-p4719
-aS'1'
-aS'1'
-aS'1'
-aS'5'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p4720
-aV\u0421\u041a\u0424\u041e
-p4721
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p4722
-aa(lp4723
-S'Federico Merlo'
-p4724
-aS'2009'
-p4725
-aS'Prop'
-p4726
-aS'date unknown'
-p4727
-aS'1'
-aS'1'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp4728
-S'Gabriel Pata Curello'
-p4729
-aS'2009'
-p4730
-aS'Back-row'
-p4731
-aS'date unknown'
-p4732
-aS'2'
-aS'2'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp4733
-S'Martin Rodriguez Gurruchage'
 p4734
-aS'2009'
+aS'Buenos Aires'
 p4735
-aS'Centre'
-p4736
-aS'Rosario'
-p4737
-aS'19'
-p4738
-aS'6'
-aS'2'
-aS'72'
-p4739
 aVArgentina
+p4736
+aVCABA
+p4737
+aVComuna 6
+p4738
+aa(lp4739
+S'Juan Imhoff'
 p4740
-aVS2000
-p4741
-aVSFE
-p4742
-aa(lp4743
-S'Horacio San Martin'
-p4744
 aS'2009'
+p4741
+aS'Wing'
+p4742
+aS'26'
+p4743
+aS'9'
+aS'17'
+p4744
+aS'0'
+aS'13'
 p4745
-aS'Centre'
+aS'65'
 p4746
-aS'Formosa'
+aS'Rosario'
 p4747
-aS'2'
-aS'1'
-aS'0'
-aS'0'
 aVArgentina
 p4748
-aVFormosa
+aVS2000
 p4749
-ag2589
-aa(lp4750
-S'Leandro Pereyra'
-p4751
-aS'2010'
+aVSFE
+p4750
+aa(lp4751
+S'Benjamin Macome'
 p4752
-aS'Prop'
+aS'2009'
 p4753
-aS'date unknown'
+aS'No. 8'
 p4754
+aS'21'
+p4755
+aS'10'
+p4756
+aS'11'
+p4757
+aS'0'
+aS'2'
+aS'10'
+p4758
+aS'Tucuman'
+p4759
+aVArgentina
+p4760
+aVTucumán
+p4761
+ag2618
+aa(lp4762
+S'Matias Narvaez'
+p4763
+aS'2009'
+p4764
+aS'Prop'
+p4765
 aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'Cordoba'
+p4766
+aVEspaña
+p4767
+aVAndalucía
+p4768
+aVCórdoba
+p4769
+aa(lp4770
+S'Santiago Piccaluga'
+p4771
+aS'2009'
+p4772
+aS'Centre'
+p4773
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4774
+aVArgentina
+p4775
+aVCABA
+p4776
+aVComuna 6
+p4777
+aa(lp4778
+S'Guillermo Roan'
+p4779
+aS'2009'
+p4780
+aS'Prop'
+p4781
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'La Plata'
+p4782
+aVArgentina
+p4783
+aVBA
+p4784
+aVPartido de La Plata
+p4785
+aa(lp4786
+S'Facundo Vega'
+p4787
+aS'2009'
+p4788
+aS'Centre'
+p4789
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'9'
+aS'date unknown'
+p4790
 aS'g'
 aS'n'
 aS'i'
-aa(lp4755
-S'Matias Viazzo'
-p4756
-aS'2010'
-p4757
-aS'Centre'
-p4758
-aS'1983'
-p4759
-aS'2'
-aS'2'
-aS'1'
-aS'5'
-aVSverige
-p4760
-aVSvealand
-p4761
-aVVästmanlands län
-p4762
-aa(lp4763
-S'Tomas Cubelli'
-p4764
-aS'2010'
-p4765
-aS'Scrum-half'
-p4766
-aS'Buenos Aires'
-p4767
-aS'34'
-p4768
-aS'15'
-p4769
-aS'8'
-aS'40'
-p4770
-aVArgentina
-p4771
-aVCABA
-p4772
-aVComuna 6
-p4773
-aa(lp4774
-S'Marcos Lobato'
-p4775
-aS'2010'
-p4776
-aS'Lock'
-p4777
-aS'Cordoba'
-p4778
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVEspaña
-p4779
-aVAndalucía
-p4780
-aVCórdoba
-p4781
-aa(lp4782
-S'Ramiro Pacheco'
-p4783
-aS'2010'
-p4784
-aS'Prop'
-p4785
-aS'Rosario'
-p4786
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
-p4787
-aVS2000
-p4788
-aVSFE
-p4789
-aa(lp4790
-S'Luciano Proto'
-p4791
-aS'2010'
+aa(lp4791
+S'Francisco Cubelli'
 p4792
-aS'Hooker'
+aS'2009'
 p4793
-aS'Tucuman'
+aS'Scrum-half'
 p4794
 aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVArgentina
+aS'0'
+aS'0'
+aS'date unknown'
 p4795
-aVTucumán
-p4796
-ag2589
-aa(lp4797
-S'Nicolas Sanchez'
+aS'g'
+aS'n'
+aS'i'
+aa(lp4796
+S'Ignacio di Santi'
+p4797
+aS'2009'
 p4798
-aS'2010'
+aS'Hooker'
 p4799
-aS'Fly-half'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1988'
 p4800
-aS'San Miguel de Tucuma'
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p4801
-aS'30'
+aV\u0421\u041a\u0424\u041e
 p4802
-aS'9'
-aS'2'
-aS'230'
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p4803
-aS'g'
-aS'n'
-aS'i'
 aa(lp4804
-S'Rodrigo Baez'
+S'Paolo Mac'
 p4805
-aS'2010'
+aS'2009'
 p4806
-aS'Flanker'
+aS'Centre'
 p4807
-aS'Mendoza'
-p4808
-aS'16'
-p4809
-aS'7'
-aS'2'
-aS'10'
-p4810
-aVArgentina
-p4811
-aVMZA
-p4812
-aVDepartamento Capital
-p4813
-aa(lp4814
-S'Nahuel Tetaz Chaparro'
-p4815
-aS'2010'
-p4816
-aS'Prop'
-p4817
-aS'General Madariaga'
-p4818
-aS'16'
-p4819
-aS'8'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
-aVArgentina
-p4820
-aVBA
-p4821
-aVPartido de General Madariaga
-p4822
-aa(lp4823
-S'Mariano Galarza'
-p4824
-aS'2010'
-p4825
-aS'Lock'
-p4826
-aS'Veinticinco de Mayo'
-p4827
-aS'24'
-p4828
-aS'7'
+aS'1988'
+p4808
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p4809
+aV\u0421\u041a\u0424\u041e
+p4810
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p4811
+aa(lp4812
+S'Federico Merlo'
+p4813
+aS'2009'
+p4814
+aS'Prop'
+p4815
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVArgentina
-p4829
-aVSanta Cruz
-p4830
-aVDeseado
-p4831
-aa(lp4832
-S'Santiago Guzman'
-p4833
-aS'2010'
-p4834
-aS'Lock'
-p4835
-aS'San Miguel de Tucuma'
-p4836
-aS'6'
-aS'4'
-aS'0'
-aS'0'
+aS'1'
+aS'5'
+aS'date unknown'
+p4816
 aS'g'
 aS'n'
 aS'i'
-aa(lp4837
-S'Juan Figallo'
-p4838
-aS'2010'
-p4839
-aS'Prop'
-p4840
-aS'Salta'
-p4841
-aS'22'
-p4842
-aS'6'
+aa(lp4817
+S'Gabriel Pata Curello'
+p4818
+aS'2009'
+p4819
+aS'Back-row'
+p4820
+aS'2'
+aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p4821
+aS'g'
+aS'n'
+aS'i'
+aa(lp4822
+S'Martin Rodriguez Gurruchage'
+p4823
+aS'2009'
+p4824
+aS'Centre'
+p4825
+aS'19'
+p4826
+aS'6'
+aS'12'
+p4827
+aS'1'
+aS'2'
+aS'72'
+p4828
+aS'Rosario'
+p4829
 aVArgentina
+p4830
+aVS2000
+p4831
+aVSFE
+p4832
+aa(lp4833
+S'Horacio San Martin'
+p4834
+aS'2009'
+p4835
+aS'Centre'
+p4836
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Formosa'
+p4837
+aVArgentina
+p4838
+aVFormosa
+p4839
+ag2618
+aa(lp4840
+S'Leandro Pereyra'
+p4841
+aS'2010'
+p4842
+aS'Prop'
 p4843
-aVSalta
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p4844
-ag2589
+aS'g'
+aS'n'
+aS'i'
 aa(lp4845
-S'Julio Farias Cabello'
+S'Matias Viazzo'
 p4846
 aS'2010'
 p4847
-aS'Back-row'
+aS'Centre'
 p4848
-aS'San Miguel de Tucuma'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'1983'
 p4849
-aS'30'
-p4850
-aS'6'
-aS'2'
-aS'10'
-p4851
-aS'g'
-aS'n'
-aS'i'
-aa(lp4852
-S'Jose Basile'
-p4853
-aS'2011'
-p4854
-aS'No. 8'
-p4855
-aS'1982'
-p4856
-aS'2'
-aS'2'
-aS'1'
-aS'5'
 aVSverige
-p4857
+p4850
 aVSvealand
-p4858
+p4851
 aVVästmanlands län
+p4852
+aa(lp4853
+S'Tomas Cubelli'
+p4854
+aS'2010'
+p4855
+aS'Scrum-half'
+p4856
+aS'34'
+p4857
+aS'15'
+p4858
+aS'19'
 p4859
-aa(lp4860
-S'Santiago Bottini'
+aS'0'
+aS'8'
+aS'40'
+p4860
+aS'Buenos Aires'
 p4861
-aS'2011'
+aVArgentina
 p4862
-aS'Fly-half'
+aVCABA
 p4863
-aS'Buenos Aires'
+aVComuna 6
 p4864
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
-p4865
-aVCABA
+aa(lp4865
+S'Marcos Lobato'
 p4866
-aVComuna 6
+aS'2010'
 p4867
-aa(lp4868
-S'Tomas de la Vega'
-p4869
-aS'2011'
-p4870
-aS'Flanker'
-p4871
-aS'Buenos Aires'
-p4872
-aS'12'
-p4873
-aS'5'
-aS'2'
-aS'10'
-p4874
-aVArgentina
-p4875
-aVCABA
-p4876
-aVComuna 6
-p4877
-aa(lp4878
-S'Tomas Rosati'
-p4879
-aS'2011'
-p4880
-aS'Fly-half'
-p4881
-aS'Buenos Aires'
-p4882
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
-p4883
-aVCABA
-p4884
-aVComuna 6
-p4885
-aa(lp4886
-S'Hugo Schierano'
-p4887
-aS'2011'
-p4888
 aS'Lock'
-p4889
-aS'1985'
-p4890
+p4868
 aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVNederland
-p4891
-aV1985
-p4892
-aVNederland
-p4893
-aa(lp4894
-S'Roberto Tejerizo'
-p4895
-aS'2011'
-p4896
+aS'0'
+aS'0'
+aS'Cordoba'
+p4869
+aVEspaña
+p4870
+aVAndalucía
+p4871
+aVCórdoba
+p4872
+aa(lp4873
+S'Ramiro Pacheco'
+p4874
+aS'2010'
+p4875
+aS'Prop'
+p4876
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Rosario'
+p4877
+aVArgentina
+p4878
+aVS2000
+p4879
+aVSFE
+p4880
+aa(lp4881
+S'Luciano Proto'
+p4882
+aS'2010'
+p4883
 aS'Hooker'
-p4897
+p4884
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tucuman'
+p4885
+aVArgentina
+p4886
+aVTucumán
+p4887
+ag2618
+aa(lp4888
+S'Nicolas Sanchez'
+p4889
+aS'2010'
+p4890
+aS'Fly-half'
+p4891
+aS'30'
+p4892
+aS'9'
+aS'20'
+p4893
+aS'1'
+aS'2'
+aS'230'
+p4894
 aS'San Miguel de Tucuma'
-p4898
-aS'4'
-aS'4'
-aS'0'
-aS'0'
+p4895
 aS'g'
 aS'n'
 aS'i'
-aa(lp4899
-S'Federico Alloggio'
+aa(lp4896
+S'Rodrigo Baez'
+p4897
+aS'2010'
+p4898
+aS'Flanker'
+p4899
+aS'16'
 p4900
-aS'2011'
+aS'7'
+aS'9'
+aS'0'
+aS'2'
+aS'10'
 p4901
-aS'Lock'
+aS'Mendoza'
 p4902
-aS'Rosario'
-p4903
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aVArgentina
+p4903
+aVMZA
 p4904
-aVS2000
+aVDepartamento Capital
 p4905
-aVSFE
-p4906
-aa(lp4907
-S'Nicolas Centurion'
+aa(lp4906
+S'Nahuel Tetaz Chaparro'
+p4907
+aS'2010'
 p4908
-aS'2011'
+aS'Prop'
 p4909
-aS'Back-row'
+aS'16'
 p4910
-aS'1989'
-p4911
-aS'2'
-aS'2'
+aS'8'
+aS'8'
+aS'0'
 aS'1'
 aS'5'
-aV\u010cesko
+aS'General Madariaga'
+p4911
+aVArgentina
 p4912
-aV43201
+aVBA
 p4913
-aVSeverozápad
+aVPartido de General Madariaga
 p4914
 aa(lp4915
-S'Gaston Cortes'
+S'Mariano Galarza'
 p4916
-aS'2011'
+aS'2010'
 p4917
-aS'Prop'
+aS'Lock'
 p4918
-aS'Cordoba'
+aS'24'
 p4919
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aVEspaña
+aS'7'
+aS'17'
 p4920
-aVAndalucía
+aS'0'
+aS'0'
+aS'0'
+aS'Veinticinco de Mayo'
 p4921
-aVCórdoba
-p4922
-aa(lp4923
-S'Benjamin Madero'
-p4924
-aS'2011'
-p4925
-aS'Fly-half'
-p4926
-aS'Buenos Aires'
-p4927
-aS'4'
-aS'3'
-aS'1'
-aS'29'
-p4928
 aVArgentina
+p4922
+aVSanta Cruz
+p4923
+aVDeseado
+p4924
+aa(lp4925
+S'Santiago Guzman'
+p4926
+aS'2010'
+p4927
+aS'Lock'
+p4928
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'San Miguel de Tucuma'
 p4929
-aVCABA
-p4930
-aVComuna 6
-p4931
-aa(lp4932
-S'Martin Maineri'
-p4933
-aS'2011'
-p4934
-aS'Scrum-half'
-p4935
-aS'date unknown'
-p4936
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
-aa(lp4937
-S'Ramiro Moyano Joya'
-p4938
-aS'2011'
-p4939
-aS'Fullback'
-p4940
-aS'Tucuman'
-p4941
+aa(lp4930
+S'Juan Figallo'
+p4931
+aS'2010'
+p4932
+aS'Prop'
+p4933
+aS'22'
+p4934
 aS'6'
-aS'6'
-aS'7'
-aS'35'
-p4942
-aVArgentina
-p4943
-aVTucumán
-p4944
-ag2589
-aa(lp4945
-S'Fernando Luna'
-p4946
-aS'2011'
-p4947
-aS'Fullback'
-p4948
-aS'1990'
-p4949
-aS'1'
-aS'1'
-aS'3'
 aS'15'
-p4950
-aVPortugal
-p4951
-aV1990
-p4952
-aVLisboa
-p4953
-aa(lp4954
-S'Walter Weiss'
-p4955
-aS'2011'
-p4956
-aS'Centre'
-p4957
-aS'1987'
-p4958
+p4935
 aS'1'
+aS'1'
+aS'5'
+aS'Salta'
+p4936
+aVArgentina
+p4937
+aVSalta
+p4938
+ag2618
+aa(lp4939
+S'Julio Farias Cabello'
+p4940
+aS'2010'
+p4941
+aS'Back-row'
+p4942
+aS'30'
+p4943
+aS'6'
+aS'23'
+p4944
 aS'1'
 aS'2'
 aS'10'
+p4945
+aS'San Miguel de Tucuma'
+p4946
+aS'g'
+aS'n'
+aS'i'
+aa(lp4947
+S'Jose Basile'
+p4948
+aS'2011'
+p4949
+aS'No. 8'
+p4950
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'1982'
+p4951
+aVSverige
+p4952
+aVSvealand
+p4953
+aVVästmanlands län
+p4954
+aa(lp4955
+S'Santiago Bottini'
+p4956
+aS'2011'
+p4957
+aS'Fly-half'
+p4958
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
 p4959
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aVArgentina
 p4960
-aV\u0421\u041a\u0424\u041e
+aVCABA
 p4961
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aVComuna 6
 p4962
 aa(lp4963
-S'Tomas Baravalle'
+S'Tomas de la Vega'
 p4964
 aS'2011'
 p4965
-aS'Prop'
-p4966
-aS'1990'
-p4967
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVPortugal
-p4968
-aV1990
-p4969
-aVLisboa
-p4970
-aa(lp4971
-S'Agustin Gosio'
-p4972
-aS'2011'
-p4973
-aS'Wing'
-p4974
-aS'Buenos Aires'
-p4975
-aS'3'
-aS'2'
-aS'1'
-aS'5'
-aVArgentina
-p4976
-aVCABA
-p4977
-aVComuna 6
-p4978
-aa(lp4979
-S'Tomas Vallejos Cinalli'
-p4980
-aS'2011'
-p4981
-aS'Lock'
-p4982
-aS'Rosario'
-p4983
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVArgentina
-p4984
-aVS2000
-p4985
-aVSFE
-p4986
-aa(lp4987
-S'Lisandro Ahualli de Chazal'
-p4988
-aS'2012'
-p4989
 aS'Flanker'
-p4990
-aS'San Miguel de Tucuma'
-p4991
-aS'6'
-aS'6'
-aS'1'
+p4966
+aS'12'
+p4967
 aS'5'
+aS'7'
+aS'0'
+aS'2'
+aS'10'
+p4968
+aS'Buenos Aires'
+p4969
+aVArgentina
+p4970
+aVCABA
+p4971
+aVComuna 6
+p4972
+aa(lp4973
+S'Tomas Rosati'
+p4974
+aS'2011'
+p4975
+aS'Fly-half'
+p4976
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p4977
+aVArgentina
+p4978
+aVCABA
+p4979
+aVComuna 6
+p4980
+aa(lp4981
+S'Hugo Schierano'
+p4982
+aS'2011'
+p4983
+aS'Lock'
+p4984
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1985'
+p4985
+aVNederland
+p4986
+aV1985
+p4987
+aVNederland
+p4988
+aa(lp4989
+S'Roberto Tejerizo'
+p4990
+aS'2011'
+p4991
+aS'Hooker'
+p4992
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'San Miguel de Tucuma'
+p4993
 aS'g'
 aS'n'
 aS'i'
-aa(lp4992
-S'Valentin Cruz Hernestrosa'
-p4993
-aS'2012'
-p4994
-aS'Fly-half'
+aa(lp4994
+S'Federico Alloggio'
 p4995
-aS'1990'
+aS'2011'
 p4996
+aS'Lock'
+p4997
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Rosario'
+p4998
+aVArgentina
+p4999
+aVS2000
+p5000
+aVSFE
+p5001
+aa(lp5002
+S'Nicolas Centurion'
+p5003
+aS'2011'
+p5004
+aS'Back-row'
+p5005
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'1989'
+p5006
+aV\u010cesko
+p5007
+aV43201
+p5008
+aVSeverozápad
+p5009
+aa(lp5010
+S'Gaston Cortes'
+p5011
+aS'2011'
+p5012
+aS'Prop'
+p5013
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cordoba'
+p5014
+aVEspaña
+p5015
+aVAndalucía
+p5016
+aVCórdoba
+p5017
+aa(lp5018
+S'Benjamin Madero'
+p5019
+aS'2011'
+p5020
+aS'Fly-half'
+p5021
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'1'
+aS'29'
+p5022
+aS'Buenos Aires'
+p5023
+aVArgentina
+p5024
+aVCABA
+p5025
+aVComuna 6
+p5026
+aa(lp5027
+S'Martin Maineri'
+p5028
+aS'2011'
+p5029
+aS'Scrum-half'
+p5030
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p5031
+aS'g'
+aS'n'
+aS'i'
+aa(lp5032
+S'Ramiro Moyano Joya'
+p5033
+aS'2011'
+p5034
+aS'Fullback'
+p5035
+aS'6'
+aS'6'
+aS'0'
+aS'0'
+aS'7'
+aS'35'
+p5036
+aS'Tucuman'
+p5037
+aVArgentina
+p5038
+aVTucumán
+p5039
+ag2618
+aa(lp5040
+S'Fernando Luna'
+p5041
+aS'2011'
+p5042
+aS'Fullback'
+p5043
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'3'
+aS'15'
+p5044
+aS'1990'
+p5045
+aVPortugal
+p5046
+aV1990
+p5047
+aVLisboa
+p5048
+aa(lp5049
+S'Walter Weiss'
+p5050
+aS'2011'
+p5051
+aS'Centre'
+p5052
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'10'
+p5053
+aS'1987'
+p5054
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p5055
+aV\u0421\u041a\u0424\u041e
+p5056
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p5057
+aa(lp5058
+S'Tomas Baravalle'
+p5059
+aS'2011'
+p5060
+aS'Prop'
+p5061
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1990'
+p5062
+aVPortugal
+p5063
+aV1990
+p5064
+aVLisboa
+p5065
+aa(lp5066
+S'Agustin Gosio'
+p5067
+aS'2011'
+p5068
+aS'Wing'
+p5069
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p5070
+aVArgentina
+p5071
+aVCABA
+p5072
+aVComuna 6
+p5073
+aa(lp5074
+S'Tomas Vallejos Cinalli'
+p5075
+aS'2011'
+p5076
+aS'Lock'
+p5077
+aS'6'
 aS'3'
 aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Rosario'
+p5078
+aVArgentina
+p5079
+aVS2000
+p5080
+aVSFE
+p5081
+aa(lp5082
+S'Lisandro Ahualli de Chazal'
+p5083
+aS'2012'
+p5084
+aS'Flanker'
+p5085
+aS'6'
+aS'6'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'San Miguel de Tucuma'
+p5086
+aS'g'
+aS'n'
+aS'i'
+aa(lp5087
+S'Valentin Cruz Hernestrosa'
+p5088
+aS'2012'
+p5089
+aS'Fly-half'
+p5090
+aS'3'
+aS'3'
+aS'0'
+aS'0'
 aS'0'
 aS'32'
-p4997
+p5091
+aS'1990'
+p5092
 aVPortugal
-p4998
+p5093
 aV1990
-p4999
+p5094
 aVLisboa
-p5000
-aa(lp5001
+p5095
+aa(lp5096
 S'Martin Garcia Veiga'
-p5002
+p5097
 aS'2012'
-p5003
+p5098
 aS'Hooker'
-p5004
-aS'Buenos Aires'
-p5005
+p5099
 aS'6'
 aS'4'
+aS'2'
+aS'0'
 aS'1'
 aS'5'
+aS'Buenos Aires'
+p5100
 aVArgentina
-p5006
+p5101
 aVCABA
-p5007
+p5102
 aVComuna 6
-p5008
-aa(lp5009
+p5103
+aa(lp5104
 S'Manuel Montero'
-p5010
+p5105
 aS'2012'
-p5011
+p5106
 aS'Wing'
-p5012
-aS'Adrogue'
-p5013
+p5107
 aS'21'
-p5014
+p5108
 aS'9'
+aS'12'
+p5109
+aS'0'
 aS'14'
-p5015
+p5110
 aS'70'
-p5016
+p5111
+aS'Adrogue'
+p5112
 aVArgentina
-p5017
+p5113
 aVBA
-p5018
+p5114
 aVPartido de Almirante Brown
-p5019
-aa(lp5020
+p5115
+aa(lp5116
 S'Matias Orlando'
-p5021
+p5117
 aS'2012'
-p5022
+p5118
 aS'Centre'
-p5023
-aS'Tucuman'
-p5024
+p5119
 aS'10'
-p5025
+p5120
 aS'6'
+aS'4'
+aS'0'
 aS'2'
 aS'10'
-p5026
+p5121
+aS'Tucuman'
+p5122
 aVArgentina
-p5027
+p5123
 aVTucumán
-p5028
-ag2589
-aa(lp5029
+p5124
+ag2618
+aa(lp5125
 S'Javier Ortega Desio'
-p5030
+p5126
 aS'2012'
-p5031
+p5127
 aS'Flanker'
-p5032
-aS'Parana'
-p5033
+p5128
 aS'14'
-p5034
+p5129
 aS'10'
-p5035
+p5130
+aS'4'
+aS'0'
 aS'5'
 aS'25'
-p5036
+p5131
+aS'Parana'
+p5132
 aVBrasil
-p5037
+p5133
 aVRegião Nordeste
-p5038
+p5134
 aVPE
-p5039
-aa(lp5040
+p5135
+aa(lp5136
 S'Diego Palma'
-p5041
+p5137
 aS'2012'
-p5042
+p5138
 aS'Wing'
-p5043
+p5139
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'1988'
-p5044
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+p5140
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p5045
+p5141
 aV\u0421\u041a\u0424\u041e
-p5046
+p5142
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p5047
-aa(lp5048
+p5143
+aa(lp5144
 S'Javier Rojas Alvarez'
-p5049
+p5145
 aS'2012'
-p5050
+p5146
 aS'Centre'
-p5051
-aS'Tucuman'
-p5052
+p5147
 aS'5'
 aS'5'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
+aS'Tucuman'
+p5148
 aVArgentina
-p5053
+p5149
 aVTucumán
-p5054
-ag2589
-aa(lp5055
+p5150
+ag2618
+aa(lp5151
 S'Stefano Ambrosio'
-p5056
+p5152
 aS'2012'
-p5057
+p5153
 aS'Centre, Fly-half'
-p5058
-aS'Cordoba'
-p5059
+p5154
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'0'
 aS'18'
-p5060
-aVEspaña
-p5061
-aVAndalucía
-p5062
-aVCórdoba
-p5063
-aa(lp5064
-S'Nicolas Azorin'
-p5065
-aS'2012'
-p5066
-aS'Flanker'
-p5067
-aS'Mar del Plata'
-p5068
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
-p5069
-aVBA
-p5070
-aVPartido de General Pueyrredón
-p5071
-aa(lp5072
-S'Facundo Barrea'
-p5073
-aS'2012'
-p5074
-aS'Wing'
-p5075
+p5155
 aS'Cordoba'
-p5076
+p5156
+aVEspaña
+p5157
+aVAndalucía
+p5158
+aVCórdoba
+p5159
+aa(lp5160
+S'Nicolas Azorin'
+p5161
+aS'2012'
+p5162
+aS'Flanker'
+p5163
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Mar del Plata'
+p5164
+aVArgentina
+p5165
+aVBA
+p5166
+aVPartido de General Pueyrredón
+p5167
+aa(lp5168
+S'Facundo Barrea'
+p5169
+aS'2012'
+p5170
+aS'Wing'
+p5171
 aS'4'
 aS'3'
+aS'1'
+aS'0'
 aS'8'
 aS'40'
-p5077
+p5172
+aS'Cordoba'
+p5173
 aVEspaña
-p5078
+p5174
 aVAndalucía
-p5079
+p5175
 aVCórdoba
-p5080
-aa(lp5081
+p5176
+aa(lp5177
 S'Cesar Fruttero'
-p5082
+p5178
 aS'2012'
-p5083
+p5179
 aS'Lock'
-p5084
+p5180
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
 aS'Villa Maria'
-p5085
-aS'5'
-aS'5'
-aS'1'
-aS'5'
+p5181
 aVCanada
-p5086
+p5182
 aVH4A 1C6
-p5087
+p5183
 aVQuébec
-p5088
-aa(lp5089
+p5184
+aa(lp5185
 S'Bruno Postiglioni'
-p5090
+p5186
 aS'2012'
-p5091
+p5187
 aS'Prop, Hooker'
-p5092
-aS'La Plata'
-p5093
+p5188
 aS'18'
-p5094
+p5189
 aS'12'
-p5095
+p5190
+aS'6'
+aS'0'
 aS'1'
 aS'5'
+aS'La Plata'
+p5191
 aVArgentina
-p5096
+p5192
 aVBA
-p5097
+p5193
 aVPartido de La Plata
-p5098
-aa(lp5099
+p5194
+aa(lp5195
 S'Ignacio Saenz Lancuba'
-p5100
+p5196
 aS'2012'
-p5101
+p5197
 aS'Prop'
-p5102
+p5198
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Buenos Aires'
-p5103
-aS'5'
-aS'5'
-aS'0'
-aS'0'
+p5199
 aVArgentina
-p5104
+p5200
 aVCABA
-p5105
+p5201
 aVComuna 6
-p5106
-aa(lp5107
+p5202
+aa(lp5203
 S'German Araoz'
-p5108
+p5204
 aS'2012'
-p5109
+p5205
 aS'Prop'
-p5110
+p5206
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'San Miguel de Tucuma'
-p5111
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+p5207
 aS'g'
 aS'n'
 aS'i'
-aa(lp5112
+aa(lp5208
 S'Santiago Craig'
-p5113
+p5209
 aS'2012'
-p5114
+p5210
 aS'Centre'
-p5115
-aS'Buenos Aires'
-p5116
+p5211
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'3'
 aS'15'
-p5117
+p5212
+aS'Buenos Aires'
+p5213
 aVArgentina
-p5118
+p5214
 aVCABA
-p5119
+p5215
 aVComuna 6
-p5120
-aa(lp5121
+p5216
+aa(lp5217
 S'Joaquin Tuculet'
-p5122
+p5218
 aS'2012'
-p5123
+p5219
 aS'Centre'
-p5124
-aS'La Plata'
-p5125
+p5220
 aS'20'
-p5126
+p5221
 aS'8'
+aS'12'
+p5222
+aS'0'
 aS'6'
 aS'30'
-p5127
+p5223
+aS'La Plata'
+p5224
 aVArgentina
-p5128
+p5225
 aVBA
-p5129
+p5226
 aVPartido de La Plata
-p5130
-aa(lp5131
+p5227
+aa(lp5228
 S'Andres Bordoy'
-p5132
+p5229
 aS'2012'
-p5133
+p5230
 aS'Hooker'
-p5134
-aS'1982'
-p5135
+p5231
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVSverige
-p5136
-aVSvealand
-p5137
-aVVästmanlands län
-p5138
-aa(lp5139
-S'Nahuel Lobo'
-p5140
-aS'2012'
-p5141
-aS'Prop'
-p5142
-aS'Chajari'
-p5143
-aS'10'
-p5144
 aS'1'
 aS'0'
 aS'0'
-aVEspaña
-p5145
-aVExtremadura
-p5146
-aVBadajoz
-p5147
-aa(lp5148
-S'Maximiliano Bustos'
-p5149
+aS'0'
+aS'1982'
+p5232
+aVSverige
+p5233
+aVSvealand
+p5234
+aVVästmanlands län
+p5235
+aa(lp5236
+S'Nahuel Lobo'
+p5237
 aS'2012'
-p5150
+p5238
 aS'Prop'
-p5151
-aS'Santa Fe'
-p5152
+p5239
+aS'10'
+p5240
+aS'1'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Chajari'
+p5241
+aVEspaña
+p5242
+aVExtremadura
+p5243
+aVBadajoz
+p5244
+aa(lp5245
+S'Maximiliano Bustos'
+p5246
+aS'2012'
+p5247
+aS'Prop'
+p5248
 aS'7'
 aS'2'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'Santa Fe'
+p5249
 aVUnited States of America
-p5153
+p5250
 aVNew Mexico
-p5154
+p5251
 aVSanta Fe County
-p5155
-aa(lp5156
+p5252
+aa(lp5253
 S'Juan Cappiello'
-p5157
+p5254
 aS'2013'
-p5158
+p5255
 aS'Centre'
-p5159
-aS'Buenos Aires'
-p5160
+p5256
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
+aS'Buenos Aires'
+p5257
 aVArgentina
-p5161
+p5258
 aVCABA
-p5162
+p5259
 aVComuna 6
-p5163
-aa(lp5164
+p5260
+aa(lp5261
 S'Tomas Carrio'
-p5165
+p5262
 aS'2013'
-p5166
+p5263
 aS'Fullback'
-p5167
-aS'Chaco'
-p5168
+p5264
 aS'6'
 aS'6'
+aS'0'
+aS'0'
 aS'3'
 aS'15'
-p5169
+p5265
+aS'Chaco'
+p5266
 aVArgentina
-p5170
+p5267
 aVChaco
-p5171
-ag2589
-aa(lp5172
+p5268
+ag2618
+aa(lp5269
 S'Matias Diaz'
-p5173
+p5270
 aS'2013'
-p5174
+p5271
 aS'Prop'
-p5175
-aS'Mendoza'
-p5176
+p5272
 aS'9'
 aS'4'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'Mendoza'
+p5273
 aVArgentina
-p5177
+p5274
 aVMZA
-p5178
+p5275
 aVDepartamento Capital
-p5179
-aa(lp5180
+p5276
+aa(lp5277
 S'Dan Isaack'
-p5181
+p5278
 aS'2013'
-p5182
+p5279
 aS'Centre'
-p5183
-aS'Rosario'
-p5184
+p5280
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'4'
 aS'20'
-p5185
+p5281
+aS'Rosario'
+p5282
 aVArgentina
-p5186
+p5283
 aVS2000
-p5187
+p5284
 aVSFE
-p5188
-aa(lp5189
+p5285
+aa(lp5286
 S'Fidel Lamy'
-p5190
+p5287
 aS'2013'
-p5191
+p5288
 aS'Flanker'
-p5192
+p5289
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Mendoza'
-p5193
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p5290
 aVArgentina
-p5194
+p5291
 aVMZA
-p5195
+p5292
 aVDepartamento Capital
-p5196
-aa(lp5197
+p5293
+aa(lp5294
 S'Tomas Lavanini'
-p5198
+p5295
 aS'2013'
-p5199
+p5296
 aS'Lock'
-p5200
-aS'Buenos Aires'
-p5201
+p5297
 aS'18'
-p5202
+p5298
 aS'8'
+aS'10'
+p5299
+aS'0'
 aS'1'
 aS'5'
-aVArgentina
-p5203
-aVCABA
-p5204
-aVComuna 6
-p5205
-aa(lp5206
-S'Santiago Mendez Angelillo'
-p5207
-aS'2013'
-p5208
-aS'Scrum-half'
-p5209
 aS'Buenos Aires'
-p5210
+p5300
+aVArgentina
+p5301
+aVCABA
+p5302
+aVComuna 6
+p5303
+aa(lp5304
+S'Santiago Mendez Angelillo'
+p5305
+aS'2013'
+p5306
+aS'Scrum-half'
+p5307
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
+aS'Buenos Aires'
+p5308
 aVArgentina
-p5211
+p5309
 aVCABA
-p5212
+p5310
 aVComuna 6
-p5213
-aa(lp5214
+p5311
+aa(lp5312
 S'Francisco Panessi'
-p5215
+p5313
 aS'2013'
-p5216
+p5314
 aS'No. 8'
-p5217
+p5315
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Villa la Angostura'
-p5218
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+p5316
 aVArgentina
-p5219
+p5317
 aVNeuquén
-p5220
+p5318
 aVDepartamento Los Lagos
-p5221
-aa(lp5222
+p5319
+aa(lp5320
 S'Joaquin Paz'
-p5223
+p5321
 aS'2013'
-p5224
+p5322
 aS'Fly-half'
-p5225
-aS'Cordoba'
-p5226
+p5323
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'10'
-p5227
+p5324
+aS'Cordoba'
+p5325
 aVEspaña
-p5228
+p5326
 aVAndalucía
-p5229
+p5327
 aVCórdoba
-p5230
-aa(lp5231
+p5328
+aa(lp5329
 S'Sebastian Poet'
-p5232
+p5330
 aS'2013'
-p5233
+p5331
 aS'Fly-half'
-p5234
-aS'Rosario'
-p5235
+p5332
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'4'
 aS'34'
-p5236
+p5333
+aS'Rosario'
+p5334
 aVArgentina
-p5237
+p5335
 aVS2000
-p5238
+p5336
 aVSFE
-p5239
-aa(lp5240
+p5337
+aa(lp5338
 S'Santiago Rocchia'
-p5241
+p5339
 aS'2013'
-p5242
+p5340
 aS'Flanker'
-p5243
+p5341
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
 aS'Tucuman'
-p5244
-aS'3'
-aS'3'
-aS'1'
-aS'5'
+p5342
 aVArgentina
-p5245
+p5343
 aVTucumán
-p5246
-ag2589
-aa(lp5247
+p5344
+ag2618
+aa(lp5345
 S'German Schulz'
-p5248
+p5346
 aS'2013'
-p5249
+p5347
 aS'Wing'
-p5250
-aS'Cordoba'
-p5251
+p5348
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
+aS'Cordoba'
+p5349
 aVEspaña
-p5252
+p5350
 aVAndalucía
-p5253
+p5351
 aVCórdoba
-p5254
-aa(lp5255
+p5352
+aa(lp5353
 S'Santiago Alvarez'
-p5256
+p5354
 aS'2013'
-p5257
+p5355
 aS'Centre'
-p5258
-aS'Bahia Blanca'
-p5259
+p5356
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'10'
-p5260
+p5357
+aS'Bahia Blanca'
+p5358
 aVArgentina
-p5261
+p5359
 aVBA
-p5262
+p5360
 aVPartido de Bahía Blanca
-p5263
-aa(lp5264
+p5361
+aa(lp5362
 S'Tomas Borghi'
-p5265
+p5363
 aS'2013'
-p5266
+p5364
 aS'Lock'
-p5267
-aS'Buenos Aires'
-p5268
+p5365
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
+aS'Buenos Aires'
+p5366
 aVArgentina
-p5269
+p5367
 aVCABA
-p5270
+p5368
 aVComuna 6
-p5271
-aa(lp5272
+p5369
+aa(lp5370
 S'Martin Chiappesoni'
-p5273
+p5371
 aS'2013'
-p5274
+p5372
 aS'Lock'
-p5275
-aS'Parana'
-p5276
+p5373
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'3'
 aS'15'
-p5277
+p5374
+aS'Parana'
+p5375
 aVBrasil
-p5278
+p5376
 aVRegião Nordeste
-p5279
+p5377
 aVPE
-p5280
-aa(lp5281
+p5378
+aa(lp5379
 S'Tomas Gilardon'
-p5282
+p5380
 aS'2013'
-p5283
+p5381
 aS'Prop'
-p5284
+p5382
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Buenos Aires'
-p5285
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p5383
 aVArgentina
-p5286
+p5384
 aVCABA
-p5287
+p5385
 aVComuna 6
-p5288
-aa(lp5289
+p5386
+aa(lp5387
 S'Santiago Iglesias Valdez'
-p5290
+p5388
 aS'2013'
-p5291
+p5389
 aS'Hooker'
-p5292
-aS'Tucuman'
-p5293
+p5390
 aS'10'
-p5294
+p5391
 aS'6'
+aS'4'
+aS'0'
 aS'1'
 aS'5'
+aS'Tucuman'
+p5392
 aVArgentina
-p5295
+p5393
 aVTucumán
-p5296
-ag2589
-aa(lp5297
+p5394
+ag2618
+aa(lp5395
 S'Pedro Imhoff'
-p5298
+p5396
 aS'2013'
-p5299
+p5397
 aS'Scrum-half'
-p5300
-aS'Rosario'
-p5301
+p5398
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'10'
-p5302
-aVArgentina
-p5303
-aVS2000
-p5304
-aVSFE
-p5305
-aa(lp5306
-S'Patricio Fernandez Fiant'
-p5307
-aS'2013'
-p5308
-aS'Fullback'
-p5309
+p5399
 aS'Rosario'
-p5310
+p5400
+aVArgentina
+p5401
+aVS2000
+p5402
+aVSFE
+p5403
+aa(lp5404
+S'Patricio Fernandez Fiant'
+p5405
+aS'2013'
+p5406
+aS'Fullback'
+p5407
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'2'
 aS'38'
-p5311
-aVArgentina
-p5312
-aVS2000
-p5313
-aVSFE
-p5314
-aa(lp5315
-S'Santiago Garcia Botta'
-p5316
-aS'2013'
-p5317
-aS'Prop'
-p5318
-aS'Buenos Aires'
-p5319
-aS'4'
-aS'4'
-aS'1'
-aS'5'
-aVArgentina
-p5320
-aVCABA
-p5321
-aVComuna 6
-p5322
-aa(lp5323
-S'Pablo Matera'
-p5324
-aS'2013'
-p5325
-aS'Flanker'
-p5326
-aS'Buenos Aires'
-p5327
-aS'14'
-p5328
-aS'4'
-aS'2'
-aS'10'
-p5329
-aVArgentina
-p5330
-aVCABA
-p5331
-aVComuna 6
-p5332
-aa(lp5333
-S'Joaquin Paz'
-p5334
-aS'2013'
-p5335
-aS'Fullback'
-p5336
-aS'Buenos Aires'
-p5337
-aS'2'
-aS'2'
-aS'1'
-aS'5'
-aVArgentina
-p5338
-aVCABA
-p5339
-aVComuna 6
-p5340
-aa(lp5341
-S'Macario Villaluenga'
-p5342
-aS'2013'
-p5343
-aS'Wing'
-p5344
-aS'Tucuman'
-p5345
-aS'2'
-aS'2'
-aS'2'
-aS'10'
-p5346
-aVArgentina
-p5347
-aVTucumán
-p5348
-ag2589
-aa(lp5349
-S'Gonzalo Manso'
-p5350
-aS'2013'
-p5351
-aS'Hooker'
-p5352
-aS'Tucuman'
-p5353
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
-p5354
-aVTucumán
-p5355
-ag2589
-aa(lp5356
-S'Santiago Cordero'
-p5357
-aS'2013'
-p5358
-aS'Fullback'
-p5359
-aS'Buenos Aires'
-p5360
-aS'9'
-aS'5'
-aS'3'
-aS'15'
-p5361
-aVArgentina
-p5362
-aVCABA
-p5363
-aVComuna 6
-p5364
-aa(lp5365
-S'Antonio Ahualli de Chazal'
-p5366
-aS'2014'
-p5367
-aS'No. 8'
-p5368
-aS'Tucuman'
-p5369
-aS'4'
-aS'2'
-aS'1'
-aS'5'
-aVArgentina
-p5370
-aVTucumán
-p5371
-ag2589
-aa(lp5372
-S'Matias Alemanno'
-p5373
-aS'2014'
-p5374
-aS'Lock'
-p5375
-aS'Cordoba'
-p5376
-aS'11'
-p5377
-aS'3'
-aS'1'
-aS'5'
-aVEspaña
-p5378
-aVAndalucía
-p5379
-aVCórdoba
-p5380
-aa(lp5381
-S'Jeronimo de la Fuente'
-p5382
-aS'2014'
-p5383
-aS'Centre'
-p5384
-aS'Rosario'
-p5385
-aS'11'
-p5386
-aS'6'
-aS'4'
-aS'20'
-p5387
-aVArgentina
-p5388
-aVS2000
-p5389
-aVSFE
-p5390
-aa(lp5391
-S'Lucas Noguera Paz'
-p5392
-aS'2014'
-p5393
-aS'Prop'
-p5394
-aS'Tucuman'
-p5395
-aS'13'
-p5396
-aS'6'
-aS'1'
-aS'5'
-aVArgentina
-p5397
-aVTucumán
-p5398
-ag2589
-aa(lp5399
-S'Lucas Ponce'
-p5400
-aS'2014'
-p5401
-aS'Lock'
-p5402
-aS'Buenos Aires'
-p5403
-aS'5'
-aS'4'
-aS'1'
-aS'5'
-aVArgentina
-p5404
-aVCABA
-p5405
-aVComuna 6
-p5406
-aa(lp5407
-S'Felipe Ezcurra'
 p5408
-aS'2014'
+aS'Rosario'
 p5409
-aS'Scrum-half'
-p5410
-aS'Buenos Aires'
-p5411
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aVArgentina
+p5410
+aVS2000
+p5411
+aVSFE
 p5412
-aVCABA
-p5413
-aVComuna 6
+aa(lp5413
+S'Santiago Garcia Botta'
 p5414
-aa(lp5415
-S'Julian Montoya'
+aS'2013'
+p5415
+aS'Prop'
 p5416
-aS'2014'
-p5417
-aS'Hooker'
-p5418
-aS'Buenos Aires'
-p5419
-aS'6'
 aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p5417
+aVArgentina
+p5418
+aVCABA
+p5419
+aVComuna 6
+p5420
+aa(lp5421
+S'Pablo Matera'
+p5422
+aS'2013'
+p5423
+aS'Flanker'
+p5424
+aS'14'
+p5425
+aS'4'
+aS'10'
+p5426
+aS'0'
 aS'2'
 aS'10'
-p5420
-aVArgentina
-p5421
-aVCABA
-p5422
-aVComuna 6
-p5423
-aa(lp5424
-S'Lucas Maguire'
-p5425
-aS'2014'
-p5426
-aS'Back-row'
 p5427
 aS'Buenos Aires'
 p5428
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVArgentina
 p5429
 aVCABA
@@ -14263,211 +15713,488 @@ p5430
 aVComuna 6
 p5431
 aa(lp5432
-S'Ramiro Herrera'
+S'Joaquin Paz'
 p5433
-aS'2014'
+aS'2013'
 p5434
-aS'Prop'
+aS'Fullback'
 p5435
-aS'Comodoro Rivadavia'
-p5436
-aS'11'
-p5437
-aS'3'
-aS'0'
-aS'0'
-aVArgentina
-p5438
-aVChubut
-p5439
-aVDepartamento Escalante
-p5440
-aa(lp5441
-S'Matias Moroni'
-p5442
-aS'2014'
-p5443
-aS'Centre'
-p5444
-aS'Buenos Aires'
-p5445
 aS'2'
+aS'2'
+aS'0'
+aS'0'
 aS'1'
+aS'5'
+aS'Buenos Aires'
+p5436
+aVArgentina
+p5437
+aVCABA
+p5438
+aVComuna 6
+p5439
+aa(lp5440
+S'Macario Villaluenga'
+p5441
+aS'2013'
+p5442
+aS'Wing'
+p5443
+aS'2'
+aS'2'
 aS'0'
 aS'0'
+aS'2'
+aS'10'
+p5444
+aS'Tucuman'
+p5445
 aVArgentina
 p5446
-aVCABA
+aVTucumán
 p5447
-aVComuna 6
-p5448
-aa(lp5449
-S'Juan Cruz Guillemain'
+ag2618
+aa(lp5448
+S'Gonzalo Manso'
+p5449
+aS'2013'
 p5450
-aS'2014'
+aS'Hooker'
 p5451
-aS'Lock'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tucuman'
 p5452
-aS'San Juan'
+aVArgentina
 p5453
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited States of America
+aVTucumán
 p5454
-aVPuerto Rico
-p5455
-aVSan Juan
+ag2618
+aa(lp5455
+S'Santiago Cordero'
 p5456
-aa(lp5457
-S'Facundo Isa'
+aS'2013'
+p5457
+aS'Fullback'
 p5458
-aS'2014'
-p5459
-aS'Flanker'
-p5460
-aS'Santiago del Estero'
-p5461
+aS'9'
 aS'5'
 aS'4'
-aS'1'
-aS'5'
+aS'0'
+aS'3'
+aS'15'
+p5459
+aS'Buenos Aires'
+p5460
 aVArgentina
+p5461
+aVCABA
 p5462
-aVSantiago del Estero
+aVComuna 6
 p5463
-ag2589
 aa(lp5464
-S'Guido Petti Pagadizaval'
+S'Antonio Ahualli de Chazal'
 p5465
 aS'2014'
 p5466
-aS'Lock'
+aS'No. 8'
 p5467
-aS'Buenos Aires'
-p5468
 aS'4'
-aS'4'
+aS'2'
+aS'2'
 aS'0'
-aS'0'
-aVArgentina
-p5469
-aVCABA
-p5470
-aVComuna 6
-p5471
-aa(lp5472
-S'Tomas Lezana'
-p5473
-aS'2014'
-p5474
-aS'Flanker'
-p5475
-aS'Santiago del Estero'
-p5476
-aS'3'
-aS'3'
 aS'1'
 aS'5'
+aS'Tucuman'
+p5468
 aVArgentina
-p5477
-aVSantiago del Estero
-p5478
-ag2589
-aa(lp5479
-S'Geronimo Albertario'
-p5480
-aS'2015'
-p5481
+p5469
+aVTucumán
+p5470
+ag2618
+aa(lp5471
+S'Matias Alemanno'
+p5472
+aS'2014'
+p5473
 aS'Lock'
+p5474
+aS'11'
+p5475
+aS'3'
+aS'8'
+aS'0'
+aS'1'
+aS'5'
+aS'Cordoba'
+p5476
+aVEspaña
+p5477
+aVAndalucía
+p5478
+aVCórdoba
+p5479
+aa(lp5480
+S'Jeronimo de la Fuente'
+p5481
+aS'2014'
 p5482
-aS'Buenos Aires'
+aS'Centre'
 p5483
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVArgentina
+aS'11'
 p5484
-aVCABA
+aS'6'
+aS'5'
+aS'0'
+aS'4'
+aS'20'
 p5485
-aVComuna 6
+aS'Rosario'
 p5486
-aa(lp5487
-S'Gregorio del Prete'
-p5488
-aS'2015'
-p5489
-aS'Scrum-half'
-p5490
-aS'Mar del Plata'
-p5491
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVArgentina
+p5487
+aVS2000
+p5488
+aVSFE
+p5489
+aa(lp5490
+S'Lucas Noguera Paz'
+p5491
+aS'2014'
 p5492
-aVBA
+aS'Prop'
 p5493
-aVPartido de General Pueyrredón
+aS'13'
 p5494
-aa(lp5495
-S'Juan Leon Novillo'
+aS'6'
+aS'7'
+aS'0'
+aS'1'
+aS'5'
+aS'Tucuman'
+p5495
+aVArgentina
 p5496
-aS'2015'
+aVTucumán
 p5497
-aS'Wing'
-p5498
-aS'1992'
+ag2618
+aa(lp5498
+S'Lucas Ponce'
 p5499
+aS'2014'
+p5500
+aS'Lock'
+p5501
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Buenos Aires'
+p5502
+aVArgentina
+p5503
+aVCABA
+p5504
+aVComuna 6
+p5505
+aa(lp5506
+S'Felipe Ezcurra'
+p5507
+aS'2014'
+p5508
+aS'Scrum-half'
+p5509
 aS'2'
 aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p5510
+aVArgentina
+p5511
+aVCABA
+p5512
+aVComuna 6
+p5513
+aa(lp5514
+S'Julian Montoya'
+p5515
+aS'2014'
+p5516
+aS'Hooker'
+p5517
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'2'
+aS'10'
+p5518
+aS'Buenos Aires'
+p5519
+aVArgentina
+p5520
+aVCABA
+p5521
+aVComuna 6
+p5522
+aa(lp5523
+S'Lucas Maguire'
+p5524
+aS'2014'
+p5525
+aS'Back-row'
+p5526
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p5527
+aVArgentina
+p5528
+aVCABA
+p5529
+aVComuna 6
+p5530
+aa(lp5531
+S'Ramiro Herrera'
+p5532
+aS'2014'
+p5533
+aS'Prop'
+p5534
+aS'11'
+p5535
+aS'3'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Comodoro Rivadavia'
+p5536
+aVArgentina
+p5537
+aVChubut
+p5538
+aVDepartamento Escalante
+p5539
+aa(lp5540
+S'Matias Moroni'
+p5541
+aS'2014'
+p5542
+aS'Centre'
+p5543
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p5544
+aVArgentina
+p5545
+aVCABA
+p5546
+aVComuna 6
+p5547
+aa(lp5548
+S'Juan Cruz Guillemain'
+p5549
+aS'2014'
+p5550
+aS'Lock'
+p5551
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'San Juan'
+p5552
+aVUnited States of America
+p5553
+aVPuerto Rico
+p5554
+aVSan Juan
+p5555
+aa(lp5556
+S'Facundo Isa'
+p5557
+aS'2014'
+p5558
+aS'Flanker'
+p5559
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Santiago del Estero'
+p5560
+aVArgentina
+p5561
+aVSantiago del Estero
+p5562
+ag2618
+aa(lp5563
+S'Guido Petti Pagadizaval'
+p5564
+aS'2014'
+p5565
+aS'Lock'
+p5566
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p5567
+aVArgentina
+p5568
+aVCABA
+p5569
+aVComuna 6
+p5570
+aa(lp5571
+S'Tomas Lezana'
+p5572
+aS'2014'
+p5573
+aS'Flanker'
+p5574
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Santiago del Estero'
+p5575
+aVArgentina
+p5576
+aVSantiago del Estero
+p5577
+ag2618
+aa(lp5578
+S'Geronimo Albertario'
+p5579
+aS'2015'
+p5580
+aS'Lock'
+p5581
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Buenos Aires'
+p5582
+aVArgentina
+p5583
+aVCABA
+p5584
+aVComuna 6
+p5585
+aa(lp5586
+S'Gregorio del Prete'
+p5587
+aS'2015'
+p5588
+aS'Scrum-half'
+p5589
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Mar del Plata'
+p5590
+aVArgentina
+p5591
+aVBA
+p5592
+aVPartido de General Pueyrredón
+p5593
+aa(lp5594
+S'Juan Leon Novillo'
+p5595
+aS'2015'
+p5596
+aS'Wing'
+p5597
+aS'2'
+aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'17'
-p5500
+p5598
+aS'1992'
+p5599
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p5501
+p5600
 aV\u0421\u041a\u0424\u041e
-p5502
+p5601
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p5503
-aa(lp5504
+p5602
+aa(lp5603
 S'Gonzalo Bertranou'
-p5505
+p5604
 aS'2015'
-p5506
+p5605
 aS'Scrum-half'
-p5507
+p5606
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Mendoza'
-p5508
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p5607
 aVArgentina
-p5509
+p5608
 aVMZA
-p5510
+p5609
 aVDepartamento Capital
-p5511
-aa(lp5512
+p5610
+aa(lp5611
 S'Manuel Plaza'
-p5513
+p5612
 aS'2015'
-p5514
+p5613
 aS'Lock'
-p5515
+p5614
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Salta'
-p5516
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p5615
 aVArgentina
-p5517
+p5616
 aVSalta
-p5518
-ag2589
+p5617
+ag2618
 aa.

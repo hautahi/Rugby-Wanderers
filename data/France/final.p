@@ -6,12 +6,14 @@ aS'1906'
 p4
 aS'Fly-half'
 p5
-aS'Paris'
-p6
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Paris'
+p6
 aVFrance
 p7
 aVFrance métropolitaine
@@ -25,12 +27,14 @@ aS'1906'
 p12
 aS'Lock, Prop'
 p13
-aS'Saint-Vivien-de-Medo'
-p14
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'2'
+aS'Saint-Vivien-de-Medo'
+p14
 aS'g'
 aS'n'
 aS'i'
@@ -41,12 +45,14 @@ aS'1906'
 p17
 aS'No. 8'
 p18
-aS'Andance'
-p19
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'1'
 aS'3'
+aS'Andance'
+p19
 aVFrance
 p20
 aV07340
@@ -60,18058 +66,19735 @@ aS'1906'
 p25
 aS'Lock, No. 8, Wing'
 p26
-aS'Beauvais'
-p27
 aS'21'
-p28
+p27
 aS'1'
+aS'20'
+p28
+aS'0'
 aS'3'
 aS'9'
-aVFrance
+aS'Beauvais'
 p29
-aV60000
+aVFrance
 p30
-aVFrance métropolitaine
+aV60000
 p31
-aa(lp32
+aVFrance métropolitaine
+p32
+aa(lp33
 S'William Crichton'
-p33
-aS'1906'
 p34
-aS'Fullback'
+aS'1906'
 p35
-aS'Cockermouth'
+aS'Fullback'
 p36
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Cockermouth'
 p37
-aVEngland
+aVUnited Kingdom
 p38
-aVNorth West England
+aVEngland
 p39
-aa(lp40
+aVNorth West England
+p40
+aa(lp41
 S'Paul Dedeyn'
-p41
-aS'1906'
 p42
-aS'Hooker'
+aS'1906'
 p43
-aS'Moulineaux'
+aS'Hooker'
 p44
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
+aS'Moulineaux'
 p45
-aV76530
+aVFrance
 p46
-aVFrance métropolitaine
+aV76530
 p47
-aa(lp48
+aVFrance métropolitaine
+p48
+aa(lp49
 S'Jacques Dufourcq'
-p49
-aS'1906'
 p50
-aS'Flanker, Lock'
+aS'1906'
 p51
-aS'Salies-de-Bearn'
+aS'Flanker, Lock'
 p52
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
+aS'Salies-de-Bearn'
 p53
-aV64270
+aVFrance
 p54
-aVFrance métropolitaine
+aV64270
 p55
-aa(lp56
+aVFrance métropolitaine
+p56
+aa(lp57
 S'Georges Jerome'
-p57
-aS'1906'
 p58
-aS'Lock'
+aS'1906'
 p59
-aS'Cayenne'
+aS'Lock'
 p60
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
-aVFrance
+aS'Cayenne'
 p61
-aV97300
+aVFrance
 p62
-aVGuyane
+aV97300
 p63
-aa(lp64
+aVGuyane
+p64
+aa(lp65
 S'Henri Lacassagne'
-p65
-aS'1906'
 p66
-aS'Scrum-half'
+aS'1906'
 p67
-aS'Viella'
+aS'Scrum-half'
 p68
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
+aS'Viella'
 p69
-aV65120
+aVFrance
 p70
-aVFrance métropolitaine
+aV65120
 p71
-aa(lp72
+aVFrance métropolitaine
+p72
+aa(lp73
 S'Gaston Lane'
-p73
-aS'1906'
 p74
-aS'Centre, Wing'
+aS'1906'
 p75
-aS'Paris'
+aS'Centre, Wing'
 p76
 aS'16'
 p77
 aS'1'
-aS'1'
-aS'3'
-aVFrance
+aS'15'
 p78
-aVFrance métropolitaine
+aS'0'
+aS'1'
+aS'3'
+aS'Paris'
 p79
-aVÎle-de-France
+aVFrance
 p80
-aa(lp81
-S'Henri Levee'
+aVFrance métropolitaine
+p81
+aVÎle-de-France
 p82
-aS'1906'
-p83
-aS'Centre'
+aa(lp83
+S'Henri Levee'
 p84
-aS'Paris'
+aS'1906'
 p85
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p86
-aVFrance métropolitaine
-p87
-aVÎle-de-France
-p88
-aa(lp89
-S'Allan Muhr'
-p90
-aS'1906'
-p91
-aS'Prop, Lock'
-p92
-aS'United States'
-p93
-aS'3'
-aS'0'
-aS'2'
-aS'6'
-aVUnited States of America
-p94
-aS'Missing'
-p95
-ag95
-aa(lp96
-S'Augustin Pujol'
-p97
-aS'1906'
-p98
-aS'Wing'
-p99
-aS'Toulouse'
-p100
-aS'1'
-aS'0'
-aS'0'
-aS'2'
-aVFrance
-p101
-aV31000;31100;31200;31300;31400;31500
-p102
-aVFrance métropolitaine
-p103
-aa(lp104
-S'Paul Sagot'
-p105
-aS'1906'
-p106
-aS'Wing, Centre'
-p107
-aS'Dijon'
-p108
-aS'3'
-aS'0'
-aS'1'
-aS'5'
-aVFrance
-p109
-aV21000
-p110
-aVFrance métropolitaine
-p111
-aa(lp112
-S'Andre Verges'
-p113
-aS'1906'
-p114
-aS'Prop, Lock'
-p115
-aS'?'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp116
-S'Pierre Gaudermen'
-p117
-aS'1906'
-p118
-aS'No. 8'
-p119
-aS'Paris'
-p120
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p121
-aVFrance métropolitaine
-p122
-aVÎle-de-France
-p123
-aa(lp124
-S'Albert Hubert'
-p125
-aS'1906'
-p126
-aS'Fly-half'
-p127
-aS'Noisy-le-Sec'
-p128
-aS'7'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p129
-aV93130
-p130
-aVFrance métropolitaine
-p131
-aa(lp132
-S'Emile Lesieur'
-p133
-aS'1906'
-p134
-aS'Wing, Centre'
-p135
-aS'Paris'
-p136
-aS'12'
-p137
-aS'0'
-aS'2'
-aS'6'
-aVFrance
-p138
-aVFrance métropolitaine
-p139
-aVÎle-de-France
-p140
-aa(lp141
-S'Ernest Lewis'
-p142
-aS'1906'
-p143
 aS'Centre'
-p144
-aS'Cardiff'
-p145
+p86
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p146
-aVWales
-p147
-aVCardiff
-p148
-aa(lp149
-S'Paul Maclos'
-p150
+aS'Paris'
+p87
+aVFrance
+p88
+aVFrance métropolitaine
+p89
+aVÎle-de-France
+p90
+aa(lp91
+S'Allan Muhr'
+p92
 aS'1906'
+p93
+aS'Prop, Lock'
+p94
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'2'
+aS'6'
+aS'United States'
+p95
+aVUnited States of America
+p96
+aS'Missing'
+p97
+ag97
+aa(lp98
+S'Augustin Pujol'
+p99
+aS'1906'
+p100
+aS'Wing'
+p101
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'Toulouse'
+p102
+aVFrance
+p103
+aV31000;31100;31200;31300;31400;31500
+p104
+aVFrance métropolitaine
+p105
+aa(lp106
+S'Paul Sagot'
+p107
+aS'1906'
+p108
+aS'Wing, Centre'
+p109
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'1'
+aS'5'
+aS'Dijon'
+p110
+aVFrance
+p111
+aV21000
+p112
+aVFrance métropolitaine
+p113
+aa(lp114
+S'Andre Verges'
+p115
+aS'1906'
+p116
+aS'Prop, Lock'
+p117
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aa(lp118
+S'Pierre Gaudermen'
+p119
+aS'1906'
+p120
+aS'No. 8'
+p121
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
+p122
+aVFrance
+p123
+aVFrance métropolitaine
+p124
+aVÎle-de-France
+p125
+aa(lp126
+S'Albert Hubert'
+p127
+aS'1906'
+p128
+aS'Fly-half'
+p129
+aS'7'
+aS'0'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Noisy-le-Sec'
+p130
+aVFrance
+p131
+aV93130
+p132
+aVFrance métropolitaine
+p133
+aa(lp134
+S'Emile Lesieur'
+p135
+aS'1906'
+p136
+aS'Wing, Centre'
+p137
+aS'12'
+p138
+aS'0'
+aS'12'
+p139
+aS'0'
+aS'2'
+aS'6'
+aS'Paris'
+p140
+aVFrance
+p141
+aVFrance métropolitaine
+p142
+aVÎle-de-France
+p143
+aa(lp144
+S'Ernest Lewis'
+p145
+aS'1906'
+p146
+aS'Centre'
+p147
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cardiff'
+p148
+aVUnited Kingdom
+p149
+aVWales
+p150
+aVCardiff
 p151
-aS'Wing, Centre, Flanker'
-p152
-aS'Amazy'
+aa(lp152
+S'Paul Maclos'
 p153
+aS'1906'
+p154
+aS'Wing, Centre, Flanker'
+p155
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'7'
-aVFrance
-p154
-aV58190
-p155
-aVFrance métropolitaine
+aS'Amazy'
 p156
-aa(lp157
-S'G. Maurin'
+aVFrance
+p157
+aV58190
 p158
-aS'1906'
+aVFrance métropolitaine
 p159
+aa(lp160
+S'G. Maurin'
+p161
+aS'1906'
+p162
 aS'Flanker'
-p160
-aS'?'
+p163
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp161
+aa(lp164
 S'Theodore Varvier'
-p162
-aS'1906'
-p163
-aS'Centre, Fly-half, Fullback'
-p164
-aS'Lyon'
 p165
+aS'1906'
+p166
+aS'Centre, Fly-half, Fullback'
+p167
+aS'6'
+aS'0'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p166
-aVFrance métropolitaine
-p167
-aVRhône-Alpes
+aS'Lyon'
 p168
-aa(lp169
-S'Charles Beaurin-Gressier'
+aVFrance
+p169
+aVFrance métropolitaine
 p170
-aS'1907'
+aVRhône-Alpes
 p171
-aS'No. 8, Prop'
-p172
-aS'Paris'
+aa(lp172
+S'Charles Beaurin-Gressier'
 p173
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
+aS'1907'
 p174
-aVFrance métropolitaine
+aS'No. 8, Prop'
 p175
-aVÎle-de-France
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
 p176
-aa(lp177
-S'Marc Giacardy'
-p178
-aS'1907'
-p179
-aS'Halfback, Fly-half, Flanker'
-p180
-aS'Bordeaux'
-p181
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
-p182
-aV33000;33100;33300;33800
-p183
+p177
 aVFrance métropolitaine
-p184
-aa(lp185
-S'Henri Isaac'
-p186
+p178
+aVÎle-de-France
+p179
+aa(lp180
+S'Marc Giacardy'
+p181
 aS'1907'
-p187
-aS'Fullback'
-p188
-aS'Guadeloupe'
-p189
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p190
-aVGuadeloupe
-p191
-ag95
-aa(lp192
-S'Henri Martin'
-p193
-aS'1907'
-p194
-aS'Fullback, Centre'
-p195
-aS'Cayenne'
-p196
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p197
-aV97300
-p198
-aVGuyane
-p199
-aa(lp200
-S'Paul Mauriat'
-p201
-aS'1907'
-p202
-aS'Hooker, Lock, Prop'
-p203
-aS'Neuville-sur-Saone'
-p204
-aS'19'
-p205
+p182
+aS'Halfback, Fly-half, Flanker'
+p183
 aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bordeaux'
+p184
+aVFrance
+p185
+aV33000;33100;33300;33800
+p186
+aVFrance métropolitaine
+p187
+aa(lp188
+S'Henri Isaac'
+p189
+aS'1907'
+p190
+aS'Fullback'
+p191
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Guadeloupe'
+p192
+aVFrance
+p193
+aVGuadeloupe
+p194
+ag97
+aa(lp195
+S'Henri Martin'
+p196
+aS'1907'
+p197
+aS'Fullback, Centre'
+p198
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Cayenne'
+p199
+aVFrance
+p200
+aV97300
+p201
+aVGuyane
+p202
+aa(lp203
+S'Paul Mauriat'
+p204
+aS'1907'
+p205
+aS'Hooker, Lock, Prop'
+p206
+aS'19'
+p207
+aS'1'
+aS'18'
+p208
+aS'0'
 aS'1'
 aS'5'
+aS'Neuville-sur-Saone'
+p209
 aVFrance
-p206
-aV69250
-p207
-aVFrance métropolitaine
-p208
-aa(lp209
-S'A. Poirier'
 p210
-aS'1907'
+aV69250
 p211
-aS'Hooker'
+aVFrance métropolitaine
 p212
-aS'?'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
 aa(lp213
-S'Charles Vareilles'
+S'A. Poirier'
 p214
 aS'1907'
 p215
-aS'Wing'
+aS'Hooker'
 p216
-aS'Saigon'
-p217
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aa(lp217
+S'Charles Vareilles'
+p218
+aS'1907'
+p219
+aS'Wing'
+p220
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'4'
+aS'Saigon'
+p221
 aVVi\u1ec7t Nam
-p218
-aV\u0110ông Nam B\u1ed9
-p219
-aVThành ph\u1ed1 H\u1ed3 Chí Minh
-p220
-aa(lp221
-S'Georges Borchard'
 p222
-aS'1908'
+aV\u0110ông Nam B\u1ed9
 p223
-aS'Hooker, Lock, Flanker'
+aVThành ph\u1ed1 H\u1ed3 Chí Minh
 p224
-aS'Bordeaux'
-p225
+aa(lp225
+S'Georges Borchard'
+p226
+aS'1908'
+p227
+aS'Hooker, Lock, Flanker'
+p228
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
+aS'Bordeaux'
+p229
 aVFrance
-p226
-aV33000;33100;33300;33800
-p227
-aVFrance métropolitaine
-p228
-aa(lp229
-S'Rene Duval'
 p230
-aS'1908'
+aV33000;33100;33300;33800
 p231
-aS'Flanker, Fly-half'
+aVFrance métropolitaine
 p232
-aS'Paris'
-p233
+aa(lp233
+S'Rene Duval'
+p234
+aS'1908'
+p235
+aS'Flanker, Fly-half'
+p236
+aS'6'
+aS'0'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p234
-aVFrance métropolitaine
-p235
-aVÎle-de-France
-p236
-aa(lp237
-S'Pierre Guillemin'
-p238
-aS'1908'
-p239
-aS'Prop, Lock'
-p240
-aS'Bonnevaux'
-p241
-aS'11'
-p242
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p243
-aV30450
-p244
-aVFrance métropolitaine
-p245
-aa(lp246
-S'Alfred Mayssonnie'
-p247
-aS'1908'
-p248
-aS'Scrum-half, Fly-half'
-p249
-aS'Lavernose'
-p250
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p251
-aV31410
-p252
-aVFrance métropolitaine
-p253
-aa(lp254
-S'Henri Moure'
-p255
-aS'1908'
-p256
-aS'Flanker'
-p257
-aS'Bordeaux'
-p258
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p259
-aV33000;33100;33300;33800
-p260
-aVFrance métropolitaine
-p261
-aa(lp262
-S'Rene von Malmann'
-p263
-aS'1908'
-p264
-aS'Lock, Prop'
-p265
 aS'Paris'
-p266
-aS'7'
-aS'0'
-aS'0'
-aS'0'
+p237
 aVFrance
-p267
+p238
 aVFrance métropolitaine
-p268
+p239
 aVÎle-de-France
+p240
+aa(lp241
+S'Pierre Guillemin'
+p242
+aS'1908'
+p243
+aS'Prop, Lock'
+p244
+aS'11'
+p245
+aS'1'
+aS'10'
+p246
+aS'0'
+aS'1'
+aS'3'
+aS'Bonnevaux'
+p247
+aVFrance
+p248
+aV30450
+p249
+aVFrance métropolitaine
+p250
+aa(lp251
+S'Alfred Mayssonnie'
+p252
+aS'1908'
+p253
+aS'Scrum-half, Fly-half'
+p254
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Lavernose'
+p255
+aVFrance
+p256
+aV31410
+p257
+aVFrance métropolitaine
+p258
+aa(lp259
+S'Henri Moure'
+p260
+aS'1908'
+p261
+aS'Flanker'
+p262
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bordeaux'
+p263
+aVFrance
+p264
+aV33000;33100;33300;33800
+p265
+aVFrance métropolitaine
+p266
+aa(lp267
+S'Rene von Malmann'
+p268
+aS'1908'
 p269
-aa(lp270
-S'Maurice Leuvielle'
+aS'Lock, Prop'
+p270
+aS'7'
+aS'0'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
 p271
-aS'1908'
+aVFrance
 p272
-aS'Centre, Lock, No. 8'
+aVFrance métropolitaine
 p273
-aS'Saint-Loubes'
+aVÎle-de-France
 p274
-aS'7'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p275
-aV33450
+aa(lp275
+S'Maurice Leuvielle'
 p276
-aVFrance métropolitaine
-p277
-aa(lp278
-S'Alphonse Masse'
-p279
 aS'1908'
-p280
-aS'Flanker, Lock'
-p281
-aS'Saint-Christophe-de-'
-p282
+p277
+aS'Centre, Lock, No. 8'
+p278
+aS'7'
+aS'0'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
+aS'Saint-Loubes'
+p279
 aVFrance
-p283
-aV38520
-p284
+p280
+aV33450
+p281
 aVFrance métropolitaine
+p282
+aa(lp283
+S'Alphonse Masse'
+p284
+aS'1908'
 p285
-aa(lp286
-S'Jean Caujolle'
+aS'Flanker, Lock'
+p286
+aS'7'
+aS'0'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Christophe-de-'
 p287
-aS'1909'
+aVFrance
 p288
-aS'Fullback'
+aV38520
 p289
-aS'Saint-Girons'
+aVFrance métropolitaine
 p290
+aa(lp291
+S'Jean Caujolle'
+p292
+aS'1909'
+p293
+aS'Fullback'
+p294
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p291
-aV09200
-p292
-aVFrance métropolitaine
-p293
-aa(lp294
-S'Georges Fourcade'
+aS'Saint-Girons'
 p295
-aS'1909'
+aVFrance
 p296
-aS'Hooker'
+aV09200
 p297
-aS'Saint-Pierre-sur-Dro'
+aVFrance métropolitaine
 p298
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
 aa(lp299
-S'Henri Houblain'
+S'Georges Fourcade'
 p300
 aS'1909'
 p301
-aS'Centre'
-p302
-aS'?'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp303
-S'Jules Icard'
-p304
-aS'1909'
-p305
-aS'Lock'
-p306
-aS'?'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp307
-S'Andre Theuriet'
-p308
-aS'1909'
-p309
-aS'Scrum-half'
-p310
-aS'Lyon'
-p311
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p312
-aVFrance métropolitaine
-p313
-aVRhône-Alpes
-p314
-aa(lp315
-S'Etienne de Jouvencel'
-p316
-aS'1909'
-p317
-aS'Fullback'
-p318
-aS'Paris'
-p319
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p320
-aVFrance métropolitaine
-p321
-aVÎle-de-France
-p322
-aa(lp323
-S'Paul Dupre'
-p324
-aS'1909'
-p325
-aS'Flanker'
-p326
-aS'Gagny'
-p327
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p328
-aV93220
-p329
-aVFrance métropolitaine
-p330
-aa(lp331
-S'Marcel Burgun'
-p332
-aS'1909'
-p333
-aS'Fly-half, Wing, Centre'
-p334
-aS'St Petersburg'
-p335
-aS'11'
-p336
-aS'1'
-aS'0'
-aS'0'
-aVUnited States of America
-p337
-aVFlorida
-p338
-aVPinellas County
-p339
-aa(lp340
-S'Jacques Gommes'
-p341
-aS'1909'
-p342
-aS'Scrum-half, Flanker'
-p343
-aS'Bordeaux'
-p344
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p345
-aV33000;33100;33300;33800
-p346
-aVFrance métropolitaine
-p347
-aa(lp348
-S'Augustin Hourdebaigt'
-p349
-aS'1909'
-p350
-aS'Lock'
-p351
-aS'Bordeaux'
-p352
-aS'5'
-aS'0'
-aS'1'
-aS'3'
-aVFrance
-p353
-aV33000;33100;33300;33800
-p354
-aVFrance métropolitaine
-p355
-aa(lp356
-S'Marcel Legrain'
-p357
-aS'1909'
-p358
-aS'Centre, Flanker, No. 8'
-p359
-aS'Paris'
-p360
-aS'12'
-p361
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p362
-aVFrance métropolitaine
-p363
-aVÎle-de-France
-p364
-aa(lp365
-S'Claude Martin'
-p366
-aS'1909'
-p367
-aS'Fly-half'
-p368
-aS'Lyon'
-p369
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p370
-aVFrance métropolitaine
-p371
-aVRhône-Alpes
-p372
-aa(lp373
-S'Francis Mouronval'
-p374
-aS'1909'
-p375
-aS'Centre, Flanker'
-p376
-aS'Avesnes-sur-Helpe'
-p377
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p378
-aV59440
-p379
-aVFrance métropolitaine
-p380
-aa(lp381
-S'Joe Anduran'
-p382
-aS'1910'
-p383
 aS'Hooker'
-p384
-aS'Bayonne'
-p385
-aS'1'
+p302
+aS'2'
 aS'0'
-aS'0'
-aS'0'
-aVFrance
-p386
-aV64100
-p387
-aVFrance métropolitaine
-p388
-aa(lp389
-S'Rene Boudreaux'
-p390
-aS'1910'
-p391
-aS'Prop'
-p392
-aS'Paris'
-p393
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Saint-Pierre-sur-Dro'
+p303
+aS'g'
+aS'n'
+aS'i'
+aa(lp304
+S'Henri Houblain'
+p305
+aS'1909'
+p306
+aS'Centre'
+p307
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aa(lp308
+S'Jules Icard'
+p309
+aS'1909'
+p310
+aS'Lock'
+p311
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aa(lp312
+S'Andre Theuriet'
+p313
+aS'1909'
+p314
+aS'Scrum-half'
+p315
+aS'5'
+aS'0'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Lyon'
+p316
 aVFrance
+p317
+aVFrance métropolitaine
+p318
+aVRhône-Alpes
+p319
+aa(lp320
+S'Etienne de Jouvencel'
+p321
+aS'1909'
+p322
+aS'Fullback'
+p323
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
+p324
+aVFrance
+p325
+aVFrance métropolitaine
+p326
+aVÎle-de-France
+p327
+aa(lp328
+S'Paul Dupre'
+p329
+aS'1909'
+p330
+aS'Flanker'
+p331
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Gagny'
+p332
+aVFrance
+p333
+aV93220
+p334
+aVFrance métropolitaine
+p335
+aa(lp336
+S'Marcel Burgun'
+p337
+aS'1909'
+p338
+aS'Fly-half, Wing, Centre'
+p339
+aS'11'
+p340
+aS'1'
+aS'10'
+p341
+aS'0'
+aS'0'
+aS'0'
+aS'St Petersburg'
+p342
+aVUnited States of America
+p343
+aVFlorida
+p344
+aVPinellas County
+p345
+aa(lp346
+S'Jacques Gommes'
+p347
+aS'1909'
+p348
+aS'Scrum-half, Flanker'
+p349
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bordeaux'
+p350
+aVFrance
+p351
+aV33000;33100;33300;33800
+p352
+aVFrance métropolitaine
+p353
+aa(lp354
+S'Augustin Hourdebaigt'
+p355
+aS'1909'
+p356
+aS'Lock'
+p357
+aS'5'
+aS'0'
+aS'5'
+aS'0'
+aS'1'
+aS'3'
+aS'Bordeaux'
+p358
+aVFrance
+p359
+aV33000;33100;33300;33800
+p360
+aVFrance métropolitaine
+p361
+aa(lp362
+S'Marcel Legrain'
+p363
+aS'1909'
+p364
+aS'Centre, Flanker, No. 8'
+p365
+aS'12'
+p366
+aS'1'
+aS'11'
+p367
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
+p368
+aVFrance
+p369
+aVFrance métropolitaine
+p370
+aVÎle-de-France
+p371
+aa(lp372
+S'Claude Martin'
+p373
+aS'1909'
+p374
+aS'Fly-half'
+p375
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Lyon'
+p376
+aVFrance
+p377
+aVFrance métropolitaine
+p378
+aVRhône-Alpes
+p379
+aa(lp380
+S'Francis Mouronval'
+p381
+aS'1909'
+p382
+aS'Centre, Flanker'
+p383
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Avesnes-sur-Helpe'
+p384
+aVFrance
+p385
+aV59440
+p386
+aVFrance métropolitaine
+p387
+aa(lp388
+S'Joe Anduran'
+p389
+aS'1910'
+p390
+aS'Hooker'
+p391
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bayonne'
+p392
+aVFrance
+p393
+aV64100
 p394
 aVFrance métropolitaine
 p395
-aVÎle-de-France
-p396
-aa(lp397
-S'Maurice Bruneau'
-p398
+aa(lp396
+S'Rene Boudreaux'
+p397
 aS'1910'
+p398
+aS'Prop'
 p399
-aS'Wing, Centre, Fly-half'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
 p400
-aS'Bordeaux'
+aVFrance
 p401
+aVFrance métropolitaine
+p402
+aVÎle-de-France
+p403
+aa(lp404
+S'Maurice Bruneau'
+p405
+aS'1910'
+p406
+aS'Wing, Centre, Fly-half'
+p407
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'1'
 aS'3'
-aVFrance
-p402
-aV33000;33100;33300;33800
-p403
-aVFrance métropolitaine
-p404
-aa(lp405
-S'Remi Laffitte'
-p406
-aS'1910'
-p407
-aS'Centre, Flanker'
+aS'Bordeaux'
 p408
-aS'Osserain'
+aVFrance
 p409
+aV33000;33100;33300;33800
+p410
+aVFrance métropolitaine
+p411
+aa(lp412
+S'Remi Laffitte'
+p413
+aS'1910'
+p414
+aS'Centre, Flanker'
+p415
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
-aVFrance
-p410
-aV64390
-p411
-aVFrance métropolitaine
-p412
-aa(lp413
-S'R. Menrath'
-p414
-aS'1910'
-p415
-aS'Fullback'
+aS'Osserain'
 p416
-aS'?'
+aVFrance
+p417
+aV64390
+p418
+aVFrance métropolitaine
+p419
+aa(lp420
+S'R. Menrath'
+p421
+aS'1910'
+p422
+aS'Fullback'
+p423
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'8'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp417
+aa(lp424
 S'M. Thevenot'
-p418
+p425
 aS'1910'
-p419
+p426
 aS'Lock, Prop'
-p420
-aS'?'
+p427
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp421
+aa(lp428
 S'Jules Cadenat'
-p422
+p429
 aS'1910'
-p423
+p430
 aS'Prop, Lock, No. 8'
-p424
-aS'Beziers'
-p425
+p431
+aS'7'
+aS'0'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p426
-aV34500
-p427
-aVFrance métropolitaine
-p428
-aa(lp429
-S'Julien Combe'
-p430
-aS'1910'
-p431
-aS'Fullback'
+aS'Beziers'
 p432
-aS'?'
+aVFrance
+p433
+aV34500
+p434
+aVFrance métropolitaine
+p435
+aa(lp436
+S'Julien Combe'
+p437
+aS'1910'
+p438
+aS'Fullback'
+p439
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp433
+aa(lp440
 S'Jacques Dedet'
-p434
+p441
 aS'1910'
-p435
+p442
 aS'Centre, Fly-half'
-p436
-aS'New Caledo'
-p437
+p443
+aS'8'
+aS'0'
 aS'8'
 aS'0'
 aS'0'
 aS'0'
-aVEspaña
-p438
-aVCAT
-p439
-aVLleida
-p440
-aa(lp441
-S'Guillaume Laterrade'
-p442
-aS'1910'
-p443
-aS'Scrum-half, Halfback'
+aS'New Caledo'
 p444
-aS'Tarbes'
+aVEspaña
 p445
+aVCAT
+p446
+aVLleida
+p447
+aa(lp448
+S'Guillaume Laterrade'
+p449
+aS'1910'
+p450
+aS'Scrum-half, Halfback'
+p451
 aS'5'
 aS'1'
+aS'4'
+aS'0'
 aS'1'
 aS'3'
-aVFrance
-p446
-aV65000
-p447
-aVFrance métropolitaine
-p448
-aa(lp449
-S'Joseph de Muizon'
-p450
-aS'1910'
-p451
-aS'Wing'
+aS'Tarbes'
 p452
-aS'Versailles'
+aVFrance
 p453
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
+aV65000
 p454
-aV78000
+aVFrance métropolitaine
 p455
-aVFrance métropolitaine
-p456
-aa(lp457
-S'Fernand Roujas'
-p458
+aa(lp456
+S'Joseph de Muizon'
+p457
 aS'1910'
+p458
+aS'Wing'
 p459
-aS'Fly-half'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Versailles'
 p460
-aS"La Mas d'Azil"
+aVFrance
 p461
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
+aV78000
 p462
-aV09290
-p463
 aVFrance métropolitaine
-p464
-aa(lp465
-S'Joseph Bavozet'
+p463
+aa(lp464
+S'Fernand Roujas'
+p465
+aS'1910'
 p466
-aS'1911'
+aS'Fly-half'
 p467
-aS'Flanker, Lock'
-p468
-aS'Lyon'
-p469
-aS'3'
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS"La Mas d'Azil"
+p468
 aVFrance
+p469
+aV09290
 p470
 aVFrance métropolitaine
 p471
-aVRhône-Alpes
-p472
-aa(lp473
-S'Paul Decamps'
+aa(lp472
+S'Joseph Bavozet'
+p473
+aS'1911'
 p474
-aS'1911'
-p475
 aS'Flanker, Lock'
-p476
-aS'Paris'
-p477
-aS'1'
-aS'1'
-aS'0'
-aS'4'
-aVFrance
-p478
-aVFrance métropolitaine
-p479
-aVÎle-de-France
-p480
-aa(lp481
-S'Pierre Failliot'
-p482
-aS'1911'
-p483
-aS'Wing'
-p484
-aS'Paris'
-p485
-aS'8'
-aS'1'
-aS'5'
-aS'15'
-p486
-aVFrance
-p487
-aVFrance métropolitaine
-p488
-aVÎle-de-France
-p489
-aa(lp490
-S'Fernand Forgues'
-p491
-aS'1911'
-p492
-aS'Lock, Flanker'
-p493
-aS'Pau'
-p494
-aS'11'
-p495
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p496
-aV64000
-p497
-aVFrance métropolitaine
-p498
-aa(lp499
-S'Andre Francquenelle'
-p500
-aS'1911'
-p501
-aS'Centre'
-p502
-aS'Rochefort-sur-Mer'
-p503
+p475
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Lyon'
+p476
+aVFrance
+p477
+aVFrance métropolitaine
+p478
+aVRhône-Alpes
+p479
+aa(lp480
+S'Paul Decamps'
+p481
+aS'1911'
+p482
+aS'Flanker, Lock'
+p483
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'4'
+aS'Paris'
+p484
+aVFrance
+p485
+aVFrance métropolitaine
+p486
+aVÎle-de-France
+p487
+aa(lp488
+S'Pierre Failliot'
+p489
+aS'1911'
+p490
+aS'Wing'
+p491
+aS'8'
+aS'1'
+aS'7'
+aS'0'
+aS'5'
+aS'15'
+p492
+aS'Paris'
+p493
+aVFrance
+p494
+aVFrance métropolitaine
+p495
+aVÎle-de-France
+p496
+aa(lp497
+S'Fernand Forgues'
+p498
+aS'1911'
+p499
+aS'Lock, Flanker'
+p500
+aS'11'
+p501
+aS'1'
+aS'10'
+p502
+aS'0'
+aS'0'
+aS'0'
+aS'Pau'
+p503
 aVFrance
 p504
-aV17420
+aV64000
 p505
 aVFrance métropolitaine
 p506
 aa(lp507
-S'Pierre Mouniq'
+S'Andre Francquenelle'
 p508
 aS'1911'
 p509
-aS'Prop, Lock'
+aS'Centre'
 p510
-aS'Luz-Saint-Sauveur'
-p511
-aS'9'
+aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Rochefort-sur-Mer'
+p511
 aVFrance
 p512
-aV65120
+aV17420
 p513
 aVFrance métropolitaine
 p514
 aa(lp515
-S'Georges Peyroutou'
+S'Pierre Mouniq'
 p516
 aS'1911'
 p517
-aS'Fly-half'
+aS'Prop, Lock'
 p518
-aS'Ondres'
+aS'9'
+aS'1'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Luz-Saint-Sauveur'
 p519
-aS'2'
-aS'1'
-aS'1'
-aS'3'
 aVFrance
 p520
-aV40440
+aV65120
 p521
 aVFrance métropolitaine
 p522
 aa(lp523
-S'Gilbert Charpentier'
+S'Georges Peyroutou'
 p524
 aS'1911'
 p525
-aS'Fly-half, Wing'
+aS'Fly-half'
 p526
-aS'Pissotte'
-p527
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
 aS'3'
-aS'0'
-aS'0'
-aS'0'
+aS'Ondres'
+p527
 aVFrance
 p528
-aV85200
+aV40440
 p529
 aVFrance métropolitaine
 p530
 aa(lp531
-S'Francois Dutour'
+S'Gilbert Charpentier'
 p532
 aS'1911'
 p533
-aS'Fullback'
+aS'Fly-half, Wing'
 p534
-aS'Moissat'
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Pissotte'
 p535
-aS'6'
-aS'0'
-aS'0'
-aS'2'
 aVFrance
 p536
-aV63190
+aV85200
 p537
 aVFrance métropolitaine
 p538
 aa(lp539
-S'Rene Duffour'
+S'Francois Dutour'
 p540
 aS'1911'
 p541
-aS'Hooker'
+aS'Fullback'
 p542
-aS'Tarbes'
+aS'6'
+aS'0'
+aS'6'
+aS'0'
+aS'0'
+aS'2'
+aS'Moissat'
 p543
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p544
-aV65000
+aV63190
 p545
 aVFrance métropolitaine
 p546
 aa(lp547
-S'Charles du Souich'
+S'Rene Duffour'
 p548
 aS'1911'
 p549
-aS'Centre'
+aS'Hooker'
 p550
-aS'Tours'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Tarbes'
 p551
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p552
-aV37000;37100;37200
+aV65000
 p553
 aVFrance métropolitaine
 p554
 aa(lp555
-S'Robert Monier'
+S'Charles du Souich'
 p556
 aS'1911'
 p557
-aS'Prop'
+aS'Centre'
 p558
-aS'Bordeaux'
-p559
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Tours'
+p559
 aVFrance
 p560
-aV33000;33100;33300;33800
+aV37000;37100;37200
 p561
 aVFrance métropolitaine
 p562
 aa(lp563
-S'Raymond Simonpaoli'
+S'Robert Monier'
 p564
 aS'1911'
 p565
-aS'Lock'
+aS'Prop'
 p566
-aS'Courtalain'
-p567
-aS'3'
+aS'2'
 aS'0'
-aS'1'
-aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bordeaux'
+p567
 aVFrance
 p568
-aV28290
+aV33000;33100;33300;33800
 p569
 aVFrance métropolitaine
 p570
 aa(lp571
-S'Maurice Boyau'
+S'Raymond Simonpaoli'
 p572
-aS'1912'
+aS'1911'
 p573
-aS'Flanker'
+aS'Lock'
 p574
-aS'Mustapha'
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'Courtalain'
 p575
+aVFrance
+p576
+aV28290
+p577
+aVFrance métropolitaine
+p578
+aa(lp579
+S'Maurice Boyau'
+p580
+aS'1912'
+p581
+aS'Flanker'
+p582
+aS'6'
+aS'0'
 aS'6'
 aS'0'
 aS'0'
 aS'4'
-aV\u65e5\u672c
-p576
-aV\u8fd1\u757f\u5730\u65b9
-p577
-aV\u4eac\u90fd\u5e9c
-p578
-aa(lp579
-S'Jean-Jacques Conilh de Beyssac'
-p580
-aS'1912'
-p581
-aS'Lock, Prop'
-p582
-aS'Cauderan'
+aS'Mustapha'
 p583
+aV\u65e5\u672c
+p584
+aV\u8fd1\u757f\u5730\u65b9
+p585
+aV\u4eac\u90fd\u5e9c
+p586
+aa(lp587
+S'Jean-Jacques Conilh de Beyssac'
+p588
+aS'1912'
+p589
+aS'Lock, Prop'
+p590
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p584
-aV33200
-p585
-aVFrance métropolitaine
-p586
-aa(lp587
-S'Jean Domercq'
-p588
-aS'1912'
-p589
-aS'Back-row'
-p590
-aS'Orthez'
+aS'Cauderan'
 p591
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p592
-aV64300
+aV33200
 p593
 aVFrance métropolitaine
 p594
 aa(lp595
-S'Julien Dufau'
+S'Jean Domercq'
 p596
 aS'1912'
 p597
-aS'Wing, Centre'
+aS'Back-row'
 p598
-aS'Biarritz'
-p599
-aS'4'
+aS'2'
 aS'0'
 aS'2'
-aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Orthez'
+p599
 aVFrance
 p600
-aV64200
+aV64300
 p601
 aVFrance métropolitaine
 p602
 aa(lp603
-S'Daniel Ihingoue'
+S'Julien Dufau'
 p604
 aS'1912'
 p605
-aS'Centre'
+aS'Wing, Centre'
 p606
-aS'Ilharre'
-p607
+aS'4'
+aS'0'
+aS'4'
+aS'0'
 aS'2'
-aS'0'
-aS'0'
-aS'0'
+aS'6'
+aS'Biarritz'
+p607
 aVFrance
 p608
-aV64120
+aV64200
 p609
 aVFrance métropolitaine
 p610
 aa(lp611
-S'Jean Larribau'
+S'Daniel Ihingoue'
 p612
 aS'1912'
 p613
-aS'Scrum-half, Wing'
+aS'Centre'
 p614
-aS'Anglet'
-p615
-aS'7'
+aS'2'
 aS'0'
-aS'1'
-aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Ilharre'
+p615
 aVFrance
 p616
-aV64600
+aV64120
 p617
 aVFrance métropolitaine
 p618
 aa(lp619
-S'Edouard Vallot'
+S'Jean Larribau'
 p620
 aS'1912'
 p621
-aS'Hooker'
+aS'Scrum-half, Wing'
 p622
-aS'London'
-p623
+aS'7'
+aS'0'
+aS'7'
+aS'0'
 aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'3'
+aS'Anglet'
+p623
+aVFrance
 p624
-aVEngland
+aV64600
 p625
-aVGreater London
+aVFrance métropolitaine
 p626
 aa(lp627
-S'Jacques Forestier'
+S'Edouard Vallot'
 p628
 aS'1912'
 p629
-aS'Prop'
+aS'Hooker'
 p630
-aS'Aix-les-Bains'
-p631
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
+aS'London'
+p631
+aVUnited Kingdom
 p632
-aV73100
+aVEngland
 p633
-aVFrance métropolitaine
+aVGreater London
 p634
 aa(lp635
-S'Marcel Monniot'
+S'Jacques Forestier'
 p636
 aS'1912'
 p637
-aS'Lock, Prop'
+aS'Prop'
 p638
-aS'Paris'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Aix-les-Bains'
 p639
+aVFrance
+p640
+aV73100
+p641
+aVFrance métropolitaine
+p642
+aa(lp643
+S'Marcel Monniot'
+p644
+aS'1912'
+p645
+aS'Lock, Prop'
+p646
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p640
-aVFrance métropolitaine
-p641
-aVÎle-de-France
-p642
-aa(lp643
-S'Jean-Rene Pascarel'
-p644
-aS'1912'
-p645
-aS'Hooker'
-p646
-aS'Bordeaux'
+aS'Paris'
 p647
+aVFrance
+p648
+aVFrance métropolitaine
+p649
+aVÎle-de-France
+p650
+aa(lp651
+S'Jean-Rene Pascarel'
+p652
+aS'1912'
+p653
+aS'Hooker'
+p654
+aS'6'
+aS'0'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p648
-aV33000;33100;33300;33800
-p649
-aVFrance métropolitaine
-p650
-aa(lp651
-S'Jean Sentilles'
-p652
-aS'1912'
-p653
-aS'Centre'
-p654
-aS'Tarbes'
+aS'Bordeaux'
 p655
-aS'4'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p656
-aV65000
+aV33000;33100;33300;33800
 p657
 aVFrance métropolitaine
 p658
 aa(lp659
-S'Helier Tilh'
+S'Jean Sentilles'
 p660
 aS'1912'
 p661
-aS'Prop, Lock, Wing'
+aS'Centre'
 p662
-aS'Bosdarros'
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Tarbes'
 p663
-aS'6'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p664
-aV64290
+aV65000
 p665
 aVFrance métropolitaine
 p666
 aa(lp667
-S'Maurice Hedembaigt'
+S'Helier Tilh'
 p668
-aS'1913'
+aS'1912'
 p669
-aS'Halfback, Scrum-half'
+aS'Prop, Lock, Wing'
 p670
-aS'Anglet'
+aS'6'
+aS'0'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Bosdarros'
 p671
-aS'3'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p672
-aV64600
+aV64290
 p673
 aVFrance métropolitaine
 p674
 aa(lp675
-S'Pierre Jaureguy'
+S'Maurice Hedembaigt'
 p676
 aS'1913'
 p677
-aS'Centre, Wing'
+aS'Halfback, Scrum-half'
 p678
-aS'Ostabat'
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Anglet'
 p679
-aS'4'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p680
-aV64120
+aV64600
 p681
 aVFrance métropolitaine
 p682
 aa(lp683
-S'Jean Sebedio'
+S'Pierre Jaureguy'
 p684
 aS'1913'
 p685
-aS'Prop, Flanker, No. 8'
+aS'Centre, Wing'
 p686
-aS'Saint-Jean-de-Luz'
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Ostabat'
 p687
-aS'9'
-aS'2'
-aS'1'
-aS'3'
 aVFrance
 p688
-aV64500
+aV64120
 p689
 aVFrance métropolitaine
 p690
 aa(lp691
-S'Geo Andre'
+S'Jean Sebedio'
 p692
 aS'1913'
 p693
-aS'Wing'
+aS'Prop, Flanker, No. 8'
 p694
-aS'Paris'
+aS'9'
+aS'2'
+aS'5'
+aS'2'
+aS'1'
+aS'3'
+aS'Saint-Jean-de-Luz'
 p695
+aVFrance
+p696
+aV64500
+p697
+aVFrance métropolitaine
+p698
+aa(lp699
+S'Geo Andre'
+p700
+aS'1913'
+p701
+aS'Wing'
+p702
+aS'7'
+aS'0'
 aS'7'
 aS'0'
 aS'3'
 aS'11'
-p696
-aVFrance
-p697
-aVFrance métropolitaine
-p698
-aVÎle-de-France
-p699
-aa(lp700
-S'Albert Chatau'
-p701
-aS'1913'
-p702
-aS'Fly-half'
 p703
-aS'Urrugne'
+aS'Paris'
 p704
+aVFrance
+p705
+aVFrance métropolitaine
+p706
+aVÎle-de-France
+p707
+aa(lp708
+S'Albert Chatau'
+p709
+aS'1913'
+p710
+aS'Fly-half'
+p711
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p705
-aV64122;64700
-p706
-aVFrance métropolitaine
-p707
-aa(lp708
-S'Marcel Favre'
-p709
-aS'1913'
-p710
-aS'Prop'
-p711
-aS'La Roche-sur-Foron'
+aS'Urrugne'
 p712
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p713
-aV74800
+aV64122;64700
 p714
 aVFrance métropolitaine
 p715
 aa(lp716
-S'Clovis Bioussa'
+S'Marcel Favre'
 p717
 aS'1913'
 p718
-aS'Fly-half'
+aS'Prop'
 p719
-aS'Toulouse'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'La Roche-sur-Foron'
 p720
-aS'3'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p721
-aV31000;31100;31200;31300;31400;31500
+aV74800
 p722
 aVFrance métropolitaine
 p723
 aa(lp724
-S'Gustave Podevin'
+S'Clovis Bioussa'
 p725
 aS'1913'
 p726
-aS'Lock'
+aS'Fly-half'
 p727
-aS'Paris'
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
 p728
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p729
-aVFrance métropolitaine
+aV31000;31100;31200;31300;31400;31500
 p730
-aVÎle-de-France
+aVFrance métropolitaine
 p731
 aa(lp732
-S'Jean Semmartin'
+S'Gustave Podevin'
 p733
 aS'1913'
 p734
-aS'Fullback'
+aS'Lock'
 p735
-aS'Ars-en-Re'
-p736
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Paris'
+p736
 aVFrance
 p737
-aV17590
-p738
 aVFrance métropolitaine
+p738
+aVÎle-de-France
 p739
 aa(lp740
-S'Philippe Struxiano'
+S'Jean Semmartin'
 p741
 aS'1913'
 p742
-aS'Scrum-half'
+aS'Fullback'
 p743
-aS'Toulouse'
-p744
-aS'7'
 aS'2'
 aS'0'
-aS'6'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Ars-en-Re'
+p744
 aVFrance
 p745
-aV31000;31100;31200;31300;31400;31500
+aV17590
 p746
 aVFrance métropolitaine
 p747
 aa(lp748
-S'Albert Eutropius'
+S'Philippe Struxiano'
 p749
 aS'1913'
 p750
-aS'Flanker'
+aS'Scrum-half'
 p751
-aS'Cayenne'
+aS'7'
+aS'2'
+aS'5'
+aS'0'
+aS'0'
+aS'6'
+aS'Toulouse'
 p752
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p753
-aV97300
+aV31000;31100;31200;31300;31400;31500
 p754
-aVGuyane
+aVFrance métropolitaine
 p755
 aa(lp756
-S'Henri Tavernier'
+S'Albert Eutropius'
 p757
 aS'1913'
 p758
-aS'Prop'
+aS'Flanker'
 p759
-aS'Saint-Just-en-Chauss'
-p760
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Cayenne'
+p760
+aVFrance
+p761
+aV97300
+p762
+aVGuyane
+p763
+aa(lp764
+S'Henri Tavernier'
+p765
+aS'1913'
+p766
+aS'Prop'
+p767
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Just-en-Chauss'
+p768
 aS'g'
 aS'n'
 aS'i'
-aa(lp761
-S'Jean-Marie Arnal'
-p762
-aS'1914'
-p763
-aS'Lock'
-p764
-aS'Paris'
-p765
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p766
-aVFrance métropolitaine
-p767
-aVÎle-de-France
-p768
 aa(lp769
-S'Paul Faure'
+S'Jean-Marie Arnal'
 p770
 aS'1914'
 p771
-aS'Prop, Hooker'
+aS'Lock'
 p772
-aS'Aureilhan'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
 p773
+aVFrance
+p774
+aVFrance métropolitaine
+p775
+aVÎle-de-France
+p776
+aa(lp777
+S'Paul Faure'
+p778
+aS'1914'
+p779
+aS'Prop, Hooker'
+p780
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Aureilhan'
+p781
 aVFrance
-p774
+p782
 aV65800
-p775
+p783
 aVFrance métropolitaine
-p776
-aa(lp777
+p784
+aa(lp785
 S'Robert Lacoste'
-p778
+p786
 aS'1914'
-p779
+p787
 aS'Wing'
-p780
-aS'?'
+p788
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'1'
 aS'3'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp781
+aa(lp789
 S'Rene Lasserre'
-p782
+p790
 aS'1914'
-p783
+p791
 aS'Flanker, Fullback, Centre'
-p784
-aS'Bayonne'
-p785
+p792
 aS'15'
-p786
+p793
 aS'4'
+aS'9'
+aS'2'
 aS'2'
 aS'10'
-p787
-aVFrance
-p788
-aV64100
-p789
-aVFrance métropolitaine
-p790
-aa(lp791
-S'Raphael Lavaud'
-p792
-aS'1914'
-p793
-aS'Lock, Flanker'
 p794
-aS'Bordeaux'
+aS'Bayonne'
 p795
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p796
-aV33000;33100;33300;33800
+aV64100
 p797
 aVFrance métropolitaine
 p798
 aa(lp799
-S'Marcel-Frederic Lubin-Lebrere'
+S'Raphael Lavaud'
 p800
 aS'1914'
 p801
-aS'Prop, Lock'
+aS'Lock, Flanker'
 p802
-aS'Agen'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bordeaux'
 p803
-aS'15'
+aVFrance
 p804
+aV33000;33100;33300;33800
+p805
+aVFrance métropolitaine
+p806
+aa(lp807
+S'Marcel-Frederic Lubin-Lebrere'
+p808
+aS'1914'
+p809
+aS'Prop, Lock'
+p810
+aS'15'
+p811
 aS'3'
+aS'10'
+p812
+aS'2'
 aS'2'
 aS'6'
+aS'Agen'
+p813
 aVFrance
-p805
+p814
 aV47000
-p806
+p815
 aVFrance métropolitaine
-p807
-aa(lp808
+p816
+aa(lp817
 S'Gilbert Pierrot'
-p809
+p818
 aS'1914'
-p810
+p819
 aS'Centre'
-p811
-aS'Bizanos'
-p812
+p820
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Bizanos'
+p821
 aVFrance
-p813
+p822
 aV64320
-p814
+p823
 aVFrance métropolitaine
-p815
-aa(lp816
+p824
+aa(lp825
 S'Francois Poeydebasque'
-p817
+p826
 aS'1914'
-p818
+p827
 aS'Fly-half, Centre'
-p819
-aS'Bayonne'
-p820
+p828
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Bayonne'
+p829
 aVFrance
-p821
+p830
 aV64100
-p822
+p831
 aVFrance métropolitaine
-p823
-aa(lp824
+p832
+aa(lp833
 S'Lucien Besset'
-p825
+p834
 aS'1914'
-p826
+p835
 aS'Centre, Fly-half'
-p827
-aS'Paris'
-p828
+p836
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'4'
-aVFrance
-p829
-aVFrance métropolitaine
-p830
-aVÎle-de-France
-p831
-aa(lp832
-S'Robert Desvouges'
-p833
-aS'1914'
-p834
-aS'Lock'
-p835
-aS'Neuilly-sur-Seine'
-p836
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
+aS'Paris'
 p837
-aV92200
+aVFrance
 p838
 aVFrance métropolitaine
 p839
-aa(lp840
-S'Paulin Bascou'
-p841
-aS'1914'
+aVÎle-de-France
+p840
+aa(lp841
+S'Robert Desvouges'
 p842
-aS'Lock'
+aS'1914'
 p843
-aS'Urrugne'
+aS'Lock'
 p844
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
+aS'Neuilly-sur-Seine'
 p845
-aV64122;64700
+aVFrance
 p846
-aVFrance métropolitaine
+aV92200
 p847
-aa(lp848
-S'Jean-Louis Capmau'
-p849
-aS'1914'
+aVFrance métropolitaine
+p848
+aa(lp849
+S'Paulin Bascou'
 p850
-aS'Flanker'
+aS'1914'
 p851
-aS'Siran'
+aS'Lock'
 p852
 aS'1'
 aS'0'
 aS'1'
-aS'3'
-aV\u200f\u0627\u064a\u0631\u0627\u0646\u200e
+aS'0'
+aS'0'
+aS'0'
+aS'Urrugne'
 p853
-aV\u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646 \u063a\u0631\u0628\u06cc\u200e
+aVFrance
 p854
-aV\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u0627\u0644\u062f\u0631\u0627\u0646
+aV64122;64700
 p855
-aa(lp856
-S'Emmanuel Iguiniz'
-p857
-aS'1914'
+aVFrance métropolitaine
+p856
+aa(lp857
+S'Jean-Louis Capmau'
 p858
-aS'Hooker'
+aS'1914'
 p859
-aS'Bayonne'
+aS'Flanker'
 p860
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Siran'
+p861
+aV\u200f\u0627\u064a\u0631\u0627\u0646\u200e
+p862
+aV\u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646 \u063a\u0631\u0628\u06cc\u200e
+p863
+aV\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u0627\u0644\u062f\u0631\u0627\u0646
+p864
+aa(lp865
+S'Emmanuel Iguiniz'
+p866
+aS'1914'
+p867
+aS'Hooker'
+p868
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p861
-aV64100
-p862
-aVFrance métropolitaine
-p863
-aa(lp864
-S'Eugene Billac'
-p865
-aS'1920'
-p866
-aS'Fly-half'
-p867
 aS'Bayonne'
-p868
+p869
+aVFrance
+p870
+aV64100
+p871
+aVFrance métropolitaine
+p872
+aa(lp873
+S'Eugene Billac'
+p874
+aS'1920'
+p875
+aS'Fly-half'
+p876
 aS'9'
 aS'3'
+aS'6'
+aS'0'
 aS'2'
 aS'6'
-aVFrance
-p869
-aV64100
-p870
-aVFrance métropolitaine
-p871
-aa(lp872
-S'Aime Cassayet-Armagnac'
-p873
-aS'1920'
-p874
-aS'Lock, No. 8'
-p875
-aS'Mont-de-Marsan'
-p876
-aS'31'
+aS'Bayonne'
 p877
-aS'5'
-aS'3'
-aS'9'
 aVFrance
 p878
-aV40000
+aV64100
 p879
 aVFrance métropolitaine
 p880
 aa(lp881
-S'Andre Chilo'
+S'Aime Cassayet-Armagnac'
 p882
 aS'1920'
 p883
-aS'Wing, Fullback'
+aS'Lock, No. 8'
 p884
-aS'Bordeaux'
+aS'31'
 p885
+aS'5'
+aS'24'
+p886
+aS'2'
+aS'3'
+aS'9'
+aS'Mont-de-Marsan'
+p887
+aVFrance
+p888
+aV40000
+p889
+aVFrance métropolitaine
+p890
+aa(lp891
+S'Andre Chilo'
+p892
+aS'1920'
+p893
+aS'Wing, Fullback'
+p894
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p886
-aV33000;33100;33300;33800
-p887
-aVFrance métropolitaine
-p888
-aa(lp889
-S'Rene Crabos'
-p890
-aS'1920'
-p891
-aS'Centre'
-p892
-aS'Saint-Sever'
-p893
-aS'17'
-p894
-aS'6'
-aS'1'
-aS'19'
+aS'Bordeaux'
 p895
 aVFrance
 p896
-aV40500
+aV33000;33100;33300;33800
 p897
 aVFrance métropolitaine
 p898
 aa(lp899
-S'Adolphe Jaureguy'
+S'Rene Crabos'
 p900
 aS'1920'
 p901
-aS'Wing'
+aS'Centre'
 p902
-aS'Ostabat'
+aS'17'
 p903
-aS'31'
+aS'6'
+aS'9'
+aS'2'
+aS'1'
+aS'19'
 p904
-aS'8'
-aS'14'
+aS'Saint-Sever'
 p905
-aS'42'
-p906
 aVFrance
+p906
+aV40500
 p907
-aV64120
-p908
 aVFrance métropolitaine
-p909
-aa(lp910
-S'Joseph Laurent'
-p911
+p908
+aa(lp909
+S'Adolphe Jaureguy'
+p910
 aS'1920'
+p911
+aS'Wing'
 p912
-aS'Flanker'
+aS'31'
 p913
-aS'Bayonne'
+aS'8'
+aS'22'
 p914
+aS'1'
+aS'14'
+p915
+aS'42'
+p916
+aS'Ostabat'
+p917
+aVFrance
+p918
+aV64120
+p919
+aVFrance métropolitaine
+p920
+aa(lp921
+S'Joseph Laurent'
+p922
+aS'1920'
+p923
+aS'Flanker'
+p924
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Bayonne'
+p925
 aVFrance
-p915
+p926
 aV64100
-p916
+p927
 aVFrance métropolitaine
-p917
-aa(lp918
+p928
+aa(lp929
 S'Robert Marchand'
-p919
+p930
 aS'1920'
-p920
+p931
 aS'No. 8'
-p921
-aS'Angouleme'
-p922
+p932
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Angouleme'
+p933
 aVFrance
-p923
+p934
 aV16000
-p924
+p935
 aVFrance métropolitaine
-p925
-aa(lp926
+p936
+aa(lp937
 S'Pierre Pons'
-p927
+p938
 aS'1920'
-p928
+p939
 aS'Hooker, Prop'
-p929
-aS'Llupia'
-p930
+p940
 aS'6'
 aS'1'
-aS'0'
-aS'0'
-aVFrance
-p931
-aV66300
-p932
-aVFrance métropolitaine
-p933
-aa(lp934
-S'Louis Puech'
-p935
-aS'1920'
-p936
-aS'Lock'
-p937
-aS'Gorses'
-p938
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p939
-aV46210
-p940
-aVFrance métropolitaine
-p941
-aa(lp942
-S'Paul Serre'
-p943
-aS'1920'
-p944
-aS'Wing'
-p945
-aS'Clairac'
-p946
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p947
-aV47320
-p948
-aVFrance métropolitaine
-p949
-aa(lp950
-S'Robert Thierry'
-p951
-aS'1920'
-p952
-aS'Lock, Flanker'
-p953
-aS'Brienon-sur-Armencon'
-p954
 aS'4'
 aS'1'
 aS'0'
 aS'0'
+aS'Llupia'
+p941
+aVFrance
+p942
+aV66300
+p943
+aVFrance métropolitaine
+p944
+aa(lp945
+S'Louis Puech'
+p946
+aS'1920'
+p947
+aS'Lock'
+p948
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Gorses'
+p949
+aVFrance
+p950
+aV46210
+p951
+aVFrance métropolitaine
+p952
+aa(lp953
+S'Paul Serre'
+p954
+aS'1920'
+p955
+aS'Wing'
+p956
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Clairac'
+p957
+aVFrance
+p958
+aV47320
+p959
+aVFrance métropolitaine
+p960
+aa(lp961
+S'Robert Thierry'
+p962
+aS'1920'
+p963
+aS'Lock, Flanker'
+p964
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Brienon-sur-Armencon'
+p965
 aS'g'
 aS'n'
 aS'i'
-aa(lp955
+aa(lp966
 S'Theophile Cambre'
-p956
+p967
 aS'1920'
-p957
+p968
 aS'Fullback'
-p958
-aS'Bordeaux'
-p959
+p969
 aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Bordeaux'
+p970
 aVFrance
-p960
+p971
 aV33000;33100;33300;33800
-p961
+p972
 aVFrance métropolitaine
-p962
-aa(lp963
+p973
+aa(lp974
 S'Abel Guichemerre'
-p964
+p975
 aS'1920'
-p965
+p976
 aS'Flanker'
-p966
-aS'Dax'
-p967
+p977
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Dax'
+p978
 aVFrance
-p968
+p979
 aV40100
-p969
+p980
 aVFrance métropolitaine
-p970
-aa(lp971
+p981
+aa(lp982
 S'Jean Lavigne'
-p972
+p983
 aS'1920'
-p973
+p984
 aS'Centre'
-p974
-aS'Levignacq'
-p975
+p985
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Levignacq'
+p986
 aVFrance
-p976
+p987
 aV40170
-p977
+p988
 aVFrance métropolitaine
-p978
-aa(lp979
+p989
+aa(lp990
 S'Eugene Soulie'
-p980
+p991
 aS'1920'
-p981
+p992
 aS'Lock, Prop'
-p982
-aS'Paris'
-p983
+p993
 aS'9'
 aS'4'
-aS'0'
-aS'0'
-aVFrance
-p984
-aVFrance métropolitaine
-p985
-aVÎle-de-France
-p986
-aa(lp987
-S'Maurice Biraben'
-p988
-aS'1920'
-p989
-aS'Prop'
-p990
-aS'Dax'
-p991
-aS'10'
-p992
 aS'4'
+aS'1'
 aS'0'
 aS'0'
-aVFrance
-p993
-aV40100
+aS'Paris'
 p994
-aVFrance métropolitaine
+aVFrance
 p995
-aa(lp996
-S'Georges Constant'
+aVFrance métropolitaine
+p996
+aVÎle-de-France
 p997
-aS'1920'
-p998
-aS'Flanker'
+aa(lp998
+S'Maurice Biraben'
 p999
-aS'Perpignan'
+aS'1920'
 p1000
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
+aS'Prop'
 p1001
-aV66000;66100
+aS'10'
 p1002
-aVFrance métropolitaine
+aS'4'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'Dax'
 p1003
-aa(lp1004
-S'Francois Borde'
+aVFrance
+p1004
+aV40100
 p1005
-aS'1920'
+aVFrance métropolitaine
 p1006
-aS'Centre'
-p1007
-aS'Lourdes'
+aa(lp1007
+S'Georges Constant'
 p1008
-aS'12'
+aS'1920'
 p1009
-aS'4'
-aS'1'
-aS'3'
-aVFrance
+aS'Flanker'
 p1010
-aV65100
-p1011
-aVFrance métropolitaine
-p1012
-aa(lp1013
-S'William Gayraud-Hirigoyen'
-p1014
-aS'1920'
-p1015
-aS'Hooker'
-p1016
-aS'Laroque-Timbaut'
-p1017
 aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
+p1011
+aVFrance
+p1012
+aV66000;66100
+p1013
+aVFrance métropolitaine
+p1014
+aa(lp1015
+S'Francois Borde'
+p1016
+aS'1920'
+p1017
+aS'Centre'
+p1018
+aS'12'
+p1019
+aS'4'
+aS'7'
 aS'1'
 aS'1'
 aS'3'
-aVFrance
-p1018
-aV47340
-p1019
-aVFrance métropolitaine
+aS'Lourdes'
 p1020
-aa(lp1021
-S'Raoul Got'
+aVFrance
+p1021
+aV65100
 p1022
-aS'1920'
+aVFrance métropolitaine
 p1023
-aS'Wing'
-p1024
-aS'Perpignan'
+aa(lp1024
+S'William Gayraud-Hirigoyen'
 p1025
-aS'13'
+aS'1920'
 p1026
+aS'Hooker'
+p1027
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Laroque-Timbaut'
+p1028
+aVFrance
+p1029
+aV47340
+p1030
+aVFrance métropolitaine
+p1031
+aa(lp1032
+S'Raoul Got'
+p1033
+aS'1920'
+p1034
+aS'Wing'
+p1035
+aS'13'
+p1036
 aS'4'
+aS'7'
+aS'2'
 aS'6'
 aS'18'
-p1027
+p1037
+aS'Perpignan'
+p1038
 aVFrance
-p1028
+p1039
 aV66000;66100
-p1029
+p1040
 aVFrance métropolitaine
-p1030
-aa(lp1031
+p1041
+aa(lp1042
 S'Jean Larrieu'
-p1032
+p1043
 aS'1920'
-p1033
+p1044
 aS'Hooker, Flanker'
-p1034
-aS'Toulouse'
-p1035
+p1045
 aS'7'
 aS'3'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'Toulouse'
+p1046
 aVFrance
-p1036
+p1047
 aV31000;31100;31200;31300;31400;31500
-p1037
+p1048
 aVFrance métropolitaine
-p1038
-aa(lp1039
+p1049
+aa(lp1050
 S'Pierre Moureu'
-p1040
+p1051
 aS'1920'
-p1041
+p1052
 aS'No. 8, Prop, Lock'
-p1042
-aS'Larrau'
-p1043
+p1053
 aS'17'
-p1044
+p1054
 aS'5'
+aS'11'
+p1055
+aS'1'
 aS'2'
 aS'6'
+aS'Larrau'
+p1056
 aVFrance
-p1045
+p1057
 aV64560
-p1046
+p1058
 aVFrance métropolitaine
-p1047
-aa(lp1048
+p1059
+aa(lp1060
 S'Jean Boubee'
-p1049
+p1061
 aS'1921'
-p1050
+p1062
 aS'Back-row'
-p1051
-aS'Biarritz'
-p1052
+p1063
 aS'9'
 aS'3'
+aS'5'
+aS'1'
 aS'1'
 aS'3'
-aVFrance
-p1053
-aV64200
-p1054
-aVFrance métropolitaine
-p1055
-aa(lp1056
-S'Jean Clement'
-p1057
-aS'1921'
-p1058
-aS'Fullback, Fly-half, Halfback'
-p1059
-aS'Tarbes'
-p1060
-aS'10'
-p1061
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p1062
-aV65000
-p1063
-aVFrance métropolitaine
+aS'Biarritz'
 p1064
-aa(lp1065
-S'Gilbert Coscolla'
+aVFrance
+p1065
+aV64200
 p1066
-aS'1921'
+aVFrance métropolitaine
 p1067
-aS'Lock, Prop'
-p1068
-aS'Beziers'
+aa(lp1068
+S'Jean Clement'
 p1069
+aS'1921'
+p1070
+aS'Fullback, Fly-half, Halfback'
+p1071
+aS'10'
+p1072
+aS'2'
+aS'6'
+aS'2'
+aS'0'
+aS'0'
+aS'Tarbes'
+p1073
+aVFrance
+p1074
+aV65000
+p1075
+aVFrance métropolitaine
+p1076
+aa(lp1077
+S'Gilbert Coscolla'
+p1078
+aS'1921'
+p1079
+aS'Lock, Prop'
+p1080
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVFrance
-p1070
-aV34500
-p1071
-aVFrance métropolitaine
-p1072
-aa(lp1073
-S'Jean Lobies'
-p1074
-aS'1921'
-p1075
-aS'Wing'
-p1076
-aS'Bone'
-p1077
-aS'3'
 aS'1'
 aS'0'
 aS'0'
-aVDeutschland
-p1078
-aVSachsen-Anhalt
-p1079
-aVLandkreis Anhalt-Bitterfeld
-p1080
-aa(lp1081
-S'Roger Piteu'
+aS'0'
+aS'Beziers'
+p1081
+aVFrance
 p1082
-aS'1921'
+aV34500
 p1083
-aS'Scrum-half'
+aVFrance métropolitaine
 p1084
-aS'Pau'
-p1085
-aS'15'
+aa(lp1085
+S'Jean Lobies'
 p1086
+aS'1921'
+p1087
+aS'Wing'
+p1088
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bone'
+p1089
+aVDeutschland
+p1090
+aVSachsen-Anhalt
+p1091
+aVLandkreis Anhalt-Bitterfeld
+p1092
+aa(lp1093
+S'Roger Piteu'
+p1094
+aS'1921'
+p1095
+aS'Scrum-half'
+p1096
+aS'15'
+p1097
+aS'2'
+aS'11'
+p1098
 aS'2'
 aS'2'
 aS'6'
+aS'Pau'
+p1099
 aVFrance
-p1087
+p1100
 aV64000
-p1088
+p1101
 aVFrance métropolitaine
-p1089
-aa(lp1090
+p1102
+aa(lp1103
 S'Fernand Vaquer'
-p1091
+p1104
 aS'1921'
-p1092
+p1105
 aS'No. 8, Lock'
-p1093
-aS'Latour-bas-Elne'
-p1094
+p1106
 aS'3'
 aS'1'
-aS'0'
-aS'0'
-aVFrance
-p1095
-aV66200
-p1096
-aVFrance métropolitaine
-p1097
-aa(lp1098
-S'Adolphe Bousquet'
-p1099
-aS'1921'
-p1100
-aS'Fly-half'
-p1101
-aS'Beziers'
-p1102
-aS'3'
 aS'2'
 aS'0'
 aS'0'
-aVFrance
-p1103
-aV34500
-p1104
-aVFrance métropolitaine
-p1105
-aa(lp1106
-S'Edmond Cayrefourcq'
+aS'0'
+aS'Latour-bas-Elne'
 p1107
-aS'1921'
+aVFrance
 p1108
-aS'Wing'
+aV66200
 p1109
-aS'Tarbes'
+aVFrance métropolitaine
 p1110
+aa(lp1111
+S'Adolphe Bousquet'
+p1112
+aS'1921'
+p1113
+aS'Fly-half'
+p1114
+aS'3'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p1111
-aV65000
-p1112
-aVFrance métropolitaine
-p1113
-aa(lp1114
-S'Charles-Anthoin Gonnet'
+aS'Beziers'
 p1115
-aS'1921'
+aVFrance
 p1116
-aS'Hooker'
+aV34500
 p1117
-aS'Laon'
+aVFrance métropolitaine
 p1118
+aa(lp1119
+S'Edmond Cayrefourcq'
+p1120
+aS'1921'
+p1121
+aS'Wing'
+p1122
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Tarbes'
+p1123
+aVFrance
+p1124
+aV65000
+p1125
+aVFrance métropolitaine
+p1126
+aa(lp1127
+S'Charles-Anthoin Gonnet'
+p1128
+aS'1921'
+p1129
+aS'Hooker'
+p1130
 aS'16'
-p1119
+p1131
 aS'4'
+aS'11'
+p1132
+aS'1'
 aS'0'
 aS'5'
-aVFrance
-p1120
-aV02000
-p1121
-aVFrance métropolitaine
-p1122
-aa(lp1123
-S'Jacques Baquey'
-p1124
-aS'1921'
-p1125
-aS'Wing'
-p1126
-aS'Saint-Medard-en-Jall'
-p1127
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p1128
-aV33160
-p1129
-aVFrance métropolitaine
-p1130
-aa(lp1131
-S'Marcel de Laborderie'
-p1132
-aS'1921'
+aS'Laon'
 p1133
-aS'Wing, Centre'
+aVFrance
 p1134
-aS'Buenos Aires'
+aV02000
 p1135
+aVFrance métropolitaine
+p1136
+aa(lp1137
+S'Jacques Baquey'
+p1138
+aS'1921'
+p1139
+aS'Wing'
+p1140
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Medard-en-Jall'
+p1141
+aVFrance
+p1142
+aV33160
+p1143
+aVFrance métropolitaine
+p1144
+aa(lp1145
+S'Marcel de Laborderie'
+p1146
+aS'1921'
+p1147
+aS'Wing, Centre'
+p1148
 aS'4'
 aS'1'
+aS'3'
+aS'0'
 aS'1'
 aS'3'
-aVArgentina
-p1136
-aVCABA
-p1137
-aVComuna 6
-p1138
-aa(lp1139
-S'Maurice Jeangrand'
-p1140
-aS'1921'
-p1141
-aS'Centre, Wing'
-p1142
-aS'Lourdes'
-p1143
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p1144
-aV65100
-p1145
-aVFrance métropolitaine
-p1146
-aa(lp1147
-S'Francois Cahuc'
-p1148
-aS'1922'
+aS'Buenos Aires'
 p1149
-aS'Flanker'
+aVArgentina
 p1150
-aS'Pamiers'
+aVCABA
 p1151
+aVComuna 6
+p1152
+aa(lp1153
+S'Maurice Jeangrand'
+p1154
+aS'1921'
+p1155
+aS'Centre, Wing'
+p1156
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p1152
-aV09100
-p1153
-aVFrance métropolitaine
-p1154
-aa(lp1155
-S'Joseph Pascot'
-p1156
-aS'1922'
+aS'0'
+aS'Lourdes'
 p1157
-aS'Fly-half'
+aVFrance
 p1158
-aS'Port-Vendres'
+aV65100
 p1159
+aVFrance métropolitaine
+p1160
+aa(lp1161
+S'Francois Cahuc'
+p1162
+aS'1922'
+p1163
+aS'Flanker'
+p1164
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Pamiers'
+p1165
+aVFrance
+p1166
+aV09100
+p1167
+aVFrance métropolitaine
+p1168
+aa(lp1169
+S'Joseph Pascot'
+p1170
+aS'1922'
+p1171
+aS'Fly-half'
+p1172
 aS'6'
 aS'0'
+aS'4'
+aS'2'
 aS'1'
 aS'3'
+aS'Port-Vendres'
+p1173
 aVFrance
-p1160
+p1174
 aV66660
-p1161
+p1175
 aVFrance métropolitaine
-p1162
-aa(lp1163
+p1176
+aa(lp1177
 S'Andre Lafond'
-p1164
+p1178
 aS'1922'
-p1165
+p1179
 aS'Wing'
-p1166
-aS'Le Bouceau'
-p1167
+p1180
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'Le Bouceau'
+p1181
 aS'g'
 aS'n'
 aS'i'
-aa(lp1168
+aa(lp1182
 S'Roger Ramis'
-p1169
-aS'1922'
-p1170
-aS'Centre, Wing'
-p1171
-aS'Perpignan'
-p1172
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1173
-aV66000;66100
-p1174
-aVFrance métropolitaine
-p1175
-aa(lp1176
-S'Louis Beguet'
-p1177
-aS'1922'
-p1178
-aS'Hooker, Prop'
-p1179
-aS'Neuf-Mesnil'
-p1180
-aS'10'
-p1181
-aS'3'
-aS'1'
-aS'32'
-p1182
-aVFrance
 p1183
-aV59330
+aS'1922'
 p1184
-aVFrance métropolitaine
+aS'Centre, Wing'
 p1185
-aa(lp1186
-S'Jean Bernon'
-p1187
-aS'1922'
-p1188
-aS'Prop, Lock'
-p1189
-aS'Toulouse'
-p1190
+aS'3'
+aS'0'
 aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1191
-aV31000;31100;31200;31300;31400;31500
-p1192
-aVFrance métropolitaine
-p1193
-aa(lp1194
-S'Albert Etchepare'
-p1195
-aS'1922'
-p1196
-aS'Flanker'
-p1197
-aS'Biaudos'
-p1198
 aS'1'
 aS'0'
 aS'0'
-aS'0'
-aVFrance
-p1199
-aV40390
-p1200
-aVFrance métropolitaine
-p1201
-aa(lp1202
-S'Noel Sicart'
-p1203
-aS'1922'
-p1204
-aS'Back-row'
-p1205
 aS'Perpignan'
-p1206
-aS'1'
-aS'0'
-aS'0'
-aS'0'
+p1186
 aVFrance
-p1207
+p1187
 aV66000;66100
-p1208
+p1188
 aVFrance métropolitaine
-p1209
-aa(lp1210
-S'Jean Bayard'
-p1211
-aS'1923'
-p1212
-aS'Hooker'
-p1213
-aS'Toulouse'
-p1214
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p1215
-aV31000;31100;31200;31300;31400;31500
-p1216
-aVFrance métropolitaine
-p1217
-aa(lp1218
-S'Clement Dupont'
-p1219
-aS'1923'
-p1220
-aS'Scrum-half'
-p1221
-aS'Argeles-Gazost'
-p1222
-aS'16'
-p1223
+p1189
+aa(lp1190
+S'Louis Beguet'
+p1191
+aS'1922'
+p1192
+aS'Hooker, Prop'
+p1193
+aS'10'
+p1194
+aS'3'
 aS'7'
 aS'0'
+aS'1'
+aS'32'
+p1195
+aS'Neuf-Mesnil'
+p1196
+aVFrance
+p1197
+aV59330
+p1198
+aVFrance métropolitaine
+p1199
+aa(lp1200
+S'Jean Bernon'
+p1201
+aS'1922'
+p1202
+aS'Prop, Lock'
+p1203
+aS'2'
 aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
+p1204
 aVFrance
-p1224
-aV65400
+p1205
+aV31000;31100;31200;31300;31400;31500
+p1206
+aVFrance métropolitaine
+p1207
+aa(lp1208
+S'Albert Etchepare'
+p1209
+aS'1922'
+p1210
+aS'Flanker'
+p1211
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Biaudos'
+p1212
+aVFrance
+p1213
+aV40390
+p1214
+aVFrance métropolitaine
+p1215
+aa(lp1216
+S'Noel Sicart'
+p1217
+aS'1922'
+p1218
+aS'Back-row'
+p1219
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
+p1220
+aVFrance
+p1221
+aV66000;66100
+p1222
+aVFrance métropolitaine
+p1223
+aa(lp1224
+S'Jean Bayard'
 p1225
-aVFrance métropolitaine
+aS'1923'
 p1226
-aa(lp1227
-S'Max Lalande'
+aS'Hooker'
+p1227
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
 p1228
-aS'1923'
-p1229
-aS'Wing'
-p1230
-aS'Chateaurenard'
-p1231
-aS'3'
-aS'1'
-aS'1'
-aS'3'
 aVFrance
-p1232
-aV13160
-p1233
+p1229
+aV31000;31100;31200;31300;31400;31500
+p1230
 aVFrance métropolitaine
-p1234
-aa(lp1235
-S'Henri Behoteguy'
-p1236
+p1231
+aa(lp1232
+S'Clement Dupont'
+p1233
 aS'1923'
+p1234
+aS'Scrum-half'
+p1235
+aS'16'
+p1236
+aS'7'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Argeles-Gazost'
 p1237
-aS'Centre'
+aVFrance
 p1238
-aS'Bayonne'
+aV65400
 p1239
+aVFrance métropolitaine
+p1240
+aa(lp1241
+S'Max Lalande'
+p1242
+aS'1923'
+p1243
+aS'Wing'
+p1244
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Chateaurenard'
+p1245
+aVFrance
+p1246
+aV13160
+p1247
+aVFrance métropolitaine
+p1248
+aa(lp1249
+S'Henri Behoteguy'
+p1250
+aS'1923'
+p1251
+aS'Centre'
+p1252
 aS'6'
 aS'2'
+aS'4'
+aS'0'
 aS'1'
 aS'3'
-aVFrance
-p1240
-aV64100
-p1241
-aVFrance métropolitaine
-p1242
-aa(lp1243
-S'Jean Castets'
-p1244
-aS'1923'
-p1245
-aS'Lock'
-p1246
-aS'Le Boucau'
-p1247
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p1248
-aV64340
-p1249
-aVFrance métropolitaine
-p1250
-aa(lp1251
-S'Jean Etcheberry'
-p1252
-aS'1923'
+aS'Bayonne'
 p1253
-aS'Prop, Flanker, No. 8'
+aVFrance
 p1254
-aS'Le Boucau'
+aV64100
 p1255
-aS'16'
+aVFrance métropolitaine
 p1256
+aa(lp1257
+S'Jean Castets'
+p1258
+aS'1923'
+p1259
+aS'Lock'
+p1260
 aS'3'
 aS'1'
-aS'3'
-aVFrance
-p1257
-aV64340
-p1258
-aVFrance métropolitaine
-p1259
-aa(lp1260
-S'Charles Lacazedieu'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Le Boucau'
 p1261
-aS'1923'
+aVFrance
 p1262
-aS'Fly-half, Scrum-half'
+aV64340
 p1263
-aS'Dax'
+aVFrance métropolitaine
 p1264
+aa(lp1265
+S'Jean Etcheberry'
+p1266
+aS'1923'
+p1267
+aS'Prop, Flanker, No. 8'
+p1268
+aS'16'
+p1269
+aS'3'
+aS'13'
+p1270
+aS'0'
+aS'1'
+aS'3'
+aS'Le Boucau'
+p1271
+aVFrance
+p1272
+aV64340
+p1273
+aVFrance métropolitaine
+p1274
+aa(lp1275
+S'Charles Lacazedieu'
+p1276
+aS'1923'
+p1277
+aS'Fly-half, Scrum-half'
+p1278
 aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'Dax'
+p1279
 aVFrance
-p1265
+p1280
 aV40100
-p1266
+p1281
 aVFrance métropolitaine
-p1267
-aa(lp1268
+p1282
+aa(lp1283
 S'Andre Behoteguy'
-p1269
+p1284
 aS'1923'
-p1270
+p1285
 aS'Centre'
-p1271
-aS'Bayonne'
-p1272
+p1286
 aS'19'
-p1273
+p1287
 aS'6'
+aS'13'
+p1288
+aS'0'
 aS'5'
 aS'28'
-p1274
+p1289
+aS'Bayonne'
+p1290
 aVFrance
-p1275
+p1291
 aV64100
-p1276
+p1292
 aVFrance métropolitaine
-p1277
-aa(lp1278
+p1293
+aa(lp1294
 S'Marcel Loustau'
-p1279
+p1295
 aS'1923'
-p1280
+p1296
 aS'Wing'
-p1281
-aS'Sarraziet'
-p1282
+p1297
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Sarraziet'
+p1298
 aVFrance
-p1283
+p1299
 aV40500
-p1284
+p1300
 aVFrance métropolitaine
-p1285
-aa(lp1286
+p1301
+aa(lp1302
 S'Christian Magnanou'
-p1287
+p1303
 aS'1923'
-p1288
+p1304
 aS'Centre, Fly-half, Fullback'
-p1289
-aS'Perigueux'
-p1290
+p1305
 aS'10'
-p1291
+p1306
 aS'2'
+aS'8'
+aS'0'
 aS'0'
 aS'4'
-aVFrance
-p1292
-aV24000
-p1293
-aVFrance métropolitaine
-p1294
-aa(lp1295
-S'Rene Salinie'
-p1296
-aS'1923'
-p1297
-aS'Centre'
-p1298
-aS'Toulouse'
-p1299
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1300
-aV31000;31100;31200;31300;31400;31500
-p1301
-aVFrance métropolitaine
-p1302
-aa(lp1303
-S'Georges Fargues'
-p1304
-aS'1923'
-p1305
-aS'Flanker'
-p1306
-aS'Dax'
+aS'Perigueux'
 p1307
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
 p1308
-aV40100
+aV24000
 p1309
 aVFrance métropolitaine
 p1310
 aa(lp1311
-S'Edmond Besset'
+S'Rene Salinie'
 p1312
-aS'1924'
+aS'1923'
 p1313
-aS'Fullback'
+aS'Centre'
 p1314
-aS'Langeac'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
 p1315
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
 p1316
-aV43300
+aV31000;31100;31200;31300;31400;31500
 p1317
 aVFrance métropolitaine
 p1318
 aa(lp1319
-S'Louis Cluchague'
+S'Georges Fargues'
 p1320
-aS'1924'
+aS'1923'
 p1321
-aS'Wing'
+aS'Flanker'
 p1322
-aS'Lons'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Dax'
 p1323
-aS'2'
-aS'1'
-aS'1'
-aS'3'
 aVFrance
 p1324
-aV64140
+aV40100
 p1325
 aVFrance métropolitaine
 p1326
 aa(lp1327
-S'Henri Galau'
+S'Edmond Besset'
 p1328
 aS'1924'
 p1329
-aS'Fly-half'
+aS'Fullback'
 p1330
-aS'Villefranche-de-Conf'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Langeac'
 p1331
+aVFrance
+p1332
+aV43300
+p1333
+aVFrance métropolitaine
+p1334
+aa(lp1335
+S'Louis Cluchague'
+p1336
+aS'1924'
+p1337
+aS'Wing'
+p1338
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Lons'
+p1339
+aVFrance
+p1340
+aV64140
+p1341
+aVFrance métropolitaine
+p1342
+aa(lp1343
+S'Henri Galau'
+p1344
+aS'1924'
+p1345
+aS'Fly-half'
+p1346
 aS'5'
 aS'1'
+aS'4'
+aS'0'
 aS'2'
 aS'6'
+aS'Villefranche-de-Conf'
+p1347
 aS'g'
 aS'n'
 aS'i'
-aa(lp1332
+aa(lp1348
 S'Louis Lepatey'
-p1333
+p1349
 aS'1924'
-p1334
-aS'Prop'
-p1335
-aS'Moussan'
-p1336
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p1337
-aV11120
-p1338
-aVFrance métropolitaine
-p1339
-aa(lp1340
-S'Etienne Piquiral'
-p1341
-aS'1924'
-p1342
-aS'Back-row'
-p1343
-aS'Perpignan'
-p1344
-aS'19'
-p1345
-aS'4'
-aS'3'
-aS'9'
-aVFrance
-p1346
-aV66000;66100
-p1347
-aVFrance métropolitaine
-p1348
-aa(lp1349
-S'Marcel Besson'
 p1350
-aS'1924'
-p1351
-aS'Centre, Wing'
-p1352
-aS'Verrieres-en-Forez'
-p1353
-aS'6'
-aS'0'
-aS'1'
-aS'3'
-aVFrance
-p1354
-aV42600
-p1355
-aVFrance métropolitaine
-p1356
-aa(lp1357
-S'Jean Danion'
-p1358
-aS'1924'
-p1359
 aS'Prop'
-p1360
-aS'Bordeaux'
-p1361
+p1351
+aS'3'
 aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1362
-aV33000;33100;33300;33800
-p1363
-aVFrance métropolitaine
-p1364
-aa(lp1365
-S'Laurent Pardo'
-p1366
-aS'1924'
-p1367
-aS'Fullback'
-p1368
-aS'Urrugne'
-p1369
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Moussan'
+p1352
 aVFrance
-p1370
-aV64122;64700
-p1371
+p1353
+aV11120
+p1354
 aVFrance métropolitaine
-p1372
-aa(lp1373
-S'Eugene Ribere'
-p1374
+p1355
+aa(lp1356
+S'Etienne Piquiral'
+p1357
 aS'1924'
-p1375
+p1358
 aS'Back-row'
+p1359
+aS'19'
+p1360
+aS'4'
+aS'15'
+p1361
+aS'0'
+aS'3'
+aS'9'
+aS'Perpignan'
+p1362
+aVFrance
+p1363
+aV66000;66100
+p1364
+aVFrance métropolitaine
+p1365
+aa(lp1366
+S'Marcel Besson'
+p1367
+aS'1924'
+p1368
+aS'Centre, Wing'
+p1369
+aS'6'
+aS'0'
+aS'6'
+aS'0'
+aS'1'
+aS'3'
+aS'Verrieres-en-Forez'
+p1370
+aVFrance
+p1371
+aV42600
+p1372
+aVFrance métropolitaine
+p1373
+aa(lp1374
+S'Jean Danion'
+p1375
+aS'1924'
 p1376
-aS'Thuir'
+aS'Prop'
 p1377
-aS'34'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bordeaux'
 p1378
-aS'12'
+aVFrance
 p1379
+aV33000;33100;33300;33800
+p1380
+aVFrance métropolitaine
+p1381
+aa(lp1382
+S'Laurent Pardo'
+p1383
+aS'1924'
+p1384
+aS'Fullback'
+p1385
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Urrugne'
+p1386
+aVFrance
+p1387
+aV64122;64700
+p1388
+aVFrance métropolitaine
+p1389
+aa(lp1390
+S'Eugene Ribere'
+p1391
+aS'1924'
+p1392
+aS'Back-row'
+p1393
+aS'34'
+p1394
+aS'12'
+p1395
+aS'22'
+p1396
+aS'0'
 aS'9'
 aS'27'
-p1380
+p1397
+aS'Thuir'
+p1398
 aVFrance
-p1381
+p1399
 aV66300
-p1382
+p1400
 aVFrance métropolitaine
-p1383
-aa(lp1384
+p1401
+aa(lp1402
 S'Jacques Ballarin'
-p1385
+p1403
 aS'1924'
-p1386
+p1404
 aS'Wing, Centre'
-p1387
-aS'San Nicola'
-p1388
+p1405
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'1'
 aS'3'
-aVItalia
-p1389
-aVLAZ
-p1390
-aVRoma Capitale
-p1391
-aa(lp1392
-S'Francois Clauzel'
-p1393
-aS'1924'
-p1394
-aS'Flanker'
-p1395
-aS'Coursan'
-p1396
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1397
-aV11110
-p1398
-aVFrance métropolitaine
-p1399
-aa(lp1400
-S'Alex Bioussa'
-p1401
-aS'1924'
-p1402
-aS'Flanker'
-p1403
-aS'Toulouse'
-p1404
-aS'21'
-p1405
-aS'5'
-aS'3'
-aS'9'
-aVFrance
+aS'San Nicola'
 p1406
-aV31000;31100;31200;31300;31400;31500
+aVItalia
 p1407
-aVFrance métropolitaine
+aVLAZ
 p1408
-aa(lp1409
-S'Etienne Bonnes'
-p1410
-aS'1924'
+aVRoma Capitale
+p1409
+aa(lp1410
+S'Francois Clauzel'
 p1411
-aS'Fullback'
+aS'1924'
 p1412
-aS'Argelliers'
+aS'Flanker'
 p1413
 aS'3'
-aS'1'
 aS'0'
-aS'0'
-aVFrance
-p1414
-aV34380
-p1415
-aVFrance métropolitaine
-p1416
-aa(lp1417
-S'Albert Dupouy'
-p1418
-aS'1924'
-p1419
-aS'Centre'
-p1420
-aS'Carignan'
-p1421
-aS'2'
-aS'1'
-aS'2'
-aS'6'
-aVFrance
-p1422
-aV08110
-p1423
-aVFrance métropolitaine
-p1424
-aa(lp1425
-S'Rene Araou'
-p1426
-aS'1924'
-p1427
-aS'Prop, Lock'
-p1428
-aS'Narbonne'
-p1429
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p1430
-aV11100
-p1431
-aVFrance métropolitaine
-p1432
-aa(lp1433
-S'Gilbert Gerintes'
-p1434
-aS'1924'
-p1435
-aS'Flanker'
-p1436
-aS'Saint-Etienne'
-p1437
 aS'3'
-aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Coursan'
+p1414
+aVFrance
+p1415
+aV11110
+p1416
+aVFrance métropolitaine
+p1417
+aa(lp1418
+S'Alex Bioussa'
+p1419
+aS'1924'
+p1420
+aS'Flanker'
+p1421
+aS'21'
+p1422
+aS'5'
+aS'16'
+p1423
+aS'0'
 aS'3'
 aS'9'
+aS'Toulouse'
+p1424
 aVFrance
-p1438
-aV42000;42100
-p1439
+p1425
+aV31000;31100;31200;31300;31400;31500
+p1426
 aVFrance métropolitaine
-p1440
-aa(lp1441
-S'Jean Vaysse'
-p1442
+p1427
+aa(lp1428
+S'Etienne Bonnes'
+p1429
 aS'1924'
-p1443
-aS'Centre'
-p1444
-aS'Carmaux'
-p1445
+p1430
+aS'Fullback'
+p1431
+aS'3'
+aS'1'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Argelliers'
+p1432
 aVFrance
-p1446
-aV81400
-p1447
+p1433
+aV34380
+p1434
 aVFrance métropolitaine
+p1435
+aa(lp1436
+S'Albert Dupouy'
+p1437
+aS'1924'
+p1438
+aS'Centre'
+p1439
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'Carignan'
+p1440
+aVFrance
+p1441
+aV08110
+p1442
+aVFrance métropolitaine
+p1443
+aa(lp1444
+S'Rene Araou'
+p1445
+aS'1924'
+p1446
+aS'Prop, Lock'
+p1447
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Narbonne'
 p1448
-aa(lp1449
-S'Marcel Baillette'
+aVFrance
+p1449
+aV11100
 p1450
-aS'1925'
+aVFrance métropolitaine
 p1451
-aS'Wing, Centre'
-p1452
-aS'Perpignan'
+aa(lp1452
+S'Gilbert Gerintes'
 p1453
-aS'17'
+aS'1924'
 p1454
+aS'Flanker'
+p1455
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'3'
+aS'9'
+aS'Saint-Etienne'
+p1456
+aVFrance
+p1457
+aV42000;42100
+p1458
+aVFrance métropolitaine
+p1459
+aa(lp1460
+S'Jean Vaysse'
+p1461
+aS'1924'
+p1462
+aS'Centre'
+p1463
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Carmaux'
+p1464
+aVFrance
+p1465
+aV81400
+p1466
+aVFrance métropolitaine
+p1467
+aa(lp1468
+S'Marcel Baillette'
+p1469
+aS'1925'
+p1470
+aS'Wing, Centre'
+p1471
+aS'17'
+p1472
 aS'7'
+aS'10'
+p1473
+aS'0'
 aS'3'
 aS'13'
-p1455
-aVFrance
-p1456
-aV66000;66100
-p1457
-aVFrance métropolitaine
-p1458
-aa(lp1459
-S'Yves du Manoir'
-p1460
-aS'1925'
-p1461
-aS'Fly-half'
-p1462
-aS'Vaucresson'
-p1463
-aS'8'
-aS'0'
-aS'0'
-aS'4'
-aVFrance
-p1464
-aV92420
-p1465
-aVFrance métropolitaine
-p1466
-aa(lp1467
-S'Jean Marcet'
-p1468
-aS'1925'
-p1469
-aS'Hooker'
-p1470
-aS'?'
-aS'7'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1471
-S'Andre Maury'
-p1472
-aS'1925'
-p1473
-aS'Prop'
 p1474
-aS'Agen'
+aS'Perpignan'
 p1475
-aS'8'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p1476
-aV47000
+aV66000;66100
 p1477
 aVFrance métropolitaine
 p1478
 aa(lp1479
-S'Camille Montade'
+S'Yves du Manoir'
 p1480
 aS'1925'
 p1481
-aS'Prop, Lock'
+aS'Fly-half'
 p1482
-aS'Villenueve-de-la-Rah'
+aS'8'
+aS'0'
+aS'8'
+aS'0'
+aS'0'
+aS'4'
+aS'Vaucresson'
 p1483
+aVFrance
+p1484
+aV92420
+p1485
+aVFrance métropolitaine
+p1486
+aa(lp1487
+S'Jean Marcet'
+p1488
+aS'1925'
+p1489
+aS'Hooker'
+p1490
+aS'7'
+aS'0'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1491
+S'Andre Maury'
+p1492
+aS'1925'
+p1493
+aS'Prop'
+p1494
+aS'8'
+aS'0'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Agen'
+p1495
+aVFrance
+p1496
+aV47000
+p1497
+aVFrance métropolitaine
+p1498
+aa(lp1499
+S'Camille Montade'
+p1500
+aS'1925'
+p1501
+aS'Prop, Lock'
+p1502
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
+aS'Villenueve-de-la-Rah'
+p1503
 aS'g'
 aS'n'
 aS'i'
-aa(lp1484
+aa(lp1504
 S'Rene Halet'
-p1485
+p1505
 aS'1925'
-p1486
+p1506
 aS'Wing'
-p1487
-aS'Le Mans'
-p1488
+p1507
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Le Mans'
+p1508
 aVFrance
-p1489
+p1509
 aV72000;72100
-p1490
+p1510
 aVFrance métropolitaine
-p1491
-aa(lp1492
+p1511
+aa(lp1512
 S'Auguste Laurent'
-p1493
+p1513
 aS'1925'
-p1494
+p1514
 aS'Lock'
-p1495
-aS'Anglet'
-p1496
+p1515
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
+aS'Anglet'
+p1516
 aVFrance
-p1497
+p1517
 aV64600
-p1498
+p1518
 aVFrance métropolitaine
-p1499
-aa(lp1500
+p1519
+aa(lp1520
 S'Jean Ducousso'
-p1501
+p1521
 aS'1925'
-p1502
+p1522
 aS'Fullback'
-p1503
-aS'Tarbes'
-p1504
+p1523
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'4'
+aS'Tarbes'
+p1524
 aVFrance
-p1505
-aV65000
-p1506
-aVFrance métropolitaine
-p1507
-aa(lp1508
-S'Francois Raymond'
-p1509
-aS'1925'
-p1510
-aS'Wing'
-p1511
-aS'Beziers'
-p1512
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1513
-aV34500
-p1514
-aVFrance métropolitaine
-p1515
-aa(lp1516
-S'Fernand Barthe'
-p1517
-aS'1925'
-p1518
-aS'Flanker'
-p1519
-aS'Saint-Macaire'
-p1520
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aVFrance
-p1521
-aV33490
-p1522
-aVFrance métropolitaine
-p1523
-aa(lp1524
-S'Adolphe Bringeon'
 p1525
-aS'1925'
+aV65000
 p1526
-aS'Wing'
+aVFrance métropolitaine
 p1527
-aS'Saint-Jean-de-Luz'
-p1528
+aa(lp1528
+S'Francois Raymond'
+p1529
+aS'1925'
+p1530
+aS'Wing'
+p1531
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Beziers'
+p1532
+aVFrance
+p1533
+aV34500
+p1534
+aVFrance métropolitaine
+p1535
+aa(lp1536
+S'Fernand Barthe'
+p1537
+aS'1925'
+p1538
+aS'Flanker'
+p1539
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Saint-Macaire'
+p1540
+aVFrance
+p1541
+aV33490
+p1542
+aVFrance métropolitaine
+p1543
+aa(lp1544
+S'Adolphe Bringeon'
+p1545
+aS'1925'
+p1546
+aS'Wing'
+p1547
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Saint-Jean-de-Luz'
+p1548
 aVFrance
-p1529
+p1549
 aV64500
-p1530
+p1550
 aVFrance métropolitaine
-p1531
-aa(lp1532
+p1551
+aa(lp1552
 S'Robert Levasseur'
-p1533
+p1553
 aS'1925'
-p1534
+p1554
 aS'Lock'
-p1535
-aS'Paris'
-p1536
+p1555
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Paris'
+p1556
 aVFrance
-p1537
+p1557
 aVFrance métropolitaine
-p1538
+p1558
 aVÎle-de-France
-p1539
-aa(lp1540
+p1559
+aa(lp1560
 S'Leon Chapuy'
-p1541
+p1561
 aS'1926'
-p1542
+p1562
 aS'Centre'
-p1543
-aS'?'
+p1563
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1544
+aa(lp1564
 S'Louis Destarac'
-p1545
+p1565
 aS'1926'
-p1546
+p1566
 aS'Fullback'
-p1547
-aS'Tarbes'
-p1548
+p1567
 aS'9'
 aS'2'
+aS'7'
+aS'0'
 aS'0'
 aS'10'
-p1549
+p1568
+aS'Tarbes'
+p1569
 aVFrance
-p1550
+p1570
 aV65000
-p1551
+p1571
 aVFrance métropolitaine
-p1552
-aa(lp1553
+p1572
+aa(lp1573
 S'Roger Llari'
-p1554
+p1574
 aS'1926'
-p1555
+p1575
 aS'Scrum-half, Halfback'
-p1556
-aS'Saint-Gaudens'
-p1557
+p1576
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Saint-Gaudens'
+p1577
 aVFrance
-p1558
+p1578
 aV31800
-p1559
+p1579
 aVFrance métropolitaine
-p1560
-aa(lp1561
+p1580
+aa(lp1581
 S'Alphonse Puig'
-p1562
+p1582
 aS'1926'
-p1563
+p1583
 aS'Lock'
-p1564
-aS'Terrats'
-p1565
+p1584
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Terrats'
+p1585
 aVFrance
-p1566
+p1586
 aV66300
-p1567
+p1587
 aVFrance métropolitaine
-p1568
-aa(lp1569
+p1588
+aa(lp1589
 S'Bernard Berges'
-p1570
+p1590
 aS'1926'
-p1571
+p1591
 aS'Scrum-half'
-p1572
-aS'Vic-Bigorre'
-p1573
+p1592
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Vic-Bigorre'
+p1593
 aVFrance
-p1574
+p1594
 aV65500
-p1575
+p1595
 aVFrance métropolitaine
-p1576
-aa(lp1577
+p1596
+aa(lp1597
 S'Clement Dulaurens'
-p1578
+p1598
 aS'1926'
-p1579
+p1599
 aS'Wing'
-p1580
-aS'Castelan-Magnoac'
-p1581
+p1600
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Castelan-Magnoac'
+p1601
 aS'g'
 aS'n'
 aS'i'
-aa(lp1582
+aa(lp1602
 S'Rene Graciet'
-p1583
-aS'1926'
-p1584
-aS'Centre, Fly-half'
-p1585
-aS'Bayonne'
-p1586
-aS'6'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p1587
-aV64100
-p1588
-aVFrance métropolitaine
-p1589
-aa(lp1590
-S'Vincent Graule'
-p1591
-aS'1926'
-p1592
-aS'Fly-half, Centre'
-p1593
-aS'Perpignan'
-p1594
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p1595
-aV66000;66100
-p1596
-aVFrance métropolitaine
-p1597
-aa(lp1598
-S'Jean Revillon'
-p1599
-aS'1926'
-p1600
-aS'Wing'
-p1601
-aS'Paris'
-p1602
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
 p1603
-aVFrance métropolitaine
-p1604
-aVÎle-de-France
-p1605
-aa(lp1606
-S'Honore Laffont'
-p1607
 aS'1926'
+p1604
+aS'Centre, Fly-half'
+p1605
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'1'
+aS'3'
+aS'Bayonne'
+p1606
+aVFrance
+p1607
+aV64100
 p1608
-aS'Scrum-half'
+aVFrance métropolitaine
 p1609
-aS'Argein'
-p1610
+aa(lp1610
+S'Vincent Graule'
+p1611
+aS'1926'
+p1612
+aS'Fly-half, Centre'
+p1613
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
+p1614
+aVFrance
+p1615
+aV66000;66100
+p1616
+aVFrance métropolitaine
+p1617
+aa(lp1618
+S'Jean Revillon'
+p1619
+aS'1926'
+p1620
+aS'Wing'
+p1621
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
+p1622
+aVFrance
+p1623
+aVFrance métropolitaine
+p1624
+aVÎle-de-France
+p1625
+aa(lp1626
+S'Honore Laffont'
+p1627
+aS'1926'
+p1628
+aS'Scrum-half'
+p1629
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Argein'
+p1630
 aVFrance
-p1611
+p1631
 aV09800
-p1612
+p1632
 aVFrance métropolitaine
-p1613
-aa(lp1614
+p1633
+aa(lp1634
 S'Joseph Sayrou'
-p1615
+p1635
 aS'1926'
-p1616
+p1636
 aS'Prop'
-p1617
-aS'Toulouges'
-p1618
+p1637
 aS'9'
 aS'3'
+aS'6'
 aS'0'
 aS'0'
+aS'0'
+aS'Toulouges'
+p1638
 aVFrance
-p1619
+p1639
 aV66350
-p1620
+p1640
 aVFrance métropolitaine
-p1621
-aa(lp1622
+p1641
+aa(lp1642
 S'Edouard Bader'
-p1623
+p1643
 aS'1926'
-p1624
+p1644
 aS'Scrum-half'
-p1625
-aS'Ferrieres-en-Brie'
-p1626
+p1645
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Ferrieres-en-Brie'
+p1646
 aVFrance
-p1627
+p1647
 aV77164
-p1628
+p1648
 aVFrance métropolitaine
-p1629
-aa(lp1630
+p1649
+aa(lp1650
 S'Rene Bousquet'
-p1631
+p1651
 aS'1926'
-p1632
+p1652
 aS'Prop, Lock'
-p1633
-aS'Villeneuve-les-Bezie'
-p1634
+p1653
 aS'9'
 aS'2'
+aS'7'
+aS'0'
 aS'1'
 aS'3'
+aS'Villeneuve-les-Bezie'
+p1654
 aVFrance
-p1635
+p1655
 aV34500
-p1636
+p1656
 aVFrance métropolitaine
-p1637
-aa(lp1638
+p1657
+aa(lp1658
 S'Alfred Prevost'
-p1639
+p1659
 aS'1926'
-p1640
+p1660
 aS'Back-row'
-p1641
-aS'Saint-Girons'
-p1642
+p1661
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'1'
 aS'3'
+aS'Saint-Girons'
+p1662
 aVFrance
-p1643
-aV09200
-p1644
-aVFrance métropolitaine
-p1645
-aa(lp1646
-S'Joseph Sourgens'
-p1647
-aS'1926'
-p1648
-aS'Fly-half'
-p1649
-aS'Ychoux'
-p1650
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1651
-aV40160
-p1652
-aVFrance métropolitaine
-p1653
-aa(lp1654
-S'Ernest Vila'
-p1655
-aS'1926'
-p1656
-aS'Wing'
-p1657
-aS'Auch'
-p1658
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1659
-aV32000
-p1660
-aVFrance métropolitaine
-p1661
-aa(lp1662
-S'Robert Hutin'
 p1663
-aS'1927'
+aV09200
 p1664
-aS'Prop'
+aVFrance métropolitaine
 p1665
-aS'Paris'
-p1666
+aa(lp1666
+S'Joseph Sourgens'
+p1667
+aS'1926'
+p1668
+aS'Fly-half'
+p1669
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Ychoux'
+p1670
+aVFrance
+p1671
+aV40160
+p1672
+aVFrance métropolitaine
+p1673
+aa(lp1674
+S'Ernest Vila'
+p1675
+aS'1926'
+p1676
+aS'Wing'
+p1677
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auch'
+p1678
+aVFrance
+p1679
+aV32000
+p1680
+aVFrance métropolitaine
+p1681
+aa(lp1682
+S'Robert Hutin'
+p1683
+aS'1927'
+p1684
+aS'Prop'
+p1685
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'1'
 aS'3'
+aS'Paris'
+p1686
 aVFrance
-p1667
+p1687
 aVFrance métropolitaine
-p1668
+p1688
 aVÎle-de-France
-p1669
-aa(lp1670
+p1689
+aa(lp1690
 S'Maixent Piquemal'
-p1671
+p1691
 aS'1927'
-p1672
+p1692
 aS'Fullback'
-p1673
-aS'Bordeaux'
-p1674
+p1693
 aS'9'
 aS'4'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'Bordeaux'
+p1694
 aVFrance
-p1675
+p1695
 aV33000;33100;33300;33800
-p1676
+p1696
 aVFrance métropolitaine
-p1677
-aa(lp1678
+p1697
+aa(lp1698
 S'Edmond Vellat'
-p1679
+p1699
 aS'1927'
-p1680
+p1700
 aS'Wing'
-p1681
-aS'Chambery'
-p1682
+p1701
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'5'
 aS'15'
-p1683
+p1702
+aS'Chambery'
+p1703
 aVFrance
-p1684
+p1704
 aV73000
-p1685
+p1705
 aVFrance métropolitaine
-p1686
-aa(lp1687
+p1706
+aa(lp1707
 S'Robert Houdet'
-p1688
+p1708
 aS'1927'
-p1689
+p1709
 aS'Wing'
-p1690
-aS'Paris'
-p1691
+p1710
 aS'10'
-p1692
+p1711
 aS'4'
+aS'6'
+aS'0'
 aS'7'
 aS'21'
-p1693
-aVFrance
-p1694
-aVFrance métropolitaine
-p1695
-aVÎle-de-France
-p1696
-aa(lp1697
-S'Jean Carbonne'
-p1698
-aS'1927'
-p1699
-aS'Scrum-half'
-p1700
-aS'Sorede'
-p1701
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1702
-aV66690
-p1703
-aVFrance métropolitaine
-p1704
-aa(lp1705
-S'Andre Verger'
-p1706
-aS'1927'
-p1707
-aS'Fly-half'
-p1708
-aS'Limoges'
-p1709
-aS'7'
-aS'4'
-aS'0'
-aS'8'
-aVFrance
-p1710
-aV87000;87100;87280
-p1711
-aVFrance métropolitaine
 p1712
-aa(lp1713
-S'Albert Cazenave'
+aS'Paris'
+p1713
+aVFrance
 p1714
-aS'1927'
+aVFrance métropolitaine
 p1715
-aS'Back-row'
+aVÎle-de-France
 p1716
-aS'Nay'
-p1717
+aa(lp1717
+S'Jean Carbonne'
+p1718
+aS'1927'
+p1719
+aS'Scrum-half'
+p1720
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Sorede'
+p1721
+aVFrance
+p1722
+aV66690
+p1723
+aVFrance métropolitaine
+p1724
+aa(lp1725
+S'Andre Verger'
+p1726
+aS'1927'
+p1727
+aS'Fly-half'
+p1728
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'8'
+aS'Limoges'
+p1729
+aVFrance
+p1730
+aV87000;87100;87280
+p1731
+aVFrance métropolitaine
+p1732
+aa(lp1733
+S'Albert Cazenave'
+p1734
+aS'1927'
+p1735
+aS'Back-row'
+p1736
 aS'5'
 aS'3'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'Nay'
+p1737
 aVEstados Unidos Mexicanos
-p1718
+p1738
 aVNayarit
-p1719
-ag95
-aa(lp1720
+p1739
+ag97
+aa(lp1740
 S'Jean Galia'
-p1721
+p1741
 aS'1927'
-p1722
+p1742
 aS'Lock, No. 8'
-p1723
-aS'Ille-sur-Tet'
-p1724
+p1743
 aS'20'
-p1725
+p1744
 aS'9'
+aS'11'
+p1745
+aS'0'
 aS'3'
 aS'9'
+aS'Ille-sur-Tet'
+p1746
 aVFrance
-p1726
+p1747
 aV66130
-p1727
+p1748
 aVFrance métropolitaine
-p1728
-aa(lp1729
+p1749
+aa(lp1750
 S'Georges Gerald'
-p1730
+p1751
 aS'1927'
-p1731
+p1752
 aS'Wing, Centre'
-p1732
-aS'Aixe-sur-Vienne'
-p1733
+p1753
 aS'17'
-p1734
+p1754
+aS'8'
+aS'9'
+aS'0'
+aS'0'
+aS'4'
+aS'Aixe-sur-Vienne'
+p1755
+aVFrance
+p1756
+aV87700
+p1757
+aVFrance métropolitaine
+p1758
+aa(lp1759
+S'Andre Loury'
+p1760
+aS'1927'
+p1761
+aS'Prop'
+p1762
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
+p1763
+aVFrance
+p1764
+aVFrance métropolitaine
+p1765
+aVÎle-de-France
+p1766
+aa(lp1767
+S'Jean Morere'
+p1768
+aS'1927'
+p1769
+aS'Prop'
+p1770
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Castelnau-Magnoac'
+p1771
+aVFrance
+p1772
+aV65230
+p1773
+aVFrance métropolitaine
+p1774
+aa(lp1775
+S'Fernand Camicas'
+p1776
+aS'1927'
+p1777
+aS'Hooker'
+p1778
+aS'10'
+p1779
+aS'2'
 aS'8'
 aS'0'
-aS'4'
-aVFrance
-p1735
-aV87700
-p1736
-aVFrance métropolitaine
-p1737
-aa(lp1738
-S'Andre Loury'
-p1739
-aS'1927'
-p1740
-aS'Prop'
-p1741
-aS'Paris'
-p1742
-aS'6'
-aS'2'
 aS'0'
 aS'0'
-aVFrance
-p1743
-aVFrance métropolitaine
-p1744
-aVÎle-de-France
-p1745
-aa(lp1746
-S'Jean Morere'
-p1747
-aS'1927'
-p1748
-aS'Prop'
-p1749
-aS'Castelnau-Magnoac'
-p1750
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p1751
-aV65230
-p1752
-aVFrance métropolitaine
-p1753
-aa(lp1754
-S'Fernand Camicas'
-p1755
-aS'1927'
-p1756
-aS'Hooker'
-p1757
 aS'Tarbes'
-p1758
-aS'10'
-p1759
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p1760
-aV65000
-p1761
-aVFrance métropolitaine
-p1762
-aa(lp1763
-S'Paul Descamps'
-p1764
-aS'1927'
-p1765
-aS'No. 8'
-p1766
-aS'Leon'
-p1767
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVNicaragua
-p1768
-aVLeón
-p1769
-ag95
-aa(lp1770
-S'Maurice Larrieux'
-p1771
-aS'1927'
-p1772
-aS'Lock'
-p1773
-aS'La Teste'
-p1774
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1775
-aV64800
-p1776
-aVFrance métropolitaine
-p1777
-aa(lp1778
-S'Gerald Branca'
-p1779
-aS'1928'
 p1780
-aS'Back-row'
+aVFrance
 p1781
-aS'Badens'
+aV65000
 p1782
+aVFrance métropolitaine
+p1783
+aa(lp1784
+S'Paul Descamps'
+p1785
+aS'1927'
+p1786
+aS'No. 8'
+p1787
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Leon'
+p1788
+aVNicaragua
+p1789
+aVLeón
+p1790
+ag97
+aa(lp1791
+S'Maurice Larrieux'
+p1792
+aS'1927'
+p1793
+aS'Lock'
+p1794
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'La Teste'
+p1795
+aVFrance
+p1796
+aV64800
+p1797
+aVFrance métropolitaine
+p1798
+aa(lp1799
+S'Gerald Branca'
+p1800
+aS'1928'
+p1801
+aS'Back-row'
+p1802
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Badens'
+p1803
 aVFrance
-p1783
-aV11800
-p1784
-aVFrance métropolitaine
-p1785
-aa(lp1786
-S'Andre Camel'
-p1787
-aS'1928'
-p1788
-aS'Lock'
-p1789
-aS'Toulouse'
-p1790
-aS'16'
-p1791
-aS'7'
-aS'2'
-aS'6'
-aVFrance
-p1792
-aV31000;31100;31200;31300;31400;31500
-p1793
-aVFrance métropolitaine
-p1794
-aa(lp1795
-S'Edouard Coulon'
-p1796
-aS'1928'
-p1797
-aS'Centre'
-p1798
-aS'Beziers'
-p1799
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1800
-aV34500
-p1801
-aVFrance métropolitaine
-p1802
-aa(lp1803
-S'Georges Daudignon'
 p1804
-aS'1928'
+aV11800
 p1805
-aS'Scrum-half'
+aVFrance métropolitaine
 p1806
-aS'Le Boucau'
-p1807
+aa(lp1807
+S'Andre Camel'
+p1808
+aS'1928'
+p1809
+aS'Lock'
+p1810
+aS'16'
+p1811
+aS'7'
+aS'9'
+aS'0'
+aS'2'
+aS'6'
+aS'Toulouse'
+p1812
+aVFrance
+p1813
+aV31000;31100;31200;31300;31400;31500
+p1814
+aVFrance métropolitaine
+p1815
+aa(lp1816
+S'Edouard Coulon'
+p1817
+aS'1928'
+p1818
+aS'Centre'
+p1819
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Beziers'
+p1820
 aVFrance
-p1808
-aV64340
-p1809
+p1821
+aV34500
+p1822
 aVFrance métropolitaine
-p1810
-aa(lp1811
-S'Henri Haget'
-p1812
+p1823
+aa(lp1824
+S'Georges Daudignon'
+p1825
 aS'1928'
-p1813
+p1826
+aS'Scrum-half'
+p1827
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Le Boucau'
+p1828
+aVFrance
+p1829
+aV64340
+p1830
+aVFrance métropolitaine
+p1831
+aa(lp1832
+S'Henri Haget'
+p1833
+aS'1928'
+p1834
 aS'Fly-half, Centre'
-p1814
-aS'Biarritz'
-p1815
+p1835
 aS'2'
 aS'1'
 aS'1'
+aS'0'
+aS'1'
 aS'6'
+aS'Biarritz'
+p1836
 aVFrance
-p1816
+p1837
 aV64200
-p1817
+p1838
 aVFrance métropolitaine
-p1818
-aa(lp1819
+p1839
+aa(lp1840
 S'Louis Magnol'
-p1820
+p1841
 aS'1928'
-p1821
+p1842
 aS'Fullback'
-p1822
-aS'Foix'
-p1823
+p1843
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'Foix'
+p1844
 aVFrance
-p1824
+p1845
 aV09000
-p1825
+p1846
 aVFrance métropolitaine
-p1826
-aa(lp1827
+p1847
+aa(lp1848
 S'Raoul Bonamy'
-p1828
+p1849
 aS'1928'
-p1829
+p1850
 aS'Flanker'
-p1830
-aS"Saint-Jean-d'Angely"
-p1831
+p1851
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
+aS"Saint-Jean-d'Angely"
+p1852
 aVFrance
-p1832
+p1853
 aV17400
-p1833
+p1854
 aVFrance métropolitaine
-p1834
-aa(lp1835
+p1855
+aa(lp1856
 S'Louis Pellissier'
-p1836
+p1857
 aS'1928'
-p1837
+p1858
 aS'Fullback'
-p1838
-aS'San Fernando'
-p1839
+p1859
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'San Fernando'
+p1860
 aVPhilippines
-p1840
+p1861
 aVMimaropa
-p1841
+p1862
 aVRomblon
-p1842
-aa(lp1843
+p1863
+aa(lp1864
 S'Georges Vaills'
-p1844
+p1865
 aS'1928'
-p1845
+p1866
 aS'Hooker'
-p1846
-aS'Palau-del-Vidre'
-p1847
+p1867
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Palau-del-Vidre'
+p1868
 aVFrance
-p1848
+p1869
 aV66690
-p1849
+p1870
 aVFrance métropolitaine
-p1850
-aa(lp1851
+p1871
+aa(lp1872
 S'Jean Duhau'
-p1852
+p1873
 aS'1928'
-p1853
+p1874
 aS'Prop, Hooker, Lock, Flanker'
-p1854
-aS'Ondres'
-p1855
+p1875
 aS'7'
 aS'4'
+aS'3'
+aS'0'
 aS'1'
 aS'14'
-p1856
-aVFrance
-p1857
-aV40440
-p1858
-aVFrance métropolitaine
-p1859
-aa(lp1860
-S'Jean Jardel'
-p1861
-aS'1928'
-p1862
-aS'Wing'
-p1863
-aS'Vitrac'
-p1864
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1865
-aVFrance métropolitaine
-p1866
-aVMidi-Pyrénées
-p1867
-aa(lp1868
-S'Henri Lacaze'
-p1869
-aS'1928'
-p1870
-aS'Lock, Prop'
-p1871
-aS'Laroquebrou'
-p1872
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p1873
-aV15150
-p1874
-aVFrance métropolitaine
-p1875
-aa(lp1876
-S'Jules Hauc'
+p1876
+aS'Ondres'
 p1877
-aS'1928'
+aVFrance
 p1878
-aS'Prop, Lock'
+aV40440
 p1879
-aS'Maureilhan'
+aVFrance métropolitaine
 p1880
+aa(lp1881
+S'Jean Jardel'
+p1882
+aS'1928'
+p1883
+aS'Wing'
+p1884
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Vitrac'
+p1885
+aVFrance
+p1886
+aVFrance métropolitaine
+p1887
+aVMidi-Pyrénées
+p1888
+aa(lp1889
+S'Henri Lacaze'
+p1890
+aS'1928'
+p1891
+aS'Lock, Prop'
+p1892
 aS'5'
 aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Laroquebrou'
+p1893
+aVFrance
+p1894
+aV15150
+p1895
+aVFrance métropolitaine
+p1896
+aa(lp1897
+S'Jules Hauc'
+p1898
+aS'1928'
+p1899
+aS'Prop, Lock'
+p1900
+aS'5'
+aS'2'
+aS'3'
+aS'0'
 aS'2'
 aS'6'
+aS'Maureilhan'
+p1901
 aVFrance
-p1881
+p1902
 aV34370
-p1882
+p1903
 aVFrance métropolitaine
-p1883
-aa(lp1884
+p1904
+aa(lp1905
 S'Lucien Serin'
-p1885
+p1906
 aS'1928'
-p1886
+p1907
 aS'Scrum-half'
-p1887
-aS'Antignac'
-p1888
+p1908
 aS'12'
-p1889
+p1909
 aS'6'
+aS'6'
+aS'0'
 aS'1'
 aS'3'
+aS'Antignac'
+p1910
 aVFrance
-p1890
+p1911
 aV31110
-p1891
+p1912
 aVFrance métropolitaine
-p1892
-aa(lp1893
+p1913
+aa(lp1914
 S'Richard Majerus'
-p1894
+p1915
 aS'1928'
-p1895
+p1916
 aS'Lock, Prop'
-p1896
-aS'Paris'
-p1897
+p1917
 aS'8'
 aS'4'
+aS'4'
+aS'0'
 aS'2'
 aS'6'
-aVFrance
-p1898
-aVFrance métropolitaine
-p1899
-aVÎle-de-France
-p1900
-aa(lp1901
-S'Georges Caussarieu'
-p1902
-aS'1928'
-p1903
-aS'Centre'
-p1904
-aS'Hendaye'
-p1905
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1906
-aV64700
-p1907
-aVFrance métropolitaine
-p1908
-aa(lp1909
-S'Robert Sarrade'
-p1910
-aS'1928'
-p1911
-aS'Fly-half'
-p1912
-aS"Aire-sur-l'Adour"
-p1913
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1914
-aV40800
-p1915
-aVFrance métropolitaine
-p1916
-aa(lp1917
-S'Joseph Auge'
+aS'Paris'
 p1918
-aS'1929'
+aVFrance
 p1919
-aS'No. 8'
+aVFrance métropolitaine
 p1920
-aS'Dax'
+aVÎle-de-France
 p1921
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p1922
-aV40100
+aa(lp1922
+S'Georges Caussarieu'
 p1923
-aVFrance métropolitaine
+aS'1928'
 p1924
-aa(lp1925
-S'Marcel Camel'
+aS'Centre'
+p1925
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Hendaye'
 p1926
-aS'1929'
-p1927
-aS'Back-row'
-p1928
-aS'Toulouse'
-p1929
-aS'2'
-aS'0'
-aS'1'
-aS'3'
 aVFrance
-p1930
-aV31000;31100;31200;31300;31400;31500
-p1931
+p1927
+aV64700
+p1928
 aVFrance métropolitaine
+p1929
+aa(lp1930
+S'Robert Sarrade'
+p1931
+aS'1928'
 p1932
-aa(lp1933
-S'Albert Domec'
-p1934
-aS'1929'
-p1935
-aS'Wing'
-p1936
-aS'Saint-Pee-de-Bigorre'
-p1937
+aS'Fly-half'
+p1933
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
+aS"Aire-sur-l'Adour"
+p1934
+aVFrance
+p1935
+aV40800
+p1936
+aVFrance métropolitaine
+p1937
 aa(lp1938
-S'Paul Barrere'
+S'Joseph Auge'
 p1939
 aS'1929'
 p1940
-aS'Lock'
+aS'No. 8'
 p1941
-aS'Elne'
-p1942
 aS'2'
-aS'1'
+aS'0'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Dax'
+p1942
 aVFrance
 p1943
-aV66200
+aV40100
 p1944
 aVFrance métropolitaine
 p1945
 aa(lp1946
-S'Andre Clady'
+S'Marcel Camel'
 p1947
 aS'1929'
 p1948
-aS'Flanker, Lock'
+aS'Back-row'
 p1949
-aS'Lezignan'
-p1950
-aS'5'
-aS'4'
 aS'2'
-aS'8'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Toulouse'
+p1950
 aVFrance
 p1951
-aV65100
+aV31000;31100;31200;31300;31400;31500
 p1952
 aVFrance métropolitaine
 p1953
 aa(lp1954
-S'Amedee Cutzach'
+S'Albert Domec'
 p1955
 aS'1929'
 p1956
-aS'Fly-half'
+aS'Wing'
 p1957
-aS'Trouillas'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Pee-de-Bigorre'
 p1958
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p1959
-aV66300
-p1960
-aVFrance métropolitaine
-p1961
-aa(lp1962
-S'Andre Duche'
-p1963
-aS'1929'
-p1964
-aS'Wing'
-p1965
-aS'Limoges'
-p1966
-aS'1'
-aS'1'
-aS'1'
-aS'9'
-aVFrance
-p1967
-aV87000;87100;87280
-p1968
-aVFrance métropolitaine
-p1969
-aa(lp1970
-S'Marcel Soler'
-p1971
-aS'1929'
-p1972
-aS'Wing'
-p1973
-aS'Thuir'
-p1974
-aS'1'
-aS'1'
-aS'2'
-aS'6'
-aVFrance
-p1975
-aV66300
-p1976
-aVFrance métropolitaine
-p1977
-aa(lp1978
-S'Albert Ambert'
-p1979
-aS'1930'
-p1980
-aS'Prop, Hooker'
-p1981
-aS'Beziers'
-p1982
-aS'5'
-aS'3'
-aS'1'
-aS'11'
-p1983
-aVFrance
-p1984
-aV34500
-p1985
-aVFrance métropolitaine
-p1986
-aa(lp1987
-S'Charles Bigot'
-p1988
-aS'1930'
-p1989
-aS'Hooker, Flanker'
-p1990
-aS'Lezignan'
-p1991
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p1992
-aV65100
-p1993
-aVFrance métropolitaine
-p1994
-aa(lp1995
-S'Joseph Choy'
-p1996
-aS'1930'
-p1997
-aS'Lock, Prop'
-p1998
-aS'Homps'
-p1999
-aS'10'
-p2000
-aS'8'
-aS'1'
-aS'3'
-aVFrance
-p2001
-aV11200
-p2002
-aVFrance métropolitaine
-p2003
-aa(lp2004
-S'Robert Samatan'
-p2005
-aS'1930'
-p2006
-aS'Wing'
-p2007
-aS'Toulouse'
-p2008
-aS'10'
-p2009
-aS'6'
-aS'3'
-aS'9'
-aVFrance
-p2010
-aV31000;31100;31200;31300;31400;31500
-p2011
-aVFrance métropolitaine
-p2012
-aa(lp2013
-S'Fernand Taillantou'
-p2014
-aS'1930'
-p2015
-aS'Wing'
-p2016
-aS'Pau'
-p2017
-aS'3'
-aS'2'
-aS'3'
-aS'9'
-aVFrance
-p2018
-aV64000
-p2019
-aVFrance métropolitaine
-p2020
-aa(lp2021
-S'Leopold Fabre'
-p2022
-aS'1930'
-p2023
-aS'Prop, Hooker'
-p2024
-aS'Toulouse'
-p2025
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2026
-aV31000;31100;31200;31300;31400;31500
-p2027
-aVFrance métropolitaine
-p2028
-aa(lp2029
-S'Lucien Augras-Fabre'
-p2030
-aS'1931'
-p2031
-aS'Wing'
-p2032
-aS'La Chatre'
-p2033
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2034
-aV36400
-p2035
-aVFrance métropolitaine
-p2036
-aa(lp2037
-S'Ernest Camo'
-p2038
-aS'1931'
-p2039
-aS'Lock, Flanker, No. 8'
-p2040
-aS"Saint-Feliu d'Avall"
-p2041
-aS'6'
-aS'4'
-aS'0'
-aS'0'
-aVFrance
-p2042
-aV66170
-p2043
-aVFrance métropolitaine
-p2044
-aa(lp2045
-S'Maurice Porra'
-p2046
-aS'1931'
-p2047
-aS'Hooker'
-p2048
-aS'Perpignan'
-p2049
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2050
-aV66000;66100
-p2051
-aVFrance métropolitaine
-p2052
-aa(lp2053
-S'Marius Rodrigo'
-p2054
-aS'1931'
-p2055
-aS'Prop, Lock'
-p2056
-aS'Mauleon'
-p2057
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2058
-aV64130
-p2059
-aVFrance métropolitaine
-p2060
-aa(lp2061
-S'Maurice Savy'
-p2062
-aS'1931'
-p2063
-aS'Centre, Fullback'
-p2064
-aS'Clermont-Ferrand'
-p2065
-aS'5'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p2066
-aV63000;63100
-p2067
-aVFrance métropolitaine
-p2068
-aa(lp2069
-S'Leopold Servole'
-p2070
-aS'1931'
-p2071
-aS'Fly-half'
-p2072
-aS'Saint-Andre-de-Roque'
-p2073
-aS'7'
-aS'5'
-aS'0'
-aS'4'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2074
-S'Antoine Duclos'
-p2075
-aS'1931'
-p2076
-aS'Prop'
-p2077
-aS'Juillan'
-p2078
+aa(lp1959
+S'Paul Barrere'
+p1960
+aS'1929'
+p1961
+aS'Lock'
+p1962
+aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Elne'
+p1963
+aVFrance
+p1964
+aV66200
+p1965
+aVFrance métropolitaine
+p1966
+aa(lp1967
+S'Andre Clady'
+p1968
+aS'1929'
+p1969
+aS'Flanker, Lock'
+p1970
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'2'
+aS'8'
+aS'Lezignan'
+p1971
+aVFrance
+p1972
+aV65100
+p1973
+aVFrance métropolitaine
+p1974
+aa(lp1975
+S'Amedee Cutzach'
+p1976
+aS'1929'
+p1977
+aS'Fly-half'
+p1978
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Trouillas'
+p1979
+aVFrance
+p1980
+aV66300
+p1981
+aVFrance métropolitaine
+p1982
+aa(lp1983
+S'Andre Duche'
+p1984
+aS'1929'
+p1985
+aS'Wing'
+p1986
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'9'
+aS'Limoges'
+p1987
+aVFrance
+p1988
+aV87000;87100;87280
+p1989
+aVFrance métropolitaine
+p1990
+aa(lp1991
+S'Marcel Soler'
+p1992
+aS'1929'
+p1993
+aS'Wing'
+p1994
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'6'
+aS'Thuir'
+p1995
+aVFrance
+p1996
+aV66300
+p1997
+aVFrance métropolitaine
+p1998
+aa(lp1999
+S'Albert Ambert'
+p2000
+aS'1930'
+p2001
+aS'Prop, Hooker'
+p2002
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'1'
+aS'11'
+p2003
+aS'Beziers'
+p2004
+aVFrance
+p2005
+aV34500
+p2006
+aVFrance métropolitaine
+p2007
+aa(lp2008
+S'Charles Bigot'
+p2009
+aS'1930'
+p2010
+aS'Hooker, Flanker'
+p2011
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Lezignan'
+p2012
+aVFrance
+p2013
+aV65100
+p2014
+aVFrance métropolitaine
+p2015
+aa(lp2016
+S'Joseph Choy'
+p2017
+aS'1930'
+p2018
+aS'Lock, Prop'
+p2019
+aS'10'
+p2020
+aS'8'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Homps'
+p2021
+aVFrance
+p2022
+aV11200
+p2023
+aVFrance métropolitaine
+p2024
+aa(lp2025
+S'Robert Samatan'
+p2026
+aS'1930'
+p2027
+aS'Wing'
+p2028
+aS'10'
+p2029
+aS'6'
+aS'4'
+aS'0'
+aS'3'
+aS'9'
+aS'Toulouse'
+p2030
+aVFrance
+p2031
+aV31000;31100;31200;31300;31400;31500
+p2032
+aVFrance métropolitaine
+p2033
+aa(lp2034
+S'Fernand Taillantou'
+p2035
+aS'1930'
+p2036
+aS'Wing'
+p2037
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'3'
+aS'9'
+aS'Pau'
+p2038
+aVFrance
+p2039
+aV64000
+p2040
+aVFrance métropolitaine
+p2041
+aa(lp2042
+S'Leopold Fabre'
+p2043
+aS'1930'
+p2044
+aS'Prop, Hooker'
+p2045
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
+p2046
+aVFrance
+p2047
+aV31000;31100;31200;31300;31400;31500
+p2048
+aVFrance métropolitaine
+p2049
+aa(lp2050
+S'Lucien Augras-Fabre'
+p2051
+aS'1931'
+p2052
+aS'Wing'
+p2053
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'La Chatre'
+p2054
+aVFrance
+p2055
+aV36400
+p2056
+aVFrance métropolitaine
+p2057
+aa(lp2058
+S'Ernest Camo'
+p2059
+aS'1931'
+p2060
+aS'Lock, Flanker, No. 8'
+p2061
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS"Saint-Feliu d'Avall"
+p2062
+aVFrance
+p2063
+aV66170
+p2064
+aVFrance métropolitaine
+p2065
+aa(lp2066
+S'Maurice Porra'
+p2067
+aS'1931'
+p2068
+aS'Hooker'
+p2069
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
+p2070
+aVFrance
+p2071
+aV66000;66100
+p2072
+aVFrance métropolitaine
+p2073
+aa(lp2074
+S'Marius Rodrigo'
+p2075
+aS'1931'
+p2076
+aS'Prop, Lock'
+p2077
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Mauleon'
+p2078
 aVFrance
 p2079
-aV65290
+aV64130
 p2080
 aVFrance métropolitaine
 p2081
 aa(lp2082
-S'Max Rousie'
+S'Maurice Savy'
 p2083
 aS'1931'
 p2084
-aS'Halfback, Scrum-half'
+aS'Centre, Fullback'
 p2085
-aS'Marmande'
-p2086
-aS'4'
+aS'5'
 aS'3'
 aS'2'
-aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Clermont-Ferrand'
+p2086
 aVFrance
 p2087
-aV47200
+aV63000;63100
 p2088
 aVFrance métropolitaine
 p2089
 aa(lp2090
-S'Robert Scohy'
+S'Leopold Servole'
 p2091
 aS'1931'
 p2092
-aS'Prop, Hooker'
-p2093
-aS'Tunis'
-p2094
-aS'4'
-aS'2'
-aS'1'
-aS'3'
-aVTunisie \u062a\u0648\u0646\u0633
-p2095
-ag95
-ag95
-aa(lp2096
-S'Georges Clement'
-p2097
-aS'1931'
-p2098
-aS'Centre'
-p2099
-aS'Saigon'
-p2100
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVVi\u1ec7t Nam
-p2101
-aV\u0110ông Nam B\u1ed9
-p2102
-aVThành ph\u1ed1 H\u1ed3 Chí Minh
-p2103
-aa(lp2104
-S'Charles Petit'
-p2105
-aS'1931'
-p2106
-aS'Lock'
-p2107
-aS'Saint-Ouen'
-p2108
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aVFrance
-p2109
-aV93400
-p2110
-aVFrance métropolitaine
-p2111
-aa(lp2112
-S'Max Vigerie'
-p2113
-aS'1931'
-p2114
-aS'Centre'
-p2115
-aS'Villereal'
-p2116
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2117
-aV47210
-p2118
-aVFrance métropolitaine
-p2119
-aa(lp2120
-S'Henri Empereur-Buisson'
-p2121
-aS'1931'
-p2122
-aS'Prop'
-p2123
-aS'Beziers'
-p2124
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2125
-aV34500
-p2126
-aVFrance métropolitaine
-p2127
-aa(lp2128
-S'Pierre Guelorget'
-p2129
-aS'1931'
-p2130
-aS'Wing'
-p2131
-aS'Parthenay'
-p2132
-aS'2'
-aS'2'
-aS'2'
-aS'6'
-aVFrance
-p2133
-aV79200
-p2134
-aVFrance métropolitaine
-p2135
-aa(lp2136
-S'Rene Namur'
-p2137
-aS'1931'
-p2138
-aS'Hooker'
-p2139
-aS'Montauban'
-p2140
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2141
-aV82000
-p2142
-aVFrance métropolitaine
-p2143
-aa(lp2144
-S'Roger Triviaux'
-p2145
-aS'1931'
-p2146
-aS'Flanker'
-p2147
-aS'Cognac'
-p2148
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2149
-aV16100
-p2150
-aVFrance métropolitaine
-p2151
-aa(lp2152
-S'Marius Guiral'
-p2153
-aS'1931'
-p2154
-aS'Fullback'
-p2155
-aS'Condom'
-p2156
-aS'3'
-aS'3'
-aS'0'
-aS'8'
-aVFrance
-p2157
-aV32100
-p2158
-aVFrance métropolitaine
-p2159
-aa(lp2160
-S'Antonin Barbazanges'
-p2161
-aS'1932'
-p2162
 aS'Fly-half'
-p2163
-aS'Toulouse'
-p2164
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2165
-aV31000;31100;31200;31300;31400;31500
-p2166
-aVFrance métropolitaine
-p2167
-aa(lp2168
-S'Eugene Chaud'
-p2169
-aS'1932'
-p2170
-aS'Fullback, Wing'
-p2171
-aS'Roanne'
-p2172
-aS'3'
-aS'3'
-aS'1'
-aS'16'
-p2173
-aVFrance
-p2174
-aV42300
-p2175
-aVFrance métropolitaine
-p2176
-aa(lp2177
-S'Roger Claudel'
-p2178
-aS'1932'
-p2179
-aS'Flanker'
-p2180
-aS'Chartres'
-p2181
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2182
-aV28000
-p2183
-aVFrance métropolitaine
-p2184
-aa(lp2185
-S'Jean Coderc'
-p2186
-aS'1932'
-p2187
-aS'Centre'
-p2188
-aS'Espira-de-Algy'
-p2189
-aS'5'
+p2093
+aS'7'
 aS'5'
 aS'2'
-aS'6'
+aS'0'
+aS'0'
+aS'4'
+aS'Saint-Andre-de-Roque'
+p2094
 aS'g'
 aS'n'
 aS'i'
-aa(lp2190
-S'Lucien Cognet'
-p2191
+aa(lp2095
+S'Antoine Duclos'
+p2096
+aS'1931'
+p2097
+aS'Prop'
+p2098
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Juillan'
+p2099
+aVFrance
+p2100
+aV65290
+p2101
+aVFrance métropolitaine
+p2102
+aa(lp2103
+S'Max Rousie'
+p2104
+aS'1931'
+p2105
+aS'Halfback, Scrum-half'
+p2106
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'2'
+aS'9'
+aS'Marmande'
+p2107
+aVFrance
+p2108
+aV47200
+p2109
+aVFrance métropolitaine
+p2110
+aa(lp2111
+S'Robert Scohy'
+p2112
+aS'1931'
+p2113
+aS'Prop, Hooker'
+p2114
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Tunis'
+p2115
+aVTunisie \u062a\u0648\u0646\u0633
+p2116
+ag97
+ag97
+aa(lp2117
+S'Georges Clement'
+p2118
+aS'1931'
+p2119
+aS'Centre'
+p2120
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saigon'
+p2121
+aVVi\u1ec7t Nam
+p2122
+aV\u0110ông Nam B\u1ed9
+p2123
+aVThành ph\u1ed1 H\u1ed3 Chí Minh
+p2124
+aa(lp2125
+S'Charles Petit'
+p2126
+aS'1931'
+p2127
+aS'Lock'
+p2128
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Saint-Ouen'
+p2129
+aVFrance
+p2130
+aV93400
+p2131
+aVFrance métropolitaine
+p2132
+aa(lp2133
+S'Max Vigerie'
+p2134
+aS'1931'
+p2135
+aS'Centre'
+p2136
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Villereal'
+p2137
+aVFrance
+p2138
+aV47210
+p2139
+aVFrance métropolitaine
+p2140
+aa(lp2141
+S'Henri Empereur-Buisson'
+p2142
+aS'1931'
+p2143
+aS'Prop'
+p2144
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Beziers'
+p2145
+aVFrance
+p2146
+aV34500
+p2147
+aVFrance métropolitaine
+p2148
+aa(lp2149
+S'Pierre Guelorget'
+p2150
+aS'1931'
+p2151
+aS'Wing'
+p2152
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'6'
+aS'Parthenay'
+p2153
+aVFrance
+p2154
+aV79200
+p2155
+aVFrance métropolitaine
+p2156
+aa(lp2157
+S'Rene Namur'
+p2158
+aS'1931'
+p2159
+aS'Hooker'
+p2160
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Montauban'
+p2161
+aVFrance
+p2162
+aV82000
+p2163
+aVFrance métropolitaine
+p2164
+aa(lp2165
+S'Roger Triviaux'
+p2166
+aS'1931'
+p2167
+aS'Flanker'
+p2168
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cognac'
+p2169
+aVFrance
+p2170
+aV16100
+p2171
+aVFrance métropolitaine
+p2172
+aa(lp2173
+S'Marius Guiral'
+p2174
+aS'1931'
+p2175
+aS'Fullback'
+p2176
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'8'
+aS'Condom'
+p2177
+aVFrance
+p2178
+aV32100
+p2179
+aVFrance métropolitaine
+p2180
+aa(lp2181
+S'Antonin Barbazanges'
+p2182
 aS'1932'
+p2183
+aS'Fly-half'
+p2184
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
+p2185
+aVFrance
+p2186
+aV31000;31100;31200;31300;31400;31500
+p2187
+aVFrance métropolitaine
+p2188
+aa(lp2189
+S'Eugene Chaud'
+p2190
+aS'1932'
+p2191
+aS'Fullback, Wing'
 p2192
-aS'Back-row'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'16'
 p2193
-aS'Vichy'
+aS'Roanne'
 p2194
-aS'5'
-aS'5'
-aS'0'
-aS'0'
 aVFrance
 p2195
-aV03200
+aV42300
 p2196
 aVFrance métropolitaine
 p2197
 aa(lp2198
-S'Henri de Malherbe'
+S'Roger Claudel'
 p2199
 aS'1932'
 p2200
-aS'Back-row'
+aS'Flanker'
 p2201
-aS'Ajaccio'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Chartres'
 p2202
-aS'2'
-aS'2'
-aS'2'
-aS'6'
 aVFrance
 p2203
-aV20090
+aV28000
 p2204
 aVFrance métropolitaine
 p2205
 aa(lp2206
-S'Rene Finat'
+S'Jean Coderc'
 p2207
 aS'1932'
 p2208
-aS'Wing'
+aS'Centre'
 p2209
-aS'Chalon-sur-Saone'
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'2'
+aS'6'
+aS'Espira-de-Algy'
 p2210
-aS'2'
-aS'2'
-aS'5'
-aS'15'
-p2211
-aVFrance
-p2212
-aV71100
-p2213
-aVFrance métropolitaine
-p2214
-aa(lp2215
-S'Joseph Griffard'
-p2216
-aS'1932'
-p2217
-aS'Prop, Lock'
-p2218
-aS'Limoges'
-p2219
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p2220
-aV87000;87100;87280
-p2221
-aVFrance métropolitaine
-p2222
-aa(lp2223
-S'Marcel Laurent'
-p2224
-aS'1932'
-p2225
-aS'Prop, Hooker'
-p2226
-aS'Auch'
-p2227
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aVFrance
-p2228
-aV32000
-p2229
-aVFrance métropolitaine
-p2230
-aa(lp2231
-S'Albert Potel'
-p2232
-aS'1932'
-p2233
-aS'Hooker'
-p2234
-aS'Oviedo'
-p2235
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVEspaña
-p2236
-aVPrincipado de Asturias
-p2237
-aVOviedo
-p2238
-aa(lp2239
-S'Edouard Ainciart'
-p2240
-aS'1933'
-p2241
-aS'Hooker'
-p2242
-aS'Bayonne'
-p2243
-aS'6'
-aS'5'
-aS'0'
-aS'0'
-aVFrance
-p2244
-aV64100
-p2245
-aVFrance métropolitaine
-p2246
-aa(lp2247
-S'Jean Daguerre'
-p2248
-aS'1933'
-p2249
-aS'Fly-half'
-p2250
-aS'Saint-Pierre-et-Miqu'
-p2251
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2252
-aV40280
-p2253
-aVFrance métropolitaine
-p2254
-aa(lp2255
-S'Pierre Escaffre'
-p2256
-aS'1933'
-p2257
-aS'Prop'
-p2258
-aS'Narbonne'
-p2259
-aS'2'
-aS'2'
-aS'1'
-aS'3'
-aVFrance
-p2260
-aV11100
-p2261
-aVFrance métropolitaine
-p2262
-aa(lp2263
-S'Firmin Raynaud'
-p2264
-aS'1933'
-p2265
-aS'Wing'
-p2266
-aS'Limoux'
-p2267
-aS'1'
-aS'1'
-aS'2'
-aS'6'
-aVFrance
-p2268
-aV11300
-p2269
-aVFrance métropolitaine
-p2270
-aa(lp2271
-S'Antoine Blain'
-p2272
-aS'1934'
-p2273
-aS'Flanker'
-p2274
-aS'Limoux'
-p2275
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2276
-aV11300
-p2277
-aVFrance métropolitaine
-p2278
-aa(lp2279
-S'Pierre Cussac'
-p2280
-aS'1934'
-p2281
-aS'Wing'
-p2282
-aS'Arcachon'
-p2283
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2284
-aV33120
-p2285
-aVFrance métropolitaine
-p2286
-aa(lp2287
-S'Joseph Desclaux'
-p2288
-aS'1934'
-p2289
-aS'Fly-half, Centre'
-p2290
-aS'Collioure'
-p2291
-aS'10'
-p2292
-aS'9'
-aS'3'
-aS'23'
-p2293
-aVFrance
-p2294
-aV66190
-p2295
-aVFrance métropolitaine
-p2296
-aa(lp2297
-S'Andre Duluc'
-p2298
-aS'1934'
-p2299
-aS'Wing'
-p2300
-aS'Castres'
-p2301
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p2302
-aV81100
-p2303
-aVFrance métropolitaine
-p2304
-aa(lp2305
-S'Louis Dupont'
-p2306
-aS'1934'
-p2307
-aS'No. 8'
-p2308
-aS'Bois-Colombes'
-p2309
-aS'6'
-aS'6'
-aS'0'
-aS'0'
-aVFrance
-p2310
-aV92270
-p2311
-aVFrance métropolitaine
-p2312
-aa(lp2313
-S'Francois Lombard'
-p2314
-aS'1934'
-p2315
-aS'Scrum-half, Flanker'
-p2316
-aS'Narbonne'
-p2317
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2318
-aV11100
-p2319
-aVFrance métropolitaine
-p2320
-aa(lp2321
-S'Jean Blond'
-p2322
-aS'1935'
-p2323
-aS'Flanker'
-p2324
-aS'Le Treport'
-p2325
-aS'6'
-aS'5'
-aS'2'
-aS'6'
-aVFrance
-p2326
-aV76470
-p2327
-aVFrance métropolitaine
-p2328
-aa(lp2329
-S'Paul Boyer'
-p2330
-aS'1935'
-p2331
-aS'Scrum-half'
-p2332
-aS'Arthes'
-p2333
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2334
-aV81160
-p2335
-aVFrance métropolitaine
-p2336
-aa(lp2337
-S'Maurice Celhay'
-p2338
-aS'1935'
-p2339
-aS'Wing, Centre'
-p2340
-aS'Saint-Palais'
-p2341
-aS'6'
-aS'4'
-aS'8'
-aS'24'
-p2342
-aVFrance
-p2343
-aV64120
-p2344
-aVFrance métropolitaine
-p2345
-aa(lp2346
-S'Jacques Dorot'
-p2347
-aS'1935'
-p2348
-aS'Lock'
-p2349
-aS'Pergamino'
-p2350
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVArgentina
-p2351
-aVBA
-p2352
-aVPartido de Pergamino
-p2353
-aa(lp2354
-S'Francois Raynal'
-p2355
-aS'1935'
-p2356
-aS'Flanker'
-p2357
-aS'Saint-Nazaire'
-p2358
-aS'5'
-aS'5'
-aS'1'
-aS'5'
-aVFrance
-p2359
-aV38330
-p2360
-aVFrance métropolitaine
-p2361
-aa(lp2362
-S'Armand Vigneau'
-p2363
-aS'1935'
-p2364
-aS'Wing'
-p2365
-aS'Bayonne'
-p2366
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p2367
-aV64100
-p2368
-aVFrance métropolitaine
-p2369
-aa(lp2370
-S'Francis Daguerre'
-p2371
-aS'1936'
-p2372
-aS'Prop'
-p2373
-aS'Saint-Pierre-et-Miqu'
-p2374
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p2375
-aV40280
-p2376
-aVFrance métropolitaine
-p2377
-aa(lp2378
-S'Pierre Geschwind'
-p2379
-aS'1936'
-p2380
-aS'Wing'
-p2381
-aS'Wattrelos'
-p2382
-aS'2'
-aS'2'
-aS'2'
-aS'6'
-aVFrance
-p2383
-aV59150
-p2384
-aVFrance métropolitaine
-p2385
-aa(lp2386
-S'Andre Goyard'
-p2387
-aS'1936'
-p2388
-aS'Prop, Lock'
-p2389
-aS'Saint-Jean-sur-Veyle'
-p2390
-aS'7'
-aS'6'
-aS'1'
-aS'3'
-aVFrance
-p2391
-aV01290
-p2392
-aVFrance métropolitaine
-p2393
-aa(lp2394
-S'Etienne Ithurra'
-p2395
-aS'1936'
-p2396
-aS'Lock'
-p2397
-aS'Bayonne'
-p2398
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p2399
-aV64100
-p2400
-aVFrance métropolitaine
-p2401
-aa(lp2402
-S'Georges Libaros'
-p2403
-aS'1936'
-p2404
-aS'Fly-half'
-p2405
-aS'?'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2406
-S'Andre Rochon'
-p2407
-aS'1936'
-p2408
-aS'Flanker, Hooker'
-p2409
-aS'Chastreix'
-p2410
-aS'1'
-aS'1'
+aa(lp2211
+S'Lucien Cognet'
+p2212
+aS'1932'
+p2213
+aS'Back-row'
+p2214
+aS'5'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'Vichy'
+p2215
 aVFrance
-p2411
-aV63680
-p2412
+p2216
+aV03200
+p2217
 aVFrance métropolitaine
-p2413
-aa(lp2414
-S'Pierre Thiers'
-p2415
-aS'1936'
-p2416
-aS'Scrum-half, Flanker'
-p2417
-aS'Thiers'
-p2418
+p2218
+aa(lp2219
+S'Henri de Malherbe'
+p2220
+aS'1932'
+p2221
+aS'Back-row'
+p2222
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'6'
+aS'Ajaccio'
+p2223
+aVFrance
+p2224
+aV20090
+p2225
+aVFrance métropolitaine
+p2226
+aa(lp2227
+S'Rene Finat'
+p2228
+aS'1932'
+p2229
+aS'Wing'
+p2230
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'5'
+aS'15'
+p2231
+aS'Chalon-sur-Saone'
+p2232
+aVFrance
+p2233
+aV71100
+p2234
+aVFrance métropolitaine
+p2235
+aa(lp2236
+S'Joseph Griffard'
+p2237
+aS'1932'
+p2238
+aS'Prop, Lock'
+p2239
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Limoges'
+p2240
+aVFrance
+p2241
+aV87000;87100;87280
+p2242
+aVFrance métropolitaine
+p2243
+aa(lp2244
+S'Marcel Laurent'
+p2245
+aS'1932'
+p2246
+aS'Prop, Hooker'
+p2247
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Auch'
+p2248
+aVFrance
+p2249
+aV32000
+p2250
+aVFrance métropolitaine
+p2251
+aa(lp2252
+S'Albert Potel'
+p2253
+aS'1932'
+p2254
+aS'Hooker'
+p2255
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Oviedo'
+p2256
+aVEspaña
+p2257
+aVPrincipado de Asturias
+p2258
+aVOviedo
+p2259
+aa(lp2260
+S'Edouard Ainciart'
+p2261
+aS'1933'
+p2262
+aS'Hooker'
+p2263
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bayonne'
+p2264
+aVFrance
+p2265
+aV64100
+p2266
+aVFrance métropolitaine
+p2267
+aa(lp2268
+S'Jean Daguerre'
+p2269
+aS'1933'
+p2270
+aS'Fly-half'
+p2271
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Pierre-et-Miqu'
+p2272
+aVFrance
+p2273
+aV40280
+p2274
+aVFrance métropolitaine
+p2275
+aa(lp2276
+S'Pierre Escaffre'
+p2277
+aS'1933'
+p2278
+aS'Prop'
+p2279
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Narbonne'
+p2280
+aVFrance
+p2281
+aV11100
+p2282
+aVFrance métropolitaine
+p2283
+aa(lp2284
+S'Firmin Raynaud'
+p2285
+aS'1933'
+p2286
+aS'Wing'
+p2287
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'6'
+aS'Limoux'
+p2288
+aVFrance
+p2289
+aV11300
+p2290
+aVFrance métropolitaine
+p2291
+aa(lp2292
+S'Antoine Blain'
+p2293
+aS'1934'
+p2294
+aS'Flanker'
+p2295
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Limoux'
+p2296
+aVFrance
+p2297
+aV11300
+p2298
+aVFrance métropolitaine
+p2299
+aa(lp2300
+S'Pierre Cussac'
+p2301
+aS'1934'
+p2302
+aS'Wing'
+p2303
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Arcachon'
+p2304
+aVFrance
+p2305
+aV33120
+p2306
+aVFrance métropolitaine
+p2307
+aa(lp2308
+S'Joseph Desclaux'
+p2309
+aS'1934'
+p2310
+aS'Fly-half, Centre'
+p2311
+aS'10'
+p2312
 aS'9'
+aS'1'
+aS'0'
+aS'3'
+aS'23'
+p2313
+aS'Collioure'
+p2314
+aVFrance
+p2315
+aV66190
+p2316
+aVFrance métropolitaine
+p2317
+aa(lp2318
+S'Andre Duluc'
+p2319
+aS'1934'
+p2320
+aS'Wing'
+p2321
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Castres'
+p2322
+aVFrance
+p2323
+aV81100
+p2324
+aVFrance métropolitaine
+p2325
+aa(lp2326
+S'Louis Dupont'
+p2327
+aS'1934'
+p2328
+aS'No. 8'
+p2329
+aS'6'
 aS'6'
 aS'0'
-aS'17'
+aS'0'
+aS'0'
+aS'0'
+aS'Bois-Colombes'
+p2330
+aVFrance
+p2331
+aV92270
+p2332
+aVFrance métropolitaine
+p2333
+aa(lp2334
+S'Francois Lombard'
+p2335
+aS'1934'
+p2336
+aS'Scrum-half, Flanker'
+p2337
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Narbonne'
+p2338
+aVFrance
+p2339
+aV11100
+p2340
+aVFrance métropolitaine
+p2341
+aa(lp2342
+S'Jean Blond'
+p2343
+aS'1935'
+p2344
+aS'Flanker'
+p2345
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'Le Treport'
+p2346
+aVFrance
+p2347
+aV76470
+p2348
+aVFrance métropolitaine
+p2349
+aa(lp2350
+S'Paul Boyer'
+p2351
+aS'1935'
+p2352
+aS'Scrum-half'
+p2353
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Arthes'
+p2354
+aVFrance
+p2355
+aV81160
+p2356
+aVFrance métropolitaine
+p2357
+aa(lp2358
+S'Maurice Celhay'
+p2359
+aS'1935'
+p2360
+aS'Wing, Centre'
+p2361
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'8'
+aS'24'
+p2362
+aS'Saint-Palais'
+p2363
+aVFrance
+p2364
+aV64120
+p2365
+aVFrance métropolitaine
+p2366
+aa(lp2367
+S'Jacques Dorot'
+p2368
+aS'1935'
+p2369
+aS'Lock'
+p2370
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Pergamino'
+p2371
+aVArgentina
+p2372
+aVBA
+p2373
+aVPartido de Pergamino
+p2374
+aa(lp2375
+S'Francois Raynal'
+p2376
+aS'1935'
+p2377
+aS'Flanker'
+p2378
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Saint-Nazaire'
+p2379
+aVFrance
+p2380
+aV38330
+p2381
+aVFrance métropolitaine
+p2382
+aa(lp2383
+S'Armand Vigneau'
+p2384
+aS'1935'
+p2385
+aS'Wing'
+p2386
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Bayonne'
+p2387
+aVFrance
+p2388
+aV64100
+p2389
+aVFrance métropolitaine
+p2390
+aa(lp2391
+S'Francis Daguerre'
+p2392
+aS'1936'
+p2393
+aS'Prop'
+p2394
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Saint-Pierre-et-Miqu'
+p2395
+aVFrance
+p2396
+aV40280
+p2397
+aVFrance métropolitaine
+p2398
+aa(lp2399
+S'Pierre Geschwind'
+p2400
+aS'1936'
+p2401
+aS'Wing'
+p2402
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'6'
+aS'Wattrelos'
+p2403
+aVFrance
+p2404
+aV59150
+p2405
+aVFrance métropolitaine
+p2406
+aa(lp2407
+S'Andre Goyard'
+p2408
+aS'1936'
+p2409
+aS'Prop, Lock'
+p2410
+aS'7'
+aS'6'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Saint-Jean-sur-Veyle'
+p2411
+aVFrance
+p2412
+aV01290
+p2413
+aVFrance métropolitaine
+p2414
+aa(lp2415
+S'Etienne Ithurra'
+p2416
+aS'1936'
+p2417
+aS'Lock'
+p2418
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Bayonne'
 p2419
 aVFrance
 p2420
-aV63300
+aV64100
 p2421
 aVFrance métropolitaine
 p2422
 aa(lp2423
-S'Felix Bergese'
+S'Georges Libaros'
 p2424
 aS'1936'
 p2425
-aS'Centre'
+aS'Fly-half'
 p2426
-aS'Le Boucau'
-p2427
-aS'6'
-aS'5'
-aS'4'
-aS'12'
-p2428
-aVFrance
-p2429
-aV64340
-p2430
-aVFrance métropolitaine
-p2431
-aa(lp2432
-S'Jean Clave'
-p2433
-aS'1936'
-p2434
-aS'Hooker'
-p2435
-aS'Montgaillard'
-p2436
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p2437
-aV65200
-p2438
-aVFrance métropolitaine
-p2439
-aa(lp2440
-S'Edmond Elissalde'
-p2441
-aS'1936'
-p2442
-aS'Centre, Fly-half'
-p2443
-aS'Biarritz'
-p2444
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2445
-aV64200
-p2446
-aVFrance métropolitaine
-p2447
-aa(lp2448
-S'Pierre Milliand'
-p2449
-aS'1936'
-p2450
-aS'Wing'
-p2451
-aS'Alberville'
-p2452
-aS'3'
-aS'3'
-aS'3'
-aS'9'
-aVFrance
-p2453
-aVFrance métropolitaine
-p2454
-aVBasse-Normandie
-p2455
-aa(lp2456
-S'Frantz Sahuc'
-p2457
-aS'1936'
-p2458
-aS'Fullback'
-p2459
-aS'Marsoulas'
-p2460
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2461
-aV31260
-p2462
-aVFrance métropolitaine
-p2463
-aa(lp2464
-S'David Aguilar'
-p2465
-aS'1937'
-p2466
-aS'Lock'
-p2467
-aS'Pau'
-p2468
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2469
-aV64000
-p2470
-aVFrance métropolitaine
-p2471
-aa(lp2472
-S'Pierre Daulouede'
-p2473
-aS'1937'
-p2474
-aS'Prop'
-p2475
-aS'Labenne'
-p2476
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2477
-aV40530
-p2478
-aVFrance métropolitaine
-p2479
-aa(lp2480
-S'Gilbert Lavail'
-p2481
-aS'1937'
-p2482
-aS'Fly-half'
-p2483
-aS'Perpignan'
-p2484
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2485
-aV66000;66100
-p2486
-aVFrance métropolitaine
-p2487
-aa(lp2488
-S'Henri Masse'
-p2489
-aS'1937'
-p2490
-aS'Fullback'
-p2491
-aS'Loriol'
-p2492
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2493
-aV26270
-p2494
-aVFrance métropolitaine
-p2495
-aa(lp2496
-S'Michel Bonnus'
-p2497
-aS'1937'
-p2498
-aS'Fullback'
-p2499
-aS'Toulon'
-p2500
-aS'5'
-aS'3'
-aS'0'
-aS'4'
-aVFrance
-p2501
-aV83000;83100;83200
-p2502
-aVFrance métropolitaine
-p2503
-aa(lp2504
-S'Antonin Delque'
-p2505
-aS'1937'
-p2506
-aS'Lock'
-p2507
-aS'Castelbiague'
-p2508
-aS'4'
-aS'3'
-aS'2'
-aS'6'
-aVFrance
-p2509
-aV31160
-p2510
-aVFrance métropolitaine
-p2511
-aa(lp2512
-S'Marcel Deygas'
-p2513
-aS'1937'
-p2514
-aS'Centre'
-p2515
-aS'Ardoix'
-p2516
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2517
-aV07290
-p2518
-aVFrance métropolitaine
-p2519
-aa(lp2520
-S'Emile Fabre'
-p2521
-aS'1937'
-p2522
-aS'Lock'
-p2523
-aS'Toulouse'
-p2524
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2525
-aV31000;31100;31200;31300;31400;31500
-p2526
-aVFrance métropolitaine
-p2527
-aa(lp2528
-S'Robert Cals'
-p2529
-aS'1938'
-p2530
-aS'Wing'
-p2531
-aS'Pezens'
-p2532
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p2533
-aV11170
-p2534
-aVFrance métropolitaine
-p2535
-aa(lp2536
-S'Jean Chassagne'
-p2537
-aS'1938'
-p2538
-aS'Fly-half'
-p2539
-aS'Aveze'
-p2540
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2541
-aV72400
-p2542
-aVFrance métropolitaine
-p2543
-aa(lp2544
-S'Henri Clarac'
-p2545
-aS'1938'
-p2546
-aS'Flanker'
-p2547
-aS'Saint-Girons'
-p2548
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2549
-aV09200
-p2550
-aVFrance métropolitaine
-p2551
-aa(lp2552
-S'Jean-Baptiste Lefort'
-p2553
-aS'1938'
-p2554
-aS'No. 8'
-p2555
-aS'Biarritz'
-p2556
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2557
-aV64200
-p2558
-aVFrance métropolitaine
-p2559
-aa(lp2560
-S'Rene Arotca'
-p2561
-aS'1938'
-p2562
-aS'Flanker'
-p2563
-aS'Bayonne'
-p2564
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2565
-aV64100
-p2566
-aVFrance métropolitaine
-p2567
-aa(lp2568
-S'Robert Caunegre'
-p2569
-aS'1938'
-p2570
-aS'Wing'
-p2571
-aS'Bordeaux'
-p2572
-aS'2'
-aS'2'
-aS'2'
-aS'6'
-aVFrance
-p2573
-aV33000;33100;33300;33800
-p2574
-aVFrance métropolitaine
-p2575
-aa(lp2576
-S'Emile Doussau'
-p2577
-aS'1938'
-p2578
-aS'Prop'
-p2579
-aS'Charmant'
-p2580
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2581
-aV16320
-p2582
-aVFrance métropolitaine
-p2583
-aa(lp2584
-S'Raymond le Goff'
-p2585
-aS'1938'
-p2586
-aS'Wing'
-p2587
-aS'Paris'
-p2588
-aS'2'
-aS'2'
-aS'1'
-aS'3'
-aVFrance
-p2589
-aVFrance métropolitaine
-p2590
-aVÎle-de-France
-p2591
-aa(lp2592
-S'Rene Lombarteix'
-p2593
-aS'1938'
-p2594
-aS'Lock, Prop'
-p2595
-aS'Clermont-Ferrand'
-p2596
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2597
-aV63000;63100
-p2598
-aVFrance métropolitaine
-p2599
-aa(lp2600
-S'Andre Rapin'
-p2601
-aS'1938'
-p2602
-aS'Centre'
-p2603
-aS'Bordeaux'
-p2604
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2605
-aV33000;33100;33300;33800
-p2606
-aVFrance métropolitaine
-p2607
-aa(lp2608
-S'Guy Vassal'
-p2609
-aS'1938'
-p2610
-aS'Scrum-half, Fly-half'
-p2611
-aS'Carcassonne'
-p2612
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2613
-aV11000
-p2614
-aVFrance métropolitaine
-p2615
-aa(lp2616
-S'Jacques Palat'
-p2617
-aS'1938'
-p2618
-aS'Flanker'
-p2619
-aS'Saint-Cyprien'
-p2620
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2621
-aV66750
-p2622
-aVFrance métropolitaine
-p2623
-aa(lp2624
-S'Pierre Charton'
-p2625
-aS'1940'
-p2626
-aS'No. 8'
-p2627
-aS'Saint-Maur-des-Fosse'
-p2628
-aS'1'
-aS'0'
-aS'0'
-aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2629
-S'Joseph Dutrey'
-p2630
-aS'1940'
-p2631
-aS'Lock'
-p2632
-aS'Puan'
-p2633
+aa(lp2427
+S'Andre Rochon'
+p2428
+aS'1936'
+p2429
+aS'Flanker, Hooker'
+p2430
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVArgentina
+aS'0'
+aS'Chastreix'
+p2431
+aVFrance
+p2432
+aV63680
+p2433
+aVFrance métropolitaine
+p2434
+aa(lp2435
+S'Pierre Thiers'
+p2436
+aS'1936'
+p2437
+aS'Scrum-half, Flanker'
+p2438
+aS'9'
+aS'6'
+aS'3'
+aS'0'
+aS'0'
+aS'17'
+p2439
+aS'Thiers'
+p2440
+aVFrance
+p2441
+aV63300
+p2442
+aVFrance métropolitaine
+p2443
+aa(lp2444
+S'Felix Bergese'
+p2445
+aS'1936'
+p2446
+aS'Centre'
+p2447
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'4'
+aS'12'
+p2448
+aS'Le Boucau'
+p2449
+aVFrance
+p2450
+aV64340
+p2451
+aVFrance métropolitaine
+p2452
+aa(lp2453
+S'Jean Clave'
+p2454
+aS'1936'
+p2455
+aS'Hooker'
+p2456
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Montgaillard'
+p2457
+aVFrance
+p2458
+aV65200
+p2459
+aVFrance métropolitaine
+p2460
+aa(lp2461
+S'Edmond Elissalde'
+p2462
+aS'1936'
+p2463
+aS'Centre, Fly-half'
+p2464
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Biarritz'
+p2465
+aVFrance
+p2466
+aV64200
+p2467
+aVFrance métropolitaine
+p2468
+aa(lp2469
+S'Pierre Milliand'
+p2470
+aS'1936'
+p2471
+aS'Wing'
+p2472
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'3'
+aS'9'
+aS'Alberville'
+p2473
+aVFrance
+p2474
+aVFrance métropolitaine
+p2475
+aVBasse-Normandie
+p2476
+aa(lp2477
+S'Frantz Sahuc'
+p2478
+aS'1936'
+p2479
+aS'Fullback'
+p2480
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Marsoulas'
+p2481
+aVFrance
+p2482
+aV31260
+p2483
+aVFrance métropolitaine
+p2484
+aa(lp2485
+S'David Aguilar'
+p2486
+aS'1937'
+p2487
+aS'Lock'
+p2488
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Pau'
+p2489
+aVFrance
+p2490
+aV64000
+p2491
+aVFrance métropolitaine
+p2492
+aa(lp2493
+S'Pierre Daulouede'
+p2494
+aS'1937'
+p2495
+aS'Prop'
+p2496
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Labenne'
+p2497
+aVFrance
+p2498
+aV40530
+p2499
+aVFrance métropolitaine
+p2500
+aa(lp2501
+S'Gilbert Lavail'
+p2502
+aS'1937'
+p2503
+aS'Fly-half'
+p2504
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
+p2505
+aVFrance
+p2506
+aV66000;66100
+p2507
+aVFrance métropolitaine
+p2508
+aa(lp2509
+S'Henri Masse'
+p2510
+aS'1937'
+p2511
+aS'Fullback'
+p2512
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Loriol'
+p2513
+aVFrance
+p2514
+aV26270
+p2515
+aVFrance métropolitaine
+p2516
+aa(lp2517
+S'Michel Bonnus'
+p2518
+aS'1937'
+p2519
+aS'Fullback'
+p2520
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'4'
+aS'Toulon'
+p2521
+aVFrance
+p2522
+aV83000;83100;83200
+p2523
+aVFrance métropolitaine
+p2524
+aa(lp2525
+S'Antonin Delque'
+p2526
+aS'1937'
+p2527
+aS'Lock'
+p2528
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'Castelbiague'
+p2529
+aVFrance
+p2530
+aV31160
+p2531
+aVFrance métropolitaine
+p2532
+aa(lp2533
+S'Marcel Deygas'
+p2534
+aS'1937'
+p2535
+aS'Centre'
+p2536
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Ardoix'
+p2537
+aVFrance
+p2538
+aV07290
+p2539
+aVFrance métropolitaine
+p2540
+aa(lp2541
+S'Emile Fabre'
+p2542
+aS'1937'
+p2543
+aS'Lock'
+p2544
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
+p2545
+aVFrance
+p2546
+aV31000;31100;31200;31300;31400;31500
+p2547
+aVFrance métropolitaine
+p2548
+aa(lp2549
+S'Robert Cals'
+p2550
+aS'1938'
+p2551
+aS'Wing'
+p2552
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pezens'
+p2553
+aVFrance
+p2554
+aV11170
+p2555
+aVFrance métropolitaine
+p2556
+aa(lp2557
+S'Jean Chassagne'
+p2558
+aS'1938'
+p2559
+aS'Fly-half'
+p2560
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Aveze'
+p2561
+aVFrance
+p2562
+aV72400
+p2563
+aVFrance métropolitaine
+p2564
+aa(lp2565
+S'Henri Clarac'
+p2566
+aS'1938'
+p2567
+aS'Flanker'
+p2568
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Girons'
+p2569
+aVFrance
+p2570
+aV09200
+p2571
+aVFrance métropolitaine
+p2572
+aa(lp2573
+S'Jean-Baptiste Lefort'
+p2574
+aS'1938'
+p2575
+aS'No. 8'
+p2576
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Biarritz'
+p2577
+aVFrance
+p2578
+aV64200
+p2579
+aVFrance métropolitaine
+p2580
+aa(lp2581
+S'Rene Arotca'
+p2582
+aS'1938'
+p2583
+aS'Flanker'
+p2584
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Bayonne'
+p2585
+aVFrance
+p2586
+aV64100
+p2587
+aVFrance métropolitaine
+p2588
+aa(lp2589
+S'Robert Caunegre'
+p2590
+aS'1938'
+p2591
+aS'Wing'
+p2592
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'6'
+aS'Bordeaux'
+p2593
+aVFrance
+p2594
+aV33000;33100;33300;33800
+p2595
+aVFrance métropolitaine
+p2596
+aa(lp2597
+S'Emile Doussau'
+p2598
+aS'1938'
+p2599
+aS'Prop'
+p2600
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Charmant'
+p2601
+aVFrance
+p2602
+aV16320
+p2603
+aVFrance métropolitaine
+p2604
+aa(lp2605
+S'Raymond le Goff'
+p2606
+aS'1938'
+p2607
+aS'Wing'
+p2608
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Paris'
+p2609
+aVFrance
+p2610
+aVFrance métropolitaine
+p2611
+aVÎle-de-France
+p2612
+aa(lp2613
+S'Rene Lombarteix'
+p2614
+aS'1938'
+p2615
+aS'Lock, Prop'
+p2616
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Clermont-Ferrand'
+p2617
+aVFrance
+p2618
+aV63000;63100
+p2619
+aVFrance métropolitaine
+p2620
+aa(lp2621
+S'Andre Rapin'
+p2622
+aS'1938'
+p2623
+aS'Centre'
+p2624
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Bordeaux'
+p2625
+aVFrance
+p2626
+aV33000;33100;33300;33800
+p2627
+aVFrance métropolitaine
+p2628
+aa(lp2629
+S'Guy Vassal'
+p2630
+aS'1938'
+p2631
+aS'Scrum-half, Fly-half'
+p2632
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Carcassonne'
+p2633
+aVFrance
 p2634
-aVBA
+aV11000
 p2635
-aVPartido de Puan
+aVFrance métropolitaine
 p2636
 aa(lp2637
-S'Lucien Ferrand'
+S'Jacques Palat'
 p2638
-aS'1940'
+aS'1938'
 p2639
 aS'Flanker'
 p2640
-aS'Le Creusot'
-p2641
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'0'
+aS'Saint-Cyprien'
+p2641
 aVFrance
 p2642
-aV71200
+aV66750
 p2643
 aVFrance métropolitaine
 p2644
 aa(lp2645
-S'Francois Meret'
+S'Pierre Charton'
 p2646
 aS'1940'
 p2647
-aS'Prop'
+aS'No. 8'
 p2648
-aS'Pontacq'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Maur-des-Fosse'
 p2649
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2650
-aV64530
-p2651
-aVFrance métropolitaine
-p2652
-aa(lp2653
-S'Roger Paul'
-p2654
-aS'1940'
-p2655
-aS'Hooker'
-p2656
-aS'Sauxillanges'
-p2657
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2658
-aV63490
-p2659
-aVFrance métropolitaine
-p2660
-aa(lp2661
-S'Henri Peyralade'
-p2662
-aS'1940'
-p2663
-aS'Scrum-half'
-p2664
-aS"Borderes-sur-l'Echez"
-p2665
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2666
-aV65320
-p2667
-aVFrance métropolitaine
-p2668
-aa(lp2669
-S'Robert Tourte'
-p2670
-aS'1940'
-p2671
-aS'Wing'
-p2672
-aS'Saint-Girons'
-p2673
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2674
-aV09200
-p2675
-aVFrance métropolitaine
-p2676
-aa(lp2677
-S'Marcel Tucoo-Chala'
-p2678
-aS'1940'
-p2679
-aS'Lock'
-p2680
-aS'Pau'
-p2681
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2682
-aV64000
-p2683
-aVFrance métropolitaine
-p2684
-aa(lp2685
-S'Georges Baladie'
-p2686
-aS'1945'
-p2687
-aS'Centre, Wing'
-p2688
-aS"Ville-d'Avray"
-p2689
-aS'6'
-aS'3'
-aS'3'
-aS'9'
-aVFrance
-p2690
-aV92410
-p2691
-aVFrance métropolitaine
-p2692
-aa(lp2693
-S'Yves Bergougnan'
-p2694
-aS'1945'
-p2695
-aS'Scrum-half'
-p2696
-aS'Toulouse'
-p2697
-aS'17'
-p2698
-aS'10'
-p2699
-aS'0'
-aS'12'
-p2700
-aVFrance
-p2701
-aV31000;31100;31200;31300;31400;31500
-p2702
-aVFrance métropolitaine
-p2703
-aa(lp2704
-S'Jean Dauger'
-p2705
-aS'1945'
-p2706
-aS'Centre'
-p2707
-aS'Cambo'
-p2708
-aS'3'
-aS'2'
-aS'2'
-aS'6'
-aVFrance
-p2709
-aVFrance métropolitaine
-p2710
-aVLanguedoc-Roussillon
-p2711
-aa(lp2712
-S'Robert Geneste'
-p2713
-aS'1945'
-p2714
-aS'Wing'
-p2715
-aS'Angouleme'
-p2716
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p2717
-aV16000
-p2718
-aVFrance métropolitaine
-p2719
-aa(lp2720
-S'Auguste Jarasse'
-p2721
-aS'1945'
-p2722
-aS'Hooker'
-p2723
-aS'Ussel'
-p2724
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVItalia
-p2725
-aVPIE
-p2726
-aVTO
-p2727
-aa(lp2728
-S'Louis Junquas'
-p2729
-aS'1945'
-p2730
-aS'Centre'
-p2731
-aS'Saint-Vincent-de-Tyr'
-p2732
-aS'13'
-p2733
-aS'7'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2734
-S'Jean Massare'
-p2735
+aa(lp2650
+S'Joseph Dutrey'
+p2651
+aS'1940'
+p2652
+aS'Lock'
+p2653
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Puan'
+p2654
+aVArgentina
+p2655
+aVBA
+p2656
+aVPartido de Puan
+p2657
+aa(lp2658
+S'Lucien Ferrand'
+p2659
+aS'1940'
+p2660
+aS'Flanker'
+p2661
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Le Creusot'
+p2662
+aVFrance
+p2663
+aV71200
+p2664
+aVFrance métropolitaine
+p2665
+aa(lp2666
+S'Francois Meret'
+p2667
+aS'1940'
+p2668
+aS'Prop'
+p2669
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontacq'
+p2670
+aVFrance
+p2671
+aV64530
+p2672
+aVFrance métropolitaine
+p2673
+aa(lp2674
+S'Roger Paul'
+p2675
+aS'1940'
+p2676
+aS'Hooker'
+p2677
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Sauxillanges'
+p2678
+aVFrance
+p2679
+aV63490
+p2680
+aVFrance métropolitaine
+p2681
+aa(lp2682
+S'Henri Peyralade'
+p2683
+aS'1940'
+p2684
+aS'Scrum-half'
+p2685
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS"Borderes-sur-l'Echez"
+p2686
+aVFrance
+p2687
+aV65320
+p2688
+aVFrance métropolitaine
+p2689
+aa(lp2690
+S'Robert Tourte'
+p2691
+aS'1940'
+p2692
+aS'Wing'
+p2693
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Girons'
+p2694
+aVFrance
+p2695
+aV09200
+p2696
+aVFrance métropolitaine
+p2697
+aa(lp2698
+S'Marcel Tucoo-Chala'
+p2699
+aS'1940'
+p2700
+aS'Lock'
+p2701
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pau'
+p2702
+aVFrance
+p2703
+aV64000
+p2704
+aVFrance métropolitaine
+p2705
+aa(lp2706
+S'Georges Baladie'
+p2707
 aS'1945'
+p2708
+aS'Centre, Wing'
+p2709
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'3'
+aS'9'
+aS"Ville-d'Avray"
+p2710
+aVFrance
+p2711
+aV92410
+p2712
+aVFrance métropolitaine
+p2713
+aa(lp2714
+S'Yves Bergougnan'
+p2715
+aS'1945'
+p2716
+aS'Scrum-half'
+p2717
+aS'17'
+p2718
+aS'10'
+p2719
+aS'7'
+aS'0'
+aS'0'
+aS'12'
+p2720
+aS'Toulouse'
+p2721
+aVFrance
+p2722
+aV31000;31100;31200;31300;31400;31500
+p2723
+aVFrance métropolitaine
+p2724
+aa(lp2725
+S'Jean Dauger'
+p2726
+aS'1945'
+p2727
+aS'Centre'
+p2728
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'Cambo'
+p2729
+aVFrance
+p2730
+aVFrance métropolitaine
+p2731
+aVLanguedoc-Roussillon
+p2732
+aa(lp2733
+S'Robert Geneste'
+p2734
+aS'1945'
+p2735
+aS'Wing'
 p2736
-aS'Lock, Prop'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Angouleme'
 p2737
-aS'Fontenay-sous-Bois'
+aVFrance
 p2738
+aV16000
+p2739
+aVFrance métropolitaine
+p2740
+aa(lp2741
+S'Auguste Jarasse'
+p2742
+aS'1945'
+p2743
+aS'Hooker'
+p2744
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Ussel'
+p2745
+aVItalia
+p2746
+aVPIE
+p2747
+aVTO
+p2748
+aa(lp2749
+S'Louis Junquas'
+p2750
+aS'1945'
+p2751
+aS'Centre'
+p2752
+aS'13'
+p2753
+aS'7'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Vincent-de-Tyr'
+p2754
+aS'g'
+aS'n'
+aS'i'
+aa(lp2755
+S'Jean Massare'
+p2756
+aS'1945'
+p2757
+aS'Lock, Prop'
+p2758
 aS'6'
 aS'4'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
-aVFrance
-p2739
-aV94120
-p2740
-aVFrance métropolitaine
-p2741
-aa(lp2742
-S'Roger Minjat'
-p2743
-aS'1945'
-p2744
-aS'Fullback'
-p2745
-aS'Venissieux'
-p2746
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p2747
-aV69200
-p2748
-aVFrance métropolitaine
-p2749
-aa(lp2750
-S'Alban Moga'
-p2751
-aS'1945'
-p2752
-aS'Lock'
-p2753
-aS'Bordeaux'
-p2754
-aS'22'
-p2755
-aS'13'
-p2756
-aS'0'
-aS'0'
-aVFrance
-p2757
-aV33000;33100;33300;33800
-p2758
-aVFrance métropolitaine
+aS'Fontenay-sous-Bois'
 p2759
-aa(lp2760
-S'Jean Prat'
+aVFrance
+p2760
+aV94120
 p2761
-aS'1945'
+aVFrance métropolitaine
 p2762
-aS'Flanker'
-p2763
-aS'Lourdes'
+aa(lp2763
+S'Roger Minjat'
 p2764
-aS'51'
+aS'1945'
 p2765
-aS'30'
+aS'Fullback'
 p2766
-aS'9'
-aS'144'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Venissieux'
 p2767
 aVFrance
 p2768
-aV65100
+aV69200
 p2769
 aVFrance métropolitaine
 p2770
 aa(lp2771
-S'Jean Prin-Clary'
+S'Alban Moga'
 p2772
 aS'1945'
 p2773
-aS'Lock, Prop'
-p2774
-aS'Marseille'
-p2775
-aS'10'
-p2776
-aS'6'
-aS'1'
-aS'3'
-aVFrance
-p2777
-aVFrance métropolitaine
-p2778
-aVProvence-Alpes-Côte d'Azur
-p2779
-aa(lp2780
-S'Andre Sahuc'
-p2781
-aS'1945'
-p2782
-aS'No. 8'
-p2783
-aS'Castelnau-Montratier'
-p2784
-aS'2'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p2785
-aV46170
-p2786
-aVFrance métropolitaine
-p2787
-aa(lp2788
-S'Robert Soro'
-p2789
-aS'1945'
-p2790
 aS'Lock'
+p2774
+aS'22'
+p2775
+aS'13'
+p2776
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Bordeaux'
+p2777
+aVFrance
+p2778
+aV33000;33100;33300;33800
+p2779
+aVFrance métropolitaine
+p2780
+aa(lp2781
+S'Jean Prat'
+p2782
+aS'1945'
+p2783
+aS'Flanker'
+p2784
+aS'51'
+p2785
+aS'30'
+p2786
+aS'20'
+p2787
+aS'1'
+aS'9'
+aS'144'
+p2788
+aS'Lourdes'
+p2789
+aVFrance
+p2790
+aV65100
 p2791
-aS'Odos'
+aVFrance métropolitaine
 p2792
-aS'21'
-p2793
-aS'12'
+aa(lp2793
+S'Jean Prin-Clary'
 p2794
+aS'1945'
+p2795
+aS'Lock, Prop'
+p2796
+aS'10'
+p2797
+aS'6'
+aS'4'
+aS'0'
+aS'1'
+aS'3'
+aS'Marseille'
+p2798
+aVFrance
+p2799
+aVFrance métropolitaine
+p2800
+aVProvence-Alpes-Côte d'Azur
+p2801
+aa(lp2802
+S'Andre Sahuc'
+p2803
+aS'1945'
+p2804
+aS'No. 8'
+p2805
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Castelnau-Montratier'
+p2806
+aVFrance
+p2807
+aV46170
+p2808
+aVFrance métropolitaine
+p2809
+aa(lp2810
+S'Robert Soro'
+p2811
+aS'1945'
+p2812
+aS'Lock'
+p2813
+aS'21'
+p2814
+aS'12'
+p2815
+aS'9'
+aS'0'
 aS'2'
 aS'6'
+aS'Odos'
+p2816
 aVFrance
-p2795
+p2817
 aV65310
-p2796
+p2818
 aVFrance métropolitaine
-p2797
-aa(lp2798
+p2819
+aa(lp2820
 S'Andre Alvarez'
-p2799
+p2821
 aS'1945'
-p2800
+p2822
 aS'Fullback, Fly-half'
-p2801
-aS'Bayonne'
-p2802
+p2823
 aS'20'
-p2803
+p2824
 aS'13'
-p2804
+p2825
+aS'7'
+aS'0'
 aS'1'
 aS'25'
-p2805
-aVFrance
-p2806
-aV64100
-p2807
-aVFrance métropolitaine
-p2808
-aa(lp2809
-S'Jacques Chaban-Delmas'
-p2810
-aS'1945'
-p2811
-aS'Wing'
-p2812
-aS'Paris'
-p2813
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2814
-aVFrance métropolitaine
-p2815
-aVÎle-de-France
-p2816
-aa(lp2817
-S'Gaston Combes'
-p2818
-aS'1945'
-p2819
-aS'Scrum-half'
-p2820
-aS'Toulouse'
-p2821
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2822
-aV31000;31100;31200;31300;31400;31500
-p2823
-aVFrance métropolitaine
-p2824
-aa(lp2825
-S'Lucien Rouffia'
 p2826
-aS'1945'
+aS'Bayonne'
 p2827
-aS'Fullback'
+aVFrance
 p2828
-aS'Narbonne'
+aV64100
 p2829
+aVFrance métropolitaine
+p2830
+aa(lp2831
+S'Jacques Chaban-Delmas'
+p2832
+aS'1945'
+p2833
+aS'Wing'
+p2834
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
+p2835
+aVFrance
+p2836
+aVFrance métropolitaine
+p2837
+aVÎle-de-France
+p2838
+aa(lp2839
+S'Gaston Combes'
+p2840
+aS'1945'
+p2841
+aS'Scrum-half'
+p2842
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
+p2843
+aVFrance
+p2844
+aV31000;31100;31200;31300;31400;31500
+p2845
+aVFrance métropolitaine
+p2846
+aa(lp2847
+S'Lucien Rouffia'
+p2848
+aS'1945'
+p2849
+aS'Fullback'
+p2850
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Narbonne'
+p2851
 aVFrance
-p2830
+p2852
 aV11100
-p2831
+p2853
 aVFrance métropolitaine
-p2832
-aa(lp2833
+p2854
+aa(lp2855
 S'Jean Vilagra'
-p2834
+p2856
 aS'1945'
-p2835
+p2857
 aS'Hooker'
-p2836
-aS'Saint-Etienne'
-p2837
+p2858
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Saint-Etienne'
+p2859
 aVFrance
-p2838
+p2860
 aV42000;42100
-p2839
+p2861
 aVFrance métropolitaine
-p2840
-aa(lp2841
+p2862
+aa(lp2863
 S'Guy Basquet'
-p2842
+p2864
 aS'1945'
-p2843
+p2865
 aS'Back-row'
-p2844
-aS'Layrac'
-p2845
+p2866
 aS'33'
-p2846
+p2867
 aS'17'
-p2847
+p2868
+aS'15'
+p2869
+aS'1'
 aS'8'
 aS'24'
-p2848
+p2870
+aS'Layrac'
+p2871
 aVFrance
-p2849
+p2872
 aV47390
-p2850
+p2873
 aVFrance métropolitaine
-p2851
-aa(lp2852
+p2874
+aa(lp2875
 S'Henri Dutrain'
-p2853
+p2876
 aS'1945'
-p2854
+p2877
 aS'Centre, Wing'
-p2855
-aS'Toulouse'
-p2856
+p2878
 aS'8'
 aS'5'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Toulouse'
+p2879
 aVFrance
-p2857
+p2880
 aV31000;31100;31200;31300;31400;31500
-p2858
+p2881
 aVFrance métropolitaine
-p2859
-aa(lp2860
+p2882
+aa(lp2883
 S'Jean Matheu-Cambas'
-p2861
+p2884
 aS'1945'
-p2862
+p2885
 aS'Flanker'
-p2863
-aS'Gelos'
-p2864
+p2886
 aS'24'
-p2865
+p2887
 aS'14'
-p2866
+p2888
+aS'10'
+p2889
+aS'0'
 aS'1'
 aS'3'
+aS'Gelos'
+p2890
 aVFrance
-p2867
+p2891
 aV64110
-p2868
+p2892
 aVFrance métropolitaine
-p2869
-aa(lp2870
+p2893
+aa(lp2894
 S'Elie Pebeyre'
-p2871
+p2895
 aS'1945'
-p2872
+p2896
 aS'Wing'
-p2873
-aS'Seilhac'
-p2874
+p2897
 aS'8'
 aS'4'
+aS'4'
+aS'0'
 aS'1'
 aS'3'
+aS'Seilhac'
+p2898
 aVFrance
-p2875
+p2899
 aV19700
-p2876
+p2900
 aVFrance métropolitaine
-p2877
-aa(lp2878
+p2901
+aa(lp2902
 S'Maurice Terreau'
-p2879
+p2903
 aS'1945'
-p2880
+p2904
 aS'Centre, Fly-half'
-p2881
-aS'Bourg-en-Bresse'
-p2882
+p2905
 aS'17'
-p2883
+p2906
 aS'11'
-p2884
+p2907
+aS'6'
+aS'0'
 aS'5'
 aS'15'
-p2885
+p2908
+aS'Bourg-en-Bresse'
+p2909
 aVFrance
-p2886
+p2910
 aV01000
-p2887
+p2911
 aVFrance métropolitaine
-p2888
-aa(lp2889
+p2912
+aa(lp2913
 S'Marcel Volot'
-p2890
+p2914
 aS'1945'
-p2891
+p2915
 aS'Hooker'
-p2892
-aS"Gonfreville l'Orcher"
-p2893
+p2916
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
-aVFrance
-p2894
-aV76700
-p2895
-aVFrance métropolitaine
-p2896
-aa(lp2897
-S'Albert Kaempf'
-p2898
-aS'1946'
-p2899
-aS'Wing'
-p2900
-aS'Itxassou'
-p2901
-aS'1'
-aS'1'
 aS'0'
-aS'0'
-aVFrance
-p2902
-aV64250
-p2903
-aVFrance métropolitaine
-p2904
-aa(lp2905
-S'Eugene Buzy'
-p2906
-aS'1946'
-p2907
-aS'Prop, Lock'
-p2908
-aS'Benejacq'
-p2909
-aS'17'
-p2910
-aS'10'
-p2911
-aS'0'
-aS'0'
-aVFrance
-p2912
-aV64800
-p2913
-aVFrance métropolitaine
-p2914
-aa(lp2915
-S'Michel Sorondo'
-p2916
-aS'1946'
+aS"Gonfreville l'Orcher"
 p2917
-aS'Fullback, Centre'
+aVFrance
 p2918
-aS'Hendaye'
+aV76700
 p2919
+aVFrance métropolitaine
+p2920
+aa(lp2921
+S'Albert Kaempf'
+p2922
+aS'1946'
+p2923
+aS'Wing'
+p2924
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Itxassou'
+p2925
+aVFrance
+p2926
+aV64250
+p2927
+aVFrance métropolitaine
+p2928
+aa(lp2929
+S'Eugene Buzy'
+p2930
+aS'1946'
+p2931
+aS'Prop, Lock'
+p2932
+aS'17'
+p2933
+aS'10'
+p2934
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Benejacq'
+p2935
+aVFrance
+p2936
+aV64800
+p2937
+aVFrance métropolitaine
+p2938
+aa(lp2939
+S'Michel Sorondo'
+p2940
+aS'1946'
+p2941
+aS'Fullback, Centre'
+p2942
 aS'6'
 aS'2'
+aS'4'
+aS'0'
 aS'1'
 aS'3'
+aS'Hendaye'
+p2943
 aVFrance
-p2920
+p2944
 aV64700
-p2921
+p2945
 aVFrance métropolitaine
-p2922
-aa(lp2923
+p2946
+aa(lp2947
 S'Jean Lassegue'
-p2924
+p2948
 aS'1946'
-p2925
+p2949
 aS'Wing'
-p2926
-aS'Rieumes'
-p2927
+p2950
 aS'9'
 aS'7'
+aS'2'
+aS'0'
 aS'5'
 aS'15'
-p2928
+p2951
+aS'Rieumes'
+p2952
 aVFrance
-p2929
+p2953
 aV31370
-p2930
+p2954
 aVFrance métropolitaine
-p2931
-aa(lp2932
+p2955
+aa(lp2956
 S'Marcel Jol'
-p2933
+p2957
 aS'1947'
-p2934
+p2958
 aS'Hooker'
-p2935
+p2959
+aS'10'
+p2960
+aS'6'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
 aS'Biarritz'
-p2936
-aS'10'
-p2937
-aS'6'
-aS'0'
-aS'0'
+p2961
 aVFrance
-p2938
+p2962
 aV64200
-p2939
+p2963
 aVFrance métropolitaine
-p2940
-aa(lp2941
+p2964
+aa(lp2965
 S'Lucien Caron'
-p2942
+p2966
 aS'1947'
-p2943
+p2967
 aS'Prop'
-p2944
-aS'Lyon'
-p2945
+p2968
 aS'10'
-p2946
+p2969
 aS'6'
+aS'4'
+aS'0'
 aS'1'
 aS'3'
+aS'Lyon'
+p2970
 aVFrance
-p2947
+p2971
 aVFrance métropolitaine
-p2948
+p2972
 aVRhône-Alpes
-p2949
-aa(lp2950
+p2973
+aa(lp2974
 S'Gerard Dufau'
-p2951
+p2975
 aS'1948'
-p2952
+p2976
 aS'Scrum-half'
-p2953
-aS'Dax'
-p2954
+p2977
 aS'38'
-p2955
+p2978
 aS'21'
-p2956
+p2979
+aS'17'
+p2980
+aS'0'
 aS'2'
 aS'6'
-aVFrance
-p2957
-aV40100
-p2958
-aVFrance métropolitaine
-p2959
-aa(lp2960
-S'Pierre Jeanjean'
-p2961
-aS'1948'
-p2962
-aS'Wing'
-p2963
-aS'Port Vendres'
-p2964
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p2965
-aV66660
-p2966
-aVFrance métropolitaine
-p2967
-aa(lp2968
-S'Lucien Martin'
-p2969
-aS'1948'
-p2970
-aS'Hooker'
-p2971
-aS'Pau'
-p2972
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p2973
-aV64000
-p2974
-aVFrance métropolitaine
-p2975
-aa(lp2976
-S'Michel Pomathios'
-p2977
-aS'1948'
-p2978
-aS'Wing'
-p2979
-aS'Bourg-en-Bresse'
-p2980
-aS'24'
+aS'Dax'
 p2981
-aS'12'
-p2982
-aS'6'
-aS'18'
-p2983
 aVFrance
-p2984
-aV01000
-p2985
+p2982
+aV40100
+p2983
 aVFrance métropolitaine
+p2984
+aa(lp2985
+S'Pierre Jeanjean'
 p2986
-aa(lp2987
-S'Leon Bordenave'
-p2988
 aS'1948'
+p2987
+aS'Wing'
+p2988
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Port Vendres'
 p2989
-aS'Fly-half, Centre'
+aVFrance
 p2990
-aS'Odos'
+aV66660
 p2991
-aS'5'
+aVFrance métropolitaine
+p2992
+aa(lp2993
+S'Lucien Martin'
+p2994
+aS'1948'
+p2995
+aS'Hooker'
+p2996
+aS'6'
+aS'3'
 aS'3'
 aS'0'
 aS'0'
-aVFrance
-p2992
-aV65310
-p2993
-aVFrance métropolitaine
-p2994
-aa(lp2995
-S'Pierre Dizabo'
-p2996
-aS'1948'
+aS'0'
+aS'Pau'
 p2997
-aS'Fly-half, Centre'
+aVFrance
 p2998
-aS'Saint-Vincent-de-Tyr'
+aV64000
 p2999
-aS'13'
+aVFrance métropolitaine
 p3000
-aS'8'
-aS'1'
-aS'6'
-aS'g'
-aS'n'
-aS'i'
 aa(lp3001
-S'Roger Lacaussade'
+S'Michel Pomathios'
 p3002
 aS'1948'
 p3003
 aS'Wing'
 p3004
-aS'Captieux'
+aS'24'
 p3005
-aS'2'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p3006
-aV33840
-p3007
-aVFrance métropolitaine
-p3008
-aa(lp3009
-S'Pierre Aristouy'
-p3010
-aS'1948'
-p3011
-aS'Lock, Prop'
-p3012
-aS'Arette'
-p3013
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p3014
-aV64570
-p3015
-aVFrance métropolitaine
-p3016
-aa(lp3017
-S'Maurice Siman'
-p3018
-aS'1948'
-p3019
-aS'Wing'
-p3020
-aS'Clermont-Ferrand'
-p3021
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p3022
-aV63000;63100
-p3023
-aVFrance métropolitaine
-p3024
-aa(lp3025
-S'Noel Baudry'
-p3026
-aS'1949'
-p3027
-aS'Fullback'
-p3028
-aS'Saint-Exupery-les-Ro'
-p3029
-aS'5'
-aS'4'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3030
-S'Jean Pilon'
-p3031
-aS'1949'
-p3032
-aS'Fly-half'
-p3033
-aS'Bayonne'
-p3034
-aS'2'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p3035
-aV64100
-p3036
-aVFrance métropolitaine
-p3037
-aa(lp3038
-S'Francis Desclaux'
-p3039
-aS'1949'
-p3040
-aS'Centre'
-p3041
-aS'Collioure'
-p3042
-aS'3'
-aS'3'
-aS'0'
-aS'5'
-aVFrance
-p3043
-aV66190
-p3044
-aVFrance métropolitaine
-p3045
-aa(lp3046
-S'Felix Lacrampe'
-p3047
-aS'1949'
-p3048
-aS'No. 8'
-p3049
-aS'Lannemezan'
-p3050
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p3051
-aV65300
-p3052
-aVFrance métropolitaine
-p3053
-aa(lp3054
-S'Roger Arcalis'
-p3055
-aS'1950'
-p3056
-aS'Fullback'
-p3057
-aS'Tarbes'
-p3058
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p3059
-aV65000
-p3060
-aVFrance métropolitaine
-p3061
-aa(lp3062
-S'Rene Bienes'
-p3063
-aS'1950'
-p3064
-aS'Flanker, Prop'
-p3065
-aS'Toulouse'
-p3066
-aS'29'
-p3067
-aS'16'
-p3068
-aS'4'
 aS'12'
-p3069
-aVFrance
-p3070
-aV31000;31100;31200;31300;31400;31500
-p3071
-aVFrance métropolitaine
-p3072
-aa(lp3073
-S'Firmin Bonnus'
-p3074
-aS'1950'
-p3075
-aS'Lock'
-p3076
-aS'Toulon'
-p3077
-aS'4'
+p3006
+aS'11'
+p3007
 aS'1'
-aS'0'
-aS'0'
+aS'6'
+aS'18'
+p3008
+aS'Bourg-en-Bresse'
+p3009
 aVFrance
-p3078
-aV83000;83100;83200
-p3079
+p3010
+aV01000
+p3011
 aVFrance métropolitaine
-p3080
-aa(lp3081
-S'Roger Ferrien'
-p3082
-aS'1950'
-p3083
-aS'Prop'
-p3084
-aS'Riscle'
-p3085
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p3086
-aV32400
-p3087
-aVFrance métropolitaine
-p3088
-aa(lp3089
-S'Pierre Lauga'
-p3090
-aS'1950'
-p3091
+p3012
+aa(lp3013
+S'Leon Bordenave'
+p3014
+aS'1948'
+p3015
 aS'Fly-half, Centre'
-p3092
-aS'Lucq-de-Bearn'
-p3093
-aS'4'
-aS'1'
-aS'0'
-aS'3'
-aVFrance
-p3094
-aV64360
-p3095
-aVFrance métropolitaine
-p3096
-aa(lp3097
-S'Pierre Lavergne'
-p3098
-aS'1950'
-p3099
-aS'Prop'
-p3100
-aS'Ciboure'
-p3101
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p3102
-aV64500
-p3103
-aVFrance métropolitaine
-p3104
-aa(lp3105
-S'Jacques Merquey'
-p3106
-aS'1950'
-p3107
-aS'Centre'
-p3108
-aS'Souillac'
-p3109
-aS'4'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p3110
-aV46200
-p3111
-aVFrance métropolitaine
-p3112
-aa(lp3113
-S'Daniel Herice'
-p3114
-aS'1950'
-p3115
-aS'Flanker'
-p3116
-aS'Saint-Emiliosen'
-p3117
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3118
-S'Paul Lasaosa'
-p3119
-aS'1950'
-p3120
-aS'Centre, Scrum-half, Halfback'
-p3121
-aS'Dax'
-p3122
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p3123
-aV40100
-p3124
-aVFrance métropolitaine
-p3125
-aa(lp3126
-S'Pierre Pascalin'
-p3127
-aS'1950'
-p3128
-aS'Hooker'
-p3129
-aS'Saint-Gein'
-p3130
-aS'7'
-aS'4'
-aS'0'
-aS'0'
-aVFrance
-p3131
-aV40190
-p3132
-aVFrance métropolitaine
-p3133
-aa(lp3134
-S'Georges Brun'
-p3135
-aS'1950'
-p3136
-aS'Wing, Centre, Fullback'
-p3137
-aS'Aix-les-Bains'
-p3138
-aS'14'
-p3139
-aS'7'
-aS'0'
-aS'0'
-aVFrance
-p3140
-aV73100
-p3141
-aVFrance métropolitaine
-p3142
-aa(lp3143
-S'Fernand Cazenave'
-p3144
-aS'1950'
-p3145
-aS'Wing'
-p3146
-aS'Orthez'
-p3147
-aS'6'
+p3016
 aS'5'
-aS'1'
-aS'3'
-aVFrance
-p3148
-aV64300
-p3149
-aVFrance métropolitaine
-p3150
-aa(lp3151
-S'Franck Fournet'
-p3152
-aS'1950'
-p3153
-aS'Fly-half'
-p3154
-aS'Clermont-Ferrand'
-p3155
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p3156
-aV63000;63100
-p3157
-aVFrance métropolitaine
-p3158
-aa(lp3159
-S'Rene Bernard'
-p3160
-aS'1951'
-p3161
-aS'Prop'
-p3162
-aS'Bergerac'
-p3163
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p3164
-aV24100
-p3165
-aVFrance métropolitaine
-p3166
-aa(lp3167
-S'Georges Carabignac'
-p3168
-aS'1951'
-p3169
-aS'Fly-half'
-p3170
-aS'Boe'
-p3171
-aS'7'
-aS'2'
-aS'0'
-aS'9'
-aVBolivia
-p3172
-ag95
-ag95
-aa(lp3173
-S'Henri Foures'
-p3174
-aS'1951'
-p3175
-aS'Lock'
-p3176
-aS'Issus'
-p3177
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p3178
-aV31450
-p3179
-aVFrance métropolitaine
-p3180
-aa(lp3181
-S'Lucien Mias'
-p3182
-aS'1951'
-p3183
-aS'Lock'
-p3184
-aS'Saint-Germain-de-Cal'
-p3185
-aS'29'
-p3186
-aS'17'
-p3187
-aS'1'
-aS'3'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3188
-S'Alain Porthault'
-p3189
-aS'1951'
-p3190
-aS'Wing'
-p3191
-aS'Vervins'
-p3192
-aS'7'
-aS'5'
-aS'3'
-aS'9'
-aVFrance
-p3193
-aV02140
-p3194
-aVFrance métropolitaine
-p3195
-aa(lp3196
-S'Guy Belletante'
-p3197
-aS'1951'
-p3198
-aS'Centre'
-p3199
-aS'Perigueux'
-p3200
 aS'3'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Odos'
+p3017
 aVFrance
-p3201
-aV24000
-p3202
+p3018
+aV65310
+p3019
 aVFrance métropolitaine
-p3203
-aa(lp3204
-S'Pierre Bertrand'
-p3205
-aS'1951'
-p3206
-aS'Prop'
-p3207
-aS'Meximieux'
-p3208
+p3020
+aa(lp3021
+S'Pierre Dizabo'
+p3022
+aS'1948'
+p3023
+aS'Fly-half, Centre'
+p3024
+aS'13'
+p3025
 aS'8'
 aS'4'
-aS'0'
-aS'13'
-p3209
-aVFrance
-p3210
-aV01800
-p3211
-aVFrance métropolitaine
-p3212
-aa(lp3213
-S'Dacien Olive'
-p3214
-aS'1951'
-p3215
+aS'1'
+aS'1'
+aS'6'
+aS'Saint-Vincent-de-Tyr'
+p3026
+aS'g'
+aS'n'
+aS'i'
+aa(lp3027
+S'Roger Lacaussade'
+p3028
+aS'1948'
+p3029
 aS'Wing'
-p3216
-aS'Claira'
-p3217
+p3030
 aS'2'
+aS'1'
+aS'1'
 aS'0'
 aS'1'
 aS'3'
+aS'Captieux'
+p3031
 aVFrance
-p3218
-aV66530
-p3219
+p3032
+aV33840
+p3033
 aVFrance métropolitaine
-p3220
-aa(lp3221
-S'Maurice Prat'
-p3222
-aS'1951'
-p3223
-aS'Fullback'
-p3224
-aS'Lourdes'
-p3225
-aS'31'
-p3226
-aS'18'
-p3227
+p3034
+aa(lp3035
+S'Pierre Aristouy'
+p3036
+aS'1948'
+p3037
+aS'Lock, Prop'
+p3038
 aS'6'
-aS'24'
+aS'2'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Arette'
+p3039
+aVFrance
+p3040
+aV64570
+p3041
+aVFrance métropolitaine
+p3042
+aa(lp3043
+S'Maurice Siman'
+p3044
+aS'1948'
+p3045
+aS'Wing'
+p3046
+aS'6'
+aS'2'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Clermont-Ferrand'
+p3047
+aVFrance
+p3048
+aV63000;63100
+p3049
+aVFrance métropolitaine
+p3050
+aa(lp3051
+S'Noel Baudry'
+p3052
+aS'1949'
+p3053
+aS'Fullback'
+p3054
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Exupery-les-Ro'
+p3055
+aS'g'
+aS'n'
+aS'i'
+aa(lp3056
+S'Jean Pilon'
+p3057
+aS'1949'
+p3058
+aS'Fly-half'
+p3059
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Bayonne'
+p3060
+aVFrance
+p3061
+aV64100
+p3062
+aVFrance métropolitaine
+p3063
+aa(lp3064
+S'Francis Desclaux'
+p3065
+aS'1949'
+p3066
+aS'Centre'
+p3067
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'5'
+aS'Collioure'
+p3068
+aVFrance
+p3069
+aV66190
+p3070
+aVFrance métropolitaine
+p3071
+aa(lp3072
+S'Felix Lacrampe'
+p3073
+aS'1949'
+p3074
+aS'No. 8'
+p3075
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Lannemezan'
+p3076
+aVFrance
+p3077
+aV65300
+p3078
+aVFrance métropolitaine
+p3079
+aa(lp3080
+S'Roger Arcalis'
+p3081
+aS'1950'
+p3082
+aS'Fullback'
+p3083
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Tarbes'
+p3084
+aVFrance
+p3085
+aV65000
+p3086
+aVFrance métropolitaine
+p3087
+aa(lp3088
+S'Rene Bienes'
+p3089
+aS'1950'
+p3090
+aS'Flanker, Prop'
+p3091
+aS'29'
+p3092
+aS'16'
+p3093
+aS'12'
+p3094
+aS'1'
+aS'4'
+aS'12'
+p3095
+aS'Toulouse'
+p3096
+aVFrance
+p3097
+aV31000;31100;31200;31300;31400;31500
+p3098
+aVFrance métropolitaine
+p3099
+aa(lp3100
+S'Firmin Bonnus'
+p3101
+aS'1950'
+p3102
+aS'Lock'
+p3103
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Toulon'
+p3104
+aVFrance
+p3105
+aV83000;83100;83200
+p3106
+aVFrance métropolitaine
+p3107
+aa(lp3108
+S'Roger Ferrien'
+p3109
+aS'1950'
+p3110
+aS'Prop'
+p3111
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Riscle'
+p3112
+aVFrance
+p3113
+aV32400
+p3114
+aVFrance métropolitaine
+p3115
+aa(lp3116
+S'Pierre Lauga'
+p3117
+aS'1950'
+p3118
+aS'Fly-half, Centre'
+p3119
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'3'
+aS'Lucq-de-Bearn'
+p3120
+aVFrance
+p3121
+aV64360
+p3122
+aVFrance métropolitaine
+p3123
+aa(lp3124
+S'Pierre Lavergne'
+p3125
+aS'1950'
+p3126
+aS'Prop'
+p3127
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Ciboure'
+p3128
+aVFrance
+p3129
+aV64500
+p3130
+aVFrance métropolitaine
+p3131
+aa(lp3132
+S'Jacques Merquey'
+p3133
+aS'1950'
+p3134
+aS'Centre'
+p3135
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'1'
+aS'3'
+aS'Souillac'
+p3136
+aVFrance
+p3137
+aV46200
+p3138
+aVFrance métropolitaine
+p3139
+aa(lp3140
+S'Daniel Herice'
+p3141
+aS'1950'
+p3142
+aS'Flanker'
+p3143
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Saint-Emiliosen'
+p3144
+aS'g'
+aS'n'
+aS'i'
+aa(lp3145
+S'Paul Lasaosa'
+p3146
+aS'1950'
+p3147
+aS'Centre, Scrum-half, Halfback'
+p3148
+aS'6'
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Dax'
+p3149
+aVFrance
+p3150
+aV40100
+p3151
+aVFrance métropolitaine
+p3152
+aa(lp3153
+S'Pierre Pascalin'
+p3154
+aS'1950'
+p3155
+aS'Hooker'
+p3156
+aS'7'
+aS'4'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Saint-Gein'
+p3157
+aVFrance
+p3158
+aV40190
+p3159
+aVFrance métropolitaine
+p3160
+aa(lp3161
+S'Georges Brun'
+p3162
+aS'1950'
+p3163
+aS'Wing, Centre, Fullback'
+p3164
+aS'14'
+p3165
+aS'7'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Aix-les-Bains'
+p3166
+aVFrance
+p3167
+aV73100
+p3168
+aVFrance métropolitaine
+p3169
+aa(lp3170
+S'Fernand Cazenave'
+p3171
+aS'1950'
+p3172
+aS'Wing'
+p3173
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Orthez'
+p3174
+aVFrance
+p3175
+aV64300
+p3176
+aVFrance métropolitaine
+p3177
+aa(lp3178
+S'Franck Fournet'
+p3179
+aS'1950'
+p3180
+aS'Fly-half'
+p3181
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Clermont-Ferrand'
+p3182
+aVFrance
+p3183
+aV63000;63100
+p3184
+aVFrance métropolitaine
+p3185
+aa(lp3186
+S'Rene Bernard'
+p3187
+aS'1951'
+p3188
+aS'Prop'
+p3189
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bergerac'
+p3190
+aVFrance
+p3191
+aV24100
+p3192
+aVFrance métropolitaine
+p3193
+aa(lp3194
+S'Georges Carabignac'
+p3195
+aS'1951'
+p3196
+aS'Fly-half'
+p3197
+aS'7'
+aS'2'
+aS'5'
+aS'0'
+aS'0'
+aS'9'
+aS'Boe'
+p3198
+aVBolivia
+p3199
+ag97
+ag97
+aa(lp3200
+S'Henri Foures'
+p3201
+aS'1951'
+p3202
+aS'Lock'
+p3203
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Issus'
+p3204
+aVFrance
+p3205
+aV31450
+p3206
+aVFrance métropolitaine
+p3207
+aa(lp3208
+S'Lucien Mias'
+p3209
+aS'1951'
+p3210
+aS'Lock'
+p3211
+aS'29'
+p3212
+aS'17'
+p3213
+aS'11'
+p3214
+aS'1'
+aS'1'
+aS'3'
+aS'Saint-Germain-de-Cal'
+p3215
+aS'g'
+aS'n'
+aS'i'
+aa(lp3216
+S'Alain Porthault'
+p3217
+aS'1951'
+p3218
+aS'Wing'
+p3219
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'3'
+aS'9'
+aS'Vervins'
+p3220
+aVFrance
+p3221
+aV02140
+p3222
+aVFrance métropolitaine
+p3223
+aa(lp3224
+S'Guy Belletante'
+p3225
+aS'1951'
+p3226
+aS'Centre'
+p3227
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Perigueux'
 p3228
 aVFrance
 p3229
-aV65100
+aV24000
 p3230
 aVFrance métropolitaine
 p3231
 aa(lp3232
-S'Jean-Roger Bourdeu'
+S'Pierre Bertrand'
 p3233
-aS'1952'
+aS'1951'
 p3234
-aS'Flanker'
+aS'Prop'
 p3235
-aS'Gan'
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'13'
 p3236
+aS'Meximieux'
+p3237
+aVFrance
+p3238
+aV01800
+p3239
+aVFrance métropolitaine
+p3240
+aa(lp3241
+S'Dacien Olive'
+p3242
+aS'1951'
+p3243
+aS'Wing'
+p3244
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Claira'
+p3245
+aVFrance
+p3246
+aV66530
+p3247
+aVFrance métropolitaine
+p3248
+aa(lp3249
+S'Maurice Prat'
+p3250
+aS'1951'
+p3251
+aS'Fullback'
+p3252
+aS'31'
+p3253
+aS'18'
+p3254
+aS'13'
+p3255
+aS'0'
+aS'6'
+aS'24'
+p3256
+aS'Lourdes'
+p3257
+aVFrance
+p3258
+aV65100
+p3259
+aVFrance métropolitaine
+p3260
+aa(lp3261
+S'Jean-Roger Bourdeu'
+p3262
+aS'1952'
+p3263
+aS'Flanker'
+p3264
 aS'9'
 aS'3'
+aS'6'
+aS'0'
 aS'1'
 aS'3'
-aV\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd
-p3237
-aV\u7518\u8083\u7701
-p3238
-ag95
-aa(lp3239
-S'Rene Brejassou'
-p3240
-aS'1952'
-p3241
-aS'Prop, Lock'
-p3242
-aS'Aureilhan'
-p3243
-aS'15'
-p3244
-aS'8'
-aS'1'
-aS'3'
-aVFrance
-p3245
-aV65800
-p3246
-aVFrance métropolitaine
-p3247
-aa(lp3248
-S'Bernard Chevallier'
-p3249
-aS'1952'
-p3250
-aS'Lock'
-p3251
-aS'Rougnat'
-p3252
-aS'26'
-p3253
-aS'15'
-p3254
-aS'0'
-aS'0'
-aVFrance
-p3255
-aV23700
-p3256
-aVFrance métropolitaine
-p3257
-aa(lp3258
-S'Roger Furcade'
-p3259
-aS'1952'
-p3260
-aS'Fly-half'
-p3261
-aS'Saint-Nazaire'
-p3262
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p3263
-aV38330
-p3264
-aVFrance métropolitaine
-p3265
-aa(lp3266
-S'Paul Labadie'
-p3267
-aS'1952'
-p3268
-aS'Hooker'
-p3269
-aS'Bayonne'
-p3270
-aS'21'
-p3271
-aS'13'
-p3272
-aS'0'
-aS'0'
-aVFrance
-p3273
-aV64100
-p3274
-aVFrance métropolitaine
-p3275
-aa(lp3276
-S'Robert Labarthete'
-p3277
-aS'1952'
-p3278
-aS'Fullback, Scrum-half'
-p3279
 aS'Gan'
-p3280
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p3265
 aV\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd
-p3281
+p3266
 aV\u7518\u8083\u7701
-p3282
-ag95
-aa(lp3283
-S'Roger Martine'
-p3284
+p3267
+ag97
+aa(lp3268
+S'Rene Brejassou'
+p3269
 aS'1952'
+p3270
+aS'Prop, Lock'
+p3271
+aS'15'
+p3272
+aS'8'
+aS'7'
+aS'0'
+aS'1'
+aS'3'
+aS'Aureilhan'
+p3273
+aVFrance
+p3274
+aV65800
+p3275
+aVFrance métropolitaine
+p3276
+aa(lp3277
+S'Bernard Chevallier'
+p3278
+aS'1952'
+p3279
+aS'Lock'
+p3280
+aS'26'
+p3281
+aS'15'
+p3282
+aS'11'
+p3283
+aS'0'
+aS'0'
+aS'0'
+aS'Rougnat'
+p3284
+aVFrance
 p3285
-aS'Fly-half, Fullback, Centre'
+aV23700
 p3286
-aS'Bellocq'
+aVFrance métropolitaine
 p3287
-aS'25'
-p3288
-aS'20'
+aa(lp3288
+S'Roger Furcade'
 p3289
+aS'1952'
+p3290
+aS'Fly-half'
+p3291
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Nazaire'
+p3292
+aVFrance
+p3293
+aV38330
+p3294
+aVFrance métropolitaine
+p3295
+aa(lp3296
+S'Paul Labadie'
+p3297
+aS'1952'
+p3298
+aS'Hooker'
+p3299
+aS'21'
+p3300
+aS'13'
+p3301
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Bayonne'
+p3302
+aVFrance
+p3303
+aV64100
+p3304
+aVFrance métropolitaine
+p3305
+aa(lp3306
+S'Robert Labarthete'
+p3307
+aS'1952'
+p3308
+aS'Fullback, Scrum-half'
+p3309
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Gan'
+p3310
+aV\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd
+p3311
+aV\u7518\u8083\u7701
+p3312
+ag97
+aa(lp3313
+S'Roger Martine'
+p3314
+aS'1952'
+p3315
+aS'Fly-half, Fullback, Centre'
+p3316
+aS'25'
+p3317
+aS'20'
+p3318
+aS'3'
+aS'2'
 aS'1'
 aS'6'
+aS'Bellocq'
+p3319
 aVFrance
-p3290
+p3320
 aV64270
-p3291
+p3321
 aVFrance métropolitaine
-p3292
-aa(lp3293
+p3322
+aa(lp3323
 S'Francois Varenne'
-p3294
+p3324
 aS'1952'
-p3295
+p3325
 aS'Lock'
-p3296
+p3326
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Junay'
-p3297
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p3327
 aVFrance
-p3298
+p3328
 aV89700
-p3299
+p3329
 aVFrance métropolitaine
-p3300
-aa(lp3301
+p3330
+aa(lp3331
 S'Antoine Labazuy'
-p3302
+p3332
 aS'1952'
-p3303
+p3333
 aS'Fly-half'
-p3304
-aS'Carcassonne'
-p3305
+p3334
 aS'11'
-p3306
+p3335
 aS'8'
+aS'2'
+aS'1'
 aS'0'
 aS'39'
-p3307
+p3336
+aS'Carcassonne'
+p3337
 aVFrance
-p3308
+p3338
 aV11000
-p3309
+p3339
 aVFrance métropolitaine
-p3310
-aa(lp3311
+p3340
+aa(lp3341
 S'Jean Colombier'
-p3312
+p3342
 aS'1952'
-p3313
+p3343
 aS'Wing'
-p3314
-aS'Saint-Julien-en-Gene'
-p3315
+p3344
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Saint-Julien-en-Gene'
+p3345
 aVFrance
-p3316
+p3346
 aV63390
-p3317
+p3347
 aVFrance métropolitaine
-p3318
-aa(lp3319
+p3348
+aa(lp3349
 S'Pierre Guilleux'
-p3320
+p3350
 aS'1952'
-p3321
+p3351
 aS'Fullback'
-p3322
-aS'Usseau'
-p3323
+p3352
 aS'2'
 aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Usseau'
+p3353
 aVFrance
-p3324
+p3354
 aVFrance métropolitaine
-p3325
+p3355
 aVBourgogne
-p3326
-aa(lp3327
+p3356
+aa(lp3357
 S'Jacques Mauran'
-p3328
+p3358
 aS'1952'
-p3329
+p3359
 aS'Centre'
-p3330
-aS'Rignac'
-p3331
+p3360
 aS'6'
 aS'1'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'Rignac'
+p3361
 aVFrance
-p3332
+p3362
 aVFrance métropolitaine
-p3333
+p3363
 aVBretagne
-p3334
-aa(lp3335
+p3364
+aa(lp3365
 S'Michel Lecointre'
-p3336
+p3366
 aS'1952'
-p3337
+p3367
 aS'Fly-half'
-p3338
+p3368
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Troyes'
-p3339
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p3369
 aVFrance
-p3340
+p3370
 aV10000
-p3341
+p3371
 aVFrance métropolitaine
-p3342
-aa(lp3343
+p3372
+aa(lp3373
 S'Lucien Roge'
-p3344
+p3374
 aS'1952'
-p3345
+p3375
 aS'Wing, Centre'
-p3346
-aS'Cessenon'
-p3347
+p3376
 aS'15'
-p3348
+p3377
 aS'10'
-p3349
+p3378
+aS'4'
+aS'1'
 aS'4'
 aS'12'
-p3350
+p3379
+aS'Cessenon'
+p3380
 aVFrance
-p3351
+p3381
 aV34460
-p3352
+p3382
 aVFrance métropolitaine
-p3353
-aa(lp3354
+p3383
+aa(lp3384
 S'Andre Sanac'
-p3355
+p3385
 aS'1952'
-p3356
+p3386
 aS'Prop, Lock'
-p3357
-aS'Trouillas'
-p3358
+p3387
 aS'10'
-p3359
+p3388
 aS'5'
+aS'5'
+aS'0'
 aS'1'
 aS'3'
-aVFrance
-p3360
-aV66300
-p3361
-aVFrance métropolitaine
-p3362
-aa(lp3363
-S'Jean-Claude Rouan'
-p3364
-aS'1953'
-p3365
-aS'Fullback'
-p3366
-aS'Quillan'
-p3367
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p3368
-aV11500
-p3369
-aVFrance métropolitaine
-p3370
-aa(lp3371
-S'Paul Tignol'
-p3372
-aS'1953'
-p3373
-aS'No. 8, Lock'
-p3374
-aS'Toulouse'
-p3375
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p3376
-aV31000;31100;31200;31300;31400;31500
-p3377
-aVFrance métropolitaine
-p3378
-aa(lp3379
-S'Julien Arrieta'
-p3380
-aS'1953'
-p3381
-aS'Hooker'
-p3382
-aS'Irun'
-p3383
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVEspaña
-p3384
-aVEuskadi
-p3385
-aVGipuzkoa
-p3386
-aa(lp3387
-S'Robert Carrere'
-p3388
-aS'1953'
+aS'Trouillas'
 p3389
-aS'Prop'
+aVFrance
 p3390
-aS'Saint-Sever'
+aV66300
 p3391
+aVFrance métropolitaine
+p3392
+aa(lp3393
+S'Jean-Claude Rouan'
+p3394
+aS'1953'
+p3395
+aS'Fullback'
+p3396
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVFrance
-p3392
-aV40500
-p3393
-aVFrance métropolitaine
-p3394
-aa(lp3395
-S'Michel Celaya'
-p3396
-aS'1953'
+aS'0'
+aS'Quillan'
 p3397
-aS'Back-row'
+aVFrance
 p3398
-aS'Biarritz'
+aV11500
 p3399
-aS'50'
+aVFrance métropolitaine
 p3400
+aa(lp3401
+S'Paul Tignol'
+p3402
+aS'1953'
+p3403
+aS'No. 8, Lock'
+p3404
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
+p3405
+aVFrance
+p3406
+aV31000;31100;31200;31300;31400;31500
+p3407
+aVFrance métropolitaine
+p3408
+aa(lp3409
+S'Julien Arrieta'
+p3410
+aS'1953'
+p3411
+aS'Hooker'
+p3412
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Irun'
+p3413
+aVEspaña
+p3414
+aVEuskadi
+p3415
+aVGipuzkoa
+p3416
+aa(lp3417
+S'Robert Carrere'
+p3418
+aS'1953'
+p3419
+aS'Prop'
+p3420
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Sever'
+p3421
+aVFrance
+p3422
+aV40500
+p3423
+aVFrance métropolitaine
+p3424
+aa(lp3425
+S'Michel Celaya'
+p3426
+aS'1953'
+p3427
+aS'Back-row'
+p3428
+aS'50'
+p3429
 aS'30'
-p3401
+p3430
+aS'15'
+p3431
+aS'5'
 aS'6'
 aS'18'
-p3402
-aVFrance
-p3403
-aV64200
-p3404
-aVFrance métropolitaine
-p3405
-aa(lp3406
-S'Andre Haget'
-p3407
-aS'1953'
-p3408
-aS'Fly-half'
-p3409
-aS'Biarritz'
-p3410
-aS'14'
-p3411
-aS'10'
-p3412
-aS'1'
-aS'3'
-aVFrance
-p3413
-aV64200
-p3414
-aVFrance métropolitaine
-p3415
-aa(lp3416
-S'Laurent Bidart'
-p3417
-aS'1953'
-p3418
-aS'Fly-half'
-p3419
-aS'Le Boucau'
-p3420
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p3421
-aV64340
-p3422
-aVFrance métropolitaine
-p3423
-aa(lp3424
-S'Henri Domec'
-p3425
-aS'1953'
-p3426
-aS'Flanker'
-p3427
-aS'Lourdes'
-p3428
-aS'20'
-p3429
-aS'15'
-p3430
-aS'1'
-aS'3'
-aVFrance
-p3431
-aV65100
 p3432
-aVFrance métropolitaine
+aS'Biarritz'
 p3433
-aa(lp3434
-S'Joseph Galy'
+aVFrance
+p3434
+aV64200
 p3435
-aS'1953'
+aVFrance métropolitaine
 p3436
-aS'Centre'
-p3437
-aS'Bages'
+aa(lp3437
+S'Andre Haget'
 p3438
+aS'1953'
+p3439
+aS'Fly-half'
+p3440
+aS'14'
+p3441
+aS'10'
+p3442
+aS'4'
+aS'0'
+aS'1'
+aS'3'
+aS'Biarritz'
+p3443
+aVFrance
+p3444
+aV64200
+p3445
+aVFrance métropolitaine
+p3446
+aa(lp3447
+S'Laurent Bidart'
+p3448
+aS'1953'
+p3449
+aS'Fly-half'
+p3450
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVEspaña
-p3439
-aVCAT
-p3440
-aVBCN
-p3441
-aa(lp3442
-S'Michel Vannier'
-p3443
+aS'Le Boucau'
+p3451
+aVFrance
+p3452
+aV64340
+p3453
+aVFrance métropolitaine
+p3454
+aa(lp3455
+S'Henri Domec'
+p3456
 aS'1953'
-p3444
+p3457
+aS'Flanker'
+p3458
+aS'20'
+p3459
+aS'15'
+p3460
+aS'5'
+aS'0'
+aS'1'
+aS'3'
+aS'Lourdes'
+p3461
+aVFrance
+p3462
+aV65100
+p3463
+aVFrance métropolitaine
+p3464
+aa(lp3465
+S'Joseph Galy'
+p3466
+aS'1953'
+p3467
+aS'Centre'
+p3468
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bages'
+p3469
+aVEspaña
+p3470
+aVCAT
+p3471
+aVBCN
+p3472
+aa(lp3473
+S'Michel Vannier'
+p3474
+aS'1953'
+p3475
 aS'Fullback'
-p3445
-aS'Etain'
-p3446
+p3476
 aS'43'
-p3447
+p3477
 aS'28'
-p3448
+p3478
+aS'12'
+p3479
+aS'3'
 aS'1'
 aS'180'
-p3449
+p3480
+aS'Etain'
+p3481
 aVFrance
-p3450
+p3482
 aV55400
-p3451
+p3483
 aVFrance métropolitaine
-p3452
-aa(lp3453
+p3484
+aa(lp3485
 S'Jean Darrieussecq'
-p3454
+p3486
 aS'1953'
-p3455
+p3487
 aS'Scrum-half'
-p3456
+p3488
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Peyrehorade'
-p3457
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p3489
 aVFrance
-p3458
+p3490
 aV40300
-p3459
+p3491
 aVFrance métropolitaine
-p3460
-aa(lp3461
+p3492
+aa(lp3493
 S'Jean-Henri Pargade'
-p3462
+p3494
 aS'1953'
-p3463
+p3495
 aS'Centre'
-p3464
+p3496
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Bayonne'
-p3465
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p3497
 aVFrance
-p3466
+p3498
 aV64100
-p3467
+p3499
 aVFrance métropolitaine
-p3468
-aa(lp3469
+p3500
+aa(lp3501
 S'Robert Baulon'
-p3470
+p3502
 aS'1954'
-p3471
+p3503
 aS'Back-row'
-p3472
-aS'Le Boucau'
-p3473
+p3504
 aS'18'
-p3474
+p3505
 aS'12'
-p3475
+p3506
+aS'6'
+aS'0'
 aS'6'
 aS'18'
-p3476
+p3507
+aS'Le Boucau'
+p3508
 aVFrance
-p3477
+p3509
 aV64340
-p3478
+p3510
 aVFrance métropolitaine
-p3479
-aa(lp3480
+p3511
+aa(lp3512
 S'Jacques Bouquet'
-p3481
+p3513
 aS'1954'
-p3482
+p3514
 aS'Fly-half, Centre'
-p3483
-aS'Tullins'
-p3484
+p3515
 aS'34'
-p3485
+p3516
 aS'20'
-p3486
+p3517
+aS'10'
+p3518
+aS'4'
 aS'3'
 aS'21'
-p3487
+p3519
+aS'Tullins'
+p3520
 aVFrance
-p3488
+p3521
 aV38210
-p3489
+p3522
 aVFrance métropolitaine
-p3490
-aa(lp3491
+p3523
+aa(lp3524
 S'Andre Boniface'
-p3492
+p3525
 aS'1954'
-p3493
+p3526
 aS'Wing, Centre'
-p3494
-aS'Monfort-en-Chalosse'
-p3495
+p3527
 aS'48'
-p3496
+p3528
 aS'25'
-p3497
+p3529
+aS'18'
+p3530
+aS'5'
 aS'11'
-p3498
+p3531
 aS'44'
-p3499
+p3532
+aS'Monfort-en-Chalosse'
+p3533
 aVFrance
-p3500
+p3534
 aV59720
-p3501
+p3535
 aVFrance métropolitaine
-p3502
-aa(lp3503
+p3536
+aa(lp3537
 S'Henri Claverie'
-p3504
+p3538
 aS'1954'
-p3505
+p3539
 aS'Fullback'
-p3506
-aS'Lourdes'
-p3507
+p3540
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Lourdes'
+p3541
 aVFrance
-p3508
+p3542
 aV65100
-p3509
+p3543
 aVFrance métropolitaine
-p3510
-aa(lp3511
+p3544
+aa(lp3545
 S'Amedee Domenech'
-p3512
+p3546
 aS'1954'
-p3513
+p3547
 aS'Prop, No. 8'
-p3514
-aS'Narbonne'
-p3515
+p3548
 aS'52'
-p3516
+p3549
 aS'32'
-p3517
+p3550
+aS'16'
+p3551
+aS'4'
 aS'8'
 aS'24'
-p3518
-aVFrance
-p3519
-aV11100
-p3520
-aVFrance métropolitaine
-p3521
-aa(lp3522
-S'Pierre Albaladejo'
-p3523
-aS'1954'
-p3524
-aS'Fullback, Fly-half'
-p3525
-aS'Dax'
-p3526
-aS'30'
-p3527
-aS'19'
-p3528
-aS'0'
-aS'104'
-p3529
-aVFrance
-p3530
-aV40100
-p3531
-aVFrance métropolitaine
-p3532
-aa(lp3533
-S'Jean Benetiere'
-p3534
-aS'1954'
-p3535
-aS'Hooker'
-p3536
-aS'Le Coteau'
-p3537
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p3538
-aV42120
-p3539
-aVFrance métropolitaine
-p3540
-aa(lp3541
-S'Jean Bichindaritz'
-p3542
-aS'1954'
-p3543
-aS'Prop'
-p3544
-aS'Biarritz'
-p3545
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p3546
-aV64200
-p3547
-aVFrance métropolitaine
-p3548
-aa(lp3549
-S'Gilbert Larreguy'
-p3550
-aS'1954'
-p3551
-aS'Flanker'
 p3552
-aS'Mouguerre'
+aS'Narbonne'
 p3553
-aS'1'
-aS'1'
-aS'1'
-aS'3'
 aVFrance
 p3554
-aV64990
+aV11100
 p3555
 aVFrance métropolitaine
 p3556
 aa(lp3557
-S'Jacques Lepatey'
+S'Pierre Albaladejo'
 p3558
 aS'1954'
 p3559
-aS'Wing'
+aS'Fullback, Fly-half'
 p3560
-aS"Salleles d'Aude"
+aS'30'
 p3561
-aS'5'
-aS'4'
-aS'2'
-aS'6'
-aVFrance
+aS'19'
 p3562
-aV11590
-p3563
-aVFrance métropolitaine
-p3564
-aa(lp3565
-S'Gerard Murillo'
-p3566
-aS'1954'
-p3567
-aS'Wing, Centre'
-p3568
-aS'Paris'
-p3569
-aS'2'
-aS'2'
+aS'8'
 aS'3'
-aS'9'
+aS'0'
+aS'104'
+p3563
+aS'Dax'
+p3564
 aVFrance
+p3565
+aV40100
+p3566
+aVFrance métropolitaine
+p3567
+aa(lp3568
+S'Jean Benetiere'
+p3569
+aS'1954'
 p3570
-aVFrance métropolitaine
+aS'Hooker'
 p3571
-aVÎle-de-France
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Le Coteau'
 p3572
-aa(lp3573
-S'Jean Barthe'
-p3574
-aS'1954'
-p3575
-aS'Flanker, No. 8, Lock'
-p3576
-aS'Lourdes'
-p3577
-aS'26'
-p3578
-aS'17'
-p3579
-aS'0'
-aS'0'
 aVFrance
-p3580
-aV65100
-p3581
+p3573
+aV42120
+p3574
 aVFrance métropolitaine
-p3582
-aa(lp3583
-S'Robert Basauri'
-p3584
+p3575
+aa(lp3576
+S'Jean Bichindaritz'
+p3577
 aS'1954'
+p3578
+aS'Prop'
+p3579
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Biarritz'
+p3580
+aVFrance
+p3581
+aV64200
+p3582
+aVFrance métropolitaine
+p3583
+aa(lp3584
+S'Gilbert Larreguy'
 p3585
-aS'Fly-half'
+aS'1954'
 p3586
-aS'Hendaye'
+aS'Flanker'
 p3587
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVFrance
-p3588
-aV64700
-p3589
-aVFrance métropolitaine
-p3590
-aa(lp3591
-S'Philibert Capitani'
-p3592
-aS'1954'
-p3593
-aS'Lock'
-p3594
-aS'Frassivoro'
-p3595
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3596
-S'Pierre Danos'
-p3597
-aS'1954'
-p3598
-aS'Scrum-half'
-p3599
-aS'Toulouse'
-p3600
-aS'17'
-p3601
-aS'11'
-p3602
+aS'1'
 aS'3'
-aS'15'
-p3603
+aS'Mouguerre'
+p3588
 aVFrance
+p3589
+aV64990
+p3590
+aVFrance métropolitaine
+p3591
+aa(lp3592
+S'Jacques Lepatey'
+p3593
+aS'1954'
+p3594
+aS'Wing'
+p3595
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS"Salleles d'Aude"
+p3596
+aVFrance
+p3597
+aV11590
+p3598
+aVFrance métropolitaine
+p3599
+aa(lp3600
+S'Gerard Murillo'
+p3601
+aS'1954'
+p3602
+aS'Wing, Centre'
+p3603
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'3'
+aS'9'
+aS'Paris'
 p3604
-aV31000;31100;31200;31300;31400;31500
+aVFrance
 p3605
 aVFrance métropolitaine
 p3606
-aa(lp3607
-S'Yves Duffaut'
-p3608
-aS'1954'
+aVÎle-de-France
+p3607
+aa(lp3608
+S'Jean Barthe'
 p3609
-aS'Flanker'
-p3610
-aS'Samatan'
-p3611
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p3612
-aV32130
-p3613
-aVFrance métropolitaine
-p3614
-aa(lp3615
-S'Jacques Meynard'
-p3616
 aS'1954'
+p3610
+aS'Flanker, No. 8, Lock'
+p3611
+aS'26'
+p3612
+aS'17'
+p3613
+aS'7'
+aS'2'
+aS'0'
+aS'0'
+aS'Lourdes'
+p3614
+aVFrance
+p3615
+aV65100
+p3616
+aVFrance métropolitaine
 p3617
-aS'Fullback, Centre'
-p3618
-aS'Cognac'
+aa(lp3618
+S'Robert Basauri'
 p3619
+aS'1954'
+p3620
+aS'Fly-half'
+p3621
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Hendaye'
+p3622
+aVFrance
+p3623
+aV64700
+p3624
+aVFrance métropolitaine
+p3625
+aa(lp3626
+S'Philibert Capitani'
+p3627
+aS'1954'
+p3628
+aS'Lock'
+p3629
 aS'2'
 aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Frassivoro'
+p3630
+aS'g'
+aS'n'
+aS'i'
+aa(lp3631
+S'Pierre Danos'
+p3632
+aS'1954'
+p3633
+aS'Scrum-half'
+p3634
+aS'17'
+p3635
+aS'11'
+p3636
+aS'3'
+aS'3'
+aS'3'
+aS'15'
+p3637
+aS'Toulouse'
+p3638
+aVFrance
+p3639
+aV31000;31100;31200;31300;31400;31500
+p3640
+aVFrance métropolitaine
+p3641
+aa(lp3642
+S'Yves Duffaut'
+p3643
+aS'1954'
+p3644
+aS'Flanker'
+p3645
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Samatan'
+p3646
+aVFrance
+p3647
+aV32130
+p3648
+aVFrance métropolitaine
+p3649
+aa(lp3650
+S'Jacques Meynard'
+p3651
+aS'1954'
+p3652
+aS'Fullback, Centre'
+p3653
+aS'2'
+aS'2'
+aS'0'
+aS'0'
 aS'0'
 aS'10'
-p3620
-aVFrance
-p3621
-aV16100
-p3622
-aVFrance métropolitaine
-p3623
-aa(lp3624
-S'Henri Lazies'
-p3625
-aS'1954'
-p3626
-aS'Lock, No. 8, Prop'
-p3627
-aS'Belloc-St-Clamens'
-p3628
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p3629
-aV32300
-p3630
-aVFrance métropolitaine
-p3631
-aa(lp3632
-S'Andre Morel'
-p3633
-aS'1954'
-p3634
-aS'Wing'
-p3635
-aS'Grenoble'
-p3636
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p3637
-aV38000;38100
-p3638
-aVFrance métropolitaine
-p3639
-aa(lp3640
-S'Henri Rancoule'
-p3641
-aS'1955'
-p3642
-aS'Wing'
-p3643
-aS'Bram'
-p3644
-aS'27'
-p3645
-aS'19'
-p3646
-aS'8'
-aS'24'
-p3647
-aVFrance
-p3648
-aV11150
-p3649
-aVFrance métropolitaine
-p3650
-aa(lp3651
-S'Jacques Chiberry'
-p3652
-aS'1955'
-p3653
-aS'Wing'
 p3654
-aS'Sauveterre-de-Bearn'
+aS'Cognac'
 p3655
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
 p3656
-aV64390
+aV16100
 p3657
 aVFrance métropolitaine
 p3658
 aa(lp3659
-S'Michel Escommier'
+S'Henri Lazies'
 p3660
-aS'1955'
+aS'1954'
 p3661
-aS'Hooker'
+aS'Lock, No. 8, Prop'
 p3662
-aS'Montelimar'
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Belloc-St-Clamens'
 p3663
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
 p3664
-aV26200
+aV32300
 p3665
 aVFrance métropolitaine
 p3666
 aa(lp3667
-S'Thomas Manterola'
+S'Andre Morel'
 p3668
-aS'1955'
+aS'1954'
 p3669
-aS'No. 8, Prop'
+aS'Wing'
 p3670
-aS'Ciboure'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Grenoble'
 p3671
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aVFrance
 p3672
-aV64500
+aV38000;38100
 p3673
 aVFrance métropolitaine
 p3674
 aa(lp3675
-S'Jean Carrere'
+S'Henri Rancoule'
 p3676
-aS'1956'
+aS'1955'
 p3677
-aS'Flanker'
+aS'Wing'
 p3678
-aS'Argeles-sur-Mer'
+aS'27'
 p3679
+aS'19'
+p3680
+aS'5'
+aS'3'
 aS'8'
+aS'24'
+p3681
+aS'Bram'
+p3682
+aVFrance
+p3683
+aV11150
+p3684
+aVFrance métropolitaine
+p3685
+aa(lp3686
+S'Jacques Chiberry'
+p3687
+aS'1955'
+p3688
+aS'Wing'
+p3689
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Sauveterre-de-Bearn'
+p3690
+aVFrance
+p3691
+aV64390
+p3692
+aVFrance métropolitaine
+p3693
+aa(lp3694
+S'Michel Escommier'
+p3695
+aS'1955'
+p3696
+aS'Hooker'
+p3697
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Montelimar'
+p3698
+aVFrance
+p3699
+aV26200
+p3700
+aVFrance métropolitaine
+p3701
+aa(lp3702
+S'Thomas Manterola'
+p3703
+aS'1955'
+p3704
+aS'No. 8, Prop'
+p3705
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'Ciboure'
+p3706
 aVFrance
-p3680
+p3707
+aV64500
+p3708
+aVFrance métropolitaine
+p3709
+aa(lp3710
+S'Jean Carrere'
+p3711
+aS'1956'
+p3712
+aS'Flanker'
+p3713
+aS'8'
+aS'2'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'Argeles-sur-Mer'
+p3714
+aVFrance
+p3715
 aV66700
-p3681
+p3716
 aVFrance métropolitaine
-p3682
-aa(lp3683
+p3717
+aa(lp3718
 S'Jean-Vincent Dupuy'
-p3684
+p3719
 aS'1956'
-p3685
+p3720
 aS'Wing, Centre'
-p3686
-aS'Vic-en-Bigorre'
-p3687
+p3721
 aS'40'
-p3688
+p3722
 aS'22'
-p3689
+p3723
+aS'12'
+p3724
+aS'6'
 aS'19'
-p3690
+p3725
 aS'57'
-p3691
+p3726
+aS'Vic-en-Bigorre'
+p3727
 aVFrance
-p3692
+p3728
 aV65500
-p3693
+p3729
 aVFrance métropolitaine
-p3694
-aa(lp3695
+p3730
+aa(lp3731
 S'Gerard Roucaries'
-p3696
+p3732
 aS'1956'
-p3697
+p3733
 aS'Lock'
-p3698
-aS'Rivesaltes'
-p3699
+p3734
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Rivesaltes'
+p3735
 aVFrance
-p3700
+p3736
 aV66600
-p3701
+p3737
 aVFrance métropolitaine
-p3702
-aa(lp3703
+p3738
+aa(lp3739
 S'Guy Stener'
-p3704
+p3740
 aS'1956'
-p3705
+p3741
 aS'Wing, Centre'
-p3706
-aS'Vichy'
-p3707
+p3742
 aS'5'
 aS'3'
-aS'0'
-aS'0'
-aVFrance
-p3708
-aV03200
-p3709
-aVFrance métropolitaine
-p3710
-aa(lp3711
-S'Serge Torreilles'
-p3712
-aS'1956'
-p3713
-aS'Wing'
-p3714
-aS'Baixas'
-p3715
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p3716
-aV66390
-p3717
-aVFrance métropolitaine
-p3718
-aa(lp3719
-S'Robert Vigier'
-p3720
-aS'1956'
-p3721
-aS'Hooker'
-p3722
-aS'Lanobre'
-p3723
-aS'24'
-p3724
-aS'14'
-p3725
-aS'1'
-aS'3'
-aVFrance
-p3726
-aV15270
-p3727
-aVFrance métropolitaine
-p3728
-aa(lp3729
-S'Guy Pauthe'
-p3730
-aS'1956'
-p3731
-aS'Scrum-half'
-p3732
-aS'Graulhet'
-p3733
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p3734
-aV81300
-p3735
-aVFrance métropolitaine
-p3736
-aa(lp3737
-S'Georges Gauby'
-p3738
-aS'1956'
-p3739
-aS'Scrum-half'
-p3740
-aS'Rivesaltes'
-p3741
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVFrance
-p3742
-aV66600
+aS'Vichy'
 p3743
-aVFrance métropolitaine
+aVFrance
 p3744
-aa(lp3745
-S'Francois Moncla'
+aV03200
+p3745
+aVFrance métropolitaine
 p3746
-aS'1956'
-p3747
-aS'Flanker, Lock'
+aa(lp3747
+S'Serge Torreilles'
 p3748
-aS'Louvie-Juzon'
+aS'1956'
 p3749
-aS'31'
+aS'Wing'
 p3750
-aS'18'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Baixas'
 p3751
+aVFrance
+p3752
+aV66390
+p3753
+aVFrance métropolitaine
+p3754
+aa(lp3755
+S'Robert Vigier'
+p3756
+aS'1956'
+p3757
+aS'Hooker'
+p3758
+aS'24'
+p3759
+aS'14'
+p3760
+aS'8'
+aS'2'
+aS'1'
+aS'3'
+aS'Lanobre'
+p3761
+aVFrance
+p3762
+aV15270
+p3763
+aVFrance métropolitaine
+p3764
+aa(lp3765
+S'Guy Pauthe'
+p3766
+aS'1956'
+p3767
+aS'Scrum-half'
+p3768
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Graulhet'
+p3769
+aVFrance
+p3770
+aV81300
+p3771
+aVFrance métropolitaine
+p3772
+aa(lp3773
+S'Georges Gauby'
+p3774
+aS'1956'
+p3775
+aS'Scrum-half'
+p3776
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Rivesaltes'
+p3777
+aVFrance
+p3778
+aV66600
+p3779
+aVFrance métropolitaine
+p3780
+aa(lp3781
+S'Francois Moncla'
+p3782
+aS'1956'
+p3783
+aS'Flanker, Lock'
+p3784
+aS'31'
+p3785
+aS'18'
+p3786
+aS'8'
+aS'5'
 aS'7'
 aS'21'
-p3752
+p3787
+aS'Louvie-Juzon'
+p3788
 aVFrance
-p3753
+p3789
 aV64260
-p3754
+p3790
 aVFrance métropolitaine
-p3755
-aa(lp3756
+p3791
+aa(lp3792
 S'Rene Monie'
-p3757
+p3793
 aS'1956'
-p3758
+p3794
 aS'Centre'
-p3759
-aS'Theza'
-p3760
+p3795
 aS'2'
 aS'1'
+aS'1'
+aS'0'
 aS'1'
 aS'3'
+aS'Theza'
+p3796
 aVFrance
-p3761
+p3797
 aV66200
-p3762
+p3798
 aVFrance métropolitaine
-p3763
-aa(lp3764
+p3799
+aa(lp3800
 S'Christian Darrouy'
-p3765
+p3801
 aS'1957'
-p3766
+p3802
 aS'Wing'
-p3767
-aS'Pouydesseaux'
-p3768
+p3803
 aS'40'
-p3769
+p3804
 aS'22'
-p3770
+p3805
+aS'12'
+p3806
+aS'6'
 aS'23'
-p3771
+p3807
 aS'69'
-p3772
+p3808
+aS'Pouydesseaux'
+p3809
 aVFrance
-p3773
+p3810
 aV40120
-p3774
+p3811
 aVFrance métropolitaine
-p3775
-aa(lp3776
+p3812
+aa(lp3813
 S'Michel Hoche'
-p3777
+p3814
 aS'1957'
-p3778
+p3815
 aS'Lock'
-p3779
-aS'Levallois-Perret'
-p3780
+p3816
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Levallois-Perret'
+p3817
 aVFrance
-p3781
+p3818
 aV92300
-p3782
+p3819
 aVFrance métropolitaine
-p3783
-aa(lp3784
+p3820
+aa(lp3821
 S'Paul Cassagne'
-p3785
+p3822
 aS'1957'
-p3786
+p3823
 aS'Lock'
-p3787
-aS'Tarbes'
-p3788
+p3824
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'0'
 aS'10'
-p3789
+p3825
+aS'Tarbes'
+p3826
 aVFrance
-p3790
+p3827
 aV65000
-p3791
+p3828
 aVFrance métropolitaine
-p3792
-aa(lp3793
+p3829
+aa(lp3830
 S'Roland Darracq'
-p3794
+p3831
 aS'1957'
-p3795
+p3832
 aS'Flanker'
-p3796
+p3833
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Dax'
-p3797
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p3834
 aVFrance
-p3798
+p3835
 aV40100
-p3799
+p3836
 aVFrance métropolitaine
-p3800
-aa(lp3801
+p3837
+aa(lp3838
 S'Gerard Mauduy'
-p3802
+p3839
 aS'1957'
-p3803
+p3840
 aS'Wing'
-p3804
-aS'Perigueux'
-p3805
+p3841
 aS'7'
 aS'5'
 aS'2'
+aS'0'
+aS'2'
 aS'6'
+aS'Perigueux'
+p3842
 aVFrance
-p3806
+p3843
 aV24000
-p3807
+p3844
 aVFrance métropolitaine
-p3808
-aa(lp3809
+p3845
+aa(lp3846
 S'Michel Crauste'
-p3810
+p3847
 aS'1957'
-p3811
+p3848
 aS'Back-row'
-p3812
-aS'Saint-Laurent-de-Gos'
-p3813
+p3849
 aS'63'
-p3814
+p3850
 aS'38'
-p3815
+p3851
+aS'16'
+p3852
+aS'9'
 aS'10'
-p3816
+p3853
 aS'30'
-p3817
+p3854
+aS'Saint-Laurent-de-Gos'
+p3855
 aS'g'
 aS'n'
 aS'i'
-aa(lp3818
+aa(lp3856
 S'Adrien Normand'
-p3819
+p3857
 aS'1957'
-p3820
+p3858
 aS'Lock'
-p3821
+p3859
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Orthevielle'
-p3822
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p3860
 aVFrance
-p3823
+p3861
 aV40300
-p3824
+p3862
 aVFrance métropolitaine
-p3825
-aa(lp3826
+p3863
+aa(lp3864
 S'Christian Vignes'
-p3827
+p3865
 aS'1957'
-p3828
+p3866
 aS'Centre, Fly-half'
-p3829
-aS'Biarritz'
-p3830
+p3867
 aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Biarritz'
+p3868
+aVFrance
+p3869
+aV64200
+p3870
+aVFrance métropolitaine
+p3871
+aa(lp3872
+S'Aldo Quaglio'
+p3873
+aS'1957'
+p3874
+aS'Prop, Flanker'
+p3875
+aS'13'
+p3876
+aS'8'
+aS'3'
 aS'2'
 aS'1'
 aS'3'
-aVFrance
-p3831
-aV64200
-p3832
-aVFrance métropolitaine
-p3833
-aa(lp3834
-S'Aldo Quaglio'
-p3835
-aS'1957'
-p3836
-aS'Prop, Flanker'
-p3837
 aS'Saverdun'
-p3838
-aS'13'
-p3839
-aS'8'
-aS'1'
-aS'3'
+p3877
 aVFrance
-p3840
+p3878
 aV09700
-p3841
+p3879
 aVFrance métropolitaine
-p3842
-aa(lp3843
+p3880
+aa(lp3881
 S'Pierre Lacroix'
-p3844
+p3882
 aS'1958'
-p3845
+p3883
 aS'Scrum-half'
-p3846
-aS'Houeill'
-p3847
+p3884
 aS'27'
-p3848
+p3885
 aS'16'
-p3849
+p3886
+aS'8'
+aS'3'
 aS'4'
 aS'12'
-p3850
+p3887
+aS'Houeill'
+p3888
 aS'g'
 aS'n'
 aS'i'
-aa(lp3851
+aa(lp3889
 S'Alfred Roques'
-p3852
-aS'1958'
-p3853
-aS'Prop'
-p3854
-aS'Cazes-Mondenard'
-p3855
-aS'30'
-p3856
-aS'22'
-p3857
-aS'0'
-aS'0'
-aVFrance
-p3858
-aV82110
-p3859
-aVFrance métropolitaine
-p3860
-aa(lp3861
-S'Pierre Tarricq'
-p3862
-aS'1958'
-p3863
-aS'Wing'
-p3864
-aS'Labouheyre'
-p3865
-aS'4'
-aS'4'
-aS'1'
-aS'3'
-aVFrance
-p3866
-aV40210
-p3867
-aVFrance métropolitaine
-p3868
-aa(lp3869
-S'Arnaud Marquesuzaa'
-p3870
-aS'1958'
-p3871
-aS'Centre'
-p3872
-aS'Mauleon'
-p3873
-aS'10'
-p3874
-aS'7'
-aS'1'
-aS'3'
-aVFrance
-p3875
-aV64130
-p3876
-aVFrance métropolitaine
-p3877
-aa(lp3878
-S'Bernard Mommejat'
-p3879
-aS'1958'
-p3880
-aS'Lock'
-p3881
-aS'Paris'
-p3882
-aS'22'
-p3883
-aS'14'
-p3884
-aS'2'
-aS'6'
-aVFrance
-p3885
-aVFrance métropolitaine
-p3886
-aVÎle-de-France
-p3887
-aa(lp3888
-S'Pierre Lacaze'
-p3889
-aS'1958'
 p3890
-aS'Fullback'
+aS'1958'
 p3891
-aS'Pontacq'
+aS'Prop'
 p3892
-aS'7'
+aS'30'
+p3893
+aS'22'
+p3894
+aS'3'
+aS'5'
+aS'0'
+aS'0'
+aS'Cazes-Mondenard'
+p3895
+aVFrance
+p3896
+aV82110
+p3897
+aVFrance métropolitaine
+p3898
+aa(lp3899
+S'Pierre Tarricq'
+p3900
+aS'1958'
+p3901
+aS'Wing'
+p3902
+aS'4'
 aS'4'
 aS'0'
-aS'14'
-p3893
-aVFrance
-p3894
-aV64530
-p3895
-aVFrance métropolitaine
-p3896
-aa(lp3897
-S'Louis Casaux'
-p3898
-aS'1959'
-p3899
-aS'Centre, Fullback'
-p3900
-aS'Tarbes'
-p3901
+aS'0'
+aS'1'
 aS'3'
-aS'2'
-aS'2'
-aS'6'
-aVFrance
-p3902
-aV65000
+aS'Labouheyre'
 p3903
-aVFrance métropolitaine
+aVFrance
 p3904
-aa(lp3905
-S'Claude Mantoulan'
+aV40210
+p3905
+aVFrance métropolitaine
 p3906
-aS'1959'
-p3907
-aS'Fly-half'
+aa(lp3907
+S'Arnaud Marquesuzaa'
 p3908
-aS'Pau'
+aS'1958'
 p3909
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p3910
-aV64000
-p3911
-aVFrance métropolitaine
-p3912
-aa(lp3913
-S'Serge Mericq'
-p3914
-aS'1959'
-p3915
-aS'Wing'
-p3916
-aS'La Reole'
-p3917
-aS'5'
-aS'3'
-aS'2'
-aS'6'
-aVFrance
-p3918
-aV33190
-p3919
-aVFrance métropolitaine
-p3920
-aa(lp3921
-S'Jean de Gregorio'
-p3922
-aS'1960'
-p3923
-aS'Hooker'
-p3924
-aS'Romans-sur-Isere'
-p3925
-aS'22'
-p3926
-aS'14'
-p3927
-aS'1'
-aS'3'
-aVFrance
-p3928
-aV26100
-p3929
-aVFrance métropolitaine
-p3930
-aa(lp3931
-S'Sylvain Meyer'
-p3932
-aS'1960'
-p3933
-aS'Back-row'
-p3934
-aS'Strasbourg'
-p3935
-aS'5'
-aS'3'
-aS'2'
-aS'6'
-aVFrance
-p3936
-aV67000;67100;67200
-p3937
-aVFrance métropolitaine
-p3938
-aa(lp3939
-S'Guy Boniface'
-p3940
-aS'1960'
-p3941
 aS'Centre'
+p3910
+aS'10'
+p3911
+aS'7'
+aS'0'
+aS'3'
+aS'1'
+aS'3'
+aS'Mauleon'
+p3912
+aVFrance
+p3913
+aV64130
+p3914
+aVFrance métropolitaine
+p3915
+aa(lp3916
+S'Bernard Mommejat'
+p3917
+aS'1958'
+p3918
+aS'Lock'
+p3919
+aS'22'
+p3920
+aS'14'
+p3921
+aS'5'
+aS'3'
+aS'2'
+aS'6'
+aS'Paris'
+p3922
+aVFrance
+p3923
+aVFrance métropolitaine
+p3924
+aVÎle-de-France
+p3925
+aa(lp3926
+S'Pierre Lacaze'
+p3927
+aS'1958'
+p3928
+aS'Fullback'
+p3929
+aS'7'
+aS'4'
+aS'1'
+aS'2'
+aS'0'
+aS'14'
+p3930
+aS'Pontacq'
+p3931
+aVFrance
+p3932
+aV64530
+p3933
+aVFrance métropolitaine
+p3934
+aa(lp3935
+S'Louis Casaux'
+p3936
+aS'1959'
+p3937
+aS'Centre, Fullback'
+p3938
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'Tarbes'
+p3939
+aVFrance
+p3940
+aV65000
+p3941
+aVFrance métropolitaine
 p3942
-aS'Monfort-en-Chalosse'
-p3943
-aS'35'
+aa(lp3943
+S'Claude Mantoulan'
 p3944
-aS'19'
+aS'1959'
 p3945
-aS'15'
+aS'Fly-half'
 p3946
-aS'45'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pau'
 p3947
 aVFrance
 p3948
-aV59720
+aV64000
 p3949
 aVFrance métropolitaine
 p3950
 aa(lp3951
-S'Herve Larrue'
+S'Serge Mericq'
 p3952
-aS'1960'
+aS'1959'
 p3953
-aS'Lock'
+aS'Wing'
 p3954
-aS'Boissezon'
-p3955
-aS'7'
-aS'6'
-aS'1'
+aS'5'
 aS'3'
+aS'1'
+aS'1'
+aS'2'
+aS'6'
+aS'La Reole'
+p3955
 aVFrance
 p3956
-aV81490
+aV33190
 p3957
 aVFrance métropolitaine
 p3958
 aa(lp3959
-S'Jean-Pierre Saux'
+S'Jean de Gregorio'
 p3960
 aS'1960'
 p3961
-aS'Prop, Lock'
+aS'Hooker'
 p3962
-aS'Paris'
-p3963
 aS'22'
-p3964
+p3963
 aS'14'
+p3964
+aS'5'
+aS'3'
+aS'1'
+aS'3'
+aS'Romans-sur-Isere'
 p3965
-aS'2'
-aS'6'
 aVFrance
 p3966
-aVFrance métropolitaine
+aV26100
 p3967
-aVÎle-de-France
+aVFrance métropolitaine
 p3968
 aa(lp3969
-S'Raoul Barriere'
+S'Sylvain Meyer'
 p3970
 aS'1960'
 p3971
-aS'Prop'
+aS'Back-row'
 p3972
-aS'Beziers'
-p3973
+aS'5'
+aS'3'
 aS'1'
-aS'0'
-aS'0'
-aS'0'
+aS'1'
+aS'2'
+aS'6'
+aS'Strasbourg'
+p3973
 aVFrance
 p3974
-aV34500
+aV67000;67100;67200
 p3975
 aVFrance métropolitaine
 p3976
 aa(lp3977
-S'Roger Brethes'
+S'Guy Boniface'
 p3978
 aS'1960'
 p3979
-aS'Fullback'
-p3980
-aS'Saint-Sever'
-p3981
-aS'1'
-aS'1'
-aS'0'
-aS'3'
-aVFrance
-p3982
-aV40500
-p3983
-aVFrance métropolitaine
-p3984
-aa(lp3985
-S'Michel Lacome'
-p3986
-aS'1960'
-p3987
 aS'Centre'
+p3980
+aS'35'
+p3981
+aS'19'
+p3982
+aS'10'
+p3983
+aS'6'
+aS'15'
+p3984
+aS'45'
+p3985
+aS'Monfort-en-Chalosse'
+p3986
+aVFrance
+p3987
+aV59720
 p3988
-aS'Bagneres-de-Bigorre'
+aVFrance métropolitaine
 p3989
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p3990
-aV65200;65710
+aa(lp3990
+S'Herve Larrue'
 p3991
-aVFrance métropolitaine
+aS'1960'
 p3992
-aa(lp3993
-S'Jean Othats'
-p3994
-aS'1960'
-p3995
-aS'Wing'
-p3996
-aS'Bugnein'
-p3997
-aS'2'
-aS'2'
+aS'Lock'
+p3993
+aS'7'
+aS'6'
+aS'1'
 aS'0'
-aS'0'
-aVFrance
-p3998
-aV64190
-p3999
-aVFrance métropolitaine
-p4000
-aa(lp4001
-S'Roland Crancee'
-p4002
-aS'1960'
-p4003
-aS'No. 8'
-p4004
-aS'Treveray'
-p4005
-aS'2'
-aS'2'
 aS'1'
 aS'3'
+aS'Boissezon'
+p3994
 aVFrance
-p4006
-aV55130
-p4007
+p3995
+aV81490
+p3996
 aVFrance métropolitaine
-p4008
-aa(lp4009
-S'Jacques Rollet'
-p4010
+p3997
+aa(lp3998
+S'Jean-Pierre Saux'
+p3999
 aS'1960'
+p4000
+aS'Prop, Lock'
+p4001
+aS'22'
+p4002
+aS'14'
+p4003
+aS'6'
+aS'2'
+aS'2'
+aS'6'
+aS'Paris'
+p4004
+aVFrance
+p4005
+aVFrance métropolitaine
+p4006
+aVÎle-de-France
+p4007
+aa(lp4008
+S'Raoul Barriere'
+p4009
+aS'1960'
+p4010
+aS'Prop'
 p4011
-aS'Hooker'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Beziers'
 p4012
-aS'Bayonne'
+aVFrance
 p4013
+aV34500
+p4014
+aVFrance métropolitaine
+p4015
+aa(lp4016
+S'Roger Brethes'
+p4017
+aS'1960'
+p4018
+aS'Fullback'
+p4019
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'3'
+aS'Saint-Sever'
+p4020
+aVFrance
+p4021
+aV40500
+p4022
+aVFrance métropolitaine
+p4023
+aa(lp4024
+S'Michel Lacome'
+p4025
+aS'1960'
+p4026
+aS'Centre'
+p4027
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Bagneres-de-Bigorre'
+p4028
+aVFrance
+p4029
+aV65200;65710
+p4030
+aVFrance métropolitaine
+p4031
+aa(lp4032
+S'Jean Othats'
+p4033
+aS'1960'
+p4034
+aS'Wing'
+p4035
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Bugnein'
+p4036
+aVFrance
+p4037
+aV64190
+p4038
+aVFrance métropolitaine
+p4039
+aa(lp4040
+S'Roland Crancee'
+p4041
+aS'1960'
+p4042
+aS'No. 8'
+p4043
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Treveray'
+p4044
+aVFrance
+p4045
+aV55130
+p4046
+aVFrance métropolitaine
+p4047
+aa(lp4048
+S'Jacques Rollet'
+p4049
+aS'1960'
+p4050
+aS'Hooker'
+p4051
 aS'5'
 aS'4'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Bayonne'
+p4052
 aVFrance
-p4014
+p4053
 aV64100
-p4015
+p4054
 aVFrance métropolitaine
-p4016
-aa(lp4017
+p4055
+aa(lp4056
 S'Louis Echave'
-p4018
+p4057
 aS'1961'
-p4019
+p4058
 aS'Flanker, Lock'
-p4020
+p4059
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Ciboure'
-p4021
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p4060
 aVFrance
-p4022
+p4061
 aV64500
-p4023
+p4062
 aVFrance métropolitaine
-p4024
-aa(lp4025
+p4063
+aa(lp4064
 S'Jean Gachassin'
-p4026
+p4065
 aS'1961'
-p4027
+p4066
 aS'Fullback, Wing, Centre, Fly-half'
-p4028
-aS'Bagneres-de-Bigorre'
-p4029
+p4067
 aS'32'
-p4030
+p4068
 aS'19'
-p4031
-aS'8'
-aS'32'
-p4032
-aVFrance
-p4033
-aV65200;65710
-p4034
-aVFrance métropolitaine
-p4035
-aa(lp4036
-S'Gerard Bouguyon'
-p4037
-aS'1961'
-p4038
-aS'Lock, Prop'
-p4039
-aS'Quimerch'
-p4040
+p4069
 aS'9'
 aS'4'
+aS'8'
+aS'32'
+p4070
+aS'Bagneres-de-Bigorre'
+p4071
+aVFrance
+p4072
+aV65200;65710
+p4073
+aVFrance métropolitaine
+p4074
+aa(lp4075
+S'Gerard Bouguyon'
+p4076
+aS'1961'
+p4077
+aS'Lock, Prop'
+p4078
+aS'9'
+aS'4'
+aS'3'
+aS'2'
 aS'1'
 aS'3'
+aS'Quimerch'
+p4079
 aVFrance
-p4041
+p4080
 aV29590
-p4042
+p4081
 aVFrance métropolitaine
-p4043
-aa(lp4044
+p4082
+aa(lp4083
 S'Marcel Puget'
-p4045
+p4084
 aS'1961'
-p4046
+p4085
 aS'Scrum-half'
-p4047
-aS'Limoux'
-p4048
+p4086
 aS'17'
-p4049
+p4087
 aS'6'
+aS'9'
+aS'2'
 aS'0'
 aS'3'
+aS'Limoux'
+p4088
 aVFrance
-p4050
+p4089
 aV11300
-p4051
+p4090
 aVFrance métropolitaine
-p4052
-aa(lp4053
+p4091
+aa(lp4092
 S'Guy Calvo'
-p4054
+p4093
 aS'1961'
-p4055
+p4094
 aS'Fullback, Wing, Centre'
-p4056
-aS'Tarbes'
-p4057
+p4095
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Tarbes'
+p4096
 aVFrance
-p4058
+p4097
 aV65000
-p4059
+p4098
 aVFrance métropolitaine
-p4060
-aa(lp4061
+p4099
+aa(lp4100
 S'Pierre Cazals'
-p4062
+p4101
 aS'1961'
-p4063
+p4102
 aS'Prop'
-p4064
+p4103
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
 aS'Mont-de-Marsan'
-p4065
+p4104
+aVFrance
+p4105
+aV40000
+p4106
+aVFrance métropolitaine
+p4107
+aa(lp4108
+S'Jean Laudouar'
+p4109
+aS'1961'
+p4110
+aS'Hooker'
+p4111
+aS'5'
+aS'1'
 aS'3'
 aS'1'
 aS'0'
 aS'0'
-aVFrance
-p4066
-aV40000
-p4067
-aVFrance métropolitaine
-p4068
-aa(lp4069
-S'Jean Laudouar'
-p4070
-aS'1961'
-p4071
-aS'Hooker'
-p4072
 aS'Soustons'
-p4073
-aS'5'
-aS'1'
-aS'0'
-aS'0'
+p4112
 aVFrance
-p4074
+p4113
 aV40140
-p4075
+p4114
 aVFrance métropolitaine
-p4076
-aa(lp4077
+p4115
+aa(lp4116
 S'Claude Lacaze'
-p4078
+p4117
 aS'1961'
-p4079
+p4118
 aS'Fullback'
-p4080
-aS'Pontacq'
-p4081
+p4119
 aS'33'
-p4082
+p4120
 aS'18'
-p4083
+p4121
+aS'11'
+p4122
+aS'4'
 aS'1'
 aS'59'
-p4084
+p4123
+aS'Pontacq'
+p4124
 aVFrance
-p4085
+p4125
 aV64530
-p4086
+p4126
 aVFrance métropolitaine
-p4087
-aa(lp4088
+p4127
+aa(lp4128
 S'Roland Lefevre'
-p4089
+p4129
 aS'1961'
-p4090
+p4130
 aS'No. 8'
-p4091
-aS'La Flamengrie'
-p4092
+p4131
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'La Flamengrie'
+p4132
 aVFrance
-p4093
+p4133
 aV02260
-p4094
+p4134
 aVFrance métropolitaine
-p4095
-aa(lp4096
+p4135
+aa(lp4136
 S'Jean Pique'
-p4097
+p4137
 aS'1961'
-p4098
+p4138
 aS'Wing, Centre'
-p4099
-aS'Pau'
-p4100
+p4139
 aS'18'
-p4101
+p4140
 aS'11'
-p4102
+p4141
+aS'5'
+aS'2'
 aS'2'
 aS'6'
+aS'Pau'
+p4142
 aVFrance
-p4103
+p4143
 aV64000
-p4104
+p4144
 aVFrance métropolitaine
-p4105
-aa(lp4106
+p4145
+aa(lp4146
 S'Guy Camberabero'
-p4107
+p4147
 aS'1961'
-p4108
+p4148
 aS'Fly-half'
-p4109
-aS'Soubion'
-p4110
+p4149
 aS'14'
-p4111
+p4150
 aS'10'
-p4112
+p4151
+aS'3'
+aS'1'
 aS'2'
 aS'110'
-p4113
-aS'g'
-aS'n'
-aS'i'
-aa(lp4114
-S'Marcel Cassiede'
-p4115
-aS'1961'
-p4116
-aS'Lock'
-p4117
-aS'Gousse'
-p4118
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p4119
-aV40465
-p4120
-aVFrance métropolitaine
-p4121
-aa(lp4122
-S'Serge Plantey'
-p4123
-aS'1961'
-p4124
-aS'Wing, Fly-half'
-p4125
-aS'Salles'
-p4126
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p4127
-aV86150
-p4128
-aVFrance métropolitaine
-p4129
-aa(lp4130
-S'Rene le Bourhis'
-p4131
-aS'1961'
-p4132
-aS'Lock'
-p4133
-aS'Saint-Malo-de-Guersa'
-p4134
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp4135
-S'Henri Marracq'
-p4136
-aS'1961'
-p4137
-aS'Flanker'
-p4138
-aS'Pontacq'
-p4139
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aVFrance
-p4140
-aV64530
-p4141
-aVFrance métropolitaine
-p4142
-aa(lp4143
-S'Roger Gensane'
-p4144
-aS'1962'
-p4145
-aS'Flanker'
-p4146
-aS'Severac-le-Chateau'
-p4147
-aS'7'
-aS'4'
-aS'0'
-aS'0'
-aVFrance
-p4148
-aV12150
-p4149
-aVFrance métropolitaine
-p4150
-aa(lp4151
-S'Henri Romero'
 p4152
-aS'1962'
+aS'Soubion'
 p4153
-aS'Back-row'
-p4154
-aS'Sigean'
+aS'g'
+aS'n'
+aS'i'
+aa(lp4154
+S'Marcel Cassiede'
 p4155
+aS'1961'
+p4156
+aS'Lock'
+p4157
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Gousse'
+p4158
+aVFrance
+p4159
+aV40465
+p4160
+aVFrance métropolitaine
+p4161
+aa(lp4162
+S'Serge Plantey'
+p4163
+aS'1961'
+p4164
+aS'Wing, Fly-half'
+p4165
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Salles'
+p4166
+aVFrance
+p4167
+aV86150
+p4168
+aVFrance métropolitaine
+p4169
+aa(lp4170
+S'Rene le Bourhis'
+p4171
+aS'1961'
+p4172
+aS'Lock'
+p4173
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Saint-Malo-de-Guersa'
+p4174
+aS'g'
+aS'n'
+aS'i'
+aa(lp4175
+S'Henri Marracq'
+p4176
+aS'1961'
+p4177
+aS'Flanker'
+p4178
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'1'
+aS'3'
+aS'Pontacq'
+p4179
+aVFrance
+p4180
+aV64530
+p4181
+aVFrance métropolitaine
+p4182
+aa(lp4183
+S'Roger Gensane'
+p4184
+aS'1962'
+p4185
+aS'Flanker'
+p4186
 aS'7'
 aS'4'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Severac-le-Chateau'
+p4187
 aVFrance
-p4156
-aV11130
-p4157
+p4188
+aV12150
+p4189
 aVFrance métropolitaine
-p4158
-aa(lp4159
-S'Claude Laborde'
-p4160
+p4190
+aa(lp4191
+S'Henri Romero'
+p4192
 aS'1962'
-p4161
+p4193
+aS'Back-row'
+p4194
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Sigean'
+p4195
+aVFrance
+p4196
+aV11130
+p4197
+aVFrance métropolitaine
+p4198
+aa(lp4199
+S'Claude Laborde'
+p4200
+aS'1962'
+p4201
 aS'Wing, Scrum-half'
-p4162
-aS'Peyrehorade'
-p4163
+p4202
 aS'5'
 aS'2'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'Peyrehorade'
+p4203
 aVFrance
-p4164
+p4204
 aV40300
-p4165
+p4205
 aVFrance métropolitaine
-p4166
-aa(lp4167
+p4206
+aa(lp4207
 S'Michel Arino'
-p4168
+p4208
 aS'1962'
-p4169
+p4209
 aS'Wing'
-p4170
-aS"Penne-d'Agenais"
-p4171
+p4210
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS"Penne-d'Agenais"
+p4211
 aVFrance
-p4172
+p4212
 aV47140
-p4173
+p4213
 aVFrance métropolitaine
-p4174
-aa(lp4175
+p4214
+aa(lp4215
 S'Maurice Lira'
-p4176
+p4216
 aS'1962'
-p4177
+p4217
 aS'Flanker, No. 8, Lock'
-p4178
-aS'La Mure'
-p4179
+p4218
 aS'13'
-p4180
+p4219
 aS'8'
+aS'2'
+aS'3'
 aS'2'
 aS'6'
-aVFrance
-p4181
-aV38350
-p4182
-aVFrance métropolitaine
-p4183
-aa(lp4184
-S'Francis Mas'
-p4185
-aS'1962'
-p4186
-aS'Prop'
-p4187
-aS'Cazouls-les-Beziers'
-p4188
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p4189
-aV34370
-p4190
-aVFrance métropolitaine
-p4191
-aa(lp4192
-S'Pierre Razat'
-p4193
-aS'1962'
-p4194
-aS'Centre, Fullback'
-p4195
-aS'Fumel'
-p4196
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p4197
-aV47500
-p4198
-aVFrance métropolitaine
-p4199
-aa(lp4200
-S'Pierre Besson'
-p4201
-aS'1963'
-p4202
-aS'Wing'
-p4203
-aS'Saint-Astier'
-p4204
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p4205
-aV24110
-p4206
-aVFrance métropolitaine
-p4207
-aa(lp4208
-S'Jean Fabre'
-p4209
-aS'1963'
-p4210
-aS'No. 8'
-p4211
-aS'Rodez'
-p4212
-aS'8'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p4213
-aV12000
-p4214
-aVFrance métropolitaine
-p4215
-aa(lp4216
-S'Fernand Zago'
-p4217
-aS'1963'
-p4218
-aS'Prop'
-p4219
-aS'Saint-Lys'
+aS'La Mure'
 p4220
-aS'2'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
 p4221
-aV31470
+aV38350
 p4222
 aVFrance métropolitaine
 p4223
 aa(lp4224
-S'Paul Dedieu'
+S'Francis Mas'
 p4225
-aS'1963'
+aS'1962'
 p4226
-aS'Fullback'
+aS'Prop'
 p4227
-aS'Toulouse'
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Cazouls-les-Beziers'
 p4228
-aS'12'
+aVFrance
 p4229
+aV34370
+p4230
+aVFrance métropolitaine
+p4231
+aa(lp4232
+S'Pierre Razat'
+p4233
+aS'1962'
+p4234
+aS'Centre, Fullback'
+p4235
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Fumel'
+p4236
+aVFrance
+p4237
+aV47500
+p4238
+aVFrance métropolitaine
+p4239
+aa(lp4240
+S'Pierre Besson'
+p4241
+aS'1963'
+p4242
+aS'Wing'
+p4243
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Astier'
+p4244
+aVFrance
+p4245
+aV24110
+p4246
+aVFrance métropolitaine
+p4247
+aa(lp4248
+S'Jean Fabre'
+p4249
+aS'1963'
+p4250
+aS'No. 8'
+p4251
 aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Rodez'
+p4252
+aVFrance
+p4253
+aV12000
+p4254
+aVFrance métropolitaine
+p4255
+aa(lp4256
+S'Fernand Zago'
+p4257
+aS'1963'
+p4258
+aS'Prop'
+p4259
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Lys'
+p4260
+aVFrance
+p4261
+aV31470
+p4262
+aVFrance métropolitaine
+p4263
+aa(lp4264
+S'Paul Dedieu'
+p4265
+aS'1963'
+p4266
+aS'Fullback'
+p4267
+aS'12'
+p4268
+aS'8'
+aS'2'
+aS'2'
 aS'0'
 aS'25'
-p4230
-aVFrance
-p4231
-aV31000;31100;31200;31300;31400;31500
-p4232
-aVFrance métropolitaine
-p4233
-aa(lp4234
-S'Raymond Rebujent'
-p4235
-aS'1963'
-p4236
-aS'Hooker'
-p4237
-aS'Elne'
-p4238
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p4239
-aV66200
-p4240
-aVFrance métropolitaine
-p4241
-aa(lp4242
-S'Roger Fite'
-p4243
-aS'1963'
-p4244
-aS'No. 8, Lock'
-p4245
-aS'Cabrerolles'
-p4246
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p4247
-aV34480
-p4248
-aVFrance métropolitaine
-p4249
-aa(lp4250
-S'Jean-Claude Lasserre'
-p4251
-aS'1963'
-p4252
-aS'Halfback, Scrum-half'
-p4253
-aS'Hussein Dey'
-p4254
-aS'13'
-p4255
-aS'8'
-aS'0'
-aS'3'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p4256
-aVAlger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p4257
-aVDaïra Hussein Dey
-p4258
-aa(lp4259
-S'Jean le Droff'
-p4260
-aS'1963'
-p4261
-aS'Lock'
-p4262
-aS'Ordan-Larroque'
-p4263
-aS'9'
-aS'4'
-aS'0'
-aS'0'
-aVFrance
-p4264
-aV32350
-p4265
-aVFrance métropolitaine
-p4266
-aa(lp4267
-S'Lucien Abadie'
-p4268
-aS'1963'
 p4269
-aS'Prop'
+aS'Toulouse'
 p4270
-aS'Bouilh Devant'
+aVFrance
 p4271
+aV31000;31100;31200;31300;31400;31500
+p4272
+aVFrance métropolitaine
+p4273
+aa(lp4274
+S'Raymond Rebujent'
+p4275
+aS'1963'
+p4276
+aS'Hooker'
+p4277
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p4272
-aV65140
-p4273
-aVFrance métropolitaine
-p4274
-aa(lp4275
-S'Jean-Claude Berejnoi'
-p4276
-aS'1963'
-p4277
-aS'Prop'
+aS'Elne'
 p4278
-aS'Decazeville'
+aVFrance
 p4279
-aS'27'
+aV66200
 p4280
-aS'19'
+aVFrance métropolitaine
 p4281
-aS'0'
-aS'0'
-aVFrance
-p4282
-aV12300
+aa(lp4282
+S'Roger Fite'
 p4283
-aVFrance métropolitaine
+aS'1963'
 p4284
-aa(lp4285
-S'Jean-Michel Cabanier'
-p4286
-aS'1963'
-p4287
-aS'Hooker'
-p4288
-aS'Lavilledieu-du-Templ'
-p4289
-aS'26'
-p4290
-aS'18'
-p4291
-aS'4'
-aS'12'
-p4292
-aS'g'
-aS'n'
-aS'i'
-aa(lp4293
-S'Andre Herrero'
-p4294
-aS'1963'
-p4295
-aS'Back-row'
-p4296
-aS'Puisserguier'
-p4297
-aS'22'
-p4298
-aS'14'
-p4299
+aS'No. 8, Lock'
+p4285
 aS'2'
-aS'6'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cabrerolles'
+p4286
 aVFrance
-p4300
-aV34620
-p4301
+p4287
+aV34480
+p4288
 aVFrance métropolitaine
-p4302
-aa(lp4303
-S'Jean-Joseph Rupert'
-p4304
+p4289
+aa(lp4290
+S'Jean-Claude Lasserre'
+p4291
 aS'1963'
-p4305
-aS'Flanker'
-p4306
-aS'Saint-Jean-de-Marsac'
-p4307
-aS'14'
-p4308
+p4292
+aS'Halfback, Scrum-half'
+p4293
+aS'13'
+p4294
+aS'8'
+aS'4'
+aS'1'
+aS'0'
+aS'3'
+aS'Hussein Dey'
+p4295
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p4296
+aVAlger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p4297
+aVDaïra Hussein Dey
+p4298
+aa(lp4299
+S'Jean le Droff'
+p4300
+aS'1963'
+p4301
+aS'Lock'
+p4302
 aS'9'
 aS'4'
-aS'12'
-p4309
-aS'g'
-aS'n'
-aS'i'
-aa(lp4310
-S'Jacques Bayardon'
-p4311
-aS'1964'
-p4312
-aS'Prop'
-p4313
-aS'Macon'
-p4314
 aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited States of America
-p4315
-aVGeorgia
-p4316
-aVBibb County
-p4317
-aa(lp4318
-S'Benoit Dauga'
-p4319
-aS'1964'
-p4320
-aS'Lock, No. 8'
-p4321
-aS'Montgaillard'
-p4322
-aS'63'
-p4323
-aS'30'
-p4324
-aS'11'
-p4325
-aS'34'
-p4326
-aVFrance
-p4327
-aV65200
-p4328
-aVFrance métropolitaine
-p4329
-aa(lp4330
-S'Jean-Baptiste Amestoy'
-p4331
-aS'1964'
-p4332
-aS'Prop'
-p4333
-aS'Ustaritz'
-p4334
 aS'2'
 aS'0'
 aS'0'
-aS'0'
+aS'Ordan-Larroque'
+p4303
 aVFrance
-p4335
-aV64480
-p4336
+p4304
+aV32350
+p4305
 aVFrance métropolitaine
-p4337
-aa(lp4338
-S'Jean-Claude Hiquet'
-p4339
-aS'1964'
-p4340
-aS'Fly-half'
-p4341
-aS'Soustons'
-p4342
+p4306
+aa(lp4307
+S'Lucien Abadie'
+p4308
+aS'1963'
+p4309
+aS'Prop'
+p4310
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'Bouilh Devant'
+p4311
 aVFrance
-p4343
-aV40140
-p4344
+p4312
+aV65140
+p4313
 aVFrance métropolitaine
-p4345
-aa(lp4346
-S'Arnaldo Gruarin'
-p4347
-aS'1964'
-p4348
+p4314
+aa(lp4315
+S'Jean-Claude Berejnoi'
+p4316
+aS'1963'
+p4317
 aS'Prop'
-p4349
-aS'Bagnara'
-p4350
-aS'26'
-p4351
+p4318
+aS'27'
+p4319
 aS'19'
-p4352
-aS'2'
-aS'6'
-aVItalia
-p4353
-aVPIE
-p4354
-aVAL
-p4355
-aa(lp4356
-S'Yves Menthillier'
-p4357
-aS'1964'
-p4358
+p4320
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'Decazeville'
+p4321
+aVFrance
+p4322
+aV12300
+p4323
+aVFrance métropolitaine
+p4324
+aa(lp4325
+S'Jean-Michel Cabanier'
+p4326
+aS'1963'
+p4327
 aS'Hooker'
-p4359
-aS'Bourg-en-Bresse'
-p4360
+p4328
+aS'26'
+p4329
+aS'18'
+p4330
 aS'5'
 aS'3'
-aS'0'
-aS'0'
-aVFrance
-p4361
-aV01000
-p4362
-aVFrance métropolitaine
-p4363
-aa(lp4364
-S'Michel Sitjar'
-p4365
-aS'1964'
-p4366
-aS'Flanker'
-p4367
-aS'Castelsagrat'
-p4368
-aS'13'
-p4369
-aS'10'
-p4370
-aS'1'
-aS'3'
-aVFrance
-p4371
-aV82400
-p4372
-aVFrance métropolitaine
-p4373
-aa(lp4374
-S'Andre Abadie'
-p4375
-aS'1964'
-p4376
-aS'Hooker'
-p4377
-aS'Aureilhan'
-p4378
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p4379
-aV65800
-p4380
-aVFrance métropolitaine
-p4381
-aa(lp4382
-S'Michel Arnaudet'
-p4383
-aS'1964'
-p4384
-aS'Centre, Wing'
-p4385
-aS'Lourdes'
-p4386
-aS'3'
-aS'3'
 aS'4'
 aS'12'
-p4387
-aVFrance
-p4388
-aV65100
-p4389
-aVFrance métropolitaine
-p4390
-aa(lp4391
-S'Jean Capdouze'
-p4392
-aS'1964'
-p4393
-aS'Centre, Fly-half'
-p4394
-aS'Salies-de-Bearn'
-p4395
-aS'6'
-aS'4'
-aS'2'
-aS'6'
-aVFrance
-p4396
-aV64270
-p4397
-aVFrance métropolitaine
-p4398
-aa(lp4399
-S'Walter Spanghero'
-p4400
-aS'1964'
-p4401
-aS'No. 8, Lock, Flanker'
-p4402
-aS"Payra-sur-l'Hers"
-p4403
-aNaNaNaNaVFrance
-p4404
-aV11410
-p4405
-aVFrance métropolitaine
-p4406
-aa(lp4407
-S'Lilian Camberabero'
-p4408
-aS'1964'
-p4409
-aS'Scrum-half'
-p4410
-aS'Saint-Vincent-de-Tyr'
-p4411
-aS'13'
-p4412
-aS'11'
-p4413
-aS'2'
-aS'9'
+p4331
+aS'Lavilledieu-du-Templ'
+p4332
 aS'g'
 aS'n'
 aS'i'
-aa(lp4414
-S'Andre Campaes'
-p4415
-aS'1965'
-p4416
-aS'Wing'
-p4417
-aS'Lourdes'
-p4418
+aa(lp4333
+S'Andre Herrero'
+p4334
+aS'1963'
+p4335
+aS'Back-row'
+p4336
+aS'22'
+p4337
 aS'14'
-p4419
-aS'8'
+p4338
+aS'5'
+aS'3'
+aS'2'
+aS'6'
+aS'Puisserguier'
+p4339
+aVFrance
+p4340
+aV34620
+p4341
+aVFrance métropolitaine
+p4342
+aa(lp4343
+S'Jean-Joseph Rupert'
+p4344
+aS'1963'
+p4345
+aS'Flanker'
+p4346
+aS'14'
+p4347
+aS'9'
+aS'3'
+aS'2'
 aS'4'
 aS'12'
-p4420
-aVFrance
-p4421
-aV65100
-p4422
-aVFrance métropolitaine
-p4423
-aa(lp4424
-S'Andre Abadie'
-p4425
-aS'1965'
-p4426
+p4348
+aS'Saint-Jean-de-Marsac'
+p4349
+aS'g'
+aS'n'
+aS'i'
+aa(lp4350
+S'Jacques Bayardon'
+p4351
+aS'1964'
+p4352
 aS'Prop'
-p4427
-aS'Toulouse'
-p4428
+p4353
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Macon'
+p4354
+aVUnited States of America
+p4355
+aVGeorgia
+p4356
+aVBibb County
+p4357
+aa(lp4358
+S'Benoit Dauga'
+p4359
+aS'1964'
+p4360
+aS'Lock, No. 8'
+p4361
+aS'63'
+p4362
+aS'30'
+p4363
+aS'26'
+p4364
 aS'7'
+aS'11'
+p4365
+aS'34'
+p4366
+aS'Montgaillard'
+p4367
+aVFrance
+p4368
+aV65200
+p4369
+aVFrance métropolitaine
+p4370
+aa(lp4371
+S'Jean-Baptiste Amestoy'
+p4372
+aS'1964'
+p4373
+aS'Prop'
+p4374
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Ustaritz'
+p4375
+aVFrance
+p4376
+aV64480
+p4377
+aVFrance métropolitaine
+p4378
+aa(lp4379
+S'Jean-Claude Hiquet'
+p4380
+aS'1964'
+p4381
+aS'Fly-half'
+p4382
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Soustons'
+p4383
+aVFrance
+p4384
+aV40140
+p4385
+aVFrance métropolitaine
+p4386
+aa(lp4387
+S'Arnaldo Gruarin'
+p4388
+aS'1964'
+p4389
+aS'Prop'
+p4390
+aS'26'
+p4391
+aS'19'
+p4392
 aS'4'
+aS'3'
+aS'2'
+aS'6'
+aS'Bagnara'
+p4393
+aVItalia
+p4394
+aVPIE
+p4395
+aVAL
+p4396
+aa(lp4397
+S'Yves Menthillier'
+p4398
+aS'1964'
+p4399
+aS'Hooker'
+p4400
+aS'5'
+aS'3'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'Bourg-en-Bresse'
+p4401
+aVFrance
+p4402
+aV01000
+p4403
+aVFrance métropolitaine
+p4404
+aa(lp4405
+S'Michel Sitjar'
+p4406
+aS'1964'
+p4407
+aS'Flanker'
+p4408
+aS'13'
+p4409
+aS'10'
+p4410
+aS'2'
+aS'1'
+aS'1'
+aS'3'
+aS'Castelsagrat'
+p4411
+aVFrance
+p4412
+aV82400
+p4413
+aVFrance métropolitaine
+p4414
+aa(lp4415
+S'Andre Abadie'
+p4416
+aS'1964'
+p4417
+aS'Hooker'
+p4418
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Aureilhan'
+p4419
+aVFrance
+p4420
+aV65800
+p4421
+aVFrance métropolitaine
+p4422
+aa(lp4423
+S'Michel Arnaudet'
+p4424
+aS'1964'
+p4425
+aS'Centre, Wing'
+p4426
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'4'
+aS'12'
+p4427
+aS'Lourdes'
+p4428
 aVFrance
 p4429
-aV31000;31100;31200;31300;31400;31500
+aV65100
 p4430
 aVFrance métropolitaine
 p4431
 aa(lp4432
-S'Elie Cester'
+S'Jean Capdouze'
 p4433
-aS'1966'
+aS'1964'
 p4434
-aS'Lock'
+aS'Centre, Fly-half'
 p4435
-aS"L'Isle-Jourdain"
+aS'6'
+aS'4'
+aS'1'
+aS'1'
+aS'2'
+aS'6'
+aS'Salies-de-Bearn'
 p4436
-aS'35'
+aVFrance
 p4437
-aS'18'
+aV64270
 p4438
+aVFrance métropolitaine
+p4439
+aa(lp4440
+S'Walter Spanghero'
+p4441
+aS'1964'
+p4442
+aS'No. 8, Lock, Flanker'
+p4443
+aNaNaNaNaNaNaS"Payra-sur-l'Hers"
+p4444
+aVFrance
+p4445
+aV11410
+p4446
+aVFrance métropolitaine
+p4447
+aa(lp4448
+S'Lilian Camberabero'
+p4449
+aS'1964'
+p4450
+aS'Scrum-half'
+p4451
+aS'13'
+p4452
+aS'11'
+p4453
+aS'1'
+aS'1'
+aS'2'
+aS'9'
+aS'Saint-Vincent-de-Tyr'
+p4454
+aS'g'
+aS'n'
+aS'i'
+aa(lp4455
+S'Andre Campaes'
+p4456
+aS'1965'
+p4457
+aS'Wing'
+p4458
+aS'14'
+p4459
+aS'8'
+aS'5'
+aS'1'
+aS'4'
+aS'12'
+p4460
+aS'Lourdes'
+p4461
+aVFrance
+p4462
+aV65100
+p4463
+aVFrance métropolitaine
+p4464
+aa(lp4465
+S'Andre Abadie'
+p4466
+aS'1965'
+p4467
+aS'Prop'
+p4468
+aS'7'
+aS'4'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Toulouse'
+p4469
+aVFrance
+p4470
+aV31000;31100;31200;31300;31400;31500
+p4471
+aVFrance métropolitaine
+p4472
+aa(lp4473
+S'Elie Cester'
+p4474
+aS'1966'
+p4475
+aS'Lock'
+p4476
+aS'35'
+p4477
+aS'18'
+p4478
+aS'13'
+p4479
+aS'4'
 aS'1'
 aS'3'
+aS"L'Isle-Jourdain"
+p4480
 aVFrance
-p4439
+p4481
 aV32600
-p4440
+p4482
 aVFrance métropolitaine
-p4441
-aa(lp4442
+p4483
+aa(lp4484
 S'Jean-Claude Roques'
-p4443
+p4485
 aS'1966'
-p4444
+p4486
 aS'Fly-half'
-p4445
-aS'Brive'
-p4446
+p4487
 aS'4'
 aS'3'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'Brive'
+p4488
 aVFrance
-p4447
+p4489
 aV01470
-p4448
+p4490
 aVFrance métropolitaine
-p4449
-aa(lp4450
+p4491
+aa(lp4492
 S'Bernard Duprat'
-p4451
+p4493
 aS'1966'
-p4452
+p4494
 aS'Wing'
-p4453
-aS'Bayonne'
-p4454
+p4495
 aS'15'
-p4455
+p4496
 aS'9'
+aS'5'
+aS'1'
 aS'9'
 aS'31'
-p4456
-aVFrance
-p4457
-aV64100
-p4458
-aVFrance métropolitaine
-p4459
-aa(lp4460
-S'Jean-Claude Lagrange'
-p4461
-aS'1966'
-p4462
-aS'Centre'
-p4463
-aS'Perigueux'
-p4464
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p4465
-aV24000
-p4466
-aVFrance métropolitaine
-p4467
-aa(lp4468
-S'Jo Maso'
-p4469
-aS'1966'
-p4470
-aS'Fly-half, Centre'
-p4471
-aS'Toulouse'
-p4472
-aS'25'
-p4473
-aS'12'
-p4474
-aS'4'
-aS'15'
-p4475
-aVFrance
-p4476
-aV31000;31100;31200;31300;31400;31500
-p4477
-aVFrance métropolitaine
-p4478
-aa(lp4479
-S'Christian Carrere'
-p4480
-aS'1966'
-p4481
-aS'Flanker'
-p4482
-aS'Tarbes'
-p4483
-aS'27'
-p4484
-aS'15'
-p4485
-aS'4'
-aS'12'
-p4486
-aVFrance
-p4487
-aV65000
-p4488
-aVFrance métropolitaine
-p4489
-aa(lp4490
-S'Claude Dourthe'
-p4491
-aS'1966'
-p4492
-aS'Centre'
-p4493
-aS'Magescq'
-p4494
-aS'33'
-p4495
-aS'17'
-p4496
-aS'10'
 p4497
-aS'40'
+aS'Bayonne'
 p4498
 aVFrance
 p4499
-aV40140
+aV64100
 p4500
 aVFrance métropolitaine
 p4501
 aa(lp4502
-S'Jean Salut'
+S'Jean-Claude Lagrange'
 p4503
 aS'1966'
 p4504
-aS'Flanker'
+aS'Centre'
 p4505
-aS'Beaumont-de-Lomagne'
-p4506
-aS'7'
-aS'4'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
+aS'Perigueux'
+p4506
 aVFrance
 p4507
-aV82500
+aV24000
 p4508
 aVFrance métropolitaine
 p4509
 aa(lp4510
-S'Jean-Pierre Mir'
+S'Jo Maso'
 p4511
-aS'1967'
+aS'1966'
 p4512
-aS'Centre'
+aS'Fly-half, Centre'
 p4513
-aS'Saint-Lary'
+aS'25'
 p4514
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p4515
-aVFrance métropolitaine
-p4516
-aVAquitaine
-p4517
-aa(lp4518
-S'Jean-Pierre Lux'
-p4519
-aS'1967'
-p4520
-aS'Centre, Wing'
-p4521
-aS'Saint-Vincent-de-Tyr'
-p4522
-aS'47'
-p4523
-aS'22'
-p4524
 aS'12'
+p4515
+aS'11'
+p4516
+aS'2'
+aS'4'
+aS'15'
+p4517
+aS'Toulouse'
+p4518
+aVFrance
+p4519
+aV31000;31100;31200;31300;31400;31500
+p4520
+aVFrance métropolitaine
+p4521
+aa(lp4522
+S'Christian Carrere'
+p4523
+aS'1966'
+p4524
+aS'Flanker'
 p4525
-aS'42'
+aS'27'
 p4526
-aS'g'
-aS'n'
-aS'i'
-aa(lp4527
-S'Jacques Fort'
+aS'15'
+p4527
+aS'10'
 p4528
-aS'1967'
+aS'2'
+aS'4'
+aS'12'
 p4529
-aS'Prop, Lock'
+aS'Tarbes'
 p4530
-aS'Bordeaux'
+aVFrance
 p4531
+aV65000
+p4532
+aVFrance métropolitaine
+p4533
+aa(lp4534
+S'Claude Dourthe'
+p4535
+aS'1966'
+p4536
+aS'Centre'
+p4537
+aS'33'
+p4538
+aS'17'
+p4539
+aS'13'
+p4540
+aS'3'
+aS'10'
+p4541
+aS'40'
+p4542
+aS'Magescq'
+p4543
+aVFrance
+p4544
+aV40140
+p4545
+aVFrance métropolitaine
+p4546
+aa(lp4547
+S'Jean Salut'
+p4548
+aS'1966'
+p4549
+aS'Flanker'
+p4550
 aS'7'
 aS'4'
+aS'3'
 aS'0'
-aS'0'
-aVFrance
-p4532
-aV33000;33100;33300;33800
-p4533
-aVFrance métropolitaine
-p4534
-aa(lp4535
-S'Pierre Villepreux'
-p4536
-aS'1967'
-p4537
-aS'Fullback, Fly-half'
-p4538
-aS'Pompadour'
-p4539
-aS'34'
-p4540
-aS'14'
-p4541
-aS'2'
-aS'166'
-p4542
-aVFrance
-p4543
-aV19230
-p4544
-aVFrance métropolitaine
-p4545
-aa(lp4546
-S'Jean-Michel Esponda'
-p4547
-aS'1967'
-p4548
-aS'Prop'
-p4549
-aS'Hendaye'
-p4550
-aS'10'
-p4551
 aS'1'
-aS'0'
-aS'0'
+aS'3'
+aS'Beaumont-de-Lomagne'
+p4551
 aVFrance
 p4552
-aV64700
+aV82500
 p4553
 aVFrance métropolitaine
 p4554
 aa(lp4555
-S'Andre Quilis'
+S'Jean-Pierre Mir'
 p4556
 aS'1967'
 p4557
-aS'Flanker, Wing'
+aS'Centre'
 p4558
-aS'Coursan'
-p4559
-aS'5'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'Saint-Lary'
+p4559
 aVFrance
 p4560
-aV11110
-p4561
 aVFrance métropolitaine
+p4561
+aVAquitaine
 p4562
 aa(lp4563
-S'Jean-Louis Dehez'
+S'Jean-Pierre Lux'
 p4564
 aS'1967'
 p4565
-aS'Fly-half, Fullback'
+aS'Centre, Wing'
 p4566
-aS'Mont-de-Marsan'
+aS'47'
 p4567
+aS'22'
+p4568
+aS'19'
+p4569
+aS'6'
+aS'12'
+p4570
+aS'42'
+p4571
+aS'Saint-Vincent-de-Tyr'
+p4572
+aS'g'
+aS'n'
+aS'i'
+aa(lp4573
+S'Jacques Fort'
+p4574
+aS'1967'
+p4575
+aS'Prop, Lock'
+p4576
+aS'7'
+aS'4'
 aS'2'
 aS'1'
 aS'0'
-aS'11'
-p4568
-aVFrance
-p4569
-aV40000
-p4570
-aVFrance métropolitaine
-p4571
-aa(lp4572
-S'Michel Lasserre'
-p4573
-aS'1967'
-p4574
-aS'Lock, No. 8, Prop'
-p4575
-aS'Le Cause'
-p4576
-aS'15'
+aS'0'
+aS'Bordeaux'
 p4577
-aS'5'
-aS'0'
-aS'0'
 aVFrance
 p4578
-aV13100
+aV33000;33100;33300;33800
 p4579
 aVFrance métropolitaine
 p4580
 aa(lp4581
-S'Jean-Claude Malbet'
+S'Pierre Villepreux'
 p4582
 aS'1967'
 p4583
-aS'Hooker'
+aS'Fullback, Fly-half'
 p4584
-aS'Larresingle'
+aS'34'
 p4585
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp4586
-S'Alain Plantefol'
+aS'14'
+p4586
+aS'16'
 p4587
-aS'1967'
-p4588
-aS'Lock'
-p4589
-aS'Colombes'
-p4590
-aS'11'
-p4591
-aS'5'
-aS'1'
-aS'3'
-aVFrance
-p4592
-aV92700
-p4593
-aVFrance métropolitaine
-p4594
-aa(lp4595
-S'Gerard Sutra'
-p4596
-aS'1967'
-p4597
-aS'Scrum-half'
-p4598
-aS'Narbonne'
-p4599
 aS'4'
 aS'2'
-aS'0'
-aS'0'
+aS'166'
+p4588
+aS'Pompadour'
+p4589
 aVFrance
+p4590
+aV19230
+p4591
+aVFrance métropolitaine
+p4592
+aa(lp4593
+S'Jean-Michel Esponda'
+p4594
+aS'1967'
+p4595
+aS'Prop'
+p4596
+aS'10'
+p4597
+aS'1'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Hendaye'
+p4598
+aVFrance
+p4599
+aV64700
 p4600
-aV11100
+aVFrance métropolitaine
 p4601
-aVFrance métropolitaine
-p4602
-aa(lp4603
-S'Jacques Londios'
+aa(lp4602
+S'Andre Quilis'
+p4603
+aS'1967'
 p4604
-aS'1967'
+aS'Flanker, Wing'
 p4605
-aS'Wing'
+aS'5'
+aS'1'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'Coursan'
 p4606
-aS'Montauban'
+aVFrance
 p4607
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
+aV11110
 p4608
-aV82000
+aVFrance métropolitaine
 p4609
-aVFrance métropolitaine
-p4610
-aa(lp4611
-S'Jean Trillo'
+aa(lp4610
+S'Jean-Louis Dehez'
+p4611
+aS'1967'
 p4612
-aS'1967'
+aS'Fly-half, Fullback'
 p4613
-aS'Centre'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'11'
 p4614
-aS'Condom'
+aS'Mont-de-Marsan'
 p4615
-aS'28'
+aVFrance
 p4616
-aS'12'
+aV40000
 p4617
-aS'6'
-aS'19'
+aVFrance métropolitaine
 p4618
-aVFrance
-p4619
-aV32100
+aa(lp4619
+S'Michel Lasserre'
 p4620
-aVFrance métropolitaine
+aS'1967'
 p4621
-aa(lp4622
-S'Jacques Crampagne'
-p4623
-aS'1967'
-p4624
-aS'Fullback, Wing'
-p4625
-aS'Foix'
-p4626
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p4627
-aV09000
-p4628
-aVFrance métropolitaine
-p4629
-aa(lp4630
-S'Jean-Michel Capendeguy'
-p4631
-aS'1967'
-p4632
-aS'Wing'
-p4633
-aS'Ciboure'
-p4634
-aS'2'
-aS'1'
-aS'1'
-aS'3'
-aVFrance
-p4635
-aV64500
-p4636
-aVFrance métropolitaine
-p4637
-aa(lp4638
-S'Jean-Jacques Lenient'
-p4639
-aS'1967'
-p4640
-aS'Wing'
-p4641
-aS'Saint-Prix'
-p4642
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p4643
-aV07270
-p4644
-aVFrance métropolitaine
-p4645
-aa(lp4646
-S'Jean-Henri Mir'
-p4647
-aS'1967'
-p4648
-aS'Scrum-half'
-p4649
-aS'Saint-Lary'
-p4650
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p4651
-aVFrance métropolitaine
-p4652
-aVAquitaine
-p4653
-aa(lp4654
-S'Jean-Marie Bonal'
-p4655
-aS'1968'
-p4656
-aS'Wing'
-p4657
-aS'Saint-Cirgues-de-Jor'
-p4658
-aS'14'
-p4659
-aS'5'
-aS'5'
+aS'Lock, No. 8, Prop'
+p4622
 aS'15'
-p4660
+p4623
+aS'5'
+aS'9'
+aS'1'
+aS'0'
+aS'0'
+aS'Le Cause'
+p4624
+aVFrance
+p4625
+aV13100
+p4626
+aVFrance métropolitaine
+p4627
+aa(lp4628
+S'Jean-Claude Malbet'
+p4629
+aS'1967'
+p4630
+aS'Hooker'
+p4631
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Larresingle'
+p4632
 aS'g'
 aS'n'
 aS'i'
-aa(lp4661
-S'Jean-Claude Noble'
-p4662
-aS'1968'
-p4663
-aS'Prop'
-p4664
-aS'Marseille'
-p4665
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p4666
-aVFrance métropolitaine
-p4667
-aVProvence-Alpes-Côte d'Azur
-p4668
-aa(lp4669
-S'Michel Yachvili'
-p4670
-aS'1968'
-p4671
-aS'Hooker, Flanker'
-p4672
-aS'Tulle'
-p4673
-aS'15'
-p4674
+aa(lp4633
+S'Alain Plantefol'
+p4634
+aS'1967'
+p4635
+aS'Lock'
+p4636
+aS'11'
+p4637
 aS'5'
+aS'4'
+aS'2'
+aS'1'
+aS'3'
+aS'Colombes'
+p4638
+aVFrance
+p4639
+aV92700
+p4640
+aVFrance métropolitaine
+p4641
+aa(lp4642
+S'Gerard Sutra'
+p4643
+aS'1967'
+p4644
+aS'Scrum-half'
+p4645
+aS'4'
+aS'2'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'Narbonne'
+p4646
+aVFrance
+p4647
+aV11100
+p4648
+aVFrance métropolitaine
+p4649
+aa(lp4650
+S'Jacques Londios'
+p4651
+aS'1967'
+p4652
+aS'Wing'
+p4653
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Montauban'
+p4654
+aVFrance
+p4655
+aV82000
+p4656
+aVFrance métropolitaine
+p4657
+aa(lp4658
+S'Jean Trillo'
+p4659
+aS'1967'
+p4660
+aS'Centre'
+p4661
+aS'28'
+p4662
+aS'12'
+p4663
+aS'11'
+p4664
+aS'5'
+aS'6'
+aS'19'
+p4665
+aS'Condom'
+p4666
+aVFrance
+p4667
+aV32100
+p4668
+aVFrance métropolitaine
+p4669
+aa(lp4670
+S'Jacques Crampagne'
+p4671
+aS'1967'
+p4672
+aS'Fullback, Wing'
+p4673
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Foix'
+p4674
 aVFrance
 p4675
-aV19000
+aV09000
 p4676
 aVFrance métropolitaine
 p4677
 aa(lp4678
-S'Michel Greffe'
+S'Jean-Michel Capendeguy'
 p4679
-aS'1968'
+aS'1967'
 p4680
-aS'Back-row'
+aS'Wing'
 p4681
-aS'Lyon'
-p4682
-aS'5'
 aS'2'
+aS'1'
+aS'1'
 aS'0'
-aS'0'
+aS'1'
+aS'3'
+aS'Ciboure'
+p4682
 aVFrance
 p4683
-aVFrance métropolitaine
+aV64500
 p4684
-aVRhône-Alpes
+aVFrance métropolitaine
 p4685
 aa(lp4686
-S'Jean-Paul Baux'
+S'Jean-Jacques Lenient'
 p4687
-aS'1968'
+aS'1967'
 p4688
-aS'Hooker'
+aS'Wing'
 p4689
-aS'Larroque'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Prix'
 p4690
-aS'4'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p4691
-aV65230
+aV07270
 p4692
 aVFrance métropolitaine
 p4693
 aa(lp4694
-S'Jean Iracabal'
+S'Jean-Henri Mir'
 p4695
-aS'1968'
+aS'1967'
 p4696
-aS'Prop'
+aS'Scrum-half'
 p4697
-aS'Larressore'
-p4698
-aS'34'
-p4699
-aS'15'
-p4700
-aS'0'
-aS'0'
-aVFrance
-p4701
-aV64480
-p4702
-aVFrance métropolitaine
-p4703
-aa(lp4704
-S'Andre Piazza'
-p4705
-aS'1968'
-p4706
-aS'Wing'
-p4707
-aS'Moissac'
-p4708
+aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'0'
+aS'Saint-Lary'
+p4698
 aVFrance
-p4709
-aV82200
-p4710
+p4699
 aVFrance métropolitaine
-p4711
-aa(lp4712
-S'Christian Boujet'
-p4713
+p4700
+aVAquitaine
+p4701
+aa(lp4702
+S'Jean-Marie Bonal'
+p4703
 aS'1968'
+p4704
+aS'Wing'
+p4705
+aS'14'
+p4706
+aS'5'
+aS'9'
+aS'0'
+aS'5'
+aS'15'
+p4707
+aS'Saint-Cirgues-de-Jor'
+p4708
+aS'g'
+aS'n'
+aS'i'
+aa(lp4709
+S'Jean-Claude Noble'
+p4710
+aS'1968'
+p4711
+aS'Prop'
+p4712
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Marseille'
+p4713
+aVFrance
 p4714
-aS'Fullback, Fly-half'
+aVFrance métropolitaine
 p4715
-aS'Jarrie'
+aVProvence-Alpes-Côte d'Azur
 p4716
+aa(lp4717
+S'Michel Yachvili'
+p4718
+aS'1968'
+p4719
+aS'Hooker, Flanker'
+p4720
+aS'15'
+p4721
+aS'5'
+aS'8'
+aS'2'
+aS'0'
+aS'0'
+aS'Tulle'
+p4722
+aVFrance
+p4723
+aV19000
+p4724
+aVFrance métropolitaine
+p4725
+aa(lp4726
+S'Michel Greffe'
+p4727
+aS'1968'
+p4728
+aS'Back-row'
+p4729
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Lyon'
+p4730
+aVFrance
+p4731
+aVFrance métropolitaine
+p4732
+aVRhône-Alpes
+p4733
+aa(lp4734
+S'Jean-Paul Baux'
+p4735
+aS'1968'
+p4736
+aS'Hooker'
+p4737
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Larroque'
+p4738
+aVFrance
+p4739
+aV65230
+p4740
+aVFrance métropolitaine
+p4741
+aa(lp4742
+S'Jean Iracabal'
+p4743
+aS'1968'
+p4744
+aS'Prop'
+p4745
+aS'34'
+p4746
+aS'15'
+p4747
+aS'15'
+p4748
+aS'4'
+aS'0'
+aS'0'
+aS'Larressore'
+p4749
+aVFrance
+p4750
+aV64480
+p4751
+aVFrance métropolitaine
+p4752
+aa(lp4753
+S'Andre Piazza'
+p4754
+aS'1968'
+p4755
+aS'Wing'
+p4756
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Moissac'
+p4757
+aVFrance
+p4758
+aV82200
+p4759
+aVFrance métropolitaine
+p4760
+aa(lp4761
+S'Christian Boujet'
+p4762
+aS'1968'
+p4763
+aS'Fullback, Fly-half'
+p4764
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'1'
 aS'5'
+aS'Jarrie'
+p4765
 aVFrance
-p4717
+p4766
 aV38560
-p4718
+p4767
 aVFrance métropolitaine
-p4719
-aa(lp4720
+p4768
+aa(lp4769
 S'Bernard Dutin'
-p4721
+p4770
 aS'1968'
-p4722
+p4771
 aS'Lock, Flanker'
-p4723
-aS'Thomes'
-p4724
+p4772
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'Thomes'
+p4773
 aVÖsterreich
-p4725
+p4774
 aV6170
-p4726
+p4775
 aVTirol
-p4727
-aa(lp4728
+p4776
+aa(lp4777
 S'Jean-Louis Berot'
-p4729
+p4778
 aS'1968'
-p4730
+p4779
 aS'Scrum-half, Fly-half'
-p4731
-aS'Dax'
-p4732
+p4780
 aS'21'
-p4733
+p4781
 aS'7'
+aS'10'
+p4782
+aS'4'
 aS'1'
 aS'23'
-p4734
-aVFrance
-p4735
-aV40100
-p4736
-aVFrance métropolitaine
-p4737
-aa(lp4738
-S'Michel Billiere'
-p4739
-aS'1968'
-p4740
-aS'Back-row'
-p4741
-aS'Salles-sur-Garonne'
-p4742
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p4743
-aV31390
-p4744
-aVFrance métropolitaine
-p4745
-aa(lp4746
-S'Claude Chenevay'
-p4747
-aS'1968'
-p4748
-aS'Flanker'
-p4749
-aS'Grenoble'
-p4750
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p4751
-aV38000;38100
-p4752
-aVFrance métropolitaine
-p4753
-aa(lp4754
-S'Henri Magois'
-p4755
-aS'1968'
-p4756
-aS'Fullback'
-p4757
-aS'La Rochelle'
-p4758
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p4759
-aV17000
-p4760
-aVFrance métropolitaine
-p4761
-aa(lp4762
-S'Dominique Bontemps'
-p4763
-aS'1968'
-p4764
-aS'Flanker'
-p4765
-aS'Rochefort'
-p4766
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p4767
-aV17300
-p4768
-aVFrance métropolitaine
-p4769
-aa(lp4770
-S'Lucien Paries'
-p4771
-aS'1968'
-p4772
-aS'Fly-half'
-p4773
-aS'Anglet'
-p4774
-aS'8'
-aS'4'
-aS'0'
-aS'46'
-p4775
-aVFrance
-p4776
-aV64600
-p4777
-aVFrance métropolitaine
-p4778
-aa(lp4779
-S'Andre Ruiz'
-p4780
-aS'1968'
-p4781
-aS'Centre'
-p4782
-aS'Semeac'
 p4783
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
+aS'Dax'
 p4784
-aV65600
+aVFrance
 p4785
-aVFrance métropolitaine
+aV40100
 p4786
-aa(lp4787
-S'Jean Sillieres'
-p4788
-aS'1968'
+aVFrance métropolitaine
+p4787
+aa(lp4788
+S'Michel Billiere'
 p4789
-aS'Wing'
+aS'1968'
 p4790
-aS'Marciac'
+aS'Back-row'
 p4791
-aS'8'
-aS'4'
-aS'3'
-aS'10'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Salles-sur-Garonne'
 p4792
 aVFrance
 p4793
-aV32230
+aV31390
 p4794
 aVFrance métropolitaine
 p4795
 aa(lp4796
-S'Pierre Biemouret'
+S'Claude Chenevay'
 p4797
-aS'1969'
+aS'1968'
 p4798
 aS'Flanker'
 p4799
-aS"Mas d'Auvignon"
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Grenoble'
 p4800
-aS'19'
+aVFrance
 p4801
-aS'8'
-aS'1'
-aS'4'
-aVFrance
+aV38000;38100
 p4802
-aV32700
-p4803
 aVFrance métropolitaine
-p4804
-aa(lp4805
-S'Michel Hauser'
+p4803
+aa(lp4804
+S'Henri Magois'
+p4805
+aS'1968'
 p4806
-aS'1969'
+aS'Fullback'
 p4807
-aS'Flanker'
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'La Rochelle'
 p4808
-aS'Lourdes'
+aVFrance
 p4809
+aV17000
+p4810
+aVFrance métropolitaine
+p4811
+aa(lp4812
+S'Dominique Bontemps'
+p4813
+aS'1968'
+p4814
+aS'Flanker'
+p4815
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVFrance
-p4810
-aV65100
-p4811
-aVFrance métropolitaine
-p4812
-aa(lp4813
-S'Basile Moraitis'
-p4814
-aS'1969'
-p4815
-aS'Wing'
+aS'Rochefort'
 p4816
-aS'Marseille'
-p4817
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
+p4817
+aV17300
 p4818
 aVFrance métropolitaine
 p4819
-aVProvence-Alpes-Côte d'Azur
-p4820
-aa(lp4821
-S'Christian Swierczinski'
+aa(lp4820
+S'Lucien Paries'
+p4821
+aS'1968'
 p4822
-aS'1969'
+aS'Fly-half'
 p4823
-aS'Hooker'
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'46'
 p4824
-aS'Saint-Mayme-de-Perey'
+aS'Anglet'
 p4825
+aVFrance
+p4826
+aV64600
+p4827
+aVFrance métropolitaine
+p4828
+aa(lp4829
+S'Andre Ruiz'
+p4830
+aS'1968'
+p4831
+aS'Centre'
+p4832
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp4826
-S'Jean-Louis Azarete'
-p4827
-aS'1969'
-p4828
-aS'Prop'
-p4829
-aS'Urrugne'
-p4830
-aS'26'
-p4831
-aS'11'
-p4832
-aS'0'
-aS'0'
-aVFrance
+aS'Semeac'
 p4833
-aV64122;64700
+aVFrance
 p4834
-aVFrance métropolitaine
+aV65600
 p4835
-aa(lp4836
-S'Rene Benesis'
-p4837
-aS'1969'
+aVFrance métropolitaine
+p4836
+aa(lp4837
+S'Jean Sillieres'
 p4838
-aS'Hooker'
+aS'1968'
 p4839
-aS'Orthez'
+aS'Wing'
 p4840
-aS'30'
+aS'8'
+aS'4'
+aS'2'
+aS'2'
+aS'3'
+aS'10'
 p4841
-aS'15'
+aS'Marciac'
 p4842
-aS'0'
-aS'0'
 aVFrance
 p4843
-aV64300
+aV32230
 p4844
 aVFrance métropolitaine
 p4845
 aa(lp4846
-S'Gerard Viard'
+S'Pierre Biemouret'
 p4847
 aS'1969'
 p4848
-aS'Centre, Flanker'
+aS'Flanker'
 p4849
-aS'Saint-Jean-de-Saucie'
+aS'19'
 p4850
-aS'5'
-aS'3'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp4851
-S'Jean-Pierre Bastiat'
-p4852
-aS'1969'
-p4853
-aS'No. 8, Lock'
-p4854
-aS'Pouillon'
-p4855
-aS'32'
-p4856
-aS'21'
-p4857
-aS'4'
-aS'24'
-p4858
-aVFrance
-p4859
-aV40350
-p4860
-aVFrance métropolitaine
-p4861
-aa(lp4862
-S'Roger Bourgarel'
-p4863
-aS'1969'
-p4864
-aS'Wing'
-p4865
-aS'Toulouse'
-p4866
+aS'8'
 aS'9'
-aS'6'
+aS'2'
 aS'1'
-aS'3'
+aS'4'
+aS"Mas d'Auvignon"
+p4851
 aVFrance
+p4852
+aV32700
+p4853
+aVFrance métropolitaine
+p4854
+aa(lp4855
+S'Michel Hauser'
+p4856
+aS'1969'
+p4857
+aS'Flanker'
+p4858
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Lourdes'
+p4859
+aVFrance
+p4860
+aV65100
+p4861
+aVFrance métropolitaine
+p4862
+aa(lp4863
+S'Basile Moraitis'
+p4864
+aS'1969'
+p4865
+aS'Wing'
+p4866
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Marseille'
 p4867
-aV31000;31100;31200;31300;31400;31500
+aVFrance
 p4868
 aVFrance métropolitaine
 p4869
-aa(lp4870
-S'Pierre Darbos'
-p4871
-aS'1969'
+aVProvence-Alpes-Côte d'Azur
+p4870
+aa(lp4871
+S'Christian Swierczinski'
 p4872
-aS'Flanker'
+aS'1969'
 p4873
-aS'Saint-Paul-les-Dax'
+aS'Hooker'
 p4874
+aS'2'
+aS'0'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVFrance
+aS'Saint-Mayme-de-Perey'
 p4875
-aV40990
-p4876
-aVFrance métropolitaine
+aS'g'
+aS'n'
+aS'i'
+aa(lp4876
+S'Jean-Louis Azarete'
 p4877
-aa(lp4878
-S'Alain Marot'
+aS'1969'
+p4878
+aS'Prop'
 p4879
-aS'1969'
+aS'26'
 p4880
-aS'Centre'
+aS'11'
 p4881
-aS'Bergerac'
+aS'10'
 p4882
-aS'7'
-aS'4'
+aS'5'
 aS'0'
 aS'0'
-aVFrance
+aS'Urrugne'
 p4883
-aV24100
+aVFrance
 p4884
-aVFrance métropolitaine
+aV64122;64700
 p4885
-aa(lp4886
-S'Michel Savitsky'
-p4887
-aS'1969'
+aVFrance métropolitaine
+p4886
+aa(lp4887
+S'Rene Benesis'
 p4888
-aS'Lock'
+aS'1969'
 p4889
-aS'Sarrians'
+aS'Hooker'
 p4890
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
+aS'30'
 p4891
-aV84260
-p4892
-aVFrance métropolitaine
-p4893
-aa(lp4894
-S'Jack Cantoni'
-p4895
-aS'1970'
-p4896
-aS'Fullback, Wing'
-p4897
-aS'Carmaux'
-p4898
-aS'17'
-p4899
-aS'6'
-aS'3'
-aS'13'
-p4900
-aVFrance
-p4901
-aV81400
-p4902
-aVFrance métropolitaine
-p4903
-aa(lp4904
-S'Michel Pebeyre'
-p4905
-aS'1970'
-p4906
-aS'Scrum-half'
-p4907
-aS'Brive'
-p4908
-aS'7'
-aS'3'
-aS'1'
-aS'3'
-aVFrance
-p4909
-aV01470
-p4910
-aVFrance métropolitaine
-p4911
-aa(lp4912
-S'Max Barrau'
-p4913
-aS'1971'
-p4914
-aS'Scrum-half'
-p4915
-aS'Beaumont-de-Lomagne'
-p4916
 aS'15'
-p4917
+p4892
+aS'9'
+aS'6'
+aS'0'
+aS'0'
+aS'Orthez'
+p4893
+aVFrance
+p4894
+aV64300
+p4895
+aVFrance métropolitaine
+p4896
+aa(lp4897
+S'Gerard Viard'
+p4898
+aS'1969'
+p4899
+aS'Centre, Flanker'
+p4900
+aS'5'
+aS'3'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'Saint-Jean-de-Saucie'
+p4901
+aS'g'
+aS'n'
+aS'i'
+aa(lp4902
+S'Jean-Pierre Bastiat'
+p4903
+aS'1969'
+p4904
+aS'No. 8, Lock'
+p4905
+aS'32'
+p4906
+aS'21'
+p4907
 aS'8'
-aS'1'
+aS'3'
 aS'4'
+aS'24'
+p4908
+aS'Pouillon'
+p4909
+aVFrance
+p4910
+aV40350
+p4911
+aVFrance métropolitaine
+p4912
+aa(lp4913
+S'Roger Bourgarel'
+p4914
+aS'1969'
+p4915
+aS'Wing'
+p4916
+aS'9'
+aS'6'
+aS'2'
+aS'1'
+aS'1'
+aS'3'
+aS'Toulouse'
+p4917
 aVFrance
 p4918
-aV82500
+aV31000;31100;31200;31300;31400;31500
 p4919
 aVFrance métropolitaine
 p4920
 aa(lp4921
-S'Daniel Dubois'
+S'Pierre Darbos'
 p4922
-aS'1971'
+aS'1969'
 p4923
 aS'Flanker'
 p4924
-aS'Le Havre'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Paul-les-Dax'
 p4925
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
 p4926
-aV76600;76610;76620
+aV40990
 p4927
 aVFrance métropolitaine
 p4928
 aa(lp4929
-S'Marc Etcheverry'
+S'Alain Marot'
 p4930
-aS'1971'
+aS'1969'
 p4931
-aS'Prop'
+aS'Centre'
 p4932
-aS'Pau'
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Bergerac'
 p4933
-aS'2'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
 p4934
-aV64000
+aV24100
 p4935
 aVFrance métropolitaine
 p4936
 aa(lp4937
-S'Roland Bertranne'
+S'Michel Savitsky'
 p4938
-aS'1971'
+aS'1969'
 p4939
-aS'Wing, Centre'
+aS'Lock'
 p4940
-aS'Ibos'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Sarrians'
 p4941
-aS'69'
+aVFrance
 p4942
-aS'38'
+aV84260
 p4943
-aS'17'
+aVFrance métropolitaine
 p4944
-aS'66'
-p4945
-aVFrance
+aa(lp4945
+S'Jack Cantoni'
 p4946
-aV65420
+aS'1970'
 p4947
-aVFrance métropolitaine
+aS'Fullback, Wing'
 p4948
-aa(lp4949
-S'Claude Spanghero'
-p4950
-aS'1971'
-p4951
-aS'Lock, No. 8'
-p4952
-aS"Payra-sur-l'Hers"
-p4953
-aNaNaNaNaVFrance
-p4954
-aV11410
-p4955
-aVFrance métropolitaine
-p4956
-aa(lp4957
-S'Alain Esteve'
-p4958
-aS'1971'
-p4959
-aS'Lock, Flanker, No. 8'
-p4960
-aS'Castelnaudary'
-p4961
-aS'20'
-p4962
-aS'7'
-aS'0'
-aS'0'
-aVFrance
-p4963
-aV11400
-p4964
-aVFrance métropolitaine
-p4965
-aa(lp4966
-S'Jean-Claude Skrela'
-p4967
-aS'1971'
-p4968
-aS'Flanker'
-p4969
-aS'Cornebarrieu'
-p4970
-aS'46'
-p4971
-aS'27'
-p4972
+aS'17'
+p4949
 aS'6'
-aS'24'
-p4973
+aS'8'
+aS'3'
+aS'3'
+aS'13'
+p4950
+aS'Carmaux'
+p4951
 aVFrance
-p4974
-aV31700
-p4975
+p4952
+aV81400
+p4953
 aVFrance métropolitaine
-p4976
-aa(lp4977
-S'Jean-Michel Aguirre'
-p4978
+p4954
+aa(lp4955
+S'Michel Pebeyre'
+p4956
+aS'1970'
+p4957
+aS'Scrum-half'
+p4958
+aS'7'
+aS'3'
+aS'2'
+aS'2'
+aS'1'
+aS'3'
+aS'Brive'
+p4959
+aVFrance
+p4960
+aV01470
+p4961
+aVFrance métropolitaine
+p4962
+aa(lp4963
+S'Max Barrau'
+p4964
 aS'1971'
+p4965
+aS'Scrum-half'
+p4966
+aS'15'
+p4967
+aS'8'
+aS'5'
+aS'2'
+aS'1'
+aS'4'
+aS'Beaumont-de-Lomagne'
+p4968
+aVFrance
+p4969
+aV82500
+p4970
+aVFrance métropolitaine
+p4971
+aa(lp4972
+S'Daniel Dubois'
+p4973
+aS'1971'
+p4974
+aS'Flanker'
+p4975
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Le Havre'
+p4976
+aVFrance
+p4977
+aV76600;76610;76620
+p4978
+aVFrance métropolitaine
 p4979
-aS'Scrum-half, Fullback'
-p4980
-aS'Tostat'
+aa(lp4980
+S'Marc Etcheverry'
 p4981
-aS'39'
+aS'1971'
 p4982
-aS'25'
+aS'Prop'
 p4983
 aS'2'
-aS'123'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Pau'
 p4984
 aVFrance
 p4985
-aV65140
+aV64000
 p4986
 aVFrance métropolitaine
 p4987
 aa(lp4988
-S'Victor Boffelli'
+S'Roland Bertranne'
 p4989
 aS'1971'
 p4990
-aS'Flanker'
+aS'Wing, Centre'
 p4991
-aS'Arques'
+aS'69'
 p4992
-aS'18'
+aS'38'
 p4993
-aS'8'
-aS'2'
-aS'8'
-aVFrance
+aS'25'
 p4994
-aV11190
+aS'6'
+aS'17'
 p4995
-aVFrance métropolitaine
+aS'66'
 p4996
-aa(lp4997
-S'Yvan Buonomo'
+aS'Ibos'
+p4997
+aVFrance
 p4998
-aS'1971'
+aV65420
 p4999
-aS'No. 8'
+aVFrance métropolitaine
 p5000
-aS'Sete'
-p5001
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
+aa(lp5001
+S'Claude Spanghero'
 p5002
-aV34200
+aS'1971'
 p5003
-aVFrance métropolitaine
+aS'Lock, No. 8'
 p5004
-aa(lp5005
-S'Andre Dubertrand'
+aNaNaNaNaNaNaS"Payra-sur-l'Hers"
+p5005
+aVFrance
 p5006
-aS'1971'
+aV11410
 p5007
-aS'Wing'
+aVFrance métropolitaine
 p5008
-aS'Saubion'
-p5009
-aS'12'
+aa(lp5009
+S'Alain Esteve'
 p5010
-aS'8'
-aS'5'
-aS'20'
+aS'1971'
 p5011
-aVFrance
+aS'Lock, Flanker, No. 8'
 p5012
-aV40230
+aS'20'
 p5013
-aVFrance métropolitaine
+aS'7'
+aS'11'
 p5014
-aa(lp5015
-S'Jean-Pierre Hortoland'
-p5016
-aS'1971'
-p5017
-aS'Prop'
-p5018
-aS'Marseillan'
-p5019
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p5020
-aV34340
-p5021
-aVFrance métropolitaine
-p5022
-aa(lp5023
-S'Jean-Louis Martin'
-p5024
-aS'1971'
-p5025
-aS'Prop'
-p5026
-aS'Beziers'
-p5027
-aS'4'
 aS'2'
 aS'0'
 aS'0'
+aS'Castelnaudary'
+p5015
+aVFrance
+p5016
+aV11400
+p5017
+aVFrance métropolitaine
+p5018
+aa(lp5019
+S'Jean-Claude Skrela'
+p5020
+aS'1971'
+p5021
+aS'Flanker'
+p5022
+aS'46'
+p5023
+aS'27'
+p5024
+aS'14'
+p5025
+aS'5'
+aS'6'
+aS'24'
+p5026
+aS'Cornebarrieu'
+p5027
 aVFrance
 p5028
-aV34500
+aV31700
 p5029
 aVFrance métropolitaine
 p5030
 aa(lp5031
-S'Richard Astre'
+S'Jean-Michel Aguirre'
 p5032
 aS'1971'
 p5033
-aS'Scrum-half'
+aS'Scrum-half, Fullback'
 p5034
-aS'Toulouse'
+aS'39'
 p5035
-aS'11'
+aS'25'
 p5036
-aS'5'
-aS'1'
-aS'10'
+aS'11'
 p5037
-aVFrance
+aS'3'
+aS'2'
+aS'123'
 p5038
-aV31000;31100;31200;31300;31400;31500
+aS'Tostat'
 p5039
-aVFrance métropolitaine
+aVFrance
 p5040
-aa(lp5041
-S'Olivier Saisset'
+aV65140
+p5041
+aVFrance métropolitaine
 p5042
-aS'1971'
-p5043
-aS'Back-row'
+aa(lp5043
+S'Victor Boffelli'
 p5044
-aS'Le Poujol-sur-Oub'
+aS'1971'
 p5045
-aS'17'
+aS'Flanker'
 p5046
-aS'9'
+aS'18'
+p5047
+aS'8'
+aS'8'
+aS'2'
 aS'2'
 aS'8'
+aS'Arques'
+p5048
+aVFrance
+p5049
+aV11190
+p5050
+aVFrance métropolitaine
+p5051
+aa(lp5052
+S'Yvan Buonomo'
+p5053
+aS'1971'
+p5054
+aS'No. 8'
+p5055
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Sete'
+p5056
+aVFrance
+p5057
+aV34200
+p5058
+aVFrance métropolitaine
+p5059
+aa(lp5060
+S'Andre Dubertrand'
+p5061
+aS'1971'
+p5062
+aS'Wing'
+p5063
+aS'12'
+p5064
+aS'8'
+aS'2'
+aS'2'
+aS'5'
+aS'20'
+p5065
+aS'Saubion'
+p5066
+aVFrance
+p5067
+aV40230
+p5068
+aVFrance métropolitaine
+p5069
+aa(lp5070
+S'Jean-Pierre Hortoland'
+p5071
+aS'1971'
+p5072
+aS'Prop'
+p5073
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Marseillan'
+p5074
+aVFrance
+p5075
+aV34340
+p5076
+aVFrance métropolitaine
+p5077
+aa(lp5078
+S'Jean-Louis Martin'
+p5079
+aS'1971'
+p5080
+aS'Prop'
+p5081
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Beziers'
+p5082
+aVFrance
+p5083
+aV34500
+p5084
+aVFrance métropolitaine
+p5085
+aa(lp5086
+S'Richard Astre'
+p5087
+aS'1971'
+p5088
+aS'Scrum-half'
+p5089
+aS'11'
+p5090
+aS'5'
+aS'6'
+aS'0'
+aS'1'
+aS'10'
+p5091
+aS'Toulouse'
+p5092
+aVFrance
+p5093
+aV31000;31100;31200;31300;31400;31500
+p5094
+aVFrance métropolitaine
+p5095
+aa(lp5096
+S'Olivier Saisset'
+p5097
+aS'1971'
+p5098
+aS'Back-row'
+p5099
+aS'17'
+p5100
+aS'9'
+aS'7'
+aS'1'
+aS'2'
+aS'8'
+aS'Le Poujol-sur-Oub'
+p5101
 aS'g'
 aS'n'
 aS'i'
-aa(lp5047
-S'Armand Vaquerin'
-p5048
-aS'1971'
-p5049
-aS'Prop'
-p5050
-aS'Severac-le-Chateau'
-p5051
-aS'26'
-p5052
-aS'11'
-p5053
-aS'0'
-aS'0'
-aVFrance
-p5054
-aV12150
-p5055
-aVFrance métropolitaine
-p5056
-aa(lp5057
-S'Jacques Fouroux'
-p5058
-aS'1972'
-p5059
-aS'Scrum-half'
-p5060
-aS'Auch'
-p5061
-aS'27'
-p5062
-aS'17'
-p5063
-aS'5'
-aS'20'
-p5064
-aVFrance
-p5065
-aV32000
-p5066
-aVFrance métropolitaine
-p5067
-aa(lp5068
-S'Henri Cabrol'
-p5069
-aS'1972'
-p5070
-aS'Fly-half'
-p5071
-aS'Bize-Minervois'
-p5072
-aS'4'
-aS'2'
-aS'0'
-aS'8'
-aVFrance
-p5073
-aV11120
-p5074
-aVFrance métropolitaine
-p5075
-aa(lp5076
-S'Andre Lubrano'
-p5077
-aS'1972'
-p5078
-aS'Hooker'
-p5079
-aS'Sete'
-p5080
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p5081
-aV34200
-p5082
-aVFrance métropolitaine
-p5083
-aa(lp5084
-S'Jean-Claude Rossignol'
-p5085
-aS'1972'
-p5086
-aS'Prop, Lock'
-p5087
-aS'Grignols'
-p5088
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p5089
-aV24110
-p5090
-aVFrance métropolitaine
-p5091
-aa(lp5092
-S'Michel Droitecourt'
-p5093
-aS'1972'
-p5094
-aS'Fullback, Wing'
-p5095
-aS'Meaux'
-p5096
-aS'17'
-p5097
-aS'9'
-aS'2'
-aS'14'
-p5098
-aVFrance
-p5099
-aV77100
-p5100
-aVFrance métropolitaine
-p5101
 aa(lp5102
-S'Jean-Pierre Romeu'
+S'Armand Vaquerin'
 p5103
-aS'1972'
+aS'1971'
 p5104
-aS'Fly-half'
+aS'Prop'
 p5105
-aS'Thuir'
+aS'26'
 p5106
-aS'34'
+aS'11'
 p5107
-aS'21'
+aS'11'
 p5108
 aS'4'
-aS'265'
+aS'0'
+aS'0'
+aS'Severac-le-Chateau'
 p5109
 aVFrance
 p5110
-aV66300
+aV12150
 p5111
 aVFrance métropolitaine
 p5112
 aa(lp5113
-S'Andre Darrieussecq'
+S'Jacques Fouroux'
 p5114
-aS'1973'
+aS'1972'
 p5115
-aS'Prop'
+aS'Scrum-half'
 p5116
-aS'Saint-Jean-de-Luz'
+aS'27'
 p5117
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
+aS'17'
 p5118
-aV64500
+aS'7'
+aS'3'
+aS'5'
+aS'20'
 p5119
-aVFrance métropolitaine
+aS'Auch'
 p5120
-aa(lp5121
-S'Christian Badin'
+aVFrance
+p5121
+aV32000
 p5122
-aS'1973'
+aVFrance métropolitaine
 p5123
-aS'Centre'
-p5124
-aS'Pont-de-Vaux'
+aa(lp5124
+S'Henri Cabrol'
 p5125
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
+aS'1972'
 p5126
-aV01190
+aS'Fly-half'
 p5127
-aVFrance métropolitaine
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'8'
+aS'Bize-Minervois'
 p5128
-aa(lp5129
-S'Jean-Francois Phliponeau'
+aVFrance
+p5129
+aV11120
 p5130
-aS'1973'
+aVFrance métropolitaine
 p5131
-aS'Wing'
-p5132
-aS"Fort-de-l'Eau"
+aa(lp5132
+S'Andre Lubrano'
 p5133
-aS'2'
-aS'1'
-aS'1'
-aS'4'
-aVFrance
+aS'1972'
 p5134
-aV92100
+aS'Hooker'
 p5135
-aVFrance métropolitaine
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Sete'
 p5136
-aa(lp5137
-S'Gilles Delaigue'
+aVFrance
+p5137
+aV34200
 p5138
-aS'1973'
+aVFrance métropolitaine
 p5139
-aS'Centre'
-p5140
-aS'Sainte-Colombe'
+aa(lp5140
+S'Jean-Claude Rossignol'
 p5141
-aS'2'
-aS'2'
-aS'1'
-aS'4'
-aVFrance
+aS'1972'
 p5142
-aV69560
+aS'Prop, Lock'
 p5143
-aVFrance métropolitaine
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Grignols'
 p5144
-aa(lp5145
-S'Jacques Rougerie'
+aVFrance
+p5145
+aV24110
 p5146
-aS'1973'
+aVFrance métropolitaine
 p5147
-aS'Prop, Hooker'
-p5148
-aS'Pamiers'
+aa(lp5148
+S'Michel Droitecourt'
 p5149
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
+aS'1972'
 p5150
-aV09100
+aS'Fullback, Wing'
 p5151
-aVFrance métropolitaine
+aS'17'
 p5152
-aa(lp5153
-S'Michel Sappa'
+aS'9'
+aS'6'
+aS'2'
+aS'2'
+aS'14'
+p5153
+aS'Meaux'
 p5154
-aS'1973'
+aVFrance
 p5155
-aS'Lock'
+aV77100
 p5156
-aS'Toulon'
+aVFrance métropolitaine
 p5157
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p5158
-aV83000;83100;83200
+aa(lp5158
+S'Jean-Pierre Romeu'
 p5159
-aVFrance métropolitaine
+aS'1972'
 p5160
-aa(lp5161
-S'Rene Seguier'
+aS'Fly-half'
+p5161
+aS'34'
 p5162
-aS'1973'
+aS'21'
 p5163
-aS'Wing'
+aS'10'
 p5164
-aS'Vendres'
+aS'3'
+aS'4'
+aS'265'
 p5165
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
+aS'Thuir'
 p5166
-aV34350
+aVFrance
 p5167
-aVFrance métropolitaine
+aV66300
 p5168
-aa(lp5169
-S'Jean Costantino'
-p5170
-aS'1973'
+aVFrance métropolitaine
+p5169
+aa(lp5170
+S'Andre Darrieussecq'
 p5171
-aS'Prop, Hooker'
+aS'1973'
 p5172
-aS'Montauban'
+aS'Prop'
 p5173
 aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aVFrance
+aS'0'
+aS'Saint-Jean-de-Luz'
 p5174
-aV82000
-p5175
-aVFrance métropolitaine
-p5176
-aa(lp5177
-S'Daniel Kaczorowski'
-p5178
-aS'1974'
-p5179
-aS'Flanker'
-p5180
-aS'Le Creusot'
-p5181
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
-p5182
-aV71200
-p5183
+p5175
+aV64500
+p5176
 aVFrance métropolitaine
+p5177
+aa(lp5178
+S'Christian Badin'
+p5179
+aS'1973'
+p5180
+aS'Centre'
+p5181
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pont-de-Vaux'
+p5182
+aVFrance
+p5183
+aV01190
 p5184
-aa(lp5185
-S'Joel Pecune'
-p5186
-aS'1974'
+aVFrance métropolitaine
+p5185
+aa(lp5186
+S'Jean-Francois Phliponeau'
 p5187
-aS'Wing, Centre'
+aS'1973'
 p5188
-aS'Ibos'
+aS'Wing'
 p5189
-aS'10'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS"Fort-de-l'Eau"
 p5190
+aVFrance
+p5191
+aV92100
+p5192
+aVFrance métropolitaine
+p5193
+aa(lp5194
+S'Gilles Delaigue'
+p5195
+aS'1973'
+p5196
+aS'Centre'
+p5197
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'Sainte-Colombe'
+p5198
+aVFrance
+p5199
+aV69560
+p5200
+aVFrance métropolitaine
+p5201
+aa(lp5202
+S'Jacques Rougerie'
+p5203
+aS'1973'
+p5204
+aS'Prop, Hooker'
+p5205
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Pamiers'
+p5206
+aVFrance
+p5207
+aV09100
+p5208
+aVFrance métropolitaine
+p5209
+aa(lp5210
+S'Michel Sappa'
+p5211
+aS'1973'
+p5212
+aS'Lock'
+p5213
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulon'
+p5214
+aVFrance
+p5215
+aV83000;83100;83200
+p5216
+aVFrance métropolitaine
+p5217
+aa(lp5218
+S'Rene Seguier'
+p5219
+aS'1973'
+p5220
+aS'Wing'
+p5221
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Vendres'
+p5222
+aVFrance
+p5223
+aV34350
+p5224
+aVFrance métropolitaine
+p5225
+aa(lp5226
+S'Jean Costantino'
+p5227
+aS'1973'
+p5228
+aS'Prop, Hooker'
+p5229
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Montauban'
+p5230
+aVFrance
+p5231
+aV82000
+p5232
+aVFrance métropolitaine
+p5233
+aa(lp5234
+S'Daniel Kaczorowski'
+p5235
+aS'1974'
+p5236
+aS'Flanker'
+p5237
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Le Creusot'
+p5238
+aVFrance
+p5239
+aV71200
+p5240
+aVFrance métropolitaine
+p5241
+aa(lp5242
+S'Joel Pecune'
+p5243
+aS'1974'
+p5244
+aS'Wing, Centre'
+p5245
+aS'10'
+p5246
 aS'6'
+aS'2'
+aS'2'
 aS'4'
 aS'16'
-p5191
-aVFrance
-p5192
-aV65420
-p5193
-aVFrance métropolitaine
-p5194
-aa(lp5195
-S'Jean-Francois Gourdon'
-p5196
-aS'1974'
-p5197
-aS'Wing'
-p5198
-aS'Paris'
-p5199
-aS'22'
-p5200
-aS'14'
-p5201
-aS'12'
-p5202
-aS'48'
-p5203
-aVFrance
-p5204
-aVFrance métropolitaine
-p5205
-aVÎle-de-France
-p5206
-aa(lp5207
-S'Francis Haget'
-p5208
-aS'1974'
-p5209
-aS'Lock'
-p5210
-aS'Sauveterre-de-Bearn'
-p5211
-aS'40'
-p5212
-aS'24'
-p5213
-aS'1'
-aS'4'
-aVFrance
-p5214
-aV64390
-p5215
-aVFrance métropolitaine
-p5216
-aa(lp5217
-S'Alain Paco'
-p5218
-aS'1974'
-p5219
-aS'Prop, Hooker'
-p5220
-aS'Beziers'
-p5221
-aS'35'
-p5222
-aS'24'
-p5223
-aS'1'
-aS'4'
-aVFrance
-p5224
-aV34500
-p5225
-aVFrance métropolitaine
-p5226
-aa(lp5227
-S'Georges Senal'
-p5228
-aS'1974'
-p5229
-aS'Lock'
-p5230
-aS'Serignan'
-p5231
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p5232
-aV34410
-p5233
-aVFrance métropolitaine
-p5234
-aa(lp5235
-S'Laurent Desnoyer'
-p5236
-aS'1974'
-p5237
-aS'Wing'
-p5238
-aS'Brive'
-p5239
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p5240
-aV01470
-p5241
-aVFrance métropolitaine
-p5242
-aa(lp5243
-S'Jean-Martin Etchenique'
-p5244
-aS'1974'
-p5245
-aS'Centre'
-p5246
-aS'Ustaritz'
 p5247
-aS'4'
-aS'2'
+aS'Ibos'
+p5248
+aVFrance
+p5249
+aV65420
+p5250
+aVFrance métropolitaine
+p5251
+aa(lp5252
+S'Jean-Francois Gourdon'
+p5253
+aS'1974'
+p5254
+aS'Wing'
+p5255
+aS'22'
+p5256
+aS'14'
+p5257
+aS'8'
+aS'0'
+aS'12'
+p5258
+aS'48'
+p5259
+aS'Paris'
+p5260
+aVFrance
+p5261
+aVFrance métropolitaine
+p5262
+aVÎle-de-France
+p5263
+aa(lp5264
+S'Francis Haget'
+p5265
+aS'1974'
+p5266
+aS'Lock'
+p5267
+aS'40'
+p5268
+aS'24'
+p5269
+aS'13'
+p5270
+aS'3'
 aS'1'
 aS'4'
+aS'Sauveterre-de-Bearn'
+p5271
 aVFrance
-p5248
-aV64480
-p5249
+p5272
+aV64390
+p5273
 aVFrance métropolitaine
-p5250
-aa(lp5251
-S'Michel Taffary'
-p5252
-aS'1975'
-p5253
-aS'Fullback'
-p5254
-aS'Peyrehorade'
-p5255
+p5274
+aa(lp5275
+S'Alain Paco'
+p5276
+aS'1974'
+p5277
+aS'Prop, Hooker'
+p5278
+aS'35'
+p5279
+aS'24'
+p5280
+aS'10'
+p5281
+aS'1'
+aS'1'
+aS'4'
+aS'Beziers'
+p5282
+aVFrance
+p5283
+aV34500
+p5284
+aVFrance métropolitaine
+p5285
+aa(lp5286
+S'Georges Senal'
+p5287
+aS'1974'
+p5288
+aS'Lock'
+p5289
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Serignan'
+p5290
+aVFrance
+p5291
+aV34410
+p5292
+aVFrance métropolitaine
+p5293
+aa(lp5294
+S'Laurent Desnoyer'
+p5295
+aS'1974'
+p5296
+aS'Wing'
+p5297
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Brive'
+p5298
+aVFrance
+p5299
+aV01470
+p5300
+aVFrance métropolitaine
+p5301
+aa(lp5302
+S'Jean-Martin Etchenique'
+p5303
+aS'1974'
+p5304
+aS'Centre'
+p5305
 aS'4'
 aS'2'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'Ustaritz'
+p5306
+aVFrance
+p5307
+aV64480
+p5308
+aVFrance métropolitaine
+p5309
+aa(lp5310
+S'Michel Taffary'
+p5311
+aS'1975'
+p5312
+aS'Fullback'
+p5313
+aS'4'
+aS'2'
+aS'2'
+aS'0'
 aS'0'
 aS'6'
+aS'Peyrehorade'
+p5314
 aVFrance
-p5256
+p5315
 aV40300
-p5257
+p5316
 aVFrance métropolitaine
-p5258
-aa(lp5259
+p5317
+aa(lp5318
 S'Gerard Cholley'
-p5260
+p5319
 aS'1975'
-p5261
+p5320
 aS'Lock, Prop'
-p5262
-aS'Fontaine-les-Luxeuil'
-p5263
+p5321
 aS'31'
-p5264
+p5322
 aS'22'
-p5265
+p5323
+aS'7'
+aS'2'
 aS'3'
 aS'12'
-p5266
+p5324
+aS'Fontaine-les-Luxeuil'
+p5325
 aVFrance
-p5267
+p5326
 aV70800
-p5268
+p5327
 aVFrance métropolitaine
-p5269
-aa(lp5270
+p5328
+aa(lp5329
 S'Alain Guilbert'
-p5271
+p5330
 aS'1975'
-p5272
+p5331
 aS'No. 8, Lock'
-p5273
-aS'Saint-Maur-des-Fosse'
-p5274
+p5332
 aS'14'
-p5275
+p5333
 aS'7'
+aS'5'
+aS'2'
 aS'1'
 aS'4'
+aS'Saint-Maur-des-Fosse'
+p5334
 aS'g'
 aS'n'
 aS'i'
-aa(lp5276
+aa(lp5335
 S'Jean-Pierre Rives'
-p5277
+p5336
 aS'1975'
-p5278
+p5337
 aS'Flanker'
-p5279
-aS'Toulouse'
-p5280
+p5338
 aS'59'
-p5281
+p5339
 aS'39'
-p5282
+p5340
+aS'17'
+p5341
+aS'3'
 aS'5'
 aS'20'
-p5283
+p5342
+aS'Toulouse'
+p5343
 aVFrance
-p5284
+p5344
 aV31000;31100;31200;31300;31400;31500
-p5285
+p5345
 aVFrance métropolitaine
-p5286
-aa(lp5287
+p5346
+aa(lp5347
 S'Jean-Luc Averous'
-p5288
+p5348
 aS'1975'
-p5289
+p5349
 aS'Wing'
-p5290
-aS'Beziers'
-p5291
+p5350
 aS'25'
-p5292
+p5351
 aS'16'
-p5293
+p5352
+aS'9'
+aS'0'
 aS'7'
 aS'28'
-p5294
+p5353
+aS'Beziers'
+p5354
 aVFrance
-p5295
+p5355
 aV34500
-p5296
+p5356
 aVFrance métropolitaine
-p5297
-aa(lp5298
+p5357
+aa(lp5358
 S'Jean-Louis Ugartemendia'
-p5299
+p5359
 aS'1975'
-p5300
+p5360
 aS'Hooker'
-p5301
-aS'Bayonne'
-p5302
+p5361
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Bayonne'
+p5362
 aVFrance
-p5303
+p5363
 aV64100
-p5304
+p5364
 aVFrance métropolitaine
-p5305
-aa(lp5306
+p5365
+aa(lp5366
 S'Francois Sangalli'
-p5307
+p5367
 aS'1975'
-p5308
+p5368
 aS'Centre'
-p5309
-aS'Narbonne'
-p5310
+p5369
 aS'15'
-p5311
+p5370
 aS'9'
+aS'5'
+aS'1'
 aS'1'
 aS'4'
+aS'Narbonne'
+p5371
 aVFrance
-p5312
+p5372
 aV11100
-p5313
+p5373
 aVFrance métropolitaine
-p5314
-aa(lp5315
+p5374
+aa(lp5375
 S'Yves Brunet'
-p5316
+p5376
 aS'1975'
-p5317
+p5377
 aS'Hooker'
-p5318
-aS'Peyrestortes'
-p5319
+p5378
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Peyrestortes'
+p5379
 aVFrance
-p5320
+p5380
 aV66600
-p5321
+p5381
 aVFrance métropolitaine
-p5322
-aa(lp5323
+p5382
+aa(lp5383
 S'Dominique Harize'
-p5324
+p5384
 aS'1975'
-p5325
+p5385
 aS'Wing'
-p5326
-aS'Saint-Cere'
-p5327
+p5386
 aS'9'
 aS'6'
+aS'3'
+aS'0'
 aS'4'
 aS'16'
-p5328
+p5387
+aS'Saint-Cere'
+p5388
 aVFrance
-p5329
+p5389
 aV46400
-p5330
+p5390
 aVFrance métropolitaine
-p5331
-aa(lp5332
+p5391
+aa(lp5392
 S'Michel Palmie'
-p5333
+p5393
 aS'1975'
-p5334
+p5394
 aS'Lock'
-p5335
-aS'Beziers'
-p5336
+p5395
 aS'23'
-p5337
+p5396
 aS'17'
-p5338
+p5397
+aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'Beziers'
+p5398
 aVFrance
-p5339
+p5399
 aV34500
-p5340
+p5400
 aVFrance métropolitaine
-p5341
-aa(lp5342
+p5401
+aa(lp5402
 S'Robert Paparemborde'
-p5343
+p5403
 aS'1975'
-p5344
+p5404
 aS'Prop'
-p5345
-aS'Laruns'
-p5346
+p5405
 aS'55'
-p5347
+p5406
 aS'34'
-p5348
+p5407
+aS'20'
+p5408
+aS'1'
 aS'8'
 aS'32'
-p5349
+p5409
+aS'Laruns'
+p5410
 aVFrance
-p5350
+p5411
 aV64440
-p5351
+p5412
 aVFrance métropolitaine
-p5352
-aa(lp5353
+p5413
+aa(lp5414
 S'Patrice Peron'
-p5354
+p5415
 aS'1975'
-p5355
+p5416
 aS'Flanker'
-p5356
-aS'Colombes'
-p5357
+p5417
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'4'
+aS'Colombes'
+p5418
 aVFrance
-p5358
+p5419
 aV92700
-p5359
+p5420
 aVFrance métropolitaine
-p5360
-aa(lp5361
+p5421
+aa(lp5422
 S'Jean-Pierre Pesteil'
-p5362
+p5423
 aS'1975'
-p5363
+p5424
 aS'Fullback, Centre, Fly-half'
-p5364
-aS'Vendres'
-p5365
+p5425
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'0'
 aS'9'
+aS'Vendres'
+p5426
 aVFrance
-p5366
+p5427
 aV34350
-p5367
+p5428
 aVFrance métropolitaine
-p5368
-aa(lp5369
+p5429
+aa(lp5430
 S'Gerard Rousset'
-p5370
+p5431
 aS'1975'
-p5371
+p5432
 aS'Back-row'
-p5372
-aS'Bourg-les-Valence'
-p5373
+p5433
 aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'Bourg-les-Valence'
+p5434
+aVFrance
+p5435
+aV26500
+p5436
+aVFrance métropolitaine
+p5437
+aa(lp5438
+S'Jean-Francois Imbernon'
+p5439
+aS'1976'
+p5440
+aS'Lock'
+p5441
+aS'23'
+p5442
+aS'18'
+p5443
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'Perpignan'
+p5444
+aVFrance
+p5445
+aV66000;66100
+p5446
+aVFrance métropolitaine
+p5447
+aa(lp5448
+S'Rene Berges-Cau'
+p5449
+aS'1976'
+p5450
+aS'Fullback'
+p5451
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Encausse-les-Thermes'
+p5452
+aVFrance
+p5453
+aV31160
+p5454
+aVFrance métropolitaine
+p5455
+aa(lp5456
+S'Jacques Cimarosti'
+p5457
+aS'1976'
+p5458
+aS'Centre'
+p5459
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Lourdes'
+p5460
+aVFrance
+p5461
+aV65100
+p5462
+aVFrance métropolitaine
+p5463
+aa(lp5464
+S'Guy Gasparotto'
+p5465
+aS'1976'
+p5466
+aS'Lock'
+p5467
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Aucamville'
+p5468
+aVFrance
+p5469
+aV31140
+p5470
+aVFrance métropolitaine
+p5471
+aa(lp5472
+S'Daniel Bustaffa'
+p5473
+aS'1977'
+p5474
+aS'Wing'
+p5475
+aS'11'
+p5476
+aS'3'
+aS'7'
 aS'1'
 aS'1'
 aS'4'
-aVFrance
-p5374
-aV26500
-p5375
-aVFrance métropolitaine
-p5376
-aa(lp5377
-S'Jean-Francois Imbernon'
-p5378
-aS'1976'
-p5379
-aS'Lock'
-p5380
-aS'Perpignan'
-p5381
-aS'23'
-p5382
-aS'18'
-p5383
-aS'0'
-aS'0'
-aVFrance
-p5384
-aV66000;66100
-p5385
-aVFrance métropolitaine
-p5386
-aa(lp5387
-S'Rene Berges-Cau'
-p5388
-aS'1976'
-p5389
-aS'Fullback'
-p5390
-aS'Encausse-les-Thermes'
-p5391
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p5392
-aV31160
-p5393
-aVFrance métropolitaine
-p5394
-aa(lp5395
-S'Jacques Cimarosti'
-p5396
-aS'1976'
-p5397
-aS'Centre'
-p5398
-aS'Lourdes'
-p5399
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p5400
-aV65100
-p5401
-aVFrance métropolitaine
-p5402
-aa(lp5403
-S'Guy Gasparotto'
-p5404
-aS'1976'
-p5405
-aS'Lock'
-p5406
-aS'Aucamville'
-p5407
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p5408
-aV31140
-p5409
-aVFrance métropolitaine
-p5410
-aa(lp5411
-S'Daniel Bustaffa'
-p5412
-aS'1977'
-p5413
-aS'Wing'
-p5414
 aS'Carcassonne'
-p5415
-aS'11'
-p5416
+p5477
+aVFrance
+p5478
+aV11000
+p5479
+aVFrance métropolitaine
+p5480
+aa(lp5481
+S'Jean-Luc Joinel'
+p5482
+aS'1977'
+p5483
+aS'Back-row'
+p5484
+aS'51'
+p5485
+aS'29'
+p5486
+aS'19'
+p5487
 aS'3'
 aS'1'
 aS'4'
-aVFrance
-p5417
-aV11000
-p5418
-aVFrance métropolitaine
-p5419
-aa(lp5420
-S'Jean-Luc Joinel'
-p5421
-aS'1977'
-p5422
-aS'Back-row'
-p5423
 aS'Saint-Vincent-de-Cos'
-p5424
-aS'51'
-p5425
-aS'29'
-p5426
-aS'1'
-aS'4'
+p5488
 aS'g'
 aS'n'
 aS'i'
-aa(lp5427
+aa(lp5489
 S'Guy Noves'
-p5428
+p5490
 aS'1977'
-p5429
+p5491
 aS'Wing'
-p5430
-aS'Toulouse'
-p5431
+p5492
 aS'7'
 aS'4'
-aS'0'
-aS'0'
-aVFrance
-p5432
-aV31000;31100;31200;31300;31400;31500
-p5433
-aVFrance métropolitaine
-p5434
-aa(lp5435
-S'Jacques Gasc'
-p5436
-aS'1977'
-p5437
-aS'Flanker'
-p5438
-aS'Graulhet'
-p5439
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p5440
-aV81300
-p5441
-aVFrance métropolitaine
-p5442
-aa(lp5443
-S'Christian Belascain'
-p5444
-aS'1977'
-p5445
-aS'Centre'
-p5446
-aS'Biarritz'
-p5447
-aS'18'
-p5448
-aS'11'
-p5449
-aS'1'
-aS'4'
-aVFrance
-p5450
-aV64200
-p5451
-aVFrance métropolitaine
-p5452
-aa(lp5453
-S'Pierre Dospital'
-p5454
-aS'1977'
-p5455
-aS'Prop'
-p5456
-aS'Itxassou'
-p5457
-aS'24'
-p5458
-aS'16'
-p5459
-aS'0'
-aS'0'
-aVFrance
-p5460
-aV64250
-p5461
-aVFrance métropolitaine
-p5462
-aa(lp5463
-S'Jerome Gallion'
-p5464
-aS'1978'
-p5465
-aS'Scrum-half'
-p5466
-aS'Toulon'
-p5467
-aS'27'
-p5468
-aS'17'
-p5469
-aS'10'
-p5470
-aS'40'
-p5471
-aVFrance
-p5472
-aV83000;83100;83200
-p5473
-aVFrance métropolitaine
-p5474
-aa(lp5475
-S'Bernard Vivies'
-p5476
-aS'1978'
-p5477
-aS'Fullback, Fly-half'
-p5478
-aS'Rieumes'
-p5479
-aS'10'
-p5480
-aS'4'
-aS'0'
-aS'20'
-p5481
-aVFrance
-p5482
-aV31370
-p5483
-aVFrance métropolitaine
-p5484
-aa(lp5485
-S'Louis Bilbao'
-p5486
-aS'1978'
-p5487
-aS'Wing'
-p5488
-aS'Saint-Jean-de-Luz'
-p5489
 aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'Toulouse'
+p5493
 aVFrance
-p5490
-aV64500
-p5491
-aVFrance métropolitaine
-p5492
-aa(lp5493
-S'Alain Caussade'
 p5494
-aS'1978'
+aV31000;31100;31200;31300;31400;31500
 p5495
-aS'Fly-half, Wing'
+aVFrance métropolitaine
 p5496
-aS'Juillan'
-p5497
-aS'12'
+aa(lp5497
+S'Jacques Gasc'
 p5498
+aS'1977'
+p5499
+aS'Flanker'
+p5500
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Graulhet'
+p5501
+aVFrance
+p5502
+aV81300
+p5503
+aVFrance métropolitaine
+p5504
+aa(lp5505
+S'Christian Belascain'
+p5506
+aS'1977'
+p5507
+aS'Centre'
+p5508
+aS'18'
+p5509
+aS'11'
+p5510
 aS'6'
+aS'1'
+aS'1'
+aS'4'
+aS'Biarritz'
+p5511
+aVFrance
+p5512
+aV64200
+p5513
+aVFrance métropolitaine
+p5514
+aa(lp5515
+S'Pierre Dospital'
+p5516
+aS'1977'
+p5517
+aS'Prop'
+p5518
+aS'24'
+p5519
+aS'16'
+p5520
+aS'6'
+aS'2'
+aS'0'
+aS'0'
+aS'Itxassou'
+p5521
+aVFrance
+p5522
+aV64250
+p5523
+aVFrance métropolitaine
+p5524
+aa(lp5525
+S'Jerome Gallion'
+p5526
+aS'1978'
+p5527
+aS'Scrum-half'
+p5528
+aS'27'
+p5529
+aS'17'
+p5530
+aS'6'
+aS'4'
+aS'10'
+p5531
+aS'40'
+p5532
+aS'Toulon'
+p5533
+aVFrance
+p5534
+aV83000;83100;83200
+p5535
+aVFrance métropolitaine
+p5536
+aa(lp5537
+S'Bernard Vivies'
+p5538
+aS'1978'
+p5539
+aS'Fullback, Fly-half'
+p5540
+aS'10'
+p5541
+aS'4'
+aS'5'
+aS'1'
+aS'0'
+aS'20'
+p5542
+aS'Rieumes'
+p5543
+aVFrance
+p5544
+aV31370
+p5545
+aVFrance métropolitaine
+p5546
+aa(lp5547
+S'Louis Bilbao'
+p5548
+aS'1978'
+p5549
+aS'Wing'
+p5550
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Saint-Jean-de-Luz'
+p5551
+aVFrance
+p5552
+aV64500
+p5553
+aVFrance métropolitaine
+p5554
+aa(lp5555
+S'Alain Caussade'
+p5556
+aS'1978'
+p5557
+aS'Fly-half, Wing'
+p5558
+aS'12'
+p5559
+aS'6'
+aS'5'
+aS'1'
 aS'2'
 aS'42'
-p5499
-aVFrance
-p5500
-aV65290
-p5501
-aVFrance métropolitaine
-p5502
-aa(lp5503
-S'Michel Clemente'
-p5504
-aS'1978'
-p5505
-aS'No. 8'
-p5506
-aS'Oloron-Sainte-Marie'
-p5507
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p5508
-aV64400
-p5509
-aVFrance métropolitaine
-p5510
-aa(lp5511
-S'Yves Lafarge'
-p5512
-aS'1978'
-p5513
-aS'Centre, Scrum-half'
-p5514
-aS'Chaville'
-p5515
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p5516
-aV92370
-p5517
-aVFrance métropolitaine
-p5518
-aa(lp5519
-S'Alain Maleig'
-p5520
-aS'1979'
-p5521
-aS'Lock, No. 8'
-p5522
-aS'Oloron-Sainte-Marie'
-p5523
-aS'7'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p5524
-aV64400
-p5525
-aVFrance métropolitaine
-p5526
-aa(lp5527
-S'Frederic Costes'
-p5528
-aS'1979'
-p5529
-aS'Wing'
-p5530
-aS'La Rochelle'
-p5531
-aS'7'
-aS'4'
-aS'1'
-aS'4'
-aVFrance
-p5532
-aV17000
-p5533
-aVFrance métropolitaine
-p5534
-aa(lp5535
-S'Roger Aguerre'
-p5536
-aS'1979'
-p5537
-aS'Fly-half'
-p5538
-aS'Mauleon'
-p5539
-aS'1'
-aS'1'
-aS'0'
-aS'6'
-aVFrance
-p5540
-aV64130
-p5541
-aVFrance métropolitaine
-p5542
-aa(lp5543
-S'Yves Malquier'
-p5544
-aS'1979'
-p5545
-aS'No. 8'
-p5546
-aS'Sigean'
-p5547
-aS'1'
-aS'1'
-aS'2'
-aS'8'
-aVFrance
-p5548
-aV11130
-p5549
-aVFrance métropolitaine
-p5550
-aa(lp5551
-S'Jean-Francois Marchal'
-p5552
-aS'1979'
-p5553
-aS'Lock'
-p5554
-aS'Paris'
-p5555
-aS'5'
-aS'3'
-aS'1'
-aS'4'
-aVFrance
-p5556
-aVFrance métropolitaine
-p5557
-aVÎle-de-France
-p5558
-aa(lp5559
-S'Christian Beguerie'
 p5560
-aS'1979'
+aS'Juillan'
 p5561
-aS'Back-row'
+aVFrance
 p5562
-aS'Layrac'
+aV65290
 p5563
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
+aVFrance métropolitaine
 p5564
-aV47390
-p5565
-aVFrance métropolitaine
+aa(lp5565
+S'Michel Clemente'
 p5566
-aa(lp5567
-S'Didier Codorniou'
+aS'1978'
+p5567
+aS'No. 8'
 p5568
-aS'1979'
-p5569
-aS'Centre'
-p5570
-aS'Narbonne'
-p5571
-aS'31'
-p5572
-aS'18'
-p5573
-aS'5'
-aS'20'
-p5574
-aVFrance
-p5575
-aV11100
-p5576
-aVFrance métropolitaine
-p5577
-aa(lp5578
-S'Guy Colomine'
-p5579
-aS'1979'
-p5580
-aS'Prop'
-p5581
-aS'Narbonne'
-p5582
+aS'3'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Oloron-Sainte-Marie'
+p5569
 aVFrance
-p5583
-aV11100
-p5584
+p5570
+aV64400
+p5571
 aVFrance métropolitaine
-p5585
-aa(lp5586
-S'Philippe Dintrans'
-p5587
-aS'1979'
-p5588
-aS'Hooker'
-p5589
-aS'Tarbes'
-p5590
-aS'50'
-p5591
-aS'27'
-p5592
+p5572
+aa(lp5573
+S'Yves Lafarge'
+p5574
+aS'1978'
+p5575
+aS'Centre, Scrum-half'
+p5576
 aS'3'
-aS'12'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Chaville'
+p5577
+aVFrance
+p5578
+aV92370
+p5579
+aVFrance métropolitaine
+p5580
+aa(lp5581
+S'Alain Maleig'
+p5582
+aS'1979'
+p5583
+aS'Lock, No. 8'
+p5584
+aS'7'
+aS'2'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Oloron-Sainte-Marie'
+p5585
+aVFrance
+p5586
+aV64400
+p5587
+aVFrance métropolitaine
+p5588
+aa(lp5589
+S'Frederic Costes'
+p5590
+aS'1979'
+p5591
+aS'Wing'
+p5592
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
+aS'La Rochelle'
 p5593
 aVFrance
 p5594
-aV65000
+aV17000
 p5595
 aVFrance métropolitaine
 p5596
 aa(lp5597
-S'Patrick Mesny'
+S'Roger Aguerre'
 p5598
 aS'1979'
 p5599
-aS'Centre'
+aS'Fly-half'
 p5600
-aS'Montlucon'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'6'
+aS'Mauleon'
 p5601
-aS'14'
+aVFrance
 p5602
-aS'7'
-aS'3'
-aS'12'
+aV64130
 p5603
-aVFrance
+aVFrance métropolitaine
 p5604
-aV03100
-p5605
-aVFrance métropolitaine
+aa(lp5605
+S'Yves Malquier'
 p5606
-aa(lp5607
-S'Patrick Salas'
-p5608
 aS'1979'
-p5609
-aS'Prop, Lock, No. 8'
-p5610
-aS'Narbonne'
-p5611
-aS'7'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p5612
-aV11100
-p5613
-aVFrance métropolitaine
-p5614
-aa(lp5615
-S'Daniel Dubroca'
-p5616
-aS'1979'
-p5617
-aS'Hooker, Prop'
-p5618
-aS'Aiguillon'
-p5619
-aS'33'
-p5620
-aS'22'
-p5621
-aS'2'
-aS'8'
-aVFrance
-p5622
-aV47190
-p5623
-aVFrance métropolitaine
-p5624
-aa(lp5625
-S'Jacques Cristina'
-p5626
-aS'1979'
-p5627
+p5607
 aS'No. 8'
-p5628
-aS'Clermont-Ferrand'
-p5629
+p5608
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVFrance
-p5630
-aV63000;63100
-p5631
-aVFrance métropolitaine
-p5632
-aa(lp5633
-S'Manuel Carpentier'
-p5634
-aS'1980'
-p5635
-aS'Lock, No. 8'
-p5636
-aS'Calais'
-p5637
+aS'2'
 aS'8'
+aS'Sigean'
+p5609
+aVFrance
+p5610
+aV11130
+p5611
+aVFrance métropolitaine
+p5612
+aa(lp5613
+S'Jean-Francois Marchal'
+p5614
+aS'1979'
+p5615
+aS'Lock'
+p5616
+aS'5'
+aS'3'
 aS'2'
 aS'0'
+aS'1'
+aS'4'
+aS'Paris'
+p5617
+aVFrance
+p5618
+aVFrance métropolitaine
+p5619
+aVÎle-de-France
+p5620
+aa(lp5621
+S'Christian Beguerie'
+p5622
+aS'1979'
+p5623
+aS'Back-row'
+p5624
+aS'1'
 aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Layrac'
+p5625
+aVFrance
+p5626
+aV47390
+p5627
+aVFrance métropolitaine
+p5628
+aa(lp5629
+S'Didier Codorniou'
+p5630
+aS'1979'
+p5631
+aS'Centre'
+p5632
+aS'31'
+p5633
+aS'18'
+p5634
+aS'10'
+p5635
+aS'3'
+aS'5'
+aS'20'
+p5636
+aS'Narbonne'
+p5637
 aVFrance
 p5638
-aV62100
+aV11100
 p5639
 aVFrance métropolitaine
 p5640
 aa(lp5641
-S'Yves Duhard'
+S'Guy Colomine'
 p5642
-aS'1980'
+aS'1979'
 p5643
-aS'Lock'
+aS'Prop'
 p5644
-aS'Bagneres-de-Bigorre'
-p5645
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Narbonne'
+p5645
 aVFrance
 p5646
-aV65200;65710
+aV11100
 p5647
 aVFrance métropolitaine
 p5648
 aa(lp5649
-S'Serge Gabernet'
+S'Philippe Dintrans'
 p5650
-aS'1980'
+aS'1979'
 p5651
-aS'Fullback'
+aS'Hooker'
 p5652
-aS'Montrejeau'
+aS'50'
 p5653
-aS'14'
+aS'27'
 p5654
-aS'8'
-aS'2'
-aS'48'
+aS'20'
 p5655
-aVFrance
+aS'3'
+aS'3'
+aS'12'
 p5656
-aV31210
+aS'Tarbes'
 p5657
-aVFrance métropolitaine
+aVFrance
 p5658
-aa(lp5659
-S'Pierre Pedeutour'
+aV65000
+p5659
+aVFrance métropolitaine
 p5660
-aS'1980'
-p5661
-aS'Fly-half'
+aa(lp5661
+S'Patrick Mesny'
 p5662
-aS'Menzel-Bou-Zulfa'
+aS'1979'
 p5663
+aS'Centre'
+p5664
+aS'14'
+p5665
+aS'7'
+aS'7'
+aS'0'
+aS'3'
+aS'12'
+p5666
+aS'Montlucon'
+p5667
+aVFrance
+p5668
+aV03100
+p5669
+aVFrance métropolitaine
+p5670
+aa(lp5671
+S'Patrick Salas'
+p5672
+aS'1979'
+p5673
+aS'Prop, Lock, No. 8'
+p5674
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Narbonne'
+p5675
+aVFrance
+p5676
+aV11100
+p5677
+aVFrance métropolitaine
+p5678
+aa(lp5679
+S'Daniel Dubroca'
+p5680
+aS'1979'
+p5681
+aS'Hooker, Prop'
+p5682
+aS'33'
+p5683
+aS'22'
+p5684
+aS'10'
+p5685
+aS'1'
+aS'2'
+aS'8'
+aS'Aiguillon'
+p5686
+aVFrance
+p5687
+aV47190
+p5688
+aVFrance métropolitaine
+p5689
+aa(lp5690
+S'Jacques Cristina'
+p5691
+aS'1979'
+p5692
+aS'No. 8'
+p5693
 aS'1'
 aS'1'
 aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Clermont-Ferrand'
+p5694
+aVFrance
+p5695
+aV63000;63100
+p5696
+aVFrance métropolitaine
+p5697
+aa(lp5698
+S'Manuel Carpentier'
+p5699
+aS'1980'
+p5700
+aS'Lock, No. 8'
+p5701
+aS'8'
+aS'2'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Calais'
+p5702
+aVFrance
+p5703
+aV62100
+p5704
+aVFrance métropolitaine
+p5705
+aa(lp5706
+S'Yves Duhard'
+p5707
+aS'1980'
+p5708
+aS'Lock'
+p5709
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bagneres-de-Bigorre'
+p5710
+aVFrance
+p5711
+aV65200;65710
+p5712
+aVFrance métropolitaine
+p5713
+aa(lp5714
+S'Serge Gabernet'
+p5715
+aS'1980'
+p5716
+aS'Fullback'
+p5717
+aS'14'
+p5718
+aS'8'
+aS'6'
+aS'0'
+aS'2'
+aS'48'
+p5719
+aS'Montrejeau'
+p5720
+aVFrance
+p5721
+aV31210
+p5722
+aVFrance métropolitaine
+p5723
+aa(lp5724
+S'Pierre Pedeutour'
+p5725
+aS'1980'
+p5726
+aS'Fly-half'
+p5727
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'3'
+aS'Menzel-Bou-Zulfa'
+p5728
 aS'g'
 aS'n'
 aS'i'
-aa(lp5664
+aa(lp5729
 S'Serge Blanco'
-p5665
+p5730
 aS'1980'
-p5666
+p5731
 aS'Wing, Fullback'
-p5667
-aS'Caracas'
-p5668
+p5732
 aS'93'
-p5669
+p5733
 aS'54'
-p5670
+p5734
+aS'36'
+p5735
+aS'3'
 aS'38'
-p5671
+p5736
 aS'233'
-p5672
+p5737
+aS'Caracas'
+p5738
 aVVenezuela
-p5673
+p5739
 aVRegión Capital
-p5674
+p5740
 aVDistrito Capital
-p5675
-aa(lp5676
+p5741
+aa(lp5742
 S'Jean-Pierre Elissalde'
-p5677
+p5743
 aS'1980'
-p5678
+p5744
 aS'Scrum-half'
-p5679
-aS'La Rochelle'
-p5680
+p5745
 aS'5'
 aS'1'
+aS'4'
+aS'0'
 aS'2'
 aS'11'
-p5681
+p5746
+aS'La Rochelle'
+p5747
 aVFrance
-p5682
+p5748
 aV17000
-p5683
+p5749
 aVFrance métropolitaine
-p5684
-aa(lp5685
+p5750
+aa(lp5751
 S'Pierre Lacans'
-p5686
+p5752
 aS'1980'
-p5687
+p5753
 aS'Flanker'
-p5688
-aS'Lezignan'
-p5689
+p5754
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'2'
 aS'8'
+aS'Lezignan'
+p5755
 aVFrance
-p5690
+p5756
 aV65100
-p5691
+p5757
 aVFrance métropolitaine
-p5692
-aa(lp5693
+p5758
+aa(lp5759
 S'Laurent Pardo'
-p5694
+p5760
 aS'1980'
-p5695
+p5761
 aS'Fullback, Wing, Centre'
-p5696
-aS'Bayonne'
-p5697
+p5762
 aS'14'
-p5698
+p5763
 aS'6'
+aS'6'
+aS'2'
 aS'3'
 aS'12'
-p5699
+p5764
+aS'Bayonne'
+p5765
 aVFrance
-p5700
+p5766
 aV64100
-p5701
+p5767
 aVFrance métropolitaine
-p5702
-aa(lp5703
+p5768
+aa(lp5769
 S'Jean-Paul Wolf'
-p5704
+p5770
 aS'1980'
-p5705
+p5771
 aS'Prop, Lock'
-p5706
-aS'Montreuil-sous-Bois'
-p5707
+p5772
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'Montreuil-sous-Bois'
+p5773
 aVFrance
-p5708
+p5774
 aV93100
-p5709
+p5775
 aVFrance métropolitaine
-p5710
-aa(lp5711
+p5776
+aa(lp5777
 S'Eric Buchet'
-p5712
+p5778
 aS'1980'
-p5713
+p5779
 aS'Flanker'
-p5714
-aS'Nice'
-p5715
+p5780
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Nice'
+p5781
 aVFrance
-p5716
+p5782
 aV06000;06100;06200;06300
-p5717
+p5783
 aVFrance métropolitaine
-p5718
-aa(lp5719
+p5784
+aa(lp5785
 S'Michel Cremaschi'
-p5720
+p5786
 aS'1980'
-p5721
+p5787
 aS'Prop'
-p5722
-aS'Betbezer'
-p5723
+p5788
 aS'11'
-p5724
+p5789
 aS'5'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'Betbezer'
+p5790
 aVFrance
-p5725
+p5791
 aV40240
-p5726
+p5792
 aVFrance métropolitaine
-p5727
-aa(lp5728
+p5793
+aa(lp5794
 S'Jean-Pierre Fauvel'
-p5729
+p5795
 aS'1980'
-p5730
+p5796
 aS'Flanker'
-p5731
-aS'Castillonnes'
-p5732
+p5797
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Castillonnes'
+p5798
 aVFrance
-p5733
+p5799
 aV47330
-p5734
+p5800
 aVFrance métropolitaine
-p5735
-aa(lp5736
+p5801
+aa(lp5802
 S'Pierre Berbizier'
-p5737
+p5803
 aS'1981'
-p5738
+p5804
 aS'Scrum-half'
-p5739
-aS'Saint-Gaudens'
-p5740
+p5805
 aS'56'
-p5741
+p5806
 aS'32'
-p5742
+p5807
+aS'23'
+p5808
+aS'1'
 aS'7'
 aS'28'
-p5743
+p5809
+aS'Saint-Gaudens'
+p5810
 aVFrance
-p5744
+p5811
 aV31800
-p5745
+p5812
 aVFrance métropolitaine
-p5746
-aa(lp5747
+p5813
+aa(lp5814
 S'Daniel Revailler'
-p5748
+p5815
 aS'1981'
-p5749
+p5816
 aS'Lock'
-p5750
-aS'Rabastens'
-p5751
+p5817
 aS'14'
-p5752
+p5818
+aS'7'
 aS'7'
 aS'0'
 aS'0'
+aS'0'
+aS'Rabastens'
+p5819
 aVFrance
-p5753
+p5820
 aV81800
-p5754
+p5821
 aVFrance métropolitaine
-p5755
-aa(lp5756
+p5822
+aa(lp5823
 S'Guy Laporte'
-p5757
+p5824
 aS'1981'
-p5758
+p5825
 aS'Fly-half'
-p5759
-aS'Beaufort'
-p5760
+p5826
 aS'16'
-p5761
+p5827
 aS'11'
-p5762
+p5828
+aS'5'
+aS'0'
 aS'3'
 aS'143'
-p5763
+p5829
+aS'Beaufort'
+p5830
 aVFrance
-p5764
+p5831
 aV73270
-p5765
+p5832
 aVFrance métropolitaine
-p5766
-aa(lp5767
+p5833
+aa(lp5834
 S'Dominique Erbani'
-p5768
+p5835
 aS'1981'
-p5769
+p5836
 aS'Back-row'
-p5770
-aS'Eymet'
-p5771
+p5837
 aS'46'
-p5772
+p5838
 aS'30'
-p5773
+p5839
+aS'13'
+p5840
+aS'3'
 aS'3'
 aS'12'
-p5774
+p5841
+aS'Eymet'
+p5842
 aVFrance
-p5775
+p5843
 aV24500
-p5776
+p5844
 aVFrance métropolitaine
-p5777
-aa(lp5778
+p5845
+aa(lp5846
 S'Michel Fabre'
-p5779
+p5847
 aS'1981'
-p5780
+p5848
 aS'Wing'
-p5781
-aS'Pezenas'
-p5782
+p5849
 aS'6'
 aS'2'
+aS'4'
+aS'0'
 aS'1'
 aS'4'
+aS'Pezenas'
+p5850
 aVFrance
-p5783
+p5851
 aV34120
-p5784
+p5852
 aVFrance métropolitaine
-p5785
-aa(lp5786
+p5853
+aa(lp5854
 S'Alain Lorieux'
-p5787
+p5855
 aS'1981'
-p5788
+p5856
 aS'Lock'
-p5789
-aS'La Tronche'
-p5790
+p5857
 aS'30'
-p5791
+p5858
 aS'20'
-p5792
+p5859
+aS'9'
+aS'1'
 aS'3'
 aS'12'
-p5793
+p5860
+aS'La Tronche'
+p5861
 aVFrance
-p5794
+p5862
 aV38700
-p5795
+p5863
 aVFrance métropolitaine
-p5796
-aa(lp5797
+p5864
+aa(lp5865
 S'Laurent Rodriguez'
-p5798
+p5866
 aS'1981'
-p5799
+p5867
 aS'Back-row'
-p5800
-aS'Poitiers'
-p5801
+p5868
 aS'56'
-p5802
+p5869
 aS'29'
-p5803
+p5870
+aS'24'
+p5871
+aS'3'
 aS'7'
 aS'28'
-p5804
+p5872
+aS'Poitiers'
+p5873
 aVFrance
-p5805
+p5874
 aV86000
-p5806
+p5875
 aVFrance métropolitaine
-p5807
-aa(lp5808
+p5876
+aa(lp5877
 S'Adrien Mournet'
-p5809
+p5878
 aS'1981'
-p5810
+p5879
 aS'Scrum-half'
-p5811
-aS'Galan'
-p5812
+p5880
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Galan'
+p5881
 aVFrance
-p5813
+p5882
 aV65330
-p5814
+p5883
 aVFrance métropolitaine
-p5815
-aa(lp5816
+p5884
+aa(lp5885
 S'Marc Sallefranque'
-p5817
+p5886
 aS'1981'
-p5818
+p5887
 aS'Fly-half, Fullback'
-p5819
-aS'Dax'
-p5820
+p5888
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'19'
-p5821
+p5889
+aS'Dax'
+p5890
 aVFrance
-p5822
+p5891
 aV40100
-p5823
+p5892
 aVFrance métropolitaine
-p5824
-aa(lp5825
+p5893
+aa(lp5894
 S'Jean-Patrick Lescarboura'
-p5826
+p5895
 aS'1982'
-p5827
+p5896
 aS'Fly-half'
-p5828
-aS'Monein'
-p5829
+p5897
 aS'28'
-p5830
+p5898
 aS'13'
-p5831
+p5899
+aS'12'
+p5900
+aS'3'
 aS'6'
 aS'200'
-p5832
-aVFrance
-p5833
-aV64360
-p5834
-aVFrance métropolitaine
-p5835
-aa(lp5836
-S'Gerard Martinez'
-p5837
-aS'1982'
-p5838
-aS'Scrum-half'
-p5839
-aS'Montrejeau'
-p5840
-aS'7'
-aS'4'
-aS'0'
-aS'3'
-aVFrance
-p5841
-aV31210
-p5842
-aVFrance métropolitaine
-p5843
-aa(lp5844
-S'Patrick Perrier'
-p5845
-aS'1982'
-p5846
-aS'Centre'
-p5847
-aS'Bayonne'
-p5848
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p5849
-aV64100
-p5850
-aVFrance métropolitaine
-p5851
-aa(lp5852
-S'Didier Camberabero'
-p5853
-aS'1982'
-p5854
-aS'Fly-half, Fullback, Wing'
-p5855
-aS'Valence'
-p5856
-aS'36'
-p5857
-aS'24'
-p5858
-aS'12'
-p5859
-aS'354'
-p5860
-aVFrance
-p5861
-aV26000
-p5862
-aVFrance métropolitaine
-p5863
-aa(lp5864
-S'Pierre Chadebech'
-p5865
-aS'1982'
-p5866
-aS'Centre'
-p5867
-aS'Ussel'
-p5868
-aS'5'
-aS'3'
-aS'0'
-aS'0'
-aVItalia
-p5869
-aVPIE
-p5870
-aVTO
-p5871
-aa(lp5872
-S'Jean Condom'
-p5873
-aS'1982'
-p5874
-aS'Lock'
-p5875
-aS'Saint-Andre-de-Seign'
-p5876
-aS'61'
-p5877
-aS'38'
-p5878
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp5879
-S'Patrick Esteve'
-p5880
-aS'1982'
-p5881
-aS'Wing'
-p5882
-aS'Lavelanet'
-p5883
-aS'25'
-p5884
-aS'15'
-p5885
-aS'12'
-p5886
-aS'48'
-p5887
-aVFrance
-p5888
-aV09300
-p5889
-aVFrance métropolitaine
-p5890
-aa(lp5891
-S'Philippe Sella'
-p5892
-aS'1982'
-p5893
-aS'Centre, Wing'
-p5894
-aS'Tonneins'
-p5895
-aS'111'
-p5896
-aS'70'
-p5897
-aS'30'
-p5898
-aS'125'
-p5899
-aVFrance
-p5900
-aV47400
 p5901
-aVFrance métropolitaine
+aS'Monein'
 p5902
-aa(lp5903
-S'Thierry Janeczek'
+aVFrance
+p5903
+aV64360
 p5904
-aS'1982'
+aVFrance métropolitaine
 p5905
-aS'Flanker'
-p5906
-aS'St-Denis-du-Sig'
+aa(lp5906
+S'Gerard Martinez'
 p5907
+aS'1982'
+p5908
+aS'Scrum-half'
+p5909
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'3'
+aS'Montrejeau'
+p5910
+aVFrance
+p5911
+aV31210
+p5912
+aVFrance métropolitaine
+p5913
+aa(lp5914
+S'Patrick Perrier'
+p5915
+aS'1982'
+p5916
+aS'Centre'
+p5917
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Bayonne'
+p5918
+aVFrance
+p5919
+aV64100
+p5920
+aVFrance métropolitaine
+p5921
+aa(lp5922
+S'Didier Camberabero'
+p5923
+aS'1982'
+p5924
+aS'Fly-half, Fullback, Wing'
+p5925
+aS'36'
+p5926
+aS'24'
+p5927
+aS'12'
+p5928
+aS'0'
+aS'12'
+p5929
+aS'354'
+p5930
+aS'Valence'
+p5931
+aVFrance
+p5932
+aV26000
+p5933
+aVFrance métropolitaine
+p5934
+aa(lp5935
+S'Pierre Chadebech'
+p5936
+aS'1982'
+p5937
+aS'Centre'
+p5938
+aS'5'
 aS'3'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Ussel'
+p5939
+aVItalia
+p5940
+aVPIE
+p5941
+aVTO
+p5942
+aa(lp5943
+S'Jean Condom'
+p5944
+aS'1982'
+p5945
+aS'Lock'
+p5946
+aS'61'
+p5947
+aS'38'
+p5948
+aS'19'
+p5949
+aS'4'
+aS'0'
+aS'0'
+aS'Saint-Andre-de-Seign'
+p5950
 aS'g'
 aS'n'
 aS'i'
-aa(lp5908
-S'Jean-Charles Orso'
-p5909
+aa(lp5951
+S'Patrick Esteve'
+p5952
 aS'1982'
-p5910
-aS'Lock, No. 8'
-p5911
-aS'Cannes'
-p5912
-aS'11'
-p5913
-aS'7'
-aS'0'
-aS'0'
-aVFrance
-p5914
-aV06400;06150
-p5915
-aVFrance métropolitaine
-p5916
-aa(lp5917
-S'Jacques Begu'
-p5918
-aS'1982'
-p5919
+p5953
 aS'Wing'
-p5920
-aS'Dax'
-p5921
+p5954
+aS'25'
+p5955
+aS'15'
+p5956
+aS'6'
+aS'4'
+aS'12'
+p5957
+aS'48'
+p5958
+aS'Lavelanet'
+p5959
+aVFrance
+p5960
+aV09300
+p5961
+aVFrance métropolitaine
+p5962
+aa(lp5963
+S'Philippe Sella'
+p5964
+aS'1982'
+p5965
+aS'Centre, Wing'
+p5966
+aS'111'
+p5967
+aS'70'
+p5968
+aS'36'
+p5969
+aS'5'
+aS'30'
+p5970
+aS'125'
+p5971
+aS'Tonneins'
+p5972
+aVFrance
+p5973
+aV47400
+p5974
+aVFrance métropolitaine
+p5975
+aa(lp5976
+S'Thierry Janeczek'
+p5977
+aS'1982'
+p5978
+aS'Flanker'
+p5979
 aS'3'
 aS'2'
-aS'2'
-aS'8'
-aVFrance
-p5922
-aV40100
-p5923
-aVFrance métropolitaine
-p5924
-aa(lp5925
-S'Christian Delage'
-p5926
-aS'1983'
-p5927
-aS'Fly-half'
-p5928
-aS'Brive'
-p5929
-aS'2'
 aS'1'
 aS'0'
 aS'0'
-aVFrance
-p5930
-aV01470
-p5931
-aVFrance métropolitaine
-p5932
-aa(lp5933
-S'Jean-Louis Dupont'
-p5934
-aS'1983'
-p5935
-aS'Hooker'
-p5936
-aS'Beaumont-de-Lomagne'
-p5937
-aS'1'
-aS'1'
 aS'0'
-aS'0'
-aVFrance
-p5938
-aV82500
-p5939
-aVFrance métropolitaine
-p5940
-aa(lp5941
-S'Bernard Herrero'
-p5942
-aS'1983'
-p5943
-aS'Hooker'
-p5944
-aS'Toulon'
-p5945
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p5946
-aV83000;83100;83200
-p5947
-aVFrance métropolitaine
-p5948
-aa(lp5949
-S'Jean-Pierre Garuet-Lempirou'
-p5950
-aS'1983'
-p5951
-aS'Prop'
-p5952
-aS'Lourdes'
-p5953
-aS'42'
-p5954
-aS'24'
-p5955
-aS'0'
-aS'0'
-aVFrance
-p5956
-aV65100
-p5957
-aVFrance métropolitaine
-p5958
-aa(lp5959
-S'Jean-Baptiste Lafond'
-p5960
-aS'1983'
-p5961
-aS'Fullback, Wing'
-p5962
-aS'Neuilly-sur-Seine'
-p5963
-aS'36'
-p5964
-aS'26'
-p5965
-aS'14'
-p5966
-aS'101'
-p5967
-aVFrance
-p5968
-aV92200
-p5969
-aVFrance métropolitaine
-p5970
-aa(lp5971
-S'Patrice Lagisquet'
-p5972
-aS'1983'
-p5973
-aS'Wing'
-p5974
-aS'Arcachon'
-p5975
-aS'46'
-p5976
-aS'27'
-p5977
-aS'20'
-p5978
-aS'80'
-p5979
-aVFrance
+aS'St-Denis-du-Sig'
 p5980
-aV33120
-p5981
-aVFrance métropolitaine
+aS'g'
+aS'n'
+aS'i'
+aa(lp5981
+S'Jean-Charles Orso'
 p5982
-aa(lp5983
-S'Pierre-Edouard Detrez'
+aS'1982'
+p5983
+aS'Lock, No. 8'
 p5984
-aS'1983'
+aS'11'
 p5985
-aS'Prop'
-p5986
-aS'Paris'
-p5987
-aS'5'
+aS'7'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'Cannes'
+p5986
 aVFrance
+p5987
+aV06400;06150
 p5988
 aVFrance métropolitaine
 p5989
-aVÎle-de-France
-p5990
-aa(lp5991
-S'Jacques Gratton'
+aa(lp5990
+S'Jacques Begu'
+p5991
+aS'1982'
 p5992
-aS'1984'
-p5993
-aS'Flanker'
-p5994
-aS'Lectoure'
-p5995
-aS'10'
-p5996
-aS'4'
-aS'0'
-aS'0'
-aVFrance
-p5997
-aV32700
-p5998
-aVFrance métropolitaine
-p5999
-aa(lp6000
-S'Eric Bonneval'
-p6001
-aS'1984'
-p6002
-aS'Wing, Centre'
-p6003
-aS'Toulouse'
-p6004
-aS'18'
-p6005
-aS'13'
-p6006
-aS'8'
-aS'32'
-p6007
-aVFrance
-p6008
-aV31000;31100;31200;31300;31400;31500
-p6009
-aVFrance métropolitaine
-p6010
-aa(lp6011
-S'Bernard Lavigne'
-p6012
-aS'1984'
-p6013
 aS'Wing'
-p6014
-aS'Castillonnes'
-p6015
+p5993
+aS'3'
 aS'2'
 aS'1'
 aS'0'
+aS'2'
+aS'8'
+aS'Dax'
+p5994
+aVFrance
+p5995
+aV40100
+p5996
+aVFrance métropolitaine
+p5997
+aa(lp5998
+S'Christian Delage'
+p5999
+aS'1983'
+p6000
+aS'Fly-half'
+p6001
+aS'2'
+aS'1'
+aS'1'
 aS'0'
+aS'0'
+aS'0'
+aS'Brive'
+p6002
 aVFrance
+p6003
+aV01470
+p6004
+aVFrance métropolitaine
+p6005
+aa(lp6006
+S'Jean-Louis Dupont'
+p6007
+aS'1983'
+p6008
+aS'Hooker'
+p6009
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Beaumont-de-Lomagne'
+p6010
+aVFrance
+p6011
+aV82500
+p6012
+aVFrance métropolitaine
+p6013
+aa(lp6014
+S'Bernard Herrero'
+p6015
+aS'1983'
 p6016
-aV47330
+aS'Hooker'
 p6017
-aVFrance métropolitaine
-p6018
-aa(lp6019
-S'Eric Champ'
-p6020
-aS'1985'
-p6021
-aS'Flanker'
-p6022
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'Toulon'
-p6023
-aS'42'
-p6024
-aS'30'
-p6025
-aS'3'
-aS'12'
-p6026
+p6018
 aVFrance
-p6027
+p6019
 aV83000;83100;83200
-p6028
+p6020
 aVFrance métropolitaine
-p6029
-aa(lp6030
-S'Herve Chabowski'
-p6031
-aS'1985'
-p6032
+p6021
+aa(lp6022
+S'Jean-Pierre Garuet-Lempirou'
+p6023
+aS'1983'
+p6024
 aS'Prop'
-p6033
-aS'Cavaillon'
+p6025
+aS'42'
+p6026
+aS'24'
+p6027
+aS'14'
+p6028
+aS'4'
+aS'0'
+aS'0'
+aS'Lourdes'
+p6029
+aVFrance
+p6030
+aV65100
+p6031
+aVFrance métropolitaine
+p6032
+aa(lp6033
+S'Jean-Baptiste Lafond'
 p6034
+aS'1983'
+p6035
+aS'Fullback, Wing'
+p6036
+aS'36'
+p6037
+aS'26'
+p6038
+aS'9'
+aS'1'
+aS'14'
+p6039
+aS'101'
+p6040
+aS'Neuilly-sur-Seine'
+p6041
+aVFrance
+p6042
+aV92200
+p6043
+aVFrance métropolitaine
+p6044
+aa(lp6045
+S'Patrice Lagisquet'
+p6046
+aS'1983'
+p6047
+aS'Wing'
+p6048
+aS'46'
+p6049
+aS'27'
+p6050
+aS'17'
+p6051
+aS'2'
+aS'20'
+p6052
+aS'80'
+p6053
+aS'Arcachon'
+p6054
+aVFrance
+p6055
+aV33120
+p6056
+aVFrance métropolitaine
+p6057
+aa(lp6058
+S'Pierre-Edouard Detrez'
+p6059
+aS'1983'
+p6060
+aS'Prop'
+p6061
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
+p6062
+aVFrance
+p6063
+aVFrance métropolitaine
+p6064
+aVÎle-de-France
+p6065
+aa(lp6066
+S'Jacques Gratton'
+p6067
+aS'1984'
+p6068
+aS'Flanker'
+p6069
+aS'10'
+p6070
+aS'4'
 aS'4'
 aS'2'
 aS'0'
 aS'0'
+aS'Lectoure'
+p6071
 aVFrance
-p6035
-aV84300
-p6036
+p6072
+aV32700
+p6073
 aVFrance métropolitaine
-p6037
-aa(lp6038
-S'Thierry Picard'
-p6039
+p6074
+aa(lp6075
+S'Eric Bonneval'
+p6076
+aS'1984'
+p6077
+aS'Wing, Centre'
+p6078
+aS'18'
+p6079
+aS'13'
+p6080
+aS'5'
+aS'0'
+aS'8'
+aS'32'
+p6081
+aS'Toulouse'
+p6082
+aVFrance
+p6083
+aV31000;31100;31200;31300;31400;31500
+p6084
+aVFrance métropolitaine
+p6085
+aa(lp6086
+S'Bernard Lavigne'
+p6087
+aS'1984'
+p6088
+aS'Wing'
+p6089
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Castillonnes'
+p6090
+aVFrance
+p6091
+aV47330
+p6092
+aVFrance métropolitaine
+p6093
+aa(lp6094
+S'Eric Champ'
+p6095
 aS'1985'
-p6040
+p6096
+aS'Flanker'
+p6097
+aS'42'
+p6098
+aS'30'
+p6099
+aS'11'
+p6100
+aS'1'
+aS'3'
+aS'12'
+p6101
+aS'Toulon'
+p6102
+aVFrance
+p6103
+aV83000;83100;83200
+p6104
+aVFrance métropolitaine
+p6105
+aa(lp6106
+S'Herve Chabowski'
+p6107
+aS'1985'
+p6108
+aS'Prop'
+p6109
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Cavaillon'
+p6110
+aVFrance
+p6111
+aV84300
+p6112
+aVFrance métropolitaine
+p6113
+aa(lp6114
+S'Thierry Picard'
+p6115
+aS'1985'
+p6116
 aS'Lock, No. 8'
-p6041
+p6117
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS"Saint-Sauves-d'Auver"
-p6042
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p6118
 aS'g'
 aS'n'
 aS'i'
-aa(lp6043
+aa(lp6119
 S'Philippe Marocco'
-p6044
+p6120
 aS'1986'
-p6045
+p6121
 aS'Prop, Hooker'
-p6046
-aS'Cintegabelle'
-p6047
+p6122
 aS'21'
-p6048
+p6123
 aS'14'
-p6049
+p6124
+aS'7'
+aS'0'
 aS'1'
 aS'4'
+aS'Cintegabelle'
+p6125
 aVFrance
-p6050
+p6126
 aV31550
-p6051
+p6127
 aVFrance métropolitaine
-p6052
-aa(lp6053
+p6128
+aa(lp6129
 S'Denis Charvet'
-p6054
+p6130
 aS'1986'
-p6055
+p6131
 aS'Centre, Wing'
-p6056
-aS'Cahors'
-p6057
+p6132
 aS'23'
-p6058
+p6133
 aS'16'
-p6059
+p6134
+aS'6'
+aS'1'
 aS'6'
 aS'27'
-p6060
+p6135
+aS'Cahors'
+p6136
 aVFrance
-p6061
+p6137
 aV46000
-p6062
+p6138
 aVFrance métropolitaine
-p6063
-aa(lp6064
+p6139
+aa(lp6140
 S'Jerome Bianchi'
-p6065
+p6141
 aS'1986'
-p6066
+p6142
 aS'Fullback'
-p6067
-aS'Pau'
-p6068
+p6143
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Pau'
+p6144
 aVFrance
-p6069
+p6145
 aV64000
-p6070
+p6146
 aVFrance métropolitaine
-p6071
-aa(lp6072
+p6147
+aa(lp6148
 S'Marc Andrieu'
-p6073
+p6149
 aS'1986'
-p6074
+p6150
 aS'Centre, Wing'
-p6075
-aS'Carmaux'
-p6076
+p6151
 aS'26'
-p6077
+p6152
 aS'18'
-p6078
+p6153
+aS'8'
+aS'0'
 aS'6'
 aS'24'
-p6079
+p6154
+aS'Carmaux'
+p6155
 aVFrance
-p6080
+p6156
 aV81400
-p6081
+p6157
 aVFrance métropolitaine
-p6082
-aa(lp6083
+p6158
+aa(lp6159
 S'Claude Portolan'
-p6084
+p6160
 aS'1986'
-p6085
+p6161
 aS'Prop'
-p6086
-aS'Auterive'
-p6087
+p6162
 aS'3'
 aS'1'
-aS'0'
-aS'0'
-aVFrance
-p6088
-aV31190
-p6089
-aVFrance métropolitaine
-p6090
-aa(lp6091
-S'Patrick Serriere'
-p6092
-aS'1986'
-p6093
-aS'Lock'
-p6094
-aS'Saint-Cloud'
-p6095
-aS'3'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Auterive'
+p6163
 aVFrance
-p6096
-aV92210
-p6097
+p6164
+aV31190
+p6165
 aVFrance métropolitaine
-p6098
-aa(lp6099
-S'Philippe Berot'
-p6100
+p6166
+aa(lp6167
+S'Patrick Serriere'
+p6168
 aS'1986'
-p6101
+p6169
+aS'Lock'
+p6170
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Cloud'
+p6171
+aVFrance
+p6172
+aV92210
+p6173
+aVFrance métropolitaine
+p6174
+aa(lp6175
+S'Philippe Berot'
+p6176
+aS'1986'
+p6177
 aS'Fullback, Wing'
-p6102
-aS'Tarbes'
-p6103
+p6178
 aS'19'
-p6104
+p6179
 aS'14'
-p6105
+p6180
+aS'5'
+aS'0'
 aS'3'
 aS'159'
-p6106
+p6181
+aS'Tarbes'
+p6182
 aVFrance
-p6107
+p6183
 aV65000
-p6108
+p6184
 aVFrance métropolitaine
-p6109
-aa(lp6110
+p6185
+aa(lp6186
 S'Alain Carminati'
-p6111
+p6187
 aS'1986'
-p6112
+p6188
 aS'Back-row'
-p6113
-aS'Champagnole'
-p6114
+p6189
 aS'20'
-p6115
+p6190
 aS'14'
-p6116
+p6191
+aS'6'
+aS'0'
 aS'3'
 aS'14'
-p6117
+p6192
+aS'Champagnole'
+p6193
 aVFrance
-p6118
+p6194
 aV39300
-p6119
+p6195
 aVFrance métropolitaine
-p6120
-aa(lp6121
+p6196
+aa(lp6197
 S'Franck Mesnel'
-p6122
+p6198
 aS'1986'
-p6123
+p6199
 aS'Centre, Fly-half'
-p6124
-aS'Neuilly-sur-Seine'
-p6125
+p6200
 aS'56'
-p6126
+p6201
 aS'38'
-p6127
+p6202
+aS'17'
+p6203
+aS'1'
 aS'8'
 aS'41'
-p6128
+p6204
+aS'Neuilly-sur-Seine'
+p6205
 aVFrance
-p6129
+p6206
 aV92200
-p6130
+p6207
 aVFrance métropolitaine
-p6131
-aa(lp6132
+p6208
+aa(lp6209
 S'Pascal Ondarts'
-p6133
+p6210
 aS'1986'
-p6134
+p6211
 aS'Hooker, Prop'
-p6135
-aS'Meharin'
-p6136
+p6212
 aS'42'
-p6137
+p6213
 aS'29'
-p6138
+p6214
+aS'12'
+p6215
+aS'1'
 aS'1'
 aS'4'
+aS'Meharin'
+p6216
 aVFrance
-p6139
+p6217
 aV64120
-p6140
+p6218
 aVFrance métropolitaine
-p6141
-aa(lp6142
+p6219
+aa(lp6220
 S'Louis Armary'
-p6143
+p6221
 aS'1987'
-p6144
+p6222
 aS'Prop'
-p6145
-aS'Lourdes'
-p6146
+p6223
 aS'47'
-p6147
+p6224
 aS'32'
-p6148
+p6225
+aS'14'
+p6226
+aS'1'
 aS'1'
 aS'4'
+aS'Lourdes'
+p6227
 aVFrance
-p6149
+p6228
 aV65100
-p6150
+p6229
 aVFrance métropolitaine
-p6151
-aa(lp6152
+p6230
+aa(lp6231
 S'Rodolphe Modin'
-p6153
+p6232
 aS'1987'
-p6154
+p6233
 aS'Scrum-half'
-p6155
-aS'Paris'
-p6156
+p6234
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'3'
 aS'12'
-p6157
+p6235
+aS'Paris'
+p6236
 aVFrance
-p6158
+p6237
 aVFrance métropolitaine
-p6159
+p6238
 aVÎle-de-France
-p6160
-aa(lp6161
+p6239
+aa(lp6240
 S'Jean-Louis Tolot'
-p6162
+p6241
 aS'1987'
-p6163
+p6242
 aS'Prop'
-p6164
+p6243
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Montagnac-sur-Auvign'
-p6165
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p6244
 aS'g'
 aS'n'
 aS'i'
-aa(lp6166
+aa(lp6245
 S'Karl Janik'
-p6167
+p6246
 aS'1987'
-p6168
+p6247
 aS'Flanker'
-p6169
+p6248
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Oujda'
-p6170
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p6249
 aV\u0627\u0644\u0645\u063a\u0631\u0628 Maroc \u2d4d\u2d4e\u2d30\u2d56\u2d54\u2d49\u2d31
-p6171
+p6250
 aVOriental \u0627\u0644\u0634\u0631\u0642\u064a\u0629
-p6172
+p6251
 aVPréfecture d'Oujda-Angad \u0639\u0645\u0627\u0644\u0629 \u0648\u062c\u062f\u0629 - \u0623\u0646\u062c\u0627\u062f
-p6173
-aa(lp6174
+p6252
+aa(lp6253
 S'Marc Cecillon'
-p6175
+p6254
 aS'1988'
-p6176
+p6255
 aS'No. 8'
-p6177
-aS'Bourgoin'
-p6178
+p6256
 aS'46'
-p6179
+p6257
 aS'31'
-p6180
+p6258
+aS'14'
+p6259
+aS'1'
 aS'9'
 aS'38'
-p6181
-aVFrance
-p6182
-aV62575
-p6183
-aVFrance métropolitaine
-p6184
-aa(lp6185
-S'Michel Hondagne-Monge'
-p6186
-aS'1988'
-p6187
-aS'Scrum-half'
-p6188
-aS'Alfou'
-p6189
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p6190
-aV35000
-p6191
-aVBoumerdès - \u0628\u0648\u0645\u0631\u062f\u0627\u0633
-p6192
-aa(lp6193
-S'Gilles Bourguignon'
-p6194
-aS'1988'
-p6195
-aS'Lock'
-p6196
-aS'Evereux'
-p6197
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp6198
-S'Henri Sanz'
-p6199
-aS'1988'
-p6200
-aS'Scrum-half'
-p6201
-aS'Versailles'
-p6202
-aS'11'
-p6203
-aS'6'
-aS'1'
-aS'4'
-aVFrance
-p6204
-aV78000
-p6205
-aVFrance métropolitaine
-p6206
-aa(lp6207
-S'Pierre Harislur-Arthapignet'
-p6208
-aS'1988'
-p6209
-aS'Hooker, No. 8'
-p6210
-aS'Mauleon'
-p6211
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p6212
-aV64130
-p6213
-aVFrance métropolitaine
-p6214
-aa(lp6215
-S'Thierry Devergie'
-p6216
-aS'1988'
-p6217
-aS'Lock'
-p6218
-aS'Marseille'
-p6219
-aS'17'
-p6220
-aS'9'
-aS'0'
-aS'0'
-aVFrance
-p6221
-aVFrance métropolitaine
-p6222
-aVProvence-Alpes-Côte d'Azur
-p6223
-aa(lp6224
-S'Marc dal Maso'
-p6225
-aS'1988'
-p6226
-aS'Hooker'
-p6227
-aS'Escalans'
-p6228
-aS'33'
-p6229
-aS'19'
-p6230
-aS'4'
-aS'20'
-p6231
-aVFrance
-p6232
-aV40310
-p6233
-aVFrance métropolitaine
-p6234
-aa(lp6235
-S'Dominique Bouet'
-p6236
-aS'1989'
-p6237
-aS'Hooker'
-p6238
-aS'Sort-en-Chalosse'
-p6239
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p6240
-aV40180
-p6241
-aVFrance métropolitaine
-p6242
-aa(lp6243
-S'Philippe Rouge-Thomas'
-p6244
-aS'1989'
-p6245
-aS'Fly-half'
-p6246
-aS'Lannemezan'
-p6247
-aS'2'
-aS'0'
-aS'1'
-aS'4'
-aVFrance
-p6248
-aV65300
-p6249
-aVFrance métropolitaine
-p6250
-aa(lp6251
-S'Olivier Roumat'
-p6252
-aS'1989'
-p6253
-aS'No. 8, Lock, Flanker'
-p6254
-aS'Mont-de-Marsan'
-p6255
-aS'61'
-p6256
-aS'35'
-p6257
-aS'5'
-aS'23'
-p6258
-aVFrance
-p6259
-aV40000
 p6260
-aVFrance métropolitaine
+aS'Bourgoin'
 p6261
-aa(lp6262
-S'Philippe Benetton'
-p6263
-aS'1989'
-p6264
-aS'Flanker'
-p6265
-aS'Cahors'
-p6266
-aS'59'
-p6267
-aS'39'
-p6268
-aS'7'
-aS'34'
-p6269
 aVFrance
-p6270
-aV46000
-p6271
+p6262
+aV62575
+p6263
 aVFrance métropolitaine
+p6264
+aa(lp6265
+S'Michel Hondagne-Monge'
+p6266
+aS'1988'
+p6267
+aS'Scrum-half'
+p6268
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Alfou'
+p6269
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p6270
+aV35000
+p6271
+aVBoumerdès - \u0628\u0648\u0645\u0631\u062f\u0627\u0633
 p6272
 aa(lp6273
-S'Bernard Lacombe'
+S'Gilles Bourguignon'
 p6274
-aS'1989'
+aS'1988'
 p6275
-aS'Wing'
+aS'Lock'
 p6276
-aS'Rouen'
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Evereux'
 p6277
+aS'g'
+aS'n'
+aS'i'
+aa(lp6278
+S'Henri Sanz'
+p6279
+aS'1988'
+p6280
+aS'Scrum-half'
+p6281
+aS'11'
+p6282
+aS'6'
+aS'5'
+aS'0'
+aS'1'
+aS'4'
+aS'Versailles'
+p6283
+aVFrance
+p6284
+aV78000
+p6285
+aVFrance métropolitaine
+p6286
+aa(lp6287
+S'Pierre Harislur-Arthapignet'
+p6288
+aS'1988'
+p6289
+aS'Hooker, No. 8'
+p6290
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Mauleon'
+p6291
+aVFrance
+p6292
+aV64130
+p6293
+aVFrance métropolitaine
+p6294
+aa(lp6295
+S'Thierry Devergie'
+p6296
+aS'1988'
+p6297
+aS'Lock'
+p6298
+aS'17'
+p6299
+aS'9'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Marseille'
+p6300
+aVFrance
+p6301
+aVFrance métropolitaine
+p6302
+aVProvence-Alpes-Côte d'Azur
+p6303
+aa(lp6304
+S'Marc dal Maso'
+p6305
+aS'1988'
+p6306
+aS'Hooker'
+p6307
+aS'33'
+p6308
+aS'19'
+p6309
+aS'14'
+p6310
+aS'0'
+aS'4'
+aS'20'
+p6311
+aS'Escalans'
+p6312
+aVFrance
+p6313
+aV40310
+p6314
+aVFrance métropolitaine
+p6315
+aa(lp6316
+S'Dominique Bouet'
+p6317
+aS'1989'
+p6318
+aS'Hooker'
+p6319
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Sort-en-Chalosse'
+p6320
+aVFrance
+p6321
+aV40180
+p6322
+aVFrance métropolitaine
+p6323
+aa(lp6324
+S'Philippe Rouge-Thomas'
+p6325
+aS'1989'
+p6326
+aS'Fly-half'
+p6327
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'4'
+aS'Lannemezan'
+p6328
 aVFrance
-p6278
-aV76000;76100
-p6279
+p6329
+aV65300
+p6330
 aVFrance métropolitaine
-p6280
-aa(lp6281
-S'Marc Pujolle'
-p6282
+p6331
+aa(lp6332
+S'Olivier Roumat'
+p6333
 aS'1989'
-p6283
+p6334
+aS'No. 8, Lock, Flanker'
+p6335
+aS'61'
+p6336
+aS'35'
+p6337
+aS'25'
+p6338
+aS'1'
+aS'5'
+aS'23'
+p6339
+aS'Mont-de-Marsan'
+p6340
+aVFrance
+p6341
+aV40000
+p6342
+aVFrance métropolitaine
+p6343
+aa(lp6344
+S'Philippe Benetton'
+p6345
+aS'1989'
+p6346
+aS'Flanker'
+p6347
+aS'59'
+p6348
+aS'39'
+p6349
+aS'19'
+p6350
+aS'1'
+aS'7'
+aS'34'
+p6351
+aS'Cahors'
+p6352
+aVFrance
+p6353
+aV46000
+p6354
+aVFrance métropolitaine
+p6355
+aa(lp6356
+S'Bernard Lacombe'
+p6357
+aS'1989'
+p6358
+aS'Wing'
+p6359
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'Rouen'
+p6360
+aVFrance
+p6361
+aV76000;76100
+p6362
+aVFrance métropolitaine
+p6363
+aa(lp6364
+S'Marc Pujolle'
+p6365
+aS'1989'
+p6366
 aS'Lock, Prop'
-p6284
-aS'Nimes'
-p6285
+p6367
 aS'8'
 aS'1'
-aS'0'
-aS'0'
-aVFrance
-p6286
-aV30000;30900
-p6287
-aVFrance métropolitaine
-p6288
-aa(lp6289
-S'Laurent Seigne'
-p6290
-aS'1989'
-p6291
-aS'Prop'
-p6292
-aS'Tulle'
-p6293
-aS'15'
-p6294
 aS'7'
 aS'0'
 aS'0'
+aS'0'
+aS'Nimes'
+p6368
 aVFrance
-p6295
-aV19000
-p6296
+p6369
+aV30000;30900
+p6370
 aVFrance métropolitaine
-p6297
-aa(lp6298
-S'Stephane Weller'
-p6299
+p6371
+aa(lp6372
+S'Laurent Seigne'
+p6373
 aS'1989'
-p6300
+p6374
+aS'Prop'
+p6375
+aS'15'
+p6376
+aS'7'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Tulle'
+p6377
+aVFrance
+p6378
+aV19000
+p6379
+aVFrance métropolitaine
+p6380
+aa(lp6381
+S'Stephane Weller'
+p6382
+aS'1989'
+p6383
 aS'Wing'
-p6301
-aS'Juvisy-sur-Orge'
-p6302
+p6384
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Juvisy-sur-Orge'
+p6385
 aVFrance
-p6303
+p6386
 aV91260
-p6304
+p6387
 aVFrance métropolitaine
-p6305
-aa(lp6306
+p6388
+aa(lp6389
 S'Thierry Lacroix'
-p6307
+p6390
 aS'1989'
-p6308
+p6391
 aS'Fly-half'
-p6309
-aS'Nogaro'
-p6310
+p6392
 aS'43'
-p6311
+p6393
 aS'29'
-p6312
+p6394
+aS'13'
+p6395
+aS'1'
 aS'6'
 aS'367'
-p6313
+p6396
+aS'Nogaro'
+p6397
 aVFrance
-p6314
+p6398
 aV32110
-p6315
+p6399
 aVFrance métropolitaine
-p6316
-aa(lp6317
+p6400
+aa(lp6401
 S'Peyo Hontas'
-p6318
+p6402
 aS'1990'
-p6319
+p6403
 aS'Wing'
-p6320
-aS'Biarritz'
-p6321
+p6404
 aS'9'
 aS'5'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'Biarritz'
+p6405
 aVFrance
-p6322
+p6406
 aV64200
-p6323
+p6407
 aVFrance métropolitaine
-p6324
-aa(lp6325
+p6408
+aa(lp6409
 S'Jean-Marc Lhermet'
-p6326
+p6410
 aS'1990'
-p6327
+p6411
 aS'Flanker'
-p6328
-aS'Montlucon'
-p6329
+p6412
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Montlucon'
+p6413
 aVFrance
-p6330
+p6414
 aV03100
-p6331
+p6415
 aVFrance métropolitaine
-p6332
-aa(lp6333
+p6416
+aa(lp6417
 S'Eric Melville'
-p6334
+p6418
 aS'1990'
-p6335
+p6419
 aS'Flanker'
-p6336
-aS'Cape Town'
-p6337
+p6420
 aS'6'
 aS'3'
-aS'0'
-aS'0'
-aVSouth Africa
-p6338
-aVWestern Cape
-p6339
-aVCity of Cape Town
-p6340
-aa(lp6341
-S'Philippe Gallart'
-p6342
-aS'1990'
-p6343
-aS'Prop'
-p6344
-aS'Beziers'
-p6345
-aS'18'
-p6346
-aS'10'
-p6347
-aS'0'
-aS'0'
-aVFrance
-p6348
-aV34500
-p6349
-aVFrance métropolitaine
-p6350
-aa(lp6351
-S'Jean-Claude Langlade'
-p6352
-aS'1990'
-p6353
-aS'Centre'
-p6354
-aS'Clermont-Ferrand'
-p6355
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Cape Town'
+p6421
+aVSouth Africa
+p6422
+aVWestern Cape
+p6423
+aVCity of Cape Town
+p6424
+aa(lp6425
+S'Philippe Gallart'
+p6426
+aS'1990'
+p6427
+aS'Prop'
+p6428
+aS'18'
+p6429
+aS'10'
+p6430
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Beziers'
+p6431
 aVFrance
-p6356
+p6432
+aV34500
+p6433
+aVFrance métropolitaine
+p6434
+aa(lp6435
+S'Jean-Claude Langlade'
+p6436
+aS'1990'
+p6437
+aS'Centre'
+p6438
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Clermont-Ferrand'
+p6439
+aVFrance
+p6440
 aV63000;63100
-p6357
+p6441
 aVFrance métropolitaine
-p6358
-aa(lp6359
+p6442
+aa(lp6443
 S'Philippe Saint-Andre'
-p6360
+p6444
 aS'1990'
-p6361
+p6445
 aS'Wing'
-p6362
-aS'Romans-sur-Isere'
-p6363
+p6446
 aS'69'
-p6364
+p6447
 aS'46'
-p6365
+p6448
+aS'22'
+p6449
+aS'1'
 aS'32'
-p6366
+p6450
 aS'152'
-p6367
+p6451
+aS'Romans-sur-Isere'
+p6452
 aVFrance
-p6368
+p6453
 aV26100
-p6369
+p6454
 aVFrance métropolitaine
-p6370
-aa(lp6371
+p6455
+aa(lp6456
 S'Abdelatif Benazzi'
-p6372
+p6457
 aS'1990'
-p6373
+p6458
 aS'Lock'
-p6374
-aS'Ouija'
-p6375
+p6459
 aS'78'
-p6376
+p6460
 aS'48'
-p6377
+p6461
+aS'30'
+p6462
+aS'0'
 aS'9'
 aS'45'
-p6378
+p6463
+aS'Ouija'
+p6464
 aS'g'
 aS'n'
 aS'i'
-aa(lp6379
+aa(lp6465
 S'Christophe Deslandes'
-p6380
+p6466
 aS'1990'
-p6381
+p6467
 aS'No. 8'
-p6382
-aS'Saint-Monde'
-p6383
+p6468
 aS'6'
 aS'4'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Saint-Monde'
+p6469
 aVFrance
-p6384
+p6470
 aV75013
-p6385
+p6471
 aVFrance métropolitaine
-p6386
-aa(lp6387
+p6472
+aa(lp6473
 S'Fabrice Heyer'
-p6388
+p6474
 aS'1990'
-p6389
+p6475
 aS'Prop'
-p6390
-aS'Clermont Ferrand'
-p6391
+p6476
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Clermont Ferrand'
+p6477
 aVFrance
-p6392
+p6478
 aV63000;63100
-p6393
+p6479
 aVFrance métropolitaine
-p6394
-aa(lp6395
+p6480
+aa(lp6481
 S'Xavier Blond'
-p6396
+p6482
 aS'1990'
-p6397
+p6483
 aS'Flanker'
-p6398
-aS'Lagny-sur-Marne'
-p6399
+p6484
 aS'6'
 aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Lagny-sur-Marne'
+p6485
 aVFrance
-p6400
+p6486
 aV77400
-p6401
+p6487
 aVFrance métropolitaine
-p6402
-aa(lp6403
+p6488
+aa(lp6489
 S'Aubin Hueber'
-p6404
+p6490
 aS'1990'
-p6405
+p6491
 aS'Scrum-half'
-p6406
-aS'Tarbes'
-p6407
+p6492
 aS'23'
-p6408
+p6493
 aS'18'
-p6409
+p6494
+aS'4'
+aS'1'
 aS'3'
 aS'21'
-p6410
-aVFrance
-p6411
-aV65000
-p6412
-aVFrance métropolitaine
-p6413
-aa(lp6414
-S'David Berty'
-p6415
-aS'1990'
-p6416
-aS'Wing'
-p6417
-aS'Toulouse'
-p6418
-aS'6'
-aS'4'
-aS'0'
-aS'0'
-aVFrance
-p6419
-aV31000;31100;31200;31300;31400;31500
-p6420
-aVFrance métropolitaine
-p6421
-aa(lp6422
-S'Jean-Francois Gourragne'
-p6423
-aS'1990'
-p6424
-aS'Lock'
-p6425
-aS'Condom'
-p6426
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p6427
-aV32100
-p6428
-aVFrance métropolitaine
-p6429
-aa(lp6430
-S'Laurent Cabannes'
-p6431
-aS'1990'
-p6432
-aS'Flanker'
-p6433
-aS'Reims'
-p6434
-aS'49'
-p6435
-aS'32'
-p6436
-aS'2'
-aS'8'
-aVFrance
-p6437
-aV51100
-p6438
-aVFrance métropolitaine
-p6439
-aa(lp6440
-S'Gregoire Lascube'
-p6441
-aS'1991'
-p6442
-aS'Prop'
-p6443
-aS'Saint-Pee-sur-Nivell'
-p6444
-aS'12'
-p6445
-aS'9'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp6446
-S'Michel Tachdjian'
-p6447
-aS'1991'
-p6448
-aS'Lock'
-p6449
-aS'Asnieres'
-p6450
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p6451
-aV27260
-p6452
-aVFrance métropolitaine
-p6453
-aa(lp6454
-S'Jean-Marie Cadieu'
-p6455
-aS'1991'
-p6456
-aS'Lock'
-p6457
-aS'Tulle'
-p6458
-aS'12'
-p6459
-aS'10'
-p6460
-aS'1'
-aS'4'
-aVFrance
-p6461
-aV19000
-p6462
-aVFrance métropolitaine
-p6463
-aa(lp6464
-S'Michel Courtiols'
-p6465
-aS'1991'
-p6466
-aS'Flanker'
-p6467
-aS'Fumel'
-p6468
-aS'3'
-aS'3'
-aS'1'
-aS'4'
-aVFrance
-p6469
-aV47500
-p6470
-aVFrance métropolitaine
-p6471
-aa(lp6472
-S'Fabien Galthie'
-p6473
-aS'1991'
-p6474
-aS'Scrum-half'
-p6475
-aS'Cahors'
-p6476
-aS'64'
-p6477
-aS'38'
-p6478
-aS'10'
-p6479
-aS'49'
-p6480
-aVFrance
-p6481
-aV46000
-p6482
-aVFrance métropolitaine
-p6483
-aa(lp6484
-S'Philippe Gimbert'
-p6485
-aS'1991'
-p6486
-aS'Prop'
-p6487
-aS'Firminy'
-p6488
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p6489
-aV42700
-p6490
-aVFrance métropolitaine
-p6491
-aa(lp6492
-S'Vincent Moscato'
-p6493
-aS'1991'
-p6494
-aS'Hooker'
 p6495
-aS'Paris'
+aS'Tarbes'
 p6496
-aS'4'
-aS'3'
-aS'0'
-aS'0'
 aVFrance
 p6497
-aVFrance métropolitaine
+aV65000
 p6498
-aVÎle-de-France
+aVFrance métropolitaine
 p6499
 aa(lp6500
-S'Serge Simon'
+S'David Berty'
 p6501
-aS'1991'
+aS'1990'
 p6502
-aS'Prop'
+aS'Wing'
 p6503
-aS'Nice'
-p6504
-aS'2'
-aS'2'
-aS'1'
+aS'6'
 aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
+p6504
 aVFrance
 p6505
-aV06000;06100;06200;06300
+aV31000;31100;31200;31300;31400;31500
 p6506
 aVFrance métropolitaine
 p6507
 aa(lp6508
-S'Jean-Francois Tordo'
+S'Jean-Francois Gourragne'
 p6509
-aS'1991'
+aS'1990'
 p6510
-aS'Flanker'
-p6511
-aS'Nice'
-p6512
-aS'15'
-p6513
-aS'10'
-p6514
-aS'0'
-aS'0'
-aVFrance
-p6515
-aV06000;06100;06200;06300
-p6516
-aVFrance métropolitaine
-p6517
-aa(lp6518
-S'Jean-Luc Sadourny'
-p6519
-aS'1991'
-p6520
-aS'Fullback'
-p6521
-aS'Toulouse'
-p6522
-aS'71'
-p6523
-aS'46'
-p6524
-aS'15'
-p6525
-aS'86'
-p6526
-aVFrance
-p6527
-aV31000;31100;31200;31300;31400;31500
-p6528
-aVFrance métropolitaine
-p6529
-aa(lp6530
-S'Christophe Mougeot'
-p6531
-aS'1992'
-p6532
 aS'Lock'
-p6533
-aS'Dijon'
-p6534
-aS'3'
+p6511
+aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Condom'
+p6512
 aVFrance
-p6535
-aV21000
-p6536
+p6513
+aV32100
+p6514
 aVFrance métropolitaine
-p6537
-aa(lp6538
-S'Alain Penaud'
-p6539
-aS'1992'
-p6540
-aS'Fly-half'
-p6541
-aS'Juillac'
-p6542
+p6515
+aa(lp6516
+S'Laurent Cabannes'
+p6517
+aS'1990'
+p6518
+aS'Flanker'
+p6519
+aS'49'
+p6520
 aS'32'
-p6543
-aS'21'
-p6544
-aS'10'
-p6545
-aS'62'
-p6546
-aVFrance
-p6547
-aVFrance métropolitaine
-p6548
-aVAquitaine
-p6549
-aa(lp6550
-S'Sebastien Viars'
-p6551
-aS'1992'
-p6552
-aS'Fullback'
-p6553
-aS'Aurillac'
-p6554
-aS'17'
-p6555
-aS'10'
-p6556
-aS'9'
-aS'127'
-p6557
-aVFrance
-p6558
-aV15000
-p6559
-aVFrance métropolitaine
-p6560
-aa(lp6561
-S'Andries van Heerden'
-p6562
-aS'1992'
-p6563
-aS'No. 8'
-p6564
-aS'Cape Town'
-p6565
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVSouth Africa
-p6566
-aVWestern Cape
-p6567
-aVCity of Cape Town
-p6568
-aa(lp6569
-S'Pierre Montlaur'
-p6570
-aS'1992'
-p6571
-aS'Fly-half, Fullback'
-p6572
-aS'Castelsarrasin'
-p6573
-aS'2'
+p6521
+aS'16'
+p6522
 aS'1'
-aS'0'
 aS'2'
+aS'8'
+aS'Reims'
+p6523
 aVFrance
-p6574
-aV82100
-p6575
+p6524
+aV51100
+p6525
 aVFrance métropolitaine
-p6576
-aa(lp6577
-S'Jean-Pierre Genet'
-p6578
-aS'1992'
-p6579
-aS'Hooker'
-p6580
-aS'Chatellerault'
-p6581
+p6526
+aa(lp6527
+S'Gregoire Lascube'
+p6528
+aS'1991'
+p6529
+aS'Prop'
+p6530
+aS'12'
+p6531
+aS'9'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Pee-sur-Nivell'
+p6532
+aS'g'
+aS'n'
+aS'i'
+aa(lp6533
+S'Michel Tachdjian'
+p6534
+aS'1991'
+p6535
+aS'Lock'
+p6536
 aS'3'
 aS'2'
-aS'0'
-aS'0'
-aVFrance
-p6582
-aV86100
-p6583
-aVFrance métropolitaine
-p6584
-aa(lp6585
-S'Christophe Deylaud'
-p6586
-aS'1992'
-p6587
-aS'Fly-half'
-p6588
-aS'Portet'
-p6589
-aS'16'
-p6590
-aS'11'
-p6591
 aS'1'
-aS'51'
+aS'0'
+aS'0'
+aS'0'
+aS'Asnieres'
+p6537
+aVFrance
+p6538
+aV27260
+p6539
+aVFrance métropolitaine
+p6540
+aa(lp6541
+S'Jean-Marie Cadieu'
+p6542
+aS'1991'
+p6543
+aS'Lock'
+p6544
+aS'12'
+p6545
+aS'10'
+p6546
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'Tulle'
+p6547
+aVFrance
+p6548
+aV19000
+p6549
+aVFrance métropolitaine
+p6550
+aa(lp6551
+S'Michel Courtiols'
+p6552
+aS'1991'
+p6553
+aS'Flanker'
+p6554
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'Fumel'
+p6555
+aVFrance
+p6556
+aV47500
+p6557
+aVFrance métropolitaine
+p6558
+aa(lp6559
+S'Fabien Galthie'
+p6560
+aS'1991'
+p6561
+aS'Scrum-half'
+p6562
+aS'64'
+p6563
+aS'38'
+p6564
+aS'25'
+p6565
+aS'1'
+aS'10'
+p6566
+aS'49'
+p6567
+aS'Cahors'
+p6568
+aVFrance
+p6569
+aV46000
+p6570
+aVFrance métropolitaine
+p6571
+aa(lp6572
+S'Philippe Gimbert'
+p6573
+aS'1991'
+p6574
+aS'Prop'
+p6575
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Firminy'
+p6576
+aVFrance
+p6577
+aV42700
+p6578
+aVFrance métropolitaine
+p6579
+aa(lp6580
+S'Vincent Moscato'
+p6581
+aS'1991'
+p6582
+aS'Hooker'
+p6583
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
+p6584
+aVFrance
+p6585
+aVFrance métropolitaine
+p6586
+aVÎle-de-France
+p6587
+aa(lp6588
+S'Serge Simon'
+p6589
+aS'1991'
+p6590
+aS'Prop'
+p6591
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'Nice'
 p6592
 aVFrance
 p6593
-aV64330
+aV06000;06100;06200;06300
 p6594
 aVFrance métropolitaine
 p6595
 aa(lp6596
-S'Michel Marfaing'
+S'Jean-Francois Tordo'
 p6597
-aS'1992'
+aS'1991'
 p6598
-aS'Centre'
-p6599
-aS'Pamiers'
-p6600
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p6601
-aV09100
-p6602
-aVFrance métropolitaine
-p6603
-aa(lp6604
-S'Stephane Ougier'
-p6605
-aS'1992'
-p6606
-aS'Fullback'
-p6607
-aS'Toulouse'
-p6608
-aS'4'
-aS'2'
-aS'0'
-aS'4'
-aVFrance
-p6609
-aV31000;31100;31200;31300;31400;31500
-p6610
-aVFrance métropolitaine
-p6611
-aa(lp6612
-S'Jean-Michel Gonzalez'
-p6613
-aS'1992'
-p6614
-aS'Hooker'
-p6615
-aS'Bayonne'
-p6616
-aS'35'
-p6617
-aS'23'
-p6618
-aS'1'
-aS'5'
-aVFrance
-p6619
-aV64100
-p6620
-aVFrance métropolitaine
-p6621
-aa(lp6622
-S'Christian Coeurveille'
-p6623
-aS'1992'
-p6624
-aS'Centre'
-p6625
-aS'Rodez'
-p6626
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p6627
-aV12000
-p6628
-aVFrance métropolitaine
-p6629
-aa(lp6630
-S'Philippe Bernat-Salles'
-p6631
-aS'1992'
-p6632
-aS'Wing'
-p6633
-aS'Pau'
-p6634
-aS'41'
-p6635
-aS'25'
-p6636
-aS'26'
-p6637
-aS'130'
-p6638
-aVFrance
-p6639
-aV64000
-p6640
-aVFrance métropolitaine
-p6641
-aa(lp6642
-S'Laurent Mazas'
-p6643
-aS'1992'
-p6644
-aS'Fly-half'
-p6645
-aS'Villefranche'
-p6646
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p6647
-aVFrance métropolitaine
-p6648
-aVCentre-Val de Loire
-p6649
-aa(lp6650
-S'Stephane Graou'
-p6651
-aS'1992'
-p6652
-aS'Prop'
-p6653
-aS'Auch'
-p6654
-aS'8'
-aS'4'
-aS'0'
-aS'0'
-aVFrance
-p6655
-aV32000
-p6656
-aVFrance métropolitaine
-p6657
-aa(lp6658
-S'Herve Couffignal'
-p6659
-aS'1993'
-p6660
-aS'Centre'
-p6661
-aS'?'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp6662
-S'Yann Lemeur'
-p6663
-aS'1993'
-p6664
-aS'Lock'
-p6665
-aS'Paris'
-p6666
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p6667
-aVFrance métropolitaine
-p6668
-aVÎle-de-France
-p6669
-aa(lp6670
-S'Laurent Verge'
-p6671
-aS'1993'
-p6672
-aS'Prop'
-p6673
-aS'?'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp6674
-S'Olivier Merle'
-p6675
-aS'1993'
-p6676
-aS'Lock'
-p6677
-aS'Chamalieres'
-p6678
-aS'45'
-p6679
-aS'31'
-p6680
-aS'6'
-aS'30'
-p6681
-aVFrance
-p6682
-aV63400
-p6683
-aVFrance métropolitaine
-p6684
-aa(lp6685
-S'Olivier Campan'
-p6686
-aS'1993'
-p6687
-aS'Centre'
-p6688
-aS'Condom'
-p6689
-aS'6'
-aS'4'
-aS'1'
-aS'5'
-aVFrance
-p6690
-aV32100
-p6691
-aVFrance métropolitaine
-p6692
-aa(lp6693
-S'Leon Loppy'
-p6694
-aS'1993'
-p6695
 aS'Flanker'
-p6696
-aS'La Seyne'
-p6697
+p6599
+aS'15'
+p6600
+aS'10'
+p6601
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Nice'
+p6602
+aVFrance
+p6603
+aV06000;06100;06200;06300
+p6604
+aVFrance métropolitaine
+p6605
+aa(lp6606
+S'Jean-Luc Sadourny'
+p6607
+aS'1991'
+p6608
+aS'Fullback'
+p6609
+aS'71'
+p6610
+aS'46'
+p6611
+aS'24'
+p6612
 aS'1'
+aS'15'
+p6613
+aS'86'
+p6614
+aS'Toulouse'
+p6615
+aVFrance
+p6616
+aV31000;31100;31200;31300;31400;31500
+p6617
+aVFrance métropolitaine
+p6618
+aa(lp6619
+S'Christophe Mougeot'
+p6620
+aS'1992'
+p6621
+aS'Lock'
+p6622
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dijon'
+p6623
+aVFrance
+p6624
+aV21000
+p6625
+aVFrance métropolitaine
+p6626
+aa(lp6627
+S'Alain Penaud'
+p6628
+aS'1992'
+p6629
+aS'Fly-half'
+p6630
+aS'32'
+p6631
+aS'21'
+p6632
+aS'10'
+p6633
+aS'1'
+aS'10'
+p6634
+aS'62'
+p6635
+aS'Juillac'
+p6636
+aVFrance
+p6637
+aVFrance métropolitaine
+p6638
+aVAquitaine
+p6639
+aa(lp6640
+S'Sebastien Viars'
+p6641
+aS'1992'
+p6642
+aS'Fullback'
+p6643
+aS'17'
+p6644
+aS'10'
+p6645
+aS'7'
+aS'0'
+aS'9'
+aS'127'
+p6646
+aS'Aurillac'
+p6647
+aVFrance
+p6648
+aV15000
+p6649
+aVFrance métropolitaine
+p6650
+aa(lp6651
+S'Andries van Heerden'
+p6652
+aS'1992'
+p6653
+aS'No. 8'
+p6654
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Cape Town'
+p6655
+aVSouth Africa
+p6656
+aVWestern Cape
+p6657
+aVCity of Cape Town
+p6658
+aa(lp6659
+S'Pierre Montlaur'
+p6660
+aS'1992'
+p6661
+aS'Fly-half, Fullback'
+p6662
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'Castelsarrasin'
+p6663
+aVFrance
+p6664
+aV82100
+p6665
+aVFrance métropolitaine
+p6666
+aa(lp6667
+S'Jean-Pierre Genet'
+p6668
+aS'1992'
+p6669
+aS'Hooker'
+p6670
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Chatellerault'
+p6671
+aVFrance
+p6672
+aV86100
+p6673
+aVFrance métropolitaine
+p6674
+aa(lp6675
+S'Christophe Deylaud'
+p6676
+aS'1992'
+p6677
+aS'Fly-half'
+p6678
+aS'16'
+p6679
+aS'11'
+p6680
+aS'5'
+aS'0'
+aS'1'
+aS'51'
+p6681
+aS'Portet'
+p6682
+aVFrance
+p6683
+aV64330
+p6684
+aVFrance métropolitaine
+p6685
+aa(lp6686
+S'Michel Marfaing'
+p6687
+aS'1992'
+p6688
+aS'Centre'
+p6689
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Pamiers'
+p6690
+aVFrance
+p6691
+aV09100
+p6692
+aVFrance métropolitaine
+p6693
+aa(lp6694
+S'Stephane Ougier'
+p6695
+aS'1992'
+p6696
+aS'Fullback'
+p6697
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'4'
+aS'Toulouse'
+p6698
+aVFrance
+p6699
+aV31000;31100;31200;31300;31400;31500
+p6700
+aVFrance métropolitaine
+p6701
+aa(lp6702
+S'Jean-Michel Gonzalez'
+p6703
+aS'1992'
+p6704
+aS'Hooker'
+p6705
+aS'35'
+p6706
+aS'23'
+p6707
+aS'11'
+p6708
 aS'1'
 aS'1'
 aS'5'
-aVFrance
-p6698
-aV04140
-p6699
-aVFrance métropolitaine
-p6700
-aa(lp6701
-S'Emile Ntamack'
-p6702
-aS'1994'
-p6703
-aS'Wing'
-p6704
-aS'Lyon'
-p6705
-aS'46'
-p6706
-aS'32'
-p6707
-aS'26'
-p6708
-aS'135'
+aS'Bayonne'
 p6709
 aVFrance
 p6710
-aVFrance métropolitaine
+aV64100
 p6711
-aVRhône-Alpes
+aVFrance métropolitaine
 p6712
 aa(lp6713
-S'Laurent Benezech'
+S'Christian Coeurveille'
 p6714
-aS'1994'
+aS'1992'
 p6715
-aS'Prop'
+aS'Centre'
 p6716
-aS'Pamiers'
-p6717
-aS'15'
-p6718
-aS'11'
-p6719
-aS'0'
-aS'0'
-aVFrance
-p6720
-aV09100
-p6721
-aVFrance métropolitaine
-p6722
-aa(lp6723
-S'William Techoueyres'
-p6724
-aS'1994'
-p6725
-aS'Wing'
-p6726
-aS'Bordeaux'
-p6727
-aS'3'
 aS'2'
-aS'1'
-aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Rodez'
+p6717
 aVFrance
-p6728
-aV33000;33100;33300;33800
-p6729
+p6718
+aV12000
+p6719
 aVFrance métropolitaine
+p6720
+aa(lp6721
+S'Philippe Bernat-Salles'
+p6722
+aS'1992'
+p6723
+aS'Wing'
+p6724
+aS'41'
+p6725
+aS'25'
+p6726
+aS'15'
+p6727
+aS'1'
+aS'26'
+p6728
+aS'130'
+p6729
+aS'Pau'
 p6730
-aa(lp6731
-S'Olivier Brouzet'
+aVFrance
+p6731
+aV64000
 p6732
-aS'1994'
+aVFrance métropolitaine
 p6733
-aS'Lock'
-p6734
-aS'Beziers'
+aa(lp6734
+S'Laurent Mazas'
 p6735
-aS'71'
+aS'1992'
 p6736
-aS'46'
+aS'Fly-half'
 p6737
 aS'2'
-aS'10'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Villefranche'
 p6738
 aVFrance
 p6739
-aV34500
-p6740
 aVFrance métropolitaine
+p6740
+aVCentre-Val de Loire
 p6741
 aa(lp6742
-S'Yann Delaigue'
+S'Stephane Graou'
 p6743
-aS'1994'
+aS'1992'
 p6744
-aS'Fly-half'
-p6745
-aS'Vienne'
-p6746
-aS'20'
-p6747
-aS'16'
-p6748
-aS'2'
-aS'37'
-p6749
-aVÖsterreich
-p6750
-aVWien
-p6751
-ag95
-aa(lp6752
-S'Alain Macabiau'
-p6753
-aS'1994'
-p6754
-aS'Scrum-half'
-p6755
-aS'Perpignan'
-p6756
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p6757
-aV66000;66100
-p6758
-aVFrance métropolitaine
-p6759
-aa(lp6760
-S'Guy Accoceberry'
-p6761
-aS'1994'
-p6762
-aS'Scrum-half'
-p6763
-aS'Vittel'
-p6764
-aS'19'
-p6765
-aS'14'
-p6766
-aS'2'
-aS'10'
-p6767
-aVFrance
-p6768
-aV88800
-p6769
-aVFrance métropolitaine
-p6770
-aa(lp6771
-S'Christian Califano'
-p6772
-aS'1994'
-p6773
 aS'Prop'
-p6774
-aS'Toulon'
-p6775
-aS'71'
-p6776
-aS'41'
-p6777
-aS'6'
-aS'30'
-p6778
-aVFrance
-p6779
-aV83000;83100;83200
-p6780
-aVFrance métropolitaine
-p6781
-aa(lp6782
-S'Arnaud Costes'
-p6783
-aS'1994'
-p6784
-aS'Flanker'
-p6785
-aS'Tulle'
-p6786
-aS'14'
-p6787
-aS'9'
-aS'1'
-aS'5'
-aVFrance
-p6788
-aV19000
-p6789
-aVFrance métropolitaine
-p6790
-aa(lp6791
-S'Marc de Rougemont'
-p6792
-aS'1995'
-p6793
-aS'Hooker'
-p6794
-aS'Marseille'
-p6795
-aS'13'
-p6796
-aS'9'
-aS'0'
-aS'0'
-aVFrance
-p6797
-aVFrance métropolitaine
-p6798
-aVProvence-Alpes-Côte d'Azur
-p6799
-aa(lp6800
-S'Albert Cigagna'
-p6801
-aS'1995'
-p6802
-aS'Back-row'
-p6803
-aS'Toulouse'
-p6804
-aS'1'
+p6745
+aS'8'
+aS'4'
+aS'3'
 aS'1'
 aS'0'
 aS'0'
+aS'Auch'
+p6746
 aVFrance
-p6805
-aV31000;31100;31200;31300;31400;31500
-p6806
+p6747
+aV32000
+p6748
 aVFrance métropolitaine
-p6807
-aa(lp6808
-S'Alain Hyardet'
-p6809
-aS'1995'
-p6810
+p6749
+aa(lp6750
+S'Herve Couffignal'
+p6751
+aS'1993'
+p6752
 aS'Centre'
-p6811
-aS'Aix-le-Province'
-p6812
-aS'2'
-aS'2'
+p6753
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp6813
-S'Marc Lievremont'
-p6814
-aS'1995'
-p6815
-aS'Flanker'
-p6816
-aS'Dakar'
-p6817
-aS'25'
-p6818
-aS'19'
-p6819
-aS'5'
-aS'25'
-p6820
-aVSenegal
-p6821
-aVDakar
-p6822
-ag95
-aa(lp6823
-S'Franck Tournaire'
-p6824
-aS'1995'
-p6825
+aa(lp6754
+S'Yann Lemeur'
+p6755
+aS'1993'
+p6756
+aS'Lock'
+p6757
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
+p6758
+aVFrance
+p6759
+aVFrance métropolitaine
+p6760
+aVÎle-de-France
+p6761
+aa(lp6762
+S'Laurent Verge'
+p6763
+aS'1993'
+p6764
 aS'Prop'
-p6826
-aS'Narbonne'
-p6827
-aS'49'
-p6828
-aS'32'
-p6829
-aS'2'
-aS'10'
-p6830
+p6765
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aa(lp6766
+S'Olivier Merle'
+p6767
+aS'1993'
+p6768
+aS'Lock'
+p6769
+aS'45'
+p6770
+aS'31'
+p6771
+aS'13'
+p6772
+aS'1'
+aS'6'
+aS'30'
+p6773
+aS'Chamalieres'
+p6774
 aVFrance
-p6831
-aV11100
-p6832
+p6775
+aV63400
+p6776
 aVFrance métropolitaine
-p6833
-aa(lp6834
-S'Patrick Arlettaz'
-p6835
-aS'1995'
-p6836
+p6777
+aa(lp6778
+S'Olivier Campan'
+p6779
+aS'1993'
+p6780
 aS'Centre'
-p6837
-aS'Perpignan'
-p6838
+p6781
+aS'6'
+aS'4'
 aS'1'
+aS'1'
+aS'1'
+aS'5'
+aS'Condom'
+p6782
+aVFrance
+p6783
+aV32100
+p6784
+aVFrance métropolitaine
+p6785
+aa(lp6786
+S'Leon Loppy'
+p6787
+aS'1993'
+p6788
+aS'Flanker'
+p6789
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'La Seyne'
+p6790
+aVFrance
+p6791
+aV04140
+p6792
+aVFrance métropolitaine
+p6793
+aa(lp6794
+S'Emile Ntamack'
+p6795
+aS'1994'
+p6796
+aS'Wing'
+p6797
+aS'46'
+p6798
+aS'32'
+p6799
+aS'14'
+p6800
+aS'0'
+aS'26'
+p6801
+aS'135'
+p6802
+aS'Lyon'
+p6803
+aVFrance
+p6804
+aVFrance métropolitaine
+p6805
+aVRhône-Alpes
+p6806
+aa(lp6807
+S'Laurent Benezech'
+p6808
+aS'1994'
+p6809
+aS'Prop'
+p6810
+aS'15'
+p6811
+aS'11'
+p6812
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Pamiers'
+p6813
+aVFrance
+p6814
+aV09100
+p6815
+aVFrance métropolitaine
+p6816
+aa(lp6817
+S'William Techoueyres'
+p6818
+aS'1994'
+p6819
+aS'Wing'
+p6820
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Bordeaux'
+p6821
+aVFrance
+p6822
+aV33000;33100;33300;33800
+p6823
+aVFrance métropolitaine
+p6824
+aa(lp6825
+S'Olivier Brouzet'
+p6826
+aS'1994'
+p6827
+aS'Lock'
+p6828
+aS'71'
+p6829
+aS'46'
+p6830
+aS'24'
+p6831
 aS'1'
 aS'2'
 aS'10'
-p6839
+p6832
+aS'Beziers'
+p6833
 aVFrance
-p6840
-aV66000;66100
-p6841
+p6834
+aV34500
+p6835
 aVFrance métropolitaine
+p6836
+aa(lp6837
+S'Yann Delaigue'
+p6838
+aS'1994'
+p6839
+aS'Fly-half'
+p6840
+aS'20'
+p6841
+aS'16'
 p6842
-aa(lp6843
-S'Olivier Azam'
+aS'4'
+aS'0'
+aS'2'
+aS'37'
+p6843
+aS'Vienne'
 p6844
-aS'1995'
+aVÖsterreich
 p6845
-aS'Hooker'
+aVWien
 p6846
-aS'Tarbes'
-p6847
-aS'10'
+ag97
+aa(lp6847
+S'Alain Macabiau'
 p6848
+aS'1994'
+p6849
+aS'Scrum-half'
+p6850
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
+p6851
+aVFrance
+p6852
+aV66000;66100
+p6853
+aVFrance métropolitaine
+p6854
+aa(lp6855
+S'Guy Accoceberry'
+p6856
+aS'1994'
+p6857
+aS'Scrum-half'
+p6858
+aS'19'
+p6859
+aS'14'
+p6860
 aS'5'
 aS'0'
-aS'0'
+aS'2'
+aS'10'
+p6861
+aS'Vittel'
+p6862
 aVFrance
-p6849
-aV65000
-p6850
+p6863
+aV88800
+p6864
 aVFrance métropolitaine
-p6851
-aa(lp6852
-S'Philippe Carbonneau'
-p6853
+p6865
+aa(lp6866
+S'Christian Califano'
+p6867
+aS'1994'
+p6868
+aS'Prop'
+p6869
+aS'71'
+p6870
+aS'41'
+p6871
+aS'30'
+p6872
+aS'0'
+aS'6'
+aS'30'
+p6873
+aS'Toulon'
+p6874
+aVFrance
+p6875
+aV83000;83100;83200
+p6876
+aVFrance métropolitaine
+p6877
+aa(lp6878
+S'Arnaud Costes'
+p6879
+aS'1994'
+p6880
+aS'Flanker'
+p6881
+aS'14'
+p6882
+aS'9'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'Tulle'
+p6883
+aVFrance
+p6884
+aV19000
+p6885
+aVFrance métropolitaine
+p6886
+aa(lp6887
+S'Marc de Rougemont'
+p6888
 aS'1995'
-p6854
-aS'Scrum-half'
-p6855
+p6889
+aS'Hooker'
+p6890
+aS'13'
+p6891
+aS'9'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Marseille'
+p6892
+aVFrance
+p6893
+aVFrance métropolitaine
+p6894
+aVProvence-Alpes-Côte d'Azur
+p6895
+aa(lp6896
+S'Albert Cigagna'
+p6897
+aS'1995'
+p6898
+aS'Back-row'
+p6899
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Toulouse'
-p6856
-aS'32'
-p6857
-aS'22'
-p6858
+p6900
+aVFrance
+p6901
+aV31000;31100;31200;31300;31400;31500
+p6902
+aVFrance métropolitaine
+p6903
+aa(lp6904
+S'Alain Hyardet'
+p6905
+aS'1995'
+p6906
+aS'Centre'
+p6907
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Aix-le-Province'
+p6908
+aS'g'
+aS'n'
+aS'i'
+aa(lp6909
+S'Marc Lievremont'
+p6910
+aS'1995'
+p6911
+aS'Flanker'
+p6912
+aS'25'
+p6913
+aS'19'
+p6914
+aS'6'
+aS'0'
 aS'5'
 aS'25'
-p6859
-aVFrance
-p6860
-aV31000;31100;31200;31300;31400;31500
-p6861
-aVFrance métropolitaine
-p6862
-aa(lp6863
-S'Thomas Castaignede'
-p6864
+p6915
+aS'Dakar'
+p6916
+aVSenegal
+p6917
+aVDakar
+p6918
+ag97
+aa(lp6919
+S'Franck Tournaire'
+p6920
 aS'1995'
-p6865
-aS'Fullback, Fly-half'
-p6866
-aS'Mont-de-Marsan'
-p6867
-aS'54'
-p6868
-aS'37'
-p6869
-aS'18'
-p6870
-aS'252'
-p6871
+p6921
+aS'Prop'
+p6922
+aS'49'
+p6923
+aS'32'
+p6924
+aS'17'
+p6925
+aS'0'
+aS'2'
+aS'10'
+p6926
+aS'Narbonne'
+p6927
 aVFrance
-p6872
-aV40000
-p6873
+p6928
+aV11100
+p6929
 aVFrance métropolitaine
-p6874
-aa(lp6875
-S'Richard Dourthe'
-p6876
+p6930
+aa(lp6931
+S'Patrick Arlettaz'
+p6932
 aS'1995'
-p6877
+p6933
 aS'Centre'
-p6878
-aS'Dax'
-p6879
+p6934
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'10'
+p6935
+aS'Perpignan'
+p6936
+aVFrance
+p6937
+aV66000;66100
+p6938
+aVFrance métropolitaine
+p6939
+aa(lp6940
+S'Olivier Azam'
+p6941
+aS'1995'
+p6942
+aS'Hooker'
+p6943
+aS'10'
+p6944
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Tarbes'
+p6945
+aVFrance
+p6946
+aV65000
+p6947
+aVFrance métropolitaine
+p6948
+aa(lp6949
+S'Philippe Carbonneau'
+p6950
+aS'1995'
+p6951
+aS'Scrum-half'
+p6952
+aS'32'
+p6953
+aS'22'
+p6954
+aS'10'
+p6955
+aS'0'
+aS'5'
+aS'25'
+p6956
+aS'Toulouse'
+p6957
+aVFrance
+p6958
+aV31000;31100;31200;31300;31400;31500
+p6959
+aVFrance métropolitaine
+p6960
+aa(lp6961
+S'Thomas Castaignede'
+p6962
+aS'1995'
+p6963
+aS'Fullback, Fly-half'
+p6964
+aS'54'
+p6965
+aS'37'
+p6966
+aS'16'
+p6967
+aS'1'
+aS'18'
+p6968
+aS'252'
+p6969
+aS'Mont-de-Marsan'
+p6970
+aVFrance
+p6971
+aV40000
+p6972
+aVFrance métropolitaine
+p6973
+aa(lp6974
+S'Richard Dourthe'
+p6975
+aS'1995'
+p6976
+aS'Centre'
+p6977
 aS'31'
-p6880
+p6978
 aS'20'
-p6881
+p6979
+aS'11'
+p6980
+aS'0'
 aS'3'
 aS'183'
-p6882
+p6981
+aS'Dax'
+p6982
 aVFrance
-p6883
+p6983
 aV40100
-p6884
+p6984
 aVFrance métropolitaine
-p6885
-aa(lp6886
+p6985
+aa(lp6986
 S'Christophe Juillet'
-p6887
+p6987
 aS'1995'
-p6888
+p6988
 aS'No. 8'
-p6889
-aS'Villeneuve-sur-Lot'
-p6890
+p6989
 aS'18'
-p6891
+p6990
 aS'10'
-p6892
+p6991
+aS'8'
+aS'0'
 aS'2'
 aS'10'
-p6893
+p6992
+aS'Villeneuve-sur-Lot'
+p6993
 aVFrance
-p6894
+p6994
 aV47300
-p6895
+p6995
 aVFrance métropolitaine
-p6896
-aa(lp6897
+p6996
+aa(lp6997
 S'Fabien Pelous'
-p6898
+p6998
 aS'1995'
-p6899
+p6999
 aS'No. 8, Lock'
-p6900
-aS'Toulouse'
-p6901
+p7000
 aS'118'
-p6902
+p7001
 aS'79'
-p6903
+p7002
+aS'38'
+p7003
+aS'1'
 aS'8'
 aS'40'
-p6904
+p7004
+aS'Toulouse'
+p7005
 aVFrance
-p6905
+p7006
 aV31000;31100;31200;31300;31400;31500
-p6906
+p7007
 aVFrance métropolitaine
-p6907
-aa(lp6908
+p7008
+aa(lp7009
 S'Michel Perie'
-p6909
+p7010
 aS'1996'
-p6910
+p7011
 aS'Prop'
-p6911
-aS'Le Pradet'
-p6912
+p7012
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Le Pradet'
+p7013
 aVFrance
-p6913
+p7014
 aV83220
-p6914
+p7015
 aVFrance métropolitaine
-p6915
-aa(lp6916
+p7016
+aa(lp7017
 S'Stephane Glas'
-p6917
+p7018
 aS'1996'
-p6918
+p7019
 aS'Centre'
-p6919
-aS'Bourgoin'
-p6920
+p7020
 aS'37'
-p6921
+p7021
 aS'24'
-p6922
+p7022
+aS'13'
+p7023
+aS'0'
 aS'9'
 aS'45'
-p6923
+p7024
+aS'Bourgoin'
+p7025
 aVFrance
-p6924
+p7026
 aV62575
-p6925
+p7027
 aVFrance métropolitaine
-p6926
-aa(lp6927
+p7028
+aa(lp7029
 S'Richard Castel'
-p6928
+p7030
 aS'1996'
-p6929
+p7031
 aS'Flanker'
-p6930
-aS'Vendres'
-p6931
+p7032
 aS'15'
-p6932
+p7033
 aS'7'
+aS'8'
+aS'0'
 aS'2'
 aS'10'
-p6933
+p7034
+aS'Vendres'
+p7035
 aVFrance
-p6934
+p7036
 aV34350
-p6935
+p7037
 aVFrance métropolitaine
-p6936
-aa(lp6937
+p7038
+aa(lp7039
 S'Sylvain Dispagne'
-p6938
+p7040
 aS'1996'
-p6939
+p7041
 aS'No. 8'
-p6940
-aS'Saint-Girons'
-p6941
+p7042
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Saint-Girons'
+p7043
 aVFrance
-p6942
+p7044
 aV09200
-p6943
+p7045
 aVFrance métropolitaine
-p6944
-aa(lp6945
+p7046
+aa(lp7047
 S'Raphael Ibanez'
-p6946
+p7048
 aS'1996'
-p6947
+p7049
 aS'Hooker'
-p6948
-aS'Dax'
-p6949
+p7050
 aS'98'
-p6950
+p7051
 aS'63'
-p6951
+p7052
+aS'34'
+p7053
+aS'1'
 aS'8'
 aS'40'
-p6952
-aVFrance
-p6953
-aV40100
-p6954
-aVFrance métropolitaine
-p6955
-aa(lp6956
-S'Herve Guiraud'
-p6957
-aS'1996'
-p6958
-aS'Hooker'
-p6959
-aS'Castelnaudary'
-p6960
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p6961
-aV11400
-p6962
-aVFrance métropolitaine
-p6963
-aa(lp6964
-S'Thierry Labrousse'
-p6965
-aS'1996'
-p6966
-aS'Back-row'
-p6967
-aS'Perigueux'
-p6968
-aS'2'
-aS'1'
-aS'2'
-aS'10'
-p6969
-aVFrance
-p6970
-aV24000
-p6971
-aVFrance métropolitaine
-p6972
-aa(lp6973
-S'Hugues Miorin'
-p6974
-aS'1996'
-p6975
-aS'Lock'
-p6976
-aS'Fumel'
-p6977
-aS'9'
-aS'7'
-aS'0'
-aS'0'
-aVFrance
-p6978
-aV47500
-p6979
-aVFrance métropolitaine
-p6980
-aa(lp6981
-S'Christophe Moni'
-p6982
-aS'1996'
-p6983
-aS'Flanker'
-p6984
-aS'Nice'
-p6985
-aS'8'
-aS'4'
-aS'1'
-aS'5'
-aVFrance
-p6986
-aV06000;06100;06200;06300
-p6987
-aVFrance métropolitaine
-p6988
-aa(lp6989
-S'David Venditti'
-p6990
-aS'1996'
-p6991
-aS'Wing'
-p6992
-aS'Bellegarde'
-p6993
-aS'14'
-p6994
-aS'9'
-aS'6'
-aS'30'
-p6995
-aVFrance
-p6996
-aV30127
-p6997
-aVFrance métropolitaine
-p6998
-aa(lp6999
-S'Jean-Louis Jordana'
-p7000
-aS'1996'
-p7001
-aS'Prop'
-p7002
-aS'Lavelanet'
-p7003
-aS'7'
-aS'7'
-aS'0'
-aS'0'
-aVFrance
-p7004
-aV09300
-p7005
-aVFrance métropolitaine
-p7006
-aa(lp7007
-S'Thomas Lievremont'
-p7008
-aS'1996'
-p7009
-aS'No. 8'
-p7010
-aS'Perpignan'
-p7011
-aS'35'
-p7012
-aS'27'
-p7013
-aS'6'
-aS'30'
-p7014
-aVFrance
-p7015
-aV66000;66100
-p7016
-aVFrance métropolitaine
-p7017
-aa(lp7018
-S'Guillaume Bouic'
-p7019
-aS'1996'
-p7020
-aS'Centre'
-p7021
-aS'Agen'
-p7022
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p7023
-aV47000
-p7024
-aVFrance métropolitaine
-p7025
-aa(lp7026
-S'Christophe Lamaison'
-p7027
-aS'1996'
-p7028
-aS'Centre, Fly-half'
-p7029
-aS'Dax'
-p7030
-aS'37'
-p7031
-aS'23'
-p7032
-aS'2'
-aS'380'
-p7033
-aVFrance
-p7034
-aV40100
-p7035
-aVFrance métropolitaine
-p7036
-aa(lp7037
-S'Laurent Leflamand'
-p7038
-aS'1996'
-p7039
-aS'Wing'
-p7040
-aS'Cherbourg'
-p7041
-aS'8'
-aS'5'
-aS'5'
-aS'25'
-p7042
-aVFrance
-p7043
-aV50100;50130
-p7044
-aVFrance métropolitaine
-p7045
-aa(lp7046
-S'Jean-Jacques Crenca'
-p7047
-aS'1996'
-p7048
-aS'Prop'
-p7049
-aS'Marmande'
-p7050
-aS'39'
-p7051
-aS'27'
-p7052
-aS'4'
-aS'20'
-p7053
-aVFrance
 p7054
-aV47200
+aS'Dax'
 p7055
-aVFrance métropolitaine
+aVFrance
 p7056
-aa(lp7057
-S'David Aucagne'
+aV40100
+p7057
+aVFrance métropolitaine
 p7058
-aS'1997'
-p7059
-aS'Fly-half'
+aa(lp7059
+S'Herve Guiraud'
 p7060
-aS'Vichy'
+aS'1996'
 p7061
-aS'15'
+aS'Hooker'
 p7062
-aS'9'
 aS'1'
-aS'38'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Castelnaudary'
 p7063
 aVFrance
 p7064
-aV03200
+aV11400
 p7065
 aVFrance métropolitaine
 p7066
 aa(lp7067
-S'Olivier Magne'
+S'Thierry Labrousse'
 p7068
-aS'1997'
+aS'1996'
 p7069
-aS'Flanker'
+aS'Back-row'
 p7070
-aS'Aurillac'
-p7071
-aS'89'
-p7072
-aS'59'
-p7073
-aS'14'
-p7074
-aS'70'
-p7075
-aVFrance
-p7076
-aV15000
-p7077
-aVFrance métropolitaine
-p7078
-aa(lp7079
-S'Didier Casadei'
-p7080
-aS'1997'
-p7081
-aS'Prop'
-p7082
-aS'Brive'
-p7083
-aS'3'
 aS'2'
+aS'1'
+aS'1'
 aS'0'
-aS'0'
-aVFrance
-p7084
-aV01470
-p7085
-aVFrance métropolitaine
-p7086
-aa(lp7087
-S'Pierre Bondouy'
-p7088
-aS'1997'
-p7089
-aS'Fullback'
-p7090
-aS'Ville Lauragais'
-p7091
-aS'5'
-aS'3'
 aS'2'
 aS'10'
-p7092
-aVMayotte (eaux territoriales)
-p7093
+p7071
+aS'Perigueux'
+p7072
 aVFrance
-p7094
-aVMayotte
-p7095
-aa(lp7096
-S'Ugo Mola'
-p7097
-aS'1997'
-p7098
-aS'Wing'
-p7099
-aS'Saint-Foy-la-Grande'
-p7100
-aS'12'
-p7101
+p7073
+aV24000
+p7074
+aVFrance métropolitaine
+p7075
+aa(lp7076
+S'Hugues Miorin'
+p7077
+aS'1996'
+p7078
+aS'Lock'
+p7079
+aS'9'
+aS'7'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Fumel'
+p7080
+aVFrance
+p7081
+aV47500
+p7082
+aVFrance métropolitaine
+p7083
+aa(lp7084
+S'Christophe Moni'
+p7085
+aS'1996'
+p7086
+aS'Flanker'
+p7087
 aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'1'
+aS'5'
+aS'Nice'
+p7088
+aVFrance
+p7089
+aV06000;06100;06200;06300
+p7090
+aVFrance métropolitaine
+p7091
+aa(lp7092
+S'David Venditti'
+p7093
+aS'1996'
+p7094
+aS'Wing'
+p7095
+aS'14'
+p7096
+aS'9'
+aS'5'
+aS'0'
 aS'6'
 aS'30'
-p7102
+p7097
+aS'Bellegarde'
+p7098
 aVFrance
+p7099
+aV30127
+p7100
+aVFrance métropolitaine
+p7101
+aa(lp7102
+S'Jean-Louis Jordana'
 p7103
-aV33220
+aS'1996'
 p7104
-aVFrance métropolitaine
-p7105
-aa(lp7106
-S'Serge Betsen Tchoua'
-p7107
-aS'1997'
-p7108
-aS'Flanker'
-p7109
-aS'Kumba'
-p7110
-aS'63'
-p7111
-aS'43'
-p7112
-aS'9'
-aS'45'
-p7113
-aVCameroun
-p7114
-aVSW
-p7115
-aVMeme
-p7116
-aa(lp7117
-S'David Dantiacq'
-p7118
-aS'1997'
-p7119
-aS'Centre'
-p7120
-aS'Paris'
-p7121
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p7122
-aVFrance métropolitaine
-p7123
-aVÎle-de-France
-p7124
-aa(lp7125
-S'Frederic Torossian'
-p7126
-aS'1997'
-p7127
-aS'Scrum-half'
-p7128
-aS'Auch'
-p7129
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p7130
-aV32000
-p7131
-aVFrance métropolitaine
-p7132
-aa(lp7133
-S'David Laperne'
-p7134
-aS'1997'
-p7135
 aS'Prop'
+p7105
+aS'7'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Lavelanet'
+p7106
+aVFrance
+p7107
+aV09300
+p7108
+aVFrance métropolitaine
+p7109
+aa(lp7110
+S'Thomas Lievremont'
+p7111
+aS'1996'
+p7112
+aS'No. 8'
+p7113
+aS'35'
+p7114
+aS'27'
+p7115
+aS'8'
+aS'0'
+aS'6'
+aS'30'
+p7116
+aS'Perpignan'
+p7117
+aVFrance
+p7118
+aV66000;66100
+p7119
+aVFrance métropolitaine
+p7120
+aa(lp7121
+S'Guillaume Bouic'
+p7122
+aS'1996'
+p7123
+aS'Centre'
+p7124
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Agen'
+p7125
+aVFrance
+p7126
+aV47000
+p7127
+aVFrance métropolitaine
+p7128
+aa(lp7129
+S'Christophe Lamaison'
+p7130
+aS'1996'
+p7131
+aS'Centre, Fly-half'
+p7132
+aS'37'
+p7133
+aS'23'
+p7134
+aS'14'
+p7135
+aS'0'
+aS'2'
+aS'380'
 p7136
-aS'Oloron'
+aS'Dax'
 p7137
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
 p7138
-aV64400
+aV40100
 p7139
 aVFrance métropolitaine
 p7140
 aa(lp7141
-S'Jerome Cazalbou'
+S'Laurent Leflamand'
 p7142
-aS'1997'
+aS'1996'
 p7143
-aS'Scrum-half'
+aS'Wing'
 p7144
-aS'Toulouse'
-p7145
-aS'4'
+aS'8'
+aS'5'
 aS'3'
 aS'0'
-aS'0'
-aVFrance
+aS'5'
+aS'25'
+p7145
+aS'Cherbourg'
 p7146
-aV31000;31100;31200;31300;31400;31500
-p7147
-aVFrance métropolitaine
-p7148
-aa(lp7149
-S'Nicolas Bacque'
-p7150
-aS'1997'
-p7151
-aS'Flanker'
-p7152
-aS'Tarbes'
-p7153
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
-p7154
-aV65000
-p7155
+p7147
+aV50100;50130
+p7148
 aVFrance métropolitaine
-p7156
-aa(lp7157
-S'Cedric Soulette'
-p7158
-aS'1997'
-p7159
+p7149
+aa(lp7150
+S'Jean-Jacques Crenca'
+p7151
+aS'1996'
+p7152
 aS'Prop'
-p7160
-aS'Beziers'
-p7161
-aS'13'
-p7162
+p7153
+aS'39'
+p7154
+aS'27'
+p7155
 aS'11'
+p7156
+aS'1'
+aS'4'
+aS'20'
+p7157
+aS'Marmande'
+p7158
+aVFrance
+p7159
+aV47200
+p7160
+aVFrance métropolitaine
+p7161
+aa(lp7162
+S'David Aucagne'
 p7163
+aS'1997'
+p7164
+aS'Fly-half'
+p7165
+aS'15'
+p7166
+aS'9'
+aS'6'
+aS'0'
+aS'1'
+aS'38'
+p7167
+aS'Vichy'
+p7168
+aVFrance
+p7169
+aV03200
+p7170
+aVFrance métropolitaine
+p7171
+aa(lp7172
+S'Olivier Magne'
+p7173
+aS'1997'
+p7174
+aS'Flanker'
+p7175
+aS'89'
+p7176
+aS'59'
+p7177
+aS'28'
+p7178
+aS'2'
+aS'14'
+p7179
+aS'70'
+p7180
+aS'Aurillac'
+p7181
+aVFrance
+p7182
+aV15000
+p7183
+aVFrance métropolitaine
+p7184
+aa(lp7185
+S'Didier Casadei'
+p7186
+aS'1997'
+p7187
+aS'Prop'
+p7188
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Brive'
+p7189
+aVFrance
+p7190
+aV01470
+p7191
+aVFrance métropolitaine
+p7192
+aa(lp7193
+S'Pierre Bondouy'
+p7194
+aS'1997'
+p7195
+aS'Fullback'
+p7196
+aS'5'
+aS'3'
+aS'2'
+aS'0'
 aS'2'
 aS'10'
-p7164
-aVFrance
-p7165
-aV34500
-p7166
-aVFrance métropolitaine
-p7167
-aa(lp7168
-S'Nicolas Brusque'
-p7169
-aS'1997'
-p7170
-aS'Fullback, Wing'
-p7171
-aS'Pau'
-p7172
-aS'27'
-p7173
-aS'17'
-p7174
-aS'7'
-aS'38'
-p7175
-aVFrance
-p7176
-aV64000
-p7177
-aVFrance métropolitaine
-p7178
-aa(lp7179
-S'Pierre Mignoni'
-p7180
-aS'1997'
-p7181
-aS'Scrum-half'
-p7182
-aS'Toulon'
-p7183
-aS'28'
-p7184
-aS'21'
-p7185
-aS'6'
-aS'30'
-p7186
-aVFrance
-p7187
-aV83000;83100;83200
-p7188
-aVFrance métropolitaine
-p7189
-aa(lp7190
-S'Christophe Dominici'
-p7191
-aS'1998'
-p7192
-aS'Wing, Fullback'
-p7193
-aS'Toulon'
-p7194
-aS'67'
-p7195
-aS'44'
-p7196
-aS'25'
 p7197
-aS'125'
+aS'Ville Lauragais'
 p7198
-aVFrance
+aVMayotte (eaux territoriales)
 p7199
-aV83000;83100;83200
+aVFrance
 p7200
-aVFrance métropolitaine
+aVMayotte
 p7201
 aa(lp7202
-S'Thierry Cleda'
+S'Ugo Mola'
 p7203
-aS'1998'
+aS'1997'
 p7204
-aS'Lock'
+aS'Wing'
 p7205
-aS'Soissons'
+aS'12'
 p7206
-aS'9'
 aS'8'
+aS'4'
 aS'0'
-aS'0'
-aVFrance
-p7207
-aV02200
-p7208
-aVFrance métropolitaine
-p7209
-aa(lp7210
-S'Xavier Garbajosa'
-p7211
-aS'1998'
-p7212
-aS'Centre'
-p7213
-aS'Toulouse'
-p7214
-aS'32'
-p7215
-aS'19'
-p7216
 aS'6'
 aS'30'
-p7217
+p7207
+aS'Saint-Foy-la-Grande'
+p7208
 aVFrance
-p7218
-aV31000;31100;31200;31300;31400;31500
-p7219
+p7209
+aV33220
+p7210
 aVFrance métropolitaine
-p7220
-aa(lp7221
-S'Jean-Marc Aue'
-p7222
-aS'1998'
-p7223
-aS'Centre'
-p7224
-aS'Carmaux'
-p7225
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p7226
-aV81400
-p7227
-aVFrance métropolitaine
-p7228
-aa(lp7229
-S'Franck Comba'
-p7230
-aS'1998'
-p7231
-aS'Centre'
-p7232
-aS'Hyeres'
-p7233
-aS'13'
-p7234
-aS'7'
-aS'2'
-aS'10'
-p7235
-aVFrance
-p7236
-aV83400
-p7237
-aVFrance métropolitaine
-p7238
-aa(lp7239
-S'Arthur Gomes'
-p7240
-aS'1998'
-p7241
-aS'Fullback'
-p7242
-aS'Canedo Ribeira dPena'
-p7243
-aS'6'
-aS'5'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp7244
-S'Stephane de Besombes'
-p7245
-aS'1998'
-p7246
-aS'Prop'
-p7247
-aS'Perpignan'
-p7248
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p7249
-aV66000;66100
-p7250
-aVFrance métropolitaine
-p7251
-aa(lp7252
-S'Jimmy Marlu'
-p7253
-aS'1998'
-p7254
-aS'Wing'
-p7255
-aS'1977'
-p7256
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aVSvizra
-p7257
-aVSvizzera
-p7258
-aVSuisse
-p7259
-aa(lp7260
-S'Thomas Lombard'
-p7261
-aS'1998'
-p7262
-aS'Centre, Wing'
-p7263
-aS'Le Chesnay'
-p7264
-aS'12'
-p7265
-aS'5'
-aS'1'
-aS'5'
-aVFrance
-p7266
-aV78150
-p7267
-aVFrance métropolitaine
-p7268
-aa(lp7269
-S'Sylvain Marconnet'
-p7270
-aS'1998'
-p7271
-aS'Prop'
-p7272
-aS'Givors'
-p7273
-aS'84'
-p7274
-aS'49'
-p7275
-aS'3'
-aS'15'
-p7276
-aVFrance
-p7277
-aV69700
-p7278
-aVFrance métropolitaine
-p7279
-aa(lp7280
-S'Marc Raynaud'
-p7281
-aS'1999'
-p7282
-aS'Back-row'
-p7283
-aS'Narbonne'
-p7284
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p7285
-aV11100
-p7286
-aVFrance métropolitaine
-p7287
-aa(lp7288
-S'Pascal Giordani'
-p7289
-aS'1999'
-p7290
-aS'Centre'
-p7291
-aS'Belfort'
-p7292
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p7293
-aV90000
-p7294
-aVFrance métropolitaine
-p7295
-aa(lp7296
-S'David Auradou'
-p7297
-aS'1999'
-p7298
-aS'Lock'
-p7299
-aS'Harfleur'
-p7300
-aS'41'
-p7301
-aS'24'
-p7302
-aS'0'
-aS'0'
-aVFrance
-p7303
-aV76700
-p7304
-aVFrance métropolitaine
-p7305
-aa(lp7306
-S'Christian Labit'
-p7307
-aS'1999'
-p7308
-aS'Back-row'
-p7309
-aS'Lezignan'
-p7310
-aS'17'
-p7311
-aS'7'
-aS'0'
-aS'0'
-aVFrance
-p7312
-aV65100
-p7313
-aVFrance métropolitaine
-p7314
-aa(lp7315
-S'Christophe Laussucq'
-p7316
-aS'1999'
-p7317
-aS'Scrum-half'
-p7318
-aS'Bordeaux'
-p7319
-aS'4'
-aS'2'
-aS'1'
-aS'5'
-aVFrance
-p7320
-aV33000;33100;33300;33800
-p7321
-aVFrance métropolitaine
-p7322
-aa(lp7323
-S'Jean-Luc Aqua'
-p7324
-aS'1999'
-p7325
+p7211
+aa(lp7212
+S'Serge Betsen Tchoua'
+p7213
+aS'1997'
+p7214
 aS'Flanker'
-p7326
-aS'Aubagne'
-p7327
+p7215
+aS'63'
+p7216
+aS'43'
+p7217
+aS'19'
+p7218
+aS'1'
+aS'9'
+aS'45'
+p7219
+aS'Kumba'
+p7220
+aVCameroun
+p7221
+aVSW
+p7222
+aVMeme
+p7223
+aa(lp7224
+S'David Dantiacq'
+p7225
+aS'1997'
+p7226
+aS'Centre'
+p7227
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Paris'
+p7228
+aVFrance
+p7229
+aVFrance métropolitaine
+p7230
+aVÎle-de-France
+p7231
+aa(lp7232
+S'Frederic Torossian'
+p7233
+aS'1997'
+p7234
+aS'Scrum-half'
+p7235
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Auch'
+p7236
+aVFrance
+p7237
+aV32000
+p7238
+aVFrance métropolitaine
+p7239
+aa(lp7240
+S'David Laperne'
+p7241
+aS'1997'
+p7242
+aS'Prop'
+p7243
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Oloron'
+p7244
+aVFrance
+p7245
+aV64400
+p7246
+aVFrance métropolitaine
+p7247
+aa(lp7248
+S'Jerome Cazalbou'
+p7249
+aS'1997'
+p7250
+aS'Scrum-half'
+p7251
+aS'4'
 aS'3'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Toulouse'
+p7252
 aVFrance
-p7328
-aV13400
-p7329
+p7253
+aV31000;31100;31200;31300;31400;31500
+p7254
 aVFrance métropolitaine
-p7330
-aa(lp7331
-S'Guillaume Delmotte'
-p7332
-aS'1999'
-p7333
-aS'Centre'
-p7334
-aS'Frejus'
-p7335
-aS'2'
+p7255
+aa(lp7256
+S'Nicolas Bacque'
+p7257
+aS'1997'
+p7258
+aS'Flanker'
+p7259
 aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tarbes'
+p7260
+aVFrance
+p7261
+aV65000
+p7262
+aVFrance métropolitaine
+p7263
+aa(lp7264
+S'Cedric Soulette'
+p7265
+aS'1997'
+p7266
+aS'Prop'
+p7267
+aS'13'
+p7268
+aS'11'
+p7269
+aS'2'
+aS'0'
 aS'2'
 aS'10'
-p7336
+p7270
+aS'Beziers'
+p7271
 aVFrance
-p7337
-aV83600;83370
-p7338
+p7272
+aV34500
+p7273
 aVFrance métropolitaine
-p7339
-aa(lp7340
-S'Lionel Mallier'
-p7341
-aS'1999'
-p7342
-aS'Back-row'
-p7343
-aS'Grenoble'
-p7344
-aS'5'
-aS'3'
+p7274
+aa(lp7275
+S'Nicolas Brusque'
+p7276
+aS'1997'
+p7277
+aS'Fullback, Wing'
+p7278
+aS'27'
+p7279
+aS'17'
+p7280
+aS'8'
+aS'2'
+aS'7'
+aS'38'
+p7281
+aS'Pau'
+p7282
+aVFrance
+p7283
+aV64000
+p7284
+aVFrance métropolitaine
+p7285
+aa(lp7286
+S'Pierre Mignoni'
+p7287
+aS'1997'
+p7288
+aS'Scrum-half'
+p7289
+aS'28'
+p7290
+aS'21'
+p7291
+aS'7'
+aS'0'
+aS'6'
+aS'30'
+p7292
+aS'Toulon'
+p7293
+aVFrance
+p7294
+aV83000;83100;83200
+p7295
+aVFrance métropolitaine
+p7296
+aa(lp7297
+S'Christophe Dominici'
+p7298
+aS'1998'
+p7299
+aS'Wing, Fullback'
+p7300
+aS'67'
+p7301
+aS'44'
+p7302
+aS'23'
+p7303
+aS'0'
+aS'25'
+p7304
+aS'125'
+p7305
+aS'Toulon'
+p7306
+aVFrance
+p7307
+aV83000;83100;83200
+p7308
+aVFrance métropolitaine
+p7309
+aa(lp7310
+S'Thierry Cleda'
+p7311
+aS'1998'
+p7312
+aS'Lock'
+p7313
+aS'9'
+aS'8'
 aS'1'
-aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Soissons'
+p7314
+aVFrance
+p7315
+aV02200
+p7316
+aVFrance métropolitaine
+p7317
+aa(lp7318
+S'Xavier Garbajosa'
+p7319
+aS'1998'
+p7320
+aS'Centre'
+p7321
+aS'32'
+p7322
+aS'19'
+p7323
+aS'13'
+p7324
+aS'0'
+aS'6'
+aS'30'
+p7325
+aS'Toulouse'
+p7326
+aVFrance
+p7327
+aV31000;31100;31200;31300;31400;31500
+p7328
+aVFrance métropolitaine
+p7329
+aa(lp7330
+S'Jean-Marc Aue'
+p7331
+aS'1998'
+p7332
+aS'Centre'
+p7333
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Carmaux'
+p7334
+aVFrance
+p7335
+aV81400
+p7336
+aVFrance métropolitaine
+p7337
+aa(lp7338
+S'Franck Comba'
+p7339
+aS'1998'
+p7340
+aS'Centre'
+p7341
+aS'13'
+p7342
+aS'7'
+aS'6'
+aS'0'
+aS'2'
+aS'10'
+p7343
+aS'Hyeres'
+p7344
 aVFrance
 p7345
-aV38000;38100
+aV83400
 p7346
 aVFrance métropolitaine
 p7347
 aa(lp7348
-S'Olivier Sarramea'
+S'Arthur Gomes'
 p7349
-aS'1999'
+aS'1998'
 p7350
-aS'Fullback, Wing'
-p7351
-aS'Tarbes'
-p7352
-aS'4'
-aS'2'
-aS'2'
-aS'10'
-p7353
-aVFrance
-p7354
-aV65000
-p7355
-aVFrance métropolitaine
-p7356
-aa(lp7357
-S'Gerald Merceron'
-p7358
-aS'1999'
-p7359
-aS'Fly-half'
-p7360
-aS'Cognac'
-p7361
-aS'32'
-p7362
-aS'19'
-p7363
-aS'3'
-aS'267'
-p7364
-aVFrance
-p7365
-aV16100
-p7366
-aVFrance métropolitaine
-p7367
-aa(lp7368
-S'Eric Artiguste'
-p7369
-aS'1999'
-p7370
-aS'Centre'
-p7371
-aS'Lourdes'
-p7372
-aS'1'
-aS'1'
-aS'1'
-aS'5'
-aVFrance
-p7373
-aV65100
-p7374
-aVFrance métropolitaine
-p7375
-aa(lp7376
-S'Alexandre Chazalet'
-p7377
-aS'1999'
-p7378
-aS'Flanker'
-p7379
-aS'Valence'
-p7380
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p7381
-aV26000
-p7382
-aVFrance métropolitaine
-p7383
-aa(lp7384
-S'David Gerard'
-p7385
-aS'1999'
-p7386
-aS'Lock'
-p7387
-aS'Toulon'
-p7388
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p7389
-aV83000;83100;83200
-p7390
-aVFrance métropolitaine
-p7391
-aa(lp7392
-S'Stephane Castaignede'
-p7393
-aS'1999'
-p7394
-aS'Scrum-half'
-p7395
-aS'Mont-de-Marsan'
-p7396
-aS'7'
-aS'5'
-aS'0'
-aS'0'
-aVFrance
-p7397
-aV40000
-p7398
-aVFrance métropolitaine
-p7399
-aa(lp7400
-S'Pieter de Villiers'
-p7401
-aS'1999'
-p7402
-aS'Prop'
-p7403
-aS'Malmesbury'
-p7404
-aS'69'
-p7405
-aS'45'
-p7406
-aS'2'
-aS'10'
-p7407
-aVUnited Kingdom
-p7408
-aVSN16 9
-p7409
-aVEngland
-p7410
-aa(lp7411
-S'Cedric Desbrosse'
-p7412
-aS'1999'
-p7413
-aS'Centre'
-p7414
-aS'Givors'
-p7415
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p7416
-aV69700
-p7417
-aVFrance métropolitaine
-p7418
-aa(lp7419
-S'Legi Matiu'
-p7420
-aS'2000'
-p7421
-aS'Lock'
-p7422
-aS'Auckland'
-p7423
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p7424
-aVAuckland
-p7425
-ag95
-aa(lp7426
-S'Sebastien Chabal'
-p7427
-aS'2000'
-p7428
-aS'No. 8'
-p7429
-aS'Valence'
-p7430
-aS'62'
-p7431
-aS'35'
-p7432
-aS'6'
-aS'30'
-p7433
-aVFrance
-p7434
-aV26000
-p7435
-aVFrance métropolitaine
-p7436
-aa(lp7437
-S'Jean Daude'
-p7438
-aS'2000'
-p7439
-aS'Lock'
-p7440
-aS'Nimes'
-p7441
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p7442
-aV30000;30900
-p7443
-aVFrance métropolitaine
-p7444
-aa(lp7445
-S'Jean-Baptiste Elissalde'
-p7446
-aS'2000'
-p7447
-aS'Fly-half, Scrum-half'
-p7448
-aS'La Rochelle'
-p7449
-aS'35'
-p7450
-aS'24'
-p7451
-aS'4'
-aS'214'
-p7452
-aVFrance
-p7453
-aV17000
-p7454
-aVFrance métropolitaine
-p7455
-aa(lp7456
-S'David Bory'
-p7457
-aS'2000'
-p7458
-aS'Wing'
-p7459
-aS'Vichy'
-p7460
-aS'18'
-p7461
-aS'12'
-p7462
-aS'2'
-aS'10'
-p7463
-aVFrance
-p7464
-aV03200
-p7465
-aVFrance métropolitaine
-p7466
-aa(lp7467
-S'Franck Belot'
-p7468
-aS'2000'
-p7469
-aS'Lock'
-p7470
-aS'Athis-Mons'
-p7471
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p7472
-aV91200
-p7473
-aVFrance métropolitaine
-p7474
-aa(lp7475
-S'Cedric Heymans'
-p7476
-aS'2000'
-p7477
 aS'Fullback'
-p7478
-aS'Brive-la-Gallarde'
-p7479
-aS'59'
-p7480
-aS'37'
-p7481
-aS'16'
-p7482
-aS'80'
-p7483
+p7351
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Canedo Ribeira dPena'
+p7352
 aS'g'
 aS'n'
 aS'i'
-aa(lp7484
-S'Alexandre Audebert'
-p7485
-aS'2000'
-p7486
-aS'Back-row'
-p7487
-aS'Suresnes'
-p7488
+aa(lp7353
+S'Stephane de Besombes'
+p7354
+aS'1998'
+p7355
+aS'Prop'
+p7356
 aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVFrance
-p7489
-aV92150
-p7490
-aVFrance métropolitaine
-p7491
-aa(lp7492
-S'Frederic Cermeno'
-p7493
-aS'2000'
-p7494
-aS'Utility back'
-p7495
+aS'0'
+aS'0'
 aS'Perpignan'
-p7496
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p7357
 aVFrance
-p7497
+p7358
 aV66000;66100
-p7498
+p7359
 aVFrance métropolitaine
-p7499
-aa(lp7500
-S'Patrice Collazo'
-p7501
-aS'2000'
-p7502
-aS'Prop'
-p7503
-aS'La Seyne-sur-Mer'
-p7504
-aS'1'
-aS'1'
+p7360
+aa(lp7361
+S'Jimmy Marlu'
+p7362
+aS'1998'
+p7363
+aS'Wing'
+p7364
+aS'4'
+aS'4'
 aS'0'
 aS'0'
-aVFrance
-p7505
-aV83500
-p7506
-aVFrance métropolitaine
-p7507
-aa(lp7508
-S'Fabrice Lalanne'
-p7509
-aS'2000'
-p7510
-aS'Lock'
-p7511
-aS'Lagarenne'
-p7512
-aS'1'
-aS'1'
 aS'0'
 aS'0'
-aVFrance
-p7513
-aV32340
-p7514
-aVFrance métropolitaine
-p7515
-aa(lp7516
-S'Lionel Nallet'
-p7517
-aS'2000'
-p7518
-aS'Lock'
-p7519
-aS'Bourg-en-Bresse'
-p7520
-aS'74'
-p7521
-aS'49'
-p7522
-aS'9'
-aS'45'
-p7523
-aVFrance
-p7524
-aV01000
-p7525
-aVFrance métropolitaine
-p7526
-aa(lp7527
-S'Jean-Marc Souverbie'
-p7528
-aS'2000'
-p7529
-aS'Fullback'
-p7530
-aS'Pau'
-p7531
-aS'1'
-aS'1'
+aS'1977'
+p7365
+aVSvizra
+p7366
+aVSvizzera
+p7367
+aVSuisse
+p7368
+aa(lp7369
+S'Thomas Lombard'
+p7370
+aS'1998'
+p7371
+aS'Centre, Wing'
+p7372
+aS'12'
+p7373
+aS'5'
+aS'7'
+aS'0'
 aS'1'
 aS'5'
+aS'Le Chesnay'
+p7374
 aVFrance
-p7532
-aV64000
-p7533
+p7375
+aV78150
+p7376
 aVFrance métropolitaine
-p7534
-aa(lp7535
-S'Jean-Charles Cistacq'
-p7536
-aS'2000'
-p7537
-aS'Centre'
-p7538
-aS'Auch'
-p7539
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p7540
-aV32000
-p7541
-aVFrance métropolitaine
-p7542
-aa(lp7543
-S'Alessio Galasso'
-p7544
-aS'2000'
-p7545
+p7377
+aa(lp7378
+S'Sylvain Marconnet'
+p7379
+aS'1998'
+p7380
 aS'Prop'
-p7546
-aS'Dakar'
-p7547
+p7381
+aS'84'
+p7382
+aS'49'
+p7383
+aS'34'
+p7384
+aS'1'
+aS'3'
+aS'15'
+p7385
+aS'Givors'
+p7386
+aVFrance
+p7387
+aV69700
+p7388
+aVFrance métropolitaine
+p7389
+aa(lp7390
+S'Marc Raynaud'
+p7391
+aS'1999'
+p7392
+aS'Back-row'
+p7393
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Narbonne'
+p7394
+aVFrance
+p7395
+aV11100
+p7396
+aVFrance métropolitaine
+p7397
+aa(lp7398
+S'Pascal Giordani'
+p7399
+aS'1999'
+p7400
+aS'Centre'
+p7401
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Belfort'
+p7402
+aVFrance
+p7403
+aV90000
+p7404
+aVFrance métropolitaine
+p7405
+aa(lp7406
+S'David Auradou'
+p7407
+aS'1999'
+p7408
+aS'Lock'
+p7409
+aS'41'
+p7410
+aS'24'
+p7411
+aS'17'
+p7412
+aS'0'
+aS'0'
+aS'0'
+aS'Harfleur'
+p7413
+aVFrance
+p7414
+aV76700
+p7415
+aVFrance métropolitaine
+p7416
+aa(lp7417
+S'Christian Labit'
+p7418
+aS'1999'
+p7419
+aS'Back-row'
+p7420
+aS'17'
+p7421
+aS'7'
+aS'10'
+p7422
+aS'0'
+aS'0'
+aS'0'
+aS'Lezignan'
+p7423
+aVFrance
+p7424
+aV65100
+p7425
+aVFrance métropolitaine
+p7426
+aa(lp7427
+S'Christophe Laussucq'
+p7428
+aS'1999'
+p7429
+aS'Scrum-half'
+p7430
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'Bordeaux'
+p7431
+aVFrance
+p7432
+aV33000;33100;33300;33800
+p7433
+aVFrance métropolitaine
+p7434
+aa(lp7435
+S'Jean-Luc Aqua'
+p7436
+aS'1999'
+p7437
+aS'Flanker'
+p7438
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Aubagne'
+p7439
+aVFrance
+p7440
+aV13400
+p7441
+aVFrance métropolitaine
+p7442
+aa(lp7443
+S'Guillaume Delmotte'
+p7444
+aS'1999'
+p7445
+aS'Centre'
+p7446
 aS'2'
 aS'1'
+aS'1'
 aS'0'
+aS'2'
+aS'10'
+p7447
+aS'Frejus'
+p7448
+aVFrance
+p7449
+aV83600;83370
+p7450
+aVFrance métropolitaine
+p7451
+aa(lp7452
+S'Lionel Mallier'
+p7453
+aS'1999'
+p7454
+aS'Back-row'
+p7455
+aS'5'
+aS'3'
+aS'2'
 aS'0'
-aVSenegal
-p7548
-aVDakar
-p7549
-ag95
-aa(lp7550
-S'Olivier Milloud'
-p7551
-aS'2000'
-p7552
-aS'Prop'
-p7553
-aS'Saint-Vallier'
-p7554
-aS'50'
-p7555
-aS'34'
-p7556
 aS'1'
 aS'5'
+aS'Grenoble'
+p7456
+aVFrance
+p7457
+aV38000;38100
+p7458
+aVFrance métropolitaine
+p7459
+aa(lp7460
+S'Olivier Sarramea'
+p7461
+aS'1999'
+p7462
+aS'Fullback, Wing'
+p7463
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'2'
+aS'10'
+p7464
+aS'Tarbes'
+p7465
+aVFrance
+p7466
+aV65000
+p7467
+aVFrance métropolitaine
+p7468
+aa(lp7469
+S'Gerald Merceron'
+p7470
+aS'1999'
+p7471
+aS'Fly-half'
+p7472
+aS'32'
+p7473
+aS'19'
+p7474
+aS'13'
+p7475
+aS'0'
+aS'3'
+aS'267'
+p7476
+aS'Cognac'
+p7477
+aVFrance
+p7478
+aV16100
+p7479
+aVFrance métropolitaine
+p7480
+aa(lp7481
+S'Eric Artiguste'
+p7482
+aS'1999'
+p7483
+aS'Centre'
+p7484
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Lourdes'
+p7485
+aVFrance
+p7486
+aV65100
+p7487
+aVFrance métropolitaine
+p7488
+aa(lp7489
+S'Alexandre Chazalet'
+p7490
+aS'1999'
+p7491
+aS'Flanker'
+p7492
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Valence'
+p7493
+aVFrance
+p7494
+aV26000
+p7495
+aVFrance métropolitaine
+p7496
+aa(lp7497
+S'David Gerard'
+p7498
+aS'1999'
+p7499
+aS'Lock'
+p7500
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulon'
+p7501
+aVFrance
+p7502
+aV83000;83100;83200
+p7503
+aVFrance métropolitaine
+p7504
+aa(lp7505
+S'Stephane Castaignede'
+p7506
+aS'1999'
+p7507
+aS'Scrum-half'
+p7508
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Mont-de-Marsan'
+p7509
+aVFrance
+p7510
+aV40000
+p7511
+aVFrance métropolitaine
+p7512
+aa(lp7513
+S'Pieter de Villiers'
+p7514
+aS'1999'
+p7515
+aS'Prop'
+p7516
+aS'69'
+p7517
+aS'45'
+p7518
+aS'22'
+p7519
+aS'2'
+aS'2'
+aS'10'
+p7520
+aS'Malmesbury'
+p7521
+aVUnited Kingdom
+p7522
+aVSN16 9
+p7523
+aVEngland
+p7524
+aa(lp7525
+S'Cedric Desbrosse'
+p7526
+aS'1999'
+p7527
+aS'Centre'
+p7528
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Givors'
+p7529
+aVFrance
+p7530
+aV69700
+p7531
+aVFrance métropolitaine
+p7532
+aa(lp7533
+S'Legi Matiu'
+p7534
+aS'2000'
+p7535
+aS'Lock'
+p7536
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p7537
+aVNew Zealand/Aotearoa
+p7538
+aVAuckland
+p7539
+ag97
+aa(lp7540
+S'Sebastien Chabal'
+p7541
+aS'2000'
+p7542
+aS'No. 8'
+p7543
+aS'62'
+p7544
+aS'35'
+p7545
+aS'26'
+p7546
+aS'1'
+aS'6'
+aS'30'
+p7547
+aS'Valence'
+p7548
+aVFrance
+p7549
+aV26000
+p7550
+aVFrance métropolitaine
+p7551
+aa(lp7552
+S'Jean Daude'
+p7553
+aS'2000'
+p7554
+aS'Lock'
+p7555
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Nimes'
+p7556
 aVFrance
 p7557
-aV26240
+aV30000;30900
 p7558
 aVFrance métropolitaine
 p7559
 aa(lp7560
-S'Fabrice Landreau'
+S'Jean-Baptiste Elissalde'
 p7561
 aS'2000'
 p7562
-aS'Hooker'
+aS'Fly-half, Scrum-half'
 p7563
-aS'Angouleme'
+aS'35'
 p7564
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
+aS'24'
 p7565
-aV16000
+aS'10'
 p7566
-aVFrance métropolitaine
+aS'1'
+aS'4'
+aS'214'
 p7567
-aa(lp7568
-S'Mathieu Dourthe'
+aS'La Rochelle'
+p7568
+aVFrance
 p7569
-aS'2000'
+aV17000
 p7570
-aS'Wing'
+aVFrance métropolitaine
 p7571
-aS'Dax'
-p7572
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
+aa(lp7572
+S'David Bory'
 p7573
-aV40100
+aS'2000'
 p7574
-aVFrance métropolitaine
-p7575
-aa(lp7576
-S'Sebastien Bonetti'
-p7577
-aS'2001'
-p7578
-aS'Fullback, Centre'
-p7579
-aS'Bergerac'
-p7580
-aS'3'
-aS'1'
-aS'2'
-aS'10'
-p7581
-aVFrance
-p7582
-aV24100
-p7583
-aVFrance métropolitaine
-p7584
-aa(lp7585
-S'Christophe Milheres'
-p7586
-aS'2001'
-p7587
-aS'Flanker'
-p7588
-aS'Saint-Saulve'
-p7589
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p7590
-aV59880
-p7591
-aVFrance métropolitaine
-p7592
-aa(lp7593
-S'Yannick Jauzion'
-p7594
-aS'2001'
-p7595
-aS'Centre'
-p7596
-aS'Castres'
-p7597
-aS'73'
-p7598
-aS'46'
-p7599
-aS'20'
-p7600
-aS'103'
-p7601
-aVFrance
-p7602
-aV81100
-p7603
-aVFrance métropolitaine
-p7604
-aa(lp7605
-S'Nicolas Jeanjean'
-p7606
-aS'2001'
-p7607
 aS'Wing'
-p7608
-aS'Montpellier'
-p7609
-aS'9'
-aS'5'
+p7575
+aS'18'
+p7576
+aS'12'
+p7577
+aS'6'
+aS'0'
 aS'2'
 aS'10'
-p7610
+p7578
+aS'Vichy'
+p7579
 aVFrance
-p7611
-aV34000;34070;34080;34090
-p7612
+p7580
+aV03200
+p7581
 aVFrance métropolitaine
-p7613
-aa(lp7614
-S'Patrick Tabacco'
-p7615
-aS'2001'
-p7616
+p7582
+aa(lp7583
+S'Franck Belot'
+p7584
+aS'2000'
+p7585
+aS'Lock'
+p7586
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Athis-Mons'
+p7587
+aVFrance
+p7588
+aV91200
+p7589
+aVFrance métropolitaine
+p7590
+aa(lp7591
+S'Cedric Heymans'
+p7592
+aS'2000'
+p7593
+aS'Fullback'
+p7594
+aS'59'
+p7595
+aS'37'
+p7596
+aS'20'
+p7597
+aS'2'
+aS'16'
+p7598
+aS'80'
+p7599
+aS'Brive-la-Gallarde'
+p7600
+aS'g'
+aS'n'
+aS'i'
+aa(lp7601
+S'Alexandre Audebert'
+p7602
+aS'2000'
+p7603
 aS'Back-row'
-p7617
-aS'Toulouse'
+p7604
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Suresnes'
+p7605
+aVFrance
+p7606
+aV92150
+p7607
+aVFrance métropolitaine
+p7608
+aa(lp7609
+S'Frederic Cermeno'
+p7610
+aS'2000'
+p7611
+aS'Utility back'
+p7612
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
+p7613
+aVFrance
+p7614
+aV66000;66100
+p7615
+aVFrance métropolitaine
+p7616
+aa(lp7617
+S'Patrice Collazo'
 p7618
-aS'18'
+aS'2000'
 p7619
-aS'12'
+aS'Prop'
 p7620
 aS'1'
-aS'5'
-aVFrance
-p7621
-aV31000;31100;31200;31300;31400;31500
-p7622
-aVFrance métropolitaine
-p7623
-aa(lp7624
-S'Elvis Vermeulen'
-p7625
-aS'2001'
-p7626
-aS'No. 8'
-p7627
-aS'Senlis'
-p7628
-aS'10'
-p7629
-aS'5'
 aS'1'
-aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'La Seyne-sur-Mer'
+p7621
+aVFrance
+p7622
+aV83500
+p7623
+aVFrance métropolitaine
+p7624
+aa(lp7625
+S'Fabrice Lalanne'
+p7626
+aS'2000'
+p7627
+aS'Lock'
+p7628
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Lagarenne'
+p7629
 aVFrance
 p7630
-aV60300
+aV32340
 p7631
 aVFrance métropolitaine
 p7632
 aa(lp7633
-S'Jean Bouilhou'
+S'Lionel Nallet'
 p7634
-aS'2001'
+aS'2000'
 p7635
-aS'Flanker'
+aS'Lock'
 p7636
-aS'Pau'
+aS'74'
 p7637
+aS'49'
+p7638
+aS'24'
+p7639
+aS'1'
+aS'9'
+aS'45'
+p7640
+aS'Bourg-en-Bresse'
+p7641
+aVFrance
+p7642
+aV01000
+p7643
+aVFrance métropolitaine
+p7644
+aa(lp7645
+S'Jean-Marc Souverbie'
+p7646
+aS'2000'
+p7647
+aS'Fullback'
+p7648
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Pau'
+p7649
+aVFrance
+p7650
+aV64000
+p7651
+aVFrance métropolitaine
+p7652
+aa(lp7653
+S'Jean-Charles Cistacq'
+p7654
+aS'2000'
+p7655
+aS'Centre'
+p7656
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Auch'
+p7657
+aVFrance
+p7658
+aV32000
+p7659
+aVFrance métropolitaine
+p7660
+aa(lp7661
+S'Alessio Galasso'
+p7662
+aS'2000'
+p7663
+aS'Prop'
+p7664
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dakar'
+p7665
+aVSenegal
+p7666
+aVDakar
+p7667
+ag97
+aa(lp7668
+S'Olivier Milloud'
+p7669
+aS'2000'
+p7670
+aS'Prop'
+p7671
+aS'50'
+p7672
+aS'34'
+p7673
+aS'15'
+p7674
+aS'1'
+aS'1'
+aS'5'
+aS'Saint-Vallier'
+p7675
+aVFrance
+p7676
+aV26240
+p7677
+aVFrance métropolitaine
+p7678
+aa(lp7679
+S'Fabrice Landreau'
+p7680
+aS'2000'
+p7681
+aS'Hooker'
+p7682
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Angouleme'
+p7683
+aVFrance
+p7684
+aV16000
+p7685
+aVFrance métropolitaine
+p7686
+aa(lp7687
+S'Mathieu Dourthe'
+p7688
+aS'2000'
+p7689
+aS'Wing'
+p7690
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Dax'
+p7691
+aVFrance
+p7692
+aV40100
+p7693
+aVFrance métropolitaine
+p7694
+aa(lp7695
+S'Sebastien Bonetti'
+p7696
+aS'2001'
+p7697
+aS'Fullback, Centre'
+p7698
+aS'3'
+aS'1'
 aS'2'
 aS'0'
-aS'0'
-aS'0'
-aVFrance
-p7638
-aV64000
-p7639
-aVFrance métropolitaine
-p7640
-aa(lp7641
-S'Pepito Elhorga'
-p7642
-aS'2001'
-p7643
-aS'Fullback'
-p7644
-aS'Agboville'
-p7645
-aS'18'
-p7646
-aS'11'
-p7647
-aS'3'
-aS'15'
-p7648
-aVCôte d\u2019Ivoire
-p7649
-aVLagunes
-p7650
-aVAgnéby-Tiassa
-p7651
-aa(lp7652
-S'David Skrela'
-p7653
-aS'2001'
-p7654
-aS'Fly-half'
-p7655
-aS'Toulouse'
-p7656
-aS'23'
-p7657
-aS'15'
-p7658
-aS'0'
-aS'112'
-p7659
-aVFrance
-p7660
-aV31000;31100;31200;31300;31400;31500
-p7661
-aVFrance métropolitaine
-p7662
-aa(lp7663
-S'Francois Gelez'
-p7664
-aS'2001'
-p7665
-aS'Fly-half'
-p7666
-aS'Tyrosse'
-p7667
-aS'8'
-aS'5'
-aS'0'
-aS'81'
-p7668
-aVFrance
-p7669
-aV40230
-p7670
-aVFrance métropolitaine
-p7671
-aa(lp7672
-S'Tony Marsh'
-p7673
-aS'2001'
-p7674
-aS'Centre'
-p7675
-aS'Auckland'
-p7676
-aS'21'
-p7677
-aS'14'
-p7678
-aS'7'
-aS'35'
-p7679
-aVNew Zealand/Aotearoa
-p7680
-aVAuckland
-p7681
-ag95
-aa(lp7682
-S'Francis Ntamack'
-p7683
-aS'2001'
-p7684
-aS'No. 8'
-p7685
-aS'Lyon'
-p7686
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p7687
-aVFrance métropolitaine
-p7688
-aVRhône-Alpes
-p7689
-aa(lp7690
-S'Clement Poitrenaud'
-p7691
-aS'2001'
-p7692
-aS'Fullback'
-p7693
-aS'Castres'
-p7694
-aS'47'
-p7695
-aS'29'
-p7696
-aS'7'
-aS'35'
-p7697
-aVFrance
-p7698
-aV81100
-p7699
-aVFrance métropolitaine
-p7700
-aa(lp7701
-S'Thibault Privat'
-p7702
-aS'2001'
-p7703
-aS'Lock'
-p7704
-aS'Nimes'
-p7705
+aS'2'
 aS'10'
-p7706
-aS'7'
-aS'0'
-aS'0'
+p7699
+aS'Bergerac'
+p7700
 aVFrance
-p7707
-aV30000;30900
-p7708
+p7701
+aV24100
+p7702
 aVFrance métropolitaine
+p7703
+aa(lp7704
+S'Christophe Milheres'
+p7705
+aS'2001'
+p7706
+aS'Flanker'
+p7707
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Saulve'
+p7708
+aVFrance
 p7709
-aa(lp7710
-S'Aurelien Rougerie'
+aV59880
+p7710
+aVFrance métropolitaine
 p7711
-aS'2001'
-p7712
-aS'Centre'
+aa(lp7712
+S'Yannick Jauzion'
 p7713
-aS'Beaumont'
-p7714
-aS'76'
-p7715
-aS'48'
-p7716
-aS'23'
-p7717
-aS'115'
-p7718
-aVUnited States of America
-p7719
-aVTexas
-p7720
-aVJefferson County
-p7721
-aa(lp7722
-S'Damien Traille'
-p7723
 aS'2001'
-p7724
+p7714
 aS'Centre'
-p7725
-aS'Pau'
+p7715
+aS'73'
+p7716
+aS'46'
+p7717
+aS'26'
+p7718
+aS'1'
+aS'20'
+p7719
+aS'103'
+p7720
+aS'Castres'
+p7721
+aVFrance
+p7722
+aV81100
+p7723
+aVFrance métropolitaine
+p7724
+aa(lp7725
+S'Nicolas Jeanjean'
 p7726
-aS'86'
+aS'2001'
 p7727
-aS'55'
+aS'Wing'
 p7728
-aS'14'
+aS'9'
+aS'5'
+aS'4'
+aS'0'
+aS'2'
+aS'10'
 p7729
-aS'128'
+aS'Montpellier'
 p7730
 aVFrance
 p7731
-aV64000
+aV34000;34070;34080;34090
 p7732
 aVFrance métropolitaine
 p7733
 aa(lp7734
-S'Frederic Michalak'
+S'Patrick Tabacco'
 p7735
 aS'2001'
 p7736
-aS'Fly-half'
+aS'Back-row'
 p7737
-aS'Toulouse'
-p7738
-aS'71'
-p7739
-aS'44'
-p7740
-aS'10'
-p7741
-aS'377'
-p7742
-aVFrance
-p7743
-aV31000;31100;31200;31300;31400;31500
-p7744
-aVFrance métropolitaine
-p7745
-aa(lp7746
-S'Yannick Bru'
-p7747
-aS'2001'
-p7748
-aS'Hooker'
-p7749
-aS'Auch'
-p7750
 aS'18'
-p7751
-aS'14'
-p7752
+p7738
+aS'12'
+p7739
+aS'6'
+aS'0'
 aS'1'
 aS'5'
+aS'Toulouse'
+p7740
 aVFrance
-p7753
-aV32000
-p7754
+p7741
+aV31000;31100;31200;31300;31400;31500
+p7742
 aVFrance métropolitaine
-p7755
-aa(lp7756
-S'Jean-Baptiste Poux'
-p7757
+p7743
+aa(lp7744
+S'Elvis Vermeulen'
+p7745
 aS'2001'
+p7746
+aS'No. 8'
+p7747
+aS'10'
+p7748
+aS'5'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'Senlis'
+p7749
+aVFrance
+p7750
+aV60300
+p7751
+aVFrance métropolitaine
+p7752
+aa(lp7753
+S'Jean Bouilhou'
+p7754
+aS'2001'
+p7755
+aS'Flanker'
+p7756
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Pau'
+p7757
+aVFrance
 p7758
-aS'Prop, Hooker'
+aV64000
 p7759
-aS'Beziers'
+aVFrance métropolitaine
 p7760
-aS'42'
-p7761
-aS'25'
+aa(lp7761
+S'Pepito Elhorga'
 p7762
+aS'2001'
+p7763
+aS'Fullback'
+p7764
+aS'18'
+p7765
+aS'11'
+p7766
+aS'7'
+aS'0'
 aS'3'
 aS'15'
-p7763
-aVFrance
-p7764
-aV34500
-p7765
-aVFrance métropolitaine
-p7766
-aa(lp7767
-S'Steven Hall'
+p7767
+aS'Agboville'
 p7768
-aS'2002'
+aVCôte d\u2019Ivoire
 p7769
-aS'Lock'
+aVLagunes
 p7770
-aS'Johannesburg'
+aVAgnéby-Tiassa
 p7771
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVSouth Africa
-p7772
-aV2001
+aa(lp7772
+S'David Skrela'
 p7773
-aVGauteng
+aS'2001'
 p7774
-aa(lp7775
-S'Alexandre Albouy'
+aS'Fly-half'
+p7775
+aS'23'
 p7776
-aS'2002'
+aS'15'
 p7777
-aS'Scrum-half'
+aS'8'
+aS'0'
+aS'0'
+aS'112'
 p7778
-aS'Castres'
+aS'Toulouse'
 p7779
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
 p7780
-aV81100
+aV31000;31100;31200;31300;31400;31500
 p7781
 aVFrance métropolitaine
 p7782
 aa(lp7783
-S'Imanol Harinordoquy'
+S'Francois Gelez'
 p7784
-aS'2002'
+aS'2001'
 p7785
-aS'No. 8'
+aS'Fly-half'
 p7786
-aS'Bayonne'
-p7787
-aS'82'
-p7788
-aS'52'
-p7789
-aS'13'
-p7790
-aS'65'
-p7791
-aVFrance
-p7792
-aV64100
-p7793
-aVFrance métropolitaine
-p7794
-aa(lp7795
-S'Sebastien Bruno'
-p7796
-aS'2002'
-p7797
-aS'Hooker'
-p7798
-aS'Nimes'
-p7799
-aS'26'
-p7800
-aS'14'
-p7801
-aS'4'
-aS'20'
-p7802
-aVFrance
-p7803
-aV30000;30900
-p7804
-aVFrance métropolitaine
-p7805
-aa(lp7806
-S'Remy Martin'
-p7807
-aS'2002'
-p7808
-aS'Lock'
-p7809
-aS'Aubenas'
-p7810
-aS'23'
-p7811
-aS'13'
-p7812
-aS'3'
-aS'15'
-p7813
-aVFrance
-p7814
-aV07200
-p7815
-aVFrance métropolitaine
-p7816
-aa(lp7817
-S'Christophe Porcu'
-p7818
-aS'2002'
-p7819
-aS'Lock'
-p7820
-aS'Mauvezin'
-p7821
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p7822
-aVFrance métropolitaine
-p7823
-aVPays de la Loire
-p7824
-aa(lp7825
-S'Arnaud Martinez'
-p7826
-aS'2002'
-p7827
-aS'Prop'
-p7828
-aS'Narbonne'
-p7829
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p7830
-aV11100
-p7831
-aVFrance métropolitaine
-p7832
-aa(lp7833
-S'Vincent Clerc'
-p7834
-aS'2002'
-p7835
-aS'Wing'
-p7836
-aS'Echirolles'
-p7837
-aS'67'
-p7838
-aS'42'
-p7839
-aS'34'
-p7840
-aS'170'
-p7841
-aVFrance
-p7842
-aV38130
-p7843
-aVFrance métropolitaine
-p7844
-aa(lp7845
-S'Jean-Baptiste Rue'
-p7846
-aS'2002'
-p7847
-aS'Hooker'
-p7848
-aS'Nanterre'
-p7849
 aS'8'
 aS'5'
-aS'0'
-aS'0'
-aVFrance
-p7850
-aV92000
-p7851
-aVFrance métropolitaine
-p7852
-aa(lp7853
-S'Dimitri Yachvili'
-p7854
-aS'2002'
-p7855
-aS'Scrum-half'
-p7856
-aS'Brive-la-Gallarde'
-p7857
-aS'61'
-p7858
-aS'37'
-p7859
 aS'2'
-aS'373'
-p7860
-aS'g'
-aS'n'
-aS'i'
-aa(lp7861
-S'Jerome Thion'
-p7862
-aS'2003'
-p7863
-aS'Lock'
-p7864
-aS'Senlis'
-p7865
-aS'54'
-p7866
-aS'36'
-p7867
 aS'1'
-aS'5'
-aVFrance
-p7868
-aV60300
-p7869
-aVFrance métropolitaine
-p7870
-aa(lp7871
-S'Nicolas Mas'
-p7872
-aS'2003'
-p7873
-aS'Prop'
-p7874
-aS'Perpignan'
-p7875
-aS'78'
-p7876
-aS'44'
-p7877
 aS'0'
-aS'0'
+aS'81'
+p7787
+aS'Tyrosse'
+p7788
 aVFrance
-p7878
-aV66000;66100
-p7879
+p7789
+aV40230
+p7790
 aVFrance métropolitaine
-p7880
-aa(lp7881
-S'Brian Liebenberg'
-p7882
-aS'2003'
-p7883
+p7791
+aa(lp7792
+S'Tony Marsh'
+p7793
+aS'2001'
+p7794
 aS'Centre'
-p7884
-aS'Benoni'
-p7885
-aS'12'
-p7886
-aS'9'
-aS'5'
-aS'25'
-p7887
-aVSouth Africa
-p7888
-aVGauteng
-p7889
-aVEkurhuleni Metropolitan Municipality
-p7890
-aa(lp7891
-S'Pascal Pape'
-p7892
-aS'2004'
-p7893
-aS'Lock'
-p7894
+p7795
+aS'21'
+p7796
+aS'14'
+p7797
+aS'7'
+aS'0'
+aS'7'
+aS'35'
+p7798
+aS'Auckland'
+p7799
+aVNew Zealand/Aotearoa
+p7800
+aVAuckland
+p7801
+ag97
+aa(lp7802
+S'Francis Ntamack'
+p7803
+aS'2001'
+p7804
+aS'No. 8'
+p7805
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Lyon'
-p7895
-aS'59'
-p7896
-aS'34'
-p7897
-aS'4'
-aS'20'
-p7898
+p7806
 aVFrance
-p7899
+p7807
 aVFrance métropolitaine
-p7900
+p7808
 aVRhône-Alpes
-p7901
-aa(lp7902
-S'William Servat'
-p7903
-aS'2004'
-p7904
-aS'Hooker'
-p7905
-aS'Saint-Gaudens'
-p7906
-aS'49'
-p7907
-aS'31'
-p7908
+p7809
+aa(lp7810
+S'Clement Poitrenaud'
+p7811
+aS'2001'
+p7812
+aS'Fullback'
+p7813
+aS'47'
+p7814
+aS'29'
+p7815
+aS'17'
+p7816
+aS'1'
+aS'7'
+aS'35'
+p7817
+aS'Castres'
+p7818
+aVFrance
+p7819
+aV81100
+p7820
+aVFrance métropolitaine
+p7821
+aa(lp7822
+S'Thibault Privat'
+p7823
+aS'2001'
+p7824
+aS'Lock'
+p7825
+aS'10'
+p7826
+aS'7'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Nimes'
+p7827
+aVFrance
+p7828
+aV30000;30900
+p7829
+aVFrance métropolitaine
+p7830
+aa(lp7831
+S'Aurelien Rougerie'
+p7832
+aS'2001'
+p7833
+aS'Centre'
+p7834
+aS'76'
+p7835
+aS'48'
+p7836
+aS'27'
+p7837
+aS'1'
+aS'23'
+p7838
+aS'115'
+p7839
+aS'Beaumont'
+p7840
+aVUnited States of America
+p7841
+aVTexas
+p7842
+aVJefferson County
+p7843
+aa(lp7844
+S'Damien Traille'
+p7845
+aS'2001'
+p7846
+aS'Centre'
+p7847
+aS'86'
+p7848
+aS'55'
+p7849
+aS'29'
+p7850
+aS'2'
+aS'14'
+p7851
+aS'128'
+p7852
+aS'Pau'
+p7853
+aVFrance
+p7854
+aV64000
+p7855
+aVFrance métropolitaine
+p7856
+aa(lp7857
+S'Frederic Michalak'
+p7858
+aS'2001'
+p7859
+aS'Fly-half'
+p7860
+aS'71'
+p7861
+aS'44'
+p7862
+aS'25'
+p7863
 aS'2'
 aS'10'
-p7909
+p7864
+aS'377'
+p7865
+aS'Toulouse'
+p7866
 aVFrance
-p7910
-aV31800
-p7911
+p7867
+aV31000;31100;31200;31300;31400;31500
+p7868
 aVFrance métropolitaine
+p7869
+aa(lp7870
+S'Yannick Bru'
+p7871
+aS'2001'
+p7872
+aS'Hooker'
+p7873
+aS'18'
+p7874
+aS'14'
+p7875
+aS'4'
+aS'0'
+aS'1'
+aS'5'
+aS'Auch'
+p7876
+aVFrance
+p7877
+aV32000
+p7878
+aVFrance métropolitaine
+p7879
+aa(lp7880
+S'Jean-Baptiste Poux'
+p7881
+aS'2001'
+p7882
+aS'Prop, Hooker'
+p7883
+aS'42'
+p7884
+aS'25'
+p7885
+aS'16'
+p7886
+aS'1'
+aS'3'
+aS'15'
+p7887
+aS'Beziers'
+p7888
+aVFrance
+p7889
+aV34500
+p7890
+aVFrance métropolitaine
+p7891
+aa(lp7892
+S'Steven Hall'
+p7893
+aS'2002'
+p7894
+aS'Lock'
+p7895
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Johannesburg'
+p7896
+aVSouth Africa
+p7897
+aV2001
+p7898
+aVGauteng
+p7899
+aa(lp7900
+S'Alexandre Albouy'
+p7901
+aS'2002'
+p7902
+aS'Scrum-half'
+p7903
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Castres'
+p7904
+aVFrance
+p7905
+aV81100
+p7906
+aVFrance métropolitaine
+p7907
+aa(lp7908
+S'Imanol Harinordoquy'
+p7909
+aS'2002'
+p7910
+aS'No. 8'
+p7911
+aS'82'
 p7912
-aa(lp7913
-S'Julien Peyrelongue'
+aS'52'
+p7913
+aS'28'
 p7914
-aS'2004'
+aS'2'
+aS'13'
 p7915
-aS'Fly-half'
+aS'65'
 p7916
 aS'Bayonne'
 p7917
-aS'6'
-aS'4'
-aS'0'
-aS'3'
 aVFrance
 p7918
 aV64100
@@ -18119,2479 +19802,3057 @@ p7919
 aVFrance métropolitaine
 p7920
 aa(lp7921
-S'Julien Bonnaire'
+S'Sebastien Bruno'
 p7922
-aS'2004'
+aS'2002'
 p7923
-aS'Flanker'
+aS'Hooker'
 p7924
-aS'Bourgoin'
+aS'26'
 p7925
-aS'75'
+aS'14'
 p7926
-aS'49'
+aS'11'
 p7927
-aS'6'
-aS'30'
+aS'1'
+aS'4'
+aS'20'
 p7928
-aVFrance
+aS'Nimes'
 p7929
-aV62575
+aVFrance
 p7930
-aVFrance métropolitaine
+aV30000;30900
 p7931
-aa(lp7932
-S'Mathieu Barrau'
-p7933
-aS'2004'
+aVFrance métropolitaine
+p7932
+aa(lp7933
+S'Remy Martin'
 p7934
-aS'Scrum-half'
+aS'2002'
 p7935
-aS'Beaumont'
+aS'Lock'
 p7936
+aS'23'
+p7937
+aS'13'
+p7938
+aS'9'
+aS'1'
 aS'3'
+aS'15'
+p7939
+aS'Aubenas'
+p7940
+aVFrance
+p7941
+aV07200
+p7942
+aVFrance métropolitaine
+p7943
+aa(lp7944
+S'Christophe Porcu'
+p7945
+aS'2002'
+p7946
+aS'Lock'
+p7947
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Mauvezin'
+p7948
+aVFrance
+p7949
+aVFrance métropolitaine
+p7950
+aVPays de la Loire
+p7951
+aa(lp7952
+S'Arnaud Martinez'
+p7953
+aS'2002'
+p7954
+aS'Prop'
+p7955
 aS'2'
 aS'1'
-aS'5'
-aVUnited States of America
-p7937
-aVTexas
-p7938
-aVJefferson County
-p7939
-aa(lp7940
-S'David Couzinet'
-p7941
-aS'2004'
-p7942
-aS'Lock'
-p7943
-aS'Toulouse'
-p7944
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Narbonne'
+p7956
+aVFrance
+p7957
+aV11100
+p7958
+aVFrance métropolitaine
+p7959
+aa(lp7960
+S'Vincent Clerc'
+p7961
+aS'2002'
+p7962
+aS'Wing'
+p7963
+aS'67'
+p7964
+aS'42'
+p7965
+aS'22'
+p7966
 aS'3'
+aS'34'
+p7967
+aS'170'
+p7968
+aS'Echirolles'
+p7969
+aVFrance
+p7970
+aV38130
+p7971
+aVFrance métropolitaine
+p7972
+aa(lp7973
+S'Jean-Baptiste Rue'
+p7974
+aS'2002'
+p7975
+aS'Hooker'
+p7976
+aS'8'
+aS'5'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Nanterre'
+p7977
+aVFrance
+p7978
+aV92000
+p7979
+aVFrance métropolitaine
+p7980
+aa(lp7981
+S'Dimitri Yachvili'
+p7982
+aS'2002'
+p7983
+aS'Scrum-half'
+p7984
+aS'61'
+p7985
+aS'37'
+p7986
+aS'23'
+p7987
+aS'1'
+aS'2'
+aS'373'
+p7988
+aS'Brive-la-Gallarde'
+p7989
+aS'g'
+aS'n'
+aS'i'
+aa(lp7990
+S'Jerome Thion'
+p7991
+aS'2003'
+p7992
+aS'Lock'
+p7993
+aS'54'
+p7994
+aS'36'
+p7995
+aS'18'
+p7996
+aS'0'
+aS'1'
+aS'5'
+aS'Senlis'
+p7997
+aVFrance
+p7998
+aV60300
+p7999
+aVFrance métropolitaine
+p8000
+aa(lp8001
+S'Nicolas Mas'
+p8002
+aS'2003'
+p8003
+aS'Prop'
+p8004
+aS'78'
+p8005
+aS'44'
+p8006
+aS'32'
+p8007
 aS'2'
 aS'0'
 aS'0'
+aS'Perpignan'
+p8008
 aVFrance
-p7945
-aV31000;31100;31200;31300;31400;31500
-p7946
+p8009
+aV66000;66100
+p8010
 aVFrance métropolitaine
-p7947
-aa(lp7948
-S'Yannick Nyanga Kabasele'
-p7949
-aS'2004'
-p7950
-aS'Back-row'
-p7951
-aS'Zaire'
-p7952
-aS'40'
-p7953
-aS'26'
-p7954
+p8011
+aa(lp8012
+S'Brian Liebenberg'
+p8013
+aS'2003'
+p8014
+aS'Centre'
+p8015
+aS'12'
+p8016
+aS'9'
+aS'3'
+aS'0'
 aS'5'
 aS'25'
-p7955
-aVRépublique démocratique du Congo
-p7956
-ag95
-ag95
-aa(lp7957
-S'Alexandre Peclier'
-p7958
-aS'2004'
-p7959
-aS'Fullback'
-p7960
-aS'Villefranche'
-p7961
-aS'2'
-aS'2'
-aS'0'
-aS'33'
-p7962
-aVFrance
-p7963
-aVFrance métropolitaine
-p7964
-aVCentre-Val de Loire
-p7965
-aa(lp7966
-S'Ludovic Valbon'
-p7967
-aS'2004'
-p7968
-aS'Wing, Centre'
-p7969
-aS'Neuilly-sur-Seine'
-p7970
-aS'5'
-aS'3'
-aS'1'
-aS'5'
-aVFrance
-p7971
-aV92200
-p7972
-aVFrance métropolitaine
-p7973
-aa(lp7974
-S'Romain Froment'
-p7975
-aS'2004'
-p7976
-aS'Back-row'
-p7977
-aS'Clamart'
-p7978
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p7979
-aV92140
-p7980
-aVFrance métropolitaine
-p7981
-aa(lp7982
-S'Pierre Rabadan'
-p7983
-aS'2004'
-p7984
-aS'Flanker'
-p7985
-aS'Aix-en-Province'
-p7986
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp7987
-S'Philippe Bidabe'
-p7988
-aS'2004'
-p7989
-aS'Wing'
-p7990
-aS'Bayonne'
-p7991
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p7992
-aV64100
-p7993
-aVFrance métropolitaine
-p7994
-aa(lp7995
-S'Bernard Goutta'
-p7996
-aS'2004'
-p7997
-aS'Flanker'
-p7998
-aS'Perpignan'
-p7999
-aS'1'
-aS'1'
-aS'1'
-aS'5'
-aVFrance
-p8000
-aV66000;66100
-p8001
-aVFrance métropolitaine
-p8002
-aa(lp8003
-S'Ludovic Loustau'
-p8004
-aS'2004'
-p8005
-aS'Scrum-half'
-p8006
-aS'Talence'
-p8007
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p8008
-aV33400
-p8009
-aVFrance métropolitaine
-p8010
-aa(lp8011
-S'Dimitri Szarzewski'
-p8012
-aS'2004'
-p8013
-aS'Hooker'
-p8014
-aS'Beziers'
-p8015
-aS'79'
-p8016
-aS'46'
 p8017
-aS'7'
-aS'35'
+aS'Benoni'
 p8018
-aVFrance
+aVSouth Africa
 p8019
-aV34500
+aVGauteng
 p8020
-aVFrance métropolitaine
+aVEkurhuleni Metropolitan Municipality
 p8021
 aa(lp8022
-S'Gregory Lamboley'
+S'Pascal Pape'
 p8023
-aS'2005'
+aS'2004'
 p8024
-aS'Back-row'
+aS'Lock'
 p8025
-aS'Paris'
+aS'59'
 p8026
-aS'14'
+aS'34'
 p8027
-aS'9'
-aS'1'
-aS'5'
-aVFrance
+aS'23'
 p8028
-aVFrance métropolitaine
-p8029
-aVÎle-de-France
-p8030
-aa(lp8031
-S'Jean-Philippe Grandclaude'
-p8032
-aS'2005'
-p8033
-aS'Centre'
-p8034
-aS'Frejus'
-p8035
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p8036
-aV83600;83370
-p8037
-aVFrance métropolitaine
-p8038
-aa(lp8039
-S'Julien Laharrague'
-p8040
-aS'2005'
-p8041
-aS'Fullback'
-p8042
-aS'Tarbes'
-p8043
-aS'12'
-p8044
-aS'7'
+aS'2'
 aS'4'
 aS'20'
+p8029
+aS'Lyon'
+p8030
+aVFrance
+p8031
+aVFrance métropolitaine
+p8032
+aVRhône-Alpes
+p8033
+aa(lp8034
+S'William Servat'
+p8035
+aS'2004'
+p8036
+aS'Hooker'
+p8037
+aS'49'
+p8038
+aS'31'
+p8039
+aS'16'
+p8040
+aS'2'
+aS'2'
+aS'10'
+p8041
+aS'Saint-Gaudens'
+p8042
+aVFrance
+p8043
+aV31800
+p8044
+aVFrance métropolitaine
 p8045
-aVFrance
-p8046
-aV65000
+aa(lp8046
+S'Julien Peyrelongue'
 p8047
-aVFrance métropolitaine
+aS'2004'
 p8048
-aa(lp8049
-S'Benoit Baby'
-p8050
-aS'2005'
-p8051
-aS'Centre'
-p8052
-aS'Lavelanet'
-p8053
-aS'9'
-aS'5'
-aS'1'
-aS'8'
-aVFrance
-p8054
-aV09300
-p8055
-aVFrance métropolitaine
-p8056
-aa(lp8057
-S'David Marty'
-p8058
-aS'2005'
-p8059
-aS'Centre'
-p8060
-aS'Perpignan'
-p8061
-aS'37'
-p8062
-aS'30'
-p8063
-aS'11'
-p8064
-aS'55'
-p8065
-aVFrance
-p8066
-aV66000;66100
-p8067
-aVFrance métropolitaine
-p8068
-aa(lp8069
-S'Julien Candelon'
-p8070
-aS'2005'
-p8071
-aS'Wing'
-p8072
-aS'Agen'
-p8073
-aS'2'
-aS'0'
-aS'2'
-aS'10'
-p8074
-aVFrance
-p8075
-aV47000
-p8076
-aVFrance métropolitaine
-p8077
-aa(lp8078
-S'Florian Fritz'
-p8079
-aS'2005'
-p8080
-aS'Centre'
-p8081
-aS'Burgundy'
-p8082
-aS'34'
-p8083
-aS'14'
-p8084
-aS'3'
-aS'24'
-p8085
-aVFrance
-p8086
-aVFrance métropolitaine
-p8087
-aVBourgogne
-p8088
-aa(lp8089
-S'Romain Millo-Chluski'
-p8090
-aS'2005'
-p8091
-aS'Lock'
-p8092
-aS'Ris-Orangis'
-p8093
-aS'18'
-p8094
-aS'10'
-p8095
-aS'0'
-aS'0'
-aVFrance
-p8096
-aV91130
-p8097
-aVFrance métropolitaine
-p8098
-aa(lp8099
-S'Denis Avril'
-p8100
-aS'2005'
-p8101
-aS'Prop'
-p8102
-aS'Thouars'
-p8103
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p8104
-aV79100
-p8105
-aVFrance métropolitaine
-p8106
-aa(lp8107
-S'Guilliaume Bousses'
-p8108
-aS'2006'
-p8109
-aS'Centre'
-p8110
-aS'Toulouse'
-p8111
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p8112
-aV31000;31100;31200;31300;31400;31500
-p8113
-aVFrance métropolitaine
-p8114
-aa(lp8115
-S'Benjamin Boyet'
-p8116
-aS'2006'
-p8117
 aS'Fly-half'
-p8118
-aS'Vienne'
-p8119
-aS'5'
-aS'1'
-aS'0'
-aS'11'
-p8120
-aVÖsterreich
-p8121
-aVWien
-p8122
-ag95
-aa(lp8123
-S'David Attoub'
-p8124
-aS'2006'
-p8125
-aS'Prop'
-p8126
-aS'Valence'
-p8127
+p8049
+aS'6'
 aS'4'
 aS'2'
 aS'0'
 aS'0'
+aS'3'
+aS'Bayonne'
+p8050
 aVFrance
-p8128
-aV26000
-p8129
+p8051
+aV64100
+p8052
 aVFrance métropolitaine
-p8130
-aa(lp8131
-S'Thierry Dusautoir'
-p8132
-aS'2006'
-p8133
-aS'Back-row'
-p8134
-aS'Ivory Coas'
-p8135
+p8053
+aa(lp8054
+S'Julien Bonnaire'
+p8055
+aS'2004'
+p8056
+aS'Flanker'
+p8057
 aS'75'
-p8136
-aS'38'
-p8137
+p8058
+aS'49'
+p8059
+aS'24'
+p8060
+aS'2'
 aS'6'
 aS'30'
-p8138
+p8061
+aS'Bourgoin'
+p8062
+aVFrance
+p8063
+aV62575
+p8064
+aVFrance métropolitaine
+p8065
+aa(lp8066
+S'Mathieu Barrau'
+p8067
+aS'2004'
+p8068
+aS'Scrum-half'
+p8069
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Beaumont'
+p8070
+aVUnited States of America
+p8071
+aVTexas
+p8072
+aVJefferson County
+p8073
+aa(lp8074
+S'David Couzinet'
+p8075
+aS'2004'
+p8076
+aS'Lock'
+p8077
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
+p8078
+aVFrance
+p8079
+aV31000;31100;31200;31300;31400;31500
+p8080
+aVFrance métropolitaine
+p8081
+aa(lp8082
+S'Yannick Nyanga Kabasele'
+p8083
+aS'2004'
+p8084
+aS'Back-row'
+p8085
+aS'40'
+p8086
+aS'26'
+p8087
+aS'12'
+p8088
+aS'2'
+aS'5'
+aS'25'
+p8089
+aS'Zaire'
+p8090
+aVRépublique démocratique du Congo
+p8091
+ag97
+ag97
+aa(lp8092
+S'Alexandre Peclier'
+p8093
+aS'2004'
+p8094
+aS'Fullback'
+p8095
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'33'
+p8096
+aS'Villefranche'
+p8097
+aVFrance
+p8098
+aVFrance métropolitaine
+p8099
+aVCentre-Val de Loire
+p8100
+aa(lp8101
+S'Ludovic Valbon'
+p8102
+aS'2004'
+p8103
+aS'Wing, Centre'
+p8104
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'Neuilly-sur-Seine'
+p8105
+aVFrance
+p8106
+aV92200
+p8107
+aVFrance métropolitaine
+p8108
+aa(lp8109
+S'Romain Froment'
+p8110
+aS'2004'
+p8111
+aS'Back-row'
+p8112
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Clamart'
+p8113
+aVFrance
+p8114
+aV92140
+p8115
+aVFrance métropolitaine
+p8116
+aa(lp8117
+S'Pierre Rabadan'
+p8118
+aS'2004'
+p8119
+aS'Flanker'
+p8120
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Aix-en-Province'
+p8121
 aS'g'
 aS'n'
 aS'i'
-aa(lp8139
-S'Vincent Debaty'
-p8140
-aS'2006'
-p8141
-aS'Prop'
-p8142
-aS'Woluwe-Saint-Lambert'
-p8143
-aS'29'
-p8144
-aS'11'
-p8145
-aS'1'
-aS'5'
-aVBelgië - Belgique - Belgien
-p8146
-aV1200
-p8147
-aVRégion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
-p8148
-aa(lp8149
-S'Loic Jacquet'
-p8150
-aS'2006'
-p8151
-aS'Lock'
-p8152
-aS'Saint-Doulchard'
-p8153
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p8154
-aV18230
-p8155
-aVFrance métropolitaine
-p8156
-aa(lp8157
-S'Lionel Beauxis'
-p8158
-aS'2007'
-p8159
-aS'Fly-half'
-p8160
-aS'Tarbes'
-p8161
-aS'20'
-p8162
-aS'12'
-p8163
-aS'1'
-aS'125'
-p8164
-aVFrance
-p8165
-aV65000
-p8166
-aVFrance métropolitaine
-p8167
-aa(lp8168
-S'Benoit August'
-p8169
-aS'2007'
-p8170
-aS'Hooker'
-p8171
-aS'Mont-de-Marsan'
-p8172
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p8173
-aV40000
-p8174
-aVFrance métropolitaine
-p8175
-aa(lp8176
-S'Jean-Francois Coux'
-p8177
-aS'2007'
-p8178
+aa(lp8122
+S'Philippe Bidabe'
+p8123
+aS'2004'
+p8124
 aS'Wing'
-p8179
-aS'Grenoble'
-p8180
+p8125
 aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Bayonne'
+p8126
+aVFrance
+p8127
+aV64100
+p8128
+aVFrance métropolitaine
+p8129
+aa(lp8130
+S'Bernard Goutta'
+p8131
+aS'2004'
+p8132
+aS'Flanker'
+p8133
+aS'1'
+aS'1'
+aS'0'
 aS'0'
 aS'1'
 aS'5'
+aS'Perpignan'
+p8134
 aVFrance
-p8181
-aV38000;38100
-p8182
+p8135
+aV66000;66100
+p8136
 aVFrance métropolitaine
-p8183
-aa(lp8184
-S'Nicolas Durand'
-p8185
-aS'2007'
-p8186
+p8137
+aa(lp8138
+S'Ludovic Loustau'
+p8139
+aS'2004'
+p8140
 aS'Scrum-half'
-p8187
-aS'Toulouse'
-p8188
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p8189
-aV31000;31100;31200;31300;31400;31500
-p8190
-aVFrance métropolitaine
-p8191
-aa(lp8192
-S'Gregory le Corvec'
-p8193
-aS'2007'
-p8194
-aS'Back-row'
-p8195
-aS'Toulon'
-p8196
+p8141
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'0'
+aS'Talence'
+p8142
 aVFrance
-p8197
-aV83000;83100;83200
-p8198
+p8143
+aV33400
+p8144
 aVFrance métropolitaine
-p8199
-aa(lp8200
-S'Arnaud Mignardi'
-p8201
-aS'2007'
-p8202
-aS'Centre'
-p8203
-aS'Auch'
-p8204
-aS'2'
-aS'0'
-aS'0'
-aS'0'
+p8145
+aa(lp8146
+S'Dimitri Szarzewski'
+p8147
+aS'2004'
+p8148
+aS'Hooker'
+p8149
+aS'79'
+p8150
+aS'46'
+p8151
+aS'32'
+p8152
+aS'1'
+aS'7'
+aS'35'
+p8153
+aS'Beziers'
+p8154
 aVFrance
-p8205
-aV32000
-p8206
+p8155
+aV34500
+p8156
 aVFrance métropolitaine
-p8207
-aa(lp8208
-S'Julien Pierre'
-p8209
-aS'2007'
-p8210
-aS'Lock'
-p8211
-aS'Rodez'
-p8212
-aS'27'
-p8213
-aS'16'
-p8214
+p8157
+aa(lp8158
+S'Gregory Lamboley'
+p8159
+aS'2005'
+p8160
+aS'Back-row'
+p8161
+aS'14'
+p8162
+aS'9'
+aS'4'
+aS'1'
 aS'1'
 aS'5'
+aS'Paris'
+p8163
 aVFrance
-p8215
-aV12000
-p8216
+p8164
 aVFrance métropolitaine
-p8217
-aa(lp8218
-S'Benjamin Thiery'
-p8219
-aS'2007'
-p8220
+p8165
+aVÎle-de-France
+p8166
+aa(lp8167
+S'Jean-Philippe Grandclaude'
+p8168
+aS'2005'
+p8169
+aS'Centre'
+p8170
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Frejus'
+p8171
+aVFrance
+p8172
+aV83600;83370
+p8173
+aVFrance métropolitaine
+p8174
+aa(lp8175
+S'Julien Laharrague'
+p8176
+aS'2005'
+p8177
 aS'Fullback'
-p8221
-aS'Reims'
-p8222
+p8178
+aS'12'
+p8179
+aS'7'
+aS'4'
+aS'1'
+aS'4'
+aS'20'
+p8180
+aS'Tarbes'
+p8181
+aVFrance
+p8182
+aV65000
+p8183
+aVFrance métropolitaine
+p8184
+aa(lp8185
+S'Benoit Baby'
+p8186
+aS'2005'
+p8187
+aS'Centre'
+p8188
+aS'9'
+aS'5'
 aS'4'
 aS'0'
+aS'1'
+aS'8'
+aS'Lavelanet'
+p8189
+aVFrance
+p8190
+aV09300
+p8191
+aVFrance métropolitaine
+p8192
+aa(lp8193
+S'David Marty'
+p8194
+aS'2005'
+p8195
+aS'Centre'
+p8196
+aS'37'
+p8197
+aS'30'
+p8198
+aS'7'
 aS'0'
+aS'11'
+p8199
+aS'55'
+p8200
+aS'Perpignan'
+p8201
+aVFrance
+p8202
+aV66000;66100
+p8203
+aVFrance métropolitaine
+p8204
+aa(lp8205
+S'Julien Candelon'
+p8206
+aS'2005'
+p8207
+aS'Wing'
+p8208
+aS'2'
 aS'0'
+aS'1'
+aS'1'
+aS'2'
+aS'10'
+p8209
+aS'Agen'
+p8210
+aVFrance
+p8211
+aV47000
+p8212
+aVFrance métropolitaine
+p8213
+aa(lp8214
+S'Florian Fritz'
+p8215
+aS'2005'
+p8216
+aS'Centre'
+p8217
+aS'34'
+p8218
+aS'14'
+p8219
+aS'18'
+p8220
+aS'2'
+aS'3'
+aS'24'
+p8221
+aS'Burgundy'
+p8222
 aVFrance
 p8223
-aV51100
-p8224
 aVFrance métropolitaine
+p8224
+aVBourgogne
 p8225
 aa(lp8226
-S'Damien Chouly'
+S'Romain Millo-Chluski'
 p8227
-aS'2007'
+aS'2005'
 p8228
-aS'No. 8'
+aS'Lock'
 p8229
-aS'Limoges'
+aS'18'
 p8230
-aS'29'
+aS'10'
 p8231
-aS'11'
-p8232
+aS'7'
 aS'1'
-aS'5'
+aS'0'
+aS'0'
+aS'Ris-Orangis'
+p8232
 aVFrance
 p8233
-aV87000;87100;87280
+aV91130
 p8234
 aVFrance métropolitaine
 p8235
 aa(lp8236
-S'Mickael Forest'
+S'Denis Avril'
 p8237
-aS'2007'
+aS'2005'
 p8238
-aS'Scrum-half'
+aS'Prop'
 p8239
-aS'Chambery'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Thouars'
 p8240
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p8241
-aV73000
+aV79100
 p8242
 aVFrance métropolitaine
 p8243
 aa(lp8244
-S'Nicolas Laharrague'
+S'Guilliaume Bousses'
 p8245
-aS'2007'
+aS'2006'
 p8246
-aS'Fly-half'
+aS'Centre'
 p8247
-aS'Tarbes'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
 p8248
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p8249
-aV65000
+aV31000;31100;31200;31300;31400;31500
 p8250
 aVFrance métropolitaine
 p8251
 aa(lp8252
-S'Franck Montanella'
+S'Benjamin Boyet'
 p8253
-aS'2007'
+aS'2006'
 p8254
-aS'Prop'
+aS'Fly-half'
 p8255
-aS'Cannes'
-p8256
+aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
-aS'0'
-aVFrance
+aS'11'
+p8256
+aS'Vienne'
 p8257
-aV06400;06150
+aVÖsterreich
 p8258
-aVFrance métropolitaine
+aVWien
 p8259
+ag97
 aa(lp8260
-S'Olivier Olibeau'
+S'David Attoub'
 p8261
-aS'2007'
+aS'2006'
 p8262
-aS'Lock'
+aS'Prop'
 p8263
-aS'Perpignan'
-p8264
+aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Valence'
+p8264
 aVFrance
 p8265
-aV66000;66100
+aV26000
 p8266
 aVFrance métropolitaine
 p8267
 aa(lp8268
-S'Lionel Mazars'
+S'Thierry Dusautoir'
 p8269
-aS'2007'
+aS'2006'
 p8270
-aS'Centre'
+aS'Back-row'
 p8271
-aS'Toulouse'
+aS'75'
 p8272
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
+aS'38'
 p8273
-aV31000;31100;31200;31300;31400;31500
+aS'35'
 p8274
-aVFrance métropolitaine
+aS'2'
+aS'6'
+aS'30'
 p8275
-aa(lp8276
-S'Olivier Sourgens'
-p8277
-aS'2007'
+aS'Ivory Coas'
+p8276
+aS'g'
+aS'n'
+aS'i'
+aa(lp8277
+S'Vincent Debaty'
 p8278
-aS'Prop'
+aS'2006'
 p8279
-aS'Cenon'
+aS'Prop'
 p8280
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
+aS'29'
 p8281
-aV33150
+aS'11'
 p8282
-aVFrance métropolitaine
+aS'16'
 p8283
-aa(lp8284
-S'Fulgence Ouedraogo'
-p8285
-aS'2007'
-p8286
-aS'Flanker'
-p8287
-aS'Ouagadougou'
-p8288
-aS'36'
-p8289
-aS'19'
-p8290
+aS'2'
 aS'1'
 aS'5'
-aVBurkina Faso
+aS'Woluwe-Saint-Lambert'
+p8284
+aVBelgië - Belgique - Belgien
+p8285
+aV1200
+p8286
+aVRégion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+p8287
+aa(lp8288
+S'Loic Jacquet'
+p8289
+aS'2006'
+p8290
+aS'Lock'
 p8291
-aVCentre
-p8292
-aVKadiogo
-p8293
-aa(lp8294
-S'Julien Brugnaut'
-p8295
-aS'2008'
-p8296
-aS'Prop'
-p8297
-aS'Lille'
-p8298
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p8299
-aV59000;59800
-p8300
-aVFrance métropolitaine
-p8301
-aa(lp8302
-S'Lionel Faure'
-p8303
-aS'2008'
-p8304
-aS'Prop'
-p8305
-aS'Montauban'
-p8306
-aS'8'
+aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Saint-Doulchard'
+p8292
 aVFrance
-p8307
-aV82000
-p8308
+p8293
+aV18230
+p8294
 aVFrance métropolitaine
-p8309
-aa(lp8310
-S'Julien Malzieu'
-p8311
-aS'2008'
-p8312
-aS'Wing'
-p8313
-aS'Le Puy-en-Velay'
-p8314
-aS'20'
-p8315
-aS'13'
-p8316
-aS'5'
-aS'25'
-p8317
-aVFrance
-p8318
-aV43000
-p8319
-aVFrance métropolitaine
-p8320
-aa(lp8321
-S'Francois Trinh-Duc'
-p8322
-aS'2008'
-p8323
+p8295
+aa(lp8296
+S'Lionel Beauxis'
+p8297
+aS'2007'
+p8298
 aS'Fly-half'
-p8324
-aS'Herault'
-p8325
-aS'49'
-p8326
-aS'28'
-p8327
-aS'9'
-aS'70'
-p8328
+p8299
+aS'20'
+p8300
+aS'12'
+p8301
+aS'7'
+aS'1'
+aS'1'
+aS'125'
+p8302
+aS'Tarbes'
+p8303
 aVFrance
+p8304
+aV65000
+p8305
+aVFrance métropolitaine
+p8306
+aa(lp8307
+S'Benoit August'
+p8308
+aS'2007'
+p8309
+aS'Hooker'
+p8310
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Mont-de-Marsan'
+p8311
+aVFrance
+p8312
+aV40000
+p8313
+aVFrance métropolitaine
+p8314
+aa(lp8315
+S'Jean-Francois Coux'
+p8316
+aS'2007'
+p8317
+aS'Wing'
+p8318
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'Grenoble'
+p8319
+aVFrance
+p8320
+aV38000;38100
+p8321
+aVFrance métropolitaine
+p8322
+aa(lp8323
+S'Nicolas Durand'
+p8324
+aS'2007'
+p8325
+aS'Scrum-half'
+p8326
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
+p8327
+aVFrance
+p8328
+aV31000;31100;31200;31300;31400;31500
 p8329
 aVFrance métropolitaine
 p8330
-aVLanguedoc-Roussillon
-p8331
-aa(lp8332
-S'Arnaud Mela'
+aa(lp8331
+S'Gregory le Corvec'
+p8332
+aS'2007'
 p8333
-aS'2008'
+aS'Back-row'
 p8334
-aS'Lock'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulon'
 p8335
-aS'Saint-Gaudens'
+aVFrance
 p8336
+aV83000;83100;83200
+p8337
+aVFrance métropolitaine
+p8338
+aa(lp8339
+S'Arnaud Mignardi'
+p8340
+aS'2007'
+p8341
+aS'Centre'
+p8342
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Auch'
+p8343
+aVFrance
+p8344
+aV32000
+p8345
+aVFrance métropolitaine
+p8346
+aa(lp8347
+S'Julien Pierre'
+p8348
+aS'2007'
+p8349
+aS'Lock'
+p8350
+aS'27'
+p8351
+aS'16'
+p8352
+aS'11'
+p8353
+aS'0'
+aS'1'
+aS'5'
+aS'Rodez'
+p8354
+aVFrance
+p8355
+aV12000
+p8356
+aVFrance métropolitaine
+p8357
+aa(lp8358
+S'Benjamin Thiery'
+p8359
+aS'2007'
+p8360
+aS'Fullback'
+p8361
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Reims'
+p8362
+aVFrance
+p8363
+aV51100
+p8364
+aVFrance métropolitaine
+p8365
+aa(lp8366
+S'Damien Chouly'
+p8367
+aS'2007'
+p8368
+aS'No. 8'
+p8369
+aS'29'
+p8370
+aS'11'
+p8371
+aS'18'
+p8372
+aS'0'
+aS'1'
+aS'5'
+aS'Limoges'
+p8373
+aVFrance
+p8374
+aV87000;87100;87280
+p8375
+aVFrance métropolitaine
+p8376
+aa(lp8377
+S'Mickael Forest'
+p8378
+aS'2007'
+p8379
+aS'Scrum-half'
+p8380
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Chambery'
+p8381
+aVFrance
+p8382
+aV73000
+p8383
+aVFrance métropolitaine
+p8384
+aa(lp8385
+S'Nicolas Laharrague'
+p8386
+aS'2007'
+p8387
+aS'Fly-half'
+p8388
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Tarbes'
+p8389
+aVFrance
+p8390
+aV65000
+p8391
+aVFrance métropolitaine
+p8392
+aa(lp8393
+S'Franck Montanella'
+p8394
+aS'2007'
+p8395
+aS'Prop'
+p8396
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cannes'
+p8397
+aVFrance
+p8398
+aV06400;06150
+p8399
+aVFrance métropolitaine
+p8400
+aa(lp8401
+S'Olivier Olibeau'
+p8402
+aS'2007'
+p8403
+aS'Lock'
+p8404
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
+p8405
+aVFrance
+p8406
+aV66000;66100
+p8407
+aVFrance métropolitaine
+p8408
+aa(lp8409
+S'Lionel Mazars'
+p8410
+aS'2007'
+p8411
+aS'Centre'
+p8412
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Toulouse'
+p8413
+aVFrance
+p8414
+aV31000;31100;31200;31300;31400;31500
+p8415
+aVFrance métropolitaine
+p8416
+aa(lp8417
+S'Olivier Sourgens'
+p8418
+aS'2007'
+p8419
+aS'Prop'
+p8420
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cenon'
+p8421
+aVFrance
+p8422
+aV33150
+p8423
+aVFrance métropolitaine
+p8424
+aa(lp8425
+S'Fulgence Ouedraogo'
+p8426
+aS'2007'
+p8427
+aS'Flanker'
+p8428
+aS'36'
+p8429
+aS'19'
+p8430
+aS'17'
+p8431
+aS'0'
+aS'1'
+aS'5'
+aS'Ouagadougou'
+p8432
+aVBurkina Faso
+p8433
+aVCentre
+p8434
+aVKadiogo
+p8435
+aa(lp8436
+S'Julien Brugnaut'
+p8437
+aS'2008'
+p8438
+aS'Prop'
+p8439
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Lille'
+p8440
+aVFrance
+p8441
+aV59000;59800
+p8442
+aVFrance métropolitaine
+p8443
+aa(lp8444
+S'Lionel Faure'
+p8445
+aS'2008'
+p8446
+aS'Prop'
+p8447
+aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Montauban'
+p8448
+aVFrance
+p8449
+aV82000
+p8450
+aVFrance métropolitaine
+p8451
+aa(lp8452
+S'Julien Malzieu'
+p8453
+aS'2008'
+p8454
+aS'Wing'
+p8455
+aS'20'
+p8456
+aS'13'
+p8457
+aS'6'
+aS'1'
+aS'5'
+aS'25'
+p8458
+aS'Le Puy-en-Velay'
+p8459
+aVFrance
+p8460
+aV43000
+p8461
+aVFrance métropolitaine
+p8462
+aa(lp8463
+S'Francois Trinh-Duc'
+p8464
+aS'2008'
+p8465
+aS'Fly-half'
+p8466
+aS'49'
+p8467
+aS'28'
+p8468
+aS'20'
+p8469
+aS'1'
+aS'9'
+aS'70'
+p8470
+aS'Herault'
+p8471
+aVFrance
+p8472
+aVFrance métropolitaine
+p8473
+aVLanguedoc-Roussillon
+p8474
+aa(lp8475
+S'Arnaud Mela'
+p8476
+aS'2008'
+p8477
+aS'Lock'
+p8478
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Saint-Gaudens'
+p8479
 aVFrance
-p8337
+p8480
 aV31800
-p8338
+p8481
 aVFrance métropolitaine
-p8339
-aa(lp8340
+p8482
+aa(lp8483
 S'Morgan Parra'
-p8341
+p8484
 aS'2008'
-p8342
+p8485
 aS'Scrum-half'
-p8343
-aS'Metz'
-p8344
+p8486
 aS'59'
-p8345
+p8487
 aS'33'
-p8346
+p8488
+aS'24'
+p8489
+aS'2'
 aS'3'
 aS'325'
-p8347
-aVFrance
-p8348
-aV57000;57050;57070
-p8349
-aVFrance métropolitaine
-p8350
-aa(lp8351
-S'Louis Picamoles'
-p8352
-aS'2008'
-p8353
-aS'No. 8'
-p8354
-aS'Paris'
-p8355
-aS'44'
-p8356
-aS'20'
-p8357
-aS'6'
-aS'30'
-p8358
-aVFrance
-p8359
-aVFrance métropolitaine
-p8360
-aVÎle-de-France
-p8361
-aa(lp8362
-S'Anthony Floch'
-p8363
-aS'2008'
-p8364
-aS'Fullback'
-p8365
-aS'Clermont-Ferrand'
-p8366
-aS'3'
-aS'1'
-aS'1'
-aS'5'
-aVFrance
-p8367
-aV63000;63100
-p8368
-aVFrance métropolitaine
-p8369
-aa(lp8370
-S'Fabien Barcella'
-p8371
-aS'2008'
-p8372
-aS'Prop'
-p8373
-aS'Agen'
-p8374
-aS'20'
-p8375
-aS'12'
-p8376
-aS'0'
-aS'0'
-aVFrance
-p8377
-aV47000
-p8378
-aVFrance métropolitaine
-p8379
-aa(lp8380
-S'Yann David'
-p8381
-aS'2008'
-p8382
-aS'Centre'
-p8383
-aS'Bourgoin'
-p8384
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVFrance
-p8385
-aV62575
-p8386
-aVFrance métropolitaine
-p8387
-aa(lp8388
-S'Ibrahim Diarra'
-p8389
-aS'2008'
-p8390
-aS'Flanker'
-p8391
-aS'Savignu-sur-Orge'
-p8392
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp8393
-S'Guilhem Guirado'
-p8394
-aS'2008'
-p8395
-aS'Hooker'
-p8396
-aS'Ceret'
-p8397
-aS'31'
-p8398
-aS'15'
-p8399
-aS'1'
-aS'5'
-aVFrance
-p8400
-aV66400
-p8401
-aVFrance métropolitaine
-p8402
-aa(lp8403
-S'Julien Tomas'
-p8404
-aS'2008'
-p8405
-aS'Scrum-half'
-p8406
-aS'Montpellier'
-p8407
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p8408
-aV34000;34070;34080;34090
-p8409
-aVFrance métropolitaine
-p8410
-aa(lp8411
-S'Benoit Lecouls'
-p8412
-aS'2008'
-p8413
-aS'Prop'
-p8414
-aS'Agen'
-p8415
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p8416
-aV47000
-p8417
-aVFrance métropolitaine
-p8418
-aa(lp8419
-S'Alexis Palisson'
-p8420
-aS'2008'
-p8421
-aS'Wing'
-p8422
-aS'Montauban'
-p8423
-aS'21'
-p8424
-aS'13'
-p8425
-aS'2'
-aS'10'
-p8426
-aVFrance
-p8427
-aV82000
-p8428
-aVFrance métropolitaine
-p8429
-aa(lp8430
-S'Renaud Boyoud'
-p8431
-aS'2008'
-p8432
-aS'Prop'
-p8433
-aS'Grenoble'
-p8434
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p8435
-aV38000;38100
-p8436
-aVFrance métropolitaine
-p8437
-aa(lp8438
-S'David Janin'
-p8439
-aS'2008'
-p8440
-aS'Centre'
-p8441
-aS'Tremblay-les-Gonesse'
-p8442
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp8443
-S'Benjamin Kayser'
-p8444
-aS'2008'
-p8445
-aS'Hooker'
-p8446
-aS'Paris'
-p8447
-aS'32'
-p8448
-aS'15'
-p8449
-aS'2'
-aS'10'
-p8450
-aVFrance
-p8451
-aVFrance métropolitaine
-p8452
-aVÎle-de-France
-p8453
-aa(lp8454
-S'Thibault Lacroix'
-p8455
-aS'2008'
-p8456
-aS'Centre'
-p8457
-aS'Niort'
-p8458
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p8459
-aV79000
-p8460
-aVFrance métropolitaine
-p8461
-aa(lp8462
-S'Matthieu Lievremont'
-p8463
-aS'2008'
-p8464
-aS'Back-row'
-p8465
-aS'Perpignan'
-p8466
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p8467
-aV66000;66100
-p8468
-aVFrance métropolitaine
-p8469
-aa(lp8470
-S'Sebastien Tillous-Borde'
-p8471
-aS'2008'
-p8472
-aS'Scrum-half'
-p8473
-aS'Oloron-Sainte-Marie'
-p8474
-aS'14'
-p8475
-aS'6'
-aS'3'
-aS'15'
-p8476
-aVFrance
-p8477
-aV64400
-p8478
-aVFrance métropolitaine
-p8479
-aa(lp8480
-S'Pierre Correia'
-p8481
-aS'2008'
-p8482
-aS'Prop'
-p8483
-aS'Talence'
-p8484
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p8485
-aV33400
-p8486
-aVFrance métropolitaine
-p8487
-aa(lp8488
-S'Maxime Mermoz'
-p8489
-aS'2008'
 p8490
-aS'Centre'
+aS'Metz'
 p8491
-aS'Epinal'
-p8492
-aS'30'
-p8493
-aS'14'
-p8494
-aS'3'
-aS'15'
-p8495
 aVFrance
-p8496
-aV88000
-p8497
+p8492
+aV57000;57050;57070
+p8493
 aVFrance métropolitaine
-p8498
-aa(lp8499
-S'Yannick Caballero'
-p8500
+p8494
+aa(lp8495
+S'Louis Picamoles'
+p8496
 aS'2008'
+p8497
+aS'No. 8'
+p8498
+aS'44'
+p8499
+aS'20'
+p8500
+aS'22'
 p8501
-aS'Flanker'
+aS'2'
+aS'6'
+aS'30'
 p8502
-aS'Castres'
+aS'Paris'
 p8503
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVFrance
 p8504
-aV81100
-p8505
 aVFrance métropolitaine
+p8505
+aVÎle-de-France
 p8506
 aa(lp8507
-S'Jean-Baptiste Peyras-Loustalet'
+S'Anthony Floch'
 p8508
 aS'2008'
 p8509
 aS'Fullback'
 p8510
-aS'Pau'
-p8511
+aS'3'
 aS'1'
+aS'2'
 aS'0'
-aS'0'
-aS'0'
+aS'1'
+aS'5'
+aS'Clermont-Ferrand'
+p8511
 aVFrance
 p8512
-aV64000
+aV63000;63100
 p8513
 aVFrance métropolitaine
 p8514
 aa(lp8515
-S'Maxime Medard'
+S'Fabien Barcella'
 p8516
 aS'2008'
 p8517
-aS'Wing'
-p8518
-aS'Toulouse'
-p8519
-aS'41'
-p8520
-aS'24'
-p8521
-aS'11'
-p8522
-aS'58'
-p8523
-aVFrance
-p8524
-aV31000;31100;31200;31300;31400;31500
-p8525
-aVFrance métropolitaine
-p8526
-aa(lp8527
-S'Mathieu Bastareaud'
-p8528
-aS'2009'
-p8529
-aS'Centre'
-p8530
-aS'Creteil'
-p8531
-aS'33'
-p8532
-aS'17'
-p8533
-aS'3'
-aS'15'
-p8534
-aVFrance
-p8535
-aV94000
-p8536
-aVFrance métropolitaine
-p8537
-aa(lp8538
-S'Thomas Domingo'
-p8539
-aS'2009'
-p8540
 aS'Prop'
-p8541
-aS'Tulle'
-p8542
-aS'36'
-p8543
+p8518
 aS'20'
+p8519
+aS'12'
+p8520
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Agen'
+p8521
+aVFrance
+p8522
+aV47000
+p8523
+aVFrance métropolitaine
+p8524
+aa(lp8525
+S'Yann David'
+p8526
+aS'2008'
+p8527
+aS'Centre'
+p8528
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bourgoin'
+p8529
+aVFrance
+p8530
+aV62575
+p8531
+aVFrance métropolitaine
+p8532
+aa(lp8533
+S'Ibrahim Diarra'
+p8534
+aS'2008'
+p8535
+aS'Flanker'
+p8536
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Savignu-sur-Orge'
+p8537
+aS'g'
+aS'n'
+aS'i'
+aa(lp8538
+S'Guilhem Guirado'
+p8539
+aS'2008'
+p8540
+aS'Hooker'
+p8541
+aS'31'
+p8542
+aS'15'
+p8543
+aS'15'
 p8544
 aS'1'
+aS'1'
 aS'5'
-aVFrance
+aS'Ceret'
 p8545
-aV19000
+aVFrance
 p8546
-aVFrance métropolitaine
+aV66400
 p8547
-aa(lp8548
-S'Julien Dupuy'
-p8549
-aS'2009'
+aVFrance métropolitaine
+p8548
+aa(lp8549
+S'Julien Tomas'
 p8550
-aS'Scrum-half'
+aS'2008'
 p8551
-aS'Perigueux'
+aS'Scrum-half'
 p8552
-aS'8'
-aS'4'
+aS'3'
+aS'2'
+aS'1'
 aS'0'
-aS'38'
+aS'0'
+aS'0'
+aS'Montpellier'
 p8553
 aVFrance
 p8554
-aV24000
+aV34000;34070;34080;34090
 p8555
 aVFrance métropolitaine
 p8556
 aa(lp8557
-S'Julien Puricelli'
+S'Benoit Lecouls'
 p8558
-aS'2009'
+aS'2008'
 p8559
-aS'Flanker'
+aS'Prop'
 p8560
-aS'Grenoble'
-p8561
-aS'4'
+aS'6'
 aS'2'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'Agen'
+p8561
 aVFrance
 p8562
-aV38000;38100
+aV47000
 p8563
 aVFrance métropolitaine
 p8564
 aa(lp8565
-S'Julien Arias'
+S'Alexis Palisson'
 p8566
-aS'2009'
+aS'2008'
 p8567
 aS'Wing'
 p8568
-aS'Marseille'
+aS'21'
 p8569
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
+aS'13'
 p8570
-aVFrance métropolitaine
-p8571
-aVProvence-Alpes-Côte d'Azur
-p8572
-aa(lp8573
-S'Benjamin Fall'
-p8574
-aS'2009'
-p8575
-aS'Wing'
-p8576
-aS'Langon'
-p8577
-aS'6'
-aS'3'
-aS'3'
-aS'15'
-p8578
-aVFrance
-p8579
-aV33210
-p8580
-aVFrance métropolitaine
-p8581
-aa(lp8582
-S'Alexandre Lapandry'
-p8583
-aS'2009'
-p8584
-aS'Flanker'
-p8585
-aS'Paray-le-Monial'
-p8586
-aS'10'
-p8587
 aS'8'
+aS'0'
 aS'2'
 aS'10'
-p8588
+p8571
+aS'Montauban'
+p8572
 aVFrance
-p8589
-aV71600
-p8590
+p8573
+aV82000
+p8574
 aVFrance métropolitaine
-p8591
-aa(lp8592
-S'Luc Ducalcon'
-p8593
-aS'2010'
-p8594
+p8575
+aa(lp8576
+S'Renaud Boyoud'
+p8577
+aS'2008'
+p8578
 aS'Prop'
+p8579
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Grenoble'
+p8580
+aVFrance
+p8581
+aV38000;38100
+p8582
+aVFrance métropolitaine
+p8583
+aa(lp8584
+S'David Janin'
+p8585
+aS'2008'
+p8586
+aS'Centre'
+p8587
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Tremblay-les-Gonesse'
+p8588
+aS'g'
+aS'n'
+aS'i'
+aa(lp8589
+S'Benjamin Kayser'
+p8590
+aS'2008'
+p8591
+aS'Hooker'
+p8592
+aS'32'
+p8593
+aS'15'
+p8594
+aS'16'
 p8595
-aS'La Fere'
+aS'1'
+aS'2'
+aS'10'
 p8596
-aS'17'
+aS'Paris'
 p8597
-aS'8'
-aS'0'
-aS'0'
 aVFrance
 p8598
-aV02800
-p8599
 aVFrance métropolitaine
+p8599
+aVÎle-de-France
 p8600
 aa(lp8601
-S'Marc Andreu'
+S'Thibault Lacroix'
 p8602
-aS'2010'
+aS'2008'
 p8603
-aS'Wing'
+aS'Centre'
 p8604
-aS'Frejus'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Niort'
 p8605
-aS'7'
-aS'4'
-aS'2'
-aS'10'
+aVFrance
 p8606
-aVFrance
+aV79000
 p8607
-aV83600;83370
+aVFrance métropolitaine
 p8608
-aVFrance métropolitaine
-p8609
-aa(lp8610
-S'Wenceslas Lauret'
+aa(lp8609
+S'Matthieu Lievremont'
+p8610
+aS'2008'
 p8611
-aS'2010'
+aS'Back-row'
 p8612
-aS'Flanker'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
 p8613
-aS'Tarbes'
+aVFrance
 p8614
-aS'7'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
+aV66000;66100
 p8615
-aV65000
+aVFrance métropolitaine
 p8616
-aVFrance métropolitaine
-p8617
-aa(lp8618
-S'Jerome Porical'
+aa(lp8617
+S'Sebastien Tillous-Borde'
+p8618
+aS'2008'
 p8619
-aS'2010'
-p8620
-aS'Fullback'
-p8621
-aS'Perpignan'
-p8622
-aS'4'
-aS'2'
-aS'0'
-aS'3'
-aVFrance
-p8623
-aV66000;66100
-p8624
-aVFrance métropolitaine
-p8625
-aa(lp8626
-S'Fabrice Estebanez'
-p8627
-aS'2010'
-p8628
-aS'Centre'
-p8629
-aS'Carcassonne'
-p8630
-aS'8'
-aS'5'
-aS'0'
-aS'0'
-aVFrance
-p8631
-aV11000
-p8632
-aVFrance métropolitaine
-p8633
-aa(lp8634
-S'Jerome Schuster'
-p8635
-aS'2010'
-p8636
-aS'Prop'
-p8637
-aS'Perpignan'
-p8638
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p8639
-aV66000;66100
-p8640
-aVFrance métropolitaine
-p8641
-aa(lp8642
-S'Benjamin Noirot'
-p8643
-aS'2010'
-p8644
-aS'Hooker'
-p8645
-aS'Dijon'
-p8646
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p8647
-aV21000
-p8648
-aVFrance métropolitaine
-p8649
-aa(lp8650
-S'Yoann Huget'
-p8651
-aS'2010'
-p8652
-aS'Wing'
-p8653
-aS'Pamiers'
-p8654
-aS'38'
-p8655
-aS'16'
-p8656
-aS'6'
-aS'30'
-p8657
-aVFrance
-p8658
-aV09100
-p8659
-aVFrance métropolitaine
-p8660
-aa(lp8661
-S'Raphael Lakafia'
-p8662
-aS'2011'
-p8663
-aS'No. 8'
-p8664
-aS'Tours'
-p8665
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p8666
-aV37000;37100;37200
-p8667
-aVFrance métropolitaine
-p8668
-aa(lp8669
-S'Jean-Marc Doussain'
-p8670
-aS'2011'
-p8671
 aS'Scrum-half'
-p8672
+p8620
+aS'14'
+p8621
+aS'6'
+aS'8'
+aS'0'
+aS'3'
+aS'15'
+p8622
+aS'Oloron-Sainte-Marie'
+p8623
+aVFrance
+p8624
+aV64400
+p8625
+aVFrance métropolitaine
+p8626
+aa(lp8627
+S'Pierre Correia'
+p8628
+aS'2008'
+p8629
+aS'Prop'
+p8630
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Talence'
+p8631
+aVFrance
+p8632
+aV33400
+p8633
+aVFrance métropolitaine
+p8634
+aa(lp8635
+S'Maxime Mermoz'
+p8636
+aS'2008'
+p8637
+aS'Centre'
+p8638
+aS'30'
+p8639
+aS'14'
+p8640
+aS'16'
+p8641
+aS'0'
+aS'3'
+aS'15'
+p8642
+aS'Epinal'
+p8643
+aVFrance
+p8644
+aV88000
+p8645
+aVFrance métropolitaine
+p8646
+aa(lp8647
+S'Yannick Caballero'
+p8648
+aS'2008'
+p8649
+aS'Flanker'
+p8650
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Castres'
+p8651
+aVFrance
+p8652
+aV81100
+p8653
+aVFrance métropolitaine
+p8654
+aa(lp8655
+S'Jean-Baptiste Peyras-Loustalet'
+p8656
+aS'2008'
+p8657
+aS'Fullback'
+p8658
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pau'
+p8659
+aVFrance
+p8660
+aV64000
+p8661
+aVFrance métropolitaine
+p8662
+aa(lp8663
+S'Maxime Medard'
+p8664
+aS'2008'
+p8665
+aS'Wing'
+p8666
+aS'41'
+p8667
+aS'24'
+p8668
+aS'16'
+p8669
+aS'1'
+aS'11'
+p8670
+aS'58'
+p8671
 aS'Toulouse'
+p8672
+aVFrance
 p8673
-aS'10'
+aV31000;31100;31200;31300;31400;31500
 p8674
+aVFrance métropolitaine
+p8675
+aa(lp8676
+S'Mathieu Bastareaud'
+p8677
+aS'2009'
+p8678
+aS'Centre'
+p8679
+aS'33'
+p8680
+aS'17'
+p8681
+aS'15'
+p8682
+aS'1'
+aS'3'
+aS'15'
+p8683
+aS'Creteil'
+p8684
+aVFrance
+p8685
+aV94000
+p8686
+aVFrance métropolitaine
+p8687
+aa(lp8688
+S'Thomas Domingo'
+p8689
+aS'2009'
+p8690
+aS'Prop'
+p8691
+aS'36'
+p8692
+aS'20'
+p8693
+aS'15'
+p8694
+aS'1'
+aS'1'
+aS'5'
+aS'Tulle'
+p8695
+aVFrance
+p8696
+aV19000
+p8697
+aVFrance métropolitaine
+p8698
+aa(lp8699
+S'Julien Dupuy'
+p8700
+aS'2009'
+p8701
+aS'Scrum-half'
+p8702
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'38'
+p8703
+aS'Perigueux'
+p8704
+aVFrance
+p8705
+aV24000
+p8706
+aVFrance métropolitaine
+p8707
+aa(lp8708
+S'Julien Puricelli'
+p8709
+aS'2009'
+p8710
+aS'Flanker'
+p8711
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Grenoble'
+p8712
+aVFrance
+p8713
+aV38000;38100
+p8714
+aVFrance métropolitaine
+p8715
+aa(lp8716
+S'Julien Arias'
+p8717
+aS'2009'
+p8718
+aS'Wing'
+p8719
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Marseille'
+p8720
+aVFrance
+p8721
+aVFrance métropolitaine
+p8722
+aVProvence-Alpes-Côte d'Azur
+p8723
+aa(lp8724
+S'Benjamin Fall'
+p8725
+aS'2009'
+p8726
+aS'Wing'
+p8727
+aS'6'
+aS'3'
 aS'3'
 aS'0'
-aS'36'
-p8675
-aVFrance
-p8676
-aV31000;31100;31200;31300;31400;31500
-p8677
-aVFrance métropolitaine
-p8678
-aa(lp8679
-S'Wesley Fofana'
-p8680
-aS'2012'
-p8681
-aS'Centre'
-p8682
-aS'Paris'
-p8683
-aS'33'
-p8684
-aS'13'
-p8685
-aS'11'
-p8686
-aS'55'
-p8687
-aVFrance
-p8688
-aVFrance métropolitaine
-p8689
-aVÎle-de-France
-p8690
-aa(lp8691
-S'Yoann Maestri'
-p8692
-aS'2012'
-p8693
-aS'Lock'
-p8694
-aS'Hyeres'
-p8695
-aS'36'
-p8696
-aS'14'
-p8697
-aS'1'
-aS'5'
-aVFrance
-p8698
-aV83400
-p8699
-aVFrance métropolitaine
-p8700
-aa(lp8701
-S'Jean-Marcelin Buttin'
-p8702
-aS'2012'
-p8703
-aS'Fullback'
-p8704
-aS'Colmar'
-p8705
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p8706
-aV68000
-p8707
-aVFrance métropolitaine
-p8708
-aa(lp8709
-S'Brice Dulin'
-p8710
-aS'2012'
-p8711
-aS'Fullback'
-p8712
-aS'Lot-et-Garonne'
-p8713
-aS'19'
-p8714
-aS'8'
-aS'4'
-aS'23'
-p8715
-aVFrance
-p8716
-aVFrance métropolitaine
-p8717
-aVAquitaine
-p8718
-aa(lp8719
-S'Yvan Watremez'
-p8720
-aS'2012'
-p8721
-aS'Prop'
-p8722
-aS'Foix'
-p8723
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p8724
-aV09000
-p8725
-aVFrance métropolitaine
-p8726
-aa(lp8727
-S'Romain Taofifenua'
+aS'3'
+aS'15'
 p8728
-aS'2012'
+aS'Langon'
 p8729
-aS'Lock'
+aVFrance
 p8730
-aS'Mont-de-Marsan'
+aV33210
 p8731
+aVFrance métropolitaine
+p8732
+aa(lp8733
+S'Alexandre Lapandry'
+p8734
+aS'2009'
+p8735
+aS'Flanker'
+p8736
+aS'10'
+p8737
 aS'8'
 aS'2'
-aS'1'
-aS'5'
-aVFrance
-p8732
-aV40000
-p8733
-aVFrance métropolitaine
-p8734
-aa(lp8735
-S'Christopher Tolofua'
-p8736
-aS'2012'
-p8737
-aS'Hooker'
+aS'0'
+aS'2'
+aS'10'
 p8738
-aS'Frejus'
+aS'Paray-le-Monial'
 p8739
-aS'4'
-aS'1'
-aS'0'
-aS'0'
 aVFrance
 p8740
-aV83600;83370
+aV71600
 p8741
 aVFrance métropolitaine
 p8742
 aa(lp8743
-S'Maxime Machenaud'
+S'Luc Ducalcon'
 p8744
-aS'2012'
+aS'2010'
 p8745
-aS'Scrum-half'
+aS'Prop'
 p8746
-aS'Bordeaux'
+aS'17'
 p8747
-aS'18'
-p8748
 aS'8'
-aS'1'
-aS'43'
-p8749
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'La Fere'
+p8748
 aVFrance
+p8749
+aV02800
 p8750
-aV33000;33100;33300;33800
-p8751
 aVFrance métropolitaine
-p8752
-aa(lp8753
-S'Christophe Samson'
+p8751
+aa(lp8752
+S'Marc Andreu'
+p8753
+aS'2010'
 p8754
-aS'2012'
+aS'Wing'
 p8755
-aS'Lock'
-p8756
-aS'Clermont-Ferrand'
-p8757
-aS'5'
+aS'7'
+aS'4'
+aS'3'
+aS'0'
 aS'2'
-aS'0'
-aS'0'
+aS'10'
+p8756
+aS'Frejus'
+p8757
 aVFrance
 p8758
-aV63000;63100
+aV83600;83370
 p8759
 aVFrance métropolitaine
 p8760
 aa(lp8761
-S'Yannick Forestier'
+S'Wenceslas Lauret'
 p8762
-aS'2012'
+aS'2010'
 p8763
-aS'Prop'
+aS'Flanker'
 p8764
-aS'Narbonne'
+aS'7'
+aS'1'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Tarbes'
 p8765
-aS'11'
-p8766
-aS'6'
-aS'0'
-aS'0'
 aVFrance
+p8766
+aV65000
 p8767
-aV11100
-p8768
 aVFrance métropolitaine
-p8769
-aa(lp8770
-S'Jocelino Suta'
+p8768
+aa(lp8769
+S'Jerome Porical'
+p8770
+aS'2010'
 p8771
-aS'2012'
+aS'Fullback'
 p8772
-aS'Lock'
-p8773
-aS'Port Vila'
-p8774
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVVanuatu
-p8775
-aVShefa
-p8776
-aVPort Vila
-p8777
-aa(lp8778
-S'Sebastien Vahaamahina'
-p8779
-aS'2012'
-p8780
-aS'Lock'
-p8781
-aS'New Caledo'
-p8782
-aS'15'
-p8783
-aS'5'
-aS'0'
-aS'0'
-aVEspaña
-p8784
-aVCAT
-p8785
-aVLleida
-p8786
-aa(lp8787
-S'Antonie Claassen'
-p8788
-aS'2013'
-p8789
-aS'No. 8'
-p8790
-aS'Durban'
-p8791
-aS'6'
+aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVSouth Africa
-p8792
-aVKwaZulu-Natal
-p8793
-aVeThekwini Metropolitan Municipality
-p8794
-aa(lp8795
-S'Gael Fickou'
-p8796
-aS'2013'
-p8797
-aS'Centre'
-p8798
-aS'La Seyne-sur-Mer'
-p8799
-aS'11'
-p8800
-aS'6'
-aS'1'
-aS'5'
+aS'3'
+aS'Perpignan'
+p8773
 aVFrance
-p8801
-aV83500
-p8802
+p8774
+aV66000;66100
+p8775
 aVFrance métropolitaine
-p8803
-aa(lp8804
-S'Camille Lopez'
-p8805
-aS'2013'
-p8806
-aS'Fly-half'
-p8807
-aS'Oloron-Sainte-Marie'
-p8808
-aS'9'
-aS'4'
+p8776
+aa(lp8777
+S'Fabrice Estebanez'
+p8778
+aS'2010'
+p8779
+aS'Centre'
+p8780
+aS'8'
+aS'5'
+aS'3'
 aS'0'
-aS'72'
+aS'0'
+aS'0'
+aS'Carcassonne'
+p8781
+aVFrance
+p8782
+aV11000
+p8783
+aVFrance métropolitaine
+p8784
+aa(lp8785
+S'Jerome Schuster'
+p8786
+aS'2010'
+p8787
+aS'Prop'
+p8788
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
+p8789
+aVFrance
+p8790
+aV66000;66100
+p8791
+aVFrance métropolitaine
+p8792
+aa(lp8793
+S'Benjamin Noirot'
+p8794
+aS'2010'
+p8795
+aS'Hooker'
+p8796
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Dijon'
+p8797
+aVFrance
+p8798
+aV21000
+p8799
+aVFrance métropolitaine
+p8800
+aa(lp8801
+S'Yoann Huget'
+p8802
+aS'2010'
+p8803
+aS'Wing'
+p8804
+aS'38'
+p8805
+aS'16'
+p8806
+aS'21'
+p8807
+aS'1'
+aS'6'
+aS'30'
+p8808
+aS'Pamiers'
 p8809
 aVFrance
 p8810
-aV64400
+aV09100
 p8811
 aVFrance métropolitaine
 p8812
 aa(lp8813
-S'Adrien Plante'
+S'Raphael Lakafia'
 p8814
-aS'2013'
+aS'2011'
 p8815
-aS'Wing'
+aS'No. 8'
 p8816
-aS'Longjumeau'
-p8817
+aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Tours'
+p8817
 aVFrance
 p8818
-aV91160
+aV37000;37100;37200
 p8819
 aVFrance métropolitaine
 p8820
 aa(lp8821
-S'Alexandre Flanquart'
+S'Jean-Marc Doussain'
 p8822
-aS'2013'
+aS'2011'
 p8823
-aS'Lock'
+aS'Scrum-half'
 p8824
-aS'Cambrai'
+aS'10'
 p8825
-aS'12'
-p8826
-aS'5'
-aS'0'
-aS'0'
-aVFrance
-p8827
-aV59400
-p8828
-aVFrance métropolitaine
-p8829
-aa(lp8830
-S'Dan Kotze'
-p8831
-aS'2013'
-p8832
-aS'Prop'
-p8833
-aS'Frankfort'
-p8834
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited States of America
-p8835
-aVKentucky
-p8836
-aVFranklin County
-p8837
-aa(lp8838
-S'Bernard le Roux'
-p8839
-aS'2013'
-p8840
-aS'Flanker'
-p8841
-aS'Moorreesburg'
-p8842
-aS'16'
-p8843
+aS'3'
 aS'7'
 aS'0'
 aS'0'
-aVSouth Africa
-p8844
-aVWestern Cape
-p8845
-aVWest Coast District Municipality
-p8846
-aa(lp8847
-S'Remi Tales'
-p8848
-aS'2013'
-p8849
-aS'Fly-half'
-p8850
-aS'Mont-de-Marsan'
-p8851
-aS'16'
-p8852
-aS'4'
-aS'0'
-aS'0'
+aS'36'
+p8826
+aS'Toulouse'
+p8827
 aVFrance
-p8853
-aV40000
-p8854
+p8828
+aV31000;31100;31200;31300;31400;31500
+p8829
 aVFrance métropolitaine
-p8855
-aa(lp8856
-S'Eddy Ben Arous'
-p8857
-aS'2013'
-p8858
-aS'Prop'
-p8859
-aS'Trappes'
-p8860
+p8830
+aa(lp8831
+S'Wesley Fofana'
+p8832
+aS'2012'
+p8833
+aS'Centre'
+p8834
+aS'33'
+p8835
+aS'13'
+p8836
+aS'18'
+p8837
+aS'2'
+aS'11'
+p8838
+aS'55'
+p8839
+aS'Paris'
+p8840
+aVFrance
+p8841
+aVFrance métropolitaine
+p8842
+aVÎle-de-France
+p8843
+aa(lp8844
+S'Yoann Maestri'
+p8845
+aS'2012'
+p8846
+aS'Lock'
+p8847
+aS'36'
+p8848
+aS'14'
+p8849
+aS'20'
+p8850
+aS'2'
+aS'1'
 aS'5'
+aS'Hyeres'
+p8851
+aVFrance
+p8852
+aV83400
+p8853
+aVFrance métropolitaine
+p8854
+aa(lp8855
+S'Jean-Marcelin Buttin'
+p8856
+aS'2012'
+p8857
+aS'Fullback'
+p8858
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Colmar'
+p8859
 aVFrance
+p8860
+aV68000
 p8861
-aV78190
-p8862
 aVFrance métropolitaine
-p8863
-aa(lp8864
-S'Rabah Slimani'
+p8862
+aa(lp8863
+S'Brice Dulin'
+p8864
+aS'2012'
 p8865
-aS'2013'
+aS'Fullback'
 p8866
-aS'Prop'
+aS'19'
 p8867
-aS'Sarcelles'
+aS'8'
+aS'11'
 p8868
-aS'15'
+aS'0'
+aS'4'
+aS'23'
 p8869
-aS'6'
-aS'0'
-aS'0'
-aVFrance
+aS'Lot-et-Garonne'
 p8870
-aV95200
+aVFrance
 p8871
 aVFrance métropolitaine
 p8872
-aa(lp8873
-S'Sofiane Guitoune'
-p8874
-aS'2013'
+aVAquitaine
+p8873
+aa(lp8874
+S'Yvan Watremez'
 p8875
-aS'Fullback'
+aS'2012'
 p8876
-aS'Algiers'
-p8877
-aS'3'
-aS'1'
-aS'1'
-aS'5'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p8878
-ag95
-ag95
-aa(lp8879
-S'Jonathan Pelissie'
-p8880
-aS'2013'
-p8881
-aS'Scrum-half'
-p8882
-aS'Aubergenville'
-p8883
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p8884
-aV78410
-p8885
-aVFrance métropolitaine
-p8886
-aa(lp8887
-S'Jules Plisson'
-p8888
-aS'2014'
-p8889
-aS'Fly-half'
-p8890
-aS'Neuilly-sur-Seine'
-p8891
-aS'6'
-aS'4'
-aS'0'
-aS'20'
-p8892
-aVFrance
-p8893
-aV92200
-p8894
-aVFrance métropolitaine
-p8895
-aa(lp8896
-S'Antoine Burban'
-p8897
-aS'2014'
-p8898
-aS'Flanker'
-p8899
-aS'Neuilly-sur-Seine'
-p8900
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p8901
-aV92200
-p8902
-aVFrance métropolitaine
-p8903
-aa(lp8904
-S'Hugo Bonneval'
-p8905
-aS'2014'
-p8906
-aS'Fullback'
-p8907
-aS'Toulouse'
-p8908
-aS'4'
-aS'1'
-aS'1'
-aS'5'
-aVFrance
-p8909
-aV31000;31100;31200;31300;31400;31500
-p8910
-aVFrance métropolitaine
-p8911
-aa(lp8912
-S'Brice Mach'
-p8913
-aS'2014'
-p8914
-aS'Hooker'
-p8915
-aS'Perpignan'
-p8916
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p8917
-aV66000;66100
-p8918
-aVFrance métropolitaine
-p8919
-aa(lp8920
-S'Felix le Bourhis'
-p8921
-aS'2014'
-p8922
-aS'Centre'
-p8923
-aS'Pithiviers'
-p8924
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p8925
-aV45300
-p8926
-aVFrance métropolitaine
-p8927
-aa(lp8928
-S'Remi Lamerat'
-p8929
-aS'2014'
-p8930
-aS'Centre'
-p8931
-aS'Sainte-Foy-la-Grande'
-p8932
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aVFrance
-p8933
-aV33220
-p8934
-aVFrance métropolitaine
-p8935
-aa(lp8936
-S'Alexandre Menini'
-p8937
-aS'2014'
-p8938
 aS'Prop'
-p8939
-aS'Basse-Ham'
-p8940
+p8877
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Foix'
+p8878
+aVFrance
+p8879
+aV09000
+p8880
+aVFrance métropolitaine
+p8881
+aa(lp8882
+S'Romain Taofifenua'
+p8883
+aS'2012'
+p8884
+aS'Lock'
+p8885
+aS'8'
+aS'2'
+aS'6'
+aS'0'
+aS'1'
+aS'5'
+aS'Mont-de-Marsan'
+p8886
+aVFrance
+p8887
+aV40000
+p8888
+aVFrance métropolitaine
+p8889
+aa(lp8890
+S'Christopher Tolofua'
+p8891
+aS'2012'
+p8892
+aS'Hooker'
+p8893
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Frejus'
+p8894
+aVFrance
+p8895
+aV83600;83370
+p8896
+aVFrance métropolitaine
+p8897
+aa(lp8898
+S'Maxime Machenaud'
+p8899
+aS'2012'
+p8900
+aS'Scrum-half'
+p8901
+aS'18'
+p8902
+aS'8'
+aS'10'
+p8903
+aS'0'
+aS'1'
+aS'43'
+p8904
+aS'Bordeaux'
+p8905
+aVFrance
+p8906
+aV33000;33100;33300;33800
+p8907
+aVFrance métropolitaine
+p8908
+aa(lp8909
+S'Christophe Samson'
+p8910
+aS'2012'
+p8911
+aS'Lock'
+p8912
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Clermont-Ferrand'
+p8913
+aVFrance
+p8914
+aV63000;63100
+p8915
+aVFrance métropolitaine
+p8916
+aa(lp8917
+S'Yannick Forestier'
+p8918
+aS'2012'
+p8919
+aS'Prop'
+p8920
+aS'11'
+p8921
+aS'6'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Narbonne'
+p8922
+aVFrance
+p8923
+aV11100
+p8924
+aVFrance métropolitaine
+p8925
+aa(lp8926
+S'Jocelino Suta'
+p8927
+aS'2012'
+p8928
+aS'Lock'
+p8929
 aS'6'
 aS'3'
-aS'0'
-aS'0'
-aVFrance
-p8941
-aV57970
-p8942
-aVFrance métropolitaine
-p8943
-aa(lp8944
-S'Alexandre Dumoulin'
-p8945
-aS'2014'
-p8946
-aS'Centre'
-p8947
-aS'Bourgoin'
-p8948
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVFrance
-p8949
-aV62575
-p8950
-aVFrance métropolitaine
-p8951
-aa(lp8952
-S'Scott Spedding'
-p8953
-aS'2014'
-p8954
-aS'Fullback'
-p8955
-aS'Krugersdorp'
-p8956
-aS'7'
-aS'4'
-aS'0'
 aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Port Vila'
+p8930
+aVVanuatu
+p8931
+aVShefa
+p8932
+aVPort Vila
+p8933
+aa(lp8934
+S'Sebastien Vahaamahina'
+p8935
+aS'2012'
+p8936
+aS'Lock'
+p8937
+aS'15'
+p8938
+aS'5'
+aS'9'
+aS'1'
+aS'0'
+aS'0'
+aS'New Caledo'
+p8939
+aVEspaña
+p8940
+aVCAT
+p8941
+aVLleida
+p8942
+aa(lp8943
+S'Antonie Claassen'
+p8944
+aS'2013'
+p8945
+aS'No. 8'
+p8946
+aS'6'
+aS'2'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Durban'
+p8947
 aVSouth Africa
+p8948
+aVKwaZulu-Natal
+p8949
+aVeThekwini Metropolitan Municipality
+p8950
+aa(lp8951
+S'Gael Fickou'
+p8952
+aS'2013'
+p8953
+aS'Centre'
+p8954
+aS'11'
+p8955
+aS'6'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'La Seyne-sur-Mer'
+p8956
+aVFrance
 p8957
-aVGauteng
+aV83500
 p8958
-aVWest Rand District Municipality
+aVFrance métropolitaine
 p8959
 aa(lp8960
-S'Teddy Thomas'
+S'Camille Lopez'
 p8961
-aS'2014'
+aS'2013'
 p8962
-aS'Wing'
+aS'Fly-half'
 p8963
-aS'Biarritz'
+aS'9'
+aS'4'
+aS'5'
+aS'0'
+aS'0'
+aS'72'
 p8964
-aS'4'
-aS'3'
-aS'4'
-aS'20'
+aS'Oloron-Sainte-Marie'
 p8965
 aVFrance
 p8966
-aV64200
+aV64400
 p8967
 aVFrance métropolitaine
 p8968
 aa(lp8969
-S'Uini Atonio'
+S'Adrien Plante'
 p8970
-aS'2014'
+aS'2013'
 p8971
-aS'Prop'
+aS'Wing'
 p8972
-aS'Timaru'
-p8973
-aS'7'
-aS'3'
+aS'2'
 aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p8974
-aVCanterbury
-p8975
-aVTimaru District
-p8976
-aa(lp8977
-S'Xavier Chiocci'
-p8978
-aS'2014'
-p8979
-aS'Prop'
-p8980
-aS'Toulon'
-p8981
-aS'3'
 aS'2'
 aS'0'
 aS'0'
-aVFrance
-p8982
-aV83000;83100;83200
-p8983
-aVFrance métropolitaine
-p8984
-aa(lp8985
-S'Rory Kockott'
-p8986
-aS'2014'
-p8987
-aS'Scrum-half'
-p8988
-aS'East London'
-p8989
-aS'7'
-aS'4'
 aS'0'
-aS'11'
+aS'Longjumeau'
+p8973
+aVFrance
+p8974
+aV91160
+p8975
+aVFrance métropolitaine
+p8976
+aa(lp8977
+S'Alexandre Flanquart'
+p8978
+aS'2013'
+p8979
+aS'Lock'
+p8980
+aS'12'
+p8981
+aS'5'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Cambrai'
+p8982
+aVFrance
+p8983
+aV59400
+p8984
+aVFrance métropolitaine
+p8985
+aa(lp8986
+S'Dan Kotze'
+p8987
+aS'2013'
+p8988
+aS'Prop'
+p8989
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Frankfort'
 p8990
-aVSouth Africa
+aVUnited States of America
 p8991
-aVEastern Cape
+aVKentucky
 p8992
-aVBuffalo City Metropolitan Municipality
+aVFranklin County
 p8993
 aa(lp8994
-S'Charles Ollivon'
+S'Bernard le Roux'
 p8995
-aS'2014'
+aS'2013'
 p8996
 aS'Flanker'
 p8997
-aS'Saint-Pee-sur-Nivell'
+aS'16'
 p8998
+aS'7'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Moorreesburg'
+p8999
+aVSouth Africa
+p9000
+aVWestern Cape
+p9001
+aVWest Coast District Municipality
+p9002
+aa(lp9003
+S'Remi Tales'
+p9004
+aS'2013'
+p9005
+aS'Fly-half'
+p9006
+aS'16'
+p9007
+aS'4'
+aS'12'
+p9008
+aS'0'
+aS'0'
+aS'0'
+aS'Mont-de-Marsan'
+p9009
+aVFrance
+p9010
+aV40000
+p9011
+aVFrance métropolitaine
+p9012
+aa(lp9013
+S'Eddy Ben Arous'
+p9014
+aS'2013'
+p9015
+aS'Prop'
+p9016
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Trappes'
+p9017
+aVFrance
+p9018
+aV78190
+p9019
+aVFrance métropolitaine
+p9020
+aa(lp9021
+S'Rabah Slimani'
+p9022
+aS'2013'
+p9023
+aS'Prop'
+p9024
+aS'15'
+p9025
+aS'6'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Sarcelles'
+p9026
+aVFrance
+p9027
+aV95200
+p9028
+aVFrance métropolitaine
+p9029
+aa(lp9030
+S'Sofiane Guitoune'
+p9031
+aS'2013'
+p9032
+aS'Fullback'
+p9033
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'Algiers'
+p9034
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p9035
+ag97
+ag97
+aa(lp9036
+S'Jonathan Pelissie'
+p9037
+aS'2013'
+p9038
+aS'Scrum-half'
+p9039
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Aubergenville'
+p9040
+aVFrance
+p9041
+aV78410
+p9042
+aVFrance métropolitaine
+p9043
+aa(lp9044
+S'Jules Plisson'
+p9045
+aS'2014'
+p9046
+aS'Fly-half'
+p9047
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'20'
+p9048
+aS'Neuilly-sur-Seine'
+p9049
+aVFrance
+p9050
+aV92200
+p9051
+aVFrance métropolitaine
+p9052
+aa(lp9053
+S'Antoine Burban'
+p9054
+aS'2014'
+p9055
+aS'Flanker'
+p9056
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Neuilly-sur-Seine'
+p9057
+aVFrance
+p9058
+aV92200
+p9059
+aVFrance métropolitaine
+p9060
+aa(lp9061
+S'Hugo Bonneval'
+p9062
+aS'2014'
+p9063
+aS'Fullback'
+p9064
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'1'
+aS'5'
+aS'Toulouse'
+p9065
+aVFrance
+p9066
+aV31000;31100;31200;31300;31400;31500
+p9067
+aVFrance métropolitaine
+p9068
+aa(lp9069
+S'Brice Mach'
+p9070
+aS'2014'
+p9071
+aS'Hooker'
+p9072
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Perpignan'
+p9073
+aVFrance
+p9074
+aV66000;66100
+p9075
+aVFrance métropolitaine
+p9076
+aa(lp9077
+S'Felix le Bourhis'
+p9078
+aS'2014'
+p9079
+aS'Centre'
+p9080
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pithiviers'
+p9081
+aVFrance
+p9082
+aV45300
+p9083
+aVFrance métropolitaine
+p9084
+aa(lp9085
+S'Remi Lamerat'
+p9086
+aS'2014'
+p9087
+aS'Centre'
+p9088
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Sainte-Foy-la-Grande'
+p9089
+aVFrance
+p9090
+aV33220
+p9091
+aVFrance métropolitaine
+p9092
+aa(lp9093
+S'Alexandre Menini'
+p9094
+aS'2014'
+p9095
+aS'Prop'
+p9096
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Basse-Ham'
+p9097
+aVFrance
+p9098
+aV57970
+p9099
+aVFrance métropolitaine
+p9100
+aa(lp9101
+S'Alexandre Dumoulin'
+p9102
+aS'2014'
+p9103
+aS'Centre'
+p9104
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Bourgoin'
+p9105
+aVFrance
+p9106
+aV62575
+p9107
+aVFrance métropolitaine
+p9108
+aa(lp9109
+S'Scott Spedding'
+p9110
+aS'2014'
+p9111
+aS'Fullback'
+p9112
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'3'
+aS'Krugersdorp'
+p9113
+aVSouth Africa
+p9114
+aVGauteng
+p9115
+aVWest Rand District Municipality
+p9116
+aa(lp9117
+S'Teddy Thomas'
+p9118
+aS'2014'
+p9119
+aS'Wing'
+p9120
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'4'
+aS'20'
+p9121
+aS'Biarritz'
+p9122
+aVFrance
+p9123
+aV64200
+p9124
+aVFrance métropolitaine
+p9125
+aa(lp9126
+S'Uini Atonio'
+p9127
+aS'2014'
+p9128
+aS'Prop'
+p9129
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Timaru'
+p9130
+aVNew Zealand/Aotearoa
+p9131
+aVCanterbury
+p9132
+aVTimaru District
+p9133
+aa(lp9134
+S'Xavier Chiocci'
+p9135
+aS'2014'
+p9136
+aS'Prop'
+p9137
+aS'3'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Toulon'
+p9138
+aVFrance
+p9139
+aV83000;83100;83200
+p9140
+aVFrance métropolitaine
+p9141
+aa(lp9142
+S'Rory Kockott'
+p9143
+aS'2014'
+p9144
+aS'Scrum-half'
+p9145
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'11'
+p9146
+aS'East London'
+p9147
+aVSouth Africa
+p9148
+aVEastern Cape
+p9149
+aVBuffalo City Metropolitan Municipality
+p9150
+aa(lp9151
+S'Charles Ollivon'
+p9152
+aS'2014'
+p9153
+aS'Flanker'
+p9154
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Saint-Pee-sur-Nivell'
+p9155
 aS'g'
 aS'n'
 aS'i'
-aa(lp8999
+aa(lp9156
 S'Loann Goujon'
-p9000
+p9157
 aS'2015'
-p9001
+p9158
 aS'No. 8'
-p9002
+p9159
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
 aS'Combronde'
-p9003
-aS'5'
-aS'2'
-aS'0'
-aS'0'
+p9160
 aVFrance
-p9004
+p9161
 aV63460
-p9005
+p9162
 aVFrance métropolitaine
-p9006
-aa(lp9007
+p9163
+aa(lp9164
 S'Noa Nakaitaci'
-p9008
+p9165
 aS'2015'
-p9009
+p9166
 aS'Wing'
-p9010
-aS'Naluwai'
-p9011
+p9167
 aS'2'
 aS'1'
 aS'1'
+aS'0'
+aS'1'
 aS'5'
+aS'Naluwai'
+p9168
 aS'g'
 aS'n'
 aS'i'

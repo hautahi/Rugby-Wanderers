@@ -5,12 +5,14 @@ p3
 aS'1924'
 p4
 aS''
-aS'date unknown'
-p5
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p5
 aS'g'
 aS'n'
 aS'i'
@@ -20,12 +22,14 @@ p7
 aS'1924'
 p8
 aS''
-aS'date unknown'
-p9
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p9
 aS'g'
 aS'n'
 aS'i'
@@ -35,12 +39,14 @@ p11
 aS'1924'
 p12
 aS''
-aS'date unknown'
-p13
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p13
 aS'g'
 aS'n'
 aS'i'
@@ -51,12 +57,14 @@ aS'1924'
 p16
 aS'Flanker'
 p17
-aS'date unknown'
-p18
 aS'6'
 aS'3'
+aS'2'
+aS'1'
 aS'1'
 aS'13'
+p18
+aS'date unknown'
 p19
 aS'g'
 aS'n'
@@ -67,12 +75,14 @@ p21
 aS'1924'
 p22
 aS''
-aS'date unknown'
-p23
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p23
 aS'g'
 aS'n'
 aS'i'
@@ -82,12 +92,14 @@ p25
 aS'1924'
 p26
 aS''
-aS'date unknown'
-p27
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p27
 aS'g'
 aS'n'
 aS'i'
@@ -97,12 +109,14 @@ p29
 aS'1924'
 p30
 aS''
-aS'date unknown'
-p31
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p31
 aS'g'
 aS'n'
 aS'i'
@@ -112,12 +126,14 @@ p33
 aS'1924'
 p34
 aS''
-aS'date unknown'
-p35
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p35
 aS'g'
 aS'n'
 aS'i'
@@ -128,13 +144,15 @@ aS'1924'
 p38
 aS'Lock'
 p39
-aS'date unknown'
-p40
 aS'12'
-p41
+p40
 aS'5'
+aS'6'
+aS'1'
 aS'2'
 aS'12'
+p41
+aS'date unknown'
 p42
 aS'g'
 aS'n'
@@ -145,12 +163,14 @@ p44
 aS'1924'
 p45
 aS''
-aS'date unknown'
-p46
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p46
 aS'g'
 aS'n'
 aS'i'
@@ -160,12 +180,14 @@ p48
 aS'1924'
 p49
 aS''
-aS'date unknown'
-p50
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'3'
+aS'date unknown'
+p50
 aS'g'
 aS'n'
 aS'i'
@@ -175,12 +197,14 @@ p52
 aS'1924'
 p53
 aS''
-aS'date unknown'
-p54
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p54
 aS'g'
 aS'n'
 aS'i'
@@ -190,12 +214,14 @@ p56
 aS'1924'
 p57
 aS''
-aS'date unknown'
-p58
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p58
 aS'g'
 aS'n'
 aS'i'
@@ -205,12 +231,14 @@ p60
 aS'1924'
 p61
 aS''
-aS'date unknown'
-p62
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p62
 aS'g'
 aS'n'
 aS'i'
@@ -220,12 +248,14 @@ p64
 aS'1924'
 p65
 aS''
-aS'date unknown'
-p66
 aS'2'
 aS'1'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'date unknown'
+p66
 aS'g'
 aS'n'
 aS'i'
@@ -236,12 +266,14 @@ aS'1924'
 p69
 aS'Prop'
 p70
-aS'date unknown'
-p71
 aS'6'
 aS'3'
+aS'2'
+aS'1'
 aS'1'
 aS'3'
+aS'date unknown'
+p71
 aS'g'
 aS'n'
 aS'i'
@@ -251,12 +283,14 @@ p73
 aS'1924'
 p74
 aS''
-aS'date unknown'
-p75
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p75
 aS'g'
 aS'n'
 aS'i'
@@ -267,12 +301,14 @@ aS'1924'
 p78
 aS'No. 8'
 p79
-aS'date unknown'
-p80
 aS'6'
 aS'3'
+aS'2'
+aS'1'
 aS'1'
 aS'3'
+aS'date unknown'
+p80
 aS'g'
 aS'n'
 aS'i'
@@ -283,12 +319,14 @@ aS'1924'
 p83
 aS'Hooker'
 p84
-aS'date unknown'
-p85
 aS'6'
 aS'3'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p85
 aS'g'
 aS'n'
 aS'i'
@@ -298,12 +336,14 @@ p87
 aS'1924'
 p88
 aS''
-aS'date unknown'
-p89
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p89
 aS'g'
 aS'n'
 aS'i'
@@ -313,12 +353,14 @@ p91
 aS'1924'
 p92
 aS''
-aS'date unknown'
-p93
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p93
 aS'g'
 aS'n'
 aS'i'
@@ -328,12 +370,14 @@ p95
 aS'1924'
 p96
 aS''
-aS'date unknown'
-p97
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p97
 aS'g'
 aS'n'
 aS'i'
@@ -343,12 +387,14 @@ p99
 aS'1924'
 p100
 aS''
-aS'date unknown'
-p101
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p101
 aS'g'
 aS'n'
 aS'i'
@@ -359,12 +405,14 @@ aS'1926'
 p104
 aS'Prop'
 p105
-aS'date unknown'
-p106
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p106
 aS'g'
 aS'n'
 aS'i'
@@ -375,12 +423,14 @@ aS'1926'
 p109
 aS'Lock'
 p110
-aS'date unknown'
-p111
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p111
 aS'g'
 aS'n'
 aS'i'
@@ -391,12 +441,14 @@ aS'1926'
 p114
 aS'Wing'
 p115
-aS'date unknown'
-p116
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p116
 aS'g'
 aS'n'
 aS'i'
@@ -407,12 +459,14 @@ aS'1926'
 p119
 aS'Wing'
 p120
-aS'date unknown'
-p121
 aS'5'
 aS'3'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p121
 aS'g'
 aS'n'
 aS'i'
@@ -423,12 +477,14 @@ aS'1926'
 p124
 aS'Prop'
 p125
-aS'date unknown'
-p126
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p126
 aS'g'
 aS'n'
 aS'i'
@@ -439,12 +495,14 @@ aS'1926'
 p129
 aS'Fullback'
 p130
-aS'date unknown'
-p131
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p131
 aS'g'
 aS'n'
 aS'i'
@@ -455,12 +513,14 @@ aS'1926'
 p134
 aS'Fly-half'
 p135
-aS'date unknown'
-p136
 aS'3'
 aS'2'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
+aS'date unknown'
+p136
 aS'g'
 aS'n'
 aS'i'
@@ -471,12 +531,14 @@ aS'1926'
 p139
 aS'Scrum-half'
 p140
-aS'date unknown'
-p141
 aS'7'
 aS'4'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p141
 aS'g'
 aS'n'
 aS'i'
@@ -487,12 +549,14 @@ aS'1926'
 p144
 aS'No. 8'
 p145
-aS'date unknown'
-p146
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p146
 aS'g'
 aS'n'
 aS'i'
@@ -503,13 +567,15 @@ aS'1926'
 p149
 aS'Wing'
 p150
-aS'date unknown'
-p151
 aS'12'
-p152
+p151
 aS'5'
+aS'7'
+aS'0'
 aS'2'
 aS'6'
+aS'date unknown'
+p152
 aS'g'
 aS'n'
 aS'i'
@@ -520,12 +586,14 @@ aS'1926'
 p155
 aS'Centre'
 p156
-aS'date unknown'
-p157
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p157
 aS'g'
 aS'n'
 aS'i'
@@ -535,12 +603,14 @@ p159
 aS'1928'
 p160
 aS''
-aS'date unknown'
-p161
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p161
 aS'g'
 aS'n'
 aS'i'
@@ -550,12 +620,14 @@ p163
 aS'1928'
 p164
 aS''
-aS'date unknown'
-p165
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p165
 aS'g'
 aS'n'
 aS'i'
@@ -566,12 +638,14 @@ aS'1928'
 p168
 aS'No. 8'
 p169
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'2'
+aS'6'
 aS'date unknown'
 p170
-aS'6'
-aS'2'
-aS'2'
-aS'6'
 aS'g'
 aS'n'
 aS'i'
@@ -582,12 +656,14 @@ aS'1928'
 p173
 aS'No. 8'
 p174
-aS'date unknown'
-p175
 aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p175
 aS'g'
 aS'n'
 aS'i'
@@ -598,12 +674,14 @@ aS'1928'
 p178
 aS'Fly-half'
 p179
-aS'date unknown'
-p180
 aS'8'
 aS'2'
+aS'6'
+aS'0'
 aS'0'
 aS'11'
+p180
+aS'date unknown'
 p181
 aS'g'
 aS'n'
@@ -614,12 +692,14 @@ p183
 aS'1928'
 p184
 aS''
-aS'date unknown'
-p185
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p185
 aS'g'
 aS'n'
 aS'i'
@@ -629,12 +709,14 @@ p187
 aS'1928'
 p188
 aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p189
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -645,12 +727,14 @@ aS'1928'
 p192
 aS'Hooker'
 p193
-aS'date unknown'
-p194
 aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p194
 aS'g'
 aS'n'
 aS'i'
@@ -660,12 +744,14 @@ p196
 aS'1928'
 p197
 aS''
-aS'date unknown'
-p198
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p198
 aS'g'
 aS'n'
 aS'i'
@@ -675,12 +761,14 @@ p200
 aS'1928'
 p201
 aS''
-aS'date unknown'
-p202
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p202
 aS'g'
 aS'n'
 aS'i'
@@ -690,12 +778,14 @@ p204
 aS'1928'
 p205
 aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p206
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -705,12 +795,14 @@ p208
 aS'1928'
 p209
 aS''
-aS'date unknown'
-p210
 aS'3'
 aS'2'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
+aS'date unknown'
+p210
 aS'g'
 aS'n'
 aS'i'
@@ -720,12 +812,14 @@ p212
 aS'1928'
 p213
 aS''
-aS'date unknown'
-p214
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p214
 aS'g'
 aS'n'
 aS'i'
@@ -735,12 +829,14 @@ p216
 aS'1928'
 p217
 aS''
-aS'date unknown'
-p218
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p218
 aS'g'
 aS'n'
 aS'i'
@@ -750,12 +846,14 @@ p220
 aS'1928'
 p221
 aS''
-aS'date unknown'
-p222
 aS'2'
 aS'1'
+aS'1'
+aS'0'
 aS'0'
 aS'8'
+aS'date unknown'
+p222
 aS'g'
 aS'n'
 aS'i'
@@ -765,12 +863,14 @@ p224
 aS'1928'
 p225
 aS''
-aS'date unknown'
-p226
 aS'3'
 aS'2'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
+aS'date unknown'
+p226
 aS'g'
 aS'n'
 aS'i'
@@ -781,12 +881,14 @@ aS'1928'
 p229
 aS'Prop'
 p230
-aS'date unknown'
-p231
 aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p231
 aS'g'
 aS'n'
 aS'i'
@@ -797,12 +899,14 @@ aS'1928'
 p234
 aS'Lock'
 p235
-aS'date unknown'
-p236
 aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p236
 aS'g'
 aS'n'
 aS'i'
@@ -813,12 +917,14 @@ aS'1928'
 p239
 aS'Wing'
 p240
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p241
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -829,12 +935,14 @@ aS'1932'
 p244
 aS'Scrum-half'
 p245
-aS'date unknown'
-p246
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p246
 aS'g'
 aS'n'
 aS'i'
@@ -845,12 +953,14 @@ aS'1932'
 p249
 aS'Centre'
 p250
-aS'date unknown'
-p251
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'2'
+aS'date unknown'
+p251
 aS'g'
 aS'n'
 aS'i'
@@ -860,12 +970,14 @@ p253
 aS'1932'
 p254
 aS''
-aS'date unknown'
-p255
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p255
 aS'g'
 aS'n'
 aS'i'
@@ -876,12 +988,14 @@ aS'1932'
 p258
 aS'Lock'
 p259
-aS'date unknown'
-p260
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p260
 aS'g'
 aS'n'
 aS'i'
@@ -892,12 +1006,14 @@ aS'1932'
 p263
 aS'Prop'
 p264
-aS'date unknown'
-p265
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p265
 aS'g'
 aS'n'
 aS'i'
@@ -908,12 +1024,14 @@ aS'1932'
 p268
 aS'Wing'
 p269
-aS'date unknown'
-p270
 aS'6'
 aS'1'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p270
 aS'g'
 aS'n'
 aS'i'
@@ -924,12 +1042,14 @@ aS'1932'
 p273
 aS'Centre'
 p274
-aS'date unknown'
-p275
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p275
 aS'g'
 aS'n'
 aS'i'
@@ -940,12 +1060,14 @@ aS'1932'
 p278
 aS'Wing'
 p279
-aS'date unknown'
-p280
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p280
 aS'g'
 aS'n'
 aS'i'
@@ -956,12 +1078,14 @@ aS'1932'
 p283
 aS'Flanker'
 p284
-aS'date unknown'
-p285
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p285
 aS'g'
 aS'n'
 aS'i'
@@ -972,12 +1096,14 @@ aS'1932'
 p288
 aS'Flanker'
 p289
-aS'date unknown'
-p290
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p290
 aS'g'
 aS'n'
 aS'i'
@@ -987,12 +1113,14 @@ p292
 aS'1934'
 p293
 aS''
-aS'date unknown'
-p294
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p294
 aS'g'
 aS'n'
 aS'i'
@@ -1002,12 +1130,14 @@ p296
 aS'1934'
 p297
 aS''
-aS'date unknown'
-p298
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p298
 aS'g'
 aS'n'
 aS'i'
@@ -1018,12 +1148,14 @@ aS'1934'
 p301
 aS'Wing'
 p302
-aS'date unknown'
-p303
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p303
 aS'g'
 aS'n'
 aS'i'
@@ -1033,12 +1165,14 @@ p305
 aS'1934'
 p306
 aS''
-aS'date unknown'
-p307
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p307
 aS'g'
 aS'n'
 aS'i'
@@ -1048,12 +1182,14 @@ p309
 aS'1934'
 p310
 aS''
-aS'date unknown'
-p311
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p311
 aS'g'
 aS'n'
 aS'i'
@@ -1063,12 +1199,14 @@ p313
 aS'1934'
 p314
 aS''
-aS'date unknown'
-p315
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p315
 aS'g'
 aS'n'
 aS'i'
@@ -1078,12 +1216,14 @@ p317
 aS'1934'
 p318
 aS''
-aS'date unknown'
-p319
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p319
 aS'g'
 aS'n'
 aS'i'
@@ -1093,12 +1233,14 @@ p321
 aS'1934'
 p322
 aS''
-aS'date unknown'
-p323
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p323
 aS'g'
 aS'n'
 aS'i'
@@ -1109,12 +1251,14 @@ aS'1934'
 p326
 aS'Centre'
 p327
-aS'date unknown'
-p328
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p328
 aS'g'
 aS'n'
 aS'i'
@@ -1124,12 +1268,14 @@ p330
 aS'1934'
 p331
 aS''
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
 aS'date unknown'
 p332
-aS'3'
-aS'1'
-aS'1'
-aS'3'
 aS'g'
 aS'n'
 aS'i'
@@ -1139,12 +1285,14 @@ p334
 aS'1934'
 p335
 aS''
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
 aS'date unknown'
 p336
-aS'3'
-aS'1'
-aS'1'
-aS'3'
 aS'g'
 aS'n'
 aS'i'
@@ -1154,12 +1302,14 @@ p338
 aS'1934'
 p339
 aS''
-aS'date unknown'
-p340
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p340
 aS'g'
 aS'n'
 aS'i'
@@ -1169,12 +1319,14 @@ p342
 aS'1934'
 p343
 aS''
-aS'date unknown'
-p344
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p344
 aS'g'
 aS'n'
 aS'i'
@@ -1184,12 +1336,14 @@ p346
 aS'1934'
 p347
 aS''
-aS'date unknown'
-p348
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p348
 aS'g'
 aS'n'
 aS'i'
@@ -1200,12 +1354,14 @@ aS'1947'
 p351
 aS'Centre'
 p352
-aS'date unknown'
-p353
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p353
 aS'g'
 aS'n'
 aS'i'
@@ -1216,12 +1372,14 @@ aS'1947'
 p356
 aS'Centre'
 p357
-aS'date unknown'
-p358
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p358
 aS'g'
 aS'n'
 aS'i'
@@ -1232,12 +1390,14 @@ aS'1947'
 p361
 aS'Prop'
 p362
-aS'date unknown'
-p363
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p363
 aS'g'
 aS'n'
 aS'i'
@@ -1247,12 +1407,14 @@ p365
 aS'1947'
 p366
 aS''
-aS'date unknown'
-p367
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p367
 aS'g'
 aS'n'
 aS'i'
@@ -1263,12 +1425,14 @@ aS'1947'
 p370
 aS'Flanker'
 p371
-aS'date unknown'
-p372
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p372
 aS'g'
 aS'n'
 aS'i'
@@ -1279,12 +1443,14 @@ aS'1947'
 p375
 aS'No. 8'
 p376
-aS'date unknown'
-p377
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'3'
+aS'date unknown'
+p377
 aS'g'
 aS'n'
 aS'i'
@@ -1295,12 +1461,14 @@ aS'1947'
 p380
 aS'Fullback'
 p381
-aS'date unknown'
-p382
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p382
 aS'g'
 aS'n'
 aS'i'
@@ -1311,12 +1479,14 @@ aS'1947'
 p385
 aS'Fly-half'
 p386
-aS'date unknown'
-p387
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p387
 aS'g'
 aS'n'
 aS'i'
@@ -1327,12 +1497,14 @@ aS'1947'
 p390
 aS'Lock'
 p391
-aS'date unknown'
-p392
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p392
 aS'g'
 aS'n'
 aS'i'
@@ -1342,12 +1514,14 @@ p394
 aS'1947'
 p395
 aS''
-aS'date unknown'
-p396
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p396
 aS'g'
 aS'n'
 aS'i'
@@ -1358,12 +1532,14 @@ aS'1947'
 p399
 aS'Hooker'
 p400
-aS'date unknown'
-p401
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p401
 aS'g'
 aS'n'
 aS'i'
@@ -1374,12 +1550,14 @@ aS'1947'
 p404
 aS'Scrum-half'
 p405
-aS'date unknown'
-p406
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p406
 aS'g'
 aS'n'
 aS'i'
@@ -1390,12 +1568,14 @@ aS'1947'
 p409
 aS'Wing'
 p410
-aS'date unknown'
-p411
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p411
 aS'g'
 aS'n'
 aS'i'
@@ -1406,12 +1586,14 @@ aS'1947'
 p414
 aS'Lock'
 p415
-aS'date unknown'
-p416
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p416
 aS'g'
 aS'n'
 aS'i'
@@ -1422,12 +1604,14 @@ aS'1947'
 p419
 aS'Prop'
 p420
-aS'date unknown'
-p421
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'4'
+aS'date unknown'
+p421
 aS'g'
 aS'n'
 aS'i'
@@ -1437,12 +1621,14 @@ p423
 aS'1947'
 p424
 aS''
-aS'date unknown'
-p425
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p425
 aS'g'
 aS'n'
 aS'i'
@@ -1452,12 +1638,14 @@ p427
 aS'1947'
 p428
 aS''
-aS'date unknown'
-p429
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p429
 aS'g'
 aS'n'
 aS'i'
@@ -1467,12 +1655,14 @@ p431
 aS'1958'
 p432
 aS''
-aS'date unknown'
-p433
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p433
 aS'g'
 aS'n'
 aS'i'
@@ -1483,12 +1673,14 @@ aS'1958'
 p436
 aS'Flanker'
 p437
-aS'date unknown'
-p438
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p438
 aS'g'
 aS'n'
 aS'i'
@@ -1499,12 +1691,14 @@ aS'1958'
 p441
 aS'Centre'
 p442
-aS'date unknown'
-p443
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p443
 aS'g'
 aS'n'
 aS'i'
@@ -1515,12 +1709,14 @@ aS'1958'
 p446
 aS'Centre'
 p447
-aS'date unknown'
-p448
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'0'
 aS'7'
+aS'date unknown'
+p448
 aS'g'
 aS'n'
 aS'i'
@@ -1531,12 +1727,14 @@ aS'1958'
 p451
 aS'Lock'
 p452
-aS'date unknown'
-p453
 aS'9'
 aS'4'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p453
 aS'g'
 aS'n'
 aS'i'
@@ -1547,12 +1745,14 @@ aS'1958'
 p456
 aS'Flanker'
 p457
-aS'date unknown'
-p458
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p458
 aS'g'
 aS'n'
 aS'i'
@@ -1563,12 +1763,14 @@ aS'1958'
 p461
 aS'Flanker'
 p462
-aS'date unknown'
-p463
 aS'7'
 aS'3'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p463
 aS'g'
 aS'n'
 aS'i'
@@ -1579,12 +1781,14 @@ aS'1958'
 p466
 aS'Prop'
 p467
-aS'date unknown'
-p468
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p468
 aS'g'
 aS'n'
 aS'i'
@@ -1595,12 +1799,14 @@ aS'1958'
 p471
 aS'Wing'
 p472
-aS'date unknown'
-p473
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p473
 aS'g'
 aS'n'
 aS'i'
@@ -1611,12 +1817,14 @@ aS'1958'
 p476
 aS'Fullback'
 p477
-aS'date unknown'
-p478
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p478
 aS'g'
 aS'n'
 aS'i'
@@ -1627,13 +1835,15 @@ aS'1958'
 p481
 aS'Prop'
 p482
-aS'date unknown'
-p483
 aS'13'
-p484
+p483
 aS'5'
+aS'7'
+aS'1'
 aS'1'
 aS'3'
+aS'date unknown'
+p484
 aS'g'
 aS'n'
 aS'i'
@@ -1644,12 +1854,14 @@ aS'1958'
 p487
 aS'Centre'
 p488
-aS'date unknown'
-p489
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p489
 aS'g'
 aS'n'
 aS'i'
@@ -1660,12 +1872,14 @@ aS'1958'
 p492
 aS'Wing'
 p493
-aS'date unknown'
-p494
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p494
 aS'g'
 aS'n'
 aS'i'
@@ -1675,12 +1889,14 @@ p496
 aS'1958'
 p497
 aS''
-aS'date unknown'
-p498
 aS'6'
 aS'2'
+aS'4'
+aS'0'
 aS'0'
 aS'5'
+aS'date unknown'
+p498
 aS'g'
 aS'n'
 aS'i'
@@ -1691,12 +1907,14 @@ aS'1958'
 p501
 aS'Prop'
 p502
-aS'date unknown'
-p503
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p503
 aS'g'
 aS'n'
 aS'i'
@@ -1707,12 +1925,14 @@ aS'1958'
 p506
 aS'Prop'
 p507
-aS'date unknown'
-p508
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p508
 aS'g'
 aS'n'
 aS'i'
@@ -1723,12 +1943,14 @@ aS'1959'
 p511
 aS'Flanker'
 p512
-aS'date unknown'
-p513
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p513
 aS'g'
 aS'n'
 aS'i'
@@ -1739,12 +1961,14 @@ aS'1959'
 p516
 aS'Prop'
 p517
-aS'date unknown'
-p518
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p518
 aS'g'
 aS'n'
 aS'i'
@@ -1755,12 +1979,14 @@ aS'1959'
 p521
 aS'Hooker'
 p522
-aS'date unknown'
-p523
 aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p523
 aS'g'
 aS'n'
 aS'i'
@@ -1771,12 +1997,14 @@ aS'1959'
 p526
 aS'Scrum-half'
 p527
-aS'date unknown'
-p528
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p528
 aS'g'
 aS'n'
 aS'i'
@@ -1787,12 +2015,14 @@ aS'1959'
 p531
 aS'Wing'
 p532
-aS'date unknown'
-p533
 aS'2'
 aS'2'
 aS'0'
+aS'0'
+aS'0'
 aS'2'
+aS'date unknown'
+p533
 aS'g'
 aS'n'
 aS'i'
@@ -1803,12 +2033,14 @@ aS'1959'
 p536
 aS'No. 8'
 p537
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p538
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -1819,12 +2051,14 @@ aS'1960'
 p541
 aS'Centre'
 p542
-aS'date unknown'
-p543
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
+aS'date unknown'
+p543
 aS'g'
 aS'n'
 aS'i'
@@ -1835,12 +2069,14 @@ aS'1960'
 p546
 aS'Fly-half'
 p547
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
 aS'date unknown'
 p548
-aS'3'
-aS'1'
-aS'1'
-aS'3'
 aS'g'
 aS'n'
 aS'i'
@@ -1851,12 +2087,14 @@ aS'1963'
 p551
 aS'Wing'
 p552
-aS'date unknown'
-p553
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p553
 aS'g'
 aS'n'
 aS'i'
@@ -1867,13 +2105,15 @@ aS'1963'
 p556
 aS'Centre'
 p557
-aS'date unknown'
-p558
 aS'11'
-p559
+p558
 aS'3'
+aS'7'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p559
 aS'g'
 aS'n'
 aS'i'
@@ -1884,13 +2124,15 @@ aS'1963'
 p562
 aS'Lock'
 p563
-aS'date unknown'
-p564
 aS'10'
-p565
+p564
 aS'4'
+aS'5'
+aS'1'
 aS'2'
 aS'6'
+aS'date unknown'
+p565
 aS'g'
 aS'n'
 aS'i'
@@ -1901,12 +2143,14 @@ aS'1963'
 p568
 aS'No. 8'
 p569
-aS'date unknown'
-p570
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p570
 aS'g'
 aS'n'
 aS'i'
@@ -1917,12 +2161,14 @@ aS'1963'
 p573
 aS'Prop'
 p574
-aS'date unknown'
-p575
 aS'4'
 aS'1'
+aS'3'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p575
 aS'g'
 aS'n'
 aS'i'
@@ -1933,12 +2179,14 @@ aS'1963'
 p578
 aS'Wing'
 p579
-aS'date unknown'
-p580
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p580
 aS'g'
 aS'n'
 aS'i'
@@ -1949,12 +2197,14 @@ aS'1963'
 p583
 aS'Wing'
 p584
-aS'date unknown'
-p585
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p585
 aS'g'
 aS'n'
 aS'i'
@@ -1964,12 +2214,14 @@ p587
 aS'1967'
 p588
 aS''
-aS'date unknown'
-p589
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p589
 aS'g'
 aS'n'
 aS'i'
@@ -1980,12 +2232,14 @@ aS'1967'
 p592
 aS'Prop'
 p593
-aS'date unknown'
-p594
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p594
 aS'g'
 aS'n'
 aS'i'
@@ -1996,12 +2250,14 @@ aS'1967'
 p597
 aS'Scrum-half'
 p598
-aS'date unknown'
-p599
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p599
 aS'g'
 aS'n'
 aS'i'
@@ -2012,13 +2268,15 @@ aS'1967'
 p602
 aS'Flanker'
 p603
-aS'date unknown'
-p604
 aS'11'
-p605
+p604
 aS'3'
+aS'7'
+aS'1'
 aS'3'
 aS'10'
+p605
+aS'date unknown'
 p606
 aS'g'
 aS'n'
@@ -2030,13 +2288,15 @@ aS'1967'
 p609
 aS'Wing'
 p610
-aS'date unknown'
-p611
 aS'12'
-p612
+p611
 aS'4'
+aS'7'
+aS'1'
 aS'2'
 aS'10'
+p612
+aS'date unknown'
 p613
 aS'g'
 aS'n'
@@ -2048,12 +2308,14 @@ aS'1967'
 p616
 aS'Wing'
 p617
-aS'date unknown'
-p618
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p618
 aS'g'
 aS'n'
 aS'i'
@@ -2064,12 +2326,14 @@ aS'1967'
 p621
 aS'Fly-half'
 p622
-aS'date unknown'
-p623
 aS'6'
+aS'1'
+aS'4'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p623
 aS'g'
 aS'n'
 aS'i'
@@ -2080,12 +2344,14 @@ aS'1967'
 p626
 aS'Flanker'
 p627
-aS'1939'
-p628
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'1939'
+p628
 aVNorge
 p629
 aVTroms
@@ -2099,12 +2365,14 @@ aS'1967'
 p634
 aS'Scrum-half'
 p635
-aS'date unknown'
-p636
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p636
 aS'g'
 aS'n'
 aS'i'
@@ -2115,12 +2383,14 @@ aS'1967'
 p639
 aS'Hooker'
 p640
-aS'date unknown'
-p641
 aS'9'
 aS'4'
+aS'4'
+aS'1'
 aS'0'
 aS'16'
+p641
+aS'date unknown'
 p642
 aS'g'
 aS'n'
@@ -2131,12 +2401,14 @@ p644
 aS'1967'
 p645
 aS''
-aS'date unknown'
-p646
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p646
 aS'g'
 aS'n'
 aS'i'
@@ -2147,12 +2419,14 @@ aS'1967'
 p649
 aS'Fullback'
 p650
-aS'date unknown'
-p651
 aS'5'
+aS'1'
+aS'3'
 aS'1'
 aS'2'
 aS'6'
+aS'date unknown'
+p651
 aS'g'
 aS'n'
 aS'i'
@@ -2163,12 +2437,14 @@ aS'1967'
 p654
 aS'Prop'
 p655
-aS'date unknown'
-p656
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p656
 aS'g'
 aS'n'
 aS'i'
@@ -2179,12 +2455,14 @@ aS'1967'
 p659
 aS'Flanker'
 p660
-aS'date unknown'
-p661
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'date unknown'
+p661
 aS'g'
 aS'n'
 aS'i'
@@ -2195,12 +2473,14 @@ aS'1967'
 p664
 aS'Lock'
 p665
-aS'date unknown'
-p666
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'date unknown'
+p666
 aS'g'
 aS'n'
 aS'i'
@@ -2211,12 +2491,14 @@ aS'1967'
 p669
 aS'Scrum-half'
 p670
-aS'date unknown'
-p671
 aS'8'
 aS'3'
+aS'4'
+aS'1'
 aS'1'
 aS'3'
+aS'date unknown'
+p671
 aS'g'
 aS'n'
 aS'i'
@@ -2227,12 +2509,14 @@ aS'1967'
 p674
 aS'No. 8'
 p675
-aS'date unknown'
-p676
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p676
 aS'g'
 aS'n'
 aS'i'
@@ -2243,13 +2527,15 @@ aS'1967'
 p679
 aS'Centre'
 p680
-aS'date unknown'
-p681
 aS'14'
-p682
+p681
 aS'6'
+aS'8'
+aS'0'
 aS'3'
 aS'10'
+p682
+aS'date unknown'
 p683
 aS'g'
 aS'n'
@@ -2261,12 +2547,14 @@ aS'1967'
 p686
 aS'Flanker'
 p687
-aS'date unknown'
-p688
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p688
 aS'g'
 aS'n'
 aS'i'
@@ -2276,12 +2564,14 @@ p690
 aS'1967'
 p691
 aS''
-aS'date unknown'
-p692
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p692
 aS'g'
 aS'n'
 aS'i'
@@ -2292,12 +2582,14 @@ aS'1968'
 p695
 aS'Flanker'
 p696
-aS'date unknown'
-p697
 aS'5'
 aS'3'
 aS'2'
+aS'0'
+aS'2'
 aS'6'
+aS'date unknown'
+p697
 aS'g'
 aS'n'
 aS'i'
@@ -2308,12 +2600,14 @@ aS'1968'
 p700
 aS'Lock'
 p701
-aS'date unknown'
-p702
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'date unknown'
+p702
 aS'g'
 aS'n'
 aS'i'
@@ -2324,12 +2618,14 @@ aS'1968'
 p705
 aS'Fullback'
 p706
-aS'date unknown'
-p707
 aS'5'
 aS'3'
+aS'2'
+aS'0'
 aS'0'
 aS'23'
+p707
+aS'date unknown'
 p708
 aS'g'
 aS'n'
@@ -2341,12 +2637,14 @@ aS'1968'
 p711
 aS'Hooker'
 p712
-aS'date unknown'
-p713
 aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p713
 aS'g'
 aS'n'
 aS'i'
@@ -2357,12 +2655,14 @@ aS'1968'
 p716
 aS'Wing'
 p717
-aS'date unknown'
-p718
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p718
 aS'g'
 aS'n'
 aS'i'
@@ -2373,13 +2673,15 @@ aS'1969'
 p721
 aS'No. 8'
 p722
-aS'date unknown'
-p723
 aS'14'
-p724
+p723
 aS'5'
+aS'9'
+aS'0'
 aS'3'
 aS'29'
+p724
+aS'date unknown'
 p725
 aS'g'
 aS'n'
@@ -2391,12 +2693,14 @@ aS'1969'
 p728
 aS'Prop'
 p729
-aS'date unknown'
-p730
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p730
 aS'g'
 aS'n'
 aS'i'
@@ -2407,12 +2711,14 @@ aS'1969'
 p733
 aS'Fly-half'
 p734
-aS'date unknown'
-p735
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p735
 aS'g'
 aS'n'
 aS'i'
@@ -2423,12 +2729,14 @@ aS'1969'
 p738
 aS'Wing'
 p739
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p740
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -2439,12 +2747,14 @@ aS'1969'
 p743
 aS'Hooker'
 p744
-aS'date unknown'
-p745
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p745
 aS'g'
 aS'n'
 aS'i'
@@ -2455,13 +2765,15 @@ aS'1969'
 p748
 aS'Fly-half'
 p749
-aS'date unknown'
-p750
 aS'12'
-p751
+p750
 aS'4'
+aS'8'
+aS'0'
 aS'4'
 aS'14'
+p751
+aS'date unknown'
 p752
 aS'g'
 aS'n'
@@ -2473,13 +2785,15 @@ aS'1972'
 p755
 aS'Centre'
 p756
-aS'date unknown'
-p757
 aS'10'
-p758
+p757
 aS'3'
+aS'7'
+aS'0'
 aS'3'
 aS'12'
+p758
+aS'date unknown'
 p759
 aS'g'
 aS'n'
@@ -2491,12 +2805,14 @@ aS'1972'
 p762
 aS'Wing'
 p763
-aS'date unknown'
-p764
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p764
 aS'g'
 aS'n'
 aS'i'
@@ -2507,12 +2823,14 @@ aS'1972'
 p767
 aS'Prop'
 p768
-aS'date unknown'
-p769
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p769
 aS'g'
 aS'n'
 aS'i'
@@ -2523,12 +2841,14 @@ aS'1972'
 p772
 aS'Fullback'
 p773
-aS'date unknown'
-p774
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'2'
+aS'date unknown'
+p774
 aS'g'
 aS'n'
 aS'i'
@@ -2539,7969 +2859,8714 @@ aS'1972'
 p777
 aS'Lock'
 p778
-aS'circa 1949'
-p779
 aS'14'
-p780
+p779
 aS'3'
+aS'11'
+p780
+aS'0'
 aS'1'
 aS'4'
-aVPerú
+aS'circa 1949'
 p781
-aVTacna
+aVPerú
 p782
-aVCandarave
+aVTacna
 p783
-aa(lp784
+aVCandarave
+p784
+aa(lp785
 S'Fatai Kefu'
-p785
-aS'1972'
 p786
-aS'Fullback'
+aS'1972'
 p787
-aS'date unknown'
+aS'Fullback'
 p788
 aS'6'
 aS'1'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p789
 aS'g'
 aS'n'
 aS'i'
-aa(lp789
+aa(lp790
 S'Eukaliti Hehepoto'
-p790
-aS'1972'
 p791
-aS'Hooker'
+aS'1972'
 p792
-aS'date unknown'
+aS'Hooker'
 p793
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p794
 aS'g'
 aS'n'
 aS'i'
-aa(lp794
+aa(lp795
 S'Tevita Bloomfield'
-p795
-aS'1973'
 p796
-aS'Prop'
+aS'1973'
 p797
-aS'date unknown'
+aS'Prop'
 p798
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p799
 aS'g'
 aS'n'
 aS'i'
-aa(lp799
+aa(lp800
 S"Ha'unga Fonua"
-p800
-aS'1973'
 p801
-aS'Scrum-half'
+aS'1973'
 p802
-aS'date unknown'
+aS'Scrum-half'
 p803
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p804
 aS'g'
 aS'n'
 aS'i'
-aa(lp804
+aa(lp805
 S'F. Hufanga'
-p805
-aS'1973'
 p806
-aS''
-aS'date unknown'
+aS'1973'
 p807
+aS''
 aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p808
 aS'g'
 aS'n'
 aS'i'
-aa(lp808
+aa(lp809
 S"Valita Ma'ake"
-p809
-aS'1973'
 p810
-aS'Fullback'
+aS'1973'
 p811
-aS'date unknown'
+aS'Fullback'
 p812
 aS'17'
 p813
 aS'6'
+aS'11'
+p814
+aS'0'
 aS'0'
 aS'47'
-p814
+p815
+aS'date unknown'
+p816
 aS'g'
 aS'n'
 aS'i'
-aa(lp815
+aa(lp817
 S'Siope Matapule'
-p816
-aS'1973'
-p817
-aS'Wing'
 p818
-aS'date unknown'
+aS'1973'
 p819
+aS'Wing'
+p820
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p821
 aS'g'
 aS'n'
 aS'i'
-aa(lp820
+aa(lp822
 S'Fakahau Valu'
-p821
-aS'1973'
-p822
-aS'Flanker'
 p823
-aS'circa 1950'
+aS'1973'
 p824
-aS'25'
+aS'Flanker'
 p825
+aS'25'
+p826
 aS'7'
+aS'18'
+p827
+aS'0'
 aS'6'
 aS'24'
-p826
-aVPerú
-p827
-aVTacna
 p828
-aVCandarave
+aS'circa 1950'
 p829
-aa(lp830
-S'Sione Foliaki'
+aVPerú
+p830
+aVTacna
 p831
-aS'1973'
+aVCandarave
 p832
-aS'Fly-half'
-p833
-aS'date unknown'
+aa(lp833
+S'Sione Foliaki'
 p834
+aS'1973'
+p835
+aS'Fly-half'
+p836
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p837
 aS'g'
 aS'n'
 aS'i'
-aa(lp835
+aa(lp838
 S'Pasifiki Tonga'
-p836
-aS'1973'
-p837
-aS'Prop'
-p838
-aS'date unknown'
 p839
+aS'1973'
+p840
+aS'Prop'
+p841
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p842
 aS'g'
 aS'n'
 aS'i'
-aa(lp840
+aa(lp843
 S"Fa'aleo Tupi"
-p841
-aS'1973'
-p842
-aS'Lock'
-p843
-aS'date unknown'
 p844
+aS'1973'
+p845
+aS'Lock'
+p846
 aS'8'
 aS'2'
+aS'6'
+aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p847
 aS'g'
 aS'n'
 aS'i'
-aa(lp845
+aa(lp848
 S"'Isikeli Vave"
-p846
-aS'1973'
-p847
-aS'Wing'
-p848
-aS'date unknown'
 p849
+aS'1973'
+p850
+aS'Wing'
+p851
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'4'
 aS'16'
-p850
-aS'g'
-aS'n'
-aS'i'
-aa(lp851
-S'Tuli Kaho'
 p852
-aS'1973'
+aS'date unknown'
 p853
-aS'Lock'
-p854
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aa(lp854
+S'Tuli Kaho'
 p855
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp856
-S'Ualeni Pahulu'
-p857
 aS'1973'
+p856
+aS'Lock'
+p857
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p858
-aS'Prop'
-p859
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aa(lp859
+S'Ualeni Pahulu'
 p860
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp861
-S"Sitafooti 'Aho"
-p862
-aS'1974'
-p863
-aS'Centre'
-p864
-aS'date unknown'
-p865
-aS'3'
-aS'1'
-aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp866
-S'Saia Fifita'
-p867
-aS'1974'
-p868
+aS'1973'
+p861
 aS'Prop'
-p869
+p862
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
+p863
+aS'g'
+aS'n'
+aS'i'
+aa(lp864
+S"Sitafooti 'Aho"
+p865
+aS'1974'
+p866
+aS'Centre'
+p867
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p868
+aS'g'
+aS'n'
+aS'i'
+aa(lp869
+S'Saia Fifita'
 p870
+aS'1974'
+p871
+aS'Prop'
+p872
 aS'4'
 aS'1'
+aS'3'
+aS'0'
 aS'3'
 aS'12'
-p871
+p873
+aS'date unknown'
+p874
 aS'g'
 aS'n'
 aS'i'
-aa(lp872
+aa(lp875
 S'Talilotu Ngaluafe'
-p873
-aS'1974'
-p874
-aS'Wing'
-p875
-aS'date unknown'
 p876
+aS'1974'
+p877
+aS'Wing'
+p878
 aS'5'
 aS'1'
+aS'4'
+aS'0'
 aS'4'
 aS'16'
-p877
-aS'g'
-aS'n'
-aS'i'
-aa(lp878
-S'Tevita Pulumufita'
 p879
-aS'1974'
-p880
-aS'Hooker'
-p881
 aS'date unknown'
-p882
-aS'3'
-aS'1'
-aS'0'
-aS'0'
+p880
 aS'g'
 aS'n'
 aS'i'
-aa(lp883
-S'Saimone Vaea'
-p884
+aa(lp881
+S'Tevita Pulumufita'
+p882
 aS'1974'
-p885
-aS'Flanker'
-p886
-aS'date unknown'
-p887
-aS'6'
+p883
+aS'Hooker'
+p884
+aS'3'
 aS'1'
 aS'2'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp888
-S'Peni Kaihau'
-p889
-aS'1975'
-p890
-aS'Scrum-half'
-p891
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p892
-aS'4'
-aS'0'
-aS'0'
-aS'0'
+p885
 aS'g'
 aS'n'
 aS'i'
-aa(lp893
-S'Sosaia Makalo'
-p894
-aS'1975'
-p895
-aS'Centre'
-p896
-aS'date unknown'
-p897
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp898
-S"Hala Maka'ohi"
-p899
-aS'1975'
-p900
-aS'Fly-half'
-p901
-aS'date unknown'
-p902
-aS'8'
-aS'3'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp903
-S'Vainga Fakatulolo'
-p904
-aS'1975'
-p905
-aS'Prop'
-p906
-aS'date unknown'
-p907
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp908
-S'Sateki Tupou'
-p909
-aS'1975'
-p910
-aS'Scrum-half'
-p911
-aS'date unknown'
-p912
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp913
-S'Alele Vaihu'
-p914
-aS'1975'
-p915
+aa(lp886
+S'Saimone Vaea'
+p887
+aS'1974'
+p888
 aS'Flanker'
-p916
+p889
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'2'
+aS'8'
 aS'date unknown'
-p917
+p890
+aS'g'
+aS'n'
+aS'i'
+aa(lp891
+S'Peni Kaihau'
+p892
+aS'1975'
+p893
+aS'Scrum-half'
+p894
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p895
+aS'g'
+aS'n'
+aS'i'
+aa(lp896
+S'Sosaia Makalo'
+p897
+aS'1975'
+p898
+aS'Centre'
+p899
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p900
 aS'g'
 aS'n'
 aS'i'
-aa(lp918
-S'Niuselau Tofa Fakauho'
-p919
-aS'1977'
-p920
-aS'Wing'
-p921
+aa(lp901
+S"Hala Maka'ohi"
+p902
+aS'1975'
+p903
+aS'Fly-half'
+p904
+aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
+p905
+aS'g'
+aS'n'
+aS'i'
+aa(lp906
+S'Vainga Fakatulolo'
+p907
+aS'1975'
+p908
+aS'Prop'
+p909
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p910
+aS'g'
+aS'n'
+aS'i'
+aa(lp911
+S'Sateki Tupou'
+p912
+aS'1975'
+p913
+aS'Scrum-half'
+p914
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p915
+aS'g'
+aS'n'
+aS'i'
+aa(lp916
+S'Alele Vaihu'
+p917
+aS'1975'
+p918
+aS'Flanker'
+p919
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p920
+aS'g'
+aS'n'
+aS'i'
+aa(lp921
+S'Niuselau Tofa Fakauho'
 p922
+aS'1977'
+p923
+aS'Wing'
+p924
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p925
 aS'g'
 aS'n'
 aS'i'
-aa(lp923
+aa(lp926
 S'Mana Hafoka'
-p924
-aS'1977'
-p925
-aS'Lock'
-p926
-aS'date unknown'
 p927
+aS'1977'
+p928
+aS'Lock'
+p929
 aS'4'
 aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp928
-S'Pangia Katoa'
-p929
-aS'1977'
-p930
-aS'Hooker'
-p931
-aS'date unknown'
-p932
-aS'10'
-p933
 aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p930
 aS'g'
 aS'n'
 aS'i'
-aa(lp934
-S'Peni Kiole'
-p935
+aa(lp931
+S'Pangia Katoa'
+p932
 aS'1977'
-p936
-aS'Prop'
-p937
+p933
+aS'Hooker'
+p934
+aS'10'
+p935
+aS'3'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
+p936
+aS'g'
+aS'n'
+aS'i'
+aa(lp937
+S'Peni Kiole'
 p938
+aS'1977'
+p939
+aS'Prop'
+p940
 aS'7'
 aS'2'
+aS'5'
+aS'0'
 aS'0'
 aS'5'
+aS'date unknown'
+p941
 aS'g'
 aS'n'
 aS'i'
-aa(lp939
+aa(lp942
 S'Pasuka Mapakaitolo,Snr'
-p940
-aS'1977'
-p941
-aS'No. 8'
-p942
-aS'date unknown'
 p943
+aS'1977'
+p944
+aS'No. 8'
+p945
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p946
 aS'g'
 aS'n'
 aS'i'
-aa(lp944
+aa(lp947
 S"Viliami Moala'eua"
-p945
-aS'1977'
-p946
-aS'Centre'
-p947
-aS'date unknown'
 p948
+aS'1977'
+p949
+aS'Centre'
+p950
 aS'9'
 aS'4'
+aS'5'
+aS'0'
 aS'1'
 aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp949
-S"Mosese Tu'ipulotu"
-p950
-aS'1977'
+aS'date unknown'
 p951
-aS'Wing'
-p952
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aa(lp952
+S"Mosese Tu'ipulotu"
 p953
-aS'3'
-aS'0'
-aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp954
-S"Viliami Tu'ipulotu"
+aS'1977'
+p954
+aS'Wing'
 p955
-aS'1977'
-p956
-aS'No. 8'
-p957
-aS'date unknown'
-p958
-aS'6'
-aS'1'
-aS'1'
-aS'6'
-aS'g'
-aS'n'
-aS'i'
-aa(lp959
-S'Folafala Vuna'
-p960
-aS'1977'
-p961
-aS'Prop'
-p962
-aS'date unknown'
-p963
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp964
-S'Nunu Vahe'
-p965
-aS'1977'
-p966
-aS'Centre'
-p967
-aS'date unknown'
-p968
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp969
-S"Sitani Hala'ufia"
-p970
-aS'1977'
-p971
-aS'Flanker'
-p972
-aS'date unknown'
-p973
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp974
-S'Sione Alatini'
-p975
-aS'1977'
-p976
-aS'Fly-half'
-p977
-aS'date unknown'
-p978
 aS'3'
 aS'0'
+aS'3'
 aS'0'
-aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p956
 aS'g'
 aS'n'
 aS'i'
-aa(lp979
-S'Satisi Vunipola'
-p980
+aa(lp957
+S"Viliami Tu'ipulotu"
+p958
 aS'1977'
-p981
-aS'Scrum-half'
-p982
+p959
+aS'No. 8'
+p960
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'1'
+aS'6'
 aS'date unknown'
-p983
+p961
+aS'g'
+aS'n'
+aS'i'
+aa(lp962
+S'Folafala Vuna'
+p963
+aS'1977'
+p964
+aS'Prop'
+p965
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p966
+aS'g'
+aS'n'
+aS'i'
+aa(lp967
+S'Nunu Vahe'
+p968
+aS'1977'
+p969
+aS'Centre'
+p970
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p971
+aS'g'
+aS'n'
+aS'i'
+aa(lp972
+S"Sitani Hala'ufia"
+p973
+aS'1977'
+p974
+aS'Flanker'
+p975
+aS'5'
+aS'1'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p976
 aS'g'
 aS'n'
 aS'i'
-aa(lp984
-S'Molitoni Finau'
-p985
-aS'1979'
-p986
-aS'Centre'
-p987
+aa(lp977
+S'Sione Alatini'
+p978
+aS'1977'
+p979
+aS'Fly-half'
+p980
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
+p981
+aS'g'
+aS'n'
+aS'i'
+aa(lp982
+S'Satisi Vunipola'
+p983
+aS'1977'
+p984
+aS'Scrum-half'
+p985
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p986
+aS'g'
+aS'n'
+aS'i'
+aa(lp987
+S'Molitoni Finau'
 p988
+aS'1979'
+p989
+aS'Centre'
+p990
 aS'5'
 aS'3'
+aS'2'
+aS'0'
 aS'2'
 aS'8'
+aS'date unknown'
+p991
 aS'g'
 aS'n'
 aS'i'
-aa(lp989
+aa(lp992
 S'Rocky Fotu'
-p990
-aS'1979'
-p991
-aS'Wing'
-p992
-aS'date unknown'
 p993
+aS'1979'
+p994
+aS'Wing'
+p995
 aS'4'
 aS'1'
+aS'3'
+aS'0'
 aS'2'
 aS'13'
-p994
-aS'g'
-aS'n'
-aS'i'
-aa(lp995
-S"Siai Liava'a"
 p996
-aS'1979'
+aS'date unknown'
 p997
-aS'Lock'
-p998
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aa(lp998
+S"Siai Liava'a"
 p999
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1000
-S"Peseti Ma'afu"
+aS'1979'
+p1000
+aS'Lock'
 p1001
-aS'1979'
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1002
-aS'Scrum-half'
-p1003
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1003
+S"Peseti Ma'afu"
 p1004
-aS'10'
+aS'1979'
 p1005
-aS'4'
-aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1006
-S"Tui'pulotu Viliame"
+aS'Scrum-half'
+p1006
+aS'10'
 p1007
-aS'1979'
-p1008
-aS''
-aS'date unknown'
-p1009
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1010
-S'Ofa Hiko'
-p1011
-aS'1979'
-p1012
-aS'Prop'
-p1013
-aS'date unknown'
-p1014
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1015
-S"Alamoni Liava'a"
-p1016
-aS'1979'
-p1017
-aS'Centre'
-p1018
-aS'circa 1959'
-p1019
-aS'14'
-p1020
 aS'4'
+aS'6'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p1008
+aS'g'
+aS'n'
+aS'i'
+aa(lp1009
+S"Tui'pulotu Viliame"
+p1010
+aS'1979'
+p1011
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1012
+aS'g'
+aS'n'
+aS'i'
+aa(lp1013
+S'Ofa Hiko'
+p1014
+aS'1979'
+p1015
+aS'Prop'
+p1016
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1017
+aS'g'
+aS'n'
+aS'i'
+aa(lp1018
+S"Alamoni Liava'a"
+p1019
+aS'1979'
+p1020
+aS'Centre'
+p1021
+aS'14'
+p1022
+aS'4'
+aS'10'
+p1023
+aS'0'
 aS'3'
 aS'31'
-p1021
-aVPerú
-p1022
-aVTacna
-p1023
-aVCandarave
 p1024
-aa(lp1025
-S'Prince Mailefihi'
+aS'circa 1959'
+p1025
+aVPerú
 p1026
-aS'1979'
+aVTacna
 p1027
-aS''
-aS'date unknown'
+aVCandarave
 p1028
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
 aa(lp1029
-S'Nofomuli Taumoefolau'
+S'Prince Mailefihi'
 p1030
 aS'1979'
 p1031
-aS'Wing'
-p1032
-aS'1956'
-p1033
-aS'18'
-p1034
-aS'4'
-aS'5'
-aS'20'
-p1035
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p1036
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p1037
-aVDaïra El Eulma
-p1038
-aa(lp1039
-S"Tui'pulotu Maka"
-p1040
-aS'1979'
-p1041
-aS'Wing'
-p1042
-aS'date unknown'
-p1043
-aS'3'
+aS''
 aS'2'
-aS'1'
-aS'4'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1032
 aS'g'
 aS'n'
 aS'i'
+aa(lp1033
+S'Nofomuli Taumoefolau'
+p1034
+aS'1979'
+p1035
+aS'Wing'
+p1036
+aS'18'
+p1037
+aS'4'
+aS'13'
+p1038
+aS'1'
+aS'5'
+aS'20'
+p1039
+aS'1956'
+p1040
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p1041
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p1042
+aVDaïra El Eulma
+p1043
 aa(lp1044
-S'M. Malu'
+S"Tui'pulotu Maka"
 p1045
 aS'1979'
 p1046
-aS'Flanker'
+aS'Wing'
 p1047
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
 aS'date unknown'
 p1048
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1049
-S'Malakai Pulumu'
+S'M. Malu'
 p1050
 aS'1979'
 p1051
 aS'Flanker'
 p1052
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1053
-aS'6'
-aS'4'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1054
-S"Puniani Tu'ipulotu"
+S'Malakai Pulumu'
 p1055
 aS'1979'
 p1056
-aS'Hooker'
+aS'Flanker'
 p1057
-aS'date unknown'
-p1058
-aS'2'
+aS'6'
+aS'4'
 aS'2'
 aS'0'
-aS'7'
+aS'0'
+aS'0'
+aS'date unknown'
+p1058
 aS'g'
 aS'n'
 aS'i'
 aa(lp1059
-S"Mailefihi Tuku'aho"
+S"Puniani Tu'ipulotu"
 p1060
 aS'1979'
 p1061
-aS'Lock'
+aS'Hooker'
 p1062
-aS"Nuku'alofa"
-p1063
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVTonga
-p1064
-aVTongatapu
-p1065
-aVVahe Kolofo'ou
-p1066
-aa(lp1067
-S'Soane Hola'
-p1068
-aS'1979'
-p1069
-aS'Lock'
-p1070
-aS'date unknown'
-p1071
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1072
-S"Talanoa Kitekei'aho"
-p1073
-aS'1979'
-p1074
-aS'Centre'
-p1075
-aS'circa 1958'
-p1076
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVPerú
-p1077
-aVTacna
-p1078
-aVCandarave
-p1079
-aa(lp1080
-S'Kulikefu Lomu'
-p1081
-aS'1979'
-p1082
-aS'Centre'
-p1083
-aS'date unknown'
-p1084
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1085
-S"Soakai Motu'apuaka"
-p1086
-aS'1979'
-p1087
-aS'Prop'
-p1088
-aS'circa 1953'
-p1089
-aS'3'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVPerú
-p1090
-aVTacna
-p1091
-aVCandarave
-p1092
-aa(lp1093
-S'Semisi Faleafa'
-p1094
-aS'1980'
-p1095
-aS'Centre'
-p1096
+aS'0'
+aS'7'
 aS'date unknown'
-p1097
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p1063
 aS'g'
 aS'n'
 aS'i'
+aa(lp1064
+S"Mailefihi Tuku'aho"
+p1065
+aS'1979'
+p1066
+aS'Lock'
+p1067
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS"Nuku'alofa"
+p1068
+aVTonga
+p1069
+aVTongatapu
+p1070
+aVVahe Kolofo'ou
+p1071
+aa(lp1072
+S'Soane Hola'
+p1073
+aS'1979'
+p1074
+aS'Lock'
+p1075
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1076
+aS'g'
+aS'n'
+aS'i'
+aa(lp1077
+S"Talanoa Kitekei'aho"
+p1078
+aS'1979'
+p1079
+aS'Centre'
+p1080
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1958'
+p1081
+aVPerú
+p1082
+aVTacna
+p1083
+aVCandarave
+p1084
+aa(lp1085
+S'Kulikefu Lomu'
+p1086
+aS'1979'
+p1087
+aS'Centre'
+p1088
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1089
+aS'g'
+aS'n'
+aS'i'
+aa(lp1090
+S"Soakai Motu'apuaka"
+p1091
+aS'1979'
+p1092
+aS'Prop'
+p1093
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1953'
+p1094
+aVPerú
+p1095
+aVTacna
+p1096
+aVCandarave
+p1097
 aa(lp1098
-S"Fou Ma'afu"
+S'Semisi Faleafa'
 p1099
 aS'1980'
 p1100
-aS'Wing'
+aS'Centre'
 p1101
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1102
-aS'9'
-aS'3'
-aS'3'
-aS'12'
-p1103
 aS'g'
 aS'n'
 aS'i'
-aa(lp1104
-S'Fili Moala'
-p1105
+aa(lp1103
+S"Fou Ma'afu"
+p1104
 aS'1980'
+p1105
+aS'Wing'
 p1106
-aS'Hooker'
+aS'9'
+aS'3'
+aS'5'
+aS'1'
+aS'3'
+aS'12'
 p1107
 aS'date unknown'
 p1108
-aS'12'
-p1109
-aS'5'
-aS'1'
-aS'4'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1110
-S'Sione Vai'
-p1111
+aa(lp1109
+S'Fili Moala'
+p1110
 aS'1980'
+p1111
+aS'Hooker'
 p1112
-aS'Centre'
+aS'12'
 p1113
-aS'date unknown'
-p1114
-aS'1'
-aS'1'
+aS'5'
+aS'7'
+aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p1114
 aS'g'
 aS'n'
 aS'i'
 aa(lp1115
-S'Sweet Leilani Fekau'
+S'Sione Vai'
 p1116
-aS'1981'
+aS'1980'
 p1117
 aS'Centre'
 p1118
-aS'date unknown'
-p1119
-aS'5'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p1119
 aS'g'
 aS'n'
 aS'i'
 aa(lp1120
-S'Poseisei Havili'
+S'Sweet Leilani Fekau'
 p1121
 aS'1981'
 p1122
-aS'Flanker'
+aS'Centre'
 p1123
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1124
-aS'3'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1125
-S'Viliami Lutua'
+S'Poseisei Havili'
 p1126
 aS'1981'
 p1127
-aS'Prop'
+aS'Flanker'
 p1128
-aS'circa 1956'
-p1129
-aS'7'
-aS'1'
-aS'0'
-aS'0'
-aVPerú
-p1130
-aVTacna
-p1131
-aVCandarave
-p1132
-aa(lp1133
-S'Sitini Mahe'
-p1134
-aS'1981'
-p1135
-aS'Lock'
-p1136
-aS'date unknown'
-p1137
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1129
 aS'g'
 aS'n'
 aS'i'
+aa(lp1130
+S'Viliami Lutua'
+p1131
+aS'1981'
+p1132
+aS'Prop'
+p1133
+aS'7'
+aS'1'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'circa 1956'
+p1134
+aVPerú
+p1135
+aVTacna
+p1136
+aVCandarave
+p1137
 aa(lp1138
-S'Paea Moala'
+S'Sitini Mahe'
 p1139
 aS'1981'
 p1140
-aS'Wing'
+aS'Lock'
 p1141
-aS'date unknown'
-p1142
 aS'3'
 aS'1'
-aS'1'
-aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1142
 aS'g'
 aS'n'
 aS'i'
 aa(lp1143
-S'Soape Nuku'
+S'Paea Moala'
 p1144
 aS'1981'
 p1145
-aS'Centre'
+aS'Wing'
 p1146
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
 aS'date unknown'
 p1147
-aS'5'
-aS'2'
-aS'1'
-aS'14'
-p1148
 aS'g'
 aS'n'
 aS'i'
-aa(lp1149
-S"Sisi Tu'ipulotu"
-p1150
+aa(lp1148
+S'Soape Nuku'
+p1149
 aS'1981'
+p1150
+aS'Centre'
 p1151
-aS'Prop'
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'1'
+aS'14'
 p1152
 aS'date unknown'
 p1153
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1154
-S'Pohahau Palu'
+S"Sisi Tu'ipulotu"
 p1155
 aS'1981'
 p1156
-aS'Flanker'
+aS'Prop'
 p1157
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1158
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1159
-S'Siale Vai'
+S'Pohahau Palu'
 p1160
 aS'1981'
 p1161
-aS'Fullback'
+aS'Flanker'
 p1162
-aS'date unknown'
-p1163
-aS'4'
+aS'1'
 aS'1'
 aS'0'
-aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1163
 aS'g'
 aS'n'
 aS'i'
 aa(lp1164
-S'Sanilaita'
+S'Siale Vai'
 p1165
 aS'1981'
 p1166
-aS'Wing'
+aS'Fullback'
 p1167
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'9'
 aS'date unknown'
 p1168
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1169
-S'Amone Fungavaka'
+S'Sanilaita'
 p1170
-aS'1982'
+aS'1981'
 p1171
-aS'Hooker'
+aS'Wing'
 p1172
-aS'circa 1957'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1173
+aS'g'
+aS'n'
+aS'i'
+aa(lp1174
+S'Amone Fungavaka'
+p1175
+aS'1982'
+p1176
+aS'Hooker'
+p1177
 aS'13'
-p1174
+p1178
 aS'3'
+aS'10'
+p1179
+aS'0'
 aS'1'
 aS'4'
-aVPerú
-p1175
-aVTacna
-p1176
-aVCandarave
-p1177
-aa(lp1178
-S"Tu'ikolovatu Halafihi"
-p1179
-aS'1982'
+aS'circa 1957'
 p1180
-aS'Fullback'
+aVPerú
 p1181
-aS'date unknown'
+aVTacna
 p1182
+aVCandarave
+p1183
+aa(lp1184
+S"Tu'ikolovatu Halafihi"
+p1185
+aS'1982'
+p1186
+aS'Fullback'
+p1187
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'0'
 aS'3'
+aS'date unknown'
+p1188
 aS'g'
 aS'n'
 aS'i'
-aa(lp1183
+aa(lp1189
 S'Liapo Halavatau'
-p1184
+p1190
 aS'1982'
-p1185
+p1191
 aS'Lock'
-p1186
-aS'date unknown'
-p1187
+p1192
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1193
 aS'g'
 aS'n'
 aS'i'
-aa(lp1188
+aa(lp1194
 S'T. Kapeli'
-p1189
+p1195
 aS'1982'
-p1190
+p1196
 aS''
-aS'date unknown'
-p1191
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1192
-S'Tomasi Lovo'
-p1193
-aS'1982'
-p1194
-aS'Fly-half'
-p1195
 aS'date unknown'
-p1196
-aS'9'
-aS'2'
-aS'0'
-aS'40'
 p1197
 aS'g'
 aS'n'
 aS'i'
 aa(lp1198
-S'Laupo Mafileo'
+S'Tomasi Lovo'
 p1199
 aS'1982'
 p1200
-aS'Wing'
+aS'Fly-half'
 p1201
-aS'date unknown'
+aS'9'
+aS'2'
+aS'7'
+aS'0'
+aS'0'
+aS'40'
 p1202
+aS'date unknown'
+p1203
+aS'g'
+aS'n'
+aS'i'
+aa(lp1204
+S'Laupo Mafileo'
+p1205
+aS'1982'
+p1206
+aS'Wing'
+p1207
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1208
 aS'g'
 aS'n'
 aS'i'
-aa(lp1203
+aa(lp1209
 S'Feleti Moala'
-p1204
+p1210
 aS'1982'
-p1205
+p1211
 aS'Scrum-half'
-p1206
-aS'date unknown'
-p1207
+p1212
 aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1213
 aS'g'
 aS'n'
 aS'i'
-aa(lp1208
+aa(lp1214
 S'Pule Moala'
-p1209
+p1215
 aS'1982'
-p1210
+p1216
 aS'Centre'
-p1211
-aS'date unknown'
-p1212
+p1217
 aS'6'
 aS'1'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1218
 aS'g'
 aS'n'
 aS'i'
-aa(lp1213
+aa(lp1219
 S'Tevita Soane'
-p1214
+p1220
 aS'1982'
-p1215
+p1221
 aS'Lock'
-p1216
-aS'date unknown'
-p1217
+p1222
 aS'7'
 aS'3'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1223
 aS'g'
 aS'n'
 aS'i'
-aa(lp1218
+aa(lp1224
 S'Poese Taukolo'
-p1219
+p1225
 aS'1982'
-p1220
+p1226
 aS'Flanker'
-p1221
-aS'date unknown'
-p1222
+p1227
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1228
 aS'g'
 aS'n'
 aS'i'
-aa(lp1223
+aa(lp1229
 S'Hakatoa Tupou'
-p1224
+p1230
 aS'1982'
-p1225
+p1231
 aS'Prop'
-p1226
-aS'circa 1959'
-p1227
+p1232
 aS'9'
 aS'1'
+aS'8'
+aS'0'
 aS'1'
 aS'4'
-aVPerú
-p1228
-aVTacna
-p1229
-aVCandarave
-p1230
-aa(lp1231
-S'Kapelilei Vunipola'
-p1232
-aS'1982'
+aS'circa 1959'
 p1233
-aS'Fly-half'
+aVPerú
 p1234
-aS'date unknown'
+aVTacna
 p1235
+aVCandarave
+p1236
+aa(lp1237
+S'Kapelilei Vunipola'
+p1238
+aS'1982'
+p1239
+aS'Fly-half'
+p1240
 aS'6'
 aS'1'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1241
 aS'g'
 aS'n'
 aS'i'
-aa(lp1236
+aa(lp1242
 S"Mesui Fanga'uta"
-p1237
-aS'1982'
-p1238
-aS'Wing'
-p1239
-aS'date unknown'
-p1240
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1241
-S'Vatuniloka Fifita'
-p1242
-aS'1982'
 p1243
-aS'No. 8'
+aS'1982'
 p1244
-aS'date unknown'
+aS'Wing'
 p1245
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1246
 aS'g'
 aS'n'
 aS'i'
-aa(lp1246
-S"Ha'unga Petelo"
-p1247
-aS'1982'
+aa(lp1247
+S'Vatuniloka Fifita'
 p1248
-aS'Fullback'
+aS'1982'
 p1249
-aS'date unknown'
+aS'No. 8'
 p1250
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1251
 aS'g'
 aS'n'
 aS'i'
-aa(lp1251
-S'Feleti Taniela'
-p1252
-aS'1982'
+aa(lp1252
+S"Ha'unga Petelo"
 p1253
-aS'Wing'
+aS'1982'
 p1254
-aS'date unknown'
+aS'Fullback'
 p1255
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1256
 aS'g'
 aS'n'
 aS'i'
-aa(lp1256
-S'Viliami Vunipola'
-p1257
-aS'1982'
+aa(lp1257
+S'Feleti Taniela'
 p1258
-aS'Centre'
+aS'1982'
 p1259
-aS'date unknown'
+aS'Wing'
 p1260
 aS'1'
 aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1261
-S'Pau Afeaki'
-p1262
-aS'1983'
-p1263
-aS'Flanker'
-p1264
-aS'date unknown'
-p1265
-aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1261
 aS'g'
 aS'n'
 aS'i'
-aa(lp1266
-S'Talai Fifita'
-p1267
-aS'1983'
+aa(lp1262
+S'Viliami Vunipola'
+p1263
+aS'1982'
+p1264
+aS'Centre'
+p1265
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1266
+aS'g'
+aS'n'
+aS'i'
+aa(lp1267
+S'Pau Afeaki'
 p1268
-aS'Scrum-half'
+aS'1983'
 p1269
-aS'1962'
+aS'Flanker'
 p1270
-aS'11'
-p1271
 aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1271
+aS'g'
+aS'n'
+aS'i'
+aa(lp1272
+S'Talai Fifita'
+p1273
+aS'1983'
+p1274
+aS'Scrum-half'
+p1275
+aS'11'
+p1276
+aS'2'
+aS'9'
+aS'0'
 aS'4'
 aS'16'
-p1272
-aVSverige
-p1273
-aVSvealand
-p1274
-aVVästmanlands län
-p1275
-aa(lp1276
-S'Viliami Maka'
 p1277
-aS'1983'
+aS'1962'
 p1278
-aS'Lock'
+aVSverige
 p1279
-aS'date unknown'
+aVSvealand
 p1280
+aVVästmanlands län
+p1281
+aa(lp1282
+S'Viliami Maka'
+p1283
+aS'1983'
+p1284
+aS'Lock'
+p1285
 aS'4'
 aS'2'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1286
 aS'g'
 aS'n'
 aS'i'
-aa(lp1281
+aa(lp1287
 S"Kouliti Ma'u"
-p1282
-aS'1983'
-p1283
-aS'Prop'
-p1284
-aS'date unknown'
-p1285
-aS'5'
-aS'2'
-aS'2'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1286
-S'Laukau Ofa'
-p1287
-aS'1983'
 p1288
-aS'Wing'
+aS'1983'
 p1289
-aS'date unknown'
+aS'Prop'
 p1290
 aS'5'
-aS'1'
+aS'2'
+aS'3'
 aS'0'
-aS'0'
+aS'2'
+aS'8'
+aS'date unknown'
+p1291
 aS'g'
 aS'n'
 aS'i'
-aa(lp1291
-S"Heneli Pau'u"
-p1292
-aS'1983'
+aa(lp1292
+S'Laukau Ofa'
 p1293
-aS'Prop'
+aS'1983'
 p1294
-aS'date unknown'
+aS'Wing'
 p1295
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1296
+aS'g'
+aS'n'
+aS'i'
+aa(lp1297
+S"Heneli Pau'u"
+p1298
+aS'1983'
+p1299
+aS'Prop'
+p1300
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1296
-S"'Otenili Pifeleti"
-p1297
-aS'1983'
-p1298
-aS'No. 8'
-p1299
-aS'date unknown'
-p1300
-aS'14'
-p1301
-aS'4'
 aS'1'
-aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1301
 aS'g'
 aS'n'
 aS'i'
 aa(lp1302
-S"'Ofa Blake"
+S"'Otenili Pifeleti"
 p1303
 aS'1983'
 p1304
-aS'Hooker'
+aS'No. 8'
 p1305
-aS'date unknown'
+aS'14'
 p1306
+aS'4'
+aS'10'
+p1307
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p1308
+aS'g'
+aS'n'
+aS'i'
+aa(lp1309
+S"'Ofa Blake"
+p1310
+aS'1983'
+p1311
+aS'Hooker'
+p1312
 aS'8'
 aS'0'
+aS'7'
+aS'1'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1307
-S'Tohi Leha'
-p1308
-aS'1983'
-p1309
-aS'Flanker'
-p1310
 aS'date unknown'
-p1311
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1312
-S"Pau'u Lolohea"
 p1313
-aS'1983'
-p1314
-aS''
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1314
+S'Tohi Leha'
 p1315
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1316
-S"Tu'ihalafatai Ma'afu"
+aS'1983'
+p1316
+aS'Flanker'
 p1317
-aS'1983'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1318
-aS''
-aS'date unknown'
-p1319
-aS'2'
-aS'0'
-aS'1'
-aS'4'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1320
-S'Takai Makisi'
+aa(lp1319
+S"Pau'u Lolohea"
+p1320
+aS'1983'
 p1321
-aS'1983'
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1322
-aS'Prop'
-p1323
-aS'circa 1962'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1323
+S"Tu'ihalafatai Ma'afu"
 p1324
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVPerú
+aS'1983'
 p1325
-aVTacna
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
 p1326
-aVCandarave
-p1327
-aa(lp1328
-S"Mo'unga Taufateau"
+aS'g'
+aS'n'
+aS'i'
+aa(lp1327
+S'Takai Makisi'
+p1328
+aS'1983'
 p1329
-aS'1983'
-p1330
-aS'Fullback'
-p1331
-aS'date unknown'
-p1332
-aS'4'
-aS'1'
-aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1333
-S'Paula Taholo'
-p1334
-aS'1983'
-p1335
 aS'Prop'
-p1336
-aS'date unknown'
-p1337
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1338
-S'Sinali-Tui Latu'
-p1339
-aS'1984'
-p1340
-aS'No. 8'
-p1341
-aS"Ha'apai"
-p1342
-aS'34'
-p1343
-aS'11'
-p1344
+p1330
 aS'4'
-aS'18'
-p1345
-aVTonga
-p1346
-aVTongatapu
-p1347
-aVHunga Ha\u02bbapai
-p1348
-aa(lp1349
-S'Feao Lavemai'
-p1350
-aS'1984'
-p1351
-aS'Centre'
-p1352
-aS'date unknown'
-p1353
-aS'4'
-aS'2'
 aS'1'
-aS'4'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1354
-S'Sekona Taufa'
-p1355
-aS'1984'
-p1356
-aS'Wing'
-p1357
-aS'date unknown'
-p1358
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1359
-S"Tali Ete'aki"
-p1360
-aS'1984'
-p1361
-aS'Fullback'
-p1362
-aS'circa 1963'
-p1363
-aS'13'
-p1364
-aS'2'
-aS'0'
-aS'0'
-aVPerú
-p1365
-aVTacna
-p1366
-aVCandarave
-p1367
-aa(lp1368
-S'Paula Tupou'
-p1369
-aS'1984'
-p1370
-aS'No. 8'
-p1371
-aS'date unknown'
-p1372
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'circa 1962'
+p1331
+aVPerú
+p1332
+aVTacna
+p1333
+aVCandarave
+p1334
+aa(lp1335
+S"Mo'unga Taufateau"
+p1336
+aS'1983'
+p1337
+aS'Fullback'
+p1338
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p1339
 aS'g'
 aS'n'
 aS'i'
-aa(lp1373
-S"Laifai'i Kauhalaniua"
-p1374
+aa(lp1340
+S'Paula Taholo'
+p1341
+aS'1983'
+p1342
+aS'Prop'
+p1343
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1344
+aS'g'
+aS'n'
+aS'i'
+aa(lp1345
+S'Sinali-Tui Latu'
+p1346
 aS'1984'
-p1375
-aS'Fly-half'
-p1376
-aS'date unknown'
-p1377
+p1347
+aS'No. 8'
+p1348
+aS'34'
+p1349
+aS'11'
+p1350
+aS'23'
+p1351
+aS'0'
+aS'4'
+aS'18'
+p1352
+aS"Ha'apai"
+p1353
+aVTonga
+p1354
+aVTongatapu
+p1355
+aVHunga Ha\u02bbapai
+p1356
+aa(lp1357
+S'Feao Lavemai'
+p1358
+aS'1984'
+p1359
+aS'Centre'
+p1360
+aS'4'
+aS'2'
+aS'2'
+aS'0'
 aS'1'
-aS'0'
-aS'0'
-aS'0'
+aS'4'
+aS'date unknown'
+p1361
 aS'g'
 aS'n'
 aS'i'
-aa(lp1378
-S'Peni Fakava'
-p1379
-aS'1985'
-p1380
+aa(lp1362
+S'Sekona Taufa'
+p1363
+aS'1984'
+p1364
 aS'Wing'
+p1365
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1366
+aS'g'
+aS'n'
+aS'i'
+aa(lp1367
+S"Tali Ete'aki"
+p1368
+aS'1984'
+p1369
+aS'Fullback'
+p1370
+aS'13'
+p1371
+aS'2'
+aS'11'
+p1372
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1963'
+p1373
+aVPerú
+p1374
+aVTacna
+p1375
+aVCandarave
+p1376
+aa(lp1377
+S'Paula Tupou'
+p1378
+aS'1984'
+p1379
+aS'No. 8'
+p1380
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1381
-aS'date unknown'
-p1382
-aS'2'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1383
-S'Manisela Hekeheke'
+aa(lp1382
+S"Laifai'i Kauhalaniua"
+p1383
+aS'1984'
 p1384
-aS'1985'
+aS'Fly-half'
 p1385
-aS'Flanker'
-p1386
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p1387
-aS'4'
-aS'2'
-aS'0'
-aS'0'
+p1386
 aS'g'
 aS'n'
 aS'i'
-aa(lp1388
-S'Fetaiaki Langi'
-p1389
+aa(lp1387
+S'Peni Fakava'
+p1388
 aS'1985'
+p1389
+aS'Wing'
 p1390
-aS'Flanker'
-p1391
-aS'date unknown'
-p1392
-aS'6'
 aS'2'
 aS'1'
-aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1391
 aS'g'
 aS'n'
 aS'i'
-aa(lp1393
-S'Pila Maka'
-p1394
+aa(lp1392
+S'Manisela Hekeheke'
+p1393
 aS'1985'
+p1394
+aS'Flanker'
 p1395
-aS''
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1396
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1397
-S'Lui Stanley'
+S'Fetaiaki Langi'
 p1398
 aS'1985'
 p1399
-aS'Centre'
+aS'Flanker'
 p1400
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'1'
+aS'4'
 aS'date unknown'
 p1401
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1402
-S'Latu Vaeno'
+S'Pila Maka'
 p1403
 aS'1985'
 p1404
-aS'Prop'
-p1405
-aS'circa 1959'
-p1406
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVPerú
-p1407
-aVTacna
-p1408
-aVCandarave
-p1409
-aa(lp1410
-S'Lausii Hopoate'
-p1411
-aS'1986'
-p1412
-aS'Wing'
-p1413
-aS'date unknown'
-p1414
+aS''
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1405
 aS'g'
 aS'n'
 aS'i'
-aa(lp1415
-S'Emosi Koloto'
-p1416
-aS'1986'
-p1417
-aS'Flanker'
-p1418
-aS'1965'
-p1419
+aa(lp1406
+S'Lui Stanley'
+p1407
+aS'1985'
+p1408
+aS'Centre'
+p1409
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVDanmark
-p1420
-aV1965
-p1421
-aVRegion Hovedstaden
-p1422
-aa(lp1423
-S'Funa Moala'
-p1424
-aS'1986'
-p1425
-aS'Prop'
-p1426
+aS'0'
 aS'date unknown'
+p1410
+aS'g'
+aS'n'
+aS'i'
+aa(lp1411
+S'Latu Vaeno'
+p1412
+aS'1985'
+p1413
+aS'Prop'
+p1414
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1959'
+p1415
+aVPerú
+p1416
+aVTacna
+p1417
+aVCandarave
+p1418
+aa(lp1419
+S'Lausii Hopoate'
+p1420
+aS'1986'
+p1421
+aS'Wing'
+p1422
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1423
+aS'g'
+aS'n'
+aS'i'
+aa(lp1424
+S'Emosi Koloto'
+p1425
+aS'1986'
+p1426
+aS'Flanker'
 p1427
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'1965'
+p1428
+aVDanmark
+p1429
+aV1965
+p1430
+aVRegion Hovedstaden
+p1431
+aa(lp1432
+S'Funa Moala'
+p1433
+aS'1986'
+p1434
+aS'Prop'
+p1435
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1436
 aS'g'
 aS'n'
 aS'i'
-aa(lp1428
+aa(lp1437
 S'Samiu Mohi'
-p1429
+p1438
 aS'1986'
-p1430
+p1439
 aS'Centre'
-p1431
-aS'circa 1962'
-p1432
+p1440
 aS'6'
 aS'1'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'circa 1962'
+p1441
 aVPerú
-p1433
+p1442
 aVTacna
-p1434
+p1443
 aVCandarave
-p1435
-aa(lp1436
+p1444
+aa(lp1445
 S"Mofuike Tu'ungafasi"
-p1437
+p1446
 aS'1986'
-p1438
+p1447
 aS'Lock'
-p1439
-aS'circa 1963'
-p1440
+p1448
 aS'5'
 aS'1'
-aS'0'
-aS'0'
-aVPerú
-p1441
-aVTacna
-p1442
-aVCandarave
-p1443
-aa(lp1444
-S"Vaivao Fa'aumu"
-p1445
-aS'1986'
-p1446
-aS'Centre'
-p1447
-aS'date unknown'
-p1448
 aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1449
-S'Maliu Filise'
-p1450
-aS'1986'
-p1451
-aS'No. 8'
-p1452
-aS'circa 1958'
-p1453
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVPerú
-p1454
-aVTacna
-p1455
-aVCandarave
-p1456
-aa(lp1457
-S"Popolini Ta'univao"
-p1458
-aS'1986'
-p1459
-aS'Flanker'
-p1460
-aS'date unknown'
-p1461
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1462
-S'Totilini Tuavao'
-p1463
-aS'1986'
-p1464
-aS''
-aS'date unknown'
-p1465
-aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1466
-S"Soane 'Asi"
-p1467
-aS'1987'
-p1468
-aS'Wing'
-p1469
 aS'circa 1963'
-p1470
-aS'1'
-aS'0'
-aS'0'
-aS'0'
+p1449
 aVPerú
-p1471
+p1450
 aVTacna
-p1472
+p1451
 aVCandarave
-p1473
-aa(lp1474
-S'Quddus Fielea'
-p1475
-aS'1987'
-p1476
-aS'Wing'
-p1477
-aS'1966'
-p1478
-aS'12'
-p1479
+p1452
+aa(lp1453
+S"Vaivao Fa'aumu"
+p1454
+aS'1986'
+p1455
+aS'Centre'
+p1456
+aS'4'
 aS'1'
-aS'2'
-aS'8'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1457
+aS'g'
+aS'n'
+aS'i'
+aa(lp1458
+S'Maliu Filise'
+p1459
+aS'1986'
+p1460
+aS'No. 8'
+p1461
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1958'
+p1462
+aVPerú
+p1463
+aVTacna
+p1464
+aVCandarave
+p1465
+aa(lp1466
+S"Popolini Ta'univao"
+p1467
+aS'1986'
+p1468
+aS'Flanker'
+p1469
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1470
+aS'g'
+aS'n'
+aS'i'
+aa(lp1471
+S'Totilini Tuavao'
+p1472
+aS'1986'
+p1473
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1474
+aS'g'
+aS'n'
+aS'i'
+aa(lp1475
+S"Soane 'Asi"
+p1476
+aS'1987'
+p1477
+aS'Wing'
+p1478
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1963'
+p1479
+aVPerú
 p1480
-aV\u0421\u041a\u0424\u041e
+aVTacna
 p1481
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aVCandarave
 p1482
 aa(lp1483
-S'Kasi Fine'
+S'Quddus Fielea'
 p1484
 aS'1987'
 p1485
-aS'Lock'
+aS'Wing'
 p1486
-aS'circa 1964'
+aS'12'
 p1487
+aS'1'
+aS'11'
+p1488
+aS'0'
+aS'2'
+aS'8'
+aS'1966'
+p1489
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p1490
+aV\u0421\u041a\u0424\u041e
+p1491
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p1492
+aa(lp1493
+S'Kasi Fine'
+p1494
+aS'1987'
+p1495
+aS'Lock'
+p1496
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'circa 1964'
+p1497
 aVPerú
-p1488
+p1498
 aVTacna
-p1489
+p1499
 aVCandarave
-p1490
-aa(lp1491
+p1500
+aa(lp1501
 S'Kini Fotu'
-p1492
+p1502
 aS'1987'
-p1493
+p1503
 aS'No. 8'
-p1494
-aS'circa 1965'
-p1495
+p1504
 aS'8'
 aS'1'
+aS'7'
+aS'0'
 aS'1'
 aS'4'
+aS'circa 1965'
+p1505
 aVPerú
-p1496
+p1506
 aVTacna
-p1497
+p1507
 aVCandarave
-p1498
-aa(lp1499
+p1508
+aa(lp1509
 S"Taipaleti Tu'uta"
-p1500
+p1510
 aS'1987'
-p1501
+p1511
 aS'Flanker'
-p1502
-aS'circa 1964'
-p1503
+p1512
 aS'8'
 aS'2'
-aS'0'
-aS'0'
-aVPerú
-p1504
-aVTacna
-p1505
-aVCandarave
-p1506
-aa(lp1507
-S'Sione Tahaafe'
-p1508
-aS'1987'
-p1509
-aS'No. 8'
-p1510
-aS'circa 1958'
-p1511
-aS'1'
+aS'6'
 aS'0'
 aS'0'
 aS'0'
-aVPerú
-p1512
-aVTacna
+aS'circa 1964'
 p1513
-aVCandarave
+aVPerú
 p1514
-aa(lp1515
-S'Lemeki Vaipulu'
+aVTacna
+p1515
+aVCandarave
 p1516
-aS'1987'
-p1517
-aS'Fly-half'
+aa(lp1517
+S'Sione Tahaafe'
 p1518
-aS'circa 1961'
+aS'1987'
 p1519
+aS'No. 8'
+p1520
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVPerú
-p1520
-aVTacna
+aS'circa 1958'
 p1521
-aVCandarave
+aVPerú
 p1522
-aa(lp1523
-S'Asa Amone'
+aVTacna
+p1523
+aVCandarave
 p1524
-aS'1987'
-p1525
-aS'Fly-half'
+aa(lp1525
+S'Lemeki Vaipulu'
 p1526
-aS'1966'
+aS'1987'
 p1527
+aS'Fly-half'
+p1528
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1961'
+p1529
+aVPerú
+p1530
+aVTacna
+p1531
+aVCandarave
+p1532
+aa(lp1533
+S'Asa Amone'
+p1534
+aS'1987'
+p1535
+aS'Fly-half'
+p1536
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'12'
-p1528
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1529
-aV\u0421\u041a\u0424\u041e
-p1530
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1531
-aa(lp1532
-S'Manu Vunipola'
-p1533
-aS'1987'
-p1534
-aS'Scrum-half'
-p1535
-aS'circa 1967'
-p1536
-aS'36'
 p1537
-aS'12'
+aS'1966'
 p1538
-aS'2'
-aS'9'
-aVPerú
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p1539
-aVTacna
+aV\u0421\u041a\u0424\u041e
 p1540
-aVTarata
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p1541
 aa(lp1542
-S"Siaosi 'Atiola"
+S'Manu Vunipola'
 p1543
 aS'1987'
 p1544
-aS'No. 8'
+aS'Scrum-half'
 p1545
-aS'date unknown'
+aS'36'
 p1546
+aS'12'
+p1547
+aS'23'
+p1548
+aS'1'
+aS'2'
+aS'9'
+aS'circa 1967'
+p1549
+aVPerú
+p1550
+aVTacna
+p1551
+aVTarata
+p1552
+aa(lp1553
+S"Siaosi 'Atiola"
+p1554
+aS'1987'
+p1555
+aS'No. 8'
+p1556
 aS'8'
+aS'1'
+aS'6'
 aS'1'
 aS'1'
 aS'4'
+aS'date unknown'
+p1557
 aS'g'
 aS'n'
 aS'i'
-aa(lp1547
+aa(lp1558
 S'Inoke Finau'
-p1548
+p1559
 aS'1987'
-p1549
+p1560
 aS'Prop'
-p1550
-aS'date unknown'
-p1551
+p1561
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1552
-S'Maimoa Havili'
-p1553
-aS'1987'
-p1554
-aS'Lock'
-p1555
 aS'date unknown'
-p1556
-aS'2'
-aS'0'
-aS'0'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1557
-S"Teutau Loto'ahea"
-p1558
-aS'1987'
-p1559
-aS'Lock'
-p1560
-aS'date unknown'
-p1561
-aS'18'
 p1562
-aS'4'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1563
-S'Kite Tuivailala'
+S'Maimoa Havili'
 p1564
 aS'1987'
 p1565
-aS'Fly-half'
+aS'Lock'
 p1566
-aS'date unknown'
-p1567
-aS'12'
-p1568
 aS'2'
 aS'0'
-aS'21'
-p1569
+aS'1'
+aS'1'
+aS'0'
+aS'8'
+aS'date unknown'
+p1567
 aS'g'
 aS'n'
 aS'i'
-aa(lp1570
-S'Lopeti Uhatafe'
-p1571
+aa(lp1568
+S"Teutau Loto'ahea"
+p1569
 aS'1987'
+p1570
+aS'Lock'
+p1571
+aS'18'
 p1572
-aS'Fly-half'
+aS'4'
+aS'13'
 p1573
+aS'1'
+aS'0'
+aS'0'
 aS'date unknown'
 p1574
-aS'2'
-aS'0'
-aS'0'
-aS'5'
 aS'g'
 aS'n'
 aS'i'
 aa(lp1575
-S"Semi Ve'ehala"
+S'Kite Tuivailala'
 p1576
 aS'1987'
 p1577
-aS'Back-row'
+aS'Fly-half'
 p1578
-aS'date unknown'
+aS'12'
 p1579
+aS'2'
 aS'9'
+aS'1'
+aS'0'
+aS'21'
+p1580
+aS'date unknown'
+p1581
+aS'g'
+aS'n'
+aS'i'
+aa(lp1582
+S'Lopeti Uhatafe'
+p1583
+aS'1987'
+p1584
+aS'Fly-half'
+p1585
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
+aS'5'
+aS'date unknown'
+p1586
 aS'g'
 aS'n'
 aS'i'
-aa(lp1580
-S'Chris Manu'
-p1581
+aa(lp1587
+S"Semi Ve'ehala"
+p1588
 aS'1987'
-p1582
-aS'Scrum-half'
-p1583
-aS'date unknown'
-p1584
-aS'4'
+p1589
+aS'Back-row'
+p1590
+aS'9'
+aS'2'
+aS'6'
 aS'1'
 aS'0'
 aS'0'
+aS'date unknown'
+p1591
 aS'g'
 aS'n'
 aS'i'
-aa(lp1585
-S'Liueli Fusimalohi'
-p1586
+aa(lp1592
+S'Chris Manu'
+p1593
 aS'1987'
-p1587
+p1594
+aS'Scrum-half'
+p1595
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1596
+aS'g'
+aS'n'
+aS'i'
+aa(lp1597
+S'Liueli Fusimalohi'
+p1598
+aS'1987'
+p1599
 aS'Fullback'
-p1588
-aS'circa 1966'
-p1589
+p1600
 aS'5'
 aS'0'
+aS'4'
+aS'1'
 aS'0'
 aS'0'
+aS'circa 1966'
+p1601
 aVPerú
-p1590
+p1602
 aVTacna
-p1591
+p1603
 aVCandarave
-p1592
-aa(lp1593
+p1604
+aa(lp1605
 S'Tevita Hafoka'
-p1594
+p1606
 aS'1987'
-p1595
+p1607
 aS'Lock'
-p1596
-aS'date unknown'
-p1597
+p1608
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1609
 aS'g'
 aS'n'
 aS'i'
-aa(lp1598
+aa(lp1610
 S'Kolona Latu'
-p1599
+p1611
 aS'1987'
-p1600
+p1612
 aS''
-aS'date unknown'
-p1601
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p1613
 aS'g'
 aS'n'
 aS'i'
-aa(lp1602
+aa(lp1614
 S"Fa'onelua Fakaua"
-p1603
+p1615
 aS'1988'
-p1604
+p1616
 aS'Fly-half'
-p1605
-aS'date unknown'
-p1606
+p1617
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1618
 aS'g'
 aS'n'
 aS'i'
-aa(lp1607
+aa(lp1619
 S'Kuli Faletau'
-p1608
+p1620
 aS'1988'
-p1609
+p1621
 aS'Lock'
-p1610
-aS'1963'
-p1611
+p1622
 aS'20'
-p1612
+p1623
 aS'7'
+aS'12'
+p1624
+aS'1'
 aS'2'
 aS'9'
-aVÖsterreich
-p1613
-aV8362
-p1614
-aVSteiermark
-p1615
-aa(lp1616
-S'Fatai Ika'
-p1617
-aS'1988'
-p1618
-aS'Centre'
-p1619
-aS'date unknown'
-p1620
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1621
-S'Maliepo Toma'
-p1622
-aS'1988'
-p1623
-aS'No. 8'
-p1624
-aS'date unknown'
+aS'1963'
 p1625
+aVÖsterreich
+p1626
+aV8362
+p1627
+aVSteiermark
+p1628
+aa(lp1629
+S'Fatai Ika'
+p1630
+aS'1988'
+p1631
+aS'Centre'
+p1632
+aS'6'
+aS'1'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'date unknown'
+p1633
+aS'g'
+aS'n'
+aS'i'
+aa(lp1634
+S'Maliepo Toma'
+p1635
+aS'1988'
+p1636
+aS'No. 8'
+p1637
+aS'6'
+aS'0'
 aS'6'
 aS'0'
 aS'1'
 aS'4'
+aS'date unknown'
+p1638
 aS'g'
 aS'n'
 aS'i'
-aa(lp1626
+aa(lp1639
 S'Soane Finau'
-p1627
+p1640
 aS'1988'
-p1628
+p1641
 aS'Prop'
-p1629
-aS'date unknown'
-p1630
+p1642
 aS'8'
 aS'2'
+aS'6'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1643
 aS'g'
 aS'n'
 aS'i'
-aa(lp1631
+aa(lp1644
 S'Taitusi Halasika'
-p1632
+p1645
 aS'1988'
-p1633
+p1646
 aS'Prop'
-p1634
-aS'date unknown'
-p1635
+p1647
 aS'2'
 aS'0'
 aS'1'
+aS'1'
+aS'1'
 aS'4'
+aS'date unknown'
+p1648
 aS'g'
 aS'n'
 aS'i'
-aa(lp1636
+aa(lp1649
 S'Sione Palenapa'
-p1637
+p1650
 aS'1988'
-p1638
+p1651
 aS'Lock'
-p1639
-aS'date unknown'
-p1640
+p1652
 aS'8'
 aS'2'
+aS'6'
+aS'0'
 aS'2'
 aS'10'
-p1641
-aS'g'
-aS'n'
-aS'i'
-aa(lp1642
-S"Hikifo'ou Vaingolo"
-p1643
-aS'1988'
-p1644
-aS'Centre'
-p1645
-aS'date unknown'
-p1646
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1647
-S"'Asisi Pou'uhila"
-p1648
-aS'1988'
-p1649
-aS'Centre'
-p1650
-aS'date unknown'
-p1651
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1652
-S'Takitoa Taumoepeau'
 p1653
-aS'1988'
-p1654
-aS'Wing'
-p1655
 aS'date unknown'
-p1656
-aS'1'
-aS'0'
-aS'0'
-aS'0'
+p1654
 aS'g'
 aS'n'
 aS'i'
-aa(lp1657
-S'Koloni Tuivailala'
-p1658
+aa(lp1655
+S"Hikifo'ou Vaingolo"
+p1656
 aS'1988'
-p1659
-aS'Lock'
-p1660
-aS'date unknown'
-p1661
+p1657
+aS'Centre'
+p1658
 aS'1'
 aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1659
+aS'g'
+aS'n'
+aS'i'
+aa(lp1660
+S"'Asisi Pou'uhila"
+p1661
+aS'1988'
+p1662
+aS'Centre'
+p1663
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'date unknown'
+p1664
+aS'g'
+aS'n'
+aS'i'
+aa(lp1665
+S'Takitoa Taumoepeau'
+p1666
+aS'1988'
+p1667
+aS'Wing'
+p1668
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'date unknown'
+p1669
+aS'g'
+aS'n'
+aS'i'
+aa(lp1670
+S'Koloni Tuivailala'
+p1671
+aS'1988'
+p1672
+aS'Lock'
+p1673
+aS'1'
+aS'0'
+aS'0'
+aS'1'
 aS'1'
 aS'4'
+aS'date unknown'
+p1674
 aS'g'
 aS'n'
 aS'i'
-aa(lp1662
+aa(lp1675
 S"Fe'ao Vunipola"
-p1663
+p1676
 aS'1988'
-p1664
+p1677
 aS'Hooker'
-p1665
-aS'1969'
-p1666
+p1678
 aS'34'
-p1667
+p1679
 aS'13'
-p1668
+p1680
+aS'20'
+p1681
+aS'1'
 aS'3'
 aS'15'
-p1669
-aVNederland
-p1670
-aV1969
-p1671
-aVNederland
-p1672
-aa(lp1673
-S'Koliniata Feke'
-p1674
-aS'1988'
-p1675
-aS'Wing'
-p1676
-aS'date unknown'
-p1677
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1678
-S'Samiu Mafi'
-p1679
-aS'1988'
-p1680
-aS'Wing'
-p1681
-aS'date unknown'
 p1682
+aS'1969'
+p1683
+aVNederland
+p1684
+aV1969
+p1685
+aVNederland
+p1686
+aa(lp1687
+S'Koliniata Feke'
+p1688
+aS'1988'
+p1689
+aS'Wing'
+p1690
+aS'6'
+aS'1'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'date unknown'
+p1691
+aS'g'
+aS'n'
+aS'i'
+aa(lp1692
+S'Samiu Mafi'
+p1693
+aS'1988'
+p1694
+aS'Wing'
+p1695
 aS'6'
 aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1683
-S'Tinitale Makalea'
-p1684
-aS'1988'
-p1685
-aS'No. 8'
-p1686
-aS'1968'
-p1687
-aS'1'
+aS'4'
 aS'0'
 aS'0'
 aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1688
-aV\u0421\u041a\u0424\u041e
-p1689
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1690
-aa(lp1691
-S'Liueli Susimalofi'
-p1692
-aS'1989'
-p1693
-aS''
 aS'date unknown'
-p1694
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1695
-S'Moimoi Halatanu'
 p1696
-aS'1989'
-p1697
-aS'Fullback'
-p1698
-aS'date unknown'
-p1699
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1700
-S'Feao Filikitonga'
+aa(lp1697
+S'Tinitale Makalea'
+p1698
+aS'1988'
+p1699
+aS'No. 8'
+p1700
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1968'
 p1701
-aS'1990'
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p1702
-aS'Prop'
+aV\u0421\u041a\u0424\u041e
 p1703
-aS'date unknown'
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p1704
+aa(lp1705
+S'Liueli Susimalofi'
+p1706
+aS'1989'
+p1707
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1708
+aS'g'
+aS'n'
+aS'i'
+aa(lp1709
+S'Moimoi Halatanu'
+p1710
+aS'1989'
+p1711
+aS'Fullback'
+p1712
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1713
+aS'g'
+aS'n'
+aS'i'
+aa(lp1714
+S'Feao Filikitonga'
+p1715
+aS'1990'
+p1716
+aS'Prop'
+p1717
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1718
 aS'g'
 aS'n'
 aS'i'
-aa(lp1705
+aa(lp1719
 S'Isi Tapueluelu'
-p1706
+p1720
 aS'1990'
-p1707
+p1721
 aS'Fullback'
-p1708
-aS'1970'
-p1709
+p1722
 aS'13'
-p1710
+p1723
 aS'3'
+aS'10'
+p1724
+aS'0'
 aS'5'
 aS'25'
-p1711
+p1725
+aS'1970'
+p1726
 aVDanmark
-p1712
+p1727
 aV1970
-p1713
+p1728
 aVRegion Hovedstaden
-p1714
-aa(lp1715
+p1729
+aa(lp1730
 S'Ikani Taufa'
-p1716
+p1731
 aS'1990'
-p1717
+p1732
 aS'Scrum-half'
-p1718
-aS'date unknown'
-p1719
+p1733
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1734
 aS'g'
 aS'n'
 aS'i'
-aa(lp1720
+aa(lp1735
 S'Nafe Tufui'
-p1721
+p1736
 aS'1990'
-p1722
+p1737
 aS'Scrum-half'
-p1723
-aS'date unknown'
-p1724
+p1738
 aS'8'
 aS'3'
+aS'5'
+aS'0'
 aS'0'
 aS'12'
-p1725
+p1739
+aS'date unknown'
+p1740
 aS'g'
 aS'n'
 aS'i'
-aa(lp1726
+aa(lp1741
 S'Elisi Vunipola'
-p1727
+p1742
 aS'1990'
-p1728
+p1743
 aS'Fly-half'
-p1729
-aS'1972'
-p1730
+p1744
 aS'41'
-p1731
+p1745
 aS'15'
-p1732
+p1746
+aS'26'
+p1747
+aS'0'
 aS'8'
 aS'50'
-p1733
+p1748
+aS'1972'
+p1749
 aVDanmark
-p1734
+p1750
 aV1972
-p1735
+p1751
 aVRegion Hovedstaden
-p1736
-aa(lp1737
+p1752
+aa(lp1753
 S'Tevita Lavaki'
-p1738
+p1754
 aS'1990'
-p1739
+p1755
 aS'Prop'
-p1740
-aS'date unknown'
-p1741
+p1756
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1757
 aS'g'
 aS'n'
 aS'i'
-aa(lp1742
+aa(lp1758
 S"Amanaki Vaha'akolo"
-p1743
+p1759
 aS'1990'
-p1744
+p1760
 aS'Centre'
-p1745
-aS'date unknown'
-p1746
+p1761
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1747
-S'Fololisi Masila'
-p1748
-aS'1990'
-p1749
-aS'Hooker'
-p1750
-aS'date unknown'
-p1751
-aS'11'
-p1752
-aS'0'
-aS'3'
-aS'14'
-p1753
-aS'g'
-aS'n'
-aS'i'
-aa(lp1754
-S'Peniola Ahofono'
-p1755
-aS'1990'
-p1756
-aS'Scrum-half'
-p1757
-aS'date unknown'
-p1758
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1762
 aS'g'
 aS'n'
 aS'i'
-aa(lp1759
-S'Vaea Anitoni'
-p1760
-aS'1990'
-p1761
-aS'Wing'
-p1762
-aS'1970'
-p1763
-aS'47'
+aa(lp1763
+S'Fololisi Masila'
 p1764
-aS'14'
+aS'1990'
 p1765
-aS'26'
+aS'Hooker'
 p1766
-aS'130'
+aS'11'
 p1767
-aVDanmark
+aS'0'
+aS'11'
 p1768
-aV1970
+aS'0'
+aS'3'
+aS'14'
 p1769
-aVRegion Hovedstaden
+aS'date unknown'
 p1770
+aS'g'
+aS'n'
+aS'i'
 aa(lp1771
-S'Feleti Faotusa'
+S'Peniola Ahofono'
 p1772
 aS'1990'
 p1773
-aS'Prop'
+aS'Scrum-half'
 p1774
-aS'date unknown'
-p1775
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1775
 aS'g'
 aS'n'
 aS'i'
 aa(lp1776
-S'Takau Lutua'
+S'Vaea Anitoni'
 p1777
 aS'1990'
 p1778
-aS'Prop'
+aS'Wing'
 p1779
-aS'date unknown'
+aS'47'
 p1780
+aS'14'
+p1781
+aS'33'
+p1782
+aS'0'
+aS'26'
+p1783
+aS'130'
+p1784
+aS'1970'
+p1785
+aVDanmark
+p1786
+aV1970
+p1787
+aVRegion Hovedstaden
+p1788
+aa(lp1789
+S'Feleti Faotusa'
+p1790
+aS'1990'
+p1791
+aS'Prop'
+p1792
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1793
+aS'g'
+aS'n'
+aS'i'
+aa(lp1794
+S'Takau Lutua'
+p1795
+aS'1990'
+p1796
+aS'Prop'
+p1797
 aS'9'
 aS'6'
+aS'3'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1781
-S'Uafe Niuila'
-p1782
-aS'1990'
-p1783
-aS'Centre'
-p1784
+aS'0'
 aS'date unknown'
-p1785
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1786
-S'Sitiveni Pongi'
-p1787
-aS'1990'
-p1788
-aS'Flanker'
-p1789
-aS'date unknown'
-p1790
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1791
-S'Tukua Tonga'
-p1792
-aS'1990'
-p1793
-aS'Wing'
-p1794
-aS'date unknown'
-p1795
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1796
-S'Fifita Faletau'
-p1797
-aS'1991'
 p1798
-aS'Prop'
-p1799
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1799
+S'Uafe Niuila'
 p1800
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1801
-S"Leha'uli Fotu"
+aS'1990'
+p1801
+aS'Centre'
 p1802
-aS'1991'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1803
-aS'Fullback'
-p1804
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1804
+S'Sitiveni Pongi'
 p1805
-aS'5'
-aS'2'
-aS'0'
-aS'2'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1806
-S'Okalani Kanatea'
+aS'1990'
+p1806
+aS'Flanker'
 p1807
-aS'1991'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1808
-aS'Fly-half'
-p1809
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1809
+S'Tukua Tonga'
 p1810
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1811
-S'Lopeti Samiu'
+aS'1990'
+p1811
+aS'Wing'
 p1812
-aS'1991'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1813
-aS'Prop'
-p1814
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aa(lp1814
+S'Fifita Faletau'
 p1815
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1816
-S'Sione Vaeno'
+aS'1991'
+p1816
+aS'Prop'
 p1817
-aS'1991'
-p1818
-aS'Wing'
-p1819
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
+p1818
+aS'g'
+aS'n'
+aS'i'
+aa(lp1819
+S"Leha'uli Fotu"
 p1820
+aS'1991'
+p1821
+aS'Fullback'
+p1822
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'date unknown'
+p1823
+aS'g'
+aS'n'
+aS'i'
+aa(lp1824
+S'Okalani Kanatea'
+p1825
+aS'1991'
+p1826
+aS'Fly-half'
+p1827
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1821
-S"Tevita Va'enuku"
-p1822
-aS'1991'
-p1823
-aS'Wing'
-p1824
 aS'date unknown'
-p1825
-aS'15'
-p1826
-aS'4'
-aS'5'
-aS'24'
-p1827
+p1828
 aS'g'
 aS'n'
 aS'i'
-aa(lp1828
-S'Soane Hiko'
-p1829
-aS'1991'
+aa(lp1829
+S'Lopeti Samiu'
 p1830
-aS'Wing'
+aS'1991'
 p1831
-aS'date unknown'
+aS'Prop'
 p1832
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1833
 aS'g'
 aS'n'
 aS'i'
-aa(lp1833
-S'Alatini Saulala'
-p1834
-aS'1991'
+aa(lp1834
+S'Sione Vaeno'
 p1835
-aS'Centre'
+aS'1991'
 p1836
-aS'1968'
+aS'Wing'
 p1837
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1838
+aS'g'
+aS'n'
+aS'i'
+aa(lp1839
+S"Tevita Va'enuku"
+p1840
+aS'1991'
+p1841
+aS'Wing'
+p1842
+aS'15'
+p1843
+aS'4'
+aS'11'
+p1844
+aS'0'
+aS'5'
+aS'24'
+p1845
+aS'date unknown'
+p1846
+aS'g'
+aS'n'
+aS'i'
+aa(lp1847
+S'Soane Hiko'
+p1848
+aS'1991'
+p1849
+aS'Wing'
+p1850
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1851
+aS'g'
+aS'n'
+aS'i'
+aa(lp1852
+S'Alatini Saulala'
+p1853
+aS'1991'
+p1854
+aS'Centre'
+p1855
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1838
-aV\u0421\u041a\u0424\u041e
-p1839
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1840
-aa(lp1841
-S'Fatui Lagilagi'
-p1842
-aS'1991'
-p1843
-aS'Prop'
-p1844
-aS'date unknown'
-p1845
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1846
-S'Huihahau Nisa'
-p1847
-aS'1991'
-p1848
-aS'Fly-half'
-p1849
-aS'date unknown'
-p1850
-aS'3'
-aS'1'
-aS'0'
-aS'6'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1851
-S'Semi Taupeaafe'
-p1852
-aS'1991'
-p1853
-aS'Wing, Centre'
-p1854
-aS"Nuku'alofa"
-p1855
-aS'15'
+aS'1968'
 p1856
-aS'4'
-aS'0'
-aS'0'
-aVTonga
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p1857
-aVTongatapu
+aV\u0421\u041a\u0424\u041e
 p1858
-aVVahe Kolofo'ou
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p1859
 aa(lp1860
-S"Pelimani Fisi'iahi"
+S'Fatui Lagilagi'
 p1861
-aS'1992'
+aS'1991'
 p1862
-aS'Lock'
+aS'Prop'
 p1863
-aS'date unknown'
-p1864
 aS'1'
 aS'0'
 aS'1'
-aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1864
 aS'g'
 aS'n'
 aS'i'
 aa(lp1865
-S'Rudi Kapeli'
+S'Huihahau Nisa'
 p1866
-aS'1992'
+aS'1991'
 p1867
-aS'Hooker'
-p1868
-aS'1957'
-p1869
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p1870
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p1871
-aVDaïra Amoucha
-p1872
-aa(lp1873
-S'Dave Latailakepa'
-p1874
-aS'1992'
-p1875
-aS'No. 8'
-p1876
-aS'date unknown'
-p1877
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1878
-S'Holani Pohiva'
-p1879
-aS'1992'
-p1880
-aS'No. 8'
-p1881
-aS'1972'
-p1882
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVDanmark
-p1883
-aV1972
-p1884
-aVRegion Hovedstaden
-p1885
-aa(lp1886
-S'Chris Schaumkel'
-p1887
-aS'1992'
-p1888
 aS'Fly-half'
-p1889
-aS'date unknown'
-p1890
-aS'4'
-aS'1'
-aS'0'
-aS'8'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1891
-S"Isi Tu'ivai"
-p1892
-aS'1992'
-p1893
-aS'Wing'
-p1894
-aS'1970'
-p1895
-aS'15'
-p1896
-aS'6'
-aS'6'
-aS'38'
-p1897
-aVDanmark
-p1898
-aV1970
-p1899
-aVRegion Hovedstaden
-p1900
-aa(lp1901
-S'Mistana Vea'
-p1902
-aS'1992'
-p1903
-aS'Wing'
-p1904
-aS'date unknown'
-p1905
-aS'2'
-aS'1'
-aS'0'
+p1868
 aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'6'
+aS'date unknown'
+p1869
 aS'g'
 aS'n'
 aS'i'
+aa(lp1870
+S'Semi Taupeaafe'
+p1871
+aS'1991'
+p1872
+aS'Wing, Centre'
+p1873
+aS'15'
+p1874
+aS'4'
+aS'11'
+p1875
+aS'0'
+aS'0'
+aS'0'
+aS"Nuku'alofa"
+p1876
+aVTonga
+p1877
+aVTongatapu
+p1878
+aVVahe Kolofo'ou
+p1879
+aa(lp1880
+S"Pelimani Fisi'iahi"
+p1881
+aS'1992'
+p1882
+aS'Lock'
+p1883
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'date unknown'
+p1884
+aS'g'
+aS'n'
+aS'i'
+aa(lp1885
+S'Rudi Kapeli'
+p1886
+aS'1992'
+p1887
+aS'Hooker'
+p1888
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1957'
+p1889
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p1890
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p1891
+aVDaïra Amoucha
+p1892
+aa(lp1893
+S'Dave Latailakepa'
+p1894
+aS'1992'
+p1895
+aS'No. 8'
+p1896
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1897
+aS'g'
+aS'n'
+aS'i'
+aa(lp1898
+S'Holani Pohiva'
+p1899
+aS'1992'
+p1900
+aS'No. 8'
+p1901
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'1972'
+p1902
+aVDanmark
+p1903
+aV1972
+p1904
+aVRegion Hovedstaden
+p1905
 aa(lp1906
-S'Tasi Vikilani'
+S'Chris Schaumkel'
 p1907
 aS'1992'
 p1908
-aS'No. 8'
+aS'Fly-half'
 p1909
-aS'1965'
-p1910
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
-aVDanmark
-p1911
-aV1965
+aS'8'
+aS'date unknown'
+p1910
+aS'g'
+aS'n'
+aS'i'
+aa(lp1911
+S"Isi Tu'ivai"
 p1912
-aVRegion Hovedstaden
+aS'1992'
 p1913
-aa(lp1914
-S'Isi Fatani'
-p1915
-aS'1992'
-p1916
-aS'Lock'
-p1917
-aS"Nuku'alofa"
-p1918
-aS'25'
-p1919
-aS'11'
-p1920
-aS'5'
-aS'25'
-p1921
-aVTonga
-p1922
-aVTongatapu
-p1923
-aVVahe Kolofo'ou
-p1924
-aa(lp1925
-S'Siaosi Latu'
-p1926
-aS'1992'
-p1927
-aS'Prop'
-p1928
-aS'date unknown'
-p1929
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1930
-S"Tevita Pau'u"
-p1931
-aS'1992'
-p1932
 aS'Wing'
-p1933
-aS'date unknown'
-p1934
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1935
-S'Tavake Tuineau'
-p1936
-aS'1992'
-p1937
-aS'Wing'
-p1938
-aS'date unknown'
-p1939
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1940
-S'Ipolito Fenukitau'
-p1941
-aS'1993'
-p1942
-aS'Flanker'
-p1943
-aS'1972'
-p1944
-aS'18'
-p1945
-aS'5'
-aS'3'
+p1914
 aS'15'
-p1946
+p1915
+aS'6'
+aS'9'
+aS'0'
+aS'6'
+aS'38'
+p1916
+aS'1970'
+p1917
 aVDanmark
-p1947
-aV1972
-p1948
+p1918
+aV1970
+p1919
 aVRegion Hovedstaden
-p1949
-aa(lp1950
-S'Samisoni Lolo'
-p1951
-aS'1993'
-p1952
-aS'Flanker'
-p1953
+p1920
+aa(lp1921
+S'Mistana Vea'
+p1922
+aS'1992'
+p1923
+aS'Wing'
+p1924
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'3'
 aS'date unknown'
+p1925
+aS'g'
+aS'n'
+aS'i'
+aa(lp1926
+S'Tasi Vikilani'
+p1927
+aS'1992'
+p1928
+aS'No. 8'
+p1929
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1965'
+p1930
+aVDanmark
+p1931
+aV1965
+p1932
+aVRegion Hovedstaden
+p1933
+aa(lp1934
+S'Isi Fatani'
+p1935
+aS'1992'
+p1936
+aS'Lock'
+p1937
+aS'25'
+p1938
+aS'11'
+p1939
+aS'13'
+p1940
+aS'1'
+aS'5'
+aS'25'
+p1941
+aS"Nuku'alofa"
+p1942
+aVTonga
+p1943
+aVTongatapu
+p1944
+aVVahe Kolofo'ou
+p1945
+aa(lp1946
+S'Siaosi Latu'
+p1947
+aS'1992'
+p1948
+aS'Prop'
+p1949
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1950
+aS'g'
+aS'n'
+aS'i'
+aa(lp1951
+S"Tevita Pau'u"
+p1952
+aS'1992'
+p1953
+aS'Wing'
 p1954
 aS'1'
+aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p1955
 aS'g'
 aS'n'
 aS'i'
-aa(lp1955
-S'Feleti Mahoni'
-p1956
-aS'1993'
+aa(lp1956
+S'Tavake Tuineau'
 p1957
-aS'Flanker'
+aS'1992'
 p1958
-aS'Maufanga'
+aS'Wing'
 p1959
-aS'13'
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1960
+aS'g'
+aS'n'
+aS'i'
+aa(lp1961
+S'Ipolito Fenukitau'
+p1962
+aS'1993'
+p1963
+aS'Flanker'
+p1964
+aS'18'
+p1965
 aS'5'
+aS'13'
+p1966
+aS'0'
 aS'3'
 aS'15'
-p1961
-aVTonga
-p1962
-aVTongatapu
-p1963
-aVVahe Kolofo'ou
-p1964
-aa(lp1965
-S'Valita Moa'
-p1966
-aS'1993'
 p1967
-aS'Prop'
+aS'1972'
 p1968
-aS'date unknown'
+aVDanmark
 p1969
+aV1972
+p1970
+aVRegion Hovedstaden
+p1971
+aa(lp1972
+S'Samisoni Lolo'
+p1973
+aS'1993'
+p1974
+aS'Flanker'
+p1975
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1976
+aS'g'
+aS'n'
+aS'i'
+aa(lp1977
+S'Feleti Mahoni'
+p1978
+aS'1993'
+p1979
+aS'Flanker'
+p1980
+aS'13'
+p1981
+aS'5'
+aS'8'
+aS'0'
+aS'3'
+aS'15'
+p1982
+aS'Maufanga'
+p1983
+aVTonga
+p1984
+aVTongatapu
+p1985
+aVVahe Kolofo'ou
+p1986
+aa(lp1987
+S'Valita Moa'
+p1988
+aS'1993'
+p1989
+aS'Prop'
+p1990
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1991
 aS'g'
 aS'n'
 aS'i'
-aa(lp1970
+aa(lp1992
 S'Edwin Talakai'
-p1971
+p1993
 aS'1993'
-p1972
+p1994
 aS'Prop'
-p1973
-aS'1971'
-p1974
+p1995
 aS'8'
 aS'3'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1975
-aV\u0421\u041a\u0424\u041e
-p1976
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1977
-aa(lp1978
-S'Pauliasi Vakamalolo'
-p1979
-aS'1993'
-p1980
-aS'Centre'
-p1981
-aS'date unknown'
-p1982
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1983
-S'Martin Manukia'
-p1984
-aS'1993'
-p1985
-aS'No. 8'
-p1986
-aS'date unknown'
-p1987
-aS'6'
-aS'2'
-aS'1'
 aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1988
-S'Feleti Fakaongo'
-p1989
-aS'1993'
-p1990
-aS'Lock, Flanker'
-p1991
-aS'1970'
-p1992
-aS'14'
-p1993
-aS'6'
 aS'0'
 aS'0'
-aVDanmark
-p1994
-aV1970
-p1995
-aVRegion Hovedstaden
+aS'0'
+aS'1971'
 p1996
-aa(lp1997
-S'Manu Lavaka'
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p1997
+aV\u0421\u041a\u0424\u041e
 p1998
-aS'1993'
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p1999
-aS'Centre'
-p2000
-aS'date unknown'
+aa(lp2000
+S'Pauliasi Vakamalolo'
 p2001
-aS'4'
+aS'1993'
+p2002
+aS'Centre'
+p2003
 aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2004
+aS'g'
+aS'n'
+aS'i'
+aa(lp2005
+S'Martin Manukia'
+p2006
+aS'1993'
+p2007
+aS'No. 8'
+p2008
+aS'6'
+aS'2'
+aS'4'
+aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p2009
 aS'g'
 aS'n'
 aS'i'
-aa(lp2002
-S'A. Tulikaki'
-p2003
+aa(lp2010
+S'Feleti Fakaongo'
+p2011
 aS'1993'
-p2004
-aS'Scrum-half'
-p2005
+p2012
+aS'Lock, Flanker'
+p2013
+aS'14'
+p2014
+aS'6'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'1970'
+p2015
+aVDanmark
+p2016
+aV1970
+p2017
+aVRegion Hovedstaden
+p2018
+aa(lp2019
+S'Manu Lavaka'
+p2020
+aS'1993'
+p2021
+aS'Centre'
+p2022
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'1'
+aS'5'
 aS'date unknown'
-p2006
+p2023
+aS'g'
+aS'n'
+aS'i'
+aa(lp2024
+S'A. Tulikaki'
+p2025
+aS'1993'
+p2026
+aS'Scrum-half'
+p2027
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p2028
 aS'g'
 aS'n'
 aS'i'
-aa(lp2007
+aa(lp2029
 S'Afu Uasi'
-p2008
+p2030
 aS'1993'
-p2009
+p2031
 aS'Wing'
-p2010
-aS'date unknown'
-p2011
+p2032
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2012
-S"Finau Ma'afu"
-p2013
-aS'1993'
-p2014
-aS'Wing'
-p2015
-aS'circa 1954'
-p2016
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVPerú
-p2017
-aVTacna
-p2018
-aVCandarave
-p2019
-aa(lp2020
-S'Semisi Tongia'
-p2021
-aS'1993'
-p2022
-aS'Hooker'
-p2023
 aS'date unknown'
-p2024
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p2033
 aS'g'
 aS'n'
 aS'i'
-aa(lp2025
-S'Falamani Mafi'
-p2026
+aa(lp2034
+S"Finau Ma'afu"
+p2035
 aS'1993'
-p2027
+p2036
+aS'Wing'
+p2037
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1954'
+p2038
+aVPerú
+p2039
+aVTacna
+p2040
+aVCandarave
+p2041
+aa(lp2042
+S'Semisi Tongia'
+p2043
+aS'1993'
+p2044
+aS'Hooker'
+p2045
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2046
+aS'g'
+aS'n'
+aS'i'
+aa(lp2047
+S'Falamani Mafi'
+p2048
+aS'1993'
+p2049
 aS'Lock'
-p2028
-aS'Kanokupolu'
-p2029
+p2050
 aS'22'
-p2030
+p2051
 aS'8'
+aS'14'
+p2052
+aS'0'
 aS'2'
 aS'10'
-p2031
+p2053
+aS'Kanokupolu'
+p2054
 aVTonga
-p2032
+p2055
 aVTongatapu
-p2033
+p2056
 aVVahe Hihifo
-p2034
-aa(lp2035
+p2057
+aa(lp2058
 S'Alaska Taufa'
-p2036
+p2059
 aS'1993'
-p2037
+p2060
 aS'Wing'
-p2038
-aS'1970'
-p2039
+p2061
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'1'
 aS'5'
+aS'1970'
+p2062
 aVDanmark
-p2040
+p2063
 aV1970
-p2041
+p2064
 aVRegion Hovedstaden
-p2042
-aa(lp2043
+p2065
+aa(lp2066
 S'Taipe Vave'
-p2044
+p2067
 aS'1993'
-p2045
+p2068
 aS'Fullback'
-p2046
-aS'date unknown'
-p2047
+p2069
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'4'
+aS'date unknown'
+p2070
 aS'g'
 aS'n'
 aS'i'
-aa(lp2048
+aa(lp2071
 S"Tu'ihakavalu Kolo"
-p2049
+p2072
 aS'1993'
-p2050
+p2073
 aS'Fly-half'
-p2051
-aS'date unknown'
-p2052
+p2074
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p2075
 aS'g'
 aS'n'
 aS'i'
-aa(lp2053
+aa(lp2076
 S'Falanisi Manukia'
-p2054
+p2077
 aS'1993'
-p2055
+p2078
 aS'Fly-half'
-p2056
-aS'date unknown'
-p2057
+p2079
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'2'
 aS'10'
-p2058
+p2080
+aS'date unknown'
+p2081
 aS'g'
 aS'n'
 aS'i'
-aa(lp2059
+aa(lp2082
 S'Kolau Fokofuka'
-p2060
+p2083
 aS'1993'
-p2061
+p2084
 aS'Prop'
-p2062
-aS'date unknown'
-p2063
+p2085
 aS'8'
+aS'4'
 aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p2086
 aS'g'
 aS'n'
 aS'i'
-aa(lp2064
+aa(lp2087
 S'Sateki Tuipulotu'
-p2065
+p2088
 aS'1993'
-p2066
+p2089
 aS'Fullback'
-p2067
-aS'Auckland'
-p2068
+p2090
 aS'20'
-p2069
+p2091
 aS'9'
+aS'11'
+p2092
+aS'0'
 aS'5'
 aS'190'
-p2070
+p2093
+aS'Auckland'
+p2094
 aVNew Zealand/Aotearoa
-p2071
+p2095
 aVAuckland
-p2072
+p2096
 aS'Missing'
-p2073
-aa(lp2074
+p2097
+aa(lp2098
 S'Unaloto Fa'
-p2075
+p2099
 aS'1994'
-p2076
+p2100
 aS'Prop'
-p2077
-aS'date unknown'
-p2078
+p2101
 aS'6'
 aS'1'
+aS'5'
+aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p2102
 aS'g'
 aS'n'
 aS'i'
-aa(lp2079
+aa(lp2103
 S'Peneili Latu'
-p2080
+p2104
 aS'1994'
-p2081
+p2105
 aS'Centre'
-p2082
-aS'date unknown'
-p2083
+p2106
 aS'9'
 aS'4'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p2107
 aS'g'
 aS'n'
 aS'i'
-aa(lp2084
+aa(lp2108
 S'Valai Taumoepeau'
-p2085
+p2109
 aS'1994'
-p2086
+p2110
 aS'Flanker'
-p2087
-aS'1970'
-p2088
+p2111
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'1970'
+p2112
 aVDanmark
-p2089
+p2113
 aV1970
-p2090
+p2114
 aVRegion Hovedstaden
-p2091
-aa(lp2092
+p2115
+aa(lp2116
 S'Sam Alatini'
-p2093
+p2117
 aS'1994'
-p2094
+p2118
 aS'Centre'
-p2095
-aS'1972'
-p2096
+p2119
 aS'6'
 aS'2'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'1972'
+p2120
 aVDanmark
-p2097
+p2121
 aV1972
-p2098
+p2122
 aVRegion Hovedstaden
-p2099
-aa(lp2100
+p2123
+aa(lp2124
 S"Kati Tu'ipulotu"
-p2101
+p2125
 aS'1994'
-p2102
+p2126
 aS'Flanker'
-p2103
-aS'1967'
-p2104
+p2127
 aS'16'
-p2105
+p2128
 aS'5'
+aS'10'
+p2129
+aS'1'
 aS'1'
 aS'5'
+aS'1967'
+p2130
 aVDanmark
-p2106
+p2131
 aV1967
-p2107
+p2132
 aVRegion Hovedstaden
-p2108
-aa(lp2109
+p2133
+aa(lp2134
 S'Kilioni Tuipulotu'
-p2110
+p2135
 aS'1994'
-p2111
+p2136
 aS'No. 8'
-p2112
-aS'1971'
-p2113
+p2137
 aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'1971'
+p2138
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2114
+p2139
 aV\u0421\u041a\u0424\u041e
-p2115
+p2140
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2116
-aa(lp2117
+p2141
+aa(lp2142
 S'Jonathan Tupou'
-p2118
+p2143
 aS'1994'
-p2119
+p2144
 aS'Prop'
-p2120
+p2145
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p2121
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p2146
 aS'g'
 aS'n'
 aS'i'
-aa(lp2122
+aa(lp2147
 S'Pouvalu Latukefu'
-p2123
+p2148
 aS'1995'
-p2124
+p2149
 aS'Lock'
-p2125
-aS'date unknown'
-p2126
+p2150
 aS'8'
 aS'4'
+aS'4'
+aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p2151
 aS'g'
 aS'n'
 aS'i'
-aa(lp2127
+aa(lp2152
 S'David Manako'
-p2128
+p2153
 aS'1995'
-p2129
+p2154
 aS'Centre'
-p2130
-aS'1971'
-p2131
+p2155
 aS'4'
 aS'4'
+aS'0'
+aS'0'
 aS'3'
 aS'15'
-p2132
+p2156
+aS'1971'
+p2157
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2133
+p2158
 aV\u0421\u041a\u0424\u041e
-p2134
+p2159
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2135
-aa(lp2136
+p2160
+aa(lp2161
 S"Mana 'Otai"
-p2137
+p2162
 aS'1995'
-p2138
+p2163
 aS'No. 8'
-p2139
+p2164
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
 aS'1968'
-p2140
-aS'5'
-aS'3'
-aS'1'
-aS'5'
+p2165
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2141
+p2166
 aV\u0421\u041a\u0424\u041e
-p2142
+p2167
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2143
-aa(lp2144
+p2168
+aa(lp2169
 S'Taholo Anitoni'
-p2145
+p2170
 aS'1995'
-p2146
+p2171
 aS'Centre'
-p2147
-aS'date unknown'
-p2148
+p2172
 aS'5'
 aS'3'
+aS'2'
+aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p2173
 aS'g'
 aS'n'
 aS'i'
-aa(lp2149
+aa(lp2174
 S"Va'a Toloke"
-p2150
+p2175
 aS'1995'
-p2151
+p2176
 aS'No. 8'
-p2152
-aS'1974'
-p2153
+p2177
 aS'19'
-p2154
+p2178
 aS'9'
+aS'10'
+p2179
+aS'0'
 aS'2'
 aS'10'
-p2155
+p2180
+aS'1974'
+p2181
 aVÖsterreich
-p2156
+p2182
 aV8573
-p2157
+p2183
 aVSteiermark
-p2158
-aa(lp2159
+p2184
+aa(lp2185
 S"Saili Fe'ao"
-p2160
+p2186
 aS'1995'
-p2161
+p2187
 aS'Hooker'
-p2162
-aS'date unknown'
-p2163
+p2188
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p2189
 aS'g'
 aS'n'
 aS'i'
-aa(lp2164
-S'Willie Lose'
-p2165
-aS'1995'
-p2166
-aS'Lock'
-p2167
-aS'1967'
-p2168
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVDanmark
-p2169
-aV1967
-p2170
-aVRegion Hovedstaden
-p2171
-aa(lp2172
-S"Unuoi Va'enuku"
-p2173
-aS'1995'
-p2174
-aS'Centre'
-p2175
-aS'1976'
-p2176
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2177
-aV\u0421\u041a\u0424\u041e
-p2178
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2179
-aa(lp2180
-S'Inoke Afeaki'
-p2181
-aS'1995'
-p2182
-aS'Flanker, Lock'
-p2183
-aS'Tofoa'
-p2184
-aS'27'
-p2185
-aS'6'
-aS'3'
-aS'15'
-p2186
-aVTonga
-p2187
-aVTongatapu
-p2188
-aVVahe Kolomotu'a
-p2189
 aa(lp2190
-S"Simana Mafile'o"
+S'Willie Lose'
 p2191
 aS'1995'
 p2192
-aS'Centre'
+aS'Lock'
 p2193
-aS'1969'
-p2194
-aS'12'
-p2195
-aS'7'
 aS'3'
-aS'15'
-p2196
-aVNederland
-p2197
-aV1969
-p2198
-aVNederland
-p2199
-aa(lp2200
-S'Taipe Isitolo'
-p2201
-aS'1995'
-p2202
-aS'Fullback'
-p2203
-aS'date unknown'
-p2204
-aS'3'
+aS'1'
 aS'2'
 aS'0'
-aS'10'
+aS'0'
+aS'0'
+aS'1967'
+p2194
+aVDanmark
+p2195
+aV1967
+p2196
+aVRegion Hovedstaden
+p2197
+aa(lp2198
+S"Unuoi Va'enuku"
+p2199
+aS'1995'
+p2200
+aS'Centre'
+p2201
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1976'
+p2202
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2203
+aV\u0421\u041a\u0424\u041e
+p2204
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p2205
-aS'g'
-aS'n'
-aS'i'
 aa(lp2206
-S'Akuila Mafi'
+S'Inoke Afeaki'
 p2207
 aS'1995'
 p2208
-aS'Fly-half'
+aS'Flanker, Lock'
 p2209
-aS'date unknown'
+aS'27'
 p2210
-aS'1'
+aS'6'
+aS'21'
+p2211
+aS'0'
+aS'3'
+aS'15'
+p2212
+aS'Tofoa'
+p2213
+aVTonga
+p2214
+aVTongatapu
+p2215
+aVVahe Kolomotu'a
+p2216
+aa(lp2217
+S"Simana Mafile'o"
+p2218
+aS'1995'
+p2219
+aS'Centre'
+p2220
+aS'12'
+p2221
+aS'7'
+aS'5'
+aS'0'
+aS'3'
+aS'15'
+p2222
+aS'1969'
+p2223
+aVNederland
+p2224
+aV1969
+p2225
+aVNederland
+p2226
+aa(lp2227
+S'Taipe Isitolo'
+p2228
+aS'1995'
+p2229
+aS'Fullback'
+p2230
+aS'3'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'10'
+p2231
+aS'date unknown'
+p2232
 aS'g'
 aS'n'
 aS'i'
-aa(lp2211
-S'Pita Alatini'
-p2212
+aa(lp2233
+S'Akuila Mafi'
+p2234
 aS'1995'
-p2213
+p2235
+aS'Fly-half'
+p2236
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2237
+aS'g'
+aS'n'
+aS'i'
+aa(lp2238
+S'Pita Alatini'
+p2239
+aS'1995'
+p2240
 aS'Centre'
-p2214
-aS"Nuku'alofa"
-p2215
+p2241
 aS'18'
-p2216
+p2242
 aS'13'
-p2217
+p2243
+aS'5'
+aS'0'
 aS'6'
 aS'30'
-p2218
-aVTonga
-p2219
-aVTongatapu
-p2220
-aVVahe Kolofo'ou
-p2221
-aa(lp2222
-S'Pita Tanginoa'
-p2223
-aS'1995'
-p2224
-aS'Centre'
-p2225
-aS"Vava'u"
-p2226
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aVTonga
-p2227
-aVVava\u02bbu
-p2228
-ag2073
-aa(lp2229
-S'Paula Tuitavake'
-p2230
-aS'1995'
-p2231
-aS'Centre'
-p2232
-aS'date unknown'
-p2233
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2234
-S'Tevita Asi'
-p2235
-aS'1996'
-p2236
-aS'Wing'
-p2237
-aS'date unknown'
-p2238
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2239
-S'Paula Kalanivalu'
-p2240
-aS'1996'
-p2241
-aS'Centre'
-p2242
-aS'date unknown'
-p2243
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2244
-S'Lani Katoa'
-p2245
-aS'1996'
-p2246
-aS'Flanker'
-p2247
-aS'date unknown'
-p2248
-aS'8'
-aS'3'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2249
-S'Hemani Lavaka'
-p2250
-aS'1996'
-p2251
-aS'Prop'
-p2252
-aS'1969'
-p2253
-aS'15'
-p2254
-aS'2'
-aS'2'
-aS'10'
-p2255
-aVNederland
-p2256
-aV1969
-p2257
-aVNederland
-p2258
-aa(lp2259
-S'Etu Manu'
-p2260
-aS'1996'
-p2261
-aS'Centre'
-p2262
-aS'1967'
-p2263
-aS'6'
-aS'2'
-aS'1'
-aS'5'
-aVDanmark
-p2264
-aV1967
-p2265
-aVRegion Hovedstaden
-p2266
-aa(lp2267
-S"Ngalu Taufo'ou"
-p2268
-aS'1996'
-p2269
-aS'Prop'
-p2270
-aS"Ha'apai"
-p2271
-aS'23'
-p2272
-aS'10'
-p2273
-aS'3'
-aS'15'
-p2274
-aVTonga
-p2275
-aVTongatapu
-p2276
-aVHunga Ha\u02bbapai
-p2277
-aa(lp2278
-S'Josh Taumalolo'
-p2279
-aS'1996'
-p2280
-aS'Centre'
-p2281
+p2244
 aS"Nuku'alofa"
-p2282
-aS'26'
-p2283
-aS'12'
-p2284
-aS'14'
-p2285
-aS'118'
-p2286
+p2245
 aVTonga
-p2287
+p2246
 aVTongatapu
-p2288
+p2247
 aVVahe Kolofo'ou
-p2289
-aa(lp2290
-S'Maikolo Kaihea'
-p2291
-aS'1996'
-p2292
-aS'Hooker'
-p2293
-aS'1972'
-p2294
-aS'7'
+p2248
+aa(lp2249
+S'Pita Tanginoa'
+p2250
+aS'1995'
+p2251
+aS'Centre'
+p2252
+aS'5'
+aS'1'
 aS'4'
 aS'0'
 aS'0'
-aVDanmark
-p2295
-aV1972
-p2296
-aVRegion Hovedstaden
-p2297
-aa(lp2298
-S'Fepikou Tatafu'
-p2299
-aS'1996'
-p2300
-aS'Wing'
-p2301
-aS'1975'
-p2302
-aS'23'
-p2303
-aS'10'
-p2304
-aS'10'
-p2305
-aS'50'
-p2306
-aVÖsterreich
-p2307
-aV8271
-p2308
-aVSteiermark
-p2309
-aa(lp2310
-S'Gustavo Tonga'
-p2311
-aS'1996'
-p2312
-aS'Fullback'
-p2313
-aS'1973'
-p2314
-aS'13'
-p2315
-aS'7'
+aS'0'
+aS"Vava'u"
+p2253
+aVTonga
+p2254
+aVVava\u02bbu
+p2255
+ag2097
+aa(lp2256
+S'Paula Tuitavake'
+p2257
+aS'1995'
+p2258
+aS'Centre'
+p2259
 aS'1'
-aS'114'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2260
+aS'g'
+aS'n'
+aS'i'
+aa(lp2261
+S'Tevita Asi'
+p2262
+aS'1996'
+p2263
+aS'Wing'
+p2264
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2265
+aS'g'
+aS'n'
+aS'i'
+aa(lp2266
+S'Paula Kalanivalu'
+p2267
+aS'1996'
+p2268
+aS'Centre'
+p2269
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2270
+aS'g'
+aS'n'
+aS'i'
+aa(lp2271
+S'Lani Katoa'
+p2272
+aS'1996'
+p2273
+aS'Flanker'
+p2274
+aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2275
+aS'g'
+aS'n'
+aS'i'
+aa(lp2276
+S'Hemani Lavaka'
+p2277
+aS'1996'
+p2278
+aS'Prop'
+p2279
+aS'15'
+p2280
+aS'2'
+aS'13'
+p2281
+aS'0'
+aS'2'
+aS'10'
+p2282
+aS'1969'
+p2283
+aVNederland
+p2284
+aV1969
+p2285
+aVNederland
+p2286
+aa(lp2287
+S'Etu Manu'
+p2288
+aS'1996'
+p2289
+aS'Centre'
+p2290
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'1'
+aS'5'
+aS'1967'
+p2291
+aVDanmark
+p2292
+aV1967
+p2293
+aVRegion Hovedstaden
+p2294
+aa(lp2295
+S"Ngalu Taufo'ou"
+p2296
+aS'1996'
+p2297
+aS'Prop'
+p2298
+aS'23'
+p2299
+aS'10'
+p2300
+aS'13'
+p2301
+aS'0'
+aS'3'
+aS'15'
+p2302
+aS"Ha'apai"
+p2303
+aVTonga
+p2304
+aVTongatapu
+p2305
+aVHunga Ha\u02bbapai
+p2306
+aa(lp2307
+S'Josh Taumalolo'
+p2308
+aS'1996'
+p2309
+aS'Centre'
+p2310
+aS'26'
+p2311
+aS'12'
+p2312
+aS'13'
+p2313
+aS'1'
+aS'14'
+p2314
+aS'118'
+p2315
+aS"Nuku'alofa"
 p2316
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aVTonga
 p2317
-aV\u0421\u041a\u0424\u041e
+aVTongatapu
 p2318
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aVVahe Kolofo'ou
 p2319
 aa(lp2320
-S"Ma'ama Molitika"
+S'Maikolo Kaihea'
 p2321
 aS'1996'
 p2322
-aS'Back-row'
+aS'Hooker'
 p2323
-aS"Ha'apai"
-p2324
-aS'21'
-p2325
 aS'7'
+aS'4'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'1972'
+p2324
+aVDanmark
+p2325
+aV1972
+p2326
+aVRegion Hovedstaden
+p2327
+aa(lp2328
+S'Fepikou Tatafu'
+p2329
+aS'1996'
+p2330
+aS'Wing'
+p2331
+aS'23'
+p2332
+aS'10'
+p2333
+aS'12'
+p2334
+aS'1'
+aS'10'
+p2335
+aS'50'
+p2336
+aS'1975'
+p2337
+aVÖsterreich
+p2338
+aV8271
+p2339
+aVSteiermark
+p2340
+aa(lp2341
+S'Gustavo Tonga'
+p2342
+aS'1996'
+p2343
+aS'Fullback'
+p2344
+aS'13'
+p2345
+aS'7'
+aS'6'
+aS'0'
+aS'1'
+aS'114'
+p2346
+aS'1973'
+p2347
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2348
+aV\u0421\u041a\u0424\u041e
+p2349
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2350
+aa(lp2351
+S"Ma'ama Molitika"
+p2352
+aS'1996'
+p2353
+aS'Back-row'
+p2354
+aS'21'
+p2355
+aS'7'
+aS'14'
+p2356
+aS'0'
 aS'1'
 aS'5'
+aS"Ha'apai"
+p2357
 aVTonga
-p2326
+p2358
 aVTongatapu
-p2327
+p2359
 aVHunga Ha\u02bbapai
-p2328
-aa(lp2329
+p2360
+aa(lp2361
 S'Viliami Uhi'
-p2330
+p2362
 aS'1996'
-p2331
+p2363
 aS'Centre'
-p2332
-aS'1970'
-p2333
+p2364
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'1'
 aS'5'
+aS'1970'
+p2365
 aVDanmark
-p2334
+p2366
 aV1970
-p2335
+p2367
 aVRegion Hovedstaden
-p2336
-aa(lp2337
+p2368
+aa(lp2369
 S"Semisi Faka'osi'folau"
-p2338
+p2370
 aS'1996'
-p2339
+p2371
 aS'Centre'
-p2340
-aS'1976'
-p2341
+p2372
 aS'13'
-p2342
+p2373
 aS'4'
+aS'9'
+aS'0'
 aS'5'
 aS'25'
-p2343
+p2374
+aS'1976'
+p2375
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2344
+p2376
 aV\u0421\u041a\u0424\u041e
-p2345
+p2377
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2346
-aa(lp2347
+p2378
+aa(lp2379
 S'Damien Penesini'
-p2348
+p2380
 aS'1997'
-p2349
+p2381
 aS'Prop'
-p2350
-aS'1971'
-p2351
+p2382
 aS'6'
 aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'1971'
+p2383
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2352
+p2384
 aV\u0421\u041a\u0424\u041e
-p2353
+p2385
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2354
-aa(lp2355
+p2386
+aa(lp2387
 S'Tau Siale'
-p2356
+p2388
 aS'1997'
-p2357
+p2389
 aS'Hooker'
-p2358
-aS'1970'
-p2359
+p2390
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'1970'
+p2391
 aVDanmark
-p2360
+p2392
 aV1970
-p2361
+p2393
 aVRegion Hovedstaden
-p2362
-aa(lp2363
+p2394
+aa(lp2395
 S"Alipate Ta'ufo'ou"
-p2364
+p2396
 aS'1997'
-p2365
+p2397
 aS'Lock'
-p2366
-aS'date unknown'
-p2367
+p2398
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p2399
 aS'g'
 aS'n'
 aS'i'
-aa(lp2368
+aa(lp2400
 S'Talanoa Tohi'
-p2369
+p2401
 aS'1997'
-p2370
+p2402
 aS'Lock'
-p2371
-aS'date unknown'
-p2372
+p2403
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p2404
 aS'g'
 aS'n'
 aS'i'
-aa(lp2373
+aa(lp2405
 S'Latiume Maka'
-p2374
+p2406
 aS'1997'
-p2375
+p2407
 aS'Prop, Hooker'
-p2376
-aS'1970'
-p2377
+p2408
 aS'20'
-p2378
+p2409
 aS'9'
+aS'10'
+p2410
+aS'1'
 aS'2'
 aS'10'
-p2379
+p2411
+aS'1970'
+p2412
 aVDanmark
-p2380
+p2413
 aV1970
-p2381
+p2414
 aVRegion Hovedstaden
-p2382
-aa(lp2383
+p2415
+aa(lp2416
 S'Semi Tulikifanga'
-p2384
+p2417
 aS'1997'
-p2385
+p2418
 aS'Scrum-half'
-p2386
-aS'date unknown'
-p2387
+p2419
 aS'4'
 aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2388
-S'Dave Tiueti'
-p2389
-aS'1997'
-p2390
-aS'Centre'
-p2391
-aS'Tofoa'
-p2392
-aS'21'
-p2393
-aS'8'
-aS'6'
-aS'33'
-p2394
-aVTonga
-p2395
-aVTongatapu
-p2396
-aVVahe Kolomotu'a
-p2397
-aa(lp2398
-S'Vikilani Afeaki'
-p2399
-aS'1997'
-p2400
-aS'Fullback'
-p2401
-aS'1975'
-p2402
 aS'3'
 aS'0'
 aS'0'
 aS'0'
-aVÖsterreich
-p2403
-aV8271
-p2404
-aVSteiermark
-p2405
-aa(lp2406
-S'Johnny Ngauamo'
-p2407
-aS'1997'
-p2408
-aS'Centre'
-p2409
-aS"Nuku'alofa"
-p2410
-aS'6'
-aS'1'
-aS'1'
-aS'5'
-aVTonga
-p2411
-aVTongatapu
-p2412
-aVVahe Kolofo'ou
-p2413
-aa(lp2414
-S'David Briggs'
-p2415
-aS'1997'
-p2416
-aS'Prop'
-p2417
-aS'Auckland'
-p2418
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p2419
-aVAuckland
+aS'date unknown'
 p2420
-ag2073
+aS'g'
+aS'n'
+aS'i'
 aa(lp2421
-S'Saia Latu'
+S'Dave Tiueti'
 p2422
 aS'1997'
 p2423
-aS'Flanker'
+aS'Centre'
 p2424
-aS'1978'
+aS'21'
 p2425
+aS'8'
 aS'12'
 p2426
-aS'4'
-aS'0'
-aS'0'
-aVSvizra
+aS'1'
+aS'6'
+aS'33'
 p2427
-aVSvizzera
-p2428
-aVSuisse
-p2429
-aa(lp2430
-S"Vili Ma'asi"
-p2431
-aS'1997'
-p2432
-aS'Hooker'
-p2433
 aS'Tofoa'
-p2434
-aS'32'
-p2435
-aS'7'
-aS'3'
-aS'15'
-p2436
+p2428
 aVTonga
-p2437
+p2429
 aVTongatapu
-p2438
+p2430
 aVVahe Kolomotu'a
+p2431
+aa(lp2432
+S'Vikilani Afeaki'
+p2433
+aS'1997'
+p2434
+aS'Fullback'
+p2435
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1975'
+p2436
+aVÖsterreich
+p2437
+aV8271
+p2438
+aVSteiermark
 p2439
 aa(lp2440
-S'Tom Matakiongo'
+S'Johnny Ngauamo'
 p2441
 aS'1997'
 p2442
-aS'Flanker'
+aS'Centre'
 p2443
-aS'date unknown'
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS"Nuku'alofa"
 p2444
+aVTonga
+p2445
+aVTongatapu
+p2446
+aVVahe Kolofo'ou
+p2447
+aa(lp2448
+S'David Briggs'
+p2449
+aS'1997'
+p2450
+aS'Prop'
+p2451
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2445
-S'Sione Tuipulotu'
-p2446
-aS'1997'
-p2447
-aS'Scrum-half'
-p2448
-aS"Ha'apai"
-p2449
-aS'29'
-p2450
-aS'9'
-aS'2'
-aS'13'
-p2451
-aVTonga
+aS'Auckland'
 p2452
-aVTongatapu
+aVNew Zealand/Aotearoa
 p2453
-aVHunga Ha\u02bbapai
+aVAuckland
 p2454
+ag2097
 aa(lp2455
-S'Simon Hafoka'
+S'Saia Latu'
 p2456
 aS'1997'
 p2457
-aS'Hooker'
+aS'Flanker'
 p2458
-aS'1974'
+aS'12'
 p2459
+aS'4'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'1978'
+p2460
+aVSvizra
+p2461
+aVSvizzera
+p2462
+aVSuisse
+p2463
+aa(lp2464
+S"Vili Ma'asi"
+p2465
+aS'1997'
+p2466
+aS'Hooker'
+p2467
+aS'32'
+p2468
+aS'7'
+aS'25'
+p2469
+aS'0'
+aS'3'
+aS'15'
+p2470
+aS'Tofoa'
+p2471
+aVTonga
+p2472
+aVTongatapu
+p2473
+aVVahe Kolomotu'a
+p2474
+aa(lp2475
+S'Tom Matakiongo'
+p2476
+aS'1997'
+p2477
+aS'Flanker'
+p2478
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVÖsterreich
-p2460
-aV8573
-p2461
-aVSteiermark
-p2462
-aa(lp2463
-S'Sione Tai'
-p2464
-aS'1997'
-p2465
-aS'Fly-half'
-p2466
 aS'date unknown'
-p2467
+p2479
+aS'g'
+aS'n'
+aS'i'
+aa(lp2480
+S'Sione Tuipulotu'
+p2481
+aS'1997'
+p2482
+aS'Scrum-half'
+p2483
+aS'29'
+p2484
+aS'9'
+aS'19'
+p2485
+aS'1'
+aS'2'
+aS'13'
+p2486
+aS"Ha'apai"
+p2487
+aVTonga
+p2488
+aVTongatapu
+p2489
+aVHunga Ha\u02bbapai
+p2490
+aa(lp2491
+S'Simon Hafoka'
+p2492
+aS'1997'
+p2493
+aS'Hooker'
+p2494
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1974'
+p2495
+aVÖsterreich
+p2496
+aV8573
+p2497
+aVSteiermark
+p2498
+aa(lp2499
+S'Sione Tai'
+p2500
+aS'1997'
+p2501
+aS'Fly-half'
+p2502
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p2503
 aS'g'
 aS'n'
 aS'i'
-aa(lp2468
+aa(lp2504
 S'Salesi Finau'
-p2469
+p2505
 aS'1998'
-p2470
+p2506
 aS'Centre'
-p2471
-aS'Neiafu'
-p2472
+p2507
 aS'13'
-p2473
+p2508
 aS'4'
+aS'8'
+aS'1'
 aS'1'
 aS'5'
+aS'Neiafu'
+p2509
 aVTonga
-p2474
+p2510
 aVVava\u02bbu
-p2475
+p2511
 aVVahe Neiafu
-p2476
-aa(lp2477
+p2512
+aa(lp2513
 S'Pierre Hola'
-p2478
+p2514
 aS'1998'
-p2479
+p2515
 aS'Wing, Fly-half'
-p2480
-aS'Longolongo'
-p2481
+p2516
 aS'40'
-p2482
+p2517
 aS'13'
-p2483
+p2518
+aS'27'
+p2519
+aS'0'
 aS'11'
-p2484
+p2520
 aS'322'
-p2485
+p2521
+aS'Longolongo'
+p2522
 aVTonga
-p2486
+p2523
 aVTongatapu
-p2487
+p2524
 aVVahe Kolomotu'a
-p2488
-aa(lp2489
+p2525
+aa(lp2526
 S'Benhur Kivalu'
-p2490
+p2527
 aS'1998'
-p2491
+p2528
 aS'No. 8, Lock'
-p2492
-aS'Western Samoa'
-p2493
+p2529
 aS'39'
-p2494
+p2530
 aS'14'
-p2495
+p2531
+aS'24'
+p2532
+aS'1'
 aS'8'
 aS'40'
-p2496
+p2533
+aS'Western Samoa'
+p2534
 aVUnited States of America
-p2497
+p2535
 aV95503
-p2498
+p2536
 aVCalifornia
-p2499
-aa(lp2500
+p2537
+aa(lp2538
 S'Jonathan Koloi'
-p2501
+p2539
 aS'1998'
-p2502
+p2540
 aS'Flanker'
-p2503
-aS"Nuku'alofa"
-p2504
+p2541
 aS'15'
-p2505
+p2542
 aS'6'
+aS'9'
+aS'0'
 aS'6'
 aS'30'
-p2506
+p2543
+aS"Nuku'alofa"
+p2544
 aVTonga
-p2507
+p2545
 aVTongatapu
-p2508
+p2546
 aVVahe Kolofo'ou
-p2509
-aa(lp2510
+p2547
+aa(lp2548
 S"Tauna'holo Taufahema"
-p2511
+p2549
 aS'1998'
-p2512
+p2550
 aS'Wing'
-p2513
-aS'Nautoka'
-p2514
+p2551
 aS'17'
-p2515
+p2552
 aS'5'
+aS'11'
+p2553
+aS'1'
 aS'5'
 aS'41'
-p2516
+p2554
+aS'Nautoka'
+p2555
 aS'g'
 aS'n'
 aS'i'
-aa(lp2517
+aa(lp2556
 S'Brian Wooley'
-p2518
+p2557
 aS'1998'
-p2519
+p2558
 aS'Fly-half'
-p2520
-aS'Wellington'
-p2521
+p2559
 aS'9'
 aS'3'
-aS'0'
-aS'3'
-aVNew Zealand/Aotearoa
-p2522
-aVWellington
-p2523
-aVWellington City
-p2524
-aa(lp2525
-S'Hainga Fakatou'
-p2526
-aS'1998'
-p2527
-aS'Back-row'
-p2528
-aS"Kolofo'ou"
-p2529
 aS'5'
 aS'1'
 aS'0'
-aS'0'
-aVTonga
-p2530
-aVVava\u02bbu
-p2531
-aVVahe Neiafu
-p2532
-aa(lp2533
-S'Uiniati Moa'
-p2534
+aS'3'
+aS'Wellington'
+p2560
+aVNew Zealand/Aotearoa
+p2561
+aVWellington
+p2562
+aVWellington City
+p2563
+aa(lp2564
+S'Hainga Fakatou'
+p2565
 aS'1998'
-p2535
+p2566
+aS'Back-row'
+p2567
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS"Kolofo'ou"
+p2568
+aVTonga
+p2569
+aVVava\u02bbu
+p2570
+aVVahe Neiafu
+p2571
+aa(lp2572
+S'Uiniati Moa'
+p2573
+aS'1998'
+p2574
 aS'Prop'
-p2536
-aS'1976'
-p2537
+p2575
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'1976'
+p2576
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2538
+p2577
 aV\u0421\u041a\u0424\u041e
-p2539
+p2578
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2540
-aa(lp2541
+p2579
+aa(lp2580
 S"Ma'afu Pale"
-p2542
+p2581
 aS'1998'
-p2543
+p2582
 aS'Hooker, Prop'
-p2544
-aS'1974'
-p2545
+p2583
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'1'
 aS'5'
-aVÖsterreich
-p2546
-aV8573
-p2547
-aVSteiermark
-p2548
-aa(lp2549
-S'Matt te Pou'
-p2550
-aS'1998'
-p2551
-aS'Flanker'
-p2552
 aS'1974'
-p2553
+p2584
+aVÖsterreich
+p2585
+aV8573
+p2586
+aVSteiermark
+p2587
+aa(lp2588
+S'Matt te Pou'
+p2589
+aS'1998'
+p2590
+aS'Flanker'
+p2591
 aS'13'
-p2554
+p2592
 aS'4'
+aS'9'
+aS'0'
 aS'1'
 aS'5'
-aVÖsterreich
-p2555
-aV8573
-p2556
-aVSteiermark
-p2557
-aa(lp2558
-S'David Edwards'
-p2559
-aS'1998'
-p2560
-aS'Flanker'
-p2561
-aS'Auckland'
-p2562
-aS'10'
-p2563
-aS'4'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p2564
-aVAuckland
-p2565
-ag2073
-aa(lp2566
-S'Sililo Martens'
-p2567
-aS'1998'
-p2568
-aS'Scrum-half'
-p2569
-aS'Auckland'
-p2570
-aS'32'
-p2571
-aS'9'
-aS'3'
-aS'15'
-p2572
-aVNew Zealand/Aotearoa
-p2573
-aVAuckland
-p2574
-ag2073
-aa(lp2575
-S'Jeff Sitoa'
-p2576
-aS'1998'
-p2577
-aS'Lock'
-p2578
-aS'date unknown'
-p2579
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2580
-S'Sam Hala'
-p2581
-aS'1999'
-p2582
-aS'Wing'
-p2583
-aS'1975'
-p2584
-aS'9'
-aS'4'
-aS'4'
-aS'20'
-p2585
-aVÖsterreich
-p2586
-aV8271
-p2587
-aVSteiermark
-p2588
-aa(lp2589
-S'Puke Faletau'
-p2590
-aS'1999'
-p2591
-aS'Prop'
-p2592
-aS'Neiafu'
+aS'1974'
 p2593
-aS'9'
-aS'4'
-aS'0'
-aS'0'
-aVTonga
+aVÖsterreich
 p2594
-aVVava\u02bbu
+aV8573
 p2595
-aVVahe Neiafu
+aVSteiermark
 p2596
 aa(lp2597
-S"'Aleki Lutui"
+S'David Edwards'
 p2598
-aS'1999'
+aS'1998'
 p2599
-aS'Hooker'
-p2600
-aS'Tofoa'
-p2601
-aS'43'
-p2602
-aS'11'
-p2603
-aS'5'
-aS'25'
-p2604
-aVTonga
-p2605
-aVTongatapu
-p2606
-aVVahe Kolomotu'a
-p2607
-aa(lp2608
-S'Tevita Taumoepeau'
-p2609
-aS'1999'
-p2610
-aS'Prop'
-p2611
-aS'Haapai'
-p2612
-aS'35'
-p2613
-aS'12'
-p2614
-aS'2'
-aS'12'
-p2615
-aVTonga
-p2616
-aVTongatapu
-p2617
-aVHunga Tonga
-p2618
-aa(lp2619
-S'Sengili Tuihalamaka'
-p2620
-aS'1999'
-p2621
-aS'Wing'
-p2622
-aS'1977'
-p2623
-aS'5'
-aS'1'
-aS'1'
-aS'32'
-p2624
-aVSvizra
-p2625
-aVSvizzera
-p2626
-aVSuisse
-p2627
-aa(lp2628
-S'Keni Fisilau'
-p2629
-aS'1999'
-p2630
-aS'Centre'
-p2631
-aS'1976'
-p2632
-aS'6'
-aS'0'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2633
-aV\u0421\u041a\u0424\u041e
-p2634
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2635
-aa(lp2636
-S"Kisione Ahota'eiloa"
-p2637
-aS'1999'
-p2638
 aS'Flanker'
-p2639
-aS'1977'
-p2640
-aS'6'
-aS'2'
-aS'2'
+p2600
 aS'10'
-p2641
-aVSvizra
-p2642
-aVSvizzera
-p2643
-aVSuisse
-p2644
-aa(lp2645
-S"Ta'u Fainga'anuku"
-p2646
-aS'1999'
-p2647
-aS'Prop'
-p2648
-aS'Kiltifo Haapai'
-p2649
-aS'12'
-p2650
-aS'3'
-aS'1'
+p2601
+aS'4'
 aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2651
-S'Epi Taione'
-p2652
-aS'1999'
-p2653
-aS'Centre'
-p2654
-aS"Vauai'i"
-p2655
-aS'24'
-p2656
-aS'7'
+aS'1'
+aS'0'
+aS'0'
+aS'Auckland'
+p2602
+aVNew Zealand/Aotearoa
+p2603
+aVAuckland
+p2604
+ag2097
+aa(lp2605
+S'Sililo Martens'
+p2606
+aS'1998'
+p2607
+aS'Scrum-half'
+p2608
+aS'32'
+p2609
+aS'9'
+aS'22'
+p2610
+aS'1'
 aS'3'
 aS'15'
-p2657
-aS'g'
-aS'n'
-aS'i'
-aa(lp2658
-S"Hotili 'Asi"
-p2659
-aS'2000'
-p2660
-aS'Prop'
-p2661
-aS'date unknown'
-p2662
+p2611
+aS'Auckland'
+p2612
+aVNew Zealand/Aotearoa
+p2613
+aVAuckland
+p2614
+ag2097
+aa(lp2615
+S'Jeff Sitoa'
+p2616
+aS'1998'
+p2617
+aS'Lock'
+p2618
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p2619
 aS'g'
 aS'n'
 aS'i'
-aa(lp2663
-S"Chris Hala'ufia"
-p2664
-aS'2000'
-p2665
-aS'No. 8'
-p2666
-aS'Neiafu'
-p2667
-aS'24'
-p2668
-aS'7'
-aS'5'
-aS'25'
-p2669
-aVTonga
-p2670
-aVVava\u02bbu
-p2671
-aVVahe Neiafu
-p2672
-aa(lp2673
-S'Aisea Havili Kaufusi'
-p2674
-aS'2000'
-p2675
+aa(lp2620
+S'Sam Hala'
+p2621
+aS'1999'
+p2622
 aS'Wing'
-p2676
-aS"Ha'ateiho"
-p2677
-aS'13'
-p2678
+p2623
+aS'9'
+aS'4'
 aS'5'
+aS'0'
 aS'4'
 aS'20'
-p2679
-aVTonga
-p2680
-aVTongatapu
-p2681
-aVVahe Vaini
-p2682
-aa(lp2683
-S"Apai Kaitu'u"
-p2684
-aS'2000'
-p2685
-aS'No. 8'
-p2686
-aS'date unknown'
-p2687
+p2624
+aS'1975'
+p2625
+aVÖsterreich
+p2626
+aV8271
+p2627
+aVSteiermark
+p2628
+aa(lp2629
+S'Puke Faletau'
+p2630
+aS'1999'
+p2631
+aS'Prop'
+p2632
+aS'9'
+aS'4'
+aS'4'
 aS'1'
 aS'0'
 aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2688
-S"Epafasi Ta'ufo'ou"
-p2689
-aS'2000'
-p2690
-aS'Centre'
-p2691
-aS'date unknown'
-p2692
-aS'6'
-aS'3'
+aS'Neiafu'
+p2633
+aVTonga
+p2634
+aVVava\u02bbu
+p2635
+aVVahe Neiafu
+p2636
+aa(lp2637
+S"'Aleki Lutui"
+p2638
+aS'1999'
+p2639
+aS'Hooker'
+p2640
+aS'43'
+p2641
+aS'11'
+p2642
+aS'31'
+p2643
 aS'1'
 aS'5'
+aS'25'
+p2644
+aS'Tofoa'
+p2645
+aVTonga
+p2646
+aVTongatapu
+p2647
+aVVahe Kolomotu'a
+p2648
+aa(lp2649
+S'Tevita Taumoepeau'
+p2650
+aS'1999'
+p2651
+aS'Prop'
+p2652
+aS'35'
+p2653
+aS'12'
+p2654
+aS'23'
+p2655
+aS'0'
+aS'2'
+aS'12'
+p2656
+aS'Haapai'
+p2657
+aVTonga
+p2658
+aVTongatapu
+p2659
+aVHunga Tonga
+p2660
+aa(lp2661
+S'Sengili Tuihalamaka'
+p2662
+aS'1999'
+p2663
+aS'Wing'
+p2664
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'1'
+aS'32'
+p2665
+aS'1977'
+p2666
+aVSvizra
+p2667
+aVSvizzera
+p2668
+aVSuisse
+p2669
+aa(lp2670
+S'Keni Fisilau'
+p2671
+aS'1999'
+p2672
+aS'Centre'
+p2673
+aS'6'
+aS'0'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'1976'
+p2674
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2675
+aV\u0421\u041a\u0424\u041e
+p2676
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2677
+aa(lp2678
+S"Kisione Ahota'eiloa"
+p2679
+aS'1999'
+p2680
+aS'Flanker'
+p2681
+aS'6'
+aS'2'
+aS'3'
+aS'1'
+aS'2'
+aS'10'
+p2682
+aS'1977'
+p2683
+aVSvizra
+p2684
+aVSvizzera
+p2685
+aVSuisse
+p2686
+aa(lp2687
+S"Ta'u Fainga'anuku"
+p2688
+aS'1999'
+p2689
+aS'Prop'
+p2690
+aS'12'
+p2691
+aS'3'
+aS'8'
+aS'1'
+aS'1'
+aS'5'
+aS'Kiltifo Haapai'
+p2692
 aS'g'
 aS'n'
 aS'i'
 aa(lp2693
-S'Lotu Filipine'
+S'Epi Taione'
 p2694
-aS'2000'
+aS'1999'
 p2695
-aS'Back-row'
-p2696
-aS'1980'
-p2697
-aS'8'
-aS'4'
-aS'4'
-aS'20'
-p2698
-aVSverige
-p2699
-aVSvealand
-p2700
-aVVästmanlands län
-p2701
-aa(lp2702
-S'Fakataha Molitika'
-p2703
-aS'2000'
-p2704
-aS'Lock'
-p2705
-aS'1977'
-p2706
-aS'7'
-aS'1'
-aS'0'
-aS'0'
-aVSvizra
-p2707
-aVSvizzera
-p2708
-aVSuisse
-p2709
-aa(lp2710
-S'Sioeli Nau'
-p2711
-aS'2000'
-p2712
-aS'Scrum-half'
-p2713
-aS'1976'
-p2714
-aS'9'
-aS'3'
-aS'2'
-aS'10'
-p2715
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2716
-aV\u0421\u041a\u0424\u041e
-p2717
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2718
-aa(lp2719
-S"Movete 'Oto'ota"
-p2720
-aS'2000'
-p2721
-aS'Fly-half'
-p2722
-aS'date unknown'
-p2723
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2724
-S'Solomone Matangi'
-p2725
-aS'2000'
-p2726
-aS'Wing'
-p2727
-aS'1976'
-p2728
-aS'8'
-aS'3'
-aS'5'
-aS'25'
-p2729
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2730
-aV\u0421\u041a\u0424\u041e
-p2731
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2732
-aa(lp2733
-S'Soane Havea'
-p2734
-aS'2000'
-p2735
-aS'Fly-half'
-p2736
-aS'1981'
-p2737
-aS'28'
-p2738
-aS'11'
-p2739
-aS'0'
-aS'0'
-aVSverige
-p2740
-aVSvealand
-p2741
-aVVästmanlands län
-p2742
-aa(lp2743
-S'Henry Saafi'
-p2744
-aS'2000'
-p2745
-aS'Flanker'
-p2746
-aS'date unknown'
-p2747
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2748
-S'Loni Manako'
-p2749
-aS'2000'
-p2750
 aS'Centre'
-p2751
-aS'date unknown'
-p2752
-aS'2'
-aS'1'
+p2696
+aS'24'
+p2697
+aS'7'
+aS'17'
+p2698
 aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2753
-S'Tevita Fifita'
-p2754
-aS'2001'
-p2755
-aS'No. 8'
-p2756
-aS'1978'
-p2757
-aS'5'
-aS'3'
 aS'3'
 aS'15'
-p2758
-aVSvizra
-p2759
-aVSvizzera
-p2760
-aVSuisse
-p2761
-aa(lp2762
-S'Nisifolo Naufahu'
-p2763
-aS'2001'
-p2764
-aS'No. 8'
-p2765
-aS'Auckland'
-p2766
-aS'16'
-p2767
-aS'6'
-aS'2'
-aS'10'
-p2768
-aVNew Zealand/Aotearoa
-p2769
-aVAuckland
-p2770
-ag2073
-aa(lp2771
-S'Manako Tonga'
-p2772
-aS'2001'
-p2773
-aS'No. 8'
-p2774
-aS'1976'
-p2775
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2776
-aV\u0421\u041a\u0424\u041e
-p2777
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2778
-aa(lp2779
-S'Viliami Vaki'
-p2780
-aS'2001'
-p2781
-aS'Back-row'
-p2782
-aS"Vava'u"
-p2783
-aS'36'
-p2784
-aS'10'
-p2785
-aS'7'
-aS'35'
-p2786
-aVTonga
-p2787
-aVVava\u02bbu
-p2788
-ag2073
-aa(lp2789
-S"Taufa'ao Filise"
-p2790
-aS'2001'
-p2791
+p2699
+aS"Vauai'i"
+p2700
+aS'g'
+aS'n'
+aS'i'
+aa(lp2701
+S"Hotili 'Asi"
+p2702
+aS'2000'
+p2703
 aS'Prop'
-p2792
-aS'Malapo'
-p2793
-aS'22'
-p2794
+p2704
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2705
+aS'g'
+aS'n'
+aS'i'
+aa(lp2706
+S"Chris Hala'ufia"
+p2707
+aS'2000'
+p2708
+aS'No. 8'
+p2709
+aS'24'
+p2710
+aS'7'
+aS'17'
+p2711
+aS'0'
+aS'5'
+aS'25'
+p2712
+aS'Neiafu'
+p2713
+aVTonga
+p2714
+aVVava\u02bbu
+p2715
+aVVahe Neiafu
+p2716
+aa(lp2717
+S'Aisea Havili Kaufusi'
+p2718
+aS'2000'
+p2719
+aS'Wing'
+p2720
+aS'13'
+p2721
+aS'5'
+aS'8'
+aS'0'
+aS'4'
+aS'20'
+p2722
+aS"Ha'ateiho"
+p2723
+aVTonga
+p2724
+aVTongatapu
+p2725
+aVVahe Vaini
+p2726
+aa(lp2727
+S"Apai Kaitu'u"
+p2728
+aS'2000'
+p2729
+aS'No. 8'
+p2730
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2731
+aS'g'
+aS'n'
+aS'i'
+aa(lp2732
+S"Epafasi Ta'ufo'ou"
+p2733
+aS'2000'
+p2734
+aS'Centre'
+p2735
+aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'1'
 aS'5'
-aVIndonesia
+aS'date unknown'
+p2736
+aS'g'
+aS'n'
+aS'i'
+aa(lp2737
+S'Lotu Filipine'
+p2738
+aS'2000'
+p2739
+aS'Back-row'
+p2740
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'4'
+aS'20'
+p2741
+aS'1980'
+p2742
+aVSverige
+p2743
+aVSvealand
+p2744
+aVVästmanlands län
+p2745
+aa(lp2746
+S'Fakataha Molitika'
+p2747
+aS'2000'
+p2748
+aS'Lock'
+p2749
+aS'7'
+aS'1'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'1977'
+p2750
+aVSvizra
+p2751
+aVSvizzera
+p2752
+aVSuisse
+p2753
+aa(lp2754
+S'Sioeli Nau'
+p2755
+aS'2000'
+p2756
+aS'Scrum-half'
+p2757
+aS'9'
+aS'3'
+aS'6'
+aS'0'
+aS'2'
+aS'10'
+p2758
+aS'1976'
+p2759
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2760
+aV\u0421\u041a\u0424\u041e
+p2761
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2762
+aa(lp2763
+S"Movete 'Oto'ota"
+p2764
+aS'2000'
+p2765
+aS'Fly-half'
+p2766
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2767
+aS'g'
+aS'n'
+aS'i'
+aa(lp2768
+S'Solomone Matangi'
+p2769
+aS'2000'
+p2770
+aS'Wing'
+p2771
+aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'5'
+aS'25'
+p2772
+aS'1976'
+p2773
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2774
+aV\u0421\u041a\u0424\u041e
+p2775
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2776
+aa(lp2777
+S'Soane Havea'
+p2778
+aS'2000'
+p2779
+aS'Fly-half'
+p2780
+aS'28'
+p2781
+aS'11'
+p2782
+aS'17'
+p2783
+aS'0'
+aS'0'
+aS'0'
+aS'1981'
+p2784
+aVSverige
+p2785
+aVSvealand
+p2786
+aVVästmanlands län
+p2787
+aa(lp2788
+S'Henry Saafi'
+p2789
+aS'2000'
+p2790
+aS'Flanker'
+p2791
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2792
+aS'g'
+aS'n'
+aS'i'
+aa(lp2793
+S'Loni Manako'
+p2794
+aS'2000'
 p2795
-aVSulawesi Tengah
+aS'Centre'
 p2796
-aVMalapo
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p2797
+aS'g'
+aS'n'
+aS'i'
 aa(lp2798
-S'Gus Leger'
+S'Tevita Fifita'
 p2799
 aS'2001'
 p2800
-aS'Centre'
+aS'No. 8'
 p2801
-aS'Tokoroa'
-p2802
-aS'15'
-p2803
+aS'5'
 aS'3'
+aS'2'
 aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
+aS'3'
+aS'15'
+p2802
+aS'1978'
+p2803
+aVSvizra
 p2804
-aVWaikato
+aVSvizzera
 p2805
-aVSouth Waikato District
+aVSuisse
 p2806
 aa(lp2807
-S'John Pale'
+S'Nisifolo Naufahu'
 p2808
 aS'2001'
 p2809
-aS'Prop'
+aS'No. 8'
 p2810
-aS'1976'
+aS'16'
 p2811
-aS'9'
-aS'1'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aS'6'
+aS'10'
 p2812
-aV\u0421\u041a\u0424\u041e
+aS'0'
+aS'2'
+aS'10'
 p2813
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aS'Auckland'
 p2814
-aa(lp2815
-S'Toni Alatini'
+aVNew Zealand/Aotearoa
+p2815
+aVAuckland
 p2816
-aS'2001'
-p2817
-aS'Scrum-half'
+ag2097
+aa(lp2817
+S'Manako Tonga'
 p2818
-aS'1970'
+aS'2001'
 p2819
-aS'8'
-aS'1'
-aS'0'
-aS'0'
-aVDanmark
+aS'No. 8'
 p2820
-aV1970
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1976'
 p2821
-aVRegion Hovedstaden
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p2822
-aa(lp2823
-S'Lua Lokotui'
+aV\u0421\u041a\u0424\u041e
+p2823
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p2824
-aS'2001'
-p2825
-aS'Lock, Flanker'
+aa(lp2825
+S'Viliami Vaki'
 p2826
-aS'Auckland'
-p2827
-aS'21'
-p2828
-aS'9'
-aS'3'
-aS'15'
-p2829
-aVNew Zealand/Aotearoa
-p2830
-aVAuckland
-p2831
-ag2073
-aa(lp2832
-S'Salesi Moimoi'
-p2833
 aS'2001'
-p2834
-aS'Wing'
-p2835
-aS'1978'
-p2836
-aS'1'
+p2827
+aS'Back-row'
+p2828
+aS'36'
+p2829
+aS'10'
+p2830
+aS'26'
+p2831
 aS'0'
-aS'0'
-aS'0'
-aVSvizra
-p2837
-aVSvizzera
-p2838
-aVSuisse
-p2839
-aa(lp2840
-S"Mo'unga Kafatolu"
-p2841
-aS'2002'
-p2842
-aS'Fullback'
-p2843
-aS'date unknown'
-p2844
-aS'3'
-aS'1'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2845
-S'Andrew Mailei'
-p2846
-aS'2002'
-p2847
-aS'Centre'
-p2848
-aS'Auckland'
-p2849
-aS'22'
-p2850
-aS'9'
-aS'5'
-aS'40'
-p2851
-aVNew Zealand/Aotearoa
-p2852
-aVAuckland
-p2853
-ag2073
-aa(lp2854
-S'Stanley Afeaki'
-p2855
-aS'2002'
-p2856
-aS'Flanker'
-p2857
-aS'Lower Hutt'
-p2858
-aS'13'
-p2859
-aS'4'
 aS'7'
 aS'35'
-p2860
+p2832
+aS"Vava'u"
+p2833
+aVTonga
+p2834
+aVVava\u02bbu
+p2835
+ag2097
+aa(lp2836
+S"Taufa'ao Filise"
+p2837
+aS'2001'
+p2838
+aS'Prop'
+p2839
+aS'22'
+p2840
+aS'3'
+aS'19'
+p2841
+aS'0'
+aS'1'
+aS'5'
+aS'Malapo'
+p2842
+aVIndonesia
+p2843
+aVSulawesi Tengah
+p2844
+aVMalapo
+p2845
+aa(lp2846
+S'Gus Leger'
+p2847
+aS'2001'
+p2848
+aS'Centre'
+p2849
+aS'15'
+p2850
+aS'3'
+aS'12'
+p2851
+aS'0'
+aS'0'
+aS'0'
+aS'Tokoroa'
+p2852
 aVNew Zealand/Aotearoa
+p2853
+aVWaikato
+p2854
+aVSouth Waikato District
+p2855
+aa(lp2856
+S'John Pale'
+p2857
+aS'2001'
+p2858
+aS'Prop'
+p2859
+aS'9'
+aS'1'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'1976'
+p2860
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p2861
-aVWellington
+aV\u0421\u041a\u0424\u041e
 p2862
-aVLower Hutt City
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p2863
 aa(lp2864
-S'Nick Hau'
+S'Toni Alatini'
 p2865
-aS'2002'
+aS'2001'
 p2866
-aS'Centre'
+aS'Scrum-half'
 p2867
-aS'1979'
+aS'8'
+aS'1'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'1970'
 p2868
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVRomânia
+aVDanmark
 p2869
-aVVâlcea
+aV1970
 p2870
-aV1979
+aVRegion Hovedstaden
 p2871
 aa(lp2872
-S'Sione Fonua'
+S'Lua Lokotui'
 p2873
-aS'2002'
+aS'2001'
 p2874
-aS'Wing'
+aS'Lock, Flanker'
 p2875
-aS'1982'
+aS'21'
 p2876
+aS'9'
 aS'12'
 p2877
-aS'2'
+aS'0'
 aS'3'
 aS'15'
 p2878
-aVSverige
+aS'Auckland'
 p2879
-aVSvealand
+aVNew Zealand/Aotearoa
 p2880
-aVVästmanlands län
+aVAuckland
 p2881
+ag2097
 aa(lp2882
-S'Emosi Kauhenga'
+S'Salesi Moimoi'
 p2883
-aS'2002'
+aS'2001'
 p2884
-aS'Lock, Flanker'
+aS'Wing'
 p2885
-aS'Folaha'
-p2886
-aS'14'
-p2887
-aS'6'
+aS'1'
 aS'0'
-aS'0'
-aVTonga
-p2888
-aVTongatapu
-p2889
-aVVahe Vaini
-p2890
-aa(lp2891
-S'Laukau Lile'
-p2892
-aS'2002'
-p2893
-aS'Centre'
-p2894
-aS'1976'
-p2895
-aS'3'
 aS'1'
 aS'0'
 aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2896
-aV\u0421\u041a\u0424\u041e
-p2897
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2898
-aa(lp2899
-S'Kisi Pulu'
-p2900
+aS'0'
+aS'1978'
+p2886
+aVSvizra
+p2887
+aVSvizzera
+p2888
+aVSuisse
+p2889
+aa(lp2890
+S"Mo'unga Kafatolu"
+p2891
 aS'2002'
-p2901
-aS'Prop'
-p2902
-aS"Leimatu'a"
-p2903
-aS'32'
-p2904
-aS'12'
-p2905
+p2892
+aS'Fullback'
+p2893
 aS'3'
-aS'15'
-p2906
-aVTonga
-p2907
-aVVava\u02bbu
-p2908
-aVVahe Leimatu'a
-p2909
-aa(lp2910
-S'Kilioni Bakewa'
-p2911
-aS'2002'
-p2912
-aS'Wing'
-p2913
-aS'date unknown'
-p2914
-aS'3'
+aS'1'
 aS'2'
 aS'0'
-aS'0'
+aS'1'
+aS'5'
+aS'date unknown'
+p2894
 aS'g'
 aS'n'
 aS'i'
+aa(lp2895
+S'Andrew Mailei'
+p2896
+aS'2002'
+p2897
+aS'Centre'
+p2898
+aS'22'
+p2899
+aS'9'
+aS'13'
+p2900
+aS'0'
+aS'5'
+aS'40'
+p2901
+aS'Auckland'
+p2902
+aVNew Zealand/Aotearoa
+p2903
+aVAuckland
+p2904
+ag2097
+aa(lp2905
+S'Stanley Afeaki'
+p2906
+aS'2002'
+p2907
+aS'Flanker'
+p2908
+aS'13'
+p2909
+aS'4'
+aS'9'
+aS'0'
+aS'7'
+aS'35'
+p2910
+aS'Lower Hutt'
+p2911
+aVNew Zealand/Aotearoa
+p2912
+aVWellington
+p2913
+aVLower Hutt City
+p2914
 aa(lp2915
-S"Tonga Lea'aetoa"
+S'Nick Hau'
 p2916
 aS'2002'
 p2917
-aS'Prop'
-p2918
-aS'Auckland'
-p2919
-aS'26'
-p2920
-aS'13'
-p2921
-aS'1'
-aS'5'
-aVNew Zealand/Aotearoa
-p2922
-aVAuckland
-p2923
-ag2073
-aa(lp2924
-S'Milton Ngauamo'
-p2925
-aS'2002'
-p2926
-aS'Lock'
-p2927
-aS'Auckland'
-p2928
-aS'17'
-p2929
-aS'6'
-aS'1'
-aS'5'
-aVNew Zealand/Aotearoa
-p2930
-aVAuckland
-p2931
-ag2073
-aa(lp2932
-S'David Palu'
-p2933
-aS'2002'
-p2934
-aS'Scrum-half'
-p2935
-aS'Wellington'
-p2936
-aS'14'
-p2937
-aS'6'
-aS'7'
-aS'39'
-p2938
-aVNew Zealand/Aotearoa
-p2939
-aVWellington
-p2940
-aVWellington City
-p2941
-aa(lp2942
-S'John Payne'
-p2943
-aS'2002'
-p2944
 aS'Centre'
+p2918
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1979'
+p2919
+aVRomânia
+p2920
+aVVâlcea
+p2921
+aV1979
+p2922
+aa(lp2923
+S'Sione Fonua'
+p2924
+aS'2002'
+p2925
+aS'Wing'
+p2926
+aS'12'
+p2927
+aS'2'
+aS'10'
+p2928
+aS'0'
+aS'3'
+aS'15'
+p2929
+aS'1982'
+p2930
+aVSverige
+p2931
+aVSvealand
+p2932
+aVVästmanlands län
+p2933
+aa(lp2934
+S'Emosi Kauhenga'
+p2935
+aS'2002'
+p2936
+aS'Lock, Flanker'
+p2937
+aS'14'
+p2938
+aS'6'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Folaha'
+p2939
+aVTonga
+p2940
+aVTongatapu
+p2941
+aVVahe Vaini
+p2942
+aa(lp2943
+S'Laukau Lile'
+p2944
+aS'2002'
 p2945
-aS'Manly'
+aS'Centre'
 p2946
-aS'11'
-p2947
-aS'4'
+aS'3'
 aS'1'
-aS'5'
-aVAustralia
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1976'
+p2947
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p2948
-aVQueensland
+aV\u0421\u041a\u0424\u041e
 p2949
-aVBrisbane
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p2950
 aa(lp2951
-S'Ephraim Taukafa'
+S'Kisi Pulu'
 p2952
 aS'2002'
 p2953
-aS'Hooker'
+aS'Prop'
 p2954
-aS'Auckland'
+aS'32'
 p2955
-aS'33'
+aS'12'
 p2956
-aS'14'
-p2957
-aS'6'
-aS'30'
-p2958
-aVNew Zealand/Aotearoa
-p2959
-aVAuckland
-p2960
-ag2073
-aa(lp2961
-S"Lisiate 'Ulufonua"
-p2962
-aS'2002'
-p2963
-aS'Fullback'
-p2964
-aS'1976'
-p2965
-aS'4'
-aS'4'
-aS'2'
-aS'10'
-p2966
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2967
-aV\u0421\u041a\u0424\u041e
-p2968
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2969
-aa(lp2970
-S'Willie Gibbons'
-p2971
-aS'2002'
-p2972
-aS'Fly-half'
-p2973
-aS'date unknown'
-p2974
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2975
-S'Taniela Tulia'
-p2976
-aS'2002'
-p2977
-aS'Wing'
-p2978
-aS'date unknown'
-p2979
-aS'10'
-p2980
-aS'4'
-aS'7'
-aS'35'
-p2981
-aS'g'
-aS'n'
-aS'i'
-aa(lp2982
-S'Feki Latusalu'
-p2983
-aS'2003'
-p2984
-aS'Hooker'
-p2985
-aS'date unknown'
-p2986
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2987
-S"Tevita Tu'ifua"
-p2988
-aS'2003'
-p2989
-aS'Wing, Centre'
-p2990
-aS'Nomuka'
-p2991
-aS'15'
-p2992
-aS'6'
-aS'4'
 aS'20'
-p2993
+p2957
+aS'0'
+aS'3'
+aS'15'
+p2958
+aS"Leimatu'a"
+p2959
 aVTonga
-p2994
-aVVahe Mu'omu'a
-p2995
-aVNomuka
-p2996
-aa(lp2997
-S"Johnny Tu'amoheloa"
-p2998
-aS'2003'
-p2999
-aS'Back-row'
-p3000
-aS'1980'
-p3001
-aS'4'
+p2960
+aVVava\u02bbu
+p2961
+aVVahe Leimatu'a
+p2962
+aa(lp2963
+S'Kilioni Bakewa'
+p2964
+aS'2002'
+p2965
+aS'Wing'
+p2966
+aS'3'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
-aVSverige
+aS'0'
+aS'date unknown'
+p2967
+aS'g'
+aS'n'
+aS'i'
+aa(lp2968
+S"Tonga Lea'aetoa"
+p2969
+aS'2002'
+p2970
+aS'Prop'
+p2971
+aS'26'
+p2972
+aS'13'
+p2973
+aS'13'
+p2974
+aS'0'
+aS'1'
+aS'5'
+aS'Auckland'
+p2975
+aVNew Zealand/Aotearoa
+p2976
+aVAuckland
+p2977
+ag2097
+aa(lp2978
+S'Milton Ngauamo'
+p2979
+aS'2002'
+p2980
+aS'Lock'
+p2981
+aS'17'
+p2982
+aS'6'
+aS'11'
+p2983
+aS'0'
+aS'1'
+aS'5'
+aS'Auckland'
+p2984
+aVNew Zealand/Aotearoa
+p2985
+aVAuckland
+p2986
+ag2097
+aa(lp2987
+S'David Palu'
+p2988
+aS'2002'
+p2989
+aS'Scrum-half'
+p2990
+aS'14'
+p2991
+aS'6'
+aS'8'
+aS'0'
+aS'7'
+aS'39'
+p2992
+aS'Wellington'
+p2993
+aVNew Zealand/Aotearoa
+p2994
+aVWellington
+p2995
+aVWellington City
+p2996
+aa(lp2997
+S'John Payne'
+p2998
+aS'2002'
+p2999
+aS'Centre'
+p3000
+aS'11'
+p3001
+aS'4'
+aS'7'
+aS'0'
+aS'1'
+aS'5'
+aS'Manly'
 p3002
-aVSvealand
+aVAustralia
 p3003
-aVVästmanlands län
+aVQueensland
 p3004
-aa(lp3005
-S'Suka Hufanga'
-p3006
-aS'2003'
+aVBrisbane
+p3005
+aa(lp3006
+S'Ephraim Taukafa'
 p3007
-aS'Wing'
+aS'2002'
 p3008
-aS'Hourna'
+aS'Hooker'
 p3009
-aS'28'
+aS'33'
 p3010
 aS'14'
 p3011
+aS'19'
+p3012
+aS'0'
+aS'6'
+aS'30'
+p3013
+aS'Auckland'
+p3014
+aVNew Zealand/Aotearoa
+p3015
+aVAuckland
+p3016
+ag2097
+aa(lp3017
+S"Lisiate 'Ulufonua"
+p3018
+aS'2002'
+p3019
+aS'Fullback'
+p3020
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'2'
+aS'10'
+p3021
+aS'1976'
+p3022
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3023
+aV\u0421\u041a\u0424\u041e
+p3024
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3025
+aa(lp3026
+S'Willie Gibbons'
+p3027
+aS'2002'
+p3028
+aS'Fly-half'
+p3029
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3030
+aS'g'
+aS'n'
+aS'i'
+aa(lp3031
+S'Taniela Tulia'
+p3032
+aS'2002'
+p3033
+aS'Wing'
+p3034
+aS'10'
+p3035
+aS'4'
+aS'6'
+aS'0'
+aS'7'
+aS'35'
+p3036
+aS'date unknown'
+p3037
+aS'g'
+aS'n'
+aS'i'
+aa(lp3038
+S'Feki Latusalu'
+p3039
+aS'2003'
+p3040
+aS'Hooker'
+p3041
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3042
+aS'g'
+aS'n'
+aS'i'
+aa(lp3043
+S"Tevita Tu'ifua"
+p3044
+aS'2003'
+p3045
+aS'Wing, Centre'
+p3046
+aS'15'
+p3047
+aS'6'
+aS'9'
+aS'0'
+aS'4'
+aS'20'
+p3048
+aS'Nomuka'
+p3049
+aVTonga
+p3050
+aVVahe Mu'omu'a
+p3051
+aVNomuka
+p3052
+aa(lp3053
+S"Johnny Tu'amoheloa"
+p3054
+aS'2003'
+p3055
+aS'Back-row'
+p3056
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1980'
+p3057
+aVSverige
+p3058
+aVSvealand
+p3059
+aVVästmanlands län
+p3060
+aa(lp3061
+S'Suka Hufanga'
+p3062
+aS'2003'
+p3063
+aS'Wing'
+p3064
+aS'28'
+p3065
+aS'14'
+p3066
+aS'14'
+p3067
+aS'0'
 aS'5'
 aS'25'
-p3012
+p3068
+aS'Hourna'
+p3069
 aVFrance
-p3013
+p3070
 aV64800
-p3014
+p3071
 aVFrance métropolitaine
-p3015
-aa(lp3016
+p3072
+aa(lp3073
 S'Kafalosi Tonga'
-p3017
+p3074
 aS'2003'
-p3018
+p3075
 aS'Prop'
-p3019
-aS'Auckland'
-p3020
+p3076
 aS'6'
 aS'1'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'Auckland'
+p3077
 aVNew Zealand/Aotearoa
-p3021
+p3078
 aVAuckland
-p3022
-ag2073
-aa(lp3023
+p3079
+ag2097
+aa(lp3080
 S"Sila Va'enuku"
-p3024
+p3081
 aS'2003'
-p3025
+p3082
 aS'Wing'
-p3026
-aS'1978'
-p3027
+p3083
 aS'12'
-p3028
+p3084
 aS'1'
+aS'11'
+p3085
+aS'0'
 aS'3'
 aS'15'
-p3029
+p3086
+aS'1978'
+p3087
 aVSvizra
-p3030
+p3088
 aVSvizzera
-p3031
+p3089
 aVSuisse
-p3032
-aa(lp3033
+p3090
+aa(lp3091
 S'Edward Langi'
-p3034
+p3092
 aS'2003'
-p3035
+p3093
 aS'Back-row'
-p3036
-aS'1975'
-p3037
+p3094
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVÖsterreich
-p3038
-aV8271
-p3039
-aVSteiermark
-p3040
-aa(lp3041
-S'Pila Fifita'
-p3042
-aS'2003'
-p3043
-aS'Wing, Centre'
-p3044
 aS'1975'
-p3045
+p3095
+aVÖsterreich
+p3096
+aV8271
+p3097
+aVSteiermark
+p3098
+aa(lp3099
+S'Pila Fifita'
+p3100
+aS'2003'
+p3101
+aS'Wing, Centre'
+p3102
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'1975'
+p3103
 aVÖsterreich
-p3046
+p3104
 aV8271
-p3047
+p3105
 aVSteiermark
-p3048
-aa(lp3049
+p3106
+aa(lp3107
 S"Fangatapu 'Apikotoa"
-p3050
+p3108
 aS'2004'
-p3051
+p3109
 aS'Utility back'
-p3052
-aS'Fasi-moe-afi'
-p3053
+p3110
 aS'30'
-p3054
+p3111
 aS'8'
+aS'21'
+p3112
+aS'1'
 aS'2'
 aS'147'
-p3055
+p3113
+aS'Fasi-moe-afi'
+p3114
 aVTonga
-p3056
+p3115
 aVTongatapu
-p3057
+p3116
 aVVahe Kolofo'ou
-p3058
-aa(lp3059
+p3117
+aa(lp3118
 S"Lisiate Fa'aoso"
-p3060
+p3119
 aS'2004'
-p3061
+p3120
 aS'Lock'
-p3062
-aS'Kolonga'
-p3063
+p3121
 aS'16'
-p3064
+p3122
 aS'6'
+aS'9'
+aS'1'
 aS'1'
 aS'5'
+aS'Kolonga'
+p3123
 aVTonga
-p3065
+p3124
 aVTongatapu
-p3066
+p3125
 aVVahe Lapaha
-p3067
-aa(lp3068
+p3126
+aa(lp3127
 S'Ofa Misa'
-p3069
+p3128
 aS'2004'
-p3070
+p3129
 aS'Back-row'
-p3071
+p3130
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'1979'
-p3072
-aS'2'
-aS'0'
-aS'0'
-aS'0'
+p3131
 aVRomânia
-p3073
+p3132
 aVVâlcea
-p3074
+p3133
 aV1979
-p3075
-aa(lp3076
+p3134
+aa(lp3135
 S'Mosese Moala'
-p3077
+p3136
 aS'2004'
-p3078
+p3137
 aS'Prop'
-p3079
+p3138
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'1978'
-p3080
-aS'2'
-aS'0'
-aS'0'
-aS'0'
+p3139
 aVSvizra
-p3081
+p3140
 aVSvizzera
-p3082
+p3141
 aVSuisse
-p3083
-aa(lp3084
+p3142
+aa(lp3143
 S'Seti Filo'
-p3085
+p3144
 aS'2004'
-p3086
+p3145
 aS'Back-row'
-p3087
-aS'1982'
-p3088
+p3146
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'1982'
+p3147
 aVSverige
-p3089
+p3148
 aVSvealand
-p3090
+p3149
 aVVästmanlands län
-p3091
-aa(lp3092
+p3150
+aa(lp3151
 S'Sefa Vaka'
-p3093
+p3152
 aS'2004'
-p3094
+p3153
 aS'Centre'
-p3095
-aS"Kolofo'ou"
-p3096
+p3154
 aS'13'
-p3097
+p3155
 aS'3'
+aS'10'
+p3156
+aS'0'
 aS'2'
 aS'10'
-p3098
+p3157
+aS"Kolofo'ou"
+p3158
 aVTonga
-p3099
+p3159
 aVVava\u02bbu
-p3100
+p3160
 aVVahe Neiafu
-p3101
-aa(lp3102
+p3161
+aa(lp3162
 S'Sikuti Vunipola'
-p3103
+p3163
 aS'2004'
-p3104
+p3164
 aS'Scrum-half'
-p3105
-aS'1979'
-p3106
+p3165
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'1979'
+p3166
 aVRomânia
-p3107
+p3167
 aVVâlcea
-p3108
+p3168
 aV1979
-p3109
-aa(lp3110
+p3169
+aa(lp3170
 S'Seti Kiole'
-p3111
+p3171
 aS'2005'
-p3112
+p3172
 aS'Wing'
-p3113
-aS'Holopeka'
-p3114
+p3173
 aS'9'
 aS'2'
+aS'7'
+aS'0'
 aS'2'
 aS'10'
-p3115
-aVTonga
-p3116
-aVVava\u02bbu
-p3117
-aVVahe Neiafu
-p3118
-aa(lp3119
-S'Mosese Makasini'
-p3120
-aS'2005'
-p3121
-aS'Lock'
-p3122
-aS'date unknown'
-p3123
-aS'4'
-aS'0'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3124
-S'Matini Tupou'
-p3125
-aS'2005'
-p3126
-aS'No. 8'
-p3127
-aS'1982'
-p3128
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVSverige
-p3129
-aVSvealand
-p3130
-aVVästmanlands län
-p3131
-aa(lp3132
-S'Siaosi Taufa'
-p3133
-aS'2005'
-p3134
-aS'Scrum-half'
-p3135
-aS'date unknown'
-p3136
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3137
-S"Hudson Tonga'uiha"
-p3138
-aS'2005'
-p3139
-aS'Centre'
-p3140
-aS'Tofoa'
-p3141
-aS'24'
-p3142
-aS'8'
-aS'6'
-aS'30'
-p3143
-aVTonga
-p3144
-aVTongatapu
-p3145
-aVVahe Kolomotu'a
-p3146
-aa(lp3147
-S'Ueleni Fono'
-p3148
-aS'2005'
-p3149
-aS'No. 8'
-p3150
-aS'Holopeka'
-p3151
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVTonga
-p3152
-aVVava\u02bbu
-p3153
-aVVahe Neiafu
-p3154
-aa(lp3155
-S'Siope Kapeli'
-p3156
-aS'2005'
-p3157
-aS'Back-row'
-p3158
-aS'1983'
-p3159
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVSverige
-p3160
-aVSvealand
-p3161
-aVVästmanlands län
-p3162
-aa(lp3163
-S'Samuela Lisala'
-p3164
-aS'2005'
-p3165
-aS'Centre, Wing'
-p3166
-aS'1977'
-p3167
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVSvizra
-p3168
-aVSvizzera
-p3169
-aVSuisse
-p3170
-aa(lp3171
-S'Kana Fakava'
-p3172
-aS'2005'
-p3173
-aS'Prop'
 p3174
-aS'1981'
+aS'Holopeka'
 p3175
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVSverige
+aVTonga
 p3176
-aVSvealand
+aVVava\u02bbu
 p3177
-aVVästmanlands län
+aVVahe Neiafu
 p3178
 aa(lp3179
-S'Sione Niu Tonga'
+S'Mosese Makasini'
 p3180
 aS'2005'
 p3181
-aS'Outside back'
+aS'Lock'
 p3182
-aS'date unknown'
-p3183
-aS'3'
+aS'4'
+aS'0'
+aS'4'
 aS'0'
 aS'1'
 aS'5'
+aS'date unknown'
+p3183
 aS'g'
 aS'n'
 aS'i'
 aa(lp3184
-S'Sione Masima'
+S'Matini Tupou'
 p3185
 aS'2005'
 p3186
-aS'Centre'
+aS'No. 8'
 p3187
-aS'date unknown'
-p3188
+aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3189
-S'Rodney Mahe'
+aS'1982'
+p3188
+aVSverige
+p3189
+aVSvealand
 p3190
-aS'2005'
+aVVästmanlands län
 p3191
-aS'Back-row'
-p3192
-aS'1983'
+aa(lp3192
+S'Siaosi Taufa'
 p3193
-aS'8'
+aS'2005'
+p3194
+aS'Scrum-half'
+p3195
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
-aVSverige
-p3194
-aVSvealand
-p3195
-aVVästmanlands län
+aS'0'
+aS'date unknown'
 p3196
+aS'g'
+aS'n'
+aS'i'
 aa(lp3197
-S"Fotu'aika Naitoko"
+S"Hudson Tonga'uiha"
 p3198
 aS'2005'
 p3199
-aS'Prop'
-p3200
-aS'date unknown'
-p3201
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3202
-S'Sione Taukapo'
-p3203
-aS'2005'
-p3204
 aS'Centre'
-p3205
-aS'date unknown'
-p3206
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3207
-S"Soane Tonga'uiha"
-p3208
-aS'2004'
-p3209
-aS'Prop'
-p3210
-aS'Houma'
-p3211
+p3200
+aS'24'
+p3201
+aS'8'
 aS'16'
+p3202
+aS'0'
+aS'6'
+aS'30'
+p3203
+aS'Tofoa'
+p3204
+aVTonga
+p3205
+aVTongatapu
+p3206
+aVVahe Kolomotu'a
+p3207
+aa(lp3208
+S'Ueleni Fono'
+p3209
+aS'2005'
+p3210
+aS'No. 8'
+p3211
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Holopeka'
 p3212
-aS'5'
-aS'0'
-aS'0'
-aVUnited States of America
+aVTonga
 p3213
-aVLouisiana
+aVVava\u02bbu
 p3214
-aVTerrebonne Parish
+aVVahe Neiafu
 p3215
 aa(lp3216
-S'Peni Fakalelu'
+S'Siope Kapeli'
 p3217
 aS'2005'
 p3218
-aS'Prop'
+aS'Back-row'
 p3219
-aS'1984'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1983'
 p3220
+aVSverige
+p3221
+aVSvealand
+p3222
+aVVästmanlands län
+p3223
+aa(lp3224
+S'Samuela Lisala'
+p3225
+aS'2005'
+p3226
+aS'Centre, Wing'
+p3227
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1977'
+p3228
+aVSvizra
+p3229
+aVSvizzera
+p3230
+aVSuisse
+p3231
+aa(lp3232
+S'Kana Fakava'
+p3233
+aS'2005'
+p3234
+aS'Prop'
+p3235
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1981'
+p3236
+aVSverige
+p3237
+aVSvealand
+p3238
+aVVästmanlands län
+p3239
+aa(lp3240
+S'Sione Niu Tonga'
+p3241
+aS'2005'
+p3242
+aS'Outside back'
+p3243
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'1'
+aS'5'
+aS'date unknown'
+p3244
+aS'g'
+aS'n'
+aS'i'
+aa(lp3245
+S'Sione Masima'
+p3246
+aS'2005'
+p3247
+aS'Centre'
+p3248
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3249
+aS'g'
+aS'n'
+aS'i'
+aa(lp3250
+S'Rodney Mahe'
+p3251
+aS'2005'
+p3252
+aS'Back-row'
+p3253
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'1983'
+p3254
+aVSverige
+p3255
+aVSvealand
+p3256
+aVVästmanlands län
+p3257
+aa(lp3258
+S"Fotu'aika Naitoko"
+p3259
+aS'2005'
+p3260
+aS'Prop'
+p3261
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3262
+aS'g'
+aS'n'
+aS'i'
+aa(lp3263
+S'Sione Taukapo'
+p3264
+aS'2005'
+p3265
+aS'Centre'
+p3266
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3267
+aS'g'
+aS'n'
+aS'i'
+aa(lp3268
+S"Soane Tonga'uiha"
+p3269
+aS'2004'
+p3270
+aS'Prop'
+p3271
+aS'16'
+p3272
+aS'5'
+aS'11'
+p3273
+aS'0'
+aS'0'
+aS'0'
+aS'Houma'
+p3274
+aVUnited States of America
+p3275
+aVLouisiana
+p3276
+aVTerrebonne Parish
+p3277
+aa(lp3278
+S'Peni Fakalelu'
+p3279
+aS'2005'
+p3280
+aS'Prop'
+p3281
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'2'
 aS'10'
-p3221
+p3282
+aS'1984'
+p3283
 aVSverige
-p3222
+p3284
 aVSvealand
-p3223
+p3285
 aVVästmanlands län
-p3224
-aa(lp3225
+p3286
+aa(lp3287
 S'Alani Maka'
-p3226
+p3288
 aS'2005'
-p3227
+p3289
 aS'Prop'
-p3228
-aS'Longoteme'
-p3229
+p3290
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Longoteme'
+p3291
 aVTonga
-p3230
+p3292
 aVTongatapu
-p3231
+p3293
 aVVahe Vaini
-p3232
-aa(lp3233
+p3294
+aa(lp3295
 S'Talite Vaioleti'
-p3234
+p3296
 aS'2005'
-p3235
+p3297
 aS'Lock'
-p3236
-aS'1980'
-p3237
+p3298
 aS'2'
 aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'1980'
+p3299
 aVSverige
-p3238
+p3300
 aVSvealand
-p3239
+p3301
 aVVästmanlands län
-p3240
-aa(lp3241
+p3302
+aa(lp3303
 S'Kele Hehea'
-p3242
+p3304
 aS'2006'
-p3243
+p3305
 aS'Lock'
-p3244
-aS'Vaini'
-p3245
+p3306
 aS'21'
-p3246
+p3307
 aS'13'
-p3247
+p3308
+aS'8'
+aS'0'
 aS'2'
 aS'10'
-p3248
+p3309
+aS'Vaini'
+p3310
 aVTonga
-p3249
+p3311
 aVTongatapu
-p3250
+p3312
 aVVahe Vaini
-p3251
-aa(lp3252
+p3313
+aa(lp3314
 S'Nili Latu Langilangi'
-p3253
+p3315
 aS'2006'
-p3254
+p3316
 aS'No. 8'
-p3255
-aS'Tongatapu'
-p3256
+p3317
 aS'42'
-p3257
+p3318
 aS'16'
-p3258
+p3319
+aS'25'
+p3320
+aS'1'
 aS'4'
 aS'23'
-p3259
+p3321
+aS'Tongatapu'
+p3322
 aVTonga
-p3260
+p3323
 aVTongatapu
-p3261
-ag2073
-aa(lp3262
+p3324
+ag2097
+aa(lp3325
 S"Tatafu Na'aniumotu"
-p3263
+p3326
 aS'2006'
-p3264
+p3327
 aS'Centre'
-p3265
-aS'1984'
-p3266
+p3328
 aS'6'
 aS'4'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'1984'
+p3329
 aVSverige
-p3267
+p3330
 aVSvealand
-p3268
+p3331
 aVVästmanlands län
-p3269
-aa(lp3270
+p3332
+aa(lp3333
 S'Tevita Vaikona'
-p3271
+p3334
 aS'2006'
-p3272
+p3335
 aS'Wing, Centre'
-p3273
-aS'1974'
-p3274
+p3336
 aS'4'
 aS'3'
+aS'1'
+aS'0'
 aS'5'
 aS'25'
-p3275
+p3337
+aS'1974'
+p3338
 aVÖsterreich
-p3276
+p3339
 aV8573
-p3277
+p3340
 aVSteiermark
-p3278
-aa(lp3279
+p3341
+aa(lp3342
 S'Viliami Hakalo'
-p3280
+p3343
 aS'2006'
-p3281
+p3344
 aS'Fullback, Centre'
-p3282
-aS'1987'
-p3283
+p3345
 aS'6'
 aS'4'
+aS'2'
+aS'0'
 aS'3'
 aS'22'
-p3284
+p3346
+aS'1987'
+p3347
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3285
+p3348
 aV\u0421\u041a\u0424\u041e
-p3286
+p3349
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3287
-aa(lp3288
+p3350
+aa(lp3351
 S'Kaiongo Tupou'
-p3289
+p3352
 aS'2006'
-p3290
+p3353
 aS'Centre'
-p3291
-aS'Tofoa'
-p3292
+p3354
 aS'12'
-p3293
+p3355
 aS'5'
+aS'7'
+aS'0'
 aS'3'
 aS'15'
-p3294
+p3356
+aS'Tofoa'
+p3357
 aVTonga
-p3295
+p3358
 aVTongatapu
-p3296
+p3359
 aVVahe Kolomotu'a
-p3297
-aa(lp3298
+p3360
+aa(lp3361
 S'Isieli Fine'
-p3299
+p3362
 aS'2007'
-p3300
+p3363
 aS'Lock'
-p3301
-aS'1984'
-p3302
+p3364
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'1984'
+p3365
 aVSverige
-p3303
+p3366
 aVSvealand
-p3304
+p3367
 aVVästmanlands län
-p3305
-aa(lp3306
+p3368
+aa(lp3369
 S'Tevita Fonua'
-p3307
+p3370
 aS'2007'
-p3308
+p3371
 aS'Prop'
-p3309
+p3372
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p3310
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p3373
 aS'g'
 aS'n'
 aS'i'
-aa(lp3311
+aa(lp3374
 S"Teu'imuli Kaufusi"
-p3312
+p3375
 aS'2007'
-p3313
+p3376
 aS'Lock'
-p3314
-aS'1980'
-p3315
+p3377
 aS'8'
 aS'2'
-aS'2'
-aS'10'
-p3316
-aVSverige
-p3317
-aVSvealand
-p3318
-aVVästmanlands län
-p3319
-aa(lp3320
-S'Vunga Lilo'
-p3321
-aS'2007'
-p3322
-aS'Wing'
-p3323
-aS"Ha'apai"
-p3324
-aS'33'
-p3325
-aS'14'
-p3326
-aS'11'
-p3327
-aS'70'
-p3328
-aVTonga
-p3329
-aVTongatapu
-p3330
-aVHunga Ha\u02bbapai
-p3331
-aa(lp3332
-S'Sione Poteki'
-p3333
-aS'2007'
-p3334
-aS'Hooker'
-p3335
-aS'date unknown'
-p3336
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3337
-S'Vaea Poteki'
-p3338
-aS'2007'
-p3339
-aS'Fly-half'
-p3340
-aS'date unknown'
-p3341
-aS'1'
-aS'1'
-aS'2'
-aS'10'
-p3342
-aS'g'
-aS'n'
-aS'i'
-aa(lp3343
-S'Toma Toke'
-p3344
-aS'2007'
-p3345
-aS'Prop'
-p3346
-aS"Ha'ateiho"
-p3347
-aS'12'
-p3348
-aS'4'
-aS'1'
-aS'5'
-aVTonga
-p3349
-aVTongatapu
-p3350
-aVVahe Vaini
-p3351
-aa(lp3352
-S'Hale T-Pole'
-p3353
-aS'2006'
-p3354
-aS'Lock, Flanker'
-p3355
-aS'Longolongo'
-p3356
-aS'31'
-p3357
-aS'12'
-p3358
-aS'2'
-aS'10'
-p3359
-aVTonga
-p3360
-aVTongatapu
-p3361
-aVVahe Kolomotu'a
-p3362
-aa(lp3363
-S'Atonio Halangahu'
-p3364
-aS'2007'
-p3365
-aS'Hooker'
-p3366
-aS'1981'
-p3367
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVSverige
-p3368
-aVSvealand
-p3369
-aVVästmanlands län
-p3370
-aa(lp3371
-S'Sione Kalamafoni'
-p3372
-aS'2007'
-p3373
-aS'Back-row'
-p3374
-aS'Matahau'
-p3375
-aS'24'
-p3376
-aS'9'
-aS'2'
-aS'10'
-p3377
-aVTonga
-p3378
-aVTongatapu
-p3379
-aVVahe Nukunuku
-p3380
-aa(lp3381
-S'Hemani Paea'
-p3382
-aS'2007'
-p3383
-aS'Centre'
-p3384
-aS'1985'
-p3385
-aS'4'
-aS'3'
-aS'1'
-aS'5'
-aVNederland
-p3386
-aV1985
-p3387
-aVNederland
-p3388
-aa(lp3389
-S"Folauhola Tatua'a"
-p3390
-aS'2007'
-p3391
-aS''
-aS'date unknown'
-p3392
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3393
-S'Makoni Finau'
-p3394
-aS'2007'
-p3395
-aS'Prop'
-p3396
-aS'1983'
-p3397
 aS'6'
+aS'0'
+aS'2'
+aS'10'
+p3378
+aS'1980'
+p3379
+aVSverige
+p3380
+aVSvealand
+p3381
+aVVästmanlands län
+p3382
+aa(lp3383
+S'Vunga Lilo'
+p3384
+aS'2007'
+p3385
+aS'Wing'
+p3386
+aS'33'
+p3387
+aS'14'
+p3388
+aS'19'
+p3389
+aS'0'
+aS'11'
+p3390
+aS'70'
+p3391
+aS"Ha'apai"
+p3392
+aVTonga
+p3393
+aVTongatapu
+p3394
+aVHunga Ha\u02bbapai
+p3395
+aa(lp3396
+S'Sione Poteki'
+p3397
+aS'2007'
+p3398
+aS'Hooker'
+p3399
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVSverige
-p3398
-aVSvealand
-p3399
-aVVästmanlands län
+aS'0'
+aS'0'
+aS'date unknown'
 p3400
+aS'g'
+aS'n'
+aS'i'
 aa(lp3401
-S"Tevita 'Ahoafi"
+S'Vaea Poteki'
 p3402
 aS'2007'
 p3403
-aS'Scrum-half'
+aS'Fly-half'
 p3404
-aS'1987'
-p3405
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3406
-aV\u0421\u041a\u0424\u041e
-p3407
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3408
-aa(lp3409
-S"Setaleki Lu'au"
-p3410
-aS'2007'
-p3411
-aS'Fullback'
-p3412
-aS'date unknown'
-p3413
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3414
-S"Sateki Mata'u"
-p3415
-aS'2007'
-p3416
-aS'Prop'
-p3417
-aS"Ha'ateiho"
-p3418
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVTonga
-p3419
-aVTongatapu
-p3420
-aVVahe Vaini
-p3421
-aa(lp3422
-S'Naisa Sikalu'
-p3423
-aS'2007'
-p3424
-aS'Flanker'
-p3425
-aS'1982'
-p3426
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVSverige
-p3427
-aVSvealand
-p3428
-aVVästmanlands län
-p3429
-aa(lp3430
-S'Tevita Tanginoa'
-p3431
-aS'2007'
-p3432
-aS'Lock'
-p3433
-aS'1982'
-p3434
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVSverige
-p3435
-aVSvealand
-p3436
-aVVästmanlands län
-p3437
-aa(lp3438
-S'Samiu Vahafolau'
-p3439
-aS'2007'
-p3440
-aS'No. 8'
-p3441
-aS'Ovaka'
-p3442
-aS'14'
-p3443
-aS'8'
 aS'2'
 aS'10'
-p3444
+p3405
+aS'date unknown'
+p3406
+aS'g'
+aS'n'
+aS'i'
+aa(lp3407
+S'Toma Toke'
+p3408
+aS'2007'
+p3409
+aS'Prop'
+p3410
+aS'12'
+p3411
+aS'4'
+aS'8'
+aS'0'
+aS'1'
+aS'5'
+aS"Ha'ateiho"
+p3412
 aVTonga
+p3413
+aVTongatapu
+p3414
+aVVahe Vaini
+p3415
+aa(lp3416
+S'Hale T-Pole'
+p3417
+aS'2006'
+p3418
+aS'Lock, Flanker'
+p3419
+aS'31'
+p3420
+aS'12'
+p3421
+aS'19'
+p3422
+aS'0'
+aS'2'
+aS'10'
+p3423
+aS'Longolongo'
+p3424
+aVTonga
+p3425
+aVTongatapu
+p3426
+aVVahe Kolomotu'a
+p3427
+aa(lp3428
+S'Atonio Halangahu'
+p3429
+aS'2007'
+p3430
+aS'Hooker'
+p3431
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1981'
+p3432
+aVSverige
+p3433
+aVSvealand
+p3434
+aVVästmanlands län
+p3435
+aa(lp3436
+S'Sione Kalamafoni'
+p3437
+aS'2007'
+p3438
+aS'Back-row'
+p3439
+aS'24'
+p3440
+aS'9'
+aS'15'
+p3441
+aS'0'
+aS'2'
+aS'10'
+p3442
+aS'Matahau'
+p3443
+aVTonga
+p3444
+aVTongatapu
 p3445
-aVVava\u02bbu
+aVVahe Nukunuku
 p3446
-aVVahe Motu
-p3447
-aa(lp3448
-S'Lisiate Tafa'
+aa(lp3447
+S'Hemani Paea'
+p3448
+aS'2007'
 p3449
-aS'2007'
+aS'Centre'
 p3450
-aS'Centre, Wing'
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'1985'
 p3451
-aS'1979'
+aVNederland
 p3452
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVRomânia
+aV1985
 p3453
-aVVâlcea
+aVNederland
 p3454
-aV1979
-p3455
-aa(lp3456
-S'Patrick Tamoua'
+aa(lp3455
+S"Folauhola Tatua'a"
+p3456
+aS'2007'
 p3457
-aS'2007'
-p3458
 aS''
-aS'date unknown'
-p3459
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p3458
 aS'g'
 aS'n'
 aS'i'
-aa(lp3460
-S'Lopeti Lolohea'
+aa(lp3459
+S'Makoni Finau'
+p3460
+aS'2007'
 p3461
-aS'2007'
+aS'Prop'
 p3462
-aS'Flanker'
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'1983'
 p3463
-aS'date unknown'
+aVSverige
 p3464
+aVSvealand
+p3465
+aVVästmanlands län
+p3466
+aa(lp3467
+S"Tevita 'Ahoafi"
+p3468
+aS'2007'
+p3469
+aS'Scrum-half'
+p3470
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1987'
+p3471
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3472
+aV\u0421\u041a\u0424\u041e
+p3473
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3474
+aa(lp3475
+S"Setaleki Lu'au"
+p3476
+aS'2007'
+p3477
+aS'Fullback'
+p3478
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p3479
 aS'g'
 aS'n'
 aS'i'
-aa(lp3465
-S'Mesui Lemoto'
-p3466
+aa(lp3480
+S"Sateki Mata'u"
+p3481
 aS'2007'
-p3467
+p3482
+aS'Prop'
+p3483
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS"Ha'ateiho"
+p3484
+aVTonga
+p3485
+aVTongatapu
+p3486
+aVVahe Vaini
+p3487
+aa(lp3488
+S'Naisa Sikalu'
+p3489
+aS'2007'
+p3490
+aS'Flanker'
+p3491
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'1982'
+p3492
+aVSverige
+p3493
+aVSvealand
+p3494
+aVVästmanlands län
+p3495
+aa(lp3496
+S'Tevita Tanginoa'
+p3497
+aS'2007'
+p3498
+aS'Lock'
+p3499
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1982'
+p3500
+aVSverige
+p3501
+aVSvealand
+p3502
+aVVästmanlands län
+p3503
+aa(lp3504
+S'Samiu Vahafolau'
+p3505
+aS'2007'
+p3506
+aS'No. 8'
+p3507
+aS'14'
+p3508
+aS'8'
+aS'6'
+aS'0'
+aS'2'
+aS'10'
+p3509
+aS'Ovaka'
+p3510
+aVTonga
+p3511
+aVVava\u02bbu
+p3512
+aVVahe Motu
+p3513
+aa(lp3514
+S'Lisiate Tafa'
+p3515
+aS'2007'
+p3516
+aS'Centre, Wing'
+p3517
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1979'
+p3518
+aVRomânia
+p3519
+aVVâlcea
+p3520
+aV1979
+p3521
+aa(lp3522
+S'Patrick Tamoua'
+p3523
+aS'2007'
+p3524
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3525
+aS'g'
+aS'n'
+aS'i'
+aa(lp3526
+S'Lopeti Lolohea'
+p3527
+aS'2007'
+p3528
+aS'Flanker'
+p3529
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3530
+aS'g'
+aS'n'
+aS'i'
+aa(lp3531
+S'Mesui Lemoto'
+p3532
+aS'2007'
+p3533
 aS'Fullback'
-p3468
-aS'1986'
-p3469
+p3534
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'0'
 aS'6'
+aS'1986'
+p3535
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3470
+p3536
 aV\u0421\u041a\u0424\u041e
-p3471
+p3537
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3472
-aa(lp3473
+p3538
+aa(lp3539
 S'Finau Maka'
-p3474
+p3540
 aS'2007'
-p3475
+p3541
 aS'Back-row'
-p3476
-aS'Longoteme'
-p3477
+p3542
 aS'9'
 aS'4'
+aS'5'
+aS'0'
 aS'1'
 aS'5'
-aVTonga
-p3478
-aVTongatapu
-p3479
-aVVahe Vaini
-p3480
-aa(lp3481
-S'Enele Taufa'
-p3482
-aS'2007'
-p3483
-aS'Scrum-half'
-p3484
-aS"Ha'ateiho"
-p3485
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVTonga
-p3486
-aVTongatapu
-p3487
-aVVahe Vaini
-p3488
-aa(lp3489
-S'Josh Afu'
-p3490
-aS'2008'
-p3491
-aS'Back-row'
-p3492
-aS'QLD'
-p3493
-aS'17'
-p3494
-aS'6'
-aS'1'
-aS'5'
-aVAustralia
-p3495
-aVQueensland
-p3496
-ag2073
-aa(lp3497
-S'Sione Lavaka'
-p3498
-aS'2008'
-p3499
-aS'Wing'
-p3500
-aS'1985'
-p3501
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVNederland
-p3502
-aV1985
-p3503
-aVNederland
-p3504
-aa(lp3505
-S'Tupou Palu'
-p3506
-aS'2008'
-p3507
-aS'Wing'
-p3508
-aS'1985'
-p3509
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVNederland
-p3510
-aV1985
-p3511
-aVNederland
-p3512
-aa(lp3513
-S'Semisi Telefoni'
-p3514
-aS'2008'
-p3515
-aS'Prop'
-p3516
-aS'Auckland'
-p3517
-aS'5'
-aS'3'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p3518
-aVAuckland
-p3519
-ag2073
-aa(lp3520
-S'Samiuela Ika'
-p3521
-aS'2008'
-p3522
-aS'Lock'
-p3523
-aS'1986'
-p3524
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3525
-aV\u0421\u041a\u0424\u041e
-p3526
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3527
-aa(lp3528
-S'Sione Timani'
-p3529
-aS'2008'
-p3530
-aS'Lock'
-p3531
-aS'Tofoa'
-p3532
-aS'8'
-aS'3'
-aS'0'
-aS'0'
-aVTonga
-p3533
-aVTongatapu
-p3534
-aVVahe Kolomotu'a
-p3535
-aa(lp3536
-S'Semosoni Pone'
-p3537
-aS'2008'
-p3538
-aS'Fullback'
-p3539
-aS'1980'
-p3540
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVSverige
-p3541
-aVSvealand
-p3542
-aVVästmanlands län
+aS'Longoteme'
 p3543
-aa(lp3544
-S"'Alipate Fatafehi"
+aVTonga
+p3544
+aVTongatapu
 p3545
-aS'2009'
+aVVahe Vaini
 p3546
-aS'Centre'
-p3547
-aS'Sigatoka'
+aa(lp3547
+S'Enele Taufa'
 p3548
-aS'17'
+aS'2007'
 p3549
-aS'7'
-aS'4'
-aS'20'
+aS'Scrum-half'
 p3550
-aVViti
-p3551
-aVSigatoka
-p3552
-ag2073
-aa(lp3553
-S'David Halaifonua Tonga'
-p3554
-aS'2009'
-p3555
-aS'Wing'
-p3556
-aS"Vava'u"
-p3557
-aS'12'
-p3558
-aS'3'
+aS'4'
 aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS"Ha'ateiho"
+p3551
+aVTonga
+p3552
+aVTongatapu
+p3553
+aVVahe Vaini
+p3554
+aa(lp3555
+S'Josh Afu'
+p3556
+aS'2008'
+p3557
+aS'Back-row'
+p3558
 aS'17'
 p3559
-aVTonga
+aS'6'
+aS'10'
 p3560
-aVVava\u02bbu
+aS'1'
+aS'1'
+aS'5'
+aS'QLD'
 p3561
-ag2073
-aa(lp3562
-S"Ilaisa Ma'asi"
+aVAustralia
+p3562
+aVQueensland
 p3563
-aS'2009'
-p3564
-aS'Hooker'
+ag2097
+aa(lp3564
+S'Sione Lavaka'
 p3565
-aS'Tofoa'
+aS'2008'
 p3566
-aS'19'
+aS'Wing'
 p3567
-aS'8'
 aS'1'
-aS'5'
-aVTonga
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1985'
 p3568
-aVTongatapu
+aVNederland
 p3569
-aVVahe Kolomotu'a
+aV1985
 p3570
-aa(lp3571
-S"Po'alo'i Taula"
-p3572
-aS'2009'
+aVNederland
+p3571
+aa(lp3572
+S'Tupou Palu'
 p3573
-aS'Prop'
+aS'2008'
 p3574
-aS'1978'
+aS'Wing'
 p3575
-aS'5'
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aVSvizra
+aS'0'
+aS'1985'
 p3576
-aVSvizzera
+aVNederland
 p3577
-aVSuisse
+aV1985
 p3578
-aa(lp3579
-S'Opeti Fonua'
-p3580
-aS'2009'
+aVNederland
+p3579
+aa(lp3580
+S'Semisi Telefoni'
 p3581
-aS'No. 8'
+aS'2008'
 p3582
-aS'Kolonga'
+aS'Prop'
 p3583
 aS'5'
-aS'0'
-aS'0'
-aS'0'
-aVTonga
-p3584
-aVTongatapu
-p3585
-aVVahe Lapaha
-p3586
-aa(lp3587
-S'Pasuka Mapakaitolo'
-p3588
-aS'2009'
-p3589
-aS'Back-row'
-p3590
-aS'1980'
-p3591
-aS'5'
-aS'1'
-aS'1'
-aS'5'
-aVSverige
-p3592
-aVSvealand
-p3593
-aVVästmanlands län
-p3594
-aa(lp3595
-S'Mateo Malupo'
-p3596
-aS'2009'
-p3597
-aS'Wing'
-p3598
-aS'1988'
-p3599
-aS'4'
+aS'3'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Auckland'
+p3584
+aVNew Zealand/Aotearoa
+p3585
+aVAuckland
+p3586
+ag2097
+aa(lp3587
+S'Samiuela Ika'
+p3588
+aS'2008'
+p3589
+aS'Lock'
+p3590
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1986'
+p3591
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3600
+p3592
 aV\u0421\u041a\u0424\u041e
-p3601
+p3593
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3594
+aa(lp3595
+S'Sione Timani'
+p3596
+aS'2008'
+p3597
+aS'Lock'
+p3598
+aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Tofoa'
+p3599
+aVTonga
+p3600
+aVTongatapu
+p3601
+aVVahe Kolomotu'a
 p3602
 aa(lp3603
-S'Mahe Fangupo'
+S'Semosoni Pone'
 p3604
-aS'2009'
+aS'2008'
 p3605
-aS'Fly-half, Centre'
+aS'Fullback'
 p3606
-aS'1988'
-p3607
-aS'4'
+aS'3'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aS'0'
+aS'1980'
+p3607
+aVSverige
 p3608
-aV\u0421\u041a\u0424\u041e
+aVSvealand
 p3609
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aVVästmanlands län
 p3610
 aa(lp3611
-S'Fou-Ki-Moana Katoa'
+S"'Alipate Fatafehi"
 p3612
 aS'2009'
 p3613
-aS'Wing'
+aS'Centre'
 p3614
-aS'date unknown'
+aS'17'
 p3615
-aS'1'
+aS'7'
+aS'10'
+p3616
 aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3616
-S'Siosaia Palei'
+aS'4'
+aS'20'
 p3617
-aS'2009'
+aS'Sigatoka'
 p3618
-aS'Wing'
+aVViti
 p3619
-aS'date unknown'
+aVSigatoka
 p3620
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
+ag2097
 aa(lp3621
-S'Kilifi Fangupo'
+S'David Halaifonua Tonga'
 p3622
 aS'2009'
 p3623
-aS'Scrum-half'
+aS'Wing'
 p3624
-aS'1985'
+aS'12'
 p3625
+aS'3'
+aS'8'
 aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVNederland
+aS'2'
+aS'17'
 p3626
-aV1985
+aS"Vava'u"
 p3627
-aVNederland
+aVTonga
 p3628
-aa(lp3629
-S'Paula Kata'
-p3630
-aS'2009'
+aVVava\u02bbu
+p3629
+ag2097
+aa(lp3630
+S"Ilaisa Ma'asi"
 p3631
-aS'Flanker'
+aS'2009'
 p3632
-aS'1988'
+aS'Hooker'
 p3633
+aS'19'
+p3634
+aS'8'
+aS'11'
+p3635
+aS'0'
+aS'1'
+aS'5'
+aS'Tofoa'
+p3636
+aVTonga
+p3637
+aVTongatapu
+p3638
+aVVahe Kolomotu'a
+p3639
+aa(lp3640
+S"Po'alo'i Taula"
+p3641
+aS'2009'
+p3642
+aS'Prop'
+p3643
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'1978'
+p3644
+aVSvizra
+p3645
+aVSvizzera
+p3646
+aVSuisse
+p3647
+aa(lp3648
+S'Opeti Fonua'
+p3649
+aS'2009'
+p3650
+aS'No. 8'
+p3651
+aS'5'
+aS'0'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Kolonga'
+p3652
+aVTonga
+p3653
+aVTongatapu
+p3654
+aVVahe Lapaha
+p3655
+aa(lp3656
+S'Pasuka Mapakaitolo'
+p3657
+aS'2009'
+p3658
+aS'Back-row'
+p3659
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'1'
+aS'5'
+aS'1980'
+p3660
+aVSverige
+p3661
+aVSvealand
+p3662
+aVVästmanlands län
+p3663
+aa(lp3664
+S'Mateo Malupo'
+p3665
+aS'2009'
+p3666
+aS'Wing'
+p3667
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1988'
+p3668
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3669
+aV\u0421\u041a\u0424\u041e
+p3670
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3671
+aa(lp3672
+S'Mahe Fangupo'
+p3673
+aS'2009'
+p3674
+aS'Fly-half, Centre'
+p3675
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'1988'
+p3676
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3634
+p3677
 aV\u0421\u041a\u0424\u041e
-p3635
+p3678
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3636
-aa(lp3637
-S'Etueni Siua'
-p3638
+p3679
+aa(lp3680
+S'Fou-Ki-Moana Katoa'
+p3681
 aS'2009'
-p3639
+p3682
 aS'Wing'
-p3640
+p3683
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p3641
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p3684
 aS'g'
 aS'n'
 aS'i'
-aa(lp3642
-S'Sione Vaiomounga'
-p3643
+aa(lp3685
+S'Siosaia Palei'
+p3686
 aS'2009'
-p3644
-aS'Hooker, Flanker'
-p3645
-aS'Tefisi'
-p3646
-aS'13'
-p3647
-aS'5'
-aS'1'
-aS'5'
-aVTonga
-p3648
-aVVava\u02bbu
-p3649
-aVVahe Hihifo
-p3650
-aa(lp3651
-S'Mani Vakaloa'
-p3652
-aS'2009'
-p3653
-aS'Wing'
-p3654
-aS'1981'
-p3655
-aS'1'
-aS'1'
-aS'1'
-aS'5'
-aVSverige
-p3656
-aVSvealand
-p3657
-aVVästmanlands län
-p3658
-aa(lp3659
-S'Kurt Morath'
-p3660
-aS'2009'
-p3661
-aS'Fly-half'
-p3662
-aS'Takapuna'
-p3663
-aS'21'
-p3664
-aS'11'
-p3665
-aS'1'
-aS'250'
-p3666
-aVNew Zealand/Aotearoa
-p3667
-aVAuckland
-p3668
-aVDevonport-Takapuna
-p3669
-aa(lp3670
-S"Manu Ahota'e'iloa"
-p3671
-aS'2010'
-p3672
-aS'Centre'
-p3673
-aS'Meifu'
-p3674
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aV\u4e2d\u83ef\u6c11\u570b
-p3675
-aV268
-p3676
-aV\u81fa\u7063\u7701
-p3677
-aa(lp3678
-S"Akameta Fe'ao"
-p3679
-aS'2010'
-p3680
-aS'Lock'
-p3681
-aS'1986'
-p3682
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3683
-aV\u0421\u041a\u0424\u041e
-p3684
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3685
-aa(lp3686
-S'Saia Fekitoa'
 p3687
-aS'2010'
-p3688
 aS'Wing'
-p3689
-aS'1987'
-p3690
-aS'2'
+p3688
+aS'1'
 aS'0'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3691
-aV\u0421\u041a\u0424\u041e
-p3692
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3693
-aa(lp3694
-S'Kelepi Halafihi'
-p3695
-aS'2010'
-p3696
-aS'Lock'
-p3697
-aS'1984'
-p3698
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVSverige
-p3699
-aVSvealand
-p3700
-aVVästmanlands län
-p3701
-aa(lp3702
-S'Daniel Morath'
-p3703
-aS'2010'
-p3704
-aS'Scrum-half'
-p3705
-aS'1980'
-p3706
-aS'3'
 aS'1'
 aS'0'
 aS'0'
-aVSverige
-p3707
-aVSvealand
-p3708
-aVVästmanlands län
-p3709
-aa(lp3710
-S'Alapini Olosoni'
-p3711
-aS'2010'
-p3712
-aS'Lock, Flanker'
-p3713
-aS'1979'
-p3714
+aS'0'
+aS'date unknown'
+p3689
+aS'g'
+aS'n'
+aS'i'
+aa(lp3690
+S'Kilifi Fangupo'
+p3691
+aS'2009'
+p3692
+aS'Scrum-half'
+p3693
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1985'
+p3694
+aVNederland
+p3695
+aV1985
+p3696
+aVNederland
+p3697
+aa(lp3698
+S'Paula Kata'
+p3699
+aS'2009'
+p3700
+aS'Flanker'
+p3701
+aS'4'
+aS'1'
 aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1988'
+p3702
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3703
+aV\u0421\u041a\u0424\u041e
+p3704
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3705
+aa(lp3706
+S'Etueni Siua'
+p3707
+aS'2009'
+p3708
+aS'Wing'
+p3709
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3710
+aS'g'
+aS'n'
+aS'i'
+aa(lp3711
+S'Sione Vaiomounga'
+p3712
+aS'2009'
+p3713
+aS'Hooker, Flanker'
+p3714
+aS'13'
+p3715
+aS'5'
+aS'8'
 aS'0'
 aS'1'
 aS'5'
-aVRomânia
-p3715
-aVVâlcea
+aS'Tefisi'
 p3716
-aV1979
-p3717
-aa(lp3718
-S'Alaska Taufa'
-p3719
-aS'2010'
-p3720
-aS'Wing'
-p3721
-aS"Ha'ateiho"
-p3722
-aS'12'
-p3723
-aS'2'
-aS'4'
-aS'20'
-p3724
 aVTonga
+p3717
+aVVava\u02bbu
+p3718
+aVVahe Hihifo
+p3719
+aa(lp3720
+S'Mani Vakaloa'
+p3721
+aS'2009'
+p3722
+aS'Wing'
+p3723
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'1981'
+p3724
+aVSverige
 p3725
-aVTongatapu
+aVSvealand
 p3726
-aVVahe Vaini
+aVVästmanlands län
 p3727
 aa(lp3728
-S'Samisoni Fisilau'
+S'Kurt Morath'
 p3729
-aS'2010'
+aS'2009'
 p3730
-aS'Scrum-half'
+aS'Fly-half'
 p3731
-aS'Tofoa'
+aS'21'
 p3732
-aS'15'
+aS'11'
 p3733
-aS'3'
-aS'0'
-aS'2'
-aVTonga
-p3734
-aVTongatapu
-p3735
-aVVahe Kolomotu'a
-p3736
-aa(lp3737
-S'Sione Fukofuka'
-p3738
-aS'2010'
-p3739
-aS'Prop'
-p3740
-aS'1984'
-p3741
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVSverige
-p3742
-aVSvealand
-p3743
-aVVästmanlands län
-p3744
-aa(lp3745
-S'Steve Mafi'
-p3746
-aS'2010'
-p3747
-aS'Flanker'
-p3748
-aS'Fairfield'
-p3749
 aS'10'
-p3750
+p3734
+aS'0'
+aS'1'
+aS'250'
+p3735
+aS'Takapuna'
+p3736
+aVNew Zealand/Aotearoa
+p3737
+aVAuckland
+p3738
+aVDevonport-Takapuna
+p3739
+aa(lp3740
+S"Manu Ahota'e'iloa"
+p3741
+aS'2010'
+p3742
+aS'Centre'
+p3743
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
-aVUnited States of America
+aS'0'
+aS'Meifu'
+p3744
+aV\u4e2d\u83ef\u6c11\u570b
+p3745
+aV268
+p3746
+aV\u81fa\u7063\u7701
+p3747
+aa(lp3748
+S"Akameta Fe'ao"
+p3749
+aS'2010'
+p3750
+aS'Lock'
 p3751
-aVCalifornia
-p3752
-aVSolano County
-p3753
-aa(lp3754
-S'Will Helu'
-p3755
-aS'2010'
-p3756
-aS'Wing'
-p3757
-aS'Auckland'
-p3758
-aS'19'
-p3759
-aS'7'
-aS'6'
-aS'30'
-p3760
-aVNew Zealand/Aotearoa
-p3761
-aVAuckland
-p3762
-ag2073
-aa(lp3763
-S'Haani Halaeua'
-p3764
-aS'2010'
-p3765
-aS'Flanker'
-p3766
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'1986'
+p3752
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3753
+aV\u0421\u041a\u0424\u041e
+p3754
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3755
+aa(lp3756
+S'Saia Fekitoa'
+p3757
+aS'2010'
+p3758
+aS'Wing'
+p3759
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1987'
+p3760
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3761
+aV\u0421\u041a\u0424\u041e
+p3762
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3763
+aa(lp3764
+S'Kelepi Halafihi'
+p3765
+aS'2010'
+p3766
+aS'Lock'
 p3767
 aS'2'
 aS'0'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3768
-aV\u0421\u041a\u0424\u041e
-p3769
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3770
-aa(lp3771
-S'Viliami Pola'
-p3772
-aS'2010'
-p3773
-aS'Prop'
-p3774
-aS'1988'
-p3775
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3776
-aV\u0421\u041a\u0424\u041e
-p3777
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3778
-aa(lp3779
-S'Aloisio Mailangi'
-p3780
-aS'2010'
-p3781
-aS'Flanker'
-p3782
-aS'1979'
-p3783
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVRomânia
-p3784
-aVVâlcea
-p3785
-aV1979
-p3786
-aa(lp3787
-S'Damian Fakafanua'
-p3788
-aS'2010'
-p3789
-aS'Wing, Centre'
-p3790
-aS'1984'
-p3791
 aS'2'
-aS'1'
-aS'1'
-aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'1984'
+p3768
 aVSverige
-p3792
+p3769
 aVSvealand
-p3793
+p3770
 aVVästmanlands län
-p3794
-aa(lp3795
-S'Taumei Hikila'
-p3796
+p3771
+aa(lp3772
+S'Daniel Morath'
+p3773
 aS'2010'
-p3797
-aS'Lock'
-p3798
+p3774
+aS'Scrum-half'
+p3775
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'1980'
-p3799
-aS'1'
-aS'1'
+p3776
+aVSverige
+p3777
+aVSvealand
+p3778
+aVVästmanlands län
+p3779
+aa(lp3780
+S'Alapini Olosoni'
+p3781
+aS'2010'
+p3782
+aS'Lock, Flanker'
+p3783
+aS'3'
+aS'0'
+aS'3'
+aS'0'
 aS'1'
 aS'5'
-aVSverige
-p3800
-aVSvealand
-p3801
-aVVästmanlands län
-p3802
-aa(lp3803
-S'Rutikha Ilolahia'
-p3804
+aS'1979'
+p3784
+aVRomânia
+p3785
+aVVâlcea
+p3786
+aV1979
+p3787
+aa(lp3788
+S'Alaska Taufa'
+p3789
 aS'2010'
+p3790
+aS'Wing'
+p3791
+aS'12'
+p3792
+aS'2'
+aS'9'
+aS'1'
+aS'4'
+aS'20'
+p3793
+aS"Ha'ateiho"
+p3794
+aVTonga
+p3795
+aVTongatapu
+p3796
+aVVahe Vaini
+p3797
+aa(lp3798
+S'Samisoni Fisilau'
+p3799
+aS'2010'
+p3800
+aS'Scrum-half'
+p3801
+aS'15'
+p3802
+aS'3'
+aS'11'
+p3803
+aS'1'
+aS'0'
+aS'2'
+aS'Tofoa'
+p3804
+aVTonga
 p3805
-aS'Back-row'
+aVTongatapu
 p3806
-aS'date unknown'
+aVVahe Kolomotu'a
 p3807
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
 aa(lp3808
-S'Petuliki Mateo'
+S'Sione Fukofuka'
 p3809
 aS'2010'
 p3810
-aS'Centre'
+aS'Prop'
 p3811
-aS'date unknown'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1984'
 p3812
-aS'1'
-aS'1'
-aS'1'
-aS'5'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3813
-S'Kama Sakalia'
+aVSverige
+p3813
+aVSvealand
 p3814
-aS'2010'
+aVVästmanlands län
 p3815
-aS'Hooker'
-p3816
-aS'1985'
+aa(lp3816
+S'Steve Mafi'
 p3817
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVNederland
+aS'2010'
 p3818
-aV1985
+aS'Flanker'
 p3819
-aVNederland
+aS'10'
 p3820
-aa(lp3821
-S'Paea Siulangapo'
+aS'3'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Fairfield'
+p3821
+aVUnited States of America
 p3822
-aS'2010'
+aVCalifornia
 p3823
-aS'Back-row'
+aVSolano County
 p3824
-aS'date unknown'
-p3825
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3826
-S'Michael Toloke'
-p3827
+aa(lp3825
+S'Will Helu'
+p3826
 aS'2010'
+p3827
+aS'Wing'
 p3828
-aS'Fullback'
+aS'19'
 p3829
-aS'1990'
-p3830
-aS'1'
-aS'1'
-aS'1'
+aS'7'
 aS'12'
+p3830
+aS'0'
+aS'6'
+aS'30'
 p3831
-aVPortugal
+aS'Auckland'
 p3832
-aV1990
+aVNew Zealand/Aotearoa
 p3833
-aVLisboa
+aVAuckland
 p3834
+ag2097
 aa(lp3835
-S'Sione Vaioleti'
+S'Haani Halaeua'
 p3836
 aS'2010'
 p3837
 aS'Flanker'
 p3838
-aS'date unknown'
-p3839
-aS'1'
-aS'1'
+aS'2'
 aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3840
-S'Sioeli Faupula'
-p3841
-aS'2010'
-p3842
-aS''
-aS'date unknown'
-p3843
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3844
-S'Kuea Kolokihakaufiji'
-p3845
-aS'2010'
-p3846
-aS'Flanker'
-p3847
-aS'date unknown'
-p3848
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3849
-S'Viliame Iongi'
-p3850
-aS'2011'
-p3851
-aS'Wing'
-p3852
-aS'Tofoa'
-p3853
-aS'18'
-p3854
-aS'9'
-aS'8'
-aS'40'
-p3855
-aVTonga
-p3856
-aVTongatapu
-p3857
-aVVahe Kolomotu'a
-p3858
-aa(lp3859
-S'Pepa Koloamatangi'
-p3860
-aS'2011'
-p3861
-aS'Flanker'
-p3862
-aS'1982'
-p3863
-aS'3'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'1986'
+p3839
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3840
+aV\u0421\u041a\u0424\u041e
+p3841
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3842
+aa(lp3843
+S'Viliami Pola'
+p3844
+aS'2010'
+p3845
+aS'Prop'
+p3846
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1988'
+p3847
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3848
+aV\u0421\u041a\u0424\u041e
+p3849
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3850
+aa(lp3851
+S'Aloisio Mailangi'
+p3852
+aS'2010'
+p3853
+aS'Flanker'
+p3854
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1979'
+p3855
+aVRomânia
+p3856
+aVVâlcea
+p3857
+aV1979
+p3858
+aa(lp3859
+S'Damian Fakafanua'
+p3860
+aS'2010'
+p3861
+aS'Wing, Centre'
+p3862
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'1984'
+p3863
 aVSverige
 p3864
 aVSvealand
@@ -10509,735 +11574,1029 @@ p3865
 aVVästmanlands län
 p3866
 aa(lp3867
-S"Viliami Ma'afu"
+S'Taumei Hikila'
 p3868
-aS'2011'
+aS'2010'
 p3869
-aS'No. 8'
-p3870
-aS'Longolongo'
-p3871
-aS'21'
-p3872
-aS'10'
-p3873
-aS'3'
-aS'15'
-p3874
-aVTonga
-p3875
-aVTongatapu
-p3876
-aVVahe Kolomotu'a
-p3877
-aa(lp3878
-S"Ofa Fainga'anuku"
-p3879
-aS'2011'
-p3880
-aS'Prop'
-p3881
-aS'1982'
-p3882
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVSverige
-p3883
-aVSvealand
-p3884
-aVVästmanlands län
-p3885
-aa(lp3886
-S'Paula Kaho'
-p3887
-aS'2011'
-p3888
-aS'No. 8'
-p3889
-aS'1984'
-p3890
-aS'8'
-aS'4'
-aS'1'
-aS'5'
-aVSverige
-p3891
-aVSvealand
-p3892
-aVVästmanlands län
-p3893
-aa(lp3894
-S'Eddie Paea'
-p3895
-aS'2011'
-p3896
-aS'Halfback'
-p3897
-aS'NSW'
-p3898
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3899
-aVNew South Wales
-p3900
-ag2073
-aa(lp3901
-S'Silivenusi Taumoepeau'
-p3902
-aS'2011'
-p3903
-aS'Centre'
-p3904
-aS'1985'
-p3905
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVNederland
-p3906
-aV1985
-p3907
-aVNederland
-p3908
-aa(lp3909
-S'Sona Taumalolo'
-p3910
-aS'2011'
-p3911
-aS'Prop'
-p3912
-aS"Ha'akame"
-p3913
-aS'13'
-p3914
-aS'6'
-aS'4'
-aS'20'
-p3915
-aVTonga
-p3916
-aVTongatapu
-p3917
-aVVahe Nukunuku
-p3918
-aa(lp3919
-S'Joe Tuineau'
-p3920
-aS'2011'
-p3921
 aS'Lock'
-p3922
-aS'Suva'
-p3923
-aS'18'
-p3924
-aS'10'
-p3925
+p3870
+aS'1'
+aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'5'
-aVViti
-p3926
-aVCentral
-p3927
-aVSuva
-p3928
-aa(lp3929
-S'Tevita Ula'
-p3930
-aS'2011'
-p3931
-aS'Flanker'
-p3932
-aS'1985'
-p3933
+aS'1980'
+p3871
+aVSverige
+p3872
+aVSvealand
+p3873
+aVVästmanlands län
+p3874
+aa(lp3875
+S'Rutikha Ilolahia'
+p3876
+aS'2010'
+p3877
+aS'Back-row'
+p3878
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVNederland
-p3934
-aV1985
-p3935
-aVNederland
-p3936
-aa(lp3937
-S'Sila Puafisi'
-p3938
-aS'2011'
-p3939
-aS'Prop'
-p3940
-aS'Tefisi'
-p3941
-aS'13'
-p3942
-aS'3'
 aS'0'
 aS'0'
-aVTonga
-p3943
-aVVava\u02bbu
-p3944
-aVVahe Hihifo
-p3945
-aa(lp3946
-S'Maleko Latu'
-p3947
-aS'2011'
-p3948
-aS'Prop'
-p3949
-aS'1988'
-p3950
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3951
-aV\u0421\u041a\u0424\u041e
-p3952
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3953
-aa(lp3954
-S'Tomasi Palu'
-p3955
-aS'2011'
-p3956
-aS'Scrum-half'
-p3957
-aS'Wellington'
-p3958
-aS'11'
-p3959
-aS'5'
-aS'0'
-aS'9'
-aVNew Zealand/Aotearoa
-p3960
-aVWellington
-p3961
-aVWellington City
-p3962
-aa(lp3963
-S"Halani 'Aulika"
-p3964
-aS'2011'
-p3965
-aS'Prop'
-p3966
-aS'Angahaeua'
-p3967
-aS'8'
-aS'5'
-aS'0'
-aS'0'
+aS'date unknown'
+p3879
 aS'g'
 aS'n'
 aS'i'
-aa(lp3968
-S'Taniela Moa'
-p3969
-aS'2011'
-p3970
-aS'Scrum-half'
-p3971
-aS'Tofoa'
-p3972
-aS'20'
-p3973
-aS'10'
-p3974
-aS'3'
-aS'15'
-p3975
-aVTonga
-p3976
-aVTongatapu
-p3977
-aVVahe Kolomotu'a
-p3978
-aa(lp3979
-S"Fetu'u Vainikolo"
-p3980
-aS'2011'
-p3981
-aS'Wing'
-p3982
-aS"Ha'alalo"
-p3983
-aS'17'
-p3984
-aS'7'
-aS'12'
-p3985
-aS'60'
-p3986
-aVTonga
-p3987
-aVTongatapu
-p3988
-aVVahe Nukunuku
-p3989
-aa(lp3990
-S'Siale Piutau'
-p3991
-aS'2011'
-p3992
-aS'Wing, Centre'
-p3993
-aS'Auckland'
-p3994
-aS'19'
-p3995
-aS'7'
-aS'2'
-aS'10'
-p3996
-aVNew Zealand/Aotearoa
-p3997
-aVAuckland
-p3998
-ag2073
-aa(lp3999
-S'Mafileo Kefu'
-p4000
-aS'2012'
-p4001
+aa(lp3880
+S'Petuliki Mateo'
+p3881
+aS'2010'
+p3882
 aS'Centre'
-p4002
-aS'QLD'
-p4003
-aS'3'
+p3883
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p4004
-aVQueensland
-p4005
-ag2073
-aa(lp4006
-S"Viliami Fainga'a"
-p4007
-aS'2012'
-p4008
-aS'Prop, Back-row'
-p4009
-aS'NSW'
-p4010
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p4011
-aVNew South Wales
-p4012
-ag2073
-aa(lp4013
-S'Tevita Mailau'
-p4014
-aS'2012'
-p4015
-aS'Prop'
-p4016
-aS'Manly'
-p4017
-aS'13'
-p4018
+aS'1'
 aS'5'
-aS'0'
-aS'0'
-aVAustralia
-p4019
-aVQueensland
-p4020
-aVBrisbane
-p4021
-aa(lp4022
-S'Sione Piukala'
-p4023
-aS'2012'
-p4024
-aS'Centre'
-p4025
-aS'Futu'
-p4026
-aS'10'
-p4027
-aS'4'
-aS'3'
-aS'15'
-p4028
-aVTonga
-p4029
-aVTongatapu
-p4030
-aVVahe 'Eua
-p4031
-aa(lp4032
-S'Elvis Taione'
-p4033
-aS'2012'
-p4034
+aS'date unknown'
+p3884
+aS'g'
+aS'n'
+aS'i'
+aa(lp3885
+S'Kama Sakalia'
+p3886
+aS'2010'
+p3887
 aS'Hooker'
-p4035
-aS"Nuku'alofa"
-p4036
-aS'13'
-p4037
+p3888
 aS'6'
-aS'0'
-aS'0'
-aVTonga
-p4038
-aVTongatapu
-p4039
-aVVahe Kolofo'ou
-p4040
-aa(lp4041
-S'Eddie Aholelei'
-p4042
-aS'2013'
-p4043
-aS'Prop'
-p4044
-aS'Auckland'
-p4045
-aS'6'
-aS'1'
-aS'1'
-aS'5'
-aVNew Zealand/Aotearoa
-p4046
-aVAuckland
-p4047
-ag2073
-aa(lp4048
-S'Taione Vea'
-p4049
-aS'2013'
-p4050
-aS'Prop'
-p4051
-aS'Auckland'
-p4052
-aS'6'
+aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVNew Zealand/Aotearoa
-p4053
-aVAuckland
-p4054
-ag2073
-aa(lp4055
-S'Viliami Fihaki'
-p4056
-aS'2013'
-p4057
+aS'1985'
+p3889
+aVNederland
+p3890
+aV1985
+p3891
+aVNederland
+p3892
+aa(lp3893
+S'Paea Siulangapo'
+p3894
+aS'2010'
+p3895
 aS'Back-row'
-p4058
-aS"Nuku'alofa"
-p4059
-aS'5'
+p3896
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3897
+aS'g'
+aS'n'
+aS'i'
+aa(lp3898
+S'Michael Toloke'
+p3899
+aS'2010'
+p3900
+aS'Fullback'
+p3901
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'12'
+p3902
+aS'1990'
+p3903
+aVPortugal
+p3904
+aV1990
+p3905
+aVLisboa
+p3906
+aa(lp3907
+S'Sione Vaioleti'
+p3908
+aS'2010'
+p3909
+aS'Flanker'
+p3910
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3911
+aS'g'
+aS'n'
+aS'i'
+aa(lp3912
+S'Sioeli Faupula'
+p3913
+aS'2010'
+p3914
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3915
+aS'g'
+aS'n'
+aS'i'
+aa(lp3916
+S'Kuea Kolokihakaufiji'
+p3917
+aS'2010'
+p3918
+aS'Flanker'
+p3919
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p3920
+aS'g'
+aS'n'
+aS'i'
+aa(lp3921
+S'Viliame Iongi'
+p3922
+aS'2011'
+p3923
+aS'Wing'
+p3924
+aS'18'
+p3925
+aS'9'
+aS'9'
+aS'0'
+aS'8'
+aS'40'
+p3926
+aS'Tofoa'
+p3927
+aVTonga
+p3928
+aVTongatapu
+p3929
+aVVahe Kolomotu'a
+p3930
+aa(lp3931
+S'Pepa Koloamatangi'
+p3932
+aS'2011'
+p3933
+aS'Flanker'
+p3934
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1982'
+p3935
+aVSverige
+p3936
+aVSvealand
+p3937
+aVVästmanlands län
+p3938
+aa(lp3939
+S"Viliami Ma'afu"
+p3940
+aS'2011'
+p3941
+aS'No. 8'
+p3942
+aS'21'
+p3943
+aS'10'
+p3944
+aS'10'
+p3945
+aS'1'
+aS'3'
+aS'15'
+p3946
+aS'Longolongo'
+p3947
+aVTonga
+p3948
+aVTongatapu
+p3949
+aVVahe Kolomotu'a
+p3950
+aa(lp3951
+S"Ofa Fainga'anuku"
+p3952
+aS'2011'
+p3953
+aS'Prop'
+p3954
+aS'3'
 aS'1'
 aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1982'
+p3955
+aVSverige
+p3956
+aVSvealand
+p3957
+aVVästmanlands län
+p3958
+aa(lp3959
+S'Paula Kaho'
+p3960
+aS'2011'
+p3961
+aS'No. 8'
+p3962
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'1'
+aS'5'
+aS'1984'
+p3963
+aVSverige
+p3964
+aVSvealand
+p3965
+aVVästmanlands län
+p3966
+aa(lp3967
+S'Eddie Paea'
+p3968
+aS'2011'
+p3969
+aS'Halfback'
+p3970
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3971
+aVAustralia
+p3972
+aVNew South Wales
+p3973
+ag2097
+aa(lp3974
+S'Silivenusi Taumoepeau'
+p3975
+aS'2011'
+p3976
+aS'Centre'
+p3977
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1985'
+p3978
+aVNederland
+p3979
+aV1985
+p3980
+aVNederland
+p3981
+aa(lp3982
+S'Sona Taumalolo'
+p3983
+aS'2011'
+p3984
+aS'Prop'
+p3985
+aS'13'
+p3986
+aS'6'
+aS'7'
+aS'0'
+aS'4'
+aS'20'
+p3987
+aS"Ha'akame"
+p3988
+aVTonga
+p3989
+aVTongatapu
+p3990
+aVVahe Nukunuku
+p3991
+aa(lp3992
+S'Joe Tuineau'
+p3993
+aS'2011'
+p3994
+aS'Lock'
+p3995
+aS'18'
+p3996
 aS'10'
+p3997
+aS'8'
+aS'0'
+aS'1'
+aS'5'
+aS'Suva'
+p3998
+aVViti
+p3999
+aVCentral
+p4000
+aVSuva
+p4001
+aa(lp4002
+S'Tevita Ula'
+p4003
+aS'2011'
+p4004
+aS'Flanker'
+p4005
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1985'
+p4006
+aVNederland
+p4007
+aV1985
+p4008
+aVNederland
+p4009
+aa(lp4010
+S'Sila Puafisi'
+p4011
+aS'2011'
+p4012
+aS'Prop'
+p4013
+aS'13'
+p4014
+aS'3'
+aS'9'
+aS'1'
+aS'0'
+aS'0'
+aS'Tefisi'
+p4015
+aVTonga
+p4016
+aVVava\u02bbu
+p4017
+aVVahe Hihifo
+p4018
+aa(lp4019
+S'Maleko Latu'
+p4020
+aS'2011'
+p4021
+aS'Prop'
+p4022
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1988'
+p4023
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p4024
+aV\u0421\u041a\u0424\u041e
+p4025
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p4026
+aa(lp4027
+S'Tomasi Palu'
+p4028
+aS'2011'
+p4029
+aS'Scrum-half'
+p4030
+aS'11'
+p4031
+aS'5'
+aS'6'
+aS'0'
+aS'0'
+aS'9'
+aS'Wellington'
+p4032
+aVNew Zealand/Aotearoa
+p4033
+aVWellington
+p4034
+aVWellington City
+p4035
+aa(lp4036
+S"Halani 'Aulika"
+p4037
+aS'2011'
+p4038
+aS'Prop'
+p4039
+aS'8'
+aS'5'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Angahaeua'
+p4040
+aS'g'
+aS'n'
+aS'i'
+aa(lp4041
+S'Taniela Moa'
+p4042
+aS'2011'
+p4043
+aS'Scrum-half'
+p4044
+aS'20'
+p4045
+aS'10'
+p4046
+aS'10'
+p4047
+aS'0'
+aS'3'
+aS'15'
+p4048
+aS'Tofoa'
+p4049
+aVTonga
+p4050
+aVTongatapu
+p4051
+aVVahe Kolomotu'a
+p4052
+aa(lp4053
+S"Fetu'u Vainikolo"
+p4054
+aS'2011'
+p4055
+aS'Wing'
+p4056
+aS'17'
+p4057
+aS'7'
+aS'9'
+aS'1'
+aS'12'
+p4058
+aS'60'
+p4059
+aS"Ha'alalo"
 p4060
 aVTonga
 p4061
 aVTongatapu
 p4062
-aVVahe Kolofo'ou
+aVVahe Nukunuku
 p4063
 aa(lp4064
-S'Samisone Masima'
+S'Siale Piutau'
 p4065
-aS'2013'
+aS'2011'
 p4066
-aS'Lock'
+aS'Wing, Centre'
 p4067
-aS'1986'
+aS'19'
 p4068
+aS'7'
+aS'11'
+p4069
+aS'1'
 aS'2'
+aS'10'
+p4070
+aS'Auckland'
+p4071
+aVNew Zealand/Aotearoa
+p4072
+aVAuckland
+p4073
+ag2097
+aa(lp4074
+S'Mafileo Kefu'
+p4075
+aS'2012'
+p4076
+aS'Centre'
+p4077
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p4078
+aVAustralia
+p4079
+aVQueensland
+p4080
+ag2097
+aa(lp4081
+S"Viliami Fainga'a"
+p4082
+aS'2012'
+p4083
+aS'Prop, Back-row'
+p4084
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4085
+aVAustralia
+p4086
+aVNew South Wales
+p4087
+ag2097
+aa(lp4088
+S'Tevita Mailau'
+p4089
+aS'2012'
+p4090
+aS'Prop'
+p4091
+aS'13'
+p4092
+aS'5'
+aS'7'
 aS'1'
 aS'0'
 aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p4069
-aV\u0421\u041a\u0424\u041e
-p4070
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p4071
-aa(lp4072
-S'Fraser Anderson'
-p4073
+aS'Manly'
+p4093
+aVAustralia
+p4094
+aVQueensland
+p4095
+aVBrisbane
+p4096
+aa(lp4097
+S'Sione Piukala'
+p4098
+aS'2012'
+p4099
+aS'Centre'
+p4100
+aS'10'
+p4101
+aS'4'
+aS'6'
+aS'0'
+aS'3'
+aS'15'
+p4102
+aS'Futu'
+p4103
+aVTonga
+p4104
+aVTongatapu
+p4105
+aVVahe 'Eua
+p4106
+aa(lp4107
+S'Elvis Taione'
+p4108
+aS'2012'
+p4109
+aS'Hooker'
+p4110
+aS'13'
+p4111
+aS'6'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS"Nuku'alofa"
+p4112
+aVTonga
+p4113
+aVTongatapu
+p4114
+aVVahe Kolofo'ou
+p4115
+aa(lp4116
+S'Eddie Aholelei'
+p4117
 aS'2013'
-p4074
-aS'Centre, Wing'
-p4075
-aS'Auckland'
-p4076
+p4118
+aS'Prop'
+p4119
+aS'6'
+aS'1'
 aS'4'
 aS'1'
 aS'1'
 aS'5'
+aS'Auckland'
+p4120
 aVNew Zealand/Aotearoa
-p4077
+p4121
 aVAuckland
-p4078
-ag2073
-aa(lp4079
-S'Siale Fahiua'
-p4080
+p4122
+ag2097
+aa(lp4123
+S'Taione Vea'
+p4124
 aS'2013'
-p4081
-aS'Scrum-half'
-p4082
-aS'1991'
-p4083
+p4125
+aS'Prop'
+p4126
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p4127
+aVNew Zealand/Aotearoa
+p4128
+aVAuckland
+p4129
+ag2097
+aa(lp4130
+S'Viliami Fihaki'
+p4131
+aS'2013'
+p4132
+aS'Back-row'
+p4133
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'2'
+aS'10'
+p4134
+aS"Nuku'alofa"
+p4135
+aVTonga
+p4136
+aVTongatapu
+p4137
+aVVahe Kolofo'ou
+p4138
+aa(lp4139
+S'Samisone Masima'
+p4140
+aS'2013'
+p4141
+aS'Lock'
+p4142
 aS'2'
 aS'1'
+aS'1'
 aS'0'
-aS'2'
-aVNederland
-p4084
-aV1991
-p4085
-aVNederland
-p4086
-aa(lp4087
-S'Dan Faleafa'
-p4088
+aS'0'
+aS'0'
+aS'1986'
+p4143
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p4144
+aV\u0421\u041a\u0424\u041e
+p4145
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p4146
+aa(lp4147
+S'Fraser Anderson'
+p4148
 aS'2013'
-p4089
-aS'Flanker, Lock'
-p4090
-aS'1989'
-p4091
+p4149
+aS'Centre, Wing'
+p4150
 aS'4'
 aS'1'
-aS'0'
-aS'0'
-aV\u010cesko
-p4092
-aV43201
-p4093
-aVSeverozápad
-p4094
-aa(lp4095
-S'Rocky Havili'
-p4096
-aS'2013'
-p4097
-aS'Centre, Wing'
-p4098
-aS'1980'
-p4099
+aS'2'
 aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVSverige
-p4100
-aVSvealand
-p4101
-aVVästmanlands län
-p4102
-aa(lp4103
-S"Uili Kolo'ofai"
-p4104
-aS'2013'
-p4105
-aS'Lock'
-p4106
+aS'1'
+aS'5'
 aS'Auckland'
-p4107
+p4151
+aVNew Zealand/Aotearoa
+p4152
+aVAuckland
+p4153
+ag2097
+aa(lp4154
+S'Siale Fahiua'
+p4155
+aS'2013'
+p4156
+aS'Scrum-half'
+p4157
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'1991'
+p4158
+aVNederland
+p4159
+aV1991
+p4160
+aVNederland
+p4161
+aa(lp4162
+S'Dan Faleafa'
+p4163
+aS'2013'
+p4164
+aS'Flanker, Lock'
+p4165
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'1989'
+p4166
+aV\u010cesko
+p4167
+aV43201
+p4168
+aVSeverozápad
+p4169
+aa(lp4170
+S'Rocky Havili'
+p4171
+aS'2013'
+p4172
+aS'Centre, Wing'
+p4173
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVNew Zealand/Aotearoa
-p4108
-aVAuckland
-p4109
-ag2073
-aa(lp4110
-S'Latiume Fosita'
-p4111
+aS'1980'
+p4174
+aVSverige
+p4175
+aVSvealand
+p4176
+aVVästmanlands län
+p4177
+aa(lp4178
+S"Uili Kolo'ofai"
+p4179
 aS'2013'
-p4112
+p4180
+aS'Lock'
+p4181
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p4182
+aVNew Zealand/Aotearoa
+p4183
+aVAuckland
+p4184
+ag2097
+aa(lp4185
+S'Latiume Fosita'
+p4186
+aS'2013'
+p4187
 aS'Fly-half'
-p4113
-aS'Felemea'
-p4114
+p4188
 aS'8'
 aS'2'
+aS'5'
+aS'1'
 aS'0'
 aS'29'
-p4115
+p4189
+aS'Felemea'
+p4190
 aVTonga
-p4116
+p4191
 aVVahe 'Uiha
-p4117
+p4192
 aVFelemea
-p4118
-aa(lp4119
+p4193
+aa(lp4194
 S'Suliasi Taufalele'
-p4120
+p4195
 aS'2013'
-p4121
+p4196
 aS'Hooker'
-p4122
-aS'Tokoroa'
-p4123
+p4197
 aS'4'
 aS'0'
+aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'Tokoroa'
+p4198
 aVNew Zealand/Aotearoa
-p4124
+p4199
 aVWaikato
-p4125
+p4200
 aVSouth Waikato District
-p4126
-aa(lp4127
+p4201
+aa(lp4202
 S"Mata'ali Paea"
-p4128
+p4203
 aS'2013'
-p4129
+p4204
 aS'Centre'
-p4130
+p4205
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'1990'
-p4131
-aS'1'
-aS'0'
-aS'0'
-aS'0'
+p4206
 aVPortugal
-p4132
+p4207
 aV1990
-p4133
+p4208
 aVLisboa
-p4134
-aa(lp4135
+p4209
+aa(lp4210
 S'Otulea Katoa'
-p4136
+p4211
 aS'2014'
-p4137
+p4212
 aS'Wing'
-p4138
+p4213
+aS'3'
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'5'
 aS'Havelu'
-p4139
-aS'3'
-aS'2'
-aS'1'
-aS'5'
+p4214
 aVFrance
-p4140
+p4215
 aV28410
-p4141
+p4216
 aVFrance métropolitaine
-p4142
-aa(lp4143
+p4217
+aa(lp4218
 S'Paul Ngauamo'
-p4144
+p4219
 aS'2014'
-p4145
+p4220
 aS'Hooker'
-p4146
-aS'Christchurch'
-p4147
+p4221
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'Christchurch'
+p4222
 aVNew Zealand/Aotearoa
-p4148
+p4223
 aVCanterbury
-p4149
+p4224
 aVChristchurch City
-p4150
-aa(lp4151
+p4225
+aa(lp4226
 S'Tane Takulua'
-p4152
+p4227
 aS'2014'
-p4153
+p4228
 aS'Scrum-half'
-p4154
-aS'Lapaha'
-p4155
+p4229
 aS'5'
 aS'2'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'Lapaha'
+p4230
 aVTonga
-p4156
+p4231
 aVTongatapu
-p4157
+p4232
 aVVahe Lapaha
-p4158
-aa(lp4159
+p4233
+aa(lp4234
 S"Paea Fa'anunu"
-p4160
+p4235
 aS'2014'
-p4161
+p4236
 aS'Prop'
-p4162
-aS'Auckland'
-p4163
+p4237
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Auckland'
+p4238
 aVNew Zealand/Aotearoa
-p4164
+p4239
 aVAuckland
-p4165
-ag2073
-aa(lp4166
+p4240
+ag2097
+aa(lp4241
 S'Siua Halanukonuka'
-p4167
+p4242
 aS'2014'
-p4168
+p4243
 aS'Prop'
-p4169
+p4244
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'1986'
-p4170
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p4245
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p4171
+p4246
 aV\u0421\u041a\u0424\u041e
-p4172
+p4247
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p4173
-aa(lp4174
+p4248
+aa(lp4249
 S'Sione Lea'
-p4175
+p4250
 aS'2014'
-p4176
+p4251
 aS'Prop'
-p4177
-aS"Vava'u"
-p4178
+p4252
 aS'2'
 aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS"Vava'u"
+p4253
 aVTonga
-p4179
+p4254
 aVVava\u02bbu
-p4180
-ag2073
+p4255
+ag2097
 aa.

@@ -6,12 +6,14 @@ aS'1899'
 p4
 aS'Prop'
 p5
-aS'Qld'
-p6
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Qld'
+p6
 aVAustralia
 p7
 aVQueensland
@@ -25,12 +27,14 @@ aS'1899'
 p12
 aS'Prop'
 p13
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Grahamstown'
 p14
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVSouth Africa
 p15
 aVEastern Cape
@@ -44,12 +48,14 @@ aS'1899'
 p20
 aS'No. 8'
 p21
-aS'QLD'
-p22
 aS'2'
 aS'1'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
+aS'QLD'
+p22
 aVAustralia
 p23
 aVQueensland
@@ -62,12 +68,14 @@ aS'1899'
 p27
 aS'Lock'
 p28
-aS'circa 1877'
-p29
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'circa 1877'
+p29
 aVPerú
 p30
 aVTacna
@@ -81,12 +89,14 @@ aS'1899'
 p35
 aS'Lock'
 p36
-aS'NSW'
-p37
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p37
 aVAustralia
 p38
 aVNew South Wales
@@ -99,12 +109,14 @@ aS'1899'
 p42
 aS'Wing'
 p43
-aS'Qld'
-p44
 aS'2'
 aS'1'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
+aS'Qld'
+p44
 aVAustralia
 p45
 aVQueensland
@@ -117,12 +129,14 @@ aS'1899'
 p49
 aS'Scrum-half'
 p50
-aS'NSW'
-p51
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p51
 aVAustralia
 p52
 aVNew South Wales
@@ -135,12 +149,14 @@ aS'1899'
 p56
 aS'Flanker'
 p57
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p58
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p59
 aVNew South Wales
@@ -153,12 +169,14 @@ aS'1899'
 p63
 aS'Fullback'
 p64
-aS'Renfrewshire'
-p65
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Renfrewshire'
+p65
 aVUnited Kingdom
 p66
 aVScotland
@@ -172,12 +190,14 @@ aS'1899'
 p71
 aS'Lock'
 p72
-aS'NSW'
-p73
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p73
 aVAustralia
 p74
 aVNew South Wales
@@ -190,12 +210,14 @@ aS'1899'
 p78
 aS'Centre'
 p79
-aS'Qld'
-p80
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Qld'
+p80
 aVAustralia
 p81
 aVQueensland
@@ -208,12 +230,14 @@ aS'1899'
 p85
 aS'Centre'
 p86
-aS'NSW'
-p87
 aS'4'
 aS'1'
 aS'3'
+aS'0'
+aS'3'
 aS'17'
+p87
+aS'NSW'
 p88
 aVAustralia
 p89
@@ -227,12 +251,14 @@ aS'1899'
 p93
 aS'Prop'
 p94
-aS'QLD'
-p95
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'QLD'
+p95
 aVAustralia
 p96
 aVQueensland
@@ -245,12 +271,14 @@ aS'1899'
 p100
 aS'Fly-half'
 p101
-aS'Invercargill'
-p102
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Invercargill'
+p102
 aVNew Zealand/Aotearoa
 p103
 aVSouthland
@@ -264,12 +292,14 @@ aS'1899'
 p108
 aS'Wing'
 p109
-aS'NSW'
-p110
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p110
 aVAustralia
 p111
 aVNew South Wales
@@ -282,12 +312,14 @@ aS'1899'
 p115
 aS'No. 8'
 p116
-aS'Stratford'
-p117
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Stratford'
+p117
 aVUnited Kingdom
 p118
 aVEngland
@@ -301,12 +333,14 @@ aS'1899'
 p123
 aS'Flanker'
 p124
-aS'Christchurch'
-p125
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Christchurch'
+p125
 aVNew Zealand/Aotearoa
 p126
 aVCanterbury
@@ -320,12 +354,14 @@ aS'1899'
 p131
 aS'Scrum-half'
 p132
-aS'Dunedin'
-p133
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Dunedin'
+p133
 aVNew Zealand/Aotearoa
 p134
 aVOtago
@@ -339,12 +375,14 @@ aS'1899'
 p139
 aS'Hooker'
 p140
-aS'NSW'
-p141
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p141
 aVAustralia
 p142
 aVNew South Wales
@@ -357,12 +395,14 @@ aS'1899'
 p146
 aS'Centre'
 p147
-aS'QLD'
-p148
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p148
 aVAustralia
 p149
 aVQueensland
@@ -375,12 +415,14 @@ aS'1899'
 p153
 aS'Flanker'
 p154
-aS'NSW'
-p155
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p155
 aVAustralia
 p156
 aVNew South Wales
@@ -393,12 +435,14 @@ aS'1899'
 p160
 aS'Wing'
 p161
-aS'QLD'
-p162
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p162
 aVAustralia
 p163
 aVQueensland
@@ -411,12 +455,14 @@ aS'1899'
 p167
 aS'Flanker'
 p168
-aS'NSW'
-p169
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p169
 aVAustralia
 p170
 aVNew South Wales
@@ -429,12 +475,14 @@ aS'1899'
 p174
 aS'Flanker'
 p175
-aS'QLD'
-p176
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p176
 aVAustralia
 p177
 aVQueensland
@@ -447,12 +495,14 @@ aS'1899'
 p181
 aS'Hooker'
 p182
-aS'NSW'
-p183
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p183
 aVAustralia
 p184
 aVNew South Wales
@@ -465,12 +515,14 @@ aS'1899'
 p188
 aS'Scrum-half'
 p189
-aS'NSW'
-p190
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p190
 aVAustralia
 p191
 aVNew South Wales
@@ -483,12 +535,14 @@ aS'1899'
 p195
 aS'Fullback'
 p196
-aS'NSW'
-p197
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p197
 aVAustralia
 p198
 aVNew South Wales
@@ -501,12 +555,14 @@ aS'1899'
 p202
 aS'Wing'
 p203
-aS'NSW'
-p204
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p204
 aVAustralia
 p205
 aVNew South Wales
@@ -519,12 +575,14 @@ aS'1899'
 p209
 aS'Fly-half'
 p210
-aS'NSW'
-p211
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p211
 aVAustralia
 p212
 aVNew South Wales
@@ -537,12 +595,14 @@ aS'1899'
 p216
 aS'Prop'
 p217
-aS'Dunedin'
-p218
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Dunedin'
+p218
 aVNew Zealand/Aotearoa
 p219
 aVOtago
@@ -556,12 +616,14 @@ aS'1899'
 p224
 aS'Flanker'
 p225
-aS'Wellington'
-p226
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Wellington'
+p226
 aVNew Zealand/Aotearoa
 p227
 aVWellington
@@ -575,12 +637,14 @@ aS'1899'
 p232
 aS'Hooker'
 p233
-aS'NSW'
-p234
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p234
 aVAustralia
 p235
 aVNew South Wales
@@ -593,12 +657,14 @@ aS'1899'
 p239
 aS'No. 8'
 p240
-aS'circa 1873'
-p241
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'circa 1873'
+p241
 aVPerú
 p242
 aVTacna
@@ -612,12 +678,14 @@ aS'1903'
 p247
 aS'Prop'
 p248
-aS'NSW'
-p249
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'1'
 aS'3'
+aS'NSW'
+p249
 aVAustralia
 p250
 aVNew South Wales
@@ -630,12 +698,14 @@ aS'1903'
 p254
 aS'Fly-half'
 p255
-aS'QLD'
-p256
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p256
 aVAustralia
 p257
 aVQueensland
@@ -648,12 +718,14 @@ aS'1903'
 p261
 aS'Lock'
 p262
-aS'NSW'
-p263
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p263
 aVAustralia
 p264
 aVNew South Wales
@@ -666,12 +738,14 @@ aS'1903'
 p268
 aS'Flanker'
 p269
-aS'NSW'
-p270
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p270
 aVAustralia
 p271
 aVNew South Wales
@@ -684,12 +758,14 @@ aS'1903'
 p275
 aS'Hooker'
 p276
-aS'NSW'
-p277
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p277
 aVAustralia
 p278
 aVNew South Wales
@@ -702,12 +778,14 @@ aS'1903'
 p282
 aS'Lock'
 p283
-aS'NSW'
-p284
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p284
 aVAustralia
 p285
 aVNew South Wales
@@ -720,12 +798,14 @@ aS'1903'
 p289
 aS'Fullback'
 p290
-aS'NSW'
-p291
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p291
 aVAustralia
 p292
 aVNew South Wales
@@ -738,12 +818,14 @@ aS'1903'
 p296
 aS'Prop'
 p297
-aS'Qld'
-p298
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Qld'
+p298
 aVAustralia
 p299
 aVQueensland
@@ -756,12 +838,14 @@ aS'1903'
 p303
 aS'Wing'
 p304
-aS'Blenheim'
-p305
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'Blenheim'
+p305
 aVNew Zealand/Aotearoa
 p306
 aVMarlborough
@@ -775,12 +859,14 @@ aS'1903'
 p311
 aS'Centre'
 p312
-aS'Auckland'
-p313
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Auckland'
+p313
 aVNew Zealand/Aotearoa
 p314
 aVAuckland
@@ -793,12 +879,14 @@ aS'1903'
 p318
 aS'Centre'
 p319
-aS'NSW'
-p320
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'3'
+aS'NSW'
+p320
 aVAustralia
 p321
 aVNew South Wales
@@ -811,12 +899,14 @@ aS'1904'
 p325
 aS'Scrum-half'
 p326
-aS'NSW'
-p327
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p327
 aVAustralia
 p328
 aVNew South Wales
@@ -829,12 +919,14 @@ aS'1904'
 p332
 aS'Flanker'
 p333
-aS'QLD'
-p334
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p334
 aVAustralia
 p335
 aVQueensland
@@ -847,12 +939,14 @@ aS'1904'
 p339
 aS'Hooker'
 p340
-aS'Limeric'
-p341
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Limeric'
+p341
 aVUnited States of America
 p342
 aVNew York
@@ -866,12 +960,14 @@ aS'1904'
 p347
 aS'Centre'
 p348
-aS'NSW'
-p349
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p349
 aVAustralia
 p350
 aVNew South Wales
@@ -884,12 +980,14 @@ aS'1904'
 p354
 aS'Lock'
 p355
-aS'NSW'
-p356
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p356
 aVAustralia
 p357
 aVNew South Wales
@@ -902,12 +1000,14 @@ aS'1904'
 p361
 aS'Fullback'
 p362
-aS'NSW'
-p363
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p363
 aVAustralia
 p364
 aVNew South Wales
@@ -920,12 +1020,14 @@ aS'1904'
 p368
 aS'Back-row'
 p369
-aS'NSW'
-p370
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p370
 aVAustralia
 p371
 aVNew South Wales
@@ -938,12 +1040,14 @@ aS'1904'
 p375
 aS'Fullback'
 p376
-aS'Qld'
-p377
 aS'4'
 aS'1'
+aS'3'
+aS'0'
 aS'0'
 aS'6'
+aS'Qld'
+p377
 aVAustralia
 p378
 aVQueensland
@@ -956,12 +1060,14 @@ aS'1904'
 p382
 aS'Lock'
 p383
-aS'Vic'
-p384
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Vic'
+p384
 aVAustralia
 p385
 aVVictoria
@@ -974,12 +1080,14 @@ aS'1904'
 p389
 aS'Wing'
 p390
-aS'QLD'
-p391
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'1'
 aS'3'
+aS'QLD'
+p391
 aVAustralia
 p392
 aVQueensland
@@ -992,12 +1100,14 @@ aS'1904'
 p396
 aS'Fly-half'
 p397
-aS'NSW'
-p398
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p398
 aVAustralia
 p399
 aVNew South Wales
@@ -1010,12 +1120,14 @@ aS'1904'
 p403
 aS'Prop'
 p404
-aS'QLD'
-p405
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p405
 aVAustralia
 p406
 aVQueensland
@@ -1028,12 +1140,14 @@ aS'1904'
 p410
 aS'Hooker'
 p411
-aS'QLD'
-p412
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p412
 aVAustralia
 p413
 aVQueensland
@@ -1046,12 +1160,14 @@ aS'1904'
 p417
 aS'Lock'
 p418
-aS'QLD'
-p419
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p419
 aVAustralia
 p420
 aVQueensland
@@ -1064,12 +1180,14 @@ aS'1904'
 p424
 aS'Scrum-half'
 p425
-aS'NSW'
-p426
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p426
 aVAustralia
 p427
 aVNew South Wales
@@ -1082,12 +1200,14 @@ aS'1904'
 p431
 aS'Centre'
 p432
-aS'NSW'
-p433
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p433
 aVAustralia
 p434
 aVNew South Wales
@@ -1100,12 +1220,14 @@ aS'1904'
 p438
 aS'Prop'
 p439
-aS'Qld'
-p440
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Qld'
+p440
 aVAustralia
 p441
 aVQueensland
@@ -1118,12 +1240,14 @@ aS'1904'
 p445
 aS'Wing'
 p446
-aS'QLD'
-p447
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p447
 aVAustralia
 p448
 aVQueensland
@@ -1136,12 +1260,14 @@ aS'1904'
 p452
 aS'Flanker'
 p453
-aS'NSW'
-p454
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p454
 aVAustralia
 p455
 aVNew South Wales
@@ -1154,12 +1280,14 @@ aS'1905'
 p459
 aS'Fly-half'
 p460
-aS'NSW'
-p461
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p461
 aVAustralia
 p462
 aVNew South Wales
@@ -1172,12 +1300,14 @@ aS'1905'
 p466
 aS'Prop'
 p467
-aS'Thames'
-p468
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Thames'
+p468
 aVNew Zealand/Aotearoa
 p469
 aVWaikato
@@ -1191,12 +1321,14 @@ aS'1905'
 p474
 aS'Scrum-half'
 p475
-aS'QLD'
-p476
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p476
 aVAustralia
 p477
 aVQueensland
@@ -1209,12 +1341,14 @@ aS'1905'
 p481
 aS'Flanker'
 p482
-aS'NSW'
-p483
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p483
 aVAustralia
 p484
 aVNew South Wales
@@ -1227,12 +1361,14 @@ aS'1905'
 p488
 aS'Flanker'
 p489
-aS'QLD'
-p490
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p490
 aVAustralia
 p491
 aVQueensland
@@ -1245,12 +1381,14 @@ aS'1905'
 p495
 aS'Fullback'
 p496
-aS'NSW'
-p497
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p497
 aVAustralia
 p498
 aVNew South Wales
@@ -1263,12 +1401,14 @@ aS'1905'
 p502
 aS'Centre'
 p503
-aS'NSW'
-p504
 aS'4'
 aS'0'
+aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'NSW'
+p504
 aVAustralia
 p505
 aVNew South Wales
@@ -1281,12 +1421,14 @@ aS'1905'
 p509
 aS'Centre'
 p510
-aS'NSW'
-p511
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p511
 aVAustralia
 p512
 aVNew South Wales
@@ -1299,12 +1441,14 @@ aS'1899'
 p516
 aS'Forward'
 p517
-aS'Bucks'
-p518
 aS'8'
 aS'6'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'Bucks'
+p518
 aVUnited States of America
 p519
 aVpenna
@@ -1318,12 +1462,14 @@ aS'1907'
 p524
 aS'Prop'
 p525
-aS'NSW'
-p526
 aS'5'
+aS'1'
+aS'3'
 aS'1'
 aS'0'
 aS'0'
+aS'NSW'
+p526
 aVAustralia
 p527
 aVNew South Wales
@@ -1336,12 +1482,14 @@ aS'1907'
 p531
 aS'Lock'
 p532
-aS'NSW'
-p533
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'NSW'
+p533
 aVAustralia
 p534
 aVNew South Wales
@@ -1354,12 +1502,14 @@ aS'1907'
 p538
 aS'Fullback'
 p539
-aS'Ashton-in-Makerfield'
-p540
 aS'4'
+aS'1'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'Ashton-in-Makerfield'
+p540
 aVUnited Kingdom
 p541
 aVEngland
@@ -1373,12 +1523,14 @@ aS'1907'
 p546
 aS'Flanker'
 p547
-aS'Dublin'
-p548
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Dublin'
+p548
 aVRepublic of Ireland
 p549
 aVLeinster
@@ -1392,12 +1544,14 @@ aS'1907'
 p554
 aS'Hooker'
 p555
-aS'NSW'
-p556
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'NSW'
+p556
 aVAustralia
 p557
 aVNew South Wales
@@ -1410,12 +1564,14 @@ aS'1907'
 p561
 aS'Flanker'
 p562
-aS'Sydney'
-p563
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'Sydney'
+p563
 aVAustralia
 p564
 aVNew South Wales
@@ -1429,12 +1585,14 @@ aS'1907'
 p569
 aS'Lock'
 p570
-aS'NSW'
-p571
 aS'4'
+aS'1'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'NSW'
+p571
 aVAustralia
 p572
 aVNew South Wales
@@ -1447,12 +1605,14 @@ aS'1907'
 p576
 aS'Fly-half'
 p577
-aS'NSW'
-p578
 aS'4'
+aS'1'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'NSW'
+p578
 aVAustralia
 p579
 aVNew South Wales
@@ -1465,12 +1625,14 @@ aS'1907'
 p583
 aS'Prop'
 p584
-aS'NSW'
-p585
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'NSW'
+p585
 aVAustralia
 p586
 aVNew South Wales
@@ -1483,12 +1645,14 @@ aS'1907'
 p590
 aS'Flanker'
 p591
-aS'NSW'
-p592
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'2'
 aS'15'
+p592
+aS'NSW'
 p593
 aVAustralia
 p594
@@ -1502,12 +1666,14 @@ aS'1907'
 p598
 aS'Wing'
 p599
-aS'Sydney'
-p600
 aS'5'
 aS'1'
 aS'3'
+aS'1'
+aS'3'
 aS'9'
+aS'Sydney'
+p600
 aVAustralia
 p601
 aVNew South Wales
@@ -1521,12 +1687,14 @@ aS'1907'
 p606
 aS'Wing'
 p607
-aS'QLD'
-p608
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p608
 aVAustralia
 p609
 aVQueensland
@@ -1539,13 +1707,15 @@ aS'1907'
 p613
 aS'Scrum-half'
 p614
-aS'Staffordshire'
-p615
 aS'12'
-p616
+p615
 aS'2'
+aS'9'
+aS'1'
 aS'1'
 aS'3'
+aS'Staffordshire'
+p616
 aVUnited Kingdom
 p617
 aVEngland
@@ -1558,12 +1728,14 @@ p621
 aS'1907'
 p622
 aS''
-aS'NSW'
-p623
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p623
 aVAustralia
 p624
 aVNew South Wales
@@ -1576,12 +1748,14 @@ aS'1907'
 p628
 aS'Lock'
 p629
-aS'QLD'
-p630
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p630
 aVAustralia
 p631
 aVQueensland
@@ -1594,12 +1768,14 @@ aS'1907'
 p635
 aS'Flanker'
 p636
-aS'Timoleague'
-p637
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Timoleague'
+p637
 aVRepublic of Ireland
 p638
 aVMunster
@@ -1613,12 +1789,14 @@ aS'1907'
 p643
 aS'Fly-half'
 p644
-aS'Sydney'
-p645
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'Sydney'
+p645
 aVAustralia
 p646
 aVNew South Wales
@@ -1632,12 +1810,14 @@ aS'1907'
 p651
 aS'Wing'
 p652
-aS'NSW'
-p653
 aS'2'
 aS'0'
 aS'1'
+aS'1'
+aS'1'
 aS'7'
+aS'NSW'
+p653
 aVAustralia
 p654
 aVNew South Wales
@@ -1650,12 +1830,14 @@ aS'1907'
 p658
 aS'Wing'
 p659
-aS'Qld'
-p660
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Qld'
+p660
 aVAustralia
 p661
 aVQueensland
@@ -1668,12 +1850,14 @@ aS'1907'
 p665
 aS'Lock'
 p666
-aS'NSW'
-p667
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'NSW'
+p667
 aVAustralia
 p668
 aVNew South Wales
@@ -1686,12 +1870,14 @@ aS'1908'
 p672
 aS'Fly-half, Centre'
 p673
-aS'VIC'
-p674
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'1'
 aS'3'
+aS'VIC'
+p674
 aVAustralia
 p675
 aVVictoria
@@ -1704,12 +1890,14 @@ aS'1908'
 p679
 aS'Hooker'
 p680
-aS'NSW'
-p681
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p681
 aVAustralia
 p682
 aVNew South Wales
@@ -1722,12 +1910,14 @@ aS'1908'
 p686
 aS'Lock'
 p687
-aS'NSW'
-p688
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p688
 aVAustralia
 p689
 aVNew South Wales
@@ -1740,12 +1930,14 @@ aS'1908'
 p693
 aS'Centre'
 p694
-aS'NSW'
-p695
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p695
 aVAustralia
 p696
 aVNew South Wales
@@ -1758,12 +1950,14 @@ aS'1908'
 p700
 aS'Flanker'
 p701
-aS'Darlington'
-p702
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Darlington'
+p702
 aVUnited States of America
 p703
 aVSouth Carolina
@@ -1777,12 +1971,14 @@ aS'1908'
 p708
 aS'Centre'
 p709
-aS'Sydney'
-p710
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'0'
 aS'3'
+aS'Sydney'
+p710
 aVAustralia
 p711
 aVNew South Wales
@@ -1796,12 +1992,14 @@ aS'1908'
 p716
 aS'Forward'
 p717
-aS'NSW'
-p718
 aS'5'
 aS'3'
 aS'2'
+aS'0'
+aS'2'
 aS'6'
+aS'NSW'
+p718
 aVAustralia
 p719
 aVNew South Wales
@@ -1814,12 +2012,14 @@ aS'1909'
 p723
 aS'Prop'
 p724
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p725
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p726
 aVNew South Wales
@@ -1832,12 +2032,14 @@ aS'1909'
 p730
 aS'Flanker'
 p731
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p732
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p733
 aVNew South Wales
@@ -1850,12 +2052,14 @@ aS'1909'
 p737
 aS'Fly-half'
 p738
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p739
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p740
 aVNew South Wales
@@ -1868,12 +2072,14 @@ aS'1909'
 p744
 aS'No. 8'
 p745
-aS'NSW'
-p746
 aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p746
 aVAustralia
 p747
 aVNew South Wales
@@ -1886,12 +2092,14 @@ aS'1910'
 p751
 aS'Centre'
 p752
-aS'NSW'
-p753
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p753
 aVAustralia
 p754
 aVNew South Wales
@@ -1904,12 +2112,14 @@ aS'1910'
 p758
 aS'Wing'
 p759
-aS'NSW'
-p760
 aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p760
 aVAustralia
 p761
 aVNew South Wales
@@ -1922,12 +2132,14 @@ aS'1910'
 p765
 aS'Fullback'
 p766
-aS'NSW'
-p767
 aS'8'
 aS'3'
+aS'5'
+aS'0'
 aS'0'
 aS'4'
+aS'NSW'
+p767
 aVAustralia
 p768
 aVNew South Wales
@@ -1940,12 +2152,14 @@ aS'1910'
 p772
 aS'Flanker'
 p773
-aS'Holborn'
-p774
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Holborn'
+p774
 aVUnited Kingdom
 p775
 aVWC2
@@ -1959,12 +2173,14 @@ aS'1910'
 p780
 aS'Prop'
 p781
-aS'NSW'
-p782
 aS'8'
 aS'3'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p782
 aVAustralia
 p783
 aVNew South Wales
@@ -1977,12 +2193,14 @@ aS'1910'
 p787
 aS'Wing'
 p788
-aS'NSW'
-p789
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'3'
 aS'9'
+aS'NSW'
+p789
 aVAustralia
 p790
 aVNew South Wales
@@ -1995,12 +2213,14 @@ aS'1910'
 p794
 aS'Fly-half'
 p795
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
 aS'NSW'
 p796
-aS'3'
-aS'1'
-aS'1'
-aS'3'
 aVAustralia
 p797
 aVNew South Wales
@@ -2013,12 +2233,14 @@ aS'1910'
 p801
 aS'Lock'
 p802
-aS'QLD'
-p803
 aS'9'
 aS'2'
+aS'7'
 aS'0'
 aS'0'
+aS'0'
+aS'QLD'
+p803
 aVAustralia
 p804
 aVQueensland
@@ -2031,12 +2253,14 @@ aS'1910'
 p808
 aS'Lock'
 p809
-aS'Qld'
-p810
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Qld'
+p810
 aVAustralia
 p811
 aVQueensland
@@ -2049,12 +2273,14 @@ aS'1910'
 p815
 aS'Flanker'
 p816
-aS'NSW'
-p817
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p817
 aVAustralia
 p818
 aVNew South Wales
@@ -2067,12 +2293,14 @@ aS'1910'
 p822
 aS'Lock'
 p823
-aS'VIC'
-p824
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'VIC'
+p824
 aVAustralia
 p825
 aVVictoria
@@ -2085,12 +2313,14 @@ aS'1910'
 p829
 aS'Prop'
 p830
-aS'NSW'
-p831
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p831
 aVAustralia
 p832
 aVNew South Wales
@@ -2103,12 +2333,14 @@ aS'1912'
 p836
 aS'Wing'
 p837
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p838
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p839
 aVNew South Wales
@@ -2121,12 +2353,14 @@ aS'1912'
 p843
 aS'Lock'
 p844
-aS'NSW'
-p845
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p845
 aVAustralia
 p846
 aVNew South Wales
@@ -2139,12 +2373,14 @@ aS'1912'
 p850
 aS'Flanker'
 p851
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Qld'
 p852
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p853
 aVQueensland
@@ -2157,12 +2393,14 @@ aS'1912'
 p857
 aS'Wing'
 p858
-aS'Qld'
-p859
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
+aS'Qld'
+p859
 aVAustralia
 p860
 aVQueensland
@@ -2175,12 +2413,14 @@ aS'1912'
 p864
 aS'No. 8'
 p865
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'circa 1880'
 p866
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVPerú
 p867
 aVTacna
@@ -2194,12 +2434,14 @@ aS'1912'
 p872
 aS'Lock'
 p873
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p874
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p875
 aVNew South Wales
@@ -2212,13 +2454,15 @@ aS'1912'
 p879
 aS'Scrum-half'
 p880
-aS'NSW'
-p881
 aS'16'
-p882
+p881
 aS'7'
+aS'9'
+aS'0'
 aS'3'
 aS'9'
+aS'NSW'
+p882
 aVAustralia
 p883
 aVNew South Wales
@@ -2231,12 +2475,14 @@ aS'1912'
 p887
 aS'Prop'
 p888
-aS'Nelson'
-p889
 aS'8'
 aS'2'
+aS'6'
 aS'0'
 aS'0'
+aS'0'
+aS'Nelson'
+p889
 aVNew Zealand/Aotearoa
 p890
 aVNelson
@@ -2249,12 +2495,14 @@ aS'1913'
 p894
 aS'Wing'
 p895
-aS'NSW'
-p896
 aS'6'
 aS'1'
+aS'5'
+aS'0'
 aS'1'
 aS'3'
+aS'NSW'
+p896
 aVAustralia
 p897
 aVNew South Wales
@@ -2267,12 +2515,14 @@ aS'1913'
 p901
 aS'Flanker'
 p902
-aS'VIC'
-p903
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'VIC'
+p903
 aVAustralia
 p904
 aVVictoria
@@ -2285,12 +2535,14 @@ aS'1913'
 p908
 aS'Centre'
 p909
-aS'NSW'
-p910
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'3'
 aS'9'
+aS'NSW'
+p910
 aVAustralia
 p911
 aVNew South Wales
@@ -2303,12 +2555,14 @@ aS'1913'
 p915
 aS'Fullback'
 p916
-aS'Queensland'
-p917
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'2'
+aS'Queensland'
+p917
 aVAustralia
 p918
 aVQueensland
@@ -2321,12 +2575,14 @@ aS'1913'
 p922
 aS'Hooker'
 p923
-aS'NSW'
-p924
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p924
 aVAustralia
 p925
 aVNew South Wales
@@ -2339,12 +2595,14 @@ aS'1913'
 p929
 aS'Wing'
 p930
-aS'NSW'
-p931
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'3'
 aS'9'
+aS'NSW'
+p931
 aVAustralia
 p932
 aVNew South Wales
@@ -2357,12 +2615,14 @@ aS'1913'
 p936
 aS'Fly-half'
 p937
-aS'NSW'
-p938
 aS'6'
 aS'1'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p938
 aVAustralia
 p939
 aVNew South Wales
@@ -2375,12 +2635,14 @@ aS'1913'
 p943
 aS'No. 8'
 p944
-aS'NSW'
-p945
 aS'6'
 aS'1'
+aS'5'
+aS'0'
 aS'1'
 aS'3'
+aS'NSW'
+p945
 aVAustralia
 p946
 aVNew South Wales
@@ -2393,12 +2655,14 @@ aS'1913'
 p950
 aS'Lock'
 p951
-aS'NSW'
-p952
 aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p952
 aVAustralia
 p953
 aVNew South Wales
@@ -2411,7043 +2675,7755 @@ aS'1913'
 p957
 aS'Centre'
 p958
-aS'Hokitika'
-p959
 aS'22'
-p960
+p959
 aS'7'
+aS'15'
+p960
+aS'0'
 aS'4'
 aS'14'
 p961
-aVNew Zealand/Aotearoa
+aS'Hokitika'
 p962
-aVWest Coast
+aVNew Zealand/Aotearoa
 p963
-aVWestland District
+aVWest Coast
 p964
-aa(lp965
+aVWestland District
+p965
+aa(lp966
 S'Sandy Horodan'
-p966
-aS'1913'
 p967
-aS'Prop'
+aS'1913'
 p968
-aS'Qld'
+aS'Prop'
 p969
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVAustralia
+aS'0'
+aS'Qld'
 p970
-aVQueensland
+aVAustralia
 p971
+aVQueensland
+p972
 ag9
-aa(lp972
+aa(lp973
 S'Bryan Hughes'
-p973
-aS'1913'
 p974
-aS'Flanker'
+aS'1913'
 p975
-aS'NSW'
+aS'Flanker'
 p976
 aS'2'
 aS'1'
+aS'1'
+aS'0'
 aS'0'
 aS'4'
-aVAustralia
-p977
-aVNew South Wales
-p978
-ag9
-aa(lp979
-S'Richard Simpson'
-p980
-aS'1913'
-p981
-aS'Fullback'
-p982
 aS'NSW'
+p977
+aVAustralia
+p978
+aVNew South Wales
+p979
+ag9
+aa(lp980
+S'Richard Simpson'
+p981
+aS'1913'
+p982
+aS'Fullback'
 p983
 aS'1'
 aS'0'
+aS'1'
+aS'0'
 aS'0'
 aS'4'
-aVAustralia
+aS'NSW'
 p984
-aVNew South Wales
+aVAustralia
 p985
+aVNew South Wales
+p986
 ag9
-aa(lp986
+aa(lp987
 S'David Williams'
-p987
-aS'1913'
 p988
-aS'Hooker'
+aS'1913'
 p989
-aS'Qld'
+aS'Hooker'
 p990
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
-aVAustralia
+aS'0'
+aS'Qld'
 p991
-aVQueensland
+aVAustralia
 p992
+aVQueensland
+p993
 ag9
-aa(lp993
+aa(lp994
 S'Harald Baker'
-p994
-aS'1914'
 p995
-aS'Flanker'
+aS'1914'
 p996
-aS'NSW'
+aS'Flanker'
 p997
 aS'3'
 aS'0'
+aS'3'
 aS'0'
 aS'0'
-aVAustralia
+aS'0'
+aS'NSW'
 p998
-aVNew South Wales
+aVAustralia
 p999
+aVNew South Wales
+p1000
 ag9
-aa(lp1000
+aa(lp1001
 S'Jimmy Flynn'
-p1001
-aS'1914'
 p1002
-aS'Centre'
+aS'1914'
 p1003
-aS'QLD'
+aS'Centre'
 p1004
 aS'2'
 aS'0'
+aS'2'
 aS'0'
 aS'0'
-aVAustralia
+aS'0'
+aS'QLD'
 p1005
-aVQueensland
+aVAustralia
 p1006
+aVQueensland
+p1007
 ag9
-aa(lp1007
+aa(lp1008
 S'Eric Francis'
-p1008
-aS'1914'
 p1009
-aS'Wing'
+aS'1914'
 p1010
-aS'Qld'
+aS'Wing'
 p1011
 aS'2'
 aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1012
-aVQueensland
-p1013
-ag9
-aa(lp1014
-S'John Thompson'
-p1015
-aS'1914'
-p1016
-aS'Flanker'
-p1017
-aS'Qld'
-p1018
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1019
-aVQueensland
-p1020
-ag9
-aa(lp1021
-S'Clinker Birt'
-p1022
-aS'1914'
-p1023
-aS'No. 8'
-p1024
-aS'Glasgow'
-p1025
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p1026
-aVG
-aVScotland
-p1027
-aa(lp1028
-S'Samuel Kreutzer'
-p1029
-aS'1914'
-p1030
-aS'Prop'
-p1031
-aS'QLD'
-p1032
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1033
-aVQueensland
-p1034
-ag9
-aa(lp1035
-S'William Morrissey'
-p1036
-aS'1914'
-p1037
-aS'Prop'
-p1038
-aS'QLD'
-p1039
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1040
-aVQueensland
-p1041
-ag9
-aa(lp1042
-S'Jackie Beith'
-p1043
-aS'1914'
-p1044
-aS'Fullback'
-p1045
-aS'NSW'
-p1046
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1047
-aVNew South Wales
-p1048
-ag9
-aa(lp1049
-S'Montague Massy-Westropp'
-p1050
-aS'1914'
-p1051
-aS'Wing'
-p1052
-aS'NSW'
-p1053
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1054
-aVNew South Wales
-p1055
-ag9
-aa(lp1056
-S'Clarrie Prentice'
-p1057
-aS'1914'
-p1058
-aS'Prop'
-p1059
-aS'NSW'
-p1060
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1061
-aVNew South Wales
-p1062
-ag9
-aa(lp1063
-S'John Bond'
-p1064
-aS'1920'
-p1065
-aS'Hooker'
-p1066
-aS'NSW'
-p1067
-aS'4'
-aS'1'
-aS'1'
-aS'3'
-aVAustralia
-p1068
-aVNew South Wales
-p1069
-ag9
-aa(lp1070
-S'Roy Chambers'
-p1071
-aS'1920'
-p1072
-aS'Centre'
-p1073
-aS'SA'
-p1074
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVÖsterreich
-p1075
-aV5020
-p1076
-aVSalzburg
-p1077
-aa(lp1078
-S'Tom Davis'
-p1079
-aS'1920'
-p1080
+aS'Qld'
+p1012
+aVAustralia
+p1013
+aVQueensland
+p1014
+ag9
+aa(lp1015
+S'John Thompson'
+p1016
+aS'1914'
+p1017
+aS'Flanker'
+p1018
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p1019
+aVAustralia
+p1020
+aVQueensland
+p1021
+ag9
+aa(lp1022
+S'Clinker Birt'
+p1023
+aS'1914'
+p1024
+aS'No. 8'
+p1025
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Glasgow'
+p1026
+aVUnited Kingdom
+p1027
+aVG
+aVScotland
+p1028
+aa(lp1029
+S'Samuel Kreutzer'
+p1030
+aS'1914'
+p1031
 aS'Prop'
-p1081
+p1032
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p1033
+aVAustralia
+p1034
+aVQueensland
+p1035
+ag9
+aa(lp1036
+S'William Morrissey'
+p1037
+aS'1914'
+p1038
+aS'Prop'
+p1039
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p1040
+aVAustralia
+p1041
+aVQueensland
+p1042
+ag9
+aa(lp1043
+S'Jackie Beith'
+p1044
+aS'1914'
+p1045
+aS'Fullback'
+p1046
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
+p1047
+aVAustralia
+p1048
+aVNew South Wales
+p1049
+ag9
+aa(lp1050
+S'Montague Massy-Westropp'
+p1051
+aS'1914'
+p1052
+aS'Wing'
+p1053
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1054
+aVAustralia
+p1055
+aVNew South Wales
+p1056
+ag9
+aa(lp1057
+S'Clarrie Prentice'
+p1058
+aS'1914'
+p1059
+aS'Prop'
+p1060
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1061
+aVAustralia
+p1062
+aVNew South Wales
+p1063
+ag9
+aa(lp1064
+S'John Bond'
+p1065
+aS'1920'
+p1066
+aS'Hooker'
+p1067
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p1068
+aVAustralia
+p1069
+aVNew South Wales
+p1070
+ag9
+aa(lp1071
+S'Roy Chambers'
+p1072
+aS'1920'
+p1073
+aS'Centre'
+p1074
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'SA'
+p1075
+aVÖsterreich
+p1076
+aV5020
+p1077
+aVSalzburg
+p1078
+aa(lp1079
+S'Tom Davis'
+p1080
+aS'1920'
+p1081
+aS'Prop'
 p1082
 aS'20'
 p1083
 aS'6'
+aS'14'
+p1084
+aS'0'
 aS'2'
 aS'6'
-aVAustralia
-p1084
-aVNew South Wales
-p1085
-ag9
-aa(lp1086
-S'Viv Dunn'
-p1087
-aS'1920'
-p1088
-aS'No. 8'
-p1089
 aS'NSW'
+p1085
+aVAustralia
+p1086
+aVNew South Wales
+p1087
+ag9
+aa(lp1088
+S'Viv Dunn'
+p1089
+aS'1920'
 p1090
+aS'No. 8'
+p1091
 aS'7'
 aS'1'
+aS'6'
 aS'0'
 aS'0'
-aVAustralia
-p1091
-aVNew South Wales
+aS'0'
+aS'NSW'
 p1092
-ag9
-aa(lp1093
-S'Ray Elliott'
-p1094
-aS'1920'
-p1095
-aS'Flanker'
-p1096
-aS'NSW'
-p1097
-aS'13'
-p1098
-aS'7'
-aS'0'
-aS'0'
 aVAustralia
-p1099
+p1093
 aVNew South Wales
-p1100
+p1094
 ag9
-aa(lp1101
-S'Charlie Fox'
-p1102
+aa(lp1095
+S'Ray Elliott'
+p1096
 aS'1920'
-p1103
-aS'Lock'
-p1104
+p1097
+aS'Flanker'
+p1098
+aS'13'
+p1099
+aS'7'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
+p1100
+aVAustralia
+p1101
+aVNew South Wales
+p1102
+ag9
+aa(lp1103
+S'Charlie Fox'
+p1104
+aS'1920'
 p1105
-aS'17'
+aS'Lock'
 p1106
+aS'17'
+p1107
 aS'5'
+aS'12'
+p1108
+aS'0'
 aS'2'
 aS'6'
+aS'NSW'
+p1109
 aVAustralia
-p1107
-aVNew South Wales
-p1108
-ag9
-aa(lp1109
-S'Tommy Lawton'
 p1110
-aS'1920'
+aVNew South Wales
 p1111
-aS'Fly-half'
-p1112
-aS'Qld'
+ag9
+aa(lp1112
+S'Tommy Lawton'
 p1113
-aS'14'
+aS'1920'
 p1114
+aS'Fly-half'
+p1115
+aS'14'
+p1116
 aS'8'
+aS'6'
+aS'0'
 aS'1'
 aS'60'
-p1115
-aVAustralia
-p1116
-aVQueensland
 p1117
-ag9
-aa(lp1118
-S'Bob Marrott'
+aS'Qld'
+p1118
+aVAustralia
 p1119
-aS'1920'
+aVQueensland
 p1120
-aS'Hooker'
-p1121
-aS'VIC'
+ag9
+aa(lp1121
+S'Bob Marrott'
 p1122
+aS'1920'
+p1123
+aS'Hooker'
+p1124
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
+aS'VIC'
+p1125
 aVAustralia
-p1123
-aVVictoria
-p1124
-ag9
-aa(lp1125
-S'Arthur Mayne'
 p1126
-aS'1920'
+aVVictoria
 p1127
-aS'Wing'
-p1128
-aS'NSW'
+ag9
+aa(lp1128
+S'Arthur Mayne'
 p1129
+aS'1920'
+p1130
+aS'Wing'
+p1131
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p1130
-aVNew South Wales
-p1131
-ag9
-aa(lp1132
-S'Irving Ormiston'
-p1133
-aS'1920'
-p1134
-aS'Flanker'
-p1135
 aS'NSW'
+p1132
+aVAustralia
+p1133
+aVNew South Wales
+p1134
+ag9
+aa(lp1135
+S'Irving Ormiston'
 p1136
+aS'1920'
+p1137
+aS'Flanker'
+p1138
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p1139
 aVAustralia
-p1137
-aVNew South Wales
-p1138
-ag9
-aa(lp1139
-S'Roland Raymond'
 p1140
-aS'1920'
-p1141
-aS'Wing'
-p1142
-aS'1899'
-p1143
-aS'13'
-p1144
-aS'6'
-aS'10'
-p1145
-aS'30'
-p1146
-aVSvizra
-p1147
-aVSvizzera
-p1148
-aVSuisse
-p1149
-aa(lp1150
-S'Clive Farquhar'
-p1151
-aS'1920'
-p1152
-aS'Centre'
-p1153
-aS'NSW'
-p1154
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1155
 aVNew South Wales
-p1156
+p1141
 ag9
-aa(lp1157
-S'George McKay'
-p1158
+aa(lp1142
+S'Roland Raymond'
+p1143
 aS'1920'
-p1159
-aS'No. 8'
-p1160
+p1144
+aS'Wing'
+p1145
+aS'13'
+p1146
+aS'6'
+aS'7'
+aS'0'
+aS'10'
+p1147
+aS'30'
+p1148
+aS'1899'
+p1149
+aVSvizra
+p1150
+aVSvizzera
+p1151
+aVSuisse
+p1152
+aa(lp1153
+S'Clive Farquhar'
+p1154
+aS'1920'
+p1155
+aS'Centre'
+p1156
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
+p1157
+aVAustralia
+p1158
+aVNew South Wales
+p1159
+ag9
+aa(lp1160
+S'George McKay'
 p1161
+aS'1920'
+p1162
+aS'No. 8'
+p1163
 aS'6'
 aS'1'
+aS'5'
+aS'0'
 aS'3'
 aS'9'
-aVAustralia
-p1162
-aVNew South Wales
-p1163
-ag9
-aa(lp1164
-S'Geoffrey Wyld'
-p1165
-aS'1920'
-p1166
-aS'Lock'
-p1167
 aS'NSW'
+p1164
+aVAustralia
+p1165
+aVNew South Wales
+p1166
+ag9
+aa(lp1167
+S'Geoffrey Wyld'
 p1168
+aS'1920'
+p1169
+aS'Lock'
+p1170
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p1169
-aVNew South Wales
-p1170
-ag9
-aa(lp1171
-S'Watty Friend'
-p1172
-aS'1920'
-p1173
-aS'Lock'
-p1174
 aS'NSW'
+p1171
+aVAustralia
+p1172
+aVNew South Wales
+p1173
+ag9
+aa(lp1174
+S'Watty Friend'
 p1175
-aS'10'
+aS'1920'
 p1176
+aS'Lock'
+p1177
+aS'10'
+p1178
+aS'5'
 aS'5'
 aS'0'
 aS'0'
-aVAustralia
-p1177
-aVNew South Wales
-p1178
-ag9
-aa(lp1179
-S'Onslow Humphreys'
-p1180
-aS'1920'
-p1181
-aS'Fly-half'
-p1182
+aS'0'
 aS'NSW'
+p1179
+aVAustralia
+p1180
+aVNew South Wales
+p1181
+ag9
+aa(lp1182
+S'Onslow Humphreys'
 p1183
+aS'1920'
+p1184
+aS'Fly-half'
+p1185
 aS'6'
 aS'2'
+aS'4'
+aS'0'
 aS'0'
 aS'3'
-aVAustralia
-p1184
-aVNew South Wales
-p1185
-ag9
-aa(lp1186
-S'Norm Mingay'
-p1187
-aS'1920'
-p1188
-aS'Scrum-half'
-p1189
 aS'NSW'
+p1186
+aVAustralia
+p1187
+aVNew South Wales
+p1188
+ag9
+aa(lp1189
+S'Norm Mingay'
 p1190
+aS'1920'
+p1191
+aS'Scrum-half'
+p1192
 aS'7'
 aS'1'
+aS'6'
+aS'0'
 aS'2'
 aS'20'
-p1191
-aVAustralia
-p1192
-aVNew South Wales
 p1193
-ag9
-aa(lp1194
-S'Jackie Shute'
-p1195
-aS'1920'
-p1196
-aS'Wing'
-p1197
 aS'NSW'
+p1194
+aVAustralia
+p1195
+aVNew South Wales
+p1196
+ag9
+aa(lp1197
+S'Jackie Shute'
 p1198
+aS'1920'
+p1199
+aS'Wing'
+p1200
 aS'3'
 aS'1'
 aS'2'
+aS'0'
+aS'2'
 aS'6'
-aVAustralia
-p1199
-aVNew South Wales
-p1200
-ag9
-aa(lp1201
-S'Slip Carr'
-p1202
-aS'1921'
-p1203
-aS'Wing'
-p1204
 aS'NSW'
+p1201
+aVAustralia
+p1202
+aVNew South Wales
+p1203
+ag9
+aa(lp1204
+S'Slip Carr'
 p1205
+aS'1921'
+p1206
+aS'Wing'
+p1207
 aS'4'
 aS'1'
+aS'3'
+aS'0'
 aS'3'
 aS'9'
+aS'NSW'
+p1208
 aVAustralia
-p1206
-aVNew South Wales
-p1207
-ag9
-aa(lp1208
-S'Duncan Fowles'
 p1209
-aS'1921'
+aVNew South Wales
 p1210
-aS'Hooker'
-p1211
-aS'QLD'
+ag9
+aa(lp1211
+S'Duncan Fowles'
 p1212
+aS'1921'
+p1213
+aS'Hooker'
+p1214
 aS'8'
 aS'3'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'QLD'
+p1215
 aVAustralia
-p1213
-aVQueensland
-p1214
-ag9
-aa(lp1215
-S'John Holdsworth'
 p1216
-aS'1921'
+aVQueensland
 p1217
-aS'Lock'
-p1218
-aS'NSW'
+ag9
+aa(lp1218
+S'John Holdsworth'
 p1219
+aS'1921'
+p1220
+aS'Lock'
+p1221
 aS'6'
 aS'1'
+aS'5'
+aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p1220
-aVNew South Wales
-p1221
-ag9
-aa(lp1222
-S'Reg Lane'
-p1223
-aS'1921'
-p1224
-aS'Wing'
-p1225
 aS'NSW'
+p1222
+aVAustralia
+p1223
+aVNew South Wales
+p1224
+ag9
+aa(lp1225
+S'Reg Lane'
 p1226
+aS'1921'
+p1227
+aS'Wing'
+p1228
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p1229
 aVAustralia
-p1227
-aVNew South Wales
-p1228
-ag9
-aa(lp1229
-S'Otto Nothling'
 p1230
-aS'1921'
+aVNew South Wales
 p1231
-aS'Fullback'
-p1232
-aS'Qld'
+ag9
+aa(lp1232
+S'Otto Nothling'
 p1233
-aS'19'
+aS'1921'
 p1234
+aS'Fullback'
+p1235
+aS'19'
+p1236
 aS'8'
+aS'11'
+p1237
+aS'0'
 aS'1'
 aS'36'
-p1235
-aVAustralia
-p1236
-aVQueensland
-p1237
-ag9
-aa(lp1238
-S'Billy Sheehan'
+p1238
+aS'Qld'
 p1239
-aS'1921'
+aVAustralia
 p1240
-aS'Fly-half'
+aVQueensland
 p1241
-aS'NSW'
-p1242
-aS'18'
+ag9
+aa(lp1242
+S'Billy Sheehan'
 p1243
+aS'1921'
+p1244
+aS'Fly-half'
+p1245
+aS'18'
+p1246
 aS'7'
+aS'11'
+p1247
+aS'0'
 aS'6'
 aS'18'
-p1244
-aVAustralia
-p1245
-aVNew South Wales
-p1246
-ag9
-aa(lp1247
-S'Tom Smith'
 p1248
-aS'1921'
+aS'NSW'
 p1249
-aS'Prop'
+aVAustralia
 p1250
-aS'NSW'
+aVNew South Wales
 p1251
-aS'12'
-p1252
-aS'4'
-aS'1'
-aS'3'
-aVAustralia
+ag9
+aa(lp1252
+S'Tom Smith'
 p1253
-aVNew South Wales
+aS'1921'
 p1254
-ag9
-aa(lp1255
-S'Joe Thorn'
+aS'Prop'
+p1255
+aS'12'
 p1256
-aS'1921'
-p1257
-aS'Flanker'
-p1258
-aS'Manly.NSW'
-p1259
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p1260
-aVNew South Wales
-p1261
-aVSydney
-p1262
-aa(lp1263
-S'Derby Loudon'
-p1264
-aS'1921'
-p1265
-aS'Flanker'
-p1266
-aS'Leeston'
-p1267
 aS'4'
-aS'2'
-aS'0'
-aS'5'
-aVNew Zealand/Aotearoa
-p1268
-aVCanterbury
-p1269
-aVSelwyn District
-p1270
-aa(lp1271
-S'Bot Stanley'
-p1272
-aS'1921'
-p1273
-aS'Centre'
-p1274
-aS'NSW'
-p1275
-aS'14'
-p1276
-aS'7'
-aS'5'
-aS'53'
-p1277
-aVAustralia
-p1278
-aVNew South Wales
-p1279
-ag9
-aa(lp1280
-S'Johnny Wallace'
-p1281
-aS'1921'
-p1282
-aS'Wing'
-p1283
-aS'NSW'
-p1284
-aS'17'
-p1285
-aS'11'
-p1286
-aS'16'
-p1287
-aS'48'
-p1288
-aVAustralia
-p1289
-aVNew South Wales
-p1290
-ag9
-aa(lp1291
-S'Jock Blackwood'
-p1292
-aS'1922'
-p1293
-aS'Hooker'
-p1294
-aS'NSW'
-p1295
-aS'21'
-p1296
 aS'8'
 aS'0'
-aS'0'
-aVAustralia
-p1297
-aVNew South Wales
-p1298
-ag9
-aa(lp1299
-S'John Taylor'
-p1300
-aS'1922'
-p1301
-aS'Fly-half'
-p1302
-aS'NSW'
-p1303
-aS'2'
-aS'1'
-aS'2'
-aS'15'
-p1304
-aVAustralia
-p1305
-aVNew South Wales
-p1306
-ag9
-aa(lp1307
-S'Charlie Thompson'
-p1308
-aS'1922'
-p1309
-aS'Prop'
-p1310
-aS'NSW'
-p1311
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p1312
-aVNew South Wales
-p1313
-ag9
-aa(lp1314
-S'Roy Cooney'
-p1315
-aS'1922'
-p1316
-aS'Centre'
-p1317
-aS'N Sydney'
-p1318
-aS'1'
-aS'1'
 aS'1'
 aS'3'
-aVAustralia
-p1319
-aVNew South Wales
-p1320
-aVSydney
-p1321
-aa(lp1322
-S'Reg Ferguson'
-p1323
-aS'1922'
-p1324
-aS'Lock'
-p1325
 aS'NSW'
-p1326
+p1257
+aVAustralia
+p1258
+aVNew South Wales
+p1259
+ag9
+aa(lp1260
+S'Joe Thorn'
+p1261
+aS'1921'
+p1262
+aS'Flanker'
+p1263
+aS'6'
+aS'1'
 aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Manly.NSW'
+p1264
+aVAustralia
+p1265
+aVNew South Wales
+p1266
+aVSydney
+p1267
+aa(lp1268
+S'Derby Loudon'
+p1269
+aS'1921'
+p1270
+aS'Flanker'
+p1271
+aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVAustralia
-p1327
-aVNew South Wales
-p1328
-ag9
-aa(lp1329
-S'Henry Pigott'
-p1330
-aS'1922'
-p1331
-aS''
+aS'5'
+aS'Leeston'
+p1272
+aVNew Zealand/Aotearoa
+p1273
+aVCanterbury
+p1274
+aVSelwyn District
+p1275
+aa(lp1276
+S'Bot Stanley'
+p1277
+aS'1921'
+p1278
+aS'Centre'
+p1279
+aS'14'
+p1280
+aS'7'
+aS'7'
+aS'0'
+aS'5'
+aS'53'
+p1281
 aS'NSW'
-p1332
+p1282
+aVAustralia
+p1283
+aVNew South Wales
+p1284
+ag9
+aa(lp1285
+S'Johnny Wallace'
+p1286
+aS'1921'
+p1287
+aS'Wing'
+p1288
+aS'17'
+p1289
+aS'11'
+p1290
+aS'6'
+aS'0'
+aS'16'
+p1291
+aS'48'
+p1292
+aS'NSW'
+p1293
+aVAustralia
+p1294
+aVNew South Wales
+p1295
+ag9
+aa(lp1296
+S'Jock Blackwood'
+p1297
+aS'1922'
+p1298
+aS'Hooker'
+p1299
+aS'21'
+p1300
+aS'8'
+aS'13'
+p1301
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1302
+aVAustralia
+p1303
+aVNew South Wales
+p1304
+ag9
+aa(lp1305
+S'John Taylor'
+p1306
+aS'1922'
+p1307
+aS'Fly-half'
+p1308
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'2'
+aS'15'
+p1309
+aS'NSW'
+p1310
+aVAustralia
+p1311
+aVNew South Wales
+p1312
+ag9
+aa(lp1313
+S'Charlie Thompson'
+p1314
+aS'1922'
+p1315
+aS'Prop'
+p1316
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1317
+aVAustralia
+p1318
+aVNew South Wales
+p1319
+ag9
+aa(lp1320
+S'Roy Cooney'
+p1321
+aS'1922'
+p1322
+aS'Centre'
+p1323
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'1'
+aS'3'
+aS'N Sydney'
+p1324
+aVAustralia
+p1325
+aVNew South Wales
+p1326
+aVSydney
+p1327
+aa(lp1328
+S'Reg Ferguson'
+p1329
+aS'1922'
+p1330
+aS'Lock'
+p1331
+aS'5'
+aS'2'
+aS'3'
 aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1332
 aVAustralia
 p1333
 aVNew South Wales
 p1334
 ag9
 aa(lp1335
-S'Jack Bonner'
+S'Henry Pigott'
 p1336
 aS'1922'
 p1337
-aS'Lock'
-p1338
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
+p1338
+aVAustralia
 p1339
+aVNew South Wales
+p1340
+ag9
+aa(lp1341
+S'Jack Bonner'
+p1342
+aS'1922'
+p1343
+aS'Lock'
+p1344
 aS'8'
 aS'6'
+aS'2'
 aS'0'
 aS'0'
-aVAustralia
-p1340
-aVNew South Wales
-p1341
-ag9
-aa(lp1342
-S'Larry Newman'
-p1343
-aS'1922'
-p1344
-aS'Wing'
-p1345
+aS'0'
 aS'NSW'
+p1345
+aVAustralia
 p1346
+aVNew South Wales
+p1347
+ag9
+aa(lp1348
+S'Larry Newman'
+p1349
+aS'1922'
+p1350
+aS'Wing'
+p1351
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p1347
-aVNew South Wales
-p1348
-ag9
-aa(lp1349
-S'Ted Thorn'
-p1350
-aS'1922'
-p1351
-aS'Flanker'
-p1352
 aS'NSW'
+p1352
+aVAustralia
 p1353
-aS'15'
+aVNew South Wales
 p1354
+ag9
+aa(lp1355
+S'Ted Thorn'
+p1356
+aS'1922'
+p1357
+aS'Flanker'
+p1358
+aS'15'
+p1359
 aS'4'
+aS'11'
+p1360
+aS'0'
 aS'1'
 aS'5'
-aVAustralia
-p1355
-aVNew South Wales
-p1356
-ag9
-aa(lp1357
-S'Bill Marrott'
-p1358
-aS'1922'
-p1359
-aS'No. 8'
-p1360
-aS'VIC'
+aS'NSW'
 p1361
-aS'7'
-aS'5'
-aS'2'
-aS'6'
 aVAustralia
 p1362
-aVVictoria
+aVNew South Wales
 p1363
 ag9
 aa(lp1364
-S'Norm Smith'
+S'Bill Marrott'
 p1365
 aS'1922'
 p1366
-aS'Wing'
+aS'No. 8'
 p1367
-aS'NSW'
-p1368
 aS'7'
-aS'3'
-aS'2'
-aS'6'
-aVAustralia
-p1369
-aVNew South Wales
-p1370
-ag9
-aa(lp1371
-S'Bill Douglas'
-p1372
-aS'1922'
-p1373
-aS''
-aS'NSW'
-p1374
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p1375
-aVNew South Wales
-p1376
-ag9
-aa(lp1377
-S'Arthur Erby'
-p1378
-aS'1923'
-p1379
-aS'Prop'
-p1380
-aS'NSW'
-p1381
 aS'5'
 aS'2'
 aS'0'
+aS'2'
+aS'6'
+aS'VIC'
+p1368
+aVAustralia
+p1369
+aVVictoria
+p1370
+ag9
+aa(lp1371
+S'Norm Smith'
+p1372
+aS'1922'
+p1373
+aS'Wing'
+p1374
+aS'7'
+aS'3'
+aS'4'
 aS'0'
+aS'2'
+aS'6'
+aS'NSW'
+p1375
+aVAustralia
+p1376
+aVNew South Wales
+p1377
+ag9
+aa(lp1378
+S'Bill Douglas'
+p1379
+aS'1922'
+p1380
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1381
 aVAustralia
 p1382
 aVNew South Wales
 p1383
 ag9
 aa(lp1384
-S'Gregor George'
+S'Arthur Erby'
 p1385
 aS'1923'
 p1386
-aS'Fly-half'
+aS'Prop'
 p1387
-aS'NSW'
-p1388
-aS'12'
-p1389
+aS'5'
+aS'2'
 aS'3'
 aS'0'
-aS'2'
+aS'0'
+aS'0'
+aS'NSW'
+p1388
 aVAustralia
-p1390
+p1389
 aVNew South Wales
-p1391
+p1390
 ag9
-aa(lp1392
-S'John Pym'
-p1393
+aa(lp1391
+S'Gregor George'
+p1392
 aS'1923'
+p1393
+aS'Fly-half'
 p1394
-aS'Wing'
+aS'12'
 p1395
+aS'3'
+aS'9'
+aS'0'
+aS'0'
+aS'2'
 aS'NSW'
 p1396
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p1397
 aVNew South Wales
 p1398
 ag9
 aa(lp1399
-S'Harry Tancred'
+S'John Pym'
 p1400
 aS'1923'
 p1401
-aS'No. 8'
+aS'Wing'
 p1402
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p1403
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aVAustralia
 p1404
 aVNew South Wales
 p1405
 ag9
 aa(lp1406
-S'Owen Crossman'
+S'Harry Tancred'
 p1407
 aS'1923'
 p1408
-aS'Wing'
+aS'No. 8'
 p1409
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p1410
-aS'15'
+aVAustralia
 p1411
+aVNew South Wales
+p1412
+ag9
+aa(lp1413
+S'Owen Crossman'
+p1414
+aS'1923'
+p1415
+aS'Wing'
+p1416
+aS'15'
+p1417
 aS'7'
+aS'8'
+aS'0'
 aS'7'
 aS'29'
-p1412
-aVAustralia
-p1413
-aVNew South Wales
-p1414
-ag9
-aa(lp1415
-S'Allen Bowers'
-p1416
-aS'1923'
-p1417
-aS'Wing'
 p1418
 aS'NSW'
 p1419
+aVAustralia
+p1420
+aVNew South Wales
+p1421
+ag9
+aa(lp1422
+S'Allen Bowers'
+p1423
+aS'1923'
+p1424
+aS'Wing'
+p1425
 aS'7'
 aS'4'
+aS'3'
+aS'0'
 aS'4'
 aS'12'
-p1420
-aVAustralia
-p1421
-aVNew South Wales
-p1422
-ag9
-aa(lp1423
-S'Peter Buchanan'
-p1424
-aS'1923'
-p1425
-aS'Centre'
 p1426
-aS'Wellington'
+aS'NSW'
 p1427
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
+aVAustralia
 p1428
-aVWellington
+aVNew South Wales
 p1429
-aVWellington City
-p1430
-aa(lp1431
-S'Ted Greatorex'
-p1432
+ag9
+aa(lp1430
+S'Peter Buchanan'
+p1431
 aS'1923'
+p1432
+aS'Centre'
 p1433
-aS'Flanker'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
 p1434
-aS'Leichardt'
+aVNew Zealand/Aotearoa
 p1435
+aVWellington
+p1436
+aVWellington City
+p1437
+aa(lp1438
+S'Ted Greatorex'
+p1439
+aS'1923'
+p1440
+aS'Flanker'
+p1441
 aS'8'
 aS'3'
 aS'5'
+aS'0'
+aS'5'
 aS'15'
-p1436
-aVAustralia
-p1437
-aVVictoria
-p1438
-aVLoddon Mallee
-p1439
-aa(lp1440
-S'Alexander Armstrong'
-p1441
-aS'1923'
 p1442
-aS'No. 8'
+aS'Leichardt'
 p1443
-aS'NSW'
+aVAustralia
 p1444
+aVVictoria
+p1445
+aVLoddon Mallee
+p1446
+aa(lp1447
+S'Alexander Armstrong'
+p1448
+aS'1923'
+p1449
+aS'No. 8'
+p1450
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p1445
-aVNew South Wales
-p1446
-ag9
-aa(lp1447
-S'Danie Erasmus'
-p1448
-aS'1923'
-p1449
-aS'Wing'
-p1450
-aS'Pretoria'
+aS'NSW'
 p1451
+aVAustralia
+p1452
+aVNew South Wales
+p1453
+ag9
+aa(lp1454
+S'Danie Erasmus'
+p1455
+aS'1923'
+p1456
+aS'Wing'
+p1457
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
-aVSouth Africa
-p1452
-aVGauteng
-p1453
-aVCity of Tshwane Metropolitan Municipality
-p1454
-aa(lp1455
-S'Hugh Taylor'
-p1456
-aS'1923'
-p1457
-aS'Lock'
+aS'Pretoria'
 p1458
-aS'NSW'
+aVSouth Africa
 p1459
+aVGauteng
+p1460
+aVCity of Tshwane Metropolitan Municipality
+p1461
+aa(lp1462
+S'Hugh Taylor'
+p1463
+aS'1923'
+p1464
+aS'Lock'
+p1465
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p1460
-aVNew South Wales
-p1461
-ag9
-aa(lp1462
-S'Hugh Buntine'
-p1463
-aS'1923'
-p1464
-aS'Centre'
-p1465
 aS'NSW'
 p1466
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p1467
 aVNew South Wales
 p1468
 ag9
 aa(lp1469
-S'Bob Loudon'
+S'Hugh Buntine'
 p1470
 aS'1923'
 p1471
-aS'Flanker'
+aS'Centre'
 p1472
-aS'Leeston'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p1473
-aS'13'
+aVAustralia
 p1474
+aVNew South Wales
+p1475
+ag9
+aa(lp1476
+S'Bob Loudon'
+p1477
+aS'1923'
+p1478
+aS'Flanker'
+p1479
+aS'13'
+p1480
 aS'4'
+aS'8'
+aS'1'
 aS'4'
 aS'12'
-p1475
-aVNew Zealand/Aotearoa
-p1476
-aVCanterbury
-p1477
-aVSelwyn District
-p1478
-aa(lp1479
-S'John Crakanthorp'
-p1480
-aS'1923'
 p1481
-aS'Fullback'
+aS'Leeston'
 p1482
-aS'NSW'
+aVNew Zealand/Aotearoa
 p1483
+aVCanterbury
+p1484
+aVSelwyn District
+p1485
+aa(lp1486
+S'John Crakanthorp'
+p1487
+aS'1923'
+p1488
+aS'Fullback'
+p1489
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p1484
-aVNew South Wales
-p1485
-ag9
-aa(lp1486
-S'Wally Meagher'
-p1487
-aS'1923'
-p1488
-aS'Scrum-half'
-p1489
 aS'NSW'
 p1490
-aS'8'
-aS'3'
-aS'0'
-aS'3'
 aVAustralia
 p1491
 aVNew South Wales
 p1492
 ag9
 aa(lp1493
-S'Roy Hoskins'
+S'Wally Meagher'
 p1494
-aS'1924'
+aS'1923'
 p1495
-aS'No. 8'
+aS'Scrum-half'
 p1496
+aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'0'
+aS'3'
 aS'NSW'
 p1497
-aS'3'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p1498
 aVNew South Wales
 p1499
 ag9
 aa(lp1500
-S'Ernie Ritchie'
+S'Roy Hoskins'
 p1501
 aS'1924'
 p1502
-aS'Prop'
+aS'No. 8'
 p1503
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p1504
-aS'4'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p1505
 aVNew South Wales
 p1506
 ag9
 aa(lp1507
-S'Jim Foote'
+S'Ernie Ritchie'
 p1508
 aS'1924'
 p1509
-aS'Wing'
+aS'Prop'
 p1510
-aS'QLD'
-p1511
+aS'4'
+aS'1'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p1511
 aVAustralia
 p1512
-aVQueensland
+aVNew South Wales
 p1513
 ag9
 aa(lp1514
-S'Robert Anderson'
+S'Jim Foote'
 p1515
-aS'1925'
+aS'1924'
 p1516
-aS'Centre'
+aS'Wing'
 p1517
-aS'NSW'
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
 p1518
+aVAustralia
+p1519
+aVQueensland
+p1520
+ag9
+aa(lp1521
+S'Robert Anderson'
+p1522
+aS'1925'
+p1523
+aS'Centre'
+p1524
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p1519
-aVNew South Wales
-p1520
-ag9
-aa(lp1521
-S'Harry Bryant'
-p1522
-aS'1925'
-p1523
-aS'No. 8'
-p1524
 aS'NSW'
 p1525
-aS'3'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p1526
 aVNew South Wales
 p1527
 ag9
 aa(lp1528
-S'John Hill'
+S'Harry Bryant'
 p1529
 aS'1925'
 p1530
-aS'Prop'
+aS'No. 8'
 p1531
-aS'date unknown'
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p1532
+aVAustralia
+p1533
+aVNew South Wales
+p1534
+ag9
+aa(lp1535
+S'John Hill'
+p1536
+aS'1925'
+p1537
+aS'Prop'
+p1538
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p1539
 aS'g'
 aS'n'
 aS'i'
-aa(lp1533
+aa(lp1540
 S'Alf Rainbow'
-p1534
+p1541
 aS'1925'
-p1535
+p1542
 aS'Fly-half'
-p1536
-aS'London'
-p1537
+p1543
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p1538
-aVEngland
-p1539
-aVGreater London
-p1540
-aa(lp1541
-S'Alec Ross'
-p1542
-aS'1925'
-p1543
-aS'Fullback'
+aS'London'
 p1544
-aS'NSW'
+aVUnited Kingdom
 p1545
-aS'20'
+aVEngland
 p1546
+aVGreater London
+p1547
+aa(lp1548
+S'Alec Ross'
+p1549
+aS'1925'
+p1550
+aS'Fullback'
+p1551
+aS'20'
+p1552
 aS'9'
+aS'10'
+p1553
+aS'1'
 aS'0'
 aS'43'
-p1547
-aVAustralia
-p1548
-aVNew South Wales
-p1549
-ag9
-aa(lp1550
-S'Arthur Toby'
-p1551
-aS'1925'
-p1552
-aS'Centre'
-p1553
-aS'NSW'
 p1554
+aS'NSW'
+p1555
+aVAustralia
+p1556
+aVNew South Wales
+p1557
+ag9
+aa(lp1558
+S'Arthur Toby'
+p1559
+aS'1925'
+p1560
+aS'Centre'
+p1561
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p1555
-aVNew South Wales
-p1556
-ag9
-aa(lp1557
-S'Patrick Mulligan'
-p1558
-aS'1925'
-p1559
-aS'Centre'
-p1560
-aS'circa 1900'
-p1561
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVPhilippines
+aS'NSW'
 p1562
-aV6004
+aVAustralia
 p1563
-aVCentral Visayas
+aVNew South Wales
 p1564
+ag9
 aa(lp1565
-S'Clive Bondfield'
+S'Patrick Mulligan'
 p1566
 aS'1925'
 p1567
-aS'Wing'
+aS'Centre'
 p1568
-aS'NSW'
-p1569
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
+aS'circa 1900'
+p1569
+aVPhilippines
 p1570
-aVNew South Wales
+aV6004
 p1571
-ag9
-aa(lp1572
-S'Bill Laycock'
-p1573
-aS'1925'
+aVCentral Visayas
+p1572
+aa(lp1573
+S'Clive Bondfield'
 p1574
-aS'Flanker'
+aS'1925'
 p1575
-aS'NSW'
+aS'Wing'
 p1576
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1577
+aVAustralia
+p1578
+aVNew South Wales
+p1579
+ag9
+aa(lp1580
+S'Bill Laycock'
+p1581
+aS'1925'
+p1582
+aS'Flanker'
+p1583
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p1577
-aVNew South Wales
-p1578
-ag9
-aa(lp1579
-S'Charles Morrissey'
-p1580
-aS'1925'
-p1581
-aS'Centre'
-p1582
 aS'NSW'
-p1583
+p1584
+aVAustralia
+p1585
+aVNew South Wales
+p1586
+ag9
+aa(lp1587
+S'Charles Morrissey'
+p1588
+aS'1925'
+p1589
+aS'Centre'
+p1590
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p1584
-aVNew South Wales
-p1585
-ag9
-aa(lp1586
-S'Ernie Reid'
-p1587
-aS'1925'
-p1588
-aS'Centre'
-p1589
-aS'Western Samoa'
-p1590
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited States of America
+aS'NSW'
 p1591
-aV95503
+aVAustralia
 p1592
-aVCalifornia
+aVNew South Wales
 p1593
+ag9
 aa(lp1594
-S'Wal Rigney'
+S'Ernie Reid'
 p1595
 aS'1925'
 p1596
-aS'Flanker'
+aS'Centre'
 p1597
-aS'NSW'
-p1598
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
+aS'Western Samoa'
+p1598
+aVUnited States of America
 p1599
-aVNew South Wales
+aV95503
 p1600
-ag9
-aa(lp1601
-S'Colin Shaw'
-p1602
-aS'1925'
+aVCalifornia
+p1601
+aa(lp1602
+S'Wal Rigney'
 p1603
-aS'Lock'
+aS'1925'
 p1604
-aS'Edinburgh'
+aS'Flanker'
 p1605
 aS'3'
 aS'0'
+aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'NSW'
 p1606
-aVScotland
+aVAustralia
 p1607
-aVCity of Edinburgh
+aVNew South Wales
 p1608
+ag9
 aa(lp1609
-S'Harold Snell'
+S'Colin Shaw'
 p1610
 aS'1925'
 p1611
-aS'Scrum-half'
+aS'Lock'
 p1612
-aS'NSW'
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Edinburgh'
 p1613
+aVUnited Kingdom
+p1614
+aVScotland
+p1615
+aVCity of Edinburgh
+p1616
+aa(lp1617
+S'Harold Snell'
+p1618
+aS'1925'
+p1619
+aS'Scrum-half'
+p1620
 aS'3'
 aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p1614
-aVNew South Wales
-p1615
-ag9
-aa(lp1616
-S'Ken Tarleton'
-p1617
-aS'1925'
-p1618
-aS'Hooker'
-p1619
-aS'N Sydney'
-p1620
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
+aS'NSW'
 p1621
-aVNew South Wales
+aVAustralia
 p1622
-aVSydney
+aVNew South Wales
 p1623
+ag9
 aa(lp1624
-S'Wylie Breckenridge'
+S'Ken Tarleton'
 p1625
 aS'1925'
 p1626
-aS'Flanker'
+aS'Hooker'
 p1627
-aS'NSW'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'N Sydney'
 p1628
-aS'11'
-p1629
-aS'7'
-aS'0'
-aS'0'
 aVAustralia
-p1630
+p1629
 aVNew South Wales
+p1630
+aVSydney
 p1631
-ag9
 aa(lp1632
-S'Arthur Jamieson'
+S'Wylie Breckenridge'
 p1633
 aS'1925'
 p1634
-aS''
-aS'Greymouth'
+aS'Flanker'
 p1635
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p1636
-aVWest Coast
-p1637
-aVGrey District
-p1638
-aa(lp1639
-S'Jack Ford'
-p1640
-aS'1925'
-p1641
-aS'No. 8'
-p1642
-aS'TAS'
-p1643
 aS'11'
-p1644
+p1636
 aS'7'
 aS'4'
-aS'12'
-p1645
-aVAustralia
-p1646
-aVTasmania
-p1647
-ag9
-aa(lp1648
-S'Bruce Judd'
-p1649
-aS'1925'
-p1650
-aS'Prop'
-p1651
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
-p1652
-aS'11'
-p1653
-aS'4'
+p1637
+aVAustralia
+p1638
+aVNew South Wales
+p1639
+ag9
+aa(lp1640
+S'Arthur Jamieson'
+p1641
+aS'1925'
+p1642
+aS''
 aS'1'
-aS'3'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Greymouth'
+p1643
+aVNew Zealand/Aotearoa
+p1644
+aVWest Coast
+p1645
+aVGrey District
+p1646
+aa(lp1647
+S'Jack Ford'
+p1648
+aS'1925'
+p1649
+aS'No. 8'
+p1650
+aS'11'
+p1651
+aS'7'
+aS'4'
+aS'0'
+aS'4'
+aS'12'
+p1652
+aS'TAS'
+p1653
 aVAustralia
 p1654
-aVNew South Wales
+aVTasmania
 p1655
 ag9
 aa(lp1656
-S'Harry Woods'
+S'Bruce Judd'
 p1657
 aS'1925'
 p1658
 aS'Prop'
 p1659
-aS'WA'
+aS'11'
 p1660
-aS'8'
-aS'3'
+aS'4'
+aS'7'
+aS'0'
 aS'1'
 aS'3'
-aVUnited States of America
-p1661
-aVWashington
-p1662
-ag9
-aa(lp1663
-S'Huck Finlay'
-p1664
-aS'1926'
-p1665
-aS'Lock'
-p1666
 aS'NSW'
-p1667
-aS'12'
-p1668
-aS'8'
-aS'0'
-aS'0'
+p1661
 aVAustralia
-p1669
+p1662
 aVNew South Wales
+p1663
+ag9
+aa(lp1664
+S'Harry Woods'
+p1665
+aS'1925'
+p1666
+aS'Prop'
+p1667
+aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'1'
+aS'3'
+aS'WA'
+p1668
+aVUnited States of America
+p1669
+aVWashington
 p1670
 ag9
 aa(lp1671
-S'Wal Ives'
+S'Huck Finlay'
 p1672
 aS'1926'
 p1673
 aS'Lock'
 p1674
-aS'NSW'
+aS'12'
 p1675
+aS'8'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1676
+aVAustralia
+p1677
+aVNew South Wales
+p1678
+ag9
+aa(lp1679
+S'Wal Ives'
+p1680
+aS'1926'
+p1681
+aS'Lock'
+p1682
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
-aVAustralia
-p1676
-aVNew South Wales
-p1677
-ag9
-aa(lp1678
-S'Syd King'
-p1679
-aS'1926'
-p1680
-aS'Centre'
-p1681
+aS'0'
 aS'NSW'
-p1682
-aS'14'
 p1683
-aS'8'
-aS'2'
-aS'6'
 aVAustralia
 p1684
 aVNew South Wales
 p1685
 ag9
 aa(lp1686
-S'Cyril Towers'
+S'Syd King'
 p1687
 aS'1926'
 p1688
 aS'Centre'
 p1689
-aS'Vic'
+aS'14'
 p1690
-aS'19'
+aS'8'
+aS'6'
+aS'0'
+aS'2'
+aS'6'
+aS'NSW'
 p1691
+aVAustralia
+p1692
+aVNew South Wales
+p1693
+ag9
+aa(lp1694
+S'Cyril Towers'
+p1695
+aS'1926'
+p1696
+aS'Centre'
+p1697
+aS'19'
+p1698
 aS'9'
+aS'9'
+aS'1'
 aS'9'
 aS'43'
-p1692
-aVAustralia
-p1693
-aVVictoria
-p1694
-ag9
-aa(lp1695
-S'Jim Tancred'
-p1696
-aS'1926'
-p1697
-aS'Prop'
-p1698
-aS'NSW'
 p1699
+aS'Vic'
+p1700
+aVAustralia
+p1701
+aVVictoria
+p1702
+ag9
+aa(lp1703
+S'Jim Tancred'
+p1704
+aS'1926'
+p1705
+aS'Prop'
+p1706
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
-aVAustralia
-p1700
-aVNew South Wales
-p1701
-ag9
-aa(lp1702
-S'Don Telford'
-p1703
-aS'1926'
-p1704
-aS'Lock'
-p1705
+aS'0'
 aS'NSW'
-p1706
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
 p1707
-aVNew South Wales
+aVAustralia
 p1708
+aVNew South Wales
+p1709
 ag9
-aa(lp1709
-S'Ray Bowden'
-p1710
-aS'1926'
+aa(lp1710
+S'Don Telford'
 p1711
-aS'Lock'
+aS'1926'
 p1712
-aS'NSW'
+aS'Lock'
 p1713
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p1714
-aVNew South Wales
-p1715
-ag9
-aa(lp1716
-S'Ian Comrie-Thomson'
-p1717
-aS'1926'
-p1718
-aS'Prop'
-p1719
+aS'0'
 aS'NSW'
+p1714
+aVAustralia
+p1715
+aVNew South Wales
+p1716
+ag9
+aa(lp1717
+S'Ray Bowden'
+p1718
+aS'1926'
+p1719
+aS'Lock'
 p1720
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1721
+aVAustralia
+p1722
+aVNew South Wales
+p1723
+ag9
+aa(lp1724
+S'Ian Comrie-Thomson'
+p1725
+aS'1926'
+p1726
+aS'Prop'
+p1727
 aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
-aVAustralia
-p1721
-aVNew South Wales
-p1722
-ag9
-aa(lp1723
-S'Jack Duncan'
-p1724
-aS'1926'
-p1725
-aS'Scrum-half'
-p1726
+aS'0'
 aS'NSW'
-p1727
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
 p1728
-aVNew South Wales
+aVAustralia
 p1729
+aVNew South Wales
+p1730
 ag9
-aa(lp1730
-S'George Mackay'
-p1731
-aS'1926'
+aa(lp1731
+S'Jack Duncan'
 p1732
-aS'Fullback'
+aS'1926'
 p1733
-aS'NSW'
+aS'Scrum-half'
 p1734
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p1735
-aVNew South Wales
-p1736
-ag9
-aa(lp1737
-S'Stuart McLaren'
-p1738
-aS'1926'
-p1739
-aS'Wing'
-p1740
+aS'0'
 aS'NSW'
+p1735
+aVAustralia
+p1736
+aVNew South Wales
+p1737
+ag9
+aa(lp1738
+S'George Mackay'
+p1739
+aS'1926'
+p1740
+aS'Fullback'
 p1741
 aS'1'
 aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1742
-aVNew South Wales
-p1743
-ag9
-aa(lp1744
-S'Geoff Storey'
-p1745
-aS'1926'
-p1746
-aS'Lock'
-p1747
-aS'NSW'
-p1748
-aS'8'
-aS'5'
-aS'0'
-aS'0'
-aVAustralia
-p1749
-aVNew South Wales
-p1750
-ag9
-aa(lp1751
-S'Merv Rylance'
-p1752
-aS'1926'
-p1753
-aS''
-aS'Qld'
-p1754
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p1742
 aVAustralia
-p1755
-aVQueensland
-p1756
+p1743
+aVNew South Wales
+p1744
 ag9
-aa(lp1757
-S'Eric Ford'
-p1758
-aS'1927'
-p1759
+aa(lp1745
+S'Stuart McLaren'
+p1746
+aS'1926'
+p1747
 aS'Wing'
-p1760
-aS'Tas'
-p1761
-aS'7'
+p1748
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1749
+aVAustralia
+p1750
+aVNew South Wales
+p1751
+ag9
+aa(lp1752
+S'Geoff Storey'
+p1753
+aS'1926'
+p1754
+aS'Lock'
+p1755
+aS'8'
 aS'5'
-aS'4'
-aS'12'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1756
+aVAustralia
+p1757
+aVNew South Wales
+p1758
+ag9
+aa(lp1759
+S'Merv Rylance'
+p1760
+aS'1926'
+p1761
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
 p1762
 aVAustralia
 p1763
-aVTasmania
+aVQueensland
 p1764
 ag9
 aa(lp1765
-S'Arnold Tancred'
+S'Eric Ford'
 p1766
 aS'1927'
 p1767
-aS'Flanker'
+aS'Wing'
 p1768
-aS'NSW'
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'4'
+aS'12'
 p1769
+aS'Tas'
+p1770
+aVAustralia
+p1771
+aVTasmania
+p1772
+ag9
+aa(lp1773
+S'Arnold Tancred'
+p1774
+aS'1927'
+p1775
+aS'Flanker'
+p1776
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p1770
-aVNew South Wales
-p1771
-ag9
-aa(lp1772
-S'Sid Malcolm'
-p1773
-aS'1927'
-p1774
-aS'Scrum-half'
-p1775
+aS'0'
 aS'NSW'
-p1776
-aS'18'
 p1777
-aS'8'
-aS'2'
-aS'6'
 aVAustralia
 p1778
 aVNew South Wales
 p1779
 ag9
 aa(lp1780
-S'Malcolm Blair'
+S'Sid Malcolm'
 p1781
-aS'1928'
+aS'1927'
 p1782
-aS'Prop'
+aS'Scrum-half'
 p1783
-aS'NSW'
+aS'18'
 p1784
+aS'8'
+aS'9'
+aS'1'
+aS'2'
+aS'6'
+aS'NSW'
+p1785
+aVAustralia
+p1786
+aVNew South Wales
+p1787
+ag9
+aa(lp1788
+S'Malcolm Blair'
+p1789
+aS'1928'
+p1790
+aS'Prop'
+p1791
 aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1792
+aVAustralia
+p1793
+aVNew South Wales
+p1794
+ag9
+aa(lp1795
+S'Ric Bardsley'
+p1796
+aS'1928'
+p1797
+aS'Flanker'
+p1798
+aS'3'
+aS'1'
 aS'2'
 aS'0'
 aS'0'
-aVAustralia
-p1785
-aVNew South Wales
-p1786
-ag9
-aa(lp1787
-S'Ric Bardsley'
-p1788
-aS'1928'
-p1789
-aS'Flanker'
-p1790
+aS'0'
 aS'NSW'
-p1791
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p1792
-aVNew South Wales
-p1793
-ag9
-aa(lp1794
-S'Robert Burge'
-p1795
-aS'1928'
-p1796
-aS'Centre'
-p1797
-aS'NSW'
-p1798
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
 p1799
-aVNew South Wales
+aVAustralia
 p1800
+aVNew South Wales
+p1801
 ag9
-aa(lp1801
-S'Bill Cerutti'
-p1802
-aS'1928'
+aa(lp1802
+S'Robert Burge'
 p1803
-aS'Prop'
+aS'1928'
 p1804
-aS'NSW'
+aS'Centre'
 p1805
-aS'21'
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p1806
-aS'10'
+aVAustralia
 p1807
-aS'3'
-aS'9'
-aVAustralia
+aVNew South Wales
 p1808
-aVNew South Wales
-p1809
 ag9
-aa(lp1810
-S'Mac Lamb'
+aa(lp1809
+S'Bill Cerutti'
+p1810
+aS'1928'
 p1811
-aS'1928'
+aS'Prop'
 p1812
-aS'Lock'
+aS'21'
 p1813
-aS'NSW'
+aS'10'
 p1814
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
+aS'11'
 p1815
-aVNew South Wales
-p1816
-ag9
-aa(lp1817
-S"Jack O'Connor"
-p1818
-aS'1928'
-p1819
-aS'Lock'
-p1820
-aS'NSW'
-p1821
-aS'4'
-aS'1'
-aS'1'
-aS'3'
-aVAustralia
-p1822
-aVNew South Wales
-p1823
-ag9
-aa(lp1824
-S"John O'Donnell"
-p1825
-aS'1928'
-p1826
-aS'Hooker'
-p1827
-aS'NSW'
-p1828
-aS'3'
-aS'1'
 aS'0'
-aS'0'
-aVAustralia
-p1829
-aVNew South Wales
-p1830
-ag9
-aa(lp1831
-S'Myer Rosenblum'
-p1832
-aS'1928'
-p1833
-aS'Flanker'
-p1834
-aS'Pretoria'
-p1835
-aS'4'
-aS'1'
 aS'3'
 aS'9'
-aVSouth Africa
+aS'NSW'
+p1816
+aVAustralia
+p1817
+aVNew South Wales
+p1818
+ag9
+aa(lp1819
+S'Mac Lamb'
+p1820
+aS'1928'
+p1821
+aS'Lock'
+p1822
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1823
+aVAustralia
+p1824
+aVNew South Wales
+p1825
+ag9
+aa(lp1826
+S"Jack O'Connor"
+p1827
+aS'1928'
+p1828
+aS'Lock'
+p1829
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p1830
+aVAustralia
+p1831
+aVNew South Wales
+p1832
+ag9
+aa(lp1833
+S"John O'Donnell"
+p1834
+aS'1928'
+p1835
+aS'Hooker'
 p1836
-aVGauteng
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p1837
-aVCity of Tshwane Metropolitan Municipality
+aVAustralia
 p1838
-aa(lp1839
-S'Alf Smairl'
-p1840
-aS'1928'
+aVNew South Wales
+p1839
+ag9
+aa(lp1840
+S'Myer Rosenblum'
 p1841
-aS'Wing'
+aS'1928'
 p1842
-aS'NSW'
+aS'Flanker'
 p1843
-aS'3'
+aS'4'
 aS'1'
-aS'1'
 aS'3'
-aVAustralia
+aS'0'
+aS'3'
+aS'9'
+aS'Pretoria'
 p1844
-aVNew South Wales
+aVSouth Africa
 p1845
-ag9
-aa(lp1846
-S'Bob Westfield'
+aVGauteng
+p1846
+aVCity of Tshwane Metropolitan Municipality
 p1847
-aS'1928'
-p1848
-aS'Fullback'
+aa(lp1848
+S'Alf Smairl'
 p1849
-aS'Hunterville'
+aS'1928'
 p1850
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVUnited States of America
+aS'Wing'
 p1851
-aVMissouri
-p1852
-aVStoddard County
-p1853
-aa(lp1854
-S'Bill White'
-p1855
-aS'1928'
-p1856
-aS'Wing'
-p1857
-aS'NSW'
-p1858
 aS'3'
 aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p1852
+aVAustralia
+p1853
+aVNew South Wales
+p1854
+ag9
+aa(lp1855
+S'Bob Westfield'
+p1856
+aS'1928'
+p1857
+aS'Fullback'
+p1858
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Hunterville'
+p1859
+aVUnited States of America
+p1860
+aVMissouri
+p1861
+aVStoddard County
+p1862
+aa(lp1863
+S'Bill White'
+p1864
+aS'1928'
+p1865
+aS'Wing'
+p1866
+aS'3'
+aS'1'
+aS'2'
+aS'0'
 aS'1'
 aS'6'
+aS'NSW'
+p1867
 aVAustralia
-p1859
+p1868
 aVNew South Wales
-p1860
+p1869
 ag9
-aa(lp1861
+aa(lp1870
 S'Bill Hemingway'
-p1862
+p1871
 aS'1928'
-p1863
+p1872
 aS'Wing'
-p1864
-aS'Auckland'
-p1865
+p1873
 aS'5'
 aS'2'
 aS'3'
+aS'0'
+aS'3'
 aS'9'
-aVNew Zealand/Aotearoa
-p1866
-aVAuckland
-p1867
-ag9
-aa(lp1868
-S'Allen Munsie'
-p1869
-aS'1928'
-p1870
-aS'Flanker'
-p1871
-aS'NSW'
-p1872
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p1873
-aVNew South Wales
+aS'Auckland'
 p1874
-ag9
-aa(lp1875
-S'Walter Phipps'
+aVNew Zealand/Aotearoa
+p1875
+aVAuckland
 p1876
-aS'1928'
-p1877
-aS'Hooker'
+ag9
+aa(lp1877
+S'Allen Munsie'
 p1878
-aS'NSW'
+aS'1928'
 p1879
+aS'Flanker'
+p1880
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p1880
-aVNew South Wales
-p1881
-ag9
-aa(lp1882
-S'Geoff Bland'
-p1883
-aS'1928'
-p1884
-aS'Lock'
-p1885
 aS'NSW'
+p1881
+aVAustralia
+p1882
+aVNew South Wales
+p1883
+ag9
+aa(lp1884
+S'Walter Phipps'
+p1885
+aS'1928'
 p1886
+aS'Hooker'
+p1887
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1888
+aVAustralia
+p1889
+aVNew South Wales
+p1890
+ag9
+aa(lp1891
+S'Geoff Bland'
+p1892
+aS'1928'
+p1893
+aS'Lock'
+p1894
 aS'8'
 aS'3'
+aS'5'
 aS'0'
 aS'0'
-aVAustralia
-p1887
-aVNew South Wales
-p1888
-ag9
-aa(lp1889
-S'Bruce Caldwell'
-p1890
-aS'1928'
-p1891
-aS'Centre'
-p1892
+aS'0'
 aS'NSW'
-p1893
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p1894
-aVNew South Wales
 p1895
-ag9
-aa(lp1896
-S'Donald Bull'
+aVAustralia
+p1896
+aVNew South Wales
 p1897
-aS'1928'
-p1898
-aS'Centre'
+ag9
+aa(lp1898
+S'Bruce Caldwell'
 p1899
-aS'NSW'
+aS'1928'
 p1900
+aS'Centre'
+p1901
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p1901
-aVNew South Wales
+aS'0'
+aS'NSW'
 p1902
-ag9
-aa(lp1903
-S'Bernard Croft'
+aVAustralia
+p1903
+aVNew South Wales
 p1904
-aS'1928'
-p1905
-aS'Wing'
+ag9
+aa(lp1905
+S'Donald Bull'
 p1906
-aS'Tasmania'
+aS'1928'
 p1907
+aS'Centre'
+p1908
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1909
+aVAustralia
+p1910
+aVNew South Wales
+p1911
+ag9
+aa(lp1912
+S'Bernard Croft'
+p1913
+aS'1928'
+p1914
+aS'Wing'
+p1915
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'2'
-aVAustralia
-p1908
-aVTasmania
-p1909
-ag9
-aa(lp1910
-S'Edward Bonis'
-p1911
-aS'1929'
-p1912
-aS'Hooker'
-p1913
-aS'QLD'
-p1914
-aS'21'
-p1915
-aS'10'
+aS'Tasmania'
 p1916
-aS'1'
-aS'3'
 aVAustralia
 p1917
-aVQueensland
+aVTasmania
 p1918
 ag9
 aa(lp1919
-S'Cam Gordon'
+S'Edward Bonis'
 p1920
 aS'1929'
 p1921
-aS'Wing'
+aS'Hooker'
 p1922
-aS'NSW'
+aS'21'
 p1923
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aVAustralia
+aS'10'
 p1924
-aVNew South Wales
+aS'10'
 p1925
-ag9
-aa(lp1926
-S'Harry Hamalainen'
-p1927
-aS'1929'
-p1928
-aS'Lock'
-p1929
+aS'1'
+aS'1'
+aS'3'
 aS'QLD'
-p1930
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p1926
 aVAustralia
-p1931
+p1927
 aVQueensland
-p1932
+p1928
 ag9
-aa(lp1933
-S'Len Palfreyman'
-p1934
+aa(lp1929
+S'Cam Gordon'
+p1930
 aS'1929'
-p1935
-aS'Flanker'
-p1936
+p1931
+aS'Wing'
+p1932
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
 aS'NSW'
+p1933
+aVAustralia
+p1934
+aVNew South Wales
+p1935
+ag9
+aa(lp1936
+S'Harry Hamalainen'
 p1937
+aS'1929'
+p1938
+aS'Lock'
+p1939
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p1940
+aVAustralia
+p1941
+aVQueensland
+p1942
+ag9
+aa(lp1943
+S'Len Palfreyman'
+p1944
+aS'1929'
+p1945
+aS'Flanker'
+p1946
 aS'4'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVAustralia
-p1938
-aVNew South Wales
-p1939
-ag9
-aa(lp1940
-S'Eddie Thompson'
-p1941
-aS'1929'
-p1942
-aS'Prop'
-p1943
-aS'Qld'
-p1944
-aS'4'
-aS'4'
 aS'0'
-aS'0'
-aVAustralia
-p1945
-aVQueensland
-p1946
-ag9
-aa(lp1947
-S'Alan Thorpe'
-p1948
-aS'1929'
-p1949
-aS''
 aS'NSW'
-p1950
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p1947
 aVAustralia
-p1951
+p1948
 aVNew South Wales
-p1952
+p1949
 ag9
-aa(lp1953
-S'Gordon McGhie'
-p1954
+aa(lp1950
+S'Eddie Thompson'
+p1951
 aS'1929'
+p1952
+aS'Prop'
+p1953
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p1954
+aVAustralia
 p1955
-aS'Wing'
+aVQueensland
 p1956
-aS'QLD'
-p1957
+ag9
+aa(lp1957
+S'Alan Thorpe'
+p1958
+aS'1929'
+p1959
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p1960
+aVAustralia
+p1961
+aVNew South Wales
+p1962
+ag9
+aa(lp1963
+S'Gordon McGhie'
+p1964
+aS'1929'
+p1965
+aS'Wing'
+p1966
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
+aS'QLD'
+p1967
 aVAustralia
-p1958
+p1968
 aVQueensland
-p1959
+p1969
 ag9
-aa(lp1960
+aa(lp1970
 S'Gordon Sturtridge'
-p1961
+p1971
 aS'1929'
-p1962
+p1972
 aS'Centre'
-p1963
-aS'NSW'
-p1964
+p1973
 aS'9'
 aS'4'
+aS'5'
+aS'0'
 aS'1'
 aS'3'
+aS'NSW'
+p1974
 aVAustralia
-p1965
+p1975
 aVNew South Wales
-p1966
+p1976
 ag9
-aa(lp1967
+aa(lp1977
 S'Walter Bennett'
-p1968
+p1978
 aS'1931'
-p1969
+p1979
 aS'Scrum-half'
-p1970
-aS'QLD'
-p1971
+p1980
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p1972
-aVQueensland
-p1973
-ag9
-aa(lp1974
-S'Owen Bridle'
-p1975
-aS'1931'
-p1976
-aS'Flanker'
-p1977
-aS'Exmouth'
-p1978
-aS'12'
-p1979
-aS'5'
-aS'5'
-aS'15'
-p1980
-aVUnited Kingdom
+aS'QLD'
 p1981
-aVEngland
+aVAustralia
 p1982
-aVSouth West England
+aVQueensland
 p1983
+ag9
 aa(lp1984
-S'Jim Clark'
+S'Owen Bridle'
 p1985
 aS'1931'
 p1986
 aS'Flanker'
 p1987
-aS'Qld'
+aS'12'
 p1988
 aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p1989
-aVQueensland
-p1990
-ag9
-aa(lp1991
-S'Harold Herd'
-p1992
-aS'1931'
-p1993
-aS'Centre'
-p1994
-aS'NSW'
-p1995
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p1996
-aVNew South Wales
-p1997
-ag9
-aa(lp1998
-S'Tom Perrin'
-p1999
-aS'1931'
-p2000
-aS'No. 8'
-p2001
-aS'NSW'
-p2002
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2003
-aVNew South Wales
-p2004
-ag9
-aa(lp2005
-S'Jack Steggall'
-p2006
-aS'1931'
-p2007
-aS'Fullback'
-p2008
-aS'WA'
-p2009
-aS'10'
-p2010
-aS'4'
-aS'3'
-aS'9'
-aVUnited States of America
-p2011
-aVWashington
-p2012
-ag9
-aa(lp2013
-S'Harold Tolhurst'
-p2014
-aS'1931'
-p2015
-aS'Wing'
-p2016
-aS'NSW'
-p2017
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2018
-aVNew South Wales
-p2019
-ag9
-aa(lp2020
-S'Max White'
-p2021
-aS'1931'
-p2022
-aS'Prop'
-p2023
-aS'Qld'
-p2024
-aS'9'
-aS'4'
-aS'0'
-aS'0'
-aVAustralia
-p2025
-aVQueensland
-p2026
-ag9
-aa(lp2027
-S'Dave Cowper'
-p2028
-aS'1931'
-p2029
-aS'Centre'
-p2030
-aS'NSW'
-p2031
-aS'9'
-aS'3'
-aS'4'
-aS'18'
-p2032
-aVAustralia
-p2033
-aVNew South Wales
-p2034
-ag9
-aa(lp2035
-S'Kiwi Cooke'
-p2036
-aS'1932'
-p2037
-aS'Lock'
-p2038
-aS'Qld'
-p2039
-aS'14'
-p2040
 aS'6'
 aS'1'
+aS'5'
+aS'15'
+p1989
+aS'Exmouth'
+p1990
+aVUnited Kingdom
+p1991
+aVEngland
+p1992
+aVSouth West England
+p1993
+aa(lp1994
+S'Jim Clark'
+p1995
+aS'1931'
+p1996
+aS'Flanker'
+p1997
+aS'5'
+aS'2'
 aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p1998
 aVAustralia
-p2041
+p1999
 aVQueensland
-p2042
+p2000
 ag9
-aa(lp2043
-S'Dinny Love'
-p2044
-aS'1932'
-p2045
-aS'Prop'
-p2046
-aS'NSW'
-p2047
-aS'3'
+aa(lp2001
+S'Harold Herd'
+p2002
+aS'1931'
+p2003
+aS'Centre'
+p2004
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2005
 aVAustralia
-p2048
+p2006
 aVNew South Wales
-p2049
+p2007
 ag9
-aa(lp2050
-S'Weary Dunlop'
-p2051
-aS'1932'
-p2052
+aa(lp2008
+S'Tom Perrin'
+p2009
+aS'1931'
+p2010
 aS'No. 8'
-p2053
-aS'Vic'
-p2054
+p2011
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2055
-aVVictoria
-p2056
-ag9
-aa(lp2057
-S'Roy Lindsay'
-p2058
-aS'1932'
-p2059
-aS'Wing'
-p2060
-aS'Qld'
-p2061
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p2062
-aVQueensland
-p2063
-ag9
-aa(lp2064
-S'Ron Biilmann'
-p2065
-aS'1933'
-p2066
-aS'Fly-half'
-p2067
 aS'NSW'
-p2068
-aS'4'
-aS'1'
-aS'0'
-aS'12'
-p2069
+p2012
 aVAustralia
-p2070
+p2013
 aVNew South Wales
-p2071
+p2014
 ag9
-aa(lp2072
-S'Jack Kelaher'
-p2073
-aS'1933'
-p2074
-aS'Wing'
-p2075
-aS'NSW'
-p2076
-aS'13'
-p2077
+aa(lp2015
+S'Jack Steggall'
+p2016
+aS'1931'
+p2017
+aS'Fullback'
+p2018
+aS'10'
+p2019
 aS'4'
+aS'6'
+aS'0'
 aS'3'
 aS'9'
-aVAustralia
-p2078
-aVNew South Wales
-p2079
+aS'WA'
+p2020
+aVUnited States of America
+p2021
+aVWashington
+p2022
 ag9
-aa(lp2080
-S'Wal Mackney'
-p2081
-aS'1933'
-p2082
-aS'No. 8'
-p2083
+aa(lp2023
+S'Harold Tolhurst'
+p2024
+aS'1931'
+p2025
+aS'Wing'
+p2026
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
-p2084
+p2027
+aVAustralia
+p2028
+aVNew South Wales
+p2029
+ag9
+aa(lp2030
+S'Max White'
+p2031
+aS'1931'
+p2032
+aS'Prop'
+p2033
+aS'9'
 aS'4'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p2034
+aVAustralia
+p2035
+aVQueensland
+p2036
+ag9
+aa(lp2037
+S'Dave Cowper'
+p2038
+aS'1931'
+p2039
+aS'Centre'
+p2040
+aS'9'
+aS'3'
+aS'6'
+aS'0'
+aS'4'
+aS'18'
+p2041
+aS'NSW'
+p2042
+aVAustralia
+p2043
+aVNew South Wales
+p2044
+ag9
+aa(lp2045
+S'Kiwi Cooke'
+p2046
+aS'1932'
+p2047
+aS'Lock'
+p2048
+aS'14'
+p2049
+aS'6'
+aS'8'
+aS'0'
+aS'1'
+aS'3'
+aS'Qld'
+p2050
+aVAustralia
+p2051
+aVQueensland
+p2052
+ag9
+aa(lp2053
+S'Dinny Love'
+p2054
+aS'1932'
+p2055
+aS'Prop'
+p2056
+aS'3'
+aS'1'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p2057
 aVAustralia
-p2085
+p2058
 aVNew South Wales
-p2086
+p2059
 ag9
-aa(lp2087
-S'Doug McLean'
-p2088
-aS'1933'
-p2089
-aS'Wing'
-p2090
-aS'QLD'
-p2091
-aS'10'
-p2092
-aS'4'
-aS'4'
-aS'12'
-p2093
+aa(lp2060
+S'Weary Dunlop'
+p2061
+aS'1932'
+p2062
+aS'No. 8'
+p2063
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Vic'
+p2064
 aVAustralia
-p2094
-aVQueensland
-p2095
+p2065
+aVVictoria
+p2066
 ag9
-aa(lp2096
-S'Bill White'
-p2097
-aS'1933'
-p2098
-aS'Lock'
-p2099
+aa(lp2067
+S'Roy Lindsay'
+p2068
+aS'1932'
+p2069
+aS'Wing'
+p2070
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'Qld'
+p2071
+aVAustralia
+p2072
+aVQueensland
+p2073
+ag9
+aa(lp2074
+S'Ron Biilmann'
+p2075
+aS'1933'
+p2076
+aS'Fly-half'
+p2077
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'12'
+p2078
+aS'NSW'
+p2079
+aVAustralia
+p2080
+aVNew South Wales
+p2081
+ag9
+aa(lp2082
+S'Jack Kelaher'
+p2083
+aS'1933'
+p2084
+aS'Wing'
+p2085
+aS'13'
+p2086
+aS'4'
+aS'8'
+aS'1'
+aS'3'
+aS'9'
+aS'NSW'
+p2087
+aVAustralia
+p2088
+aVNew South Wales
+p2089
+ag9
+aa(lp2090
+S'Wal Mackney'
+p2091
+aS'1933'
+p2092
+aS'No. 8'
+p2093
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p2094
+aVAustralia
+p2095
+aVNew South Wales
+p2096
+ag9
+aa(lp2097
+S'Doug McLean'
+p2098
+aS'1933'
+p2099
+aS'Wing'
 p2100
 aS'10'
 p2101
 aS'4'
-aS'0'
-aS'0'
-aVAustralia
+aS'5'
+aS'1'
+aS'4'
+aS'12'
 p2102
-aVQueensland
+aS'QLD'
 p2103
-ag9
-aa(lp2104
-S'Aub Hodgson'
-p2105
-aS'1933'
-p2106
-aS'No. 8'
-p2107
-aS'NSW'
-p2108
-aS'11'
-p2109
-aS'3'
-aS'1'
-aS'3'
 aVAustralia
-p2110
-aVNew South Wales
-p2111
-ag9
-aa(lp2112
-S'Vincent Bermingham'
-p2113
-aS'1934'
-p2114
-aS'Prop'
-p2115
-aS'Toowoomba'
-p2116
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2117
+p2104
 aVQueensland
-p2118
-aVToowoomba
-p2119
-aa(lp2120
-S'Dooney Hayes'
-p2121
-aS'1934'
-p2122
-aS'Centre'
-p2123
-aS'Qld'
-p2124
+p2105
+ag9
+aa(lp2106
+S'Bill White'
+p2107
+aS'1933'
+p2108
+aS'Lock'
+p2109
+aS'10'
+p2110
+aS'4'
 aS'5'
 aS'1'
 aS'0'
-aS'3'
+aS'0'
+aS'Qld'
+p2111
 aVAustralia
-p2125
+p2112
 aVQueensland
-p2126
+p2113
 ag9
-aa(lp2127
-S'Ted Jessep'
-p2128
-aS'1931'
-p2129
-aS'Prop'
-p2130
-aS'Leichhard'
-p2131
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p2132
-aV0800
-p2133
-aVNorthern Territory
-p2134
-aa(lp2135
-S'Wally Lewis'
-p2136
-aS'1934'
-p2137
-aS'Fly-half'
-p2138
-aS'QLD'
-p2139
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2140
-aVQueensland
-p2141
-ag9
-aa(lp2142
-S'Ron Walden'
-p2143
-aS'1934'
-p2144
-aS'Prop'
-p2145
-aS'NSW'
-p2146
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2147
-aVNew South Wales
-p2148
-ag9
-aa(lp2149
-S'Mike Gibbons'
-p2150
-aS'1936'
-p2151
-aS'Scrum-half'
-p2152
-aS'NSW'
-p2153
-aS'3'
-aS'1'
-aS'0'
-aS'2'
-aVAustralia
-p2154
-aVNew South Wales
-p2155
-ag9
-aa(lp2156
-S'Frank Hutchinson'
-p2157
-aS'1936'
-p2158
-aS'Lock'
-p2159
-aS'NSW'
-p2160
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2161
-aVNew South Wales
-p2162
-ag9
-aa(lp2163
-S'Russell Kelly'
-p2164
-aS'1936'
-p2165
+aa(lp2114
+S'Aub Hodgson'
+p2115
+aS'1933'
+p2116
 aS'No. 8'
-p2166
+p2117
+aS'11'
+p2118
+aS'3'
+aS'8'
+aS'0'
+aS'1'
+aS'3'
 aS'NSW'
+p2119
+aVAustralia
+p2120
+aVNew South Wales
+p2121
+ag9
+aa(lp2122
+S'Vincent Bermingham'
+p2123
+aS'1934'
+p2124
+aS'Prop'
+p2125
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Toowoomba'
+p2126
+aVAustralia
+p2127
+aVQueensland
+p2128
+aVToowoomba
+p2129
+aa(lp2130
+S'Dooney Hayes'
+p2131
+aS'1934'
+p2132
+aS'Centre'
+p2133
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'0'
+aS'3'
+aS'Qld'
+p2134
+aVAustralia
+p2135
+aVQueensland
+p2136
+ag9
+aa(lp2137
+S'Ted Jessep'
+p2138
+aS'1931'
+p2139
+aS'Prop'
+p2140
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Leichhard'
+p2141
+aVAustralia
+p2142
+aV0800
+p2143
+aVNorthern Territory
+p2144
+aa(lp2145
+S'Wally Lewis'
+p2146
+aS'1934'
+p2147
+aS'Fly-half'
+p2148
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'QLD'
+p2149
+aVAustralia
+p2150
+aVQueensland
+p2151
+ag9
+aa(lp2152
+S'Ron Walden'
+p2153
+aS'1934'
+p2154
+aS'Prop'
+p2155
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p2156
+aVAustralia
+p2157
+aVNew South Wales
+p2158
+ag9
+aa(lp2159
+S'Mike Gibbons'
+p2160
+aS'1936'
+p2161
+aS'Scrum-half'
+p2162
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'NSW'
+p2163
+aVAustralia
+p2164
+aVNew South Wales
+p2165
+ag9
+aa(lp2166
+S'Frank Hutchinson'
 p2167
+aS'1936'
+p2168
+aS'Lock'
+p2169
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2170
+aVAustralia
+p2171
+aVNew South Wales
+p2172
+ag9
+aa(lp2173
+S'Russell Kelly'
+p2174
+aS'1936'
+p2175
+aS'No. 8'
+p2176
 aS'7'
 aS'1'
+aS'6'
+aS'0'
 aS'0'
 aS'2'
-aVAustralia
-p2168
-aVNew South Wales
-p2169
-ag9
-aa(lp2170
-S'Bill McLaughlin'
-p2171
-aS'1936'
-p2172
-aS'Centre'
-p2173
 aS'NSW'
-p2174
+p2177
+aVAustralia
+p2178
+aVNew South Wales
+p2179
+ag9
+aa(lp2180
+S'Bill McLaughlin'
+p2181
+aS'1936'
+p2182
+aS'Centre'
+p2183
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'2'
 aS'6'
-aVAustralia
-p2175
-aVNew South Wales
-p2176
-ag9
-aa(lp2177
-S'Stake Malone'
-p2178
-aS'1936'
-p2179
-aS'Prop'
-p2180
 aS'NSW'
-p2181
+p2184
+aVAustralia
+p2185
+aVNew South Wales
+p2186
+ag9
+aa(lp2187
+S'Stake Malone'
+p2188
+aS'1936'
+p2189
+aS'Prop'
+p2190
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
-aVAustralia
-p2182
-aVNew South Wales
-p2183
-ag9
-aa(lp2184
-S'Thomas Pauling'
-p2185
-aS'1936'
-p2186
-aS'Centre'
-p2187
+aS'0'
 aS'NSW'
-p2188
+p2191
+aVAustralia
+p2192
+aVNew South Wales
+p2193
+ag9
+aa(lp2194
+S'Thomas Pauling'
+p2195
+aS'1936'
+p2196
+aS'Centre'
+p2197
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p2189
-aVNew South Wales
-p2190
-ag9
-aa(lp2191
-S'Ron Rankin'
-p2192
-aS'1936'
-p2193
-aS'Fullback'
-p2194
 aS'NSW'
-p2195
+p2198
+aVAustralia
+p2199
+aVNew South Wales
+p2200
+ag9
+aa(lp2201
+S'Ron Rankin'
+p2202
+aS'1936'
+p2203
+aS'Fullback'
+p2204
 aS'7'
 aS'1'
+aS'6'
+aS'0'
 aS'0'
 aS'27'
-p2196
-aVAustralia
-p2197
-aVNew South Wales
-p2198
-ag9
-aa(lp2199
-S'Vic Richards'
-p2200
-aS'1936'
-p2201
-aS'Fly-half'
-p2202
+p2205
 aS'NSW'
-p2203
+p2206
+aVAustralia
+p2207
+aVNew South Wales
+p2208
+ag9
+aa(lp2209
+S'Vic Richards'
+p2210
+aS'1936'
+p2211
+aS'Fly-half'
+p2212
 aS'5'
 aS'1'
+aS'4'
+aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p2204
-aVNew South Wales
-p2205
-ag9
-aa(lp2206
-S'Keith Storey'
-p2207
-aS'1936'
-p2208
-aS'Fullback'
-p2209
 aS'NSW'
-p2210
+p2213
+aVAustralia
+p2214
+aVNew South Wales
+p2215
+ag9
+aa(lp2216
+S'Keith Storey'
+p2217
+aS'1936'
+p2218
+aS'Fullback'
+p2219
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p2220
 aVAustralia
-p2211
+p2221
 aVNew South Wales
-p2212
+p2222
 ag9
-aa(lp2213
+aa(lp2223
 S'Roo Dorr'
-p2214
+p2224
 aS'1936'
-p2215
+p2225
 aS'Wing'
-p2216
-aS'VIC'
-p2217
+p2226
 aS'2'
 aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'VIC'
+p2227
 aVAustralia
-p2218
+p2228
 aVVictoria
-p2219
+p2229
 ag9
-aa(lp2220
+aa(lp2230
 S'Mac Ramsay'
-p2221
+p2231
 aS'1936'
-p2222
+p2232
 aS'No. 8'
-p2223
-aS'NSW'
-p2224
+p2233
 aS'4'
 aS'1'
+aS'3'
+aS'0'
 aS'2'
 aS'6'
-aVAustralia
-p2225
-aVNew South Wales
-p2226
-ag9
-aa(lp2227
-S'Eric Hutchinson'
-p2228
-aS'1937'
-p2229
-aS'Lock'
-p2230
 aS'NSW'
-p2231
-aS'2'
-aS'0'
-aS'0'
-aS'0'
+p2234
 aVAustralia
-p2232
-aVNew South Wales
-p2233
-ag9
-aa(lp2234
-S'Jan McShane'
 p2235
-aS'1937'
+aVNew South Wales
 p2236
-aS'Scrum-half'
-p2237
-aS'Tamworth'
+ag9
+aa(lp2237
+S'Eric Hutchinson'
 p2238
+aS'1937'
+p2239
+aS'Lock'
+p2240
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p2239
-aVEngland
-p2240
-aVWest Midlands
+aS'NSW'
 p2241
-aa(lp2242
-S'Vayro Wilson'
+aVAustralia
+p2242
+aVNew South Wales
 p2243
-aS'1937'
-p2244
-aS'Prop'
+ag9
+aa(lp2244
+S'Jan McShane'
 p2245
-aS'Qld'
+aS'1937'
 p2246
+aS'Scrum-half'
+p2247
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Tamworth'
+p2248
+aVUnited Kingdom
+p2249
+aVEngland
+p2250
+aVWest Midlands
+p2251
+aa(lp2252
+S'Vayro Wilson'
+p2253
+aS'1937'
+p2254
+aS'Prop'
+p2255
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
+aS'Qld'
+p2256
 aVAustralia
-p2247
-aVQueensland
-p2248
-ag9
-aa(lp2249
-S'Keith Windon'
-p2250
-aS'1937'
-p2251
-aS'Flanker'
-p2252
-aS'NSW'
-p2253
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2254
-aVNew South Wales
-p2255
-ag9
-aa(lp2256
-S'Paul Collins'
 p2257
-aS'1937'
+aVQueensland
 p2258
-aS'Fly-half'
-p2259
-aS'NSW'
-p2260
-aS'3'
-aS'0'
-aS'1'
-aS'3'
-aVAustralia
-p2261
-aVNew South Wales
-p2262
 ag9
-aa(lp2263
-S'Bill Hammon'
-p2264
+aa(lp2259
+S'Keith Windon'
+p2260
 aS'1937'
+p2261
+aS'Flanker'
+p2262
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2263
+aVAustralia
+p2264
+aVNew South Wales
 p2265
-aS'Centre'
-p2266
-aS'Invercargill'
+ag9
+aa(lp2266
+S'Paul Collins'
 p2267
+aS'1937'
+p2268
+aS'Fly-half'
+p2269
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p2270
+aVAustralia
+p2271
+aVNew South Wales
+p2272
+ag9
+aa(lp2273
+S'Bill Hammon'
+p2274
+aS'1937'
+p2275
+aS'Centre'
+p2276
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Invercargill'
+p2277
 aVNew Zealand/Aotearoa
-p2268
+p2278
 aVSouthland
-p2269
+p2279
 aVInvercargill City
-p2270
-aa(lp2271
+p2280
+aa(lp2281
 S"Frank O'Brien"
-p2272
+p2282
 aS'1937'
-p2273
+p2283
 aS'Wing'
-p2274
-aS'NSW'
-p2275
+p2284
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p2276
-aVNew South Wales
-p2277
-ag9
-aa(lp2278
-S'Alby Stone'
-p2279
-aS'1937'
-p2280
-aS'Hooker'
-p2281
 aS'NSW'
-p2282
+p2285
+aVAustralia
+p2286
+aVNew South Wales
+p2287
+ag9
+aa(lp2288
+S'Alby Stone'
+p2289
+aS'1937'
+p2290
+aS'Hooker'
+p2291
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p2283
-aVNew South Wales
-p2284
-ag9
-aa(lp2285
-S'Max Carpenter'
-p2286
-aS'1938'
-p2287
-aS'Wing'
-p2288
 aS'NSW'
-p2289
+p2292
+aVAustralia
+p2293
+aVNew South Wales
+p2294
+ag9
+aa(lp2295
+S'Max Carpenter'
+p2296
+aS'1938'
+p2297
+aS'Wing'
+p2298
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'2'
 aS'20'
-p2290
+p2299
+aS'NSW'
+p2300
 aVAustralia
-p2291
+p2301
 aVNew South Wales
-p2292
+p2302
 ag9
-aa(lp2293
+aa(lp2303
 S'John Howard'
-p2294
+p2304
 aS'1938'
-p2295
+p2305
 aS'Wing'
-p2296
-aS'QLD'
-p2297
+p2306
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p2307
 aVAustralia
-p2298
+p2308
 aVQueensland
-p2299
+p2309
 ag9
-aa(lp2300
+aa(lp2310
 S'Frederick Kerr'
-p2301
+p2311
 aS'1938'
-p2302
+p2312
 aS'No. 8'
-p2303
-aS'VIC'
-p2304
+p2313
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'VIC'
+p2314
 aVAustralia
-p2305
+p2315
 aVVictoria
-p2306
+p2316
 ag9
-aa(lp2307
+aa(lp2317
 S'Boyd Oxlade'
-p2308
+p2318
 aS'1938'
-p2309
+p2319
 aS'Flanker'
-p2310
-aS'QLD'
-p2311
+p2320
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p2321
 aVAustralia
-p2312
-aVQueensland
-p2313
-ag9
-aa(lp2314
-S'Gordon Stone'
-p2315
-aS'1938'
-p2316
-aS'Scrum-half'
-p2317
-aS'NSW'
-p2318
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2319
-aVNew South Wales
-p2320
-ag9
-aa(lp2321
-S'Winston Ide'
 p2322
-aS'1938'
-p2323
-aS'Centre'
-p2324
-aS'NSW'
-p2325
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2326
-aVNew South Wales
-p2327
-ag9
-aa(lp2328
-S'Haggis Lang'
-p2329
-aS'1938'
-p2330
-aS'Prop'
-p2331
-aS'Multan'
-p2332
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
-p2333
-aV\u067e\u0646\u062c\u0627\u0628
-p2334
-aVMult\u0101n District
-p2335
-aa(lp2336
-S'Cracker McDonald'
-p2337
-aS'1938'
-p2338
-aS'Flanker'
-p2339
-aS'Qld'
-p2340
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2341
 aVQueensland
-p2342
+p2323
 ag9
-aa(lp2343
-S'Bill Monti'
-p2344
+aa(lp2324
+S'Gordon Stone'
+p2325
 aS'1938'
-p2345
-aS'Lock'
-p2346
-aS'NSW'
-p2347
+p2326
+aS'Scrum-half'
+p2327
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p2348
-aVNew South Wales
-p2349
-ag9
-aa(lp2350
-S'Cec Ramalli'
-p2351
-aS'1938'
-p2352
-aS'Scrum-half'
-p2353
 aS'NSW'
-p2354
+p2328
+aVAustralia
+p2329
+aVNew South Wales
+p2330
+ag9
+aa(lp2331
+S'Winston Ide'
+p2332
+aS'1938'
+p2333
+aS'Centre'
+p2334
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p2355
-aVNew South Wales
-p2356
-ag9
-aa(lp2357
-S'Mick Clifford'
-p2358
-aS'1938'
-p2359
-aS'Fullback'
-p2360
 aS'NSW'
-p2361
+p2335
+aVAustralia
+p2336
+aVNew South Wales
+p2337
+ag9
+aa(lp2338
+S'Haggis Lang'
+p2339
+aS'1938'
+p2340
+aS'Prop'
+p2341
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Multan'
+p2342
+aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
+p2343
+aV\u067e\u0646\u062c\u0627\u0628
+p2344
+aVMult\u0101n District
+p2345
+aa(lp2346
+S'Cracker McDonald'
+p2347
+aS'1938'
+p2348
+aS'Flanker'
+p2349
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p2350
+aVAustralia
+p2351
+aVQueensland
+p2352
+ag9
+aa(lp2353
+S'Bill Monti'
+p2354
+aS'1938'
+p2355
+aS'Lock'
+p2356
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p2362
-aVNew South Wales
-p2363
-ag9
-aa(lp2364
-S'Trevor Allan'
-p2365
-aS'1946'
-p2366
-aS'Centre'
-p2367
 aS'NSW'
+p2357
+aVAustralia
+p2358
+aVNew South Wales
+p2359
+ag9
+aa(lp2360
+S'Cec Ramalli'
+p2361
+aS'1938'
+p2362
+aS'Scrum-half'
+p2363
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2364
+aVAustralia
+p2365
+aVNew South Wales
+p2366
+ag9
+aa(lp2367
+S'Mick Clifford'
 p2368
-aS'14'
+aS'1938'
 p2369
+aS'Fullback'
+p2370
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2371
+aVAustralia
+p2372
+aVNew South Wales
+p2373
+ag9
+aa(lp2374
+S'Trevor Allan'
+p2375
+aS'1946'
+p2376
+aS'Centre'
+p2377
+aS'14'
+p2378
 aS'6'
+aS'7'
+aS'1'
 aS'2'
 aS'24'
-p2370
-aVAustralia
-p2371
-aVNew South Wales
-p2372
-ag9
-aa(lp2373
-S'Arthur Buchan'
-p2374
-aS'1946'
-p2375
-aS'No. 8'
-p2376
+p2379
 aS'NSW'
-p2377
+p2380
+aVAustralia
+p2381
+aVNew South Wales
+p2382
+ag9
+aa(lp2383
+S'Arthur Buchan'
+p2384
+aS'1946'
+p2385
+aS'No. 8'
+p2386
 aS'10'
-p2378
+p2387
+aS'4'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2388
+aVAustralia
+p2389
+aVNew South Wales
+p2390
+ag9
+aa(lp2391
+S'Mick Cremin'
+p2392
+aS'1946'
+p2393
+aS'Fly-half'
+p2394
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2395
+aVAustralia
+p2396
+aVNew South Wales
+p2397
+ag9
+aa(lp2398
+S'Wal Dawson'
+p2399
+aS'1946'
+p2400
+aS'Hooker'
+p2401
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2402
+aVAustralia
+p2403
+aVNew South Wales
+p2404
+ag9
+aa(lp2405
+S'Charlie Eastes'
+p2406
+aS'1946'
+p2407
+aS'Wing'
+p2408
+aS'6'
+aS'0'
+aS'5'
+aS'1'
+aS'2'
+aS'6'
+aS'NSW'
+p2409
+aVAustralia
+p2410
+aVNew South Wales
+p2411
+ag9
+aa(lp2412
+S'Phil Hardcastle'
+p2413
+aS'1946'
+p2414
+aS'Lock'
+p2415
+aS'5'
+aS'1'
 aS'4'
 aS'0'
 aS'0'
-aVAustralia
-p2379
-aVNew South Wales
-p2380
-ag9
-aa(lp2381
-S'Mick Cremin'
-p2382
-aS'1946'
-p2383
-aS'Fly-half'
-p2384
-aS'NSW'
-p2385
-aS'3'
 aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2386
-aVNew South Wales
-p2387
-ag9
-aa(lp2388
-S'Wal Dawson'
-p2389
-aS'1946'
-p2390
-aS'Hooker'
-p2391
-aS'NSW'
-p2392
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2393
-aVNew South Wales
-p2394
-ag9
-aa(lp2395
-S'Charlie Eastes'
-p2396
-aS'1946'
-p2397
-aS'Wing'
-p2398
-aS'NSW'
-p2399
-aS'6'
-aS'0'
-aS'2'
-aS'6'
-aVAustralia
-p2400
-aVNew South Wales
-p2401
-ag9
-aa(lp2402
-S'Phil Hardcastle'
-p2403
-aS'1946'
-p2404
-aS'Lock'
-p2405
 aS'Buenos Aires'
-p2406
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aVArgentina
-p2407
-aVCABA
-p2408
-aVComuna 6
-p2409
-aa(lp2410
-S'Paul Johnson'
-p2411
-aS'1946'
-p2412
-aS'Centre'
-p2413
-aS'QLD'
-p2414
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2415
-aVQueensland
 p2416
-ag9
-aa(lp2417
-S'Alan Livermore'
+aVArgentina
+p2417
+aVCABA
 p2418
-aS'1946'
+aVComuna 6
 p2419
-aS'Flanker'
-p2420
-aS'QLD'
+aa(lp2420
+S'Paul Johnson'
 p2421
-aS'2'
-aS'0'
-aS'0'
-aS'2'
-aVAustralia
-p2422
-aVQueensland
-p2423
-ag9
-aa(lp2424
-S'John MacBride'
-p2425
 aS'1946'
+p2422
+aS'Centre'
+p2423
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p2424
+aVAustralia
+p2425
+aVQueensland
 p2426
-aS'Wing'
-p2427
-aS'NSW'
+ag9
+aa(lp2427
+S'Alan Livermore'
 p2428
-aS'10'
+aS'1946'
 p2429
+aS'Flanker'
+p2430
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'QLD'
+p2431
+aVAustralia
+p2432
+aVQueensland
+p2433
+ag9
+aa(lp2434
+S'John MacBride'
+p2435
+aS'1946'
+p2436
+aS'Wing'
+p2437
+aS'10'
+p2438
 aS'3'
+aS'7'
+aS'0'
 aS'1'
 aS'3'
+aS'NSW'
+p2439
 aVAustralia
-p2430
+p2440
 aVNew South Wales
-p2431
+p2441
 ag9
-aa(lp2432
+aa(lp2442
 S'Bill McLean'
-p2433
+p2443
 aS'1946'
-p2434
+p2444
 aS'Flanker'
-p2435
-aS'Qld'
-p2436
+p2445
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p2437
-aVQueensland
-p2438
-ag9
-aa(lp2439
-S'Bob McMaster'
-p2440
-aS'1946'
-p2441
-aS'Prop'
-p2442
 aS'Qld'
-p2443
+p2446
+aVAustralia
+p2447
+aVQueensland
+p2448
+ag9
+aa(lp2449
+S'Bob McMaster'
+p2450
+aS'1946'
+p2451
+aS'Prop'
+p2452
+aS'7'
+aS'1'
+aS'6'
+aS'0'
+aS'0'
+aS'2'
+aS'Qld'
+p2453
+aVAustralia
+p2454
+aVQueensland
+p2455
+ag9
+aa(lp2456
+S'Brian Piper'
+p2457
+aS'1946'
+p2458
+aS'Fullback'
+p2459
+aS'12'
+p2460
+aS'4'
 aS'7'
 aS'1'
 aS'0'
-aS'2'
-aVAustralia
-p2444
-aVQueensland
-p2445
-ag9
-aa(lp2446
-S'Brian Piper'
-p2447
-aS'1946'
-p2448
-aS'Fullback'
-p2449
-aS'NSW'
-p2450
-aS'12'
-p2451
-aS'4'
-aS'0'
 aS'18'
-p2452
+p2461
+aS'NSW'
+p2462
 aVAustralia
-p2453
+p2463
 aVNew South Wales
-p2454
+p2464
 ag9
-aa(lp2455
+aa(lp2465
 S'Bernard Schulte'
-p2456
+p2466
 aS'1946'
-p2457
+p2467
 aS'Scrum-half'
-p2458
-aS'Qld'
-p2459
+p2468
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p2460
-aVQueensland
-p2461
-ag9
-aa(lp2462
-S'Eric Tweedale'
-p2463
-aS'1946'
-p2464
-aS'Prop'
-p2465
-aS'Rochdale'
-p2466
-aS'10'
-p2467
-aS'4'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2468
-aVEngland
+aS'Qld'
 p2469
-aVNorth West England
-p2470
-aa(lp2471
-S'Col Windon'
-p2472
-aS'1946'
-p2473
-aS'Flanker'
-p2474
-aS'NSW'
-p2475
-aS'20'
-p2476
-aS'8'
-aS'11'
-p2477
-aS'33'
-p2478
 aVAustralia
-p2479
-aVNew South Wales
-p2480
+p2470
+aVQueensland
+p2471
 ag9
+aa(lp2472
+S'Eric Tweedale'
+p2473
+aS'1946'
+p2474
+aS'Prop'
+p2475
+aS'10'
+p2476
+aS'4'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'Rochdale'
+p2477
+aVUnited Kingdom
+p2478
+aVEngland
+p2479
+aVNorth West England
+p2480
 aa(lp2481
-S'Ernie Freeman'
+S'Col Windon'
 p2482
 aS'1946'
 p2483
-aS'Prop'
+aS'Flanker'
 p2484
-aS'NSW'
+aS'20'
 p2485
+aS'8'
+aS'11'
+p2486
+aS'1'
+aS'11'
+p2487
+aS'33'
+p2488
+aS'NSW'
+p2489
+aVAustralia
+p2490
+aVNew South Wales
+p2491
+ag9
+aa(lp2492
+S'Ernie Freeman'
+p2493
+aS'1946'
+p2494
+aS'Prop'
+p2495
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p2486
-aVNew South Wales
-p2487
-ag9
-aa(lp2488
-S'Max Howell'
-p2489
-aS'1946'
-p2490
-aS'Centre'
-p2491
 aS'NSW'
-p2492
+p2496
+aVAustralia
+p2497
+aVNew South Wales
+p2498
+ag9
+aa(lp2499
+S'Max Howell'
+p2500
+aS'1946'
+p2501
+aS'Centre'
+p2502
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p2493
-aVNew South Wales
-p2494
-ag9
-aa(lp2495
-S'Des Bannon'
-p2496
-aS'1946'
-p2497
-aS'Fly-half'
-p2498
 aS'NSW'
-p2499
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2500
-aVNew South Wales
-p2501
-ag9
-aa(lp2502
-S'Don Furness'
 p2503
-aS'1946'
-p2504
-aS'Hooker'
-p2505
-aS'NSW'
-p2506
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
-p2507
+p2504
 aVNew South Wales
-p2508
+p2505
 ag9
-aa(lp2509
-S'Bruce Hamilton'
-p2510
+aa(lp2506
+S'Des Bannon'
+p2507
 aS'1946'
-p2511
-aS'Lock'
-p2512
-aS'?'
+p2508
+aS'Fly-half'
+p2509
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
+aS'NSW'
+p2510
+aVAustralia
+p2511
+aVNew South Wales
+p2512
+ag9
 aa(lp2513
-S'James Stone'
+S'Don Furness'
 p2514
 aS'1946'
 p2515
-aS'Wing'
+aS'Hooker'
 p2516
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p2517
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p2518
 aVNew South Wales
 p2519
 ag9
 aa(lp2520
-S'Cyril Burke'
+S'Bruce Hamilton'
 p2521
 aS'1946'
 p2522
-aS'Scrum-half'
+aS'Lock'
 p2523
-aS'NSW'
-p2524
-aS'26'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aa(lp2524
+S'James Stone'
 p2525
-aS'9'
-aS'2'
-aS'6'
-aVAustralia
+aS'1946'
 p2526
-aVNew South Wales
-p2527
-ag9
-aa(lp2528
-S'Roger Cornforth'
-p2529
-aS'1947'
-p2530
-aS'Lock'
-p2531
-aS'NSW'
-p2532
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aVAustralia
-p2533
-aVNew South Wales
-p2534
-ag9
-aa(lp2535
-S'Ken Kearney'
-p2536
-aS'1947'
-p2537
-aS'Hooker'
-p2538
-aS'NSW'
-p2539
-aS'7'
-aS'3'
-aS'1'
-aS'3'
-aVAustralia
-p2540
-aVNew South Wales
-p2541
-ag9
-aa(lp2542
-S'Doug Keller'
-p2543
-aS'1947'
-p2544
-aS'Flanker'
-p2545
-aS'NSW'
-p2546
-aS'13'
-p2547
-aS'6'
-aS'0'
-aS'0'
-aVAustralia
-p2548
-aVNew South Wales
-p2549
-ag9
-aa(lp2550
-S'Alan Walker'
-p2551
-aS'1947'
-p2552
-aS'Centre'
-p2553
-aS'NSW'
-p2554
-aS'5'
-aS'1'
-aS'1'
-aS'3'
-aVAustralia
-p2555
-aVNew South Wales
-p2556
-ag9
-aa(lp2557
-S'Thomas Bourke'
-p2558
-aS'1947'
-p2559
-aS'Centre'
-p2560
-aS'Qld'
-p2561
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2562
-aVQueensland
-p2563
-ag9
-aa(lp2564
-S'Neville Emery'
-p2565
-aS'1947'
-p2566
-aS'Fly-half'
-p2567
-aS'NSW'
-p2568
-aS'10'
-p2569
-aS'6'
-aS'1'
-aS'3'
-aVAustralia
-p2570
-aVNew South Wales
-p2571
-ag9
-aa(lp2572
-S'Joe Kraefft'
-p2573
-aS'1947'
-p2574
-aS'Lock'
-p2575
-aS'N Sydney'
-p2576
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p2577
-aVNew South Wales
-p2578
-aVSydney
-p2579
-aa(lp2580
-S'Nick Shehadie'
-p2581
-aS'1947'
-p2582
-aS'Prop'
-p2583
-aS'NSW'
-p2584
-aS'30'
-p2585
-aS'8'
-aS'3'
-aS'9'
-aVAustralia
-p2586
-aVNew South Wales
-p2587
-ag9
-aa(lp2588
-S'Clem Windsor'
-p2589
-aS'1947'
-p2590
-aS'Fullback'
-p2591
-aS'QLD'
-p2592
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2593
-aVQueensland
-p2594
-ag9
-aa(lp2595
-S'Eric Davis'
-p2596
-aS'1947'
-p2597
-aS'Prop'
-p2598
-aS'Kent'
-p2599
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2600
-aVEngland
-p2601
-aVSouth East
-p2602
-aa(lp2603
-S'Arthur Tonkin'
-p2604
-aS'1947'
-p2605
 aS'Wing'
-p2606
-aS'NSW'
-p2607
-aS'6'
-aS'3'
+p2527
 aS'2'
-aS'14'
-p2608
-aVAustralia
-p2609
-aVNew South Wales
-p2610
-ag9
-aa(lp2611
-S'Jack Baxter'
-p2612
-aS'1949'
-p2613
-aS'Prop'
-p2614
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
-p2615
+p2528
+aVAustralia
+p2529
+aVNew South Wales
+p2530
+ag9
+aa(lp2531
+S'Cyril Burke'
+p2532
+aS'1946'
+p2533
+aS'Scrum-half'
+p2534
+aS'26'
+p2535
 aS'9'
-aS'4'
-aS'0'
-aS'0'
-aVAustralia
-p2616
-aVNew South Wales
-p2617
-ag9
-aa(lp2618
-S'Jack Blomley'
-p2619
-aS'1949'
-p2620
-aS'Centre'
-p2621
+aS'16'
+p2536
+aS'1'
+aS'2'
+aS'6'
 aS'NSW'
-p2622
+p2537
+aVAustralia
+p2538
+aVNew South Wales
+p2539
+ag9
+aa(lp2540
+S'Roger Cornforth'
+p2541
+aS'1947'
+p2542
+aS'Lock'
+p2543
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p2544
+aVAustralia
+p2545
+aVNew South Wales
+p2546
+ag9
+aa(lp2547
+S'Ken Kearney'
+p2548
+aS'1947'
+p2549
+aS'Hooker'
+p2550
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'1'
 aS'3'
+aS'NSW'
+p2551
 aVAustralia
-p2623
+p2552
 aVNew South Wales
-p2624
+p2553
 ag9
-aa(lp2625
-S'Eddie Broad'
-p2626
-aS'1949'
-p2627
-aS'Fly-half'
-p2628
-aS'QLD'
-p2629
+aa(lp2554
+S'Doug Keller'
+p2555
+aS'1947'
+p2556
+aS'Flanker'
+p2557
+aS'13'
+p2558
+aS'6'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2559
+aVAustralia
+p2560
+aVNew South Wales
+p2561
+ag9
+aa(lp2562
+S'Alan Walker'
+p2563
+aS'1947'
+p2564
+aS'Centre'
+p2565
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p2566
+aVAustralia
+p2567
+aVNew South Wales
+p2568
+ag9
+aa(lp2569
+S'Thomas Bourke'
+p2570
+aS'1947'
+p2571
+aS'Centre'
+p2572
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Qld'
+p2573
 aVAustralia
-p2630
+p2574
 aVQueensland
-p2631
+p2575
 ag9
-aa(lp2632
-S'Roy Cawsey'
-p2633
-aS'1949'
-p2634
-aS'Fullback'
-p2635
+aa(lp2576
+S'Neville Emery'
+p2577
+aS'1947'
+p2578
+aS'Fly-half'
+p2579
+aS'10'
+p2580
+aS'6'
+aS'3'
+aS'1'
+aS'1'
+aS'3'
 aS'NSW'
+p2581
+aVAustralia
+p2582
+aVNew South Wales
+p2583
+ag9
+aa(lp2584
+S'Joe Kraefft'
+p2585
+aS'1947'
+p2586
+aS'Lock'
+p2587
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'N Sydney'
+p2588
+aVAustralia
+p2589
+aVNew South Wales
+p2590
+aVSydney
+p2591
+aa(lp2592
+S'Nick Shehadie'
+p2593
+aS'1947'
+p2594
+aS'Prop'
+p2595
+aS'30'
+p2596
+aS'8'
+aS'21'
+p2597
+aS'1'
+aS'3'
+aS'9'
+aS'NSW'
+p2598
+aVAustralia
+p2599
+aVNew South Wales
+p2600
+ag9
+aa(lp2601
+S'Clem Windsor'
+p2602
+aS'1947'
+p2603
+aS'Fullback'
+p2604
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p2605
+aVAustralia
+p2606
+aVQueensland
+p2607
+ag9
+aa(lp2608
+S'Eric Davis'
+p2609
+aS'1947'
+p2610
+aS'Prop'
+p2611
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Kent'
+p2612
+aVUnited Kingdom
+p2613
+aVEngland
+p2614
+aVSouth East
+p2615
+aa(lp2616
+S'Arthur Tonkin'
+p2617
+aS'1947'
+p2618
+aS'Wing'
+p2619
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'2'
+aS'14'
+p2620
+aS'NSW'
+p2621
+aVAustralia
+p2622
+aVNew South Wales
+p2623
+ag9
+aa(lp2624
+S'Jack Baxter'
+p2625
+aS'1949'
+p2626
+aS'Prop'
+p2627
+aS'9'
+aS'4'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p2628
+aVAustralia
+p2629
+aVNew South Wales
+p2630
+ag9
+aa(lp2631
+S'Jack Blomley'
+p2632
+aS'1949'
+p2633
+aS'Centre'
+p2634
+aS'7'
+aS'3'
+aS'3'
+aS'1'
+aS'1'
+aS'3'
+aS'NSW'
+p2635
+aVAustralia
 p2636
+aVNew South Wales
+p2637
+ag9
+aa(lp2638
+S'Eddie Broad'
+p2639
+aS'1949'
+p2640
+aS'Fly-half'
+p2641
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p2642
+aVAustralia
+p2643
+aVQueensland
+p2644
+ag9
+aa(lp2645
+S'Roy Cawsey'
+p2646
+aS'1949'
+p2647
+aS'Fullback'
+p2648
 aS'3'
 aS'2'
+aS'1'
+aS'0'
 aS'0'
 aS'4'
+aS'NSW'
+p2649
 aVAustralia
-p2637
+p2650
 aVNew South Wales
-p2638
+p2651
 ag9
-aa(lp2639
+aa(lp2652
 S'Nev Cottrell'
-p2640
+p2653
 aS'1949'
-p2641
+p2654
 aS'Hooker'
-p2642
-aS'QLD'
-p2643
+p2655
 aS'14'
-p2644
+p2656
 aS'5'
+aS'8'
+aS'1'
 aS'0'
 aS'10'
-p2645
+p2657
+aS'QLD'
+p2658
 aVAustralia
-p2646
+p2659
 aVQueensland
-p2647
+p2660
 ag9
-aa(lp2648
+aa(lp2661
 S'Keith Cross'
-p2649
+p2662
 aS'1949'
-p2650
+p2663
 aS'Flanker'
-p2651
-aS'NSW'
-p2652
+p2664
 aS'19'
-p2653
+p2665
 aS'6'
+aS'13'
+p2666
+aS'0'
 aS'5'
 aS'15'
-p2654
-aVAustralia
-p2655
-aVNew South Wales
-p2656
-ag9
-aa(lp2657
-S'Patrick Harvey'
-p2658
-aS'1949'
-p2659
-aS'No. 8'
-p2660
-aS'QLD'
-p2661
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2662
-aVQueensland
-p2663
-ag9
-aa(lp2664
-S'Jack Marshall'
-p2665
-aS'1949'
-p2666
-aS'Wing'
 p2667
 aS'NSW'
 p2668
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p2669
 aVNew South Wales
 p2670
 ag9
 aa(lp2671
-S'Dave Brockhoff'
+S'Patrick Harvey'
 p2672
 aS'1949'
 p2673
-aS'Flanker'
+aS'No. 8'
 p2674
-aS'Sydney'
-p2675
-aS'8'
-aS'3'
 aS'2'
-aS'6'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'QLD'
+p2675
 aVAustralia
 p2676
-aVNew South Wales
+aVQueensland
 p2677
-aVSydney
-p2678
-aa(lp2679
-S'John Fogarty'
-p2680
+ag9
+aa(lp2678
+S'Jack Marshall'
+p2679
 aS'1949'
-p2681
+p2680
 aS'Wing'
+p2681
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p2682
-aS'QLD'
+aVAustralia
 p2683
+aVNew South Wales
+p2684
+ag9
+aa(lp2685
+S'Dave Brockhoff'
+p2686
+aS'1949'
+p2687
+aS'Flanker'
+p2688
+aS'8'
+aS'3'
+aS'4'
+aS'1'
 aS'2'
+aS'6'
+aS'Sydney'
+p2689
+aVAustralia
+p2690
+aVNew South Wales
+p2691
+aVSydney
+p2692
+aa(lp2693
+S'John Fogarty'
+p2694
+aS'1949'
+p2695
+aS'Wing'
+p2696
+aS'2'
+aS'1'
+aS'0'
 aS'1'
 aS'1'
 aS'3'
+aS'QLD'
+p2697
 aVAustralia
-p2684
+p2698
 aVQueensland
-p2685
+p2699
 ag9
-aa(lp2686
+aa(lp2700
 S'John Solomon'
-p2687
+p2701
 aS'1949'
-p2688
+p2702
 aS'Centre'
-p2689
-aS'Randwick'
-p2690
+p2703
 aS'14'
-p2691
+p2704
 aS'5'
+aS'9'
+aS'0'
 aS'2'
 aS'15'
-p2692
-aVUnited Kingdom
-p2693
-aVEngland
-p2694
-aVSouth West England
-p2695
-aa(lp2696
-S'Clarrie Davis'
-p2697
-aS'1949'
-p2698
-aS'Wing'
-p2699
-aS'NSW'
-p2700
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2701
-aVNew South Wales
-p2702
-ag9
-aa(lp2703
-S'Ralph Garner'
-p2704
-aS'1949'
 p2705
-aS'Wing'
+aS'Randwick'
 p2706
-aS'NSW'
+aVUnited Kingdom
 p2707
-aS'2'
-aS'2'
-aS'2'
-aS'6'
-aVAustralia
+aVEngland
 p2708
-aVNew South Wales
+aVSouth West England
 p2709
-ag9
 aa(lp2710
-S'Rex Mossop'
+S'Clarrie Davis'
 p2711
 aS'1949'
 p2712
-aS'Lock'
+aS'Wing'
 p2713
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p2714
-aS'5'
-aS'2'
-aS'0'
-aS'0'
 aVAustralia
 p2715
 aVNew South Wales
 p2716
 ag9
 aa(lp2717
-S'Bevan Wilson'
+S'Ralph Garner'
 p2718
 aS'1949'
 p2719
-aS'Prop'
+aS'Wing'
 p2720
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'6'
 aS'NSW'
 p2721
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aVAustralia
 p2722
 aVNew South Wales
 p2723
 ag9
 aa(lp2724
-S'Bill Gardner'
+S'Rex Mossop'
 p2725
-aS'1950'
+aS'1949'
 p2726
-aS'Fullback'
+aS'Lock'
 p2727
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p2728
-aS'1'
-aS'0'
-aS'0'
-aS'6'
 aVAustralia
 p2729
 aVNew South Wales
 p2730
 ag9
 aa(lp2731
-S'Keith Gordon'
+S'Bevan Wilson'
 p2732
-aS'1950'
+aS'1949'
 p2733
 aS'Prop'
 p2734
-aS'NSW'
-p2735
+aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p2735
 aVAustralia
 p2736
 aVNew South Wales
 p2737
 ag9
 aa(lp2738
-S'Nigger Hills'
+S'Bill Gardner'
 p2739
 aS'1950'
 p2740
-aS'Wing'
+aS'Fullback'
 p2741
-aS'Auckland'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'6'
+aS'NSW'
 p2742
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
+aVAustralia
 p2743
-aVAuckland
+aVNew South Wales
 p2744
 ag9
 aa(lp2745
-S'Fabe McCarthy'
+S'Keith Gordon'
 p2746
 aS'1950'
 p2747
 aS'Prop'
 p2748
-aS'Darling Downs'
-p2749
-aS'1'
+aS'2'
 aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2750
-aV4352
-p2751
-aVQueensland
-p2752
-aa(lp2753
-S'Donald MacMillan'
-p2754
-aS'1950'
-p2755
-aS'Flanker'
-p2756
-aS'Qld'
-p2757
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p2749
 aVAustralia
-p2758
-aVQueensland
-p2759
+p2750
+aVNew South Wales
+p2751
 ag9
-aa(lp2760
-S'Peter Thompson'
-p2761
+aa(lp2752
+S'Nigger Hills'
+p2753
 aS'1950'
-p2762
+p2754
 aS'Wing'
-p2763
-aS'QLD'
-p2764
+p2755
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p2756
+aVNew Zealand/Aotearoa
+p2757
+aVAuckland
+p2758
+ag9
+aa(lp2759
+S'Fabe McCarthy'
+p2760
+aS'1950'
+p2761
+aS'Prop'
+p2762
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Darling Downs'
+p2763
 aVAustralia
+p2764
+aV4352
 p2765
 aVQueensland
 p2766
-ag9
 aa(lp2767
-S'Paul Costello'
+S'Donald MacMillan'
 p2768
 aS'1950'
 p2769
-aS'Fullback'
+aS'Flanker'
 p2770
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'Qld'
 p2771
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p2772
 aVQueensland
 p2773
 ag9
 aa(lp2774
-S'Alan Cameron'
+S'Peter Thompson'
 p2775
-aS'1951'
+aS'1950'
 p2776
-aS'Lock'
+aS'Wing'
 p2777
-aS'NSW'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
 p2778
-aS'20'
+aVAustralia
 p2779
+aVQueensland
+p2780
+ag9
+aa(lp2781
+S'Paul Costello'
+p2782
+aS'1950'
+p2783
+aS'Fullback'
+p2784
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p2785
+aVAustralia
+p2786
+aVQueensland
+p2787
+ag9
+aa(lp2788
+S'Alan Cameron'
+p2789
+aS'1951'
+p2790
+aS'Lock'
+p2791
+aS'20'
+p2792
 aS'5'
+aS'15'
+p2793
+aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p2780
-aVNew South Wales
-p2781
-ag9
-aa(lp2782
-S'Keith Gudsell'
-p2783
-aS'1951'
-p2784
-aS'Centre'
-p2785
-aS'Wanganui'
-p2786
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p2787
-aVManawatu-Wanganui
-p2788
-aVWanganui District
-p2789
-aa(lp2790
-S'Conrad Primmer'
-p2791
-aS'1951'
-p2792
-aS'Lock'
-p2793
-aS'QLD'
+aS'NSW'
 p2794
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p2795
-aVQueensland
+aVNew South Wales
 p2796
 ag9
 aa(lp2797
-S'Peter Rothwell'
+S'Keith Gudsell'
 p2798
 aS'1951'
 p2799
-aS'Fullback'
+aS'Centre'
 p2800
-aS'VIC'
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Wanganui'
 p2801
+aVNew Zealand/Aotearoa
+p2802
+aVManawatu-Wanganui
+p2803
+aVWanganui District
+p2804
+aa(lp2805
+S'Conrad Primmer'
+p2806
+aS'1951'
+p2807
+aS'Lock'
+p2808
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p2809
+aVAustralia
+p2810
+aVQueensland
+p2811
+ag9
+aa(lp2812
+S'Peter Rothwell'
+p2813
+aS'1951'
+p2814
+aS'Fullback'
+p2815
 aS'4'
 aS'1'
+aS'3'
+aS'0'
 aS'0'
 aS'8'
+aS'VIC'
+p2816
 aVAustralia
-p2802
+p2817
 aVVictoria
-p2803
+p2818
 ag9
-aa(lp2804
+aa(lp2819
 S'Eddie Stapleton'
-p2805
+p2820
 aS'1951'
-p2806
+p2821
 aS'Wing'
-p2807
-aS'NSW'
-p2808
+p2822
 aS'16'
-p2809
+p2823
 aS'5'
+aS'11'
+p2824
+aS'0'
 aS'6'
 aS'25'
-p2810
-aVAustralia
-p2811
-aVNew South Wales
-p2812
-ag9
-aa(lp2813
-S'Dick Tooth'
-p2814
-aS'1951'
-p2815
-aS'Fly-half'
-p2816
-aS'NSW'
-p2817
-aS'10'
-p2818
-aS'2'
-aS'1'
-aS'21'
-p2819
-aVAustralia
-p2820
-aVNew South Wales
-p2821
-ag9
-aa(lp2822
-S'Arch Winning'
-p2823
-aS'1951'
-p2824
-aS'Flanker'
 p2825
-aS'Qld'
+aS'NSW'
 p2826
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p2827
-aVQueensland
+aVNew South Wales
 p2828
 ag9
 aa(lp2829
-S'Tiny Betts'
+S'Dick Tooth'
 p2830
 aS'1951'
 p2831
-aS'Prop'
+aS'Fly-half'
 p2832
-aS'QLD'
+aS'10'
 p2833
-aS'3'
+aS'2'
+aS'8'
+aS'0'
+aS'1'
+aS'21'
+p2834
+aS'NSW'
+p2835
+aVAustralia
+p2836
+aVNew South Wales
+p2837
+ag9
+aa(lp2838
+S'Arch Winning'
+p2839
+aS'1951'
+p2840
+aS'Flanker'
+p2841
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Qld'
+p2842
 aVAustralia
-p2834
+p2843
 aVQueensland
-p2835
+p2844
 ag9
-aa(lp2836
-S'Murray Tate'
-p2837
+aa(lp2845
+S'Tiny Betts'
+p2846
 aS'1951'
-p2838
+p2847
+aS'Prop'
+p2848
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p2849
+aVAustralia
+p2850
+aVQueensland
+p2851
+ag9
+aa(lp2852
+S'Murray Tate'
+p2853
+aS'1951'
+p2854
 aS'Fly-half'
-p2839
-aS'NSW'
-p2840
+p2855
 aS'8'
 aS'3'
+aS'5'
+aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p2841
-aVNew South Wales
-p2842
-ag9
-aa(lp2843
-S'Herb Barker'
-p2844
-aS'1952'
-p2845
-aS'Centre'
-p2846
 aS'NSW'
-p2847
+p2856
+aVAustralia
+p2857
+aVNew South Wales
+p2858
+ag9
+aa(lp2859
+S'Herb Barker'
+p2860
+aS'1952'
+p2861
+aS'Centre'
+p2862
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'1'
 aS'27'
-p2848
-aVAustralia
-p2849
-aVNew South Wales
-p2850
-ag9
-aa(lp2851
-S'Brian Cox'
-p2852
-aS'1952'
-p2853
-aS'Scrum-half'
-p2854
-aS'NSW'
-p2855
-aS'9'
-aS'2'
-aS'1'
-aS'3'
-aVAustralia
-p2856
-aVNew South Wales
-p2857
-ag9
-aa(lp2858
-S'Bob Davidson'
-p2859
-aS'1952'
-p2860
-aS'Prop'
-p2861
-aS'NSW'
-p2862
-aS'13'
 p2863
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
+aS'NSW'
 p2864
-aVNew South Wales
+aVAustralia
 p2865
+aVNew South Wales
+p2866
 ag9
-aa(lp2866
-S'Lou Hatherall'
-p2867
-aS'1952'
+aa(lp2867
+S'Brian Cox'
 p2868
-aS'Prop'
+aS'1952'
 p2869
-aS'Qld'
+aS'Scrum-half'
 p2870
+aS'9'
 aS'2'
+aS'7'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p2871
+aVAustralia
+p2872
+aVNew South Wales
+p2873
+ag9
+aa(lp2874
+S'Bob Davidson'
+p2875
+aS'1952'
+p2876
+aS'Prop'
+p2877
+aS'13'
+p2878
+aS'3'
+aS'10'
+p2879
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2880
+aVAustralia
+p2881
+aVNew South Wales
+p2882
+ag9
+aa(lp2883
+S'Lou Hatherall'
+p2884
+aS'1952'
+p2885
+aS'Prop'
+p2886
+aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Qld'
+p2887
 aVAustralia
-p2871
+p2888
 aVQueensland
-p2872
+p2889
 ag9
-aa(lp2873
+aa(lp2890
 S'Brian Johnson'
-p2874
+p2891
 aS'1952'
-p2875
+p2892
 aS'No. 8'
-p2876
-aS'NSW'
-p2877
+p2893
 aS'9'
 aS'3'
+aS'6'
+aS'0'
 aS'2'
 aS'6'
-aVAustralia
-p2878
-aVNew South Wales
-p2879
-ag9
-aa(lp2880
-S'Garth Jones'
-p2881
-aS'1952'
-p2882
-aS'Wing'
-p2883
-aS'Qld'
-p2884
-aS'12'
-p2885
-aS'4'
-aS'4'
-aS'12'
-p2886
-aVAustralia
-p2887
-aVQueensland
-p2888
-ag9
-aa(lp2889
-S'Tony Miller'
-p2890
-aS'1952'
-p2891
-aS'Prop'
-p2892
 aS'NSW'
-p2893
-aS'41'
 p2894
-aS'9'
-aS'2'
-aS'6'
 aVAustralia
 p2895
 aVNew South Wales
 p2896
 ag9
 aa(lp2897
-S'Ray Colbert'
+S'Garth Jones'
 p2898
 aS'1952'
 p2899
-aS'Fullback'
+aS'Wing'
 p2900
-aS'QLD'
+aS'12'
 p2901
+aS'4'
+aS'8'
+aS'0'
+aS'4'
+aS'12'
+p2902
+aS'Qld'
+p2903
+aVAustralia
+p2904
+aVQueensland
+p2905
+ag9
+aa(lp2906
+S'Tony Miller'
+p2907
+aS'1952'
+p2908
+aS'Prop'
+p2909
+aS'41'
+p2910
+aS'9'
+aS'30'
+p2911
+aS'2'
+aS'2'
+aS'6'
+aS'NSW'
+p2912
+aVAustralia
+p2913
+aVNew South Wales
+p2914
+ag9
+aa(lp2915
+S'Ray Colbert'
+p2916
+aS'1952'
+p2917
+aS'Fullback'
+p2918
 aS'6'
 aS'2'
+aS'4'
+aS'0'
 aS'0'
 aS'6'
+aS'QLD'
+p2919
 aVAustralia
-p2902
+p2920
 aVQueensland
-p2903
+p2921
 ag9
-aa(lp2904
+aa(lp2922
 S"John O'Neill"
-p2905
+p2923
 aS'1952'
-p2906
+p2924
 aS'Fullback'
-p2907
-aS'Qld'
-p2908
+p2925
 aS'4'
 aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2909
-aVQueensland
-p2910
-ag9
-aa(lp2911
-S'John Bosler'
-p2912
-aS'1953'
-p2913
-aS'Scrum-half'
-p2914
-aS'NSW'
-p2915
-aS'1'
+aS'3'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p2916
-aVNew South Wales
-p2917
-ag9
-aa(lp2918
-S'Jack Carroll'
-p2919
-aS'1953'
-p2920
-aS'No. 8'
-p2921
-aS'NSW'
-p2922
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2923
-aVNew South Wales
-p2924
-ag9
-aa(lp2925
-S'Mac Hughes'
+aS'Qld'
 p2926
-aS'1953'
-p2927
-aS'No. 8'
-p2928
-aS'Albury'
-p2929
-aS'14'
-p2930
-aS'2'
-aS'1'
-aS'3'
 aVAustralia
-p2931
-aV2640
-p2932
-aVNew South Wales
-p2933
-aa(lp2934
-S'James Phipps'
-p2935
+p2927
+aVQueensland
+p2928
+ag9
+aa(lp2929
+S'John Bosler'
+p2930
 aS'1953'
-p2936
-aS'Centre'
-p2937
-aS'Java'
-p2938
-aS'11'
-p2939
-aS'3'
+p2931
+aS'Scrum-half'
+p2932
 aS'1'
-aS'3'
-aVIndonesia
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2933
+aVAustralia
+p2934
+aVNew South Wales
+p2935
+ag9
+aa(lp2936
+S'Jack Carroll'
+p2937
+aS'1953'
+p2938
+aS'No. 8'
+p2939
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p2940
-aVJawa Tengah
+aVAustralia
 p2941
-aVBanjarnegara
+aVNew South Wales
 p2942
+ag9
 aa(lp2943
-S'Thomas Sweeney'
+S'Mac Hughes'
 p2944
 aS'1953'
 p2945
-aS'Fullback'
+aS'No. 8'
 p2946
-aS'QLD'
+aS'14'
 p2947
+aS'2'
+aS'12'
+p2948
+aS'0'
+aS'1'
+aS'3'
+aS'Albury'
+p2949
+aVAustralia
+p2950
+aV2640
+p2951
+aVNew South Wales
+p2952
+aa(lp2953
+S'James Phipps'
+p2954
+aS'1953'
+p2955
+aS'Centre'
+p2956
+aS'11'
+p2957
+aS'3'
+aS'8'
+aS'0'
+aS'1'
+aS'3'
+aS'Java'
+p2958
+aVIndonesia
+p2959
+aVJawa Tengah
+p2960
+aVBanjarnegara
+p2961
+aa(lp2962
+S'Thomas Sweeney'
+p2963
+aS'1953'
+p2964
+aS'Fullback'
+p2965
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'3'
+aS'QLD'
+p2966
 aVAustralia
-p2948
+p2967
 aVQueensland
-p2949
+p2968
 ag9
-aa(lp2950
+aa(lp2969
 S'Jim Walsh'
-p2951
+p2970
 aS'1953'
-p2952
+p2971
 aS'Hooker'
-p2953
-aS'NSW'
-p2954
+p2972
 aS'4'
 aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2955
-aVNew South Wales
-p2956
-ag9
-aa(lp2957
-S'Spencer Brown'
-p2958
-aS'1953'
-p2959
-aS'Fly-half'
-p2960
-aS'Qld'
-p2961
 aS'3'
-aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p2962
-aVQueensland
-p2963
-ag9
-aa(lp2964
-S'Colin Forbes'
-p2965
-aS'1953'
-p2966
-aS'Prop'
-p2967
-aS'QLD'
-p2968
-aS'6'
-aS'1'
 aS'0'
-aS'0'
-aVAustralia
-p2969
-aVQueensland
-p2970
-ag9
-aa(lp2971
-S'Vince Heinrich'
-p2972
-aS'1954'
+aS'NSW'
 p2973
-aS'Flanker'
+aVAustralia
 p2974
-aS'NSW'
+aVNew South Wales
 p2975
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2976
-aVNew South Wales
+ag9
+aa(lp2976
+S'Spencer Brown'
 p2977
-ag9
-aa(lp2978
-S'Paul Mooney'
-p2979
-aS'1954'
-p2980
-aS'Hooker'
-p2981
-aS'QLD'
-p2982
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p2983
-aVQueensland
-p2984
-ag9
-aa(lp2985
-S'John Pashley'
-p2986
-aS'1954'
-p2987
-aS'Flanker'
-p2988
-aS'NSW'
-p2989
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p2990
-aVNew South Wales
-p2991
-ag9
-aa(lp2992
-S'Gavan Horsley'
-p2993
-aS'1954'
-p2994
-aS'Wing'
-p2995
-aS'Qld'
-p2996
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p2997
-aVQueensland
-p2998
-ag9
-aa(lp2999
-S'Neil Adams'
-p3000
-aS'1955'
-p3001
-aS'Prop'
-p3002
-aS'NSW'
-p3003
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3004
-aVNew South Wales
-p3005
-ag9
-aa(lp3006
-S'James Cross'
-p3007
-aS'1955'
-p3008
-aS'Hooker'
-p3009
-aS'NSW'
-p3010
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3011
-aVNew South Wales
-p3012
-ag9
-aa(lp3013
-S'John Thornett'
-p3014
-aS'1955'
-p3015
-aS'Flanker'
-p3016
-aS'NSW'
-p3017
-aS'37'
-p3018
-aS'9'
-aS'1'
-aS'3'
-aVAustralia
-p3019
-aVNew South Wales
-p3020
-ag9
-aa(lp3021
-S'Gordon Davis'
-p3022
-aS'1955'
-p3023
+aS'1953'
+p2978
 aS'Fly-half'
-p3024
+p2979
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p2980
+aVAustralia
+p2981
+aVQueensland
+p2982
+ag9
+aa(lp2983
+S'Colin Forbes'
+p2984
+aS'1953'
+p2985
+aS'Prop'
+p2986
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p2987
+aVAustralia
+p2988
+aVQueensland
+p2989
+ag9
+aa(lp2990
+S'Vince Heinrich'
+p2991
+aS'1954'
+p2992
+aS'Flanker'
+p2993
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
-p3025
+p2994
+aVAustralia
+p2995
+aVNew South Wales
+p2996
+ag9
+aa(lp2997
+S'Paul Mooney'
+p2998
+aS'1954'
+p2999
+aS'Hooker'
+p3000
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p3001
+aVAustralia
+p3002
+aVQueensland
+p3003
+ag9
+aa(lp3004
+S'John Pashley'
+p3005
+aS'1954'
+p3006
+aS'Flanker'
+p3007
+aS'5'
+aS'2'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p3026
-aVNew South Wales
-p3027
-ag9
-aa(lp3028
-S'Rod Phelps'
-p3029
-aS'1955'
-p3030
-aS'Wing'
-p3031
 aS'NSW'
-p3032
-aS'23'
+p3008
+aVAustralia
+p3009
+aVNew South Wales
+p3010
+ag9
+aa(lp3011
+S'Gavan Horsley'
+p3012
+aS'1954'
+p3013
+aS'Wing'
+p3014
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p3015
+aVAustralia
+p3016
+aVQueensland
+p3017
+ag9
+aa(lp3018
+S'Neil Adams'
+p3019
+aS'1955'
+p3020
+aS'Prop'
+p3021
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3022
+aVAustralia
+p3023
+aVNew South Wales
+p3024
+ag9
+aa(lp3025
+S'James Cross'
+p3026
+aS'1955'
+p3027
+aS'Hooker'
+p3028
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3029
+aVAustralia
+p3030
+aVNew South Wales
+p3031
+ag9
+aa(lp3032
+S'John Thornett'
 p3033
+aS'1955'
+p3034
+aS'Flanker'
+p3035
+aS'37'
+p3036
+aS'9'
+aS'25'
+p3037
+aS'3'
+aS'1'
+aS'3'
+aS'NSW'
+p3038
+aVAustralia
+p3039
+aVNew South Wales
+p3040
+ag9
+aa(lp3041
+S'Gordon Davis'
+p3042
+aS'1955'
+p3043
+aS'Fly-half'
+p3044
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3045
+aVAustralia
+p3046
+aVNew South Wales
+p3047
+ag9
+aa(lp3048
+S'Rod Phelps'
+p3049
+aS'1955'
+p3050
+aS'Wing'
+p3051
+aS'23'
+p3052
 aS'5'
+aS'17'
+p3053
+aS'1'
 aS'2'
 aS'6'
-aVAustralia
-p3034
-aVNew South Wales
-p3035
-ag9
-aa(lp3036
-S'Don Strachan'
-p3037
-aS'1955'
-p3038
-aS'Prop'
-p3039
 aS'NSW'
-p3040
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3041
-aVNew South Wales
-p3042
-ag9
-aa(lp3043
-S'Jim Brown'
-p3044
-aS'1956'
-p3045
-aS'Hooker'
-p3046
-aS'NSW'
-p3047
-aS'9'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3048
-aVNew South Wales
-p3049
-ag9
-aa(lp3050
-S'Ainslie Sheil'
-p3051
-aS'1956'
-p3052
-aS'Fly-half'
-p3053
-aS'VIC'
 p3054
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p3055
-aVVictoria
+aVNew South Wales
 p3056
 ag9
 aa(lp3057
-S'Saxon White'
+S'Don Strachan'
 p3058
-aS'1956'
+aS'1955'
 p3059
-aS'Centre'
+aS'Prop'
 p3060
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p3061
-aS'7'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p3062
 aVNew South Wales
 p3063
 ag9
 aa(lp3064
-S'Barry Roberts'
+S'Jim Brown'
 p3065
 aS'1956'
 p3066
-aS'Wing'
+aS'Hooker'
 p3067
+aS'9'
+aS'0'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p3068
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p3069
 aVNew South Wales
 p3070
 ag9
 aa(lp3071
-S'Terry Curley'
+S'Ainslie Sheil'
 p3072
-aS'1957'
+aS'1956'
 p3073
-aS'Fullback'
+aS'Fly-half'
 p3074
-aS'NSW'
-p3075
-aS'11'
-p3076
-aS'2'
+aS'1'
 aS'0'
-aS'11'
-p3077
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'VIC'
+p3075
 aVAustralia
-p3078
-aVNew South Wales
-p3079
+p3076
+aVVictoria
+p3077
 ag9
-aa(lp3080
-S'Ken Donald'
+aa(lp3078
+S'Saxon White'
+p3079
+aS'1956'
+p3080
+aS'Centre'
 p3081
-aS'1957'
+aS'7'
+aS'0'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
 p3082
-aS'Wing'
+aVAustralia
 p3083
-aS'QLD'
+aVNew South Wales
 p3084
+ag9
+aa(lp3085
+S'Barry Roberts'
+p3086
+aS'1956'
+p3087
+aS'Wing'
+p3088
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3089
+aVAustralia
+p3090
+aVNew South Wales
+p3091
+ag9
+aa(lp3092
+S'Terry Curley'
+p3093
+aS'1957'
+p3094
+aS'Fullback'
+p3095
+aS'11'
+p3096
+aS'2'
 aS'9'
 aS'0'
+aS'0'
+aS'11'
+p3097
+aS'NSW'
+p3098
+aVAustralia
+p3099
+aVNew South Wales
+p3100
+ag9
+aa(lp3101
+S'Ken Donald'
+p3102
+aS'1957'
+p3103
+aS'Wing'
+p3104
+aS'9'
+aS'0'
+aS'8'
+aS'1'
 aS'1'
 aS'21'
-p3085
+p3105
+aS'QLD'
+p3106
 aVAustralia
-p3086
+p3107
 aVQueensland
-p3087
+p3108
 ag9
-aa(lp3088
+aa(lp3109
 S'Max Elliott'
-p3089
+p3110
 aS'1957'
-p3090
+p3111
 aS'Prop'
-p3091
-aS'NSW'
-p3092
+p3112
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p3093
-aVNew South Wales
-p3094
-ag9
-aa(lp3095
-S'Peter Fenwicke'
-p3096
-aS'1957'
-p3097
-aS'Flanker'
-p3098
 aS'NSW'
-p3099
+p3113
+aVAustralia
+p3114
+aVNew South Wales
+p3115
+ag9
+aa(lp3116
+S'Peter Fenwicke'
+p3117
+aS'1957'
+p3118
+aS'Flanker'
+p3119
+aS'6'
+aS'0'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p3120
 aVAustralia
-p3100
+p3121
 aVNew South Wales
-p3101
+p3122
 ag9
-aa(lp3102
+aa(lp3123
 S'Alan Morton'
-p3103
+p3124
 aS'1957'
-p3104
+p3125
 aS'Wing'
-p3105
-aS'Queanbeyan'
-p3106
+p3126
 aS'11'
-p3107
+p3127
 aS'2'
+aS'8'
+aS'1'
 aS'3'
 aS'9'
+aS'Queanbeyan'
+p3128
 aVAustralia
-p3108
+p3129
 aVNew South Wales
-p3109
+p3130
 aVQueanbeyan
-p3110
-aa(lp3111
+p3131
+aa(lp3132
 S'Jack Potts'
-p3112
+p3133
 aS'1957'
-p3113
+p3134
 aS'Centre'
-p3114
-aS'NSW'
-p3115
+p3135
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p3116
-aVNew South Wales
-p3117
-ag9
-aa(lp3118
-S'Chilla Wilson'
-p3119
-aS'1957'
-p3120
-aS'Flanker'
-p3121
-aS'QLD'
-p3122
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3123
-aVQueensland
-p3124
-ag9
-aa(lp3125
-S'David Emanuel'
-p3126
-aS'1957'
-p3127
-aS'Lock'
-p3128
-aS'NSW'
-p3129
-aS'9'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3130
-aVNew South Wales
-p3131
-ag9
-aa(lp3132
-S'Brian Ford'
-p3133
-aS'1957'
-p3134
-aS'Wing'
-p3135
 aS'NSW'
 p3136
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p3137
 aVNew South Wales
 p3138
 ag9
 aa(lp3139
-S'Bill Gunther'
+S'Chilla Wilson'
 p3140
 aS'1957'
 p3141
-aS'No. 8'
+aS'Flanker'
 p3142
-aS'NSW'
-p3143
+aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p3143
 aVAustralia
 p3144
-aVNew South Wales
+aVQueensland
 p3145
 ag9
 aa(lp3146
-S'Neill Latimer'
+S'David Emanuel'
 p3147
 aS'1957'
 p3148
 aS'Lock'
 p3149
-aS'VIC'
-p3150
+aS'9'
+aS'1'
+aS'7'
 aS'1'
 aS'0'
 aS'0'
-aS'0'
+aS'NSW'
+p3150
 aVAustralia
 p3151
-aVVictoria
+aVNew South Wales
 p3152
 ag9
 aa(lp3153
-S'Desmond Connor'
+S'Brian Ford'
 p3154
-aS'1958'
+aS'1957'
 p3155
-aS'Scrum-half'
+aS'Wing'
 p3156
-aS'Brisbane'
-p3157
-aS'24'
-p3158
-aS'11'
-p3159
+aS'1'
+aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p3160
-aVQueensland
-p3161
-aVBrisbane
-p3162
-aa(lp3163
-S'Jim Lenehan'
-p3164
-aS'1958'
-p3165
-aS'Fullback'
-p3166
+aS'0'
 aS'NSW'
-p3167
-aS'24'
-p3168
-aS'5'
-aS'3'
-aS'46'
-p3169
+p3157
 aVAustralia
-p3170
+p3158
 aVNew South Wales
-p3171
+p3159
 ag9
-aa(lp3172
-S'Arthur Summons'
-p3173
-aS'1958'
-p3174
-aS'Fly-half'
-p3175
-aS'Paddington'
-p3176
-aS'10'
-p3177
-aS'1'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p3178
-aVEngland
-p3179
-aVGreater London
-p3180
-aa(lp3181
-S'Kevin Ryan'
-p3182
-aS'1958'
-p3183
+aa(lp3160
+S'Bill Gunther'
+p3161
+aS'1957'
+p3162
 aS'No. 8'
-p3184
-aS'Qld'
-p3185
-aS'5'
+p3163
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3164
+aVAustralia
+p3165
+aVNew South Wales
+p3166
+ag9
+aa(lp3167
+S'Neill Latimer'
+p3168
+aS'1957'
+p3169
+aS'Lock'
+p3170
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'VIC'
+p3171
+aVAustralia
+p3172
+aVVictoria
+p3173
+ag9
+aa(lp3174
+S'Desmond Connor'
+p3175
+aS'1958'
+p3176
+aS'Scrum-half'
+p3177
+aS'24'
+p3178
+aS'11'
+p3179
+aS'11'
+p3180
 aS'2'
 aS'0'
 aS'0'
+aS'Brisbane'
+p3181
 aVAustralia
-p3186
+p3182
 aVQueensland
-p3187
-ag9
-aa(lp3188
-S'Geoffrey Vaughan'
-p3189
+p3183
+aVBrisbane
+p3184
+aa(lp3185
+S'Jim Lenehan'
+p3186
 aS'1958'
+p3187
+aS'Fullback'
+p3188
+aS'24'
+p3189
+aS'5'
+aS'17'
 p3190
-aS'Prop'
+aS'2'
+aS'3'
+aS'46'
 p3191
 aS'NSW'
 p3192
-aS'6'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p3193
 aVNew South Wales
 p3194
 ag9
 aa(lp3195
-S'Ted Purkiss'
+S'Arthur Summons'
 p3196
 aS'1958'
 p3197
-aS'Flanker'
+aS'Fly-half'
 p3198
-aS'NSW'
+aS'10'
 p3199
-aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3200
-aVNew South Wales
-p3201
-ag9
-aa(lp3202
-S'Tony Fox'
-p3203
-aS'1958'
-p3204
-aS'Wing'
-p3205
-aS'NSW'
-p3206
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3207
-aVNew South Wales
-p3208
-ag9
-aa(lp3209
-S'Ron Harvey'
-p3210
-aS'1958'
-p3211
-aS'Fly-half'
-p3212
-aS'NSW'
-p3213
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3214
-aVNew South Wales
-p3215
-ag9
-aa(lp3216
-S'Ken Yanz'
-p3217
-aS'1958'
-p3218
-aS'Flanker'
-p3219
-aS'NSW'
-p3220
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3221
-aVNew South Wales
-p3222
-ag9
-aa(lp3223
-S'Alistar Boyd'
-p3224
-aS'1958'
-p3225
-aS'Wing'
-p3226
-aS'Qld'
-p3227
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3228
-aVQueensland
-p3229
-ag9
-aa(lp3230
-S'Don Logan'
-p3231
-aS'1958'
-p3232
-aS'Scrum-half'
-p3233
-aS'NSW'
-p3234
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3235
-aVNew South Wales
-p3236
-ag9
-aa(lp3237
-S'Ronald Meadows'
-p3238
-aS'1958'
-p3239
-aS'Hooker'
-p3240
-aS'NSW'
-p3241
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p3242
-aVNew South Wales
-p3243
-ag9
-aa(lp3244
-S'Bruce Wells'
-p3245
-aS'1958'
-p3246
-aS'Fly-half'
-p3247
-aS'NSW'
-p3248
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3249
-aVNew South Wales
-p3250
-ag9
-aa(lp3251
-S'Jack Carroll'
-p3252
-aS'1958'
-p3253
-aS'Lock'
-p3254
-aS'NSW'
-p3255
-aS'7'
+aS'8'
 aS'1'
 aS'1'
 aS'3'
+aS'Paddington'
+p3200
+aVUnited Kingdom
+p3201
+aVEngland
+p3202
+aVGreater London
+p3203
+aa(lp3204
+S'Kevin Ryan'
+p3205
+aS'1958'
+p3206
+aS'No. 8'
+p3207
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p3208
 aVAustralia
+p3209
+aVQueensland
+p3210
+ag9
+aa(lp3211
+S'Geoffrey Vaughan'
+p3212
+aS'1958'
+p3213
+aS'Prop'
+p3214
+aS'6'
+aS'1'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p3215
+aVAustralia
+p3216
+aVNew South Wales
+p3217
+ag9
+aa(lp3218
+S'Ted Purkiss'
+p3219
+aS'1958'
+p3220
+aS'Flanker'
+p3221
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3222
+aVAustralia
+p3223
+aVNew South Wales
+p3224
+ag9
+aa(lp3225
+S'Tony Fox'
+p3226
+aS'1958'
+p3227
+aS'Wing'
+p3228
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3229
+aVAustralia
+p3230
+aVNew South Wales
+p3231
+ag9
+aa(lp3232
+S'Ron Harvey'
+p3233
+aS'1958'
+p3234
+aS'Fly-half'
+p3235
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3236
+aVAustralia
+p3237
+aVNew South Wales
+p3238
+ag9
+aa(lp3239
+S'Ken Yanz'
+p3240
+aS'1958'
+p3241
+aS'Flanker'
+p3242
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3243
+aVAustralia
+p3244
+aVNew South Wales
+p3245
+ag9
+aa(lp3246
+S'Alistar Boyd'
+p3247
+aS'1958'
+p3248
+aS'Wing'
+p3249
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p3250
+aVAustralia
+p3251
+aVQueensland
+p3252
+ag9
+aa(lp3253
+S'Don Logan'
+p3254
+aS'1958'
+p3255
+aS'Scrum-half'
 p3256
-aVNew South Wales
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p3257
-ag9
-aa(lp3258
-S'Peter James'
+aVAustralia
+p3258
+aVNew South Wales
 p3259
-aS'1958'
-p3260
-aS'Centre'
+ag9
+aa(lp3260
+S'Ronald Meadows'
 p3261
-aS'QLD'
+aS'1958'
 p3262
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
+aS'Hooker'
 p3263
-aVQueensland
+aS'6'
+aS'2'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
 p3264
-ag9
-aa(lp3265
-S'Kerry Larkin'
+aVAustralia
+p3265
+aVNew South Wales
 p3266
-aS'1958'
-p3267
-aS'Prop'
+ag9
+aa(lp3267
+S'Bruce Wells'
 p3268
-aS'QLD'
+aS'1958'
 p3269
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
+aS'Fly-half'
 p3270
-aVQueensland
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p3271
-ag9
-aa(lp3272
-S'Peter Dunn'
+aVAustralia
+p3272
+aVNew South Wales
 p3273
-aS'1958'
-p3274
-aS'Prop'
+ag9
+aa(lp3274
+S'Jack Carroll'
 p3275
-aS'NSW'
+aS'1958'
 p3276
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
+aS'Lock'
 p3277
-aVNew South Wales
-p3278
-ag9
-aa(lp3279
-S'Keith Ellis'
-p3280
-aS'1958'
-p3281
-aS'Prop'
-p3282
-aS'NSW'
-p3283
+aS'7'
+aS'1'
 aS'5'
+aS'1'
+aS'1'
+aS'3'
+aS'NSW'
+p3278
+aVAustralia
+p3279
+aVNew South Wales
+p3280
+ag9
+aa(lp3281
+S'Peter James'
+p3282
+aS'1958'
+p3283
+aS'Centre'
+p3284
+aS'2'
+aS'0'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p3284
-aVNew South Wales
+aS'QLD'
 p3285
-ag9
-aa(lp3286
-S'Beres Ellwood'
+aVAustralia
+p3286
+aVQueensland
 p3287
-aS'1958'
-p3288
-aS'Centre'
+ag9
+aa(lp3288
+S'Kerry Larkin'
 p3289
-aS'NSW'
+aS'1958'
 p3290
-aS'20'
+aS'Prop'
 p3291
-aS'7'
 aS'2'
-aS'29'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'QLD'
 p3292
 aVAustralia
 p3293
-aVNew South Wales
+aVQueensland
 p3294
 ag9
 aa(lp3295
-S'Don Lowth'
+S'Peter Dunn'
 p3296
 aS'1958'
 p3297
-aS'Flanker'
+aS'Prop'
 p3298
-aS'QLD'
-p3299
+aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p3299
 aVAustralia
 p3300
-aVQueensland
+aVNew South Wales
 p3301
 ag9
 aa(lp3302
-S'Jon White'
+S'Keith Ellis'
 p3303
 aS'1958'
 p3304
 aS'Prop'
 p3305
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p3306
-aS'24'
-p3307
-aS'9'
-aS'0'
-aS'0'
 aVAustralia
-p3308
+p3307
 aVNew South Wales
-p3309
+p3308
 ag9
-aa(lp3310
-S'Danny Kay'
-p3311
+aa(lp3309
+S'Beres Ellwood'
+p3310
 aS'1958'
-p3312
+p3311
 aS'Centre'
+p3312
+aS'20'
 p3313
-aS'Sydney'
+aS'7'
+aS'11'
 p3314
 aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
+aS'2'
+aS'29'
 p3315
-aVNew South Wales
+aS'NSW'
 p3316
-aVSydney
+aVAustralia
 p3317
-aa(lp3318
-S'Thomas Baxter'
-p3319
-aS'1958'
+aVNew South Wales
+p3318
+ag9
+aa(lp3319
+S'Don Lowth'
 p3320
-aS'Centre'
+aS'1958'
 p3321
-aS'QLD'
+aS'Flanker'
 p3322
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVAustralia
+aS'0'
+aS'QLD'
 p3323
-aVQueensland
+aVAustralia
 p3324
+aVQueensland
+p3325
 ag9
-aa(lp3325
-S'Len Diett'
-p3326
-aS'1959'
+aa(lp3326
+S'Jon White'
 p3327
-aS'Centre'
+aS'1958'
 p3328
-aS'NSW'
+aS'Prop'
 p3329
+aS'24'
+p3330
+aS'9'
+aS'13'
+p3331
+aS'2'
+aS'0'
+aS'0'
+aS'NSW'
+p3332
+aVAustralia
+p3333
+aVNew South Wales
+p3334
+ag9
+aa(lp3335
+S'Danny Kay'
+p3336
+aS'1958'
+p3337
+aS'Centre'
+p3338
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Sydney'
+p3339
+aVAustralia
+p3340
+aVNew South Wales
+p3341
+aVSydney
+p3342
+aa(lp3343
+S'Thomas Baxter'
+p3344
+aS'1958'
+p3345
+aS'Centre'
+p3346
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p3347
+aVAustralia
+p3348
+aVQueensland
+p3349
+ag9
+aa(lp3350
+S'Len Diett'
+p3351
+aS'1959'
+p3352
+aS'Centre'
+p3353
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p3330
-aVNew South Wales
-p3331
-ag9
-aa(lp3332
-S'Peter Johnson'
-p3333
-aS'1959'
-p3334
-aS'Hooker'
-p3335
 aS'NSW'
-p3336
+p3354
+aVAustralia
+p3355
+aVNew South Wales
+p3356
+ag9
+aa(lp3357
+S'Peter Johnson'
+p3358
+aS'1959'
+p3359
+aS'Hooker'
+p3360
 aS'42'
-p3337
+p3361
 aS'13'
-p3338
+p3362
+aS'27'
+p3363
+aS'2'
 aS'1'
 aS'3'
-aVAustralia
-p3339
-aVNew South Wales
-p3340
-ag9
-aa(lp3341
-S'Bob Outterside'
-p3342
-aS'1959'
-p3343
-aS'No. 8'
-p3344
 aS'NSW'
-p3345
+p3364
+aVAustralia
+p3365
+aVNew South Wales
+p3366
+ag9
+aa(lp3367
+S'Bob Outterside'
+p3368
+aS'1959'
+p3369
+aS'No. 8'
+p3370
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p3346
-aVNew South Wales
-p3347
-ag9
-aa(lp3348
-S'Ken Catchpole'
-p3349
-aS'1961'
-p3350
-aS'Scrum-half'
-p3351
 aS'NSW'
-p3352
+p3371
+aVAustralia
+p3372
+aVNew South Wales
+p3373
+ag9
+aa(lp3374
+S'Ken Catchpole'
+p3375
+aS'1961'
+p3376
+aS'Scrum-half'
+p3377
 aS'27'
-p3353
+p3378
 aS'9'
+aS'17'
+p3379
+aS'1'
 aS'3'
 aS'9'
-aVAustralia
-p3354
-aVNew South Wales
-p3355
-ag9
-aa(lp3356
-S'Mike Cleary'
-p3357
-aS'1961'
-p3358
-aS'Wing'
-p3359
 aS'NSW'
-p3360
+p3380
+aVAustralia
+p3381
+aVNew South Wales
+p3382
+ag9
+aa(lp3383
+S'Mike Cleary'
+p3384
+aS'1961'
+p3385
+aS'Wing'
+p3386
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'4'
 aS'12'
-p3361
+p3387
+aS'NSW'
+p3388
 aVAustralia
-p3362
+p3389
 aVNew South Wales
-p3363
+p3390
 ag9
-aa(lp3364
+aa(lp3391
 S'John Dowse'
-p3365
+p3392
 aS'1961'
-p3366
+p3393
 aS'Fly-half'
-p3367
-aS'Qld'
-p3368
+p3394
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'0'
 aS'25'
-p3369
+p3395
+aS'Qld'
+p3396
 aVAustralia
-p3370
+p3397
 aVQueensland
-p3371
+p3398
 ag9
-aa(lp3372
+aa(lp3399
 S'Ted Heinrich'
-p3373
+p3400
 aS'1961'
-p3374
+p3401
 aS'Flanker'
-p3375
-aS'NSW'
-p3376
+p3402
 aS'10'
-p3377
+p3403
 aS'3'
+aS'5'
+aS'2'
 aS'2'
 aS'6'
-aVAustralia
-p3378
-aVNew South Wales
-p3379
-ag9
-aa(lp3380
-S'Jimmy Lisle'
-p3381
-aS'1961'
-p3382
-aS'Centre'
-p3383
 aS'NSW'
-p3384
+p3404
+aVAustralia
+p3405
+aVNew South Wales
+p3406
+ag9
+aa(lp3407
+S'Jimmy Lisle'
+p3408
+aS'1961'
+p3409
+aS'Centre'
+p3410
 aS'4'
 aS'2'
+aS'1'
+aS'1'
 aS'2'
 aS'6'
-aVAustralia
-p3385
-aVNew South Wales
-p3386
-ag9
-aa(lp3387
-S'Graeme Macdougall'
-p3388
-aS'1961'
-p3389
-aS'Lock'
-p3390
 aS'NSW'
-p3391
+p3411
+aVAustralia
+p3412
+aVNew South Wales
+p3413
+ag9
+aa(lp3414
+S'Graeme Macdougall'
+p3415
+aS'1961'
+p3416
+aS'Lock'
+p3417
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3418
+aVAustralia
+p3419
+aVNew South Wales
+p3420
+ag9
+aa(lp3421
+S'Ted Magrath'
+p3422
+aS'1961'
+p3423
+aS'Wing'
+p3424
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p3425
+aVAustralia
+p3426
+aVNew South Wales
+p3427
+ag9
+aa(lp3428
+S"John O'Gorman"
+p3429
+aS'1961'
+p3430
+aS'No. 8'
+p3431
+aS'18'
+p3432
+aS'8'
+aS'10'
+p3433
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3434
+aVAustralia
+p3435
+aVNew South Wales
+p3436
+ag9
+aa(lp3437
+S'Terry Reid'
+p3438
+aS'1961'
+p3439
+aS'Flanker'
+p3440
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'1'
+aS'3'
+aS'NSW'
+p3441
+aVAustralia
+p3442
+aVNew South Wales
+p3443
+ag9
+aa(lp3444
+S'Harry Roberts'
+p3445
+aS'1961'
+p3446
+aS'Fly-half'
+p3447
+aS'4'
+aS'1'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'QLD'
+p3448
 aVAustralia
-p3392
-aVNew South Wales
-p3393
+p3449
+aVQueensland
+p3450
 ag9
-aa(lp3394
-S'Ted Magrath'
-p3395
+aa(lp3451
+S'Dick Thornett'
+p3452
 aS'1961'
-p3396
+p3453
+aS'Lock'
+p3454
+aS'11'
+p3455
+aS'2'
+aS'7'
+aS'2'
+aS'2'
+aS'6'
+aS'NSW'
+p3456
+aVAustralia
+p3457
+aVNew South Wales
+p3458
+ag9
+aa(lp3459
+S'Rob Heming'
+p3460
+aS'1961'
+p3461
+aS'Lock'
+p3462
+aS'21'
+p3463
+aS'7'
+aS'12'
+p3464
+aS'2'
+aS'0'
+aS'0'
+aS'New Ireland'
+p3465
+aVPapua Niugini
+p3466
+aVIslands Region
+p3467
+aVNew Ireland
+p3468
+aa(lp3469
+S'Robert Potter'
+p3470
+aS'1961'
+p3471
 aS'Wing'
-p3397
-aS'NSW'
-p3398
-aS'3'
+p3472
 aS'1'
 aS'1'
-aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p3473
 aVAustralia
-p3399
-aVNew South Wales
-p3400
+p3474
+aVQueensland
+p3475
 ag9
-aa(lp3401
-S"John O'Gorman"
-p3402
+aa(lp3476
+S'Art Turnbull'
+p3477
 aS'1961'
-p3403
-aS'No. 8'
-p3404
-aS'NSW'
-p3405
-aS'18'
-p3406
+p3478
+aS'Wing'
+p3479
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Edmonton'
+p3480
+aVCanada
+p3481
+aVAlberta
+p3482
+aVEdmonton
+p3483
+aa(lp3484
+S'Stewart Boyce'
+p3485
+aS'1962'
+p3486
+aS'Wing'
+p3487
+aS'13'
+p3488
+aS'5'
 aS'8'
 aS'0'
-aS'0'
-aVAustralia
-p3407
-aVNew South Wales
-p3408
-ag9
-aa(lp3409
-S'Terry Reid'
-p3410
-aS'1961'
-p3411
-aS'Flanker'
-p3412
-aS'NSW'
-p3413
-aS'5'
-aS'2'
-aS'1'
-aS'3'
-aVAustralia
-p3414
-aVNew South Wales
-p3415
-ag9
-aa(lp3416
-S'Harry Roberts'
-p3417
-aS'1961'
-p3418
-aS'Fly-half'
-p3419
-aS'QLD'
-p3420
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3421
-aVQueensland
-p3422
-ag9
-aa(lp3423
-S'Dick Thornett'
-p3424
-aS'1961'
-p3425
-aS'Lock'
-p3426
-aS'NSW'
-p3427
-aS'11'
-p3428
-aS'2'
-aS'2'
-aS'6'
-aVAustralia
-p3429
-aVNew South Wales
-p3430
-ag9
-aa(lp3431
-S'Rob Heming'
-p3432
-aS'1961'
-p3433
-aS'Lock'
-p3434
-aS'New Ireland'
-p3435
-aS'21'
-p3436
-aS'7'
-aS'0'
-aS'0'
-aVPapua Niugini
-p3437
-aVIslands Region
-p3438
-aVNew Ireland
-p3439
-aa(lp3440
-S'Robert Potter'
-p3441
-aS'1961'
-p3442
-aS'Wing'
-p3443
-aS'Qld'
-p3444
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3445
-aVQueensland
-p3446
-ag9
-aa(lp3447
-S'Art Turnbull'
-p3448
-aS'1961'
-p3449
-aS'Wing'
-p3450
-aS'Edmonton'
-p3451
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVCanada
-p3452
-aVAlberta
-p3453
-aVEdmonton
-p3454
-aa(lp3455
-S'Stewart Boyce'
-p3456
-aS'1962'
-p3457
-aS'Wing'
-p3458
-aS'NSW'
-p3459
-aS'13'
-p3460
-aS'5'
 aS'4'
 aS'12'
-p3461
-aVAustralia
-p3462
-aVNew South Wales
-p3463
-ag9
-aa(lp3464
-S'Lloyd McDermott'
-p3465
-aS'1962'
-p3466
-aS'Wing'
-p3467
-aS'Qld'
-p3468
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3469
-aVQueensland
-p3470
-ag9
-aa(lp3471
-S'Jim Miller'
-p3472
-aS'1962'
-p3473
-aS'Prop'
-p3474
-aS'NSW'
-p3475
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p3476
-aVNew South Wales
-p3477
-ag9
-aa(lp3478
-S'Paul Perrin'
-p3479
-aS'1962'
-p3480
-aS'Lock'
-p3481
-aS'NSW'
-p3482
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3483
-aVNew South Wales
-p3484
-ag9
-aa(lp3485
-S'Peter Scott'
-p3486
-aS'1962'
-p3487
-aS'Centre'
-p3488
-aS'Canberra'
 p3489
-aS'2'
-aS'0'
-aS'0'
-aS'8'
-aVAustralia
+aS'NSW'
 p3490
-aVAustralian Capital Territory
+aVAustralia
 p3491
-aVCanberra
+aVNew South Wales
 p3492
+ag9
 aa(lp3493
-S'Norm Storey'
+S'Lloyd McDermott'
 p3494
 aS'1962'
 p3495
-aS'Fly-half'
+aS'Wing'
 p3496
-aS'NSW'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
 p3497
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p3498
-aVNew South Wales
+aVQueensland
 p3499
 ag9
 aa(lp3500
-S'Jim Boyce'
+S'Jim Miller'
 p3501
 aS'1962'
 p3502
-aS'Wing'
+aS'Prop'
 p3503
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p3504
-aS'12'
+aVAustralia
 p3505
+aVNew South Wales
+p3506
+ag9
+aa(lp3507
+S'Paul Perrin'
+p3508
+aS'1962'
+p3509
+aS'Lock'
+p3510
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3511
+aVAustralia
+p3512
+aVNew South Wales
+p3513
+ag9
+aa(lp3514
+S'Peter Scott'
+p3515
+aS'1962'
+p3516
+aS'Centre'
+p3517
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'8'
+aS'Canberra'
+p3518
+aVAustralia
+p3519
+aVAustralian Capital Territory
+p3520
+aVCanberra
+p3521
+aa(lp3522
+S'Norm Storey'
+p3523
+aS'1962'
+p3524
+aS'Fly-half'
+p3525
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3526
+aVAustralia
+p3527
+aVNew South Wales
+p3528
+ag9
+aa(lp3529
+S'Jim Boyce'
+p3530
+aS'1962'
+p3531
+aS'Wing'
+p3532
+aS'12'
+p3533
 aS'6'
+aS'5'
+aS'1'
 aS'1'
 aS'3'
-aVAustralia
-p3506
-aVNew South Wales
-p3507
-ag9
-aa(lp3508
-S'Geoff Chapman'
-p3509
-aS'1962'
-p3510
-aS'Flanker'
-p3511
-aS'NSW'
-p3512
-aS'3'
-aS'0'
-aS'0'
-aS'14'
-p3513
-aVAustralia
-p3514
-aVNew South Wales
-p3515
-ag9
-aa(lp3516
-S'James Douglas'
-p3517
-aS'1962'
-p3518
-aS'Wing'
-p3519
-aS'NSW'
-p3520
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3521
-aVNew South Wales
-p3522
-ag9
-aa(lp3523
-S'John Freedman'
-p3524
-aS'1962'
-p3525
-aS'Prop'
-p3526
-aS'NSW'
-p3527
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3528
-aVNew South Wales
-p3529
-ag9
-aa(lp3530
-S'Phil Hawthorne'
-p3531
-aS'1962'
-p3532
-aS'Fly-half'
-p3533
 aS'NSW'
 p3534
-aS'21'
+aVAustralia
 p3535
+aVNew South Wales
+p3536
+ag9
+aa(lp3537
+S'Geoff Chapman'
+p3538
+aS'1962'
+p3539
+aS'Flanker'
+p3540
+aS'3'
+aS'0'
+aS'2'
+aS'1'
+aS'0'
+aS'14'
+p3541
+aS'NSW'
+p3542
+aVAustralia
+p3543
+aVNew South Wales
+p3544
+ag9
+aa(lp3545
+S'James Douglas'
+p3546
+aS'1962'
+p3547
+aS'Wing'
+p3548
+aS'3'
+aS'0'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p3549
+aVAustralia
+p3550
+aVNew South Wales
+p3551
+ag9
+aa(lp3552
+S'John Freedman'
+p3553
+aS'1962'
+p3554
+aS'Prop'
+p3555
+aS'4'
+aS'0'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p3556
+aVAustralia
+p3557
+aVNew South Wales
+p3558
+ag9
+aa(lp3559
+S'Phil Hawthorne'
+p3560
+aS'1962'
+p3561
+aS'Fly-half'
+p3562
+aS'21'
+p3563
 aS'8'
+aS'12'
+p3564
+aS'1'
 aS'0'
 aS'37'
-p3536
-aVAustralia
-p3537
-aVNew South Wales
-p3538
-ag9
-aa(lp3539
-S'Ken McMullen'
-p3540
-aS'1962'
-p3541
-aS'Scrum-half'
-p3542
-aS'NSW'
-p3543
-aS'4'
-aS'1'
-aS'1'
-aS'3'
-aVAustralia
-p3544
-aVNew South Wales
-p3545
-ag9
-aa(lp3546
-S'Keith Walsham'
-p3547
-aS'1962'
-p3548
-aS'Wing'
-p3549
-aS'NSW'
-p3550
-aS'2'
-aS'1'
-aS'1'
-aS'3'
-aVAustralia
-p3551
-aVNew South Wales
-p3552
-ag9
-aa(lp3553
-S'Peter Crittle'
-p3554
-aS'1962'
-p3555
-aS'Lock'
-p3556
-aS'NSW'
-p3557
-aS'15'
-p3558
-aS'6'
-aS'0'
-aS'0'
-aVAustralia
-p3559
-aVNew South Wales
-p3560
-ag9
-aa(lp3561
-S'Dick Marks'
-p3562
-aS'1962'
-p3563
-aS'Centre'
-p3564
-aS'Qld'
 p3565
-aS'17'
+aS'NSW'
 p3566
-aS'8'
-aS'2'
-aS'6'
 aVAustralia
 p3567
-aVQueensland
+aVNew South Wales
 p3568
 ag9
 aa(lp3569
-S'Les Austin'
+S'Ken McMullen'
 p3570
-aS'1963'
+aS'1962'
 p3571
-aS'Prop'
+aS'Scrum-half'
 p3572
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'1'
+aS'3'
 aS'NSW'
 p3573
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p3574
 aVNew South Wales
 p3575
 ag9
 aa(lp3576
-S'Greg Davis'
+S'Keith Walsham'
 p3577
-aS'1963'
+aS'1962'
 p3578
-aS'Flanker'
+aS'Wing'
 p3579
-aS'Matamata'
-p3580
-aS'39'
-p3581
-aS'10'
-p3582
 aS'2'
-aS'6'
-aVNew Zealand/Aotearoa
-p3583
-aVWaikato
-p3584
-aVMatamata Piako District
-p3585
-aa(lp3586
-S'Peter Jones'
-p3587
-aS'1963'
-p3588
-aS'Centre'
-p3589
-aS'NSW'
-p3590
-aS'2'
-aS'1'
-aS'1'
-aS'3'
-aVAustralia
-p3591
-aVNew South Wales
-p3592
-ag9
-aa(lp3593
-S'Peter Ryan'
-p3594
-aS'1963'
-p3595
-aS'Fullback'
-p3596
-aS'NSW'
-p3597
-aS'4'
 aS'1'
 aS'0'
-aS'6'
+aS'1'
+aS'1'
+aS'3'
+aS'NSW'
+p3580
 aVAustralia
+p3581
+aVNew South Wales
+p3582
+ag9
+aa(lp3583
+S'Peter Crittle'
+p3584
+aS'1962'
+p3585
+aS'Lock'
+p3586
+aS'15'
+p3587
+aS'6'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3588
+aVAustralia
+p3589
+aVNew South Wales
+p3590
+ag9
+aa(lp3591
+S'Dick Marks'
+p3592
+aS'1962'
+p3593
+aS'Centre'
+p3594
+aS'17'
+p3595
+aS'8'
+aS'9'
+aS'0'
+aS'2'
+aS'6'
+aS'Qld'
+p3596
+aVAustralia
+p3597
+aVQueensland
 p3598
-aVNew South Wales
-p3599
 ag9
-aa(lp3600
-S'John Williams'
+aa(lp3599
+S'Les Austin'
+p3600
+aS'1963'
 p3601
-aS'1963'
+aS'Prop'
 p3602
-aS'Wing'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p3603
-aS'NSW'
-p3604
-aS'3'
-aS'1'
-aS'1'
-aS'3'
 aVAustralia
-p3605
+p3604
 aVNew South Wales
-p3606
+p3605
 ag9
-aa(lp3607
-S'Terry Casey'
-p3608
+aa(lp3606
+S'Greg Davis'
+p3607
 aS'1963'
+p3608
+aS'Flanker'
 p3609
-aS'Fullback'
+aS'39'
 p3610
-aS'NSW'
+aS'10'
 p3611
+aS'28'
+p3612
+aS'1'
+aS'2'
+aS'6'
+aS'Matamata'
+p3613
+aVNew Zealand/Aotearoa
+p3614
+aVWaikato
+p3615
+aVMatamata Piako District
+p3616
+aa(lp3617
+S'Peter Jones'
+p3618
+aS'1963'
+p3619
+aS'Centre'
+p3620
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p3621
+aVAustralia
+p3622
+aVNew South Wales
+p3623
+ag9
+aa(lp3624
+S'Peter Ryan'
+p3625
+aS'1963'
+p3626
+aS'Fullback'
+p3627
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'6'
+aS'NSW'
+p3628
+aVAustralia
+p3629
+aVNew South Wales
+p3630
+ag9
+aa(lp3631
+S'John Williams'
+p3632
+aS'1963'
+p3633
+aS'Wing'
+p3634
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p3635
+aVAustralia
+p3636
+aVNew South Wales
+p3637
+ag9
+aa(lp3638
+S'Terry Casey'
+p3639
+aS'1963'
+p3640
+aS'Fullback'
+p3641
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'0'
 aS'31'
-p3612
-aVAustralia
-p3613
-aVNew South Wales
-p3614
-ag9
-aa(lp3615
-S'Jules Guerassimoff'
-p3616
-aS'1963'
-p3617
-aS'Flanker'
-p3618
-aS'Qld'
-p3619
-aS'12'
-p3620
-aS'5'
-aS'0'
-aS'0'
-aVAustralia
-p3621
-aVQueensland
-p3622
-ag9
-aa(lp3623
-S'Ian Moutray'
-p3624
-aS'1963'
-p3625
-aS'Centre'
-p3626
-aS'NSW'
-p3627
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3628
-aVNew South Wales
-p3629
-ag9
-aa(lp3630
-S'Bob Honan'
-p3631
-aS'1964'
-p3632
-aS'Centre'
-p3633
-aS'QLD'
-p3634
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3635
-aVQueensland
-p3636
-ag9
-aa(lp3637
-S"Dallas O'Neill"
-p3638
-aS'1964'
-p3639
-aS'No. 8'
-p3640
-aS'Qld'
-p3641
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
 p3642
-aVQueensland
-p3643
-ag9
-aa(lp3644
-S'David Grimmond'
-p3645
-aS'1964'
-p3646
-aS'Wing'
-p3647
 aS'NSW'
+p3643
+aVAustralia
+p3644
+aVNew South Wales
+p3645
+ag9
+aa(lp3646
+S'Jules Guerassimoff'
+p3647
+aS'1963'
 p3648
+aS'Flanker'
+p3649
+aS'12'
+p3650
+aS'5'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p3651
+aVAustralia
+p3652
+aVQueensland
+p3653
+ag9
+aa(lp3654
+S'Ian Moutray'
+p3655
+aS'1963'
+p3656
+aS'Centre'
+p3657
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p3658
 aVAustralia
-p3649
+p3659
 aVNew South Wales
-p3650
+p3660
 ag9
-aa(lp3651
-S'David Shepherd'
-p3652
+aa(lp3661
+S'Bob Honan'
+p3662
 aS'1964'
-p3653
+p3663
+aS'Centre'
+p3664
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p3665
+aVAustralia
+p3666
+aVQueensland
+p3667
+ag9
+aa(lp3668
+S"Dallas O'Neill"
+p3669
+aS'1964'
+p3670
 aS'No. 8'
-p3654
-aS'Knutsford'
-p3655
+p3671
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p3672
+aVAustralia
+p3673
+aVQueensland
+p3674
+ag9
+aa(lp3675
+S'David Grimmond'
+p3676
+aS'1964'
+p3677
+aS'Wing'
+p3678
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3679
+aVAustralia
+p3680
+aVNew South Wales
+p3681
+ag9
+aa(lp3682
+S'David Shepherd'
+p3683
+aS'1964'
+p3684
+aS'No. 8'
+p3685
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Knutsford'
+p3686
 aVUnited Kingdom
-p3656
+p3687
 aVEngland
-p3657
+p3688
 aVNorth West England
-p3658
-aa(lp3659
+p3689
+aa(lp3690
 S'Alan Cardy'
-p3660
+p3691
 aS'1966'
-p3661
+p3692
 aS'Wing'
-p3662
-aS'NSW'
-p3663
+p3693
 aS'9'
 aS'2'
+aS'7'
+aS'0'
 aS'2'
 aS'6'
+aS'NSW'
+p3694
 aVAustralia
-p3664
+p3695
 aVNew South Wales
-p3665
+p3696
 ag9
-aa(lp3666
+aa(lp3697
 S'George Ruebner'
-p3667
+p3698
 aS'1966'
-p3668
+p3699
 aS'Wing'
-p3669
-aS'Shanghai'
-p3670
+p3700
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'5'
+aS'Shanghai'
+p3701
 aV\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd
-p3671
+p3702
 aV\u4e0a\u6d77
-p3672
+p3703
 aV\u9ec4\u6d66\u533a (Huangpu)
-p3673
-aa(lp3674
+p3704
+aa(lp3705
 S'Ric Trivett'
-p3675
+p3706
 aS'1966'
-p3676
+p3707
 aS'Centre'
-p3677
-aS'QLD'
-p3678
+p3708
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p3709
 aVAustralia
-p3679
+p3710
 aVQueensland
-p3680
+p3711
 ag9
-aa(lp3681
+aa(lp3712
 S'John Brass'
-p3682
+p3713
 aS'1966'
-p3683
+p3714
 aS'Centre'
-p3684
-aS'NSW'
-p3685
+p3715
 aS'12'
-p3686
+p3716
 aS'3'
+aS'9'
+aS'0'
 aS'2'
 aS'9'
+aS'NSW'
+p3717
 aVAustralia
-p3687
+p3718
 aVNew South Wales
-p3688
+p3719
 ag9
-aa(lp3689
+aa(lp3720
 S'Michael Purcell'
-p3690
+p3721
 aS'1966'
-p3691
+p3722
 aS'Flanker'
-p3692
-aS'QLD'
-p3693
+p3723
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
-aVAustralia
-p3694
-aVQueensland
-p3695
-ag9
-aa(lp3696
-S'Ross Teitzel'
-p3697
-aS'1966'
-p3698
-aS'Lock'
-p3699
+aS'0'
 aS'QLD'
-p3700
+p3724
+aVAustralia
+p3725
+aVQueensland
+p3726
+ag9
+aa(lp3727
+S'Ross Teitzel'
+p3728
+aS'1966'
+p3729
+aS'Lock'
+p3730
 aS'7'
 aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p3701
-aVQueensland
-p3702
-ag9
-aa(lp3703
-S'Paul Gibbs'
-p3704
-aS'1966'
-p3705
-aS'Fly-half'
-p3706
-aS'Birmingham'
-p3707
-aS'1'
+aS'5'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p3708
-aVEngland
-p3709
-aVWest Midlands
-p3710
-aa(lp3711
-S'Roy Prosser'
-p3712
-aS'1967'
-p3713
-aS'Prop'
-p3714
-aS'NSW'
-p3715
-aS'25'
-p3716
-aS'4'
-aS'0'
-aS'0'
-aVAustralia
-p3717
-aVNew South Wales
-p3718
-ag9
-aa(lp3719
-S'Richard How'
-p3720
-aS'1967'
-p3721
-aS'Wing'
-p3722
-aS'NSW'
-p3723
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3724
-aVNew South Wales
-p3725
-ag9
-aa(lp3726
-S'Hugh Rose'
-p3727
-aS'1967'
-p3728
-aS'Flanker'
-p3729
-aS'NSW'
-p3730
-aS'13'
+aS'QLD'
 p3731
-aS'2'
-aS'0'
-aS'0'
 aVAustralia
 p3732
-aVNew South Wales
+aVQueensland
 p3733
 ag9
 aa(lp3734
-S'Tony Abrahams'
+S'Paul Gibbs'
 p3735
-aS'1967'
+aS'1966'
 p3736
-aS'Lock'
+aS'Fly-half'
 p3737
-aS'NSW'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Birmingham'
 p3738
+aVUnited Kingdom
+p3739
+aVEngland
+p3740
+aVWest Midlands
+p3741
+aa(lp3742
+S'Roy Prosser'
+p3743
+aS'1967'
+p3744
+aS'Prop'
+p3745
+aS'25'
+p3746
+aS'4'
+aS'20'
+p3747
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p3748
+aVAustralia
+p3749
+aVNew South Wales
+p3750
+ag9
+aa(lp3751
+S'Richard How'
+p3752
+aS'1967'
+p3753
+aS'Wing'
+p3754
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3755
+aVAustralia
+p3756
+aVNew South Wales
+p3757
+ag9
+aa(lp3758
+S'Hugh Rose'
+p3759
+aS'1967'
+p3760
+aS'Flanker'
+p3761
+aS'13'
+p3762
+aS'2'
+aS'11'
+p3763
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3764
+aVAustralia
+p3765
+aVNew South Wales
+p3766
+ag9
+aa(lp3767
+S'Tony Abrahams'
+p3768
+aS'1967'
+p3769
+aS'Lock'
+p3770
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p3739
-aVNew South Wales
-p3740
-ag9
-aa(lp3741
-S'Rod Batterham'
-p3742
-aS'1967'
-p3743
-aS'Wing'
-p3744
 aS'NSW'
-p3745
+p3771
+aVAustralia
+p3772
+aVNew South Wales
+p3773
+ag9
+aa(lp3774
+S'Rod Batterham'
+p3775
+aS'1967'
+p3776
+aS'Wing'
+p3777
 aS'2'
 aS'1'
+aS'1'
+aS'0'
 aS'4'
 aS'15'
-p3746
-aVAustralia
-p3747
-aVNew South Wales
-p3748
-ag9
-aa(lp3749
-S'Russell Manning'
-p3750
-aS'1967'
-p3751
-aS'Fullback'
-p3752
-aS'QLD'
-p3753
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3754
-aVQueensland
-p3755
-ag9
-aa(lp3756
-S'Ian Proctor'
-p3757
-aS'1967'
-p3758
-aS'Wing'
-p3759
-aS'NSW'
-p3760
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3761
-aVNew South Wales
-p3762
-ag9
-aa(lp3763
-S'Jeff Sayle'
-p3764
-aS'1967'
-p3765
-aS'Flanker'
-p3766
-aS'NSW'
-p3767
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3768
-aVNew South Wales
-p3769
-ag9
-aa(lp3770
-S'Phil Smith'
-p3771
-aS'1967'
-p3772
-aS'Centre'
-p3773
-aS'NSW'
-p3774
-aS'8'
-aS'1'
-aS'2'
-aS'6'
-aVAustralia
-p3775
-aVNew South Wales
-p3776
-ag9
-aa(lp3777
-S'John Ballesty'
 p3778
-aS'1968'
+aS'NSW'
 p3779
-aS'Fly-half'
+aVAustralia
 p3780
-aS'NSW'
+aVNew South Wales
 p3781
-aS'9'
-aS'1'
-aS'1'
-aS'23'
-p3782
-aVAustralia
+ag9
+aa(lp3782
+S'Russell Manning'
 p3783
-aVNew South Wales
+aS'1967'
 p3784
-ag9
-aa(lp3785
-S'John Cole'
-p3786
-aS'1968'
-p3787
-aS'Wing'
-p3788
-aS'NSW'
-p3789
-aS'24'
-p3790
-aS'4'
-aS'6'
-aS'21'
-p3791
-aVAustralia
-p3792
-aVNew South Wales
-p3793
-ag9
-aa(lp3794
-S'Arthur McGill'
-p3795
-aS'1968'
-p3796
 aS'Fullback'
-p3797
-aS'NSW'
-p3798
-aS'21'
-p3799
-aS'4'
+p3785
 aS'1'
-aS'72'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p3786
+aVAustralia
+p3787
+aVQueensland
+p3788
+ag9
+aa(lp3789
+S'Ian Proctor'
+p3790
+aS'1967'
+p3791
+aS'Wing'
+p3792
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3793
+aVAustralia
+p3794
+aVNew South Wales
+p3795
+ag9
+aa(lp3796
+S'Jeff Sayle'
+p3797
+aS'1967'
+p3798
+aS'Flanker'
+p3799
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p3800
 aVAustralia
 p3801
@@ -9455,3184 +10431,3466 @@ aVNew South Wales
 p3802
 ag9
 aa(lp3803
-S'Norman Reilly'
+S'Phil Smith'
 p3804
-aS'1968'
+aS'1967'
 p3805
-aS'Lock'
+aS'Centre'
 p3806
-aS'Qld'
-p3807
-aS'10'
-p3808
+aS'8'
 aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3809
-aVQueensland
-p3810
-ag9
-aa(lp3811
-S'Jim Roxburgh'
-p3812
-aS'1968'
-p3813
-aS'Prop'
-p3814
-aS'Wudinna'
-p3815
-aS'9'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p3816
-aV5562
-p3817
-aVSouth Australia
-p3818
-aa(lp3819
-S'David Taylor'
-p3820
-aS'1968'
-p3821
-aS'No. 8'
-p3822
-aS'QLD'
-p3823
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3824
-aVQueensland
-p3825
-ag9
-aa(lp3826
-S'John Hipwell'
-p3827
-aS'1968'
-p3828
-aS'Scrum-half'
-p3829
-aS'NSW'
-p3830
-aS'36'
-p3831
-aS'11'
-p3832
-aS'4'
-aS'14'
-p3833
-aVAustralia
-p3834
-aVNew South Wales
-p3835
-ag9
-aa(lp3836
-S'Barry Honan'
-p3837
-aS'1968'
-p3838
-aS'Centre'
-p3839
-aS'QLD'
-p3840
-aS'9'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p3841
-aVQueensland
-p3842
-ag9
-aa(lp3843
-S'Stuart Gregory'
-p3844
-aS'1968'
-p3845
-aS'Lock'
-p3846
-aS'QLD'
-p3847
-aS'16'
-p3848
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p3849
-aVQueensland
-p3850
-ag9
-aa(lp3851
-S'Alex Pope'
-p3852
-aS'1968'
-p3853
-aS'Centre'
-p3854
-aS'QLD'
-p3855
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3856
-aVQueensland
-p3857
-ag9
-aa(lp3858
-S'Terry Forman'
-p3859
-aS'1968'
-p3860
-aS'Wing'
-p3861
-aS'NSW'
-p3862
 aS'7'
 aS'0'
-aS'1'
-aS'3'
+aS'2'
+aS'6'
+aS'NSW'
+p3807
 aVAustralia
-p3863
+p3808
 aVNew South Wales
-p3864
+p3809
 ag9
-aa(lp3865
-S'Ross Turnbull'
-p3866
+aa(lp3810
+S'John Ballesty'
+p3811
 aS'1968'
-p3867
+p3812
+aS'Fly-half'
+p3813
+aS'9'
+aS'1'
+aS'8'
+aS'0'
+aS'1'
+aS'23'
+p3814
+aS'NSW'
+p3815
+aVAustralia
+p3816
+aVNew South Wales
+p3817
+ag9
+aa(lp3818
+S'John Cole'
+p3819
+aS'1968'
+p3820
+aS'Wing'
+p3821
+aS'24'
+p3822
+aS'4'
+aS'19'
+p3823
+aS'1'
+aS'6'
+aS'21'
+p3824
+aS'NSW'
+p3825
+aVAustralia
+p3826
+aVNew South Wales
+p3827
+ag9
+aa(lp3828
+S'Arthur McGill'
+p3829
+aS'1968'
+p3830
+aS'Fullback'
+p3831
+aS'21'
+p3832
+aS'4'
+aS'16'
+p3833
+aS'1'
+aS'1'
+aS'72'
+p3834
+aS'NSW'
+p3835
+aVAustralia
+p3836
+aVNew South Wales
+p3837
+ag9
+aa(lp3838
+S'Norman Reilly'
+p3839
+aS'1968'
+p3840
+aS'Lock'
+p3841
+aS'10'
+p3842
+aS'1'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p3843
+aVAustralia
+p3844
+aVQueensland
+p3845
+ag9
+aa(lp3846
+S'Jim Roxburgh'
+p3847
+aS'1968'
+p3848
 aS'Prop'
+p3849
+aS'9'
+aS'2'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Wudinna'
+p3850
+aVAustralia
+p3851
+aV5562
+p3852
+aVSouth Australia
+p3853
+aa(lp3854
+S'David Taylor'
+p3855
+aS'1968'
+p3856
+aS'No. 8'
+p3857
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p3858
+aVAustralia
+p3859
+aVQueensland
+p3860
+ag9
+aa(lp3861
+S'John Hipwell'
+p3862
+aS'1968'
+p3863
+aS'Scrum-half'
+p3864
+aS'36'
+p3865
+aS'11'
+p3866
+aS'23'
+p3867
+aS'2'
+aS'4'
+aS'14'
 p3868
 aS'NSW'
 p3869
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVAustralia
 p3870
 aVNew South Wales
 p3871
 ag9
 aa(lp3872
-S'Keith Bell'
+S'Barry Honan'
 p3873
 aS'1968'
 p3874
-aS'Prop'
+aS'Centre'
 p3875
-aS'Qld'
-p3876
+aS'9'
 aS'1'
+aS'8'
 aS'0'
 aS'0'
 aS'0'
+aS'QLD'
+p3876
 aVAustralia
 p3877
 aVQueensland
 p3878
 ag9
 aa(lp3879
-S'Paul Darveniza'
+S'Stuart Gregory'
 p3880
-aS'1969'
+aS'1968'
 p3881
-aS'Hooker'
-p3882
-aS'QLD'
-p3883
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3884
-aVQueensland
-p3885
-ag9
-aa(lp3886
-S'Geoff Shaw'
-p3887
-aS'1969'
-p3888
-aS'Centre'
-p3889
-aS'NSW'
-p3890
-aS'27'
-p3891
-aS'12'
-p3892
-aS'2'
-aS'8'
-aVAustralia
-p3893
-aVNew South Wales
-p3894
-ag9
-aa(lp3895
-S'Alan Skinner'
-p3896
-aS'1969'
-p3897
 aS'Lock'
-p3898
-aS'NSW'
-p3899
+p3882
+aS'16'
+p3883
 aS'3'
+aS'12'
+p3884
 aS'1'
 aS'0'
 aS'0'
+aS'QLD'
+p3885
+aVAustralia
+p3886
+aVQueensland
+p3887
+ag9
+aa(lp3888
+S'Alex Pope'
+p3889
+aS'1968'
+p3890
+aS'Centre'
+p3891
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p3892
+aVAustralia
+p3893
+aVQueensland
+p3894
+ag9
+aa(lp3895
+S'Terry Forman'
+p3896
+aS'1968'
+p3897
+aS'Wing'
+p3898
+aS'7'
+aS'0'
+aS'7'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
+p3899
 aVAustralia
 p3900
 aVNew South Wales
 p3901
 ag9
 aa(lp3902
-S'Owen Butler'
+S'Ross Turnbull'
 p3903
-aS'1969'
+aS'1968'
 p3904
-aS'Lock'
+aS'Prop'
 p3905
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
 p3906
-aS'7'
-aS'2'
-aS'0'
-aS'0'
 aVAustralia
 p3907
 aVNew South Wales
 p3908
 ag9
 aa(lp3909
-S'Rupert Rosenblum'
+S'Keith Bell'
 p3910
-aS'1969'
+aS'1968'
 p3911
-aS'Fly-half'
+aS'Prop'
 p3912
-aS'NSW'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
 p3913
+aVAustralia
+p3914
+aVQueensland
+p3915
+ag9
+aa(lp3916
+S'Paul Darveniza'
+p3917
+aS'1969'
+p3918
+aS'Hooker'
+p3919
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p3920
+aVAustralia
+p3921
+aVQueensland
+p3922
+ag9
+aa(lp3923
+S'Geoff Shaw'
+p3924
+aS'1969'
+p3925
+aS'Centre'
+p3926
+aS'27'
+p3927
+aS'12'
+p3928
+aS'14'
+p3929
+aS'1'
+aS'2'
+aS'8'
+aS'NSW'
+p3930
+aVAustralia
+p3931
+aVNew South Wales
+p3932
+ag9
+aa(lp3933
+S'Alan Skinner'
+p3934
+aS'1969'
+p3935
+aS'Lock'
+p3936
 aS'3'
 aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3937
+aVAustralia
+p3938
+aVNew South Wales
+p3939
+ag9
+aa(lp3940
+S'Owen Butler'
+p3941
+aS'1969'
+p3942
+aS'Lock'
+p3943
+aS'7'
+aS'2'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p3944
+aVAustralia
+p3945
+aVNew South Wales
+p3946
+ag9
+aa(lp3947
+S'Rupert Rosenblum'
+p3948
+aS'1969'
+p3949
+aS'Fly-half'
+p3950
+aS'3'
+aS'1'
+aS'2'
+aS'0'
 aS'1'
 aS'11'
-p3914
+p3951
+aS'NSW'
+p3952
 aVAustralia
-p3915
+p3953
 aVNew South Wales
-p3916
+p3954
 ag9
-aa(lp3917
+aa(lp3955
 S'Bruce Taafe'
-p3918
+p3956
 aS'1969'
-p3919
+p3957
 aS'Hooker'
-p3920
-aS'VIC'
-p3921
+p3958
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'1'
 aS'4'
+aS'VIC'
+p3959
 aVAustralia
-p3922
+p3960
 aVVictoria
-p3923
+p3961
 ag9
-aa(lp3924
+aa(lp3962
 S'Rod Kelleher'
-p3925
+p3963
 aS'1969'
-p3926
+p3964
 aS'Flanker'
-p3927
-aS'Wellington'
-p3928
+p3965
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Wellington'
+p3966
 aVNew Zealand/Aotearoa
-p3929
+p3967
 aVWellington
-p3930
+p3968
 aVWellington City
-p3931
-aa(lp3932
+p3969
+aa(lp3970
 S'Steve Knight'
-p3933
+p3971
 aS'1969'
-p3934
+p3972
 aS'Centre'
-p3935
-aS'NSW'
-p3936
+p3973
 aS'6'
 aS'1'
+aS'5'
+aS'0'
 aS'1'
 aS'3'
+aS'NSW'
+p3974
 aVAustralia
-p3937
+p3975
 aVNew South Wales
-p3938
+p3976
 ag9
-aa(lp3939
+aa(lp3977
 S'Barry McDonald'
-p3940
+p3978
 aS'1969'
-p3941
+p3979
 aS'Flanker'
-p3942
-aS'Matamata'
-p3943
+p3980
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Matamata'
+p3981
 aVNew Zealand/Aotearoa
-p3944
+p3982
 aVWaikato
-p3945
+p3983
 aVMatamata Piako District
-p3946
-aa(lp3947
+p3984
+aa(lp3985
 S'Jake Howard'
-p3948
+p3986
 aS'1970'
-p3949
+p3987
 aS'Prop'
-p3950
-aS'NSW'
-p3951
+p3988
 aS'7'
 aS'2'
+aS'4'
+aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p3952
-aVNew South Wales
-p3953
-ag9
-aa(lp3954
-S'Bob McLean'
-p3955
-aS'1971'
-p3956
-aS'No. 8'
-p3957
 aS'NSW'
-p3958
+p3989
+aVAustralia
+p3990
+aVNew South Wales
+p3991
+ag9
+aa(lp3992
+S'Bob McLean'
+p3993
+aS'1971'
+p3994
+aS'No. 8'
+p3995
 aS'5'
 aS'1'
+aS'4'
+aS'0'
 aS'1'
 aS'3'
-aVAustralia
-p3959
-aVNew South Wales
-p3960
-ag9
-aa(lp3961
-S'Geoff Richardson'
-p3962
-aS'1971'
-p3963
-aS'Fly-half'
-p3964
 aS'NSW'
-p3965
-aS'9'
-aS'2'
-aS'1'
-aS'10'
-p3966
-aVAustralia
-p3967
-aVNew South Wales
-p3968
-ag9
-aa(lp3969
-S'Reginald Smith'
-p3970
-aS'1971'
-p3971
-aS'Lock'
-p3972
-aS'NSW'
-p3973
-aS'22'
-p3974
-aS'10'
-p3975
-aS'1'
-aS'4'
-aVAustralia
-p3976
-aVNew South Wales
-p3977
-ag9
-aa(lp3978
-S'Peter Sullivan'
-p3979
-aS'1971'
-p3980
-aS'Flanker'
-p3981
-aS'NSW'
-p3982
-aS'13'
-p3983
-aS'3'
-aS'1'
-aS'4'
-aVAustralia
-p3984
-aVNew South Wales
-p3985
-ag9
-aa(lp3986
-S'John Taylor'
-p3987
-aS'1971'
-p3988
-aS'Wing'
-p3989
-aS'NSW'
-p3990
-aS'4'
-aS'1'
-aS'1'
-aS'4'
-aVAustralia
-p3991
-aVNew South Wales
-p3992
-ag9
-aa(lp3993
-S'Garrick Fay'
-p3994
-aS'1971'
-p3995
-aS'Lock'
 p3996
-aS'NSW'
+aVAustralia
 p3997
-aS'24'
-p3998
-aS'9'
-aS'1'
-aS'7'
-aVAustralia
-p3999
 aVNew South Wales
+p3998
+ag9
+aa(lp3999
+S'Geoff Richardson'
 p4000
-ag9
-aa(lp4001
-S'Jeff McLean'
+aS'1971'
+p4001
+aS'Fly-half'
 p4002
-aS'1971'
-p4003
-aS'Wing'
-p4004
-aS'Qld'
-p4005
-aS'13'
-p4006
+aS'9'
 aS'2'
-aS'2'
-aS'31'
-p4007
-aVAustralia
-p4008
-aVQueensland
-p4009
-ag9
-aa(lp4010
-S'Mick Barry'
-p4011
-aS'1971'
-p4012
-aS'Scrum-half'
-p4013
-aS'QLD'
-p4014
+aS'7'
+aS'0'
 aS'1'
-aS'0'
-aS'0'
-aS'0'
+aS'10'
+p4003
+aS'NSW'
+p4004
+aVAustralia
+p4005
+aVNew South Wales
+p4006
+ag9
+aa(lp4007
+S'Reginald Smith'
+p4008
+aS'1971'
+p4009
+aS'Lock'
+p4010
+aS'22'
+p4011
+aS'10'
+p4012
+aS'11'
+p4013
+aS'1'
+aS'1'
+aS'4'
+aS'NSW'
+p4014
 aVAustralia
 p4015
-aVQueensland
+aVNew South Wales
 p4016
 ag9
 aa(lp4017
-S'Stuart Macdougall'
+S'Peter Sullivan'
 p4018
 aS'1971'
 p4019
-aS'Prop'
+aS'Flanker'
 p4020
-aS'NSW'
+aS'13'
 p4021
-aS'8'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p4022
-aVNew South Wales
-p4023
-ag9
-aa(lp4024
-S'Robert Thompson'
-p4025
-aS'1971'
-p4026
-aS'Hooker'
-p4027
-aS'Rotorua'
-p4028
 aS'3'
+aS'9'
 aS'1'
 aS'1'
-aS'6'
-aVNew Zealand/Aotearoa
+aS'4'
+aS'NSW'
+p4022
+aVAustralia
+p4023
+aVNew South Wales
+p4024
+ag9
+aa(lp4025
+S'John Taylor'
+p4026
+aS'1971'
+p4027
+aS'Wing'
+p4028
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'1'
+aS'4'
+aS'NSW'
 p4029
-aVBay of Plenty
+aVAustralia
 p4030
-aVRotorua District
+aVNew South Wales
 p4031
+ag9
 aa(lp4032
-S'David Dunworth'
+S'Garrick Fay'
 p4033
 aS'1971'
 p4034
-aS'Prop'
+aS'Lock'
 p4035
-aS'QLD'
+aS'24'
 p4036
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
+aS'9'
+aS'14'
 p4037
-aVQueensland
-p4038
-ag9
-aa(lp4039
-S'Russell Fairfax'
-p4040
-aS'1971'
-p4041
-aS'Fly-half'
-p4042
+aS'1'
+aS'1'
+aS'7'
 aS'NSW'
+p4038
+aVAustralia
+p4039
+aVNew South Wales
+p4040
+ag9
+aa(lp4041
+S'Jeff McLean'
+p4042
+aS'1971'
 p4043
+aS'Wing'
+p4044
+aS'13'
+p4045
+aS'2'
+aS'10'
+p4046
+aS'1'
+aS'2'
+aS'31'
+p4047
+aS'Qld'
+p4048
+aVAustralia
+p4049
+aVQueensland
+p4050
+ag9
+aa(lp4051
+S'Mick Barry'
+p4052
+aS'1971'
+p4053
+aS'Scrum-half'
+p4054
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p4055
+aVAustralia
+p4056
+aVQueensland
+p4057
+ag9
+aa(lp4058
+S'Stuart Macdougall'
+p4059
+aS'1971'
+p4060
+aS'Prop'
+p4061
 aS'8'
 aS'2'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p4062
+aVAustralia
+p4063
+aVNew South Wales
+p4064
+ag9
+aa(lp4065
+S'Robert Thompson'
+p4066
+aS'1971'
+p4067
+aS'Hooker'
+p4068
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'6'
+aS'Rotorua'
+p4069
+aVNew Zealand/Aotearoa
+p4070
+aVBay of Plenty
+p4071
+aVRotorua District
+p4072
+aa(lp4073
+S'David Dunworth'
+p4074
+aS'1971'
+p4075
+aS'Prop'
+p4076
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'QLD'
+p4077
+aVAustralia
+p4078
+aVQueensland
+p4079
+ag9
+aa(lp4080
+S'Russell Fairfax'
+p4081
+aS'1971'
+p4082
+aS'Fly-half'
+p4083
+aS'8'
+aS'2'
+aS'5'
+aS'1'
 aS'0'
 aS'27'
-p4044
+p4084
+aS'NSW'
+p4085
 aVAustralia
-p4045
+p4086
 aVNew South Wales
-p4046
+p4087
 ag9
-aa(lp4047
+aa(lp4088
 S"Rex l'Estrange"
-p4048
+p4089
 aS'1971'
-p4049
+p4090
 aS'Centre'
-p4050
-aS'QLD'
-p4051
+p4091
 aS'16'
-p4052
+p4092
 aS'4'
+aS'11'
+p4093
+aS'1'
 aS'2'
 aS'8'
-aVAustralia
-p4053
-aVQueensland
-p4054
-ag9
-aa(lp4055
-S'Dave Burnet'
-p4056
-aS'1972'
-p4057
-aS'Centre'
-p4058
-aS'NSW'
-p4059
-aS'6'
-aS'1'
-aS'1'
-aS'4'
-aVAustralia
-p4060
-aVNew South Wales
-p4061
-ag9
-aa(lp4062
-S'Dick Cocks'
-p4063
-aS'1972'
-p4064
-aS'No. 8'
-p4065
-aS'NSW'
-p4066
-aS'10'
-p4067
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p4068
-aVNew South Wales
-p4069
-ag9
-aa(lp4070
-S'David Rathie'
-p4071
-aS'1972'
-p4072
-aS'Centre'
-p4073
-aS'Qld'
-p4074
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p4075
-aVQueensland
-p4076
-ag9
-aa(lp4077
-S'Gary Grey'
-p4078
-aS'1972'
-p4079
-aS'Scrum-half'
-p4080
-aS'NSW'
-p4081
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p4082
-aVNew South Wales
-p4083
-ag9
-aa(lp4084
-S'Bruce Brown'
-p4085
-aS'1972'
-p4086
-aS'Prop'
-p4087
 aS'QLD'
-p4088
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p4089
-aVQueensland
-p4090
-ag9
-aa(lp4091
-S'Mick Freney'
-p4092
-aS'1972'
-p4093
-aS'Hooker'
 p4094
-aS'QLD'
+aVAustralia
 p4095
+aVQueensland
+p4096
+ag9
+aa(lp4097
+S'Dave Burnet'
+p4098
+aS'1972'
+p4099
+aS'Centre'
+p4100
+aS'6'
+aS'1'
+aS'4'
+aS'1'
+aS'1'
+aS'4'
+aS'NSW'
+p4101
+aVAustralia
+p4102
+aVNew South Wales
+p4103
+ag9
+aa(lp4104
+S'Dick Cocks'
+p4105
+aS'1972'
+p4106
+aS'No. 8'
+p4107
+aS'10'
+p4108
+aS'3'
 aS'6'
 aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p4096
-aVQueensland
-p4097
-ag9
-aa(lp4098
-S'Tony Gelling'
-p4099
-aS'1972'
-p4100
-aS'No. 8'
-p4101
 aS'NSW'
-p4102
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p4103
-aVNew South Wales
-p4104
-ag9
-aa(lp4105
-S'Barry Stumbles'
-p4106
-aS'1972'
-p4107
-aS'Lock'
-p4108
-aS'Canberra'
 p4109
-aS'4'
-aS'1'
-aS'1'
-aS'4'
 aVAustralia
 p4110
-aVAustralian Capital Territory
+aVNew South Wales
 p4111
-aVCanberra
-p4112
-aa(lp4113
-S'John Cornes'
+ag9
+aa(lp4112
+S'David Rathie'
+p4113
+aS'1972'
 p4114
-aS'1972'
+aS'Centre'
 p4115
-aS'Scrum-half'
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Qld'
 p4116
-aS'Cambridge'
+aVAustralia
 p4117
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aVQueensland
 p4118
-aVEngland
-p4119
-aVEast of England
+ag9
+aa(lp4119
+S'Gary Grey'
 p4120
-aa(lp4121
-S'Peter Rowles'
-p4122
 aS'1972'
-p4123
-aS'Fly-half'
-p4124
+p4121
+aS'Scrum-half'
+p4122
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
 aS'NSW'
+p4123
+aVAustralia
+p4124
+aVNew South Wales
 p4125
+ag9
+aa(lp4126
+S'Bruce Brown'
+p4127
+aS'1972'
+p4128
+aS'Prop'
+p4129
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p4130
+aVAustralia
+p4131
+aVQueensland
+p4132
+ag9
+aa(lp4133
+S'Mick Freney'
+p4134
+aS'1972'
+p4135
+aS'Hooker'
+p4136
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p4137
+aVAustralia
+p4138
+aVQueensland
+p4139
+ag9
+aa(lp4140
+S'Tony Gelling'
+p4141
+aS'1972'
+p4142
+aS'No. 8'
+p4143
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p4126
-aVNew South Wales
-p4127
-ag9
-aa(lp4128
-S'Robert Wood'
-p4129
-aS'1972'
-p4130
-aS'Lock'
-p4131
-aS'QLD'
-p4132
-aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p4133
-aVQueensland
-p4134
-ag9
-aa(lp4135
-S'Ron Graham'
-p4136
-aS'1973'
-p4137
-aS'Prop'
-p4138
+aS'0'
 aS'NSW'
-p4139
-aS'18'
-p4140
-aS'9'
-aS'0'
-aS'0'
-aVAustralia
-p4141
-aVNew South Wales
-p4142
-ag9
-aa(lp4143
-S'Mark Loane'
 p4144
-aS'1973'
+aVAustralia
 p4145
-aS'No. 8'
+aVNew South Wales
 p4146
-aS'Qld'
-p4147
-aS'28'
+ag9
+aa(lp4147
+S'Barry Stumbles'
 p4148
-aS'16'
+aS'1972'
 p4149
+aS'Lock'
+p4150
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
+aS'Canberra'
+p4151
+aVAustralia
+p4152
+aVAustralian Capital Territory
+p4153
+aVCanberra
+p4154
+aa(lp4155
+S'John Cornes'
+p4156
+aS'1972'
+p4157
+aS'Scrum-half'
+p4158
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cambridge'
+p4159
+aVUnited Kingdom
+p4160
+aVEngland
+p4161
+aVEast of England
+p4162
+aa(lp4163
+S'Peter Rowles'
+p4164
+aS'1972'
+p4165
+aS'Fly-half'
+p4166
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4167
+aVAustralia
+p4168
+aVNew South Wales
+p4169
+ag9
+aa(lp4170
+S'Robert Wood'
+p4171
+aS'1972'
+p4172
+aS'Lock'
+p4173
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p4174
+aVAustralia
+p4175
+aVQueensland
+p4176
+ag9
+aa(lp4177
+S'Ron Graham'
+p4178
+aS'1973'
+p4179
+aS'Prop'
+p4180
+aS'18'
+p4181
+aS'9'
+aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p4182
+aVAustralia
+p4183
+aVNew South Wales
+p4184
+ag9
+aa(lp4185
+S'Mark Loane'
+p4186
+aS'1973'
+p4187
+aS'No. 8'
+p4188
+aS'28'
+p4189
+aS'16'
+p4190
+aS'12'
+p4191
+aS'0'
 aS'2'
 aS'8'
+aS'Qld'
+p4192
 aVAustralia
-p4150
+p4193
 aVQueensland
-p4151
+p4194
 ag9
-aa(lp4152
+aa(lp4195
 S'Trevor Stegman'
-p4153
+p4196
 aS'1973'
-p4154
+p4197
 aS'Centre'
-p4155
-aS'NSW'
-p4156
+p4198
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p4199
 aVAustralia
-p4157
+p4200
 aVNew South Wales
-p4158
+p4201
 ag9
-aa(lp4159
+aa(lp4202
 S'Owen Stephens'
-p4160
+p4203
 aS'1968'
-p4161
+p4204
 aS'Wing'
-p4162
-aS'Paeroa'
-p4163
+p4205
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'2'
 aS'8'
+aS'Paeroa'
+p4206
 aVNew Zealand/Aotearoa
-p4164
+p4207
 aVWaikato
-p4165
+p4208
 aVHauraki District
-p4166
-aa(lp4167
+p4209
+aa(lp4210
 S'Chris Carberry'
-p4168
+p4211
 aS'1973'
-p4169
+p4212
 aS'Hooker'
-p4170
-aS'NSW'
-p4171
+p4213
 aS'13'
-p4172
+p4214
 aS'8'
+aS'5'
 aS'0'
 aS'0'
-aVAustralia
-p4173
-aVNew South Wales
-p4174
-ag9
-aa(lp4175
-S'Eric Tindall'
-p4176
-aS'1973'
-p4177
-aS'Scrum-half'
-p4178
+aS'0'
 aS'NSW'
-p4179
+p4215
+aVAustralia
+p4216
+aVNew South Wales
+p4217
+ag9
+aa(lp4218
+S'Eric Tindall'
+p4219
+aS'1973'
+p4220
+aS'Scrum-half'
+p4221
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'1'
 aS'4'
+aS'NSW'
+p4222
 aVAustralia
-p4180
+p4223
 aVNew South Wales
-p4181
+p4224
 ag9
-aa(lp4182
+aa(lp4225
 S'Tony Shaw'
-p4183
+p4226
 aS'1973'
-p4184
+p4227
 aS'Flanker'
-p4185
-aS'QLD'
-p4186
+p4228
 aS'36'
-p4187
+p4229
 aS'20'
-p4188
+p4230
+aS'16'
+p4231
+aS'0'
 aS'2'
 aS'8'
+aS'QLD'
+p4232
 aVAustralia
-p4189
+p4233
 aVQueensland
-p4190
+p4234
 ag9
-aa(lp4191
+aa(lp4235
 S'Bruce Battishall'
-p4192
+p4236
 aS'1973'
-p4193
+p4237
 aS'Flanker'
-p4194
-aS'NSW'
-p4195
+p4238
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p4196
-aVNew South Wales
-p4197
-ag9
-aa(lp4198
-S'Laurie Monaghan'
-p4199
-aS'1973'
-p4200
-aS'Wing'
-p4201
 aS'NSW'
-p4202
+p4239
+aVAustralia
+p4240
+aVNew South Wales
+p4241
+ag9
+aa(lp4242
+S'Laurie Monaghan'
+p4243
+aS'1973'
+p4244
+aS'Wing'
+p4245
 aS'17'
-p4203
+p4246
 aS'6'
+aS'10'
+p4247
+aS'1'
 aS'2'
 aS'11'
-p4204
-aVAustralia
-p4205
-aVNew South Wales
-p4206
-ag9
-aa(lp4207
-S'Roger Davis'
-p4208
-aS'1974'
-p4209
-aS'Lock'
-p4210
+p4248
 aS'NSW'
-p4211
+p4249
+aVAustralia
+p4250
+aVNew South Wales
+p4251
+ag9
+aa(lp4252
+S'Roger Davis'
+p4253
+aS'1974'
+p4254
+aS'Lock'
+p4255
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p4212
-aVNew South Wales
-p4213
-ag9
-aa(lp4214
-S'Peter Horton'
-p4215
-aS'1974'
-p4216
-aS'Hooker'
-p4217
-aS'Brixton'
-p4218
-aS'19'
-p4219
-aS'8'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p4220
-aVEngland
-p4221
-aVGreater London
-p4222
-aa(lp4223
-S'John Lambie'
-p4224
-aS'1974'
-p4225
-aS'No. 8'
-p4226
 aS'NSW'
-p4227
+p4256
+aVAustralia
+p4257
+aVNew South Wales
+p4258
+ag9
+aa(lp4259
+S'Peter Horton'
+p4260
+aS'1974'
+p4261
+aS'Hooker'
+p4262
+aS'19'
+p4263
+aS'8'
+aS'10'
+p4264
+aS'1'
+aS'0'
+aS'0'
+aS'Brixton'
+p4265
+aVUnited Kingdom
+p4266
+aVEngland
+p4267
+aVGreater London
+p4268
+aa(lp4269
+S'John Lambie'
+p4270
+aS'1974'
+p4271
+aS'No. 8'
+p4272
 aS'4'
 aS'0'
+aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'NSW'
+p4273
 aVAustralia
-p4228
+p4274
 aVNew South Wales
-p4229
+p4275
 ag9
-aa(lp4230
+aa(lp4276
 S'Paul McLean'
-p4231
+p4277
 aS'1974'
-p4232
+p4278
 aS'Fly-half'
-p4233
-aS'Qld'
-p4234
+p4279
 aS'30'
-p4235
+p4280
 aS'15'
-p4236
+p4281
+aS'14'
+p4282
+aS'1'
 aS'2'
 aS'260'
-p4237
+p4283
+aS'Qld'
+p4284
 aVAustralia
-p4238
+p4285
 aVQueensland
-p4239
+p4286
 ag9
-aa(lp4240
+aa(lp4287
 S'John Meadows'
-p4241
+p4288
 aS'1974'
-p4242
+p4289
 aS'Prop'
-p4243
-aS'London'
-p4244
+p4290
 aS'22'
-p4245
+p4291
 aS'9'
+aS'13'
+p4292
 aS'0'
 aS'0'
+aS'0'
+aS'London'
+p4293
 aVUnited Kingdom
-p4246
+p4294
 aVEngland
-p4247
+p4295
 aVGreater London
-p4248
-aa(lp4249
+p4296
+aa(lp4297
 S'Ray Price'
-p4250
+p4298
 aS'1974'
-p4251
+p4299
 aS'Flanker'
-p4252
-aS'NSW'
-p4253
+p4300
 aS'8'
 aS'5'
-aS'4'
-aS'16'
-p4254
-aVAustralia
-p4255
-aVNew South Wales
-p4256
-ag9
-aa(lp4257
-S'Greg Cornelsen'
-p4258
-aS'1974'
-p4259
-aS'Flanker'
-p4260
-aS'NSW'
-p4261
-aS'25'
-p4262
-aS'9'
-aS'4'
-aS'16'
-p4263
-aVAustralia
-p4264
-aVNew South Wales
-p4265
-ag9
-aa(lp4266
-S'Bob Brown'
-p4267
-aS'1975'
-p4268
-aS'Fullback'
-p4269
-aS'NSW'
-p4270
 aS'2'
-aS'2'
-aS'0'
-aS'14'
-p4271
-aVAustralia
-p4272
-aVNew South Wales
-p4273
-ag9
-aa(lp4274
-S'Steve Finnane'
-p4275
-aS'1975'
-p4276
-aS'Prop'
-p4277
-aS'NSW'
-p4278
-aS'6'
-aS'5'
-aS'0'
-aS'0'
-aVAustralia
-p4279
-aVNew South Wales
-p4280
-ag9
-aa(lp4281
-S'Douglas Osborne'
-p4282
-aS'1975'
-p4283
-aS'Wing'
-p4284
-aS'Thames'
-p4285
-aS'3'
-aS'3'
 aS'1'
 aS'4'
-aVNew Zealand/Aotearoa
-p4286
-aVWaikato
-p4287
-aVThames Coromandel District
-p4288
-aa(lp4289
-S'John Weatherstone'
-p4290
-aS'1975'
-p4291
-aS'Centre'
-p4292
+aS'16'
+p4301
 aS'NSW'
-p4293
+p4302
+aVAustralia
+p4303
+aVNew South Wales
+p4304
+ag9
+aa(lp4305
+S'Greg Cornelsen'
+p4306
+aS'1974'
+p4307
+aS'Flanker'
+p4308
+aS'25'
+p4309
+aS'9'
+aS'15'
+p4310
+aS'1'
+aS'4'
+aS'16'
+p4311
+aS'NSW'
+p4312
+aVAustralia
+p4313
+aVNew South Wales
+p4314
+ag9
+aa(lp4315
+S'Bob Brown'
+p4316
+aS'1975'
+p4317
+aS'Fullback'
+p4318
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'14'
+p4319
+aS'NSW'
+p4320
+aVAustralia
+p4321
+aVNew South Wales
+p4322
+ag9
+aa(lp4323
+S'Steve Finnane'
+p4324
+aS'1975'
+p4325
+aS'Prop'
+p4326
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4327
+aVAustralia
+p4328
+aVNew South Wales
+p4329
+ag9
+aa(lp4330
+S'Douglas Osborne'
+p4331
+aS'1975'
+p4332
+aS'Wing'
+p4333
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'Thames'
+p4334
+aVNew Zealand/Aotearoa
+p4335
+aVWaikato
+p4336
+aVThames Coromandel District
+p4337
+aa(lp4338
+S'John Weatherstone'
+p4339
+aS'1975'
+p4340
+aS'Centre'
+p4341
 aS'7'
 aS'5'
 aS'2'
+aS'0'
+aS'2'
 aS'8'
-aVAustralia
-p4294
-aVNew South Wales
-p4295
-ag9
-aa(lp4296
-S'Ken Wright'
-p4297
-aS'1975'
-p4298
-aS'Fly-half'
-p4299
 aS'NSW'
-p4300
+p4342
+aVAustralia
+p4343
+aVNew South Wales
+p4344
+ag9
+aa(lp4345
+S'Ken Wright'
+p4346
+aS'1975'
+p4347
+aS'Fly-half'
+p4348
 aS'9'
 aS'5'
+aS'4'
+aS'0'
 aS'1'
 aS'31'
-p4301
-aVAustralia
-p4302
-aVNew South Wales
-p4303
-ag9
-aa(lp4304
-S'Ian Robertson'
-p4305
-aS'1975'
-p4306
-aS'Wing'
-p4307
+p4349
 aS'NSW'
-p4308
+p4350
+aVAustralia
+p4351
+aVNew South Wales
+p4352
+ag9
+aa(lp4353
+S'Ian Robertson'
+p4354
+aS'1975'
+p4355
+aS'Wing'
+p4356
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'2'
 aS'8'
+aS'NSW'
+p4357
 aVAustralia
-p4309
+p4358
 aVNew South Wales
-p4310
+p4359
 ag9
-aa(lp4311
+aa(lp4360
 S'Rod Hauser'
-p4312
+p4361
 aS'1975'
-p4313
+p4362
 aS'Scrum-half'
-p4314
-aS'Qld'
-p4315
+p4363
 aS'15'
-p4316
+p4364
 aS'9'
+aS'6'
+aS'0'
 aS'1'
 aS'4'
-aVAustralia
-p4317
-aVQueensland
-p4318
-ag9
-aa(lp4319
-S'Jim Hindmarsh'
-p4320
-aS'1975'
-p4321
-aS'Fullback'
-p4322
-aS'NSW'
-p4323
-aS'9'
-aS'5'
-aS'0'
-aS'12'
-p4324
-aVAustralia
-p4325
-aVNew South Wales
-p4326
-ag9
-aa(lp4327
-S'Brian Mansfield'
-p4328
-aS'1975'
-p4329
-aS'Lock'
-p4330
-aS'NSW'
-p4331
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p4332
-aVNew South Wales
-p4333
-ag9
-aa(lp4334
-S'John Ryan'
-p4335
-aS'1975'
-p4336
-aS'Wing'
-p4337
-aS'NSW'
-p4338
-aS'6'
-aS'6'
-aS'9'
-aS'36'
-p4339
-aVAustralia
-p4340
-aVNew South Wales
-p4341
-ag9
-aa(lp4342
-S'Paddy Batch'
-p4343
-aS'1975'
-p4344
-aS'Wing'
-p4345
 aS'Qld'
-p4346
-aS'14'
-p4347
-aS'7'
-aS'5'
-aS'20'
-p4348
-aVAustralia
-p4349
-aVQueensland
-p4350
-ag9
-aa(lp4351
-S'John Berne'
-p4352
-aS'1975'
-p4353
-aS'Centre'
-p4354
-aS'Co Antrim'
-p4355
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p4356
-aVNorthern Ireland
-p4357
-aVCounty Antrim
-p4358
-aa(lp4359
-S'Spider Hillhouse'
-p4360
-aS'1975'
-p4361
-aS'Lock'
-p4362
-aS'QLD'
-p4363
-aS'16'
-p4364
-aS'8'
-aS'0'
-aS'0'
-aVAustralia
 p4365
-aVQueensland
+aVAustralia
 p4366
+aVQueensland
+p4367
 ag9
-aa(lp4367
-S'Gary Pearse'
-p4368
-aS'1975'
+aa(lp4368
+S'Jim Hindmarsh'
 p4369
-aS'Flanker'
+aS'1975'
 p4370
-aS'NSW'
+aS'Fullback'
 p4371
 aS'9'
+aS'5'
+aS'4'
+aS'0'
+aS'0'
+aS'12'
+p4372
+aS'NSW'
+p4373
+aVAustralia
+p4374
+aVNew South Wales
+p4375
+ag9
+aa(lp4376
+S'Brian Mansfield'
+p4377
+aS'1975'
+p4378
+aS'Lock'
+p4379
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4380
+aVAustralia
+p4381
+aVNew South Wales
+p4382
+ag9
+aa(lp4383
+S'John Ryan'
+p4384
+aS'1975'
+p4385
+aS'Wing'
+p4386
 aS'6'
+aS'6'
+aS'0'
+aS'0'
+aS'9'
+aS'36'
+p4387
+aS'NSW'
+p4388
+aVAustralia
+p4389
+aVNew South Wales
+p4390
+ag9
+aa(lp4391
+S'Paddy Batch'
+p4392
+aS'1975'
+p4393
+aS'Wing'
+p4394
+aS'14'
+p4395
+aS'7'
+aS'7'
+aS'0'
+aS'5'
+aS'20'
+p4396
+aS'Qld'
+p4397
+aVAustralia
+p4398
+aVQueensland
+p4399
+ag9
+aa(lp4400
+S'John Berne'
+p4401
+aS'1975'
+p4402
+aS'Centre'
+p4403
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Co Antrim'
+p4404
+aVUnited Kingdom
+p4405
+aVNorthern Ireland
+p4406
+aVCounty Antrim
+p4407
+aa(lp4408
+S'Spider Hillhouse'
+p4409
+aS'1975'
+p4410
+aS'Lock'
+p4411
+aS'16'
+p4412
+aS'8'
+aS'7'
+aS'1'
+aS'0'
+aS'0'
+aS'QLD'
+p4413
+aVAustralia
+p4414
+aVQueensland
+p4415
+ag9
+aa(lp4416
+S'Gary Pearse'
+p4417
+aS'1975'
+p4418
+aS'Flanker'
+p4419
+aS'9'
+aS'6'
+aS'3'
+aS'0'
 aS'4'
 aS'16'
-p4372
-aVAustralia
-p4373
-aVNew South Wales
-p4374
-ag9
-aa(lp4375
-S'Bill McKid'
-p4376
-aS'1976'
-p4377
-aS'Centre'
-p4378
+p4420
 aS'NSW'
-p4379
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p4380
-aVNew South Wales
-p4381
-ag9
-aa(lp4382
-S'Gregory Shambrook'
-p4383
-aS'1976'
-p4384
-aS'Centre'
-p4385
-aS'Qld'
-p4386
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p4387
-aVQueensland
-p4388
-ag9
-aa(lp4389
-S'Mick Ellem'
-p4390
-aS'1976'
-p4391
-aS''
-aS'NSW'
-p4392
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p4393
-aVNew South Wales
-p4394
-ag9
-aa(lp4395
-S'Phil Crowe'
-p4396
-aS'1976'
-p4397
-aS'Wing'
-p4398
-aS'Westminster'
-p4399
-aS'6'
-aS'3'
-aS'2'
-aS'8'
-aVUnited Kingdom
-p4400
-aVEngland
-p4401
-aVGreater London
-p4402
-aa(lp4403
-S'Martin Knight'
-p4404
-aS'1978'
-p4405
-aS'Centre'
-p4406
-aS'Bucklow'
-p4407
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p4408
-aVM21
-p4409
-aVEngland
-p4410
-aa(lp4411
-S'Stan Pilecki'
-p4412
-aS'1978'
-p4413
-aS'Prop'
-p4414
-aS'Augusdorf'
-p4415
-aS'18'
-p4416
-aS'9'
-aS'0'
-aS'0'
-aVFrance
-p4417
-aV88120
-p4418
-aVFrance métropolitaine
-p4419
-aa(lp4420
-S'Andrew Slack'
 p4421
-aS'1978'
+aVAustralia
 p4422
-aS'Centre'
+aVNew South Wales
 p4423
-aS'QLD'
-p4424
-aS'39'
+ag9
+aa(lp4424
+S'Bill McKid'
 p4425
-aS'24'
+aS'1976'
 p4426
-aS'10'
+aS'Centre'
 p4427
-aS'40'
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p4428
 aVAustralia
 p4429
-aVQueensland
+aVNew South Wales
 p4430
 ag9
 aa(lp4431
-S'Peter McLean'
+S'Gregory Shambrook'
 p4432
-aS'1978'
+aS'1976'
 p4433
-aS'Lock'
+aS'Centre'
 p4434
-aS'QLD'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
 p4435
-aS'16'
-p4436
-aS'7'
-aS'0'
-aS'0'
 aVAustralia
-p4437
+p4436
 aVQueensland
-p4438
+p4437
 ag9
-aa(lp4439
-S'Steve Streeter'
+aa(lp4438
+S'Mick Ellem'
+p4439
+aS'1976'
 p4440
-aS'1978'
-p4441
-aS'Wing'
-p4442
-aS'NSW'
-p4443
+aS''
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'0'
+aS'NSW'
+p4441
 aVAustralia
-p4444
+p4442
 aVNew South Wales
+p4443
+ag9
+aa(lp4444
+S'Phil Crowe'
 p4445
-ag9
-aa(lp4446
-S'Brendan Moon'
-p4447
-aS'1978'
-p4448
+aS'1976'
+p4446
 aS'Wing'
+p4447
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'2'
+aS'8'
+aS'Westminster'
+p4448
+aVUnited Kingdom
 p4449
-aS'VIC'
+aVEngland
 p4450
-aS'35'
+aVGreater London
 p4451
-aS'20'
-p4452
-aS'14'
+aa(lp4452
+S'Martin Knight'
 p4453
-aS'56'
-p4454
-aVAustralia
-p4455
-aVVictoria
-p4456
-ag9
-aa(lp4457
-S'Geoff Richards'
-p4458
 aS'1978'
-p4459
-aS'Fullback'
-p4460
-aS'Hornchurch'
-p4461
+p4454
+aS'Centre'
+p4455
 aS'3'
 aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bucklow'
+p4456
+aVUnited Kingdom
+p4457
+aVM21
+p4458
+aVEngland
+p4459
+aa(lp4460
+S'Stan Pilecki'
+p4461
+aS'1978'
+p4462
+aS'Prop'
+p4463
+aS'18'
+p4464
+aS'9'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Augusdorf'
+p4465
+aVFrance
+p4466
+aV88120
+p4467
+aVFrance métropolitaine
+p4468
+aa(lp4469
+S'Andrew Slack'
+p4470
+aS'1978'
+p4471
+aS'Centre'
+p4472
+aS'39'
+p4473
+aS'24'
+p4474
+aS'15'
+p4475
+aS'0'
+aS'10'
+p4476
+aS'40'
+p4477
+aS'QLD'
+p4478
+aVAustralia
+p4479
+aVQueensland
+p4480
+ag9
+aa(lp4481
+S'Peter McLean'
+p4482
+aS'1978'
+p4483
+aS'Lock'
+p4484
+aS'16'
+p4485
+aS'7'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p4486
+aVAustralia
+p4487
+aVQueensland
+p4488
+ag9
+aa(lp4489
+S'Steve Streeter'
+p4490
+aS'1978'
+p4491
+aS'Wing'
+p4492
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4493
+aVAustralia
+p4494
+aVNew South Wales
+p4495
+ag9
+aa(lp4496
+S'Brendan Moon'
+p4497
+aS'1978'
+p4498
+aS'Wing'
+p4499
+aS'35'
+p4500
+aS'20'
+p4501
+aS'14'
+p4502
+aS'1'
+aS'14'
+p4503
+aS'56'
+p4504
+aS'VIC'
+p4505
+aVAustralia
+p4506
+aVVictoria
+p4507
+ag9
+aa(lp4508
+S'Geoff Richards'
+p4509
+aS'1978'
+p4510
+aS'Fullback'
+p4511
+aS'3'
+aS'2'
+aS'1'
+aS'0'
 aS'0'
 aS'3'
+aS'Hornchurch'
+p4512
 aVUnited Kingdom
-p4462
+p4513
 aVEngland
-p4463
+p4514
 aVGreater London
-p4464
-aa(lp4465
+p4515
+aa(lp4516
 S'Buddha Handy'
-p4466
+p4517
 aS'1978'
-p4467
+p4518
 aS'Prop'
-p4468
-aS'QLD'
-p4469
+p4519
 aS'6'
 aS'4'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'QLD'
+p4520
 aVAustralia
-p4470
+p4521
 aVQueensland
-p4471
+p4522
 ag9
-aa(lp4472
+aa(lp4523
 S'Tony Melrose'
-p4473
+p4524
 aS'1978'
-p4474
+p4525
 aS'Fly-half'
-p4475
-aS'NSW'
-p4476
+p4526
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'0'
 aS'11'
-p4477
-aVAustralia
-p4478
-aVNew South Wales
-p4479
-ag9
-aa(lp4480
-S'Bruce Cooke'
-p4481
-aS'1979'
-p4482
-aS'Fullback'
-p4483
-aS'QLD'
-p4484
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p4485
-aVQueensland
-p4486
-ag9
-aa(lp4487
-S'Bill Ross'
-p4488
-aS'1979'
-p4489
-aS'Hooker'
-p4490
-aS'QLD'
-p4491
-aS'13'
-p4492
-aS'7'
-aS'1'
-aS'4'
-aVAustralia
-p4493
-aVQueensland
-p4494
-ag9
-aa(lp4495
-S'Keith Besomo'
-p4496
-aS'1979'
-p4497
-aS'Lock'
-p4498
-aS'NSW'
-p4499
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p4500
-aVNew South Wales
-p4501
-ag9
-aa(lp4502
-S'Peter Carson'
-p4503
-aS'1979'
-p4504
-aS'Scrum-half'
-p4505
-aS'NSW'
-p4506
-aS'2'
-aS'2'
-aS'1'
-aS'4'
-aVAustralia
-p4507
-aVNew South Wales
-p4508
-ag9
-aa(lp4509
-S'Andy Stewart'
-p4510
-aS'1979'
-p4511
-aS'Flanker'
-p4512
-aS'NSW'
-p4513
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p4514
-aVNew South Wales
-p4515
-ag9
-aa(lp4516
-S'Phillip Cox'
-p4517
-aS'1979'
-p4518
-aS'Scrum-half'
-p4519
-aS'NSW'
-p4520
-aS'16'
-p4521
-aS'7'
-aS'0'
-aS'0'
-aVAustralia
-p4522
-aVNew South Wales
-p4523
-ag9
-aa(lp4524
-S"Michael O'Connor"
-p4525
-aS'1979'
-p4526
-aS'Centre'
 p4527
 aS'NSW'
 p4528
-aS'12'
+aVAustralia
 p4529
-aS'8'
-aS'5'
-aS'20'
+aVNew South Wales
 p4530
-aVAustralia
-p4531
-aVNew South Wales
+ag9
+aa(lp4531
+S'Bruce Cooke'
 p4532
-ag9
-aa(lp4533
-S"Tony d'Arcy"
+aS'1979'
+p4533
+aS'Fullback'
 p4534
-aS'1980'
-p4535
-aS'Prop'
-p4536
-aS'Port Moresby'
-p4537
-aS'10'
-p4538
-aS'6'
+aS'1'
+aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVPapua Niugini
-p4539
-aVPapua Region
-p4540
-aVNational Capital District
-p4541
-aa(lp4542
-S'Duncan Hall'
-p4543
-aS'1980'
-p4544
-aS'Lock'
-p4545
+aS'0'
 aS'QLD'
-p4546
-aS'15'
-p4547
-aS'10'
-p4548
-aS'1'
-aS'4'
+p4535
 aVAustralia
-p4549
+p4536
 aVQueensland
-p4550
+p4537
 ag9
-aa(lp4551
-S'Mike Hawker'
-p4552
-aS'1980'
-p4553
-aS'Centre'
-p4554
-aS'NSW'
-p4555
-aS'25'
-p4556
-aS'12'
-p4557
-aS'5'
-aS'32'
-p4558
-aVAustralia
-p4559
-aVNew South Wales
-p4560
-ag9
-aa(lp4561
-S'Mick Martin'
-p4562
-aS'1980'
-p4563
-aS'Wing'
-p4564
-aS'NSW'
-p4565
+aa(lp4538
+S'Bill Ross'
+p4539
+aS'1979'
+p4540
+aS'Hooker'
+p4541
+aS'13'
+p4542
+aS'7'
 aS'6'
+aS'0'
+aS'1'
 aS'4'
-aS'2'
-aS'8'
+aS'QLD'
+p4543
 aVAustralia
-p4566
-aVNew South Wales
-p4567
+p4544
+aVQueensland
+p4545
 ag9
-aa(lp4568
-S'Mick Mathers'
-p4569
-aS'1980'
-p4570
+aa(lp4546
+S'Keith Besomo'
+p4547
+aS'1979'
+p4548
 aS'Lock'
-p4571
-aS'WA'
-p4572
+p4549
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4550
+aVAustralia
+p4551
+aVNew South Wales
+p4552
+ag9
+aa(lp4553
+S'Peter Carson'
+p4554
+aS'1979'
+p4555
+aS'Scrum-half'
+p4556
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'NSW'
+p4557
+aVAustralia
+p4558
+aVNew South Wales
+p4559
+ag9
+aa(lp4560
+S'Andy Stewart'
+p4561
+aS'1979'
+p4562
+aS'Flanker'
+p4563
+aS'3'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
-aVUnited States of America
+aS'0'
+aS'NSW'
+p4564
+aVAustralia
+p4565
+aVNew South Wales
+p4566
+ag9
+aa(lp4567
+S'Phillip Cox'
+p4568
+aS'1979'
+p4569
+aS'Scrum-half'
+p4570
+aS'16'
+p4571
+aS'7'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4572
+aVAustralia
 p4573
-aVWashington
+aVNew South Wales
 p4574
 ag9
 aa(lp4575
-S'Simon Poidevin'
+S"Michael O'Connor"
 p4576
-aS'1980'
+aS'1979'
 p4577
-aS'Flanker'
+aS'Centre'
 p4578
-aS'NSW'
+aS'12'
 p4579
-aS'59'
+aS'8'
+aS'4'
+aS'0'
+aS'5'
+aS'20'
 p4580
-aS'37'
-p4581
-aS'6'
-aS'24'
-p4582
-aVAustralia
-p4583
-aVNew South Wales
-p4584
-ag9
-aa(lp4585
-S'Steve Williams'
-p4586
-aS'1980'
-p4587
-aS'Lock'
-p4588
 aS'NSW'
+p4581
+aVAustralia
+p4582
+aVNew South Wales
+p4583
+ag9
+aa(lp4584
+S"Tony d'Arcy"
+p4585
+aS'1980'
+p4586
+aS'Prop'
+p4587
+aS'10'
+p4588
+aS'6'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Port Moresby'
 p4589
-aS'28'
+aVPapua Niugini
 p4590
-aS'17'
+aVPapua Region
 p4591
+aVNational Capital District
+p4592
+aa(lp4593
+S'Duncan Hall'
+p4594
+aS'1980'
+p4595
+aS'Lock'
+p4596
+aS'15'
+p4597
+aS'10'
+p4598
+aS'5'
+aS'0'
 aS'1'
 aS'4'
-aVAustralia
-p4592
-aVNew South Wales
-p4593
-ag9
-aa(lp4594
-S'Mark Ella'
-p4595
-aS'1980'
-p4596
-aS'Fly-half'
-p4597
-aS'Sydney'
-p4598
-aS'25'
+aS'QLD'
 p4599
-aS'13'
+aVAustralia
 p4600
+aVQueensland
+p4601
+ag9
+aa(lp4602
+S'Mike Hawker'
+p4603
+aS'1980'
+p4604
+aS'Centre'
+p4605
+aS'25'
+p4606
+aS'12'
+p4607
+aS'12'
+p4608
+aS'1'
+aS'5'
+aS'32'
+p4609
+aS'NSW'
+p4610
+aVAustralia
+p4611
+aVNew South Wales
+p4612
+ag9
+aa(lp4613
+S'Mick Martin'
+p4614
+aS'1980'
+p4615
+aS'Wing'
+p4616
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'2'
+aS'8'
+aS'NSW'
+p4617
+aVAustralia
+p4618
+aVNew South Wales
+p4619
+ag9
+aa(lp4620
+S'Mick Mathers'
+p4621
+aS'1980'
+p4622
+aS'Lock'
+p4623
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'WA'
+p4624
+aVUnited States of America
+p4625
+aVWashington
+p4626
+ag9
+aa(lp4627
+S'Simon Poidevin'
+p4628
+aS'1980'
+p4629
+aS'Flanker'
+p4630
+aS'59'
+p4631
+aS'37'
+p4632
+aS'19'
+p4633
+aS'3'
+aS'6'
+aS'24'
+p4634
+aS'NSW'
+p4635
+aVAustralia
+p4636
+aVNew South Wales
+p4637
+ag9
+aa(lp4638
+S'Steve Williams'
+p4639
+aS'1980'
+p4640
+aS'Lock'
+p4641
+aS'28'
+p4642
+aS'17'
+p4643
+aS'10'
+p4644
+aS'1'
+aS'1'
+aS'4'
+aS'NSW'
+p4645
+aVAustralia
+p4646
+aVNew South Wales
+p4647
+ag9
+aa(lp4648
+S'Mark Ella'
+p4649
+aS'1980'
+p4650
+aS'Fly-half'
+p4651
+aS'25'
+p4652
+aS'13'
+p4653
+aS'11'
+p4654
+aS'1'
 aS'6'
 aS'78'
-p4601
+p4655
+aS'Sydney'
+p4656
 aVAustralia
-p4602
+p4657
 aVNew South Wales
-p4603
+p4658
 aVSydney
-p4604
-aa(lp4605
+p4659
+aa(lp4660
 S'Roger Gould'
-p4606
+p4661
 aS'1980'
-p4607
+p4662
 aS'Fullback'
-p4608
-aS'QLD'
-p4609
+p4663
 aS'25'
-p4610
+p4664
 aS'14'
-p4611
+p4665
+aS'10'
+p4666
+aS'1'
 aS'4'
 aS'86'
-p4612
+p4667
+aS'QLD'
+p4668
 aVAustralia
-p4613
+p4669
 aVQueensland
-p4614
+p4670
 ag9
-aa(lp4615
+aa(lp4671
 S'Declan Curran'
-p4616
+p4672
 aS'1980'
-p4617
+p4673
 aS'Prop'
-p4618
-aS'NSW'
-p4619
+p4674
 aS'5'
 aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p4620
-aVNew South Wales
-p4621
-ag9
-aa(lp4622
-S'Peter Grigg'
-p4623
-aS'1980'
-p4624
-aS'Wing'
-p4625
-aS'Qld'
-p4626
-aS'25'
-p4627
-aS'18'
-p4628
-aS'12'
-p4629
-aS'48'
-p4630
-aVAustralia
-p4631
-aVQueensland
-p4632
-ag9
-aa(lp4633
-S'Mitchell Cox'
-p4634
-aS'1981'
-p4635
-aS'Wing'
-p4636
-aS'NSW'
-p4637
 aS'2'
 aS'0'
-aS'1'
-aS'4'
-aVAustralia
-p4638
-aVNew South Wales
-p4639
-ag9
-aa(lp4640
-S'Glen Ella'
-p4641
-aS'1982'
-p4642
-aS'Fullback'
-p4643
-aS'Sydney'
-p4644
-aS'4'
-aS'3'
 aS'0'
 aS'0'
-aVAustralia
-p4645
-aVNew South Wales
-p4646
-aVSydney
-p4647
-aa(lp4648
-S'Chris Roche'
-p4649
-aS'1982'
-p4650
-aS'Flanker'
-p4651
-aS'QLD'
-p4652
-aS'17'
-p4653
-aS'8'
-aS'3'
-aS'12'
-p4654
-aVAustralia
-p4655
-aVQueensland
-p4656
-ag9
-aa(lp4657
-S'David Campese'
-p4658
-aS'1982'
-p4659
-aS'Wing'
-p4660
-aS'Queanbeyan'
-p4661
-aS'101'
-p4662
-aS'67'
-p4663
-aS'64'
-p4664
-aS'315'
-p4665
-aVAustralia
-p4666
-aVNew South Wales
-p4667
-aVQueanbeyan
-p4668
-aa(lp4669
-S'John Coolican'
-p4670
-aS'1982'
-p4671
-aS'Prop'
-p4672
 aS'NSW'
-p4673
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p4674
-aVNew South Wales
 p4675
-ag9
-aa(lp4676
-S'Gary Ella'
-p4677
-aS'1982'
-p4678
-aS'Centre'
-p4679
-aS'Sydney'
-p4680
-aS'6'
-aS'2'
-aS'2'
-aS'8'
 aVAustralia
-p4681
+p4676
 aVNew South Wales
+p4677
+ag9
+aa(lp4678
+S'Peter Grigg'
+p4679
+aS'1980'
+p4680
+aS'Wing'
+p4681
+aS'25'
 p4682
-aVSydney
+aS'18'
 p4683
-aa(lp4684
-S'Peter Lucas'
+aS'7'
+aS'0'
+aS'12'
+p4684
+aS'48'
 p4685
-aS'1982'
+aS'Qld'
 p4686
-aS'No. 8'
+aVAustralia
 p4687
-aS'NSW'
+aVQueensland
 p4688
+ag9
+aa(lp4689
+S'Mitchell Cox'
+p4690
+aS'1981'
+p4691
+aS'Wing'
+p4692
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'NSW'
+p4693
+aVAustralia
+p4694
+aVNew South Wales
+p4695
+ag9
+aa(lp4696
+S'Glen Ella'
+p4697
+aS'1982'
+p4698
+aS'Fullback'
+p4699
+aS'4'
 aS'3'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Sydney'
+p4700
 aVAustralia
-p4689
+p4701
 aVNew South Wales
-p4690
-ag9
-aa(lp4691
-S'Andy McIntyre'
-p4692
+p4702
+aVSydney
+p4703
+aa(lp4704
+S'Chris Roche'
+p4705
 aS'1982'
-p4693
-aS'Prop'
-p4694
-aS'Qld'
-p4695
-aS'38'
-p4696
-aS'22'
-p4697
+p4706
+aS'Flanker'
+p4707
+aS'17'
+p4708
+aS'8'
+aS'8'
+aS'1'
 aS'3'
 aS'12'
-p4698
-aVAustralia
-p4699
-aVQueensland
-p4700
-ag9
-aa(lp4701
-S'Bruce Malouf'
-p4702
-aS'1982'
-p4703
-aS'Hooker'
-p4704
-aS'NSW'
-p4705
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p4706
-aVNew South Wales
-p4707
-ag9
-aa(lp4708
-S'Lance Walker'
 p4709
-aS'1982'
+aS'QLD'
 p4710
-aS'Hooker'
-p4711
-aS'NSW'
-p4712
-aS'2'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
-p4713
-aVNew South Wales
-p4714
+p4711
+aVQueensland
+p4712
 ag9
-aa(lp4715
-S'Steve Cutler'
-p4716
+aa(lp4713
+S'David Campese'
+p4714
 aS'1982'
+p4715
+aS'Wing'
+p4716
+aS'101'
 p4717
-aS'Lock'
+aS'67'
 p4718
-aS'NSW'
+aS'32'
 p4719
-aS'40'
+aS'2'
+aS'64'
 p4720
-aS'24'
+aS'315'
 p4721
-aS'4'
-aS'16'
+aS'Queanbeyan'
 p4722
 aVAustralia
 p4723
 aVNew South Wales
 p4724
-ag9
-aa(lp4725
-S'Phil Clements'
-p4726
-aS'1982'
+aVQueanbeyan
+p4725
+aa(lp4726
+S'John Coolican'
 p4727
-aS'Lock'
+aS'1982'
 p4728
-aS'NSW'
+aS'Prop'
 p4729
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p4730
-aVNew South Wales
-p4731
-ag9
-aa(lp4732
-S'Dominic Vaughan'
-p4733
-aS'1983'
-p4734
-aS'Scrum-half'
-p4735
-aS'NSW'
-p4736
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p4737
-aVNew South Wales
-p4738
-ag9
-aa(lp4739
-S'Ross Hanley'
-p4740
-aS'1983'
-p4741
-aS'Wing'
-p4742
-aS'Qld'
-p4743
-aS'2'
-aS'2'
-aS'1'
 aS'4'
-aVAustralia
-p4744
-aVQueensland
-p4745
-ag9
-aa(lp4746
-S'David Codey'
-p4747
-aS'1983'
-p4748
-aS'Flanker'
-p4749
-aS'NSW'
-p4750
-aS'13'
-p4751
-aS'8'
+aS'1'
 aS'2'
-aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p4730
 aVAustralia
-p4752
+p4731
 aVNew South Wales
-p4753
+p4732
 ag9
-aa(lp4754
-S'Tony Parker'
-p4755
-aS'1983'
-p4756
-aS'Scrum-half'
-p4757
-aS'QLD'
-p4758
+aa(lp4733
+S'Gary Ella'
+p4734
+aS'1982'
+p4735
+aS'Centre'
+p4736
+aS'6'
+aS'2'
 aS'3'
 aS'1'
-aS'0'
-aS'0'
+aS'2'
+aS'8'
+aS'Sydney'
+p4737
 aVAustralia
-p4759
-aVQueensland
-p4760
-ag9
-aa(lp4761
-S'Mark Harding'
-p4762
-aS'1983'
-p4763
-aS'Prop'
-p4764
-aS'Christchurch'
-p4765
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p4766
-aVCanterbury
-p4767
-aVChristchurch City
-p4768
-aa(lp4769
-S'Mark McBain'
-p4770
-aS'1983'
-p4771
-aS'Hooker'
-p4772
-aS'QLD'
-p4773
-aS'7'
-aS'6'
-aS'0'
-aS'0'
-aVAustralia
-p4774
-aVQueensland
-p4775
-ag9
-aa(lp4776
-S'Steve Tuynman'
-p4777
-aS'1983'
-p4778
-aS'No. 8'
-p4779
-aS'NSW'
-p4780
-aS'34'
-p4781
-aS'21'
-p4782
-aS'5'
-aS'20'
-p4783
-aVAustralia
-p4784
+p4738
 aVNew South Wales
-p4785
+p4739
+aVSydney
+p4740
+aa(lp4741
+S'Peter Lucas'
+p4742
+aS'1982'
+p4743
+aS'No. 8'
+p4744
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4745
+aVAustralia
+p4746
+aVNew South Wales
+p4747
 ag9
-aa(lp4786
-S'Tom Lawton'
-p4787
-aS'1983'
-p4788
+aa(lp4748
+S'Andy McIntyre'
+p4749
+aS'1982'
+p4750
+aS'Prop'
+p4751
+aS'38'
+p4752
+aS'22'
+p4753
+aS'14'
+p4754
+aS'2'
+aS'3'
+aS'12'
+p4755
+aS'Qld'
+p4756
+aVAustralia
+p4757
+aVQueensland
+p4758
+ag9
+aa(lp4759
+S'Bruce Malouf'
+p4760
+aS'1982'
+p4761
 aS'Hooker'
-p4789
-aS'Darwin'
-p4790
-aS'41'
-p4791
+p4762
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4763
+aVAustralia
+p4764
+aVNew South Wales
+p4765
+ag9
+aa(lp4766
+S'Lance Walker'
+p4767
+aS'1982'
+p4768
+aS'Hooker'
+p4769
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4770
+aVAustralia
+p4771
+aVNew South Wales
+p4772
+ag9
+aa(lp4773
+S'Steve Cutler'
+p4774
+aS'1982'
+p4775
+aS'Lock'
+p4776
+aS'40'
+p4777
 aS'24'
-p4792
+p4778
+aS'14'
+p4779
+aS'2'
 aS'4'
 aS'16'
-p4793
+p4780
+aS'NSW'
+p4781
 aVAustralia
-p4794
-aVNorthern Territory
-p4795
-aVDarwin
-p4796
-aa(lp4797
-S'Bill Campbell'
-p4798
-aS'1984'
-p4799
-aS'Lock'
-p4800
-aS'QLD'
-p4801
-aS'22'
-p4802
-aS'14'
-p4803
-aS'0'
-aS'0'
-aVAustralia
-p4804
-aVQueensland
-p4805
+p4782
+aVNew South Wales
+p4783
 ag9
-aa(lp4806
-S'Nigel Holt'
-p4807
-aS'1984'
-p4808
+aa(lp4784
+S'Phil Clements'
+p4785
+aS'1982'
+p4786
 aS'Lock'
-p4809
+p4787
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p4788
+aVAustralia
+p4789
+aVNew South Wales
+p4790
+ag9
+aa(lp4791
+S'Dominic Vaughan'
+p4792
+aS'1983'
+p4793
+aS'Scrum-half'
+p4794
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p4795
+aVAustralia
+p4796
+aVNew South Wales
+p4797
+ag9
+aa(lp4798
+S'Ross Hanley'
+p4799
+aS'1983'
+p4800
+aS'Wing'
+p4801
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
 aS'Qld'
+p4802
+aVAustralia
+p4803
+aVQueensland
+p4804
+ag9
+aa(lp4805
+S'David Codey'
+p4806
+aS'1983'
+p4807
+aS'Flanker'
+p4808
+aS'13'
+p4809
+aS'8'
+aS'5'
+aS'0'
+aS'2'
+aS'8'
+aS'NSW'
 p4810
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p4811
-aVQueensland
+aVNew South Wales
 p4812
 ag9
 aa(lp4813
-S'Michael Lynagh'
+S'Tony Parker'
 p4814
-aS'1984'
+aS'1983'
 p4815
-aS'Fly-half'
+aS'Scrum-half'
 p4816
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'QLD'
 p4817
-aS'72'
+aVAustralia
 p4818
-aS'51'
+aVQueensland
 p4819
-aS'17'
-p4820
-aS'911'
+ag9
+aa(lp4820
+S'Mark Harding'
 p4821
-aVAustralia
+aS'1983'
 p4822
-aVQueensland
-p4823
-ag9
-aa(lp4824
-S'Ross Reynolds'
-p4825
-aS'1984'
-p4826
-aS'No. 8'
-p4827
-aS'NSW'
-p4828
-aS'10'
-p4829
-aS'8'
-aS'2'
-aS'8'
-aVAustralia
-p4830
-aVNew South Wales
-p4831
-ag9
-aa(lp4832
-S'Topo Rodriguez'
-p4833
-aS'1979'
-p4834
 aS'Prop'
-p4835
-aS'Cordoba'
-p4836
-aS'43'
-p4837
-aS'25'
-p4838
+p4823
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVEspaña
-p4839
-aVAndalucía
-p4840
-aVCórdoba
-p4841
-aa(lp4842
-S'Nick Farr-Jones'
-p4843
-aS'1984'
-p4844
-aS'Scrum-half'
-p4845
-aS'NSW'
-p4846
-aS'63'
-p4847
-aS'42'
-p4848
-aS'9'
-aS'37'
-p4849
-aVAustralia
-p4850
-aVNew South Wales
-p4851
-ag9
-aa(lp4852
-S'Matthew Burke'
-p4853
-aS'1984'
-p4854
-aS'Wing'
-p4855
-aS'NSW'
-p4856
-aS'23'
-p4857
-aS'16'
-p4858
-aS'15'
-p4859
-aS'60'
-p4860
-aVAustralia
-p4861
-aVNew South Wales
-p4862
-ag9
-aa(lp4863
-S'James Black'
-p4864
-aS'1985'
-p4865
-aS'Fullback'
-p4866
-aS'NSW'
-p4867
-aS'4'
-aS'3'
+aS'0'
+aS'0'
+aS'Christchurch'
+p4824
+aVNew Zealand/Aotearoa
+p4825
+aVCanterbury
+p4826
+aVChristchurch City
+p4827
+aa(lp4828
+S'Mark McBain'
+p4829
+aS'1983'
+p4830
+aS'Hooker'
+p4831
+aS'7'
+aS'6'
+aS'0'
 aS'1'
-aS'4'
+aS'0'
+aS'0'
+aS'QLD'
+p4832
 aVAustralia
-p4868
-aVNew South Wales
-p4869
-ag9
-aa(lp4870
-S'Bill Calcraft'
-p4871
-aS'1985'
-p4872
-aS'Flanker'
-p4873
-aS'NSW'
-p4874
-aS'3'
-aS'3'
-aS'1'
-aS'4'
-aVAustralia
-p4875
-aVNew South Wales
-p4876
-ag9
-aa(lp4877
-S'Nigel Kassulke'
-p4878
-aS'1985'
-p4879
-aS'Centre'
-p4880
-aS'Qld'
-p4881
-aS'2'
-aS'2'
-aS'1'
-aS'4'
-aVAustralia
-p4882
+p4833
 aVQueensland
-p4883
+p4834
 ag9
-aa(lp4884
-S'Tim Lane'
-p4885
-aS'1985'
-p4886
-aS'Centre'
-p4887
-aS'NSW'
-p4888
-aS'3'
-aS'2'
-aS'2'
-aS'8'
-aVAustralia
-p4889
-aVNew South Wales
-p4890
-ag9
-aa(lp4891
-S'David Knox'
-p4892
-aS'1985'
-p4893
-aS'Fly-half'
-p4894
-aS'NSW'
-p4895
-aS'13'
-p4896
-aS'10'
-p4897
-aS'2'
-aS'117'
-p4898
-aVAustralia
-p4899
-aVNew South Wales
-p4900
-ag9
-aa(lp4901
-S'Brett Papworth'
-p4902
-aS'1985'
-p4903
-aS'Centre'
-p4904
-aS'NSW'
-p4905
-aS'16'
-p4906
+aa(lp4835
+S'Steve Tuynman'
+p4836
+aS'1983'
+p4837
+aS'No. 8'
+p4838
+aS'34'
+p4839
+aS'21'
+p4840
 aS'11'
-p4907
+p4841
+aS'2'
 aS'5'
 aS'20'
-p4908
+p4842
+aS'NSW'
+p4843
 aVAustralia
-p4909
+p4844
 aVNew South Wales
-p4910
+p4845
 ag9
-aa(lp4911
-S'Cameron Lillicrap'
-p4912
-aS'1985'
-p4913
-aS'Prop'
-p4914
-aS'QLD'
-p4915
-aS'7'
-aS'5'
-aS'0'
-aS'0'
+aa(lp4846
+S'Tom Lawton'
+p4847
+aS'1983'
+p4848
+aS'Hooker'
+p4849
+aS'41'
+p4850
+aS'24'
+p4851
+aS'14'
+p4852
+aS'3'
+aS'4'
+aS'16'
+p4853
+aS'Darwin'
+p4854
 aVAustralia
-p4916
+p4855
+aVNorthern Territory
+p4856
+aVDarwin
+p4857
+aa(lp4858
+S'Bill Campbell'
+p4859
+aS'1984'
+p4860
+aS'Lock'
+p4861
+aS'22'
+p4862
+aS'14'
+p4863
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p4864
+aVAustralia
+p4865
 aVQueensland
-p4917
+p4866
 ag9
-aa(lp4918
-S'Michael Cook'
+aa(lp4867
+S'Nigel Holt'
+p4868
+aS'1984'
+p4869
+aS'Lock'
+p4870
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p4871
+aVAustralia
+p4872
+aVQueensland
+p4873
+ag9
+aa(lp4874
+S'Michael Lynagh'
+p4875
+aS'1984'
+p4876
+aS'Fly-half'
+p4877
+aS'72'
+p4878
+aS'51'
+p4879
+aS'20'
+p4880
+aS'1'
+aS'17'
+p4881
+aS'911'
+p4882
+aS'QLD'
+p4883
+aVAustralia
+p4884
+aVQueensland
+p4885
+ag9
+aa(lp4886
+S'Ross Reynolds'
+p4887
+aS'1984'
+p4888
+aS'No. 8'
+p4889
+aS'10'
+p4890
+aS'8'
+aS'2'
+aS'0'
+aS'2'
+aS'8'
+aS'NSW'
+p4891
+aVAustralia
+p4892
+aVNew South Wales
+p4893
+ag9
+aa(lp4894
+S'Topo Rodriguez'
+p4895
+aS'1979'
+p4896
+aS'Prop'
+p4897
+aS'43'
+p4898
+aS'25'
+p4899
+aS'16'
+p4900
+aS'2'
+aS'0'
+aS'0'
+aS'Cordoba'
+p4901
+aVEspaña
+p4902
+aVAndalucía
+p4903
+aVCórdoba
+p4904
+aa(lp4905
+S'Nick Farr-Jones'
+p4906
+aS'1984'
+p4907
+aS'Scrum-half'
+p4908
+aS'63'
+p4909
+aS'42'
+p4910
+aS'20'
+p4911
+aS'1'
+aS'9'
+aS'37'
+p4912
+aS'NSW'
+p4913
+aVAustralia
+p4914
+aVNew South Wales
+p4915
+ag9
+aa(lp4916
+S'Matthew Burke'
+p4917
+aS'1984'
+p4918
+aS'Wing'
 p4919
-aS'1986'
+aS'23'
 p4920
-aS'Centre'
+aS'16'
 p4921
-aS'Vic'
+aS'6'
+aS'1'
+aS'15'
 p4922
-aS'11'
+aS'60'
 p4923
-aS'7'
+aS'NSW'
+p4924
+aVAustralia
+p4925
+aVNew South Wales
+p4926
+ag9
+aa(lp4927
+S'James Black'
+p4928
+aS'1985'
+p4929
+aS'Fullback'
+p4930
+aS'4'
+aS'3'
+aS'1'
+aS'0'
 aS'1'
 aS'4'
-aVAustralia
-p4924
-aVVictoria
-p4925
-ag9
-aa(lp4926
-S'Damien Frawley'
-p4927
-aS'1986'
-p4928
-aS'Lock'
-p4929
-aS'Qld'
-p4930
-aS'10'
+aS'NSW'
 p4931
-aS'5'
-aS'0'
-aS'0'
 aVAustralia
 p4932
-aVQueensland
+aVNew South Wales
 p4933
 ag9
 aa(lp4934
-S'Mark Hartill'
+S'Bill Calcraft'
 p4935
-aS'1986'
+aS'1985'
 p4936
-aS'Prop'
+aS'Flanker'
 p4937
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
 aS'NSW'
 p4938
-aS'20'
+aVAustralia
 p4939
-aS'10'
+aVNew South Wales
 p4940
-aS'1'
-aS'4'
-aVAustralia
-p4941
-aVNew South Wales
+ag9
+aa(lp4941
+S'Nigel Kassulke'
 p4942
-ag9
-aa(lp4943
-S'Jeff Miller'
+aS'1985'
+p4943
+aS'Centre'
 p4944
-aS'1986'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'Qld'
 p4945
-aS'Flanker'
+aVAustralia
 p4946
-aS'United States'
+aVQueensland
 p4947
-aS'26'
-p4948
-aS'14'
+ag9
+aa(lp4948
+S'Tim Lane'
 p4949
-aS'1'
-aS'4'
-aVUnited States of America
+aS'1985'
 p4950
-ag9
-ag9
-aa(lp4951
-S'Andrew Leeds'
-p4952
-aS'1986'
-p4953
-aS'Fullback'
-p4954
-aS'NSW'
-p4955
-aS'14'
-p4956
-aS'6'
-aS'5'
-aS'43'
-p4957
-aVAustralia
-p4958
-aVNew South Wales
-p4959
-ag9
-aa(lp4960
-S'Brian Smith'
-p4961
-aS'1987'
-p4962
-aS'Scrum-half'
-p4963
-aS'St George'
-p4964
-aS'15'
-p4965
-aS'6'
-aS'4'
-aS'52'
-p4966
-aVUnited States of America
-p4967
-aVUtah
-p4968
-aVWashington County
-p4969
-aa(lp4970
-S'Anthony Herbert'
-p4971
-aS'1987'
-p4972
 aS'Centre'
-p4973
-aS'QLD'
-p4974
-aS'10'
-p4975
-aS'6'
-aS'1'
-aS'5'
-aVAustralia
-p4976
-aVQueensland
-p4977
-ag9
-aa(lp4978
-S'Steve James'
-p4979
-aS'1987'
-p4980
-aS'Fly-half'
-p4981
-aS'NSW'
-p4982
-aS'6'
-aS'2'
-aS'1'
-aS'4'
-aVAustralia
-p4983
-aVNew South Wales
-p4984
-ag9
-aa(lp4985
-S'Troy Coker'
-p4986
-aS'1987'
-p4987
-aS'No. 8'
-p4988
-aS'QLD'
-p4989
-aS'27'
-p4990
-aS'16'
-p4991
-aS'0'
-aS'0'
-aVAustralia
-p4992
-aVQueensland
-p4993
-ag9
-aa(lp4994
-S'Steve Lidbury'
-p4995
-aS'1987'
-p4996
-aS'No. 8'
-p4997
-aS'NSW'
-p4998
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p4999
-aVNew South Wales
-p5000
-ag9
-aa(lp5001
-S'Ian Williams'
-p5002
-aS'1987'
-p5003
-aS'Wing'
-p5004
-aS'NSW'
-p5005
-aS'18'
-p5006
-aS'6'
-aS'11'
-p5007
-aS'45'
-p5008
-aVAustralia
-p5009
-aVNew South Wales
-p5010
-ag9
-aa(lp5011
-S'Julian Gardner'
-p5012
-aS'1987'
-p5013
-aS'Flanker'
-p5014
-aS'QLD'
-p5015
-aS'24'
-p5016
-aS'12'
-p5017
-aS'4'
-aS'20'
-p5018
-aVAustralia
-p5019
-aVQueensland
-p5020
-ag9
-aa(lp5021
-S'David Carter'
-p5022
-aS'1988'
-p5023
-aS'No. 8'
-p5024
-aS'NSW'
-p5025
-aS'5'
+p4951
 aS'3'
+aS'2'
 aS'1'
-aS'4'
-aVAustralia
-p5026
-aVNew South Wales
-p5027
-ag9
-aa(lp5028
-S'James Grant'
-p5029
-aS'1988'
-p5030
-aS'Centre'
-p5031
-aS'NSW'
-p5032
-aS'4'
-aS'1'
+aS'0'
 aS'2'
 aS'8'
+aS'NSW'
+p4952
 aVAustralia
-p5033
+p4953
 aVNew South Wales
-p5034
+p4954
 ag9
-aa(lp5035
-S'Rob Lawton'
-p5036
-aS'1988'
-p5037
-aS'Prop'
-p5038
-aS'Trengganu'
-p5039
+aa(lp4955
+S'David Knox'
+p4956
+aS'1985'
+p4957
+aS'Fly-half'
+p4958
+aS'13'
+p4959
+aS'10'
+p4960
+aS'3'
+aS'0'
+aS'2'
+aS'117'
+p4961
+aS'NSW'
+p4962
+aVAustralia
+p4963
+aVNew South Wales
+p4964
+ag9
+aa(lp4965
+S'Brett Papworth'
+p4966
+aS'1985'
+p4967
+aS'Centre'
+p4968
+aS'16'
+p4969
+aS'11'
+p4970
 aS'4'
+aS'1'
+aS'5'
+aS'20'
+p4971
+aS'NSW'
+p4972
+aVAustralia
+p4973
+aVNew South Wales
+p4974
+ag9
+aa(lp4975
+S'Cameron Lillicrap'
+p4976
+aS'1985'
+p4977
+aS'Prop'
+p4978
+aS'7'
+aS'5'
 aS'2'
 aS'0'
 aS'0'
-aVMalaysia
-p5040
-aVTerengganu / \u062a\u0631\u06a0\u06ac\u0627\u0646\u0648
-p5041
+aS'0'
+aS'QLD'
+p4979
+aVAustralia
+p4980
+aVQueensland
+p4981
 ag9
-aa(lp5042
-S'Peter Kay'
-p5043
-aS'1988'
-p5044
+aa(lp4982
+S'Michael Cook'
+p4983
+aS'1986'
+p4984
+aS'Centre'
+p4985
+aS'11'
+p4986
+aS'7'
+aS'3'
+aS'1'
+aS'1'
+aS'4'
+aS'Vic'
+p4987
+aVAustralia
+p4988
+aVVictoria
+p4989
+ag9
+aa(lp4990
+S'Damien Frawley'
+p4991
+aS'1986'
+p4992
+aS'Lock'
+p4993
+aS'10'
+p4994
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'Qld'
+p4995
+aVAustralia
+p4996
+aVQueensland
+p4997
+ag9
+aa(lp4998
+S'Mark Hartill'
+p4999
+aS'1986'
+p5000
 aS'Prop'
+p5001
+aS'20'
+p5002
+aS'10'
+p5003
+aS'8'
+aS'2'
+aS'1'
+aS'4'
+aS'NSW'
+p5004
+aVAustralia
+p5005
+aVNew South Wales
+p5006
+ag9
+aa(lp5007
+S'Jeff Miller'
+p5008
+aS'1986'
+p5009
+aS'Flanker'
+p5010
+aS'26'
+p5011
+aS'14'
+p5012
+aS'10'
+p5013
+aS'2'
+aS'1'
+aS'4'
+aS'United States'
+p5014
+aVUnited States of America
+p5015
+ag9
+ag9
+aa(lp5016
+S'Andrew Leeds'
+p5017
+aS'1986'
+p5018
+aS'Fullback'
+p5019
+aS'14'
+p5020
+aS'6'
+aS'6'
+aS'2'
+aS'5'
+aS'43'
+p5021
+aS'NSW'
+p5022
+aVAustralia
+p5023
+aVNew South Wales
+p5024
+ag9
+aa(lp5025
+S'Brian Smith'
+p5026
+aS'1987'
+p5027
+aS'Scrum-half'
+p5028
+aS'15'
+p5029
+aS'6'
+aS'7'
+aS'2'
+aS'4'
+aS'52'
+p5030
+aS'St George'
+p5031
+aVUnited States of America
+p5032
+aVUtah
+p5033
+aVWashington County
+p5034
+aa(lp5035
+S'Anthony Herbert'
+p5036
+aS'1987'
+p5037
+aS'Centre'
+p5038
+aS'10'
+p5039
+aS'6'
+aS'4'
+aS'0'
+aS'1'
+aS'5'
+aS'QLD'
+p5040
+aVAustralia
+p5041
+aVQueensland
+p5042
+ag9
+aa(lp5043
+S'Steve James'
+p5044
+aS'1987'
 p5045
-aS'SA'
+aS'Fly-half'
 p5046
+aS'6'
+aS'2'
+aS'2'
+aS'2'
 aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVÖsterreich
+aS'4'
+aS'NSW'
 p5047
-aV5020
+aVAustralia
 p5048
-aVSalzburg
+aVNew South Wales
 p5049
+ag9
 aa(lp5050
-S'Tim Gavin'
+S'Troy Coker'
 p5051
-aS'1988'
+aS'1987'
 p5052
 aS'No. 8'
 p5053
-aS'NSW'
+aS'27'
 p5054
-aS'47'
+aS'16'
 p5055
-aS'31'
+aS'11'
 p5056
-aS'9'
-aS'40'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
 p5057
 aVAustralia
 p5058
-aVNew South Wales
+aVQueensland
 p5059
 ag9
 aa(lp5060
-S'Lloyd Walker'
+S'Steve Lidbury'
 p5061
-aS'1988'
+aS'1987'
 p5062
-aS'Centre'
+aS'No. 8'
 p5063
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
 aS'NSW'
 p5064
-aS'8'
-aS'3'
-aS'2'
-aS'8'
 aVAustralia
 p5065
 aVNew South Wales
 p5066
 ag9
 aa(lp5067
-S'Brad Girvan'
+S'Ian Williams'
 p5068
-aS'1988'
+aS'1987'
 p5069
-aS'Centre'
-p5070
-aS'ACT'
-p5071
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p5072
-aVAustralian Capital Territory
-p5073
-ag9
-aa(lp5074
-S'Scott Gourley'
-p5075
-aS'1988'
-p5076
-aS'Flanker'
-p5077
-aS'NSW'
-p5078
-aS'5'
-aS'3'
-aS'3'
-aS'12'
-p5079
-aVAustralia
-p5080
-aVNew South Wales
-p5081
-ag9
-aa(lp5082
-S'Acura Niuqila'
-p5083
-aS'1983'
-p5084
 aS'Wing'
-p5085
-aS'Wainibokasi'
-p5086
+p5070
 aS'18'
+p5071
+aS'6'
+aS'10'
+p5072
+aS'2'
+aS'11'
+p5073
+aS'45'
+p5074
+aS'NSW'
+p5075
+aVAustralia
+p5076
+aVNew South Wales
+p5077
+ag9
+aa(lp5078
+S'Julian Gardner'
+p5079
+aS'1987'
+p5080
+aS'Flanker'
+p5081
+aS'24'
+p5082
+aS'12'
+p5083
+aS'12'
+p5084
+aS'0'
+aS'4'
+aS'20'
+p5085
+aS'QLD'
+p5086
+aVAustralia
 p5087
-aS'9'
-aS'9'
-aS'36'
+aVQueensland
 p5088
-aS'g'
-aS'n'
-aS'i'
+ag9
 aa(lp5089
-S'Brad Burke'
+S'David Carter'
 p5090
 aS'1988'
 p5091
-aS'Scrum-half'
+aS'No. 8'
 p5092
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
 aS'NSW'
 p5093
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVAustralia
 p5094
 aVNew South Wales
 p5095
 ag9
 aa(lp5096
-S'Dan Crowley'
+S'James Grant'
 p5097
-aS'1989'
+aS'1988'
 p5098
-aS'Prop'
-p5099
-aS'QLD'
-p5100
-aS'38'
-p5101
-aS'28'
-p5102
-aS'1'
-aS'5'
-aVAustralia
-p5103
-aVQueensland
-p5104
-ag9
-aa(lp5105
-S'Dominic Maguire'
-p5106
-aS'1989'
-p5107
 aS'Centre'
-p5108
-aS'QLD'
-p5109
-aS'3'
-aS'1'
-aS'1'
+p5099
 aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'2'
+aS'8'
+aS'NSW'
+p5100
 aVAustralia
-p5110
-aVQueensland
-p5111
+p5101
+aVNew South Wales
+p5102
 ag9
-aa(lp5112
-S'Greg Martin'
+aa(lp5103
+S'Rob Lawton'
+p5104
+aS'1988'
+p5105
+aS'Prop'
+p5106
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Trengganu'
+p5107
+aVMalaysia
+p5108
+aVTerengganu / \u062a\u0631\u06a0\u06ac\u0627\u0646\u0648
+p5109
+ag9
+aa(lp5110
+S'Peter Kay'
+p5111
+aS'1988'
+p5112
+aS'Prop'
 p5113
-aS'1989'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'SA'
 p5114
-aS'Fullback'
+aVÖsterreich
 p5115
-aS'QLD'
+aV5020
 p5116
+aVSalzburg
+p5117
+aa(lp5118
+S'Tim Gavin'
+p5119
+aS'1988'
+p5120
+aS'No. 8'
+p5121
+aS'47'
+p5122
+aS'31'
+p5123
+aS'15'
+p5124
+aS'1'
 aS'9'
+aS'40'
+p5125
+aS'NSW'
+p5126
+aVAustralia
+p5127
+aVNew South Wales
+p5128
+ag9
+aa(lp5129
+S'Lloyd Walker'
+p5130
+aS'1988'
+p5131
+aS'Centre'
+p5132
+aS'8'
 aS'3'
+aS'4'
+aS'1'
+aS'2'
+aS'8'
+aS'NSW'
+p5133
+aVAustralia
+p5134
+aVNew South Wales
+p5135
+ag9
+aa(lp5136
+S'Brad Girvan'
+p5137
+aS'1988'
+p5138
+aS'Centre'
+p5139
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'ACT'
+p5140
+aVAustralia
+p5141
+aVAustralian Capital Territory
+p5142
+ag9
+aa(lp5143
+S'Scott Gourley'
+p5144
+aS'1988'
+p5145
+aS'Flanker'
+p5146
+aS'5'
+aS'3'
+aS'2'
+aS'0'
 aS'3'
 aS'12'
-p5117
-aVAustralia
-p5118
-aVQueensland
-p5119
-ag9
-aa(lp5120
-S'Tony Daly'
-p5121
-aS'1989'
-p5122
-aS'Prop'
-p5123
-aS'NSW'
-p5124
-aS'41'
-p5125
-aS'31'
-p5126
-aS'4'
-aS'17'
-p5127
-aVAustralia
-p5128
-aVNew South Wales
-p5129
-ag9
-aa(lp5130
-S'Tim Horan'
-p5131
-aS'1989'
-p5132
-aS'Centre, Fly-half'
-p5133
-aS'NSW'
-p5134
-aS'80'
-p5135
-aS'59'
-p5136
-aS'30'
-p5137
-aS'140'
-p5138
-aVAustralia
-p5139
-aVNew South Wales
-p5140
-ag9
-aa(lp5141
-S'Phil Kearns'
-p5142
-aS'1989'
-p5143
-aS'Hooker'
-p5144
-aS'NSW'
-p5145
-aS'67'
-p5146
-aS'50'
 p5147
-aS'8'
-aS'34'
+aS'NSW'
 p5148
 aVAustralia
 p5149
@@ -12640,1315 +13898,1434 @@ aVNew South Wales
 p5150
 ag9
 aa(lp5151
-S'Peter FitzSimons'
+S'Acura Niuqila'
 p5152
-aS'1989'
+aS'1983'
 p5153
-aS'Lock'
+aS'Wing'
 p5154
-aS'NSW'
+aS'18'
 p5155
-aS'7'
-aS'4'
+aS'9'
+aS'9'
 aS'0'
-aS'0'
-aVAustralia
+aS'9'
+aS'36'
 p5156
-aVNew South Wales
+aS'Wainibokasi'
 p5157
-ag9
-aa(lp5158
-S'Jason Little'
-p5159
-aS'1989'
-p5160
-aS'Centre'
-p5161
-aS'Qld'
-p5162
-aS'75'
-p5163
-aS'58'
-p5164
-aS'21'
-p5165
-aS'102'
-p5166
-aVAustralia
-p5167
-aVQueensland
-p5168
-ag9
-aa(lp5169
-S'Rod McCall'
-p5170
-aS'1989'
-p5171
-aS'Lock'
-p5172
-aS'QLD'
-p5173
-aS'40'
-p5174
-aS'29'
-p5175
-aS'1'
-aS'5'
-aVAustralia
-p5176
-aVQueensland
-p5177
-ag9
-aa(lp5178
-S'Brendon Nasser'
-p5179
-aS'1989'
-p5180
-aS'Flanker'
-p5181
-aS'QLD'
-p5182
-aS'8'
-aS'5'
-aS'0'
-aS'0'
-aVAustralia
-p5183
-aVQueensland
-p5184
-ag9
-aa(lp5185
-S'Darren Junee'
-p5186
-aS'1989'
-p5187
-aS'Fullback'
-p5188
-aS'NSW'
-p5189
-aS'4'
-aS'3'
-aS'1'
-aS'5'
-aVAustralia
-p5190
-aVNew South Wales
-p5191
-ag9
-aa(lp5192
-S'Paul Carozza'
-p5193
-aS'1990'
-p5194
-aS'Wing'
-p5195
-aS'QLD'
-p5196
-aS'15'
-p5197
-aS'11'
-p5198
-aS'9'
-aS'41'
-p5199
-aVAustralia
-p5200
-aVQueensland
-p5201
-ag9
-aa(lp5202
-S'Ewen McKenzie'
-p5203
-aS'1990'
-p5204
-aS'Prop'
-p5205
-aS'VIC'
-p5206
-aS'51'
-p5207
-aS'39'
-p5208
-aS'2'
-aS'9'
-aVAustralia
-p5209
-aVVictoria
-p5210
-ag9
-aa(lp5211
-S'Paul Cornish'
-p5212
-aS'1990'
-p5213
-aS'Centre'
-p5214
-aS'ACT'
-p5215
-aS'3'
-aS'1'
-aS'1'
-aS'4'
-aVAustralia
-p5216
-aVAustralian Capital Territory
-p5217
-ag9
-aa(lp5218
-S'Sam Scott-Young'
-p5219
-aS'1990'
-p5220
-aS'No. 8'
-p5221
-aS'Qld'
-p5222
-aS'7'
-aS'5'
-aS'0'
-aS'0'
-aVAustralia
-p5223
-aVQueensland
-p5224
-ag9
-aa(lp5225
-S'John Flett'
-p5226
-aS'1990'
-p5227
-aS'Wing'
-p5228
-aS'NSW'
-p5229
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p5230
-aVNew South Wales
-p5231
-ag9
-aa(lp5232
-S'Peter Slattery'
-p5233
-aS'1990'
-p5234
-aS'Scrum-half'
-p5235
-aS'QLD'
-p5236
-aS'17'
-p5237
-aS'16'
-p5238
-aS'2'
-aS'8'
-aVAustralia
-p5239
-aVQueensland
-p5240
-ag9
-aa(lp5241
-S'Willie Ofahengaue'
-p5242
-aS'1990'
-p5243
-aS'Flanker'
-p5244
-aS"Kolofo'ou"
-p5245
-aS'41'
-p5246
-aS'30'
-p5247
-aS'11'
-p5248
-aS'51'
-p5249
-aVTonga
-p5250
-aVVava\u02bbu
-p5251
-aVVahe Neiafu
-p5252
-aa(lp5253
-S'John Eales'
-p5254
-aS'1991'
-p5255
-aS'Lock'
-p5256
-aS'QLD'
-p5257
-aS'86'
-p5258
-aS'66'
-p5259
-aS'2'
-aS'173'
-p5260
-aVAustralia
-p5261
-aVQueensland
-p5262
-ag9
-aa(lp5263
-S'Bob Egerton'
-p5264
-aS'1991'
-p5265
-aS'Wing'
-p5266
-aS'New Guinea'
-p5267
-aS'9'
-aS'8'
-aS'2'
-aS'8'
-aVPapua Niugini
-p5268
-aVPapua Region
-p5269
-aVWestern
-p5270
-aa(lp5271
-S'Marty Roebuck'
-p5272
-aS'1991'
-p5273
-aS'Fullback'
-p5274
-aS'NSW'
-p5275
-aS'23'
-p5276
-aS'20'
-p5277
-aS'5'
-aS'114'
-p5278
-aVAustralia
-p5279
-aVNew South Wales
-p5280
-ag9
-aa(lp5281
-S'David Nucifora'
-p5282
-aS'1991'
-p5283
-aS'Hooker'
-p5284
-aS'QLD'
-p5285
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p5286
-aVQueensland
-p5287
-ag9
-aa(lp5288
-S'Richard Tombs'
-p5289
-aS'1992'
-p5290
-aS'Centre'
-p5291
-aS'Te Kuiti'
-p5292
-aS'5'
-aS'4'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p5293
-aVWaikato
-p5294
-aVWaitomo District
-p5295
-aa(lp5296
-S'David Wilson'
-p5297
-aS'1992'
-p5298
-aS'Flanker'
-p5299
-aS'QLD'
-p5300
-aS'79'
-p5301
-aS'60'
-p5302
-aS'13'
-p5303
-aS'65'
-p5304
-aVAustralia
-p5305
-aVQueensland
-p5306
-ag9
-aa(lp5307
-S'Peter Jorgensen'
-p5308
-aS'1992'
-p5309
-aS'Centre'
-p5310
-aS'NSW'
-p5311
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p5312
-aVNew South Wales
-p5313
-ag9
-aa(lp5314
-S'Tim Kelaher'
-p5315
-aS'1992'
-p5316
-aS'Fullback'
-p5317
-aS'Gosford'
-p5318
-aS'3'
-aS'2'
-aS'1'
-aS'10'
-p5319
-aVAustralia
-p5320
-aVNew South Wales
-p5321
-aVGosford
-p5322
-aa(lp5323
-S'Garrick Morgan'
-p5324
-aS'1992'
-p5325
-aS'Lock'
-p5326
-aS'NSW'
-p5327
-aS'24'
-p5328
-aS'17'
-p5329
-aS'3'
-aS'15'
-p5330
-aVAustralia
-p5331
-aVNew South Wales
-p5332
-ag9
-aa(lp5333
-S'Paul Kahl'
-p5334
-aS'1992'
-p5335
-aS'Fly-half'
-p5336
-aS'QLD'
-p5337
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p5338
-aVQueensland
-p5339
-ag9
-aa(lp5340
-S'Brett Johnstone'
-p5341
-aS'1993'
-p5342
-aS'Scrum-half'
-p5343
-aS'Qld'
-p5344
-aS'1'
-aS'1'
-aS'1'
-aS'5'
-aVAustralia
-p5345
-aVQueensland
-p5346
-ag9
-aa(lp5347
-S'Pat Howard'
-p5348
-aS'1993'
-p5349
-aS'Centre'
-p5350
-aS'NSW'
-p5351
-aS'20'
-p5352
-aS'12'
-p5353
-aS'2'
-aS'10'
-p5354
-aVAustralia
-p5355
-aVNew South Wales
-p5356
-ag9
-aa(lp5357
-S'Scott Bowen'
-p5358
-aS'1993'
-p5359
-aS'Fly-half'
-p5360
-aS'NSW'
-p5361
-aS'9'
-aS'4'
-aS'0'
-aS'0'
-aVAustralia
-p5362
-aVNew South Wales
-p5363
-ag9
-aa(lp5364
-S'Damian Smith'
-p5365
-aS'1993'
-p5366
-aS'Wing'
-p5367
-aS'QLD'
-p5368
-aS'21'
-p5369
-aS'15'
-p5370
-aS'10'
-p5371
-aS'50'
-p5372
-aVAustralia
-p5373
-aVQueensland
-p5374
-ag9
-aa(lp5375
-S'Warwick Waugh'
-p5376
-aS'1993'
-p5377
-aS'Lock'
-p5378
-aS'Canberra'
-p5379
-aS'8'
-aS'4'
-aS'1'
-aS'5'
-aVAustralia
-p5380
-aVAustralian Capital Territory
-p5381
-aVCanberra
-p5382
-aa(lp5383
-S'Ilie Tabua Tamanivalu'
-p5384
-aS'1990'
-p5385
-aS'Flanker'
-p5386
-aS'Naivicula'
-p5387
-aS'26'
-p5388
-aS'19'
-p5389
-aS'3'
-aS'15'
-p5390
 aS'g'
 aS'n'
 aS'i'
-aa(lp5391
-S'Matt Burke'
-p5392
-aS'1993'
-p5393
-aS'Fullback'
-p5394
-aS'NSW'
-p5395
-aS'81'
-p5396
-aS'55'
-p5397
-aS'29'
-p5398
-aS'878'
-p5399
-aVAustralia
-p5400
-aVNew South Wales
-p5401
-ag9
-aa(lp5402
-S'Alistair Murdoch'
-p5403
-aS'1993'
-p5404
-aS'Centre'
-p5405
-aS'NSW'
-p5406
-aS'2'
+aa(lp5158
+S'Brad Burke'
+p5159
+aS'1988'
+p5160
+aS'Scrum-half'
+p5161
 aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p5162
+aVAustralia
+p5163
+aVNew South Wales
+p5164
+ag9
+aa(lp5165
+S'Dan Crowley'
+p5166
+aS'1989'
+p5167
+aS'Prop'
+p5168
+aS'38'
+p5169
+aS'28'
+p5170
+aS'10'
+p5171
+aS'0'
 aS'1'
 aS'5'
+aS'QLD'
+p5172
 aVAustralia
-p5407
-aVNew South Wales
-p5408
+p5173
+aVQueensland
+p5174
 ag9
-aa(lp5409
-S'Mike Brial'
-p5410
-aS'1993'
-p5411
-aS'Back-row'
-p5412
+aa(lp5175
+S'Dominic Maguire'
+p5176
+aS'1989'
+p5177
+aS'Centre'
+p5178
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'QLD'
+p5179
+aVAustralia
+p5180
+aVQueensland
+p5181
+ag9
+aa(lp5182
+S'Greg Martin'
+p5183
+aS'1989'
+p5184
+aS'Fullback'
+p5185
+aS'9'
+aS'3'
+aS'6'
+aS'0'
+aS'3'
+aS'12'
+p5186
+aS'QLD'
+p5187
+aVAustralia
+p5188
+aVQueensland
+p5189
+ag9
+aa(lp5190
+S'Tony Daly'
+p5191
+aS'1989'
+p5192
+aS'Prop'
+p5193
+aS'41'
+p5194
+aS'31'
+p5195
+aS'10'
+p5196
+aS'0'
+aS'4'
+aS'17'
+p5197
 aS'NSW'
-p5413
-aS'13'
-p5414
+p5198
+aVAustralia
+p5199
+aVNew South Wales
+p5200
+ag9
+aa(lp5201
+S'Tim Horan'
+p5202
+aS'1989'
+p5203
+aS'Centre, Fly-half'
+p5204
+aS'80'
+p5205
+aS'59'
+p5206
+aS'20'
+p5207
+aS'1'
+aS'30'
+p5208
+aS'140'
+p5209
+aS'NSW'
+p5210
+aVAustralia
+p5211
+aVNew South Wales
+p5212
+ag9
+aa(lp5213
+S'Phil Kearns'
+p5214
+aS'1989'
+p5215
+aS'Hooker'
+p5216
+aS'67'
+p5217
+aS'50'
+p5218
+aS'17'
+p5219
+aS'0'
+aS'8'
+aS'34'
+p5220
+aS'NSW'
+p5221
+aVAustralia
+p5222
+aVNew South Wales
+p5223
+ag9
+aa(lp5224
+S'Peter FitzSimons'
+p5225
+aS'1989'
+p5226
+aS'Lock'
+p5227
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p5228
+aVAustralia
+p5229
+aVNew South Wales
+p5230
+ag9
+aa(lp5231
+S'Jason Little'
+p5232
+aS'1989'
+p5233
+aS'Centre'
+p5234
+aS'75'
+p5235
+aS'58'
+p5236
+aS'17'
+p5237
+aS'0'
+aS'21'
+p5238
+aS'102'
+p5239
+aS'Qld'
+p5240
+aVAustralia
+p5241
+aVQueensland
+p5242
+ag9
+aa(lp5243
+S'Rod McCall'
+p5244
+aS'1989'
+p5245
+aS'Lock'
+p5246
+aS'40'
+p5247
+aS'29'
+p5248
+aS'11'
+p5249
+aS'0'
+aS'1'
+aS'5'
+aS'QLD'
+p5250
+aVAustralia
+p5251
+aVQueensland
+p5252
+ag9
+aa(lp5253
+S'Brendon Nasser'
+p5254
+aS'1989'
+p5255
+aS'Flanker'
+p5256
+aS'8'
+aS'5'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p5257
+aVAustralia
+p5258
+aVQueensland
+p5259
+ag9
+aa(lp5260
+S'Darren Junee'
+p5261
+aS'1989'
+p5262
+aS'Fullback'
+p5263
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'NSW'
+p5264
+aVAustralia
+p5265
+aVNew South Wales
+p5266
+ag9
+aa(lp5267
+S'Paul Carozza'
+p5268
+aS'1990'
+p5269
+aS'Wing'
+p5270
+aS'15'
+p5271
+aS'11'
+p5272
+aS'4'
+aS'0'
+aS'9'
+aS'41'
+p5273
+aS'QLD'
+p5274
+aVAustralia
+p5275
+aVQueensland
+p5276
+ag9
+aa(lp5277
+S'Ewen McKenzie'
+p5278
+aS'1990'
+p5279
+aS'Prop'
+p5280
+aS'51'
+p5281
+aS'39'
+p5282
+aS'12'
+p5283
+aS'0'
+aS'2'
+aS'9'
+aS'VIC'
+p5284
+aVAustralia
+p5285
+aVVictoria
+p5286
+ag9
+aa(lp5287
+S'Paul Cornish'
+p5288
+aS'1990'
+p5289
+aS'Centre'
+p5290
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'ACT'
+p5291
+aVAustralia
+p5292
+aVAustralian Capital Territory
+p5293
+ag9
+aa(lp5294
+S'Sam Scott-Young'
+p5295
+aS'1990'
+p5296
+aS'No. 8'
+p5297
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p5298
+aVAustralia
+p5299
+aVQueensland
+p5300
+ag9
+aa(lp5301
+S'John Flett'
+p5302
+aS'1990'
+p5303
+aS'Wing'
+p5304
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p5305
+aVAustralia
+p5306
+aVNew South Wales
+p5307
+ag9
+aa(lp5308
+S'Peter Slattery'
+p5309
+aS'1990'
+p5310
+aS'Scrum-half'
+p5311
+aS'17'
+p5312
+aS'16'
+p5313
+aS'1'
+aS'0'
+aS'2'
+aS'8'
+aS'QLD'
+p5314
+aVAustralia
+p5315
+aVQueensland
+p5316
+ag9
+aa(lp5317
+S'Willie Ofahengaue'
+p5318
+aS'1990'
+p5319
+aS'Flanker'
+p5320
+aS'41'
+p5321
+aS'30'
+p5322
+aS'10'
+p5323
+aS'1'
+aS'11'
+p5324
+aS'51'
+p5325
+aS"Kolofo'ou"
+p5326
+aVTonga
+p5327
+aVVava\u02bbu
+p5328
+aVVahe Neiafu
+p5329
+aa(lp5330
+S'John Eales'
+p5331
+aS'1991'
+p5332
+aS'Lock'
+p5333
+aS'86'
+p5334
+aS'66'
+p5335
+aS'18'
+p5336
+aS'2'
+aS'2'
+aS'173'
+p5337
+aS'QLD'
+p5338
+aVAustralia
+p5339
+aVQueensland
+p5340
+ag9
+aa(lp5341
+S'Bob Egerton'
+p5342
+aS'1991'
+p5343
+aS'Wing'
+p5344
+aS'9'
 aS'8'
 aS'1'
-aS'5'
-aVAustralia
-p5415
-aVNew South Wales
-p5416
-ag9
-aa(lp5417
-S"Matt O'Connor"
-p5418
-aS'1994'
-p5419
-aS'Centre'
-p5420
-aS'Canberra'
-p5421
-aS'1'
-aS'1'
 aS'0'
-aS'0'
-aVAustralia
-p5422
-aVAustralian Capital Territory
-p5423
-aVCanberra
-p5424
-aa(lp5425
-S'Matt Pini'
-p5426
-aS'1994'
-p5427
+aS'2'
+aS'8'
+aS'New Guinea'
+p5345
+aVPapua Niugini
+p5346
+aVPapua Region
+p5347
+aVWestern
+p5348
+aa(lp5349
+S'Marty Roebuck'
+p5350
+aS'1991'
+p5351
 aS'Fullback'
+p5352
+aS'23'
+p5353
+aS'20'
+p5354
+aS'3'
+aS'0'
+aS'5'
+aS'114'
+p5355
+aS'NSW'
+p5356
+aVAustralia
+p5357
+aVNew South Wales
+p5358
+ag9
+aa(lp5359
+S'David Nucifora'
+p5360
+aS'1991'
+p5361
+aS'Hooker'
+p5362
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p5363
+aVAustralia
+p5364
+aVQueensland
+p5365
+ag9
+aa(lp5366
+S'Richard Tombs'
+p5367
+aS'1992'
+p5368
+aS'Centre'
+p5369
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Te Kuiti'
+p5370
+aVNew Zealand/Aotearoa
+p5371
+aVWaikato
+p5372
+aVWaitomo District
+p5373
+aa(lp5374
+S'David Wilson'
+p5375
+aS'1992'
+p5376
+aS'Flanker'
+p5377
+aS'79'
+p5378
+aS'60'
+p5379
+aS'18'
+p5380
+aS'1'
+aS'13'
+p5381
+aS'65'
+p5382
+aS'QLD'
+p5383
+aVAustralia
+p5384
+aVQueensland
+p5385
+ag9
+aa(lp5386
+S'Peter Jorgensen'
+p5387
+aS'1992'
+p5388
+aS'Centre'
+p5389
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p5390
+aVAustralia
+p5391
+aVNew South Wales
+p5392
+ag9
+aa(lp5393
+S'Tim Kelaher'
+p5394
+aS'1992'
+p5395
+aS'Fullback'
+p5396
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'10'
+p5397
+aS'Gosford'
+p5398
+aVAustralia
+p5399
+aVNew South Wales
+p5400
+aVGosford
+p5401
+aa(lp5402
+S'Garrick Morgan'
+p5403
+aS'1992'
+p5404
+aS'Lock'
+p5405
+aS'24'
+p5406
+aS'17'
+p5407
+aS'7'
+aS'0'
+aS'3'
+aS'15'
+p5408
+aS'NSW'
+p5409
+aVAustralia
+p5410
+aVNew South Wales
+p5411
+ag9
+aa(lp5412
+S'Paul Kahl'
+p5413
+aS'1992'
+p5414
+aS'Fly-half'
+p5415
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p5416
+aVAustralia
+p5417
+aVQueensland
+p5418
+ag9
+aa(lp5419
+S'Brett Johnstone'
+p5420
+aS'1993'
+p5421
+aS'Scrum-half'
+p5422
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Qld'
+p5423
+aVAustralia
+p5424
+aVQueensland
+p5425
+ag9
+aa(lp5426
+S'Pat Howard'
+p5427
+aS'1993'
 p5428
-aS'Canberra'
+aS'Centre'
 p5429
 aS'20'
 p5430
-aS'10'
+aS'12'
 p5431
-aS'4'
-aS'20'
-p5432
-aVAustralia
-p5433
-aVAustralian Capital Territory
-p5434
-aVCanberra
-p5435
-aa(lp5436
-S'Dan Herbert'
-p5437
-aS'1994'
-p5438
-aS'Centre'
-p5439
-aS'QLD'
-p5440
-aS'67'
-p5441
-aS'50'
-p5442
-aS'11'
-p5443
-aS'55'
-p5444
-aVAustralia
-p5445
-aVQueensland
-p5446
-ag9
-aa(lp5447
-S'Ryan Constable'
-p5448
-aS'1994'
-p5449
-aS'Centre'
-p5450
-aS'Durban'
-p5451
+aS'7'
 aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVSouth Africa
-p5452
-aVKwaZulu-Natal
-p5453
-aVeThekwini Metropolitan Municipality
-p5454
-aa(lp5455
-S'George Gregan'
-p5456
-aS'1994'
-p5457
-aS'Scrum-half'
-p5458
-aS'Lusaka'
-p5459
-aS'139'
-p5460
-aS'93'
-p5461
-aS'18'
-p5462
-aS'99'
-p5463
-aVZambia
-p5464
-aVLusaka Province
-p5465
-aVLusaka
-p5466
-aa(lp5467
-S'Tim Wallace'
-p5468
-aS'1994'
-p5469
-aS'Fly-half'
-p5470
-aS'NSW'
-p5471
 aS'2'
-aS'2'
-aS'0'
-aS'20'
-p5472
-aVAustralia
-p5473
-aVNew South Wales
-p5474
-ag9
-aa(lp5475
-S'Joe Roff'
-p5476
-aS'1995'
-p5477
-aS'Fullback, Wing'
-p5478
-aS'Victoria'
-p5479
-aS'86'
-p5480
-aS'61'
-p5481
-aS'30'
-p5482
-aS'244'
-p5483
-aVAustralia
-p5484
-aVVictoria
-p5485
-ag9
-aa(lp5486
-S'Michael Foley'
-p5487
-aS'1995'
-p5488
-aS'Hooker'
-p5489
-aS'NSW'
-p5490
-aS'50'
-p5491
-aS'34'
-p5492
-aS'4'
-aS'20'
-p5493
-aVAustralia
-p5494
-aVNew South Wales
-p5495
-ag9
-aa(lp5496
-S'Daniel Manu'
-p5497
-aS'1995'
-p5498
-aS'Flanker'
-p5499
-aS'QLD'
-p5500
-aS'15'
-p5501
 aS'10'
-p5502
+p5432
+aS'NSW'
+p5433
+aVAustralia
+p5434
+aVNew South Wales
+p5435
+ag9
+aa(lp5436
+S'Scott Bowen'
+p5437
+aS'1993'
+p5438
+aS'Fly-half'
+p5439
+aS'9'
+aS'4'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p5440
+aVAustralia
+p5441
+aVNew South Wales
+p5442
+ag9
+aa(lp5443
+S'Damian Smith'
+p5444
+aS'1993'
+p5445
+aS'Wing'
+p5446
+aS'21'
+p5447
+aS'15'
+p5448
+aS'6'
+aS'0'
+aS'10'
+p5449
+aS'50'
+p5450
+aS'QLD'
+p5451
+aVAustralia
+p5452
+aVQueensland
+p5453
+ag9
+aa(lp5454
+S'Warwick Waugh'
+p5455
+aS'1993'
+p5456
+aS'Lock'
+p5457
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'1'
+aS'5'
+aS'Canberra'
+p5458
+aVAustralia
+p5459
+aVAustralian Capital Territory
+p5460
+aVCanberra
+p5461
+aa(lp5462
+S'Ilie Tabua Tamanivalu'
+p5463
+aS'1990'
+p5464
+aS'Flanker'
+p5465
+aS'26'
+p5466
+aS'19'
+p5467
+aS'7'
+aS'0'
 aS'3'
 aS'15'
-p5503
-aVAustralia
-p5504
-aVQueensland
-p5505
-ag9
-aa(lp5506
-S'Steve Merrick'
-p5507
-aS'1995'
-p5508
-aS'Scrum-half'
-p5509
+p5468
+aS'Naivicula'
+p5469
+aS'g'
+aS'n'
+aS'i'
+aa(lp5470
+S'Matt Burke'
+p5471
+aS'1993'
+p5472
+aS'Fullback'
+p5473
+aS'81'
+p5474
+aS'55'
+p5475
+aS'25'
+p5476
+aS'1'
+aS'29'
+p5477
+aS'878'
+p5478
 aS'NSW'
+p5479
+aVAustralia
+p5480
+aVNew South Wales
+p5481
+ag9
+aa(lp5482
+S'Alistair Murdoch'
+p5483
+aS'1993'
+p5484
+aS'Centre'
+p5485
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'NSW'
+p5486
+aVAustralia
+p5487
+aVNew South Wales
+p5488
+ag9
+aa(lp5489
+S'Mike Brial'
+p5490
+aS'1993'
+p5491
+aS'Back-row'
+p5492
+aS'13'
+p5493
+aS'8'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'NSW'
+p5494
+aVAustralia
+p5495
+aVNew South Wales
+p5496
+ag9
+aa(lp5497
+S"Matt O'Connor"
+p5498
+aS'1994'
+p5499
+aS'Centre'
+p5500
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Canberra'
+p5501
+aVAustralia
+p5502
+aVAustralian Capital Territory
+p5503
+aVCanberra
+p5504
+aa(lp5505
+S'Matt Pini'
+p5506
+aS'1994'
+p5507
+aS'Fullback'
+p5508
+aS'20'
+p5509
+aS'10'
 p5510
+aS'10'
+p5511
+aS'0'
+aS'4'
+aS'20'
+p5512
+aS'Canberra'
+p5513
+aVAustralia
+p5514
+aVAustralian Capital Territory
+p5515
+aVCanberra
+p5516
+aa(lp5517
+S'Dan Herbert'
+p5518
+aS'1994'
+p5519
+aS'Centre'
+p5520
+aS'67'
+p5521
+aS'50'
+p5522
+aS'16'
+p5523
+aS'1'
+aS'11'
+p5524
+aS'55'
+p5525
+aS'QLD'
+p5526
+aVAustralia
+p5527
+aVQueensland
+p5528
+ag9
+aa(lp5529
+S'Ryan Constable'
+p5530
+aS'1994'
+p5531
+aS'Centre'
+p5532
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Durban'
+p5533
+aVSouth Africa
+p5534
+aVKwaZulu-Natal
+p5535
+aVeThekwini Metropolitan Municipality
+p5536
+aa(lp5537
+S'George Gregan'
+p5538
+aS'1994'
+p5539
+aS'Scrum-half'
+p5540
+aS'139'
+p5541
+aS'93'
+p5542
+aS'44'
+p5543
+aS'2'
+aS'18'
+p5544
+aS'99'
+p5545
+aS'Lusaka'
+p5546
+aVZambia
+p5547
+aVLusaka Province
+p5548
+aVLusaka
+p5549
+aa(lp5550
+S'Tim Wallace'
+p5551
+aS'1994'
+p5552
+aS'Fly-half'
+p5553
+aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
-p5511
-aVNew South Wales
-p5512
-ag9
-aa(lp5513
-S'Marco Caputo'
-p5514
-aS'1996'
-p5515
-aS'Hooker'
-p5516
-aS'Modena'
-p5517
-aS'5'
-aS'4'
-aS'1'
-aS'5'
-aVItalia
-p5518
-aVEMR
-p5519
-aVMO
-p5520
-aa(lp5521
-S'Owen Finegan'
-p5522
-aS'1996'
-p5523
-aS'Lock, Back-row'
-p5524
-aS'NSW'
-p5525
-aS'55'
-p5526
-aS'37'
-p5527
-aS'6'
-aS'30'
-p5528
-aVAustralia
-p5529
-aVNew South Wales
-p5530
-ag9
-aa(lp5531
-S'Richard Harry'
-p5532
-aS'1996'
-p5533
-aS'Prop'
-p5534
-aS'NSW'
-p5535
-aS'37'
-p5536
-aS'27'
-p5537
-aS'1'
-aS'5'
-aVAustralia
-p5538
-aVNew South Wales
-p5539
-ag9
-aa(lp5540
-S'Sam Payne'
-p5541
-aS'1996'
-p5542
-aS'Scrum-half'
-p5543
-aS'NSW'
-p5544
-aS'6'
-aS'4'
-aS'1'
-aS'5'
-aVAustralia
-p5545
-aVNew South Wales
-p5546
-ag9
-aa(lp5547
-S'Ben Tune'
-p5548
-aS'1996'
-p5549
-aS'Centre'
-p5550
-aS'QLD'
-p5551
-aS'47'
-p5552
-aS'30'
-p5553
-aS'24'
+aS'20'
 p5554
-aS'120'
+aS'NSW'
 p5555
 aVAustralia
 p5556
-aVQueensland
+aVNew South Wales
 p5557
 ag9
 aa(lp5558
-S'Stephen Larkham'
+S'Joe Roff'
 p5559
-aS'1996'
+aS'1995'
 p5560
-aS'Fullback, Fly-half'
+aS'Fullback, Wing'
 p5561
-aS'Canberra'
+aS'86'
 p5562
-aS'102'
+aS'61'
 p5563
-aS'68'
+aS'23'
 p5564
-aS'25'
+aS'2'
+aS'30'
 p5565
-aS'135'
+aS'244'
 p5566
-aVAustralia
+aS'Victoria'
 p5567
-aVAustralian Capital Territory
+aVAustralia
 p5568
-aVCanberra
+aVVictoria
 p5569
+ag9
 aa(lp5570
-S'Mark Bell'
+S'Michael Foley'
 p5571
-aS'1996'
+aS'1995'
 p5572
 aS'Hooker'
 p5573
-aS'NSW'
+aS'50'
 p5574
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
+aS'34'
 p5575
-aVNew South Wales
+aS'14'
 p5576
-ag9
-aa(lp5577
-S'Andrew Heath'
+aS'2'
+aS'4'
+aS'20'
+p5577
+aS'NSW'
 p5578
-aS'1996'
-p5579
-aS'Prop'
-p5580
-aS'VIC'
-p5581
-aS'8'
-aS'4'
-aS'0'
-aS'0'
 aVAustralia
-p5582
-aVVictoria
-p5583
+p5579
+aVNew South Wales
+p5580
 ag9
-aa(lp5584
-S'John Welborn'
+aa(lp5581
+S'Daniel Manu'
+p5582
+aS'1995'
+p5583
+aS'Flanker'
+p5584
+aS'15'
 p5585
-aS'1996'
+aS'10'
 p5586
-aS'Lock'
+aS'5'
+aS'0'
+aS'3'
+aS'15'
 p5587
-aS'WA'
+aS'QLD'
 p5588
-aS'6'
-aS'4'
-aS'0'
-aS'0'
-aVUnited States of America
+aVAustralia
 p5589
-aVWashington
+aVQueensland
 p5590
 ag9
 aa(lp5591
-S'Brett Robinson'
+S'Steve Merrick'
 p5592
-aS'1996'
+aS'1995'
 p5593
-aS'Flanker'
+aS'Scrum-half'
 p5594
-aS'Toowoomba'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p5595
-aS'16'
+aVAustralia
 p5596
-aS'10'
+aVNew South Wales
 p5597
+ag9
+aa(lp5598
+S'Marco Caputo'
+p5599
+aS'1996'
+p5600
+aS'Hooker'
+p5601
+aS'5'
+aS'4'
+aS'1'
+aS'0'
 aS'1'
 aS'5'
-aVAustralia
-p5598
-aVQueensland
-p5599
-aVToowoomba
-p5600
-aa(lp5601
-S'Andrew Blades'
+aS'Modena'
 p5602
-aS'1996'
+aVItalia
 p5603
-aS'Prop'
+aVEMR
 p5604
-aS'NSW'
+aVMO
 p5605
-aS'32'
-p5606
-aS'24'
+aa(lp5606
+S'Owen Finegan'
 p5607
-aS'0'
-aS'0'
-aVAustralia
-p5608
-aVNew South Wales
-p5609
-ag9
-aa(lp5610
-S'David Giffin'
-p5611
 aS'1996'
+p5608
+aS'Lock, Back-row'
+p5609
+aS'55'
+p5610
+aS'37'
+p5611
+aS'16'
 p5612
-aS'Lock'
+aS'2'
+aS'6'
+aS'30'
 p5613
-aS'QLD'
+aS'NSW'
 p5614
-aS'50'
-p5615
-aS'35'
-p5616
-aS'0'
-aS'0'
 aVAustralia
-p5617
-aVQueensland
-p5618
+p5615
+aVNew South Wales
+p5616
 ag9
-aa(lp5619
-S'Mitch Hardy'
+aa(lp5617
+S'Richard Harry'
+p5618
+aS'1996'
+p5619
+aS'Prop'
 p5620
-aS'1997'
+aS'37'
 p5621
-aS'Wing'
+aS'27'
 p5622
+aS'9'
+aS'1'
+aS'1'
+aS'5'
 aS'NSW'
 p5623
+aVAustralia
+p5624
+aVNew South Wales
+p5625
+ag9
+aa(lp5626
+S'Sam Payne'
+p5627
+aS'1996'
+p5628
+aS'Scrum-half'
+p5629
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'NSW'
+p5630
+aVAustralia
+p5631
+aVNew South Wales
+p5632
+ag9
+aa(lp5633
+S'Ben Tune'
+p5634
+aS'1996'
+p5635
+aS'Centre'
+p5636
+aS'47'
+p5637
+aS'30'
+p5638
+aS'16'
+p5639
+aS'1'
+aS'24'
+p5640
+aS'120'
+p5641
+aS'QLD'
+p5642
+aVAustralia
+p5643
+aVQueensland
+p5644
+ag9
+aa(lp5645
+S'Stephen Larkham'
+p5646
+aS'1996'
+p5647
+aS'Fullback, Fly-half'
+p5648
+aS'102'
+p5649
+aS'68'
+p5650
+aS'31'
+p5651
+aS'3'
+aS'25'
+p5652
+aS'135'
+p5653
+aS'Canberra'
+p5654
+aVAustralia
+p5655
+aVAustralian Capital Territory
+p5656
+aVCanberra
+p5657
+aa(lp5658
+S'Mark Bell'
+p5659
+aS'1996'
+p5660
+aS'Hooker'
+p5661
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p5662
+aVAustralia
+p5663
+aVNew South Wales
+p5664
+ag9
+aa(lp5665
+S'Andrew Heath'
+p5666
+aS'1996'
+p5667
+aS'Prop'
+p5668
+aS'8'
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'VIC'
+p5669
+aVAustralia
+p5670
+aVVictoria
+p5671
+ag9
+aa(lp5672
+S'John Welborn'
+p5673
+aS'1996'
+p5674
+aS'Lock'
+p5675
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'WA'
+p5676
+aVUnited States of America
+p5677
+aVWashington
+p5678
+ag9
+aa(lp5679
+S'Brett Robinson'
+p5680
+aS'1996'
+p5681
+aS'Flanker'
+p5682
+aS'16'
+p5683
+aS'10'
+p5684
+aS'5'
+aS'1'
+aS'1'
+aS'5'
+aS'Toowoomba'
+p5685
+aVAustralia
+p5686
+aVQueensland
+p5687
+aVToowoomba
+p5688
+aa(lp5689
+S'Andrew Blades'
+p5690
+aS'1996'
+p5691
+aS'Prop'
+p5692
+aS'32'
+p5693
+aS'24'
+p5694
+aS'7'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p5695
+aVAustralia
+p5696
+aVNew South Wales
+p5697
+ag9
+aa(lp5698
+S'David Giffin'
+p5699
+aS'1996'
+p5700
+aS'Lock'
+p5701
+aS'50'
+p5702
+aS'35'
+p5703
+aS'15'
+p5704
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p5705
+aVAustralia
+p5706
+aVQueensland
+p5707
+ag9
+aa(lp5708
+S'Mitch Hardy'
+p5709
+aS'1997'
+p5710
+aS'Wing'
+p5711
 aS'7'
 aS'5'
 aS'2'
+aS'0'
+aS'2'
 aS'10'
-p5624
+p5712
+aS'NSW'
+p5713
 aVAustralia
-p5625
+p5714
 aVNew South Wales
-p5626
+p5715
 ag9
-aa(lp5627
+aa(lp5716
 S'Matt Cockbain'
-p5628
+p5717
 aS'1997'
-p5629
+p5718
 aS'Lock, Flanker'
-p5630
-aS'Cairns'
-p5631
+p5719
 aS'63'
-p5632
+p5720
 aS'46'
-p5633
+p5721
+aS'16'
+p5722
+aS'1'
 aS'1'
 aS'5'
+aS'Cairns'
+p5723
 aVAustralia
-p5634
+p5724
 aVQueensland
-p5635
+p5725
 aVCairns
-p5636
-aa(lp5637
+p5726
+aa(lp5727
 S'James Holbeck'
-p5638
+p5728
 aS'1997'
-p5639
+p5729
 aS'Centre'
-p5640
-aS'Qld'
-p5641
+p5730
 aS'7'
 aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p5642
-aVQueensland
-p5643
-ag9
-aa(lp5644
-S'Cameron Blades'
-p5645
-aS'1997'
-p5646
-aS'Prop'
-p5647
-aS'NSW'
-p5648
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p5649
-aVNew South Wales
-p5650
-ag9
-aa(lp5651
-S'Fili Finau'
-p5652
-aS'1997'
-p5653
-aS'Flanker'
-p5654
-aS'Neiafu'
-p5655
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVTonga
-p5656
-aVVava\u02bbu
-p5657
-aVVahe Neiafu
-p5658
-aa(lp5659
-S'John Langford'
-p5660
-aS'1997'
-p5661
-aS'Lock'
-p5662
-aS'Wagga Wagga'
-p5663
 aS'4'
-aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p5664
-aV2650
-p5665
-aVNew South Wales
-p5666
-aa(lp5667
-S'Toutai Kefu'
-p5668
-aS'1997'
-p5669
-aS'No. 8'
-p5670
-aS'1974'
-p5671
-aS'60'
-p5672
-aS'40'
-p5673
-aS'10'
-p5674
-aS'50'
-p5675
-aVÖsterreich
-p5676
-aV8573
-p5677
-aVSteiermark
-p5678
-aa(lp5679
-S'Elton Flatley'
-p5680
-aS'1997'
-p5681
-aS'Fly-half'
-p5682
-aS'NSW'
-p5683
-aS'38'
-p5684
-aS'25'
-p5685
-aS'4'
-aS'182'
-p5686
-aVAustralia
-p5687
-aVNew South Wales
-p5688
-ag9
-aa(lp5689
-S'Tom Bowman'
-p5690
-aS'1998'
-p5691
-aS'Lock'
-p5692
-aS'NSW'
-p5693
-aS'16'
-p5694
-aS'13'
-p5695
-aS'2'
-aS'10'
-p5696
-aVAustralia
-p5697
-aVNew South Wales
-p5698
-ag9
-aa(lp5699
-S'Jeremy Paul'
-p5700
-aS'1998'
-p5701
-aS'Hooker'
-p5702
-aS'Hamilton'
-p5703
-aS'72'
-p5704
-aS'51'
-p5705
-aS'14'
-p5706
-aS'70'
-p5707
-aVCanada
-p5708
-aVOntario
-p5709
-aVHamilton
-p5710
-aa(lp5711
-S'Nathan Grey'
-p5712
-aS'1998'
-p5713
-aS'Centre'
-p5714
-aS'NSW'
-p5715
-aS'35'
-p5716
-aS'25'
-p5717
-aS'7'
-aS'35'
-p5718
-aVAustralia
-p5719
-aVNew South Wales
-p5720
-ag9
-aa(lp5721
-S'Glenn Panoho'
-p5722
-aS'1998'
-p5723
-aS'Prop'
-p5724
-aS'Whangarei'
-p5725
-aS'21'
-p5726
-aS'15'
-p5727
 aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p5728
-aVNorthland
-p5729
-aVWhangarei District
-p5730
-aa(lp5731
-S'Chris Whitaker'
+aS'Qld'
+p5731
+aVAustralia
 p5732
-aS'1998'
+aVQueensland
 p5733
-aS'Scrum-half'
-p5734
-aS'NSW'
+ag9
+aa(lp5734
+S'Cameron Blades'
 p5735
-aS'31'
+aS'1997'
 p5736
-aS'22'
+aS'Prop'
 p5737
-aS'2'
-aS'10'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
 p5738
 aVAustralia
 p5739
@@ -13956,287 +15333,302 @@ aVNew South Wales
 p5740
 ag9
 aa(lp5741
-S'Manny Edmonds'
+S'Fili Finau'
 p5742
-aS'1998'
+aS'1997'
 p5743
-aS'Utility back'
+aS'Flanker'
 p5744
-aS'Ashburton'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Neiafu'
 p5745
-aS'2'
+aVTonga
+p5746
+aVVava\u02bbu
+p5747
+aVVahe Neiafu
+p5748
+aa(lp5749
+S'John Langford'
+p5750
+aS'1997'
+p5751
+aS'Lock'
+p5752
+aS'4'
 aS'1'
 aS'2'
-aS'23'
-p5746
-aVUnited Kingdom
-p5747
-aVEngland
-p5748
-aVSouth West England
-p5749
-aa(lp5750
-S'Chris Latham'
-p5751
-aS'1998'
-p5752
-aS'Fullback'
+aS'1'
+aS'0'
+aS'0'
+aS'Wagga Wagga'
 p5753
-aS'NSW'
+aVAustralia
 p5754
-aS'78'
+aV2650
 p5755
-aS'50'
+aVNew South Wales
 p5756
-aS'40'
-p5757
-aS'200'
+aa(lp5757
+S'Toutai Kefu'
 p5758
-aVAustralia
+aS'1997'
 p5759
-aVNew South Wales
-p5760
-ag9
-aa(lp5761
-S'Patricio Noriega'
-p5762
-aS'1991'
-p5763
-aS'Prop'
-p5764
-aS'Buenos Aires'
-p5765
-aS'49'
-p5766
-aS'32'
-p5767
-aS'2'
-aS'10'
-p5768
-aVArgentina
-p5769
-aVCABA
-p5770
-aVComuna 6
-p5771
-aa(lp5772
-S'Nathan Spooner'
-p5773
-aS'1999'
-p5774
-aS'Fly-half'
-p5775
-aS'NSW'
-p5776
-aS'2'
-aS'2'
-aS'0'
-aS'25'
-p5777
-aVAustralia
-p5778
-aVNew South Wales
-p5779
-ag9
-aa(lp5780
-S'Tiaan Strauss'
-p5781
-aS'1992'
-p5782
 aS'No. 8'
-p5783
-aS'Upington'
-p5784
-aS'26'
-p5785
-aS'15'
-p5786
-aS'8'
+p5760
+aS'60'
+p5761
 aS'40'
-p5787
-aVSouth Africa
-p5788
-aVNorthern Cape
-p5789
-aVZF Mgcawu District Municipality
-p5790
-aa(lp5791
-S'Jim Williams'
-p5792
-aS'1999'
-p5793
-aS'Flanker'
-p5794
-aS'NSW'
-p5795
-aS'14'
-p5796
-aS'12'
-p5797
-aS'2'
+p5762
+aS'19'
+p5763
+aS'1'
 aS'10'
-p5798
+p5764
+aS'50'
+p5765
+aS'1974'
+p5766
+aVÖsterreich
+p5767
+aV8573
+p5768
+aVSteiermark
+p5769
+aa(lp5770
+S'Elton Flatley'
+p5771
+aS'1997'
+p5772
+aS'Fly-half'
+p5773
+aS'38'
+p5774
+aS'25'
+p5775
+aS'12'
+p5776
+aS'1'
+aS'4'
+aS'182'
+p5777
+aS'NSW'
+p5778
 aVAustralia
-p5799
+p5779
 aVNew South Wales
-p5800
+p5780
 ag9
-aa(lp5801
-S'Mark Connors'
-p5802
-aS'1999'
-p5803
-aS'Lock, Flanker'
-p5804
-aS'QLD'
-p5805
-aS'20'
-p5806
+aa(lp5781
+S'Tom Bowman'
+p5782
+aS'1998'
+p5783
+aS'Lock'
+p5784
 aS'16'
-p5807
+p5785
+aS'13'
+p5786
+aS'3'
+aS'0'
 aS'2'
 aS'10'
-p5808
-aVAustralia
-p5809
-aVQueensland
-p5810
-ag9
-aa(lp5811
-S'Rod Kafer'
-p5812
-aS'1999'
-p5813
-aS'Centre'
-p5814
+p5787
 aS'NSW'
-p5815
-aS'12'
-p5816
-aS'10'
-p5817
-aS'0'
-aS'0'
+p5788
 aVAustralia
-p5818
+p5789
 aVNew South Wales
-p5819
+p5790
 ag9
-aa(lp5820
-S'Rod Moore'
-p5821
-aS'1999'
-p5822
-aS'Prop'
-p5823
-aS'NSW'
-p5824
+aa(lp5791
+S'Jeremy Paul'
+p5792
+aS'1998'
+p5793
+aS'Hooker'
+p5794
+aS'72'
+p5795
+aS'51'
+p5796
+aS'21'
+p5797
+aS'0'
 aS'14'
-p5825
+p5798
+aS'70'
+p5799
+aS'Hamilton'
+p5800
+aVCanada
+p5801
+aVOntario
+p5802
+aVHamilton
+p5803
+aa(lp5804
+S'Nathan Grey'
+p5805
+aS'1998'
+p5806
+aS'Centre'
+p5807
+aS'35'
+p5808
+aS'25'
+p5809
 aS'9'
-aS'0'
-aS'0'
-aVAustralia
-p5826
-aVNew South Wales
-p5827
-ag9
-aa(lp5828
-S'Scott Staniforth'
-p5829
-aS'1999'
-p5830
-aS'Fullback, Wing'
-p5831
-aS'NSW'
-p5832
-aS'12'
-p5833
-aS'8'
+aS'1'
 aS'7'
 aS'35'
-p5834
+p5810
+aS'NSW'
+p5811
 aVAustralia
-p5835
+p5812
 aVNew South Wales
-p5836
+p5813
 ag9
-aa(lp5837
-S'Fletcher Dyson'
-p5838
-aS'2000'
-p5839
+aa(lp5814
+S'Glenn Panoho'
+p5815
+aS'1998'
+p5816
 aS'Prop'
-p5840
-aS'Victoria'
-p5841
-aS'10'
-p5842
-aS'8'
+p5817
+aS'21'
+p5818
+aS'15'
+p5819
+aS'6'
 aS'0'
 aS'0'
-aVAustralia
-p5843
-aVVictoria
-p5844
-ag9
-aa(lp5845
-S'Stirling Mortlock'
-p5846
-aS'2000'
-p5847
-aS'Centre'
-p5848
-aS'NSW'
-p5849
-aS'80'
-p5850
-aS'52'
-p5851
-aS'29'
-p5852
-aS'489'
-p5853
-aVAustralia
-p5854
-aVNew South Wales
-p5855
-ag9
-aa(lp5856
-S'Sam Cordingley'
-p5857
-aS'2000'
-p5858
+aS'0'
+aS'Whangarei'
+p5820
+aVNew Zealand/Aotearoa
+p5821
+aVNorthland
+p5822
+aVWhangarei District
+p5823
+aa(lp5824
+S'Chris Whitaker'
+p5825
+aS'1998'
+p5826
 aS'Scrum-half'
-p5859
-aS'NSW'
-p5860
-aS'22'
-p5861
-aS'17'
-p5862
-aS'0'
-aS'0'
-aVAustralia
-p5863
-aVNew South Wales
-p5864
-ag9
-aa(lp5865
-S'David Lyons'
-p5866
-aS'2000'
-p5867
-aS'No. 8'
-p5868
-aS'NSW'
-p5869
-aS'44'
-p5870
+p5827
 aS'31'
+p5828
+aS'22'
+p5829
+aS'9'
+aS'0'
+aS'2'
+aS'10'
+p5830
+aS'NSW'
+p5831
+aVAustralia
+p5832
+aVNew South Wales
+p5833
+ag9
+aa(lp5834
+S'Manny Edmonds'
+p5835
+aS'1998'
+p5836
+aS'Utility back'
+p5837
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'2'
+aS'23'
+p5838
+aS'Ashburton'
+p5839
+aVUnited Kingdom
+p5840
+aVEngland
+p5841
+aVSouth West England
+p5842
+aa(lp5843
+S'Chris Latham'
+p5844
+aS'1998'
+p5845
+aS'Fullback'
+p5846
+aS'78'
+p5847
+aS'50'
+p5848
+aS'26'
+p5849
+aS'2'
+aS'40'
+p5850
+aS'200'
+p5851
+aS'NSW'
+p5852
+aVAustralia
+p5853
+aVNew South Wales
+p5854
+ag9
+aa(lp5855
+S'Patricio Noriega'
+p5856
+aS'1991'
+p5857
+aS'Prop'
+p5858
+aS'49'
+p5859
+aS'32'
+p5860
+aS'17'
+p5861
+aS'0'
+aS'2'
+aS'10'
+p5862
+aS'Buenos Aires'
+p5863
+aVArgentina
+p5864
+aVCABA
+p5865
+aVComuna 6
+p5866
+aa(lp5867
+S'Nathan Spooner'
+p5868
+aS'1999'
+p5869
+aS'Fly-half'
+p5870
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'25'
 p5871
-aS'4'
-aS'20'
+aS'NSW'
 p5872
 aVAustralia
 p5873
@@ -14244,1264 +15636,1351 @@ aVNew South Wales
 p5874
 ag9
 aa(lp5875
-S'Troy Jaques'
+S'Tiaan Strauss'
 p5876
-aS'2000'
+aS'1992'
 p5877
-aS'Back-row'
+aS'No. 8'
 p5878
-aS'NSW'
+aS'26'
 p5879
+aS'15'
+p5880
+aS'10'
+p5881
+aS'1'
+aS'8'
+aS'40'
+p5882
+aS'Upington'
+p5883
+aVSouth Africa
+p5884
+aVNorthern Cape
+p5885
+aVZF Mgcawu District Municipality
+p5886
+aa(lp5887
+S'Jim Williams'
+p5888
+aS'1999'
+p5889
+aS'Flanker'
+p5890
+aS'14'
+p5891
+aS'12'
+p5892
 aS'2'
+aS'0'
+aS'2'
+aS'10'
+p5893
+aS'NSW'
+p5894
+aVAustralia
+p5895
+aVNew South Wales
+p5896
+ag9
+aa(lp5897
+S'Mark Connors'
+p5898
+aS'1999'
+p5899
+aS'Lock, Flanker'
+p5900
+aS'20'
+p5901
+aS'16'
+p5902
+aS'4'
+aS'0'
+aS'2'
+aS'10'
+p5903
+aS'QLD'
+p5904
+aVAustralia
+p5905
+aVQueensland
+p5906
+ag9
+aa(lp5907
+S'Rod Kafer'
+p5908
+aS'1999'
+p5909
+aS'Centre'
+p5910
+aS'12'
+p5911
+aS'10'
+p5912
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p5913
+aVAustralia
+p5914
+aVNew South Wales
+p5915
+ag9
+aa(lp5916
+S'Rod Moore'
+p5917
+aS'1999'
+p5918
+aS'Prop'
+p5919
+aS'14'
+p5920
+aS'9'
+aS'4'
 aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p5880
-aVNew South Wales
-p5881
-ag9
-aa(lp5882
-S'Andrew Walker'
-p5883
-aS'2000'
-p5884
-aS'Fullback, Wing'
-p5885
 aS'NSW'
-p5886
+p5921
+aVAustralia
+p5922
+aVNew South Wales
+p5923
+ag9
+aa(lp5924
+S'Scott Staniforth'
+p5925
+aS'1999'
+p5926
+aS'Fullback, Wing'
+p5927
+aS'12'
+p5928
+aS'8'
+aS'4'
+aS'0'
+aS'7'
+aS'35'
+p5929
+aS'NSW'
+p5930
+aVAustralia
+p5931
+aVNew South Wales
+p5932
+ag9
+aa(lp5933
+S'Fletcher Dyson'
+p5934
+aS'2000'
+p5935
+aS'Prop'
+p5936
+aS'10'
+p5937
+aS'8'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Victoria'
+p5938
+aVAustralia
+p5939
+aVVictoria
+p5940
+ag9
+aa(lp5941
+S'Stirling Mortlock'
+p5942
+aS'2000'
+p5943
+aS'Centre'
+p5944
+aS'80'
+p5945
+aS'52'
+p5946
+aS'28'
+p5947
+aS'0'
+aS'29'
+p5948
+aS'489'
+p5949
+aS'NSW'
+p5950
+aVAustralia
+p5951
+aVNew South Wales
+p5952
+ag9
+aa(lp5953
+S'Sam Cordingley'
+p5954
+aS'2000'
+p5955
+aS'Scrum-half'
+p5956
+aS'22'
+p5957
+aS'17'
+p5958
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p5959
+aVAustralia
+p5960
+aVNew South Wales
+p5961
+ag9
+aa(lp5962
+S'David Lyons'
+p5963
+aS'2000'
+p5964
+aS'No. 8'
+p5965
+aS'44'
+p5966
+aS'31'
+p5967
+aS'13'
+p5968
+aS'0'
+aS'4'
+aS'20'
+p5969
+aS'NSW'
+p5970
+aVAustralia
+p5971
+aVNew South Wales
+p5972
+ag9
+aa(lp5973
+S'Troy Jaques'
+p5974
+aS'2000'
+p5975
+aS'Back-row'
+p5976
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p5977
+aVAustralia
+p5978
+aVNew South Wales
+p5979
+ag9
+aa(lp5980
+S'Andrew Walker'
+p5981
+aS'2000'
+p5982
+aS'Fullback, Wing'
+p5983
 aS'7'
 aS'4'
+aS'3'
+aS'0'
 aS'1'
 aS'11'
-p5887
+p5984
+aS'NSW'
+p5985
 aVAustralia
-p5888
+p5986
 aVNew South Wales
-p5889
+p5987
 ag9
-aa(lp5890
+aa(lp5988
 S'George Smith'
-p5891
+p5989
 aS'2000'
-p5892
+p5990
 aS'Back-row'
-p5893
-aS'Manly'
-p5894
+p5991
 aS'111'
-p5895
+p5992
 aS'65'
-p5896
+p5993
+aS'44'
+p5994
+aS'2'
 aS'9'
 aS'45'
-p5897
-aVAustralia
-p5898
-aVQueensland
-p5899
-aVBrisbane
-p5900
-aa(lp5901
-S'Bill Young'
-p5902
-aS'2000'
-p5903
-aS'Prop'
-p5904
-aS'NSW'
-p5905
-aS'46'
-p5906
-aS'29'
-p5907
-aS'0'
-aS'0'
-aVAustralia
-p5908
-aVNew South Wales
-p5909
-ag9
-aa(lp5910
-S'Phil Waugh'
-p5911
-aS'2000'
-p5912
-aS'Flanker'
-p5913
-aS'NSW'
-p5914
-aS'79'
-p5915
-aS'46'
-p5916
-aS'4'
-aS'20'
-p5917
-aVAustralia
-p5918
-aVNew South Wales
-p5919
-ag9
-aa(lp5920
-S'Nick Stiles'
-p5921
-aS'2001'
-p5922
-aS'Prop'
-p5923
-aS'VIC'
-p5924
-aS'12'
-p5925
-aS'6'
-aS'1'
-aS'5'
-aVAustralia
-p5926
-aVVictoria
-p5927
-ag9
-aa(lp5928
-S'Ben Darwin'
-p5929
-aS'2001'
-p5930
-aS'Prop'
-p5931
-aS'Crewe'
-p5932
-aS'28'
-p5933
-aS'16'
-p5934
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5935
-aVEngland
-p5936
-aVNorth West England
-p5937
-aa(lp5938
-S'Brendan Cannon'
-p5939
-aS'2001'
-p5940
-aS'Hooker'
-p5941
-aS'QLD'
-p5942
-aS'42'
-p5943
-aS'25'
-p5944
-aS'2'
-aS'10'
-p5945
-aVAustralia
-p5946
-aVQueensland
-p5947
-ag9
-aa(lp5948
-S'Justin Harrison'
-p5949
-aS'2001'
-p5950
-aS'Lock'
-p5951
-aS'NSW'
-p5952
-aS'34'
-p5953
-aS'23'
-p5954
-aS'1'
-aS'5'
-aVAustralia
-p5955
-aVNew South Wales
-p5956
-ag9
-aa(lp5957
-S'Graeme Bond'
-p5958
-aS'2001'
-p5959
-aS'Centre, Wing'
-p5960
-aS'Duke of York Island'
-p5961
-aS'5'
-aS'2'
-aS'1'
-aS'5'
-aVPapua Niugini
-p5962
-aVIslands Region
-p5963
-aVENB
-p5964
-aa(lp5965
-S'Steve Kefu'
-p5966
-aS'2001'
-p5967
-aS'Centre'
-p5968
-aS'QLD'
-p5969
-aS'6'
-aS'3'
-aS'1'
-aS'5'
-aVAustralia
-p5970
-aVQueensland
-p5971
-ag9
-aa(lp5972
-S'Wendell Sailor'
-p5973
-aS'2002'
-p5974
-aS'Outside back'
-p5975
-aS'Qld'
-p5976
-aS'37'
-p5977
-aS'23'
-p5978
-aS'13'
-p5979
-aS'65'
-p5980
-aVAustralia
-p5981
-aVQueensland
-p5982
-ag9
-aa(lp5983
-S'Nathan Sharpe'
-p5984
-aS'2002'
-p5985
-aS'Lock'
-p5986
-aS'NSW'
-p5987
-aS'116'
-p5988
-aS'70'
-p5989
-aS'8'
-aS'40'
-p5990
-aVAustralia
-p5991
-aVNew South Wales
-p5992
-ag9
-aa(lp5993
-S'Mat Rogers'
-p5994
-aS'2002'
 p5995
-aS'Utility back'
+aS'Manly'
 p5996
-aS'NSW'
+aVAustralia
 p5997
-aS'45'
-p5998
-aS'27'
-p5999
-aS'14'
-p6000
-aS'163'
-p6001
-aVAustralia
-p6002
-aVNew South Wales
-p6003
-ag9
-aa(lp6004
-S'Sean Hardman'
-p6005
-aS'2002'
-p6006
-aS'Hooker'
-p6007
-aS'QLD'
-p6008
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aVAustralia
-p6009
 aVQueensland
-p6010
+p5998
+aVBrisbane
+p5999
+aa(lp6000
+S'Bill Young'
+p6001
+aS'2000'
+p6002
+aS'Prop'
+p6003
+aS'46'
+p6004
+aS'29'
+p6005
+aS'17'
+p6006
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p6007
+aVAustralia
+p6008
+aVNew South Wales
+p6009
 ag9
-aa(lp6011
-S'Dan Vickerman'
+aa(lp6010
+S'Phil Waugh'
+p6011
+aS'2000'
 p6012
-aS'2002'
-p6013
-aS'Lock'
-p6014
-aS'Cape Town'
-p6015
-aS'63'
-p6016
-aS'38'
-p6017
-aS'0'
-aS'0'
-aVSouth Africa
-p6018
-aVWestern Cape
-p6019
-aVCity of Cape Town
-p6020
-aa(lp6021
-S'David Croft'
-p6022
-aS'2002'
-p6023
 aS'Flanker'
+p6013
+aS'79'
+p6014
+aS'46'
+p6015
+aS'31'
+p6016
+aS'2'
+aS'4'
+aS'20'
+p6017
+aS'NSW'
+p6018
+aVAustralia
+p6019
+aVNew South Wales
+p6020
+ag9
+aa(lp6021
+S'Nick Stiles'
+p6022
+aS'2001'
+p6023
+aS'Prop'
 p6024
-aS'QLD'
+aS'12'
 p6025
+aS'6'
 aS'5'
+aS'1'
+aS'1'
+aS'5'
+aS'VIC'
+p6026
+aVAustralia
+p6027
+aVVictoria
+p6028
+ag9
+aa(lp6029
+S'Ben Darwin'
+p6030
+aS'2001'
+p6031
+aS'Prop'
+p6032
+aS'28'
+p6033
+aS'16'
+p6034
+aS'11'
+p6035
+aS'1'
+aS'0'
+aS'0'
+aS'Crewe'
+p6036
+aVUnited Kingdom
+p6037
+aVEngland
+p6038
+aVNorth West England
+p6039
+aa(lp6040
+S'Brendan Cannon'
+p6041
+aS'2001'
+p6042
+aS'Hooker'
+p6043
+aS'42'
+p6044
+aS'25'
+p6045
+aS'16'
+p6046
+aS'1'
+aS'2'
+aS'10'
+p6047
+aS'QLD'
+p6048
+aVAustralia
+p6049
+aVQueensland
+p6050
+ag9
+aa(lp6051
+S'Justin Harrison'
+p6052
+aS'2001'
+p6053
+aS'Lock'
+p6054
+aS'34'
+p6055
+aS'23'
+p6056
+aS'10'
+p6057
+aS'1'
+aS'1'
+aS'5'
+aS'NSW'
+p6058
+aVAustralia
+p6059
+aVNew South Wales
+p6060
+ag9
+aa(lp6061
+S'Graeme Bond'
+p6062
+aS'2001'
+p6063
+aS'Centre, Wing'
+p6064
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'1'
+aS'5'
+aS'Duke of York Island'
+p6065
+aVPapua Niugini
+p6066
+aVIslands Region
+p6067
+aVENB
+p6068
+aa(lp6069
+S'Steve Kefu'
+p6070
+aS'2001'
+p6071
+aS'Centre'
+p6072
+aS'6'
+aS'3'
 aS'3'
 aS'0'
-aS'0'
-aVAustralia
-p6026
-aVQueensland
-p6027
-ag9
-aa(lp6028
-S'Adam Freier'
-p6029
-aS'2002'
-p6030
-aS'Hooker'
-p6031
-aS'NSW'
-p6032
-aS'25'
-p6033
-aS'15'
-p6034
-aS'2'
-aS'10'
-p6035
-aVAustralia
-p6036
-aVNew South Wales
-p6037
-ag9
-aa(lp6038
-S'Matt Giteau'
-p6039
-aS'2002'
-p6040
-aS'Centre'
-p6041
-aS'NSW'
-p6042
-aS'92'
-p6043
-aS'51'
-p6044
-aS'29'
-p6045
-aS'684'
-p6046
-aVAustralia
-p6047
-aVNew South Wales
-p6048
-ag9
-aa(lp6049
-S'Mark Bartholomeusz'
-p6050
-aS'2002'
-p6051
-aS'Utility back'
-p6052
+aS'1'
+aS'5'
 aS'QLD'
-p6053
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p6054
-aVQueensland
-p6055
-ag9
-aa(lp6056
-S'Morgan Turinui'
-p6057
-aS'2003'
-p6058
-aS'Centre'
-p6059
-aS'NSW'
-p6060
-aS'20'
-p6061
-aS'11'
-p6062
-aS'6'
-aS'30'
-p6063
-aVAustralia
-p6064
-aVNew South Wales
-p6065
-ag9
-aa(lp6066
-S'Lote Tuqiri'
-p6067
-aS'2003'
-p6068
-aS'Outside back'
-p6069
-aS'Namatakula'
-p6070
-aS'67'
-p6071
-aS'40'
-p6072
-aS'30'
 p6073
-aS'150'
+aVAustralia
 p6074
-aVViti
+aVQueensland
 p6075
-aVNamatakula
-p6076
 ag9
-aa(lp6077
-S'Daniel Heenan'
+aa(lp6076
+S'Wendell Sailor'
+p6077
+aS'2002'
 p6078
-aS'2003'
+aS'Outside back'
 p6079
-aS'Flanker, Lock'
+aS'37'
 p6080
-aS'Gatton'
+aS'23'
 p6081
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
+aS'14'
 p6082
-aVQueensland
+aS'0'
+aS'13'
 p6083
-aVGatton
+aS'65'
 p6084
-aa(lp6085
-S'Al Baxter'
+aS'Qld'
+p6085
+aVAustralia
 p6086
-aS'2003'
-p6087
-aS'Prop'
-p6088
-aS'ACT'
-p6089
-aS'69'
-p6090
-aS'40'
-p6091
-aS'1'
-aS'5'
-aVAustralia
-p6092
-aVAustralian Capital Territory
-p6093
-ag9
-aa(lp6094
-S'Matt Dunning'
-p6095
-aS'2003'
-p6096
-aS'Prop'
-p6097
-aS'Calgary'
-p6098
-aS'45'
-p6099
-aS'28'
-p6100
-aS'0'
-aS'0'
-aVCanada
-p6101
-aVAlberta
-p6102
-aVCalgary
-p6103
-aa(lp6104
-S'John Roe'
-p6105
-aS'2003'
-p6106
-aS'No. 8'
-p6107
-aS'QLD'
-p6108
-aS'19'
-p6109
-aS'10'
-p6110
-aS'1'
-aS'5'
-aVAustralia
-p6111
 aVQueensland
-p6112
+p6087
 ag9
-aa(lp6113
-S'Clyde Rathbone'
-p6114
-aS'2004'
-p6115
-aS'Centre'
-p6116
-aS'Durban'
-p6117
-aS'26'
-p6118
-aS'15'
-p6119
+aa(lp6088
+S'Nathan Sharpe'
+p6089
+aS'2002'
+p6090
+aS'Lock'
+p6091
+aS'116'
+p6092
+aS'70'
+p6093
+aS'44'
+p6094
+aS'2'
 aS'8'
 aS'40'
+p6095
+aS'NSW'
+p6096
+aVAustralia
+p6097
+aVNew South Wales
+p6098
+ag9
+aa(lp6099
+S'Mat Rogers'
+p6100
+aS'2002'
+p6101
+aS'Utility back'
+p6102
+aS'45'
+p6103
+aS'27'
+p6104
+aS'17'
+p6105
+aS'1'
+aS'14'
+p6106
+aS'163'
+p6107
+aS'NSW'
+p6108
+aVAustralia
+p6109
+aVNew South Wales
+p6110
+ag9
+aa(lp6111
+S'Sean Hardman'
+p6112
+aS'2002'
+p6113
+aS'Hooker'
+p6114
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p6115
+aVAustralia
+p6116
+aVQueensland
+p6117
+ag9
+aa(lp6118
+S'Dan Vickerman'
+p6119
+aS'2002'
 p6120
-aVSouth Africa
+aS'Lock'
 p6121
-aVKwaZulu-Natal
+aS'63'
 p6122
-aVeThekwini Metropolitan Municipality
+aS'38'
 p6123
-aa(lp6124
-S'Radike Samo'
+aS'24'
+p6124
+aS'1'
+aS'0'
+aS'0'
+aS'Cape Town'
 p6125
-aS'2004'
+aVSouth Africa
 p6126
-aS'No. 8'
+aVWestern Cape
 p6127
-aS'Nadi'
+aVCity of Cape Town
 p6128
-aS'23'
-p6129
-aS'16'
+aa(lp6129
+S'David Croft'
 p6130
+aS'2002'
+p6131
+aS'Flanker'
+p6132
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p6133
+aVAustralia
+p6134
+aVQueensland
+p6135
+ag9
+aa(lp6136
+S'Adam Freier'
+p6137
+aS'2002'
+p6138
+aS'Hooker'
+p6139
+aS'25'
+p6140
+aS'15'
+p6141
+aS'10'
+p6142
+aS'0'
 aS'2'
 aS'10'
-p6131
-aVViti
-p6132
-aVNadi
-p6133
-ag9
-aa(lp6134
-S'Matt Henjak'
-p6135
-aS'2004'
-p6136
-aS'Scrum-half'
-p6137
-aS'Queanbeyan'
-p6138
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p6139
-aVNew South Wales
-p6140
-aVQueanbeyan
-p6141
-aa(lp6142
-S'Nic Henderson'
 p6143
-aS'2004'
+aS'NSW'
 p6144
-aS'Prop'
-p6145
-aS'Qld'
-p6146
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aVAustralia
-p6147
-aVQueensland
-p6148
+p6145
+aVNew South Wales
+p6146
 ag9
-aa(lp6149
-S'Mark Chisholm'
+aa(lp6147
+S'Matt Giteau'
+p6148
+aS'2002'
+p6149
+aS'Centre'
 p6150
-aS'2004'
+aS'92'
 p6151
-aS'Lock'
+aS'51'
 p6152
-aS'Qld'
+aS'39'
 p6153
-aS'58'
+aS'2'
+aS'29'
 p6154
-aS'33'
+aS'684'
 p6155
-aS'6'
-aS'30'
+aS'NSW'
 p6156
 aVAustralia
 p6157
-aVQueensland
+aVNew South Wales
 p6158
 ag9
 aa(lp6159
-S'Stephen Hoiles'
+S'Mark Bartholomeusz'
 p6160
-aS'2004'
+aS'2002'
 p6161
-aS'Back-row'
-p6162
-aS'NSW'
-p6163
-aS'16'
-p6164
-aS'12'
-p6165
-aS'3'
-aS'15'
-p6166
-aVAustralia
-p6167
-aVNew South Wales
-p6168
-ag9
-aa(lp6169
-S'Rocky Elsom'
-p6170
-aS'2005'
-p6171
-aS'Flanker'
-p6172
-aS'VIC'
-p6173
-aS'75'
-p6174
-aS'43'
-p6175
-aS'14'
-p6176
-aS'70'
-p6177
-aVAustralia
-p6178
-aVVictoria
-p6179
-ag9
-aa(lp6180
-S'Hugh McMeniman'
-p6181
-aS'2005'
-p6182
-aS'Lock'
-p6183
-aS'QLD'
-p6184
-aS'22'
-p6185
-aS'12'
-p6186
-aS'0'
-aS'0'
-aVAustralia
-p6187
-aVQueensland
-p6188
-ag9
-aa(lp6189
-S'Stephen Moore'
-p6190
-aS'2005'
-p6191
-aS'Hooker'
-p6192
-aS'Saudi Arab'
-p6193
-aS'92'
-p6194
-aS'53'
-p6195
-aS'5'
-aS'25'
-p6196
-aV\u062d\u062f\u0648\u062f \u200f\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629\u200e
-p6197
-aV\u0639\u0633\u064a\u0631
-p6198
-aV\u0639\u0631\u0628
-p6199
-aa(lp6200
-S'Mark Gerrard'
-p6201
-aS'2005'
-p6202
 aS'Utility back'
-p6203
-aS'NSW'
-p6204
-aS'24'
-p6205
-aS'13'
-p6206
+p6162
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p6163
+aVAustralia
+p6164
+aVQueensland
+p6165
+ag9
+aa(lp6166
+S'Morgan Turinui'
+p6167
+aS'2003'
+p6168
+aS'Centre'
+p6169
+aS'20'
+p6170
+aS'11'
+p6171
 aS'9'
-aS'45'
+aS'0'
+aS'6'
+aS'30'
+p6172
+aS'NSW'
+p6173
+aVAustralia
+p6174
+aVNew South Wales
+p6175
+ag9
+aa(lp6176
+S'Lote Tuqiri'
+p6177
+aS'2003'
+p6178
+aS'Outside back'
+p6179
+aS'67'
+p6180
+aS'40'
+p6181
+aS'26'
+p6182
+aS'1'
+aS'30'
+p6183
+aS'150'
+p6184
+aS'Namatakula'
+p6185
+aVViti
+p6186
+aVNamatakula
+p6187
+ag9
+aa(lp6188
+S'Daniel Heenan'
+p6189
+aS'2003'
+p6190
+aS'Flanker, Lock'
+p6191
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Gatton'
+p6192
+aVAustralia
+p6193
+aVQueensland
+p6194
+aVGatton
+p6195
+aa(lp6196
+S'Al Baxter'
+p6197
+aS'2003'
+p6198
+aS'Prop'
+p6199
+aS'69'
+p6200
+aS'40'
+p6201
+aS'28'
+p6202
+aS'1'
+aS'1'
+aS'5'
+aS'ACT'
+p6203
+aVAustralia
+p6204
+aVAustralian Capital Territory
+p6205
+ag9
+aa(lp6206
+S'Matt Dunning'
 p6207
-aVAustralia
+aS'2003'
 p6208
-aVNew South Wales
+aS'Prop'
 p6209
-ag9
-aa(lp6210
-S'Alister Campbell'
+aS'45'
+p6210
+aS'28'
 p6211
-aS'2005'
+aS'17'
 p6212
-aS'Lock'
+aS'0'
+aS'0'
+aS'0'
+aS'Calgary'
 p6213
-aS'NSW'
+aVCanada
 p6214
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
+aVAlberta
 p6215
-aVNew South Wales
+aVCalgary
 p6216
-ag9
 aa(lp6217
-S'Drew Mitchell'
+S'John Roe'
 p6218
-aS'2005'
+aS'2003'
 p6219
-aS'Wing'
+aS'No. 8'
 p6220
-aS'NSW'
+aS'19'
 p6221
-aS'63'
+aS'10'
 p6222
-aS'33'
-p6223
-aS'30'
-p6224
-aS'150'
-p6225
-aVAustralia
-p6226
-aVNew South Wales
-p6227
-ag9
-aa(lp6228
-S'Adam Ashley-Cooper'
-p6229
-aS'2005'
-p6230
-aS'Centre'
-p6231
-aS'NSW'
-p6232
-aS'104'
-p6233
-aS'57'
-p6234
-aS'30'
-p6235
-aS'150'
-p6236
-aVAustralia
-p6237
-aVNew South Wales
-p6238
-ag9
-aa(lp6239
-S'Lloyd Johansson'
-p6240
-aS'2005'
-p6241
-aS'Centre'
-p6242
-aS'VIC'
-p6243
-aS'3'
+aS'9'
 aS'0'
 aS'1'
 aS'5'
+aS'QLD'
+p6223
 aVAustralia
-p6244
-aVVictoria
-p6245
+p6224
+aVQueensland
+p6225
 ag9
-aa(lp6246
-S'Alex Kanaar'
-p6247
-aS'2005'
-p6248
-aS'Flanker, Lock'
-p6249
-aS'Nowra'
-p6250
+aa(lp6226
+S'Clyde Rathbone'
+p6227
+aS'2004'
+p6228
+aS'Centre'
+p6229
+aS'26'
+p6230
+aS'15'
+p6231
+aS'10'
+p6232
 aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p6251
-aVNew South Wales
-p6252
-aVNowra
-p6253
-aa(lp6254
-S'Lachie Mackay'
-p6255
-aS'2005'
-p6256
-aS'Fly-half, Centre'
-p6257
-aS'NSW'
-p6258
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p6259
-aVNew South Wales
-p6260
-ag9
-aa(lp6261
-S'Greg Holmes'
-p6262
-aS'2005'
-p6263
-aS'Prop'
-p6264
-aS'Qld'
-p6265
-aS'13'
-p6266
 aS'8'
+aS'40'
+p6233
+aS'Durban'
+p6234
+aVSouth Africa
+p6235
+aVKwaZulu-Natal
+p6236
+aVeThekwini Metropolitan Municipality
+p6237
+aa(lp6238
+S'Radike Samo'
+p6239
+aS'2004'
+p6240
+aS'No. 8'
+p6241
+aS'23'
+p6242
+aS'16'
+p6243
+aS'7'
+aS'0'
 aS'2'
 aS'10'
-p6267
-aVAustralia
-p6268
-aVQueensland
-p6269
+p6244
+aS'Nadi'
+p6245
+aVViti
+p6246
+aVNadi
+p6247
 ag9
-aa(lp6270
-S'Scott Fava'
-p6271
-aS'2005'
-p6272
-aS'No. 8'
-p6273
-aS'NSW'
-p6274
-aS'5'
-aS'2'
+aa(lp6248
+S'Matt Henjak'
+p6249
+aS'2004'
+p6250
+aS'Scrum-half'
+p6251
+aS'4'
+aS'3'
 aS'1'
-aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Queanbeyan'
+p6252
 aVAustralia
-p6275
+p6253
 aVNew South Wales
-p6276
+p6254
+aVQueanbeyan
+p6255
+aa(lp6256
+S'Nic Henderson'
+p6257
+aS'2004'
+p6258
+aS'Prop'
+p6259
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p6260
+aVAustralia
+p6261
+aVQueensland
+p6262
 ag9
-aa(lp6277
-S'Tatafu Polota-Nau'
+aa(lp6263
+S'Mark Chisholm'
+p6264
+aS'2004'
+p6265
+aS'Lock'
+p6266
+aS'58'
+p6267
+aS'33'
+p6268
+aS'23'
+p6269
+aS'2'
+aS'6'
+aS'30'
+p6270
+aS'Qld'
+p6271
+aVAustralia
+p6272
+aVQueensland
+p6273
+ag9
+aa(lp6274
+S'Stephen Hoiles'
+p6275
+aS'2004'
+p6276
+aS'Back-row'
+p6277
+aS'16'
 p6278
-aS'2005'
+aS'12'
 p6279
-aS'Hooker'
+aS'3'
+aS'1'
+aS'3'
+aS'15'
 p6280
 aS'NSW'
 p6281
-aS'50'
+aVAustralia
 p6282
-aS'34'
-p6283
-aS'2'
-aS'10'
-p6284
-aVAustralia
-p6285
 aVNew South Wales
-p6286
+p6283
 ag9
-aa(lp6287
-S'David Fitter'
-p6288
+aa(lp6284
+S'Rocky Elsom'
+p6285
 aS'2005'
+p6286
+aS'Flanker'
+p6287
+aS'75'
+p6288
+aS'43'
 p6289
-aS'Prop'
+aS'30'
 p6290
-aS'VIC'
-p6291
 aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
+aS'14'
+p6291
+aS'70'
 p6292
-aVVictoria
+aS'VIC'
 p6293
-ag9
-aa(lp6294
-S'Rodney Blake'
+aVAustralia
+p6294
+aVVictoria
 p6295
-aS'2006'
-p6296
-aS'Prop'
+ag9
+aa(lp6296
+S'Hugh McMeniman'
 p6297
-aS'Tofoa'
+aS'2005'
 p6298
-aS'7'
-aS'3'
+aS'Lock'
+p6299
+aS'22'
+p6300
+aS'12'
+p6301
+aS'10'
+p6302
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p6303
+aVAustralia
+p6304
+aVQueensland
+p6305
+ag9
+aa(lp6306
+S'Stephen Moore'
+p6307
+aS'2005'
+p6308
+aS'Hooker'
+p6309
+aS'92'
+p6310
+aS'53'
+p6311
+aS'38'
+p6312
 aS'1'
 aS'5'
-aVTonga
-p6299
-aVTongatapu
-p6300
-aVVahe Kolomotu'a
-p6301
-aa(lp6302
-S'Tai McIsaac'
-p6303
-aS'2006'
-p6304
-aS'Hooker'
-p6305
-aS'QLD'
-p6306
-aS'8'
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p6307
-aVQueensland
-p6308
-ag9
-aa(lp6309
-S'Cameron Shepherd'
-p6310
-aS'2006'
-p6311
-aS'Fullback, Wing'
-p6312
-aS'Windsor'
+aS'25'
 p6313
-aS'9'
-aS'7'
-aS'3'
-aS'19'
+aS'Saudi Arab'
 p6314
-aVCanada
+aV\u062d\u062f\u0648\u062f \u200f\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629\u200e
 p6315
-aVOntario
+aV\u0639\u0633\u064a\u0631
 p6316
-aVWindsor
+aV\u0639\u0631\u0628
 p6317
 aa(lp6318
-S'Josh Valentine'
+S'Mark Gerrard'
 p6319
-aS'2006'
+aS'2005'
 p6320
-aS'Scrum-half'
+aS'Utility back'
 p6321
-aS'NSW'
+aS'24'
 p6322
-aS'6'
-aS'4'
-aS'0'
-aS'0'
-aVAustralia
+aS'13'
 p6323
-aVNew South Wales
+aS'11'
 p6324
-ag9
-aa(lp6325
-S'Wycliff Palu'
-p6326
-aS'2006'
-p6327
-aS'No. 8'
-p6328
-aS'NSW'
-p6329
-aS'54'
-p6330
-aS'32'
-p6331
-aS'1'
-aS'5'
-aVAustralia
-p6332
-aVNew South Wales
-p6333
-ag9
-aa(lp6334
-S'Guy Shepherdson'
-p6335
-aS'2006'
-p6336
-aS'Prop'
-p6337
-aS'Djakata'
-p6338
-aS'17'
-p6339
-aS'11'
-p6340
-aS'1'
-aS'5'
-aVNiger
-p6341
-aVDosso
-p6342
-aVDogondoutchi
-p6343
-aa(lp6344
-S'Benn Robinson'
-p6345
-aS'2006'
-p6346
-aS'Prop'
-p6347
-aS'NSW'
-p6348
-aS'72'
-p6349
-aS'36'
-p6350
-aS'3'
-aS'15'
-p6351
-aVAustralia
-p6352
-aVNew South Wales
-p6353
-ag9
-aa(lp6354
-S'Brett Sheehan'
-p6355
-aS'2006'
-p6356
-aS'Scrum-half'
-p6357
-aS'WA'
-p6358
-aS'7'
-aS'3'
 aS'0'
-aS'0'
-aVUnited States of America
-p6359
-aVWashington
-p6360
-ag9
-aa(lp6361
-S'Julian Huxley'
-p6362
-aS'2007'
-p6363
-aS'Fly-half, Fullback'
-p6364
-aS'NSW'
-p6365
 aS'9'
-aS'8'
-aS'2'
-aS'22'
-p6366
+aS'45'
+p6325
+aS'NSW'
+p6326
 aVAustralia
-p6367
+p6327
 aVNew South Wales
-p6368
+p6328
 ag9
-aa(lp6369
-S'Sam Norton-Knight'
-p6370
-aS'2007'
-p6371
-aS'Fly-half, Centre'
-p6372
-aS'Canberra'
-p6373
+aa(lp6329
+S'Alister Campbell'
+p6330
+aS'2005'
+p6331
+aS'Lock'
+p6332
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p6333
+aVAustralia
+p6334
+aVNew South Wales
+p6335
+ag9
+aa(lp6336
+S'Drew Mitchell'
+p6337
+aS'2005'
+p6338
+aS'Wing'
+p6339
+aS'63'
+p6340
+aS'33'
+p6341
+aS'28'
+p6342
 aS'2'
-aS'2'
+aS'30'
+p6343
+aS'150'
+p6344
+aS'NSW'
+p6345
+aVAustralia
+p6346
+aVNew South Wales
+p6347
+ag9
+aa(lp6348
+S'Adam Ashley-Cooper'
+p6349
+aS'2005'
+p6350
+aS'Centre'
+p6351
+aS'104'
+p6352
+aS'57'
+p6353
+aS'44'
+p6354
+aS'3'
+aS'30'
+p6355
+aS'150'
+p6356
+aS'NSW'
+p6357
+aVAustralia
+p6358
+aVNew South Wales
+p6359
+ag9
+aa(lp6360
+S'Lloyd Johansson'
+p6361
+aS'2005'
+p6362
+aS'Centre'
+p6363
+aS'3'
+aS'0'
+aS'3'
+aS'0'
 aS'1'
 aS'5'
+aS'VIC'
+p6364
 aVAustralia
-p6374
-aVAustralian Capital Territory
-p6375
-aVCanberra
-p6376
-aa(lp6377
-S'Digby Ioane'
-p6378
-aS'2007'
-p6379
-aS'Wing'
-p6380
-aS'Wellington'
-p6381
-aS'35'
-p6382
-aS'23'
-p6383
-aS'11'
-p6384
-aS'55'
-p6385
-aVNew Zealand/Aotearoa
-p6386
-aVWellington
-p6387
-aVWellington City
-p6388
-aa(lp6389
-S'James Horwill'
-p6390
-aS'2007'
-p6391
-aS'Lock'
-p6392
-aS'QLD'
-p6393
-aS'58'
-p6394
-aS'33'
-p6395
-aS'6'
-aS'30'
-p6396
-aVAustralia
-p6397
-aVQueensland
-p6398
+p6365
+aVVictoria
+p6366
 ag9
-aa(lp6399
-S'Berrick Barnes'
-p6400
-aS'2007'
-p6401
+aa(lp6367
+S'Alex Kanaar'
+p6368
+aS'2005'
+p6369
+aS'Flanker, Lock'
+p6370
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Nowra'
+p6371
+aVAustralia
+p6372
+aVNew South Wales
+p6373
+aVNowra
+p6374
+aa(lp6375
+S'Lachie Mackay'
+p6376
+aS'2005'
+p6377
 aS'Fly-half, Centre'
-p6402
-aS'QLD'
-p6403
-aS'51'
-p6404
-aS'34'
-p6405
+p6378
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p6379
+aVAustralia
+p6380
+aVNew South Wales
+p6381
+ag9
+aa(lp6382
+S'Greg Holmes'
+p6383
+aS'2005'
+p6384
+aS'Prop'
+p6385
+aS'13'
+p6386
 aS'8'
-aS'200'
+aS'5'
+aS'0'
+aS'2'
+aS'10'
+p6387
+aS'Qld'
+p6388
+aVAustralia
+p6389
+aVQueensland
+p6390
+ag9
+aa(lp6391
+S'Scott Fava'
+p6392
+aS'2005'
+p6393
+aS'No. 8'
+p6394
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'1'
+aS'5'
+aS'NSW'
+p6395
+aVAustralia
+p6396
+aVNew South Wales
+p6397
+ag9
+aa(lp6398
+S'Tatafu Polota-Nau'
+p6399
+aS'2005'
+p6400
+aS'Hooker'
+p6401
+aS'50'
+p6402
+aS'34'
+p6403
+aS'14'
+p6404
+aS'2'
+aS'2'
+aS'10'
+p6405
+aS'NSW'
 p6406
 aVAustralia
 p6407
-aVQueensland
+aVNew South Wales
 p6408
 ag9
 aa(lp6409
-S'Luke Burgess'
+S'David Fitter'
 p6410
-aS'2008'
+aS'2005'
 p6411
-aS'Scrum-half'
-p6412
-aS'NSW'
-p6413
-aS'37'
-p6414
-aS'25'
-p6415
-aS'1'
-aS'5'
-aVAustralia
-p6416
-aVNew South Wales
-p6417
-ag9
-aa(lp6418
-S'Peter Hynes'
-p6419
-aS'2008'
-p6420
-aS'Fullback, Wing'
-p6421
-aS'QLD'
-p6422
-aS'22'
-p6423
-aS'12'
-p6424
-aS'4'
-aS'20'
-p6425
-aVAustralia
-p6426
-aVQueensland
-p6427
-ag9
-aa(lp6428
-S'Dean Mumm'
-p6429
-aS'2008'
-p6430
-aS'Lock'
-p6431
-aS'Auckland'
-p6432
-aS'33'
-p6433
-aS'19'
-p6434
-aS'1'
-aS'5'
-aVNew Zealand/Aotearoa
-p6435
-aVAuckland
-p6436
-ag9
-aa(lp6437
-S'Ben Alexander'
-p6438
-aS'2008'
-p6439
 aS'Prop'
-p6440
-aS'NSW'
-p6441
-aS'72'
-p6442
-aS'41'
-p6443
+p6412
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'VIC'
+p6413
+aVAustralia
+p6414
+aVVictoria
+p6415
+ag9
+aa(lp6416
+S'Rodney Blake'
+p6417
+aS'2006'
+p6418
+aS'Prop'
+p6419
+aS'7'
+aS'3'
+aS'3'
+aS'1'
+aS'1'
+aS'5'
+aS'Tofoa'
+p6420
+aVTonga
+p6421
+aVTongatapu
+p6422
+aVVahe Kolomotu'a
+p6423
+aa(lp6424
+S'Tai McIsaac'
+p6425
+aS'2006'
+p6426
+aS'Hooker'
+p6427
+aS'8'
+aS'3'
 aS'4'
-aS'20'
+aS'1'
+aS'0'
+aS'0'
+aS'QLD'
+p6428
+aVAustralia
+p6429
+aVQueensland
+p6430
+ag9
+aa(lp6431
+S'Cameron Shepherd'
+p6432
+aS'2006'
+p6433
+aS'Fullback, Wing'
+p6434
+aS'9'
+aS'7'
+aS'1'
+aS'1'
+aS'3'
+aS'19'
+p6435
+aS'Windsor'
+p6436
+aVCanada
+p6437
+aVOntario
+p6438
+aVWindsor
+p6439
+aa(lp6440
+S'Josh Valentine'
+p6441
+aS'2006'
+p6442
+aS'Scrum-half'
+p6443
+aS'6'
+aS'4'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
 p6444
 aVAustralia
 p6445
@@ -15509,1259 +16988,1704 @@ aVNew South Wales
 p6446
 ag9
 aa(lp6447
-S'Ryan Cross'
+S'Wycliff Palu'
 p6448
-aS'2008'
+aS'2006'
 p6449
-aS'Centre'
+aS'No. 8'
 p6450
-aS'NSW'
+aS'54'
 p6451
-aS'18'
+aS'32'
 p6452
-aS'9'
-aS'6'
-aS'30'
+aS'18'
 p6453
-aVAustralia
-p6454
-aVNew South Wales
-p6455
-ag9
-aa(lp6456
-S'Lachie Turner'
-p6457
-aS'2008'
-p6458
-aS'Wing'
-p6459
-aS'NSW'
-p6460
-aS'15'
-p6461
-aS'9'
 aS'4'
-aS'20'
-p6462
-aVAustralia
-p6463
-aVNew South Wales
-p6464
-ag9
-aa(lp6465
-S'Timana Tahu'
-p6466
-aS'2008'
-p6467
-aS'Outside back'
-p6468
-aS'VIC'
-p6469
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p6470
-aVVictoria
-p6471
-ag9
-aa(lp6472
-S'Richard Brown'
-p6473
-aS'2008'
-p6474
-aS'Back-row'
-p6475
-aS'QLD'
-p6476
-aS'23'
-p6477
-aS'9'
 aS'1'
 aS'5'
-aVAustralia
-p6478
-aVQueensland
-p6479
-ag9
-aa(lp6480
-S'David Pocock'
-p6481
-aS'2008'
-p6482
-aS'Flanker'
-p6483
-aS'Gweru'
-p6484
-aS'46'
-p6485
-aS'28'
-p6486
-aS'4'
-aS'20'
-p6487
-aVZimbabwe
-p6488
-aVMidlands Province
-p6489
-aVGweru
-p6490
-aa(lp6491
-S'Quade Cooper'
-p6492
-aS'2008'
-p6493
-aS'Fly-half'
-p6494
-aS'Tokoroa'
-p6495
-aS'53'
-p6496
-aS'32'
-p6497
-aS'7'
-aS'126'
-p6498
-aVNew Zealand/Aotearoa
-p6499
-aVWaikato
-p6500
-aVSouth Waikato District
-p6501
-aa(lp6502
-S'Sekope Kepu'
-p6503
-aS'2008'
-p6504
-aS'Prop'
-p6505
 aS'NSW'
-p6506
-aS'52'
-p6507
-aS'28'
-p6508
-aS'0'
-aS'0'
+p6454
 aVAustralia
-p6509
+p6455
 aVNew South Wales
-p6510
+p6456
 ag9
-aa(lp6511
-S"James O'Connor"
-p6512
-aS'2008'
-p6513
-aS'Wing'
-p6514
-aS'QLD'
-p6515
-aS'44'
-p6516
-aS'22'
-p6517
-aS'14'
-p6518
-aS'223'
-p6519
-aVAustralia
-p6520
-aVQueensland
-p6521
-ag9
-aa(lp6522
-S'Peter Kimlin'
-p6523
-aS'2009'
-p6524
-aS'Lock'
-p6525
-aS'Canberra'
-p6526
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p6527
-aVAustralian Capital Territory
-p6528
-aVCanberra
-p6529
-aa(lp6530
-S'Pek Cowan'
-p6531
-aS'2009'
-p6532
+aa(lp6457
+S'Guy Shepherdson'
+p6458
+aS'2006'
+p6459
 aS'Prop'
-p6533
-aS'Wellington'
-p6534
-aS'10'
-p6535
-aS'8'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p6536
-aVWellington
-p6537
-aVWellington City
-p6538
-aa(lp6539
-S'Will Genia'
-p6540
-aS'2009'
-p6541
-aS'Scrum-half'
-p6542
-aS'Port Moresby'
-p6543
-aS'58'
-p6544
-aS'27'
-p6545
-aS'8'
-aS'40'
-p6546
-aVPapua Niugini
-p6547
-aVPapua Region
-p6548
-aVNational Capital District
-p6549
-aa(lp6550
-S'Kurtley Beale'
-p6551
-aS'2009'
-p6552
-aS'Fullback'
-p6553
-aS'NSW'
-p6554
-aS'49'
-p6555
-aS'29'
-p6556
+p6460
+aS'17'
+p6461
 aS'11'
-p6557
-aS'113'
-p6558
-aVAustralia
-p6559
-aVNew South Wales
-p6560
-ag9
-aa(lp6561
-S'Huia Edmonds'
-p6562
-aS'2010'
-p6563
-aS'Hooker'
-p6564
-aS'Ashburton'
-p6565
-aS'4'
+p6462
+aS'6'
+aS'0'
+aS'1'
+aS'5'
+aS'Djakata'
+p6463
+aVNiger
+p6464
+aVDosso
+p6465
+aVDogondoutchi
+p6466
+aa(lp6467
+S'Benn Robinson'
+p6468
+aS'2006'
+p6469
+aS'Prop'
+p6470
+aS'72'
+p6471
+aS'36'
+p6472
+aS'34'
+p6473
+aS'2'
 aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6566
-aVEngland
-p6567
-aVSouth West England
-p6568
-aa(lp6569
-S'Rob Horne'
-p6570
-aS'2010'
-p6571
-aS'Centre'
-p6572
+aS'15'
+p6474
 aS'NSW'
-p6573
+p6475
+aVAustralia
+p6476
+aVNew South Wales
+p6477
+ag9
+aa(lp6478
+S'Brett Sheehan'
+p6479
+aS'2006'
+p6480
+aS'Scrum-half'
+p6481
+aS'7'
+aS'3'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'WA'
+p6482
+aVUnited States of America
+p6483
+aVWashington
+p6484
+ag9
+aa(lp6485
+S'Julian Huxley'
+p6486
+aS'2007'
+p6487
+aS'Fly-half, Fullback'
+p6488
+aS'9'
+aS'8'
+aS'1'
+aS'0'
+aS'2'
+aS'22'
+p6489
+aS'NSW'
+p6490
+aVAustralia
+p6491
+aVNew South Wales
+p6492
+ag9
+aa(lp6493
+S'Sam Norton-Knight'
+p6494
+aS'2007'
+p6495
+aS'Fly-half, Centre'
+p6496
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Canberra'
+p6497
+aVAustralia
+p6498
+aVAustralian Capital Territory
+p6499
+aVCanberra
+p6500
+aa(lp6501
+S'Digby Ioane'
+p6502
+aS'2007'
+p6503
+aS'Wing'
+p6504
+aS'35'
+p6505
+aS'23'
+p6506
+aS'11'
+p6507
+aS'1'
+aS'11'
+p6508
+aS'55'
+p6509
+aS'Wellington'
+p6510
+aVNew Zealand/Aotearoa
+p6511
+aVWellington
+p6512
+aVWellington City
+p6513
+aa(lp6514
+S'James Horwill'
+p6515
+aS'2007'
+p6516
+aS'Lock'
+p6517
+aS'58'
+p6518
+aS'33'
+p6519
+aS'24'
+p6520
+aS'1'
+aS'6'
+aS'30'
+p6521
+aS'QLD'
+p6522
+aVAustralia
+p6523
+aVQueensland
+p6524
+ag9
+aa(lp6525
+S'Berrick Barnes'
+p6526
+aS'2007'
+p6527
+aS'Fly-half, Centre'
+p6528
+aS'51'
+p6529
+aS'34'
+p6530
+aS'17'
+p6531
+aS'0'
+aS'8'
+aS'200'
+p6532
+aS'QLD'
+p6533
+aVAustralia
+p6534
+aVQueensland
+p6535
+ag9
+aa(lp6536
+S'Luke Burgess'
+p6537
+aS'2008'
+p6538
+aS'Scrum-half'
+p6539
+aS'37'
+p6540
 aS'25'
-p6574
-aS'14'
-p6575
+p6541
+aS'12'
+p6542
+aS'0'
+aS'1'
+aS'5'
+aS'NSW'
+p6543
+aVAustralia
+p6544
+aVNew South Wales
+p6545
+ag9
+aa(lp6546
+S'Peter Hynes'
+p6547
+aS'2008'
+p6548
+aS'Fullback, Wing'
+p6549
+aS'22'
+p6550
+aS'12'
+p6551
+aS'9'
+aS'1'
 aS'4'
 aS'20'
-p6576
+p6552
+aS'QLD'
+p6553
 aVAustralia
-p6577
-aVNew South Wales
-p6578
+p6554
+aVQueensland
+p6555
 ag9
-aa(lp6579
-S"Salesi Ma'afu"
-p6580
-aS'2010'
-p6581
+aa(lp6556
+S'Dean Mumm'
+p6557
+aS'2008'
+p6558
+aS'Lock'
+p6559
+aS'33'
+p6560
+aS'19'
+p6561
+aS'14'
+p6562
+aS'0'
+aS'1'
+aS'5'
+aS'Auckland'
+p6563
+aVNew Zealand/Aotearoa
+p6564
+aVAuckland
+p6565
+ag9
+aa(lp6566
+S'Ben Alexander'
+p6567
+aS'2008'
+p6568
 aS'Prop'
+p6569
+aS'72'
+p6570
+aS'41'
+p6571
+aS'29'
+p6572
+aS'2'
+aS'4'
+aS'20'
+p6573
+aS'NSW'
+p6574
+aVAustralia
+p6575
+aVNew South Wales
+p6576
+ag9
+aa(lp6577
+S'Ryan Cross'
+p6578
+aS'2008'
+p6579
+aS'Centre'
+p6580
+aS'18'
+p6581
+aS'9'
+aS'9'
+aS'0'
+aS'6'
+aS'30'
 p6582
 aS'NSW'
 p6583
-aS'14'
+aVAustralia
 p6584
+aVNew South Wales
+p6585
+ag9
+aa(lp6586
+S'Lachie Turner'
+p6587
+aS'2008'
+p6588
+aS'Wing'
+p6589
+aS'15'
+p6590
 aS'9'
+aS'6'
+aS'0'
+aS'4'
+aS'20'
+p6591
+aS'NSW'
+p6592
+aVAustralia
+p6593
+aVNew South Wales
+p6594
+ag9
+aa(lp6595
+S'Timana Tahu'
+p6596
+aS'2008'
+p6597
+aS'Outside back'
+p6598
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'VIC'
+p6599
+aVAustralia
+p6600
+aVVictoria
+p6601
+ag9
+aa(lp6602
+S'Richard Brown'
+p6603
+aS'2008'
+p6604
+aS'Back-row'
+p6605
+aS'23'
+p6606
+aS'9'
+aS'14'
+p6607
+aS'0'
 aS'1'
 aS'5'
-aVAustralia
-p6585
-aVNew South Wales
-p6586
-ag9
-aa(lp6587
-S"Saia Fainga'a"
-p6588
-aS'2010'
-p6589
-aS'Hooker'
-p6590
-aS'NSW'
-p6591
-aS'36'
-p6592
-aS'17'
-p6593
-aS'0'
-aS'0'
-aVAustralia
-p6594
-aVNew South Wales
-p6595
-ag9
-aa(lp6596
-S'Matt Hodgson'
-p6597
-aS'2010'
-p6598
-aS'Back-row'
-p6599
-aS'NSW'
-p6600
-aS'11'
-p6601
-aS'7'
-aS'0'
-aS'0'
-aVAustralia
-p6602
-aVNew South Wales
-p6603
-ag9
-aa(lp6604
-S'Ben Daley'
-p6605
-aS'2010'
-p6606
-aS'Prop'
-p6607
-aS'NSW'
+aS'QLD'
 p6608
-aS'3'
-aS'2'
-aS'0'
-aS'0'
 aVAustralia
 p6609
-aVNew South Wales
+aVQueensland
 p6610
 ag9
 aa(lp6611
-S'James Slipper'
+S'David Pocock'
 p6612
-aS'2010'
+aS'2008'
 p6613
-aS'Prop'
+aS'Flanker'
 p6614
-aS'Qld'
+aS'46'
 p6615
-aS'63'
-p6616
-aS'33'
-p6617
-aS'0'
-aS'0'
-aVAustralia
-p6618
-aVQueensland
-p6619
-ag9
-aa(lp6620
-S'Ben McCalman'
-p6621
-aS'2010'
-p6622
-aS'Back-row'
-p6623
-aS'Dubbo'
-p6624
-aS'38'
-p6625
-aS'22'
-p6626
-aS'2'
-aS'10'
-p6627
-aVAustralia
-p6628
-aVNew South Wales
-p6629
-aVDubbo
-p6630
-aa(lp6631
-S'Rob Simmons'
-p6632
-aS'2010'
-p6633
-aS'Lock'
-p6634
-aS'QLD'
-p6635
-aS'50'
-p6636
-aS'26'
-p6637
-aS'1'
-aS'5'
-aVAustralia
-p6638
-aVQueensland
-p6639
-ag9
-aa(lp6640
-S"Anthony Fainga'a"
-p6641
-aS'2010'
-p6642
-aS'Centre'
-p6643
-aS'NSW'
-p6644
-aS'23'
-p6645
-aS'14'
-p6646
-aS'2'
-aS'10'
-p6647
-aVAustralia
-p6648
-aVNew South Wales
-p6649
-ag9
-aa(lp6650
-S'Pat McCabe'
-p6651
-aS'2010'
-p6652
-aS'Centre'
-p6653
-aS'NSW'
-p6654
-aS'24'
-p6655
-aS'14'
-p6656
-aS'5'
-aS'25'
-p6657
-aVAustralia
-p6658
-aVNew South Wales
-p6659
-ag9
-aa(lp6660
-S'Scott Higginbotham'
-p6661
-aS'2010'
-p6662
-aS'No. 8'
-p6663
-aS'WA'
-p6664
-aS'31'
-p6665
-aS'19'
-p6666
-aS'3'
-aS'15'
-p6667
-aVUnited States of America
-p6668
-aVWashington
-p6669
-ag9
-aa(lp6670
-S'Rod Davies'
-p6671
-aS'2011'
-p6672
-aS'Wing'
-p6673
-aS'Qld'
-p6674
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p6675
-aVQueensland
-p6676
-ag9
-aa(lp6677
-S'Nick Phipps'
-p6678
-aS'2011'
-p6679
-aS'Scrum-half'
-p6680
-aS'NSW'
-p6681
 aS'28'
-p6682
-aS'14'
-p6683
+p6616
+aS'17'
+p6617
+aS'1'
 aS'4'
 aS'20'
-p6684
+p6618
+aS'Gweru'
+p6619
+aVZimbabwe
+p6620
+aVMidlands Province
+p6621
+aVGweru
+p6622
+aa(lp6623
+S'Quade Cooper'
+p6624
+aS'2008'
+p6625
+aS'Fly-half'
+p6626
+aS'53'
+p6627
+aS'32'
+p6628
+aS'20'
+p6629
+aS'1'
+aS'7'
+aS'126'
+p6630
+aS'Tokoroa'
+p6631
+aVNew Zealand/Aotearoa
+p6632
+aVWaikato
+p6633
+aVSouth Waikato District
+p6634
+aa(lp6635
+S'Sekope Kepu'
+p6636
+aS'2008'
+p6637
+aS'Prop'
+p6638
+aS'52'
+p6639
+aS'28'
+p6640
+aS'22'
+p6641
+aS'2'
+aS'0'
+aS'0'
+aS'NSW'
+p6642
 aVAustralia
-p6685
+p6643
 aVNew South Wales
-p6686
+p6644
 ag9
-aa(lp6687
-S'Sitaleki Timani'
-p6688
-aS'2011'
-p6689
+aa(lp6645
+S"James O'Connor"
+p6646
+aS'2008'
+p6647
+aS'Wing'
+p6648
+aS'44'
+p6649
+aS'22'
+p6650
+aS'21'
+p6651
+aS'1'
+aS'14'
+p6652
+aS'223'
+p6653
+aS'QLD'
+p6654
+aVAustralia
+p6655
+aVQueensland
+p6656
+ag9
+aa(lp6657
+S'Peter Kimlin'
+p6658
+aS'2009'
+p6659
 aS'Lock'
+p6660
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Canberra'
+p6661
+aVAustralia
+p6662
+aVAustralian Capital Territory
+p6663
+aVCanberra
+p6664
+aa(lp6665
+S'Pek Cowan'
+p6666
+aS'2009'
+p6667
+aS'Prop'
+p6668
+aS'10'
+p6669
+aS'8'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Wellington'
+p6670
+aVNew Zealand/Aotearoa
+p6671
+aVWellington
+p6672
+aVWellington City
+p6673
+aa(lp6674
+S'Will Genia'
+p6675
+aS'2009'
+p6676
+aS'Scrum-half'
+p6677
+aS'58'
+p6678
+aS'27'
+p6679
+aS'30'
+p6680
+aS'1'
+aS'8'
+aS'40'
+p6681
+aS'Port Moresby'
+p6682
+aVPapua Niugini
+p6683
+aVPapua Region
+p6684
+aVNational Capital District
+p6685
+aa(lp6686
+S'Kurtley Beale'
+p6687
+aS'2009'
+p6688
+aS'Fullback'
+p6689
+aS'49'
 p6690
-aS'Navutoka'
+aS'29'
 p6691
 aS'18'
 p6692
-aS'10'
+aS'2'
+aS'11'
 p6693
-aS'0'
-aS'0'
-aVTonga
+aS'113'
 p6694
-aVTongatapu
+aS'NSW'
 p6695
-aVVahe Lapaha
+aVAustralia
 p6696
-aa(lp6697
-S'Beau Robinson'
-p6698
-aS'2011'
+aVNew South Wales
+p6697
+ag9
+aa(lp6698
+S'Huia Edmonds'
 p6699
-aS'Flanker'
+aS'2010'
 p6700
-aS'NT'
+aS'Hooker'
 p6701
+aS'4'
+aS'3'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVAustralia
+aS'Ashburton'
 p6702
-aVNorthern Territory
+aVUnited Kingdom
 p6703
-ag9
-aa(lp6704
-S'Ben Tapuai'
+aVEngland
+p6704
+aVSouth West England
 p6705
-aS'2011'
-p6706
-aS'Centre'
+aa(lp6706
+S'Rob Horne'
 p6707
-aS'QLD'
+aS'2010'
 p6708
-aS'7'
+aS'Centre'
+p6709
+aS'25'
+p6710
+aS'14'
+p6711
+aS'10'
+p6712
+aS'1'
+aS'4'
+aS'20'
+p6713
+aS'NSW'
+p6714
+aVAustralia
+p6715
+aVNew South Wales
+p6716
+ag9
+aa(lp6717
+S"Salesi Ma'afu"
+p6718
+aS'2010'
+p6719
+aS'Prop'
+p6720
+aS'14'
+p6721
+aS'9'
 aS'5'
 aS'0'
-aS'0'
-aVAustralia
-p6709
-aVQueensland
-p6710
-ag9
-aa(lp6711
-S'Dave Dennis'
-p6712
-aS'2012'
-p6713
-aS'Flanker'
-p6714
+aS'1'
+aS'5'
 aS'NSW'
-p6715
-aS'18'
-p6716
-aS'11'
-p6717
-aS'0'
-aS'0'
-aVAustralia
-p6718
-aVNew South Wales
-p6719
-ag9
-aa(lp6720
-S'Mike Harris'
-p6721
-aS'2012'
 p6722
-aS'Centre'
+aVAustralia
 p6723
-aS'North Shore'
+aVNew South Wales
 p6724
+ag9
+aa(lp6725
+S"Saia Fainga'a"
+p6726
+aS'2010'
+p6727
+aS'Hooker'
+p6728
+aS'36'
+p6729
+aS'17'
+p6730
+aS'19'
+p6731
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p6732
+aVAustralia
+p6733
+aVNew South Wales
+p6734
+ag9
+aa(lp6735
+S'Matt Hodgson'
+p6736
+aS'2010'
+p6737
+aS'Back-row'
+p6738
+aS'11'
+p6739
+aS'7'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p6740
+aVAustralia
+p6741
+aVNew South Wales
+p6742
+ag9
+aa(lp6743
+S'Ben Daley'
+p6744
+aS'2010'
+p6745
+aS'Prop'
+p6746
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p6747
+aVAustralia
+p6748
+aVNew South Wales
+p6749
+ag9
+aa(lp6750
+S'James Slipper'
+p6751
+aS'2010'
+p6752
+aS'Prop'
+p6753
+aS'63'
+p6754
+aS'33'
+p6755
+aS'28'
+p6756
+aS'2'
+aS'0'
+aS'0'
+aS'Qld'
+p6757
+aVAustralia
+p6758
+aVQueensland
+p6759
+ag9
+aa(lp6760
+S'Ben McCalman'
+p6761
+aS'2010'
+p6762
+aS'Back-row'
+p6763
+aS'38'
+p6764
+aS'22'
+p6765
+aS'16'
+p6766
+aS'0'
+aS'2'
 aS'10'
-p6725
+p6767
+aS'Dubbo'
+p6768
+aVAustralia
+p6769
+aVNew South Wales
+p6770
+aVDubbo
+p6771
+aa(lp6772
+S'Rob Simmons'
+p6773
+aS'2010'
+p6774
+aS'Lock'
+p6775
+aS'50'
+p6776
+aS'26'
+p6777
+aS'23'
+p6778
+aS'1'
+aS'1'
+aS'5'
+aS'QLD'
+p6779
+aVAustralia
+p6780
+aVQueensland
+p6781
+ag9
+aa(lp6782
+S"Anthony Fainga'a"
+p6783
+aS'2010'
+p6784
+aS'Centre'
+p6785
+aS'23'
+p6786
+aS'14'
+p6787
+aS'9'
+aS'0'
+aS'2'
+aS'10'
+p6788
+aS'NSW'
+p6789
+aVAustralia
+p6790
+aVNew South Wales
+p6791
+ag9
+aa(lp6792
+S'Pat McCabe'
+p6793
+aS'2010'
+p6794
+aS'Centre'
+p6795
+aS'24'
+p6796
+aS'14'
+p6797
+aS'8'
+aS'2'
+aS'5'
+aS'25'
+p6798
+aS'NSW'
+p6799
+aVAustralia
+p6800
+aVNew South Wales
+p6801
+ag9
+aa(lp6802
+S'Scott Higginbotham'
+p6803
+aS'2010'
+p6804
+aS'No. 8'
+p6805
+aS'31'
+p6806
+aS'19'
+p6807
+aS'10'
+p6808
+aS'2'
+aS'3'
+aS'15'
+p6809
+aS'WA'
+p6810
+aVUnited States of America
+p6811
+aVWashington
+p6812
+ag9
+aa(lp6813
+S'Rod Davies'
+p6814
+aS'2011'
+p6815
+aS'Wing'
+p6816
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Qld'
+p6817
+aVAustralia
+p6818
+aVQueensland
+p6819
+ag9
+aa(lp6820
+S'Nick Phipps'
+p6821
+aS'2011'
+p6822
+aS'Scrum-half'
+p6823
+aS'28'
+p6824
+aS'14'
+p6825
+aS'12'
+p6826
+aS'2'
+aS'4'
+aS'20'
+p6827
+aS'NSW'
+p6828
+aVAustralia
+p6829
+aVNew South Wales
+p6830
+ag9
+aa(lp6831
+S'Sitaleki Timani'
+p6832
+aS'2011'
+p6833
+aS'Lock'
+p6834
+aS'18'
+p6835
+aS'10'
+p6836
+aS'7'
+aS'1'
+aS'0'
+aS'0'
+aS'Navutoka'
+p6837
+aVTonga
+p6838
+aVTongatapu
+p6839
+aVVahe Lapaha
+p6840
+aa(lp6841
+S'Beau Robinson'
+p6842
+aS'2011'
+p6843
+aS'Flanker'
+p6844
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NT'
+p6845
+aVAustralia
+p6846
+aVNorthern Territory
+p6847
+ag9
+aa(lp6848
+S'Ben Tapuai'
+p6849
+aS'2011'
+p6850
+aS'Centre'
+p6851
+aS'7'
+aS'5'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'QLD'
+p6852
+aVAustralia
+p6853
+aVQueensland
+p6854
+ag9
+aa(lp6855
+S'Dave Dennis'
+p6856
+aS'2012'
+p6857
+aS'Flanker'
+p6858
+aS'18'
+p6859
+aS'11'
+p6860
 aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p6861
+aVAustralia
+p6862
+aVNew South Wales
+p6863
+ag9
+aa(lp6864
+S'Mike Harris'
+p6865
+aS'2012'
+p6866
+aS'Centre'
+p6867
+aS'10'
+p6868
+aS'6'
+aS'3'
+aS'1'
 aS'1'
 aS'55'
-p6726
+p6869
+aS'North Shore'
+p6870
 aVUnited States of America
-p6727
+p6871
 aVWisconsin
-p6728
+p6872
 aVJefferson County
-p6729
-aa(lp6730
+p6873
+aa(lp6874
 S'Luke Morahan'
-p6731
+p6875
 aS'2012'
-p6732
+p6876
 aS'Fullback'
-p6733
+p6877
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'QLD'
-p6734
-aS'1'
-aS'0'
-aS'0'
-aS'0'
+p6878
 aVAustralia
-p6735
+p6879
 aVQueensland
-p6736
+p6880
 ag9
-aa(lp6737
+aa(lp6881
 S'Dan Palmer'
-p6738
+p6882
 aS'2012'
-p6739
+p6883
 aS'Prop'
-p6740
-aS'NSW'
-p6741
+p6884
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'NSW'
+p6885
 aVAustralia
-p6742
+p6886
 aVNew South Wales
-p6743
+p6887
 ag9
-aa(lp6744
+aa(lp6888
 S'Joe Tomane'
-p6745
+p6889
 aS'2012'
-p6746
+p6890
 aS'Wing'
-p6747
-aS'Palmerston North'
-p6748
+p6891
 aS'14'
-p6749
+p6892
 aS'7'
+aS'7'
+aS'0'
 aS'3'
 aS'15'
-p6750
+p6893
+aS'Palmerston North'
+p6894
 aVNew Zealand/Aotearoa
-p6751
+p6895
 aVManawatu-Wanganui
-p6752
+p6896
 aVPalmerston North City
-p6753
-aa(lp6754
+p6897
+aa(lp6898
 S'Michael Hooper'
-p6755
+p6899
 aS'2012'
-p6756
+p6900
 aS'Flanker'
-p6757
-aS'NSW'
-p6758
+p6901
 aS'42'
-p6759
+p6902
 aS'21'
-p6760
+p6903
+aS'19'
+p6904
+aS'2'
 aS'7'
 aS'35'
-p6761
-aVAustralia
-p6762
-aVNew South Wales
-p6763
-ag9
-aa(lp6764
-S'Cooper Vuna'
-p6765
-aS'2012'
-p6766
-aS'Wing, Centre'
-p6767
-aS'Auckland'
-p6768
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p6769
-aVAuckland
-p6770
-ag9
-aa(lp6771
-S'Liam Gill'
-p6772
-aS'2012'
-p6773
-aS'Flanker'
-p6774
-aS'VIC'
-p6775
-aS'15'
-p6776
-aS'7'
-aS'0'
-aS'0'
-aVAustralia
-p6777
-aVVictoria
-p6778
-ag9
-aa(lp6779
-S'Dom Shipperley'
-p6780
-aS'2012'
-p6781
-aS'Wing'
-p6782
-aS'Redcliffe'
-p6783
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p6784
-aVQueensland
-p6785
-aVRedcliffe
-p6786
-aa(lp6787
-S'Kane Douglas'
-p6788
-aS'2012'
-p6789
-aS'Lock'
-p6790
-aS'Maclean'
-p6791
-aS'14'
-p6792
-aS'6'
-aS'0'
-aS'0'
-aVAustralia
-p6793
-aVNew South Wales
-p6794
-aVMaclean
-p6795
-aa(lp6796
-S'Nick Cummins'
-p6797
-aS'2012'
-p6798
-aS'Wing'
-p6799
-aS'Port Macquarie'
-p6800
-aS'15'
-p6801
-aS'11'
-p6802
-aS'6'
-aS'30'
-p6803
-aVAustralia
-p6804
-aVNew South Wales
-p6805
-aVPort Macquarie
-p6806
-aa(lp6807
-S'James Hanson'
-p6808
-aS'2012'
-p6809
-aS'Hooker'
-p6810
-aS'QLD'
-p6811
-aS'9'
-aS'3'
-aS'0'
-aS'0'
-aVAustralia
-p6812
-aVQueensland
-p6813
-ag9
-aa(lp6814
-S'Paddy Ryan'
-p6815
-aS'2012'
-p6816
-aS'Prop'
-p6817
-aS'NSW'
-p6818
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p6819
-aVNew South Wales
-p6820
-ag9
-aa(lp6821
-S'Israel Folau'
-p6822
-aS'2013'
-p6823
-aS'Fullback'
-p6824
-aS'Qld'
-p6825
-aS'29'
-p6826
-aS'13'
-p6827
-aS'17'
-p6828
-aS'85'
-p6829
-aVAustralia
-p6830
-aVQueensland
-p6831
-ag9
-aa(lp6832
-S"Christian Leali'ifano"
-p6833
-aS'2013'
-p6834
-aS'Fly-half'
-p6835
-aS'Auckland'
-p6836
-aS'16'
-p6837
-aS'8'
-aS'1'
-aS'124'
-p6838
-aVNew Zealand/Aotearoa
-p6839
-aVAuckland
-p6840
-ag9
-aa(lp6841
-S'Ben Mowen'
-p6842
-aS'2013'
-p6843
-aS'No. 8'
-p6844
-aS'QLD'
-p6845
-aS'15'
-p6846
-aS'7'
-aS'1'
-aS'5'
-aVAustralia
-p6847
-aVQueensland
-p6848
-ag9
-aa(lp6849
-S'Jesse Mogg'
-p6850
-aS'2013'
-p6851
-aS'Fullback'
-p6852
-aS'QLD'
-p6853
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p6854
-aVQueensland
-p6855
-ag9
-aa(lp6856
-S'Matt Toomua'
-p6857
-aS'2013'
-p6858
-aS'Fly-half'
-p6859
-aS'VIC'
-p6860
-aS'21'
-p6861
-aS'9'
-aS'3'
-aS'15'
-p6862
-aVAustralia
-p6863
-aVVictoria
-p6864
-ag9
-aa(lp6865
-S'Scott Fardy'
-p6866
-aS'2013'
-p6867
-aS'Flanker'
-p6868
-aS'NSW'
-p6869
-aS'20'
-p6870
-aS'10'
-p6871
-aS'0'
-aS'0'
-aVAustralia
-p6872
-aVNew South Wales
-p6873
-ag9
-aa(lp6874
-S'Tevita Kuridrani'
-p6875
-aS'2013'
-p6876
-aS'Centre'
-p6877
-aS'Suva'
-p6878
-aS'20'
-p6879
-aS'9'
-aS'4'
-aS'20'
-p6880
-aVViti
-p6881
-aVCentral
-p6882
-aVSuva
-p6883
-aa(lp6884
-S'Scott Sio'
-p6885
-aS'2013'
-p6886
-aS'Prop'
-p6887
-aS'NSW'
-p6888
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p6889
-aVNew South Wales
-p6890
-ag9
-aa(lp6891
-S'Nic White'
-p6892
-aS'2013'
-p6893
-aS'Scrum-half'
-p6894
-aS'NSW'
-p6895
-aS'19'
-p6896
-aS'9'
-aS'0'
-aS'6'
-aVAustralia
-p6897
-aVNew South Wales
-p6898
-ag9
-aa(lp6899
-S'Chris Feauai-Sautia'
-p6900
-aS'2013'
-p6901
-aS'Wing'
-p6902
-aS'Auckland'
-p6903
-aS'2'
-aS'1'
-aS'2'
-aS'10'
-p6904
-aVNew Zealand/Aotearoa
 p6905
-aVAuckland
-p6906
-ag9
-aa(lp6907
-S'Bernard Foley'
-p6908
-aS'2013'
-p6909
-aS'Fly-half'
-p6910
 aS'NSW'
-p6911
-aS'18'
-p6912
-aS'8'
-aS'4'
-aS'156'
-p6913
+p6906
 aVAustralia
-p6914
+p6907
 aVNew South Wales
+p6908
+ag9
+aa(lp6909
+S'Cooper Vuna'
+p6910
+aS'2012'
+p6911
+aS'Wing, Centre'
+p6912
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p6913
+aVNew Zealand/Aotearoa
+p6914
+aVAuckland
 p6915
 ag9
 aa(lp6916
-S'Peter Betham'
+S'Liam Gill'
 p6917
-aS'2013'
+aS'2012'
 p6918
-aS'Wing'
+aS'Flanker'
 p6919
-aS'Wellington'
+aS'15'
 p6920
+aS'7'
+aS'7'
+aS'1'
+aS'0'
+aS'0'
+aS'VIC'
+p6921
+aVAustralia
+p6922
+aVVictoria
+p6923
+ag9
+aa(lp6924
+S'Dom Shipperley'
+p6925
+aS'2012'
+p6926
+aS'Wing'
+p6927
+aS'3'
 aS'2'
 aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Redcliffe'
+p6928
+aVAustralia
+p6929
+aVQueensland
+p6930
+aVRedcliffe
+p6931
+aa(lp6932
+S'Kane Douglas'
+p6933
+aS'2012'
+p6934
+aS'Lock'
+p6935
+aS'14'
+p6936
+aS'6'
+aS'7'
+aS'1'
+aS'0'
+aS'0'
+aS'Maclean'
+p6937
+aVAustralia
+p6938
+aVNew South Wales
+p6939
+aVMaclean
+p6940
+aa(lp6941
+S'Nick Cummins'
+p6942
+aS'2012'
+p6943
+aS'Wing'
+p6944
+aS'15'
+p6945
+aS'11'
+p6946
+aS'3'
+aS'1'
+aS'6'
+aS'30'
+p6947
+aS'Port Macquarie'
+p6948
+aVAustralia
+p6949
+aVNew South Wales
+p6950
+aVPort Macquarie
+p6951
+aa(lp6952
+S'James Hanson'
+p6953
+aS'2012'
+p6954
+aS'Hooker'
+p6955
+aS'9'
+aS'3'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'QLD'
+p6956
+aVAustralia
+p6957
+aVQueensland
+p6958
+ag9
+aa(lp6959
+S'Paddy Ryan'
+p6960
+aS'2012'
+p6961
+aS'Prop'
+p6962
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p6963
+aVAustralia
+p6964
+aVNew South Wales
+p6965
+ag9
+aa(lp6966
+S'Israel Folau'
+p6967
+aS'2013'
+p6968
+aS'Fullback'
+p6969
+aS'29'
+p6970
+aS'13'
+p6971
+aS'15'
+p6972
+aS'1'
+aS'17'
+p6973
+aS'85'
+p6974
+aS'Qld'
+p6975
+aVAustralia
+p6976
+aVQueensland
+p6977
+ag9
+aa(lp6978
+S"Christian Leali'ifano"
+p6979
+aS'2013'
+p6980
+aS'Fly-half'
+p6981
+aS'16'
+p6982
+aS'8'
+aS'8'
+aS'0'
+aS'1'
+aS'124'
+p6983
+aS'Auckland'
+p6984
+aVNew Zealand/Aotearoa
+p6985
+aVAuckland
+p6986
+ag9
+aa(lp6987
+S'Ben Mowen'
+p6988
+aS'2013'
+p6989
+aS'No. 8'
+p6990
+aS'15'
+p6991
+aS'7'
+aS'8'
+aS'0'
 aS'1'
 aS'5'
-aVNew Zealand/Aotearoa
-p6921
-aVWellington
-p6922
-aVWellington City
-p6923
-aa(lp6924
-S'Sam Carter'
-p6925
-aS'2014'
-p6926
-aS'Lock'
-p6927
-aS'NSW'
-p6928
-aS'11'
-p6929
-aS'4'
-aS'0'
-aS'0'
+aS'QLD'
+p6992
 aVAustralia
-p6930
-aVNew South Wales
-p6931
+p6993
+aVQueensland
+p6994
 ag9
-aa(lp6932
-S'Nathan Charles'
-p6933
-aS'2014'
-p6934
-aS'Hooker'
-p6935
-aS'NSW'
-p6936
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p6937
-aVNew South Wales
-p6938
-ag9
-aa(lp6939
-S'Luke Jones'
-p6940
-aS'2014'
-p6941
-aS'Lock'
-p6942
-aS'NSW'
-p6943
+aa(lp6995
+S'Jesse Mogg'
+p6996
+aS'2013'
+p6997
+aS'Fullback'
+p6998
 aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p6999
+aVAustralia
+p7000
+aVQueensland
+p7001
+ag9
+aa(lp7002
+S'Matt Toomua'
+p7003
+aS'2013'
+p7004
+aS'Fly-half'
+p7005
+aS'21'
+p7006
+aS'9'
+aS'11'
+p7007
+aS'1'
+aS'3'
+aS'15'
+p7008
+aS'VIC'
+p7009
+aVAustralia
+p7010
+aVVictoria
+p7011
+ag9
+aa(lp7012
+S'Scott Fardy'
+p7013
+aS'2013'
+p7014
+aS'Flanker'
+p7015
+aS'20'
+p7016
+aS'10'
+p7017
+aS'9'
 aS'1'
 aS'0'
 aS'0'
-aVAustralia
-p6944
-aVNew South Wales
-p6945
-ag9
-aa(lp6946
-S'Laurie Weeks'
-p6947
-aS'2014'
-p6948
-aS'Prop'
-p6949
 aS'NSW'
-p6950
-aS'2'
-aS'2'
-aS'0'
-aS'0'
+p7018
 aVAustralia
-p6951
+p7019
 aVNew South Wales
-p6952
+p7020
 ag9
-aa(lp6953
-S'Will Skelton'
-p6954
-aS'2014'
-p6955
-aS'Lock'
-p6956
-aS'Auckland'
-p6957
-aS'8'
+aa(lp7021
+S'Tevita Kuridrani'
+p7022
+aS'2013'
+p7023
+aS'Centre'
+p7024
+aS'20'
+p7025
+aS'9'
+aS'11'
+p7026
+aS'0'
+aS'4'
+aS'20'
+p7027
+aS'Suva'
+p7028
+aVViti
+p7029
+aVCentral
+p7030
+aVSuva
+p7031
+aa(lp7032
+S'Scott Sio'
+p7033
+aS'2013'
+p7034
+aS'Prop'
+p7035
+aS'5'
 aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p7036
+aVAustralia
+p7037
+aVNew South Wales
+p7038
+ag9
+aa(lp7039
+S'Nic White'
+p7040
+aS'2013'
+p7041
+aS'Scrum-half'
+p7042
+aS'19'
+p7043
+aS'9'
+aS'9'
+aS'1'
+aS'0'
+aS'6'
+aS'NSW'
+p7044
+aVAustralia
+p7045
+aVNew South Wales
+p7046
+ag9
+aa(lp7047
+S'Chris Feauai-Sautia'
+p7048
+aS'2013'
+p7049
+aS'Wing'
+p7050
+aS'2'
+aS'1'
+aS'1'
+aS'0'
 aS'2'
 aS'10'
-p6958
+p7051
+aS'Auckland'
+p7052
 aVNew Zealand/Aotearoa
-p6959
+p7053
 aVAuckland
-p6960
+p7054
 ag9
-aa(lp6961
-S'Josh Mann-Rea'
-p6962
-aS'2014'
-p6963
-aS'Hooker'
-p6964
-aS'Narromine'
-p6965
-aS'2'
-aS'0'
-aS'0'
-aS'0'
+aa(lp7055
+S'Bernard Foley'
+p7056
+aS'2013'
+p7057
+aS'Fly-half'
+p7058
+aS'18'
+p7059
+aS'8'
+aS'9'
+aS'1'
+aS'4'
+aS'156'
+p7060
+aS'NSW'
+p7061
 aVAustralia
-p6966
+p7062
 aVNew South Wales
-p6967
-aVNarromine
-p6968
-aa(lp6969
-S'Jake Schatz'
-p6970
-aS'2014'
-p6971
-aS'No. 8'
-p6972
-aS'QLD'
-p6973
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p6974
-aVQueensland
-p6975
+p7063
 ag9
-aa(lp6976
-S'Sean McMahon'
-p6977
+aa(lp7064
+S'Peter Betham'
+p7065
+aS'2013'
+p7066
+aS'Wing'
+p7067
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Wellington'
+p7068
+aVNew Zealand/Aotearoa
+p7069
+aVWellington
+p7070
+aVWellington City
+p7071
+aa(lp7072
+S'Sam Carter'
+p7073
 aS'2014'
-p6978
-aS'Flanker'
-p6979
-aS'QLD'
-p6980
+p7074
+aS'Lock'
+p7075
+aS'11'
+p7076
+aS'4'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p7077
+aVAustralia
+p7078
+aVNew South Wales
+p7079
+ag9
+aa(lp7080
+S'Nathan Charles'
+p7081
+aS'2014'
+p7082
+aS'Hooker'
+p7083
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'NSW'
+p7084
+aVAustralia
+p7085
+aVNew South Wales
+p7086
+ag9
+aa(lp7087
+S'Luke Jones'
+p7088
+aS'2014'
+p7089
+aS'Lock'
+p7090
 aS'3'
 aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p6981
-aVQueensland
-p6982
-ag9
-aa(lp6983
-S'Tetera Faulkner'
-p6984
-aS'2014'
-p6985
-aS'Prop'
-p6986
-aS'Tauranga'
-p6987
 aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p7091
+aVAustralia
+p7092
+aVNew South Wales
+p7093
+ag9
+aa(lp7094
+S'Laurie Weeks'
+p7095
+aS'2014'
+p7096
+aS'Prop'
+p7097
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p7098
+aVAustralia
+p7099
+aVNew South Wales
+p7100
+ag9
+aa(lp7101
+S'Will Skelton'
+p7102
+aS'2014'
+p7103
+aS'Lock'
+p7104
+aS'8'
+aS'2'
+aS'5'
+aS'1'
+aS'2'
+aS'10'
+p7105
+aS'Auckland'
+p7106
+aVNew Zealand/Aotearoa
+p7107
+aVAuckland
+p7108
+ag9
+aa(lp7109
+S'Josh Mann-Rea'
+p7110
+aS'2014'
+p7111
+aS'Hooker'
+p7112
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Narromine'
+p7113
+aVAustralia
+p7114
+aVNew South Wales
+p7115
+aVNarromine
+p7116
+aa(lp7117
+S'Jake Schatz'
+p7118
+aS'2014'
+p7119
+aS'No. 8'
+p7120
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p7121
+aVAustralia
+p7122
+aVQueensland
+p7123
+ag9
+aa(lp7124
+S'Sean McMahon'
+p7125
+aS'2014'
+p7126
+aS'Flanker'
+p7127
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p7128
+aVAustralia
+p7129
+aVQueensland
+p7130
+ag9
+aa(lp7131
+S'Tetera Faulkner'
+p7132
+aS'2014'
+p7133
+aS'Prop'
+p7134
+aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Tauranga'
+p7135
 aVNew Zealand/Aotearoa
-p6988
+p7136
 aVBay of Plenty
-p6989
+p7137
 aVTauranga City
-p6990
-aa(lp6991
+p7138
+aa(lp7139
 S'Henry Speight'
-p6992
+p7140
 aS'2014'
-p6993
+p7141
 aS'Wing'
-p6994
-aS'Suva'
-p6995
+p7142
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Suva'
+p7143
 aVViti
-p6996
+p7144
 aVCentral
-p6997
+p7145
 aVSuva
-p6998
+p7146
 aa.

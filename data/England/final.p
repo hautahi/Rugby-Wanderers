@@ -6,12 +6,14 @@ aS'1871'
 p4
 aS'Halfback'
 p5
-aS'Derbyshire'
-p6
 aS'2'
 aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aNaS'Derbyshire'
+p6
+aVUnited Kingdom
 p7
 aVDerbyshire
 p8
@@ -24,12 +26,14 @@ aS'1871'
 p12
 aS'Forward'
 p13
-aS'London'
-p14
 aS'4'
 aS'2'
 aS'1'
-aNaVUnited Kingdom
+aS'1'
+aS'1'
+aNaS'London'
+p14
+aVUnited Kingdom
 p15
 aVEngland
 p16
@@ -42,12 +46,14 @@ aS'1871'
 p20
 aS'Forward'
 p21
-aS'Perth'
-p22
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVAustralia
+aNaS'Perth'
+p22
+aVAustralia
 p23
 aVWestern Australia
 p24
@@ -60,12 +66,14 @@ aS'1871'
 p28
 aS'Forward'
 p29
-aS'Liverpool'
-p30
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Liverpool'
+p30
+aVUnited Kingdom
 p31
 aVEngland
 p32
@@ -78,12 +86,14 @@ aS'1871'
 p36
 aS'Forward'
 p37
-aS'Cork'
-p38
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVRepublic of Ireland
+aNaS'Cork'
+p38
+aVRepublic of Ireland
 p39
 aVMunster
 p40
@@ -96,12 +106,14 @@ aS'1871'
 p44
 aS'Forward'
 p45
-aS'Oxford'
-p46
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Oxford'
+p46
+aVUnited Kingdom
 p47
 aVEngland
 p48
@@ -114,12 +126,14 @@ aS'1871'
 p52
 aS'Forward'
 p53
-aS'Salford'
-p54
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Salford'
+p54
+aVUnited Kingdom
 p55
 aVEngland
 p56
@@ -132,12 +146,14 @@ aS'1871'
 p60
 aS'Forward'
 p61
-aS'Hampshire'
-p62
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Hampshire'
+p62
+aVUnited Kingdom
 p63
 aVEngland
 p64
@@ -150,12 +166,14 @@ aS'1871'
 p68
 aS'Halfback'
 p69
-aS'W Ham'
-p70
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'W Ham'
+p70
+aVUnited Kingdom
 p71
 aVEngland
 p72
@@ -168,12 +186,14 @@ aS'1871'
 p76
 aS'Fullback'
 p77
-aS'Lewisham'
-p78
 aS'2'
 aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aNaS'Lewisham'
+p78
+aVUnited Kingdom
 p79
 aVEngland
 p80
@@ -186,12 +206,14 @@ aS'1871'
 p84
 aS'Forward'
 p85
-aS'Oxon'
-p86
 aS'4'
 aS'2'
 aS'1'
-aNaVUnited Kingdom
+aS'1'
+aS'1'
+aNaS'Oxon'
+p86
+aVUnited Kingdom
 p87
 aVEngland
 p88
@@ -204,12 +226,14 @@ aS'1871'
 p92
 aS'Forward'
 p93
-aS'Kent'
-p94
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Kent'
+p94
+aVUnited Kingdom
 p95
 aVEngland
 p96
@@ -222,12 +246,14 @@ aS'1871'
 p100
 aS'Fullback'
 p101
-aS'W Derby'
-p102
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'W Derby'
+p102
+aVUnited Kingdom
 p103
 aVEngland
 p104
@@ -240,12 +266,14 @@ aS'1871'
 p108
 aS'Three-quarters'
 p109
-aS'Lancashire'
-p110
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Lancashire'
+p110
+aVUnited Kingdom
 p111
 aVEngland
 p112
@@ -258,12 +286,14 @@ aS'1871'
 p116
 aS'Fullback'
 p117
-aS'Yorks'
-p118
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVDeutschland
+aNaS'Yorks'
+p118
+aVDeutschland
 p119
 aV10965
 p120
@@ -276,12 +306,14 @@ aS'1871'
 p124
 aS'Forward'
 p125
-aS'London'
-p126
 aS'2'
 aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aNaS'London'
+p126
+aVUnited Kingdom
 p127
 aVEngland
 p128
@@ -294,12 +326,14 @@ aS'1871'
 p132
 aS'Forward'
 p133
-aS'Greenwich'
-p134
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Greenwich'
+p134
+aVUnited Kingdom
 p135
 aVEngland
 p136
@@ -312,12 +346,14 @@ aS'1871'
 p140
 aS'Halfback'
 p141
-aS'Liverpool'
-p142
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Liverpool'
+p142
+aVUnited Kingdom
 p143
 aVEngland
 p144
@@ -330,12 +366,14 @@ aS'1871'
 p148
 aS'Forward'
 p149
-aS'Calcutta'
-p150
 aS'6'
 aS'3'
+aS'1'
+aS'2'
 aS'0'
-aNaVIndia
+aNaS'Calcutta'
+p150
+aVIndia
 p151
 aVWest Bengal
 p152
@@ -348,12 +386,14 @@ aS'1871'
 p156
 aS'Forward'
 p157
-aS'Sussex'
-p158
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited States of America
+aNaS'Sussex'
+p158
+aVUnited States of America
 p159
 aVVirginia
 p160
@@ -366,12 +406,14 @@ aS'1872'
 p164
 aS'Forward'
 p165
-aS'Hereford'
-p166
 aS'3'
 aS'3'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Hereford'
+p166
+aVUnited Kingdom
 p167
 aVEngland
 p168
@@ -384,12 +426,14 @@ aS'1872'
 p172
 aS'Forward'
 p173
-aS'Kent'
-p174
 aS'2'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Kent'
+p174
+aVUnited Kingdom
 p175
 aVEngland
 p176
@@ -402,12 +446,14 @@ aS'1872'
 p180
 aS'Forward'
 p181
-aS'Cawnpore'
-p182
 aS'5'
 aS'3'
 aS'0'
-aNaVAustralia
+aS'2'
+aS'0'
+aNaS'Cawnpore'
+p182
+aVAustralia
 p183
 aVQueensland
 p184
@@ -420,12 +466,14 @@ aS'1872'
 p188
 aS'Forward'
 p189
-aS'Kent'
-p190
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Kent'
+p190
+aVUnited Kingdom
 p191
 aVEngland
 p192
@@ -438,12 +486,14 @@ aS'1872'
 p196
 aS'Forward'
 p197
-aS'Bengal'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aNaS'Bengal'
 p198
-aS'1'
-aS'1'
-aS'1'
-aNaVUnited States of America
+aVUnited States of America
 p199
 aVMinnesota
 p200
@@ -456,12 +506,14 @@ aS'1872'
 p204
 aS'Halfback'
 p205
-aS'Marylebone'
-p206
 aS'2'
 aS'1'
+aS'0'
 aS'1'
-aNaVUnited Kingdom
+aS'1'
+aNaS'Marylebone'
+p206
+aVUnited Kingdom
 p207
 aVEngland
 p208
@@ -474,12 +526,14 @@ aS'1872'
 p212
 aS'Three-quarters'
 p213
-aS'Glos'
-p214
 aS'3'
 aS'2'
 aS'0'
-aNaVFrance
+aS'1'
+aS'0'
+aNaS'Glos'
+p214
+aVFrance
 p215
 aV14100
 p216
@@ -492,12 +546,14 @@ aS'1872'
 p220
 aS'Forward'
 p221
-aS'Berkshire'
-p222
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Berkshire'
+p222
+aVUnited Kingdom
 p223
 aVBerkshire
 p224
@@ -509,12 +565,14 @@ aS'1872'
 p227
 aS'Forward'
 p228
-aS'Surrey'
-p229
 aS'6'
 aS'4'
 aS'0'
-aNaVUnited Kingdom
+aS'2'
+aS'0'
+aNaS'Surrey'
+p229
+aVUnited Kingdom
 p230
 aVEngland
 p231
@@ -527,16 +585,18 @@ aS'1872'
 p235
 aS'Forward'
 p236
-aS'Guildford'
-p237
 aS'3'
 aS'2'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Guildford'
+p237
+aVAustralia
 p238
-aVGU1 4UT
+aV2150
 p239
-aVEngland
+aVNew South Wales
 p240
 aa(lp241
 S'Frederick Mills'
@@ -545,12 +605,14 @@ aS'1872'
 p243
 aS'Fullback'
 p244
-aS'Chertsey'
-p245
 aS'2'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Chertsey'
+p245
+aVUnited Kingdom
 p246
 aVEngland
 p247
@@ -563,12 +625,14 @@ aS'1872'
 p251
 aS'Fullback'
 p252
-aS'Sx'
-p253
 aS'1'
 aS'1'
 aS'0'
-aNaVSint Maarten
+aS'0'
+aS'0'
+aNaS'Sx'
+p253
+aVSint Maarten
 p254
 ag9
 ag9
@@ -579,12 +643,14 @@ aS'1872'
 p257
 aS'Forward'
 p258
-aS'Gravesend'
-p259
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Gravesend'
+p259
+aVUnited Kingdom
 p260
 aVEngland
 p261
@@ -597,12 +663,14 @@ aS'1872'
 p265
 aS'Halfback'
 p266
-aS'date unknown'
-p267
 aS'1'
 aS'1'
 aS'0'
-aNaS'g'
+aS'0'
+aS'0'
+aNaS'date unknown'
+p267
+aS'g'
 aS'n'
 aS'i'
 aa(lp268
@@ -612,12 +680,14 @@ aS'1873'
 p270
 aS'Halfback'
 p271
-aS'London'
-p272
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'London'
+p272
+aVUnited Kingdom
 p273
 aVEngland
 p274
@@ -630,16 +700,18 @@ aS'1873'
 p278
 aS'Forward'
 p279
-aS'Hackney'
-p280
 aS'5'
 aS'3'
+aS'0'
+aS'2'
 aS'1'
-aNaVUnited States of America
+aNaS'Hackney'
+p280
+aVAustralia
 p281
-aVpenna
+aV5000
 p282
-aVWashington County
+aVSouth Australia
 p283
 aa(lp284
 S'William Fletcher'
@@ -648,12 +720,14 @@ aS'1873'
 p286
 aS'Forward'
 p287
-aS'Kensington'
-p288
 aS'2'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'2'
+aS'0'
+aNaS'Kensington'
+p288
+aVUnited Kingdom
 p289
 aVEngland
 p290
@@ -666,12 +740,14 @@ aS'1873'
 p294
 aS'Forward'
 p295
-aS'Lahore'
-p296
 aS'4'
 aS'2'
 aS'0'
-aNaV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
+aS'2'
+aS'0'
+aNaS'Lahore'
+p296
+aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
 p297
 aV\u067e\u0646\u062c\u0627\u0628
 p298
@@ -684,12 +760,14 @@ aS'1873'
 p302
 aS'Forward'
 p303
-aS'1850'
-p304
 aS'1'
 aS'0'
 aS'0'
-aNaVNorge
+aS'1'
+aS'0'
+aNaS'1850'
+p304
+aVNorge
 p305
 aVNordland
 p306
@@ -702,13 +780,15 @@ aS'1873'
 p310
 aS'Forward'
 p311
-aS'Goldalming'
-p312
 aS'10'
-p313
+p312
 aS'6'
+aS'1'
+aS'3'
 aS'0'
-aNaS'g'
+aNaS'Goldalming'
+p313
+aS'g'
 aS'n'
 aS'i'
 aa(lp314
@@ -718,12 +798,14 @@ aS'1873'
 p316
 aS'Fullback'
 p317
-aS'Birmingham'
-p318
 aS'3'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'2'
+aS'0'
+aNaS'Birmingham'
+p318
+aVUnited Kingdom
 p319
 aVEngland
 p320
@@ -736,12 +818,14 @@ aS'1873'
 p324
 aS'Forward'
 p325
-aS'Jeypon'
-p326
 aS'1'
 aS'0'
 aS'0'
-aNaS'g'
+aS'1'
+aS'0'
+aNaS'Jeypon'
+p326
+aS'g'
 aS'n'
 aS'i'
 aa(lp327
@@ -751,12 +835,14 @@ aS'1873'
 p329
 aS'Forward'
 p330
-aS'Epsom'
-p331
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Epsom'
+p331
+aVUnited Kingdom
 p332
 aVEngland
 p333
@@ -769,12 +855,14 @@ aS'1873'
 p337
 aS'Fullback'
 p338
-aS'Ceylon'
-p339
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited States of America
+aS'1'
+aS'0'
+aNaS'Ceylon'
+p339
+aVUnited States of America
 p340
 aVpenna
 p341
@@ -787,12 +875,14 @@ aS'1874'
 p345
 aS'Fullback'
 p346
-aS'Kumaon'
-p347
 aS'1'
 aS'1'
 aS'0'
-aNaVIndia
+aS'0'
+aS'0'
+aNaS'Kumaon'
+p347
+aVIndia
 p348
 aVUttarakhand
 p349
@@ -805,12 +895,14 @@ aS'1874'
 p353
 aS'Fullback'
 p354
-aS'Lancs'
-p355
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Lancs'
+p355
+aVUnited Kingdom
 p356
 aVS6 3TB
 p357
@@ -823,12 +915,14 @@ aS'1874'
 p361
 aS'Forward'
 p362
-aS'Banbury'
-p363
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Banbury'
+p363
+aVUnited Kingdom
 p364
 aVEngland
 p365
@@ -841,12 +935,14 @@ aS'1874'
 p369
 aS'Halfback'
 p370
-aS'Monghyr'
-p371
 aS'5'
 aS'4'
+aS'0'
 aS'1'
-aNaS'g'
+aS'1'
+aNaS'Monghyr'
+p371
+aS'g'
 aS'n'
 aS'i'
 aa(lp372
@@ -856,16 +952,18 @@ aS'1874'
 p374
 aS'Forward'
 p375
-aS'Herts'
-p376
 aS'2'
 aS'2'
 aS'0'
-aNaVPortugal
+aS'0'
+aS'0'
+aNaS'Herts'
+p376
+aVPortugal
 p377
 aVViseu
 p378
-aVValdevez
+aVTarouca
 p379
 aa(lp380
 S'Foster Cunliffe'
@@ -874,12 +972,14 @@ aS'1874'
 p382
 aS'Forward'
 p383
-aS'Llanfyllin'
-p384
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Llanfyllin'
+p384
+aVUnited Kingdom
 p385
 aVWales
 p386
@@ -892,12 +992,14 @@ aS'1874'
 p390
 aS'Forward'
 p391
-aS'Charlton'
-p392
 aS'2'
 aS'1'
 aS'0'
-aNaVUnited States of America
+aS'1'
+aS'0'
+aNaS'Charlton'
+p392
+aVUnited States of America
 p393
 aVGeorgia
 p394
@@ -910,12 +1012,14 @@ aS'1874'
 p398
 aS'Forward'
 p399
-aS'Bucks'
-p400
 aS'7'
 aS'4'
 aS'1'
-aNaVUnited States of America
+aS'2'
+aS'1'
+aNaS'Bucks'
+p400
+aVUnited States of America
 p401
 aVpenna
 p402
@@ -928,12 +1032,14 @@ aS'1874'
 p406
 aS'Three-quarters'
 p407
-aS'Bucks'
-p408
 aS'2'
 aS'2'
 aS'0'
-aNaVUnited States of America
+aS'0'
+aS'0'
+aNaS'Bucks'
+p408
+aVUnited States of America
 p409
 aVpenna
 p410
@@ -946,12 +1052,14 @@ aS'1874'
 p414
 aS'Forward'
 p415
-aS'Oxon'
-p416
 aS'2'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Oxon'
+p416
+aVUnited Kingdom
 p417
 aVEngland
 p418
@@ -964,12 +1072,14 @@ aS'1874'
 p422
 aS'Forward'
 p423
-aS'1854'
-p424
 aS'1'
 aS'1'
 aS'0'
-aNaVNorge
+aS'0'
+aS'0'
+aNaS'1854'
+p424
+aVNorge
 p425
 aVNordland
 p426
@@ -982,12 +1092,14 @@ aS'1874'
 p430
 aS'Forward'
 p431
-aS'Bury'
-p432
 aS'5'
 aS'4'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Bury'
+p432
+aVUnited Kingdom
 p433
 aVEngland
 p434
@@ -1000,12 +1112,14 @@ aS'1875'
 p438
 aS'Forward'
 p439
-aS'Newcastle-upon-Tyne'
-p440
 aS'7'
 aS'4'
+aS'0'
+aS'3'
 aS'2'
-aNaVUnited Kingdom
+aNaS'Newcastle-upon-Tyne'
+p440
+aVUnited Kingdom
 p441
 aVEngland
 p442
@@ -1018,16 +1132,18 @@ aS'1875'
 p446
 aS'Forward'
 p447
-aS'Burnside'
-p448
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited States of America
+aS'0'
+aS'0'
+aNaS'Burnside'
+p448
+aVAustralia
 p449
-aV60619
+aV5000
 p450
-aVIllinois
+aVSouth Australia
 p451
 aa(lp452
 S'Harry Graham'
@@ -1036,12 +1152,14 @@ aS'1875'
 p454
 aS'Forward'
 p455
-aS'Kingston'
-p456
 aS'4'
 aS'3'
 aS'0'
-aNaVJamaica
+aS'1'
+aS'0'
+aNaS'Kingston'
+p456
+aVJamaica
 p457
 aVSurrey County
 p458
@@ -1054,12 +1172,14 @@ aS'1875'
 p462
 aS'Forward'
 p463
-aS'Sculcoates'
-p464
 aS'2'
 aS'2'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Sculcoates'
+p464
+aVUnited Kingdom
 p465
 aVEngland
 p466
@@ -1072,12 +1192,14 @@ aS'1875'
 p470
 aS'Halfback'
 p471
-aS'Headington'
-p472
 aS'3'
 aS'2'
+aS'0'
 aS'1'
-aNaVUnited Kingdom
+aS'1'
+aNaS'Headington'
+p472
+aVUnited Kingdom
 p473
 aVEngland
 p474
@@ -1090,12 +1212,14 @@ aS'1875'
 p478
 aS'Halfback'
 p479
-aS'Eton'
-p480
 aS'1'
 aS'1'
 aS'0'
-aNaVFrance
+aS'0'
+aS'0'
+aNaS'Eton'
+p480
+aVFrance
 p481
 aV55240
 p482
@@ -1108,12 +1232,14 @@ aS'1875'
 p486
 aS'Fullback'
 p487
-aS'VIC'
-p488
 aS'7'
 aS'4'
+aS'1'
+aS'2'
 aS'0'
-aNaVAustralia
+aNaS'VIC'
+p488
+aVAustralia
 p489
 aVVictoria
 p490
@@ -1125,12 +1251,14 @@ aS'1875'
 p493
 aS'Forward'
 p494
-aS'Llanfyllin'
-p495
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Llanfyllin'
+p495
+aVUnited Kingdom
 p496
 aVWales
 p497
@@ -1143,13 +1271,15 @@ aS'1875'
 p501
 aS'Three-quarters'
 p502
-aS'Greenwich'
-p503
 aS'12'
-p504
+p503
 aS'8'
+aS'1'
+aS'3'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Greenwich'
+p504
+aVUnited Kingdom
 p505
 aVEngland
 p506
@@ -1162,12 +1292,14 @@ aS'1875'
 p510
 aS'Fullback'
 p511
-aS'St Saviour'
-p512
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
-aNaVJersey
+aNaS'St Saviour'
+p512
+aVJersey
 p513
 aVSt Saviour
 p514
@@ -1179,12 +1311,14 @@ aS'1875'
 p517
 aS'Halfback'
 p518
-aS'Llansoy'
-p519
 aS'5'
 aS'1'
 aS'1'
-aNaVUnited Kingdom
+aS'3'
+aS'1'
+aNaS'Llansoy'
+p519
+aVUnited Kingdom
 p520
 aVWales
 p521
@@ -1197,12 +1331,14 @@ aS'1875'
 p525
 aS'Forward'
 p526
-aS'Glos'
-p527
 aS'1'
 aS'0'
 aS'0'
-aNaVFrance
+aS'1'
+aS'0'
+aNaS'Glos'
+p527
+aVFrance
 p528
 aV14100
 p529
@@ -1215,12 +1351,14 @@ aS'1875'
 p533
 aS'Forward'
 p534
-aS'Ebbw Vale'
-p535
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Ebbw Vale'
+p535
+aVUnited Kingdom
 p536
 aVNP23
 p537
@@ -1233,12 +1371,14 @@ aS'1875'
 p541
 aS'Forward'
 p542
-aS'Banbury'
-p543
 aS'2'
 aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aNaS'Banbury'
+p543
+aVUnited Kingdom
 p544
 aVEngland
 p545
@@ -1251,12 +1391,14 @@ aS'1875'
 p549
 aS'Forward'
 p550
-aS'Liverpool'
-p551
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Liverpool'
+p551
+aVUnited Kingdom
 p552
 aVEngland
 p553
@@ -1269,12 +1411,14 @@ aS'1875'
 p557
 aS'Halfback'
 p558
-aS'W Derby'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aNaS'W Derby'
 p559
-aS'1'
-aS'1'
-aS'1'
-aNaVUnited Kingdom
+aVUnited Kingdom
 p560
 aVEngland
 p561
@@ -1287,12 +1431,14 @@ aS'1875'
 p565
 aS'Forward'
 p566
-aS'Surrey'
-p567
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Surrey'
+p567
+aVUnited Kingdom
 p568
 aVEngland
 p569
@@ -1305,12 +1451,14 @@ aS'1875'
 p573
 aS'Forward'
 p574
-aS'Macclesfield'
-p575
 aS'2'
 aS'2'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Macclesfield'
+p575
+aVUnited Kingdom
 p576
 aVEngland
 p577
@@ -1323,12 +1471,14 @@ aS'1875'
 p581
 aS'Three-quarters'
 p582
-aS'Bishops Waltham'
-p583
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Bishops Waltham'
+p583
+aVUnited Kingdom
 p584
 aVEngland
 p585
@@ -1341,12 +1491,14 @@ aS'1875'
 p589
 aS'Fullback'
 p590
-aS'Punjab'
-p591
 aS'1'
 aS'1'
 aS'0'
-aNaVIndia
+aS'0'
+aS'0'
+aNaS'Punjab'
+p591
+aVIndia
 p592
 aVPunjab
 p593
@@ -1358,12 +1510,14 @@ aS'1875'
 p596
 aS'Forward'
 p597
-aS'Salford'
-p598
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Salford'
+p598
+aVUnited Kingdom
 p599
 aVEngland
 p600
@@ -1376,12 +1530,14 @@ aS'1875'
 p604
 aS'Forward'
 p605
-aS'Epping'
-p606
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'1'
-aNaVFrance
+aNaS'Epping'
+p606
+aVFrance
 p607
 aV57720
 p608
@@ -1394,12 +1550,14 @@ aS'1875'
 p612
 aS'Forward'
 p613
-aS'Wirral'
-p614
 aS'2'
 aS'2'
 aS'0'
-aNaVCanada
+aS'0'
+aS'0'
+aNaS'Wirral'
+p614
+aVCanada
 p615
 aVNew Brunswick
 p616
@@ -1412,12 +1570,14 @@ aS'1876'
 p620
 aS'Fullback'
 p621
-aS'Newcastle-under-Lyme'
-p622
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Newcastle-under-Lyme'
+p622
+aVUnited Kingdom
 p623
 aVEngland
 p624
@@ -1430,12 +1590,14 @@ aS'1876'
 p628
 aS'Forward'
 p629
-aS'Preston'
-p630
 aS'4'
 aS'3'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aNaS'Preston'
+p630
+aVUnited Kingdom
 p631
 aVEngland
 p632
@@ -1448,12 +1610,14 @@ aS'1876'
 p636
 aS'Halfback'
 p637
-aS'Charlton'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aNaS'Charlton'
 p638
-aS'2'
-aS'2'
-aS'2'
-aNaVUnited States of America
+aVUnited States of America
 p639
 aVGeorgia
 p640
@@ -1466,12 +1630,14 @@ aS'1876'
 p644
 aS'Forward'
 p645
-aS'Chelsea'
-p646
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
-aNaVUnited Kingdom
+aNaS'Chelsea'
+p646
+aVUnited Kingdom
 p647
 aVEngland
 p648
@@ -1484,12 +1650,14 @@ aS'1876'
 p652
 aS'Forward'
 p653
-aS'Bury St Edmunds'
-p654
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Bury St Edmunds'
+p654
+aVUnited Kingdom
 p655
 aVEngland
 p656
@@ -1502,12 +1670,14 @@ aS'1876'
 p660
 aS'Three-quarters'
 p661
-aS'Bradford'
-p662
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Bradford'
+p662
+aVUnited Kingdom
 p663
 aVEngland
 p664
@@ -1520,12 +1690,14 @@ aS'1876'
 p668
 aS'Forward'
 p669
-aS'Essex'
-p670
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Essex'
+p670
+aVUnited Kingdom
 p671
 aVEngland
 p672
@@ -1538,16 +1710,18 @@ aS'1877'
 p676
 aS'Forward'
 p677
-aS'Herts'
-p678
 aS'1'
 aS'1'
 aS'0'
-aNaVPortugal
+aS'0'
+aS'0'
+aNaS'Herts'
+p678
+aVPortugal
 p679
 aVViseu
 p680
-aVValdevez
+aVTarouca
 p681
 aa(lp682
 S'Gillie Harrison'
@@ -1556,12 +1730,14 @@ aS'1877'
 p684
 aS'Forward'
 p685
-aS'Cottingham'
-p686
 aS'7'
 aS'5'
+aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Cottingham'
+p686
+aVUnited Kingdom
 p687
 aVEngland
 p688
@@ -1574,12 +1750,14 @@ aS'1877'
 p692
 aS'Fullback'
 p693
-aS'Blackburn'
-p694
 aS'9'
 aS'4'
+aS'2'
+aS'3'
 aS'1'
-aNaVUnited Kingdom
+aNaS'Blackburn'
+p694
+aVUnited Kingdom
 p695
 aVEngland
 p696
@@ -1592,12 +1770,14 @@ aS'1877'
 p700
 aS'Halfback'
 p701
-aS'Poona'
-p702
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
-aNaVAustralia
+aNaS'Poona'
+p702
+aVAustralia
 p703
 aVQueensland
 p704
@@ -1610,12 +1790,14 @@ aS'1877'
 p708
 aS'Forward'
 p709
-aS'Cheshire'
-p710
 aS'2'
 aS'1'
+aS'1'
 aS'0'
-aNaVUnited States of America
+aS'0'
+aNaS'Cheshire'
+p710
+aVUnited States of America
 p711
 aVConnecticut
 p712
@@ -1628,12 +1810,14 @@ aS'1877'
 p716
 aS'Forward'
 p717
-aS'Yorks'
-p718
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVDeutschland
+aNaS'Yorks'
+p718
+aVDeutschland
 p719
 aV10965
 p720
@@ -1646,12 +1830,14 @@ aS'1877'
 p724
 aS'Forward'
 p725
-aS'Nice'
-p726
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVFrance
+aNaS'Nice'
+p726
+aVFrance
 p727
 aV06000;06100;06200;06300
 p728
@@ -1664,12 +1850,14 @@ aS'1877'
 p732
 aS'Forward'
 p733
-aS'Bury'
-p734
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Bury'
+p734
+aVUnited Kingdom
 p735
 aVEngland
 p736
@@ -1682,12 +1870,14 @@ aS'1878'
 p740
 aS'Forward'
 p741
-aS'Reading'
-p742
 aS'2'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Reading'
+p742
+aVUnited Kingdom
 p743
 aVEngland
 p744
@@ -1700,12 +1890,14 @@ aS'1878'
 p748
 aS'No. 8'
 p749
-aS'Newbury'
-p750
 aS'2'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'2'
+aS'0'
+aNaS'Newbury'
+p750
+aVUnited Kingdom
 p751
 aVEngland
 p752
@@ -1718,12 +1910,14 @@ aS'1878'
 p756
 aS'Forward'
 p757
-aS'Tottenham'
-p758
 aS'3'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'2'
+aS'0'
+aNaS'Tottenham'
+p758
+aVUnited Kingdom
 p759
 aVEngland
 p760
@@ -1736,14 +1930,16 @@ aS'1878'
 p764
 aS'Forward'
 p765
-aS'Norflk'
-p766
 aS'16'
-p767
+p766
 aS'12'
-p768
+p767
 aS'1'
-aNaS'g'
+aS'3'
+aS'1'
+aNaS'Norflk'
+p768
+aS'g'
 aS'n'
 aS'i'
 aa(lp769
@@ -1753,12 +1949,14 @@ aS'1878'
 p771
 aS'Fullback'
 p772
-aS'Sunderland'
-p773
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Sunderland'
+p773
+aVUnited Kingdom
 p774
 aVEngland
 p775
@@ -1771,12 +1969,14 @@ aS'1878'
 p779
 aS'Forward'
 p780
-aS'Yorks'
-p781
 aS'9'
 aS'6'
 aS'1'
-aNaVDeutschland
+aS'2'
+aS'1'
+aNaS'Yorks'
+p781
+aVDeutschland
 p782
 aV10965
 p783
@@ -1789,12 +1989,14 @@ aS'1878'
 p787
 aS'Forward'
 p788
-aS'London'
-p789
 aS'5'
 aS'4'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'London'
+p789
+aVUnited Kingdom
 p790
 aVEngland
 p791
@@ -1807,12 +2009,14 @@ aS'1878'
 p795
 aS'Halfback'
 p796
-aS'Newcastle-uunder-Lym'
-p797
 aS'1'
 aS'1'
 aS'0'
-aNaS'g'
+aS'0'
+aS'0'
+aNaS'Newcastle-uunder-Lym'
+p797
+aS'g'
 aS'n'
 aS'i'
 aa(lp798
@@ -1822,12 +2026,14 @@ aS'1878'
 p800
 aS'Forward'
 p801
-aS'Quebec'
-p802
 aS'1'
 aS'1'
 aS'0'
-aNaVCanada
+aS'0'
+aS'0'
+aNaS'Quebec'
+p802
+aVCanada
 p803
 aVQuébec
 p804
@@ -1839,12 +2045,14 @@ aS'1878'
 p807
 aS'Forward'
 p808
-aS'Bristol'
-p809
 aS'5'
 aS'3'
+aS'0'
+aS'2'
 aS'1'
-aNaVUnited Kingdom
+aNaS'Bristol'
+p809
+aVUnited Kingdom
 p810
 aVEngland
 p811
@@ -1857,12 +2065,14 @@ aS'1878'
 p815
 aS'Forward'
 p816
-aS'Charlottetown'
-p817
 aS'1'
 aS'1'
 aS'0'
-aNaVCanada
+aS'0'
+aS'0'
+aNaS'Charlottetown'
+p817
+aVCanada
 p818
 aVPrince Edward Island
 p819
@@ -1875,12 +2085,14 @@ aS'1878'
 p823
 aS'Three-quarters'
 p824
-aS'Liverpool'
-p825
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Liverpool'
+p825
+aVUnited Kingdom
 p826
 aVEngland
 p827
@@ -1893,12 +2105,14 @@ aS'1878'
 p831
 aS'Forward'
 p832
-aS'Cawnpore'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aNaS'Cawnpore'
 p833
-aS'1'
-aS'1'
-aS'1'
-aNaVAustralia
+aVAustralia
 p834
 aVQueensland
 p835
@@ -1911,9 +2125,9 @@ aS'1878'
 p839
 aS'Halfback'
 p840
-aS'Spanish Town'
+aNaNaNaNaNaNaS'Spanish Town'
 p841
-aNaNaNaNaVJamaica
+aVJamaica
 p842
 aVMiddlesex County
 p843
@@ -1926,12 +2140,14 @@ aS'1878'
 p847
 aS'Fullback'
 p848
-aS'Langport'
-p849
 aS'3'
 aS'2'
+aS'0'
 aS'1'
-aNaVUnited Kingdom
+aS'1'
+aNaS'Langport'
+p849
+aVUnited Kingdom
 p850
 aVEngland
 p851
@@ -1944,12 +2160,14 @@ aS'1879'
 p855
 aS'Forward'
 p856
-aS'Wakefield'
-p857
 aS'6'
 aS'4'
+aS'0'
+aS'2'
 aS'6'
-aNaVUnited Kingdom
+aNaS'Wakefield'
+p857
+aVUnited Kingdom
 p858
 aVEngland
 p859
@@ -1962,12 +2180,14 @@ aS'1879'
 p863
 aS'Fullback'
 p864
-aS'Huddersfield'
-p865
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Huddersfield'
+p865
+aVUnited Kingdom
 p866
 aVEngland
 p867
@@ -1980,12 +2200,14 @@ aS'1879'
 p871
 aS'Forward'
 p872
-aS'Madras'
-p873
 aS'2'
 aS'1'
 aS'0'
-aNaVIndia
+aS'1'
+aS'0'
+aNaS'Madras'
+p873
+aVIndia
 p874
 aV600001
 p875
@@ -1998,12 +2220,14 @@ aS'1879'
 p879
 aS'Forward'
 p880
-aS'Preston FavershaKent'
-p881
 aS'4'
 aS'3'
 aS'0'
-aNaS'g'
+aS'1'
+aS'0'
+aNaS'Preston FavershaKent'
+p881
+aS'g'
 aS'n'
 aS'i'
 aa(lp882
@@ -2013,12 +2237,14 @@ aS'1879'
 p884
 aS'Forward'
 p885
-aS'Chorlton-upon-Medloc'
-p886
 aS'9'
 aS'5'
+aS'1'
 aS'3'
-aNaS'g'
+aS'3'
+aNaS'Chorlton-upon-Medloc'
+p886
+aS'g'
 aS'n'
 aS'i'
 aa(lp887
@@ -2028,12 +2254,14 @@ aS'1879'
 p889
 aS'Forward'
 p890
-aS'W Derby'
-p891
 aS'2'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'2'
+aS'0'
+aNaS'W Derby'
+p891
+aVUnited Kingdom
 p892
 aVEngland
 p893
@@ -2046,12 +2274,14 @@ aS'1879'
 p897
 aS'Halfback'
 p898
-aS'Greenwich'
-p899
 aS'5'
 aS'3'
+aS'1'
+aS'1'
 aS'6'
-aNaVUnited Kingdom
+aNaS'Greenwich'
+p899
+aVUnited Kingdom
 p900
 aVEngland
 p901
@@ -2064,12 +2294,14 @@ aS'1879'
 p905
 aS'Forward'
 p906
-aS'Liverpool'
-p907
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Liverpool'
+p907
+aVUnited Kingdom
 p908
 aVEngland
 p909
@@ -2082,12 +2314,14 @@ aS'1879'
 p913
 aS'Halfback'
 p914
-aS'Cape Town'
-p915
 aS'1'
 aS'1'
 aS'0'
-aNaVSouth Africa
+aS'0'
+aS'0'
+aNaS'Cape Town'
+p915
+aVSouth Africa
 p916
 aVWestern Cape
 p917
@@ -2100,12 +2334,14 @@ aS'1879'
 p921
 aS'Halfback'
 p922
-aS'Hants'
-p923
 aS'8'
 aS'7'
+aS'0'
+aS'1'
 aS'4'
-aNaVCanada
+aNaS'Hants'
+p923
+aVCanada
 p924
 aVNova Scotia
 p925
@@ -2118,12 +2354,14 @@ aS'1880'
 p929
 aS'Forward'
 p930
-aS'Lewisham'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aNaS'Lewisham'
 p931
-aS'1'
-aS'1'
-aS'1'
-aNaVUnited Kingdom
+aVUnited Kingdom
 p932
 aVEngland
 p933
@@ -2136,12 +2374,14 @@ aS'1880'
 p937
 aS'Fullback'
 p938
-aS'Greenwich'
-p939
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'1'
-aNaVUnited Kingdom
+aNaS'Greenwich'
+p939
+aVUnited Kingdom
 p940
 aVEngland
 p941
@@ -2154,14 +2394,16 @@ aS'1880'
 p945
 aS'Forward'
 p946
-aS'Norfolk'
-p947
 aS'14'
-p948
+p947
 aS'10'
-p949
+p948
+aS'1'
+aS'3'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Norfolk'
+p949
+aVUnited Kingdom
 p950
 aVEngland
 p951
@@ -2174,12 +2416,14 @@ aS'1880'
 p955
 aS'Three-quarters'
 p956
-aS'Preston'
-p957
 aS'4'
 aS'2'
+aS'0'
 aS'2'
-aNaVUnited Kingdom
+aS'2'
+aNaS'Preston'
+p957
+aVUnited Kingdom
 p958
 aVEngland
 p959
@@ -2192,12 +2436,14 @@ aS'1880'
 p963
 aS'Forward'
 p964
-aS'Thornhill Leer'
-p965
 aS'1'
 aS'1'
 aS'0'
-aNaS'g'
+aS'0'
+aS'0'
+aNaS'Thornhill Leer'
+p965
+aS'g'
 aS'n'
 aS'i'
 aa(lp966
@@ -2207,12 +2453,14 @@ aS'1880'
 p968
 aS'Forward'
 p969
-aS'Salford'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aNaS'Salford'
 p970
-aS'1'
-aS'1'
-aS'1'
-aNaVUnited Kingdom
+aVUnited Kingdom
 p971
 aVEngland
 p972
@@ -2225,12 +2473,14 @@ aS'1880'
 p976
 aS'Forward'
 p977
-aS'Stretford'
-p978
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Stretford'
+p978
+aVUnited Kingdom
 p979
 aVEngland
 p980
@@ -2243,12 +2493,14 @@ aS'1880'
 p984
 aS'Forward'
 p985
-aS'Huddersfield'
-p986
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Huddersfield'
+p986
+aVUnited Kingdom
 p987
 aVEngland
 p988
@@ -2261,12 +2513,14 @@ aS'1880'
 p992
 aS'Forward'
 p993
-aS'Lambeth'
-p994
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Lambeth'
+p994
+aVUnited Kingdom
 p995
 aVEngland
 p996
@@ -2279,12 +2533,14 @@ aS'1880'
 p1000
 aS'Halfback'
 p1001
-aS'Kensington'
-p1002
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Kensington'
+p1002
+aVUnited Kingdom
 p1003
 aVEngland
 p1004
@@ -2297,11 +2553,13 @@ aS'1880'
 p1008
 aS'Forward'
 p1009
-aS'?'
 aS'3'
 aS'2'
 aS'0'
-aNaS'g'
+aS'1'
+aS'0'
+aNaS'?'
+aS'g'
 aS'n'
 aS'i'
 aa(lp1010
@@ -2311,12 +2569,14 @@ aS'1880'
 p1012
 aS'Three-quarters'
 p1013
-aS'Manchester'
-p1014
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
-aNaVUnited Kingdom
+aNaS'Manchester'
+p1014
+aVUnited Kingdom
 p1015
 aVEngland
 p1016
@@ -2329,12 +2589,14 @@ aS'1881'
 p1020
 aS'Forward'
 p1021
-aS'Wakefield'
-p1022
 aS'3'
 aS'2'
+aS'0'
 aS'1'
-aNaVUnited Kingdom
+aS'1'
+aNaS'Wakefield'
+p1022
+aVUnited Kingdom
 p1023
 aVEngland
 p1024
@@ -2347,12 +2609,14 @@ aS'1881'
 p1028
 aS'Forward'
 p1029
-aS'Kent'
-p1030
 aS'4'
 aS'2'
 aS'0'
-aNaVUnited Kingdom
+aS'2'
+aS'0'
+aNaS'Kent'
+p1030
+aVUnited Kingdom
 p1031
 aVEngland
 p1032
@@ -2365,12 +2629,14 @@ aS'1881'
 p1036
 aS'Forward'
 p1037
-aS'Wirral'
-p1038
 aS'1'
 aS'1'
 aS'0'
-aNaVCanada
+aS'0'
+aS'0'
+aNaS'Wirral'
+p1038
+aVCanada
 p1039
 aVNew Brunswick
 p1040
@@ -2383,12 +2649,14 @@ aS'1881'
 p1044
 aS'Halfback'
 p1045
-aS'Chorlton'
-p1046
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Chorlton'
+p1046
+aVUnited Kingdom
 p1047
 aVEngland
 p1048
@@ -2401,12 +2669,14 @@ aS'1881'
 p1052
 aS'Forward'
 p1053
-aS'Staines'
-p1054
 aS'2'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Staines'
+p1054
+aVUnited Kingdom
 p1055
 aVEngland
 p1056
@@ -2419,12 +2689,14 @@ aS'1881'
 p1060
 aS'Forward'
 p1061
-aS'Tadcaster'
-p1062
 aS'5'
 aS'2'
+aS'1'
+aS'2'
 aS'3'
-aNaVUnited Kingdom
+aNaS'Tadcaster'
+p1062
+aVUnited Kingdom
 p1063
 aVLS24
 p1064
@@ -2437,12 +2709,14 @@ aS'1881'
 p1068
 aS'Forward'
 p1069
-aS'Norfolk'
-p1070
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Norfolk'
+p1070
+aVUnited Kingdom
 p1071
 aVEngland
 p1072
@@ -2455,16 +2729,18 @@ aS'1881'
 p1076
 aS'Halfback'
 p1077
-aS'Leigh'
-p1078
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Leigh'
+p1078
+aVUnited Kingdom
 p1079
-aVEngland
+aVTN11 8RU
 p1080
-aVNorth West England
+aVEngland
 p1081
 aa(lp1082
 S'Teddy Beswick'
@@ -2473,16 +2749,18 @@ aS'1882'
 p1084
 aS'Three-quarters'
 p1085
-aS'Penrith'
-p1086
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Penrith'
+p1086
+aVAustralia
 p1087
-aVEngland
+aVNew South Wales
 p1088
-aVNorth West England
+aVPenrith
 p1089
 aa(lp1090
 S'Wilfred Bolton'
@@ -2491,13 +2769,15 @@ aS'1882'
 p1092
 aS'Three-quarters'
 p1093
-aS'Sx'
-p1094
 aS'11'
-p1095
+p1094
 aS'7'
+aS'2'
+aS'2'
 aS'6'
-aNaVSint Maarten
+aNaS'Sx'
+p1095
+aVSint Maarten
 p1096
 ag9
 ag9
@@ -2508,12 +2788,14 @@ aS'1882'
 p1099
 aS'Forward'
 p1100
-aS'Bath'
-p1101
 aS'6'
 aS'4'
+aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Bath'
+p1101
+aVUnited Kingdom
 p1102
 aVBA1
 p1103
@@ -2526,12 +2808,14 @@ aS'1882'
 p1107
 aS'Forward'
 p1108
-aS'Preston'
-p1109
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Preston'
+p1109
+aVUnited Kingdom
 p1110
 aVEngland
 p1111
@@ -2544,16 +2828,18 @@ aS'1882'
 p1115
 aS'Forward'
 p1116
-aS'Whitehaven'
-p1117
 aS'2'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Whitehaven'
+p1117
+aVUnited Kingdom
 p1118
-aVCA28 7XY
-p1119
 aVEngland
+p1119
+aVNorth West England
 p1120
 aa(lp1121
 S'Aubrey Spurling'
@@ -2562,12 +2848,14 @@ aS'1882'
 p1123
 aS'Forward'
 p1124
-aS'Camberwell'
-p1125
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Camberwell'
+p1125
+aVUnited Kingdom
 p1126
 aVEngland
 p1127
@@ -2580,12 +2868,14 @@ aS'1882'
 p1131
 aS'Forward'
 p1132
-aS'Brentford'
-p1133
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Brentford'
+p1133
+aVUnited Kingdom
 p1134
 aVEngland
 p1135
@@ -2598,12 +2888,14 @@ aS'1882'
 p1139
 aS'Halfback'
 p1140
-aS'Lancs'
-p1141
 aS'7'
 aS'6'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aNaS'Lancs'
+p1141
+aVUnited Kingdom
 p1142
 aVS6 3TB
 p1143
@@ -2616,16 +2908,18 @@ aS'1882'
 p1147
 aS'Forward'
 p1148
-aS'Walsingham'
-p1149
 aS'7'
 aS'6'
 aS'1'
-aNaVUnited States of America
+aS'0'
+aS'1'
+aNaS'Walsingham'
+p1149
+aVUnited Kingdom
 p1150
-aVFlorida
+aVEngland
 p1151
-aVPinellas County
+aVEast of England
 p1152
 aa(lp1153
 S'Arthur Evanson'
@@ -2634,12 +2928,14 @@ aS'1882'
 p1155
 aS'Three-quarters'
 p1156
-aS'nr.Usk'
-p1157
 aS'4'
 aS'4'
 aS'0'
-aNaS'g'
+aS'0'
+aS'0'
+aNaS'nr.Usk'
+p1157
+aS'g'
 aS'n'
 aS'i'
 aa(lp1158
@@ -2649,12 +2945,14 @@ aS'1882'
 p1160
 aS'Forward'
 p1161
-aS'Calcutta'
-p1162
 aS'5'
 aS'5'
+aS'0'
+aS'0'
 aS'1'
-aNaVIndia
+aNaS'Calcutta'
+p1162
+aVIndia
 p1163
 aVWest Bengal
 p1164
@@ -2667,12 +2965,14 @@ aS'1882'
 p1168
 aS'Forward'
 p1169
-aS'Devon'
-p1170
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'2'
-aNaVUnited Kingdom
+aNaS'Devon'
+p1170
+aVUnited Kingdom
 p1171
 aVEngland
 p1172
@@ -2685,13 +2985,15 @@ aS'1882'
 p1176
 aS'Halfback'
 p1177
-aS'Coventry'
-p1178
 aS'12'
-p1179
+p1178
 aS'8'
+aS'1'
+aS'3'
 aS'2'
-aNaVUnited Kingdom
+aNaS'Coventry'
+p1179
+aVUnited Kingdom
 p1180
 aVEngland
 p1181
@@ -2704,12 +3006,14 @@ aS'1882'
 p1185
 aS'Forward'
 p1186
-aS'Clapham'
-p1187
 aS'2'
 aS'2'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Clapham'
+p1187
+aVUnited Kingdom
 p1188
 aVEngland
 p1189
@@ -2722,12 +3026,14 @@ aS'1882'
 p1193
 aS'Fullback'
 p1194
-aS'Greenwich'
-p1195
 aS'4'
 aS'4'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Greenwich'
+p1195
+aVUnited Kingdom
 p1196
 aVEngland
 p1197
@@ -2740,12 +3046,14 @@ aS'1882'
 p1201
 aS'Three-quarters'
 p1202
-aS'NSW'
-p1203
 aS'8'
 aS'8'
+aS'0'
+aS'0'
 aS'7'
-aNaVAustralia
+aNaS'NSW'
+p1203
+aVAustralia
 p1204
 aVNew South Wales
 p1205
@@ -2757,12 +3065,14 @@ aS'1882'
 p1208
 aS'Forward'
 p1209
-aS'Winchester'
-p1210
 aS'7'
 aS'7'
 aS'0'
-aNaVUnited States of America
+aS'0'
+aS'0'
+aNaS'Winchester'
+p1210
+aVUnited States of America
 p1211
 aVVirginia
 p1212
@@ -2775,12 +3085,14 @@ aS'1883'
 p1216
 aS'Forward'
 p1217
-aS'Dudley'
-p1218
 aS'2'
 aS'2'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Dudley'
+p1218
+aVUnited Kingdom
 p1219
 aVEngland
 p1220
@@ -2793,12 +3105,14 @@ aS'1883'
 p1224
 aS'Forward'
 p1225
-aS'Tonbridge'
-p1226
 aS'2'
 aS'2'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Tonbridge'
+p1226
+aVUnited Kingdom
 p1227
 aVEngland
 p1228
@@ -2811,12 +3125,14 @@ aS'1883'
 p1232
 aS'Fullback'
 p1233
-aS'Durham'
-p1234
 aS'5'
 aS'4'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Durham'
+p1234
+aVUnited Kingdom
 p1235
 aVEngland
 p1236
@@ -2829,16 +3145,18 @@ aS'1884'
 p1240
 aS'Three-quarters'
 p1241
-aS'Lincs'
-p1242
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Lincs'
+p1242
+aVUnited Kingdom
 p1243
 aVWales
 p1244
-aVIsle of Anglesey
+aVCarmarthenshire
 p1245
 aa(lp1246
 S'Charles Marriott'
@@ -2847,12 +3165,14 @@ aS'1884'
 p1248
 aS'Forward'
 p1249
-aS'Suffolk'
-p1250
 aS'7'
 aS'5'
+aS'1'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Suffolk'
+p1250
+aVUnited Kingdom
 p1251
 aVEngland
 p1252
@@ -2865,12 +3185,14 @@ aS'1884'
 p1256
 aS'Forward'
 p1257
-aS'Axbridge'
-p1258
 aS'3'
 aS'3'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Axbridge'
+p1258
+aVUnited Kingdom
 p1259
 aVBS26 2
 p1260
@@ -2883,12 +3205,14 @@ aS'1884'
 p1264
 aS'Forward'
 p1265
-aS'Liverpool'
-p1266
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Liverpool'
+p1266
+aVUnited Kingdom
 p1267
 aVEngland
 p1268
@@ -2901,12 +3225,14 @@ aS'1884'
 p1272
 aS'Three-quarters'
 p1273
-aS'Wakefield'
-p1274
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Wakefield'
+p1274
+aVUnited Kingdom
 p1275
 aVEngland
 p1276
@@ -2919,12 +3245,14 @@ aS'1884'
 p1280
 aS'Fullback'
 p1281
-aS'Castle Ward'
-p1282
 aS'3'
 aS'2'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Castle Ward'
+p1282
+aVUnited Kingdom
 p1283
 aVEngland
 p1284
@@ -2937,12 +3265,14 @@ aS'1884'
 p1288
 aS'Forward'
 p1289
-aS'Manchester'
-p1290
 aS'6'
 aS'3'
 aS'1'
-aNaVUnited Kingdom
+aS'2'
+aS'1'
+aNaS'Manchester'
+p1290
+aVUnited Kingdom
 p1291
 aVEngland
 p1292
@@ -2955,12 +3285,14 @@ aS'1884'
 p1296
 aS'Three-quarters'
 p1297
-aS'Doncaster'
-p1298
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Doncaster'
+p1298
+aVUnited Kingdom
 p1299
 aVEngland
 p1300
@@ -2973,12 +3305,14 @@ aS'1884'
 p1304
 aS'Forward'
 p1305
-aS'date unknown'
-p1306
 aS'1'
 aS'1'
 aS'0'
-aNaS'g'
+aS'0'
+aS'0'
+aNaS'date unknown'
+p1306
+aS'g'
 aS'n'
 aS'i'
 aa(lp1307
@@ -2988,12 +3322,14 @@ aS'1885'
 p1309
 aS'Forward'
 p1310
-aS'Northwich'
-p1311
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Northwich'
+p1311
+aVUnited Kingdom
 p1312
 aVEngland
 p1313
@@ -3006,12 +3342,14 @@ aS'1885'
 p1317
 aS'Three-quarters'
 p1318
-aS'Macclesfield'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aNaS'Macclesfield'
 p1319
-aS'2'
-aS'2'
-aS'2'
-aNaVUnited Kingdom
+aVUnited Kingdom
 p1320
 aVEngland
 p1321
@@ -3024,12 +3362,14 @@ aS'1885'
 p1325
 aS'Forward'
 p1326
-aS'Carlisle'
-p1327
 aS'3'
 aS'2'
+aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aNaS'Carlisle'
+p1327
+aVUnited Kingdom
 p1328
 aVEngland
 p1329
@@ -3042,12 +3382,14 @@ aS'1885'
 p1333
 aS'Forward'
 p1334
-aS'Wirral'
-p1335
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
-aNaVCanada
+aNaS'Wirral'
+p1335
+aVCanada
 p1336
 aVNew Brunswick
 p1337
@@ -3060,12 +3402,14 @@ aS'1885'
 p1341
 aS'Forward'
 p1342
-aS'Manchester'
-p1343
 aS'3'
 aS'3'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Manchester'
+p1343
+aVUnited Kingdom
 p1344
 aVEngland
 p1345
@@ -3078,13 +3422,15 @@ aS'1885'
 p1349
 aS'Three-quarters'
 p1350
-aS'S Shields'
-p1351
 aS'10'
-p1352
+p1351
 aS'6'
+aS'3'
+aS'1'
 aS'2'
 aS'5'
+aS'S Shields'
+p1352
 aVUnited Kingdom
 p1353
 aVEngland
@@ -3098,12 +3444,14 @@ aS'1885'
 p1358
 aS'Forward'
 p1359
-aS'Pendlebury'
-p1360
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Pendlebury'
+p1360
+aVUnited Kingdom
 p1361
 aVEngland
 p1362
@@ -3116,12 +3464,14 @@ aS'1886'
 p1366
 aS'Halfback'
 p1367
-aS'1862'
-p1368
 aS'6'
 aS'3'
 aS'0'
+aS'3'
 aS'0'
+aS'0'
+aS'1862'
+p1368
 aVSverige
 p1369
 aVSvealand
@@ -3135,12 +3485,14 @@ aS'1886'
 p1374
 aS'Forward'
 p1375
-aS'Co Tipperary'
-p1376
 aS'6'
 aS'2'
+aS'1'
+aS'3'
 aS'0'
-aNaVRepublic of Ireland
+aNaS'Co Tipperary'
+p1376
+aVRepublic of Ireland
 p1377
 aVMunster
 p1378
@@ -3153,12 +3505,14 @@ aS'1886'
 p1382
 aS'Forward'
 p1383
-aS'Sunderland'
-p1384
 aS'1'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'0'
+aS'0'
+aNaS'Sunderland'
+p1384
+aVUnited Kingdom
 p1385
 aVEngland
 p1386
@@ -3171,13 +3525,15 @@ aS'1886'
 p1390
 aS'Forward'
 p1391
-aS'Somerset'
-p1392
 aS'10'
-p1393
+p1392
 aS'8'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'Somerset'
+p1393
 aVUnited Kingdom
 p1394
 aVEngland
@@ -3191,12 +3547,14 @@ aS'1886'
 p1399
 aS'Forward'
 p1400
-aS'Hanover Square'
-p1401
 aS'3'
 aS'2'
 aS'0'
-aNaVUnited States of America
+aS'1'
+aS'0'
+aNaS'Hanover Square'
+p1401
+aVUnited States of America
 p1402
 aV13202
 p1403
@@ -3209,12 +3567,14 @@ aS'1886'
 p1407
 aS'Forward'
 p1408
-aS'London'
-p1409
 aS'6'
 aS'2'
 aS'1'
-aNaVUnited Kingdom
+aS'3'
+aS'1'
+aNaS'London'
+p1409
+aVUnited Kingdom
 p1410
 aVEngland
 p1411
@@ -3227,12 +3587,14 @@ aS'1886'
 p1415
 aS'Three-quarters'
 p1416
-aS'Bradford'
-p1417
 aS'5'
 aS'2'
 aS'0'
-aNaVUnited Kingdom
+aS'3'
+aS'0'
+aNaS'Bradford'
+p1417
+aVUnited Kingdom
 p1418
 aVEngland
 p1419
@@ -3245,12 +3607,14 @@ aS'1886'
 p1423
 aS'Forward'
 p1424
-aS'Bradford'
-p1425
 aS'5'
 aS'2'
+aS'0'
+aS'3'
 aS'2'
-aNaVUnited Kingdom
+aNaS'Bradford'
+p1425
+aVUnited Kingdom
 p1426
 aVEngland
 p1427
@@ -3263,12 +3627,14 @@ aS'1886'
 p1431
 aS'Forward'
 p1432
-aS'Blackheath'
-p1433
 aS'3'
 aS'1'
 aS'0'
-aNaVUnited Kingdom
+aS'2'
+aS'0'
+aNaS'Blackheath'
+p1433
+aVUnited Kingdom
 p1434
 aVEngland
 p1435
@@ -3281,12 +3647,14 @@ aS'1886'
 p1439
 aS'Three-quarters'
 p1440
-aS'Tynemouth'
-p1441
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Tynemouth'
+p1441
+aVUnited Kingdom
 p1442
 aVEngland
 p1443
@@ -3299,16 +3667,18 @@ aS'1887'
 p1447
 aS'Forward'
 p1448
-aS'Clifton'
-p1449
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Clifton'
+p1449
+aVSouth Africa
 p1450
-aVEngland
+aVWestern Cape
 p1451
-aVSouth West England
+aVCity of Cape Town
 p1452
 aa(lp1453
 S'Charles Cleveland'
@@ -3317,12 +3687,14 @@ aS'1887'
 p1455
 aS'Forward'
 p1456
-aS'Bombay'
-p1457
 aS'2'
 aS'0'
 aS'0'
-aNaVIndia
+aS'2'
+aS'0'
+aNaS'Bombay'
+p1457
+aVIndia
 p1458
 aVMaharashtra
 p1459
@@ -3335,12 +3707,14 @@ aS'1887'
 p1463
 aS'Forward'
 p1464
-aS'Yorks'
-p1465
 aS'4'
 aS'0'
+aS'2'
+aS'2'
 aS'0'
 aS'0'
+aS'Yorks'
+p1465
 aVDeutschland
 p1466
 aV10965
@@ -3354,12 +3728,14 @@ aS'1887'
 p1471
 aS'Forward'
 p1472
-aS'Clapham Common'
-p1473
 aS'6'
+aS'2'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
+aS'Clapham Common'
+p1473
 aVUnited Kingdom
 p1474
 aVSW4 9DE
@@ -3373,12 +3749,14 @@ aS'1887'
 p1479
 aS'Three-quarters'
 p1480
-aS'Tonbridge'
-p1481
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited Kingdom
+aS'1'
+aS'0'
+aNaS'Tonbridge'
+p1481
+aVUnited Kingdom
 p1482
 aVEngland
 p1483
@@ -3391,13 +3769,15 @@ aS'1887'
 p1487
 aS'Three-quarters'
 p1488
-aS'Crigglestone'
-p1489
 aS'14'
-p1490
+p1489
 aS'8'
+aS'4'
+aS'2'
 aS'5'
 aS'28'
+p1490
+aS'Crigglestone'
 p1491
 aVUnited Kingdom
 p1492
@@ -3412,12 +3792,14 @@ aS'1887'
 p1497
 aS'Fullback'
 p1498
-aS'date unknown'
-p1499
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
-aNaS'g'
+aNaS'date unknown'
+p1499
+aS'g'
 aS'n'
 aS'i'
 aa(lp1500
@@ -3427,12 +3809,14 @@ aS'1887'
 p1502
 aS'Forward'
 p1503
-aS'Lancashire'
-p1504
 aS'3'
 aS'0'
+aS'1'
+aS'2'
 aS'0'
-aNaVUnited Kingdom
+aNaS'Lancashire'
+p1504
+aVUnited Kingdom
 p1505
 aVEngland
 p1506
@@ -3445,12 +3829,14 @@ aS'1887'
 p1510
 aS'Three-quarters'
 p1511
-aS'Calcutta'
-p1512
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVIndia
+aNaS'Calcutta'
+p1512
+aVIndia
 p1513
 aVWest Bengal
 p1514
@@ -3463,16 +3849,18 @@ aS'1887'
 p1518
 aS'Forward'
 p1519
-aS'Darlington'
-p1520
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaVUnited States of America
+aNaS'Darlington'
+p1520
+aVAustralia
 p1521
-aVSouth Carolina
+aVNew South Wales
 p1522
-aVDarlington County
+aVSydney City
 p1523
 aa(lp1524
 S'Mason Scott'
@@ -3481,12 +3869,14 @@ aS'1887'
 p1526
 aS'Halfback'
 p1527
-aS'Newcastle-upon-Tyne'
-p1528
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Newcastle-upon-Tyne'
+p1528
 aVUnited Kingdom
 p1529
 aVEngland
@@ -3500,12 +3890,14 @@ aS'1889'
 p1534
 aS'Forward'
 p1535
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Machester'
 p1536
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited States of America
 p1537
 aV29575
@@ -3519,12 +3911,14 @@ aS'1889'
 p1542
 aS'Forward'
 p1543
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'2'
 aS'Leeds'
 p1544
-aS'3'
-aS'3'
-aS'2'
-aS'2'
 aVUnited Kingdom
 p1545
 aVEngland
@@ -3538,12 +3932,14 @@ aS'1889'
 p1550
 aS'Forward'
 p1551
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Surbiton'
 p1552
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p1553
 aVEngland
@@ -3557,13 +3953,15 @@ aS'1889'
 p1558
 aS'Forward'
 p1559
-aS'Staffs'
-p1560
 aS'10'
-p1561
+p1560
 aS'7'
+aS'3'
+aS'0'
 aS'4'
 aS'7'
+aS'Staffs'
+p1561
 aVKenya
 p1562
 aV00200
@@ -3577,12 +3975,14 @@ aS'1889'
 p1567
 aS'Forward'
 p1568
-aS'Bradford'
-p1569
 aS'6'
 aS'5'
+aS'1'
+aS'0'
 aS'0'
 aS'2'
+aS'Bradford'
+p1569
 aVUnited Kingdom
 p1570
 aVEngland
@@ -3596,12 +3996,14 @@ aS'1889'
 p1575
 aS'Forward'
 p1576
-aS'Wakefield'
-p1577
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Wakefield'
+p1577
 aVUnited Kingdom
 p1578
 aVEngland
@@ -3615,17 +4017,19 @@ aS'1889'
 p1583
 aS'Forward'
 p1584
-aS'Darlington'
-p1585
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
-aVUnited States of America
+aS'0'
+aS'Darlington'
+p1585
+aVAustralia
 p1586
-aVSouth Carolina
+aVNew South Wales
 p1587
-aVDarlington County
+aVSydney City
 p1588
 aa(lp1589
 S'Artie Royle'
@@ -3634,12 +4038,14 @@ aS'1889'
 p1591
 aS'Fullback'
 p1592
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1593
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -3650,12 +4056,14 @@ aS'1889'
 p1596
 aS'Halfback'
 p1597
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Gateshead'
 p1598
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p1599
 aVEngland
@@ -3669,12 +4077,14 @@ aS'1889'
 p1604
 aS'Three-quarters'
 p1605
-aS'nr Halifax'
-p1606
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
+aS'nr Halifax'
+p1606
 aVDeutschland
 p1607
 aV77836
@@ -3688,12 +4098,14 @@ aS'1889'
 p1612
 aS'Forward'
 p1613
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Halifax'
 p1614
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVCanada
 p1615
 aVNova Scotia
@@ -3707,12 +4119,14 @@ aS'1889'
 p1620
 aS'Forward'
 p1621
-aS'Winchcome'
-p1622
 aS'6'
 aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Winchcome'
+p1622
 aS'g'
 aS'n'
 aS'i'
@@ -3723,12 +4137,14 @@ aS'1890'
 p1625
 aS'Forward'
 p1626
-aS'Essex'
-p1627
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'1'
 aS'1'
+aS'Essex'
+p1627
 aVUnited Kingdom
 p1628
 aVEngland
@@ -3742,12 +4158,14 @@ aS'1890'
 p1633
 aS'Halfback'
 p1634
-aS'Wellington'
-p1635
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Wellington'
+p1635
 aVNew Zealand/Aotearoa
 p1636
 aVWellington
@@ -3761,13 +4179,15 @@ aS'1890'
 p1641
 aS'Fullback'
 p1642
-aS'Quebec'
-p1643
 aS'10'
-p1644
+p1643
 aS'7'
+aS'3'
+aS'0'
 aS'0'
 aS'3'
+aS'Quebec'
+p1644
 aVCanada
 p1645
 aVQuébec
@@ -3780,12 +4200,14 @@ aS'1890'
 p1649
 aS'Three-quarters'
 p1650
-aS'Guisborough'
-p1651
 aS'4'
 aS'3'
 aS'1'
+aS'0'
 aS'1'
+aS'1'
+aS'Guisborough'
+p1651
 aVUnited Kingdom
 p1652
 aVEngland
@@ -3799,12 +4221,14 @@ aS'1890'
 p1657
 aS'Forward'
 p1658
-aS'Aston'
-p1659
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'1'
+aS'Aston'
+p1659
 aVFrance
 p1660
 aV09310
@@ -3818,12 +4242,14 @@ aS'1890'
 p1665
 aS'Centre'
 p1666
-aS'Salford'
-p1667
 aS'4'
 aS'1'
+aS'3'
+aS'0'
 aS'0'
 aS'2'
+aS'Salford'
+p1667
 aVUnited Kingdom
 p1668
 aVEngland
@@ -3837,13 +4263,15 @@ aS'1890'
 p1673
 aS'Forward'
 p1674
-aS'NSW'
-p1675
 aS'13'
-p1676
+p1675
 aS'9'
+aS'4'
+aS'0'
 aS'1'
 aS'6'
+aS'NSW'
+p1676
 aVAustralia
 p1677
 aVNew South Wales
@@ -3856,12 +4284,14 @@ aS'1890'
 p1681
 aS'Halfback'
 p1682
-aS'Yorks'
-p1683
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Yorks'
+p1683
 aVDeutschland
 p1684
 aV10965
@@ -3875,12 +4305,14 @@ aS'1890'
 p1689
 aS'Centre'
 p1690
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'2'
+aS'2'
 aS'Kensington'
 p1691
-aS'5'
-aS'5'
-aS'2'
-aS'2'
 aVUnited Kingdom
 p1692
 aVEngland
@@ -3894,12 +4326,14 @@ aS'1890'
 p1697
 aS'Three-quarters'
 p1698
-aS'Skelmanthorpe'
-p1699
 aS'4'
 aS'3'
 aS'1'
+aS'0'
+aS'1'
 aS'2'
+aS'Skelmanthorpe'
+p1699
 aVUnited Kingdom
 p1700
 aVEngland
@@ -3913,12 +4347,14 @@ aS'1890'
 p1705
 aS'Forward'
 p1706
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Bradford'
 p1707
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p1708
 aVEngland
@@ -3932,13 +4368,15 @@ aS'1890'
 p1713
 aS'Forward'
 p1714
-aS'Bradford'
-p1715
 aS'12'
-p1716
+p1715
 aS'9'
+aS'3'
+aS'0'
 aS'1'
 aS'1'
+aS'Bradford'
+p1716
 aVUnited Kingdom
 p1717
 aVEngland
@@ -3952,12 +4390,14 @@ aS'1890'
 p1722
 aS'Halfback'
 p1723
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Cheshire'
 p1724
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited States of America
 p1725
 aVConnecticut
@@ -3971,12 +4411,14 @@ aS'1891'
 p1730
 aS'Three-quarters'
 p1731
-aS'Nthumberlnd'
-p1732
 aS'6'
 aS'4'
+aS'2'
+aS'0'
 aS'1'
 aS'11'
+p1732
+aS'Nthumberlnd'
 p1733
 aS'g'
 aS'n'
@@ -3988,12 +4430,14 @@ aS'1891'
 p1736
 aS'Halfback'
 p1737
-aS'Fellside'
-p1738
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Fellside'
+p1738
 aVUnited Kingdom
 p1739
 aVEngland
@@ -4007,14 +4451,16 @@ aS'1891'
 p1744
 aS'Forward'
 p1745
-aS'Tadcaster'
-p1746
 aS'15'
-p1747
+p1746
 aS'11'
-p1748
+p1747
+aS'4'
+aS'0'
 aS'1'
 aS'2'
+aS'Tadcaster'
+p1748
 aVUnited Kingdom
 p1749
 aVLS24
@@ -4028,12 +4474,14 @@ aS'1891'
 p1754
 aS'Three-quarters'
 p1755
-aS'Blackheath'
-p1756
 aS'2'
 aS'1'
+aS'1'
+aS'0'
 aS'2'
 aS'2'
+aS'Blackheath'
+p1756
 aVUnited Kingdom
 p1757
 aVEngland
@@ -4047,12 +4495,14 @@ aS'1891'
 p1762
 aS'Forward'
 p1763
-aS'Nottingham'
-p1764
 aS'6'
 aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Nottingham'
+p1764
 aVUnited Kingdom
 p1765
 aVEngland
@@ -4066,12 +4516,14 @@ aS'1891'
 p1770
 aS'Halfback'
 p1771
-aS'Ceylon'
-p1772
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Ceylon'
+p1772
 aVUnited States of America
 p1773
 aVpenna
@@ -4085,12 +4537,14 @@ aS'1891'
 p1778
 aS'Forward'
 p1779
-aS'Lewisham'
-p1780
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Lewisham'
+p1780
 aVUnited Kingdom
 p1781
 aVEngland
@@ -4104,12 +4558,14 @@ aS'1891'
 p1786
 aS'Forward'
 p1787
-aS'Warks'
-p1788
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Warks'
+p1788
 aVUnited Kingdom
 p1789
 aVEngland
@@ -4123,12 +4579,14 @@ aS'1891'
 p1794
 aS'Forward'
 p1795
-aS'W Derby'
-p1796
 aS'3'
 aS'2'
+aS'1'
+aS'0'
 aS'2'
 aS'2'
+aS'W Derby'
+p1796
 aVUnited Kingdom
 p1797
 aVEngland
@@ -4142,17 +4600,19 @@ aS'1891'
 p1802
 aS'Forward'
 p1803
-aS'Clifton'
-p1804
 aS'3'
 aS'2'
 aS'1'
+aS'0'
+aS'1'
 aS'2'
-aVUnited Kingdom
+aS'Clifton'
+p1804
+aVSouth Africa
 p1805
-aVEngland
+aVWestern Cape
 p1806
-aVSouth West England
+aVCity of Cape Town
 p1807
 aa(lp1808
 S'Edgar Bonham-Carter'
@@ -4161,12 +4621,14 @@ aS'1891'
 p1810
 aS'Forward'
 p1811
-aS'Kensington'
-p1812
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Kensington'
+p1812
 aVUnited Kingdom
 p1813
 aVEngland
@@ -4180,12 +4642,14 @@ aS'1892'
 p1818
 aS'Forward'
 p1819
-aS'Brixton'
-p1820
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Brixton'
+p1820
 aVUnited Kingdom
 p1821
 aVEngland
@@ -4199,11 +4663,13 @@ aS'1892'
 p1826
 aS'Halfback'
 p1827
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'?'
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -4214,12 +4680,14 @@ aS'1892'
 p1830
 aS'Forward'
 p1831
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Wigan'
 p1832
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p1833
 aVEngland
@@ -4233,12 +4701,14 @@ aS'1892'
 p1838
 aS'Halfback'
 p1839
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Bradford'
 p1840
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p1841
 aVEngland
@@ -4252,12 +4722,14 @@ aS'1892'
 p1846
 aS'Three-quarters'
 p1847
-aS'Benares'
-p1848
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'2'
+aS'Benares'
+p1848
 aVAustralia
 p1849
 aVQueensland
@@ -4271,12 +4743,14 @@ aS'1892'
 p1854
 aS'Forward'
 p1855
-aS'Yorks?'
-p1856
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'2'
+aS'Yorks?'
+p1856
 aVDeutschland
 p1857
 aV10965
@@ -4290,12 +4764,14 @@ aS'1892'
 p1862
 aS'Forward'
 p1863
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'St Helens'
 p1864
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p1865
 aVEngland
@@ -4309,12 +4785,14 @@ aS'1892'
 p1870
 aS'Centre'
 p1871
-aS'South Rhodesia'
-p1872
 aS'4'
 aS'3'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
+aS'South Rhodesia'
+p1872
 aVUnited States of America
 p1873
 aVWashington
@@ -4328,17 +4806,19 @@ aS'1892'
 p1878
 aS'Forward'
 p1879
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Ashton'
 p1880
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aVSouth Africa
 p1881
-aVOL6 7PW
+aVWestern Cape
 p1882
-aVEngland
+aVCape Winelands District Municipality
 p1883
 aa(lp1884
 S'Samuel Houghton'
@@ -4347,12 +4827,14 @@ aS'1892'
 p1886
 aS'Fullback'
 p1887
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Runcorn'
 p1888
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p1889
 aVEngland
@@ -4366,11 +4848,13 @@ aS'1889'
 p1894
 aS'Three-quarters'
 p1895
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'?'
-aS'3'
-aS'3'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -4381,13 +4865,15 @@ aS'1892'
 p1898
 aS'Halfback'
 p1899
-aS'Newcastle-upon-Tyne'
-p1900
 aS'14'
-p1901
+p1900
 aS'7'
+aS'7'
+aS'0'
 aS'2'
 aS'15'
+p1901
+aS'Newcastle-upon-Tyne'
 p1902
 aVUnited Kingdom
 p1903
@@ -4402,12 +4888,14 @@ aS'1892'
 p1908
 aS'Forward'
 p1909
-aS'Leeds'
-p1910
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'2'
 aS'5'
+aS'Leeds'
+p1910
 aVUnited Kingdom
 p1911
 aVEngland
@@ -4421,12 +4909,14 @@ aS'1892'
 p1916
 aS'Fullback'
 p1917
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Lancs'
 p1918
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p1919
 aVS6 3TB
@@ -4440,12 +4930,14 @@ aS'1892'
 p1924
 aS'Scrum-half'
 p1925
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Yorks'
 p1926
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVDeutschland
 p1927
 aV10965
@@ -4459,12 +4951,14 @@ aS'1893'
 p1932
 aS'Forward'
 p1933
-aS'Bingley'
-p1934
 aS'6'
 aS'1'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'Bingley'
+p1934
 aVUnited Kingdom
 p1935
 aVEngland
@@ -4478,12 +4972,14 @@ aS'1893'
 p1940
 aS'Halfback'
 p1941
-aS'Hay'
-p1942
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Hay'
+p1942
 aVNederland
 p1943
 aVZuid-Holland
@@ -4497,12 +4993,14 @@ aS'1893'
 p1948
 aS'Fullback'
 p1949
-aS'Hampstead'
-p1950
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Hampstead'
+p1950
 aVUnited Kingdom
 p1951
 aVEngland
@@ -4516,12 +5014,14 @@ aS'1893'
 p1956
 aS'Forward'
 p1957
-aS'Tynemouth'
-p1958
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Tynemouth'
+p1958
 aVUnited Kingdom
 p1959
 aVEngland
@@ -4535,12 +5035,14 @@ aS'1893'
 p1964
 aS'Forward'
 p1965
-aS'Hartlepool'
-p1966
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'1'
 aS'2'
+aS'Hartlepool'
+p1966
 aVUnited Kingdom
 p1967
 aVEngland
@@ -4554,12 +5056,14 @@ aS'1891'
 p1972
 aS'Halfback'
 p1973
-aS'Sunderland'
-p1974
 aS'3'
 aS'2'
+aS'1'
+aS'0'
 aS'3'
 aS'6'
+aS'Sunderland'
+p1974
 aVUnited Kingdom
 p1975
 aVEngland
@@ -4573,17 +5077,19 @@ aS'1893'
 p1980
 aS'Forward'
 p1981
-aS'Sudbury'
-p1982
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVCanada
+aS'0'
+aS'Sudbury'
+p1982
+aVUnited Kingdom
 p1983
-aVOntario
+aVEngland
 p1984
-aVSudbury
+aVEast of England
 p1985
 aa(lp1986
 S'Horace Duckett'
@@ -4592,12 +5098,14 @@ aS'1893'
 p1988
 aS'Halfback'
 p1989
-aS'Bradford'
-p1990
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Bradford'
+p1990
 aVUnited Kingdom
 p1991
 aVEngland
@@ -4611,12 +5119,14 @@ aS'1893'
 p1996
 aS'Three-quarters'
 p1997
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
 p1998
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
@@ -4627,12 +5137,14 @@ aS'1893'
 p2001
 aS'Three-quarters'
 p2002
-aS'Birkenhead'
-p2003
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Birkenhead'
+p2003
 aVUnited Kingdom
 p2004
 aVEngland
@@ -4646,12 +5158,14 @@ aS'1893'
 p2009
 aS'Forward'
 p2010
-aS'Burton-on-Trent'
-p2011
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'Burton-on-Trent'
+p2011
 aVUnited Kingdom
 p2012
 aVEngland
@@ -4665,12 +5179,14 @@ aS'1893'
 p2017
 aS'Forward'
 p2018
-aS'Bath'
-p2019
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Bath'
+p2019
 aVUnited Kingdom
 p2020
 aVBA1
@@ -4684,12 +5200,14 @@ aS'1893'
 p2025
 aS'Halfback'
 p2026
-aS'London'
-p2027
 aS'6'
 aS'2'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'London'
+p2027
 aVUnited Kingdom
 p2028
 aVEngland
@@ -4703,13 +5221,15 @@ aS'1894'
 p2033
 aS'Fullback'
 p2034
-aS'Birmingham'
-p2035
 aS'17'
-p2036
+p2035
 aS'7'
+aS'9'
+aS'1'
 aS'0'
 aS'36'
+p2036
+aS'Birmingham'
 p2037
 aVUnited Kingdom
 p2038
@@ -4724,12 +5244,14 @@ aS'1894'
 p2043
 aS'Wing'
 p2044
-aS'Yorks'
-p2045
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Yorks'
+p2045
 aVDeutschland
 p2046
 aV10965
@@ -4743,12 +5265,14 @@ aS'1894'
 p2051
 aS'Forward'
 p2052
-aS'date unknown'
-p2053
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p2053
 aS'g'
 aS'n'
 aS'i'
@@ -4759,12 +5283,14 @@ aS'1894'
 p2056
 aS'Centre'
 p2057
-aS'Glos'
-p2058
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Glos'
+p2058
 aVFrance
 p2059
 aV14100
@@ -4778,12 +5304,14 @@ aS'1894'
 p2064
 aS'Centre'
 p2065
-aS'Kingston-upon-Hull'
-p2066
 aS'6'
 aS'2'
+aS'4'
+aS'0'
 aS'3'
 aS'9'
+aS'Kingston-upon-Hull'
+p2066
 aVUnited Kingdom
 p2067
 aVEngland
@@ -4797,12 +5325,14 @@ aS'1894'
 p2072
 aS'Forward'
 p2073
-aS'Castleford'
-p2074
 aS'4'
 aS'1'
+aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'Castleford'
+p2074
 aVUnited Kingdom
 p2075
 aVEngland
@@ -4816,12 +5346,14 @@ aS'1894'
 p2080
 aS'Forward'
 p2081
-aS'1872'
-p2082
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'1872'
+p2082
 aVDanmark
 p2083
 aV1872
@@ -4835,12 +5367,14 @@ aS'1894'
 p2088
 aS'Halfback'
 p2089
-aS'Pontefract'
-p2090
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Pontefract'
+p2090
 aVUnited Kingdom
 p2091
 aVEngland
@@ -4854,12 +5388,14 @@ aS'1894'
 p2096
 aS'Forward'
 p2097
-aS'Sthampton'
-p2098
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Sthampton'
+p2098
 aS'g'
 aS'n'
 aS'i'
@@ -4870,12 +5406,14 @@ aS'1894'
 p2101
 aS'Wing'
 p2102
-aS'Gloucester'
-p2103
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Gloucester'
+p2103
 aVUnited Kingdom
 p2104
 aVEngland
@@ -4889,11 +5427,13 @@ aS'1894'
 p2109
 aS'Forward'
 p2110
-aS'?'
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
@@ -4904,12 +5444,14 @@ aS'1895'
 p2113
 aS'Centre'
 p2114
-aS'United States'
-p2115
 aS'7'
 aS'3'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'United States'
+p2115
 aVUnited States of America
 p2116
 ag9
@@ -4921,12 +5463,14 @@ aS'1895'
 p2119
 aS'Forward'
 p2120
-aS'Guernsey'
-p2121
 aS'5'
 aS'3'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'Guernsey'
+p2121
 aVGuernsey
 p2122
 ag9
@@ -4938,12 +5482,14 @@ aS'1895'
 p2125
 aS'Fly-half'
 p2126
-aS'Erdington'
-p2127
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'2'
 aS'6'
+aS'Erdington'
+p2127
 aVUnited Kingdom
 p2128
 aVEngland
@@ -4957,12 +5503,14 @@ aS'1895'
 p2133
 aS'Wing'
 p2134
-aS'Kent'
-p2135
 aS'3'
 aS'2'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
+aS'Kent'
+p2135
 aVUnited Kingdom
 p2136
 aVEngland
@@ -4976,12 +5524,14 @@ aS'1895'
 p2141
 aS'Forward'
 p2142
-aS'Bedford'
-p2143
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Bedford'
+p2143
 aVUnited Kingdom
 p2144
 aVEngland
@@ -4995,12 +5545,14 @@ aS'1895'
 p2149
 aS'Centre'
 p2150
-aS'Fylde'
-p2151
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
+aS'Fylde'
+p2151
 aVUnited Kingdom
 p2152
 aVEngland
@@ -5014,12 +5566,14 @@ aS'1895'
 p2157
 aS'Forward'
 p2158
-aS'Market Weighton'
-p2159
 aS'6'
 aS'3'
+aS'3'
+aS'0'
 aS'1'
 aS'5'
+aS'Market Weighton'
+p2159
 aVUnited Kingdom
 p2160
 aVEngland
@@ -5033,17 +5587,19 @@ aS'1895'
 p2165
 aS'Forward'
 p2166
-aS'Houghton'
-p2167
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited States of America
+aS'0'
+aS'Houghton'
+p2167
+aVUnited Kingdom
 p2168
-aVSouth Dakota
+aVEngland
 p2169
-aVBrown County
+aVEast of England
 p2170
 aa(lp2171
 S'Charles Thomas'
@@ -5052,12 +5608,14 @@ aS'1895'
 p2173
 aS'Forward'
 p2174
-aS'Barnstaple'
-p2175
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'Barnstaple'
+p2175
 aVUnited Kingdom
 p2176
 aVEngland
@@ -5071,12 +5629,14 @@ aS'1895'
 p2181
 aS'Fullback'
 p2182
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Bradford'
 p2183
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p2184
 aVEngland
@@ -5090,12 +5650,14 @@ aS'1895'
 p2189
 aS'Centre'
 p2190
-aS'Bradford'
-p2191
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Bradford'
+p2191
 aVUnited Kingdom
 p2192
 aVEngland
@@ -5109,13 +5671,15 @@ aS'1896'
 p2197
 aS'Wing'
 p2198
-aS'Waverley'
-p2199
 aS'10'
-p2200
+p2199
 aS'3'
+aS'7'
+aS'0'
 aS'5'
 aS'15'
+p2200
+aS'Waverley'
 p2201
 aVUnited Kingdom
 p2202
@@ -5130,12 +5694,14 @@ aS'1896'
 p2207
 aS'Forward'
 p2208
-aS'Tasmania'
-p2209
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Tasmania'
+p2209
 aVAustralia
 p2210
 aVTasmania
@@ -5148,12 +5714,14 @@ aS'1896'
 p2214
 aS'Forward'
 p2215
-aS'Lancaster'
-p2216
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Lancaster'
+p2216
 aVUnited States of America
 p2217
 aVpenna
@@ -5167,12 +5735,14 @@ aS'1896'
 p2222
 aS'Forward'
 p2223
-aS'Pontefract'
-p2224
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Pontefract'
+p2224
 aVUnited Kingdom
 p2225
 aVEngland
@@ -5186,12 +5756,14 @@ aS'1896'
 p2230
 aS'Forward'
 p2231
-aS'Castleford'
-p2232
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Castleford'
+p2232
 aVUnited Kingdom
 p2233
 aVEngland
@@ -5205,12 +5777,14 @@ aS'1896'
 p2238
 aS'Forward'
 p2239
-aS'Castleford'
-p2240
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Castleford'
+p2240
 aVUnited Kingdom
 p2241
 aVEngland
@@ -5224,12 +5798,14 @@ aS'1896'
 p2246
 aS'Forward'
 p2247
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Yorks'
 p2248
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVDeutschland
 p2249
 aV10965
@@ -5243,12 +5819,14 @@ aS'1896'
 p2254
 aS'Forward'
 p2255
-aS'Micklethwaite'
-p2256
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Micklethwaite'
+p2256
 aVUnited Kingdom
 p2257
 aVEngland
@@ -5262,12 +5840,14 @@ aS'1896'
 p2262
 aS'Forward'
 p2263
-aS'Yorks'
-p2264
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Yorks'
+p2264
 aVDeutschland
 p2265
 aV10965
@@ -5281,12 +5861,14 @@ aS'1896'
 p2270
 aS'Forward'
 p2271
-aS'Cumb.'
-p2272
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Cumb.'
+p2272
 aS'g'
 aS'n'
 aS'i'
@@ -5297,12 +5879,14 @@ aS'1896'
 p2275
 aS'Fullback'
 p2276
-aS'Hartlepool'
-p2277
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Hartlepool'
+p2277
 aVUnited Kingdom
 p2278
 aVEngland
@@ -5316,12 +5900,14 @@ aS'1897'
 p2283
 aS'Forward'
 p2284
-aS'Devon'
-p2285
 aS'4'
+aS'1'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'Devon'
+p2285
 aVUnited Kingdom
 p2286
 aVEngland
@@ -5335,12 +5921,14 @@ aS'1897'
 p2291
 aS'Wing'
 p2292
-aS'Birmingham'
-p2293
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Birmingham'
+p2293
 aVUnited Kingdom
 p2294
 aVEngland
@@ -5354,12 +5942,14 @@ aS'1897'
 p2299
 aS'Forward'
 p2300
-aS'Somerset'
-p2301
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Somerset'
+p2301
 aVUnited Kingdom
 p2302
 aVEngland
@@ -5373,12 +5963,14 @@ aS'1897'
 p2307
 aS'Centre'
 p2308
-aS'Cumberland'
-p2309
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Cumberland'
+p2309
 aVUnited States of America
 p2310
 aVIllinois
@@ -5392,12 +5984,14 @@ aS'1897'
 p2315
 aS'Forward'
 p2316
-aS'Kent'
-p2317
 aS'8'
 aS'2'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'Kent'
+p2317
 aVUnited Kingdom
 p2318
 aVEngland
@@ -5411,17 +6005,19 @@ aS'1897'
 p2323
 aS'Forward'
 p2324
-aS'Guildford'
-p2325
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Guildford'
+p2325
+aVAustralia
 p2326
-aVGU1 4UT
+aV2150
 p2327
-aVEngland
+aVNew South Wales
 p2328
 aa(lp2329
 S'Robert Oakes'
@@ -5430,12 +6026,14 @@ aS'1897'
 p2331
 aS'Forward'
 p2332
-aS'Hartlepool'
-p2333
 aS'8'
 aS'2'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'Hartlepool'
+p2333
 aVUnited Kingdom
 p2334
 aVEngland
@@ -5449,12 +6047,14 @@ aS'1897'
 p2339
 aS'Forward'
 p2340
-aS'Liverpool'
-p2341
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Liverpool'
+p2341
 aVUnited Kingdom
 p2342
 aVEngland
@@ -5468,12894 +6068,14212 @@ aS'1897'
 p2347
 aS'Forward'
 p2348
-aS'Gloucester'
-p2349
 aS'21'
-p2350
+p2349
 aS'5'
+aS'12'
+p2350
+aS'4'
 aS'1'
 aS'5'
-aVUnited Kingdom
+aS'Gloucester'
 p2351
-aVEngland
+aVUnited Kingdom
 p2352
-aVSouth West England
+aVEngland
 p2353
-aa(lp2354
+aVSouth West England
+p2354
+aa(lp2355
 S'William Bunting'
-p2355
-aS'1897'
 p2356
-aS'Centre'
+aS'1897'
 p2357
-aS'Daventry'
+aS'Centre'
 p2358
 aS'9'
 aS'2'
+aS'5'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Daventry'
 p2359
-aVEngland
+aVUnited Kingdom
 p2360
-aVEast Midlands
+aVEngland
 p2361
-aa(lp2362
+aVEast Midlands
+p2362
+aa(lp2363
 S'Samuel Northmore'
-p2363
-aS'1897'
 p2364
-aS'Fly-half'
+aS'1897'
 p2365
-aS'Cumberland'
+aS'Fly-half'
 p2366
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited States of America
+aS'0'
+aS'Cumberland'
 p2367
-aVIllinois
+aVUnited States of America
 p2368
-aVCumberland County
+aVIllinois
 p2369
-aa(lp2370
+aVCumberland County
+p2370
+aa(lp2371
 S'Tot Robinson'
-p2371
-aS'1897'
 p2372
-aS'Wing'
+aS'1897'
 p2373
-aS'Gateshead'
+aS'Wing'
 p2374
 aS'8'
 aS'2'
+aS'5'
+aS'1'
 aS'8'
 aS'24'
 p2375
-aVUnited Kingdom
+aS'Gateshead'
 p2376
-aVEngland
+aVUnited Kingdom
 p2377
-aVNorth East England
+aVEngland
 p2378
-aa(lp2379
+aVNorth East England
+p2379
+aa(lp2380
 S'John Taylor'
-p2380
-aS'1897'
 p2381
-aS'Centre'
+aS'1897'
 p2382
-aS'?'
-aS'11'
+aS'Centre'
 p2383
+aS'11'
+p2384
 aS'3'
+aS'8'
+aS'0'
 aS'1'
 aS'5'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2384
+aa(lp2385
 S'James Davidson'
-p2385
-aS'1897'
 p2386
-aS'Forward'
+aS'1897'
 p2387
-aS'?'
+aS'Forward'
+p2388
 aS'5'
 aS'2'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2388
+aa(lp2389
 S'Herbert Dudgeon'
-p2389
-aS'1897'
 p2390
-aS'Forward'
+aS'1897'
 p2391
-aS'Tynemouth'
+aS'Forward'
 p2392
 aS'7'
 aS'2'
+aS'4'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Tynemouth'
 p2393
-aVEngland
+aVUnited Kingdom
 p2394
-aVNorth East England
+aVEngland
 p2395
-aa(lp2396
+aVNorth East England
+p2396
+aa(lp2397
 S'Osbert Mackie'
-p2397
-aS'1896'
 p2398
-aS'Centre'
+aS'1896'
 p2399
-aS'Wakefield'
+aS'Centre'
 p2400
 aS'6'
 aS'4'
+aS'2'
+aS'0'
 aS'1'
 aS'7'
-aVUnited Kingdom
+aS'Wakefield'
 p2401
-aVEngland
+aVUnited Kingdom
 p2402
-aVYorkshire and the Humber
+aVEngland
 p2403
-aa(lp2404
+aVYorkshire and the Humber
+p2404
+aa(lp2405
 S'Joseph Blacklock'
-p2405
-aS'1898'
 p2406
-aS'Forward'
+aS'1898'
 p2407
-aS'S Shields'
+aS'Forward'
 p2408
 aS'2'
 aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2409
-aVEngland
-p2410
-aVNorth East England
-p2411
-aa(lp2412
-S'Philip Jacob'
-p2413
-aS'1898'
-p2414
-aS'Scrum-half'
-p2415
-aS'Seoni'
-p2416
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVIndia
-p2417
-aVMadhya Pradesh
-p2418
-aVSeoni
-p2419
-aa(lp2420
-S'Harry Myers'
-p2421
-aS'1898'
-p2422
-aS'Fly-half'
-p2423
-aS'Leeds'
-p2424
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2425
-aVEngland
-p2426
-aVYorkshire and the Humber
-p2427
-aa(lp2428
-S'Richard Pierce'
-p2429
-aS'1898'
-p2430
-aS'Forward'
-p2431
-aS'W Derby'
-p2432
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'S Shields'
+p2409
 aVUnited Kingdom
-p2433
+p2410
 aVEngland
-p2434
-aVNorth West England
-p2435
-aa(lp2436
-S'Frederick Shaw'
-p2437
+p2411
+aVNorth East England
+p2412
+aa(lp2413
+S'Philip Jacob'
+p2414
 aS'1898'
-p2438
+p2415
+aS'Scrum-half'
+p2416
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Seoni'
+p2417
+aVIndia
+p2418
+aVMadhya Pradesh
+p2419
+aVSeoni
+p2420
+aa(lp2421
+S'Harry Myers'
+p2422
+aS'1898'
+p2423
+aS'Fly-half'
+p2424
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Leeds'
+p2425
+aVUnited Kingdom
+p2426
+aVEngland
+p2427
+aVYorkshire and the Humber
+p2428
+aa(lp2429
+S'Richard Pierce'
+p2430
+aS'1898'
+p2431
 aS'Forward'
+p2432
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'W Derby'
+p2433
+aVUnited Kingdom
+p2434
+aVEngland
+p2435
+aVNorth West England
+p2436
+aa(lp2437
+S'Frederick Shaw'
+p2438
+aS'1898'
 p2439
-aS'Huddersfield'
+aS'Forward'
 p2440
 aS'1'
 aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2441
-aVEngland
-p2442
-aVYorkshire and the Humber
-p2443
-aa(lp2444
-S'Charles Wilson'
-p2445
-aS'1898'
-p2446
-aS'Forward'
-p2447
-aS'Co Cork'
-p2448
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVRepublic of Ireland
-p2449
-aVMunster
-p2450
-aVCounty Cork
-p2451
-aa(lp2452
-S'William Pilkington'
-p2453
+aS'Huddersfield'
+p2441
+aVUnited Kingdom
+p2442
+aVEngland
+p2443
+aVYorkshire and the Humber
+p2444
+aa(lp2445
+S'Charles Wilson'
+p2446
 aS'1898'
+p2447
+aS'Forward'
+p2448
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Co Cork'
+p2449
+aVRepublic of Ireland
+p2450
+aVMunster
+p2451
+aVCounty Cork
+p2452
+aa(lp2453
+S'William Pilkington'
 p2454
-aS'Wing'
+aS'1898'
 p2455
-aS'Prescot'
+aS'Wing'
 p2456
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Prescot'
 p2457
-aVEngland
+aVUnited Kingdom
 p2458
-aVNorth West England
+aVEngland
 p2459
-aa(lp2460
+aVNorth West England
+p2460
+aa(lp2461
 S'Harold Ramsden'
-p2461
-aS'1898'
 p2462
-aS'Forward'
+aS'1898'
 p2463
-aS'Bingley'
+aS'Forward'
 p2464
 aS'2'
 aS'1'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Bingley'
 p2465
-aVEngland
+aVUnited Kingdom
 p2466
-aVYorkshire and the Humber
+aVEngland
 p2467
-aa(lp2468
+aVYorkshire and the Humber
+p2468
+aa(lp2469
 S'Arthur Rotherham'
-p2469
-aS'1891'
 p2470
-aS'Scrum-half'
+aS'1891'
 p2471
-aS'Coventry'
+aS'Scrum-half'
 p2472
 aS'8'
 aS'4'
+aS'3'
+aS'1'
 aS'0'
 aS'4'
-aVUnited Kingdom
+aS'Coventry'
 p2473
-aVEngland
+aVUnited Kingdom
 p2474
-aVWest Midlands
+aVEngland
 p2475
-aa(lp2476
+aVWest Midlands
+p2476
+aa(lp2477
 S'Percy Royds'
-p2477
-aS'1898'
 p2478
-aS'Centre'
+aS'1898'
 p2479
-aS'Rochdale'
+aS'Centre'
 p2480
 aS'3'
 aS'1'
 aS'1'
+aS'1'
+aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Rochdale'
 p2481
-aVEngland
+aVUnited Kingdom
 p2482
-aVNorth West England
+aVEngland
 p2483
-aa(lp2484
+aVNorth West England
+p2484
+aa(lp2485
 S'James Shaw'
-p2485
-aS'1898'
 p2486
-aS'Forward'
+aS'1898'
 p2487
-aS'Burton'
+aS'Forward'
 p2488
 aS'2'
 aS'1'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Burton'
 p2489
-aVWales
+aVAustralia
 p2490
-aVPembrokeshire
+aV5000
 p2491
-aa(lp2492
+aVSouth Australia
+p2492
+aa(lp2493
 S'Percy Stout'
-p2493
-aS'1898'
 p2494
-aS'Centre'
+aS'1898'
 p2495
-aS'Gloucester'
+aS'Centre'
 p2496
 aS'5'
 aS'1'
+aS'3'
+aS'1'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Gloucester'
 p2497
-aVEngland
+aVUnited Kingdom
 p2498
-aVSouth West England
+aVEngland
 p2499
-aa(lp2500
+aVSouth West England
+p2500
+aa(lp2501
 S'Geoffrey Unwin'
-p2501
-aS'1898'
 p2502
-aS'Fly-half'
+aS'1898'
 p2503
-aS'Ecclesall Bay'
+aS'Fly-half'
 p2504
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Ecclesall Bay'
 p2505
-aVEngland
+aVUnited Kingdom
 p2506
-aVYorkshire and the Humber
+aVEngland
 p2507
-aa(lp2508
+aVYorkshire and the Humber
+p2508
+aa(lp2509
 S'Robert Livesay'
-p2509
-aS'1898'
 p2510
-aS'Fly-half'
+aS'1898'
 p2511
-aS'Gillinghm'
+aS'Fly-half'
 p2512
 aS'2'
 aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Gillinghm'
+p2513
 aS'g'
 aS'n'
 aS'i'
-aa(lp2513
+aa(lp2514
 S'John Daniell'
-p2514
-aS'1899'
 p2515
-aS'Forward'
+aS'1899'
 p2516
-aS'Bath'
+aS'Forward'
 p2517
 aS'7'
 aS'4'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Bath'
 p2518
-aVBA1
+aVUnited Kingdom
 p2519
-aVEngland
+aVBA1
 p2520
-aa(lp2521
+aVEngland
+p2521
+aa(lp2522
 S'Joseph Davidson'
-p2522
-aS'1899'
 p2523
-aS'Forward'
+aS'1899'
 p2524
-aS'Chester-le-Street'
+aS'Forward'
 p2525
 aS'2'
 aS'0'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Chester-le-Street'
 p2526
-aVEngland
+aVUnited Kingdom
 p2527
-aVNorth East England
+aVEngland
 p2528
-aa(lp2529
+aVNorth East England
+p2529
+aa(lp2530
 S'Reginald Forrest'
-p2530
-aS'1899'
 p2531
-aS'Wing'
+aS'1899'
 p2532
-aS'Bristol'
+aS'Wing'
 p2533
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Bristol'
 p2534
-aVEngland
+aVUnited Kingdom
 p2535
-aVSouth West England
+aVEngland
 p2536
-aa(lp2537
+aVSouth West England
+p2537
+aa(lp2538
 S'Octopus Gamlin'
-p2538
-aS'1899'
 p2539
-aS'Fullback'
+aS'1899'
 p2540
-aS'Somerset'
+aS'Fullback'
 p2541
 aS'15'
 p2542
 aS'4'
+aS'9'
+aS'2'
 aS'0'
 aS'3'
-aVUnited Kingdom
+aS'Somerset'
 p2543
-aVEngland
+aVUnited Kingdom
 p2544
-aVSouth West England
+aVEngland
 p2545
-aa(lp2546
+aVSouth West England
+p2546
+aa(lp2547
 S'George Gibson'
-p2547
-aS'1899'
 p2548
-aS'Forward'
+aS'1899'
 p2549
-aS'Gateshead'
+aS'Forward'
 p2550
 aS'6'
 aS'3'
+aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Gateshead'
 p2551
-aVEngland
+aVUnited Kingdom
 p2552
-aVNorth East England
+aVEngland
 p2553
-aa(lp2554
+aVNorth East England
+p2554
+aa(lp2555
 S'Charles Harper'
-p2555
-aS'1899'
 p2556
-aS'Forward'
+aS'1899'
 p2557
-aS'Caistor'
+aS'Forward'
 p2558
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Caistor'
 p2559
-aVEngland
+aVUnited Kingdom
 p2560
-aVEast Midlands
+aVEngland
 p2561
-aa(lp2562
+aVEast Midlands
+p2562
+aa(lp2563
 S'William Mortimer'
-p2563
-aS'1896'
 p2564
-aS'Forward'
+aS'1896'
 p2565
-aS'Warrington'
+aS'Forward'
 p2566
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Warrington'
 p2567
-aVEngland
+aVUnited Kingdom
 p2568
-aVNorth West England
+aVEngland
 p2569
-aa(lp2570
+aVNorth West England
+p2570
+aa(lp2571
 S'Stanley Anderson'
-p2571
-aS'1899'
 p2572
-aS'Wing'
+aS'1899'
 p2573
-aS'r Tynemouth'
+aS'Wing'
 p2574
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'r Tynemouth'
 p2575
-aVEngland
+aVUnited Kingdom
 p2576
-aVNorth East England
+aVEngland
 p2577
-aa(lp2578
+aVNorth East England
+p2578
+aa(lp2579
 S'Arthur Darby'
-p2579
-aS'1899'
 p2580
-aS'Forward'
+aS'1899'
 p2581
-aS'Chester'
+aS'Forward'
 p2582
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Chester'
 p2583
-aVEngland
+aVUnited Kingdom
 p2584
-aVNorth West England
+aVEngland
 p2585
-aa(lp2586
+aVNorth West England
+p2586
+aa(lp2587
 S'John Shooter'
-p2587
-aS'1899'
 p2588
-aS'Forward'
+aS'1899'
 p2589
-aS'Nottingham'
+aS'Forward'
 p2590
 aS'4'
 aS'1'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Nottingham'
 p2591
-aVEngland
+aVUnited Kingdom
 p2592
-aVEast Midlands
+aVEngland
 p2593
-aa(lp2594
+aVEast Midlands
+p2594
+aa(lp2595
 S'Aubrey Dowson'
-p2595
-aS'1899'
 p2596
-aS'Forward'
+aS'1899'
 p2597
-aS'Stockport'
+aS'Forward'
 p2598
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Stockport'
 p2599
-aVEngland
+aVUnited Kingdom
 p2600
-aVNorth West England
+aVEngland
 p2601
-aa(lp2602
+aVNorth West England
+p2602
+aa(lp2603
 S'Reginald Hobbs'
-p2603
-aS'1899'
 p2604
-aS'Forward'
+aS'1899'
 p2605
-aS'Tyldesley'
+aS'Forward'
 p2606
 aS'2'
 aS'0'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Tyldesley'
 p2607
-aVEngland
+aVUnited Kingdom
 p2608
-aVNorth West England
+aVEngland
 p2609
-aa(lp2610
+aVNorth West England
+p2610
+aa(lp2611
 S'John Matters'
-p2611
-aS'1899'
 p2612
-aS'Wing'
+aS'1899'
 p2613
-aS'Stoke Damerel'
+aS'Wing'
 p2614
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Stoke Damerel'
 p2615
-aVPL1 5PA
+aVUnited Kingdom
 p2616
-aVEngland
+aVPL1 5PA
 p2617
-aa(lp2618
+aVEngland
+p2618
+aa(lp2619
 S'Reginald Schwarz'
-p2619
-aS'1899'
 p2620
-aS'Fly-half'
+aS'1899'
 p2621
-aS'Lewisham'
+aS'Fly-half'
 p2622
 aS'3'
 aS'0'
+aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Lewisham'
 p2623
-aVEngland
+aVUnited Kingdom
 p2624
-aVGreater London
+aVEngland
 p2625
-aa(lp2626
+aVGreater London
+p2626
+aa(lp2627
 S'Bim Baxter'
-p2627
-aS'1900'
 p2628
-aS'Forward'
+aS'1900'
 p2629
-aS'Cheshire'
+aS'Forward'
 p2630
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited States of America
+aS'Cheshire'
 p2631
-aVConnecticut
+aVUnited States of America
 p2632
-aVNew Haven County
+aVConnecticut
 p2633
-aa(lp2634
+aVNew Haven County
+p2634
+aa(lp2635
 S'Fred Bell'
-p2635
-aS'1900'
 p2636
-aS'Forward'
+aS'1900'
 p2637
-aS'Cullercoates'
+aS'Forward'
 p2638
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Cullercoates'
 p2639
-aVEngland
+aVUnited Kingdom
 p2640
-aVNorth East England
+aVEngland
 p2641
-aa(lp2642
+aVNorth East England
+p2642
+aa(lp2643
 S'Robert Bell'
-p2643
-aS'1900'
 p2644
-aS'Forward'
+aS'1900'
 p2645
-aS'Newcastle-upon-Tyne'
+aS'Forward'
 p2646
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Newcastle-upon-Tyne'
 p2647
-aVEngland
+aVUnited Kingdom
 p2648
-aVNorth East England
+aVEngland
 p2649
-aa(lp2650
+aVNorth East England
+p2650
+aa(lp2651
 S'Arthur Brettargh'
-p2651
-aS'1900'
 p2652
-aS'Centre'
+aS'1900'
 p2653
-aS'Cheshire'
+aS'Centre'
 p2654
 aS'8'
 aS'1'
+aS'6'
+aS'1'
 aS'1'
 aS'3'
-aVUnited States of America
+aS'Cheshire'
 p2655
-aVConnecticut
+aVUnited States of America
 p2656
-aVNew Haven County
+aVConnecticut
 p2657
-aa(lp2658
+aVNew Haven County
+p2658
+aa(lp2659
 S'William Cobby'
-p2659
-aS'1900'
 p2660
-aS'Forward'
+aS'1900'
 p2661
-aS'Hull'
+aS'Forward'
 p2662
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Hull'
 p2663
-aVEngland
+aVUnited Kingdom
 p2664
-aVYorkshire and the Humber
+aVEngland
 p2665
-aa(lp2666
+aVYorkshire and the Humber
+p2666
+aa(lp2667
 S'Arthur Cockerham'
-p2667
-aS'1900'
 p2668
-aS'Forward'
+aS'1900'
 p2669
-aS'Bradfo'
+aS'Forward'
 p2670
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Bradfo'
+p2671
 aS'g'
 aS'n'
 aS'i'
-aa(lp2671
+aa(lp2672
 S'Sydney Coopper'
-p2672
-aS'1900'
 p2673
-aS'Wing'
+aS'1900'
 p2674
-aS'Hoo'
+aS'Wing'
 p2675
 aS'7'
 aS'1'
+aS'6'
+aS'0'
 aS'2'
 aS'6'
-aVUnited Kingdom
+aS'Hoo'
 p2676
-aVEngland
+aVUnited Kingdom
 p2677
-aVSouth East
+aVEngland
 p2678
-aa(lp2679
+aVSouth East
+p2679
+aa(lp2680
 S'Gerald Gordon-Smith'
-p2680
-aS'1900'
 p2681
-aS'Centre'
+aS'1900'
 p2682
-aS'Southampton'
+aS'Centre'
 p2683
 aS'3'
 aS'1'
 aS'1'
+aS'1'
+aS'1'
 aS'7'
-aVUnited Kingdom
+aS'Southampton'
 p2684
-aVEngland
+aVUnited Kingdom
 p2685
-aVSouth East
+aVEngland
 p2686
-aa(lp2687
+aVSouth East
+p2687
+aa(lp2688
 S'Wallace Jarman'
-p2688
-aS'1899'
 p2689
-aS'Forward'
+aS'1899'
 p2690
-aS'Towcester'
+aS'Forward'
 p2691
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Towcester'
 p2692
-aVEngland
+aVUnited Kingdom
 p2693
-aVEast Midlands
+aVEngland
 p2694
-aa(lp2695
+aVEast Midlands
+p2695
+aa(lp2696
 S'George Marsden'
-p2696
-aS'1900'
 p2697
-aS'Fly-half'
+aS'1900'
 p2698
-aS'Morley'
+aS'Fly-half'
 p2699
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Morley'
 p2700
-aVEngland
+aVUnited Kingdom
 p2701
-aVYorkshire and the Humber
+aVEngland
 p2702
-aa(lp2703
+aVYorkshire and the Humber
+p2703
+aa(lp2704
 S'Elliot Nicholson'
-p2704
-aS'1899'
 p2705
-aS'Wing'
+aS'1899'
 p2706
-aS'W Derby'
+aS'Wing'
 p2707
 aS'4'
 aS'3'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
-aVUnited Kingdom
+aS'W Derby'
 p2708
-aVEngland
+aVUnited Kingdom
 p2709
-aVNorth West England
+aVEngland
 p2710
-aa(lp2711
+aVNorth West England
+p2711
+aa(lp2712
 S'Shirley Reynolds'
-p2712
-aS'1900'
 p2713
-aS'Forward'
+aS'1900'
 p2714
-aS'Lahore'
+aS'Forward'
 p2715
 aS'4'
 aS'1'
-aS'0'
-aS'0'
-aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
-p2716
-aV\u067e\u0646\u062c\u0627\u0628
-p2717
-aVLahore District
-p2718
-aa(lp2719
-S'Charles Scott'
-p2720
-aS'1900'
-p2721
-aS'Forward'
-p2722
-aS'Wimbledon'
-p2723
-aS'4'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p2724
-aVEngland
-p2725
-aVGreater London
-p2726
-aa(lp2727
-S'Harry Alexander'
-p2728
+aS'Lahore'
+p2716
+aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
+p2717
+aV\u067e\u0646\u062c\u0627\u0628
+p2718
+aVLahore District
+p2719
+aa(lp2720
+S'Charles Scott'
+p2721
 aS'1900'
-p2729
+p2722
 aS'Forward'
+p2723
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Wimbledon'
+p2724
+aVUnited Kingdom
+p2725
+aVEngland
+p2726
+aVGreater London
+p2727
+aa(lp2728
+S'Harry Alexander'
+p2729
+aS'1900'
 p2730
-aS'Cheshire'
+aS'Forward'
 p2731
 aS'7'
 aS'2'
+aS'4'
+aS'1'
 aS'0'
 aS'7'
-aVUnited States of America
+aS'Cheshire'
 p2732
-aVConnecticut
+aVUnited States of America
 p2733
-aVNew Haven County
+aVConnecticut
 p2734
-aa(lp2735
+aVNew Haven County
+p2735
+aa(lp2736
 S'John Marquis'
-p2736
-aS'1900'
 p2737
-aS'Scrum-half'
+aS'1900'
 p2738
-aS'Birkenhead'
+aS'Scrum-half'
 p2739
 aS'2'
 aS'1'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Birkenhead'
 p2740
-aVEngland
+aVUnited Kingdom
 p2741
-aVNorth West England
+aVEngland
 p2742
-aa(lp2743
+aVNorth West England
+p2743
+aa(lp2744
 S'Alexander Todd'
-p2744
-aS'1896'
 p2745
-aS'Forward'
+aS'1896'
 p2746
-aS'London'
+aS'Forward'
 p2747
 aS'6'
 aS'4'
 aS'1'
+aS'1'
+aS'1'
 aS'3'
-aVUnited Kingdom
+aS'London'
 p2748
-aVEngland
+aVUnited Kingdom
 p2749
-aVGreater London
+aVEngland
 p2750
-aa(lp2751
+aVGreater London
+p2751
+aa(lp2752
 S'Arthur Luxmoore'
-p2752
-aS'1900'
 p2753
-aS'Forward'
+aS'1900'
 p2754
-aS'Hendon'
+aS'Forward'
 p2755
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Hendon'
 p2756
-aVEngland
+aVUnited Kingdom
 p2757
-aVGreater London
+aVEngland
 p2758
-aa(lp2759
+aVGreater London
+p2759
+aa(lp2760
 S'Edgar Elliot'
-p2760
-aS'1901'
 p2761
-aS'Wing'
+aS'1901'
 p2762
-aS'Sunderland'
+aS'Wing'
 p2763
 aS'4'
 aS'0'
+aS'3'
+aS'1'
 aS'2'
 aS'6'
-aVUnited Kingdom
+aS'Sunderland'
 p2764
-aVEngland
+aVUnited Kingdom
 p2765
-aVNorth East England
+aVEngland
 p2766
-aa(lp2767
+aVNorth East England
+p2767
+aa(lp2768
 S'Nigel Fletcher'
-p2768
-aS'1901'
 p2769
-aS'Forward'
+aS'1901'
 p2770
-aS'London'
+aS'Forward'
 p2771
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'London'
 p2772
-aVEngland
+aVUnited Kingdom
 p2773
-aVGreater London
+aVEngland
 p2774
-aa(lp2775
+aVGreater London
+p2775
+aa(lp2776
 S'Charles Gibson'
-p2776
-aS'1901'
 p2777
-aS'Forward'
+aS'1901'
 p2778
-aS'Gateshead'
+aS'Forward'
 p2779
 aS'1'
 aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2780
-aVEngland
-p2781
-aVNorth East England
-p2782
-aa(lp2783
-S'David Graham'
-p2784
-aS'1901'
-p2785
-aS'Forward'
-p2786
-aS'Aspatria?'
-p2787
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Gateshead'
+p2780
 aVUnited Kingdom
-p2788
+p2781
 aVEngland
-p2789
-aVNorth West England
-p2790
-aa(lp2791
-S"Arthur O'Neill"
-p2792
+p2782
+aVNorth East England
+p2783
+aa(lp2784
+S'David Graham'
+p2785
 aS'1901'
-p2793
+p2786
 aS'Forward'
+p2787
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Aspatria?'
+p2788
+aVUnited Kingdom
+p2789
+aVEngland
+p2790
+aVNorth West England
+p2791
+aa(lp2792
+S"Arthur O'Neill"
+p2793
+aS'1901'
 p2794
-aS'?'
+aS'Forward'
+p2795
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2795
+aa(lp2796
 S'Ernest Roberts'
-p2796
-aS'1901'
 p2797
-aS'Forward'
+aS'1901'
 p2798
-aS'Lowestoft'
+aS'Forward'
 p2799
+aS'6'
+aS'0'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Lowestoft'
 p2800
-aVEngland
+aVUnited Kingdom
 p2801
-aVEast of England
+aVEngland
 p2802
-aa(lp2803
+aVEast of England
+p2803
+aa(lp2804
 S'John Sagar'
-p2804
-aS'1901'
 p2805
-aS'Fullback'
+aS'1901'
 p2806
-aS'Easington'
+aS'Fullback'
 p2807
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Easington'
 p2808
-aVEngland
+aVUnited Kingdom
 p2809
-aVSouth East
+aVEngland
 p2810
-aa(lp2811
+aVYorkshire and the Humber
+p2811
+aa(lp2812
 S'Whacker Smith'
-p2812
-aS'1901'
 p2813
-aS'Wing'
+aS'1901'
 p2814
-aS'Gloucester'
+aS'Wing'
 p2815
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Gloucester'
 p2816
-aVEngland
+aVUnited Kingdom
 p2817
-aVSouth West England
+aVEngland
 p2818
-aa(lp2819
+aVSouth West England
+p2819
+aa(lp2820
 S'Elliott Vivyan'
-p2820
-aS'1901'
 p2821
-aS'Wing'
+aS'1901'
 p2822
-aS'Stoke Damerel'
+aS'Wing'
 p2823
 aS'4'
+aS'1'
+aS'2'
 aS'1'
 aS'3'
 aS'13'
 p2824
-aVUnited Kingdom
+aS'Stoke Damerel'
 p2825
-aVPL1 5PA
+aVUnited Kingdom
 p2826
-aVEngland
+aVPL1 5PA
 p2827
-aa(lp2828
+aVEngland
+p2828
+aa(lp2829
 S'Katie Walton'
-p2829
-aS'1901'
 p2830
-aS'Scrum-half'
+aS'1901'
 p2831
-aS'York'
+aS'Scrum-half'
 p2832
 aS'4'
 aS'2'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'York'
 p2833
-aVEngland
+aVUnited Kingdom
 p2834
-aVYorkshire and the Humber
+aVEngland
 p2835
-aa(lp2836
+aVYorkshire and the Humber
+p2836
+aa(lp2837
 S'Charlie Hall'
-p2837
-aS'1901'
 p2838
-aS'Forward'
+aS'1901'
 p2839
-aS'Gloucester'
+aS'Forward'
 p2840
 aS'2'
 aS'0'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Gloucester'
 p2841
-aVEngland
+aVUnited Kingdom
 p2842
-aVSouth West England
+aVEngland
 p2843
-aa(lp2844
+aVSouth West England
+p2844
+aa(lp2845
 S'Robert Wood'
-p2845
-aS'1901'
 p2846
-aS'Forward'
+aS'1901'
 p2847
-aS'W Derby'
+aS'Forward'
 p2848
 aS'3'
 aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2849
-aVEngland
-p2850
-aVNorth West England
-p2851
-aa(lp2852
-S'Norman Cox'
-p2853
-aS'1901'
-p2854
-aS'Centre'
-p2855
-aS'Sunderland'
-p2856
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2857
-aVEngland
-p2858
-aVNorth East England
-p2859
-aa(lp2860
-S'Charles Edgar'
-p2861
-aS'1901'
-p2862
-aS'Forward'
-p2863
-aS'W Derby'
-p2864
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2865
-aVEngland
-p2866
-aVNorth West England
-p2867
-aa(lp2868
-S'Jock Hartley'
-p2869
-aS'1901'
-p2870
-aS'Forward'
-p2871
-aS'Woodford'
-p2872
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited States of America
-p2873
-aVIllinois
-p2874
-aVWoodford County
-p2875
-aa(lp2876
-S'Toggie Kendall'
-p2877
-aS'1901'
-p2878
-aS'Scrum-half'
-p2879
-aS'Prescot'
-p2880
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'W Derby'
+p2849
 aVUnited Kingdom
-p2881
+p2850
 aVEngland
-p2882
+p2851
 aVNorth West England
-p2883
-aa(lp2884
-S'Bernard Oughtred'
-p2885
+p2852
+aa(lp2853
+S'Norman Cox'
+p2854
 aS'1901'
-p2886
-aS'Fly-half'
-p2887
-aS'Hartlepool'
-p2888
-aS'6'
-aS'2'
+p2855
+aS'Centre'
+p2856
+aS'1'
 aS'0'
-aS'0'
-aVUnited Kingdom
-p2889
-aVEngland
-p2890
-aVNorth East England
-p2891
-aa(lp2892
-S'Henry Weston'
-p2893
-aS'1901'
-p2894
-aS'Forward'
-p2895
-aS'Potterspury'
-p2896
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Sunderland'
+p2857
 aVUnited Kingdom
-p2897
+p2858
 aVEngland
-p2898
-aVEast Midlands
-p2899
-aa(lp2900
-S'Denys Dobson'
-p2901
-aS'1902'
-p2902
+p2859
+aVNorth East England
+p2860
+aa(lp2861
+S'Charles Edgar'
+p2862
+aS'1901'
+p2863
 aS'Forward'
+p2864
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'W Derby'
+p2865
+aVUnited Kingdom
+p2866
+aVEngland
+p2867
+aVNorth West England
+p2868
+aa(lp2869
+S'Jock Hartley'
+p2870
+aS'1901'
+p2871
+aS'Forward'
+p2872
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Woodford'
+p2873
+aVUnited States of America
+p2874
+aVIllinois
+p2875
+aVWoodford County
+p2876
+aa(lp2877
+S'Toggie Kendall'
+p2878
+aS'1901'
+p2879
+aS'Scrum-half'
+p2880
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Prescot'
+p2881
+aVUnited Kingdom
+p2882
+aVEngland
+p2883
+aVNorth West England
+p2884
+aa(lp2885
+S'Bernard Oughtred'
+p2886
+aS'1901'
+p2887
+aS'Fly-half'
+p2888
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Hartlepool'
+p2889
+aVUnited Kingdom
+p2890
+aVEngland
+p2891
+aVNorth East England
+p2892
+aa(lp2893
+S'Henry Weston'
+p2894
+aS'1901'
+p2895
+aS'Forward'
+p2896
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Potterspury'
+p2897
+aVUnited Kingdom
+p2898
+aVEngland
+p2899
+aVEast Midlands
+p2900
+aa(lp2901
+S'Denys Dobson'
+p2902
+aS'1902'
 p2903
-aS'Isle of Ma'
+aS'Forward'
 p2904
 aS'10'
 p2905
 aS'5'
+aS'5'
+aS'0'
 aS'3'
 aS'9'
-aVIsle of Man
+aS'Isle of Ma'
 p2906
+aVIsle of Man
+p2907
 ag9
 ag9
-aa(lp2907
+aa(lp2908
 S'George Fraser'
-p2908
-aS'1902'
 p2909
-aS'Forward'
+aS'1902'
 p2910
-aS'Fulham'
+aS'Forward'
 p2911
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Fulham'
 p2912
-aVEngland
+aVUnited Kingdom
 p2913
-aVGreater London
+aVEngland
 p2914
-aa(lp2915
+aVGreater London
+p2915
+aa(lp2916
 S'John Jewitt'
-p2916
-aS'1902'
 p2917
-aS'Lock'
+aS'1902'
 p2918
-aS'Co.Durham'
+aS'Lock'
 p2919
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Co.Durham'
 p2920
-aVEngland
+aVUnited Kingdom
 p2921
-aVNorth East England
+aVEngland
 p2922
-aa(lp2923
+aVNorth East England
+p2923
+aa(lp2924
 S'Philip Nicholas'
-p2924
-aS'1902'
 p2925
-aS'Wing'
+aS'1902'
 p2926
-aS'Monmouth'
+aS'Wing'
 p2927
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Monmouth'
 p2928
-aVNP25
+aVUnited Kingdom
 p2929
-aVWales
+aVNP25
 p2930
-aa(lp2931
+aVWales
+p2931
+aa(lp2932
 S'John Raphael'
-p2932
-aS'1902'
 p2933
-aS'Centre'
+aS'1902'
 p2934
-aS'Brussels'
+aS'Centre'
 p2935
 aS'9'
 aS'4'
+aS'5'
+aS'0'
 aS'1'
 aS'3'
-aVBelgië - Belgique - Belgien
+aS'Brussels'
 p2936
-aV1000;1040
+aVBelgië - Belgique - Belgien
 p2937
-aVRégion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+aV1000;1040
 p2938
-aa(lp2939
+aVRégion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest
+p2939
+aa(lp2940
 S'Leonard Tosswill'
-p2940
-aS'1902'
 p2941
-aS'Forward'
+aS'1902'
 p2942
-aS'Exeter'
+aS'Forward'
 p2943
 aS'3'
 aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p2944
-aVEngland
-p2945
-aVSouth West England
-p2946
-aa(lp2947
-S'Thomas Willcocks'
-p2948
-aS'1902'
-p2949
-aS'Forward'
-p2950
-aS'Buckfastleigh'
-p2951
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Exeter'
+p2944
 aVUnited Kingdom
-p2952
+p2945
 aVEngland
-p2953
+p2946
 aVSouth West England
-p2954
-aa(lp2955
-S'Samuel Williams'
-p2956
+p2947
+aa(lp2948
+S'Thomas Willcocks'
+p2949
 aS'1902'
-p2957
+p2950
 aS'Forward'
+p2951
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Buckfastleigh'
+p2952
+aVUnited Kingdom
+p2953
+aVEngland
+p2954
+aVSouth West England
+p2955
+aa(lp2956
+S'Samuel Williams'
+p2957
+aS'1902'
 p2958
-aS'Stoke Damerel'
+aS'Forward'
 p2959
 aS'7'
 aS'2'
+aS'5'
+aS'0'
 aS'2'
 aS'6'
-aVUnited Kingdom
+aS'Stoke Damerel'
 p2960
-aVPL1 5PA
+aVUnited Kingdom
 p2961
-aVEngland
+aVPL1 5PA
 p2962
-aa(lp2963
+aVEngland
+p2963
+aa(lp2964
 S'Peter Hardwick'
-p2964
-aS'1902'
 p2965
-aS'Forward'
+aS'1902'
 p2966
-aS'Tynemouth'
+aS'Forward'
 p2967
 aS'8'
 aS'3'
+aS'4'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Tynemouth'
 p2968
-aVEngland
+aVUnited Kingdom
 p2969
-aVNorth East England
+aVEngland
 p2970
-aa(lp2971
+aVNorth East England
+p2971
+aa(lp2972
 S'Thomas Simpson'
-p2972
-aS'1902'
 p2973
-aS'Wing'
+aS'1902'
 p2974
-aS'Newcastle-upon-Tyne'
+aS'Wing'
 p2975
 aS'11'
 p2976
 aS'4'
+aS'6'
+aS'1'
 aS'3'
 aS'9'
-aVUnited Kingdom
+aS'Newcastle-upon-Tyne'
 p2977
-aVEngland
+aVUnited Kingdom
 p2978
-aVNorth East England
+aVEngland
 p2979
-aa(lp2980
+aVNorth East England
+p2980
+aa(lp2981
 S'Robert Bradley'
-p2981
-aS'1903'
 p2982
-aS'Forward'
+aS'1903'
 p2983
-aS'date unknown'
+aS'Forward'
 p2984
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'date unknown'
+p2985
 aS'g'
 aS'n'
 aS'i'
-aa(lp2985
+aa(lp2986
 S'Vincent Cartwright'
-p2986
-aS'1903'
 p2987
-aS'Forward'
+aS'1903'
 p2988
-aS'Nottingham'
+aS'Forward'
 p2989
 aS'14'
 p2990
 aS'2'
+aS'10'
+p2991
+aS'2'
 aS'0'
 aS'8'
-aVUnited Kingdom
-p2991
-aVEngland
+aS'Nottingham'
 p2992
-aVEast Midlands
+aVUnited Kingdom
 p2993
-aa(lp2994
-S'James Duthie'
+aVEngland
+p2994
+aVEast Midlands
 p2995
-aS'1903'
-p2996
-aS'Forward'
+aa(lp2996
+S'James Duthie'
 p2997
-aS'Hartlepool'
+aS'1903'
 p2998
+aS'Forward'
+p2999
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p2999
-aVEngland
+aS'Hartlepool'
 p3000
-aVNorth East England
+aVUnited Kingdom
 p3001
-aa(lp3002
-S'Frankie Hulme'
+aVEngland
+p3002
+aVNorth East England
 p3003
-aS'1903'
-p3004
-aS'Halfback'
+aa(lp3004
+S'Frankie Hulme'
 p3005
-aS'Cheshire'
+aS'1903'
 p3006
+aS'Halfback'
+p3007
 aS'5'
 aS'1'
+aS'4'
 aS'0'
 aS'0'
-aVUnited States of America
-p3007
-aVConnecticut
+aS'0'
+aS'Cheshire'
 p3008
-aVNew Haven County
+aVUnited States of America
 p3009
-aa(lp3010
-S'Jack Miles'
+aVConnecticut
+p3010
+aVNew Haven County
 p3011
-aS'1903'
-p3012
-aS'Wing'
+aa(lp3012
+S'Jack Miles'
 p3013
-aS'Grimsby'
+aS'1903'
 p3014
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Wing'
 p3015
-aVEngland
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Grimsby'
 p3016
-aVYorkshire and the Humber
+aVUnited Kingdom
 p3017
-aa(lp3018
-S'Reginald Spooner'
+aVEngland
+p3018
+aVYorkshire and the Humber
 p3019
-aS'1903'
-p3020
-aS'Centre'
+aa(lp3020
+S'Reginald Spooner'
 p3021
-aS'Lancs'
+aS'1903'
 p3022
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Centre'
 p3023
-aVS6 3TB
-p3024
-aVEngland
-p3025
-aa(lp3026
-S'Walter Heppel'
-p3027
-aS'1903'
-p3028
-aS'Forward'
-p3029
-aS'Weston-super-Mare'
-p3030
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Lancs'
+p3024
 aVUnited Kingdom
-p3031
-aVBS23 1YJ
-p3032
+p3025
+aVS6 3TB
+p3026
 aVEngland
-p3033
-aa(lp3034
-S'Basil Hill'
-p3035
+p3027
+aa(lp3028
+S'Walter Heppel'
+p3029
 aS'1903'
-p3036
+p3030
 aS'Forward'
+p3031
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Weston-super-Mare'
+p3032
+aVUnited Kingdom
+p3033
+aVBS23 1YJ
+p3034
+aVEngland
+p3035
+aa(lp3036
+S'Basil Hill'
 p3037
-aS'Broughty Ferry'
+aS'1903'
 p3038
+aS'Forward'
+p3039
 aS'9'
 aS'2'
+aS'5'
+aS'2'
 aS'0'
 aS'10'
-p3039
-aVUnited Kingdom
 p3040
-aVScotland
+aS'Broughty Ferry'
 p3041
-aVDundee City
+aVUnited Kingdom
 p3042
-aa(lp3043
-S'Edward Barrett'
+aVScotland
+p3043
+aVDundee City
 p3044
-aS'1903'
-p3045
-aS'Centre'
+aa(lp3045
+S'Edward Barrett'
 p3046
-aS'Sy'
+aS'1903'
 p3047
+aS'Centre'
+p3048
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aV\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629
-p3048
-ag9
-ag9
-aa(lp3049
-S'Walter Butcher'
-p3050
-aS'1903'
-p3051
-aS'Scrum-half'
-p3052
 aS'Sy'
+p3049
+aV\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629
+p3050
+ag9
+ag9
+aa(lp3051
+S'Walter Butcher'
+p3052
+aS'1903'
 p3053
+aS'Scrum-half'
+p3054
 aS'7'
 aS'1'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
+aS'Sy'
+p3055
 aV\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629
-p3054
-ag9
-ag9
-aa(lp3055
-S'Edward Dillon'
 p3056
-aS'1904'
-p3057
-aS'Centre'
+ag9
+ag9
+aa(lp3057
+S'Edward Dillon'
 p3058
-aS'Kent'
+aS'1904'
 p3059
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Centre'
 p3060
-aVEngland
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Kent'
 p3061
-aVSouth East
+aVUnited Kingdom
 p3062
-aa(lp3063
-S'Patrick Hancock'
-p3064
-aS'1903'
-p3065
-aS'Fly-half'
-p3066
-aS'Assam'
-p3067
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aVIndia
-p3068
-aVAssam
-p3069
-ag9
-aa(lp3070
-S'George Keeton'
-p3071
-aS'1904'
-p3072
-aS'Hooker'
-p3073
-aS'Peterborough'
-p3074
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3075
 aVEngland
-p3076
-aVEast of England
-p3077
-aa(lp3078
-S'Jumbo Milton'
-p3079
-aS'1904'
-p3080
-aS'Forward'
-p3081
-aS'Cape Colony'
-p3082
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aVUnited States of America
-p3083
-aVNorth Carolina
-p3084
-aVChowan County
-p3085
-aa(lp3086
-S'Norman Moore'
-p3087
-aS'1904'
-p3088
-aS'Forward'
-p3089
-aS'Lewisham'
-p3090
-aS'3'
-aS'1'
-aS'2'
-aS'6'
-aVUnited Kingdom
-p3091
-aVEngland
-p3092
-aVGreater London
-p3093
-aa(lp3094
-S'Charles Newbold'
-p3095
-aS'1904'
-p3096
-aS'Hooker'
-p3097
-aS'Tunbridge Wells'
-p3098
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3099
-aVEngland
-p3100
+p3063
 aVSouth East
-p3101
-aa(lp3102
-S'William Cave'
-p3103
+p3064
+aa(lp3065
+S'Patrick Hancock'
+p3066
 aS'1903'
-p3104
-aS'Forward'
-p3105
-aS'Croydon'
-p3106
-aS'4'
-aS'0'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p3107
-aVEngland
-p3108
-aVGreater London
-p3109
-aa(lp3110
-S'Thomas Gibson'
-p3111
-aS'1903'
-p3112
-aS'Forward'
-p3113
-aS'Gateshead'
-p3114
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3115
-aVEngland
-p3116
-aVNorth East England
-p3117
-aa(lp3118
-S'Sam Irvin'
-p3119
-aS'1905'
-p3120
-aS'Fullback'
-p3121
-aS'Hartlepool'
-p3122
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3123
-aVEngland
-p3124
-aVNorth East England
-p3125
-aa(lp3126
-S'John Mathias'
-p3127
-aS'1905'
-p3128
-aS'Lock'
-p3129
-aS'Cardigan'
-p3130
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3131
-aVWales
-p3132
-aVCeredigion
-p3133
-aa(lp3134
-S'Francis Palmer'
-p3135
-aS'1905'
-p3136
-aS'Wing'
-p3137
-aS'Hereford'
-p3138
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3139
-aVEngland
-p3140
-aVWest Midlands
-p3141
-aa(lp3142
-S'Walter Rogers'
-p3143
-aS'1905'
-p3144
-aS'Forward'
-p3145
-aS'Wilts'
-p3146
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVSouth Africa
-p3147
-aVKwaZulu-Natal
-p3148
-aVAmajuba District Municipality
-p3149
-aa(lp3150
-S'John Green'
-p3151
-aS'1905'
-p3152
-aS'Forward'
-p3153
-aS'Skipton?'
-p3154
-aS'8'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3155
-aVEngland
-p3156
-aVYorkshire and the Humber
-p3157
-aa(lp3158
-S'William Grylls'
-p3159
-aS'1905'
-p3160
-aS'Lock'
-p3161
-aS'Redruth'
-p3162
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3163
-aVEngland
-p3164
-aVSouth West England
-p3165
-aa(lp3166
-S'Harry Shewring'
-p3167
-aS'1905'
-p3168
-aS'Centre'
-p3169
-aS'Keynsham'
-p3170
-aS'10'
-p3171
-aS'3'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p3172
-aVBS31
-p3173
-aVEngland
-p3174
-aa(lp3175
-S'Christopher Stanger-Leathes'
-p3176
-aS'1904'
-p3177
-aS'Fullback'
-p3178
-aS'Kensington'
-p3179
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3180
-aVEngland
-p3181
-aVGreater London
-p3182
-aa(lp3183
-S'George Vickery'
-p3184
-aS'1905'
-p3185
-aS'Forward'
-p3186
-aS'Chard'
-p3187
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p3188
-aV23700
-p3189
-aVFrance métropolitaine
-p3190
-aa(lp3191
-S'Curly Hammond'
-p3192
-aS'1905'
-p3193
-aS'Forward'
-p3194
-aS'Pontefract'
-p3195
-aS'8'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3196
-aVEngland
-p3197
-aVYorkshire and the Humber
-p3198
-aa(lp3199
-S'Sidney Osborne'
-p3200
-aS'1905'
-p3201
-aS'Forward'
-p3202
-aS'Camberwell'
-p3203
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3204
-aVEngland
-p3205
-aVGreater London
-p3206
-aa(lp3207
-S'Adrian Stoop'
-p3208
-aS'1905'
-p3209
+p3067
 aS'Fly-half'
-p3210
-aS'Kensington'
-p3211
-aS'15'
-p3212
-aS'8'
+p3068
+aS'6'
+aS'1'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'Assam'
+p3069
+aVIndia
+p3070
+aVAssam
+p3071
+ag9
+aa(lp3072
+S'George Keeton'
+p3073
+aS'1904'
+p3074
+aS'Hooker'
+p3075
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Peterborough'
+p3076
+aVUnited Kingdom
+p3077
+aVEngland
+p3078
+aVEast of England
+p3079
+aa(lp3080
+S'Jumbo Milton'
+p3081
+aS'1904'
+p3082
+aS'Forward'
+p3083
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Cape Colony'
+p3084
+aVUnited States of America
+p3085
+aVNorth Carolina
+p3086
+aVChowan County
+p3087
+aa(lp3088
+S'Norman Moore'
+p3089
+aS'1904'
+p3090
+aS'Forward'
+p3091
+aS'3'
+aS'1'
+aS'1'
+aS'1'
 aS'2'
 aS'6'
+aS'Lewisham'
+p3092
 aVUnited Kingdom
-p3213
+p3093
 aVEngland
-p3214
+p3094
 aVGreater London
-p3215
-aa(lp3216
-S'Jacky Braithwaite'
-p3217
-aS'1905'
-p3218
-aS'Scrum-half'
-p3219
-aS'Leeds'
-p3220
+p3095
+aa(lp3096
+S'Charles Newbold'
+p3097
+aS'1904'
+p3098
+aS'Hooker'
+p3099
+aS'6'
+aS'1'
+aS'4'
 aS'1'
 aS'0'
 aS'0'
-aS'0'
+aS'Tunbridge Wells'
+p3100
 aVUnited Kingdom
-p3221
+p3101
 aVEngland
-p3222
-aVYorkshire and the Humber
-p3223
-aa(lp3224
-S'Dai Gent'
-p3225
-aS'1905'
-p3226
-aS'Fly-half'
-p3227
-aS'Llandovery'
-p3228
-aS'5'
+p3102
+aVSouth East
+p3103
+aa(lp3104
+S'William Cave'
+p3105
+aS'1903'
+p3106
+aS'Forward'
+p3107
+aS'4'
+aS'0'
+aS'2'
+aS'2'
 aS'1'
-aS'0'
-aS'0'
+aS'3'
+aS'Croydon'
+p3108
 aVUnited Kingdom
-p3229
-aVWales
-p3230
-aVCarmarthenshire
-p3231
-aa(lp3232
-S'Reginald Godfray'
-p3233
+p3109
+aVEngland
+p3110
+aVGreater London
+p3111
+aa(lp3112
+S'Thomas Gibson'
+p3113
+aS'1903'
+p3114
+aS'Forward'
+p3115
+aS'5'
+aS'0'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'Gateshead'
+p3116
+aVUnited Kingdom
+p3117
+aVEngland
+p3118
+aVNorth East England
+p3119
+aa(lp3120
+S'Sam Irvin'
+p3121
 aS'1905'
-p3234
-aS'Centre'
-p3235
-aS'Jersey'
-p3236
+p3122
+aS'Fullback'
+p3123
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVJersey
-p3237
-ag9
-ag9
-aa(lp3238
-S'Alfred Hind'
-p3239
+aS'Hartlepool'
+p3124
+aVUnited Kingdom
+p3125
+aVEngland
+p3126
+aVNorth East England
+p3127
+aa(lp3128
+S'John Mathias'
+p3129
 aS'1905'
-p3240
+p3130
+aS'Lock'
+p3131
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Cardigan'
+p3132
+aVUnited Kingdom
+p3133
+aVWales
+p3134
+aVCeredigion
+p3135
+aa(lp3136
+S'Francis Palmer'
+p3137
+aS'1905'
+p3138
 aS'Wing'
-p3241
-aS'Preston'
-p3242
+p3139
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Hereford'
+p3140
+aVUnited Kingdom
+p3141
+aVEngland
+p3142
+aVWest Midlands
+p3143
+aa(lp3144
+S'Walter Rogers'
+p3145
+aS'1905'
+p3146
+aS'Forward'
+p3147
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p3243
-aVEngland
-p3244
-aVNorth West England
-p3245
-aa(lp3246
-S'Henry Imrie'
-p3247
+aS'Wilts'
+p3148
+aVSouth Africa
+p3149
+aVKwaZulu-Natal
+p3150
+aVAmajuba District Municipality
+p3151
+aa(lp3152
+S'John Green'
+p3153
 aS'1905'
-p3248
+p3154
+aS'Forward'
+p3155
+aS'8'
+aS'3'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Skipton?'
+p3156
+aVUnited Kingdom
+p3157
+aVEngland
+p3158
+aVYorkshire and the Humber
+p3159
+aa(lp3160
+S'William Grylls'
+p3161
+aS'1905'
+p3162
+aS'Lock'
+p3163
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Redruth'
+p3164
+aVUnited Kingdom
+p3165
+aVEngland
+p3166
+aVSouth West England
+p3167
+aa(lp3168
+S'Harry Shewring'
+p3169
+aS'1905'
+p3170
+aS'Centre'
+p3171
+aS'10'
+p3172
+aS'3'
+aS'6'
+aS'1'
+aS'1'
+aS'3'
+aS'Keynsham'
+p3173
+aVUnited Kingdom
+p3174
+aVBS31
+p3175
+aVEngland
+p3176
+aa(lp3177
+S'Christopher Stanger-Leathes'
+p3178
+aS'1904'
+p3179
+aS'Fullback'
+p3180
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Kensington'
+p3181
+aVUnited Kingdom
+p3182
+aVEngland
+p3183
+aVGreater London
+p3184
+aa(lp3185
+S'George Vickery'
+p3186
+aS'1905'
+p3187
+aS'Forward'
+p3188
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Chard'
+p3189
+aVFrance
+p3190
+aV23700
+p3191
+aVFrance métropolitaine
+p3192
+aa(lp3193
+S'Curly Hammond'
+p3194
+aS'1905'
+p3195
+aS'Forward'
+p3196
+aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontefract'
+p3197
+aVUnited Kingdom
+p3198
+aVEngland
+p3199
+aVYorkshire and the Humber
+p3200
+aa(lp3201
+S'Sidney Osborne'
+p3202
+aS'1905'
+p3203
+aS'Forward'
+p3204
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Camberwell'
+p3205
+aVUnited Kingdom
+p3206
+aVEngland
+p3207
+aVGreater London
+p3208
+aa(lp3209
+S'Adrian Stoop'
+p3210
+aS'1905'
+p3211
+aS'Fly-half'
+p3212
+aS'15'
+p3213
+aS'8'
+aS'5'
+aS'2'
+aS'2'
+aS'6'
+aS'Kensington'
+p3214
+aVUnited Kingdom
+p3215
+aVEngland
+p3216
+aVGreater London
+p3217
+aa(lp3218
+S'Jacky Braithwaite'
+p3219
+aS'1905'
+p3220
+aS'Scrum-half'
+p3221
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Leeds'
+p3222
+aVUnited Kingdom
+p3223
+aVEngland
+p3224
+aVYorkshire and the Humber
+p3225
+aa(lp3226
+S'Dai Gent'
+p3227
+aS'1905'
+p3228
+aS'Fly-half'
+p3229
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Llandovery'
+p3230
+aVUnited Kingdom
+p3231
+aVWales
+p3232
+aVCarmarthenshire
+p3233
+aa(lp3234
+S'Reginald Godfray'
+p3235
+aS'1905'
+p3236
+aS'Centre'
+p3237
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Jersey'
+p3238
+aVJersey
+p3239
+ag9
+ag9
+aa(lp3240
+S'Alfred Hind'
+p3241
+aS'1905'
+p3242
 aS'Wing'
+p3243
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Preston'
+p3244
+aVUnited Kingdom
+p3245
+aVEngland
+p3246
+aVNorth West England
+p3247
+aa(lp3248
+S'Henry Imrie'
 p3249
-aS'Durham'
+aS'1905'
 p3250
+aS'Wing'
+p3251
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
-p3251
-aVEngland
-p3252
-aVNorth East England
-p3253
-aa(lp3254
-S'John Jackett'
-p3255
-aS'1905'
-p3256
-aS'Fullback'
-p3257
-aS'Falmouth'
-p3258
-aS'16'
-p3259
-aS'4'
-aS'0'
-aS'4'
-aVUnited Kingdom
-p3260
-aVEngland
-p3261
-aVSouth West England
-p3262
-aa(lp3263
-S'Richard Russell'
-p3264
-aS'1905'
-p3265
-aS'Forward'
-p3266
-aS'Bingham'
-p3267
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3268
-aVEngland
-p3269
-aVEast Midlands
-p3270
-aa(lp3271
-S'George Summerscale'
-p3272
-aS'1905'
-p3273
-aS'Forward'
-p3274
 aS'Durham'
-p3275
+p3252
+aVUnited Kingdom
+p3253
+aVEngland
+p3254
+aVNorth East England
+p3255
+aa(lp3256
+S'John Jackett'
+p3257
+aS'1905'
+p3258
+aS'Fullback'
+p3259
+aS'16'
+p3260
+aS'4'
+aS'10'
+p3261
+aS'2'
+aS'0'
+aS'4'
+aS'Falmouth'
+p3262
+aVUnited Kingdom
+p3263
+aVEngland
+p3264
+aVSouth West England
+p3265
+aa(lp3266
+S'Richard Russell'
+p3267
+aS'1905'
+p3268
+aS'Forward'
+p3269
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Bingham'
+p3270
 aVUnited Kingdom
-p3276
+p3271
 aVEngland
-p3277
-aVNorth East England
-p3278
-aa(lp3279
-S'George Dobbs'
-p3280
-aS'1906'
-p3281
-aS'Flanker'
-p3282
-aS'Kildare'
-p3283
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVRepublic of Ireland
-p3284
-aVLeinster
-p3285
-aVCounty Kildare
-p3286
-aa(lp3287
-S'Harold Hodges'
-p3288
-aS'1906'
-p3289
-aS'Prop'
-p3290
-aS'Mansfield Woodhouse'
-p3291
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3292
-aVEngland
-p3293
+p3272
 aVEast Midlands
-p3294
-aa(lp3295
-S'Arthur Hudson'
-p3296
+p3273
+aa(lp3274
+S'George Summerscale'
+p3275
+aS'1905'
+p3276
+aS'Forward'
+p3277
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Durham'
+p3278
+aVUnited Kingdom
+p3279
+aVEngland
+p3280
+aVNorth East England
+p3281
+aa(lp3282
+S'George Dobbs'
+p3283
 aS'1906'
+p3284
+aS'Flanker'
+p3285
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Kildare'
+p3286
+aVRepublic of Ireland
+p3287
+aVLeinster
+p3288
+aVCounty Kildare
+p3289
+aa(lp3290
+S'Harold Hodges'
+p3291
+aS'1906'
+p3292
+aS'Prop'
+p3293
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Mansfield Woodhouse'
+p3294
+aVUnited Kingdom
+p3295
+aVEngland
+p3296
+aVEast Midlands
 p3297
-aS'Wing'
-p3298
-aS'Gloucester'
+aa(lp3298
+S'Arthur Hudson'
 p3299
+aS'1906'
+p3300
+aS'Wing'
+p3301
 aS'8'
 aS'4'
+aS'4'
+aS'0'
 aS'9'
 aS'27'
-p3300
-aVUnited Kingdom
-p3301
-aVEngland
 p3302
-aVSouth West England
+aS'Gloucester'
 p3303
-aa(lp3304
-S'Raphael Jago'
+aVUnited Kingdom
+p3304
+aVEngland
 p3305
-aS'1906'
+aVSouth West England
 p3306
-aS'Scrum-half'
-p3307
-aS'Dorset'
+aa(lp3307
+S'Raphael Jago'
 p3308
-aS'5'
-aS'0'
-aS'1'
-aS'3'
-aVUnited Kingdom
+aS'1906'
 p3309
-aVEngland
+aS'Scrum-half'
 p3310
-aVSouth West England
+aS'5'
+aS'0'
+aS'4'
+aS'1'
+aS'1'
+aS'3'
+aS'Dorset'
 p3311
-aa(lp3312
-S'Thomas Kelly'
+aVUnited Kingdom
+p3312
+aVEngland
 p3313
-aS'1906'
+aVSouth West England
 p3314
-aS'Lock'
-p3315
-aS'Tiverton'
+aa(lp3315
+S'Thomas Kelly'
 p3316
-aS'12'
+aS'1906'
 p3317
-aS'5'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Lock'
 p3318
-aVEngland
+aS'12'
 p3319
-aVSouth West England
+aS'5'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'Tiverton'
 p3320
-aa(lp3321
-S'Alf Kewney'
+aVUnited Kingdom
+p3321
+aVEngland
 p3322
-aS'1906'
+aVSouth West England
 p3323
-aS'Forward'
-p3324
-aS'Tynemouth'
+aa(lp3324
+S'Alf Kewney'
 p3325
-aS'16'
+aS'1906'
 p3326
+aS'Forward'
+p3327
+aS'16'
+p3328
 aS'7'
+aS'9'
+aS'0'
 aS'2'
 aS'6'
-aVUnited Kingdom
-p3327
-aVEngland
-p3328
-aVNorth East England
+aS'Tynemouth'
 p3329
-aa(lp3330
-S'William Mills'
+aVUnited Kingdom
+p3330
+aVEngland
 p3331
-aS'1906'
-p3332
-aS'No. 8'
-p3333
-aS'Stoke Damerel'
-p3334
-aS'11'
-p3335
-aS'4'
-aS'4'
-aS'12'
-p3336
-aVUnited Kingdom
-p3337
-aVPL1 5PA
-p3338
-aVEngland
-p3339
-aa(lp3340
-S'James Hutchinson'
-p3341
-aS'1906'
-p3342
-aS'Wing'
-p3343
-aS'Stockton-on-Tees'
-p3344
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3345
-aVEngland
-p3346
 aVNorth East England
-p3347
-aa(lp3348
-S'Cecil Milton'
-p3349
+p3332
+aa(lp3333
+S'William Mills'
+p3334
 aS'1906'
-p3350
-aS'Centre'
-p3351
-aS'Cape Colony'
-p3352
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited States of America
-p3353
-aVNorth Carolina
-p3354
-aVChowan County
-p3355
-aa(lp3356
-S'Joseph Sandford'
-p3357
-aS'1906'
-p3358
-aS'Centre'
-p3359
-aS'Devon'
-p3360
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3361
-aVEngland
-p3362
-aVSouth West England
-p3363
-aa(lp3364
-S'John Birkett'
-p3365
-aS'1906'
-p3366
-aS'Centre'
-p3367
-aS'Richmond'
-p3368
-aS'21'
-p3369
-aS'12'
-p3370
-aS'10'
-p3371
-aS'34'
-p3372
-aVUnited States of America
-p3373
-aVVirginia
-p3374
-aVHenrico
-p3375
-aa(lp3376
-S'Robert Dibble'
-p3377
-aS'1906'
-p3378
-aS'Forward'
-p3379
-aS'Bridgwater'
-p3380
-aS'22'
-p3381
+p3335
+aS'No. 8'
+p3336
 aS'11'
-p3382
-aS'0'
-aS'0'
+p3337
+aS'4'
+aS'6'
+aS'1'
+aS'4'
+aS'12'
+p3338
+aS'Stoke Damerel'
+p3339
 aVUnited Kingdom
-p3383
-aVTA6
-p3384
+p3340
+aVPL1 5PA
+p3341
 aVEngland
-p3385
-aa(lp3386
-S'Darkie Peters'
-p3387
+p3342
+aa(lp3343
+S'James Hutchinson'
+p3344
 aS'1906'
-p3388
-aS'Fly-half'
+p3345
+aS'Wing'
+p3346
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Stockton-on-Tees'
+p3347
+aVUnited Kingdom
+p3348
+aVEngland
+p3349
+aVNorth East England
+p3350
+aa(lp3351
+S'Cecil Milton'
+p3352
+aS'1906'
+p3353
+aS'Centre'
+p3354
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cape Colony'
+p3355
+aVUnited States of America
+p3356
+aVNorth Carolina
+p3357
+aVChowan County
+p3358
+aa(lp3359
+S'Joseph Sandford'
+p3360
+aS'1906'
+p3361
+aS'Centre'
+p3362
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Devon'
+p3363
+aVUnited Kingdom
+p3364
+aVEngland
+p3365
+aVSouth West England
+p3366
+aa(lp3367
+S'John Birkett'
+p3368
+aS'1906'
+p3369
+aS'Centre'
+p3370
+aS'21'
+p3371
+aS'12'
+p3372
+aS'7'
+aS'2'
+aS'10'
+p3373
+aS'34'
+p3374
+aS'Richmond'
+p3375
+aVAustralia
+p3376
+aVRichmond
+p3377
+ag9
+aa(lp3378
+S'Robert Dibble'
+p3379
+aS'1906'
+p3380
+aS'Forward'
+p3381
+aS'22'
+p3382
+aS'11'
+p3383
+aS'9'
+aS'2'
+aS'0'
+aS'0'
+aS'Bridgwater'
+p3384
+aVUnited Kingdom
+p3385
+aVTA6
+p3386
+aVEngland
+p3387
+aa(lp3388
+S'Darkie Peters'
 p3389
-aS'Salford'
+aS'1906'
 p3390
+aS'Fly-half'
+p3391
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'2'
 aS'6'
-aVUnited Kingdom
-p3391
-aVEngland
+aS'Salford'
 p3392
-aVNorth West England
+aVUnited Kingdom
 p3393
-aa(lp3394
-S'Cecil Shaw'
+aVEngland
+p3394
+aVNorth West England
 p3395
-aS'1906'
-p3396
-aS'Forward'
+aa(lp3396
+S'Cecil Shaw'
 p3397
-aS'Wolverhampton'
+aS'1906'
 p3398
+aS'Forward'
+p3399
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p3399
-aVEngland
+aS'Wolverhampton'
 p3400
-aVWest Midlands
-p3401
-aa(lp3402
-S'Thomas Hogarth'
-p3403
-aS'1906'
-p3404
-aS'Forward'
-p3405
-aS'Hartlepool'
-p3406
-aS'1'
-aS'1'
-aS'1'
-aS'3'
 aVUnited Kingdom
-p3407
+p3401
 aVEngland
-p3408
-aVNorth East England
-p3409
-aa(lp3410
-S'Arnold Alcock'
-p3411
+p3402
+aVWest Midlands
+p3403
+aa(lp3404
+S'Thomas Hogarth'
+p3405
 aS'1906'
-p3412
-aS'Hooker'
-p3413
-aS'Staffs'
-p3414
+p3406
+aS'Forward'
+p3407
+aS'1'
 aS'1'
 aS'0'
-aS'0'
-aS'0'
-aVKenya
-p3415
-aV00200
-p3416
-aVNairobi
-p3417
-aa(lp3418
-S'Freddie Brooks'
-p3419
-aS'1906'
-p3420
-aS'Wing'
-p3421
-aS'Cape Town'
-p3422
-aS'1'
 aS'0'
 aS'1'
 aS'3'
-aVSouth Africa
-p3423
-aVWestern Cape
-p3424
-aVCity of Cape Town
-p3425
-aa(lp3426
-S'Tremlett Batchelor'
-p3427
-aS'1907'
-p3428
+aS'Hartlepool'
+p3408
+aVUnited Kingdom
+p3409
+aVEngland
+p3410
+aVNorth East England
+p3411
+aa(lp3412
+S'Arnold Alcock'
+p3413
+aS'1906'
+p3414
+aS'Hooker'
+p3415
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Staffs'
+p3416
+aVKenya
+p3417
+aV00200
+p3418
+aVNairobi
+p3419
+aa(lp3420
+S'Freddie Brooks'
+p3421
+aS'1906'
+p3422
 aS'Wing'
+p3423
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'1'
+aS'3'
+aS'Cape Town'
+p3424
+aVSouth Africa
+p3425
+aVWestern Cape
+p3426
+aVCity of Cape Town
+p3427
+aa(lp3428
+S'Tremlett Batchelor'
 p3429
-aS'Wirral'
-p3430
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVCanada
-p3431
-aVNew Brunswick
-p3432
-aVQueens County
-p3433
-aa(lp3434
-S'John Hopley'
-p3435
 aS'1907'
-p3436
-aS'Flanker'
+p3430
+aS'Wing'
+p3431
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Wirral'
+p3432
+aVCanada
+p3433
+aVNew Brunswick
+p3434
+aVQueens County
+p3435
+aa(lp3436
+S'John Hopley'
 p3437
-aS'Grahamstown'
+aS'1907'
 p3438
+aS'Flanker'
+p3439
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVSouth Africa
-p3439
-aVEastern Cape
+aS'0'
+aS'Grahamstown'
 p3440
-aVSarah Baartman District Municipality
+aVSouth Africa
 p3441
-aa(lp3442
-S'Danny Lambert'
+aVEastern Cape
+p3442
+aVSarah Baartman District Municipality
 p3443
-aS'1907'
-p3444
-aS'Wing'
+aa(lp3444
+S'Danny Lambert'
 p3445
-aS'Cranbrook'
+aS'1907'
 p3446
+aS'Wing'
+p3447
 aS'7'
 aS'3'
+aS'4'
+aS'0'
 aS'8'
 aS'46'
-p3447
-aVCanada
 p3448
-aVBritish Columbia
+aS'Cranbrook'
 p3449
-aVRegional District of East Kootenay
-p3450
-aa(lp3451
-S'Harry Lee'
-p3452
-aS'1907'
-p3453
-aS'Fullback'
-p3454
-aS'Dewsbury'
-p3455
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
-p3456
+p3450
 aVEngland
-p3457
-aVYorkshire and the Humber
-p3458
-aa(lp3459
-S'Billy Nanson'
-p3460
+p3451
+aVSouth East
+p3452
+aa(lp3453
+S'Harry Lee'
+p3454
 aS'1907'
-p3461
-aS'Forward'
+p3455
+aS'Fullback'
+p3456
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Dewsbury'
+p3457
+aVUnited Kingdom
+p3458
+aVEngland
+p3459
+aVYorkshire and the Humber
+p3460
+aa(lp3461
+S'Billy Nanson'
 p3462
-aS'Carlisle'
+aS'1907'
 p3463
+aS'Forward'
+p3464
 aS'2'
 aS'1'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
-aVUnited Kingdom
-p3464
-aVEngland
+aS'Carlisle'
 p3465
-aVNorth West England
+aVUnited Kingdom
 p3466
-aa(lp3467
-S'Andrew Slocock'
+aVEngland
+p3467
+aVNorth West England
 p3468
-aS'1907'
-p3469
-aS'Forward'
+aa(lp3469
+S'Andrew Slocock'
 p3470
-aS'Stratford'
+aS'1907'
 p3471
+aS'Forward'
+p3472
 aS'8'
 aS'3'
+aS'5'
+aS'0'
 aS'3'
 aS'9'
-aVUnited Kingdom
-p3472
-aVEngland
+aS'Stratford'
 p3473
-aVWest Midlands
+aVUnited Kingdom
 p3474
-aa(lp3475
-S'Thomas Wedge'
+aVEngland
+p3475
+aVWest Midlands
 p3476
-aS'1907'
-p3477
-aS'Scrum-half'
+aa(lp3477
+S'Thomas Wedge'
 p3478
-aS'Penzance'
+aS'1907'
 p3479
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Scrum-half'
 p3480
-aVTR18
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Penzance'
 p3481
-aVEngland
+aVUnited Kingdom
 p3482
-aa(lp3483
-S'Frank Scott'
+aVTR18
+p3483
+aVEngland
 p3484
-aS'1907'
-p3485
-aS'Wing'
+aa(lp3485
+S'Frank Scott'
 p3486
-aS'WA'
+aS'1907'
 p3487
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited States of America
+aS'Wing'
 p3488
-aVWashington
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'WA'
 p3489
-ag9
-aa(lp3490
-S'Jumbo Leather'
+aVAustralia
+p3490
+aVWestern Australia
 p3491
-aS'1907'
-p3492
-aS'Forward'
+ag9
+aa(lp3492
+S'Jumbo Leather'
 p3493
-aS'Leigh'
+aS'1907'
 p3494
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Forward'
 p3495
-aVEngland
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Leigh'
 p3496
-aVNorth West England
+aVUnited Kingdom
 p3497
-aa(lp3498
-S'Arthur Pickering'
+aVTN11 8RU
+p3498
+aVEngland
 p3499
-aS'1907'
-p3500
-aS'Centre'
+aa(lp3500
+S'Arthur Pickering'
 p3501
-aS'Dewsbury'
+aS'1907'
 p3502
-aS'1'
-aS'0'
-aS'0'
-aS'3'
-aVUnited Kingdom
-p3503
-aVEngland
-p3504
-aVYorkshire and the Humber
-p3505
-aa(lp3506
-S'Walter Wilson'
-p3507
-aS'1907'
-p3508
-aS'Wing'
-p3509
-aS'QLD'
-p3510
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p3511
-aVQueensland
-p3512
-ag9
-aa(lp3513
-S'Andrew Newton'
-p3514
-aS'1907'
-p3515
-aS'Wing'
-p3516
-aS'Co Down'
-p3517
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3518
-aVNorthern Ireland
-p3519
-aVCounty Down
-p3520
-aa(lp3521
-S'Khaki Roberts'
-p3522
-aS'1907'
-p3523
-aS'Forward'
-p3524
-aS'Exeter'
-p3525
-aS'3'
-aS'1'
-aS'0'
-aS'6'
-aVUnited Kingdom
-p3526
-aVEngland
-p3527
-aVSouth West England
-p3528
-aa(lp3529
-S'Sydney Start'
-p3530
-aS'1907'
-p3531
-aS'Scrum-half'
-p3532
-aS'Salford'
-p3533
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3534
-aVEngland
-p3535
-aVNorth West England
-p3536
-aa(lp3537
-S'Patsy Boylan'
-p3538
-aS'1908'
-p3539
-aS'Forward'
-p3540
-aS'Hartlepool'
-p3541
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3542
-aVEngland
-p3543
-aVNorth East England
-p3544
-aa(lp3545
-S'Ernest Chambers'
-p3546
-aS'1908'
-p3547
-aS'Forward'
-p3548
-aS'Hackney'
-p3549
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVUnited States of America
-p3550
-aVpenna
-p3551
-aVWashington County
-p3552
-aa(lp3553
-S'Harry Havelock'
-p3554
-aS'1908'
-p3555
-aS'Flanker'
-p3556
-aS'Hartlepool'
-p3557
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3558
-aVEngland
-p3559
-aVNorth East England
-p3560
-aa(lp3561
-S'Walter Lapage'
-p3562
-aS'1908'
-p3563
 aS'Centre'
-p3564
-aS'Nantwich'
-p3565
+p3503
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'3'
+aS'Dewsbury'
+p3504
+aVUnited Kingdom
+p3505
+aVEngland
+p3506
+aVYorkshire and the Humber
+p3507
+aa(lp3508
+S'Walter Wilson'
+p3509
+aS'1907'
+p3510
+aS'Wing'
+p3511
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p3512
+aVAustralia
+p3513
+aVQueensland
+p3514
+ag9
+aa(lp3515
+S'Andrew Newton'
+p3516
+aS'1907'
+p3517
+aS'Wing'
+p3518
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Co Down'
+p3519
+aVUnited Kingdom
+p3520
+aVNorthern Ireland
+p3521
+aVCounty Down
+p3522
+aa(lp3523
+S'Khaki Roberts'
+p3524
+aS'1907'
+p3525
+aS'Forward'
+p3526
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'6'
+aS'Exeter'
+p3527
+aVUnited Kingdom
+p3528
+aVEngland
+p3529
+aVSouth West England
+p3530
+aa(lp3531
+S'Sydney Start'
+p3532
+aS'1907'
+p3533
+aS'Scrum-half'
+p3534
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Salford'
+p3535
+aVUnited Kingdom
+p3536
+aVEngland
+p3537
+aVNorth West England
+p3538
+aa(lp3539
+S'Patsy Boylan'
+p3540
+aS'1908'
+p3541
+aS'Forward'
+p3542
 aS'4'
 aS'2'
 aS'2'
-aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Hartlepool'
+p3543
 aVUnited Kingdom
-p3566
+p3544
 aVEngland
-p3567
-aVNorth West England
-p3568
-aa(lp3569
-S'Garnet Portus'
-p3570
+p3545
+aVNorth East England
+p3546
+aa(lp3547
+S'Ernest Chambers'
+p3548
 aS'1908'
-p3571
-aS'Fly-half'
-p3572
-aS'NSW'
-p3573
+p3549
+aS'Forward'
+p3550
+aS'3'
 aS'2'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Hackney'
+p3551
+aVAustralia
+p3552
+aV5000
+p3553
+aVSouth Australia
+p3554
+aa(lp3555
+S'Harry Havelock'
+p3556
+aS'1908'
+p3557
+aS'Flanker'
+p3558
+aS'3'
 aS'2'
 aS'1'
-aS'3'
-aVAustralia
+aS'0'
+aS'0'
+aS'0'
+aS'Hartlepool'
+p3559
+aVUnited Kingdom
+p3560
+aVEngland
+p3561
+aVNorth East England
+p3562
+aa(lp3563
+S'Walter Lapage'
+p3564
+aS'1908'
+p3565
+aS'Centre'
+p3566
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'2'
+aS'6'
+aS'Nantwich'
+p3567
+aVUnited Kingdom
+p3568
+aVEngland
+p3569
+aVNorth West England
+p3570
+aa(lp3571
+S'Garnet Portus'
+p3572
+aS'1908'
+p3573
+aS'Fly-half'
 p3574
-aVNew South Wales
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'NSW'
 p3575
-ag9
-aa(lp3576
-S'Herbert Sibree'
+aVAustralia
+p3576
+aVNew South Wales
 p3577
-aS'1908'
-p3578
-aS'Scrum-half'
+ag9
+aa(lp3578
+S'Herbert Sibree'
 p3579
-aS'Antananarivo'
-p3580
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVMadagasikara
-p3581
-aVProvince d\u2019Antananarivo
-p3582
-aVAntananarivo
-p3583
-aa(lp3584
-S'Alf Wood'
-p3585
 aS'1908'
-p3586
-aS'Fullback'
-p3587
-aS'Wolverhampton'
-p3588
+p3580
+aS'Scrum-half'
+p3581
 aS'3'
 aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Antananarivo'
+p3582
+aVMadagasikara
+p3583
+aVProvince d\u2019Antananarivo
+p3584
+aVAntananarivo
+p3585
+aa(lp3586
+S'Alf Wood'
+p3587
+aS'1908'
+p3588
+aS'Fullback'
+p3589
+aS'3'
+aS'2'
+aS'1'
+aS'0'
 aS'0'
 aS'8'
-aVUnited Kingdom
-p3589
-aVEngland
+aS'Wolverhampton'
 p3590
-aVWest Midlands
+aVUnited Kingdom
 p3591
-aa(lp3592
-S'R. Gilbert'
+aVEngland
+p3592
+aVWest Midlands
 p3593
-aS'1908'
-p3594
-aS'Forward'
+aa(lp3594
+S'R. Gilbert'
 p3595
-aS'date unknown'
+aS'1908'
 p3596
+aS'Forward'
+p3597
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'date unknown'
+p3598
 aS'g'
 aS'n'
 aS'i'
-aa(lp3597
+aa(lp3599
 S'Rupert Williamson'
-p3598
-aS'1908'
-p3599
-aS'Scrum-half'
 p3600
-aS'South Africa?'
+aS'1908'
 p3601
+aS'Scrum-half'
+p3602
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'2'
 aS'6'
+aS'South Africa?'
+p3603
 aVSouth Africa
-p3602
-ag9
-ag9
-aa(lp3603
-S'Jumbo Vassall'
 p3604
-aS'1908'
-p3605
-aS'Centre'
+ag9
+ag9
+aa(lp3605
+S'Jumbo Vassall'
 p3606
-aS'Devon'
+aS'1908'
 p3607
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3608
-aVEngland
-p3609
-aVSouth West England
-p3610
-aa(lp3611
-S'Fischer Burges-Watson'
-p3612
-aS'1908'
-p3613
-aS'Forward'
-p3614
-aS'Portsea'
-p3615
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p3616
-aVEngland
-p3617
-aVSouth East
-p3618
-aa(lp3619
-S'Maffer Davey'
-p3620
-aS'1908'
-p3621
-aS'Fly-half'
-p3622
-aS'Redruth'
-p3623
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3624
-aVEngland
-p3625
-aVSouth West England
-p3626
-aa(lp3627
-S'George Lyon'
-p3628
-aS'1908'
-p3629
-aS'Fullback'
-p3630
-aS'Bankipore'
-p3631
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVIndia
-p3632
-aV800001
-p3633
-aVBihar
-p3634
-aa(lp3635
-S'William Oldham'
-p3636
-aS'1908'
-p3637
-aS'Forward'
-p3638
-aS'Coventry'
-p3639
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3640
-aVEngland
-p3641
-aVWest Midlands
-p3642
-aa(lp3643
-S'Tommy Woods'
-p3644
-aS'1908'
-p3645
-aS'Forward'
-p3646
-aS'Bridgwater'
-p3647
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3648
-aVTA6
-p3649
-aVEngland
-p3650
-aa(lp3651
-S'Alec Ashcroft'
-p3652
-aS'1909'
-p3653
-aS'Fly-half'
-p3654
-aS'W Derby'
-p3655
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3656
-aVEngland
-p3657
-aVNorth West England
-p3658
-aa(lp3659
-S'Eric Assinder'
-p3660
-aS'1909'
-p3661
 aS'Centre'
-p3662
-aS'Kings Norton'
-p3663
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3664
-aVEngland
-p3665
-aVWest Midlands
-p3666
-aa(lp3667
-S'Barrie Bennetts'
-p3668
-aS'1909'
-p3669
-aS'Wing'
-p3670
-aS'Penzance'
-p3671
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3672
-aVTR18
-p3673
-aVEngland
-p3674
-aa(lp3675
-S'John Cooper'
-p3676
-aS'1909'
-p3677
-aS'Forward'
-p3678
-aS'Birmingham'
-p3679
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p3680
-aVEngland
-p3681
-aVWest Midlands
-p3682
-aa(lp3683
-S'Percy Down'
-p3684
-aS'1908'
-p3685
-aS'Forward'
-p3686
-aS'Clifton'
-p3687
+p3608
 aS'4'
+aS'1'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
-aS'0'
-aVUnited Kingdom
-p3688
-aVEngland
-p3689
-aVSouth West England
-p3690
-aa(lp3691
-S'Frederick Knight'
-p3692
-aS'1909'
-p3693
-aS'Flanker'
-p3694
 aS'Devon'
-p3695
+p3609
+aVUnited Kingdom
+p3610
+aVEngland
+p3611
+aVSouth West England
+p3612
+aa(lp3613
+S'Fischer Burges-Watson'
+p3614
+aS'1908'
+p3615
+aS'Forward'
+p3616
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Portsea'
+p3617
+aVAustralia
+p3618
+aVVictoria
+p3619
+aVGreater Melbourne
+p3620
+aa(lp3621
+S'Maffer Davey'
+p3622
+aS'1908'
+p3623
+aS'Fly-half'
+p3624
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Redruth'
+p3625
+aVUnited Kingdom
+p3626
+aVEngland
+p3627
+aVSouth West England
+p3628
+aa(lp3629
+S'George Lyon'
+p3630
+aS'1908'
+p3631
+aS'Fullback'
+p3632
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bankipore'
+p3633
+aVIndia
+p3634
+aV800001
+p3635
+aVBihar
+p3636
+aa(lp3637
+S'William Oldham'
+p3638
+aS'1908'
+p3639
+aS'Forward'
+p3640
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Coventry'
+p3641
+aVUnited Kingdom
+p3642
+aVEngland
+p3643
+aVWest Midlands
+p3644
+aa(lp3645
+S'Tommy Woods'
+p3646
+aS'1908'
+p3647
+aS'Forward'
+p3648
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Bridgwater'
+p3649
 aVUnited Kingdom
-p3696
+p3650
+aVTA6
+p3651
 aVEngland
-p3697
-aVSouth West England
-p3698
-aa(lp3699
-S'Edgar Mobbs'
-p3700
+p3652
+aa(lp3653
+S'Alec Ashcroft'
+p3654
 aS'1909'
-p3701
+p3655
+aS'Fly-half'
+p3656
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'W Derby'
+p3657
+aVUnited Kingdom
+p3658
+aVEngland
+p3659
+aVNorth West England
+p3660
+aa(lp3661
+S'Eric Assinder'
+p3662
+aS'1909'
+p3663
+aS'Centre'
+p3664
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Kings Norton'
+p3665
+aVUnited Kingdom
+p3666
+aVEngland
+p3667
+aVWest Midlands
+p3668
+aa(lp3669
+S'Barrie Bennetts'
+p3670
+aS'1909'
+p3671
 aS'Wing'
+p3672
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Penzance'
+p3673
+aVUnited Kingdom
+p3674
+aVTR18
+p3675
+aVEngland
+p3676
+aa(lp3677
+S'John Cooper'
+p3678
+aS'1909'
+p3679
+aS'Forward'
+p3680
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Birmingham'
+p3681
+aVUnited Kingdom
+p3682
+aVEngland
+p3683
+aVWest Midlands
+p3684
+aa(lp3685
+S'Percy Down'
+p3686
+aS'1908'
+p3687
+aS'Forward'
+p3688
+aS'4'
+aS'0'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Clifton'
+p3689
+aVSouth Africa
+p3690
+aVWestern Cape
+p3691
+aVCity of Cape Town
+p3692
+aa(lp3693
+S'Frederick Knight'
+p3694
+aS'1909'
+p3695
+aS'Flanker'
+p3696
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Devon'
+p3697
+aVUnited Kingdom
+p3698
+aVEngland
+p3699
+aVSouth West England
+p3700
+aa(lp3701
+S'Edgar Mobbs'
 p3702
-aS'Northampton'
+aS'1909'
 p3703
+aS'Wing'
+p3704
 aS'7'
 aS'3'
-aS'4'
-aS'12'
-p3704
-aVUnited Kingdom
-p3705
-aVEngland
-p3706
-aVEast Midlands
-p3707
-aa(lp3708
-S'Alfred Morris'
-p3709
-aS'1909'
-p3710
-aS'Forward'
-p3711
-aS'Richmond'
-p3712
 aS'3'
 aS'1'
-aS'0'
-aS'0'
-aVUnited States of America
-p3713
-aVVirginia
-p3714
-aVHenrico
-p3715
-aa(lp3716
-S'Sid Penny'
-p3717
+aS'4'
+aS'12'
+p3705
+aS'Northampton'
+p3706
+aVUnited Kingdom
+p3707
+aVEngland
+p3708
+aVEast Midlands
+p3709
+aa(lp3710
+S'Alfred Morris'
+p3711
 aS'1909'
-p3718
+p3712
 aS'Forward'
+p3713
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Richmond'
+p3714
+aVAustralia
+p3715
+aVRichmond
+p3716
+ag9
+aa(lp3717
+S'Sid Penny'
+p3718
+aS'1909'
 p3719
-aS'London'
+aS'Forward'
 p3720
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'London'
 p3721
-aVEngland
+aVUnited Kingdom
 p3722
-aVGreater London
+aVEngland
 p3723
-aa(lp3724
+aVGreater London
+p3724
+aa(lp3725
 S'Frank Tarr'
-p3725
-aS'1909'
 p3726
-aS'Centre'
+aS'1909'
 p3727
-aS'Belper'
+aS'Centre'
 p3728
 aS'4'
 aS'2'
 aS'2'
+aS'0'
+aS'2'
 aS'6'
-aVUnited Kingdom
+aS'Belper'
 p3729
-aVEngland
+aVUnited Kingdom
 p3730
-aVEast Midlands
+aVEngland
 p3731
-aa(lp3732
+aVEast Midlands
+p3732
+aa(lp3733
 S'Herbert Archer'
-p3733
-aS'1908'
 p3734
-aS'Forward'
+aS'1908'
 p3735
-aS'Bridgwater'
+aS'Forward'
 p3736
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Bridgwater'
 p3737
-aVTA6
+aVUnited Kingdom
 p3738
-aVEngland
+aVTA6
 p3739
-aa(lp3740
+aVEngland
+p3740
+aa(lp3741
 S'Frank Handford'
-p3741
-aS'1909'
 p3742
-aS'Flanker'
+aS'1909'
 p3743
-aS'Lancs'
+aS'Flanker'
 p3744
 aS'7'
 aS'3'
+aS'4'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Lancs'
 p3745
-aVS6 3TB
+aVUnited Kingdom
 p3746
-aVEngland
+aVS6 3TB
 p3747
-aa(lp3748
+aVEngland
+p3748
+aa(lp3749
 S'Ernest Ibbitson'
-p3749
-aS'1909'
 p3750
-aS'Lock'
+aS'1909'
 p3751
-aS'Leeds'
+aS'Lock'
 p3752
 aS'4'
 aS'2'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Leeds'
 p3753
-aVEngland
+aVUnited Kingdom
 p3754
-aVYorkshire and the Humber
+aVEngland
 p3755
-aa(lp3756
+aVYorkshire and the Humber
+p3756
+aa(lp3757
 S'William Johns'
-p3757
-aS'1909'
 p3758
-aS'Forward'
+aS'1909'
 p3759
-aS'Gloucester'
+aS'Forward'
 p3760
 aS'7'
 aS'4'
+aS'2'
+aS'1'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Gloucester'
 p3761
-aVEngland
+aVUnited Kingdom
 p3762
-aVSouth West England
+aVEngland
 p3763
-aa(lp3764
+aVSouth West England
+p3764
+aa(lp3765
 S'Charles Bolton'
-p3765
-aS'1909'
 p3766
-aS'Flanker'
+aS'1909'
 p3767
-aS'Kensington'
+aS'Flanker'
 p3768
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Kensington'
 p3769
-aVEngland
+aVUnited Kingdom
 p3770
-aVGreater London
+aVEngland
 p3771
-aa(lp3772
+aVGreater London
+p3772
+aa(lp3773
 S'Frank Hutchinson'
-p3773
-aS'1909'
 p3774
-aS'Fly-half'
+aS'1909'
 p3775
-aS'Wakefield'
+aS'Fly-half'
 p3776
 aS'3'
 aS'2'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Wakefield'
 p3777
-aVEngland
+aVUnited Kingdom
 p3778
-aVYorkshire and the Humber
+aVEngland
 p3779
-aa(lp3780
+aVYorkshire and the Humber
+p3780
+aa(lp3781
 S'Ronald Poulton-Palmer'
-p3781
-aS'1909'
 p3782
-aS'Centre'
+aS'1909'
 p3783
-aS'Headington'
+aS'Centre'
 p3784
 aS'17'
 p3785
 aS'14'
 p3786
+aS'3'
+aS'0'
 aS'8'
 aS'28'
 p3787
-aVUnited Kingdom
+aS'Headington'
 p3788
-aVEngland
+aVUnited Kingdom
 p3789
-aVSouth East
+aVEngland
 p3790
-aa(lp3791
+aVSouth East
+p3791
+aa(lp3792
 S'Harold Morton'
-p3792
-aS'1909'
 p3793
-aS'Prop'
+aS'1909'
 p3794
-aS'Sheffield'
+aS'Prop'
 p3795
 aS'4'
 aS'2'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Sheffield'
 p3796
-aVEngland
+aVUnited Kingdom
 p3797
-aVYorkshire and the Humber
+aVEngland
 p3798
-aa(lp3799
+aVYorkshire and the Humber
+p3799
+aa(lp3800
 S'Alexander Palmer'
-p3800
-aS'1909'
 p3801
-aS'Wing'
+aS'1909'
 p3802
-aS'Dunedin'
+aS'Wing'
 p3803
 aS'2'
 aS'1'
+aS'1'
+aS'0'
 aS'2'
 aS'10'
 p3804
-aVNew Zealand/Aotearoa
+aS'Dunedin'
 p3805
-aVOtago
+aVNew Zealand/Aotearoa
 p3806
-aVDunedin City
+aVOtago
 p3807
-aa(lp3808
+aVDunedin City
+p3808
+aa(lp3809
 S'Arthur Wilson'
-p3809
-aS'1909'
 p3810
-aS'Forward'
+aS'1909'
 p3811
-aS'Newcastle-upon-Tyne'
+aS'Forward'
 p3812
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Newcastle-upon-Tyne'
 p3813
-aVEngland
+aVUnited Kingdom
 p3814
-aVNorth East England
+aVEngland
 p3815
-aa(lp3816
+aVNorth East England
+p3816
+aa(lp3817
 S'Cyril Wright'
-p3817
-aS'1909'
 p3818
-aS'Centre'
+aS'1909'
 p3819
-aS'Oporto'
+aS'Centre'
 p3820
 aS'2'
 aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVPortugal
+aS'0'
+aS'Oporto'
 p3821
-aVPorto
+aVPortugal
 p3822
+aVPorto
+p3823
 ag9
-aa(lp3823
+aa(lp3824
 S'Harold Harrison'
-p3824
-aS'1909'
 p3825
-aS'Forward'
+aS'1909'
 p3826
-aS'Solihull'
+aS'Forward'
 p3827
 aS'4'
 aS'3'
+aS'1'
+aS'0'
 aS'0'
 aS'4'
-aVUnited Kingdom
+aS'Solihull'
 p3828
-aVEngland
+aVUnited Kingdom
 p3829
-aVWest Midlands
+aVEngland
 p3830
-aa(lp3831
+aVWest Midlands
+p3831
+aa(lp3832
 S'Lancelot Barrington-Ward'
-p3832
-aS'1910'
 p3833
-aS'No. 8'
+aS'1910'
 p3834
-aS'Droitwich'
+aS'No. 8'
 p3835
 aS'4'
 aS'3'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Droitwich'
 p3836
-aVEngland
+aVUnited Kingdom
 p3837
-aVWest Midlands
+aVEngland
 p3838
-aa(lp3839
+aVWest Midlands
+p3839
+aa(lp3840
 S'Harry Berry'
-p3840
-aS'1910'
 p3841
-aS'Forward'
+aS'1910'
 p3842
-aS'Gloucester'
+aS'Forward'
 p3843
 aS'4'
 aS'3'
+aS'0'
+aS'1'
 aS'2'
 aS'6'
-aVUnited Kingdom
+aS'Gloucester'
 p3844
-aVEngland
+aVUnited Kingdom
 p3845
-aVSouth West England
+aVEngland
 p3846
-aa(lp3847
+aVSouth West England
+p3847
+aa(lp3848
 S'Fred Chapman'
-p3848
-aS'1908'
 p3849
-aS'Wing'
+aS'1908'
 p3850
-aS'S Shields'
+aS'Wing'
 p3851
 aS'8'
 aS'6'
 aS'1'
+aS'1'
+aS'1'
 aS'20'
 p3852
-aVUnited Kingdom
+aS'S Shields'
 p3853
-aVEngland
+aVUnited Kingdom
 p3854
-aVNorth East England
+aVEngland
 p3855
-aa(lp3856
+aVNorth East England
+p3856
+aa(lp3857
 S'Leonard Haigh'
-p3857
-aS'1910'
 p3858
-aS'Prop'
+aS'1910'
 p3859
-aS'Prestwich'
+aS'Prop'
 p3860
 aS'7'
 aS'4'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Prestwich'
 p3861
-aVEngland
+aVUnited Kingdom
 p3862
-aVNorth West England
+aVEngland
 p3863
-aa(lp3864
+aVNorth West England
+p3864
+aa(lp3865
 S'Billy Johnston'
-p3865
-aS'1910'
 p3866
-aS'Fullback'
+aS'1910'
 p3867
-aS'Bristol'
+aS'Fullback'
 p3868
 aS'16'
 p3869
 aS'13'
 p3870
+aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Bristol'
 p3871
-aVEngland
+aVUnited Kingdom
 p3872
-aVSouth West England
+aVEngland
 p3873
-aa(lp3874
+aVSouth West England
+p3874
+aa(lp3875
 S'Cherry Pillman'
-p3875
-aS'1910'
 p3876
-aS'Flanker'
+aS'1910'
 p3877
-aS'Bromley'
+aS'Flanker'
 p3878
 aS'20'
 p3879
 aS'15'
 p3880
+aS'4'
+aS'1'
 aS'8'
 aS'30'
 p3881
-aVUnited Kingdom
+aS'Bromley'
 p3882
-aVEngland
+aVUnited Kingdom
 p3883
-aVGreater London
+aVEngland
 p3884
-aa(lp3885
+aVGreater London
+p3885
+aa(lp3886
 S'Fenton Smith'
-p3886
-aS'1910'
 p3887
-aS'Forward'
+aS'1910'
 p3888
-aS'Brighton'
+aS'Forward'
 p3889
 aS'5'
 aS'2'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Brighton'
 p3890
-aVEngland
+aVUnited Kingdom
 p3891
-aVSouth East
+aVEngland
 p3892
-aa(lp3893
+aVSouth East
+p3893
+aa(lp3894
 S'Bert Solomon'
-p3894
-aS'1910'
 p3895
-aS'Centre'
+aS'1910'
 p3896
-aS'Redruth'
+aS'Centre'
 p3897
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Redruth'
 p3898
-aVEngland
+aVUnited Kingdom
 p3899
-aVSouth West England
+aVEngland
 p3900
-aa(lp3901
+aVSouth West England
+p3901
+aa(lp3902
 S'Leslie Hayward'
-p3902
-aS'1910'
 p3903
-aS'Centre'
+aS'1910'
 p3904
-aS'Cheltenham'
+aS'Centre'
 p3905
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Cheltenham'
 p3906
-aVEngland
+aVUnited Kingdom
 p3907
-aVSouth West England
+aVEngland
 p3908
-aa(lp3909
+aVSouth West England
+p3909
+aa(lp3910
 S'Alan Adams'
-p3910
-aS'1910'
 p3911
-aS'Centre'
+aS'1910'
 p3912
-aS'Greymouth'
+aS'Centre'
 p3913
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVNew Zealand/Aotearoa
+aS'0'
+aS'0'
+aS'Greymouth'
 p3914
-aVWest Coast
+aVNew Zealand/Aotearoa
 p3915
-aVGrey District
+aVWest Coast
 p3916
-aa(lp3917
+aVGrey District
+p3917
+aa(lp3918
 S'Harry Coverdale'
-p3918
-aS'1910'
 p3919
-aS'Fly-half'
+aS'1910'
 p3920
-aS'Hartlepool'
+aS'Fly-half'
 p3921
 aS'4'
 aS'3'
+aS'1'
+aS'0'
 aS'0'
 aS'4'
-aVUnited Kingdom
+aS'Hartlepool'
 p3922
-aVEngland
+aVUnited Kingdom
 p3923
-aVNorth East England
+aVEngland
 p3924
-aa(lp3925
+aVNorth East England
+p3925
+aa(lp3926
 S'Reginald Hands'
-p3926
-aS'1910'
 p3927
-aS'Forward'
+aS'1910'
 p3928
-aS'Cape Town'
+aS'Forward'
 p3929
 aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVSouth Africa
+aS'0'
+aS'0'
+aS'Cape Town'
 p3930
-aVWestern Cape
+aVSouth Africa
 p3931
-aVCity of Cape Town
+aVWestern Cape
 p3932
-aa(lp3933
+aVCity of Cape Town
+p3933
+aa(lp3934
 S'Anthony Henniker-Gotley'
-p3934
-aS'1910'
 p3935
-aS'Scrum-half'
+aS'1910'
 p3936
-aS'Warks'
+aS'Scrum-half'
 p3937
 aS'6'
 aS'4'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Warks'
 p3938
-aVEngland
+aVUnited Kingdom
 p3939
-aVNorth East England
+aVEngland
 p3940
-aa(lp3941
+aVNorth East England
+p3941
+aa(lp3942
 S'John Ritson'
-p3942
-aS'1908'
 p3943
-aS'Forward'
+aS'1908'
 p3944
-aS'Chester-le-Street'
+aS'Forward'
 p3945
 aS'9'
 aS'7'
 aS'2'
+aS'0'
+aS'2'
 aS'6'
-aVUnited Kingdom
+aS'Chester-le-Street'
 p3946
-aVEngland
+aVUnited Kingdom
 p3947
-aVNorth East England
+aVEngland
 p3948
-aa(lp3949
+aVNorth East England
+p3949
+aa(lp3950
 S'Edward Scorfield'
-p3950
-aS'1910'
 p3951
-aS'Lock'
+aS'1910'
 p3952
-aS'Preston'
+aS'Lock'
 p3953
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Preston'
 p3954
-aVEngland
+aVUnited Kingdom
 p3955
-aVNorth West England
+aVEngland
 p3956
-aa(lp3957
+aVNorth West England
+p3957
+aa(lp3958
 S'Cyril Williams'
-p3958
-aS'1910'
 p3959
-aS'Fullback'
+aS'1910'
 p3960
-aS'Stroud'
+aS'Fullback'
 p3961
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Stroud'
 p3962
-aVEngland
+aVUnited Kingdom
 p3963
-aVSouth West England
+aVEngland
 p3964
-aa(lp3965
+aVSouth West England
+p3965
+aa(lp3966
 S'Norman Wodehouse'
-p3966
-aS'1910'
 p3967
-aS'Forward'
+aS'1910'
 p3968
-aS'Notts'
+aS'Forward'
 p3969
 aS'14'
 p3970
 aS'10'
 p3971
+aS'4'
+aS'0'
 aS'2'
 aS'6'
-aVUnited Kingdom
+aS'Notts'
 p3972
-aVEngland
+aVUnited Kingdom
 p3973
-aVEast Midlands
+aVEngland
 p3974
-aa(lp3975
+aVEast Midlands
+p3975
+aa(lp3976
 S'Guy Hind'
-p3976
-aS'1908'
 p3977
-aS'Forward'
+aS'1908'
 p3978
-aS'Stoke-on-Trent'
+aS'Forward'
 p3979
 aS'4'
 aS'1'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Stoke-on-Trent'
 p3980
-aVEngland
+aVUnited Kingdom
 p3981
-aVWest Midlands
+aVEngland
 p3982
-aa(lp3983
+aVWest Midlands
+p3983
+aa(lp3984
 S'Percy Lawrie'
-p3984
-aS'1910'
 p3985
-aS'Wing'
+aS'1910'
 p3986
-aS'Lutterworth'
+aS'Wing'
 p3987
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Lutterworth'
 p3988
-aVEngland
+aVUnited Kingdom
 p3989
-aVEast Midlands
+aVEngland
 p3990
-aa(lp3991
+aVEast Midlands
+p3991
+aa(lp3992
 S'Tim Stoop'
-p3992
-aS'1910'
 p3993
-aS'Centre'
+aS'1910'
 p3994
-aS'Kensington'
+aS'Centre'
 p3995
 aS'4'
 aS'2'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Kensington'
 p3996
-aVEngland
+aVUnited Kingdom
 p3997
-aVGreater London
+aVEngland
 p3998
-aa(lp3999
+aVGreater London
+p3999
+aa(lp4000
 S'Bruno Brown'
-p4000
-aS'1911'
 p4001
-aS'Prop'
+aS'1911'
 p4002
-aS'QLD'
+aS'Prop'
 p4003
 aS'18'
 p4004
 aS'14'
 p4005
 aS'4'
+aS'0'
+aS'4'
 aS'12'
 p4006
-aVAustralia
+aS'QLD'
 p4007
-aVQueensland
+aVAustralia
 p4008
+aVQueensland
+p4009
 ag9
-aa(lp4009
+aa(lp4010
 S'John King'
-p4010
-aS'1911'
 p4011
-aS'No. 8'
+aS'1911'
 p4012
-aS'Leeds'
+aS'No. 8'
 p4013
 aS'12'
 p4014
 aS'8'
+aS'4'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Leeds'
 p4015
-aVEngland
+aVUnited Kingdom
 p4016
-aVYorkshire and the Humber
+aVEngland
 p4017
-aa(lp4018
+aVYorkshire and the Humber
+p4018
+aa(lp4019
 S'William Mann'
-p4019
-aS'1911'
 p4020
-aS'Forward'
+aS'1911'
 p4021
-aS'Edmonton'
+aS'Forward'
 p4022
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
-aVCanada
+aS'Edmonton'
 p4023
-aVAlberta
+aVCanada
 p4024
-aVEdmonton
+aVAlberta
 p4025
-aa(lp4026
+aVEdmonton
+p4026
+aa(lp4027
 S'Alan Roberts'
-p4027
-aS'1911'
 p4028
-aS'Wing'
+aS'1911'
 p4029
-aS'Newcastle-upon-Tyne'
+aS'Wing'
 p4030
 aS'8'
 aS'5'
+aS'3'
+aS'0'
 aS'5'
 aS'15'
 p4031
-aVUnited Kingdom
+aS'Newcastle-upon-Tyne'
 p4032
-aVEngland
+aVUnited Kingdom
 p4033
-aVNorth East England
+aVEngland
 p4034
-aa(lp4035
+aVNorth East England
+p4035
+aa(lp4036
 S'John Scholfield'
-p4036
-aS'1911'
 p4037
-aS'Centre'
+aS'1911'
 p4038
-aS'Fylde'
+aS'Centre'
 p4039
 aS'1'
 aS'0'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Fylde'
 p4040
-aVEngland
+aVUnited Kingdom
 p4041
-aVNorth West England
+aVEngland
 p4042
-aa(lp4043
+aVNorth West England
+p4043
+aa(lp4044
 S'Samuel Williams'
-p4044
-aS'1910'
 p4045
-aS'Fullback'
+aS'1910'
 p4046
-aS'Rogerston'
+aS'Fullback'
 p4047
 aS'7'
 aS'3'
+aS'4'
 aS'0'
 aS'0'
-aVUnited States of America
+aS'0'
+aS'Rogerston'
 p4048
-aV37715
+aVUnited States of America
 p4049
-aVTennessee
+aV37715
 p4050
-aa(lp4051
+aVTennessee
+p4051
+aa(lp4052
 S'Ronald Lagden'
-p4052
-aS'1911'
 p4053
-aS'No. 8'
+aS'1911'
 p4054
-aS'Basutoland'
+aS'No. 8'
 p4055
 aS'1'
 aS'1'
 aS'0'
+aS'0'
+aS'0'
 aS'4'
+aS'Basutoland'
+p4056
 aS'g'
 aS'n'
 aS'i'
-aa(lp4056
+aa(lp4057
 S'Henry Brougham'
-p4057
-aS'1912'
 p4058
-aS'Wing'
+aS'1912'
 p4059
-aS'Wellington College'
+aS'Wing'
 p4060
 aS'4'
 aS'3'
+aS'1'
+aS'0'
 aS'3'
 aS'9'
-aVNew Zealand/Aotearoa
+aS'Wellington College'
 p4061
-aV6011
+aVNew Zealand/Aotearoa
 p4062
-aVWellington
+aV6011
 p4063
-aa(lp4064
+aVWellington
+p4064
+aa(lp4065
 S'John Eddison'
-p4065
-aS'1912'
 p4066
-aS'Forward'
+aS'1912'
 p4067
-aS'Edinburgh'
+aS'Forward'
 p4068
 aS'4'
 aS'3'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Edinburgh'
 p4069
-aVScotland
+aVUnited Kingdom
 p4070
-aVCity of Edinburgh
+aVScotland
 p4071
-aa(lp4072
+aVCity of Edinburgh
+p4072
+aa(lp4073
 S'Dave Holland'
-p4073
-aS'1912'
 p4074
-aS'Forward'
+aS'1912'
 p4075
-aS'Gloucester'
+aS'Forward'
 p4076
 aS'3'
 aS'2'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Gloucester'
 p4077
-aVEngland
+aVUnited Kingdom
 p4078
-aVSouth West England
+aVEngland
 p4079
-aa(lp4080
+aVSouth West England
+p4080
+aa(lp4081
 S'Alfred MacIlwaine'
-p4081
-aS'1912'
 p4082
-aS'Prop'
+aS'1912'
 p4083
-aS'Sculcoates'
+aS'Prop'
 p4084
 aS'5'
 aS'4'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Sculcoates'
 p4085
-aVEngland
+aVUnited Kingdom
 p4086
-aVYorkshire and the Humber
+aVEngland
 p4087
-aa(lp4088
+aVYorkshire and the Humber
+p4088
+aa(lp4089
 S'John Pym'
-p4089
-aS'1912'
 p4090
-aS'Scrum-half'
+aS'1912'
 p4091
-aS'Kingston'
+aS'Scrum-half'
 p4092
 aS'4'
 aS'3'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
-aVJamaica
+aS'Kingston'
 p4093
-aVSurrey County
+aVJamaica
 p4094
-aVKingston and St. Andrew Corporation
+aVSurrey County
 p4095
-aa(lp4096
+aVKingston and St. Andrew Corporation
+p4096
+aa(lp4097
 S'Dick Stafford'
-p4097
-aS'1912'
 p4098
-aS'Prop'
+aS'1912'
 p4099
-aS'Bedford'
+aS'Prop'
 p4100
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Bedford'
 p4101
-aVEngland
+aVUnited Kingdom
 p4102
-aVEast of England
+aVEngland
 p4103
-aa(lp4104
+aVEast of England
+p4104
+aa(lp4105
 S'John Greenwood'
-p4105
-aS'1912'
 p4106
-aS'Forward'
+aS'1912'
 p4107
-aS'Lewisham'
+aS'Forward'
 p4108
 aS'13'
 p4109
 aS'11'
 p4110
+aS'2'
+aS'0'
 aS'0'
 aS'30'
 p4111
-aVUnited Kingdom
+aS'Lewisham'
 p4112
-aVEngland
+aVUnited Kingdom
 p4113
-aVGreater London
+aVEngland
 p4114
-aa(lp4115
+aVGreater London
+p4115
+aa(lp4116
 S'William Hynes'
-p4116
-aS'1912'
 p4117
-aS'Lock'
+aS'1912'
 p4118
-aS'Portsea'
+aS'Lock'
 p4119
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Portsea'
 p4120
-aVEngland
+aVAustralia
 p4121
-aVSouth East
+aVVictoria
 p4122
-aa(lp4123
+aVGreater Melbourne
+p4123
+aa(lp4124
 S'Maurice Neale'
-p4124
-aS'1910'
 p4125
-aS'Wing'
+aS'1910'
 p4126
-aS'Thornbury'
+aS'Wing'
 p4127
 aS'4'
 aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Thornbury'
 p4128
-aVEngland
+aVUnited Kingdom
 p4129
-aVSouth West England
+aVEngland
 p4130
-aa(lp4131
+aVSouth West England
+p4131
+aa(lp4132
 S'William Cheesman'
-p4132
-aS'1913'
 p4133
-aS'Scrum-half'
+aS'1913'
 p4134
-aS'Pancras'
+aS'Scrum-half'
 p4135
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
-aVUnited States of America
+aS'0'
+aS'Pancras'
 p4136
-aVGeorgia
+aVUnited States of America
 p4137
-aVBaldwin
+aVGeorgia
 p4138
-aa(lp4139
+aVBaldwin
+p4139
+aa(lp4140
 S'Vincent Coates'
-p4140
-aS'1913'
 p4141
-aS'Wing'
+aS'1913'
 p4142
-aS'Edinburgh'
+aS'Wing'
 p4143
 aS'5'
 aS'4'
+aS'1'
+aS'0'
 aS'6'
 aS'18'
 p4144
-aVUnited Kingdom
+aS'Edinburgh'
 p4145
-aVScotland
+aVUnited Kingdom
 p4146
-aVCity of Edinburgh
+aVScotland
 p4147
-aa(lp4148
+aVCity of Edinburgh
+p4148
+aa(lp4149
 S'Dave Davies'
-p4149
-aS'1913'
 p4150
-aS'Fly-half'
+aS'1913'
 p4151
-aS'Pembroke'
+aS'Fly-half'
 p4152
 aS'22'
 p4153
 aS'20'
 p4154
+aS'1'
+aS'1'
 aS'4'
 aS'24'
 p4155
-aVBermuda
+aS'Pembroke'
 p4156
-aVPembroke
+aVMalta
 p4157
+aVPembroke
+p4158
 ag9
-aa(lp4158
+aa(lp4159
 S'Cyril Lowe'
-p4159
-aS'1913'
 p4160
-aS'Wing'
+aS'1913'
 p4161
-aS'Lincs'
+aS'Wing'
 p4162
 aS'25'
 p4163
 aS'21'
 p4164
+aS'3'
+aS'1'
 aS'18'
 p4165
 aS'58'
 p4166
-aVUnited Kingdom
+aS'Lincs'
 p4167
-aVWales
+aVUnited Kingdom
 p4168
-aVIsle of Anglesey
+aVWales
 p4169
-aa(lp4170
+aVCarmarthenshire
+p4170
+aa(lp4171
 S'Sidney Smart'
-p4171
-aS'1913'
 p4172
-aS'No. 8'
+aS'1913'
 p4173
-aS'Gloucester'
+aS'No. 8'
 p4174
 aS'12'
 p4175
 aS'10'
 p4176
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Gloucester'
 p4177
-aVEngland
+aVUnited Kingdom
 p4178
-aVSouth West England
+aVEngland
 p4179
-aa(lp4180
+aVSouth West England
+p4180
+aa(lp4181
 S'Francis Steinthal'
-p4181
-aS'1913'
 p4182
-aS'Centre'
+aS'1913'
 p4183
-aS'Bradford'
+aS'Centre'
 p4184
 aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Bradford'
 p4185
-aVEngland
+aVUnited Kingdom
 p4186
-aVYorkshire and the Humber
+aVEngland
 p4187
-aa(lp4188
+aVYorkshire and the Humber
+p4188
+aa(lp4189
 S'George Ward'
-p4189
-aS'1913'
 p4190
-aS'No. 8'
+aS'1913'
 p4191
-aS'Leicester'
+aS'No. 8'
 p4192
 aS'6'
 aS'6'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Leicester'
 p4193
-aVEngland
+aVUnited Kingdom
 p4194
-aVEast Midlands
+aVEngland
 p4195
-aa(lp4196
+aVEast Midlands
+p4196
+aa(lp4197
 S'Arthur Dingle'
-p4197
-aS'1913'
 p4198
-aS'Wing'
+aS'1913'
 p4199
-aS'Durhm'
+aS'Wing'
 p4200
 aS'3'
 aS'3'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'Durhm'
+p4201
 aS'g'
 aS'n'
 aS'i'
-aa(lp4201
+aa(lp4202
 S'Alfred Kitching'
-p4202
-aS'1913'
 p4203
-aS'Lock'
+aS'1913'
 p4204
-aS'Scarborough'
+aS'Lock'
 p4205
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Scarborough'
 p4206
-aVEngland
+aVUnited Kingdom
 p4207
-aVYorkshire and the Humber
+aVEngland
 p4208
-aa(lp4209
+aVYorkshire and the Humber
+p4209
+aa(lp4210
 S'Francis Oakeley'
-p4210
-aS'1913'
 p4211
-aS'Scrum-half'
+aS'1913'
 p4212
-aS'Hereford'
+aS'Scrum-half'
 p4213
 aS'4'
 aS'4'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Hereford'
 p4214
-aVEngland
+aVUnited Kingdom
 p4215
-aVWest Midlands
+aVEngland
 p4216
-aa(lp4217
+aVWest Midlands
+p4217
+aa(lp4218
 S'Joseph Brunton'
-p4218
-aS'1914'
 p4219
-aS'Lock'
+aS'1914'
 p4220
-aS'Tynemouth'
+aS'Lock'
 p4221
 aS'3'
 aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Tynemouth'
 p4222
-aVEngland
+aVUnited Kingdom
 p4223
-aVNorth East England
+aVEngland
 p4224
-aa(lp4225
+aVNorth East England
+p4225
+aa(lp4226
 S'Arthur Bull'
-p4226
-aS'1914'
 p4227
-aS'Prop'
+aS'1914'
 p4228
-aS'Newport Pagnell'
+aS'Prop'
 p4229
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Newport Pagnell'
 p4230
-aVEngland
+aVUnited Kingdom
 p4231
-aVSouth East
+aVEngland
 p4232
-aa(lp4233
+aVSouth East
+p4233
+aa(lp4234
 S'Alfred Maynard'
-p4234
-aS'1914'
 p4235
-aS'Hooker'
+aS'1914'
 p4236
-aS'Kent'
+aS'Hooker'
 p4237
 aS'3'
 aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Kent'
 p4238
-aVEngland
+aVUnited Kingdom
 p4239
-aVSouth East
+aVEngland
 p4240
-aa(lp4241
+aVSouth East
+p4241
+aa(lp4242
 S'Tim Taylor'
-p4242
-aS'1914'
 p4243
-aS'Fly-half'
+aS'1914'
 p4244
-aS'Leicester'
+aS'Fly-half'
 p4245
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Leicester'
 p4246
-aVEngland
+aVUnited Kingdom
 p4247
-aVEast Midlands
+aVEngland
 p4248
-aa(lp4249
+aVEast Midlands
+p4249
+aa(lp4250
 S'Bungy Watson'
-p4250
-aS'1914'
 p4251
-aS'Centre'
+aS'1914'
 p4252
-aS'Southsea'
+aS'Centre'
 p4253
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Southsea'
 p4254
-aVEngland
+aVUnited Kingdom
 p4255
-aVSouth East
+aVEngland
 p4256
-aa(lp4257
+aVSouth East
+p4257
+aa(lp4258
 S'Pedlar Wood'
-p4258
-aS'1914'
 p4259
-aS'Scrum-half'
+aS'1914'
 p4260
-aS'Leicester'
+aS'Scrum-half'
 p4261
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Leicester'
 p4262
-aVEngland
+aVUnited Kingdom
 p4263
-aVEast Midlands
+aVEngland
 p4264
-aa(lp4265
+aVEast Midlands
+p4265
+aa(lp4266
 S'Arthur Harrison'
-p4266
-aS'1914'
 p4267
-aS'Forward'
+aS'1914'
 p4268
-aS'Torquay'
+aS'Forward'
 p4269
 aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Torquay'
 p4270
-aVEngland
+aVUnited Kingdom
 p4271
-aVSouth West England
+aVEngland
 p4272
-aa(lp4273
+aVSouth West England
+p4273
+aa(lp4274
 S'Robert Pillman'
-p4274
-aS'1914'
 p4275
-aS'Flanker'
+aS'1914'
 p4276
-aS'Kent'
+aS'Flanker'
 p4277
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Kent'
 p4278
-aVEngland
+aVUnited Kingdom
 p4279
-aVSouth East
+aVEngland
 p4280
-aa(lp4281
+aVSouth East
+p4281
+aa(lp4282
 S'Francis Stone'
-p4282
-aS'1914'
 p4283
-aS'No. 8'
+aS'1914'
 p4284
-aS'Lewisham'
+aS'No. 8'
 p4285
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Lewisham'
 p4286
-aVEngland
+aVUnited Kingdom
 p4287
-aVGreater London
+aVEngland
 p4288
-aa(lp4289
+aVGreater London
+p4289
+aa(lp4290
 S'Alexander Sykes'
-p4290
-aS'1914'
 p4291
-aS'Forward'
+aS'1914'
 p4292
-aS'Birkenhead'
+aS'Forward'
 p4293
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Birkenhead'
 p4294
-aVEngland
+aVUnited Kingdom
 p4295
-aVNorth West England
+aVEngland
 p4296
-aa(lp4297
+aVNorth West England
+p4297
+aa(lp4298
 S'Barry Cumberlege'
-p4298
-aS'1920'
 p4299
-aS'Fullback'
+aS'1920'
 p4300
-aS'Newcastle-upon-Tyne'
+aS'Fullback'
 p4301
 aS'8'
 aS'6'
+aS'2'
+aS'0'
 aS'0'
 aS'2'
-aVUnited Kingdom
+aS'Newcastle-upon-Tyne'
 p4302
-aVEngland
+aVUnited Kingdom
 p4303
-aVNorth East England
+aVEngland
 p4304
-aa(lp4305
+aVNorth East England
+p4305
+aa(lp4306
 S'Harold Day'
-p4306
-aS'1920'
 p4307
-aS'Wing'
+aS'1920'
 p4308
-aS'Darjeeling'
+aS'Wing'
 p4309
 aS'4'
 aS'0'
+aS'3'
+aS'1'
 aS'2'
 aS'16'
 p4310
-aVIndia
+aS'Darjeeling'
 p4311
-aVWest Bengal
+aVIndia
 p4312
-aVDarjiling
+aVWest Bengal
 p4313
-aa(lp4314
+aVDarjiling
+p4314
+aa(lp4315
 S'George Halford'
-p4315
-aS'1920'
 p4316
-aS'Lock'
+aS'1920'
 p4317
-aS'Gloucester'
+aS'Lock'
 p4318
 aS'2'
 aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Gloucester'
 p4319
-aVEngland
+aVUnited Kingdom
 p4320
-aVSouth West England
+aVEngland
 p4321
-aa(lp4322
+aVSouth West England
+p4322
+aa(lp4323
 S'Ernest Hammett'
-p4323
-aS'1920'
 p4324
-aS'Centre'
+aS'1920'
 p4325
-aS'Radstock'
+aS'Centre'
 p4326
 aS'8'
 aS'6'
+aS'2'
+aS'0'
 aS'0'
 aS'12'
 p4327
-aVUnited Kingdom
+aS'Radstock'
 p4328
-aVBA3 3
+aVUnited Kingdom
 p4329
-aVEngland
+aVBA3 3
 p4330
-aa(lp4331
+aVEngland
+p4331
+aa(lp4332
 S'Cecil Kershaw'
-p4332
-aS'1920'
 p4333
-aS'Scrum-half'
+aS'1920'
 p4334
-aS'Dacca'
+aS'Scrum-half'
 p4335
 aS'16'
 p4336
 aS'13'
 p4337
 aS'2'
+aS'1'
+aS'2'
 aS'6'
-aV\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6
+aS'Dacca'
 p4338
-aV\u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997
+aV\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6
 p4339
-aV\u09a2\u09be\u0995\u09be
+aV\u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997
 p4340
-aa(lp4341
+aV\u09a2\u09be\u0995\u09be
+p4341
+aa(lp4342
 S'Jannie Krige'
-p4342
-aS'1920'
 p4343
-aS'Centre'
+aS'1920'
 p4344
-aS'Caledon'
+aS'Centre'
 p4345
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVCanada
+aS'Caledon'
 p4346
-aVOntario
+aVSouth Africa
 p4347
-aVPeel Region
+aVWestern Cape
 p4348
-aa(lp4349
+aVOverberg District Municipality
+p4349
+aa(lp4350
 S'Frank Mellish'
-p4350
-aS'1920'
 p4351
-aS'Flanker'
+aS'1920'
 p4352
-aS'Rondebosch'
+aS'Flanker'
 p4353
 aS'12'
 p4354
 aS'8'
+aS'2'
+aS'2'
 aS'1'
 aS'3'
-aVSouth Africa
+aS'Rondebosch'
 p4355
-aVWestern Cape
+aVSouth Africa
 p4356
-aVCity of Cape Town
+aVWestern Cape
 p4357
-aa(lp4358
+aVCity of Cape Town
+p4358
+aa(lp4359
 S'Laurence Merriam'
-p4359
-aS'1920'
 p4360
-aS'Lock'
+aS'1920'
 p4361
-aS'Islington'
+aS'Lock'
 p4362
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p4363
-aVN1
-p4364
-aVEngland
-p4365
-aa(lp4366
-S'James Morgan'
-p4367
-aS'1920'
-p4368
-aS'Hooker'
-p4369
-aS'Cockermouth?'
-p4370
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Islington'
+p4363
 aVUnited Kingdom
-p4371
+p4364
+aVN1
+p4365
 aVEngland
-p4372
-aVNorth West England
-p4373
-aa(lp4374
-S'Wavell Wakefield'
-p4375
+p4366
+aa(lp4367
+S'James Morgan'
+p4368
 aS'1920'
+p4369
+aS'Hooker'
+p4370
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cockermouth?'
+p4371
+aVUnited Kingdom
+p4372
+aVEngland
+p4373
+aVNorth West England
+p4374
+aa(lp4375
+S'Wavell Wakefield'
 p4376
-aS'Flanker'
+aS'1920'
 p4377
-aS'Beckenham'
+aS'Flanker'
 p4378
 aS'31'
 p4379
 aS'20'
 p4380
+aS'8'
+aS'3'
 aS'6'
 aS'18'
 p4381
-aVUnited Kingdom
+aS'Beckenham'
 p4382
-aVEngland
+aVUnited Kingdom
 p4383
-aVGreater London
+aVEngland
 p4384
-aa(lp4385
+aVGreater London
+p4385
+aa(lp4386
 S'Jock Wright'
-p4386
-aS'1920'
 p4387
-aS'Prop'
+aS'1920'
 p4388
-aS'Plymouth'
+aS'Prop'
 p4389
 aS'2'
 aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Plymouth'
 p4390
-aVEngland
+aVUnited Kingdom
 p4391
-aVSouth West England
+aVEngland
 p4392
-aa(lp4393
+aVSouth West England
+p4393
+aa(lp4394
 S'Geoffrey Conway'
-p4394
-aS'1920'
 p4395
-aS'No. 8'
+aS'1920'
 p4396
-aS'Cardiff'
+aS'No. 8'
 p4397
 aS'18'
 p4398
 aS'15'
 p4399
+aS'2'
+aS'1'
 aS'1'
 aS'25'
 p4400
-aVUnited Kingdom
+aS'Cardiff'
 p4401
-aVWales
+aVUnited Kingdom
 p4402
-aVCardiff
+aVWales
 p4403
-aa(lp4404
+aVCardiff
+p4404
+aa(lp4405
 S'Wilfrid Lowry'
-p4405
-aS'1920'
 p4406
-aS'Wing'
+aS'1920'
 p4407
-aS'Birkenhead'
+aS'Wing'
 p4408
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Birkenhead'
 p4409
-aVEngland
+aVUnited Kingdom
 p4410
-aVNorth West England
+aVEngland
 p4411
-aa(lp4412
+aVNorth West England
+p4412
+aa(lp4413
 S'Harry Millett'
-p4413
-aS'1920'
 p4414
-aS'Fullback'
+aS'1920'
 p4415
-aS'Islington'
+aS'Fullback'
 p4416
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Islington'
 p4417
-aVN1
+aVUnited Kingdom
 p4418
-aVEngland
+aVN1
 p4419
-aa(lp4420
+aVEngland
+p4420
+aa(lp4421
 S'Alastair Smallwood'
-p4421
-aS'1920'
 p4422
-aS'Wing'
+aS'1920'
 p4423
-aS'Alloa'
+aS'Wing'
 p4424
 aS'14'
 p4425
 aS'12'
 p4426
+aS'1'
+aS'1'
 aS'7'
 aS'25'
 p4427
-aVUnited Kingdom
+aS'Alloa'
 p4428
-aVScotland
+aVUnited Kingdom
 p4429
-aVClackmannanshire
+aVScotland
 p4430
-aa(lp4431
+aVClackmannanshire
+p4431
+aa(lp4432
 S'Sos Taylor'
-p4432
-aS'1920'
 p4433
-aS'Prop'
+aS'1920'
 p4434
-aS'Leicester'
+aS'Prop'
 p4435
 aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Leicester'
 p4436
-aVEngland
+aVUnited Kingdom
 p4437
-aVEast Midlands
+aVEngland
 p4438
-aa(lp4439
+aVEast Midlands
+p4439
+aa(lp4440
 S'Stan Harris'
-p4440
-aS'1920'
 p4441
-aS'Wing'
+aS'1920'
 p4442
-aS'Somerset East'
+aS'Wing'
 p4443
 aS'4'
 aS'2'
+aS'1'
+aS'1'
 aS'2'
 aS'6'
-aVSouth Africa
+aS'Somerset East'
 p4444
-aVEastern Cape
+aVSouth Africa
 p4445
-aVSarah Baartman District Municipality
+aVEastern Cape
 p4446
-aa(lp4447
+aVSarah Baartman District Municipality
+p4447
+aa(lp4448
 S'Edward Myers'
-p4448
-aS'1920'
 p4449
-aS'Centre'
+aS'1920'
 p4450
-aS'United States'
+aS'Centre'
 p4451
 aS'18'
 p4452
 aS'15'
 p4453
+aS'2'
+aS'1'
 aS'3'
 aS'13'
 p4454
-aVUnited States of America
+aS'United States'
 p4455
+aVUnited States of America
+p4456
 ag9
 ag9
-aa(lp4456
+aa(lp4457
 S'Tom Voyce'
-p4457
-aS'1920'
 p4458
-aS'Flanker'
+aS'1920'
 p4459
-aS'Gloucester'
+aS'Flanker'
 p4460
 aS'29'
 p4461
 aS'19'
 p4462
 aS'6'
+aS'4'
+aS'6'
 aS'21'
 p4463
-aVUnited Kingdom
+aS'Gloucester'
 p4464
-aVEngland
+aVUnited Kingdom
 p4465
-aVSouth West England
+aVEngland
 p4466
-aa(lp4467
+aVSouth West England
+p4467
+aa(lp4468
 S'Freddie Blakiston'
-p4468
-aS'1920'
 p4469
-aS'Flanker'
+aS'1920'
 p4470
-aS'W Derby'
+aS'Flanker'
 p4471
 aS'21'
 p4472
 aS'13'
 p4473
+aS'6'
+aS'2'
 aS'3'
 aS'9'
-aVUnited Kingdom
+aS'W Derby'
 p4474
-aVEngland
+aVUnited Kingdom
 p4475
-aVNorth West England
+aVEngland
 p4476
-aa(lp4477
+aVNorth West England
+p4477
+aa(lp4478
 S'Tom Woods'
-p4478
-aS'1920'
 p4479
-aS'Forward'
+aS'1920'
 p4480
-aS'Pontypool'
+aS'Forward'
 p4481
 aS'5'
 aS'5'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Pontypool'
 p4482
-aVNP4
+aVUnited Kingdom
 p4483
-aVWales
+aVNP4
 p4484
-aa(lp4485
+aVWales
+p4485
+aa(lp4486
 S'Reg Edwards'
-p4486
-aS'1921'
 p4487
-aS'Prop'
+aS'1921'
 p4488
-aS'Newport'
+aS'Prop'
 p4489
 aS'11'
 p4490
 aS'8'
+aS'2'
+aS'1'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Newport'
 p4491
-aVNP
+aVUnited Kingdom
 p4492
-aVWales
+aVNP
 p4493
-aa(lp4494
+aVWales
+p4494
+aa(lp4495
 S'Ernest Gardner'
-p4495
-aS'1921'
 p4496
-aS'Hooker'
+aS'1921'
 p4497
-aS'Cardiff'
+aS'Hooker'
 p4498
 aS'10'
 p4499
 aS'8'
 aS'1'
+aS'1'
+aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Cardiff'
 p4500
-aVWales
+aVUnited Kingdom
 p4501
-aVCardiff
+aVWales
 p4502
-aa(lp4503
+aVCardiff
+p4503
+aa(lp4504
 S'Ron Cove-Smith'
-p4504
-aS'1921'
 p4505
-aS'Lock'
+aS'1921'
 p4506
-aS'Edmonton'
+aS'Lock'
 p4507
 aS'33'
 p4508
 aS'22'
 p4509
+aS'8'
+aS'3'
 aS'1'
 aS'3'
-aVCanada
+aS'Edmonton'
 p4510
-aVAlberta
+aVCanada
 p4511
-aVEdmonton
+aVAlberta
 p4512
-aa(lp4513
+aVEdmonton
+p4513
+aa(lp4514
 S'Quentin King'
-p4514
-aS'1921'
 p4515
-aS'Wing'
+aS'1921'
 p4516
-aS'Bedford'
+aS'Wing'
 p4517
 aS'1'
 aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Bedford'
 p4518
-aVEngland
+aVUnited Kingdom
 p4519
-aVEast of England
+aVEngland
 p4520
-aa(lp4521
+aVEast of England
+p4521
+aa(lp4522
 S'Len Corbett'
-p4522
-aS'1921'
 p4523
-aS'Centre'
+aS'1921'
 p4524
-aS'Bristol'
+aS'Centre'
 p4525
 aS'16'
 p4526
 aS'11'
 p4527
+aS'4'
+aS'1'
 aS'3'
 aS'15'
 p4528
-aVUnited Kingdom
+aS'Bristol'
 p4529
-aVEngland
+aVUnited Kingdom
 p4530
-aVSouth West England
+aVEngland
 p4531
-aa(lp4532
+aVSouth West England
+p4532
+aa(lp4533
 S'Vivian Davies'
-p4533
-aS'1922'
 p4534
-aS'Fly-half'
+aS'1922'
 p4535
-aS'Bromley'
+aS'Fly-half'
 p4536
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Bromley'
 p4537
-aVEngland
+aVUnited Kingdom
 p4538
-aVGreater London
+aVEngland
 p4539
-aa(lp4540
+aVGreater London
+p4540
+aa(lp4541
 S'Sam Tucker'
-p4541
-aS'1922'
 p4542
-aS'Hooker'
+aS'1922'
 p4543
-aS'Bristol'
+aS'Hooker'
 p4544
 aS'27'
 p4545
 aS'14'
 p4546
+aS'9'
+aS'4'
 aS'2'
 aS'6'
-aVUnited Kingdom
+aS'Bristol'
 p4547
-aVEngland
+aVUnited Kingdom
 p4548
-aVSouth West England
+aVEngland
 p4549
-aa(lp4550
+aVSouth West England
+p4550
+aa(lp4551
 S'Matthew Bradby'
-p4551
-aS'1922'
 p4552
-aS'Centre'
+aS'1922'
 p4553
-aS'Rugby'
+aS'Centre'
 p4554
 aS'2'
 aS'1'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Rugby'
 p4555
-aVEngland
+aVUnited Kingdom
 p4556
-aVWest Midlands
+aVEngland
 p4557
-aa(lp4558
+aVWest Midlands
+p4558
+aa(lp4559
 S'Robert Duncan'
-p4559
-aS'1922'
 p4560
-aS'Prop'
+aS'1922'
 p4561
-aS'Glamorgan'
+aS'Prop'
 p4562
 aS'3'
 aS'2'
 aS'0'
+aS'1'
 aS'0'
-aVCanada
+aS'0'
+aS'Glamorgan'
 p4563
-aVAlberta
+aVCanada
 p4564
-aVCalgary
+aVAlberta
 p4565
-aa(lp4566
+aVCalgary
+p4566
+aa(lp4567
 S'John Maxwell-Hyslop'
-p4567
-aS'1922'
 p4568
-aS'Flanker'
+aS'1922'
 p4569
-aS'Bristol'
+aS'Flanker'
 p4570
 aS'3'
 aS'2'
+aS'0'
+aS'1'
 aS'1'
 aS'3'
-aVUnited Kingdom
-p4571
-aVEngland
-p4572
-aVSouth West England
-p4573
-aa(lp4574
-S'Reg Pickles'
-p4575
-aS'1922'
-p4576
-aS'Fullback'
-p4577
 aS'Bristol'
+p4571
+aVUnited Kingdom
+p4572
+aVEngland
+p4573
+aVSouth West England
+p4574
+aa(lp4575
+S'Reg Pickles'
+p4576
+aS'1922'
+p4577
+aS'Fullback'
 p4578
 aS'2'
 aS'1'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Bristol'
 p4579
-aVEngland
+aVUnited Kingdom
 p4580
-aVSouth West England
+aVEngland
 p4581
-aa(lp4582
+aVSouth West England
+p4582
+aa(lp4583
 S'Leo Price'
-p4583
-aS'1922'
 p4584
-aS'Flanker'
+aS'1922'
 p4585
-aS'Surrey'
+aS'Flanker'
 p4586
 aS'4'
 aS'4'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
-aVUnited Kingdom
+aS'Surrey'
 p4587
-aVEngland
+aVUnited Kingdom
 p4588
-aVSouth East
+aVEngland
 p4589
-aa(lp4590
+aVSouth East
+p4590
+aa(lp4591
 S'John Middleton'
-p4591
-aS'1922'
 p4592
-aS'Fullback'
+aS'1922'
 p4593
-aS'Dublin'
+aS'Fullback'
 p4594
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVRepublic of Ireland
+aS'0'
+aS'0'
+aS'Dublin'
 p4595
-aVLeinster
+aVRepublic of Ireland
 p4596
-aVCounty Dublin
+aVLeinster
 p4597
-aa(lp4598
+aVCounty Dublin
+p4598
+aa(lp4599
 S'James Pitman'
-p4599
-aS'1922'
 p4600
-aS'Wing'
+aS'1922'
 p4601
-aS'Kensington'
+aS'Wing'
 p4602
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Kensington'
 p4603
-aVEngland
+aVUnited Kingdom
 p4604
-aVGreater London
+aVEngland
 p4605
-aa(lp4606
+aVGreater London
+p4606
+aa(lp4607
 S'Peveril William-Powlett'
-p4607
-aS'1922'
 p4608
-aS'Prop'
+aS'1922'
 p4609
-aS'Abergavenny'
+aS'Prop'
 p4610
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Abergavenny'
 p4611
-aVNP7
+aVUnited Kingdom
 p4612
-aVWales
+aVNP7
 p4613
-aa(lp4614
+aVWales
+p4614
+aa(lp4615
 S'Frederick Gilbert'
-p4615
-aS'1923'
 p4616
-aS'Fullback'
+aS'1923'
 p4617
-aS'Plymouth'
+aS'Fullback'
 p4618
 aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Plymouth'
 p4619
-aVEngland
+aVUnited Kingdom
 p4620
-aVSouth West England
+aVEngland
 p4621
-aa(lp4622
+aVSouth West England
+p4622
+aa(lp4623
 S'William Luddington'
-p4623
-aS'1923'
 p4624
-aS'Prop'
+aS'1923'
 p4625
-aS'Farnham'
+aS'Prop'
 p4626
 aS'13'
 p4627
 aS'10'
 p4628
+aS'1'
+aS'2'
 aS'0'
 aS'16'
 p4629
-aVUnited Kingdom
+aS'Farnham'
 p4630
-aVEngland
+aVUnited Kingdom
 p4631
-aVSouth East
+aVEngland
 p4632
-aa(lp4633
+aVEast of England
+p4633
+aa(lp4634
 S'Frank Sanders'
-p4634
-aS'1923'
 p4635
-aS'Hooker'
+aS'1923'
 p4636
-aS'Newton Abbot'
+aS'Hooker'
 p4637
 aS'3'
 aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Newton Abbot'
 p4638
-aVEngland
+aVUnited Kingdom
 p4639
-aVSouth West England
+aVEngland
 p4640
-aa(lp4641
+aVSouth West England
+p4641
+aa(lp4642
 S'Toff Holliday'
-p4642
-aS'1923'
 p4643
-aS'Fullback'
+aS'1923'
 p4644
-aS'Wigton'
+aS'Fullback'
 p4645
 aS'7'
 aS'4'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Wigton'
 p4646
-aVEngland
+aVUnited Kingdom
 p4647
-aVNorth West England
+aVEngland
 p4648
-aa(lp4649
+aVNorth West England
+p4649
+aa(lp4650
 S'Harold Locke'
-p4650
-aS'1923'
 p4651
-aS'Centre'
+aS'1923'
 p4652
-aS'Birkenhead'
+aS'Centre'
 p4653
 aS'12'
 p4654
 aS'9'
+aS'2'
+aS'1'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Birkenhead'
 p4655
-aVEngland
+aVUnited Kingdom
 p4656
-aVNorth West England
+aVEngland
 p4657
-aa(lp4658
+aVNorth West England
+p4658
+aa(lp4659
 S'Carston Catcheside'
-p4659
-aS'1924'
 p4660
-aS'Wing'
+aS'1924'
 p4661
-aS'Sunderland'
+aS'Wing'
 p4662
 aS'8'
 aS'5'
+aS'2'
+aS'1'
 aS'6'
 aS'18'
 p4663
-aVUnited Kingdom
+aS'Sunderland'
 p4664
-aVEngland
+aVUnited Kingdom
 p4665
-aVNorth East England
+aVEngland
 p4666
-aa(lp4667
+aVNorth East England
+p4667
+aa(lp4668
 S'Bunny Chantrill'
-p4668
-aS'1924'
 p4669
-aS'Fullback'
+aS'1924'
 p4670
-aS'Barton Regis'
+aS'Fullback'
 p4671
 aS'4'
 aS'4'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Barton Regis'
 p4672
-aVPO22 9AE
+aVUnited Kingdom
 p4673
-aVEngland
+aVPO22 9AE
 p4674
-aa(lp4675
+aVEngland
+p4675
+aa(lp4676
 S'Jake Jacob'
-p4676
-aS'1924'
 p4677
-aS'Wing'
+aS'1924'
 p4678
-aS'Elham'
+aS'Wing'
 p4679
 aS'5'
 aS'5'
+aS'0'
+aS'0'
 aS'4'
 aS'12'
 p4680
-aVUnited Kingdom
+aS'Elham'
 p4681
-aVEngland
+aVUnited Kingdom
 p4682
-aVSouth East
+aVEngland
 p4683
-aa(lp4684
+aVSouth East
+p4684
+aa(lp4685
 S'Alan Robson'
-p4685
-aS'1924'
 p4686
-aS'Hooker'
+aS'1924'
 p4687
-aS'Lanark'
+aS'Hooker'
 p4688
 aS'5'
 aS'4'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Lanark'
 p4689
-aVML11
+aVUnited Kingdom
 p4690
-aVScotland
+aVML11
 p4691
-aa(lp4692
+aVScotland
+p4692
+aa(lp4693
 S'Arthur Young'
-p4693
-aS'1924'
 p4694
-aS'Scrum-half'
+aS'1924'
 p4695
-aS'Darjeeling'
+aS'Scrum-half'
 p4696
 aS'19'
 p4697
 aS'12'
 p4698
+aS'7'
+aS'0'
 aS'2'
 aS'6'
-aVIndia
+aS'Darjeeling'
 p4699
-aVWest Bengal
+aVIndia
 p4700
-aVDarjiling
+aVWest Bengal
 p4701
-aa(lp4702
+aVDarjiling
+p4702
+aa(lp4703
 S'Chubby Faithfull'
-p4703
-aS'1924'
 p4704
-aS'Prop'
+aS'1924'
 p4705
-aS'Fareham'
+aS'Prop'
 p4706
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Fareham'
 p4707
-aVFareham
+aVUnited Kingdom
 p4708
+aVFareham
+p4709
 ag9
-aa(lp4709
+aa(lp4710
 S'Richard Hamilton-Wickes'
-p4710
-aS'1924'
 p4711
-aS'Wing'
+aS'1924'
 p4712
-aS'Uxbridge'
+aS'Wing'
 p4713
 aS'10'
 p4714
 aS'4'
 aS'4'
+aS'2'
+aS'4'
 aS'12'
 p4715
-aVUnited Kingdom
+aS'Uxbridge'
 p4716
-aVEngland
+aVUnited Kingdom
 p4717
-aVGreater London
+aVEngland
 p4718
-aa(lp4719
+aVGreater London
+p4719
+aa(lp4720
 S'Jim Brough'
-p4720
-aS'1925'
 p4721
-aS'Fullback'
+aS'1925'
 p4722
-aS'Silloth'
+aS'Fullback'
 p4723
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p4724
-aVEngland
-p4725
-aVNorth West England
-p4726
-aa(lp4727
-S'John Gibbs'
-p4728
-aS'1925'
-p4729
-aS'Wing'
-p4730
-aS'Bromley'
-p4731
-aS'7'
-aS'4'
-aS'2'
-aS'6'
-aVUnited Kingdom
-p4732
-aVEngland
-p4733
-aVGreater London
-p4734
-aa(lp4735
-S'Ronald Hillard'
-p4736
-aS'1925'
-p4737
-aS'Prop'
-p4738
-aS'Durham'
-p4739
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Silloth'
+p4724
 aVUnited Kingdom
-p4740
+p4725
 aVEngland
-p4741
-aVNorth East England
-p4742
-aa(lp4743
-S'Harold Kittermaster'
-p4744
+p4726
+aVNorth West England
+p4727
+aa(lp4728
+S'John Gibbs'
+p4729
 aS'1925'
+p4730
+aS'Wing'
+p4731
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'2'
+aS'6'
+aS'Bromley'
+p4732
+aVUnited Kingdom
+p4733
+aVEngland
+p4734
+aVGreater London
+p4735
+aa(lp4736
+S'Ronald Hillard'
+p4737
+aS'1925'
+p4738
+aS'Prop'
+p4739
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Durham'
+p4740
+aVUnited Kingdom
+p4741
+aVEngland
+p4742
+aVNorth East England
+p4743
+aa(lp4744
+S'Harold Kittermaster'
 p4745
-aS'Fly-half'
+aS'1925'
 p4746
-aS'Uppingham'
+aS'Fly-half'
 p4747
 aS'7'
 aS'2'
 aS'3'
+aS'2'
+aS'3'
 aS'9'
-aVUnited Kingdom
+aS'Uppingham'
 p4748
-aVEngland
+aVUnited Kingdom
 p4749
-aVEast Midlands
+aVEngland
 p4750
-aa(lp4751
+aVEast Midlands
+p4751
+aa(lp4752
 S'Rex Armstrong'
-p4752
-aS'1925'
 p4753
-aS'Prop'
+aS'1925'
 p4754
-aS'Newcastle-upon-Tyne'
+aS'Prop'
 p4755
 aS'1'
 aS'1'
 aS'0'
+aS'0'
+aS'0'
 aS'3'
-aVUnited Kingdom
+aS'Newcastle-upon-Tyne'
 p4756
-aVEngland
+aVUnited Kingdom
 p4757
-aVNorth East England
+aVEngland
 p4758
-aa(lp4759
+aVNorth East England
+p4759
+aa(lp4760
 S'Edward Massey'
-p4760
-aS'1925'
 p4761
-aS'Scrum-half'
+aS'1925'
 p4762
-aS'W Derby'
+aS'Scrum-half'
 p4763
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'W Derby'
 p4764
-aVEngland
+aVUnited Kingdom
 p4765
-aVNorth West England
+aVEngland
 p4766
-aa(lp4767
+aVNorth West England
+p4767
+aa(lp4768
 S'Joe Periton'
-p4768
-aS'1925'
 p4769
-aS'Flanker'
+aS'1925'
 p4770
-aS'Belfast'
+aS'Flanker'
 p4771
 aS'21'
 p4772
 aS'12'
 p4773
+aS'7'
+aS'2'
 aS'6'
 aS'18'
 p4774
-aVUnited Kingdom
+aS'Belfast'
 p4775
-aVNorthern Ireland
+aVUnited Kingdom
 p4776
-aVCounty Antrim
+aVNorthern Ireland
 p4777
-aa(lp4778
+aVCounty Antrim
+p4778
+aa(lp4779
 S'Richard Lawson'
-p4779
-aS'1925'
 p4780
-aS'No. 8'
+aS'1925'
 p4781
-aS'Workington'
+aS'No. 8'
 p4782
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Workington'
 p4783
-aVEngland
+aVUnited Kingdom
 p4784
-aVNorth West England
+aVEngland
 p4785
-aa(lp4786
+aVNorth West England
+p4786
+aa(lp4787
 S'Roderick MacLennan'
-p4787
-aS'1925'
 p4788
-aS'Prop'
+aS'1925'
 p4789
-aS'Glasgow'
+aS'Prop'
 p4790
 aS'3'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p4791
-aVG
-aVScotland
-p4792
-aa(lp4793
-S'Duncan Cumming'
-p4794
-aS'1925'
-p4795
-aS'No. 8'
-p4796
-aS'Blackburn'
-p4797
-aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'Glasgow'
+p4791
 aVUnited Kingdom
-p4798
-aVEngland
-p4799
-aVNorth West England
-p4800
-aa(lp4801
-S'Stanley Considine'
-p4802
+p4792
+aVG
+aVScotland
+p4793
+aa(lp4794
+S'Duncan Cumming'
+p4795
 aS'1925'
+p4796
+aS'No. 8'
+p4797
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Blackburn'
+p4798
+aVUnited Kingdom
+p4799
+aVEngland
+p4800
+aVNorth West England
+p4801
+aa(lp4802
+S'Stanley Considine'
 p4803
-aS'Wing'
+aS'1925'
 p4804
-aS'Bilasur'
+aS'Wing'
 p4805
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aV\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642
+aS'0'
+aS'0'
+aS'Bilasur'
 p4806
-aV\u062d\u0644\u0628\u062c\u0629
+aV\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642
 p4807
-aV\u0628\u0644\u0627 \u0633\u0648\u0631
+aV\u062d\u0644\u0628\u062c\u0629
 p4808
-aa(lp4809
+aV\u0628\u0644\u0627 \u0633\u0648\u0631
+p4809
+aa(lp4810
 S'Alfred Aslett'
-p4810
-aS'1926'
 p4811
-aS'Centre'
+aS'1926'
 p4812
-aS'Calcutta'
+aS'Centre'
 p4813
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'2'
 aS'6'
-aVIndia
+aS'Calcutta'
 p4814
-aVWest Bengal
+aVIndia
 p4815
-aVKolkata
+aVWest Bengal
 p4816
-aa(lp4817
+aVKolkata
+p4817
+aa(lp4818
 S'Hyde Burton'
-p4818
-aS'1926'
 p4819
-aS'Wing'
+aS'1926'
 p4820
-aS"Bishop's Stortford"
+aS'Wing'
 p4821
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS"Bishop's Stortford"
 p4822
-aVEngland
+aVUnited Kingdom
 p4823
-aVEast of England
+aVEngland
 p4824
-aa(lp4825
+aVEast of England
+p4825
+aa(lp4826
 S'Tim Francis'
-p4826
-aS'1926'
 p4827
-aS'Centre'
+aS'1926'
 p4828
-aS'Uitenhage'
+aS'Centre'
 p4829
 aS'4'
 aS'1'
+aS'2'
+aS'1'
 aS'0'
 aS'8'
-aVSouth Africa
+aS'Uitenhage'
 p4830
-aVEastern Cape
+aVSouth Africa
 p4831
-aVNelson Mandela Bay Metropolitan Municipality
+aVEastern Cape
 p4832
-aa(lp4833
+aVNelson Mandela Bay Metropolitan Municipality
+p4833
+aa(lp4834
 S'Bob Hanvey'
-p4834
-aS'1926'
 p4835
-aS'Prop'
+aS'1926'
 p4836
-aS'Wigton'
+aS'Prop'
 p4837
 aS'4'
 aS'1'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Wigton'
 p4838
-aVEngland
+aVUnited Kingdom
 p4839
-aVNorth West England
+aVEngland
 p4840
-aa(lp4841
+aVNorth West England
+p4841
+aa(lp4842
 S'Edward Stanbury'
-p4842
-aS'1926'
 p4843
-aS'Flanker'
+aS'1926'
 p4844
-aS'Plympton'
+aS'Flanker'
 p4845
 aS'16'
 p4846
 aS'9'
+aS'6'
+aS'1'
 aS'0'
 aS'13'
 p4847
-aVUnited Kingdom
+aS'Plympton'
 p4848
-aVEngland
+aVUnited Kingdom
 p4849
-aVSouth West England
+aVEngland
 p4850
-aa(lp4851
+aVSouth West England
+p4851
+aa(lp4852
 S'John Worton'
-p4852
-aS'1926'
 p4853
-aS'Scrum-half'
+aS'1926'
 p4854
-aS'Fulham'
+aS'Scrum-half'
 p4855
 aS'2'
 aS'1'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Fulham'
 p4856
-aVEngland
+aVUnited Kingdom
 p4857
-aVGreater London
+aVEngland
 p4858
-aa(lp4859
+aVGreater London
+p4859
+aa(lp4860
 S'Thomas Devitt'
-p4860
-aS'1926'
 p4861
-aS'Wing'
+aS'1926'
 p4862
-aS'Surrey'
+aS'Wing'
 p4863
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Surrey'
 p4864
-aVEngland
+aVUnited Kingdom
 p4865
-aVSouth East
+aVEngland
 p4866
-aa(lp4867
+aVSouth East
+p4867
+aa(lp4868
 S'Leslie Haslett'
-p4868
-aS'1926'
 p4869
-aS'Lock'
+aS'1926'
 p4870
-aS'Pontypool'
+aS'Lock'
 p4871
 aS'2'
 aS'1'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Pontypool'
 p4872
-aVNP4
+aVUnited Kingdom
 p4873
-aVWales
+aVNP4
 p4874
-aa(lp4875
+aVWales
+p4875
+aa(lp4876
 S'Bill Tucker'
-p4876
-aS'1926'
 p4877
-aS'No. 8'
+aS'1926'
 p4878
-aS'1903'
+aS'No. 8'
 p4879
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
-aVNorge
+aS'0'
+aS'1903'
 p4880
-aVTroms
+aVNorge
 p4881
-aVHarstad
+aVTroms
 p4882
-aa(lp4883
+aVHarstad
+p4883
+aa(lp4884
 S'James Webb'
-p4884
-aS'1926'
 p4885
-aS'No. 8'
+aS'1926'
 p4886
-aS'Northampton'
+aS'No. 8'
 p4887
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Northampton'
 p4888
-aVEngland
+aVUnited Kingdom
 p4889
-aVEast Midlands
+aVEngland
 p4890
-aa(lp4891
+aVEast Midlands
+p4891
+aa(lp4892
 S'Thomas Coulson'
-p4892
-aS'1927'
 p4893
-aS'No. 8'
+aS'1927'
 p4894
-aS'Bristol'
+aS'No. 8'
 p4895
 aS'3'
 aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Bristol'
 p4896
-aVEngland
+aVUnited Kingdom
 p4897
-aVSouth West England
+aVEngland
 p4898
-aa(lp4899
+aVSouth West England
+p4899
+aa(lp4900
 S'Jerry Hanley'
-p4900
-aS'1927'
 p4901
-aS'Flanker'
+aS'1927'
 p4902
-aS'Cork'
+aS'Flanker'
 p4903
 aS'7'
 aS'5'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
-aVRepublic of Ireland
+aS'Cork'
 p4904
-aVMunster
+aVRepublic of Ireland
 p4905
-aVCounty Cork
+aVMunster
 p4906
-aa(lp4907
+aVCounty Cork
+p4907
+aa(lp4908
 S'Colin Laird'
-p4908
-aS'1927'
 p4909
-aS'Fly-half'
+aS'1927'
 p4910
-aS'London'
+aS'Fly-half'
 p4911
 aS'10'
 p4912
 aS'8'
+aS'2'
+aS'0'
 aS'5'
 aS'15'
 p4913
-aVUnited Kingdom
+aS'London'
 p4914
-aVEngland
+aVUnited Kingdom
 p4915
-aVGreater London
+aVEngland
 p4916
-aa(lp4917
+aVGreater London
+p4917
+aa(lp4918
 S'Monkey Sellar'
-p4918
-aS'1927'
 p4919
-aS'Fullback'
+aS'1927'
 p4920
-aS'Lewisham'
+aS'Fullback'
 p4921
 aS'7'
 aS'6'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Lewisham'
 p4922
-aVEngland
+aVUnited Kingdom
 p4923
-aVGreater London
+aVEngland
 p4924
-aa(lp4925
+aVGreater London
+p4925
+aa(lp4926
 S'Kendrick Stark'
-p4926
-aS'1927'
 p4927
-aS'Prop'
+aS'1927'
 p4928
-aS'Edmonton'
+aS'Prop'
 p4929
 aS'9'
 aS'7'
+aS'2'
+aS'0'
 aS'0'
 aS'5'
-aVCanada
+aS'Edmonton'
 p4930
-aVAlberta
+aVCanada
 p4931
-aVEdmonton
+aVAlberta
 p4932
-aa(lp4933
+aVEdmonton
+p4933
+aa(lp4934
 S'Harry Davies'
-p4934
-aS'1927'
 p4935
-aS'Flanker'
+aS'1927'
 p4936
-aS'Stockport'
+aS'Flanker'
 p4937
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Stockport'
 p4938
-aVEngland
+aVUnited Kingdom
 p4939
-aVNorth West England
+aVEngland
 p4940
-aa(lp4941
+aVNorth West England
+p4941
+aa(lp4942
 S'Wallace Eyres'
-p4942
-aS'1927'
 p4943
-aS'No. 8'
+aS'1927'
 p4944
-aS'Barton Regis'
+aS'No. 8'
 p4945
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Barton Regis'
 p4946
-aVPO22 9AE
+aVUnited Kingdom
 p4947
-aVEngland
+aVPO22 9AE
 p4948
-aa(lp4949
+aVEngland
+p4949
+aa(lp4950
 S'Douglas Law'
-p4950
-aS'1927'
 p4951
-aS'Prop'
+aS'1927'
 p4952
-aS'Huddersfield'
+aS'Prop'
 p4953
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Huddersfield'
 p4954
-aVEngland
+aVUnited Kingdom
 p4955
-aVYorkshire and the Humber
+aVEngland
 p4956
-aa(lp4957
+aVYorkshire and the Humber
+p4957
+aa(lp4958
 S'William Pratten'
-p4958
-aS'1927'
 p4959
-aS'Lock'
+aS'1927'
 p4960
-aS'Lewisham'
+aS'Lock'
 p4961
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Lewisham'
 p4962
-aVEngland
+aVUnited Kingdom
 p4963
-aVGreater London
+aVEngland
 p4964
-aa(lp4965
+aVGreater London
+p4965
+aa(lp4966
 S'William Alexander'
-p4966
-aS'1927'
 p4967
-aS'Wing'
+aS'1927'
 p4968
-aS'?'
+aS'Wing'
+p4969
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp4969
+aa(lp4970
 S'Colin Bishop'
-p4970
-aS'1927'
 p4971
-aS'Fly-half'
+aS'1927'
 p4972
-aS'Hampstead'
+aS'Fly-half'
 p4973
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Hampstead'
 p4974
-aVEngland
+aVUnited Kingdom
 p4975
-aVGreater London
+aVEngland
 p4976
-aa(lp4977
+aVGreater London
+p4977
+aa(lp4978
 S'Ralph Buckingham'
-p4978
-aS'1927'
 p4979
-aS'Centre'
+aS'1927'
 p4980
-aS'Blaby'
+aS'Centre'
 p4981
 aS'1'
 aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p4982
-aVEngland
-p4983
-aVEast Midlands
-p4984
-aa(lp4985
-S'Jack Wallens'
-p4986
-aS'1927'
-p4987
-aS'Fullback'
-p4988
-aS'Birkenhead'
-p4989
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Blaby'
+p4982
 aVUnited Kingdom
-p4990
+p4983
 aVEngland
+p4984
+aVEast Midlands
+p4985
+aa(lp4986
+S'Jack Wallens'
+p4987
+aS'1927'
+p4988
+aS'Fullback'
+p4989
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Birkenhead'
+p4990
+aVUnited Kingdom
 p4991
-aVNorth West England
+aVEngland
 p4992
-aa(lp4993
+aVNorth West England
+p4993
+aa(lp4994
 S'Carl Aarvold'
-p4994
-aS'1928'
 p4995
-aS'Centre'
+aS'1928'
 p4996
-aS'Hartlepool'
+aS'Centre'
 p4997
 aS'21'
 p4998
 aS'10'
 p4999
+aS'10'
+p5000
+aS'1'
 aS'7'
 aS'21'
-p5000
-aVUnited Kingdom
 p5001
-aVEngland
+aS'Hartlepool'
 p5002
-aVNorth East England
+aVUnited Kingdom
 p5003
-aa(lp5004
-S'William Kirwan-Taylor'
+aVEngland
+p5004
+aVNorth East England
 p5005
-aS'1928'
-p5006
-aS'Wing'
+aa(lp5006
+S'William Kirwan-Taylor'
 p5007
-aS'Surrey'
+aS'1928'
 p5008
+aS'Wing'
+p5009
 aS'5'
 aS'5'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
-aVUnited Kingdom
-p5009
-aVEngland
+aS'Surrey'
 p5010
-aVSouth East
-p5011
-aa(lp5012
-S'Thomas Lawson'
-p5013
-aS'1928'
-p5014
-aS'No. 8'
-p5015
-aS'Cockermouth'
-p5016
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aVUnited Kingdom
-p5017
+p5011
 aVEngland
-p5018
-aVNorth West England
-p5019
-aa(lp5020
-S'James Richardson'
-p5021
+p5012
+aVSouth East
+p5013
+aa(lp5014
+S'Thomas Lawson'
+p5015
 aS'1928'
-p5022
-aS'Centre'
+p5016
+aS'No. 8'
+p5017
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cockermouth'
+p5018
+aVUnited Kingdom
+p5019
+aVEngland
+p5020
+aVNorth West England
+p5021
+aa(lp5022
+S'James Richardson'
 p5023
-aS'Cheshire'
+aS'1928'
 p5024
+aS'Centre'
+p5025
 aS'5'
 aS'5'
+aS'0'
+aS'0'
 aS'1'
 aS'23'
-p5025
-aVUnited States of America
 p5026
-aVConnecticut
+aS'Cheshire'
 p5027
-aVNew Haven County
+aVUnited States of America
 p5028
-aa(lp5029
-S'David Turquand-Young'
+aVConnecticut
+p5029
+aVNew Haven County
 p5030
-aS'1928'
-p5031
-aS'Lock'
+aa(lp5031
+S'David Turquand-Young'
 p5032
-aS'London'
+aS'1928'
 p5033
-aS'5'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Lock'
 p5034
-aVEngland
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'London'
 p5035
-aVGreater London
+aVUnited Kingdom
 p5036
-aa(lp5037
-S'Godfrey Palmer'
+aVEngland
+p5037
+aVGreater London
 p5038
-aS'1928'
-p5039
-aS'Wing'
+aa(lp5039
+S'Godfrey Palmer'
 p5040
-aS'Steyning'
+aS'1928'
 p5041
-aS'3'
-aS'3'
-aS'2'
-aS'6'
-aVUnited Kingdom
-p5042
-aVEngland
-p5043
-aVSouth East
-p5044
-aa(lp5045
-S'Doug Prentice'
-p5046
-aS'1928'
-p5047
-aS'No. 8'
-p5048
-aS'Leicester'
-p5049
-aS'5'
-aS'3'
-aS'0'
-aS'6'
-aVUnited Kingdom
-p5050
-aVEngland
-p5051
-aVEast Midlands
-p5052
-aa(lp5053
-S'Robert Sparks'
-p5054
-aS'1928'
-p5055
-aS'Prop'
-p5056
-aS'E Stonehouse'
-p5057
-aS'9'
-aS'4'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5058
-aVPL1 4LS
-p5059
-aVEngland
-p5060
-aa(lp5061
-S'Thomas Brown'
-p5062
-aS'1928'
-p5063
-aS'Fullback'
-p5064
-aS'Bristol'
-p5065
-aS'9'
-aS'5'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5066
-aVEngland
-p5067
-aVSouth West England
-p5068
-aa(lp5069
-S'Roy Foulds'
-p5070
-aS'1929'
-p5071
-aS'No. 8'
-p5072
-aS'W Derby'
-p5073
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5074
-aVEngland
-p5075
-aVNorth West England
-p5076
-aa(lp5077
-S'Geoffrey Sladen'
-p5078
-aS'1929'
-p5079
-aS'Centre'
-p5080
-aS'Reigate'
-p5081
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5082
-aVEngland
-p5083
-aVSouth East
-p5084
-aa(lp5085
-S'Robert Smeddle'
-p5086
-aS'1929'
-p5087
 aS'Wing'
-p5088
-aS'Leeds'
-p5089
-aS'4'
-aS'1'
+p5042
+aS'3'
+aS'3'
+aS'0'
+aS'0'
 aS'2'
 aS'6'
+aS'Steyning'
+p5043
 aVUnited Kingdom
-p5090
+p5044
 aVEngland
-p5091
-aVYorkshire and the Humber
-p5092
-aa(lp5093
-S'Jack Swayne'
-p5094
-aS'1929'
-p5095
+p5045
+aVSouth East
+p5046
+aa(lp5047
+S'Doug Prentice'
+p5048
+aS'1928'
+p5049
 aS'No. 8'
+p5050
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'6'
+aS'Leicester'
+p5051
+aVUnited Kingdom
+p5052
+aVEngland
+p5053
+aVEast Midlands
+p5054
+aa(lp5055
+S'Robert Sparks'
+p5056
+aS'1928'
+p5057
+aS'Prop'
+p5058
+aS'9'
+aS'4'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'E Stonehouse'
+p5059
+aVUnited Kingdom
+p5060
+aVPL1 4LS
+p5061
+aVEngland
+p5062
+aa(lp5063
+S'Thomas Brown'
+p5064
+aS'1928'
+p5065
+aS'Fullback'
+p5066
+aS'9'
+aS'5'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Bristol'
+p5067
+aVUnited Kingdom
+p5068
+aVEngland
+p5069
+aVSouth West England
+p5070
+aa(lp5071
+S'Roy Foulds'
+p5072
+aS'1929'
+p5073
+aS'No. 8'
+p5074
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'W Derby'
+p5075
+aVUnited Kingdom
+p5076
+aVEngland
+p5077
+aVNorth West England
+p5078
+aa(lp5079
+S'Geoffrey Sladen'
+p5080
+aS'1929'
+p5081
+aS'Centre'
+p5082
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Reigate'
+p5083
+aVUnited Kingdom
+p5084
+aVEngland
+p5085
+aVSouth East
+p5086
+aa(lp5087
+S'Robert Smeddle'
+p5088
+aS'1929'
+p5089
+aS'Wing'
+p5090
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'2'
+aS'6'
+aS'Leeds'
+p5091
+aVUnited Kingdom
+p5092
+aVEngland
+p5093
+aVYorkshire and the Humber
+p5094
+aa(lp5095
+S'Jack Swayne'
 p5096
-aS'Musoorie'
+aS'1929'
 p5097
+aS'No. 8'
+p5098
 aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'0'
+aS'Musoorie'
+p5099
 aS'g'
 aS'n'
 aS'i'
-aa(lp5098
+aa(lp5100
 S'Herbert Whitley'
-p5099
-aS'1924'
-p5100
-aS'Scrum-half'
 p5101
-aS'Morpeth'
+aS'1924'
 p5102
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5103
-aVEngland
-p5104
-aVNorth East England
-p5105
-aa(lp5106
-S'Harry Wilkinson'
-p5107
-aS'1929'
-p5108
-aS'Flanker'
-p5109
-aS'Halifax'
-p5110
-aS'4'
-aS'2'
-aS'2'
-aS'6'
-aVCanada
-p5111
-aVNova Scotia
-p5112
-aVHalifax County
-p5113
-aa(lp5114
-S'Guy Wilson'
-p5115
-aS'1929'
-p5116
-aS'Wing'
-p5117
-aS'Leigh'
-p5118
-aS'2'
-aS'1'
-aS'0'
-aS'4'
-aVUnited Kingdom
-p5119
-aVEngland
-p5120
-aVNorth West England
-p5121
-aa(lp5122
-S'Thomas Harris'
-p5123
-aS'1929'
-p5124
-aS'No. 8'
-p5125
-aS'Northampton'
-p5126
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5127
-aVEngland
-p5128
-aVEast Midlands
-p5129
-aa(lp5130
-S'Stephen Meikle'
-p5131
-aS'1929'
-p5132
-aS'Fly-half'
-p5133
-aS'West Derby'
-p5134
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p5135
-aVEngland
-p5136
-aVNorth West England
-p5137
-aa(lp5138
-S'Tony Novis'
-p5139
-aS'1929'
-p5140
-aS'Wing'
-p5141
-aS'1906'
-p5142
-aS'10'
-p5143
-aS'4'
-aS'6'
-aS'18'
-p5144
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p5145
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p5146
-aVDaïra Bougaa
-p5147
-aa(lp5148
-S'Henry Rew'
-p5149
-aS'1929'
-p5150
-aS'Prop'
-p5151
-aS'Exeter'
-p5152
-aS'14'
-p5153
-aS'6'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5154
-aVEngland
-p5155
-aVSouth West England
-p5156
-aa(lp5157
-S'Edward Richards'
-p5158
-aS'1929'
-p5159
 aS'Scrum-half'
-p5160
-aS'E Stonehouse'
-p5161
+p5103
+aS'4'
+aS'1'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'Morpeth'
+p5104
 aVUnited Kingdom
-p5162
-aVPL1 4LS
-p5163
+p5105
 aVEngland
-p5164
-aa(lp5165
-S'Eric Coley'
-p5166
+p5106
+aVNorth East England
+p5107
+aa(lp5108
+S'Harry Wilkinson'
+p5109
 aS'1929'
-p5167
-aS'No. 8'
-p5168
-aS'Northampton'
-p5169
+p5110
+aS'Flanker'
+p5111
+aS'4'
 aS'2'
-aS'1'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p5170
-aVEngland
-p5171
-aVEast Midlands
-p5172
-aa(lp5173
-S'Charles Gummer'
-p5174
-aS'1929'
-p5175
-aS'No. 8'
-p5176
-aS'Surrey'
-p5177
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p5178
-aVEngland
-p5179
-aVSouth East
-p5180
-aa(lp5181
-S'Sam Martindale'
-p5182
-aS'1929'
-p5183
-aS'Lock'
-p5184
-aS'Kendal'
-p5185
 aS'2'
-aS'1'
 aS'0'
-aS'0'
-aVUnited Kingdom
-p5186
-aVEngland
-p5187
-aVNorth West England
-p5188
-aa(lp5189
-S'Jim Reeve'
-p5190
+aS'2'
+aS'6'
+aS'Halifax'
+p5112
+aVCanada
+p5113
+aVNova Scotia
+p5114
+aVHalifax County
+p5115
+aa(lp5116
+S'Guy Wilson'
+p5117
 aS'1929'
-p5191
+p5118
 aS'Wing'
-p5192
-aS'Kensington'
-p5193
-aS'12'
-p5194
+p5119
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'4'
+aS'Leigh'
+p5120
+aVUnited Kingdom
+p5121
+aVTN11 8RU
+p5122
+aVEngland
+p5123
+aa(lp5124
+S'Thomas Harris'
+p5125
+aS'1929'
+p5126
+aS'No. 8'
+p5127
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Northampton'
+p5128
+aVUnited Kingdom
+p5129
+aVEngland
+p5130
+aVEast Midlands
+p5131
+aa(lp5132
+S'Stephen Meikle'
+p5133
+aS'1929'
+p5134
+aS'Fly-half'
+p5135
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'West Derby'
+p5136
+aVUnited Kingdom
+p5137
+aVEngland
+p5138
+aVNorth West England
+p5139
+aa(lp5140
+S'Tony Novis'
+p5141
+aS'1929'
+p5142
+aS'Wing'
+p5143
+aS'10'
+p5144
 aS'4'
 aS'6'
+aS'0'
+aS'6'
 aS'18'
-p5195
-aVUnited Kingdom
-p5196
-aVEngland
-p5197
-aVGreater London
-p5198
-aa(lp5199
-S'Roger Spong'
-p5200
+p5145
+aS'1906'
+p5146
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p5147
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p5148
+aVDaïra Bougaa
+p5149
+aa(lp5150
+S'Henry Rew'
+p5151
 aS'1929'
-p5201
-aS'Fly-half'
-p5202
-aS'Barnet'
-p5203
-aS'13'
-p5204
-aS'4'
+p5152
+aS'Prop'
+p5153
+aS'14'
+p5154
+aS'6'
+aS'6'
+aS'2'
 aS'0'
 aS'0'
+aS'Exeter'
+p5155
 aVUnited Kingdom
-p5205
-aVEN4 8RW
-p5206
+p5156
 aVEngland
+p5157
+aVSouth West England
+p5158
+aa(lp5159
+S'Edward Richards'
+p5160
+aS'1929'
+p5161
+aS'Scrum-half'
+p5162
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'E Stonehouse'
+p5163
+aVUnited Kingdom
+p5164
+aVPL1 4LS
+p5165
+aVEngland
+p5166
+aa(lp5167
+S'Eric Coley'
+p5168
+aS'1929'
+p5169
+aS'No. 8'
+p5170
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Northampton'
+p5171
+aVUnited Kingdom
+p5172
+aVEngland
+p5173
+aVEast Midlands
+p5174
+aa(lp5175
+S'Charles Gummer'
+p5176
+aS'1929'
+p5177
+aS'No. 8'
+p5178
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Surrey'
+p5179
+aVUnited Kingdom
+p5180
+aVEngland
+p5181
+aVSouth East
+p5182
+aa(lp5183
+S'Sam Martindale'
+p5184
+aS'1929'
+p5185
+aS'Lock'
+p5186
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Kendal'
+p5187
+aVIndonesia
+p5188
+aVJawa Tengah
+p5189
+aVKendal
+p5190
+aa(lp5191
+S'Jim Reeve'
+p5192
+aS'1929'
+p5193
+aS'Wing'
+p5194
+aS'12'
+p5195
+aS'4'
+aS'6'
+aS'2'
+aS'6'
+aS'18'
+p5196
+aS'Kensington'
+p5197
+aVUnited Kingdom
+p5198
+aVEngland
+p5199
+aVGreater London
+p5200
+aa(lp5201
+S'Roger Spong'
+p5202
+aS'1929'
+p5203
+aS'Fly-half'
+p5204
+aS'13'
+p5205
+aS'4'
+aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS'Barnet'
+p5206
+aVFrance
 p5207
-aa(lp5208
-S'John Askew'
+aVFrance métropolitaine
+p5208
+aVFranche-Comté
 p5209
-aS'1930'
-p5210
-aS'Fullback'
+aa(lp5210
+S'John Askew'
 p5211
-aS'Gateshead'
+aS'1930'
 p5212
+aS'Fullback'
+p5213
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p5213
-aVEngland
+aS'0'
+aS'Gateshead'
 p5214
-aVNorth East England
+aVUnited Kingdom
 p5215
-aa(lp5216
-S'Alfred Bateson'
+aVEngland
+p5216
+aVNorth East England
 p5217
-aS'1930'
-p5218
-aS'Prop'
+aa(lp5218
+S'Alfred Bateson'
 p5219
-aS'Yorks'
+aS'1930'
 p5220
+aS'Prop'
+p5221
 aS'4'
 aS'2'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVDeutschland
-p5221
-aV10965
+aS'Yorks'
 p5222
-aVBerlin
+aVDeutschland
 p5223
-aa(lp5224
-S'Brian Black'
+aV10965
+p5224
+aVBerlin
 p5225
-aS'1930'
-p5226
-aS'Lock'
+aa(lp5226
+S'Brian Black'
 p5227
-aS'1907'
+aS'1930'
 p5228
-aS'15'
+aS'Lock'
 p5229
+aS'15'
+p5230
 aS'4'
+aS'9'
+aS'2'
 aS'2'
 aS'34'
-p5230
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
 p5231
-aVSétif - \u0633\u0637\u064a\u0641\u200e
+aS'1907'
 p5232
-aVDraa Kebila
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
 p5233
-aa(lp5234
-S'Jeff Forrest'
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p5234
+aVDraa Kebila
 p5235
-aS'1930'
-p5236
-aS'Lock'
+aa(lp5236
+S'Jeff Forrest'
 p5237
-aS'Barnet'
+aS'1930'
 p5238
-aS'10'
+aS'Lock'
 p5239
+aS'10'
+p5240
 aS'4'
+aS'4'
+aS'2'
 aS'0'
 aS'2'
-aVUnited Kingdom
-p5240
-aVEN4 8RW
+aS'Barnet'
 p5241
-aVEngland
+aVFrance
 p5242
-aa(lp5243
-S'Peter Howard'
+aVFrance métropolitaine
+p5243
+aVFranche-Comté
 p5244
-aS'1930'
-p5245
-aS'No. 8'
+aa(lp5245
+S'Peter Howard'
 p5246
-aS'Maidenhead'
+aS'1930'
 p5247
+aS'No. 8'
+p5248
 aS'8'
 aS'2'
+aS'4'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p5248
-aVEngland
+aS'Maidenhead'
 p5249
-aVSouth East
+aVUnited Kingdom
 p5250
-aa(lp5251
-S'Joe Kendrew'
+aVEngland
+p5251
+aVSouth East
 p5252
-aS'1930'
-p5253
-aS'Prop'
+aa(lp5253
+S'Joe Kendrew'
 p5254
-aS'Barnstaple'
+aS'1930'
 p5255
-aS'10'
+aS'Prop'
 p5256
+aS'10'
+p5257
 aS'5'
+aS'3'
+aS'2'
 aS'0'
 aS'2'
-aVUnited Kingdom
-p5257
-aVEngland
+aS'Barnstaple'
 p5258
-aVSouth West England
+aVUnited Kingdom
 p5259
-aa(lp5260
-S'Frank Malir'
+aVEngland
+p5260
+aVSouth West England
 p5261
-aS'1930'
-p5262
-aS'Centre'
+aa(lp5262
+S'Frank Malir'
 p5263
-aS'1905'
+aS'1930'
 p5264
+aS'Centre'
+p5265
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p5265
-aVSétif - \u0633\u0637\u064a\u0641\u200e
+aS'1905'
 p5266
-aVDaïra Salah Bey
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
 p5267
-aa(lp5268
-S'Matthew Robson'
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p5268
+aVDaïra Salah Bey
 p5269
-aS'1930'
-p5270
-aS'Centre'
+aa(lp5270
+S'Matthew Robson'
 p5271
-aS'Bellingham'
+aS'1930'
 p5272
+aS'Centre'
+p5273
 aS'4'
 aS'2'
 aS'1'
+aS'1'
+aS'1'
 aS'3'
-aVUnited States of America
-p5273
-aVWashington
+aS'Bellingham'
 p5274
-aVWhatcom County
+aVUnited States of America
 p5275
-aa(lp5276
-S'Wilf Sobey'
+aVWashington
+p5276
+aVWhatcom County
 p5277
-aS'1930'
-p5278
-aS'Scrum-half'
+aa(lp5278
+S'Wilf Sobey'
 p5279
-aS'1905'
+aS'1930'
 p5280
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p5281
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p5282
-aVDaïra Salah Bey
-p5283
-aa(lp5284
-S'Alan Key'
-p5285
-aS'1930'
-p5286
 aS'Scrum-half'
-p5287
-aS'Amersham'
-p5288
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5289
-aVEngland
-p5290
-aVSouth East
-p5291
-aa(lp5292
-S'Peter Brook'
-p5293
-aS'1930'
-p5294
-aS'Flanker'
-p5295
-aS'Thornton Heath'
-p5296
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5297
-aVEngland
-p5298
-aVGreater London
-p5299
-aa(lp5300
-S'John Hubbard'
-p5301
-aS'1930'
-p5302
-aS'Fullback'
-p5303
-aS'Woolwich'
-p5304
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5305
-aVEngland
-p5306
-aVGreater London
-p5307
-aa(lp5308
-S'Christopher Tanner'
-p5309
-aS'1930'
-p5310
-aS'Wing'
-p5311
-aS'Cheltenham'
-p5312
+p5281
 aS'5'
 aS'2'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'1905'
+p5282
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p5283
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p5284
+aVDaïra Salah Bey
+p5285
+aa(lp5286
+S'Alan Key'
+p5287
+aS'1930'
+p5288
+aS'Scrum-half'
+p5289
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Amersham'
+p5290
+aVUnited Kingdom
+p5291
+aVEngland
+p5292
+aVSouth East
+p5293
+aa(lp5294
+S'Peter Brook'
+p5295
+aS'1930'
+p5296
+aS'Flanker'
+p5297
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Thornton Heath'
+p5298
+aVUnited Kingdom
+p5299
+aVEngland
+p5300
+aVGreater London
+p5301
+aa(lp5302
+S'John Hubbard'
+p5303
+aS'1930'
+p5304
+aS'Fullback'
+p5305
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Woolwich'
+p5306
+aVUnited Kingdom
+p5307
+aVEngland
+p5308
+aVGreater London
+p5309
+aa(lp5310
+S'Christopher Tanner'
+p5311
+aS'1930'
+p5312
+aS'Wing'
+p5313
+aS'5'
+aS'2'
+aS'2'
+aS'1'
 aS'1'
 aS'3'
-aVUnited Kingdom
-p5313
-aVEngland
+aS'Cheltenham'
 p5314
-aVSouth West England
+aVUnited Kingdom
 p5315
-aa(lp5316
-S'Jimmy Barrington'
+aVEngland
+p5316
+aVSouth West England
 p5317
-aS'1931'
-p5318
-aS'Fly-half'
+aa(lp5318
+S'Jimmy Barrington'
 p5319
-aS'Bridgwater'
+aS'1931'
 p5320
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Fly-half'
 p5321
-aVTA6
-p5322
-aVEngland
-p5323
-aa(lp5324
-S'Lawrence Bedford'
-p5325
-aS'1931'
-p5326
-aS'Fullback'
-p5327
-aS'Leeds'
-p5328
 aS'2'
 aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5329
-aVEngland
-p5330
-aVYorkshire and the Humber
-p5331
-aa(lp5332
-S'Maurice Bonaventura'
-p5333
-aS'1931'
-p5334
-aS'Prop'
-p5335
-aS'?'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'Bridgwater'
+p5322
+aVUnited Kingdom
+p5323
+aVTA6
+p5324
+aVEngland
+p5325
+aa(lp5326
+S'Lawrence Bedford'
+p5327
+aS'1931'
+p5328
+aS'Fullback'
+p5329
+aS'2'
 aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Leeds'
+p5330
+aVUnited Kingdom
+p5331
+aVEngland
+p5332
+aVYorkshire and the Humber
+p5333
+aa(lp5334
+S'Maurice Bonaventura'
+p5335
+aS'1931'
+p5336
+aS'Prop'
+p5337
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp5336
+aa(lp5338
 S'Don Burland'
-p5337
-aS'1931'
-p5338
-aS'Centre'
 p5339
-aS'Bristol'
+aS'1931'
 p5340
+aS'Centre'
+p5341
 aS'8'
 aS'3'
+aS'4'
+aS'1'
 aS'3'
 aS'23'
-p5341
-aVUnited Kingdom
 p5342
-aVEngland
+aS'Bristol'
 p5343
-aVSouth West England
+aVUnited Kingdom
 p5344
-aa(lp5345
-S'Richard Davey'
+aVEngland
+p5345
+aVSouth West England
 p5346
-aS'1931'
-p5347
-aS'Flanker'
+aa(lp5347
+S'Richard Davey'
 p5348
-aS'Paddington'
+aS'1931'
 p5349
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Flanker'
 p5350
-aVEngland
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Paddington'
 p5351
-aVGreater London
+aVUnited Kingdom
 p5352
-aa(lp5353
-S'Maurice McCanlis'
+aVEngland
+p5353
+aVGreater London
 p5354
-aS'1931'
-p5355
-aS'Centre'
+aa(lp5355
+S'Maurice McCanlis'
 p5356
-aS'Quetta'
+aS'1931'
 p5357
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
+aS'Centre'
 p5358
-aV87300
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Quetta'
 p5359
-aV\u0628\u0644\u0648\u0686\u0633\u062a\u0627\u0646 / Balochistan
+aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
 p5360
-aa(lp5361
-S'Brian Pope'
+aV87300
+p5361
+aV\u0628\u0644\u0648\u0686\u0633\u062a\u0627\u0646 / Balochistan
 p5362
-aS'1931'
-p5363
-aS'Scrum-half'
+aa(lp5363
+S'Brian Pope'
 p5364
-aS'Barnet'
+aS'1931'
 p5365
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Scrum-half'
 p5366
-aVEN4 8RW
+aS'3'
+aS'0'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Barnet'
 p5367
-aVEngland
+aVFrance
 p5368
-aa(lp5369
-S'Deneys Swayne'
+aVFrance métropolitaine
+p5369
+aVFranche-Comté
 p5370
-aS'1931'
-p5371
-aS'Flanker'
+aa(lp5371
+S'Deneys Swayne'
 p5372
-aS'?'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp5373
-S'Tinny Dean'
+aS'1931'
+p5373
+aS'Flanker'
 p5374
-aS'1931'
-p5375
-aS'Scrum-half'
-p5376
-aS'Lewisham'
-p5377
 aS'1'
 aS'0'
 aS'0'
-aS'0'
-aVUnited Kingdom
-p5378
-aVEngland
-p5379
-aVGreater London
-p5380
-aa(lp5381
-S'Pop Dunkley'
-p5382
-aS'1931'
-p5383
-aS'No. 8'
-p5384
-aS'Daventry'
-p5385
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5386
-aVEngland
-p5387
-aVEast Midlands
-p5388
-aa(lp5389
-S'Gordon Gregory'
-p5390
-aS'1931'
-p5391
-aS'Hooker'
-p5392
-aS'Taunton'
-p5393
-aS'13'
-p5394
-aS'6'
-aS'0'
-aS'4'
-aVUnited Kingdom
-p5395
-aVEngland
-p5396
-aVSouth West England
-p5397
-aa(lp5398
-S'Ernest Harding'
-p5399
-aS'1931'
-p5400
-aS'No. 8'
-p5401
-aS'Mile End'
-p5402
 aS'1'
 aS'0'
 aS'0'
-aS'0'
-aVUnited Kingdom
-p5403
-aVE3 5AX
-p5404
-aVEngland
-p5405
-aa(lp5406
-S'Cliff Harrison'
-p5407
-aS'1931'
-p5408
-aS'Wing'
-p5409
-aS'Hartlepool'
-p5410
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5411
-aVEngland
-p5412
-aVNorth East England
-p5413
-aa(lp5414
-S'Peter Hordern'
-p5415
-aS'1931'
-p5416
-aS'Flanker'
-p5417
-aS'Berkhampstead'
-p5418
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5419
-aVEngland
-p5420
-aVGreater London
-p5421
-aa(lp5422
-S'Tom Knowles'
-p5423
-aS'1931'
-p5424
-aS'Fly-half'
-p5425
-aS'W Bromwich'
-p5426
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5427
-aVEngland
-p5428
-aVWest Midlands
-p5429
-aa(lp5430
-S'John Tallent'
-p5431
-aS'1931'
-p5432
-aS'Centre'
-p5433
-aS'Bromley'
-p5434
-aS'5'
-aS'1'
-aS'3'
-aS'9'
-aVUnited Kingdom
-p5435
-aVEngland
-p5436
-aVGreater London
-p5437
-aa(lp5438
-S'Eric Whiteley'
-p5439
-aS'1931'
-p5440
-aS'Fullback'
-p5441
-aS'Croydon'
-p5442
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5443
-aVEngland
-p5444
-aVGreater London
-p5445
-aa(lp5446
-S'Bobby Barr'
-p5447
-aS'1932'
-p5448
-aS'Fullback'
-p5449
-aS'Blisworth'
-p5450
-aS'3'
-aS'1'
-aS'0'
-aS'2'
-aVUnited Kingdom
-p5451
-aVEngland
-p5452
-aVEast Midlands
-p5453
-aa(lp5454
-S'Alfred Carpenter'
-p5455
-aS'1932'
-p5456
-aS'Prop'
-p5457
-aS'Mitcheldean'
-p5458
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5459
-aVGL17 0
-p5460
-aVEngland
-p5461
-aa(lp5462
-S'Ronald Gerrard'
-p5463
-aS'1932'
-p5464
-aS'Centre'
-p5465
-aS'1912'
-p5466
-aS'14'
-p5467
-aS'8'
-aS'0'
-aS'0'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p5468
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p5469
-aVDaïra Beni Aziz
-p5470
-aa(lp5471
-S'Reginald Hobbs'
-p5472
-aS'1932'
-p5473
-aS'Lock'
-p5474
-aS'Elham'
-p5475
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5476
-aVEngland
-p5477
-aVSouth East
-p5478
-aa(lp5479
-S'John Hodgson'
-p5480
-aS'1930'
-p5481
-aS'Flanker'
-p5482
-aS'Gosforth'
-p5483
-aS'9'
-aS'5'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5484
-aVEngland
-p5485
-aVNorth West England
-p5486
-aa(lp5487
-S'Doug Norman'
-p5488
-aS'1932'
-p5489
-aS'Hooker'
-p5490
-aS'Leicester'
-p5491
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5492
-aVEngland
-p5493
-aVEast Midlands
-p5494
-aa(lp5495
-S'Arthur Rowley'
-p5496
-aS'1932'
-p5497
-aS'No. 8'
-p5498
-aS'Coventry'
-p5499
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5500
-aVEngland
-p5501
-aVWest Midlands
-p5502
-aa(lp5503
-S'Les Saxby'
-p5504
-aS'1932'
-p5505
-aS'Flanker'
-p5506
-aS'Bradfield'
-p5507
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5508
-aVEngland
-p5509
-aVSouth East
-p5510
-aa(lp5511
-S'Charles Webb'
-p5512
-aS'1932'
-p5513
-aS'Lock'
-p5514
-aS'Plymouth'
-p5515
-aS'12'
-p5516
-aS'5'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5517
-aVEngland
-p5518
-aVSouth West England
-p5519
-aa(lp5520
-S'Barney Evans'
-p5521
-aS'1932'
-p5522
-aS'Prop'
-p5523
-aS'Kent'
-p5524
-aS'5'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5525
-aVEngland
-p5526
-aVSouth East
-p5527
-aa(lp5528
-S'Walter Elliot'
-p5529
-aS'1932'
-p5530
-aS'Fly-half'
-p5531
-aS'Birkenhead'
-p5532
-aS'7'
-aS'5'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p5533
-aVEngland
-p5534
-aVNorth West England
-p5535
-aa(lp5536
-S'Bernard Gadney'
-p5537
-aS'1932'
-p5538
-aS'Scrum-half'
-p5539
-aS'Oxford'
-p5540
-aS'14'
-p5541
-aS'9'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p5542
-aVEngland
-p5543
-aVSouth East
-p5544
-aa(lp5545
-S'Reginald Roberts'
-p5546
-aS'1932'
-p5547
-aS'Hooker'
-p5548
-aS'Coventry'
-p5549
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5550
-aVEngland
-p5551
-aVWest Midlands
-p5552
-aa(lp5553
-S'Arthur Vaughan-Jones'
-p5554
-aS'1932'
-p5555
-aS'Flanker'
-p5556
-aS'Pontarddulais'
-p5557
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5558
-aVWales
-p5559
-aVSwansea
-p5560
-aa(lp5561
-S'Ray Longland'
-p5562
-aS'1932'
-p5563
-aS'Prop'
-p5564
-aS'Lavendon'
-p5565
-aS'19'
-p5566
-aS'11'
-p5567
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5568
-aVEngland
-p5569
-aVSouth East
-p5570
-aa(lp5571
-S'Reggie Bolton'
-p5572
-aS'1933'
-p5573
-aS'Flanker'
-p5574
-aS'Prescot'
-p5575
-aS'5'
-aS'3'
-aS'2'
-aS'6'
-aVUnited Kingdom
-p5576
-aVEngland
-p5577
-aVNorth West England
-p5578
-aa(lp5579
-S'Lewis Booth'
-p5580
-aS'1933'
-p5581
-aS'Wing'
-p5582
-aS'Leeds'
-p5583
-aS'7'
-aS'3'
-aS'3'
-aS'9'
-aVUnited Kingdom
-p5584
-aVEngland
-p5585
-aVYorkshire and the Humber
-p5586
-aa(lp5587
-S'Anthony Roncoroni'
-p5588
-aS'1933'
-p5589
-aS'Lock'
-p5590
-aS'Hendon'
-p5591
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5592
-aVEngland
-p5593
-aVGreater London
-p5594
-aa(lp5595
-S'Edward Sadler'
-p5596
-aS'1933'
-p5597
-aS'Flanker'
-p5598
-aS'Colchester'
-p5599
-aS'2'
-aS'1'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p5600
-aVEngland
-p5601
-aVEast of England
-p5602
-aa(lp5603
-S'Carlton Troop'
-p5604
-aS'1933'
-p5605
-aS'No. 8'
-p5606
-aS'Malton'
-p5607
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5608
-aVEngland
-p5609
-aVYorkshire and the Humber
-p5610
-aa(lp5611
-S'William Weston'
-p5612
-aS'1933'
-p5613
-aS'Flanker'
-p5614
-aS'Potterspury'
-p5615
-aS'16'
-p5616
-aS'10'
-p5617
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5618
-aVEngland
-p5619
-aVEast Midlands
-p5620
-aa(lp5621
-S'Peter Cranmer'
-p5622
-aS'1934'
-p5623
-aS'Centre'
-p5624
-aS'BHam'
-p5625
-aS'16'
-p5626
-aS'10'
-p5627
-aS'1'
-aS'14'
-p5628
-aVIndia
-p5629
-aV450001
-p5630
-aVMadhya Pradesh
-p5631
-aa(lp5632
-S'John Dicks'
-p5633
-aS'1934'
-p5634
-aS'Lock'
-p5635
-aS'Nthants'
-p5636
-aS'8'
-aS'6'
-aS'0'
-aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp5637
-S'Henry Fry'
-p5638
-aS'1934'
-p5639
+aa(lp5375
+S'Tinny Dean'
+p5376
+aS'1931'
+p5377
+aS'Scrum-half'
+p5378
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Lewisham'
+p5379
+aVUnited Kingdom
+p5380
+aVEngland
+p5381
+aVGreater London
+p5382
+aa(lp5383
+S'Pop Dunkley'
+p5384
+aS'1931'
+p5385
+aS'No. 8'
+p5386
+aS'6'
+aS'2'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Daventry'
+p5387
+aVUnited Kingdom
+p5388
+aVEngland
+p5389
+aVEast Midlands
+p5390
+aa(lp5391
+S'Gordon Gregory'
+p5392
+aS'1931'
+p5393
+aS'Hooker'
+p5394
+aS'13'
+p5395
+aS'6'
+aS'7'
+aS'0'
+aS'0'
+aS'4'
+aS'Taunton'
+p5396
+aVUnited Kingdom
+p5397
+aVEngland
+p5398
+aVSouth West England
+p5399
+aa(lp5400
+S'Ernest Harding'
+p5401
+aS'1931'
+p5402
+aS'No. 8'
+p5403
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Mile End'
+p5404
+aVUnited Kingdom
+p5405
+aVE3 5AX
+p5406
+aVEngland
+p5407
+aa(lp5408
+S'Cliff Harrison'
+p5409
+aS'1931'
+p5410
+aS'Wing'
+p5411
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Hartlepool'
+p5412
+aVUnited Kingdom
+p5413
+aVEngland
+p5414
+aVNorth East England
+p5415
+aa(lp5416
+S'Peter Hordern'
+p5417
+aS'1931'
+p5418
 aS'Flanker'
-p5640
-aS'W Derby'
-p5641
+p5419
+aS'4'
+aS'1'
 aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Berkhampstead'
+p5420
+aVUnited Kingdom
+p5421
+aVEngland
+p5422
+aVGreater London
+p5423
+aa(lp5424
+S'Tom Knowles'
+p5425
+aS'1931'
+p5426
+aS'Fly-half'
+p5427
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'W Bromwich'
+p5428
+aVUnited Kingdom
+p5429
+aVEngland
+p5430
+aVWest Midlands
+p5431
+aa(lp5432
+S'John Tallent'
+p5433
+aS'1931'
+p5434
+aS'Centre'
+p5435
+aS'5'
+aS'1'
+aS'4'
+aS'0'
 aS'3'
+aS'9'
+aS'Bromley'
+p5436
+aVUnited Kingdom
+p5437
+aVEngland
+p5438
+aVGreater London
+p5439
+aa(lp5440
+S'Eric Whiteley'
+p5441
+aS'1931'
+p5442
+aS'Fullback'
+p5443
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Croydon'
+p5444
+aVUnited Kingdom
+p5445
+aVEngland
+p5446
+aVGreater London
+p5447
+aa(lp5448
+S'Bobby Barr'
+p5449
+aS'1932'
+p5450
+aS'Fullback'
+p5451
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'Blisworth'
+p5452
+aVUnited Kingdom
+p5453
+aVEngland
+p5454
+aVEast Midlands
+p5455
+aa(lp5456
+S'Alfred Carpenter'
+p5457
+aS'1932'
+p5458
+aS'Prop'
+p5459
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Mitcheldean'
+p5460
+aVUnited Kingdom
+p5461
+aVGL17 0
+p5462
+aVEngland
+p5463
+aa(lp5464
+S'Ronald Gerrard'
+p5465
+aS'1932'
+p5466
+aS'Centre'
+p5467
+aS'14'
+p5468
+aS'8'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'1912'
+p5469
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p5470
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p5471
+aVDaïra Beni Aziz
+p5472
+aa(lp5473
+S'Reginald Hobbs'
+p5474
+aS'1932'
+p5475
+aS'Lock'
+p5476
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Elham'
+p5477
+aVUnited Kingdom
+p5478
+aVEngland
+p5479
+aVSouth East
+p5480
+aa(lp5481
+S'John Hodgson'
+p5482
+aS'1930'
+p5483
+aS'Flanker'
+p5484
+aS'9'
+aS'5'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Gosforth'
+p5485
+aVUnited Kingdom
+p5486
+aVEngland
+p5487
+aVNorth West England
+p5488
+aa(lp5489
+S'Doug Norman'
+p5490
+aS'1932'
+p5491
+aS'Hooker'
+p5492
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Leicester'
+p5493
+aVUnited Kingdom
+p5494
+aVEngland
+p5495
+aVEast Midlands
+p5496
+aa(lp5497
+S'Arthur Rowley'
+p5498
+aS'1932'
+p5499
+aS'No. 8'
+p5500
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Coventry'
+p5501
+aVUnited Kingdom
+p5502
+aVEngland
+p5503
+aVWest Midlands
+p5504
+aa(lp5505
+S'Les Saxby'
+p5506
+aS'1932'
+p5507
+aS'Flanker'
+p5508
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bradfield'
+p5509
+aVUnited Kingdom
+p5510
+aVEngland
+p5511
+aVSouth East
+p5512
+aa(lp5513
+S'Charles Webb'
+p5514
+aS'1932'
+p5515
+aS'Lock'
+p5516
+aS'12'
+p5517
+aS'5'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'Plymouth'
+p5518
+aVUnited Kingdom
+p5519
+aVEngland
+p5520
+aVSouth West England
+p5521
+aa(lp5522
+S'Barney Evans'
+p5523
+aS'1932'
+p5524
+aS'Prop'
+p5525
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Kent'
+p5526
+aVUnited Kingdom
+p5527
+aVEngland
+p5528
+aVSouth East
+p5529
+aa(lp5530
+S'Walter Elliot'
+p5531
+aS'1932'
+p5532
+aS'Fly-half'
+p5533
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Birkenhead'
+p5534
+aVUnited Kingdom
+p5535
+aVEngland
+p5536
+aVNorth West England
+p5537
+aa(lp5538
+S'Bernard Gadney'
+p5539
+aS'1932'
+p5540
+aS'Scrum-half'
+p5541
+aS'14'
+p5542
+aS'9'
+aS'4'
+aS'1'
+aS'1'
+aS'3'
+aS'Oxford'
+p5543
+aVUnited Kingdom
+p5544
+aVEngland
+p5545
+aVSouth East
+p5546
+aa(lp5547
+S'Reginald Roberts'
+p5548
+aS'1932'
+p5549
+aS'Hooker'
+p5550
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Coventry'
+p5551
+aVUnited Kingdom
+p5552
+aVEngland
+p5553
+aVWest Midlands
+p5554
+aa(lp5555
+S'Arthur Vaughan-Jones'
+p5556
+aS'1932'
+p5557
+aS'Flanker'
+p5558
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontarddulais'
+p5559
+aVUnited Kingdom
+p5560
+aVWales
+p5561
+aVSwansea
+p5562
+aa(lp5563
+S'Ray Longland'
+p5564
+aS'1932'
+p5565
+aS'Prop'
+p5566
+aS'19'
+p5567
+aS'11'
+p5568
+aS'6'
+aS'2'
+aS'0'
+aS'0'
+aS'Lavendon'
+p5569
+aVUnited Kingdom
+p5570
+aVEngland
+p5571
+aVSouth East
+p5572
+aa(lp5573
+S'Reggie Bolton'
+p5574
+aS'1933'
+p5575
+aS'Flanker'
+p5576
+aS'5'
+aS'3'
+aS'2'
+aS'0'
 aS'2'
 aS'6'
+aS'Prescot'
+p5577
 aVUnited Kingdom
-p5642
+p5578
 aVEngland
-p5643
+p5579
 aVNorth West England
-p5644
-aa(lp5645
-S'Graham Meikle'
-p5646
-aS'1934'
-p5647
+p5580
+aa(lp5581
+S'Lewis Booth'
+p5582
+aS'1933'
+p5583
 aS'Wing'
+p5584
+aS'7'
+aS'3'
+aS'3'
+aS'1'
+aS'3'
+aS'9'
+aS'Leeds'
+p5585
+aVUnited Kingdom
+p5586
+aVEngland
+p5587
+aVYorkshire and the Humber
+p5588
+aa(lp5589
+S'Anthony Roncoroni'
+p5590
+aS'1933'
+p5591
+aS'Lock'
+p5592
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Hendon'
+p5593
+aVUnited Kingdom
+p5594
+aVEngland
+p5595
+aVGreater London
+p5596
+aa(lp5597
+S'Edward Sadler'
+p5598
+aS'1933'
+p5599
+aS'Flanker'
+p5600
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Colchester'
+p5601
+aVUnited Kingdom
+p5602
+aVEngland
+p5603
+aVEast of England
+p5604
+aa(lp5605
+S'Carlton Troop'
+p5606
+aS'1933'
+p5607
+aS'No. 8'
+p5608
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Malton'
+p5609
+aVUnited Kingdom
+p5610
+aVEngland
+p5611
+aVYorkshire and the Humber
+p5612
+aa(lp5613
+S'William Weston'
+p5614
+aS'1933'
+p5615
+aS'Flanker'
+p5616
+aS'16'
+p5617
+aS'10'
+p5618
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'Potterspury'
+p5619
+aVUnited Kingdom
+p5620
+aVEngland
+p5621
+aVEast Midlands
+p5622
+aa(lp5623
+S'Peter Cranmer'
+p5624
+aS'1934'
+p5625
+aS'Centre'
+p5626
+aS'16'
+p5627
+aS'10'
+p5628
+aS'4'
+aS'2'
+aS'1'
+aS'14'
+p5629
+aS'BHam'
+p5630
+aVIndia
+p5631
+aV450001
+p5632
+aVMadhya Pradesh
+p5633
+aa(lp5634
+S'John Dicks'
+p5635
+aS'1934'
+p5636
+aS'Lock'
+p5637
+aS'8'
+aS'6'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Nthants'
+p5638
+aS'g'
+aS'n'
+aS'i'
+aa(lp5639
+S'Henry Fry'
+p5640
+aS'1934'
+p5641
+aS'Flanker'
+p5642
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'6'
+aS'W Derby'
+p5643
+aVUnited Kingdom
+p5644
+aVEngland
+p5645
+aVNorth West England
+p5646
+aa(lp5647
+S'Graham Meikle'
 p5648
-aS'Waterloo'
+aS'1934'
 p5649
+aS'Wing'
+p5650
 aS'3'
 aS'3'
+aS'0'
+aS'0'
 aS'4'
 aS'12'
-p5650
-aVCanada
 p5651
-aVOntario
+aS'Waterloo'
 p5652
-aVRegional Municipality of Waterloo
+aVBelgië - Belgique - Belgien
 p5653
-aa(lp5654
-S'Tuppy Owen-Smith'
+aV1410
+p5654
+aVWallonie
 p5655
-aS'1934'
-p5656
-aS'Fullback'
+aa(lp5656
+S'Tuppy Owen-Smith'
 p5657
-aS'Rondebosch'
+aS'1934'
 p5658
-aS'10'
-p5659
-aS'8'
-aS'0'
-aS'0'
-aVSouth Africa
-p5660
-aVWestern Cape
-p5661
-aVCity of Cape Town
-p5662
-aa(lp5663
-S'Tim Warr'
-p5664
-aS'1934'
-p5665
-aS'Wing'
-p5666
-aS'Birmingham'
-p5667
-aS'2'
-aS'2'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p5668
-aVEngland
-p5669
-aVWest Midlands
-p5670
-aa(lp5671
-S'John Wright'
-p5672
-aS'1934'
-p5673
-aS'Lock'
-p5674
-aS'Salop'
-p5675
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5676
-aVEngland
-p5677
-aVWest Midlands
-p5678
-aa(lp5679
-S'Charles Slow'
-p5680
-aS'1934'
-p5681
-aS'Fly-half'
-p5682
-aS'Northampton'
-p5683
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5684
-aVEngland
-p5685
-aVEast Midlands
-p5686
-aa(lp5687
-S'Harold Boughton'
-p5688
-aS'1935'
-p5689
 aS'Fullback'
-p5690
-aS'Gloucester'
-p5691
+p5659
+aS'10'
+p5660
+aS'8'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Rondebosch'
+p5661
+aVSouth Africa
+p5662
+aVWestern Cape
+p5663
+aVCity of Cape Town
+p5664
+aa(lp5665
+S'Tim Warr'
+p5666
+aS'1934'
+p5667
+aS'Wing'
+p5668
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
 aS'3'
+aS'Birmingham'
+p5669
+aVUnited Kingdom
+p5670
+aVEngland
+p5671
+aVWest Midlands
+p5672
+aa(lp5673
+S'John Wright'
+p5674
+aS'1934'
+p5675
+aS'Lock'
+p5676
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Salop'
+p5677
+aVUnited Kingdom
+p5678
+aVEngland
+p5679
+aVWest Midlands
+p5680
+aa(lp5681
+S'Charles Slow'
+p5682
+aS'1934'
+p5683
+aS'Fly-half'
+p5684
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Northampton'
+p5685
+aVUnited Kingdom
+p5686
+aVEngland
+p5687
+aVEast Midlands
+p5688
+aa(lp5689
+S'Harold Boughton'
+p5690
+aS'1935'
+p5691
+aS'Fullback'
+p5692
+aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'14'
-p5692
-aVUnited Kingdom
 p5693
-aVEngland
+aS'Gloucester'
 p5694
-aVSouth West England
+aVUnited Kingdom
 p5695
-aa(lp5696
-S'Peter Candler'
-p5697
-aS'1935'
-p5698
-aS'Fly-half'
-p5699
-aS'Exeter'
-p5700
-aS'10'
-p5701
-aS'5'
-aS'2'
-aS'6'
-aVUnited Kingdom
-p5702
 aVEngland
-p5703
+p5696
 aVSouth West England
-p5704
-aa(lp5705
-S'Allan Clarke'
-p5706
+p5697
+aa(lp5698
+S'Peter Candler'
+p5699
 aS'1935'
-p5707
-aS'Lock'
-p5708
-aS'Coventry'
-p5709
+p5700
+aS'Fly-half'
+p5701
+aS'10'
+p5702
+aS'5'
+aS'3'
+aS'2'
+aS'2'
 aS'6'
+aS'Exeter'
+p5703
+aVUnited Kingdom
+p5704
+aVEngland
+p5705
+aVSouth West England
+p5706
+aa(lp5707
+S'Allan Clarke'
+p5708
+aS'1935'
+p5709
+aS'Lock'
+p5710
+aS'6'
+aS'2'
+aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p5710
-aVEngland
+aS'Coventry'
 p5711
-aVWest Midlands
+aVUnited Kingdom
 p5712
-aa(lp5713
-S'Arthur Cridlan'
+aVEngland
+p5713
+aVWest Midlands
 p5714
-aS'1935'
-p5715
-aS'Flanker'
+aa(lp5715
+S'Arthur Cridlan'
 p5716
-aS'Ealing'
+aS'1935'
 p5717
+aS'Flanker'
+p5718
 aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p5718
-aVEngland
+aS'Ealing'
 p5719
-aVGreater London
+aVUnited Kingdom
 p5720
-aa(lp5721
-S'Jimmy Giles'
+aVEngland
+p5721
+aVGreater London
 p5722
-aS'1935'
-p5723
-aS'Scrum-half'
+aa(lp5723
+S'Jimmy Giles'
 p5724
-aS'Coventry'
+aS'1935'
 p5725
+aS'Scrum-half'
+p5726
 aS'8'
 aS'5'
 aS'2'
+aS'1'
+aS'2'
 aS'6'
-aVUnited Kingdom
-p5726
-aVEngland
+aS'Coventry'
 p5727
-aVWest Midlands
+aVUnited Kingdom
 p5728
-aa(lp5729
-S'Jack Heaton'
+aVEngland
+p5729
+aVWest Midlands
 p5730
-aS'1935'
-p5731
-aS'Centre'
+aa(lp5731
+S'Jack Heaton'
 p5732
-aS'Lancs'
+aS'1935'
 p5733
+aS'Centre'
+p5734
 aS'9'
 aS'5'
+aS'3'
+aS'1'
 aS'0'
 aS'17'
-p5734
-aVUnited Kingdom
 p5735
-aVS6 3TB
+aS'Lancs'
 p5736
-aVEngland
+aVUnited Kingdom
 p5737
-aa(lp5738
-S'Dudley Kemp'
+aVS6 3TB
+p5738
+aVEngland
 p5739
-aS'1935'
-p5740
-aS'No. 8'
+aa(lp5740
+S'Dudley Kemp'
 p5741
-aS'Isle of Wight'
+aS'1935'
 p5742
+aS'No. 8'
+p5743
 aS'1'
 aS'0'
 aS'0'
+aS'1'
 aS'0'
-aVUnited Kingdom
-p5743
-aVEngland
+aS'0'
+aS'Isle of Wight'
 p5744
-aVSouth East
+aVUnited Kingdom
 p5745
-aa(lp5746
-S'Roy Leyland'
+aVEngland
+p5746
+aVSouth East
 p5747
-aS'1935'
-p5748
-aS'Wing'
+aa(lp5748
+S'Roy Leyland'
 p5749
-aS'Astley'
+aS'1935'
 p5750
+aS'Wing'
+p5751
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p5751
-aVEngland
+aS'Astley'
 p5752
-aVWest Midlands
+aVUnited Kingdom
 p5753
-aa(lp5754
-S'Ernie Nicholson'
+aVEngland
+p5754
+aVWest Midlands
 p5755
-aS'1935'
-p5756
-aS'Hooker'
+aa(lp5756
+S'Ernie Nicholson'
 p5757
-aS'Long Ashton'
+aS'1935'
 p5758
+aS'Hooker'
+p5759
 aS'5'
 aS'2'
+aS'1'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p5759
-aVBS41 9
+aS'Long Ashton'
 p5760
-aVEngland
+aVUnited Kingdom
 p5761
-aa(lp5762
-S'Arthur Payne'
+aVBS41 9
+p5762
+aVEngland
 p5763
-aS'1935'
-p5764
-aS'No. 8'
+aa(lp5764
+S'Arthur Payne'
 p5765
-aS'Bristol'
+aS'1935'
 p5766
+aS'No. 8'
+p5767
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5767
-aVEngland
-p5768
-aVSouth West England
-p5769
-aa(lp5770
-S'Dick Auty'
-p5771
-aS'1935'
-p5772
-aS'Fly-half'
-p5773
-aS'Yorks'
-p5774
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVDeutschland
+aS'Bristol'
+p5768
+aVUnited Kingdom
+p5769
+aVEngland
+p5770
+aVSouth West England
+p5771
+aa(lp5772
+S'Dick Auty'
+p5773
+aS'1935'
+p5774
+aS'Fly-half'
 p5775
-aV10965
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Yorks'
 p5776
-aVBerlin
+aVDeutschland
 p5777
-aa(lp5778
-S'Edward Hamilton-Hill'
+aV10965
+p5778
+aVBerlin
 p5779
-aS'1936'
-p5780
-aS'Flanker'
+aa(lp5780
+S'Edward Hamilton-Hill'
 p5781
-aS'Peterborough'
+aS'1936'
 p5782
+aS'Flanker'
+p5783
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p5783
-aVEngland
+aS'Peterborough'
 p5784
-aVEast of England
+aVUnited Kingdom
 p5785
-aa(lp5786
-S'Alexander Obolensky'
+aVEngland
+p5786
+aVEast of England
 p5787
-aS'1936'
-p5788
-aS'Wing'
+aa(lp5788
+S'Alexander Obolensky'
 p5789
-aS'Petrograd'
+aS'1936'
 p5790
+aS'Wing'
+p5791
 aS'4'
 aS'2'
+aS'1'
+aS'1'
 aS'2'
 aS'6'
-aVNorge
-p5791
-aVHedmark
+aS'Petrograd'
 p5792
-aVTrysil
+aVNorge
 p5793
-aa(lp5794
-S'Hal Sever'
+aVHedmark
+p5794
+aVTrysil
 p5795
-aS'1936'
-p5796
-aS'Wing'
+aa(lp5796
+S'Hal Sever'
 p5797
-aS'Bucklow'
+aS'1936'
 p5798
-aS'10'
+aS'Wing'
 p5799
+aS'10'
+p5800
 aS'6'
+aS'3'
+aS'1'
 aS'5'
 aS'19'
-p5800
-aVUnited Kingdom
 p5801
-aVM21
+aS'Bucklow'
 p5802
-aVEngland
+aVUnited Kingdom
 p5803
-aa(lp5804
-S'Harold Wheatley'
+aVM21
+p5804
+aVEngland
 p5805
-aS'1936'
-p5806
-aS'Prop'
+aa(lp5806
+S'Harold Wheatley'
 p5807
-aS'Coventry'
+aS'1936'
 p5808
+aS'Prop'
+p5809
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Coventry'
+p5810
+aVUnited Kingdom
+p5811
+aVEngland
+p5812
+aVWest Midlands
+p5813
+aa(lp5814
+S'Herbert Toft'
+p5815
+aS'1936'
+p5816
+aS'Hooker'
+p5817
+aS'10'
+p5818
 aS'7'
 aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p5809
-aVEngland
-p5810
-aVWest Midlands
-p5811
-aa(lp5812
-S'Herbert Toft'
-p5813
-aS'1936'
-p5814
-aS'Hooker'
-p5815
+aS'0'
 aS'Salford'
-p5816
-aS'10'
-p5817
-aS'7'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5818
-aVEngland
 p5819
-aVNorth West England
+aVUnited Kingdom
 p5820
-aa(lp5821
-S'Arthur Butler'
+aVEngland
+p5821
+aVNorth West England
 p5822
-aS'1937'
-p5823
-aS'Wing'
+aa(lp5823
+S'Arthur Butler'
 p5824
-aS'Oxford'
+aS'1937'
 p5825
+aS'Wing'
+p5826
 aS'2'
 aS'2'
+aS'0'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
-p5826
-aVEngland
+aS'Oxford'
 p5827
-aVSouth East
+aVUnited Kingdom
 p5828
-aa(lp5829
-S'David Campbell'
+aVEngland
+p5829
+aVSouth East
 p5830
-aS'1937'
-p5831
-aS'Flanker'
+aa(lp5831
+S'David Campbell'
 p5832
-aS'NSW'
-p5833
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVAustralia
-p5834
-aVNew South Wales
-p5835
-ag9
-aa(lp5836
-S'Thomas Huskisson'
-p5837
 aS'1937'
-p5838
-aS'Lock'
+p5833
+aS'Flanker'
+p5834
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p5835
+aVAustralia
+p5836
+aVNew South Wales
+p5837
+ag9
+aa(lp5838
+S'Thomas Huskisson'
 p5839
-aS'Richmond'
+aS'1937'
 p5840
+aS'Lock'
+p5841
 aS'8'
 aS'6'
+aS'2'
 aS'0'
 aS'0'
-aVUnited States of America
-p5841
-aVVirginia
+aS'0'
+aS'Richmond'
 p5842
-aVHenrico
+aVAustralia
 p5843
-aa(lp5844
+aVRichmond
+p5844
+ag9
+aa(lp5845
 S'Tommy Kemp'
-p5845
-aS'1937'
 p5846
-aS'Fly-half'
+aS'1937'
 p5847
-aS'Bolton'
+aS'Fly-half'
 p5848
 aS'5'
 aS'3'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Bolton'
 p5849
-aVEngland
+aVUnited Kingdom
 p5850
-aVNorth West England
+aVEngland
 p5851
-aa(lp5852
+aVNorth West England
+p5852
+aa(lp5853
 S'Dermot Milman'
-p5853
-aS'1937'
 p5854
-aS'No. 8'
+aS'1937'
 p5855
-aS'Kent'
+aS'No. 8'
 p5856
 aS'4'
 aS'2'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Kent'
 p5857
-aVEngland
+aVUnited Kingdom
 p5858
-aVSouth East
+aVEngland
 p5859
-aa(lp5860
+aVSouth East
+p5860
+aa(lp5861
 S'Robin Prescott'
-p5861
-aS'1937'
 p5862
-aS'Prop'
+aS'1937'
 p5863
-aS'Paddington'
+aS'Prop'
 p5864
 aS'6'
 aS'5'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Paddington'
 p5865
-aVEngland
+aVUnited Kingdom
 p5866
-aVGreater London
+aVEngland
 p5867
-aa(lp5868
+aVGreater London
+p5868
+aa(lp5869
 S'Arthur Wheatley'
-p5869
-aS'1937'
 p5870
-aS'Lock'
+aS'1937'
 p5871
-aS'Coventry'
+aS'Lock'
 p5872
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Coventry'
 p5873
-aVEngland
+aVUnited Kingdom
 p5874
-aVWest Midlands
+aVEngland
 p5875
-aa(lp5876
+aVWest Midlands
+p5876
+aa(lp5877
 S'John Cook'
-p5877
-aS'1937'
 p5878
-aS'Flanker'
+aS'1937'
 p5879
-aS'Beds'
+aS'Flanker'
 p5880
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVEspaña
+aS'0'
+aS'0'
+aS'Beds'
 p5881
-aV09007
+aVEspaña
 p5882
-aVCastilla y León
+aV09007
 p5883
-aa(lp5884
+aVCastilla y León
+p5884
+aa(lp5885
 S'Jeff Reynolds'
-p5885
-aS'1937'
 p5886
-aS'Fly-half'
+aS'1937'
 p5887
-aS'Canton'
+aS'Fly-half'
 p5888
 aS'5'
 aS'2'
+aS'3'
+aS'0'
 aS'1'
 aS'7'
-aV\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd
+aS'Canton'
 p5889
-aV\u5e7f\u4e1c\u7701
+aV\u4e2d\u56fd
 p5890
-aV\u5e7f\u5dde\u5e02 / Guangzhou
+aV\u5e7f\u4e1c\u7701
 p5891
-aa(lp5892
+aV\u5e7f\u5dde\u5e02 / Guangzhou
+p5892
+aa(lp5893
 S'Jimmy Unwin'
-p5893
-aS'1937'
 p5894
-aS'Wing'
+aS'1937'
 p5895
-aS'Essex'
+aS'Wing'
 p5896
 aS'6'
 aS'2'
+aS'4'
+aS'0'
 aS'3'
 aS'9'
-aVUnited Kingdom
+aS'Essex'
 p5897
-aVEngland
+aVUnited Kingdom
 p5898
-aVEast of England
+aVEngland
 p5899
-aa(lp5900
+aVEast of England
+p5900
+aa(lp5901
 S'Hubert Freakes'
-p5901
-aS'1938'
 p5902
-aS'Fullback'
+aS'1938'
 p5903
-aS'Durban'
+aS'Fullback'
 p5904
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'0'
 aS'2'
-aVSouth Africa
+aS'Durban'
 p5905
-aVKwaZulu-Natal
+aVSouth Africa
 p5906
-aVeThekwini Metropolitan Municipality
+aVKwaZulu-Natal
 p5907
-aa(lp5908
+aVeThekwini Metropolitan Municipality
+p5908
+aa(lp5909
 S'Basil Nicholson'
-p5909
-aS'1938'
 p5910
-aS'Centre'
+aS'1938'
 p5911
-aS'Lewisham'
+aS'Centre'
 p5912
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Lewisham'
 p5913
-aVEngland
+aVUnited Kingdom
 p5914
-aVGreater London
+aVEngland
 p5915
-aa(lp5916
+aVGreater London
+p5916
+aa(lp5917
 S'Mike Marshall'
-p5917
-aS'1938'
 p5918
-aS'No. 8'
+aS'1938'
 p5919
-aS'Yorkshire'
+aS'No. 8'
 p5920
 aS'5'
 aS'3'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
-aVUnited States of America
+aS'Yorkshire'
 p5921
-aVNew York
+aVUnited States of America
 p5922
-aVCattaraugus County
+aVNew York
 p5923
-aa(lp5924
+aVCattaraugus County
+p5924
+aa(lp5925
 S'Grahame Parker'
-p5925
-aS'1938'
 p5926
-aS'Fullback'
+aS'1938'
 p5927
-aS'Gloucester'
+aS'Fullback'
 p5928
 aS'2'
 aS'1'
+aS'1'
+aS'0'
 aS'0'
 aS'24'
 p5929
-aVUnited Kingdom
+aS'Gloucester'
 p5930
-aVEngland
+aVUnited Kingdom
 p5931
-aVSouth West England
+aVEngland
 p5932
-aa(lp5933
+aVSouth West England
+p5933
+aa(lp5934
 S'Alan Brown'
-p5934
-aS'1938'
 p5935
-aS'Flanker'
+aS'1938'
 p5936
-aS'St Helens'
+aS'Flanker'
 p5937
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'St Helens'
 p5938
-aVEngland
+aVUnited Kingdom
 p5939
-aVNorth West England
+aVEngland
 p5940
-aa(lp5941
+aVNorth West England
+p5941
+aa(lp5942
 S'Tom Berry'
-p5942
-aS'1939'
 p5943
-aS'Flanker'
+aS'1939'
 p5944
-aS'Slawston'
+aS'Flanker'
 p5945
 aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p5946
-aVEngland
-p5947
-aVEast Midlands
-p5948
-aa(lp5949
-S'Robert Carr'
-p5950
-aS'1939'
-p5951
-aS'Wing'
-p5952
-aS'Backlow'
-p5953
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp5954
-S'Paul Cooke'
-p5955
-aS'1939'
-p5956
-aS'Scrum-half'
-p5957
-aS'Marylebone'
-p5958
 aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Slawston'
+p5946
 aVUnited Kingdom
-p5959
+p5947
 aVEngland
-p5960
-aVGreater London
-p5961
-aa(lp5962
-S'Dickie Guest'
-p5963
+p5948
+aVEast Midlands
+p5949
+aa(lp5950
+S'Robert Carr'
+p5951
 aS'1939'
-p5964
+p5952
 aS'Wing'
+p5953
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Backlow'
+p5954
+aS'g'
+aS'n'
+aS'i'
+aa(lp5955
+S'Paul Cooke'
+p5956
+aS'1939'
+p5957
+aS'Scrum-half'
+p5958
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Marylebone'
+p5959
+aVUnited Kingdom
+p5960
+aVEngland
+p5961
+aVGreater London
+p5962
+aa(lp5963
+S'Dickie Guest'
+p5964
+aS'1939'
 p5965
-aS'Prescot'
+aS'Wing'
 p5966
 aS'13'
 p5967
 aS'7'
 aS'5'
+aS'1'
+aS'5'
 aS'15'
 p5968
-aVUnited Kingdom
+aS'Prescot'
 p5969
-aVEngland
+aVUnited Kingdom
 p5970
-aVNorth West England
+aVEngland
 p5971
-aa(lp5972
+aVNorth West England
+p5972
+aa(lp5973
 S'George Hancock'
-p5973
-aS'1939'
 p5974
-aS'Centre'
+aS'1939'
 p5975
-aS'Wirral'
+aS'Centre'
 p5976
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVCanada
+aS'0'
+aS'Wirral'
 p5977
-aVNew Brunswick
+aVCanada
 p5978
-aVQueens County
+aVNew Brunswick
 p5979
-aa(lp5980
+aVQueens County
+p5980
+aa(lp5981
 S'Derek Teden'
-p5981
-aS'1939'
 p5982
-aS'Prop'
+aS'1939'
 p5983
-aS'Edmonton'
+aS'Prop'
 p5984
 aS'3'
 aS'2'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
-aVCanada
+aS'Edmonton'
 p5985
-aVAlberta
+aVCanada
 p5986
-aVEdmonton
+aVAlberta
 p5987
-aa(lp5988
+aVEdmonton
+p5988
+aa(lp5989
 S'Gus Walker'
-p5989
-aS'1939'
 p5990
-aS'Fly-half'
+aS'1939'
 p5991
-aS'Garforth'
+aS'Fly-half'
 p5992
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Garforth'
+p5993
+aVUnited Kingdom
+p5994
+aVEngland
+p5995
+aVYorkshire and the Humber
+p5996
+aa(lp5997
+S'John Watkins'
+p5998
+aS'1939'
+p5999
+aS'Flanker'
+p6000
+aS'3'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p5993
-aVEngland
-p5994
-aVYorkshire and the Humber
-p5995
-aa(lp5996
-S'John Watkins'
-p5997
-aS'1939'
-p5998
-aS'Flanker'
-p5999
+aS'0'
 aS'Taunton'
-p6000
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
 p6001
-aVEngland
+aVUnited Kingdom
 p6002
-aVSouth West England
+aVEngland
 p6003
-aa(lp6004
+aVSouth West England
+p6004
+aa(lp6005
 S'Jack Ellis'
-p6005
-aS'1939'
 p6006
-aS'Scrum-half'
+aS'1939'
 p6007
-aS'Leeds'
+aS'Scrum-half'
 p6008
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Leeds'
 p6009
-aVEngland
+aVUnited Kingdom
 p6010
-aVYorkshire and the Humber
+aVEngland
 p6011
-aa(lp6012
+aVYorkshire and the Humber
+p6012
+aa(lp6013
 S'Ernest Parsons'
-p6013
-aS'1939'
 p6014
-aS'Fullback'
+aS'1939'
 p6015
-aS'Christchurch'
+aS'Fullback'
 p6016
 aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVNew Zealand/Aotearoa
+aS'0'
+aS'0'
+aS'Christchurch'
 p6017
-aVCanterbury
+aVNew Zealand/Aotearoa
 p6018
-aVChristchurch City
+aVCanterbury
 p6019
-aa(lp6020
+aVChristchurch City
+p6020
+aa(lp6021
 S'Billy Bennett'
-p6021
-aS'1947'
 p6022
-aS'Centre'
+aS'1947'
 p6023
-aS'Putney'
+aS'Centre'
 p6024
 aS'7'
 aS'3'
+aS'3'
+aS'1'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Putney'
 p6025
-aVEngland
+aVUnited Kingdom
 p6026
-aVGreater London
+aVEngland
 p6027
-aa(lp6028
+aVGreater London
+p6028
+aa(lp6029
 S'Arthur Gray'
-p6029
-aS'1947'
 p6030
-aS'Fullback'
+aS'1947'
 p6031
-aS'Leeds'
+aS'Fullback'
 p6032
 aS'3'
 aS'2'
+aS'1'
+aS'0'
 aS'0'
 aS'2'
-aVUnited Kingdom
+aS'Leeds'
 p6033
-aVEngland
+aVUnited Kingdom
 p6034
-aVYorkshire and the Humber
+aVEngland
 p6035
-aa(lp6036
+aVYorkshire and the Humber
+p6036
+aa(lp6037
 S'Nim Hall'
-p6037
-aS'1947'
 p6038
-aS'Fly-half'
+aS'1947'
 p6039
-aS'Huddersfield'
+aS'Fly-half'
 p6040
 aS'17'
 p6041
 aS'9'
+aS'6'
+aS'2'
 aS'0'
 aS'39'
 p6042
-aVUnited Kingdom
+aS'Huddersfield'
 p6043
-aVEngland
+aVUnited Kingdom
 p6044
-aVYorkshire and the Humber
+aVEngland
 p6045
-aa(lp6046
+aVYorkshire and the Humber
+p6046
+aa(lp6047
 S'Alan Henderson'
-p6047
-aS'1947'
 p6048
-aS'Hooker'
+aS'1947'
 p6049
-aS'Kirkintilloch'
+aS'Hooker'
 p6050
 aS'9'
 aS'3'
+aS'6'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Kirkintilloch'
 p6051
-aVScotland
+aVUnited Kingdom
 p6052
-aVEast Dunbartonshire
+aVScotland
 p6053
-aa(lp6054
+aVEast Dunbartonshire
+p6054
+aa(lp6055
 S'Geoffrey Kelly'
-p6055
-aS'1947'
 p6056
-aS'Prop'
+aS'1947'
 p6057
-aS'Royston'
+aS'Prop'
 p6058
 aS'4'
 aS'2'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Royston'
 p6059
-aVEngland
+aVUnited Kingdom
 p6060
-aVEast of England
+aVEngland
 p6061
-aa(lp6062
+aVEast of England
+p6062
+aa(lp6063
 S'Bill Moore'
-p6063
-aS'1947'
 p6064
-aS'Scrum-half'
+aS'1947'
 p6065
-aS'Leicester'
+aS'Scrum-half'
 p6066
 aS'7'
 aS'4'
+aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Leicester'
 p6067
-aVEngland
+aVUnited Kingdom
 p6068
-aVEast Midlands
+aVEngland
 p6069
-aa(lp6070
+aVEast Midlands
+p6070
+aa(lp6071
 S'Joe Mycock'
-p6071
-aS'1947'
 p6072
-aS'Lock'
+aS'1947'
 p6073
-aS'Lancs'
+aS'Lock'
 p6074
 aS'5'
 aS'3'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Lancs'
 p6075
-aVS6 3TB
+aVUnited Kingdom
 p6076
-aVEngland
+aVS6 3TB
 p6077
-aa(lp6078
+aVEngland
+p6078
+aa(lp6079
 S'Sam Perry'
-p6079
-aS'1947'
 p6080
-aS'Lock'
+aS'1947'
 p6081
-aS'Isle of Wight'
+aS'Lock'
 p6082
 aS'7'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6083
-aVEngland
-p6084
-aVSouth East
-p6085
-aa(lp6086
-S'Edward Scott'
-p6087
-aS'1947'
-p6088
-aS'Centre'
-p6089
-aS'Cornwall'
-p6090
 aS'5'
 aS'1'
 aS'0'
 aS'0'
+aS'Isle of Wight'
+p6083
 aVUnited Kingdom
-p6091
+p6084
 aVEngland
-p6092
-aVSouth West England
-p6093
-aa(lp6094
-S'Micky Steele-Bodger'
-p6095
+p6085
+aVSouth East
+p6086
+aa(lp6087
+S'Edward Scott'
+p6088
 aS'1947'
+p6089
+aS'Centre'
+p6090
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Cornwall'
+p6091
+aVUnited Kingdom
+p6092
+aVEngland
+p6093
+aVSouth West England
+p6094
+aa(lp6095
+S'Micky Steele-Bodger'
 p6096
-aS'Flanker'
+aS'1947'
 p6097
-aS'Tamworth'
+aS'Flanker'
 p6098
 aS'9'
 aS'3'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Tamworth'
 p6099
-aVEngland
+aVUnited Kingdom
 p6100
-aVWest Midlands
+aVEngland
 p6101
-aa(lp6102
+aVWest Midlands
+p6102
+aa(lp6103
 S'David Swarbrick'
-p6103
-aS'1947'
 p6104
-aS'Wing'
+aS'1947'
 p6105
-aS'Tynemouth'
+aS'Wing'
 p6106
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Tynemouth'
 p6107
-aVEngland
+aVUnited Kingdom
 p6108
-aVNorth East England
+aVEngland
 p6109
-aa(lp6110
+aVNorth East England
+p6110
+aa(lp6111
 S'Jika Travers'
-p6111
-aS'1947'
 p6112
-aS'Flanker'
+aS'1947'
 p6113
-aS'Waverley'
+aS'Flanker'
 p6114
 aS'6'
 aS'3'
+aS'2'
+aS'1'
 aS'0'
 aS'4'
-aVUnited Kingdom
+aS'Waverley'
 p6115
-aVEH1 1YT
+aVUnited Kingdom
 p6116
-aVScotland
+aVEH1 1YT
 p6117
-aa(lp6118
+aVScotland
+p6118
+aa(lp6119
 S'Harry Walker'
-p6119
-aS'1947'
 p6120
-aS'Prop'
+aS'1947'
 p6121
-aS'Aston'
+aS'Prop'
 p6122
 aS'9'
 aS'3'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
-aVFrance
+aS'Aston'
 p6123
-aV09310
+aVFrance
 p6124
-aVFrance métropolitaine
+aV09310
 p6125
-aa(lp6126
+aVFrance métropolitaine
+p6126
+aa(lp6127
 S'Don White'
-p6127
-aS'1947'
 p6128
-aS'Flanker'
+aS'1947'
 p6129
-aS'Northants'
+aS'Flanker'
 p6130
 aS'14'
 p6131
 aS'8'
+aS'5'
+aS'1'
 aS'2'
 aS'6'
-aVUnited States of America
+aS'Northants'
 p6132
-aV46032
+aVUnited States of America
 p6133
-aVIndiana
+aV46032
 p6134
-aa(lp6135
+aVIndiana
+p6135
+aa(lp6136
 S'Squib Donnelly'
-p6136
-aS'1947'
 p6137
-aS'Centre'
+aS'1947'
 p6138
-aS'Ngaruawahia'
+aS'Centre'
 p6139
 aS'1'
 aS'0'
+aS'1'
 aS'0'
 aS'0'
-aVNew Zealand/Aotearoa
+aS'0'
+aS'Ngaruawahia'
 p6140
-aVWaikato
+aVNew Zealand/Aotearoa
 p6141
-aVWaikato District
+aVWaikato
 p6142
-aa(lp6143
+aVWaikato District
+p6143
+aa(lp6144
 S'James George'
-p6144
-aS'1947'
 p6145
-aS'Lock'
+aS'1947'
 p6146
-aS'Falmouth'
+aS'Lock'
 p6147
 aS'3'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Falmouth'
 p6148
-aVEngland
+aVUnited Kingdom
 p6149
-aVSouth West England
+aVEngland
 p6150
-aa(lp6151
+aVSouth West England
+p6151
+aa(lp6152
 S'Cyril Holmes'
-p6152
-aS'1947'
 p6153
-aS'Wing'
+aS'1947'
 p6154
-aS'Bolton'
+aS'Wing'
 p6155
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
+aS'Bolton'
 p6156
-aVEngland
+aVUnited Kingdom
 p6157
-aVNorth West England
+aVEngland
 p6158
-aa(lp6159
+aVNorth West England
+p6159
+aa(lp6160
 S'Ossie Newton-Thompson'
-p6160
-aS'1947'
 p6161
-aS'Scrum-half'
+aS'1947'
 p6162
-aS'Paddington'
+aS'Scrum-half'
 p6163
 aS'2'
 aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'0'
+aS'Paddington'
 p6164
-aVEngland
+aVUnited Kingdom
 p6165
-aVGreater London
+aVEngland
 p6166
-aa(lp6167
+aVGreater London
+p6167
+aa(lp6168
 S'Bob Weighill'
-p6168
-aS'1947'
 p6169
-aS'No. 8'
+aS'1947'
 p6170
-aS'Kings Norton'
+aS'No. 8'
 p6171
 aS'4'
 aS'2'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'0'
+aS'Kings Norton'
 p6172
-aVEngland
+aVUnited Kingdom
 p6173
-aVWest Midlands
+aVEngland
 p6174
-aa(lp6175
+aVWest Midlands
+p6175
+aa(lp6176
 S'George Gibbs'
-p6176
-aS'1947'
 p6177
-aS'Prop'
+aS'1947'
 p6178
-aS'1920'
+aS'Prop'
 p6179
 aS'2'
 aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVNorge
+aS'0'
+aS'1920'
 p6180
-aVTroms
+aVNorge
 p6181
-aVLavangen
+aVTroms
 p6182
-aa(lp6183
+aVLavangen
+p6183
+aa(lp6184
 S'Syd Newman'
-p6184
-aS'1947'
 p6185
-aS'Fullback'
+aS'1947'
 p6186
-aS'Pretoria'
+aS'Fullback'
 p6187
 aS'3'
 aS'1'
+aS'1'
+aS'1'
 aS'0'
 aS'3'
-aVSouth Africa
+aS'Pretoria'
 p6188
-aVGauteng
+aVSouth Africa
 p6189
-aVCity of Tshwane Metropolitan Municipality
+aVGauteng
 p6190
-aa(lp6191
+aVCity of Tshwane Metropolitan Municipality
+p6191
+aa(lp6192
 S'Vic Roberts'
-p6192
-aS'1947'
 p6193
-aS'Flanker'
+aS'1947'
 p6194
-aS'Penryn'
+aS'Flanker'
 p6195
 aS'16'
 p6196
 aS'7'
+aS'9'
+aS'0'
 aS'2'
 aS'6'
-aVUnited Kingdom
+aS'Penryn'
 p6197
-aVEngland
+aVUnited Kingdom
 p6198
-aVSouth West England
+aVEngland
 p6199
-aa(lp6200
+aVSouth West England
+p6200
+aa(lp6201
 S'Eric Evans'
-p6201
-aS'1948'
 p6202
-aS'Hooker'
+aS'1948'
 p6203
-aS'Droylsden'
+aS'Hooker'
 p6204
 aS'30'
 p6205
 aS'17'
 p6206
+aS'10'
+p6207
+aS'3'
 aS'5'
 aS'15'
-p6207
-aVUnited Kingdom
 p6208
-aVEngland
+aS'Droylsden'
 p6209
-aVNorth West England
+aVUnited Kingdom
 p6210
-aa(lp6211
-S'John Keeling'
+aVEngland
+p6211
+aVNorth West England
 p6212
-aS'1948'
-p6213
-aS'Hooker'
+aa(lp6213
+S'John Keeling'
 p6214
-aS'Cairo'
+aS'1948'
 p6215
+aS'Hooker'
+p6216
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aV\u0645\u0635\u0631
-p6216
-aV\u0627\u0644\u0642\u0627\u0647\u0631\u0629
+aS'Cairo'
 p6217
-ag9
-aa(lp6218
-S'Richard Madge'
+aV\u0645\u0635\u0631
+p6218
+aV\u0627\u0644\u0642\u0627\u0647\u0631\u0629
 p6219
-aS'1948'
-p6220
-aS'Scrum-half'
+ag9
+aa(lp6220
+S'Richard Madge'
 p6221
-aS'Exeter'
+aS'1948'
 p6222
+aS'Scrum-half'
+p6223
 aS'4'
 aS'0'
+aS'3'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p6223
-aVEngland
+aS'Exeter'
 p6224
-aVSouth West England
+aVUnited Kingdom
 p6225
-aa(lp6226
-S'Douglas Vaughan'
+aVEngland
+p6226
+aVSouth West England
 p6227
-aS'1948'
-p6228
-aS'No. 8'
+aa(lp6228
+S'Douglas Vaughan'
 p6229
-aS'Wrexham'
+aS'1948'
 p6230
+aS'No. 8'
+p6231
 aS'8'
 aS'2'
+aS'5'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p6231
-aVWales
+aS'Wrexham'
 p6232
-aVWrexham
+aVUnited Kingdom
 p6233
-aa(lp6234
-S'Humphrey Luya'
+aVWales
+p6234
+aVWrexham
 p6235
-aS'1948'
-p6236
-aS'Lock'
+aa(lp6236
+S'Humphrey Luya'
 p6237
-aS'W Derby'
+aS'1948'
 p6238
+aS'Lock'
+p6239
 aS'5'
 aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6239
-aVEngland
-p6240
-aVNorth West England
-p6241
-aa(lp6242
-S'Ivor Preece'
-p6243
-aS'1948'
-p6244
-aS'Fly-half'
-p6245
-aS'Coventry'
-p6246
-aS'13'
-p6247
-aS'3'
-aS'0'
-aS'3'
-aVUnited Kingdom
-p6248
-aVEngland
-p6249
-aVWest Midlands
-p6250
-aa(lp6251
-S'Dick Uren'
-p6252
-aS'1948'
-p6253
-aS'Fullback'
-p6254
-aS'West Kirby'
-p6255
 aS'4'
 aS'1'
 aS'0'
-aS'7'
+aS'0'
+aS'W Derby'
+p6240
 aVUnited Kingdom
-p6256
+p6241
 aVEngland
-p6257
+p6242
 aVNorth West England
-p6258
-aa(lp6259
-S'Thomas Price'
-p6260
+p6243
+aa(lp6244
+S'Ivor Preece'
+p6245
 aS'1948'
-p6261
-aS'Prop'
+p6246
+aS'Fly-half'
+p6247
+aS'13'
+p6248
+aS'3'
+aS'9'
+aS'1'
+aS'0'
+aS'3'
+aS'Coventry'
+p6249
+aVUnited Kingdom
+p6250
+aVEngland
+p6251
+aVWest Midlands
+p6252
+aa(lp6253
+S'Dick Uren'
+p6254
+aS'1948'
+p6255
+aS'Fullback'
+p6256
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'7'
+aS'West Kirby'
+p6257
+aVUnited Kingdom
+p6258
+aVEngland
+p6259
+aVNorth West England
+p6260
+aa(lp6261
+S'Thomas Price'
 p6262
-aS'?'
+aS'1948'
+p6263
+aS'Prop'
+p6264
 aS'6'
 aS'2'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp6263
+aa(lp6265
 S'Martin Turner'
-p6264
-aS'1948'
-p6265
-aS'Wing'
 p6266
-aS'Croydon'
+aS'1948'
 p6267
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Wing'
 p6268
-aVEngland
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Croydon'
 p6269
-aVGreater London
+aVUnited Kingdom
 p6270
-aa(lp6271
-S'Lewis Cannell'
+aVEngland
+p6271
+aVGreater London
 p6272
-aS'1948'
-p6273
-aS'Centre'
+aa(lp6273
+S'Lewis Cannell'
 p6274
-aS'Coventry'
+aS'1948'
 p6275
-aS'19'
+aS'Centre'
 p6276
-aS'9'
-aS'2'
-aS'6'
-aVUnited Kingdom
+aS'19'
 p6277
-aVEngland
+aS'9'
+aS'9'
+aS'1'
+aS'2'
+aS'6'
+aS'Coventry'
 p6278
-aVWest Midlands
+aVUnited Kingdom
 p6279
-aa(lp6280
-S'Patrick Sykes'
+aVEngland
+p6280
+aVWest Midlands
 p6281
-aS'1948'
-p6282
-aS'Scrum-half'
+aa(lp6282
+S'Patrick Sykes'
 p6283
-aS'Vancouver'
-p6284
-aS'7'
-aS'5'
-aS'0'
-aS'0'
-aVCanada
-p6285
-aVBritish Columbia
-p6286
-aVGreater Vancouver Regional District
-p6287
-aa(lp6288
-S'Allan Towell'
-p6289
 aS'1948'
-p6290
-aS'Centre'
-p6291
-aS'Middlesbrough'
-p6292
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6293
-aVEngland
-p6294
-aVNorth East England
-p6295
-aa(lp6296
-S'Mike Berridge'
-p6297
-aS'1949'
-p6298
-aS'Prop'
-p6299
-aS'Huntingdon'
-p6300
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6301
-aVEngland
-p6302
-aVEast of England
-p6303
-aa(lp6304
-S'Bryan Braithwaite-Exley'
-p6305
-aS'1949'
-p6306
-aS'No. 8'
-p6307
-aS'Wetherby'
-p6308
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6309
-aVLS22
-p6310
-aVEngland
-p6311
-aa(lp6312
-S'Tom Danby'
-p6313
-aS'1949'
-p6314
-aS'Wing'
-p6315
-aS'Durham'
-p6316
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6317
-aVEngland
-p6318
-aVNorth East England
-p6319
-aa(lp6320
-S'Jack Gregory'
-p6321
-aS'1949'
-p6322
-aS'Wing'
-p6323
-aS'Bristol'
-p6324
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6325
-aVEngland
-p6326
-aVSouth West England
-p6327
-aa(lp6328
-S'Barry Holmes'
-p6329
-aS'1949'
-p6330
-aS'Fullback'
-p6331
-aS'Buenos Aires'
-p6332
-aS'6'
-aS'2'
-aS'0'
-aS'4'
-aVArgentina
-p6333
-aVCABA
-p6334
-aVComuna 6
-p6335
-aa(lp6336
-S'Edward Horsfall'
-p6337
-aS'1949'
-p6338
-aS'Flanker'
-p6339
-aS'Huddersfield'
-p6340
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6341
-aVEngland
-p6342
-aVYorkshire and the Humber
-p6343
-aa(lp6344
-S'Geoffrey Hosking'
-p6345
-aS'1949'
-p6346
-aS'Lock'
-p6347
-aS'St Thomas'
-p6348
-aS'5'
-aS'2'
-aS'1'
-aS'3'
-aVUnited States of America
-p6349
-aVUnited States Virgin Islands
-p6350
-aVSt. Thomas Island
-p6351
-aa(lp6352
-S'Gordon Rimmer'
-p6353
-aS'1949'
-p6354
+p6284
 aS'Scrum-half'
-p6355
-aS'Southport'
-p6356
-aS'13'
-p6357
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6358
-aVEngland
-p6359
-aVNorth West England
-p6360
-aa(lp6361
-S'Clive van Ryneveld'
-p6362
-aS'1949'
-p6363
-aS'Centre'
-p6364
-aS'Cape Town'
-p6365
-aS'4'
-aS'2'
-aS'3'
-aS'9'
-aVSouth Africa
-p6366
-aVWestern Cape
-p6367
-aVCity of Cape Town
-p6368
-aa(lp6369
-S'John Kendall-Carpenter'
-p6370
-aS'1949'
-p6371
-aS'No. 8'
-p6372
-aS'Cardiff'
-p6373
-aS'23'
-p6374
-aS'12'
-p6375
-aS'1'
-aS'3'
-aVUnited Kingdom
-p6376
-aVWales
-p6377
-aVCardiff
-p6378
-aa(lp6379
-S'Robert Kennedy'
-p6380
-aS'1949'
-p6381
-aS'Wing'
-p6382
-aS'Rhodesia'
-p6383
-aS'3'
-aS'2'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p6384
-aVEngland
-p6385
-aVEast Midlands
-p6386
-aa(lp6387
-S'John Matthews'
-p6388
-aS'1949'
-p6389
-aS'Lock'
-p6390
-aS'Hastings'
-p6391
-aS'10'
-p6392
-aS'6'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6393
-aVEngland
-p6394
-aVSouth East
-p6395
-aa(lp6396
-S'John Steeds'
-p6397
-aS'1949'
-p6398
-aS'Hooker'
-p6399
-aS'Edmonton'
-p6400
+p6285
+aS'7'
 aS'5'
-aS'3'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'Vancouver'
+p6286
 aVCanada
-p6401
-aVAlberta
-p6402
-aVEdmonton
-p6403
-aa(lp6404
-S'Brian Boobbyer'
-p6405
-aS'1950'
-p6406
+p6287
+aVBritish Columbia
+p6288
+aVGreater Vancouver Regional District
+p6289
+aa(lp6290
+S'Allan Towell'
+p6291
+aS'1948'
+p6292
 aS'Centre'
+p6293
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Middlesbrough'
+p6294
+aVUnited Kingdom
+p6295
+aVEngland
+p6296
+aVNorth East England
+p6297
+aa(lp6298
+S'Mike Berridge'
+p6299
+aS'1949'
+p6300
+aS'Prop'
+p6301
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Huntingdon'
+p6302
+aVUnited Kingdom
+p6303
+aVEngland
+p6304
+aVEast of England
+p6305
+aa(lp6306
+S'Bryan Braithwaite-Exley'
+p6307
+aS'1949'
+p6308
+aS'No. 8'
+p6309
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Wetherby'
+p6310
+aVUnited Kingdom
+p6311
+aVLS22
+p6312
+aVEngland
+p6313
+aa(lp6314
+S'Tom Danby'
+p6315
+aS'1949'
+p6316
+aS'Wing'
+p6317
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Durham'
+p6318
+aVUnited Kingdom
+p6319
+aVEngland
+p6320
+aVNorth East England
+p6321
+aa(lp6322
+S'Jack Gregory'
+p6323
+aS'1949'
+p6324
+aS'Wing'
+p6325
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bristol'
+p6326
+aVUnited Kingdom
+p6327
+aVEngland
+p6328
+aVSouth West England
+p6329
+aa(lp6330
+S'Barry Holmes'
+p6331
+aS'1949'
+p6332
+aS'Fullback'
+p6333
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'0'
+aS'4'
+aS'Buenos Aires'
+p6334
+aV\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p6335
+aV\u062f\u0628\u064a\u200e
+p6336
+aVDubai
+p6337
+aa(lp6338
+S'Edward Horsfall'
+p6339
+aS'1949'
+p6340
+aS'Flanker'
+p6341
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Huddersfield'
+p6342
+aVUnited Kingdom
+p6343
+aVEngland
+p6344
+aVYorkshire and the Humber
+p6345
+aa(lp6346
+S'Geoffrey Hosking'
+p6347
+aS'1949'
+p6348
+aS'Lock'
+p6349
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'St Thomas'
+p6350
+aVÖsterreich
+p6351
+aV9064
+p6352
+aVKärnten
+p6353
+aa(lp6354
+S'Gordon Rimmer'
+p6355
+aS'1949'
+p6356
+aS'Scrum-half'
+p6357
+aS'13'
+p6358
+aS'3'
+aS'10'
+p6359
+aS'0'
+aS'0'
+aS'0'
+aS'Southport'
+p6360
+aVUnited Kingdom
+p6361
+aVEngland
+p6362
+aVNorth West England
+p6363
+aa(lp6364
+S'Clive van Ryneveld'
+p6365
+aS'1949'
+p6366
+aS'Centre'
+p6367
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'3'
+aS'9'
+aS'Cape Town'
+p6368
+aVSouth Africa
+p6369
+aVWestern Cape
+p6370
+aVCity of Cape Town
+p6371
+aa(lp6372
+S'John Kendall-Carpenter'
+p6373
+aS'1949'
+p6374
+aS'No. 8'
+p6375
+aS'23'
+p6376
+aS'12'
+p6377
+aS'10'
+p6378
+aS'1'
+aS'1'
+aS'3'
+aS'Cardiff'
+p6379
+aVUnited Kingdom
+p6380
+aVWales
+p6381
+aVCardiff
+p6382
+aa(lp6383
+S'Robert Kennedy'
+p6384
+aS'1949'
+p6385
+aS'Wing'
+p6386
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Rhodesia'
+p6387
+aVUnited Kingdom
+p6388
+aVEngland
+p6389
+aVEast Midlands
+p6390
+aa(lp6391
+S'John Matthews'
+p6392
+aS'1949'
+p6393
+aS'Lock'
+p6394
+aS'10'
+p6395
+aS'6'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Hastings'
+p6396
+aVUnited Kingdom
+p6397
+aVEngland
+p6398
+aVSouth East
+p6399
+aa(lp6400
+S'John Steeds'
+p6401
+aS'1949'
+p6402
+aS'Hooker'
+p6403
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Edmonton'
+p6404
+aVCanada
+p6405
+aVAlberta
+p6406
+aVEdmonton
 p6407
-aS'Ealing'
-p6408
+aa(lp6408
+S'Brian Boobbyer'
+p6409
+aS'1950'
+p6410
+aS'Centre'
+p6411
 aS'9'
 aS'4'
+aS'5'
+aS'0'
 aS'2'
 aS'6'
+aS'Ealing'
+p6412
 aVUnited Kingdom
-p6409
-aVEngland
-p6410
-aVGreater London
-p6411
-aa(lp6412
-S'Ian Botting'
 p6413
-aS'1950'
+aVEngland
 p6414
-aS'Wing'
+aVGreater London
 p6415
-aS'Dunedin'
-p6416
+aa(lp6416
+S'Ian Botting'
+p6417
+aS'1950'
+p6418
+aS'Wing'
+p6419
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p6417
-aVOtago
-p6418
-aVDunedin City
-p6419
-aa(lp6420
-S'John Cain'
-p6421
-aS'1950'
-p6422
-aS'Flanker'
-p6423
-aS'W Derby'
-p6424
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Dunedin'
+p6420
+aVNew Zealand/Aotearoa
+p6421
+aVOtago
+p6422
+aVDunedin City
+p6423
+aa(lp6424
+S'John Cain'
 p6425
-aVEngland
-p6426
-aVNorth West England
-p6427
-aa(lp6428
-S'Murray Hofmeyer'
-p6429
 aS'1950'
+p6426
+aS'Flanker'
+p6427
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'W Derby'
+p6428
+aVUnited Kingdom
+p6429
+aVEngland
 p6430
-aS'Fullback'
+aVNorth West England
 p6431
-aS'Pretoria'
-p6432
+aa(lp6432
+S'Murray Hofmeyer'
+p6433
+aS'1950'
+p6434
+aS'Fullback'
+p6435
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'7'
+aS'Pretoria'
+p6436
 aVSouth Africa
-p6433
-aVGauteng
-p6434
-aVCity of Tshwane Metropolitan Municipality
-p6435
-aa(lp6436
-S'Wally Holmes'
 p6437
-aS'1950'
+aVGauteng
 p6438
-aS'Prop'
+aVCity of Tshwane Metropolitan Municipality
 p6439
-aS'Nuneaton'
-p6440
-aS'16'
+aa(lp6440
+S'Wally Holmes'
 p6441
-aS'8'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6442
-aVEngland
-p6443
-aVWest Midlands
-p6444
-aa(lp6445
-S'Herbert Jones'
-p6446
 aS'1950'
+p6442
+aS'Prop'
+p6443
+aS'16'
+p6444
+aS'8'
+aS'7'
+aS'1'
+aS'0'
+aS'0'
+aS'Nuneaton'
+p6445
+aVUnited Kingdom
+p6446
+aVEngland
 p6447
-aS'Lock'
+aVWest Midlands
 p6448
-aS'Barnstaple?'
-p6449
+aa(lp6449
+S'Herbert Jones'
+p6450
+aS'1950'
+p6451
+aS'Lock'
+p6452
 aS'3'
 aS'1'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Barnstaple?'
+p6453
 aVUnited Kingdom
-p6450
-aVEngland
-p6451
-aVSouth West England
-p6452
-aa(lp6453
-S'Harry Small'
 p6454
-aS'1950'
+aVEngland
 p6455
-aS'Flanker'
+aVSouth West England
 p6456
-aS'1922'
-p6457
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVNorge
+aa(lp6457
+S'Harry Small'
 p6458
-aVTroms
-p6459
-aVBardu
-p6460
-aa(lp6461
-S'John Smith'
-p6462
 aS'1950'
-p6463
-aS'Wing'
-p6464
-aS'Stroud'
-p6465
+p6459
+aS'Flanker'
+p6460
 aS'4'
 aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1922'
+p6461
+aVNorge
+p6462
+aVTroms
+p6463
+aVBardu
+p6464
+aa(lp6465
+S'John Smith'
+p6466
+aS'1950'
+p6467
+aS'Wing'
+p6468
+aS'4'
+aS'1'
+aS'3'
+aS'0'
 aS'4'
 aS'12'
-p6466
-aVUnited Kingdom
-p6467
-aVEngland
-p6468
-aVSouth West England
 p6469
-aa(lp6470
-S'Akker Adkins'
+aS'Stroud'
+p6470
+aVUnited Kingdom
 p6471
-aS'1950'
+aVEngland
 p6472
-aS'Lock'
-p6473
-aS'Coventry'
-p6474
-aS'7'
-aS'4'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p6475
-aVEngland
-p6476
-aVWest Midlands
-p6477
-aa(lp6478
-S'John Hyde'
-p6479
-aS'1950'
-p6480
-aS'Wing'
-p6481
-aS'Wellingborough'
-p6482
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6483
-aVEngland
-p6484
-aVEast Midlands
-p6485
-aa(lp6486
-S'John Baume'
-p6487
-aS'1950'
-p6488
-aS'Prop'
-p6489
-aS'Dewsbury'
-p6490
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6491
-aVEngland
-p6492
-aVYorkshire and the Humber
-p6493
-aa(lp6494
-S'Jasper Bartlett'
-p6495
-aS'1951'
-p6496
-aS'Lock'
-p6497
-aS'Birmingham'
-p6498
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6499
-aVEngland
-p6500
-aVWest Midlands
-p6501
-aa(lp6502
-S'Ted Hewitt'
-p6503
-aS'1951'
-p6504
-aS'Fullback'
-p6505
-aS'Coventry'
-p6506
-aS'3'
-aS'0'
-aS'0'
-aS'2'
-aVUnited Kingdom
-p6507
-aVEngland
-p6508
-aVWest Midlands
-p6509
-aa(lp6510
-S'Philip Moore'
-p6511
-aS'1951'
-p6512
-aS'No. 8'
-p6513
-aS'1921'
-p6514
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p6515
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p6516
-aVDaïra Djemila
-p6517
-aa(lp6518
-S'Lionel Oakley'
-p6519
-aS'1951'
-p6520
-aS'Centre'
-p6521
-aS'Dacca'
-p6522
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aV\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6
-p6523
-aV\u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997
-p6524
-aV\u09a2\u09be\u0995\u09be
-p6525
-aa(lp6526
-S'George Rittson-Thomas'
-p6527
-aS'1951'
-p6528
-aS'Flanker'
-p6529
-aS'Cardiff'
-p6530
-aS'3'
-aS'0'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p6531
-aVWales
-p6532
-aVCardiff
-p6533
-aa(lp6534
-S'Trevor Smith'
-p6535
-aS'1951'
-p6536
-aS'Hooker'
-p6537
-aS'Bedford'
-p6538
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6539
-aVEngland
-p6540
-aVEast of England
-p6541
-aa(lp6542
-S'Bob Stirling'
-p6543
-aS'1951'
-p6544
-aS'Prop'
-p6545
-aS'Lichfield'
-p6546
-aS'18'
-p6547
-aS'10'
-p6548
-aS'1'
-aS'3'
-aVUnited Kingdom
-p6549
-aVEngland
-p6550
-aVWest Midlands
-p6551
-aa(lp6552
-S'Vic Tindall'
-p6553
-aS'1951'
-p6554
-aS'Wing'
-p6555
-aS'Kingsclere'
-p6556
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6557
-aVEngland
-p6558
-aVSouth East
-p6559
-aa(lp6560
-S'Squire Wilkins'
-p6561
-aS'1951'
-p6562
-aS'Lock'
-p6563
-aS'Leeds'
-p6564
-aS'13'
-p6565
-aS'7'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6566
-aVEngland
-p6567
-aVYorkshire and the Humber
-p6568
-aa(lp6569
-S'Peter Woodruff'
-p6570
-aS'1951'
-p6571
-aS'Wing'
-p6572
-aS'Newport'
-p6573
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6574
-aVNP
-p6575
-aVWales
-p6576
-aa(lp6577
-S'Evan Hardy'
-p6578
-aS'1951'
-p6579
-aS'Fly-half'
-p6580
-aS'Meerut'
-p6581
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVIndia
-p6582
-aVUttar Pradesh
-p6583
-aVMeerut
-p6584
-aa(lp6585
-S'Bruce Neale'
-p6586
-aS'1951'
-p6587
-aS'Lock'
-p6588
-aS'Chelsea'
-p6589
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6590
-aVEngland
-p6591
-aVGreater London
-p6592
-aa(lp6593
-S'John Williams'
-p6594
-aS'1951'
-p6595
-aS'Centre'
-p6596
-aS'Penzance'
-p6597
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6598
-aVTR18
-p6599
-aVEngland
-p6600
-aa(lp6601
-S'William Hook'
-p6602
-aS'1951'
-p6603
-aS'Fullback'
-p6604
-aS'Gloucester'
-p6605
-aS'3'
-aS'1'
-aS'0'
-aS'2'
-aVUnited Kingdom
-p6606
-aVEngland
-p6607
 aVSouth West England
-p6608
-aa(lp6609
-S'Dennis Shuttleworth'
-p6610
-aS'1951'
-p6611
-aS'Scrum-half'
-p6612
-aS'Leeds'
-p6613
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6614
-aVEngland
-p6615
-aVYorkshire and the Humber
-p6616
-aa(lp6617
-S'Albert Agar'
-p6618
-aS'1952'
-p6619
-aS'Centre'
-p6620
-aS'Hartlepool'
-p6621
+p6473
+aa(lp6474
+S'Akker Adkins'
+p6475
+aS'1950'
+p6476
+aS'Lock'
+p6477
 aS'7'
 aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'3'
+aS'Coventry'
+p6478
+aVUnited Kingdom
+p6479
+aVEngland
+p6480
+aVWest Midlands
+p6481
+aa(lp6482
+S'John Hyde'
+p6483
+aS'1950'
+p6484
+aS'Wing'
+p6485
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellingborough'
+p6486
+aVUnited Kingdom
+p6487
+aVEngland
+p6488
+aVEast Midlands
+p6489
+aa(lp6490
+S'John Baume'
+p6491
+aS'1950'
+p6492
+aS'Prop'
+p6493
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dewsbury'
+p6494
+aVUnited Kingdom
+p6495
+aVEngland
+p6496
+aVYorkshire and the Humber
+p6497
+aa(lp6498
+S'Jasper Bartlett'
+p6499
+aS'1951'
+p6500
+aS'Lock'
+p6501
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Birmingham'
+p6502
+aVUnited Kingdom
+p6503
+aVEngland
+p6504
+aVWest Midlands
+p6505
+aa(lp6506
+S'Ted Hewitt'
+p6507
+aS'1951'
+p6508
+aS'Fullback'
+p6509
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'2'
+aS'Coventry'
+p6510
+aVUnited Kingdom
+p6511
+aVEngland
+p6512
+aVWest Midlands
+p6513
+aa(lp6514
+S'Philip Moore'
+p6515
+aS'1951'
+p6516
+aS'No. 8'
+p6517
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1921'
+p6518
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p6519
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p6520
+aVDaïra Djemila
+p6521
+aa(lp6522
+S'Lionel Oakley'
+p6523
+aS'1951'
+p6524
+aS'Centre'
+p6525
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dacca'
+p6526
+aV\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6
+p6527
+aV\u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997
+p6528
+aV\u09a2\u09be\u0995\u09be
+p6529
+aa(lp6530
+S'George Rittson-Thomas'
+p6531
+aS'1951'
+p6532
+aS'Flanker'
+p6533
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'Cardiff'
+p6534
+aVUnited Kingdom
+p6535
+aVWales
+p6536
+aVCardiff
+p6537
+aa(lp6538
+S'Trevor Smith'
+p6539
+aS'1951'
+p6540
+aS'Hooker'
+p6541
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bedford'
+p6542
+aVUnited Kingdom
+p6543
+aVEngland
+p6544
+aVEast of England
+p6545
+aa(lp6546
+S'Bob Stirling'
+p6547
+aS'1951'
+p6548
+aS'Prop'
+p6549
+aS'18'
+p6550
+aS'10'
+p6551
+aS'7'
+aS'1'
+aS'1'
+aS'3'
+aS'Lichfield'
+p6552
+aVUnited Kingdom
+p6553
+aVEngland
+p6554
+aVWest Midlands
+p6555
+aa(lp6556
+S'Vic Tindall'
+p6557
+aS'1951'
+p6558
+aS'Wing'
+p6559
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Kingsclere'
+p6560
+aVUnited Kingdom
+p6561
+aVEngland
+p6562
+aVSouth East
+p6563
+aa(lp6564
+S'Squire Wilkins'
+p6565
+aS'1951'
+p6566
+aS'Lock'
+p6567
+aS'13'
+p6568
+aS'7'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'Leeds'
+p6569
+aVUnited Kingdom
+p6570
+aVEngland
+p6571
+aVYorkshire and the Humber
+p6572
+aa(lp6573
+S'Peter Woodruff'
+p6574
+aS'1951'
+p6575
+aS'Wing'
+p6576
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p6577
+aVUnited Kingdom
+p6578
+aVNP
+p6579
+aVWales
+p6580
+aa(lp6581
+S'Evan Hardy'
+p6582
+aS'1951'
+p6583
+aS'Fly-half'
+p6584
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Meerut'
+p6585
+aVIndia
+p6586
+aVUttar Pradesh
+p6587
+aVMeerut
+p6588
+aa(lp6589
+S'Bruce Neale'
+p6590
+aS'1951'
+p6591
+aS'Lock'
+p6592
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Chelsea'
+p6593
+aVUnited Kingdom
+p6594
+aVEngland
+p6595
+aVGreater London
+p6596
+aa(lp6597
+S'John Williams'
+p6598
+aS'1951'
+p6599
+aS'Centre'
+p6600
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Penzance'
+p6601
+aVUnited Kingdom
+p6602
+aVTR18
+p6603
+aVEngland
+p6604
+aa(lp6605
+S'William Hook'
+p6606
+aS'1951'
+p6607
+aS'Fullback'
+p6608
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'Gloucester'
+p6609
+aVUnited Kingdom
+p6610
+aVEngland
+p6611
+aVSouth West England
+p6612
+aa(lp6613
+S'Dennis Shuttleworth'
+p6614
+aS'1951'
+p6615
+aS'Scrum-half'
+p6616
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Leeds'
+p6617
+aVUnited Kingdom
+p6618
+aVEngland
+p6619
+aVYorkshire and the Humber
+p6620
+aa(lp6621
+S'Albert Agar'
+p6622
+aS'1952'
+p6623
+aS'Centre'
+p6624
+aS'7'
+aS'4'
+aS'2'
+aS'1'
 aS'1'
 aS'6'
+aS'Hartlepool'
+p6625
 aVUnited Kingdom
-p6622
-aVEngland
-p6623
-aVNorth East England
-p6624
-aa(lp6625
-S'Alec Lewis'
 p6626
-aS'1952'
-p6627
-aS'Flanker'
-p6628
-aS'Brighton'
-p6629
-aS'10'
-p6630
-aS'6'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6631
 aVEngland
-p6632
-aVSouth East
-p6633
-aa(lp6634
-S'Chris Winn'
-p6635
+p6627
+aVNorth East England
+p6628
+aa(lp6629
+S'Alec Lewis'
+p6630
 aS'1952'
+p6631
+aS'Flanker'
+p6632
+aS'10'
+p6633
+aS'6'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Brighton'
+p6634
+aVUnited Kingdom
+p6635
+aVEngland
 p6636
-aS'Wing'
+aVSouth East
 p6637
-aS'Beckenham'
-p6638
+aa(lp6638
+S'Chris Winn'
+p6639
+aS'1952'
+p6640
+aS'Wing'
+p6641
 aS'8'
 aS'5'
 aS'3'
+aS'0'
+aS'3'
 aS'9'
+aS'Beckenham'
+p6642
 aVUnited Kingdom
-p6639
-aVEngland
-p6640
-aVGreater London
-p6641
-aa(lp6642
-S'Ted Woodward'
 p6643
-aS'1952'
+aVEngland
 p6644
-aS'Wing'
+aVGreater London
 p6645
-aS'Wycombe'
-p6646
-aS'15'
+aa(lp6646
+S'Ted Woodward'
 p6647
+aS'1952'
+p6648
+aS'Wing'
+p6649
+aS'15'
+p6650
 aS'8'
+aS'5'
+aS'2'
 aS'6'
 aS'21'
-p6648
-aVUnited Kingdom
-p6649
-aVEngland
-p6650
-aVSouth East
 p6651
-aa(lp6652
-S'Elliott Woodgate'
+aS'Wycombe'
+p6652
+aVUnited Kingdom
 p6653
-aS'1952'
+aVEngland
 p6654
-aS'Prop'
+aVSouth East
 p6655
-aS'Totnes'
-p6656
+aa(lp6656
+S'Elliott Woodgate'
+p6657
+aS'1952'
+p6658
+aS'Prop'
+p6659
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Totnes'
+p6660
 aVUnited Kingdom
-p6657
-aVEngland
-p6658
-aVSouth West England
-p6659
-aa(lp6660
-S'Philip Collins'
 p6661
-aS'1952'
-p6662
-aS'Fullback'
-p6663
-aS'Redruth'
-p6664
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6665
 aVEngland
-p6666
+p6662
 aVSouth West England
-p6667
-aa(lp6668
-S'Reginald Bazley'
-p6669
+p6663
+aa(lp6664
+S'Philip Collins'
+p6665
 aS'1952'
+p6666
+aS'Fullback'
+p6667
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Redruth'
+p6668
+aVUnited Kingdom
+p6669
+aVEngland
 p6670
-aS'Wing'
+aVSouth West England
 p6671
-aS'Barrow-in-Furness'
-p6672
-aS'10'
+aa(lp6672
+S'Reginald Bazley'
 p6673
+aS'1952'
+p6674
+aS'Wing'
+p6675
+aS'10'
+p6676
 aS'6'
 aS'2'
+aS'2'
+aS'2'
 aS'6'
+aS'Barrow-in-Furness'
+p6677
 aVUnited Kingdom
-p6674
-aVEngland
-p6675
-aVNorth West England
-p6676
-aa(lp6677
-S'Nick Labuschagne'
 p6678
-aS'1953'
+aVEngland
 p6679
-aS'Hooker'
+aVNorth West England
 p6680
-aS'Durban'
-p6681
+aa(lp6681
+S'Nick Labuschagne'
+p6682
+aS'1953'
+p6683
+aS'Hooker'
+p6684
 aS'5'
 aS'2'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'Durban'
+p6685
 aVSouth Africa
-p6682
-aVKwaZulu-Natal
-p6683
-aVeThekwini Metropolitan Municipality
-p6684
-aa(lp6685
-S'Martin Regan'
 p6686
-aS'1953'
+aVKwaZulu-Natal
 p6687
-aS'Fly-half'
+aVeThekwini Metropolitan Municipality
 p6688
-aS'St Helens'
-p6689
-aS'12'
+aa(lp6689
+S'Martin Regan'
 p6690
+aS'1953'
+p6691
+aS'Fly-half'
+p6692
+aS'12'
+p6693
 aS'8'
+aS'3'
+aS'1'
 aS'1'
 aS'3'
+aS'St Helens'
+p6694
 aVUnited Kingdom
-p6691
-aVEngland
-p6692
-aVNorth West England
-p6693
-aa(lp6694
-S'Jeff Butterfield'
 p6695
-aS'1953'
+aVEngland
 p6696
-aS'Centre'
+aVNorth West England
 p6697
-aS'Heckmondwike'
-p6698
-aS'32'
+aa(lp6698
+S'Jeff Butterfield'
 p6699
-aS'18'
+aS'1953'
 p6700
+aS'Centre'
+p6701
+aS'32'
+p6702
+aS'18'
+p6703
+aS'9'
+aS'5'
 aS'8'
 aS'27'
-p6701
-aVUnited Kingdom
-p6702
-aVEngland
-p6703
-aVYorkshire and the Humber
 p6704
-aa(lp6705
-S'Tug Wilson'
+aS'Heckmondwike'
+p6705
+aVUnited Kingdom
 p6706
-aS'1953'
+aVEngland
 p6707
-aS'Flanker'
+aVYorkshire and the Humber
 p6708
-aS'Wilderness'
-p6709
+aa(lp6709
+S'Tug Wilson'
+p6710
+aS'1953'
+p6711
+aS'Flanker'
+p6712
 aS'8'
 aS'5'
+aS'3'
+aS'0'
 aS'4'
 aS'12'
-p6710
-aVUnited States of America
-p6711
-aVMissouri
-p6712
-aVOregon County
 p6713
-aa(lp6714
-S'Phil Davies'
+aS'Wilderness'
+p6714
+aVSouth Africa
 p6715
-aS'1953'
+aVWestern Cape
 p6716
-aS'Centre'
+aVEden District Municipality
 p6717
-aS'Worcs'
-p6718
-aS'14'
+aa(lp6718
+S'Phil Davies'
 p6719
+aS'1953'
+p6720
+aS'Centre'
+p6721
+aS'14'
+p6722
 aS'7'
+aS'5'
+aS'2'
 aS'1'
 aS'3'
+aS'Worcs'
+p6723
 aVUnited Kingdom
-p6720
-aVWR14 2AY
-p6721
-aVEngland
-p6722
-aa(lp6723
-S'Reg Higgins'
 p6724
-aS'1954'
+aVWR14 2AY
 p6725
-aS'Flanker'
+aVEngland
 p6726
-aS'Lancs'
-p6727
-aS'14'
+aa(lp6727
+S'Reg Higgins'
 p6728
+aS'1954'
+p6729
+aS'Flanker'
+p6730
+aS'14'
+p6731
 aS'9'
+aS'4'
+aS'1'
 aS'2'
 aS'6'
-aVUnited Kingdom
-p6729
-aVS6 3TB
-p6730
-aVEngland
-p6731
-aa(lp6732
-S'Ian King'
-p6733
-aS'1954'
-p6734
-aS'Fullback'
-p6735
-aS'Leyburn'
-p6736
-aS'3'
-aS'2'
-aS'0'
-aS'5'
-aVUnited Kingdom
-p6737
-aVEngland
-p6738
-aVYorkshire and the Humber
-p6739
-aa(lp6740
-S'Pat Quinn'
-p6741
-aS'1954'
-p6742
-aS'Centre'
-p6743
 aS'Lancs'
-p6744
-aS'5'
-aS'3'
-aS'0'
-aS'0'
+p6732
 aVUnited Kingdom
-p6745
+p6733
 aVS6 3TB
-p6746
+p6734
 aVEngland
-p6747
-aa(lp6748
-S'Sandy Sanders'
-p6749
+p6735
+aa(lp6736
+S'Ian King'
+p6737
 aS'1954'
-p6750
-aS'Prop'
-p6751
-aS'Fulham'
-p6752
-aS'9'
-aS'5'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6753
-aVEngland
-p6754
-aVGreater London
-p6755
-aa(lp6756
-S'Peter Yarranton'
-p6757
-aS'1954'
-p6758
-aS'Lock'
-p6759
-aS'Acton'
-p6760
-aS'5'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6761
-aVEngland
-p6762
-aVGreater London
-p6763
-aa(lp6764
-S'Peter Young'
-p6765
-aS'1954'
-p6766
-aS'Lock'
-p6767
-aS'Bristol'
-p6768
-aS'9'
-aS'4'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p6769
-aVEngland
-p6770
-aVSouth West England
-p6771
-aa(lp6772
-S'John Bance'
-p6773
-aS'1954'
-p6774
-aS'Lock'
-p6775
-aS'Kingsclere'
-p6776
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6777
-aVEngland
-p6778
-aVSouth East
-p6779
-aa(lp6780
-S'Nigel Gibbs'
-p6781
-aS'1954'
-p6782
+p6738
 aS'Fullback'
-p6783
-aS'1922'
-p6784
-aS'2'
-aS'1'
-aS'0'
-aS'4'
-aVNorge
-p6785
-aVTroms
-p6786
-aVBardu
-p6787
-aa(lp6788
-S'Vic Leadbetter'
-p6789
-aS'1954'
-p6790
-aS'No. 8'
-p6791
-aS'Kettering'
-p6792
+p6739
+aS'3'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'5'
+aS'Leyburn'
+p6740
 aVUnited Kingdom
-p6793
+p6741
 aVEngland
-p6794
-aVEast Midlands
-p6795
-aa(lp6796
-S'Ernie Robinson'
-p6797
+p6742
+aVYorkshire and the Humber
+p6743
+aa(lp6744
+S'Pat Quinn'
+p6745
 aS'1954'
-p6798
-aS'Hooker'
-p6799
-aS'?'
-aS'4'
+p6746
+aS'Centre'
+p6747
+aS'5'
+aS'3'
 aS'2'
 aS'0'
 aS'0'
-aS'g'
-aS'n'
-aS'i'
+aS'0'
+aS'Lancs'
+p6748
+aVUnited Kingdom
+p6749
+aVS6 3TB
+p6750
+aVEngland
+p6751
+aa(lp6752
+S'Sandy Sanders'
+p6753
+aS'1954'
+p6754
+aS'Prop'
+p6755
+aS'9'
+aS'5'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Fulham'
+p6756
+aVUnited Kingdom
+p6757
+aVEngland
+p6758
+aVGreater London
+p6759
+aa(lp6760
+S'Peter Yarranton'
+p6761
+aS'1954'
+p6762
+aS'Lock'
+p6763
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Acton'
+p6764
+aVUnited Kingdom
+p6765
+aVEngland
+p6766
+aVEast of England
+p6767
+aa(lp6768
+S'Peter Young'
+p6769
+aS'1954'
+p6770
+aS'Lock'
+p6771
+aS'9'
+aS'4'
+aS'4'
+aS'1'
+aS'1'
+aS'3'
+aS'Bristol'
+p6772
+aVUnited Kingdom
+p6773
+aVEngland
+p6774
+aVSouth West England
+p6775
+aa(lp6776
+S'John Bance'
+p6777
+aS'1954'
+p6778
+aS'Lock'
+p6779
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Kingsclere'
+p6780
+aVUnited Kingdom
+p6781
+aVEngland
+p6782
+aVSouth East
+p6783
+aa(lp6784
+S'Nigel Gibbs'
+p6785
+aS'1954'
+p6786
+aS'Fullback'
+p6787
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'4'
+aS'1922'
+p6788
+aVNorge
+p6789
+aVTroms
+p6790
+aVBardu
+p6791
+aa(lp6792
+S'Vic Leadbetter'
+p6793
+aS'1954'
+p6794
+aS'No. 8'
+p6795
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Kettering'
+p6796
+aVUnited Kingdom
+p6797
+aVEngland
+p6798
+aVEast Midlands
+p6799
 aa(lp6800
-S'Johnny Williams'
+S'Ernie Robinson'
 p6801
 aS'1954'
 p6802
-aS'Scrum-half'
+aS'Hooker'
 p6803
-aS'Leeds N'
-p6804
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aa(lp6804
+S'Johnny Williams'
+p6805
+aS'1954'
+p6806
+aS'Scrum-half'
+p6807
 aS'9'
 aS'3'
+aS'5'
+aS'1'
 aS'1'
 aS'3'
+aS'Leeds N'
+p6808
 aVUnited States of America
-p6805
-aVNew York
-p6806
-aVGreene County
-p6807
-aa(lp6808
-S'Doug Baker'
 p6809
-aS'1955'
+aVNew York
 p6810
-aS'Fly-half'
+aVGreene County
 p6811
-aS'Canary Is'
-p6812
+aa(lp6812
+S'Doug Baker'
+p6813
+aS'1955'
+p6814
+aS'Fly-half'
+p6815
 aS'6'
 aS'2'
+aS'3'
+aS'1'
 aS'0'
 aS'3'
-aVUnited States of America
-p6813
-aVMassachusetts
-p6814
-aVHampshire County
-p6815
-aa(lp6816
-S'William Hancock'
+aS'Canary Is'
+p6816
+aVAustralia
 p6817
-aS'1955'
+aVVictoria
 p6818
-aS'Lock'
+aVLoddon Mallee
 p6819
-aS'Monmouth'
-p6820
+aa(lp6820
+S'William Hancock'
+p6821
+aS'1955'
+p6822
+aS'Lock'
+p6823
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'Monmouth'
+p6824
 aVUnited Kingdom
-p6821
-aVNP25
-p6822
-aVWales
-p6823
-aa(lp6824
-S'George Hastings'
 p6825
-aS'1955'
+aVNP25
 p6826
-aS'Prop'
+aVWales
 p6827
-aS'Dursley'
-p6828
-aS'13'
+aa(lp6828
+S'George Hastings'
 p6829
+aS'1955'
+p6830
+aS'Prop'
+p6831
+aS'13'
+p6832
 aS'8'
+aS'2'
+aS'3'
 aS'1'
 aS'11'
-p6830
-aVUnited Kingdom
-p6831
-aVGL11
-p6832
-aVEngland
 p6833
-aa(lp6834
-S'David Hazell'
+aS'Dursley'
+p6834
+aVUnited Kingdom
 p6835
-aS'1955'
+aVGL11
 p6836
-aS'Prop'
+aVEngland
 p6837
-aS'Taunton'
-p6838
+aa(lp6838
+S'David Hazell'
+p6839
+aS'1955'
+p6840
+aS'Prop'
+p6841
 aS'4'
+aS'1'
+aS'2'
 aS'1'
 aS'0'
 aS'9'
+aS'Taunton'
+p6842
 aVUnited Kingdom
-p6839
-aVEngland
-p6840
-aVSouth West England
-p6841
-aa(lp6842
-S'Peter Ryan'
 p6843
-aS'1955'
+aVEngland
 p6844
-aS'Flanker'
+aVSouth West England
 p6845
-aS'Bucklow'
-p6846
+aa(lp6846
+S'Peter Ryan'
+p6847
+aS'1955'
+p6848
+aS'Flanker'
+p6849
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
+aS'Bucklow'
+p6850
 aVUnited Kingdom
-p6847
-aVM21
-p6848
-aVEngland
-p6849
-aa(lp6850
-S'Noddy Taylor'
 p6851
-aS'1955'
+aVM21
 p6852
-aS'No. 8'
+aVEngland
 p6853
-aS'Wakefield'
-p6854
+aa(lp6854
+S'Noddy Taylor'
+p6855
+aS'1955'
+p6856
+aS'No. 8'
+p6857
 aS'6'
 aS'1'
+aS'2'
+aS'3'
 aS'0'
 aS'0'
+aS'Wakefield'
+p6858
 aVUnited Kingdom
-p6855
-aVEngland
-p6856
-aVYorkshire and the Humber
-p6857
-aa(lp6858
-S'Ian Beer'
 p6859
-aS'1955'
+aVEngland
 p6860
-aS'No. 8'
+aVYorkshire and the Humber
 p6861
-aS'Croydon'
-p6862
+aa(lp6862
+S'Ian Beer'
+p6863
+aS'1955'
+p6864
+aS'No. 8'
+p6865
 aS'2'
 aS'1'
 aS'1'
+aS'0'
+aS'1'
 aS'3'
+aS'Croydon'
+p6866
 aVUnited Kingdom
-p6863
-aVEngland
-p6864
-aVGreater London
-p6865
-aa(lp6866
-S'Harry Scott'
 p6867
-aS'1955'
+aVEngland
 p6868
-aS'Fullback'
+aVGreater London
 p6869
-aS'Yorks'
-p6870
+aa(lp6870
+S'Harry Scott'
+p6871
+aS'1955'
+p6872
+aS'Fullback'
+p6873
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVDeutschland
-p6871
-aV10965
-p6872
-aVBerlin
-p6873
-aa(lp6874
-S'Frank Sykes'
-p6875
-aS'1955'
-p6876
-aS'Wing'
-p6877
 aS'Yorks'
-p6878
+p6874
+aVDeutschland
+p6875
+aV10965
+p6876
+aVBerlin
+p6877
+aa(lp6878
+S'Frank Sykes'
+p6879
+aS'1955'
+p6880
+aS'Wing'
+p6881
 aS'4'
 aS'1'
+aS'3'
+aS'0'
 aS'1'
 aS'3'
+aS'Yorks'
+p6882
 aVDeutschland
-p6879
-aV10965
-p6880
-aVBerlin
-p6881
-aa(lp6882
-S'Noel Estcourt'
 p6883
-aS'1955'
+aV10965
 p6884
-aS'Fullback'
+aVBerlin
 p6885
-aS'South Rhodesia'
-p6886
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited States of America
+aa(lp6886
+S'Noel Estcourt'
 p6887
-aVWashington
+aS'1955'
 p6888
-aVPacific County
-p6889
-aa(lp6890
-S'Fenwick Allison'
-p6891
-aS'1956'
-p6892
 aS'Fullback'
+p6889
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'South Rhodesia'
+p6890
+aVUnited States of America
+p6891
+aVWashington
+p6892
+aVPacific County
 p6893
-aS'Tynemouth'
-p6894
+aa(lp6894
+S'Fenwick Allison'
+p6895
+aS'1956'
+p6896
+aS'Fullback'
+p6897
 aS'7'
 aS'3'
+aS'2'
+aS'2'
 aS'0'
 aS'15'
-p6895
-aVUnited Kingdom
-p6896
-aVEngland
-p6897
-aVNorth East England
 p6898
-aa(lp6899
-S'Ned Ashcroft'
+aS'Tynemouth'
+p6899
+aVUnited Kingdom
 p6900
-aS'1956'
+aVEngland
 p6901
-aS'No. 8'
+aVNorth East England
 p6902
-aS'St Helens'
-p6903
-aS'18'
+aa(lp6903
+S'Ned Ashcroft'
 p6904
-aS'11'
+aS'1956'
 p6905
+aS'No. 8'
+p6906
+aS'18'
+p6907
+aS'11'
+p6908
+aS'3'
+aS'4'
 aS'1'
 aS'3'
+aS'St Helens'
+p6909
 aVUnited Kingdom
-p6906
-aVEngland
-p6907
-aVNorth West England
-p6908
-aa(lp6909
-S'John Currie'
 p6910
-aS'1956'
+aVEngland
 p6911
-aS'Lock'
+aVNorth West England
 p6912
-aS'Clifton'
-p6913
-aS'25'
+aa(lp6913
+S'John Currie'
 p6914
-aS'14'
+aS'1956'
 p6915
+aS'Lock'
+p6916
+aS'25'
+p6917
+aS'14'
+p6918
+aS'5'
+aS'6'
 aS'0'
 aS'16'
-p6916
-aVUnited Kingdom
-p6917
-aVEngland
-p6918
-aVSouth West England
 p6919
-aa(lp6920
-S'Peter Jackson'
+aS'Clifton'
+p6920
+aVSouth Africa
 p6921
-aS'1956'
+aVWestern Cape
 p6922
-aS'Wing'
+aVCity of Cape Town
 p6923
-aS'Birmingham'
-p6924
-aS'25'
+aa(lp6924
+S'Peter Jackson'
 p6925
-aS'15'
+aS'1956'
 p6926
+aS'Wing'
+p6927
+aS'25'
+p6928
+aS'15'
+p6929
+aS'5'
+aS'5'
 aS'8'
 aS'24'
-p6927
-aVUnited Kingdom
-p6928
-aVEngland
-p6929
-aVWest Midlands
 p6930
-aa(lp6931
-S'Ron Jacobs'
-p6932
-aS'1956'
-p6933
-aS'Prop'
-p6934
-aS'Cambs'
-p6935
-aS'29'
-p6936
-aS'14'
-p6937
-aS'0'
-aS'0'
-aVDeutschland
-p6938
-aVMecklenburg-Vorpommern
-p6939
-aVLandkreis Ludwigslust-Parchim
-p6940
-aa(lp6941
-S'Dickie Jeeps'
-p6942
-aS'1955'
-p6943
-aS'Scrum-half'
-p6944
-aS'Chesterton'
-p6945
-aS'37'
-p6946
-aS'17'
-p6947
-aS'0'
-aS'0'
-aVUnited States of America
-p6948
-aVIndiana
-p6949
-aVPorter County
-p6950
-aa(lp6951
-S'David Marques'
-p6952
-aS'1956'
-p6953
-aS'Lock'
-p6954
-aS'Ware'
-p6955
-aS'25'
-p6956
-aS'14'
-p6957
-aS'1'
-aS'3'
-aVUnited States of America
-p6958
-aVGeorgia
-p6959
-aVWare
-p6960
-aa(lp6961
-S'Peter Robbins'
-p6962
-aS'1956'
-p6963
-aS'Flanker'
-p6964
-aS'Coventry'
-p6965
-aS'19'
-p6966
-aS'11'
-p6967
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6968
-aVEngland
-p6969
-aVWest Midlands
-p6970
-aa(lp6971
-S'Mike Smith'
-p6972
-aS'1956'
-p6973
-aS'Fly-half'
-p6974
-aS'Leicester'
-p6975
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p6976
-aVEngland
-p6977
-aVEast Midlands
-p6978
-aa(lp6979
-S'Peter Thompson'
-p6980
-aS'1956'
-p6981
-aS'Wing'
-p6982
-aS'Scarborough'
-p6983
-aS'17'
-p6984
-aS'10'
-p6985
-aS'5'
-aS'15'
-p6986
-aVUnited Kingdom
-p6987
-aVEngland
-p6988
-aVYorkshire and the Humber
-p6989
-aa(lp6990
-S'Ricky Bartlett'
-p6991
-aS'1957'
-p6992
-aS'Fly-half'
-p6993
-aS'Kingston'
-p6994
-aS'7'
-aS'6'
-aS'0'
-aS'0'
-aVJamaica
-p6995
-aVSurrey County
-p6996
-aVKingston and St. Andrew Corporation
-p6997
-aa(lp6998
-S'Bob Challis'
-p6999
-aS'1957'
-p7000
-aS'Fullback'
-p7001
-aS'Long Ashton'
-p7002
-aS'3'
-aS'3'
-aS'0'
-aS'10'
-p7003
-aVUnited Kingdom
-p7004
-aVBS41 9
-p7005
-aVEngland
-p7006
-aa(lp7007
-S'Phil Horrocks-Taylor'
-p7008
-aS'1958'
-p7009
-aS'Fly-half'
-p7010
-aS'Halifax'
-p7011
-aS'10'
-p7012
-aS'2'
-aS'0'
-aS'3'
-aVCanada
-p7013
-aVNova Scotia
-p7014
-aVHalifax County
-p7015
-aa(lp7016
-S'Ronald Syrett'
-p7017
-aS'1958'
-p7018
-aS'Flanker'
-p7019
-aS'Amersham'
-p7020
-aS'11'
-p7021
-aS'7'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p7022
-aVEngland
-p7023
-aVSouth East
-p7024
-aa(lp7025
-S'Jim Hetherington'
-p7026
-aS'1958'
-p7027
-aS'Fullback'
-p7028
-aS'Brighton'
-p7029
-aS'6'
-aS'3'
-aS'0'
-aS'9'
-aVUnited Kingdom
-p7030
-aVEngland
-p7031
-aVSouth East
-p7032
-aa(lp7033
-S'Malcolm Phillips'
-p7034
-aS'1958'
-p7035
-aS'Centre'
-p7036
-aS'Prestbury'
-p7037
-aS'25'
-p7038
-aS'11'
-p7039
-aS'5'
-aS'15'
-p7040
-aVUnited Kingdom
-p7041
-aVEngland
-p7042
-aVNorth West England
-p7043
-aa(lp7044
-S'John Young'
-p7045
-aS'1958'
-p7046
-aS'Wing'
-p7047
-aS'Chester'
-p7048
-aS'10'
-p7049
-aS'4'
-aS'3'
-aS'9'
-aVUnited Kingdom
-p7050
-aVEngland
-p7051
-aVNorth West England
-p7052
-aa(lp7053
-S'Alfred Herbert'
-p7054
-aS'1958'
-p7055
-aS'Flanker'
-p7056
-aS'Stroud'
-p7057
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7058
-aVEngland
-p7059
-aVSouth West England
-p7060
-aa(lp7061
-S'John Scott'
-p7062
-aS'1958'
-p7063
-aS'Fullback'
-p7064
-aS'?'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp7065
-S'Gordon Bendon'
-p7066
-aS'1959'
-p7067
-aS'Prop'
-p7068
-aS'Lambeth'
-p7069
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7070
-aVEngland
-p7071
-aVGreater London
-p7072
-aa(lp7073
-S'Bev Risman'
-p7074
-aS'1959'
-p7075
-aS'Fly-half'
-p7076
-aS'Salford'
-p7077
-aS'12'
-p7078
-aS'4'
-aS'2'
-aS'18'
-p7079
-aVUnited Kingdom
-p7080
-aVEngland
-p7081
-aVNorth West England
-p7082
-aa(lp7083
-S'Stephen Smith'
-p7084
-aS'1959'
-p7085
-aS'Scrum-half'
-p7086
-aS'1934'
-p7087
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p7088
-aV\u0421\u041a\u0424\u041e
-p7089
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p7090
-aa(lp7091
-S'John Wackett'
-p7092
-aS'1959'
-p7093
-aS'Hooker'
-p7094
-aS'Hatfield'
-p7095
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7096
-aVEngland
-p7097
-aVEast of England
-p7098
-aa(lp7099
-S'Larry Webb'
-p7100
-aS'1959'
-p7101
-aS'Prop'
-p7102
-aS'VIC'
-p7103
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p7104
-aVVictoria
-p7105
-ag9
-aa(lp7106
-S'Brian Wightman'
-p7107
-aS'1959'
-p7108
-aS'No. 8'
-p7109
 aS'Birmingham'
-p7110
+p6931
+aVUnited Kingdom
+p6932
+aVEngland
+p6933
+aVWest Midlands
+p6934
+aa(lp6935
+S'Ron Jacobs'
+p6936
+aS'1956'
+p6937
+aS'Prop'
+p6938
+aS'29'
+p6939
+aS'14'
+p6940
+aS'10'
+p6941
+aS'5'
+aS'0'
+aS'0'
+aS'Cambs'
+p6942
+aVDeutschland
+p6943
+aVMecklenburg-Vorpommern
+p6944
+aVLandkreis Ludwigslust-Parchim
+p6945
+aa(lp6946
+S'Dickie Jeeps'
+p6947
+aS'1955'
+p6948
+aS'Scrum-half'
+p6949
+aS'37'
+p6950
+aS'17'
+p6951
+aS'13'
+p6952
+aS'7'
+aS'0'
+aS'0'
+aS'Chesterton'
+p6953
+aVUnited Kingdom
+p6954
+aVCB4 1UN
+p6955
+aVEngland
+p6956
+aa(lp6957
+S'David Marques'
+p6958
+aS'1956'
+p6959
+aS'Lock'
+p6960
+aS'25'
+p6961
+aS'14'
+p6962
+aS'6'
 aS'5'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7111
-aVEngland
-p7112
-aVWest Midlands
-p7113
-aa(lp7114
-S'Jeff Clements'
-p7115
-aS'1959'
-p7116
+aS'3'
+aS'Ware'
+p6963
+aVUnited States of America
+p6964
+aVGeorgia
+p6965
+aVWare
+p6966
+aa(lp6967
+S'Peter Robbins'
+p6968
+aS'1956'
+p6969
 aS'Flanker'
-p7117
-aS'Wincanton'
-p7118
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7119
-aVEngland
-p7120
-aVSouth West England
-p7121
-aa(lp7122
-S'Herbert Godwin'
-p7123
-aS'1959'
-p7124
-aS'Hooker'
-p7125
-aS'Abergavenny'
-p7126
+p6970
+aS'19'
+p6971
 aS'11'
-p7127
-aS'2'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p7128
-aVNP7
-p7129
-aVWales
-p7130
-aa(lp7131
-S'Stan Hodgson'
-p7132
-aS'1960'
-p7133
-aS'Hooker'
-p7134
-aS'Durham'
-p7135
-aS'11'
-p7136
+p6972
+aS'4'
 aS'4'
 aS'0'
 aS'0'
+aS'Coventry'
+p6973
 aVUnited Kingdom
-p7137
+p6974
 aVEngland
-p7138
-aVNorth East England
-p7139
-aa(lp7140
-S'William Morgan'
-p7141
-aS'1960'
-p7142
-aS'No. 8'
-p7143
-aS'Monmouth'
-p7144
-aS'9'
-aS'4'
+p6975
+aVWest Midlands
+p6976
+aa(lp6977
+S'Mike Smith'
+p6978
+aS'1956'
+p6979
+aS'Fly-half'
+p6980
+aS'1'
+aS'0'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Leicester'
+p6981
 aVUnited Kingdom
-p7145
-aVNP25
-p7146
-aVWales
-p7147
-aa(lp7148
-S'James Roberts'
-p7149
-aS'1960'
-p7150
+p6982
+aVEngland
+p6983
+aVEast Midlands
+p6984
+aa(lp6985
+S'Peter Thompson'
+p6986
+aS'1956'
+p6987
 aS'Wing'
-p7151
-aS'?'
-aS'18'
-p7152
+p6988
+aS'17'
+p6989
+aS'10'
+p6990
+aS'3'
+aS'4'
+aS'5'
+aS'15'
+p6991
+aS'Scarborough'
+p6992
+aVUnited Kingdom
+p6993
+aVEngland
+p6994
+aVYorkshire and the Humber
+p6995
+aa(lp6996
+S'Ricky Bartlett'
+p6997
+aS'1957'
+p6998
+aS'Fly-half'
+p6999
+aS'7'
+aS'6'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Kingston'
+p7000
+aVJamaica
+p7001
+aVSurrey County
+p7002
+aVKingston and St. Andrew Corporation
+p7003
+aa(lp7004
+S'Bob Challis'
+p7005
+aS'1957'
+p7006
+aS'Fullback'
+p7007
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'10'
+p7008
+aS'Long Ashton'
+p7009
+aVUnited Kingdom
+p7010
+aVBS41 9
+p7011
+aVEngland
+p7012
+aa(lp7013
+S'Phil Horrocks-Taylor'
+p7014
+aS'1958'
+p7015
+aS'Fly-half'
+p7016
+aS'10'
+p7017
+aS'2'
+aS'5'
+aS'3'
+aS'0'
+aS'3'
+aS'Halifax'
+p7018
+aVCanada
+p7019
+aVNova Scotia
+p7020
+aVHalifax County
+p7021
+aa(lp7022
+S'Ronald Syrett'
+p7023
+aS'1958'
+p7024
+aS'Flanker'
+p7025
+aS'11'
+p7026
+aS'7'
+aS'1'
+aS'3'
+aS'1'
+aS'3'
+aS'Amersham'
+p7027
+aVUnited Kingdom
+p7028
+aVEngland
+p7029
+aVSouth East
+p7030
+aa(lp7031
+S'Jim Hetherington'
+p7032
+aS'1958'
+p7033
+aS'Fullback'
+p7034
+aS'6'
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'9'
+aS'Brighton'
+p7035
+aVUnited Kingdom
+p7036
+aVEngland
+p7037
+aVSouth East
+p7038
+aa(lp7039
+S'Malcolm Phillips'
+p7040
+aS'1958'
+p7041
+aS'Centre'
+p7042
+aS'25'
+p7043
+aS'11'
+p7044
 aS'8'
 aS'6'
-aS'18'
-p7153
+aS'5'
+aS'15'
+p7045
+aS'Prestbury'
+p7046
+aVUnited Kingdom
+p7047
+aVEngland
+p7048
+aVNorth West England
+p7049
+aa(lp7050
+S'John Young'
+p7051
+aS'1958'
+p7052
+aS'Wing'
+p7053
+aS'10'
+p7054
+aS'4'
+aS'4'
+aS'2'
+aS'3'
+aS'9'
+aS'Chester'
+p7055
+aVUnited Kingdom
+p7056
+aVEngland
+p7057
+aVNorth West England
+p7058
+aa(lp7059
+S'Alfred Herbert'
+p7060
+aS'1958'
+p7061
+aS'Flanker'
+p7062
+aS'6'
+aS'2'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'Stroud'
+p7063
+aVUnited Kingdom
+p7064
+aVEngland
+p7065
+aVSouth West England
+p7066
+aa(lp7067
+S'John Scott'
+p7068
+aS'1958'
+p7069
+aS'Fullback'
+p7070
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
+aa(lp7071
+S'Gordon Bendon'
+p7072
+aS'1959'
+p7073
+aS'Prop'
+p7074
+aS'4'
+aS'1'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'Lambeth'
+p7075
+aVUnited Kingdom
+p7076
+aVEngland
+p7077
+aVGreater London
+p7078
+aa(lp7079
+S'Bev Risman'
+p7080
+aS'1959'
+p7081
+aS'Fly-half'
+p7082
+aS'12'
+p7083
+aS'4'
+aS'5'
+aS'3'
+aS'2'
+aS'18'
+p7084
+aS'Salford'
+p7085
+aVUnited Kingdom
+p7086
+aVEngland
+p7087
+aVNorth West England
+p7088
+aa(lp7089
+S'Stephen Smith'
+p7090
+aS'1959'
+p7091
+aS'Scrum-half'
+p7092
+aS'5'
+aS'1'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1934'
+p7093
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p7094
+aV\u0421\u041a\u0424\u041e
+p7095
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p7096
+aa(lp7097
+S'John Wackett'
+p7098
+aS'1959'
+p7099
+aS'Hooker'
+p7100
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Hatfield'
+p7101
+aVUnited Kingdom
+p7102
+aVEngland
+p7103
+aVEast of England
+p7104
+aa(lp7105
+S'Larry Webb'
+p7106
+aS'1959'
+p7107
+aS'Prop'
+p7108
+aS'4'
+aS'1'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'VIC'
+p7109
+aVAustralia
+p7110
+aVVictoria
+p7111
+ag9
+aa(lp7112
+S'Brian Wightman'
+p7113
+aS'1959'
+p7114
+aS'No. 8'
+p7115
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Birmingham'
+p7116
+aVUnited Kingdom
+p7117
+aVEngland
+p7118
+aVWest Midlands
+p7119
+aa(lp7120
+S'Jeff Clements'
+p7121
+aS'1959'
+p7122
+aS'Flanker'
+p7123
+aS'3'
+aS'1'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'Wincanton'
+p7124
+aVUnited Kingdom
+p7125
+aVEngland
+p7126
+aVSouth West England
+p7127
+aa(lp7128
+S'Herbert Godwin'
+p7129
+aS'1959'
+p7130
+aS'Hooker'
+p7131
+aS'11'
+p7132
+aS'2'
+aS'7'
+aS'2'
+aS'1'
+aS'3'
+aS'Abergavenny'
+p7133
+aVUnited Kingdom
+p7134
+aVNP7
+p7135
+aVWales
+p7136
+aa(lp7137
+S'Stan Hodgson'
+p7138
+aS'1960'
+p7139
+aS'Hooker'
+p7140
+aS'11'
+p7141
+aS'4'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'Durham'
+p7142
+aVUnited Kingdom
+p7143
+aVEngland
+p7144
+aVNorth East England
+p7145
+aa(lp7146
+S'William Morgan'
+p7147
+aS'1960'
+p7148
+aS'No. 8'
+p7149
+aS'9'
+aS'4'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'Monmouth'
+p7150
+aVUnited Kingdom
+p7151
+aVNP25
+p7152
+aVWales
+p7153
 aa(lp7154
-S'Don Rutherford'
+S'James Roberts'
 p7155
 aS'1960'
 p7156
-aS'Fullback'
+aS'Wing'
 p7157
-aS'Tynemouth'
+aS'18'
 p7158
-aS'15'
-p7159
+aS'8'
 aS'5'
-aS'0'
-aS'41'
-p7160
-aVUnited Kingdom
-p7161
-aVEngland
-p7162
-aVNorth East England
-p7163
-aa(lp7164
-S'Richard Sharp'
-p7165
-aS'1960'
-p7166
-aS'Fly-half'
-p7167
-aS'Mysore'
-p7168
-aS'16'
-p7169
-aS'7'
-aS'2'
-aS'29'
-p7170
-aVIndia
-p7171
-aV570001
-p7172
-aVKarnataka
-p7173
-aa(lp7174
-S'Mike Weston'
-p7175
-aS'1960'
-p7176
-aS'Centre'
-p7177
-aS'Durham'
-p7178
-aS'35'
-p7179
-aS'13'
-p7180
-aS'1'
+aS'5'
 aS'6'
-aVUnited Kingdom
-p7181
-aVEngland
-p7182
-aVNorth East England
-p7183
-aa(lp7184
-S'Peter Wright'
-p7185
-aS'1960'
-p7186
-aS'Prop'
-p7187
-aS'Glanford'
-p7188
-aS'13'
-p7189
-aS'5'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7190
-aVDN15 8TD
-p7191
-aVEngland
-p7192
-aa(lp7193
-S'Bill Patterson'
-p7194
-aS'1959'
-p7195
-aS'Centre'
-p7196
-aS'Newcastle-upon-Tyne'
-p7197
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7198
-aVEngland
-p7199
-aVNorth East England
-p7200
-aa(lp7201
-S'Laurie Rimmer'
-p7202
-aS'1961'
-p7203
-aS'Flanker'
-p7204
-aS'Liverpool S'
-p7205
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7206
-aVEngland
-p7207
-aVNorth West England
-p7208
-aa(lp7209
-S'Ray French'
-p7210
-aS'1961'
-p7211
-aS'Lock'
-p7212
-aS'St Helens'
-p7213
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7214
-aVEngland
-p7215
-aVNorth West England
-p7216
-aa(lp7217
-S'Mike Gavins'
-p7218
-aS'1961'
-p7219
-aS'Fullback'
-p7220
-aS'Leeds'
-p7221
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7222
-aVEngland
-p7223
-aVYorkshire and the Humber
-p7224
-aa(lp7225
-S'John Price'
-p7226
-aS'1961'
-p7227
-aS'Lock'
-p7228
+aS'18'
+p7159
 aS'?'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aS'g'
 aS'n'
 aS'i'
-aa(lp7229
-S'Budge Rogers'
-p7230
+aa(lp7160
+S'Don Rutherford'
+p7161
+aS'1960'
+p7162
+aS'Fullback'
+p7163
+aS'15'
+p7164
+aS'5'
+aS'7'
+aS'3'
+aS'0'
+aS'41'
+p7165
+aS'Tynemouth'
+p7166
+aVUnited Kingdom
+p7167
+aVEngland
+p7168
+aVNorth East England
+p7169
+aa(lp7170
+S'Richard Sharp'
+p7171
+aS'1960'
+p7172
+aS'Fly-half'
+p7173
+aS'16'
+p7174
+aS'7'
+aS'5'
+aS'4'
+aS'2'
+aS'29'
+p7175
+aS'Mysore'
+p7176
+aVIndia
+p7177
+aV570001
+p7178
+aVKarnataka
+p7179
+aa(lp7180
+S'Mike Weston'
+p7181
+aS'1960'
+p7182
+aS'Centre'
+p7183
+aS'35'
+p7184
+aS'13'
+p7185
+aS'15'
+p7186
+aS'7'
+aS'1'
+aS'6'
+aS'Durham'
+p7187
+aVUnited Kingdom
+p7188
+aVEngland
+p7189
+aVNorth East England
+p7190
+aa(lp7191
+S'Peter Wright'
+p7192
+aS'1960'
+p7193
+aS'Prop'
+p7194
+aS'13'
+p7195
+aS'5'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'Glanford'
+p7196
+aVUnited Kingdom
+p7197
+aVDN15 8TD
+p7198
+aVEngland
+p7199
+aa(lp7200
+S'Bill Patterson'
+p7201
+aS'1959'
+p7202
+aS'Centre'
+p7203
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Newcastle-upon-Tyne'
+p7204
+aVUnited Kingdom
+p7205
+aVEngland
+p7206
+aVNorth East England
+p7207
+aa(lp7208
+S'Laurie Rimmer'
+p7209
 aS'1961'
-p7231
+p7210
 aS'Flanker'
-p7232
-aS'Bedford'
+p7211
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Liverpool S'
+p7212
+aVUnited Kingdom
+p7213
+aVEngland
+p7214
+aVNorth West England
+p7215
+aa(lp7216
+S'Ray French'
+p7217
+aS'1961'
+p7218
+aS'Lock'
+p7219
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'St Helens'
+p7220
+aVUnited Kingdom
+p7221
+aVEngland
+p7222
+aVNorth West England
+p7223
+aa(lp7224
+S'Mike Gavins'
+p7225
+aS'1961'
+p7226
+aS'Fullback'
+p7227
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Leeds'
+p7228
+aVUnited Kingdom
+p7229
+aVEngland
+p7230
+aVYorkshire and the Humber
+p7231
+aa(lp7232
+S'John Price'
 p7233
-aS'36'
+aS'1961'
 p7234
-aS'10'
+aS'Lock'
 p7235
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aa(lp7236
+S'Budge Rogers'
+p7237
+aS'1961'
+p7238
+aS'Flanker'
+p7239
+aS'36'
+p7240
+aS'10'
+p7241
+aS'19'
+p7242
+aS'7'
 aS'3'
 aS'9'
-aVUnited Kingdom
-p7236
-aVEngland
-p7237
-aVEast of England
-p7238
-aa(lp7239
-S'John Willcox'
-p7240
-aS'1961'
-p7241
-aS'Fullback'
-p7242
-aS'Sutton Coldfield'
+aS'Bedford'
 p7243
-aS'19'
+aVUnited Kingdom
 p7244
+aVEngland
+p7245
+aVEast of England
+p7246
+aa(lp7247
+S'John Willcox'
+p7248
+aS'1961'
+p7249
+aS'Fullback'
+p7250
+aS'19'
+p7251
+aS'6'
+aS'7'
 aS'6'
 aS'0'
 aS'22'
-p7245
-aVUnited Kingdom
-p7246
-aVEngland
-p7247
-aVWest Midlands
-p7248
-aa(lp7249
-S'Victor Harding'
-p7250
-aS'1961'
-p7251
-aS'Lock'
 p7252
-aS'Southwark'
+aS'Sutton Coldfield'
 p7253
-aS'6'
-aS'2'
-aS'1'
-aS'3'
 aVUnited Kingdom
 p7254
 aVEngland
 p7255
-aVGreater London
+aVWest Midlands
 p7256
 aa(lp7257
-S'Philip Judd'
+S'Victor Harding'
 p7258
-aS'1962'
+aS'1961'
 p7259
-aS'Prop'
+aS'Lock'
 p7260
-aS'Coventry'
+aS'6'
+aS'2'
+aS'1'
+aS'3'
+aS'1'
+aS'3'
+aS'Southwark'
 p7261
-aS'22'
+aVUnited Kingdom
 p7262
-aS'5'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aVEngland
 p7263
-aVEngland
+aVGreater London
 p7264
-aVWest Midlands
-p7265
-aa(lp7266
-S'Martin Underwood'
-p7267
+aa(lp7265
+S'Philip Judd'
+p7266
 aS'1962'
+p7267
+aS'Prop'
 p7268
-aS'Wing'
+aS'22'
 p7269
-aS'Kidderminster'
+aS'5'
+aS'13'
 p7270
+aS'4'
+aS'0'
+aS'0'
+aS'Coventry'
+p7271
+aVUnited Kingdom
+p7272
+aVEngland
+p7273
+aVWest Midlands
+p7274
+aa(lp7275
+S'Martin Underwood'
+p7276
+aS'1962'
+p7277
+aS'Wing'
+p7278
 aS'5'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7271
-aVEngland
-p7272
-aVWest Midlands
-p7273
-aa(lp7274
-S'Mike Wade'
-p7275
-aS'1962'
-p7276
-aS'Centre'
-p7277
-aS'Leicester'
-p7278
-aS'3'
-aS'1'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p7279
-aVEngland
-p7280
-aVEast Midlands
-p7281
-aa(lp7282
-S'John Dee'
-p7283
-aS'1962'
-p7284
-aS'Centre'
-p7285
-aS'Hartlepool'
-p7286
+aS'2'
 aS'2'
 aS'0'
 aS'0'
-aS'0'
+aS'Kidderminster'
+p7279
 aVUnited Kingdom
+p7280
+aVEngland
+p7281
+aVWest Midlands
+p7282
+aa(lp7283
+S'Mike Wade'
+p7284
+aS'1962'
+p7285
+aS'Centre'
+p7286
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'1'
+aS'3'
+aS'Leicester'
 p7287
-aVEngland
+aVUnited Kingdom
 p7288
-aVNorth East England
+aVEngland
 p7289
-aa(lp7290
-S'Andy Hurst'
-p7291
-aS'1962'
+aVEast Midlands
+p7290
+aa(lp7291
+S'John Dee'
 p7292
-aS'Wing'
+aS'1962'
 p7293
-aS'Cairo'
+aS'Centre'
 p7294
+aS'2'
+aS'0'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aS'0'
-aV\u0645\u0635\u0631
+aS'Hartlepool'
 p7295
-aV\u0627\u0644\u0642\u0627\u0647\u0631\u0629
+aVUnited Kingdom
 p7296
-ag9
-aa(lp7297
-S'Thomas Pargetter'
+aVEngland
+p7297
+aVNorth East England
 p7298
-aS'1962'
-p7299
-aS'Lock'
+aa(lp7299
+S'Andy Hurst'
 p7300
-aS'Stratford'
-p7301
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7302
-aVEngland
-p7303
-aVWest Midlands
-p7304
-aa(lp7305
-S'Stanley Purdy'
-p7306
 aS'1962'
+p7301
+aS'Wing'
+p7302
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Cairo'
+p7303
+aV\u0645\u0635\u0631
+p7304
+aV\u0627\u0644\u0642\u0627\u0647\u0631\u0629
+p7305
+ag9
+aa(lp7306
+S'Thomas Pargetter'
 p7307
-aS'Flanker'
+aS'1962'
 p7308
-aS'Rugby'
+aS'Lock'
 p7309
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7310
-aVEngland
-p7311
-aVWest Midlands
-p7312
-aa(lp7313
-S'Simon Clarke'
-p7314
-aS'1963'
-p7315
-aS'Scrum-half'
-p7316
-aS'Westcliff'
-p7317
-aS'13'
-p7318
-aS'4'
-aS'1'
 aS'3'
-aVUnited States of America
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Stratford'
+p7310
+aVUnited Kingdom
+p7311
+aVEngland
+p7312
+aVWest Midlands
+p7313
+aa(lp7314
+S'Stanley Purdy'
+p7315
+aS'1962'
+p7316
+aS'Flanker'
+p7317
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Rugby'
+p7318
+aVUnited Kingdom
 p7319
-aVTexas
+aVEngland
 p7320
-aVBell County
+aVWest Midlands
 p7321
 aa(lp7322
-S'Mike Davis'
+S'Simon Clarke'
 p7323
 aS'1963'
 p7324
-aS'Lock'
+aS'Scrum-half'
 p7325
-aS'Lichfield'
+aS'13'
 p7326
-aS'16'
+aS'4'
+aS'6'
+aS'3'
+aS'1'
+aS'3'
+aS'Westcliff'
 p7327
-aS'5'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aVSouth Africa
 p7328
-aVEngland
+aV2001
 p7329
-aVWest Midlands
+aVGauteng
 p7330
 aa(lp7331
-S'Beverley Dovey'
+S'Mike Davis'
 p7332
 aS'1963'
 p7333
-aS'Prop'
+aS'Lock'
 p7334
-aS'Forest of Dean'
+aS'16'
 p7335
+aS'5'
+aS'9'
+aS'2'
+aS'0'
+aS'0'
+aS'Lichfield'
+p7336
+aVUnited Kingdom
+p7337
+aVEngland
+p7338
+aVWest Midlands
+p7339
+aa(lp7340
+S'Beverley Dovey'
+p7341
+aS'1963'
+p7342
+aS'Prop'
+p7343
 aS'2'
 aS'1'
 aS'0'
+aS'1'
 aS'0'
+aS'0'
+aS'Forest of Dean'
+p7344
 aVUnited Kingdom
-p7336
+p7345
 aVEngland
-p7337
+p7346
 aVSouth West England
-p7338
-aa(lp7339
+p7347
+aa(lp7348
 S'Nick Drake-Lee'
-p7340
+p7349
 aS'1963'
-p7341
+p7350
 aS'Prop'
-p7342
-aS'Kettering'
-p7343
+p7351
 aS'8'
 aS'3'
+aS'3'
+aS'2'
 aS'1'
 aS'3'
-aVUnited Kingdom
-p7344
-aVEngland
-p7345
-aVEast Midlands
-p7346
-aa(lp7347
-S'Dick Manley'
-p7348
-aS'1963'
-p7349
-aS'Flanker'
-p7350
-aS'Exeter'
-p7351
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Kettering'
 p7352
-aVEngland
+aVUnited Kingdom
 p7353
-aVSouth West England
+aVEngland
 p7354
-aa(lp7355
-S'John Owen'
-p7356
-aS'1963'
+aVEast Midlands
+p7355
+aa(lp7356
+S'Dick Manley'
 p7357
-aS'Lock'
+aS'1963'
 p7358
-aS'Sutton Coldfield'
+aS'Flanker'
 p7359
-aS'14'
-p7360
 aS'4'
-aS'1'
 aS'3'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Exeter'
+p7360
 aVUnited Kingdom
 p7361
 aVEngland
 p7362
-aVWest Midlands
+aVSouth West England
 p7363
 aa(lp7364
-S'John Thorne'
+S'John Owen'
 p7365
 aS'1963'
 p7366
-aS'Hooker'
+aS'Lock'
 p7367
-aS'Bristol'
+aS'14'
 p7368
+aS'4'
+aS'7'
 aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'1'
+aS'3'
+aS'Sutton Coldfield'
 p7369
-aVEngland
+aVUnited Kingdom
 p7370
-aVSouth West England
+aVEngland
 p7371
-aa(lp7372
-S'David Perry'
-p7373
-aS'1963'
+aVWest Midlands
+p7372
+aa(lp7373
+S'John Thorne'
 p7374
-aS'No. 8'
+aS'1963'
 p7375
-aS'SE Surrey'
+aS'Hooker'
 p7376
-aS'15'
-p7377
 aS'3'
 aS'2'
-aS'6'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Bristol'
+p7377
 aVUnited Kingdom
 p7378
 aVEngland
 p7379
-aVSouth East
+aVSouth West England
 p7380
 aa(lp7381
-S'Tug Wilson'
+S'David Perry'
 p7382
 aS'1963'
 p7383
-aS'Prop'
+aS'No. 8'
 p7384
-aS'Newark'
+aS'15'
 p7385
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited States of America
-p7386
-aVNew Jersey
-p7387
-aVEssex County
-p7388
-aa(lp7389
-S'Roger Hosen'
-p7390
-aS'1963'
-p7391
-aS'Fullback'
-p7392
-aS'Cornwall'
-p7393
-aS'10'
-p7394
 aS'3'
+aS'9'
+aS'3'
+aS'2'
+aS'6'
+aS'SE Surrey'
+p7386
+aVUnited Kingdom
+p7387
+aVEngland
+p7388
+aVSouth East
+p7389
+aa(lp7390
+S'Tug Wilson'
+p7391
+aS'1963'
+p7392
+aS'Prop'
+p7393
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Newark'
+p7394
+aVUnited States of America
+p7395
+aVNew Jersey
+p7396
+aVEssex County
+p7397
+aa(lp7398
+S'Roger Hosen'
+p7399
+aS'1963'
+p7400
+aS'Fullback'
+p7401
+aS'10'
+p7402
+aS'3'
+aS'7'
+aS'0'
 aS'0'
 aS'63'
-p7395
-aVUnited Kingdom
-p7396
-aVEngland
-p7397
-aVSouth West England
-p7398
-aa(lp7399
-S'Victor Marriott'
-p7400
-aS'1963'
-p7401
-aS'Flanker'
-p7402
-aS'Battersea'
 p7403
+aS'Cornwall'
+p7404
+aVUnited Kingdom
+p7405
+aVEngland
+p7406
+aVSouth West England
+p7407
+aa(lp7408
+S'Victor Marriott'
+p7409
+aS'1963'
+p7410
+aS'Flanker'
+p7411
+aS'4'
+aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
+aS'Battersea'
+p7412
 aVUnited Kingdom
-p7404
+p7413
 aVEngland
-p7405
+p7414
 aVGreater London
-p7406
-aa(lp7407
+p7415
+aa(lp7416
 S'John Ranson'
-p7408
+p7417
 aS'1963'
-p7409
+p7418
 aS'Wing'
-p7410
-aS'Durham'
-p7411
+p7419
 aS'7'
+aS'1'
+aS'5'
 aS'1'
 aS'2'
 aS'6'
+aS'Durham'
+p7420
 aVUnited Kingdom
-p7412
+p7421
 aVEngland
-p7413
+p7422
 aVNorth East England
-p7414
-aa(lp7415
+p7423
+aa(lp7424
 S'Roger Sangwin'
-p7416
+p7425
 aS'1964'
-p7417
+p7426
 aS'Centre'
-p7418
-aS'Holderness'
-p7419
+p7427
 aS'2'
 aS'0'
-aS'0'
-aS'0'
-aVUnited States of America
-p7420
-aVNew Hampshire
-p7421
-aVGrafton County
-p7422
-aa(lp7423
-S'Peter Ford'
-p7424
-aS'1964'
-p7425
-aS'Flanker'
-p7426
-aS'Gloucester'
-p7427
-aS'4'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'Holderness'
 p7428
-aVEngland
+aVUnited States of America
 p7429
-aVSouth West England
+aVNew Hampshire
 p7430
-aa(lp7431
-S'Bob Rowell'
-p7432
-aS'1964'
+aVGrafton County
+p7431
+aa(lp7432
+S'Peter Ford'
 p7433
-aS'Lock'
+aS'1964'
 p7434
-aS'Corbridge'
+aS'Flanker'
 p7435
+aS'4'
+aS'1'
 aS'2'
+aS'1'
 aS'0'
 aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Gloucester'
 p7436
-aVNE45
+aVUnited Kingdom
 p7437
 aVEngland
 p7438
-aa(lp7439
-S'Tom Brophy'
-p7440
-aS'1964'
+aVSouth West England
+p7439
+aa(lp7440
+S'Bob Rowell'
 p7441
-aS'Fly-half'
+aS'1964'
 p7442
-aS'Liverpool'
+aS'Lock'
 p7443
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Corbridge'
+p7444
+aVUnited Kingdom
+p7445
+aVNE45
+p7446
+aVEngland
+p7447
+aa(lp7448
+S'Tom Brophy'
+p7449
+aS'1964'
+p7450
+aS'Fly-half'
+p7451
 aS'8'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7444
-aVEngland
-p7445
-aVNorth West England
-p7446
-aa(lp7447
-S'Colin Payne'
-p7448
-aS'1964'
-p7449
-aS'Lock'
-p7450
-aS'Edmonton'
-p7451
-aS'10'
-p7452
-aS'2'
+aS'6'
 aS'1'
-aS'3'
-aVCanada
+aS'0'
+aS'0'
+aS'Liverpool'
+p7452
+aVUnited Kingdom
 p7453
-aVAlberta
+aVEngland
 p7454
-aVEdmonton
+aVNorth West England
 p7455
 aa(lp7456
-S'Thomas Peart'
+S'Colin Payne'
 p7457
 aS'1964'
 p7458
-aS'No. 8'
+aS'Lock'
 p7459
-aS'Hartlepool'
+aS'10'
 p7460
 aS'2'
+aS'6'
+aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'3'
+aS'Edmonton'
 p7461
-aVEngland
+aVCanada
 p7462
-aVNorth East England
+aVAlberta
 p7463
-aa(lp7464
-S'Frederick Wrench'
-p7465
-aS'1964'
+aVEdmonton
+p7464
+aa(lp7465
+S'Thomas Peart'
 p7466
-aS'Prop'
+aS'1964'
 p7467
-aS'Northwich'
+aS'No. 8'
 p7468
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7469
-aVEngland
-p7470
-aVNorth West England
-p7471
-aa(lp7472
-S'Geoffrey Frankcom'
-p7473
-aS'1965'
-p7474
-aS'Centre'
-p7475
-aS'Bathavon'
-p7476
-aS'4'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Hartlepool'
+p7469
+aVUnited Kingdom
+p7470
+aVEngland
+p7471
+aVNorth East England
+p7472
+aa(lp7473
+S'Frederick Wrench'
+p7474
+aS'1964'
+p7475
+aS'Prop'
+p7476
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Northwich'
+p7477
+aVUnited Kingdom
+p7478
+aVEngland
+p7479
+aVNorth West England
+p7480
+aa(lp7481
+S'Geoffrey Frankcom'
+p7482
+aS'1965'
+p7483
+aS'Centre'
+p7484
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Bathavon'
+p7485
 aS'g'
 aS'n'
 aS'i'
-aa(lp7477
-S'Tony Horton'
-p7478
-aS'1965'
-p7479
-aS'Prop'
-p7480
-aS'Brentford'
-p7481
-aS'10'
-p7482
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7483
-aVEngland
-p7484
-aVGreater London
-p7485
 aa(lp7486
-S'Stephen Richards'
+S'Tony Horton'
 p7487
 aS'1965'
 p7488
-aS'Hooker'
+aS'Prop'
 p7489
-aS'W Kirby'
+aS'10'
 p7490
+aS'1'
+aS'7'
+aS'2'
+aS'0'
+aS'0'
+aS'Brentford'
+p7491
+aVUnited Kingdom
+p7492
+aVEngland
+p7493
+aVGreater London
+p7494
+aa(lp7495
+S'Stephen Richards'
+p7496
+aS'1965'
+p7497
+aS'Hooker'
+p7498
 aS'9'
 aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7491
-aVEngland
-p7492
-aVNorth West England
-p7493
-aa(lp7494
-S'David Rosser'
-p7495
-aS'1965'
-p7496
-aS'Centre'
-p7497
-aS'Portsmouth'
-p7498
 aS'5'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
+aS'W Kirby'
 p7499
-aVEngland
+aVUnited Kingdom
 p7500
-aVSouth East
+aVEngland
 p7501
-aa(lp7502
-S'Ted Rudd'
-p7503
-aS'1965'
+aVNorth West England
+p7502
+aa(lp7503
+S'David Rosser'
 p7504
-aS'Wing'
+aS'1965'
 p7505
-aS'Liverpool'
+aS'Centre'
 p7506
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Portsmouth'
+p7507
+aVUnited Kingdom
+p7508
+aVEngland
+p7509
+aVSouth East
+p7510
+aa(lp7511
+S'Ted Rudd'
+p7512
+aS'1965'
+p7513
+aS'Wing'
+p7514
 aS'6'
 aS'0'
+aS'4'
+aS'2'
 aS'0'
 aS'0'
+aS'Liverpool'
+p7515
 aVUnited Kingdom
-p7507
+p7516
 aVEngland
-p7508
+p7517
 aVNorth West England
-p7509
-aa(lp7510
+p7518
+aa(lp7519
 S'Nicholas Silk'
-p7511
+p7520
 aS'1965'
-p7512
+p7521
 aS'Flanker'
-p7513
-aS'Lewes'
-p7514
+p7522
 aS'4'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7515
-aVEngland
-p7516
-aVSouth East
-p7517
-aa(lp7518
-S'Colin Simpson'
-p7519
-aS'1965'
-p7520
-aS'Wing'
-p7521
-aS'Ipswich'
-p7522
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7523
-aVEngland
-p7524
-aVEast of England
-p7525
-aa(lp7526
-S'Peter Cook'
-p7527
-aS'1965'
-p7528
-aS'Wing'
-p7529
-aS'High Wycombe'
-p7530
 aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'Lewes'
+p7523
 aVUnited Kingdom
-p7531
+p7524
 aVEngland
-p7532
+p7525
 aVSouth East
-p7533
-aa(lp7534
-S'Andy Hancock'
-p7535
+p7526
+aa(lp7527
+S'Colin Simpson'
+p7528
 aS'1965'
-p7536
+p7529
 aS'Wing'
-p7537
-aS'Dartford'
-p7538
-aS'3'
+p7530
 aS'1'
+aS'0'
 aS'1'
-aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Ipswich'
+p7531
 aVUnited Kingdom
+p7532
+aVEngland
+p7533
+aVEast of England
+p7534
+aa(lp7535
+S'Peter Cook'
+p7536
+aS'1965'
+p7537
+aS'Wing'
+p7538
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'High Wycombe'
 p7539
-aVDA1 1ED
+aVUnited Kingdom
 p7540
 aVEngland
 p7541
-aa(lp7542
-S'Terence Arthur'
-p7543
-aS'1966'
+aVSouth East
+p7542
+aa(lp7543
+S'Andy Hancock'
 p7544
-aS'Centre'
+aS'1965'
 p7545
-aS'Hartlepool'
+aS'Wing'
 p7546
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'1'
+aS'3'
+aS'Dartford'
+p7547
+aVUnited Kingdom
+p7548
+aVDA1 1ED
+p7549
+aVEngland
+p7550
+aa(lp7551
+S'Terence Arthur'
+p7552
+aS'1966'
+p7553
+aS'Centre'
+p7554
 aS'2'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p7547
-aVEngland
-p7548
-aVNorth East England
-p7549
-aa(lp7550
-S'Piggy Powell'
-p7551
-aS'1966'
-p7552
-aS'Prop'
-p7553
-aS'Rugby'
-p7554
-aS'11'
+aS'Hartlepool'
 p7555
-aS'3'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p7556
 aVEngland
 p7557
-aVWest Midlands
+aVNorth East England
 p7558
 aa(lp7559
-S'John Pullin'
+S'Piggy Powell'
 p7560
 aS'1966'
 p7561
-aS'Hooker'
+aS'Prop'
 p7562
-aS'Thornbury'
+aS'11'
 p7563
-aS'49'
+aS'3'
+aS'6'
+aS'2'
+aS'0'
+aS'0'
+aS'Rugby'
 p7564
-aS'15'
-p7565
-aS'1'
-aS'3'
 aVUnited Kingdom
-p7566
+p7565
 aVEngland
+p7566
+aVWest Midlands
 p7567
-aVSouth West England
-p7568
-aa(lp7569
-S'Keith Savage'
+aa(lp7568
+S'John Pullin'
+p7569
+aS'1966'
 p7570
-aS'1966'
+aS'Hooker'
 p7571
-aS'Wing'
+aS'49'
 p7572
-aS'Warwick'
+aS'15'
 p7573
-aS'17'
+aS'28'
 p7574
-aS'3'
+aS'6'
 aS'1'
 aS'3'
-aVBermuda
+aS'Thornbury'
 p7575
-aVWarwick
+aVUnited Kingdom
 p7576
-ag9
-aa(lp7577
-S'Jeremy Spencer'
+aVEngland
+p7577
+aVSouth West England
 p7578
-aS'1966'
-p7579
-aS'Scrum-half'
+aa(lp7579
+S'Keith Savage'
 p7580
-aS'?'
+aS'1966'
+p7581
+aS'Wing'
+p7582
+aS'17'
+p7583
+aS'3'
+aS'11'
+p7584
+aS'3'
+aS'1'
+aS'3'
+aS'Warwick'
+p7585
+aVAustralia
+p7586
+aV4370
+p7587
+aVQueensland
+p7588
+aa(lp7589
+S'Jeremy Spencer'
+p7590
+aS'1966'
+p7591
+aS'Scrum-half'
+p7592
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp7581
+aa(lp7593
 S'Bob Taylor'
-p7582
+p7594
 aS'1966'
-p7583
+p7595
 aS'Flanker'
-p7584
-aS'Northampton'
-p7585
+p7596
 aS'20'
-p7586
+p7597
 aS'6'
+aS'13'
+p7598
+aS'1'
 aS'2'
 aS'6'
+aS'Northampton'
+p7599
 aVUnited Kingdom
-p7587
+p7600
 aVEngland
-p7588
+p7601
 aVEast Midlands
-p7589
-aa(lp7590
+p7602
+aa(lp7603
 S'Clive Ashby'
-p7591
+p7604
 aS'1966'
-p7592
+p7605
 aS'Scrum-half'
-p7593
-aS'Mozambique'
-p7594
+p7606
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'1'
 aS'3'
+aS'Mozambique'
+p7607
 aVMoçambique
-p7595
+p7608
 ag9
 ag9
-aa(lp7596
+aa(lp7609
 S'Dick Greenwood'
-p7597
+p7610
 aS'1966'
-p7598
+p7611
 aS'Flanker'
-p7599
-aS'Macclesfield'
-p7600
+p7612
 aS'5'
 aS'0'
+aS'4'
+aS'1'
 aS'1'
 aS'3'
+aS'Macclesfield'
+p7613
 aVUnited Kingdom
-p7601
+p7614
 aVEngland
-p7602
+p7615
 aVNorth West England
-p7603
-aa(lp7604
+p7616
+aa(lp7617
 S'Colin McFadyean'
-p7605
+p7618
 aS'1966'
-p7606
+p7619
 aS'Centre'
-p7607
-aS'Tavistock'
-p7608
+p7620
 aS'15'
-p7609
+p7621
 aS'2'
+aS'10'
+p7622
+aS'3'
 aS'5'
 aS'18'
-p7610
+p7623
+aS'Tavistock'
+p7624
 aVUnited Kingdom
-p7611
+p7625
 aVEngland
-p7612
+p7626
 aVSouth West England
-p7613
-aa(lp7614
+p7627
+aa(lp7628
 S'William Treadwell'
-p7615
+p7629
 aS'1966'
-p7616
+p7630
 aS'Hooker'
-p7617
-aS'Brentford'
-p7618
+p7631
 aS'3'
 aS'0'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'Brentford'
+p7632
 aVUnited Kingdom
-p7619
+p7633
 aVEngland
-p7620
+p7634
 aVGreater London
-p7621
-aa(lp7622
+p7635
+aa(lp7636
 S'Bob Hearn'
-p7623
+p7637
 aS'1966'
-p7624
+p7638
 aS'Centre'
-p7625
-aS'Cheltenham'
-p7626
+p7639
 aS'6'
 aS'2'
+aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'Cheltenham'
+p7640
 aVUnited Kingdom
-p7627
+p7641
 aVEngland
-p7628
+p7642
 aVSouth West England
-p7629
-aa(lp7630
+p7643
+aa(lp7644
 S'George Sherriff'
-p7631
+p7645
 aS'1966'
-p7632
+p7646
 aS'No. 8'
-p7633
-aS'Stepney'
-p7634
+p7647
+aS'3'
+aS'0'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
+aS'Stepney'
+p7648
 aVUnited Kingdom
-p7635
+p7649
 aVEngland
-p7636
+p7650
 aVGreater London
-p7637
-aa(lp7638
+p7651
+aa(lp7652
 S'Trevor Wintle'
-p7639
+p7653
 aS'1966'
-p7640
+p7654
 aS'Scrum-half'
-p7641
-aS'Forest of Dean'
-p7642
+p7655
 aS'5'
 aS'2'
+aS'3'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p7643
-aVEngland
-p7644
-aVSouth West England
-p7645
-aa(lp7646
-S'Mike Coulman'
-p7647
-aS'1967'
-p7648
-aS'Prop'
-p7649
-aS'Stafford'
-p7650
-aS'10'
-p7651
-aS'3'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p7652
-aVEngland
-p7653
-aVWest Midlands
-p7654
-aa(lp7655
-S'Peter Glover'
+aS'0'
+aS'Forest of Dean'
 p7656
-aS'1967'
+aVUnited Kingdom
 p7657
-aS'Wing'
+aVEngland
 p7658
-aS'York'
-p7659
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7660
-aVEngland
-p7661
-aVYorkshire and the Humber
-p7662
-aa(lp7663
-S'Christopher Jennins'
-p7664
-aS'1967'
-p7665
-aS'Centre'
-p7666
-aS'Runcorn'
-p7667
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7668
-aVEngland
-p7669
-aVNorth West England
-p7670
-aa(lp7671
-S'Peter Larter'
-p7672
-aS'1967'
-p7673
-aS'Lock'
-p7674
-aS'Totnes'
-p7675
-aS'25'
-p7676
-aS'7'
-aS'1'
-aS'6'
-aVUnited Kingdom
-p7677
-aVEngland
-p7678
 aVSouth West England
-p7679
-aa(lp7680
-S'John Barton'
-p7681
+p7659
+aa(lp7660
+S'Mike Coulman'
+p7661
 aS'1967'
-p7682
-aS'Lock'
-p7683
-aS'?'
-aS'4'
+p7662
+aS'Prop'
+p7663
+aS'10'
+p7664
+aS'3'
+aS'5'
+aS'2'
+aS'1'
+aS'3'
+aS'Stafford'
+p7665
+aVUnited Kingdom
+p7666
+aVEngland
+p7667
+aVWest Midlands
+p7668
+aa(lp7669
+S'Peter Glover'
+p7670
+aS'1967'
+p7671
+aS'Wing'
+p7672
+aS'3'
+aS'0'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'York'
+p7673
+aVUnited Kingdom
+p7674
+aVEngland
+p7675
+aVYorkshire and the Humber
+p7676
+aa(lp7677
+S'Christopher Jennins'
+p7678
+aS'1967'
+p7679
+aS'Centre'
+p7680
+aS'3'
 aS'1'
 aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Runcorn'
+p7681
+aVUnited Kingdom
+p7682
+aVEngland
+p7683
+aVNorth West England
+p7684
+aa(lp7685
+S'Peter Larter'
+p7686
+aS'1967'
+p7687
+aS'Lock'
+p7688
+aS'25'
+p7689
+aS'7'
+aS'14'
+p7690
+aS'4'
+aS'1'
 aS'6'
+aS'Totnes'
+p7691
+aVUnited Kingdom
+p7692
+aVEngland
+p7693
+aVSouth West England
+p7694
+aa(lp7695
+S'John Barton'
+p7696
+aS'1967'
+p7697
+aS'Lock'
+p7698
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'2'
+aS'6'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp7684
+aa(lp7699
 S'John Finlan'
-p7685
+p7700
 aS'1967'
-p7686
+p7701
 aS'Fly-half'
-p7687
-aS'Warwick'
-p7688
+p7702
 aS'13'
-p7689
+p7703
 aS'4'
-aS'0'
-aS'9'
-aVBermuda
-p7690
-aVWarwick
-p7691
-ag9
-aa(lp7692
-S'John Pallant'
-p7693
-aS'1967'
-p7694
-aS'No. 8'
-p7695
-aS'Nottingham'
-p7696
-aS'3'
+aS'7'
 aS'2'
 aS'0'
-aS'0'
-aVUnited Kingdom
-p7697
-aVEngland
-p7698
-aVEast Midlands
-p7699
-aa(lp7700
-S'Roger Pickering'
-p7701
-aS'1967'
-p7702
-aS'Scrum-half'
-p7703
-aS'Birmingham'
+aS'9'
+aS'Warwick'
 p7704
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aVAustralia
 p7705
-aVEngland
+aV4370
 p7706
-aVWest Midlands
+aVQueensland
 p7707
 aa(lp7708
-S'Dave Rollitt'
+S'John Pallant'
 p7709
 aS'1967'
 p7710
 aS'No. 8'
 p7711
-aS'Barnsley'
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Nottingham'
 p7712
-aS'11'
+aVUnited Kingdom
 p7713
+aVEngland
+p7714
+aVEast Midlands
+p7715
+aa(lp7716
+S'Roger Pickering'
+p7717
+aS'1967'
+p7718
+aS'Scrum-half'
+p7719
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Birmingham'
+p7720
+aVUnited Kingdom
+p7721
+aVEngland
+p7722
+aVWest Midlands
+p7723
+aa(lp7724
+S'Dave Rollitt'
+p7725
+aS'1967'
+p7726
+aS'No. 8'
+p7727
+aS'11'
+p7728
 aS'5'
+aS'6'
+aS'0'
 aS'1'
 aS'3'
-aVUnited Kingdom
-p7714
-aVEngland
-p7715
-aVYorkshire and the Humber
-p7716
-aa(lp7717
-S'Dave Watt'
-p7718
-aS'1967'
-p7719
-aS'Lock'
-p7720
-aS'Bristol'
-p7721
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7722
-aVEngland
-p7723
-aVSouth West England
-p7724
-aa(lp7725
-S'Rod Webb'
-p7726
-aS'1967'
-p7727
-aS'Wing'
-p7728
-aS'Newbold-on-Avon'
+aS'Barnsley'
 p7729
-aS'12'
+aVUnited Kingdom
 p7730
+aVEngland
+p7731
+aVYorkshire and the Humber
+p7732
+aa(lp7733
+S'Dave Watt'
+p7734
+aS'1967'
+p7735
+aS'Lock'
+p7736
 aS'4'
 aS'2'
-aS'6'
-aVUnited Kingdom
-p7731
-aVEngland
-p7732
-aVWest Midlands
-p7733
-aa(lp7734
-S'William Gittings'
-p7735
-aS'1967'
-p7736
-aS'Scrum-half'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bristol'
 p7737
-aS'Coventry'
-p7738
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVUnited Kingdom
-p7739
+p7738
 aVEngland
+p7739
+aVSouth West England
 p7740
-aVWest Midlands
-p7741
-aa(lp7742
-S'Bob Lloyd'
-p7743
+aa(lp7741
+S'Rod Webb'
+p7742
 aS'1967'
+p7743
+aS'Wing'
 p7744
-aS'Centre'
+aS'12'
 p7745
-aS'Plympton'
-p7746
-aS'5'
+aS'4'
+aS'7'
 aS'1'
 aS'2'
 aS'6'
+aS'Newbold-on-Avon'
+p7746
 aVUnited Kingdom
 p7747
 aVEngland
 p7748
-aVSouth West England
+aVWest Midlands
 p7749
 aa(lp7750
-S'Peter Bell'
+S'William Gittings'
 p7751
-aS'1968'
+aS'1967'
 p7752
-aS'Flanker'
+aS'Scrum-half'
 p7753
-aS'Wandsworth'
-p7754
-aS'4'
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Coventry'
+p7754
 aVUnited Kingdom
 p7755
 aVEngland
 p7756
-aVGreater London
+aVWest Midlands
 p7757
 aa(lp7758
-S'David Gay'
+S'Bob Lloyd'
 p7759
-aS'1968'
+aS'1967'
 p7760
-aS'No. 8'
+aS'Centre'
 p7761
-aS'Bath'
-p7762
-aS'4'
+aS'5'
 aS'1'
-aS'0'
-aS'0'
+aS'2'
+aS'2'
+aS'2'
+aS'6'
+aS'Plympton'
+p7762
 aVUnited Kingdom
 p7763
-aVBA1
-p7764
 aVEngland
+p7764
+aVSouth West England
 p7765
 aa(lp7766
-S'Bob Hiller'
+S'Peter Bell'
 p7767
 aS'1968'
 p7768
-aS'Fullback'
+aS'Flanker'
 p7769
-aS'Woking'
+aS'4'
+aS'1'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'Wandsworth'
 p7770
-aS'19'
+aVUnited Kingdom
 p7771
+aVEngland
+p7772
+aVGreater London
+p7773
+aa(lp7774
+S'David Gay'
+p7775
+aS'1968'
+p7776
+aS'No. 8'
+p7777
+aS'4'
+aS'1'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'Bath'
+p7778
+aVUnited Kingdom
+p7779
+aVBA1
+p7780
+aVEngland
+p7781
+aa(lp7782
+S'Bob Hiller'
+p7783
+aS'1968'
+p7784
+aS'Fullback'
+p7785
+aS'19'
+p7786
 aS'6'
+aS'10'
+p7787
+aS'3'
 aS'3'
 aS'138'
-p7772
-aVCanada
-p7773
-aVAlberta
-p7774
-aVWoking
-p7775
-aa(lp7776
-S'Brian Keen'
-p7777
-aS'1968'
-p7778
-aS'Prop'
-p7779
-aS'Bury St Edmunds'
-p7780
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7781
-aVEngland
-p7782
-aVEast of England
-p7783
-aa(lp7784
-S'Jim Parsons'
-p7785
-aS'1968'
-p7786
-aS'Lock'
-p7787
-aS'Chipping Norton'
 p7788
+aS'Woking'
+p7789
+aVCanada
+p7790
+aVAlberta
+p7791
+aVWoking
+p7792
+aa(lp7793
+S'Brian Keen'
+p7794
+aS'1968'
+p7795
+aS'Prop'
+p7796
 aS'4'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7789
-aVEngland
-p7790
-aVSouth East
-p7791
-aa(lp7792
-S'Derek Prout'
-p7793
-aS'1968'
-p7794
-aS'Wing'
-p7795
-aS'Launceston'
-p7796
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVAustralia
-p7797
-aV7250
-p7798
-aVTasmania
-p7799
-aa(lp7800
-S'Bill Redwood'
-p7801
-aS'1968'
-p7802
-aS'Scrum-half'
-p7803
-aS'Bristol'
-p7804
-aS'2'
-aS'0'
 aS'1'
-aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'Bury St Edmunds'
+p7797
 aVUnited Kingdom
+p7798
+aVEngland
+p7799
+aVEast of England
+p7800
+aa(lp7801
+S'Jim Parsons'
+p7802
+aS'1968'
+p7803
+aS'Lock'
+p7804
+aS'4'
+aS'1'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'Chipping Norton'
 p7805
-aVEngland
-p7806
-aVSouth West England
-p7807
-aa(lp7808
-S'Bryan West'
-p7809
-aS'1968'
-p7810
-aS'Flanker'
-p7811
-aS'Northampton'
-p7812
-aS'8'
-aS'3'
-aS'0'
-aS'0'
 aVUnited Kingdom
-p7813
+p7806
 aVEngland
-p7814
-aVEast Midlands
-p7815
-aa(lp7816
-S'Terence Brooke'
-p7817
+p7807
+aVSouth East
+p7808
+aa(lp7809
+S'Derek Prout'
+p7810
 aS'1968'
+p7811
+aS'Wing'
+p7812
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'Launceston'
+p7813
+aVAustralia
+p7814
+aV7250
+p7815
+aVTasmania
+p7816
+aa(lp7817
+S'Bill Redwood'
 p7818
-aS'Centre'
+aS'1968'
 p7819
-aS'NE Surrey'
+aS'Scrum-half'
 p7820
 aS'2'
-aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p7821
-aVEngland
-p7822
-aVSouth East
-p7823
-aa(lp7824
-S'David Duckham'
-p7825
-aS'1969'
-p7826
-aS'Wing'
-p7827
-aS'Coventry'
-p7828
-aS'39'
-p7829
-aS'12'
-p7830
-aS'10'
-p7831
-aS'36'
-p7832
-aVUnited Kingdom
-p7833
-aVEngland
-p7834
-aVWest Midlands
-p7835
-aa(lp7836
-S'Keith Fairbrother'
-p7837
-aS'1969'
-p7838
-aS'Prop'
-p7839
-aS'Coventry'
-p7840
-aS'12'
-p7841
-aS'5'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7842
-aVEngland
-p7843
-aVWest Midlands
-p7844
-aa(lp7845
-S'Keith Fielding'
-p7846
-aS'1969'
-p7847
-aS'Wing'
-p7848
-aS'Birmingham'
-p7849
-aS'10'
-p7850
-aS'4'
+aS'2'
 aS'1'
 aS'3'
+aS'Bristol'
+p7821
+aVUnited Kingdom
+p7822
+aVEngland
+p7823
+aVSouth West England
+p7824
+aa(lp7825
+S'Bryan West'
+p7826
+aS'1968'
+p7827
+aS'Flanker'
+p7828
+aS'8'
+aS'3'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'Northampton'
+p7829
+aVUnited Kingdom
+p7830
+aVEngland
+p7831
+aVEast Midlands
+p7832
+aa(lp7833
+S'Terence Brooke'
+p7834
+aS'1968'
+p7835
+aS'Centre'
+p7836
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'NE Surrey'
+p7837
+aVUnited Kingdom
+p7838
+aVEngland
+p7839
+aVSouth East
+p7840
+aa(lp7841
+S'David Duckham'
+p7842
+aS'1969'
+p7843
+aS'Wing'
+p7844
+aS'39'
+p7845
+aS'12'
+p7846
+aS'24'
+p7847
+aS'3'
+aS'10'
+p7848
+aS'36'
+p7849
+aS'Coventry'
+p7850
 aVUnited Kingdom
 p7851
 aVEngland
@@ -18363,19 +20281,21 @@ p7852
 aVWest Midlands
 p7853
 aa(lp7854
-S'Nigel Horton'
+S'Keith Fairbrother'
 p7855
 aS'1969'
 p7856
-aS'Lock'
+aS'Prop'
 p7857
-aS'Birmingham'
+aS'12'
 p7858
-aS'20'
-p7859
-aS'7'
+aS'5'
+aS'6'
 aS'1'
-aS'4'
+aS'0'
+aS'0'
+aS'Coventry'
+p7859
 aVUnited Kingdom
 p7860
 aVEngland
@@ -18383,1606 +20303,1744 @@ p7861
 aVWest Midlands
 p7862
 aa(lp7863
-S'John Spencer'
+S'Keith Fielding'
 p7864
 aS'1969'
 p7865
-aS'Centre'
+aS'Wing'
 p7866
-aS'Staincliffe'
+aS'10'
 p7867
-aS'14'
-p7868
-aS'5'
-aS'2'
+aS'4'
 aS'6'
+aS'0'
+aS'1'
+aS'3'
+aS'Birmingham'
+p7868
 aVUnited Kingdom
 p7869
 aVEngland
 p7870
-aVYorkshire and the Humber
+aVWest Midlands
 p7871
 aa(lp7872
-S'Timothy Dalton'
+S'Nigel Horton'
 p7873
 aS'1969'
 p7874
-aS''
-aS'Warwick'
+aS'Lock'
 p7875
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVBermuda
+aS'20'
 p7876
-aVWarwick
+aS'7'
+aS'11'
 p7877
-ag9
-aa(lp7878
-S'Ken Plummer'
-p7879
-aS'1969'
-p7880
-aS'Wing'
-p7881
-aS'Falmouth'
-p7882
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7883
-aVEngland
-p7884
-aVSouth West England
-p7885
-aa(lp7886
-S'Tony Bucknall'
-p7887
-aS'1969'
-p7888
-aS'Flanker'
-p7889
-aS'Torquay'
-p7890
-aS'10'
-p7891
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7892
-aVEngland
-p7893
-aVSouth West England
-p7894
-aa(lp7895
-S'Peter Hale'
-p7896
-aS'1969'
-p7897
-aS'Wing'
-p7898
-aS'Birmingham'
-p7899
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7900
-aVEngland
-p7901
-aVWest Midlands
-p7902
-aa(lp7903
-S'Roger Shackleton'
-p7904
-aS'1969'
-p7905
-aS'Fly-half'
-p7906
-aS'Yorks'
-p7907
-aS'4'
 aS'2'
 aS'1'
-aS'3'
-aVDeutschland
-p7908
-aV10965
-p7909
-aVBerlin
-p7910
-aa(lp7911
-S'Nigel Starmer-Smith'
-p7912
+aS'4'
+aS'Birmingham'
+p7878
+aVUnited Kingdom
+p7879
+aVEngland
+p7880
+aVWest Midlands
+p7881
+aa(lp7882
+S'John Spencer'
+p7883
 aS'1969'
+p7884
+aS'Centre'
+p7885
+aS'14'
+p7886
+aS'5'
+aS'9'
+aS'0'
+aS'2'
+aS'6'
+aS'Staincliffe'
+p7887
+aVUnited Kingdom
+p7888
+aVEngland
+p7889
+aVYorkshire and the Humber
+p7890
+aa(lp7891
+S'Timothy Dalton'
+p7892
+aS'1969'
+p7893
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Warwick'
+p7894
+aVAustralia
+p7895
+aV4370
+p7896
+aVQueensland
+p7897
+aa(lp7898
+S'Ken Plummer'
+p7899
+aS'1969'
+p7900
+aS'Wing'
+p7901
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Falmouth'
+p7902
+aVUnited Kingdom
+p7903
+aVEngland
+p7904
+aVSouth West England
+p7905
+aa(lp7906
+S'Tony Bucknall'
+p7907
+aS'1969'
+p7908
+aS'Flanker'
+p7909
+aS'10'
+p7910
+aS'3'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'Torquay'
+p7911
+aVUnited Kingdom
+p7912
+aVEngland
 p7913
-aS'Scrum-half'
+aVSouth West England
 p7914
-aS'Cheltenham'
-p7915
+aa(lp7915
+S'Peter Hale'
+p7916
+aS'1969'
+p7917
+aS'Wing'
+p7918
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Birmingham'
+p7919
+aVUnited Kingdom
+p7920
+aVEngland
+p7921
+aVWest Midlands
+p7922
+aa(lp7923
+S'Roger Shackleton'
+p7924
+aS'1969'
+p7925
+aS'Fly-half'
+p7926
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Yorks'
+p7927
+aVDeutschland
+p7928
+aV10965
+p7929
+aVBerlin
+p7930
+aa(lp7931
+S'Nigel Starmer-Smith'
+p7932
+aS'1969'
+p7933
+aS'Scrum-half'
+p7934
 aS'7'
 aS'2'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'Cheltenham'
+p7935
 aVUnited Kingdom
-p7916
+p7936
 aVEngland
-p7917
+p7937
 aVSouth West England
-p7918
-aa(lp7919
+p7938
+aa(lp7939
 S'Stack Stevens'
-p7920
+p7940
 aS'1969'
-p7921
+p7941
 aS'Prop'
-p7922
-aS'Cornwall'
-p7923
+p7942
 aS'25'
-p7924
+p7943
 aS'9'
+aS'15'
+p7944
+aS'1'
 aS'2'
 aS'8'
+aS'Cornwall'
+p7945
 aVUnited Kingdom
-p7925
+p7946
 aVEngland
-p7926
+p7947
 aVSouth West England
-p7927
-aa(lp7928
+p7948
+aa(lp7949
 S'Chris Wardlow'
-p7929
+p7950
 aS'1969'
-p7930
+p7951
 aS'Centre'
-p7931
-aS'Carlisle'
-p7932
+p7952
 aS'6'
 aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7933
-aVEngland
-p7934
-aVNorth West England
-p7935
-aa(lp7936
-S'John Novak'
-p7937
-aS'1970'
-p7938
-aS'Wing'
-p7939
-aS'Stratford-upon-Avon'
-p7940
 aS'3'
-aS'0'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p7941
-aVEngland
-p7942
-aVWest Midlands
-p7943
-aa(lp7944
-S'Mike Bulpitt'
-p7945
-aS'1970'
-p7946
-aS'Wing'
-p7947
-aS'Yorks'
-p7948
 aS'1'
 aS'0'
 aS'0'
-aS'0'
-aVDeutschland
-p7949
-aV10965
-p7950
-aVBerlin
-p7951
-aa(lp7952
-S'Barry Jackson'
+aS'Carlisle'
 p7953
-aS'1970'
+aVUnited Kingdom
 p7954
-aS'Prop'
+aVEngland
 p7955
-aS'Manchester N?'
+aVNorth West England
 p7956
+aa(lp7957
+S'John Novak'
+p7958
+aS'1970'
+p7959
+aS'Wing'
+p7960
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'Stratford-upon-Avon'
+p7961
+aVUnited Kingdom
+p7962
+aVEngland
+p7963
+aVWest Midlands
+p7964
+aa(lp7965
+S'Mike Bulpitt'
+p7966
+aS'1970'
+p7967
+aS'Wing'
+p7968
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Yorks'
+p7969
+aVDeutschland
+p7970
+aV10965
+p7971
+aVBerlin
+p7972
+aa(lp7973
+S'Barry Jackson'
+p7974
+aS'1970'
+p7975
+aS'Prop'
+p7976
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Manchester N?'
+p7977
 aVBolivia
-p7957
+p7978
 aVPND
-p7958
+p7979
 aVProvincia de Manuripi
-p7959
-aa(lp7960
+p7980
+aa(lp7981
 S'Tony Jorden'
-p7961
+p7982
 aS'1970'
-p7962
+p7983
 aS'Fullback'
-p7963
-aS'Herts'
-p7964
+p7984
 aS'7'
 aS'3'
+aS'3'
+aS'1'
 aS'0'
 aS'22'
-p7965
-aVPortugal
-p7966
-aVViseu
-p7967
-aVValdevez
-p7968
-aa(lp7969
-S'Mike Leadbetter'
-p7970
-aS'1970'
-p7971
-aS'Lock'
-p7972
-aS'Southport'
-p7973
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7974
-aVEngland
-p7975
-aVNorth West England
-p7976
-aa(lp7977
-S'Gerry Redmond'
-p7978
-aS'1970'
-p7979
-aS'No. 8'
-p7980
-aS'Weston'
-p7981
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p7982
-aVEngland
-p7983
-aVSouth West England
-p7984
-aa(lp7985
-S'Charlie Hannaford'
+p7985
+aS'Herts'
 p7986
-aS'1971'
+aVPortugal
 p7987
-aS'No. 8'
+aVViseu
 p7988
-aS'Gloucester'
+aVTarouca
 p7989
-aS'3'
-aS'1'
-aS'1'
-aS'3'
-aVUnited Kingdom
-p7990
-aVEngland
+aa(lp7990
+S'Mike Leadbetter'
 p7991
-aVSouth West England
+aS'1970'
 p7992
-aa(lp7993
-S'Jeremy Janion'
+aS'Lock'
+p7993
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Southport'
 p7994
-aS'1971'
-p7995
-aS'Wing'
-p7996
-aS"Bishop's Stortford"
-p7997
-aS'12'
-p7998
-aS'3'
-aS'0'
-aS'0'
 aVUnited Kingdom
-p7999
+p7995
 aVEngland
+p7996
+aVNorth West England
+p7997
+aa(lp7998
+S'Gerry Redmond'
+p7999
+aS'1970'
 p8000
-aVEast of England
+aS'No. 8'
 p8001
-aa(lp8002
-S'Tony Neary'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Weston'
+p8002
+aVUnited Kingdom
 p8003
-aS'1971'
+aVEngland
 p8004
-aS'Flanker'
+aVSouth West England
 p8005
-aS'Manchester'
-p8006
-aS'44'
+aa(lp8006
+S'Charlie Hannaford'
 p8007
-aS'15'
+aS'1971'
 p8008
+aS'No. 8'
+p8009
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'1'
+aS'3'
+aS'Gloucester'
+p8010
+aVUnited Kingdom
+p8011
+aVEngland
+p8012
+aVSouth West England
+p8013
+aa(lp8014
+S'Jeremy Janion'
+p8015
+aS'1971'
+p8016
+aS'Wing'
+p8017
+aS'12'
+p8018
+aS'3'
+aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS"Bishop's Stortford"
+p8019
+aVUnited Kingdom
+p8020
+aVEngland
+p8021
+aVEast of England
+p8022
+aa(lp8023
+S'Tony Neary'
+p8024
+aS'1971'
+p8025
+aS'Flanker'
+p8026
+aS'44'
+p8027
+aS'15'
+p8028
+aS'26'
+p8029
+aS'3'
 aS'5'
 aS'19'
-p8009
+p8030
+aS'Manchester'
+p8031
 aVUnited Kingdom
-p8010
+p8032
 aVEngland
-p8011
+p8033
 aVNorth West England
-p8012
-aa(lp8013
+p8034
+aa(lp8035
 S'Barry Ninnes'
-p8014
+p8036
 aS'1971'
-p8015
+p8037
 aS'Lock'
-p8016
-aS'St Ives'
-p8017
+p8038
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'St Ives'
+p8039
 aVUnited Kingdom
-p8018
+p8040
 aVTR26
-p8019
+p8041
 aVEngland
-p8020
-aa(lp8021
+p8042
+aa(lp8043
 S'Jacko Page'
-p8022
+p8044
 aS'1971'
-p8023
+p8045
 aS'Scrum-half'
-p8024
-aS'Brighton'
-p8025
+p8046
 aS'5'
 aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8026
-aVEngland
-p8027
-aVSouth East
-p8028
-aa(lp8029
-S'Peter Rossborough'
-p8030
-aS'1971'
-p8031
-aS'Fullback'
-p8032
-aS'Coventry'
-p8033
-aS'7'
 aS'2'
 aS'1'
-aS'34'
-p8034
-aVUnited Kingdom
-p8035
-aVEngland
-p8036
-aVWest Midlands
-p8037
-aa(lp8038
-S'Ian Wright'
-p8039
-aS'1971'
-p8040
-aS'Fly-half'
-p8041
-aS'Croydon'
-p8042
-aS'4'
-aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p8043
-aVEngland
-p8044
-aVGreater London
-p8045
-aa(lp8046
-S'Fran Cotton'
+aS'Brighton'
 p8047
-aS'1971'
+aVUnited Kingdom
 p8048
-aS'Prop'
+aVEngland
 p8049
-aS'Wigan'
+aVSouth East
 p8050
-aS'38'
-p8051
-aS'17'
+aa(lp8051
+S'Peter Rossborough'
 p8052
+aS'1971'
+p8053
+aS'Fullback'
+p8054
+aS'7'
+aS'2'
+aS'5'
+aS'0'
+aS'1'
+aS'34'
+p8055
+aS'Coventry'
+p8056
+aVUnited Kingdom
+p8057
+aVEngland
+p8058
+aVWest Midlands
+p8059
+aa(lp8060
+S'Ian Wright'
+p8061
+aS'1971'
+p8062
+aS'Fly-half'
+p8063
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Croydon'
+p8064
+aVUnited Kingdom
+p8065
+aVEngland
+p8066
+aVGreater London
+p8067
+aa(lp8068
+S'Fran Cotton'
+p8069
+aS'1971'
+p8070
+aS'Prop'
+p8071
+aS'38'
+p8072
+aS'17'
+p8073
+aS'20'
+p8074
+aS'1'
 aS'1'
 aS'4'
+aS'Wigan'
+p8075
 aVUnited Kingdom
-p8053
+p8076
 aVEngland
-p8054
+p8077
 aVNorth West England
-p8055
-aa(lp8056
+p8078
+aa(lp8079
 S'Dick Cowman'
-p8057
+p8080
 aS'1971'
-p8058
+p8081
 aS'Fly-half'
-p8059
-aS'Workington'
-p8060
+p8082
+aS'5'
+aS'0'
 aS'5'
 aS'0'
 aS'0'
 aS'6'
+aS'Workington'
+p8083
 aVUnited Kingdom
-p8061
+p8084
 aVEngland
-p8062
+p8085
 aVNorth West England
-p8063
-aa(lp8064
+p8086
+aa(lp8087
 S'Christopher Ralston'
-p8065
+p8088
 aS'1971'
-p8066
+p8089
 aS'Lock'
-p8067
-aS'Hendon'
-p8068
+p8090
 aS'23'
-p8069
+p8091
 aS'7'
+aS'14'
+p8092
+aS'2'
 aS'1'
 aS'4'
+aS'Hendon'
+p8093
 aVUnited Kingdom
-p8070
+p8094
 aVEngland
-p8071
+p8095
 aVGreater London
-p8072
-aa(lp8073
+p8096
+aa(lp8097
 S'Roger Creed'
-p8074
+p8098
 aS'1971'
-p8075
+p8099
 aS'Flanker'
-p8076
-aS'Solihull'
-p8077
+p8100
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Solihull'
+p8101
 aVUnited Kingdom
-p8078
+p8102
 aVEngland
-p8079
+p8103
 aVWest Midlands
-p8080
-aa(lp8081
+p8104
+aa(lp8105
 S'Peter Dixon'
-p8082
+p8106
 aS'1971'
-p8083
+p8107
 aS'Flanker'
-p8084
-aS'Yorks'
-p8085
+p8108
 aS'25'
-p8086
+p8109
 aS'8'
+aS'15'
+p8110
+aS'2'
 aS'5'
 aS'19'
-p8087
-aVDeutschland
-p8088
-aV10965
-p8089
-aVBerlin
-p8090
-aa(lp8091
-S'Mike Beese'
-p8092
-aS'1972'
-p8093
-aS'Centre'
-p8094
-aS'Bristol'
-p8095
-aS'3'
-aS'0'
-aS'1'
-aS'4'
-aVUnited Kingdom
-p8096
-aVEngland
-p8097
-aVSouth West England
-p8098
-aa(lp8099
-S'Alan Brinn'
-p8100
-aS'1972'
-p8101
-aS'Lock'
-p8102
-aS'Rhondda'
-p8103
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8104
-aVWales
-p8105
-aVRhondda Cynon Taf
-p8106
-aa(lp8107
-S'Mike Burton'
-p8108
-aS'1972'
-p8109
-aS'Prop'
-p8110
-aS'Maidenhead'
 p8111
-aS'17'
+aS'Yorks'
 p8112
-aS'4'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aVDeutschland
 p8113
-aVEngland
+aV10965
 p8114
-aVSouth East
+aVBerlin
 p8115
 aa(lp8116
-S'Alan Old'
+S'Mike Beese'
 p8117
 aS'1972'
 p8118
-aS'Fly-half'
+aS'Centre'
 p8119
-aS'Middlesbrough'
-p8120
-aS'16'
-p8121
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'1'
 aS'4'
+aS'Bristol'
+p8120
+aVUnited Kingdom
+p8121
+aVEngland
+p8122
+aVSouth West England
+p8123
+aa(lp8124
+S'Alan Brinn'
+p8125
+aS'1972'
+p8126
+aS'Lock'
+p8127
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Rhondda'
+p8128
+aVUnited Kingdom
+p8129
+aVWales
+p8130
+aVRhondda Cynon Taf
+p8131
+aa(lp8132
+S'Mike Burton'
+p8133
+aS'1972'
+p8134
+aS'Prop'
+p8135
+aS'17'
+p8136
+aS'4'
+aS'12'
+p8137
+aS'1'
+aS'0'
+aS'0'
+aS'Maidenhead'
+p8138
+aVUnited Kingdom
+p8139
+aVEngland
+p8140
+aVSouth East
+p8141
+aa(lp8142
+S'Alan Old'
+p8143
+aS'1972'
+p8144
+aS'Fly-half'
+p8145
+aS'16'
+p8146
+aS'4'
+aS'11'
+p8147
+aS'1'
 aS'1'
 aS'98'
-p8122
-aVUnited Kingdom
-p8123
-aVEngland
-p8124
-aVNorth East England
-p8125
-aa(lp8126
-S'Andy Ripley'
-p8127
-aS'1972'
-p8128
-aS'No. 8'
-p8129
-aS'S Liverpool'
-p8130
-aS'24'
-p8131
-aS'8'
-aS'2'
-aS'8'
-aVUnited Kingdom
-p8132
-aVEngland
-p8133
-aVNorth West England
-p8134
-aa(lp8135
-S'Jan Webster'
-p8136
-aS'1972'
-p8137
-aS'Scrum-half'
-p8138
-aS'Southport'
-p8139
-aS'11'
-p8140
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8141
-aVEngland
-p8142
-aVNorth West England
-p8143
-aa(lp8144
-S'Peter Knight'
-p8145
-aS'1972'
-p8146
-aS'Fullback'
-p8147
-aS'Bristol'
 p8148
+aS'Middlesbrough'
+p8149
+aVUnited Kingdom
+p8150
+aVEngland
+p8151
+aVNorth East England
+p8152
+aa(lp8153
+S'Andy Ripley'
+p8154
+aS'1972'
+p8155
+aS'No. 8'
+p8156
+aS'24'
+p8157
+aS'8'
+aS'15'
+p8158
+aS'1'
+aS'2'
+aS'8'
+aS'S Liverpool'
+p8159
+aVUnited Kingdom
+p8160
+aVEngland
+p8161
+aVNorth West England
+p8162
+aa(lp8163
+S'Jan Webster'
+p8164
+aS'1972'
+p8165
+aS'Scrum-half'
+p8166
+aS'11'
+p8167
+aS'3'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Southport'
+p8168
+aVUnited Kingdom
+p8169
+aVEngland
+p8170
+aVNorth West England
+p8171
+aa(lp8172
+S'Peter Knight'
+p8173
+aS'1972'
+p8174
+aS'Fullback'
+p8175
 aS'3'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8149
-aVEngland
-p8150
-aVSouth West England
-p8151
-aa(lp8152
-S'Lionel Weston'
-p8153
-aS'1972'
-p8154
-aS'Scrum-half'
-p8155
-aS'Wenlock'
-p8156
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aVUnited States of America
-p8157
-aVVermont
-p8158
-aVEssex County
-p8159
-aa(lp8160
-S'Nick Martin'
-p8161
+aS'Bristol'
+p8176
+aVUnited Kingdom
+p8177
+aVEngland
+p8178
+aVSouth West England
+p8179
+aa(lp8180
+S'Lionel Weston'
+p8181
 aS'1972'
-p8162
+p8182
+aS'Scrum-half'
+p8183
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Wenlock'
+p8184
+aVUnited States of America
+p8185
+aVVermont
+p8186
+aVEssex County
+p8187
+aa(lp8188
+S'Nick Martin'
+p8189
+aS'1972'
+p8190
 aS'Lock'
-p8163
-aS'Cambridge'
-p8164
+p8191
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Cambridge'
+p8192
 aVUnited Kingdom
-p8165
+p8193
 aVEngland
-p8166
+p8194
 aVEast of England
-p8167
-aa(lp8168
+p8195
+aa(lp8196
 S'Geoff Evans'
-p8169
+p8197
 aS'1972'
-p8170
+p8198
 aS'Centre'
-p8171
-aS'Coventry'
-p8172
+p8199
 aS'9'
 aS'4'
+aS'4'
+aS'1'
 aS'1'
 aS'7'
+aS'Coventry'
+p8200
 aVUnited Kingdom
-p8173
+p8201
 aVEngland
-p8174
+p8202
 aVWest Midlands
-p8175
-aa(lp8176
+p8203
+aa(lp8204
 S'Sam Doble'
-p8177
+p8205
 aS'1972'
-p8178
+p8206
 aS'Fullback'
-p8179
-aS'Wolverhampton'
-p8180
+p8207
 aS'3'
 aS'1'
+aS'2'
+aS'0'
 aS'0'
 aS'20'
-p8181
-aVUnited Kingdom
-p8182
-aVEngland
-p8183
-aVWest Midlands
-p8184
-aa(lp8185
-S'Alan Morley'
-p8186
-aS'1972'
-p8187
-aS'Wing'
-p8188
-aS'Bristol'
-p8189
-aS'7'
-aS'2'
-aS'2'
-aS'8'
-aVUnited Kingdom
-p8190
-aVEngland
-p8191
-aVSouth West England
-p8192
-aa(lp8193
-S'Peter Preece'
-p8194
-aS'1972'
-p8195
-aS'Centre'
-p8196
-aS'Meriden'
-p8197
-aS'12'
-p8198
-aS'4'
-aS'0'
-aS'0'
-aVUnited States of America
-p8199
-aVConnecticut
-p8200
-aVNew Haven County
-p8201
-aa(lp8202
-S'John Watkins'
-p8203
-aS'1972'
-p8204
-aS'Flanker'
-p8205
-aS'Gloucester'
-p8206
-aS'7'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8207
-aVEngland
 p8208
-aVSouth West England
+aS'Wolverhampton'
 p8209
-aa(lp8210
-S'Frank Anderson'
-p8211
-aS'1973'
-p8212
-aS'Prop'
-p8213
-aS'Ormskirk'
-p8214
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVUnited Kingdom
-p8215
+p8210
 aVEngland
+p8211
+aVWest Midlands
+p8212
+aa(lp8213
+S'Alan Morley'
+p8214
+aS'1972'
+p8215
+aS'Wing'
 p8216
-aVNorth West England
-p8217
-aa(lp8218
-S'Peter Warfield'
-p8219
-aS'1973'
-p8220
-aS'Centre'
-p8221
-aS'Lincs'
-p8222
-aS'6'
-aS'1'
+aS'7'
+aS'2'
+aS'5'
 aS'0'
-aS'0'
-aVUnited Kingdom
-p8223
-aVWales
-p8224
-aVIsle of Anglesey
-p8225
-aa(lp8226
-S'Steve Smith'
-p8227
-aS'1973'
-p8228
-aS'Scrum-half'
-p8229
-aS'Stockport'
-p8230
-aS'28'
-p8231
-aS'13'
-p8232
 aS'2'
 aS'8'
+aS'Bristol'
+p8217
 aVUnited Kingdom
-p8233
+p8218
 aVEngland
-p8234
-aVNorth West England
-p8235
-aa(lp8236
-S'Roger Uttley'
-p8237
-aS'1973'
-p8238
-aS'Lock'
-p8239
-aS'Blackpool'
-p8240
-aS'27'
-p8241
-aS'15'
-p8242
-aS'3'
+p8219
+aVSouth West England
+p8220
+aa(lp8221
+S'Peter Preece'
+p8222
+aS'1972'
+p8223
+aS'Centre'
+p8224
 aS'12'
-p8243
+p8225
+aS'4'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Meriden'
+p8226
+aVUnited States of America
+p8227
+aVConnecticut
+p8228
+aVNew Haven County
+p8229
+aa(lp8230
+S'John Watkins'
+p8231
+aS'1972'
+p8232
+aS'Flanker'
+p8233
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Gloucester'
+p8234
 aVUnited Kingdom
-p8244
+p8235
 aVEngland
-p8245
-aVNorth West England
-p8246
-aa(lp8247
-S'Martin Cooper'
-p8248
+p8236
+aVSouth West England
+p8237
+aa(lp8238
+S'Frank Anderson'
+p8239
 aS'1973'
+p8240
+aS'Prop'
+p8241
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Ormskirk'
+p8242
+aVUnited Kingdom
+p8243
+aVEngland
+p8244
+aVNorth West England
+p8245
+aa(lp8246
+S'Peter Warfield'
+p8247
+aS'1973'
+p8248
+aS'Centre'
 p8249
-aS'Fly-half'
-p8250
-aS'Burton-on-Trent'
-p8251
-aS'11'
-p8252
 aS'6'
 aS'1'
-aS'4'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Lincs'
+p8250
 aVUnited Kingdom
+p8251
+aVWales
+p8252
+aVCarmarthenshire
 p8253
-aVEngland
-p8254
-aVWest Midlands
+aa(lp8254
+S'Steve Smith'
 p8255
-aa(lp8256
-S'Peter Squires'
-p8257
 aS'1973'
+p8256
+aS'Scrum-half'
+p8257
+aS'28'
 p8258
-aS'Wing'
+aS'13'
 p8259
-aS'Yorks'
+aS'11'
 p8260
-aS'30'
+aS'4'
+aS'2'
+aS'8'
+aS'Stockport'
 p8261
-aS'12'
+aVUnited Kingdom
 p8262
+aVEngland
+p8263
+aVNorth West England
+p8264
+aa(lp8265
+S'Roger Uttley'
+p8266
+aS'1973'
+p8267
+aS'Lock'
+p8268
+aS'27'
+p8269
+aS'15'
+p8270
+aS'9'
+aS'3'
+aS'3'
+aS'12'
+p8271
+aS'Blackpool'
+p8272
+aVUnited Kingdom
+p8273
+aVEngland
+p8274
+aVNorth West England
+p8275
+aa(lp8276
+S'Martin Cooper'
+p8277
+aS'1973'
+p8278
+aS'Fly-half'
+p8279
+aS'11'
+p8280
+aS'6'
+aS'5'
+aS'0'
+aS'1'
+aS'4'
+aS'Burton-on-Trent'
+p8281
+aVUnited Kingdom
+p8282
+aVEngland
+p8283
+aVWest Midlands
+p8284
+aa(lp8285
+S'Peter Squires'
+p8286
+aS'1973'
+p8287
+aS'Wing'
+p8288
+aS'30'
+p8289
+aS'12'
+p8290
+aS'16'
+p8291
+aS'2'
 aS'6'
 aS'24'
-p8263
+p8292
+aS'Yorks'
+p8293
 aVDeutschland
-p8264
+p8294
 aV10965
-p8265
+p8295
 aVBerlin
-p8266
-aa(lp8267
+p8296
+aa(lp8297
 S'David Roughley'
-p8268
+p8298
 aS'1973'
-p8269
+p8299
 aS'Centre'
-p8270
-aS'Warrington'
-p8271
+p8300
 aS'3'
 aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8272
-aVEngland
-p8273
-aVNorth West England
-p8274
-aa(lp8275
-S'Keith Smith'
-p8276
-aS'1974'
-p8277
-aS'Centre'
-p8278
-aS'Leeds'
-p8279
-aS'4'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Warrington'
+p8301
 aVUnited Kingdom
-p8280
+p8302
 aVEngland
-p8281
-aVYorkshire and the Humber
-p8282
-aa(lp8283
-S'Dusty Hare'
-p8284
+p8303
+aVNorth West England
+p8304
+aa(lp8305
+S'Keith Smith'
+p8306
 aS'1974'
-p8285
+p8307
+aS'Centre'
+p8308
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Leeds'
+p8309
+aVUnited Kingdom
+p8310
+aVEngland
+p8311
+aVYorkshire and the Humber
+p8312
+aa(lp8313
+S'Dusty Hare'
+p8314
+aS'1974'
+p8315
 aS'Fullback'
-p8286
-aS'Newark'
-p8287
+p8316
 aS'25'
-p8288
+p8317
 aS'11'
-p8289
+p8318
+aS'12'
+p8319
+aS'2'
 aS'2'
 aS'240'
-p8290
+p8320
+aS'Newark'
+p8321
 aVUnited States of America
-p8291
+p8322
 aVNew Jersey
-p8292
+p8323
 aVEssex County
-p8293
-aa(lp8294
+p8324
+aa(lp8325
 S'Bill Beaumont'
-p8295
+p8326
 aS'1975'
-p8296
+p8327
 aS'Lock'
-p8297
-aS'Preston'
-p8298
+p8328
 aS'41'
-p8299
+p8329
 aS'16'
-p8300
+p8330
+aS'22'
+p8331
+aS'3'
 aS'0'
 aS'0'
+aS'Preston'
+p8332
 aVUnited Kingdom
-p8301
+p8333
 aVEngland
-p8302
+p8334
 aVNorth West England
-p8303
-aa(lp8304
+p8335
+aa(lp8336
 S'Peter Wheeler'
-p8305
+p8337
 aS'1975'
-p8306
+p8338
 aS'Hooker'
-p8307
-aS'S Norwood'
-p8308
+p8339
 aS'48'
-p8309
+p8340
 aS'19'
-p8310
+p8341
+aS'27'
+p8342
+aS'2'
 aS'0'
 aS'0'
+aS'S Norwood'
+p8343
 aVUnited Kingdom
-p8311
+p8344
 aVEngland
-p8312
+p8345
 aVGreater London
-p8313
-aa(lp8314
+p8346
+aa(lp8347
 S'Neil Bennett'
-p8315
+p8348
 aS'1975'
-p8316
+p8349
 aS'Fly-half'
-p8317
-aS'IOM'
-p8318
+p8350
 aS'7'
 aS'2'
+aS'4'
+aS'1'
 aS'2'
 aS'23'
-p8319
-aVIsle of Man
-p8320
-aVIM92EF
-p8321
-aVRushen
-p8322
-aa(lp8323
-S'Peter Butler'
-p8324
-aS'1975'
-p8325
-aS'Fullback'
-p8326
-aS'Gloucester'
-p8327
-aS'2'
-aS'0'
-aS'0'
-aS'10'
-p8328
-aVUnited Kingdom
-p8329
-aVEngland
-p8330
-aVSouth West England
-p8331
-aa(lp8332
-S'Peter Kingston'
-p8333
-aS'1975'
-p8334
-aS'Scrum-half'
-p8335
-aS'Lydney?'
-p8336
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8337
-aVGL15 5
-p8338
-aVEngland
-p8339
-aa(lp8340
-S'Neil Mantell'
-p8341
-aS'1975'
-p8342
-aS'Lock'
-p8343
-aS'Reigate'
-p8344
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8345
-aVEngland
-p8346
-aVSouth East
-p8347
-aa(lp8348
-S'Andy Maxwell'
-p8349
-aS'1975'
-p8350
-aS'Centre'
 p8351
-aS'W Kirby'
+aS'IOM'
 p8352
-aS'7'
-aS'1'
-aS'1'
-aS'4'
-aVUnited Kingdom
+aVSouth Sudan
 p8353
-aVEngland
+aVCentral Equatoria
 p8354
-aVNorth West England
+aVJuba
 p8355
 aa(lp8356
-S'Barry Nelmes'
+S'Peter Butler'
 p8357
 aS'1975'
 p8358
-aS'Prop'
-p8359
-aS'Bristol'
-p8360
-aS'6'
-aS'2'
-aS'1'
-aS'4'
-aVUnited Kingdom
-p8361
-aVEngland
-p8362
-aVSouth West England
-p8363
-aa(lp8364
-S'Alan Wordsworth'
-p8365
-aS'1975'
-p8366
-aS'Fly-half'
-p8367
-aS'Thornton Heath'
-p8368
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8369
-aVEngland
-p8370
-aVGreater London
-p8371
-aa(lp8372
-S'Alastair Hignell'
-p8373
-aS'1975'
-p8374
 aS'Fullback'
-p8375
-aS'Cambs'
-p8376
-aS'14'
-p8377
-aS'4'
+p8359
+aS'2'
 aS'0'
-aS'48'
-p8378
-aVDeutschland
-p8379
-aVMecklenburg-Vorpommern
-p8380
-aVLandkreis Ludwigslust-Parchim
-p8381
-aa(lp8382
-S'Bob Wilkinson'
-p8383
-aS'1975'
-p8384
-aS'Lock'
-p8385
-aS'Luton'
-p8386
-aS'6'
-aS'1'
+aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p8387
-aVEngland
-p8388
-aVEast of England
-p8389
-aa(lp8390
-S'Barry Corless'
-p8391
-aS'1976'
-p8392
-aS'Centre'
-p8393
-aS'Norfolk'
-p8394
 aS'10'
-p8395
+p8360
+aS'Gloucester'
+p8361
+aVUnited Kingdom
+p8362
+aVEngland
+p8363
+aVSouth West England
+p8364
+aa(lp8365
+S'Peter Kingston'
+p8366
+aS'1975'
+p8367
+aS'Scrum-half'
+p8368
 aS'5'
 aS'1'
 aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Lydney?'
+p8369
 aVUnited Kingdom
+p8370
+aVGL15 5
+p8371
+aVEngland
+p8372
+aa(lp8373
+S'Neil Mantell'
+p8374
+aS'1975'
+p8375
+aS'Lock'
+p8376
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Reigate'
+p8377
+aVUnited Kingdom
+p8378
+aVEngland
+p8379
+aVSouth East
+p8380
+aa(lp8381
+S'Andy Maxwell'
+p8382
+aS'1975'
+p8383
+aS'Centre'
+p8384
+aS'7'
+aS'1'
+aS'6'
+aS'0'
+aS'1'
+aS'4'
+aS'W Kirby'
+p8385
+aVUnited Kingdom
+p8386
+aVEngland
+p8387
+aVNorth West England
+p8388
+aa(lp8389
+S'Barry Nelmes'
+p8390
+aS'1975'
+p8391
+aS'Prop'
+p8392
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'1'
+aS'4'
+aS'Bristol'
+p8393
+aVUnited Kingdom
+p8394
+aVEngland
+p8395
+aVSouth West England
 p8396
-aVEngland
-p8397
-aVEast of England
+aa(lp8397
+S'Alan Wordsworth'
 p8398
-aa(lp8399
-S'Mark Keyworth'
+aS'1975'
+p8399
+aS'Fly-half'
 p8400
-aS'1976'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Thornton Heath'
 p8401
-aS'Flanker'
+aVUnited Kingdom
 p8402
-aS'Bridgnorth'
+aVEngland
 p8403
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aVGreater London
 p8404
-aVEngland
-p8405
-aVWest Midlands
+aa(lp8405
+S'Alastair Hignell'
 p8406
-aa(lp8407
-S'Mike Lampkowski'
+aS'1975'
+p8407
+aS'Fullback'
 p8408
-aS'1976'
+aS'14'
 p8409
-aS'Scrum-half'
+aS'4'
+aS'9'
+aS'1'
+aS'0'
+aS'48'
 p8410
-aS'Scunthorpe'
+aS'Cambs'
 p8411
-aS'4'
-aS'1'
-aS'1'
-aS'4'
-aVUnited Kingdom
+aVDeutschland
 p8412
-aVEngland
+aVMecklenburg-Vorpommern
 p8413
-aVYorkshire and the Humber
+aVLandkreis Ludwigslust-Parchim
 p8414
 aa(lp8415
-S'David Cooke'
+S'Bob Wilkinson'
 p8416
-aS'1976'
+aS'1975'
 p8417
-aS'Centre'
+aS'Lock'
 p8418
-aS'1949'
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Luton'
 p8419
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+aVUnited Kingdom
 p8420
-aVSétif - \u0633\u0637\u064a\u0641\u200e
+aVEngland
 p8421
-aVDaïra Beni Aziz
+aVEast of England
 p8422
 aa(lp8423
-S'Derek Wyatt'
+S'Barry Corless'
 p8424
 aS'1976'
 p8425
-aS'Wing'
-p8426
-aS'Woolwich'
-p8427
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8428
-aVEngland
-p8429
-aVGreater London
-p8430
-aa(lp8431
-S'Garry Adey'
-p8432
-aS'1976'
-p8433
-aS'No. 8'
-p8434
-aS'Loughborough'
-p8435
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8436
-aVEngland
-p8437
-aVEast Midlands
-p8438
-aa(lp8439
-S'Mike Slemen'
-p8440
-aS'1976'
-p8441
-aS'Wing'
-p8442
-aS'Liverpool'
-p8443
-aS'32'
-p8444
-aS'15'
-p8445
-aS'8'
-aS'32'
-p8446
-aVUnited Kingdom
-p8447
-aVEngland
-p8448
-aVNorth West England
-p8449
-aa(lp8450
-S'Christopher Williams'
-p8451
-aS'1976'
-p8452
-aS'Fly-half'
-p8453
-aS'?'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'g'
-aS'n'
-aS'i'
-aa(lp8454
-S'Robin Cowling'
-p8455
-aS'1977'
-p8456
-aS'Prop'
-p8457
-aS'Ipswich'
-p8458
-aS'8'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8459
-aVEngland
-p8460
-aVEast of England
-p8461
-aa(lp8462
-S'Charles Kent'
-p8463
-aS'1977'
-p8464
 aS'Centre'
-p8465
-aS'Bridgwater'
-p8466
-aS'5'
-aS'2'
-aS'1'
-aS'4'
-aVUnited Kingdom
-p8467
-aVTA6
-p8468
-aVEngland
-p8469
-aa(lp8470
-S'Mike Rafter'
-p8471
-aS'1977'
-p8472
-aS'Flanker'
-p8473
-aS'Bristol'
-p8474
-aS'17'
-p8475
-aS'6'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8476
-aVEngland
-p8477
-aVSouth West England
-p8478
-aa(lp8479
-S'Malcolm Young'
-p8480
-aS'1977'
-p8481
-aS'Scrum-half'
-p8482
-aS'NHumberlnd'
-p8483
+p8426
 aS'10'
-p8484
+p8427
+aS'5'
+aS'5'
+aS'0'
+aS'1'
+aS'4'
+aS'Norfolk'
+p8428
+aVUnited Kingdom
+p8429
+aVEngland
+p8430
+aVEast of England
+p8431
+aa(lp8432
+S'Mark Keyworth'
+p8433
+aS'1976'
+p8434
+aS'Flanker'
+p8435
 aS'4'
 aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Bridgnorth'
+p8436
+aVUnited Kingdom
+p8437
+aVEngland
+p8438
+aVWest Midlands
+p8439
+aa(lp8440
+S'Mike Lampkowski'
+p8441
+aS'1976'
+p8442
+aS'Scrum-half'
+p8443
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
+aS'Scunthorpe'
+p8444
+aVUnited Kingdom
+p8445
+aVEngland
+p8446
+aVYorkshire and the Humber
+p8447
+aa(lp8448
+S'David Cooke'
+p8449
+aS'1976'
+p8450
+aS'Centre'
+p8451
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'1949'
+p8452
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p8453
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p8454
+aVDaïra Beni Aziz
+p8455
+aa(lp8456
+S'Derek Wyatt'
+p8457
+aS'1976'
+p8458
+aS'Wing'
+p8459
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Woolwich'
+p8460
+aVUnited Kingdom
+p8461
+aVEngland
+p8462
+aVGreater London
+p8463
+aa(lp8464
+S'Garry Adey'
+p8465
+aS'1976'
+p8466
+aS'No. 8'
+p8467
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Loughborough'
+p8468
+aVUnited Kingdom
+p8469
+aVEngland
+p8470
+aVEast Midlands
+p8471
+aa(lp8472
+S'Mike Slemen'
+p8473
+aS'1976'
+p8474
+aS'Wing'
+p8475
+aS'32'
+p8476
 aS'15'
+p8477
+aS'15'
+p8478
+aS'2'
+aS'8'
+aS'32'
+p8479
+aS'Liverpool'
+p8480
+aVUnited Kingdom
+p8481
+aVEngland
+p8482
+aVNorth West England
+p8483
+aa(lp8484
+S'Christopher Williams'
 p8485
+aS'1976'
+p8486
+aS'Fly-half'
+p8487
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp8486
-S'John Scott'
-p8487
-aS'1978'
-p8488
-aS'No. 8'
+aa(lp8488
+S'Robin Cowling'
 p8489
-aS'Exeter'
+aS'1977'
 p8490
-aS'34'
+aS'Prop'
 p8491
-aS'14'
-p8492
+aS'8'
+aS'2'
+aS'5'
 aS'1'
-aS'4'
+aS'0'
+aS'0'
+aS'Ipswich'
+p8492
 aVUnited Kingdom
 p8493
 aVEngland
 p8494
-aVSouth West England
+aVEast of England
 p8495
 aa(lp8496
-S'Paul Dodge'
+S'Charles Kent'
 p8497
-aS'1978'
+aS'1977'
 p8498
 aS'Centre'
 p8499
-aS'Leicester'
-p8500
-aS'34'
-p8501
-aS'15'
-p8502
-aS'1'
-aS'15'
-p8503
-aVUnited Kingdom
-p8504
-aVEngland
-p8505
-aVEast Midlands
-p8506
-aa(lp8507
-S'John Horton'
-p8508
-aS'1978'
-p8509
-aS'Fly-half'
-p8510
-aS'St Helens'
-p8511
-aS'13'
-p8512
-aS'6'
-aS'0'
-aS'12'
-p8513
-aVUnited Kingdom
-p8514
-aVEngland
-p8515
-aVNorth West England
-p8516
-aa(lp8517
-S'Bob Mordell'
-p8518
-aS''
-aS'Flanker'
-p8519
-aS'Twickenham'
-p8520
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8521
-aVEngland
-p8522
-aVGreater London
-p8523
-aa(lp8524
-S'David Caplan'
-p8525
-aS'1978'
-p8526
-aS'Fullback'
-p8527
-aS'Leeds'
-p8528
+aS'5'
 aS'2'
-aS'2'
+aS'3'
 aS'0'
-aS'0'
-aVUnited Kingdom
-p8529
-aVEngland
-p8530
-aVYorkshire and the Humber
-p8531
-aa(lp8532
-S'Maurice Colclough'
-p8533
-aS'1978'
-p8534
-aS'Lock'
-p8535
-aS'Oxford'
-p8536
-aS'33'
-p8537
-aS'15'
-p8538
 aS'1'
 aS'4'
+aS'Bridgwater'
+p8500
 aVUnited Kingdom
-p8539
+p8501
+aVTA6
+p8502
 aVEngland
-p8540
-aVSouth East
-p8541
-aa(lp8542
-S'Tony Bond'
-p8543
-aS'1978'
-p8544
-aS'Centre'
-p8545
-aS'Manchester'
-p8546
+p8503
+aa(lp8504
+S'Mike Rafter'
+p8505
+aS'1977'
+p8506
+aS'Flanker'
+p8507
+aS'17'
+p8508
 aS'6'
+aS'9'
+aS'2'
+aS'0'
+aS'0'
+aS'Bristol'
+p8509
+aVUnited Kingdom
+p8510
+aVEngland
+p8511
+aVSouth West England
+p8512
+aa(lp8513
+S'Malcolm Young'
+p8514
+aS'1977'
+p8515
+aS'Scrum-half'
+p8516
+aS'10'
+p8517
+aS'4'
+aS'5'
+aS'1'
+aS'1'
+aS'15'
+p8518
+aS'NHumberlnd'
+p8519
+aS'g'
+aS'n'
+aS'i'
+aa(lp8520
+S'John Scott'
+p8521
+aS'1978'
+p8522
+aS'No. 8'
+p8523
+aS'34'
+p8524
+aS'14'
+p8525
+aS'17'
+p8526
+aS'3'
+aS'1'
+aS'4'
+aS'Exeter'
+p8527
+aVUnited Kingdom
+p8528
+aVEngland
+p8529
+aVSouth West England
+p8530
+aa(lp8531
+S'Paul Dodge'
+p8532
+aS'1978'
+p8533
+aS'Centre'
+p8534
+aS'34'
+p8535
+aS'15'
+p8536
+aS'14'
+p8537
+aS'5'
+aS'1'
+aS'15'
+p8538
+aS'Leicester'
+p8539
+aVUnited Kingdom
+p8540
+aVEngland
+p8541
+aVEast Midlands
+p8542
+aa(lp8543
+S'John Horton'
+p8544
+aS'1978'
+p8545
+aS'Fly-half'
+p8546
+aS'13'
+p8547
+aS'6'
+aS'7'
+aS'0'
+aS'0'
+aS'12'
+p8548
+aS'St Helens'
+p8549
+aVUnited Kingdom
+p8550
+aVEngland
+p8551
+aVNorth West England
+p8552
+aa(lp8553
+S'Bob Mordell'
+p8554
+aS''
+aS'Flanker'
+p8555
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p8547
-aVEngland
-p8548
-aVNorth West England
-p8549
-aa(lp8550
-S'Gary Pearce'
-p8551
-aS'1979'
-p8552
-aS'Prop'
-p8553
-aS'Bucks'
-p8554
-aS'36'
-p8555
-aS'12'
+aS'0'
+aS'Twickenham'
 p8556
-aS'0'
-aS'0'
-aVUnited States of America
+aVUnited Kingdom
 p8557
-aVpenna
+aVEngland
 p8558
-aVBucks County
+aVGreater London
 p8559
 aa(lp8560
-S'Richard Cardus'
+S'David Caplan'
 p8561
-aS'1979'
+aS'1978'
 p8562
-aS'Centre'
+aS'Fullback'
 p8563
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Leeds'
 p8564
-aS'2'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p8565
 aVEngland
@@ -19990,2315 +22048,2504 @@ p8566
 aVYorkshire and the Humber
 p8567
 aa(lp8568
-S'Colin Smart'
+S'Maurice Colclough'
 p8569
-aS'1979'
+aS'1978'
 p8570
-aS'Prop'
+aS'Lock'
 p8571
-aS'Highbury'
+aS'33'
 p8572
-aS'17'
+aS'15'
 p8573
-aS'7'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'17'
 p8574
-aVEngland
-p8575
-aVGreater London
-p8576
-aa(lp8577
-S'John Carleton'
-p8578
-aS'1979'
-p8579
-aS'Wing'
-p8580
-aS'Orrell'
-p8581
-aS'32'
-p8582
-aS'13'
-p8583
-aS'7'
-aS'28'
-p8584
-aVUnited Kingdom
-p8585
-aVEngland
-p8586
-aVNorth West England
-p8587
-aa(lp8588
-S'Les Cusworth'
-p8589
-aS'1979'
-p8590
-aS'Fly-half'
-p8591
-aS'Normanton'
-p8592
-aS'12'
-p8593
+aS'1'
+aS'1'
 aS'4'
-aS'0'
-aS'12'
-p8594
+aS'Oxford'
+p8575
 aVUnited Kingdom
-p8595
+p8576
 aVEngland
+p8577
+aVSouth East
+p8578
+aa(lp8579
+S'Tony Bond'
+p8580
+aS'1978'
+p8581
+aS'Centre'
+p8582
+aS'6'
+aS'1'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Manchester'
+p8583
+aVUnited Kingdom
+p8584
+aVEngland
+p8585
+aVNorth West England
+p8586
+aa(lp8587
+S'Gary Pearce'
+p8588
+aS'1979'
+p8589
+aS'Prop'
+p8590
+aS'36'
+p8591
+aS'12'
+p8592
+aS'19'
+p8593
+aS'5'
+aS'0'
+aS'0'
+aS'Bucks'
+p8594
+aVUnited States of America
+p8595
+aVpenna
 p8596
-aVYorkshire and the Humber
+aVBucks County
 p8597
 aa(lp8598
-S'Nick Preston'
+S'Richard Cardus'
 p8599
 aS'1979'
 p8600
 aS'Centre'
 p8601
-aS'Prestwich'
-p8602
-aS'3'
 aS'2'
 aS'1'
-aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Leeds'
+p8602
 aVUnited Kingdom
 p8603
 aVEngland
 p8604
-aVNorth West England
+aVYorkshire and the Humber
 p8605
 aa(lp8606
-S'Phil Blakeway'
+S'Colin Smart'
 p8607
-aS'1980'
+aS'1979'
 p8608
 aS'Prop'
 p8609
-aS'Cheltenham'
+aS'17'
 p8610
-aS'19'
+aS'7'
+aS'7'
+aS'3'
+aS'0'
+aS'0'
+aS'Highbury'
 p8611
-aS'11'
-p8612
-aS'0'
-aS'0'
 aVUnited Kingdom
-p8613
+p8612
 aVEngland
+p8613
+aVGreater London
 p8614
-aVSouth West England
-p8615
-aa(lp8616
-S'Clive Woodward'
+aa(lp8615
+S'John Carleton'
+p8616
+aS'1979'
 p8617
-aS'1980'
+aS'Wing'
 p8618
-aS'Centre'
+aS'32'
 p8619
-aS'Cambs'
+aS'13'
 p8620
-aS'23'
-p8621
-aS'12'
-p8622
-aS'4'
 aS'16'
+p8621
+aS'3'
+aS'7'
+aS'28'
+p8622
+aS'Orrell'
 p8623
-aVDeutschland
+aVUnited Kingdom
 p8624
-aVMecklenburg-Vorpommern
+aVEngland
 p8625
-aVLandkreis Ludwigslust-Parchim
+aVNorth West England
 p8626
 aa(lp8627
-S'David Cooke'
+S'Les Cusworth'
 p8628
-aS'1981'
+aS'1979'
 p8629
-aS'Flanker'
+aS'Fly-half'
 p8630
-aS'QLD'
+aS'12'
 p8631
+aS'4'
+aS'7'
+aS'1'
+aS'0'
 aS'12'
 p8632
-aS'5'
-aS'0'
-aS'0'
-aVAustralia
+aS'Normanton'
 p8633
-aVQueensland
+aVAustralia
 p8634
-ag9
-aa(lp8635
-S'Austin Sheppard'
+aV4890
+p8635
+aVQueensland
 p8636
-aS'1981'
-p8637
-aS'Prop'
+aa(lp8637
+S'Nick Preston'
 p8638
-aS'Bristol'
+aS'1979'
 p8639
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'Centre'
 p8640
-aVEngland
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'Prestwich'
 p8641
-aVSouth West England
+aVUnited Kingdom
 p8642
-aa(lp8643
-S'Huw Davies'
+aVEngland
+p8643
+aVNorth West England
 p8644
-aS'1981'
-p8645
-aS'Fly-half'
+aa(lp8645
+S'Phil Blakeway'
 p8646
-aS'Eastbourne'
+aS'1980'
 p8647
-aS'21'
+aS'Prop'
 p8648
+aS'19'
+p8649
+aS'11'
+p8650
 aS'7'
+aS'1'
+aS'0'
+aS'0'
+aS'Cheltenham'
+p8651
+aVUnited Kingdom
+p8652
+aVEngland
+p8653
+aVSouth West England
+p8654
+aa(lp8655
+S'Clive Woodward'
+p8656
+aS'1980'
+p8657
+aS'Centre'
+p8658
+aS'23'
+p8659
+aS'12'
+p8660
+aS'9'
+aS'2'
 aS'4'
 aS'16'
-p8649
-aVUnited Kingdom
-p8650
-aVEngland
-p8651
-aVSouth East
-p8652
-aa(lp8653
-S'Nick Jeavons'
-p8654
+p8661
+aS'Cambs'
+p8662
+aVDeutschland
+p8663
+aVMecklenburg-Vorpommern
+p8664
+aVLandkreis Ludwigslust-Parchim
+p8665
+aa(lp8666
+S'David Cooke'
+p8667
 aS'1981'
-p8655
+p8668
 aS'Flanker'
-p8656
-aS'Calcutta'
-p8657
-aS'14'
-p8658
+p8669
+aS'12'
+p8670
+aS'5'
 aS'6'
 aS'1'
-aS'4'
-aVIndia
-p8659
-aVWest Bengal
-p8660
-aVKolkata
-p8661
-aa(lp8662
-S'Bob Hesford'
-p8663
-aS'1981'
-p8664
-aS'No. 8'
-p8665
-aS'Blackpool'
-p8666
-aS'10'
-p8667
-aS'5'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p8668
-aVEngland
-p8669
-aVNorth West England
-p8670
-aa(lp8671
-S'Marcus Rose'
+aS'QLD'
+p8671
+aVAustralia
 p8672
-aS'1981'
+aVQueensland
 p8673
-aS'Fullback'
-p8674
-aS'Loughborough'
+ag9
+aa(lp8674
+S'Austin Sheppard'
 p8675
-aS'10'
+aS'1981'
 p8676
+aS'Prop'
+p8677
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bristol'
+p8678
+aVUnited Kingdom
+p8679
+aVEngland
+p8680
+aVSouth West England
+p8681
+aa(lp8682
+S'Huw Davies'
+p8683
+aS'1981'
+p8684
+aS'Fly-half'
+p8685
+aS'21'
+p8686
+aS'7'
+aS'11'
+p8687
 aS'3'
+aS'4'
+aS'16'
+p8688
+aS'Eastbourne'
+p8689
+aVUnited Kingdom
+p8690
+aVEngland
+p8691
+aVSouth East
+p8692
+aa(lp8693
+S'Nick Jeavons'
+p8694
+aS'1981'
+p8695
+aS'Flanker'
+p8696
+aS'14'
+p8697
+aS'6'
+aS'5'
+aS'3'
+aS'1'
+aS'4'
+aS'Calcutta'
+p8698
+aVIndia
+p8699
+aVWest Bengal
+p8700
+aVKolkata
+p8701
+aa(lp8702
+S'Bob Hesford'
+p8703
+aS'1981'
+p8704
+aS'No. 8'
+p8705
+aS'10'
+p8706
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'Blackpool'
+p8707
+aVUnited Kingdom
+p8708
+aVEngland
+p8709
+aVNorth West England
+p8710
+aa(lp8711
+S'Marcus Rose'
+p8712
+aS'1981'
+p8713
+aS'Fullback'
+p8714
+aS'10'
+p8715
+aS'3'
+aS'6'
+aS'1'
 aS'2'
 aS'82'
-p8677
+p8716
+aS'Loughborough'
+p8717
 aVUnited Kingdom
-p8678
+p8718
 aVEngland
-p8679
+p8719
 aVEast Midlands
-p8680
-aa(lp8681
+p8720
+aa(lp8721
 S'Gordon Sargent'
-p8682
+p8722
 aS'1981'
-p8683
+p8723
 aS'Prop'
-p8684
+p8724
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Gloucester'
-p8685
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p8725
 aVUnited Kingdom
-p8686
+p8726
 aVEngland
-p8687
+p8727
 aVSouth West England
-p8688
-aa(lp8689
+p8728
+aa(lp8729
 S'John Fidler'
-p8690
+p8730
 aS'1981'
-p8691
+p8731
 aS'Lock'
-p8692
-aS'Cheltenham'
-p8693
+p8732
 aS'4'
 aS'1'
+aS'2'
+aS'1'
 aS'0'
 aS'0'
+aS'Cheltenham'
+p8733
 aVUnited Kingdom
-p8694
+p8734
 aVEngland
-p8695
+p8735
 aVSouth West England
-p8696
-aa(lp8697
+p8736
+aa(lp8737
 S'Steve Mills'
-p8698
+p8738
 aS'1981'
-p8699
+p8739
 aS'Hooker'
-p8700
-aS'Cirencester'
-p8701
+p8740
 aS'5'
 aS'1'
+aS'2'
+aS'2'
 aS'0'
 aS'0'
+aS'Cirencester'
+p8741
 aVUnited Kingdom
-p8702
+p8742
 aVGL7
-p8703
+p8743
 aVEngland
-p8704
-aa(lp8705
+p8744
+aa(lp8745
 S'Tony Swift'
-p8706
+p8746
 aS'1981'
-p8707
+p8747
 aS'Wing'
-p8708
-aS'Preston'
-p8709
+p8748
 aS'6'
 aS'1'
+aS'3'
+aS'2'
 aS'0'
 aS'0'
+aS'Preston'
+p8749
 aVUnited Kingdom
-p8710
+p8750
 aVEngland
-p8711
+p8751
 aVNorth West England
-p8712
-aa(lp8713
+p8752
+aa(lp8753
 S'Peter Winterbottom'
-p8714
+p8754
 aS'1982'
-p8715
+p8755
 aS'Flanker'
-p8716
-aS'Leeds'
-p8717
+p8756
 aS'65'
-p8718
+p8757
 aS'32'
-p8719
+p8758
+aS'31'
+p8759
+aS'2'
 aS'3'
 aS'13'
-p8720
-aVUnited Kingdom
-p8721
-aVEngland
-p8722
-aVYorkshire and the Humber
-p8723
-aa(lp8724
-S'Nick Stringer'
-p8725
-aS'1982'
-p8726
-aS'Fullback'
-p8727
-aS'Harrow'
-p8728
-aS'5'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8729
-aVEngland
-p8730
-aVGreater London
-p8731
-aa(lp8732
-S'Jim Syddall'
-p8733
-aS'1982'
-p8734
-aS'Lock'
-p8735
-aS'Barton'
-p8736
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited States of America
-p8737
-aVKansas
-p8738
-aVBarton County
-p8739
-aa(lp8740
-S'Steve Bainbridge'
-p8741
-aS'1982'
-p8742
-aS'Lock, No. 8'
-p8743
-aS'Newcastle-upon-Tyne'
-p8744
-aS'20'
-p8745
-aS'7'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8746
-aVEngland
-p8747
-aVNorth East England
-p8748
-aa(lp8749
-S'Stephen Boyle'
-p8750
-aS'1983'
-p8751
-aS'Lock'
-p8752
-aS'Warrington'
-p8753
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8754
-aVEngland
-p8755
-aVNorth West England
-p8756
-aa(lp8757
-S'David Trick'
-p8758
-aS'1983'
-p8759
-aS'Wing'
 p8760
-aS'Dartford'
+aS'Leeds'
 p8761
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p8762
-aVDA1 1ED
-p8763
 aVEngland
+p8763
+aVYorkshire and the Humber
 p8764
 aa(lp8765
-S'Nick Youngs'
+S'Nick Stringer'
 p8766
-aS'1983'
+aS'1982'
 p8767
-aS'Scrum-half'
+aS'Fullback'
 p8768
-aS'Norfolk'
-p8769
-aS'6'
+aS'5'
+aS'3'
 aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Harrow'
+p8769
 aVUnited Kingdom
 p8770
 aVEngland
 p8771
-aVEast of England
+aVGreater London
 p8772
 aa(lp8773
-S'Paul Simpson'
+S'Jim Syddall'
 p8774
-aS'1983'
+aS'1982'
 p8775
-aS'Flanker'
+aS'Lock'
 p8776
-aS'Leeds'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Barton'
 p8777
-aS'3'
+aVUnited States of America
+p8778
+aVKansas
+p8779
+aVBarton County
+p8780
+aa(lp8781
+S'Steve Bainbridge'
+p8782
+aS'1982'
+p8783
+aS'Lock, No. 8'
+p8784
+aS'20'
+p8785
+aS'7'
+aS'12'
+p8786
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p8778
-aVEngland
-p8779
-aVYorkshire and the Humber
-p8780
-aa(lp8781
-S'Colin White'
-p8782
-aS'1983'
-p8783
-aS'Prop'
-p8784
 aS'Newcastle-upon-Tyne'
-p8785
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8786
-aVEngland
 p8787
-aVNorth East England
-p8788
-aa(lp8789
-S'Jon Hall'
-p8790
-aS'1984'
-p8791
-aS'Flanker'
-p8792
-aS'Bath'
-p8793
-aS'21'
-p8794
-aS'7'
-aS'2'
-aS'8'
 aVUnited Kingdom
+p8788
+aVEngland
+p8789
+aVNorth East England
+p8790
+aa(lp8791
+S'Stephen Boyle'
+p8792
+aS'1983'
+p8793
+aS'Lock'
+p8794
+aS'3'
+aS'0'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Warrington'
 p8795
-aVBA1
+aVUnited Kingdom
 p8796
 aVEngland
 p8797
-aa(lp8798
-S'Bryan Barley'
-p8799
-aS'1984'
+aVNorth West England
+p8798
+aa(lp8799
+S'David Trick'
 p8800
-aS'Centre'
+aS'1983'
 p8801
-aS'Wakefield'
+aS'Wing'
 p8802
-aS'7'
 aS'2'
-aS'1'
-aS'4'
-aVUnited Kingdom
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dartford'
 p8803
-aVEngland
+aVUnited Kingdom
 p8804
-aVYorkshire and the Humber
+aVDA1 1ED
 p8805
-aa(lp8806
-S'Rory Underwood'
-p8807
-aS'1984'
+aVEngland
+p8806
+aa(lp8807
+S'Nick Youngs'
 p8808
-aS'Wing'
+aS'1983'
 p8809
-aS'Middlesbrough'
-p8810
-aS'91'
-p8811
-aS'58'
-p8812
-aS'50'
-p8813
-aS'215'
-p8814
-aVUnited Kingdom
-p8815
-aVEngland
-p8816
-aVNorth East England
-p8817
-aa(lp8818
-S'Steve Redfern'
-p8819
-aS'1984'
-p8820
-aS'Prop'
-p8821
-aS'Leicester'
-p8822
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8823
-aVEngland
-p8824
-aVEast Midlands
-p8825
-aa(lp8826
-S'Andy Dun'
-p8827
-aS'1984'
-p8828
-aS'Flanker'
-p8829
-aS'Bristol'
-p8830
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8831
-aVEngland
-p8832
-aVSouth West England
-p8833
-aa(lp8834
-S'Paul Rendall'
-p8835
-aS'1984'
-p8836
-aS'Prop'
-p8837
-aS'London'
-p8838
-aS'28'
-p8839
-aS'14'
-p8840
-aS'0'
-aS'0'
-aVUnited Kingdom
-p8841
-aVEngland
-p8842
-aVGreater London
-p8843
-aa(lp8844
-S'Mark Bailey'
-p8845
-aS'1984'
-p8846
-aS'Wing'
-p8847
-aS'Castleford'
-p8848
-aS'7'
-aS'4'
-aS'1'
-aS'4'
-aVUnited Kingdom
-p8849
-aVEngland
-p8850
-aVYorkshire and the Humber
-p8851
-aa(lp8852
-S'Chris Butcher'
-p8853
-aS'1984'
-p8854
-aS'Flanker'
-p8855
-aS'Karachi'
-p8856
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
-p8857
-aV\u0633\u0646\u068c
-p8858
-aVKar\u0101chi District
-p8859
-aa(lp8860
-S'Richard Hill'
-p8861
-aS'1984'
-p8862
 aS'Scrum-half'
-p8863
-aS'Birmingham'
-p8864
-aS'29'
-p8865
-aS'16'
-p8866
+p8810
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Norfolk'
+p8811
+aVUnited Kingdom
+p8812
+aVEngland
+p8813
+aVEast of England
+p8814
+aa(lp8815
+S'Paul Simpson'
+p8816
+aS'1983'
+p8817
+aS'Flanker'
+p8818
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Leeds'
+p8819
+aVUnited Kingdom
+p8820
+aVEngland
+p8821
+aVYorkshire and the Humber
+p8822
+aa(lp8823
+S'Colin White'
+p8824
+aS'1983'
+p8825
+aS'Prop'
+p8826
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Newcastle-upon-Tyne'
+p8827
+aVUnited Kingdom
+p8828
+aVEngland
+p8829
+aVNorth East England
+p8830
+aa(lp8831
+S'Jon Hall'
+p8832
+aS'1984'
+p8833
+aS'Flanker'
+p8834
+aS'21'
+p8835
+aS'7'
+aS'13'
+p8836
+aS'1'
 aS'2'
 aS'8'
+aS'Bath'
+p8837
+aVUnited Kingdom
+p8838
+aVBA1
+p8839
+aVEngland
+p8840
+aa(lp8841
+S'Bryan Barley'
+p8842
+aS'1984'
+p8843
+aS'Centre'
+p8844
+aS'7'
+aS'2'
+aS'5'
+aS'0'
+aS'1'
+aS'4'
+aS'Wakefield'
+p8845
+aVUnited Kingdom
+p8846
+aVEngland
+p8847
+aVYorkshire and the Humber
+p8848
+aa(lp8849
+S'Rory Underwood'
+p8850
+aS'1984'
+p8851
+aS'Wing'
+p8852
+aS'91'
+p8853
+aS'58'
+p8854
+aS'31'
+p8855
+aS'2'
+aS'50'
+p8856
+aS'215'
+p8857
+aS'Middlesbrough'
+p8858
+aVUnited Kingdom
+p8859
+aVEngland
+p8860
+aVNorth East England
+p8861
+aa(lp8862
+S'Steve Redfern'
+p8863
+aS'1984'
+p8864
+aS'Prop'
+p8865
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Leicester'
+p8866
 aVUnited Kingdom
 p8867
 aVEngland
 p8868
-aVWest Midlands
+aVEast Midlands
 p8869
 aa(lp8870
-S'John Palmer'
+S'Andy Dun'
 p8871
 aS'1984'
 p8872
-aS'Centre'
+aS'Flanker'
 p8873
-aS'1957'
-p8874
-aS'3'
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+aS'0'
+aS'Bristol'
+p8874
+aVUnited Kingdom
 p8875
-aVSétif - \u0633\u0637\u064a\u0641\u200e
+aVEngland
 p8876
-aVDaïra Amoucha
+aVSouth West England
 p8877
 aa(lp8878
-S'Malcolm Preedy'
+S'Paul Rendall'
 p8879
 aS'1984'
 p8880
 aS'Prop'
 p8881
-aS'Gloucester'
+aS'28'
 p8882
+aS'14'
+p8883
+aS'13'
+p8884
 aS'1'
 aS'0'
 aS'0'
-aS'0'
-aVUnited Kingdom
-p8883
-aVEngland
-p8884
-aVSouth West England
+aS'London'
 p8885
-aa(lp8886
-S'Steve Brain'
-p8887
-aS'1984'
-p8888
-aS'Hooker'
-p8889
-aS'Stafford'
-p8890
-aS'13'
-p8891
-aS'4'
-aS'0'
-aS'0'
 aVUnited Kingdom
-p8892
+p8886
 aVEngland
-p8893
-aVWest Midlands
-p8894
-aa(lp8895
-S'Gary Rees'
-p8896
+p8887
+aVGreater London
+p8888
+aa(lp8889
+S'Mark Bailey'
+p8890
 aS'1984'
-p8897
-aS'Flanker'
+p8891
+aS'Wing'
+p8892
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
+aS'Castleford'
+p8893
+aVUnited Kingdom
+p8894
+aVEngland
+p8895
+aVYorkshire and the Humber
+p8896
+aa(lp8897
+S'Chris Butcher'
 p8898
-aS'Derbys'
+aS'1984'
 p8899
-aS'23'
+aS'Flanker'
 p8900
-aS'13'
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Karachi'
 p8901
-aS'2'
-aS'8'
-aVUnited States of America
+aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
 p8902
-aVNew York
+aV\u0633\u0646\u068c
 p8903
-aVSaint Lawrence County
+aVKar\u0101chi District
 p8904
 aa(lp8905
-S'Stuart Barnes'
+S'Richard Hill'
 p8906
 aS'1984'
 p8907
-aS'Fly-half'
+aS'Scrum-half'
 p8908
-aS'Essex'
+aS'29'
 p8909
-aS'10'
+aS'16'
 p8910
-aS'3'
-aS'0'
-aS'34'
+aS'13'
 p8911
-aVUnited Kingdom
-p8912
-aVEngland
-p8913
-aVEast of England
-p8914
-aa(lp8915
-S'Gareth Chilcott'
-p8916
-aS'1984'
-p8917
-aS'Prop'
-p8918
-aS'Bristol'
-p8919
-aS'14'
-p8920
+aS'0'
+aS'2'
 aS'8'
-aS'0'
-aS'0'
+aS'Birmingham'
+p8912
 aVUnited Kingdom
-p8921
+p8913
 aVEngland
+p8914
+aVWest Midlands
+p8915
+aa(lp8916
+S'John Palmer'
+p8917
+aS'1984'
+p8918
+aS'Centre'
+p8919
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1957'
+p8920
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p8921
+aVSétif - \u0633\u0637\u064a\u0641\u200e
 p8922
-aVSouth West England
+aVDaïra Amoucha
 p8923
 aa(lp8924
-S'Rob Lozowski'
+S'Malcolm Preedy'
 p8925
 aS'1984'
 p8926
-aS'Centre'
+aS'Prop'
 p8927
-aS'Ealing'
-p8928
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Gloucester'
+p8928
 aVUnited Kingdom
 p8929
 aVEngland
 p8930
-aVGreater London
+aVSouth West England
 p8931
 aa(lp8932
-S'Nigel Melville'
+S'Steve Brain'
 p8933
 aS'1984'
 p8934
-aS'Scrum-half'
+aS'Hooker'
 p8935
-aS'Leeds'
-p8936
 aS'13'
-p8937
+p8936
 aS'4'
+aS'8'
+aS'1'
 aS'0'
 aS'0'
+aS'Stafford'
+p8937
 aVUnited Kingdom
 p8938
 aVEngland
 p8939
-aVYorkshire and the Humber
+aVWest Midlands
 p8940
 aa(lp8941
-S'Nigel Redman'
+S'Gary Rees'
 p8942
 aS'1984'
 p8943
-aS'Lock'
+aS'Flanker'
 p8944
-aS'Cardiff'
+aS'23'
 p8945
-aS'20'
+aS'13'
 p8946
-aS'12'
+aS'10'
 p8947
-aS'1'
-aS'4'
-aVUnited Kingdom
-p8948
-aVWales
-p8949
-aVCardiff
-p8950
-aa(lp8951
-S'Rob Andrew'
-p8952
-aS'1985'
-p8953
-aS'Fly-half'
-p8954
-aS'Yorks'
-p8955
-aS'76'
-p8956
-aS'53'
-p8957
+aS'0'
 aS'2'
-aS'407'
+aS'8'
+aS'Derbys'
+p8948
+aVUnited States of America
+p8949
+aVNew York
+p8950
+aVSaint Lawrence County
+p8951
+aa(lp8952
+S'Stuart Barnes'
+p8953
+aS'1984'
+p8954
+aS'Fly-half'
+p8955
+aS'10'
+p8956
+aS'3'
+aS'7'
+aS'0'
+aS'0'
+aS'34'
+p8957
+aS'Essex'
 p8958
-aVDeutschland
+aVUnited Kingdom
 p8959
-aV10965
+aVEngland
 p8960
-aVBerlin
+aVEast of England
 p8961
 aa(lp8962
-S'Wade Dooley'
+S'Gareth Chilcott'
 p8963
-aS'1985'
+aS'1984'
 p8964
-aS'Lock'
+aS'Prop'
 p8965
-aS'Warrington'
+aS'14'
 p8966
-aS'57'
+aS'8'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Bristol'
 p8967
-aS'35'
+aVUnited Kingdom
 p8968
+aVEngland
+p8969
+aVSouth West England
+p8970
+aa(lp8971
+S'Rob Lozowski'
+p8972
+aS'1984'
+p8973
+aS'Centre'
+p8974
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Ealing'
+p8975
+aVUnited Kingdom
+p8976
+aVEngland
+p8977
+aVGreater London
+p8978
+aa(lp8979
+S'Nigel Melville'
+p8980
+aS'1984'
+p8981
+aS'Scrum-half'
+p8982
+aS'13'
+p8983
+aS'4'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Leeds'
+p8984
+aVUnited Kingdom
+p8985
+aVEngland
+p8986
+aVYorkshire and the Humber
+p8987
+aa(lp8988
+S'Nigel Redman'
+p8989
+aS'1984'
+p8990
+aS'Lock'
+p8991
+aS'20'
+p8992
+aS'12'
+p8993
+aS'8'
+aS'0'
+aS'1'
+aS'4'
+aS'Cardiff'
+p8994
+aVUnited Kingdom
+p8995
+aVWales
+p8996
+aVCardiff
+p8997
+aa(lp8998
+S'Rob Andrew'
+p8999
+aS'1985'
+p9000
+aS'Fly-half'
+p9001
+aS'76'
+p9002
+aS'53'
+p9003
+aS'21'
+p9004
+aS'2'
+aS'2'
+aS'407'
+p9005
+aS'Yorks'
+p9006
+aVDeutschland
+p9007
+aV10965
+p9008
+aVBerlin
+p9009
+aa(lp9010
+S'Wade Dooley'
+p9011
+aS'1985'
+p9012
+aS'Lock'
+p9013
+aS'57'
+p9014
+aS'35'
+p9015
+aS'20'
+p9016
+aS'2'
 aS'3'
 aS'12'
-p8969
+p9017
+aS'Warrington'
+p9018
 aVUnited Kingdom
-p8970
+p9019
 aVEngland
-p8971
+p9020
 aVNorth West England
-p8972
-aa(lp8973
+p9021
+aa(lp9022
 S'Richard Harding'
-p8974
+p9023
 aS'1985'
-p8975
+p9024
 aS'Scrum-half'
-p8976
-aS'Bristol'
-p8977
+p9025
 aS'12'
-p8978
+p9026
 aS'7'
+aS'4'
+aS'1'
 aS'1'
 aS'4'
+aS'Bristol'
+p9027
 aVUnited Kingdom
-p8979
+p9028
 aVEngland
-p8980
+p9029
 aVSouth West England
-p8981
-aa(lp8982
+p9030
+aa(lp9031
 S'John Orwin'
-p8983
+p9032
 aS'1985'
-p8984
+p9033
 aS'Lock'
-p8985
-aS'Bradford'
-p8986
+p9034
 aS'14'
-p8987
+p9035
 aS'5'
+aS'8'
+aS'1'
 aS'0'
 aS'0'
+aS'Bradford'
+p9036
 aVUnited Kingdom
-p8988
+p9037
 aVEngland
-p8989
+p9038
 aVYorkshire and the Humber
-p8990
-aa(lp8991
+p9039
+aa(lp9040
 S'Kevin Simms'
-p8992
+p9041
 aS'1985'
-p8993
+p9042
 aS'Centre'
-p8994
-aS'Prescot'
-p8995
+p9043
 aS'15'
-p8996
+p9044
 aS'4'
+aS'10'
+p9045
+aS'1'
 aS'1'
 aS'4'
+aS'Prescot'
+p9046
 aVUnited Kingdom
-p8997
+p9047
 aVEngland
-p8998
+p9048
 aVNorth West England
-p8999
-aa(lp9000
+p9049
+aa(lp9050
 S'Simon Smith'
-p9001
+p9051
 aS'1985'
-p9002
+p9052
 aS'Wing'
-p9003
-aS'Baldock'
-p9004
+p9053
 aS'9'
 aS'3'
+aS'5'
+aS'1'
 aS'3'
 aS'12'
-p9005
+p9054
+aS'Baldock'
+p9055
 aVUnited Kingdom
-p9006
+p9056
 aVEngland
-p9007
+p9057
 aVEast of England
-p9008
-aa(lp9009
+p9058
+aa(lp9059
 S'Chris Martin'
-p9010
+p9060
 aS'1985'
-p9011
+p9061
 aS'Fullback'
-p9012
-aS'Truro'
-p9013
+p9062
 aS'4'
+aS'1'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
+aS'Truro'
+p9063
 aVUnited Kingdom
-p9014
+p9064
 aVEngland
-p9015
+p9065
 aVSouth West England
-p9016
-aa(lp9017
+p9066
+aa(lp9067
 S'Mike Teague'
-p9018
+p9068
 aS'1985'
-p9019
+p9069
 aS'Flanker'
-p9020
-aS'Gloucester'
-p9021
+p9070
 aS'30'
-p9022
+p9071
 aS'19'
-p9023
+p9072
+aS'9'
+aS'2'
 aS'3'
 aS'12'
-p9024
+p9073
+aS'Gloucester'
+p9074
 aVUnited Kingdom
-p9025
+p9075
 aVEngland
-p9026
+p9076
 aVSouth West England
-p9027
-aa(lp9028
+p9077
+aa(lp9078
 S'Mike Harrison'
-p9029
+p9079
 aS'1985'
-p9030
+p9080
 aS'Wing'
-p9031
-aS'Barnsley'
-p9032
+p9081
 aS'15'
-p9033
+p9082
 aS'4'
+aS'11'
+p9083
+aS'0'
 aS'8'
 aS'32'
-p9034
+p9084
+aS'Barnsley'
+p9085
 aVUnited Kingdom
-p9035
+p9086
 aVEngland
-p9036
+p9087
 aVYorkshire and the Humber
-p9037
-aa(lp9038
+p9088
+aa(lp9089
 S'Robert Huntsman'
-p9039
+p9090
 aS'1985'
-p9040
+p9091
 aS'Prop'
-p9041
+p9092
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'Beverley'
-p9042
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9043
-aVEngland
-p9044
-aVYorkshire and the Humber
-p9045
-aa(lp9046
+p9093
+aVAustralia
+p9094
+aVWestern Australia
+p9095
+aVBeverley
+p9096
+aa(lp9097
 S'Jamie Salmon'
-p9047
+p9098
 aS'1981'
-p9048
+p9099
 aS'Centre'
-p9049
-aS'1959'
-p9050
+p9100
 aS'15'
-p9051
+p9101
 aS'7'
+aS'8'
+aS'0'
 aS'2'
 aS'8'
+aS'1959'
+p9102
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p9052
+p9103
 aVSétif - \u0633\u0637\u064a\u0641\u200e
-p9053
+p9104
 aVDaïra Bir El Arch
-p9054
-aa(lp9055
+p9105
+aa(lp9106
 S'Simon Halliday'
-p9056
+p9107
 aS'1986'
-p9057
+p9108
 aS'Centre'
-p9058
-aS'Haverfordwest'
-p9059
+p9109
 aS'23'
-p9060
+p9110
 aS'17'
-p9061
+p9111
+aS'5'
+aS'1'
 aS'2'
 aS'8'
+aS'Haverfordwest'
+p9112
 aVUnited Kingdom
-p9062
+p9113
 aVWales
-p9063
+p9114
 aVPembrokeshire
-p9064
-aa(lp9065
+p9115
+aa(lp9116
 S'Graham Robbins'
-p9066
+p9117
 aS'1986'
-p9067
+p9118
 aS'No. 8'
-p9068
-aS'Sutton Coldfield'
-p9069
+p9119
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Sutton Coldfield'
+p9120
 aVUnited Kingdom
-p9070
+p9121
 aVEngland
-p9071
+p9122
 aVWest Midlands
-p9072
-aa(lp9073
+p9123
+aa(lp9124
 S'Fran Clough'
-p9074
+p9125
 aS'1986'
-p9075
+p9126
 aS'Centre'
-p9076
-aS'Wigan'
-p9077
+p9127
 aS'4'
 aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Wigan'
+p9128
 aVUnited Kingdom
-p9078
+p9129
 aVEngland
-p9079
+p9130
 aVNorth West England
-p9080
-aa(lp9081
+p9131
+aa(lp9132
 S'Dean Richards'
-p9082
+p9133
 aS'1986'
-p9083
+p9134
 aS'No. 8'
-p9084
-aS'Nuneaton'
-p9085
+p9135
 aS'54'
-p9086
+p9136
 aS'38'
-p9087
+p9137
+aS'15'
+p9138
+aS'1'
 aS'6'
 aS'24'
-p9088
+p9139
+aS'Nuneaton'
+p9140
 aVUnited Kingdom
-p9089
+p9141
 aVEngland
-p9090
+p9142
 aVWest Midlands
-p9091
-aa(lp9092
+p9143
+aa(lp9144
 S'David Cusani'
-p9093
+p9145
 aS'1987'
-p9094
+p9146
 aS'Lock'
-p9095
-aS'Wigan'
-p9096
+p9147
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Wigan'
+p9148
 aVUnited Kingdom
-p9097
+p9149
 aVEngland
-p9098
+p9150
 aVNorth West England
-p9099
-aa(lp9100
+p9151
+aa(lp9152
 S'Graham Dawe'
-p9101
+p9153
 aS'1987'
-p9102
+p9154
 aS'Hooker, Lock'
-p9103
-aS'Tavistock'
-p9104
+p9155
 aS'5'
 aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9105
-aVEngland
-p9106
-aVSouth West England
-p9107
-aa(lp9108
-S'Brian Moore'
-p9109
-aS'1987'
-p9110
-aS'Hooker'
-p9111
-aS'Birmingham'
-p9112
-aS'69'
-p9113
-aS'48'
-p9114
-aS'1'
-aS'4'
-aVUnited Kingdom
-p9115
-aVEngland
-p9116
-aVWest Midlands
-p9117
-aa(lp9118
-S'Peter Williams'
-p9119
-aS'1987'
-p9120
-aS'Fly-half'
-p9121
-aS'Wigan'
-p9122
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9123
-aVEngland
-p9124
-aVNorth West England
-p9125
-aa(lp9126
-S'Jon Webb'
-p9127
-aS'1987'
-p9128
-aS'Fullback'
-p9129
-aS'Ealing'
-p9130
-aS'33'
-p9131
-aS'20'
-p9132
-aS'4'
-aS'296'
-p9133
-aVUnited Kingdom
-p9134
-aVEngland
-p9135
-aVGreater London
-p9136
-aa(lp9137
-S'Will Carling'
-p9138
-aS'1988'
-p9139
-aS'Centre'
-p9140
-aS'Bradford-on-Avon'
-p9141
-aS'73'
-p9142
-aS'53'
-p9143
-aS'12'
-p9144
-aS'54'
-p9145
-aVUnited Kingdom
-p9146
-aVBA15 1
-p9147
-aVEngland
-p9148
-aa(lp9149
-S'Jeff Probyn'
-p9150
-aS'1988'
-p9151
-aS'Prop'
-p9152
-aS'Bethnal Green'
-p9153
-aS'37'
-p9154
-aS'25'
-p9155
 aS'3'
-aS'12'
+aS'0'
+aS'0'
+aS'0'
+aS'Tavistock'
 p9156
 aVUnited Kingdom
 p9157
 aVEngland
 p9158
-aVGreater London
+aVSouth West England
 p9159
 aa(lp9160
-S'Mickey Skinner'
+S'Brian Moore'
 p9161
-aS'1988'
+aS'1987'
 p9162
-aS'Flanker'
+aS'Hooker'
 p9163
-aS'Newcastle-upon-Tyne'
+aS'69'
 p9164
-aS'21'
+aS'48'
 p9165
-aS'16'
+aS'20'
 p9166
-aS'3'
-aS'12'
+aS'1'
+aS'1'
+aS'4'
+aS'Birmingham'
 p9167
 aVUnited Kingdom
 p9168
 aVEngland
 p9169
-aVNorth East England
+aVWest Midlands
 p9170
 aa(lp9171
-S'Chris Oti'
+S'Peter Williams'
 p9172
-aS'1988'
+aS'1987'
 p9173
-aS'Wing'
+aS'Fly-half'
 p9174
-aS'Paddington'
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Wigan'
 p9175
-aS'13'
+aVUnited Kingdom
 p9176
-aS'8'
-aS'8'
-aS'32'
+aVEngland
 p9177
-aVUnited Kingdom
+aVNorth West England
 p9178
-aVEngland
-p9179
-aVGreater London
+aa(lp9179
+S'Jon Webb'
 p9180
-aa(lp9181
-S'John Bentley'
+aS'1987'
+p9181
+aS'Fullback'
 p9182
-aS'1988'
+aS'33'
 p9183
-aS'Wing'
+aS'20'
 p9184
-aS'Dewsbury'
+aS'12'
 p9185
-aS'6'
-aS'2'
 aS'1'
 aS'4'
-aVUnited Kingdom
+aS'296'
 p9186
-aVEngland
+aS'Ealing'
 p9187
-aVYorkshire and the Humber
-p9188
-aa(lp9189
-S'Dave Egerton'
-p9190
-aS'1988'
-p9191
-aS'No. 8'
-p9192
-aS'Middlesex'
-p9193
-aS'7'
-aS'5'
-aS'1'
-aS'4'
-aVUnited States of America
-p9194
-aVMassachusetts
-p9195
-aVMiddlesex County
-p9196
-aa(lp9197
-S'Barry Evans'
-p9198
-aS'1988'
-p9199
-aS'Wing'
-p9200
-aS'Hinckley'
-p9201
-aS'2'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
+p9188
+aVEngland
+p9189
+aVGreater London
+p9190
+aa(lp9191
+S'Will Carling'
+p9192
+aS'1988'
+p9193
+aS'Centre'
+p9194
+aS'73'
+p9195
+aS'53'
+p9196
+aS'19'
+p9197
+aS'1'
+aS'12'
+p9198
+aS'54'
+p9199
+aS'Bradford-on-Avon'
+p9200
+aVUnited Kingdom
+p9201
+aVBA15 1
 p9202
 aVEngland
 p9203
-aVEast Midlands
-p9204
-aa(lp9205
-S'Andy Robinson'
-p9206
+aa(lp9204
+S'Jeff Probyn'
+p9205
 aS'1988'
+p9206
+aS'Prop'
 p9207
-aS'Flanker'
+aS'37'
 p9208
-aS'Taunton'
+aS'25'
 p9209
+aS'11'
+p9210
+aS'1'
+aS'3'
+aS'12'
+p9211
+aS'Bethnal Green'
+p9212
+aVUnited Kingdom
+p9213
+aVEngland
+p9214
+aVGreater London
+p9215
+aa(lp9216
+S'Mickey Skinner'
+p9217
+aS'1988'
+p9218
+aS'Flanker'
+p9219
+aS'21'
+p9220
+aS'16'
+p9221
+aS'5'
+aS'0'
+aS'3'
+aS'12'
+p9222
+aS'Newcastle-upon-Tyne'
+p9223
+aVUnited Kingdom
+p9224
+aVEngland
+p9225
+aVNorth East England
+p9226
+aa(lp9227
+S'Chris Oti'
+p9228
+aS'1988'
+p9229
+aS'Wing'
+p9230
+aS'13'
+p9231
 aS'8'
 aS'4'
 aS'1'
-aS'4'
-aVUnited Kingdom
-p9210
-aVEngland
-p9211
-aVSouth West England
-p9212
-aa(lp9213
-S'Paul Ackford'
-p9214
-aS'1988'
-p9215
-aS'Lock'
-p9216
-aS'Hanover'
-p9217
-aS'25'
-p9218
-aS'18'
-p9219
-aS'1'
-aS'4'
-aVDeutschland
-p9220
-aVNiedersachsen
-p9221
-aVRegion Hannover
-p9222
-aa(lp9223
-S'Andy Harriman'
-p9224
-aS'1988'
-p9225
-aS'Wing'
-p9226
-aS'Lagos'
-p9227
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aV\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7
-p9228
-ag9
-ag9
-aa(lp9229
-S'Dewi Morris'
-p9230
-aS'1988'
-p9231
-aS'Scrum-half'
+aS'8'
+aS'32'
 p9232
-aS'Crickhowell'
+aS'Paddington'
 p9233
-aS'29'
-p9234
-aS'20'
-p9235
-aS'5'
-aS'21'
-p9236
 aVUnited Kingdom
-p9237
-aVWales
+p9234
+aVEngland
+p9235
+aVGreater London
+p9236
+aa(lp9237
+S'John Bentley'
 p9238
-aVPowys
-p9239
-aa(lp9240
-S'John Buckton'
-p9241
 aS'1988'
+p9239
+aS'Wing'
+p9240
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'1'
+aS'4'
+aS'Dewsbury'
+p9241
+aVUnited Kingdom
 p9242
-aS'Centre'
+aVEngland
 p9243
-aS'Hull'
+aVYorkshire and the Humber
 p9244
-aS'3'
+aa(lp9245
+S'Dave Egerton'
+p9246
+aS'1988'
+p9247
+aS'No. 8'
+p9248
+aS'7'
+aS'5'
 aS'2'
 aS'0'
-aS'0'
-aVUnited Kingdom
-p9245
-aVEngland
-p9246
-aVYorkshire and the Humber
-p9247
-aa(lp9248
-S'Steve Bates'
+aS'1'
+aS'4'
+aS'Middlesex'
 p9249
-aS'1989'
+aVUnited States of America
 p9250
-aS'Scrum-half'
+aVMassachusetts
 p9251
-aS'Merthyr Tydfil'
+aVMiddlesex County
 p9252
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9253
-aVWales
+aa(lp9253
+S'Barry Evans'
 p9254
-aVMerthyr Tydfil
+aS'1988'
 p9255
-aa(lp9256
-S'Jerry Guscott'
+aS'Wing'
+p9256
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Hinckley'
 p9257
-aS'1989'
-p9258
-aS'Centre'
-p9259
-aS'Bath'
-p9260
-aS'73'
-p9261
-aS'56'
-p9262
-aS'31'
-p9263
-aS'150'
-p9264
 aVUnited Kingdom
+p9258
+aVEngland
+p9259
+aVEast Midlands
+p9260
+aa(lp9261
+S'Andy Robinson'
+p9262
+aS'1988'
+p9263
+aS'Flanker'
+p9264
+aS'8'
+aS'4'
+aS'3'
+aS'1'
+aS'1'
+aS'4'
+aS'Taunton'
 p9265
-aVBA1
+aVUnited Kingdom
 p9266
 aVEngland
 p9267
-aa(lp9268
-S'Simon Hodgkinson'
-p9269
-aS'1989'
-p9270
-aS'Fullback'
-p9271
-aS'Thornbury'
-p9272
-aS'14'
-p9273
-aS'12'
-p9274
-aS'1'
-aS'203'
-p9275
-aVUnited Kingdom
-p9276
-aVEngland
-p9277
 aVSouth West England
+p9268
+aa(lp9269
+S'Paul Ackford'
+p9270
+aS'1988'
+p9271
+aS'Lock'
+p9272
+aS'25'
+p9273
+aS'18'
+p9274
+aS'6'
+aS'1'
+aS'1'
+aS'4'
+aS'Hanover'
+p9275
+aVDeutschland
+p9276
+aVNiedersachsen
+p9277
+aVRegion Hannover
 p9278
 aa(lp9279
-S'Mark Linnett'
+S'Andy Harriman'
 p9280
-aS'1989'
+aS'1988'
 p9281
-aS'Prop'
+aS'Wing'
 p9282
-aS'Rugby'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Lagos'
 p9283
+aV\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7
+p9284
+ag9
+ag9
+aa(lp9285
+S'Dewi Morris'
+p9286
+aS'1988'
+p9287
+aS'Scrum-half'
+p9288
+aS'29'
+p9289
+aS'20'
+p9290
+aS'8'
+aS'1'
+aS'5'
+aS'21'
+p9291
+aS'Crickhowell'
+p9292
+aVUnited Kingdom
+p9293
+aVWales
+p9294
+aVPowys
+p9295
+aa(lp9296
+S'John Buckton'
+p9297
+aS'1988'
+p9298
+aS'Centre'
+p9299
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Hull'
+p9300
+aVUnited Kingdom
+p9301
+aVEngland
+p9302
+aVYorkshire and the Humber
+p9303
+aa(lp9304
+S'Steve Bates'
+p9305
+aS'1989'
+p9306
+aS'Scrum-half'
+p9307
 aS'1'
 aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Merthyr Tydfil'
+p9308
+aVUnited Kingdom
+p9309
+aVWales
+p9310
+aVMerthyr Tydfil
+p9311
+aa(lp9312
+S'Jerry Guscott'
+p9313
+aS'1989'
+p9314
+aS'Centre'
+p9315
+aS'73'
+p9316
+aS'56'
+p9317
+aS'17'
+p9318
+aS'0'
+aS'31'
+p9319
+aS'150'
+p9320
+aS'Bath'
+p9321
+aVUnited Kingdom
+p9322
+aVBA1
+p9323
+aVEngland
+p9324
+aa(lp9325
+S'Simon Hodgkinson'
+p9326
+aS'1989'
+p9327
+aS'Fullback'
+p9328
+aS'14'
+p9329
+aS'12'
+p9330
+aS'2'
+aS'0'
+aS'1'
+aS'203'
+p9331
+aS'Thornbury'
+p9332
+aVUnited Kingdom
+p9333
+aVEngland
+p9334
+aVSouth West England
+p9335
+aa(lp9336
+S'Mark Linnett'
+p9337
+aS'1989'
+p9338
+aS'Prop'
+p9339
+aS'1'
+aS'1'
+aS'0'
+aS'0'
 aS'1'
 aS'4'
+aS'Rugby'
+p9340
 aVUnited Kingdom
-p9284
+p9341
 aVEngland
-p9285
+p9342
 aVWest Midlands
-p9286
-aa(lp9287
+p9343
+aa(lp9344
 S'Andy Mullins'
-p9288
+p9345
 aS'1989'
-p9289
+p9346
 aS'Prop'
-p9290
+p9347
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Eltham'
-p9291
-aS'1'
-aS'1'
-aS'0'
-aS'0'
+p9348
 aVUnited Kingdom
-p9292
+p9349
 aVEngland
-p9293
+p9350
 aVGreater London
-p9294
-aa(lp9295
+p9351
+aa(lp9352
 S'Nigel Heslop'
-p9296
+p9353
 aS'1990'
-p9297
+p9354
 aS'Wing'
-p9298
-aS'W Hartlepool'
-p9299
+p9355
 aS'10'
-p9300
+p9356
 aS'9'
+aS'1'
+aS'0'
 aS'3'
 aS'12'
-p9301
-aVUnited Kingdom
-p9302
-aVEngland
-p9303
-aVNorth East England
-p9304
-aa(lp9305
-S'Jason Leonard'
-p9306
-aS'1990'
-p9307
-aS'Prop'
-p9308
-aS'Barking'
-p9309
-aS'119'
-p9310
-aS'89'
-p9311
-aS'1'
-aS'5'
-aVUnited Kingdom
-p9312
-aVEngland
-p9313
-aVGreater London
-p9314
-aa(lp9315
-S'David Pears'
-p9316
-aS'1990'
-p9317
-aS'Fullback, Fly-half'
-p9318
-aS'Workington'
-p9319
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9320
-aVEngland
-p9321
-aVNorth West England
-p9322
-aa(lp9323
-S'Dean Ryan'
-p9324
-aS'1990'
-p9325
-aS'Lock, No. 8'
-p9326
-aS'Tuxford'
-p9327
-aS'4'
-aS'3'
-aS'1'
-aS'4'
-aVUnited Kingdom
-p9328
-aVEngland
-p9329
-aVEast Midlands
-p9330
-aa(lp9331
-S'John Olver'
-p9332
-aS'1990'
-p9333
-aS'Hooker'
-p9334
-aS'Manchester'
-p9335
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9336
-aVEngland
-p9337
-aVNorth West England
-p9338
-aa(lp9339
-S'Martin Bayfield'
-p9340
-aS'1991'
-p9341
-aS'Lock'
-p9342
-aS'Bedford'
-p9343
-aS'34'
-p9344
-aS'23'
-p9345
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9346
-aVEngland
-p9347
-aVEast of England
-p9348
-aa(lp9349
-S'Tim Rodber'
-p9350
-aS'1992'
-p9351
-aS'Back-row'
-p9352
-aS'Yorks'
-p9353
-aS'46'
-p9354
-aS'35'
-p9355
-aS'5'
-aS'25'
-p9356
-aVDeutschland
 p9357
-aV10965
+aS'W Hartlepool'
 p9358
-aVBerlin
-p9359
-aa(lp9360
-S'Ian Hunter'
-p9361
-aS'1992'
-p9362
-aS'Fullback, Wing'
-p9363
-aS'London'
-p9364
-aS'7'
-aS'5'
-aS'3'
-aS'15'
-p9365
 aVUnited Kingdom
-p9366
+p9359
 aVEngland
-p9367
-aVGreater London
-p9368
-aa(lp9369
-S'Victor Ubogu'
-p9370
-aS'1992'
-p9371
+p9360
+aVNorth East England
+p9361
+aa(lp9362
+S'Jason Leonard'
+p9363
+aS'1990'
+p9364
 aS'Prop'
-p9372
-aS'Lagos'
-p9373
-aS'24'
-p9374
-aS'17'
-p9375
+p9365
+aS'119'
+p9366
+aS'89'
+p9367
+aS'28'
+p9368
+aS'2'
 aS'1'
 aS'5'
-aV\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7
+aS'Barking'
+p9369
+aVUnited Kingdom
+p9370
+aVEngland
+p9371
+aVGreater London
+p9372
+aa(lp9373
+S'David Pears'
+p9374
+aS'1990'
+p9375
+aS'Fullback, Fly-half'
 p9376
-ag9
-ag9
-aa(lp9377
-S'Tony Underwood'
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Workington'
+p9377
+aVUnited Kingdom
 p9378
-aS'1992'
+aVEngland
 p9379
-aS'Wing'
+aVNorth West England
 p9380
-aS'Ipoh'
-p9381
-aS'28'
+aa(lp9381
+S'Dean Ryan'
 p9382
-aS'21'
+aS'1990'
 p9383
-aS'13'
+aS'Lock, No. 8'
 p9384
-aS'65'
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'Tuxford'
 p9385
-aVMalaysia
+aVUnited Kingdom
 p9386
-aVPerak / \u06a8\u064a\u0631\u0642
+aVEngland
 p9387
-aVIpoh
+aVEast Midlands
 p9388
 aa(lp9389
-S'Ben Clarke'
+S'John Olver'
 p9390
-aS'1992'
+aS'1990'
 p9391
-aS'Back-row'
+aS'Hooker'
 p9392
-aS"Bishop's Stortford"
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Manchester'
 p9393
-aS'43'
+aVUnited Kingdom
 p9394
-aS'27'
+aVEngland
 p9395
+aVNorth West England
+p9396
+aa(lp9397
+S'Martin Bayfield'
+p9398
+aS'1991'
+p9399
+aS'Lock'
+p9400
+aS'34'
+p9401
+aS'23'
+p9402
+aS'11'
+p9403
+aS'0'
+aS'0'
+aS'0'
+aS'Bedford'
+p9404
+aVUnited Kingdom
+p9405
+aVEngland
+p9406
+aVEast of England
+p9407
+aa(lp9408
+S'Tim Rodber'
+p9409
+aS'1992'
+p9410
+aS'Back-row'
+p9411
+aS'46'
+p9412
+aS'35'
+p9413
+aS'11'
+p9414
+aS'0'
+aS'5'
+aS'25'
+p9415
+aS'Yorks'
+p9416
+aVDeutschland
+p9417
+aV10965
+p9418
+aVBerlin
+p9419
+aa(lp9420
+S'Ian Hunter'
+p9421
+aS'1992'
+p9422
+aS'Fullback, Wing'
+p9423
+aS'7'
+aS'5'
+aS'2'
+aS'0'
 aS'3'
 aS'15'
-p9396
+p9424
+aS'London'
+p9425
 aVUnited Kingdom
-p9397
+p9426
 aVEngland
-p9398
-aVEast of England
-p9399
-aa(lp9400
-S'Phil de Glanville'
-p9401
+p9427
+aVGreater London
+p9428
+aa(lp9429
+S'Victor Ubogu'
+p9430
 aS'1992'
-p9402
-aS'Centre'
-p9403
-aS'Loughborough'
-p9404
-aS'38'
-p9405
+p9431
+aS'Prop'
+p9432
 aS'24'
-p9406
+p9433
+aS'17'
+p9434
+aS'7'
+aS'0'
+aS'1'
+aS'5'
+aS'Lagos'
+p9435
+aV\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7
+p9436
+ag9
+ag9
+aa(lp9437
+S'Tony Underwood'
+p9438
+aS'1992'
+p9439
+aS'Wing'
+p9440
+aS'28'
+p9441
+aS'21'
+p9442
+aS'7'
+aS'0'
+aS'13'
+p9443
+aS'65'
+p9444
+aS'Ipoh'
+p9445
+aVMalaysia
+p9446
+aVPerak / \u06a8\u064a\u0631\u0642
+p9447
+aVIpoh
+p9448
+aa(lp9449
+S'Ben Clarke'
+p9450
+aS'1992'
+p9451
+aS'Back-row'
+p9452
+aS'43'
+p9453
+aS'27'
+p9454
+aS'16'
+p9455
+aS'0'
+aS'3'
+aS'15'
+p9456
+aS"Bishop's Stortford"
+p9457
+aVUnited Kingdom
+p9458
+aVEngland
+p9459
+aVEast of England
+p9460
+aa(lp9461
+S'Phil de Glanville'
+p9462
+aS'1992'
+p9463
+aS'Centre'
+p9464
+aS'38'
+p9465
+aS'24'
+p9466
+aS'12'
+p9467
+aS'2'
 aS'8'
 aS'40'
-p9407
+p9468
+aS'Loughborough'
+p9469
 aVUnited Kingdom
-p9408
+p9470
 aVEngland
-p9409
+p9471
 aVEast Midlands
-p9410
-aa(lp9411
+p9472
+aa(lp9473
 S'Martin Johnson'
-p9412
+p9474
 aS'1993'
-p9413
+p9475
 aS'Lock'
-p9414
-aS'Solihull'
-p9415
+p9476
 aS'92'
-p9416
+p9477
 aS'71'
-p9417
+p9478
+aS'19'
+p9479
+aS'2'
 aS'2'
 aS'10'
-p9418
+p9480
+aS'Solihull'
+p9481
 aVUnited Kingdom
-p9419
+p9482
 aVEngland
-p9420
+p9483
 aVWest Midlands
-p9421
-aa(lp9422
+p9484
+aa(lp9485
 S'Kyran Bracken'
-p9423
+p9486
 aS'1993'
-p9424
+p9487
 aS'Scrum-half'
-p9425
-aS'Dublin'
-p9426
+p9488
 aS'51'
-p9427
+p9489
 aS'40'
-p9428
+p9490
+aS'9'
+aS'2'
 aS'3'
 aS'15'
-p9429
+p9491
+aS'Dublin'
+p9492
 aVRepublic of Ireland
-p9430
+p9493
 aVLeinster
-p9431
+p9494
 aVCounty Dublin
-p9432
-aa(lp9433
+p9495
+aa(lp9496
 S'Jon Callard'
-p9434
+p9497
 aS'1993'
-p9435
+p9498
 aS'Fullback'
-p9436
-aS'Leicester'
-p9437
+p9499
 aS'5'
 aS'3'
+aS'2'
+aS'0'
 aS'0'
 aS'69'
-p9438
-aVUnited Kingdom
-p9439
-aVEngland
-p9440
-aVEast Midlands
-p9441
-aa(lp9442
-S'Neil Back'
-p9443
-aS'1994'
-p9444
-aS'Flanker'
-p9445
-aS'Coventry'
-p9446
-aS'71'
-p9447
-aS'53'
-p9448
-aS'17'
-p9449
-aS'88'
-p9450
-aVUnited Kingdom
-p9451
-aVEngland
-p9452
-aVWest Midlands
-p9453
-aa(lp9454
-S'Steve Ojomoh'
-p9455
-aS'1994'
-p9456
-aS'Back-row'
-p9457
-aS'Benin City'
-p9458
-aS'12'
-p9459
-aS'7'
-aS'0'
-aS'0'
-aVNigeria
-p9460
-aVEdo
-p9461
-aVOredo
-p9462
-aa(lp9463
-S'Mike Catt'
-p9464
-aS'1994'
-p9465
-aS'Fly-half, Centre'
-p9466
-aS'Port Elizabeth'
-p9467
-aS'76'
-p9468
-aS'50'
-p9469
-aS'7'
-aS'142'
-p9470
-aVSouth Africa
-p9471
-aVEastern Cape
-p9472
-aVNelson Mandela Bay Metropolitan Municipality
-p9473
-aa(lp9474
-S'Paul Hull'
-p9475
-aS'1994'
-p9476
-aS'Fullback'
-p9477
-aS'London'
-p9478
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9479
-aVEngland
-p9480
-aVGreater London
-p9481
-aa(lp9482
-S'Graham Rowntree'
-p9483
-aS'1995'
-p9484
-aS'Prop'
-p9485
-aS'Stockton-on-Tees'
-p9486
-aS'57'
-p9487
-aS'38'
-p9488
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9489
-aVEngland
-p9490
-aVNorth East England
-p9491
-aa(lp9492
-S'Richard West'
-p9493
-aS'1995'
-p9494
-aS'Lock'
-p9495
-aS'Hereford'
-p9496
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9497
-aVEngland
-p9498
-aVWest Midlands
-p9499
-aa(lp9500
-S'Damian Hopley'
+p9500
+aS'Leicester'
 p9501
-aS'1995'
+aVUnited Kingdom
 p9502
-aS'Wing, Centre'
+aVEngland
 p9503
-aS'London'
+aVEast Midlands
 p9504
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9505
-aVEngland
+aa(lp9505
+S'Neil Back'
 p9506
-aVGreater London
+aS'1994'
 p9507
-aa(lp9508
-S'John Mallett'
+aS'Flanker'
+p9508
+aS'71'
 p9509
-aS'1995'
+aS'53'
 p9510
-aS'Prop'
+aS'17'
 p9511
-aS'Lincoln'
+aS'1'
+aS'17'
 p9512
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited States of America
+aS'88'
 p9513
-aVNebraska
+aS'Coventry'
 p9514
-aVLancaster County
-p9515
-aa(lp9516
-S'Mark Regan'
-p9517
-aS'1995'
-p9518
-aS'Hooker'
-p9519
-aS'Bristol'
-p9520
-aS'47'
-p9521
-aS'28'
-p9522
-aS'3'
-aS'15'
-p9523
 aVUnited Kingdom
-p9524
+p9515
 aVEngland
+p9516
+aVWest Midlands
+p9517
+aa(lp9518
+S'Steve Ojomoh'
+p9519
+aS'1994'
+p9520
+aS'Back-row'
+p9521
+aS'12'
+p9522
+aS'7'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Benin City'
+p9523
+aVNigeria
+p9524
+aVEdo
 p9525
-aVSouth West England
+aVOredo
 p9526
 aa(lp9527
-S'Lawrence Dallaglio'
+S'Mike Catt'
 p9528
-aS'1995'
+aS'1994'
 p9529
-aS'No. 8'
+aS'Fly-half, Centre'
 p9530
-aS"Shepherd's Bush"
+aS'76'
 p9531
-aS'88'
+aS'50'
 p9532
-aS'62'
+aS'25'
 p9533
-aS'17'
+aS'1'
+aS'7'
+aS'142'
 p9534
-aS'85'
+aS'Port Elizabeth'
 p9535
-aVUnited Kingdom
+aVSouth Africa
 p9536
-aVEngland
+aVEastern Cape
 p9537
-aVGreater London
+aVNelson Mandela Bay Metropolitan Municipality
 p9538
 aa(lp9539
-S'Matt Dawson'
+S'Paul Hull'
 p9540
-aS'1995'
+aS'1994'
 p9541
-aS'Scrum-half'
+aS'Fullback'
 p9542
-aS'Birkenhead'
-p9543
-aS'84'
-p9544
-aS'53'
-p9545
-aS'18'
-p9546
-aS'111'
-p9547
-aVUnited Kingdom
-p9548
-aVEngland
-p9549
-aVNorth West England
-p9550
-aa(lp9551
-S'Paul Grayson'
-p9552
-aS'1995'
-p9553
-aS'Fly-half'
-p9554
-aS'Lancashire'
-p9555
-aS'32'
-p9556
-aS'21'
-p9557
-aS'2'
-aS'400'
-p9558
-aVUnited Kingdom
-p9559
-aVEngland
-p9560
-aVNorth West England
-p9561
-aa(lp9562
-S'Jon Sleightholme'
-p9563
-aS'1996'
-p9564
-aS'Wing'
-p9565
-aS'Yorkshire'
-p9566
-aS'12'
-p9567
-aS'9'
 aS'4'
-aS'20'
-p9568
-aVUnited States of America
-p9569
-aVNew York
-p9570
-aVCattaraugus County
-p9571
-aa(lp9572
-S'Garath Archer'
-p9573
-aS'1996'
-p9574
-aS'No. 8, Lock'
-p9575
-aS'Durham'
-p9576
-aS'21'
-p9577
-aS'13'
-p9578
+aS'3'
+aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'London'
+p9543
 aVUnited Kingdom
-p9579
+p9544
 aVEngland
-p9580
+p9545
+aVGreater London
+p9546
+aa(lp9547
+S'Graham Rowntree'
+p9548
+aS'1995'
+p9549
+aS'Prop'
+p9550
+aS'57'
+p9551
+aS'38'
+p9552
+aS'18'
+p9553
+aS'1'
+aS'0'
+aS'0'
+aS'Stockton-on-Tees'
+p9554
+aVUnited Kingdom
+p9555
+aVEngland
+p9556
 aVNorth East England
-p9581
-aa(lp9582
-S'Adedayo Adebayo'
-p9583
-aS'1996'
-p9584
-aS'Wing'
-p9585
-aS'Ibadan'
-p9586
-aS'6'
+p9557
+aa(lp9558
+S'Richard West'
+p9559
+aS'1995'
+p9560
+aS'Lock'
+p9561
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Hereford'
+p9562
+aVUnited Kingdom
+p9563
+aVEngland
+p9564
+aVWest Midlands
+p9565
+aa(lp9566
+S'Damian Hopley'
+p9567
+aS'1995'
+p9568
+aS'Wing, Centre'
+p9569
 aS'3'
 aS'2'
-aS'10'
-p9587
-aVNigeria
-p9588
-aVOyo
-p9589
-aVIbadan North West
-p9590
-aa(lp9591
-S'Andy Gomarsall'
-p9592
-aS'1996'
-p9593
-aS'Scrum-half'
-p9594
-aS'Durham'
-p9595
-aS'35'
-p9596
-aS'21'
-p9597
-aS'6'
-aS'37'
-p9598
-aVUnited Kingdom
-p9599
-aVEngland
-p9600
-aVNorth East England
-p9601
-aa(lp9602
-S'Simon Shaw'
-p9603
-aS'1996'
-p9604
-aS'Lock'
-p9605
-aS'Nairobi'
-p9606
-aS'73'
-p9607
-aS'44'
-p9608
-aS'2'
-aS'10'
-p9609
-aVKenya
-p9610
-aVNairobi
-p9611
-ag9
-aa(lp9612
-S'Chris Sheasby'
-p9613
-aS'1996'
-p9614
-aS'No. 8'
-p9615
-aS'Windsor'
-p9616
-aS'7'
-aS'4'
 aS'1'
-aS'5'
-aVCanada
+aS'0'
+aS'0'
+aS'0'
+aS'London'
+p9570
+aVUnited Kingdom
+p9571
+aVEngland
+p9572
+aVGreater London
+p9573
+aa(lp9574
+S'John Mallett'
+p9575
+aS'1995'
+p9576
+aS'Prop'
+p9577
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Lincoln'
+p9578
+aVUnited States of America
+p9579
+aVNebraska
+p9580
+aVLancaster County
+p9581
+aa(lp9582
+S'Mark Regan'
+p9583
+aS'1995'
+p9584
+aS'Hooker'
+p9585
+aS'47'
+p9586
+aS'28'
+p9587
+aS'18'
+p9588
+aS'1'
+aS'3'
+aS'15'
+p9589
+aS'Bristol'
+p9590
+aVUnited Kingdom
+p9591
+aVEngland
+p9592
+aVSouth West England
+p9593
+aa(lp9594
+S'Lawrence Dallaglio'
+p9595
+aS'1995'
+p9596
+aS'No. 8'
+p9597
+aS'88'
+p9598
+aS'62'
+p9599
+aS'24'
+p9600
+aS'2'
+aS'17'
+p9601
+aS'85'
+p9602
+aS"Shepherd's Bush"
+p9603
+aVUnited Kingdom
+p9604
+aVEngland
+p9605
+aVGreater London
+p9606
+aa(lp9607
+S'Matt Dawson'
+p9608
+aS'1995'
+p9609
+aS'Scrum-half'
+p9610
+aS'84'
+p9611
+aS'53'
+p9612
+aS'30'
+p9613
+aS'1'
+aS'18'
+p9614
+aS'111'
+p9615
+aS'Birkenhead'
+p9616
+aVUnited Kingdom
 p9617
-aVOntario
+aVEngland
 p9618
-aVWindsor
+aVNorth West England
 p9619
 aa(lp9620
-S'Tim Stimpson'
+S'Paul Grayson'
 p9621
-aS'1996'
+aS'1995'
 p9622
-aS'Fullback'
+aS'Fly-half'
 p9623
-aS'Liverpool'
+aS'32'
 p9624
-aS'20'
+aS'21'
 p9625
-aS'11'
-p9626
+aS'9'
 aS'2'
-aS'35'
+aS'2'
+aS'400'
+p9626
+aS'Lancashire'
 p9627
 aVUnited Kingdom
 p9628
@@ -22307,288 +24554,303 @@ p9629
 aVNorth West England
 p9630
 aa(lp9631
-S'Phil Greening'
+S'Jon Sleightholme'
 p9632
 aS'1996'
 p9633
-aS'Hooker'
+aS'Wing'
 p9634
-aS'Gloucester'
+aS'12'
 p9635
-aS'24'
-p9636
-aS'16'
-p9637
-aS'6'
-aS'30'
-p9638
-aVUnited Kingdom
-p9639
-aVEngland
-p9640
-aVSouth West England
-p9641
-aa(lp9642
-S'Rob Hardwick'
-p9643
-aS'1996'
-p9644
-aS'Prop'
-p9645
-aS'Kenilworth'
-p9646
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9647
-aVEngland
-p9648
-aVWest Midlands
-p9649
-aa(lp9650
-S'Nick Beal'
-p9651
-aS'1996'
-p9652
-aS'Fullback'
-p9653
-aS'York'
-p9654
-aS'15'
-p9655
 aS'9'
 aS'3'
-aS'15'
-p9656
+aS'0'
+aS'4'
+aS'20'
+p9636
+aS'Yorkshire'
+p9637
+aVUnited States of America
+p9638
+aVNew York
+p9639
+aVCattaraugus County
+p9640
+aa(lp9641
+S'Garath Archer'
+p9642
+aS'1996'
+p9643
+aS'No. 8, Lock'
+p9644
+aS'21'
+p9645
+aS'13'
+p9646
+aS'6'
+aS'2'
+aS'0'
+aS'0'
+aS'Durham'
+p9647
 aVUnited Kingdom
-p9657
+p9648
 aVEngland
+p9649
+aVNorth East England
+p9650
+aa(lp9651
+S'Adedayo Adebayo'
+p9652
+aS'1996'
+p9653
+aS'Wing'
+p9654
+aS'6'
+aS'3'
+aS'2'
+aS'1'
+aS'2'
+aS'10'
+p9655
+aS'Ibadan'
+p9656
+aVNigeria
+p9657
+aVOyo
 p9658
-aVYorkshire and the Humber
+aVIbadan North West
 p9659
 aa(lp9660
-S'Richard Hill'
+S'Andy Gomarsall'
 p9661
-aS'1997'
+aS'1996'
 p9662
-aS'Back-row'
+aS'Scrum-half'
 p9663
-aS'Surrey'
+aS'35'
 p9664
-aS'76'
+aS'21'
 p9665
-aS'53'
+aS'14'
 p9666
-aS'12'
+aS'0'
+aS'6'
+aS'37'
 p9667
-aS'60'
+aS'Durham'
 p9668
 aVUnited Kingdom
 p9669
 aVEngland
 p9670
-aVSouth East
+aVNorth East England
 p9671
 aa(lp9672
-S'Austin Healey'
+S'Simon Shaw'
 p9673
-aS'1997'
+aS'1996'
 p9674
-aS'Utility back'
+aS'Lock'
 p9675
-aS'Wallasey'
+aS'73'
 p9676
-aS'53'
+aS'44'
 p9677
-aS'35'
+aS'29'
 p9678
-aS'15'
-p9679
-aS'75'
-p9680
-aVUnited Kingdom
-p9681
-aVEngland
-p9682
-aVNorth West England
-p9683
-aa(lp9684
-S'Darren Garforth'
-p9685
-aS'1997'
-p9686
-aS'Prop'
-p9687
-aS'Coventry'
-p9688
-aS'25'
-p9689
-aS'15'
-p9690
 aS'0'
-aS'0'
-aVUnited Kingdom
-p9691
-aVEngland
-p9692
-aVWest Midlands
-p9693
-aa(lp9694
-S'Martin Corry'
-p9695
-aS'1997'
-p9696
-aS'Lock, Back-row'
-p9697
-aS'Birmingham'
-p9698
-aS'71'
-p9699
-aS'40'
-p9700
-aS'6'
-aS'30'
-p9701
-aVUnited Kingdom
-p9702
-aVEngland
-p9703
-aVWest Midlands
-p9704
-aa(lp9705
-S'Tony Diprose'
-p9706
-aS'1997'
-p9707
-aS'No. 8'
-p9708
-aS'Essex'
-p9709
+aS'2'
 aS'10'
-p9710
+p9679
+aS'Nairobi'
+p9680
+aVKenya
+p9681
+aVNairobi
+p9682
+ag9
+aa(lp9683
+S'Chris Sheasby'
+p9684
+aS'1996'
+p9685
+aS'No. 8'
+p9686
+aS'7'
 aS'4'
+aS'2'
+aS'1'
 aS'1'
 aS'5'
-aVUnited Kingdom
-p9711
-aVEngland
-p9712
-aVEast of England
-p9713
-aa(lp9714
-S'Nick Greenstock'
-p9715
-aS'1997'
-p9716
-aS'Centre'
-p9717
-aS'UAE'
-p9718
-aS'4'
-aS'1'
-aS'2'
-aS'10'
-p9719
-aV\u0423\u043a\u0440\u0430\u0457\u043d\u0430
-p9720
-ag9
-ag9
-aa(lp9721
-S'Martin Haag'
-p9722
-aS'1997'
-p9723
-aS'Lock'
-p9724
-aS'Chelmsford'
-p9725
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited States of America
-p9726
-aVMassachusetts
-p9727
-aVMiddlesex County
-p9728
-aa(lp9729
-S'Jim Mallinder'
-p9730
-aS'1997'
-p9731
+aS'Windsor'
+p9687
+aVCanada
+p9688
+aVOntario
+p9689
+aVWindsor
+p9690
+aa(lp9691
+S'Tim Stimpson'
+p9692
+aS'1996'
+p9693
 aS'Fullback'
-p9732
-aS'Halifax'
-p9733
+p9694
+aS'20'
+p9695
+aS'11'
+p9696
+aS'8'
+aS'1'
 aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVCanada
-p9734
-aVNova Scotia
-p9735
-aVHalifax County
-p9736
-aa(lp9737
-S'Kevin Yates'
-p9738
-aS'1997'
-p9739
-aS'Prop'
-p9740
-aS'Medicine Hat'
-p9741
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aVCanada
-p9742
-aVAlberta
-p9743
-aVCity of Medicine Hat
-p9744
-aa(lp9745
-S'Richard Cockerill'
-p9746
-aS'1997'
-p9747
+aS'35'
+p9697
+aS'Liverpool'
+p9698
+aVUnited Kingdom
+p9699
+aVEngland
+p9700
+aVNorth West England
+p9701
+aa(lp9702
+S'Phil Greening'
+p9703
+aS'1996'
+p9704
 aS'Hooker'
-p9748
-aS'Rugby'
-p9749
-aS'27'
-p9750
-aS'14'
-p9751
+p9705
+aS'24'
+p9706
+aS'16'
+p9707
+aS'8'
+aS'0'
+aS'6'
+aS'30'
+p9708
+aS'Gloucester'
+p9709
+aVUnited Kingdom
+p9710
+aVEngland
+p9711
+aVSouth West England
+p9712
+aa(lp9713
+S'Rob Hardwick'
+p9714
+aS'1996'
+p9715
+aS'Prop'
+p9716
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Kenilworth'
+p9717
+aVSouth Africa
+p9718
+aVWestern Cape
+p9719
+aVCity of Cape Town
+p9720
+aa(lp9721
+S'Nick Beal'
+p9722
+aS'1996'
+p9723
+aS'Fullback'
+p9724
+aS'15'
+p9725
+aS'9'
+aS'6'
+aS'0'
 aS'3'
 aS'15'
-p9752
+p9726
+aS'York'
+p9727
 aVUnited Kingdom
-p9753
+p9728
 aVEngland
-p9754
-aVWest Midlands
-p9755
-aa(lp9756
-S'Danny Grewcock'
-p9757
+p9729
+aVYorkshire and the Humber
+p9730
+aa(lp9731
+S'Richard Hill'
+p9732
 aS'1997'
-p9758
-aS'Lock'
-p9759
-aS'Coventry'
-p9760
-aS'74'
-p9761
-aS'45'
-p9762
+p9733
+aS'Back-row'
+p9734
+aS'76'
+p9735
+aS'53'
+p9736
+aS'21'
+p9737
 aS'2'
-aS'10'
+aS'12'
+p9738
+aS'60'
+p9739
+aS'Surrey'
+p9740
+aVUnited Kingdom
+p9741
+aVEngland
+p9742
+aVSouth East
+p9743
+aa(lp9744
+S'Austin Healey'
+p9745
+aS'1997'
+p9746
+aS'Utility back'
+p9747
+aS'53'
+p9748
+aS'35'
+p9749
+aS'16'
+p9750
+aS'2'
+aS'15'
+p9751
+aS'75'
+p9752
+aS'Wallasey'
+p9753
+aVUnited Kingdom
+p9754
+aVEngland
+p9755
+aVNorth West England
+p9756
+aa(lp9757
+S'Darren Garforth'
+p9758
+aS'1997'
+p9759
+aS'Prop'
+p9760
+aS'25'
+p9761
+aS'15'
+p9762
+aS'9'
+aS'1'
+aS'0'
+aS'0'
+aS'Coventry'
 p9763
 aVUnited Kingdom
 p9764
@@ -22597,2324 +24859,2489 @@ p9765
 aVWest Midlands
 p9766
 aa(lp9767
-S'Mark Mapletoft'
+S'Martin Corry'
 p9768
 aS'1997'
 p9769
-aS'Fly-half'
+aS'Lock, Back-row'
 p9770
-aS'Mansfield'
+aS'71'
 p9771
+aS'40'
+p9772
+aS'30'
+p9773
+aS'1'
+aS'6'
+aS'30'
+p9774
+aS'Birmingham'
+p9775
+aVUnited Kingdom
+p9776
+aVEngland
+p9777
+aVWest Midlands
+p9778
+aa(lp9779
+S'Tony Diprose'
+p9780
+aS'1997'
+p9781
+aS'No. 8'
+p9782
+aS'10'
+p9783
+aS'4'
+aS'5'
+aS'1'
+aS'1'
+aS'5'
+aS'Essex'
+p9784
+aVUnited Kingdom
+p9785
+aVEngland
+p9786
+aVEast of England
+p9787
+aa(lp9788
+S'Nick Greenstock'
+p9789
+aS'1997'
+p9790
+aS'Centre'
+p9791
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'2'
+aS'10'
+p9792
+aS'UAE'
+p9793
+aV\u0423\u043a\u0440\u0430\u0457\u043d\u0430
+p9794
+ag9
+ag9
+aa(lp9795
+S'Martin Haag'
+p9796
+aS'1997'
+p9797
+aS'Lock'
+p9798
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Chelmsford'
+p9799
+aVUnited Kingdom
+p9800
+aVEngland
+p9801
+aVEast of England
+p9802
+aa(lp9803
+S'Jim Mallinder'
+p9804
+aS'1997'
+p9805
+aS'Fullback'
+p9806
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Halifax'
+p9807
+aVCanada
+p9808
+aVNova Scotia
+p9809
+aVHalifax County
+p9810
+aa(lp9811
+S'Kevin Yates'
+p9812
+aS'1997'
+p9813
+aS'Prop'
+p9814
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Medicine Hat'
+p9815
+aVCanada
+p9816
+aVAlberta
+p9817
+aVCity of Medicine Hat
+p9818
+aa(lp9819
+S'Richard Cockerill'
+p9820
+aS'1997'
+p9821
+aS'Hooker'
+p9822
+aS'27'
+p9823
+aS'14'
+p9824
+aS'11'
+p9825
+aS'2'
+aS'3'
+aS'15'
+p9826
+aS'Rugby'
+p9827
+aVUnited Kingdom
+p9828
+aVEngland
+p9829
+aVWest Midlands
+p9830
+aa(lp9831
+S'Danny Grewcock'
+p9832
+aS'1997'
+p9833
+aS'Lock'
+p9834
+aS'74'
+p9835
+aS'45'
+p9836
+aS'28'
+p9837
+aS'1'
+aS'2'
+aS'10'
+p9838
+aS'Coventry'
+p9839
+aVUnited Kingdom
+p9840
+aVEngland
+p9841
+aVWest Midlands
+p9842
+aa(lp9843
+S'Mark Mapletoft'
+p9844
+aS'1997'
+p9845
+aS'Fly-half'
+p9846
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'3'
+aS'Mansfield'
+p9847
 aVUnited States of America
-p9772
+p9848
 aVOhio
-p9773
+p9849
 aVRichland County
-p9774
-aa(lp9775
+p9850
+aa(lp9851
 S'Alex King'
-p9776
+p9852
 aS'1997'
-p9777
+p9853
 aS'Fly-half'
-p9778
-aS'Brighton'
-p9779
+p9854
 aS'5'
 aS'4'
+aS'1'
+aS'0'
 aS'1'
 aS'23'
-p9780
+p9855
+aS'Brighton'
+p9856
 aVUnited Kingdom
-p9781
+p9857
 aVEngland
-p9782
+p9858
 aVSouth East
-p9783
-aa(lp9784
+p9859
+aa(lp9860
 S'Will Green'
-p9785
+p9861
 aS'1997'
-p9786
+p9862
 aS'Prop'
-p9787
-aS'Littlehampton'
-p9788
+p9863
 aS'4'
 aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9789
-aVEngland
-p9790
-aVSouth East
-p9791
-aa(lp9792
-S'Will Greenwood'
-p9793
-aS'1997'
-p9794
-aS'Centre'
-p9795
-aS'Blackburn'
-p9796
-aS'57'
-p9797
-aS'44'
-p9798
-aS'31'
-p9799
-aS'155'
-p9800
-aVUnited Kingdom
-p9801
-aVEngland
-p9802
-aVNorth West England
-p9803
-aa(lp9804
-S'Andy Long'
-p9805
-aS'1997'
-p9806
-aS'Hooker'
-p9807
-aS'Poole'
-p9808
-aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p9809
-aVEngland
-p9810
-aVSouth West England
-p9811
-aa(lp9812
-S'Matt Perry'
-p9813
-aS'1997'
-p9814
-aS'Fullback'
-p9815
-aS'Bath'
-p9816
-aS'39'
-p9817
-aS'22'
-p9818
-aS'10'
-p9819
-aS'50'
-p9820
-aVUnited Kingdom
-p9821
-aVBA1
-p9822
-aVEngland
-p9823
-aa(lp9824
-S'David Rees'
-p9825
-aS'1997'
-p9826
-aS'Utility back'
-p9827
-aS'Kingston-upon-Thames'
-p9828
-aS'11'
-p9829
-aS'5'
-aS'3'
-aS'15'
-p9830
-aVUnited Kingdom
-p9831
-aVKT2 5EB
-p9832
-aVEngland
-p9833
-aa(lp9834
-S'Dorian West'
-p9835
-aS'1998'
-p9836
-aS'Hooker'
-p9837
-aS'Wrexham'
-p9838
-aS'21'
-p9839
-aS'17'
-p9840
-aS'3'
-aS'15'
-p9841
-aVUnited Kingdom
-p9842
-aVWales
-p9843
-aVWrexham
-p9844
-aa(lp9845
-S'Phil Vickery'
-p9846
-aS'1998'
-p9847
-aS'Prop'
-p9848
-aS'Barnstaple'
-p9849
-aS'78'
-p9850
-aS'50'
-p9851
-aS'2'
-aS'10'
-p9852
-aVUnited Kingdom
-p9853
-aVEngland
-p9854
-aVSouth West England
-p9855
-aa(lp9856
-S'Jonny Wilkinson'
-p9857
-aS'1998'
-p9858
-aS'Fly-half'
-p9859
-aS'Frimley'
-p9860
-aS'97'
-p9861
-aS'67'
-p9862
-aS'7'
-aS'1246'
-p9863
-aVUnited Kingdom
+aS'Littlehampton'
 p9864
-aVEngland
+aVUnited Kingdom
 p9865
-aVSouth East
+aVEngland
 p9866
-aa(lp9867
-S'Scott Benton'
-p9868
-aS'1998'
+aVSouth East
+p9867
+aa(lp9868
+S'Will Greenwood'
 p9869
-aS'Scrum-half'
+aS'1997'
 p9870
-aS'Bradford'
-p9871
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9872
-aVEngland
-p9873
-aVYorkshire and the Humber
-p9874
-aa(lp9875
-S'Spencer Brown'
-p9876
-aS'1998'
-p9877
-aS'Wing'
-p9878
-aS'Eton'
-p9879
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVFrance
-p9880
-aV55240
-p9881
-aVFrance métropolitaine
-p9882
-aa(lp9883
-S'Richard Pool-Jones'
-p9884
-aS'1998'
-p9885
-aS'Flanker'
-p9886
-aS'London'
-p9887
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9888
-aVEngland
-p9889
-aVGreater London
-p9890
-aa(lp9891
-S'Steve Ravenscroft'
-p9892
-aS'1998'
-p9893
 aS'Centre'
+p9871
+aS'57'
+p9872
+aS'44'
+p9873
+aS'11'
+p9874
+aS'2'
+aS'31'
+p9875
+aS'155'
+p9876
+aS'Blackburn'
+p9877
+aVUnited Kingdom
+p9878
+aVEngland
+p9879
+aVNorth West England
+p9880
+aa(lp9881
+S'Andy Long'
+p9882
+aS'1997'
+p9883
+aS'Hooker'
+p9884
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Poole'
+p9885
+aVUnited Kingdom
+p9886
+aVEngland
+p9887
+aVSouth West England
+p9888
+aa(lp9889
+S'Matt Perry'
+p9890
+aS'1997'
+p9891
+aS'Fullback'
+p9892
+aS'39'
+p9893
+aS'22'
 p9894
-aS'Leeds'
+aS'15'
 p9895
 aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'10'
 p9896
-aVEngland
+aS'50'
 p9897
-aVYorkshire and the Humber
+aS'Bath'
 p9898
-aa(lp9899
-S'Ben Sturnham'
+aVUnited Kingdom
+p9899
+aVBA1
 p9900
-aS'1998'
+aVEngland
 p9901
-aS'Flanker'
-p9902
-aS'St Albans'
+aa(lp9902
+S'David Rees'
 p9903
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'1997'
 p9904
-aVEngland
+aS'Utility back'
 p9905
-aVEast of England
+aS'11'
 p9906
-aa(lp9907
-S'Dominic Chapman'
-p9908
-aS'1998'
-p9909
-aS'Wing'
-p9910
+aS'5'
+aS'4'
+aS'2'
+aS'3'
+aS'15'
+p9907
 aS'Kingston-upon-Thames'
-p9911
-aS'1'
-aS'0'
-aS'0'
-aS'0'
+p9908
 aVUnited Kingdom
-p9912
+p9909
 aVKT2 5EB
-p9913
+p9910
 aVEngland
-p9914
-aa(lp9915
-S'Stuart Potter'
-p9916
+p9911
+aa(lp9912
+S'Dorian West'
+p9913
 aS'1998'
+p9914
+aS'Hooker'
+p9915
+aS'21'
+p9916
+aS'17'
 p9917
-aS'Centre'
+aS'4'
+aS'0'
+aS'3'
+aS'15'
 p9918
-aS'Lichfield'
+aS'Wrexham'
 p9919
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p9920
-aVEngland
+aVWales
 p9921
-aVWest Midlands
+aVWrexham
 p9922
 aa(lp9923
-S'Josh Lewsey'
+S'Phil Vickery'
 p9924
 aS'1998'
 p9925
-aS'Wing, Centre'
+aS'Prop'
 p9926
-aS'Kent'
+aS'78'
 p9927
-aS'58'
+aS'50'
 p9928
-aS'33'
+aS'28'
 p9929
-aS'22'
+aS'0'
+aS'2'
+aS'10'
 p9930
-aS'110'
+aS'Barnstaple'
 p9931
 aVUnited Kingdom
 p9932
 aVEngland
 p9933
-aVSouth East
+aVSouth West England
 p9934
 aa(lp9935
-S'Pat Sanderson'
+S'Jonny Wilkinson'
 p9936
 aS'1998'
 p9937
-aS'Back-row'
+aS'Fly-half'
 p9938
-aS'Chester'
+aS'97'
 p9939
-aS'16'
+aS'67'
 p9940
-aS'6'
-aS'1'
-aS'5'
-aVUnited Kingdom
+aS'28'
 p9941
-aVEngland
-p9942
-aVNorth West England
-p9943
-aa(lp9944
-S'Tom Beim'
-p9945
-aS'1998'
-p9946
-aS'Wing'
-p9947
-aS'Frimley'
-p9948
 aS'2'
+aS'7'
+aS'1246'
+p9942
+aS'Frimley'
+p9943
+aVUnited Kingdom
+p9944
+aVEngland
+p9945
+aVSouth East
+p9946
+aa(lp9947
+S'Scott Benton'
+p9948
+aS'1998'
+p9949
+aS'Scrum-half'
+p9950
+aS'1'
 aS'0'
 aS'1'
-aS'5'
-aVUnited Kingdom
-p9949
-aVEngland
-p9950
-aVSouth East
+aS'0'
+aS'0'
+aS'0'
+aS'Bradford'
 p9951
-aa(lp9952
-S'Dave Sims'
+aVUnited Kingdom
+p9952
+aVEngland
 p9953
-aS'1998'
-p9954
-aS'Lock'
-p9955
-aS'Gloucester'
-p9956
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9957
-aVEngland
-p9958
-aVSouth West England
-p9959
-aa(lp9960
-S'Jos Baxendell'
-p9961
-aS'1998'
-p9962
-aS'Fly-half, Centre'
-p9963
-aS'Manchester'
-p9964
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9965
-aVEngland
-p9966
-aVNorth West England
-p9967
-aa(lp9968
-S'Rob Fidler'
-p9969
-aS'1998'
-p9970
-aS'Lock'
-p9971
-aS'Cheltenham'
-p9972
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9973
-aVEngland
-p9974
-aVSouth West England
-p9975
-aa(lp9976
-S'Paul Sampson'
-p9977
-aS'1998'
-p9978
-aS'Wing, Fullback'
-p9979
-aS'Keighley'
-p9980
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p9981
-aVEngland
-p9982
 aVYorkshire and the Humber
-p9983
-aa(lp9984
-S'Dan Luger'
-p9985
+p9954
+aa(lp9955
+S'Spencer Brown'
+p9956
 aS'1998'
-p9986
+p9957
 aS'Wing'
-p9987
-aS'Chiswick'
-p9988
-aS'38'
-p9989
-aS'31'
-p9990
-aS'24'
-p9991
-aS'120'
-p9992
+p9958
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Eton'
+p9959
+aVFrance
+p9960
+aV55240
+p9961
+aVFrance métropolitaine
+p9962
+aa(lp9963
+S'Richard Pool-Jones'
+p9964
+aS'1998'
+p9965
+aS'Flanker'
+p9966
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'London'
+p9967
 aVUnited Kingdom
+p9968
+aVEngland
+p9969
+aVGreater London
+p9970
+aa(lp9971
+S'Steve Ravenscroft'
+p9972
+aS'1998'
+p9973
+aS'Centre'
+p9974
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Leeds'
+p9975
+aVUnited Kingdom
+p9976
+aVEngland
+p9977
+aVYorkshire and the Humber
+p9978
+aa(lp9979
+S'Ben Sturnham'
+p9980
+aS'1998'
+p9981
+aS'Flanker'
+p9982
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'St Albans'
+p9983
+aVUnited Kingdom
+p9984
+aVEngland
+p9985
+aVEast of England
+p9986
+aa(lp9987
+S'Dominic Chapman'
+p9988
+aS'1998'
+p9989
+aS'Wing'
+p9990
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Kingston-upon-Thames'
+p9991
+aVUnited Kingdom
+p9992
+aVKT2 5EB
 p9993
 aVEngland
 p9994
-aVGreater London
-p9995
-aa(lp9996
-S'Neil McCarthy'
+aa(lp9995
+S'Stuart Potter'
+p9996
+aS'1998'
 p9997
-aS'1999'
+aS'Centre'
 p9998
-aS'Hooker'
-p9999
-aS'Slough'
-p10000
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10001
-aVEngland
-p10002
-aVSouth East
-p10003
-aa(lp10004
-S'Steve Hanley'
-p10005
-aS'1999'
-p10006
-aS'Wing'
-p10007
-aS'Whitehaven'
-p10008
 aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Lichfield'
+p9999
+aVUnited Kingdom
+p10000
+aVEngland
+p10001
+aVWest Midlands
+p10002
+aa(lp10003
+S'Josh Lewsey'
+p10004
+aS'1998'
+p10005
+aS'Wing, Centre'
+p10006
+aS'58'
+p10007
+aS'33'
+p10008
+aS'25'
+p10009
+aS'0'
+aS'22'
+p10010
+aS'110'
+p10011
+aS'Kent'
+p10012
+aVUnited Kingdom
+p10013
+aVEngland
+p10014
+aVSouth East
+p10015
+aa(lp10016
+S'Pat Sanderson'
+p10017
+aS'1998'
+p10018
+aS'Back-row'
+p10019
+aS'16'
+p10020
+aS'6'
+aS'10'
+p10021
 aS'0'
 aS'1'
 aS'5'
+aS'Chester'
+p10022
 aVUnited Kingdom
-p10009
-aVCA28 7XY
-p10010
+p10023
 aVEngland
-p10011
-aa(lp10012
-S'Barrie-Jon Mather'
-p10013
-aS'1999'
-p10014
-aS'Centre'
-p10015
-aS'Wigan'
-p10016
+p10024
+aVNorth West England
+p10025
+aa(lp10026
+S'Tom Beim'
+p10027
+aS'1998'
+p10028
+aS'Wing'
+p10029
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'Frimley'
+p10030
+aVUnited Kingdom
+p10031
+aVEngland
+p10032
+aVSouth East
+p10033
+aa(lp10034
+S'Dave Sims'
+p10035
+aS'1998'
+p10036
+aS'Lock'
+p10037
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Gloucester'
+p10038
+aVUnited Kingdom
+p10039
+aVEngland
+p10040
+aVSouth West England
+p10041
+aa(lp10042
+S'Jos Baxendell'
+p10043
+aS'1998'
+p10044
+aS'Fly-half, Centre'
+p10045
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Manchester'
+p10046
+aVUnited Kingdom
+p10047
+aVEngland
+p10048
+aVNorth West England
+p10049
+aa(lp10050
+S'Rob Fidler'
+p10051
+aS'1998'
+p10052
+aS'Lock'
+p10053
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Cheltenham'
+p10054
+aVUnited Kingdom
+p10055
+aVEngland
+p10056
+aVSouth West England
+p10057
+aa(lp10058
+S'Paul Sampson'
+p10059
+aS'1998'
+p10060
+aS'Wing, Fullback'
+p10061
+aS'3'
+aS'2'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p10017
-aVEngland
-p10018
-aVNorth West England
-p10019
-aa(lp10020
-S'Trevor Woodman'
-p10021
-aS'1999'
-p10022
-aS'Prop'
-p10023
-aS'Plymouth'
-p10024
-aS'22'
-p10025
-aS'18'
-p10026
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10027
-aVEngland
-p10028
-aVSouth West England
-p10029
-aa(lp10030
-S'Joe Worsley'
-p10031
-aS'1999'
-p10032
-aS'Back-row'
-p10033
-aS'Hants'
-p10034
-aS'79'
-p10035
-aS'48'
-p10036
-aS'10'
-p10037
-aS'50'
-p10038
-aVCanada
-p10039
-aVNova Scotia
-p10040
-aVHants County
-p10041
-aa(lp10042
-S'Ben Cohen'
-p10043
-aS'2000'
-p10044
-aS'Wing'
-p10045
-aS'Northampton'
-p10046
-aS'57'
-p10047
-aS'40'
-p10048
-aS'31'
-p10049
-aS'155'
-p10050
-aVUnited Kingdom
-p10051
-aVEngland
-p10052
-aVEast Midlands
-p10053
-aa(lp10054
-S'Mike Tindall'
-p10055
-aS'2000'
-p10056
-aS'Centre'
-p10057
-aS'Otley'
-p10058
-aS'75'
-p10059
-aS'51'
-p10060
-aS'14'
-p10061
-aS'74'
+aS'Keighley'
 p10062
 aVUnited Kingdom
 p10063
-aVLS21
-p10064
 aVEngland
+p10064
+aVYorkshire and the Humber
 p10065
 aa(lp10066
-S'Iain Balshaw'
+S'Dan Luger'
 p10067
-aS'2000'
+aS'1998'
 p10068
-aS'Fullback'
+aS'Wing'
 p10069
-aS'Blackburn'
-p10070
 aS'38'
+p10070
+aS'31'
 p10071
-aS'25'
+aS'7'
+aS'0'
+aS'24'
 p10072
-aS'13'
+aS'120'
 p10073
-aS'65'
+aS'Chiswick'
 p10074
 aVUnited Kingdom
 p10075
 aVEngland
 p10076
-aVNorth West England
+aVGreater London
 p10077
 aa(lp10078
-S'Julian White'
+S'Neil McCarthy'
 p10079
-aS'2000'
+aS'1999'
 p10080
-aS'Prop'
+aS'Hooker'
 p10081
-aS'Plymouth'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Slough'
 p10082
-aS'55'
+aVUnited Kingdom
 p10083
-aS'29'
+aVEngland
 p10084
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10085
-aVEngland
-p10086
-aVSouth West England
-p10087
-aa(lp10088
-S'David Flatman'
-p10089
-aS'2000'
-p10090
-aS'Prop'
-p10091
-aS'Maidstone'
-p10092
-aS'8'
-aS'7'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10093
-aVEngland
-p10094
 aVSouth East
-p10095
-aa(lp10096
-S'Leon Lloyd'
-p10097
-aS'2000'
-p10098
-aS'Centre, Wing'
-p10099
-aS'Coventry'
-p10100
+p10085
+aa(lp10086
+S'Steve Hanley'
+p10087
+aS'1999'
+p10088
+aS'Wing'
+p10089
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'1'
 aS'5'
-aS'4'
-aS'2'
-aS'10'
+aS'Whitehaven'
+p10090
+aVUnited Kingdom
+p10091
+aVEngland
+p10092
+aVNorth West England
+p10093
+aa(lp10094
+S'Barrie-Jon Mather'
+p10095
+aS'1999'
+p10096
+aS'Centre'
+p10097
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Wigan'
+p10098
+aVUnited Kingdom
+p10099
+aVEngland
+p10100
+aVNorth West England
 p10101
-aVUnited Kingdom
-p10102
-aVEngland
+aa(lp10102
+S'Trevor Woodman'
 p10103
-aVWest Midlands
+aS'1999'
 p10104
-aa(lp10105
-S'Jason Robinson'
+aS'Prop'
+p10105
+aS'22'
 p10106
-aS'2001'
+aS'18'
 p10107
-aS'Fullback'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Plymouth'
 p10108
-aS'Leeds'
+aVUnited Kingdom
 p10109
-aS'56'
+aVEngland
 p10110
-aS'39'
+aVSouth West England
 p10111
-aS'30'
-p10112
-aS'150'
+aa(lp10112
+S'Joe Worsley'
 p10113
-aVUnited Kingdom
+aS'1999'
 p10114
-aVEngland
+aS'Back-row'
 p10115
-aVYorkshire and the Humber
+aS'79'
 p10116
-aa(lp10117
-S'Steve Borthwick'
+aS'48'
+p10117
+aS'30'
 p10118
-aS'2001'
+aS'1'
+aS'10'
 p10119
-aS'Lock'
-p10120
-aS'Carlisle'
-p10121
-aS'57'
-p10122
-aS'29'
-p10123
-aS'2'
-aS'10'
-p10124
-aVUnited Kingdom
-p10125
-aVEngland
-p10126
-aVNorth West England
-p10127
-aa(lp10128
-S'Ben Kay'
-p10129
-aS'2001'
-p10130
-aS'Lock'
-p10131
-aS'Liverpool'
-p10132
-aS'64'
-p10133
-aS'44'
-p10134
-aS'2'
-aS'10'
-p10135
-aVUnited Kingdom
-p10136
-aVEngland
-p10137
-aVNorth West England
-p10138
-aa(lp10139
-S'Lewis Moody'
-p10140
-aS'2001'
-p10141
-aS'Flanker'
-p10142
-aS'Ascot'
-p10143
-aS'74'
-p10144
-aS'46'
-p10145
-aS'10'
-p10146
 aS'50'
+p10120
+aS'Hants'
+p10121
+aVCanada
+p10122
+aVNova Scotia
+p10123
+aVHants County
+p10124
+aa(lp10125
+S'Ben Cohen'
+p10126
+aS'2000'
+p10127
+aS'Wing'
+p10128
+aS'57'
+p10129
+aS'40'
+p10130
+aS'17'
+p10131
+aS'0'
+aS'31'
+p10132
+aS'155'
+p10133
+aS'Northampton'
+p10134
+aVUnited Kingdom
+p10135
+aVEngland
+p10136
+aVEast Midlands
+p10137
+aa(lp10138
+S'Mike Tindall'
+p10139
+aS'2000'
+p10140
+aS'Centre'
+p10141
+aS'75'
+p10142
+aS'51'
+p10143
+aS'24'
+p10144
+aS'0'
+aS'14'
+p10145
+aS'74'
+p10146
+aS'Otley'
 p10147
 aVUnited Kingdom
 p10148
-aVEngland
+aVIP6
 p10149
-aVSouth East
+aVEngland
 p10150
 aa(lp10151
-S'Jamie Noon'
+S'Iain Balshaw'
 p10152
-aS'2001'
+aS'2000'
 p10153
-aS'Centre'
+aS'Fullback'
 p10154
-aS'Goole'
-p10155
 aS'38'
+p10155
+aS'25'
 p10156
-aS'16'
+aS'13'
 p10157
+aS'0'
+aS'13'
+p10158
+aS'65'
+p10159
+aS'Blackburn'
+p10160
+aVUnited Kingdom
+p10161
+aVEngland
+p10162
+aVNorth West England
+p10163
+aa(lp10164
+S'Julian White'
+p10165
+aS'2000'
+p10166
+aS'Prop'
+p10167
+aS'55'
+p10168
+aS'29'
+p10169
+aS'25'
+p10170
+aS'1'
+aS'0'
+aS'0'
+aS'Plymouth'
+p10171
+aVUnited Kingdom
+p10172
+aVEngland
+p10173
+aVSouth West England
+p10174
+aa(lp10175
+S'David Flatman'
+p10176
+aS'2000'
+p10177
+aS'Prop'
+p10178
+aS'8'
+aS'7'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Maidstone'
+p10179
+aVUnited Kingdom
+p10180
+aVEngland
+p10181
+aVSouth East
+p10182
+aa(lp10183
+S'Leon Lloyd'
+p10184
+aS'2000'
+p10185
+aS'Centre, Wing'
+p10186
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'2'
+aS'10'
+p10187
+aS'Coventry'
+p10188
+aVUnited Kingdom
+p10189
+aVEngland
+p10190
+aVWest Midlands
+p10191
+aa(lp10192
+S'Jason Robinson'
+p10193
+aS'2001'
+p10194
+aS'Fullback'
+p10195
+aS'56'
+p10196
+aS'39'
+p10197
+aS'17'
+p10198
+aS'0'
+aS'30'
+p10199
+aS'150'
+p10200
+aS'Leeds'
+p10201
+aVUnited Kingdom
+p10202
+aVEngland
+p10203
+aVYorkshire and the Humber
+p10204
+aa(lp10205
+S'Steve Borthwick'
+p10206
+aS'2001'
+p10207
+aS'Lock'
+p10208
+aS'57'
+p10209
+aS'29'
+p10210
+aS'27'
+p10211
+aS'1'
+aS'2'
+aS'10'
+p10212
+aS'Carlisle'
+p10213
+aVUnited Kingdom
+p10214
+aVEngland
+p10215
+aVNorth West England
+p10216
+aa(lp10217
+S'Ben Kay'
+p10218
+aS'2001'
+p10219
+aS'Lock'
+p10220
+aS'64'
+p10221
+aS'44'
+p10222
+aS'19'
+p10223
+aS'1'
+aS'2'
+aS'10'
+p10224
+aS'Liverpool'
+p10225
+aVUnited Kingdom
+p10226
+aVEngland
+p10227
+aVNorth West England
+p10228
+aa(lp10229
+S'Lewis Moody'
+p10230
+aS'2001'
+p10231
+aS'Flanker'
+p10232
+aS'74'
+p10233
+aS'46'
+p10234
+aS'26'
+p10235
+aS'2'
+aS'10'
+p10236
+aS'50'
+p10237
+aS'Ascot'
+p10238
+aVAustralia
+p10239
+aVQueensland
+p10240
+aVBrisbane
+p10241
+aa(lp10242
+S'Jamie Noon'
+p10243
+aS'2001'
+p10244
+aS'Centre'
+p10245
+aS'38'
+p10246
+aS'16'
+p10247
+aS'22'
+p10248
+aS'0'
 aS'7'
 aS'35'
-p10158
+p10249
+aS'Goole'
+p10250
 aVUnited Kingdom
-p10159
+p10251
 aVEngland
-p10160
+p10252
 aVYorkshire and the Humber
-p10161
-aa(lp10162
+p10253
+aa(lp10254
 S'Michael Stephenson'
-p10163
+p10255
 aS'2001'
-p10164
+p10256
 aS'Wing'
-p10165
+p10257
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
 aS'Tynemouth'
-p10166
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+p10258
 aVUnited Kingdom
-p10167
+p10259
 aVEngland
-p10168
+p10260
 aVNorth East England
-p10169
-aa(lp10170
+p10261
+aa(lp10262
 S'Dave Walder'
-p10171
+p10263
 aS'2001'
-p10172
+p10264
 aS'Fly-half'
-p10173
-aS'Newcastle-upon-Tyne'
-p10174
+p10265
 aS'4'
 aS'4'
+aS'0'
+aS'0'
 aS'2'
 aS'41'
-p10175
-aVUnited Kingdom
-p10176
-aVEngland
-p10177
-aVNorth East England
-p10178
-aa(lp10179
-S'Steve White-Cooper'
-p10180
-aS'2001'
-p10181
-aS'Flanker'
-p10182
-aS'Cape Town'
-p10183
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVSouth Africa
-p10184
-aVWestern Cape
-p10185
-aVCity of Cape Town
-p10186
-aa(lp10187
-S'Martyn Wood'
-p10188
-aS'2001'
-p10189
-aS'Scrum-half'
-p10190
-aS'Harrogate'
-p10191
-aS'2'
-aS'2'
-aS'1'
-aS'5'
-aVUnited Kingdom
-p10192
-aVEngland
-p10193
-aVYorkshire and the Humber
-p10194
-aa(lp10195
-S'Fraser Waters'
-p10196
-aS'2001'
-p10197
-aS'Centre'
-p10198
-aS'Cape Town'
-p10199
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aVSouth Africa
-p10200
-aVWestern Cape
-p10201
-aVCity of Cape Town
-p10202
-aa(lp10203
-S'Olly Barkley'
-p10204
-aS'2001'
-p10205
-aS'Fly-half'
-p10206
-aS'London'
-p10207
-aS'23'
-p10208
-aS'10'
-p10209
-aS'2'
-aS'82'
-p10210
-aVUnited Kingdom
-p10211
-aVEngland
-p10212
-aVGreater London
-p10213
-aa(lp10214
-S'Tom Palmer'
-p10215
-aS'2001'
-p10216
-aS'Lock'
-p10217
-aS'London'
-p10218
-aS'42'
-p10219
-aS'23'
-p10220
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10221
-aVEngland
-p10222
-aVGreater London
-p10223
-aa(lp10224
-S'Tom Voyce'
-p10225
-aS'2001'
-p10226
-aS'Wing'
-p10227
-aS'Truro'
-p10228
-aS'9'
-aS'4'
-aS'3'
-aS'15'
-p10229
-aVUnited Kingdom
-p10230
-aVEngland
-p10231
-aVSouth West England
-p10232
-aa(lp10233
-S'Charlie Hodgson'
-p10234
-aS'2001'
-p10235
-aS'Fly-half'
-p10236
-aS'Halifax'
-p10237
-aS'38'
-p10238
-aS'22'
-p10239
-aS'8'
-aS'269'
-p10240
-aVCanada
-p10241
-aVNova Scotia
-p10242
-aVHalifax County
-p10243
-aa(lp10244
-S'Alex Sanderson'
-p10245
-aS'2001'
-p10246
-aS'Back-row'
-p10247
-aS'Chester'
-p10248
-aS'5'
-aS'4'
-aS'1'
-aS'5'
-aVUnited Kingdom
-p10249
-aVEngland
-p10250
-aVNorth West England
-p10251
-aa(lp10252
-S'Steve Thompson'
-p10253
-aS'2002'
-p10254
-aS'Hooker'
-p10255
-aS'Hemel Hempstead'
-p10256
-aS'76'
-p10257
-aS'49'
-p10258
-aS'4'
-aS'20'
-p10259
-aVUnited Kingdom
-p10260
-aVEngland
-p10261
-aVEast of England
-p10262
-aa(lp10263
-S'Nick Duncombe'
-p10264
-aS'2002'
-p10265
-aS'Scrum-half'
 p10266
-aS'Bucks'
+aS'Newcastle-upon-Tyne'
 p10267
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVUnited States of America
+aVUnited Kingdom
 p10268
-aVpenna
+aVEngland
 p10269
-aVBucks County
+aVNorth East England
 p10270
 aa(lp10271
-S'Henry Paul'
+S'Steve White-Cooper'
 p10272
-aS'2002'
+aS'2001'
 p10273
-aS'Centre'
+aS'Flanker'
 p10274
-aS'Tokoroa'
-p10275
-aS'6'
-aS'4'
+aS'2'
+aS'2'
 aS'0'
-aS'6'
-aVNew Zealand/Aotearoa
+aS'0'
+aS'0'
+aS'0'
+aS'Cape Town'
+p10275
+aVSouth Africa
 p10276
-aVWaikato
+aVWestern Cape
 p10277
-aVSouth Waikato District
+aVCity of Cape Town
 p10278
 aa(lp10279
-S'Geoff Appleford'
+S'Martyn Wood'
 p10280
-aS'2002'
+aS'2001'
 p10281
-aS'Centre'
+aS'Scrum-half'
 p10282
-aS'Dundee'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Harrogate'
 p10283
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p10284
-aVScotland
+aVEngland
 p10285
-aVDundee City
+aVYorkshire and the Humber
 p10286
 aa(lp10287
-S'Phil Christophers'
+S'Fraser Waters'
 p10288
-aS'2002'
+aS'2001'
 p10289
 aS'Centre'
 p10290
-aS'Heidelberg'
-p10291
-aS'3'
 aS'3'
 aS'1'
-aS'5'
-aVDeutschland
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Cape Town'
+p10291
+aVSouth Africa
 p10292
-aVBaden-Württemberg
+aVWestern Cape
 p10293
-aVRegierungsbezirk Karlsruhe
+aVCity of Cape Town
 p10294
 aa(lp10295
-S'Alex Codling'
+S'Olly Barkley'
 p10296
-aS'2002'
+aS'2001'
 p10297
-aS'Lock'
+aS'Fly-half'
 p10298
-aS'Lewisham'
+aS'23'
 p10299
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10300
-aVEngland
-p10301
-aVGreater London
-p10302
-aa(lp10303
-S'Michael Horak'
-p10304
-aS'2002'
-p10305
-aS'Fullback'
-p10306
-aS'Johannesburg'
-p10307
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVSouth Africa
-p10308
-aV2001
-p10309
-aVGauteng
-p10310
-aa(lp10311
-S'Ben Johnston'
-p10312
-aS'2002'
-p10313
-aS'Centre'
-p10314
-aS'Clatterbridge'
-p10315
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10316
-aVCH63
-p10317
-aVEngland
-p10318
-aa(lp10319
-S'James Simpson-Daniel'
-p10320
-aS'2002'
-p10321
-aS'Wing'
-p10322
-aS'Stockton-on-Tees'
-p10323
 aS'10'
-p10324
-aS'7'
+p10300
+aS'13'
+p10301
+aS'0'
+aS'2'
+aS'82'
+p10302
+aS'London'
+p10303
+aVUnited Kingdom
+p10304
+aVEngland
+p10305
+aVGreater London
+p10306
+aa(lp10307
+S'Tom Palmer'
+p10308
+aS'2001'
+p10309
+aS'Lock'
+p10310
+aS'42'
+p10311
+aS'23'
+p10312
+aS'18'
+p10313
+aS'1'
+aS'0'
+aS'0'
+aS'London'
+p10314
+aVUnited Kingdom
+p10315
+aVEngland
+p10316
+aVGreater London
+p10317
+aa(lp10318
+S'Tom Voyce'
+p10319
+aS'2001'
+p10320
+aS'Wing'
+p10321
+aS'9'
+aS'4'
+aS'5'
+aS'0'
 aS'3'
 aS'15'
+p10322
+aS'Truro'
+p10323
+aVUnited Kingdom
+p10324
+aVEngland
 p10325
-aVUnited Kingdom
+aVSouth West England
 p10326
-aVEngland
-p10327
-aVNorth East England
+aa(lp10327
+S'Charlie Hodgson'
 p10328
-aa(lp10329
-S'Robbie Morris'
+aS'2001'
+p10329
+aS'Fly-half'
 p10330
-aS'2003'
+aS'38'
 p10331
-aS'Prop'
+aS'22'
 p10332
-aS'Hertford'
+aS'16'
 p10333
-aS'2'
-aS'2'
 aS'0'
-aS'0'
-aVUnited Kingdom
+aS'8'
+aS'269'
 p10334
-aVEngland
+aS'Halifax'
 p10335
-aVEast of England
+aVCanada
 p10336
-aa(lp10337
-S'Ollie Smith'
+aVNova Scotia
+p10337
+aVHalifax County
 p10338
-aS'2003'
-p10339
-aS'Centre'
+aa(lp10339
+S'Alex Sanderson'
 p10340
-aS'Leicester'
+aS'2001'
 p10341
+aS'Back-row'
+p10342
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Chester'
+p10343
+aVUnited Kingdom
+p10344
+aVEngland
+p10345
+aVNorth West England
+p10346
+aa(lp10347
+S'Steve Thompson'
+p10348
+aS'2002'
+p10349
+aS'Hooker'
+p10350
+aS'76'
+p10351
+aS'49'
+p10352
+aS'25'
+p10353
+aS'2'
+aS'4'
+aS'20'
+p10354
+aS'Hemel Hempstead'
+p10355
+aVUnited Kingdom
+p10356
+aVEngland
+p10357
+aVEast of England
+p10358
+aa(lp10359
+S'Nick Duncombe'
+p10360
+aS'2002'
+p10361
+aS'Scrum-half'
+p10362
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Bucks'
+p10363
+aVUnited States of America
+p10364
+aVpenna
+p10365
+aVBucks County
+p10366
+aa(lp10367
+S'Henry Paul'
+p10368
+aS'2002'
+p10369
+aS'Centre'
+p10370
 aS'6'
 aS'4'
-aS'1'
-aS'5'
-aVUnited Kingdom
-p10342
-aVEngland
-p10343
-aVEast Midlands
-p10344
-aa(lp10345
-S'Mike Worsley'
-p10346
-aS'2003'
-p10347
-aS'Prop'
-p10348
-aS'Warrington'
-p10349
-aS'3'
 aS'2'
 aS'0'
 aS'0'
-aVUnited Kingdom
-p10350
-aVEngland
-p10351
-aVNorth West England
-p10352
-aa(lp10353
-S'Stuart Abbott'
-p10354
-aS'2003'
-p10355
-aS'Centre'
-p10356
-aS'Cape Town'
-p10357
-aS'9'
-aS'5'
-aS'2'
-aS'10'
-p10358
-aVSouth Africa
-p10359
-aVWestern Cape
-p10360
-aVCity of Cape Town
-p10361
-aa(lp10362
-S'Dan Scarbrough'
-p10363
-aS'2003'
-p10364
-aS'Fullback'
-p10365
-aS'Bingley'
-p10366
-aS'2'
-aS'1'
-aS'1'
-aS'5'
-aVUnited Kingdom
-p10367
-aVEngland
-p10368
-aVYorkshire and the Humber
-p10369
-aa(lp10370
-S'Chris Jones'
+aS'6'
+aS'Tokoroa'
 p10371
-aS'2004'
+aVNew Zealand/Aotearoa
 p10372
-aS'Lock'
+aVWaikato
 p10373
-aS'Manchester'
+aVSouth Waikato District
 p10374
-aS'12'
-p10375
-aS'4'
-aS'1'
-aS'5'
-aVUnited Kingdom
+aa(lp10375
+S'Geoff Appleford'
 p10376
-aVEngland
+aS'2002'
 p10377
-aVNorth West England
+aS'Centre'
 p10378
-aa(lp10379
-S'Matt Stevens'
-p10380
-aS'2004'
-p10381
-aS'Prop'
-p10382
-aS'Durban'
-p10383
-aS'44'
-p10384
-aS'24'
-p10385
+aS'1'
+aS'1'
 aS'0'
 aS'0'
-aVSouth Africa
-p10386
-aVKwaZulu-Natal
-p10387
-aVeThekwini Metropolitan Municipality
-p10388
-aa(lp10389
-S'Michael Lipman'
-p10390
-aS'2004'
-p10391
-aS'Flanker'
-p10392
-aS'London'
-p10393
-aS'10'
-p10394
-aS'4'
 aS'0'
 aS'0'
+aS'Dundee'
+p10379
 aVUnited Kingdom
-p10395
-aVEngland
-p10396
-aVGreater London
-p10397
-aa(lp10398
-S'Andy Titterrell'
-p10399
-aS'2004'
-p10400
-aS'Hooker'
-p10401
-aS'Dartford'
-p10402
-aS'5'
+p10380
+aVScotland
+p10381
+aVDundee City
+p10382
+aa(lp10383
+S'Phil Christophers'
+p10384
+aS'2002'
+p10385
+aS'Centre'
+p10386
+aS'3'
 aS'3'
 aS'0'
 aS'0'
+aS'1'
+aS'5'
+aS'Heidelberg'
+p10387
+aVDeutschland
+p10388
+aV69117
+p10389
+aVBaden-Württemberg
+p10390
+aa(lp10391
+S'Alex Codling'
+p10392
+aS'2002'
+p10393
+aS'Lock'
+p10394
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Lewisham'
+p10395
 aVUnited Kingdom
-p10403
-aVDA1 1ED
-p10404
+p10396
 aVEngland
+p10397
+aVGreater London
+p10398
+aa(lp10399
+S'Michael Horak'
+p10400
+aS'2002'
+p10401
+aS'Fullback'
+p10402
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Johannesburg'
+p10403
+aVSouth Africa
+p10404
+aV2001
 p10405
-aa(lp10406
-S'Tim Payne'
-p10407
-aS'2004'
+aVGauteng
+p10406
+aa(lp10407
+S'Ben Johnston'
 p10408
-aS'Prop'
+aS'2002'
 p10409
-aS'Swindon'
+aS'Centre'
 p10410
-aS'22'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Clatterbridge'
 p10411
-aS'7'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p10412
-aVEngland
+aVCH63
 p10413
-aVSouth West England
+aVEngland
 p10414
 aa(lp10415
-S'Mark Cueto'
+S'James Simpson-Daniel'
 p10416
-aS'2004'
+aS'2002'
 p10417
 aS'Wing'
 p10418
-aS'Workington'
+aS'10'
 p10419
-aS'56'
-p10420
-aS'29'
-p10421
-aS'20'
-p10422
-aS'100'
-p10423
-aVUnited Kingdom
-p10424
-aVEngland
-p10425
-aVNorth West England
-p10426
-aa(lp10427
-S'Andy Hazell'
-p10428
-aS'2004'
-p10429
-aS'Back-row'
-p10430
-aS'Gloucester'
-p10431
 aS'7'
+aS'3'
+aS'0'
+aS'3'
+aS'15'
+p10420
+aS'Stockton-on-Tees'
+p10421
+aVUnited Kingdom
+p10422
+aVEngland
+p10423
+aVNorth East England
+p10424
+aa(lp10425
+S'Robbie Morris'
+p10426
+aS'2003'
+p10427
+aS'Prop'
+p10428
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Hertford'
+p10429
+aVUnited Kingdom
+p10430
+aVEngland
+p10431
+aVEast of England
+p10432
+aa(lp10433
+S'Ollie Smith'
+p10434
+aS'2003'
+p10435
+aS'Centre'
+p10436
+aS'6'
 aS'4'
 aS'1'
+aS'1'
+aS'1'
 aS'5'
-aVUnited Kingdom
-p10432
-aVEngland
-p10433
-aVSouth West England
-p10434
-aa(lp10435
-S'Andrew Sheridan'
-p10436
-aS'2004'
+aS'Leicester'
 p10437
-aS'Prop'
+aVUnited Kingdom
 p10438
-aS'Kent'
+aVEngland
 p10439
-aS'42'
-p10440
-aS'25'
-p10441
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10442
-aVEngland
-p10443
-aVSouth East
-p10444
-aa(lp10445
-S'Hugh Vyvyan'
-p10446
-aS'2004'
-p10447
-aS'Lock'
-p10448
-aS'Guildford'
-p10449
-aS'1'
-aS'1'
-aS'1'
-aS'5'
-aVUnited Kingdom
-p10450
-aVGU1 4UT
-p10451
-aVEngland
-p10452
-aa(lp10453
-S'Harry Ellis'
-p10454
-aS'2004'
-p10455
-aS'Scrum-half'
-p10456
-aS'Wigston'
-p10457
-aS'28'
-p10458
-aS'14'
-p10459
-aS'5'
-aS'25'
-p10460
-aVUnited Kingdom
-p10461
-aVEngland
-p10462
 aVEast Midlands
-p10463
-aa(lp10464
-S'Mathew Tait'
-p10465
-aS'2005'
-p10466
-aS'Fullback'
-p10467
-aS'Shotley Bridge'
-p10468
-aS'38'
-p10469
-aS'18'
-p10470
+p10440
+aa(lp10441
+S'Mike Worsley'
+p10442
+aS'2003'
+p10443
+aS'Prop'
+p10444
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Warrington'
+p10445
+aVUnited Kingdom
+p10446
+aVEngland
+p10447
+aVNorth West England
+p10448
+aa(lp10449
+S'Stuart Abbott'
+p10450
+aS'2003'
+p10451
+aS'Centre'
+p10452
+aS'9'
 aS'5'
-aS'25'
+aS'4'
+aS'0'
+aS'2'
+aS'10'
+p10453
+aS'Cape Town'
+p10454
+aVSouth Africa
+p10455
+aVWestern Cape
+p10456
+aVCity of Cape Town
+p10457
+aa(lp10458
+S'Dan Scarbrough'
+p10459
+aS'2003'
+p10460
+aS'Fullback'
+p10461
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Bingley'
+p10462
+aVUnited Kingdom
+p10463
+aVEngland
+p10464
+aVYorkshire and the Humber
+p10465
+aa(lp10466
+S'Chris Jones'
+p10467
+aS'2004'
+p10468
+aS'Lock'
+p10469
+aS'12'
+p10470
+aS'4'
+aS'8'
+aS'0'
+aS'1'
+aS'5'
+aS'Manchester'
 p10471
 aVUnited Kingdom
 p10472
 aVEngland
 p10473
-aVNorth East England
+aVNorth West England
 p10474
 aa(lp10475
-S'James Forrester'
+S'Matt Stevens'
 p10476
-aS'2005'
+aS'2004'
 p10477
-aS'Back-row'
+aS'Prop'
 p10478
-aS'Oxford'
+aS'44'
 p10479
+aS'24'
+p10480
+aS'20'
+p10481
+aS'0'
+aS'0'
+aS'0'
+aS'Durban'
+p10482
+aVSouth Africa
+p10483
+aVKwaZulu-Natal
+p10484
+aVeThekwini Metropolitan Municipality
+p10485
+aa(lp10486
+S'Michael Lipman'
+p10487
+aS'2004'
+p10488
+aS'Flanker'
+p10489
+aS'10'
+p10490
+aS'4'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'London'
+p10491
+aVUnited Kingdom
+p10492
+aVEngland
+p10493
+aVGreater London
+p10494
+aa(lp10495
+S'Andy Titterrell'
+p10496
+aS'2004'
+p10497
+aS'Hooker'
+p10498
+aS'5'
+aS'3'
 aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dartford'
+p10499
+aVUnited Kingdom
+p10500
+aVDA1 1ED
+p10501
+aVEngland
+p10502
+aa(lp10503
+S'Tim Payne'
+p10504
+aS'2004'
+p10505
+aS'Prop'
+p10506
+aS'22'
+p10507
+aS'7'
+aS'14'
+p10508
 aS'1'
 aS'0'
 aS'0'
+aS'Swindon'
+p10509
 aVUnited Kingdom
-p10480
+p10510
 aVEngland
-p10481
-aVSouth East
-p10482
-aa(lp10483
-S'Duncan Bell'
-p10484
-aS'2005'
-p10485
-aS'Prop'
-p10486
-aS"King's Lynn"
-p10487
-aS'5'
+p10511
+aVSouth West England
+p10512
+aa(lp10513
+S'Mark Cueto'
+p10514
+aS'2004'
+p10515
+aS'Wing'
+p10516
+aS'56'
+p10517
+aS'29'
+p10518
+aS'26'
+p10519
+aS'1'
+aS'20'
+p10520
+aS'100'
+p10521
+aS'Workington'
+p10522
+aVUnited Kingdom
+p10523
+aVEngland
+p10524
+aVNorth West England
+p10525
+aa(lp10526
+S'Andy Hazell'
+p10527
+aS'2004'
+p10528
+aS'Back-row'
+p10529
+aS'7'
+aS'4'
 aS'3'
 aS'0'
-aS'0'
+aS'1'
+aS'5'
+aS'Gloucester'
+p10530
 aVUnited Kingdom
-p10488
+p10531
 aVEngland
-p10489
-aVEast of England
-p10490
-aa(lp10491
-S'Andy Goode'
-p10492
-aS'2005'
-p10493
-aS'Fly-half'
-p10494
-aS'Coventry'
-p10495
+p10532
+aVSouth West England
+p10533
+aa(lp10534
+S'Andrew Sheridan'
+p10535
+aS'2004'
+p10536
+aS'Prop'
+p10537
+aS'42'
+p10538
+aS'25'
+p10539
 aS'17'
-p10496
+p10540
+aS'0'
+aS'0'
+aS'0'
+aS'Kent'
+p10541
+aVUnited Kingdom
+p10542
+aVEngland
+p10543
+aVSouth East
+p10544
+aa(lp10545
+S'Hugh Vyvyan'
+p10546
+aS'2004'
+p10547
+aS'Lock'
+p10548
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Guildford'
+p10549
+aVAustralia
+p10550
+aV2150
+p10551
+aVNew South Wales
+p10552
+aa(lp10553
+S'Harry Ellis'
+p10554
+aS'2004'
+p10555
+aS'Scrum-half'
+p10556
+aS'28'
+p10557
+aS'14'
+p10558
+aS'14'
+p10559
+aS'0'
+aS'5'
+aS'25'
+p10560
+aS'Wigston'
+p10561
+aVUnited Kingdom
+p10562
+aVEngland
+p10563
+aVEast Midlands
+p10564
+aa(lp10565
+S'Mathew Tait'
+p10566
+aS'2005'
+p10567
+aS'Fullback'
+p10568
+aS'38'
+p10569
+aS'18'
+p10570
+aS'19'
+p10571
+aS'1'
+aS'5'
+aS'25'
+p10572
+aS'Shotley Bridge'
+p10573
+aVUnited Kingdom
+p10574
+aVEngland
+p10575
+aVNorth East England
+p10576
+aa(lp10577
+S'James Forrester'
+p10578
+aS'2005'
+p10579
+aS'Back-row'
+p10580
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Oxford'
+p10581
+aVUnited Kingdom
+p10582
+aVEngland
+p10583
+aVSouth East
+p10584
+aa(lp10585
+S'Duncan Bell'
+p10586
+aS'2005'
+p10587
+aS'Prop'
+p10588
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS"King's Lynn"
+p10589
+aVUnited Kingdom
+p10590
+aVEngland
+p10591
+aVEast of England
+p10592
+aa(lp10593
+S'Andy Goode'
+p10594
+aS'2005'
+p10595
+aS'Fly-half'
+p10596
+aS'17'
+p10597
 aS'9'
+aS'8'
+aS'0'
 aS'1'
 aS'107'
-p10497
-aVUnited Kingdom
-p10498
-aVEngland
-p10499
-aVWest Midlands
-p10500
-aa(lp10501
-S'Mark van Gisbergen'
-p10502
-aS'2005'
-p10503
-aS'Fullback'
-p10504
-aS'Hamilton'
-p10505
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVCanada
-p10506
-aVOntario
-p10507
-aVHamilton
-p10508
-aa(lp10509
-S'Louis Deacon'
-p10510
-aS'2005'
-p10511
-aS'Lock'
-p10512
-aS'Leicester'
-p10513
-aS'29'
-p10514
-aS'16'
-p10515
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10516
-aVEngland
-p10517
-aVEast Midlands
-p10518
-aa(lp10519
-S'Perry Freshwater'
-p10520
-aS'2005'
-p10521
-aS'Prop'
-p10522
-aS'Wellington'
-p10523
-aS'10'
-p10524
-aS'4'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p10525
-aVWellington
-p10526
-aVWellington City
-p10527
-aa(lp10528
-S'Lee Mears'
-p10529
-aS'2005'
-p10530
-aS'Hooker'
-p10531
-aS'Torquay'
-p10532
-aS'43'
-p10533
-aS'17'
-p10534
-aS'1'
-aS'5'
-aVUnited Kingdom
-p10535
-aVEngland
-p10536
-aVSouth West England
-p10537
-aa(lp10538
-S'Tom Varndell'
-p10539
-aS'2005'
-p10540
-aS'Wing'
-p10541
-aS'Kent'
-p10542
-aS'4'
-aS'1'
-aS'3'
-aS'15'
-p10543
-aVUnited Kingdom
-p10544
-aVEngland
-p10545
-aVSouth East
-p10546
-aa(lp10547
-S'Alex Brown'
-p10548
-aS'2006'
-p10549
-aS'Lock'
-p10550
-aS'Bristol'
-p10551
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10552
-aVEngland
-p10553
-aVSouth West England
-p10554
-aa(lp10555
-S'Magnus Lund'
-p10556
-aS'2006'
-p10557
-aS'Flanker'
-p10558
-aS'Manchester'
-p10559
-aS'10'
-p10560
-aS'3'
-aS'1'
-aS'5'
-aVUnited Kingdom
-p10561
-aVEngland
-p10562
-aVNorth West England
-p10563
-aa(lp10564
-S'Peter Richards'
-p10565
-aS'2006'
-p10566
-aS'Scrum-half'
-p10567
-aS'Portsmouth'
-p10568
-aS'13'
-p10569
-aS'5'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10570
-aVEngland
-p10571
-aVSouth East
-p10572
-aa(lp10573
-S'George Chuter'
-p10574
-aS'2006'
-p10575
-aS'Hooker'
-p10576
-aS'Greenwich'
-p10577
-aS'24'
-p10578
-aS'12'
-p10579
-aS'1'
-aS'5'
-aVUnited Kingdom
-p10580
-aVEngland
-p10581
-aVEast of England
-p10582
-aa(lp10583
-S'Nick Walshe'
-p10584
-aS'2006'
-p10585
-aS'Fly-half, Scrum-half'
-p10586
-aS'Chiswick'
-p10587
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10588
-aVEngland
-p10589
-aVGreater London
-p10590
-aa(lp10591
-S'Anthony Allen'
-p10592
-aS'2006'
-p10593
-aS'Centre'
-p10594
-aS'Southampton'
-p10595
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10596
-aVEngland
-p10597
-aVSouth East
 p10598
-aa(lp10599
-S'Shaun Perry'
+aS'Coventry'
+p10599
+aVUnited Kingdom
 p10600
-aS'2006'
+aVEngland
 p10601
-aS'Scrum-half'
-p10602
-aS'Wolverhampton'
-p10603
-aS'14'
-p10604
-aS'4'
-aS'2'
-aS'10'
-p10605
-aVUnited Kingdom
-p10606
-aVEngland
-p10607
 aVWest Midlands
+p10602
+aa(lp10603
+S'Mark van Gisbergen'
+p10604
+aS'2005'
+p10605
+aS'Fullback'
+p10606
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Hamilton'
+p10607
+aVNew Zealand/Aotearoa
 p10608
-aa(lp10609
-S'Paul Sackey'
+aVWaikato
+p10609
+aVHamilton City
 p10610
-aS'2006'
-p10611
-aS'Wing'
+aa(lp10611
+S'Louis Deacon'
 p10612
-aS'London'
+aS'2005'
 p10613
-aS'22'
+aS'Lock'
 p10614
-aS'9'
-aS'11'
+aS'29'
 p10615
-aS'55'
+aS'16'
 p10616
-aVUnited Kingdom
+aS'12'
 p10617
-aVEngland
+aS'1'
+aS'0'
+aS'0'
+aS'Leicester'
 p10618
-aVGreater London
+aVUnited Kingdom
 p10619
-aa(lp10620
-S'Toby Flood'
+aVEngland
+p10620
+aVEast Midlands
 p10621
-aS'2006'
-p10622
-aS'Fly-half'
+aa(lp10622
+S'Perry Freshwater'
 p10623
-aS'Frimley'
+aS'2005'
 p10624
-aS'60'
+aS'Prop'
 p10625
-aS'30'
+aS'10'
 p10626
 aS'4'
-aS'301'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
 p10627
-aVUnited Kingdom
+aVNew Zealand/Aotearoa
 p10628
-aVEngland
+aVWellington
 p10629
-aVSouth East
+aVWellington City
 p10630
 aa(lp10631
-S'Andy Farrell'
+S'Lee Mears'
 p10632
-aS'2007'
+aS'2005'
 p10633
-aS'Centre'
+aS'Hooker'
 p10634
-aS'Wigan'
+aS'43'
 p10635
-aS'8'
-aS'5'
-aS'1'
-aS'5'
-aVUnited Kingdom
+aS'17'
 p10636
-aVEngland
+aS'25'
 p10637
-aVNorth West England
+aS'1'
+aS'1'
+aS'5'
+aS'Torquay'
 p10638
-aa(lp10639
-S'Olly Morgan'
+aVUnited Kingdom
+p10639
+aVEngland
 p10640
-aS'2007'
+aVSouth West England
 p10641
-aS'Fullback'
-p10642
-aS'London'
+aa(lp10642
+S'Tom Varndell'
 p10643
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'2005'
 p10644
-aVEngland
+aS'Wing'
 p10645
-aVGreater London
-p10646
-aa(lp10647
-S'Tom Rees'
-p10648
-aS'2007'
-p10649
-aS'Back-row'
-p10650
-aS'London'
-p10651
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'3'
 aS'15'
+p10646
+aS'Kent'
+p10647
+aVUnited Kingdom
+p10648
+aVEngland
+p10649
+aVSouth East
+p10650
+aa(lp10651
+S'Alex Brown'
 p10652
-aS'5'
+aS'2006'
+p10653
+aS'Lock'
+p10654
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Bristol'
+p10655
+aVUnited Kingdom
+p10656
+aVEngland
+p10657
+aVSouth West England
+p10658
+aa(lp10659
+S'Magnus Lund'
+p10660
+aS'2006'
+p10661
+aS'Flanker'
+p10662
+aS'10'
+p10663
+aS'3'
+aS'7'
+aS'0'
 aS'1'
 aS'5'
-aVUnited Kingdom
-p10653
-aVEngland
-p10654
-aVGreater London
-p10655
-aa(lp10656
-S'Nick Easter'
-p10657
-aS'2007'
-p10658
-aS'Back-row'
-p10659
-aS'Epsom'
-p10660
-aS'51'
-p10661
-aS'29'
-p10662
-aS'6'
-aS'30'
-p10663
-aVUnited Kingdom
+aS'Manchester'
 p10664
-aVEngland
+aVUnited Kingdom
 p10665
-aVSouth East
+aVEngland
 p10666
-aa(lp10667
-S'David Strettle'
-p10668
-aS'2007'
+aVNorth West England
+p10667
+aa(lp10668
+S'Peter Richards'
 p10669
-aS'Wing'
+aS'2006'
 p10670
-aS'Warrington'
+aS'Scrum-half'
 p10671
-aS'14'
+aS'13'
 p10672
-aS'7'
-aS'2'
-aS'10'
+aS'5'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Portsmouth'
 p10673
 aVUnited Kingdom
 p10674
 aVEngland
 p10675
-aVNorth West England
+aVSouth East
 p10676
 aa(lp10677
-S'Shane Geraghty'
+S'George Chuter'
 p10678
-aS'2007'
+aS'2006'
 p10679
-aS'Fly-half'
+aS'Hooker'
 p10680
-aS'Coventry'
+aS'24'
 p10681
-aS'6'
-aS'3'
-aS'0'
-aS'5'
-aVUnited Kingdom
+aS'12'
 p10682
-aVEngland
+aS'12'
 p10683
-aVWest Midlands
+aS'0'
+aS'1'
+aS'5'
+aS'Greenwich'
 p10684
-aa(lp10685
-S'James Haskell'
+aVUnited Kingdom
+p10685
+aVEngland
 p10686
-aS'2007'
+aVEast of England
 p10687
-aS'Back-row'
-p10688
-aS'Windsor'
+aa(lp10688
+S'Nick Walshe'
 p10689
-aS'58'
+aS'2006'
 p10690
-aS'33'
+aS'Fly-half, Scrum-half'
 p10691
-aS'4'
-aS'20'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Chiswick'
 p10692
-aVCanada
+aVUnited Kingdom
 p10693
-aVOntario
+aVEngland
 p10694
-aVWindsor
+aVGreater London
 p10695
 aa(lp10696
-S'Stuart Turner'
+S'Anthony Allen'
 p10697
-aS'2007'
+aS'2006'
 p10698
-aS'Prop'
+aS'Centre'
 p10699
-aS'Southport'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Southampton'
 p10700
-aS'3'
-aS'0'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p10701
 aVEngland
 p10702
-aVNorth West England
+aVSouth East
 p10703
 aa(lp10704
-S'Mike Brown'
+S'Shaun Perry'
 p10705
-aS'2007'
+aS'2006'
 p10706
-aS'Fullback'
+aS'Scrum-half'
 p10707
-aS'Southampton'
+aS'14'
 p10708
-aS'37'
+aS'4'
+aS'10'
 p10709
-aS'22'
+aS'0'
+aS'2'
+aS'10'
 p10710
-aS'6'
-aS'30'
+aS'Wolverhampton'
 p10711
 aVUnited Kingdom
 p10712
 aVEngland
 p10713
-aVSouth East
+aVWest Midlands
 p10714
 aa(lp10715
-S'Dean Schofield'
+S'Paul Sackey'
 p10716
-aS'2007'
+aS'2006'
 p10717
-aS'Lock'
+aS'Wing'
 p10718
-aS'Manchester'
+aS'22'
 p10719
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
+aS'9'
+aS'13'
 p10720
-aVEngland
+aS'0'
+aS'11'
 p10721
-aVNorth West England
+aS'55'
 p10722
-aa(lp10723
-S'Matt Cairns'
-p10724
-aS'2007'
-p10725
-aS'Hooker'
-p10726
-aS'Birkenhead'
-p10727
-aS'1'
-aS'0'
-aS'0'
-aS'0'
+aS'London'
+p10723
 aVUnited Kingdom
-p10728
+p10724
 aVEngland
+p10725
+aVGreater London
+p10726
+aa(lp10727
+S'Toby Flood'
+p10728
+aS'2006'
 p10729
-aVNorth West England
+aS'Fly-half'
 p10730
-aa(lp10731
-S'Darren Crompton'
+aS'60'
+p10731
+aS'30'
 p10732
-aS'2007'
+aS'28'
 p10733
-aS'Prop'
+aS'2'
+aS'4'
+aS'301'
 p10734
-aS'Exeter'
+aS'Frimley'
 p10735
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p10736
 aVEngland
 p10737
-aVSouth West England
+aVSouth East
 p10738
 aa(lp10739
-S'Roy Winters'
+S'Andy Farrell'
 p10740
 aS'2007'
 p10741
-aS'Lock'
+aS'Centre'
 p10742
-aS'Cuckfield'
+aS'8'
+aS'5'
+aS'3'
+aS'0'
+aS'1'
+aS'5'
+aS'Wigan'
 p10743
-aS'2'
-aS'0'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p10744
 aVEngland
 p10745
-aVSouth East
+aVNorth West England
 p10746
 aa(lp10747
-S'Ben Skirving'
+S'Olly Morgan'
 p10748
 aS'2007'
 p10749
-aS'Back-row'
+aS'Fullback'
 p10750
-aS'Harlow'
-p10751
+aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'London'
+p10751
 aVUnited Kingdom
 p10752
 aVEngland
 p10753
-aVEast of England
+aVGreater London
 p10754
 aa(lp10755
-S'Nick Abendanon'
+S'Tom Rees'
 p10756
 aS'2007'
 p10757
-aS'Wing, Fullback'
+aS'Back-row'
 p10758
-aS'Bryanston'
+aS'15'
 p10759
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10760
-aVEngland
-p10761
-aVSouth West England
-p10762
-aa(lp10763
-S'Dan Hipkiss'
-p10764
-aS'2007'
-p10765
-aS'Centre'
-p10766
-aS'Ipswich'
-p10767
-aS'13'
-p10768
-aS'7'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10769
-aVEngland
-p10770
-aVEast of England
-p10771
-aa(lp10772
-S'Luke Narraway'
-p10773
-aS'2008'
-p10774
-aS'No. 8'
-p10775
-aS'Worcester'
-p10776
-aS'7'
-aS'1'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p10777
-aVEngland
-p10778
-aVWest Midlands
-p10779
-aa(lp10780
-S'Danny Cipriani'
-p10781
-aS'2008'
-p10782
-aS'Fly-half'
-p10783
-aS'Roehampton'
-p10784
-aS'12'
-p10785
-aS'6'
-aS'2'
-aS'59'
-p10786
-aVUnited Kingdom
-p10787
-aVEngland
-p10788
-aVGreater London
-p10789
-aa(lp10790
-S'Lesley Vainikolo'
-p10791
-aS'2008'
-p10792
-aS'Wing'
-p10793
-aS"Nuku'alofa"
-p10794
 aS'5'
+aS'10'
+p10760
+aS'0'
+aS'1'
+aS'5'
+aS'London'
+p10761
+aVUnited Kingdom
+p10762
+aVEngland
+p10763
+aVGreater London
+p10764
+aa(lp10765
+S'Nick Easter'
+p10766
+aS'2007'
+p10767
+aS'Back-row'
+p10768
+aS'51'
+p10769
+aS'29'
+p10770
+aS'21'
+p10771
+aS'1'
+aS'6'
+aS'30'
+p10772
+aS'Epsom'
+p10773
+aVUnited Kingdom
+p10774
+aVEngland
+p10775
+aVSouth East
+p10776
+aa(lp10777
+S'David Strettle'
+p10778
+aS'2007'
+p10779
+aS'Wing'
+p10780
+aS'14'
+p10781
+aS'7'
+aS'7'
+aS'0'
+aS'2'
+aS'10'
+p10782
+aS'Warrington'
+p10783
+aVUnited Kingdom
+p10784
+aVEngland
+p10785
+aVNorth West England
+p10786
+aa(lp10787
+S'Shane Geraghty'
+p10788
+aS'2007'
+p10789
+aS'Fly-half'
+p10790
+aS'6'
+aS'3'
 aS'3'
 aS'0'
 aS'0'
-aVTonga
-p10795
-aVTongatapu
-p10796
-aVVahe Kolofo'ou
-p10797
-aa(lp10798
-S'Richard Wigglesworth'
-p10799
-aS'2008'
-p10800
-aS'Scrum-half'
-p10801
-aS'Blackpool'
-p10802
-aS'21'
-p10803
-aS'16'
-p10804
-aS'1'
 aS'5'
+aS'Coventry'
+p10791
 aVUnited Kingdom
-p10805
+p10792
 aVEngland
-p10806
-aVNorth West England
-p10807
-aa(lp10808
-S'Tom Croft'
-p10809
-aS'2008'
-p10810
+p10793
+aVWest Midlands
+p10794
+aa(lp10795
+S'James Haskell'
+p10796
+aS'2007'
+p10797
 aS'Back-row'
+p10798
+aS'58'
+p10799
+aS'33'
+p10800
+aS'23'
+p10801
+aS'2'
+aS'4'
+aS'20'
+p10802
+aS'Windsor'
+p10803
+aVCanada
+p10804
+aVOntario
+p10805
+aVWindsor
+p10806
+aa(lp10807
+S'Stuart Turner'
+p10808
+aS'2007'
+p10809
+aS'Prop'
+p10810
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Southport'
 p10811
-aS'Basingstoke'
+aVUnited Kingdom
 p10812
-aS'45'
+aVEngland
 p10813
-aS'25'
+aVNorth West England
 p10814
+aa(lp10815
+S'Mike Brown'
+p10816
+aS'2007'
+p10817
+aS'Fullback'
+p10818
+aS'37'
+p10819
+aS'22'
+p10820
+aS'15'
+p10821
+aS'0'
 aS'6'
 aS'30'
-p10815
-aVUnited Kingdom
-p10816
-aVEngland
-p10817
-aVSouth East
-p10818
-aa(lp10819
-S'Paul Hodgson'
-p10820
-aS'2008'
-p10821
-aS'Scrum-half'
 p10822
-aS'Epsom'
+aS'Southampton'
 p10823
-aS'9'
-aS'5'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p10824
 aVEngland
@@ -24922,1394 +27349,1831 @@ p10825
 aVSouth East
 p10826
 aa(lp10827
-S'Topsy Ojo'
+S'Dean Schofield'
 p10828
-aS'2008'
+aS'2007'
 p10829
-aS'Wing'
+aS'Lock'
 p10830
-aS'Tottenham'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Manchester'
 p10831
-aS'2'
-aS'0'
-aS'2'
-aS'10'
+aVUnited Kingdom
 p10832
-aVUnited Kingdom
+aVEngland
 p10833
-aVEngland
+aVNorth West England
 p10834
-aVGreater London
-p10835
-aa(lp10836
-S'Danny Care'
+aa(lp10835
+S'Matt Cairns'
+p10836
+aS'2007'
 p10837
-aS'2008'
-p10838
-aS'Scrum-half'
-p10839
-aS'Leeds'
-p10840
-aS'50'
-p10841
-aS'25'
-p10842
-aS'7'
-aS'44'
-p10843
-aVUnited Kingdom
-p10844
-aVEngland
-p10845
-aVYorkshire and the Humber
-p10846
-aa(lp10847
-S'David Paice'
-p10848
-aS'2008'
-p10849
 aS'Hooker'
-p10850
-aS'Darwin'
-p10851
-aS'8'
-aS'4'
+p10838
+aS'1'
 aS'0'
-aS'0'
-aVAustralia
-p10852
-aVNorthern Territory
-p10853
-aVDarwin
-p10854
-aa(lp10855
-S'Jason Hobson'
-p10856
-aS'2008'
-p10857
-aS'Prop'
-p10858
-aS'Swansea'
-p10859
 aS'1'
 aS'0'
 aS'0'
 aS'0'
+aS'Birkenhead'
+p10839
 aVUnited Kingdom
+p10840
+aVEngland
+p10841
+aVNorth West England
+p10842
+aa(lp10843
+S'Darren Crompton'
+p10844
+aS'2007'
+p10845
+aS'Prop'
+p10846
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Exeter'
+p10847
+aVUnited Kingdom
+p10848
+aVEngland
+p10849
+aVSouth West England
+p10850
+aa(lp10851
+S'Roy Winters'
+p10852
+aS'2007'
+p10853
+aS'Lock'
+p10854
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Cuckfield'
+p10855
+aVUnited Kingdom
+p10856
+aVEngland
+p10857
+aVSouth East
+p10858
+aa(lp10859
+S'Ben Skirving'
 p10860
-aVWales
+aS'2007'
 p10861
-aVWest Glamorgan
+aS'Back-row'
 p10862
-aa(lp10863
-S'Delon Armitage'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Harlow'
+p10863
+aVUnited Kingdom
 p10864
-aS'2008'
+aVEngland
 p10865
-aS'Fullback'
+aVEast of England
 p10866
-aS'Trinidad'
-p10867
-aS'26'
+aa(lp10867
+S'Nick Abendanon'
 p10868
-aS'16'
+aS'2007'
 p10869
-aS'7'
-aS'44'
+aS'Wing, Fullback'
 p10870
-aVUnited States of America
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bryanston'
 p10871
-aVColorado
+aVUnited Kingdom
 p10872
-aVLas Animas County
+aVEngland
 p10873
-aa(lp10874
-S'Riki Flutey'
-p10875
-aS'2008'
+aVSouth West England
+p10874
+aa(lp10875
+S'Dan Hipkiss'
 p10876
-aS'Centre'
+aS'2007'
 p10877
-aS'Featherston'
+aS'Centre'
 p10878
-aS'15'
+aS'13'
 p10879
 aS'7'
-aS'4'
-aS'20'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Ipswich'
 p10880
-aVNew Zealand/Aotearoa
+aVUnited Kingdom
 p10881
-aVWellington
+aVEngland
 p10882
-aVSouth Wairarapa District
+aVEast of England
 p10883
 aa(lp10884
-S'Nick Kennedy'
+S'Luke Narraway'
 p10885
 aS'2008'
 p10886
-aS'Lock'
+aS'No. 8'
 p10887
-aS'Southampton'
-p10888
 aS'7'
-aS'4'
 aS'1'
-aS'5'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Worcester'
+p10888
 aVUnited Kingdom
 p10889
 aVEngland
 p10890
-aVSouth East
+aVWest Midlands
 p10891
 aa(lp10892
-S'Ugo Monye'
+S'Danny Cipriani'
 p10893
 aS'2008'
 p10894
-aS'Wing'
+aS'Fly-half'
 p10895
-aS'Islington'
+aS'12'
 p10896
-aS'16'
+aS'6'
+aS'6'
+aS'0'
+aS'2'
+aS'59'
 p10897
-aS'8'
-aS'3'
-aS'15'
+aS'Roehampton'
 p10898
 aVUnited Kingdom
 p10899
-aVN1
-p10900
 aVEngland
+p10900
+aVGreater London
 p10901
 aa(lp10902
-S'Dylan Hartley'
+S'Lesley Vainikolo'
 p10903
 aS'2008'
 p10904
-aS'Hooker'
+aS'Wing'
 p10905
-aS'Rotorua'
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS"Nuku'alofa"
 p10906
-aS'66'
+aVTonga
 p10907
-aS'39'
+aVTongatapu
 p10908
+aVVahe Kolofo'ou
+p10909
+aa(lp10910
+S'Richard Wigglesworth'
+p10911
+aS'2008'
+p10912
+aS'Scrum-half'
+p10913
+aS'21'
+p10914
+aS'16'
+p10915
+aS'5'
+aS'0'
 aS'1'
 aS'5'
-aVNew Zealand/Aotearoa
-p10909
-aVBay of Plenty
-p10910
-aVRotorua District
-p10911
-aa(lp10912
-S'Jordan Crane'
-p10913
-aS'2008'
-p10914
-aS'Back-row'
-p10915
-aS'Bromsgrove'
+aS'Blackpool'
 p10916
-aS'3'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p10917
 aVEngland
 p10918
-aVWest Midlands
+aVNorth West England
 p10919
 aa(lp10920
-S'Steffon Armitage'
+S'Tom Croft'
 p10921
-aS'2009'
+aS'2008'
 p10922
 aS'Back-row'
 p10923
-aS'Trinidad'
+aS'45'
 p10924
+aS'25'
+p10925
+aS'20'
+p10926
+aS'0'
+aS'6'
+aS'30'
+p10927
+aS'Basingstoke'
+p10928
+aVUnited Kingdom
+p10929
+aVEngland
+p10930
+aVSouth East
+p10931
+aa(lp10932
+S'Paul Hodgson'
+p10933
+aS'2008'
+p10934
+aS'Scrum-half'
+p10935
+aS'9'
 aS'5'
 aS'4'
 aS'0'
 aS'0'
-aVUnited States of America
-p10925
-aVColorado
-p10926
-aVLas Animas County
-p10927
-aa(lp10928
-S'Ben Foden'
-p10929
-aS'2009'
-p10930
+aS'0'
+aS'Epsom'
+p10936
+aVUnited Kingdom
+p10937
+aVEngland
+p10938
+aVSouth East
+p10939
+aa(lp10940
+S'Topsy Ojo'
+p10941
+aS'2008'
+p10942
+aS'Wing'
+p10943
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'2'
+aS'10'
+p10944
+aS'Tottenham'
+p10945
+aVUnited Kingdom
+p10946
+aVEngland
+p10947
+aVGreater London
+p10948
+aa(lp10949
+S'Danny Care'
+p10950
+aS'2008'
+p10951
+aS'Scrum-half'
+p10952
+aS'50'
+p10953
+aS'25'
+p10954
+aS'23'
+p10955
+aS'2'
+aS'7'
+aS'44'
+p10956
+aS'Leeds'
+p10957
+aVUnited Kingdom
+p10958
+aVEngland
+p10959
+aVYorkshire and the Humber
+p10960
+aa(lp10961
+S'David Paice'
+p10962
+aS'2008'
+p10963
+aS'Hooker'
+p10964
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Darwin'
+p10965
+aVAustralia
+p10966
+aVNorthern Territory
+p10967
+aVDarwin
+p10968
+aa(lp10969
+S'Jason Hobson'
+p10970
+aS'2008'
+p10971
+aS'Prop'
+p10972
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Swansea'
+p10973
+aVUnited Kingdom
+p10974
+aVWales
+p10975
+aVWest Glamorgan
+p10976
+aa(lp10977
+S'Delon Armitage'
+p10978
+aS'2008'
+p10979
 aS'Fullback'
-p10931
-aS'Chester'
-p10932
-aS'34'
-p10933
+p10980
+aS'26'
+p10981
+aS'16'
+p10982
+aS'9'
+aS'1'
+aS'7'
+aS'44'
+p10983
+aS'Trinidad'
+p10984
+aVUnited States of America
+p10985
+aVColorado
+p10986
+aVLas Animas County
+p10987
+aa(lp10988
+S'Riki Flutey'
+p10989
+aS'2008'
+p10990
+aS'Centre'
+p10991
+aS'15'
+p10992
+aS'7'
+aS'7'
+aS'1'
+aS'4'
 aS'20'
-p10934
+p10993
+aS'Featherston'
+p10994
+aVNew Zealand/Aotearoa
+p10995
+aVWellington
+p10996
+aVSouth Wairarapa District
+p10997
+aa(lp10998
+S'Nick Kennedy'
+p10999
+aS'2008'
+p11000
+aS'Lock'
+p11001
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'1'
+aS'5'
+aS'Southampton'
+p11002
+aVUnited Kingdom
+p11003
+aVEngland
+p11004
+aVSouth East
+p11005
+aa(lp11006
+S'Ugo Monye'
+p11007
+aS'2008'
+p11008
+aS'Wing'
+p11009
+aS'16'
+p11010
+aS'8'
+aS'7'
+aS'1'
+aS'3'
+aS'15'
+p11011
+aS'Islington'
+p11012
+aVUnited Kingdom
+p11013
+aVN1
+p11014
+aVEngland
+p11015
+aa(lp11016
+S'Dylan Hartley'
+p11017
+aS'2008'
+p11018
+aS'Hooker'
+p11019
+aS'66'
+p11020
+aS'39'
+p11021
+aS'25'
+p11022
+aS'2'
+aS'1'
+aS'5'
+aS'Rotorua'
+p11023
+aVNew Zealand/Aotearoa
+p11024
+aVBay of Plenty
+p11025
+aVRotorua District
+p11026
+aa(lp11027
+S'Jordan Crane'
+p11028
+aS'2008'
+p11029
+aS'Back-row'
+p11030
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bromsgrove'
+p11031
+aVUnited Kingdom
+p11032
+aVEngland
+p11033
+aVWest Midlands
+p11034
+aa(lp11035
+S'Steffon Armitage'
+p11036
+aS'2009'
+p11037
+aS'Back-row'
+p11038
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Trinidad'
+p11039
+aVUnited States of America
+p11040
+aVColorado
+p11041
+aVLas Animas County
+p11042
+aa(lp11043
+S'Ben Foden'
+p11044
+aS'2009'
+p11045
+aS'Fullback'
+p11046
+aS'34'
+p11047
+aS'20'
+p11048
+aS'12'
+p11049
+aS'2'
 aS'7'
 aS'35'
-p10935
+p11050
+aS'Chester'
+p11051
 aVUnited Kingdom
-p10936
+p11052
 aVEngland
-p10937
+p11053
 aVNorth West England
-p10938
-aa(lp10939
+p11054
+aa(lp11055
 S'Matt Banahan'
-p10940
+p11056
 aS'2009'
-p10941
+p11057
 aS'Wing'
-p10942
-aS'Jersey'
-p10943
+p11058
 aS'16'
-p10944
+p11059
 aS'9'
+aS'7'
+aS'0'
 aS'4'
 aS'20'
-p10945
+p11060
+aS'Jersey'
+p11061
 aVJersey
-p10946
+p11062
 ag9
 ag9
-aa(lp10947
+aa(lp11063
 S'Tom May'
-p10948
+p11064
 aS'2009'
-p10949
+p11065
 aS'Centre'
-p10950
-aS'London'
-p10951
+p11066
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'London'
+p11067
 aVUnited Kingdom
-p10952
+p11068
 aVEngland
-p10953
+p11069
 aVGreater London
-p10954
-aa(lp10955
+p11070
+aa(lp11071
 S'David Wilson'
-p10956
+p11072
 aS'2009'
-p10957
+p11073
 aS'Prop'
-p10958
-aS'South Shields'
-p10959
+p11074
 aS'41'
-p10960
+p11075
 aS'24'
-p10961
+p11076
+aS'16'
+p11077
+aS'1'
 aS'1'
 aS'5'
+aS'South Shields'
+p11078
 aVUnited Kingdom
-p10962
+p11079
 aVEngland
-p10963
+p11080
 aVNorth East England
-p10964
-aa(lp10965
+p11081
+aa(lp11082
 S'Sam Vesty'
-p10966
+p11083
 aS'2009'
-p10967
+p11084
 aS'Fly-half, Fullback'
-p10968
-aS'Leicester'
-p10969
+p11085
 aS'2'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
+aS'0'
+aS'Leicester'
+p11086
 aVUnited Kingdom
-p10970
+p11087
 aVEngland
-p10971
+p11088
 aVEast Midlands
-p10972
-aa(lp10973
+p11089
+aa(lp11090
 S'Chris Robshaw'
-p10974
+p11091
 aS'2009'
-p10975
+p11092
 aS'Back-row'
-p10976
-aS'Redhill'
-p10977
+p11093
 aS'37'
-p10978
+p11094
 aS'22'
-p10979
+p11095
+aS'15'
+p11096
+aS'0'
 aS'2'
 aS'10'
-p10980
+p11097
+aS'Redhill'
+p11098
 aVUnited Kingdom
-p10981
+p11099
 aVEngland
-p10982
+p11100
 aVSouth East
-p10983
-aa(lp10984
+p11101
+aa(lp11102
 S'Ayoola Erinle'
-p10985
+p11103
 aS'2009'
-p10986
+p11104
 aS'Centre'
-p10987
-aS'Lagos'
-p10988
+p11105
+aS'2'
+aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
+aS'Lagos'
+p11106
 aV\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7
-p10989
+p11107
 ag9
 ag9
-aa(lp10990
+aa(lp11108
 S'Courtney Lawes'
-p10991
+p11109
 aS'2009'
-p10992
+p11110
 aS'Lock, Back-row'
-p10993
-aS'Hackney'
-p10994
+p11111
 aS'38'
-p10995
+p11112
 aS'23'
-p10996
+p11113
+aS'14'
+p11114
+aS'1'
 aS'0'
 aS'0'
-aVUnited States of America
-p10997
-aVpenna
-p10998
-aVWashington County
-p10999
-aa(lp11000
+aS'Hackney'
+p11115
+aVAustralia
+p11116
+aV5000
+p11117
+aVSouth Australia
+p11118
+aa(lp11119
 S'Paul Doran Jones'
-p11001
+p11120
 aS'2009'
-p11002
+p11121
 aS'Prop'
-p11003
-aS'Enfield'
-p11004
+p11122
 aS'6'
 aS'4'
+aS'2'
 aS'0'
 aS'0'
+aS'0'
+aS'Enfield'
+p11123
 aVUnited Kingdom
-p11005
+p11124
 aVEngland
-p11006
+p11125
 aVGreater London
-p11007
-aa(lp11008
+p11126
+aa(lp11127
 S'Dan Cole'
-p11009
+p11128
 aS'2010'
-p11010
+p11129
 aS'Prop'
-p11011
-aS'Leicester'
-p11012
+p11130
 aS'53'
-p11013
+p11131
 aS'33'
-p11014
+p11132
+aS'18'
+p11133
+aS'2'
 aS'1'
 aS'5'
+aS'Leicester'
+p11134
 aVUnited Kingdom
-p11015
+p11135
 aVEngland
-p11016
+p11136
 aVEast Midlands
-p11017
-aa(lp11018
+p11137
+aa(lp11138
 S'Matt Mullan'
-p11019
+p11139
 aS'2010'
-p11020
+p11140
 aS'Prop'
-p11021
-aS'Brighton'
-p11022
+p11141
 aS'9'
 aS'4'
+aS'5'
 aS'0'
 aS'0'
+aS'0'
+aS'Brighton'
+p11142
 aVUnited Kingdom
-p11023
+p11143
 aVEngland
-p11024
+p11144
 aVSouth East
-p11025
-aa(lp11026
+p11145
+aa(lp11146
 S'Ben Youngs'
-p11027
+p11147
 aS'2010'
-p11028
+p11148
 aS'Scrum-half'
-p11029
-aS'Cawston'
-p11030
+p11149
 aS'49'
-p11031
+p11150
 aS'29'
-p11032
+p11151
+aS'19'
+p11152
+aS'1'
 aS'9'
 aS'45'
-p11033
-aVUnited Kingdom
-p11034
-aVEngland
-p11035
-aVEast of England
-p11036
-aa(lp11037
-S'Chris Ashton'
-p11038
-aS'2010'
-p11039
-aS'Wing'
-p11040
-aS'Wigan'
-p11041
-aS'39'
-p11042
-aS'23'
-p11043
-aS'19'
-p11044
-aS'95'
-p11045
-aVUnited Kingdom
-p11046
-aVEngland
-p11047
-aVNorth West England
-p11048
-aa(lp11049
-S'Shontayne Hape'
-p11050
-aS'2010'
-p11051
-aS'Centre'
-p11052
-aS'Auckland'
-p11053
-aS'13'
-p11054
-aS'8'
-aS'2'
-aS'10'
-p11055
-aVNew Zealand/Aotearoa
-p11056
-aVAuckland
-p11057
-ag9
-aa(lp11058
-S'Dave Attwood'
-p11059
-aS'2010'
-p11060
-aS'Lock'
-p11061
-aS'Bristol'
-p11062
-aS'20'
-p11063
-aS'13'
-p11064
-aS'0'
-aS'0'
-aVUnited Kingdom
-p11065
-aVEngland
-p11066
-aVSouth West England
-p11067
-aa(lp11068
-S'Hendre Fourie'
-p11069
-aS'2010'
-p11070
-aS'Flanker'
-p11071
-aS'Burgersdorp'
-p11072
-aS'8'
-aS'5'
-aS'0'
-aS'0'
-aVSouth Africa
-p11073
-aVEastern Cape
-p11074
-aVJoe Gqabi District Municipality
-p11075
-aa(lp11076
-S'Tom Wood'
-p11077
-aS'2011'
-p11078
-aS'Flanker'
-p11079
-aS'Coventry'
-p11080
-aS'36'
-p11081
-aS'25'
-p11082
-aS'0'
-aS'0'
-aVUnited Kingdom
-p11083
-aVEngland
-p11084
-aVWest Midlands
-p11085
-aa(lp11086
-S'Alex Corbisiero'
-p11087
-aS'2011'
-p11088
-aS'Prop'
-p11089
-aS'United States'
-p11090
-aS'21'
-p11091
-aS'15'
-p11092
-aS'1'
-aS'5'
-aVUnited States of America
-p11093
-ag9
-ag9
-aa(lp11094
-S'Manusamoa Tuilagi'
-p11095
-aS'2011'
-p11096
-aS'Centre'
-p11097
-aS'Western Samoa'
-p11098
-aS'26'
-p11099
-aS'15'
-p11100
-aS'11'
-p11101
-aS'55'
-p11102
-aVUnited States of America
-p11103
-aV95503
-p11104
-aVCalifornia
-p11105
-aa(lp11106
-S'Mouritz Botha'
-p11107
-aS'2011'
-p11108
-aS'Lock'
-p11109
-aS'Vryheid'
-p11110
-aS'10'
-p11111
-aS'5'
-aS'0'
-aS'0'
-aVSouth Africa
-p11112
-aV3100
-p11113
-aVKwaZulu-Natal
-p11114
-aa(lp11115
-S'Charlie Sharples'
-p11116
-aS'2011'
-p11117
-aS'Wing'
-p11118
-aS'1989'
-p11119
-aS'4'
-aS'3'
-aS'2'
-aS'10'
-p11120
-aV\u010cesko
-p11121
-aV43201
-p11122
-aVSeverozápad
-p11123
-aa(lp11124
-S'Joe Simpson'
-p11125
-aS'2011'
-p11126
-aS'Scrum-half'
-p11127
-aS'NSW'
-p11128
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aVAustralia
-p11129
-aVNew South Wales
-p11130
-ag9
-aa(lp11131
-S'Brad Barritt'
-p11132
-aS'2012'
-p11133
-aS'Centre'
-p11134
-aS'Durban'
-p11135
-aS'22'
-p11136
-aS'13'
-p11137
-aS'2'
-aS'10'
-p11138
-aVSouth Africa
-p11139
-aVKwaZulu-Natal
-p11140
-aVeThekwini Metropolitan Municipality
-p11141
-aa(lp11142
-S'Phil Dowson'
-p11143
-aS'2012'
-p11144
-aS'Back-row'
-p11145
-aS'Guildford'
-p11146
-aS'7'
-aS'4'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p11147
-aVGU1 4UT
-p11148
-aVEngland
-p11149
-aa(lp11150
-S'Owen Farrell'
-p11151
-aS'2012'
-p11152
-aS'Centre, Fly-half'
 p11153
-aS'Billinge'
+aS'Cawston'
 p11154
-aS'30'
+aVUnited Kingdom
 p11155
-aS'18'
+aVEngland
 p11156
-aS'2'
-aS'290'
+aVEast of England
 p11157
-aVSverige
-p11158
-aVGötaland
+aa(lp11158
+S'Chris Ashton'
 p11159
-aVSkåne
+aS'2010'
 p11160
-aa(lp11161
-S'Lee Dickson'
+aS'Wing'
+p11161
+aS'39'
 p11162
-aS'2012'
+aS'23'
 p11163
-aS'Scrum-half'
+aS'15'
 p11164
-aS'Verden'
+aS'1'
+aS'19'
 p11165
-aS'18'
+aS'95'
 p11166
-aS'11'
+aS'Wigan'
 p11167
-aS'0'
-aS'0'
-aVDeutschland
+aVUnited Kingdom
 p11168
-aV27283
+aVEngland
 p11169
-aVNiedersachsen
+aVNorth West England
 p11170
 aa(lp11171
-S'Ben Morgan'
+S'Shontayne Hape'
 p11172
-aS'2012'
+aS'2010'
 p11173
-aS'No. 8'
+aS'Centre'
 p11174
-aS'Bristol'
+aS'13'
 p11175
-aS'27'
-p11176
-aS'16'
-p11177
-aS'5'
-aS'25'
-p11178
-aVUnited Kingdom
-p11179
-aVEngland
-p11180
-aVSouth West England
-p11181
-aa(lp11182
-S'Geoff Parling'
-p11183
-aS'2012'
-p11184
-aS'Lock'
-p11185
-aS'Stockton-on-Tees'
-p11186
-aS'26'
-p11187
-aS'15'
-p11188
-aS'1'
-aS'5'
-aVUnited Kingdom
-p11189
-aVEngland
-p11190
-aVNorth East England
-p11191
-aa(lp11192
-S'Jordan Turner-Hall'
-p11193
-aS'2012'
-p11194
-aS'Centre'
-p11195
-aS'London'
-p11196
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p11197
-aVEngland
-p11198
-aVGreater London
-p11199
-aa(lp11200
-S'Rob Webber'
-p11201
-aS'2012'
-p11202
-aS'Hooker'
-p11203
-aS'York'
-p11204
-aS'12'
-p11205
-aS'6'
-aS'1'
-aS'5'
-aVUnited Kingdom
-p11206
-aVEngland
-p11207
-aVYorkshire and the Humber
-p11208
-aa(lp11209
-S'Tom Johnson'
-p11210
-aS'2012'
-p11211
-aS'Back-row'
-p11212
-aS'Dusseldorf'
-p11213
 aS'8'
-aS'3'
-aS'1'
 aS'5'
-aVDeutschland
-p11214
-aVNordrhein-Westfalen
-p11215
-aVRegierungsbezirk Düsseldorf
-p11216
-aa(lp11217
-S'Joe Marler'
-p11218
-aS'2012'
-p11219
-aS'Prop'
-p11220
-aS'Eastbourne'
-p11221
-aS'31'
-p11222
-aS'18'
-p11223
 aS'0'
-aS'0'
-aVUnited Kingdom
-p11224
-aVEngland
-p11225
-aVSouth East
-p11226
-aa(lp11227
-S'Jonathan Joseph'
-p11228
-aS'2012'
-p11229
-aS'Centre'
-p11230
-aS'Derby'
-p11231
-aS'11'
-p11232
-aS'7'
-aS'4'
-aS'20'
-p11233
-aVUnited Kingdom
-p11234
-aVEngland
-p11235
-aVEast Midlands
-p11236
-aa(lp11237
-S'Alex Goode'
-p11238
-aS'2012'
-p11239
-aS'Fullback, Fly-half'
-p11240
-aS'Cambridge'
-p11241
-aS'17'
-p11242
-aS'9'
-aS'0'
-aS'3'
-aVUnited Kingdom
-p11243
-aVEngland
-p11244
-aVEast of England
-p11245
-aa(lp11246
-S'Thomas Waldrom'
-p11247
-aS'2012'
-p11248
-aS'No. 8'
-p11249
-aS'Lower Hutt'
-p11250
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aVNew Zealand/Aotearoa
-p11251
-aVWellington
-p11252
-aVLower Hutt City
-p11253
-aa(lp11254
-S'Tom Youngs'
-p11255
-aS'2012'
-p11256
-aS'Hooker'
-p11257
-aS'Norwich'
-p11258
-aS'25'
-p11259
-aS'18'
-p11260
-aS'0'
-aS'0'
-aVUnited Kingdom
-p11261
-aVEngland
-p11262
-aVEast of England
-p11263
-aa(lp11264
-S'Joe Launchbury'
-p11265
-aS'2012'
-p11266
-aS'Lock'
-p11267
-aS'Exeter'
-p11268
-aS'22'
-p11269
-aS'14'
-p11270
 aS'2'
 aS'10'
-p11271
+p11176
+aS'Auckland'
+p11177
+aVNew Zealand/Aotearoa
+p11178
+aV1010
+p11179
+aVAuckland
+p11180
+aa(lp11181
+S'Dave Attwood'
+p11182
+aS'2010'
+p11183
+aS'Lock'
+p11184
+aS'20'
+p11185
+aS'13'
+p11186
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Bristol'
+p11187
 aVUnited Kingdom
-p11272
+p11188
 aVEngland
-p11273
+p11189
 aVSouth West England
+p11190
+aa(lp11191
+S'Hendre Fourie'
+p11192
+aS'2010'
+p11193
+aS'Flanker'
+p11194
+aS'8'
+aS'5'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Burgersdorp'
+p11195
+aVSouth Africa
+p11196
+aVEastern Cape
+p11197
+aVJoe Gqabi District Municipality
+p11198
+aa(lp11199
+S'Tom Wood'
+p11200
+aS'2011'
+p11201
+aS'Flanker'
+p11202
+aS'36'
+p11203
+aS'25'
+p11204
+aS'11'
+p11205
+aS'0'
+aS'0'
+aS'0'
+aS'Coventry'
+p11206
+aVUnited Kingdom
+p11207
+aVEngland
+p11208
+aVWest Midlands
+p11209
+aa(lp11210
+S'Alex Corbisiero'
+p11211
+aS'2011'
+p11212
+aS'Prop'
+p11213
+aS'21'
+p11214
+aS'15'
+p11215
+aS'6'
+aS'0'
+aS'1'
+aS'5'
+aS'United States'
+p11216
+aVUnited States of America
+p11217
+ag9
+ag9
+aa(lp11218
+S'Manusamoa Tuilagi'
+p11219
+aS'2011'
+p11220
+aS'Centre'
+p11221
+aS'26'
+p11222
+aS'15'
+p11223
+aS'10'
+p11224
+aS'1'
+aS'11'
+p11225
+aS'55'
+p11226
+aS'Western Samoa'
+p11227
+aVUnited States of America
+p11228
+aV95503
+p11229
+aVCalifornia
+p11230
+aa(lp11231
+S'Mouritz Botha'
+p11232
+aS'2011'
+p11233
+aS'Lock'
+p11234
+aS'10'
+p11235
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Vryheid'
+p11236
+aVSouth Africa
+p11237
+aV3100
+p11238
+aVKwaZulu-Natal
+p11239
+aa(lp11240
+S'Charlie Sharples'
+p11241
+aS'2011'
+p11242
+aS'Wing'
+p11243
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'2'
+aS'10'
+p11244
+aS'1989'
+p11245
+aV\u010cesko
+p11246
+aV43201
+p11247
+aVSeverozápad
+p11248
+aa(lp11249
+S'Joe Simpson'
+p11250
+aS'2011'
+p11251
+aS'Scrum-half'
+p11252
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p11253
+aVAustralia
+p11254
+aVNew South Wales
+p11255
+ag9
+aa(lp11256
+S'Brad Barritt'
+p11257
+aS'2012'
+p11258
+aS'Centre'
+p11259
+aS'22'
+p11260
+aS'13'
+p11261
+aS'8'
+aS'1'
+aS'2'
+aS'10'
+p11262
+aS'Durban'
+p11263
+aVSouth Africa
+p11264
+aVKwaZulu-Natal
+p11265
+aVeThekwini Metropolitan Municipality
+p11266
+aa(lp11267
+S'Phil Dowson'
+p11268
+aS'2012'
+p11269
+aS'Back-row'
+p11270
+aS'7'
+aS'4'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Guildford'
+p11271
+aVAustralia
+p11272
+aV2150
+p11273
+aVNew South Wales
 p11274
 aa(lp11275
-S'Mako Vunipola'
+S'Owen Farrell'
 p11276
 aS'2012'
 p11277
-aS'Prop'
+aS'Centre, Fly-half'
 p11278
-aS'Wellington'
+aS'30'
 p11279
-aS'23'
+aS'18'
 p11280
-aS'17'
+aS'11'
 p11281
 aS'1'
-aS'5'
-aVNew Zealand/Aotearoa
+aS'2'
+aS'290'
 p11282
-aVWellington
+aS'Billinge'
 p11283
-aVWellington City
+aVSverige
 p11284
-aa(lp11285
-S'Freddie Burns'
+aVGötaland
+p11285
+aVSkåne
 p11286
-aS'2012'
-p11287
-aS'Fly-half'
+aa(lp11287
+S'Lee Dickson'
 p11288
-aS'Bath'
+aS'2012'
 p11289
-aS'5'
-aS'3'
-aS'1'
-aS'57'
+aS'Scrum-half'
 p11290
-aVUnited Kingdom
+aS'18'
 p11291
-aVBA1
+aS'11'
 p11292
-aVEngland
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Verden'
 p11293
-aa(lp11294
-S'Billy Twelvetrees'
-p11295
-aS'2013'
-p11296
-aS'Centre'
-p11297
-aS'Chichester'
-p11298
-aS'20'
-p11299
-aS'15'
-p11300
-aS'3'
-aS'15'
-p11301
-aVUnited Kingdom
-p11302
-aVEngland
-p11303
-aVSouth East
-p11304
-aa(lp11305
-S'Matt Kvesic'
-p11306
-aS'2013'
-p11307
-aS'Back-row'
-p11308
-aS'Iserlohn'
-p11309
-aS'2'
-aS'2'
-aS'0'
-aS'0'
 aVDeutschland
+p11294
+aV27283
+p11295
+aVNiedersachsen
+p11296
+aa(lp11297
+S'Ben Morgan'
+p11298
+aS'2012'
+p11299
+aS'No. 8'
+p11300
+aS'27'
+p11301
+aS'16'
+p11302
+aS'11'
+p11303
+aS'0'
+aS'5'
+aS'25'
+p11304
+aS'Bristol'
+p11305
+aVUnited Kingdom
+p11306
+aVEngland
+p11307
+aVSouth West England
+p11308
+aa(lp11309
+S'Geoff Parling'
 p11310
-aVNordrhein-Westfalen
+aS'2012'
 p11311
-aVRegierungsbezirk Arnsberg
+aS'Lock'
 p11312
-aa(lp11313
-S'Christian Wade'
+aS'26'
+p11313
+aS'15'
 p11314
-aS''
-aS'Wing'
+aS'10'
 p11315
-aS'Slough'
+aS'1'
+aS'1'
+aS'5'
+aS'Stockton-on-Tees'
 p11316
-aS'1'
-aS'1'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p11317
 aVEngland
 p11318
-aVSouth East
+aVNorth East England
 p11319
 aa(lp11320
-S'Kyle Eastmond'
+S'Jordan Turner-Hall'
 p11321
-aS'2013'
+aS'2012'
 p11322
-aS'Fullback, Wing'
+aS'Centre'
 p11323
-aS'Oldham'
-p11324
-aS'6'
 aS'2'
-aS'1'
-aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'London'
+p11324
 aVUnited Kingdom
 p11325
 aVEngland
 p11326
-aVNorth West England
+aVGreater London
 p11327
 aa(lp11328
-S'Henry Thomas'
+S'Rob Webber'
 p11329
-aS'2013'
+aS'2012'
 p11330
-aS'Prop'
+aS'Hooker'
 p11331
-aS'Kingston-upon-Thames'
+aS'12'
 p11332
-aS'7'
+aS'6'
 aS'6'
 aS'0'
-aS'0'
-aVUnited Kingdom
+aS'1'
+aS'5'
+aS'York'
 p11333
-aVKT2 5EB
+aVUnited Kingdom
 p11334
 aVEngland
 p11335
-aa(lp11336
-S'Billy Vunipola'
-p11337
-aS'2013'
+aVYorkshire and the Humber
+p11336
+aa(lp11337
+S'Tom Johnson'
 p11338
-aS'No. 8'
+aS'2012'
 p11339
-aS'NSW'
+aS'Back-row'
 p11340
-aS'17'
+aS'8'
+aS'3'
+aS'4'
+aS'1'
+aS'1'
+aS'5'
+aS'Dusseldorf'
 p11341
-aS'10'
+aVDeutschland
 p11342
-aS'3'
-aS'15'
+aVNordrhein-Westfalen
 p11343
-aVAustralia
+aVRegierungsbezirk Düsseldorf
 p11344
-aVNew South Wales
-p11345
-ag9
-aa(lp11346
-S'Jonny May'
+aa(lp11345
+S'Joe Marler'
+p11346
+aS'2012'
 p11347
-aS'2013'
+aS'Prop'
 p11348
-aS'Wing'
+aS'31'
 p11349
-aS'Swindon'
+aS'18'
 p11350
-aS'13'
+aS'12'
 p11351
-aS'9'
-aS'3'
-aS'15'
+aS'1'
+aS'0'
+aS'0'
+aS'Eastbourne'
 p11352
 aVUnited Kingdom
 p11353
 aVEngland
 p11354
-aVSouth West England
+aVSouth East
 p11355
 aa(lp11356
-S'Marland Yarde'
+S'Jonathan Joseph'
 p11357
-aS'2013'
+aS'2012'
 p11358
-aS'Wing'
+aS'Centre'
 p11359
-aS'Castries'
+aS'11'
 p11360
 aS'7'
-aS'4'
+aS'3'
+aS'1'
 aS'4'
 aS'20'
 p11361
-aVSaint Lucia
+aS'Derby'
 p11362
-aVCastries
+aVUnited Kingdom
 p11363
-ag9
-aa(lp11364
-S'Stephen Myler'
+aVEngland
+p11364
+aVEast Midlands
 p11365
-aS'2013'
-p11366
-aS'Fly-half'
+aa(lp11366
+S'Alex Goode'
 p11367
-aS'Widnes'
+aS'2012'
 p11368
-aS'1'
+aS'Fullback, Fly-half'
+p11369
+aS'17'
+p11370
+aS'9'
+aS'7'
 aS'1'
 aS'0'
-aS'2'
-aVUnited Kingdom
-p11369
-aVEngland
-p11370
-aVNorth West England
+aS'3'
+aS'Cambridge'
 p11371
-aa(lp11372
-S'Joel Tomkins'
+aVUnited Kingdom
+p11372
+aVEngland
 p11373
-aS'2013'
+aVEast of England
 p11374
-aS'Centre'
-p11375
-aS'Warrington'
+aa(lp11375
+S'Thomas Waldrom'
 p11376
+aS'2012'
+p11377
+aS'No. 8'
+p11378
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Lower Hutt'
+p11379
+aVNew Zealand/Aotearoa
+p11380
+aVWellington
+p11381
+aVLower Hutt City
+p11382
+aa(lp11383
+S'Tom Youngs'
+p11384
+aS'2012'
+p11385
+aS'Hooker'
+p11386
+aS'25'
+p11387
+aS'18'
+p11388
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Norwich'
+p11389
+aVUnited Kingdom
+p11390
+aVEngland
+p11391
+aVEast of England
+p11392
+aa(lp11393
+S'Joe Launchbury'
+p11394
+aS'2012'
+p11395
+aS'Lock'
+p11396
+aS'22'
+p11397
+aS'14'
+p11398
+aS'8'
+aS'0'
+aS'2'
+aS'10'
+p11399
+aS'Exeter'
+p11400
+aVUnited Kingdom
+p11401
+aVEngland
+p11402
+aVSouth West England
+p11403
+aa(lp11404
+S'Mako Vunipola'
+p11405
+aS'2012'
+p11406
+aS'Prop'
+p11407
+aS'23'
+p11408
+aS'17'
+p11409
+aS'6'
+aS'0'
+aS'1'
+aS'5'
+aS'Wellington'
+p11410
+aVNew Zealand/Aotearoa
+p11411
+aVWellington
+p11412
+aVWellington City
+p11413
+aa(lp11414
+S'Freddie Burns'
+p11415
+aS'2012'
+p11416
+aS'Fly-half'
+p11417
+aS'5'
 aS'3'
 aS'2'
 aS'0'
-aS'0'
+aS'1'
+aS'57'
+p11418
+aS'Bath'
+p11419
 aVUnited Kingdom
-p11377
+p11420
+aVBA1
+p11421
 aVEngland
-p11378
-aVNorth West England
-p11379
-aa(lp11380
-S'Luther Burrell'
-p11381
-aS'2014'
-p11382
+p11422
+aa(lp11423
+S'Billy Twelvetrees'
+p11424
+aS'2013'
+p11425
 aS'Centre'
-p11383
-aS'Huddersfield'
-p11384
-aS'12'
-p11385
-aS'8'
+p11426
+aS'20'
+p11427
+aS'15'
+p11428
+aS'5'
+aS'0'
 aS'3'
 aS'15'
-p11386
-aVUnited Kingdom
-p11387
-aVEngland
-p11388
-aVYorkshire and the Humber
-p11389
-aa(lp11390
-S'Jack Nowell'
-p11391
-aS'2014'
-p11392
-aS'Fullback'
-p11393
-aS'Truro'
-p11394
-aS'8'
-aS'6'
-aS'4'
-aS'20'
-p11395
-aVUnited Kingdom
-p11396
-aVEngland
-p11397
-aVSouth West England
-p11398
-aa(lp11399
-S'George Ford'
-p11400
-aS'2014'
-p11401
-aS'Fly-half'
-p11402
-aS'Oldham'
-p11403
-aS'11'
-p11404
-aS'8'
-aS'2'
-aS'109'
-p11405
-aVUnited Kingdom
-p11406
-aVEngland
-p11407
-aVNorth West England
-p11408
-aa(lp11409
-S'Joe Gray'
-p11410
-aS'2014'
-p11411
-aS'Hooker'
-p11412
-aS'Nottingham'
-p11413
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p11414
-aVEngland
-p11415
-aVEast Midlands
-p11416
-aa(lp11417
-S'Chris Pennell'
-p11418
-aS'2014'
-p11419
-aS'Fullback'
-p11420
-aS'Worcester'
-p11421
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aVUnited Kingdom
-p11422
-aVEngland
-p11423
-aVWest Midlands
-p11424
-aa(lp11425
-S'Kieran Brookes'
-p11426
-aS'2014'
-p11427
-aS'Prop'
-p11428
-aS'Stoke-on-Trent'
 p11429
-aS'10'
+aS'Chichester'
 p11430
-aS'6'
-aS'0'
-aS'0'
 aVUnited Kingdom
 p11431
 aVEngland
 p11432
-aVWest Midlands
+aVSouth East
 p11433
 aa(lp11434
-S'Semesa Rokoduguni'
+S'Matt Kvesic'
 p11435
-aS'2014'
+aS'2013'
 p11436
-aS'Centre, Wing'
+aS'Back-row'
 p11437
-aS'Nausori'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Iserlohn'
 p11438
+aVDeutschland
+p11439
+aVNordrhein-Westfalen
+p11440
+aVRegierungsbezirk Arnsberg
+p11441
+aa(lp11442
+S'Christian Wade'
+p11443
+aS''
+aS'Wing'
+p11444
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aVViti
-p11439
-aVCentral
-p11440
-aVNausori
-p11441
-aa(lp11442
-S'George Kruis'
-p11443
-aS'2014'
-p11444
-aS'Back-row'
+aS'0'
+aS'Slough'
 p11445
-aS'Guildford'
+aVUnited Kingdom
 p11446
+aVEngland
+p11447
+aVSouth East
+p11448
+aa(lp11449
+S'Kyle Eastmond'
+p11450
+aS'2013'
+p11451
+aS'Fullback, Wing'
+p11452
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'1'
+aS'5'
+aS'Oldham'
+p11453
+aVUnited Kingdom
+p11454
+aVEngland
+p11455
+aVNorth West England
+p11456
+aa(lp11457
+S'Henry Thomas'
+p11458
+aS'2013'
+p11459
+aS'Prop'
+p11460
 aS'7'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Kingston-upon-Thames'
+p11461
+aVUnited Kingdom
+p11462
+aVKT2 5EB
+p11463
+aVEngland
+p11464
+aa(lp11465
+S'Billy Vunipola'
+p11466
+aS'2013'
+p11467
+aS'No. 8'
+p11468
+aS'17'
+p11469
+aS'10'
+p11470
+aS'7'
+aS'0'
+aS'3'
+aS'15'
+p11471
+aS'NSW'
+p11472
+aVAustralia
+p11473
+aVNew South Wales
+p11474
+ag9
+aa(lp11475
+S'Jonny May'
+p11476
+aS'2013'
+p11477
+aS'Wing'
+p11478
+aS'13'
+p11479
+aS'9'
+aS'4'
+aS'0'
+aS'3'
+aS'15'
+p11480
+aS'Swindon'
+p11481
+aVUnited Kingdom
+p11482
+aVEngland
+p11483
+aVSouth West England
+p11484
+aa(lp11485
+S'Marland Yarde'
+p11486
+aS'2013'
+p11487
+aS'Wing'
+p11488
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'4'
+aS'20'
+p11489
+aS'Castries'
+p11490
+aVFrance
+p11491
+aV34160
+p11492
+aVFrance métropolitaine
+p11493
+aa(lp11494
+S'Stephen Myler'
+p11495
+aS'2013'
+p11496
+aS'Fly-half'
+p11497
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'2'
+aS'Widnes'
+p11498
+aVUnited Kingdom
+p11499
+aVEngland
+p11500
+aVNorth West England
+p11501
+aa(lp11502
+S'Joel Tomkins'
+p11503
+aS'2013'
+p11504
+aS'Centre'
+p11505
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Warrington'
+p11506
+aVUnited Kingdom
+p11507
+aVEngland
+p11508
+aVNorth West England
+p11509
+aa(lp11510
+S'Luther Burrell'
+p11511
+aS'2014'
+p11512
+aS'Centre'
+p11513
+aS'12'
+p11514
+aS'8'
+aS'4'
+aS'0'
+aS'3'
+aS'15'
+p11515
+aS'Huddersfield'
+p11516
+aVUnited Kingdom
+p11517
+aVEngland
+p11518
+aVYorkshire and the Humber
+p11519
+aa(lp11520
+S'Jack Nowell'
+p11521
+aS'2014'
+p11522
+aS'Fullback'
+p11523
+aS'8'
+aS'6'
+aS'2'
+aS'0'
+aS'4'
+aS'20'
+p11524
+aS'Truro'
+p11525
+aVUnited Kingdom
+p11526
+aVEngland
+p11527
+aVSouth West England
+p11528
+aa(lp11529
+S'George Ford'
+p11530
+aS'2014'
+p11531
+aS'Fly-half'
+p11532
+aS'11'
+p11533
+aS'8'
+aS'3'
+aS'0'
+aS'2'
+aS'109'
+p11534
+aS'Oldham'
+p11535
+aVUnited Kingdom
+p11536
+aVEngland
+p11537
+aVNorth West England
+p11538
+aa(lp11539
+S'Joe Gray'
+p11540
+aS'2014'
+p11541
+aS'Hooker'
+p11542
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Nottingham'
+p11543
+aVUnited Kingdom
+p11544
+aVEngland
+p11545
+aVEast Midlands
+p11546
+aa(lp11547
+S'Chris Pennell'
+p11548
+aS'2014'
+p11549
+aS'Fullback'
+p11550
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Worcester'
+p11551
+aVUnited Kingdom
+p11552
+aVEngland
+p11553
+aVWest Midlands
+p11554
+aa(lp11555
+S'Kieran Brookes'
+p11556
+aS'2014'
+p11557
+aS'Prop'
+p11558
+aS'10'
+p11559
+aS'6'
 aS'4'
 aS'0'
 aS'0'
+aS'0'
+aS'Stoke-on-Trent'
+p11560
 aVUnited Kingdom
-p11447
-aVGU1 4UT
-p11448
+p11561
 aVEngland
-p11449
-aa(lp11450
-S'Anthony Watson'
-p11451
+p11562
+aVWest Midlands
+p11563
+aa(lp11564
+S'Semesa Rokoduguni'
+p11565
 aS'2014'
-p11452
+p11566
+aS'Centre, Wing'
+p11567
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Nausori'
+p11568
+aVViti
+p11569
+aVCentral
+p11570
+aVNausori
+p11571
+aa(lp11572
+S'George Kruis'
+p11573
+aS'2014'
+p11574
+aS'Back-row'
+p11575
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Guildford'
+p11576
+aVAustralia
+p11577
+aV2150
+p11578
+aVNew South Wales
+p11579
+aa(lp11580
+S'Anthony Watson'
+p11581
+aS'2014'
+p11582
 aS'Wing, Fullback'
-p11453
-aS'Ashford'
-p11454
+p11583
 aS'9'
 aS'6'
+aS'3'
+aS'0'
 aS'2'
 aS'10'
-p11455
-aVUnited Kingdom
-p11456
-aVEngland
-p11457
-aVSouth East
-p11458
+p11584
+aS'Ashford'
+p11585
+aVAustralia
+p11586
+aVNew South Wales
+p11587
+aVAshford
+p11588
 aa.
