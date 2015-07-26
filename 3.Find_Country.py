@@ -1,4 +1,5 @@
 # This program uses geopy to find the country of the birth city
+# It takes all the countries that match, and saves them as a pickled Python object
 
 # Author: Hautahi Kingi
 # Date: 22 June 2015
@@ -47,7 +48,7 @@ if __name__ == "__main__":
 	pass
 
 #-------------------------------------------------------------#
-# 3. Grab Country
+# 3. Grab Countries
 #-------------------------------------------------------------#
 
 # Loop over each country

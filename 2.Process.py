@@ -1,5 +1,5 @@
 # The initial webscrape saved data as pickled Python objects
-# This program cleans that data into a readbale format
+# This program cleans that data into a readable format
 # It also extracts the birthplace from the full birth data as well as the debut year from the full debut data
 
 # Author: Hautahi Kingi
