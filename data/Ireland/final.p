@@ -19,13 +19,15 @@ aVS6 3TB
 p8
 aVEngland
 p9
-aa(lp10
+aVYorkshire and the Humber
+p10
+aa(lp11
 S'George Andrews'
-p11
-aS'1875'
 p12
-aS'Forward'
+aS'1875'
 p13
+aS'Forward'
+p14
 aS'2'
 aS'0'
 aS'2'
@@ -35,13 +37,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp14
+aS's'
+aa(lp15
 S'W.H. Ash'
-p15
-aS'1875'
 p16
-aS'Forward'
+aS'1875'
 p17
+aS'Forward'
+p18
 aS'3'
 aS'0'
 aS'3'
@@ -51,33 +54,36 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp18
+aS's'
+aa(lp19
 S'Maurice Barlow'
-p19
-aS'1875'
 p20
-aS'Forward'
+aS'1875'
 p21
+aS'Forward'
+p22
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p22
-aVRepublic of Ireland
 p23
-aVLeinster
+aVRepublic of Ireland
 p24
-aVCounty Dublin
+aVLeinster
 p25
-aa(lp26
-S'Richard Bell'
+aVCounty Dublin
+p26
+aVDublin
 p27
-aS'1875'
-p28
-aS'Three-quarters'
+aa(lp28
+S'Richard Bell'
 p29
+aS'1875'
+p30
+aS'Three-quarters'
+p31
 aS'2'
 aS'0'
 aS'2'
@@ -87,33 +93,36 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp30
+aS's'
+aa(lp32
 S'Brab Casement'
-p31
-aS'1875'
-p32
-aS'Forward'
 p33
+aS'1875'
+p34
+aS'Forward'
+p35
 aS'3'
 aS'0'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Co Antri'
-p34
-aVFrance
-p35
-aV14400
 p36
-aVFrance métropolitaine
+aVFrance
 p37
-aa(lp38
-S'Abram Combe'
+aV14400
+p38
+aVFrance métropolitaine
 p39
-aS'1875'
+aVBasse-Normandie
 p40
+aa(lp41
+S'Abram Combe'
+p42
+aS'1875'
+p43
 aS'Forward'
-p41
+p44
 aS'1'
 aS'0'
 aS'1'
@@ -123,60 +132,48 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp42
+aS's'
+aa(lp45
 S'Henry Cox'
-p43
+p46
 aS'1875'
-p44
+p47
 aS'Forward'
-p45
+p48
 aS'4'
 aS'0'
 aS'4'
 aS'0'
 aS'0'
 aNaS'Bangalore'
-p46
-aVIndia
-p47
-aV560001
-p48
-aVKarnataka
 p49
-aa(lp50
-S'Abraham Cronyn'
+aVIndia
+p50
+aV560001
 p51
-aS'1875'
+aVKarnataka
 p52
-aS'Forward'
+aVBangalore Urban
 p53
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aNaS'?'
-aS'g'
-aS'n'
-aS'i'
 aa(lp54
-S'William Gaffikin'
+S'Abraham Cronyn'
 p55
 aS'1875'
 p56
 aS'Forward'
 p57
-aS'1'
+aS'3'
 aS'0'
-aS'1'
+aS'3'
 aS'0'
 aS'0'
 aNaS'?'
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp58
-S'Edgar Galbraith'
+S'William Gaffikin'
 p59
 aS'1875'
 p60
@@ -187,79 +184,102 @@ aS'0'
 aS'1'
 aS'0'
 aS'0'
-aNaS'Dublin'
-p62
-aVRepublic of Ireland
-p63
-aVLeinster
-p64
-aVCounty Dublin
-p65
-aa(lp66
-S'Richard Galbraith'
-p67
-aS'1875'
-p68
-aS'Fullback'
-p69
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aNaS'Dublin'
-p70
-aVRepublic of Ireland
-p71
-aVLeinster
-p72
-aVCounty Dublin
-p73
-aa(lp74
-S'Francis Hewson'
-p75
-aS'1875'
-p76
-aS'Forward'
-p77
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
 aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp78
-S'Sandy McDonald'
-p79
+aS's'
+aa(lp62
+S'Edgar Galbraith'
+p63
 aS'1875'
-p80
+p64
 aS'Forward'
-p81
-aS'13'
-p82
+p65
 aS'1'
-aS'11'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aNaS'Dublin'
+p66
+aVRepublic of Ireland
+p67
+aVLeinster
+p68
+aVCounty Dublin
+p69
+aVDublin
+p70
+aa(lp71
+S'Richard Galbraith'
+p72
+aS'1875'
+p73
+aS'Fullback'
+p74
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aNaS'Dublin'
+p75
+aVRepublic of Ireland
+p76
+aVLeinster
+p77
+aVCounty Dublin
+p78
+aVDublin
+p79
+aa(lp80
+S'Francis Hewson'
+p81
+aS'1875'
+p82
+aS'Forward'
 p83
 aS'1'
 aS'0'
-aNaS'Northern Ireland'
-p84
-aVUnited Kingdom
+aS'1'
+aS'0'
+aS'0'
+aNaS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp84
+S'Sandy McDonald'
 p85
-aVNorthern Ireland
-p86
-aS'Missing'
-p87
-aa(lp88
-S'Edward MacIlwaine'
-p89
 aS'1875'
-p90
+p86
 aS'Forward'
+p87
+aS'13'
+p88
+aS'1'
+aS'11'
+p89
+aS'1'
+aS'0'
+aNaS'Northern Ireland'
+p90
+aVUnited Kingdom
 p91
+aVNorthern Ireland
+p92
+aS'Missing'
+p93
+ag93
+aa(lp94
+S'Edward MacIlwaine'
+p95
+aS'1875'
+p96
+aS'Forward'
+p97
 aS'2'
 aS'0'
 aS'2'
@@ -269,167 +289,181 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp92
+aS's'
+aa(lp98
 S'Robert Maginniss'
-p93
+p99
 aS'1875'
-p94
+p100
 aS'Forward'
-p95
+p101
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Northern Ireland'
-p96
-aVUnited Kingdom
-p97
-aVNorthern Ireland
-p98
-ag87
-aa(lp99
-S'John Myles'
-p100
-aS'1875'
-p101
-aS'Halfback'
 p102
+aVUnited Kingdom
+p103
+aVNorthern Ireland
+p104
+ag93
+ag93
+aa(lp105
+S'John Myles'
+p106
+aS'1875'
+p107
+aS'Halfback'
+p108
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Limerick'
-p103
-aVRepublic of Ireland
-p104
-aVMunster
-p105
-aVCounty Limerick
-p106
-aa(lp107
-S'George Stack'
-p108
-aS'1875'
 p109
-aS'Forward'
+aVRepublic of Ireland
 p110
+aVMunster
+p111
+aVCounty Limerick
+p112
+aVLimerick
+p113
+aa(lp114
+S'George Stack'
+p115
+aS'1875'
+p116
+aS'Forward'
+p117
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Omagh'
-p111
-aVUnited Kingdom
-p112
-aVNorthern Ireland
-p113
-aVCounty Tyrone
-p114
-aa(lp115
-S'Robert Walkington'
-p116
-aS'1875'
-p117
-aS'Fullback'
 p118
-aS'10'
+aVUnited Kingdom
 p119
+aVNorthern Ireland
+p120
+aVCounty Tyrone
+p121
+aVOmagh
+p122
+aa(lp123
+S'Robert Walkington'
+p124
+aS'1875'
+p125
+aS'Fullback'
+p126
+aS'10'
+p127
 aS'0'
 aS'9'
 aS'1'
 aS'0'
 aNaS'United States'
-p120
+p128
 aVUnited States of America
-p121
-ag87
-ag87
-aa(lp122
+p129
+ag93
+ag93
+ag93
+aa(lp130
 S'Henry Walsh'
-p123
+p131
 aS'1875'
-p124
+p132
 aS'Forward'
-p125
+p133
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p126
+p134
 aVRepublic of Ireland
-p127
+p135
 aVLeinster
-p128
+p136
 aVCounty Dublin
-p129
-aa(lp130
+p137
+aVDublin
+p138
+aa(lp139
 S'David Arnott'
-p131
+p140
 aS'1875'
-p132
+p141
 aS'Forward'
-p133
+p142
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Tynemouth'
-p134
+p143
 aVUnited Kingdom
-p135
+p144
 aVEngland
-p136
+p145
 aVNorth East England
-p137
-aa(lp138
+p146
+aVTyne and Wear
+p147
+aa(lp148
 S'Tim Cuscaden'
-p139
+p149
 aS'1875'
-p140
+p150
 aS'Forward'
-p141
+p151
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Wexford'
-p142
-aVRepublic of Ireland
-p143
-aVLeinster
-p144
-aVCounty Wexford
-p145
-aa(lp146
-S'William Finlay'
-p147
-aS'1875'
-p148
-aS'Forward'
-p149
-aS'8'
-aS'0'
-aS'8'
-aS'0'
-aS'0'
-aNaS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp150
-S'R. Greer'
-p151
-aS'1875'
 p152
-aS'Forward'
+aVRepublic of Ireland
 p153
+aVLeinster
+p154
+aVCounty Wexford
+p155
+aVWexford
+p156
+aa(lp157
+S'William Finlay'
+p158
+aS'1875'
+p159
+aS'Forward'
+p160
+aS'8'
+aS'0'
+aS'8'
+aS'0'
+aS'0'
+aNaS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp161
+S'R. Greer'
+p162
+aS'1875'
+p163
+aS'Forward'
+p164
 aS'1'
 aS'0'
 aS'1'
@@ -439,33 +473,35 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp154
+aS's'
+aa(lp165
 S'Edward Hobson'
-p155
+p166
 aS'1875'
-p156
+p167
 aS'Three-quarters'
-p157
+p168
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Co.Wexford'
-p158
+p169
 aVRepublic of Ireland
-p159
+p170
 aVLeinster
-p160
+p171
 aVCounty Wexford
-p161
-aa(lp162
+p172
+ag93
+aa(lp173
 S'John Ireland'
-p163
+p174
 aS'1875'
-p164
+p175
 aS'Forward'
-p165
+p176
 aS'2'
 aS'0'
 aS'2'
@@ -475,69 +511,73 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp166
+aS's'
+aa(lp177
 S'Hamilton Moore'
-p167
+p178
 aS'1875'
-p168
+p179
 aS'Fullback'
-p169
+p180
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Co.Antrim'
-p170
+p181
 aVUnited Kingdom
-p171
+p182
 aVNorthern Ireland
-p172
+p183
 aVCounty Antrim
-p173
-aa(lp174
+p184
+ag93
+aa(lp185
 S'Ashley Westby'
-p175
+p186
 aS'1875'
-p176
+p187
 aS'Forward'
-p177
+p188
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Co.Dublin'
-p178
-aVRepublic of Ireland
-p179
-aVLeinster
-p180
-aVCounty Dublin
-p181
-aa(lp182
-S'H. Brown'
-p183
-aS'1877'
-p184
-aS'Three-quarters'
-p185
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aNaS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp186
-S'Thomas Brown'
-p187
-aS'1877'
-p188
-aS'Forward'
 p189
+aVRepublic of Ireland
+p190
+aVLeinster
+p191
+aVCounty Dublin
+p192
+ag93
+aa(lp193
+S'H. Brown'
+p194
+aS'1877'
+p195
+aS'Three-quarters'
+p196
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aNaS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp197
+S'Thomas Brown'
+p198
+aS'1877'
+p199
+aS'Forward'
+p200
 aS'2'
 aS'0'
 aS'2'
@@ -547,49 +587,52 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp190
+aS's'
+aa(lp201
 S'Henry Edwards'
-p191
+p202
 aS'1877'
-p192
+p203
 aS'Forward'
-p193
+p204
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Carnarvon'
-p194
-aVAustralia
-p195
-aVWestern Australia
-p196
-aVCarnarvon
-p197
-aa(lp198
-S'Thomas Gordon'
-p199
-aS'1877'
-p200
-aS'Halfback'
-p201
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aNaS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp202
-S'William Hamilton'
-p203
-aS'1877'
-p204
-aS'Forward'
 p205
+aVAustralia
+p206
+aVWestern Australia
+p207
+aVCarnarvon
+p208
+ag93
+aa(lp209
+S'Thomas Gordon'
+p210
+aS'1877'
+p211
+aS'Halfback'
+p212
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aNaS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp213
+S'William Hamilton'
+p214
+aS'1877'
+p215
+aS'Forward'
+p216
 aS'1'
 aS'0'
 aS'1'
@@ -599,32 +642,34 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp206
+aS's'
+aa(lp217
 S'Harry Jackson'
-p207
+p218
 aS'1877'
-p208
+p219
 aS'Forward'
-p209
+p220
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Co.Monaghan'
-p210
+p221
 aVRepublic of Ireland
-p211
+p222
 aVCounty Monaghan
-p212
-ag87
-aa(lp213
+p223
+ag93
+ag93
+aa(lp224
 S'Hugh Kelly'
-p214
+p225
 aS'1877'
-p215
+p226
 aS'Forward'
-p216
+p227
 aS'6'
 aS'0'
 aS'6'
@@ -634,145 +679,157 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp217
+aS's'
+aa(lp228
 S'Frederick Kidd'
-p218
+p229
 aS'1877'
-p219
+p230
 aS'Three-quarters'
-p220
+p231
 aS'3'
 aS'0'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Newry'
-p221
+p232
 aVUnited Kingdom
-p222
+p233
 aVNorthern Ireland
-p223
+p234
 aVCounty Down
-p224
-aa(lp225
+p235
+aVNewry
+p236
+aa(lp237
 S'Augustus Whitestone'
-p226
+p238
 aS'1877'
-p227
+p239
 aS'Halfback'
-p228
+p240
 aS'5'
 aS'0'
 aS'5'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p229
+p241
 aVRepublic of Ireland
-p230
-aVLeinster
-p231
-aVCounty Dublin
-p232
-aa(lp233
-S'William Wilson'
-p234
-aS'1877'
-p235
-aS'Forward'
-p236
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aNaS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp237
-S'J. Currell'
-p238
-aS'1877'
-p239
-aS'Forward'
-p240
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aNaS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp241
-S'James Heron'
 p242
-aS'1877'
+aVLeinster
 p243
-aS'Halfback'
+aVCounty Dublin
 p244
+aVDublin
+p245
+aa(lp246
+S'William Wilson'
+p247
+aS'1877'
+p248
+aS'Forward'
+p249
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aNaS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp250
+S'J. Currell'
+p251
+aS'1877'
+p252
+aS'Forward'
+p253
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aNaS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp254
+S'James Heron'
+p255
+aS'1877'
+p256
+aS'Halfback'
+p257
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Co.Down'
-p245
+p258
 aVUnited Kingdom
-p246
+p259
 aVNorthern Ireland
-p247
+p260
 aVCounty Down
-p248
-aa(lp249
+p261
+ag93
+aa(lp262
 S'Henry Murray'
-p250
+p263
 aS'1877'
-p251
+p264
 aS'Forward'
-p252
+p265
 aS'3'
 aS'0'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p253
+p266
 aVRepublic of Ireland
-p254
+p267
 aVLeinster
-p255
+p268
 aVCounty Dublin
-p256
-aa(lp257
+p269
+aVDublin
+p270
+aa(lp271
 S'Garvett Shaw'
-p258
+p272
 aS'1877'
-p259
+p273
 aS'Fullback'
-p260
+p274
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Belfast'
-p261
+p275
 aVUnited Kingdom
-p262
+p276
 aVNorthern Ireland
-p263
+p277
 aVCounty Antrim
-p264
-aa(lp265
+p278
+aVBelfast
+p279
+aa(lp280
 S'Edward Croker'
-p266
+p281
 aS'1878'
-p267
+p282
 aS'Forward'
-p268
+p283
 aS'1'
 aS'0'
 aS'1'
@@ -782,33 +839,36 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp269
+aS's'
+aa(lp284
 S'George Fagan'
-p270
+p285
 aS'1878'
-p271
+p286
 aS'Halfback'
-p272
+p287
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Bengal'
-p273
+p288
 aVUnited States of America
-p274
+p289
 aVMinnesota
-p275
+p290
 aVItasca
-p276
-aa(lp277
+p291
+aVBengal
+p292
+aa(lp293
 S'W. Griffiths'
-p278
+p294
 aS'1878'
-p279
+p295
 aS'Forward'
-p280
+p296
 aS'1'
 aS'0'
 aS'1'
@@ -818,171 +878,185 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp281
+aS's'
+aa(lp297
 S'Barney Hughes'
-p282
+p298
 aS'1878'
-p283
+p299
 aS'Forward'
-p284
+p300
 aS'12'
-p285
+p301
 aS'1'
 aS'10'
-p286
+p302
 aS'1'
 aS'0'
 aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp287
-S'Robert Matier'
-p288
-aS'1878'
-p289
-aS'Three-quarters'
-p290
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aNaS'Belfast'
-p291
-aVUnited Kingdom
-p292
-aVNorthern Ireland
-p293
-aVCounty Antrim
-p294
-aa(lp295
-S'William Moore'
-p296
-aS'1878'
-p297
-aS'Forward'
-p298
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aNaS'Co.Antrim'
-p299
-aVUnited Kingdom
-p300
-aVNorthern Ireland
-p301
-aVCounty Antrim
-p302
+aS's'
 aa(lp303
-S'Frederick Schute'
+S'Robert Matier'
 p304
 aS'1878'
 p305
-aS'Forward'
+aS'Three-quarters'
 p306
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
-aNaS'Bradford'
+aNaS'Belfast'
 p307
 aVUnited Kingdom
 p308
-aVEngland
+aVNorthern Ireland
 p309
-aVYorkshire and the Humber
+aVCounty Antrim
 p310
-aa(lp311
-S'Arthur Archer'
-p312
-aS'1879'
+aVBelfast
+p311
+aa(lp312
+S'William Moore'
 p313
-aS'Forward'
+aS'1878'
 p314
+aS'Forward'
+p315
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aNaS'Co.Antrim'
+p316
+aVUnited Kingdom
+p317
+aVNorthern Ireland
+p318
+aVCounty Antrim
+p319
+ag93
+aa(lp320
+S'Frederick Schute'
+p321
+aS'1878'
+p322
+aS'Forward'
+p323
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aNaS'Bradford'
+p324
+aVUnited Kingdom
+p325
+aVEngland
+p326
+aVYorkshire and the Humber
+p327
+aVBradford
+p328
+aa(lp329
+S'Arthur Archer'
+p330
+aS'1879'
+p331
+aS'Forward'
+p332
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Co.Kildare'
-p315
+p333
 aVRepublic of Ireland
-p316
+p334
 aVLeinster
-p317
+p335
 aVCounty Kildare
-p318
-aa(lp319
+p336
+ag93
+aa(lp337
 S'John Bagot'
-p320
+p338
 aS'1879'
-p321
+p339
 aS'Three-quarters'
-p322
+p340
 aS'5'
 aS'1'
 aS'4'
 aS'0'
 aS'0'
 aNaS'Galway'
-p323
+p341
 aVRepublic of Ireland
-p324
+p342
 aVConnacht
-p325
+p343
 aVCounty Galway
-p326
-aa(lp327
+p344
+aVCathair na Gaillimhe
+p345
+aa(lp346
 S'William Cummins'
-p328
+p347
 aS'1879'
-p329
+p348
 aS'Forward'
-p330
+p349
 aS'3'
 aS'0'
 aS'2'
 aS'1'
 aS'0'
 aNaS'Cork'
-p331
+p350
 aVRepublic of Ireland
-p332
+p351
 aVMunster
-p333
+p352
 aVCounty Cork
-p334
-aa(lp335
+p353
+aVCork
+p354
+aa(lp355
 S'William Goulding'
-p336
+p356
 aS'1879'
-p337
+p357
 aS'Halfback'
-p338
+p358
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Cork'
-p339
+p359
 aVRepublic of Ireland
-p340
+p360
 aVMunster
-p341
+p361
 aVCounty Cork
-p342
-aa(lp343
+p362
+aVCork
+p363
+aa(lp364
 S'Thomas Harrison'
-p344
+p365
 aS'1879'
-p345
+p366
 aS'Three-quarters'
-p346
+p367
 aS'3'
 aS'0'
 aS'3'
@@ -992,33 +1066,36 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp347
+aS's'
+aa(lp368
 S'William Neville'
-p348
+p369
 aS'1879'
-p349
+p370
 aS'Forward'
-p350
+p371
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'West Indie'
-p351
+p372
 aVIndia
-p352
+p373
 aV560001
-p353
+p374
 aVKarnataka
-p354
-aa(lp355
+p375
+aVBangalore Urban
+p376
+aa(lp377
 S'Henry Purdon'
-p356
+p378
 aS'1879'
-p357
+p379
 aS'Forward'
-p358
+p380
 aS'5'
 aS'1'
 aS'4'
@@ -1028,33 +1105,36 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp359
+aS's'
+aa(lp381
 S'George Scriven'
-p360
+p382
 aS'1879'
-p361
+p383
 aS'Forward'
-p362
+p384
 aS'8'
 aS'0'
 aS'8'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p363
+p385
 aVRepublic of Ireland
-p364
+p386
 aVLeinster
-p365
+p387
 aVCounty Dublin
-p366
-aa(lp367
+p388
+aVDublin
+p389
+aa(lp390
 S'John Taylor'
-p368
+p391
 aS'1879'
-p369
+p392
 aS'Forward'
-p370
+p393
 aS'8'
 aS'1'
 aS'6'
@@ -1064,13 +1144,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp371
+aS's'
+aa(lp394
 S'James Bristow'
-p372
+p395
 aS'1879'
-p373
+p396
 aS'Forward'
-p374
+p397
 aS'1'
 aS'0'
 aS'1'
@@ -1080,149 +1161,161 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp375
+aS's'
+aa(lp398
 S'John Cuppaidge'
-p376
+p399
 aS'1879'
-p377
+p400
 aS'Forward'
-p378
+p401
 aS'3'
 aS'0'
 aS'3'
 aS'0'
 aS'1'
 aNaS'Dublin'
-p379
+p402
 aVRepublic of Ireland
-p380
+p403
 aVLeinster
-p381
+p404
 aVCounty Dublin
-p382
-aa(lp383
+p405
+aVDublin
+p406
+aa(lp407
 S'Jack Keon'
-p384
+p408
 aS'1879'
-p385
+p409
 aS'Forward'
-p386
+p410
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Westmeath'
-p387
+p411
 aVRepublic of Ireland
-p388
+p412
 aVLeinster
-p389
+p413
 aVCounty Westmeath
-p390
-aa(lp391
+p414
+ag93
+aa(lp415
 S'William Pike'
-p392
+p416
 aS'1879'
-p393
+p417
 aS'Three-quarters'
-p394
+p418
 aS'5'
 aS'1'
 aS'3'
 aS'1'
 aS'0'
 aNaS'Mayo'
-p395
+p419
 aVCanada
-p396
+p420
 aVYukon
-p397
+p421
 aVMayo
-p398
-aa(lp399
+p422
+ag93
+aa(lp423
 S'Willington Willis'
-p400
+p424
 aS'1879'
-p401
+p425
 aS'Three-quarters'
-p402
+p426
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'circa 1860'
-p403
+p427
 aVPerú
-p404
-aVTacna
-p405
-aVCandarave
-p406
-aa(lp407
-S'Arthur Forrest'
-p408
-aS'1880'
-p409
-aS'Forward'
-p410
-aS'8'
-aS'1'
-aS'6'
-aS'1'
-aS'1'
-aNaS'Dublin'
-p411
-aVRepublic of Ireland
-p412
-aVLeinster
-p413
-aVCounty Dublin
-p414
-aa(lp415
-S'William Heron'
-p416
-aS'1880'
-p417
-aS'Halfback'
-p418
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aNaS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp419
-S'Meredith Johnston'
-p420
-aS'1880'
-p421
-aS'Halfback'
-p422
-aS'8'
-aS'1'
-aS'6'
-aS'1'
-aS'1'
-aNaS'Dublin'
-p423
-aVRepublic of Ireland
-p424
-aVLeinster
-p425
-aVCounty Dublin
-p426
-aa(lp427
-S'Francis Kennedy'
 p428
-aS'1880'
+aVTacna
 p429
-aS'Forward'
+aVCandarave
 p430
+aVCirca
+p431
+aa(lp432
+S'Arthur Forrest'
+p433
+aS'1880'
+p434
+aS'Forward'
+p435
+aS'8'
+aS'1'
+aS'6'
+aS'1'
+aS'1'
+aNaS'Dublin'
+p436
+aVRepublic of Ireland
+p437
+aVLeinster
+p438
+aVCounty Dublin
+p439
+aVDublin
+p440
+aa(lp441
+S'William Heron'
+p442
+aS'1880'
+p443
+aS'Halfback'
+p444
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aNaS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp445
+S'Meredith Johnston'
+p446
+aS'1880'
+p447
+aS'Halfback'
+p448
+aS'8'
+aS'1'
+aS'6'
+aS'1'
+aS'1'
+aNaS'Dublin'
+p449
+aVRepublic of Ireland
+p450
+aVLeinster
+p451
+aVCounty Dublin
+p452
+aVDublin
+p453
+aa(lp454
+S'Francis Kennedy'
+p455
+aS'1880'
+p456
+aS'Forward'
+p457
 aS'3'
 aS'0'
 aS'3'
@@ -1232,53 +1325,57 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp431
+aS's'
+aa(lp458
 S'Alfred Miller'
-p432
+p459
 aS'1880'
-p433
+p460
 aS'Forward'
-p434
+p461
 aS'3'
 aS'0'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Kingstown'
-p435
+p462
 aVSaint Vincent and the Grenadines
-p436
+p463
 aVSaint George
-p437
+p464
 aVKingstown
-p438
-aa(lp439
+p465
+ag93
+aa(lp466
 S'William Wallis'
-p440
+p467
 aS'1880'
-p441
+p468
 aS'Forward'
-p442
+p469
 aS'5'
 aS'1'
 aS'4'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p443
+p470
 aVRepublic of Ireland
-p444
+p471
 aVLeinster
-p445
+p472
 aVCounty Dublin
-p446
-aa(lp447
+p473
+aVDublin
+p474
+aa(lp475
 S'David Browning'
-p448
+p476
 aS'1881'
-p449
+p477
 aS'Forward'
-p450
+p478
 aS'2'
 aS'1'
 aS'1'
@@ -1288,33 +1385,35 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp451
+aS's'
+aa(lp479
 S'John Burkitt'
-p452
+p480
 aS'1881'
-p453
+p481
 aS'Forward'
-p454
+p482
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Co.Clare'
-p455
+p483
 aVRepublic of Ireland
-p456
+p484
 aVMunster
-p457
+p485
 aVCounty Clare
-p458
-aa(lp459
+p486
+ag93
+aa(lp487
 S'Alfred MacMullen'
-p460
+p488
 aS'1881'
-p461
+p489
 aS'Forward'
-p462
+p490
 aS'2'
 aS'1'
 aS'1'
@@ -1324,33 +1423,36 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp463
+aS's'
+aa(lp491
 S'Jones Morell'
-p464
+p492
 aS'1881'
-p465
+p493
 aS'Forward'
-p466
+p494
 aS'4'
 aS'1'
 aS'2'
 aS'1'
 aS'0'
 aNaS'Tyrone'
-p467
+p495
 aVUnited States of America
-p468
+p496
 aVpenna
-p469
+p497
 aVBlair County
-p470
-aa(lp471
+p498
+aVTyrone
+p499
+aa(lp500
 S'William Peirce'
-p472
+p501
 aS'1881'
-p473
+p502
 aS'Three-quarters'
-p474
+p503
 aS'1'
 aS'0'
 aS'1'
@@ -1360,13 +1462,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp475
+aS's'
+aa(lp504
 S'Henry Spunner'
-p476
+p505
 aS'1881'
-p477
+p506
 aS'Halfback'
-p478
+p507
 aS'3'
 aS'1'
 aS'2'
@@ -1376,13 +1479,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp479
+aS's'
+aa(lp508
 S'Jack Johnston'
-p480
+p509
 aS'1881'
-p481
+p510
 aS'Forward'
-p482
+p511
 aS'9'
 aS'2'
 aS'7'
@@ -1392,15 +1496,16 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp483
+aS's'
+aa(lp512
 S'Robert McLean'
-p484
+p513
 aS'1881'
-p485
+p514
 aS'Three-quarters'
-p486
+p515
 aS'10'
-p487
+p516
 aS'1'
 aS'8'
 aS'1'
@@ -1409,73 +1514,80 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp488
+aS's'
+aa(lp517
 S'Joseph Atkinson'
-p489
+p518
 aS'1882'
-p490
+p519
 aS'Three-quarters'
-p491
+p520
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p492
+p521
 aVRepublic of Ireland
-p493
+p522
 aVLeinster
-p494
+p523
 aVCounty Dublin
-p495
-aa(lp496
+p524
+aVDublin
+p525
+aa(lp526
 S'Gerrard Bent'
-p497
+p527
 aS'1882'
-p498
+p528
 aS'Halfback'
-p499
+p529
 aS'2'
 aS'0'
 aS'1'
 aS'1'
 aS'0'
 aNaS'Greenwich'
-p500
+p530
 aVUnited Kingdom
-p501
+p531
 aVEngland
-p502
+p532
 aVEast of England
-p503
-aa(lp504
+p533
+aVSuffolk
+p534
+aa(lp535
 S'Arthur Downing'
-p505
+p536
 aS'1882'
-p506
+p537
 aS'Forward'
-p507
+p538
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Monkstown?'
-p508
+p539
 aVRepublic of Ireland
-p509
+p540
 aVLeinster
-p510
+p541
 aVCounty Dublin
-p511
-aa(lp512
+p542
+aVDún Laoghaire-Rathdown
+p543
+aa(lp544
 S'William Fletcher'
-p513
+p545
 aS'1882'
-p514
+p546
 aS'Halfback'
-p515
+p547
 aS'3'
 aS'0'
 aS'3'
@@ -1485,73 +1597,80 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp516
+aS's'
+aa(lp548
 S'Ernest Greene'
-p517
+p549
 aS'1882'
-p518
+p550
 aS'Three-quarters'
-p519
+p551
 aS'4'
 aS'0'
 aS'4'
 aS'0'
 aS'1'
 aNaS'Dublin'
-p520
+p552
 aVRepublic of Ireland
-p521
+p553
 aVLeinster
-p522
+p554
 aVCounty Dublin
-p523
-aa(lp524
+p555
+aVDublin
+p556
+aa(lp557
 S'Frederick Heuston'
-p525
+p558
 aS'1882'
-p526
+p559
 aS'Forward'
-p527
+p560
 aS'3'
 aS'0'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Tipperary'
-p528
+p561
 aVRepublic of Ireland
-p529
+p562
 aVMunster
-p530
+p563
 aVCounty Tipperary
-p531
-aa(lp532
+p564
+aVTipperary
+p565
+aa(lp566
 S'John Kennedy'
-p533
+p567
 aS'1882'
-p534
+p568
 aS'Forward'
-p535
+p569
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Co.Tipperar'
-p536
+p570
 aVUnited States of America
-p537
+p571
 aVTexas
-p538
+p572
 aVWaller County
-p539
-aa(lp540
+p573
+aVRolling Hills
+p574
+aa(lp575
 S'Ted McCarthy'
-p541
+p576
 aS'1882'
-p542
+p577
 aS'Forward'
-p543
+p578
 aS'1'
 aS'0'
 aS'1'
@@ -1561,33 +1680,36 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp544
+aS's'
+aa(lp579
 S'Thomas McCarthy'
-p545
+p580
 aS'1882'
-p546
+p581
 aS'Three-quarters'
-p547
+p582
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Tipperary'
-p548
+p583
 aVRepublic of Ireland
-p549
+p584
 aVMunster
-p550
+p585
 aVCounty Tipperary
-p551
-aa(lp552
+p586
+aVTipperary
+p587
+aa(lp588
 S'Bob Thompson'
-p553
+p589
 aS'1882'
-p554
+p590
 aS'Forward'
-p555
+p591
 aS'1'
 aS'0'
 aS'1'
@@ -1597,13 +1719,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp556
+aS's'
+aa(lp592
 S'Thomas Johnson-Smyth'
-p557
+p593
 aS'1882'
-p558
+p594
 aS'Forward'
-p559
+p595
 aS'1'
 aS'0'
 aS'0'
@@ -1613,13 +1736,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp560
+aS's'
+aa(lp596
 S'Robert Nelson'
-p561
+p597
 aS'1882'
-p562
+p598
 aS'Forward'
-p563
+p599
 aS'4'
 aS'0'
 aS'3'
@@ -1629,52 +1753,56 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp564
+aS's'
+aa(lp600
 S'Oliver Stokes'
-p565
+p601
 aS'1882'
-p566
+p602
 aS'Forward'
-p567
+p603
 aS'2'
 aS'0'
 aS'1'
 aS'1'
 aS'1'
 aNaS'Kent'
-p568
+p604
 aVUnited Kingdom
-p569
+p605
 aVEngland
-p570
+p606
 aVSouth East
-p571
-aa(lp572
+p607
+aVKent
+p608
+aa(lp609
 S'Edward Wolfe'
-p573
+p610
 aS'1882'
-p574
+p611
 aS'Three-quarters'
-p575
+p612
 aS'1'
 aS'0'
 aS'0'
 aS'1'
 aS'0'
 aNaS'Northern Ireland'
-p576
+p613
 aVUnited Kingdom
-p577
+p614
 aVNorthern Ireland
-p578
-ag87
-aa(lp579
+p615
+ag93
+ag93
+aa(lp616
 S'John Buchanan'
-p580
+p617
 aS'1882'
-p581
+p618
 aS'Forward'
-p582
+p619
 aS'3'
 aS'0'
 aS'3'
@@ -1684,51 +1812,55 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp583
+aS's'
+aa(lp620
 S'Robert Morrow'
-p584
+p621
 aS'1882'
-p585
+p622
 aS'Fullback'
-p586
+p623
 aS'10'
-p587
+p624
 aS'0'
 aS'10'
-p588
+p625
 aS'0'
 aS'0'
 aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp589
+aS's'
+aa(lp626
 S"Alexander O'Sullivan"
-p590
+p627
 aS'1882'
-p591
+p628
 aS'Forward'
-p592
+p629
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Cork'
-p593
+p630
 aVRepublic of Ireland
-p594
+p631
 aVMunster
-p595
+p632
 aVCounty Cork
-p596
-aa(lp597
+p633
+aVCork
+p634
+aa(lp635
 S'Joe Pedlow'
-p598
+p636
 aS'1882'
-p599
+p637
 aS'Three-quarters'
-p600
+p638
 aS'2'
 aS'0'
 aS'2'
@@ -1738,92 +1870,99 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp601
+aS's'
+aa(lp639
 S'Stewart Bruce'
-p602
+p640
 aS'1883'
-p603
+p641
 aS'Forward'
-p604
+p642
 aS'3'
 aS'0'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Northern Ireland'
-p605
+p643
 aVUnited Kingdom
-p606
+p644
 aVNorthern Ireland
-p607
-ag87
-aa(lp608
+p645
+ag93
+ag93
+aa(lp646
 S'Henry King'
-p609
+p647
 aS'1883'
-p610
+p648
 aS'Forward'
-p611
+p649
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'London'
-p612
+p650
 aVUnited Kingdom
-p613
+p651
 aVEngland
-p614
+p652
 aVGreater London
-p615
-aa(lp616
+p653
+aVLondon
+p654
+aa(lp655
 S'Frank Moore'
-p617
+p656
 aS'1883'
-p618
+p657
 aS'Forward'
-p619
+p658
 aS'4'
 aS'0'
 aS'4'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p620
+p659
 aVRepublic of Ireland
-p621
+p660
 aVLeinster
-p622
+p661
 aVCounty Dublin
-p623
-aa(lp624
+p662
+aVDublin
+p663
+aa(lp664
 S'Rowland Scovell'
-p625
+p665
 aS'1883'
-p626
+p666
 aS'Three-quarters'
-p627
+p667
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Kingstown'
-p628
+p668
 aVSaint Vincent and the Grenadines
-p629
+p669
 aVSaint George
-p630
+p670
 aVKingstown
-p631
-aa(lp632
+p671
+ag93
+aa(lp672
 S'Peyton Warren'
-p633
+p673
 aS'1883'
-p634
+p674
 aS'Halfback'
-p635
+p675
 aS'1'
 aS'0'
 aS'1'
@@ -1833,261 +1972,281 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp636
+aS's'
+aa(lp676
 S'Samuel Collier'
-p637
+p677
 aS'1883'
-p638
+p678
 aS'Halfback'
-p639
+p679
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Northern Ireland'
-p640
+p680
 aVUnited Kingdom
-p641
+p681
 aVNorthern Ireland
-p642
-ag87
-aa(lp643
+p682
+ag93
+ag93
+aa(lp683
 S'Henry Brabazon'
-p644
+p684
 aS'1884'
-p645
+p685
 aS'Forward'
-p646
+p686
 aS'3'
 aS'0'
 aS'3'
 aS'0'
 aS'0'
 aNaS'nr Mullingar'
-p647
+p687
 aS'g'
 aS'n'
 aS'i'
-aa(lp648
-S'William Higgin'
-p649
-aS'1884'
-p650
-aS'Halfback'
-p651
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aNaS'Belfast'
-p652
-aVUnited Kingdom
-p653
-aVNorthern Ireland
-p654
-aVCounty Antrim
-p655
-aa(lp656
-S'Francis Levis'
-p657
-aS'1884'
-p658
-aS'Forward'
-p659
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aNaS'Co.Cork'
-p660
-aVRepublic of Ireland
-p661
-aVMunster
-p662
-aVCounty Cork
-p663
-aa(lp664
-S'Daniel Ross'
-p665
-aS'1884'
-p666
-aS'Three-quarters'
-p667
-aS'5'
-aS'0'
-aS'5'
-aS'0'
-aS'0'
-aNaS'Co.Down'
-p668
-aVUnited Kingdom
-p669
-aVNorthern Ireland
-p670
-aVCounty Down
-p671
-aa(lp672
-S'William Rutherford'
-p673
-aS'1884'
-p674
-aS'Forward'
-p675
-aS'6'
-aS'1'
-aS'5'
-aS'0'
-aS'0'
-aNaS'Tipperary'
-p676
-aVRepublic of Ireland
-p677
-aVMunster
-p678
-aVCounty Tipperary
-p679
-aa(lp680
-S'Alexander Gordon'
-p681
-aS'1884'
-p682
-aS'Forward'
-p683
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aNaS'Dublin'
-p684
-aVRepublic of Ireland
-p685
-aVLeinster
-p686
-aVCounty Dublin
-p687
+aS's'
 aa(lp688
-S'Thomas Hobbs'
+S'William Higgin'
 p689
 aS'1884'
 p690
-aS'Forward'
+aS'Halfback'
 p691
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
-aNaS'Ambala'
+aNaS'Belfast'
 p692
-aVIndia
+aVUnited Kingdom
 p693
-aVHaryana
+aVNorthern Ireland
 p694
-aVAmbala
+aVCounty Antrim
 p695
-aa(lp696
-S'Walter Kelly'
-p697
-aS'1884'
+aVBelfast
+p696
+aa(lp697
+S'Francis Levis'
 p698
-aS'Forward'
+aS'1884'
 p699
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aNaS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp700
-S'Lewis McIntosh'
-p701
-aS'1884'
-p702
-aS'Three-quarters'
-p703
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'1'
-aNaS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp704
-S'Forbes Maguire'
-p705
-aS'1884'
-p706
 aS'Forward'
+p700
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aNaS'Co.Cork'
+p701
+aVRepublic of Ireland
+p702
+aVMunster
+p703
+aVCounty Cork
+p704
+ag93
+aa(lp705
+S'Daniel Ross'
+p706
+aS'1884'
 p707
+aS'Three-quarters'
+p708
+aS'5'
+aS'0'
+aS'5'
+aS'0'
+aS'0'
+aNaS'Co.Down'
+p709
+aVUnited Kingdom
+p710
+aVNorthern Ireland
+p711
+aVCounty Down
+p712
+ag93
+aa(lp713
+S'William Rutherford'
+p714
+aS'1884'
+p715
+aS'Forward'
+p716
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aNaS'Tipperary'
+p717
+aVRepublic of Ireland
+p718
+aVMunster
+p719
+aVCounty Tipperary
+p720
+aVTipperary
+p721
+aa(lp722
+S'Alexander Gordon'
+p723
+aS'1884'
+p724
+aS'Forward'
+p725
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p708
+p726
 aVRepublic of Ireland
-p709
+p727
 aVLeinster
-p710
+p728
 aVCounty Dublin
-p711
-aa(lp712
-S"John O'Sullivan"
-p713
+p729
+aVDublin
+p730
+aa(lp731
+S'Thomas Hobbs'
+p732
 aS'1884'
-p714
+p733
+aS'Forward'
+p734
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aNaS'Ambala'
+p735
+aVIndia
+p736
+aVHaryana
+p737
+aVAmbala
+p738
+ag93
+aa(lp739
+S'Walter Kelly'
+p740
+aS'1884'
+p741
+aS'Forward'
+p742
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aNaS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp743
+S'Lewis McIntosh'
+p744
+aS'1884'
+p745
+aS'Three-quarters'
+p746
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'1'
+aNaS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp747
+S'Forbes Maguire'
+p748
+aS'1884'
+p749
+aS'Forward'
+p750
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aNaS'Dublin'
+p751
+aVRepublic of Ireland
+p752
+aVLeinster
+p753
+aVCounty Dublin
+p754
+aVDublin
+p755
+aa(lp756
+S"John O'Sullivan"
+p757
+aS'1884'
+p758
 aS'Fullback'
-p715
+p759
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Limerick'
-p716
+p760
 aVRepublic of Ireland
-p717
+p761
 aVMunster
-p718
+p762
 aVCounty Limerick
-p719
-aa(lp720
+p763
+aVLimerick
+p764
+aa(lp765
 S'George Wheeler'
-p721
+p766
 aS'1884'
-p722
+p767
 aS'Fullback'
-p723
+p768
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Belfast'
-p724
+p769
 aVUnited Kingdom
-p725
+p770
 aVNorthern Ireland
-p726
+p771
 aVCounty Antrim
-p727
-aa(lp728
+p772
+aVBelfast
+p773
+aa(lp774
 S'William Collis'
-p729
+p775
 aS'1884'
-p730
+p776
 aS'Forward'
-p731
+p777
 aS'1'
 aS'0'
 aS'1'
@@ -2097,13 +2256,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp732
+aS's'
+aa(lp778
 S'Herbert Cook'
-p733
+p779
 aS'1884'
-p734
+p780
 aS'Forward'
-p735
+p781
 aS'1'
 aS'0'
 aS'1'
@@ -2113,13 +2273,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp736
+aS's'
+aa(lp782
 S'John Fitzgerald'
-p737
+p783
 aS'1884'
-p738
+p784
 aS'Forward'
-p739
+p785
 aS'1'
 aS'0'
 aS'1'
@@ -2129,33 +2290,36 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp740
+aS's'
+aa(lp786
 S'William Hallaran'
-p741
+p787
 aS'1884'
-p742
+p788
 aS'Halfback'
-p743
+p789
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'1861'
-p744
+p790
 aVSverige
-p745
+p791
 aVSvealand
-p746
+p792
 aVÖrebro län
-p747
-aa(lp748
+p793
+aVLandskapet Närke
+p794
+aa(lp795
 S'Alexander Hamilton'
-p749
+p796
 aS'1884'
-p750
+p797
 aS'Forward'
-p751
+p798
 aS'1'
 aS'0'
 aS'1'
@@ -2165,272 +2329,294 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp752
+aS's'
+aa(lp799
 S'Walter Johnstone'
-p753
+p800
 aS'1884'
-p754
+p801
 aS'Forward'
-p755
+p802
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Kingstown'
-p756
+p803
 aVSaint Vincent and the Grenadines
-p757
+p804
 aVSaint George
-p758
+p805
 aVKingstown
-p759
-aa(lp760
+p806
+ag93
+aa(lp807
 S'Charles Jordan'
-p761
+p808
 aS'1884'
-p762
+p809
 aS'Wing'
-p763
+p810
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'date unknown'
-p764
+p811
 aS'g'
 aS'n'
 aS'i'
-aa(lp765
+aS's'
+aa(lp812
 S'John McDaniel'
-p766
+p813
 aS'1884'
-p767
+p814
 aS'Wing'
-p768
+p815
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Newport'
-p769
+p816
 aVUnited Kingdom
-p770
+p817
 aVNP
-p771
+p818
 aVWales
-p772
-aa(lp773
+p819
+aVMonmouthshire
+p820
+aa(lp821
 S'Frederick Moore'
-p774
+p822
 aS'1884'
-p775
+p823
 aS'Forward'
-p776
+p824
 aS'4'
 aS'0'
 aS'4'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p777
+p825
 aVRepublic of Ireland
-p778
+p826
 aVLeinster
-p779
+p827
 aVCounty Dublin
-p780
-aa(lp781
+p828
+aVDublin
+p829
+aa(lp830
 S'Lambert Moyers'
-p782
+p831
 aS'1884'
-p783
+p832
 aS'Forward'
-p784
+p833
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p785
+p834
 aVRepublic of Ireland
-p786
+p835
 aVLeinster
-p787
+p836
 aVCounty Dublin
-p788
-aa(lp789
+p837
+aVDublin
+p838
+aa(lp839
 S'Thomas Allen'
-p790
+p840
 aS'1885'
-p791
+p841
 aS'Forward'
-p792
+p842
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Derry'
-p793
+p843
 aVUnited Kingdom
-p794
+p844
 aVNorthern Ireland
-p795
+p845
 aVCounty Londonderry
-p796
-aa(lp797
+p846
+aVLondonderry
+p847
+aa(lp848
 S'Robert Bradshaw'
-p798
+p849
 aS'1885'
-p799
+p850
 aS'Forward'
-p800
+p851
 aS'3'
 aS'0'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Co.Wexford'
-p801
+p852
 aVRepublic of Ireland
-p802
+p853
 aVLeinster
-p803
+p854
 aVCounty Wexford
-p804
-aa(lp805
+p855
+ag93
+aa(lp856
 S'Ernie Crawford'
-p806
+p857
 aS'1885'
-p807
+p858
 aS'Halfback'
-p808
+p859
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'1861'
-p809
+p860
 aVSverige
-p810
+p861
 aVSvealand
-p811
+p862
 aVÖrebro län
-p812
-aa(lp813
+p863
+aVLandskapet Närke
+p864
+aa(lp865
 S'Thomas Lyle'
-p814
+p866
 aS'1885'
-p815
+p867
 aS'Forward'
-p816
+p868
 aS'6'
 aS'1'
 aS'5'
 aS'0'
 aS'0'
 aNaS'Northern Ireland'
-p817
+p869
 aVUnited Kingdom
-p818
+p870
 aVNorthern Ireland
-p819
-ag87
-aa(lp820
+p871
+ag93
+ag93
+aa(lp872
 S'Harry Neill'
-p821
+p873
 aS'1885'
-p822
+p874
 aS'Forward'
-p823
+p875
 aS'9'
 aS'2'
 aS'7'
 aS'0'
 aS'0'
 aNaS'Geelong'
-p824
+p876
 aVAustralia
-p825
+p877
 aVVictoria
-p826
+p878
 aVBarwon South West
-p827
-aa(lp828
+p879
+aVCity of Greater Geelong
+p880
+aa(lp881
 S'John Ross'
-p829
+p882
 aS'1885'
-p830
+p883
 aS'Three-quarters'
-p831
+p884
 aS'5'
 aS'0'
 aS'5'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p832
+p885
 aVRepublic of Ireland
-p833
+p886
 aVLeinster
-p834
+p887
 aVCounty Dublin
-p835
-aa(lp836
+p888
+aVDublin
+p889
+aa(lp890
 S'Thomas Shanahan'
-p837
+p891
 aS'1885'
-p838
+p892
 aS'Forward'
-p839
+p893
 aS'6'
 aS'1'
 aS'5'
 aS'0'
 aS'1'
 aNaS'Waterford'
-p840
+p894
 aVRepublic of Ireland
-p841
+p895
 aVMunster
-p842
+p896
 aVCounty Waterford
-p843
-aa(lp844
+p897
+aVWaterford
+p898
+aa(lp899
 S'Robert Warren'
-p845
+p900
 aS'1885'
-p846
+p901
 aS'Halfback'
-p847
+p902
 aS'15'
-p848
+p903
 aS'3'
 aS'11'
-p849
+p904
 aS'1'
 aS'1'
 aS'0'
 aS'Co.Meath'
-p850
+p905
 aVRepublic of Ireland
-p851
+p906
 aVLeinster
-p852
+p907
 aVCounty Meath
-p853
-aa(lp854
+p908
+ag93
+aa(lp909
 S'J.A. Thompson'
-p855
+p910
 aS'1885'
-p856
+p911
 aS'Forward'
-p857
+p912
 aS'2'
 aS'0'
 aS'2'
@@ -2440,13 +2626,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp858
+aS's'
+aa(lp913
 S'William Hogg'
-p859
+p914
 aS'1885'
-p860
+p915
 aS'Forward'
-p861
+p916
 aS'1'
 aS'0'
 aS'1'
@@ -2456,13 +2643,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp862
+aS's'
+aa(lp917
 S'D.V. Hunter'
-p863
+p918
 aS'1885'
-p864
+p919
 aS'Halfback'
-p865
+p920
 aS'1'
 aS'0'
 aS'1'
@@ -2472,115 +2660,125 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp866
+aS's'
+aa(lp921
 S'Joseph Chambers'
-p867
+p922
 aS'1886'
-p868
+p923
 aS'Forward'
-p869
+p924
 aS'5'
 aS'1'
 aS'4'
 aS'0'
 aS'0'
 aNaS'Co Cavan'
-p870
+p925
 aVRepublic of Ireland
-p871
+p926
 aVUlster
-p872
+p927
 aVCounty Cavan
-p873
-aa(lp874
+p928
+ag93
+aa(lp929
 S'Victor le Fanu'
-p875
+p930
 aS'1886'
-p876
+p931
 aS'Forward'
-p877
+p932
 aS'11'
-p878
+p933
 aS'3'
 aS'8'
 aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p879
+p934
 aVRepublic of Ireland
-p880
+p935
 aVLeinster
-p881
+p936
 aVCounty Dublin
-p882
-aa(lp883
+p937
+aVDublin
+p938
+aa(lp939
 S'Ralph Massy-Westropp'
-p884
+p940
 aS'1886'
-p885
+p941
 aS'Forward'
-p886
+p942
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Worcester'
-p887
+p943
 aVUnited Kingdom
-p888
+p944
 aVEngland
-p889
+p945
 aVWest Midlands
-p890
-aa(lp891
+p946
+aVWorcestershire
+p947
+aa(lp948
 S'Maxy Carpendale'
-p892
+p949
 aS'1886'
-p893
+p950
 aS'Three-quarters'
-p894
+p951
 aS'4'
 aS'1'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Bombay'
-p895
+p952
 aVIndia
-p896
+p953
 aVMaharashtra
-p897
+p954
 aVGreater Bombay
-p898
-aa(lp899
+p955
+aVMumbai
+p956
+aa(lp957
 S'Robert Herrick'
-p900
+p958
 aS'1886'
-p901
+p959
 aS'Halfback'
-p902
+p960
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Cork'
-p903
+p961
 aVRepublic of Ireland
-p904
+p962
 aVMunster
-p905
+p963
 aVCounty Cork
-p906
-aa(lp907
+p964
+aVCork
+p965
+aa(lp966
 S'J. McMordie'
-p908
+p967
 aS'1886'
-p909
+p968
 aS'Forward'
-p910
+p969
 aS'1'
 aS'0'
 aS'1'
@@ -2590,13 +2788,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp911
+aS's'
+aa(lp970
 S'Francis Miller'
-p912
+p971
 aS'1886'
-p913
+p972
 aS'Forward'
-p914
+p973
 aS'1'
 aS'0'
 aS'1'
@@ -2606,33 +2805,35 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp915
+aS's'
+aa(lp974
 S'Joseph Ross'
-p916
+p975
 aS'1886'
-p917
+p976
 aS'Halfback'
-p918
+p977
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Co.Down'
-p919
+p978
 aVUnited Kingdom
-p920
+p979
 aVNorthern Ireland
-p921
+p980
 aVCounty Down
-p922
-aa(lp923
+p981
+ag93
+aa(lp982
 S'Frank Stoker'
-p924
+p983
 aS'1886'
-p925
+p984
 aS'Forward'
-p926
+p985
 aS'5'
 aS'1'
 aS'4'
@@ -2640,20 +2841,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p927
+p986
 aVRepublic of Ireland
-p928
+p987
 aVLeinster
-p929
+p988
 aVCounty Dublin
-p930
-aa(lp931
+p989
+aVDublin
+p990
+aa(lp991
 S'James Waites'
-p932
+p992
 aS'1886'
-p933
+p993
 aS'Forward'
-p934
+p994
 aS'7'
 aS'1'
 aS'5'
@@ -2661,60 +2864,66 @@ aS'1'
 aS'1'
 aS'0'
 aS'Lancs'
-p935
+p995
 aVUnited Kingdom
-p936
+p996
 aVS6 3TB
-p937
+p997
 aVEngland
-p938
-aa(lp939
+p998
+aVYorkshire and the Humber
+p999
+aa(lp1000
 S'John Dick'
-p940
+p1001
 aS'1887'
-p941
+p1002
 aS'Forward'
-p942
+p1003
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Lisburn.Co.Antrim'
-p943
+p1004
 aVUnited Kingdom
-p944
+p1005
 aVNorthern Ireland
-p945
+p1006
 aVCounty Antrim
-p946
-aa(lp947
+p1007
+aVLisburn
+p1008
+aa(lp1009
 S'John Macauley'
-p948
+p1010
 aS'1887'
-p949
+p1011
 aS'Forward'
-p950
+p1012
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Limerick'
-p951
+p1013
 aVRepublic of Ireland
-p952
+p1014
 aVMunster
-p953
+p1015
 aVCounty Limerick
-p954
-aa(lp955
+p1016
+aVLimerick
+p1017
+aa(lp1018
 S'James McLaughlin'
-p956
+p1019
 aS'1887'
-p957
+p1020
 aS'Halfback'
-p958
+p1021
 aS'4'
 aS'2'
 aS'2'
@@ -2724,13 +2933,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp959
+aS's'
+aa(lp1022
 S'Robert Montgomery'
-p960
+p1023
 aS'1887'
-p961
+p1024
 aS'Three-quarters'
-p962
+p1025
 aS'5'
 aS'2'
 aS'3'
@@ -2738,82 +2948,90 @@ aS'0'
 aS'4'
 aS'0'
 aS'Belfast'
-p963
+p1026
 aVUnited Kingdom
-p964
+p1027
 aVNorthern Ireland
-p965
+p1028
 aVCounty Antrim
-p966
-aa(lp967
+p1029
+aVBelfast
+p1030
+aa(lp1031
 S'Daniel Rambaut'
-p968
+p1032
 aS'1887'
-p969
+p1033
 aS'Three-quarters'
-p970
+p1034
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Waterford'
-p971
+p1035
 aVRepublic of Ireland
-p972
+p1036
 aVMunster
-p973
+p1037
 aVCounty Waterford
-p974
-aa(lp975
+p1038
+aVWaterford
+p1039
+aa(lp1040
 S'Robert Stevenson'
-p976
+p1041
 aS'1887'
-p977
+p1042
 aS'Forward'
-p978
+p1043
 aS'14'
-p979
+p1044
 aS'3'
 aS'9'
 aS'2'
 aS'0'
 aS'0'
 aS'Dungannon'
-p980
+p1045
 aVUnited Kingdom
-p981
+p1046
 aVNorthern Ireland
-p982
+p1047
 aVCounty Tyrone
-p983
-aa(lp984
+p1048
+aVDungannon
+p1049
+aa(lp1050
 S'Charles Tillie'
-p985
+p1051
 aS'1887'
-p986
+p1052
 aS'Three-quarters'
-p987
+p1053
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'1'
 aNaS'Londonderry'
-p988
+p1054
 aVUnited Kingdom
-p989
+p1055
 aVNorthern Ireland
-p990
+p1056
 aVCounty Londonderry
-p991
-aa(lp992
+p1057
+aVLondonderry
+p1058
+aa(lp1059
 S'Dolway Walkington'
-p993
+p1060
 aS'1887'
-p994
+p1061
 aS'Fullback'
-p995
+p1062
 aS'8'
 aS'2'
 aS'5'
@@ -2821,20 +3039,22 @@ aS'1'
 aS'0'
 aS'3'
 aS'Belfast'
-p996
+p1063
 aVUnited Kingdom
-p997
+p1064
 aVNorthern Ireland
-p998
+p1065
 aVCounty Antrim
-p999
-aa(lp1000
+p1066
+aVBelfast
+p1067
+aa(lp1068
 S'Edward Walshe'
-p1001
+p1069
 aS'1887'
-p1002
+p1070
 aS'Forward'
-p1003
+p1071
 aS'7'
 aS'2'
 aS'5'
@@ -2845,33 +3065,36 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1004
+aS's'
+aa(lp1072
 S'Malcolm Moore'
-p1005
+p1073
 aS'1887'
-p1006
+p1074
 aS'Forward'
-p1007
+p1075
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p1008
+p1076
 aVRepublic of Ireland
-p1009
+p1077
 aVLeinster
-p1010
+p1078
 aVCounty Dublin
-p1011
-aa(lp1012
+p1079
+aVDublin
+p1080
+aa(lp1081
 S'W. Davison'
-p1013
+p1082
 aS'1887'
-p1014
+p1083
 aS'Forward'
-p1015
+p1084
 aS'1'
 aS'0'
 aS'1'
@@ -2881,13 +3104,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1016
+aS's'
+aa(lp1085
 S"Patrick O'Connor"
-p1017
+p1086
 aS'1887'
-p1018
+p1087
 aS'Halfback'
-p1019
+p1088
 aS'1'
 aS'0'
 aS'1'
@@ -2897,53 +3121,57 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1020
+aS's'
+aa(lp1089
 S'Thomas Taggart'
-p1021
+p1090
 aS'1887'
-p1022
+p1091
 aS'Forward'
-p1023
+p1092
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Bushmills'
-p1024
+p1093
 aVUnited Kingdom
-p1025
+p1094
 aVNorthern Ireland
-p1026
+p1095
 aVCounty Antrim
-p1027
-aa(lp1028
+p1096
+aVBushmills
+p1097
+aa(lp1098
 S'William Ekin'
-p1029
+p1099
 aS'1888'
-p1030
+p1100
 aS'Forward'
-p1031
+p1101
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Co.Tyrone'
-p1032
+p1102
 aVUnited Kingdom
-p1033
+p1103
 aVNorthern Ireland
-p1034
+p1104
 aVCounty Tyrone
-p1035
-aa(lp1036
+p1105
+ag93
+aa(lp1106
 S'Robert Mayne'
-p1037
+p1107
 aS'1888'
-p1038
+p1108
 aS'Forward'
-p1039
+p1109
 aS'2'
 aS'1'
 aS'1'
@@ -2953,13 +3181,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1040
+aS's'
+aa(lp1110
 S'James Moffatt'
-p1041
+p1111
 aS'1888'
-p1042
+p1112
 aS'Forward'
-p1043
+p1113
 aS'7'
 aS'1'
 aS'5'
@@ -2970,113 +3199,122 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1044
+aS's'
+aa(lp1114
 S'Ernest Stoker'
-p1045
+p1115
 aS'1888'
-p1046
+p1116
 aS'Forward'
-p1047
+p1117
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Dublin'
-p1048
+p1118
 aVRepublic of Ireland
-p1049
+p1119
 aVLeinster
-p1050
+p1120
 aVCounty Dublin
-p1051
-aa(lp1052
+p1121
+aVDublin
+p1122
+aa(lp1123
 S'William Morton'
-p1053
+p1124
 aS'1888'
-p1054
+p1125
 aS'Forward'
-p1055
+p1126
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Tipperary'
-p1056
+p1127
 aVRepublic of Ireland
-p1057
+p1128
 aVMunster
-p1058
+p1129
 aVCounty Tipperary
-p1059
-aa(lp1060
+p1130
+aVTipperary
+p1131
+aa(lp1132
 S'Alfred Walpole'
-p1061
+p1133
 aS'1888'
-p1062
+p1134
 aS'Three-quarters'
-p1063
+p1135
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Roscommon'
-p1064
+p1136
 aVRepublic of Ireland
-p1065
+p1137
 aVConnacht
-p1066
+p1138
 aVCounty Roscommon
-p1067
-aa(lp1068
+p1139
+aVRoscommon
+p1140
+aa(lp1141
 S'Herbert Andrews'
-p1069
+p1142
 aS'1888'
-p1070
+p1143
 aS'Forward'
-p1071
+p1144
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Co Down'
-p1072
+p1145
 aVUnited Kingdom
-p1073
+p1146
 aVNorthern Ireland
-p1074
+p1147
 aVCounty Down
-p1075
-aa(lp1076
+p1148
+ag93
+aa(lp1149
 S'Michael Bulger'
-p1077
+p1150
 aS'1888'
-p1078
+p1151
 aS'Three-quarters'
-p1079
+p1152
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Co Clare'
-p1080
+p1153
 aVRepublic of Ireland
-p1081
+p1154
 aVMunster
-p1082
+p1155
 aVCounty Clare
-p1083
-aa(lp1084
+p1156
+ag93
+aa(lp1157
 S'Taffy Edwards'
-p1085
+p1158
 aS'1888'
-p1086
+p1159
 aS'Three-quarters'
-p1087
+p1160
 aS'6'
 aS'1'
 aS'4'
@@ -3084,42 +3322,46 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
-p1088
+p1161
 aVRepublic of Ireland
-p1089
+p1162
 aVLeinster
-p1090
+p1163
 aVCounty Dublin
-p1091
-aa(lp1092
+p1164
+aVDublin
+p1165
+aa(lp1166
 S'Edmund Forrest'
-p1093
+p1167
 aS'1888'
-p1094
+p1168
 aS'Forward'
-p1095
+p1169
 aS'13'
-p1096
+p1170
 aS'5'
 aS'7'
 aS'1'
 aS'0'
 aS'4'
 aS'Dublin'
-p1097
+p1171
 aVRepublic of Ireland
-p1098
+p1172
 aVLeinster
-p1099
+p1173
 aVCounty Dublin
-p1100
-aa(lp1101
+p1174
+aVDublin
+p1175
+aa(lp1176
 S'Joseph Jameson'
-p1102
+p1177
 aS'1888'
-p1103
+p1178
 aS'Forward'
-p1104
+p1179
 aS'7'
 aS'2'
 aS'4'
@@ -3127,20 +3369,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
-p1105
+p1180
 aVRepublic of Ireland
-p1106
+p1181
 aVLeinster
-p1107
+p1182
 aVCounty Dublin
-p1108
-aa(lp1109
+p1183
+aVDublin
+p1184
+aa(lp1185
 S'John Lytle'
-p1110
+p1186
 aS'1888'
-p1111
+p1187
 aS'Forward'
-p1112
+p1188
 aS'8'
 aS'4'
 aS'4'
@@ -3148,62 +3392,67 @@ aS'0'
 aS'1'
 aS'5'
 aS'Belfast'
-p1113
+p1189
 aVUnited Kingdom
-p1114
+p1190
 aVNorthern Ireland
-p1115
+p1191
 aVCounty Antrim
-p1116
-aa(lp1117
+p1192
+aVBelfast
+p1193
+aa(lp1194
 S"John O'Conor"
-p1118
+p1195
 aS'1888'
-p1119
+p1196
 aS'Forward'
-p1120
+p1197
 aS'17'
-p1121
+p1198
 aS'6'
 aS'8'
 aS'3'
 aS'0'
 aS'0'
 aS'Letterkenny'
-p1122
+p1199
 aVRepublic of Ireland
-p1123
+p1200
 aVCounty Donegal
-p1124
+p1201
 aVLetterkenny
-p1125
-aa(lp1126
+p1202
+ag93
+aa(lp1203
 S'James Stevenson'
-p1127
+p1204
 aS'1888'
-p1128
+p1205
 aS'Halfback'
-p1129
+p1206
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Dungannon'
-p1130
+p1207
 aVUnited Kingdom
-p1131
+p1208
 aVNorthern Ireland
-p1132
+p1209
 aVCounty Tyrone
-p1133
-aa(lp1134
+p1210
+aVDungannon
+p1211
+aa(lp1212
 S'David Woods'
-p1135
+p1213
 aS'1888'
-p1136
+p1214
 aS'Three-quarters'
-p1137
+p1215
 aS'2'
 aS'0'
 aS'2'
@@ -3213,53 +3462,58 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1138
+aS's'
+aa(lp1216
 S'Thomas Donovan'
-p1139
+p1217
 aS'1889'
-p1140
+p1218
 aS'Forward'
-p1141
+p1219
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Cork'
-p1142
+p1220
 aVRepublic of Ireland
-p1143
+p1221
 aVMunster
-p1144
+p1222
 aVCounty Cork
-p1145
-aa(lp1146
+p1223
+aVCork
+p1224
+aa(lp1225
 S'Luke Holmes'
-p1147
+p1226
 aS'1889'
-p1148
+p1227
 aS'Fullback'
-p1149
+p1228
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Belfast'
-p1150
+p1229
 aVUnited Kingdom
-p1151
+p1230
 aVNorthern Ireland
-p1152
+p1231
 aVCounty Antrim
-p1153
-aa(lp1154
+p1232
+aVBelfast
+p1233
+aa(lp1234
 S'Llewellyn Nash'
-p1155
+p1235
 aS'1889'
-p1156
+p1236
 aS'Forward'
-p1157
+p1237
 aS'6'
 aS'0'
 aS'5'
@@ -3267,20 +3521,21 @@ aS'1'
 aS'0'
 aS'0'
 aS'Co.Cork'
-p1158
+p1238
 aVRepublic of Ireland
-p1159
+p1239
 aVMunster
-p1160
+p1240
 aVCounty Cork
-p1161
-aa(lp1162
+p1241
+ag93
+aa(lp1242
 S'Thomas Pedlow'
-p1163
+p1243
 aS'1889'
-p1164
+p1244
 aS'Three-quarters'
-p1165
+p1245
 aS'2'
 aS'1'
 aS'1'
@@ -3290,52 +3545,55 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1166
+aS's'
+aa(lp1246
 S'Charles Stack'
-p1167
+p1247
 aS'1889'
-p1168
+p1248
 aS'Forward'
-p1169
+p1249
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Lifford'
-p1170
+p1250
 aVRepublic of Ireland
-p1171
+p1251
 aVCounty Donegal
-p1172
+p1252
 aVLifford
-p1173
-aa(lp1174
+p1253
+ag93
+aa(lp1254
 S'Robert Yeates'
-p1175
+p1255
 aS'1889'
-p1176
+p1256
 aS'Three-quarters'
-p1177
+p1257
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aNaS'W Bengal'
-p1178
+p1258
 aVIndia
-p1179
+p1259
 aVWest Bengal
-p1180
-ag87
-aa(lp1181
+p1260
+ag93
+ag93
+aa(lp1261
 S'John Cotton'
-p1182
+p1262
 aS'1889'
-p1183
+p1263
 aS'Forward'
-p1184
+p1264
 aS'1'
 aS'1'
 aS'0'
@@ -3345,15 +3603,16 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1185
+aS's'
+aa(lp1265
 S'Robert Dunlop'
-p1186
+p1266
 aS'1889'
-p1187
+p1267
 aS'Three-quarters'
-p1188
+p1268
 aS'11'
-p1189
+p1269
 aS'2'
 aS'8'
 aS'1'
@@ -3363,13 +3622,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1190
+aS's'
+aa(lp1270
 S'Alaster McDonnell'
-p1191
+p1271
 aS'1889'
-p1192
+p1272
 aS'Halfback'
-p1193
+p1273
 aS'4'
 aS'1'
 aS'2'
@@ -3377,20 +3637,22 @@ aS'1'
 aS'1'
 aS'0'
 aS'Dublin'
-p1194
+p1274
 aVRepublic of Ireland
-p1195
+p1275
 aVLeinster
-p1196
+p1276
 aVCounty Dublin
-p1197
-aa(lp1198
+p1277
+aVDublin
+p1278
+aa(lp1279
 S'Henry Richey'
-p1199
+p1280
 aS'1889'
-p1200
+p1281
 aS'Forward'
-p1201
+p1282
 aS'2'
 aS'1'
 aS'1'
@@ -3398,20 +3660,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p1202
+p1283
 aVRepublic of Ireland
-p1203
+p1284
 aVLeinster
-p1204
+p1285
 aVCounty Dublin
-p1205
-aa(lp1206
+p1286
+aVDublin
+p1287
+aa(lp1288
 S'William Davis'
-p1207
+p1289
 aS'1890'
-p1208
+p1290
 aS'Forward'
-p1209
+p1291
 aS'9'
 aS'0'
 aS'8'
@@ -3419,17 +3683,18 @@ aS'1'
 aS'0'
 aS'0'
 aS'Ferozopore'
-p1210
+p1292
 aS'g'
 aS'n'
 aS'i'
-aa(lp1211
+aS's'
+aa(lp1293
 S'Eddie Doran'
-p1212
+p1294
 aS'1890'
-p1213
+p1295
 aS'Forward'
-p1214
+p1296
 aS'2'
 aS'0'
 aS'1'
@@ -3437,20 +3702,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
-p1215
+p1297
 aVRepublic of Ireland
-p1216
+p1298
 aVLeinster
-p1217
+p1299
 aVCounty Dublin
-p1218
-aa(lp1219
+p1300
+aVDublin
+p1301
+aa(lp1302
 S'Harry Gifford'
-p1220
+p1303
 aS'1890'
-p1221
+p1304
 aS'Fullback'
-p1222
+p1305
 aS'1'
 aS'0'
 aS'1'
@@ -3458,20 +3725,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p1223
+p1306
 aVRepublic of Ireland
-p1224
+p1307
 aVLeinster
-p1225
+p1308
 aVCounty Dublin
-p1226
-aa(lp1227
+p1309
+aVDublin
+p1310
+aa(lp1311
 S'Ralph Johnston'
-p1228
+p1312
 aS'1890'
-p1229
+p1313
 aS'Three-quarters'
-p1230
+p1314
 aS'3'
 aS'0'
 aS'2'
@@ -3479,20 +3748,21 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kingstown'
-p1231
+p1315
 aVSaint Vincent and the Grenadines
-p1232
+p1316
 aVSaint George
-p1233
+p1317
 aVKingstown
-p1234
-aa(lp1235
+p1318
+ag93
+aa(lp1319
 S'J. Roche'
-p1236
+p1320
 aS'1890'
-p1237
+p1321
 aS'Forward'
-p1238
+p1322
 aS'7'
 aS'1'
 aS'5'
@@ -3503,13 +3773,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1239
+aS's'
+aa(lp1323
 S'Hugh Galbraith'
-p1240
+p1324
 aS'1890'
-p1241
+p1325
 aS'Forward'
-p1242
+p1326
 aS'1'
 aS'0'
 aS'0'
@@ -3517,20 +3788,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Londonderry'
-p1243
+p1327
 aVUnited Kingdom
-p1244
+p1328
 aVNorthern Ireland
-p1245
+p1329
 aVCounty Londonderry
-p1246
-aa(lp1247
+p1330
+aVLondonderry
+p1331
+aa(lp1332
 S'Benjamin Tuke'
-p1248
+p1333
 aS'1890'
-p1249
+p1334
 aS'Halfback'
-p1250
+p1335
 aS'9'
 aS'3'
 aS'6'
@@ -3538,65 +3811,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p1251
+p1336
 aVRepublic of Ireland
-p1252
+p1337
 aVLeinster
-p1253
+p1338
 aVCounty Dublin
-p1254
-aa(lp1255
+p1339
+aVDublin
+p1340
+aa(lp1341
 S'Sam Lee'
-p1256
+p1342
 aS'1891'
-p1257
+p1343
 aS'Centre'
-p1258
+p1344
 aS'19'
-p1259
+p1345
 aS'8'
 aS'9'
 aS'2'
 aS'1'
 aS'1'
 aS'Down'
-p1260
+p1346
 aVRepublic of Ireland
-p1261
+p1347
 aVLeinster
-p1262
+p1348
 aVCounty Offaly
-p1263
-aa(lp1264
+p1349
+aVKilleen Bridge
+p1350
+aa(lp1351
 S'Charles Rooke'
-p1265
+p1352
 aS'1891'
-p1266
+p1353
 aS'Forward'
-p1267
+p1354
 aS'19'
-p1268
+p1355
 aS'7'
 aS'10'
-p1269
+p1356
 aS'2'
 aS'0'
 aS'0'
 aS'Dublin'
-p1270
+p1357
 aVRepublic of Ireland
-p1271
+p1358
 aVLeinster
-p1272
+p1359
 aVCounty Dublin
-p1273
-aa(lp1274
+p1360
+aVDublin
+p1361
+aa(lp1362
 S'Edwin Cameron'
-p1275
+p1363
 aS'1891'
-p1276
+p1364
 aS'Halfback'
-p1277
+p1365
 aS'2'
 aS'0'
 aS'2'
@@ -3604,20 +3883,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p1278
+p1366
 aVRepublic of Ireland
-p1279
+p1367
 aVLeinster
-p1280
+p1368
 aVCounty Dublin
-p1281
-aa(lp1282
+p1369
+aVDublin
+p1370
+aa(lp1371
 S'George Collopy'
-p1283
+p1372
 aS'1891'
-p1284
+p1373
 aS'Forward'
-p1285
+p1374
 aS'2'
 aS'0'
 aS'2'
@@ -3625,20 +3906,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p1286
+p1375
 aVRepublic of Ireland
-p1287
+p1376
 aVMunster
-p1288
+p1377
 aVCounty Limerick
-p1289
-aa(lp1290
+p1378
+aVLimerick
+p1379
+aa(lp1380
 S'Edward Frazer'
-p1291
+p1381
 aS'1891'
-p1292
+p1382
 aS'Forward'
-p1293
+p1383
 aS'2'
 aS'0'
 aS'2'
@@ -3646,20 +3929,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Drumkeeran'
-p1294
+p1384
 aVRepublic of Ireland
-p1295
+p1385
 aVConnacht
-p1296
+p1386
 aVCounty Leitrim
-p1297
-aa(lp1298
+p1387
+aVDrumkeeran
+p1388
+aa(lp1389
 S'Robert Stokes'
-p1299
+p1390
 aS'1891'
-p1300
+p1391
 aS'Forward'
-p1301
+p1392
 aS'2'
 aS'0'
 aS'2'
@@ -3667,20 +3952,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kent'
-p1302
+p1393
 aVUnited Kingdom
-p1303
+p1394
 aVEngland
-p1304
+p1395
 aVSouth East
-p1305
-aa(lp1306
+p1396
+aVKent
+p1397
+aa(lp1398
 S'Herbert Wells'
-p1307
+p1399
 aS'1891'
-p1308
+p1400
 aS'Three-quarters'
-p1309
+p1401
 aS'4'
 aS'2'
 aS'2'
@@ -3688,19 +3975,20 @@ aS'0'
 aS'1'
 aS'3'
 aS'W Bengal'
-p1310
+p1402
 aVIndia
-p1311
+p1403
 aVWest Bengal
-p1312
-ag87
-aa(lp1313
+p1404
+ag93
+ag93
+aa(lp1405
 S'Thomas Fogarty'
-p1314
+p1406
 aS'1891'
-p1315
+p1407
 aS'Forward'
-p1316
+p1408
 aS'1'
 aS'0'
 aS'1'
@@ -3711,13 +3999,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1317
+aS's'
+aa(lp1409
 S'Robert Pedlow'
-p1318
+p1410
 aS'1891'
-p1319
+p1411
 aS'Halfback'
-p1320
+p1412
 aS'1'
 aS'0'
 aS'1'
@@ -3728,34 +4017,36 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1321
+aS's'
+aa(lp1413
 S'William Gardiner'
-p1322
+p1414
 aS'1892'
-p1323
+p1415
 aS'Wing'
-p1324
+p1416
 aS'17'
-p1325
+p1417
 aS'6'
 aS'9'
 aS'2'
 aS'2'
 aS'6'
 aS'Northern Ireland'
-p1326
+p1418
 aVUnited Kingdom
-p1327
+p1419
 aVNorthern Ireland
-p1328
-ag87
-aa(lp1329
+p1420
+ag93
+ag93
+aa(lp1421
 S'T.J. Johnston'
-p1330
+p1422
 aS'1892'
-p1331
+p1423
 aS'Forward'
-p1332
+p1424
 aS'6'
 aS'1'
 aS'4'
@@ -3766,13 +4057,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1333
+aS's'
+aa(lp1425
 S'Thomas Peel'
-p1334
+p1426
 aS'1892'
-p1335
+p1427
 aS'Fullback'
-p1336
+p1428
 aS'3'
 aS'1'
 aS'2'
@@ -3780,20 +4072,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p1337
+p1429
 aVRepublic of Ireland
-p1338
+p1430
 aVMunster
-p1339
+p1431
 aVCounty Limerick
-p1340
-aa(lp1341
+p1432
+aVLimerick
+p1433
+aa(lp1434
 S'Robert Smith'
-p1342
+p1435
 aS'1892'
-p1343
+p1436
 aS'Forward'
-p1344
+p1437
 aS'1'
 aS'0'
 aS'1'
@@ -3801,20 +4095,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p1345
+p1438
 aVRepublic of Ireland
-p1346
+p1439
 aVLeinster
-p1347
+p1440
 aVCounty Dublin
-p1348
-aa(lp1349
+p1441
+aVDublin
+p1442
+aa(lp1443
 S'Thomas Thornhill'
-p1350
+p1444
 aS'1892'
-p1351
+p1445
 aS'Halfback'
-p1352
+p1446
 aS'4'
 aS'1'
 aS'3'
@@ -3822,20 +4118,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Tyrone'
-p1353
+p1447
 aVUnited Kingdom
-p1354
+p1448
 aVNorthern Ireland
-p1355
+p1449
 aVCounty Tyrone
-p1356
-aa(lp1357
+p1450
+ag93
+aa(lp1451
 S'Arthur Wallis'
-p1358
+p1452
 aS'1892'
-p1359
+p1453
 aS'Forward'
-p1360
+p1454
 aS'5'
 aS'1'
 aS'4'
@@ -3843,42 +4140,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p1361
+p1455
 aVRepublic of Ireland
-p1362
+p1456
 aVLeinster
-p1363
+p1457
 aVCounty Dublin
-p1364
-aa(lp1365
+p1458
+aVDublin
+p1459
+aa(lp1460
 S'Coo Clinch'
-p1366
+p1461
 aS'1892'
-p1367
+p1462
 aS'Forward'
-p1368
+p1463
 aS'14'
-p1369
+p1464
 aS'6'
 aS'7'
 aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
-p1370
+p1465
 aVRepublic of Ireland
-p1371
+p1466
 aVLeinster
-p1372
+p1467
 aVCounty Dublin
-p1373
-aa(lp1374
+p1468
+aVDublin
+p1469
+aa(lp1470
 S'Frederick Davies'
-p1375
+p1471
 aS'1892'
-p1376
+p1472
 aS'Halfback'
-p1377
+p1473
 aS'5'
 aS'1'
 aS'3'
@@ -3886,20 +4187,22 @@ aS'1'
 aS'1'
 aS'2'
 aS'Dublin'
-p1378
+p1474
 aVRepublic of Ireland
-p1379
+p1475
 aVLeinster
-p1380
+p1476
 aVCounty Dublin
-p1381
-aa(lp1382
+p1477
+aVDublin
+p1478
+aa(lp1479
 S'Michael Egan'
-p1383
+p1480
 aS'1893'
-p1384
+p1481
 aS'Forward'
-p1385
+p1482
 aS'2'
 aS'0'
 aS'2'
@@ -3910,13 +4213,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1386
+aS's'
+aa(lp1483
 S'Sam Gardiner'
-p1387
+p1484
 aS'1893'
-p1388
+p1485
 aS'Fullback'
-p1389
+p1486
 aS'2'
 aS'0'
 aS'1'
@@ -3927,13 +4231,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1390
+aS's'
+aa(lp1487
 S'Robert Johnston'
-p1391
+p1488
 aS'1893'
-p1392
+p1489
 aS'Wing'
-p1393
+p1490
 aS'5'
 aS'3'
 aS'2'
@@ -3941,41 +4246,43 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Donegal'
-p1394
+p1491
 aVRepublic of Ireland
-p1395
+p1492
 aVUlster
-p1396
+p1493
 aVCounty Donegal
-p1397
-aa(lp1398
+p1494
+ag93
+aa(lp1495
 S'Harry Lindsay'
-p1399
+p1496
 aS'1893'
-p1400
+p1497
 aS'Forward'
-p1401
+p1498
 aS'13'
-p1402
+p1499
 aS'6'
 aS'5'
 aS'2'
 aS'1'
 aS'3'
 aS'Northern Ireland'
-p1403
+p1500
 aVUnited Kingdom
-p1404
+p1501
 aVNorthern Ireland
-p1405
-ag87
-aa(lp1406
+p1502
+ag93
+ag93
+aa(lp1503
 S'Walter Brown'
-p1407
+p1504
 aS'1893'
-p1408
+p1505
 aS'Halfback'
-p1409
+p1506
 aS'5'
 aS'3'
 aS'1'
@@ -3983,280 +4290,28 @@ aS'1'
 aS'0'
 aS'0'
 aS'Co.Dublin'
-p1410
-aVRepublic of Ireland
-p1411
-aVLeinster
-p1412
-aVCounty Dublin
-p1413
-aa(lp1414
-S'Herbert Forrest'
-p1415
-aS'1893'
-p1416
-aS'Forward'
-p1417
-aS'2'
-aS'0'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Co.Dublin'
-p1418
-aVRepublic of Ireland
-p1419
-aVLeinster
-p1420
-aVCounty Dublin
-p1421
-aa(lp1422
-S'Lucius Gwynn'
-p1423
-aS'1893'
-p1424
-aS'Centre'
-p1425
-aS'7'
-aS'4'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'Donegal'
-p1426
-aVRepublic of Ireland
-p1427
-aVCounty Donegal
-p1428
-aVDonegal
-p1429
-aa(lp1430
-S"Bryan O'Brien"
-p1431
-aS'1893'
-p1432
-aS'Forward'
-p1433
-aS'2'
-aS'0'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Co.Limerick'
-p1434
-aVRepublic of Ireland
-p1435
-aVMunster
-p1436
-aVCounty Limerick
-p1437
-aa(lp1438
-S'Robert Hamilton'
-p1439
-aS'1893'
-p1440
-aS'Forward'
-p1441
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p1442
-aVRepublic of Ireland
-p1443
-aVLeinster
-p1444
-aVCounty Dublin
-p1445
-aa(lp1446
-S'William Sparrow'
-p1447
-aS'1893'
-p1448
-aS'Fullback'
-p1449
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Kilkenny'
-p1450
-aVRepublic of Ireland
-p1451
-aVLeinster
-p1452
-aVCounty Kilkenny
-p1453
-aa(lp1454
-S'Tom Crean'
-p1455
-aS'1894'
-p1456
-aS'Forward'
-p1457
-aS'13'
-p1458
-aS'8'
-aS'4'
-aS'1'
-aS'3'
-aS'9'
-aS'Dublin'
-p1459
-aVRepublic of Ireland
-p1460
-aVLeinster
-p1461
-aVCounty Dublin
-p1462
-aa(lp1463
-S'James Lytle'
-p1464
-aS'1894'
-p1465
-aS'Forward'
-p1466
-aS'12'
-p1467
-aS'8'
-aS'3'
-aS'1'
-aS'1'
-aS'6'
-aS'Belfast'
-p1468
-aVUnited Kingdom
-p1469
-aVNorthern Ireland
-p1470
-aVCounty Antrim
-p1471
-aa(lp1472
-S'George Walmsley'
-p1473
-aS'1894'
-p1474
-aS'Forward'
-p1475
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Co.Meath'
-p1476
-aVRepublic of Ireland
-p1477
-aVLeinster
-p1478
-aVCounty Meath
-p1479
-aa(lp1480
-S'Andrew Bond'
-p1481
-aS'1894'
-p1482
-aS'Forward'
-p1483
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp1484
-S'Patrick Grant'
-p1485
-aS'1894'
-p1486
-aS'Fullback'
-p1487
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Co.Dublin'
-p1488
-aVRepublic of Ireland
-p1489
-aVLeinster
-p1490
-aVCounty Dublin
-p1491
-aa(lp1492
-S'Alfred Brunker'
-p1493
-aS'1895'
-p1494
-aS'Forward'
-p1495
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Co.Dublin'
-p1496
-aVRepublic of Ireland
-p1497
-aVLeinster
-p1498
-aVCounty Dublin
-p1499
-aa(lp1500
-S'Hugh McCoull'
-p1501
-aS'1895'
-p1502
-aS'Forward'
-p1503
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Co.Down'
-p1504
-aVUnited Kingdom
-p1505
-aVNorthern Ireland
-p1506
-aVCounty Down
 p1507
-aa(lp1508
-S'Louis Magee'
+aVRepublic of Ireland
+p1508
+aVLeinster
 p1509
-aS'1895'
+aVCounty Dublin
 p1510
-aS'Halfback'
-p1511
-aS'31'
+ag93
+aa(lp1511
+S'Herbert Forrest'
 p1512
-aS'14'
+aS'1893'
 p1513
-aS'15'
+aS'Forward'
 p1514
 aS'2'
-aS'2'
-aS'9'
-aS'Dublin'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Co.Dublin'
 p1515
 aVRepublic of Ireland
 p1516
@@ -4264,54 +4319,57 @@ aVLeinster
 p1517
 aVCounty Dublin
 p1518
+ag93
 aa(lp1519
-S'Joseph Magee'
+S'Lucius Gwynn'
 p1520
-aS'1895'
+aS'1893'
 p1521
-aS'Wing'
+aS'Centre'
 p1522
+aS'7'
+aS'4'
 aS'2'
-aS'0'
-aS'2'
-aS'0'
+aS'1'
 aS'0'
 aS'0'
-aS'Dublin'
+aS'Donegal'
 p1523
 aVRepublic of Ireland
 p1524
-aVLeinster
+aVCounty Donegal
 p1525
-aVCounty Dublin
+aVDonegal
 p1526
+ag93
 aa(lp1527
-S'Thomas Stevenson'
+S"Bryan O'Brien"
 p1528
-aS'1895'
+aS'1893'
 p1529
-aS'Centre'
+aS'Forward'
 p1530
-aS'7'
-aS'3'
-aS'3'
+aS'2'
+aS'0'
 aS'1'
 aS'1'
-aS'3'
-aS'Londonderry'
+aS'0'
+aS'0'
+aS'Co.Limerick'
 p1531
-aVUnited Kingdom
+aVRepublic of Ireland
 p1532
-aVNorthern Ireland
+aVMunster
 p1533
-aVCounty Londonderry
+aVCounty Limerick
 p1534
+ag93
 aa(lp1535
-S'Glascott Symes'
+S'Robert Hamilton'
 p1536
-aS'1895'
+aS'1893'
 p1537
-aS'Fullback'
+aS'Forward'
 p1538
 aS'1'
 aS'0'
@@ -4319,26 +4377,119 @@ aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'Co.Mayo'
+aS'Dublin'
 p1539
 aVRepublic of Ireland
 p1540
-aVConnacht
+aVLeinster
 p1541
-aVCounty Mayo
+aVCounty Dublin
 p1542
-aa(lp1543
-S'John Fulton'
-p1544
-aS'1895'
+aVDublin
+p1543
+aa(lp1544
+S'William Sparrow'
 p1545
-aS'Fullback'
+aS'1893'
 p1546
-aS'16'
+aS'Fullback'
 p1547
-aS'6'
-aS'10'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Kilkenny'
 p1548
+aVRepublic of Ireland
+p1549
+aVLeinster
+p1550
+aVCounty Kilkenny
+p1551
+aVKilkenny
+p1552
+aa(lp1553
+S'Tom Crean'
+p1554
+aS'1894'
+p1555
+aS'Forward'
+p1556
+aS'13'
+p1557
+aS'8'
+aS'4'
+aS'1'
+aS'3'
+aS'9'
+aS'Dublin'
+p1558
+aVRepublic of Ireland
+p1559
+aVLeinster
+p1560
+aVCounty Dublin
+p1561
+aVDublin
+p1562
+aa(lp1563
+S'James Lytle'
+p1564
+aS'1894'
+p1565
+aS'Forward'
+p1566
+aS'12'
+p1567
+aS'8'
+aS'3'
+aS'1'
+aS'1'
+aS'6'
+aS'Belfast'
+p1568
+aVUnited Kingdom
+p1569
+aVNorthern Ireland
+p1570
+aVCounty Antrim
+p1571
+aVBelfast
+p1572
+aa(lp1573
+S'George Walmsley'
+p1574
+aS'1894'
+p1575
+aS'Forward'
+p1576
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Co.Meath'
+p1577
+aVRepublic of Ireland
+p1578
+aVLeinster
+p1579
+aVCounty Meath
+p1580
+ag93
+aa(lp1581
+S'Andrew Bond'
+p1582
+aS'1894'
+p1583
+aS'Forward'
+p1584
+aS'2'
+aS'2'
+aS'0'
 aS'0'
 aS'0'
 aS'0'
@@ -4346,55 +4497,240 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1549
-S'Edward MacIlwaine'
-p1550
+aS's'
+aa(lp1585
+S'Patrick Grant'
+p1586
+aS'1894'
+p1587
+aS'Fullback'
+p1588
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Co.Dublin'
+p1589
+aVRepublic of Ireland
+p1590
+aVLeinster
+p1591
+aVCounty Dublin
+p1592
+ag93
+aa(lp1593
+S'Alfred Brunker'
+p1594
 aS'1895'
-p1551
+p1595
 aS'Forward'
-p1552
+p1596
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aS'Belfast'
-p1553
-aVUnited Kingdom
-p1554
-aVNorthern Ireland
-p1555
-aVCounty Antrim
-p1556
-aa(lp1557
-S'Alexander Montgomery'
-p1558
+aS'Co.Dublin'
+p1597
+aVRepublic of Ireland
+p1598
+aVLeinster
+p1599
+aVCounty Dublin
+p1600
+ag93
+aa(lp1601
+S'Hugh McCoull'
+p1602
 aS'1895'
-p1559
-aS'Centre'
-p1560
+p1603
+aS'Forward'
+p1604
+aS'4'
 aS'1'
-aS'0'
-aS'1'
-aS'0'
+aS'3'
 aS'0'
 aS'0'
-aS'Belfast'
-p1561
+aS'0'
+aS'Co.Down'
+p1605
 aVUnited Kingdom
-p1562
+p1606
 aVNorthern Ireland
-p1563
-aVCounty Antrim
-p1564
-aa(lp1565
-S"Jack O'Connor"
-p1566
+p1607
+aVCounty Down
+p1608
+ag93
+aa(lp1609
+S'Louis Magee'
+p1610
 aS'1895'
-p1567
+p1611
+aS'Halfback'
+p1612
+aS'31'
+p1613
+aS'14'
+p1614
+aS'15'
+p1615
+aS'2'
+aS'2'
+aS'9'
+aS'Dublin'
+p1616
+aVRepublic of Ireland
+p1617
+aVLeinster
+p1618
+aVCounty Dublin
+p1619
+aVDublin
+p1620
+aa(lp1621
+S'Joseph Magee'
+p1622
+aS'1895'
+p1623
 aS'Wing'
-p1568
+p1624
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p1625
+aVRepublic of Ireland
+p1626
+aVLeinster
+p1627
+aVCounty Dublin
+p1628
+aVDublin
+p1629
+aa(lp1630
+S'Thomas Stevenson'
+p1631
+aS'1895'
+p1632
+aS'Centre'
+p1633
+aS'7'
+aS'3'
+aS'3'
+aS'1'
+aS'1'
+aS'3'
+aS'Londonderry'
+p1634
+aVUnited Kingdom
+p1635
+aVNorthern Ireland
+p1636
+aVCounty Londonderry
+p1637
+aVLondonderry
+p1638
+aa(lp1639
+S'Glascott Symes'
+p1640
+aS'1895'
+p1641
+aS'Fullback'
+p1642
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Co.Mayo'
+p1643
+aVRepublic of Ireland
+p1644
+aVConnacht
+p1645
+aVCounty Mayo
+p1646
+ag93
+aa(lp1647
+S'John Fulton'
+p1648
+aS'1895'
+p1649
+aS'Fullback'
+p1650
+aS'16'
+p1651
+aS'6'
+aS'10'
+p1652
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp1653
+S'Edward MacIlwaine'
+p1654
+aS'1895'
+p1655
+aS'Forward'
+p1656
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Belfast'
+p1657
+aVUnited Kingdom
+p1658
+aVNorthern Ireland
+p1659
+aVCounty Antrim
+p1660
+aVBelfast
+p1661
+aa(lp1662
+S'Alexander Montgomery'
+p1663
+aS'1895'
+p1664
+aS'Centre'
+p1665
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Belfast'
+p1666
+aVUnited Kingdom
+p1667
+aVNorthern Ireland
+p1668
+aVCounty Antrim
+p1669
+aVBelfast
+p1670
+aa(lp1671
+S"Jack O'Connor"
+p1672
+aS'1895'
+p1673
+aS'Wing'
+p1674
 aS'1'
 aS'0'
 aS'1'
@@ -4402,20 +4738,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p1569
+p1675
 aVRepublic of Ireland
-p1570
+p1676
 aVMunster
-p1571
+p1677
 aVCounty Limerick
-p1572
-aa(lp1573
+p1678
+aVLimerick
+p1679
+aa(lp1680
 S"William O'Sullivan"
-p1574
+p1681
 aS'1895'
-p1575
+p1682
 aS'Forward'
-p1576
+p1683
 aS'1'
 aS'0'
 aS'1'
@@ -4426,13 +4764,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1577
+aS's'
+aa(lp1684
 S'Michael Delaney'
-p1578
+p1685
 aS'1895'
-p1579
+p1686
 aS'Halfback'
-p1580
+p1687
 aS'1'
 aS'0'
 aS'1'
@@ -4443,13 +4782,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1581
+aS's'
+aa(lp1688
 S'Arthur Gwynn'
-p1582
+p1689
 aS'1895'
-p1583
+p1690
 aS'Wing'
-p1584
+p1691
 aS'1'
 aS'0'
 aS'1'
@@ -4457,20 +4797,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Donegal'
-p1585
+p1692
 aVRepublic of Ireland
-p1586
+p1693
 aVCounty Donegal
-p1587
+p1694
 aVDonegal
-p1588
-aa(lp1589
+p1695
+ag93
+aa(lp1696
 S'Glyn Allen'
-p1590
+p1697
 aS'1896'
-p1591
+p1698
 aS'Halfback'
-p1592
+p1699
 aS'9'
 aS'6'
 aS'2'
@@ -4478,84 +4819,89 @@ aS'1'
 aS'1'
 aS'3'
 aS'Gibraltar'
-p1593
+p1700
 aVGibraltar
-p1594
-ag87
-ag87
-aa(lp1595
+p1701
+ag93
+ag93
+ag93
+aa(lp1702
 S'Lawrence Bulger'
-p1596
+p1703
 aS'1896'
-p1597
+p1704
 aS'Wing'
-p1598
+p1705
 aS'12'
-p1599
+p1706
 aS'7'
 aS'4'
 aS'1'
 aS'3'
 aS'25'
-p1600
+p1707
 aS'Co Clare'
-p1601
+p1708
 aVRepublic of Ireland
-p1602
+p1709
 aVMunster
-p1603
+p1710
 aVCounty Clare
-p1604
-aa(lp1605
+p1711
+ag93
+aa(lp1712
 S'Bill Byron'
-p1606
+p1713
 aS'1896'
-p1607
+p1714
 aS'Forward'
-p1608
+p1715
 aS'11'
-p1609
+p1716
 aS'7'
 aS'3'
 aS'1'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p1610
+p1717
 aVUnited Kingdom
-p1611
+p1718
 aVNorthern Ireland
-p1612
-ag87
-aa(lp1613
+p1719
+ag93
+ag93
+aa(lp1720
 S'James Sealy'
-p1614
+p1721
 aS'1896'
-p1615
+p1722
 aS'Forward'
-p1616
+p1723
 aS'13'
-p1617
+p1724
 aS'8'
 aS'3'
 aS'2'
 aS'2'
 aS'6'
 aS'Dublin'
-p1618
+p1725
 aVRepublic of Ireland
-p1619
+p1726
 aVLeinster
-p1620
+p1727
 aVCounty Dublin
-p1621
-aa(lp1622
+p1728
+aVDublin
+p1729
+aa(lp1730
 S'George McAllan'
-p1623
+p1731
 aS'1896'
-p1624
+p1732
 aS'Fullback'
-p1625
+p1733
 aS'2'
 aS'1'
 aS'0'
@@ -4563,19 +4909,20 @@ aS'1'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p1626
+p1734
 aVUnited Kingdom
-p1627
+p1735
 aVNorthern Ireland
-p1628
-ag87
-aa(lp1629
+p1736
+ag93
+ag93
+aa(lp1737
 S'John McIlwaine'
-p1630
+p1738
 aS'1897'
-p1631
+p1739
 aS'Forward'
-p1632
+p1740
 aS'7'
 aS'4'
 aS'3'
@@ -4583,22 +4930,24 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p1633
+p1741
 aVUnited Kingdom
-p1634
+p1742
 aVNorthern Ireland
-p1635
+p1743
 aVCounty Antrim
-p1636
-aa(lp1637
+p1744
+aVBelfast
+p1745
+aa(lp1746
 S'John Ryan'
-p1638
+p1747
 aS'1897'
-p1639
+p1748
 aS'Forward'
-p1640
+p1749
 aS'14'
-p1641
+p1750
 aS'6'
 aS'7'
 aS'1'
@@ -4608,15 +4957,16 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1642
+aS's'
+aa(lp1751
 S'Michael Ryan'
-p1643
+p1752
 aS'1897'
-p1644
+p1753
 aS'Forward'
-p1645
+p1754
 aS'17'
-p1646
+p1755
 aS'7'
 aS'9'
 aS'1'
@@ -4626,13 +4976,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1647
+aS's'
+aa(lp1756
 S"Pierce O'Brien-Butler"
-p1648
+p1757
 aS'1897'
-p1649
+p1758
 aS'Fullback'
-p1650
+p1759
 aS'6'
 aS'3'
 aS'3'
@@ -4640,20 +4991,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Tipperary'
-p1651
+p1760
 aVRepublic of Ireland
-p1652
+p1761
 aVMunster
-p1653
+p1762
 aVCounty Tipperary
-p1654
-aa(lp1655
+p1763
+ag93
+aa(lp1764
 S'John Davis'
-p1656
+p1765
 aS'1898'
-p1657
+p1766
 aS'Forward'
-p1658
+p1767
 aS'2'
 aS'1'
 aS'1'
@@ -4661,20 +5013,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Carlow'
-p1659
+p1768
 aVRepublic of Ireland
-p1660
+p1769
 aVLeinster
-p1661
+p1770
 aVCounty Carlow
-p1662
-aa(lp1663
+p1771
+ag93
+aa(lp1772
 S'James Franks'
-p1664
+p1773
 aS'1898'
-p1665
+p1774
 aS'Forward'
-p1666
+p1775
 aS'3'
 aS'1'
 aS'2'
@@ -4682,20 +5035,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Dublin'
-p1667
+p1776
 aVRepublic of Ireland
-p1668
+p1777
 aVLeinster
-p1669
+p1778
 aVCounty Dublin
-p1670
-aa(lp1671
+p1779
+ag93
+aa(lp1780
 S'Francis Purser'
-p1672
+p1781
 aS'1898'
-p1673
+p1782
 aS'Wing'
-p1674
+p1783
 aS'3'
 aS'1'
 aS'2'
@@ -4703,20 +5057,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1876'
-p1675
+p1784
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1676
+p1785
 aV\u0421\u041a\u0424\u041e
-p1677
+p1786
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1678
-aa(lp1679
+p1787
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1788
+aa(lp1789
 S'Frederick Smithwick'
-p1680
+p1790
 aS'1898'
-p1681
+p1791
 aS'Centre'
-p1682
+p1792
 aS'2'
 aS'0'
 aS'2'
@@ -4724,20 +5080,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kildare'
-p1683
+p1793
 aVRepublic of Ireland
-p1684
+p1794
 aVLeinster
-p1685
+p1795
 aVCounty Kildare
-p1686
-aa(lp1687
+p1796
+ag93
+aa(lp1797
 S'Ainsworth Barr'
-p1688
+p1798
 aS'1898'
-p1689
+p1799
 aS'Halfback'
-p1690
+p1800
 aS'4'
 aS'2'
 aS'2'
@@ -4745,20 +5102,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p1691
+p1801
 aVUnited Kingdom
-p1692
+p1802
 aVNorthern Ireland
-p1693
+p1803
 aVCounty Antrim
-p1694
-aa(lp1695
+p1804
+aVBelfast
+p1805
+aa(lp1806
 S'Thomas Little'
-p1696
+p1807
 aS'1898'
-p1697
+p1808
 aS'Forward'
-p1698
+p1809
 aS'7'
 aS'3'
 aS'3'
@@ -4766,20 +5125,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
-p1699
+p1810
 aVRepublic of Ireland
-p1700
+p1811
 aVLeinster
-p1701
+p1812
 aVCounty Dublin
-p1702
-aa(lp1703
+p1813
+aVDublin
+p1814
+aa(lp1815
 S'Ned McCarthy'
-p1704
+p1816
 aS'1898'
-p1705
+p1817
 aS'Forward'
-p1706
+p1818
 aS'1'
 aS'0'
 aS'1'
@@ -4787,20 +5148,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p1707
+p1819
 aVRepublic of Ireland
-p1708
+p1820
 aVMunster
-p1709
+p1821
 aVCounty Cork
-p1710
-aa(lp1711
+p1822
+aVCork
+p1823
+aa(lp1824
 S'Thomas Ahearne'
-p1712
+p1825
 aS'1899'
-p1713
+p1826
 aS'Forward'
-p1714
+p1827
 aS'1'
 aS'1'
 aS'0'
@@ -4811,15 +5174,16 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1715
+aS's'
+aa(lp1828
 S'James Allison'
-p1716
+p1829
 aS'1899'
-p1717
+p1830
 aS'Centre'
-p1718
+p1831
 aS'12'
-p1719
+p1832
 aS'4'
 aS'7'
 aS'1'
@@ -4829,13 +5193,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1720
+aS's'
+aa(lp1833
 S'William Brown'
-p1721
+p1834
 aS'1899'
-p1722
+p1835
 aS'Wing'
-p1723
+p1836
 aS'1'
 aS'1'
 aS'0'
@@ -4846,35 +5211,38 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1724
+aS's'
+aa(lp1837
 S'Ian Davidson'
-p1725
+p1838
 aS'1899'
-p1726
+p1839
 aS'Wing'
-p1727
+p1840
 aS'10'
-p1728
+p1841
 aS'3'
 aS'5'
 aS'2'
 aS'2'
 aS'6'
 aS'Co.Do'
-p1729
+p1842
 aVUnited States of America
-p1730
+p1843
 aVColorado
-p1731
+p1844
 aVJefferson County
-p1732
-aa(lp1733
+p1845
+aVDOE
+p1846
+aa(lp1847
 S'George Harman'
-p1734
+p1848
 aS'1899'
-p1735
+p1849
 aS'Centre'
-p1736
+p1850
 aS'2'
 aS'2'
 aS'0'
@@ -4882,20 +5250,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Cork'
-p1737
+p1851
 aVRepublic of Ireland
-p1738
+p1852
 aVMunster
-p1739
+p1853
 aVCounty Cork
-p1740
-aa(lp1741
+p1854
+ag93
+aa(lp1855
 S'Tom McGown'
-p1742
+p1856
 aS'1899'
-p1743
+p1857
 aS'Forward'
-p1744
+p1858
 aS'7'
 aS'5'
 aS'2'
@@ -4903,20 +5272,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p1745
+p1859
 aVUnited Kingdom
-p1746
+p1860
 aVNorthern Ireland
-p1747
+p1861
 aVCounty Antrim
-p1748
-aa(lp1749
+p1862
+aVBelfast
+p1863
+aa(lp1864
 S'Edward Campbell'
-p1750
+p1865
 aS'1899'
-p1751
+p1866
 aS'Wing'
-p1752
+p1867
 aS'4'
 aS'2'
 aS'2'
@@ -4927,35 +5298,38 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1753
+aS's'
+aa(lp1868
 S'Gerry Doran'
-p1754
+p1869
 aS'1899'
-p1755
+p1870
 aS'Wing'
-p1756
+p1871
 aS'10'
-p1757
+p1872
 aS'4'
 aS'5'
 aS'1'
 aS'2'
 aS'6'
 aS'Dublin'
-p1758
+p1873
 aVRepublic of Ireland
-p1759
+p1874
 aVLeinster
-p1760
+p1875
 aVCounty Dublin
-p1761
-aa(lp1762
+p1876
+aVDublin
+p1877
+aa(lp1878
 S'Newry Meares'
-p1763
+p1879
 aS'1896'
-p1764
+p1880
 aS'Forward'
-p1765
+p1881
 aS'6'
 aS'3'
 aS'3'
@@ -4963,20 +5337,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newry'
-p1766
+p1882
 aVUnited Kingdom
-p1767
+p1883
 aVNorthern Ireland
-p1768
+p1884
 aVCounty Down
-p1769
-aa(lp1770
+p1885
+aVNewry
+p1886
+aa(lp1887
 S'Carl Reid'
-p1771
+p1888
 aS'1899'
-p1772
+p1889
 aS'Centre'
-p1773
+p1890
 aS'4'
 aS'2'
 aS'2'
@@ -4984,20 +5360,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Londonderry'
-p1774
+p1891
 aVUnited Kingdom
-p1775
+p1892
 aVNorthern Ireland
-p1776
+p1893
 aVCounty Londonderry
-p1777
-aa(lp1778
+p1894
+aVLondonderry
+p1895
+aa(lp1896
 S'Cecil Moriarty'
-p1779
+p1897
 aS'1899'
-p1780
+p1898
 aS'Forward'
-p1781
+p1899
 aS'1'
 aS'1'
 aS'0'
@@ -5005,64 +5383,69 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tralee'
-p1782
+p1900
 aVRepublic of Ireland
-p1783
+p1901
 aVMunster
-p1784
+p1902
 aVCounty Kerry
-p1785
-aa(lp1786
+p1903
+aVTralee
+p1904
+aa(lp1905
 S'Ellie Allen'
-p1787
+p1906
 aS'1900'
-p1788
+p1907
 aS'Forward'
-p1789
+p1908
 aS'21'
-p1790
+p1909
 aS'6'
 aS'14'
-p1791
+p1910
 aS'1'
 aS'1'
 aS'3'
 aS'Gibraltar'
-p1792
+p1911
 aVGibraltar
-p1793
-ag87
-ag87
-aa(lp1794
+p1912
+ag93
+ag93
+ag93
+aa(lp1913
 S'John Coffey'
-p1795
+p1914
 aS'1900'
-p1796
+p1915
 aS'Forward'
-p1797
+p1916
 aS'19'
-p1798
+p1917
 aS'8'
 aS'11'
-p1799
+p1918
 aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p1800
+p1919
 aVRepublic of Ireland
-p1801
+p1920
 aVLeinster
-p1802
+p1921
 aVCounty Dublin
-p1803
-aa(lp1804
+p1922
+aVDublin
+p1923
+aa(lp1924
 S'John Ferris'
-p1805
+p1925
 aS'1900'
-p1806
+p1926
 aS'Scrum-half'
-p1807
+p1927
 aS'3'
 aS'0'
 aS'2'
@@ -5073,36 +5456,38 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1808
+aS's'
+aa(lp1928
 S'Fred Gardiner'
-p1809
+p1929
 aS'1900'
-p1810
+p1930
 aS'Forward'
-p1811
+p1931
 aS'22'
-p1812
+p1932
 aS'8'
 aS'13'
-p1813
+p1933
 aS'1'
 aS'3'
 aS'15'
-p1814
+p1934
 aS'Northern Ireland'
-p1815
+p1935
 aVUnited Kingdom
-p1816
+p1936
 aVNorthern Ireland
-p1817
-ag87
-aa(lp1818
+p1937
+ag93
+ag93
+aa(lp1938
 S'Samuel Irwin'
-p1819
+p1939
 aS'1900'
-p1820
+p1940
 aS'Forward'
-p1821
+p1941
 aS'9'
 aS'2'
 aS'6'
@@ -5110,19 +5495,20 @@ aS'1'
 aS'0'
 aS'4'
 aS'Northern Ireland'
-p1822
+p1942
 aVUnited Kingdom
-p1823
+p1943
 aVNorthern Ireland
-p1824
-ag87
-aa(lp1825
+p1944
+ag93
+ag93
+aa(lp1945
 S'Percy Nicholson'
-p1826
+p1946
 aS'1900'
-p1827
+p1947
 aS'Forward'
-p1828
+p1948
 aS'3'
 aS'0'
 aS'2'
@@ -5130,20 +5516,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cork'
-p1829
+p1949
 aVRepublic of Ireland
-p1830
+p1950
 aVMunster
-p1831
+p1951
 aVCounty Cork
-p1832
-aa(lp1833
+p1952
+aVCork
+p1953
+aa(lp1954
 S'Cecil Boyd'
-p1834
+p1955
 aS'1896'
-p1835
+p1956
 aS'Fullback'
-p1836
+p1957
 aS'4'
 aS'1'
 aS'2'
@@ -5151,20 +5539,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
-p1837
+p1958
 aVRepublic of Ireland
-p1838
+p1959
 aVLeinster
-p1839
+p1960
 aVCounty Dublin
-p1840
-aa(lp1841
+p1961
+aVDublin
+p1962
+aa(lp1963
 S'Bertie Doran'
-p1842
+p1964
 aS'1900'
-p1843
+p1965
 aS'Centre'
-p1844
+p1966
 aS'8'
 aS'2'
 aS'5'
@@ -5172,20 +5562,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Dublin'
-p1845
+p1967
 aVRepublic of Ireland
-p1846
+p1968
 aVLeinster
-p1847
+p1969
 aVCounty Dublin
-p1848
-aa(lp1849
+p1970
+aVDublin
+p1971
+aa(lp1972
 S'Thomas Harvey'
-p1850
+p1973
 aS'1900'
-p1851
+p1974
 aS'Forward'
-p1852
+p1975
 aS'8'
 aS'2'
 aS'6'
@@ -5193,20 +5585,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p1853
+p1976
 aVRepublic of Ireland
-p1854
+p1977
 aVLeinster
-p1855
+p1978
 aVCounty Dublin
-p1856
-aa(lp1857
+p1979
+aVDublin
+p1980
+aa(lp1981
 S'Albert Freear'
-p1858
+p1982
 aS'1901'
-p1859
+p1983
 aS'Wing'
-p1860
+p1984
 aS'3'
 aS'1'
 aS'2'
@@ -5214,22 +5608,24 @@ aS'0'
 aS'1'
 aS'3'
 aS'Lancs'
-p1861
+p1985
 aVUnited Kingdom
-p1862
+p1986
 aVS6 3TB
-p1863
+p1987
 aVEngland
-p1864
-aa(lp1865
+p1988
+aVYorkshire and the Humber
+p1989
+aa(lp1990
 S'Patrick Healey'
-p1866
+p1991
 aS'1901'
-p1867
+p1992
 aS'Forward'
-p1868
+p1993
 aS'10'
-p1869
+p1994
 aS'3'
 aS'7'
 aS'0'
@@ -5239,13 +5635,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1870
+aS's'
+aa(lp1995
 S'Archibald Heron'
-p1871
+p1996
 aS'1901'
-p1872
+p1997
 aS'Forward'
-p1873
+p1998
 aS'1'
 aS'1'
 aS'0'
@@ -5256,13 +5653,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1874
+aS's'
+aa(lp1999
 S'Harry Irvine'
-p1875
+p2000
 aS'1901'
-p1876
+p2001
 aS'Forward'
-p1877
+p2002
 aS'1'
 aS'0'
 aS'1'
@@ -5270,20 +5668,22 @@ aS'0'
 aS'0'
 aS'2'
 aS'Belfast'
-p1878
+p2003
 aVUnited Kingdom
-p1879
+p2004
 aVNorthern Ireland
-p1880
+p2005
 aVCounty Antrim
-p1881
-aa(lp1882
+p2006
+aVBelfast
+p2007
+aa(lp2008
 S'Hugh Ferris'
-p1883
+p2009
 aS'1901'
-p1884
+p2010
 aS'Scrum-half'
-p1885
+p2011
 aS'2'
 aS'1'
 aS'1'
@@ -5291,20 +5691,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Down'
-p1886
+p2012
 aVUnited Kingdom
-p1887
+p2013
 aVNorthern Ireland
-p1888
+p2014
 aVCounty Down
-p1889
-aa(lp1890
+p2015
+ag93
+aa(lp2016
 S'Harry Corley'
-p1891
+p2017
 aS'1902'
-p1892
+p2018
 aS'Halfback'
-p1893
+p2019
 aS'8'
 aS'2'
 aS'6'
@@ -5312,20 +5713,22 @@ aS'0'
 aS'0'
 aS'5'
 aS'Dublin'
-p1894
+p2020
 aVRepublic of Ireland
-p1895
+p2021
 aVLeinster
-p1896
+p2022
 aVCounty Dublin
-p1897
-aa(lp1898
+p2023
+aVDublin
+p2024
+aa(lp2025
 S'Charles Fitzgerald'
-p1899
+p2026
 aS'1902'
-p1900
+p2027
 aS'Wing'
-p1901
+p2028
 aS'3'
 aS'1'
 aS'2'
@@ -5333,68 +5736,74 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lurgan'
-p1902
+p2029
 aVUnited Kingdom
-p1903
+p2030
 aVNorthern Ireland
-p1904
+p2031
 aVCounty Armagh
-p1905
-aa(lp1906
+p2032
+aVLurgan
+p2033
+aa(lp2034
 S'George Hamlet'
-p1907
+p2035
 aS'1902'
-p1908
+p2036
 aS'Forward'
-p1909
+p2037
 aS'30'
-p1910
+p2038
 aS'12'
-p1911
+p2039
 aS'17'
-p1912
+p2040
 aS'1'
 aS'0'
 aS'0'
 aS'Balbriggan'
-p1913
+p2041
 aVRepublic of Ireland
-p1914
+p2042
 aVLeinster
-p1915
+p2043
 aVCounty Dublin
-p1916
-aa(lp1917
+p2044
+aVFingal
+p2045
+aa(lp2046
 S'Alfred Tedford'
-p1918
+p2047
 aS'1902'
-p1919
+p2048
 aS'Forward'
-p1920
+p2049
 aS'26'
-p1921
+p2050
 aS'9'
 aS'15'
-p1922
+p2051
 aS'2'
 aS'6'
 aS'18'
-p1923
+p2052
 aS'Belfast'
-p1924
+p2053
 aVUnited Kingdom
-p1925
+p2054
 aVNorthern Ireland
-p1926
+p2055
 aVCounty Antrim
-p1927
-aa(lp1928
+p2056
+aVBelfast
+p2057
+aa(lp2058
 S'John Pringle'
-p1929
+p2059
 aS'1902'
-p1930
+p2060
 aS'Forward'
-p1931
+p2061
 aS'2'
 aS'1'
 aS'1'
@@ -5405,13 +5814,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1932
+aS's'
+aa(lp2062
 S'Henry Anderson'
-p1933
+p2063
 aS'1903'
-p1934
+p2064
 aS'Wing'
-p1935
+p2065
 aS'4'
 aS'2'
 aS'2'
@@ -5419,20 +5829,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p1936
+p2066
 aVSouth Africa
-p1937
+p2067
 aVWestern Cape
-p1938
+p2068
 aVCity of Cape Town
-p1939
-aa(lp1940
+p2069
+aVCape Town
+p2070
+aa(lp2071
 S'George Harvey'
-p1941
+p2072
 aS'1903'
-p1942
+p2073
 aS'Centre'
-p1943
+p2074
 aS'5'
 aS'4'
 aS'1'
@@ -5443,13 +5855,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1944
+aS's'
+aa(lp2075
 S'Robertson Smyth'
-p1945
+p2076
 aS'1903'
-p1946
+p2077
 aS'Forward'
-p1947
+p2078
 aS'6'
 aS'1'
 aS'3'
@@ -5457,19 +5870,20 @@ aS'2'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p1948
+p2079
 aVUnited Kingdom
-p1949
+p2080
 aVNorthern Ireland
-p1950
-ag87
-aa(lp1951
+p2081
+ag93
+ag93
+aa(lp2082
 S'David Taylor'
-p1952
+p2083
 aS'1903'
-p1953
+p2084
 aS'Centre'
-p1954
+p2085
 aS'1'
 aS'1'
 aS'0'
@@ -5480,36 +5894,39 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1955
+aS's'
+aa(lp2086
 S'James Wallace'
-p1956
+p2087
 aS'1903'
-p1957
+p2088
 aS'Forward'
-p1958
+p2089
 aS'10'
-p1959
+p2090
 aS'4'
 aS'6'
 aS'0'
 aS'4'
 aS'12'
-p1960
+p2091
 aS'Roscrea'
-p1961
+p2092
 aVRepublic of Ireland
-p1962
+p2093
 aVMunster
-p1963
+p2094
 aVCounty Tipperary
-p1964
-aa(lp1965
+p2095
+aVRoscrea
+p2096
+aa(lp2097
 S'George Bradshaw'
-p1966
+p2098
 aS'1903'
-p1967
+p2099
 aS'Wing'
-p1968
+p2100
 aS'1'
 aS'0'
 aS'1'
@@ -5517,43 +5934,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p1969
+p2101
 aVUnited Kingdom
-p1970
+p2102
 aVNorthern Ireland
-p1971
+p2103
 aVCounty Antrim
-p1972
-aa(lp1973
+p2104
+aVBelfast
+p2105
+aa(lp2106
 S'James Parke'
-p1974
+p2107
 aS'1903'
-p1975
+p2108
 aS'Centre'
-p1976
+p2109
 aS'20'
-p1977
+p2110
 aS'6'
 aS'14'
-p1978
+p2111
 aS'0'
 aS'2'
 aS'36'
-p1979
+p2112
 aS'Co Monaghan'
-p1980
+p2113
 aVRepublic of Ireland
-p1981
+p2114
 aVCounty Monaghan
-p1982
-ag87
-aa(lp1983
+p2115
+ag93
+ag93
+aa(lp2116
 S'Fred Kennedy'
-p1984
+p2117
 aS'1904'
-p1985
+p2118
 aS'Halfback'
-p1986
+p2119
 aS'2'
 aS'1'
 aS'1'
@@ -5561,20 +5981,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p1987
+p2120
 aVRepublic of Ireland
-p1988
+p2121
 aVLeinster
-p1989
+p2122
 aVCounty Dublin
-p1990
-aa(lp1991
+p2123
+aVDublin
+p2124
+aa(lp2125
 S'Campbell Robb'
-p1992
+p2126
 aS'1904'
-p1993
+p2127
 aS'Wing'
-p1994
+p2128
 aS'5'
 aS'1'
 aS'4'
@@ -5582,22 +6004,24 @@ aS'0'
 aS'1'
 aS'3'
 aS'Galway'
-p1995
+p2129
 aVRepublic of Ireland
-p1996
+p2130
 aVConnacht
-p1997
+p2131
 aVCounty Galway
-p1998
-aa(lp1999
+p2132
+aVCathair na Gaillimhe
+p2133
+aa(lp2134
 S'Thomas Robinson'
-p2000
+p2135
 aS'1904'
-p2001
+p2136
 aS'Fly-half'
-p2002
+p2137
 aS'10'
-p2003
+p2138
 aS'3'
 aS'7'
 aS'0'
@@ -5607,13 +6031,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2004
+aS's'
+aa(lp2139
 S'Joseph Wallace'
-p2005
+p2140
 aS'1903'
-p2006
+p2141
 aS'Forward'
-p2007
+p2142
 aS'5'
 aS'0'
 aS'3'
@@ -5621,64 +6046,70 @@ aS'2'
 aS'0'
 aS'0'
 aS'Roscrea'
-p2008
+p2143
 aVRepublic of Ireland
-p2009
+p2144
 aVMunster
-p2010
+p2145
 aVCounty Tipperary
-p2011
-aa(lp2012
+p2146
+aVRoscrea
+p2147
+aa(lp2148
 S'Ernest Caddell'
-p2013
+p2149
 aS'1904'
-p2014
+p2150
 aS'Scrum-half'
-p2015
+p2151
 aS'13'
-p2016
+p2152
 aS'6'
 aS'7'
 aS'0'
 aS'2'
 aS'6'
 aS'Louth'
-p2017
+p2153
 aVUnited Kingdom
-p2018
+p2154
 aVEngland
-p2019
+p2155
 aVEast Midlands
-p2020
-aa(lp2021
+p2156
+aVLincolnshire
+p2157
+aa(lp2158
 S'John Moffatt'
-p2022
+p2159
 aS'1904'
-p2023
+p2160
 aS'Wing'
-p2024
+p2161
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'4'
 aS'12'
-p2025
+p2162
 aS'Dublin'
-p2026
+p2163
 aVRepublic of Ireland
-p2027
+p2164
 aVLeinster
-p2028
+p2165
 aVCounty Dublin
-p2029
-aa(lp2030
+p2166
+aVDublin
+p2167
+aa(lp2168
 S'Reg Edwards'
-p2031
+p2169
 aS'1904'
-p2032
+p2170
 aS'Forward'
-p2033
+p2171
 aS'4'
 aS'3'
 aS'1'
@@ -5686,42 +6117,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'1882'
-p2034
+p2172
 aVSverige
-p2035
+p2173
 aVSvealand
-p2036
+p2174
 aVÖrebro län
-p2037
-aa(lp2038
+p2175
+aVLandskapet Närke
+p2176
+aa(lp2177
 S'Hercules Knox'
-p2039
+p2178
 aS'1904'
-p2040
+p2179
 aS'Forward'
-p2041
+p2180
 aS'10'
-p2042
+p2181
 aS'6'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
 aS'Mayo'
-p2043
+p2182
 aVCanada
-p2044
+p2183
 aVYukon
-p2045
+p2184
 aVMayo
-p2046
-aa(lp2047
+p2185
+ag93
+aa(lp2186
 S'Maurice Landers'
-p2048
+p2187
 aS'1904'
-p2049
+p2188
 aS'Fullback'
-p2050
+p2189
 aS'5'
 aS'3'
 aS'2'
@@ -5729,20 +6163,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p2051
+p2190
 aVRepublic of Ireland
-p2052
+p2191
 aVMunster
-p2053
+p2192
 aVCounty Cork
-p2054
-aa(lp2055
+p2193
+aVCork
+p2194
+aa(lp2195
 S'Henry Millar'
-p2056
+p2196
 aS'1904'
-p2057
+p2197
 aS'Forward'
-p2058
+p2198
 aS'4'
 aS'3'
 aS'1'
@@ -5750,90 +6186,96 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Dublin'
-p2059
+p2199
 aVRepublic of Ireland
-p2060
+p2200
 aVLeinster
-p2061
+p2201
 aVCounty Dublin
-p2062
-aa(lp2063
+p2202
+ag93
+aa(lp2203
 S'Harry Thrift'
-p2064
+p2204
 aS'1904'
-p2065
+p2205
 aS'Wing'
-p2066
+p2206
 aS'18'
-p2067
+p2207
 aS'8'
 aS'10'
-p2068
+p2208
 aS'0'
 aS'5'
 aS'15'
-p2069
+p2209
 aS'Dublin'
-p2070
+p2210
 aVRepublic of Ireland
-p2071
+p2211
 aVLeinster
-p2072
+p2212
 aVCounty Dublin
-p2073
-aa(lp2074
+p2213
+aVDublin
+p2214
+aa(lp2215
 S'Basil MacLear'
-p2075
+p2216
 aS'1905'
-p2076
+p2217
 aS'Centre'
-p2077
+p2218
 aS'11'
-p2078
+p2219
 aS'5'
 aS'6'
 aS'0'
 aS'4'
 aS'18'
-p2079
+p2220
 aS'Portsmouth'
-p2080
+p2221
 aVUnited Kingdom
-p2081
+p2222
 aVEngland
-p2082
+p2223
 aVSouth East
-p2083
-aa(lp2084
+p2224
+aVHampshire
+p2225
+aa(lp2226
 S'Hugh Wilson'
-p2085
+p2227
 aS'1905'
-p2086
+p2228
 aS'Forward'
-p2087
+p2229
 aS'18'
-p2088
+p2230
 aS'6'
 aS'12'
-p2089
+p2231
 aS'0'
 aS'0'
 aS'0'
 aS'Co Antrim'
-p2090
+p2232
 aVUnited Kingdom
-p2091
+p2233
 aVNorthern Ireland
-p2092
+p2234
 aVCounty Antrim
-p2093
-aa(lp2094
+p2235
+ag93
+aa(lp2236
 S'Harold Sugars'
-p2095
+p2237
 aS'1905'
-p2096
+p2238
 aS'Forward'
-p2097
+p2239
 aS'3'
 aS'0'
 aS'3'
@@ -5841,20 +6283,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Dungannon'
-p2098
+p2240
 aVUnited Kingdom
-p2099
+p2241
 aVNorthern Ireland
-p2100
+p2242
 aVCounty Tyrone
-p2101
-aa(lp2102
+p2243
+aVDungannon
+p2244
+aa(lp2245
 S'Francis Casement'
-p2103
+p2246
 aS'1906'
-p2104
+p2247
 aS'Centre'
-p2105
+p2248
 aS'3'
 aS'2'
 aS'1'
@@ -5865,13 +6309,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2106
+aS's'
+aa(lp2249
 S'Geoffrey Henebrey'
-p2107
+p2250
 aS'1906'
-p2108
+p2251
 aS'Fullback'
-p2109
+p2252
 aS'6'
 aS'3'
 aS'3'
@@ -5879,20 +6324,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Birkenhead'
-p2110
+p2253
 aVUnited Kingdom
-p2111
+p2254
 aVEngland
-p2112
+p2255
 aVNorth West England
-p2113
-aa(lp2114
+p2256
+aVBirkenhead
+p2257
+aa(lp2258
 S'William Purdon'
-p2115
+p2259
 aS'1906'
-p2116
+p2260
 aS'Scrum-half'
-p2117
+p2261
 aS'3'
 aS'2'
 aS'1'
@@ -5900,20 +6347,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Belfast'
-p2118
+p2262
 aVUnited Kingdom
-p2119
+p2263
 aVNorthern Ireland
-p2120
+p2264
 aVCounty Antrim
-p2121
-aa(lp2122
+p2265
+aVBelfast
+p2266
+aa(lp2267
 S'Michael White'
-p2123
+p2268
 aS'1906'
-p2124
+p2269
 aS'Forward'
-p2125
+p2270
 aS'6'
 aS'3'
 aS'3'
@@ -5924,13 +6373,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2126
+aS's'
+aa(lp2271
 S'Bertie Gotto'
-p2127
+p2272
 aS'1906'
-p2128
+p2273
 aS'Centre'
-p2129
+p2274
 aS'1'
 aS'0'
 aS'1'
@@ -5938,19 +6388,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p2130
+p2275
 aVUnited Kingdom
-p2131
+p2276
 aVNorthern Ireland
-p2132
-ag87
-aa(lp2133
+p2277
+ag93
+ag93
+aa(lp2278
 S'George McIldowie'
-p2134
+p2279
 aS'1906'
-p2135
+p2280
 aS'Forward'
-p2136
+p2281
 aS'4'
 aS'0'
 aS'3'
@@ -5958,19 +6409,20 @@ aS'1'
 aS'1'
 aS'3'
 aS'Northern Ireland'
-p2137
+p2282
 aVUnited Kingdom
-p2138
+p2283
 aVNorthern Ireland
-p2139
-ag87
-aa(lp2140
+p2284
+ag93
+ag93
+aa(lp2285
 S'William Cogan'
-p2141
+p2286
 aS'1907'
-p2142
+p2287
 aS'Forward'
-p2143
+p2288
 aS'2'
 aS'1'
 aS'1'
@@ -5978,20 +6430,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p2144
+p2289
 aVRepublic of Ireland
-p2145
+p2290
 aVMunster
-p2146
+p2291
 aVCounty Cork
-p2147
-aa(lp2148
+p2292
+aVCork
+p2293
+aa(lp2294
 S'Robert Forbes'
-p2149
+p2295
 aS'1907'
-p2150
+p2296
 aS'Forward'
-p2151
+p2297
 aS'1'
 aS'1'
 aS'0'
@@ -5999,20 +6453,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Essex'
-p2152
+p2298
 aVUnited Kingdom
-p2153
+p2299
 aVEngland
-p2154
+p2300
 aVEast of England
-p2155
-aa(lp2156
+p2301
+aVEssex
+p2302
+aa(lp2303
 S'Thomas Greeves'
-p2157
+p2304
 aS'1907'
-p2158
+p2305
 aS'Centre'
-p2159
+p2306
 aS'5'
 aS'2'
 aS'3'
@@ -6023,13 +6479,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2160
+aS's'
+aa(lp2307
 S'James Sweeney'
-p2161
+p2308
 aS'1907'
-p2162
+p2309
 aS'Forward'
-p2163
+p2310
 aS'3'
 aS'1'
 aS'2'
@@ -6037,39 +6494,41 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Donegal'
-p2164
+p2311
 aVRepublic of Ireland
-p2165
+p2312
 aVUlster
-p2166
+p2313
 aVCounty Donegal
-p2167
-aa(lp2168
+p2314
+ag93
+aa(lp2315
 S'Charles Thompson'
-p2169
+p2316
 aS'1907'
-p2170
+p2317
 aS'Wing'
-p2171
+p2318
 aS'13'
-p2172
+p2319
 aS'4'
 aS'8'
 aS'1'
 aS'5'
 aS'15'
-p2173
+p2320
 aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2174
+aS's'
+aa(lp2321
 S'Frederick Harvey'
-p2175
+p2322
 aS'1907'
-p2176
+p2323
 aS'Fullback'
-p2177
+p2324
 aS'2'
 aS'1'
 aS'1'
@@ -6077,22 +6536,23 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Meath'
-p2178
+p2325
 aVRepublic of Ireland
-p2179
+p2326
 aVLeinster
-p2180
+p2327
 aVCounty Meath
-p2181
-aa(lp2182
+p2328
+ag93
+aa(lp2329
 S'Billy Hinton'
-p2183
+p2330
 aS'1907'
-p2184
+p2331
 aS'Fullback'
-p2185
+p2332
 aS'16'
-p2186
+p2333
 aS'6'
 aS'9'
 aS'1'
@@ -6102,17 +6562,18 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2187
+aS's'
+aa(lp2334
 S'Charles Adams'
-p2188
+p2335
 aS'1908'
-p2189
+p2336
 aS'Forward'
-p2190
+p2337
 aS'16'
-p2191
+p2338
 aS'10'
-p2192
+p2339
 aS'6'
 aS'0'
 aS'1'
@@ -6121,13 +6582,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2193
+aS's'
+aa(lp2340
 S'Herbert Aston'
-p2194
+p2341
 aS'1908'
-p2195
+p2342
 aS'Halfback'
-p2196
+p2343
 aS'2'
 aS'0'
 aS'2'
@@ -6135,20 +6597,21 @@ aS'0'
 aS'1'
 aS'3'
 aS'Co.Dublin'
-p2197
+p2344
 aVRepublic of Ireland
-p2198
+p2345
 aVLeinster
-p2199
+p2346
 aVCounty Dublin
-p2200
-aa(lp2201
+p2347
+ag93
+aa(lp2348
 S'Gerald Beckett'
-p2202
+p2349
 aS'1908'
-p2203
+p2350
 aS'Centre'
-p2204
+p2351
 aS'3'
 aS'1'
 aS'2'
@@ -6159,13 +6622,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2205
+aS's'
+aa(lp2352
 S'Thomas Harpur'
-p2206
+p2353
 aS'1908'
-p2207
+p2354
 aS'Forward'
-p2208
+p2355
 aS'3'
 aS'1'
 aS'2'
@@ -6173,20 +6637,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Mountmellick'
-p2209
+p2356
 aVRepublic of Ireland
-p2210
+p2357
 aVLeinster
-p2211
+p2358
 aVCounty Laois
-p2212
-aa(lp2213
+p2359
+aVMountmellick
+p2360
+aa(lp2361
 S'Edward Morphy'
-p2214
+p2362
 aS'1908'
-p2215
+p2363
 aS'Forward'
-p2216
+p2364
 aS'1'
 aS'0'
 aS'1'
@@ -6194,20 +6660,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p2217
+p2365
 aVRepublic of Ireland
-p2218
+p2366
 aVLeinster
-p2219
+p2367
 aVCounty Dublin
-p2220
-aa(lp2221
+p2368
+aVDublin
+p2369
+aa(lp2370
 S'Frank Smartt'
-p2222
+p2371
 aS'1908'
-p2223
+p2372
 aS'Scrum-half'
-p2224
+p2373
 aS'3'
 aS'1'
 aS'2'
@@ -6218,57 +6686,61 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2225
+aS's'
+aa(lp2374
 S'Tom Smyth'
-p2226
+p2375
 aS'1908'
-p2227
+p2376
 aS'Forward'
-p2228
+p2377
 aS'16'
-p2229
+p2378
 aS'5'
 aS'10'
-p2230
+p2379
 aS'1'
 aS'2'
 aS'6'
 aS'Northern Ireland'
-p2231
+p2380
 aVUnited Kingdom
-p2232
+p2381
 aVNorthern Ireland
-p2233
-ag87
-aa(lp2234
+p2382
+ag93
+ag93
+aa(lp2383
 S'Bethel Solomons'
-p2235
+p2384
 aS'1908'
-p2236
+p2385
 aS'Forward'
-p2237
+p2386
 aS'10'
-p2238
+p2387
 aS'2'
 aS'7'
 aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
-p2239
+p2388
 aVRepublic of Ireland
-p2240
+p2389
 aVLeinster
-p2241
+p2390
 aVCounty Dublin
-p2242
-aa(lp2243
+p2391
+aVDublin
+p2392
+aa(lp2393
 S'Ernest Deane'
-p2244
+p2394
 aS'1909'
-p2245
+p2395
 aS'Wing'
-p2246
+p2396
 aS'1'
 aS'0'
 aS'1'
@@ -6276,20 +6748,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p2247
+p2397
 aVRepublic of Ireland
-p2248
+p2398
 aVMunster
-p2249
+p2399
 aVCounty Limerick
-p2250
-aa(lp2251
+p2400
+aVLimerick
+p2401
+aa(lp2402
 S'Michael Garry'
-p2252
+p2403
 aS'1909'
-p2253
+p2404
 aS'Forward'
-p2254
+p2405
 aS'7'
 aS'3'
 aS'4'
@@ -6300,13 +6774,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2255
+aS's'
+aa(lp2406
 S'Godfrey Pinion'
-p2256
+p2407
 aS'1909'
-p2257
+p2408
 aS'Fly-half'
-p2258
+p2409
 aS'4'
 aS'1'
 aS'3'
@@ -6314,19 +6789,20 @@ aS'0'
 aS'0'
 aS'2'
 aS'Northern Ireland'
-p2259
+p2410
 aVUnited Kingdom
-p2260
+p2411
 aVNorthern Ireland
-p2261
-ag87
-aa(lp2262
+p2412
+ag93
+ag93
+aa(lp2413
 S'Oliver Piper'
-p2263
+p2414
 aS'1909'
-p2264
+p2415
 aS'Forward'
-p2265
+p2416
 aS'9'
 aS'2'
 aS'6'
@@ -6334,20 +6810,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Neath'
-p2266
+p2417
 aVUnited Kingdom
-p2267
+p2418
 aVWales
-p2268
+p2419
 aVWest Glamorgan
-p2269
-aa(lp2270
+p2420
+aVNeath
+p2421
+aa(lp2422
 S'John Blackham'
-p2271
+p2423
 aS'1909'
-p2272
+p2424
 aS'Hooker'
-p2273
+p2425
 aS'6'
 aS'1'
 aS'4'
@@ -6355,22 +6833,24 @@ aS'1'
 aS'0'
 aS'0'
 aS"Queen's Co."
-p2274
+p2426
 aVUnited States of America
-p2275
+p2427
 aVNew York
-p2276
+p2428
 aVNYC
-p2277
-aa(lp2278
+p2429
+aVQueens County
+p2430
+aa(lp2431
 S'Thomas Halpin'
-p2279
+p2432
 aS'1909'
-p2280
+p2433
 aS'Forward'
-p2281
+p2434
 aS'13'
-p2282
+p2435
 aS'6'
 aS'6'
 aS'1'
@@ -6380,13 +6860,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2283
+aS's'
+aa(lp2436
 S'Richard Magrath'
-p2284
+p2437
 aS'1909'
-p2285
+p2438
 aS'Wing'
-p2286
+p2439
 aS'1'
 aS'0'
 aS'1'
@@ -6394,20 +6875,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork City'
-p2287
+p2440
 aVRepublic of Ireland
-p2288
+p2441
 aVMunster
-p2289
+p2442
 aVCounty Cork
-p2290
-aa(lp2291
+p2443
+aVCork
+p2444
+aa(lp2445
 S'Frederick McCormac'
-p2292
+p2446
 aS'1909'
-p2293
+p2447
 aS'Scrum-half'
-p2294
+p2448
 aS'3'
 aS'1'
 aS'2'
@@ -6415,20 +6898,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dalkey'
-p2295
+p2449
 aVRepublic of Ireland
-p2296
+p2450
 aVLeinster
-p2297
+p2451
 aVCounty Dublin
-p2298
-aa(lp2299
+p2452
+aVDún Laoghaire-Rathdown
+p2453
+aa(lp2454
 S"Jack O'Connor"
-p2300
+p2455
 aS'1909'
-p2301
+p2456
 aS'Scrum-half'
-p2302
+p2457
 aS'1'
 aS'1'
 aS'0'
@@ -6439,105 +6924,113 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2303
+aS's'
+aa(lp2458
 S'Alexander Foster'
-p2304
+p2459
 aS'1910'
-p2305
+p2460
 aS'Centre'
-p2306
+p2461
 aS'19'
-p2307
+p2462
 aS'10'
-p2308
+p2463
 aS'8'
 aS'1'
 aS'5'
 aS'15'
-p2309
+p2464
 aS'Northern Ireland'
-p2310
+p2465
 aVUnited Kingdom
-p2311
+p2466
 aVNorthern Ireland
-p2312
-ag87
-aa(lp2313
+p2467
+ag93
+ag93
+aa(lp2468
 S'Dickie Lloyd'
-p2314
+p2469
 aS'1910'
-p2315
+p2470
 aS'Fly-half'
-p2316
+p2471
 aS'19'
-p2317
+p2472
 aS'8'
 aS'10'
-p2318
+p2473
 aS'1'
 aS'2'
 aS'75'
-p2319
+p2474
 aS'Tyrone'
-p2320
+p2475
 aVUnited States of America
-p2321
+p2476
 aVpenna
-p2322
+p2477
 aVBlair County
-p2323
-aa(lp2324
+p2478
+aVTyrone
+p2479
+aa(lp2480
 S'Joseph Quinn'
-p2325
+p2481
 aS'1910'
-p2326
+p2482
 aS'Wing'
-p2327
+p2483
 aS'15'
-p2328
+p2484
 aS'8'
 aS'6'
 aS'1'
 aS'9'
 aS'27'
-p2329
+p2485
 aS'Dublin'
-p2330
+p2486
 aVRepublic of Ireland
-p2331
+p2487
 aVLeinster
-p2332
+p2488
 aVCounty Dublin
-p2333
-aa(lp2334
+p2489
+aVDublin
+p2490
+aa(lp2491
 S'Harry Read'
-p2335
+p2492
 aS'1910'
-p2336
+p2493
 aS'Scrum-half'
-p2337
+p2494
 aS'13'
-p2338
+p2495
 aS'6'
 aS'6'
 aS'1'
 aS'0'
 aS'0'
 aS'Tipperary'
-p2339
+p2496
 aVRepublic of Ireland
-p2340
+p2497
 aVMunster
-p2341
+p2498
 aVCounty Tipperary
-p2342
-aa(lp2343
+p2499
+aVTipperary
+p2500
+aa(lp2501
 S'William Riordan'
-p2344
+p2502
 aS'1910'
-p2345
+p2503
 aS'Forward'
-p2346
+p2504
 aS'1'
 aS'0'
 aS'0'
@@ -6548,13 +7041,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2347
+aS's'
+aa(lp2505
 S'Alfred Taylor'
-p2348
+p2506
 aS'1910'
-p2349
+p2507
 aS'Centre'
-p2350
+p2508
 aS'4'
 aS'1'
 aS'2'
@@ -6562,20 +7056,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Belfast'
-p2351
+p2509
 aVUnited Kingdom
-p2352
+p2510
 aVNorthern Ireland
-p2353
+p2511
 aVCounty Antrim
-p2354
-aa(lp2355
+p2512
+aVBelfast
+p2513
+aa(lp2514
 S'Herbert Moore'
-p2356
+p2515
 aS'1910'
-p2357
+p2516
 aS'Forward'
-p2358
+p2517
 aS'8'
 aS'4'
 aS'4'
@@ -6583,19 +7079,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p2359
+p2518
 aVUnited Kingdom
-p2360
+p2519
 aVNorthern Ireland
-p2361
-ag87
-aa(lp2362
+p2520
+ag93
+ag93
+aa(lp2521
 S'Robert Lyle'
-p2363
+p2522
 aS'1910'
-p2364
+p2523
 aS'Centre'
-p2365
+p2524
 aS'2'
 aS'1'
 aS'1'
@@ -6606,13 +7103,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2366
+aS's'
+aa(lp2525
 S'Arthur McClinton'
-p2367
+p2526
 aS'1910'
-p2368
+p2527
 aS'Fly-half'
-p2369
+p2528
 aS'2'
 aS'1'
 aS'1'
@@ -6620,19 +7118,20 @@ aS'0'
 aS'0'
 aS'2'
 aS'Northern Ireland'
-p2370
+p2529
 aVUnited Kingdom
-p2371
+p2530
 aVNorthern Ireland
-p2372
-ag87
-aa(lp2373
+p2531
+ag93
+ag93
+aa(lp2532
 S"Cyril O'Callaghan"
-p2374
+p2533
 aS'1910'
-p2375
+p2534
 aS'Wing'
-p2376
+p2535
 aS'7'
 aS'5'
 aS'2'
@@ -6640,20 +7139,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Carlow'
-p2377
+p2536
 aVRepublic of Ireland
-p2378
+p2537
 aVLeinster
-p2379
+p2538
 aVCounty Carlow
-p2380
-aa(lp2381
+p2539
+aVCarlow
+p2540
+aa(lp2541
 S'William Smyth'
-p2382
+p2542
 aS'1910'
-p2383
+p2543
 aS'Forward'
-p2384
+p2544
 aS'3'
 aS'1'
 aS'2'
@@ -6661,20 +7162,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Antrim'
-p2385
+p2545
 aVUnited Kingdom
-p2386
+p2546
 aVNorthern Ireland
-p2387
+p2547
 aVCounty Antrim
-p2388
-aa(lp2389
+p2548
+ag93
+aa(lp2549
 S'William Beatty'
-p2390
+p2550
 aS'1910'
-p2391
+p2551
 aS'Prop'
-p2392
+p2552
 aS'3'
 aS'3'
 aS'0'
@@ -6682,20 +7184,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Down'
-p2393
+p2553
 aVUnited Kingdom
-p2394
+p2554
 aVNorthern Ireland
-p2395
+p2555
 aVCounty Down
-p2396
-aa(lp2397
+p2556
+ag93
+aa(lp2557
 S'William Tyrrell'
-p2398
+p2558
 aS'1910'
-p2399
+p2559
 aS'Forward'
-p2400
+p2560
 aS'9'
 aS'4'
 aS'5'
@@ -6703,42 +7206,46 @@ aS'0'
 aS'3'
 aS'9'
 aS'Belfast'
-p2401
+p2561
 aVUnited Kingdom
-p2402
+p2562
 aVNorthern Ireland
-p2403
+p2563
 aVCounty Antrim
-p2404
-aa(lp2405
+p2564
+aVBelfast
+p2565
+aa(lp2566
 S'Samuel Campbell'
-p2406
+p2567
 aS'1911'
-p2407
+p2568
 aS'Forward'
-p2408
+p2569
 aS'12'
-p2409
+p2570
 aS'7'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'1889'
-p2410
+p2571
 aVUnited States of America
-p2411
+p2572
 aVNorth Carolina
-p2412
+p2573
 aVHaywood County
-p2413
-aa(lp2414
+p2574
+aVCruso
+p2575
+aa(lp2576
 S'Michael Heffernan'
-p2415
+p2577
 aS'1911'
-p2416
+p2578
 aS'Forward'
-p2417
+p2579
 aS'4'
 aS'3'
 aS'1'
@@ -6749,35 +7256,38 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2418
+aS's'
+aa(lp2580
 S'Alexander Jackson'
-p2419
+p2581
 aS'1911'
-p2420
+p2582
 aS'Centre'
-p2421
+p2583
 aS'10'
-p2422
+p2584
 aS'6'
 aS'4'
 aS'0'
 aS'3'
 aS'9'
 aS'Dublin'
-p2423
+p2585
 aVRepublic of Ireland
-p2424
+p2586
 aVLeinster
-p2425
+p2587
 aVCounty Dublin
-p2426
-aa(lp2427
+p2588
+aVDublin
+p2589
+aa(lp2590
 S'James Smyth'
-p2428
+p2591
 aS'1911'
-p2429
+p2592
 aS'Forward'
-p2430
+p2593
 aS'3'
 aS'3'
 aS'0'
@@ -6785,20 +7295,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Antrim'
-p2431
+p2594
 aVUnited Kingdom
-p2432
+p2595
 aVNorthern Ireland
-p2433
+p2596
 aVCounty Antrim
-p2434
-aa(lp2435
+p2597
+ag93
+aa(lp2598
 S'Richard Graham'
-p2436
+p2599
 aS'1911'
-p2437
+p2600
 aS'Fullback'
-p2438
+p2601
 aS'1'
 aS'1'
 aS'0'
@@ -6809,13 +7320,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2439
+aS's'
+aa(lp2602
 S'William Edwards'
-p2440
+p2603
 aS'1912'
-p2441
+p2604
 aS'Forward'
-p2442
+p2605
 aS'2'
 aS'1'
 aS'1'
@@ -6823,19 +7335,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p2443
+p2606
 aVUnited Kingdom
-p2444
+p2607
 aVNorthern Ireland
-p2445
-ag87
-aa(lp2446
+p2608
+ag93
+ag93
+aa(lp2609
 S'Robert Hemphill'
-p2447
+p2610
 aS'1912'
-p2448
+p2611
 aS'Forward'
-p2449
+p2612
 aS'4'
 aS'3'
 aS'1'
@@ -6846,13 +7359,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2450
+aS's'
+aa(lp2613
 S'George McConnell'
-p2451
+p2614
 aS'1912'
-p2452
+p2615
 aS'Forward'
-p2453
+p2616
 aS'4'
 aS'2'
 aS'2'
@@ -6860,20 +7374,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Donegal'
-p2454
+p2617
 aVRepublic of Ireland
-p2455
+p2618
 aVUlster
-p2456
+p2619
 aVCounty Donegal
-p2457
-aa(lp2458
+p2620
+ag93
+aa(lp2621
 S'Charles MacIvor'
-p2459
+p2622
 aS'1912'
-p2460
+p2623
 aS'Wing'
-p2461
+p2624
 aS'7'
 aS'4'
 aS'3'
@@ -6881,20 +7396,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'West Indies'
-p2462
+p2625
 aVNederland
-p2463
+p2626
 aV0000NA
-p2464
+p2627
 aVCuraçao
-p2465
-aa(lp2466
+p2628
+aVWillemstad
+p2629
+aa(lp2630
 S"d'Arcy Patterson"
-p2467
+p2631
 aS'1912'
-p2468
+p2632
 aS'Forward'
-p2469
+p2633
 aS'8'
 aS'4'
 aS'4'
@@ -6902,20 +7419,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Belfast'
-p2470
+p2634
 aVUnited Kingdom
-p2471
+p2635
 aVNorthern Ireland
-p2472
+p2636
 aVCounty Antrim
-p2473
-aa(lp2474
+p2637
+aVBelfast
+p2638
+aa(lp2639
 S'Myley Abraham'
-p2475
+p2640
 aS'1912'
-p2476
+p2641
 aS'Centre'
-p2477
+p2642
 aS'5'
 aS'2'
 aS'3'
@@ -6923,42 +7442,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p2478
+p2643
 aVRepublic of Ireland
-p2479
+p2644
 aVLeinster
-p2480
+p2645
 aVCounty Dublin
-p2481
-aa(lp2482
+p2646
+aVDublin
+p2647
+aa(lp2648
 S'George Killeen'
-p2483
+p2649
 aS'1912'
-p2484
+p2650
 aS'Forward'
-p2485
+p2651
 aS'10'
-p2486
+p2652
 aS'4'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Co Clare'
-p2487
+p2653
 aVRepublic of Ireland
-p2488
+p2654
 aVMunster
-p2489
+p2655
 aVCounty Clare
-p2490
-aa(lp2491
+p2656
+ag93
+aa(lp2657
 S'George Brown'
-p2492
+p2658
 aS'1912'
-p2493
+p2659
 aS'Prop'
-p2494
+p2660
 aS'3'
 aS'2'
 aS'1'
@@ -6966,20 +7488,21 @@ aS'0'
 aS'1'
 aS'3'
 aS'Co.Kilkenny'
-p2495
+p2661
 aVRepublic of Ireland
-p2496
+p2662
 aVLeinster
-p2497
+p2663
 aVCounty Kilkenny
-p2498
-aa(lp2499
+p2664
+ag93
+aa(lp2665
 S'Robin Wright'
-p2500
+p2666
 aS'1912'
-p2501
+p2667
 aS'Fullback'
-p2502
+p2668
 aS'1'
 aS'1'
 aS'0'
@@ -6990,13 +7513,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2503
+aS's'
+aa(lp2669
 S'Robert Burgess'
-p2504
+p2670
 aS'1912'
-p2505
+p2671
 aS'Forward'
-p2506
+p2672
 aS'1'
 aS'0'
 aS'1'
@@ -7007,13 +7531,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2507
+aS's'
+aa(lp2673
 S'John Clune'
-p2508
+p2674
 aS'1912'
-p2509
+p2675
 aS'Lock'
-p2510
+p2676
 aS'6'
 aS'2'
 aS'4'
@@ -7021,20 +7546,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p2511
+p2677
 aVRepublic of Ireland
-p2512
+p2678
 aVMunster
-p2513
+p2679
 aVCounty Limerick
-p2514
-aa(lp2515
+p2680
+aVLimerick
+p2681
+aa(lp2682
 S'George Holmes'
-p2516
+p2683
 aS'1912'
-p2517
+p2684
 aS'Centre'
-p2518
+p2685
 aS'3'
 aS'0'
 aS'3'
@@ -7042,20 +7569,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rathmines'
-p2519
+p2686
 aVRepublic of Ireland
-p2520
+p2687
 aVLeinster
-p2521
+p2688
 aVCounty Dublin
-p2522
-aa(lp2523
+p2689
+aVDublin
+p2690
+aa(lp2691
 S'John Minch'
-p2524
+p2692
 aS'1912'
-p2525
+p2693
 aS'Centre'
-p2526
+p2694
 aS'5'
 aS'1'
 aS'4'
@@ -7063,20 +7592,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Kildare'
-p2527
+p2695
 aVRepublic of Ireland
-p2528
+p2696
 aVLeinster
-p2529
+p2697
 aVCounty Kildare
-p2530
-aa(lp2531
+p2698
+ag93
+aa(lp2699
 S'Geoffrey Schute'
-p2532
+p2700
 aS'1912'
-p2533
+p2701
 aS'Forward'
-p2534
+p2702
 aS'3'
 aS'0'
 aS'3'
@@ -7084,20 +7614,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dublin North'
-p2535
+p2703
 aVUnited States of America
-p2536
+p2704
 aVNew York
-p2537
+p2705
 aVSeneca County
-p2538
-aa(lp2539
+p2706
+aVDublin
+p2707
+aa(lp2708
 S'Charles Stuart'
-p2540
+p2709
 aS'1912'
-p2541
+p2710
 aS'Fullback'
-p2542
+p2711
 aS'1'
 aS'0'
 aS'1'
@@ -7108,13 +7640,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2543
+aS's'
+aa(lp2712
 S'Richard Watson'
-p2544
+p2713
 aS'1912'
-p2545
+p2714
 aS'Wing'
-p2546
+p2715
 aS'1'
 aS'0'
 aS'1'
@@ -7125,13 +7658,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2547
+aS's'
+aa(lp2716
 S'James Finlay'
-p2548
+p2717
 aS'1913'
-p2549
+p2718
 aS'Forward'
-p2550
+p2719
 aS'6'
 aS'0'
 aS'6'
@@ -7139,19 +7673,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p2551
+p2720
 aVUnited Kingdom
-p2552
+p2721
 aVNorthern Ireland
-p2553
-ag87
-aa(lp2554
+p2722
+ag93
+ag93
+aa(lp2723
 S'Ernest Jeffares'
-p2555
+p2724
 aS'1913'
-p2556
+p2725
 aS'Forward'
-p2557
+p2726
 aS'2'
 aS'0'
 aS'2'
@@ -7159,43 +7694,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p2558
+p2727
 aVRepublic of Ireland
-p2559
+p2728
 aVLeinster
-p2560
+p2729
 aVCounty Dublin
-p2561
-aa(lp2562
+p2730
+aVDublin
+p2731
+aa(lp2732
 S'Patrick Stokes'
-p2563
+p2733
 aS'1913'
-p2564
+p2734
 aS'Flanker'
-p2565
+p2735
 aS'12'
-p2566
+p2736
 aS'3'
 aS'9'
 aS'0'
 aS'4'
 aS'12'
-p2567
+p2737
 aS'Tipperary'
-p2568
+p2738
 aVRepublic of Ireland
-p2569
+p2739
 aVMunster
-p2570
+p2740
 aVCounty Tipperary
-p2571
-aa(lp2572
+p2741
+aVTipperary
+p2742
+aa(lp2743
 S'Gordon Young'
-p2573
+p2744
 aS'1913'
-p2574
+p2745
 aS'Fullback'
-p2575
+p2746
 aS'1'
 aS'0'
 aS'1'
@@ -7203,20 +7742,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p2576
+p2747
 aVRepublic of Ireland
-p2577
+p2748
 aVMunster
-p2578
+p2749
 aVCounty Cork
-p2579
-aa(lp2580
+p2750
+aVCork
+p2751
+aa(lp2752
 S'Frank Bennett'
-p2581
+p2753
 aS'1913'
-p2582
+p2754
 aS'Wing'
-p2583
+p2755
 aS'1'
 aS'0'
 aS'1'
@@ -7224,20 +7765,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Clonakilty'
-p2584
+p2756
 aVRepublic of Ireland
-p2585
+p2757
 aVMunster
-p2586
+p2758
 aVCounty Cork
-p2587
-aa(lp2588
+p2759
+aVClonakilty
+p2760
+aa(lp2761
 S'J.W. McConnell'
-p2589
+p2762
 aS'1913'
-p2590
+p2763
 aS'Fullback'
-p2591
+p2764
 aS'1'
 aS'0'
 aS'1'
@@ -7248,13 +7791,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2592
+aS's'
+aa(lp2765
 S"Patrick O'Connell"
-p2593
+p2766
 aS'1913'
-p2594
+p2767
 aS'Forward'
-p2595
+p2768
 aS'6'
 aS'3'
 aS'3'
@@ -7262,20 +7806,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Tipperary'
-p2596
+p2769
 aVRepublic of Ireland
-p2597
+p2770
 aVMunster
-p2598
+p2771
 aVCounty Tipperary
-p2599
-aa(lp2600
+p2772
+ag93
+aa(lp2773
 S'Stanhope Polden'
-p2601
+p2774
 aS'1913'
-p2602
+p2775
 aS'Scrum-half'
-p2603
+p2776
 aS'4'
 aS'2'
 aS'2'
@@ -7283,20 +7828,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p2604
+p2777
 aVRepublic of Ireland
-p2605
+p2778
 aVLeinster
-p2606
+p2779
 aVCounty Dublin
-p2607
-aa(lp2608
+p2780
+aVDublin
+p2781
+aa(lp2782
 S'Albert Stewart'
-p2609
+p2783
 aS'1913'
-p2610
+p2784
 aS'Centre'
-p2611
+p2785
 aS'3'
 aS'2'
 aS'1'
@@ -7304,20 +7851,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Belfast'
-p2612
+p2786
 aVUnited Kingdom
-p2613
+p2787
 aVNorthern Ireland
-p2614
+p2788
 aVCounty Antrim
-p2615
-aa(lp2616
+p2789
+aVBelfast
+p2790
+aa(lp2791
 S'Andrew Todd'
-p2617
+p2792
 aS'1913'
-p2618
+p2793
 aS'Fullback'
-p2619
+p2794
 aS'3'
 aS'2'
 aS'1'
@@ -7328,13 +7877,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2620
+aS's'
+aa(lp2795
 S'George Wood'
-p2621
+p2796
 aS'1913'
-p2622
+p2797
 aS'Wing'
-p2623
+p2798
 aS'2'
 aS'1'
 aS'1'
@@ -7342,43 +7892,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Mayo'
-p2624
+p2799
 aVRepublic of Ireland
-p2625
+p2800
 aVConnacht
-p2626
+p2801
 aVCounty Mayo
-p2627
-aa(lp2628
+p2802
+ag93
+aa(lp2803
 S'William Collopy'
-p2629
+p2804
 aS'1914'
-p2630
+p2805
 aS'Prop'
-p2631
+p2806
 aS'19'
-p2632
+p2807
 aS'7'
 aS'12'
-p2633
+p2808
 aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p2634
+p2809
 aVRepublic of Ireland
-p2635
+p2810
 aVLeinster
-p2636
+p2811
 aVCounty Dublin
-p2637
-aa(lp2638
+p2812
+aVDublin
+p2813
+aa(lp2814
 S'John Dowse'
-p2639
+p2815
 aS'1914'
-p2640
+p2816
 aS'Forward'
-p2641
+p2817
 aS'3'
 aS'2'
 aS'1'
@@ -7386,20 +7939,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Dublin'
-p2642
+p2818
 aVRepublic of Ireland
-p2643
+p2819
 aVLeinster
-p2644
+p2820
 aVCounty Dublin
-p2645
-aa(lp2646
+p2821
+ag93
+aa(lp2822
 S'Jack Parr'
-p2647
+p2823
 aS'1914'
-p2648
+p2824
 aS'Flanker'
-p2649
+p2825
 aS'4'
 aS'2'
 aS'2'
@@ -7410,13 +7964,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2650
+aS's'
+aa(lp2826
 S'Vincent McNamara'
-p2651
+p2827
 aS'1914'
-p2652
+p2828
 aS'Scrum-half'
-p2653
+p2829
 aS'3'
 aS'1'
 aS'2'
@@ -7424,20 +7979,21 @@ aS'0'
 aS'1'
 aS'3'
 aS'Co Cork'
-p2654
+p2830
 aVRepublic of Ireland
-p2655
+p2831
 aVMunster
-p2656
+p2832
 aVCounty Cork
-p2657
-aa(lp2658
+p2833
+ag93
+aa(lp2834
 S'Frank Montgomery'
-p2659
+p2835
 aS'1914'
-p2660
+p2836
 aS'Fullback'
-p2661
+p2837
 aS'3'
 aS'1'
 aS'2'
@@ -7445,20 +8001,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p2662
+p2838
 aVUnited Kingdom
-p2663
+p2839
 aVNorthern Ireland
-p2664
+p2840
 aVCounty Antrim
-p2665
-aa(lp2666
+p2841
+aVBelfast
+p2842
+aa(lp2843
 S'James Taylor'
-p2667
+p2844
 aS'1914'
-p2668
+p2845
 aS'Forward'
-p2669
+p2846
 aS'3'
 aS'1'
 aS'2'
@@ -7466,20 +8024,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Londonderry'
-p2670
+p2847
 aVUnited Kingdom
-p2671
+p2848
 aVNorthern Ireland
-p2672
+p2849
 aVCounty Londonderry
-p2673
-aa(lp2674
+p2850
+aVLondonderry
+p2851
+aa(lp2852
 S'Henry Jack'
-p2675
+p2853
 aS'1914'
-p2676
+p2854
 aS'Fly-half'
-p2677
+p2855
 aS'3'
 aS'1'
 aS'2'
@@ -7487,20 +8047,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p2678
+p2856
 aVRepublic of Ireland
-p2679
+p2857
 aVMunster
-p2680
+p2858
 aVCounty Cork
-p2681
-aa(lp2682
+p2859
+aVCork
+p2860
+aa(lp2861
 S'Jasper Brett'
-p2683
+p2862
 aS'1914'
-p2684
+p2863
 aS'Wing'
-p2685
+p2864
 aS'1'
 aS'0'
 aS'1'
@@ -7508,20 +8070,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kingstown'
-p2686
+p2865
 aVSaint Vincent and the Grenadines
-p2687
+p2866
 aVSaint George
-p2688
+p2867
 aVKingstown
-p2689
-aa(lp2690
+p2868
+ag93
+aa(lp2869
 S'Charles Bryant'
-p2691
+p2870
 aS'1920'
-p2692
+p2871
 aS'Wing'
-p2693
+p2872
 aS'2'
 aS'0'
 aS'2'
@@ -7529,20 +8092,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Penarth'
-p2694
+p2873
 aVUnited Kingdom
-p2695
+p2874
 aVCF64
-p2696
+p2875
 aVWales
-p2697
-aa(lp2698
+p2876
+aVVale of Glamorgan
+p2877
+aa(lp2878
 S'Nick Butler'
-p2699
+p2879
 aS'1920'
-p2700
+p2880
 aS'Prop'
-p2701
+p2881
 aS'1'
 aS'0'
 aS'1'
@@ -7550,20 +8115,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p2702
+p2882
 aVRepublic of Ireland
-p2703
+p2883
 aVMunster
-p2704
+p2884
 aVCounty Limerick
-p2705
-aa(lp2706
+p2885
+aVLimerick
+p2886
+aa(lp2887
 S'Henry Coulter'
-p2707
+p2888
 aS'1920'
-p2708
+p2889
 aS'Hooker'
-p2709
+p2890
 aS'3'
 aS'0'
 aS'3'
@@ -7571,50 +8138,53 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Down'
-p2710
+p2891
 aVUnited Kingdom
-p2711
+p2892
 aVNorthern Ireland
-p2712
+p2893
 aVCounty Down
-p2713
-aa(lp2714
+p2894
+ag93
+aa(lp2895
 S'William Crawford'
-p2715
+p2896
 aS'1920'
-p2716
+p2897
 aS'Fullback'
-p2717
+p2898
 aS'30'
-p2718
+p2899
 aS'12'
-p2719
+p2900
 aS'17'
-p2720
+p2901
 aS'1'
 aS'0'
 aS'18'
-p2721
+p2902
 aS'Belfast'
-p2722
+p2903
 aVUnited Kingdom
-p2723
+p2904
 aVNorthern Ireland
-p2724
+p2905
 aVCounty Antrim
-p2725
-aa(lp2726
+p2906
+aVBelfast
+p2907
+aa(lp2908
 S'Robert Crichton'
-p2727
+p2909
 aS'1920'
-p2728
+p2910
 aS'Lock'
-p2729
+p2911
 aS'15'
-p2730
+p2912
 aS'3'
 aS'11'
-p2731
+p2913
 aS'1'
 aS'0'
 aS'0'
@@ -7622,13 +8192,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2732
+aS's'
+aa(lp2914
 S'William Cullen'
-p2733
+p2915
 aS'1920'
-p2734
+p2916
 aS'Centre'
-p2735
+p2917
 aS'1'
 aS'0'
 aS'1'
@@ -7636,17 +8207,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Balghupar'
-p2736
+p2918
 aS'g'
 aS'n'
 aS'i'
-aa(lp2737
+aS's'
+aa(lp2919
 S'James Dickson'
-p2738
+p2920
 aS'1920'
-p2739
+p2921
 aS'Wing'
-p2740
+p2922
 aS'3'
 aS'0'
 aS'3'
@@ -7654,20 +8226,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Enniskillen'
-p2741
+p2923
 aVUnited Kingdom
-p2742
+p2924
 aVNorthern Ireland
-p2743
+p2925
 aVCounty Fermanagh
-p2744
-aa(lp2745
+p2926
+aVEnniskillen
+p2927
+aa(lp2928
 S'George Doherty'
-p2746
+p2929
 aS'1920'
-p2747
+p2930
 aS'Lock'
-p2748
+p2931
 aS'7'
 aS'1'
 aS'6'
@@ -7675,20 +8249,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wandsworth'
-p2749
+p2932
 aVUnited Kingdom
-p2750
+p2933
 aVEngland
-p2751
+p2934
 aVGreater London
-p2752
-aa(lp2753
+p2935
+aVLondon
+p2936
+aa(lp2937
 S'Arthur Horan'
-p2754
+p2938
 aS'1920'
-p2755
+p2939
 aS'Scrum-half'
-p2756
+p2940
 aS'2'
 aS'0'
 aS'2'
@@ -7696,20 +8272,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'London'
-p2757
+p2941
 aVUnited Kingdom
-p2758
+p2942
 aVEngland
-p2759
+p2943
 aVGreater London
-p2760
-aa(lp2761
+p2944
+aVLondon
+p2945
+aa(lp2946
 S'William Roche'
-p2762
+p2947
 aS'1920'
-p2763
+p2948
 aS'No. 8'
-p2764
+p2949
 aS'3'
 aS'0'
 aS'3'
@@ -7717,20 +8295,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p2765
+p2950
 aVRepublic of Ireland
-p2766
+p2951
 aVMunster
-p2767
+p2952
 aVCounty Limerick
-p2768
-aa(lp2769
+p2953
+aVLimerick
+p2954
+aa(lp2955
 S'Thomas Wallace'
-p2770
+p2956
 aS'1920'
-p2771
+p2957
 aS'Centre'
-p2772
+p2958
 aS'3'
 aS'0'
 aS'3'
@@ -7738,17 +8318,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ballymayo'
-p2773
+p2959
 aS'g'
 aS'n'
 aS'i'
-aa(lp2774
+aS's'
+aa(lp2960
 S'Andy Courtney'
-p2775
+p2961
 aS'1920'
-p2776
+p2962
 aS'Prop'
-p2777
+p2963
 aS'7'
 aS'1'
 aS'6'
@@ -7756,20 +8337,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nenagh'
-p2778
+p2964
 aVRepublic of Ireland
-p2779
+p2965
 aVMunster
-p2780
+p2966
 aVCounty Tipperary
-p2781
-aa(lp2782
+p2967
+aVNenagh
+p2968
+aa(lp2969
 S'William Duggan'
-p2783
+p2970
 aS'1920'
-p2784
+p2971
 aS'Centre'
-p2785
+p2972
 aS'2'
 aS'0'
 aS'2'
@@ -7777,20 +8360,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p2786
+p2973
 aVRepublic of Ireland
-p2787
+p2974
 aVMunster
-p2788
+p2975
 aVCounty Cork
-p2789
-aa(lp2790
+p2976
+aVCork
+p2977
+aa(lp2978
 S'Basil McFarland'
-p2791
+p2979
 aS'1920'
-p2792
+p2980
 aS'Wing'
-p2793
+p2981
 aS'4'
 aS'0'
 aS'4'
@@ -7798,19 +8383,20 @@ aS'0'
 aS'0'
 aS'4'
 aS'Northern Ireland'
-p2794
+p2982
 aVUnited Kingdom
-p2795
+p2983
 aVNorthern Ireland
-p2796
-ag87
-aa(lp2797
+p2984
+ag93
+ag93
+aa(lp2985
 S"James O'Neill"
-p2798
+p2986
 aS'1920'
-p2799
+p2987
 aS'Scrum-half'
-p2800
+p2988
 aS'1'
 aS'0'
 aS'1'
@@ -7818,20 +8404,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p2801
+p2989
 aVUnited Kingdom
-p2802
+p2990
 aVNorthern Ireland
-p2803
+p2991
 aVCounty Antrim
-p2804
-aa(lp2805
+p2992
+aVBelfast
+p2993
+aa(lp2994
 S'Alfred Price'
-p2806
+p2995
 aS'1920'
-p2807
+p2996
 aS'Prop'
-p2808
+p2997
 aS'2'
 aS'0'
 aS'2'
@@ -7839,20 +8427,21 @@ aS'0'
 aS'1'
 aS'3'
 aS'Co Kerry'
-p2809
+p2998
 aVRepublic of Ireland
-p2810
+p2999
 aVMunster
-p2811
+p3000
 aVCounty Kerry
-p2812
-aa(lp2813
+p3001
+ag93
+aa(lp3002
 S'Patrick Roddy'
-p2814
+p3003
 aS'1920'
-p2815
+p3004
 aS'Centre'
-p2816
+p3005
 aS'2'
 aS'0'
 aS'2'
@@ -7863,36 +8452,39 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2817
+aS's'
+aa(lp3006
 S'Michael Bradley'
-p2818
+p3007
 aS'1920'
-p2819
+p3008
 aS'Prop'
-p2820
+p3009
 aS'19'
-p2821
+p3010
 aS'9'
 aS'10'
-p2822
+p3011
 aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p2823
+p3012
 aVRepublic of Ireland
-p2824
+p3013
 aVMunster
-p2825
+p3014
 aVCounty Cork
-p2826
-aa(lp2827
+p3015
+aVCork
+p3016
+aa(lp3017
 S'Bill Cunningham'
-p2828
+p3018
 aS'1920'
-p2829
+p3019
 aS'Fly-half'
-p2830
+p3020
 aS'9'
 aS'2'
 aS'6'
@@ -7900,20 +8492,22 @@ aS'1'
 aS'2'
 aS'6'
 aS'1900'
-p2831
+p3021
 aVArgentina
-p2832
+p3022
 aV1900
-p2833
+p3023
 aVBA
-p2834
-aa(lp2835
+p3024
+aVPartido de La Plata
+p3025
+aa(lp3026
 S'Norman Potterton'
-p2836
+p3027
 aS'1920'
-p2837
+p3028
 aS'No. 8'
-p2838
+p3029
 aS'1'
 aS'0'
 aS'1'
@@ -7921,20 +8515,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p2839
+p3030
 aVRepublic of Ireland
-p2840
+p3031
 aVLeinster
-p2841
+p3032
 aVCounty Dublin
-p2842
-aa(lp2843
+p3033
+aVDublin
+p3034
+aa(lp3035
 S'Declan Browne'
-p2844
+p3036
 aS'1920'
-p2845
+p3037
 aS'Hooker'
-p2846
+p3038
 aS'1'
 aS'0'
 aS'1'
@@ -7945,13 +8541,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2847
+aS's'
+aa(lp3039
 S'John Smyth'
-p2848
+p3040
 aS'1920'
-p2849
+p3041
 aS'Flanker'
-p2850
+p3042
 aS'1'
 aS'0'
 aS'1'
@@ -7959,45 +8556,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Down'
-p2851
+p3043
 aVUnited Kingdom
-p2852
+p3044
 aVNorthern Ireland
-p2853
+p3045
 aVCounty Down
-p2854
-aa(lp2855
+p3046
+ag93
+aa(lp3047
 S'George Stephenson'
-p2856
+p3048
 aS'1920'
-p2857
+p3049
 aS'Centre'
-p2858
+p3050
 aS'42'
-p2859
+p3051
 aS'20'
-p2860
+p3052
 aS'20'
-p2861
+p3053
 aS'2'
 aS'14'
-p2862
+p3054
 aS'89'
-p2863
+p3055
 aS'Northern Ireland'
-p2864
+p3056
 aVUnited Kingdom
-p2865
+p3057
 aVNorthern Ireland
-p2866
-ag87
-aa(lp2867
+p3058
+ag93
+ag93
+aa(lp3059
 S'John Bermingham'
-p2868
+p3060
 aS'1921'
-p2869
+p3061
 aS'Prop'
-p2870
+p3062
 aS'4'
 aS'1'
 aS'3'
@@ -8005,20 +8604,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Offaly'
-p2871
+p3063
 aVRepublic of Ireland
-p2872
+p3064
 aVLeinster
-p2873
+p3065
 aVCounty Offaly
-p2874
-aa(lp2875
+p3066
+ag93
+aa(lp3067
 S'Henry Cormac'
-p2876
+p3068
 aS'1921'
-p2877
+p3069
 aS'Wing'
-p2878
+p3070
 aS'3'
 aS'1'
 aS'2'
@@ -8026,70 +8626,76 @@ aS'0'
 aS'0'
 aS'0'
 aS'Howth'
-p2879
+p3071
 aVRepublic of Ireland
-p2880
+p3072
 aVLeinster
-p2881
+p3073
 aVCounty Dublin
-p2882
-aa(lp2883
+p3074
+aVFingal
+p3075
+aa(lp3076
 S'Denis Cussen'
-p2884
+p3077
 aS'1921'
-p2885
+p3078
 aS'Wing'
-p2886
+p3079
 aS'15'
-p2887
+p3080
 aS'6'
 aS'9'
 aS'0'
 aS'5'
 aS'15'
-p2888
+p3081
 aS'Limerick'
-p2889
+p3082
 aVRepublic of Ireland
-p2890
+p3083
 aVMunster
-p2891
+p3084
 aVCounty Limerick
-p2892
-aa(lp2893
+p3085
+aVLimerick
+p3086
+aa(lp3087
 S'Charles Hallaran'
-p2894
+p3088
 aS'1921'
-p2895
+p3089
 aS'Lock'
-p2896
+p3090
 aS'15'
-p2897
+p3091
 aS'6'
 aS'9'
 aS'0'
 aS'0'
 aS'0'
 aS'Ceylon'
-p2898
+p3092
 aVUnited States of America
-p2899
+p3093
 aVpenna
-p2900
+p3094
 aVGreene County
-p2901
-aa(lp2902
+p3095
+aVCeylon
+p3096
+aa(lp3097
 S'Thomas McClelland'
-p2903
+p3098
 aS'1921'
-p2904
+p3099
 aS'Flanker'
-p2905
+p3100
 aS'16'
-p2906
+p3101
 aS'5'
 aS'11'
-p2907
+p3102
 aS'0'
 aS'2'
 aS'6'
@@ -8097,13 +8703,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2908
+aS's'
+aa(lp3103
 S'Thomas Mayne'
-p2909
+p3104
 aS'1921'
-p2910
+p3105
 aS'Scrum-half'
-p2911
+p3106
 aS'3'
 aS'1'
 aS'2'
@@ -8111,20 +8718,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p2912
+p3107
 aVUnited Kingdom
-p2913
+p3108
 aVNorthern Ireland
-p2914
+p3109
 aVCounty Antrim
-p2915
-aa(lp2916
+p3110
+aVBelfast
+p3111
+aa(lp3112
 S'Noel Purcell'
-p2917
+p3113
 aS'1921'
-p2918
+p3114
 aS'No. 8'
-p2919
+p3115
 aS'4'
 aS'1'
 aS'3'
@@ -8132,20 +8741,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p2920
+p3116
 aVRepublic of Ireland
-p2921
+p3117
 aVLeinster
-p2922
+p3118
 aVCounty Dublin
-p2923
-aa(lp2924
+p3119
+aVDublin
+p3120
+aa(lp3121
 S'John Thompson'
-p2925
+p3122
 aS'1921'
-p2926
+p3123
 aS'Flanker'
-p2927
+p3124
 aS'8'
 aS'2'
 aS'6'
@@ -8156,13 +8767,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2928
+aS's'
+aa(lp3125
 S'Cecil Davidson'
-p2929
+p3126
 aS'1921'
-p2930
+p3127
 aS'Wing'
-p2931
+p3128
 aS'1'
 aS'0'
 aS'1'
@@ -8173,35 +8785,38 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2932
+aS's'
+aa(lp3129
 S'Thomas Wallis'
-p2933
+p3130
 aS'1921'
-p2934
+p3131
 aS'Wing'
-p2935
+p3132
 aS'5'
 aS'1'
 aS'4'
 aS'0'
 aS'1'
 aS'14'
-p2936
+p3133
 aS'Dublin'
-p2937
+p3134
 aVRepublic of Ireland
-p2938
+p3135
 aVLeinster
-p2939
+p3136
 aVCounty Dublin
-p2940
-aa(lp2941
+p3137
+aVDublin
+p3138
+aa(lp3139
 S'Samuel McVicker'
-p2942
+p3140
 aS'1922'
-p2943
+p3141
 aS'Lock'
-p2944
+p3142
 aS'4'
 aS'1'
 aS'3'
@@ -8209,19 +8824,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p2945
+p3143
 aVUnited Kingdom
-p2946
+p3144
 aVNorthern Ireland
-p2947
-ag87
-aa(lp2948
+p3145
+ag93
+ag93
+aa(lp3146
 S'Reuben Owens'
-p2949
+p3147
 aS'1922'
-p2950
+p3148
 aS'Flanker'
-p2951
+p3149
 aS'2'
 aS'0'
 aS'2'
@@ -8229,20 +8845,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p2952
+p3150
 aVRepublic of Ireland
-p2953
+p3151
 aVLeinster
-p2954
+p3152
 aVCounty Dublin
-p2955
-aa(lp2956
+p3153
+aVDublin
+p3154
+aa(lp3155
 S'Donal Sullivan'
-p2957
+p3156
 aS'1922'
-p2958
+p3157
 aS'Centre'
-p2959
+p3158
 aS'4'
 aS'1'
 aS'3'
@@ -8250,20 +8868,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Cork'
-p2960
+p3159
 aVRepublic of Ireland
-p2961
+p3160
 aVMunster
-p2962
+p3161
 aVCounty Cork
-p2963
-aa(lp2964
+p3162
+ag93
+aa(lp3163
 S'Jim Wheeler'
-p2965
+p3164
 aS'1922'
-p2966
+p3165
 aS'Fly-half'
-p2967
+p3166
 aS'5'
 aS'1'
 aS'4'
@@ -8271,20 +8890,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p2968
+p3167
 aVUnited Kingdom
-p2969
+p3168
 aVNorthern Ireland
-p2970
+p3169
 aVCounty Antrim
-p2971
-aa(lp2972
+p3170
+aVBelfast
+p3171
+aa(lp3172
 S'Joseph Clarke'
-p2973
+p3173
 aS'1922'
-p2974
+p3174
 aS'Scrum-half'
-p2975
+p3175
 aS'7'
 aS'2'
 aS'5'
@@ -8292,20 +8913,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dundrum'
-p2976
+p3176
 aVRepublic of Ireland
-p2977
+p3177
 aVLeinster
-p2978
+p3178
 aVCounty Dublin
-p2979
-aa(lp2980
+p3179
+aVDún Laoghaire-Rathdown
+p3180
+aa(lp3181
 S'John Egan'
-p2981
+p3182
 aS'1922'
-p2982
+p3183
 aS'Flanker'
-p2983
+p3184
 aS'1'
 aS'0'
 aS'1'
@@ -8316,13 +8939,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2984
+aS's'
+aa(lp3185
 S'Ivan Popham'
-p2985
+p3186
 aS'1922'
-p2986
+p3187
 aS'Lock'
-p2987
+p3188
 aS'4'
 aS'1'
 aS'3'
@@ -8333,35 +8957,37 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2988
+aS's'
+aa(lp3189
 S'Henry Stephenson'
-p2989
+p3190
 aS'1922'
-p2990
+p3191
 aS'Wing'
-p2991
+p3192
 aS'14'
-p2992
+p3193
 aS'5'
 aS'8'
 aS'1'
 aS'4'
 aS'12'
-p2993
+p3194
 aS'Northern Ireland'
-p2994
+p3195
 aVUnited Kingdom
-p2995
+p3196
 aVNorthern Ireland
-p2996
-ag87
-aa(lp2997
+p3197
+ag93
+ag93
+aa(lp3198
 S'Joseph Gillespie'
-p2998
+p3199
 aS'1922'
-p2999
+p3200
 aS'Prop'
-p3000
+p3201
 aS'2'
 aS'1'
 aS'1'
@@ -8369,44 +8995,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Roscommon'
-p3001
+p3202
 aVRepublic of Ireland
-p3002
+p3203
 aVConnacht
-p3003
+p3204
 aVCounty Roscommon
-p3004
-aa(lp3005
+p3205
+ag93
+aa(lp3206
 S'Joe Stewart'
-p3006
+p3207
 aS'1922'
-p3007
+p3208
 aS'Fullback'
-p3008
+p3209
 aS'10'
-p3009
+p3210
 aS'6'
 aS'3'
 aS'1'
 aS'0'
 aS'0'
 aS'Boghill'
-p3010
+p3211
 aVUnited Kingdom
-p3011
+p3212
 aVNorthern Ireland
-p3012
+p3213
 aVCounty Londonderry
-p3013
-aa(lp3014
+p3214
+aVColeraine
+p3215
+aa(lp3216
 S'Dick Collopy'
-p3015
+p3217
 aS'1923'
-p3016
+p3218
 aS'Prop'
-p3017
+p3219
 aS'13'
-p3018
+p3220
 aS'5'
 aS'7'
 aS'1'
@@ -8416,13 +9045,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3019
+aS's'
+aa(lp3221
 S'Dunlop Cunningham'
-p3020
+p3222
 aS'1923'
-p3021
+p3223
 aS'Lock'
-p3022
+p3224
 aS'6'
 aS'3'
 aS'2'
@@ -8430,22 +9060,24 @@ aS'1'
 aS'0'
 aS'0'
 aS'Belfast'
-p3023
+p3225
 aVUnited Kingdom
-p3024
+p3226
 aVNorthern Ireland
-p3025
+p3227
 aVCounty Antrim
-p3026
-aa(lp3027
+p3228
+aVBelfast
+p3229
+aa(lp3230
 S'James Gardiner'
-p3028
+p3231
 aS'1923'
-p3029
+p3232
 aS'Centre'
-p3030
+p3233
 aS'13'
-p3031
+p3234
 aS'5'
 aS'7'
 aS'1'
@@ -8455,13 +9087,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3032
+aS's'
+aa(lp3235
 S'Robert Gray'
-p3033
+p3236
 aS'1923'
-p3034
+p3237
 aS'No. 8'
-p3035
+p3238
 aS'4'
 aS'2'
 aS'2'
@@ -8469,17 +9102,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Monaghn'
-p3036
+p3239
 aS'g'
 aS'n'
 aS'i'
-aa(lp3037
+aS's'
+aa(lp3240
 S'William Hall'
-p3038
+p3241
 aS'1923'
-p3039
+p3242
 aS'Fly-half'
-p3040
+p3243
 aS'6'
 aS'2'
 aS'4'
@@ -8487,20 +9121,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p3041
+p3244
 aVUnited Kingdom
-p3042
+p3245
 aVNorthern Ireland
-p3043
+p3246
 aVCounty Antrim
-p3044
-aa(lp3045
+p3247
+aVBelfast
+p3248
+aa(lp3249
 S'Finlay Jackson'
-p3046
+p3250
 aS'1923'
-p3047
+p3251
 aS'Centre'
-p3048
+p3252
 aS'1'
 aS'0'
 aS'1'
@@ -8508,20 +9144,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p3049
+p3253
 aVUnited Kingdom
-p3050
+p3254
 aVNorthern Ireland
-p3051
+p3255
 aVCounty Antrim
-p3052
-aa(lp3053
+p3256
+aVBelfast
+p3257
+aa(lp3258
 S'Robert McClenahan'
-p3054
+p3259
 aS'1923'
-p3055
+p3260
 aS'Wing'
-p3056
+p3261
 aS'3'
 aS'1'
 aS'2'
@@ -8532,13 +9170,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3057
+aS's'
+aa(lp3262
 S'Jack Mahony'
-p3058
+p3263
 aS'1923'
-p3059
+p3264
 aS'No. 8'
-p3060
+p3265
 aS'1'
 aS'0'
 aS'1'
@@ -8549,13 +9188,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3061
+aS's'
+aa(lp3266
 S'Peter Dunn'
-p3062
+p3267
 aS'1923'
-p3063
+p3268
 aS'Lock'
-p3064
+p3269
 aS'1'
 aS'0'
 aS'1'
@@ -8566,37 +9206,40 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3065
+aS's'
+aa(lp3270
 S'Jamie Clinch'
-p3066
+p3271
 aS'1923'
-p3067
+p3272
 aS'Flanker'
-p3068
+p3273
 aS'30'
-p3069
+p3274
 aS'16'
-p3070
+p3275
 aS'12'
-p3071
+p3276
 aS'2'
 aS'0'
 aS'0'
 aS'Dublin'
-p3072
+p3277
 aVRepublic of Ireland
-p3073
+p3278
 aVLeinster
-p3074
+p3279
 aVCounty Dublin
-p3075
-aa(lp3076
+p3280
+aVDublin
+p3281
+aa(lp3282
 S'Arthur Douglas'
-p3077
+p3283
 aS'1923'
-p3078
+p3284
 aS'Wing'
-p3079
+p3285
 aS'5'
 aS'1'
 aS'4'
@@ -8604,20 +9247,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Belfast'
-p3080
+p3286
 aVUnited Kingdom
-p3081
+p3287
 aVNorthern Ireland
-p3082
+p3288
 aVCounty Antrim
-p3083
-aa(lp3084
+p3289
+aVBelfast
+p3290
+aa(lp3291
 S'Alfred Atkins'
-p3085
+p3292
 aS'1924'
-p3086
+p3293
 aS'Wing'
-p3087
+p3294
 aS'1'
 aS'1'
 aS'0'
@@ -8625,20 +9270,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dublin'
-p3088
+p3295
 aVRepublic of Ireland
-p3089
+p3296
 aVLeinster
-p3090
+p3297
 aVCounty Dublin
-p3091
-aa(lp3092
+p3298
+aVDublin
+p3299
+aa(lp3300
 S'William Collis'
-p3093
+p3301
 aS'1924'
-p3094
+p3302
 aS'Hooker'
-p3095
+p3303
 aS'7'
 aS'4'
 aS'2'
@@ -8646,20 +9293,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Killiney'
-p3096
+p3304
 aVRepublic of Ireland
-p3097
+p3305
 aVLeinster
-p3098
+p3306
 aVCounty Dublin
-p3099
-aa(lp3100
+p3307
+aVDún Laoghaire-Rathdown
+p3308
+aa(lp3309
 S'John McDowell'
-p3101
+p3310
 aS'1924'
-p3102
+p3311
 aS'Fly-half'
-p3103
+p3312
 aS'2'
 aS'1'
 aS'1'
@@ -8670,36 +9319,38 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3104
+aS's'
+aa(lp3313
 S'Jim McVicker'
-p3105
+p3314
 aS'1924'
-p3106
+p3315
 aS'Lock'
-p3107
+p3316
 aS'23'
-p3108
+p3317
 aS'11'
-p3109
+p3318
 aS'10'
-p3110
+p3319
 aS'2'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p3111
+p3320
 aVUnited Kingdom
-p3112
+p3321
 aVNorthern Ireland
-p3113
-ag87
-aa(lp3114
+p3322
+ag93
+ag93
+aa(lp3323
 S'Ian Stuart'
-p3115
+p3324
 aS'1924'
-p3116
+p3325
 aS'Lock'
-p3117
+p3326
 aS'2'
 aS'0'
 aS'2'
@@ -8707,20 +9358,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p3118
+p3327
 aVRepublic of Ireland
-p3119
+p3328
 aVLeinster
-p3120
+p3329
 aVCounty Dublin
-p3121
-aa(lp3122
+p3330
+aVDublin
+p3331
+aa(lp3332
 S'Frank Hewitt'
-p3123
+p3333
 aS'1924'
-p3124
+p3334
 aS'Fly-half'
-p3125
+p3335
 aS'9'
 aS'5'
 aS'3'
@@ -8728,20 +9381,22 @@ aS'1'
 aS'2'
 aS'6'
 aS'Belfast'
-p3126
+p3336
 aVUnited Kingdom
-p3127
+p3337
 aVNorthern Ireland
-p3128
+p3338
 aVCounty Antrim
-p3129
-aa(lp3130
+p3339
+aVBelfast
+p3340
+aa(lp3341
 S'Tom Hewitt'
-p3131
+p3342
 aS'1924'
-p3132
+p3343
 aS'Wing'
-p3133
+p3344
 aS'9'
 aS'5'
 aS'3'
@@ -8749,20 +9404,22 @@ aS'1'
 aS'2'
 aS'8'
 aS'Belfast'
-p3134
+p3345
 aVUnited Kingdom
-p3135
+p3346
 aVNorthern Ireland
-p3136
+p3347
 aVCounty Antrim
-p3137
-aa(lp3138
+p3348
+aVBelfast
+p3349
+aa(lp3350
 S'Norman Brand'
-p3139
+p3351
 aS'1924'
-p3140
+p3352
 aS'Forward'
-p3141
+p3353
 aS'3'
 aS'0'
 aS'3'
@@ -8770,19 +9427,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p3142
+p3354
 aVUnited Kingdom
-p3143
+p3355
 aVNorthern Ireland
-p3144
-ag87
-aa(lp3145
+p3356
+ag93
+ag93
+aa(lp3357
 S'Alex Spain'
-p3146
+p3358
 aS'1924'
-p3147
+p3359
 aS'Lock'
-p3148
+p3360
 aS'1'
 aS'0'
 aS'1'
@@ -8790,136 +9448,147 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cashel'
-p3149
+p3361
 aVRepublic of Ireland
-p3150
+p3362
 aVMunster
-p3151
+p3363
 aVCounty Tipperary
-p3152
-aa(lp3153
+p3364
+aVCashel
+p3365
+aa(lp3366
 S'Mark Sugden'
-p3154
+p3367
 aS'1925'
-p3155
+p3368
 aS'Scrum-half'
-p3156
+p3369
 aS'28'
-p3157
+p3370
 aS'16'
-p3158
+p3371
 aS'10'
-p3159
+p3372
 aS'2'
 aS'3'
 aS'9'
 aS'Staffs'
-p3160
+p3373
 aVKenya
-p3161
+p3374
 aV00200
-p3162
+p3375
 aVNairobi
-p3163
-aa(lp3164
+p3376
+aVEastleigh
+p3377
+aa(lp3378
 S'George Beamish'
-p3165
+p3379
 aS'1925'
-p3166
+p3380
 aS'No. 8'
-p3167
+p3381
 aS'30'
-p3168
+p3382
 aS'13'
-p3169
+p3383
 aS'15'
-p3170
+p3384
 aS'2'
 aS'0'
 aS'0'
 aS'Munster'
-p3171
+p3385
 aVRepublic of Ireland
-p3172
+p3386
 aVMunster
-p3173
-ag87
-aa(lp3174
+p3387
+ag93
+ag93
+aa(lp3388
 S'William Browne'
-p3175
+p3389
 aS'1925'
-p3176
+p3390
 aS'Hooker'
-p3177
+p3391
 aS'12'
-p3178
+p3392
 aS'6'
 aS'5'
 aS'1'
 aS'1'
 aS'3'
 aS'Longford'
-p3179
+p3393
 aVRepublic of Ireland
-p3180
+p3394
 aVLeinster
-p3181
+p3395
 aVCounty Longford
-p3182
-aa(lp3183
+p3396
+aVLongford
+p3397
+aa(lp3398
 S'Standish Cagney'
-p3184
+p3399
 aS'1925'
-p3185
+p3400
 aS'Lock'
-p3186
+p3401
 aS'13'
-p3187
+p3402
 aS'9'
 aS'3'
 aS'1'
 aS'0'
 aS'0'
 aS'Harrow-on-the-Hill'
-p3188
+p3403
 aVUnited Kingdom
-p3189
+p3404
 aVHA1 1BB
-p3190
+p3405
 aVEngland
-p3191
-aa(lp3192
+p3406
+aVGreater London
+p3407
+aa(lp3408
 S'Eugene Davy'
-p3193
+p3409
 aS'1925'
-p3194
+p3410
 aS'Fly-half'
-p3195
+p3411
 aS'34'
-p3196
+p3412
 aS'19'
-p3197
+p3413
 aS'14'
-p3198
+p3414
 aS'1'
 aS'8'
 aS'36'
-p3199
+p3415
 aS'Dublin'
-p3200
+p3416
 aVRepublic of Ireland
-p3201
+p3417
 aVLeinster
-p3202
+p3418
 aVCounty Dublin
-p3203
-aa(lp3204
+p3419
+aVDublin
+p3420
+aa(lp3421
 S'Robert Flood'
-p3205
+p3422
 aS'1925'
-p3206
+p3423
 aS'No. 8'
-p3207
+p3424
 aS'1'
 aS'1'
 aS'0'
@@ -8930,13 +9599,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3208
+aS's'
+aa(lp3425
 S'Terence Millin'
-p3209
+p3426
 aS'1925'
-p3210
+p3427
 aS'Centre'
-p3211
+p3428
 aS'1'
 aS'1'
 aS'0'
@@ -8944,43 +9614,46 @@ aS'0'
 aS'1'
 aS'3'
 aS'Northern Ireland'
-p3212
+p3429
 aVUnited Kingdom
-p3213
+p3430
 aVNorthern Ireland
-p3214
-ag87
-aa(lp3215
+p3431
+ag93
+ag93
+aa(lp3432
 S'Jimmy Farrell'
-p3216
+p3433
 aS'1926'
-p3217
+p3434
 aS'Lock'
-p3218
+p3435
 aS'34'
-p3219
+p3436
 aS'18'
-p3220
+p3437
 aS'15'
-p3221
+p3438
 aS'1'
 aS'0'
 aS'0'
 aS'Meath'
-p3222
+p3439
 aVUnited States of America
-p3223
+p3440
 aVArizona
-p3224
+p3441
 aVYavapai County
-p3225
-aa(lp3226
+p3442
+aVJanet Lane
+p3443
+aa(lp3444
 S'Rex Hamilton'
-p3227
+p3445
 aS'1926'
-p3228
+p3446
 aS'Wing'
-p3229
+p3447
 aS'1'
 aS'1'
 aS'0'
@@ -8988,20 +9661,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p3230
+p3448
 aVUnited Kingdom
-p3231
+p3449
 aVNorthern Ireland
-p3232
+p3450
 aVCounty Antrim
-p3233
-aa(lp3234
+p3451
+aVBelfast
+p3452
+aa(lp3453
 S'Joseph Neill'
-p3235
+p3454
 aS'1926'
-p3236
+p3455
 aS'Flanker'
-p3237
+p3456
 aS'1'
 aS'1'
 aS'0'
@@ -9012,13 +9687,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3238
+aS's'
+aa(lp3457
 S'Allan Buchanan'
-p3239
+p3458
 aS'1926'
-p3240
+p3459
 aS'Prop'
-p3241
+p3460
 aS'6'
 aS'4'
 aS'2'
@@ -9029,36 +9705,39 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3242
+aS's'
+aa(lp3461
 S'Charles Payne'
-p3243
+p3462
 aS'1926'
-p3244
+p3463
 aS'Hooker'
-p3245
+p3464
 aS'16'
-p3246
+p3465
 aS'10'
-p3247
+p3466
 aS'5'
 aS'1'
 aS'0'
 aS'0'
 aS'Belfast'
-p3248
+p3467
 aVUnited Kingdom
-p3249
+p3468
 aVNorthern Ireland
-p3250
+p3469
 aVCounty Antrim
-p3251
-aa(lp3252
+p3470
+aVBelfast
+p3471
+aa(lp3472
 S'Jack Gage'
-p3253
+p3473
 aS'1926'
-p3254
+p3474
 aS'Wing'
-p3255
+p3475
 aS'5'
 aS'4'
 aS'1'
@@ -9066,24 +9745,26 @@ aS'0'
 aS'1'
 aS'3'
 aS'Worcester'
-p3256
+p3476
 aVUnited Kingdom
-p3257
+p3477
 aVEngland
-p3258
+p3478
 aVWest Midlands
-p3259
-aa(lp3260
+p3479
+aVWorcestershire
+p3480
+aa(lp3481
 S'Charles Hanrahan'
-p3261
+p3482
 aS'1926'
-p3262
+p3483
 aS'Prop'
-p3263
+p3484
 aS'20'
-p3264
+p3485
 aS'11'
-p3265
+p3486
 aS'8'
 aS'1'
 aS'1'
@@ -9092,13 +9773,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3266
+aS's'
+aa(lp3487
 S'Maurice Atkinson'
-p3267
+p3488
 aS'1927'
-p3268
+p3489
 aS'Centre'
-p3269
+p3490
 aS'2'
 aS'1'
 aS'1'
@@ -9106,67 +9788,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p3270
+p3491
 aVUnited Kingdom
-p3271
+p3492
 aVNorthern Ireland
-p3272
-ag87
-aa(lp3273
+p3493
+ag93
+ag93
+aa(lp3494
 S'Jim Ganly'
-p3274
+p3495
 aS'1927'
-p3275
+p3496
 aS'Wing'
-p3276
+p3497
 aS'12'
-p3277
+p3498
 aS'7'
 aS'5'
 aS'0'
 aS'7'
 aS'24'
-p3278
+p3499
 aS'Dublin'
-p3279
+p3500
 aVRepublic of Ireland
-p3280
+p3501
 aVLeinster
-p3281
+p3502
 aVCounty Dublin
-p3282
-aa(lp3283
+p3503
+aVDublin
+p3504
+aa(lp3505
 S'Paul Murray'
-p3284
+p3506
 aS'1927'
-p3285
+p3507
 aS'Scrum-half'
-p3286
+p3508
 aS'23'
-p3287
+p3509
 aS'11'
-p3288
+p3510
 aS'12'
-p3289
+p3511
 aS'0'
 aS'1'
 aS'33'
-p3290
+p3512
 aS'Dublin'
-p3291
+p3513
 aVRepublic of Ireland
-p3292
+p3514
 aVLeinster
-p3293
+p3515
 aVCounty Dublin
-p3294
-aa(lp3295
+p3516
+aVDublin
+p3517
+aa(lp3518
 S'Norman Ross'
-p3296
+p3519
 aS'1927'
-p3297
+p3520
 aS'No. 8'
-p3298
+p3521
 aS'2'
 aS'1'
 aS'1'
@@ -9174,20 +9861,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ballymena'
-p3299
+p3522
 aVUnited Kingdom
-p3300
+p3523
 aVNorthern Ireland
-p3301
+p3524
 aVCounty Antrim
-p3302
-aa(lp3303
+p3525
+aVBallymena
+p3526
+aa(lp3527
 S'Hugh McVicker'
-p3304
+p3528
 aS'1927'
-p3305
+p3529
 aS'Lock'
-p3306
+p3530
 aS'5'
 aS'3'
 aS'2'
@@ -9195,19 +9884,20 @@ aS'0'
 aS'1'
 aS'3'
 aS'Northern Ireland'
-p3307
+p3531
 aVUnited Kingdom
-p3308
+p3532
 aVNorthern Ireland
-p3309
-ag87
-aa(lp3310
+p3533
+ag93
+ag93
+aa(lp3534
 S'Theodore Pike'
-p3311
+p3535
 aS'1927'
-p3312
+p3536
 aS'Prop'
-p3313
+p3537
 aS'8'
 aS'5'
 aS'3'
@@ -9215,43 +9905,47 @@ aS'0'
 aS'1'
 aS'3'
 aS'Thurles'
-p3314
+p3538
 aVRepublic of Ireland
-p3315
+p3539
 aVMunster
-p3316
+p3540
 aVCounty Tipperary
-p3317
-aa(lp3318
+p3541
+aVThurles
+p3542
+aa(lp3543
 S'Joxer Arigho'
-p3319
+p3544
 aS'1928'
-p3320
+p3545
 aS'Wing'
-p3321
+p3546
 aS'16'
-p3322
+p3547
 aS'8'
 aS'7'
 aS'1'
 aS'6'
 aS'18'
-p3323
+p3548
 aS'Dublin'
-p3324
+p3549
 aVRepublic of Ireland
-p3325
+p3550
 aVLeinster
-p3326
+p3551
 aVCounty Dublin
-p3327
-aa(lp3328
+p3552
+aVDublin
+p3553
+aa(lp3554
 S'Thomas Bramwell'
-p3329
+p3555
 aS'1928'
-p3330
+p3556
 aS'Hooker'
-p3331
+p3557
 aS'1'
 aS'1'
 aS'0'
@@ -9259,20 +9953,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Antrim'
-p3332
+p3558
 aVUnited Kingdom
-p3333
+p3559
 aVNorthern Ireland
-p3334
+p3560
 aVCounty Antrim
-p3335
-aa(lp3336
+p3561
+ag93
+aa(lp3562
 S'Reginald Odbert'
-p3337
+p3563
 aS'1928'
-p3338
+p3564
 aS'Centre'
-p3339
+p3565
 aS'1'
 aS'1'
 aS'0'
@@ -9280,20 +9975,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Monkstown'
-p3340
+p3566
 aVRepublic of Ireland
-p3341
+p3567
 aVLeinster
-p3342
+p3568
 aVCounty Dublin
-p3343
-aa(lp3344
+p3569
+aVDún Laoghaire-Rathdown
+p3570
+aa(lp3571
 S'Rowland Byers'
-p3345
+p3572
 aS'1928'
-p3346
+p3573
 aS'Wing'
-p3347
+p3574
 aS'5'
 aS'3'
 aS'1'
@@ -9301,20 +9998,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Belfast'
-p3348
+p3575
 aVUnited Kingdom
-p3349
+p3576
 aVNorthern Ireland
-p3350
+p3577
 aVCounty Antrim
-p3351
-aa(lp3352
+p3578
+aVBelfast
+p3579
+aa(lp3580
 S'Jerry Mullane'
-p3353
+p3581
 aS'1928'
-p3354
+p3582
 aS'Flanker'
-p3355
+p3583
 aS'2'
 aS'2'
 aS'0'
@@ -9322,42 +10021,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newcastle West'
-p3356
+p3584
 aVRepublic of Ireland
-p3357
+p3585
 aVMunster
-p3358
+p3586
 aVCounty Limerick
-p3359
-aa(lp3360
+p3587
+aVNewcastle West
+p3588
+aa(lp3589
 S'Mike Dunne'
-p3361
+p3590
 aS'1928'
-p3362
+p3591
 aS'Lock'
-p3363
+p3592
 aS'16'
-p3364
+p3593
 aS'7'
 aS'9'
 aS'0'
 aS'0'
 aS'0'
 aS'Co.Dublin'
-p3365
+p3594
 aVRepublic of Ireland
-p3366
+p3595
 aVLeinster
-p3367
+p3596
 aVCounty Dublin
-p3368
-aa(lp3369
+p3597
+ag93
+aa(lp3598
 S'Hugh Browne'
-p3370
+p3599
 aS'1929'
-p3371
+p3600
 aS'Hooker'
-p3372
+p3601
 aS'3'
 aS'1'
 aS'1'
@@ -9365,20 +10067,22 @@ aS'1'
 aS'0'
 aS'2'
 aS'London'
-p3373
+p3602
 aVUnited Kingdom
-p3374
+p3603
 aVEngland
-p3375
+p3604
 aVGreater London
-p3376
-aa(lp3377
+p3605
+aVLondon
+p3606
+aa(lp3607
 S'John Synge'
-p3378
+p3608
 aS'1929'
-p3379
+p3609
 aS'Flanker'
-p3380
+p3610
 aS'1'
 aS'0'
 aS'1'
@@ -9386,42 +10090,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p3381
+p3611
 aVRepublic of Ireland
-p3382
+p3612
 aVLeinster
-p3383
+p3613
 aVCounty Dublin
-p3384
-aa(lp3385
+p3614
+aVDublin
+p3615
+aa(lp3616
 S'Morgan Crowe'
-p3386
+p3617
 aS'1929'
-p3387
+p3618
 aS'Centre'
-p3388
+p3619
 aS'13'
-p3389
+p3620
 aS'6'
 aS'6'
 aS'1'
 aS'2'
 aS'6'
 aS'Dublin'
-p3390
+p3621
 aVRepublic of Ireland
-p3391
+p3622
 aVLeinster
-p3392
+p3623
 aVCounty Dublin
-p3393
-aa(lp3394
+p3624
+aVDublin
+p3625
+aa(lp3626
 S'Mark Deering'
-p3395
+p3627
 aS'1929'
-p3396
+p3628
 aS'Lock'
-p3397
+p3629
 aS'1'
 aS'0'
 aS'0'
@@ -9429,20 +10137,21 @@ aS'1'
 aS'0'
 aS'0'
 aS'Co Wicklow'
-p3398
+p3630
 aVRepublic of Ireland
-p3399
+p3631
 aVLeinster
-p3400
+p3632
 aVCounty Wicklow
-p3401
-aa(lp3402
+p3633
+ag93
+aa(lp3634
 S'Claude Carroll'
-p3403
+p3635
 aS'1930'
-p3404
+p3636
 aS'Lock'
-p3405
+p3637
 aS'1'
 aS'0'
 aS'1'
@@ -9450,20 +10159,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Thurles'
-p3406
+p3638
 aVRepublic of Ireland
-p3407
+p3639
 aVMunster
-p3408
+p3640
 aVCounty Tipperary
-p3409
-aa(lp3410
+p3641
+aVThurles
+p3642
+aa(lp3643
 S'Ted Hunt'
-p3411
+p3644
 aS'1930'
-p3412
+p3645
 aS'Centre'
-p3413
+p3646
 aS'5'
 aS'2'
 aS'3'
@@ -9471,20 +10182,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Dorset'
-p3414
+p3647
 aVUnited Kingdom
-p3415
+p3648
 aVEngland
-p3416
+p3649
 aVSouth West England
-p3417
-aa(lp3418
+p3650
+aVDorset
+p3651
+aa(lp3652
 S'William McCormick'
-p3419
+p3653
 aS'1930'
-p3420
+p3654
 aS'No. 8'
-p3421
+p3655
 aS'1'
 aS'1'
 aS'0'
@@ -9492,64 +10205,69 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Derry'
-p3422
+p3656
 aVUnited Kingdom
-p3423
+p3657
 aVNorthern Ireland
-p3424
+p3658
 aVCounty Londonderry
-p3425
-aa(lp3426
+p3659
+ag93
+aa(lp3660
 S'Noel Murphy'
-p3427
+p3661
 aS'1930'
-p3428
+p3662
 aS'Flanker'
-p3429
+p3663
 aS'11'
-p3430
+p3664
 aS'5'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p3431
+p3665
 aVRepublic of Ireland
-p3432
+p3666
 aVMunster
-p3433
+p3667
 aVCounty Cork
-p3434
-aa(lp3435
+p3668
+aVCork
+p3669
+aa(lp3670
 S"Henry O'Neill"
-p3436
+p3671
 aS'1930'
-p3437
+p3672
 aS'Prop'
-p3438
+p3673
 aS'11'
-p3439
+p3674
 aS'4'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'Portstewart'
-p3440
+p3675
 aVUnited Kingdom
-p3441
+p3676
 aVNorthern Ireland
-p3442
+p3677
 aVCounty Londonderry
-p3443
-aa(lp3444
+p3678
+aVPortstewart
+p3679
+aa(lp3680
 S'Frederick Williamson'
-p3445
+p3681
 aS'1930'
-p3446
+p3682
 aS'Fullback'
-p3447
+p3683
 aS'3'
 aS'2'
 aS'1'
@@ -9557,20 +10275,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wexford'
-p3448
+p3684
 aVRepublic of Ireland
-p3449
+p3685
 aVLeinster
-p3450
+p3686
 aVCounty Wexford
-p3451
-aa(lp3452
+p3687
+aVWexford
+p3688
+aa(lp3689
 S'Ter Casey'
-p3453
+p3690
 aS'1930'
-p3454
+p3691
 aS'Hooker'
-p3455
+p3692
 aS'2'
 aS'1'
 aS'1'
@@ -9578,20 +10298,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p3456
+p3693
 aVRepublic of Ireland
-p3457
+p3694
 aVMunster
-p3458
+p3695
 aVCounty Limerick
-p3459
-aa(lp3460
+p3696
+aVLimerick
+p3697
+aa(lp3698
 S'Major Egan'
-p3461
+p3699
 aS'1931'
-p3462
+p3700
 aS'Fullback'
-p3463
+p3701
 aS'3'
 aS'1'
 aS'2'
@@ -9602,80 +10324,86 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3464
+aS's'
+aa(lp3702
 S'Edward Lightfoot'
-p3465
+p3703
 aS'1931'
-p3466
+p3704
 aS'Wing'
-p3467
+p3705
 aS'11'
-p3468
+p3706
 aS'5'
 aS'6'
 aS'0'
 aS'3'
 aS'9'
 aS'Dublin'
-p3469
+p3707
 aVRepublic of Ireland
-p3470
+p3708
 aVLeinster
-p3471
+p3709
 aVCounty Dublin
-p3472
-aa(lp3473
+p3710
+aVDublin
+p3711
+aa(lp3712
 S'Jack Russell'
-p3474
+p3713
 aS'1931'
-p3475
+p3714
 aS'Lock'
-p3476
+p3715
 aS'19'
-p3477
+p3716
 aS'8'
 aS'11'
-p3478
+p3717
 aS'0'
 aS'2'
 aS'6'
 aS'Queenstown Cobh'
-p3479
+p3718
 aS'g'
 aS'n'
 aS'i'
-aa(lp3480
+aS's'
+aa(lp3719
 S'Jack Siggins'
-p3481
+p3720
 aS'1931'
-p3482
+p3721
 aS'No. 8'
-p3483
+p3722
 aS'24'
-p3484
+p3723
 aS'11'
-p3485
+p3724
 aS'13'
-p3486
+p3725
 aS'0'
 aS'1'
 aS'12'
-p3487
+p3726
 aS'Belfast'
-p3488
+p3727
 aVUnited Kingdom
-p3489
+p3728
 aVNorthern Ireland
-p3490
+p3729
 aVCounty Antrim
-p3491
-aa(lp3492
+p3730
+aVBelfast
+p3731
+aa(lp3732
 S'Hal Withers'
-p3493
+p3733
 aS'1931'
-p3494
+p3734
 aS'No. 8'
-p3495
+p3735
 aS'5'
 aS'2'
 aS'3'
@@ -9686,58 +10414,63 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3496
+aS's'
+aa(lp3736
 S'Laurence McMahon'
-p3497
+p3737
 aS'1931'
-p3498
+p3738
 aS'Centre'
-p3499
+p3739
 aS'12'
-p3500
+p3740
 aS'5'
 aS'7'
 aS'0'
 aS'3'
 aS'12'
-p3501
+p3741
 aS'London'
-p3502
+p3742
 aVUnited Kingdom
-p3503
+p3743
 aVEngland
-p3504
+p3744
 aVGreater London
-p3505
-aa(lp3506
+p3745
+aVLondon
+p3746
+aa(lp3747
 S'Victor Pike'
-p3507
+p3748
 aS'1931'
-p3508
+p3749
 aS'Hooker'
-p3509
+p3750
 aS'13'
-p3510
+p3751
 aS'5'
 aS'8'
 aS'0'
 aS'1'
 aS'3'
 aS'Thurles'
-p3511
+p3752
 aVRepublic of Ireland
-p3512
+p3753
 aVMunster
-p3513
+p3754
 aVCounty Tipperary
-p3514
-aa(lp3515
+p3755
+aVThurles
+p3756
+aa(lp3757
 S'John Entrican'
-p3516
+p3758
 aS'1931'
-p3517
+p3759
 aS'Fullback'
-p3518
+p3760
 aS'1'
 aS'1'
 aS'0'
@@ -9745,20 +10478,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cookstown'
-p3519
+p3761
 aVUnited Kingdom
-p3520
+p3762
 aVNorthern Ireland
-p3521
+p3763
 aVCounty Tyrone
-p3522
-aa(lp3523
+p3764
+aVCookstown
+p3765
+aa(lp3766
 S'Dermot Morris'
-p3524
+p3767
 aS'1931'
-p3525
+p3768
 aS'Fullback'
-p3526
+p3769
 aS'6'
 aS'2'
 aS'4'
@@ -9766,20 +10501,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p3527
+p3770
 aVRepublic of Ireland
-p3528
+p3771
 aVLeinster
-p3529
+p3772
 aVCounty Dublin
-p3530
-aa(lp3531
+p3773
+aVDublin
+p3774
+aa(lp3775
 S'William Ross'
-p3532
+p3776
 aS'1932'
-p3533
+p3777
 aS'Flanker'
-p3534
+p3778
 aS'9'
 aS'3'
 aS'6'
@@ -9790,13 +10527,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3535
+aS's'
+aa(lp3779
 S'Michael Sheehan'
-p3536
+p3780
 aS'1932'
-p3537
+p3781
 aS'Scrum-half'
-p3538
+p3782
 aS'1'
 aS'0'
 aS'1'
@@ -9804,20 +10542,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p3539
+p3783
 aVRepublic of Ireland
-p3540
+p3784
 aVMunster
-p3541
+p3785
 aVCounty Limerick
-p3542
-aa(lp3543
+p3786
+aVLimerick
+p3787
+aa(lp3788
 S'Shaun Waide'
-p3544
+p3789
 aS'1932'
-p3545
+p3790
 aS'Wing'
-p3546
+p3791
 aS'5'
 aS'3'
 aS'2'
@@ -9828,13 +10568,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3547
+aS's'
+aa(lp3792
 S'Ernest Ridgeway'
-p3548
+p3793
 aS'1932'
-p3549
+p3794
 aS'Centre'
-p3550
+p3795
 aS'5'
 aS'4'
 aS'1'
@@ -9842,20 +10583,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dublin'
-p3551
+p3796
 aVRepublic of Ireland
-p3552
+p3797
 aVLeinster
-p3553
+p3798
 aVCounty Dublin
-p3554
-aa(lp3555
+p3799
+aVDublin
+p3800
+aa(lp3801
 S'Robin Pratt'
-p3556
+p3802
 aS'1933'
-p3557
+p3803
 aS'Fullback'
-p3558
+p3804
 aS'5'
 aS'1'
 aS'4'
@@ -9863,20 +10606,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Enniskillen'
-p3559
+p3805
 aVUnited Kingdom
-p3560
+p3806
 aVNorthern Ireland
-p3561
+p3807
 aVCounty Fermanagh
-p3562
-aa(lp3563
+p3808
+aVEnniskillen
+p3809
+aa(lp3810
 S'Bobby Barnes'
-p3564
+p3811
 aS'1933'
-p3565
+p3812
 aS'Centre'
-p3566
+p3813
 aS'1'
 aS'1'
 aS'0'
@@ -9884,41 +10629,44 @@ aS'0'
 aS'1'
 aS'3'
 aS'Northern Ireland'
-p3567
+p3814
 aVUnited Kingdom
-p3568
+p3815
 aVNorthern Ireland
-p3569
-ag87
-aa(lp3570
+p3816
+ag93
+ag93
+aa(lp3817
 S'Charles Beamish'
-p3571
+p3818
 aS'1933'
-p3572
+p3819
 aS'Prop'
-p3573
+p3820
 aS'12'
-p3574
+p3821
 aS'5'
 aS'7'
 aS'0'
 aS'1'
 aS'3'
 aS'Cork'
-p3575
+p3822
 aVRepublic of Ireland
-p3576
+p3823
 aVMunster
-p3577
+p3824
 aVCounty Cork
-p3578
-aa(lp3579
+p3825
+aVCork
+p3826
+aa(lp3827
 S'Paddy Coote'
-p3580
+p3828
 aS'1933'
-p3581
+p3829
 aS'Centre'
-p3582
+p3830
 aS'1'
 aS'0'
 aS'1'
@@ -9926,42 +10674,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Eton'
-p3583
+p3831
 aVFrance
-p3584
+p3832
 aV55240
-p3585
+p3833
 aVFrance métropolitaine
-p3586
-aa(lp3587
+p3834
+aVLorraine
+p3835
+aa(lp3836
 S"Joseph O'Connor"
-p3588
+p3837
 aS'1933'
-p3589
+p3838
 aS'Wing'
-p3590
+p3839
 aS'11'
-p3591
+p3840
 aS'3'
 aS'8'
 aS'0'
 aS'3'
 aS'9'
 aS'Castleisland'
-p3592
+p3841
 aVRepublic of Ireland
-p3593
+p3842
 aVMunster
-p3594
+p3843
 aVCounty Kerry
-p3595
-aa(lp3596
+p3844
+aVCastleisland
+p3845
+aa(lp3846
 S'Mebs Bardon'
-p3597
+p3847
 aS'1934'
-p3598
+p3848
 aS'Flanker'
-p3599
+p3849
 aS'1'
 aS'0'
 aS'1'
@@ -9969,66 +10721,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wicklow'
-p3600
+p3850
 aVRepublic of Ireland
-p3601
+p3851
 aVLeinster
-p3602
+p3852
 aVCounty Wicklow
-p3603
-aa(lp3604
+p3853
+aVWicklow
+p3854
+aa(lp3855
 S'Bob Graves'
-p3605
+p3856
 aS'1934'
-p3606
+p3857
 aS'Hooker'
-p3607
+p3858
 aS'17'
-p3608
+p3859
 aS'6'
 aS'11'
-p3609
+p3860
 aS'0'
 aS'0'
 aS'0'
 aS'Co Kerry'
-p3610
+p3861
 aVRepublic of Ireland
-p3611
+p3862
 aVMunster
-p3612
+p3863
 aVCounty Kerry
-p3613
-aa(lp3614
+p3864
+ag93
+aa(lp3865
 S'George Morgan'
-p3615
+p3866
 aS'1934'
-p3616
+p3867
 aS'Scrum-half'
-p3617
+p3868
 aS'20'
-p3618
+p3869
 aS'9'
 aS'11'
-p3619
+p3870
 aS'0'
 aS'2'
 aS'6'
 aS'Dublin'
-p3620
+p3871
 aVRepublic of Ireland
-p3621
+p3872
 aVLeinster
-p3622
+p3873
 aVCounty Dublin
-p3623
-aa(lp3624
+p3874
+aVDublin
+p3875
+aa(lp3876
 S'James Reardon'
-p3625
+p3877
 aS'1934'
-p3626
+p3878
 aS'Centre'
-p3627
+p3879
 aS'2'
 aS'0'
 aS'2'
@@ -10039,36 +10796,39 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3628
+aS's'
+aa(lp3880
 S'Sam Walker'
-p3629
+p3881
 aS'1934'
-p3630
+p3882
 aS'Prop'
-p3631
+p3883
 aS'18'
-p3632
+p3884
 aS'7'
 aS'11'
-p3633
+p3885
 aS'0'
 aS'1'
 aS'7'
 aS'Belfast'
-p3634
+p3886
 aVUnited Kingdom
-p3635
+p3887
 aVNorthern Ireland
-p3636
+p3888
 aVCounty Antrim
-p3637
-aa(lp3638
+p3889
+aVBelfast
+p3890
+aa(lp3891
 S'Ham Lambert'
-p3639
+p3892
 aS'1934'
-p3640
+p3893
 aS'Centre'
-p3641
+p3894
 aS'2'
 aS'0'
 aS'2'
@@ -10076,20 +10836,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p3642
+p3895
 aVRepublic of Ireland
-p3643
+p3896
 aVLeinster
-p3644
+p3897
 aVCounty Dublin
-p3645
-aa(lp3646
+p3898
+aVDublin
+p3899
+aa(lp3900
 S'David Lane'
-p3647
+p3901
 aS'1934'
-p3648
+p3902
 aS'Wing'
-p3649
+p3903
 aS'4'
 aS'1'
 aS'3'
@@ -10097,20 +10859,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p3650
+p3904
 aVRepublic of Ireland
-p3651
+p3905
 aVMunster
-p3652
+p3906
 aVCounty Cork
-p3653
-aa(lp3654
+p3907
+aVCork
+p3908
+aa(lp3909
 S'John Reid'
-p3655
+p3910
 aS'1934'
-p3656
+p3911
 aS'Fly-half'
-p3657
+p3912
 aS'2'
 aS'0'
 aS'2'
@@ -10118,43 +10882,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Cork'
-p3658
+p3913
 aVRepublic of Ireland
-p3659
+p3914
 aVMunster
-p3660
+p3915
 aVCounty Cork
-p3661
-aa(lp3662
+p3916
+ag93
+aa(lp3917
 S'Aidan Bailey'
-p3663
+p3918
 aS'1934'
-p3664
+p3919
 aS'Centre'
-p3665
+p3920
 aS'13'
-p3666
+p3921
 aS'6'
 aS'7'
 aS'0'
 aS'4'
 aS'22'
-p3667
+p3922
 aS'Dublin'
-p3668
+p3923
 aVRepublic of Ireland
-p3669
+p3924
 aVLeinster
-p3670
+p3925
 aVCounty Dublin
-p3671
-aa(lp3672
+p3926
+aVDublin
+p3927
+aa(lp3928
 S'Daniel Langan'
-p3673
+p3929
 aS'1934'
-p3674
+p3930
 aS'Fullback'
-p3675
+p3931
 aS'1'
 aS'0'
 aS'1'
@@ -10162,20 +10929,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p3676
+p3932
 aVRepublic of Ireland
-p3677
+p3933
 aVLeinster
-p3678
+p3934
 aVCounty Dublin
-p3679
-aa(lp3680
+p3935
+aVDublin
+p3936
+aa(lp3937
 S'Noel McGrath'
-p3681
+p3938
 aS'1934'
-p3682
+p3939
 aS'Prop'
-p3683
+p3940
 aS'1'
 aS'0'
 aS'1'
@@ -10183,20 +10952,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wakefield'
-p3684
+p3941
 aVUnited Kingdom
-p3685
+p3942
 aVEngland
-p3686
+p3943
 aVYorkshire and the Humber
-p3687
-aa(lp3688
+p3944
+aVWakefield
+p3945
+aa(lp3946
 S'John Megaw'
-p3689
+p3947
 aS'1934'
-p3690
+p3948
 aS'No. 8'
-p3691
+p3949
 aS'2'
 aS'0'
 aS'2'
@@ -10204,20 +10975,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Belfast'
-p3692
+p3950
 aVUnited Kingdom
-p3693
+p3951
 aVNorthern Ireland
-p3694
+p3952
 aVCounty Antrim
-p3695
-aa(lp3696
+p3953
+aVBelfast
+p3954
+aa(lp3955
 S'Philip Crowe'
-p3697
+p3956
 aS'1935'
-p3698
+p3957
 aS'Fullback'
-p3699
+p3958
 aS'2'
 aS'0'
 aS'2'
@@ -10225,20 +10998,22 @@ aS'0'
 aS'0'
 aS'2'
 aS'Dublin'
-p3700
+p3959
 aVRepublic of Ireland
-p3701
+p3960
 aVLeinster
-p3702
+p3961
 aVCounty Dublin
-p3703
-aa(lp3704
+p3962
+aVDublin
+p3963
+aa(lp3964
 S'Seamus Deering'
-p3705
+p3965
 aS'1935'
-p3706
+p3966
 aS'Lock'
-p3707
+p3967
 aS'9'
 aS'5'
 aS'4'
@@ -10246,20 +11021,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Wicklow'
-p3708
+p3968
 aVRepublic of Ireland
-p3709
+p3969
 aVLeinster
-p3710
+p3970
 aVCounty Wicklow
-p3711
-aa(lp3712
+p3971
+ag93
+aa(lp3972
 S'Patrick Lawlor'
-p3713
+p3973
 aS'1935'
-p3714
+p3974
 aS'Flanker'
-p3715
+p3975
 aS'6'
 aS'4'
 aS'2'
@@ -10267,42 +11043,45 @@ aS'0'
 aS'1'
 aS'3'
 aS'Co Wicklow'
-p3716
+p3976
 aVRepublic of Ireland
-p3717
+p3977
 aVLeinster
-p3718
+p3978
 aVCounty Wicklow
-p3719
-aa(lp3720
+p3979
+ag93
+aa(lp3980
 S'Mike Sayers'
-p3721
+p3981
 aS'1935'
-p3722
+p3982
 aS'Flanker'
-p3723
+p3983
 aS'10'
-p3724
+p3984
 aS'6'
 aS'4'
 aS'0'
 aS'0'
 aS'3'
 aS'Madras'
-p3725
+p3985
 aVIndia
-p3726
+p3986
 aV600001
-p3727
+p3987
 aVTamil Nadu
-p3728
-aa(lp3729
+p3988
+aVChennai
+p3989
+aa(lp3990
 S'Victor Hewitt'
-p3730
+p3991
 aS'1935'
-p3731
+p3992
 aS'Fly-half'
-p3732
+p3993
 aS'6'
 aS'4'
 aS'2'
@@ -10310,20 +11089,22 @@ aS'0'
 aS'0'
 aS'4'
 aS'Belfast'
-p3733
+p3994
 aVUnited Kingdom
-p3734
+p3995
 aVNorthern Ireland
-p3735
+p3996
 aVCounty Antrim
-p3736
-aa(lp3737
+p3997
+aVBelfast
+p3998
+aa(lp3999
 S'Jack Doyle'
-p3738
+p4000
 aS'1935'
-p3739
+p4001
 aS'Wing'
-p3740
+p4002
 aS'1'
 aS'1'
 aS'0'
@@ -10334,35 +11115,38 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3741
+aS's'
+aa(lp4003
 S'Vesey Boyle'
-p3742
+p4004
 aS'1935'
-p3743
+p4005
 aS'Wing'
-p3744
+p4006
 aS'11'
-p3745
+p4007
 aS'5'
 aS'6'
 aS'0'
 aS'1'
 aS'3'
 aS'Dublin'
-p3746
+p4008
 aVRepublic of Ireland
-p3747
+p4009
 aVLeinster
-p3748
+p4010
 aVCounty Dublin
-p3749
-aa(lp3750
+p4011
+aVDublin
+p4012
+aa(lp4013
 S'Thomas Dunn'
-p3751
+p4014
 aS'1935'
-p3752
+p4015
 aS'Prop'
-p3753
+p4016
 aS'1'
 aS'0'
 aS'1'
@@ -10373,13 +11157,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3754
+aS's'
+aa(lp4017
 S'George Malcolmson'
-p3755
+p4018
 aS'1935'
-p3756
+p4019
 aS'Fullback'
-p3757
+p4020
 aS'7'
 aS'4'
 aS'3'
@@ -10387,19 +11172,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p3758
+p4021
 aVUnited Kingdom
-p3759
+p4022
 aVNorthern Ireland
-p3760
-ag87
-aa(lp3761
+p4023
+ag93
+ag93
+aa(lp4024
 S'Clive Wallis'
-p3762
+p4025
 aS'1935'
-p3763
+p4026
 aS'Prop'
-p3764
+p4027
 aS'1'
 aS'0'
 aS'1'
@@ -10407,60 +11193,65 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p3765
+p4028
 aVRepublic of Ireland
-p3766
+p4029
 aVLeinster
-p3767
+p4030
 aVCounty Dublin
-p3768
-aa(lp3769
+p4031
+aVDublin
+p4032
+aa(lp4033
 S'Bob Alexander'
-p3770
+p4034
 aS'1936'
-p3771
+p4035
 aS'Flanker'
-p3772
+p4036
 aS'14'
-p3773
+p4037
 aS'7'
 aS'7'
 aS'0'
 aS'2'
 aS'6'
 aS'Belfast'
-p3774
+p4038
 aVUnited Kingdom
-p3775
+p4039
 aVNorthern Ireland
-p3776
+p4040
 aVCounty Antrim
-p3777
-aa(lp3778
+p4041
+aVBelfast
+p4042
+aa(lp4043
 S'Fred Moran'
-p3779
+p4044
 aS'1936'
-p3780
+p4045
 aS'Wing'
-p3781
+p4046
 aS'9'
 aS'5'
 aS'4'
 aS'0'
 aS'6'
 aS'18'
-p3782
+p4047
 aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3783
+aS's'
+aa(lp4048
 S'Thomas Corken'
-p3784
+p4049
 aS'1937'
-p3785
+p4050
 aS'Hooker'
-p3786
+p4051
 aS'3'
 aS'2'
 aS'1'
@@ -10468,40 +11259,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p3787
+p4052
 aVUnited Kingdom
-p3788
+p4053
 aVNorthern Ireland
-p3789
-ag87
-aa(lp3790
+p4054
+ag93
+ag93
+aa(lp4055
 S'George Cromey'
-p3791
+p4056
 aS'1937'
-p3792
+p4057
 aS'Fly-half'
-p3793
+p4058
 aS'10'
-p3794
+p4059
 aS'5'
 aS'5'
 aS'0'
 aS'2'
 aS'6'
 aS'Northern Ireland'
-p3795
+p4060
 aVUnited Kingdom
-p3796
+p4061
 aVNorthern Ireland
-p3797
-ag87
-aa(lp3798
+p4062
+ag93
+ag93
+aa(lp4063
 S'Blair Mayne'
-p3799
+p4064
 aS'1937'
-p3800
+p4065
 aS'Lock'
-p3801
+p4066
 aS'9'
 aS'4'
 aS'5'
@@ -10509,19 +11302,20 @@ aS'0'
 aS'1'
 aS'3'
 aS'Northern Ireland'
-p3802
+p4067
 aVUnited Kingdom
-p3803
+p4068
 aVNorthern Ireland
-p3804
-ag87
-aa(lp3805
+p4069
+ag93
+ag93
+aa(lp4070
 S'Charles Reidy'
-p3806
+p4071
 aS'1937'
-p3807
+p4072
 aS'Prop'
-p3808
+p4073
 aS'1'
 aS'1'
 aS'0'
@@ -10529,20 +11323,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'London'
-p3809
+p4074
 aVUnited Kingdom
-p3810
+p4075
 aVEngland
-p3811
+p4076
 aVGreater London
-p3812
-aa(lp3813
+p4077
+aVLondon
+p4078
+aa(lp4079
 S'Ted Ryan'
-p3814
+p4080
 aS'1937'
-p3815
+p4081
 aS'Prop'
-p3816
+p4082
 aS'3'
 aS'1'
 aS'2'
@@ -10550,771 +11346,66 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co.Clare'
-p3817
-aVRepublic of Ireland
-p3818
-aVMunster
-p3819
-aVCounty Clare
-p3820
-aa(lp3821
-S'Maurice Daly'
-p3822
-aS'1938'
-p3823
-aS'Wing'
-p3824
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3825
-S'John Irwin'
-p3826
-aS'1938'
-p3827
-aS'No. 8'
-p3828
-aS'5'
-aS'2'
-aS'3'
-aS'0'
-aS'1'
-aS'3'
-aS'Northern Ireland'
-p3829
-aVUnited Kingdom
-p3830
-aVNorthern Ireland
-p3831
-ag87
-aa(lp3832
-S'Victor Lyttle'
-p3833
-aS'1938'
-p3834
-aS'Wing'
-p3835
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Belfast'
-p3836
-aVUnited Kingdom
-p3837
-aVNorthern Ireland
-p3838
-aVCounty Antrim
-p3839
-aa(lp3840
-S"David O'Loughlin"
-p3841
-aS'1938'
-p3842
-aS'Lock'
-p3843
-aS'6'
-aS'2'
-aS'4'
-aS'0'
-aS'1'
-aS'3'
-aS'Glenbeigh'
-p3844
-aVRepublic of Ireland
-p3845
-aVMunster
-p3846
-aVCounty Kerry
-p3847
-aa(lp3848
-S'Ronald Craig'
-p3849
-aS'1938'
-p3850
-aS'Fullback'
-p3851
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Belfast'
-p3852
-aVUnited Kingdom
-p3853
-aVNorthern Ireland
-p3854
-aVCounty Antrim
-p3855
-aa(lp3856
-S'Hector Kennedy'
-p3857
-aS'1938'
-p3858
-aS'Prop'
-p3859
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3860
-S'Donough Tierney'
-p3861
-aS'1938'
-p3862
-aS'Lock'
-p3863
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3864
-S'Harry McKibbin'
-p3865
-aS'1938'
-p3866
-aS'Centre'
-p3867
-aS'7'
-aS'3'
-aS'4'
-aS'0'
-aS'0'
-aS'12'
-p3868
-aS'Belfast'
-p3869
-aVUnited Kingdom
-p3870
-aVNorthern Ireland
-p3871
-aVCounty Antrim
-p3872
-aa(lp3873
-S'Desmond Torrens'
-p3874
-aS'1938'
-p3875
-aS'Centre'
-p3876
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3877
-S'Con Murphy'
-p3878
-aS'1939'
-p3879
-aS'Fullback'
-p3880
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p3881
-aVRepublic of Ireland
-p3882
-aVLeinster
-p3883
-aVCounty Dublin
-p3884
-aa(lp3885
-S'James Ryan'
-p3886
-aS'1939'
-p3887
-aS'Prop'
-p3888
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p3889
-aVRepublic of Ireland
-p3890
-aVLeinster
-p3891
-aVCounty Dublin
-p3892
-aa(lp3893
-S'Charles Teehan'
-p3894
-aS'1939'
-p3895
-aS'Prop'
-p3896
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Co Cork'
-p3897
-aVRepublic of Ireland
-p3898
-aVMunster
-p3899
-aVCounty Cork
-p3900
-aa(lp3901
-S'Thomas Headon'
-p3902
-aS'1939'
-p3903
-aS'Prop'
-p3904
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Ballyporeen'
-p3905
-aVRepublic of Ireland
-p3906
-aVMunster
-p3907
-aVCounty Tipperary
-p3908
-aa(lp3909
-S'Robert Agar'
-p3910
-aS'1947'
-p3911
-aS'No. 8'
-p3912
-aS'10'
-p3913
-aS'5'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'Co Carlow'
-p3914
-aVRepublic of Ireland
-p3915
-aVLeinster
-p3916
-aVCounty Carlow
-p3917
-aa(lp3918
-S'Colm Callan'
-p3919
-aS'1947'
-p3920
-aS'Lock'
-p3921
-aS'10'
-p3922
-aS'7'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Co Louth'
-p3923
-aVRepublic of Ireland
-p3924
-aVLeinster
-p3925
-aVCounty Louth
-p3926
-aa(lp3927
-S'Ray Carroll'
-p3928
-aS'1947'
-p3929
-aS'Scrum-half'
-p3930
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p3931
-aVRepublic of Ireland
-p3932
-aVLeinster
-p3933
-aVCounty Dublin
-p3934
-aa(lp3935
-S'John Daly'
-p3936
-aS'1947'
-p3937
-aS'Prop'
-p3938
-aS'7'
-aS'5'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'Queenstown'
-p3939
-aVNew Zealand/Aotearoa
-p3940
-aVOtago
-p3941
-aVQueenstown-Lakes District
-p3942
-aa(lp3943
-S'John Harper'
-p3944
-aS'1947'
-p3945
-aS'Centre'
-p3946
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Belfast'
-p3947
-aVUnited Kingdom
-p3948
-aVNorthern Ireland
-p3949
-aVCounty Antrim
-p3950
-aa(lp3951
-S'Donal Hingerty'
-p3952
-aS'1947'
-p3953
-aS'Flanker'
-p3954
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p3955
-aVRepublic of Ireland
-p3956
-aVLeinster
-p3957
-aVCounty Dublin
-p3958
-aa(lp3959
-S'Ernie Keeffe'
-p3960
-aS'1947'
-p3961
-aS'Lock'
-p3962
-aS'6'
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Cork'
-p3963
-aVRepublic of Ireland
-p3964
-aVMunster
-p3965
-aVCounty Cork
-p3966
-aa(lp3967
-S'Jackie Kyle'
-p3968
-aS'1947'
-p3969
-aS'Fly-half'
-p3970
-aS'52'
-p3971
-aS'25'
-p3972
-aS'22'
-p3973
-aS'5'
-aS'9'
-aS'30'
-p3974
-aS'Northern Ireland'
-p3975
-aVUnited Kingdom
-p3976
-aVNorthern Ireland
-p3977
-ag87
-aa(lp3978
-S'Bill McKay'
-p3979
-aS'1947'
-p3980
-aS'Flanker'
-p3981
-aS'29'
-p3982
-aS'16'
-p3983
-aS'10'
-p3984
-aS'3'
-aS'3'
-aS'9'
-aS'Waterford'
-p3985
-aVRepublic of Ireland
-p3986
-aVMunster
-p3987
-aVCounty Waterford
-p3988
-aa(lp3989
-S'Barney Mullan'
-p3990
-aS'1947'
-p3991
-aS'Wing'
-p3992
-aS'8'
-aS'6'
-aS'2'
-aS'0'
-aS'6'
-aS'36'
-p3993
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp3994
-S'Karl Mullen'
-p3995
-aS'1947'
-p3996
-aS'Hooker'
-p3997
-aS'28'
-p3998
-aS'16'
-p3999
-aS'9'
-aS'3'
-aS'0'
-aS'0'
-aS'Courtown Harbour'
-p4000
-aVRepublic of Ireland
-p4001
-aVLeinster
-p4002
-aVCounty Wexford
-p4003
-aa(lp4004
-S'Matthew Neely'
-p4005
-aS'1947'
-p4006
-aS'Prop'
-p4007
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p4008
-aVUnited Kingdom
-p4009
-aVNorthern Ireland
-p4010
-ag87
-aa(lp4011
-S'Brendan Quinn'
-p4012
-aS'1947'
-p4013
-aS'Wing'
-p4014
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p4015
-aVRepublic of Ireland
-p4016
-aVLeinster
-p4017
-aVCounty Dublin
-p4018
-aa(lp4019
-S'Kevin Quinn'
-p4020
-aS'1947'
-p4021
-aS'Centre'
-p4022
-aS'5'
-aS'2'
-aS'2'
-aS'1'
-aS'0'
-aS'3'
-aS'Co Galway'
-p4023
-aVRepublic of Ireland
-p4024
-aVConnacht
-p4025
-aVCounty Galway
-p4026
-aa(lp4027
-S'Jack Monteith'
-p4028
-aS'1947'
-p4029
-aS'Centre'
-p4030
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p4031
-aVUnited Kingdom
-p4032
-aVNorthern Ireland
-p4033
-ag87
-aa(lp4034
-S"Bertie O'Hanlon"
-p4035
-aS'1947'
-p4036
-aS'Wing'
-p4037
-aS'12'
-p4038
-aS'9'
-aS'2'
-aS'1'
-aS'3'
-aS'9'
-aS'Cork'
-p4039
-aVRepublic of Ireland
-p4040
-aVMunster
-p4041
-aVCounty Cork
-p4042
-aa(lp4043
-S'Ernest Strathdee'
-p4044
-aS'1947'
-p4045
-aS'Scrum-half'
-p4046
-aS'9'
-aS'7'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp4047
-S'Dudley Higgins'
-p4048
-aS'1947'
-p4049
-aS'Fullback'
-p4050
-aS'6'
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Wicklow'
-p4051
-aVRepublic of Ireland
-p4052
-aVLeinster
-p4053
-aVCounty Wicklow
-p4054
-aa(lp4055
-S'Mick Lane'
-p4056
-aS'1947'
-p4057
-aS'Wing'
-p4058
-aS'19'
-p4059
-aS'10'
-p4060
-aS'6'
-aS'3'
-aS'1'
-aS'3'
-aS'Cork'
-p4061
-aVRepublic of Ireland
-p4062
-aVMunster
-p4063
-aVCounty Cork
-p4064
-aa(lp4065
-S'Jimmy Corcoran'
-p4066
-aS'1947'
-p4067
-aS'Prop'
-p4068
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cork'
-p4069
-aVRepublic of Ireland
-p4070
-aVMunster
-p4071
-aVCounty Cork
-p4072
-aa(lp4073
-S'Albert McConnell'
-p4074
-aS'1947'
-p4075
-aS'Prop'
-p4076
-aS'7'
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Belfast'
-p4077
-aVUnited Kingdom
-p4078
-aVNorthern Ireland
-p4079
-aVCounty Antrim
-p4080
-aa(lp4081
-S'Desmond McCourt'
-p4082
-aS'1947'
 p4083
-aS'No. 8'
+aVRepublic of Ireland
 p4084
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
+aVMunster
 p4085
-aVUnited Kingdom
+aVCounty Clare
 p4086
-aVNorthern Ireland
-p4087
-ag87
-aa(lp4088
-S'William McKee'
+ag93
+aa(lp4087
+S'Maurice Daly'
+p4088
+aS'1938'
 p4089
-aS'1947'
+aS'Wing'
 p4090
-aS'Centre'
-p4091
-aS'12'
-p4092
-aS'7'
-aS'4'
 aS'1'
-aS'2'
-aS'6'
-aS'Northern Ireland'
+aS'0'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp4091
+S'John Irwin'
+p4092
+aS'1938'
 p4093
-aVUnited Kingdom
+aS'No. 8'
 p4094
-aVNorthern Ireland
-p4095
-ag87
-aa(lp4096
-S'Jimmy Nelson'
-p4097
-aS'1947'
-p4098
-aS'Lock'
-p4099
-aS'20'
-p4100
-aS'11'
-p4101
-aS'7'
+aS'5'
 aS'2'
 aS'3'
-aS'9'
+aS'0'
+aS'1'
+aS'3'
+aS'Northern Ireland'
+p4095
+aVUnited Kingdom
+p4096
+aVNorthern Ireland
+p4097
+ag93
+ag93
+aa(lp4098
+S'Victor Lyttle'
+p4099
+aS'1938'
+p4100
+aS'Wing'
+p4101
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'Belfast'
 p4102
 aVUnited Kingdom
@@ -11323,104 +11414,64 @@ aVNorthern Ireland
 p4104
 aVCounty Antrim
 p4105
-aa(lp4106
-S"Kevin O'Flanagan"
-p4107
-aS'1947'
+aVBelfast
+p4106
+aa(lp4107
+S"David O'Loughlin"
 p4108
-aS'Wing'
+aS'1938'
 p4109
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p4110
-aVRepublic of Ireland
-p4111
-aVLeinster
-p4112
-aVCounty Dublin
-p4113
-aa(lp4114
-S'Paddy Reid'
-p4115
-aS'1947'
-p4116
-aS'Centre'
-p4117
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'Limerick'
-p4118
-aVRepublic of Ireland
-p4119
-aVMunster
-p4120
-aVCounty Limerick
-p4121
-aa(lp4122
-S'Richard Wilkinson'
-p4123
-aS'1947'
-p4124
 aS'Lock'
-p4125
-aS'1'
+p4110
+aS'6'
+aS'2'
+aS'4'
 aS'0'
 aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p4126
-aVRepublic of Ireland
-p4127
-aVLeinster
-p4128
-aVCounty Dublin
-p4129
-aa(lp4130
-S'Jim McCarthy'
-p4131
-aS'1948'
-p4132
-aS'Flanker'
-p4133
-aS'28'
-p4134
-aS'15'
-p4135
-aS'10'
-p4136
 aS'3'
-aS'8'
-aS'24'
-p4137
-aS'Cork'
-p4138
+aS'Glenbeigh'
+p4111
 aVRepublic of Ireland
-p4139
+p4112
 aVMunster
-p4140
-aVCounty Cork
-p4141
-aa(lp4142
-S'Hugh de Lacy'
-p4143
-aS'1948'
-p4144
-aS'Scrum-half'
-p4145
-aS'2'
+p4113
+aVCounty Kerry
+p4114
+aVGlenbeigh
+p4115
+aa(lp4116
+S'Ronald Craig'
+p4117
+aS'1938'
+p4118
+aS'Fullback'
+p4119
 aS'2'
 aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Belfast'
+p4120
+aVUnited Kingdom
+p4121
+aVNorthern Ireland
+p4122
+aVCounty Antrim
+p4123
+aVBelfast
+p4124
+aa(lp4125
+S'Hector Kennedy'
+p4126
+aS'1938'
+p4127
+aS'Prop'
+p4128
+aS'2'
+aS'0'
+aS'2'
 aS'0'
 aS'0'
 aS'0'
@@ -11428,42 +11479,103 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp4146
-S'John Mattsson'
-p4147
-aS'1948'
-p4148
-aS'Fullback'
-p4149
+aS's'
+aa(lp4129
+S'Donough Tierney'
+p4130
+aS'1938'
+p4131
+aS'Lock'
+p4132
+aS'3'
 aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Co.Cork'
-p4150
-aVRepublic of Ireland
-p4151
-aVMunster
-p4152
-aVCounty Cork
-p4153
-aa(lp4154
-S"Des O'Brien"
-p4155
-aS'1948'
-p4156
-aS'No. 8'
-p4157
-aS'20'
-p4158
-aS'12'
-p4159
-aS'6'
 aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp4133
+S'Harry McKibbin'
+p4134
+aS'1938'
+p4135
+aS'Centre'
+p4136
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'12'
+p4137
+aS'Belfast'
+p4138
+aVUnited Kingdom
+p4139
+aVNorthern Ireland
+p4140
+aVCounty Antrim
+p4141
+aVBelfast
+p4142
+aa(lp4143
+S'Desmond Torrens'
+p4144
+aS'1938'
+p4145
+aS'Centre'
+p4146
+aS'4'
+aS'2'
+aS'2'
+aS'0'
 aS'1'
 aS'3'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp4147
+S'Con Murphy'
+p4148
+aS'1939'
+p4149
+aS'Fullback'
+p4150
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p4151
+aVRepublic of Ireland
+p4152
+aVLeinster
+p4153
+aVCounty Dublin
+p4154
+aVDublin
+p4155
+aa(lp4156
+S'James Ryan'
+p4157
+aS'1939'
+p4158
+aS'Prop'
+p4159
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
 aS'Dublin'
 p4160
 aVRepublic of Ireland
@@ -11472,107 +11584,112 @@ aVLeinster
 p4162
 aVCounty Dublin
 p4163
-aa(lp4164
-S"Michael O'Flanagan"
-p4165
-aS'1948'
+aVDublin
+p4164
+aa(lp4165
+S'Charles Teehan'
 p4166
-aS'Centre'
+aS'1939'
 p4167
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p4168
-aVRepublic of Ireland
-p4169
-aVLeinster
-p4170
-aVCounty Dublin
-p4171
-aa(lp4172
-S'Tom Clifford'
-p4173
-aS'1949'
-p4174
 aS'Prop'
-p4175
-aS'19'
-p4176
-aS'10'
-p4177
-aS'7'
+p4168
+aS'3'
 aS'2'
 aS'1'
-aS'3'
-aS'Tipperary'
-p4178
+aS'0'
+aS'0'
+aS'0'
+aS'Co Cork'
+p4169
 aVRepublic of Ireland
-p4179
+p4170
 aVMunster
-p4180
+p4171
+aVCounty Cork
+p4172
+ag93
+aa(lp4173
+S'Thomas Headon'
+p4174
+aS'1939'
+p4175
+aS'Prop'
+p4176
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Ballyporeen'
+p4177
+aVRepublic of Ireland
+p4178
+aVMunster
+p4179
 aVCounty Tipperary
+p4180
+aVBallyporeen
 p4181
 aa(lp4182
-S'Thomas Cullen'
+S'Robert Agar'
 p4183
-aS'1949'
+aS'1947'
 p4184
-aS'Scrum-half'
+aS'No. 8'
 p4185
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
+aS'10'
 p4186
-aVRepublic of Ireland
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Co Carlow'
 p4187
-aVLeinster
+aVRepublic of Ireland
 p4188
-aVCounty Dublin
+aVLeinster
 p4189
-aa(lp4190
-S'Tom Gavin'
-p4191
-aS'1949'
+aVCounty Carlow
+p4190
+ag93
+aa(lp4191
+S'Colm Callan'
 p4192
-aS'Centre'
+aS'1947'
 p4193
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Coventry'
+aS'Lock'
 p4194
-aVUnited Kingdom
+aS'10'
 p4195
-aVEngland
-p4196
-aVWest Midlands
-p4197
-aa(lp4198
-S'George Norton'
-p4199
-aS'1949'
-p4200
-aS'Fullback'
-p4201
-aS'11'
-p4202
 aS'7'
 aS'3'
-aS'1'
 aS'0'
-aS'41'
+aS'0'
+aS'0'
+aS'Co Louth'
+p4196
+aVRepublic of Ireland
+p4197
+aVLeinster
+p4198
+aVCounty Louth
+p4199
+ag93
+aa(lp4200
+S'Ray Carroll'
+p4201
+aS'1947'
+p4202
+aS'Scrum-half'
 p4203
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'Dublin'
 p4204
 aVRepublic of Ireland
@@ -11581,435 +11698,428 @@ aVLeinster
 p4206
 aVCounty Dublin
 p4207
-aa(lp4208
-S'Leslie Griffin'
-p4209
-aS'1949'
+aVDublin
+p4208
+aa(lp4209
+S'John Daly'
 p4210
-aS'Prop'
+aS'1947'
 p4211
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Arklow'
+aS'Prop'
 p4212
-aVRepublic of Ireland
-p4213
-aVLeinster
-p4214
-aVCounty Wicklow
-p4215
-aa(lp4216
-S'Noel Henderson'
-p4217
-aS'1949'
-p4218
-aS'Centre'
-p4219
-aS'41'
-p4220
-aS'18'
-p4221
-aS'19'
-p4222
-aS'4'
-aS'3'
-aS'54'
-p4223
-aS'Northern Ireland'
-p4224
-aVUnited Kingdom
-p4225
-aVNorthern Ireland
-p4226
-ag87
-aa(lp4227
-S'John Burges'
-p4228
-aS'1950'
-p4229
-aS'Scrum-half'
-p4230
+aS'7'
+aS'5'
 aS'2'
 aS'0'
 aS'1'
+aS'3'
+aS'Queenstown'
+p4213
+aVNew Zealand/Aotearoa
+p4214
+aVOtago
+p4215
+aVQueenstown-Lakes District
+p4216
+aVQueenstown
+p4217
+aa(lp4218
+S'John Harper'
+p4219
+aS'1947'
+p4220
+aS'Centre'
+p4221
+aS'3'
+aS'2'
 aS'1'
 aS'0'
-aS'3'
-aS'Tipperary'
+aS'0'
+aS'0'
+aS'Belfast'
+p4222
+aVUnited Kingdom
+p4223
+aVNorthern Ireland
+p4224
+aVCounty Antrim
+p4225
+aVBelfast
+p4226
+aa(lp4227
+S'Donal Hingerty'
+p4228
+aS'1947'
+p4229
+aS'Flanker'
+p4230
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
 p4231
 aVRepublic of Ireland
 p4232
-aVMunster
+aVLeinster
 p4233
-aVCounty Tipperary
+aVCounty Dublin
 p4234
-aa(lp4235
-S'Arthur Curtis'
-p4236
-aS'1950'
+aVDublin
+p4235
+aa(lp4236
+S'Ernie Keeffe'
 p4237
-aS'Flanker'
+aS'1947'
 p4238
-aS'3'
-aS'1'
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aS'Shanghai'
+aS'Lock'
 p4239
-aV\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd
-p4240
-aV\u4e0a\u6d77
-p4241
-aV\u9ec4\u6d66\u533a (Huangpu)
-p4242
-aa(lp4243
-S'Des McKibbin'
-p4244
-aS'1950'
-p4245
-aS'Prop'
-p4246
-aS'8'
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'3'
-aS'Northern Ireland'
-p4247
-aVUnited Kingdom
-p4248
-aVNorthern Ireland
-p4249
-ag87
-aa(lp4250
-S'Louis Crowe'
-p4251
-aS'1950'
-p4252
-aS'Wing'
-p4253
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'Co.Tipperary'
-p4254
-aVRepublic of Ireland
-p4255
-aVMunster
-p4256
-aVCounty Tipperary
-p4257
-aa(lp4258
-S'George Phipps'
-p4259
-aS'1950'
-p4260
-aS'Centre'
-p4261
-aS'5'
-aS'1'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'Peshawar'
-p4262
-aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
-p4263
-aV\u062e\u06cc\u0628\u0631 \u067e\u062e\u062a\u0648\u0646\u062e\u0648\u0627
-p4264
-aVPesh\u0101war District
-p4265
-aa(lp4266
-S'John Blayney'
-p4267
-aS'1950'
-p4268
-aS'Centre'
-p4269
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'3'
-aS'Dublin'
-p4270
-aVRepublic of Ireland
-p4271
-aVLeinster
-p4272
-aVCounty Dublin
-p4273
-aa(lp4274
-S'Jacko Molony'
-p4275
-aS'1950'
-p4276
-aS'Lock'
-p4277
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Thurles'
-p4278
-aVRepublic of Ireland
-p4279
-aVMunster
-p4280
-aVCounty Tipperary
-p4281
-aa(lp4282
-S'Hex Uprichard'
-p4283
-aS'1950'
-p4284
-aS'Centre'
-p4285
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p4286
-aVUnited Kingdom
-p4287
-aVNorthern Ireland
-p4288
-ag87
-aa(lp4289
-S'Richard Chambers'
-p4290
-aS'1951'
-p4291
-aS'Centre'
-p4292
 aS'6'
-aS'4'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p4293
-aVUnited Kingdom
-p4294
-aVNorthern Ireland
-p4295
-ag87
-aa(lp4296
-S'Cornelius Griffin'
-p4297
-aS'1951'
-p4298
-aS'Wing'
-p4299
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'London'
-p4300
-aVUnited Kingdom
-p4301
-aVEngland
-p4302
-aVGreater London
-p4303
-aa(lp4304
-S"John O'Meara"
-p4305
-aS'1951'
-p4306
-aS'Scrum-half'
-p4307
-aS'22'
-p4308
-aS'10'
-p4309
-aS'9'
 aS'3'
-aS'2'
-aS'6'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
 aS'Cork'
-p4310
+p4240
 aVRepublic of Ireland
-p4311
+p4241
 aVMunster
-p4312
+p4242
 aVCounty Cork
-p4313
-aa(lp4314
-S'John Smith'
-p4315
-aS'1951'
-p4316
-aS'Prop'
-p4317
-aS'12'
-p4318
+p4243
+aVCork
+p4244
+aa(lp4245
+S'Jackie Kyle'
+p4246
+aS'1947'
+p4247
+aS'Fly-half'
+p4248
+aS'52'
+p4249
+aS'25'
+p4250
+aS'22'
+p4251
 aS'5'
-aS'6'
-aS'1'
-aS'0'
-aS'0'
+aS'9'
+aS'30'
+p4252
 aS'Northern Ireland'
-p4319
+p4253
 aVUnited Kingdom
-p4320
+p4254
 aVNorthern Ireland
-p4321
-ag87
-aa(lp4322
-S'William Millar'
-p4323
-aS'1951'
-p4324
-aS'Wing'
-p4325
-aS'5'
+p4255
+ag93
+ag93
+aa(lp4256
+S'Bill McKay'
+p4257
+aS'1947'
+p4258
+aS'Flanker'
+p4259
+aS'29'
+p4260
+aS'16'
+p4261
+aS'10'
+p4262
 aS'3'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p4326
-aVUnited Kingdom
-p4327
-aVNorthern Ireland
-p4328
-ag87
-aa(lp4329
-S'James Brady'
-p4330
-aS'1951'
-p4331
-aS'Lock'
-p4332
-aS'12'
-p4333
+aS'3'
+aS'9'
+aS'Waterford'
+p4263
+aVRepublic of Ireland
+p4264
+aVMunster
+p4265
+aVCounty Waterford
+p4266
+aVWaterford
+p4267
+aa(lp4268
+S'Barney Mullan'
+p4269
+aS'1947'
+p4270
+aS'Wing'
+p4271
+aS'8'
 aS'6'
-aS'4'
 aS'2'
 aS'0'
-aS'0'
-aS'Northern Ireland'
-p4334
-aVUnited Kingdom
-p4335
-aVNorthern Ireland
-p4336
-ag87
-aa(lp4337
-S'Patrick Lawlor'
-p4338
-aS'1951'
-p4339
-aS'Lock'
-p4340
-aS'12'
-p4341
-aS'5'
-aS'7'
-aS'0'
-aS'1'
-aS'3'
-aS'Dublin'
-p4342
-aVRepublic of Ireland
-p4343
-aVLeinster
-p4344
-aVCounty Dublin
-p4345
-aa(lp4346
-S'Angus McMorrow'
-p4347
-aS'1951'
-p4348
-aS'Fullback'
-p4349
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Sligo'
-p4350
-aVRepublic of Ireland
-p4351
-aVConnacht
-p4352
-aVCounty Sligo
-p4353
-aa(lp4354
-S'Antony Browne'
-p4355
-aS'1951'
-p4356
-aS'Centre'
-p4357
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
+aS'6'
+aS'36'
+p4272
 aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp4358
-S'Gerry Murphy'
-p4359
-aS'1951'
-p4360
-aS'Fullback'
-p4361
-aS'6'
-aS'1'
-aS'5'
+aS's'
+aa(lp4273
+S'Karl Mullen'
+p4274
+aS'1947'
+p4275
+aS'Hooker'
+p4276
+aS'28'
+p4277
+aS'16'
+p4278
+aS'9'
+aS'3'
 aS'0'
 aS'0'
-aS'5'
+aS'Courtown Harbour'
+p4279
+aVRepublic of Ireland
+p4280
+aVLeinster
+p4281
+aVCounty Wexford
+p4282
+aVCourtown
+p4283
+aa(lp4284
+S'Matthew Neely'
+p4285
+aS'1947'
+p4286
+aS'Prop'
+p4287
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
 aS'Northern Ireland'
+p4288
+aVUnited Kingdom
+p4289
+aVNorthern Ireland
+p4290
+ag93
+ag93
+aa(lp4291
+S'Brendan Quinn'
+p4292
+aS'1947'
+p4293
+aS'Wing'
+p4294
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p4295
+aVRepublic of Ireland
+p4296
+aVLeinster
+p4297
+aVCounty Dublin
+p4298
+aVDublin
+p4299
+aa(lp4300
+S'Kevin Quinn'
+p4301
+aS'1947'
+p4302
+aS'Centre'
+p4303
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'0'
+aS'3'
+aS'Co Galway'
+p4304
+aVRepublic of Ireland
+p4305
+aVConnacht
+p4306
+aVCounty Galway
+p4307
+ag93
+aa(lp4308
+S'Jack Monteith'
+p4309
+aS'1947'
+p4310
+aS'Centre'
+p4311
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p4312
+aVUnited Kingdom
+p4313
+aVNorthern Ireland
+p4314
+ag93
+ag93
+aa(lp4315
+S"Bertie O'Hanlon"
+p4316
+aS'1947'
+p4317
+aS'Wing'
+p4318
+aS'12'
+p4319
+aS'9'
+aS'2'
+aS'1'
+aS'3'
+aS'9'
+aS'Cork'
+p4320
+aVRepublic of Ireland
+p4321
+aVMunster
+p4322
+aVCounty Cork
+p4323
+aVCork
+p4324
+aa(lp4325
+S'Ernest Strathdee'
+p4326
+aS'1947'
+p4327
+aS'Scrum-half'
+p4328
+aS'9'
+aS'7'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp4329
+S'Dudley Higgins'
+p4330
+aS'1947'
+p4331
+aS'Fullback'
+p4332
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Wicklow'
+p4333
+aVRepublic of Ireland
+p4334
+aVLeinster
+p4335
+aVCounty Wicklow
+p4336
+aVWicklow
+p4337
+aa(lp4338
+S'Mick Lane'
+p4339
+aS'1947'
+p4340
+aS'Wing'
+p4341
+aS'19'
+p4342
+aS'10'
+p4343
+aS'6'
+aS'3'
+aS'1'
+aS'3'
+aS'Cork'
+p4344
+aVRepublic of Ireland
+p4345
+aVMunster
+p4346
+aVCounty Cork
+p4347
+aVCork
+p4348
+aa(lp4349
+S'Jimmy Corcoran'
+p4350
+aS'1947'
+p4351
+aS'Prop'
+p4352
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cork'
+p4353
+aVRepublic of Ireland
+p4354
+aVMunster
+p4355
+aVCounty Cork
+p4356
+aVCork
+p4357
+aa(lp4358
+S'Albert McConnell'
+p4359
+aS'1947'
+p4360
+aS'Prop'
+p4361
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Belfast'
 p4362
 aVUnited Kingdom
 p4363
 aVNorthern Ireland
 p4364
-ag87
-aa(lp4365
-S'Robin Thompson'
+aVCounty Antrim
+p4365
+aVBelfast
 p4366
-aS'1951'
-p4367
-aS'Lock'
+aa(lp4367
+S'Desmond McCourt'
 p4368
-aS'14'
+aS'1947'
 p4369
-aS'4'
-aS'10'
+aS'No. 8'
 p4370
+aS'1'
+aS'0'
+aS'1'
 aS'0'
 aS'0'
 aS'0'
@@ -12019,119 +12129,111 @@ aVUnited Kingdom
 p4372
 aVNorthern Ireland
 p4373
-ag87
+ag93
+ag93
 aa(lp4374
-S'John Notley'
+S'William McKee'
 p4375
-aS'1952'
+aS'1947'
 p4376
-aS'Fullback'
+aS'Centre'
 p4377
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'2'
-aS"Co Roscom'n"
+aS'12'
 p4378
-aS'g'
-aS'n'
-aS'i'
-aa(lp4379
-S'Mick Dargan'
-p4380
-aS'1952'
-p4381
-aS'Flanker'
-p4382
-aS'2'
+aS'7'
+aS'4'
 aS'1'
+aS'2'
+aS'6'
+aS'Northern Ireland'
+p4379
+aVUnited Kingdom
+p4380
+aVNorthern Ireland
+p4381
+ag93
+ag93
+aa(lp4382
+S'Jimmy Nelson'
+p4383
+aS'1947'
+p4384
+aS'Lock'
+p4385
+aS'20'
+p4386
+aS'11'
+p4387
+aS'7'
+aS'2'
+aS'3'
+aS'9'
+aS'Belfast'
+p4388
+aVUnited Kingdom
+p4389
+aVNorthern Ireland
+p4390
+aVCounty Antrim
+p4391
+aVBelfast
+p4392
+aa(lp4393
+S"Kevin O'Flanagan"
+p4394
+aS'1947'
+p4395
+aS'Wing'
+p4396
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p4383
+p4397
 aVRepublic of Ireland
-p4384
+p4398
 aVLeinster
-p4385
+p4399
 aVCounty Dublin
-p4386
-aa(lp4387
-S"Archie O'Leary"
-p4388
-aS'1952'
-p4389
-aS'Lock'
-p4390
+p4400
+aVDublin
+p4401
+aa(lp4402
+S'Paddy Reid'
+p4403
+aS'1947'
+p4404
+aS'Centre'
+p4405
+aS'4'
 aS'3'
 aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Cork'
-p4391
-aVRepublic of Ireland
-p4392
-aVMunster
-p4393
-aVCounty Cork
-p4394
-aa(lp4395
-S'Niall Bailey'
-p4396
-aS'1952'
-p4397
-aS'Wing'
-p4398
-aS'1'
 aS'0'
 aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p4399
-aVRepublic of Ireland
-p4400
-aVLeinster
-p4401
-aVCounty Dublin
-p4402
-aa(lp4403
-S'Michael Hillary'
-p4404
-aS'1952'
-p4405
-aS'Wing'
+aS'3'
+aS'Limerick'
 p4406
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Malaya'
+aVRepublic of Ireland
 p4407
-aVPhilippines
+aVMunster
 p4408
-aVMetro Manila
+aVCounty Limerick
 p4409
-aVQuezon City
+aVLimerick
 p4410
 aa(lp4411
-S'Patrick Kavanagh'
+S'Richard Wilkinson'
 p4412
-aS'1952'
+aS'1947'
 p4413
-aS'Flanker'
+aS'Lock'
 p4414
-aS'2'
+aS'1'
 aS'0'
-aS'2'
+aS'1'
 aS'0'
 aS'0'
 aS'0'
@@ -12143,13 +12245,830 @@ aVLeinster
 p4417
 aVCounty Dublin
 p4418
-aa(lp4419
-S"William O'Neill"
-p4420
-aS'1952'
+aVDublin
+p4419
+aa(lp4420
+S'Jim McCarthy'
 p4421
-aS'Prop'
+aS'1948'
 p4422
+aS'Flanker'
+p4423
+aS'28'
+p4424
+aS'15'
+p4425
+aS'10'
+p4426
+aS'3'
+aS'8'
+aS'24'
+p4427
+aS'Cork'
+p4428
+aVRepublic of Ireland
+p4429
+aVMunster
+p4430
+aVCounty Cork
+p4431
+aVCork
+p4432
+aa(lp4433
+S'Hugh de Lacy'
+p4434
+aS'1948'
+p4435
+aS'Scrum-half'
+p4436
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp4437
+S'John Mattsson'
+p4438
+aS'1948'
+p4439
+aS'Fullback'
+p4440
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Co.Cork'
+p4441
+aVRepublic of Ireland
+p4442
+aVMunster
+p4443
+aVCounty Cork
+p4444
+ag93
+aa(lp4445
+S"Des O'Brien"
+p4446
+aS'1948'
+p4447
+aS'No. 8'
+p4448
+aS'20'
+p4449
+aS'12'
+p4450
+aS'6'
+aS'2'
+aS'1'
+aS'3'
+aS'Dublin'
+p4451
+aVRepublic of Ireland
+p4452
+aVLeinster
+p4453
+aVCounty Dublin
+p4454
+aVDublin
+p4455
+aa(lp4456
+S"Michael O'Flanagan"
+p4457
+aS'1948'
+p4458
+aS'Centre'
+p4459
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p4460
+aVRepublic of Ireland
+p4461
+aVLeinster
+p4462
+aVCounty Dublin
+p4463
+aVDublin
+p4464
+aa(lp4465
+S'Tom Clifford'
+p4466
+aS'1949'
+p4467
+aS'Prop'
+p4468
+aS'19'
+p4469
+aS'10'
+p4470
+aS'7'
+aS'2'
+aS'1'
+aS'3'
+aS'Tipperary'
+p4471
+aVRepublic of Ireland
+p4472
+aVMunster
+p4473
+aVCounty Tipperary
+p4474
+aVTipperary
+p4475
+aa(lp4476
+S'Thomas Cullen'
+p4477
+aS'1949'
+p4478
+aS'Scrum-half'
+p4479
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p4480
+aVRepublic of Ireland
+p4481
+aVLeinster
+p4482
+aVCounty Dublin
+p4483
+aVDublin
+p4484
+aa(lp4485
+S'Tom Gavin'
+p4486
+aS'1949'
+p4487
+aS'Centre'
+p4488
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Coventry'
+p4489
+aVUnited Kingdom
+p4490
+aVEngland
+p4491
+aVWest Midlands
+p4492
+aVCoventry
+p4493
+aa(lp4494
+S'George Norton'
+p4495
+aS'1949'
+p4496
+aS'Fullback'
+p4497
+aS'11'
+p4498
+aS'7'
+aS'3'
+aS'1'
+aS'0'
+aS'41'
+p4499
+aS'Dublin'
+p4500
+aVRepublic of Ireland
+p4501
+aVLeinster
+p4502
+aVCounty Dublin
+p4503
+aVDublin
+p4504
+aa(lp4505
+S'Leslie Griffin'
+p4506
+aS'1949'
+p4507
+aS'Prop'
+p4508
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Arklow'
+p4509
+aVRepublic of Ireland
+p4510
+aVLeinster
+p4511
+aVCounty Wicklow
+p4512
+aVArklow
+p4513
+aa(lp4514
+S'Noel Henderson'
+p4515
+aS'1949'
+p4516
+aS'Centre'
+p4517
+aS'41'
+p4518
+aS'18'
+p4519
+aS'19'
+p4520
+aS'4'
+aS'3'
+aS'54'
+p4521
+aS'Northern Ireland'
+p4522
+aVUnited Kingdom
+p4523
+aVNorthern Ireland
+p4524
+ag93
+ag93
+aa(lp4525
+S'John Burges'
+p4526
+aS'1950'
+p4527
+aS'Scrum-half'
+p4528
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'3'
+aS'Tipperary'
+p4529
+aVRepublic of Ireland
+p4530
+aVMunster
+p4531
+aVCounty Tipperary
+p4532
+aVTipperary
+p4533
+aa(lp4534
+S'Arthur Curtis'
+p4535
+aS'1950'
+p4536
+aS'Flanker'
+p4537
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'1'
+aS'3'
+aS'Shanghai'
+p4538
+aV\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd
+p4539
+aV\u4e0a\u6d77
+p4540
+aV\u9ec4\u6d66\u533a (Huangpu)
+p4541
+aV\u4e0a\u6d77\u5e02
+p4542
+aa(lp4543
+S'Des McKibbin'
+p4544
+aS'1950'
+p4545
+aS'Prop'
+p4546
+aS'8'
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'3'
+aS'Northern Ireland'
+p4547
+aVUnited Kingdom
+p4548
+aVNorthern Ireland
+p4549
+ag93
+ag93
+aa(lp4550
+S'Louis Crowe'
+p4551
+aS'1950'
+p4552
+aS'Wing'
+p4553
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Co.Tipperary'
+p4554
+aVRepublic of Ireland
+p4555
+aVMunster
+p4556
+aVCounty Tipperary
+p4557
+ag93
+aa(lp4558
+S'George Phipps'
+p4559
+aS'1950'
+p4560
+aS'Centre'
+p4561
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Peshawar'
+p4562
+aV\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
+p4563
+aV\u062e\u06cc\u0628\u0631 \u067e\u062e\u062a\u0648\u0646\u062e\u0648\u0627
+p4564
+aVPesh\u0101war District
+p4565
+aVPeshawar
+p4566
+aa(lp4567
+S'John Blayney'
+p4568
+aS'1950'
+p4569
+aS'Centre'
+p4570
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Dublin'
+p4571
+aVRepublic of Ireland
+p4572
+aVLeinster
+p4573
+aVCounty Dublin
+p4574
+aVDublin
+p4575
+aa(lp4576
+S'Jacko Molony'
+p4577
+aS'1950'
+p4578
+aS'Lock'
+p4579
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Thurles'
+p4580
+aVRepublic of Ireland
+p4581
+aVMunster
+p4582
+aVCounty Tipperary
+p4583
+aVThurles
+p4584
+aa(lp4585
+S'Hex Uprichard'
+p4586
+aS'1950'
+p4587
+aS'Centre'
+p4588
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p4589
+aVUnited Kingdom
+p4590
+aVNorthern Ireland
+p4591
+ag93
+ag93
+aa(lp4592
+S'Richard Chambers'
+p4593
+aS'1951'
+p4594
+aS'Centre'
+p4595
+aS'6'
+aS'4'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p4596
+aVUnited Kingdom
+p4597
+aVNorthern Ireland
+p4598
+ag93
+ag93
+aa(lp4599
+S'Cornelius Griffin'
+p4600
+aS'1951'
+p4601
+aS'Wing'
+p4602
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'London'
+p4603
+aVUnited Kingdom
+p4604
+aVEngland
+p4605
+aVGreater London
+p4606
+aVLondon
+p4607
+aa(lp4608
+S"John O'Meara"
+p4609
+aS'1951'
+p4610
+aS'Scrum-half'
+p4611
+aS'22'
+p4612
+aS'10'
+p4613
+aS'9'
+aS'3'
+aS'2'
+aS'6'
+aS'Cork'
+p4614
+aVRepublic of Ireland
+p4615
+aVMunster
+p4616
+aVCounty Cork
+p4617
+aVCork
+p4618
+aa(lp4619
+S'John Smith'
+p4620
+aS'1951'
+p4621
+aS'Prop'
+p4622
+aS'12'
+p4623
+aS'5'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p4624
+aVUnited Kingdom
+p4625
+aVNorthern Ireland
+p4626
+ag93
+ag93
+aa(lp4627
+S'William Millar'
+p4628
+aS'1951'
+p4629
+aS'Wing'
+p4630
+aS'5'
+aS'3'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p4631
+aVUnited Kingdom
+p4632
+aVNorthern Ireland
+p4633
+ag93
+ag93
+aa(lp4634
+S'James Brady'
+p4635
+aS'1951'
+p4636
+aS'Lock'
+p4637
+aS'12'
+p4638
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p4639
+aVUnited Kingdom
+p4640
+aVNorthern Ireland
+p4641
+ag93
+ag93
+aa(lp4642
+S'Patrick Lawlor'
+p4643
+aS'1951'
+p4644
+aS'Lock'
+p4645
+aS'12'
+p4646
+aS'5'
+aS'7'
+aS'0'
+aS'1'
+aS'3'
+aS'Dublin'
+p4647
+aVRepublic of Ireland
+p4648
+aVLeinster
+p4649
+aVCounty Dublin
+p4650
+aVDublin
+p4651
+aa(lp4652
+S'Angus McMorrow'
+p4653
+aS'1951'
+p4654
+aS'Fullback'
+p4655
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Sligo'
+p4656
+aVRepublic of Ireland
+p4657
+aVConnacht
+p4658
+aVCounty Sligo
+p4659
+aVSligo
+p4660
+aa(lp4661
+S'Antony Browne'
+p4662
+aS'1951'
+p4663
+aS'Centre'
+p4664
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp4665
+S'Gerry Murphy'
+p4666
+aS'1951'
+p4667
+aS'Fullback'
+p4668
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'5'
+aS'Northern Ireland'
+p4669
+aVUnited Kingdom
+p4670
+aVNorthern Ireland
+p4671
+ag93
+ag93
+aa(lp4672
+S'Robin Thompson'
+p4673
+aS'1951'
+p4674
+aS'Lock'
+p4675
+aS'14'
+p4676
+aS'4'
+aS'10'
+p4677
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p4678
+aVUnited Kingdom
+p4679
+aVNorthern Ireland
+p4680
+ag93
+ag93
+aa(lp4681
+S'John Notley'
+p4682
+aS'1952'
+p4683
+aS'Fullback'
+p4684
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'2'
+aS"Co Roscom'n"
+p4685
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp4686
+S'Mick Dargan'
+p4687
+aS'1952'
+p4688
+aS'Flanker'
+p4689
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p4690
+aVRepublic of Ireland
+p4691
+aVLeinster
+p4692
+aVCounty Dublin
+p4693
+aVDublin
+p4694
+aa(lp4695
+S"Archie O'Leary"
+p4696
+aS'1952'
+p4697
+aS'Lock'
+p4698
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Cork'
+p4699
+aVRepublic of Ireland
+p4700
+aVMunster
+p4701
+aVCounty Cork
+p4702
+aVCork
+p4703
+aa(lp4704
+S'Niall Bailey'
+p4705
+aS'1952'
+p4706
+aS'Wing'
+p4707
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p4708
+aVRepublic of Ireland
+p4709
+aVLeinster
+p4710
+aVCounty Dublin
+p4711
+aVDublin
+p4712
+aa(lp4713
+S'Michael Hillary'
+p4714
+aS'1952'
+p4715
+aS'Wing'
+p4716
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Malaya'
+p4717
+aVPhilippines
+p4718
+aVMetro Manila
+p4719
+aVQuezon City
+p4720
+aVDistrict IV
+p4721
+aa(lp4722
+S'Patrick Kavanagh'
+p4723
+aS'1952'
+p4724
+aS'Flanker'
+p4725
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p4726
+aVRepublic of Ireland
+p4727
+aVLeinster
+p4728
+aVCounty Dublin
+p4729
+aVDublin
+p4730
+aa(lp4731
+S"William O'Neill"
+p4732
+aS'1952'
+p4733
+aS'Prop'
+p4734
 aS'6'
 aS'2'
 aS'3'
@@ -12157,64 +13076,69 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
-p4423
+p4735
 aVRepublic of Ireland
-p4424
+p4736
 aVLeinster
-p4425
+p4737
 aVCounty Dublin
-p4426
-aa(lp4427
+p4738
+aVDublin
+p4739
+aa(lp4740
 S'Robin Roe'
-p4428
+p4741
 aS'1952'
-p4429
+p4742
 aS'Hooker'
-p4430
+p4743
 aS'21'
-p4431
+p4744
 aS'7'
 aS'12'
-p4432
+p4745
 aS'2'
 aS'0'
 aS'0'
 aS'Ballybrophy'
-p4433
+p4746
 aVRepublic of Ireland
-p4434
+p4747
 aVLeinster
-p4435
+p4748
 aVCounty Laois
-p4436
-aa(lp4437
+p4749
+aVBallybrophy
+p4750
+aa(lp4751
 S'Fuzzy Anderson'
-p4438
+p4752
 aS'1953'
-p4439
+p4753
 aS'Prop'
-p4440
+p4754
 aS'13'
-p4441
+p4755
 aS'3'
 aS'8'
 aS'2'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4442
+p4756
 aVUnited Kingdom
-p4443
+p4757
 aVNorthern Ireland
-p4444
-ag87
-aa(lp4445
+p4758
+ag93
+ag93
+aa(lp4759
 S'Ewart Bell'
-p4446
+p4760
 aS'1953'
-p4447
+p4761
 aS'Flanker'
-p4448
+p4762
 aS'4'
 aS'2'
 aS'1'
@@ -12222,154 +13146,164 @@ aS'1'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4449
+p4763
 aVUnited Kingdom
-p4450
+p4764
 aVNorthern Ireland
-p4451
-ag87
-aa(lp4452
+p4765
+ag93
+ag93
+aa(lp4766
 S'Robin Gregg'
-p4453
+p4767
 aS'1953'
-p4454
+p4768
 aS'Fullback'
-p4455
+p4769
 aS'7'
 aS'3'
 aS'3'
 aS'1'
 aS'0'
 aS'12'
-p4456
+p4770
 aS'Northern Ireland'
-p4457
+p4771
 aVUnited Kingdom
-p4458
+p4772
 aVNorthern Ireland
-p4459
-ag87
-aa(lp4460
+p4773
+ag93
+ag93
+aa(lp4774
 S'James Kavanagh'
-p4461
+p4775
 aS'1953'
-p4462
+p4776
 aS'Flanker'
-p4463
+p4777
 aS'35'
-p4464
+p4778
 aS'12'
-p4465
+p4779
 aS'21'
-p4466
+p4780
 aS'2'
 aS'4'
 aS'12'
-p4467
+p4781
 aS'Dublin'
-p4468
+p4782
 aVRepublic of Ireland
-p4469
+p4783
 aVLeinster
-p4470
+p4784
 aVCounty Dublin
-p4471
-aa(lp4472
+p4785
+aVDublin
+p4786
+aa(lp4787
 S'Maurice Mortell'
-p4473
+p4788
 aS'1953'
-p4474
+p4789
 aS'Wing'
-p4475
+p4790
 aS'9'
 aS'3'
 aS'5'
 aS'1'
 aS'5'
 aS'15'
-p4476
+p4791
 aS'Co Cork'
-p4477
+p4792
 aVRepublic of Ireland
-p4478
+p4793
 aVMunster
-p4479
+p4794
 aVCounty Cork
-p4480
-aa(lp4481
+p4795
+ag93
+aa(lp4796
 S'Tom Reid'
-p4482
+p4797
 aS'1953'
-p4483
+p4798
 aS'Lock'
-p4484
+p4799
 aS'15'
-p4485
+p4800
 aS'4'
 aS'9'
 aS'2'
 aS'0'
 aS'0'
 aS'Limerick'
-p4486
+p4801
 aVRepublic of Ireland
-p4487
+p4802
 aVMunster
-p4488
+p4803
 aVCounty Limerick
-p4489
-aa(lp4490
+p4804
+aVLimerick
+p4805
+aa(lp4806
 S'Seamus Byrne'
-p4491
+p4807
 aS'1953'
-p4492
+p4808
 aS'Wing'
-p4493
+p4809
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'4'
 aS'12'
-p4494
+p4810
 aS'Dublin'
-p4495
+p4811
 aVRepublic of Ireland
-p4496
+p4812
 aVLeinster
-p4497
+p4813
 aVCounty Dublin
-p4498
-aa(lp4499
+p4814
+aVDublin
+p4815
+aa(lp4816
 S'Cecil Pedlow'
-p4500
+p4817
 aS'1953'
-p4501
+p4818
 aS'Wing'
-p4502
+p4819
 aS'32'
-p4503
+p4820
 aS'7'
 aS'23'
-p4504
+p4821
 aS'2'
 aS'4'
 aS'36'
-p4505
+p4822
 aS'Northern Ireland'
-p4506
+p4823
 aVUnited Kingdom
-p4507
+p4824
 aVNorthern Ireland
-p4508
-ag87
-aa(lp4509
+p4825
+ag93
+ag93
+aa(lp4826
 S'Gerard Reidy'
-p4510
+p4827
 aS'1953'
-p4511
+p4828
 aS'Flanker'
-p4512
+p4829
 aS'5'
 aS'1'
 aS'4'
@@ -12377,20 +13311,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p4513
+p4830
 aVRepublic of Ireland
-p4514
+p4831
 aVMunster
-p4515
+p4832
 aVCounty Cork
-p4516
-aa(lp4517
+p4833
+aVCork
+p4834
+aa(lp4835
 S'Joseph Gaston'
-p4518
+p4836
 aS'1954'
-p4519
+p4837
 aS'Wing'
-p4520
+p4838
 aS'8'
 aS'1'
 aS'7'
@@ -12398,19 +13334,20 @@ aS'0'
 aS'1'
 aS'3'
 aS'Northern Ireland'
-p4521
+p4839
 aVUnited Kingdom
-p4522
+p4840
 aVNorthern Ireland
-p4523
-ag87
-aa(lp4524
+p4841
+ag93
+ag93
+aa(lp4842
 S'William Hewitt'
-p4525
+p4843
 aS'1954'
-p4526
+p4844
 aS'Fly-half'
-p4527
+p4845
 aS'4'
 aS'1'
 aS'3'
@@ -12418,19 +13355,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4528
+p4846
 aVUnited Kingdom
-p4529
+p4847
 aVNorthern Ireland
-p4530
-ag87
-aa(lp4531
+p4848
+ag93
+ag93
+aa(lp4849
 S"James Murphy-O'Connor"
-p4532
+p4850
 aS'1954'
-p4533
+p4851
 aS'No. 8'
-p4534
+p4852
 aS'1'
 aS'0'
 aS'1'
@@ -12438,44 +13376,48 @@ aS'0'
 aS'0'
 aS'3'
 aS'Reading'
-p4535
+p4853
 aVUnited Kingdom
-p4536
+p4854
 aVEngland
-p4537
+p4855
 aVSouth East
-p4538
-aa(lp4539
+p4856
+aVReading
+p4857
+aa(lp4858
 S'Gordon Wood'
-p4540
+p4859
 aS'1954'
-p4541
+p4860
 aS'Prop'
-p4542
+p4861
 aS'31'
-p4543
+p4862
 aS'10'
-p4544
+p4863
 aS'21'
-p4545
+p4864
 aS'0'
 aS'1'
 aS'3'
 aS'Limerick'
-p4546
+p4865
 aVRepublic of Ireland
-p4547
+p4866
 aVMunster
-p4548
+p4867
 aVCounty Limerick
-p4549
-aa(lp4550
+p4868
+aVLimerick
+p4869
+aa(lp4870
 S'Robin Godfrey'
-p4551
+p4871
 aS'1954'
-p4552
+p4872
 aS'Centre'
-p4553
+p4873
 aS'2'
 aS'1'
 aS'1'
@@ -12483,64 +13425,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'Essex'
-p4554
+p4874
 aVUnited Kingdom
-p4555
+p4875
 aVEngland
-p4556
+p4876
 aVEast of England
-p4557
-aa(lp4558
+p4877
+aVEssex
+p4878
+aa(lp4879
 S'Seamus Kelly'
-p4559
+p4880
 aS'1954'
-p4560
+p4881
 aS'Fly-half'
-p4561
+p4882
 aS'5'
 aS'1'
 aS'4'
 aS'0'
 aS'0'
 aS'12'
-p4562
+p4883
 aS'Wexford'
-p4563
+p4884
 aVRepublic of Ireland
-p4564
+p4885
 aVLeinster
-p4565
+p4886
 aVCounty Wexford
-p4566
-aa(lp4567
+p4887
+aVWexford
+p4888
+aa(lp4889
 S'Patrick Berkery'
-p4568
+p4890
 aS'1954'
-p4569
+p4891
 aS'Fullback'
-p4570
+p4892
 aS'11'
-p4571
+p4893
 aS'6'
 aS'5'
 aS'0'
 aS'0'
 aS'5'
 aS'Clonmel'
-p4572
+p4894
 aVRepublic of Ireland
-p4573
+p4895
 aVMunster
-p4574
+p4896
 aVCounty Tipperary
-p4575
-aa(lp4576
+p4897
+aVClonmel
+p4898
+aa(lp4899
 S'Herbert McCracken'
-p4577
+p4900
 aS'1954'
-p4578
+p4901
 aS'Scrum-half'
-p4579
+p4902
 aS'1'
 aS'0'
 aS'1'
@@ -12548,19 +13496,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4580
+p4903
 aVUnited Kingdom
-p4581
+p4904
 aVNorthern Ireland
-p4582
-ag87
-aa(lp4583
+p4905
+ag93
+ag93
+aa(lp4906
 S'Marney Cunningham'
-p4584
+p4907
 aS'1955'
-p4585
+p4908
 aS'Flanker'
-p4586
+p4909
 aS'7'
 aS'2'
 aS'4'
@@ -12568,20 +13517,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Cork'
-p4587
+p4910
 aVRepublic of Ireland
-p4588
+p4911
 aVMunster
-p4589
+p4912
 aVCounty Cork
-p4590
-aa(lp4591
+p4913
+aVCork
+p4914
+aa(lp4915
 S"William O'Connell"
-p4592
+p4916
 aS'1955'
-p4593
+p4917
 aS'Lock'
-p4594
+p4918
 aS'1'
 aS'0'
 aS'1'
@@ -12589,68 +13540,74 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p4595
+p4919
 aVRepublic of Ireland
-p4596
+p4920
 aVMunster
-p4597
+p4921
 aVCounty Limerick
-p4598
-aa(lp4599
+p4922
+aVLimerick
+p4923
+aa(lp4924
 S"Patrick O'Donoghue"
-p4600
+p4925
 aS'1955'
-p4601
+p4926
 aS'Prop'
-p4602
+p4927
 aS'11'
-p4603
+p4928
 aS'4'
 aS'6'
 aS'1'
 aS'0'
 aS'0'
 aS'Dun Laoghaire'
-p4604
+p4929
 aVRepublic of Ireland
-p4605
+p4930
 aVLeinster
-p4606
+p4931
 aVCounty Dublin
-p4607
-aa(lp4608
+p4932
+aVDún Laoghaire-Rathdown
+p4933
+aa(lp4934
 S"Tony O'Reilly"
-p4609
+p4935
 aS'1955'
-p4610
+p4936
 aS'Wing'
-p4611
+p4937
 aS'39'
-p4612
+p4938
 aS'15'
-p4613
+p4939
 aS'23'
-p4614
+p4940
 aS'1'
 aS'10'
-p4615
+p4941
 aS'30'
-p4616
+p4942
 aS'Dublin'
-p4617
+p4943
 aVRepublic of Ireland
-p4618
+p4944
 aVLeinster
-p4619
+p4945
 aVCounty Dublin
-p4620
-aa(lp4621
+p4946
+aVDublin
+p4947
+aa(lp4948
 S'William Tector'
-p4622
+p4949
 aS'1955'
-p4623
+p4950
 aS'Fullback'
-p4624
+p4951
 aS'3'
 aS'0'
 aS'2'
@@ -12658,20 +13615,21 @@ aS'1'
 aS'0'
 aS'0'
 aS'Co Wexford'
-p4625
+p4952
 aVRepublic of Ireland
-p4626
+p4953
 aVLeinster
-p4627
+p4954
 aVCounty Wexford
-p4628
-aa(lp4629
+p4955
+ag93
+aa(lp4956
 S'Mick Madden'
-p4630
+p4957
 aS'1955'
-p4631
+p4958
 aS'Lock'
-p4632
+p4959
 aS'3'
 aS'0'
 aS'2'
@@ -12679,20 +13637,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cork'
-p4633
+p4960
 aVRepublic of Ireland
-p4634
+p4961
 aVMunster
-p4635
+p4962
 aVCounty Cork
-p4636
-aa(lp4637
+p4963
+aVCork
+p4964
+aa(lp4965
 S'Richard Roche'
-p4638
+p4966
 aS'1955'
-p4639
+p4967
 aS'Wing'
-p4640
+p4968
 aS'4'
 aS'1'
 aS'2'
@@ -12700,20 +13660,21 @@ aS'1'
 aS'0'
 aS'0'
 aS'Co Galway'
-p4641
+p4969
 aVRepublic of Ireland
-p4642
+p4970
 aVConnacht
-p4643
+p4971
 aVCounty Galway
-p4644
-aa(lp4645
+p4972
+ag93
+aa(lp4973
 S'Sean McDermott'
-p4646
+p4974
 aS'1955'
-p4647
+p4975
 aS'Scrum-half'
-p4648
+p4976
 aS'2'
 aS'0'
 aS'2'
@@ -12721,20 +13682,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kinsale'
-p4649
+p4977
 aVRepublic of Ireland
-p4650
+p4978
 aVMunster
-p4651
+p4979
 aVCounty Cork
-p4652
-aa(lp4653
+p4980
+aVKinsale
+p4981
+aa(lp4982
 S'David MacSweeney'
-p4654
+p4983
 aS'1955'
-p4655
+p4984
 aS'Flanker'
-p4656
+p4985
 aS'1'
 aS'0'
 aS'1'
@@ -12742,17 +13705,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Waterf'
-p4657
+p4986
 aS'g'
 aS'n'
 aS'i'
-aa(lp4658
+aS's'
+aa(lp4987
 S'George Ross'
-p4659
+p4988
 aS'1955'
-p4660
+p4989
 aS'No. 8'
-p4661
+p4990
 aS'1'
 aS'0'
 aS'1'
@@ -12760,19 +13724,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4662
+p4991
 aVUnited Kingdom
-p4663
+p4992
 aVNorthern Ireland
-p4664
-ag87
-aa(lp4665
+p4993
+ag93
+ag93
+aa(lp4994
 S'Cecil Fagan'
-p4666
+p4995
 aS'1956'
-p4667
+p4996
 aS'Prop'
-p4668
+p4997
 aS'3'
 aS'1'
 aS'2'
@@ -12780,20 +13745,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p4669
+p4998
 aVRepublic of Ireland
-p4670
+p4999
 aVLeinster
-p4671
+p5000
 aVCounty Dublin
-p4672
-aa(lp4673
+p5001
+aVDublin
+p5002
+aa(lp5003
 S'Adrian Kennedy'
-p4674
+p5004
 aS'1956'
-p4675
+p5005
 aS'No. 8'
-p4676
+p5006
 aS'1'
 aS'0'
 aS'1'
@@ -12801,19 +13768,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4677
+p5007
 aVUnited Kingdom
-p4678
+p5008
 aVNorthern Ireland
-p4679
-ag87
-aa(lp4680
+p5009
+ag93
+ag93
+aa(lp5010
 S'Jimmy McKelvey'
-p4681
+p5011
 aS'1956'
-p4682
+p5012
 aS'Fullback'
-p4683
+p5013
 aS'2'
 aS'0'
 aS'2'
@@ -12821,42 +13789,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4684
+p5014
 aVUnited Kingdom
-p4685
+p5015
 aVNorthern Ireland
-p4686
-ag87
-aa(lp4687
+p5016
+ag93
+ag93
+aa(lp5017
 S'Andy Mulligan'
-p4688
+p5018
 aS'1956'
-p4689
+p5019
 aS'Scrum-half'
-p4690
+p5020
 aS'23'
-p4691
+p5021
 aS'7'
 aS'16'
-p4692
+p5022
 aS'0'
 aS'0'
 aS'0'
 aS'Kasauli'
-p4693
+p5023
 aVIndia
-p4694
+p5024
 aVHimachal Pradesh
-p4695
+p5025
 aVSolan
-p4696
-aa(lp4697
+p5026
+aVKasauli
+p5027
+aa(lp5028
 S'Sean Quinlan'
-p4698
+p5029
 aS'1956'
-p4699
+p5030
 aS'Wing'
-p4700
+p5031
 aS'4'
 aS'1'
 aS'3'
@@ -12864,20 +13835,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p4701
+p5032
 aVRepublic of Ireland
-p4702
+p5033
 aVMunster
-p4703
+p5034
 aVCounty Cork
-p4704
-aa(lp4705
+p5035
+aVCork
+p5036
+aa(lp5037
 S'James Ritchie'
-p4706
+p5038
 aS'1956'
-p4707
+p5039
 aS'Flanker'
-p4708
+p5040
 aS'2'
 aS'0'
 aS'2'
@@ -12885,19 +13858,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4709
+p5041
 aVUnited Kingdom
-p4710
+p5042
 aVNorthern Ireland
-p4711
-ag87
-aa(lp4712
+p5043
+ag93
+ag93
+aa(lp5044
 S'Noel Feddis'
-p4713
+p5045
 aS'1956'
-p4714
+p5046
 aS'Flanker'
-p4715
+p5047
 aS'1'
 aS'0'
 aS'1'
@@ -12905,20 +13879,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p4716
+p5048
 aVRepublic of Ireland
-p4717
+p5049
 aVLeinster
-p4718
+p5050
 aVCounty Dublin
-p4719
-aa(lp4720
+p5051
+aVDublin
+p5052
+aa(lp5053
 S'Brendan Guerin'
-p4721
+p5054
 aS'1956'
-p4722
+p5055
 aS'Lock'
-p4723
+p5056
 aS'1'
 aS'1'
 aS'0'
@@ -12926,20 +13902,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Waterford'
-p4724
+p5057
 aVRepublic of Ireland
-p4725
+p5058
 aVMunster
-p4726
+p5059
 aVCounty Waterford
-p4727
-aa(lp4728
+p5060
+aVWaterford
+p5061
+aa(lp5062
 S'Charlie Lydon'
-p4729
+p5063
 aS'1956'
-p4730
+p5064
 aS'Flanker'
-p4731
+p5065
 aS'1'
 aS'1'
 aS'0'
@@ -12947,20 +13925,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Westport'
-p4732
+p5066
 aVUnited States of America
-p4733
+p5067
 aVConnecticut
-p4734
+p5068
 aVFairfield County
-p4735
-aa(lp4736
+p5069
+aVWestport
+p5070
+aa(lp5071
 S'Leo Lynch'
-p4737
+p5072
 aS'1956'
-p4738
+p5073
 aS'Lock'
-p4739
+p5074
 aS'1'
 aS'1'
 aS'0'
@@ -12968,20 +13948,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p4740
+p5075
 aVRepublic of Ireland
-p4741
+p5076
 aVLeinster
-p4742
+p5077
 aVCounty Dublin
-p4743
-aa(lp4744
+p5078
+aVDublin
+p5079
+aa(lp5080
 S'Timothy McGrath'
-p4745
+p5081
 aS'1956'
-p4746
+p5082
 aS'No. 8'
-p4747
+p5083
 aS'7'
 aS'1'
 aS'6'
@@ -12989,44 +13971,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p4748
+p5084
 aVRepublic of Ireland
-p4749
+p5085
 aVMunster
-p4750
+p5086
 aVCounty Cork
-p4751
-aa(lp4752
+p5087
+aVCork
+p5088
+aa(lp5089
 S'Niall Brophy'
-p4753
+p5090
 aS'1957'
-p4754
+p5091
 aS'Wing'
-p4755
+p5092
 aS'22'
-p4756
+p5093
 aS'7'
 aS'12'
-p4757
+p5094
 aS'3'
 aS'4'
 aS'12'
-p4758
+p5095
 aS'Dublin'
-p4759
+p5096
 aVRepublic of Ireland
-p4760
+p5097
 aVLeinster
-p4761
+p5098
 aVCounty Dublin
-p4762
-aa(lp4763
+p5099
+aVDublin
+p5100
+aa(lp5101
 S"Hubert O'Connor"
-p4764
+p5102
 aS'1957'
-p4765
+p5103
 aS'Flanker'
-p4766
+p5104
 aS'4'
 aS'2'
 aS'2'
@@ -13034,42 +14020,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p4767
+p5105
 aVRepublic of Ireland
-p4768
+p5106
 aVLeinster
-p4769
+p5107
 aVCounty Dublin
-p4770
-aa(lp4771
+p5108
+aVDublin
+p5109
+aa(lp5110
 S"Tony O'Sullivan"
-p4772
+p5111
 aS'1957'
-p4773
+p5112
 aS'No. 8'
-p4774
+p5113
 aS'15'
-p4775
+p5114
 aS'5'
 aS'9'
 aS'1'
 aS'1'
 aS'3'
 aS'Galway'
-p4776
+p5115
 aVRepublic of Ireland
-p4777
+p5116
 aVConnacht
-p4778
+p5117
 aVCounty Galway
-p4779
-aa(lp4780
+p5118
+aVCathair na Gaillimhe
+p5119
+aa(lp5120
 S'James Brennan'
-p4781
+p5121
 aS'1957'
-p4782
+p5122
 aS'Prop'
-p4783
+p5123
 aS'2'
 aS'1'
 aS'1'
@@ -13077,43 +14067,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4784
+p5124
 aVUnited Kingdom
-p4785
+p5125
 aVNorthern Ireland
-p4786
-ag87
-aa(lp4787
+p5126
+ag93
+ag93
+aa(lp5127
 S'Ronnie Dawson'
-p4788
+p5128
 aS'1958'
-p4789
+p5129
 aS'Hooker'
-p4790
+p5130
 aS'33'
-p4791
+p5131
 aS'10'
-p4792
+p5132
 aS'21'
-p4793
+p5133
 aS'2'
 aS'2'
 aS'6'
 aS'Dublin'
-p4794
+p5134
 aVRepublic of Ireland
-p4795
+p5135
 aVLeinster
-p4796
+p5136
 aVCounty Dublin
-p4797
-aa(lp4798
+p5137
+aVDublin
+p5138
+aa(lp5139
 S'James Donaldson'
-p4799
+p5140
 aS'1958'
-p4800
+p5141
 aS'Flanker'
-p4801
+p5142
 aS'4'
 aS'2'
 aS'2'
@@ -13121,91 +14114,97 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4802
+p5143
 aVUnited Kingdom
-p4803
+p5144
 aVNorthern Ireland
-p4804
-ag87
-aa(lp4805
+p5145
+ag93
+ag93
+aa(lp5146
 S'Dave Hewitt'
-p4806
+p5147
 aS'1958'
-p4807
+p5148
 aS'Centre'
-p4808
+p5149
 aS'24'
-p4809
+p5150
 aS'8'
 aS'16'
-p4810
+p5151
 aS'0'
 aS'2'
 aS'32'
-p4811
+p5152
 aS'Northern Ireland'
-p4812
+p5153
 aVUnited Kingdom
-p4813
+p5154
 aVNorthern Ireland
-p4814
-ag87
-aa(lp4815
+p5155
+ag93
+ag93
+aa(lp5156
 S'Bill Mulcahy'
-p4816
+p5157
 aS'1958'
-p4817
+p5158
 aS'Lock'
-p4818
+p5159
 aS'41'
-p4819
+p5160
 aS'12'
-p4820
+p5161
 aS'25'
-p4821
+p5162
 aS'4'
 aS'0'
 aS'0'
 aS'Limerick'
-p4822
+p5163
 aVRepublic of Ireland
-p4823
+p5164
 aVMunster
-p4824
+p5165
 aVCounty Limerick
-p4825
-aa(lp4826
+p5166
+aVLimerick
+p5167
+aa(lp5168
 S'Noel Murphy'
-p4827
+p5169
 aS'1958'
-p4828
+p5170
 aS'Flanker'
-p4829
+p5171
 aS'49'
-p4830
+p5172
 aS'20'
-p4831
+p5173
 aS'27'
-p4832
+p5174
 aS'2'
 aS'6'
 aS'18'
-p4833
+p5175
 aS'Cork'
-p4834
+p5176
 aVRepublic of Ireland
-p4835
+p5177
 aVMunster
-p4836
+p5178
 aVCounty Cork
-p4837
-aa(lp4838
+p5179
+aVCork
+p5180
+aa(lp5181
 S'James Stevenson'
-p4839
+p5182
 aS'1958'
-p4840
+p5183
 aS'Lock'
-p4841
+p5184
 aS'5'
 aS'2'
 aS'3'
@@ -13213,42 +14212,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4842
+p5185
 aVUnited Kingdom
-p4843
+p5186
 aVNorthern Ireland
-p4844
-ag87
-aa(lp4845
+p5187
+ag93
+ag93
+aa(lp5188
 S'Michael English'
-p4846
+p5189
 aS'1958'
-p4847
+p5190
 aS'Fly-half'
-p4848
+p5191
 aS'16'
-p4849
+p5192
 aS'3'
 aS'11'
-p4850
+p5193
 aS'2'
 aS'0'
 aS'9'
 aS'Limerick'
-p4851
+p5194
 aVRepublic of Ireland
-p4852
+p5195
 aVMunster
-p4853
+p5196
 aVCounty Limerick
-p4854
-aa(lp4855
+p5197
+aVLimerick
+p5198
+aa(lp5199
 S'Eric Brown'
-p4856
+p5200
 aS'1958'
-p4857
+p5201
 aS'Flanker'
-p4858
+p5202
 aS'1'
 aS'0'
 aS'1'
@@ -13256,19 +14258,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4859
+p5203
 aVUnited Kingdom
-p4860
+p5204
 aVNorthern Ireland
-p4861
-ag87
-aa(lp4862
+p5205
+ag93
+ag93
+aa(lp5206
 S'Dion Glass'
-p4863
+p5207
 aS'1958'
-p4864
+p5208
 aS'Centre, Wing'
-p4865
+p5209
 aS'4'
 aS'0'
 aS'4'
@@ -13276,65 +14279,68 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4866
+p5210
 aVUnited Kingdom
-p4867
+p5211
 aVNorthern Ireland
-p4868
-ag87
-aa(lp4869
+p5212
+ag93
+ag93
+aa(lp5213
 S'Syd Millar'
-p4870
+p5214
 aS'1958'
-p4871
+p5215
 aS'Prop'
-p4872
+p5216
 aS'46'
-p4873
+p5217
 aS'14'
-p4874
+p5218
 aS'27'
-p4875
+p5219
 aS'5'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4876
+p5220
 aVUnited Kingdom
-p4877
+p5221
 aVNorthern Ireland
-p4878
-ag87
-aa(lp4879
+p5222
+ag93
+ag93
+aa(lp5223
 S'Gerry Culliton'
-p4880
+p5224
 aS'1959'
-p4881
+p5225
 aS'Lock'
-p4882
+p5226
 aS'19'
-p4883
+p5227
 aS'4'
 aS'15'
-p4884
+p5228
 aS'0'
 aS'1'
 aS'3'
 aS'Laois'
-p4885
+p5229
 aVRepublic of Ireland
-p4886
+p5230
 aVLeinster
-p4887
+p5231
 aVCounty Laois
-p4888
-aa(lp4889
+p5232
+ag93
+aa(lp5233
 S'John Dooley'
-p4890
+p5234
 aS'1959'
-p4891
+p5235
 aS'Centre'
-p4892
+p5236
 aS'3'
 aS'1'
 aS'2'
@@ -13342,44 +14348,48 @@ aS'0'
 aS'1'
 aS'3'
 aS'Galway'
-p4893
+p5237
 aVRepublic of Ireland
-p4894
+p5238
 aVConnacht
-p4895
+p5239
 aVCounty Galway
-p4896
-aa(lp4897
+p5240
+aVCathair na Gaillimhe
+p5241
+aa(lp5242
 S'Kevin Flynn'
-p4898
+p5243
 aS'1959'
-p4899
+p5244
 aS'Centre'
-p4900
+p5245
 aS'22'
-p4901
+p5246
 aS'8'
 aS'10'
-p4902
+p5247
 aS'4'
 aS'5'
 aS'17'
-p4903
+p5248
 aS'Dublin'
-p4904
+p5249
 aVRepublic of Ireland
-p4905
+p5250
 aVLeinster
-p4906
+p5251
 aVCounty Dublin
-p4907
-aa(lp4908
+p5252
+aVDublin
+p5253
+aa(lp5254
 S'Walter Bornemann'
-p4909
+p5255
 aS'1960'
-p4910
+p5256
 aS'Wing'
-p4911
+p5257
 aS'4'
 aS'0'
 aS'4'
@@ -13390,38 +14400,41 @@ aS''
 aS'g'
 aS'n'
 aS'i'
-aa(lp4912
+aS's'
+aa(lp5258
 S'Tom Kiernan'
-p4913
+p5259
 aS'1960'
-p4914
+p5260
 aS'Fullback'
-p4915
+p5261
 aS'59'
-p4916
+p5262
 aS'23'
-p4917
+p5263
 aS'28'
-p4918
+p5264
 aS'8'
 aS'2'
 aS'193'
-p4919
+p5265
 aS'Cork'
-p4920
+p5266
 aVRepublic of Ireland
-p4921
+p5267
 aVMunster
-p4922
+p5268
 aVCounty Cork
-p4923
-aa(lp4924
+p5269
+aVCork
+p5270
+aa(lp5271
 S'Barton McCallan'
-p4925
+p5272
 aS'1960'
-p4926
+p5273
 aS'Hooker'
-p4927
+p5274
 aS'2'
 aS'0'
 aS'2'
@@ -13429,42 +14442,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4928
+p5275
 aVUnited Kingdom
-p4929
+p5276
 aVNorthern Ireland
-p4930
-ag87
-aa(lp4931
+p5277
+ag93
+ag93
+aa(lp5278
 S'Jerry Walsh'
-p4932
+p5279
 aS'1960'
-p4933
+p5280
 aS'Centre'
-p4934
+p5281
 aS'26'
-p4935
+p5282
 aS'9'
 aS'15'
-p4936
+p5283
 aS'2'
 aS'1'
 aS'3'
 aS'Cork'
-p4937
+p5284
 aVRepublic of Ireland
-p4938
+p5285
 aVMunster
-p4939
+p5286
 aVCounty Cork
-p4940
-aa(lp4941
+p5287
+aVCork
+p5288
+aa(lp5289
 S'Locky Butler'
-p4942
+p5290
 aS'1960'
-p4943
+p5291
 aS'Hooker'
-p4944
+p5292
 aS'1'
 aS'0'
 aS'1'
@@ -13472,20 +14488,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bray'
-p4945
+p5293
 aVRepublic of Ireland
-p4946
+p5294
 aVLeinster
-p4947
+p5295
 aVCounty Wicklow
-p4948
-aa(lp4949
+p5296
+aVBray
+p5297
+aa(lp5298
 S'Paddy Costello'
-p4950
+p5299
 aS'1960'
-p4951
+p5300
 aS'Lock'
-p4952
+p5301
 aS'1'
 aS'0'
 aS'1'
@@ -13493,20 +14511,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p4953
+p5302
 aVRepublic of Ireland
-p4954
+p5303
 aVLeinster
-p4955
+p5304
 aVCounty Dublin
-p4956
-aa(lp4957
+p5305
+aVDublin
+p5306
+aa(lp5307
 S'William Armstrong'
-p4958
+p5308
 aS'1960'
-p4959
+p5309
 aS'Fly-half'
-p4960
+p5310
 aS'2'
 aS'1'
 aS'1'
@@ -13514,19 +14534,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4961
+p5311
 aVUnited Kingdom
-p4962
+p5312
 aVNorthern Ireland
-p4963
-ag87
-aa(lp4964
+p5313
+ag93
+ag93
+aa(lp5314
 S'Ronald McCarten'
-p4965
+p5315
 aS'1961'
-p4966
+p5316
 aS'Wing'
-p4967
+p5317
 aS'3'
 aS'1'
 aS'2'
@@ -13534,41 +14555,43 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cumberland'
-p4968
+p5318
 aVUnited States of America
-p4969
+p5319
 aVIllinois
-p4970
+p5320
 aVCumberland County
-p4971
-aa(lp4972
+p5321
+ag93
+aa(lp5322
 S'Jonathan Moffett'
-p4973
+p5323
 aS'1961'
-p4974
+p5324
 aS'Scrum-half'
-p4975
+p5325
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'10'
-p4976
+p5326
 aS'Northern Ireland'
-p4977
+p5327
 aVUnited Kingdom
-p4978
+p5328
 aVNorthern Ireland
-p4979
-ag87
-aa(lp4980
+p5329
+ag93
+ag93
+aa(lp5330
 S'Ian Dick'
-p4981
+p5331
 aS'1961'
-p4982
+p5332
 aS'No. 8'
-p4983
+p5333
 aS'8'
 aS'1'
 aS'5'
@@ -13576,19 +14599,20 @@ aS'2'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4984
+p5334
 aVUnited Kingdom
-p4985
+p5335
 aVNorthern Ireland
-p4986
-ag87
-aa(lp4987
+p5336
+ag93
+ag93
+aa(lp5337
 S'Thomas Nesdale'
-p4988
+p5338
 aS'1961'
-p4989
+p5339
 aS'Flanker'
-p4990
+p5340
 aS'1'
 aS'0'
 aS'1'
@@ -13596,20 +14620,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p4991
+p5341
 aVRepublic of Ireland
-p4992
+p5342
 aVMunster
-p4993
+p5343
 aVCounty Cork
-p4994
-aa(lp4995
+p5344
+aVCork
+p5345
+aa(lp5346
 S'Dennis Scott'
-p4996
+p5347
 aS'1961'
-p4997
+p5348
 aS'Flanker'
-p4998
+p5349
 aS'3'
 aS'0'
 aS'3'
@@ -13617,19 +14643,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p4999
+p5350
 aVUnited Kingdom
-p5000
+p5351
 aVNorthern Ireland
-p5001
-ag87
-aa(lp5002
+p5352
+ag93
+ag93
+aa(lp5353
 S'Kenneth Houston'
-p5003
+p5354
 aS'1961'
-p5004
+p5355
 aS'Wing'
-p5005
+p5356
 aS'6'
 aS'2'
 aS'3'
@@ -13640,13 +14667,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp5006
+aS's'
+aa(lp5357
 S'Jimmy Dick'
-p5007
+p5358
 aS'1962'
-p5008
+p5359
 aS'Hooker'
-p5009
+p5360
 aS'1'
 aS'0'
 aS'1'
@@ -13654,19 +14682,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p5010
+p5361
 aVUnited Kingdom
-p5011
+p5362
 aVNorthern Ireland
-p5012
-ag87
-aa(lp5013
+p5363
+ag93
+ag93
+aa(lp5364
 S'Francis Gilpin'
-p5014
+p5365
 aS'1962'
-p5015
+p5366
 aS'Fullback'
-p5016
+p5367
 aS'3'
 aS'0'
 aS'3'
@@ -13674,62 +14703,66 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p5017
+p5368
 aVUnited Kingdom
-p5018
+p5369
 aVNorthern Ireland
-p5019
-ag87
-aa(lp5020
+p5370
+ag93
+ag93
+aa(lp5371
 S'Michael Hipwell'
-p5021
+p5372
 aS'1962'
-p5022
+p5373
 aS'No. 8'
-p5023
+p5374
 aS'12'
-p5024
+p5375
 aS'5'
 aS'6'
 aS'1'
 aS'0'
 aS'0'
 aS'Carlow'
-p5025
+p5376
 aVRepublic of Ireland
-p5026
+p5377
 aVLeinster
-p5027
+p5378
 aVCounty Carlow
-p5028
-aa(lp5029
+p5379
+aVCarlow
+p5380
+aa(lp5381
 S'Ray Hunter'
-p5030
+p5382
 aS'1962'
-p5031
+p5383
 aS'Wing'
-p5032
+p5384
 aS'10'
-p5033
+p5385
 aS'0'
 aS'7'
 aS'3'
 aS'1'
 aS'6'
 aS'Northern Ireland'
-p5034
+p5386
 aVUnited Kingdom
-p5035
+p5387
 aVNorthern Ireland
-p5036
-ag87
-aa(lp5037
+p5388
+ag93
+ag93
+aa(lp5389
 S"Laurence l'Estrange"
-p5038
+p5390
 aS'1962'
-p5039
+p5391
 aS'Wing'
-p5040
+p5392
 aS'1'
 aS'0'
 aS'1'
@@ -13737,68 +14770,73 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lancs'
-p5041
+p5393
 aVUnited Kingdom
-p5042
+p5394
 aVS6 3TB
-p5043
+p5395
 aVEngland
-p5044
-aa(lp5045
+p5396
+aVYorkshire and the Humber
+p5397
+aa(lp5398
 S'Willie-John McBride'
-p5046
+p5399
 aS'1962'
-p5047
+p5400
 aS'Lock'
-p5048
+p5401
 aS'80'
-p5049
+p5402
 aS'33'
-p5050
+p5403
 aS'34'
-p5051
+p5404
 aS'13'
-p5052
+p5405
 aS'2'
 aS'7'
 aS'Northern Ireland'
-p5053
+p5406
 aVUnited Kingdom
-p5054
+p5407
 aVNorthern Ireland
-p5055
-ag87
-aa(lp5056
+p5408
+ag93
+ag93
+aa(lp5409
 S'Ray McLoughlin'
-p5057
+p5410
 aS'1962'
-p5058
+p5411
 aS'Prop'
-p5059
+p5412
 aS'43'
-p5060
+p5413
 aS'18'
-p5061
+p5414
 aS'18'
-p5062
+p5415
 aS'7'
 aS'2'
 aS'7'
 aS'Ballinasloe'
-p5063
+p5416
 aVRepublic of Ireland
-p5064
+p5417
 aVConnacht
-p5065
+p5418
 aVCounty Galway
-p5066
-aa(lp5067
+p5419
+aVBallinasloe
+p5420
+aa(lp5421
 S'John Quirke'
-p5068
+p5422
 aS'1962'
-p5069
+p5423
 aS'Scrum-half'
-p5070
+p5424
 aS'3'
 aS'1'
 aS'2'
@@ -13806,20 +14844,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p5071
+p5425
 aVRepublic of Ireland
-p5072
+p5426
 aVLeinster
-p5073
+p5427
 aVCounty Dublin
-p5074
-aa(lp5075
+p5428
+aVDublin
+p5429
+aa(lp5430
 S'Patrick Turley'
-p5076
+p5431
 aS'1962'
-p5077
+p5432
 aS'Flanker'
-p5078
+p5433
 aS'1'
 aS'0'
 aS'1'
@@ -13827,20 +14867,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Laois'
-p5079
+p5434
 aVRepublic of Ireland
-p5080
+p5435
 aVLeinster
-p5081
+p5436
 aVCounty Laois
-p5082
-aa(lp5083
+p5437
+ag93
+aa(lp5438
 S'Gerald Hardy'
-p5084
+p5439
 aS'1962'
-p5085
+p5440
 aS'Fly-half'
-p5086
+p5441
 aS'1'
 aS'0'
 aS'1'
@@ -13848,20 +14889,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Louth'
-p5087
+p5442
 aVRepublic of Ireland
-p5088
+p5443
 aVLeinster
-p5089
+p5444
 aVCounty Louth
-p5090
-aa(lp5091
+p5445
+ag93
+aa(lp5446
 S'Noel Byrne'
-p5092
+p5447
 aS'1962'
-p5093
+p5448
 aS'Wing'
-p5094
+p5449
 aS'1'
 aS'0'
 aS'1'
@@ -13869,1006 +14911,110 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Kildare'
-p5095
-aVRepublic of Ireland
-p5096
-aVLeinster
-p5097
-aVCounty Kildare
-p5098
-aa(lp5099
-S'James Kelly'
-p5100
-aS'1962'
-p5101
-aS'Scrum-half'
-p5102
-aS'11'
-p5103
-aS'2'
-aS'7'
-aS'2'
-aS'0'
-aS'0'
-aS'Dublin'
-p5104
-aVRepublic of Ireland
-p5105
-aVLeinster
-p5106
-aVCounty Dublin
-p5107
-aa(lp5108
-S'Patrick Dwyer'
-p5109
-aS'1962'
-p5110
-aS'Prop'
-p5111
-aS'5'
-aS'0'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'Co Galway'
-p5112
-aVRepublic of Ireland
-p5113
-aVConnacht
-p5114
-aVCounty Galway
-p5115
-aa(lp5116
-S'Matthew Kiely'
-p5117
-aS'1962'
-p5118
-aS'Flanker'
-p5119
-aS'5'
-aS'1'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp5120
-S"Michael O'Callaghan"
-p5121
-aS'1962'
-p5122
-aS'Prop'
-p5123
-aS'3'
-aS'1'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp5124
-S'Patrick Casey'
-p5125
-aS'1963'
-p5126
-aS'Wing'
-p5127
-aS'12'
-p5128
-aS'4'
-aS'6'
-aS'2'
-aS'3'
-aS'9'
-aS'Dublin'
-p5129
-aVRepublic of Ireland
-p5130
-aVLeinster
-p5131
-aVCounty Dublin
-p5132
-aa(lp5133
-S'John Murray'
-p5134
-aS'1963'
-p5135
-aS'Fly-half'
-p5136
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p5137
-aVRepublic of Ireland
-p5138
-aVLeinster
-p5139
-aVCounty Dublin
-p5140
-aa(lp5141
-S'Eamonn McGuire'
-p5142
-aS'1963'
-p5143
-aS'Flanker'
-p5144
-aS'8'
-aS'2'
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aS'Galway'
-p5145
-aVRepublic of Ireland
-p5146
-aVConnacht
-p5147
-aVCounty Galway
-p5148
-aa(lp5149
-S'Brian Marshall'
-p5150
-aS'1963'
-p5151
-aS'Fullback'
-p5152
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'1940'
-p5153
-aVNorge
-p5154
-aVTroms
-p5155
-aVKåfjord
-p5156
-aa(lp5157
-S'Alan Duggan'
-p5158
-aS'1963'
-p5159
-aS'Wing'
-p5160
-aS'25'
-p5161
-aS'14'
-p5162
-aS'8'
-aS'3'
-aS'11'
-p5163
-aS'34'
-p5164
-aS'Dublin'
-p5165
-aVRepublic of Ireland
-p5166
-aVLeinster
-p5167
-aVCounty Dublin
-p5168
-aa(lp5169
-S'John Fortune'
-p5170
-aS'1963'
-p5171
-aS'Wing'
-p5172
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'Dublin'
-p5173
-aVRepublic of Ireland
-p5174
-aVLeinster
-p5175
-aVCounty Dublin
-p5176
-aa(lp5177
-S'Mike Gibson'
-p5178
-aS'1964'
-p5179
-aS'Centre'
-p5180
-aS'81'
-p5181
-aS'31'
-p5182
-aS'39'
-p5183
-aS'11'
-p5184
-aS'9'
-aS'112'
-p5185
-aS'Northern Ireland'
-p5186
-aVUnited Kingdom
-p5187
-aVNorthern Ireland
-p5188
-ag87
-aa(lp5189
-S'Fergus Keogh'
-p5190
-aS'1964'
-p5191
-aS'Fullback'
-p5192
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'6'
-aS'Dublin'
-p5193
-aVRepublic of Ireland
-p5194
-aVLeinster
-p5195
-aVCounty Dublin
-p5196
-aa(lp5197
-S'Paddy Lane'
-p5198
-aS'1964'
-p5199
-aS'Hooker'
-p5200
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Co Clare'
-p5201
-aVRepublic of Ireland
-p5202
-aVMunster
-p5203
-aVCounty Clare
-p5204
-aa(lp5205
-S'Mick Leahy'
-p5206
-aS'1964'
-p5207
-aS'Lock'
-p5208
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Co Galway'
-p5209
-aVRepublic of Ireland
-p5210
-aVConnacht
-p5211
-aVCounty Galway
-p5212
-aa(lp5213
-S'Al Moroney'
-p5214
-aS'1964'
-p5215
-aS'Prop'
-p5216
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Co Clare'
-p5217
-aVRepublic of Ireland
-p5218
-aVMunster
-p5219
-aVCounty Clare
-p5220
-aa(lp5221
-S'Mick Doyle'
-p5222
-aS'1965'
-p5223
-aS'Flanker'
-p5224
-aS'21'
-p5225
-aS'11'
-p5226
-aS'7'
-aS'3'
-aS'2'
-aS'6'
-aS'Castleisland'
-p5227
-aVRepublic of Ireland
-p5228
-aVMunster
-p5229
-aVCounty Kerry
-p5230
-aa(lp5231
-S'Ken Kennedy'
-p5232
-aS'1965'
-p5233
-aS'Hooker'
-p5234
-aS'49'
-p5235
-aS'25'
-p5236
-aS'17'
-p5237
-aS'7'
-aS'1'
-aS'3'
-aS'Kent'
-p5238
-aVUnited Kingdom
-p5239
-aVEngland
-p5240
-aVSouth East
-p5241
-aa(lp5242
-S'Ronnie Lamont'
-p5243
-aS'1965'
-p5244
-aS'Flanker'
-p5245
-aS'16'
-p5246
-aS'5'
-aS'8'
-aS'3'
-aS'2'
-aS'6'
-aS'Northern Ireland'
-p5247
-aVUnited Kingdom
-p5248
-aVNorthern Ireland
-p5249
-ag87
-aa(lp5250
-S'Sean MacHale'
-p5251
-aS'1965'
-p5252
-aS'Prop'
-p5253
-aS'12'
-p5254
-aS'6'
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aS'Ballina'
-p5255
-aVRepublic of Ireland
-p5256
-aVConnacht
-p5257
-aVCounty Mayo
-p5258
-aa(lp5259
-S'Roger Young'
-p5260
-aS'1965'
-p5261
-aS'Scrum-half'
-p5262
-aS'30'
-p5263
-aS'15'
-p5264
-aS'11'
-p5265
-aS'4'
-aS'1'
-aS'3'
-aS'Northern Ireland'
-p5266
-aVUnited Kingdom
-p5267
-aVNorthern Ireland
-p5268
-ag87
-aa(lp5269
-S'Paddy McGrath'
-p5270
-aS'1965'
-p5271
-aS'Wing'
-p5272
-aS'10'
-p5273
-aS'6'
-aS'3'
-aS'1'
-aS'4'
-aS'12'
-p5274
-aS'Burma'
-p5275
-aV\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f\u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a\u200c
-p5276
-ag87
-ag87
-aa(lp5277
-S'Henry Wall'
-p5278
-aS'1965'
-p5279
-aS'No. 8'
-p5280
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cork'
-p5281
-aVRepublic of Ireland
-p5282
-aVMunster
-p5283
-aVCounty Cork
-p5284
-aa(lp5285
-S'Mick Molloy'
-p5286
-aS'1966'
-p5287
-aS'Lock'
-p5288
-aS'27'
-p5289
-aS'14'
-p5290
-aS'10'
-p5291
-aS'3'
-aS'2'
-aS'6'
-aS'Galway'
-p5292
-aVRepublic of Ireland
-p5293
-aVConnacht
-p5294
-aVCounty Galway
-p5295
-aa(lp5296
-S'Barry Bresnihan'
-p5297
-aS'1966'
-p5298
-aS'Centre'
-p5299
-aS'28'
-p5300
-aS'13'
-p5301
-aS'10'
-p5302
-aS'5'
-aS'5'
-aS'15'
-p5303
-aS'Waterford'
-p5304
-aVRepublic of Ireland
-p5305
-aVMunster
-p5306
-aVCounty Waterford
-p5307
-aa(lp5308
-S'Aidan Brady'
-p5309
-aS'1966'
-p5310
-aS'Hooker'
-p5311
-aS'4'
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Dublin'
-p5312
-aVRepublic of Ireland
-p5313
-aVLeinster
-p5314
-aVCounty Dublin
-p5315
-aa(lp5316
-S'Oliver Waldron'
-p5317
-aS'1966'
-p5318
-aS'Lock'
-p5319
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cork'
-p5320
-aVRepublic of Ireland
-p5321
-aVMunster
-p5322
-aVCounty Cork
-p5323
-aa(lp5324
-S'Ken Goodall'
-p5325
-aS'1967'
-p5326
-aS'No. 8'
-p5327
-aS'19'
-p5328
-aS'12'
-p5329
-aS'5'
-aS'2'
-aS'3'
-aS'9'
-aS'Leeds'
-p5330
-aVUnited Kingdom
-p5331
-aVEngland
-p5332
-aVYorkshire and the Humber
-p5333
-aa(lp5334
-S"Philo O'Callaghan"
-p5335
-aS'1967'
-p5336
-aS'Prop'
-p5337
-aS'21'
-p5338
-aS'10'
-p5339
-aS'9'
-aS'2'
-aS'0'
-aS'0'
-aS'Cork'
-p5340
-aVRepublic of Ireland
-p5341
-aVMunster
-p5342
-aVCounty Cork
-p5343
-aa(lp5344
-S'Harry Rea'
-p5345
-aS'1967'
-p5346
-aS'Centre'
-p5347
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5348
-aVUnited Kingdom
-p5349
-aVNorthern Ireland
-p5350
-ag87
-aa(lp5351
-S'Brendan Sherry'
-p5352
-aS'1967'
-p5353
-aS'Scrum-half'
-p5354
-aS'6'
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'Cork'
-p5355
-aVRepublic of Ireland
-p5356
-aVMunster
-p5357
-aVCounty Cork
-p5358
-aa(lp5359
-S'Robert Scott'
-p5360
-aS'1967'
-p5361
-aS'Wing'
-p5362
-aS'5'
-aS'1'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5363
-aVUnited Kingdom
-p5364
-aVNorthern Ireland
-p5365
-ag87
-aa(lp5366
-S'Sam Hutton'
-p5367
-aS'1967'
-p5368
-aS'Prop'
-p5369
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp5370
-S'Terry Moore'
-p5371
-aS'1967'
-p5372
-aS'No. 8'
-p5373
-aS'12'
-p5374
-aS'5'
-aS'4'
-aS'3'
-aS'1'
-aS'4'
-aS'Cork'
-p5375
-aVRepublic of Ireland
-p5376
-aVMunster
-p5377
-aVCounty Cork
-p5378
-aa(lp5379
-S'Billy McCombe'
-p5380
-aS'1968'
-p5381
-aS'Fly-half'
-p5382
-aS'5'
-aS'2'
-aS'3'
-aS'0'
-aS'1'
-aS'32'
-p5383
-aS'Kampala'
-p5384
-aVUganda
-p5385
-aVCentral Region
-p5386
-aVKampala
-p5387
-aa(lp5388
-S"Brian O'Brien"
-p5389
-aS'1968'
-p5390
-aS'Centre'
-p5391
-aS'3'
-aS'1'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Limerick'
-p5392
-aVRepublic of Ireland
-p5393
-aVMunster
-p5394
-aVCounty Limerick
-p5395
-aa(lp5396
-S'Thomas Doyle'
-p5397
-aS'1968'
-p5398
-aS'Flanker'
-p5399
-aS'3'
-aS'2'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Castleisland'
-p5400
-aVRepublic of Ireland
-p5401
-aVMunster
-p5402
-aVCounty Kerry
-p5403
-aa(lp5404
-S'Laurence Hunter'
-p5405
-aS'1968'
-p5406
-aS'Centre'
-p5407
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5408
-aVUnited Kingdom
-p5409
-aVNorthern Ireland
-p5410
-ag87
-aa(lp5411
-S'John Moroney'
-p5412
-aS'1968'
-p5413
-aS'Wing'
-p5414
-aS'6'
-aS'5'
-aS'1'
-aS'0'
-aS'1'
-aS'20'
-p5415
-aS'Tipperary'
-p5416
-aVRepublic of Ireland
-p5417
-aVMunster
-p5418
-aVCounty Tipperary
-p5419
-aa(lp5420
-S'Jim Tydings'
-p5421
-aS'1968'
-p5422
-aS'Wing'
-p5423
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Limerick'
-p5424
-aVRepublic of Ireland
-p5425
-aVMunster
-p5426
-aVCounty Limerick
-p5427
-aa(lp5428
-S'James Davidson'
-p5429
-aS'1969'
-p5430
-aS'Flanker'
-p5431
-aS'6'
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5432
-aVUnited Kingdom
-p5433
-aVNorthern Ireland
-p5434
-ag87
-aa(lp5435
-S'Barry McGann'
-p5436
-aS'1969'
-p5437
-aS'Fly-half'
-p5438
-aS'25'
-p5439
-aS'11'
-p5440
-aS'11'
-p5441
-aS'3'
-aS'1'
-aS'72'
-p5442
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp5443
-S'Colin Grimshaw'
-p5444
-aS'1969'
-p5445
-aS'Scrum-half'
-p5446
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp5447
-S'William Brown'
-p5448
-aS'1970'
-p5449
-aS'Wing'
 p5450
-aS'4'
-aS'2'
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aS'Northern Ireland'
+aVRepublic of Ireland
 p5451
-aVUnited Kingdom
+aVLeinster
 p5452
-aVNorthern Ireland
+aVCounty Kildare
 p5453
-ag87
+ag93
 aa(lp5454
-S'Eric Campbell'
+S'James Kelly'
 p5455
-aS'1970'
+aS'1962'
 p5456
-aS'Lock'
+aS'Scrum-half'
 p5457
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Co Carlow'
+aS'11'
 p5458
-aVRepublic of Ireland
+aS'2'
+aS'7'
+aS'2'
+aS'0'
+aS'0'
+aS'Dublin'
 p5459
-aVLeinster
-p5460
-aVCounty Carlow
-p5461
-aa(lp5462
-S'Fergus Slattery'
-p5463
-aS'1970'
-p5464
-aS'Flanker'
-p5465
-aS'65'
-p5466
-aS'27'
-p5467
-aS'30'
-p5468
-aS'8'
-aS'3'
-aS'12'
-p5469
-aS'Dun Laoghaire'
-p5470
 aVRepublic of Ireland
-p5471
+p5460
 aVLeinster
-p5472
+p5461
 aVCounty Dublin
-p5473
-aa(lp5474
-S'Edwin Grant'
-p5475
-aS'1971'
-p5476
-aS'Wing'
-p5477
+p5462
+aVDublin
+p5463
+aa(lp5464
+S'Patrick Dwyer'
+p5465
+aS'1962'
+p5466
+aS'Prop'
+p5467
+aS'5'
+aS'0'
 aS'4'
 aS'1'
-aS'2'
+aS'0'
+aS'0'
+aS'Co Galway'
+p5468
+aVRepublic of Ireland
+p5469
+aVConnacht
+p5470
+aVCounty Galway
+p5471
+ag93
+aa(lp5472
+S'Matthew Kiely'
+p5473
+aS'1962'
+p5474
+aS'Flanker'
+p5475
+aS'5'
 aS'1'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp5476
+S"Michael O'Callaghan"
+p5477
+aS'1962'
+p5478
+aS'Prop'
+p5479
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp5480
+S'Patrick Casey'
+p5481
+aS'1963'
+p5482
+aS'Wing'
+p5483
+aS'12'
+p5484
+aS'4'
+aS'6'
+aS'2'
 aS'3'
 aS'9'
-aS'Northern Ireland'
-p5478
-aVUnited Kingdom
-p5479
-aVNorthern Ireland
-p5480
-ag87
-aa(lp5481
-S'Denis Hickie'
-p5482
-aS'1971'
-p5483
-aS'No. 8'
-p5484
-aS'6'
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
 aS'Dublin'
 p5485
 aVRepublic of Ireland
@@ -14877,18 +15023,19 @@ aVLeinster
 p5487
 aVCounty Dublin
 p5488
-aa(lp5489
-S'Sean Lynch'
-p5490
-aS'1971'
+aVDublin
+p5489
+aa(lp5490
+S'John Murray'
 p5491
-aS'Prop'
+aS'1963'
 p5492
-aS'21'
+aS'Fly-half'
 p5493
-aS'9'
-aS'7'
-aS'5'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
@@ -14899,13 +15046,983 @@ aVLeinster
 p5496
 aVCounty Dublin
 p5497
-aa(lp5498
-S"Barry O'Driscoll"
-p5499
-aS'1971'
+aVDublin
+p5498
+aa(lp5499
+S'Eamonn McGuire'
 p5500
-aS'Fullback'
+aS'1963'
 p5501
+aS'Flanker'
+p5502
+aS'8'
+aS'2'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'Galway'
+p5503
+aVRepublic of Ireland
+p5504
+aVConnacht
+p5505
+aVCounty Galway
+p5506
+aVCathair na Gaillimhe
+p5507
+aa(lp5508
+S'Brian Marshall'
+p5509
+aS'1963'
+p5510
+aS'Fullback'
+p5511
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'1940'
+p5512
+aVNorge
+p5513
+aVTroms
+p5514
+aVKåfjord
+p5515
+ag93
+aa(lp5516
+S'Alan Duggan'
+p5517
+aS'1963'
+p5518
+aS'Wing'
+p5519
+aS'25'
+p5520
+aS'14'
+p5521
+aS'8'
+aS'3'
+aS'11'
+p5522
+aS'34'
+p5523
+aS'Dublin'
+p5524
+aVRepublic of Ireland
+p5525
+aVLeinster
+p5526
+aVCounty Dublin
+p5527
+aVDublin
+p5528
+aa(lp5529
+S'John Fortune'
+p5530
+aS'1963'
+p5531
+aS'Wing'
+p5532
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Dublin'
+p5533
+aVRepublic of Ireland
+p5534
+aVLeinster
+p5535
+aVCounty Dublin
+p5536
+aVDublin
+p5537
+aa(lp5538
+S'Mike Gibson'
+p5539
+aS'1964'
+p5540
+aS'Centre'
+p5541
+aS'81'
+p5542
+aS'31'
+p5543
+aS'39'
+p5544
+aS'11'
+p5545
+aS'9'
+aS'112'
+p5546
+aS'Northern Ireland'
+p5547
+aVUnited Kingdom
+p5548
+aVNorthern Ireland
+p5549
+ag93
+ag93
+aa(lp5550
+S'Fergus Keogh'
+p5551
+aS'1964'
+p5552
+aS'Fullback'
+p5553
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'6'
+aS'Dublin'
+p5554
+aVRepublic of Ireland
+p5555
+aVLeinster
+p5556
+aVCounty Dublin
+p5557
+aVDublin
+p5558
+aa(lp5559
+S'Paddy Lane'
+p5560
+aS'1964'
+p5561
+aS'Hooker'
+p5562
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Co Clare'
+p5563
+aVRepublic of Ireland
+p5564
+aVMunster
+p5565
+aVCounty Clare
+p5566
+ag93
+aa(lp5567
+S'Mick Leahy'
+p5568
+aS'1964'
+p5569
+aS'Lock'
+p5570
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Co Galway'
+p5571
+aVRepublic of Ireland
+p5572
+aVConnacht
+p5573
+aVCounty Galway
+p5574
+ag93
+aa(lp5575
+S'Al Moroney'
+p5576
+aS'1964'
+p5577
+aS'Prop'
+p5578
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Co Clare'
+p5579
+aVRepublic of Ireland
+p5580
+aVMunster
+p5581
+aVCounty Clare
+p5582
+ag93
+aa(lp5583
+S'Mick Doyle'
+p5584
+aS'1965'
+p5585
+aS'Flanker'
+p5586
+aS'21'
+p5587
+aS'11'
+p5588
+aS'7'
+aS'3'
+aS'2'
+aS'6'
+aS'Castleisland'
+p5589
+aVRepublic of Ireland
+p5590
+aVMunster
+p5591
+aVCounty Kerry
+p5592
+aVCastleisland
+p5593
+aa(lp5594
+S'Ken Kennedy'
+p5595
+aS'1965'
+p5596
+aS'Hooker'
+p5597
+aS'49'
+p5598
+aS'25'
+p5599
+aS'17'
+p5600
+aS'7'
+aS'1'
+aS'3'
+aS'Kent'
+p5601
+aVUnited Kingdom
+p5602
+aVEngland
+p5603
+aVSouth East
+p5604
+aVKent
+p5605
+aa(lp5606
+S'Ronnie Lamont'
+p5607
+aS'1965'
+p5608
+aS'Flanker'
+p5609
+aS'16'
+p5610
+aS'5'
+aS'8'
+aS'3'
+aS'2'
+aS'6'
+aS'Northern Ireland'
+p5611
+aVUnited Kingdom
+p5612
+aVNorthern Ireland
+p5613
+ag93
+ag93
+aa(lp5614
+S'Sean MacHale'
+p5615
+aS'1965'
+p5616
+aS'Prop'
+p5617
+aS'12'
+p5618
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'Ballina'
+p5619
+aVRepublic of Ireland
+p5620
+aVConnacht
+p5621
+aVCounty Mayo
+p5622
+aVBallina
+p5623
+aa(lp5624
+S'Roger Young'
+p5625
+aS'1965'
+p5626
+aS'Scrum-half'
+p5627
+aS'30'
+p5628
+aS'15'
+p5629
+aS'11'
+p5630
+aS'4'
+aS'1'
+aS'3'
+aS'Northern Ireland'
+p5631
+aVUnited Kingdom
+p5632
+aVNorthern Ireland
+p5633
+ag93
+ag93
+aa(lp5634
+S'Paddy McGrath'
+p5635
+aS'1965'
+p5636
+aS'Wing'
+p5637
+aS'10'
+p5638
+aS'6'
+aS'3'
+aS'1'
+aS'4'
+aS'12'
+p5639
+aS'Burma'
+p5640
+aV\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f\u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a\u200c
+p5641
+ag93
+ag93
+ag93
+aa(lp5642
+S'Henry Wall'
+p5643
+aS'1965'
+p5644
+aS'No. 8'
+p5645
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cork'
+p5646
+aVRepublic of Ireland
+p5647
+aVMunster
+p5648
+aVCounty Cork
+p5649
+aVCork
+p5650
+aa(lp5651
+S'Mick Molloy'
+p5652
+aS'1966'
+p5653
+aS'Lock'
+p5654
+aS'27'
+p5655
+aS'14'
+p5656
+aS'10'
+p5657
+aS'3'
+aS'2'
+aS'6'
+aS'Galway'
+p5658
+aVRepublic of Ireland
+p5659
+aVConnacht
+p5660
+aVCounty Galway
+p5661
+aVCathair na Gaillimhe
+p5662
+aa(lp5663
+S'Barry Bresnihan'
+p5664
+aS'1966'
+p5665
+aS'Centre'
+p5666
+aS'28'
+p5667
+aS'13'
+p5668
+aS'10'
+p5669
+aS'5'
+aS'5'
+aS'15'
+p5670
+aS'Waterford'
+p5671
+aVRepublic of Ireland
+p5672
+aVMunster
+p5673
+aVCounty Waterford
+p5674
+aVWaterford
+p5675
+aa(lp5676
+S'Aidan Brady'
+p5677
+aS'1966'
+p5678
+aS'Hooker'
+p5679
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Dublin'
+p5680
+aVRepublic of Ireland
+p5681
+aVLeinster
+p5682
+aVCounty Dublin
+p5683
+aVDublin
+p5684
+aa(lp5685
+S'Oliver Waldron'
+p5686
+aS'1966'
+p5687
+aS'Lock'
+p5688
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cork'
+p5689
+aVRepublic of Ireland
+p5690
+aVMunster
+p5691
+aVCounty Cork
+p5692
+aVCork
+p5693
+aa(lp5694
+S'Ken Goodall'
+p5695
+aS'1967'
+p5696
+aS'No. 8'
+p5697
+aS'19'
+p5698
+aS'12'
+p5699
+aS'5'
+aS'2'
+aS'3'
+aS'9'
+aS'Leeds'
+p5700
+aVUnited Kingdom
+p5701
+aVEngland
+p5702
+aVYorkshire and the Humber
+p5703
+aVLeeds
+p5704
+aa(lp5705
+S"Philo O'Callaghan"
+p5706
+aS'1967'
+p5707
+aS'Prop'
+p5708
+aS'21'
+p5709
+aS'10'
+p5710
+aS'9'
+aS'2'
+aS'0'
+aS'0'
+aS'Cork'
+p5711
+aVRepublic of Ireland
+p5712
+aVMunster
+p5713
+aVCounty Cork
+p5714
+aVCork
+p5715
+aa(lp5716
+S'Harry Rea'
+p5717
+aS'1967'
+p5718
+aS'Centre'
+p5719
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p5720
+aVUnited Kingdom
+p5721
+aVNorthern Ireland
+p5722
+ag93
+ag93
+aa(lp5723
+S'Brendan Sherry'
+p5724
+aS'1967'
+p5725
+aS'Scrum-half'
+p5726
+aS'6'
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Cork'
+p5727
+aVRepublic of Ireland
+p5728
+aVMunster
+p5729
+aVCounty Cork
+p5730
+aVCork
+p5731
+aa(lp5732
+S'Robert Scott'
+p5733
+aS'1967'
+p5734
+aS'Wing'
+p5735
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p5736
+aVUnited Kingdom
+p5737
+aVNorthern Ireland
+p5738
+ag93
+ag93
+aa(lp5739
+S'Sam Hutton'
+p5740
+aS'1967'
+p5741
+aS'Prop'
+p5742
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp5743
+S'Terry Moore'
+p5744
+aS'1967'
+p5745
+aS'No. 8'
+p5746
+aS'12'
+p5747
+aS'5'
+aS'4'
+aS'3'
+aS'1'
+aS'4'
+aS'Cork'
+p5748
+aVRepublic of Ireland
+p5749
+aVMunster
+p5750
+aVCounty Cork
+p5751
+aVCork
+p5752
+aa(lp5753
+S'Billy McCombe'
+p5754
+aS'1968'
+p5755
+aS'Fly-half'
+p5756
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'1'
+aS'32'
+p5757
+aS'Kampala'
+p5758
+aVUganda
+p5759
+aVCentral Region
+p5760
+aVKampala
+p5761
+ag93
+aa(lp5762
+S"Brian O'Brien"
+p5763
+aS'1968'
+p5764
+aS'Centre'
+p5765
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Limerick'
+p5766
+aVRepublic of Ireland
+p5767
+aVMunster
+p5768
+aVCounty Limerick
+p5769
+aVLimerick
+p5770
+aa(lp5771
+S'Thomas Doyle'
+p5772
+aS'1968'
+p5773
+aS'Flanker'
+p5774
+aS'3'
+aS'2'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Castleisland'
+p5775
+aVRepublic of Ireland
+p5776
+aVMunster
+p5777
+aVCounty Kerry
+p5778
+aVCastleisland
+p5779
+aa(lp5780
+S'Laurence Hunter'
+p5781
+aS'1968'
+p5782
+aS'Centre'
+p5783
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p5784
+aVUnited Kingdom
+p5785
+aVNorthern Ireland
+p5786
+ag93
+ag93
+aa(lp5787
+S'John Moroney'
+p5788
+aS'1968'
+p5789
+aS'Wing'
+p5790
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'1'
+aS'20'
+p5791
+aS'Tipperary'
+p5792
+aVRepublic of Ireland
+p5793
+aVMunster
+p5794
+aVCounty Tipperary
+p5795
+aVTipperary
+p5796
+aa(lp5797
+S'Jim Tydings'
+p5798
+aS'1968'
+p5799
+aS'Wing'
+p5800
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Limerick'
+p5801
+aVRepublic of Ireland
+p5802
+aVMunster
+p5803
+aVCounty Limerick
+p5804
+aVLimerick
+p5805
+aa(lp5806
+S'James Davidson'
+p5807
+aS'1969'
+p5808
+aS'Flanker'
+p5809
+aS'6'
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p5810
+aVUnited Kingdom
+p5811
+aVNorthern Ireland
+p5812
+ag93
+ag93
+aa(lp5813
+S'Barry McGann'
+p5814
+aS'1969'
+p5815
+aS'Fly-half'
+p5816
+aS'25'
+p5817
+aS'11'
+p5818
+aS'11'
+p5819
+aS'3'
+aS'1'
+aS'72'
+p5820
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp5821
+S'Colin Grimshaw'
+p5822
+aS'1969'
+p5823
+aS'Scrum-half'
+p5824
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp5825
+S'William Brown'
+p5826
+aS'1970'
+p5827
+aS'Wing'
+p5828
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'1'
+aS'3'
+aS'Northern Ireland'
+p5829
+aVUnited Kingdom
+p5830
+aVNorthern Ireland
+p5831
+ag93
+ag93
+aa(lp5832
+S'Eric Campbell'
+p5833
+aS'1970'
+p5834
+aS'Lock'
+p5835
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Co Carlow'
+p5836
+aVRepublic of Ireland
+p5837
+aVLeinster
+p5838
+aVCounty Carlow
+p5839
+ag93
+aa(lp5840
+S'Fergus Slattery'
+p5841
+aS'1970'
+p5842
+aS'Flanker'
+p5843
+aS'65'
+p5844
+aS'27'
+p5845
+aS'30'
+p5846
+aS'8'
+aS'3'
+aS'12'
+p5847
+aS'Dun Laoghaire'
+p5848
+aVRepublic of Ireland
+p5849
+aVLeinster
+p5850
+aVCounty Dublin
+p5851
+aVDún Laoghaire-Rathdown
+p5852
+aa(lp5853
+S'Edwin Grant'
+p5854
+aS'1971'
+p5855
+aS'Wing'
+p5856
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'3'
+aS'9'
+aS'Northern Ireland'
+p5857
+aVUnited Kingdom
+p5858
+aVNorthern Ireland
+p5859
+ag93
+ag93
+aa(lp5860
+S'Denis Hickie'
+p5861
+aS'1971'
+p5862
+aS'No. 8'
+p5863
+aS'6'
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Dublin'
+p5864
+aVRepublic of Ireland
+p5865
+aVLeinster
+p5866
+aVCounty Dublin
+p5867
+aVDublin
+p5868
+aa(lp5869
+S'Sean Lynch'
+p5870
+aS'1971'
+p5871
+aS'Prop'
+p5872
+aS'21'
+p5873
+aS'9'
+aS'7'
+aS'5'
+aS'0'
+aS'0'
+aS'Dublin'
+p5874
+aVRepublic of Ireland
+p5875
+aVLeinster
+p5876
+aVCounty Dublin
+p5877
+aVDublin
+p5878
+aa(lp5879
+S"Barry O'Driscoll"
+p5880
+aS'1971'
+p5881
+aS'Fullback'
+p5882
 aS'4'
 aS'1'
 aS'2'
@@ -14913,20 +16030,22 @@ aS'1'
 aS'0'
 aS'6'
 aS'Dublin'
-p5502
+p5883
 aVRepublic of Ireland
-p5503
+p5884
 aVLeinster
-p5504
+p5885
 aVCounty Dublin
-p5505
-aa(lp5506
+p5886
+aVDublin
+p5887
+aa(lp5888
 S'Con Feighery'
-p5507
+p5889
 aS'1972'
-p5508
+p5890
 aS'Lock'
-p5509
+p5891
 aS'3'
 aS'3'
 aS'0'
@@ -14934,113 +16053,121 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p5510
+p5892
 aVRepublic of Ireland
-p5511
+p5893
 aVLeinster
-p5512
+p5894
 aVCounty Dublin
-p5513
-aa(lp5514
+p5895
+aVDublin
+p5896
+aa(lp5897
 S'Tom Grace'
-p5515
+p5898
 aS'1972'
-p5516
+p5899
 aS'Wing'
-p5517
+p5900
 aS'25'
-p5518
+p5901
 aS'9'
 aS'14'
-p5519
+p5902
 aS'2'
 aS'6'
 aS'24'
-p5520
+p5903
 aS'Dublin'
-p5521
+p5904
 aVRepublic of Ireland
-p5522
+p5905
 aVLeinster
-p5523
+p5906
 aVCounty Dublin
-p5524
-aa(lp5525
+p5907
+aVDublin
+p5908
+aa(lp5909
 S'Stewart McKinney'
-p5526
+p5910
 aS'1972'
-p5527
+p5911
 aS'Flanker'
-p5528
+p5912
 aS'25'
-p5529
+p5913
 aS'9'
 aS'15'
-p5530
+p5914
 aS'1'
 aS'2'
 aS'11'
-p5531
+p5915
 aS'Northern Ireland'
-p5532
+p5916
 aVUnited Kingdom
-p5533
+p5917
 aVNorthern Ireland
-p5534
-ag87
-aa(lp5535
+p5918
+ag93
+ag93
+aa(lp5919
 S'Arthur McMaster'
-p5536
+p5920
 aS'1972'
-p5537
+p5921
 aS'Wing'
-p5538
+p5922
 aS'18'
-p5539
+p5923
 aS'8'
 aS'8'
 aS'2'
 aS'2'
 aS'8'
 aS'Northern Ireland'
-p5540
+p5924
 aVUnited Kingdom
-p5541
+p5925
 aVNorthern Ireland
-p5542
-ag87
-aa(lp5543
+p5926
+ag93
+ag93
+aa(lp5927
 S'John Moloney'
-p5544
+p5928
 aS'1972'
-p5545
+p5929
 aS'Scrum-half'
-p5546
+p5930
 aS'27'
-p5547
+p5931
 aS'14'
-p5548
+p5932
 aS'10'
-p5549
+p5933
 aS'3'
 aS'4'
 aS'16'
-p5550
+p5934
 aS'Limerick'
-p5551
+p5935
 aVRepublic of Ireland
-p5552
+p5936
 aVMunster
-p5553
+p5937
 aVCounty Limerick
-p5554
-aa(lp5555
+p5938
+aVLimerick
+p5939
+aa(lp5940
 S'Kevin Mays'
-p5556
+p5941
 aS'1973'
-p5557
+p5942
 aS'Lock'
-p5558
+p5943
 aS'4'
 aS'1'
 aS'2'
@@ -15048,20 +16175,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'London'
-p5559
+p5944
 aVUnited Kingdom
-p5560
+p5945
 aVEngland
-p5561
+p5946
 aVGreater London
-p5562
-aa(lp5563
+p5947
+aVLondon
+p5948
+aa(lp5949
 S'James Buckley'
-p5564
+p5950
 aS'1973'
-p5565
+p5951
 aS'Flanker'
-p5566
+p5952
 aS'2'
 aS'1'
 aS'1'
@@ -15072,59 +16201,63 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp5567
+aS's'
+aa(lp5953
 S'Dick Milliken'
-p5568
+p5954
 aS'1973'
-p5569
+p5955
 aS'Centre'
-p5570
+p5956
 aS'18'
-p5571
+p5957
 aS'9'
 aS'6'
 aS'3'
 aS'3'
 aS'12'
-p5572
+p5958
 aS'Northern Ireland'
-p5573
+p5959
 aVUnited Kingdom
-p5574
+p5960
 aVNorthern Ireland
-p5575
-ag87
-aa(lp5576
+p5961
+ag93
+ag93
+aa(lp5962
 S'Anthony Ensor'
-p5577
+p5963
 aS'1973'
-p5578
+p5964
 aS'Fullback'
-p5579
+p5965
 aS'22'
-p5580
+p5966
 aS'7'
 aS'13'
-p5581
+p5967
 aS'2'
 aS'1'
 aS'31'
-p5582
+p5968
 aS'Dublin'
-p5583
+p5969
 aVRepublic of Ireland
-p5584
+p5970
 aVLeinster
-p5585
+p5971
 aVCounty Dublin
-p5586
-aa(lp5587
+p5972
+aVDublin
+p5973
+aa(lp5974
 S'Roger Clegg'
-p5588
+p5975
 aS'1973'
-p5589
+p5976
 aS'Prop'
-p5590
+p5977
 aS'5'
 aS'3'
 aS'2'
@@ -15132,20 +16265,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Cork'
-p5591
+p5978
 aVRepublic of Ireland
-p5592
+p5979
 aVMunster
-p5593
+p5980
 aVCounty Cork
-p5594
-aa(lp5595
+p5981
+ag93
+aa(lp5982
 S'Seamus Dennison'
-p5596
+p5983
 aS'1973'
-p5597
+p5984
 aS'Wing'
-p5598
+p5985
 aS'3'
 aS'2'
 aS'1'
@@ -15153,43 +16287,47 @@ aS'0'
 aS'1'
 aS'4'
 aS'Limerick'
-p5599
+p5986
 aVRepublic of Ireland
-p5600
+p5987
 aVMunster
-p5601
+p5988
 aVCounty Limerick
-p5602
-aa(lp5603
+p5989
+aVLimerick
+p5990
+aa(lp5991
 S'Michael Quinn'
-p5604
+p5992
 aS'1973'
-p5605
+p5993
 aS'Fly-half'
-p5606
+p5994
 aS'10'
-p5607
+p5995
 aS'3'
 aS'5'
 aS'2'
 aS'0'
 aS'18'
-p5608
+p5996
 aS'Dublin'
-p5609
+p5997
 aVRepublic of Ireland
-p5610
+p5998
 aVLeinster
-p5611
+p5999
 aVCounty Dublin
-p5612
-aa(lp5613
+p6000
+aVDublin
+p6001
+aa(lp6002
 S'Vincent Becker'
-p5614
+p6003
 aS'1974'
-p5615
+p6004
 aS'Wing'
-p5616
+p6005
 aS'2'
 aS'0'
 aS'1'
@@ -15197,1043 +16335,72 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
-p5617
+p6006
 aVRepublic of Ireland
-p5618
+p6007
 aVLeinster
-p5619
+p6008
 aVCounty Dublin
-p5620
-aa(lp5621
+p6009
+aVDublin
+p6010
+aa(lp6011
 S'Moss Keane'
-p5622
+p6012
 aS'1974'
-p5623
+p6013
 aS'Lock'
-p5624
+p6014
 aS'52'
-p5625
+p6015
 aS'17'
-p5626
+p6016
 aS'31'
-p5627
+p6017
 aS'4'
 aS'1'
 aS'4'
 aS'Co Kerry'
-p5628
+p6018
 aVRepublic of Ireland
-p5629
-aVMunster
-p5630
-aVCounty Kerry
-p5631
-aa(lp5632
-S'Patrick Agnew'
-p5633
-aS'1974'
-p5634
-aS'Prop'
-p5635
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5636
-aVUnited Kingdom
-p5637
-aVNorthern Ireland
-p5638
-ag87
-aa(lp5639
-S'Shay Deering'
-p5640
-aS'1974'
-p5641
-aS'Flanker'
-p5642
-aS'8'
-aS'1'
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'Dublin'
-p5643
-aVRepublic of Ireland
-p5644
-aVLeinster
-p5645
-aVCounty Dublin
-p5646
-aa(lp5647
-S'Patrick Lavery'
-p5648
-aS'1974'
-p5649
-aS'Centre'
-p5650
-aS'2'
-aS'0'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Cheltenham'
-p5651
-aVUnited Kingdom
-p5652
-aVEngland
-p5653
-aVSouth West England
-p5654
-aa(lp5655
-S'Alan Doherty'
-p5656
-aS'1974'
-p5657
-aS''
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Enniscorthy'
-p5658
-aVRepublic of Ireland
-p5659
-aVLeinster
-p5660
-aVCounty Wexford
-p5661
-aa(lp5662
-S'James Crowe'
-p5663
-aS'1974'
-p5664
-aS'Centre'
-p5665
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p5666
-aVRepublic of Ireland
-p5667
-aVLeinster
-p5668
-aVCounty Dublin
-p5669
-aa(lp5670
-S'Pat Parfrey'
-p5671
-aS'1974'
-p5672
-aS'Wing'
-p5673
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cork'
-p5674
-aVRepublic of Ireland
-p5675
-aVMunster
-p5676
-aVCounty Cork
-p5677
-aa(lp5678
-S'Willie Duggan'
-p5679
-aS'1975'
-p5680
-aS'No. 8'
-p5681
-aS'45'
-p5682
-aS'13'
-p5683
-aS'31'
-p5684
-aS'1'
-aS'2'
-aS'8'
-aS'Kilkenny'
-p5685
-aVRepublic of Ireland
-p5686
-aVLeinster
-p5687
-aVCounty Kilkenny
-p5688
-aa(lp5689
-S'Pa Whelan'
-p5690
-aS'1975'
-p5691
-aS'Hooker'
-p5692
-aS'19'
-p5693
-aS'3'
-aS'14'
-p5694
-aS'2'
-aS'0'
-aS'0'
-aS'Limerick'
-p5695
-aVRepublic of Ireland
-p5696
-aVMunster
-p5697
-aVCounty Limerick
-p5698
-aa(lp5699
-S'Michael Sherry'
-p5700
-aS'1975'
-p5701
-aS'Flanker'
-p5702
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Co Mayo'
-p5703
-aVRepublic of Ireland
-p5704
-aVConnacht
-p5705
-aVCounty Mayo
-p5706
-aa(lp5707
-S'Ollie Campbell'
-p5708
-aS'1976'
-p5709
-aS'Fly-half'
-p5710
-aS'29'
-p5711
-aS'11'
-p5712
-aS'18'
-p5713
-aS'0'
-aS'1'
-aS'243'
-p5714
-aS'Dublin'
-p5715
-aVRepublic of Ireland
-p5716
-aVLeinster
-p5717
-aVCounty Dublin
-p5718
-aa(lp5719
-S'John Cantrell'
-p5720
-aS'1976'
-p5721
-aS'Hooker'
-p5722
-aS'9'
-aS'1'
-aS'8'
-aS'0'
-aS'0'
-aS'0'
-aS'Limerick'
-p5723
-aVRepublic of Ireland
-p5724
-aVMunster
-p5725
-aVCounty Limerick
-p5726
-aa(lp5727
-S'Ian McIlrath'
-p5728
-aS'1976'
-p5729
-aS'Centre'
-p5730
-aS'5'
-aS'0'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5731
-aVUnited Kingdom
-p5732
-aVNorthern Ireland
-p5733
-ag87
-aa(lp5734
-S'Phelim McLoughlin'
-p5735
-aS'1976'
-p5736
-aS'Prop'
-p5737
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Ballinasloe'
-p5738
-aVRepublic of Ireland
-p5739
-aVConnacht
-p5740
-aVCounty Galway
-p5741
-aa(lp5742
-S'John Robbie'
-p5743
-aS'1976'
-p5744
-aS'Scrum-half'
-p5745
-aS'10'
-p5746
-aS'1'
-aS'9'
-aS'0'
-aS'0'
-aS'9'
-aS'Dublin'
-p5747
-aVRepublic of Ireland
-p5748
-aVLeinster
-p5749
-aVCounty Dublin
-p5750
-aa(lp5751
-S'Brendan Foley'
-p5752
-aS'1976'
-p5753
-aS'Lock'
-p5754
-aS'11'
-p5755
-aS'2'
-aS'9'
-aS'0'
-aS'0'
-aS'0'
-aS'Limerick'
-p5756
-aVRepublic of Ireland
-p5757
-aVMunster
-p5758
-aVCounty Limerick
-p5759
-aa(lp5760
-S'Phil Orr'
-p5761
-aS'1976'
-p5762
-aS'Prop'
-p5763
-aS'59'
-p5764
-aS'20'
-p5765
-aS'36'
-p5766
-aS'3'
-aS'0'
-aS'0'
-aS'Dublin'
-p5767
-aVRepublic of Ireland
-p5768
-aVLeinster
-p5769
-aVCounty Dublin
-p5770
-aa(lp5771
-S'Donal Canniffe'
-p5772
-aS'1976'
-p5773
-aS'Scrum-half'
-p5774
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Mullingar'
-p5775
-aVRepublic of Ireland
-p5776
-aVLeinster
-p5777
-aVCounty Westmeath
-p5778
-aa(lp5779
-S'Ronnie Hakin'
-p5780
-aS'1976'
-p5781
-aS'Lock'
-p5782
-aS'6'
-aS'0'
-aS'6'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5783
-aVUnited Kingdom
-p5784
-aVNorthern Ireland
-p5785
-ag87
-aa(lp5786
-S'Lawrence Moloney'
-p5787
-aS'1976'
-p5788
-aS'Fullback'
-p5789
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Co.Cork'
-p5790
-aVRepublic of Ireland
-p5791
-aVMunster
-p5792
-aVCounty Cork
-p5793
-aa(lp5794
-S'Stephen Blake-Knox'
-p5795
-aS'1976'
-p5796
-aS'Wing'
-p5797
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p5798
-aVRepublic of Ireland
-p5799
-aVLeinster
-p5800
-aVCounty Dublin
-p5801
-aa(lp5802
-S'Joseph Brady'
-p5803
-aS'1976'
-p5804
-aS'Centre'
-p5805
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p5806
-aVRepublic of Ireland
-p5807
-aVLeinster
-p5808
-aVCounty Dublin
-p5809
-aa(lp5810
-S'Harold Steele'
-p5811
-aS'1976'
-p5812
-aS'Lock'
-p5813
-aS'10'
-p5814
-aS'4'
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5815
-aVUnited Kingdom
-p5816
-aVNorthern Ireland
-p5817
-ag87
-aa(lp5818
-S'Christopher McKibbin'
-p5819
-aS'1976'
-p5820
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5821
-aVUnited Kingdom
-p5822
-aVNorthern Ireland
-p5823
-ag87
-aa(lp5824
-S'Jimmy Bowen'
-p5825
-aS'1977'
-p5826
-aS'Wing'
-p5827
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Cork'
-p5828
-aVRepublic of Ireland
-p5829
-aVMunster
-p5830
-aVCounty Cork
-p5831
-aa(lp5832
-S'Thomas Feighery'
-p5833
-aS'1977'
-p5834
-aS'Prop'
-p5835
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p5836
-aVRepublic of Ireland
-p5837
-aVLeinster
-p5838
-aVCounty Dublin
-p5839
-aa(lp5840
-S'Robbie McGrath'
-p5841
-aS'1977'
-p5842
-aS'Scrum-half'
-p5843
-aS'16'
-p5844
-aS'6'
-aS'10'
-p5845
-aS'0'
-aS'1'
-aS'4'
-aS'Dublin'
-p5846
-aVRepublic of Ireland
-p5847
-aVLeinster
-p5848
-aVCounty Dublin
-p5849
-aa(lp5850
-S'Alistair McKibbin'
-p5851
-aS'1977'
-p5852
-aS'Centre'
-p5853
-aS'14'
-p5854
-aS'3'
-aS'9'
-aS'2'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5855
-aVUnited Kingdom
-p5856
-aVNorthern Ireland
-p5857
-ag87
-aa(lp5858
-S'Frank Wilson'
-p5859
-aS'1977'
-p5860
-aS'Fullback'
-p5861
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5862
-aVUnited Kingdom
-p5863
-aVNorthern Ireland
-p5864
-ag87
-aa(lp5865
-S'Ned Byrne'
-p5866
-aS'1977'
-p5867
-aS'Prop'
-p5868
-aS'6'
-aS'0'
-aS'6'
-aS'0'
-aS'0'
-aS'0'
-aS'Kilkenny'
-p5869
-aVRepublic of Ireland
-p5870
-aVLeinster
-p5871
-aVCounty Kilkenny
-p5872
-aa(lp5873
-S'Charles Murtagh'
-p5874
-aS'1977'
-p5875
-aS'Lock'
-p5876
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p5877
-aVUnited Kingdom
-p5878
-aVNorthern Ireland
-p5879
-ag87
-aa(lp5880
-S'Raymond Finn'
-p5881
-aS'1977'
-p5882
-aS'Centre'
-p5883
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p5884
-aVRepublic of Ireland
-p5885
-aVLeinster
-p5886
-aVCounty Dublin
-p5887
-aa(lp5888
-S'Freddie McLennan'
-p5889
-aS'1977'
-p5890
-aS'Wing'
-p5891
-aS'18'
-p5892
-aS'2'
-aS'14'
-p5893
-aS'2'
-aS'4'
-aS'16'
-p5894
-aS'Dublin'
-p5895
-aVRepublic of Ireland
-p5896
-aVLeinster
-p5897
-aVCounty Dublin
-p5898
-aa(lp5899
-S'Mick Fitzpatrick'
-p5900
-aS'1978'
-p5901
-aS'Prop'
-p5902
-aS'10'
-p5903
-aS'3'
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'Dublin'
-p5904
-aVRepublic of Ireland
-p5905
-aVLeinster
-p5906
-aVCounty Dublin
-p5907
-aa(lp5908
-S'Paul McNaughton'
-p5909
-aS'1978'
-p5910
-aS'Centre'
-p5911
-aS'15'
-p5912
-aS'6'
-aS'7'
-aS'2'
-aS'0'
-aS'0'
-aS'Bray'
-p5913
-aVRepublic of Ireland
-p5914
-aVLeinster
-p5915
-aVCounty Wicklow
-p5916
-aa(lp5917
-S"John O'Driscoll"
-p5918
-aS'1978'
-p5919
-aS'Flanker'
-p5920
-aS'32'
-p5921
-aS'12'
-p5922
-aS'20'
-p5923
-aS'0'
-aS'3'
-aS'12'
-p5924
-aS'Dublin'
-p5925
-aVRepublic of Ireland
-p5926
-aVLeinster
-p5927
-aVCounty Dublin
-p5928
-aa(lp5929
-S'Donal Spring'
-p5930
-aS'1978'
-p5931
-aS'Lock'
-p5932
-aS'7'
-aS'3'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'Tralee'
-p5933
-aVRepublic of Ireland
-p5934
-aVMunster
-p5935
-aVCounty Kerry
-p5936
-aa(lp5937
-S'Tony Ward'
-p5938
-aS'1978'
-p5939
-aS'Fly-half'
-p5940
-aS'20'
-p5941
-aS'5'
-aS'13'
-p5942
-aS'2'
-aS'0'
-aS'131'
-p5943
-aS'Dublin'
-p5944
-aVRepublic of Ireland
-p5945
-aVLeinster
-p5946
-aVCounty Dublin
-p5947
-aa(lp5948
-S'Terry Kennedy'
-p5949
-aS'1978'
-p5950
-aS'Wing'
-p5951
-aS'13'
-p5952
-aS'5'
-aS'7'
-aS'1'
-aS'1'
-aS'4'
-aS'Dublin'
-p5953
-aVRepublic of Ireland
-p5954
-aVLeinster
-p5955
-aVCounty Dublin
-p5956
-aa(lp5957
-S'Colin Patterson'
-p5958
-aS'1978'
-p5959
-aS'Scrum-half'
-p5960
-aS'14'
-p5961
-aS'5'
-aS'7'
-aS'2'
-aS'5'
-aS'20'
-p5962
-aS'Northern Ireland'
-p5963
-aVUnited Kingdom
-p5964
-aVNorthern Ireland
-p5965
-ag87
-aa(lp5966
-S'Michael Gibson'
-p5967
-aS'1979'
-p5968
-aS'No. 8'
-p5969
-aS'10'
-p5970
-aS'3'
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aS'Dublin'
-p5971
-aVRepublic of Ireland
-p5972
-aVLeinster
-p5973
-aVCounty Dublin
-p5974
-aa(lp5975
-S'Ginger McLoughlin'
-p5976
-aS'1979'
-p5977
-aS'Prop'
-p5978
-aS'18'
-p5979
-aS'9'
-aS'7'
-aS'2'
-aS'1'
-aS'4'
-aS'Limerick'
-p5980
-aVRepublic of Ireland
-p5981
-aVMunster
-p5982
-aVCounty Limerick
-p5983
-aa(lp5984
-S'Dick Spring'
-p5985
-aS'1979'
-p5986
-aS'Fullback'
-p5987
-aS'3'
-aS'1'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Tralee'
-p5988
-aVRepublic of Ireland
-p5989
-aVMunster
-p5990
-aVCounty Kerry
-p5991
-aa(lp5992
-S'Colm Tucker'
-p5993
-aS'1979'
-p5994
-aS'Flanker'
-p5995
-aS'5'
-aS'1'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'Limerick'
-p5996
-aVRepublic of Ireland
-p5997
-aVMunster
-p5998
-aVCounty Limerick
-p5999
-aa(lp6000
-S'Moss Finn'
-p6001
-aS'1979'
-p6002
-aS'Wing'
-p6003
-aS'14'
-p6004
-aS'7'
-aS'7'
-aS'0'
-aS'4'
-aS'16'
-p6005
-aS'Cork'
-p6006
-aVRepublic of Ireland
-p6007
-aVMunster
-p6008
-aVCounty Cork
-p6009
-aa(lp6010
-S'Ron Elliott'
-p6011
-aS'1979'
-p6012
-aS'Fullback'
-p6013
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Down'
-p6014
-aVRepublic of Ireland
-p6015
-aVLeinster
-p6016
-aVCounty Offaly
-p6017
-aa(lp6018
-S'Ciaran Fitzgerald'
 p6019
-aS'1979'
+aVMunster
 p6020
-aS'Hooker'
+aVCounty Kerry
 p6021
-aS'29'
-p6022
-aS'13'
+ag93
+aa(lp6022
+S'Patrick Agnew'
 p6023
-aS'15'
+aS'1974'
 p6024
-aS'1'
-aS'1'
-aS'4'
-aS'Galway'
+aS'Prop'
 p6025
-aVRepublic of Ireland
-p6026
-aVConnacht
-p6027
-aVCounty Galway
-p6028
-aa(lp6029
-S"Rodney O'Donnell"
-p6030
-aS'1979'
-p6031
-aS'Fullback'
-p6032
-aS'6'
-aS'4'
 aS'2'
 aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p6026
+aVUnited Kingdom
+p6027
+aVNorthern Ireland
+p6028
+ag93
+ag93
+aa(lp6029
+S'Shay Deering'
+p6030
+aS'1974'
+p6031
+aS'Flanker'
+p6032
+aS'8'
+aS'1'
+aS'6'
+aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
@@ -16244,211 +16411,501 @@ aVLeinster
 p6035
 aVCounty Dublin
 p6036
-aa(lp6037
-S'Frank Ennis'
-p6038
-aS'1979'
+aVDublin
+p6037
+aa(lp6038
+S'Patrick Lavery'
 p6039
-aS'Fullback'
+aS'1974'
 p6040
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p6041
-aVRepublic of Ireland
-p6042
-aVLeinster
-p6043
-aVCounty Dublin
-p6044
-aa(lp6045
-S'James Glennon'
-p6046
-aS'1980'
-p6047
-aS'Lock'
-p6048
-aS'7'
-aS'3'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p6049
-aVRepublic of Ireland
-p6050
-aVLeinster
-p6051
-aVCounty Dublin
-p6052
-aa(lp6053
-S"Kevin O'Brien"
-p6054
-aS'1980'
-p6055
-aS'Fullback'
-p6056
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'1'
-aS'4'
-aS'Manchester'
-p6057
-aVUnited Kingdom
-p6058
-aVEngland
-p6059
-aVNorth West England
-p6060
-aa(lp6061
-S'Ian Burns'
-p6062
-aS'1980'
-p6063
-aS'Fly-half'
-p6064
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p6065
-aVRepublic of Ireland
-p6066
-aVLeinster
-p6067
-aVCounty Dublin
-p6068
-aa(lp6069
-S'David Irwin'
-p6070
-aS'1980'
-p6071
 aS'Centre'
-p6072
-aS'28'
-p6073
-aS'7'
-aS'21'
-p6074
+p6041
+aS'2'
 aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Cheltenham'
+p6042
+aVUnited Kingdom
+p6043
+aVEngland
+p6044
+aVSouth West England
+p6045
+aVGloucestershire
+p6046
+aa(lp6047
+S'Alan Doherty'
+p6048
+aS'1974'
+p6049
+aS''
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Enniscorthy'
+p6050
+aVRepublic of Ireland
+p6051
+aVLeinster
+p6052
+aVCounty Wexford
+p6053
+aVEnniscorthy
+p6054
+aa(lp6055
+S'James Crowe'
+p6056
+aS'1974'
+p6057
+aS'Centre'
+p6058
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p6059
+aVRepublic of Ireland
+p6060
+aVLeinster
+p6061
+aVCounty Dublin
+p6062
+aVDublin
+p6063
+aa(lp6064
+S'Pat Parfrey'
+p6065
+aS'1974'
+p6066
+aS'Wing'
+p6067
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cork'
+p6068
+aVRepublic of Ireland
+p6069
+aVMunster
+p6070
+aVCounty Cork
+p6071
+aVCork
+p6072
+aa(lp6073
+S'Willie Duggan'
+p6074
+aS'1975'
+p6075
+aS'No. 8'
+p6076
+aS'45'
+p6077
+aS'13'
+p6078
+aS'31'
+p6079
+aS'1'
 aS'2'
 aS'8'
-aS'Northern Ireland'
-p6075
-aVUnited Kingdom
-p6076
-aVNorthern Ireland
-p6077
-ag87
-aa(lp6078
-S'Hugo MacNeill'
-p6079
-aS'1981'
+aS'Kilkenny'
 p6080
-aS'Fullback'
+aVRepublic of Ireland
 p6081
-aS'40'
+aVLeinster
 p6082
-aS'15'
+aVCounty Kilkenny
 p6083
-aS'24'
+aVKilkenny
 p6084
-aS'1'
-aS'10'
-p6085
-aS'46'
+aa(lp6085
+S'Pa Whelan'
 p6086
-aS'Dublin'
+aS'1975'
 p6087
-aVRepublic of Ireland
+aS'Hooker'
 p6088
-aVLeinster
-p6089
-aVCounty Dublin
-p6090
-aa(lp6091
-S'Francis Quinn'
-p6092
-aS'1981'
-p6093
-aS'Wing'
-p6094
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p6095
-aVRepublic of Ireland
-p6096
-aVLeinster
-p6097
-aVCounty Dublin
-p6098
-aa(lp6099
-S'Kenneth Hooks'
-p6100
-aS'1981'
-p6101
-aS'Wing'
-p6102
-aS'6'
-aS'2'
-aS'4'
-aS'0'
-aS'1'
-aS'4'
-aS'Northern Ireland'
-p6103
-aVUnited Kingdom
-p6104
-aVNorthern Ireland
-p6105
-ag87
-aa(lp6106
-S'Paul Dean'
-p6107
-aS'1981'
-p6108
-aS'Fly-half'
-p6109
-aS'32'
-p6110
-aS'13'
-p6111
-aS'18'
-p6112
-aS'1'
-aS'4'
 aS'19'
-p6113
-aS'Dublin'
-p6114
+p6089
+aS'3'
+aS'14'
+p6090
+aS'2'
+aS'0'
+aS'0'
+aS'Limerick'
+p6091
 aVRepublic of Ireland
-p6115
+p6092
+aVMunster
+p6093
+aVCounty Limerick
+p6094
+aVLimerick
+p6095
+aa(lp6096
+S'Michael Sherry'
+p6097
+aS'1975'
+p6098
+aS'Flanker'
+p6099
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Co Mayo'
+p6100
+aVRepublic of Ireland
+p6101
+aVConnacht
+p6102
+aVCounty Mayo
+p6103
+ag93
+aa(lp6104
+S'Ollie Campbell'
+p6105
+aS'1976'
+p6106
+aS'Fly-half'
+p6107
+aS'29'
+p6108
+aS'11'
+p6109
+aS'18'
+p6110
+aS'0'
+aS'1'
+aS'243'
+p6111
+aS'Dublin'
+p6112
+aVRepublic of Ireland
+p6113
 aVLeinster
-p6116
+p6114
 aVCounty Dublin
-p6117
-aa(lp6118
-S'Jerry Holland'
+p6115
+aVDublin
+p6116
+aa(lp6117
+S'John Cantrell'
+p6118
+aS'1976'
 p6119
-aS'1981'
+aS'Hooker'
 p6120
-aS'Lock'
+aS'9'
+aS'1'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Limerick'
 p6121
+aVRepublic of Ireland
+p6122
+aVMunster
+p6123
+aVCounty Limerick
+p6124
+aVLimerick
+p6125
+aa(lp6126
+S'Ian McIlrath'
+p6127
+aS'1976'
+p6128
+aS'Centre'
+p6129
+aS'5'
+aS'0'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p6130
+aVUnited Kingdom
+p6131
+aVNorthern Ireland
+p6132
+ag93
+ag93
+aa(lp6133
+S'Phelim McLoughlin'
+p6134
+aS'1976'
+p6135
+aS'Prop'
+p6136
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Ballinasloe'
+p6137
+aVRepublic of Ireland
+p6138
+aVConnacht
+p6139
+aVCounty Galway
+p6140
+aVBallinasloe
+p6141
+aa(lp6142
+S'John Robbie'
+p6143
+aS'1976'
+p6144
+aS'Scrum-half'
+p6145
+aS'10'
+p6146
+aS'1'
+aS'9'
+aS'0'
+aS'0'
+aS'9'
+aS'Dublin'
+p6147
+aVRepublic of Ireland
+p6148
+aVLeinster
+p6149
+aVCounty Dublin
+p6150
+aVDublin
+p6151
+aa(lp6152
+S'Brendan Foley'
+p6153
+aS'1976'
+p6154
+aS'Lock'
+p6155
+aS'11'
+p6156
+aS'2'
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Limerick'
+p6157
+aVRepublic of Ireland
+p6158
+aVMunster
+p6159
+aVCounty Limerick
+p6160
+aVLimerick
+p6161
+aa(lp6162
+S'Phil Orr'
+p6163
+aS'1976'
+p6164
+aS'Prop'
+p6165
+aS'59'
+p6166
+aS'20'
+p6167
+aS'36'
+p6168
+aS'3'
+aS'0'
+aS'0'
+aS'Dublin'
+p6169
+aVRepublic of Ireland
+p6170
+aVLeinster
+p6171
+aVCounty Dublin
+p6172
+aVDublin
+p6173
+aa(lp6174
+S'Donal Canniffe'
+p6175
+aS'1976'
+p6176
+aS'Scrum-half'
+p6177
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Mullingar'
+p6178
+aVRepublic of Ireland
+p6179
+aVLeinster
+p6180
+aVCounty Westmeath
+p6181
+aVMullingar
+p6182
+aa(lp6183
+S'Ronnie Hakin'
+p6184
+aS'1976'
+p6185
+aS'Lock'
+p6186
+aS'6'
+aS'0'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p6187
+aVUnited Kingdom
+p6188
+aVNorthern Ireland
+p6189
+ag93
+ag93
+aa(lp6190
+S'Lawrence Moloney'
+p6191
+aS'1976'
+p6192
+aS'Fullback'
+p6193
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Co.Cork'
+p6194
+aVRepublic of Ireland
+p6195
+aVMunster
+p6196
+aVCounty Cork
+p6197
+ag93
+aa(lp6198
+S'Stephen Blake-Knox'
+p6199
+aS'1976'
+p6200
+aS'Wing'
+p6201
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p6202
+aVRepublic of Ireland
+p6203
+aVLeinster
+p6204
+aVCounty Dublin
+p6205
+aVDublin
+p6206
+aa(lp6207
+S'Joseph Brady'
+p6208
+aS'1976'
+p6209
+aS'Centre'
+p6210
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p6211
+aVRepublic of Ireland
+p6212
+aVLeinster
+p6213
+aVCounty Dublin
+p6214
+aVDublin
+p6215
+aa(lp6216
+S'Harold Steele'
+p6217
+aS'1976'
+p6218
+aS'Lock'
+p6219
+aS'10'
+p6220
+aS'4'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p6221
+aVUnited Kingdom
+p6222
+aVNorthern Ireland
+p6223
+ag93
+ag93
+aa(lp6224
+S'Christopher McKibbin'
+p6225
+aS'1976'
+p6226
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p6227
+aVUnited Kingdom
+p6228
+aVNorthern Ireland
+p6229
+ag93
+ag93
+aa(lp6230
+S'Jimmy Bowen'
+p6231
+aS'1977'
+p6232
+aS'Wing'
+p6233
 aS'3'
 aS'0'
 aS'3'
@@ -16456,20 +16913,805 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p6122
+p6234
 aVRepublic of Ireland
-p6123
+p6235
 aVMunster
-p6124
+p6236
 aVCounty Cork
-p6125
-aa(lp6126
-S'John Murphy'
-p6127
-aS'1981'
-p6128
+p6237
+aVCork
+p6238
+aa(lp6239
+S'Thomas Feighery'
+p6240
+aS'1977'
+p6241
+aS'Prop'
+p6242
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p6243
+aVRepublic of Ireland
+p6244
+aVLeinster
+p6245
+aVCounty Dublin
+p6246
+aVDublin
+p6247
+aa(lp6248
+S'Robbie McGrath'
+p6249
+aS'1977'
+p6250
+aS'Scrum-half'
+p6251
+aS'16'
+p6252
+aS'6'
+aS'10'
+p6253
+aS'0'
+aS'1'
+aS'4'
+aS'Dublin'
+p6254
+aVRepublic of Ireland
+p6255
+aVLeinster
+p6256
+aVCounty Dublin
+p6257
+aVDublin
+p6258
+aa(lp6259
+S'Alistair McKibbin'
+p6260
+aS'1977'
+p6261
+aS'Centre'
+p6262
+aS'14'
+p6263
+aS'3'
+aS'9'
+aS'2'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p6264
+aVUnited Kingdom
+p6265
+aVNorthern Ireland
+p6266
+ag93
+ag93
+aa(lp6267
+S'Frank Wilson'
+p6268
+aS'1977'
+p6269
 aS'Fullback'
-p6129
+p6270
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p6271
+aVUnited Kingdom
+p6272
+aVNorthern Ireland
+p6273
+ag93
+ag93
+aa(lp6274
+S'Ned Byrne'
+p6275
+aS'1977'
+p6276
+aS'Prop'
+p6277
+aS'6'
+aS'0'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Kilkenny'
+p6278
+aVRepublic of Ireland
+p6279
+aVLeinster
+p6280
+aVCounty Kilkenny
+p6281
+aVKilkenny
+p6282
+aa(lp6283
+S'Charles Murtagh'
+p6284
+aS'1977'
+p6285
+aS'Lock'
+p6286
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p6287
+aVUnited Kingdom
+p6288
+aVNorthern Ireland
+p6289
+ag93
+ag93
+aa(lp6290
+S'Raymond Finn'
+p6291
+aS'1977'
+p6292
+aS'Centre'
+p6293
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p6294
+aVRepublic of Ireland
+p6295
+aVLeinster
+p6296
+aVCounty Dublin
+p6297
+aVDublin
+p6298
+aa(lp6299
+S'Freddie McLennan'
+p6300
+aS'1977'
+p6301
+aS'Wing'
+p6302
+aS'18'
+p6303
+aS'2'
+aS'14'
+p6304
+aS'2'
+aS'4'
+aS'16'
+p6305
+aS'Dublin'
+p6306
+aVRepublic of Ireland
+p6307
+aVLeinster
+p6308
+aVCounty Dublin
+p6309
+aVDublin
+p6310
+aa(lp6311
+S'Mick Fitzpatrick'
+p6312
+aS'1978'
+p6313
+aS'Prop'
+p6314
+aS'10'
+p6315
+aS'3'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'Dublin'
+p6316
+aVRepublic of Ireland
+p6317
+aVLeinster
+p6318
+aVCounty Dublin
+p6319
+aVDublin
+p6320
+aa(lp6321
+S'Paul McNaughton'
+p6322
+aS'1978'
+p6323
+aS'Centre'
+p6324
+aS'15'
+p6325
+aS'6'
+aS'7'
+aS'2'
+aS'0'
+aS'0'
+aS'Bray'
+p6326
+aVRepublic of Ireland
+p6327
+aVLeinster
+p6328
+aVCounty Wicklow
+p6329
+aVBray
+p6330
+aa(lp6331
+S"John O'Driscoll"
+p6332
+aS'1978'
+p6333
+aS'Flanker'
+p6334
+aS'32'
+p6335
+aS'12'
+p6336
+aS'20'
+p6337
+aS'0'
+aS'3'
+aS'12'
+p6338
+aS'Dublin'
+p6339
+aVRepublic of Ireland
+p6340
+aVLeinster
+p6341
+aVCounty Dublin
+p6342
+aVDublin
+p6343
+aa(lp6344
+S'Donal Spring'
+p6345
+aS'1978'
+p6346
+aS'Lock'
+p6347
+aS'7'
+aS'3'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Tralee'
+p6348
+aVRepublic of Ireland
+p6349
+aVMunster
+p6350
+aVCounty Kerry
+p6351
+aVTralee
+p6352
+aa(lp6353
+S'Tony Ward'
+p6354
+aS'1978'
+p6355
+aS'Fly-half'
+p6356
+aS'20'
+p6357
+aS'5'
+aS'13'
+p6358
+aS'2'
+aS'0'
+aS'131'
+p6359
+aS'Dublin'
+p6360
+aVRepublic of Ireland
+p6361
+aVLeinster
+p6362
+aVCounty Dublin
+p6363
+aVDublin
+p6364
+aa(lp6365
+S'Terry Kennedy'
+p6366
+aS'1978'
+p6367
+aS'Wing'
+p6368
+aS'13'
+p6369
+aS'5'
+aS'7'
+aS'1'
+aS'1'
+aS'4'
+aS'Dublin'
+p6370
+aVRepublic of Ireland
+p6371
+aVLeinster
+p6372
+aVCounty Dublin
+p6373
+aVDublin
+p6374
+aa(lp6375
+S'Colin Patterson'
+p6376
+aS'1978'
+p6377
+aS'Scrum-half'
+p6378
+aS'14'
+p6379
+aS'5'
+aS'7'
+aS'2'
+aS'5'
+aS'20'
+p6380
+aS'Northern Ireland'
+p6381
+aVUnited Kingdom
+p6382
+aVNorthern Ireland
+p6383
+ag93
+ag93
+aa(lp6384
+S'Michael Gibson'
+p6385
+aS'1979'
+p6386
+aS'No. 8'
+p6387
+aS'10'
+p6388
+aS'3'
+aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'Dublin'
+p6389
+aVRepublic of Ireland
+p6390
+aVLeinster
+p6391
+aVCounty Dublin
+p6392
+aVDublin
+p6393
+aa(lp6394
+S'Ginger McLoughlin'
+p6395
+aS'1979'
+p6396
+aS'Prop'
+p6397
+aS'18'
+p6398
+aS'9'
+aS'7'
+aS'2'
+aS'1'
+aS'4'
+aS'Limerick'
+p6399
+aVRepublic of Ireland
+p6400
+aVMunster
+p6401
+aVCounty Limerick
+p6402
+aVLimerick
+p6403
+aa(lp6404
+S'Dick Spring'
+p6405
+aS'1979'
+p6406
+aS'Fullback'
+p6407
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Tralee'
+p6408
+aVRepublic of Ireland
+p6409
+aVMunster
+p6410
+aVCounty Kerry
+p6411
+aVTralee
+p6412
+aa(lp6413
+S'Colm Tucker'
+p6414
+aS'1979'
+p6415
+aS'Flanker'
+p6416
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Limerick'
+p6417
+aVRepublic of Ireland
+p6418
+aVMunster
+p6419
+aVCounty Limerick
+p6420
+aVLimerick
+p6421
+aa(lp6422
+S'Moss Finn'
+p6423
+aS'1979'
+p6424
+aS'Wing'
+p6425
+aS'14'
+p6426
+aS'7'
+aS'7'
+aS'0'
+aS'4'
+aS'16'
+p6427
+aS'Cork'
+p6428
+aVRepublic of Ireland
+p6429
+aVMunster
+p6430
+aVCounty Cork
+p6431
+aVCork
+p6432
+aa(lp6433
+S'Ron Elliott'
+p6434
+aS'1979'
+p6435
+aS'Fullback'
+p6436
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Down'
+p6437
+aVRepublic of Ireland
+p6438
+aVLeinster
+p6439
+aVCounty Offaly
+p6440
+aVKilleen Bridge
+p6441
+aa(lp6442
+S'Ciaran Fitzgerald'
+p6443
+aS'1979'
+p6444
+aS'Hooker'
+p6445
+aS'29'
+p6446
+aS'13'
+p6447
+aS'15'
+p6448
+aS'1'
+aS'1'
+aS'4'
+aS'Galway'
+p6449
+aVRepublic of Ireland
+p6450
+aVConnacht
+p6451
+aVCounty Galway
+p6452
+aVCathair na Gaillimhe
+p6453
+aa(lp6454
+S"Rodney O'Donnell"
+p6455
+aS'1979'
+p6456
+aS'Fullback'
+p6457
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p6458
+aVRepublic of Ireland
+p6459
+aVLeinster
+p6460
+aVCounty Dublin
+p6461
+aVDublin
+p6462
+aa(lp6463
+S'Frank Ennis'
+p6464
+aS'1979'
+p6465
+aS'Fullback'
+p6466
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p6467
+aVRepublic of Ireland
+p6468
+aVLeinster
+p6469
+aVCounty Dublin
+p6470
+aVDublin
+p6471
+aa(lp6472
+S'James Glennon'
+p6473
+aS'1980'
+p6474
+aS'Lock'
+p6475
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p6476
+aVRepublic of Ireland
+p6477
+aVLeinster
+p6478
+aVCounty Dublin
+p6479
+aVDublin
+p6480
+aa(lp6481
+S"Kevin O'Brien"
+p6482
+aS'1980'
+p6483
+aS'Fullback'
+p6484
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
+aS'Manchester'
+p6485
+aVUnited Kingdom
+p6486
+aVEngland
+p6487
+aVNorth West England
+p6488
+aVGreater Manchester
+p6489
+aa(lp6490
+S'Ian Burns'
+p6491
+aS'1980'
+p6492
+aS'Fly-half'
+p6493
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p6494
+aVRepublic of Ireland
+p6495
+aVLeinster
+p6496
+aVCounty Dublin
+p6497
+aVDublin
+p6498
+aa(lp6499
+S'David Irwin'
+p6500
+aS'1980'
+p6501
+aS'Centre'
+p6502
+aS'28'
+p6503
+aS'7'
+aS'21'
+p6504
+aS'0'
+aS'2'
+aS'8'
+aS'Northern Ireland'
+p6505
+aVUnited Kingdom
+p6506
+aVNorthern Ireland
+p6507
+ag93
+ag93
+aa(lp6508
+S'Hugo MacNeill'
+p6509
+aS'1981'
+p6510
+aS'Fullback'
+p6511
+aS'40'
+p6512
+aS'15'
+p6513
+aS'24'
+p6514
+aS'1'
+aS'10'
+p6515
+aS'46'
+p6516
+aS'Dublin'
+p6517
+aVRepublic of Ireland
+p6518
+aVLeinster
+p6519
+aVCounty Dublin
+p6520
+aVDublin
+p6521
+aa(lp6522
+S'Francis Quinn'
+p6523
+aS'1981'
+p6524
+aS'Wing'
+p6525
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p6526
+aVRepublic of Ireland
+p6527
+aVLeinster
+p6528
+aVCounty Dublin
+p6529
+aVDublin
+p6530
+aa(lp6531
+S'Kenneth Hooks'
+p6532
+aS'1981'
+p6533
+aS'Wing'
+p6534
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'1'
+aS'4'
+aS'Northern Ireland'
+p6535
+aVUnited Kingdom
+p6536
+aVNorthern Ireland
+p6537
+ag93
+ag93
+aa(lp6538
+S'Paul Dean'
+p6539
+aS'1981'
+p6540
+aS'Fly-half'
+p6541
+aS'32'
+p6542
+aS'13'
+p6543
+aS'18'
+p6544
+aS'1'
+aS'4'
+aS'19'
+p6545
+aS'Dublin'
+p6546
+aVRepublic of Ireland
+p6547
+aVLeinster
+p6548
+aVCounty Dublin
+p6549
+aVDublin
+p6550
+aa(lp6551
+S'Jerry Holland'
+p6552
+aS'1981'
+p6553
+aS'Lock'
+p6554
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Cork'
+p6555
+aVRepublic of Ireland
+p6556
+aVMunster
+p6557
+aVCounty Cork
+p6558
+aVCork
+p6559
+aa(lp6560
+S'John Murphy'
+p6561
+aS'1981'
+p6562
+aS'Fullback'
+p6563
 aS'3'
 aS'1'
 aS'2'
@@ -16477,20 +17719,22 @@ aS'0'
 aS'0'
 aS'5'
 aS'Bray'
-p6130
+p6564
 aVRepublic of Ireland
-p6131
+p6565
 aVLeinster
-p6132
+p6566
 aVCounty Wicklow
-p6133
-aa(lp6134
+p6567
+aVBray
+p6568
+aa(lp6569
 S'John Hewitt'
-p6135
+p6570
 aS'1981'
-p6136
+p6571
 aS'Fullback, Wing'
-p6137
+p6572
 aS'2'
 aS'0'
 aS'2'
@@ -16498,117 +17742,124 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6138
+p6573
 aVUnited Kingdom
-p6139
+p6574
 aVNorthern Ireland
-p6140
-ag87
-aa(lp6141
+p6575
+ag93
+ag93
+aa(lp6576
 S'Donal Lenihan'
-p6142
+p6577
 aS'1981'
-p6143
+p6578
 aS'Lock'
-p6144
+p6579
 aS'52'
-p6145
+p6580
 aS'21'
-p6146
+p6581
 aS'30'
-p6147
+p6582
 aS'1'
 aS'1'
 aS'4'
 aS'Cork'
-p6148
+p6583
 aVRepublic of Ireland
-p6149
+p6584
 aVMunster
-p6150
+p6585
 aVCounty Cork
-p6151
-aa(lp6152
+p6586
+aVCork
+p6587
+aa(lp6588
 S'Trevor Ringland'
-p6153
+p6589
 aS'1981'
-p6154
+p6590
 aS'Wing'
-p6155
+p6591
 aS'35'
-p6156
+p6592
 aS'14'
-p6157
+p6593
 aS'20'
-p6158
+p6594
 aS'1'
 aS'9'
 aS'36'
-p6159
+p6595
 aS'Northern Ireland'
-p6160
+p6596
 aVUnited Kingdom
-p6161
+p6597
 aVNorthern Ireland
-p6162
-ag87
-aa(lp6163
+p6598
+ag93
+ag93
+aa(lp6599
 S'Michael Kiernan'
-p6164
+p6600
 aS'1982'
-p6165
+p6601
 aS'Centre'
-p6166
+p6602
 aS'46'
-p6167
+p6603
 aS'18'
-p6168
+p6604
 aS'27'
-p6169
+p6605
 aS'1'
 aS'6'
 aS'308'
-p6170
+p6606
 aS'Cork'
-p6171
+p6607
 aVRepublic of Ireland
-p6172
+p6608
 aVMunster
-p6173
+p6609
 aVCounty Cork
-p6174
-aa(lp6175
+p6610
+aVCork
+p6611
+aa(lp6612
 S'Keith Crossan'
-p6176
+p6613
 aS'1982'
-p6177
+p6614
 aS'Wing'
-p6178
+p6615
 aS'41'
-p6179
+p6616
 aS'17'
-p6180
+p6617
 aS'23'
-p6181
+p6618
 aS'1'
 aS'12'
-p6182
+p6619
 aS'48'
-p6183
+p6620
 aS'Northern Ireland'
-p6184
+p6621
 aVUnited Kingdom
-p6185
+p6622
 aVNorthern Ireland
-p6186
-ag87
-aa(lp6187
+p6623
+ag93
+ag93
+aa(lp6624
 S'Ronan Kearney'
-p6188
+p6625
 aS'1982'
-p6189
+p6626
 aS'Flanker'
-p6190
+p6627
 aS'4'
 aS'0'
 aS'4'
@@ -16616,20 +17867,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kilkenny'
-p6191
+p6628
 aVRepublic of Ireland
-p6192
+p6629
 aVLeinster
-p6193
+p6630
 aVCounty Kilkenny
-p6194
-aa(lp6195
+p6631
+aVKilkenny
+p6632
+aa(lp6633
 S'Rory Moroney'
-p6196
+p6634
 aS'1984'
-p6197
+p6635
 aS'Centre'
-p6198
+p6636
 aS'3'
 aS'0'
 aS'2'
@@ -16637,20 +17890,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Clonmel'
-p6199
+p6637
 aVRepublic of Ireland
-p6200
+p6638
 aVMunster
-p6201
+p6639
 aVCounty Tipperary
-p6202
-aa(lp6203
+p6640
+aVClonmel
+p6641
+aa(lp6642
 S'William Duncan'
-p6204
+p6643
 aS'1984'
-p6205
+p6644
 aS'Flanker'
-p6206
+p6645
 aS'2'
 aS'0'
 aS'2'
@@ -16658,40 +17913,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6207
+p6646
 aVUnited Kingdom
-p6208
+p6647
 aVNorthern Ireland
-p6209
-ag87
-aa(lp6210
+p6648
+ag93
+ag93
+aa(lp6649
 S'JJ McCoy'
-p6211
+p6650
 aS'1984'
-p6212
+p6651
 aS'Prop'
-p6213
+p6652
 aS'16'
-p6214
+p6653
 aS'7'
 aS'8'
 aS'1'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6215
+p6654
 aVUnited Kingdom
-p6216
+p6655
 aVNorthern Ireland
-p6217
-ag87
-aa(lp6218
+p6656
+ag93
+ag93
+aa(lp6657
 S'Harry Harbison'
-p6219
+p6658
 aS'1984'
-p6220
+p6659
 aS'Hooker'
-p6221
+p6660
 aS'8'
 aS'3'
 aS'5'
@@ -16699,20 +17956,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p6222
+p6661
 aVRepublic of Ireland
-p6223
+p6662
 aVLeinster
-p6224
+p6663
 aVCounty Dublin
-p6225
-aa(lp6226
+p6664
+aVDublin
+p6665
+aa(lp6666
 S'Tony Doyle'
-p6227
+p6667
 aS'1984'
-p6228
+p6668
 aS'Scrum-half'
-p6229
+p6669
 aS'2'
 aS'0'
 aS'2'
@@ -16720,43 +17979,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p6230
+p6670
 aVRepublic of Ireland
-p6231
+p6671
 aVLeinster
-p6232
+p6672
 aVCounty Dublin
-p6233
-aa(lp6234
+p6673
+aVDublin
+p6674
+aa(lp6675
 S'Des Fitzgerald'
-p6235
+p6676
 aS'1984'
-p6236
+p6677
 aS'Prop'
-p6237
+p6678
 aS'34'
-p6238
+p6679
 aS'8'
 aS'25'
-p6239
+p6680
 aS'1'
 aS'0'
 aS'0'
 aS'Dublin'
-p6240
+p6681
 aVRepublic of Ireland
-p6241
+p6682
 aVLeinster
-p6242
+p6683
 aVCounty Dublin
-p6243
-aa(lp6244
+p6684
+aVDublin
+p6685
+aa(lp6686
 S'Derek McGrath'
-p6245
+p6687
 aS'1984'
-p6246
+p6688
 aS'Flanker'
-p6247
+p6689
 aS'5'
 aS'2'
 aS'3'
@@ -16764,20 +18027,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p6248
+p6690
 aVRepublic of Ireland
-p6249
+p6691
 aVLeinster
-p6250
+p6692
 aVCounty Dublin
-p6251
-aa(lp6252
+p6693
+aVDublin
+p6694
+aa(lp6695
 S'Hugh Condon'
-p6253
+p6696
 aS'1984'
-p6254
+p6697
 aS'Centre, Fly-half'
-p6255
+p6698
 aS'1'
 aS'0'
 aS'1'
@@ -16785,119 +18050,127 @@ aS'0'
 aS'0'
 aS'0'
 aS'Leamington Spa'
-p6256
+p6699
 aVUnited Kingdom
-p6257
+p6700
 aVEngland
-p6258
+p6701
 aVWest Midlands
-p6259
-aa(lp6260
+p6702
+aVWarwickshire
+p6703
+aa(lp6704
 S'Willie Anderson'
-p6261
+p6705
 aS'1984'
-p6262
+p6706
 aS'Lock'
-p6263
+p6707
 aS'27'
-p6264
+p6708
 aS'10'
-p6265
+p6709
 aS'16'
-p6266
+p6710
 aS'1'
 aS'1'
 aS'4'
 aS'Northern Ireland'
-p6267
+p6711
 aVUnited Kingdom
-p6268
+p6712
 aVNorthern Ireland
-p6269
-ag87
-aa(lp6270
+p6713
+ag93
+ag93
+aa(lp6714
 S'Michael Bradley'
-p6271
+p6715
 aS'1984'
-p6272
+p6716
 aS'Scrum-half'
-p6273
+p6717
 aS'40'
-p6274
+p6718
 aS'15'
-p6275
+p6719
 aS'23'
-p6276
+p6720
 aS'2'
 aS'5'
 aS'21'
-p6277
+p6721
 aS'Cork'
-p6278
+p6722
 aVRepublic of Ireland
-p6279
+p6723
 aVMunster
-p6280
+p6724
 aVCounty Cork
-p6281
-aa(lp6282
+p6725
+aVCork
+p6726
+aa(lp6727
 S'Philip Matthews'
-p6283
+p6728
 aS'1984'
-p6284
+p6729
 aS'Flanker'
-p6285
+p6730
 aS'38'
-p6286
+p6731
 aS'12'
-p6287
+p6732
 aS'24'
-p6288
+p6733
 aS'2'
 aS'4'
 aS'16'
-p6289
+p6734
 aS'Gloucester'
-p6290
+p6735
 aVUnited Kingdom
-p6291
+p6736
 aVEngland
-p6292
+p6737
 aVSouth West England
-p6293
-aa(lp6294
+p6738
+aVGloucestershire
+p6739
+aa(lp6740
 S'Brendan Mullin'
-p6295
+p6741
 aS'1984'
-p6296
+p6742
 aS'Centre'
-p6297
+p6743
 aS'56'
-p6298
+p6744
 aS'19'
-p6299
+p6745
 aS'36'
-p6300
+p6746
 aS'1'
 aS'17'
-p6301
+p6747
 aS'72'
-p6302
+p6748
 aS'Jerusalem'
-p6303
+p6749
 aV\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc
-p6304
+p6750
 aV\u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd
-p6305
+p6751
 aVJerusalem
-p6306
-aa(lp6307
+p6752
+ag93
+aa(lp6753
 S'William Sexton'
-p6308
+p6754
 aS'1984'
-p6309
+p6755
 aS'Flanker'
-p6310
+p6756
 aS'3'
 aS'1'
 aS'2'
@@ -16908,56 +18181,60 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp6311
+aS's'
+aa(lp6757
 S'Nigel Carr'
-p6312
+p6758
 aS'1985'
-p6313
+p6759
 aS'Flanker'
-p6314
+p6760
 aS'11'
-p6315
+p6761
 aS'6'
 aS'4'
 aS'1'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6316
+p6762
 aVUnited Kingdom
-p6317
+p6763
 aVNorthern Ireland
-p6318
-ag87
-aa(lp6319
+p6764
+ag93
+ag93
+aa(lp6765
 S'Brian Spillane'
-p6320
+p6766
 aS'1985'
-p6321
+p6767
 aS'No. 8'
-p6322
+p6768
 aS'13'
-p6323
+p6769
 aS'5'
 aS'7'
 aS'1'
 aS'1'
 aS'4'
 aS'Cork'
-p6324
+p6770
 aVRepublic of Ireland
-p6325
+p6771
 aVMunster
-p6326
+p6772
 aVCounty Cork
-p6327
-aa(lp6328
+p6773
+aVCork
+p6774
+aa(lp6775
 S'Brian McCall'
-p6329
+p6776
 aS'1985'
-p6330
+p6777
 aS'Lock'
-p6331
+p6778
 aS'3'
 aS'0'
 aS'2'
@@ -16965,19 +18242,20 @@ aS'1'
 aS'1'
 aS'4'
 aS'Northern Ireland'
-p6332
+p6779
 aVUnited Kingdom
-p6333
+p6780
 aVNorthern Ireland
-p6334
-ag87
-aa(lp6335
+p6781
+ag93
+ag93
+aa(lp6782
 S'Robert Morrow'
-p6336
+p6783
 aS'1986'
-p6337
+p6784
 aS'Flanker'
-p6338
+p6785
 aS'3'
 aS'0'
 aS'3'
@@ -16988,13 +18266,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp6339
+aS's'
+aa(lp6786
 S'Paul Kennedy'
-p6340
+p6787
 aS'1986'
-p6341
+p6788
 aS'Prop'
-p6342
+p6789
 aS'2'
 aS'0'
 aS'2'
@@ -17005,59 +18284,64 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp6343
+aS's'
+aa(lp6790
 S'Ralph Keyes'
-p6344
+p6791
 aS'1986'
-p6345
+p6792
 aS'Fly-half'
-p6346
+p6793
 aS'8'
 aS'2'
 aS'6'
 aS'0'
 aS'1'
 aS'94'
-p6347
+p6794
 aS'Cork'
-p6348
+p6795
 aVRepublic of Ireland
-p6349
+p6796
 aVMunster
-p6350
+p6797
 aVCounty Cork
-p6351
-aa(lp6352
+p6798
+aVCork
+p6799
+aa(lp6800
 S'Terry Kingston'
-p6353
+p6801
 aS'1987'
-p6354
+p6802
 aS'Hooker'
-p6355
+p6803
 aS'30'
-p6356
+p6804
 aS'14'
-p6357
+p6805
 aS'15'
-p6358
+p6806
 aS'1'
 aS'2'
 aS'8'
 aS'Cork'
-p6359
+p6807
 aVRepublic of Ireland
-p6360
+p6808
 aVMunster
-p6361
+p6809
 aVCounty Cork
-p6362
-aa(lp6363
+p6810
+aVCork
+p6811
+aa(lp6812
 S'Paul Collins'
-p6364
+p6813
 aS'1987'
-p6365
+p6814
 aS'Flanker'
-p6366
+p6815
 aS'2'
 aS'1'
 aS'1'
@@ -17065,20 +18349,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p6367
+p6816
 aVRepublic of Ireland
-p6368
+p6817
 aVMunster
-p6369
+p6818
 aVCounty Cork
-p6370
-aa(lp6371
+p6819
+aVCork
+p6820
+aa(lp6821
 S'John McDonald'
-p6372
+p6822
 aS'1987'
-p6373
+p6823
 aS'Hooker'
-p6374
+p6824
 aS'4'
 aS'2'
 aS'2'
@@ -17086,44 +18372,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6375
+p6825
 aVUnited Kingdom
-p6376
+p6826
 aVNorthern Ireland
-p6377
-ag87
-aa(lp6378
+p6827
+ag93
+ag93
+aa(lp6828
 S'Neil Francis'
-p6379
+p6829
 aS'1987'
-p6380
+p6830
 aS'Lock'
-p6381
+p6831
 aS'36'
-p6382
+p6832
 aS'13'
-p6383
+p6833
 aS'22'
-p6384
+p6834
 aS'1'
 aS'4'
 aS'19'
-p6385
+p6835
 aS'Dublin'
-p6386
+p6836
 aVRepublic of Ireland
-p6387
+p6837
 aVLeinster
-p6388
+p6838
 aVCounty Dublin
-p6389
-aa(lp6390
+p6839
+aVDublin
+p6840
+aa(lp6841
 S'Job Langbroek'
-p6391
+p6842
 aS'1987'
-p6392
+p6843
 aS'Prop'
-p6393
+p6844
 aS'1'
 aS'1'
 aS'0'
@@ -17134,58 +18423,63 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp6394
+aS's'
+aa(lp6845
 S'Phil Danaher'
-p6395
+p6846
 aS'1988'
-p6396
+p6847
 aS'Centre'
-p6397
+p6848
 aS'28'
-p6398
+p6849
 aS'9'
 aS'18'
-p6399
+p6850
 aS'1'
 aS'0'
 aS'6'
 aS'Limerick'
-p6400
+p6851
 aVRepublic of Ireland
-p6401
+p6852
 aVMunster
-p6402
+p6853
 aVCounty Limerick
-p6403
-aa(lp6404
+p6854
+aVLimerick
+p6855
+aa(lp6856
 S'John Fitzgerald'
-p6405
+p6857
 aS'1988'
-p6406
+p6858
 aS'Prop'
-p6407
+p6859
 aS'12'
-p6408
+p6860
 aS'3'
 aS'8'
 aS'1'
 aS'1'
 aS'4'
 aS'London'
-p6409
+p6861
 aVUnited Kingdom
-p6410
+p6862
 aVEngland
-p6411
+p6863
 aVGreater London
-p6412
-aa(lp6413
+p6864
+aVLondon
+p6865
+aa(lp6866
 S'Don Whittle'
-p6414
+p6867
 aS'1988'
-p6415
+p6868
 aS'Flanker'
-p6416
+p6869
 aS'1'
 aS'0'
 aS'1'
@@ -17193,19 +18487,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6417
+p6870
 aVUnited Kingdom
-p6418
+p6871
 aVNorthern Ireland
-p6419
-ag87
-aa(lp6420
+p6872
+ag93
+ag93
+aa(lp6873
 S'Tom Clancy'
-p6421
+p6874
 aS'1988'
-p6422
+p6875
 aS'Prop'
-p6423
+p6876
 aS'9'
 aS'3'
 aS'6'
@@ -17213,44 +18508,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p6424
+p6877
 aVRepublic of Ireland
-p6425
+p6878
 aVLeinster
-p6426
+p6879
 aVCounty Dublin
-p6427
-aa(lp6428
+p6880
+aVDublin
+p6881
+aa(lp6882
 S'Denis McBride'
-p6429
+p6883
 aS'1988'
-p6430
+p6884
 aS'Flanker'
-p6431
+p6885
 aS'32'
-p6432
+p6886
 aS'12'
-p6433
+p6887
 aS'19'
-p6434
+p6888
 aS'1'
 aS'4'
 aS'18'
-p6435
+p6889
 aS'Northern Ireland'
-p6436
+p6890
 aVUnited Kingdom
-p6437
+p6891
 aVNorthern Ireland
-p6438
-ag87
-aa(lp6439
+p6892
+ag93
+ag93
+aa(lp6893
 S'Michael Moylett'
-p6440
+p6894
 aS'1988'
-p6441
+p6895
 aS'Lock'
-p6442
+p6896
 aS'1'
 aS'0'
 aS'1'
@@ -17258,66 +18556,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p6443
+p6897
 aVRepublic of Ireland
-p6444
+p6898
 aVLeinster
-p6445
+p6899
 aVCounty Dublin
-p6446
-aa(lp6447
+p6900
+aVDublin
+p6901
+aa(lp6902
 S'Fergus Aherne'
-p6448
+p6903
 aS'1988'
-p6449
+p6904
 aS'Scrum-half'
-p6450
+p6905
 aS'16'
-p6451
+p6906
 aS'4'
 aS'12'
-p6452
+p6907
 aS'0'
 aS'1'
 aS'4'
 aS'Cork'
-p6453
+p6908
 aVRepublic of Ireland
-p6454
+p6909
 aVMunster
-p6455
+p6910
 aVCounty Cork
-p6456
-aa(lp6457
+p6911
+aVCork
+p6912
+aa(lp6913
 S'Vince Cunningham'
-p6458
+p6914
 aS'1988'
-p6459
+p6915
 aS'Centre'
-p6460
+p6916
 aS'16'
-p6461
+p6917
 aS'7'
 aS'9'
 aS'0'
 aS'3'
 aS'14'
-p6462
+p6918
 aS'Dublin'
-p6463
+p6919
 aVRepublic of Ireland
-p6464
+p6920
 aVLeinster
-p6465
+p6921
 aVCounty Dublin
-p6466
-aa(lp6467
+p6922
+aVDublin
+p6923
+aa(lp6924
 S'John Sexton'
-p6468
+p6925
 aS'1988'
-p6469
+p6926
 aS'Wing'
-p6470
+p6927
 aS'4'
 aS'2'
 aS'2'
@@ -17325,88 +18629,95 @@ aS'0'
 aS'1'
 aS'7'
 aS'Dublin'
-p6471
+p6928
 aVRepublic of Ireland
-p6472
+p6929
 aVLeinster
-p6473
+p6930
 aVCounty Dublin
-p6474
-aa(lp6475
+p6931
+aVDublin
+p6932
+aa(lp6933
 S'Steve Smith'
-p6476
+p6934
 aS'1988'
-p6477
+p6935
 aS'Hooker'
-p6478
+p6936
 aS'25'
-p6479
+p6937
 aS'4'
 aS'20'
-p6480
+p6938
 aS'1'
 aS'2'
 aS'8'
 aS'Northern Ireland'
-p6481
+p6939
 aVUnited Kingdom
-p6482
+p6940
 aVNorthern Ireland
-p6483
-ag87
-aa(lp6484
+p6941
+ag93
+ag93
+aa(lp6942
 S'Noel Mannion'
-p6485
+p6943
 aS'1988'
-p6486
+p6944
 aS'No. 8'
-p6487
+p6945
 aS'16'
-p6488
+p6946
 aS'6'
 aS'10'
-p6489
+p6947
 aS'0'
 aS'3'
 aS'12'
-p6490
+p6948
 aS'Ballinasloe'
-p6491
+p6949
 aVRepublic of Ireland
-p6492
+p6950
 aVConnacht
-p6493
+p6951
 aVCounty Galway
-p6494
-aa(lp6495
+p6952
+aVBallinasloe
+p6953
+aa(lp6954
 S"Pat O'Hara"
-p6496
+p6955
 aS'1988'
-p6497
+p6956
 aS'Flanker'
-p6498
+p6957
 aS'15'
-p6499
+p6958
 aS'7'
 aS'8'
 aS'0'
 aS'1'
 aS'4'
 aS'Essex'
-p6500
+p6959
 aVUnited Kingdom
-p6501
+p6960
 aVEngland
-p6502
+p6961
 aVEast of England
-p6503
-aa(lp6504
+p6962
+aVEssex
+p6963
+aa(lp6964
 S'Fergus Dunlea'
-p6505
+p6965
 aS'1989'
-p6506
+p6966
 aS'Fullback'
-p6507
+p6967
 aS'3'
 aS'1'
 aS'2'
@@ -17414,20 +18725,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Dublin'
-p6508
+p6968
 aVRepublic of Ireland
-p6509
+p6969
 aVLeinster
-p6510
+p6970
 aVCounty Dublin
-p6511
-aa(lp6512
+p6971
+aVDublin
+p6972
+aa(lp6973
 S'Paul Haycock'
-p6513
+p6974
 aS'1989'
-p6514
+p6975
 aS'Wing'
-p6515
+p6976
 aS'1'
 aS'0'
 aS'1'
@@ -17435,45 +18748,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p6516
+p6977
 aVRepublic of Ireland
-p6517
+p6978
 aVLeinster
-p6518
+p6979
 aVCounty Dublin
-p6519
-aa(lp6520
+p6980
+aVDublin
+p6981
+aa(lp6982
 S'Nick Popplewell'
-p6521
+p6983
 aS'1989'
-p6522
+p6984
 aS'Prop'
-p6523
+p6985
 aS'51'
-p6524
+p6986
 aS'16'
-p6525
+p6987
 aS'34'
-p6526
+p6988
 aS'1'
 aS'3'
 aS'13'
-p6527
+p6989
 aS'Dublin'
-p6528
+p6990
 aVRepublic of Ireland
-p6529
+p6991
 aVLeinster
-p6530
+p6992
 aVCounty Dublin
-p6531
-aa(lp6532
+p6993
+aVDublin
+p6994
+aa(lp6995
 S'Philip Rainey'
-p6533
+p6996
 aS'1989'
-p6534
+p6997
 aS'Fullback'
-p6535
+p6998
 aS'1'
 aS'0'
 aS'1'
@@ -17481,131 +18798,140 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6536
+p6999
 aVUnited Kingdom
-p6537
+p7000
 aVNorthern Ireland
-p6538
-ag87
-aa(lp6539
+p7001
+ag93
+ag93
+aa(lp7002
 S'Brian Smith'
-p6540
+p7003
 aS'1987'
-p6541
+p7004
 aS'Scrum-half'
-p6542
+p7005
 aS'15'
-p6543
+p7006
 aS'6'
 aS'7'
 aS'2'
 aS'4'
 aS'52'
-p6544
+p7007
 aS'St George'
-p6545
+p7008
 aVUnited States of America
-p6546
+p7009
 aVUtah
-p6547
+p7010
 aVWashington County
-p6548
-aa(lp6549
+p7011
+aVSt. George
+p7012
+aa(lp7013
 S'Gary Halpin'
-p6550
+p7014
 aS'1990'
-p6551
+p7015
 aS'Prop'
-p6552
+p7016
 aS'11'
-p6553
+p7017
 aS'3'
 aS'8'
 aS'0'
 aS'1'
 aS'5'
 aS'Dublin'
-p6554
+p7018
 aVRepublic of Ireland
-p6555
+p7019
 aVLeinster
-p6556
+p7020
 aVCounty Dublin
-p6557
-aa(lp6558
+p7021
+aVDublin
+p7022
+aa(lp7023
 S'Kenny Murphy'
-p6559
+p7024
 aS'1990'
-p6560
+p7025
 aS'Fullback'
-p6561
+p7026
 aS'11'
-p6562
+p7027
 aS'2'
 aS'8'
 aS'1'
 aS'0'
 aS'0'
 aS'Cork'
-p6563
+p7028
 aVRepublic of Ireland
-p6564
+p7029
 aVMunster
-p6565
+p7030
 aVCounty Cork
-p6566
-aa(lp6567
+p7031
+aVCork
+p7032
+aa(lp7033
 S'Peter Russell'
-p6568
+p7034
 aS'1990'
-p6569
+p7035
 aS'Fly-half'
-p6570
+p7036
 aS'4'
 aS'0'
 aS'4'
 aS'0'
 aS'0'
 aS'23'
-p6571
+p7037
 aS'Northern Ireland'
-p6572
+p7038
 aVUnited Kingdom
-p6573
+p7039
 aVNorthern Ireland
-p6574
-ag87
-aa(lp6575
+p7040
+ag93
+ag93
+aa(lp7041
 S'Paddy Johns'
-p6576
+p7042
 aS'1990'
-p6577
+p7043
 aS'Lock'
-p6578
+p7044
 aS'59'
-p6579
+p7045
 aS'22'
-p6580
+p7046
 aS'36'
-p6581
+p7047
 aS'1'
 aS'4'
 aS'20'
-p6582
+p7048
 aS'Northern Ireland'
-p6583
+p7049
 aVUnited Kingdom
-p6584
+p7050
 aVNorthern Ireland
-p6585
-ag87
-aa(lp6586
+p7051
+ag93
+ag93
+aa(lp7052
 S'Philip Lawlor'
-p6587
+p7053
 aS'1990'
-p6588
+p7054
 aS'No. 8'
-p6589
+p7055
 aS'3'
 aS'1'
 aS'2'
@@ -17613,20 +18939,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kildare'
-p6590
+p7056
 aVRepublic of Ireland
-p6591
+p7057
 aVLeinster
-p6592
+p7058
 aVCounty Kildare
-p6593
-aa(lp6594
+p7059
+ag93
+aa(lp7060
 S'Alain Rolland'
-p6595
+p7061
 aS'1990'
-p6596
+p7062
 aS'Scrum-half'
-p6597
+p7063
 aS'3'
 aS'2'
 aS'1'
@@ -17634,92 +18961,98 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p6598
+p7064
 aVRepublic of Ireland
-p6599
+p7065
 aVLeinster
-p6600
+p7066
 aVCounty Dublin
-p6601
-aa(lp6602
+p7067
+aVDublin
+p7068
+aa(lp7069
 S'Mick Galwey'
-p6603
+p7070
 aS'1991'
-p6604
+p7071
 aS'Lock'
-p6605
+p7072
 aS'41'
-p6606
+p7073
 aS'18'
-p6607
+p7074
 aS'20'
-p6608
+p7075
 aS'3'
 aS'3'
 aS'15'
-p6609
+p7076
 aS'Co Kerry'
-p6610
+p7077
 aVRepublic of Ireland
-p6611
+p7078
 aVMunster
-p6612
+p7079
 aVCounty Kerry
-p6613
-aa(lp6614
+p7080
+ag93
+aa(lp7081
 S'Simon Geoghegan'
-p6615
+p7082
 aS'1991'
-p6616
+p7083
 aS'Wing'
-p6617
+p7084
 aS'37'
-p6618
+p7085
 aS'12'
-p6619
+p7086
 aS'23'
-p6620
+p7087
 aS'2'
 aS'11'
-p6621
+p7088
 aS'51'
-p6622
+p7089
 aS'Knebworth'
-p6623
+p7090
 aVUnited Kingdom
-p6624
+p7091
 aVEngland
-p6625
+p7092
 aVEast of England
-p6626
-aa(lp6627
+p7093
+aVHertfordshire
+p7094
+aa(lp7095
 S'Gordon Hamilton'
-p6628
+p7096
 aS'1991'
-p6629
+p7097
 aS'Flanker'
-p6630
+p7098
 aS'10'
-p6631
+p7099
 aS'2'
 aS'7'
 aS'1'
 aS'1'
 aS'4'
 aS'Northern Ireland'
-p6632
+p7100
 aVUnited Kingdom
-p6633
+p7101
 aVNorthern Ireland
-p6634
-ag87
-aa(lp6635
+p7102
+ag93
+ag93
+aa(lp7103
 S'Brian Rigney'
-p6636
+p7104
 aS'1991'
-p6637
+p7105
 aS'Lock'
-p6638
+p7106
 aS'8'
 aS'0'
 aS'7'
@@ -17727,65 +19060,70 @@ aS'1'
 aS'0'
 aS'0'
 aS'Portlaoise'
-p6639
+p7107
 aVRepublic of Ireland
-p6640
+p7108
 aVLeinster
-p6641
+p7109
 aVCounty Laois
-p6642
-aa(lp6643
+p7110
+aVPort Laoise
+p7111
+aa(lp7112
 S'Brian Robinson'
-p6644
+p7113
 aS'1991'
-p6645
+p7114
 aS'No. 8'
-p6646
+p7115
 aS'25'
-p6647
+p7116
 aS'5'
 aS'18'
-p6648
+p7117
 aS'2'
 aS'6'
 aS'25'
-p6649
+p7118
 aS'Northern Ireland'
-p6650
+p7119
 aVUnited Kingdom
-p6651
+p7120
 aVNorthern Ireland
-p6652
-ag87
-aa(lp6653
+p7121
+ag93
+ag93
+aa(lp7122
 S'Rob Saunders'
-p6654
+p7123
 aS'1991'
-p6655
+p7124
 aS'Scrum-half'
-p6656
+p7125
 aS'12'
-p6657
+p7126
 aS'2'
 aS'9'
 aS'1'
 aS'0'
 aS'0'
 aS'Nottingham'
-p6658
+p7127
 aVUnited Kingdom
-p6659
+p7128
 aVEngland
-p6660
+p7129
 aVEast Midlands
-p6661
-aa(lp6662
+p7130
+aVNottingham
+p7131
+aa(lp7132
 S'Jack Clarke'
-p6663
+p7133
 aS'1991'
-p6664
+p7134
 aS'Wing'
-p6665
+p7135
 aS'6'
 aS'1'
 aS'4'
@@ -17793,90 +19131,97 @@ aS'1'
 aS'1'
 aS'4'
 aS'Kisumu'
-p6666
+p7136
 aVKenya
-p6667
+p7137
 aVKisumu
-p6668
-ag87
-aa(lp6669
+p7138
+ag93
+ag93
+aa(lp7139
 S'David Curtis'
-p6670
+p7140
 aS'1991'
-p6671
+p7141
 aS'Centre'
-p6672
+p7142
 aS'13'
-p6673
+p7143
 aS'2'
 aS'10'
-p6674
+p7144
 aS'1'
 aS'1'
 aS'7'
 aS'South Rhodesia'
-p6675
+p7145
 aVUnited States of America
-p6676
+p7146
 aVWashington
-p6677
+p7147
 aVPacific County
-p6678
-aa(lp6679
+p7148
+aVRhodesia Beach
+p7149
+aa(lp7150
 S'Jim Staples'
-p6680
+p7151
 aS'1991'
-p6681
+p7152
 aS'Fullback'
-p6682
+p7153
 aS'26'
-p6683
+p7154
 aS'6'
 aS'19'
-p6684
+p7155
 aS'1'
 aS'5'
 aS'25'
-p6685
+p7156
 aS'Bermondsey'
-p6686
+p7157
 aVUnited Kingdom
-p6687
+p7158
 aVEngland
-p6688
+p7159
 aVGreater London
-p6689
-aa(lp6690
+p7160
+aVLondon
+p7161
+aa(lp7162
 S'Richard Wallace'
-p6691
+p7163
 aS'1991'
-p6692
+p7164
 aS'Wing'
-p6693
+p7165
 aS'29'
-p6694
+p7166
 aS'9'
 aS'19'
-p6695
+p7167
 aS'1'
 aS'5'
 aS'23'
-p6696
+p7168
 aS'Cork'
-p6697
+p7169
 aVRepublic of Ireland
-p6698
+p7170
 aVMunster
-p6699
+p7171
 aVCounty Cork
-p6700
-aa(lp6701
+p7172
+aVCork
+p7173
+aa(lp7174
 S'Nicky Barry'
-p6702
+p7175
 aS'1991'
-p6703
+p7176
 aS'Fly-half'
-p6704
+p7177
 aS'1'
 aS'0'
 aS'1'
@@ -17884,20 +19229,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p6705
+p7178
 aVRepublic of Ireland
-p6706
+p7179
 aVMunster
-p6707
+p7180
 aVCounty Limerick
-p6708
-aa(lp6709
+p7181
+aVLimerick
+p7182
+aa(lp7183
 S'Michael Fitzgibbon'
-p6710
+p7184
 aS'1992'
-p6711
+p7185
 aS'Flanker'
-p6712
+p7186
 aS'6'
 aS'0'
 aS'6'
@@ -17905,20 +19252,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p6713
+p7187
 aVRepublic of Ireland
-p6714
+p7188
 aVMunster
-p6715
+p7189
 aVCounty Limerick
-p6716
-aa(lp6717
+p7190
+aVLimerick
+p7191
+aa(lp7192
 S'Paul Hogan'
-p6718
+p7193
 aS'1992'
-p6719
+p7194
 aS'Flanker'
-p6720
+p7195
 aS'1'
 aS'0'
 aS'1'
@@ -17926,41 +19275,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p6721
+p7196
 aVRepublic of Ireland
-p6722
+p7197
 aVMunster
-p6723
+p7198
 aVCounty Limerick
-p6724
-aa(lp6725
+p7199
+aVLimerick
+p7200
+aa(lp7201
 S'Derek McAleese'
-p6726
+p7202
 aS'1992'
-p6727
+p7203
 aS'Fly-half'
-p6728
+p7204
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'12'
-p6729
+p7205
 aS'Northern Ireland'
-p6730
+p7206
 aVUnited Kingdom
-p6731
+p7207
 aVNorthern Ireland
-p6732
-ag87
-aa(lp6733
+p7208
+ag93
+ag93
+aa(lp7209
 S'Ronald Carey'
-p6734
+p7210
 aS'1992'
-p6735
+p7211
 aS'Wing'
-p6736
+p7212
 aS'2'
 aS'0'
 aS'2'
@@ -17968,19 +19320,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6737
+p7213
 aVUnited Kingdom
-p6738
+p7214
 aVNorthern Ireland
-p6739
-ag87
-aa(lp6740
+p7215
+ag93
+ag93
+aa(lp7216
 S'Neville Furlong'
-p6741
+p7217
 aS'1992'
-p6742
+p7218
 aS'Wing'
-p6743
+p7219
 aS'2'
 aS'0'
 aS'2'
@@ -17988,20 +19341,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Waterford'
-p6744
+p7220
 aVRepublic of Ireland
-p6745
+p7221
 aVMunster
-p6746
+p7222
 aVCounty Waterford
-p6747
-aa(lp6748
+p7223
+aVWaterford
+p7224
+aa(lp7225
 S'Kelvin Leahy'
-p6749
+p7226
 aS'1992'
-p6750
+p7227
 aS'Flanker'
-p6751
+p7228
 aS'1'
 aS'0'
 aS'1'
@@ -18009,20 +19364,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p6752
+p7229
 aVRepublic of Ireland
-p6753
+p7230
 aVMunster
-p6754
+p7231
 aVCounty Cork
-p6755
-aa(lp6756
+p7232
+aVCork
+p7233
+aa(lp7234
 S'Paul McCarthy'
-p6757
+p7235
 aS'1992'
-p6758
+p7236
 aS'Prop'
-p6759
+p7237
 aS'5'
 aS'1'
 aS'4'
@@ -18030,42 +19387,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p6760
+p7238
 aVRepublic of Ireland
-p6761
+p7239
 aVMunster
-p6762
+p7240
 aVCounty Cork
-p6763
-aa(lp6764
+p7241
+aVCork
+p7242
+aa(lp7243
 S'Mark McCall'
-p6765
+p7244
 aS'1992'
-p6766
+p7245
 aS'Centre'
-p6767
+p7246
 aS'13'
-p6768
+p7247
 aS'1'
 aS'12'
-p6769
+p7248
 aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6770
+p7249
 aVUnited Kingdom
-p6771
+p7250
 aVNorthern Ireland
-p6772
-ag87
-aa(lp6773
+p7251
+ag93
+ag93
+aa(lp7252
 S'Paddy Kenny'
-p6774
+p7253
 aS'1992'
-p6775
+p7254
 aS'Flanker'
-p6776
+p7255
 aS'1'
 aS'0'
 aS'1'
@@ -18073,20 +19433,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Philippine'
-p6777
+p7256
 aVNederland
-p6778
+p7257
 aV4553
-p6779
+p7258
 aVNederland
-p6780
-aa(lp6781
+p7259
+aVZeeland
+p7260
+aa(lp7261
 S'John Murphy'
-p6782
+p7262
 aS'1992'
-p6783
+p7263
 aS'Hooker'
-p6784
+p7264
 aS'1'
 aS'0'
 aS'1'
@@ -18094,20 +19456,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p6785
+p7265
 aVRepublic of Ireland
-p6786
+p7266
 aVLeinster
-p6787
+p7267
 aVCounty Dublin
-p6788
-aa(lp6789
+p7268
+aVDublin
+p7269
+aa(lp7270
 S'Richard Costello'
-p6790
+p7271
 aS'1993'
-p6791
+p7272
 aS'Lock'
-p6792
+p7273
 aS'1'
 aS'0'
 aS'1'
@@ -18115,20 +19479,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p6793
+p7274
 aVRepublic of Ireland
-p6794
+p7275
 aVMunster
-p6795
+p7276
 aVCounty Limerick
-p6796
-aa(lp6797
+p7277
+aVLimerick
+p7278
+aa(lp7279
 S'Niall Malone'
-p6798
+p7280
 aS'1993'
-p6799
+p7281
 aS'Fullback, Centre, Fly-half'
-p6800
+p7282
 aS'3'
 aS'1'
 aS'2'
@@ -18136,20 +19502,22 @@ aS'0'
 aS'0'
 aS'9'
 aS'Leeds'
-p6801
+p7283
 aVUnited Kingdom
-p6802
+p7284
 aVEngland
-p6803
+p7285
 aVYorkshire and the Humber
-p6804
-aa(lp6805
+p7286
+aVLeeds
+p7287
+aa(lp7288
 S'Colin Wilkinson'
-p6806
+p7289
 aS'1993'
-p6807
+p7290
 aS'Fullback'
-p6808
+p7291
 aS'1'
 aS'0'
 aS'1'
@@ -18157,19 +19525,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6809
+p7292
 aVUnited Kingdom
-p6810
+p7293
 aVNorthern Ireland
-p6811
-ag87
-aa(lp6812
+p7294
+ag93
+ag93
+aa(lp7295
 S'Ciaran Clarke'
-p6813
+p7296
 aS'1993'
-p6814
+p7297
 aS'Fullback'
-p6815
+p7298
 aS'5'
 aS'2'
 aS'3'
@@ -18177,45 +19546,49 @@ aS'0'
 aS'0'
 aS'3'
 aS'Dublin'
-p6816
+p7299
 aVRepublic of Ireland
-p6817
+p7300
 aVLeinster
-p6818
+p7301
 aVCounty Dublin
-p6819
-aa(lp6820
+p7302
+aVDublin
+p7303
+aa(lp7304
 S'Peter Clohessy'
-p6821
+p7305
 aS'1993'
-p6822
+p7306
 aS'Prop'
-p6823
+p7307
 aS'54'
-p6824
+p7308
 aS'24'
-p6825
+p7309
 aS'29'
-p6826
+p7310
 aS'1'
 aS'4'
 aS'20'
-p6827
+p7311
 aS'Limerick'
-p6828
+p7312
 aVRepublic of Ireland
-p6829
+p7313
 aVMunster
-p6830
+p7314
 aVCounty Limerick
-p6831
-aa(lp6832
+p7315
+aVLimerick
+p7316
+aa(lp7317
 S'Brian Glennon'
-p6833
+p7318
 aS'1993'
-p6834
+p7319
 aS'Centre'
-p6835
+p7320
 aS'1'
 aS'0'
 aS'1'
@@ -18226,63 +19599,68 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp6836
+aS's'
+aa(lp7321
 S'Eric Elwood'
-p6837
+p7322
 aS'1993'
-p6838
+p7323
 aS'Fly-half'
-p6839
+p7324
 aS'35'
-p6840
+p7325
 aS'15'
-p6841
+p7326
 aS'19'
-p6842
+p7327
 aS'1'
 aS'0'
 aS'296'
-p6843
+p7328
 aS'Galway'
-p6844
+p7329
 aVRepublic of Ireland
-p6845
+p7330
 aVConnacht
-p6846
+p7331
 aVCounty Galway
-p6847
-aa(lp6848
+p7332
+aVCathair na Gaillimhe
+p7333
+aa(lp7334
 S"Conor O'Shea"
-p6849
+p7335
 aS'1993'
-p6850
+p7336
 aS'Fullback'
-p6851
+p7337
 aS'35'
-p6852
+p7338
 aS'12'
-p6853
+p7339
 aS'22'
-p6854
+p7340
 aS'1'
 aS'6'
 aS'44'
-p6855
+p7341
 aS'Limerick'
-p6856
+p7342
 aVRepublic of Ireland
-p6857
+p7343
 aVMunster
-p6858
+p7344
 aVCounty Limerick
-p6859
-aa(lp6860
+p7345
+aVLimerick
+p7346
+aa(lp7347
 S"Ken O'Connell"
-p6861
+p7348
 aS'1994'
-p6862
+p7349
 aS'Flanker'
-p6863
+p7350
 aS'2'
 aS'1'
 aS'1'
@@ -18290,116 +19668,124 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p6864
+p7351
 aVRepublic of Ireland
-p6865
+p7352
 aVMunster
-p6866
+p7353
 aVCounty Cork
-p6867
-aa(lp6868
+p7354
+aVCork
+p7355
+aa(lp7356
 S'Maurice Field'
-p6869
+p7357
 aS'1994'
-p6870
+p7358
 aS'Centre'
-p6871
+p7359
 aS'17'
-p6872
+p7360
 aS'6'
 aS'10'
-p6873
+p7361
 aS'1'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6874
+p7362
 aVUnited Kingdom
-p6875
+p7363
 aVNorthern Ireland
-p6876
-ag87
-aa(lp6877
+p7364
+ag93
+ag93
+aa(lp7365
 S'Jonathan Bell'
-p6878
+p7366
 aS'1994'
-p6879
+p7367
 aS'Centre'
-p6880
+p7368
 aS'36'
-p6881
+p7369
 aS'16'
-p6882
+p7370
 aS'20'
-p6883
+p7371
 aS'0'
 aS'8'
 aS'40'
-p6884
+p7372
 aS'Northern Ireland'
-p6885
+p7373
 aVUnited Kingdom
-p6886
+p7374
 aVNorthern Ireland
-p6887
-ag87
-aa(lp6888
+p7375
+ag93
+ag93
+aa(lp7376
 S'David Corkery'
-p6889
+p7377
 aS'1994'
-p6890
+p7378
 aS'Flanker'
-p6891
+p7379
 aS'27'
-p6892
+p7380
 aS'7'
 aS'20'
-p6893
+p7381
 aS'0'
 aS'3'
 aS'15'
-p6894
+p7382
 aS'Cork'
-p6895
+p7383
 aVRepublic of Ireland
-p6896
+p7384
 aVMunster
-p6897
+p7385
 aVCounty Cork
-p6898
-aa(lp6899
+p7386
+aVCork
+p7387
+aa(lp7388
 S'Keith Wood'
-p6900
+p7389
 aS'1994'
-p6901
+p7390
 aS'Hooker'
-p6902
+p7391
 aS'63'
-p6903
+p7392
 aS'26'
-p6904
+p7393
 aS'36'
-p6905
+p7394
 aS'1'
 aS'15'
-p6906
+p7395
 aS'75'
-p6907
+p7396
 aS'Limerick'
-p6908
+p7397
 aVRepublic of Ireland
-p6909
+p7398
 aVMunster
-p6910
+p7399
 aVCounty Limerick
-p6911
-aa(lp6912
+p7400
+aVLimerick
+p7401
+aa(lp7402
 S'Niall Woods'
-p6913
+p7403
 aS'1994'
-p6914
+p7404
 aS'Wing'
-p6915
+p7405
 aS'8'
 aS'2'
 aS'6'
@@ -18407,135 +19793,147 @@ aS'0'
 aS'1'
 aS'5'
 aS'Dublin'
-p6916
+p7406
 aVRepublic of Ireland
-p6917
+p7407
 aVLeinster
-p6918
+p7408
 aVCounty Dublin
-p6919
-aa(lp6920
+p7409
+aVDublin
+p7410
+aa(lp7411
 S'Gabriel Fulcher'
-p6921
+p7412
 aS'1994'
-p6922
+p7413
 aS'Lock'
-p6923
+p7414
 aS'20'
-p6924
+p7415
 aS'7'
 aS'13'
-p6925
+p7416
 aS'0'
 aS'1'
 aS'5'
 aS'Aldershot'
-p6926
+p7417
 aVUnited Kingdom
-p6927
+p7418
 aVEngland
-p6928
+p7419
 aVSouth East
-p6929
-aa(lp6930
+p7420
+aVHampshire
+p7421
+aa(lp7422
 S'Alan McGowan'
-p6931
+p7423
 aS'1994'
-p6932
+p7424
 aS'Fly-half'
-p6933
+p7425
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'13'
-p6934
+p7426
 aS'Dublin'
-p6935
+p7427
 aVRepublic of Ireland
-p6936
+p7428
 aVLeinster
-p6937
+p7429
 aVCounty Dublin
-p6938
-aa(lp6939
+p7430
+aVDublin
+p7431
+aa(lp7432
 S'Paul Burke'
-p6940
+p7433
 aS'1995'
-p6941
+p7434
 aS'Fly-half'
-p6942
+p7435
 aS'13'
-p6943
+p7436
 aS'7'
 aS'6'
 aS'0'
 aS'0'
 aS'108'
-p6944
+p7437
 aS'Paddington'
-p6945
+p7438
 aVUnited Kingdom
-p6946
+p7439
 aVEngland
-p6947
+p7440
 aVGreater London
-p6948
-aa(lp6949
+p7441
+aVLondon
+p7442
+aa(lp7443
 S'Anthony Foley'
-p6950
+p7444
 aS'1995'
-p6951
+p7445
 aS'Back-row'
-p6952
+p7446
 aS'62'
-p6953
+p7447
 aS'37'
-p6954
+p7448
 aS'24'
-p6955
+p7449
 aS'1'
 aS'5'
 aS'25'
-p6956
+p7450
 aS'Limerick'
-p6957
+p7451
 aVRepublic of Ireland
-p6958
+p7452
 aVMunster
-p6959
+p7453
 aVCounty Limerick
-p6960
-aa(lp6961
+p7454
+aVLimerick
+p7455
+aa(lp7456
 S'Niall Hogan'
-p6962
+p7457
 aS'1995'
-p6963
+p7458
 aS'Scrum-half'
-p6964
+p7459
 aS'13'
-p6965
+p7460
 aS'5'
 aS'8'
 aS'0'
 aS'1'
 aS'5'
 aS'Dublin'
-p6966
+p7461
 aVRepublic of Ireland
-p6967
+p7462
 aVLeinster
-p6968
+p7463
 aVCounty Dublin
-p6969
-aa(lp6970
+p7464
+aVDublin
+p7465
+aa(lp7466
 S'Ben Cronin'
-p6971
+p7467
 aS'1995'
-p6972
+p7468
 aS'Back-row'
-p6973
+p7469
 aS'2'
 aS'0'
 aS'2'
@@ -18543,42 +19941,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p6974
+p7470
 aVRepublic of Ireland
-p6975
+p7471
 aVMunster
-p6976
+p7472
 aVCounty Limerick
-p6977
-aa(lp6978
+p7473
+aVLimerick
+p7474
+aa(lp7475
 S'Eddie Halvey'
-p6979
+p7476
 aS'1995'
-p6980
+p7477
 aS'Flanker'
-p6981
+p7478
 aS'8'
 aS'4'
 aS'4'
 aS'0'
 aS'2'
 aS'10'
-p6982
+p7479
 aS'Limerick'
-p6983
+p7480
 aVRepublic of Ireland
-p6984
+p7481
 aVMunster
-p6985
+p7482
 aVCounty Limerick
-p6986
-aa(lp6987
+p7483
+aVLimerick
+p7484
+aa(lp7485
 S'Davy Tweed'
-p6988
+p7486
 aS'1995'
-p6989
+p7487
 aS'Lock'
-p6990
+p7488
 aS'4'
 aS'2'
 aS'2'
@@ -18586,19 +19988,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p6991
+p7489
 aVUnited Kingdom
-p6992
+p7490
 aVNorthern Ireland
-p6993
-ag87
-aa(lp6994
+p7491
+ag93
+ag93
+aa(lp7492
 S"David O'Mahony"
-p6995
+p7493
 aS'1995'
-p6996
+p7494
 aS'Scrum-half'
-p6997
+p7495
 aS'1'
 aS'0'
 aS'1'
@@ -18606,20 +20009,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Derry'
-p6998
+p7496
 aVUnited Kingdom
-p6999
+p7497
 aVNorthern Ireland
-p7000
+p7498
 aVCounty Londonderry
-p7001
-aa(lp7002
+p7499
+aVLondonderry
+p7500
+aa(lp7501
 S"Darragh O'Mahony"
-p7003
+p7502
 aS'1995'
-p7004
+p7503
 aS'Wing'
-p7005
+p7504
 aS'4'
 aS'1'
 aS'3'
@@ -18627,68 +20032,73 @@ aS'0'
 aS'1'
 aS'5'
 aS'Cork'
-p7006
+p7505
 aVRepublic of Ireland
-p7007
+p7506
 aVMunster
-p7008
+p7507
 aVCounty Cork
-p7009
-aa(lp7010
+p7508
+aVCork
+p7509
+aa(lp7510
 S'Paul Wallace'
-p7011
+p7511
 aS'1995'
-p7012
+p7512
 aS'Prop'
-p7013
+p7513
 aS'48'
-p7014
+p7514
 aS'21'
-p7015
+p7515
 aS'26'
-p7016
+p7516
 aS'1'
 aS'5'
 aS'25'
-p7017
+p7517
 aS'Cork'
-p7018
+p7518
 aVRepublic of Ireland
-p7019
+p7519
 aVMunster
-p7020
+p7520
 aVCounty Cork
-p7021
-aa(lp7022
+p7521
+aVCork
+p7522
+aa(lp7523
 S'Jeremy Davidson'
-p7023
+p7524
 aS'1995'
-p7024
+p7525
 aS'Lock'
-p7025
+p7526
 aS'35'
-p7026
+p7527
 aS'15'
-p7027
+p7528
 aS'19'
-p7028
+p7529
 aS'1'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p7029
+p7530
 aVUnited Kingdom
-p7030
+p7531
 aVNorthern Ireland
-p7031
-ag87
-aa(lp7032
+p7532
+ag93
+ag93
+aa(lp7533
 S'Chris Saverimutto'
-p7033
+p7534
 aS'1995'
-p7034
+p7535
 aS'Scrum-half'
-p7035
+p7536
 aS'3'
 aS'2'
 aS'1'
@@ -18696,20 +20106,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wallasey'
-p7036
+p7537
 aVUnited Kingdom
-p7037
+p7538
 aVEngland
-p7038
+p7539
 aVNorth West England
-p7039
-aa(lp7040
+p7540
+aVWallasey
+p7541
+aa(lp7542
 S'Allen Clarke'
-p7041
+p7543
 aS'1995'
-p7042
+p7544
 aS'Hooker'
-p7043
+p7545
 aS'8'
 aS'4'
 aS'4'
@@ -18717,19 +20129,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p7044
+p7546
 aVUnited Kingdom
-p7045
+p7547
 aVNorthern Ireland
-p7046
-ag87
-aa(lp7047
+p7548
+ag93
+ag93
+aa(lp7549
 S'Henry Hurley'
-p7048
+p7550
 aS'1995'
-p7049
+p7551
 aS'Prop'
-p7050
+p7552
 aS'2'
 aS'1'
 aS'1'
@@ -18737,20 +20150,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Doncaster'
-p7051
+p7553
 aVUnited Kingdom
-p7052
+p7554
 aVEngland
-p7053
+p7555
 aVYorkshire and the Humber
-p7054
-aa(lp7055
+p7556
+aVDoncaster
+p7557
+aa(lp7558
 S'Sean McCahill'
-p7056
+p7559
 aS'1995'
-p7057
+p7560
 aS'Centre'
-p7058
+p7561
 aS'1'
 aS'1'
 aS'0'
@@ -18758,44 +20173,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p7059
+p7562
 aVNew Zealand/Aotearoa
-p7060
+p7563
 aVAuckland
-p7061
-ag87
-aa(lp7062
+p7564
+ag93
+ag93
+aa(lp7565
 S'Victor Costello'
-p7063
+p7566
 aS'1996'
-p7064
+p7567
 aS'Back-row'
-p7065
+p7568
 aS'39'
-p7066
+p7569
 aS'20'
-p7067
+p7570
 aS'19'
-p7068
+p7571
 aS'0'
 aS'4'
 aS'20'
-p7069
+p7572
 aS'Stepaside'
-p7070
+p7573
 aVRepublic of Ireland
-p7071
+p7574
 aVLeinster
-p7072
+p7575
 aVCounty Dublin
-p7073
-aa(lp7074
+p7576
+aVDún Laoghaire-Rathdown
+p7577
+aa(lp7578
 S'Kurt McQuilkin'
-p7075
+p7579
 aS'1996'
-p7076
+p7580
 aS'Centre'
-p7077
+p7581
 aS'5'
 aS'1'
 aS'4'
@@ -18803,88 +20221,94 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tekuiti'
-p7078
+p7582
 aS'g'
 aS'n'
 aS'i'
-aa(lp7079
+aS's'
+aa(lp7583
 S'David Humphreys'
-p7080
+p7584
 aS'1996'
-p7081
+p7585
 aS'Fly-half'
-p7082
+p7586
 aS'72'
-p7083
+p7587
 aS'37'
-p7084
+p7588
 aS'34'
-p7085
+p7589
 aS'1'
 aS'6'
 aS'560'
-p7086
+p7590
 aS'Northern Ireland'
-p7087
+p7591
 aVUnited Kingdom
-p7088
+p7592
 aVNorthern Ireland
-p7089
-ag87
-aa(lp7090
+p7593
+ag93
+ag93
+aa(lp7594
 S'Simon Mason'
-p7091
+p7595
 aS'1996'
-p7092
+p7596
 aS'Fullback'
-p7093
+p7597
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aS'42'
-p7094
+p7598
 aS'Wirral'
-p7095
+p7599
 aVCanada
-p7096
+p7600
 aVNew Brunswick
-p7097
+p7601
 aVQueens County
-p7098
-aa(lp7099
+p7602
+aVWirral
+p7603
+aa(lp7604
 S'Rob Henderson'
-p7100
+p7605
 aS'1996'
-p7101
+p7606
 aS'Centre'
-p7102
+p7607
 aS'32'
-p7103
+p7608
 aS'16'
-p7104
+p7609
 aS'16'
-p7105
+p7610
 aS'0'
 aS'6'
 aS'30'
-p7106
+p7611
 aS'Dover'
-p7107
+p7612
 aVUnited States of America
-p7108
+p7613
 aVDelaware
-p7109
+p7614
 aVKent County
-p7110
-aa(lp7111
+p7615
+aVDover
+p7616
+aa(lp7617
 S'James Topping'
-p7112
+p7618
 aS'1996'
-p7113
+p7619
 aS'Wing'
-p7114
+p7620
 aS'8'
 aS'2'
 aS'6'
@@ -18892,19 +20316,20 @@ aS'0'
 aS'1'
 aS'5'
 aS'Northern Ireland'
-p7115
+p7621
 aVUnited Kingdom
-p7116
+p7622
 aVNorthern Ireland
-p7117
-ag87
-aa(lp7118
+p7623
+ag93
+ag93
+aa(lp7624
 S'Dominic Crotty'
-p7119
+p7625
 aS'1996'
-p7120
+p7626
 aS'Fullback'
-p7121
+p7627
 aS'5'
 aS'1'
 aS'3'
@@ -18912,20 +20337,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cork'
-p7122
+p7628
 aVRepublic of Ireland
-p7123
+p7629
 aVMunster
-p7124
+p7630
 aVCounty Cork
-p7125
-aa(lp7126
+p7631
+aVCork
+p7632
+aa(lp7633
 S'Stephen McIvor'
-p7127
+p7634
 aS'1996'
-p7128
+p7635
 aS'Scrum-half'
-p7129
+p7636
 aS'3'
 aS'0'
 aS'3'
@@ -18933,45 +20360,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p7130
+p7637
 aVRepublic of Ireland
-p7131
+p7638
 aVLeinster
-p7132
+p7639
 aVCounty Dublin
-p7133
-aa(lp7134
+p7640
+aVDublin
+p7641
+aa(lp7642
 S'Eric Miller'
-p7135
+p7643
 aS'1997'
-p7136
+p7644
 aS'Back-row'
-p7137
+p7645
 aS'49'
-p7138
+p7646
 aS'29'
-p7139
+p7647
 aS'19'
-p7140
+p7648
 aS'1'
 aS'6'
 aS'30'
-p7141
+p7649
 aS'Dublin'
-p7142
+p7650
 aVRepublic of Ireland
-p7143
+p7651
 aVLeinster
-p7144
+p7652
 aVCounty Dublin
-p7145
-aa(lp7146
+p7653
+aVDublin
+p7654
+aa(lp7655
 S'Paul Flavin'
-p7147
+p7656
 aS'1997'
-p7148
+p7657
 aS'Prop'
-p7149
+p7658
 aS'2'
 aS'0'
 aS'2'
@@ -18979,68 +20410,74 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p7150
+p7659
 aVRepublic of Ireland
-p7151
+p7660
 aVLeinster
-p7152
+p7661
 aVCounty Dublin
-p7153
-aa(lp7154
+p7662
+aVDublin
+p7663
+aa(lp7664
 S'Denis Hickie'
-p7155
+p7665
 aS'1997'
-p7156
+p7666
 aS'Wing'
-p7157
+p7667
 aS'63'
-p7158
+p7668
 aS'40'
-p7159
+p7669
 aS'22'
-p7160
+p7670
 aS'1'
 aS'29'
-p7161
+p7671
 aS'145'
-p7162
+p7672
 aS'Dublin'
-p7163
+p7673
 aVRepublic of Ireland
-p7164
+p7674
 aVLeinster
-p7165
+p7675
 aVCounty Dublin
-p7166
-aa(lp7167
+p7676
+aVDublin
+p7677
+aa(lp7678
 S'Ross Nesdale'
-p7168
+p7679
 aS'1997'
-p7169
+p7680
 aS'Hooker'
-p7170
+p7681
 aS'13'
-p7171
+p7682
 aS'6'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'Feilding'
-p7172
+p7683
 aVNew Zealand/Aotearoa
-p7173
+p7684
 aVManawatu-Wanganui
-p7174
+p7685
 aVManawatu District
-p7175
-aa(lp7176
+p7686
+aVFeilding
+p7687
+aa(lp7688
 S"Brian O'Meara"
-p7177
+p7689
 aS'1997'
-p7178
+p7690
 aS'Scrum-half'
-p7179
+p7691
 aS'9'
 aS'5'
 aS'4'
@@ -19048,66 +20485,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p7180
+p7692
 aVRepublic of Ireland
-p7181
+p7693
 aVMunster
-p7182
+p7694
 aVCounty Cork
-p7183
-aa(lp7184
+p7695
+aVCork
+p7696
+aa(lp7697
 S'Kieron Dawson'
-p7185
+p7698
 aS'1997'
-p7186
+p7699
 aS'Flanker'
-p7187
+p7700
 aS'21'
-p7188
+p7701
 aS'14'
-p7189
+p7702
 aS'7'
 aS'0'
 aS'2'
 aS'10'
-p7190
+p7703
 aS'Northern Ireland'
-p7191
+p7704
 aVUnited Kingdom
-p7192
+p7705
 aVNorthern Ireland
-p7193
-ag87
-aa(lp7194
+p7706
+ag93
+ag93
+aa(lp7707
 S'Conor McGuinness'
-p7195
+p7708
 aS'1997'
-p7196
+p7709
 aS'Scrum-half'
-p7197
+p7710
 aS'14'
-p7198
+p7711
 aS'4'
 aS'10'
-p7199
+p7712
 aS'0'
 aS'1'
 aS'5'
 aS'Dublin'
-p7200
+p7713
 aVRepublic of Ireland
-p7201
+p7714
 aVLeinster
-p7202
+p7715
 aVCounty Dublin
-p7203
-aa(lp7204
+p7716
+aVDublin
+p7717
+aa(lp7718
 S'John McWeeney'
-p7205
+p7719
 aS'1997'
-p7206
+p7720
 aS'Wing'
-p7207
+p7721
 aS'1'
 aS'0'
 aS'1'
@@ -19115,67 +20557,73 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p7208
+p7722
 aVRepublic of Ireland
-p7209
+p7723
 aVLeinster
-p7210
+p7724
 aVCounty Dublin
-p7211
-aa(lp7212
+p7725
+aVDublin
+p7726
+aa(lp7727
 S'Kevin Nowlan'
-p7213
+p7728
 aS'1997'
-p7214
+p7729
 aS'Fullback'
-p7215
+p7730
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'2'
 aS'10'
-p7216
+p7731
 aS'Dublin'
-p7217
+p7732
 aVRepublic of Ireland
-p7218
+p7733
 aVLeinster
-p7219
+p7734
 aVCounty Dublin
-p7220
-aa(lp7221
+p7735
+aVDublin
+p7736
+aa(lp7737
 S"Malcolm O'Kelly"
-p7222
+p7738
 aS'1997'
-p7223
+p7739
 aS'Lock'
-p7224
+p7740
 aS'92'
-p7225
+p7741
 aS'51'
-p7226
+p7742
 aS'41'
-p7227
+p7743
 aS'0'
 aS'8'
 aS'40'
-p7228
+p7744
 aS'Chelmsford'
-p7229
+p7745
 aVUnited States of America
-p7230
+p7746
 aVMassachusetts
-p7231
+p7747
 aVMiddlesex County
-p7232
-aa(lp7233
+p7748
+aVChelmsford
+p7749
+aa(lp7750
 S'David Erskine'
-p7234
+p7751
 aS'1997'
-p7235
+p7752
 aS'Lock, Flanker'
-p7236
+p7753
 aS'3'
 aS'1'
 aS'2'
@@ -19183,70 +20631,76 @@ aS'0'
 aS'0'
 aS'0'
 aS'Waltham Forest'
-p7237
+p7754
 aVUnited Kingdom
-p7238
+p7755
 aVE17
-p7239
+p7756
 aVEngland
-p7240
-aa(lp7241
+p7757
+aVGreater London
+p7758
+aa(lp7759
 S'Kevin Maggs'
-p7242
+p7760
 aS'1997'
-p7243
+p7761
 aS'Centre'
-p7244
+p7762
 aS'70'
-p7245
+p7763
 aS'39'
-p7246
+p7764
 aS'30'
-p7247
+p7765
 aS'1'
 aS'15'
-p7248
+p7766
 aS'75'
-p7249
+p7767
 aS'Bristol'
-p7250
+p7768
 aVUnited Kingdom
-p7251
+p7769
 aVEngland
-p7252
+p7770
 aVSouth West England
-p7253
-aa(lp7254
+p7771
+aVCity of Bristol
+p7772
+aa(lp7773
 S'Reggie Corrigan'
-p7255
+p7774
 aS'1997'
-p7256
+p7775
 aS'Prop'
-p7257
+p7776
 aS'47'
-p7258
+p7777
 aS'27'
-p7259
+p7778
 aS'20'
-p7260
+p7779
 aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p7261
+p7780
 aVRepublic of Ireland
-p7262
+p7781
 aVLeinster
-p7263
+p7782
 aVCounty Dublin
-p7264
-aa(lp7265
+p7783
+aVDublin
+p7784
+aa(lp7785
 S"Dylan O'Grady"
-p7266
+p7786
 aS'1997'
-p7267
+p7787
 aS'Flanker'
-p7268
+p7788
 aS'1'
 aS'0'
 aS'1'
@@ -19254,45 +20708,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'Manchester'
-p7269
+p7789
 aVUnited Kingdom
-p7270
+p7790
 aVEngland
-p7271
+p7791
 aVNorth West England
-p7272
-aa(lp7273
+p7792
+aVGreater Manchester
+p7793
+aa(lp7794
 S'Andy Ward'
-p7274
+p7795
 aS'1998'
-p7275
+p7796
 aS'Flanker'
-p7276
+p7797
 aS'28'
-p7277
+p7798
 aS'12'
-p7278
+p7799
 aS'15'
-p7279
+p7800
 aS'1'
 aS'3'
 aS'15'
-p7280
+p7801
 aS'Whangarei'
-p7281
+p7802
 aVNew Zealand/Aotearoa
-p7282
+p7803
 aVNorthland
-p7283
+p7804
 aVWhangarei District
-p7284
-aa(lp7285
+p7805
+aVWhangarei
+p7806
+aa(lp7807
 S'Killian Keane'
-p7286
+p7808
 aS'1998'
-p7287
+p7809
 aS'Centre'
-p7288
+p7810
 aS'1'
 aS'0'
 aS'1'
@@ -19300,113 +20758,122 @@ aS'0'
 aS'0'
 aS'0'
 aS'Drogheda'
-p7289
+p7811
 aVRepublic of Ireland
-p7290
+p7812
 aVLeinster
-p7291
+p7813
 aVCounty Louth
-p7292
-aa(lp7293
+p7814
+aVDrogheda
+p7815
+aa(lp7816
 S'Justin Bishop'
-p7294
+p7817
 aS'1998'
-p7295
+p7818
 aS'Wing'
-p7296
+p7819
 aS'25'
-p7297
+p7820
 aS'9'
 aS'15'
-p7298
+p7821
 aS'1'
 aS'8'
 aS'40'
-p7299
+p7822
 aS'Sussex'
-p7300
+p7823
 aVUnited States of America
-p7301
+p7824
 aVVirginia
-p7302
+p7825
 aVSussex
-p7303
-aa(lp7304
+p7826
+ag93
+aa(lp7827
 S'Justin Fitzpatrick'
-p7305
+p7828
 aS'1998'
-p7306
+p7829
 aS'Prop'
-p7307
+p7830
 aS'26'
-p7308
+p7831
 aS'15'
-p7309
+p7832
 aS'10'
-p7310
+p7833
 aS'1'
 aS'0'
 aS'0'
 aS'Chichester'
-p7311
+p7834
 aVUnited Kingdom
-p7312
+p7835
 aVEngland
-p7313
+p7836
 aVSouth East
-p7314
-aa(lp7315
+p7837
+aVWest Sussex
+p7838
+aa(lp7839
 S"Dion O'Cuinneagain"
-p7316
+p7840
 aS'1998'
-p7317
+p7841
 aS'No. 8'
-p7318
+p7842
 aS'19'
-p7319
+p7843
 aS'8'
 aS'11'
-p7320
+p7844
 aS'0'
 aS'1'
 aS'5'
 aS'Cape Town'
-p7321
+p7845
 aVSouth Africa
-p7322
+p7846
 aVWestern Cape
-p7323
+p7847
 aVCity of Cape Town
-p7324
-aa(lp7325
+p7848
+aVCape Town
+p7849
+aa(lp7850
 S'Trevor Brennan'
-p7326
+p7851
 aS'1998'
-p7327
+p7852
 aS'Flanker'
-p7328
+p7853
 aS'13'
-p7329
+p7854
 aS'6'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'Leixlip'
-p7330
+p7855
 aVRepublic of Ireland
-p7331
+p7856
 aVLeinster
-p7332
+p7857
 aVCounty Kildare
-p7333
-aa(lp7334
+p7858
+aVLeixlip ED
+p7859
+aa(lp7860
 S'Pat Duignan'
-p7335
+p7861
 aS'1998'
-p7336
+p7862
 aS'Wing, Centre'
-p7337
+p7863
 aS'2'
 aS'2'
 aS'0'
@@ -19414,115 +20881,124 @@ aS'0'
 aS'1'
 aS'5'
 aS'1972'
-p7338
+p7864
 aVDanmark
-p7339
+p7865
 aV1972
-p7340
+p7866
 aVRegion Hovedstaden
-p7341
-aa(lp7342
+p7867
+aVFrederiksberg Kommune
+p7868
+aa(lp7869
 S'Girvan Dempsey'
-p7343
+p7870
 aS'1998'
-p7344
+p7871
 aS'Fullback'
-p7345
+p7872
 aS'82'
-p7346
+p7873
 aS'50'
-p7347
+p7874
 aS'32'
-p7348
+p7875
 aS'0'
 aS'19'
-p7349
+p7876
 aS'95'
-p7350
+p7877
 aS'Dublin'
-p7351
+p7878
 aVRepublic of Ireland
-p7352
+p7879
 aVLeinster
-p7353
+p7880
 aVCounty Dublin
-p7354
-aa(lp7355
+p7881
+aVDublin
+p7882
+aa(lp7883
 S'Cieran Scally'
-p7356
+p7884
 aS'1998'
-p7357
+p7885
 aS'Scrum-half'
-p7358
+p7886
 aS'4'
 aS'3'
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p7359
+p7887
 aS'Dublin'
-p7360
+p7888
 aVRepublic of Ireland
-p7361
+p7889
 aVLeinster
-p7362
+p7890
 aVCounty Dublin
-p7363
-aa(lp7364
+p7891
+aVDublin
+p7892
+aa(lp7893
 S'Matt Mostyn'
-p7365
+p7894
 aS'1999'
-p7366
+p7895
 aS'Fullback, Wing'
-p7367
+p7896
 aS'6'
 aS'3'
 aS'3'
 aS'0'
 aS'3'
 aS'15'
-p7368
+p7897
 aS'NSW'
-p7369
+p7898
 aVAustralia
-p7370
+p7899
 aVNew South Wales
-p7371
-ag87
-aa(lp7372
+p7900
+ag93
+ag93
+aa(lp7901
 S"Brian O'Driscoll"
-p7373
+p7902
 aS'1999'
-p7374
+p7903
 aS'Centre'
-p7375
+p7904
 aS'141'
-p7376
+p7905
 aS'82'
-p7377
+p7906
 aS'57'
-p7378
+p7907
 aS'2'
 aS'47'
-p7379
+p7908
 aS'250'
-p7380
+p7909
 aS'Dublin'
-p7381
+p7910
 aVRepublic of Ireland
-p7382
+p7911
 aVLeinster
-p7383
+p7912
 aVCounty Dublin
-p7384
-aa(lp7385
+p7913
+aVDublin
+p7914
+aa(lp7915
 S'Tom Tierney'
-p7386
+p7916
 aS'1999'
-p7387
+p7917
 aS'Scrum-half'
-p7388
+p7918
 aS'8'
 aS'3'
 aS'5'
@@ -19530,43 +21006,46 @@ aS'0'
 aS'1'
 aS'5'
 aS'Limerick'
-p7389
+p7919
 aVRepublic of Ireland
-p7390
+p7920
 aVMunster
-p7391
+p7921
 aVCounty Limerick
-p7392
-aa(lp7393
+p7922
+aVLimerick
+p7923
+aa(lp7924
 S'Mike Mullins'
-p7394
+p7925
 aS'1999'
-p7395
+p7926
 aS'Centre'
-p7396
+p7927
 aS'16'
-p7397
+p7928
 aS'12'
-p7398
+p7929
 aS'3'
 aS'1'
 aS'3'
 aS'15'
-p7399
+p7930
 aS'Auckland'
-p7400
+p7931
 aVNew Zealand/Aotearoa
-p7401
+p7932
 aVAuckland
-p7402
-ag87
-aa(lp7403
+p7933
+ag93
+ag93
+aa(lp7934
 S'Bob Casey'
-p7404
+p7935
 aS'1999'
-p7405
+p7936
 aS'Lock'
-p7406
+p7937
 aS'7'
 aS'3'
 aS'3'
@@ -19574,45 +21053,49 @@ aS'1'
 aS'1'
 aS'5'
 aS'Dublin'
-p7407
+p7938
 aVRepublic of Ireland
-p7408
+p7939
 aVLeinster
-p7409
+p7940
 aVCounty Dublin
-p7410
-aa(lp7411
+p7941
+aVDublin
+p7942
+aa(lp7943
 S"Gordon D'Arcy"
-p7412
+p7944
 aS'1999'
-p7413
+p7945
 aS'Centre'
-p7414
+p7946
 aS'82'
-p7415
+p7947
 aS'52'
-p7416
+p7948
 aS'28'
-p7417
+p7949
 aS'2'
 aS'7'
 aS'35'
-p7418
+p7950
 aS'Wexford'
-p7419
+p7951
 aVRepublic of Ireland
-p7420
+p7952
 aVLeinster
-p7421
+p7953
 aVCounty Wexford
-p7422
-aa(lp7423
+p7954
+aVWexford
+p7955
+aa(lp7956
 S'Angus McKeen'
-p7424
+p7957
 aS'1999'
-p7425
+p7958
 aS'Prop'
-p7426
+p7959
 aS'1'
 aS'1'
 aS'0'
@@ -19620,169 +21103,181 @@ aS'0'
 aS'0'
 aS'0'
 aS'Drogheda'
-p7427
+p7960
 aVRepublic of Ireland
-p7428
+p7961
 aVLeinster
-p7429
+p7962
 aVCounty Louth
-p7430
-aa(lp7431
+p7963
+aVDrogheda
+p7964
+aa(lp7965
 S'Alan Quinlan'
-p7432
+p7966
 aS'1999'
-p7433
+p7967
 aS'Back-row'
-p7434
+p7968
 aS'27'
-p7435
+p7969
 aS'19'
-p7436
+p7970
 aS'8'
 aS'0'
 aS'6'
 aS'30'
-p7437
+p7971
 aS'Tipperary'
-p7438
+p7972
 aVRepublic of Ireland
-p7439
+p7973
 aVMunster
-p7440
+p7974
 aVCounty Tipperary
-p7441
-aa(lp7442
+p7975
+aVTipperary
+p7976
+aa(lp7977
 S'Simon Easterby'
-p7443
+p7978
 aS'2000'
-p7444
+p7979
 aS'Back-row'
-p7445
+p7980
 aS'67'
-p7446
+p7981
 aS'43'
-p7447
+p7982
 aS'23'
-p7448
+p7983
 aS'1'
 aS'9'
 aS'45'
-p7449
+p7984
 aS'Harrogate'
-p7450
+p7985
 aVUnited Kingdom
-p7451
+p7986
 aVEngland
-p7452
+p7987
 aVYorkshire and the Humber
-p7453
-aa(lp7454
+p7988
+aVNorth Yorkshire
+p7989
+aa(lp7990
 S'John Hayes'
-p7455
+p7991
 aS'2000'
-p7456
+p7992
 aS'Prop'
-p7457
+p7993
 aS'107'
-p7458
+p7994
 aS'67'
-p7459
+p7995
 aS'37'
-p7460
+p7996
 aS'3'
 aS'2'
 aS'10'
-p7461
+p7997
 aS'Cappamore'
-p7462
+p7998
 aVRepublic of Ireland
-p7463
+p7999
 aVMunster
-p7464
+p8000
 aVCounty Limerick
-p7465
-aa(lp7466
+p8001
+aVCappamore
+p8002
+aa(lp8003
 S'Shane Horgan'
-p7467
+p8004
 aS'2000'
-p7468
+p8005
 aS'Centre, Wing'
-p7469
+p8006
 aS'69'
-p7470
+p8007
 aS'40'
-p7471
+p8008
 aS'27'
-p7472
+p8009
 aS'2'
 aS'21'
-p7473
+p8010
 aS'105'
-p7474
+p8011
 aS'Co.Meath'
-p7475
+p8012
 aVRepublic of Ireland
-p7476
+p8013
 aVLeinster
-p7477
+p8014
 aVCounty Meath
-p7478
-aa(lp7479
+p8015
+ag93
+aa(lp8016
 S"Ronan O'Gara"
-p7480
+p8017
 aS'2000'
-p7481
+p8018
 aS'Fly-half'
-p7482
+p8019
 aS'130'
-p7483
+p8020
 aS'73'
-p7484
+p8021
 aS'54'
-p7485
+p8022
 aS'3'
 aS'16'
-p7486
+p8023
 aS'1083'
-p7487
+p8024
 aS'United States'
-p7488
+p8025
 aVUnited States of America
-p7489
-ag87
-ag87
-aa(lp7490
+p8026
+ag93
+ag93
+ag93
+aa(lp8027
 S'Peter Stringer'
-p7491
+p8028
 aS'2000'
-p7492
+p8029
 aS'Scrum-half'
-p7493
+p8030
 aS'98'
-p7494
+p8031
 aS'67'
-p7495
+p8032
 aS'30'
-p7496
+p8033
 aS'1'
 aS'6'
 aS'30'
-p7497
+p8034
 aS'Cork'
-p7498
+p8035
 aVRepublic of Ireland
-p7499
+p8036
 aVMunster
-p7500
+p8037
 aVCounty Cork
-p7501
-aa(lp7502
+p8038
+aVCork
+p8039
+aa(lp8040
 S'Peter McKenna'
-p7503
+p8041
 aS'2000'
-p7504
+p8042
 aS'Wing, Fullback'
-p7505
+p8043
 aS'1'
 aS'0'
 aS'1'
@@ -19790,190 +21285,203 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p7506
+p8044
 aVRepublic of Ireland
-p7507
+p8045
 aVLeinster
-p7508
+p8046
 aVCounty Dublin
-p7509
-aa(lp7510
+p8047
+aVDublin
+p8048
+aa(lp8049
 S'David Wallace'
-p7511
+p8050
 aS'2000'
-p7512
+p8051
 aS'Back-row'
-p7513
+p8052
 aS'75'
-p7514
+p8053
 aS'45'
-p7515
+p8054
 aS'29'
-p7516
+p8055
 aS'1'
 aS'12'
-p7517
+p8056
 aS'60'
-p7518
+p8057
 aS'Cork'
-p7519
+p8058
 aVRepublic of Ireland
-p7520
+p8059
 aVMunster
-p7521
+p8060
 aVCounty Cork
-p7522
-aa(lp7523
+p8061
+aVCork
+p8062
+aa(lp8063
 S'Guy Easterby'
-p7524
+p8064
 aS'2000'
-p7525
+p8065
 aS'Scrum-half'
-p7526
+p8066
 aS'28'
-p7527
+p8067
 aS'24'
-p7528
+p8068
 aS'3'
 aS'1'
 aS'6'
 aS'30'
-p7529
+p8069
 aS'Tadcaster'
-p7530
+p8070
 aVUnited Kingdom
-p7531
+p8071
 aVLS24
-p7532
+p8072
 aVEngland
-p7533
-aa(lp7534
+p8073
+aVYorkshire and the Humber
+p8074
+aa(lp8075
 S'Tyrone Howe'
-p7535
+p8076
 aS'2000'
-p7536
+p8077
 aS'Wing'
-p7537
+p8078
 aS'14'
-p7538
+p8079
 aS'11'
-p7539
+p8080
 aS'3'
 aS'0'
 aS'6'
 aS'30'
-p7540
+p8081
 aS'Northern Ireland'
-p7541
+p8082
 aVUnited Kingdom
-p7542
+p8083
 aVNorthern Ireland
-p7543
-ag87
-aa(lp7544
+p8084
+ag93
+ag93
+aa(lp8085
 S'Geordan Murphy'
-p7545
+p8086
 aS'2000'
-p7546
+p8087
 aS'Fullback'
-p7547
+p8088
 aS'74'
-p7548
+p8089
 aS'43'
-p7549
+p8090
 aS'29'
-p7550
+p8091
 aS'2'
 aS'18'
-p7551
+p8092
 aS'98'
-p7552
+p8093
 aS'Dublin'
-p7553
+p8094
 aVRepublic of Ireland
-p7554
+p8095
 aVLeinster
-p7555
+p8096
 aVCounty Dublin
-p7556
-aa(lp7557
+p8097
+aVDublin
+p8098
+aa(lp8099
 S'Marcus Horan'
-p7558
+p8100
 aS'2000'
-p7559
+p8101
 aS'Prop'
-p7560
+p8102
 aS'67'
-p7561
+p8103
 aS'44'
-p7562
+p8104
 aS'23'
-p7563
+p8105
 aS'0'
 aS'6'
 aS'30'
-p7564
+p8106
 aS'Limerick'
-p7565
+p8107
 aVRepublic of Ireland
-p7566
+p8108
 aVMunster
-p7567
+p8109
 aVCounty Limerick
-p7568
-aa(lp7569
+p8110
+aVLimerick
+p8111
+aa(lp8112
 S'Frank Sheahan'
-p7570
+p8113
 aS'2000'
-p7571
+p8114
 aS'Hooker'
-p7572
+p8115
 aS'29'
-p7573
+p8116
 aS'23'
-p7574
+p8117
 aS'6'
 aS'0'
 aS'5'
 aS'25'
-p7575
+p8118
 aS'Toronto'
-p7576
+p8119
 aVCanada
-p7577
+p8120
 aVOntario
-p7578
+p8121
 aVToronto
-p7579
-aa(lp7580
+p8122
+ag93
+aa(lp8123
 S'Gary Longwell'
-p7581
+p8124
 aS'2000'
-p7582
+p8125
 aS'Lock'
-p7583
+p8126
 aS'26'
-p7584
+p8127
 aS'17'
-p7585
+p8128
 aS'9'
 aS'0'
 aS'1'
 aS'5'
 aS'Northern Ireland'
-p7586
+p8129
 aVUnited Kingdom
-p7587
+p8130
 aVNorthern Ireland
-p7588
-ag87
-aa(lp7589
+p8131
+ag93
+ag93
+aa(lp8132
 S'Emmet Byrne'
-p7590
+p8133
 aS'2001'
-p7591
+p8134
 aS'Prop'
-p7592
+p8135
 aS'9'
 aS'6'
 aS'3'
@@ -19981,212 +21489,230 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p7593
+p8136
 aVRepublic of Ireland
-p7594
+p8137
 aVLeinster
-p7595
+p8138
 aVCounty Dublin
-p7596
-aa(lp7597
+p8139
+aVDublin
+p8140
+aa(lp8141
 S'Shane Byrne'
-p7598
+p8142
 aS'2001'
-p7599
+p8143
 aS'Hooker'
-p7600
+p8144
 aS'45'
-p7601
+p8145
 aS'30'
-p7602
+p8146
 aS'14'
-p7603
+p8147
 aS'1'
 aS'3'
 aS'15'
-p7604
+p8148
 aS'Aughrim'
-p7605
+p8149
 aVRepublic of Ireland
-p7606
+p8150
 aVLeinster
-p7607
+p8151
 aVCounty Wicklow
-p7608
-aa(lp7609
+p8152
+aVAughrim
+p8153
+aa(lp8154
 S"Mick O'Driscoll"
-p7610
+p8155
 aS'2001'
-p7611
+p8156
 aS'Lock'
-p7612
+p8157
 aS'23'
-p7613
+p8158
 aS'11'
-p7614
+p8159
 aS'12'
-p7615
+p8160
 aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p7616
+p8161
 aVRepublic of Ireland
-p7617
+p8162
 aVMunster
-p7618
+p8163
 aVCounty Cork
-p7619
-aa(lp7620
+p8164
+aVCork
+p8165
+aa(lp8166
 S'Jeremy Staunton'
-p7621
+p8167
 aS'2001'
-p7622
+p8168
 aS'Fly-half'
-p7623
+p8169
 aS'5'
 aS'3'
 aS'2'
 aS'0'
 aS'1'
 aS'21'
-p7624
+p8170
 aS'Limerick'
-p7625
+p8171
 aVRepublic of Ireland
-p7626
+p8172
 aVMunster
-p7627
+p8173
 aVCounty Limerick
-p7628
-aa(lp7629
+p8174
+aVLimerick
+p8175
+aa(lp8176
 S"Paul O'Connell"
-p7630
+p8177
 aS'2002'
-p7631
+p8178
 aS'Lock'
-p7632
+p8179
 aS'108'
-p7633
+p8180
 aS'64'
-p7634
+p8181
 aS'42'
-p7635
+p8182
 aS'2'
 aS'7'
 aS'35'
-p7636
+p8183
 aS'Limerick'
-p7637
+p8184
 aVRepublic of Ireland
-p7638
+p8185
 aVMunster
-p7639
+p8186
 aVCounty Limerick
-p7640
-aa(lp7641
+p8187
+aVLimerick
+p8188
+aa(lp8189
 S'Keith Gleeson'
-p7642
+p8190
 aS'2002'
-p7643
+p8191
 aS'Flanker'
-p7644
+p8192
 aS'27'
-p7645
+p8193
 aS'15'
-p7646
+p8194
 aS'12'
-p7647
+p8195
 aS'0'
 aS'4'
 aS'20'
-p7648
+p8196
 aS'Dublin'
-p7649
+p8197
 aVRepublic of Ireland
-p7650
+p8198
 aVLeinster
-p7651
+p8199
 aVCounty Dublin
-p7652
-aa(lp7653
+p8200
+aVDublin
+p8201
+aa(lp8202
 S'John Kelly'
-p7654
+p8203
 aS'2002'
-p7655
+p8204
 aS'Wing'
-p7656
+p8205
 aS'17'
-p7657
+p8206
 aS'12'
-p7658
+p8207
 aS'5'
 aS'0'
 aS'8'
 aS'40'
-p7659
+p8208
 aS'Dublin'
-p7660
+p8209
 aVRepublic of Ireland
-p7661
+p8210
 aVLeinster
-p7662
+p8211
 aVCounty Dublin
-p7663
-aa(lp7664
+p8212
+aVDublin
+p8213
+aa(lp8214
 S'Leo Cullen'
-p7665
+p8215
 aS'2002'
-p7666
+p8216
 aS'Lock'
-p7667
+p8217
 aS'32'
-p7668
+p8218
 aS'25'
-p7669
+p8219
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'Wicklow'
-p7670
+p8220
 aVRepublic of Ireland
-p7671
+p8221
 aVLeinster
-p7672
+p8222
 aVCounty Wicklow
-p7673
-aa(lp7674
+p8223
+aVWicklow
+p8224
+aa(lp8225
 S"Donncha O'Callaghan"
-p7675
+p8226
 aS'2003'
-p7676
+p8227
 aS'Lock'
-p7677
+p8228
 aS'98'
-p7678
+p8229
 aS'53'
-p7679
+p8230
 aS'41'
-p7680
+p8231
 aS'4'
 aS'1'
 aS'5'
 aS'Cork'
-p7681
+p8232
 aVRepublic of Ireland
-p7682
+p8233
 aVMunster
-p7683
+p8234
 aVCounty Cork
-p7684
-aa(lp7685
+p8235
+aVCork
+p8236
+aa(lp8237
 S'Mark McHugh'
-p7686
+p8238
 aS'2003'
-p7687
+p8239
 aS'Fullback, Fly-half'
-p7688
+p8240
 aS'1'
 aS'1'
 aS'0'
@@ -20194,39 +21720,41 @@ aS'0'
 aS'1'
 aS'5'
 aS'Dun Laoighre'
-p7689
+p8241
 aS'g'
 aS'n'
 aS'i'
-aa(lp7690
+aS's'
+aa(lp8242
 S'Simon Best'
-p7691
+p8243
 aS'2003'
-p7692
+p8244
 aS'Prop'
-p7693
+p8245
 aS'23'
-p7694
+p8246
 aS'17'
-p7695
+p8247
 aS'6'
 aS'0'
 aS'1'
 aS'5'
 aS'Northern Ireland'
-p7696
+p8248
 aVUnited Kingdom
-p7697
+p8249
 aVNorthern Ireland
-p7698
-ag87
-aa(lp7699
+p8250
+ag93
+ag93
+aa(lp8251
 S'Anthony Horgan'
-p7700
+p8252
 aS'2003'
-p7701
+p8253
 aS'Wing'
-p7702
+p8254
 aS'7'
 aS'5'
 aS'2'
@@ -20234,20 +21762,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Cork'
-p7703
+p8255
 aVRepublic of Ireland
-p7704
+p8256
 aVMunster
-p7705
+p8257
 aVCounty Cork
-p7706
-aa(lp7707
+p8258
+aVCork
+p8259
+aa(lp8260
 S'Aidan McCullen'
-p7708
+p8261
 aS'2003'
-p7709
+p8262
 aS'Flanker'
-p7710
+p8263
 aS'1'
 aS'1'
 aS'0'
@@ -20255,1366 +21785,75 @@ aS'0'
 aS'0'
 aS'0'
 aS'Drogheda'
-p7711
-aVRepublic of Ireland
-p7712
-aVLeinster
-p7713
-aVCounty Louth
-p7714
-aa(lp7715
-S'Paul Shields'
-p7716
-aS'2003'
-p7717
-aS'Hooker'
-p7718
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p7719
-aVUnited Kingdom
-p7720
-aVNorthern Ireland
-p7721
-ag87
-aa(lp7722
-S'Gavin Duffy'
-p7723
-aS'2004'
-p7724
-aS'Fullback'
-p7725
-aS'10'
-p7726
-aS'5'
-aS'5'
-aS'0'
-aS'3'
-aS'18'
-p7727
-aS'Ballina'
-p7728
-aVRepublic of Ireland
-p7729
-aVConnacht
-p7730
-aVCounty Mayo
-p7731
-aa(lp7732
-S"Johnny O'Connor"
-p7733
-aS'2004'
-p7734
-aS'Back-row'
-p7735
-aS'12'
-p7736
-aS'8'
-aS'4'
-aS'0'
-aS'1'
-aS'5'
-aS'Galway'
-p7737
-aVRepublic of Ireland
-p7738
-aVConnacht
-p7739
-aVCounty Galway
-p7740
-aa(lp7741
-S'Tommy Bowe'
-p7742
-aS'2004'
-p7743
-aS'Wing'
-p7744
-aS'66'
-p7745
-aS'36'
-p7746
-aS'28'
-p7747
-aS'2'
-aS'28'
-p7748
-aS'140'
-p7749
-aS'Emyvale'
-p7750
-aVRepublic of Ireland
-p7751
-aVCounty Monaghan
-p7752
-aVEmyvale
-p7753
-aa(lp7754
-S'Denis Leamy'
-p7755
-aS'2004'
-p7756
-aS'Back-row'
-p7757
-aS'57'
-p7758
-aS'36'
-p7759
-aS'20'
-p7760
-aS'1'
-aS'2'
-aS'10'
-p7761
-aS'Tipperary'
-p7762
-aVRepublic of Ireland
-p7763
-aVMunster
-p7764
-aVCounty Tipperary
-p7765
-aa(lp7766
-S'Matt McCullough'
-p7767
-aS'2005'
-p7768
-aS'Lock, Flanker'
-p7769
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp7770
-S'Roger Wilson'
-p7771
-aS'2005'
-p7772
-aS'No. 8'
-p7773
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p7774
-aVUnited Kingdom
-p7775
-aVNorthern Ireland
-p7776
-ag87
-aa(lp7777
-S'Kieran Campbell'
-p7778
-aS'2005'
-p7779
-aS'Scrum-half'
-p7780
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'London'
-p7781
-aVUnited Kingdom
-p7782
-aVEngland
-p7783
-aVGreater London
-p7784
-aa(lp7785
-S'Trevor Hogan'
-p7786
-aS'2005'
-p7787
-aS'Lock'
-p7788
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Co.Tipperary'
-p7789
-aVRepublic of Ireland
-p7790
-aVMunster
-p7791
-aVCounty Tipperary
-p7792
-aa(lp7793
-S'Bernard Jackman'
-p7794
-aS'2005'
-p7795
-aS'Hooker'
-p7796
-aS'9'
-aS'4'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'Carlow'
-p7797
-aVRepublic of Ireland
-p7798
-aVLeinster
-p7799
-aVCounty Carlow
-p7800
-aa(lp7801
-S'David Quinlan'
-p7802
-aS'2005'
-p7803
-aS'Centre'
-p7804
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p7805
-aVRepublic of Ireland
-p7806
-aVLeinster
-p7807
-aVCounty Dublin
-p7808
-aa(lp7809
-S'Kieran Lewis'
-p7810
-aS'2005'
-p7811
-aS'Wing, Centre'
-p7812
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p7813
-aVRepublic of Ireland
-p7814
-aVLeinster
-p7815
-aVCounty Dublin
-p7816
-aa(lp7817
-S'Neil Best'
-p7818
-aS'2005'
-p7819
-aS'Back-row'
-p7820
-aS'18'
-p7821
-aS'8'
-aS'10'
-p7822
-aS'0'
-aS'2'
-aS'10'
-p7823
-aS'Northern Ireland'
-p7824
-aVUnited Kingdom
-p7825
-aVNorthern Ireland
-p7826
-ag87
-aa(lp7827
-S'Rory Best'
-p7828
-aS'2005'
-p7829
-aS'Hooker'
-p7830
-aS'83'
-p7831
-aS'47'
-p7832
-aS'34'
-p7833
-aS'2'
-aS'8'
-aS'40'
-p7834
-aS'Northern Ireland'
-p7835
-aVUnited Kingdom
-p7836
-aVNorthern Ireland
-p7837
-ag87
-aa(lp7838
-S'Andrew Trimble'
-p7839
-aS'2005'
-p7840
-aS'Wing'
-p7841
-aS'57'
-p7842
-aS'31'
-p7843
-aS'25'
-p7844
-aS'1'
-aS'16'
-p7845
-aS'80'
-p7846
-aS'Northern Ireland'
-p7847
-aVUnited Kingdom
-p7848
-aVNorthern Ireland
-p7849
-ag87
-aa(lp7850
-S'Jerry Flannery'
-p7851
-aS'2005'
-p7852
-aS'Hooker'
-p7853
-aS'41'
-p7854
-aS'23'
-p7855
-aS'17'
-p7856
-aS'1'
-aS'3'
-aS'15'
-p7857
-aS'Galway'
-p7858
-aVRepublic of Ireland
-p7859
-aVConnacht
-p7860
-aVCounty Galway
-p7861
-aa(lp7862
-S'Eoin Reddan'
-p7863
-aS'2006'
-p7864
-aS'Scrum-half'
-p7865
-aS'60'
-p7866
-aS'28'
-p7867
-aS'30'
-p7868
-aS'2'
-aS'2'
-aS'10'
-p7869
-aS'Limerick'
-p7870
-aVRepublic of Ireland
-p7871
-aVMunster
-p7872
-aVCounty Limerick
-p7873
-aa(lp7874
-S'Isaac Boss'
-p7875
-aS'2006'
-p7876
-aS'Scrum-half'
-p7877
-aS'21'
-p7878
-aS'13'
-p7879
-aS'8'
-aS'0'
-aS'3'
-aS'15'
-p7880
-aS'Tokoroa'
-p7881
-aVNew Zealand/Aotearoa
-p7882
-aVWaikato
-p7883
-aVSouth Waikato District
-p7884
-aa(lp7885
-S'Bryan Young'
-p7886
-aS'2006'
-p7887
-aS'Prop'
-p7888
-aS'8'
-aS'3'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p7889
-aVUnited Kingdom
-p7890
-aVNorthern Ireland
-p7891
-ag87
-aa(lp7892
-S'Paddy Wallace'
-p7893
-aS'2006'
-p7894
-aS'Centre'
-p7895
-aS'30'
-p7896
-aS'17'
-p7897
-aS'12'
-p7898
-aS'1'
-aS'2'
-aS'53'
-p7899
-aS'Northern Ireland'
-p7900
-aVUnited Kingdom
-p7901
-aVNorthern Ireland
-p7902
-ag87
-aa(lp7903
-S'Stephen Ferris'
-p7904
-aS'2006'
-p7905
-aS'Flanker'
-p7906
-aS'35'
-p7907
-aS'19'
-p7908
-aS'14'
-p7909
-aS'2'
-aS'2'
-aS'10'
-p7910
-aS'Northern Ireland'
-p7911
-aVUnited Kingdom
-p7912
-aVNorthern Ireland
-p7913
-ag87
-aa(lp7914
-S'Luke Fitzgerald'
-p7915
-aS'2006'
-p7916
-aS'Fullback, Wing'
-p7917
-aS'29'
-p7918
-aS'12'
-p7919
-aS'15'
-p7920
-aS'2'
-aS'2'
-aS'10'
-p7921
-aS'Wicklow'
-p7922
-aVRepublic of Ireland
-p7923
-aVLeinster
-p7924
-aVCounty Wicklow
-p7925
-aa(lp7926
-S'Jamie Heaslip'
-p7927
-aS'2006'
-p7928
-aS'No. 8'
-p7929
-aS'77'
-p7930
-aS'40'
-p7931
-aS'34'
-p7932
-aS'3'
-aS'9'
-aS'45'
-p7933
-aS'Tiberias'
-p7934
-aV\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc
-p7935
-aV\u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df
-p7936
-aV\u05d8\u05d1\u05e8\u05d9\u05d4
-p7937
-aa(lp7938
-S'Brian Carney'
-p7939
-aS'2007'
-p7940
-aS'Outside back'
-p7941
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'1'
-aS'5'
-aS'Cork'
-p7942
-aVRepublic of Ireland
-p7943
-aVMunster
-p7944
-aVCounty Cork
-p7945
-aa(lp7946
-S'Tony Buckley'
-p7947
-aS'2007'
-p7948
-aS'Prop'
-p7949
-aS'25'
-p7950
-aS'11'
-p7951
-aS'14'
-p7952
-aS'0'
-aS'2'
-aS'10'
-p7953
-aS'Cork'
-p7954
-aVRepublic of Ireland
-p7955
-aVMunster
-p7956
-aVCounty Cork
-p7957
-aa(lp7958
-S'Barry Murphy'
-p7959
-aS'2007'
-p7960
-aS'Wing, Centre'
-p7961
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'1'
-aS'5'
-aS'Limerick'
-p7962
-aVRepublic of Ireland
-p7963
-aVMunster
-p7964
-aVCounty Limerick
-p7965
-aa(lp7966
-S"Tomas O'Leary"
-p7967
-aS'2007'
-p7968
-aS'Scrum-half'
-p7969
-aS'24'
-p7970
-aS'13'
-p7971
-aS'10'
-p7972
-aS'1'
-aS'3'
-aS'15'
-p7973
-aS'Cork'
-p7974
-aVRepublic of Ireland
-p7975
-aVMunster
-p7976
-aVCounty Cork
-p7977
-aa(lp7978
-S'Shane Jennings'
-p7979
-aS'2007'
-p7980
-aS'Flanker'
-p7981
-aS'13'
-p7982
-aS'6'
-aS'7'
-aS'0'
-aS'1'
-aS'5'
-aS'Dublin'
-p7983
-aVRepublic of Ireland
-p7984
-aVLeinster
-p7985
-aVCounty Dublin
-p7986
-aa(lp7987
-S'Rob Kearney'
-p7988
-aS'2007'
-p7989
-aS'Fullback, Wing'
-p7990
-aS'65'
-p7991
-aS'32'
-p7992
-aS'30'
-p7993
-aS'3'
-aS'11'
-p7994
-aS'57'
-p7995
-aS'Dublin'
-p7996
-aVRepublic of Ireland
-p7997
-aVLeinster
-p7998
-aVCounty Dublin
-p7999
-aa(lp8000
-S'Keith Earls'
-p8001
-aS'2008'
-p8002
-aS'Utility back'
-p8003
-aS'39'
-p8004
-aS'18'
-p8005
-aS'18'
-p8006
-aS'3'
-aS'12'
-p8007
-aS'60'
-p8008
-aS'Moyross'
-p8009
-aVRepublic of Ireland
-p8010
-aVMunster
-p8011
-aVCounty Limerick
-p8012
-aa(lp8013
-S'Donnacha Ryan'
-p8014
-aS'2008'
-p8015
-aS'Flanker, Lock'
-p8016
-aS'28'
-p8017
-aS'11'
-p8018
-aS'15'
-p8019
-aS'2'
-aS'0'
-aS'0'
-aS'Limerick'
-p8020
-aVRepublic of Ireland
-p8021
-aVMunster
-p8022
-aVCounty Limerick
-p8023
-aa(lp8024
-S'Tom Court'
-p8025
-aS'2009'
-p8026
-aS'Prop'
-p8027
-aS'32'
-p8028
-aS'18'
-p8029
-aS'13'
-p8030
-aS'1'
-aS'1'
-aS'5'
-aS'QLD'
-p8031
-aVAustralia
-p8032
-aVQueensland
-p8033
-ag87
-aa(lp8034
-S'Darren Cave'
-p8035
-aS'2009'
-p8036
-aS'Centre'
-p8037
-aS'8'
-aS'7'
-aS'1'
-aS'0'
-aS'1'
-aS'5'
-aS'Northern Ireland'
-p8038
-aVUnited Kingdom
-p8039
-aVNorthern Ireland
-p8040
-ag87
-aa(lp8041
-S'Ian Dowling'
-p8042
-aS'2009'
-p8043
-aS'Wing'
-p8044
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Kilkenny'
-p8045
-aVRepublic of Ireland
-p8046
-aVLeinster
-p8047
-aVCounty Kilkenny
-p8048
-aa(lp8049
-S'Ian Keatley'
-p8050
-aS'2009'
-p8051
-aS'Fly-half'
-p8052
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'31'
-p8053
-aS'Dublin'
-p8054
-aVRepublic of Ireland
-p8055
-aVLeinster
-p8056
-aVCounty Dublin
-p8057
-aa(lp8058
-S'John Muldoon'
-p8059
-aS'2009'
-p8060
-aS'Back-row'
-p8061
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Ballinasloe'
-p8062
-aVRepublic of Ireland
-p8063
-aVConnacht
-p8064
-aVCounty Galway
-p8065
-aa(lp8066
-S'Niall Ronan'
-p8067
-aS'2009'
-p8068
-aS'Back-row'
-p8069
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Co Meath'
-p8070
-aVRepublic of Ireland
-p8071
-aVLeinster
-p8072
-aVCounty Meath
-p8073
-aa(lp8074
-S'Ian Whitten'
-p8075
-aS'2009'
-p8076
-aS'Centre'
-p8077
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'2'
-aS'10'
-p8078
-aS'Northern Ireland'
-p8079
-aVUnited Kingdom
-p8080
-aVNorthern Ireland
-p8081
-ag87
-aa(lp8082
-S'Ryan Caldwell'
-p8083
-aS'2009'
-p8084
-aS'Lock'
-p8085
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Northern Ireland'
-p8086
-aVUnited Kingdom
-p8087
-aVNorthern Ireland
-p8088
-ag87
-aa(lp8089
-S'Mike Ross'
-p8090
-aS'2009'
-p8091
-aS'Prop'
-p8092
-aS'49'
-p8093
-aS'29'
-p8094
-aS'18'
-p8095
-aS'2'
-aS'0'
-aS'0'
-aS'Cork'
-p8096
-aVRepublic of Ireland
-p8097
-aVMunster
-p8098
-aVCounty Cork
-p8099
-aa(lp8100
-S'Denis Hurley'
-p8101
-aS'2009'
-p8102
-aS'Wing, Fullback'
-p8103
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'West Cork'
-p8104
-aVRepublic of Ireland
-p8105
-aVMunster
-p8106
-aVCounty Cork
-p8107
-aa(lp8108
-S'Cian Healy'
-p8109
-aS'2009'
-p8110
-aS'Prop'
-p8111
-aS'51'
-p8112
-aS'24'
-p8113
-aS'24'
-p8114
-aS'3'
-aS'3'
-aS'15'
-p8115
-aS'Clontarf'
-p8116
-aVRepublic of Ireland
-p8117
-aVLeinster
-p8118
-aVCounty Dublin
-p8119
-aa(lp8120
-S'Johnny Sexton'
-p8121
-aS'2009'
-p8122
-aS'Fly-half'
-p8123
-aS'54'
-p8124
-aS'29'
-p8125
-aS'24'
-p8126
-aS'1'
-aS'9'
-aS'486'
-p8127
-aS'Dublin'
-p8128
-aVRepublic of Ireland
-p8129
-aVLeinster
-p8130
-aVCounty Dublin
-p8131
-aa(lp8132
-S'Sean Cronin'
-p8133
-aS'2009'
-p8134
-aS'Hooker'
-p8135
-aS'43'
-p8136
-aS'25'
-p8137
-aS'16'
-p8138
-aS'2'
-aS'1'
-aS'5'
-aS'Limerick'
-p8139
-aVRepublic of Ireland
-p8140
-aVMunster
-p8141
-aVCounty Limerick
-p8142
-aa(lp8143
-S"Sean O'Brien"
-p8144
-aS'2009'
-p8145
-aS'Back-row'
-p8146
-aS'36'
-p8147
-aS'17'
-p8148
-aS'17'
-p8149
-aS'2'
-aS'5'
-aS'25'
-p8150
-aS'Dublin'
-p8151
-aVRepublic of Ireland
-p8152
-aVLeinster
-p8153
-aVCounty Dublin
-p8154
-aa(lp8155
-S'Kevin McLaughlin'
-p8156
-aS'2010'
-p8157
-aS'Lock, Back-row'
-p8158
-aS'8'
-aS'2'
-aS'6'
-aS'0'
-aS'0'
-aS'0'
-aS'Dublin'
-p8159
-aVRepublic of Ireland
-p8160
-aVLeinster
-p8161
-aVCounty Dublin
-p8162
-aa(lp8163
-S'John Fogarty'
-p8164
-aS'2010'
-p8165
-aS'Hooker'
-p8166
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cork'
-p8167
-aVRepublic of Ireland
-p8168
-aVMunster
-p8169
-aVCounty Cork
-p8170
-aa(lp8171
-S'Dan Tuohy'
-p8172
-aS'2010'
-p8173
-aS'Lock'
-p8174
-aS'9'
-aS'4'
-aS'5'
-aS'0'
-aS'1'
-aS'5'
-aS'Bristol'
-p8175
-aVUnited Kingdom
-p8176
-aVEngland
-p8177
-aVSouth West England
-p8178
-aa(lp8179
-S'Chris Henry'
-p8180
-aS'2010'
-p8181
-aS'Back-row'
-p8182
-aS'16'
-p8183
-aS'11'
-p8184
-aS'5'
-aS'0'
-aS'2'
-aS'10'
-p8185
-aS'Northern Ireland'
-p8186
-aVUnited Kingdom
-p8187
-aVNorthern Ireland
-p8188
-ag87
-aa(lp8189
-S'Rhys Ruddock'
-p8190
-aS'2010'
-p8191
-aS'Back-row'
-p8192
-aS'5'
-aS'4'
-aS'1'
-aS'0'
-aS'1'
-aS'5'
-aS'Dublin'
-p8193
-aVRepublic of Ireland
-p8194
-aVLeinster
-p8195
-aVCounty Dublin
-p8196
-aa(lp8197
-S'Damien Varley'
-p8198
-aS'2010'
-p8199
-aS'Hooker'
-p8200
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Limerick'
-p8201
-aVRepublic of Ireland
-p8202
-aVMunster
-p8203
-aVCounty Limerick
-p8204
-aa(lp8205
-S'Devin Toner'
-p8206
-aS'2010'
-p8207
-aS'Lock'
-p8208
-aS'25'
-p8209
-aS'18'
-p8210
-aS'7'
-aS'0'
-aS'0'
-aS'0'
-aS'Co Meath'
-p8211
-aVRepublic of Ireland
-p8212
-aVLeinster
-p8213
-aVCounty Meath
-p8214
-aa(lp8215
-S'Fergus McFadden'
-p8216
-aS'2011'
-p8217
-aS'Wing, Centre'
-p8218
-aS'28'
-p8219
-aS'14'
-p8220
-aS'12'
-p8221
-aS'2'
-aS'9'
-aS'45'
-p8222
-aS'Kilkenny'
-p8223
-aVRepublic of Ireland
-p8224
-aVLeinster
-p8225
-aVCounty Kilkenny
-p8226
-aa(lp8227
-S'Mike McCarthy'
-p8228
-aS'2011'
-p8229
-aS'Lock'
-p8230
-aS'17'
-p8231
-aS'8'
-aS'8'
-aS'1'
-aS'0'
-aS'0'
-aS'London'
-p8232
-aVUnited Kingdom
-p8233
-aVEngland
-p8234
-aVGreater London
-p8235
-aa(lp8236
-S'Felix Jones'
-p8237
-aS'2011'
-p8238
-aS'Utility back'
-p8239
-aS'11'
-p8240
-aS'8'
-aS'3'
-aS'0'
-aS'2'
-aS'10'
-p8241
-aS'Dublin'
-p8242
-aVRepublic of Ireland
-p8243
-aVLeinster
-p8244
-aVCounty Dublin
-p8245
-aa(lp8246
-S'Conor Murray'
-p8247
-aS'2011'
-p8248
-aS'Scrum-half'
-p8249
-aS'37'
-p8250
-aS'19'
-p8251
-aS'16'
-p8252
-aS'2'
-aS'3'
-aS'15'
-p8253
-aS'Limerick'
-p8254
-aVRepublic of Ireland
-p8255
-aVMunster
-p8256
-aVCounty Limerick
-p8257
-aa(lp8258
-S"Peter O'Mahony"
-p8259
-aS'2012'
-p8260
-aS'Back-row'
-p8261
-aS'30'
-p8262
-aS'16'
-p8263
-aS'12'
 p8264
-aS'2'
-aS'1'
-aS'5'
-aS'Cork'
-p8265
 aVRepublic of Ireland
+p8265
+aVLeinster
 p8266
-aVMunster
+aVCounty Louth
 p8267
-aVCounty Cork
+aVDrogheda
 p8268
 aa(lp8269
-S'Declan Fitzpatrick'
+S'Paul Shields'
 p8270
-aS'2012'
+aS'2003'
 p8271
-aS'Prop'
+aS'Hooker'
 p8272
-aS'7'
-aS'3'
-aS'4'
+aS'2'
+aS'2'
 aS'0'
 aS'0'
 aS'0'
-aS'Worcs'
+aS'0'
+aS'Northern Ireland'
 p8273
 aVUnited Kingdom
 p8274
-aVWR14 2AY
+aVNorthern Ireland
 p8275
-aVEngland
-p8276
-aa(lp8277
-S'Simon Zebo'
+ag93
+ag93
+aa(lp8276
+S'Gavin Duffy'
+p8277
+aS'2004'
 p8278
-aS'2012'
+aS'Fullback'
 p8279
-aS'Wing'
+aS'10'
 p8280
-aS'15'
+aS'5'
+aS'5'
+aS'0'
+aS'3'
+aS'18'
 p8281
-aS'11'
+aS'Ballina'
 p8282
+aVRepublic of Ireland
+p8283
+aVConnacht
+p8284
+aVCounty Mayo
+p8285
+aVBallina
+p8286
+aa(lp8287
+S"Johnny O'Connor"
+p8288
+aS'2004'
+p8289
+aS'Back-row'
+p8290
+aS'12'
+p8291
+aS'8'
 aS'4'
 aS'0'
+aS'1'
 aS'5'
-aS'25'
-p8283
-aS'Cork'
-p8284
-aVRepublic of Ireland
-p8285
-aVMunster
-p8286
-aVCounty Cork
-p8287
-aa(lp8288
-S'Ronan Loughney'
-p8289
-aS'2012'
-p8290
-aS'Prop'
-p8291
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aS'Galway'
 p8292
 aVRepublic of Ireland
@@ -21623,35 +21862,1431 @@ aVConnacht
 p8294
 aVCounty Galway
 p8295
-aa(lp8296
-S'Richardt Strauss'
-p8297
-aS'2012'
+aVCathair na Gaillimhe
+p8296
+aa(lp8297
+S'Tommy Bowe'
 p8298
-aS'Hooker'
+aS'2004'
 p8299
+aS'Wing'
+p8300
+aS'66'
+p8301
+aS'36'
+p8302
+aS'28'
+p8303
+aS'2'
+aS'28'
+p8304
+aS'140'
+p8305
+aS'Emyvale'
+p8306
+aVRepublic of Ireland
+p8307
+aVCounty Monaghan
+p8308
+aVEmyvale
+p8309
+ag93
+aa(lp8310
+S'Denis Leamy'
+p8311
+aS'2004'
+p8312
+aS'Back-row'
+p8313
+aS'57'
+p8314
+aS'36'
+p8315
+aS'20'
+p8316
+aS'1'
+aS'2'
+aS'10'
+p8317
+aS'Tipperary'
+p8318
+aVRepublic of Ireland
+p8319
+aVMunster
+p8320
+aVCounty Tipperary
+p8321
+aVTipperary
+p8322
+aa(lp8323
+S'Matt McCullough'
+p8324
+aS'2005'
+p8325
+aS'Lock, Flanker'
+p8326
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp8327
+S'Roger Wilson'
+p8328
+aS'2005'
+p8329
+aS'No. 8'
+p8330
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p8331
+aVUnited Kingdom
+p8332
+aVNorthern Ireland
+p8333
+ag93
+ag93
+aa(lp8334
+S'Kieran Campbell'
+p8335
+aS'2005'
+p8336
+aS'Scrum-half'
+p8337
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'London'
+p8338
+aVUnited Kingdom
+p8339
+aVEngland
+p8340
+aVGreater London
+p8341
+aVLondon
+p8342
+aa(lp8343
+S'Trevor Hogan'
+p8344
+aS'2005'
+p8345
+aS'Lock'
+p8346
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Co.Tipperary'
+p8347
+aVRepublic of Ireland
+p8348
+aVMunster
+p8349
+aVCounty Tipperary
+p8350
+ag93
+aa(lp8351
+S'Bernard Jackman'
+p8352
+aS'2005'
+p8353
+aS'Hooker'
+p8354
+aS'9'
+aS'4'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Carlow'
+p8355
+aVRepublic of Ireland
+p8356
+aVLeinster
+p8357
+aVCounty Carlow
+p8358
+aVCarlow
+p8359
+aa(lp8360
+S'David Quinlan'
+p8361
+aS'2005'
+p8362
+aS'Centre'
+p8363
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p8364
+aVRepublic of Ireland
+p8365
+aVLeinster
+p8366
+aVCounty Dublin
+p8367
+aVDublin
+p8368
+aa(lp8369
+S'Kieran Lewis'
+p8370
+aS'2005'
+p8371
+aS'Wing, Centre'
+p8372
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p8373
+aVRepublic of Ireland
+p8374
+aVLeinster
+p8375
+aVCounty Dublin
+p8376
+aVDublin
+p8377
+aa(lp8378
+S'Neil Best'
+p8379
+aS'2005'
+p8380
+aS'Back-row'
+p8381
+aS'18'
+p8382
+aS'8'
+aS'10'
+p8383
+aS'0'
+aS'2'
+aS'10'
+p8384
+aS'Northern Ireland'
+p8385
+aVUnited Kingdom
+p8386
+aVNorthern Ireland
+p8387
+ag93
+ag93
+aa(lp8388
+S'Rory Best'
+p8389
+aS'2005'
+p8390
+aS'Hooker'
+p8391
+aS'83'
+p8392
+aS'47'
+p8393
+aS'34'
+p8394
+aS'2'
+aS'8'
+aS'40'
+p8395
+aS'Northern Ireland'
+p8396
+aVUnited Kingdom
+p8397
+aVNorthern Ireland
+p8398
+ag93
+ag93
+aa(lp8399
+S'Andrew Trimble'
+p8400
+aS'2005'
+p8401
+aS'Wing'
+p8402
+aS'57'
+p8403
+aS'31'
+p8404
+aS'25'
+p8405
+aS'1'
+aS'16'
+p8406
+aS'80'
+p8407
+aS'Northern Ireland'
+p8408
+aVUnited Kingdom
+p8409
+aVNorthern Ireland
+p8410
+ag93
+ag93
+aa(lp8411
+S'Jerry Flannery'
+p8412
+aS'2005'
+p8413
+aS'Hooker'
+p8414
+aS'41'
+p8415
+aS'23'
+p8416
+aS'17'
+p8417
+aS'1'
+aS'3'
+aS'15'
+p8418
+aS'Galway'
+p8419
+aVRepublic of Ireland
+p8420
+aVConnacht
+p8421
+aVCounty Galway
+p8422
+aVCathair na Gaillimhe
+p8423
+aa(lp8424
+S'Eoin Reddan'
+p8425
+aS'2006'
+p8426
+aS'Scrum-half'
+p8427
+aS'60'
+p8428
+aS'28'
+p8429
+aS'30'
+p8430
+aS'2'
+aS'2'
+aS'10'
+p8431
+aS'Limerick'
+p8432
+aVRepublic of Ireland
+p8433
+aVMunster
+p8434
+aVCounty Limerick
+p8435
+aVLimerick
+p8436
+aa(lp8437
+S'Isaac Boss'
+p8438
+aS'2006'
+p8439
+aS'Scrum-half'
+p8440
+aS'21'
+p8441
+aS'13'
+p8442
+aS'8'
+aS'0'
+aS'3'
+aS'15'
+p8443
+aS'Tokoroa'
+p8444
+aVNew Zealand/Aotearoa
+p8445
+aVWaikato
+p8446
+aVSouth Waikato District
+p8447
+aVTokoroa
+p8448
+aa(lp8449
+S'Bryan Young'
+p8450
+aS'2006'
+p8451
+aS'Prop'
+p8452
+aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p8453
+aVUnited Kingdom
+p8454
+aVNorthern Ireland
+p8455
+ag93
+ag93
+aa(lp8456
+S'Paddy Wallace'
+p8457
+aS'2006'
+p8458
+aS'Centre'
+p8459
+aS'30'
+p8460
+aS'17'
+p8461
+aS'12'
+p8462
+aS'1'
+aS'2'
+aS'53'
+p8463
+aS'Northern Ireland'
+p8464
+aVUnited Kingdom
+p8465
+aVNorthern Ireland
+p8466
+ag93
+ag93
+aa(lp8467
+S'Stephen Ferris'
+p8468
+aS'2006'
+p8469
+aS'Flanker'
+p8470
+aS'35'
+p8471
+aS'19'
+p8472
+aS'14'
+p8473
+aS'2'
+aS'2'
+aS'10'
+p8474
+aS'Northern Ireland'
+p8475
+aVUnited Kingdom
+p8476
+aVNorthern Ireland
+p8477
+ag93
+ag93
+aa(lp8478
+S'Luke Fitzgerald'
+p8479
+aS'2006'
+p8480
+aS'Fullback, Wing'
+p8481
+aS'29'
+p8482
+aS'12'
+p8483
+aS'15'
+p8484
+aS'2'
+aS'2'
+aS'10'
+p8485
+aS'Wicklow'
+p8486
+aVRepublic of Ireland
+p8487
+aVLeinster
+p8488
+aVCounty Wicklow
+p8489
+aVWicklow
+p8490
+aa(lp8491
+S'Jamie Heaslip'
+p8492
+aS'2006'
+p8493
+aS'No. 8'
+p8494
+aS'77'
+p8495
+aS'40'
+p8496
+aS'34'
+p8497
+aS'3'
+aS'9'
+aS'45'
+p8498
+aS'Tiberias'
+p8499
+aV\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc
+p8500
+aV\u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df
+p8501
+aV\u05d8\u05d1\u05e8\u05d9\u05d4
+p8502
+ag93
+aa(lp8503
+S'Brian Carney'
+p8504
+aS'2007'
+p8505
+aS'Outside back'
+p8506
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'1'
+aS'5'
+aS'Cork'
+p8507
+aVRepublic of Ireland
+p8508
+aVMunster
+p8509
+aVCounty Cork
+p8510
+aVCork
+p8511
+aa(lp8512
+S'Tony Buckley'
+p8513
+aS'2007'
+p8514
+aS'Prop'
+p8515
+aS'25'
+p8516
+aS'11'
+p8517
+aS'14'
+p8518
+aS'0'
+aS'2'
+aS'10'
+p8519
+aS'Cork'
+p8520
+aVRepublic of Ireland
+p8521
+aVMunster
+p8522
+aVCounty Cork
+p8523
+aVCork
+p8524
+aa(lp8525
+S'Barry Murphy'
+p8526
+aS'2007'
+p8527
+aS'Wing, Centre'
+p8528
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'Limerick'
+p8529
+aVRepublic of Ireland
+p8530
+aVMunster
+p8531
+aVCounty Limerick
+p8532
+aVLimerick
+p8533
+aa(lp8534
+S"Tomas O'Leary"
+p8535
+aS'2007'
+p8536
+aS'Scrum-half'
+p8537
+aS'24'
+p8538
+aS'13'
+p8539
+aS'10'
+p8540
+aS'1'
+aS'3'
+aS'15'
+p8541
+aS'Cork'
+p8542
+aVRepublic of Ireland
+p8543
+aVMunster
+p8544
+aVCounty Cork
+p8545
+aVCork
+p8546
+aa(lp8547
+S'Shane Jennings'
+p8548
+aS'2007'
+p8549
+aS'Flanker'
+p8550
+aS'13'
+p8551
+aS'6'
+aS'7'
+aS'0'
+aS'1'
+aS'5'
+aS'Dublin'
+p8552
+aVRepublic of Ireland
+p8553
+aVLeinster
+p8554
+aVCounty Dublin
+p8555
+aVDublin
+p8556
+aa(lp8557
+S'Rob Kearney'
+p8558
+aS'2007'
+p8559
+aS'Fullback, Wing'
+p8560
+aS'65'
+p8561
+aS'32'
+p8562
+aS'30'
+p8563
+aS'3'
+aS'11'
+p8564
+aS'57'
+p8565
+aS'Dublin'
+p8566
+aVRepublic of Ireland
+p8567
+aVLeinster
+p8568
+aVCounty Dublin
+p8569
+aVDublin
+p8570
+aa(lp8571
+S'Keith Earls'
+p8572
+aS'2008'
+p8573
+aS'Utility back'
+p8574
+aS'39'
+p8575
+aS'18'
+p8576
+aS'18'
+p8577
+aS'3'
+aS'12'
+p8578
+aS'60'
+p8579
+aS'Moyross'
+p8580
+aVRepublic of Ireland
+p8581
+aVMunster
+p8582
+aVCounty Limerick
+p8583
+aVLimerick
+p8584
+aa(lp8585
+S'Donnacha Ryan'
+p8586
+aS'2008'
+p8587
+aS'Flanker, Lock'
+p8588
+aS'28'
+p8589
+aS'11'
+p8590
+aS'15'
+p8591
+aS'2'
+aS'0'
+aS'0'
+aS'Limerick'
+p8592
+aVRepublic of Ireland
+p8593
+aVMunster
+p8594
+aVCounty Limerick
+p8595
+aVLimerick
+p8596
+aa(lp8597
+S'Tom Court'
+p8598
+aS'2009'
+p8599
+aS'Prop'
+p8600
+aS'32'
+p8601
+aS'18'
+p8602
+aS'13'
+p8603
+aS'1'
+aS'1'
+aS'5'
+aS'QLD'
+p8604
+aVAustralia
+p8605
+aVQueensland
+p8606
+ag93
+ag93
+aa(lp8607
+S'Darren Cave'
+p8608
+aS'2009'
+p8609
+aS'Centre'
+p8610
+aS'8'
+aS'7'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Northern Ireland'
+p8611
+aVUnited Kingdom
+p8612
+aVNorthern Ireland
+p8613
+ag93
+ag93
+aa(lp8614
+S'Ian Dowling'
+p8615
+aS'2009'
+p8616
+aS'Wing'
+p8617
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Kilkenny'
+p8618
+aVRepublic of Ireland
+p8619
+aVLeinster
+p8620
+aVCounty Kilkenny
+p8621
+aVKilkenny
+p8622
+aa(lp8623
+S'Ian Keatley'
+p8624
+aS'2009'
+p8625
+aS'Fly-half'
+p8626
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'31'
+p8627
+aS'Dublin'
+p8628
+aVRepublic of Ireland
+p8629
+aVLeinster
+p8630
+aVCounty Dublin
+p8631
+aVDublin
+p8632
+aa(lp8633
+S'John Muldoon'
+p8634
+aS'2009'
+p8635
+aS'Back-row'
+p8636
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Ballinasloe'
+p8637
+aVRepublic of Ireland
+p8638
+aVConnacht
+p8639
+aVCounty Galway
+p8640
+aVBallinasloe
+p8641
+aa(lp8642
+S'Niall Ronan'
+p8643
+aS'2009'
+p8644
+aS'Back-row'
+p8645
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Co Meath'
+p8646
+aVRepublic of Ireland
+p8647
+aVLeinster
+p8648
+aVCounty Meath
+p8649
+ag93
+aa(lp8650
+S'Ian Whitten'
+p8651
+aS'2009'
+p8652
+aS'Centre'
+p8653
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'10'
+p8654
+aS'Northern Ireland'
+p8655
+aVUnited Kingdom
+p8656
+aVNorthern Ireland
+p8657
+ag93
+ag93
+aa(lp8658
+S'Ryan Caldwell'
+p8659
+aS'2009'
+p8660
+aS'Lock'
+p8661
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Northern Ireland'
+p8662
+aVUnited Kingdom
+p8663
+aVNorthern Ireland
+p8664
+ag93
+ag93
+aa(lp8665
+S'Mike Ross'
+p8666
+aS'2009'
+p8667
+aS'Prop'
+p8668
+aS'49'
+p8669
+aS'29'
+p8670
+aS'18'
+p8671
+aS'2'
+aS'0'
+aS'0'
+aS'Cork'
+p8672
+aVRepublic of Ireland
+p8673
+aVMunster
+p8674
+aVCounty Cork
+p8675
+aVCork
+p8676
+aa(lp8677
+S'Denis Hurley'
+p8678
+aS'2009'
+p8679
+aS'Wing, Fullback'
+p8680
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'West Cork'
+p8681
+aVRepublic of Ireland
+p8682
+aVMunster
+p8683
+aVCounty Cork
+p8684
+aVCork
+p8685
+aa(lp8686
+S'Cian Healy'
+p8687
+aS'2009'
+p8688
+aS'Prop'
+p8689
+aS'51'
+p8690
+aS'24'
+p8691
+aS'24'
+p8692
+aS'3'
+aS'3'
+aS'15'
+p8693
+aS'Clontarf'
+p8694
+aVRepublic of Ireland
+p8695
+aVLeinster
+p8696
+aVCounty Dublin
+p8697
+aVDublin
+p8698
+aa(lp8699
+S'Johnny Sexton'
+p8700
+aS'2009'
+p8701
+aS'Fly-half'
+p8702
+aS'54'
+p8703
+aS'29'
+p8704
+aS'24'
+p8705
+aS'1'
+aS'9'
+aS'486'
+p8706
+aS'Dublin'
+p8707
+aVRepublic of Ireland
+p8708
+aVLeinster
+p8709
+aVCounty Dublin
+p8710
+aVDublin
+p8711
+aa(lp8712
+S'Sean Cronin'
+p8713
+aS'2009'
+p8714
+aS'Hooker'
+p8715
+aS'43'
+p8716
+aS'25'
+p8717
+aS'16'
+p8718
+aS'2'
+aS'1'
+aS'5'
+aS'Limerick'
+p8719
+aVRepublic of Ireland
+p8720
+aVMunster
+p8721
+aVCounty Limerick
+p8722
+aVLimerick
+p8723
+aa(lp8724
+S"Sean O'Brien"
+p8725
+aS'2009'
+p8726
+aS'Back-row'
+p8727
+aS'36'
+p8728
+aS'17'
+p8729
+aS'17'
+p8730
+aS'2'
+aS'5'
+aS'25'
+p8731
+aS'Dublin'
+p8732
+aVRepublic of Ireland
+p8733
+aVLeinster
+p8734
+aVCounty Dublin
+p8735
+aVDublin
+p8736
+aa(lp8737
+S'Kevin McLaughlin'
+p8738
+aS'2010'
+p8739
+aS'Lock, Back-row'
+p8740
+aS'8'
+aS'2'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Dublin'
+p8741
+aVRepublic of Ireland
+p8742
+aVLeinster
+p8743
+aVCounty Dublin
+p8744
+aVDublin
+p8745
+aa(lp8746
+S'John Fogarty'
+p8747
+aS'2010'
+p8748
+aS'Hooker'
+p8749
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cork'
+p8750
+aVRepublic of Ireland
+p8751
+aVMunster
+p8752
+aVCounty Cork
+p8753
+aVCork
+p8754
+aa(lp8755
+S'Dan Tuohy'
+p8756
+aS'2010'
+p8757
+aS'Lock'
+p8758
+aS'9'
+aS'4'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'Bristol'
+p8759
+aVUnited Kingdom
+p8760
+aVEngland
+p8761
+aVSouth West England
+p8762
+aVCity of Bristol
+p8763
+aa(lp8764
+S'Chris Henry'
+p8765
+aS'2010'
+p8766
+aS'Back-row'
+p8767
+aS'16'
+p8768
+aS'11'
+p8769
+aS'5'
+aS'0'
+aS'2'
+aS'10'
+p8770
+aS'Northern Ireland'
+p8771
+aVUnited Kingdom
+p8772
+aVNorthern Ireland
+p8773
+ag93
+ag93
+aa(lp8774
+S'Rhys Ruddock'
+p8775
+aS'2010'
+p8776
+aS'Back-row'
+p8777
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Dublin'
+p8778
+aVRepublic of Ireland
+p8779
+aVLeinster
+p8780
+aVCounty Dublin
+p8781
+aVDublin
+p8782
+aa(lp8783
+S'Damien Varley'
+p8784
+aS'2010'
+p8785
+aS'Hooker'
+p8786
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Limerick'
+p8787
+aVRepublic of Ireland
+p8788
+aVMunster
+p8789
+aVCounty Limerick
+p8790
+aVLimerick
+p8791
+aa(lp8792
+S'Devin Toner'
+p8793
+aS'2010'
+p8794
+aS'Lock'
+p8795
+aS'25'
+p8796
+aS'18'
+p8797
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Co Meath'
+p8798
+aVRepublic of Ireland
+p8799
+aVLeinster
+p8800
+aVCounty Meath
+p8801
+ag93
+aa(lp8802
+S'Fergus McFadden'
+p8803
+aS'2011'
+p8804
+aS'Wing, Centre'
+p8805
+aS'28'
+p8806
+aS'14'
+p8807
+aS'12'
+p8808
+aS'2'
+aS'9'
+aS'45'
+p8809
+aS'Kilkenny'
+p8810
+aVRepublic of Ireland
+p8811
+aVLeinster
+p8812
+aVCounty Kilkenny
+p8813
+aVKilkenny
+p8814
+aa(lp8815
+S'Mike McCarthy'
+p8816
+aS'2011'
+p8817
+aS'Lock'
+p8818
+aS'17'
+p8819
+aS'8'
+aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS'London'
+p8820
+aVUnited Kingdom
+p8821
+aVEngland
+p8822
+aVGreater London
+p8823
+aVLondon
+p8824
+aa(lp8825
+S'Felix Jones'
+p8826
+aS'2011'
+p8827
+aS'Utility back'
+p8828
+aS'11'
+p8829
+aS'8'
+aS'3'
+aS'0'
+aS'2'
+aS'10'
+p8830
+aS'Dublin'
+p8831
+aVRepublic of Ireland
+p8832
+aVLeinster
+p8833
+aVCounty Dublin
+p8834
+aVDublin
+p8835
+aa(lp8836
+S'Conor Murray'
+p8837
+aS'2011'
+p8838
+aS'Scrum-half'
+p8839
+aS'37'
+p8840
+aS'19'
+p8841
+aS'16'
+p8842
+aS'2'
+aS'3'
+aS'15'
+p8843
+aS'Limerick'
+p8844
+aVRepublic of Ireland
+p8845
+aVMunster
+p8846
+aVCounty Limerick
+p8847
+aVLimerick
+p8848
+aa(lp8849
+S"Peter O'Mahony"
+p8850
+aS'2012'
+p8851
+aS'Back-row'
+p8852
+aS'30'
+p8853
+aS'16'
+p8854
+aS'12'
+p8855
+aS'2'
+aS'1'
+aS'5'
+aS'Cork'
+p8856
+aVRepublic of Ireland
+p8857
+aVMunster
+p8858
+aVCounty Cork
+p8859
+aVCork
+p8860
+aa(lp8861
+S'Declan Fitzpatrick'
+p8862
+aS'2012'
+p8863
+aS'Prop'
+p8864
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Worcs'
+p8865
+aVUnited Kingdom
+p8866
+aVWR14 2AY
+p8867
+aVEngland
+p8868
+aVWest Midlands
+p8869
+aa(lp8870
+S'Simon Zebo'
+p8871
+aS'2012'
+p8872
+aS'Wing'
+p8873
+aS'15'
+p8874
+aS'11'
+p8875
+aS'4'
+aS'0'
+aS'5'
+aS'25'
+p8876
+aS'Cork'
+p8877
+aVRepublic of Ireland
+p8878
+aVMunster
+p8879
+aVCounty Cork
+p8880
+aVCork
+p8881
+aa(lp8882
+S'Ronan Loughney'
+p8883
+aS'2012'
+p8884
+aS'Prop'
+p8885
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Galway'
+p8886
+aVRepublic of Ireland
+p8887
+aVConnacht
+p8888
+aVCounty Galway
+p8889
+aVCathair na Gaillimhe
+p8890
+aa(lp8891
+S'Richardt Strauss'
+p8892
+aS'2012'
+p8893
+aS'Hooker'
+p8894
 aS'6'
 aS'5'
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p8300
+p8895
 aS'Pretoria'
-p8301
+p8896
 aVSouth Africa
-p8302
+p8897
 aVGauteng
-p8303
+p8898
 aVCity of Tshwane Metropolitan Municipality
-p8304
-aa(lp8305
+p8899
+aVPretoria
+p8900
+aa(lp8901
 S'Michael Bent'
-p8306
+p8902
 aS'2012'
-p8307
+p8903
 aS'Prop'
-p8308
+p8904
 aS'2'
 aS'1'
 aS'1'
@@ -21659,106 +23294,113 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hawera'
-p8309
+p8905
 aVNew Zealand/Aotearoa
-p8310
+p8906
 aVTaranaki
-p8311
+p8907
 aVSouth Taranaki District
-p8312
-aa(lp8313
+p8908
+aVHawera
+p8909
+aa(lp8910
 S'Iain Henderson'
-p8314
+p8911
 aS'2012'
-p8315
+p8912
 aS'Lock'
-p8316
+p8913
 aS'17'
-p8317
+p8914
 aS'11'
-p8318
+p8915
 aS'5'
 aS'1'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p8319
+p8916
 aVUnited Kingdom
-p8320
+p8917
 aVNorthern Ireland
-p8321
-ag87
-aa(lp8322
+p8918
+ag93
+ag93
+aa(lp8919
 S'Dave Kilcoyne'
-p8323
+p8920
 aS'2012'
-p8324
+p8921
 aS'Prop'
-p8325
+p8922
 aS'12'
-p8326
+p8923
 aS'8'
 aS'4'
 aS'0'
 aS'1'
 aS'5'
 aS'Limerick'
-p8327
+p8924
 aVRepublic of Ireland
-p8328
+p8925
 aVMunster
-p8329
+p8926
 aVCounty Limerick
-p8330
-aa(lp8331
+p8927
+aVLimerick
+p8928
+aa(lp8929
 S'Craig Gilroy'
-p8332
+p8930
 aS'2012'
-p8333
+p8931
 aS'Wing'
-p8334
+p8932
 aS'6'
 aS'3'
 aS'3'
 aS'0'
 aS'2'
 aS'10'
-p8335
+p8933
 aS'Northern Ireland'
-p8336
+p8934
 aVUnited Kingdom
-p8337
+p8935
 aVNorthern Ireland
-p8338
-ag87
-aa(lp8339
+p8936
+ag93
+ag93
+aa(lp8937
 S'Paddy Jackson'
-p8340
+p8938
 aS'2013'
-p8341
+p8939
 aS'Fly-half'
-p8342
+p8940
 aS'9'
 aS'5'
 aS'3'
 aS'1'
 aS'1'
 aS'56'
-p8343
+p8941
 aS'Northern Ireland'
-p8344
+p8942
 aVUnited Kingdom
-p8345
+p8943
 aVNorthern Ireland
-p8346
-ag87
-aa(lp8347
+p8944
+ag93
+ag93
+aa(lp8945
 S'Luke Marshall'
-p8348
+p8946
 aS'2013'
-p8349
+p8947
 aS'Centre'
-p8350
+p8948
 aS'6'
 aS'2'
 aS'3'
@@ -21766,44 +23408,48 @@ aS'1'
 aS'0'
 aS'0'
 aS'Ballymoney'
-p8351
+p8949
 aVUnited Kingdom
-p8352
+p8950
 aVNorthern Ireland
-p8353
+p8951
 aVCounty Antrim
-p8354
-aa(lp8355
+p8952
+aVBallymoney
+p8953
+aa(lp8954
 S'Ian Madigan'
-p8356
+p8955
 aS'2013'
-p8357
+p8956
 aS'Fly-half'
-p8358
+p8957
 aS'18'
-p8359
+p8958
 aS'13'
-p8360
+p8959
 aS'4'
 aS'1'
 aS'1'
 aS'66'
-p8361
+p8960
 aS'Dublin'
-p8362
+p8961
 aVRepublic of Ireland
-p8363
+p8962
 aVLeinster
-p8364
+p8963
 aVCounty Dublin
-p8365
-aa(lp8366
+p8964
+aVDublin
+p8965
+aa(lp8966
 S'Stephen Archer'
-p8367
+p8967
 aS'2013'
-p8368
+p8968
 aS'Prop'
-p8369
+p8969
 aS'2'
 aS'0'
 aS'2'
@@ -21811,20 +23457,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cork'
-p8370
+p8970
 aVRepublic of Ireland
-p8371
+p8971
 aVMunster
-p8372
+p8972
 aVCounty Cork
-p8373
-aa(lp8374
+p8973
+aVCork
+p8974
+aa(lp8975
 S'Paul Marshall'
-p8375
+p8976
 aS'2013'
-p8376
+p8977
 aS'Scrum-half'
-p8377
+p8978
 aS'3'
 aS'2'
 aS'1'
@@ -21832,41 +23480,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'Northern Ireland'
-p8378
+p8979
 aVUnited Kingdom
-p8379
+p8980
 aVNorthern Ireland
-p8380
-ag87
-aa(lp8381
+p8981
+ag93
+ag93
+aa(lp8982
 S'Robbie Henshaw'
-p8382
+p8983
 aS'2013'
-p8383
+p8984
 aS'Fullback, Centre'
-p8384
+p8985
 aS'10'
-p8385
+p8986
 aS'8'
 aS'2'
 aS'0'
 aS'1'
 aS'5'
 aS'Athlone'
-p8386
+p8987
 aVRepublic of Ireland
-p8387
+p8988
 aVLeinster
-p8388
+p8989
 aVCounty Westmeath
-p8389
-aa(lp8390
+p8990
+aVAthlone
+p8991
+aa(lp8992
 S'Stuart Olding'
-p8391
+p8993
 aS'2013'
-p8392
+p8994
 aS'Fly-half'
-p8393
+p8995
 aS'2'
 aS'2'
 aS'0'
@@ -21874,19 +23525,20 @@ aS'0'
 aS'1'
 aS'5'
 aS'Northern Ireland'
-p8394
+p8996
 aVUnited Kingdom
-p8395
+p8997
 aVNorthern Ireland
-p8396
-ag87
-aa(lp8397
+p8998
+ag93
+ag93
+aa(lp8999
 S'Jamie Hagan'
-p8398
+p9000
 aS'2013'
-p8399
+p9001
 aS'Prop'
-p8400
+p9002
 aS'1'
 aS'1'
 aS'0'
@@ -21894,42 +23546,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p8401
+p9003
 aVRepublic of Ireland
-p8402
+p9004
 aVLeinster
-p8403
+p9005
 aVCounty Dublin
-p8404
-aa(lp8405
+p9006
+aVDublin
+p9007
+aa(lp9008
 S"Tommy O'Donnell"
-p8406
+p9009
 aS'2013'
-p8407
+p9010
 aS'Back-row'
-p8408
+p9011
 aS'8'
 aS'8'
 aS'0'
 aS'0'
 aS'2'
 aS'10'
-p8409
+p9012
 aS'Tipperary'
-p8410
+p9013
 aVRepublic of Ireland
-p8411
+p9014
 aVMunster
-p8412
+p9015
 aVCounty Tipperary
-p8413
-aa(lp8414
+p9016
+aVTipperary
+p9017
+aa(lp9018
 S'Mike Sherry'
-p8415
+p9019
 aS'2013'
-p8416
+p9020
 aS'Hooker'
-p8417
+p9021
 aS'1'
 aS'1'
 aS'0'
@@ -21937,20 +23593,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Limerick'
-p8418
+p9022
 aVRepublic of Ireland
-p8419
+p9023
 aVMunster
-p8420
+p9024
 aVCounty Limerick
-p8421
-aa(lp8422
+p9025
+aVLimerick
+p9026
+aa(lp9027
 S'James Downey'
-p8423
+p9028
 aS'2013'
-p8424
+p9029
 aS'Centre'
-p8425
+p9030
 aS'1'
 aS'1'
 aS'0'
@@ -21958,87 +23616,95 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p8426
+p9031
 aVRepublic of Ireland
-p8427
+p9032
 aVLeinster
-p8428
+p9033
 aVCounty Dublin
-p8429
-aa(lp8430
+p9034
+aVDublin
+p9035
+aa(lp9036
 S'Jack McGrath'
-p8431
+p9037
 aS'2013'
-p8432
+p9038
 aS'Prop'
-p8433
+p9039
 aS'17'
-p8434
+p9040
 aS'13'
-p8435
+p9041
 aS'4'
 aS'0'
 aS'1'
 aS'5'
 aS'Dublin'
-p8436
+p9042
 aVRepublic of Ireland
-p8437
+p9043
 aVLeinster
-p8438
+p9044
 aVCounty Dublin
-p8439
-aa(lp8440
+p9045
+aVDublin
+p9046
+aa(lp9047
 S'Dave Kearney'
-p8441
+p9048
 aS'2013'
-p8442
+p9049
 aS'Fullback, Wing'
-p8443
+p9050
 aS'7'
 aS'5'
 aS'2'
 aS'0'
 aS'2'
 aS'10'
-p8444
+p9051
 aS'Dublin'
-p8445
+p9052
 aVRepublic of Ireland
-p8446
+p9053
 aVLeinster
-p8447
+p9054
 aVCounty Dublin
-p8448
-aa(lp8449
+p9055
+aVDublin
+p9056
+aa(lp9057
 S'Martin Moore'
-p8450
+p9058
 aS'2014'
-p8451
+p9059
 aS'Prop'
-p8452
+p9060
 aS'10'
-p8453
+p9061
 aS'8'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p8454
+p9062
 aVRepublic of Ireland
-p8455
+p9063
 aVLeinster
-p8456
+p9064
 aVCounty Dublin
-p8457
-aa(lp8458
+p9065
+aVDublin
+p9066
+aa(lp9067
 S'Jordi Murphy'
-p8459
+p9068
 aS'2014'
-p8460
+p9069
 aS'Flanker'
-p8461
+p9070
 aS'9'
 aS'7'
 aS'2'
@@ -22046,20 +23712,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Barcelona'
-p8462
+p9071
 aVEspaña
-p8463
+p9072
 aVCAT
-p8464
+p9073
 aVBCN
-p8465
-aa(lp8466
+p9074
+aVBarcelona
+p9075
+aa(lp9076
 S'Robbie Diack'
-p8467
+p9077
 aS'2014'
-p8468
+p9078
 aS'No. 8'
-p8469
+p9079
 aS'2'
 aS'2'
 aS'0'
@@ -22067,20 +23735,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p8470
+p9080
 aVSouth Africa
-p8471
+p9081
 aV2001
-p8472
+p9082
 aVGauteng
-p8473
-aa(lp8474
+p9083
+aVCity of Johannesburg Metropolitan Municipality
+p9084
+aa(lp9085
 S'Rodney Ah You'
-p8475
+p9086
 aS'2014'
-p8476
+p9087
 aS'Prop'
-p8477
+p9088
 aS'3'
 aS'3'
 aS'0'
@@ -22088,20 +23758,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lower Hutt'
-p8478
+p9089
 aVNew Zealand/Aotearoa
-p8479
+p9090
 aVWellington
-p8480
+p9091
 aVLower Hutt City
-p8481
-aa(lp8482
+p9092
+aVLower Hutt
+p9093
+aa(lp9094
 S'Kieran Marmion'
-p8483
+p9095
 aS'2014'
-p8484
+p9096
 aS'Scrum-half'
-p8485
+p9097
 aS'3'
 aS'3'
 aS'0'
@@ -22109,20 +23781,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Barking'
-p8486
+p9098
 aVUnited Kingdom
-p8487
+p9099
 aVEngland
-p8488
+p9100
 aVGreater London
-p8489
-aa(lp8490
+p9101
+aVLondon
+p9102
+aa(lp9103
 S'James Cronin'
-p8491
+p9104
 aS'2014'
-p8492
+p9105
 aS'Prop'
-p8493
+p9106
 aS'2'
 aS'2'
 aS'0'
@@ -22130,20 +23804,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ballincollig'
-p8494
+p9107
 aVRepublic of Ireland
-p8495
+p9108
 aVMunster
-p8496
+p9109
 aVCounty Cork
-p8497
-aa(lp8498
+p9110
+aVBallincollig
+p9111
+aa(lp9112
 S'Rob Herring'
-p8499
+p9113
 aS'2014'
-p8500
+p9114
 aS'Hooker'
-p8501
+p9115
 aS'1'
 aS'1'
 aS'0'
@@ -22151,20 +23827,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p8502
+p9116
 aVSouth Africa
-p8503
+p9117
 aVWestern Cape
-p8504
+p9118
 aVCity of Cape Town
-p8505
-aa(lp8506
+p9119
+aVCape Town
+p9120
+aa(lp9121
 S'Noel Reid'
-p8507
+p9122
 aS'2014'
-p8508
+p9123
 aS'Fly-half, Centre'
-p8509
+p9124
 aS'1'
 aS'1'
 aS'0'
@@ -22172,20 +23850,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p8510
+p9125
 aVRepublic of Ireland
-p8511
+p9126
 aVLeinster
-p8512
+p9127
 aVCounty Dublin
-p8513
-aa(lp8514
+p9128
+aVDublin
+p9129
+aa(lp9130
 S'Jared Payne'
-p8515
+p9131
 aS'2014'
-p8516
+p9132
 aS'Fullback'
-p8517
+p9133
 aS'6'
 aS'5'
 aS'1'
@@ -22193,20 +23873,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Tauranga'
-p8518
+p9134
 aVNew Zealand/Aotearoa
-p8519
+p9135
 aVBay of Plenty
-p8520
+p9136
 aVTauranga City
-p8521
-aa(lp8522
+p9137
+aVTauranga
+p9138
+aa(lp9139
 S'Dave Foley'
-p8523
+p9140
 aS'2014'
-p8524
+p9141
 aS'Lock'
-p8525
+p9142
 aS'2'
 aS'2'
 aS'0'
@@ -22214,20 +23896,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tipperary'
-p8526
+p9143
 aVRepublic of Ireland
-p8527
+p9144
 aVMunster
-p8528
+p9145
 aVCounty Tipperary
-p8529
-aa(lp8530
+p9146
+aVTipperary
+p9147
+aa(lp9148
 S'Dominic Ryan'
-p8531
+p9149
 aS'2014'
-p8532
+p9150
 aS'Flanker'
-p8533
+p9151
 aS'1'
 aS'1'
 aS'0'
@@ -22235,20 +23919,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dublin'
-p8534
+p9152
 aVRepublic of Ireland
-p8535
+p9153
 aVLeinster
-p8536
+p9154
 aVCounty Dublin
-p8537
-aa(lp8538
+p9155
+aVDublin
+p9156
+aa(lp9157
 S'Robin Copeland'
-p8539
+p9158
 aS'2014'
-p8540
+p9159
 aS'Flanker'
-p8541
+p9160
 aS'1'
 aS'1'
 aS'0'
@@ -22256,11 +23942,13 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wexford'
-p8542
+p9161
 aVRepublic of Ireland
-p8543
+p9162
 aVLeinster
-p8544
+p9163
 aVCounty Wexford
-p8545
+p9164
+aVWexford
+p9165
 aa.

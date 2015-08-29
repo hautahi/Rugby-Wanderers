@@ -19,6 +19,7 @@ aVVictoria
 p8
 aS'Missing'
 p9
+ag9
 aa(lp10
 S'Godfrey Darbishire'
 p11
@@ -39,291 +40,318 @@ aVS6 3TB
 p16
 aVEngland
 p17
-aa(lp18
+aVYorkshire and the Humber
+p18
+aa(lp19
 S'Barry Girling'
-p19
-aS'1881'
 p20
-aS'Forward'
+aS'1881'
 p21
+aS'Forward'
+p22
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Bristol'
-p22
-aVUnited Kingdom
 p23
-aVEngland
+aVUnited Kingdom
 p24
-aVSouth West England
+aVEngland
 p25
-aa(lp26
-S'George Harding'
+aVSouth West England
+p26
+aVCity of Bristol
 p27
-aS'1881'
-p28
-aS'Forward'
+aa(lp28
+S'George Harding'
 p29
+aS'1881'
+p30
+aS'Forward'
+p31
 aS'4'
 aS'1'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Lancs'
-p30
-aVUnited Kingdom
-p31
-aVS6 3TB
 p32
-aVEngland
+aVUnited Kingdom
 p33
-aa(lp34
-S'Edward Lewis'
+aVS6 3TB
+p34
+aVEngland
 p35
-aS'1881'
+aVYorkshire and the Humber
 p36
+aa(lp37
+S'Edward Lewis'
+p38
+aS'1881'
+p39
 aS'Halfback'
-p37
+p40
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Llandovery'
-p38
-aVUnited Kingdom
-p39
-aVWales
-p40
-aVCarmarthenshire
 p41
-aa(lp42
-S'Bathurst Mann'
+aVUnited Kingdom
+p42
+aVWales
 p43
-aS'1881'
+aVCarmarthenshire
 p44
-aS'Forward'
+aVLlandovery
 p45
+aa(lp46
+S'Bathurst Mann'
+p47
+aS'1881'
+p48
+aS'Forward'
+p49
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'The Curragh'
-p46
+p50
 aVUnited Kingdom
-p47
-aVNorthern Ireland
-p48
-aVCounty Antrim
-p49
-aa(lp50
-S'Charlie Newman'
 p51
-aS'1881'
+aVNorthern Ireland
 p52
-aS'Halfback'
+aVCounty Antrim
 p53
-aS'10'
+aVCushendun
 p54
+aa(lp55
+S'Charlie Newman'
+p56
+aS'1881'
+p57
+aS'Halfback'
+p58
+aS'10'
+p59
 aS'1'
 aS'7'
 aS'2'
 aS'0'
 aNaS'Newport'
-p55
-aVUnited Kingdom
-p56
-aVNP
-p57
-aVWales
-p58
-aa(lp59
-S'Edward Peake'
 p60
-aS'1881'
+aVUnited Kingdom
 p61
-aS'Three-quarters'
+aVNP
 p62
+aVWales
+p63
+aVMonmouthshire
+p64
+aa(lp65
+S'Edward Peake'
+p66
+aS'1881'
+p67
+aS'Three-quarters'
+p68
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Monmouth'
-p63
-aVUnited Kingdom
-p64
-aVNP25
-p65
-aVWales
-p66
-aa(lp67
-S'William Phillips'
-p68
-aS'1881'
 p69
-aS'Forward'
+aVUnited Kingdom
 p70
+aVNP25
+p71
+aVWales
+p72
+aVMonmouthshire
+p73
+aa(lp74
+S'William Phillips'
+p75
+aS'1881'
+p76
+aS'Forward'
+p77
 aS'5'
 aS'2'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Cardiff'
-p71
-aVUnited Kingdom
-p72
-aVWales
-p73
-aVCardiff
-p74
-aa(lp75
-S'Frank Purdon'
-p76
-aS'1881'
-p77
-aS'Forward'
 p78
+aVUnited Kingdom
+p79
+aVWales
+p80
+aVCardiff
+p81
+ag9
+aa(lp82
+S'Frank Purdon'
+p83
+aS'1881'
+p84
+aS'Forward'
+p85
 aS'4'
 aS'1'
 aS'3'
 aS'0'
 aS'0'
 aNaS'Co Westmeath'
-p79
-aVRepublic of Ireland
-p80
-aVLeinster
-p81
-aVCounty Westmeath
-p82
-aa(lp83
-S'Aneurin Rees'
-p84
-aS'1881'
-p85
-aS'Forward'
 p86
+aVRepublic of Ireland
+p87
+aVLeinster
+p88
+aVCounty Westmeath
+p89
+ag9
+aa(lp90
+S'Aneurin Rees'
+p91
+aS'1881'
+p92
+aS'Forward'
+p93
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Llandovery'
-p87
-aVUnited Kingdom
-p88
-aVWales
-p89
-aVCarmarthenshire
-p90
-aa(lp91
-S'Richard Summers'
-p92
-aS'1881'
-p93
-aS'Fullback'
 p94
+aVUnited Kingdom
+p95
+aVWales
+p96
+aVCarmarthenshire
+p97
+aVLlandovery
+p98
+aa(lp99
+S'Richard Summers'
+p100
+aS'1881'
+p101
+aS'Fullback'
+p102
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Haverfordwest'
-p95
+p103
 aVUnited Kingdom
-p96
+p104
 aVWales
-p97
+p105
 aVPembrokeshire
-p98
-aa(lp99
+p106
+aVHaverfordwest
+p107
+aa(lp108
 S'Edward Treharne'
-p100
+p109
 aS'1881'
-p101
+p110
 aS'Forward'
-p102
+p111
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Ystradyfodwg'
-p103
+p112
 aS'g'
 aS'n'
 aS'i'
-aa(lp104
+aS's'
+aa(lp113
 S'Leonard Watkins'
-p105
+p114
 aS'1881'
-p106
+p115
 aS'Halfback'
-p107
+p116
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Abergavenny'
-p108
+p117
 aVUnited Kingdom
-p109
+p118
 aVNP7
-p110
+p119
 aVWales
-p111
-aa(lp112
+p120
+aVMonmouthshire
+p121
+aa(lp122
 S'Richard Williams'
-p113
+p123
 aS'1881'
-p114
+p124
 aS'Forward'
-p115
+p125
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Llowes'
-p116
+p126
 aVUnited Kingdom
-p117
+p127
 aVWales
-p118
+p128
 aVPowys
-p119
-aa(lp120
+p129
+aVLlowes
+p130
+aa(lp131
 S'Thomas Baker-Jones'
-p121
+p132
 aS'1882'
-p122
+p133
 aS'Forward'
-p123
+p134
 aS'6'
 aS'1'
 aS'4'
 aS'1'
 aS'1'
 aNaS'Newport'
-p124
+p135
 aVUnited Kingdom
-p125
+p136
 aVNP
-p126
+p137
 aVWales
-p127
-aa(lp128
+p138
+aVMonmouthshire
+p139
+aa(lp140
 S'Ronald Bridie'
-p129
+p141
 aS'1882'
-p130
+p142
 aS'Halfback'
-p131
+p143
 aS'1'
 aS'1'
 aS'0'
@@ -333,252 +361,276 @@ aNaS'-'
 aS'g'
 aS'n'
 aS'i'
-aa(lp132
+aS's'
+aa(lp144
 S'Tom Clapp'
-p133
+p145
 aS'1882'
-p134
+p146
 aS'Forward'
-p135
+p147
 aS'14'
-p136
+p148
 aS'4'
 aS'8'
 aS'2'
 aS'2'
 aNaS'Marylebon'
-p137
+p149
 aS'g'
 aS'n'
 aS'i'
-aa(lp138
+aS's'
+aa(lp150
 S'Samuel Clark'
-p139
+p151
 aS'1882'
-p140
+p152
 aS'Fullback'
-p141
+p153
 aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
 aNaS'Weymouth'
-p142
+p154
 aVUnited Kingdom
-p143
+p155
 aVEngland
-p144
+p156
 aVSouth West England
-p145
-aa(lp146
+p157
+aVDorset
+p158
+aa(lp159
 S'Bill Evans'
-p147
+p160
 aS'1882'
-p148
+p161
 aS'Three-quarters'
-p149
+p162
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'1'
 aNaS'Rhymney'
-p150
+p163
 aVUnited Kingdom
-p151
+p164
 aVNP22
-p152
+p165
 aVWales
-p153
-aa(lp154
+p166
+aVMonmouthshire
+p167
+aa(lp168
 S'Bob Gould'
-p155
+p169
 aS'1882'
-p156
+p170
 aS'Forward'
-p157
+p171
 aS'11'
-p158
+p172
 aS'2'
 aS'7'
 aS'2'
 aS'0'
 aNaS'Newport'
-p159
+p173
 aVUnited Kingdom
-p160
+p174
 aVNP
-p161
+p175
 aVWales
-p162
-aa(lp163
+p176
+aVMonmouthshire
+p177
+aa(lp178
 S'Charles Lewis'
-p164
+p179
 aS'1882'
-p165
+p180
 aS'Fullback'
-p166
+p181
 aS'5'
 aS'1'
 aS'4'
 aS'0'
 aS'0'
 aNaS'Llangadog'
-p167
+p182
 aVUnited Kingdom
-p168
+p183
 aVWales
-p169
+p184
 aVCarmarthenshire
-p170
-aa(lp171
+p185
+aVLlangadog
+p186
+aa(lp187
 S'George Morris'
-p172
+p188
 aS'1882'
-p173
+p189
 aS'Forward'
-p174
+p190
 aS'5'
 aS'1'
 aS'4'
 aS'0'
 aS'0'
 aNaS'Swansea'
-p175
+p191
 aVUnited Kingdom
-p176
+p192
 aVWales
-p177
+p193
 aVWest Glamorgan
-p178
-aa(lp179
+p194
+aVSwansea
+p195
+aa(lp196
 S'William Norton'
-p180
+p197
 aS'1882'
-p181
+p198
 aS'Three-quarters'
-p182
+p199
 aS'6'
 aS'2'
 aS'4'
 aS'0'
 aS'1'
 aNaS'Carmarthen'
-p183
+p200
 aVUnited Kingdom
-p184
+p201
 aVWales
-p185
+p202
 aVCarmarthenshire
-p186
-aa(lp187
+p203
+aVCarmarthen
+p204
+aa(lp205
 S'Hugh Vincent'
-p188
+p206
 aS'1882'
-p189
+p207
 aS'Forward'
-p190
+p208
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aNaS'Caernarfon'
-p191
+p209
 aVUnited Kingdom
-p192
+p210
 aVWales
-p193
+p211
 aVGwynedd
-p194
-aa(lp195
+p212
+aVCaernarfon
+p213
+aa(lp214
 S'Tom Williams'
-p196
+p215
 aS'1882'
-p197
+p216
 aS'Forward'
-p198
+p217
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aNaS'Llwynypia'
-p199
+p218
 aVUnited Kingdom
-p200
+p219
 aVWales
-p201
+p220
 aVRhondda Cynon Taf
-p202
-aa(lp203
+p221
+aVLlwynypia
+p222
+aa(lp223
 S'Harry Bowen'
-p204
+p224
 aS'1882'
-p205
+p225
 aS'Fullback'
-p206
+p226
 aS'4'
 aS'0'
 aS'3'
 aS'1'
 aS'0'
 aNaS'Llanelly'
-p207
+p227
 aVAustralia
-p208
+p228
 aVVictoria
-p209
+p229
 aVLoddon Mallee
-p210
-aa(lp211
+p230
+aVShire of Loddon
+p231
+aa(lp232
 S'Alfred Cattell'
-p212
+p233
 aS'1882'
-p213
+p234
 aS'Forward'
-p214
+p235
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Rutland'
-p215
+p236
 aVUnited Kingdom
-p216
+p237
 aVEngland
-p217
+p238
 aVEast Midlands
-p218
-aa(lp219
+p239
+aVRutland
+p240
+aa(lp241
 S'James Clare'
-p220
+p242
 aS'1882'
-p221
+p243
 aS'Three-quarters'
-p222
+p244
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'London'
-p223
+p245
 aVUnited Kingdom
-p224
+p246
 aVEngland
-p225
+p247
 aVGreater London
-p226
-aa(lp227
+p248
+aVLondon
+p249
+aa(lp250
 S'Dai Gwyn'
-p228
+p251
 aS'1882'
-p229
+p252
 aS'Centre'
-p230
+p253
 aS'6'
 aS'1'
 aS'4'
@@ -586,255 +638,193 @@ aS'1'
 aS'0'
 aS'0'
 aS'Swansea'
-p231
+p254
 aVUnited Kingdom
-p232
+p255
 aVWales
-p233
+p256
 aVWest Glamorgan
-p234
-aa(lp235
+p257
+aVSwansea
+p258
+aa(lp259
 S'Thomas Judson'
-p236
+p260
 aS'1882'
-p237
+p261
 aS'Forward'
-p238
+p262
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'1'
 aNaS'Lancs'
-p239
+p263
 aVUnited Kingdom
-p240
+p264
 aVS6 3TB
-p241
+p265
 aVEngland
-p242
-aa(lp243
+p266
+aVYorkshire and the Humber
+p267
+aa(lp268
 S'John Griffin'
-p244
+p269
 aS'1883'
-p245
+p270
 aS'Forward'
-p246
+p271
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Southampton'
-p247
+p272
 aVUnited Kingdom
-p248
+p273
 aVEngland
-p249
+p274
 aVSouth East
-p250
-aa(lp251
+p275
+aVSouthampton
+p276
+aa(lp277
 S'Arthur Jones'
-p252
+p278
 aS'1883'
-p253
+p279
 aS'Forward'
-p254
+p280
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Risca'
-p255
+p281
 aVUnited Kingdom
-p256
+p282
 aVNP11
-p257
+p283
 aVWales
-p258
-aa(lp259
+p284
+aVMonmouthshire
+p285
+aa(lp286
 S'Horace Lyne'
-p260
+p287
 aS'1883'
-p261
+p288
 aS'Forward'
-p262
+p289
 aS'5'
 aS'1'
 aS'4'
 aS'0'
 aS'0'
 aNaS'Newport'
-p263
+p290
 aVUnited Kingdom
-p264
+p291
 aVNP
-p265
+p292
 aVWales
-p266
-aa(lp267
+p293
+aVMonmouthshire
+p294
+aa(lp295
 S'Charles Allen'
-p268
+p296
 aS'1884'
-p269
+p297
 aS'Three-quarters'
-p270
+p298
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'1'
 aNaS'Lancashire'
-p271
+p299
 aVUnited Kingdom
-p272
+p300
 aVEngland
-p273
+p301
 aVNorth West England
-p274
-aa(lp275
+p302
+aVLancashire
+p303
+aa(lp304
 S'Frederick Andrews'
-p276
+p305
 aS'1884'
-p277
+p306
 aS'Forward'
-p278
+p307
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Swansea'
-p279
+p308
 aVUnited Kingdom
-p280
+p309
 aVWales
-p281
+p310
 aVWest Glamorgan
-p282
-aa(lp283
+p311
+aVSwansea
+p312
+aa(lp313
 S'William Gwynn'
-p284
+p314
 aS'1884'
-p285
+p315
 aS'Halfback'
-p286
+p316
 aS'5'
 aS'1'
 aS'3'
 aS'1'
 aS'0'
 aNaS'Swansea'
-p287
+p317
 aVUnited Kingdom
-p288
+p318
 aVWales
-p289
+p319
 aVWest Glamorgan
-p290
-aa(lp291
+p320
+aVSwansea
+p321
+aa(lp322
 S'Frederick Margrave'
-p292
+p323
 aS'1884'
-p293
+p324
 aS'Forward'
-p294
+p325
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Llanelly'
-p295
-aVAustralia
-p296
-aVVictoria
-p297
-aVLoddon Mallee
-p298
-aa(lp299
-S'Joe Simpson'
-p300
-aS'1884'
-p301
-aS'Forward'
-p302
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aNaS'Sedgefield'
-p303
-aVUnited Kingdom
-p304
-aVEngland
-p305
-aVNorth East England
-p306
-aa(lp307
-S'John Smith'
-p308
-aS'1884'
-p309
-aS'Forward'
-p310
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aNaS'Manchester'
-p311
-aVUnited Kingdom
-p312
-aVEngland
-p313
-aVNorth West England
-p314
-aa(lp315
-S'Charles Taylor'
-p316
-aS'1884'
-p317
-aS'Three-quarters'
-p318
-aS'9'
-aS'2'
-aS'5'
-aS'2'
-aS'0'
-aNaS'Ruabon'
-p319
-aVUnited Kingdom
-p320
-aVWales
-p321
-aVWrexham
-p322
-aa(lp323
-S'Tom Barlow'
-p324
-aS'1884'
-p325
-aS'Fullback'
 p326
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aNaS'Salford'
+aVAustralia
 p327
-aVUnited Kingdom
+aVVictoria
 p328
-aVEngland
+aVLoddon Mallee
 p329
-aVNorth West England
+aVShire of Loddon
 p330
 aa(lp331
-S'Samuel Goldsworthy'
+S'Joe Simpson'
 p332
 aS'1884'
 p333
@@ -842,84 +832,180 @@ aS'Forward'
 p334
 aS'3'
 aS'1'
+aS'2'
+aS'0'
+aS'0'
+aNaS'Sedgefield'
+p335
+aVUnited Kingdom
+p336
+aVEngland
+p337
+aVNorth East England
+p338
+aVCounty Durham
+p339
+aa(lp340
+S'John Smith'
+p341
+aS'1884'
+p342
+aS'Forward'
+p343
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aNaS'Manchester'
+p344
+aVUnited Kingdom
+p345
+aVEngland
+p346
+aVNorth West England
+p347
+aVGreater Manchester
+p348
+aa(lp349
+S'Charles Taylor'
+p350
+aS'1884'
+p351
+aS'Three-quarters'
+p352
+aS'9'
+aS'2'
+aS'5'
+aS'2'
+aS'0'
+aNaS'Ruabon'
+p353
+aVUnited Kingdom
+p354
+aVWales
+p355
+aVWrexham
+p356
+aVRuabon
+p357
+aa(lp358
+S'Tom Barlow'
+p359
+aS'1884'
+p360
+aS'Fullback'
+p361
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aNaS'Salford'
+p362
+aVUnited Kingdom
+p363
+aVEngland
+p364
+aVNorth West England
+p365
+aVGreater Manchester
+p366
+aa(lp367
+S'Samuel Goldsworthy'
+p368
+aS'1884'
+p369
+aS'Forward'
+p370
+aS'3'
+aS'1'
 aS'1'
 aS'1'
 aS'0'
 aNaS'Swansea'
-p335
+p371
 aVUnited Kingdom
-p336
+p372
 aVWales
-p337
+p373
 aVWest Glamorgan
-p338
-aa(lp339
+p374
+aVSwansea
+p375
+aa(lp376
 S'Frank Hancock'
-p340
+p377
 aS'1884'
-p341
+p378
 aS'Three-quarters'
-p342
+p379
 aS'4'
 aS'1'
 aS'2'
 aS'1'
 aS'0'
 aNaS'Wiveliscombe'
-p343
+p380
 aVUnited Kingdom
-p344
+p381
 aVEngland
-p345
+p382
 aVSouth West England
-p346
-aa(lp347
+p383
+aVSomerset
+p384
+aa(lp385
 S'John Hinton'
-p348
+p386
 aS'1884'
-p349
+p387
 aS'Forward'
-p350
+p388
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aNaS'Bombay'
-p351
+p389
 aVIndia
-p352
+p390
 aVMaharashtra
-p353
+p391
 aVGreater Bombay
-p354
-aa(lp355
+p392
+aVMumbai
+p393
+aa(lp394
 S'Buckley Roderick'
-p356
+p395
 aS'1884'
-p357
+p396
 aS'Forward'
-p358
+p397
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aNaS'Llanelly'
-p359
+p398
 aVAustralia
-p360
+p399
 aVVictoria
-p361
+p400
 aVLoddon Mallee
-p362
-aa(lp363
+p401
+aVShire of Loddon
+p402
+aa(lp403
 S'Buller Stadden'
-p364
+p404
 aS'1884'
-p365
+p405
 aS'Halfback'
-p366
+p406
 aS'8'
 aS'5'
 aS'3'
@@ -927,167 +1013,181 @@ aS'0'
 aS'2'
 aS'1'
 aS'Somerset'
-p367
+p407
 aVUnited Kingdom
-p368
+p408
 aVEngland
-p369
+p409
 aVSouth West England
-p370
-aa(lp371
+p410
+aVSomerset
+p411
+aa(lp412
 S'Arthur Gould'
-p372
+p413
 aS'1885'
-p373
+p414
 aS'Centre'
-p374
+p415
 aS'27'
-p375
+p416
 aS'10'
-p376
+p417
 aS'14'
-p377
+p418
 aS'3'
 aS'4'
 aS'12'
-p378
+p419
 aS'Newport'
-p379
+p420
 aVUnited Kingdom
-p380
+p421
 aVNP
-p381
+p422
 aVWales
-p382
-aa(lp383
+p423
+aVMonmouthshire
+p424
+aa(lp425
 S'Martyn Jordan'
-p384
+p426
 aS'1885'
-p385
+p427
 aS'Three-quarters'
-p386
+p428
 aS'3'
 aS'0'
 aS'2'
 aS'1'
 aS'2'
 aNaS'Clifton'
-p387
+p429
 aVUnited Kingdom
-p388
+p430
 aVEngland
-p389
+p431
 aVSouth West England
-p390
-aa(lp391
+p432
+aVCity of Bristol
+p433
+aa(lp434
 S'Evan Richards'
-p392
+p435
 aS'1885'
-p393
+p436
 aS'Forward'
-p394
+p437
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Swansea'
-p395
+p438
 aVUnited Kingdom
-p396
+p439
 aVWales
-p397
+p440
 aVWest Glamorgan
-p398
-aa(lp399
+p441
+aVSwansea
+p442
+aa(lp443
 S'Ernest Rowland'
-p400
+p444
 aS'1885'
-p401
+p445
 aS'Forward'
-p402
+p446
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Neath'
-p403
+p447
 aVUnited Kingdom
-p404
+p448
 aVWales
-p405
+p449
 aVWest Glamorgan
-p406
-aa(lp407
+p450
+aVNeath
+p451
+aa(lp452
 S'Lewis Thomas'
-p408
+p453
 aS'1885'
-p409
+p454
 aS'Forward'
-p410
+p455
 aS'2'
 aS'0'
 aS'1'
 aS'1'
 aS'0'
 aNaS'Merthyr Tydfil'
-p411
+p456
 aVUnited Kingdom
-p412
+p457
 aVWales
-p413
+p458
 aVMerthyr Tydfil
-p414
-aa(lp415
+p459
+ag9
+aa(lp460
 S'Edward Alexander'
-p416
+p461
 aS'1885'
-p417
+p462
 aS'Forward'
-p418
+p463
 aS'5'
 aS'1'
 aS'2'
 aS'2'
 aS'0'
 aNaS'Monknash'
-p419
+p464
 aVUnited Kingdom
-p420
+p465
 aVWales
-p421
+p466
 aVVale of Glamorgan
-p422
-aa(lp423
+p467
+aVMonknash
+p468
+aa(lp469
 S'Frank Hill'
-p424
+p470
 aS'1885'
-p425
+p471
 aS'Forward'
-p426
+p472
 aS'15'
-p427
+p473
 aS'6'
 aS'7'
 aS'2'
 aS'0'
 aS'0'
 aS'Cardiff'
-p428
+p474
 aVUnited Kingdom
-p429
+p475
 aVWales
-p430
+p476
 aVCardiff
-p431
-aa(lp432
+p477
+ag9
+aa(lp478
 S'D. Morgan'
-p433
+p479
 aS'1885'
-p434
+p480
 aS'Forward'
-p435
+p481
 aS'7'
 aS'1'
 aS'4'
@@ -1097,203 +1197,88 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp436
+aS's'
+aa(lp482
 S'Willie Thomas'
-p437
+p483
 aS'1885'
-p438
+p484
 aS'Forward'
-p439
+p485
 aS'11'
-p440
+p486
 aS'3'
 aS'5'
 aS'3'
 aS'0'
 aS'0'
 aS'Fishguard'
-p441
+p487
 aVUnited Kingdom
-p442
+p488
 aVWales
-p443
+p489
 aVPembrokeshire
-p444
-aa(lp445
+p490
+aVFishguard
+p491
+aa(lp492
 S'William Bowen'
-p446
+p493
 aS'1886'
-p447
+p494
 aS'Forward'
-p448
+p495
 aS'13'
-p449
+p496
 aS'3'
 aS'8'
 aS'2'
 aS'0'
 aS'0'
 aS'Pembroke'
-p450
+p497
 aVBermuda
-p451
+p498
 aVPembroke
-p452
+p499
 ag9
-aa(lp453
+ag9
+aa(lp500
 S'Billy Douglas'
-p454
+p501
 aS'1886'
-p455
+p502
 aS'Three-quarters'
-p456
+p503
 aS'4'
 aS'0'
 aS'3'
 aS'1'
 aS'0'
 aNaS'Barry'
-p457
+p504
 aVUnited Kingdom
-p458
+p505
 aVCF62
-p459
+p506
 aVWales
-p460
-aa(lp461
+p507
+aVVale of Glamorgan
+p508
+aa(lp509
 S'Dai Lewis'
-p462
+p510
 aS'1886'
-p463
+p511
 aS'Forward'
-p464
+p512
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Radyr'
-p465
-aVUnited Kingdom
-p466
-aVWales
-p467
-aVCardiff
-p468
-aa(lp469
-S'Evan Roberts'
-p470
-aS'1886'
-p471
-aS'Forward'
-p472
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aNaS'Llanelly'
-p473
-aVAustralia
-p474
-aVVictoria
-p475
-aVLoddon Mallee
-p476
-aa(lp477
-S'George Young'
-p478
-aS'1886'
-p479
-aS'Forward'
-p480
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aNaS'Tynemouth'
-p481
-aVUnited Kingdom
-p482
-aVEngland
-p483
-aVNorth East England
-p484
-aa(lp485
-S'Alfred Mathews'
-p486
-aS'1886'
-p487
-aS'Halfback'
-p488
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aNaS'Rhymney'
-p489
-aVUnited Kingdom
-p490
-aVNP22
-p491
-aVWales
-p492
-aa(lp493
-S'Alec Bland'
-p494
-aS'1887'
-p495
-aS'Forward'
-p496
-aS'9'
-aS'4'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'Haverfordwest'
-p497
-aVUnited Kingdom
-p498
-aVWales
-p499
-aVPembrokeshire
-p500
-aa(lp501
-S'Jem Evans'
-p502
-aS'1887'
-p503
-aS'Halfback'
-p504
-aS'4'
-aS'1'
-aS'2'
-aS'1'
-aS'0'
-aNaS'Cardiff'
-p505
-aVUnited Kingdom
-p506
-aVWales
-p507
-aVCardiff
-p508
-aa(lp509
-S'Albert Hybart'
-p510
-aS'1887'
-p511
-aS'Forward'
-p512
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aNaS'Cardiff'
 p513
 aVUnited Kingdom
 p514
@@ -1301,73 +1286,212 @@ aVWales
 p515
 aVCardiff
 p516
-aa(lp517
-S'Thomas Lockwood'
-p518
-aS'1887'
+aVRadyr
+p517
+aa(lp518
+S'Evan Roberts'
 p519
-aS'Forward'
+aS'1886'
 p520
+aS'Forward'
+p521
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aNaS'Llanelly'
+p522
+aVAustralia
+p523
+aVVictoria
+p524
+aVLoddon Mallee
+p525
+aVShire of Loddon
+p526
+aa(lp527
+S'George Young'
+p528
+aS'1886'
+p529
+aS'Forward'
+p530
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aNaS'Tynemouth'
+p531
+aVUnited Kingdom
+p532
+aVEngland
+p533
+aVNorth East England
+p534
+aVTyne and Wear
+p535
+aa(lp536
+S'Alfred Mathews'
+p537
+aS'1886'
+p538
+aS'Halfback'
+p539
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aNaS'Rhymney'
+p540
+aVUnited Kingdom
+p541
+aVNP22
+p542
+aVWales
+p543
+aVMonmouthshire
+p544
+aa(lp545
+S'Alec Bland'
+p546
+aS'1887'
+p547
+aS'Forward'
+p548
+aS'9'
+aS'4'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'Haverfordwest'
+p549
+aVUnited Kingdom
+p550
+aVWales
+p551
+aVPembrokeshire
+p552
+aVHaverfordwest
+p553
+aa(lp554
+S'Jem Evans'
+p555
+aS'1887'
+p556
+aS'Halfback'
+p557
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aNaS'Cardiff'
+p558
+aVUnited Kingdom
+p559
+aVWales
+p560
+aVCardiff
+p561
+ag9
+aa(lp562
+S'Albert Hybart'
+p563
+aS'1887'
+p564
+aS'Forward'
+p565
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aNaS'Cardiff'
+p566
+aVUnited Kingdom
+p567
+aVWales
+p568
+aVCardiff
+p569
+ag9
+aa(lp570
+S'Thomas Lockwood'
+p571
+aS'1887'
+p572
+aS'Forward'
+p573
 aS'3'
 aS'1'
 aS'1'
 aS'1'
 aS'0'
 aNaS'Great Boughton'
-p521
+p574
 aVUnited Kingdom
-p522
+p575
 aVEngland
-p523
+p576
 aVNorth West England
-p524
-aa(lp525
+p577
+aVCheshire West and Chester
+p578
+aa(lp579
 S'George Bowen'
-p526
+p580
 aS'1887'
-p527
+p581
 aS'Three-quarters'
-p528
+p582
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Morriston'
-p529
+p583
 aVUnited Kingdom
-p530
+p584
 aVWales
-p531
+p585
 aVSwansea
-p532
-aa(lp533
+p586
+aVMorriston
+p587
+aa(lp588
 S'Hugh Hughes'
-p534
+p589
 aS'1887'
-p535
+p590
 aS'Fullback'
-p536
+p591
 aS'2'
 aS'0'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Towyn'
-p537
+p592
 aVUnited Kingdom
-p538
+p593
 aVWales
-p539
+p594
 aVConwy
-p540
-aa(lp541
+p595
+aVTowyn
+p596
+aa(lp597
 S'William Williams'
-p542
+p598
 aS'1887'
-p543
+p599
 aS'Forward'
-p544
+p600
 aS'5'
 aS'2'
 aS'3'
@@ -1378,112 +1502,123 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp545
+aS's'
+aa(lp601
 S'Johnny Lewis'
-p546
+p602
 aS'1887'
-p547
+p603
 aS'Halfback'
-p548
+p604
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aNaS'Llanelly'
-p549
+p605
 aVAustralia
-p550
+p606
 aVVictoria
-p551
+p607
 aVLoddon Mallee
-p552
-aa(lp553
+p608
+aVShire of Loddon
+p609
+aa(lp610
 S'William Towers'
-p554
+p611
 aS'1887'
-p555
+p612
 aS'Forward'
-p556
+p613
 aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'1'
 aNaS'Hartlepool'
-p557
+p614
 aVUnited Kingdom
-p558
+p615
 aVEngland
-p559
+p616
 aVNorth East England
-p560
-aa(lp561
+p617
+aVHartlepool
+p618
+aa(lp619
 S'William Howell'
-p562
+p620
 aS'1888'
-p563
+p621
 aS'Forward'
-p564
+p622
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Swansea'
-p565
+p623
 aVUnited Kingdom
-p566
+p624
 aVWales
-p567
+p625
 aVWest Glamorgan
-p568
-aa(lp569
+p626
+aVSwansea
+p627
+aa(lp628
 S'Price Jenkins-Price'
-p570
+p629
 aS'1888'
-p571
+p630
 aS'Three-quarters'
-p572
+p631
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'1'
 aNaS'Carmarthen'
-p573
+p632
 aVUnited Kingdom
-p574
+p633
 aVWales
-p575
+p634
 aVCarmarthenshire
-p576
-aa(lp577
+p635
+aVCarmarthen
+p636
+aa(lp637
 S'Dick Kedzlie'
-p578
+p638
 aS'1888'
-p579
+p639
 aS'Forward'
-p580
+p640
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Glasgow'
-p581
+p641
 aVUnited Kingdom
-p582
+p642
 aVG
 aVScotland
-p583
-aa(lp584
+p643
+aVGlasgow City
+p644
+aa(lp645
 S'John Meredith'
-p585
+p646
 aS'1888'
-p586
+p647
 aS'Forward'
-p587
+p648
 aS'4'
 aS'2'
 aS'2'
@@ -1491,60 +1626,66 @@ aS'0'
 aS'0'
 aS'0'
 aS'Morriston'
-p588
+p649
 aVUnited Kingdom
-p589
+p650
 aVWales
-p590
+p651
 aVSwansea
-p591
-aa(lp592
+p652
+aVMorriston
+p653
+aa(lp654
 S'Dick Powell'
-p593
+p655
 aS'1888'
-p594
+p656
 aS'Forward'
-p595
+p657
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Monmouth'
-p596
+p658
 aVUnited Kingdom
-p597
+p659
 aVNP25
-p598
+p660
 aVWales
-p599
-aa(lp600
+p661
+aVMonmouthshire
+p662
+aa(lp663
 S'Ned Roberts'
-p601
+p664
 aS'1888'
-p602
+p665
 aS'Fullback'
-p603
+p666
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Llanelly'
-p604
+p667
 aVAustralia
-p605
+p668
 aVVictoria
-p606
+p669
 aVLoddon Mallee
-p607
-aa(lp608
+p670
+aVShire of Loddon
+p671
+aa(lp672
 S'T. Williams'
-p609
+p673
 aS'1888'
-p610
+p674
 aS'Forward'
-p611
+p675
 aS'2'
 aS'1'
 aS'1'
@@ -1554,13 +1695,14 @@ aNaS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp612
+aS's'
+aa(lp676
 S'Charlie Arthur'
-p613
+p677
 aS'1888'
-p614
+p678
 aS'Centre'
-p615
+p679
 aS'3'
 aS'1'
 aS'2'
@@ -1568,20 +1710,22 @@ aS'0'
 aS'0'
 aS'0'
 aS"King's Lynn"
-p616
+p680
 aVUnited Kingdom
-p617
+p681
 aVEngland
-p618
+p682
 aVEast of England
-p619
-aa(lp620
+p683
+aVNorfolk
+p684
+aa(lp685
 S'Charlie Thomas'
-p621
+p686
 aS'1888'
-p622
+p687
 aS'Halfback'
-p623
+p688
 aS'9'
 aS'3'
 aS'5'
@@ -1589,20 +1733,22 @@ aS'1'
 aS'1'
 aS'1'
 aS'Newport'
-p624
+p689
 aVUnited Kingdom
-p625
+p690
 aVNP
-p626
+p691
 aVWales
-p627
-aa(lp628
+p692
+aVMonmouthshire
+p693
+aa(lp694
 S'Norman Biggs'
-p629
+p695
 aS'1888'
-p630
+p696
 aS'Wing'
-p631
+p697
 aS'8'
 aS'4'
 aS'4'
@@ -1610,20 +1756,21 @@ aS'0'
 aS'2'
 aS'4'
 aS'Cardiff'
-p632
+p698
 aVUnited Kingdom
-p633
+p699
 aVWales
-p634
+p700
 aVCardiff
-p635
-aa(lp636
+p701
+ag9
+aa(lp702
 S'Dickie Garrett'
-p637
+p703
 aS'1888'
-p638
+p704
 aS'Centre'
-p639
+p705
 aS'8'
 aS'3'
 aS'4'
@@ -1631,80 +1778,86 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cardiff'
-p640
+p706
 aVUnited Kingdom
-p641
+p707
 aVWales
-p642
+p708
 aVCardiff
-p643
-aa(lp644
+p709
+ag9
+aa(lp710
 S'Dan Griffiths'
-p645
+p711
 aS'1888'
-p646
+p712
 aS'Forward'
-p647
+p713
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Cwmduad'
-p648
+p714
 aS'g'
 aS'n'
 aS'i'
-aa(lp649
+aS's'
+aa(lp715
 S'Jim Hannan'
-p650
+p716
 aS'1888'
-p651
+p717
 aS'Forward'
-p652
+p718
 aS'19'
-p653
+p719
 aS'7'
 aS'11'
-p654
+p720
 aS'1'
 aS'2'
 aS'2'
 aS'Newport'
-p655
+p721
 aVUnited Kingdom
-p656
+p722
 aVNP
-p657
+p723
 aVWales
-p658
-aa(lp659
+p724
+aVMonmouthshire
+p725
+aa(lp726
 S'Charles Harding'
-p660
+p727
 aS'1888'
-p661
+p728
 aS'Forward'
-p662
+p729
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aNaS'Lancs'
-p663
+p730
 aVUnited Kingdom
-p664
+p731
 aVS6 3TB
-p665
+p732
 aVEngland
-p666
-aa(lp667
+p733
+aVYorkshire and the Humber
+p734
+aa(lp735
 S'Syd Nicholls'
-p668
+p736
 aS'1888'
-p669
+p737
 aS'Forward'
-p670
+p738
 aS'4'
 aS'1'
 aS'3'
@@ -1712,20 +1865,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hartpury'
-p671
+p739
 aVUnited Kingdom
-p672
+p740
 aVGL19 3
-p673
+p741
 aVEngland
-p674
-aa(lp675
+p742
+aVSouth West England
+p743
+aa(lp744
 S'George Thomas'
-p676
+p745
 aS'1888'
-p677
+p746
 aS'Wing'
-p678
+p747
 aS'3'
 aS'1'
 aS'1'
@@ -1736,53 +1891,58 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp679
+aS's'
+aa(lp748
 S'Jim Webb'
-p680
+p749
 aS'1888'
-p681
+p750
 aS'Fullback'
-p682
+p751
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Broughton Gifford'
-p683
+p752
 aVUnited Kingdom
-p684
+p753
 aVEngland
-p685
+p754
 aVSouth West England
-p686
-aa(lp687
+p755
+aVWiltshire
+p756
+aa(lp757
 S'Teddy Bishop'
-p688
+p758
 aS'1889'
-p689
+p759
 aS'Centre'
-p690
+p760
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Swansea'
-p691
+p761
 aVUnited Kingdom
-p692
+p762
 aVWales
-p693
+p763
 aVWest Glamorgan
-p694
-aa(lp695
+p764
+aVSwansea
+p765
+aa(lp766
 S'David Evans'
-p696
+p767
 aS'1889'
-p697
+p768
 aS'Forward'
-p698
+p769
 aS'5'
 aS'1'
 aS'3'
@@ -1790,40 +1950,44 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dowlais'
-p699
+p770
 aVUnited Kingdom
-p700
+p771
 aVNP
-p701
+p772
 aVWales
-p702
-aa(lp703
+p773
+aVNewport
+p774
+aa(lp775
 S'Rosser Evans'
-p704
+p776
 aS'1889'
-p705
+p777
 aS'Halfback'
-p706
+p778
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Aberdare'
-p707
+p779
 aVUnited Kingdom
-p708
+p780
 aVWales
-p709
+p781
 aVMid Glamorgan
-p710
-aa(lp711
+p782
+aVAberdare
+p783
+aa(lp784
 S'Rowley Thomas'
-p712
+p785
 aS'1889'
-p713
+p786
 aS'Forward'
-p714
+p787
 aS'7'
 aS'1'
 aS'5'
@@ -1831,105 +1995,115 @@ aS'1'
 aS'0'
 aS'0'
 aS'Henllan Amgoed'
-p715
+p788
 aVUnited Kingdom
-p716
+p789
 aVWales
-p717
+p790
 aVCarmarthenshire
-p718
-aa(lp719
+p791
+aVHenllan Amgoed
+p792
+aa(lp793
 S'Abel Davies'
-p720
+p794
 aS'1889'
-p721
+p795
 aS'Wing'
-p722
+p796
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Narberth'
-p723
+p797
 aVUnited Kingdom
-p724
+p798
 aVWales
-p725
+p799
 aVPembrokeshire
-p726
-aa(lp727
+p800
+aVNarberth
+p801
+aa(lp802
 S'Giotto Griffiths'
-p728
+p803
 aS'1889'
-p729
+p804
 aS'Halfback'
-p730
+p805
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Llanelly'
-p731
+p806
 aVAustralia
-p732
+p807
 aVVictoria
-p733
+p808
 aVLoddon Mallee
-p734
-aa(lp735
+p809
+aVShire of Loddon
+p810
+aa(lp811
 S'Tom Morgan'
-p736
+p812
 aS'1889'
-p737
+p813
 aS'Centre'
-p738
+p814
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aNaS'Llannon'
-p739
+p815
 aVUnited Kingdom
-p740
+p816
 aVWales
-p741
+p817
 aVCeredigion
-p742
-aa(lp743
+p818
+aVLlannon
+p819
+aa(lp820
 S'Billy Bancroft'
-p744
+p821
 aS'1890'
-p745
+p822
 aS'Fullback'
-p746
+p823
 aS'33'
-p747
+p824
 aS'16'
-p748
+p825
 aS'16'
-p749
+p826
 aS'1'
 aS'0'
 aS'60'
-p750
+p827
 aS'Swansea'
-p751
+p828
 aVUnited Kingdom
-p752
+p829
 aVWales
-p753
+p830
 aVWest Glamorgan
-p754
-aa(lp755
+p831
+aVSwansea
+p832
+aa(lp833
 S'Evan James'
-p756
+p834
 aS'1890'
-p757
+p835
 aS'Halfback'
-p758
+p836
 aS'5'
 aS'2'
 aS'3'
@@ -1937,20 +2111,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llansamlet'
-p759
+p837
 aVUnited Kingdom
-p760
+p838
 aVWales
-p761
+p839
 aVSwansea
-p762
-aa(lp763
+p840
+aVTregof
+p841
+aa(lp842
 S'Percy Lloyd'
-p764
+p843
 aS'1890'
-p765
+p844
 aS'Wing'
-p766
+p845
 aS'4'
 aS'2'
 aS'2'
@@ -1958,20 +2134,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ammanford'
-p767
+p846
 aVUnited Kingdom
-p768
+p847
 aVWales
-p769
+p848
 aVCarmarthenshire
-p770
-aa(lp771
+p849
+aVAmmanford
+p850
+aa(lp851
 S'Walter Rice-Evans'
-p772
+p852
 aS'1890'
-p773
+p853
 aS'Forward'
-p774
+p854
 aS'3'
 aS'0'
 aS'3'
@@ -1979,20 +2157,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p775
+p855
 aVUnited Kingdom
-p776
+p856
 aVWales
-p777
+p857
 aVWest Glamorgan
-p778
-aa(lp779
+p858
+aVNeath
+p859
+aa(lp860
 S'Stephen Thomas'
-p780
+p861
 aS'1890'
-p781
+p862
 aS'Forward'
-p782
+p863
 aS'3'
 aS'2'
 aS'1'
@@ -2000,42 +2180,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kidwelly'
-p783
+p864
 aVUnited Kingdom
-p784
+p865
 aVWales
-p785
+p866
 aVCarmarthenshire
-p786
-aa(lp787
+p867
+aVKidwelly
+p868
+aa(lp869
 S'Thomas Graham'
-p788
+p870
 aS'1890'
-p789
+p871
 aS'Forward'
-p790
+p872
 aS'12'
-p791
+p873
 aS'5'
 aS'6'
 aS'1'
 aS'1'
 aS'3'
 aS'Newcastle-upon-Tyne'
-p792
+p874
 aVUnited Kingdom
-p793
+p875
 aVEngland
-p794
+p876
 aVNorth East England
-p795
-aa(lp796
+p877
+aVTyne and Wear
+p878
+aa(lp879
 S'Hugh Ingledew'
-p797
+p880
 aS'1890'
-p798
+p881
 aS'Halfback'
-p799
+p882
 aS'3'
 aS'0'
 aS'2'
@@ -2043,20 +2227,21 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cardiff'
-p800
+p883
 aVUnited Kingdom
-p801
+p884
 aVWales
-p802
+p885
 aVCardiff
-p803
-aa(lp804
+p886
+ag9
+aa(lp887
 S'Percy Bennett'
-p805
+p888
 aS'1891'
-p806
+p889
 aS'Forward'
-p807
+p890
 aS'4'
 aS'0'
 aS'4'
@@ -2064,20 +2249,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cornwall'
-p808
+p891
 aVUnited Kingdom
-p809
+p892
 aVEngland
-p810
+p893
 aVSouth West England
-p811
-aa(lp812
+p894
+aVCornwall
+p895
+aa(lp896
 S'Harry Packer'
-p813
+p897
 aS'1891'
-p814
+p898
 aS'Forward'
-p815
+p899
 aS'7'
 aS'3'
 aS'4'
@@ -2085,43 +2272,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Chipping Norton'
-p816
+p900
 aVUnited Kingdom
-p817
+p901
 aVEngland
-p818
+p902
 aVSouth East
-p819
-aa(lp820
+p903
+aVOxon
+p904
+aa(lp905
 S'Tom Pearson'
-p821
+p906
 aS'1891'
-p822
+p907
 aS'Wing'
-p823
+p908
 aS'13'
-p824
+p909
 aS'6'
 aS'7'
 aS'0'
 aS'4'
 aS'10'
-p825
+p910
 aS'Bombay'
-p826
+p911
 aVIndia
-p827
+p912
 aVMaharashtra
-p828
+p913
 aVGreater Bombay
-p829
-aa(lp830
+p914
+aVMumbai
+p915
+aa(lp916
 S'Edward Pegge'
-p831
+p917
 aS'1891'
-p832
+p918
 aS'Forward'
-p833
+p919
 aS'1'
 aS'0'
 aS'1'
@@ -2129,20 +2320,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Briton Ferry'
-p834
+p920
 aVUnited Kingdom
-p835
+p921
 aVSA11
-p836
+p922
 aVWales
-p837
-aa(lp838
+p923
+aVWest Glamorgan
+p924
+aa(lp925
 S'David Daniel'
-p839
+p926
 aS'1891'
-p840
+p927
 aS'Forward'
-p841
+p928
 aS'8'
 aS'3'
 aS'5'
@@ -2150,20 +2343,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p842
+p929
 aVAustralia
-p843
+p930
 aVVictoria
-p844
+p931
 aVLoddon Mallee
-p845
-aa(lp846
+p932
+aVShire of Loddon
+p933
+aa(lp934
 S'Billy McCutcheon'
-p847
+p935
 aS'1891'
-p848
+p936
 aS'Wing'
-p849
+p937
 aS'7'
 aS'3'
 aS'4'
@@ -2171,20 +2366,22 @@ aS'0'
 aS'1'
 aS'2'
 aS'Swansea'
-p850
+p938
 aVUnited Kingdom
-p851
+p939
 aVWales
-p852
+p940
 aVWest Glamorgan
-p853
-aa(lp854
+p941
+aVSwansea
+p942
+aa(lp943
 S'Ralph Sweet-Escott'
-p855
+p944
 aS'1891'
-p856
+p945
 aS'Halfback'
-p857
+p946
 aS'3'
 aS'1'
 aS'2'
@@ -2192,20 +2389,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Staffs'
-p858
+p947
 aVKenya
-p859
+p948
 aV00200
-p860
+p949
 aVNairobi
-p861
-aa(lp862
+p950
+aVEastleigh
+p951
+aa(lp952
 S'Tom Deacon'
-p863
+p953
 aS'1891'
-p864
+p954
 aS'Forward'
-p865
+p955
 aS'4'
 aS'1'
 aS'3'
@@ -2213,20 +2412,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p866
+p956
 aVUnited Kingdom
-p867
+p957
 aVWales
-p868
+p958
 aVWest Glamorgan
-p869
-aa(lp870
+p959
+aVSwansea
+p960
+aa(lp961
 S'David James'
-p871
+p962
 aS'1891'
-p872
+p963
 aS'Halfback'
-p873
+p964
 aS'4'
 aS'2'
 aS'2'
@@ -2234,42 +2435,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p874
+p965
 aVUnited Kingdom
-p875
+p966
 aVWales
-p876
+p967
 aVWest Glamorgan
-p877
-aa(lp878
+p968
+aVSwansea
+p969
+aa(lp970
 S'Boomer Nicholl'
-p879
+p971
 aS'1891'
-p880
+p972
 aS'Forward'
-p881
+p973
 aS'15'
-p882
+p974
 aS'7'
 aS'8'
 aS'0'
 aS'0'
 aS'0'
 aS'Llanegwad'
-p883
+p975
 aVUnited Kingdom
-p884
+p976
 aVWales
-p885
+p977
 aVCarmarthenshire
-p886
-aa(lp887
+p978
+aVLlanegwad
+p979
+aa(lp980
 S'David Samuel'
-p888
+p981
 aS'1891'
-p889
+p982
 aS'Forward'
-p890
+p983
 aS'2'
 aS'2'
 aS'0'
@@ -2277,20 +2482,22 @@ aS'0'
 aS'1'
 aS'1'
 aS'Swansea'
-p891
+p984
 aVUnited Kingdom
-p892
+p985
 aVWales
-p893
+p986
 aVWest Glamorgan
-p894
-aa(lp895
+p987
+aVSwansea
+p988
+aa(lp989
 S'John Samuel'
-p896
+p990
 aS'1891'
-p897
+p991
 aS'Forward'
-p898
+p992
 aS'1'
 aS'1'
 aS'0'
@@ -2298,64 +2505,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p899
+p993
 aVUnited Kingdom
-p900
+p994
 aVWales
-p901
+p995
 aVWest Glamorgan
-p902
-aa(lp903
+p996
+aVSwansea
+p997
+aa(lp998
 S'Arthur Boucher'
-p904
+p999
 aS'1892'
-p905
+p1000
 aS'Forward'
-p906
+p1001
 aS'13'
-p907
+p1002
 aS'5'
 aS'8'
 aS'0'
 aS'1'
 aS'3'
 aS'Salop'
-p908
+p1003
 aVUnited Kingdom
-p909
+p1004
 aVEngland
-p910
+p1005
 aVWest Midlands
-p911
-aa(lp912
+p1006
+aVShropshire
+p1007
+aa(lp1008
 S'Frank Mills'
-p913
+p1009
 aS'1892'
-p914
+p1010
 aS'Forward'
-p915
+p1011
 aS'13'
-p916
+p1012
 aS'5'
 aS'8'
 aS'0'
 aS'0'
 aS'0'
 aS'Mountain Ash'
-p917
+p1013
 aVUnited Kingdom
-p918
+p1014
 aVCF45
-p919
+p1015
 aVWales
-p920
-aa(lp921
+p1016
+aVMid Glamorgan
+p1017
+aa(lp1018
 S'Percy Phillips'
-p922
+p1019
 aS'1892'
-p923
+p1020
 aS'Fly-half'
-p924
+p1021
 aS'6'
 aS'4'
 aS'2'
@@ -2363,20 +2576,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Machen'
-p925
+p1022
 aVUnited Kingdom
-p926
+p1023
 aVWales
-p927
+p1024
 aVCaerphilly
-p928
-aa(lp929
+p1025
+aVMachen
+p1026
+aa(lp1027
 S'George Rowles'
-p930
+p1028
 aS'1892'
-p931
+p1029
 aS'Halfback'
-p932
+p1030
 aS'1'
 aS'0'
 aS'1'
@@ -2384,42 +2599,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypool'
-p933
+p1031
 aVUnited Kingdom
-p934
+p1032
 aVNP4
-p935
+p1033
 aVWales
-p936
-aa(lp937
+p1034
+aVMonmouthshire
+p1035
+aa(lp1036
 S'Wallace Watts'
-p938
+p1037
 aS'1892'
-p939
+p1038
 aS'Forward'
-p940
+p1039
 aS'12'
-p941
+p1040
 aS'5'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'Chipping Sodbury'
-p942
+p1041
 aVUnited Kingdom
-p943
+p1042
 aVBS37
-p944
+p1043
 aVEngland
-p945
-aa(lp946
+p1044
+aVSouth West England
+p1045
+aa(lp1046
 S'Conway Rees'
-p947
+p1047
 aS'1892'
-p948
+p1048
 aS'Centre'
-p949
+p1049
 aS'3'
 aS'1'
 aS'2'
@@ -2427,20 +2646,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llandovery'
-p950
+p1050
 aVUnited Kingdom
-p951
+p1051
 aVWales
-p952
+p1052
 aVCarmarthenshire
-p953
-aa(lp954
+p1053
+aVLlandovery
+p1054
+aa(lp1055
 S'Harry Day'
-p955
+p1056
 aS'1892'
-p956
+p1057
 aS'Forward'
-p957
+p1058
 aS'5'
 aS'3'
 aS'2'
@@ -2448,20 +2669,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p958
+p1059
 aVUnited Kingdom
-p959
+p1060
 aVNP
-p960
+p1061
 aVWales
-p961
-aa(lp962
+p1062
+aVMonmouthshire
+p1063
+aa(lp1064
 S'Bert Gould'
-p963
+p1065
 aS'1892'
-p964
+p1066
 aS'Centre'
-p965
+p1067
 aS'3'
 aS'2'
 aS'1'
@@ -2469,20 +2692,22 @@ aS'0'
 aS'2'
 aS'4'
 aS'Newport'
-p966
+p1068
 aVUnited Kingdom
-p967
+p1069
 aVNP
-p968
+p1070
 aVWales
-p969
-aa(lp970
+p1071
+aVMonmouthshire
+p1072
+aa(lp1073
 S'Frederick Nicholls'
-p971
+p1074
 aS'1892'
-p972
+p1075
 aS'Wing'
-p973
+p1076
 aS'1'
 aS'0'
 aS'1'
@@ -2490,20 +2715,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Paddington'
-p974
+p1077
 aVUnited Kingdom
-p975
+p1078
 aVEngland
-p976
+p1079
 aVGreater London
-p977
-aa(lp978
+p1080
+aVLondon
+p1081
+aa(lp1082
 S'Fred Parfitt'
-p979
+p1083
 aS'1893'
-p980
+p1084
 aS'Scrum-half'
-p981
+p1085
 aS'9'
 aS'5'
 aS'4'
@@ -2511,20 +2738,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Pontnewydd'
-p982
+p1086
 aVUnited Kingdom
-p983
+p1087
 aVNP44
-p984
+p1088
 aVWales
-p985
-aa(lp986
+p1089
+aVTorfaen
+p1090
+aa(lp1091
 S'Dai Fitzgerald'
-p987
+p1092
 aS'1894'
-p988
+p1093
 aS'Centre'
-p989
+p1094
 aS'2'
 aS'1'
 aS'1'
@@ -2532,20 +2761,21 @@ aS'0'
 aS'1'
 aS'7'
 aS'Cardiff'
-p990
+p1095
 aVUnited Kingdom
-p991
+p1096
 aVWales
-p992
+p1097
 aVCardiff
-p993
-aa(lp994
+p1098
+ag9
+aa(lp1099
 S'William Thomas'
-p995
+p1100
 aS'1894'
-p996
+p1101
 aS'Wing'
-p997
+p1102
 aS'3'
 aS'2'
 aS'1'
@@ -2553,20 +2783,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Brecknock'
-p998
+p1103
 aVUnited Kingdom
-p999
+p1104
 aVN7 9LN
-p1000
+p1105
 aVEngland
-p1001
-aa(lp1002
+p1106
+aVGreater London
+p1107
+aa(lp1108
 S'Jack Elliot'
-p1003
+p1109
 aS'1894'
-p1004
+p1110
 aS'Scrum-half'
-p1005
+p1111
 aS'3'
 aS'1'
 aS'2'
@@ -2574,20 +2806,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'S Shields'
-p1006
+p1112
 aVUnited Kingdom
-p1007
+p1113
 aVEngland
-p1008
+p1114
 aVNorth East England
-p1009
-aa(lp1010
+p1115
+aVTyne and Wear
+p1116
+aa(lp1117
 S'Fred Hutchinson'
-p1011
+p1118
 aS'1894'
-p1012
+p1119
 aS'Forward'
-p1013
+p1120
 aS'3'
 aS'1'
 aS'2'
@@ -2595,20 +2829,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Maesteg'
-p1014
+p1121
 aVUnited Kingdom
-p1015
+p1122
 aVWales
-p1016
+p1123
 aVBridgend
-p1017
-aa(lp1018
+p1124
+aVMaesteg
+p1125
+aa(lp1126
 S'David Nicholl'
-p1019
+p1127
 aS'1894'
-p1020
+p1128
 aS'Forward'
-p1021
+p1129
 aS'1'
 aS'0'
 aS'1'
@@ -2616,20 +2852,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanegwad'
-p1022
+p1130
 aVUnited Kingdom
-p1023
+p1131
 aVWales
-p1024
+p1132
 aVCarmarthenshire
-p1025
-aa(lp1026
+p1133
+aVLlanegwad
+p1134
+aa(lp1135
 S'Owen Badger'
-p1027
+p1136
 aS'1895'
-p1028
+p1137
 aS'Centre'
-p1029
+p1138
 aS'4'
 aS'1'
 aS'3'
@@ -2637,20 +2875,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p1030
+p1139
 aVAustralia
-p1031
+p1140
 aVVictoria
-p1032
+p1141
 aVLoddon Mallee
-p1033
-aa(lp1034
+p1142
+aVShire of Loddon
+p1143
+aa(lp1144
 S'Selwyn Biggs'
-p1035
+p1145
 aS'1895'
-p1036
+p1146
 aS'Fly-half'
-p1037
+p1147
 aS'9'
 aS'4'
 aS'5'
@@ -2658,20 +2898,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p1038
+p1148
 aVUnited Kingdom
-p1039
+p1149
 aVWales
-p1040
+p1150
 aVCardiff
-p1041
-aa(lp1042
+p1151
+ag9
+aa(lp1152
 S'Ben Davies'
-p1043
+p1153
 aS'1895'
-p1044
+p1154
 aS'Halfback'
-p1045
+p1155
 aS'2'
 aS'0'
 aS'2'
@@ -2679,20 +2920,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p1046
+p1156
 aVAustralia
-p1047
+p1157
 aVVictoria
-p1048
+p1158
 aVLoddon Mallee
-p1049
-aa(lp1050
+p1159
+aVShire of Loddon
+p1160
+aa(lp1161
 S'William Elsey'
-p1051
+p1162
 aS'1895'
-p1052
+p1163
 aS'Forward'
-p1053
+p1164
 aS'1'
 aS'0'
 aS'1'
@@ -2700,20 +2943,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Lambeth'
-p1054
+p1165
 aVUnited Kingdom
-p1055
+p1166
 aVEngland
-p1056
+p1167
 aVGreater London
-p1057
-aa(lp1058
+p1168
+aVLondon
+p1169
+aa(lp1170
 S'Tom Jackson'
-p1059
+p1171
 aS'1895'
-p1060
+p1172
 aS'Forward'
-p1061
+p1173
 aS'1'
 aS'0'
 aS'1'
@@ -2721,20 +2966,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p1062
+p1174
 aVUnited Kingdom
-p1063
+p1175
 aVWales
-p1064
+p1176
 aVWest Glamorgan
-p1065
-aa(lp1066
+p1177
+aVSwansea
+p1178
+aa(lp1179
 S'Ernie George'
-p1067
+p1180
 aS'1895'
-p1068
+p1181
 aS'Forward'
-p1069
+p1182
 aS'3'
 aS'1'
 aS'2'
@@ -2742,20 +2989,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llantwit Major'
-p1070
+p1183
 aVUnited Kingdom
-p1071
+p1184
 aVCF61
-p1072
+p1185
 aVWales
-p1073
-aa(lp1074
+p1186
+aVVale of Glamorgan
+p1187
+aa(lp1188
 S'Evan Lloyd'
-p1075
+p1189
 aS'1895'
-p1076
+p1190
 aS'Wing'
-p1077
+p1191
 aS'1'
 aS'0'
 aS'1'
@@ -2763,20 +3012,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p1078
+p1192
 aVAustralia
-p1079
+p1193
 aVVictoria
-p1080
+p1194
 aVLoddon Mallee
-p1081
-aa(lp1082
+p1195
+aVShire of Loddon
+p1196
+aa(lp1197
 S'Tom Pook'
-p1083
+p1198
 aS'1895'
-p1084
+p1199
 aS'Forward'
-p1085
+p1200
 aS'1'
 aS'0'
 aS'1'
@@ -2784,20 +3035,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Plymouth'
-p1086
+p1201
 aVUnited Kingdom
-p1087
+p1202
 aVEngland
-p1088
+p1203
 aVSouth West England
-p1089
-aa(lp1090
+p1204
+aVDevon
+p1205
+aa(lp1206
 S'Albert Jenkin'
-p1091
+p1207
 aS'1895'
-p1092
+p1208
 aS'Forward'
-p1093
+p1209
 aS'2'
 aS'1'
 aS'1'
@@ -2805,20 +3058,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hants'
-p1094
+p1210
 aVCanada
-p1095
+p1211
 aVNova Scotia
-p1096
+p1212
 aVHants County
-p1097
-aa(lp1098
+p1213
+ag9
+aa(lp1214
 S'Dai Morgan'
-p1099
+p1215
 aS'1895'
-p1100
+p1216
 aS'Fly-half'
-p1101
+p1217
 aS'2'
 aS'1'
 aS'1'
@@ -2826,20 +3080,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p1102
+p1218
 aVAustralia
-p1103
+p1219
 aVVictoria
-p1104
+p1220
 aVLoddon Mallee
-p1105
-aa(lp1106
+p1221
+aVShire of Loddon
+p1222
+aa(lp1223
 S'Cliff Bowen'
-p1107
+p1224
 aS'1896'
-p1108
+p1225
 aS'Wing'
-p1109
+p1226
 aS'4'
 aS'2'
 aS'2'
@@ -2847,20 +3103,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Morriston'
-p1110
+p1227
 aVUnited Kingdom
-p1111
+p1228
 aVWales
-p1112
+p1229
 aVSwansea
-p1113
-aa(lp1114
+p1230
+aVMorriston
+p1231
+aa(lp1232
 S'Bert Dauncey'
-p1115
+p1233
 aS'1896'
-p1116
+p1234
 aS'Wing'
-p1117
+p1235
 aS'3'
 aS'1'
 aS'2'
@@ -2868,20 +3126,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypool'
-p1118
+p1236
 aVUnited Kingdom
-p1119
+p1237
 aVNP4
-p1120
+p1238
 aVWales
-p1121
-aa(lp1122
+p1239
+aVMonmouthshire
+p1240
+aa(lp1241
 S'Sam Ramsay'
-p1123
+p1242
 aS'1896'
-p1124
+p1243
 aS'Forward'
-p1125
+p1244
 aS'2'
 aS'0'
 aS'1'
@@ -2889,20 +3149,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cumbernauld'
-p1126
+p1245
 aVUnited Kingdom
-p1127
+p1246
 aVScotland
-p1128
+p1247
 aVNorth Lanarkshire
-p1129
-aa(lp1130
+p1248
+aVCumbernauld
+p1249
+aa(lp1250
 S'William Cope'
-p1131
+p1251
 aS'1896'
-p1132
+p1252
 aS'Forward'
-p1133
+p1253
 aS'1'
 aS'1'
 aS'0'
@@ -2910,20 +3172,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Roath'
-p1134
+p1254
 aVUnited Kingdom
-p1135
+p1255
 aVWales
-p1136
+p1256
 aVCardiff
-p1137
-aa(lp1138
+p1257
+aVRoath
+p1258
+aa(lp1259
 S'Barry Davies'
-p1139
+p1260
 aS'1896'
-p1140
+p1261
 aS'Forward'
-p1141
+p1262
 aS'1'
 aS'1'
 aS'0'
@@ -2931,17 +3195,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1142
+p1263
 aS'g'
 aS'n'
 aS'i'
-aa(lp1143
+aS's'
+aa(lp1264
 S'David Evans'
-p1144
+p1265
 aS'1896'
-p1145
+p1266
 aS'Forward'
-p1146
+p1267
 aS'4'
 aS'2'
 aS'2'
@@ -2949,20 +3214,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Maenclochog'
-p1147
+p1268
 aVUnited Kingdom
-p1148
+p1269
 aVWales
-p1149
+p1270
 aVPembrokeshire
-p1150
-aa(lp1151
+p1271
+aVMaenclochog
+p1272
+aa(lp1273
 S'Jack Evans'
-p1152
+p1274
 aS'1896'
-p1153
+p1275
 aS'Forward'
-p1154
+p1276
 aS'3'
 aS'2'
 aS'1'
@@ -2970,20 +3237,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ammanford'
-p1155
+p1277
 aVUnited Kingdom
-p1156
+p1278
 aVWales
-p1157
+p1279
 aVCarmarthenshire
-p1158
-aa(lp1159
+p1280
+aVAmmanford
+p1281
+aa(lp1282
 S'Bill Morris'
-p1160
+p1283
 aS'1896'
-p1161
+p1284
 aS'Forward'
-p1162
+p1285
 aS'3'
 aS'2'
 aS'1'
@@ -2991,66 +3260,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p1163
+p1286
 aVAustralia
-p1164
+p1287
 aVVictoria
-p1165
+p1288
 aVLoddon Mallee
-p1166
-aa(lp1167
+p1289
+aVShire of Loddon
+p1290
+aa(lp1291
 S'Gwyn Nicholls'
-p1168
+p1292
 aS'1896'
-p1169
+p1293
 aS'Centre'
-p1170
+p1294
 aS'28'
-p1171
+p1295
 aS'19'
-p1172
+p1296
 aS'8'
 aS'1'
 aS'5'
 aS'19'
-p1173
+p1297
 aS'Westbury-on-Severn'
-p1174
+p1298
 aVUnited Kingdom
-p1175
+p1299
 aVGL14 1
-p1176
+p1300
 aVEngland
-p1177
-aa(lp1178
+p1301
+aVSouth West England
+p1302
+aa(lp1303
 S'Llewellyn Lloyd'
-p1179
+p1304
 aS'1896'
-p1180
+p1305
 aS'Fly-half'
-p1181
+p1306
 aS'12'
-p1182
+p1307
 aS'7'
 aS'5'
 aS'0'
 aS'3'
 aS'9'
 aS'Newport'
-p1183
+p1308
 aVUnited Kingdom
-p1184
+p1309
 aVNP
-p1185
+p1310
 aVWales
-p1186
-aa(lp1187
+p1311
+aVMonmouthshire
+p1312
+aa(lp1313
 S'Fred Miller'
-p1188
+p1314
 aS'1896'
-p1189
+p1315
 aS'Forward'
-p1190
+p1316
 aS'7'
 aS'5'
 aS'2'
@@ -3058,20 +3333,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Derby'
-p1191
+p1317
 aVUnited Kingdom
-p1192
+p1318
 aVEngland
-p1193
+p1319
 aVEast Midlands
-p1194
-aa(lp1195
+p1320
+aVDerbyshire
+p1321
+aa(lp1322
 S'Fred Cornish'
-p1196
+p1323
 aS'1897'
-p1197
+p1324
 aS'Forward'
-p1198
+p1325
 aS'4'
 aS'2'
 aS'2'
@@ -3079,20 +3356,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Somerse'
-p1199
+p1326
 aVUnited Kingdom
-p1200
+p1327
 aVGL14
-p1201
+p1328
 aVEngland
-p1202
-aa(lp1203
+p1329
+aVSouth West England
+p1330
+aa(lp1331
 S'Dick Hellings'
-p1204
+p1332
 aS'1897'
-p1205
+p1333
 aS'Forward'
-p1206
+p1334
 aS'9'
 aS'5'
 aS'4'
@@ -3100,20 +3379,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Tiverton'
-p1207
+p1335
 aVUnited Kingdom
-p1208
+p1336
 aVEngland
-p1209
+p1337
 aVSouth West England
-p1210
-aa(lp1211
+p1338
+aVDevon
+p1339
+aa(lp1340
 S'Dan Jones'
-p1212
+p1341
 aS'1897'
-p1213
+p1342
 aS'Halfback'
-p1214
+p1343
 aS'1'
 aS'1'
 aS'0'
@@ -3121,20 +3402,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Taibach'
-p1215
+p1344
 aVUnited Kingdom
-p1216
+p1345
 aVWales
-p1217
+p1346
 aVNeath Port Talbot
-p1218
-aa(lp1219
+p1347
+aVPort Talbot
+p1348
+aa(lp1349
 S'Jack Rapps'
-p1220
+p1350
 aS'1897'
-p1221
+p1351
 aS'Forward'
-p1222
+p1352
 aS'1'
 aS'1'
 aS'0'
@@ -3142,20 +3425,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llantrisant'
-p1223
+p1353
 aVUnited Kingdom
-p1224
+p1354
 aVWales
-p1225
+p1355
 aVRhondda Cynon Taf
-p1226
-aa(lp1227
+p1356
+aVLlantrisant
+p1357
+aa(lp1358
 S'Billy Alexander'
-p1228
+p1359
 aS'1898'
-p1229
+p1360
 aS'Forward'
-p1230
+p1361
 aS'7'
 aS'3'
 aS'4'
@@ -3163,20 +3448,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Glynneath'
-p1231
+p1362
 aVUnited Kingdom
-p1232
+p1363
 aVCF37 1SY
-p1233
+p1364
 aVWales
-p1234
-aa(lp1235
+p1365
+aVRhondda Cynon Taf
+p1366
+aa(lp1367
 S'Joe Booth'
-p1236
+p1368
 aS'1898'
-p1237
+p1369
 aS'Forward'
-p1238
+p1370
 aS'1'
 aS'1'
 aS'0'
@@ -3184,43 +3471,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Blaenavon'
-p1239
+p1371
 aVUnited Kingdom
-p1240
+p1372
 aVNP4
-p1241
+p1373
 aVWales
-p1242
-aa(lp1243
+p1374
+aVMonmouthshire
+p1375
+aa(lp1376
 S'George Boots'
-p1244
+p1377
 aS'1898'
-p1245
+p1378
 aS'Forward'
-p1246
+p1379
 aS'16'
-p1247
+p1380
 aS'11'
-p1248
+p1381
 aS'4'
 aS'1'
 aS'1'
 aS'3'
 aS'Aberbeeg'
-p1249
+p1382
 aVUnited Kingdom
-p1250
+p1383
 aVNP13 1
-p1251
+p1384
 aVWales
-p1252
-aa(lp1253
+p1385
+aVBlaenau Gwent
+p1386
+aa(lp1387
 S'Hopkin Davies'
-p1254
+p1388
 aS'1898'
-p1255
+p1389
 aS'Lock'
-p1256
+p1390
 aS'4'
 aS'2'
 aS'2'
@@ -3228,20 +3519,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Clydach'
-p1257
+p1391
 aVUnited Kingdom
-p1258
+p1392
 aVWales
-p1259
+p1393
 aVMonmouthshire
-p1260
-aa(lp1261
+p1394
+aVClydach
+p1395
+aa(lp1396
 S'Tom Dobson'
-p1262
+p1397
 aS'1898'
-p1263
+p1398
 aS'Forward'
-p1264
+p1399
 aS'4'
 aS'2'
 aS'2'
@@ -3249,42 +3542,46 @@ aS'0'
 aS'1'
 aS'3'
 aS'Caithness'
-p1265
+p1400
 aVUnited Kingdom
-p1266
+p1401
 aVScotland
-p1267
+p1402
 aVHighland
-p1268
-aa(lp1269
+p1403
+aVCaithness
+p1404
+aa(lp1405
 S'Viv Huzzey'
-p1270
+p1406
 aS'1898'
-p1271
+p1407
 aS'Wing'
-p1272
+p1408
 aS'5'
 aS'2'
 aS'3'
 aS'0'
 aS'4'
 aS'16'
-p1273
+p1409
 aS'Varteg Hill'
-p1274
+p1410
 aVUnited Kingdom
-p1275
+p1411
 aVWales
-p1276
+p1412
 aVPowys
-p1277
-aa(lp1278
+p1413
+aVGurnos
+p1414
+aa(lp1415
 S'Pussy Jones'
-p1279
+p1416
 aS'1898'
-p1280
+p1417
 aS'Centre'
-p1281
+p1418
 aS'2'
 aS'1'
 aS'1'
@@ -3295,13 +3592,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1282
+aS's'
+aa(lp1419
 S'Jere Blake'
-p1283
+p1420
 aS'1899'
-p1284
+p1421
 aS'Forward'
-p1285
+p1422
 aS'9'
 aS'6'
 aS'3'
@@ -3309,92 +3607,99 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p1286
+p1423
 aVUnited Kingdom
-p1287
+p1424
 aVWales
-p1288
+p1425
 aVCardiff
-p1289
-aa(lp1290
+p1426
+ag9
+aa(lp1427
 S'Alfred Brice'
-p1291
+p1428
 aS'1899'
-p1292
+p1429
 aS'Forward'
-p1293
+p1430
 aS'18'
-p1294
+p1431
 aS'12'
-p1295
+p1432
 aS'5'
 aS'1'
 aS'2'
 aS'8'
 aS'Somerset'
-p1296
+p1433
 aVUnited Kingdom
-p1297
+p1434
 aVEngland
-p1298
+p1435
 aVSouth West England
-p1299
-aa(lp1300
+p1436
+aVSomerset
+p1437
+aa(lp1438
 S'Jehoida Hodges'
-p1301
+p1439
 aS'1899'
-p1302
+p1440
 aS'Forward'
-p1303
+p1441
 aS'23'
-p1304
+p1442
 aS'17'
-p1305
+p1443
 aS'5'
 aS'1'
 aS'6'
 aS'18'
-p1306
+p1444
 aS'Risca'
-p1307
+p1445
 aVUnited Kingdom
-p1308
+p1446
 aVNP11
-p1309
+p1447
 aVWales
-p1310
-aa(lp1311
+p1448
+aVMonmouthshire
+p1449
+aa(lp1450
 S'Willie Llewellyn'
-p1312
+p1451
 aS'1899'
-p1313
+p1452
 aS'Wing'
-p1314
+p1453
 aS'24'
-p1315
+p1454
 aS'18'
-p1316
+p1455
 aS'5'
 aS'1'
 aS'20'
-p1317
+p1456
 aS'60'
-p1318
+p1457
 aS'Tonypandy'
-p1319
+p1458
 aVUnited Kingdom
-p1320
+p1459
 aVWales
-p1321
+p1460
 aVRhondda Cynon Taf
-p1322
-aa(lp1323
+p1461
+aVTonypandy
+p1462
+aa(lp1463
 S'Will Parker'
-p1324
+p1464
 aS'1899'
-p1325
+p1465
 aS'Forward'
-p1326
+p1466
 aS'2'
 aS'1'
 aS'1'
@@ -3402,20 +3707,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p1327
+p1467
 aVUnited Kingdom
-p1328
+p1468
 aVWales
-p1329
+p1469
 aVWest Glamorgan
-p1330
-aa(lp1331
+p1470
+aVSwansea
+p1471
+aa(lp1472
 S'Fred Scrine'
-p1332
+p1473
 aS'1899'
-p1333
+p1474
 aS'Forward'
-p1334
+p1475
 aS'3'
 aS'2'
 aS'1'
@@ -3423,20 +3730,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p1335
+p1476
 aVUnited Kingdom
-p1336
+p1477
 aVWales
-p1337
+p1478
 aVWest Glamorgan
-p1338
-aa(lp1339
+p1479
+aVSwansea
+p1480
+aa(lp1481
 S'Reg Skrimshire'
-p1340
+p1482
 aS'1899'
-p1341
+p1483
 aS'Centre'
-p1342
+p1484
 aS'6'
 aS'1'
 aS'3'
@@ -3444,38 +3753,41 @@ aS'2'
 aS'1'
 aS'3'
 aS'Crickhowell'
-p1343
+p1485
 aVUnited Kingdom
-p1344
+p1486
 aVWales
-p1345
+p1487
 aVPowys
-p1346
-aa(lp1347
+p1488
+aVCrickhowell
+p1489
+aa(lp1490
 S'George Davies'
-p1348
+p1491
 aS'1900'
-p1349
+p1492
 aS'Centre'
-p1350
+p1493
 aS'9'
 aS'8'
 aS'1'
 aS'0'
 aS'1'
 aS'11'
-p1351
+p1494
 aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1352
+aS's'
+aa(lp1495
 S'Louis Phillips'
-p1353
+p1496
 aS'1900'
-p1354
+p1497
 aS'Scrum-half'
-p1355
+p1498
 aS'4'
 aS'3'
 aS'1'
@@ -3483,20 +3795,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p1356
+p1499
 aVUnited Kingdom
-p1357
+p1500
 aVNP
-p1358
+p1501
 aVWales
-p1359
-aa(lp1360
+p1502
+aVMonmouthshire
+p1503
+aa(lp1504
 S'Dan Rees'
-p1361
+p1505
 aS'1900'
-p1362
+p1506
 aS'Centre'
-p1363
+p1507
 aS'5'
 aS'4'
 aS'1'
@@ -3504,20 +3818,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p1364
+p1508
 aVUnited Kingdom
-p1365
+p1509
 aVWales
-p1366
+p1510
 aVWest Glamorgan
-p1367
-aa(lp1368
+p1511
+aVSwansea
+p1512
+aa(lp1513
 S'Robert Thomas'
-p1369
+p1514
 aS'1900'
-p1370
+p1515
 aS'Forward'
-p1371
+p1516
 aS'4'
 aS'4'
 aS'0'
@@ -3528,38 +3844,41 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1372
+aS's'
+aa(lp1517
 S'Billy Trew'
-p1373
+p1518
 aS'1900'
-p1374
+p1519
 aS'Centre'
-p1375
+p1520
 aS'29'
-p1376
+p1521
 aS'25'
-p1377
+p1522
 aS'4'
 aS'0'
 aS'11'
-p1378
+p1523
 aS'39'
-p1379
+p1524
 aS'Swansea'
-p1380
+p1525
 aVUnited Kingdom
-p1381
+p1526
 aVWales
-p1382
+p1527
 aVWest Glamorgan
-p1383
-aa(lp1384
+p1528
+aVSwansea
+p1529
+aa(lp1530
 S'Buller Williams'
-p1385
+p1531
 aS'1900'
-p1386
+p1532
 aS'Forward'
-p1387
+p1533
 aS'4'
 aS'4'
 aS'0'
@@ -3567,20 +3886,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Pontlottyn'
-p1388
+p1534
 aVUnited Kingdom
-p1389
+p1535
 aVNP22
-p1390
+p1536
 aVWales
-p1391
-aa(lp1392
+p1537
+aVCaerphilly
+p1538
+aa(lp1539
 S'George Dobson'
-p1393
+p1540
 aS'1900'
-p1394
+p1541
 aS'Forward'
-p1395
+p1542
 aS'1'
 aS'1'
 aS'0'
@@ -3588,20 +3909,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p1396
+p1543
 aVUnited Kingdom
-p1397
+p1544
 aVCF37; CF38
-p1398
+p1545
 aVWales
-p1399
-aa(lp1400
+p1546
+aVMid Glamorgan
+p1547
+aa(lp1548
 S'Bala Jones'
-p1401
+p1549
 aS'1901'
-p1402
+p1550
 aS'Scrum-half'
-p1403
+p1551
 aS'1'
 aS'1'
 aS'0'
@@ -3609,45 +3932,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'Aberavon'
-p1404
+p1552
 aVUnited Kingdom
-p1405
+p1553
 aVWales
-p1406
+p1554
 aVNeath Port Talbot
-p1407
-aa(lp1408
+p1555
+aVAberavon
+p1556
+aa(lp1557
 S'Rusty Gabe'
-p1409
+p1558
 aS'1901'
-p1410
+p1559
 aS'Centre'
-p1411
+p1560
 aS'28'
-p1412
+p1561
 aS'21'
-p1413
+p1562
 aS'6'
 aS'1'
 aS'12'
-p1414
+p1563
 aS'36'
-p1415
+p1564
 aS'Llangennech'
-p1416
+p1565
 aVUnited Kingdom
-p1417
+p1566
 aVWales
-p1418
+p1567
 aVCarmarthenshire
-p1419
-aa(lp1420
+p1568
+aVLlangennech
+p1569
+aa(lp1570
 S'Bob Jones'
-p1421
+p1571
 aS'1901'
-p1422
+p1572
 aS'Forward'
-p1423
+p1573
 aS'1'
 aS'1'
 aS'0'
@@ -3655,182 +3982,197 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p1424
+p1574
 aVUnited Kingdom
-p1425
+p1575
 aVCF37; CF38
-p1426
+p1576
 aVWales
-p1427
-aa(lp1428
+p1577
+aVMid Glamorgan
+p1578
+aa(lp1579
 S'Dick Jones'
-p1429
+p1580
 aS'1901'
-p1430
+p1581
 aS'Fly-half'
-p1431
+p1582
 aS'15'
-p1432
+p1583
 aS'12'
-p1433
+p1584
 aS'2'
 aS'1'
 aS'3'
 aS'9'
 aS'Swansea'
-p1434
+p1585
 aVUnited Kingdom
-p1435
+p1586
 aVWales
-p1436
+p1587
 aVWest Glamorgan
-p1437
-aa(lp1438
+p1588
+aVSwansea
+p1589
+aa(lp1590
 S'Dicky Owen'
-p1439
+p1591
 aS'1901'
-p1440
+p1592
 aS'Scrum-half'
-p1441
+p1593
 aS'35'
-p1442
+p1594
 aS'27'
-p1443
+p1595
 aS'7'
 aS'1'
 aS'2'
 aS'6'
 aS'Llandore'
-p1444
+p1596
 aVUnited Kingdom
-p1445
+p1597
 aVWales
-p1446
+p1598
 aVFlintshire
-p1447
-aa(lp1448
+p1599
+aVNorthop Hall
+p1600
+aa(lp1601
 S'Boxer Harding'
-p1449
+p1602
 aS'1902'
-p1450
+p1603
 aS'Forward'
-p1451
+p1604
 aS'27'
-p1452
+p1605
 aS'18'
-p1453
+p1606
 aS'7'
 aS'2'
 aS'1'
 aS'8'
 aS'Market Rasen'
-p1454
+p1607
 aVUnited Kingdom
-p1455
+p1608
 aVEngland
-p1456
+p1609
 aVEast Midlands
-p1457
-aa(lp1458
+p1610
+aVLincolnshire
+p1611
+aa(lp1612
 S'Dai Jones'
-p1459
+p1613
 aS'1902'
-p1460
+p1614
 aS'Forward'
-p1461
+p1615
 aS'13'
-p1462
+p1616
 aS'11'
-p1463
+p1617
 aS'2'
 aS'0'
 aS'0'
 aS'0'
 aS'Aberaman'
-p1464
+p1618
 aVUnited Kingdom
-p1465
+p1619
 aVWales
-p1466
+p1620
 aVRhondda Cynon Taf
-p1467
-aa(lp1468
+p1621
+aVAberaman
+p1622
+aa(lp1623
 S'Strand Jones'
-p1469
+p1624
 aS'1902'
-p1470
+p1625
 aS'Fullback'
-p1471
+p1626
 aS'5'
 aS'4'
 aS'1'
 aS'0'
 aS'0'
 aS'11'
-p1472
+p1627
 aS'Caio'
-p1473
+p1628
 aVAngola
-p1474
+p1629
 aVCabinda
-p1475
+p1630
 aVCaio
-p1476
-aa(lp1477
+p1631
+ag9
+aa(lp1632
 S'Will Joseph'
-p1478
+p1633
 aS'1902'
-p1479
+p1634
 aS'Forward'
-p1480
+p1635
 aS'16'
-p1481
+p1636
 aS'12'
-p1482
+p1637
 aS'3'
 aS'1'
 aS'0'
 aS'0'
 aS'Morriston'
-p1483
+p1638
 aVUnited Kingdom
-p1484
+p1639
 aVWales
-p1485
+p1640
 aVSwansea
-p1486
-aa(lp1487
+p1641
+aVMorriston
+p1642
+aa(lp1643
 S'Teddy Morgan'
-p1488
+p1644
 aS'1902'
-p1489
+p1645
 aS'Wing'
-p1490
+p1646
 aS'20'
-p1491
+p1647
 aS'15'
-p1492
+p1648
 aS'4'
 aS'1'
 aS'15'
-p1493
+p1649
 aS'45'
-p1494
+p1650
 aS'Aberdare'
-p1495
+p1651
 aVUnited Kingdom
-p1496
+p1652
 aVWales
-p1497
+p1653
 aVMid Glamorgan
-p1498
-aa(lp1499
+p1654
+aVAberdare
+p1655
+aa(lp1656
 S'Will Osborne'
-p1500
+p1657
 aS'1902'
-p1501
+p1658
 aS'Forward'
-p1502
+p1659
 aS'6'
 aS'5'
 aS'1'
@@ -3838,20 +4180,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Mountain Ash'
-p1503
+p1660
 aVUnited Kingdom
-p1504
+p1661
 aVCF45
-p1505
+p1662
 aVWales
-p1506
-aa(lp1507
+p1663
+aVMid Glamorgan
+p1664
+aa(lp1665
 S'Danny Walters'
-p1508
+p1666
 aS'1902'
-p1509
+p1667
 aS'Forward'
-p1510
+p1668
 aS'1'
 aS'1'
 aS'0'
@@ -3859,20 +4203,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p1511
+p1669
 aVAustralia
-p1512
+p1670
 aVVictoria
-p1513
+p1671
 aVLoddon Mallee
-p1514
-aa(lp1515
+p1672
+aVShire of Loddon
+p1673
+aa(lp1674
 S'Harry Jones'
-p1516
+p1675
 aS'1902'
-p1517
+p1676
 aS'Forward'
-p1518
+p1677
 aS'2'
 aS'2'
 aS'0'
@@ -3883,13 +4229,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1519
+aS's'
+aa(lp1678
 S'Fred Jowett'
-p1520
+p1679
 aS'1903'
-p1521
+p1680
 aS'Wing'
-p1522
+p1681
 aS'1'
 aS'1'
 aS'0'
@@ -3897,43 +4244,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p1523
+p1682
 aVUnited Kingdom
-p1524
+p1683
 aVWales
-p1525
+p1684
 aVWest Glamorgan
-p1526
-aa(lp1527
+p1685
+aVSwansea
+p1686
+aa(lp1687
 S'Twyber Travers'
-p1528
+p1688
 aS'1903'
-p1529
+p1689
 aS'Hooker'
-p1530
+p1690
 aS'25'
-p1531
+p1691
 aS'21'
-p1532
+p1692
 aS'4'
 aS'0'
 aS'1'
 aS'3'
 aS'Newport'
-p1533
+p1693
 aVUnited Kingdom
-p1534
+p1694
 aVNP
-p1535
+p1695
 aVWales
-p1536
-aa(lp1537
+p1696
+aVMonmouthshire
+p1697
+aa(lp1698
 S'Willie Arnold'
-p1538
+p1699
 aS'1903'
-p1539
+p1700
 aS'Wing'
-p1540
+p1701
 aS'1'
 aS'0'
 aS'1'
@@ -3941,44 +4292,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Morriston'
-p1541
+p1702
 aVUnited Kingdom
-p1542
+p1703
 aVWales
-p1543
+p1704
 aVSwansea
-p1544
-aa(lp1545
+p1705
+aVMorriston
+p1706
+aa(lp1707
 S'Bert Winfield'
-p1546
+p1708
 aS'1903'
-p1547
+p1709
 aS'Fullback'
-p1548
+p1710
 aS'15'
-p1549
+p1711
 aS'11'
-p1550
+p1712
 aS'3'
 aS'1'
 aS'0'
 aS'50'
-p1551
+p1713
 aS'Nottingham'
-p1552
+p1714
 aVUnited Kingdom
-p1553
+p1715
 aVEngland
-p1554
+p1716
 aVEast Midlands
-p1555
-aa(lp1556
+p1717
+aVNottingham
+p1718
+aa(lp1719
 S'Jack Evans'
-p1557
+p1720
 aS'1904'
-p1558
+p1721
 aS'Forward'
-p1559
+p1722
 aS'1'
 aS'0'
 aS'0'
@@ -3986,42 +4341,46 @@ aS'1'
 aS'0'
 aS'0'
 aS'Blaina'
-p1560
+p1723
 aVUnited Kingdom
-p1561
+p1724
 aVWales
-p1562
+p1725
 aVBlaenau Gwent
-p1563
-aa(lp1564
+p1726
+aVBlaina
+p1727
+aa(lp1728
 S'David Thomas'
-p1565
+p1729
 aS'1904'
-p1566
+p1730
 aS'Forward'
-p1567
+p1731
 aS'10'
-p1568
+p1732
 aS'7'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
 aS'Dunvant'
-p1569
+p1733
 aVUnited Kingdom
-p1570
+p1734
 aVWales
-p1571
+p1735
 aVSwansea
-p1572
-aa(lp1573
+p1736
+aVDunvant
+p1737
+aa(lp1738
 S'David Davies'
-p1574
+p1739
 aS'1904'
-p1575
+p1740
 aS'Forward'
-p1576
+p1741
 aS'1'
 aS'1'
 aS'0'
@@ -4029,43 +4388,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tonna'
-p1577
+p1742
 aVUnited Kingdom
-p1578
+p1743
 aVWales
-p1579
+p1744
 aVNeath Port Talbot
-p1580
-aa(lp1581
+p1745
+aVTonna
+p1746
+aa(lp1747
 S"Billy O'Neil"
-p1582
+p1748
 aS'1904'
-p1583
+p1749
 aS'Forward'
-p1584
+p1750
 aS'11'
-p1585
+p1751
 aS'10'
-p1586
+p1752
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p1587
+p1753
 aVUnited Kingdom
-p1588
+p1754
 aVWales
-p1589
+p1755
 aVCardiff
-p1590
-aa(lp1591
+p1756
+ag9
+aa(lp1757
 S'Cliff Pritchard'
-p1592
+p1758
 aS'1904'
-p1593
+p1759
 aS'Centre'
-p1594
+p1760
 aS'5'
 aS'4'
 aS'1'
@@ -4073,20 +4435,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Pontypool'
-p1595
+p1761
 aVUnited Kingdom
-p1596
+p1762
 aVNP4
-p1597
+p1763
 aVWales
-p1598
-aa(lp1599
+p1764
+aVMonmouthshire
+p1765
+aa(lp1766
 S'Beddoe Thomas-Maynard'
-p1600
+p1767
 aS'1904'
-p1601
+p1768
 aS'Forward'
-p1602
+p1769
 aS'6'
 aS'5'
 aS'1'
@@ -4094,20 +4458,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Upper Cwmbran'
-p1603
+p1770
 aVUnited Kingdom
-p1604
+p1771
 aVNP44
-p1605
+p1772
 aVWales
-p1606
-aa(lp1607
+p1773
+aVTorfaen
+p1774
+aa(lp1775
 S'Harry Watkins'
-p1608
+p1776
 aS'1904'
-p1609
+p1777
 aS'Forward'
-p1610
+p1778
 aS'6'
 aS'5'
 aS'1'
@@ -4115,20 +4481,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Trecastle'
-p1611
+p1779
 aVUnited Kingdom
-p1612
+p1780
 aVWales
-p1613
+p1781
 aVPowys
-p1614
-aa(lp1615
+p1782
+aVTrecastle
+p1783
+aa(lp1784
 S'Sid Bevan'
-p1616
+p1785
 aS'1904'
-p1617
+p1786
 aS'Forward'
-p1618
+p1787
 aS'5'
 aS'3'
 aS'2'
@@ -4136,20 +4504,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Morriston'
-p1619
+p1788
 aVUnited Kingdom
-p1620
+p1789
 aVWales
-p1621
+p1790
 aVSwansea
-p1622
-aa(lp1623
+p1791
+aVMorriston
+p1792
+aa(lp1793
 S'Howell Jones'
-p1624
+p1794
 aS'1904'
-p1625
+p1795
 aS'Forward'
-p1626
+p1796
 aS'1'
 aS'0'
 aS'1'
@@ -4157,42 +4527,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontneddfechan'
-p1627
+p1797
 aVUnited Kingdom
-p1628
+p1798
 aVWales
-p1629
+p1799
 aVPowys
-p1630
-aa(lp1631
+p1800
+aVPontneddfechan
+p1801
+aa(lp1802
 S'Charlie Pritchard'
-p1632
+p1803
 aS'1904'
-p1633
+p1804
 aS'Forward'
-p1634
+p1805
 aS'14'
-p1635
+p1806
 aS'9'
 aS'5'
 aS'0'
 aS'1'
 aS'3'
 aS'Newport'
-p1636
+p1807
 aVUnited Kingdom
-p1637
+p1808
 aVNP
-p1638
+p1809
 aVWales
-p1639
-aa(lp1640
+p1810
+aVMonmouthshire
+p1811
+aa(lp1812
 S'Windham Jones'
-p1641
+p1813
 aS'1905'
-p1642
+p1814
 aS'Halfback'
-p1643
+p1815
 aS'1'
 aS'1'
 aS'0'
@@ -4200,20 +4574,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Llanelly'
-p1644
+p1816
 aVAustralia
-p1645
+p1817
 aVVictoria
-p1646
+p1818
 aVLoddon Mallee
-p1647
-aa(lp1648
+p1819
+aVShire of Loddon
+p1820
+aa(lp1821
 S'Jack Williams'
-p1649
+p1822
 aS'1905'
-p1650
+p1823
 aS'Forward'
-p1651
+p1824
 aS'5'
 aS'3'
 aS'2'
@@ -4221,111 +4597,118 @@ aS'0'
 aS'0'
 aS'0'
 aS'Scethrog'
-p1652
+p1825
 aVUnited Kingdom
-p1653
+p1826
 aVWales
-p1654
+p1827
 aVPowys
-p1655
-aa(lp1656
+p1828
+aVScethrog
+p1829
+aa(lp1830
 S'Percy Bush'
-p1657
+p1831
 aS'1904'
-p1658
+p1832
 aS'Fly-half'
-p1659
+p1833
 aS'12'
-p1660
+p1834
 aS'10'
-p1661
+p1835
 aS'2'
 aS'0'
 aS'4'
 aS'40'
-p1662
+p1836
 aS'Cardiff'
-p1663
+p1837
 aVUnited Kingdom
-p1664
+p1838
 aVWales
-p1665
+p1839
 aVCardiff
-p1666
-aa(lp1667
+p1840
+ag9
+aa(lp1841
 S'Hop Maddock'
-p1668
+p1842
 aS'1906'
-p1669
+p1843
 aS'Wing'
-p1670
+p1844
 aS'6'
 aS'4'
 aS'2'
 aS'0'
 aS'6'
 aS'18'
-p1671
+p1845
 aS'Pontycymmer'
-p1672
+p1846
 aS'g'
 aS'n'
 aS'i'
-aa(lp1673
+aS's'
+aa(lp1847
 S'Reggie Gibbs'
-p1674
+p1848
 aS'1906'
-p1675
+p1849
 aS'Wing'
-p1676
+p1850
 aS'18'
-p1677
+p1851
 aS'13'
-p1678
+p1852
 aS'4'
 aS'1'
 aS'18'
-p1679
+p1853
 aS'60'
-p1680
+p1854
 aS'Cardiff'
-p1681
+p1855
 aVUnited Kingdom
-p1682
+p1856
 aVWales
-p1683
+p1857
 aVCardiff
-p1684
-aa(lp1685
+p1858
+ag9
+aa(lp1859
 S'Tom Evans'
-p1686
+p1860
 aS'1906'
-p1687
+p1861
 aS'Flanker'
-p1688
+p1862
 aS'18'
-p1689
+p1863
 aS'15'
-p1690
+p1864
 aS'3'
 aS'0'
 aS'1'
 aS'3'
 aS'Ammanford'
-p1691
+p1865
 aVUnited Kingdom
-p1692
+p1866
 aVWales
-p1693
+p1867
 aVCarmarthenshire
-p1694
-aa(lp1695
+p1868
+aVAmmanford
+p1869
+aa(lp1870
 S'Jack Powell'
-p1696
+p1871
 aS'1906'
-p1697
+p1872
 aS'Forward'
-p1698
+p1873
 aS'1'
 aS'0'
 aS'1'
@@ -4333,20 +4716,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Merthyr Tydfil'
-p1699
+p1874
 aVUnited Kingdom
-p1700
+p1875
 aVWales
-p1701
+p1876
 aVMerthyr Tydfil
-p1702
-aa(lp1703
+p1877
+ag9
+aa(lp1878
 S'Dai Westacott'
-p1704
+p1879
 aS'1906'
-p1705
+p1880
 aS'Forward'
-p1706
+p1881
 aS'1'
 aS'0'
 aS'1'
@@ -4354,20 +4738,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p1707
+p1882
 aVUnited Kingdom
-p1708
+p1883
 aVWales
-p1709
+p1884
 aVCardiff
-p1710
-aa(lp1711
+p1885
+ag9
+aa(lp1886
 S'John Dyke'
-p1712
+p1887
 aS'1906'
-p1713
+p1888
 aS'Fullback'
-p1714
+p1889
 aS'1'
 aS'0'
 aS'1'
@@ -4375,20 +4760,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Narberth'
-p1715
+p1890
 aVUnited Kingdom
-p1716
+p1891
 aVWales
-p1717
+p1892
 aVPembrokeshire
-p1718
-aa(lp1719
+p1893
+aVNarberth
+p1894
+aa(lp1895
 S'Jack Jenkins'
-p1720
+p1896
 aS'1906'
-p1721
+p1897
 aS'Forward'
-p1722
+p1898
 aS'1'
 aS'0'
 aS'1'
@@ -4396,20 +4783,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newbridge'
-p1723
+p1899
 aVRepublic of Ireland
-p1724
+p1900
 aVLeinster
-p1725
+p1901
 aVCounty Kildare
-p1726
-aa(lp1727
+p1902
+aVNewbridge
+p1903
+aa(lp1904
 S'Dick Thomas'
-p1728
+p1905
 aS'1906'
-p1729
+p1906
 aS'Forward'
-p1730
+p1907
 aS'4'
 aS'3'
 aS'1'
@@ -4417,45 +4806,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rhondda'
-p1731
+p1908
 aVUnited Kingdom
-p1732
+p1909
 aVWales
-p1733
+p1910
 aVRhondda Cynon Taf
-p1734
-aa(lp1735
+p1911
+ag9
+aa(lp1912
 S'Johnny Williams'
-p1736
+p1913
 aS'1906'
-p1737
+p1914
 aS'Wing'
-p1738
+p1915
 aS'19'
-p1739
+p1916
 aS'15'
-p1740
+p1917
 aS'3'
 aS'1'
 aS'17'
-p1741
+p1918
 aS'51'
-p1742
+p1919
 aS'Whitchurch'
-p1743
+p1920
 aVUnited Kingdom
-p1744
+p1921
 aVEngland
-p1745
+p1922
 aVWest Midlands
-p1746
-aa(lp1747
+p1923
+aVShropshire
+p1924
+aa(lp1925
 S'John Alf Brown'
-p1748
+p1926
 aS'1907'
-p1749
+p1927
 aS'Forward'
-p1750
+p1928
 aS'7'
 aS'6'
 aS'1'
@@ -4463,20 +4855,21 @@ aS'0'
 aS'1'
 aS'3'
 aS'Cardiff'
-p1751
+p1929
 aVUnited Kingdom
-p1752
+p1930
 aVWales
-p1753
+p1931
 aVCardiff
-p1754
-aa(lp1755
+p1932
+ag9
+aa(lp1933
 S'Bailey Davies'
-p1756
+p1934
 aS'1907'
-p1757
+p1935
 aS'Fullback'
-p1758
+p1936
 aS'1'
 aS'1'
 aS'0'
@@ -4484,17 +4877,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanwenog'
-p1759
+p1937
 aS'g'
 aS'n'
 aS'i'
-aa(lp1760
+aS's'
+aa(lp1938
 S'William Dowell'
-p1761
+p1939
 aS'1907'
-p1762
+p1940
 aS'Forward'
-p1763
+p1941
 aS'7'
 aS'6'
 aS'1'
@@ -4502,20 +4896,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypool'
-p1764
+p1942
 aVUnited Kingdom
-p1765
+p1943
 aVNP4
-p1766
+p1944
 aVWales
-p1767
-aa(lp1768
+p1945
+aVMonmouthshire
+p1946
+aa(lp1947
 S'Jack Evans'
-p1769
+p1948
 aS'1907'
-p1770
+p1949
 aS'Centre'
-p1771
+p1950
 aS'3'
 aS'2'
 aS'1'
@@ -4523,66 +4919,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanybyther'
-p1772
+p1951
 aVUnited Kingdom
-p1773
+p1952
 aVWales
-p1774
+p1953
 aVCarmarthenshire
-p1775
-aa(lp1776
+p1954
+aVLlanybyther
+p1955
+aa(lp1956
 S'James Watts'
-p1777
+p1957
 aS'1907'
-p1778
+p1958
 aS'Forward'
-p1779
+p1959
 aS'11'
-p1780
+p1960
 aS'10'
-p1781
+p1961
 aS'1'
 aS'0'
 aS'2'
 aS'6'
 aS'Carmarthen'
-p1782
+p1962
 aVUnited Kingdom
-p1783
+p1963
 aVWales
-p1784
+p1964
 aVCarmarthenshire
-p1785
-aa(lp1786
+p1965
+aVCarmarthen
+p1966
+aa(lp1967
 S'Jim Webb'
-p1787
+p1968
 aS'1907'
-p1788
+p1969
 aS'Lock'
-p1789
+p1970
 aS'23'
-p1790
+p1971
 aS'18'
-p1791
+p1972
 aS'5'
 aS'0'
 aS'2'
 aS'6'
 aS'Glos'
-p1792
+p1973
 aVFrance
-p1793
+p1974
 aV14100
-p1794
+p1975
 aVFrance métropolitaine
-p1795
-aa(lp1796
+p1976
+aVBasse-Normandie
+p1977
+aa(lp1978
 S'Dickie David'
-p1797
+p1979
 aS'1907'
-p1798
+p1980
 aS'Scrum-half'
-p1799
+p1981
 aS'1'
 aS'1'
 aS'0'
@@ -4590,20 +4992,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p1800
+p1982
 aVUnited Kingdom
-p1801
+p1983
 aVWales
-p1802
+p1984
 aVCardiff
-p1803
-aa(lp1804
+p1985
+ag9
+aa(lp1986
 S'Ponty Jones'
-p1805
+p1987
 aS'1907'
-p1806
+p1988
 aS'Wing'
-p1807
+p1989
 aS'1'
 aS'1'
 aS'0'
@@ -4611,42 +5014,46 @@ aS'0'
 aS'1'
 aS'3'
 aS'Pontypool'
-p1808
+p1990
 aVUnited Kingdom
-p1809
+p1991
 aVNP4
-p1810
+p1992
 aVWales
-p1811
-aa(lp1812
+p1993
+aVMonmouthshire
+p1994
+aa(lp1995
 S'Tommy Vile'
-p1813
+p1996
 aS'1904'
-p1814
+p1997
 aS'Scrum-half'
-p1815
+p1998
 aS'11'
-p1816
+p1999
 aS'6'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p1817
+p2000
 aVUnited Kingdom
-p1818
+p2001
 aVNP
-p1819
+p2002
 aVWales
-p1820
-aa(lp1821
+p2003
+aVMonmouthshire
+p2004
+aa(lp2005
 S'George Hayward'
-p1822
+p2006
 aS'1908'
-p1823
+p2007
 aS'Forward'
-p1824
+p2008
 aS'5'
 aS'5'
 aS'0'
@@ -4657,13 +5064,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1825
+aS's'
+aa(lp2009
 S'Philip Hopkins'
-p1826
+p2010
 aS'1908'
-p1827
+p2011
 aS'Wing'
-p1828
+p2012
 aS'4'
 aS'3'
 aS'1'
@@ -4671,68 +5079,74 @@ aS'0'
 aS'3'
 aS'9'
 aS'Pontardawe'
-p1829
+p2013
 aVUnited Kingdom
-p1830
+p2014
 aVWales
-p1831
+p2015
 aVNeath Port Talbot
-p1832
-aa(lp1833
+p2016
+aVPontardawe
+p2017
+aa(lp2018
 S'Jack Jones'
-p1834
+p2019
 aS'1908'
-p1835
+p2020
 aS'Centre'
-p1836
+p2021
 aS'20'
-p1837
+p2022
 aS'12'
-p1838
+p2023
 aS'7'
 aS'1'
 aS'7'
 aS'25'
-p1839
+p2024
 aS'Pontypool'
-p1840
+p2025
 aVUnited Kingdom
-p1841
+p2026
 aVNP4
-p1842
+p2027
 aVWales
-p1843
-aa(lp1844
+p2028
+aVMonmouthshire
+p2029
+aa(lp2030
 S'Ivor Morgan'
-p1845
+p2031
 aS'1908'
-p1846
+p2032
 aS'Flanker'
-p1847
+p2033
 aS'13'
-p1848
+p2034
 aS'12'
-p1849
+p2035
 aS'1'
 aS'0'
 aS'6'
 aS'18'
-p1850
+p2036
 aS'Haverfordwest'
-p1851
+p2037
 aVUnited Kingdom
-p1852
+p2038
 aVWales
-p1853
+p2039
 aVPembrokeshire
-p1854
-aa(lp1855
+p2040
+aVHaverfordwest
+p2041
+aa(lp2042
 S'Phil Waller'
-p1856
+p2043
 aS'1908'
-p1857
+p2044
 aS'Forward'
-p1858
+p2045
 aS'9'
 aS'7'
 aS'2'
@@ -4740,44 +5154,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bath'
-p1859
+p2046
 aVUnited Kingdom
-p1860
+p2047
 aVBA1
-p1861
+p2048
 aVEngland
-p1862
-aa(lp1863
+p2049
+aVSouth West England
+p2050
+aa(lp2051
 S'Jack Bancroft'
-p1864
+p2052
 aS'1909'
-p1865
+p2053
 aS'Fullback'
-p1866
+p2054
 aS'18'
-p1867
+p2055
 aS'14'
-p1868
+p2056
 aS'4'
 aS'0'
 aS'0'
 aS'88'
-p1869
+p2057
 aS'Swansea'
-p1870
+p2058
 aVUnited Kingdom
-p1871
+p2059
 aVWales
-p1872
+p2060
 aVWest Glamorgan
-p1873
-aa(lp1874
+p2061
+aVSwansea
+p2062
+aa(lp2063
 S'Jake Blackmore'
-p1875
+p2064
 aS'1909'
-p1876
+p2065
 aS'Forward'
-p1877
+p2066
 aS'1'
 aS'1'
 aS'0'
@@ -4785,42 +5203,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bedwellty'
-p1878
+p2067
 aVUnited Kingdom
-p1879
+p2068
 aVWales
-p1880
+p2069
 aVMonmouthshire
-p1881
-aa(lp1882
+p2070
+aVBedwellty
+p2071
+aa(lp2072
 S'Mel Baker'
-p1883
+p2073
 aS'1909'
-p1884
+p2074
 aS'Wing'
-p1885
+p2075
 aS'4'
 aS'3'
 aS'1'
 aS'0'
 aS'4'
 aS'12'
-p1886
+p2076
 aS'Newport'
-p1887
+p2077
 aVUnited Kingdom
-p1888
+p2078
 aVNP
-p1889
+p2079
 aVWales
-p1890
-aa(lp1891
+p2080
+aVMonmouthshire
+p2081
+aa(lp2082
 S'Thomas Lloyd'
-p1892
+p2083
 aS'1909'
-p1893
+p2084
 aS'Forward'
-p1894
+p2085
 aS'7'
 aS'6'
 aS'1'
@@ -4828,20 +5250,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p1895
+p2086
 aVUnited Kingdom
-p1896
+p2087
 aVWales
-p1897
+p2088
 aVWest Glamorgan
-p1898
-aa(lp1899
+p2089
+aVNeath
+p2090
+aa(lp2091
 S'Rees Thomas'
-p1900
+p2092
 aS'1909'
-p1901
+p2093
 aS'Forward'
-p1902
+p2094
 aS'8'
 aS'5'
 aS'3'
@@ -4849,20 +5273,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Caldicot'
-p1903
+p2095
 aVUnited Kingdom
-p1904
+p2096
 aVNP26 4
-p1905
+p2097
 aVWales
-p1906
-aa(lp1907
+p2098
+aVMonmouthshire
+p2099
+aa(lp2100
 S'Ben Gronow'
-p1908
+p2101
 aS'1910'
-p1909
+p2102
 aS'Forward'
-p1910
+p2103
 aS'4'
 aS'3'
 aS'1'
@@ -4870,20 +5296,21 @@ aS'0'
 aS'1'
 aS'3'
 aS'Bridgend'
-p1911
+p2104
 aVUnited Kingdom
-p1912
+p2105
 aVWales
-p1913
+p2106
 aVBridgend
-p1914
-aa(lp1915
+p2107
+ag9
+aa(lp2108
 S'Joe Pullman'
-p1916
+p2109
 aS'1910'
-p1917
+p2110
 aS'Forward'
-p1918
+p2111
 aS'1'
 aS'1'
 aS'0'
@@ -4891,20 +5318,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p1919
+p2112
 aVUnited Kingdom
-p1920
+p2113
 aVWales
-p1921
+p2114
 aVCardiff
-p1922
-aa(lp1923
+p2115
+ag9
+aa(lp2116
 S'Harry Jarman'
-p1924
+p2117
 aS'1910'
-p1925
+p2118
 aS'Forward'
-p1926
+p2119
 aS'7'
 aS'4'
 aS'3'
@@ -4912,20 +5340,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Talywain'
-p1927
+p2120
 aVUnited Kingdom
-p1928
+p2121
 aVWales
-p1929
+p2122
 aVTorfaen
-p1930
-aa(lp1931
+p2123
+aVVarteg
+p2124
+aa(lp2125
 S'Joe Pugsley'
-p1932
+p2126
 aS'1910'
-p1933
+p2127
 aS'Hooker'
-p1934
+p2128
 aS'7'
 aS'6'
 aS'1'
@@ -4933,20 +5363,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Swansea'
-p1935
+p2129
 aVUnited Kingdom
-p1936
+p2130
 aVWales
-p1937
+p2131
 aVWest Glamorgan
-p1938
-aa(lp1939
+p2132
+aVSwansea
+p2133
+aa(lp2134
 S'Ernie Jenkins'
-p1940
+p2135
 aS'1910'
-p1941
+p2136
 aS'Flanker'
-p1942
+p2137
 aS'2'
 aS'2'
 aS'0'
@@ -4954,20 +5386,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Upper Cwmbran'
-p1943
+p2138
 aVUnited Kingdom
-p1944
+p2139
 aVNP44
-p1945
+p2140
 aVWales
-p1946
-aa(lp1947
+p2141
+aVTorfaen
+p2142
+aa(lp2143
 S'Willie Morgan'
-p1948
+p2144
 aS'1908'
-p1949
+p2145
 aS'Halfback'
-p1950
+p2146
 aS'3'
 aS'1'
 aS'1'
@@ -4975,43 +5409,46 @@ aS'1'
 aS'0'
 aS'0'
 aS'Sketty'
-p1951
+p2147
 aVUnited Kingdom
-p1952
+p2148
 aVWales
-p1953
+p2149
 aVSwansea
-p1954
-aa(lp1955
+p2150
+aVSketty
+p2151
+aa(lp2152
 S'Billy Spiller'
-p1956
+p2153
 aS'1910'
-p1957
+p2154
 aS'Centre'
-p1958
+p2155
 aS'10'
-p1959
+p2156
 aS'7'
 aS'3'
 aS'0'
 aS'4'
 aS'16'
-p1960
+p2157
 aS'Cardiff'
-p1961
+p2158
 aVUnited Kingdom
-p1962
+p2159
 aVWales
-p1963
+p2160
 aVCardiff
-p1964
-aa(lp1965
+p2161
+ag9
+aa(lp2162
 S'Louis Dyke'
-p1966
+p2163
 aS'1910'
-p1967
+p2164
 aS'Centre'
-p1968
+p2165
 aS'4'
 aS'4'
 aS'0'
@@ -5019,20 +5456,21 @@ aS'0'
 aS'1'
 aS'7'
 aS'Cardiff'
-p1969
+p2166
 aVUnited Kingdom
-p1970
+p2167
 aVWales
-p1971
+p2168
 aVCardiff
-p1972
-aa(lp1973
+p2169
+ag9
+aa(lp2170
 S'Fred Birt'
-p1974
+p2171
 aS'1911'
-p1975
+p2172
 aS'Centre'
-p1976
+p2173
 aS'7'
 aS'3'
 aS'4'
@@ -5040,20 +5478,22 @@ aS'0'
 aS'0'
 aS'7'
 aS'Newport'
-p1977
+p2174
 aVUnited Kingdom
-p1978
+p2175
 aVNP
-p1979
+p2176
 aVWales
-p1980
-aa(lp1981
+p2177
+aVMonmouthshire
+p2178
+aa(lp2179
 S'Percy Coldrick'
-p1982
+p2180
 aS'1911'
-p1983
+p2181
 aS'Lock'
-p1984
+p2182
 aS'6'
 aS'5'
 aS'1'
@@ -5061,20 +5501,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Caerleon'
-p1985
+p2183
 aVUnited Kingdom
-p1986
+p2184
 aVWales
-p1987
+p2185
 aVNewport
-p1988
-aa(lp1989
+p2186
+aVCaerleon
+p2187
+aa(lp2188
 S'Bill Perry'
-p1990
+p2189
 aS'1911'
-p1991
+p2190
 aS'Lock'
-p1992
+p2191
 aS'1'
 aS'1'
 aS'0'
@@ -5082,20 +5524,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p1993
+p2192
 aVUnited Kingdom
-p1994
+p2193
 aVWales
-p1995
+p2194
 aVWest Glamorgan
-p1996
-aa(lp1997
+p2195
+aVNeath
+p2196
+aa(lp2197
 S'Jim Birch'
-p1998
+p2198
 aS'1911'
-p1999
+p2199
 aS'Prop'
-p2000
+p2200
 aS'2'
 aS'2'
 aS'0'
@@ -5103,17 +5547,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nthampton'
-p2001
+p2201
 aS'g'
 aS'n'
 aS'i'
-aa(lp2002
+aS's'
+aa(lp2202
 S'William Evans'
-p2003
+p2203
 aS'1911'
-p2004
+p2204
 aS'Forward'
-p2005
+p2205
 aS'1'
 aS'1'
 aS'0'
@@ -5121,20 +5566,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nantyglo'
-p2006
+p2206
 aVUnited Kingdom
-p2007
+p2207
 aVWales
-p2008
+p2208
 aVBlaenau Gwent
-p2009
-aa(lp2010
+p2209
+aVNantyglo
+p2210
+aa(lp2211
 S'Ewan Davies'
-p2011
+p2212
 aS'1912'
-p2012
+p2213
 aS'Wing'
-p2013
+p2214
 aS'2'
 aS'1'
 aS'1'
@@ -5142,20 +5589,21 @@ aS'0'
 aS'2'
 aS'6'
 aS'Cardiff'
-p2014
+p2215
 aVUnited Kingdom
-p2015
+p2216
 aVWales
-p2016
+p2217
 aVCardiff
-p2017
-aa(lp2018
+p2218
+ag9
+aa(lp2219
 S'Howell Davies'
-p2019
+p2220
 aS'1912'
-p2020
+p2221
 aS'Hooker'
-p2021
+p2222
 aS'2'
 aS'1'
 aS'1'
@@ -5163,65 +5611,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'Skewen'
-p2022
+p2223
 aVUnited Kingdom
-p2023
+p2224
 aVWales
-p2024
+p2225
 aVNeath Port Talbot
-p2025
-aa(lp2026
+p2226
+aVSkewen
+p2227
+aa(lp2228
 S'Clem Lewis'
-p2027
+p2229
 aS'1912'
-p2028
+p2230
 aS'Fly-half'
-p2029
+p2231
 aS'11'
-p2030
+p2232
 aS'7'
 aS'4'
 aS'0'
 aS'3'
 aS'19'
-p2031
+p2233
 aS'Bridgend'
-p2032
+p2234
 aVUnited Kingdom
-p2033
+p2235
 aVWales
-p2034
+p2236
 aVBridgend
-p2035
-aa(lp2036
+p2237
+ag9
+aa(lp2238
 S'Glyn Stephens'
-p2037
+p2239
 aS'1912'
-p2038
+p2240
 aS'Prop'
-p2039
+p2241
 aS'10'
-p2040
+p2242
 aS'5'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p2041
+p2243
 aVUnited Kingdom
-p2042
+p2244
 aVWales
-p2043
+p2245
 aVWest Glamorgan
-p2044
-aa(lp2045
+p2246
+aVNeath
+p2247
+aa(lp2248
 S'Len Trump'
-p2046
+p2249
 aS'1912'
-p2047
+p2250
 aS'Prop'
-p2048
+p2251
 aS'4'
 aS'2'
 aS'2'
@@ -5229,43 +5682,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p2049
+p2252
 aVUnited Kingdom
-p2050
+p2253
 aVNP
-p2051
+p2254
 aVWales
-p2052
-aa(lp2053
+p2255
+aVMonmouthshire
+p2256
+aa(lp2257
 S'Harry Uzzell'
-p2054
+p2258
 aS'1912'
-p2055
+p2259
 aS'Hooker'
-p2056
+p2260
 aS'15'
-p2057
+p2261
 aS'11'
-p2058
+p2262
 aS'4'
 aS'0'
 aS'2'
 aS'6'
 aS'Shirehampton'
-p2059
+p2263
 aVUnited Kingdom
-p2060
+p2264
 aVBS11 0
-p2061
+p2265
 aVEngland
-p2062
-aa(lp2063
+p2266
+aVSouth West England
+p2267
+aa(lp2268
 S'William Davies'
-p2064
+p2269
 aS'1912'
-p2065
+p2270
 aS'Centre'
-p2066
+p2271
 aS'2'
 aS'1'
 aS'1'
@@ -5273,42 +5730,46 @@ aS'0'
 aS'1'
 aS'3'
 aS'Aberavon'
-p2067
+p2272
 aVUnited Kingdom
-p2068
+p2273
 aVWales
-p2069
+p2274
 aVNeath Port Talbot
-p2070
-aa(lp2071
+p2275
+aVAberavon
+p2276
+aa(lp2277
 S'George Hirst'
-p2072
+p2278
 aS'1912'
-p2073
+p2279
 aS'Wing'
-p2074
+p2280
 aS'6'
 aS'5'
 aS'1'
 aS'0'
 aS'3'
 aS'17'
-p2075
+p2281
 aS'Dowlais'
-p2076
+p2282
 aVUnited Kingdom
-p2077
+p2283
 aVNP
-p2078
+p2284
 aVWales
-p2079
-aa(lp2080
+p2285
+aVNewport
+p2286
+aa(lp2287
 S'Reggie Plummer'
-p2081
+p2288
 aS'1912'
-p2082
+p2289
 aS'Wing'
-p2083
+p2290
 aS'5'
 aS'2'
 aS'3'
@@ -5316,20 +5777,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Newport'
-p2084
+p2291
 aVUnited Kingdom
-p2085
+p2292
 aVNP
-p2086
+p2293
 aVWales
-p2087
-aa(lp2088
+p2294
+aVMonmouthshire
+p2295
+aa(lp2296
 S'Frank Hawkins'
-p2089
+p2297
 aS'1912'
-p2090
+p2298
 aS'Flanker'
-p2091
+p2299
 aS'2'
 aS'1'
 aS'1'
@@ -5337,20 +5800,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wiveliscombe'
-p2092
+p2300
 aVUnited Kingdom
-p2093
+p2301
 aVEngland
-p2094
+p2302
 aVSouth West England
-p2095
-aa(lp2096
+p2303
+aVSomerset
+p2304
+aa(lp2305
 S'Harry Hiam'
-p2097
+p2306
 aS'1912'
-p2098
+p2307
 aS'Prop'
-p2099
+p2308
 aS'2'
 aS'1'
 aS'1'
@@ -5358,20 +5823,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p2100
+p2309
 aVUnited Kingdom
-p2101
+p2310
 aVWales
-p2102
+p2311
 aVWest Glamorgan
-p2103
-aa(lp2104
+p2312
+aVSwansea
+p2313
+aa(lp2314
 S'Billy Jenkins'
-p2105
+p2315
 aS'1912'
-p2106
+p2316
 aS'Flanker'
-p2107
+p2317
 aS'4'
 aS'3'
 aS'1'
@@ -5379,20 +5846,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p2108
+p2318
 aVUnited Kingdom
-p2109
+p2319
 aVWales
-p2110
+p2320
 aVCardiff
-p2111
-aa(lp2112
+p2321
+ag9
+aa(lp2322
 S'Brin Lewis'
-p2113
+p2323
 aS'1912'
-p2114
+p2324
 aS'Wing'
-p2115
+p2325
 aS'2'
 aS'1'
 aS'1'
@@ -5400,20 +5868,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Pontardawe'
-p2116
+p2326
 aVUnited Kingdom
-p2117
+p2327
 aVWales
-p2118
+p2328
 aVNeath Port Talbot
-p2119
-aa(lp2120
+p2329
+aVPontardawe
+p2330
+aa(lp2331
 S'Walter Martin'
-p2121
+p2332
 aS'1912'
-p2122
+p2333
 aS'Fly-half'
-p2123
+p2334
 aS'3'
 aS'1'
 aS'2'
@@ -5421,20 +5891,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Essex'
-p2124
+p2335
 aVUnited Kingdom
-p2125
+p2336
 aVEngland
-p2126
+p2337
 aVEast of England
-p2127
-aa(lp2128
+p2338
+aVEssex
+p2339
+aa(lp2340
 S'Gus Merry'
-p2129
+p2341
 aS'1912'
-p2130
+p2342
 aS'Hooker'
-p2131
+p2343
 aS'2'
 aS'1'
 aS'1'
@@ -5442,20 +5914,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p2132
+p2344
 aVUnited Kingdom
-p2133
+p2345
 aVNP
-p2134
+p2346
 aVWales
-p2135
-aa(lp2136
+p2347
+aVMonmouthshire
+p2348
+aa(lp2349
 S'Tom Williams'
-p2137
+p2350
 aS'1912'
-p2138
+p2351
 aS'Flanker'
-p2139
+p2352
 aS'6'
 aS'4'
 aS'2'
@@ -5463,20 +5937,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dunvant'
-p2140
+p2353
 aVUnited Kingdom
-p2141
+p2354
 aVWales
-p2142
+p2355
 aVSwansea
-p2143
-aa(lp2144
+p2356
+aVDunvant
+p2357
+aa(lp2358
 S'Harold Thomas'
-p2145
+p2359
 aS'1912'
-p2146
+p2360
 aS'Fullback'
-p2147
+p2361
 aS'1'
 aS'1'
 aS'0'
@@ -5484,20 +5960,22 @@ aS'0'
 aS'0'
 aS'2'
 aS'Swansea'
-p2148
+p2362
 aVUnited Kingdom
-p2149
+p2363
 aVWales
-p2150
+p2364
 aVWest Glamorgan
-p2151
-aa(lp2152
+p2365
+aVSwansea
+p2366
+aa(lp2367
 S'Frank Andrews'
-p2153
+p2368
 aS'1912'
-p2154
+p2369
 aS'Back-row'
-p2155
+p2370
 aS'4'
 aS'2'
 aS'2'
@@ -5508,13 +5986,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2156
+aS's'
+aa(lp2371
 S'Billy Geen'
-p2157
+p2372
 aS'1912'
-p2158
+p2373
 aS'Wing'
-p2159
+p2374
 aS'3'
 aS'1'
 aS'2'
@@ -5522,20 +6001,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p2160
+p2375
 aVUnited Kingdom
-p2161
+p2376
 aVNP
-p2162
+p2377
 aVWales
-p2163
-aa(lp2164
+p2378
+aVMonmouthshire
+p2379
+aa(lp2380
 S'Bert Hollingdale'
-p2165
+p2381
 aS'1912'
-p2166
+p2382
 aS'No. 8'
-p2167
+p2383
 aS'2'
 aS'0'
 aS'2'
@@ -5543,20 +6024,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p2168
+p2384
 aVUnited Kingdom
-p2169
+p2385
 aVWales
-p2170
+p2386
 aVWest Glamorgan
-p2171
-aa(lp2172
+p2387
+aVSwansea
+p2388
+aa(lp2389
 S'Percy Jones'
-p2173
+p2390
 aS'1912'
-p2174
+p2391
 aS'Lock'
-p2175
+p2392
 aS'8'
 aS'5'
 aS'3'
@@ -5564,20 +6047,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p2176
+p2393
 aVUnited Kingdom
-p2177
+p2394
 aVCF37; CF38
-p2178
+p2395
 aVWales
-p2179
-aa(lp2180
+p2396
+aVMid Glamorgan
+p2397
+aa(lp2398
 S'Johnnie Morgan'
-p2181
+p2399
 aS'1912'
-p2182
+p2400
 aS'Flanker'
-p2183
+p2401
 aS'2'
 aS'0'
 aS'2'
@@ -5585,20 +6070,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Alejandra'
-p2184
+p2402
 aVArgentina
-p2185
+p2403
 aVSFE
-p2186
+p2404
 aVDepartamento San Javier
-p2187
-aa(lp2188
+p2405
+aVComuna de Alejandra
+p2406
+aa(lp2407
 S'Fred Perrett'
-p2189
+p2408
 aS'1912'
-p2190
+p2409
 aS'Prop'
-p2191
+p2410
 aS'5'
 aS'3'
 aS'2'
@@ -5606,20 +6093,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Briton Ferry'
-p2192
+p2411
 aVUnited Kingdom
-p2193
+p2412
 aVSA11
-p2194
+p2413
 aVWales
-p2195
-aa(lp2196
+p2414
+aVWest Glamorgan
+p2415
+aa(lp2416
 S'Horace Thomas'
-p2197
+p2417
 aS'1912'
-p2198
+p2418
 aS'Fly-half'
-p2199
+p2419
 aS'2'
 aS'0'
 aS'2'
@@ -5627,20 +6116,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pentyrch'
-p2200
+p2420
 aVUnited Kingdom
-p2201
+p2421
 aVWales
-p2202
+p2422
 aVCardiff
-p2203
-aa(lp2204
+p2423
+aVPentyrch
+p2424
+aa(lp2425
 S'Harry Wetter'
-p2205
+p2426
 aS'1912'
-p2206
+p2427
 aS'Prop'
-p2207
+p2428
 aS'2'
 aS'0'
 aS'2'
@@ -5648,20 +6139,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Battersea'
-p2208
+p2429
 aVUnited Kingdom
-p2209
+p2430
 aVEngland
-p2210
+p2431
 aVGreater London
-p2211
-aa(lp2212
+p2432
+aVLondon
+p2433
+aa(lp2434
 S'Bobbie Williams'
-p2213
+p2435
 aS'1912'
-p2214
+p2436
 aS'Fullback'
-p2215
+p2437
 aS'4'
 aS'2'
 aS'2'
@@ -5669,20 +6162,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p2216
+p2438
 aVUnited Kingdom
-p2217
+p2439
 aVCF37; CF38
-p2218
+p2440
 aVWales
-p2219
-aa(lp2220
+p2441
+aVMid Glamorgan
+p2442
+aa(lp2443
 S'Alban Davies'
-p2221
+p2444
 aS'1913'
-p2222
+p2445
 aS'Prop'
-p2223
+p2446
 aS'7'
 aS'6'
 aS'1'
@@ -5690,20 +6185,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Aberaeron'
-p2224
+p2447
 aVUnited Kingdom
-p2225
+p2448
 aVWales
-p2226
+p2449
 aVCeredigion
-p2227
-aa(lp2228
+p2450
+aVAberaeron
+p2451
+aa(lp2452
 S'Tuan Jones'
-p2229
+p2453
 aS'1908'
-p2230
+p2454
 aS'Halfback'
-p2231
+p2455
 aS'3'
 aS'1'
 aS'1'
@@ -5711,20 +6208,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Pontypool'
-p2232
+p2456
 aVUnited Kingdom
-p2233
+p2457
 aVNP4
-p2234
+p2458
 aVWales
-p2235
-aa(lp2236
+p2459
+aVMonmouthshire
+p2460
+aa(lp2461
 S'Howell Lewis'
-p2237
+p2462
 aS'1913'
-p2238
+p2463
 aS'Wing'
-p2239
+p2464
 aS'4'
 aS'3'
 aS'1'
@@ -5732,20 +6231,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontardawe'
-p2240
+p2465
 aVUnited Kingdom
-p2241
+p2466
 aVWales
-p2242
+p2467
 aVNeath Port Talbot
-p2243
-aa(lp2244
+p2468
+aVPontardawe
+p2469
+aa(lp2470
 S'Bobby Lloyd'
-p2245
+p2471
 aS'1913'
-p2246
+p2472
 aS'Scrum-half'
-p2247
+p2473
 aS'7'
 aS'6'
 aS'1'
@@ -5753,20 +6254,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Crickhowell'
-p2248
+p2474
 aVUnited Kingdom
-p2249
+p2475
 aVWales
-p2250
+p2476
 aVPowys
-p2251
-aa(lp2252
+p2477
+aVCrickhowell
+p2478
+aa(lp2479
 S'Rees Richards'
-p2253
+p2480
 aS'1913'
-p2254
+p2481
 aS'Forward'
-p2255
+p2482
 aS'3'
 aS'3'
 aS'0'
@@ -5774,20 +6277,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cwmavon'
-p2256
+p2483
 aVUnited Kingdom
-p2257
+p2484
 aVWales
-p2258
+p2485
 aVNeath Port Talbot
-p2259
-aa(lp2260
+p2486
+aVCwmafan
+p2487
+aa(lp2488
 S'Glyn Gething'
-p2261
+p2489
 aS'1913'
-p2262
+p2490
 aS'Fullback'
-p2263
+p2491
 aS'1'
 aS'1'
 aS'0'
@@ -5795,20 +6300,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p2264
+p2492
 aVUnited Kingdom
-p2265
+p2493
 aVWales
-p2266
+p2494
 aVWest Glamorgan
-p2267
-aa(lp2268
+p2495
+aVNeath
+p2496
+aa(lp2497
 S'Mark Lewis'
-p2269
+p2498
 aS'1913'
-p2270
+p2499
 aS'Wing'
-p2271
+p2500
 aS'1'
 aS'1'
 aS'0'
@@ -5816,20 +6323,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p2272
+p2501
 aVUnited Kingdom
-p2273
+p2502
 aVCF37; CF38
-p2274
+p2503
 aVWales
-p2275
-aa(lp2276
+p2504
+aVMid Glamorgan
+p2505
+aa(lp2506
 S'William Evans'
-p2277
+p2507
 aS'1914'
-p2278
+p2508
 aS'Centre'
-p2279
+p2509
 aS'4'
 aS'3'
 aS'1'
@@ -5837,20 +6346,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Tonypandy'
-p2280
+p2510
 aVUnited Kingdom
-p2281
+p2511
 aVWales
-p2282
+p2512
 aVRhondda Cynon Taf
-p2283
-aa(lp2284
+p2513
+aVTonypandy
+p2514
+aa(lp2515
 S'Jack Jones'
-p2285
+p2516
 aS'1914'
-p2286
+p2517
 aS'Prop'
-p2287
+p2518
 aS'4'
 aS'3'
 aS'1'
@@ -5861,13 +6372,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2288
+aS's'
+aa(lp2519
 S'Edgar Morgan'
-p2289
+p2520
 aS'1908'
-p2290
+p2521
 aS'No. 8'
-p2291
+p2522
 aS'6'
 aS'3'
 aS'2'
@@ -5875,20 +6387,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Pontardawe'
-p2292
+p2523
 aVUnited Kingdom
-p2293
+p2524
 aVWales
-p2294
+p2525
 aVNeath Port Talbot
-p2295
-aa(lp2296
+p2526
+aVPontardawe
+p2527
+aa(lp2528
 S'David Watts'
-p2297
+p2529
 aS'1914'
-p2298
+p2530
 aS'Lock'
-p2299
+p2531
 aS'4'
 aS'3'
 aS'1'
@@ -5896,20 +6410,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Maesteg'
-p2300
+p2532
 aVUnited Kingdom
-p2301
+p2533
 aVWales
-p2302
+p2534
 aVBridgend
-p2303
-aa(lp2304
+p2535
+aVMaesteg
+p2536
+aa(lp2537
 S'William Watts'
-p2305
+p2538
 aS'1914'
-p2306
+p2539
 aS'Centre'
-p2307
+p2540
 aS'1'
 aS'0'
 aS'1'
@@ -5917,20 +6433,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Llanelly'
-p2308
+p2541
 aVAustralia
-p2309
+p2542
 aVVictoria
-p2310
+p2543
 aVLoddon Mallee
-p2311
-aa(lp2312
+p2544
+aVShire of Loddon
+p2545
+aa(lp2546
 S'Ivor Davies'
-p2313
+p2547
 aS'1914'
-p2314
+p2548
 aS'Wing'
-p2315
+p2549
 aS'3'
 aS'3'
 aS'0'
@@ -5938,43 +6456,47 @@ aS'0'
 aS'2'
 aS'6'
 aS'Carmarthen'
-p2316
+p2550
 aVUnited Kingdom
-p2317
+p2551
 aVWales
-p2318
+p2552
 aVCarmarthenshire
-p2319
-aa(lp2320
+p2553
+aVCarmarthen
+p2554
+aa(lp2555
 S'Jack Wetter'
-p2321
+p2556
 aS'1914'
-p2322
+p2557
 aS'Fly-half'
-p2323
+p2558
 aS'10'
-p2324
+p2559
 aS'6'
 aS'4'
 aS'0'
 aS'4'
 aS'14'
-p2325
+p2560
 aS'Newport'
-p2326
+p2561
 aVUnited Kingdom
-p2327
+p2562
 aVNP
-p2328
+p2563
 aVWales
-p2329
-aa(lp2330
+p2564
+aVMonmouthshire
+p2565
+aa(lp2566
 S'Ianto Davies'
-p2331
+p2567
 aS'1919'
-p2332
+p2568
 aS'Fullback'
-p2333
+p2569
 aS'1'
 aS'0'
 aS'1'
@@ -5982,20 +6504,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Maesteg'
-p2334
+p2570
 aVUnited Kingdom
-p2335
+p2571
 aVWales
-p2336
+p2572
 aVBridgend
-p2337
-aa(lp2338
+p2573
+aVMaesteg
+p2574
+aa(lp2575
 S'Ike Fowler'
-p2339
+p2576
 aS'1919'
-p2340
+p2577
 aS'Scrum-half'
-p2341
+p2578
 aS'1'
 aS'0'
 aS'1'
@@ -6003,20 +6527,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pantyffynnon'
-p2342
+p2579
 aVUnited Kingdom
-p2343
+p2580
 aVWales
-p2344
+p2581
 aVCarmarthenshire
-p2345
-aa(lp2346
+p2582
+aVPantyffynnon
+p2583
+aa(lp2584
 S'Gwyn Francis'
-p2347
+p2585
 aS'1919'
-p2348
+p2586
 aS'Lock'
-p2349
+p2587
 aS'2'
 aS'0'
 aS'2'
@@ -6024,648 +6550,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Gorseinon'
-p2350
-aVUnited Kingdom
-p2351
-aVWales
-p2352
-aVWest Glamorgan
-p2353
-aa(lp2354
-S'Bill Havard'
-p2355
-aS'1919'
-p2356
-aS'Prop'
-p2357
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Neuadd'
-p2358
-aVUnited Kingdom
-p2359
-aVSA40 9QG
-p2360
-aVWales
-p2361
-aa(lp2362
-S'Jim Jones'
-p2363
-aS'1919'
-p2364
-aS'Flanker'
-p2365
-aS'6'
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2366
-S'Bill Morris'
-p2367
-aS'1919'
-p2368
-aS'Prop'
-p2369
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Abertillery'
-p2370
-aVUnited Kingdom
-p2371
-aVNP13 1
-p2372
-aVWales
-p2373
-aa(lp2374
-S'Trevor Nicholas'
-p2375
-aS'1919'
-p2376
-aS'Wing'
-p2377
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Sudbrook'
-p2378
-aVUnited Kingdom
-p2379
-aVEngland
-p2380
-aVSouth West England
-p2381
-aa(lp2382
-S'Tom Parker'
-p2383
-aS'1919'
-p2384
-aS'Flanker'
-p2385
-aS'15'
-p2386
-aS'8'
-aS'6'
-aS'1'
-aS'2'
-aS'6'
-aS'Llansamlet'
-p2387
-aVUnited Kingdom
-p2388
-aVWales
-p2389
-aVSwansea
-p2390
-aa(lp2391
-S'Aaron Rees'
-p2392
-aS'1919'
-p2393
-aS'Flanker'
-p2394
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Maesteg'
-p2395
-aVUnited Kingdom
-p2396
-aVWales
-p2397
-aVBridgend
-p2398
-aa(lp2399
-S'Evan Rees'
-p2400
-aS'1919'
-p2401
-aS'Centre'
-p2402
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Bridgend'
-p2403
-aVUnited Kingdom
-p2404
-aVWales
-p2405
-aVBridgend
-p2406
-aa(lp2407
-S'Jerry Shea'
-p2408
-aS'1919'
-p2409
-aS'Centre'
-p2410
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'1'
-aS'19'
-p2411
-aS'Newport'
-p2412
-aVUnited Kingdom
-p2413
-aVNP
-p2414
-aVWales
-p2415
-aa(lp2416
-S'Melbourne Thomas'
-p2417
-aS'1919'
-p2418
-aS'Wing'
-p2419
-aS'6'
-aS'3'
-aS'3'
-aS'0'
-aS'2'
-aS'6'
-aS'Nantymoel'
-p2420
-aS'g'
-aS'n'
-aS'i'
-aa(lp2421
-S'Jack Whitfield'
-p2422
-aS'1919'
-p2423
-aS'Lock'
-p2424
-aS'12'
-p2425
-aS'6'
-aS'5'
-aS'1'
-aS'5'
-aS'15'
-p2426
-aS'Newport'
-p2427
-aVUnited Kingdom
-p2428
-aVNP
-p2429
-aVWales
-p2430
-aa(lp2431
-S'Ben Beynon'
-p2432
-aS'1920'
-p2433
-aS'Fly-half'
-p2434
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Swansea'
-p2435
-aVUnited Kingdom
-p2436
-aVWales
-p2437
-aVWest Glamorgan
-p2438
-aa(lp2439
-S'Brinley Evans'
-p2440
-aS'1920'
-p2441
-aS'Centre'
-p2442
-aS'5'
-aS'4'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Felinfoel'
-p2443
-aVUnited Kingdom
-p2444
-aVWales
-p2445
-aVCarmarthenshire
-p2446
-aa(lp2447
-S'Albert Jenkins'
-p2448
-aS'1920'
-p2449
-aS'Centre'
-p2450
-aS'14'
-p2451
-aS'7'
-aS'7'
-aS'0'
-aS'4'
-aS'47'
-p2452
-aS'Llanelly'
-p2453
-aVAustralia
-p2454
-aVVictoria
-p2455
-aVLoddon Mallee
-p2456
-aa(lp2457
-S'Charles Jones'
-p2458
-aS'1920'
-p2459
-aS'Flanker'
-p2460
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cardiff'
-p2461
-aVUnited Kingdom
-p2462
-aVWales
-p2463
-aVCardiff
-p2464
-aa(lp2465
-S'Steve Morris'
-p2466
-aS'1920'
-p2467
-aS'Flanker'
-p2468
-aS'19'
-p2469
-aS'9'
-aS'9'
-aS'1'
-aS'0'
-aS'0'
-aS'Newport'
-p2470
-aVUnited Kingdom
-p2471
-aVNP
-p2472
-aVWales
-p2473
-aa(lp2474
-S'George Oliver'
-p2475
-aS'1920'
-p2476
-aS'Flanker'
-p2477
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Pontypool'
-p2478
-aVUnited Kingdom
-p2479
-aVNP4
-p2480
-aVWales
-p2481
-aa(lp2482
-S'Wick Powell'
-p2483
-aS'1920'
-p2484
-aS'Wing'
-p2485
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'2'
-aS'6'
-aS'Cardiff'
-p2486
-aVUnited Kingdom
-p2487
-aVWales
-p2488
-aVCardiff
-p2489
-aa(lp2490
-S'Joe Rees'
-p2491
-aS'1920'
-p2492
-aS'Fullback'
-p2493
-aS'12'
-p2494
-aS'6'
-aS'6'
-aS'0'
-aS'0'
-aS'7'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
-aa(lp2495
-S'Jack Williams'
-p2496
-aS'1920'
-p2497
-aS'Prop'
-p2498
-aS'7'
-aS'5'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'Blaina'
-p2499
-aVUnited Kingdom
-p2500
-aVWales
-p2501
-aVBlaenau Gwent
-p2502
-aa(lp2503
-S'Brinley Williams'
-p2504
-aS'1920'
-p2505
-aS'Wing'
-p2506
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'4'
-aS'12'
-p2507
-aS'Llanelly'
-p2508
-aVAustralia
-p2509
-aVVictoria
-p2510
-aVLoddon Mallee
-p2511
-aa(lp2512
-S'Dick Huxtable'
-p2513
-aS'1920'
-p2514
-aS'Flanker'
-p2515
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Swansea'
-p2516
-aVUnited Kingdom
-p2517
-aVWales
-p2518
-aVWest Glamorgan
-p2519
-aa(lp2520
-S'Fred Reeves'
-p2521
-aS'1920'
-p2522
-aS'Scrum-half'
-p2523
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cross Keys'
-p2524
-aVUnited States of America
-p2525
-aVDelaware
-p2526
-aVSussex County
-p2527
-aa(lp2528
-S'Edgar Morgan'
-p2529
-aS'1920'
-p2530
-aS'Flanker'
-p2531
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Llanelly'
-p2532
-aVAustralia
-p2533
-aVVictoria
-p2534
-aVLoddon Mallee
-p2535
-aa(lp2536
-S'Len Attewell'
-p2537
-aS'1921'
-p2538
-aS'Prop'
-p2539
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Newport'
-p2540
-aVUnited Kingdom
-p2541
-aVNP
-p2542
-aVWales
-p2543
-aa(lp2544
-S'Dai Edwards'
-p2545
-aS'1921'
-p2546
-aS'Lock'
-p2547
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Glynneath'
-p2548
-aVUnited Kingdom
-p2549
-aVCF37 1SY
-p2550
-aVWales
-p2551
-aa(lp2552
-S'Wilf Hodder'
-p2553
-aS'1921'
-p2554
-aS'Flanker'
-p2555
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'Abersychan'
-p2556
-aVUnited Kingdom
-p2557
-aVNP4
-p2558
-aVWales
-p2559
-aa(lp2560
-S'Codger Johnson'
-p2561
-aS'1921'
-p2562
-aS'Wing'
-p2563
-aS'12'
-p2564
-aS'4'
-aS'8'
-aS'0'
-aS'1'
-aS'6'
-aS'Cardiff'
-p2565
-aVUnited Kingdom
-p2566
-aVWales
-p2567
-aVCardiff
-p2568
-aa(lp2569
-S'Douglas Marsden-Jones'
-p2570
-aS'1921'
-p2571
-aS'Forward'
-p2572
-aS'4'
-aS'0'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'Swansea'
-p2573
-aVUnited Kingdom
-p2574
-aVWales
-p2575
-aVWest Glamorgan
-p2576
-aa(lp2577
-S'Johnny Ring'
-p2578
-aS'1921'
-p2579
-aS'Wing'
-p2580
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'Port Talbot'
-p2581
-aVUnited Kingdom
-p2582
-aVWales
-p2583
-aVNeath Port Talbot
-p2584
-aa(lp2585
-S'Docker Winmill'
-p2586
-aS'1921'
-p2587
-aS'Prop'
 p2588
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Bedwellty'
-p2589
 aVUnited Kingdom
-p2590
+p2589
 aVWales
+p2590
+aVWest Glamorgan
 p2591
-aVMonmouthshire
+aVGorseinon
 p2592
 aa(lp2593
-S'Paul Baker-Jones'
+S'Bill Havard'
 p2594
-aS'1921'
+aS'1919'
 p2595
-aS'Centre'
+aS'Prop'
 p2596
 aS'1'
 aS'0'
@@ -6673,131 +6572,26 @@ aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'Newport'
+aS'Neuadd'
 p2597
 aVUnited Kingdom
 p2598
-aVNP
+aVSA40 9QG
 p2599
 aVWales
 p2600
-aa(lp2601
-S'William Bowen'
-p2602
-aS'1921'
-p2603
-aS'Fly-half'
-p2604
-aS'6'
-aS'4'
-aS'1'
-aS'1'
-aS'2'
-aS'6'
-aS'Swansea'
-p2605
-aVUnited Kingdom
-p2606
-aVWales
-p2607
-aVWest Glamorgan
-p2608
-aa(lp2609
-S'Frankie Evans'
-p2610
-aS'1921'
-p2611
-aS'Wing'
-p2612
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dafen'
-p2613
-aVUnited Kingdom
-p2614
-aVWales
-p2615
 aVCarmarthenshire
-p2616
-aa(lp2617
-S'Tom Roberts'
-p2618
-aS'1921'
-p2619
-aS'Lock'
-p2620
-aS'9'
-aS'5'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'Risca'
-p2621
-aVUnited Kingdom
-p2622
-aVNP11
-p2623
-aVWales
-p2624
-aa(lp2625
-S'Harry Davies'
-p2626
-aS'1921'
-p2627
-aS'Centre'
-p2628
+p2601
+aa(lp2602
+S'Jim Jones'
+p2603
+aS'1919'
+p2604
+aS'Flanker'
+p2605
+aS'6'
 aS'3'
 aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Llanelly'
-p2629
-aVAustralia
-p2630
-aVVictoria
-p2631
-aVLoddon Mallee
-p2632
-aa(lp2633
-S'Ossie Male'
-p2634
-aS'1921'
-p2635
-aS'Fullback'
-p2636
-aS'11'
-p2637
-aS'3'
-aS'8'
-aS'0'
-aS'0'
-aS'15'
-p2638
-aS'Newport'
-p2639
-aVUnited Kingdom
-p2640
-aVNP
-p2641
-aVWales
-p2642
-aa(lp2643
-S'Tudor Williams'
-p2644
-aS'1921'
-p2645
-aS'Scrum-half'
-p2646
-aS'1'
-aS'1'
-aS'0'
 aS'0'
 aS'0'
 aS'0'
@@ -6805,79 +6599,180 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2647
-S'Ambrose Baker'
-p2648
-aS'1921'
-p2649
-aS'Flanker'
-p2650
-aS'5'
+aS's'
+aa(lp2606
+S'Bill Morris'
+p2607
+aS'1919'
+p2608
+aS'Prop'
+p2609
+aS'3'
 aS'2'
-aS'3'
-aS'0'
 aS'1'
-aS'3'
-aS'Swansea'
-p2651
+aS'0'
+aS'0'
+aS'0'
+aS'Abertillery'
+p2610
 aVUnited Kingdom
-p2652
+p2611
+aVNP13 1
+p2612
 aVWales
-p2653
-aVWest Glamorgan
-p2654
-aa(lp2655
-S'Archie Brown'
-p2656
-aS'1921'
-p2657
-aS'Scrum-half'
-p2658
+p2613
+aVBlaenau Gwent
+p2614
+aa(lp2615
+S'Trevor Nicholas'
+p2616
+aS'1919'
+p2617
+aS'Wing'
+p2618
 aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'0'
-aS'date unknown'
-p2659
-aS'g'
-aS'n'
-aS'i'
-aa(lp2660
-S'Daph Davies'
-p2661
-aS'1921'
-p2662
-aS'Centre'
-p2663
+aS'Sudbrook'
+p2619
+aVUnited Kingdom
+p2620
+aVEngland
+p2621
+aVSouth West England
+p2622
+aVGloucestershire
+p2623
+aa(lp2624
+S'Tom Parker'
+p2625
+aS'1919'
+p2626
+aS'Flanker'
+p2627
+aS'15'
+p2628
+aS'8'
+aS'6'
+aS'1'
 aS'2'
+aS'6'
+aS'Llansamlet'
+p2629
+aVUnited Kingdom
+p2630
+aVWales
+p2631
+aVSwansea
+p2632
+aVTregof
+p2633
+aa(lp2634
+S'Aaron Rees'
+p2635
+aS'1919'
+p2636
+aS'Flanker'
+p2637
 aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Maesteg'
+p2638
+aVUnited Kingdom
+p2639
+aVWales
+p2640
+aVBridgend
+p2641
+aVMaesteg
+p2642
+aa(lp2643
+S'Evan Rees'
+p2644
+aS'1919'
+p2645
+aS'Centre'
+p2646
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'Bridgend'
-p2664
+p2647
 aVUnited Kingdom
-p2665
+p2648
 aVWales
-p2666
+p2649
 aVBridgend
+p2650
+ag9
+aa(lp2651
+S'Jerry Shea'
+p2652
+aS'1919'
+p2653
+aS'Centre'
+p2654
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'1'
+aS'19'
+p2655
+aS'Newport'
+p2656
+aVUnited Kingdom
+p2657
+aVNP
+p2658
+aVWales
+p2659
+aVMonmouthshire
+p2660
+aa(lp2661
+S'Melbourne Thomas'
+p2662
+aS'1919'
+p2663
+aS'Wing'
+p2664
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'2'
+aS'6'
+aS'Nantymoel'
+p2665
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2666
+S'Jack Whitfield'
 p2667
-aa(lp2668
-S'Jack Prosser'
+aS'1919'
+p2668
+aS'Lock'
 p2669
-aS'1921'
+aS'12'
 p2670
-aS'Prop'
+aS'6'
+aS'5'
+aS'1'
+aS'5'
+aS'15'
 p2671
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
 aS'Newport'
 p2672
 aVUnited Kingdom
@@ -6886,13 +6781,718 @@ aVNP
 p2674
 aVWales
 p2675
-aa(lp2676
-S'Will Cummings'
-p2677
-aS'1922'
+aVMonmouthshire
+p2676
+aa(lp2677
+S'Ben Beynon'
 p2678
-aS'No. 8'
+aS'1920'
 p2679
+aS'Fly-half'
+p2680
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Swansea'
+p2681
+aVUnited Kingdom
+p2682
+aVWales
+p2683
+aVWest Glamorgan
+p2684
+aVSwansea
+p2685
+aa(lp2686
+S'Brinley Evans'
+p2687
+aS'1920'
+p2688
+aS'Centre'
+p2689
+aS'5'
+aS'4'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Felinfoel'
+p2690
+aVUnited Kingdom
+p2691
+aVWales
+p2692
+aVCarmarthenshire
+p2693
+aVFelinfoel
+p2694
+aa(lp2695
+S'Albert Jenkins'
+p2696
+aS'1920'
+p2697
+aS'Centre'
+p2698
+aS'14'
+p2699
+aS'7'
+aS'7'
+aS'0'
+aS'4'
+aS'47'
+p2700
+aS'Llanelly'
+p2701
+aVAustralia
+p2702
+aVVictoria
+p2703
+aVLoddon Mallee
+p2704
+aVShire of Loddon
+p2705
+aa(lp2706
+S'Charles Jones'
+p2707
+aS'1920'
+p2708
+aS'Flanker'
+p2709
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cardiff'
+p2710
+aVUnited Kingdom
+p2711
+aVWales
+p2712
+aVCardiff
+p2713
+ag9
+aa(lp2714
+S'Steve Morris'
+p2715
+aS'1920'
+p2716
+aS'Flanker'
+p2717
+aS'19'
+p2718
+aS'9'
+aS'9'
+aS'1'
+aS'0'
+aS'0'
+aS'Newport'
+p2719
+aVUnited Kingdom
+p2720
+aVNP
+p2721
+aVWales
+p2722
+aVMonmouthshire
+p2723
+aa(lp2724
+S'George Oliver'
+p2725
+aS'1920'
+p2726
+aS'Flanker'
+p2727
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontypool'
+p2728
+aVUnited Kingdom
+p2729
+aVNP4
+p2730
+aVWales
+p2731
+aVMonmouthshire
+p2732
+aa(lp2733
+S'Wick Powell'
+p2734
+aS'1920'
+p2735
+aS'Wing'
+p2736
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'Cardiff'
+p2737
+aVUnited Kingdom
+p2738
+aVWales
+p2739
+aVCardiff
+p2740
+ag9
+aa(lp2741
+S'Joe Rees'
+p2742
+aS'1920'
+p2743
+aS'Fullback'
+p2744
+aS'12'
+p2745
+aS'6'
+aS'6'
+aS'0'
+aS'0'
+aS'7'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2746
+S'Jack Williams'
+p2747
+aS'1920'
+p2748
+aS'Prop'
+p2749
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Blaina'
+p2750
+aVUnited Kingdom
+p2751
+aVWales
+p2752
+aVBlaenau Gwent
+p2753
+aVBlaina
+p2754
+aa(lp2755
+S'Brinley Williams'
+p2756
+aS'1920'
+p2757
+aS'Wing'
+p2758
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'4'
+aS'12'
+p2759
+aS'Llanelly'
+p2760
+aVAustralia
+p2761
+aVVictoria
+p2762
+aVLoddon Mallee
+p2763
+aVShire of Loddon
+p2764
+aa(lp2765
+S'Dick Huxtable'
+p2766
+aS'1920'
+p2767
+aS'Flanker'
+p2768
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Swansea'
+p2769
+aVUnited Kingdom
+p2770
+aVWales
+p2771
+aVWest Glamorgan
+p2772
+aVSwansea
+p2773
+aa(lp2774
+S'Fred Reeves'
+p2775
+aS'1920'
+p2776
+aS'Scrum-half'
+p2777
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cross Keys'
+p2778
+aVUnited States of America
+p2779
+aVDelaware
+p2780
+aVSussex County
+p2781
+aVCross Keys
+p2782
+aa(lp2783
+S'Edgar Morgan'
+p2784
+aS'1920'
+p2785
+aS'Flanker'
+p2786
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Llanelly'
+p2787
+aVAustralia
+p2788
+aVVictoria
+p2789
+aVLoddon Mallee
+p2790
+aVShire of Loddon
+p2791
+aa(lp2792
+S'Len Attewell'
+p2793
+aS'1921'
+p2794
+aS'Prop'
+p2795
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p2796
+aVUnited Kingdom
+p2797
+aVNP
+p2798
+aVWales
+p2799
+aVMonmouthshire
+p2800
+aa(lp2801
+S'Dai Edwards'
+p2802
+aS'1921'
+p2803
+aS'Lock'
+p2804
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Glynneath'
+p2805
+aVUnited Kingdom
+p2806
+aVCF37 1SY
+p2807
+aVWales
+p2808
+aVRhondda Cynon Taf
+p2809
+aa(lp2810
+S'Wilf Hodder'
+p2811
+aS'1921'
+p2812
+aS'Flanker'
+p2813
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Abersychan'
+p2814
+aVUnited Kingdom
+p2815
+aVNP4
+p2816
+aVWales
+p2817
+aVTorfaen
+p2818
+aa(lp2819
+S'Codger Johnson'
+p2820
+aS'1921'
+p2821
+aS'Wing'
+p2822
+aS'12'
+p2823
+aS'4'
+aS'8'
+aS'0'
+aS'1'
+aS'6'
+aS'Cardiff'
+p2824
+aVUnited Kingdom
+p2825
+aVWales
+p2826
+aVCardiff
+p2827
+ag9
+aa(lp2828
+S'Douglas Marsden-Jones'
+p2829
+aS'1921'
+p2830
+aS'Forward'
+p2831
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Swansea'
+p2832
+aVUnited Kingdom
+p2833
+aVWales
+p2834
+aVWest Glamorgan
+p2835
+aVSwansea
+p2836
+aa(lp2837
+S'Johnny Ring'
+p2838
+aS'1921'
+p2839
+aS'Wing'
+p2840
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Port Talbot'
+p2841
+aVUnited Kingdom
+p2842
+aVWales
+p2843
+aVNeath Port Talbot
+p2844
+aVPort Talbot
+p2845
+aa(lp2846
+S'Docker Winmill'
+p2847
+aS'1921'
+p2848
+aS'Prop'
+p2849
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bedwellty'
+p2850
+aVUnited Kingdom
+p2851
+aVWales
+p2852
+aVMonmouthshire
+p2853
+aVBedwellty
+p2854
+aa(lp2855
+S'Paul Baker-Jones'
+p2856
+aS'1921'
+p2857
+aS'Centre'
+p2858
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p2859
+aVUnited Kingdom
+p2860
+aVNP
+p2861
+aVWales
+p2862
+aVMonmouthshire
+p2863
+aa(lp2864
+S'William Bowen'
+p2865
+aS'1921'
+p2866
+aS'Fly-half'
+p2867
+aS'6'
+aS'4'
+aS'1'
+aS'1'
+aS'2'
+aS'6'
+aS'Swansea'
+p2868
+aVUnited Kingdom
+p2869
+aVWales
+p2870
+aVWest Glamorgan
+p2871
+aVSwansea
+p2872
+aa(lp2873
+S'Frankie Evans'
+p2874
+aS'1921'
+p2875
+aS'Wing'
+p2876
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dafen'
+p2877
+aVUnited Kingdom
+p2878
+aVWales
+p2879
+aVCarmarthenshire
+p2880
+aVDafen
+p2881
+aa(lp2882
+S'Tom Roberts'
+p2883
+aS'1921'
+p2884
+aS'Lock'
+p2885
+aS'9'
+aS'5'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Risca'
+p2886
+aVUnited Kingdom
+p2887
+aVNP11
+p2888
+aVWales
+p2889
+aVMonmouthshire
+p2890
+aa(lp2891
+S'Harry Davies'
+p2892
+aS'1921'
+p2893
+aS'Centre'
+p2894
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Llanelly'
+p2895
+aVAustralia
+p2896
+aVVictoria
+p2897
+aVLoddon Mallee
+p2898
+aVShire of Loddon
+p2899
+aa(lp2900
+S'Ossie Male'
+p2901
+aS'1921'
+p2902
+aS'Fullback'
+p2903
+aS'11'
+p2904
+aS'3'
+aS'8'
+aS'0'
+aS'0'
+aS'15'
+p2905
+aS'Newport'
+p2906
+aVUnited Kingdom
+p2907
+aVNP
+p2908
+aVWales
+p2909
+aVMonmouthshire
+p2910
+aa(lp2911
+S'Tudor Williams'
+p2912
+aS'1921'
+p2913
+aS'Scrum-half'
+p2914
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2915
+S'Ambrose Baker'
+p2916
+aS'1921'
+p2917
+aS'Flanker'
+p2918
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'Swansea'
+p2919
+aVUnited Kingdom
+p2920
+aVWales
+p2921
+aVWest Glamorgan
+p2922
+aVSwansea
+p2923
+aa(lp2924
+S'Archie Brown'
+p2925
+aS'1921'
+p2926
+aS'Scrum-half'
+p2927
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2928
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2929
+S'Daph Davies'
+p2930
+aS'1921'
+p2931
+aS'Centre'
+p2932
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bridgend'
+p2933
+aVUnited Kingdom
+p2934
+aVWales
+p2935
+aVBridgend
+p2936
+ag9
+aa(lp2937
+S'Jack Prosser'
+p2938
+aS'1921'
+p2939
+aS'Prop'
+p2940
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p2941
+aVUnited Kingdom
+p2942
+aVNP
+p2943
+aVWales
+p2944
+aVMonmouthshire
+p2945
+aa(lp2946
+S'Will Cummings'
+p2947
+aS'1922'
+p2948
+aS'No. 8'
+p2949
 aS'4'
 aS'3'
 aS'0'
@@ -6900,64 +7500,68 @@ aS'1'
 aS'1'
 aS'3'
 aS'Cardiff'
-p2680
+p2950
 aVUnited Kingdom
-p2681
+p2951
 aVWales
-p2682
+p2952
 aVCardiff
-p2683
-aa(lp2684
+p2953
+ag9
+aa(lp2954
 S'Bobby Delahay'
-p2685
+p2955
 aS'1922'
-p2686
+p2956
 aS'Scrum-half'
-p2687
+p2957
 aS'18'
-p2688
+p2958
 aS'7'
 aS'9'
 aS'2'
 aS'2'
 aS'6'
 aS'Bridgend'
-p2689
+p2959
 aVUnited Kingdom
-p2690
+p2960
 aVWales
-p2691
+p2961
 aVBridgend
-p2692
-aa(lp2693
+p2962
+ag9
+aa(lp2963
 S'Islwyn Evans'
-p2694
+p2964
 aS'1922'
-p2695
+p2965
 aS'Centre'
-p2696
+p2966
 aS'4'
 aS'3'
 aS'0'
 aS'1'
 aS'3'
 aS'13'
-p2697
+p2967
 aS'Llanelly'
-p2698
+p2968
 aVAustralia
-p2699
+p2969
 aVVictoria
-p2700
+p2970
 aVLoddon Mallee
-p2701
-aa(lp2702
+p2971
+aVShire of Loddon
+p2972
+aa(lp2973
 S'Dai Hiddlestone'
-p2703
+p2974
 aS'1922'
-p2704
+p2975
 aS'Flanker'
-p2705
+p2976
 aS'5'
 aS'3'
 aS'1'
@@ -6965,20 +7569,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Hendy'
-p2706
+p2977
 aVUnited Kingdom
-p2707
+p2978
 aVWales
-p2708
+p2979
 aVGwynedd
-p2709
-aa(lp2710
+p2980
+aVTywyn
+p2981
+aa(lp2982
 S'Tom Jones'
-p2711
+p2983
 aS'1922'
-p2712
+p2984
 aS'Prop'
-p2713
+p2985
 aS'6'
 aS'3'
 aS'2'
@@ -6986,20 +7592,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Pontnewydd'
-p2714
+p2986
 aVUnited Kingdom
-p2715
+p2987
 aVNP44
-p2716
+p2988
 aVWales
-p2717
-aa(lp2718
+p2989
+aVTorfaen
+p2990
+aa(lp2991
 S'Frank Palmer'
-p2719
+p2992
 aS'1922'
-p2720
+p2993
 aS'Wing'
-p2721
+p2994
 aS'3'
 aS'2'
 aS'0'
@@ -7007,20 +7615,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Swansea'
-p2722
+p2995
 aVUnited Kingdom
-p2723
+p2996
 aVWales
-p2724
+p2997
 aVWest Glamorgan
-p2725
-aa(lp2726
+p2998
+aVSwansea
+p2999
+aa(lp3000
 S'Cliff Richards'
-p2727
+p3001
 aS'1922'
-p2728
+p3002
 aS'Wing'
-p2729
+p3003
 aS'5'
 aS'3'
 aS'1'
@@ -7028,20 +7638,22 @@ aS'1'
 aS'2'
 aS'6'
 aS'Hafodyrynys'
-p2730
+p3004
 aVUnited Kingdom
-p2731
+p3005
 aVWales
-p2732
+p3006
 aVTorfaen
-p2733
-aa(lp2734
+p3007
+aVCefn Crib Road
+p3008
+aa(lp3009
 S'John Stephens'
-p2735
+p3010
 aS'1922'
-p2736
+p3011
 aS'Flanker'
-p2737
+p3012
 aS'4'
 aS'3'
 aS'0'
@@ -7049,20 +7661,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Llanbadarn Fawr'
-p2738
+p3013
 aVUnited Kingdom
-p2739
+p3014
 aVWales
-p2740
+p3015
 aVCeredigion
-p2741
-aa(lp2742
+p3016
+aVSouthgate
+p3017
+aa(lp3018
 S'Fred Samuel'
-p2743
+p3019
 aS'1922'
-p2744
+p3020
 aS'Fullback'
-p2745
+p3021
 aS'3'
 aS'2'
 aS'0'
@@ -7070,42 +7684,45 @@ aS'1'
 aS'0'
 aS'4'
 aS'Llanelly'
-p2746
+p3022
 aVAustralia
-p2747
+p3023
 aVVictoria
-p2748
+p3024
 aVLoddon Mallee
-p2749
-aa(lp2750
+p3025
+aVShire of Loddon
+p3026
+aa(lp3027
 S'Arthur Cornish'
-p2751
+p3028
 aS'1923'
-p2752
+p3029
 aS'Centre'
-p2753
+p3030
 aS'10'
-p2754
+p3031
 aS'3'
 aS'6'
 aS'1'
 aS'1'
 aS'7'
 aS'Cardiff'
-p2755
+p3032
 aVUnited Kingdom
-p2756
+p3033
 aVWales
-p2757
+p3034
 aVCardiff
-p2758
-aa(lp2759
+p3035
+ag9
+aa(lp3036
 S'Dai Davies'
-p2760
+p3037
 aS'1923'
-p2761
+p3038
 aS'Prop'
-p2762
+p3039
 aS'2'
 aS'0'
 aS'2'
@@ -7113,44 +7730,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Treorchy'
-p2763
+p3040
 aVUnited Kingdom
-p2764
+p3041
 aVWales
-p2765
+p3042
 aVRhondda Cynon Taf
-p2766
-aa(lp2767
+p3043
+aVTreorchy
+p3044
+aa(lp3045
 S'Rowe Harding'
-p2768
+p3046
 aS'1923'
-p2769
+p3047
 aS'Wing'
-p2770
+p3048
 aS'20'
-p2771
+p3049
 aS'6'
 aS'12'
-p2772
+p3050
 aS'2'
 aS'5'
 aS'15'
-p2773
+p3051
 aS'Swansea'
-p2774
+p3052
 aVUnited Kingdom
-p2775
+p3053
 aVWales
-p2776
+p3054
 aVWest Glamorgan
-p2777
-aa(lp2778
+p3055
+aVSwansea
+p3056
+aa(lp3057
 S'Gwilym Michael'
-p2779
+p3058
 aS'1923'
-p2780
+p3059
 aS'Flanker'
-p2781
+p3060
 aS'3'
 aS'1'
 aS'2'
@@ -7158,20 +7779,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Pontardawe'
-p2782
+p3061
 aVUnited Kingdom
-p2783
+p3062
 aVWales
-p2784
+p3063
 aVNeath Port Talbot
-p2785
-aa(lp2786
+p3064
+aVPontardawe
+p3065
+aa(lp3066
 S'Gethin Thomas'
-p2787
+p3067
 aS'1923'
-p2788
+p3068
 aS'Lock'
-p2789
+p3069
 aS'4'
 aS'1'
 aS'3'
@@ -7179,20 +7802,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llwynhendy'
-p2790
+p3070
 aVUnited Kingdom
-p2791
+p3071
 aVWales
-p2792
+p3072
 aVCarmarthenshire
-p2793
-aa(lp2794
+p3073
+aVDafen
+p3074
+aa(lp3075
 S'Joe Thompson'
-p2795
+p3076
 aS'1923'
-p2796
+p3077
 aS'No. 8'
-p2797
+p3078
 aS'1'
 aS'0'
 aS'1'
@@ -7200,20 +7825,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bristol'
-p2798
+p3079
 aVUnited Kingdom
-p2799
+p3080
 aVEngland
-p2800
+p3081
 aVSouth West England
-p2801
-aa(lp2802
+p3082
+aVCity of Bristol
+p3083
+aa(lp3084
 S'Lew Jenkins'
-p2803
+p3085
 aS'1923'
-p2804
+p3086
 aS'Lock'
-p2805
+p3087
 aS'2'
 aS'1'
 aS'1'
@@ -7221,17 +7848,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Senghenydo'
-p2806
+p3088
 aS'g'
 aS'n'
 aS'i'
-aa(lp2807
+aS's'
+aa(lp3089
 S'Dai John'
-p2808
+p3090
 aS'1923'
-p2809
+p3091
 aS'Fly-half'
-p2810
+p3092
 aS'5'
 aS'2'
 aS'3'
@@ -7239,20 +7867,22 @@ aS'0'
 aS'3'
 aS'9'
 aS'Loughor'
-p2811
+p3093
 aVUnited Kingdom
-p2812
+p3094
 aVWales
-p2813
+p3095
 aVSwansea
-p2814
-aa(lp2815
+p3096
+aVLoughor
+p3097
+aa(lp3098
 S'Dan Pascoe'
-p2816
+p3099
 aS'1923'
-p2817
+p3100
 aS'Flanker'
-p2818
+p3101
 aS'2'
 aS'1'
 aS'1'
@@ -7260,20 +7890,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanharan'
-p2819
+p3102
 aVUnited Kingdom
-p2820
+p3103
 aVWales
-p2821
+p3104
 aVRhondda Cynon Taf
-p2822
-aa(lp2823
+p3105
+aVLlanharan
+p3106
+aa(lp3107
 S'Mapson Williams'
-p2824
+p3108
 aS'1923'
-p2825
+p3109
 aS'No. 8'
-p2826
+p3110
 aS'1'
 aS'1'
 aS'0'
@@ -7281,20 +7913,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Mackay'
-p2827
+p3111
 aVAustralia
-p2828
+p3112
 aVQueensland
-p2829
+p3113
 aVMackay
-p2830
-aa(lp2831
+p3114
+ag9
+aa(lp3115
 S'Tom Collins'
-p2832
+p3116
 aS'1923'
-p2833
+p3117
 aS'Centre'
-p2834
+p3118
 aS'1'
 aS'0'
 aS'1'
@@ -7302,20 +7935,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Merthyr Tydfil'
-p2835
+p3119
 aVUnited Kingdom
-p2836
+p3120
 aVWales
-p2837
+p3121
 aVMerthyr Tydfil
-p2838
-aa(lp2839
+p3122
+ag9
+aa(lp3123
 S'Stan Davies'
-p2840
+p3124
 aS'1923'
-p2841
+p3125
 aS'Prop'
-p2842
+p3126
 aS'1'
 aS'0'
 aS'1'
@@ -7323,20 +7957,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ystrad'
-p2843
+p3127
 aVUnited Kingdom
-p2844
+p3128
 aVWales
-p2845
+p3129
 aVRhondda Cynon Taf
-p2846
-aa(lp2847
+p3130
+aVYstrad
+p3131
+aa(lp3132
 S'John Davies'
-p2848
+p3133
 aS'1923'
-p2849
+p3134
 aS'Flanker'
-p2850
+p3135
 aS'1'
 aS'0'
 aS'1'
@@ -7347,13 +7983,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2851
+aS's'
+aa(lp3136
 S'Jack Powell'
-p2852
+p3137
 aS'1923'
-p2853
+p3138
 aS'Wing'
-p2854
+p3139
 aS'1'
 aS'0'
 aS'1'
@@ -7361,20 +7998,21 @@ aS'0'
 aS'0'
 aS'4'
 aS'Cardiff'
-p2855
+p3140
 aVUnited Kingdom
-p2856
+p3141
 aVWales
-p2857
+p3142
 aVCardiff
-p2858
-aa(lp2859
+p3143
+ag9
+aa(lp3144
 S'William Radford'
-p2860
+p3145
 aS'1923'
-p2861
+p3146
 aS'Flanker'
-p2862
+p3147
 aS'1'
 aS'0'
 aS'1'
@@ -7382,20 +8020,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p2863
+p3148
 aVUnited Kingdom
-p2864
+p3149
 aVWales
-p2865
+p3150
 aVCardiff
-p2866
-aa(lp2867
+p3151
+ag9
+aa(lp3152
 S'Tom Richards'
-p2868
+p3153
 aS'1923'
-p2869
+p3154
 aS'No. 8'
-p2870
+p3155
 aS'1'
 aS'0'
 aS'1'
@@ -7403,20 +8042,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Maesteg'
-p2871
+p3156
 aVUnited Kingdom
-p2872
+p3157
 aVWales
-p2873
+p3158
 aVBridgend
-p2874
-aa(lp2875
+p3159
+aVMaesteg
+p3160
+aa(lp3161
 S'Hunt Davies'
-p2876
+p3162
 aS'1924'
-p2877
+p3163
 aS'Centre'
-p2878
+p3164
 aS'1'
 aS'0'
 aS'1'
@@ -7424,20 +8065,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Port Talbot'
-p2879
+p3165
 aVUnited Kingdom
-p2880
+p3166
 aVWales
-p2881
+p3167
 aVNeath Port Talbot
-p2882
-aa(lp2883
+p3168
+aVPort Talbot
+p3169
+aa(lp3170
 S'Candy Evans'
-p2884
+p3171
 aS'1924'
-p2885
+p3172
 aS'Lock'
-p2886
+p3173
 aS'3'
 aS'1'
 aS'2'
@@ -7445,44 +8088,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Abersychan'
-p2887
+p3174
 aVUnited Kingdom
-p2888
+p3175
 aVNP4
-p2889
+p3176
 aVWales
-p2890
-aa(lp2891
+p3177
+aVTorfaen
+p3178
+aa(lp3179
 S'Ivor Jones'
-p2892
+p3180
 aS'1924'
-p2893
+p3181
 aS'Flanker'
-p2894
+p3182
 aS'21'
-p2895
+p3183
 aS'5'
 aS'15'
-p2896
+p3184
 aS'1'
 aS'1'
 aS'15'
-p2897
+p3185
 aS'Loughor'
-p2898
+p3186
 aVUnited Kingdom
-p2899
+p3187
 aVWales
-p2900
+p3188
 aVSwansea
-p2901
-aa(lp2902
+p3189
+aVLoughor
+p3190
+aa(lp3191
 S'Glyn Morris'
-p2903
+p3192
 aS'1924'
-p2904
+p3193
 aS'Prop'
-p2905
+p3194
 aS'2'
 aS'0'
 aS'2'
@@ -7490,20 +8137,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Burry Port'
-p2906
+p3195
 aVUnited Kingdom
-p2907
+p3196
 aVWales
-p2908
+p3197
 aVCarmarthenshire
-p2909
-aa(lp2910
+p3198
+aVBurry Port
+p3199
+aa(lp3200
 S'William Ould'
-p2911
+p3201
 aS'1924'
-p2912
+p3202
 aS'Lock'
-p2913
+p3203
 aS'2'
 aS'0'
 aS'2'
@@ -7511,20 +8160,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Glyncorrwg'
-p2914
+p3204
 aVUnited Kingdom
-p2915
+p3205
 aVWales
-p2916
+p3206
 aVNeath Port Talbot
-p2917
-aa(lp2918
+p3207
+aVGlyncorrwg
+p3208
+aa(lp3209
 S'Albert Owen'
-p2919
+p3210
 aS'1924'
-p2920
+p3211
 aS'Fly-half'
-p2921
+p3212
 aS'1'
 aS'0'
 aS'1'
@@ -7532,17 +8183,18 @@ aS'0'
 aS'1'
 aS'3'
 aS'Gurnos Cross'
-p2922
+p3213
 aS'g'
 aS'n'
 aS'i'
-aa(lp2923
+aS's'
+aa(lp3214
 S'Charlie Pugh'
-p2924
+p3215
 aS'1924'
-p2925
+p3216
 aS'Lock'
-p2926
+p3217
 aS'7'
 aS'1'
 aS'6'
@@ -7550,20 +8202,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Pontypridd'
-p2927
+p3218
 aVUnited Kingdom
-p2928
+p3219
 aVCF37; CF38
-p2929
+p3220
 aVWales
-p2930
-aa(lp2931
+p3221
+aVMid Glamorgan
+p3222
+aa(lp3223
 S'Ivor Thomas'
-p2932
+p3224
 aS'1924'
-p2933
+p3225
 aS'Hooker'
-p2934
+p3226
 aS'1'
 aS'0'
 aS'1'
@@ -7571,20 +8225,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bridgend'
-p2935
+p3227
 aVUnited Kingdom
-p2936
+p3228
 aVWales
-p2937
+p3229
 aVBridgend
-p2938
-aa(lp2939
+p3230
+ag9
+aa(lp3231
 S'Edward Watkins'
-p2940
+p3232
 aS'1924'
-p2941
+p3233
 aS'Scrum-half'
-p2942
+p3234
 aS'4'
 aS'1'
 aS'3'
@@ -7592,20 +8247,22 @@ aS'0'
 aS'0'
 aS'4'
 aS'Neath'
-p2943
+p3235
 aVUnited Kingdom
-p2944
+p3236
 aVWales
-p2945
+p3237
 aVWest Glamorgan
-p2946
-aa(lp2947
+p3238
+aVNeath
+p3239
+aa(lp3240
 S'Harold Davies'
-p2948
+p3241
 aS'1924'
-p2949
+p3242
 aS'Centre'
-p2950
+p3243
 aS'2'
 aS'0'
 aS'2'
@@ -7613,20 +8270,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p2951
+p3244
 aVUnited Kingdom
-p2952
+p3245
 aVNP
-p2953
+p3246
 aVWales
-p2954
-aa(lp2955
+p3247
+aVMonmouthshire
+p3248
+aa(lp3249
 S'Jack Elwyn Evans'
-p2956
+p3250
 aS'1924'
-p2957
+p3251
 aS'Centre'
-p2958
+p3252
 aS'1'
 aS'0'
 aS'1'
@@ -7634,20 +8293,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Brynamman'
-p2959
+p3253
 aVUnited Kingdom
-p2960
+p3254
 aVWales
-p2961
+p3255
 aVCarmarthenshire
-p2962
-aa(lp2963
+p3256
+aVBrynamman
+p3257
+aa(lp3258
 S'Vince Griffiths'
-p2964
+p3259
 aS'1924'
-p2965
+p3260
 aS'Fly-half'
-p2966
+p3261
 aS'5'
 aS'1'
 aS'3'
@@ -7655,20 +8316,22 @@ aS'1'
 aS'1'
 aS'7'
 aS'Pontypridd'
-p2967
+p3262
 aVUnited Kingdom
-p2968
+p3263
 aVCF37; CF38
-p2969
+p3264
 aVWales
-p2970
-aa(lp2971
+p3265
+aVMid Glamorgan
+p3266
+aa(lp3267
 S'Mel Rosser'
-p2972
+p3268
 aS'1924'
-p2973
+p3269
 aS'Fullback'
-p2974
+p3270
 aS'2'
 aS'1'
 aS'1'
@@ -7676,20 +8339,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Machen'
-p2975
+p3271
 aVUnited Kingdom
-p2976
+p3272
 aVWales
-p2977
+p3273
 aVCaerphilly
-p2978
-aa(lp2979
+p3274
+aVMachen
+p3275
+aa(lp3276
 S'Tommy Evans'
-p2980
+p3277
 aS'1924'
-p2981
+p3278
 aS'Centre'
-p2982
+p3279
 aS'1'
 aS'0'
 aS'1'
@@ -7697,20 +8362,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neyland'
-p2983
+p3280
 aVUnited Kingdom
-p2984
+p3281
 aVWales
-p2985
+p3282
 aVPembrokeshire
-p2986
-aa(lp2987
+p3283
+aVNeyland
+p3284
+aa(lp3285
 S'Jack Gore'
-p2988
+p3286
 aS'1924'
-p2989
+p3287
 aS'Prop'
-p2990
+p3288
 aS'4'
 aS'1'
 aS'3'
@@ -7718,20 +8385,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Blaina'
-p2991
+p3289
 aVUnited Kingdom
-p2992
+p3290
 aVWales
-p2993
+p3291
 aVBlaenau Gwent
-p2994
-aa(lp2995
+p3292
+aVBlaina
+p3293
+aa(lp3294
 S'George Hathway'
-p2996
+p3295
 aS'1924'
-p2997
+p3296
 aS'Hooker'
-p2998
+p3297
 aS'2'
 aS'1'
 aS'1'
@@ -7739,20 +8408,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p2999
+p3298
 aVUnited Kingdom
-p3000
+p3299
 aVNP
-p3001
+p3300
 aVWales
-p3002
-aa(lp3003
+p3301
+aVMonmouthshire
+p3302
+aa(lp3303
 S'William Jones'
-p3004
+p3304
 aS'1924'
-p3005
+p3305
 aS'Flanker'
-p3006
+p3306
 aS'1'
 aS'0'
 aS'1'
@@ -7760,44 +8431,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cefneithin'
-p3007
+p3307
 aVUnited Kingdom
-p3008
+p3308
 aVWales
-p3009
+p3309
 aVCarmarthenshire
-p3010
-aa(lp3011
+p3310
+aVCefneithin
+p3311
+aa(lp3312
 S'Dai Parker'
-p3012
+p3313
 aS'1924'
-p3013
+p3314
 aS'Prop'
-p3014
+p3315
 aS'15'
-p3015
+p3316
 aS'4'
 aS'10'
-p3016
+p3317
 aS'1'
 aS'0'
 aS'14'
-p3017
+p3318
 aS'Llansamlet'
-p3018
+p3319
 aVUnited Kingdom
-p3019
+p3320
 aVWales
-p3020
+p3321
 aVSwansea
-p3021
-aa(lp3022
+p3322
+aVTregof
+p3323
+aa(lp3324
 S'Bob Randall'
-p3023
+p3325
 aS'1924'
-p3024
+p3326
 aS'Lock'
-p3025
+p3327
 aS'2'
 aS'1'
 aS'1'
@@ -7805,42 +8480,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p3026
+p3328
 aVUnited Kingdom
-p3027
+p3329
 aVWales
-p3028
+p3330
 aVWest Glamorgan
-p3029
-aa(lp3030
+p3331
+aVNeath
+p3332
+aa(lp3333
 S'Ernie Finch'
-p3031
+p3334
 aS'1924'
-p3032
+p3335
 aS'Wing'
-p3033
+p3336
 aS'7'
 aS'3'
 aS'4'
 aS'0'
 aS'4'
 aS'12'
-p3034
+p3337
 aS'Pembroke Dock'
-p3035
+p3338
 aVUnited Kingdom
-p3036
+p3339
 aVWales
-p3037
+p3340
 aVPembrokeshire
-p3038
-aa(lp3039
+p3341
+aVPembroke Dock
+p3342
+aa(lp3343
 S'Joe Jones'
-p3040
+p3344
 aS'1924'
-p3041
+p3345
 aS'Centre'
-p3042
+p3346
 aS'1'
 aS'1'
 aS'0'
@@ -7848,20 +8527,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontardawe'
-p3043
+p3347
 aVUnited Kingdom
-p3044
+p3348
 aVWales
-p3045
+p3349
 aVNeath Port Talbot
-p3046
-aa(lp3047
+p3350
+aVPontardawe
+p3351
+aa(lp3352
 S'Arnold Rickards'
-p3048
+p3353
 aS'1924'
-p3049
+p3354
 aS'Lock'
-p3050
+p3355
 aS'1'
 aS'1'
 aS'0'
@@ -7869,20 +8550,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Glos'
-p3051
+p3356
 aVFrance
-p3052
+p3357
 aV14100
-p3053
+p3358
 aVFrance métropolitaine
-p3054
-aa(lp3055
+p3359
+aVBasse-Normandie
+p3360
+aa(lp3361
 S'Albert Stock'
-p3056
+p3362
 aS'1924'
-p3057
+p3363
 aS'Centre'
-p3058
+p3364
 aS'4'
 aS'1'
 aS'2'
@@ -7890,20 +8573,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Newport'
-p3059
+p3365
 aVUnited Kingdom
-p3060
+p3366
 aVNP
-p3061
+p3367
 aVWales
-p3062
-aa(lp3063
+p3368
+aVMonmouthshire
+p3369
+aa(lp3370
 S'Cliff Williams'
-p3064
+p3371
 aS'1924'
-p3065
+p3372
 aS'Hooker'
-p3066
+p3373
 aS'2'
 aS'0'
 aS'2'
@@ -7911,20 +8596,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llangennech'
-p3067
+p3374
 aVUnited Kingdom
-p3068
+p3375
 aVWales
-p3069
+p3376
 aVCarmarthenshire
-p3070
-aa(lp3071
+p3377
+aVLlangennech
+p3378
+aa(lp3379
 S'Eddie Williams'
-p3072
+p3380
 aS'1924'
-p3073
+p3381
 aS'Fly-half'
-p3074
+p3382
 aS'2'
 aS'1'
 aS'1'
@@ -7932,20 +8619,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cwmllynfell'
-p3075
+p3383
 aVUnited Kingdom
-p3076
+p3384
 aVWales
-p3077
+p3385
 aVNeath Port Talbot
-p3078
-aa(lp3079
+p3386
+aVCwmllynfell
+p3387
+aa(lp3388
 S'Willie Hopkins'
-p3080
+p3389
 aS'1925'
-p3081
+p3390
 aS'Fly-half'
-p3082
+p3391
 aS'2'
 aS'0'
 aS'2'
@@ -7956,13 +8645,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3083
+aS's'
+aa(lp3392
 S'Will James'
-p3084
+p3393
 aS'1925'
-p3085
+p3394
 aS'Wing'
-p3086
+p3395
 aS'2'
 aS'0'
 aS'2'
@@ -7970,20 +8660,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Aberavon'
-p3087
+p3396
 aVUnited Kingdom
-p3088
+p3397
 aVWales
-p3089
+p3398
 aVNeath Port Talbot
-p3090
-aa(lp3091
+p3399
+aVAberavon
+p3400
+aa(lp3401
 S'Idris Jones'
-p3092
+p3402
 aS'1925'
-p3093
+p3403
 aS'Flanker'
-p3094
+p3404
 aS'4'
 aS'1'
 aS'3'
@@ -7991,20 +8683,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Llanelly'
-p3095
+p3405
 aVAustralia
-p3096
+p3406
 aVVictoria
-p3097
+p3407
 aVLoddon Mallee
-p3098
-aa(lp3099
+p3408
+aVShire of Loddon
+p3409
+aa(lp3410
 S'Bryn Phillips'
-p3100
+p3411
 aS'1925'
-p3101
+p3412
 aS'Lock'
-p3102
+p3413
 aS'5'
 aS'1'
 aS'3'
@@ -8012,20 +8706,21 @@ aS'1'
 aS'0'
 aS'0'
 aS'Merthyr Tydfil'
-p3103
+p3414
 aVUnited Kingdom
-p3104
+p3415
 aVWales
-p3105
+p3416
 aVMerthyr Tydfil
-p3106
-aa(lp3107
+p3417
+ag9
+aa(lp3418
 S'Idris Richards'
-p3108
+p3419
 aS'1925'
-p3109
+p3420
 aS'No. 8'
-p3110
+p3421
 aS'3'
 aS'1'
 aS'2'
@@ -8033,20 +8728,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p3111
+p3422
 aVUnited Kingdom
-p3112
+p3423
 aVCF37; CF38
-p3113
+p3424
 aVWales
-p3114
-aa(lp3115
+p3425
+aVMid Glamorgan
+p3426
+aa(lp3427
 S'Cyril Thomas'
-p3116
+p3428
 aS'1925'
-p3117
+p3429
 aS'Wing'
-p3118
+p3430
 aS'2'
 aS'0'
 aS'2'
@@ -8054,20 +8751,21 @@ aS'0'
 aS'1'
 aS'3'
 aS'Bridgend'
-p3119
+p3431
 aVUnited Kingdom
-p3120
+p3432
 aVWales
-p3121
+p3433
 aVBridgend
-p3122
-aa(lp3123
+p3434
+ag9
+aa(lp3435
 S'Evan Williams'
-p3124
+p3436
 aS'1925'
-p3125
+p3437
 aS'Centre'
-p3126
+p3438
 aS'2'
 aS'0'
 aS'2'
@@ -8075,20 +8773,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Port Talbot'
-p3127
+p3439
 aVUnited Kingdom
-p3128
+p3440
 aVWales
-p3129
+p3441
 aVNeath Port Talbot
-p3130
-aa(lp3131
+p3442
+aVPort Talbot
+p3443
+aa(lp3444
 S'Ron Herrera'
-p3132
+p3445
 aS'1925'
-p3133
+p3446
 aS'Lock'
-p3134
+p3447
 aS'8'
 aS'3'
 aS'4'
@@ -8096,20 +8796,22 @@ aS'1'
 aS'2'
 aS'6'
 aS'Wattsville'
-p3135
+p3448
 aVUnited States of America
-p3136
+p3449
 aVVirginia
-p3137
+p3450
 aVAccomack
-p3138
-aa(lp3139
+p3451
+aVWattsville
+p3452
+aa(lp3453
 S'Steve Lawrence'
-p3140
+p3454
 aS'1925'
-p3141
+p3455
 aS'Prop'
-p3142
+p3456
 aS'6'
 aS'2'
 aS'4'
@@ -8117,20 +8819,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Treorchy'
-p3143
+p3457
 aVUnited Kingdom
-p3144
+p3458
 aVWales
-p3145
+p3459
 aVRhondda Cynon Taf
-p3146
-aa(lp3147
+p3460
+aVTreorchy
+p3461
+aa(lp3462
 S'Eddie Beynon'
-p3148
+p3463
 aS'1925'
-p3149
+p3464
 aS'Flanker'
-p3150
+p3465
 aS'2'
 aS'1'
 aS'1'
@@ -8138,20 +8842,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Gower'
-p3151
+p3466
 aVUnited States of America
-p3152
+p3467
 aVMissouri
-p3153
+p3468
 aVClinton County
-p3154
-aa(lp3155
+p3469
+aVGower
+p3470
+aa(lp3471
 S'Will Lewis'
-p3156
+p3472
 aS'1925'
-p3157
+p3473
 aS'Flanker'
-p3158
+p3474
 aS'1'
 aS'1'
 aS'0'
@@ -8159,20 +8865,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Morriston'
-p3159
+p3475
 aVUnited Kingdom
-p3160
+p3476
 aVWales
-p3161
+p3477
 aVSwansea
-p3162
-aa(lp3163
+p3478
+aVMorriston
+p3479
+aa(lp3480
 S'Jim Brown'
-p3164
+p3481
 aS'1925'
-p3165
+p3482
 aS'Lock'
-p3166
+p3483
 aS'1'
 aS'0'
 aS'1'
@@ -8180,20 +8888,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p3167
+p3484
 aVUnited Kingdom
-p3168
+p3485
 aVWales
-p3169
+p3486
 aVCardiff
-p3170
-aa(lp3171
+p3487
+ag9
+aa(lp3488
 S'Sydney Hinam'
-p3172
+p3489
 aS'1925'
-p3173
+p3490
 aS'Flanker'
-p3174
+p3491
 aS'5'
 aS'2'
 aS'2'
@@ -8201,20 +8910,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Pontypool'
-p3175
+p3492
 aVUnited Kingdom
-p3176
+p3493
 aVNP4
-p3177
+p3494
 aVWales
-p3178
-aa(lp3179
+p3495
+aVMonmouthshire
+p3496
+aa(lp3497
 S'Arthur John'
-p3180
+p3498
 aS'1925'
-p3181
+p3499
 aS'Scrum-half'
-p3182
+p3500
 aS'4'
 aS'1'
 aS'3'
@@ -8222,20 +8933,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llansamlet'
-p3183
+p3501
 aVUnited Kingdom
-p3184
+p3502
 aVWales
-p3185
+p3503
 aVSwansea
-p3186
-aa(lp3187
+p3504
+aVTregof
+p3505
+aa(lp3506
 S'Nathan Rocyn-Jones'
-p3188
+p3507
 aS'1925'
-p3189
+p3508
 aS'Fullback'
-p3190
+p3509
 aS'1'
 aS'0'
 aS'1'
@@ -8243,20 +8956,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Abertillery'
-p3191
+p3510
 aVUnited Kingdom
-p3192
+p3511
 aVNP13 1
-p3193
+p3512
 aVWales
-p3194
-aa(lp3195
+p3513
+aVBlaenau Gwent
+p3514
+aa(lp3515
 S'Bernard Turnbull'
-p3196
+p3516
 aS'1925'
-p3197
+p3517
 aS'Centre'
-p3198
+p3518
 aS'6'
 aS'0'
 aS'6'
@@ -8264,20 +8979,21 @@ aS'0'
 aS'1'
 aS'3'
 aS'Cardiff'
-p3199
+p3519
 aVUnited Kingdom
-p3200
+p3520
 aVWales
-p3201
+p3521
 aVCardiff
-p3202
-aa(lp3203
+p3522
+ag9
+aa(lp3523
 S'George Andrews'
-p3204
+p3524
 aS'1926'
-p3205
+p3525
 aS'Wing'
-p3206
+p3526
 aS'5'
 aS'1'
 aS'3'
@@ -8285,20 +9001,22 @@ aS'1'
 aS'3'
 aS'9'
 aS'Newport'
-p3207
+p3527
 aVUnited Kingdom
-p3208
+p3528
 aVNP
-p3209
+p3529
 aVWales
-p3210
-aa(lp3211
+p3530
+aVMonmouthshire
+p3531
+aa(lp3532
 S'David Evans'
-p3212
+p3533
 aS'1926'
-p3213
+p3534
 aS'Fullback'
-p3214
+p3535
 aS'1'
 aS'0'
 aS'0'
@@ -8306,20 +9024,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Llandybie'
-p3215
+p3536
 aVUnited Kingdom
-p3216
+p3537
 aVWales
-p3217
+p3538
 aVCarmarthenshire
-p3218
-aa(lp3219
+p3539
+aVLlandybie
+p3540
+aa(lp3541
 S'Thomas Hopkins'
-p3220
+p3542
 aS'1926'
-p3221
+p3543
 aS'Prop'
-p3222
+p3544
 aS'4'
 aS'2'
 aS'1'
@@ -8327,20 +9047,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Pontardawe'
-p3223
+p3545
 aVUnited Kingdom
-p3224
+p3546
 aVWales
-p3225
+p3547
 aVNeath Port Talbot
-p3226
-aa(lp3227
+p3548
+aVPontardawe
+p3549
+aa(lp3550
 S'Dai Jenkins'
-p3228
+p3551
 aS'1926'
-p3229
+p3552
 aS'Lock'
-p3230
+p3553
 aS'4'
 aS'2'
 aS'1'
@@ -8348,20 +9070,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Pyle'
-p3231
+p3554
 aVFrance
-p3232
+p3555
 aV27370
-p3233
+p3556
 aVFrance métropolitaine
-p3234
-aa(lp3235
+p3557
+aVHaute-Normandie
+p3558
+aa(lp3559
 S'Howell John'
-p3236
+p3560
 aS'1926'
-p3237
+p3561
 aS'Hooker'
-p3238
+p3562
 aS'8'
 aS'3'
 aS'4'
@@ -8369,20 +9093,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Swansea'
-p3239
+p3563
 aVUnited Kingdom
-p3240
+p3564
 aVWales
-p3241
+p3565
 aVWest Glamorgan
-p3242
-aa(lp3243
+p3566
+aVSwansea
+p3567
+aa(lp3568
 S'Dai Jones'
-p3244
+p3569
 aS'1926'
-p3245
+p3570
 aS'Prop'
-p3246
+p3571
 aS'5'
 aS'2'
 aS'2'
@@ -8393,13 +9119,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp3247
+aS's'
+aa(lp3572
 S'Bobby Jones'
-p3248
+p3573
 aS'1926'
-p3249
+p3574
 aS'Fly-half'
-p3250
+p3575
 aS'3'
 aS'1'
 aS'1'
@@ -8407,20 +9134,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Shanghai'
-p3251
+p3576
 aV\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd
-p3252
+p3577
 aV\u4e0a\u6d77
-p3253
+p3578
 aV\u9ec4\u6d66\u533a (Huangpu)
-p3254
-aa(lp3255
+p3579
+aV\u4e0a\u6d77\u5e02
+p3580
+aa(lp3581
 S'Tom Lewis'
-p3256
+p3582
 aS'1926'
-p3257
+p3583
 aS'Prop'
-p3258
+p3584
 aS'3'
 aS'0'
 aS'2'
@@ -8428,20 +9157,22 @@ aS'1'
 aS'0'
 aS'0'
 aS"Taff's Well"
-p3259
+p3585
 aVUnited Kingdom
-p3260
+p3586
 aVWales
-p3261
+p3587
 aVRhondda Cynon Taf
-p3262
-aa(lp3263
+p3588
+aVTaffs Well
+p3589
+aa(lp3590
 S'Bill Everson'
-p3264
+p3591
 aS'1926'
-p3265
+p3592
 aS'Fullback'
-p3266
+p3593
 aS'1'
 aS'0'
 aS'1'
@@ -8449,45 +9180,49 @@ aS'0'
 aS'0'
 aS'2'
 aS'Rudry'
-p3267
+p3594
 aVUnited Kingdom
-p3268
+p3595
 aVWales
-p3269
+p3596
 aVCaerphilly
-p3270
-aa(lp3271
+p3597
+aVMynydd Rudry
+p3598
+aa(lp3599
 S'Wick Powell'
-p3272
+p3600
 aS'1926'
-p3273
+p3601
 aS'Scrum-half'
-p3274
+p3602
 aS'27'
-p3275
+p3603
 aS'14'
-p3276
+p3604
 aS'10'
-p3277
+p3605
 aS'3'
 aS'1'
 aS'16'
-p3278
+p3606
 aS'Aberbeeg'
-p3279
+p3607
 aVUnited Kingdom
-p3280
+p3608
 aVNP13 1
-p3281
+p3609
 aVWales
-p3282
-aa(lp3283
+p3610
+aVBlaenau Gwent
+p3611
+aa(lp3612
 S'Emlyn Watkins'
-p3284
+p3613
 aS'1926'
-p3285
+p3614
 aS'Flanker'
-p3286
+p3615
 aS'3'
 aS'2'
 aS'1'
@@ -8495,20 +9230,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Blaina'
-p3287
+p3616
 aVUnited Kingdom
-p3288
+p3617
 aVWales
-p3289
+p3618
 aVBlaenau Gwent
-p3290
-aa(lp3291
+p3619
+aVBlaina
+p3620
+aa(lp3621
 S'Windsor Lewis'
-p3292
+p3622
 aS'1926'
-p3293
+p3623
 aS'Fly-half'
-p3294
+p3624
 aS'6'
 aS'2'
 aS'4'
@@ -8516,20 +9253,22 @@ aS'0'
 aS'1'
 aS'7'
 aS'Maesteg'
-p3295
+p3625
 aVUnited Kingdom
-p3296
+p3626
 aVWales
-p3297
+p3627
 aVBridgend
-p3298
-aa(lp3299
+p3628
+aVMaesteg
+p3629
+aa(lp3630
 S'Tommy Rees'
-p3300
+p3631
 aS'1926'
-p3301
+p3632
 aS'Fullback'
-p3302
+p3633
 aS'4'
 aS'2'
 aS'2'
@@ -8537,20 +9276,22 @@ aS'0'
 aS'0'
 aS'4'
 aS'Pontyclun'
-p3303
+p3634
 aVUnited Kingdom
-p3304
+p3635
 aVCF72 9DP
-p3305
+p3636
 aVWales
-p3306
-aa(lp3307
+p3637
+aVRhondda Cynon Taf
+p3638
+aa(lp3639
 S'Charles Rowlands'
-p3308
+p3640
 aS'1926'
-p3309
+p3641
 aS'Wing'
-p3310
+p3642
 aS'1'
 aS'1'
 aS'0'
@@ -8558,20 +9299,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Merthyr Tydfil'
-p3311
+p3643
 aVUnited Kingdom
-p3312
+p3644
 aVWales
-p3313
+p3645
 aVMerthyr Tydfil
-p3314
-aa(lp3315
+p3646
+ag9
+aa(lp3647
 S'Harry Phillips'
-p3316
+p3648
 aS'1927'
-p3317
+p3649
 aS'Lock'
-p3318
+p3650
 aS'9'
 aS'2'
 aS'7'
@@ -8579,65 +9321,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cross Keys'
-p3319
+p3651
 aVUnited States of America
-p3320
+p3652
 aVDelaware
-p3321
+p3653
 aVSussex County
-p3322
-aa(lp3323
+p3654
+aVCross Keys
+p3655
+aa(lp3656
 S'John Roberts'
-p3324
+p3657
 aS'1927'
-p3325
+p3658
 aS'Centre'
-p3326
+p3659
 aS'13'
-p3327
+p3660
 aS'4'
 aS'8'
 aS'1'
 aS'5'
 aS'15'
-p3328
+p3661
 aS'Toxteth'
-p3329
+p3662
 aVUnited Kingdom
-p3330
+p3663
 aVEngland
-p3331
+p3664
 aVNorth West England
-p3332
-aa(lp3333
+p3665
+aVLiverpool
+p3666
+aa(lp3667
 S'Watcyn Thomas'
-p3334
+p3668
 aS'1927'
-p3335
+p3669
 aS'No. 8'
-p3336
+p3670
 aS'14'
-p3337
+p3671
 aS'5'
 aS'8'
 aS'1'
 aS'2'
 aS'6'
 aS'Llanelly'
-p3338
+p3672
 aVAustralia
-p3339
+p3673
 aVVictoria
-p3340
+p3674
 aVLoddon Mallee
-p3341
-aa(lp3342
+p3675
+aVShire of Loddon
+p3676
+aa(lp3677
 S'Billy Williams'
-p3343
+p3678
 aS'1927'
-p3344
+p3679
 aS'Flanker'
-p3345
+p3680
 aS'4'
 aS'1'
 aS'3'
@@ -8645,43 +9393,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Crumlin'
-p3346
+p3681
 aVUnited Kingdom
-p3347
+p3682
 aVNorthern Ireland
-p3348
+p3683
 aVCounty Antrim
-p3349
-aa(lp3350
+p3684
+aVCrumlin
+p3685
+aa(lp3686
 S'Tom Arthur'
-p3351
+p3687
 aS'1927'
-p3352
+p3688
 aS'Lock'
-p3353
+p3689
 aS'18'
-p3354
+p3690
 aS'9'
 aS'7'
 aS'2'
 aS'4'
 aS'12'
-p3355
+p3691
 aS'Pontypridd'
-p3356
+p3692
 aVUnited Kingdom
-p3357
+p3693
 aVCF37; CF38
-p3358
+p3694
 aVWales
-p3359
-aa(lp3360
+p3695
+aVMid Glamorgan
+p3696
+aa(lp3697
 S'John Bartlett'
-p3361
+p3698
 aS'1927'
-p3362
+p3699
 aS'Wing'
-p3363
+p3700
 aS'3'
 aS'1'
 aS'2'
@@ -8689,44 +9441,48 @@ aS'0'
 aS'1'
 aS'3'
 aS'Carmarthen'
-p3364
+p3701
 aVUnited Kingdom
-p3365
+p3702
 aVWales
-p3366
+p3703
 aVCarmarthenshire
-p3367
-aa(lp3368
+p3704
+aVCarmarthen
+p3705
+aa(lp3706
 S'Ned Jenkins'
-p3369
+p3707
 aS'1927'
-p3370
+p3708
 aS'Lock'
-p3371
+p3709
 aS'21'
-p3372
+p3710
 aS'10'
-p3373
+p3711
 aS'10'
-p3374
+p3712
 aS'1'
 aS'0'
 aS'0'
 aS'Tonyrefail'
-p3375
+p3713
 aVUnited Kingdom
-p3376
+p3714
 aVCF39
-p3377
+p3715
 aVWales
-p3378
-aa(lp3379
+p3716
+aVMid Glamorgan
+p3717
+aa(lp3718
 S'Gwyn Richards'
-p3380
+p3719
 aS'1927'
-p3381
+p3720
 aS'Fly-half'
-p3382
+p3721
 aS'1'
 aS'0'
 aS'1'
@@ -8734,20 +9490,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bryncethin'
-p3383
+p3722
 aVUnited Kingdom
-p3384
+p3723
 aVWales
-p3385
+p3724
 aVBridgend
-p3386
-aa(lp3387
+p3725
+aVNant Bryncethin
+p3726
+aa(lp3727
 S'Jim Burns'
-p3388
+p3728
 aS'1927'
-p3389
+p3729
 aS'Prop'
-p3390
+p3730
 aS'2'
 aS'1'
 aS'1'
@@ -8755,64 +9513,69 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p3391
+p3731
 aVUnited Kingdom
-p3392
+p3732
 aVWales
-p3393
+p3733
 aVCardiff
-p3394
-aa(lp3395
+p3734
+ag9
+aa(lp3735
 S'Guy Stewart-Morgan'
-p3396
+p3736
 aS'1927'
-p3397
+p3737
 aS'Centre'
-p3398
+p3738
 aS'8'
 aS'5'
 aS'2'
 aS'1'
 aS'3'
 aS'13'
-p3399
+p3739
 aS'Garnant'
-p3400
+p3740
 aVUnited Kingdom
-p3401
+p3741
 aVWales
-p3402
+p3742
 aVNeath Port Talbot
-p3403
-aa(lp3404
+p3743
+aVGarnant
+p3744
+aa(lp3745
 S'Lonza Bowdler'
-p3405
+p3746
 aS'1927'
-p3406
+p3747
 aS'Hooker'
-p3407
+p3748
 aS'15'
-p3408
+p3749
 aS'5'
 aS'9'
 aS'1'
 aS'0'
 aS'0'
 aS'Abercarn'
-p3409
+p3750
 aVUnited Kingdom
-p3410
+p3751
 aVWales
-p3411
+p3752
 aVMonmouthshire
-p3412
-aa(lp3413
+p3753
+aVAbercarn
+p3754
+aa(lp3755
 S'Gus Broughton'
-p3414
+p3756
 aS'1927'
-p3415
+p3757
 aS'No. 8'
-p3416
+p3758
 aS'2'
 aS'1'
 aS'1'
@@ -8820,20 +9583,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llandough'
-p3417
+p3759
 aVUnited Kingdom
-p3418
+p3760
 aVWales
-p3419
+p3761
 aVVale of Glamorgan
-p3420
-aa(lp3421
+p3762
+aVLlandough
+p3763
+aa(lp3764
 S'Tal Harris'
-p3422
+p3765
 aS'1927'
-p3423
+p3766
 aS'Scrum-half'
-p3424
+p3767
 aS'1'
 aS'0'
 aS'1'
@@ -8841,20 +9606,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p3425
+p3768
 aVUnited Kingdom
-p3426
+p3769
 aVWales
-p3427
+p3770
 aVCardiff
-p3428
-aa(lp3429
+p3771
+ag9
+aa(lp3772
 S'Tom Hollingdale'
-p3430
+p3773
 aS'1927'
-p3431
+p3774
 aS'No. 8'
-p3432
+p3775
 aS'6'
 aS'1'
 aS'5'
@@ -8862,20 +9628,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Waunarlwydd'
-p3433
+p3776
 aVUnited Kingdom
-p3434
+p3777
 aVWales
-p3435
+p3778
 aVSwansea
-p3436
-aa(lp3437
+p3779
+aVWaunarlwydd
+p3780
+aa(lp3781
 S'David Jenkins'
-p3438
+p3782
 aS'1927'
-p3439
+p3783
 aS'Prop'
-p3440
+p3784
 aS'2'
 aS'0'
 aS'2'
@@ -8883,20 +9651,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Resolven'
-p3441
+p3785
 aVUnited Kingdom
-p3442
+p3786
 aVWales
-p3443
+p3787
 aVNeath Port Talbot
-p3444
-aa(lp3445
+p3788
+aVResolven
+p3789
+aa(lp3790
 S'Dan Jones'
-p3446
+p3791
 aS'1927'
-p3447
+p3792
 aS'Wing'
-p3448
+p3793
 aS'1'
 aS'0'
 aS'1'
@@ -8904,20 +9674,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath Abbey'
-p3449
+p3794
 aVUnited Kingdom
-p3450
+p3795
 aVWales
-p3451
+p3796
 aVNeath Port Talbot
-p3452
-aa(lp3453
+p3797
+aVNeath Abbey
+p3798
+aa(lp3799
 S'Iorwerth Jones'
-p3454
+p3800
 aS'1927'
-p3455
+p3801
 aS'No. 8'
-p3456
+p3802
 aS'5'
 aS'1'
 aS'4'
@@ -8925,885 +9697,6 @@ aS'0'
 aS'0'
 aS'0'
 aS'Loughor'
-p3457
-aVUnited Kingdom
-p3458
-aVWales
-p3459
-aVSwansea
-p3460
-aa(lp3461
-S'Roy Jones'
-p3462
-aS'1927'
-p3463
-aS'Centre'
-p3464
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Swansea'
-p3465
-aVUnited Kingdom
-p3466
-aVWales
-p3467
-aVWest Glamorgan
-p3468
-aa(lp3469
-S'Cecil Pritchard'
-p3470
-aS'1928'
-p3471
-aS'Hooker'
-p3472
-aS'8'
-aS'3'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'Pontypool'
-p3473
-aVUnited Kingdom
-p3474
-aVNP4
-p3475
-aVWales
-p3476
-aa(lp3477
-S'Archie Skym'
-p3478
-aS'1928'
-p3479
-aS'Prop'
-p3480
-aS'20'
-p3481
-aS'9'
-aS'9'
-aS'2'
-aS'2'
-aS'6'
-aS'Drefach'
-p3482
-aVUnited Kingdom
-p3483
-aVWales
-p3484
-aVCarmarthenshire
-p3485
-aa(lp3486
-S'Gwyn Davies'
-p3487
-aS'1928'
-p3488
-aS'Wing'
-p3489
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Aberkenfig'
-p3490
-aVUnited Kingdom
-p3491
-aVWales
-p3492
-aVBridgend
-p3493
-aa(lp3494
-S'Jack Bassett'
-p3495
-aS'1929'
-p3496
-aS'Fullback'
-p3497
-aS'20'
-p3498
-aS'9'
-aS'9'
-aS'2'
-aS'0'
-aS'29'
-p3499
-aS'Trebanog'
-p3500
-aVUnited Kingdom
-p3501
-aVWales
-p3502
-aVRhondda Cynon Taf
-p3503
-aa(lp3504
-S'Harold Jones'
-p3505
-aS'1929'
-p3506
-aS'Lock'
-p3507
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Ogmore Vale'
-p3508
-aVUnited Kingdom
-p3509
-aVWales
-p3510
-aVBridgend
-p3511
-aa(lp3512
-S'Dick Jones'
-p3513
-aS'1929'
-p3514
-aS'Flanker'
-p3515
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Shanghai'
-p3516
-aV\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd
-p3517
-aV\u4e0a\u6d77
-p3518
-aV\u9ec4\u6d66\u533a (Huangpu)
-p3519
-aa(lp3520
-S'Jack Morley'
-p3521
-aS'1929'
-p3522
-aS'Wing'
-p3523
-aS'17'
-p3524
-aS'9'
-aS'6'
-aS'2'
-aS'6'
-aS'18'
-p3525
-aS'Newport'
-p3526
-aVUnited Kingdom
-p3527
-aVNP
-p3528
-aVWales
-p3529
-aa(lp3530
-S'Bill Roberts'
-p3531
-aS'1929'
-p3532
-aS'Fly-half'
-p3533
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Toxteth'
-p3534
-aVUnited Kingdom
-p3535
-aVEngland
-p3536
-aVNorth West England
-p3537
-aa(lp3538
-S'Bob Barrell'
-p3539
-aS'1929'
-p3540
-aS'Prop'
-p3541
-aS'4'
-aS'2'
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aS'Mountain Ash'
-p3542
-aVUnited Kingdom
-p3543
-aVCF45
-p3544
-aVWales
-p3545
-aa(lp3546
-S'Harry Bowcott'
-p3547
-aS'1929'
-p3548
-aS'Centre'
-p3549
-aS'13'
-p3550
-aS'5'
-aS'6'
-aS'2'
-aS'2'
-aS'6'
-aS'Cardiff'
-p3551
-aVUnited Kingdom
-p3552
-aVWales
-p3553
-aVCardiff
-p3554
-aa(lp3555
-S'Harry Peacock'
-p3556
-aS'1929'
-p3557
-aS'Flanker'
-p3558
-aS'6'
-aS'4'
-aS'1'
-aS'1'
-aS'2'
-aS'6'
-aS'Newport'
-p3559
-aVUnited Kingdom
-p3560
-aVNP
-p3561
-aVWales
-p3562
-aa(lp3563
-S'Frank Williams'
-p3564
-aS'1929'
-p3565
-aS'Centre'
-p3566
-aS'14'
-p3567
-aS'8'
-aS'5'
-aS'1'
-aS'2'
-aS'6'
-aS'Cardiff'
-p3568
-aVUnited Kingdom
-p3569
-aVWales
-p3570
-aVCardiff
-p3571
-aa(lp3572
-S'Arthur Lemon'
-p3573
-aS'1929'
-p3574
-aS'No. 8'
-p3575
-aS'13'
-p3576
-aS'7'
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aS'Tonna'
-p3577
-aVUnited Kingdom
-p3578
-aVWales
-p3579
-aVNeath Port Talbot
-p3580
-aa(lp3581
-S'Arthur Hickman'
-p3582
-aS'1930'
-p3583
-aS'Wing'
-p3584
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Skewen'
-p3585
-aVUnited Kingdom
-p3586
-aVWales
-p3587
-aVNeath Port Talbot
-p3588
-aa(lp3589
-S'Tom Jones-Davies'
-p3590
-aS'1930'
-p3591
-aS'Centre'
-p3592
-aS'4'
-aS'2'
-aS'1'
-aS'1'
-aS'2'
-aS'6'
-aS'Nantgaredig'
-p3593
-aVUnited Kingdom
-p3594
-aVWales
-p3595
-aVCarmarthenshire
-p3596
-aa(lp3597
-S'David Roberts'
-p3598
-aS'1930'
-p3599
-aS'Scrum-half'
-p3600
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Llanelly'
-p3601
-aVAustralia
-p3602
-aVVictoria
-p3603
-aVLoddon Mallee
-p3604
-aa(lp3605
-S'Ocker Thomas'
-p3606
-aS'1930'
-p3607
-aS'Flanker'
-p3608
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Merthyr Tydfil'
-p3609
-aVUnited Kingdom
-p3610
-aVWales
-p3611
-aVMerthyr Tydfil
-p3612
-aa(lp3613
-S'Ronnie Boon'
-p3614
-aS'1930'
-p3615
-aS'Wing'
-p3616
-aS'12'
-p3617
-aS'7'
-aS'4'
-aS'1'
-aS'4'
-aS'20'
-p3618
-aS'Barry'
-p3619
-aVUnited Kingdom
-p3620
-aVCF62
-p3621
-aVWales
-p3622
-aa(lp3623
-S'Bert Day'
-p3624
-aS'1930'
-p3625
-aS'Hooker'
-p3626
-aS'5'
-aS'3'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Griffithstown'
-p3627
-aVUnited Kingdom
-p3628
-aVNP4
-p3629
-aVWales
-p3630
-aa(lp3631
-S'Chick Jones'
-p3632
-aS'1930'
-p3633
-aS'Centre'
-p3634
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'1'
-aS'7'
-aS'Morriston'
-p3635
-aVUnited Kingdom
-p3636
-aVWales
-p3637
-aVSwansea
-p3638
-aa(lp3639
-S'Dai Thomas'
-p3640
-aS'1930'
-p3641
-aS'Lock'
-p3642
-aS'11'
-p3643
-aS'5'
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aS'Swansea'
-p3644
-aVUnited Kingdom
-p3645
-aVWales
-p3646
-aVWest Glamorgan
-p3647
-aa(lp3648
-S'Norman Fender'
-p3649
-aS'1930'
-p3650
-aS'Flanker'
-p3651
-aS'6'
-aS'5'
-aS'0'
-aS'1'
-aS'1'
-aS'3'
-aS'Cardiff'
-p3652
-aVUnited Kingdom
-p3653
-aVWales
-p3654
-aVCardiff
-p3655
-aa(lp3656
-S'Howie Jones'
-p3657
-aS'1930'
-p3658
-aS'Wing'
-p3659
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'1'
-aS'3'
-aS'Glynneath'
-p3660
-aVUnited Kingdom
-p3661
-aVCF37 1SY
-p3662
-aVWales
-p3663
-aa(lp3664
-S'Claud Davey'
-p3665
-aS'1930'
-p3666
-aS'Centre'
-p3667
-aS'23'
-p3668
-aS'14'
-p3669
-aS'7'
-aS'2'
-aS'5'
-aS'15'
-p3670
-aS'Garnant'
-p3671
-aVUnited Kingdom
-p3672
-aVWales
-p3673
-aVNeath Port Talbot
-p3674
-aa(lp3675
-S'Edgar Jones'
-p3676
-aS'1930'
-p3677
-aS'Prop'
-p3678
-aS'5'
-aS'2'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'Sketty'
-p3679
-aVUnited Kingdom
-p3680
-aVWales
-p3681
-aVSwansea
-p3682
-aa(lp3683
-S'Tommy Scourfield'
-p3684
-aS'1930'
-p3685
-aS'Fullback'
-p3686
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Pontypridd'
-p3687
-aVUnited Kingdom
-p3688
-aVCF37; CF38
-p3689
-aVWales
-p3690
-aa(lp3691
-S'Tom Day'
-p3692
-aS'1931'
-p3693
-aS'Prop'
-p3694
-aS'13'
-p3695
-aS'8'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'Ammanford'
-p3696
-aVUnited Kingdom
-p3697
-aVWales
-p3698
-aVCarmarthenshire
-p3699
-aa(lp3700
-S'David James'
-p3701
-aS'1931'
-p3702
-aS'Hooker'
-p3703
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Treorchy'
-p3704
-aVUnited Kingdom
-p3705
-aVWales
-p3706
-aVRhondda Cynon Taf
-p3707
-aa(lp3708
-S'Jim Lang'
-p3709
-aS'1931'
-p3710
-aS'No. 8'
-p3711
-aS'12'
-p3712
-aS'8'
-aS'2'
-aS'2'
-aS'1'
-aS'3'
-aS'Garnant'
-p3713
-aVUnited Kingdom
-p3714
-aVWales
-p3715
-aVNeath Port Talbot
-p3716
-aa(lp3717
-S'Dicky Ralph'
-p3718
-aS'1931'
-p3719
-aS'Fly-half'
-p3720
-aS'6'
-aS'4'
-aS'2'
-aS'0'
-aS'3'
-aS'17'
-p3721
-aS'Abercarn'
-p3722
-aVUnited Kingdom
-p3723
-aVWales
-p3724
-aVMonmouthshire
-p3725
-aa(lp3726
-S'Sgili Davies'
-p3727
-aS'1931'
-p3728
-aS'Flanker'
-p3729
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'Cwmgors'
-p3730
-aVUnited Kingdom
-p3731
-aVWales
-p3732
-aVNeath Port Talbot
-p3733
-aa(lp3734
-S'Bryn Evans'
-p3735
-aS'1933'
-p3736
-aS'Hooker'
-p3737
-aS'6'
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'Felinfoel'
-p3738
-aVUnited Kingdom
-p3739
-aVWales
-p3740
-aVCarmarthenshire
-p3741
-aa(lp3742
-S'Iorrie Isaacs'
-p3743
-aS'1933'
-p3744
-aS'Flanker'
-p3745
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cifynydd'
-p3746
-aS'g'
-aS'n'
-aS'i'
-aa(lp3747
-S'Viv Jenkins'
-p3748
-aS'1933'
-p3749
-aS'Fullback'
-p3750
-aS'15'
-p3751
-aS'8'
-aS'5'
-aS'2'
-aS'1'
-aS'45'
-p3752
-aS'Aberavon'
-p3753
-aVUnited Kingdom
-p3754
-aVWales
-p3755
-aVNeath Port Talbot
-p3756
-aa(lp3757
-S'Arthur Jones'
-p3758
-aS'1933'
-p3759
-aS'Wing'
-p3760
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Bridgend'
-p3761
-aVUnited Kingdom
-p3762
-aVWales
-p3763
-aVBridgend
-p3764
-aa(lp3765
-S'Raymond Jones'
-p3766
-aS'1933'
-p3767
-aS'Lock'
-p3768
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Blundellsands'
-p3769
-aVUnited Kingdom
-p3770
-aVEngland
-p3771
-aVNorth West England
-p3772
-aa(lp3773
-S'Maurice Turnbull'
-p3774
-aS'1933'
-p3775
-aS'Scrum-half'
-p3776
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cardiff'
-p3777
-aVUnited Kingdom
-p3778
-aVWales
-p3779
-aVCardiff
-p3780
-aa(lp3781
-S'Wilf Wooller'
-p3782
-aS'1933'
-p3783
-aS'Centre'
-p3784
-aS'18'
-p3785
-aS'8'
-aS'8'
-aS'2'
-aS'6'
-aS'26'
-p3786
-aS'Rhos-on-Sea'
-p3787
-aVUnited Kingdom
-p3788
-aVWales
-p3789
-aVConwy
-p3790
-aa(lp3791
-S'Gwyn Bayliss'
-p3792
-aS'1933'
-p3793
-aS'Fullback'
-p3794
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Brynmawr'
-p3795
-aVUnited Kingdom
-p3796
-aVNP23
-p3797
-aVWales
-p3798
-aa(lp3799
-S'Bryn Evans'
-p3800
-aS'1933'
-p3801
-aS'Scrum-half'
-p3802
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Penclawdd'
 p3803
 aVUnited Kingdom
 p3804
@@ -9811,306 +9704,293 @@ aVWales
 p3805
 aVSwansea
 p3806
-aa(lp3807
-S'Ron Morris'
-p3808
-aS'1933'
+aVLoughor
+p3807
+aa(lp3808
+S'Roy Jones'
 p3809
-aS'Fly-half'
+aS'1927'
 p3810
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Carmarthen'
+aS'Centre'
 p3811
-aVUnited Kingdom
-p3812
-aVWales
-p3813
-aVCarmarthenshire
-p3814
-aa(lp3815
-S'Billy Moore'
-p3816
-aS'1933'
-p3817
-aS'Lock'
-p3818
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Garw Valley'
-p3819
-aVUnited Kingdom
-p3820
-aVWales
-p3821
-aVBridgend
-p3822
-aa(lp3823
-S'Lew Rees'
-p3824
-aS'1933'
-p3825
-aS'Flanker'
-p3826
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Treherbert'
-p3827
-aVUnited Kingdom
-p3828
-aVCF42 5BG
-p3829
-aVWales
-p3830
-aa(lp3831
-S'Bun Cowey'
-p3832
-aS'1934'
-p3833
-aS'Wing'
-p3834
-aS'4'
 aS'2'
-aS'1'
-aS'1'
-aS'3'
-aS'9'
-aS'Wilts'
-p3835
-aVSouth Africa
-p3836
-aVKwaZulu-Natal
-p3837
-aVAmajuba District Municipality
-p3838
-aa(lp3839
-S'Cecil Davies'
-p3840
-aS'1934'
-p3841
-aS'Prop'
-p3842
-aS'1'
 aS'0'
-aS'1'
+aS'2'
 aS'0'
 aS'0'
 aS'0'
-aS'Pontypridd'
-p3843
+aS'Swansea'
+p3812
 aVUnited Kingdom
-p3844
-aVCF37; CF38
-p3845
+p3813
 aVWales
+p3814
+aVWest Glamorgan
+p3815
+aVSwansea
+p3816
+aa(lp3817
+S'Cecil Pritchard'
+p3818
+aS'1928'
+p3819
+aS'Hooker'
+p3820
+aS'8'
+aS'3'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Pontypool'
+p3821
+aVUnited Kingdom
+p3822
+aVNP4
+p3823
+aVWales
+p3824
+aVMonmouthshire
+p3825
+aa(lp3826
+S'Archie Skym'
+p3827
+aS'1928'
+p3828
+aS'Prop'
+p3829
+aS'20'
+p3830
+aS'9'
+aS'9'
+aS'2'
+aS'2'
+aS'6'
+aS'Drefach'
+p3831
+aVUnited Kingdom
+p3832
+aVWales
+p3833
+aVCarmarthenshire
+p3834
+aVDrefach
+p3835
+aa(lp3836
+S'Gwyn Davies'
+p3837
+aS'1928'
+p3838
+aS'Wing'
+p3839
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Aberkenfig'
+p3840
+aVUnited Kingdom
+p3841
+aVWales
+p3842
+aVBridgend
+p3843
+aVAberkenfig
+p3844
+aa(lp3845
+S'Jack Bassett'
 p3846
-aa(lp3847
-S'David Evans'
+aS'1929'
+p3847
+aS'Fullback'
 p3848
-aS'1934'
+aS'20'
 p3849
-aS'Scrum-half'
+aS'9'
+aS'9'
+aS'2'
+aS'0'
+aS'29'
 p3850
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Barry'
+aS'Trebanog'
 p3851
 aVUnited Kingdom
 p3852
-aVCF62
-p3853
 aVWales
+p3853
+aVRhondda Cynon Taf
 p3854
-aa(lp3855
-S'John Evans'
-p3856
-aS'1934'
+aVTrebanog
+p3855
+aa(lp3856
+S'Harold Jones'
 p3857
-aS'Hooker'
+aS'1929'
 p3858
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Newport'
+aS'Lock'
 p3859
-aVUnited Kingdom
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Ogmore Vale'
 p3860
-aVNP
+aVUnited Kingdom
 p3861
 aVWales
 p3862
-aa(lp3863
-S'Bryn Howells'
+aVBridgend
+p3863
+aVOgmore Vale
 p3864
-aS'1934'
-p3865
-aS'Fullback'
+aa(lp3865
+S'Dick Jones'
 p3866
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Hendy'
+aS'1929'
 p3867
-aVUnited Kingdom
-p3868
-aVWales
-p3869
-aVGwynedd
-p3870
-aa(lp3871
-S'Gomer Hughes'
-p3872
-aS'1934'
-p3873
-aS'Lock'
-p3874
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Neath'
-p3875
-aVUnited Kingdom
-p3876
-aVWales
-p3877
-aVWest Glamorgan
-p3878
-aa(lp3879
-S'Geoffrey Jones'
-p3880
-aS'1934'
-p3881
-aS'Wing'
-p3882
-aS'5'
-aS'2'
-aS'2'
-aS'1'
-aS'2'
-aS'6'
-aS'Ipswich'
-p3883
-aVUnited Kingdom
-p3884
-aVEngland
-p3885
-aVEast of England
-p3886
-aa(lp3887
-S'Ken Jones'
-p3888
-aS'1934'
-p3889
-aS'No. 8'
-p3890
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Llanishen'
-p3891
-aVUnited Kingdom
-p3892
-aVWales
-p3893
-aVCardiff
-p3894
-aa(lp3895
-S'Cliff Jones'
-p3896
-aS'1934'
-p3897
-aS'Fly-half'
-p3898
-aS'13'
-p3899
-aS'8'
-aS'3'
-aS'2'
-aS'2'
-aS'6'
-aS'Porth'
-p3900
-aVUnited Kingdom
-p3901
-aVCF39
-p3902
-aVWales
-p3903
-aa(lp3904
-S'Glyn Prosser'
-p3905
-aS'1934'
-p3906
 aS'Flanker'
-p3907
-aS'4'
-aS'3'
+p3868
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'Glynneath'
+aS'Shanghai'
+p3869
+aV\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd
+p3870
+aV\u4e0a\u6d77
+p3871
+aV\u9ec4\u6d66\u533a (Huangpu)
+p3872
+aV\u4e0a\u6d77\u5e02
+p3873
+aa(lp3874
+S'Jack Morley'
+p3875
+aS'1929'
+p3876
+aS'Wing'
+p3877
+aS'17'
+p3878
+aS'9'
+aS'6'
+aS'2'
+aS'6'
+aS'18'
+p3879
+aS'Newport'
+p3880
+aVUnited Kingdom
+p3881
+aVNP
+p3882
+aVWales
+p3883
+aVMonmouthshire
+p3884
+aa(lp3885
+S'Bill Roberts'
+p3886
+aS'1929'
+p3887
+aS'Fly-half'
+p3888
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Toxteth'
+p3889
+aVUnited Kingdom
+p3890
+aVEngland
+p3891
+aVNorth West England
+p3892
+aVLiverpool
+p3893
+aa(lp3894
+S'Bob Barrell'
+p3895
+aS'1929'
+p3896
+aS'Prop'
+p3897
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'1'
+aS'3'
+aS'Mountain Ash'
+p3898
+aVUnited Kingdom
+p3899
+aVCF45
+p3900
+aVWales
+p3901
+aVMid Glamorgan
+p3902
+aa(lp3903
+S'Harry Bowcott'
+p3904
+aS'1929'
+p3905
+aS'Centre'
+p3906
+aS'13'
+p3907
+aS'5'
+aS'6'
+aS'2'
+aS'2'
+aS'6'
+aS'Cardiff'
 p3908
 aVUnited Kingdom
 p3909
-aVCF37 1SY
-p3910
 aVWales
+p3910
+aVCardiff
 p3911
+ag9
 aa(lp3912
-S'Arthur Rees'
+S'Harry Peacock'
 p3913
-aS'1934'
+aS'1929'
 p3914
 aS'Flanker'
 p3915
-aS'13'
-p3916
-aS'5'
 aS'6'
+aS'4'
+aS'1'
+aS'1'
 aS'2'
-aS'0'
-aS'0'
-aS'Llangadog'
-p3917
+aS'6'
+aS'Newport'
+p3916
 aVUnited Kingdom
+p3917
+aVNP
 p3918
 aVWales
 p3919
-aVCarmarthenshire
+aVMonmouthshire
 p3920
 aa(lp3921
-S'Idwal Rees'
+S'Frank Williams'
 p3922
-aS'1934'
+aS'1929'
 p3923
 aS'Centre'
 p3924
@@ -10121,21 +10001,1020 @@ aS'5'
 aS'1'
 aS'2'
 aS'6'
-aS'Swansea'
+aS'Cardiff'
 p3926
 aVUnited Kingdom
 p3927
 aVWales
 p3928
-aVWest Glamorgan
+aVCardiff
 p3929
+ag9
 aa(lp3930
-S'Harry Truman'
+S'Arthur Lemon'
 p3931
-aS'1934'
+aS'1929'
 p3932
-aS'Lock'
+aS'No. 8'
 p3933
+aS'13'
+p3934
+aS'7'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'Tonna'
+p3935
+aVUnited Kingdom
+p3936
+aVWales
+p3937
+aVNeath Port Talbot
+p3938
+aVTonna
+p3939
+aa(lp3940
+S'Arthur Hickman'
+p3941
+aS'1930'
+p3942
+aS'Wing'
+p3943
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Skewen'
+p3944
+aVUnited Kingdom
+p3945
+aVWales
+p3946
+aVNeath Port Talbot
+p3947
+aVSkewen
+p3948
+aa(lp3949
+S'Tom Jones-Davies'
+p3950
+aS'1930'
+p3951
+aS'Centre'
+p3952
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'2'
+aS'6'
+aS'Nantgaredig'
+p3953
+aVUnited Kingdom
+p3954
+aVWales
+p3955
+aVCarmarthenshire
+p3956
+aVNantgaredig
+p3957
+aa(lp3958
+S'David Roberts'
+p3959
+aS'1930'
+p3960
+aS'Scrum-half'
+p3961
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Llanelly'
+p3962
+aVAustralia
+p3963
+aVVictoria
+p3964
+aVLoddon Mallee
+p3965
+aVShire of Loddon
+p3966
+aa(lp3967
+S'Ocker Thomas'
+p3968
+aS'1930'
+p3969
+aS'Flanker'
+p3970
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Merthyr Tydfil'
+p3971
+aVUnited Kingdom
+p3972
+aVWales
+p3973
+aVMerthyr Tydfil
+p3974
+ag9
+aa(lp3975
+S'Ronnie Boon'
+p3976
+aS'1930'
+p3977
+aS'Wing'
+p3978
+aS'12'
+p3979
+aS'7'
+aS'4'
+aS'1'
+aS'4'
+aS'20'
+p3980
+aS'Barry'
+p3981
+aVUnited Kingdom
+p3982
+aVCF62
+p3983
+aVWales
+p3984
+aVVale of Glamorgan
+p3985
+aa(lp3986
+S'Bert Day'
+p3987
+aS'1930'
+p3988
+aS'Hooker'
+p3989
+aS'5'
+aS'3'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Griffithstown'
+p3990
+aVUnited Kingdom
+p3991
+aVNP4
+p3992
+aVWales
+p3993
+aVTorfaen
+p3994
+aa(lp3995
+S'Chick Jones'
+p3996
+aS'1930'
+p3997
+aS'Centre'
+p3998
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'1'
+aS'7'
+aS'Morriston'
+p3999
+aVUnited Kingdom
+p4000
+aVWales
+p4001
+aVSwansea
+p4002
+aVMorriston
+p4003
+aa(lp4004
+S'Dai Thomas'
+p4005
+aS'1930'
+p4006
+aS'Lock'
+p4007
+aS'11'
+p4008
+aS'5'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'Swansea'
+p4009
+aVUnited Kingdom
+p4010
+aVWales
+p4011
+aVWest Glamorgan
+p4012
+aVSwansea
+p4013
+aa(lp4014
+S'Norman Fender'
+p4015
+aS'1930'
+p4016
+aS'Flanker'
+p4017
+aS'6'
+aS'5'
+aS'0'
+aS'1'
+aS'1'
+aS'3'
+aS'Cardiff'
+p4018
+aVUnited Kingdom
+p4019
+aVWales
+p4020
+aVCardiff
+p4021
+ag9
+aa(lp4022
+S'Howie Jones'
+p4023
+aS'1930'
+p4024
+aS'Wing'
+p4025
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Glynneath'
+p4026
+aVUnited Kingdom
+p4027
+aVCF37 1SY
+p4028
+aVWales
+p4029
+aVRhondda Cynon Taf
+p4030
+aa(lp4031
+S'Claud Davey'
+p4032
+aS'1930'
+p4033
+aS'Centre'
+p4034
+aS'23'
+p4035
+aS'14'
+p4036
+aS'7'
+aS'2'
+aS'5'
+aS'15'
+p4037
+aS'Garnant'
+p4038
+aVUnited Kingdom
+p4039
+aVWales
+p4040
+aVNeath Port Talbot
+p4041
+aVGarnant
+p4042
+aa(lp4043
+S'Edgar Jones'
+p4044
+aS'1930'
+p4045
+aS'Prop'
+p4046
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Sketty'
+p4047
+aVUnited Kingdom
+p4048
+aVWales
+p4049
+aVSwansea
+p4050
+aVSketty
+p4051
+aa(lp4052
+S'Tommy Scourfield'
+p4053
+aS'1930'
+p4054
+aS'Fullback'
+p4055
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontypridd'
+p4056
+aVUnited Kingdom
+p4057
+aVCF37; CF38
+p4058
+aVWales
+p4059
+aVMid Glamorgan
+p4060
+aa(lp4061
+S'Tom Day'
+p4062
+aS'1931'
+p4063
+aS'Prop'
+p4064
+aS'13'
+p4065
+aS'8'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'Ammanford'
+p4066
+aVUnited Kingdom
+p4067
+aVWales
+p4068
+aVCarmarthenshire
+p4069
+aVAmmanford
+p4070
+aa(lp4071
+S'David James'
+p4072
+aS'1931'
+p4073
+aS'Hooker'
+p4074
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Treorchy'
+p4075
+aVUnited Kingdom
+p4076
+aVWales
+p4077
+aVRhondda Cynon Taf
+p4078
+aVTreorchy
+p4079
+aa(lp4080
+S'Jim Lang'
+p4081
+aS'1931'
+p4082
+aS'No. 8'
+p4083
+aS'12'
+p4084
+aS'8'
+aS'2'
+aS'2'
+aS'1'
+aS'3'
+aS'Garnant'
+p4085
+aVUnited Kingdom
+p4086
+aVWales
+p4087
+aVNeath Port Talbot
+p4088
+aVGarnant
+p4089
+aa(lp4090
+S'Dicky Ralph'
+p4091
+aS'1931'
+p4092
+aS'Fly-half'
+p4093
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'3'
+aS'17'
+p4094
+aS'Abercarn'
+p4095
+aVUnited Kingdom
+p4096
+aVWales
+p4097
+aVMonmouthshire
+p4098
+aVAbercarn
+p4099
+aa(lp4100
+S'Sgili Davies'
+p4101
+aS'1931'
+p4102
+aS'Flanker'
+p4103
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Cwmgors'
+p4104
+aVUnited Kingdom
+p4105
+aVWales
+p4106
+aVNeath Port Talbot
+p4107
+aVCwmgors
+p4108
+aa(lp4109
+S'Bryn Evans'
+p4110
+aS'1933'
+p4111
+aS'Hooker'
+p4112
+aS'6'
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Felinfoel'
+p4113
+aVUnited Kingdom
+p4114
+aVWales
+p4115
+aVCarmarthenshire
+p4116
+aVFelinfoel
+p4117
+aa(lp4118
+S'Iorrie Isaacs'
+p4119
+aS'1933'
+p4120
+aS'Flanker'
+p4121
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cifynydd'
+p4122
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp4123
+S'Viv Jenkins'
+p4124
+aS'1933'
+p4125
+aS'Fullback'
+p4126
+aS'15'
+p4127
+aS'8'
+aS'5'
+aS'2'
+aS'1'
+aS'45'
+p4128
+aS'Aberavon'
+p4129
+aVUnited Kingdom
+p4130
+aVWales
+p4131
+aVNeath Port Talbot
+p4132
+aVAberavon
+p4133
+aa(lp4134
+S'Arthur Jones'
+p4135
+aS'1933'
+p4136
+aS'Wing'
+p4137
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bridgend'
+p4138
+aVUnited Kingdom
+p4139
+aVWales
+p4140
+aVBridgend
+p4141
+ag9
+aa(lp4142
+S'Raymond Jones'
+p4143
+aS'1933'
+p4144
+aS'Lock'
+p4145
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Blundellsands'
+p4146
+aVUnited Kingdom
+p4147
+aVEngland
+p4148
+aVNorth West England
+p4149
+aVSefton
+p4150
+aa(lp4151
+S'Maurice Turnbull'
+p4152
+aS'1933'
+p4153
+aS'Scrum-half'
+p4154
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cardiff'
+p4155
+aVUnited Kingdom
+p4156
+aVWales
+p4157
+aVCardiff
+p4158
+ag9
+aa(lp4159
+S'Wilf Wooller'
+p4160
+aS'1933'
+p4161
+aS'Centre'
+p4162
+aS'18'
+p4163
+aS'8'
+aS'8'
+aS'2'
+aS'6'
+aS'26'
+p4164
+aS'Rhos-on-Sea'
+p4165
+aVUnited Kingdom
+p4166
+aVWales
+p4167
+aVConwy
+p4168
+aVLlangwstenin
+p4169
+aa(lp4170
+S'Gwyn Bayliss'
+p4171
+aS'1933'
+p4172
+aS'Fullback'
+p4173
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Brynmawr'
+p4174
+aVUnited Kingdom
+p4175
+aVNP23
+p4176
+aVWales
+p4177
+aVMonmouthshire
+p4178
+aa(lp4179
+S'Bryn Evans'
+p4180
+aS'1933'
+p4181
+aS'Scrum-half'
+p4182
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Penclawdd'
+p4183
+aVUnited Kingdom
+p4184
+aVWales
+p4185
+aVSwansea
+p4186
+aVPenclawdd
+p4187
+aa(lp4188
+S'Ron Morris'
+p4189
+aS'1933'
+p4190
+aS'Fly-half'
+p4191
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Carmarthen'
+p4192
+aVUnited Kingdom
+p4193
+aVWales
+p4194
+aVCarmarthenshire
+p4195
+aVCarmarthen
+p4196
+aa(lp4197
+S'Billy Moore'
+p4198
+aS'1933'
+p4199
+aS'Lock'
+p4200
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Garw Valley'
+p4201
+aVUnited Kingdom
+p4202
+aVWales
+p4203
+aVBridgend
+p4204
+aVLlangeinor
+p4205
+aa(lp4206
+S'Lew Rees'
+p4207
+aS'1933'
+p4208
+aS'Flanker'
+p4209
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Treherbert'
+p4210
+aVUnited Kingdom
+p4211
+aVCF42 5BG
+p4212
+aVWales
+p4213
+aVRhondda Cynon Taf
+p4214
+aa(lp4215
+S'Bun Cowey'
+p4216
+aS'1934'
+p4217
+aS'Wing'
+p4218
+aS'4'
+aS'2'
+aS'1'
+aS'1'
+aS'3'
+aS'9'
+aS'Wilts'
+p4219
+aVSouth Africa
+p4220
+aVKwaZulu-Natal
+p4221
+aVAmajuba District Municipality
+p4222
+aVDannhauser Local Municipality
+p4223
+aa(lp4224
+S'Cecil Davies'
+p4225
+aS'1934'
+p4226
+aS'Prop'
+p4227
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontypridd'
+p4228
+aVUnited Kingdom
+p4229
+aVCF37; CF38
+p4230
+aVWales
+p4231
+aVMid Glamorgan
+p4232
+aa(lp4233
+S'David Evans'
+p4234
+aS'1934'
+p4235
+aS'Scrum-half'
+p4236
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Barry'
+p4237
+aVUnited Kingdom
+p4238
+aVCF62
+p4239
+aVWales
+p4240
+aVVale of Glamorgan
+p4241
+aa(lp4242
+S'John Evans'
+p4243
+aS'1934'
+p4244
+aS'Hooker'
+p4245
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p4246
+aVUnited Kingdom
+p4247
+aVNP
+p4248
+aVWales
+p4249
+aVMonmouthshire
+p4250
+aa(lp4251
+S'Bryn Howells'
+p4252
+aS'1934'
+p4253
+aS'Fullback'
+p4254
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Hendy'
+p4255
+aVUnited Kingdom
+p4256
+aVWales
+p4257
+aVGwynedd
+p4258
+aVTywyn
+p4259
+aa(lp4260
+S'Gomer Hughes'
+p4261
+aS'1934'
+p4262
+aS'Lock'
+p4263
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Neath'
+p4264
+aVUnited Kingdom
+p4265
+aVWales
+p4266
+aVWest Glamorgan
+p4267
+aVNeath
+p4268
+aa(lp4269
+S'Geoffrey Jones'
+p4270
+aS'1934'
+p4271
+aS'Wing'
+p4272
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'2'
+aS'6'
+aS'Ipswich'
+p4273
+aVUnited Kingdom
+p4274
+aVEngland
+p4275
+aVEast of England
+p4276
+aVSuffolk
+p4277
+aa(lp4278
+S'Ken Jones'
+p4279
+aS'1934'
+p4280
+aS'No. 8'
+p4281
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Llanishen'
+p4282
+aVUnited Kingdom
+p4283
+aVWales
+p4284
+aVCardiff
+p4285
+aVLlanishen
+p4286
+aa(lp4287
+S'Cliff Jones'
+p4288
+aS'1934'
+p4289
+aS'Fly-half'
+p4290
+aS'13'
+p4291
+aS'8'
+aS'3'
+aS'2'
+aS'2'
+aS'6'
+aS'Porth'
+p4292
+aVUnited Kingdom
+p4293
+aVCF39
+p4294
+aVWales
+p4295
+aVMid Glamorgan
+p4296
+aa(lp4297
+S'Glyn Prosser'
+p4298
+aS'1934'
+p4299
+aS'Flanker'
+p4300
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Glynneath'
+p4301
+aVUnited Kingdom
+p4302
+aVCF37 1SY
+p4303
+aVWales
+p4304
+aVRhondda Cynon Taf
+p4305
+aa(lp4306
+S'Arthur Rees'
+p4307
+aS'1934'
+p4308
+aS'Flanker'
+p4309
+aS'13'
+p4310
+aS'5'
+aS'6'
+aS'2'
+aS'0'
+aS'0'
+aS'Llangadog'
+p4311
+aVUnited Kingdom
+p4312
+aVWales
+p4313
+aVCarmarthenshire
+p4314
+aVLlangadog
+p4315
+aa(lp4316
+S'Idwal Rees'
+p4317
+aS'1934'
+p4318
+aS'Centre'
+p4319
+aS'14'
+p4320
+aS'8'
+aS'5'
+aS'1'
+aS'2'
+aS'6'
+aS'Swansea'
+p4321
+aVUnited Kingdom
+p4322
+aVWales
+p4323
+aVWest Glamorgan
+p4324
+aVSwansea
+p4325
+aa(lp4326
+S'Harry Truman'
+p4327
+aS'1934'
+p4328
+aS'Lock'
+p4329
 aS'2'
 aS'0'
 aS'1'
@@ -10143,20 +11022,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Porth'
-p3934
+p4330
 aVUnited Kingdom
-p3935
+p4331
 aVCF39
-p3936
+p4332
 aVWales
-p3937
-aa(lp3938
+p4333
+aVMid Glamorgan
+p4334
+aa(lp4335
 S'Iorwerth Evans'
-p3939
+p4336
 aS'1934'
-p3940
+p4337
 aS'Hooker'
-p3941
+p4338
 aS'2'
 aS'2'
 aS'0'
@@ -10164,20 +11045,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Trelewis'
-p3942
+p4339
 aVUnited Kingdom
-p3943
+p4340
 aVWales
-p3944
+p4341
 aVMerthyr Tydfil
-p3945
-aa(lp3946
+p4342
+aVTrelewis
+p4343
+aa(lp4344
 S'Albert Fear'
-p3947
+p4345
 aS'1934'
-p3948
+p4346
 aS'Flanker'
-p3949
+p4347
 aS'4'
 aS'3'
 aS'1'
@@ -10185,20 +11068,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Abertillery'
-p3950
+p4348
 aVUnited Kingdom
-p3951
+p4349
 aVNP13 1
-p3952
+p4350
 aVWales
-p3953
-aa(lp3954
+p4351
+aVBlaenau Gwent
+p4352
+aa(lp4353
 S'Bert Jones'
-p3955
+p4354
 aS'1934'
-p3956
+p4355
 aS'Scrum-half'
-p3957
+p4356
 aS'2'
 aS'2'
 aS'0'
@@ -10206,20 +11091,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p3958
+p4357
 aVAustralia
-p3959
+p4358
 aVVictoria
-p3960
+p4359
 aVLoddon Mallee
-p3961
-aa(lp3962
+p4360
+aVShire of Loddon
+p4361
+aa(lp4362
 S'Dai Prosser'
-p3963
+p4363
 aS'1934'
-p3964
+p4364
 aS'Prop'
-p3965
+p4365
 aS'2'
 aS'2'
 aS'0'
@@ -10227,20 +11114,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p3966
+p4366
 aVUnited Kingdom
-p3967
+p4367
 aVWales
-p3968
+p4368
 aVWest Glamorgan
-p3969
-aa(lp3970
+p4369
+aVNeath
+p4370
+aa(lp4371
 S'Bill Ward'
-p3971
+p4372
 aS'1934'
-p3972
+p4373
 aS'Lock'
-p3973
+p4374
 aS'2'
 aS'2'
 aS'0'
@@ -10248,20 +11137,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Risca'
-p3974
+p4375
 aVUnited Kingdom
-p3975
+p4376
 aVNP11
-p3976
+p4377
 aVWales
-p3977
-aa(lp3978
+p4378
+aVMonmouthshire
+p4379
+aa(lp4380
 S'Arthur Bassett'
-p3979
+p4381
 aS'1934'
-p3980
+p4382
 aS'Wing'
-p3981
+p4383
 aS'6'
 aS'3'
 aS'2'
@@ -10269,20 +11160,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kenfig Hill'
-p3982
+p4384
 aVUnited Kingdom
-p3983
+p4385
 aVWales
-p3984
+p4386
 aVBridgend
-p3985
-aa(lp3986
+p4387
+aVKenfig Hill
+p4388
+aa(lp4389
 S'Con Murphy'
-p3987
+p4390
 aS'1935'
-p3988
+p4391
 aS'Hooker'
-p3989
+p4392
 aS'3'
 aS'1'
 aS'1'
@@ -10290,20 +11183,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Aberfan'
-p3990
+p4393
 aVUnited Kingdom
-p3991
+p4394
 aVCF48 4RB
-p3992
+p4395
 aVWales
-p3993
-aa(lp3994
+p4396
+aVMerthyr Tydfil
+p4397
+aa(lp4398
 S'Thomas Rees'
-p3995
+p4399
 aS'1935'
-p3996
+p4400
 aS'Prop'
-p3997
+p4401
 aS'8'
 aS'4'
 aS'3'
@@ -10311,19 +11206,20 @@ aS'1'
 aS'0'
 aS'0'
 aS'Fleur-de-Lys'
-p3998
+p4402
 aVMalta
-p3999
+p4403
 aVFleur-de-Lys
-p4000
+p4404
 ag9
-aa(lp4001
+ag9
+aa(lp4405
 S'Tabber Williams'
-p4002
+p4406
 aS'1935'
-p4003
+p4407
 aS'Prop'
-p4004
+p4408
 aS'8'
 aS'4'
 aS'3'
@@ -10331,20 +11227,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Aberaman'
-p4005
+p4409
 aVUnited Kingdom
-p4006
+p4410
 aVWales
-p4007
+p4411
 aVRhondda Cynon Taf
-p4008
-aa(lp4009
+p4412
+aVAberaman
+p4413
+aa(lp4414
 S'Tommy James'
-p4010
+p4415
 aS'1935'
-p4011
+p4416
 aS'Fullback'
-p4012
+p4417
 aS'2'
 aS'0'
 aS'2'
@@ -10352,20 +11250,22 @@ aS'0'
 aS'0'
 aS'3'
 aS'Aberavon'
-p4013
+p4418
 aVUnited Kingdom
-p4014
+p4419
 aVWales
-p4015
+p4420
 aVNeath Port Talbot
-p4016
-aa(lp4017
+p4421
+aVAberavon
+p4422
+aa(lp4423
 S'Harry Payne'
-p4018
+p4424
 aS'1935'
-p4019
+p4425
 aS'Prop'
-p4020
+p4426
 aS'1'
 aS'1'
 aS'0'
@@ -10373,41 +11273,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'Treboeth'
-p4021
+p4427
 aS'g'
 aS'n'
 aS'i'
-aa(lp4022
+aS's'
+aa(lp4428
 S'Haydn Tanner'
-p4023
+p4429
 aS'1935'
-p4024
+p4430
 aS'Scrum-half'
-p4025
+p4431
 aS'26'
-p4026
+p4432
 aS'12'
-p4027
+p4433
 aS'12'
-p4028
+p4434
 aS'2'
 aS'0'
 aS'0'
 aS'Gowerton'
-p4029
+p4435
 aVUnited Kingdom
-p4030
+p4436
 aVWales
-p4031
+p4437
 aVSwansea
-p4032
-aa(lp4033
+p4438
+aVGowerton
+p4439
+aa(lp4440
 S'Don Tarr'
-p4034
+p4441
 aS'1935'
-p4035
+p4442
 aS'Hooker'
-p4036
+p4443
 aS'1'
 aS'1'
 aS'0'
@@ -10415,20 +11318,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llandeilo Fawr'
-p4037
+p4444
 aVUnited Kingdom
-p4038
+p4445
 aVSA19 6AE
-p4039
+p4446
 aVWales
-p4040
-aa(lp4041
+p4447
+aVCarmarthenshire
+p4448
+aa(lp4449
 S'Eddie Watkins'
-p4042
+p4450
 aS'1935'
-p4043
+p4451
 aS'Lock'
-p4044
+p4452
 aS'8'
 aS'4'
 aS'4'
@@ -10436,20 +11341,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Caerphilly'
-p4045
+p4453
 aVUnited Kingdom
-p4046
+p4454
 aVCF83
-p4047
+p4455
 aVWales
-p4048
-aa(lp4049
+p4456
+aVMonmouthshire
+p4457
+aa(lp4458
 S'Edgar Long'
-p4050
+p4459
 aS'1936'
-p4051
+p4460
 aS'Flanker'
-p4052
+p4461
 aS'7'
 aS'4'
 aS'2'
@@ -10457,20 +11364,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Gower'
-p4053
+p4462
 aVUnited States of America
-p4054
+p4463
 aVMissouri
-p4055
+p4464
 aVClinton County
-p4056
-aa(lp4057
+p4465
+aVGower
+p4466
+aa(lp4467
 S'Barney McCall'
-p4058
+p4468
 aS'1936'
-p4059
+p4469
 aS'Wing'
-p4060
+p4470
 aS'3'
 aS'2'
 aS'0'
@@ -10478,20 +11387,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Clifton'
-p4061
+p4471
 aVUnited Kingdom
-p4062
+p4472
 aVEngland
-p4063
+p4473
 aVSouth West England
-p4064
-aa(lp4065
+p4474
+aVCity of Bristol
+p4475
+aa(lp4476
 S'Harold Thomas'
-p4066
+p4477
 aS'1936'
-p4067
+p4478
 aS'Lock'
-p4068
+p4479
 aS'6'
 aS'2'
 aS'3'
@@ -10499,20 +11410,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Neath'
-p4069
+p4480
 aVUnited Kingdom
-p4070
+p4481
 aVWales
-p4071
+p4482
 aVWest Glamorgan
-p4072
-aa(lp4073
+p4483
+aVNeath
+p4484
+aa(lp4485
 S'Griff Williams'
-p4074
+p4486
 aS'1936'
-p4075
+p4487
 aS'Lock'
-p4076
+p4488
 aS'3'
 aS'2'
 aS'0'
@@ -10520,20 +11433,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p4077
+p4489
 aVUnited Kingdom
-p4078
+p4490
 aVCF37; CF38
-p4079
+p4491
 aVWales
-p4080
-aa(lp4081
+p4492
+aVMid Glamorgan
+p4493
+aa(lp4494
 S'Willy Davies'
-p4082
+p4495
 aS'1936'
-p4083
+p4496
 aS'Fly-half'
-p4084
+p4497
 aS'6'
 aS'3'
 aS'3'
@@ -10541,20 +11456,22 @@ aS'0'
 aS'1'
 aS'7'
 aS'Penclawdd'
-p4085
+p4498
 aVUnited Kingdom
-p4086
+p4499
 aVWales
-p4087
+p4500
 aVSwansea
-p4088
-aa(lp4089
+p4501
+aVPenclawdd
+p4502
+aa(lp4503
 S'Bill Clement'
-p4090
+p4504
 aS'1937'
-p4091
+p4505
 aS'Wing'
-p4092
+p4506
 aS'6'
 aS'2'
 aS'4'
@@ -10562,20 +11479,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Llanelly'
-p4093
+p4507
 aVAustralia
-p4094
+p4508
 aVVictoria
-p4095
+p4509
 aVLoddon Mallee
-p4096
-aa(lp4097
+p4510
+aVShire of Loddon
+p4511
+aa(lp4512
 S'Emrys Evans'
-p4098
+p4513
 aS'1937'
-p4099
+p4514
 aS'Flanker'
-p4100
+p4515
 aS'3'
 aS'2'
 aS'1'
@@ -10583,20 +11502,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Gwaun-cae-Gurwen'
-p4101
+p4516
 aVUnited Kingdom
-p4102
+p4517
 aVWales
-p4103
+p4518
 aVNeath Port Talbot
-p4104
-aa(lp4105
+p4519
+aVGwaun-cae-gurwen
+p4520
+aa(lp4521
 S'David Thomas'
-p4106
+p4522
 aS'1937'
-p4107
+p4523
 aS'Lock'
-p4108
+p4524
 aS'1'
 aS'0'
 aS'1'
@@ -10604,20 +11525,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p4109
+p4525
 aVUnited Kingdom
-p4110
+p4526
 aVWales
-p4111
+p4527
 aVWest Glamorgan
-p4112
-aa(lp4113
+p4528
+aVNeath
+p4529
+aa(lp4530
 S'Bill Hopkin'
-p4114
+p4531
 aS'1937'
-p4115
+p4532
 aS'Wing'
-p4116
+p4533
 aS'1'
 aS'0'
 aS'1'
@@ -10625,20 +11548,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p4117
+p4534
 aVUnited Kingdom
-p4118
+p4535
 aVNP
-p4119
+p4536
 aVWales
-p4120
-aa(lp4121
+p4537
+aVMonmouthshire
+p4538
+aa(lp4539
 S'Harry Rees'
-p4122
+p4540
 aS'1937'
-p4123
+p4541
 aS'Prop'
-p4124
+p4542
 aS'5'
 aS'2'
 aS'3'
@@ -10646,42 +11571,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p4125
+p4543
 aVUnited Kingdom
-p4126
+p4544
 aVCF37; CF38
-p4127
+p4545
 aVWales
-p4128
-aa(lp4129
+p4546
+aVMid Glamorgan
+p4547
+aa(lp4548
 S'Bunner Travers'
-p4130
+p4549
 aS'1937'
-p4131
+p4550
 aS'Hooker'
-p4132
+p4551
 aS'14'
-p4133
+p4552
 aS'6'
 aS'8'
 aS'0'
 aS'1'
 aS'3'
 aS'Newport'
-p4134
+p4553
 aVUnited Kingdom
-p4135
+p4554
 aVNP
-p4136
+p4555
 aVWales
-p4137
-aa(lp4138
+p4556
+aVMonmouthshire
+p4557
+aa(lp4558
 S'Ivor Bennett'
-p4139
+p4559
 aS'1937'
-p4140
+p4560
 aS'Prop'
-p4141
+p4561
 aS'1'
 aS'0'
 aS'1'
@@ -10689,20 +11618,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Aberkenfig'
-p4142
+p4562
 aVUnited Kingdom
-p4143
+p4563
 aVWales
-p4144
+p4564
 aVBridgend
-p4145
-aa(lp4146
+p4565
+aVAberkenfig
+p4566
+aa(lp4567
 S'Walter Legge'
-p4147
+p4568
 aS'1937'
-p4148
+p4569
 aS'Fullback'
-p4149
+p4570
 aS'2'
 aS'1'
 aS'1'
@@ -10710,20 +11641,22 @@ aS'0'
 aS'0'
 aS'5'
 aS'Risca'
-p4150
+p4571
 aVUnited Kingdom
-p4151
+p4572
 aVNP11
-p4152
+p4573
 aVWales
-p4153
-aa(lp4154
+p4574
+aVMonmouthshire
+p4575
+aa(lp4576
 S'Russell Taylor'
-p4155
+p4577
 aS'1937'
-p4156
+p4578
 aS'Flanker'
-p4157
+p4579
 aS'5'
 aS'1'
 aS'4'
@@ -10731,20 +11664,22 @@ aS'0'
 aS'1'
 aS'6'
 aS'Risca'
-p4158
+p4580
 aVUnited Kingdom
-p4159
+p4581
 aVNP11
-p4160
+p4582
 aVWales
-p4161
-aa(lp4162
+p4583
+aVMonmouthshire
+p4584
+aa(lp4585
 S'Allen McCarley'
-p4163
+p4586
 aS'1938'
-p4164
+p4587
 aS'Flanker'
-p4165
+p4588
 aS'3'
 aS'2'
 aS'1'
@@ -10752,20 +11687,22 @@ aS'0'
 aS'3'
 aS'9'
 aS'Port Talbot'
-p4166
+p4589
 aVUnited Kingdom
-p4167
+p4590
 aVWales
-p4168
+p4591
 aVNeath Port Talbot
-p4169
-aa(lp4170
+p4592
+aVPort Talbot
+p4593
+aa(lp4594
 S'Fred Morgan'
-p4171
+p4595
 aS'1938'
-p4172
+p4596
 aS'Lock'
-p4173
+p4597
 aS'4'
 aS'2'
 aS'2'
@@ -10773,20 +11710,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontyberem'
-p4174
+p4598
 aVUnited Kingdom
-p4175
+p4599
 aVWales
-p4176
+p4600
 aVCarmarthenshire
-p4177
-aa(lp4178
+p4601
+aVPontyberem
+p4602
+aa(lp4603
 S'Eddie Morgan'
-p4179
+p4604
 aS'1938'
-p4180
+p4605
 aS'Prop'
-p4181
+p4606
 aS'6'
 aS'2'
 aS'4'
@@ -10794,20 +11733,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontardawe'
-p4182
+p4607
 aVUnited Kingdom
-p4183
+p4608
 aVWales
-p4184
+p4609
 aVNeath Port Talbot
-p4185
-aa(lp4186
+p4610
+aVPontardawe
+p4611
+aa(lp4612
 S'Walter Vickery'
-p4187
+p4613
 aS'1938'
-p4188
+p4614
 aS'No. 8'
-p4189
+p4615
 aS'4'
 aS'2'
 aS'2'
@@ -10815,20 +11756,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Port Talbot'
-p4190
+p4616
 aVUnited Kingdom
-p4191
+p4617
 aVWales
-p4192
+p4618
 aVNeath Port Talbot
-p4193
-aa(lp4194
+p4619
+aVPort Talbot
+p4620
+aa(lp4621
 S'Cyril Challinor'
-p4195
+p4622
 aS'1939'
-p4196
+p4623
 aS'Flanker'
-p4197
+p4624
 aS'1'
 aS'0'
 aS'1'
@@ -10836,20 +11779,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p4198
+p4625
 aVUnited Kingdom
-p4199
+p4626
 aVWales
-p4200
+p4627
 aVWest Glamorgan
-p4201
-aa(lp4202
+p4628
+aVNeath
+p4629
+aa(lp4630
 S'Idwal Davies'
-p4203
+p4631
 aS'1939'
-p4204
+p4632
 aS'Centre'
-p4205
+p4633
 aS'1'
 aS'0'
 aS'1'
@@ -10860,13 +11805,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp4206
+aS's'
+aa(lp4634
 S'Wendy Davis'
-p4207
+p4635
 aS'1939'
-p4208
+p4636
 aS'Prop'
-p4209
+p4637
 aS'3'
 aS'2'
 aS'1'
@@ -10874,20 +11820,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Birmingham'
-p4210
+p4638
 aVUnited Kingdom
-p4211
+p4639
 aVEngland
-p4212
+p4640
 aVWest Midlands
-p4213
-aa(lp4214
+p4641
+aVBirmingham
+p4642
+aa(lp4643
 S'John Ford'
-p4215
+p4644
 aS'1939'
-p4216
+p4645
 aS'Wing'
-p4217
+p4646
 aS'1'
 aS'0'
 aS'1'
@@ -10895,20 +11843,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Redcar'
-p4218
+p4647
 aVUnited Kingdom
-p4219
+p4648
 aVEngland
-p4220
+p4649
 aVNorth East England
-p4221
-aa(lp4222
+p4650
+aVRedcar and Cleveland
+p4651
+aa(lp4652
 S'Syd Williams'
-p4223
+p4653
 aS'1939'
-p4224
+p4654
 aS'Wing'
-p4225
+p4655
 aS'3'
 aS'2'
 aS'1'
@@ -10916,20 +11866,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Aberavon'
-p4226
+p4656
 aVUnited Kingdom
-p4227
+p4657
 aVWales
-p4228
+p4658
 aVNeath Port Talbot
-p4229
-aa(lp4230
+p4659
+aVAberavon
+p4660
+aa(lp4661
 S'Howard Davies'
-p4231
+p4662
 aS'1939'
-p4232
+p4663
 aS'Fullback'
-p4233
+p4664
 aS'6'
 aS'5'
 aS'1'
@@ -10937,20 +11889,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p4234
+p4665
 aVAustralia
-p4235
+p4666
 aVVictoria
-p4236
+p4667
 aVLoddon Mallee
-p4237
-aa(lp4238
+p4668
+aVShire of Loddon
+p4669
+aa(lp4670
 S'Leslie Davies'
-p4239
+p4671
 aS'1939'
-p4240
+p4672
 aS'Prop'
-p4241
+p4673
 aS'2'
 aS'2'
 aS'0'
@@ -10958,20 +11912,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p4242
+p4674
 aVUnited Kingdom
-p4243
+p4675
 aVWales
-p4244
+p4676
 aVWest Glamorgan
-p4245
-aa(lp4246
+p4677
+aVSwansea
+p4678
+aa(lp4679
 S'Mickey Davies'
-p4247
+p4680
 aS'1939'
-p4248
+p4681
 aS'Centre'
-p4249
+p4682
 aS'2'
 aS'2'
 aS'0'
@@ -10979,20 +11935,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'1918'
-p4250
+p4683
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p4251
+p4684
 aV\u0421\u041a\u0424\u041e
-p4252
+p4685
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p4253
-aa(lp4254
+p4686
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p4687
+aa(lp4688
 S'Elfed Jones'
-p4255
+p4689
 aS'1938'
-p4256
+p4690
 aS'Wing'
-p4257
+p4691
 aS'3'
 aS'2'
 aS'1'
@@ -11000,20 +11958,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Llanelly'
-p4258
+p4692
 aVAustralia
-p4259
+p4693
 aVVictoria
-p4260
+p4694
 aVLoddon Mallee
-p4261
-aa(lp4262
+p4695
+aVShire of Loddon
+p4696
+aa(lp4697
 S'Les Manfield'
-p4263
+p4698
 aS'1939'
-p4264
+p4699
 aS'No. 8'
-p4265
+p4700
 aS'7'
 aS'4'
 aS'2'
@@ -11021,20 +11981,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Mountain Ash'
-p4266
+p4701
 aVUnited Kingdom
-p4267
+p4702
 aVCF45
-p4268
+p4703
 aVWales
-p4269
-aa(lp4270
+p4704
+aVMid Glamorgan
+p4705
+aa(lp4706
 S'Ron Price'
-p4271
+p4707
 aS'1939'
-p4272
+p4708
 aS'Lock'
-p4273
+p4709
 aS'2'
 aS'2'
 aS'0'
@@ -11042,20 +12004,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Trealaw'
-p4274
+p4710
 aVUnited Kingdom
-p4275
+p4711
 aVCF39
-p4276
+p4712
 aVWales
-p4277
-aa(lp4278
+p4713
+aVRhondda Cynon Taf
+p4714
+aa(lp4715
 S'Viv Law'
-p4279
+p4716
 aS'1939'
-p4280
+p4717
 aS'Prop'
-p4281
+p4718
 aS'1'
 aS'1'
 aS'0'
@@ -11063,20 +12027,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p4282
+p4719
 aVUnited Kingdom
-p4283
+p4720
 aVWales
-p4284
+p4721
 aVCardiff
-p4285
-aa(lp4286
+p4722
+ag9
+aa(lp4723
 S'Chris Matthews'
-p4287
+p4724
 aS'1939'
-p4288
+p4725
 aS'Wing'
-p4289
+p4726
 aS'1'
 aS'1'
 aS'0'
@@ -11084,20 +12049,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bridgend'
-p4290
+p4727
 aVUnited Kingdom
-p4291
+p4728
 aVWales
-p4292
+p4729
 aVBridgend
-p4293
-aa(lp4294
+p4730
+ag9
+aa(lp4731
 S'Griff Bevan'
-p4295
+p4732
 aS'1947'
-p4296
+p4733
 aS'Prop'
-p4297
+p4734
 aS'1'
 aS'0'
 aS'1'
@@ -11105,20 +12071,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Burry Port'
-p4298
+p4735
 aVUnited Kingdom
-p4299
+p4736
 aVWales
-p4300
+p4737
 aVCarmarthenshire
-p4301
-aa(lp4302
+p4738
+aVBurry Port
+p4739
+aa(lp4740
 S'Reg Blakemore'
-p4303
+p4741
 aS'1947'
-p4304
+p4742
 aS'Hooker'
-p4305
+p4743
 aS'1'
 aS'0'
 aS'1'
@@ -11126,64 +12094,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p4306
+p4744
 aVUnited Kingdom
-p4307
+p4745
 aVNP
-p4308
+p4746
 aVWales
-p4309
-aa(lp4310
+p4747
+aVMonmouthshire
+p4748
+aa(lp4749
 S'Billy Cleaver'
-p4311
+p4750
 aS'1947'
-p4312
+p4751
 aS'Fly-half'
-p4313
+p4752
 aS'17'
-p4314
+p4753
 aS'9'
 aS'6'
 aS'2'
 aS'1'
 aS'6'
 aS'Treorchy'
-p4315
+p4754
 aVUnited Kingdom
-p4316
+p4755
 aVWales
-p4317
+p4756
 aVRhondda Cynon Taf
-p4318
-aa(lp4319
+p4757
+aVTreorchy
+p4758
+aa(lp4759
 S'Gwyn Evans'
-p4320
+p4760
 aS'1947'
-p4321
+p4761
 aS'Flanker'
-p4322
+p4762
 aS'12'
-p4323
+p4763
 aS'6'
 aS'5'
 aS'1'
 aS'1'
 aS'3'
 aS'Treherbert'
-p4324
+p4764
 aVUnited Kingdom
-p4325
+p4765
 aVCF42 5BG
-p4326
+p4766
 aVWales
-p4327
-aa(lp4328
+p4767
+aVRhondda Cynon Taf
+p4768
+aa(lp4769
 S'Dai Jones'
-p4329
+p4770
 aS'1947'
-p4330
+p4771
 aS'Prop'
-p4331
+p4772
 aS'7'
 aS'3'
 aS'4'
@@ -11191,1163 +12165,75 @@ aS'0'
 aS'0'
 aS'0'
 aS'Morriston'
-p4332
+p4773
 aVUnited Kingdom
-p4333
+p4774
 aVWales
-p4334
+p4775
 aVSwansea
-p4335
-aa(lp4336
+p4776
+aVMorriston
+p4777
+aa(lp4778
 S'Ken Jones'
-p4337
+p4779
 aS'1947'
-p4338
+p4780
 aS'Wing'
-p4339
+p4781
 aS'47'
-p4340
+p4782
 aS'28'
-p4341
+p4783
 aS'16'
-p4342
+p4784
 aS'3'
 aS'19'
-p4343
-aS'57'
-p4344
-aS'Blaenavon'
-p4345
-aVUnited Kingdom
-p4346
-aVNP4
-p4347
-aVWales
-p4348
-aa(lp4349
-S'Jack Matthews'
-p4350
-aS'1947'
-p4351
-aS'Centre'
-p4352
-aS'23'
-p4353
-aS'10'
-p4354
-aS'10'
-p4355
-aS'3'
-aS'4'
-aS'12'
-p4356
-aS'Bridgend'
-p4357
-aVUnited Kingdom
-p4358
-aVWales
-p4359
-aVBridgend
-p4360
-aa(lp4361
-S'George Parsons'
-p4362
-aS'1947'
-p4363
-aS'Lock'
-p4364
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Newbridge'
-p4365
-aVRepublic of Ireland
-p4366
-aVLeinster
-p4367
-aVCounty Kildare
-p4368
-aa(lp4369
-S'Rees Stephens'
-p4370
-aS'1947'
-p4371
-aS'Lock'
-p4372
-aS'34'
-p4373
-aS'21'
-p4374
-aS'13'
-p4375
-aS'0'
-aS'2'
-aS'8'
-aS'Neath'
-p4376
-aVUnited Kingdom
-p4377
-aVWales
-p4378
-aVWest Glamorgan
-p4379
-aa(lp4380
-S'Bleddyn Williams'
-p4381
-aS'1947'
-p4382
-aS'Centre'
-p4383
-aS'27'
-p4384
-aS'15'
-p4385
-aS'10'
-p4386
-aS'2'
-aS'8'
-aS'24'
-p4387
-aS"Taff's Well"
-p4388
-aVUnited Kingdom
-p4389
-aVWales
-p4390
-aVRhondda Cynon Taf
-p4391
-aa(lp4392
-S'Ossie Williams'
-p4393
-aS'1947'
-p4394
-aS'Flanker'
-p4395
-aS'7'
-aS'3'
-aS'3'
-aS'1'
-aS'0'
-aS'3'
-aS'Llanelly'
-p4396
-aVAustralia
-p4397
-aVVictoria
-p4398
-aVLoddon Mallee
-p4399
-aa(lp4400
-S'Stanley Williams'
-p4401
-aS'1947'
-p4402
-aS'Lock'
-p4403
-aS'6'
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Llanelly'
-p4404
-aVAustralia
-p4405
-aVVictoria
-p4406
-aVLoddon Mallee
-p4407
-aa(lp4408
-S'Les Williams'
-p4409
-aS'1947'
-p4410
-aS'Wing'
-p4411
-aS'7'
-aS'5'
-aS'2'
-aS'0'
-aS'3'
-aS'9'
-aS'Mynyddygarreg'
-p4412
-aVUnited Kingdom
-p4413
-aVWales
-p4414
-aVCarmarthenshire
-p4415
-aa(lp4416
-S'Cliff Davies'
-p4417
-aS'1947'
-p4418
-aS'Prop'
-p4419
-aS'17'
-p4420
-aS'10'
-p4421
-aS'5'
-aS'2'
-aS'1'
-aS'3'
-aS'Kenfig Hill'
-p4422
-aVUnited Kingdom
-p4423
-aVWales
-p4424
-aVBridgend
-p4425
-aa(lp4426
-S'Glyn Davies'
-p4427
-aS'1947'
-p4428
-aS'Fly-half'
-p4429
-aS'11'
-p4430
-aS'5'
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aS'Cifynydd'
-p4431
-aS'g'
-aS'n'
-aS'i'
-aa(lp4432
-S'Wilf Evans'
-p4433
-aS'1947'
-p4434
-aS'Prop'
-p4435
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Griffithstown'
-p4436
-aVUnited Kingdom
-p4437
-aVNP4
-p4438
-aVWales
-p4439
-aa(lp4440
-S'Billy Gore'
-p4441
-aS'1947'
-p4442
-aS'Hooker'
-p4443
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Blaina'
-p4444
-aVUnited Kingdom
-p4445
-aVWales
-p4446
-aVBlaenau Gwent
-p4447
-aa(lp4448
-S'Bill Tamplin'
-p4449
-aS'1947'
-p4450
-aS'Lock'
-p4451
-aS'7'
-aS'5'
-aS'1'
-aS'1'
-aS'0'
-aS'24'
-p4452
-aS'Risca'
-p4453
-aVUnited Kingdom
-p4454
-aVNP11
-p4455
-aVWales
-p4456
-aa(lp4457
-S'Bob Evans'
-p4458
-aS'1947'
-p4459
-aS'Flanker'
-p4460
-aS'16'
-p4461
-aS'9'
-aS'5'
-aS'2'
-aS'1'
-aS'3'
-aS'Rhymney'
-p4462
-aVUnited Kingdom
-p4463
-aVNP22
-p4464
-aVWales
-p4465
-aa(lp4466
-S'Peter Rees'
-p4467
-aS'1947'
-p4468
-aS'Wing'
-p4469
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Penygroes'
-p4470
-aVUnited Kingdom
-p4471
-aVWales
-p4472
-aVGwynedd
-p4473
-aa(lp4474
-S'Emlyn Davies'
-p4475
-aS'1947'
-p4476
-aS'Prop'
-p4477
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Port Talbot'
-p4478
-aVUnited Kingdom
-p4479
-aVWales
-p4480
-aVNeath Port Talbot
-p4481
-aa(lp4482
-S'Handel Greville'
-p4483
-aS'1947'
-p4484
-aS'Scrum-half'
-p4485
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Drefach'
-p4486
-aVUnited Kingdom
-p4487
-aVWales
-p4488
-aVCarmarthenshire
-p4489
-aa(lp4490
-S'John Gwilliam'
-p4491
-aS'1947'
-p4492
-aS'No. 8'
-p4493
-aS'23'
-p4494
-aS'14'
-p4495
-aS'8'
-aS'1'
-aS'0'
-aS'0'
-aS'Pontypridd'
-p4496
-aVUnited Kingdom
-p4497
-aVCF37; CF38
-p4498
-aVWales
-p4499
-aa(lp4500
-S'Mal James'
-p4501
-aS'1947'
-p4502
-aS'Hooker'
-p4503
-aS'5'
-aS'2'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'Cifynydd'
-p4504
-aS'g'
-aS'n'
-aS'i'
-aa(lp4505
-S'Les Anthony'
-p4506
-aS'1948'
-p4507
-aS'Prop'
-p4508
-aS'3'
-aS'1'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Rhiwfawr'
-p4509
-aVUnited Kingdom
-p4510
-aVWales
-p4511
-aVNeath Port Talbot
-p4512
-aa(lp4513
-S'Des Jones'
-p4514
-aS'1948'
-p4515
-aS'Lock'
-p4516
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Tumble'
-p4517
-aVUnited Kingdom
-p4518
-aVWales
-p4519
-aVCarmarthenshire
-p4520
-aa(lp4521
-S'Frank Trott'
-p4522
-aS'1948'
-p4523
-aS'Fullback'
-p4524
-aS'8'
-aS'2'
-aS'5'
-aS'1'
-aS'0'
-aS'2'
-aS'Cardiff'
-p4525
-aVUnited Kingdom
-p4526
-aVWales
-p4527
-aVCardiff
-p4528
-aa(lp4529
-S'Ray Cale'
-p4530
-aS'1949'
-p4531
-aS'Flanker'
-p4532
-aS'7'
-aS'5'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'Usk'
-p4533
-aVUnited Kingdom
-p4534
-aVWales
-p4535
-aVMonmouthshire
-p4536
-aa(lp4537
-S'Ernie Coleman'
-p4538
-aS'1949'
-p4539
-aS'Prop'
-p4540
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Newport'
-p4541
-aVUnited Kingdom
-p4542
-aVNP
-p4543
-aVWales
-p4544
-aa(lp4545
-S'Don Hayward'
-p4546
-aS'1949'
-p4547
-aS'Lock'
-p4548
-aS'18'
-p4549
-aS'10'
-p4550
-aS'6'
-aS'2'
-aS'0'
-aS'0'
-aS'Pontypool'
-p4551
-aVUnited Kingdom
-p4552
-aVNP4
-p4553
-aVWales
-p4554
-aa(lp4555
-S'Alun Meredith'
-p4556
-aS'1949'
-p4557
-aS'Lock'
-p4558
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'Ystrad'
-p4559
-aVUnited Kingdom
-p4560
-aVWales
-p4561
-aVRhondda Cynon Taf
-p4562
-aa(lp4563
-S'Terry Cook'
-p4564
-aS'1949'
-p4565
-aS'Wing'
-p4566
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Pontypridd'
-p4567
-aVUnited Kingdom
-p4568
-aVCF37; CF38
-p4569
-aVWales
-p4570
-aa(lp4571
-S'Windsor Major'
-p4572
-aS'1949'
-p4573
-aS'Wing'
-p4574
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Llangynwyd'
-p4575
-aVUnited Kingdom
-p4576
-aVWales
-p4577
-aVBridgend
-p4578
-aa(lp4579
-S'Peter Stone'
-p4580
-aS'1949'
-p4581
-aS'Flanker'
-p4582
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Loughor'
-p4583
-aVUnited Kingdom
-p4584
-aVWales
-p4585
-aVSwansea
-p4586
-aa(lp4587
-S'Malcolm Thomas'
-p4588
-aS'1949'
-p4589
-aS'Centre'
-p4590
-aS'31'
-p4591
-aS'16'
-p4592
-aS'13'
-p4593
-aS'2'
-aS'4'
-aS'22'
-p4594
-aS'Machen'
-p4595
-aVUnited Kingdom
-p4596
-aVWales
-p4597
-aVCaerphilly
-p4598
-aa(lp4599
-S'Clem Thomas'
-p4600
-aS'1949'
-p4601
-aS'Flanker'
-p4602
-aS'28'
-p4603
-aS'18'
-p4604
-aS'9'
-aS'1'
-aS'1'
-aS'3'
-aS'Cardiff'
-p4605
-aVUnited Kingdom
-p4606
-aVWales
-p4607
-aVCardiff
-p4608
-aa(lp4609
-S'Trevor Brewer'
-p4610
-aS'1950'
-p4611
-aS'Wing'
-p4612
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'2'
-aS'6'
-aS'Newport'
-p4613
-aVUnited Kingdom
-p4614
-aVNP
-p4615
-aVWales
-p4616
-aa(lp4617
-S'Dai Davies'
-p4618
-aS'1950'
-p4619
-aS'Hooker'
-p4620
-aS'20'
-p4621
-aS'13'
-p4622
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'Penygraig'
-p4623
-aVUnited Kingdom
-p4624
-aVSA48 8EZ
-p4625
-aVWales
-p4626
-aa(lp4627
-S'Roy John'
-p4628
-aS'1950'
-p4629
-aS'Lock'
-p4630
-aS'25'
-p4631
-aS'15'
-p4632
-aS'8'
-aS'2'
-aS'2'
-aS'6'
-aS'Neath'
-p4633
-aVUnited Kingdom
-p4634
-aVWales
-p4635
-aVWest Glamorgan
-p4636
-aa(lp4637
-S'Lewis Jones'
-p4638
-aS'1950'
-p4639
-aS'Fullback'
-p4640
-aS'13'
-p4641
-aS'10'
-p4642
-aS'3'
-aS'0'
-aS'1'
-aS'62'
-p4643
-aS'Gorseinon'
-p4644
-aVUnited Kingdom
-p4645
-aVWales
-p4646
-aVWest Glamorgan
-p4647
-aa(lp4648
-S'John Robins'
-p4649
-aS'1950'
-p4650
-aS'Prop'
-p4651
-aS'16'
-p4652
-aS'9'
-aS'5'
-aS'2'
-aS'0'
-aS'10'
-p4653
-aS'Cardiff'
-p4654
-aVUnited Kingdom
-p4655
-aVWales
-p4656
-aVCardiff
-p4657
-aa(lp4658
-S'Rex Willis'
-p4659
-aS'1950'
-p4660
-aS'Scrum-half'
-p4661
-aS'24'
-p4662
-aS'17'
-p4663
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'Ystrad'
-p4664
-aVUnited Kingdom
-p4665
-aVWales
-p4666
-aVRhondda Cynon Taf
-p4667
-aa(lp4668
-S'Gerwyn Williams'
-p4669
-aS'1950'
-p4670
-aS'Fullback'
-p4671
-aS'13'
-p4672
-aS'8'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'Glyncorrwg'
-p4673
-aVUnited Kingdom
-p4674
-aVWales
-p4675
-aVNeath Port Talbot
-p4676
-aa(lp4677
-S'Peter Evans'
-p4678
-aS'1951'
-p4679
-aS'Flanker'
-p4680
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Llanelly'
-p4681
-aVAustralia
-p4682
-aVVictoria
-p4683
-aVLoddon Mallee
-p4684
-aa(lp4685
-S'Allen Forward'
-p4686
-aS'1951'
-p4687
-aS'Flanker'
-p4688
-aS'6'
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Cwmavon'
-p4689
-aVUnited Kingdom
-p4690
-aVWales
-p4691
-aVNeath Port Talbot
-p4692
-aa(lp4693
-S'Ben Edwards'
-p4694
-aS'1951'
-p4695
-aS'Lock'
-p4696
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'3'
-aS'Chepstow'
-p4697
-aVUnited Kingdom
-p4698
-aVNP16
-p4699
-aVWales
-p4700
-aa(lp4701
-S'Cliff Morgan'
-p4702
-aS'1951'
-p4703
-aS'Fly-half'
-p4704
-aS'33'
-p4705
-aS'21'
-p4706
-aS'10'
-p4707
-aS'2'
-aS'4'
-aS'12'
-p4708
-aS'Trebanog'
-p4709
-aVUnited Kingdom
-p4710
-aVWales
-p4711
-aVRhondda Cynon Taf
-p4712
-aa(lp4713
-S'Haydn Morris'
-p4714
-aS'1951'
-p4715
-aS'Wing'
-p4716
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'2'
-aS'6'
-aS'Mountain Ash'
-p4717
-aVUnited Kingdom
-p4718
-aVCF45
-p4719
-aVWales
-p4720
-aa(lp4721
-S'Billy Williams'
-p4722
-aS'1951'
-p4723
-aS'Prop'
-p4724
-aS'26'
-p4725
-aS'18'
-p4726
-aS'8'
-aS'0'
-aS'1'
-aS'3'
-aS'Gower'
-p4727
-aVUnited States of America
-p4728
-aVMissouri
-p4729
-aVClinton County
-p4730
-aa(lp4731
-S'Len Blythe'
-p4732
-aS'1951'
-p4733
-aS'Flanker'
-p4734
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Swansea'
-p4735
-aVUnited Kingdom
-p4736
-aVWales
-p4737
-aVWest Glamorgan
-p4738
-aa(lp4739
-S'Alun Thomas'
-p4740
-aS'1952'
-p4741
-aS'Centre'
-p4742
-aS'13'
-p4743
-aS'11'
-p4744
-aS'2'
-aS'0'
-aS'1'
-aS'6'
-aS'Cwmavon'
-p4745
-aVUnited Kingdom
-p4746
-aVWales
-p4747
-aVNeath Port Talbot
-p4748
-aa(lp4749
-S'Billy Williams'
-p4750
-aS'1952'
-p4751
-aS'Scrum-half'
-p4752
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Talywain'
-p4753
-aVUnited Kingdom
-p4754
-aVWales
-p4755
-aVTorfaen
-p4756
-aa(lp4757
-S'Horace Phillips'
-p4758
-aS'1952'
-p4759
-aS'Wing'
-p4760
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Swansea'
-p4761
-aVUnited Kingdom
-p4762
-aVWales
-p4763
-aVWest Glamorgan
-p4764
-aa(lp4765
-S'Geoff Beckingham'
-p4766
-aS'1953'
-p4767
-aS'Hooker'
-p4768
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Barry'
-p4769
-aVUnited Kingdom
-p4770
-aVCF62
-p4771
-aVWales
-p4772
-aa(lp4773
-S'Roy Burnett'
-p4774
-aS'1953'
-p4775
-aS'Fly-half'
-p4776
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Abercarn'
-p4777
-aVUnited Kingdom
-p4778
-aVWales
-p4779
-aVMonmouthshire
-p4780
-aa(lp4781
-S'Terry Davies'
-p4782
-aS'1953'
-p4783
-aS'Fullback'
-p4784
-aS'23'
 p4785
-aS'11'
+aS'57'
 p4786
-aS'11'
+aS'Blaenavon'
 p4787
-aS'1'
-aS'0'
-aS'55'
-p4788
-aS'Llwynhendy'
-p4789
 aVUnited Kingdom
-p4790
+p4788
+aVNP4
+p4789
 aVWales
+p4790
+aVMonmouthshire
 p4791
-aVCarmarthenshire
-p4792
-aa(lp4793
-S'Gareth Griffiths'
+aa(lp4792
+S'Jack Matthews'
+p4793
+aS'1947'
 p4794
-aS'1953'
+aS'Centre'
 p4795
-aS'Wing'
+aS'23'
 p4796
-aS'15'
+aS'10'
 p4797
 aS'10'
 p4798
-aS'5'
-aS'0'
-aS'5'
-aS'15'
+aS'3'
+aS'4'
+aS'12'
 p4799
-aS'Penygraig'
+aS'Bridgend'
 p4800
 aVUnited Kingdom
 p4801
-aVSA48 8EZ
-p4802
 aVWales
+p4802
+aVBridgend
 p4803
+ag9
 aa(lp4804
-S'Dill Johnson'
+S'George Parsons'
 p4805
-aS'1953'
+aS'1947'
 p4806
-aS'Flanker'
+aS'Lock'
 p4807
 aS'1'
 aS'0'
@@ -12355,328 +12241,329 @@ aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'Pontarddulais'
+aS'Newbridge'
 p4808
-aVUnited Kingdom
+aVRepublic of Ireland
 p4809
-aVWales
+aVLeinster
 p4810
-aVSwansea
+aVCounty Kildare
 p4811
-aa(lp4812
-S'Sid Judd'
-p4813
-aS'1953'
+aVNewbridge
+p4812
+aa(lp4813
+S'Rees Stephens'
 p4814
-aS'Flanker'
+aS'1947'
 p4815
-aS'10'
+aS'Lock'
 p4816
-aS'7'
-aS'3'
-aS'0'
-aS'1'
-aS'3'
-aS'Cardiff'
+aS'34'
 p4817
-aVUnited Kingdom
+aS'21'
 p4818
-aVWales
-p4819
-aVCardiff
-p4820
-aa(lp4821
-S'Courtenay Meredith'
-p4822
-aS'1953'
-p4823
-aS'Prop'
-p4824
-aS'18'
-p4825
-aS'11'
-p4826
-aS'7'
-aS'0'
-aS'1'
-aS'3'
-aS'Pontypridd'
-p4827
-aVUnited Kingdom
-p4828
-aVCF37; CF38
-p4829
-aVWales
-p4830
-aa(lp4831
-S'Russell Robins'
-p4832
-aS'1953'
-p4833
-aS'No. 8'
-p4834
-aS'17'
-p4835
-aS'12'
-p4836
-aS'5'
-aS'0'
-aS'1'
-aS'3'
-aS'Pontypridd'
-p4837
-aVUnited Kingdom
-p4838
-aVCF37; CF38
-p4839
-aVWales
-p4840
-aa(lp4841
-S'Trevor Lloyd'
-p4842
-aS'1953'
-p4843
-aS'Scrum-half'
-p4844
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Taibach'
-p4845
-aVUnited Kingdom
-p4846
-aVWales
-p4847
-aVNeath Port Talbot
-p4848
-aa(lp4849
-S'Gwyn Rowlands'
-p4850
-aS'1953'
-p4851
-aS'Wing'
-p4852
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'1'
 aS'13'
-p4853
-aS'Berkhamsted'
-p4854
+p4819
+aS'0'
+aS'2'
+aS'8'
+aS'Neath'
+p4820
 aVUnited Kingdom
-p4855
-aVEngland
-p4856
-aVEast of England
-p4857
-aa(lp4858
-S'Glyn John'
-p4859
-aS'1954'
-p4860
+p4821
+aVWales
+p4822
+aVWest Glamorgan
+p4823
+aVNeath
+p4824
+aa(lp4825
+S'Bleddyn Williams'
+p4826
+aS'1947'
+p4827
 aS'Centre'
+p4828
+aS'27'
+p4829
+aS'15'
+p4830
+aS'10'
+p4831
+aS'2'
+aS'8'
+aS'24'
+p4832
+aS"Taff's Well"
+p4833
+aVUnited Kingdom
+p4834
+aVWales
+p4835
+aVRhondda Cynon Taf
+p4836
+aVTaffs Well
+p4837
+aa(lp4838
+S'Ossie Williams'
+p4839
+aS'1947'
+p4840
+aS'Flanker'
+p4841
+aS'7'
+aS'3'
+aS'3'
+aS'1'
+aS'0'
+aS'3'
+aS'Llanelly'
+p4842
+aVAustralia
+p4843
+aVVictoria
+p4844
+aVLoddon Mallee
+p4845
+aVShire of Loddon
+p4846
+aa(lp4847
+S'Stanley Williams'
+p4848
+aS'1947'
+p4849
+aS'Lock'
+p4850
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Llanelly'
+p4851
+aVAustralia
+p4852
+aVVictoria
+p4853
+aVLoddon Mallee
+p4854
+aVShire of Loddon
+p4855
+aa(lp4856
+S'Les Williams'
+p4857
+aS'1947'
+p4858
+aS'Wing'
+p4859
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'3'
+aS'9'
+aS'Mynyddygarreg'
+p4860
+aVUnited Kingdom
 p4861
+aVWales
+p4862
+aVCarmarthenshire
+p4863
+aVMynyddygarreg
+p4864
+aa(lp4865
+S'Cliff Davies'
+p4866
+aS'1947'
+p4867
+aS'Prop'
+p4868
+aS'17'
+p4869
+aS'10'
+p4870
+aS'5'
 aS'2'
 aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Neath'
-p4862
-aVUnited Kingdom
-p4863
-aVWales
-p4864
-aVWest Glamorgan
-p4865
-aa(lp4866
-S'Viv Evans'
-p4867
-aS'1954'
-p4868
-aS'Fullback'
-p4869
 aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'25'
-p4870
-aS'Skewen'
+aS'Kenfig Hill'
 p4871
 aVUnited Kingdom
 p4872
 aVWales
 p4873
-aVNeath Port Talbot
+aVBridgend
 p4874
-aa(lp4875
-S'Leighton Jenkins'
-p4876
-aS'1954'
+aVKenfig Hill
+p4875
+aa(lp4876
+S'Glyn Davies'
 p4877
-aS'No. 8'
+aS'1947'
 p4878
+aS'Fly-half'
+p4879
+aS'11'
+p4880
 aS'5'
-aS'4'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'Cifynydd'
+p4881
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp4882
+S'Wilf Evans'
+p4883
+aS'1947'
+p4884
+aS'Prop'
+p4885
+aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'New Tredegar'
-p4879
-aVUnited Kingdom
-p4880
-aVNP24
-p4881
-aVWales
-p4882
-aa(lp4883
-S'Bryn Meredith'
-p4884
-aS'1954'
-p4885
-aS'Hooker'
+aS'0'
+aS'Griffithstown'
 p4886
-aS'42'
-p4887
-aS'22'
-p4888
-aS'16'
-p4889
-aS'4'
-aS'4'
-aS'12'
-p4890
-aS'Cwmbran'
-p4891
 aVUnited Kingdom
-p4892
-aVNP44
-p4893
+p4887
+aVNP4
+p4888
 aVWales
+p4889
+aVTorfaen
+p4890
+aa(lp4891
+S'Billy Gore'
+p4892
+aS'1947'
+p4893
+aS'Hooker'
 p4894
-aa(lp4895
-S'Brian Sparks'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Blaina'
+p4895
+aVUnited Kingdom
 p4896
-aS'1954'
+aVWales
 p4897
-aS'Flanker'
+aVBlaenau Gwent
 p4898
+aVBlaina
+p4899
+aa(lp4900
+S'Bill Tamplin'
+p4901
+aS'1947'
+p4902
+aS'Lock'
+p4903
 aS'7'
 aS'5'
+aS'1'
+aS'1'
+aS'0'
+aS'24'
+p4904
+aS'Risca'
+p4905
+aVUnited Kingdom
+p4906
+aVNP11
+p4907
+aVWales
+p4908
+aVMonmouthshire
+p4909
+aa(lp4910
+S'Bob Evans'
+p4911
+aS'1947'
+p4912
+aS'Flanker'
+p4913
+aS'16'
+p4914
+aS'9'
+aS'5'
+aS'2'
+aS'1'
+aS'3'
+aS'Rhymney'
+p4915
+aVUnited Kingdom
+p4916
+aVNP22
+p4917
+aVWales
+p4918
+aVMonmouthshire
+p4919
+aa(lp4920
+S'Peter Rees'
+p4921
+aS'1947'
+p4922
+aS'Wing'
+p4923
+aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aS'Llanharan'
-p4899
-aVUnited Kingdom
-p4900
-aVWales
-p4901
-aVRhondda Cynon Taf
-p4902
-aa(lp4903
-S'Denzil Thomas'
-p4904
-aS'1954'
-p4905
-aS'Centre'
-p4906
-aS'1'
-aS'1'
 aS'0'
-aS'0'
-aS'0'
-aS'3'
-aS'Llandyfriog'
-p4907
-aVUnited Kingdom
-p4908
-aVWales
-p4909
-aVCeredigion
-p4910
-aa(lp4911
-S'Rhys Williams'
-p4912
-aS'1954'
-p4913
-aS'Lock'
-p4914
-aS'33'
-p4915
-aS'19'
-p4916
-aS'13'
-p4917
-aS'1'
-aS'1'
-aS'3'
-aS'Cwmllynfell'
-p4918
-aVUnited Kingdom
-p4919
-aVWales
-p4920
-aVNeath Port Talbot
-p4921
-aa(lp4922
-S'Len Davies'
-p4923
-aS'1954'
+aS'Penygroes'
 p4924
-aS'Flanker'
+aVUnited Kingdom
 p4925
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Bynea'
+aVWales
 p4926
-aVUnited Kingdom
+aVGwynedd
 p4927
-aVWales
+aVPenygroes
 p4928
-aVCarmarthenshire
-p4929
-aa(lp4930
-S'Ray Williams'
+aa(lp4929
+S'Emlyn Davies'
+p4930
+aS'1947'
 p4931
-aS'1954'
+aS'Prop'
 p4932
-aS'Wing'
-p4933
-aS'3'
-aS'3'
-aS'0'
-aS'0'
+aS'2'
 aS'1'
-aS'3'
-aS'Felinfoel'
-p4934
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Port Talbot'
+p4933
 aVUnited Kingdom
-p4935
+p4934
 aVWales
+p4935
+aVNeath Port Talbot
 p4936
-aVCarmarthenshire
+aVPort Talbot
 p4937
 aa(lp4938
-S'Glyn Davies'
+S'Handel Greville'
 p4939
-aS'1955'
+aS'1947'
 p4940
-aS'Flanker'
+aS'Scrum-half'
 p4941
 aS'1'
 aS'1'
@@ -12684,273 +12571,272 @@ aS'0'
 aS'0'
 aS'0'
 aS'0'
-aS'Cefn Fforest'
+aS'Drefach'
 p4942
 aVUnited Kingdom
 p4943
-aVNP12
-p4944
 aVWales
+p4944
+aVCarmarthenshire
 p4945
-aa(lp4946
-S'Arthur Edwards'
-p4947
-aS'1955'
+aVDrefach
+p4946
+aa(lp4947
+S'John Gwilliam'
 p4948
-aS'Fullback'
+aS'1947'
 p4949
+aS'No. 8'
+p4950
+aS'23'
+p4951
+aS'14'
+p4952
+aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS'Pontypridd'
+p4953
+aVUnited Kingdom
+p4954
+aVCF37; CF38
+p4955
+aVWales
+p4956
+aVMid Glamorgan
+p4957
+aa(lp4958
+S'Mal James'
+p4959
+aS'1947'
+p4960
+aS'Hooker'
+p4961
+aS'5'
+aS'2'
 aS'2'
 aS'1'
-aS'1'
 aS'0'
 aS'0'
-aS'3'
-aS'Bynea'
-p4950
-aVUnited Kingdom
-p4951
-aVWales
-p4952
-aVCarmarthenshire
-p4953
-aa(lp4954
-S'Gordon Wells'
-p4955
-aS'1955'
-p4956
-aS'Centre'
-p4957
-aS'7'
-aS'5'
-aS'1'
-aS'1'
-aS'1'
-aS'3'
-aS'Rhondda'
-p4958
-aVUnited Kingdom
-p4959
-aVWales
-p4960
-aVRhondda Cynon Taf
-p4961
-aa(lp4962
-S'Garfield Owen'
-p4963
-aS'1955'
+aS'Cifynydd'
+p4962
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp4963
+S'Les Anthony'
 p4964
-aS'Fullback'
+aS'1948'
 p4965
-aS'6'
-aS'5'
+aS'Prop'
+p4966
+aS'3'
+aS'1'
+aS'1'
 aS'1'
 aS'0'
 aS'0'
-aS'26'
-p4966
-aS'Llanharan'
+aS'Rhiwfawr'
 p4967
 aVUnited Kingdom
 p4968
 aVWales
 p4969
-aVRhondda Cynon Taf
-p4970
-aa(lp4971
-S'Derek Williams'
-p4972
-aS'1955'
-p4973
-aS'Flanker'
-p4974
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'1'
-aS'3'
-aS'Cardiff'
-p4975
-aVUnited Kingdom
-p4976
-aVWales
-p4977
-aVCardiff
-p4978
-aa(lp4979
-S'Onllwyn Brace'
-p4980
-aS'1956'
-p4981
-aS'Scrum-half'
-p4982
-aS'9'
-aS'6'
-aS'3'
-aS'0'
-aS'1'
-aS'3'
-aS'Pontarddulais'
-p4983
-aVUnited Kingdom
-p4984
-aVWales
-p4985
-aVSwansea
-p4986
-aa(lp4987
-S'Cowboy Davies'
-p4988
-aS'1956'
-p4989
-aS'Wing'
-p4990
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'2'
-aS'6'
-aS'Bancyfelin'
-p4991
-aVUnited Kingdom
-p4992
-aVWales
-p4993
-aVCarmarthenshire
-p4994
-aa(lp4995
-S'Harry Morgan'
-p4996
-aS'1956'
-p4997
-aS'Centre'
-p4998
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'Pontypool'
-p4999
-aVUnited Kingdom
-p5000
-aVNP4
-p5001
-aVWales
-p5002
-aa(lp5003
-S'Ray Prosser'
-p5004
-aS'1956'
-p5005
-aS'Prop'
-p5006
-aS'23'
-p5007
-aS'13'
-p5008
-aS'9'
-aS'1'
-aS'1'
-aS'3'
-aS'Pontypool'
-p5009
-aVUnited Kingdom
-p5010
-aVNP4
-p5011
-aVWales
-p5012
-aa(lp5013
-S'Rex Richards'
-p5014
-aS'1956'
-p5015
-aS'Prop'
-p5016
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Newport'
-p5017
-aVUnited Kingdom
-p5018
-aVNP
-p5019
-aVWales
-p5020
-aa(lp5021
-S'Geoff Whitson'
-p5022
-aS'1956'
-p5023
-aS'Flanker'
-p5024
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Newport'
-p5025
-aVUnited Kingdom
-p5026
-aVNP
-p5027
-aVWales
-p5028
-aa(lp5029
-S'Geoff Howells'
-p5030
-aS'1957'
-p5031
-aS'Wing'
-p5032
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'Loughor'
-p5033
-aVUnited Kingdom
-p5034
-aVWales
-p5035
-aVSwansea
-p5036
-aa(lp5037
-S'Keith Maddocks'
-p5038
-aS'1957'
-p5039
-aS'Wing'
-p5040
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Resolven'
-p5041
-aVUnited Kingdom
-p5042
-aVWales
-p5043
 aVNeath Port Talbot
+p4970
+aVRhiwfawr Road
+p4971
+aa(lp4972
+S'Des Jones'
+p4973
+aS'1948'
+p4974
+aS'Lock'
+p4975
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Tumble'
+p4976
+aVUnited Kingdom
+p4977
+aVWales
+p4978
+aVCarmarthenshire
+p4979
+aVTumble
+p4980
+aa(lp4981
+S'Frank Trott'
+p4982
+aS'1948'
+p4983
+aS'Fullback'
+p4984
+aS'8'
+aS'2'
+aS'5'
+aS'1'
+aS'0'
+aS'2'
+aS'Cardiff'
+p4985
+aVUnited Kingdom
+p4986
+aVWales
+p4987
+aVCardiff
+p4988
+ag9
+aa(lp4989
+S'Ray Cale'
+p4990
+aS'1949'
+p4991
+aS'Flanker'
+p4992
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Usk'
+p4993
+aVUnited Kingdom
+p4994
+aVWales
+p4995
+aVMonmouthshire
+p4996
+aVUsk
+p4997
+aa(lp4998
+S'Ernie Coleman'
+p4999
+aS'1949'
+p5000
+aS'Prop'
+p5001
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p5002
+aVUnited Kingdom
+p5003
+aVNP
+p5004
+aVWales
+p5005
+aVMonmouthshire
+p5006
+aa(lp5007
+S'Don Hayward'
+p5008
+aS'1949'
+p5009
+aS'Lock'
+p5010
+aS'18'
+p5011
+aS'10'
+p5012
+aS'6'
+aS'2'
+aS'0'
+aS'0'
+aS'Pontypool'
+p5013
+aVUnited Kingdom
+p5014
+aVNP4
+p5015
+aVWales
+p5016
+aVMonmouthshire
+p5017
+aa(lp5018
+S'Alun Meredith'
+p5019
+aS'1949'
+p5020
+aS'Lock'
+p5021
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Ystrad'
+p5022
+aVUnited Kingdom
+p5023
+aVWales
+p5024
+aVRhondda Cynon Taf
+p5025
+aVYstrad
+p5026
+aa(lp5027
+S'Terry Cook'
+p5028
+aS'1949'
+p5029
+aS'Wing'
+p5030
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontypridd'
+p5031
+aVUnited Kingdom
+p5032
+aVCF37; CF38
+p5033
+aVWales
+p5034
+aVMid Glamorgan
+p5035
+aa(lp5036
+S'Windsor Major'
+p5037
+aS'1949'
+p5038
+aS'Wing'
+p5039
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Llangynwyd'
+p5040
+aVUnited Kingdom
+p5041
+aVWales
+p5042
+aVBridgend
+p5043
+aVLlangynwyd
 p5044
 aa(lp5045
-S"Rory O'Connor"
+S'Peter Stone'
 p5046
-aS'1957'
+aS'1949'
 p5047
 aS'Flanker'
 p5048
@@ -12960,21 +12846,1264 @@ aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'Neath'
+aS'Loughor'
 p5049
 aVUnited Kingdom
 p5050
 aVWales
 p5051
-aVWest Glamorgan
+aVSwansea
 p5052
-aa(lp5053
-S'Robin Davies'
-p5054
-aS'1957'
+aVLoughor
+p5053
+aa(lp5054
+S'Malcolm Thomas'
 p5055
-aS'Flanker'
+aS'1949'
 p5056
+aS'Centre'
+p5057
+aS'31'
+p5058
+aS'16'
+p5059
+aS'13'
+p5060
+aS'2'
+aS'4'
+aS'22'
+p5061
+aS'Machen'
+p5062
+aVUnited Kingdom
+p5063
+aVWales
+p5064
+aVCaerphilly
+p5065
+aVMachen
+p5066
+aa(lp5067
+S'Clem Thomas'
+p5068
+aS'1949'
+p5069
+aS'Flanker'
+p5070
+aS'28'
+p5071
+aS'18'
+p5072
+aS'9'
+aS'1'
+aS'1'
+aS'3'
+aS'Cardiff'
+p5073
+aVUnited Kingdom
+p5074
+aVWales
+p5075
+aVCardiff
+p5076
+ag9
+aa(lp5077
+S'Trevor Brewer'
+p5078
+aS'1950'
+p5079
+aS'Wing'
+p5080
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'Newport'
+p5081
+aVUnited Kingdom
+p5082
+aVNP
+p5083
+aVWales
+p5084
+aVMonmouthshire
+p5085
+aa(lp5086
+S'Dai Davies'
+p5087
+aS'1950'
+p5088
+aS'Hooker'
+p5089
+aS'20'
+p5090
+aS'13'
+p5091
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'Penygraig'
+p5092
+aVUnited Kingdom
+p5093
+aVSA48 8EZ
+p5094
+aVWales
+p5095
+aVCarmarthenshire
+p5096
+aa(lp5097
+S'Roy John'
+p5098
+aS'1950'
+p5099
+aS'Lock'
+p5100
+aS'25'
+p5101
+aS'15'
+p5102
+aS'8'
+aS'2'
+aS'2'
+aS'6'
+aS'Neath'
+p5103
+aVUnited Kingdom
+p5104
+aVWales
+p5105
+aVWest Glamorgan
+p5106
+aVNeath
+p5107
+aa(lp5108
+S'Lewis Jones'
+p5109
+aS'1950'
+p5110
+aS'Fullback'
+p5111
+aS'13'
+p5112
+aS'10'
+p5113
+aS'3'
+aS'0'
+aS'1'
+aS'62'
+p5114
+aS'Gorseinon'
+p5115
+aVUnited Kingdom
+p5116
+aVWales
+p5117
+aVWest Glamorgan
+p5118
+aVGorseinon
+p5119
+aa(lp5120
+S'John Robins'
+p5121
+aS'1950'
+p5122
+aS'Prop'
+p5123
+aS'16'
+p5124
+aS'9'
+aS'5'
+aS'2'
+aS'0'
+aS'10'
+p5125
+aS'Cardiff'
+p5126
+aVUnited Kingdom
+p5127
+aVWales
+p5128
+aVCardiff
+p5129
+ag9
+aa(lp5130
+S'Rex Willis'
+p5131
+aS'1950'
+p5132
+aS'Scrum-half'
+p5133
+aS'24'
+p5134
+aS'17'
+p5135
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'Ystrad'
+p5136
+aVUnited Kingdom
+p5137
+aVWales
+p5138
+aVRhondda Cynon Taf
+p5139
+aVYstrad
+p5140
+aa(lp5141
+S'Gerwyn Williams'
+p5142
+aS'1950'
+p5143
+aS'Fullback'
+p5144
+aS'13'
+p5145
+aS'8'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Glyncorrwg'
+p5146
+aVUnited Kingdom
+p5147
+aVWales
+p5148
+aVNeath Port Talbot
+p5149
+aVGlyncorrwg
+p5150
+aa(lp5151
+S'Peter Evans'
+p5152
+aS'1951'
+p5153
+aS'Flanker'
+p5154
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Llanelly'
+p5155
+aVAustralia
+p5156
+aVVictoria
+p5157
+aVLoddon Mallee
+p5158
+aVShire of Loddon
+p5159
+aa(lp5160
+S'Allen Forward'
+p5161
+aS'1951'
+p5162
+aS'Flanker'
+p5163
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Cwmavon'
+p5164
+aVUnited Kingdom
+p5165
+aVWales
+p5166
+aVNeath Port Talbot
+p5167
+aVCwmafan
+p5168
+aa(lp5169
+S'Ben Edwards'
+p5170
+aS'1951'
+p5171
+aS'Lock'
+p5172
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'3'
+aS'Chepstow'
+p5173
+aVUnited Kingdom
+p5174
+aVNP16
+p5175
+aVWales
+p5176
+aVMonmouthshire
+p5177
+aa(lp5178
+S'Cliff Morgan'
+p5179
+aS'1951'
+p5180
+aS'Fly-half'
+p5181
+aS'33'
+p5182
+aS'21'
+p5183
+aS'10'
+p5184
+aS'2'
+aS'4'
+aS'12'
+p5185
+aS'Trebanog'
+p5186
+aVUnited Kingdom
+p5187
+aVWales
+p5188
+aVRhondda Cynon Taf
+p5189
+aVTrebanog
+p5190
+aa(lp5191
+S'Haydn Morris'
+p5192
+aS'1951'
+p5193
+aS'Wing'
+p5194
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'Mountain Ash'
+p5195
+aVUnited Kingdom
+p5196
+aVCF45
+p5197
+aVWales
+p5198
+aVMid Glamorgan
+p5199
+aa(lp5200
+S'Billy Williams'
+p5201
+aS'1951'
+p5202
+aS'Prop'
+p5203
+aS'26'
+p5204
+aS'18'
+p5205
+aS'8'
+aS'0'
+aS'1'
+aS'3'
+aS'Gower'
+p5206
+aVUnited States of America
+p5207
+aVMissouri
+p5208
+aVClinton County
+p5209
+aVGower
+p5210
+aa(lp5211
+S'Len Blythe'
+p5212
+aS'1951'
+p5213
+aS'Flanker'
+p5214
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Swansea'
+p5215
+aVUnited Kingdom
+p5216
+aVWales
+p5217
+aVWest Glamorgan
+p5218
+aVSwansea
+p5219
+aa(lp5220
+S'Alun Thomas'
+p5221
+aS'1952'
+p5222
+aS'Centre'
+p5223
+aS'13'
+p5224
+aS'11'
+p5225
+aS'2'
+aS'0'
+aS'1'
+aS'6'
+aS'Cwmavon'
+p5226
+aVUnited Kingdom
+p5227
+aVWales
+p5228
+aVNeath Port Talbot
+p5229
+aVCwmafan
+p5230
+aa(lp5231
+S'Billy Williams'
+p5232
+aS'1952'
+p5233
+aS'Scrum-half'
+p5234
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Talywain'
+p5235
+aVUnited Kingdom
+p5236
+aVWales
+p5237
+aVTorfaen
+p5238
+aVVarteg
+p5239
+aa(lp5240
+S'Horace Phillips'
+p5241
+aS'1952'
+p5242
+aS'Wing'
+p5243
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Swansea'
+p5244
+aVUnited Kingdom
+p5245
+aVWales
+p5246
+aVWest Glamorgan
+p5247
+aVSwansea
+p5248
+aa(lp5249
+S'Geoff Beckingham'
+p5250
+aS'1953'
+p5251
+aS'Hooker'
+p5252
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Barry'
+p5253
+aVUnited Kingdom
+p5254
+aVCF62
+p5255
+aVWales
+p5256
+aVVale of Glamorgan
+p5257
+aa(lp5258
+S'Roy Burnett'
+p5259
+aS'1953'
+p5260
+aS'Fly-half'
+p5261
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Abercarn'
+p5262
+aVUnited Kingdom
+p5263
+aVWales
+p5264
+aVMonmouthshire
+p5265
+aVAbercarn
+p5266
+aa(lp5267
+S'Terry Davies'
+p5268
+aS'1953'
+p5269
+aS'Fullback'
+p5270
+aS'23'
+p5271
+aS'11'
+p5272
+aS'11'
+p5273
+aS'1'
+aS'0'
+aS'55'
+p5274
+aS'Llwynhendy'
+p5275
+aVUnited Kingdom
+p5276
+aVWales
+p5277
+aVCarmarthenshire
+p5278
+aVDafen
+p5279
+aa(lp5280
+S'Gareth Griffiths'
+p5281
+aS'1953'
+p5282
+aS'Wing'
+p5283
+aS'15'
+p5284
+aS'10'
+p5285
+aS'5'
+aS'0'
+aS'5'
+aS'15'
+p5286
+aS'Penygraig'
+p5287
+aVUnited Kingdom
+p5288
+aVSA48 8EZ
+p5289
+aVWales
+p5290
+aVCarmarthenshire
+p5291
+aa(lp5292
+S'Dill Johnson'
+p5293
+aS'1953'
+p5294
+aS'Flanker'
+p5295
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontarddulais'
+p5296
+aVUnited Kingdom
+p5297
+aVWales
+p5298
+aVSwansea
+p5299
+aVPontarddulais
+p5300
+aa(lp5301
+S'Sid Judd'
+p5302
+aS'1953'
+p5303
+aS'Flanker'
+p5304
+aS'10'
+p5305
+aS'7'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'Cardiff'
+p5306
+aVUnited Kingdom
+p5307
+aVWales
+p5308
+aVCardiff
+p5309
+ag9
+aa(lp5310
+S'Courtenay Meredith'
+p5311
+aS'1953'
+p5312
+aS'Prop'
+p5313
+aS'18'
+p5314
+aS'11'
+p5315
+aS'7'
+aS'0'
+aS'1'
+aS'3'
+aS'Pontypridd'
+p5316
+aVUnited Kingdom
+p5317
+aVCF37; CF38
+p5318
+aVWales
+p5319
+aVMid Glamorgan
+p5320
+aa(lp5321
+S'Russell Robins'
+p5322
+aS'1953'
+p5323
+aS'No. 8'
+p5324
+aS'17'
+p5325
+aS'12'
+p5326
+aS'5'
+aS'0'
+aS'1'
+aS'3'
+aS'Pontypridd'
+p5327
+aVUnited Kingdom
+p5328
+aVCF37; CF38
+p5329
+aVWales
+p5330
+aVMid Glamorgan
+p5331
+aa(lp5332
+S'Trevor Lloyd'
+p5333
+aS'1953'
+p5334
+aS'Scrum-half'
+p5335
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Taibach'
+p5336
+aVUnited Kingdom
+p5337
+aVWales
+p5338
+aVNeath Port Talbot
+p5339
+aVPort Talbot
+p5340
+aa(lp5341
+S'Gwyn Rowlands'
+p5342
+aS'1953'
+p5343
+aS'Wing'
+p5344
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'1'
+aS'13'
+p5345
+aS'Berkhamsted'
+p5346
+aVUnited Kingdom
+p5347
+aVEngland
+p5348
+aVEast of England
+p5349
+aVHertfordshire
+p5350
+aa(lp5351
+S'Glyn John'
+p5352
+aS'1954'
+p5353
+aS'Centre'
+p5354
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Neath'
+p5355
+aVUnited Kingdom
+p5356
+aVWales
+p5357
+aVWest Glamorgan
+p5358
+aVNeath
+p5359
+aa(lp5360
+S'Viv Evans'
+p5361
+aS'1954'
+p5362
+aS'Fullback'
+p5363
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'25'
+p5364
+aS'Skewen'
+p5365
+aVUnited Kingdom
+p5366
+aVWales
+p5367
+aVNeath Port Talbot
+p5368
+aVSkewen
+p5369
+aa(lp5370
+S'Leighton Jenkins'
+p5371
+aS'1954'
+p5372
+aS'No. 8'
+p5373
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'New Tredegar'
+p5374
+aVUnited Kingdom
+p5375
+aVNP24
+p5376
+aVWales
+p5377
+aVCaerphilly
+p5378
+aa(lp5379
+S'Bryn Meredith'
+p5380
+aS'1954'
+p5381
+aS'Hooker'
+p5382
+aS'42'
+p5383
+aS'22'
+p5384
+aS'16'
+p5385
+aS'4'
+aS'4'
+aS'12'
+p5386
+aS'Cwmbran'
+p5387
+aVUnited Kingdom
+p5388
+aVNP44
+p5389
+aVWales
+p5390
+aVTorfaen
+p5391
+aa(lp5392
+S'Brian Sparks'
+p5393
+aS'1954'
+p5394
+aS'Flanker'
+p5395
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Llanharan'
+p5396
+aVUnited Kingdom
+p5397
+aVWales
+p5398
+aVRhondda Cynon Taf
+p5399
+aVLlanharan
+p5400
+aa(lp5401
+S'Denzil Thomas'
+p5402
+aS'1954'
+p5403
+aS'Centre'
+p5404
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'3'
+aS'Llandyfriog'
+p5405
+aVUnited Kingdom
+p5406
+aVWales
+p5407
+aVCeredigion
+p5408
+aVLlandyfriog
+p5409
+aa(lp5410
+S'Rhys Williams'
+p5411
+aS'1954'
+p5412
+aS'Lock'
+p5413
+aS'33'
+p5414
+aS'19'
+p5415
+aS'13'
+p5416
+aS'1'
+aS'1'
+aS'3'
+aS'Cwmllynfell'
+p5417
+aVUnited Kingdom
+p5418
+aVWales
+p5419
+aVNeath Port Talbot
+p5420
+aVCwmllynfell
+p5421
+aa(lp5422
+S'Len Davies'
+p5423
+aS'1954'
+p5424
+aS'Flanker'
+p5425
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Bynea'
+p5426
+aVUnited Kingdom
+p5427
+aVWales
+p5428
+aVCarmarthenshire
+p5429
+aVLlangennech
+p5430
+aa(lp5431
+S'Ray Williams'
+p5432
+aS'1954'
+p5433
+aS'Wing'
+p5434
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Felinfoel'
+p5435
+aVUnited Kingdom
+p5436
+aVWales
+p5437
+aVCarmarthenshire
+p5438
+aVFelinfoel
+p5439
+aa(lp5440
+S'Glyn Davies'
+p5441
+aS'1955'
+p5442
+aS'Flanker'
+p5443
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cefn Fforest'
+p5444
+aVUnited Kingdom
+p5445
+aVNP12
+p5446
+aVWales
+p5447
+aVCaerphilly
+p5448
+aa(lp5449
+S'Arthur Edwards'
+p5450
+aS'1955'
+p5451
+aS'Fullback'
+p5452
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'3'
+aS'Bynea'
+p5453
+aVUnited Kingdom
+p5454
+aVWales
+p5455
+aVCarmarthenshire
+p5456
+aVLlangennech
+p5457
+aa(lp5458
+S'Gordon Wells'
+p5459
+aS'1955'
+p5460
+aS'Centre'
+p5461
+aS'7'
+aS'5'
+aS'1'
+aS'1'
+aS'1'
+aS'3'
+aS'Rhondda'
+p5462
+aVUnited Kingdom
+p5463
+aVWales
+p5464
+aVRhondda Cynon Taf
+p5465
+ag9
+aa(lp5466
+S'Garfield Owen'
+p5467
+aS'1955'
+p5468
+aS'Fullback'
+p5469
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'26'
+p5470
+aS'Llanharan'
+p5471
+aVUnited Kingdom
+p5472
+aVWales
+p5473
+aVRhondda Cynon Taf
+p5474
+aVLlanharan
+p5475
+aa(lp5476
+S'Derek Williams'
+p5477
+aS'1955'
+p5478
+aS'Flanker'
+p5479
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Cardiff'
+p5480
+aVUnited Kingdom
+p5481
+aVWales
+p5482
+aVCardiff
+p5483
+ag9
+aa(lp5484
+S'Onllwyn Brace'
+p5485
+aS'1956'
+p5486
+aS'Scrum-half'
+p5487
+aS'9'
+aS'6'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'Pontarddulais'
+p5488
+aVUnited Kingdom
+p5489
+aVWales
+p5490
+aVSwansea
+p5491
+aVPontarddulais
+p5492
+aa(lp5493
+S'Cowboy Davies'
+p5494
+aS'1956'
+p5495
+aS'Wing'
+p5496
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'Bancyfelin'
+p5497
+aVUnited Kingdom
+p5498
+aVWales
+p5499
+aVCarmarthenshire
+p5500
+aVCarmarthen
+p5501
+aa(lp5502
+S'Harry Morgan'
+p5503
+aS'1956'
+p5504
+aS'Centre'
+p5505
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Pontypool'
+p5506
+aVUnited Kingdom
+p5507
+aVNP4
+p5508
+aVWales
+p5509
+aVMonmouthshire
+p5510
+aa(lp5511
+S'Ray Prosser'
+p5512
+aS'1956'
+p5513
+aS'Prop'
+p5514
+aS'23'
+p5515
+aS'13'
+p5516
+aS'9'
+aS'1'
+aS'1'
+aS'3'
+aS'Pontypool'
+p5517
+aVUnited Kingdom
+p5518
+aVNP4
+p5519
+aVWales
+p5520
+aVMonmouthshire
+p5521
+aa(lp5522
+S'Rex Richards'
+p5523
+aS'1956'
+p5524
+aS'Prop'
+p5525
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p5526
+aVUnited Kingdom
+p5527
+aVNP
+p5528
+aVWales
+p5529
+aVMonmouthshire
+p5530
+aa(lp5531
+S'Geoff Whitson'
+p5532
+aS'1956'
+p5533
+aS'Flanker'
+p5534
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p5535
+aVUnited Kingdom
+p5536
+aVNP
+p5537
+aVWales
+p5538
+aVMonmouthshire
+p5539
+aa(lp5540
+S'Geoff Howells'
+p5541
+aS'1957'
+p5542
+aS'Wing'
+p5543
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Loughor'
+p5544
+aVUnited Kingdom
+p5545
+aVWales
+p5546
+aVSwansea
+p5547
+aVLoughor
+p5548
+aa(lp5549
+S'Keith Maddocks'
+p5550
+aS'1957'
+p5551
+aS'Wing'
+p5552
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Resolven'
+p5553
+aVUnited Kingdom
+p5554
+aVWales
+p5555
+aVNeath Port Talbot
+p5556
+aVResolven
+p5557
+aa(lp5558
+S"Rory O'Connor"
+p5559
+aS'1957'
+p5560
+aS'Flanker'
+p5561
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Neath'
+p5562
+aVUnited Kingdom
+p5563
+aVWales
+p5564
+aVWest Glamorgan
+p5565
+aVNeath
+p5566
+aa(lp5567
+S'Robin Davies'
+p5568
+aS'1957'
+p5569
+aS'Flanker'
+p5570
 aS'6'
 aS'3'
 aS'2'
@@ -12982,42 +14111,46 @@ aS'1'
 aS'1'
 aS'3'
 aS'Battersea'
-p5057
+p5571
 aVUnited Kingdom
-p5058
+p5572
 aVEngland
-p5059
+p5573
 aVGreater London
-p5060
-aa(lp5061
+p5574
+aVLondon
+p5575
+aa(lp5576
 S'Lloyd Williams'
-p5062
+p5577
 aS'1957'
-p5063
+p5578
 aS'Scrum-half'
-p5064
+p5579
 aS'13'
-p5065
+p5580
 aS'6'
 aS'5'
 aS'2'
 aS'0'
 aS'0'
 aS"Taff's Well"
-p5066
+p5581
 aVUnited Kingdom
-p5067
+p5582
 aVWales
-p5068
+p5583
 aVRhondda Cynon Taf
-p5069
-aa(lp5070
+p5584
+aVTaffs Well
+p5585
+aa(lp5586
 S'Cyril Davies'
-p5071
+p5587
 aS'1957'
-p5072
+p5588
 aS'Centre'
-p5073
+p5589
 aS'7'
 aS'5'
 aS'1'
@@ -13025,42 +14158,46 @@ aS'1'
 aS'0'
 aS'0'
 aS'Ammanford'
-p5074
+p5590
 aVUnited Kingdom
-p5075
+p5591
 aVWales
-p5076
+p5592
 aVCarmarthenshire
-p5077
-aa(lp5078
+p5593
+aVAmmanford
+p5594
+aa(lp5595
 S'John Faull'
-p5079
+p5596
 aS'1957'
-p5080
+p5597
 aS'No. 8'
-p5081
+p5598
 aS'16'
-p5082
+p5599
 aS'9'
 aS'6'
 aS'1'
 aS'1'
 aS'8'
 aS'Morriston'
-p5083
+p5600
 aVUnited Kingdom
-p5084
+p5601
 aVWales
-p5085
+p5602
 aVSwansea
-p5086
-aa(lp5087
+p5603
+aVMorriston
+p5604
+aa(lp5605
 S'Henry Morgan'
-p5088
+p5606
 aS'1957'
-p5089
+p5607
 aS'Prop'
-p5090
+p5608
 aS'2'
 aS'2'
 aS'0'
@@ -13068,20 +14205,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Carmarthen'
-p5091
+p5609
 aVUnited Kingdom
-p5092
+p5610
 aVWales
-p5093
+p5611
 aVCarmarthenshire
-p5094
-aa(lp5095
+p5612
+aVCarmarthen
+p5613
+aa(lp5614
 S'Graham Powell'
-p5096
+p5615
 aS'1957'
-p5097
+p5616
 aS'Centre'
-p5098
+p5617
 aS'2'
 aS'2'
 aS'0'
@@ -13089,42 +14228,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ebbw Vale'
-p5099
+p5618
 aVUnited Kingdom
-p5100
+p5619
 aVNP23
-p5101
+p5620
 aVWales
-p5102
-aa(lp5103
+p5621
+aVMonmouthshire
+p5622
+aa(lp5623
 S'John Collins'
-p5104
+p5624
 aS'1958'
-p5105
+p5625
 aS'Wing'
-p5106
+p5626
 aS'10'
-p5107
+p5627
 aS'4'
 aS'5'
 aS'1'
 aS'3'
 aS'9'
 aS'Aberavon'
-p5108
+p5628
 aVUnited Kingdom
-p5109
+p5629
 aVWales
-p5110
+p5630
 aVNeath Port Talbot
-p5111
-aa(lp5112
+p5631
+aVAberavon
+p5632
+aa(lp5633
 S'Don Devereux'
-p5113
+p5634
 aS'1958'
-p5114
+p5635
 aS'Prop'
-p5115
+p5636
 aS'3'
 aS'2'
 aS'0'
@@ -13132,20 +14275,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Neath'
-p5116
+p5637
 aVUnited Kingdom
-p5117
+p5638
 aVWales
-p5118
+p5639
 aVWest Glamorgan
-p5119
-aa(lp5120
+p5640
+aVNeath
+p5641
+aa(lp5642
 S'Wynne Evans'
-p5121
+p5643
 aS'1958'
-p5122
+p5644
 aS'Scrum-half'
-p5123
+p5645
 aS'1'
 aS'1'
 aS'0'
@@ -13153,42 +14298,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llandybie'
-p5124
+p5646
 aVUnited Kingdom
-p5125
+p5647
 aVWales
-p5126
+p5648
 aVCarmarthenshire
-p5127
-aa(lp5128
+p5649
+aVLlandybie
+p5650
+aa(lp5651
 S'Roddy Evans'
-p5129
+p5652
 aS'1958'
-p5130
+p5653
 aS'Lock'
-p5131
+p5654
 aS'17'
-p5132
+p5655
 aS'6'
 aS'8'
 aS'3'
 aS'0'
 aS'0'
 aS'Porthcawl'
-p5133
+p5656
 aVUnited Kingdom
-p5134
+p5657
 aVCF36
-p5135
+p5658
 aVWales
-p5136
-aa(lp5137
+p5659
+aVBridgend
+p5660
+aa(lp5661
 S'Carwyn James'
-p5138
+p5662
 aS'1958'
-p5139
+p5663
 aS'Centre'
-p5140
+p5664
 aS'2'
 aS'1'
 aS'1'
@@ -13196,44 +14345,48 @@ aS'0'
 aS'0'
 aS'3'
 aS'Cefneithin'
-p5141
+p5665
 aVUnited Kingdom
-p5142
+p5666
 aVWales
-p5143
+p5667
 aVCarmarthenshire
-p5144
-aa(lp5145
+p5668
+aVCefneithin
+p5669
+aa(lp5670
 S'Haydn Morgan'
-p5146
+p5671
 aS'1958'
-p5147
+p5672
 aS'Flanker'
-p5148
+p5673
 aS'31'
-p5149
+p5674
 aS'14'
-p5150
+p5675
 aS'14'
-p5151
+p5676
 aS'3'
 aS'3'
 aS'9'
 aS'Oakdale'
-p5152
+p5677
 aVUnited States of America
-p5153
+p5678
 aVMinnesota
-p5154
+p5679
 aVWashington County
-p5155
-aa(lp5156
+p5680
+aVOakdale
+p5681
+aa(lp5682
 S'John Evans'
-p5157
+p5683
 aS'1958'
-p5158
+p5684
 aS'Prop'
-p5159
+p5685
 aS'2'
 aS'1'
 aS'1'
@@ -13241,20 +14394,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Mountain Ash'
-p5160
+p5686
 aVUnited Kingdom
-p5161
+p5687
 aVCF45
-p5162
+p5688
 aVWales
-p5163
-aa(lp5164
+p5689
+aVMid Glamorgan
+p5690
+aa(lp5691
 S'Howard Nicholls'
-p5165
+p5692
 aS'1958'
-p5166
+p5693
 aS'Wing'
-p5167
+p5694
 aS'1'
 aS'1'
 aS'0'
@@ -13262,20 +14417,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Maesteg'
-p5168
+p5695
 aVUnited Kingdom
-p5169
+p5696
 aVWales
-p5170
+p5697
 aVBridgend
-p5171
-aa(lp5172
+p5698
+aVMaesteg
+p5699
+aa(lp5700
 S'Alun Priday'
-p5173
+p5701
 aS'1958'
-p5174
+p5702
 aS'Fullback'
-p5175
+p5703
 aS'2'
 aS'2'
 aS'0'
@@ -13283,20 +14440,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p5176
+p5704
 aVUnited Kingdom
-p5177
+p5705
 aVWales
-p5178
+p5706
 aVCardiff
-p5179
-aa(lp5180
+p5707
+ag9
+aa(lp5708
 S'Cyril Roberts'
-p5181
+p5709
 aS'1958'
-p5182
+p5710
 aS'Wing'
-p5183
+p5711
 aS'2'
 aS'1'
 aS'1'
@@ -13304,20 +14462,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Neath'
-p5184
+p5712
 aVUnited Kingdom
-p5185
+p5713
 aVWales
-p5186
+p5714
 aVWest Glamorgan
-p5187
-aa(lp5188
+p5715
+aVNeath
+p5716
+aa(lp5717
 S'Cliff Ashton'
-p5189
+p5718
 aS'1959'
-p5190
+p5719
 aS'Fly-half'
-p5191
+p5720
 aS'7'
 aS'4'
 aS'2'
@@ -13325,46 +14485,50 @@ aS'1'
 aS'1'
 aS'3'
 aS'Cwmavon'
-p5192
+p5721
 aVUnited Kingdom
-p5193
+p5722
 aVWales
-p5194
+p5723
 aVNeath Port Talbot
-p5195
-aa(lp5196
+p5724
+aVCwmafan
+p5725
+aa(lp5726
 S'Dewi Bebb'
-p5197
+p5727
 aS'1959'
-p5198
+p5728
 aS'Wing'
-p5199
+p5729
 aS'42'
-p5200
+p5730
 aS'15'
-p5201
+p5731
 aS'23'
-p5202
+p5732
 aS'4'
 aS'12'
-p5203
+p5733
 aS'36'
-p5204
+p5734
 aS'Bangor'
-p5205
+p5735
 aVUnited States of America
-p5206
+p5736
 aVMaine
-p5207
+p5737
 aVPenobscot County
-p5208
-aa(lp5209
+p5738
+aVBangor
+p5739
+aa(lp5740
 S'Haydn Davies'
-p5210
+p5741
 aS'1959'
-p5211
+p5742
 aS'Centre'
-p5212
+p5743
 aS'2'
 aS'1'
 aS'1'
@@ -13372,20 +14536,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cowbridge'
-p5213
+p5744
 aVUnited Kingdom
-p5214
+p5745
 aVWales
-p5215
+p5746
 aVVale of Glamorgan
-p5216
-aa(lp5217
+p5747
+aVCowbridge
+p5748
+aa(lp5749
 S'Ian Ford'
-p5218
+p5750
 aS'1959'
-p5219
+p5751
 aS'Lock'
-p5220
+p5752
 aS'2'
 aS'1'
 aS'1'
@@ -13393,20 +14559,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p5221
+p5753
 aVUnited Kingdom
-p5222
+p5754
 aVWales
-p5223
+p5755
 aVCardiff
-p5224
-aa(lp5225
+p5756
+ag9
+aa(lp5757
 S'John Leleu'
-p5226
+p5758
 aS'1959'
-p5227
+p5759
 aS'Flanker'
-p5228
+p5760
 aS'4'
 aS'1'
 aS'3'
@@ -13414,20 +14581,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bristol'
-p5229
+p5761
 aVUnited Kingdom
-p5230
+p5762
 aVEngland
-p5231
+p5763
 aVSouth West England
-p5232
-aa(lp5233
+p5764
+aVCity of Bristol
+p5765
+aa(lp5766
 S'Derrick Main'
-p5234
+p5767
 aS'1959'
-p5235
+p5768
 aS'Prop'
-p5236
+p5769
 aS'4'
 aS'2'
 aS'2'
@@ -13435,43 +14604,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Abbassia'
-p5237
+p5770
 aV\u062a\u0648\u0646\u0633
-p5238
+p5771
 aV3070
-p5239
+p5772
 aV\u0635\u0641\u0627\u0642\u0633
-p5240
-aa(lp5241
+p5773
+aV\u0642\u0631\u0642\u0646\u0629
+p5774
+aa(lp5775
 S'Malcolm Price'
-p5242
+p5776
 aS'1959'
-p5243
+p5777
 aS'Centre'
-p5244
+p5778
 aS'14'
-p5245
+p5779
 aS'6'
 aS'7'
 aS'1'
 aS'6'
 aS'18'
-p5246
+p5780
 aS'Pontypool'
-p5247
+p5781
 aVUnited Kingdom
-p5248
+p5782
 aVNP4
-p5249
+p5783
 aVWales
-p5250
-aa(lp5251
+p5784
+aVMonmouthshire
+p5785
+aa(lp5786
 S'Danny Harris'
-p5252
+p5787
 aS'1959'
-p5253
+p5788
 aS'Lock'
-p5254
+p5789
 aS'8'
 aS'4'
 aS'4'
@@ -13479,20 +14652,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Penygraig'
-p5255
+p5790
 aVUnited Kingdom
-p5256
+p5791
 aVSA48 8EZ
-p5257
+p5792
 aVWales
-p5258
-aa(lp5259
+p5793
+aVCarmarthenshire
+p5794
+aa(lp5795
 S'Glyn Davidge'
-p5260
+p5796
 aS'1959'
-p5261
+p5797
 aS'Flanker'
-p5262
+p5798
 aS'9'
 aS'5'
 aS'4'
@@ -13500,20 +14675,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p5263
+p5799
 aVUnited Kingdom
-p5264
+p5800
 aVNP
-p5265
+p5801
 aVWales
-p5266
-aa(lp5267
+p5802
+aVMonmouthshire
+p5803
+aa(lp5804
 S'Jack Hurrell'
-p5268
+p5805
 aS'1959'
-p5269
+p5806
 aS'Centre'
-p5270
+p5807
 aS'1'
 aS'0'
 aS'1'
@@ -13521,20 +14698,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cwmcarn'
-p5271
+p5808
 aVUnited Kingdom
-p5272
+p5809
 aVWales
-p5273
+p5810
 aVMonmouthshire
-p5274
-aa(lp5275
+p5811
+aVCwmcarn
+p5812
+aa(lp5813
 S'Billy Watkins'
-p5276
+p5814
 aS'1959'
-p5277
+p5815
 aS'Scrum-half'
-p5278
+p5816
 aS'1'
 aS'0'
 aS'1'
@@ -13542,20 +14721,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newbridge'
-p5279
+p5817
 aVRepublic of Ireland
-p5280
+p5818
 aVLeinster
-p5281
+p5819
 aVCounty Kildare
-p5282
-aa(lp5283
+p5820
+aVNewbridge
+p5821
+aa(lp5822
 S'Brian Cresswell'
-p5284
+p5823
 aS'1960'
-p5285
+p5824
 aS'Flanker'
-p5286
+p5825
 aS'4'
 aS'2'
 aS'2'
@@ -13563,42 +14744,46 @@ aS'0'
 aS'2'
 aS'6'
 aS'Newport'
-p5287
+p5826
 aVUnited Kingdom
-p5288
+p5827
 aVNP
-p5289
+p5828
 aVWales
-p5290
-aa(lp5291
+p5829
+aVMonmouthshire
+p5830
+aa(lp5831
 S'Len Cunningham'
-p5292
+p5832
 aS'1960'
-p5293
+p5833
 aS'Prop'
-p5294
+p5834
 aS'14'
-p5295
+p5835
 aS'5'
 aS'5'
 aS'4'
 aS'0'
 aS'0'
 aS'Port Talbot'
-p5296
+p5836
 aVUnited Kingdom
-p5297
+p5837
 aVWales
-p5298
+p5838
 aVNeath Port Talbot
-p5299
-aa(lp5300
+p5839
+aVPort Talbot
+p5840
+aa(lp5841
 S'Colin Evans'
-p5301
+p5842
 aS'1960'
-p5302
+p5843
 aS'Scrum-half'
-p5303
+p5844
 aS'1'
 aS'0'
 aS'1'
@@ -13606,20 +14791,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Blaenavon'
-p5304
+p5845
 aVUnited Kingdom
-p5305
+p5846
 aVNP4
-p5306
+p5847
 aVWales
-p5307
-aa(lp5308
+p5848
+aVMonmouthshire
+p5849
+aa(lp5850
 S'Gareth Payne'
-p5309
+p5851
 aS'1960'
-p5310
+p5852
 aS'Lock'
-p5311
+p5853
 aS'3'
 aS'2'
 aS'1'
@@ -13627,20 +14814,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Trelewis'
-p5312
+p5854
 aVUnited Kingdom
-p5313
+p5855
 aVWales
-p5314
+p5856
 aVMerthyr Tydfil
-p5315
-aa(lp5316
+p5857
+aVTrelewis
+p5858
+aa(lp5859
 S'Geoff Windsor-Lewis'
-p5317
+p5860
 aS'1960'
-p5318
+p5861
 aS'Centre'
-p5319
+p5862
 aS'2'
 aS'1'
 aS'1'
@@ -13648,20 +14837,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cambridge'
-p5320
+p5863
 aVUnited Kingdom
-p5321
+p5864
 aVEngland
-p5322
+p5865
 aVEast of England
-p5323
-aa(lp5324
+p5866
+aVCambridgeshire
+p5867
+aa(lp5868
 S'Fenton Coles'
-p5325
+p5869
 aS'1960'
-p5326
+p5870
 aS'Wing'
-p5327
+p5871
 aS'3'
 aS'2'
 aS'1'
@@ -13669,66 +14860,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Blaenavon'
-p5328
+p5872
 aVUnited Kingdom
-p5329
+p5873
 aVNP4
-p5330
+p5874
 aVWales
-p5331
-aa(lp5332
+p5875
+aVMonmouthshire
+p5876
+aa(lp5877
 S'Norman Morgan'
-p5333
+p5878
 aS'1960'
-p5334
+p5879
 aS'Fullback'
-p5335
+p5880
 aS'3'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
 aS'14'
-p5336
+p5881
 aS'Pontypool'
-p5337
+p5882
 aVUnited Kingdom
-p5338
+p5883
 aVNP4
-p5339
+p5884
 aVWales
-p5340
-aa(lp5341
+p5885
+aVMonmouthshire
+p5886
+aa(lp5887
 S'Norman Gale'
-p5342
+p5888
 aS'1960'
-p5343
+p5889
 aS'Hooker'
-p5344
+p5890
 aS'25'
-p5345
+p5891
 aS'12'
-p5346
+p5892
 aS'10'
-p5347
+p5893
 aS'3'
 aS'1'
 aS'6'
 aS'Gorseinon'
-p5348
+p5894
 aVUnited Kingdom
-p5349
+p5895
 aVWales
-p5350
+p5896
 aVWest Glamorgan
-p5351
-aa(lp5352
+p5897
+aVGorseinon
+p5898
+aa(lp5899
 S'Brian Jones'
-p5353
+p5900
 aS'1960'
-p5354
+p5901
 aS'Centre'
-p5355
+p5902
 aS'2'
 aS'1'
 aS'1'
@@ -13736,20 +14933,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cwmcarn'
-p5356
+p5903
 aVUnited Kingdom
-p5357
+p5904
 aVWales
-p5358
+p5905
 aVMonmouthshire
-p5359
-aa(lp5360
+p5906
+aVCwmcarn
+p5907
+aa(lp5908
 S'Bryan Richards'
-p5361
+p5909
 aS'1960'
-p5362
+p5910
 aS'Fly-half'
-p5363
+p5911
 aS'1'
 aS'0'
 aS'1'
@@ -13757,20 +14956,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p5364
+p5912
 aVUnited Kingdom
-p5365
+p5913
 aVWales
-p5366
+p5914
 aVWest Glamorgan
-p5367
-aa(lp5368
+p5915
+aVNeath
+p5916
+aa(lp5917
 S'Denis Evans'
-p5369
+p5918
 aS'1960'
-p5370
+p5919
 aS'Wing'
-p5371
+p5920
 aS'1'
 aS'0'
 aS'1'
@@ -13778,42 +14979,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Scunthorpe'
-p5372
+p5921
 aVUnited Kingdom
-p5373
+p5922
 aVEngland
-p5374
+p5923
 aVYorkshire and the Humber
-p5375
-aa(lp5376
+p5924
+aVNorth Lincolnshire
+p5925
+aa(lp5926
 S'Kingsley Jones'
-p5377
+p5927
 aS'1960'
-p5378
+p5928
 aS'Prop'
-p5379
+p5929
 aS'14'
-p5380
+p5930
 aS'4'
 aS'8'
 aS'2'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p5381
+p5931
 aVUnited Kingdom
-p5382
+p5932
 aVCF37; CF38
-p5383
+p5933
 aVWales
-p5384
-aa(lp5385
+p5934
+aVMid Glamorgan
+p5935
+aa(lp5936
 S'David Nash'
-p5386
+p5937
 aS'1960'
-p5387
+p5938
 aS'No. 8'
-p5388
+p5939
 aS'6'
 aS'3'
 aS'3'
@@ -13821,20 +15026,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Monmouth'
-p5389
+p5940
 aVUnited Kingdom
-p5390
+p5941
 aVNP25
-p5391
+p5942
 aVWales
-p5392
-aa(lp5393
+p5943
+aVMonmouthshire
+p5944
+aa(lp5945
 S"Tony O'Connor"
-p5394
+p5946
 aS'1960'
-p5395
+p5947
 aS'Scrum-half'
-p5396
+p5948
 aS'5'
 aS'2'
 aS'2'
@@ -13842,20 +15049,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Neath'
-p5397
+p5949
 aVUnited Kingdom
-p5398
+p5950
 aVWales
-p5399
+p5951
 aVWest Glamorgan
-p5400
-aa(lp5401
+p5952
+aVNeath
+p5953
+aa(lp5954
 S'Ken Richards'
-p5402
+p5955
 aS'1960'
-p5403
+p5956
 aS'Fly-half'
-p5404
+p5957
 aS'5'
 aS'2'
 aS'3'
@@ -13863,20 +15072,21 @@ aS'0'
 aS'1'
 aS'9'
 aS'Bridgend'
-p5405
+p5958
 aVUnited Kingdom
-p5406
+p5959
 aVWales
-p5407
+p5960
 aVBridgend
-p5408
-aa(lp5409
+p5961
+ag9
+aa(lp5962
 S'Meirion Roberts'
-p5410
+p5963
 aS'1960'
-p5411
+p5964
 aS'Centre'
-p5412
+p5965
 aS'8'
 aS'3'
 aS'5'
@@ -13884,17 +15094,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Abergwyngregin'
-p5413
+p5966
 aS'g'
 aS'n'
 aS'i'
-aa(lp5414
+aS's'
+aa(lp5967
 S'Phil Morgan'
-p5415
+p5968
 aS'1961'
-p5416
+p5969
 aS'Prop'
-p5417
+p5970
 aS'3'
 aS'1'
 aS'2'
@@ -13902,20 +15113,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hereford'
-p5418
+p5971
 aVUnited Kingdom
-p5419
+p5972
 aVEngland
-p5420
+p5973
 aVWest Midlands
-p5421
-aa(lp5422
+p5974
+aVHerefordshire
+p5975
+aa(lp5976
 S'Peter Rees'
-p5423
+p5977
 aS'1961'
-p5424
+p5978
 aS'Wing'
-p5425
+p5979
 aS'4'
 aS'3'
 aS'1'
@@ -13923,20 +15136,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'E Glamorgan'
-p5426
+p5980
 aVUnited Kingdom
-p5427
+p5981
 aVWales
-p5428
+p5982
 aVWest Glamorgan
-p5429
-aa(lp5430
+p5983
+ag9
+aa(lp5984
 S'Gordon Britton'
-p5431
+p5985
 aS'1961'
-p5432
+p5986
 aS'Centre'
-p5433
+p5987
 aS'1'
 aS'0'
 aS'1'
@@ -13944,44 +15158,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Risca'
-p5434
+p5988
 aVUnited Kingdom
-p5435
+p5989
 aVNP11
-p5436
+p5990
 aVWales
-p5437
-aa(lp5438
+p5991
+aVMonmouthshire
+p5992
+aa(lp5993
 S'Brian Price'
-p5439
+p5994
 aS'1961'
-p5440
+p5995
 aS'Lock'
-p5441
+p5996
 aS'36'
-p5442
+p5997
 aS'16'
-p5443
+p5998
 aS'16'
-p5444
+p5999
 aS'4'
 aS'0'
 aS'0'
 aS'Bargoed'
-p5445
+p6000
 aVUnited Kingdom
-p5446
+p6001
 aVCF81 8
-p5447
+p6002
 aVWales
-p5448
-aa(lp5449
+p6003
+aVCaerphilly
+p6004
+aa(lp6005
 S'Dave Thomas'
-p5450
+p6006
 aS'1961'
-p5451
+p6007
 aS'Centre'
-p5452
+p6008
 aS'1'
 aS'1'
 aS'0'
@@ -13989,20 +15207,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontrhydyfen'
-p5453
+p6009
 aVUnited Kingdom
-p5454
+p6010
 aVWales
-p5455
+p6011
 aVNeath Port Talbot
-p5456
-aa(lp5457
+p6012
+aVPontrhydyfen
+p6013
+aa(lp6014
 S'Haydn Mainwaring'
-p5458
+p6015
 aS'1961'
-p5459
+p6016
 aS'Centre'
-p5460
+p6017
 aS'1'
 aS'0'
 aS'1'
@@ -14010,44 +15230,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p5461
+p6018
 aVUnited Kingdom
-p5462
+p6019
 aVWales
-p5463
+p6020
 aVWest Glamorgan
-p5464
-aa(lp5465
+p6021
+aVSwansea
+p6022
+aa(lp6023
 S'Alun Pask'
-p5466
+p6024
 aS'1961'
-p5467
+p6025
 aS'No. 8'
-p5468
+p6026
 aS'34'
-p5469
+p6027
 aS'12'
-p5470
+p6028
 aS'17'
-p5471
+p6029
 aS'5'
 aS'2'
 aS'6'
 aS'Blackwood'
-p5472
+p6030
 aVUnited Kingdom
-p5473
+p6031
 aVNP12
-p5474
+p6032
 aVWales
-p5475
-aa(lp5476
+p6033
+aVMonmouthshire
+p6034
+aa(lp6035
 S'Billy Thomas'
-p5477
+p6036
 aS'1961'
-p5478
+p6037
 aS'Hooker'
-p5479
+p6038
 aS'2'
 aS'0'
 aS'2'
@@ -14055,20 +15279,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bargoed'
-p5480
+p6039
 aVUnited Kingdom
-p5481
+p6040
 aVCF81 8
-p5482
+p6041
 aVWales
-p5483
-aa(lp5484
+p6042
+aVCaerphilly
+p6043
+aa(lp6044
 S'Kel Coslett'
-p5485
+p6045
 aS'1962'
-p5486
+p6046
 aS'Fullback'
-p5487
+p6047
 aS'3'
 aS'1'
 aS'1'
@@ -14076,1385 +15302,6 @@ aS'1'
 aS'0'
 aS'3'
 aS'Bynea'
-p5488
-aVUnited Kingdom
-p5489
-aVWales
-p5490
-aVCarmarthenshire
-p5491
-aa(lp5492
-S'Ken Jones'
-p5493
-aS'1962'
-p5494
-aS'Centre'
-p5495
-aS'20'
-p5496
-aS'7'
-aS'9'
-aS'4'
-aS'5'
-aS'15'
-p5497
-aS'Cross Hands'
-p5498
-aVUnited Kingdom
-p5499
-aVWales
-p5500
-aVCarmarthenshire
-p5501
-aa(lp5502
-S'Robert Morgan'
-p5503
-aS'1962'
-p5504
-aS'Wing'
-p5505
-aS'9'
-aS'2'
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aS'Pontyberem'
-p5506
-aVUnited Kingdom
-p5507
-aVWales
-p5508
-aVCarmarthenshire
-p5509
-aa(lp5510
-S'Alan Rees'
-p5511
-aS'1962'
-p5512
-aS'Fly-half'
-p5513
-aS'3'
-aS'1'
-aS'1'
-aS'1'
-aS'0'
-aS'3'
-aS'Neath'
-p5514
-aVUnited Kingdom
-p5515
-aVWales
-p5516
-aVWest Glamorgan
-p5517
-aa(lp5518
-S'Des Greenslade'
-p5519
-aS'1962'
-p5520
-aS'Prop'
-p5521
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cwmcarn'
-p5522
-aVUnited Kingdom
-p5523
-aVWales
-p5524
-aVMonmouthshire
-p5525
-aa(lp5526
-S'Keith Rowlands'
-p5527
-aS'1962'
-p5528
-aS'Lock'
-p5529
-aS'8'
-aS'2'
-aS'4'
-aS'2'
-aS'1'
-aS'3'
-aS'Brithdir'
-p5530
-aVUnited Kingdom
-p5531
-aVNP24 6XY
-p5532
-aVWales
-p5533
-aa(lp5534
-S'Brian Davies'
-p5535
-aS'1962'
-p5536
-aS'Centre'
-p5537
-aS'3'
-aS'1'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Weston-super-Mare'
-p5538
-aVUnited Kingdom
-p5539
-aVBS23 1YJ
-p5540
-aVEngland
-p5541
-aa(lp5542
-S'John Davies'
-p5543
-aS'1962'
-p5544
-aS'Flanker'
-p5545
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Neath'
-p5546
-aVUnited Kingdom
-p5547
-aVWales
-p5548
-aVWest Glamorgan
-p5549
-aa(lp5550
-S'Grahame Hodgson'
-p5551
-aS'1962'
-p5552
-aS'Fullback'
-p5553
-aS'15'
-p5554
-aS'5'
-aS'7'
-aS'3'
-aS'0'
-aS'12'
-p5555
-aS'Ogmore Vale'
-p5556
-aVUnited Kingdom
-p5557
-aVWales
-p5558
-aVBridgend
-p5559
-aa(lp5560
-S'John Warlow'
-p5561
-aS'1962'
-p5562
-aS'Prop'
-p5563
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Dafen'
-p5564
-aVUnited Kingdom
-p5565
-aVWales
-p5566
-aVCarmarthenshire
-p5567
-aa(lp5568
-S'David Hayward'
-p5569
-aS'1963'
-p5570
-aS'Flanker'
-p5571
-aS'6'
-aS'2'
-aS'3'
-aS'1'
-aS'1'
-aS'3'
-aS'Crumlin'
-p5572
-aVUnited Kingdom
-p5573
-aVNorthern Ireland
-p5574
-aVCounty Antrim
-p5575
-aa(lp5576
-S'Roger Michaelson'
-p5577
-aS'1963'
-p5578
-aS'No. 8'
-p5579
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Porthcawl'
-p5580
-aVUnited Kingdom
-p5581
-aVCF36
-p5582
-aVWales
-p5583
-aa(lp5584
-S'Clive Rowlands'
-p5585
-aS'1963'
-p5586
-aS'Scrum-half'
-p5587
-aS'14'
-p5588
-aS'6'
-aS'6'
-aS'2'
-aS'0'
-aS'3'
-aS'Upper Cwmtwrch'
-p5589
-aS'g'
-aS'n'
-aS'i'
-aa(lp5590
-S'Brian Thomas'
-p5591
-aS'1963'
-p5592
-aS'Lock'
-p5593
-aS'21'
-p5594
-aS'9'
-aS'9'
-aS'3'
-aS'1'
-aS'3'
-aS'Pontwalby'
-p5595
-aVUnited Kingdom
-p5596
-aVWales
-p5597
-aVNeath Port Talbot
-p5598
-aa(lp5599
-S'David Watkins'
-p5600
-aS'1963'
-p5601
-aS'Fly-half'
-p5602
-aS'27'
-p5603
-aS'12'
-p5604
-aS'13'
-p5605
-aS'2'
-aS'4'
-aS'27'
-p5606
-aS'Blaina'
-p5607
-aVUnited Kingdom
-p5608
-aVWales
-p5609
-aVBlaenau Gwent
-p5610
-aa(lp5611
-S'Denzil Williams'
-p5612
-aS'1963'
-p5613
-aS'Prop'
-p5614
-aS'41'
-p5615
-aS'21'
-p5616
-aS'15'
-p5617
-aS'5'
-aS'1'
-aS'3'
-aS'Trefil'
-p5618
-aVUnited Kingdom
-p5619
-aVWales
-p5620
-aVBlaenau Gwent
-p5621
-aa(lp5622
-S'Ron Evans'
-p5623
-aS'1963'
-p5624
-aS'Centre'
-p5625
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Bridgend'
-p5626
-aVUnited Kingdom
-p5627
-aVWales
-p5628
-aVBridgend
-p5629
-aa(lp5630
-S'Graham Jones'
-p5631
-aS'1963'
-p5632
-aS'Flanker'
-p5633
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'Garndiffaith'
-p5634
-aVUnited Kingdom
-p5635
-aVWales
-p5636
-aVTorfaen
-p5637
-aa(lp5638
-S'Bill Morris'
-p5639
-aS'1963'
-p5640
-aS'Wing'
-p5641
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Borth'
-p5642
-aVUnited Kingdom
-p5643
-aVWales
-p5644
-aVCeredigion
-p5645
-aa(lp5646
-S'Howard Norris'
-p5647
-aS'1963'
-p5648
-aS'Prop'
-p5649
-aS'5'
-aS'1'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'Porth'
-p5650
-aVUnited Kingdom
-p5651
-aVCF39
-p5652
-aVWales
-p5653
-aa(lp5654
-S'Alan Thomas'
-p5655
-aS'1963'
-p5656
-aS'Flanker'
-p5657
-aS'2'
-aS'0'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Beckenham'
-p5658
-aVUnited Kingdom
-p5659
-aVEngland
-p5660
-aVGreater London
-p5661
-aa(lp5662
-S'Dick Uzzell'
-p5663
-aS'1963'
-p5664
-aS'Centre'
-p5665
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Bargoed'
-p5666
-aVUnited Kingdom
-p5667
-aVCF81 8
-p5668
-aVWales
-p5669
-aa(lp5670
-S'Keith Bradshaw'
-p5671
-aS'1964'
-p5672
-aS'Centre'
-p5673
-aS'9'
-aS'5'
-aS'2'
-aS'2'
-aS'1'
-aS'36'
-p5674
-aS'Cefn Cribbwr'
-p5675
-aS'g'
-aS'n'
-aS'i'
-aa(lp5676
-S'John Mantle'
-p5677
-aS'1964'
-p5678
-aS'No. 8'
-p5679
-aS'2'
-aS'0'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Cardiff'
-p5680
-aVUnited Kingdom
-p5681
-aVWales
-p5682
-aVCardiff
-p5683
-aa(lp5684
-S'David Weaver'
-p5685
-aS'1964'
-p5686
-aS'Wing'
-p5687
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Glynneath'
-p5688
-aVUnited Kingdom
-p5689
-aVCF37 1SY
-p5690
-aVWales
-p5691
-aa(lp5692
-S'Gareth Prothero'
-p5693
-aS'1964'
-p5694
-aS'Flanker'
-p5695
-aS'11'
-p5696
-aS'8'
-aS'2'
-aS'1'
-aS'1'
-aS'3'
-aS'Beddau'
-p5697
-aVUnited Kingdom
-p5698
-aVWales
-p5699
-aVRhondda Cynon Taf
-p5700
-aa(lp5701
-S'Stuart Watkins'
-p5702
-aS'1964'
-p5703
-aS'Wing'
-p5704
-aS'29'
-p5705
-aS'16'
-p5706
-aS'10'
-p5707
-aS'3'
-aS'9'
-aS'27'
-p5708
-aS'Newport'
-p5709
-aVUnited Kingdom
-p5710
-aVNP
-p5711
-aVWales
-p5712
-aa(lp5713
-S'John Dawes'
-p5714
-aS'1964'
-p5715
-aS'Centre'
-p5716
-aS'26'
-p5717
-aS'15'
-p5718
-aS'8'
-aS'3'
-aS'4'
-aS'12'
-p5719
-aS'Chapel of Ease'
-p5720
-aVUnited Kingdom
-p5721
-aVEngland
-p5722
-aVSouth East
-p5723
-aa(lp5724
-S'Terry Price'
-p5725
-aS'1965'
-p5726
-aS'Fullback'
-p5727
-aS'8'
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'45'
-p5728
-aS'Hendy'
-p5729
-aVUnited Kingdom
-p5730
-aVWales
-p5731
-aVGwynedd
-p5732
-aa(lp5733
-S'Ron Waldron'
-p5734
-aS'1965'
-p5735
-aS'Prop'
-p5736
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Neath Abbey'
-p5737
-aVUnited Kingdom
-p5738
-aVWales
-p5739
-aVNeath Port Talbot
-p5740
-aa(lp5741
-S'Bill Morris'
-p5742
-aS'1965'
-p5743
-aS'Lock'
-p5744
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Melbourne'
-p5745
-aVAustralia
-p5746
-aV3000
-p5747
-aVVictoria
-p5748
-aa(lp5749
-S'Lyn Davies'
-p5750
-aS'1966'
-p5751
-aS'Wing'
-p5752
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Blaengarw'
-p5753
-aVUnited Kingdom
-p5754
-aVWales
-p5755
-aVBridgend
-p5756
-aa(lp5757
-S'Allan Lewis'
-p5758
-aS'1966'
-p5759
-aS'Scrum-half'
-p5760
-aS'9'
-aS'3'
-aS'6'
-aS'0'
-aS'0'
-aS'0'
-aS'Pontypool'
-p5761
-aVUnited Kingdom
-p5762
-aVNP4
-p5763
-aVWales
-p5764
-aa(lp5765
-S'John Lloyd'
-p5766
-aS'1966'
-p5767
-aS'Prop'
-p5768
-aS'24'
-p5769
-aS'14'
-p5770
-aS'9'
-aS'1'
-aS'0'
-aS'0'
-aS'Pontycymmer'
-p5771
-aS'g'
-aS'n'
-aS'i'
-aa(lp5772
-S'Ken Braddock'
-p5773
-aS'1966'
-p5774
-aS'Flanker'
-p5775
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Treowen'
-p5776
-aVUnited Kingdom
-p5777
-aVWales
-p5778
-aVMonmouthshire
-p5779
-aa(lp5780
-S'Gerald Davies'
-p5781
-aS'1966'
-p5782
-aS'Wing'
-p5783
-aS'51'
-p5784
-aS'31'
-p5785
-aS'16'
-p5786
-aS'4'
-aS'23'
-p5787
-aS'81'
-p5788
-aS'Llansaint'
-p5789
-aVUnited Kingdom
-p5790
-aVWales
-p5791
-aVCarmarthenshire
-p5792
-aa(lp5793
-S'Barry John'
-p5794
-aS'1966'
-p5795
-aS'Fly-half'
-p5796
-aS'30'
-p5797
-aS'16'
-p5798
-aS'10'
-p5799
-aS'4'
-aS'6'
-aS'120'
-p5800
-aS'Cefneithin'
-p5801
-aVUnited Kingdom
-p5802
-aVWales
-p5803
-aVCarmarthenshire
-p5804
-aa(lp5805
-S'Delme Thomas'
-p5806
-aS'1966'
-p5807
-aS'Lock'
-p5808
-aS'32'
-p5809
-aS'16'
-p5810
-aS'14'
-p5811
-aS'2'
-aS'0'
-aS'0'
-aS'Bancyfelin'
-p5812
-aVUnited Kingdom
-p5813
-aVWales
-p5814
-aVCarmarthenshire
-p5815
-aa(lp5816
-S'Billy Hullin'
-p5817
-aS'1967'
-p5818
-aS'Scrum-half'
-p5819
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Loughor'
-p5820
-aVUnited Kingdom
-p5821
-aVWales
-p5822
-aVSwansea
-p5823
-aa(lp5824
-S'Billy Mainwaring'
-p5825
-aS'1967'
-p5826
-aS'Lock'
-p5827
-aS'6'
-aS'1'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'Port Talbot'
-p5828
-aVUnited Kingdom
-p5829
-aVWales
-p5830
-aVNeath Port Talbot
-p5831
-aa(lp5832
-S"John O'Shea"
-p5833
-aS'1967'
-p5834
-aS'Prop'
-p5835
-aS'6'
-aS'1'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'Weston-super-Mare'
-p5836
-aVUnited Kingdom
-p5837
-aVBS23 1YJ
-p5838
-aVEngland
-p5839
-aa(lp5840
-S'Billy Raybould'
-p5841
-aS'1967'
-p5842
-aS'Centre'
-p5843
-aS'11'
-p5844
-aS'3'
-aS'7'
-aS'1'
-aS'0'
-aS'3'
-aS'Cardiff'
-p5845
-aVUnited Kingdom
-p5846
-aVWales
-p5847
-aVCardiff
-p5848
-aa(lp5849
-S'Brian Rees'
-p5850
-aS'1967'
-p5851
-aS'Hooker'
-p5852
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Neath'
-p5853
-aVUnited Kingdom
-p5854
-aVWales
-p5855
-aVWest Glamorgan
-p5856
-aa(lp5857
-S'John Taylor'
-p5858
-aS'1967'
-p5859
-aS'Flanker'
-p5860
-aS'30'
-p5861
-aS'17'
-p5862
-aS'11'
-p5863
-aS'2'
-aS'4'
-aS'25'
-p5864
-aS'Watford'
-p5865
-aVUnited Kingdom
-p5866
-aVEngland
-p5867
-aVEast of England
-p5868
-aa(lp5869
-S'Gareth Edwards'
-p5870
-aS'1967'
-p5871
-aS'Scrum-half'
-p5872
-aS'63'
-p5873
-aS'40'
-p5874
-aS'15'
-p5875
-aS'8'
-aS'20'
-p5876
-aS'91'
-p5877
-aS'Glanaman'
-p5878
-aVUnited Kingdom
-p5879
-aVWales
-p5880
-aVRhondda Cynon Taf
-p5881
-aa(lp5882
-S'Ron Jones'
-p5883
-aS'1967'
-p5884
-aS'No. 8'
-p5885
-aS'5'
-aS'2'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Neath'
-p5886
-aVUnited Kingdom
-p5887
-aVWales
-p5888
-aVWest Glamorgan
-p5889
-aa(lp5890
-S'Dai Morris'
-p5891
-aS'1967'
-p5892
-aS'Flanker'
-p5893
-aS'34'
-p5894
-aS'20'
-p5895
-aS'9'
-aS'5'
-aS'6'
-aS'19'
-p5896
-aS'Rhigos'
-p5897
-aVUnited Kingdom
-p5898
-aVWales
-p5899
-aVRhondda Cynon Taf
-p5900
-aa(lp5901
-S'Keith Jarrett'
-p5902
-aS'1967'
-p5903
-aS'Centre'
-p5904
-aS'10'
-p5905
-aS'6'
-aS'2'
-aS'2'
-aS'2'
-aS'73'
-p5906
-aS'Newport'
-p5907
-aVUnited Kingdom
-p5908
-aVNP
-p5909
-aVWales
-p5910
-aa(lp5911
-S'Ian Hall'
-p5912
-aS'1967'
-p5913
-aS'Centre'
-p5914
-aS'8'
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'0'
-aS'Gilfach Goch'
-p5915
-aVUnited Kingdom
-p5916
-aVWales
-p5917
-aVBridgend
-p5918
-aa(lp5919
-S'Dennis Hughes'
-p5920
-aS'1967'
-p5921
-aS'Flanker'
-p5922
-aS'6'
-aS'2'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'Argoed'
-p5923
-aVUnited Kingdom
-p5924
-aVWales
-p5925
-aVMonmouthshire
-p5926
-aa(lp5927
-S'John Jeffrey'
-p5928
-aS'1967'
-p5929
-aS'No. 8'
-p5930
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Oakdale'
-p5931
-aVUnited States of America
-p5932
-aVMinnesota
-p5933
-aVWashington County
-p5934
-aa(lp5935
-S'Keri Jones'
-p5936
-aS'1967'
-p5937
-aS'Wing'
-p5938
-aS'5'
-aS'1'
-aS'3'
-aS'1'
-aS'2'
-aS'6'
-aS'Neath'
-p5939
-aVUnited Kingdom
-p5940
-aVWales
-p5941
-aVWest Glamorgan
-p5942
-aa(lp5943
-S'Paul Wheeler'
-p5944
-aS'1967'
-p5945
-aS'Fullback'
-p5946
-aS'2'
-aS'0'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Newport'
-p5947
-aVUnited Kingdom
-p5948
-aVNP
-p5949
-aVWales
-p5950
-aa(lp5951
-S'Max Wiltshire'
-p5952
-aS'1967'
-p5953
-aS'Lock'
-p5954
-aS'4'
-aS'1'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'Milsom Pt'
-p5955
-aVUnited Kingdom
-p5956
-aVBA1
-p5957
-aVEngland
-p5958
-aa(lp5959
-S'Tony Gray'
-p5960
-aS'1968'
-p5961
-aS'Flanker'
-p5962
-aS'2'
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Stoke-on-Trent'
-p5963
-aVUnited Kingdom
-p5964
-aVEngland
-p5965
-aVWest Midlands
-p5966
-aa(lp5967
-S'Boyo James'
-p5968
-aS'1968'
-p5969
-aS'Prop'
-p5970
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Blaengarw'
-p5971
-aVUnited Kingdom
-p5972
-aVWales
-p5973
-aVBridgend
-p5974
-aa(lp5975
-S'Bobby Wanbon'
-p5976
-aS'1968'
-p5977
-aS'No. 8'
-p5978
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'1'
-aS'3'
-aS'Port Talbot'
-p5979
-aVUnited Kingdom
-p5980
-aVWales
-p5981
-aVNeath Port Talbot
-p5982
-aa(lp5983
-S'Doug Rees'
-p5984
-aS'1968'
-p5985
-aS'Fullback'
-p5986
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'9'
-aS'Swansea'
-p5987
-aVUnited Kingdom
-p5988
-aVWales
-p5989
-aVWest Glamorgan
-p5990
-aa(lp5991
-S'Jeff Young'
-p5992
-aS'1968'
-p5993
-aS'Hooker'
-p5994
-aS'24'
-p5995
-aS'15'
-p5996
-aS'8'
-aS'1'
-aS'0'
-aS'0'
-aS'Blaengarw'
-p5997
-aVUnited Kingdom
-p5998
-aVWales
-p5999
-aVBridgend
-p6000
-aa(lp6001
-S'Ian Jones'
-p6002
-aS'1968'
-p6003
-aS'Lock'
-p6004
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Vryburg'
-p6005
-aVSouth Africa
-p6006
-aVNorth West
-p6007
-aVDr Ruth Segomotsi Mompati District Municipality
-p6008
-aa(lp6009
-S'Maurice Richards'
-p6010
-aS'1968'
-p6011
-aS'Wing'
-p6012
-aS'12'
-p6013
-aS'4'
-aS'7'
-aS'1'
-aS'7'
-aS'21'
-p6014
-aS'Ystrad'
-p6015
-aVUnited Kingdom
-p6016
-aVWales
-p6017
-aVRhondda Cynon Taf
-p6018
-aa(lp6019
-S'Mervyn Davies'
-p6020
-aS'1969'
-p6021
-aS'No. 8'
-p6022
-aS'46'
-p6023
-aS'31'
-p6024
-aS'9'
-aS'6'
-aS'2'
-aS'7'
-aS'Swansea'
-p6025
-aVUnited Kingdom
-p6026
-aVWales
-p6027
-aVWest Glamorgan
-p6028
-aa(lp6029
-S'JPR Williams'
-p6030
-aS'1969'
-p6031
-aS'Fullback'
-p6032
-aS'63'
-p6033
-aS'42'
-p6034
-aS'15'
-p6035
-aS'6'
-aS'6'
-aS'39'
-p6036
-aS'Cardiff'
-p6037
-aVUnited Kingdom
-p6038
-aVWales
-p6039
-aVCardiff
-p6040
-aa(lp6041
-S'Phil Bennett'
-p6042
-aS'1969'
-p6043
-aS'Fly-half'
-p6044
-aS'37'
-p6045
-aS'23'
-p6046
-aS'9'
-aS'5'
-aS'5'
-aS'210'
-p6047
-aS'Felinfoel'
 p6048
 aVUnited Kingdom
 p6049
@@ -15462,13 +15309,1513 @@ aVWales
 p6050
 aVCarmarthenshire
 p6051
-aa(lp6052
-S'Geoff Evans'
-p6053
-aS'1970'
+aVLlangennech
+p6052
+aa(lp6053
+S'Ken Jones'
 p6054
-aS'Lock'
+aS'1962'
 p6055
+aS'Centre'
+p6056
+aS'20'
+p6057
+aS'7'
+aS'9'
+aS'4'
+aS'5'
+aS'15'
+p6058
+aS'Cross Hands'
+p6059
+aVUnited Kingdom
+p6060
+aVWales
+p6061
+aVCarmarthenshire
+p6062
+aVCross Hands
+p6063
+aa(lp6064
+S'Robert Morgan'
+p6065
+aS'1962'
+p6066
+aS'Wing'
+p6067
+aS'9'
+aS'2'
+aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'Pontyberem'
+p6068
+aVUnited Kingdom
+p6069
+aVWales
+p6070
+aVCarmarthenshire
+p6071
+aVPontyberem
+p6072
+aa(lp6073
+S'Alan Rees'
+p6074
+aS'1962'
+p6075
+aS'Fly-half'
+p6076
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'3'
+aS'Neath'
+p6077
+aVUnited Kingdom
+p6078
+aVWales
+p6079
+aVWest Glamorgan
+p6080
+aVNeath
+p6081
+aa(lp6082
+S'Des Greenslade'
+p6083
+aS'1962'
+p6084
+aS'Prop'
+p6085
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cwmcarn'
+p6086
+aVUnited Kingdom
+p6087
+aVWales
+p6088
+aVMonmouthshire
+p6089
+aVCwmcarn
+p6090
+aa(lp6091
+S'Keith Rowlands'
+p6092
+aS'1962'
+p6093
+aS'Lock'
+p6094
+aS'8'
+aS'2'
+aS'4'
+aS'2'
+aS'1'
+aS'3'
+aS'Brithdir'
+p6095
+aVUnited Kingdom
+p6096
+aVNP24 6XY
+p6097
+aVWales
+p6098
+aVCaerphilly
+p6099
+aa(lp6100
+S'Brian Davies'
+p6101
+aS'1962'
+p6102
+aS'Centre'
+p6103
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Weston-super-Mare'
+p6104
+aVUnited Kingdom
+p6105
+aVBS23 1YJ
+p6106
+aVEngland
+p6107
+aVSouth West England
+p6108
+aa(lp6109
+S'John Davies'
+p6110
+aS'1962'
+p6111
+aS'Flanker'
+p6112
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Neath'
+p6113
+aVUnited Kingdom
+p6114
+aVWales
+p6115
+aVWest Glamorgan
+p6116
+aVNeath
+p6117
+aa(lp6118
+S'Grahame Hodgson'
+p6119
+aS'1962'
+p6120
+aS'Fullback'
+p6121
+aS'15'
+p6122
+aS'5'
+aS'7'
+aS'3'
+aS'0'
+aS'12'
+p6123
+aS'Ogmore Vale'
+p6124
+aVUnited Kingdom
+p6125
+aVWales
+p6126
+aVBridgend
+p6127
+aVOgmore Vale
+p6128
+aa(lp6129
+S'John Warlow'
+p6130
+aS'1962'
+p6131
+aS'Prop'
+p6132
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Dafen'
+p6133
+aVUnited Kingdom
+p6134
+aVWales
+p6135
+aVCarmarthenshire
+p6136
+aVDafen
+p6137
+aa(lp6138
+S'David Hayward'
+p6139
+aS'1963'
+p6140
+aS'Flanker'
+p6141
+aS'6'
+aS'2'
+aS'3'
+aS'1'
+aS'1'
+aS'3'
+aS'Crumlin'
+p6142
+aVUnited Kingdom
+p6143
+aVNorthern Ireland
+p6144
+aVCounty Antrim
+p6145
+aVCrumlin
+p6146
+aa(lp6147
+S'Roger Michaelson'
+p6148
+aS'1963'
+p6149
+aS'No. 8'
+p6150
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Porthcawl'
+p6151
+aVUnited Kingdom
+p6152
+aVCF36
+p6153
+aVWales
+p6154
+aVBridgend
+p6155
+aa(lp6156
+S'Clive Rowlands'
+p6157
+aS'1963'
+p6158
+aS'Scrum-half'
+p6159
+aS'14'
+p6160
+aS'6'
+aS'6'
+aS'2'
+aS'0'
+aS'3'
+aS'Upper Cwmtwrch'
+p6161
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp6162
+S'Brian Thomas'
+p6163
+aS'1963'
+p6164
+aS'Lock'
+p6165
+aS'21'
+p6166
+aS'9'
+aS'9'
+aS'3'
+aS'1'
+aS'3'
+aS'Pontwalby'
+p6167
+aVUnited Kingdom
+p6168
+aVWales
+p6169
+aVNeath Port Talbot
+p6170
+aVPontwalby
+p6171
+aa(lp6172
+S'David Watkins'
+p6173
+aS'1963'
+p6174
+aS'Fly-half'
+p6175
+aS'27'
+p6176
+aS'12'
+p6177
+aS'13'
+p6178
+aS'2'
+aS'4'
+aS'27'
+p6179
+aS'Blaina'
+p6180
+aVUnited Kingdom
+p6181
+aVWales
+p6182
+aVBlaenau Gwent
+p6183
+aVBlaina
+p6184
+aa(lp6185
+S'Denzil Williams'
+p6186
+aS'1963'
+p6187
+aS'Prop'
+p6188
+aS'41'
+p6189
+aS'21'
+p6190
+aS'15'
+p6191
+aS'5'
+aS'1'
+aS'3'
+aS'Trefil'
+p6192
+aVUnited Kingdom
+p6193
+aVWales
+p6194
+aVBlaenau Gwent
+p6195
+aVTrefil
+p6196
+aa(lp6197
+S'Ron Evans'
+p6198
+aS'1963'
+p6199
+aS'Centre'
+p6200
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bridgend'
+p6201
+aVUnited Kingdom
+p6202
+aVWales
+p6203
+aVBridgend
+p6204
+ag9
+aa(lp6205
+S'Graham Jones'
+p6206
+aS'1963'
+p6207
+aS'Flanker'
+p6208
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Garndiffaith'
+p6209
+aVUnited Kingdom
+p6210
+aVWales
+p6211
+aVTorfaen
+p6212
+aVVarteg
+p6213
+aa(lp6214
+S'Bill Morris'
+p6215
+aS'1963'
+p6216
+aS'Wing'
+p6217
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Borth'
+p6218
+aVUnited Kingdom
+p6219
+aVWales
+p6220
+aVCeredigion
+p6221
+aVBorth
+p6222
+aa(lp6223
+S'Howard Norris'
+p6224
+aS'1963'
+p6225
+aS'Prop'
+p6226
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Porth'
+p6227
+aVUnited Kingdom
+p6228
+aVCF39
+p6229
+aVWales
+p6230
+aVMid Glamorgan
+p6231
+aa(lp6232
+S'Alan Thomas'
+p6233
+aS'1963'
+p6234
+aS'Flanker'
+p6235
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Beckenham'
+p6236
+aVUnited Kingdom
+p6237
+aVEngland
+p6238
+aVGreater London
+p6239
+aVLondon
+p6240
+aa(lp6241
+S'Dick Uzzell'
+p6242
+aS'1963'
+p6243
+aS'Centre'
+p6244
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Bargoed'
+p6245
+aVUnited Kingdom
+p6246
+aVCF81 8
+p6247
+aVWales
+p6248
+aVCaerphilly
+p6249
+aa(lp6250
+S'Keith Bradshaw'
+p6251
+aS'1964'
+p6252
+aS'Centre'
+p6253
+aS'9'
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'36'
+p6254
+aS'Cefn Cribbwr'
+p6255
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp6256
+S'John Mantle'
+p6257
+aS'1964'
+p6258
+aS'No. 8'
+p6259
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Cardiff'
+p6260
+aVUnited Kingdom
+p6261
+aVWales
+p6262
+aVCardiff
+p6263
+ag9
+aa(lp6264
+S'David Weaver'
+p6265
+aS'1964'
+p6266
+aS'Wing'
+p6267
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Glynneath'
+p6268
+aVUnited Kingdom
+p6269
+aVCF37 1SY
+p6270
+aVWales
+p6271
+aVRhondda Cynon Taf
+p6272
+aa(lp6273
+S'Gareth Prothero'
+p6274
+aS'1964'
+p6275
+aS'Flanker'
+p6276
+aS'11'
+p6277
+aS'8'
+aS'2'
+aS'1'
+aS'1'
+aS'3'
+aS'Beddau'
+p6278
+aVUnited Kingdom
+p6279
+aVWales
+p6280
+aVRhondda Cynon Taf
+p6281
+aVBeddau
+p6282
+aa(lp6283
+S'Stuart Watkins'
+p6284
+aS'1964'
+p6285
+aS'Wing'
+p6286
+aS'29'
+p6287
+aS'16'
+p6288
+aS'10'
+p6289
+aS'3'
+aS'9'
+aS'27'
+p6290
+aS'Newport'
+p6291
+aVUnited Kingdom
+p6292
+aVNP
+p6293
+aVWales
+p6294
+aVMonmouthshire
+p6295
+aa(lp6296
+S'John Dawes'
+p6297
+aS'1964'
+p6298
+aS'Centre'
+p6299
+aS'26'
+p6300
+aS'15'
+p6301
+aS'8'
+aS'3'
+aS'4'
+aS'12'
+p6302
+aS'Chapel of Ease'
+p6303
+aVUnited Kingdom
+p6304
+aVEngland
+p6305
+aVSouth East
+p6306
+aVSurrey
+p6307
+aa(lp6308
+S'Terry Price'
+p6309
+aS'1965'
+p6310
+aS'Fullback'
+p6311
+aS'8'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'45'
+p6312
+aS'Hendy'
+p6313
+aVUnited Kingdom
+p6314
+aVWales
+p6315
+aVGwynedd
+p6316
+aVTywyn
+p6317
+aa(lp6318
+S'Ron Waldron'
+p6319
+aS'1965'
+p6320
+aS'Prop'
+p6321
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Neath Abbey'
+p6322
+aVUnited Kingdom
+p6323
+aVWales
+p6324
+aVNeath Port Talbot
+p6325
+aVNeath Abbey
+p6326
+aa(lp6327
+S'Bill Morris'
+p6328
+aS'1965'
+p6329
+aS'Lock'
+p6330
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Melbourne'
+p6331
+aVAustralia
+p6332
+aV3000
+p6333
+aVVictoria
+p6334
+aVGreater Melbourne
+p6335
+aa(lp6336
+S'Lyn Davies'
+p6337
+aS'1966'
+p6338
+aS'Wing'
+p6339
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Blaengarw'
+p6340
+aVUnited Kingdom
+p6341
+aVWales
+p6342
+aVBridgend
+p6343
+aVBlaengarw
+p6344
+aa(lp6345
+S'Allan Lewis'
+p6346
+aS'1966'
+p6347
+aS'Scrum-half'
+p6348
+aS'9'
+aS'3'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontypool'
+p6349
+aVUnited Kingdom
+p6350
+aVNP4
+p6351
+aVWales
+p6352
+aVMonmouthshire
+p6353
+aa(lp6354
+S'John Lloyd'
+p6355
+aS'1966'
+p6356
+aS'Prop'
+p6357
+aS'24'
+p6358
+aS'14'
+p6359
+aS'9'
+aS'1'
+aS'0'
+aS'0'
+aS'Pontycymmer'
+p6360
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp6361
+S'Ken Braddock'
+p6362
+aS'1966'
+p6363
+aS'Flanker'
+p6364
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Treowen'
+p6365
+aVUnited Kingdom
+p6366
+aVWales
+p6367
+aVMonmouthshire
+p6368
+aVDingestow
+p6369
+aa(lp6370
+S'Gerald Davies'
+p6371
+aS'1966'
+p6372
+aS'Wing'
+p6373
+aS'51'
+p6374
+aS'31'
+p6375
+aS'16'
+p6376
+aS'4'
+aS'23'
+p6377
+aS'81'
+p6378
+aS'Llansaint'
+p6379
+aVUnited Kingdom
+p6380
+aVWales
+p6381
+aVCarmarthenshire
+p6382
+aVLlansaint
+p6383
+aa(lp6384
+S'Barry John'
+p6385
+aS'1966'
+p6386
+aS'Fly-half'
+p6387
+aS'30'
+p6388
+aS'16'
+p6389
+aS'10'
+p6390
+aS'4'
+aS'6'
+aS'120'
+p6391
+aS'Cefneithin'
+p6392
+aVUnited Kingdom
+p6393
+aVWales
+p6394
+aVCarmarthenshire
+p6395
+aVCefneithin
+p6396
+aa(lp6397
+S'Delme Thomas'
+p6398
+aS'1966'
+p6399
+aS'Lock'
+p6400
+aS'32'
+p6401
+aS'16'
+p6402
+aS'14'
+p6403
+aS'2'
+aS'0'
+aS'0'
+aS'Bancyfelin'
+p6404
+aVUnited Kingdom
+p6405
+aVWales
+p6406
+aVCarmarthenshire
+p6407
+aVCarmarthen
+p6408
+aa(lp6409
+S'Billy Hullin'
+p6410
+aS'1967'
+p6411
+aS'Scrum-half'
+p6412
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Loughor'
+p6413
+aVUnited Kingdom
+p6414
+aVWales
+p6415
+aVSwansea
+p6416
+aVLoughor
+p6417
+aa(lp6418
+S'Billy Mainwaring'
+p6419
+aS'1967'
+p6420
+aS'Lock'
+p6421
+aS'6'
+aS'1'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Port Talbot'
+p6422
+aVUnited Kingdom
+p6423
+aVWales
+p6424
+aVNeath Port Talbot
+p6425
+aVPort Talbot
+p6426
+aa(lp6427
+S"John O'Shea"
+p6428
+aS'1967'
+p6429
+aS'Prop'
+p6430
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Weston-super-Mare'
+p6431
+aVUnited Kingdom
+p6432
+aVBS23 1YJ
+p6433
+aVEngland
+p6434
+aVSouth West England
+p6435
+aa(lp6436
+S'Billy Raybould'
+p6437
+aS'1967'
+p6438
+aS'Centre'
+p6439
+aS'11'
+p6440
+aS'3'
+aS'7'
+aS'1'
+aS'0'
+aS'3'
+aS'Cardiff'
+p6441
+aVUnited Kingdom
+p6442
+aVWales
+p6443
+aVCardiff
+p6444
+ag9
+aa(lp6445
+S'Brian Rees'
+p6446
+aS'1967'
+p6447
+aS'Hooker'
+p6448
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Neath'
+p6449
+aVUnited Kingdom
+p6450
+aVWales
+p6451
+aVWest Glamorgan
+p6452
+aVNeath
+p6453
+aa(lp6454
+S'John Taylor'
+p6455
+aS'1967'
+p6456
+aS'Flanker'
+p6457
+aS'30'
+p6458
+aS'17'
+p6459
+aS'11'
+p6460
+aS'2'
+aS'4'
+aS'25'
+p6461
+aS'Watford'
+p6462
+aVUnited Kingdom
+p6463
+aVEngland
+p6464
+aVEast of England
+p6465
+aVHertfordshire
+p6466
+aa(lp6467
+S'Gareth Edwards'
+p6468
+aS'1967'
+p6469
+aS'Scrum-half'
+p6470
+aS'63'
+p6471
+aS'40'
+p6472
+aS'15'
+p6473
+aS'8'
+aS'20'
+p6474
+aS'91'
+p6475
+aS'Glanaman'
+p6476
+aVUnited Kingdom
+p6477
+aVWales
+p6478
+aVRhondda Cynon Taf
+p6479
+aVCwmaman
+p6480
+aa(lp6481
+S'Ron Jones'
+p6482
+aS'1967'
+p6483
+aS'No. 8'
+p6484
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Neath'
+p6485
+aVUnited Kingdom
+p6486
+aVWales
+p6487
+aVWest Glamorgan
+p6488
+aVNeath
+p6489
+aa(lp6490
+S'Dai Morris'
+p6491
+aS'1967'
+p6492
+aS'Flanker'
+p6493
+aS'34'
+p6494
+aS'20'
+p6495
+aS'9'
+aS'5'
+aS'6'
+aS'19'
+p6496
+aS'Rhigos'
+p6497
+aVUnited Kingdom
+p6498
+aVWales
+p6499
+aVRhondda Cynon Taf
+p6500
+aVRhigos
+p6501
+aa(lp6502
+S'Keith Jarrett'
+p6503
+aS'1967'
+p6504
+aS'Centre'
+p6505
+aS'10'
+p6506
+aS'6'
+aS'2'
+aS'2'
+aS'2'
+aS'73'
+p6507
+aS'Newport'
+p6508
+aVUnited Kingdom
+p6509
+aVNP
+p6510
+aVWales
+p6511
+aVMonmouthshire
+p6512
+aa(lp6513
+S'Ian Hall'
+p6514
+aS'1967'
+p6515
+aS'Centre'
+p6516
+aS'8'
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'Gilfach Goch'
+p6517
+aVUnited Kingdom
+p6518
+aVWales
+p6519
+aVBridgend
+p6520
+aVGilfach Goch
+p6521
+aa(lp6522
+S'Dennis Hughes'
+p6523
+aS'1967'
+p6524
+aS'Flanker'
+p6525
+aS'6'
+aS'2'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Argoed'
+p6526
+aVUnited Kingdom
+p6527
+aVWales
+p6528
+aVMonmouthshire
+p6529
+aVArgoed
+p6530
+aa(lp6531
+S'John Jeffrey'
+p6532
+aS'1967'
+p6533
+aS'No. 8'
+p6534
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Oakdale'
+p6535
+aVUnited States of America
+p6536
+aVMinnesota
+p6537
+aVWashington County
+p6538
+aVOakdale
+p6539
+aa(lp6540
+S'Keri Jones'
+p6541
+aS'1967'
+p6542
+aS'Wing'
+p6543
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'2'
+aS'6'
+aS'Neath'
+p6544
+aVUnited Kingdom
+p6545
+aVWales
+p6546
+aVWest Glamorgan
+p6547
+aVNeath
+p6548
+aa(lp6549
+S'Paul Wheeler'
+p6550
+aS'1967'
+p6551
+aS'Fullback'
+p6552
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Newport'
+p6553
+aVUnited Kingdom
+p6554
+aVNP
+p6555
+aVWales
+p6556
+aVMonmouthshire
+p6557
+aa(lp6558
+S'Max Wiltshire'
+p6559
+aS'1967'
+p6560
+aS'Lock'
+p6561
+aS'4'
+aS'1'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Milsom Pt'
+p6562
+aVUnited Kingdom
+p6563
+aVBA1
+p6564
+aVEngland
+p6565
+aVSouth West England
+p6566
+aa(lp6567
+S'Tony Gray'
+p6568
+aS'1968'
+p6569
+aS'Flanker'
+p6570
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Stoke-on-Trent'
+p6571
+aVUnited Kingdom
+p6572
+aVEngland
+p6573
+aVWest Midlands
+p6574
+aVStoke-on-Trent
+p6575
+aa(lp6576
+S'Boyo James'
+p6577
+aS'1968'
+p6578
+aS'Prop'
+p6579
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Blaengarw'
+p6580
+aVUnited Kingdom
+p6581
+aVWales
+p6582
+aVBridgend
+p6583
+aVBlaengarw
+p6584
+aa(lp6585
+S'Bobby Wanbon'
+p6586
+aS'1968'
+p6587
+aS'No. 8'
+p6588
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'1'
+aS'3'
+aS'Port Talbot'
+p6589
+aVUnited Kingdom
+p6590
+aVWales
+p6591
+aVNeath Port Talbot
+p6592
+aVPort Talbot
+p6593
+aa(lp6594
+S'Doug Rees'
+p6595
+aS'1968'
+p6596
+aS'Fullback'
+p6597
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'9'
+aS'Swansea'
+p6598
+aVUnited Kingdom
+p6599
+aVWales
+p6600
+aVWest Glamorgan
+p6601
+aVSwansea
+p6602
+aa(lp6603
+S'Jeff Young'
+p6604
+aS'1968'
+p6605
+aS'Hooker'
+p6606
+aS'24'
+p6607
+aS'15'
+p6608
+aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS'Blaengarw'
+p6609
+aVUnited Kingdom
+p6610
+aVWales
+p6611
+aVBridgend
+p6612
+aVBlaengarw
+p6613
+aa(lp6614
+S'Ian Jones'
+p6615
+aS'1968'
+p6616
+aS'Lock'
+p6617
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Vryburg'
+p6618
+aVSouth Africa
+p6619
+aVNorth West
+p6620
+aVDr Ruth Segomotsi Mompati District Municipality
+p6621
+aVVryburg
+p6622
+aa(lp6623
+S'Maurice Richards'
+p6624
+aS'1968'
+p6625
+aS'Wing'
+p6626
+aS'12'
+p6627
+aS'4'
+aS'7'
+aS'1'
+aS'7'
+aS'21'
+p6628
+aS'Ystrad'
+p6629
+aVUnited Kingdom
+p6630
+aVWales
+p6631
+aVRhondda Cynon Taf
+p6632
+aVYstrad
+p6633
+aa(lp6634
+S'Mervyn Davies'
+p6635
+aS'1969'
+p6636
+aS'No. 8'
+p6637
+aS'46'
+p6638
+aS'31'
+p6639
+aS'9'
+aS'6'
+aS'2'
+aS'7'
+aS'Swansea'
+p6640
+aVUnited Kingdom
+p6641
+aVWales
+p6642
+aVWest Glamorgan
+p6643
+aVSwansea
+p6644
+aa(lp6645
+S'JPR Williams'
+p6646
+aS'1969'
+p6647
+aS'Fullback'
+p6648
+aS'63'
+p6649
+aS'42'
+p6650
+aS'15'
+p6651
+aS'6'
+aS'6'
+aS'39'
+p6652
+aS'Cardiff'
+p6653
+aVUnited Kingdom
+p6654
+aVWales
+p6655
+aVCardiff
+p6656
+ag9
+aa(lp6657
+S'Phil Bennett'
+p6658
+aS'1969'
+p6659
+aS'Fly-half'
+p6660
+aS'37'
+p6661
+aS'23'
+p6662
+aS'9'
+aS'5'
+aS'5'
+aS'210'
+p6663
+aS'Felinfoel'
+p6664
+aVUnited Kingdom
+p6665
+aVWales
+p6666
+aVCarmarthenshire
+p6667
+aVFelinfoel
+p6668
+aa(lp6669
+S'Geoff Evans'
+p6670
+aS'1970'
+p6671
+aS'Lock'
+p6672
 aS'7'
 aS'5'
 aS'1'
@@ -15476,43 +16823,47 @@ aS'1'
 aS'0'
 aS'0'
 aS'Llanelly'
-p6056
+p6673
 aVAustralia
-p6057
+p6674
 aVVictoria
-p6058
+p6675
 aVLoddon Mallee
-p6059
-aa(lp6060
+p6676
+aVShire of Loddon
+p6677
+aa(lp6678
 S'Barry Llewelyn'
-p6061
+p6679
 aS'1970'
-p6062
+p6680
 aS'Prop'
-p6063
+p6681
 aS'13'
-p6064
+p6682
 aS'10'
-p6065
+p6683
 aS'2'
 aS'1'
 aS'1'
 aS'3'
 aS'Lancs'
-p6066
+p6684
 aVUnited Kingdom
-p6067
+p6685
 aVS6 3TB
-p6068
+p6686
 aVEngland
-p6069
-aa(lp6070
+p6687
+aVYorkshire and the Humber
+p6688
+aa(lp6689
 S'Vic Perrins'
-p6071
+p6690
 aS'1970'
-p6072
+p6691
 aS'Hooker'
-p6073
+p6692
 aS'2'
 aS'1'
 aS'0'
@@ -15520,20 +16871,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Newport'
-p6074
+p6693
 aVUnited Kingdom
-p6075
+p6694
 aVNP
-p6076
+p6695
 aVWales
-p6077
-aa(lp6078
+p6696
+aVMonmouthshire
+p6697
+aa(lp6698
 S'Laurie Daniel'
-p6079
+p6699
 aS'1970'
-p6080
+p6700
 aS'Wing'
-p6081
+p6701
 aS'1'
 aS'1'
 aS'0'
@@ -15541,20 +16894,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Pontypool'
-p6082
+p6702
 aVUnited Kingdom
-p6083
+p6703
 aVNP4
-p6084
+p6704
 aVWales
-p6085
-aa(lp6086
+p6705
+aVMonmouthshire
+p6706
+aa(lp6707
 S'Ray Hopkins'
-p6087
+p6708
 aS'1970'
-p6088
+p6709
 aS'Scrum-half'
-p6089
+p6710
 aS'2'
 aS'2'
 aS'0'
@@ -15562,20 +16917,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Maesteg'
-p6090
+p6711
 aVUnited Kingdom
-p6091
+p6712
 aVWales
-p6092
+p6713
 aVBridgend
-p6093
-aa(lp6094
+p6714
+aVMaesteg
+p6715
+aa(lp6716
 S'Keith Hughes'
-p6095
+p6717
 aS'1970'
-p6096
+p6718
 aS'Centre'
-p6097
+p6719
 aS'3'
 aS'2'
 aS'1'
@@ -15583,20 +16940,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Glanamman'
-p6098
+p6720
 aVUnited Kingdom
-p6099
+p6721
 aVWales
-p6100
+p6722
 aVCarmarthenshire
-p6101
-aa(lp6102
+p6723
+aVGlanamman
+p6724
+aa(lp6725
 S'Stuart Gallacher'
-p6103
+p6726
 aS'1970'
-p6104
+p6727
 aS'Lock'
-p6105
+p6728
 aS'1'
 aS'1'
 aS'0'
@@ -15604,42 +16963,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p6106
+p6729
 aVAustralia
-p6107
+p6730
 aVVictoria
-p6108
+p6731
 aVLoddon Mallee
-p6109
-aa(lp6110
+p6732
+aVShire of Loddon
+p6733
+aa(lp6734
 S'Arthur Lewis'
-p6111
+p6735
 aS'1970'
-p6112
+p6736
 aS'Centre'
-p6113
+p6737
 aS'11'
-p6114
+p6738
 aS'9'
 aS'2'
 aS'0'
 aS'1'
 aS'4'
 aS'Crumlin'
-p6115
+p6739
 aVUnited Kingdom
-p6116
+p6740
 aVNorthern Ireland
-p6117
+p6741
 aVCounty Antrim
-p6118
-aa(lp6119
+p6742
+aVCrumlin
+p6743
+aa(lp6744
 S'Roy Mathias'
-p6120
+p6745
 aS'1970'
-p6121
+p6746
 aS'Wing'
-p6122
+p6747
 aS'1'
 aS'1'
 aS'0'
@@ -15647,20 +17010,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p6123
+p6748
 aVAustralia
-p6124
+p6749
 aVVictoria
-p6125
+p6750
 aVLoddon Mallee
-p6126
-aa(lp6127
+p6751
+aVShire of Loddon
+p6752
+aa(lp6753
 S'Jim Shanklin'
-p6128
+p6754
 aS'1970'
-p6129
+p6755
 aS'Wing'
-p6130
+p6756
 aS'4'
 aS'2'
 aS'2'
@@ -15668,43 +17033,47 @@ aS'0'
 aS'1'
 aS'4'
 aS'Tenby'
-p6131
+p6757
 aVUnited Kingdom
-p6132
+p6758
 aVWales
-p6133
+p6759
 aVPembrokeshire
-p6134
-aa(lp6135
+p6760
+aVTenby
+p6761
+aa(lp6762
 S'John Bevan'
-p6136
+p6763
 aS'1971'
-p6137
+p6764
 aS'Wing'
-p6138
+p6765
 aS'11'
-p6139
+p6766
 aS'9'
 aS'2'
 aS'0'
 aS'5'
 aS'19'
-p6140
+p6767
 aS'Tylorstown'
-p6141
+p6768
 aVUnited Kingdom
-p6142
+p6769
 aVWales
-p6143
+p6770
 aVRhondda Cynon Taf
-p6144
-aa(lp6145
+p6771
+aVTylorstown
+p6772
+aa(lp6773
 S'Mike Roberts'
-p6146
+p6774
 aS'1971'
-p6147
+p6775
 aS'Lock'
-p6148
+p6776
 aS'8'
 aS'6'
 aS'2'
@@ -15712,88 +17081,96 @@ aS'0'
 aS'1'
 aS'4'
 aS'St Asaph'
-p6149
+p6777
 aVUnited Kingdom
-p6150
+p6778
 aVWales
-p6151
+p6779
 aVDenbighshire
-p6152
-aa(lp6153
+p6780
+aVSt Asaph
+p6781
+aa(lp6782
 S'Roy Bergiers'
-p6154
+p6783
 aS'1972'
-p6155
+p6784
 aS'Centre'
-p6156
+p6785
 aS'11'
-p6157
+p6786
 aS'7'
 aS'4'
 aS'0'
 aS'2'
 aS'8'
 aS'Carmarthen'
-p6158
+p6787
 aVUnited Kingdom
-p6159
+p6788
 aVWales
-p6160
+p6789
 aVCarmarthenshire
-p6161
-aa(lp6162
+p6790
+aVCarmarthen
+p6791
+aa(lp6792
 S'Derek Quinnell'
-p6163
+p6793
 aS'1971'
-p6164
+p6794
 aS'No. 8'
-p6165
+p6795
 aS'28'
-p6166
+p6796
 aS'17'
-p6167
+p6797
 aS'10'
-p6168
+p6798
 aS'1'
 aS'1'
 aS'4'
 aS'Llanelly'
-p6169
+p6799
 aVAustralia
-p6170
+p6800
 aVVictoria
-p6171
+p6801
 aVLoddon Mallee
-p6172
-aa(lp6173
+p6802
+aVShire of Loddon
+p6803
+aa(lp6804
 S'Glyn Shaw'
-p6174
+p6805
 aS'1972'
-p6175
+p6806
 aS'Prop'
-p6176
+p6807
 aS'12'
-p6177
+p6808
 aS'5'
 aS'5'
 aS'2'
 aS'0'
 aS'0'
 aS'Rhigos'
-p6178
+p6809
 aVUnited Kingdom
-p6179
+p6810
 aVWales
-p6180
+p6811
 aVRhondda Cynon Taf
-p6181
-aa(lp6182
+p6812
+aVRhigos
+p6813
+aa(lp6814
 S'Phil Llewellyn'
-p6183
+p6815
 aS'1973'
-p6184
+p6816
 aS'Prop'
-p6185
+p6817
 aS'5'
 aS'3'
 aS'2'
@@ -15801,20 +17178,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p6186
+p6818
 aVUnited Kingdom
-p6187
+p6819
 aVWales
-p6188
+p6820
 aVWest Glamorgan
-p6189
-aa(lp6190
+p6821
+aVSwansea
+p6822
+aa(lp6823
 S'Tommy David'
-p6191
+p6824
 aS'1973'
-p6192
+p6825
 aS'Flanker'
-p6193
+p6826
 aS'4'
 aS'3'
 aS'1'
@@ -15822,94 +17201,102 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p6194
+p6827
 aVUnited Kingdom
-p6195
+p6828
 aVCF37; CF38
-p6196
+p6829
 aVWales
-p6197
-aa(lp6198
+p6830
+aVMid Glamorgan
+p6831
+aa(lp6832
 S'John Williams'
-p6199
+p6833
 aS'1973'
-p6200
+p6834
 aS'Wing'
-p6201
+p6835
 aS'37'
-p6202
+p6836
 aS'24'
-p6203
+p6837
 aS'10'
-p6204
+p6838
 aS'3'
 aS'17'
-p6205
+p6839
 aS'68'
-p6206
+p6840
 aS'Nantyffyllon'
-p6207
+p6841
 aVUnited Kingdom
-p6208
+p6842
 aVWales
-p6209
+p6843
 aVBridgend
-p6210
-aa(lp6211
+p6844
+aVNantyffyllon
+p6845
+aa(lp6846
 S'Allan Martin'
-p6212
+p6847
 aS'1973'
-p6213
+p6848
 aS'Lock'
-p6214
+p6849
 aS'35'
-p6215
+p6850
 aS'23'
-p6216
+p6851
 aS'11'
-p6217
+p6852
 aS'1'
 aS'1'
 aS'25'
-p6218
+p6853
 aS'Port Talbot'
-p6219
+p6854
 aVUnited Kingdom
-p6220
+p6855
 aVWales
-p6221
+p6856
 aVNeath Port Talbot
-p6222
-aa(lp6223
+p6857
+aVPort Talbot
+p6858
+aa(lp6859
 S'Bobby Windsor'
-p6224
+p6860
 aS'1973'
-p6225
+p6861
 aS'Hooker'
-p6226
+p6862
 aS'33'
-p6227
+p6863
 aS'22'
-p6228
+p6864
 aS'8'
 aS'3'
 aS'1'
 aS'4'
 aS'Newport'
-p6229
+p6865
 aVUnited Kingdom
-p6230
+p6866
 aVNP
-p6231
+p6867
 aVWales
-p6232
-aa(lp6233
+p6868
+aVMonmouthshire
+p6869
+aa(lp6870
 S'Clive Shell'
-p6234
+p6871
 aS'1973'
-p6235
+p6872
 aS'Scrum-half'
-p6236
+p6873
 aS'1'
 aS'1'
 aS'0'
@@ -15917,43 +17304,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pyle'
-p6237
+p6874
 aVFrance
-p6238
+p6875
 aV27370
-p6239
+p6876
 aVFrance métropolitaine
-p6240
-aa(lp6241
+p6877
+aVHaute-Normandie
+p6878
+aa(lp6879
 S'Terry Cobner'
-p6242
+p6880
 aS'1974'
-p6243
+p6881
 aS'Flanker'
-p6244
+p6882
 aS'22'
-p6245
+p6883
 aS'14'
-p6246
+p6884
 aS'6'
 aS'2'
 aS'2'
 aS'8'
 aS'Blaenavon'
-p6247
+p6885
 aVUnited Kingdom
-p6248
+p6886
 aVNP4
-p6249
+p6887
 aVWales
-p6250
-aa(lp6251
+p6888
+aVMonmouthshire
+p6889
+aa(lp6890
 S'Alex Finlayson'
-p6252
+p6891
 aS'1974'
-p6253
+p6892
 aS'Centre'
-p6254
+p6893
 aS'3'
 aS'0'
 aS'1'
@@ -15961,65 +17352,70 @@ aS'2'
 aS'0'
 aS'0'
 aS'Cardiff'
-p6255
+p6894
 aVUnited Kingdom
-p6256
+p6895
 aVWales
-p6257
+p6896
 aVCardiff
-p6258
-aa(lp6259
+p6897
+ag9
+aa(lp6898
 S'Clive Rees'
-p6260
+p6899
 aS'1974'
-p6261
+p6900
 aS'Wing'
-p6262
+p6901
 aS'13'
-p6263
+p6902
 aS'5'
 aS'6'
 aS'2'
 aS'0'
 aS'0'
 aS'1951'
-p6264
+p6903
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p6265
+p6904
 aVSétif - \u0633\u0637\u064a\u0641\u200e
-p6266
+p6905
 aVDaïra Bouandas
-p6267
-aa(lp6268
+p6906
+aVAït Nawal M'zada
+p6907
+aa(lp6908
 S'Geoff Wheel'
-p6269
+p6909
 aS'1974'
-p6270
+p6910
 aS'Lock'
-p6271
+p6911
 aS'32'
-p6272
+p6912
 aS'22'
-p6273
+p6913
 aS'9'
 aS'1'
 aS'0'
 aS'0'
 aS'Swansea'
-p6274
+p6914
 aVUnited Kingdom
-p6275
+p6915
 aVWales
-p6276
+p6916
 aVWest Glamorgan
-p6277
-aa(lp6278
+p6917
+aVSwansea
+p6918
+aa(lp6919
 S'Walter Williams'
-p6279
+p6920
 aS'1974'
-p6280
+p6921
 aS'Prop'
-p6281
+p6922
 aS'2'
 aS'0'
 aS'0'
@@ -16027,20 +17423,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Neath'
-p6282
+p6923
 aVUnited Kingdom
-p6283
+p6924
 aVWales
-p6284
+p6925
 aVWest Glamorgan
-p6285
-aa(lp6286
+p6926
+aVNeath
+p6927
+aa(lp6928
 S'Ian Robinson'
-p6287
+p6929
 aS'1974'
-p6288
+p6930
 aS'Lock'
-p6289
+p6931
 aS'2'
 aS'0'
 aS'1'
@@ -16048,20 +17446,21 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cardiff'
-p6290
+p6932
 aVUnited Kingdom
-p6291
+p6933
 aVWales
-p6292
+p6934
 aVCardiff
-p6293
-aa(lp6294
+p6935
+ag9
+aa(lp6936
 S'Roger Blyth'
-p6295
+p6937
 aS'1974'
-p6296
+p6938
 aS'Fullback'
-p6297
+p6939
 aS'6'
 aS'2'
 aS'4'
@@ -16069,20 +17468,22 @@ aS'0'
 aS'1'
 aS'6'
 aS'Swansea'
-p6298
+p6940
 aVUnited Kingdom
-p6299
+p6941
 aVWales
-p6300
+p6942
 aVWest Glamorgan
-p6301
-aa(lp6302
+p6943
+aVSwansea
+p6944
+aa(lp6945
 S'John Bevan'
-p6303
+p6946
 aS'1975'
-p6304
+p6947
 aS'Fly-half'
-p6305
+p6948
 aS'4'
 aS'3'
 aS'1'
@@ -16090,139 +17491,151 @@ aS'0'
 aS'0'
 aS'3'
 aS'Neath'
-p6306
+p6949
 aVUnited Kingdom
-p6307
+p6950
 aVWales
-p6308
+p6951
 aVWest Glamorgan
-p6309
-aa(lp6310
+p6952
+aVNeath
+p6953
+aa(lp6954
 S'Trefor Evans'
-p6311
+p6955
 aS'1975'
-p6312
+p6956
 aS'Flanker'
-p6313
+p6957
 aS'11'
-p6314
+p6958
 aS'9'
 aS'2'
 aS'0'
 aS'2'
 aS'8'
 aS'Lancs'
-p6315
+p6959
 aVUnited Kingdom
-p6316
+p6960
 aVS6 3TB
-p6317
+p6961
 aVEngland
-p6318
-aa(lp6319
+p6962
+aVYorkshire and the Humber
+p6963
+aa(lp6964
 S'Charlie Faulkner'
-p6320
+p6965
 aS'1975'
-p6321
+p6966
 aS'Prop'
-p6322
+p6967
 aS'19'
-p6323
+p6968
 aS'14'
-p6324
+p6969
 aS'5'
 aS'0'
 aS'1'
 aS'4'
 aS'Newport'
-p6325
+p6970
 aVUnited Kingdom
-p6326
+p6971
 aVNP
-p6327
+p6972
 aVWales
-p6328
-aa(lp6329
+p6973
+aVMonmouthshire
+p6974
+aa(lp6975
 S'Steve Fenwick'
-p6330
+p6976
 aS'1975'
-p6331
+p6977
 aS'Centre'
-p6332
+p6978
 aS'34'
-p6333
+p6979
 aS'21'
-p6334
+p6980
 aS'13'
-p6335
+p6981
 aS'0'
 aS'4'
 aS'152'
-p6336
+p6982
 aS'Caerphilly'
-p6337
+p6983
 aVUnited Kingdom
-p6338
+p6984
 aVCF83
-p6339
+p6985
 aVWales
-p6340
-aa(lp6341
+p6986
+aVMonmouthshire
+p6987
+aa(lp6988
 S'Ray Gravell'
-p6342
+p6989
 aS'1975'
-p6343
+p6990
 aS'Centre'
-p6344
+p6991
 aS'27'
-p6345
+p6992
 aS'17'
-p6346
+p6993
 aS'10'
-p6347
+p6994
 aS'0'
 aS'2'
 aS'8'
 aS'Kidwelly'
-p6348
+p6995
 aVUnited Kingdom
-p6349
+p6996
 aVWales
-p6350
+p6997
 aVCarmarthenshire
-p6351
-aa(lp6352
+p6998
+aVKidwelly
+p6999
+aa(lp7000
 S'Graham Price'
-p6353
+p7001
 aS'1975'
-p6354
+p7002
 aS'Prop'
-p6355
+p7003
 aS'53'
-p6356
+p7004
 aS'27'
-p6357
+p7005
 aS'25'
-p6358
+p7006
 aS'1'
 aS'3'
 aS'12'
-p6359
+p7007
 aS'Moascar'
-p6360
+p7008
 aV\u0627\u0644\u0645\u063a\u0631\u0628 Maroc \u2d4d\u2d4e\u2d30\u2d56\u2d54\u2d49\u2d31
-p6361
+p7009
 aV10000
-p6362
+p7010
 aVRabat-Salé-Kénitra \u0627\u0644\u0631\u0628\u0627\u0637 \u0633\u0644\u0627 \u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629
-p6363
-aa(lp6364
+p7011
+aVPréfecture de Rabat \u0639\u0645\u0627\u0644\u0629 \u0627\u0644\u0631\u0628\u0627\u0637
+p7012
+aa(lp7013
 S'Mike Knill'
-p6365
+p7014
 aS'1976'
-p6366
+p7015
 aS'Prop'
-p6367
+p7016
 aS'1'
 aS'1'
 aS'0'
@@ -16230,20 +17643,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Monkton'
-p6368
+p7017
 aVCanada
-p6369
+p7018
 aVNew Brunswick
-p6370
+p7019
 aVWestmorland County
-p6371
-aa(lp6372
+p7020
+aVMoncton
+p7021
+aa(lp7022
 S'David Burcher'
-p6373
+p7023
 aS'1977'
-p6374
+p7024
 aS'Centre'
-p6375
+p7025
 aS'5'
 aS'3'
 aS'2'
@@ -16251,20 +17666,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p6376
+p7026
 aVUnited Kingdom
-p6377
+p7027
 aVNP
-p6378
+p7028
 aVWales
-p6379
-aa(lp6380
+p7029
+aVMonmouthshire
+p7030
+aa(lp7031
 S'Clive Burgess'
-p6381
+p7032
 aS'1977'
-p6382
+p7033
 aS'Flanker'
-p6383
+p7034
 aS'9'
 aS'5'
 aS'4'
@@ -16272,42 +17689,45 @@ aS'0'
 aS'1'
 aS'4'
 aS'Manmoel'
-p6384
+p7035
 aVUnited Kingdom
-p6385
+p7036
 aVWales
-p6386
+p7037
 aVBlaenau Gwent
-p6387
-aa(lp6388
+p7038
+aVCefn Manmoel - Y Domen Fawr
+p7039
+aa(lp7040
 S'Jeff Squire'
-p6389
+p7041
 aS'1977'
-p6390
+p7042
 aS'Flanker'
-p6391
+p7043
 aS'35'
-p6392
+p7044
 aS'17'
-p6393
+p7045
 aS'17'
-p6394
+p7046
 aS'1'
 aS'3'
 aS'12'
-p6395
+p7047
 aS'Pontywaun'
-p6396
+p7048
 aS'g'
 aS'n'
 aS'i'
-aa(lp6397
+aS's'
+aa(lp7049
 S'Gareth Evans'
-p6398
+p7050
 aS'1977'
-p6399
+p7051
 aS'Wing'
-p6400
+p7052
 aS'6'
 aS'2'
 aS'4'
@@ -16315,66 +17735,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p6401
+p7053
 aVUnited Kingdom
-p6402
+p7054
 aVNP
-p6403
+p7055
 aVWales
-p6404
-aa(lp6405
+p7056
+aVMonmouthshire
+p7057
+aa(lp7058
 S'Clive Williams'
-p6406
+p7059
 aS'1977'
-p6407
+p7060
 aS'Prop'
-p6408
+p7061
 aS'12'
-p6409
+p7062
 aS'5'
 aS'6'
 aS'1'
 aS'1'
 aS'4'
 aS'Porthcawl'
-p6410
+p7063
 aVUnited Kingdom
-p6411
+p7064
 aVCF36
-p6412
+p7065
 aVWales
-p6413
-aa(lp6414
+p7066
+aVBridgend
+p7067
+aa(lp7068
 S'Gareth Davies'
-p6415
+p7069
 aS'1978'
-p6416
+p7070
 aS'Fly-half'
-p6417
+p7071
 aS'22'
-p6418
+p7072
 aS'9'
 aS'13'
-p6419
+p7073
 aS'0'
 aS'0'
 aS'46'
-p6420
+p7074
 aS'Carmarthen'
-p6421
+p7075
 aVUnited Kingdom
-p6422
+p7076
 aVWales
-p6423
+p7077
 aVCarmarthenshire
-p6424
-aa(lp6425
+p7078
+aVCarmarthen
+p7079
+aa(lp7080
 S'Brynmor Williams'
-p6426
+p7081
 aS'1977'
-p6427
+p7082
 aS'Scrum-half'
-p6428
+p7083
 aS'6'
 aS'2'
 aS'4'
@@ -16382,20 +17808,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Cardigan'
-p6429
+p7084
 aVUnited Kingdom
-p6430
+p7085
 aVWales
-p6431
+p7086
 aVCeredigion
-p6432
-aa(lp6433
+p7087
+aVCardigan
+p7088
+aa(lp7089
 S'Stuart Lane'
-p6434
+p7090
 aS'1978'
-p6435
+p7091
 aS'Flanker'
-p6436
+p7092
 aS'5'
 aS'2'
 aS'3'
@@ -16403,20 +17831,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tredegar'
-p6437
+p7093
 aVUnited Kingdom
-p6438
+p7094
 aVWales
-p6439
+p7095
 aVMonmouthshire
-p6440
-aa(lp6441
+p7096
+aVTredegar
+p7097
+aa(lp7098
 S'Clive Davis'
-p6442
+p7099
 aS'1978'
-p6443
+p7100
 aS'Lock'
-p6444
+p7101
 aS'3'
 aS'1'
 aS'2'
@@ -16424,20 +17854,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Tredegar'
-p6445
+p7102
 aVUnited Kingdom
-p6446
+p7103
 aVWales
-p6447
+p7104
 aVMonmouthshire
-p6448
-aa(lp6449
+p7105
+aVTredegar
+p7106
+aa(lp7107
 S'Alun Donovan'
-p6450
+p7108
 aS'1978'
-p6451
+p7109
 aS'Centre'
-p6452
+p7110
 aS'5'
 aS'2'
 aS'3'
@@ -16445,45 +17877,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Abercrave'
-p6453
+p7111
 aVUnited Kingdom
-p6454
+p7112
 aVSA9 1XS
-p6455
+p7113
 aVWales
-p6456
-aa(lp6457
+p7114
+aVPowys
+p7115
+aa(lp7116
 S'Terry Holmes'
-p6458
+p7117
 aS'1978'
-p6459
+p7118
 aS'Scrum-half'
-p6460
+p7119
 aS'26'
-p6461
+p7120
 aS'13'
-p6462
+p7121
 aS'12'
-p6463
+p7122
 aS'1'
 aS'9'
 aS'36'
-p6464
+p7123
 aS'Cardiff'
-p6465
+p7124
 aVUnited Kingdom
-p6466
+p7125
 aVWales
-p6467
+p7126
 aVCardiff
-p6468
-aa(lp6469
+p7127
+ag9
+aa(lp7128
 S'John Richardson'
-p6470
+p7129
 aS'1978'
-p6471
+p7130
 aS'Prop'
-p6472
+p7131
 aS'2'
 aS'1'
 aS'1'
@@ -16491,20 +17926,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Blaencwm'
-p6473
+p7132
 aVUnited Kingdom
-p6474
+p7133
 aVWales
-p6475
+p7134
 aVRhondda Cynon Taf
-p6476
-aa(lp6477
+p7135
+aVBlaencwm
+p7136
+aa(lp7137
 S'Paul Ringer'
-p6478
+p7138
 aS'1978'
-p6479
+p7139
 aS'Flanker'
-p6480
+p7140
 aS'8'
 aS'4'
 aS'4'
@@ -16512,43 +17949,47 @@ aS'0'
 aS'2'
 aS'8'
 aS'Leeds'
-p6481
+p7141
 aVUnited Kingdom
-p6482
+p7142
 aVEngland
-p6483
+p7143
 aVYorkshire and the Humber
-p6484
-aa(lp6485
+p7144
+aVLeeds
+p7145
+aa(lp7146
 S'Elgan Rees'
-p6486
+p7147
 aS'1977'
-p6487
+p7148
 aS'Wing'
-p6488
+p7149
 aS'14'
-p6489
+p7150
 aS'7'
 aS'6'
 aS'1'
 aS'6'
 aS'24'
-p6490
+p7151
 aS'Clydach'
-p6491
+p7152
 aVUnited Kingdom
-p6492
+p7153
 aVWales
-p6493
+p7154
 aVMonmouthshire
-p6494
-aa(lp6495
+p7155
+aVClydach
+p7156
+aa(lp7157
 S'Barry Clegg'
-p6496
+p7158
 aS'1979'
-p6497
+p7159
 aS'Lock'
-p6498
+p7160
 aS'1'
 aS'0'
 aS'1'
@@ -16556,66 +17997,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cymmer'
-p6499
+p7161
 aVUnited Kingdom
-p6500
+p7162
 aVWales
-p6501
+p7163
 aVRhondda Cynon Taf
-p6502
-aa(lp6503
+p7164
+aVCymmer
+p7165
+aa(lp7166
 S'David Richards'
-p6504
+p7167
 aS'1979'
-p6505
+p7168
 aS'Centre'
-p6506
+p7169
 aS'18'
-p6507
+p7170
 aS'8'
 aS'9'
 aS'1'
 aS'4'
 aS'16'
-p6508
+p7171
 aS'Cwmgwrach'
-p6509
+p7172
 aVUnited Kingdom
-p6510
+p7173
 aVWales
-p6511
+p7174
 aVNeath Port Talbot
-p6512
-aa(lp6513
+p7175
+aVCwmgwrach
+p7176
+aa(lp7177
 S'Allan Phillips'
-p6514
+p7178
 aS'1979'
-p6515
+p7179
 aS'Hooker'
-p6516
+p7180
 aS'18'
-p6517
+p7181
 aS'10'
-p6518
+p7182
 aS'8'
 aS'0'
 aS'1'
 aS'4'
 aS'Kenfig Hill'
-p6519
+p7183
 aVUnited Kingdom
-p6520
+p7184
 aVWales
-p6521
+p7185
 aVBridgend
-p6522
-aa(lp6523
+p7186
+aVKenfig Hill
+p7187
+aa(lp7188
 S'Clive Griffiths'
-p6524
+p7189
 aS'1979'
-p6525
+p7190
 aS'Fullback'
-p6526
+p7191
 aS'1'
 aS'1'
 aS'0'
@@ -16623,42 +18070,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Loughor'
-p6527
+p7192
 aVUnited Kingdom
-p6528
+p7193
 aVWales
-p6529
+p7194
 aVSwansea
-p6530
-aa(lp6531
+p7195
+aVLoughor
+p7196
+aa(lp7197
 S'Eddie Butler'
-p6532
+p7198
 aS'1980'
-p6533
+p7199
 aS'No. 8'
-p6534
+p7200
 aS'16'
-p6535
+p7201
 aS'6'
 aS'9'
 aS'1'
 aS'2'
 aS'8'
 aS'Newport'
-p6536
+p7202
 aVUnited Kingdom
-p6537
+p7203
 aVNP
-p6538
+p7204
 aVWales
-p6539
-aa(lp6540
+p7205
+aVMonmouthshire
+p7206
+aa(lp7207
 S'Les Keen'
-p6541
+p7208
 aS'1980'
-p6542
+p7209
 aS'Wing'
-p6543
+p7210
 aS'4'
 aS'2'
 aS'2'
@@ -16666,20 +18117,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Port Talbot'
-p6544
+p7211
 aVUnited Kingdom
-p6545
+p7212
 aVWales
-p6546
+p7213
 aVNeath Port Talbot
-p6547
-aa(lp6548
+p7214
+aVPort Talbot
+p7215
+aa(lp7216
 S'Peter Morgan'
-p6549
+p7217
 aS'1980'
-p6550
+p7218
 aS'Centre'
-p6551
+p7219
 aS'4'
 aS'2'
 aS'2'
@@ -16687,44 +18140,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Broadhaven'
-p6552
+p7220
 aVUnited Kingdom
-p6553
+p7221
 aVCF11 8AZ
-p6554
+p7222
 aVWales
-p6555
-aa(lp6556
+p7223
+aVCardiff
+p7224
+aa(lp7225
 S'Rob Ackerman'
-p6557
+p7226
 aS'1980'
-p6558
+p7227
 aS'Centre'
-p6559
+p7228
 aS'24'
-p6560
+p7229
 aS'10'
-p6561
+p7230
 aS'14'
-p6562
+p7231
 aS'0'
 aS'1'
 aS'4'
 aS'Ebbw Vale'
-p6563
+p7232
 aVUnited Kingdom
-p6564
+p7233
 aVNP23
-p6565
+p7234
 aVWales
-p6566
-aa(lp6567
+p7235
+aVMonmouthshire
+p7236
+aa(lp7237
 S'Gareth Williams'
-p6568
+p7238
 aS'1980'
-p6569
+p7239
 aS'No. 8'
-p6570
+p7240
 aS'5'
 aS'2'
 aS'3'
@@ -16732,20 +18189,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bedlinog'
-p6571
+p7241
 aVUnited Kingdom
-p6572
+p7242
 aVWales
-p6573
+p7243
 aVMerthyr Tydfil
-p6574
-aa(lp6575
+p7244
+aVBedlinog
+p7245
+aa(lp7246
 S'Rhodri Lewis'
-p6576
+p7247
 aS'1981'
-p6577
+p7248
 aS'Flanker'
-p6578
+p7249
 aS'7'
 aS'3'
 aS'4'
@@ -16753,20 +18212,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Maesteg'
-p6579
+p7250
 aVUnited Kingdom
-p6580
+p7251
 aVWales
-p6581
+p7252
 aVBridgend
-p6582
-aa(lp6583
+p7253
+aVMaesteg
+p7254
+aa(lp7255
 S'David Nicholas'
-p6584
+p7256
 aS'1981'
-p6585
+p7257
 aS'Wing'
-p6586
+p7258
 aS'4'
 aS'2'
 aS'2'
@@ -16774,65 +18235,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanelly'
-p6587
+p7259
 aVAustralia
-p6588
+p7260
 aVVictoria
-p6589
+p7261
 aVLoddon Mallee
-p6590
-aa(lp6591
+p7262
+aVShire of Loddon
+p7263
+aa(lp7264
 S'Ian Stephens'
-p6592
+p7265
 aS'1981'
-p6593
+p7266
 aS'Prop'
-p6594
+p7267
 aS'14'
-p6595
+p7268
 aS'6'
 aS'8'
 aS'0'
 aS'0'
 aS'0'
 aS'Tongwynlais'
-p6596
+p7269
 aVUnited Kingdom
-p6597
+p7270
 aVWales
-p6598
+p7271
 aVCardiff
-p6599
-aa(lp6600
+p7272
+aVTongwynlais
+p7273
+aa(lp7274
 S'Gwyn Evans'
-p6601
+p7275
 aS'1981'
-p6602
+p7276
 aS'Fullback'
-p6603
+p7277
 aS'12'
-p6604
+p7278
 aS'3'
 aS'9'
 aS'0'
 aS'0'
 aS'77'
-p6605
+p7279
 aS'Maesteg'
-p6606
+p7280
 aVUnited Kingdom
-p6607
+p7281
 aVWales
-p6608
+p7282
 aVBridgend
-p6609
-aa(lp6610
+p7283
+aVMaesteg
+p7284
+aa(lp7285
 S'Gary Pearce'
-p6611
+p7286
 aS'1981'
-p6612
+p7287
 aS'Fly-half'
-p6613
+p7288
 aS'3'
 aS'1'
 aS'2'
@@ -16840,20 +18307,22 @@ aS'0'
 aS'0'
 aS'6'
 aS'Laugharne'
-p6614
+p7289
 aVUnited Kingdom
-p6615
+p7290
 aVWales
-p6616
+p7291
 aVCarmarthenshire
-p6617
-aa(lp6618
+p7292
+aVLaugharne
+p7293
+aa(lp7294
 S'Gerald Williams'
-p6619
+p7295
 aS'1981'
-p6620
+p7296
 aS'Scrum-half'
-p6621
+p7297
 aS'4'
 aS'1'
 aS'3'
@@ -16861,20 +18330,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p6622
+p7298
 aVUnited Kingdom
-p6623
+p7299
 aVWales
-p6624
+p7300
 aVWest Glamorgan
-p6625
-aa(lp6626
+p7301
+aVSwansea
+p7302
+aa(lp7303
 S'Pat Daniels'
-p6627
+p7304
 aS'1981'
-p6628
+p7305
 aS'Centre'
-p6629
+p7306
 aS'2'
 aS'1'
 aS'1'
@@ -16882,20 +18353,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p6630
+p7307
 aVUnited Kingdom
-p6631
+p7308
 aVWales
-p6632
+p7309
 aVCardiff
-p6633
-aa(lp6634
+p7310
+ag9
+aa(lp7311
 S'Mark Davies'
-p6635
+p7312
 aS'1981'
-p6636
+p7313
 aS'Flanker'
-p6637
+p7314
 aS'3'
 aS'2'
 aS'1'
@@ -16903,43 +18375,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Maesteg'
-p6638
+p7315
 aVUnited Kingdom
-p6639
+p7316
 aVWales
-p6640
+p7317
 aVBridgend
-p6641
-aa(lp6642
+p7318
+aVMaesteg
+p7319
+aa(lp7320
 S'Dick Moriarty'
-p6643
+p7321
 aS'1981'
-p6644
+p7322
 aS'Lock'
-p6645
+p7323
 aS'22'
-p6646
+p7324
 aS'13'
-p6647
+p7325
 aS'8'
 aS'1'
 aS'2'
 aS'8'
 aS'Gorseinon'
-p6648
+p7326
 aVUnited Kingdom
-p6649
+p7327
 aVWales
-p6650
+p7328
 aVWest Glamorgan
-p6651
-aa(lp6652
+p7329
+aVGorseinon
+p7330
+aa(lp7331
 S'Steve Sutton'
-p6653
+p7332
 aS'1982'
-p6654
+p7333
 aS'Lock'
-p6655
+p7334
 aS'9'
 aS'4'
 aS'5'
@@ -16947,227 +18423,245 @@ aS'0'
 aS'0'
 aS'0'
 aS'Abertillery'
-p6656
+p7335
 aVUnited Kingdom
-p6657
+p7336
 aVNP13 1
-p6658
+p7337
 aVWales
-p6659
-aa(lp6660
+p7338
+aVBlaenau Gwent
+p7339
+aa(lp7340
 S'Bob Norster'
-p6661
+p7341
 aS'1982'
-p6662
+p7342
 aS'Lock'
-p6663
+p7343
 aS'37'
-p6664
+p7344
 aS'20'
-p6665
+p7345
 aS'16'
-p6666
+p7346
 aS'1'
 aS'2'
 aS'8'
 aS'Ebbw Vale'
-p6667
+p7347
 aVUnited Kingdom
-p6668
+p7348
 aVNP23
-p6669
+p7349
 aVWales
-p6670
-aa(lp6671
+p7350
+aVMonmouthshire
+p7351
+aa(lp7352
 S'Malcolm Dacey'
-p6672
+p7353
 aS'1983'
-p6673
+p7354
 aS'Fly-half'
-p6674
+p7355
 aS'15'
-p6675
+p7356
 aS'8'
 aS'6'
 aS'1'
 aS'0'
 aS'36'
-p6676
+p7357
 aS'Swansea'
-p6677
+p7358
 aVUnited Kingdom
-p6678
+p7359
 aVWales
-p6679
+p7360
 aVWest Glamorgan
-p6680
-aa(lp6681
+p7361
+aVSwansea
+p7362
+aa(lp7363
 S'Billy James'
-p6682
+p7364
 aS'1983'
-p6683
+p7365
 aS'Hooker'
-p6684
+p7366
 aS'21'
-p6685
+p7367
 aS'11'
-p6686
+p7368
 aS'9'
 aS'1'
 aS'1'
 aS'4'
 aS'Port Talbot'
-p6687
+p7369
 aVUnited Kingdom
-p6688
+p7370
 aVWales
-p6689
+p7371
 aVNeath Port Talbot
-p6690
-aa(lp6691
+p7372
+aVPort Talbot
+p7373
+aa(lp7374
 S'Dai Pickering'
-p6692
+p7375
 aS'1983'
-p6693
+p7376
 aS'Flanker'
-p6694
+p7377
 aS'23'
-p6695
+p7378
 aS'11'
-p6696
+p7379
 aS'11'
-p6697
+p7380
 aS'1'
 aS'3'
 aS'12'
-p6698
+p7381
 aS'Briton Ferry'
-p6699
+p7382
 aVUnited Kingdom
-p6700
+p7383
 aVSA11
-p6701
+p7384
 aVWales
-p6702
-aa(lp6703
+p7385
+aVWest Glamorgan
+p7386
+aa(lp7387
 S'Mark Ring'
-p6704
+p7388
 aS'1983'
-p6705
+p7389
 aS'Centre'
-p6706
+p7390
 aS'32'
-p6707
+p7391
 aS'11'
-p6708
+p7392
 aS'19'
-p6709
+p7393
 aS'2'
 aS'1'
 aS'34'
-p6710
+p7394
 aS'Cardiff'
-p6711
+p7395
 aVUnited Kingdom
-p6712
+p7396
 aVWales
-p6713
+p7397
 aVCardiff
-p6714
-aa(lp6715
+p7398
+ag9
+aa(lp7399
 S'Mark Wyatt'
-p6716
+p7400
 aS'1983'
-p6717
+p7401
 aS'Fullback'
-p6718
+p7402
 aS'10'
-p6719
+p7403
 aS'4'
 aS'5'
 aS'1'
 aS'1'
 aS'81'
-p6720
+p7404
 aS'Crickhowell'
-p6721
+p7405
 aVUnited Kingdom
-p6722
+p7406
 aVWales
-p6723
+p7407
 aVPowys
-p6724
-aa(lp6725
+p7408
+aVCrickhowell
+p7409
+aa(lp7410
 S'Ian Eidman'
-p6726
+p7411
 aS'1983'
-p6727
+p7412
 aS'Prop'
-p6728
+p7413
 aS'13'
-p6729
+p7414
 aS'7'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p6730
+p7415
 aVUnited Kingdom
-p6731
+p7416
 aVWales
-p6732
+p7417
 aVCardiff
-p6733
-aa(lp6734
+p7418
+ag9
+aa(lp7419
 S'Staff Jones'
-p6735
+p7420
 aS'1983'
-p6736
+p7421
 aS'Prop'
-p6737
+p7422
 aS'13'
-p6738
+p7423
 aS'4'
 aS'9'
 aS'0'
 aS'1'
 aS'4'
 aS'Ynysybwl'
-p6739
+p7424
 aVUnited Kingdom
-p6740
+p7425
 aVWales
-p6741
+p7426
 aVRhondda Cynon Taf
-p6742
-aa(lp6743
+p7427
+aVYnysybwl
+p7428
+aa(lp7429
 S'John Perkins'
-p6744
+p7430
 aS'1983'
-p6745
+p7431
 aS'Lock'
-p6746
+p7432
 aS'18'
-p6747
+p7433
 aS'9'
 aS'9'
 aS'0'
 aS'0'
 aS'0'
 aS'Blaenavon'
-p6748
+p7434
 aVUnited Kingdom
-p6749
+p7435
 aVNP4
-p6750
+p7436
 aVWales
-p6751
-aa(lp6752
+p7437
+aVMonmouthshire
+p7438
+aa(lp7439
 S'Richard Donovan'
-p6753
+p7440
 aS'1983'
-p6754
+p7441
 aS''
 aS'1'
 aS'0'
@@ -17176,44 +18670,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llanharan'
-p6755
+p7442
 aVUnited Kingdom
-p6756
+p7443
 aVWales
-p6757
+p7444
 aVRhondda Cynon Taf
-p6758
-aa(lp6759
+p7445
+aVLlanharan
+p7446
+aa(lp7447
 S'Bleddyn Bowen'
-p6760
+p7448
 aS'1983'
-p6761
+p7449
 aS'Centre'
-p6762
+p7450
 aS'24'
-p6763
+p7451
 aS'15'
-p6764
+p7452
 aS'9'
 aS'0'
 aS'5'
 aS'37'
-p6765
+p7453
 aS'Trebanos'
-p6766
+p7454
 aVUnited Kingdom
-p6767
+p7455
 aVWales
-p6768
+p7456
 aVNeath Port Talbot
-p6769
-aa(lp6770
+p7457
+aVTrebanos
+p7458
+aa(lp7459
 S'Mark Brown'
-p6771
+p7460
 aS'1983'
-p6772
+p7461
 aS'Flanker'
-p6773
+p7462
 aS'6'
 aS'4'
 aS'2'
@@ -17221,20 +18719,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p6774
+p7463
 aVUnited Kingdom
-p6775
+p7464
 aVNP
-p6776
+p7465
 aVWales
-p6777
-aa(lp6778
+p7466
+aVMonmouthshire
+p7467
+aa(lp7468
 S'Ray Giles'
-p6779
+p7469
 aS'1983'
-p6780
+p7470
 aS'Scrum-half'
-p6781
+p7471
 aS'3'
 aS'2'
 aS'1'
@@ -17242,45 +18742,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kenfig Hill'
-p6782
+p7472
 aVUnited Kingdom
-p6783
+p7473
 aVWales
-p6784
+p7474
 aVBridgend
-p6785
-aa(lp6786
+p7475
+aVKenfig Hill
+p7476
+aa(lp7477
 S'Adrian Hadley'
-p6787
+p7478
 aS'1983'
-p6788
+p7479
 aS'Centre, Wing'
-p6789
+p7480
 aS'27'
-p6790
+p7481
 aS'17'
-p6791
+p7482
 aS'10'
-p6792
+p7483
 aS'0'
 aS'9'
 aS'36'
-p6793
+p7484
 aS'Cardiff'
-p6794
+p7485
 aVUnited Kingdom
-p6795
+p7486
 aVWales
-p6796
+p7487
 aVCardiff
-p6797
-aa(lp6798
+p7488
+ag9
+aa(lp7489
 S'Terry Shaw'
-p6799
+p7490
 aS'1983'
-p6800
+p7491
 aS'Lock'
-p6801
+p7492
 aS'1'
 aS'0'
 aS'1'
@@ -17288,65 +18791,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ystrad Mynach'
-p6802
+p7493
 aVUnited Kingdom
-p6803
+p7494
 aVCF82 7BP
-p6804
+p7495
 aVWales
-p6805
-aa(lp6806
+p7496
+aVCaerphilly
+p7497
+aa(lp7498
 S'Mark Titley'
-p6807
+p7499
 aS'1983'
-p6808
+p7500
 aS'Wing'
-p6809
+p7501
 aS'15'
-p6810
+p7502
 aS'7'
 aS'8'
 aS'0'
 aS'4'
 aS'16'
-p6811
+p7503
 aS'Swansea'
-p6812
+p7504
 aVUnited Kingdom
-p6813
+p7505
 aVWales
-p6814
+p7506
 aVWest Glamorgan
-p6815
-aa(lp6816
+p7507
+aVSwansea
+p7508
+aa(lp7509
 S'Howell Davies'
-p6817
+p7510
 aS'1984'
-p6818
+p7511
 aS'Fullback'
-p6819
+p7512
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'1'
 aS'39'
-p6820
+p7513
 aS'Pyle'
-p6821
+p7514
 aVFrance
-p6822
+p7515
 aV27370
-p6823
+p7516
 aVFrance métropolitaine
-p6824
-aa(lp6825
+p7517
+aVHaute-Normandie
+p7518
+aa(lp7519
 S'Mark Douglas'
-p6826
+p7520
 aS'1984'
-p6827
+p7521
 aS'Scrum-half'
-p6828
+p7522
 aS'3'
 aS'1'
 aS'2'
@@ -17354,20 +18863,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Aberystwyth'
-p6829
+p7523
 aVUnited Kingdom
-p6830
+p7524
 aVWales
-p6831
+p7525
 aVCeredigion
-p6832
-aa(lp6833
+p7526
+aVAberystwyth
+p7527
+aa(lp7528
 S'Rhys Morgan'
-p6834
+p7529
 aS'1984'
-p6835
+p7530
 aS'Prop'
-p6836
+p7531
 aS'1'
 aS'0'
 aS'1'
@@ -17375,20 +18886,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Southerndown'
-p6837
+p7532
 aVUnited Kingdom
-p6838
+p7533
 aVWales
-p6839
+p7534
 aVVale of Glamorgan
-p6840
-aa(lp6841
+p7535
+aVSoutherndown
+p7536
+aa(lp7537
 S'Mike Watkins'
-p6842
+p7538
 aS'1984'
-p6843
+p7539
 aS'Hooker'
-p6844
+p7540
 aS'4'
 aS'2'
 aS'2'
@@ -17396,20 +18909,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Abercarn'
-p6845
+p7541
 aVUnited Kingdom
-p6846
+p7542
 aVWales
-p6847
+p7543
 aVMonmouthshire
-p6848
-aa(lp6849
+p7544
+aVAbercarn
+p7545
+aa(lp7546
 S'David Bishop'
-p6850
+p7547
 aS'1984'
-p6851
+p7548
 aS'Scrum-half'
-p6852
+p7549
 aS'1'
 aS'0'
 aS'1'
@@ -17417,20 +18932,21 @@ aS'0'
 aS'1'
 aS'4'
 aS'Cardiff'
-p6853
+p7550
 aVUnited Kingdom
-p6854
+p7551
 aVWales
-p6855
+p7552
 aVCardiff
-p6856
-aa(lp6857
+p7553
+ag9
+aa(lp7554
 S'Alun Davies'
-p6858
+p7555
 aS'1984'
-p6859
+p7556
 aS'Flanker'
-p6860
+p7557
 aS'1'
 aS'0'
 aS'1'
@@ -17438,20 +18954,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Carmarthen'
-p6861
+p7558
 aVUnited Kingdom
-p6862
+p7559
 aVWales
-p6863
+p7560
 aVCarmarthenshire
-p6864
-aa(lp6865
+p7561
+aVCarmarthen
+p7562
+aa(lp7563
 S'Phil Lewis'
-p6866
+p7564
 aS'1984'
-p6867
+p7565
 aS'Wing'
-p6868
+p7566
 aS'8'
 aS'4'
 aS'4'
@@ -17459,65 +18977,71 @@ aS'0'
 aS'2'
 aS'8'
 aS'Swansea'
-p6869
+p7567
 aVUnited Kingdom
-p6870
+p7568
 aVWales
-p6871
+p7569
 aVWest Glamorgan
-p6872
-aa(lp6873
+p7570
+aVSwansea
+p7571
+aa(lp7572
 S'Jeff Whitefoot'
-p6874
+p7573
 aS'1984'
-p6875
+p7574
 aS'Prop'
-p6876
+p7575
 aS'19'
-p6877
+p7576
 aS'11'
-p6878
+p7577
 aS'8'
 aS'0'
 aS'0'
 aS'0'
 aS'Bedwas'
-p6879
+p7578
 aVUnited Kingdom
-p6880
+p7579
 aVWales
-p6881
+p7580
 aVCaerphilly
-p6882
-aa(lp6883
+p7581
+aVBedwas
+p7582
+aa(lp7583
 S'Martyn Morris'
-p6884
+p7584
 aS'1985'
-p6885
+p7585
 aS'Flanker'
-p6886
+p7586
 aS'11'
-p6887
+p7587
 aS'3'
 aS'7'
 aS'1'
 aS'0'
 aS'0'
 aS'Neath'
-p6888
+p7588
 aVUnited Kingdom
-p6889
+p7589
 aVWales
-p6890
+p7590
 aVWest Glamorgan
-p6891
-aa(lp6892
+p7591
+aVNeath
+p7592
+aa(lp7593
 S'Stuart Evans'
-p6893
+p7594
 aS'1985'
-p6894
+p7595
 aS'Prop'
-p6895
+p7596
 aS'9'
 aS'7'
 aS'2'
@@ -17525,114 +19049,123 @@ aS'0'
 aS'1'
 aS'4'
 aS'Neath'
-p6896
+p7597
 aVUnited Kingdom
-p6897
+p7598
 aVWales
-p6898
+p7599
 aVWest Glamorgan
-p6899
-aa(lp6900
+p7600
+aVNeath
+p7601
+aa(lp7602
 S'Paul Thorburn'
-p6901
+p7603
 aS'1985'
-p6902
+p7604
 aS'Fullback'
-p6903
+p7605
 aS'37'
-p6904
+p7606
 aS'16'
-p6905
+p7607
 aS'20'
-p6906
+p7608
 aS'1'
 aS'2'
 aS'304'
-p6907
+p7609
 aS'Rheindalen'
-p6908
+p7610
 aS'g'
 aS'n'
 aS'i'
-aa(lp6909
+aS's'
+aa(lp7611
 S'Gareth Roberts'
-p6910
+p7612
 aS'1985'
-p6911
+p7613
 aS'No. 8'
-p6912
+p7614
 aS'7'
 aS'6'
 aS'1'
 aS'0'
 aS'3'
 aS'12'
-p6913
+p7615
 aS'Pontlliw'
-p6914
+p7616
 aVUnited Kingdom
-p6915
+p7617
 aVWales
-p6916
+p7618
 aVSwansea
-p6917
-aa(lp6918
+p7619
+aVPontlliw
+p7620
+aa(lp7621
 S'Jonathan Davies'
-p6919
+p7622
 aS'1985'
-p6920
+p7623
 aS'Fly-half'
-p6921
+p7624
 aS'32'
-p6922
+p7625
 aS'19'
-p6923
+p7626
 aS'13'
-p6924
+p7627
 aS'0'
 aS'5'
 aS'81'
-p6925
+p7628
 aS'Trimsaran'
-p6926
+p7629
 aVUnited Kingdom
-p6927
+p7630
 aVWales
-p6928
+p7631
 aVCarmarthenshire
-p6929
-aa(lp6930
+p7632
+aVTrimsaran
+p7633
+aa(lp7634
 S'Phil Davies'
-p6931
+p7635
 aS'1985'
-p6932
+p7636
 aS'Lock'
-p6933
+p7637
 aS'46'
-p6934
+p7638
 aS'22'
-p6935
+p7639
 aS'23'
-p6936
+p7640
 aS'1'
 aS'5'
 aS'21'
-p6937
+p7641
 aS'Seven Sisters'
-p6938
+p7642
 aVUnited Kingdom
-p6939
+p7643
 aVN15 4NE
-p6940
+p7644
 aVEngland
-p6941
-aa(lp6942
+p7645
+aVGreater London
+p7646
+aa(lp7647
 S'Kevin Hopkins'
-p6943
+p7648
 aS'1985'
-p6944
+p7649
 aS'Centre'
-p6945
+p7650
 aS'7'
 aS'5'
 aS'2'
@@ -17640,67 +19173,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cwmllynfell'
-p6946
+p7651
 aVUnited Kingdom
-p6947
+p7652
 aVWales
-p6948
+p7653
 aVNeath Port Talbot
-p6949
-aa(lp6950
+p7654
+aVCwmllynfell
+p7655
+aa(lp7656
 S'John Devereux'
-p6951
+p7657
 aS'1986'
-p6952
+p7658
 aS'Centre, Wing'
-p6953
+p7659
 aS'21'
-p6954
+p7660
 aS'10'
-p6955
+p7661
 aS'11'
-p6956
+p7662
 aS'0'
 aS'5'
 aS'20'
-p6957
+p7663
 aS'Pontycymmer'
-p6958
+p7664
 aS'g'
 aS'n'
 aS'i'
-aa(lp6959
+aS's'
+aa(lp7665
 S'Robert Jones'
-p6960
+p7666
 aS'1986'
-p6961
+p7667
 aS'Scrum-half'
-p6962
+p7668
 aS'57'
-p6963
+p7669
 aS'24'
-p6964
+p7670
 aS'33'
-p6965
+p7671
 aS'0'
 aS'4'
 aS'19'
-p6966
+p7672
 aS'Trebanos'
-p6967
+p7673
 aVUnited Kingdom
-p6968
+p7674
 aVWales
-p6969
+p7675
 aVNeath Port Talbot
-p6970
-aa(lp6971
+p7676
+aVTrebanos
+p7677
+aa(lp7678
 S'David Waters'
-p6972
+p7679
 aS'1986'
-p6973
+p7680
 aS'Lock'
-p6974
+p7681
 aS'4'
 aS'2'
 aS'2'
@@ -17708,44 +19246,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p6975
+p7682
 aVUnited Kingdom
-p6976
+p7683
 aVNP
-p6977
+p7684
 aVWales
-p6978
-aa(lp6979
+p7685
+aVMonmouthshire
+p7686
+aa(lp7687
 S'Paul Moriarty'
-p6980
+p7688
 aS'1986'
-p6981
+p7689
 aS'Flanker'
-p6982
+p7690
 aS'21'
-p6983
+p7691
 aS'14'
-p6984
+p7692
 aS'7'
 aS'0'
 aS'4'
 aS'16'
-p6985
+p7693
 aS'Morriston'
-p6986
+p7694
 aVUnited Kingdom
-p6987
+p7695
 aVWales
-p6988
+p7696
 aVSwansea
-p6989
-aa(lp6990
+p7697
+aVMorriston
+p7698
+aa(lp7699
 S'Huw Richards'
-p6991
+p7700
 aS'1986'
-p6992
+p7701
 aS'Lock'
-p6993
+p7702
 aS'4'
 aS'3'
 aS'1'
@@ -17753,116 +19295,124 @@ aS'0'
 aS'0'
 aS'0'
 aS'Carmarthen'
-p6994
+p7703
 aVUnited Kingdom
-p6995
+p7704
 aVWales
-p6996
+p7705
 aVCarmarthenshire
-p6997
-aa(lp6998
+p7706
+aVCarmarthen
+p7707
+aa(lp7708
 S'Glen Webbe'
-p6999
+p7709
 aS'1986'
-p7000
+p7710
 aS'Wing'
-p7001
+p7711
 aS'10'
-p7002
+p7712
 aS'5'
 aS'5'
 aS'0'
 aS'4'
 aS'16'
-p7003
+p7713
 aS'Cardiff'
-p7004
+p7714
 aVUnited Kingdom
-p7005
+p7715
 aVWales
-p7006
+p7716
 aVCardiff
-p7007
-aa(lp7008
+p7717
+ag9
+aa(lp7718
 S'Ieuan Evans'
-p7009
+p7719
 aS'1987'
-p7010
+p7720
 aS'Wing'
-p7011
+p7721
 aS'79'
-p7012
+p7722
 aS'34'
-p7013
+p7723
 aS'44'
-p7014
+p7724
 aS'1'
 aS'34'
-p7015
+p7725
 aS'161'
-p7016
+p7726
 aS'Capel Dewi'
-p7017
+p7727
 aVUnited Kingdom
-p7018
+p7728
 aVWales
-p7019
+p7729
 aVCarmarthenshire
-p7020
-aa(lp7021
+p7730
+aVCapel Dewi
+p7731
+aa(lp7732
 S'Kevin Phillips'
-p7022
+p7733
 aS'1987'
-p7023
+p7734
 aS'Hooker'
-p7024
+p7735
 aS'20'
-p7025
+p7736
 aS'6'
 aS'13'
-p7026
+p7737
 aS'1'
 aS'0'
 aS'0'
 aS'Whitland'
-p7027
+p7738
 aVUnited Kingdom
-p7028
+p7739
 aVWales
-p7029
+p7740
 aVCarmarthenshire
-p7030
-aa(lp7031
+p7741
+aVWhitland
+p7742
+aa(lp7743
 S'Richie Collins'
-p7032
+p7744
 aS'1987'
-p7033
+p7745
 aS'Flanker'
-p7034
+p7746
 aS'28'
-p7035
+p7747
 aS'12'
-p7036
+p7748
 aS'16'
-p7037
+p7749
 aS'0'
 aS'2'
 aS'9'
 aS'Cardiff'
-p7038
+p7750
 aVUnited Kingdom
-p7039
+p7751
 aVWales
-p7040
+p7752
 aVCardiff
-p7041
-aa(lp7042
+p7753
+ag9
+aa(lp7754
 S'Peter Francis'
-p7043
+p7755
 aS'1987'
-p7044
+p7756
 aS'Prop'
-p7045
+p7757
 aS'1'
 aS'0'
 aS'1'
@@ -17870,43 +19420,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cowbridge'
-p7046
+p7758
 aVUnited Kingdom
-p7047
+p7759
 aVWales
-p7048
+p7760
 aVVale of Glamorgan
-p7049
-aa(lp7050
+p7761
+aVCowbridge
+p7762
+aa(lp7763
 S'Mark Jones'
-p7051
+p7764
 aS'1987'
-p7052
+p7765
 aS'Back-row'
-p7053
+p7766
 aS'15'
-p7054
+p7767
 aS'4'
 aS'11'
-p7055
+p7768
 aS'0'
 aS'2'
 aS'8'
 aS'Tredegar'
-p7056
+p7769
 aVUnited Kingdom
-p7057
+p7770
 aVWales
-p7058
+p7771
 aVMonmouthshire
-p7059
-aa(lp7060
+p7772
+aVTredegar
+p7773
+aa(lp7774
 S'Steven Blackmore'
-p7061
+p7775
 aS'1987'
-p7062
+p7776
 aS'Prop'
-p7063
+p7777
 aS'4'
 aS'3'
 aS'1'
@@ -17914,20 +19468,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p7064
+p7778
 aVUnited Kingdom
-p7065
+p7779
 aVWales
-p7066
+p7780
 aVCardiff
-p7067
-aa(lp7068
+p7781
+ag9
+aa(lp7782
 S'Anthony Buchanan'
-p7069
+p7783
 aS'1987'
-p7070
+p7784
 aS'Prop'
-p7071
+p7785
 aS'5'
 aS'4'
 aS'1'
@@ -17935,1769 +19490,56 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ystradgynlais'
-p7072
-aVUnited Kingdom
-p7073
-aVWales
-p7074
-aVPowys
-p7075
-aa(lp7076
-S'Dai Young'
-p7077
-aS'1987'
-p7078
-aS'Prop'
-p7079
-aS'54'
-p7080
-aS'28'
-p7081
-aS'25'
-p7082
-aS'1'
-aS'1'
-aS'4'
-aS'Aberdare'
-p7083
-aVUnited Kingdom
-p7084
-aVWales
-p7085
-aVMid Glamorgan
-p7086
-aa(lp7087
-S'Richard Webster'
-p7088
-aS'1987'
-p7089
-aS'Flanker'
-p7090
-aS'13'
-p7091
-aS'5'
-aS'8'
-aS'0'
-aS'1'
-aS'4'
-aS'Swansea'
-p7092
-aVUnited Kingdom
-p7093
-aVWales
-p7094
-aVWest Glamorgan
-p7095
-aa(lp7096
-S'Rowland Phillips'
-p7097
-aS'1987'
-p7098
-aS'Back-row'
-p7099
-aS'10'
-p7100
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS"St David's"
-p7101
-aVUnited Kingdom
-p7102
-aVWales
-p7103
-aVPembrokeshire
-p7104
-aa(lp7105
-S'Jeremy Pugh'
-p7106
-aS'1987'
-p7107
-aS'Prop'
-p7108
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Builth Wells'
-p7109
-aVUnited Kingdom
-p7110
-aVLD2
-p7111
-aVWales
-p7112
-aa(lp7113
-S'Stuart Russell'
-p7114
-aS'1987'
-p7115
-aS'Lock'
-p7116
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'1963'
-p7117
-aVÖsterreich
-p7118
-aV8362
-p7119
-aVSteiermark
-p7120
-aa(lp7121
-S'Tony Clement'
-p7122
-aS'1987'
-p7123
-aS'Fullback'
-p7124
-aS'37'
-p7125
-aS'16'
-p7126
-aS'21'
-p7127
-aS'0'
-aS'3'
-aS'16'
-p7128
-aS'Morriston'
-p7129
-aVUnited Kingdom
-p7130
-aVWales
-p7131
-aVSwansea
-p7132
-aa(lp7133
-S'Phil May'
-p7134
-aS'1988'
-p7135
-aS'Lock'
-p7136
-aS'7'
-aS'3'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'Carmarthen'
-p7137
-aVUnited Kingdom
-p7138
-aVWales
-p7139
-aVCarmarthenshire
-p7140
-aa(lp7141
-S'Ian Watkins'
-p7142
-aS'1988'
-p7143
-aS'Hooker'
-p7144
-aS'10'
-p7145
-aS'4'
-aS'6'
-aS'0'
-aS'1'
-aS'4'
-aS'Ebbw Vale'
-p7146
-aVUnited Kingdom
-p7147
-aVNP23
-p7148
-aVWales
-p7149
-aa(lp7150
-S'David Bryant'
-p7151
-aS'1988'
-p7152
-aS'Flanker'
-p7153
-aS'8'
-aS'2'
-aS'6'
-aS'0'
-aS'0'
-aS'0'
-aS'Bridgend'
-p7154
-aVUnited Kingdom
-p7155
-aVWales
-p7156
-aVBridgend
-p7157
-aa(lp7158
-S'Tim Fauvel'
-p7159
-aS'1988'
-p7160
-aS'No. 8'
-p7161
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Bridgend'
-p7162
-aVUnited Kingdom
-p7163
-aVWales
-p7164
-aVBridgend
-p7165
-aa(lp7166
-S'Mike Hall'
-p7167
-aS'1988'
-p7168
-aS'Centre'
-p7169
-aS'43'
-p7170
-aS'16'
-p7171
-aS'27'
-p7172
-aS'0'
-aS'7'
-aS'33'
-p7173
-aS'Bridgend'
-p7174
-aVUnited Kingdom
-p7175
-aVWales
-p7176
-aVBridgend
-p7177
-aa(lp7178
-S'Nigel Davies'
-p7179
-aS'1988'
-p7180
-aS'Centre'
-p7181
-aS'29'
-p7182
-aS'13'
-p7183
-aS'16'
-p7184
-aS'0'
-aS'5'
-aS'23'
-p7185
-aS'Llanelly'
-p7186
-aVAustralia
-p7187
-aVVictoria
-p7188
-aVLoddon Mallee
-p7189
-aa(lp7190
-S'Jonathan Griffiths'
-p7191
-aS'1988'
-p7192
-aS'Scrum-half'
-p7193
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Carmarthen'
-p7194
-aVUnited Kingdom
-p7195
-aVWales
-p7196
-aVCarmarthenshire
-p7197
-aa(lp7198
-S'Gary Jones'
-p7199
-aS'1988'
-p7200
-aS'Flanker'
-p7201
-aS'5'
-aS'1'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'Porth'
-p7202
-aVUnited Kingdom
-p7203
-aVCF39
-p7204
-aVWales
-p7205
-aa(lp7206
-S'Kevin Moseley'
-p7207
-aS'1988'
-p7208
-aS'Lock'
-p7209
-aS'9'
-aS'1'
-aS'8'
-aS'0'
-aS'0'
-aS'0'
-aS'Caerphilly'
-p7210
-aVUnited Kingdom
-p7211
-aVCF83
-p7212
-aVWales
-p7213
-aa(lp7214
-S'Jonathan Mason'
-p7215
-aS'1988'
-p7216
-aS'Fullback'
-p7217
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Aberdare'
-p7218
-aVUnited Kingdom
-p7219
-aVWales
-p7220
-aVMid Glamorgan
-p7221
-aa(lp7222
-S'Carwyn Davies'
-p7223
-aS'1988'
-p7224
-aS'Wing'
-p7225
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'1'
-aS'4'
-aS'Llandovery'
-p7226
-aVUnited Kingdom
-p7227
-aVWales
-p7228
-aVCarmarthenshire
-p7229
-aa(lp7230
-S'Mike Griffiths'
-p7231
-aS'1988'
-p7232
-aS'Prop'
-p7233
-aS'35'
-p7234
-aS'12'
-p7235
-aS'22'
-p7236
-aS'1'
-aS'0'
-aS'0'
-aS'Tonypandy'
-p7237
-aVUnited Kingdom
-p7238
-aVWales
-p7239
-aVRhondda Cynon Taf
-p7240
-aa(lp7241
-S'Wayne Hall'
-p7242
-aS'1988'
-p7243
-aS'Hooker'
-p7244
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Pencoed'
-p7245
-aVUnited Kingdom
-p7246
-aVCF35
-p7247
-aVWales
-p7248
-aa(lp7249
-S'John Wakeford'
-p7250
-aS'1988'
-p7251
-aS'Lock'
-p7252
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'1'
-aS'4'
-aS'Cardiff'
-p7253
-aVUnited Kingdom
-p7254
-aVWales
-p7255
-aVCardiff
-p7256
-aa(lp7257
-S'Richard Wintle'
-p7258
-aS'1988'
-p7259
-aS'Wing, Centre'
-p7260
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Kenfig Hill'
-p7261
-aVUnited Kingdom
-p7262
-aVWales
-p7263
-aVBridgend
-p7264
-aa(lp7265
-S'Richard Diplock'
-p7266
-aS'1988'
-p7267
-aS'Wing'
-p7268
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Ebbw Vale'
-p7269
-aVUnited Kingdom
-p7270
-aVNP23
-p7271
-aVWales
-p7272
-aa(lp7273
-S'Hugh Williams-Jones'
-p7274
-aS'1989'
-p7275
-aS'Prop'
-p7276
-aS'17'
-p7277
-aS'7'
-aS'10'
-p7278
-aS'0'
-aS'0'
-aS'0'
-aS'Bryncethin'
-p7279
-aVUnited Kingdom
-p7280
-aVWales
-p7281
-aVBridgend
-p7282
-aa(lp7283
-S'Laurance Delaney'
-p7284
-aS'1989'
-p7285
-aS'Prop'
-p7286
-aS'11'
-p7287
-aS'3'
-aS'8'
-aS'0'
-aS'0'
-aS'0'
-aS'Llanelly'
-p7288
-aVAustralia
-p7289
-aVVictoria
-p7290
-aVLoddon Mallee
-p7291
-aa(lp7292
-S'Paul Turner'
-p7293
-aS'1989'
-p7294
-aS'Fly-half'
-p7295
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Newport'
-p7296
-aVUnited Kingdom
-p7297
-aVNP
-p7298
-aVWales
-p7299
-aa(lp7300
-S'David Evans'
-p7301
-aS'1989'
-p7302
-aS'Fly-half'
-p7303
-aS'12'
-p7304
-aS'2'
-aS'10'
-p7305
-aS'0'
-aS'0'
-aS'6'
-aS'Wootton Bassett'
-p7306
-aVUnited Kingdom
-p7307
-aVSN4
-p7308
-aVEngland
-p7309
-aa(lp7310
-S'Arthur Jones'
-p7311
-aS'1989'
-p7312
-aS'Wing'
-p7313
-aS'13'
-p7314
-aS'4'
-aS'9'
-aS'0'
-aS'4'
-aS'16'
-p7315
-aS'Bangor'
-p7316
-aVUnited States of America
-p7317
-aVMaine
-p7318
-aVPenobscot County
-p7319
-aa(lp7320
-S'Gareth Llewellyn'
-p7321
-aS'1989'
-p7322
-aS'Lock'
-p7323
-aS'92'
-p7324
-aS'38'
-p7325
-aS'54'
-p7326
-aS'0'
-aS'5'
-aS'24'
-p7327
-aS'Cardiff'
-p7328
-aVUnited Kingdom
-p7329
-aVWales
-p7330
-aVCardiff
-p7331
-aa(lp7332
-S'Phil Pugh'
-p7333
-aS'1989'
-p7334
-aS'Flanker'
-p7335
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Seven Sisters'
-p7336
-aVUnited Kingdom
-p7337
-aVN15 4NE
-p7338
-aVEngland
-p7339
-aa(lp7340
-S'Andy Allen'
-p7341
-aS'1990'
-p7342
-aS'Lock'
-p7343
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Newport'
-p7344
-aVUnited Kingdom
-p7345
-aVNP
-p7346
-aVWales
-p7347
-aa(lp7348
-S'Allan Bateman'
-p7349
-aS'1990'
-p7350
-aS'Centre'
-p7351
-aS'36'
-p7352
-aS'21'
-p7353
-aS'15'
-p7354
-aS'0'
-aS'10'
-p7355
-aS'50'
-p7356
-aS'Maesteg'
-p7357
-aVUnited Kingdom
-p7358
-aVWales
-p7359
-aVBridgend
-p7360
-aa(lp7361
-S'Mark Perego'
-p7362
-aS'1990'
-p7363
-aS'Flanker'
-p7364
-aS'9'
-aS'6'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Hants'
-p7365
-aVCanada
-p7366
-aVNova Scotia
-p7367
-aVHants County
-p7368
-aa(lp7369
-S'Brian Williams'
-p7370
-aS'1990'
-p7371
-aS'Prop'
-p7372
-aS'5'
-aS'0'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'Penffordd'
-p7373
-aVUnited Kingdom
-p7374
-aVWales
-p7375
-aVCeredigion
-p7376
-aa(lp7377
-S'Steve Ford'
-p7378
-aS'1990'
-p7379
-aS'Wing'
-p7380
-aS'8'
-aS'2'
-aS'5'
-aS'1'
-aS'2'
-aS'8'
-aS'Cardiff'
-p7381
-aVUnited Kingdom
-p7382
-aVWales
-p7383
-aVCardiff
-p7384
-aa(lp7385
-S'Alan Edmunds'
-p7386
-aS'1990'
-p7387
-aS'Wing'
-p7388
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Neath'
-p7389
-aVUnited Kingdom
-p7390
-aVWales
-p7391
-aVWest Glamorgan
-p7392
-aa(lp7393
-S'Paul Arnold'
-p7394
-aS'1990'
-p7395
-aS'No. 8, Lock'
-p7396
-aS'16'
-p7397
-aS'7'
-aS'8'
-aS'1'
-aS'2'
-aS'8'
-aS'Morriston'
-p7398
-aVUnited Kingdom
-p7399
-aVWales
-p7400
-aVSwansea
-p7401
-aa(lp7402
-S'Chris Bridges'
-p7403
-aS'1990'
-p7404
-aS'Scrum-half'
-p7405
-aS'7'
-aS'2'
-aS'4'
-aS'1'
-aS'1'
-aS'4'
-aS'Beddau'
-p7406
-aVUnited Kingdom
-p7407
-aVWales
-p7408
-aVRhondda Cynon Taf
-p7409
-aa(lp7410
-S'Paul Knight'
-p7411
-aS'1990'
-p7412
-aS'Prop'
-p7413
-aS'5'
-aS'2'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Tonypandy'
-p7414
-aVUnited Kingdom
-p7415
-aVWales
-p7416
-aVRhondda Cynon Taf
-p7417
-aa(lp7418
-S'Glyn Llewellyn'
-p7419
-aS'1990'
-p7420
-aS'Lock'
-p7421
-aS'9'
-aS'2'
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'Bradford-on-Avon'
-p7422
-aVUnited Kingdom
-p7423
-aVBA15 1
-p7424
-aVEngland
-p7425
-aa(lp7426
-S'Alan Reynolds'
-p7427
-aS'1990'
-p7428
-aS'Flanker'
-p7429
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Carmarthen'
-p7430
-aVUnited Kingdom
-p7431
-aVWales
-p7432
-aVCarmarthenshire
-p7433
-aa(lp7434
-S'Stuart Parfitt'
-p7435
-aS'1990'
-p7436
-aS'Centre'
-p7437
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Usk'
-p7438
-aVUnited Kingdom
-p7439
-aVWales
-p7440
-aVMonmouthshire
-p7441
-aa(lp7442
-S'Owain Williams'
-p7443
-aS'1990'
-p7444
-aS'Flanker'
-p7445
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'4'
-aS'Ogmore-by-Sea'
-p7446
-aVUnited Kingdom
-p7447
-aVWales
-p7448
-aVVale of Glamorgan
-p7449
-aa(lp7450
-S'Aled Williams'
-p7451
-aS'1990'
-p7452
-aS'Fly-half'
-p7453
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Cardigan'
-p7454
-aVUnited Kingdom
-p7455
-aVWales
-p7456
-aVCeredigion
-p7457
-aa(lp7458
-S'Adrian Davies'
-p7459
-aS'1990'
-p7460
-aS'Fly-half'
-p7461
-aS'9'
-aS'5'
-aS'4'
-aS'0'
-aS'0'
-aS'22'
-p7462
-aS'Bridgend'
-p7463
-aVUnited Kingdom
-p7464
-aVWales
-p7465
-aVBridgend
-p7466
-aa(lp7467
-S'Alun Carter'
-p7468
-aS'1991'
-p7469
-aS'Flanker'
-p7470
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Newport'
-p7471
-aVUnited Kingdom
-p7472
-aVNP
-p7473
-aVWales
-p7474
-aa(lp7475
-S'Glenn George'
-p7476
-aS'1991'
-p7477
-aS'Flanker'
-p7478
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Newport'
-p7479
-aVUnited Kingdom
-p7480
-aVNP
-p7481
-aVWales
-p7482
-aa(lp7483
-S'Scott Gibbs'
-p7484
-aS'1991'
-p7485
-aS'Centre'
-p7486
-aS'58'
-p7487
-aS'27'
-p7488
-aS'29'
-p7489
-aS'2'
-aS'11'
-p7490
-aS'55'
-p7491
-aS'Bridgend'
-p7492
-aVUnited Kingdom
-p7493
-aVWales
-p7494
-aVBridgend
-p7495
-aa(lp7496
-S'Neil Jenkins'
-p7497
-aS'1991'
-p7498
-aS'Fly-half'
-p7499
-aS'91'
-p7500
-aS'46'
-p7501
-aS'43'
-p7502
-aS'2'
-aS'11'
-p7503
-aS'1090'
-p7504
-aS'Church Village'
-p7505
-aVUnited Kingdom
-p7506
-aVWales
-p7507
-aVRhondda Cynon Taf
-p7508
-aa(lp7509
-S'John Davies'
-p7510
-aS'1991'
-p7511
-aS'Prop'
-p7512
-aS'34'
-p7513
-aS'16'
-p7514
-aS'17'
-p7515
-aS'1'
-aS'1'
-aS'5'
-aS'Carmarthen'
-p7516
-aVUnited Kingdom
-p7517
-aVWales
-p7518
-aVCarmarthenshire
-p7519
-aa(lp7520
-S'Emyr Lewis'
-p7521
-aS'1991'
-p7522
-aS'No. 8'
-p7523
-aS'41'
-p7524
-aS'19'
-p7525
-aS'21'
-p7526
-aS'1'
-aS'3'
-aS'15'
-p7527
-aS'Carmarthen'
-p7528
-aVUnited Kingdom
-p7529
-aVWales
-p7530
-aVCarmarthenshire
-p7531
-aa(lp7532
-S'Mark Davis'
-p7533
-aS'1991'
-p7534
-aS'Prop'
-p7535
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Newport'
-p7536
-aVUnited Kingdom
-p7537
-aVNP
-p7538
-aVWales
-p7539
-aa(lp7540
-S'Garin Jenkins'
-p7541
-aS'1991'
-p7542
-aS'Hooker'
-p7543
-aS'58'
-p7544
-aS'34'
-p7545
-aS'24'
-p7546
-aS'0'
-aS'2'
-aS'10'
-p7547
-aS'Ynysybwl'
-p7548
-aVUnited Kingdom
-p7549
-aVWales
-p7550
-aVRhondda Cynon Taf
-p7551
-aa(lp7552
-S'Luc Evans'
-p7553
-aS'1991'
-p7554
-aS'Fly-half'
-p7555
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Treherbert'
-p7556
-aVUnited Kingdom
-p7557
-aVCF42 5BG
-p7558
-aVWales
-p7559
-aa(lp7560
-S'Ken Waters'
-p7561
-aS'1991'
-p7562
-aS'Hooker'
-p7563
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cwmbran'
-p7564
-aVUnited Kingdom
-p7565
-aVNP44
-p7566
-aVWales
-p7567
-aa(lp7568
-S'Mike Rayer'
-p7569
-aS'1991'
-p7570
-aS'Fullback'
-p7571
-aS'21'
-p7572
-aS'13'
-p7573
-aS'8'
-aS'0'
-aS'4'
-aS'23'
-p7574
-aS'Cardiff'
-p7575
-aVUnited Kingdom
-p7576
-aVWales
-p7577
-aVCardiff
-p7578
-aa(lp7579
-S'Tony Copsey'
-p7580
-aS'1992'
-p7581
-aS'Lock'
-p7582
-aS'16'
-p7583
-aS'8'
-aS'8'
-aS'0'
-aS'0'
-aS'0'
-aS'Essex'
-p7584
-aVUnited Kingdom
-p7585
-aVEngland
-p7586
-aVEast of England
-p7587
-aa(lp7588
-S'Stuart Davies'
-p7589
-aS'1992'
-p7590
-aS'No. 8'
-p7591
-aS'17'
-p7592
-aS'9'
-aS'8'
-aS'0'
-aS'2'
-aS'9'
-aS'Swansea'
-p7593
-aVUnited Kingdom
-p7594
-aVWales
-p7595
-aVWest Glamorgan
-p7596
-aa(lp7597
-S'Colin Stephens'
-p7598
-aS'1992'
-p7599
-aS'Fly-half'
-p7600
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'0'
-aS'9'
-aS'Morriston'
-p7601
-aVUnited Kingdom
-p7602
-aVWales
-p7603
-aVSwansea
-p7604
-aa(lp7605
-S'Roger Bidgood'
-p7606
-aS'1992'
-p7607
-aS'Centre'
-p7608
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'1'
-aS'5'
-aS'Caerphilly'
-p7609
-aVUnited Kingdom
-p7610
-aVCF83
-p7611
-aVWales
-p7612
-aa(lp7613
-S'Wayne Proctor'
-p7614
-aS'1992'
-p7615
-aS'Wing'
-p7616
-aS'39'
-p7617
-aS'20'
-p7618
-aS'19'
-p7619
-aS'0'
-aS'11'
-p7620
-aS'55'
-p7621
-aS'Bridgend'
-p7622
-aVUnited Kingdom
-p7623
-aVWales
-p7624
-aVBridgend
-p7625
-aa(lp7626
-S'Ricky Evans'
-p7627
-aS'1993'
-p7628
-aS'Prop'
-p7629
-aS'19'
-p7630
-aS'10'
-p7631
-aS'9'
-aS'0'
-aS'0'
-aS'0'
-aS'Cardigan'
-p7632
-aVUnited Kingdom
-p7633
-aVWales
-p7634
-aVCeredigion
-p7635
-aa(lp7636
-S'Nigel Meek'
-p7637
-aS'1993'
-p7638
-aS'Hooker'
-p7639
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Blaina'
-p7640
-aVUnited Kingdom
-p7641
-aVWales
-p7642
-aVBlaenau Gwent
-p7643
-aa(lp7644
-S'Nigel Walker'
-p7645
-aS'1993'
-p7646
-aS'Wing'
-p7647
-aS'17'
-p7648
-aS'10'
-p7649
-aS'7'
-aS'0'
-aS'12'
-p7650
-aS'60'
-p7651
-aS'Cardiff'
-p7652
-aVUnited Kingdom
-p7653
-aVWales
-p7654
-aVCardiff
-p7655
-aa(lp7656
-S'Andrew Lamerton'
-p7657
-aS'1993'
-p7658
-aS'Hooker'
-p7659
-aS'5'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Pontypridd'
-p7660
-aVUnited Kingdom
-p7661
-aVCF37; CF38
-p7662
-aVWales
-p7663
-aa(lp7664
-S'Rupert Moon'
-p7665
-aS'1993'
-p7666
-aS'Scrum-half'
-p7667
-aS'24'
-p7668
-aS'16'
-p7669
-aS'7'
-aS'1'
-aS'3'
-aS'15'
-p7670
-aS'Birmingham'
-p7671
-aVUnited Kingdom
-p7672
-aVEngland
-p7673
-aVWest Midlands
-p7674
-aa(lp7675
-S'Simon Hill'
-p7676
-aS'1993'
-p7677
-aS'Wing'
-p7678
-aS'12'
-p7679
-aS'6'
-aS'6'
-aS'0'
-aS'2'
-aS'10'
-p7680
-aS'Barry'
-p7681
-aVUnited Kingdom
-p7682
-aVCF62
-p7683
-aVWales
-p7684
-aa(lp7685
-S'Lyn Jones'
-p7686
-aS'1993'
-p7687
-aS'Flanker'
-p7688
-aS'5'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cwmasfan'
-p7689
-aS'g'
-aS'n'
-aS'i'
-aa(lp7690
-S'Neil Boobyer'
-p7691
-aS'1993'
-p7692
-aS'Centre'
-p7693
-aS'7'
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Bridgend'
-p7694
-aVUnited Kingdom
-p7695
-aVWales
-p7696
-aVBridgend
-p7697
-aa(lp7698
-S'Scott Quinnell'
-p7699
-aS'1993'
-p7700
-aS'No. 8'
-p7701
-aS'55'
-p7702
-aS'31'
-p7703
-aS'23'
-p7704
-aS'1'
-aS'12'
-p7705
-aS'60'
-p7706
-aS'Llanelli'
-p7707
-aVUnited Kingdom
-p7708
-aVWales
-p7709
-aVCarmarthenshire
-p7710
-aa(lp7711
-S'Hemi Taylor'
-p7712
-aS'1994'
-p7713
-aS'Flanker'
-p7714
-aS'24'
-p7715
-aS'11'
-p7716
-aS'13'
-p7717
-aS'0'
-aS'5'
-aS'25'
-p7718
-aS'Morrinsville'
-p7719
-aVNew Zealand/Aotearoa
-p7720
-aVWaikato
-p7721
-aVMatamata Piako District
-p7722
-aa(lp7723
-S'Robin McBryde'
-p7724
-aS'1994'
-p7725
-aS'Hooker'
-p7726
-aS'37'
-p7727
-aS'17'
-p7728
-aS'19'
-p7729
-aS'1'
-aS'1'
-aS'5'
-aS'Bangor'
-p7730
-aVUnited States of America
-p7731
-aVMaine
-p7732
-aVPenobscot County
-p7733
-aa(lp7734
-S'Ian Buckett'
-p7735
-aS'1994'
-p7736
-aS'Prop'
-p7737
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Holywell'
-p7738
-aVUnited Kingdom
-p7739
-aVWales
-p7740
-aVFlintshire
-p7741
-aa(lp7742
-S'Paul John'
-p7743
-aS'1994'
-p7744
-aS'Scrum-half'
-p7745
-aS'10'
-p7746
-aS'9'
-aS'1'
-aS'0'
-aS'1'
-aS'5'
-aS'Pontypridd'
-p7747
-aVUnited Kingdom
-p7748
-aVCF37; CF38
-p7749
-aVWales
-p7750
-aa(lp7751
-S'Gwilym Wilkins'
-p7752
-aS'1994'
-p7753
-aS'Wing'
-p7754
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Parramatta'
-p7755
-aVAustralia
-p7756
-aV2150
-p7757
-aVNew South Wales
-p7758
-aa(lp7759
-S'Steve Williams'
-p7760
-aS'1994'
-p7761
-aS'No. 8, Lock'
-p7762
-aS'28'
-p7763
-aS'12'
-p7764
-aS'16'
-p7765
-aS'0'
-aS'2'
-aS'10'
-p7766
-aS'Neath'
-p7767
-aVUnited Kingdom
-p7768
-aVWales
-p7769
-aVWest Glamorgan
-p7770
-aa(lp7771
-S'Derwyn Jones'
-p7772
-aS'1994'
-p7773
-aS'Lock'
-p7774
-aS'19'
-p7775
-aS'6'
-aS'13'
-p7776
-aS'0'
-aS'0'
-aS'0'
-aS'Carmarthen'
-p7777
-aVUnited Kingdom
-p7778
-aVWales
-p7779
-aVCarmarthenshire
-p7780
-aa(lp7781
-S'Mark Taylor'
-p7782
-aS'1994'
-p7783
-aS'Centre'
-p7784
-aS'52'
-p7785
-aS'24'
 p7786
-aS'27'
-p7787
-aS'1'
-aS'12'
-p7788
-aS'60'
-p7789
-aS'Blaenavon'
-p7790
 aVUnited Kingdom
-p7791
-aVNP4
-p7792
+p7787
 aVWales
+p7788
+aVPowys
+p7789
+aVYstradgynlais
+p7790
+aa(lp7791
+S'Dai Young'
+p7792
+aS'1987'
 p7793
-aa(lp7794
-S'Matt Back'
+aS'Prop'
+p7794
+aS'54'
 p7795
-aS'1995'
+aS'28'
 p7796
-aS'Fullback'
+aS'25'
 p7797
+aS'1'
+aS'1'
 aS'4'
-aS'0'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'Pontypridd'
+aS'Aberdare'
 p7798
 aVUnited Kingdom
 p7799
-aVCF37; CF38
-p7800
 aVWales
+p7800
+aVMid Glamorgan
 p7801
-aa(lp7802
-S'Spencer John'
-p7803
-aS'1995'
+aVAberdare
+p7802
+aa(lp7803
+S'Richard Webster'
 p7804
-aS'Prop'
+aS'1987'
 p7805
-aS'18'
+aS'Flanker'
 p7806
-aS'5'
-aS'12'
+aS'13'
 p7807
+aS'5'
+aS'8'
+aS'0'
 aS'1'
-aS'0'
-aS'0'
-aS'W Glamorgan'
+aS'4'
+aS'Swansea'
 p7808
 aVUnited Kingdom
 p7809
@@ -19705,13 +19547,1871 @@ aVWales
 p7810
 aVWest Glamorgan
 p7811
-aa(lp7812
-S'Andrew Gibbs'
-p7813
-aS'1995'
+aVSwansea
+p7812
+aa(lp7813
+S'Rowland Phillips'
 p7814
-aS'Flanker'
+aS'1987'
 p7815
+aS'Back-row'
+p7816
+aS'10'
+p7817
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS"St David's"
+p7818
+aVUnited Kingdom
+p7819
+aVWales
+p7820
+aVPembrokeshire
+p7821
+aVSt David's
+p7822
+aa(lp7823
+S'Jeremy Pugh'
+p7824
+aS'1987'
+p7825
+aS'Prop'
+p7826
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Builth Wells'
+p7827
+aVUnited Kingdom
+p7828
+aVLD2
+p7829
+aVWales
+p7830
+aVPowys
+p7831
+aa(lp7832
+S'Stuart Russell'
+p7833
+aS'1987'
+p7834
+aS'Lock'
+p7835
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1963'
+p7836
+aVÖsterreich
+p7837
+aV8362
+p7838
+aVSteiermark
+p7839
+aVHartberg-Fürstenfeld
+p7840
+aa(lp7841
+S'Tony Clement'
+p7842
+aS'1987'
+p7843
+aS'Fullback'
+p7844
+aS'37'
+p7845
+aS'16'
+p7846
+aS'21'
+p7847
+aS'0'
+aS'3'
+aS'16'
+p7848
+aS'Morriston'
+p7849
+aVUnited Kingdom
+p7850
+aVWales
+p7851
+aVSwansea
+p7852
+aVMorriston
+p7853
+aa(lp7854
+S'Phil May'
+p7855
+aS'1988'
+p7856
+aS'Lock'
+p7857
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Carmarthen'
+p7858
+aVUnited Kingdom
+p7859
+aVWales
+p7860
+aVCarmarthenshire
+p7861
+aVCarmarthen
+p7862
+aa(lp7863
+S'Ian Watkins'
+p7864
+aS'1988'
+p7865
+aS'Hooker'
+p7866
+aS'10'
+p7867
+aS'4'
+aS'6'
+aS'0'
+aS'1'
+aS'4'
+aS'Ebbw Vale'
+p7868
+aVUnited Kingdom
+p7869
+aVNP23
+p7870
+aVWales
+p7871
+aVMonmouthshire
+p7872
+aa(lp7873
+S'David Bryant'
+p7874
+aS'1988'
+p7875
+aS'Flanker'
+p7876
+aS'8'
+aS'2'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'Bridgend'
+p7877
+aVUnited Kingdom
+p7878
+aVWales
+p7879
+aVBridgend
+p7880
+ag9
+aa(lp7881
+S'Tim Fauvel'
+p7882
+aS'1988'
+p7883
+aS'No. 8'
+p7884
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bridgend'
+p7885
+aVUnited Kingdom
+p7886
+aVWales
+p7887
+aVBridgend
+p7888
+ag9
+aa(lp7889
+S'Mike Hall'
+p7890
+aS'1988'
+p7891
+aS'Centre'
+p7892
+aS'43'
+p7893
+aS'16'
+p7894
+aS'27'
+p7895
+aS'0'
+aS'7'
+aS'33'
+p7896
+aS'Bridgend'
+p7897
+aVUnited Kingdom
+p7898
+aVWales
+p7899
+aVBridgend
+p7900
+ag9
+aa(lp7901
+S'Nigel Davies'
+p7902
+aS'1988'
+p7903
+aS'Centre'
+p7904
+aS'29'
+p7905
+aS'13'
+p7906
+aS'16'
+p7907
+aS'0'
+aS'5'
+aS'23'
+p7908
+aS'Llanelly'
+p7909
+aVAustralia
+p7910
+aVVictoria
+p7911
+aVLoddon Mallee
+p7912
+aVShire of Loddon
+p7913
+aa(lp7914
+S'Jonathan Griffiths'
+p7915
+aS'1988'
+p7916
+aS'Scrum-half'
+p7917
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Carmarthen'
+p7918
+aVUnited Kingdom
+p7919
+aVWales
+p7920
+aVCarmarthenshire
+p7921
+aVCarmarthen
+p7922
+aa(lp7923
+S'Gary Jones'
+p7924
+aS'1988'
+p7925
+aS'Flanker'
+p7926
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Porth'
+p7927
+aVUnited Kingdom
+p7928
+aVCF39
+p7929
+aVWales
+p7930
+aVMid Glamorgan
+p7931
+aa(lp7932
+S'Kevin Moseley'
+p7933
+aS'1988'
+p7934
+aS'Lock'
+p7935
+aS'9'
+aS'1'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Caerphilly'
+p7936
+aVUnited Kingdom
+p7937
+aVCF83
+p7938
+aVWales
+p7939
+aVMonmouthshire
+p7940
+aa(lp7941
+S'Jonathan Mason'
+p7942
+aS'1988'
+p7943
+aS'Fullback'
+p7944
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Aberdare'
+p7945
+aVUnited Kingdom
+p7946
+aVWales
+p7947
+aVMid Glamorgan
+p7948
+aVAberdare
+p7949
+aa(lp7950
+S'Carwyn Davies'
+p7951
+aS'1988'
+p7952
+aS'Wing'
+p7953
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
+aS'Llandovery'
+p7954
+aVUnited Kingdom
+p7955
+aVWales
+p7956
+aVCarmarthenshire
+p7957
+aVLlandovery
+p7958
+aa(lp7959
+S'Mike Griffiths'
+p7960
+aS'1988'
+p7961
+aS'Prop'
+p7962
+aS'35'
+p7963
+aS'12'
+p7964
+aS'22'
+p7965
+aS'1'
+aS'0'
+aS'0'
+aS'Tonypandy'
+p7966
+aVUnited Kingdom
+p7967
+aVWales
+p7968
+aVRhondda Cynon Taf
+p7969
+aVTonypandy
+p7970
+aa(lp7971
+S'Wayne Hall'
+p7972
+aS'1988'
+p7973
+aS'Hooker'
+p7974
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Pencoed'
+p7975
+aVUnited Kingdom
+p7976
+aVCF35
+p7977
+aVWales
+p7978
+aVBridgend
+p7979
+aa(lp7980
+S'John Wakeford'
+p7981
+aS'1988'
+p7982
+aS'Lock'
+p7983
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'Cardiff'
+p7984
+aVUnited Kingdom
+p7985
+aVWales
+p7986
+aVCardiff
+p7987
+ag9
+aa(lp7988
+S'Richard Wintle'
+p7989
+aS'1988'
+p7990
+aS'Wing, Centre'
+p7991
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Kenfig Hill'
+p7992
+aVUnited Kingdom
+p7993
+aVWales
+p7994
+aVBridgend
+p7995
+aVKenfig Hill
+p7996
+aa(lp7997
+S'Richard Diplock'
+p7998
+aS'1988'
+p7999
+aS'Wing'
+p8000
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Ebbw Vale'
+p8001
+aVUnited Kingdom
+p8002
+aVNP23
+p8003
+aVWales
+p8004
+aVMonmouthshire
+p8005
+aa(lp8006
+S'Hugh Williams-Jones'
+p8007
+aS'1989'
+p8008
+aS'Prop'
+p8009
+aS'17'
+p8010
+aS'7'
+aS'10'
+p8011
+aS'0'
+aS'0'
+aS'0'
+aS'Bryncethin'
+p8012
+aVUnited Kingdom
+p8013
+aVWales
+p8014
+aVBridgend
+p8015
+aVNant Bryncethin
+p8016
+aa(lp8017
+S'Laurance Delaney'
+p8018
+aS'1989'
+p8019
+aS'Prop'
+p8020
+aS'11'
+p8021
+aS'3'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Llanelly'
+p8022
+aVAustralia
+p8023
+aVVictoria
+p8024
+aVLoddon Mallee
+p8025
+aVShire of Loddon
+p8026
+aa(lp8027
+S'Paul Turner'
+p8028
+aS'1989'
+p8029
+aS'Fly-half'
+p8030
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p8031
+aVUnited Kingdom
+p8032
+aVNP
+p8033
+aVWales
+p8034
+aVMonmouthshire
+p8035
+aa(lp8036
+S'David Evans'
+p8037
+aS'1989'
+p8038
+aS'Fly-half'
+p8039
+aS'12'
+p8040
+aS'2'
+aS'10'
+p8041
+aS'0'
+aS'0'
+aS'6'
+aS'Wootton Bassett'
+p8042
+aVUnited Kingdom
+p8043
+aVSN4
+p8044
+aVEngland
+p8045
+aVSouth West England
+p8046
+aa(lp8047
+S'Arthur Jones'
+p8048
+aS'1989'
+p8049
+aS'Wing'
+p8050
+aS'13'
+p8051
+aS'4'
+aS'9'
+aS'0'
+aS'4'
+aS'16'
+p8052
+aS'Bangor'
+p8053
+aVUnited States of America
+p8054
+aVMaine
+p8055
+aVPenobscot County
+p8056
+aVBangor
+p8057
+aa(lp8058
+S'Gareth Llewellyn'
+p8059
+aS'1989'
+p8060
+aS'Lock'
+p8061
+aS'92'
+p8062
+aS'38'
+p8063
+aS'54'
+p8064
+aS'0'
+aS'5'
+aS'24'
+p8065
+aS'Cardiff'
+p8066
+aVUnited Kingdom
+p8067
+aVWales
+p8068
+aVCardiff
+p8069
+ag9
+aa(lp8070
+S'Phil Pugh'
+p8071
+aS'1989'
+p8072
+aS'Flanker'
+p8073
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Seven Sisters'
+p8074
+aVUnited Kingdom
+p8075
+aVN15 4NE
+p8076
+aVEngland
+p8077
+aVGreater London
+p8078
+aa(lp8079
+S'Andy Allen'
+p8080
+aS'1990'
+p8081
+aS'Lock'
+p8082
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p8083
+aVUnited Kingdom
+p8084
+aVNP
+p8085
+aVWales
+p8086
+aVMonmouthshire
+p8087
+aa(lp8088
+S'Allan Bateman'
+p8089
+aS'1990'
+p8090
+aS'Centre'
+p8091
+aS'36'
+p8092
+aS'21'
+p8093
+aS'15'
+p8094
+aS'0'
+aS'10'
+p8095
+aS'50'
+p8096
+aS'Maesteg'
+p8097
+aVUnited Kingdom
+p8098
+aVWales
+p8099
+aVBridgend
+p8100
+aVMaesteg
+p8101
+aa(lp8102
+S'Mark Perego'
+p8103
+aS'1990'
+p8104
+aS'Flanker'
+p8105
+aS'9'
+aS'6'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Hants'
+p8106
+aVCanada
+p8107
+aVNova Scotia
+p8108
+aVHants County
+p8109
+ag9
+aa(lp8110
+S'Brian Williams'
+p8111
+aS'1990'
+p8112
+aS'Prop'
+p8113
+aS'5'
+aS'0'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Penffordd'
+p8114
+aVUnited Kingdom
+p8115
+aVWales
+p8116
+aVCeredigion
+p8117
+aVLlanfarian
+p8118
+aa(lp8119
+S'Steve Ford'
+p8120
+aS'1990'
+p8121
+aS'Wing'
+p8122
+aS'8'
+aS'2'
+aS'5'
+aS'1'
+aS'2'
+aS'8'
+aS'Cardiff'
+p8123
+aVUnited Kingdom
+p8124
+aVWales
+p8125
+aVCardiff
+p8126
+ag9
+aa(lp8127
+S'Alan Edmunds'
+p8128
+aS'1990'
+p8129
+aS'Wing'
+p8130
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Neath'
+p8131
+aVUnited Kingdom
+p8132
+aVWales
+p8133
+aVWest Glamorgan
+p8134
+aVNeath
+p8135
+aa(lp8136
+S'Paul Arnold'
+p8137
+aS'1990'
+p8138
+aS'No. 8, Lock'
+p8139
+aS'16'
+p8140
+aS'7'
+aS'8'
+aS'1'
+aS'2'
+aS'8'
+aS'Morriston'
+p8141
+aVUnited Kingdom
+p8142
+aVWales
+p8143
+aVSwansea
+p8144
+aVMorriston
+p8145
+aa(lp8146
+S'Chris Bridges'
+p8147
+aS'1990'
+p8148
+aS'Scrum-half'
+p8149
+aS'7'
+aS'2'
+aS'4'
+aS'1'
+aS'1'
+aS'4'
+aS'Beddau'
+p8150
+aVUnited Kingdom
+p8151
+aVWales
+p8152
+aVRhondda Cynon Taf
+p8153
+aVBeddau
+p8154
+aa(lp8155
+S'Paul Knight'
+p8156
+aS'1990'
+p8157
+aS'Prop'
+p8158
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Tonypandy'
+p8159
+aVUnited Kingdom
+p8160
+aVWales
+p8161
+aVRhondda Cynon Taf
+p8162
+aVTonypandy
+p8163
+aa(lp8164
+S'Glyn Llewellyn'
+p8165
+aS'1990'
+p8166
+aS'Lock'
+p8167
+aS'9'
+aS'2'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'Bradford-on-Avon'
+p8168
+aVUnited Kingdom
+p8169
+aVBA15 1
+p8170
+aVEngland
+p8171
+aVSouth West England
+p8172
+aa(lp8173
+S'Alan Reynolds'
+p8174
+aS'1990'
+p8175
+aS'Flanker'
+p8176
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Carmarthen'
+p8177
+aVUnited Kingdom
+p8178
+aVWales
+p8179
+aVCarmarthenshire
+p8180
+aVCarmarthen
+p8181
+aa(lp8182
+S'Stuart Parfitt'
+p8183
+aS'1990'
+p8184
+aS'Centre'
+p8185
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Usk'
+p8186
+aVUnited Kingdom
+p8187
+aVWales
+p8188
+aVMonmouthshire
+p8189
+aVUsk
+p8190
+aa(lp8191
+S'Owain Williams'
+p8192
+aS'1990'
+p8193
+aS'Flanker'
+p8194
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'Ogmore-by-Sea'
+p8195
+aVUnited Kingdom
+p8196
+aVWales
+p8197
+aVVale of Glamorgan
+p8198
+aVOgmore-by-Sea
+p8199
+aa(lp8200
+S'Aled Williams'
+p8201
+aS'1990'
+p8202
+aS'Fly-half'
+p8203
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cardigan'
+p8204
+aVUnited Kingdom
+p8205
+aVWales
+p8206
+aVCeredigion
+p8207
+aVCardigan
+p8208
+aa(lp8209
+S'Adrian Davies'
+p8210
+aS'1990'
+p8211
+aS'Fly-half'
+p8212
+aS'9'
+aS'5'
+aS'4'
+aS'0'
+aS'0'
+aS'22'
+p8213
+aS'Bridgend'
+p8214
+aVUnited Kingdom
+p8215
+aVWales
+p8216
+aVBridgend
+p8217
+ag9
+aa(lp8218
+S'Alun Carter'
+p8219
+aS'1991'
+p8220
+aS'Flanker'
+p8221
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p8222
+aVUnited Kingdom
+p8223
+aVNP
+p8224
+aVWales
+p8225
+aVMonmouthshire
+p8226
+aa(lp8227
+S'Glenn George'
+p8228
+aS'1991'
+p8229
+aS'Flanker'
+p8230
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p8231
+aVUnited Kingdom
+p8232
+aVNP
+p8233
+aVWales
+p8234
+aVMonmouthshire
+p8235
+aa(lp8236
+S'Scott Gibbs'
+p8237
+aS'1991'
+p8238
+aS'Centre'
+p8239
+aS'58'
+p8240
+aS'27'
+p8241
+aS'29'
+p8242
+aS'2'
+aS'11'
+p8243
+aS'55'
+p8244
+aS'Bridgend'
+p8245
+aVUnited Kingdom
+p8246
+aVWales
+p8247
+aVBridgend
+p8248
+ag9
+aa(lp8249
+S'Neil Jenkins'
+p8250
+aS'1991'
+p8251
+aS'Fly-half'
+p8252
+aS'91'
+p8253
+aS'46'
+p8254
+aS'43'
+p8255
+aS'2'
+aS'11'
+p8256
+aS'1090'
+p8257
+aS'Church Village'
+p8258
+aVUnited Kingdom
+p8259
+aVWales
+p8260
+aVRhondda Cynon Taf
+p8261
+aVChurch Village
+p8262
+aa(lp8263
+S'John Davies'
+p8264
+aS'1991'
+p8265
+aS'Prop'
+p8266
+aS'34'
+p8267
+aS'16'
+p8268
+aS'17'
+p8269
+aS'1'
+aS'1'
+aS'5'
+aS'Carmarthen'
+p8270
+aVUnited Kingdom
+p8271
+aVWales
+p8272
+aVCarmarthenshire
+p8273
+aVCarmarthen
+p8274
+aa(lp8275
+S'Emyr Lewis'
+p8276
+aS'1991'
+p8277
+aS'No. 8'
+p8278
+aS'41'
+p8279
+aS'19'
+p8280
+aS'21'
+p8281
+aS'1'
+aS'3'
+aS'15'
+p8282
+aS'Carmarthen'
+p8283
+aVUnited Kingdom
+p8284
+aVWales
+p8285
+aVCarmarthenshire
+p8286
+aVCarmarthen
+p8287
+aa(lp8288
+S'Mark Davis'
+p8289
+aS'1991'
+p8290
+aS'Prop'
+p8291
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Newport'
+p8292
+aVUnited Kingdom
+p8293
+aVNP
+p8294
+aVWales
+p8295
+aVMonmouthshire
+p8296
+aa(lp8297
+S'Garin Jenkins'
+p8298
+aS'1991'
+p8299
+aS'Hooker'
+p8300
+aS'58'
+p8301
+aS'34'
+p8302
+aS'24'
+p8303
+aS'0'
+aS'2'
+aS'10'
+p8304
+aS'Ynysybwl'
+p8305
+aVUnited Kingdom
+p8306
+aVWales
+p8307
+aVRhondda Cynon Taf
+p8308
+aVYnysybwl
+p8309
+aa(lp8310
+S'Luc Evans'
+p8311
+aS'1991'
+p8312
+aS'Fly-half'
+p8313
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Treherbert'
+p8314
+aVUnited Kingdom
+p8315
+aVCF42 5BG
+p8316
+aVWales
+p8317
+aVRhondda Cynon Taf
+p8318
+aa(lp8319
+S'Ken Waters'
+p8320
+aS'1991'
+p8321
+aS'Hooker'
+p8322
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cwmbran'
+p8323
+aVUnited Kingdom
+p8324
+aVNP44
+p8325
+aVWales
+p8326
+aVTorfaen
+p8327
+aa(lp8328
+S'Mike Rayer'
+p8329
+aS'1991'
+p8330
+aS'Fullback'
+p8331
+aS'21'
+p8332
+aS'13'
+p8333
+aS'8'
+aS'0'
+aS'4'
+aS'23'
+p8334
+aS'Cardiff'
+p8335
+aVUnited Kingdom
+p8336
+aVWales
+p8337
+aVCardiff
+p8338
+ag9
+aa(lp8339
+S'Tony Copsey'
+p8340
+aS'1992'
+p8341
+aS'Lock'
+p8342
+aS'16'
+p8343
+aS'8'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'Essex'
+p8344
+aVUnited Kingdom
+p8345
+aVEngland
+p8346
+aVEast of England
+p8347
+aVEssex
+p8348
+aa(lp8349
+S'Stuart Davies'
+p8350
+aS'1992'
+p8351
+aS'No. 8'
+p8352
+aS'17'
+p8353
+aS'9'
+aS'8'
+aS'0'
+aS'2'
+aS'9'
+aS'Swansea'
+p8354
+aVUnited Kingdom
+p8355
+aVWales
+p8356
+aVWest Glamorgan
+p8357
+aVSwansea
+p8358
+aa(lp8359
+S'Colin Stephens'
+p8360
+aS'1992'
+p8361
+aS'Fly-half'
+p8362
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'9'
+aS'Morriston'
+p8363
+aVUnited Kingdom
+p8364
+aVWales
+p8365
+aVSwansea
+p8366
+aVMorriston
+p8367
+aa(lp8368
+S'Roger Bidgood'
+p8369
+aS'1992'
+p8370
+aS'Centre'
+p8371
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'Caerphilly'
+p8372
+aVUnited Kingdom
+p8373
+aVCF83
+p8374
+aVWales
+p8375
+aVMonmouthshire
+p8376
+aa(lp8377
+S'Wayne Proctor'
+p8378
+aS'1992'
+p8379
+aS'Wing'
+p8380
+aS'39'
+p8381
+aS'20'
+p8382
+aS'19'
+p8383
+aS'0'
+aS'11'
+p8384
+aS'55'
+p8385
+aS'Bridgend'
+p8386
+aVUnited Kingdom
+p8387
+aVWales
+p8388
+aVBridgend
+p8389
+ag9
+aa(lp8390
+S'Ricky Evans'
+p8391
+aS'1993'
+p8392
+aS'Prop'
+p8393
+aS'19'
+p8394
+aS'10'
+p8395
+aS'9'
+aS'0'
+aS'0'
+aS'0'
+aS'Cardigan'
+p8396
+aVUnited Kingdom
+p8397
+aVWales
+p8398
+aVCeredigion
+p8399
+aVCardigan
+p8400
+aa(lp8401
+S'Nigel Meek'
+p8402
+aS'1993'
+p8403
+aS'Hooker'
+p8404
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Blaina'
+p8405
+aVUnited Kingdom
+p8406
+aVWales
+p8407
+aVBlaenau Gwent
+p8408
+aVBlaina
+p8409
+aa(lp8410
+S'Nigel Walker'
+p8411
+aS'1993'
+p8412
+aS'Wing'
+p8413
+aS'17'
+p8414
+aS'10'
+p8415
+aS'7'
+aS'0'
+aS'12'
+p8416
+aS'60'
+p8417
+aS'Cardiff'
+p8418
+aVUnited Kingdom
+p8419
+aVWales
+p8420
+aVCardiff
+p8421
+ag9
+aa(lp8422
+S'Andrew Lamerton'
+p8423
+aS'1993'
+p8424
+aS'Hooker'
+p8425
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontypridd'
+p8426
+aVUnited Kingdom
+p8427
+aVCF37; CF38
+p8428
+aVWales
+p8429
+aVMid Glamorgan
+p8430
+aa(lp8431
+S'Rupert Moon'
+p8432
+aS'1993'
+p8433
+aS'Scrum-half'
+p8434
+aS'24'
+p8435
+aS'16'
+p8436
+aS'7'
+aS'1'
+aS'3'
+aS'15'
+p8437
+aS'Birmingham'
+p8438
+aVUnited Kingdom
+p8439
+aVEngland
+p8440
+aVWest Midlands
+p8441
+aVBirmingham
+p8442
+aa(lp8443
+S'Simon Hill'
+p8444
+aS'1993'
+p8445
+aS'Wing'
+p8446
+aS'12'
+p8447
+aS'6'
+aS'6'
+aS'0'
+aS'2'
+aS'10'
+p8448
+aS'Barry'
+p8449
+aVUnited Kingdom
+p8450
+aVCF62
+p8451
+aVWales
+p8452
+aVVale of Glamorgan
+p8453
+aa(lp8454
+S'Lyn Jones'
+p8455
+aS'1993'
+p8456
+aS'Flanker'
+p8457
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cwmasfan'
+p8458
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp8459
+S'Neil Boobyer'
+p8460
+aS'1993'
+p8461
+aS'Centre'
+p8462
+aS'7'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bridgend'
+p8463
+aVUnited Kingdom
+p8464
+aVWales
+p8465
+aVBridgend
+p8466
+ag9
+aa(lp8467
+S'Scott Quinnell'
+p8468
+aS'1993'
+p8469
+aS'No. 8'
+p8470
+aS'55'
+p8471
+aS'31'
+p8472
+aS'23'
+p8473
+aS'1'
+aS'12'
+p8474
+aS'60'
+p8475
+aS'Llanelli'
+p8476
+aVUnited Kingdom
+p8477
+aVWales
+p8478
+aVCarmarthenshire
+p8479
+aVLlanelli
+p8480
+aa(lp8481
+S'Hemi Taylor'
+p8482
+aS'1994'
+p8483
+aS'Flanker'
+p8484
+aS'24'
+p8485
+aS'11'
+p8486
+aS'13'
+p8487
+aS'0'
+aS'5'
+aS'25'
+p8488
+aS'Morrinsville'
+p8489
+aVNew Zealand/Aotearoa
+p8490
+aVWaikato
+p8491
+aVMatamata Piako District
+p8492
+aVMorrinsville
+p8493
+aa(lp8494
+S'Robin McBryde'
+p8495
+aS'1994'
+p8496
+aS'Hooker'
+p8497
+aS'37'
+p8498
+aS'17'
+p8499
+aS'19'
+p8500
+aS'1'
+aS'1'
+aS'5'
+aS'Bangor'
+p8501
+aVUnited States of America
+p8502
+aVMaine
+p8503
+aVPenobscot County
+p8504
+aVBangor
+p8505
+aa(lp8506
+S'Ian Buckett'
+p8507
+aS'1994'
+p8508
+aS'Prop'
+p8509
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Holywell'
+p8510
+aVUnited Kingdom
+p8511
+aVWales
+p8512
+aVFlintshire
+p8513
+aVHolywell
+p8514
+aa(lp8515
+S'Paul John'
+p8516
+aS'1994'
+p8517
+aS'Scrum-half'
+p8518
+aS'10'
+p8519
+aS'9'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Pontypridd'
+p8520
+aVUnited Kingdom
+p8521
+aVCF37; CF38
+p8522
+aVWales
+p8523
+aVMid Glamorgan
+p8524
+aa(lp8525
+S'Gwilym Wilkins'
+p8526
+aS'1994'
+p8527
+aS'Wing'
+p8528
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Parramatta'
+p8529
+aVAustralia
+p8530
+aV2150
+p8531
+aVNew South Wales
+p8532
+aVParramatta
+p8533
+aa(lp8534
+S'Steve Williams'
+p8535
+aS'1994'
+p8536
+aS'No. 8, Lock'
+p8537
+aS'28'
+p8538
+aS'12'
+p8539
+aS'16'
+p8540
+aS'0'
+aS'2'
+aS'10'
+p8541
+aS'Neath'
+p8542
+aVUnited Kingdom
+p8543
+aVWales
+p8544
+aVWest Glamorgan
+p8545
+aVNeath
+p8546
+aa(lp8547
+S'Derwyn Jones'
+p8548
+aS'1994'
+p8549
+aS'Lock'
+p8550
+aS'19'
+p8551
+aS'6'
+aS'13'
+p8552
+aS'0'
+aS'0'
+aS'0'
+aS'Carmarthen'
+p8553
+aVUnited Kingdom
+p8554
+aVWales
+p8555
+aVCarmarthenshire
+p8556
+aVCarmarthen
+p8557
+aa(lp8558
+S'Mark Taylor'
+p8559
+aS'1994'
+p8560
+aS'Centre'
+p8561
+aS'52'
+p8562
+aS'24'
+p8563
+aS'27'
+p8564
+aS'1'
+aS'12'
+p8565
+aS'60'
+p8566
+aS'Blaenavon'
+p8567
+aVUnited Kingdom
+p8568
+aVNP4
+p8569
+aVWales
+p8570
+aVMonmouthshire
+p8571
+aa(lp8572
+S'Matt Back'
+p8573
+aS'1995'
+p8574
+aS'Fullback'
+p8575
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'Pontypridd'
+p8576
+aVUnited Kingdom
+p8577
+aVCF37; CF38
+p8578
+aVWales
+p8579
+aVMid Glamorgan
+p8580
+aa(lp8581
+S'Spencer John'
+p8582
+aS'1995'
+p8583
+aS'Prop'
+p8584
+aS'18'
+p8585
+aS'5'
+aS'12'
+p8586
+aS'1'
+aS'0'
+aS'0'
+aS'W Glamorgan'
+p8587
+aVUnited Kingdom
+p8588
+aVWales
+p8589
+aVWest Glamorgan
+p8590
+ag9
+aa(lp8591
+S'Andrew Gibbs'
+p8592
+aS'1995'
+p8593
+aS'Flanker'
+p8594
 aS'6'
 aS'3'
 aS'3'
@@ -19719,68 +21419,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypool'
-p7816
+p8595
 aVUnited Kingdom
-p7817
+p8596
 aVNP4
-p7818
+p8597
 aVWales
-p7819
-aa(lp7820
+p8598
+aVMonmouthshire
+p8599
+aa(lp8600
 S'Andrew Moore'
-p7821
+p8601
 aS'1995'
-p7822
+p8602
 aS'Scrum-half'
-p7823
+p8603
 aS'4'
 aS'3'
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p7824
+p8604
 aS'Cardiff'
-p7825
+p8605
 aVUnited Kingdom
-p7826
+p8606
 aVWales
-p7827
+p8607
 aVCardiff
-p7828
-aa(lp7829
+p8608
+ag9
+aa(lp8609
 S'Gareth Thomas'
-p7830
+p8610
 aS'1995'
-p7831
+p8611
 aS'Utility back'
-p7832
+p8612
 aS'103'
-p7833
+p8613
 aS'51'
-p7834
+p8614
 aS'51'
-p7835
+p8615
 aS'1'
 aS'41'
-p7836
+p8616
 aS'205'
-p7837
+p8617
 aS'Ogwr'
-p7838
+p8618
 aVUnited Kingdom
-p7839
+p8619
 aVWales
-p7840
+p8620
 aVBridgend
-p7841
-aa(lp7842
+p8621
+ag9
+aa(lp8622
 S'Stuart Roy'
-p7843
+p8623
 aS'1995'
-p7844
+p8624
 aS'Lock'
-p7845
+p8625
 aS'1'
 aS'1'
 aS'0'
@@ -19788,20 +21492,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cambs'
-p7846
+p8626
 aVDeutschland
-p7847
+p8627
 aVMecklenburg-Vorpommern
-p7848
+p8628
 aVLandkreis Ludwigslust-Parchim
-p7849
-aa(lp7850
+p8629
+aVCrivitz
+p8630
+aa(lp8631
 S'Mark Bennett'
-p7851
+p8632
 aS'1995'
-p7852
+p8633
 aS'Flanker'
-p7853
+p8634
 aS'3'
 aS'1'
 aS'2'
@@ -19809,45 +21515,48 @@ aS'0'
 aS'1'
 aS'5'
 aS'Neath'
-p7854
+p8635
 aVUnited Kingdom
-p7855
+p8636
 aVWales
-p7856
+p8637
 aVWest Glamorgan
-p7857
-aa(lp7858
+p8638
+aVNeath
+p8639
+aa(lp8640
 S'Jonathan Humphreys'
-p7859
+p8641
 aS'1995'
-p7860
+p8642
 aS'Hooker'
-p7861
+p8643
 aS'35'
-p7862
+p8644
 aS'15'
-p7863
+p8645
 aS'20'
-p7864
+p8646
 aS'0'
 aS'2'
 aS'10'
-p7865
+p8647
 aS'Bridgend'
-p7866
+p8648
 aVUnited Kingdom
-p7867
+p8649
 aVWales
-p7868
+p8650
 aVBridgend
-p7869
-aa(lp7870
+p8651
+ag9
+aa(lp8652
 S'Greg Prosser'
-p7871
+p8653
 aS'1995'
-p7872
+p8654
 aS'Lock'
-p7873
+p8655
 aS'1'
 aS'0'
 aS'1'
@@ -19855,20 +21564,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p7874
+p8656
 aVUnited Kingdom
-p7875
+p8657
 aVWales
-p7876
+p8658
 aVWest Glamorgan
-p7877
-aa(lp7878
+p8659
+aVSwansea
+p8660
+aa(lp8661
 S'Gareth Jones'
-p7879
+p8662
 aS'1995'
-p7880
+p8663
 aS'Centre, Wing'
-p7881
+p8664
 aS'1'
 aS'0'
 aS'1'
@@ -19876,43 +21587,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ogwr'
-p7882
+p8665
 aVUnited Kingdom
-p7883
+p8666
 aVWales
-p7884
+p8667
 aVBridgend
-p7885
-aa(lp7886
+p8668
+ag9
+aa(lp8669
 S'Christian Loader'
-p7887
+p8670
 aS'1995'
-p7888
+p8671
 aS'Prop'
-p7889
+p8672
 aS'19'
-p7890
+p8673
 aS'9'
 aS'10'
-p7891
+p8674
 aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p7892
+p8675
 aVUnited Kingdom
-p7893
+p8676
 aVWales
-p7894
+p8677
 aVWest Glamorgan
-p7895
-aa(lp7896
+p8678
+aVNeath
+p8679
+aa(lp8680
 S'Justin Thomas'
-p7897
+p8681
 aS'1995'
-p7898
+p8682
 aS'Fullback'
-p7899
+p8683
 aS'9'
 aS'5'
 aS'4'
@@ -19920,188 +21634,204 @@ aS'0'
 aS'1'
 aS'5'
 aS'Carmarthen'
-p7900
+p8684
 aVUnited Kingdom
-p7901
+p8685
 aVWales
-p7902
+p8686
 aVCarmarthenshire
-p7903
-aa(lp7904
+p8687
+aVCarmarthen
+p8688
+aa(lp8689
 S'Andy Moore'
-p7905
+p8690
 aS'1995'
-p7906
+p8691
 aS'Lock'
-p7907
+p8692
 aS'26'
-p7908
+p8693
 aS'15'
-p7909
+p8694
 aS'10'
-p7910
+p8695
 aS'1'
 aS'0'
 aS'0'
 aS'Grantham'
-p7911
+p8696
 aVUnited Kingdom
-p7912
+p8697
 aVEngland
-p7913
+p8698
 aVEast Midlands
-p7914
-aa(lp7915
+p8699
+aVLincolnshire
+p8700
+aa(lp8701
 S'Lyndon Mustoe'
-p7916
+p8702
 aS'1995'
-p7917
+p8703
 aS'Prop'
-p7918
+p8704
 aS'10'
-p7919
+p8705
 aS'6'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
 aS'Caerleon'
-p7920
+p8706
 aVUnited Kingdom
-p7921
+p8707
 aVWales
-p7922
+p8708
 aVNewport
-p7923
-aa(lp7924
+p8709
+aVCaerleon
+p8710
+aa(lp8711
 S'Craig Quinnell'
-p7925
+p8712
 aS'1995'
-p7926
+p8713
 aS'Lock'
-p7927
+p8714
 aS'32'
-p7928
+p8715
 aS'20'
-p7929
+p8716
 aS'11'
-p7930
+p8717
 aS'1'
 aS'5'
 aS'25'
-p7931
+p8718
 aS'Swansea'
-p7932
+p8719
 aVUnited Kingdom
-p7933
+p8720
 aVWales
-p7934
+p8721
 aVWest Glamorgan
-p7935
-aa(lp7936
+p8722
+aVSwansea
+p8723
+aa(lp8724
 S'Leigh Davies'
-p7937
+p8725
 aS'1996'
-p7938
+p8726
 aS'Centre'
-p7939
+p8727
 aS'21'
-p7940
+p8728
 aS'11'
-p7941
+p8729
 aS'10'
-p7942
+p8730
 aS'0'
 aS'4'
 aS'20'
-p7943
+p8731
 aS'Neath'
-p7944
+p8732
 aVUnited Kingdom
-p7945
+p8733
 aVWales
-p7946
+p8734
 aVWest Glamorgan
-p7947
-aa(lp7948
+p8735
+aVNeath
+p8736
+aa(lp8737
 S'Gwyn Jones'
-p7949
+p8738
 aS'1996'
-p7950
+p8739
 aS'Flanker'
-p7951
+p8740
 aS'13'
-p7952
+p8741
 aS'8'
 aS'5'
 aS'0'
 aS'1'
 aS'5'
 aS'Swansea'
-p7953
+p8742
 aVUnited Kingdom
-p7954
+p8743
 aVWales
-p7955
+p8744
 aVWest Glamorgan
-p7956
-aa(lp7957
+p8745
+aVSwansea
+p8746
+aa(lp8747
 S'Andrew Lewis'
-p7958
+p8748
 aS'1996'
-p7959
+p8749
 aS'Prop, Hooker'
-p7960
+p8750
 aS'29'
-p7961
+p8751
 aS'19'
-p7962
+p8752
 aS'10'
-p7963
+p8753
 aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p7964
+p8754
 aVUnited Kingdom
-p7965
+p8755
 aVWales
-p7966
+p8756
 aVWest Glamorgan
-p7967
-aa(lp7968
+p8757
+aVSwansea
+p8758
+aa(lp8759
 S'Arwel Thomas'
-p7969
+p8760
 aS'1996'
-p7970
+p8761
 aS'Fly-half'
-p7971
+p8762
 aS'23'
-p7972
+p8763
 aS'12'
-p7973
+p8764
 aS'11'
-p7974
+p8765
 aS'0'
 aS'11'
-p7975
+p8766
 aS'211'
-p7976
+p8767
 aS'Carmarthen'
-p7977
+p8768
 aVUnited Kingdom
-p7978
+p8769
 aVWales
-p7979
+p8770
 aVCarmarthenshire
-p7980
-aa(lp7981
+p8771
+aVCarmarthen
+p8772
+aa(lp8773
 S'Matthew Wintle'
-p7982
+p8774
 aS'1996'
-p7983
+p8775
 aS'Centre'
-p7984
+p8776
 aS'1'
 aS'1'
 aS'0'
@@ -20109,195 +21839,209 @@ aS'0'
 aS'0'
 aS'0'
 aS'M Glamorgan'
-p7985
+p8777
 aVUnited Kingdom
-p7986
+p8778
 aVTA4 2JT
-p7987
+p8779
 aVEngland
-p7988
-aa(lp7989
+p8780
+aVSouth West England
+p8781
+aa(lp8782
 S'Rob Howley'
-p7990
+p8783
 aS'1996'
-p7991
+p8784
 aS'Scrum-half'
-p7992
+p8785
 aS'61'
-p7993
+p8786
 aS'29'
-p7994
+p8787
 aS'31'
-p7995
+p8788
 aS'1'
 aS'10'
-p7996
+p8789
 aS'50'
-p7997
+p8790
 aS'Bridgend'
-p7998
+p8791
 aVUnited Kingdom
-p7999
+p8792
 aVWales
-p8000
+p8793
 aVBridgend
-p8001
-aa(lp8002
+p8794
+ag9
+aa(lp8795
 S'Mike Voyle'
-p8003
+p8796
 aS'1996'
-p8004
+p8797
 aS'Lock'
-p8005
+p8798
 aS'22'
-p8006
+p8799
 aS'12'
-p8007
+p8800
 aS'10'
-p8008
+p8801
 aS'0'
 aS'0'
 aS'0'
 aS'E Glam'
-p8009
+p8802
 aVUnited Kingdom
-p8010
+p8803
 aVNP12
-p8011
+p8804
 aVWales
-p8012
-aa(lp8013
+p8805
+aVCaerphilly
+p8806
+aa(lp8807
 S'Dafydd James'
-p8014
+p8808
 aS'1996'
-p8015
+p8809
 aS'Wing, Centre'
-p8016
+p8810
 aS'51'
-p8017
+p8811
 aS'24'
-p8018
+p8812
 aS'26'
-p8019
+p8813
 aS'1'
 aS'16'
-p8020
+p8814
 aS'80'
-p8021
+p8815
 aS'Mufulira'
-p8022
+p8816
 aVZambia
-p8023
+p8817
 aVCopperbelt Province
-p8024
+p8818
 aVMufulira
-p8025
-aa(lp8026
+p8819
+ag9
+aa(lp8820
 S'Kingsley Jones'
-p8027
+p8821
 aS'1996'
-p8028
+p8822
 aS'Flanker'
-p8029
+p8823
 aS'10'
-p8030
+p8824
 aS'4'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Bedwellty'
-p8031
+p8825
 aVUnited Kingdom
-p8032
+p8826
 aVWales
-p8033
+p8827
 aVMonmouthshire
-p8034
-aa(lp8035
+p8828
+aVBedwellty
+p8829
+aa(lp8830
 S'Martyn Williams'
-p8036
+p8831
 aS'1996'
-p8037
+p8832
 aS'Back-row'
-p8038
+p8833
 aS'104'
-p8039
+p8834
 aS'45'
-p8040
+p8835
 aS'56'
-p8041
+p8836
 aS'3'
 aS'14'
-p8042
+p8837
 aS'73'
-p8043
+p8838
 aS'Pontypridd'
-p8044
+p8839
 aVUnited Kingdom
-p8045
+p8840
 aVCF37; CF38
-p8046
+p8841
 aVWales
-p8047
-aa(lp8048
+p8842
+aVMid Glamorgan
+p8843
+aa(lp8844
 S'Barry Williams'
-p8049
+p8845
 aS'1996'
-p8050
+p8846
 aS'Hooker'
-p8051
+p8847
 aS'24'
-p8052
+p8848
 aS'10'
-p8053
+p8849
 aS'14'
-p8054
+p8850
 aS'0'
 aS'5'
 aS'25'
-p8055
+p8851
 aS'Carmarthen'
-p8056
+p8852
 aVUnited Kingdom
-p8057
+p8853
 aVWales
-p8058
+p8854
 aVCarmarthenshire
-p8059
-aa(lp8060
+p8855
+aVCarmarthen
+p8856
+aa(lp8857
 S'Colin Charvis'
-p8061
+p8858
 aS'1996'
-p8062
+p8859
 aS'Back-row'
-p8063
+p8860
 aS'96'
-p8064
+p8861
 aS'43'
-p8065
+p8862
 aS'51'
-p8066
+p8863
 aS'2'
 aS'22'
-p8067
+p8864
 aS'110'
-p8068
+p8865
 aS'Sutton Coldfield'
-p8069
+p8866
 aVUnited Kingdom
-p8070
+p8867
 aVEngland
-p8071
+p8868
 aVWest Midlands
-p8072
-aa(lp8073
+p8869
+aVBirmingham
+p8870
+aa(lp8871
 S'Dale McIntosh'
-p8074
+p8872
 aS'1996'
-p8075
+p8873
 aS'Flanker'
-p8076
+p8874
 aS'2'
 aS'0'
 aS'2'
@@ -20305,20 +22049,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Turangi'
-p8077
+p8875
 aVNew Zealand/Aotearoa
-p8078
+p8876
 aVWaikato
-p8079
+p8877
 aVTaupo District
-p8080
-aa(lp8081
+p8878
+aVTurangi
+p8879
+aa(lp8880
 S'Mark Rowley'
-p8082
+p8881
 aS'1996'
-p8083
+p8882
 aS'Lock'
-p8084
+p8883
 aS'6'
 aS'3'
 aS'3'
@@ -20326,20 +22072,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p8085
+p8884
 aVUnited Kingdom
-p8086
+p8885
 aVCF37; CF38
-p8087
+p8886
 aVWales
-p8088
-aa(lp8089
+p8887
+aVMid Glamorgan
+p8888
+aa(lp8889
 S'Nathan Thomas'
-p8090
+p8890
 aS'1996'
-p8091
+p8891
 aS'Back-row'
-p8092
+p8892
 aS'9'
 aS'6'
 aS'3'
@@ -20347,68 +22095,73 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ogwr'
-p8093
+p8893
 aVUnited Kingdom
-p8094
+p8894
 aVWales
-p8095
+p8895
 aVBridgend
-p8096
-aa(lp8097
+p8896
+ag9
+aa(lp8897
 S'Kevin Morgan'
-p8098
+p8898
 aS'1997'
-p8099
+p8899
 aS'Fullback, Wing'
-p8100
+p8900
 aS'48'
-p8101
+p8901
 aS'27'
-p8102
+p8902
 aS'20'
-p8103
+p8903
 aS'1'
 aS'12'
-p8104
+p8904
 aS'60'
-p8105
+p8905
 aS'Pontypridd'
-p8106
+p8906
 aVUnited Kingdom
-p8107
+p8907
 aVCF37; CF38
-p8108
+p8908
 aVWales
-p8109
-aa(lp8110
+p8909
+aVMid Glamorgan
+p8910
+aa(lp8911
 S'Chris Anthony'
-p8111
+p8912
 aS'1997'
-p8112
+p8913
 aS'Prop'
-p8113
+p8914
 aS'17'
-p8114
+p8915
 aS'9'
 aS'8'
 aS'0'
 aS'1'
 aS'5'
 aS'Neath'
-p8115
+p8916
 aVUnited Kingdom
-p8116
+p8917
 aVWales
-p8117
+p8918
 aVWest Glamorgan
-p8118
-aa(lp8119
+p8919
+aVNeath
+p8920
+aa(lp8921
 S'Rob Appleyard'
-p8120
+p8922
 aS'1997'
-p8121
+p8923
 aS'Flanker'
-p8122
+p8924
 aS'9'
 aS'6'
 aS'3'
@@ -20416,20 +22169,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Haverfordwest'
-p8123
+p8925
 aVUnited Kingdom
-p8124
+p8926
 aVWales
-p8125
+p8927
 aVPembrokeshire
-p8126
-aa(lp8127
+p8928
+aVHaverfordwest
+p8929
+aa(lp8930
 S'Steve Moore'
-p8128
+p8931
 aS'1997'
-p8129
+p8932
 aS'Lock'
-p8130
+p8933
 aS'3'
 aS'3'
 aS'0'
@@ -20437,20 +22192,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Grantham'
-p8131
+p8934
 aVUnited Kingdom
-p8132
+p8935
 aVEngland
-p8133
+p8936
 aVEast Midlands
-p8134
-aa(lp8135
+p8937
+aVLincolnshire
+p8938
+aa(lp8939
 S'Lee Jarvis'
-p8136
+p8940
 aS'1997'
-p8137
+p8941
 aS'Fly-half, Centre'
-p8138
+p8942
 aS'1'
 aS'1'
 aS'0'
@@ -20458,20 +22215,22 @@ aS'0'
 aS'0'
 aS'2'
 aS'Pontypridd'
-p8139
+p8943
 aVUnited Kingdom
-p8140
+p8944
 aVCF37; CF38
-p8141
+p8945
 aVWales
-p8142
-aa(lp8143
+p8946
+aVMid Glamorgan
+p8947
+aa(lp8948
 S'Gareth Wyatt'
-p8144
+p8949
 aS'1997'
-p8145
+p8950
 aS'Fullback, Wing'
-p8146
+p8951
 aS'2'
 aS'2'
 aS'0'
@@ -20479,20 +22238,21 @@ aS'0'
 aS'1'
 aS'5'
 aS'Cardiff'
-p8147
+p8952
 aVUnited Kingdom
-p8148
+p8953
 aVWales
-p8149
+p8954
 aVCardiff
-p8150
-aa(lp8151
+p8955
+ag9
+aa(lp8956
 S'Chris Stephens'
-p8152
+p8957
 aS'1998'
-p8153
+p8958
 aS'Lock'
-p8154
+p8959
 aS'2'
 aS'1'
 aS'1'
@@ -20500,65 +22260,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bridgend'
-p8155
+p8960
 aVUnited Kingdom
-p8156
+p8961
 aVWales
-p8157
+p8962
 aVBridgend
-p8158
-aa(lp8159
+p8963
+ag9
+aa(lp8964
 S'Darren Morris'
-p8160
+p8965
 aS'1998'
-p8161
+p8966
 aS'Prop, Hooker'
-p8162
+p8967
 aS'19'
-p8163
+p8968
 aS'7'
 aS'11'
-p8164
+p8969
 aS'1'
 aS'1'
 aS'5'
 aS'Aberdare'
-p8165
+p8970
 aVUnited Kingdom
-p8166
+p8971
 aVWales
-p8167
+p8972
 aVMid Glamorgan
-p8168
-aa(lp8169
+p8973
+aVAberdare
+p8974
+aa(lp8975
 S'Richard Rees'
-p8170
+p8976
 aS'1998'
-p8171
+p8977
 aS'Wing'
-p8172
+p8978
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'2'
 aS'10'
-p8173
+p8979
 aS'Carmarthen'
-p8174
+p8980
 aVUnited Kingdom
-p8175
+p8981
 aVWales
-p8176
+p8982
 aVCarmarthenshire
-p8177
-aa(lp8178
+p8983
+aVCarmarthen
+p8984
+aa(lp8985
 S'David Weatherley'
-p8179
+p8986
 aS'1998'
-p8180
+p8987
 aS'Centre, Fullback'
-p8181
+p8988
 aS'1'
 aS'1'
 aS'0'
@@ -20566,20 +22331,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p8182
+p8989
 aVUnited Kingdom
-p8183
+p8990
 aVWales
-p8184
+p8991
 aVWest Glamorgan
-p8185
-aa(lp8186
+p8992
+aVSwansea
+p8993
+aa(lp8994
 S'John Funnell'
-p8187
+p8995
 aS'1998'
-p8188
+p8996
 aS'Centre'
-p8189
+p8997
 aS'2'
 aS'1'
 aS'1'
@@ -20587,67 +22354,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p8190
+p8998
 aVUnited Kingdom
-p8191
+p8999
 aVWales
-p8192
+p9000
 aVWest Glamorgan
-p8193
-aa(lp8194
+p9001
+aVNeath
+p9002
+aa(lp9003
 S'Byron Hayward'
-p8195
+p9004
 aS'1998'
-p8196
+p9005
 aS'Fullback'
-p8197
+p9006
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'3'
 aS'15'
-p8198
+p9007
 aS'Cardiff'
-p8199
+p9008
 aVUnited Kingdom
-p8200
+p9009
 aVWales
-p8201
+p9010
 aVCardiff
-p8202
-aa(lp8203
+p9011
+ag9
+aa(lp9012
 S'Chris Wyatt'
-p8204
+p9013
 aS'1998'
-p8205
+p9014
 aS'Lock'
-p8206
+p9015
 aS'38'
-p8207
+p9016
 aS'18'
-p8208
+p9017
 aS'20'
-p8209
+p9018
 aS'0'
 aS'2'
 aS'10'
-p8210
+p9019
 aS'Newport'
-p8211
+p9020
 aVUnited Kingdom
-p8212
+p9021
 aVNP
-p8213
+p9022
 aVWales
-p8214
-aa(lp8215
+p9023
+aVMonmouthshire
+p9024
+aa(lp9025
 S'Garan Evans'
-p8216
+p9026
 aS'1998'
-p8217
+p9027
 aS'Fullback'
-p8218
+p9028
 aS'4'
 aS'1'
 aS'3'
@@ -20655,92 +22427,100 @@ aS'0'
 aS'1'
 aS'5'
 aS'Trimsaran'
-p8219
+p9029
 aVUnited Kingdom
-p8220
+p9030
 aVWales
-p8221
+p9031
 aVCarmarthenshire
-p8222
-aa(lp8223
+p9032
+aVTrimsaran
+p9033
+aa(lp9034
 S'Ian Gough'
-p8224
+p9035
 aS'1998'
-p8225
+p9036
 aS'Lock'
-p8226
+p9037
 aS'64'
-p8227
+p9038
 aS'30'
-p8228
+p9039
 aS'30'
-p8229
+p9040
 aS'4'
 aS'1'
 aS'5'
 aS'Panteg'
-p8230
+p9041
 aVUnited Kingdom
-p8231
+p9042
 aVWales
-p8232
+p9043
 aVCardiff
-p8233
-aa(lp8234
+p9044
+aVGwaelod-Y-Garth
+p9045
+aa(lp9046
 S'Stephen Jones'
-p8235
+p9047
 aS'1998'
-p8236
+p9048
 aS'Fly-half'
-p8237
+p9049
 aS'110'
-p8238
+p9050
 aS'44'
-p8239
+p9051
 aS'63'
-p8240
+p9052
 aS'3'
 aS'7'
 aS'970'
-p8241
+p9053
 aS'Aberystwyth'
-p8242
+p9054
 aVUnited Kingdom
-p8243
+p9055
 aVWales
-p8244
+p9056
 aVCeredigion
-p8245
-aa(lp8246
+p9057
+aVAberystwyth
+p9058
+aa(lp9059
 S'Geraint Lewis'
-p8247
+p9060
 aS'1998'
-p8248
+p9061
 aS'Back-row'
-p8249
+p9062
 aS'16'
-p8250
+p9063
 aS'13'
-p8251
+p9064
 aS'3'
 aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p8252
+p9065
 aVUnited Kingdom
-p8253
+p9066
 aVCF37; CF38
-p8254
+p9067
 aVWales
-p8255
-aa(lp8256
+p9068
+aVMid Glamorgan
+p9069
+aa(lp9070
 S'David Llewellyn'
-p8257
+p9071
 aS'1998'
-p8258
+p9072
 aS'Scrum-half'
-p8259
+p9073
 aS'4'
 aS'3'
 aS'1'
@@ -20748,20 +22528,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Bedwellty'
-p8260
+p9074
 aVUnited Kingdom
-p8261
+p9075
 aVWales
-p8262
+p9076
 aVMonmouthshire
-p8263
-aa(lp8264
+p9077
+aVBedwellty
+p9078
+aa(lp9079
 S'Darril Williams'
-p8265
+p9080
 aS'1998'
-p8266
+p9081
 aS'Wing'
-p8267
+p9082
 aS'1'
 aS'0'
 aS'1'
@@ -20769,67 +22551,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p8268
+p9083
 aVUnited Kingdom
-p8269
+p9084
 aVWales
-p8270
+p9085
 aVWest Glamorgan
-p8271
-aa(lp8272
+p9086
+aVSwansea
+p9087
+aa(lp9088
 S'Shane Howarth'
-p8273
+p9089
 aS'1994'
-p8274
+p9090
 aS'Fly-half, Fullback'
-p8275
+p9091
 aS'23'
-p8276
+p9092
 aS'14'
-p8277
+p9093
 aS'8'
 aS'1'
 aS'5'
 aS'77'
-p8278
+p9094
 aS'Auckland'
-p8279
+p9095
 aVNew Zealand/Aotearoa
-p8280
+p9096
 aVAuckland
-p8281
+p9097
 ag9
-aa(lp8282
+ag9
+aa(lp9098
 S'Ben Evans'
-p8283
+p9099
 aS'1998'
-p8284
+p9100
 aS'Prop'
-p8285
+p9101
 aS'27'
-p8286
+p9102
 aS'15'
-p8287
+p9103
 aS'12'
-p8288
+p9104
 aS'0'
 aS'0'
 aS'0'
 aS'Bedwas'
-p8289
+p9105
 aVUnited Kingdom
-p8290
+p9106
 aVWales
-p8291
+p9107
 aVCaerphilly
-p8292
-aa(lp8293
+p9108
+aVBedwas
+p9109
+aa(lp9110
 S'Matthew Robinson'
-p8294
+p9111
 aS'1999'
-p8295
+p9112
 aS'Centre, Wing'
-p8296
+p9113
 aS'4'
 aS'2'
 aS'2'
@@ -20837,66 +22624,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p8297
+p9114
 aVUnited Kingdom
-p8298
+p9115
 aVWales
-p8299
+p9116
 aVCardiff
-p8300
-aa(lp8301
+p9117
+ag9
+aa(lp9118
 S'Peter Rogers'
-p8302
+p9119
 aS'1999'
-p8303
+p9120
 aS'Prop, Hooker'
-p8304
+p9121
 aS'18'
-p8305
+p9122
 aS'13'
-p8306
+p9123
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Maidstone'
-p8307
+p9124
 aVUnited Kingdom
-p8308
+p9125
 aVEngland
-p8309
+p9126
 aVSouth East
-p8310
-aa(lp8311
+p9127
+aVKent
+p9128
+aa(lp9129
 S'Brett Sinkinson'
-p8312
+p9130
 aS'1999'
-p8313
+p9131
 aS'Flanker'
-p8314
+p9132
 aS'20'
-p8315
+p9133
 aS'13'
-p8316
+p9134
 aS'7'
 aS'0'
 aS'1'
 aS'5'
 aS'Rotorua'
-p8317
+p9135
 aVNew Zealand/Aotearoa
-p8318
+p9136
 aVBay of Plenty
-p8319
+p9137
 aVRotorua District
-p8320
-aa(lp8321
+p9138
+aVRotorua
+p9139
+aa(lp9140
 S'Nick Walne'
-p8322
+p9141
 aS'1999'
-p8323
+p9142
 aS'Wing'
-p8324
+p9143
 aS'3'
 aS'3'
 aS'0'
@@ -20904,20 +22696,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Scunthorpe'
-p8325
+p9144
 aVUnited Kingdom
-p8326
+p9145
 aVEngland
-p8327
+p9146
 aVYorkshire and the Humber
-p8328
-aa(lp8329
+p9147
+aVNorth Lincolnshire
+p9148
+aa(lp9149
 S'Jason Jones-Hughes'
-p8330
+p9150
 aS'1999'
-p8331
+p9151
 aS'Centre'
-p8332
+p9152
 aS'3'
 aS'2'
 aS'1'
@@ -20925,19 +22719,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'NSW'
-p8333
+p9153
 aVAustralia
-p8334
+p9154
 aVNew South Wales
-p8335
+p9155
 ag9
-aa(lp8336
+ag9
+aa(lp9156
 S'Richard Smith'
-p8337
+p9157
 aS'2000'
-p8338
+p9158
 aS'Scrum-half'
-p8339
+p9159
 aS'1'
 aS'0'
 aS'1'
@@ -20945,69 +22740,75 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypool'
-p8340
+p9160
 aVUnited Kingdom
-p8341
+p9161
 aVNP4
-p8342
+p9162
 aVWales
-p8343
-aa(lp8344
+p9163
+aVMonmouthshire
+p9164
+aa(lp9165
 S'Shane Williams'
-p8345
+p9166
 aS'2000'
-p8346
+p9167
 aS'Wing'
-p8347
+p9168
 aS'91'
-p8348
+p9169
 aS'42'
-p8349
+p9170
 aS'46'
-p8350
+p9171
 aS'3'
 aS'60'
-p8351
+p9172
 aS'300'
-p8352
+p9173
 aS'Morriston'
-p8353
+p9174
 aVUnited Kingdom
-p8354
+p9175
 aVWales
-p8355
+p9176
 aVSwansea
-p8356
-aa(lp8357
+p9177
+aVMorriston
+p9178
+aa(lp9179
 S'Nathan Budgett'
-p8358
+p9180
 aS'2000'
-p8359
+p9181
 aS'Lock, Flanker'
-p8360
+p9182
 aS'12'
-p8361
+p9183
 aS'7'
 aS'5'
 aS'0'
 aS'2'
 aS'10'
-p8362
+p9184
 aS'Newport'
-p8363
+p9185
 aVUnited Kingdom
-p8364
+p9186
 aVNP
-p8365
+p9187
 aVWales
-p8366
-aa(lp8367
+p9188
+aVMonmouthshire
+p9189
+aa(lp9190
 S'Matt Cardey'
-p8368
+p9191
 aS'2000'
-p8369
+p9192
 aS'Fullback'
-p8370
+p9193
 aS'1'
 aS'1'
 aS'0'
@@ -21015,92 +22816,98 @@ aS'0'
 aS'0'
 aS'0'
 aS'Papakura'
-p8371
+p9194
 aVNew Zealand/Aotearoa
-p8372
+p9195
 aVAuckland
-p8373
+p9196
 aVPapakura
-p8374
-aa(lp8375
+p9197
+ag9
+aa(lp9198
 S'Rhys Williams'
-p8376
+p9199
 aS'2000'
-p8377
+p9200
 aS'Utility back'
-p8378
+p9201
 aS'44'
-p8379
+p9202
 aS'21'
-p8380
+p9203
 aS'22'
-p8381
+p9204
 aS'1'
 aS'18'
-p8382
+p9205
 aS'90'
-p8383
+p9206
 aS'Bridgend'
-p8384
+p9207
 aVUnited Kingdom
-p8385
+p9208
 aVWales
-p8386
+p9209
 aVBridgend
-p8387
-aa(lp8388
+p9210
+ag9
+aa(lp9211
 S'Deiniol Jones'
-p8389
+p9212
 aS'2000'
-p8390
+p9213
 aS'Lock'
-p8391
+p9214
 aS'13'
-p8392
+p9215
 aS'6'
 aS'6'
 aS'1'
 aS'0'
 aS'0'
 aS'Carmarthen'
-p8393
+p9216
 aVUnited Kingdom
-p8394
+p9217
 aVWales
-p8395
+p9218
 aVCarmarthenshire
-p8396
-aa(lp8397
+p9219
+aVCarmarthen
+p9220
+aa(lp9221
 S'Iestyn Thomas'
-p8398
+p9222
 aS'2000'
-p8399
+p9223
 aS'Prop'
-p8400
+p9224
 aS'33'
-p8401
+p9225
 aS'10'
-p8402
+p9226
 aS'23'
-p8403
+p9227
 aS'0'
 aS'0'
 aS'0'
 aS'Panteg'
-p8404
+p9228
 aVUnited Kingdom
-p8405
+p9229
 aVWales
-p8406
+p9230
 aVCardiff
-p8407
-aa(lp8408
+p9231
+aVGwaelod-Y-Garth
+p9232
+aa(lp9233
 S'James Griffiths'
-p8409
+p9234
 aS'2000'
-p8410
+p9235
 aS'Lock'
-p8411
+p9236
 aS'1'
 aS'1'
 aS'0'
@@ -21108,71 +22915,76 @@ aS'0'
 aS'0'
 aS'0'
 aS'Glanaman'
-p8412
+p9237
 aVUnited Kingdom
-p8413
+p9238
 aVWales
-p8414
+p9239
 aVRhondda Cynon Taf
-p8415
-aa(lp8416
+p9240
+aVCwmaman
+p9241
+aa(lp9242
 S'Mark Jones'
-p8417
+p9243
 aS'2001'
-p8418
+p9244
 aS'Wing'
-p8419
+p9245
 aS'47'
-p8420
+p9246
 aS'22'
-p8421
+p9247
 aS'23'
-p8422
+p9248
 aS'2'
 aS'13'
-p8423
+p9249
 aS'65'
-p8424
+p9250
 aS'Builth Wells'
-p8425
+p9251
 aVUnited Kingdom
-p8426
+p9252
 aVLD2
-p8427
+p9253
 aVWales
-p8428
-aa(lp8429
+p9254
+aVPowys
+p9255
+aa(lp9256
 S'Gareth Cooper'
-p8430
+p9257
 aS'2001'
-p8431
+p9258
 aS'Scrum-half'
-p8432
+p9259
 aS'47'
-p8433
+p9260
 aS'22'
-p8434
+p9261
 aS'24'
-p8435
+p9262
 aS'1'
 aS'9'
 aS'45'
-p8436
+p9263
 aS'Bridgend'
-p8437
+p9264
 aVUnited Kingdom
-p8438
+p9265
 aVWales
-p8439
+p9266
 aVBridgend
-p8440
-aa(lp8441
+p9267
+ag9
+aa(lp9268
 S'Adrian Durston'
-p8442
+p9269
 aS'2001'
-p8443
+p9270
 aS'Fullback'
-p8444
+p9271
 aS'2'
 aS'2'
 aS'0'
@@ -21180,20 +22992,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Neath'
-p8445
+p9272
 aVUnited Kingdom
-p8446
+p9273
 aVWales
-p8447
+p9274
 aVWest Glamorgan
-p8448
-aa(lp8449
+p9275
+aVNeath
+p9276
+aa(lp9277
 S'Andy Lloyd'
-p8450
+p9278
 aS'2001'
-p8451
+p9279
 aS'Lock, Back-row'
-p8452
+p9280
 aS'1'
 aS'1'
 aS'0'
@@ -21201,69 +23015,74 @@ aS'0'
 aS'1'
 aS'5'
 aS'Swansea'
-p8453
+p9281
 aVUnited Kingdom
-p8454
+p9282
 aVWales
-p8455
+p9283
 aVWest Glamorgan
-p8456
-aa(lp8457
+p9284
+aVSwansea
+p9285
+aa(lp9286
 S'Gavin Thomas'
-p8458
+p9287
 aS'2001'
-p8459
+p9288
 aS'Back-row'
-p8460
+p9289
 aS'24'
-p8461
+p9290
 aS'7'
 aS'17'
-p8462
+p9291
 aS'0'
 aS'4'
 aS'20'
-p8463
+p9292
 aS'Leamington Spa'
-p8464
+p9293
 aVUnited Kingdom
-p8465
+p9294
 aVEngland
-p8466
+p9295
 aVWest Midlands
-p8467
-aa(lp8468
+p9296
+aVWarwickshire
+p9297
+aa(lp9298
 S'Gavin Henson'
-p8469
+p9299
 aS'2001'
-p8470
+p9300
 aS'Fly-half'
-p8471
+p9301
 aS'34'
-p8472
+p9302
 aS'18'
-p8473
+p9303
 aS'15'
-p8474
+p9304
 aS'1'
 aS'3'
 aS'130'
-p8475
+p9305
 aS'Bridgend'
-p8476
+p9306
 aVUnited Kingdom
-p8477
+p9307
 aVWales
-p8478
+p9308
 aVBridgend
-p8479
-aa(lp8480
+p9309
+ag9
+aa(lp9310
 S'Steve Jones'
-p8481
+p9311
 aS'2001'
-p8482
+p9312
 aS'Hooker'
-p8483
+p9313
 aS'5'
 aS'3'
 aS'2'
@@ -21271,20 +23090,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p8484
+p9314
 aVUnited Kingdom
-p8485
+p9315
 aVWales
-p8486
+p9316
 aVWest Glamorgan
-p8487
-aa(lp8488
+p9317
+aVNeath
+p9318
+aa(lp9319
 S'Jamie Ringer'
-p8489
+p9320
 aS'2001'
-p8490
+p9321
 aS'Back-row'
-p8491
+p9322
 aS'2'
 aS'2'
 aS'0'
@@ -21292,120 +23113,128 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p8492
+p9323
 aVUnited Kingdom
-p8493
+p9324
 aVWales
-p8494
+p9325
 aVCardiff
-p8495
-aa(lp8496
+p9326
+ag9
+aa(lp9327
 S'Jamie Robinson'
-p8497
+p9328
 aS'2001'
-p8498
+p9329
 aS'Centre'
-p8499
+p9330
 aS'23'
-p8500
+p9331
 aS'8'
 aS'15'
-p8501
+p9332
 aS'0'
 aS'7'
 aS'35'
-p8502
+p9333
 aS'Cardiff'
-p8503
+p9334
 aVUnited Kingdom
-p8504
+p9335
 aVWales
-p8505
+p9336
 aVCardiff
-p8506
-aa(lp8507
+p9337
+ag9
+aa(lp9338
 S'Tom Shanklin'
-p8508
+p9339
 aS'2001'
-p8509
+p9340
 aS'Wing, Centre'
-p8510
+p9341
 aS'70'
-p8511
+p9342
 aS'32'
-p8512
+p9343
 aS'36'
-p8513
+p9344
 aS'2'
 aS'20'
-p8514
+p9345
 aS'100'
-p8515
+p9346
 aS'Harrow'
-p8516
+p9347
 aVUnited Kingdom
-p8517
+p9348
 aVEngland
-p8518
+p9349
 aVGreater London
-p8519
-aa(lp8520
+p9350
+aVLondon
+p9351
+aa(lp9352
 S'Dwayne Peel'
-p8521
+p9353
 aS'2001'
-p8522
+p9354
 aS'Scrum-half'
-p8523
+p9355
 aS'79'
-p8524
+p9356
 aS'35'
-p8525
+p9357
 aS'42'
-p8526
+p9358
 aS'2'
 aS'5'
 aS'25'
-p8527
+p9359
 aS'Carmarthen'
-p8528
+p9360
 aVUnited Kingdom
-p8529
+p9361
 aVWales
-p8530
+p9362
 aVCarmarthenshire
-p8531
-aa(lp8532
+p9363
+aVCarmarthen
+p9364
+aa(lp9365
 S'Iestyn Harris'
-p8533
+p9366
 aS'2001'
-p8534
+p9367
 aS'Halfback, Back-row'
-p8535
+p9368
 aS'25'
-p8536
+p9369
 aS'10'
-p8537
+p9370
 aS'15'
-p8538
+p9371
 aS'0'
 aS'1'
 aS'108'
-p8539
+p9372
 aS'Oldham'
-p8540
+p9373
 aVUnited Kingdom
-p8541
+p9374
 aVEngland
-p8542
+p9375
 aVNorth West England
-p8543
-aa(lp8544
+p9376
+aVGreater Manchester
+p9377
+aa(lp9378
 S'Anthony Sullivan'
-p8545
+p9379
 aS'2001'
-p8546
+p9380
 aS'Wing'
-p8547
+p9381
 aS'2'
 aS'1'
 aS'1'
@@ -21413,67 +23242,73 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hull'
-p8548
+p9382
 aVUnited Kingdom
-p8549
+p9383
 aVEngland
-p8550
+p9384
 aVYorkshire and the Humber
-p8551
-aa(lp8552
+p9385
+aVKingston upon Hull
+p9386
+aa(lp9387
 S'Duncan Jones'
-p8553
+p9388
 aS'2001'
-p8554
+p9389
 aS'Prop'
-p8555
+p9390
 aS'57'
-p8556
+p9391
 aS'26'
-p8557
+p9392
 aS'29'
-p8558
+p9393
 aS'2'
 aS'0'
 aS'0'
 aS'Neath'
-p8559
+p9394
 aVUnited Kingdom
-p8560
+p9395
 aVWales
-p8561
+p9396
 aVWest Glamorgan
-p8562
-aa(lp8563
+p9397
+aVNeath
+p9398
+aa(lp9399
 S'Craig Morgan'
-p8564
+p9400
 aS'2002'
-p8565
+p9401
 aS'Fullback, Wing'
-p8566
+p9402
 aS'10'
-p8567
+p9403
 aS'3'
 aS'7'
 aS'0'
 aS'3'
 aS'15'
-p8568
+p9404
 aS'Pontypridd'
-p8569
+p9405
 aVUnited Kingdom
-p8570
+p9406
 aVCF37; CF38
-p8571
+p9407
 aVWales
-p8572
-aa(lp8573
+p9408
+aVMid Glamorgan
+p9409
+aa(lp9410
 S'Andy Marinos'
-p8574
+p9411
 aS'2002'
-p8575
+p9412
 aS'Centre'
-p8576
+p9413
 aS'8'
 aS'2'
 aS'6'
@@ -21481,45 +23316,49 @@ aS'0'
 aS'1'
 aS'5'
 aS'Rhodesia'
-p8577
+p9414
 aVUnited Kingdom
-p8578
+p9415
 aVEngland
-p8579
+p9416
 aVEast Midlands
-p8580
-aa(lp8581
+p9417
+aVNottinghamshire
+p9418
+aa(lp9419
 S'Michael Owen'
-p8582
+p9420
 aS'2002'
-p8583
+p9421
 aS'Back-row'
-p8584
+p9422
 aS'42'
-p8585
+p9423
 aS'19'
-p8586
+p9424
 aS'21'
-p8587
+p9425
 aS'2'
 aS'2'
 aS'10'
-p8588
+p9426
 aS'Church Village'
-p8589
+p9427
 aVUnited Kingdom
-p8590
+p9428
 aVWales
-p8591
+p9429
 aVRhondda Cynon Taf
-p8592
-aa(lp8593
+p9430
+aVChurch Village
+p9431
+aa(lp9432
 S'Martyn Madden'
-p8594
+p9433
 aS'2002'
-p8595
+p9434
 aS'Prop'
-p8596
+p9435
 aS'5'
 aS'2'
 aS'3'
@@ -21527,20 +23366,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p8597
+p9436
 aVUnited Kingdom
-p8598
+p9437
 aVWales
-p8599
+p9438
 aVCardiff
-p8600
-aa(lp8601
+p9439
+ag9
+aa(lp9440
 S'Richard Parks'
-p8602
+p9441
 aS'2002'
-p8603
+p9442
 aS'Flanker'
-p8604
+p9443
 aS'4'
 aS'2'
 aS'2'
@@ -21548,20 +23388,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pontypridd'
-p8605
+p9444
 aVUnited Kingdom
-p8606
+p9445
 aVCF37; CF38
-p8607
+p9446
 aVWales
-p8608
-aa(lp8609
+p9447
+aVMid Glamorgan
+p9448
+aa(lp9449
 S'Ryan Powell'
-p8610
+p9450
 aS'2002'
-p8611
+p9451
 aS'Scrum-half'
-p8612
+p9452
 aS'3'
 aS'1'
 aS'2'
@@ -21569,142 +23411,152 @@ aS'0'
 aS'0'
 aS'0'
 aS'Panteg'
-p8613
+p9453
 aVUnited Kingdom
-p8614
+p9454
 aVWales
-p8615
+p9455
 aVCardiff
-p8616
-aa(lp8617
+p9456
+aVGwaelod-Y-Garth
+p9457
+aa(lp9458
 S'Robert Sidoli'
-p8618
+p9459
 aS'2002'
-p8619
+p9460
 aS'Lock'
-p8620
+p9461
 aS'42'
-p8621
+p9462
 aS'17'
-p8622
+p9463
 aS'24'
-p8623
+p9464
 aS'1'
 aS'2'
 aS'10'
-p8624
+p9465
 aS'Merthyr Tydfil'
-p8625
+p9466
 aVUnited Kingdom
-p8626
+p9467
 aVWales
-p8627
+p9468
 aVMerthyr Tydfil
-p8628
-aa(lp8629
+p9469
+ag9
+aa(lp9470
 S'Mefin Davies'
-p8630
+p9471
 aS'2002'
-p8631
+p9472
 aS'Hooker'
-p8632
+p9473
 aS'38'
-p8633
+p9474
 aS'17'
-p8634
+p9475
 aS'20'
-p8635
+p9476
 aS'1'
 aS'2'
 aS'10'
-p8636
+p9477
 aS'Nantgaredig'
-p8637
+p9478
 aVUnited Kingdom
-p8638
+p9479
 aVWales
-p8639
+p9480
 aVCarmarthenshire
-p8640
-aa(lp8641
+p9481
+aVNantgaredig
+p9482
+aa(lp9483
 S'Gethin Jenkins'
-p8642
+p9484
 aS'2002'
-p8643
+p9485
 aS'Prop'
-p8644
+p9486
 aS'119'
-p8645
+p9487
 aS'52'
-p8646
+p9488
 aS'65'
-p8647
+p9489
 aS'2'
 aS'4'
 aS'20'
-p8648
+p9490
 aS'Llantwit Fadre'
-p8649
+p9491
 aS'g'
 aS'n'
 aS'i'
-aa(lp8650
+aS's'
+aa(lp9492
 S'Sonny Parker'
-p8651
+p9493
 aS'2002'
-p8652
+p9494
 aS'Centre'
-p8653
+p9495
 aS'31'
-p8654
+p9496
 aS'15'
-p8655
+p9497
 aS'16'
-p8656
+p9498
 aS'0'
 aS'6'
 aS'30'
-p8657
+p9499
 aS'Thames'
-p8658
+p9500
 aVNew Zealand/Aotearoa
-p8659
+p9501
 aVWaikato
-p8660
+p9502
 aVThames Coromandel District
-p8661
-aa(lp8662
+p9503
+aVThames
+p9504
+aa(lp9505
 S'Dafydd Jones'
-p8663
+p9506
 aS'2002'
-p8664
+p9507
 aS'Back-row'
-p8665
+p9508
 aS'42'
-p8666
+p9509
 aS'19'
-p8667
+p9510
 aS'23'
-p8668
+p9511
 aS'0'
 aS'2'
 aS'10'
-p8669
+p9512
 aS'Aberystwyth'
-p8670
+p9513
 aVUnited Kingdom
-p8671
+p9514
 aVWales
-p8672
+p9515
 aVCeredigion
-p8673
-aa(lp8674
+p9516
+aVAberystwyth
+p9517
+aa(lp9518
 S'Vernon Cooper'
-p8675
+p9519
 aS'2002'
-p8676
+p9520
 aS'Lock'
-p8677
+p9521
 aS'3'
 aS'2'
 aS'1'
@@ -21712,68 +23564,74 @@ aS'0'
 aS'0'
 aS'0'
 aS'Morriston'
-p8678
+p9522
 aVUnited Kingdom
-p8679
+p9523
 aVWales
-p8680
+p9524
 aVSwansea
-p8681
-aa(lp8682
+p9525
+aVMorriston
+p9526
+aa(lp9527
 S'Ceri Sweeney'
-p8683
+p9528
 aS'2003'
-p8684
+p9529
 aS'Fly-half'
-p8685
+p9530
 aS'35'
-p8686
+p9531
 aS'16'
-p8687
+p9532
 aS'19'
-p8688
+p9533
 aS'0'
 aS'4'
 aS'88'
-p8689
+p9534
 aS'Pontypridd'
-p8690
+p9535
 aVUnited Kingdom
-p8691
+p9536
 aVCF37; CF38
-p8692
+p9537
 aVWales
-p8693
-aa(lp8694
+p9538
+aVMid Glamorgan
+p9539
+aa(lp9540
 S'Matthew Watkins'
-p8695
+p9541
 aS'2003'
-p8696
+p9542
 aS'Centre'
-p8697
+p9543
 aS'18'
-p8698
+p9544
 aS'7'
 aS'10'
-p8699
+p9545
 aS'1'
 aS'0'
 aS'0'
 aS'Newport'
-p8700
+p9546
 aVUnited Kingdom
-p8701
+p9547
 aVNP
-p8702
+p9548
 aVWales
-p8703
-aa(lp8704
+p9549
+aVMonmouthshire
+p9550
+aa(lp9551
 S'Gareth Williams'
-p8705
+p9552
 aS'2003'
-p8706
+p9553
 aS'Hooker'
-p8707
+p9554
 aS'9'
 aS'3'
 aS'6'
@@ -21781,69 +23639,73 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bridgend'
-p8708
+p9555
 aVUnited Kingdom
-p8709
+p9556
 aVWales
-p8710
+p9557
 aVBridgend
-p8711
-aa(lp8712
+p9558
+ag9
+aa(lp9559
 S'Jonathan Thomas'
-p8713
+p9560
 aS'2003'
-p8714
+p9561
 aS'Back-row'
-p8715
+p9562
 aS'67'
-p8716
+p9563
 aS'30'
-p8717
+p9564
 aS'34'
-p8718
+p9565
 aS'3'
 aS'7'
 aS'35'
-p8719
+p9566
 aS'Pembroke'
-p8720
+p9567
 aVBermuda
-p8721
+p9568
 aVPembroke
-p8722
+p9569
 ag9
-aa(lp8723
+ag9
+aa(lp9570
 S'Alix Popham'
-p8724
+p9571
 aS'2003'
-p8725
+p9572
 aS'Back-row'
-p8726
+p9573
 aS'33'
-p8727
+p9574
 aS'13'
-p8728
+p9575
 aS'19'
-p8729
+p9576
 aS'1'
 aS'4'
 aS'20'
-p8730
+p9577
 aS'Newport'
-p8731
+p9578
 aVUnited Kingdom
-p8732
+p9579
 aVNP
-p8733
+p9580
 aVWales
-p8734
-aa(lp8735
+p9581
+aVMonmouthshire
+p9582
+aa(lp9583
 S'Rhys Oakley'
-p8736
+p9584
 aS'2003'
-p8737
+p9585
 aS'Back-row'
-p8738
+p9586
 aS'2'
 aS'1'
 aS'1'
@@ -21851,92 +23713,99 @@ aS'0'
 aS'0'
 aS'0'
 aS'Plymouth'
-p8739
+p9587
 aVUnited Kingdom
-p8740
+p9588
 aVEngland
-p8741
+p9589
 aVSouth West England
-p8742
-aa(lp8743
+p9590
+aVDevon
+p9591
+aa(lp9592
 S'Nicky Robinson'
-p8744
+p9593
 aS'2003'
-p8745
+p9594
 aS'Fly-half'
-p8746
+p9595
 aS'13'
-p8747
+p9596
 aS'7'
 aS'6'
 aS'0'
 aS'2'
 aS'42'
-p8748
+p9597
 aS'Cardiff'
-p8749
+p9598
 aVUnited Kingdom
-p8750
+p9599
 aVWales
-p8751
+p9600
 aVCardiff
-p8752
-aa(lp8753
+p9601
+ag9
+aa(lp9602
 S'Huw Bennett'
-p8754
+p9603
 aS'2003'
-p8755
+p9604
 aS'Hooker'
-p8756
+p9605
 aS'51'
-p8757
+p9606
 aS'25'
-p8758
+p9607
 aS'25'
-p8759
+p9608
 aS'1'
 aS'0'
 aS'0'
 aS'Ebbw Vale'
-p8760
+p9609
 aVUnited Kingdom
-p8761
+p9610
 aVNP23
-p8762
+p9611
 aVWales
-p8763
-aa(lp8764
+p9612
+aVMonmouthshire
+p9613
+aa(lp9614
 S'Adam Jones'
-p8765
+p9615
 aS'2003'
-p8766
+p9616
 aS'Prop'
-p8767
+p9617
 aS'100'
-p8768
+p9618
 aS'49'
-p8769
+p9619
 aS'48'
-p8770
+p9620
 aS'3'
 aS'2'
 aS'10'
-p8771
+p9621
 aS'Abercrave'
-p8772
+p9622
 aVUnited Kingdom
-p8773
+p9623
 aVSA9 1XS
-p8774
+p9624
 aVWales
-p8775
-aa(lp8776
+p9625
+aVPowys
+p9626
+aa(lp9627
 S'Nathan Brew'
-p8777
+p9628
 aS'2003'
-p8778
+p9629
 aS'Centre, Wing'
-p8779
+p9630
 aS'1'
 aS'1'
 aS'0'
@@ -21944,94 +23813,100 @@ aS'0'
 aS'1'
 aS'5'
 aS'S.Glamorgan'
-p8780
+p9631
 aVUnited Kingdom
-p8781
+p9632
 aVWales
-p8782
+p9633
 aVWest Glamorgan
-p8783
-aa(lp8784
+p9634
+ag9
+aa(lp9635
 S'Brent Cockbain'
-p8785
+p9636
 aS'2003'
-p8786
+p9637
 aS'Lock'
-p8787
+p9638
 aS'24'
-p8788
+p9639
 aS'13'
-p8789
+p9640
 aS'11'
-p8790
+p9641
 aS'0'
 aS'1'
 aS'5'
 aS'Cairns'
-p8791
+p9642
 aVAustralia
-p8792
+p9643
 aVQueensland
-p8793
+p9644
 aVCairns
-p8794
-aa(lp8795
+p9645
+ag9
+aa(lp9646
 S'Paul James'
-p8796
+p9647
 aS'2003'
-p8797
+p9648
 aS'Prop'
-p8798
+p9649
 aS'60'
-p8799
+p9650
 aS'27'
-p8800
+p9651
 aS'32'
-p8801
+p9652
 aS'1'
 aS'0'
 aS'0'
 aS'Neath'
-p8802
+p9653
 aVUnited Kingdom
-p8803
+p9654
 aVWales
-p8804
+p9655
 aVWest Glamorgan
-p8805
-aa(lp8806
+p9656
+aVNeath
+p9657
+aa(lp9658
 S'Mike Phillips'
-p8807
+p9659
 aS'2003'
-p8808
+p9660
 aS'Scrum-half'
-p8809
+p9661
 aS'98'
-p8810
+p9662
 aS'47'
-p8811
+p9663
 aS'49'
-p8812
+p9664
 aS'2'
 aS'10'
-p8813
+p9665
 aS'50'
-p8814
+p9666
 aS'Carmarthen'
-p8815
+p9667
 aVUnited Kingdom
-p8816
+p9668
 aVWales
-p8817
+p9669
 aVCarmarthenshire
-p8818
-aa(lp8819
+p9670
+aVCarmarthen
+p9671
+aa(lp9672
 S'James Bater'
-p8820
+p9673
 aS'2003'
-p8821
+p9674
 aS'Back-row'
-p8822
+p9675
 aS'1'
 aS'1'
 aS'0'
@@ -22039,20 +23914,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bridgend'
-p8823
+p9676
 aVUnited Kingdom
-p8824
+p9677
 aVWales
-p8825
+p9678
 aVBridgend
-p8826
-aa(lp8827
+p9679
+ag9
+aa(lp9680
 S'Jon Bryant'
-p8828
+p9681
 aS'2003'
-p8829
+p9682
 aS'Centre'
-p8830
+p9683
 aS'1'
 aS'1'
 aS'0'
@@ -22060,20 +23936,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Aberdare'
-p8831
+p9684
 aVUnited Kingdom
-p8832
+p9685
 aVWales
-p8833
+p9686
 aVMid Glamorgan
-p8834
-aa(lp8835
+p9687
+aVAberdare
+p9688
+aa(lp9689
 S'Andy Williams'
-p8836
+p9690
 aS'2003'
-p8837
+p9691
 aS'Scrum-half'
-p8838
+p9692
 aS'5'
 aS'3'
 aS'2'
@@ -22081,20 +23959,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p8839
+p9693
 aVUnited Kingdom
-p8840
+p9694
 aVWales
-p8841
+p9695
 aVWest Glamorgan
-p8842
-aa(lp8843
+p9696
+aVSwansea
+p9697
+aa(lp9698
 S'Paul Young'
-p8844
+p9699
 aS'2003'
-p8845
+p9700
 aS'Hooker'
-p8846
+p9701
 aS'1'
 aS'1'
 aS'0'
@@ -22102,43 +23982,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p8847
+p9702
 aVUnited Kingdom
-p8848
+p9703
 aVWales
-p8849
+p9704
 aVWest Glamorgan
-p8850
-aa(lp8851
+p9705
+aVSwansea
+p9706
+aa(lp9707
 S'Hal Luscombe'
-p8852
+p9708
 aS'2003'
-p8853
+p9709
 aS'Centre'
-p8854
+p9710
 aS'16'
-p8855
+p9711
 aS'8'
 aS'7'
 aS'1'
 aS'2'
 aS'10'
-p8856
+p9712
 aS'Laingsburg'
-p8857
+p9713
 aVSouth Africa
-p8858
+p9714
 aVWestern Cape
-p8859
+p9715
 aVCentral Karoo District Municipality
-p8860
-aa(lp8861
+p9716
+aVLaingsburg
+p9717
+aa(lp9718
 S'Jason Forster'
-p8862
+p9719
 aS'2004'
-p8863
+p9720
 aS'Back-row'
-p8864
+p9721
 aS'1'
 aS'0'
 aS'1'
@@ -22146,92 +24030,99 @@ aS'0'
 aS'1'
 aS'5'
 aS'Derby'
-p8865
+p9722
 aVUnited Kingdom
-p8866
+p9723
 aVEngland
-p8867
+p9724
 aVEast Midlands
-p8868
-aa(lp8869
+p9725
+aVDerbyshire
+p9726
+aa(lp9727
 S'Ryan Jones'
-p8870
+p9728
 aS'2004'
-p8871
+p9729
 aS'Back-row'
-p8872
+p9730
 aS'78'
-p8873
+p9731
 aS'39'
-p8874
+p9732
 aS'37'
-p8875
+p9733
 aS'2'
 aS'2'
 aS'10'
-p8876
+p9734
 aS'Newport'
-p8877
+p9735
 aVUnited Kingdom
-p8878
+p9736
 aVNP
-p8879
+p9737
 aVWales
-p8880
-aa(lp8881
+p9738
+aVMonmouthshire
+p9739
+aa(lp9740
 S'Luke Charteris'
-p8882
+p9741
 aS'2004'
-p8883
+p9742
 aS'Lock'
-p8884
+p9743
 aS'55'
-p8885
+p9744
 aS'28'
-p8886
+p9745
 aS'27'
-p8887
+p9746
 aS'0'
 aS'0'
 aS'0'
 aS'Camborne'
-p8888
+p9747
 aVUnited Kingdom
-p8889
+p9748
 aVTR14 8
-p8890
+p9749
 aVEngland
-p8891
-aa(lp8892
+p9750
+aVSouth West England
+p9751
+aa(lp9752
 S'John Yapp'
-p8893
+p9753
 aS'2005'
-p8894
+p9754
 aS'Prop'
-p8895
+p9755
 aS'21'
-p8896
+p9756
 aS'14'
-p8897
+p9757
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p8898
+p9758
 aVUnited Kingdom
-p8899
+p9759
 aVWales
-p8900
+p9760
 aVCardiff
-p8901
-aa(lp8902
+p9761
+ag9
+aa(lp9762
 S'Robin Sowden-Taylor'
-p8903
+p9763
 aS'2005'
-p8904
+p9764
 aS'Back-row'
-p8905
+p9765
 aS'8'
 aS'5'
 aS'3'
@@ -22239,45 +24130,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p8906
+p9766
 aVUnited Kingdom
-p8907
+p9767
 aVWales
-p8908
+p9768
 aVCardiff
-p8909
-aa(lp8910
+p9769
+ag9
+aa(lp9770
 S'Matthew Rees'
-p8911
+p9771
 aS'2005'
-p8912
+p9772
 aS'Hooker'
-p8913
+p9773
 aS'63'
-p8914
+p9774
 aS'24'
-p8915
+p9775
 aS'38'
-p8916
+p9776
 aS'1'
 aS'2'
 aS'10'
-p8917
+p9777
 aS'Tonyrefail'
-p8918
+p9778
 aVUnited Kingdom
-p8919
+p9779
 aVCF39
-p8920
+p9780
 aVWales
-p8921
-aa(lp8922
+p9781
+aVMid Glamorgan
+p9782
+aa(lp9783
 S'Ben Broster'
-p8923
+p9784
 aS'2005'
-p8924
+p9785
 aS'Prop'
-p8925
+p9786
 aS'2'
 aS'2'
 aS'0'
@@ -22285,20 +24179,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'London'
-p8926
+p9787
 aVUnited Kingdom
-p8927
+p9788
 aVEngland
-p8928
+p9789
 aVGreater London
-p8929
-aa(lp8930
+p9790
+aVLondon
+p9791
+aa(lp9792
 S'Richie Pugh'
-p8931
+p9793
 aS'2005'
-p8932
+p9794
 aS'Back-row'
-p8933
+p9795
 aS'1'
 aS'1'
 aS'0'
@@ -22306,20 +24202,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Swansea'
-p8934
+p9796
 aVUnited Kingdom
-p8935
+p9797
 aVWales
-p8936
+p9798
 aVWest Glamorgan
-p8937
-aa(lp8938
+p9799
+aVSwansea
+p9800
+aa(lp9801
 S'Tal Selley'
-p8939
+p9802
 aS'2005'
-p8940
+p9803
 aS'Wing, Centre'
-p8941
+p9804
 aS'1'
 aS'1'
 aS'0'
@@ -22327,66 +24225,71 @@ aS'0'
 aS'1'
 aS'5'
 aS'Pembroke Dock'
-p8942
+p9805
 aVUnited Kingdom
-p8943
+p9806
 aVWales
-p8944
+p9807
 aVPembrokeshire
-p8945
-aa(lp8946
+p9808
+aVPembroke Dock
+p9809
+aa(lp9810
 S'T.Rhys Thomas'
-p8947
+p9811
 aS'2005'
-p8948
+p9812
 aS'Hooker'
-p8949
+p9813
 aS'27'
-p8950
+p9814
 aS'10'
-p8951
+p9815
 aS'16'
-p8952
+p9816
 aS'1'
 aS'1'
 aS'5'
 aS'Abercynon'
-p8953
+p9817
 aVUnited Kingdom
-p8954
+p9818
 aVWales
-p8955
+p9819
 aVRhondda Cynon Taf
-p8956
-aa(lp8957
+p9820
+aVAbercynon
+p9821
+aa(lp9822
 S'Chris Czekaj'
-p8958
+p9823
 aS'2005'
-p8959
+p9824
 aS'Wing'
-p8960
+p9825
 aS'9'
 aS'2'
 aS'7'
 aS'0'
 aS'2'
 aS'10'
-p8961
+p9826
 aS'Cardiff'
-p8962
+p9827
 aVUnited Kingdom
-p8963
+p9828
 aVWales
-p8964
+p9829
 aVCardiff
-p8965
-aa(lp8966
+p9830
+ag9
+aa(lp9831
 S'Matt Jones'
-p8967
+p9832
 aS'2005'
-p8968
+p9833
 aS'Fly-half'
-p8969
+p9834
 aS'1'
 aS'1'
 aS'0'
@@ -22394,68 +24297,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bridgend'
-p8970
+p9835
 aVUnited Kingdom
-p8971
+p9836
 aVWales
-p8972
+p9837
 aVBridgend
-p8973
-aa(lp8974
+p9838
+ag9
+aa(lp9839
 S'Lee Byrne'
-p8975
+p9840
 aS'2005'
-p8976
+p9841
 aS'Fullback'
-p8977
+p9842
 aS'47'
-p8978
+p9843
 aS'20'
-p8979
+p9844
 aS'25'
-p8980
+p9845
 aS'2'
 aS'10'
-p8981
+p9846
 aS'50'
-p8982
+p9847
 aS'Bridgend'
-p8983
+p9848
 aVUnited Kingdom
-p8984
+p9849
 aVWales
-p8985
+p9850
 aVBridgend
-p8986
-aa(lp8987
+p9851
+ag9
+aa(lp9852
 S'Chris Horsman'
-p8988
+p9853
 aS'2005'
-p8989
+p9854
 aS'Prop'
-p8990
+p9855
 aS'14'
-p8991
+p9856
 aS'5'
 aS'9'
 aS'0'
 aS'1'
 aS'5'
 aS'Newport Pagnell'
-p8992
+p9857
 aVUnited Kingdom
-p8993
+p9858
 aVEngland
-p8994
+p9859
 aVSouth East
-p8995
-aa(lp8996
+p9860
+aVMilton Keynes
+p9861
+aa(lp9862
 S'Adam Jones'
-p8997
+p9863
 aS'2006'
-p8998
+p9864
 aS'Lock'
-p8999
+p9865
 aS'2'
 aS'1'
 aS'1'
@@ -22463,42 +24370,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p9000
+p9866
 aVUnited Kingdom
-p9001
+p9867
 aVWales
-p9002
+p9868
 aVWest Glamorgan
-p9003
-aa(lp9004
+p9869
+aVSwansea
+p9870
+aa(lp9871
 S'Gareth Delve'
-p9005
+p9872
 aS'2006'
-p9006
+p9873
 aS'No. 8'
-p9007
+p9874
 aS'11'
-p9008
+p9875
 aS'5'
 aS'6'
 aS'0'
 aS'1'
 aS'5'
 aS'Cardiff'
-p9009
+p9876
 aVUnited Kingdom
-p9010
+p9877
 aVWales
-p9011
+p9878
 aVCardiff
-p9012
-aa(lp9013
+p9879
+ag9
+aa(lp9880
 S'Barry Davies'
-p9014
+p9881
 aS'2006'
-p9015
+p9882
 aS'Fullback'
-p9016
+p9883
 aS'1'
 aS'0'
 aS'1'
@@ -22506,119 +24416,129 @@ aS'0'
 aS'0'
 aS'0'
 aS'Carmarthen'
-p9017
+p9884
 aVUnited Kingdom
-p9018
+p9885
 aVWales
-p9019
+p9886
 aVCarmarthenshire
-p9020
-aa(lp9021
+p9887
+aVCarmarthen
+p9888
+aa(lp9889
 S'Ian Evans'
-p9022
+p9890
 aS'2006'
-p9023
+p9891
 aS'Lock'
-p9024
+p9892
 aS'33'
-p9025
+p9893
 aS'17'
-p9026
+p9894
 aS'15'
-p9027
+p9895
 aS'1'
 aS'1'
 aS'5'
 aS'Johannesburg'
-p9028
+p9896
 aVSouth Africa
-p9029
+p9897
 aV2001
-p9030
+p9898
 aVGauteng
-p9031
-aa(lp9032
+p9899
+aVCity of Johannesburg Metropolitan Municipality
+p9900
+aa(lp9901
 S'Alun Wyn Jones'
-p9033
+p9902
 aS'2006'
-p9034
+p9903
 aS'Lock'
-p9035
+p9904
 aS'95'
-p9036
+p9905
 aS'45'
-p9037
+p9906
 aS'50'
-p9038
+p9907
 aS'0'
 aS'8'
 aS'40'
-p9039
+p9908
 aS'Swansea'
-p9040
+p9909
 aVUnited Kingdom
-p9041
+p9910
 aVWales
-p9042
+p9911
 aVWest Glamorgan
-p9043
-aa(lp9044
+p9912
+aVSwansea
+p9913
+aa(lp9914
 S'Richard Hibbard'
-p9045
+p9915
 aS'2006'
-p9046
+p9916
 aS'Hooker'
-p9047
+p9917
 aS'40'
-p9048
+p9918
 aS'21'
-p9049
+p9919
 aS'19'
-p9050
+p9920
 aS'0'
 aS'1'
 aS'5'
 aS'Neath'
-p9051
+p9921
 aVUnited Kingdom
-p9052
+p9922
 aVWales
-p9053
+p9923
 aVWest Glamorgan
-p9054
-aa(lp9055
+p9924
+aVNeath
+p9925
+aa(lp9926
 S'James Hook'
-p9056
+p9927
 aS'2006'
-p9057
+p9928
 aS'Fly-half'
-p9058
+p9929
 aS'77'
-p9059
+p9930
 aS'35'
-p9060
+p9931
 aS'40'
-p9061
+p9932
 aS'2'
 aS'13'
-p9062
+p9933
 aS'350'
-p9063
+p9934
 aS'Neath'
-p9064
+p9935
 aVUnited Kingdom
-p9065
+p9936
 aVWales
-p9066
+p9937
 aVWest Glamorgan
-p9067
-aa(lp9068
+p9938
+aVNeath
+p9939
+aa(lp9940
 S'Rhys M. Thomas'
-p9069
+p9941
 aS'2006'
-p9070
+p9942
 aS'Prop'
-p9071
+p9943
 aS'7'
 aS'3'
 aS'4'
@@ -22626,20 +24546,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p9072
+p9944
 aVSouth Africa
-p9073
+p9945
 aV2001
-p9074
+p9946
 aVGauteng
-p9075
-aa(lp9076
+p9947
+aVCity of Johannesburg Metropolitan Municipality
+p9948
+aa(lp9949
 S'Gavin Evans'
-p9077
+p9950
 aS'2006'
-p9078
+p9951
 aS'Centre'
-p9079
+p9952
 aS'1'
 aS'1'
 aS'0'
@@ -22647,42 +24569,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p9080
+p9953
 aVUnited Kingdom
-p9081
+p9954
 aVWales
-p9082
+p9955
 aVWest Glamorgan
-p9083
-aa(lp9084
+p9956
+aVSwansea
+p9957
+aa(lp9958
 S'Aled Brew'
-p9085
+p9959
 aS'2007'
-p9086
+p9960
 aS'Wing'
-p9087
+p9961
 aS'9'
 aS'4'
 aS'4'
 aS'1'
 aS'3'
 aS'15'
-p9088
+p9962
 aS'Cardiff'
-p9089
+p9963
 aVUnited Kingdom
-p9090
+p9964
 aVWales
-p9091
+p9965
 aVCardiff
-p9092
-aa(lp9093
+p9966
+ag9
+aa(lp9967
 S'Ceri Jones'
-p9094
+p9968
 aS'2007'
-p9095
+p9969
 aS'Prop'
-p9096
+p9970
 aS'2'
 aS'0'
 aS'2'
@@ -22690,20 +24615,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p9097
+p9971
 aVUnited Kingdom
-p9098
+p9972
 aVNP
-p9099
+p9973
 aVWales
-p9100
-aa(lp9101
+p9974
+aVMonmouthshire
+p9975
+aa(lp9976
 S'Scott Morgan'
-p9102
+p9977
 aS'2007'
-p9103
+p9978
 aS'Lock'
-p9104
+p9979
 aS'1'
 aS'0'
 aS'1'
@@ -22711,20 +24638,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p9105
+p9980
 aVUnited Kingdom
-p9106
+p9981
 aVWales
-p9107
+p9982
 aVWest Glamorgan
-p9108
-aa(lp9109
+p9983
+aVNeath
+p9984
+aa(lp9985
 S'Will James'
-p9110
+p9986
 aS'2007'
-p9111
+p9987
 aS'Lock'
-p9112
+p9988
 aS'4'
 aS'2'
 aS'2'
@@ -22732,91 +24661,98 @@ aS'0'
 aS'0'
 aS'0'
 aS'Plymouth'
-p9113
+p9989
 aVUnited Kingdom
-p9114
+p9990
 aVEngland
-p9115
+p9991
 aVSouth West England
-p9116
-aa(lp9117
+p9992
+aVDevon
+p9993
+aa(lp9994
 S'Tom James'
-p9118
+p9995
 aS'2007'
-p9119
+p9996
 aS'Wing'
-p9120
+p9997
 aS'10'
-p9121
+p9998
 aS'4'
 aS'6'
 aS'0'
 aS'2'
 aS'10'
-p9122
+p9999
 aS'Merthyr Tydfil'
-p9123
+p10000
 aVUnited Kingdom
-p9124
+p10001
 aVWales
-p9125
+p10002
 aVMerthyr Tydfil
-p9126
-aa(lp9127
+p10003
+ag9
+aa(lp10004
 S'Morgan Stoddart'
-p9128
+p10005
 aS'2007'
-p9129
+p10006
 aS'Fullback'
-p9130
+p10007
 aS'8'
 aS'3'
 aS'5'
 aS'0'
 aS'5'
 aS'25'
-p9131
+p10008
 aS'Pontypridd'
-p9132
+p10009
 aVUnited Kingdom
-p9133
+p10010
 aVCF37; CF38
-p9134
+p10011
 aVWales
-p9135
-aa(lp9136
+p10012
+aVMid Glamorgan
+p10013
+aa(lp10014
 S'Jamie Roberts'
-p9137
+p10015
 aS'2008'
-p9138
+p10016
 aS'Centre'
-p9139
+p10017
 aS'72'
-p9140
+p10018
 aS'37'
-p9141
+p10019
 aS'35'
-p9142
+p10020
 aS'0'
 aS'10'
-p9143
+p10021
 aS'50'
-p9144
+p10022
 aS'Newport'
-p9145
+p10023
 aVUnited Kingdom
-p9146
+p10024
 aVNP
-p9147
+p10025
 aVWales
-p9148
-aa(lp9149
+p10026
+aVMonmouthshire
+p10027
+aa(lp10028
 S'Warren Fury'
-p9150
+p10029
 aS'2008'
-p9151
+p10030
 aS'Scrum-half'
-p9152
+p10031
 aS'2'
 aS'0'
 aS'2'
@@ -22824,92 +24760,100 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p9153
+p10032
 aVUnited Kingdom
-p9154
+p10033
 aVWales
-p9155
+p10034
 aVWest Glamorgan
-p9156
-aa(lp9157
+p10035
+aVSwansea
+p10036
+aa(lp10037
 S'Andrew Bishop'
-p9158
+p10038
 aS'2008'
-p9159
+p10039
 aS'Centre'
-p9160
+p10040
 aS'16'
-p9161
+p10041
 aS'8'
 aS'7'
 aS'1'
 aS'0'
 aS'0'
 aS'Llantrisant'
-p9162
+p10042
 aVUnited Kingdom
-p9163
+p10043
 aVWales
-p9164
+p10044
 aVRhondda Cynon Taf
-p9165
-aa(lp9166
+p10045
+aVLlantrisant
+p10046
+aa(lp10047
 S'Leigh Halfpenny'
-p9167
+p10048
 aS'2008'
-p9168
+p10049
 aS'Fullback'
-p9169
+p10050
 aS'63'
-p9170
+p10051
 aS'32'
-p9171
+p10052
 aS'31'
-p9172
+p10053
 aS'0'
 aS'12'
-p9173
+p10054
 aS'531'
-p9174
+p10055
 aS'Swansea'
-p9175
+p10056
 aVUnited Kingdom
-p9176
+p10057
 aVWales
-p9177
+p10058
 aVWest Glamorgan
-p9178
-aa(lp9179
+p10059
+aVSwansea
+p10060
+aa(lp10061
 S'Andy Powell'
-p9180
+p10062
 aS'2008'
-p9181
+p10063
 aS'Back-row'
-p9182
+p10064
 aS'23'
-p9183
+p10065
 aS'13'
-p9184
+p10066
 aS'10'
-p9185
+p10067
 aS'0'
 aS'1'
 aS'5'
 aS'Brecon'
-p9186
+p10068
 aVUnited Kingdom
-p9187
+p10069
 aVWales
-p9188
+p10070
 aVPowys
-p9189
-aa(lp9190
+p10071
+aVBrecon
+p10072
+aa(lp10073
 S'Martin Roberts'
-p9191
+p10074
 aS'2008'
-p9192
+p10075
 aS'Scrum-half'
-p9193
+p10076
 aS'3'
 aS'1'
 aS'2'
@@ -22917,45 +24861,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'Aberdare'
-p9194
+p10077
 aVUnited Kingdom
-p9195
+p10078
 aVWales
-p9196
+p10079
 aVMid Glamorgan
-p9197
-aa(lp9198
+p10080
+aVAberdare
+p10081
+aa(lp10082
 S'Dan Biggar'
-p9199
+p10083
 aS'2008'
-p9200
+p10084
 aS'Fly-half'
-p9201
+p10085
 aS'33'
-p9202
+p10086
 aS'18'
-p9203
+p10087
 aS'14'
-p9204
+p10088
 aS'1'
 aS'1'
 aS'150'
-p9205
+p10089
 aS'Swansea'
-p9206
+p10090
 aVUnited Kingdom
-p9207
+p10091
 aVWales
-p9208
+p10092
 aVWest Glamorgan
-p9209
-aa(lp9210
+p10093
+aVSwansea
+p10094
+aa(lp10095
 S'Eifion Lewis-Roberts'
-p9211
+p10096
 aS'2008'
-p9212
+p10097
 aS'Prop'
-p9213
+p10098
 aS'1'
 aS'1'
 aS'0'
@@ -22963,70 +24911,76 @@ aS'0'
 aS'0'
 aS'0'
 aS'St Asaph'
-p9214
+p10099
 aVUnited Kingdom
-p9215
+p10100
 aVWales
-p9216
+p10101
 aVDenbighshire
-p9217
-aa(lp9218
+p10102
+aVSt Asaph
+p10103
+aa(lp10104
 S'Bradley Davies'
-p9219
+p10105
 aS'2009'
-p9220
+p10106
 aS'Lock'
-p9221
+p10107
 aS'45'
-p9222
+p10108
 aS'19'
-p9223
+p10109
 aS'25'
-p9224
+p10110
 aS'1'
 aS'0'
 aS'0'
 aS'Llantrisant'
-p9225
+p10111
 aVUnited Kingdom
-p9226
+p10112
 aVWales
-p9227
+p10113
 aVRhondda Cynon Taf
-p9228
-aa(lp9229
+p10114
+aVLlantrisant
+p10115
+aa(lp10116
 S'Jonathan Davies'
-p9230
+p10117
 aS'2009'
-p9231
+p10118
 aS'Centre'
-p9232
+p10119
 aS'51'
-p9233
+p10120
 aS'28'
-p9234
+p10121
 aS'23'
-p9235
+p10122
 aS'0'
 aS'10'
-p9236
+p10123
 aS'50'
-p9237
+p10124
 aS'Solihull'
-p9238
+p10125
 aVUnited Kingdom
-p9239
+p10126
 aVEngland
-p9240
+p10127
 aVWest Midlands
-p9241
-aa(lp9242
+p10128
+aVSolihull
+p10129
+aa(lp10130
 S'Dan Evans'
-p9243
+p10131
 aS'2009'
-p9244
+p10132
 aS'Fullback'
-p9245
+p10133
 aS'2'
 aS'2'
 aS'0'
@@ -23034,43 +24988,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p9246
+p10134
 aVUnited Kingdom
-p9247
+p10135
 aVWales
-p9248
+p10136
 aVWest Glamorgan
-p9249
-aa(lp9250
+p10137
+aVSwansea
+p10138
+aa(lp10139
 S'Craig Mitchell'
-p9251
+p10140
 aS'2009'
-p9252
+p10141
 aS'Prop'
-p9253
+p10142
 aS'15'
-p9254
+p10143
 aS'10'
-p9255
+p10144
 aS'5'
 aS'0'
 aS'1'
 aS'5'
 aS'Neath'
-p9256
+p10145
 aVUnited Kingdom
-p9257
+p10146
 aVWales
-p9258
+p10147
 aVWest Glamorgan
-p9259
-aa(lp9260
+p10148
+aVNeath
+p10149
+aa(lp10150
 S'Jonathan Spratt'
-p9261
+p10151
 aS'2009'
-p9262
+p10152
 aS'Centre'
-p9263
+p10153
 aS'4'
 aS'3'
 aS'1'
@@ -23078,69 +25036,74 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p9264
+p10154
 aVUnited Kingdom
-p9265
+p10155
 aVWales
-p9266
+p10156
 aVWest Glamorgan
-p9267
-aa(lp9268
+p10157
+aVNeath
+p10158
+aa(lp10159
 S'Sam Warburton'
-p9269
+p10160
 aS'2009'
-p9270
+p10161
 aS'Back-row'
-p9271
+p10162
 aS'56'
-p9272
+p10163
 aS'28'
-p9273
+p10164
 aS'28'
-p9274
+p10165
 aS'0'
 aS'4'
 aS'20'
-p9275
+p10166
 aS'Cardiff'
-p9276
+p10167
 aVUnited Kingdom
-p9277
+p10168
 aVWales
-p9278
+p10169
 aVCardiff
-p9279
-aa(lp9280
+p10170
+ag9
+aa(lp10171
 S'Dan Lydiate'
-p9281
+p10172
 aS'2009'
-p9282
+p10173
 aS'Flanker'
-p9283
+p10174
 aS'49'
-p9284
+p10175
 aS'24'
-p9285
+p10176
 aS'24'
-p9286
+p10177
 aS'1'
 aS'0'
 aS'0'
 aS'Salford'
-p9287
+p10178
 aVUnited Kingdom
-p9288
+p10179
 aVEngland
-p9289
+p10180
 aVNorth West England
-p9290
-aa(lp9291
+p10181
+aVGreater Manchester
+p10182
+aa(lp10183
 S'Richie Rees'
-p9292
+p10184
 aS'2010'
-p9293
+p10185
 aS'Scrum-half'
-p9294
+p10186
 aS'9'
 aS'1'
 aS'7'
@@ -23148,20 +25111,22 @@ aS'1'
 aS'1'
 aS'5'
 aS'Swansea'
-p9295
+p10187
 aVUnited Kingdom
-p9296
+p10188
 aVWales
-p9297
+p10189
 aVWest Glamorgan
-p9298
-aa(lp9299
+p10190
+aVSwansea
+p10191
+aa(lp10192
 S'Rhys Gill'
-p9300
+p10193
 aS'2010'
-p9301
+p10194
 aS'Prop'
-p9302
+p10195
 aS'6'
 aS'4'
 aS'2'
@@ -23169,42 +25134,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rhondda'
-p9303
+p10196
 aVUnited Kingdom
-p9304
+p10197
 aVWales
-p9305
+p10198
 aVRhondda Cynon Taf
-p9306
-aa(lp9307
+p10199
+ag9
+aa(lp10200
 S'Tom Prydie'
-p9308
+p10201
 aS'2010'
-p9309
+p10202
 aS'Fullback, Wing'
-p9310
+p10203
 aS'5'
 aS'1'
 aS'4'
 aS'0'
 aS'2'
 aS'10'
-p9311
+p10204
 aS'Bridgend'
-p9312
+p10205
 aVUnited Kingdom
-p9313
+p10206
 aVWales
-p9314
+p10207
 aVBridgend
-p9315
-aa(lp9316
+p10208
+ag9
+aa(lp10209
 S'Rob McCusker'
-p9317
+p10210
 aS'2010'
-p9318
+p10211
 aS'Back-row'
-p9319
+p10212
 aS'6'
 aS'1'
 aS'5'
@@ -23212,42 +25179,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wrexham'
-p9320
+p10213
 aVUnited Kingdom
-p9321
+p10214
 aVWales
-p9322
+p10215
 aVWrexham
-p9323
-aa(lp9324
+p10216
+ag9
+aa(lp10217
 S'Tavis Knoyle'
-p9325
+p10218
 aS'2010'
-p9326
+p10219
 aS'Scrum-half'
-p9327
+p10220
 aS'11'
-p9328
+p10221
 aS'4'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'Glynneath'
-p9329
+p10222
 aVUnited Kingdom
-p9330
+p10223
 aVCF37 1SY
-p9331
+p10224
 aVWales
-p9332
-aa(lp9333
+p10225
+aVRhondda Cynon Taf
+p10226
+aa(lp10227
 S'Will Harries'
-p9334
+p10228
 aS'2010'
-p9335
+p10229
 aS'Wing'
-p9336
+p10230
 aS'3'
 aS'1'
 aS'2'
@@ -23255,71 +25225,76 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p9337
+p10231
 aVUnited Kingdom
-p9338
+p10232
 aVWales
-p9339
+p10233
 aVCardiff
-p9340
-aa(lp9341
+p10234
+ag9
+aa(lp10235
 S'George North'
-p9342
+p10236
 aS'2010'
-p9343
+p10237
 aS'Wing'
-p9344
+p10238
 aS'52'
-p9345
+p10239
 aS'26'
-p9346
+p10240
 aS'25'
-p9347
+p10241
 aS'1'
 aS'24'
-p9348
+p10242
 aS'120'
-p9349
+p10243
 aS"King's Lynn"
-p9350
+p10244
 aVUnited Kingdom
-p9351
+p10245
 aVEngland
-p9352
+p10246
 aVEast of England
-p9353
-aa(lp9354
+p10247
+aVNorfolk
+p10248
+aa(lp10249
 S'Rhys Priestland'
-p9355
+p10250
 aS'2011'
-p9356
+p10251
 aS'Fly-half'
-p9357
+p10252
 aS'34'
-p9358
+p10253
 aS'18'
-p9359
+p10254
 aS'16'
-p9360
+p10255
 aS'0'
 aS'1'
 aS'60'
-p9361
+p10256
 aS'Llangathen'
-p9362
+p10257
 aVUnited Kingdom
-p9363
+p10258
 aVWales
-p9364
+p10259
 aVCarmarthenshire
-p9365
-aa(lp9366
+p10260
+aVLlangathen
+p10261
+aa(lp10262
 S'Josh Turnbull'
-p9367
+p10263
 aS'2011'
-p9368
+p10264
 aS'Back-row'
-p9369
+p10265
 aS'7'
 aS'3'
 aS'4'
@@ -23327,89 +25302,96 @@ aS'0'
 aS'0'
 aS'0'
 aS'Haverfordwest'
-p9370
+p10266
 aVUnited Kingdom
-p9371
+p10267
 aVWales
-p9372
+p10268
 aVPembrokeshire
-p9373
-aa(lp9374
+p10269
+aVHaverfordwest
+p10270
+aa(lp10271
 S'Ryan Bevington'
-p9375
+p10272
 aS'2011'
-p9376
+p10273
 aS'Prop'
-p9377
+p10274
 aS'13'
-p9378
+p10275
 aS'7'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Bridgend'
-p9379
+p10276
 aVUnited Kingdom
-p9380
+p10277
 aVWales
-p9381
+p10278
 aVBridgend
-p9382
-aa(lp9383
+p10279
+ag9
+aa(lp10280
 S'Taulupe Faletau'
-p9384
+p10281
 aS'2011'
-p9385
+p10282
 aS'Back-row'
-p9386
+p10283
 aS'46'
-p9387
+p10284
 aS'25'
-p9388
+p10285
 aS'21'
-p9389
+p10286
 aS'0'
 aS'4'
 aS'20'
-p9390
+p10287
 aS'Tofoa'
-p9391
+p10288
 aVTonga
-p9392
+p10289
 aVTongatapu
-p9393
+p10290
 aVVahe Kolomotu'a
-p9394
-aa(lp9395
+p10291
+aVTofoa
+p10292
+aa(lp10293
 S'Scott Andrews'
-p9396
+p10294
 aS'2011'
-p9397
+p10295
 aS'Prop'
-p9398
+p10296
 aS'11'
-p9399
+p10297
 aS'4'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'Church Village'
-p9400
+p10298
 aVUnited Kingdom
-p9401
+p10299
 aVWales
-p9402
+p10300
 aVRhondda Cynon Taf
-p9403
-aa(lp9404
+p10301
+aVChurch Village
+p10302
+aa(lp10303
 S'Lloyd Burns'
-p9405
+p10304
 aS'2011'
-p9406
+p10305
 aS'Hooker'
-p9407
+p10306
 aS'7'
 aS'4'
 aS'3'
@@ -23417,144 +25399,155 @@ aS'0'
 aS'1'
 aS'5'
 aS'Panteg'
-p9408
+p10307
 aVUnited Kingdom
-p9409
+p10308
 aVWales
-p9410
+p10309
 aVCardiff
-p9411
-aa(lp9412
+p10310
+aVGwaelod-Y-Garth
+p10311
+aa(lp10312
 S'Scott Williams'
-p9413
+p10313
 aS'2011'
-p9414
+p10314
 aS'Centre'
-p9415
+p10315
 aS'29'
-p9416
+p10316
 aS'18'
-p9417
+p10317
 aS'11'
-p9418
+p10318
 aS'0'
 aS'9'
 aS'45'
-p9419
+p10319
 aS'Carmarthen'
-p9420
+p10320
 aVUnited Kingdom
-p9421
+p10321
 aVWales
-p9422
+p10322
 aVCarmarthenshire
-p9423
-aa(lp9424
+p10323
+aVCarmarthen
+p10324
+aa(lp10325
 S'Justin Tipuric'
-p9425
+p10326
 aS'2011'
-p9426
+p10327
 aS'Back-row'
-p9427
+p10328
 aS'32'
-p9428
+p10329
 aS'19'
-p9429
+p10330
 aS'13'
-p9430
+p10331
 aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p9431
+p10332
 aVUnited Kingdom
-p9432
+p10333
 aVWales
-p9433
+p10334
 aVWest Glamorgan
-p9434
-aa(lp9435
+p10335
+aVNeath
+p10336
+aa(lp10337
 S'Lloyd Williams'
-p9436
+p10338
 aS'2011'
-p9437
+p10339
 aS'Scrum-half'
-p9438
+p10340
 aS'18'
-p9439
+p10341
 aS'13'
-p9440
+p10342
 aS'5'
 aS'0'
 aS'2'
 aS'10'
-p9441
+p10343
 aS'Cardiff'
-p9442
+p10344
 aVUnited Kingdom
-p9443
+p10345
 aVWales
-p9444
+p10346
 aVCardiff
-p9445
-aa(lp9446
+p10347
+ag9
+aa(lp10348
 S'Ken Owens'
-p9447
+p10349
 aS'2011'
-p9448
+p10350
 aS'Hooker'
-p9449
+p10351
 aS'27'
-p9450
+p10352
 aS'15'
-p9451
+p10353
 aS'12'
-p9452
+p10354
 aS'0'
 aS'2'
 aS'10'
-p9453
+p10355
 aS'Carmarthen'
-p9454
+p10356
 aVUnited Kingdom
-p9455
+p10357
 aVWales
-p9456
+p10358
 aVCarmarthenshire
-p9457
-aa(lp9458
+p10359
+aVCarmarthen
+p10360
+aa(lp10361
 S'Alex Cuthbert'
-p9459
+p10362
 aS'2011'
-p9460
+p10363
 aS'Wing'
-p9461
+p10364
 aS'33'
-p9462
+p10365
 aS'16'
-p9463
+p10366
 aS'17'
-p9464
+p10367
 aS'0'
 aS'15'
-p9465
+p10368
 aS'75'
-p9466
+p10369
 aS'Gloucester'
-p9467
+p10370
 aVUnited Kingdom
-p9468
+p10371
 aVEngland
-p9469
+p10372
 aVSouth West England
-p9470
-aa(lp9471
+p10373
+aVGloucestershire
+p10374
+aa(lp10375
 S'Aaron Shingler'
-p9472
+p10376
 aS'2012'
-p9473
+p10377
 aS'Back-row'
-p9474
+p10378
 aS'8'
 aS'4'
 aS'4'
@@ -23562,20 +25555,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Aldershot'
-p9475
+p10379
 aVUnited Kingdom
-p9476
+p10380
 aVEngland
-p9477
+p10381
 aVSouth East
-p9478
-aa(lp9479
+p10382
+aVHampshire
+p10383
+aa(lp10384
 S'Lou Reed'
-p9480
+p10385
 aS'2012'
-p9481
+p10386
 aS'Lock'
-p9482
+p10387
 aS'5'
 aS'3'
 aS'2'
@@ -23583,112 +25578,120 @@ aS'0'
 aS'0'
 aS'0'
 aS'Treorchy'
-p9483
+p10388
 aVUnited Kingdom
-p9484
+p10389
 aVWales
-p9485
+p10390
 aVRhondda Cynon Taf
-p9486
-aa(lp9487
+p10391
+aVTreorchy
+p10392
+aa(lp10393
 S'Rhys Webb'
-p9488
+p10394
 aS'2012'
-p9489
+p10395
 aS'Scrum-half'
-p9490
+p10396
 aS'14'
-p9491
+p10397
 aS'9'
 aS'5'
 aS'0'
 aS'5'
 aS'25'
-p9492
+p10398
 aS'Bridgend'
-p9493
+p10399
 aVUnited Kingdom
-p9494
+p10400
 aVWales
-p9495
+p10401
 aVBridgend
-p9496
-aa(lp9497
+p10402
+ag9
+aa(lp10403
 S'Rhodri Jones'
-p9498
+p10404
 aS'2012'
-p9499
+p10405
 aS'Prop'
-p9500
+p10406
 aS'13'
-p9501
+p10407
 aS'7'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Aberystwyth'
-p9502
+p10408
 aVUnited Kingdom
-p9503
+p10409
 aVWales
-p9504
+p10410
 aVCeredigion
-p9505
-aa(lp9506
+p10411
+aVAberystwyth
+p10412
+aa(lp10413
 S'Harry Robinson'
-p9507
+p10414
 aS'2012'
-p9508
+p10415
 aS'Wing'
-p9509
+p10416
 aS'3'
 aS'2'
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p9510
+p10417
 aS'Cardiff'
-p9511
+p10418
 aVUnited Kingdom
-p9512
+p10419
 aVWales
-p9513
+p10420
 aVCardiff
-p9514
-aa(lp9515
+p10421
+ag9
+aa(lp10422
 S'Liam Williams'
-p9516
+p10423
 aS'2012'
-p9517
+p10424
 aS'Fullback'
-p9518
+p10425
 aS'23'
-p9519
+p10426
 aS'11'
-p9520
+p10427
 aS'12'
-p9521
+p10428
 aS'0'
 aS'2'
 aS'10'
-p9522
+p10429
 aS'Morriston'
-p9523
+p10430
 aVUnited Kingdom
-p9524
+p10431
 aVWales
-p9525
+p10432
 aVSwansea
-p9526
-aa(lp9527
+p10433
+aVMorriston
+p10434
+aa(lp10435
 S'Adam Warren'
-p9528
+p10436
 aS'2012'
-p9529
+p10437
 aS'Centre'
-p9530
+p10438
 aS'1'
 aS'1'
 aS'0'
@@ -23696,86 +25699,93 @@ aS'0'
 aS'0'
 aS'0'
 aS'Burry Port'
-p9531
+p10439
 aVUnited Kingdom
-p9532
+p10440
 aVWales
-p9533
+p10441
 aVCarmarthenshire
-p9534
-aa(lp9535
+p10442
+aVBurry Port
+p10443
+aa(lp10444
 S'Ashley Beck'
-p9536
+p10445
 aS'2012'
-p9537
+p10446
 aS'Centre'
-p9538
+p10447
 aS'7'
 aS'2'
 aS'5'
 aS'0'
 aS'2'
 aS'10'
-p9539
+p10448
 aS'Neath'
-p9540
+p10449
 aVUnited Kingdom
-p9541
+p10450
 aVWales
-p9542
+p10451
 aVWest Glamorgan
-p9543
-aa(lp9544
+p10452
+aVNeath
+p10453
+aa(lp10454
 S'Aaron Jarvis'
-p9545
+p10455
 aS'2012'
-p9546
+p10456
 aS'Prop'
-p9547
+p10457
 aS'10'
-p9548
+p10458
 aS'5'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Exeter'
-p9549
+p10459
 aVUnited Kingdom
-p9550
+p10460
 aVEngland
-p9551
+p10461
 aVSouth West England
-p9552
-aa(lp9553
+p10462
+aVDevon
+p10463
+aa(lp10464
 S'Andrew Coombs'
-p9554
+p10465
 aS'2013'
-p9555
+p10466
 aS'Back-row'
-p9556
+p10467
 aS'10'
-p9557
+p10468
 aS'6'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
 aS'Merthyr Tydfil'
-p9558
+p10469
 aVUnited Kingdom
-p9559
+p10470
 aVWales
-p9560
+p10471
 aVMerthyr Tydfil
-p9561
-aa(lp9562
+p10472
+ag9
+aa(lp10473
 S'Olly Kohn'
-p9563
+p10474
 aS'2013'
-p9564
+p10475
 aS'Lock'
-p9565
+p10476
 aS'1'
 aS'0'
 aS'1'
@@ -23783,20 +25793,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bristol'
-p9566
+p10477
 aVUnited Kingdom
-p9567
+p10478
 aVEngland
-p9568
+p10479
 aVSouth West England
-p9569
-aa(lp9570
+p10480
+aVCity of Bristol
+p10481
+aa(lp10482
 S'Dafydd Howells'
-p9571
+p10483
 aS'2013'
-p9572
+p10484
 aS'Wing'
-p9573
+p10485
 aS'2'
 aS'1'
 aS'1'
@@ -23804,20 +25816,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Brecon'
-p9574
+p10486
 aVUnited Kingdom
-p9575
+p10487
 aVWales
-p9576
+p10488
 aVPowys
-p9577
-aa(lp9578
+p10489
+aVBrecon
+p10490
+aa(lp10491
 S'James King'
-p9579
+p10492
 aS'2013'
-p9580
+p10493
 aS'Flanker'
-p9581
+p10494
 aS'3'
 aS'2'
 aS'1'
@@ -23825,19 +25839,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'VIC'
-p9582
+p10495
 aVAustralia
-p9583
+p10496
 aVVictoria
-p9584
+p10497
 ag9
-aa(lp9585
+ag9
+aa(lp10498
 S'Emyr Phillips'
-p9586
+p10499
 aS'2013'
-p9587
+p10500
 aS'Hooker'
-p9588
+p10501
 aS'3'
 aS'2'
 aS'1'
@@ -23845,20 +25860,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Llandovery'
-p9589
+p10502
 aVUnited Kingdom
-p9590
+p10503
 aVWales
-p9591
+p10504
 aVCarmarthenshire
-p9592
-aa(lp9593
+p10505
+aVLlandovery
+p10506
+aa(lp10507
 S'Owen Williams'
-p9594
+p10508
 aS'2013'
-p9595
+p10509
 aS'Centre'
-p9596
+p10510
 aS'4'
 aS'2'
 aS'2'
@@ -23866,20 +25883,21 @@ aS'0'
 aS'1'
 aS'5'
 aS'Merthyr Tydfil'
-p9597
+p10511
 aVUnited Kingdom
-p9598
+p10512
 aVWales
-p9599
+p10513
 aVMerthyr Tydfil
-p9600
-aa(lp9601
+p10514
+ag9
+aa(lp10515
 S'Dan Baker'
-p9602
+p10516
 aS'2013'
-p9603
+p10517
 aS'Back-row'
-p9604
+p10518
 aS'2'
 aS'1'
 aS'1'
@@ -23887,20 +25905,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Neath'
-p9605
+p10519
 aVUnited Kingdom
-p9606
+p10520
 aVWales
-p9607
+p10521
 aVWest Glamorgan
-p9608
-aa(lp9609
+p10522
+aVNeath
+p10523
+aa(lp10524
 S'Rhys Patchell'
-p9610
+p10525
 aS'2013'
-p9611
+p10526
 aS'Fly-half'
-p9612
+p10527
 aS'2'
 aS'1'
 aS'1'
@@ -23908,20 +25928,22 @@ aS'0'
 aS'0'
 aS'3'
 aS'Llandough'
-p9613
+p10528
 aVUnited Kingdom
-p9614
+p10529
 aVWales
-p9615
+p10530
 aVVale of Glamorgan
-p9616
-aa(lp9617
+p10531
+aVLlandough
+p10532
+aa(lp10533
 S'Andries Pretorius'
-p9618
+p10534
 aS'2013'
-p9619
+p10535
 aS'Back-row'
-p9620
+p10536
 aS'2'
 aS'1'
 aS'1'
@@ -23929,20 +25951,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nelspruit'
-p9621
+p10537
 aVSouth Africa
-p9622
+p10538
 aVMpumalanga
-p9623
+p10539
 aVEhlanzeni District Municipality
-p9624
-aa(lp9625
+p10540
+aVNelspruit
+p10541
+aa(lp10542
 S'Josh Navidi'
-p9626
+p10543
 aS'2013'
-p9627
+p10544
 aS'Flanker'
-p9628
+p10545
 aS'1'
 aS'0'
 aS'1'
@@ -23950,20 +25974,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bridgend'
-p9629
+p10546
 aVUnited Kingdom
-p9630
+p10547
 aVWales
-p9631
+p10548
 aVBridgend
-p9632
-aa(lp9633
+p10549
+ag9
+aa(lp10550
 S'Scott Baldwin'
-p9634
+p10551
 aS'2013'
-p9635
+p10552
 aS'Hooker'
-p9636
+p10553
 aS'9'
 aS'6'
 aS'3'
@@ -23971,20 +25996,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bridgend'
-p9637
+p10554
 aVUnited Kingdom
-p9638
+p10555
 aVWales
-p9639
+p10556
 aVBridgend
-p9640
-aa(lp9641
+p10557
+ag9
+aa(lp10558
 S'Cory Allen'
-p9642
+p10559
 aS'2013'
-p9643
+p10560
 aS'Centre'
-p9644
+p10561
 aS'2'
 aS'1'
 aS'1'
@@ -23992,42 +26018,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cardiff'
-p9645
+p10562
 aVUnited Kingdom
-p9646
+p10563
 aVWales
-p9647
+p10564
 aVCardiff
-p9648
-aa(lp9649
+p10565
+ag9
+aa(lp10566
 S'Samson Lee'
-p9650
+p10567
 aS'2013'
-p9651
+p10568
 aS'Prop'
-p9652
+p10569
 aS'12'
-p9653
+p10570
 aS'6'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p9654
+p10571
 aVUnited Kingdom
-p9655
+p10572
 aVWales
-p9656
+p10573
 aVWest Glamorgan
-p9657
-aa(lp9658
+p10574
+aVSwansea
+p10575
+aa(lp10576
 S'Hallam Amos'
-p9659
+p10577
 aS'2013'
-p9660
+p10578
 aS'Fullback, Wing'
-p9661
+p10579
 aS'1'
 aS'1'
 aS'0'
@@ -24035,20 +26064,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Stockport'
-p9662
+p10580
 aVUnited Kingdom
-p9663
+p10581
 aVEngland
-p9664
+p10582
 aVNorth West England
-p9665
-aa(lp9666
+p10583
+aVGreater Manchester
+p10584
+aa(lp10585
 S'Rhodri Williams'
-p9667
+p10586
 aS'2013'
-p9668
+p10587
 aS'Scrum-half'
-p9669
+p10588
 aS'3'
 aS'2'
 aS'1'
@@ -24056,42 +26087,46 @@ aS'0'
 aS'1'
 aS'5'
 aS'Swansea'
-p9670
+p10589
 aVUnited Kingdom
-p9671
+p10590
 aVWales
-p9672
+p10591
 aVWest Glamorgan
-p9673
-aa(lp9674
+p10592
+aVSwansea
+p10593
+aa(lp10594
 S'Jake Ball'
-p9675
+p10595
 aS'2014'
-p9676
+p10596
 aS'Lock'
-p9677
+p10597
 aS'12'
-p9678
+p10598
 aS'6'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Ascot'
-p9679
+p10599
 aVUnited Kingdom
-p9680
+p10600
 aVEngland
-p9681
+p10601
 aVSouth East
-p9682
-aa(lp9683
+p10602
+aVWindsor and Maidenhead
+p10603
+aa(lp10604
 S'Gareth Davies'
-p9684
+p10605
 aS'2014'
-p9685
+p10606
 aS'Scrum-half'
-p9686
+p10607
 aS'2'
 aS'1'
 aS'1'
@@ -24099,20 +26134,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Carmarthen'
-p9687
+p10608
 aVUnited Kingdom
-p9688
+p10609
 aVWales
-p9689
+p10610
 aVCarmarthenshire
-p9690
-aa(lp9691
+p10611
+aVCarmarthen
+p10612
+aa(lp10613
 S'Matthew Morgan'
-p9692
+p10614
 aS'2014'
-p9693
+p10615
 aS'Fly-half'
-p9694
+p10616
 aS'1'
 aS'0'
 aS'1'
@@ -24120,20 +26157,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p9695
+p10617
 aVUnited Kingdom
-p9696
+p10618
 aVWales
-p9697
+p10619
 aVWest Glamorgan
-p9698
-aa(lp9699
+p10620
+aVSwansea
+p10621
+aa(lp10622
 S'Nicky Smith'
-p9700
+p10623
 aS'2014'
-p9701
+p10624
 aS'Prop'
-p9702
+p10625
 aS'2'
 aS'1'
 aS'1'
@@ -24141,20 +26180,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swansea'
-p9703
+p10626
 aVUnited Kingdom
-p9704
+p10627
 aVWales
-p9705
+p10628
 aVWest Glamorgan
-p9706
-aa(lp9707
+p10629
+aVSwansea
+p10630
+aa(lp10631
 S'Rob Evans'
-p9708
+p10632
 aS'2015'
-p9709
+p10633
 aS'Prop'
-p9710
+p10634
 aS'2'
 aS'2'
 aS'0'
@@ -24162,11 +26203,13 @@ aS'0'
 aS'0'
 aS'0'
 aS'Haverfordwest'
-p9711
+p10635
 aVUnited Kingdom
-p9712
+p10636
 aVWales
-p9713
+p10637
 aVPembrokeshire
-p9714
+p10638
+aVHaverfordwest
+p10639
 aa.

@@ -17,6 +17,7 @@ p6
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp7
 S'J. Arrell'
 p8
@@ -35,6 +36,7 @@ p11
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp12
 S'Charlie Austin'
 p13
@@ -53,6 +55,7 @@ p16
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp17
 S'Ben Erb'
 p18
@@ -71,6 +74,7 @@ p21
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp22
 S'Deke Gard'
 p23
@@ -91,6 +95,7 @@ p27
 aS'Missing'
 p28
 ag28
+ag28
 aa(lp29
 S'P.R. Harrigan'
 p30
@@ -108,6 +113,7 @@ p32
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp33
 S'W.N. King'
 p34
@@ -126,6 +132,7 @@ p37
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp38
 S'J.L. McKim'
 p39
@@ -144,6 +151,7 @@ p42
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp43
 S'E. Momson'
 p44
@@ -162,6 +170,7 @@ p47
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp48
 S'L.M. Morris'
 p49
@@ -180,6 +189,7 @@ p52
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp53
 S'R.M. Noble'
 p54
@@ -198,6 +208,7 @@ p57
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp58
 S'S.B. Peart'
 p59
@@ -216,6 +227,7 @@ p62
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp63
 S'A.M. Sanborn'
 p64
@@ -234,6 +246,7 @@ p67
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp68
 S'K.L. Schaupp'
 p69
@@ -252,6 +265,7 @@ p72
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp73
 S'W.L. Smith'
 p74
@@ -270,6 +284,7 @@ p77
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp78
 S'R.R. Blase'
 p79
@@ -288,6 +303,7 @@ p82
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp83
 S'Danny Carroll'
 p84
@@ -308,6 +324,7 @@ p88
 aVVictoria
 p89
 ag28
+ag28
 aa(lp90
 S'Louis Cass'
 p91
@@ -326,6 +343,7 @@ p94
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp95
 S'W.P. Darsie'
 p96
@@ -344,6 +362,7 @@ p99
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp100
 S'G. Glasscock'
 p101
@@ -362,6 +381,7 @@ p104
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp105
 S'E.B. Hall'
 p106
@@ -380,6 +400,7 @@ p109
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp110
 S'Mow Mitchell'
 p111
@@ -398,6 +419,7 @@ p114
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp115
 S'J.A. Ramage'
 p116
@@ -416,6 +438,7 @@ p119
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp120
 S'J.C. Urban'
 p121
@@ -434,6 +457,7 @@ p124
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp125
 S'G. Voight'
 p126
@@ -452,6 +476,7 @@ p129
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp130
 S'A. Knowles'
 p131
@@ -469,6 +494,7 @@ p133
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp134
 S'H.R. Stolz'
 p135
@@ -486,6 +512,7 @@ p137
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp138
 S'Charlie Doe'
 p139
@@ -506,6 +533,7 @@ aVUnited States of America
 p144
 ag28
 ag28
+ag28
 aa(lp145
 S'George Fish'
 p146
@@ -522,6 +550,7 @@ aS'United States'
 p148
 aVUnited States of America
 p149
+ag28
 ag28
 ag28
 aa(lp150
@@ -543,6 +572,7 @@ aVUnited States of America
 p155
 ag28
 ag28
+ag28
 aa(lp156
 S'Lou Hunter'
 p157
@@ -561,6 +591,7 @@ aVUnited States of America
 p160
 ag28
 ag28
+ag28
 aa(lp161
 S'Morris Kirksey'
 p162
@@ -577,6 +608,7 @@ aS'United States'
 p164
 aVUnited States of America
 p165
+ag28
 ag28
 ag28
 aa(lp166
@@ -600,13 +632,15 @@ aV\u0421\u041a\u0424\u041e
 p172
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
 p173
-aa(lp174
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p174
+aa(lp175
 S'John Muldoon'
-p175
-aS'1920'
 p176
-aS'Second-row'
+aS'1920'
 p177
+aS'Second-row'
+p178
 aS'2'
 aS'1'
 aS'1'
@@ -614,18 +648,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p178
-aVUnited States of America
 p179
+aVUnited States of America
+p180
 ag28
 ag28
-aa(lp180
+ag28
+aa(lp181
 S"John O'Neil"
-p181
-aS'1920'
 p182
-aS'Front-row'
+aS'1920'
 p183
+aS'Front-row'
+p184
 aS'4'
 aS'3'
 aS'1'
@@ -633,36 +668,38 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p184
-aVUnited States of America
 p185
+aVUnited States of America
+p186
 ag28
 ag28
-aa(lp186
+ag28
+aa(lp187
 S'Jack Patrick'
-p187
-aS'1920'
 p188
-aS'Lock'
+aS'1920'
 p189
+aS'Lock'
+p190
 aS'3'
 aS'3'
 aS'0'
 aS'0'
 aS'4'
 aS'12'
-p190
-aS'United States'
 p191
-aVUnited States of America
+aS'United States'
 p192
+aVUnited States of America
+p193
 ag28
 ag28
-aa(lp193
+ag28
+aa(lp194
 S'Cornelius Righter'
-p194
-aS'1920'
 p195
+aS'1920'
+p196
 aS''
 aS'1'
 aS'1'
@@ -671,18 +708,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p196
-aVUnited States of America
 p197
+aVUnited States of America
+p198
 ag28
 ag28
-aa(lp198
+ag28
+aa(lp199
 S'Rudy Scholz'
-p199
-aS'1920'
 p200
-aS'Wing'
+aS'1920'
 p201
+aS'Wing'
+p202
 aS'4'
 aS'3'
 aS'1'
@@ -690,16 +728,17 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p202
-aVUnited States of America
 p203
+aVUnited States of America
+p204
 ag28
 ag28
-aa(lp204
+ag28
+aa(lp205
 S'Dink Templeton'
-p205
-aS'1920'
 p206
+aS'1920'
+p207
 aS''
 aS'1'
 aS'1'
@@ -708,74 +747,19 @@ aS'0'
 aS'0'
 aS'5'
 aS'United States'
-p207
-aVUnited States of America
 p208
+aVUnited States of America
+p209
 ag28
 ag28
-aa(lp209
+ag28
+aa(lp210
 S'Charles Tilden'
-p210
-aS'1920'
 p211
-aS'Second-row'
+aS'1920'
 p212
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
-p213
-aVUnited States of America
-p214
-ag28
-ag28
-aa(lp215
-S'Heaton Wrenn'
-p216
-aS'1920'
-p217
-aS'Back-row'
-p218
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
-p219
-aVUnited States of America
-p220
-ag28
-ag28
-aa(lp221
-S'G.W. Davis'
-p222
-aS'1920'
-p223
-aS'Fullback'
-p224
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'2'
-aS'date unknown'
-p225
-aS'g'
-aS'n'
-aS'i'
-aa(lp226
-S'Colby Slater'
-p227
-aS'1920'
-p228
 aS'Second-row'
-p229
+p213
 aS'2'
 aS'1'
 aS'1'
@@ -783,18 +767,78 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p230
+p214
 aVUnited States of America
-p231
+p215
 ag28
 ag28
-aa(lp232
-S'Vidal'
-p233
+ag28
+aa(lp216
+S'Heaton Wrenn'
+p217
 aS'1920'
+p218
+aS'Back-row'
+p219
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p220
+aVUnited States of America
+p221
+ag28
+ag28
+ag28
+aa(lp222
+S'G.W. Davis'
+p223
+aS'1920'
+p224
+aS'Fullback'
+p225
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'date unknown'
+p226
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp227
+S'Colby Slater'
+p228
+aS'1920'
+p229
+aS'Second-row'
+p230
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p231
+aVUnited States of America
+p232
+ag28
+ag28
+ag28
+aa(lp233
+S'Vidal'
 p234
-aS'Wing'
+aS'1920'
 p235
+aS'Wing'
+p236
 aS'1'
 aS'0'
 aS'1'
@@ -802,17 +846,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p236
+p237
 aS'g'
 aS'n'
 aS'i'
-aa(lp237
+aS's'
+aa(lp238
 S'H. von Schmidt'
-p238
-aS'1920'
 p239
-aS'Five-eighth'
+aS'1920'
 p240
+aS'Five-eighth'
+p241
 aS'1'
 aS'0'
 aS'1'
@@ -820,35 +865,18 @@ aS'0'
 aS'1'
 aS'3'
 aS'date unknown'
-p241
+p242
 aS'g'
 aS'n'
 aS'i'
-aa(lp242
+aS's'
+aa(lp243
 S'D. Wallace'
-p243
-aS'1920'
 p244
-aS'Back-row'
-p245
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p246
-aS'g'
-aS'n'
-aS'i'
-aa(lp247
-S'J. Winston'
-p248
 aS'1920'
-p249
-aS'Wing-forward'
-p250
+p245
+aS'Back-row'
+p246
 aS'1'
 aS'0'
 aS'1'
@@ -856,15 +884,35 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p251
+p247
 aS'g'
 aS'n'
 aS'i'
-aa(lp252
+aS's'
+aa(lp248
+S'J. Winston'
+p249
+aS'1920'
+p250
+aS'Wing-forward'
+p251
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p252
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp253
 S'Phil Clark'
-p253
-aS'1924'
 p254
+aS'1924'
+p255
 aS''
 aS'1'
 aS'1'
@@ -873,18 +921,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p255
-aVUnited States of America
 p256
+aVUnited States of America
+p257
 ag28
 ag28
-aa(lp257
+ag28
+aa(lp258
 S'Norman Cleaveland'
-p258
-aS'1924'
 p259
-aS'Five-eighth'
+aS'1924'
 p260
+aS'Five-eighth'
+p261
 aS'2'
 aS'2'
 aS'0'
@@ -892,56 +941,39 @@ aS'0'
 aS'1'
 aS'3'
 aS'United States'
-p261
-aVUnited States of America
 p262
+aVUnited States of America
+p263
 ag28
 ag28
-aa(lp263
+ag28
+aa(lp264
 S'Bob Devereaux'
-p264
-aS'1924'
 p265
-aS'Five-eighth'
+aS'1924'
 p266
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
+aS'Five-eighth'
 p267
-aVUnited States of America
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
 p268
+aVUnited States of America
+p269
 ag28
 ag28
-aa(lp269
+ag28
+aa(lp270
 S'George Dixon'
-p270
-aS'1924'
 p271
-aS'Wing'
+aS'1924'
 p272
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
+aS'Wing'
 p273
-aVUnited States of America
-p274
-ag28
-ag28
-aa(lp275
-S'Ed Graff'
-p276
-aS'1924'
-p277
-aS'Hooker'
-p278
 aS'2'
 aS'2'
 aS'0'
@@ -949,38 +981,60 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p279
+p274
 aVUnited States of America
-p280
+p275
 ag28
 ag28
-aa(lp281
-S'Dick Hyland'
-p282
+ag28
+aa(lp276
+S'Ed Graff'
+p277
 aS'1924'
+p278
+aS'Hooker'
+p279
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p280
+aVUnited States of America
+p281
+ag28
+ag28
+ag28
+aa(lp282
+S'Dick Hyland'
 p283
-aS'Centre'
+aS'1924'
 p284
+aS'Centre'
+p285
 aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'4'
 aS'12'
-p285
-aS'United States'
 p286
-aVUnited States of America
+aS'United States'
 p287
+aVUnited States of America
+p288
 ag28
 ag28
-aa(lp288
+ag28
+aa(lp289
 S'Caesar Mannelli'
-p289
-aS'1924'
 p290
-aS'Prop'
+aS'1924'
 p291
+aS'Prop'
+p292
 aS'2'
 aS'2'
 aS'0'
@@ -988,73 +1042,39 @@ aS'0'
 aS'1'
 aS'3'
 aS'Forli'
-p292
-aVItalia
 p293
-aVEMR
+aVItalia
 p294
-aVFC
+aVEMR
 p295
-aa(lp296
-S'Norm Slater'
+aVFC
+p296
+aVForlì
 p297
-aS'1924'
-p298
-aS''
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
+aa(lp298
+S'Norm Slater'
 p299
-aVUnited States of America
+aS'1924'
 p300
-ag28
-ag28
-aa(lp301
-S'Ed Turkington'
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p301
+aVUnited States of America
 p302
-aS'1924'
-p303
-aS''
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
+ag28
+ag28
+ag28
+aa(lp303
+S'Ed Turkington'
 p304
-aVUnited States of America
+aS'1924'
 p305
-ag28
-ag28
-aa(lp306
-S'Alan Valentine'
-p307
-aS'1924'
-p308
-aS'Flanker'
-p309
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
-p310
-aVUnited States of America
-p311
-ag28
-ag28
-aa(lp312
-S'Alan Williams'
-p313
-aS'1924'
-p314
 aS''
 aS'1'
 aS'1'
@@ -1063,18 +1083,38 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p315
+p306
 aVUnited States of America
-p316
+p307
 ag28
 ag28
-aa(lp317
-S'Dudley de Groot'
-p318
+ag28
+aa(lp308
+S'Alan Valentine'
+p309
 aS'1924'
-p319
-aS'Back-row'
-p320
+p310
+aS'Flanker'
+p311
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p312
+aVUnited States of America
+p313
+ag28
+ag28
+ag28
+aa(lp314
+S'Alan Williams'
+p315
+aS'1924'
+p316
+aS''
 aS'1'
 aS'1'
 aS'0'
@@ -1082,18 +1122,39 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p321
+p317
 aVUnited States of America
-p322
+p318
 ag28
 ag28
-aa(lp323
-S'Linn Farrish'
-p324
+ag28
+aa(lp319
+S'Dudley de Groot'
+p320
 aS'1924'
-p325
-aS'No. 8'
+p321
+aS'Back-row'
+p322
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p323
+aVUnited States of America
+p324
+ag28
+ag28
+ag28
+aa(lp325
+S'Linn Farrish'
 p326
+aS'1924'
+p327
+aS'No. 8'
+p328
 aS'1'
 aS'1'
 aS'0'
@@ -1101,18 +1162,19 @@ aS'0'
 aS'2'
 aS'6'
 aS'United States'
-p327
+p329
 aVUnited States of America
-p328
-ag28
-ag28
-aa(lp329
-S'William Rogers'
 p330
-aS'1924'
-p331
-aS'Wing'
+ag28
+ag28
+ag28
+aa(lp331
+S'William Rogers'
 p332
+aS'1924'
+p333
+aS'Wing'
+p334
 aS'1'
 aS'1'
 aS'0'
@@ -1120,18 +1182,19 @@ aS'0'
 aS'1'
 aS'3'
 aS'United States'
-p333
+p335
 aVUnited States of America
-p334
-ag28
-ag28
-aa(lp335
-S'Steve Auerbach'
 p336
-aS'1976'
-p337
-aS'Wing'
+ag28
+ag28
+ag28
+aa(lp337
+S'Steve Auerbach'
 p338
+aS'1976'
+p339
+aS'Wing'
+p340
 aS'1'
 aS'0'
 aS'1'
@@ -1139,17 +1202,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p339
+p341
 aS'g'
 aS'n'
 aS'i'
-aa(lp340
+aS's'
+aa(lp342
 S'Robbie Bordley'
-p341
-aS'1976'
-p342
-aS'Fly-half'
 p343
+aS'1976'
+p344
+aS'Fly-half'
+p345
 aS'5'
 aS'1'
 aS'4'
@@ -1157,17 +1221,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p344
+p346
 aS'g'
 aS'n'
 aS'i'
-aa(lp345
+aS's'
+aa(lp347
 S'Gary Brackett'
-p346
-aS'1976'
-p347
-aS'Lock'
 p348
+aS'1976'
+p349
+aS'Lock'
+p350
 aS'3'
 aS'0'
 aS'3'
@@ -1175,17 +1240,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p349
+p351
 aS'g'
 aS'n'
 aS'i'
-aa(lp350
+aS's'
+aa(lp352
 S'Del Chipman'
-p351
-aS'1976'
-p352
-aS'Wing'
 p353
+aS'1976'
+p354
+aS'Wing'
+p355
 aS'2'
 aS'1'
 aS'1'
@@ -1193,17 +1259,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p354
+p356
 aS'g'
 aS'n'
 aS'i'
-aa(lp355
+aS's'
+aa(lp357
 S'Fred Khasigian'
-p356
-aS'1976'
-p357
-aS'Hooker'
 p358
+aS'1976'
+p359
+aS'Hooker'
+p360
 aS'1'
 aS'0'
 aS'1'
@@ -1211,17 +1278,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p359
+p361
 aS'g'
 aS'n'
 aS'i'
-aa(lp360
+aS's'
+aa(lp362
 S'Tom Klein'
-p361
-aS'1976'
-p362
-aS'Flanker'
 p363
+aS'1976'
+p364
+aS'Flanker'
+p365
 aS'3'
 aS'1'
 aS'2'
@@ -1229,17 +1297,18 @@ aS'0'
 aS'1'
 aS'4'
 aS'date unknown'
-p364
+p366
 aS'g'
 aS'n'
 aS'i'
-aa(lp365
+aS's'
+aa(lp367
 S'Skip Niebauer'
-p366
-aS'1976'
-p367
-aS'Flanker'
 p368
+aS'1976'
+p369
+aS'Flanker'
+p370
 aS'9'
 aS'0'
 aS'8'
@@ -1247,20 +1316,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'1947'
-p369
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p370
-aVSétif - \u0633\u0637\u064a\u0641\u200e
 p371
-aVDaïra Guidjel
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
 p372
-aa(lp373
-S'Mickey Ording'
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p373
+aVDaïra Guidjel
 p374
-aS'1976'
+aVOuled Sabor
 p375
+aa(lp376
+S'Mickey Ording'
+p377
+aS'1976'
+p378
 aS'Prop'
-p376
+p379
 aS'4'
 aS'1'
 aS'3'
@@ -1268,36 +1339,38 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p377
+p380
 aS'g'
 aS'n'
 aS'i'
-aa(lp378
+aS's'
+aa(lp381
 S'Kip Oxman'
-p379
+p382
 aS'1976'
-p380
+p383
 aS'Fullback'
-p381
+p384
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'12'
-p382
+p385
 aS'date unknown'
-p383
+p386
 aS'g'
 aS'n'
 aS'i'
-aa(lp384
+aS's'
+aa(lp387
 S'Greg Schneeweis'
-p385
+p388
 aS'1976'
-p386
+p389
 aS'Centre'
-p387
+p390
 aS'2'
 aS'0'
 aS'2'
@@ -1305,108 +1378,114 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p388
-aVUnited States of America
-p389
-ag28
-ag28
-aa(lp390
-S'Tom Selfridge'
 p391
-aS'1976'
+aVUnited States of America
 p392
-aS'No. 8'
-p393
-aS'5'
-aS'0'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+ag28
+ag28
+ag28
+aa(lp393
+S'Tom Selfridge'
 p394
-aS'g'
-aS'n'
-aS'i'
-aa(lp395
-S'David Stephenson'
-p396
 aS'1976'
-p397
-aS'Centre'
-p398
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p399
-aS'g'
-aS'n'
-aS'i'
-aa(lp400
-S'Eric Swanson'
-p401
-aS'1976'
-p402
-aS'Prop'
-p403
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p404
-aS'g'
-aS'n'
-aS'i'
-aa(lp405
-S'Craig Sweeney'
-p406
-aS'1976'
-p407
-aS'Lock'
-p408
-aS'4'
-aS'0'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p409
-aS'g'
-aS'n'
-aS'i'
-aa(lp410
-S'Mike Swiderski'
-p411
-aS'1976'
-p412
-aS'Scrum-half'
-p413
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p414
-aS'g'
-aS'n'
-aS'i'
-aa(lp415
-S'Bill Fraumann'
-p416
-aS'1976'
-p417
+p395
 aS'No. 8'
-p418
+p396
+aS'5'
+aS'0'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p397
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp398
+S'David Stephenson'
+p399
+aS'1976'
+p400
+aS'Centre'
+p401
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p402
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp403
+S'Eric Swanson'
+p404
+aS'1976'
+p405
+aS'Prop'
+p406
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p407
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp408
+S'Craig Sweeney'
+p409
+aS'1976'
+p410
+aS'Lock'
+p411
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p412
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp413
+S'Mike Swiderski'
+p414
+aS'1976'
+p415
+aS'Scrum-half'
+p416
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p417
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp418
+S'Bill Fraumann'
+p419
+aS'1976'
+p420
+aS'No. 8'
+p421
 aS'2'
 aS'0'
 aS'2'
@@ -1414,71 +1493,56 @@ aS'0'
 aS'2'
 aS'8'
 aS'date unknown'
-p419
-aS'g'
-aS'n'
-aS'i'
-aa(lp420
-S'Steve Gray'
-p421
-aS'1976'
 p422
-aS'Fly-half'
-p423
-aS'6'
-aS'0'
-aS'6'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp423
+S'Steve Gray'
 p424
-aS'g'
-aS'n'
-aS'i'
-aa(lp425
-S'Don Guest'
+aS'1976'
+p425
+aS'Fly-half'
 p426
-aS'1976'
+aS'6'
+aS'0'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p427
-aS'Wing'
-p428
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp428
+S'Don Guest'
 p429
-aS'g'
-aS'n'
-aS'i'
-aa(lp430
-S'Dennis Murphy'
+aS'1976'
+p430
+aS'Wing'
 p431
-aS'1976'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p432
-aS'Prop'
-p433
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp433
+S'Dennis Murphy'
 p434
-aS'g'
-aS'n'
-aS'i'
-aa(lp435
-S"Morris O'Donnell"
-p436
 aS'1976'
-p437
-aS'Hooker'
-p438
+p435
+aS'Prop'
+p436
 aS'1'
 aS'0'
 aS'1'
@@ -1486,17 +1550,37 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p439
+p437
 aS'g'
 aS'n'
 aS'i'
-aa(lp440
-S'Terry Scott'
-p441
+aS's'
+aa(lp438
+S"Morris O'Donnell"
+p439
 aS'1976'
+p440
+aS'Hooker'
+p441
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p442
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp443
+S'Terry Scott'
+p444
+aS'1976'
+p445
 aS'Scrum-half'
-p443
+p446
 aS'1'
 aS'0'
 aS'1'
@@ -1504,17 +1588,18 @@ aS'0'
 aS'0'
 aS'6'
 aS'date unknown'
-p444
+p447
 aS'g'
 aS'n'
 aS'i'
-aa(lp445
+aS's'
+aa(lp448
 S'Woody Stone'
-p446
+p449
 aS'1976'
-p447
+p450
 aS'Wing'
-p448
+p451
 aS'1'
 aS'0'
 aS'1'
@@ -1522,17 +1607,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p449
+p452
 aS'g'
 aS'n'
 aS'i'
-aa(lp450
+aS's'
+aa(lp453
 S'Danny Wack'
-p451
+p454
 aS'1976'
-p452
+p455
 aS'Centre'
-p453
+p456
 aS'4'
 aS'1'
 aS'3'
@@ -1540,17 +1626,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p454
+p457
 aS'g'
 aS'n'
 aS'i'
-aa(lp455
+aS's'
+aa(lp458
 S'Barry Waite'
-p456
+p459
 aS'1976'
-p457
+p460
 aS'Flanker'
-p458
+p461
 aS'1'
 aS'0'
 aS'1'
@@ -1558,17 +1645,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p459
+p462
 aS'g'
 aS'n'
 aS'i'
-aa(lp460
+aS's'
+aa(lp463
 S'Bob Causey'
-p461
+p464
 aS'1977'
-p462
+p465
 aS'Lock'
-p463
+p466
 aS'8'
 aS'1'
 aS'5'
@@ -1576,38 +1664,41 @@ aS'2'
 aS'0'
 aS'0'
 aS'circa 1953'
-p464
-aVPerú
-p465
-aVTacna
-p466
-aVCandarave
 p467
-aa(lp468
-S'Jay Hanson'
+aVPerú
+p468
+aVTacna
 p469
-aS'1977'
+aVCandarave
 p470
-aS'Hooker'
+aVCirca
 p471
-aS'7'
-aS'0'
-aS'7'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p472
-aS'g'
-aS'n'
-aS'i'
-aa(lp473
-S'Bruce Henderson'
+aa(lp472
+S'Jay Hanson'
+p473
+aS'1977'
 p474
-aS'1977'
+aS'Hooker'
 p475
-aS'Prop'
+aS'7'
+aS'0'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p476
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp477
+S'Bruce Henderson'
+p478
+aS'1977'
+p479
+aS'Prop'
+p480
 aS'1'
 aS'0'
 aS'1'
@@ -1615,216 +1706,209 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p477
+p481
 aS'g'
 aS'n'
 aS'i'
-aa(lp478
+aS's'
+aa(lp482
 S'Dennis Jablonski'
-p479
+p483
 aS'1977'
-p480
+p484
 aS'Fullback'
-p481
+p485
 aS'4'
 aS'1'
 aS'3'
 aS'0'
 aS'0'
 aS'28'
-p482
-aS'date unknown'
-p483
-aS'g'
-aS'n'
-aS'i'
-aa(lp484
-S'Scott Kelso'
-p485
-aS'1977'
 p486
-aS'Scrum-half'
+aS'date unknown'
 p487
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'1'
-aS'4'
-aS'date unknown'
-p488
 aS'g'
 aS'n'
 aS'i'
-aa(lp489
-S'Mike Liscovitz'
+aS's'
+aa(lp488
+S'Scott Kelso'
+p489
+aS'1977'
 p490
-aS'1977'
+aS'Scrum-half'
 p491
-aS'Wing'
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
 p492
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p493
 aS'g'
 aS'n'
 aS'i'
-aa(lp494
-S'Jeff Lombard'
+aS's'
+aa(lp493
+S'Mike Liscovitz'
+p494
+aS'1977'
 p495
-aS'1977'
-p496
-aS'Flanker'
-p497
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p498
-aS'g'
-aS'n'
-aS'i'
-aa(lp499
-S'Mike Sherlock'
-p500
-aS'1977'
-p501
-aS'Prop'
-p502
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p503
-aS'g'
-aS'n'
-aS'i'
-aa(lp504
-S'Clarence Culpepper'
-p505
-aS'1977'
-p506
-aS'Flanker'
-p507
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p508
-aS'g'
-aS'n'
-aS'i'
-aa(lp509
-S'Rob Duncanson'
-p510
-aS'1977'
-p511
 aS'Wing'
-p512
+p496
+aS'3'
 aS'1'
+aS'2'
 aS'0'
-aS'1'
 aS'0'
-aS'1'
-aS'4'
+aS'0'
 aS'date unknown'
-p513
+p497
 aS'g'
 aS'n'
 aS'i'
-aa(lp514
-S'Mike Halliday'
-p515
+aS's'
+aa(lp498
+S'Jeff Lombard'
+p499
 aS'1977'
-p516
-aS'Centre'
-p517
-aS'6'
-aS'1'
-aS'4'
-aS'1'
+p500
+aS'Flanker'
+p501
+aS'3'
 aS'0'
-aS'6'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
 aS'date unknown'
-p518
+p502
 aS'g'
 aS'n'
 aS'i'
-aa(lp519
-S'Eric Parthmore'
-p520
+aS's'
+aa(lp503
+S'Mike Sherlock'
+p504
 aS'1977'
-p521
+p505
 aS'Prop'
+p506
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p507
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp508
+S'Clarence Culpepper'
+p509
+aS'1977'
+p510
+aS'Flanker'
+p511
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p512
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp513
+S'Rob Duncanson'
+p514
+aS'1977'
+p515
+aS'Wing'
+p516
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
+p517
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp518
+S'Mike Halliday'
+p519
+aS'1977'
+p520
+aS'Centre'
+p521
+aS'6'
+aS'1'
+aS'4'
+aS'1'
+aS'0'
+aS'6'
+aS'date unknown'
 p522
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p523
 aS'g'
 aS'n'
 aS'i'
-aa(lp524
-S'Tom Altemeier'
+aS's'
+aa(lp523
+S'Eric Parthmore'
+p524
+aS'1977'
 p525
-aS'1978'
+aS'Prop'
 p526
-aS'Lock'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p527
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p528
 aS'g'
 aS'n'
 aS'i'
-aa(lp529
-S'Brad Andrews'
+aS's'
+aa(lp528
+S'Tom Altemeier'
+p529
+aS'1978'
 p530
-aS'1978'
-p531
-aS'No. 8'
-p532
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p533
-aS'g'
-aS'n'
-aS'i'
-aa(lp534
-S'Gerry Kelleher'
-p535
-aS'1978'
-p536
 aS'Lock'
-p537
+p531
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p532
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp533
+S'Brad Andrews'
+p534
+aS'1978'
+p535
+aS'No. 8'
+p536
 aS'2'
 aS'1'
 aS'1'
@@ -1832,17 +1916,37 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p538
+p537
 aS'g'
 aS'n'
 aS'i'
-aa(lp539
-S'Jessie Lopez'
-p540
+aS's'
+aa(lp538
+S'Gerry Kelleher'
+p539
 aS'1978'
+p540
+aS'Lock'
 p541
-aS'Hooker'
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p542
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp543
+S'Jessie Lopez'
+p544
+aS'1978'
+p545
+aS'Hooker'
+p546
 aS'1'
 aS'1'
 aS'0'
@@ -1850,18 +1954,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p543
-aVUnited States of America
-p544
-ag28
-ag28
-aa(lp545
-S'Gary Wilson'
-p546
-aS'1978'
 p547
-aS'Prop'
+aVUnited States of America
 p548
+ag28
+ag28
+ag28
+aa(lp549
+S'Gary Wilson'
+p550
+aS'1978'
+p551
+aS'Prop'
+p552
 aS'5'
 aS'1'
 aS'4'
@@ -1869,39 +1974,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p549
+p553
 aS'g'
 aS'n'
 aS'i'
-aa(lp550
+aS's'
+aa(lp554
 S'Rick Bailey'
-p551
+p555
 aS'1979'
-p552
+p556
 aS'Prop'
-p553
+p557
 aS'11'
-p554
+p558
 aS'2'
 aS'8'
 aS'1'
 aS'0'
 aS'0'
 aS'1954'
-p555
+p559
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p556
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p557
-aVDaïra Bouandas
-p558
-aa(lp559
-S'Dave Briley'
 p560
-aS'1979'
+aVSétif - \u0633\u0637\u064a\u0641\u200e
 p561
-aS'Prop'
+aVDaïra Bouandas
 p562
+aVAït Tizi
+p563
+aa(lp564
+S'Dave Briley'
+p565
+aS'1979'
+p566
+aS'Prop'
+p567
 aS'4'
 aS'0'
 aS'4'
@@ -1909,20 +2017,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1952'
-p563
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p564
-aV\u0421\u041a\u0424\u041e
-p565
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p566
-aa(lp567
-S'Jack Clark'
 p568
-aS'1979'
+aV\u0420\u043e\u0441\u0441\u0438\u044f
 p569
-aS'Lock'
+aV\u0421\u041a\u0424\u041e
 p570
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p571
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p572
+aa(lp573
+S'Jack Clark'
+p574
+aS'1979'
+p575
+aS'Lock'
+p576
 aS'2'
 aS'0'
 aS'2'
@@ -1930,39 +2040,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p571
+p577
 aS'g'
 aS'n'
 aS'i'
-aa(lp572
+aS's'
+aa(lp578
 S'Dick Cooke'
-p573
+p579
 aS'1979'
-p574
+p580
 aS'Scrum-half'
-p575
+p581
 aS'6'
 aS'0'
 aS'6'
 aS'0'
 aS'0'
 aS'21'
-p576
-aS'1951'
-p577
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p578
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p579
-aVDaïra Bouandas
-p580
-aa(lp581
-S'Mike Fanucchi'
 p582
-aS'1979'
+aS'1951'
 p583
-aS'Centre'
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
 p584
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p585
+aVDaïra Bouandas
+p586
+aVAït Nawal M'zada
+p587
+aa(lp588
+S'Mike Fanucchi'
+p589
+aS'1979'
+p590
+aS'Centre'
+p591
 aS'3'
 aS'0'
 aS'3'
@@ -1970,40 +2083,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'1951'
-p585
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p586
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p587
-aVDaïra Bouandas
-p588
-aa(lp589
-S'Jeff Hollings'
-p590
-aS'1979'
-p591
-aS'Hooker'
 p592
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'1949'
-p593
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p594
+p593
 aVSétif - \u0633\u0637\u064a\u0641\u200e
+p594
+aVDaïra Bouandas
 p595
-aVDaïra Beni Aziz
+aVAït Nawal M'zada
 p596
 aa(lp597
-S'Boyd Morrison'
+S'Jeff Hollings'
 p598
 aS'1979'
 p599
-aS'Centre'
+aS'Hooker'
 p600
 aS'2'
 aS'0'
@@ -2011,18 +2105,42 @@ aS'2'
 aS'0'
 aS'0'
 aS'0'
-aS'date unknown'
+aS'1949'
 p601
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p602
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p603
+aVDaïra Beni Aziz
+p604
+aVAïn Sebt
+p605
+aa(lp606
+S'Boyd Morrison'
+p607
+aS'1979'
+p608
+aS'Centre'
+p609
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p610
 aS'g'
 aS'n'
 aS'i'
-aa(lp602
+aS's'
+aa(lp611
 S'Chimere Okezie'
-p603
+p612
 aS'1979'
-p604
+p613
 aS'Wing'
-p605
+p614
 aS'6'
 aS'0'
 aS'5'
@@ -2030,20 +2148,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'1956'
-p606
+p615
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p607
+p616
 aVSétif - \u0633\u0637\u064a\u0641\u200e
-p608
+p617
 aVDaïra El Eulma
-p609
-aa(lp610
+p618
+aVGuelta Zerga
+p619
+aa(lp620
 S'Joe Sheitlin'
-p611
+p621
 aS'1979'
-p612
+p622
 aS'Wing'
-p613
+p623
 aS'1'
 aS'0'
 aS'1'
@@ -2051,17 +2171,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p614
+p624
 aS'g'
 aS'n'
 aS'i'
-aa(lp615
+aS's'
+aa(lp625
 S'John Fowler'
-p616
+p626
 aS'1980'
-p617
+p627
 aS'Flanker'
-p618
+p628
 aS'7'
 aS'0'
 aS'6'
@@ -2069,20 +2190,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'1953'
-p619
+p629
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p620
+p630
 aVSétif - \u0633\u0637\u064a\u0641\u200e
-p621
+p631
 aVDaïra Bougaa
-p622
-aa(lp623
+p632
+aVBeni Hocine
+p633
+aa(lp634
 S'Tim Moser'
-p624
+p635
 aS'1980'
-p625
+p636
 aS'Lock'
-p626
+p637
 aS'1'
 aS'0'
 aS'1'
@@ -2090,38 +2213,40 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p627
+p638
 aS'g'
 aS'n'
 aS'i'
-aa(lp628
+aS's'
+aa(lp639
 S'Mike Purcell'
-p629
+p640
 aS'1980'
-p630
+p641
 aS'Wing'
-p631
+p642
 aS'14'
-p632
+p643
 aS'3'
 aS'9'
 aS'2'
 aS'4'
 aS'16'
-p633
+p644
 aS'United States'
-p634
+p645
 aVUnited States of America
-p635
+p646
 ag28
 ag28
-aa(lp636
+ag28
+aa(lp647
 S'Brian Swords'
-p637
+p648
 aS'1980'
-p638
+p649
 aS'Lock'
-p639
+p650
 aS'3'
 aS'0'
 aS'3'
@@ -2129,20 +2254,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1952'
-p640
+p651
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p641
+p652
 aV\u0421\u041a\u0424\u041e
-p642
+p653
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p643
-aa(lp644
+p654
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p655
+aa(lp656
 S'Douglas Parks'
-p645
+p657
 aS'1980'
-p646
+p658
 aS'Fullback'
-p647
+p659
 aS'1'
 aS'0'
 aS'1'
@@ -2150,17 +2277,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p648
+p660
 aS'g'
 aS'n'
 aS'i'
-aa(lp649
+aS's'
+aa(lp661
 S'Tom Smith'
-p650
+p662
 aS'1980'
-p651
+p663
 aS'Fly-half'
-p652
+p664
 aS'4'
 aS'0'
 aS'4'
@@ -2168,17 +2296,18 @@ aS'0'
 aS'0'
 aS'3'
 aS'date unknown'
-p653
+p665
 aS'g'
 aS'n'
 aS'i'
-aa(lp654
+aS's'
+aa(lp666
 S'Lin Walton'
-p655
+p667
 aS'1980'
-p656
+p668
 aS'Wing'
-p657
+p669
 aS'4'
 aS'0'
 aS'4'
@@ -2186,42 +2315,46 @@ aS'0'
 aS'1'
 aS'4'
 aS'1946'
-p658
+p670
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p659
+p671
 aVSétif - \u0633\u0637\u064a\u0641\u200e
-p660
+p672
 aVDaïra Beni Ouartilane
-p661
-aa(lp662
+p673
+aVBeni Mouhli
+p674
+aa(lp675
 S'Ed Burlingham'
-p663
+p676
 aS'1980'
-p664
+p677
 aS'Lock'
-p665
+p678
 aS'14'
-p666
+p679
 aS'3'
 aS'9'
 aS'2'
 aS'0'
 aS'0'
 aS'circa 1952'
-p667
+p680
 aVPerú
-p668
+p681
 aVTacna
-p669
+p682
 aVCandarave
-p670
-aa(lp671
+p683
+aVCirca
+p684
+aa(lp685
 S'Chip Howard'
-p672
+p686
 aS'1980'
-p673
+p687
 aS'Fullback'
-p674
+p688
 aS'1'
 aS'0'
 aS'1'
@@ -2229,20 +2362,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1957'
-p675
+p689
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p676
+p690
 aVSétif - \u0633\u0637\u064a\u0641\u200e
-p677
+p691
 aVDaïra Amoucha
-p678
-aa(lp679
+p692
+aVOued El Bared
+p693
+aa(lp694
 S"Tim O'Brien"
-p680
+p695
 aS'1980'
-p681
+p696
 aS'Centre'
-p682
+p697
 aS'3'
 aS'0'
 aS'3'
@@ -2250,17 +2385,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p683
+p698
 aS'g'
 aS'n'
 aS'i'
-aa(lp684
+aS's'
+aa(lp699
 S'Denis Shanagher'
-p685
+p700
 aS'1980'
-p686
+p701
 aS'Centre'
-p687
+p702
 aS'9'
 aS'2'
 aS'5'
@@ -2268,20 +2404,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'1956'
-p688
+p703
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p689
+p704
 aVSétif - \u0633\u0637\u064a\u0641\u200e
-p690
+p705
 aVDaïra El Eulma
-p691
-aa(lp692
+p706
+aVGuelta Zerga
+p707
+aa(lp708
 S'Art Ward'
-p693
+p709
 aS'1980'
-p694
+p710
 aS'No. 8'
-p695
+p711
 aS'2'
 aS'0'
 aS'2'
@@ -2289,66 +2427,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'1950'
-p696
+p712
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p697
+p713
 aV\u0421\u041a\u0424\u041e
-p698
+p714
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p699
-aa(lp700
+p715
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p716
+aa(lp717
 S'Roy Helu'
-p701
+p718
 aS'1981'
-p702
+p719
 aS'Centre'
-p703
+p720
 aS'12'
-p704
+p721
 aS'3'
 aS'8'
 aS'1'
 aS'2'
 aS'8'
 aS'circa 1953'
-p705
+p722
 aVPerú
-p706
+p723
 aVTacna
-p707
+p724
 aVCandarave
-p708
-aa(lp709
+p725
+aVCirca
+p726
+aa(lp727
 S'Gary Lambert'
-p710
+p728
 aS'1981'
-p711
+p729
 aS'Flanker'
-p712
+p730
 aS'18'
-p713
+p731
 aS'6'
 aS'11'
-p714
+p732
 aS'1'
 aS'3'
 aS'12'
-p715
+p733
 aS'circa 1959'
-p716
+p734
 aVPerú
-p717
+p735
 aVTacna
-p718
+p736
 aVCandarave
-p719
-aa(lp720
+p737
+aVCirca
+p738
+aa(lp739
 S'Steve Finkel'
-p721
+p740
 aS'1981'
-p722
+p741
 aS'Flanker'
-p723
+p742
 aS'6'
 aS'0'
 aS'6'
@@ -2356,96 +2500,26 @@ aS'0'
 aS'0'
 aS'0'
 aS'circa 1953'
-p724
+p743
 aVPerú
-p725
-aVTacna
-p726
-aVCandarave
-p727
-aa(lp728
-S'Jamie Grant'
-p729
-aS'1981'
-p730
-aS'Hooker'
-p731
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p732
-aS'g'
-aS'n'
-aS'i'
-aa(lp733
-S'Dave Bateman'
-p734
-aS'1982'
-p735
-aS'Scrum-half'
-p736
-aS'5'
-aS'1'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'date unknown'
-p737
-aS'g'
-aS'n'
-aS'i'
-aa(lp738
-S'John Jelaco'
-p739
-aS'1982'
-p740
-aS'Prop'
-p741
-aS'2'
-aS'0'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'date unknown'
-p742
-aS'g'
-aS'n'
-aS'i'
-aa(lp743
-S'Bo Meyersieck'
 p744
-aS'1982'
+aVTacna
 p745
-aS'Fly-half'
+aVCandarave
 p746
-aS'5'
-aS'1'
-aS'3'
-aS'1'
-aS'0'
-aS'3'
-aS'date unknown'
+aVCirca
 p747
-aS'g'
-aS'n'
-aS'i'
 aa(lp748
-S'Kirk Miles'
+S'Jamie Grant'
 p749
-aS'1982'
+aS'1981'
 p750
 aS'Hooker'
 p751
-aS'2'
+aS'1'
 aS'0'
 aS'1'
-aS'1'
+aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
@@ -2453,17 +2527,18 @@ p752
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp753
-S'Ian Gunn'
+S'Dave Bateman'
 p754
 aS'1982'
 p755
-aS'Fullback'
+aS'Scrum-half'
 p756
+aS'5'
 aS'1'
-aS'0'
+aS'3'
 aS'1'
-aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
@@ -2471,17 +2546,18 @@ p757
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp758
-S'Terry Whelan'
+S'John Jelaco'
 p759
 aS'1982'
 p760
 aS'Prop'
 p761
-aS'5'
 aS'2'
-aS'3'
 aS'0'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
@@ -2489,34 +2565,112 @@ p762
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp763
-S'Fred Paoli'
+S'Bo Meyersieck'
 p764
 aS'1982'
 p765
-aS'Prop'
+aS'Fly-half'
 p766
-aS'20'
+aS'5'
+aS'1'
+aS'3'
+aS'1'
+aS'0'
+aS'3'
+aS'date unknown'
 p767
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp768
+S'Kirk Miles'
+p769
+aS'1982'
+p770
+aS'Hooker'
+p771
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'date unknown'
+p772
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp773
+S'Ian Gunn'
+p774
+aS'1982'
+p775
+aS'Fullback'
+p776
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p777
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp778
+S'Terry Whelan'
+p779
+aS'1982'
+p780
+aS'Prop'
+p781
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p782
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp783
+S'Fred Paoli'
+p784
+aS'1982'
+p785
+aS'Prop'
+p786
+aS'20'
+p787
 aS'6'
 aS'13'
-p768
+p788
 aS'1'
 aS'0'
 aS'0'
 aS'United States'
-p769
+p789
 aVUnited States of America
-p770
+p790
 ag28
 ag28
-aa(lp771
+ag28
+aa(lp791
 S'Rick Crivellone'
-p772
+p792
 aS'1983'
-p773
+p793
 aS'Lock'
-p774
+p794
 aS'3'
 aS'0'
 aS'3'
@@ -2524,40 +2678,43 @@ aS'0'
 aS'1'
 aS'4'
 aS'date unknown'
-p775
+p795
 aS'g'
 aS'n'
 aS'i'
-aa(lp776
+aS's'
+aa(lp796
 S'Ray Nelson'
-p777
+p797
 aS'1983'
-p778
+p798
 aS'Fullback'
-p779
+p799
 aS'25'
-p780
+p800
 aS'7'
 aS'17'
-p781
+p801
 aS'1'
 aS'5'
 aS'65'
-p782
+p802
 aS'Glasgow'
-p783
+p803
 aVUnited Kingdom
-p784
+p804
 aVG
 aVScotland
-p785
-aa(lp786
+p805
+aVGlasgow City
+p806
+aa(lp807
 S'Mark Ormsby'
-p787
+p808
 aS'1983'
-p788
+p809
 aS'Wing'
-p789
+p810
 aS'1'
 aS'0'
 aS'1'
@@ -2565,17 +2722,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p790
+p811
 aS'g'
 aS'n'
 aS'i'
-aa(lp791
+aS's'
+aa(lp812
 S'Doug Straehley'
-p792
+p813
 aS'1983'
-p793
+p814
 aS'Scrum-half'
-p794
+p815
 aS'2'
 aS'1'
 aS'1'
@@ -2583,17 +2741,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p795
+p816
 aS'g'
 aS'n'
 aS'i'
-aa(lp796
+aS's'
+aa(lp817
 S'Blane Warhurst'
-p797
+p818
 aS'1983'
-p798
+p819
 aS'Flanker'
-p799
+p820
 aS'9'
 aS'4'
 aS'4'
@@ -2601,66 +2760,6 @@ aS'1'
 aS'2'
 aS'8'
 aS'circa 1952'
-p800
-aVPerú
-p801
-aVTacna
-p802
-aVCandarave
-p803
-aa(lp804
-S'Jake Burkhardt'
-p805
-aS'1983'
-p806
-aS'Flanker'
-p807
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p808
-aS'g'
-aS'n'
-aS'i'
-aa(lp809
-S'Bill Shiflet'
-p810
-aS'1983'
-p811
-aS'Lock'
-p812
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'circa 1955'
-p813
-aVPerú
-p814
-aVTacna
-p815
-aVCandarave
-p816
-aa(lp817
-S'Neal Brendel'
-p818
-aS'1983'
-p819
-aS'Prop'
-p820
-aS'6'
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'circa 1955'
 p821
 aVPerú
 p822
@@ -2668,13 +2767,80 @@ aVTacna
 p823
 aVCandarave
 p824
-aa(lp825
-S'Mark Deaton'
-p826
-aS'1983'
+aVCirca
+p825
+aa(lp826
+S'Jake Burkhardt'
 p827
-aS'No. 8'
+aS'1983'
 p828
+aS'Flanker'
+p829
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p830
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp831
+S'Bill Shiflet'
+p832
+aS'1983'
+p833
+aS'Lock'
+p834
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1955'
+p835
+aVPerú
+p836
+aVTacna
+p837
+aVCandarave
+p838
+aVCirca
+p839
+aa(lp840
+S'Neal Brendel'
+p841
+aS'1983'
+p842
+aS'Prop'
+p843
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'circa 1955'
+p844
+aVPerú
+p845
+aVTacna
+p846
+aVCandarave
+p847
+aVCirca
+p848
+aa(lp849
+S'Mark Deaton'
+p850
+aS'1983'
+p851
+aS'No. 8'
+p852
 aS'3'
 aS'2'
 aS'1'
@@ -2682,17 +2848,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p829
+p853
 aS'g'
 aS'n'
 aS'i'
-aa(lp830
+aS's'
+aa(lp854
 S'Jon Hartman'
-p831
+p855
 aS'1983'
-p832
+p856
 aS'Wing'
-p833
+p857
 aS'2'
 aS'1'
 aS'1'
@@ -2700,15 +2867,16 @@ aS'0'
 aS'1'
 aS'4'
 aS'date unknown'
-p834
+p858
 aS'g'
 aS'n'
 aS'i'
-aa(lp835
+aS's'
+aa(lp859
 S'Ian Loveseth'
-p836
+p860
 aS'1983'
-p837
+p861
 aS''
 aS'1'
 aS'0'
@@ -2717,17 +2885,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p838
+p862
 aS'g'
 aS'n'
 aS'i'
-aa(lp839
+aS's'
+aa(lp863
 S'Mike Caulder'
-p840
+p864
 aS'1984'
-p841
+p865
 aS'Fly-half'
-p842
+p866
 aS'3'
 aS'1'
 aS'2'
@@ -2735,20 +2904,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'circa 1960'
-p843
+p867
 aVPerú
-p844
+p868
 aVTacna
-p845
+p869
 aVCandarave
-p846
-aa(lp847
+p870
+aVCirca
+p871
+aa(lp872
 S'John Everett'
-p848
+p873
 aS'1984'
-p849
+p874
 aS'Hooker'
-p850
+p875
 aS'7'
 aS'4'
 aS'2'
@@ -2756,20 +2927,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'circa 1957'
-p851
+p876
 aVPerú
-p852
+p877
 aVTacna
-p853
+p878
 aVCandarave
-p854
-aa(lp855
+p879
+aVCirca
+p880
+aa(lp881
 S'Butch Horwath'
-p856
+p882
 aS'1984'
-p857
+p883
 aS'Prop'
-p858
+p884
 aS'7'
 aS'3'
 aS'4'
@@ -2777,20 +2950,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'circa 1961'
-p859
+p885
 aVPerú
-p860
+p886
 aVTacna
-p861
+p887
 aVCandarave
-p862
-aa(lp863
+p888
+aVCirca
+p889
+aa(lp890
 S'Dave Jenkinson'
-p864
+p891
 aS'1984'
-p865
+p892
 aS'Centre'
-p866
+p893
 aS'3'
 aS'1'
 aS'1'
@@ -2798,17 +2973,18 @@ aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
-p867
+p894
 aS'g'
 aS'n'
 aS'i'
-aa(lp868
+aS's'
+aa(lp895
 S'Whit Everett'
-p869
+p896
 aS'1985'
-p870
+p897
 aS'Flanker'
-p871
+p898
 aS'3'
 aS'1'
 aS'1'
@@ -2816,58 +2992,61 @@ aS'1'
 aS'1'
 aS'4'
 aS'date unknown'
-p872
+p899
 aS'g'
 aS'n'
 aS'i'
-aa(lp873
+aS's'
+aa(lp900
 S'Kevin Higgins'
-p874
+p901
 aS'1985'
-p875
+p902
 aS'Centre'
-p876
+p903
 aS'28'
-p877
+p904
 aS'9'
 aS'18'
-p878
+p905
 aS'1'
 aS'4'
 aS'16'
-p879
+p906
 aS'United States'
-p880
+p907
 aVUnited States of America
-p881
+p908
 ag28
 ag28
-aa(lp882
+ag28
+aa(lp909
 S'Mike Inns'
-p883
+p910
 aS'1985'
-p884
+p911
 aS'Fullback'
-p885
+p912
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aS'22'
-p886
+p913
 aS'date unknown'
-p887
+p914
 aS'g'
 aS'n'
 aS'i'
-aa(lp888
+aS's'
+aa(lp915
 S'Willie Jefferson'
-p889
+p916
 aS'1985'
-p890
+p917
 aS'Wing'
-p891
+p918
 aS'6'
 aS'1'
 aS'5'
@@ -2875,40 +3054,42 @@ aS'0'
 aS'2'
 aS'8'
 aS'United States'
-p892
+p919
 aVUnited States of America
-p893
+p920
 ag28
 ag28
-aa(lp894
+ag28
+aa(lp921
 S'Kevin Swords'
-p895
+p922
 aS'1985'
-p896
+p923
 aS'Lock'
-p897
+p924
 aS'36'
-p898
+p925
 aS'11'
-p899
+p926
 aS'25'
-p900
+p927
 aS'0'
 aS'2'
 aS'8'
 aS'United States'
-p901
+p928
 aVUnited States of America
-p902
+p929
 ag28
 ag28
-aa(lp903
+ag28
+aa(lp930
 S'Bruce Monroe'
-p904
+p931
 aS'1985'
-p905
+p932
 aS'Hooker'
-p906
+p933
 aS'1'
 aS'0'
 aS'1'
@@ -2916,39 +3097,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p907
+p934
 aS'g'
 aS'n'
 aS'i'
-aa(lp908
+aS's'
+aa(lp935
 S'Joe Clarkson'
-p909
+p936
 aS'1986'
-p910
+p937
 aS'Fly-half'
-p911
+p938
 aS'5'
 aS'2'
 aS'2'
 aS'1'
 aS'1'
 aS'13'
-p912
+p939
 aS'circa 1957'
-p913
+p940
 aVPerú
-p914
+p941
 aVTacna
-p915
+p942
 aVCandarave
-p916
-aa(lp917
+p943
+aVCirca
+p944
+aa(lp945
 S'Dave Dickson'
-p918
+p946
 aS'1986'
-p919
+p947
 aS'Scrum-half'
-p920
+p948
 aS'2'
 aS'0'
 aS'1'
@@ -2956,20 +3140,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'circa 1960'
-p921
+p949
 aVPerú
-p922
+p950
 aVTacna
-p923
+p951
 aVCandarave
-p924
-aa(lp925
+p952
+aVCirca
+p953
+aa(lp954
 S'Lance Manga'
-p926
+p955
 aS'1986'
-p927
+p956
 aS'Prop'
-p928
+p957
 aS'8'
 aS'2'
 aS'5'
@@ -2977,39 +3163,41 @@ aS'1'
 aS'0'
 aS'0'
 aS'United States'
-p929
+p958
 aVUnited States of America
-p930
+p959
 ag28
 ag28
-aa(lp931
+ag28
+aa(lp960
 S'Brian Vizard'
-p932
+p961
 aS'1986'
-p933
+p962
 aS'No. 8'
-p934
+p963
 aS'22'
-p935
+p964
 aS'7'
 aS'14'
-p936
+p965
 aS'1'
 aS'0'
 aS'0'
 aS'United States'
-p937
+p966
 aVUnited States of America
-p938
+p967
 ag28
 ag28
-aa(lp939
+ag28
+aa(lp968
 S'Dave Horton'
-p940
+p969
 aS'1986'
-p941
+p970
 aS'Fly-half'
-p942
+p971
 aS'3'
 aS'0'
 aS'3'
@@ -3017,20 +3205,22 @@ aS'0'
 aS'0'
 aS'9'
 aS'circa 1955'
-p943
+p972
 aVPerú
-p944
+p973
 aVTacna
-p945
+p974
 aVCandarave
-p946
-aa(lp947
+p975
+aVCirca
+p976
+aa(lp977
 S'John Mickel'
-p948
+p978
 aS'1986'
-p949
+p979
 aS'Scrum-half'
-p950
+p980
 aS'1'
 aS'0'
 aS'1'
@@ -3038,17 +3228,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p951
+p981
 aS'g'
 aS'n'
 aS'i'
-aa(lp952
+aS's'
+aa(lp982
 S'Tommy Vinick'
-p953
+p983
 aS'1986'
-p954
+p984
 aS'Centre'
-p955
+p985
 aS'3'
 aS'0'
 aS'3'
@@ -3056,20 +3247,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'circa 1957'
-p956
+p986
 aVPerú
-p957
+p987
 aVTacna
-p958
+p988
 aVCandarave
-p959
-aa(lp960
+p989
+aVCirca
+p990
+aa(lp991
 S'Alec Montgomery'
-p961
+p992
 aS'1986'
-p962
+p993
 aS'Fullback'
-p963
+p994
 aS'6'
 aS'1'
 aS'5'
@@ -3077,122 +3270,129 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p964
+p995
 aS'g'
 aS'n'
 aS'i'
-aa(lp965
+aS's'
+aa(lp996
 S'Bill Bernhard'
-p966
+p997
 aS'1987'
-p967
+p998
 aS'Fullback'
-p968
+p999
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'11'
-p969
+p1000
 aS'date unknown'
-p970
+p1001
 aS'g'
 aS'n'
 aS'i'
-aa(lp971
+aS's'
+aa(lp1002
 S'Gary Hein'
-p972
+p1003
 aS'1987'
-p973
+p1004
 aS'Wing'
-p974
+p1005
 aS'25'
-p975
+p1006
 aS'7'
 aS'18'
-p976
+p1007
 aS'0'
 aS'3'
 aS'12'
-p977
+p1008
 aS'United States'
-p978
+p1009
 aVUnited States of America
-p979
+p1010
 ag28
 ag28
-aa(lp980
+ag28
+aa(lp1011
 S'Mike Saunders'
-p981
+p1012
 aS'1987'
-p982
+p1013
 aS'Scrum-half'
-p983
+p1014
 aS'12'
-p984
+p1015
 aS'4'
 aS'8'
 aS'0'
 aS'2'
 aS'8'
 aS'circa 1959'
-p985
+p1016
 aVPerú
-p986
+p1017
 aVTacna
-p987
+p1018
 aVCandarave
-p988
-aa(lp989
+p1019
+aVCirca
+p1020
+aa(lp1021
 S'Pat Johnson'
-p990
+p1022
 aS'1987'
-p991
+p1023
 aS'Hooker'
-p992
+p1024
 aS'16'
-p993
+p1025
 aS'3'
 aS'13'
-p994
+p1026
 aS'0'
 aS'1'
 aS'4'
 aS'United States'
-p995
+p1027
 aVUnited States of America
-p996
+p1028
 ag28
 ag28
-aa(lp997
+ag28
+aa(lp1029
 S'Tony Ridnell'
-p998
+p1030
 aS'1987'
-p999
+p1031
 aS'No. 8'
-p1000
+p1032
 aS'14'
-p1001
+p1033
 aS'4'
 aS'10'
-p1002
+p1034
 aS'0'
 aS'1'
 aS'4'
 aS'United States'
-p1003
+p1035
 aVUnited States of America
-p1004
+p1036
 ag28
 ag28
-aa(lp1005
+ag28
+aa(lp1037
 S'Mark Carlson'
-p1006
+p1038
 aS'1987'
-p1007
+p1039
 aS'Flanker'
-p1008
+p1040
 aS'2'
 aS'0'
 aS'2'
@@ -3200,17 +3400,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1009
+p1041
 aS'g'
 aS'n'
 aS'i'
-aa(lp1010
+aS's'
+aa(lp1042
 S'Chris Doherty'
-p1011
+p1043
 aS'1987'
-p1012
+p1044
 aS'Hooker'
-p1013
+p1045
 aS'1'
 aS'0'
 aS'1'
@@ -3218,17 +3419,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1014
+p1046
 aS'g'
 aS'n'
 aS'i'
-aa(lp1015
+aS's'
+aa(lp1047
 S'Jeff Peter'
-p1016
+p1048
 aS'1987'
-p1017
+p1049
 aS'Flanker'
-p1018
+p1050
 aS'2'
 aS'0'
 aS'2'
@@ -3236,45 +3438,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'circa 1962'
-p1019
+p1051
 aVPerú
-p1020
+p1052
 aVTacna
-p1021
+p1053
 aVCandarave
-p1022
-aa(lp1023
+p1054
+aVCirca
+p1055
+aa(lp1056
 S'Mark Williams'
-p1024
+p1057
 aS'1987'
-p1025
+p1058
 aS'Centre'
-p1026
+p1059
 aS'37'
-p1027
+p1060
 aS'11'
-p1028
+p1061
 aS'26'
-p1029
+p1062
 aS'0'
 aS'3'
 aS'143'
-p1030
+p1063
 aS'Ellsbury'
-p1031
+p1064
 aVUnited States of America
-p1032
+p1065
 aVNew York
-p1033
+p1066
 aVEssex County
-p1034
-aa(lp1035
+p1067
+aVReber
+p1068
+aa(lp1069
 S'Ron Zenker'
-p1036
+p1070
 aS'1987'
-p1037
+p1071
 aS'Lock'
-p1038
+p1072
 aS'2'
 aS'0'
 aS'2'
@@ -3282,17 +3488,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1039
+p1073
 aS'g'
 aS'n'
 aS'i'
-aa(lp1040
+aS's'
+aa(lp1074
 S'Sam Vaka'
-p1041
+p1075
 aS'1987'
-p1042
+p1076
 aS'Centre'
-p1043
+p1077
 aS'1'
 aS'0'
 aS'1'
@@ -3300,17 +3507,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1044
+p1078
 aS'g'
 aS'n'
 aS'i'
-aa(lp1045
+aS's'
+aa(lp1079
 S'Shawn Lipman'
-p1046
+p1080
 aS'1988'
-p1047
+p1081
 aS'Flanker'
-p1048
+p1082
 aS'9'
 aS'4'
 aS'5'
@@ -3318,42 +3526,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p1049
+p1083
 aVSouth Africa
-p1050
+p1084
 aV2001
-p1051
+p1085
 aVGauteng
-p1052
-aa(lp1053
+p1086
+aVCity of Johannesburg Metropolitan Municipality
+p1087
+aa(lp1088
 S"Chris O'Brien"
-p1054
+p1089
 aS'1988'
-p1055
+p1090
 aS'Fly-half'
-p1056
+p1091
 aS'20'
-p1057
+p1092
 aS'6'
 aS'14'
-p1058
+p1093
 aS'0'
 aS'7'
 aS'144'
-p1059
+p1094
 aS'United States'
-p1060
+p1095
 aVUnited States of America
-p1061
+p1096
 ag28
 ag28
-aa(lp1062
+ag28
+aa(lp1097
 S'Mike Smith'
-p1063
+p1098
 aS'1988'
-p1064
+p1099
 aS'Wing'
-p1065
+p1100
 aS'1'
 aS'1'
 aS'0'
@@ -3361,55 +3572,58 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1066
+p1101
 aS'g'
 aS'n'
 aS'i'
-aa(lp1067
+aS's'
+aa(lp1102
 S'Barry Williams'
-p1068
+p1103
 aS'1988'
-p1069
+p1104
 aS'Wing'
-p1070
+p1105
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'3'
 aS'12'
-p1071
+p1106
 aS'date unknown'
-p1072
+p1107
 aS'g'
 aS'n'
 aS'i'
-aa(lp1073
+aS's'
+aa(lp1108
 S'Bill Leversee'
-p1074
+p1109
 aS'1988'
-p1075
+p1110
 aS'Lock'
-p1076
+p1111
 aS'15'
-p1077
+p1112
 aS'6'
 aS'9'
 aS'0'
 aS'3'
 aS'12'
-p1078
+p1113
 aS'United States'
-p1079
+p1114
 aVUnited States of America
-p1080
+p1115
 ag28
 ag28
-aa(lp1081
+ag28
+aa(lp1116
 S'Knutson'
-p1082
+p1117
 aS'1988'
-p1083
+p1118
 aS''
 aS'1'
 aS'0'
@@ -3418,38 +3632,40 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1084
+p1119
 aS'g'
 aS'n'
 aS'i'
-aa(lp1085
+aS's'
+aa(lp1120
 S'Rob Farley'
-p1086
+p1121
 aS'1989'
-p1087
+p1122
 aS'Flanker'
-p1088
+p1123
 aS'16'
-p1089
+p1124
 aS'5'
 aS'11'
-p1090
+p1125
 aS'0'
 aS'1'
 aS'4'
 aS'United States'
-p1091
+p1126
 aVUnited States of America
-p1092
+p1127
 ag28
 ag28
-aa(lp1093
+ag28
+aa(lp1128
 S'Gerry McDonald'
-p1094
+p1129
 aS'1989'
-p1095
+p1130
 aS'Prop'
-p1096
+p1131
 aS'3'
 aS'0'
 aS'3'
@@ -3457,20 +3673,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1961'
-p1097
+p1132
 aVSverige
-p1098
+p1133
 aVSvealand
-p1099
+p1134
 aVVästmanlands län
-p1100
-aa(lp1101
+p1135
+aVHallstahammar
+p1136
+aa(lp1137
 S'Mike Siano'
-p1102
+p1138
 aS'1989'
-p1103
+p1139
 aS'Flanker'
-p1104
+p1140
 aS'4'
 aS'1'
 aS'3'
@@ -3478,17 +3696,18 @@ aS'0'
 aS'2'
 aS'8'
 aS'date unknown'
-p1105
+p1141
 aS'g'
 aS'n'
 aS'i'
-aa(lp1106
+aS's'
+aa(lp1142
 S'Russ Isaac'
-p1107
+p1143
 aS'1989'
-p1108
+p1144
 aS'Lock'
-p1109
+p1145
 aS'2'
 aS'0'
 aS'2'
@@ -3496,39 +3715,41 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1110
+p1146
 aS'g'
 aS'n'
 aS'i'
-aa(lp1111
+aS's'
+aa(lp1147
 S'Chris Lippert'
-p1112
+p1148
 aS'1989'
-p1113
+p1149
 aS'Prop'
-p1114
+p1150
 aS'38'
-p1115
+p1151
 aS'12'
-p1116
+p1152
 aS'26'
-p1117
+p1153
 aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1118
+p1154
 aVUnited States of America
-p1119
+p1155
 ag28
 ag28
-aa(lp1120
+ag28
+aa(lp1156
 S'Brian Corcoran'
-p1121
+p1157
 aS'1989'
-p1122
+p1158
 aS'Wing'
-p1123
+p1159
 aS'3'
 aS'1'
 aS'2'
@@ -3536,40 +3757,43 @@ aS'0'
 aS'2'
 aS'8'
 aS'date unknown'
-p1124
+p1160
 aS'g'
 aS'n'
 aS'i'
-aa(lp1125
+aS's'
+aa(lp1161
 S'Barry Daily'
-p1126
+p1162
 aS'1989'
-p1127
+p1163
 aS'Scrum-half'
-p1128
+p1164
 aS'12'
-p1129
+p1165
 aS'5'
 aS'7'
 aS'0'
 aS'4'
 aS'16'
-p1130
+p1166
 aS'Sanson'
-p1131
+p1167
 aVFrance
-p1132
+p1168
 aVFrance métropolitaine
-p1133
+p1169
 aVAuvergne
-p1134
-aa(lp1135
+p1170
+aVHaute-Loire
+p1171
+aa(lp1172
 S'Tom McCormack'
-p1136
+p1173
 aS'1989'
-p1137
+p1174
 aS'Hooker'
-p1138
+p1175
 aS'4'
 aS'2'
 aS'2'
@@ -3577,15 +3801,16 @@ aS'0'
 aS'1'
 aS'4'
 aS'date unknown'
-p1139
+p1176
 aS'g'
 aS'n'
 aS'i'
-aa(lp1140
+aS's'
+aa(lp1177
 S'Steve LaPorta'
-p1141
+p1178
 aS'1989'
-p1142
+p1179
 aS''
 aS'2'
 aS'1'
@@ -3594,17 +3819,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1143
+p1180
 aS'g'
 aS'n'
 aS'i'
-aa(lp1144
+aS's'
+aa(lp1181
 S'Norm Mottram'
-p1145
+p1182
 aS'1990'
-p1146
+p1183
 aS'Prop'
-p1147
+p1184
 aS'9'
 aS'2'
 aS'7'
@@ -3612,19 +3838,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Glasgow'
-p1148
+p1185
 aVUnited Kingdom
-p1149
+p1186
 aVG
 aVScotland
-p1150
-aa(lp1151
+p1187
+aVGlasgow City
+p1188
+aa(lp1189
 S'Mark Sawicki'
-p1152
+p1190
 aS'1990'
-p1153
+p1191
 aS'Flanker'
-p1154
+p1192
 aS'6'
 aS'3'
 aS'3'
@@ -3632,18 +3860,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1155
+p1193
 aVUnited States of America
-p1156
+p1194
 ag28
 ag28
-aa(lp1157
+ag28
+aa(lp1195
 S'Joe Burke'
-p1158
+p1196
 aS'1990'
-p1159
+p1197
 aS'Centre'
-p1160
+p1198
 aS'9'
 aS'4'
 aS'5'
@@ -3651,40 +3880,43 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1161
+p1199
 aVUnited States of America
-p1162
+p1200
 ag28
 ag28
-aa(lp1163
+ag28
+aa(lp1201
 S'Mike de Jong'
-p1164
+p1202
 aS'1990'
-p1165
+p1203
 aS'Fly-half'
-p1166
+p1204
 aS'9'
 aS'3'
 aS'6'
 aS'0'
 aS'0'
 aS'18'
-p1167
+p1205
 aS'Pretoria'
-p1168
+p1206
 aVSouth Africa
-p1169
+p1207
 aVGauteng
-p1170
+p1208
 aVCity of Tshwane Metropolitan Municipality
-p1171
-aa(lp1172
+p1209
+aVPretoria
+p1210
+aa(lp1211
 S'Don James'
-p1173
+p1212
 aS'1990'
-p1174
+p1213
 aS'Prop'
-p1175
+p1214
 aS'9'
 aS'2'
 aS'7'
@@ -3692,20 +3924,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1964'
-p1176
+p1215
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1177
+p1216
 aV\u0421\u041a\u0424\u041e
-p1178
+p1217
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1179
-aa(lp1180
+p1218
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1219
+aa(lp1220
 S'Rory Lewis'
-p1181
+p1221
 aS'1990'
-p1182
+p1222
 aS'Wing'
-p1183
+p1223
 aS'2'
 aS'1'
 aS'1'
@@ -3713,17 +3947,18 @@ aS'0'
 aS'1'
 aS'4'
 aS'date unknown'
-p1184
+p1224
 aS'g'
 aS'n'
 aS'i'
-aa(lp1185
+aS's'
+aa(lp1225
 S'Chris Williams'
-p1186
+p1226
 aS'1990'
-p1187
+p1227
 aS'Wing'
-p1188
+p1228
 aS'6'
 aS'3'
 aS'3'
@@ -3731,17 +3966,18 @@ aS'0'
 aS'1'
 aS'4'
 aS'date unknown'
-p1189
+p1229
 aS'g'
 aS'n'
 aS'i'
-aa(lp1190
+aS's'
+aa(lp1230
 S'Dennis Gonzalez'
-p1191
+p1231
 aS'1990'
-p1192
+p1232
 aS'Flanker'
-p1193
+p1233
 aS'3'
 aS'1'
 aS'2'
@@ -3749,17 +3985,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1194
+p1234
 aS'g'
 aS'n'
 aS'i'
-aa(lp1195
+aS's'
+aa(lp1235
 S'Tony Flay'
-p1196
+p1236
 aS'1990'
-p1197
+p1237
 aS'Hooker'
-p1198
+p1238
 aS'7'
 aS'3'
 aS'4'
@@ -3767,20 +4004,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Rotorua'
-p1199
+p1239
 aVNew Zealand/Aotearoa
-p1200
+p1240
 aVBay of Plenty
-p1201
+p1241
 aVRotorua District
-p1202
-aa(lp1203
+p1242
+aVRotorua
+p1243
+aa(lp1244
 S'Eric Whitaker'
-p1204
+p1245
 aS'1990'
-p1205
+p1246
 aS'Wing'
-p1206
+p1247
 aS'5'
 aS'1'
 aS'4'
@@ -3788,18 +4027,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1207
+p1248
 aVUnited States of America
-p1208
+p1249
 ag28
 ag28
-aa(lp1209
+ag28
+aa(lp1250
 S'Bill Hayward'
-p1210
+p1251
 aS'1991'
-p1211
+p1252
 aS'Fullback'
-p1212
+p1253
 aS'2'
 aS'1'
 aS'1'
@@ -3807,17 +4047,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1213
+p1254
 aS'g'
 aS'n'
 aS'i'
-aa(lp1214
+aS's'
+aa(lp1255
 S'Ben Hough'
-p1215
+p1256
 aS'1991'
-p1216
+p1257
 aS'Flanker'
-p1217
+p1258
 aS'3'
 aS'1'
 aS'2'
@@ -3825,36 +4066,38 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1218
+p1259
 aS'g'
 aS'n'
 aS'i'
-aa(lp1219
+aS's'
+aa(lp1260
 S'Glenn Judge'
-p1220
+p1261
 aS'1991'
-p1221
+p1262
 aS'Fly-half'
-p1222
+p1263
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'16'
-p1223
+p1264
 aS'date unknown'
-p1224
+p1265
 aS'g'
 aS'n'
 aS'i'
-aa(lp1225
+aS's'
+aa(lp1266
 S'Mark Pidcock'
-p1226
+p1267
 aS'1991'
-p1227
+p1268
 aS'Scrum-half'
-p1228
+p1269
 aS'3'
 aS'0'
 aS'3'
@@ -3862,18 +4105,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1229
+p1270
 aVUnited States of America
-p1230
+p1271
 ag28
 ag28
-aa(lp1231
+ag28
+aa(lp1272
 S'Jeff Schraml'
-p1232
+p1273
 aS'1991'
-p1233
+p1274
 aS'Hooker'
-p1234
+p1275
 aS'2'
 aS'0'
 aS'2'
@@ -3881,17 +4125,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1235
+p1276
 aS'g'
 aS'n'
 aS'i'
-aa(lp1236
+aS's'
+aa(lp1277
 S'Chuck Tunnacliffe'
-p1237
+p1278
 aS'1991'
-p1238
+p1279
 aS'Lock'
-p1239
+p1280
 aS'4'
 aS'1'
 aS'3'
@@ -3899,18 +4144,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1240
+p1281
 aVUnited States of America
-p1241
+p1282
 ag28
 ag28
-aa(lp1242
+ag28
+aa(lp1283
 S'Paul Sheehy'
-p1243
+p1284
 aS'1991'
-p1244
+p1285
 aS'Fullback'
-p1245
+p1286
 aS'4'
 aS'1'
 aS'3'
@@ -3918,39 +4164,41 @@ aS'0'
 aS'1'
 aS'4'
 aS'United States'
-p1246
+p1287
 aVUnited States of America
-p1247
+p1288
 ag28
 ag28
-aa(lp1248
+ag28
+aa(lp1289
 S'Jay Wilkerson'
-p1249
+p1290
 aS'1991'
-p1250
+p1291
 aS'Flanker'
-p1251
+p1292
 aS'17'
-p1252
+p1293
 aS'6'
 aS'11'
-p1253
+p1294
 aS'0'
 aS'1'
 aS'5'
 aS'United States'
-p1254
+p1295
 aVUnited States of America
-p1255
+p1296
 ag28
 ag28
-aa(lp1256
+ag28
+aa(lp1297
 S'Graham Downes'
-p1257
+p1298
 aS'1992'
-p1258
+p1299
 aS'Prop'
-p1259
+p1300
 aS'1'
 aS'1'
 aS'0'
@@ -3958,20 +4206,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p1260
+p1301
 aVSouth Africa
-p1261
+p1302
 aVKwaZulu-Natal
-p1262
+p1303
 aVeThekwini Metropolitan Municipality
-p1263
-aa(lp1264
+p1304
+aVDurban
+p1305
+aa(lp1306
 S'James Keller'
-p1265
+p1307
 aS'1992'
-p1266
+p1308
 aS'Lock'
-p1267
+p1309
 aS'2'
 aS'1'
 aS'1'
@@ -3979,17 +4229,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1268
+p1310
 aS'g'
 aS'n'
 aS'i'
-aa(lp1269
+aS's'
+aa(lp1311
 S'Ramon Samaniego'
-p1270
+p1312
 aS'1992'
-p1271
+p1313
 aS'Scrum-half'
-p1272
+p1314
 aS'1'
 aS'1'
 aS'0'
@@ -3997,39 +4248,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1273
+p1315
 aS'g'
 aS'n'
 aS'i'
-aa(lp1274
+aS's'
+aa(lp1316
 S'Rich Schurfield'
-p1275
+p1317
 aS'1992'
-p1276
+p1318
 aS'Wing'
-p1277
+p1319
 aS'5'
 aS'2'
 aS'3'
 aS'0'
 aS'3'
 aS'14'
-p1278
+p1320
 aS'1963'
-p1279
+p1321
 aVÖsterreich
-p1280
+p1322
 aV8362
-p1281
+p1323
 aVSteiermark
-p1282
-aa(lp1283
+p1324
+aVHartberg-Fürstenfeld
+p1325
+aa(lp1326
 S'Mark Gale'
-p1284
+p1327
 aS'1992'
-p1285
+p1328
 aS'Fly-half'
-p1286
+p1329
 aS'1'
 aS'0'
 aS'1'
@@ -4037,17 +4291,18 @@ aS'0'
 aS'0'
 aS'9'
 aS'date unknown'
-p1287
+p1330
 aS'g'
 aS'n'
 aS'i'
-aa(lp1288
+aS's'
+aa(lp1331
 S'Greg Goodman'
-p1289
+p1332
 aS'1992'
-p1290
+p1333
 aS'Scrum-half'
-p1291
+p1334
 aS'1'
 aS'0'
 aS'1'
@@ -4055,17 +4310,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1292
+p1335
 aS'g'
 aS'n'
 aS'i'
-aa(lp1293
+aS's'
+aa(lp1336
 S'Brannen Smoot'
-p1294
+p1337
 aS'1992'
-p1295
+p1338
 aS'No. 8'
-p1296
+p1339
 aS'1'
 aS'0'
 aS'1'
@@ -4073,17 +4329,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1297
+p1340
 aS'g'
 aS'n'
 aS'i'
-aa(lp1298
+aS's'
+aa(lp1341
 S'David Steinbauer'
-p1299
+p1342
 aS'1992'
-p1300
+p1343
 aS'No. 8'
-p1301
+p1344
 aS'2'
 aS'0'
 aS'2'
@@ -4091,17 +4348,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1302
+p1345
 aS'g'
 aS'n'
 aS'i'
-aa(lp1303
+aS's'
+aa(lp1346
 S'B. Tofaeono'
-p1304
+p1347
 aS'1992'
-p1305
+p1348
 aS'Wing'
-p1306
+p1349
 aS'1'
 aS'0'
 aS'1'
@@ -4109,17 +4367,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1307
+p1350
 aS'g'
 aS'n'
 aS'i'
-aa(lp1308
+aS's'
+aa(lp1351
 S'Mike Waterman'
-p1309
+p1352
 aS'1992'
-p1310
+p1353
 aS'Centre'
-p1311
+p1354
 aS'1'
 aS'0'
 aS'1'
@@ -4127,41 +4386,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1312
+p1355
 aS'g'
 aS'n'
 aS'i'
-aa(lp1313
+aS's'
+aa(lp1356
 S'Vaea Anitoni'
-p1314
+p1357
 aS'1990'
-p1315
+p1358
 aS'Wing'
-p1316
+p1359
 aS'47'
-p1317
+p1360
 aS'14'
-p1318
+p1361
 aS'33'
-p1319
+p1362
 aS'0'
 aS'26'
-p1320
+p1363
 aS'130'
-p1321
+p1364
 aS'1970'
-p1322
+p1365
 aVDanmark
-p1323
+p1366
 aV1970
-p1324
+p1367
 aVRegion Hovedstaden
-p1325
-aa(lp1326
+p1368
+aVFrederiksberg Kommune
+p1369
+aa(lp1370
 S'Mark Vandermolen'
-p1327
+p1371
 aS'1992'
-p1328
+p1372
 aS''
 aS'1'
 aS'0'
@@ -4170,65 +4432,69 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1329
+p1373
 aS'g'
 aS'n'
 aS'i'
-aa(lp1330
+aS's'
+aa(lp1374
 S'Andre Bachelet'
-p1331
+p1375
 aS'1993'
-p1332
+p1376
 aS'Scrum-half'
-p1333
+p1377
 aS'33'
-p1334
+p1378
 aS'11'
-p1335
+p1379
 aS'22'
-p1336
+p1380
 aS'0'
 aS'7'
 aS'56'
-p1337
+p1381
 aS'1970'
-p1338
+p1382
 aVDanmark
-p1339
+p1383
 aV1970
-p1340
+p1384
 aVRegion Hovedstaden
-p1341
-aa(lp1342
+p1385
+aVFrederiksberg Kommune
+p1386
+aa(lp1387
 S'Tom Billups'
-p1343
+p1388
 aS'1993'
-p1344
+p1389
 aS'Hooker'
-p1345
+p1390
 aS'44'
-p1346
+p1391
 aS'14'
-p1347
+p1392
 aS'30'
-p1348
+p1393
 aS'0'
 aS'2'
 aS'10'
-p1349
+p1394
 aS'United States'
-p1350
+p1395
 aVUnited States of America
-p1351
+p1396
 ag28
 ag28
-aa(lp1352
+ag28
+aa(lp1397
 S'Chris Campbell'
-p1353
+p1398
 aS'1993'
-p1354
+p1399
 aS'Flanker'
-p1355
+p1400
 aS'5'
 aS'1'
 aS'4'
@@ -4236,20 +4502,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'1968'
-p1356
+p1401
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1357
+p1402
 aV\u0421\u041a\u0424\u041e
-p1358
+p1403
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1359
-aa(lp1360
+p1404
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1405
+aa(lp1406
 S'Wayne Chai'
-p1361
+p1407
 aS'1993'
-p1362
+p1408
 aS'Centre'
-p1363
+p1409
 aS'1'
 aS'0'
 aS'1'
@@ -4257,17 +4525,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1364
+p1410
 aS'g'
 aS'n'
 aS'i'
-aa(lp1365
+aS's'
+aa(lp1411
 S'Brian Geraghty'
-p1366
+p1412
 aS'1993'
-p1367
+p1413
 aS'Centre'
-p1368
+p1414
 aS'1'
 aS'0'
 aS'1'
@@ -4275,17 +4544,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1369
+p1415
 aS'g'
 aS'n'
 aS'i'
-aa(lp1370
+aS's'
+aa(lp1416
 S'Tim Petersen'
-p1371
+p1417
 aS'1993'
-p1372
+p1418
 aS'Prop'
-p1373
+p1419
 aS'1'
 aS'0'
 aS'1'
@@ -4293,17 +4563,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1374
+p1420
 aS'g'
 aS'n'
 aS'i'
-aa(lp1375
+aS's'
+aa(lp1421
 S'Chris Schlereth'
-p1376
+p1422
 aS'1993'
-p1377
+p1423
 aS'Wing'
-p1378
+p1424
 aS'3'
 aS'1'
 aS'2'
@@ -4311,188 +4582,80 @@ aS'0'
 aS'0'
 aS'0'
 aS'1969'
-p1379
+p1425
 aVNederland
-p1380
+p1426
 aV1969
-p1381
+p1427
 aVNederland
-p1382
-aa(lp1383
+p1428
+aVNoord-Holland
+p1429
+aa(lp1430
 S'Maika Sika'
-p1384
+p1431
 aS'1993'
-p1385
+p1432
 aS'Fullback'
-p1386
+p1433
 aS'17'
-p1387
+p1434
 aS'6'
 aS'11'
-p1388
+p1435
 aS'0'
 aS'1'
 aS'5'
 aS'1967'
-p1389
+p1436
 aVDanmark
-p1390
+p1437
 aV1967
-p1391
+p1438
 aVRegion Hovedstaden
-p1392
-aa(lp1393
+p1439
+aVFrederiksberg Kommune
+p1440
+aa(lp1441
 S'Rob Randell'
-p1394
+p1442
 aS'1993'
-p1395
+p1443
 aS'Lock'
-p1396
+p1444
 aS'12'
-p1397
+p1445
 aS'3'
 aS'9'
 aS'0'
 aS'0'
 aS'0'
 aS'1967'
-p1398
+p1446
 aVDanmark
-p1399
+p1447
 aV1967
-p1400
+p1448
 aVRegion Hovedstaden
-p1401
-aa(lp1402
+p1449
+aVFrederiksberg Kommune
+p1450
+aa(lp1451
 S'Mark Scharrenberg'
-p1403
+p1452
 aS'1993'
-p1404
+p1453
 aS'Centre'
-p1405
+p1454
 aS'39'
-p1406
+p1455
 aS'15'
-p1407
+p1456
 aS'24'
-p1408
+p1457
 aS'0'
 aS'8'
 aS'40'
-p1409
-aS'1969'
-p1410
-aVNederland
-p1411
-aV1969
-p1412
-aVNederland
-p1413
-aa(lp1414
-S'Ed Schram'
-p1415
-aS'1993'
-p1416
-aS'Centre'
-p1417
-aS'7'
-aS'2'
-aS'5'
-aS'0'
-aS'1'
-aS'5'
-aS'1968'
-p1418
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1419
-aV\u0421\u041a\u0424\u041e
-p1420
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1421
-aa(lp1422
-S'Richard Tardits'
-p1423
-aS'1993'
-p1424
-aS'Flanker'
-p1425
-aS'24'
-p1426
-aS'8'
-aS'16'
-p1427
-aS'0'
-aS'2'
-aS'10'
-p1428
-aS'1965'
-p1429
-aVDanmark
-p1430
-aV1965
-p1431
-aVRegion Hovedstaden
-p1432
-aa(lp1433
-S'Steve Hiatt'
-p1434
-aS'1993'
-p1435
-aS'Fullback'
-p1436
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'1968'
-p1437
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1438
-aV\u0421\u041a\u0424\u041e
-p1439
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1440
-aa(lp1441
-S'Rob Lumkong'
-p1442
-aS'1994'
-p1443
-aS'No. 8'
-p1444
-aS'29'
-p1445
-aS'9'
-aS'20'
-p1446
-aS'0'
-aS'4'
-aS'20'
-p1447
-aS'Trinidad'
-p1448
-aVUnited States of America
-p1449
-aVColorado
-p1450
-aVLas Animas County
-p1451
-aa(lp1452
-S'Tomasi Takau'
-p1453
-aS'1994'
-p1454
-aS'Centre'
-p1455
-aS'25'
-p1456
-aS'6'
-aS'19'
-p1457
-aS'0'
-aS'6'
-aS'30'
 p1458
 aS'1969'
 p1459
@@ -4502,13 +4665,139 @@ aV1969
 p1461
 aVNederland
 p1462
-aa(lp1463
-S'Scott Bracken'
-p1464
-aS'1994'
+aVNoord-Holland
+p1463
+aa(lp1464
+S'Ed Schram'
 p1465
-aS'Prop'
+aS'1993'
 p1466
+aS'Centre'
+p1467
+aS'7'
+aS'2'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'1968'
+p1468
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p1469
+aV\u0421\u041a\u0424\u041e
+p1470
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p1471
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1472
+aa(lp1473
+S'Richard Tardits'
+p1474
+aS'1993'
+p1475
+aS'Flanker'
+p1476
+aS'24'
+p1477
+aS'8'
+aS'16'
+p1478
+aS'0'
+aS'2'
+aS'10'
+p1479
+aS'1965'
+p1480
+aVDanmark
+p1481
+aV1965
+p1482
+aVRegion Hovedstaden
+p1483
+aVFrederiksberg Kommune
+p1484
+aa(lp1485
+S'Steve Hiatt'
+p1486
+aS'1993'
+p1487
+aS'Fullback'
+p1488
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1968'
+p1489
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p1490
+aV\u0421\u041a\u0424\u041e
+p1491
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p1492
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1493
+aa(lp1494
+S'Rob Lumkong'
+p1495
+aS'1994'
+p1496
+aS'No. 8'
+p1497
+aS'29'
+p1498
+aS'9'
+aS'20'
+p1499
+aS'0'
+aS'4'
+aS'20'
+p1500
+aS'Trinidad'
+p1501
+aVUnited States of America
+p1502
+aVColorado
+p1503
+aVLas Animas County
+p1504
+aVTrinidad
+p1505
+aa(lp1506
+S'Tomasi Takau'
+p1507
+aS'1994'
+p1508
+aS'Centre'
+p1509
+aS'25'
+p1510
+aS'6'
+aS'19'
+p1511
+aS'0'
+aS'6'
+aS'30'
+p1512
+aS'1969'
+p1513
+aVNederland
+p1514
+aV1969
+p1515
+aVNederland
+p1516
+aVNoord-Holland
+p1517
+aa(lp1518
+S'Scott Bracken'
+p1519
+aS'1994'
+p1520
+aS'Prop'
+p1521
 aS'2'
 aS'1'
 aS'1'
@@ -4516,90 +4805,97 @@ aS'0'
 aS'0'
 aS'0'
 aS'1968'
-p1467
+p1522
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1468
+p1523
 aV\u0421\u041a\u0424\u041e
-p1469
+p1524
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1470
-aa(lp1471
+p1525
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1526
+aa(lp1527
 S'Ray Green'
-p1472
+p1528
 aS'1994'
-p1473
+p1529
 aS'Centre'
-p1474
+p1530
 aS'11'
-p1475
+p1531
 aS'4'
 aS'7'
 aS'0'
 aS'1'
 aS'5'
 aS'1972'
-p1476
+p1532
 aVDanmark
-p1477
+p1533
 aV1972
-p1478
+p1534
 aVRegion Hovedstaden
-p1479
-aa(lp1480
+p1535
+aVFrederiksberg Kommune
+p1536
+aa(lp1537
 S'Dan Lyle'
-p1481
+p1538
 aS'1994'
-p1482
+p1539
 aS'No. 8'
-p1483
+p1540
 aS'45'
-p1484
+p1541
 aS'17'
-p1485
+p1542
 aS'28'
-p1486
+p1543
 aS'0'
 aS'6'
 aS'30'
-p1487
+p1544
 aS'United States'
-p1488
+p1545
 aVUnited States of America
-p1489
+p1546
 ag28
 ag28
-aa(lp1490
+ag28
+aa(lp1547
 S'Matt Alexander'
-p1491
+p1548
 aS'1995'
-p1492
+p1549
 aS'Fly-half'
-p1493
+p1550
 aS'24'
-p1494
+p1551
 aS'11'
-p1495
+p1552
 aS'13'
-p1496
+p1553
 aS'0'
 aS'5'
 aS'286'
-p1497
+p1554
 aS'1966'
-p1498
+p1555
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1499
+p1556
 aV\u0421\u041a\u0424\u041e
-p1500
+p1557
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1501
-aa(lp1502
+p1558
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1559
+aa(lp1560
 S'Mike Fabling'
-p1503
+p1561
 aS'1995'
-p1504
+p1562
 aS'Fullback'
-p1505
+p1563
 aS'1'
 aS'1'
 aS'0'
@@ -4607,20 +4903,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1966'
-p1506
+p1564
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1507
+p1565
 aV\u0421\u041a\u0424\u041e
-p1508
+p1566
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1509
-aa(lp1510
+p1567
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1568
+aa(lp1569
 S'Aaron Freeman'
-p1511
+p1570
 aS'1995'
-p1512
+p1571
 aS'Lock'
-p1513
+p1572
 aS'2'
 aS'1'
 aS'1'
@@ -4628,20 +4926,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1973'
-p1514
+p1573
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1515
+p1574
 aV\u0421\u041a\u0424\u041e
-p1516
+p1575
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1517
-aa(lp1518
+p1576
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1577
+aa(lp1578
 S'Jon Holtzman'
-p1519
+p1579
 aS'1995'
-p1520
+p1580
 aS'Flanker'
-p1521
+p1581
 aS'4'
 aS'2'
 aS'2'
@@ -4649,40 +4949,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1522
+p1582
 aVUnited States of America
-p1523
+p1583
 ag28
 ag28
-aa(lp1524
+ag28
+aa(lp1584
 S'Ray Lehner'
-p1525
+p1585
 aS'1995'
-p1526
+p1586
 aS'Prop'
-p1527
+p1587
 aS'37'
-p1528
+p1588
 aS'15'
-p1529
+p1589
 aS'22'
-p1530
+p1590
 aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1531
+p1591
 aVUnited States of America
-p1532
+p1592
 ag28
 ag28
-aa(lp1533
+ag28
+aa(lp1593
 S'Joe Santos'
-p1534
+p1594
 aS'1995'
-p1535
+p1595
 aS'Wing'
-p1536
+p1596
 aS'4'
 aS'2'
 aS'2'
@@ -4690,18 +4992,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'1968'
-p1537
+p1597
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1538
+p1598
 aV\u0421\u041a\u0424\u041e
-p1539
+p1599
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1540
-aa(lp1541
+p1600
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1601
+aa(lp1602
 S'Pat Malloy'
-p1542
+p1603
 aS'1995'
-p1543
+p1604
 aS''
 aS'1'
 aS'1'
@@ -4710,66 +5014,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'1970'
-p1544
+p1605
 aVDanmark
-p1545
+p1606
 aV1970
-p1546
+p1607
 aVRegion Hovedstaden
-p1547
-aa(lp1548
+p1608
+aVFrederiksberg Kommune
+p1609
+aa(lp1610
 S'Malakai Delai'
-p1549
+p1611
 aS'1996'
-p1550
+p1612
 aS'Wing'
-p1551
+p1613
 aS'15'
-p1552
+p1614
 aS'5'
 aS'10'
-p1553
+p1615
 aS'0'
 aS'3'
 aS'15'
-p1554
+p1616
 aS'1968'
-p1555
+p1617
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1556
+p1618
 aV\u0421\u041a\u0424\u041e
-p1557
+p1619
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1558
-aa(lp1559
+p1620
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1621
+aa(lp1622
 S'Luke Gross'
-p1560
+p1623
 aS'1996'
-p1561
+p1624
 aS'Lock'
-p1562
+p1625
 aS'62'
-p1563
+p1626
 aS'21'
-p1564
+p1627
 aS'41'
-p1565
+p1628
 aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1566
+p1629
 aVUnited States of America
-p1567
+p1630
 ag28
 ag28
-aa(lp1568
+ag28
+aa(lp1631
 S'Joe Rissone'
-p1569
+p1632
 aS'1996'
-p1570
+p1633
 aS'Prop'
-p1571
+p1634
 aS'5'
 aS'2'
 aS'3'
@@ -4777,88 +5086,95 @@ aS'0'
 aS'0'
 aS'0'
 aS'1966'
-p1572
+p1635
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1573
+p1636
 aV\u0421\u041a\u0424\u041e
-p1574
+p1637
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1575
-aa(lp1576
+p1638
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1639
+aa(lp1640
 S'Jason Walker'
-p1577
+p1641
 aS'1996'
-p1578
+p1642
 aS'Flanker'
-p1579
+p1643
 aS'25'
-p1580
+p1644
 aS'8'
 aS'17'
-p1581
+p1645
 aS'0'
 aS'4'
 aS'20'
-p1582
+p1646
 aS'1969'
-p1583
+p1647
 aVNederland
-p1584
+p1648
 aV1969
-p1585
+p1649
 aVNederland
-p1586
-aa(lp1587
+p1650
+aVNoord-Holland
+p1651
+aa(lp1652
 S'Cliff Vogl'
-p1588
+p1653
 aS'1996'
-p1589
+p1654
 aS'Lock'
-p1590
+p1655
 aS'12'
-p1591
+p1656
 aS'4'
 aS'8'
 aS'0'
 aS'0'
 aS'0'
 aS'Karlsruhe'
-p1592
+p1657
 aVDeutschland
-p1593
+p1658
 aVBaden-Württemberg
-p1594
+p1659
 aVRegierungsbezirk Karlsruhe
-p1595
-aa(lp1596
+p1660
+aVKarlsruhe
+p1661
+aa(lp1662
 S'Alec Parker'
-p1597
+p1663
 aS'1996'
-p1598
+p1664
 aS'Lock'
-p1599
+p1665
 aS'58'
-p1600
+p1666
 aS'23'
-p1601
+p1667
 aS'35'
-p1602
+p1668
 aS'0'
 aS'1'
 aS'5'
 aS'United States'
-p1603
+p1669
 aVUnited States of America
-p1604
+p1670
 ag28
 ag28
-aa(lp1605
+ag28
+aa(lp1671
 S'Sean Allen'
-p1606
+p1672
 aS'1996'
-p1607
+p1673
 aS'Hooker'
-p1608
+p1674
 aS'7'
 aS'2'
 aS'5'
@@ -4866,18 +5182,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1609
+p1675
 aVUnited States of America
-p1610
+p1676
 ag28
 ag28
-aa(lp1611
+ag28
+aa(lp1677
 S'Tim Kluempers'
-p1612
+p1678
 aS'1996'
-p1613
+p1679
 aS'Prop'
-p1614
+p1680
 aS'5'
 aS'1'
 aS'4'
@@ -4885,18 +5202,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'1968'
-p1615
+p1681
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1616
+p1682
 aV\u0421\u041a\u0424\u041e
-p1617
+p1683
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1618
-aa(lp1619
+p1684
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1685
+aa(lp1686
 S'Lenny Sanft'
-p1620
+p1687
 aS'1996'
-p1621
+p1688
 aS''
 aS'1'
 aS'0'
@@ -4905,20 +5224,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1969'
-p1622
+p1689
 aVNederland
-p1623
+p1690
 aV1969
-p1624
+p1691
 aVNederland
-p1625
-aa(lp1626
+p1692
+aVNoord-Holland
+p1693
+aa(lp1694
 S'Jared Hopkins'
-p1627
+p1695
 aS'1996'
-p1628
+p1696
 aS'Flanker'
-p1629
+p1697
 aS'1'
 aS'1'
 aS'0'
@@ -4926,65 +5247,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1630
+p1698
 aS'g'
 aS'n'
 aS'i'
-aa(lp1631
+aS's'
+aa(lp1699
 S'Bill LeClerc'
-p1632
+p1700
 aS'1996'
-p1633
+p1701
 aS'Prop'
-p1634
+p1702
 aS'12'
-p1635
+p1703
 aS'7'
 aS'5'
 aS'0'
 aS'3'
 aS'15'
-p1636
+p1704
 aS'Whangarei'
-p1637
+p1705
 aVNew Zealand/Aotearoa
-p1638
+p1706
 aVNorthland
-p1639
+p1707
 aVWhangarei District
-p1640
-aa(lp1641
+p1708
+aVWhangarei
+p1709
+aa(lp1710
 S'Juan Grobler'
-p1642
+p1711
 aS'1996'
-p1643
+p1712
 aS'Centre'
-p1644
+p1713
 aS'33'
-p1645
+p1714
 aS'10'
-p1646
+p1715
 aS'23'
-p1647
+p1716
 aS'0'
 aS'7'
 aS'35'
-p1648
+p1717
 aS'1973'
-p1649
+p1718
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1650
+p1719
 aV\u0421\u041a\u0424\u041e
-p1651
+p1720
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1652
-aa(lp1653
+p1721
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1722
+aa(lp1723
 S'Bob Lockrem'
-p1654
+p1724
 aS'1996'
-p1655
+p1725
 aS'Wing'
-p1656
+p1726
 aS'2'
 aS'1'
 aS'1'
@@ -4992,132 +5318,140 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1657
+p1727
 aS'g'
 aS'n'
 aS'i'
-aa(lp1658
+aS's'
+aa(lp1728
 S'Kevin Dalzell'
-p1659
+p1729
 aS'1996'
-p1660
+p1730
 aS'Scrum-half'
-p1661
+p1731
 aS'42'
-p1662
+p1732
 aS'15'
-p1663
+p1733
 aS'27'
-p1664
+p1734
 aS'0'
 aS'8'
 aS'109'
-p1665
+p1735
 aS'Durban'
-p1666
+p1736
 aVSouth Africa
-p1667
+p1737
 aVKwaZulu-Natal
-p1668
+p1738
 aVeThekwini Metropolitan Municipality
-p1669
-aa(lp1670
+p1739
+aVDurban
+p1740
+aa(lp1741
 S'Dave Hodges'
-p1671
+p1742
 aS'1996'
-p1672
+p1743
 aS'Back-row'
-p1673
+p1744
 aS'53'
-p1674
+p1745
 aS'17'
-p1675
+p1746
 aS'36'
-p1676
+p1747
 aS'0'
 aS'4'
 aS'20'
-p1677
+p1748
 aS'United States'
-p1678
+p1749
 aVUnited States of America
-p1679
+p1750
 ag28
 ag28
-aa(lp1680
+ag28
+aa(lp1751
 S'Brian Hightower'
-p1681
+p1752
 aS'1997'
-p1682
+p1753
 aS'Wing'
-p1683
+p1754
 aS'17'
-p1684
+p1755
 aS'6'
 aS'11'
-p1685
+p1756
 aS'0'
 aS'8'
 aS'40'
-p1686
+p1757
 aS'United States'
-p1687
+p1758
 aVUnited States of America
-p1688
+p1759
 ag28
 ag28
-aa(lp1689
+ag28
+aa(lp1760
 S'Chris Morrow'
-p1690
+p1761
 aS'1997'
-p1691
+p1762
 aS'Fullback'
-p1692
+p1763
 aS'12'
-p1693
+p1764
 aS'3'
 aS'9'
 aS'0'
 aS'0'
 aS'7'
 aS'1972'
-p1694
+p1765
 aVDanmark
-p1695
+p1766
 aV1972
-p1696
+p1767
 aVRegion Hovedstaden
-p1697
-aa(lp1698
+p1768
+aVFrederiksberg Kommune
+p1769
+aa(lp1770
 S'Tini Saulala'
-p1699
+p1771
 aS'1997'
-p1700
+p1772
 aS'Centre'
-p1701
+p1773
 aS'20'
-p1702
+p1774
 aS'6'
 aS'14'
-p1703
+p1775
 aS'0'
 aS'6'
 aS'30'
-p1704
+p1776
 aS"Vava'u"
-p1705
+p1777
 aVTonga
-p1706
+p1778
 aVVava\u02bbu
-p1707
+p1779
 ag28
-aa(lp1708
+ag28
+aa(lp1780
 S'Mike Stanaway'
-p1709
+p1781
 aS'1997'
-p1710
+p1782
 aS'Prop'
-p1711
+p1783
 aS'6'
 aS'1'
 aS'5'
@@ -5125,17 +5459,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1712
+p1784
 aS'g'
 aS'n'
 aS'i'
-aa(lp1713
+aS's'
+aa(lp1785
 S'Chip Curtis'
-p1714
+p1786
 aS'1997'
-p1715
+p1787
 aS'Wing'
-p1716
+p1788
 aS'5'
 aS'1'
 aS'4'
@@ -5143,40 +5478,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1717
+p1789
 aVUnited States of America
-p1718
+p1790
 ag28
 ag28
-aa(lp1719
+ag28
+aa(lp1791
 S'Kurt Shuman'
-p1720
+p1792
 aS'1997'
-p1721
+p1793
 aS'Fullback'
-p1722
+p1794
 aS'29'
-p1723
+p1795
 aS'8'
 aS'21'
-p1724
+p1796
 aS'0'
 aS'3'
 aS'15'
-p1725
+p1797
 aS'United States'
-p1726
+p1798
 aVUnited States of America
-p1727
+p1799
 ag28
 ag28
-aa(lp1728
+ag28
+aa(lp1800
 S'Mika McLeod'
-p1729
+p1801
 aS'1997'
-p1730
+p1802
 aS'Flanker'
-p1731
+p1803
 aS'4'
 aS'2'
 aS'2'
@@ -5184,16 +5521,17 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1732
+p1804
 aVUnited States of America
-p1733
+p1805
 ag28
 ag28
-aa(lp1734
+ag28
+aa(lp1806
 S'Dan Kennedy'
-p1735
+p1807
 aS'1997'
-p1736
+p1808
 aS''
 aS'5'
 aS'3'
@@ -5201,19 +5539,20 @@ aS'2'
 aS'0'
 aS'3'
 aS'15'
-p1737
+p1809
 aS'date unknown'
-p1738
+p1810
 aS'g'
 aS'n'
 aS'i'
-aa(lp1739
+aS's'
+aa(lp1811
 S'Scott Yungling'
-p1740
+p1812
 aS'1997'
-p1741
+p1813
 aS'Flanker'
-p1742
+p1814
 aS'2'
 aS'1'
 aS'1'
@@ -5221,17 +5560,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1743
+p1815
 aS'g'
 aS'n'
 aS'i'
-aa(lp1744
+aS's'
+aa(lp1816
 S'David Care'
-p1745
+p1817
 aS'1998'
-p1746
+p1818
 aS'Flanker'
-p1747
+p1819
 aS'3'
 aS'2'
 aS'1'
@@ -5239,61 +5579,64 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1748
+p1820
 aVUnited States of America
-p1749
+p1821
 ag28
 ag28
-aa(lp1750
+ag28
+aa(lp1822
 S'John McBride'
-p1751
+p1823
 aS'1998'
-p1752
+p1824
 aS'Prop'
-p1753
+p1825
 aS'11'
-p1754
+p1826
 aS'5'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1755
+p1827
 aVUnited States of America
-p1756
+p1828
 ag28
 ag28
-aa(lp1757
+ag28
+aa(lp1829
 S'Andre Blom'
-p1758
+p1830
 aS'1998'
-p1759
+p1831
 aS'Wing'
-p1760
+p1832
 aS'13'
-p1761
+p1833
 aS'5'
 aS'8'
 aS'0'
 aS'5'
 aS'29'
-p1762
+p1834
 aS'George'
-p1763
+p1835
 aVUnited States of America
-p1764
+p1836
 aVMississippi
-p1765
+p1837
 aVGeorge
-p1766
-aa(lp1767
+p1838
+ag28
+aa(lp1839
 S'Jason Raven'
-p1768
+p1840
 aS'1998'
-p1769
+p1841
 aS'Wing'
-p1770
+p1842
 aS'2'
 aS'0'
 aS'2'
@@ -5301,20 +5644,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1971'
-p1771
+p1843
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1772
+p1844
 aV\u0421\u041a\u0424\u041e
-p1773
+p1845
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1774
-aa(lp1775
+p1846
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1847
+aa(lp1848
 S'Bart Furrow'
-p1776
+p1849
 aS'1998'
-p1777
+p1850
 aS'Prop'
-p1778
+p1851
 aS'4'
 aS'0'
 aS'4'
@@ -5322,17 +5667,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1779
+p1852
 aS'g'
 aS'n'
 aS'i'
-aa(lp1780
+aS's'
+aa(lp1853
 S'C.D. Labounty'
-p1781
+p1854
 aS'1998'
-p1782
+p1855
 aS'Wing'
-p1783
+p1856
 aS'2'
 aS'0'
 aS'2'
@@ -5340,87 +5686,93 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1784
+p1857
 aVUnited States of America
-p1785
+p1858
 ag28
 ag28
-aa(lp1786
+ag28
+aa(lp1859
 S"Tasi Mo'unga"
-p1787
+p1860
 aS'1998'
-p1788
+p1861
 aS'Back-row'
-p1789
+p1862
 aS'20'
-p1790
+p1863
 aS'4'
 aS'16'
-p1791
+p1864
 aS'0'
 aS'2'
 aS'10'
-p1792
+p1865
 aS"Ha'asini"
-p1793
+p1866
 aVTonga
-p1794
+p1867
 aVTongatapu
-p1795
+p1868
 aVVahe Tatakamotonga
-p1796
-aa(lp1797
+p1869
+aVHa'asini
+p1870
+aa(lp1871
 S'Shaun Paga'
-p1798
+p1872
 aS'1998'
-p1799
+p1873
 aS'Flanker'
-p1800
+p1874
 aS'15'
-p1801
+p1875
 aS'4'
 aS'11'
-p1802
+p1876
 aS'0'
 aS'3'
 aS'15'
-p1803
+p1877
 aS'1977'
-p1804
+p1878
 aVSvizra
-p1805
+p1879
 aVSvizzera
-p1806
+p1880
 aVSuisse
-p1807
-aa(lp1808
+p1881
+aVSchweiz
+p1882
+aa(lp1883
 S'George Sucher'
-p1809
+p1884
 aS'1998'
-p1810
+p1885
 aS'Prop, Hooker'
-p1811
+p1886
 aS'15'
-p1812
+p1887
 aS'4'
 aS'11'
-p1813
+p1888
 aS'0'
 aS'1'
 aS'5'
 aS'United States'
-p1814
+p1889
 aVUnited States of America
-p1815
+p1890
 ag28
 ag28
-aa(lp1816
+ag28
+aa(lp1891
 S'Malakai Tabuvuya'
-p1817
+p1892
 aS'1998'
-p1818
+p1893
 aS'Wing'
-p1819
+p1894
 aS'1'
 aS'0'
 aS'1'
@@ -5428,17 +5780,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1820
+p1895
 aS'g'
 aS'n'
 aS'i'
-aa(lp1821
+aS's'
+aa(lp1896
 S'Britt Howard'
-p1822
+p1897
 aS'1998'
-p1823
+p1898
 aS'Scrum-half'
-p1824
+p1899
 aS'4'
 aS'0'
 aS'4'
@@ -5446,20 +5799,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1969'
-p1825
+p1900
 aVNederland
-p1826
+p1901
 aV1969
-p1827
+p1902
 aVNederland
-p1828
-aa(lp1829
+p1903
+aVNoord-Holland
+p1904
+aa(lp1905
 S'Doug Gillies'
-p1830
+p1906
 aS'1998'
-p1831
+p1907
 aS'No. 8'
-p1832
+p1908
 aS'2'
 aS'1'
 aS'1'
@@ -5467,42 +5822,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'NSW'
-p1833
+p1909
 aVAustralia
-p1834
+p1910
 aVNew South Wales
-p1835
+p1911
 ag28
-aa(lp1836
+ag28
+aa(lp1912
 S'Kirk Khasigian'
-p1837
+p1913
 aS'1998'
-p1838
+p1914
 aS'Hooker'
-p1839
+p1915
 aS'37'
-p1840
+p1916
 aS'12'
-p1841
+p1917
 aS'25'
-p1842
+p1918
 aS'0'
 aS'3'
 aS'15'
-p1843
+p1919
 aS'United States'
-p1844
+p1920
 aVUnited States of America
-p1845
+p1921
 ag28
 ag28
-aa(lp1846
+ag28
+aa(lp1922
 S'Bob LeClerc'
-p1847
+p1923
 aS'1998'
-p1848
+p1924
 aS'Lock'
-p1849
+p1925
 aS'2'
 aS'1'
 aS'1'
@@ -5510,20 +5867,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Whangarei'
-p1850
+p1926
 aVNew Zealand/Aotearoa
-p1851
+p1927
 aVNorthland
-p1852
+p1928
 aVWhangarei District
-p1853
-aa(lp1854
+p1929
+aVWhangarei
+p1930
+aa(lp1931
 S'Ian Stevens'
-p1855
+p1932
 aS'1998'
-p1856
+p1933
 aS'Fly-half'
-p1857
+p1934
 aS'1'
 aS'0'
 aS'1'
@@ -5531,43 +5890,46 @@ aS'0'
 aS'0'
 aS'4'
 aS'1967'
-p1858
+p1935
 aVDanmark
-p1859
+p1936
 aV1967
-p1860
+p1937
 aVRegion Hovedstaden
-p1861
-aa(lp1862
+p1938
+aVFrederiksberg Kommune
+p1939
+aa(lp1940
 S'Philippe Farner'
-p1863
+p1941
 aS'1999'
-p1864
+p1942
 aS'Lock'
-p1865
+p1943
 aS'18'
-p1866
+p1944
 aS'7'
 aS'11'
-p1867
+p1945
 aS'0'
 aS'1'
 aS'5'
 aS'Dar-es-Salaam'
-p1868
+p1946
 aVTanzania
-p1869
+p1947
 aVCoastal
-p1870
+p1948
 aVDar es Salaam
-p1871
-aa(lp1872
+p1949
+ag28
+aa(lp1950
 S'David Niu'
-p1873
+p1951
 aS'1999'
-p1874
+p1952
 aS'Fly-half'
-p1875
+p1953
 aS'8'
 aS'3'
 aS'5'
@@ -5575,41 +5937,44 @@ aS'0'
 aS'1'
 aS'8'
 aS'NSW'
-p1876
+p1954
 aVAustralia
-p1877
+p1955
 aVNew South Wales
-p1878
+p1956
 ag28
-aa(lp1879
+ag28
+aa(lp1957
 S'Joe Clayton'
-p1880
+p1958
 aS'1999'
-p1881
+p1959
 aS'Prop'
-p1882
+p1960
 aS'11'
-p1883
+p1961
 aS'3'
 aS'8'
 aS'0'
 aS'1'
 aS'5'
 aS'1973'
-p1884
+p1962
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1885
+p1963
 aV\u0421\u041a\u0424\u041e
-p1886
+p1964
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1887
-aa(lp1888
+p1965
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1966
+aa(lp1967
 S"Marc l'Huillier"
-p1889
+p1968
 aS'1999'
-p1890
+p1969
 aS'Prop'
-p1891
+p1970
 aS'2'
 aS'0'
 aS'2'
@@ -5617,20 +5982,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1971'
-p1892
+p1971
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1893
+p1972
 aV\u0421\u041a\u0424\u041e
-p1894
+p1973
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1895
-aa(lp1896
+p1974
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1975
+aa(lp1976
 S'Jesse Coulson'
-p1897
+p1977
 aS'1999'
-p1898
+p1978
 aS'Scrum-half'
-p1899
+p1979
 aS'1'
 aS'0'
 aS'1'
@@ -5638,19 +6005,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p1900
+p1980
 aVNew Zealand/Aotearoa
-p1901
+p1981
 aVAuckland
-p1902
+p1982
 ag28
-aa(lp1903
+ag28
+aa(lp1983
 S'Eric Reed'
-p1904
+p1984
 aS'1999'
-p1905
+p1985
 aS'Lock'
-p1906
+p1986
 aS'7'
 aS'1'
 aS'6'
@@ -5658,46 +6026,50 @@ aS'0'
 aS'0'
 aS'0'
 aS'1975'
-p1907
+p1987
 aVÖsterreich
-p1908
+p1988
 aV8271
-p1909
+p1989
 aVSteiermark
-p1910
-aa(lp1911
+p1990
+aVHartberg-Fürstenfeld
+p1991
+aa(lp1992
 S'Phillip Eloff'
-p1912
+p1993
 aS'2000'
-p1913
+p1994
 aS'Centre'
-p1914
+p1995
 aS'35'
-p1915
+p1996
 aS'15'
-p1916
+p1997
 aS'20'
-p1917
+p1998
 aS'0'
 aS'10'
-p1918
+p1999
 aS'50'
-p1919
+p2000
 aS'Thabazimbi'
-p1920
+p2001
 aVSouth Africa
-p1921
+p2002
 aVLimpopo
-p1922
+p2003
 aVWaterberg District Municipality
-p1923
-aa(lp1924
+p2004
+aVThabazimbi
+p2005
+aa(lp2006
 S'Matt Kane'
-p1925
+p2007
 aS'2000'
-p1926
+p2008
 aS'Lock'
-p1927
+p2009
 aS'7'
 aS'2'
 aS'5'
@@ -5705,64 +6077,68 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p1928
+p2010
 aVUnited States of America
-p1929
+p2011
 ag28
 ag28
-aa(lp1930
+ag28
+aa(lp2012
 S'Kort Schubert'
-p1931
+p2013
 aS'2000'
-p1932
+p2014
 aS'Back-row'
-p1933
+p2015
 aS'49'
-p1934
+p2016
 aS'16'
-p1935
+p2017
 aS'33'
-p1936
+p2018
 aS'0'
 aS'4'
 aS'20'
-p1937
+p2019
 aS'United States'
-p1938
+p2020
 aVUnited States of America
-p1939
+p2021
 ag28
 ag28
-aa(lp1940
+ag28
+aa(lp2022
 S'Grant Wells'
-p1941
+p2023
 aS'2000'
-p1942
+p2024
 aS'Fly-half'
-p1943
+p2025
 aS'12'
-p1944
+p2026
 aS'3'
 aS'9'
 aS'0'
 aS'0'
 aS'100'
-p1945
+p2027
 aS'Christchurch'
-p1946
+p2028
 aVNew Zealand/Aotearoa
-p1947
+p2029
 aVCanterbury
-p1948
+p2030
 aVChristchurch City
-p1949
-aa(lp1950
+p2031
+aVChristchurch
+p2032
+aa(lp2033
 S'Don Younger'
-p1951
+p2034
 aS'2000'
-p1952
+p2035
 aS'Flanker'
-p1953
+p2036
 aS'4'
 aS'2'
 aS'2'
@@ -5770,20 +6146,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1977'
-p1954
+p2037
 aVSvizra
-p1955
+p2038
 aVSvizzera
-p1956
+p2039
 aVSuisse
-p1957
-aa(lp1958
+p2040
+aVSchweiz
+p2041
+aa(lp2042
 S'Tom Kelleher'
-p1959
+p2043
 aS'2000'
-p1960
+p2044
 aS'Lock'
-p1961
+p2045
 aS'5'
 aS'2'
 aS'3'
@@ -5791,20 +6169,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1969'
-p1962
+p2046
 aVNederland
-p1963
+p2047
 aV1969
-p1964
+p2048
 aVNederland
-p1965
-aa(lp1966
+p2049
+aVNoord-Holland
+p2050
+aa(lp2051
 S'John Burke'
-p1967
+p2052
 aS'2000'
-p1968
+p2053
 aS'Flanker'
-p1969
+p2054
 aS'2'
 aS'1'
 aS'1'
@@ -5812,20 +6192,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1972'
-p1970
+p2055
 aVDanmark
-p1971
+p2056
 aV1972
-p1972
+p2057
 aVRegion Hovedstaden
-p1973
-aa(lp1974
+p2058
+aVFrederiksberg Kommune
+p2059
+aa(lp2060
 S'Robbie Flynn'
-p1975
+p2061
 aS'2000'
-p1976
+p2062
 aS'Hooker'
-p1977
+p2063
 aS'9'
 aS'2'
 aS'7'
@@ -5833,88 +6215,94 @@ aS'0'
 aS'1'
 aS'5'
 aS'1973'
-p1978
+p2064
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1979
+p2065
 aV\u0421\u041a\u0424\u041e
-p1980
+p2066
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1981
-aa(lp1982
+p2067
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2068
+aa(lp2069
 S'Link Wilfley'
-p1983
+p2070
 aS'2000'
-p1984
+p2071
 aS'Fly-half'
-p1985
+p2072
 aS'20'
-p1986
+p2073
 aS'7'
 aS'13'
-p1987
+p2074
 aS'0'
 aS'3'
 aS'63'
-p1988
+p2075
 aS'United States'
-p1989
+p2076
 aVUnited States of America
-p1990
+p2077
 ag28
 ag28
-aa(lp1991
+ag28
+aa(lp2078
 S'Olo Fifita'
-p1992
+p2079
 aS'2000'
-p1993
+p2080
 aS'Flanker'
-p1994
+p2081
 aS'17'
-p1995
+p2082
 aS'2'
 aS'15'
-p1996
+p2083
 aS'0'
 aS'1'
 aS'5'
 aS'1968'
-p1997
+p2084
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1998
+p2085
 aV\u0421\u041a\u0424\u041e
-p1999
+p2086
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2000
-aa(lp2001
+p2087
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2088
+aa(lp2089
 S'Mike MacDonald'
-p2002
+p2090
 aS'2000'
-p2003
+p2091
 aS'Prop'
-p2004
+p2092
 aS'67'
-p2005
+p2093
 aS'21'
-p2006
+p2094
 aS'46'
-p2007
+p2095
 aS'0'
 aS'6'
 aS'30'
-p2008
+p2096
 aS'United States'
-p2009
+p2097
 aVUnited States of America
-p2010
+p2098
 ag28
 ag28
-aa(lp2011
+ag28
+aa(lp2099
 S'Roger Grant'
-p2012
+p2100
 aS'2000'
-p2013
+p2101
 aS'Wing'
-p2014
+p2102
 aS'1'
 aS'0'
 aS'1'
@@ -5922,18 +6310,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2015
+p2103
 aVUnited States of America
-p2016
+p2104
 ag28
 ag28
-aa(lp2017
+ag28
+aa(lp2105
 S'Jason Gillam'
-p2018
+p2106
 aS'2000'
-p2019
+p2107
 aS'Flanker'
-p2020
+p2108
 aS'1'
 aS'0'
 aS'1'
@@ -5941,64 +6330,68 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p2021
+p2109
 aS'g'
 aS'n'
 aS'i'
-aa(lp2022
+aS's'
+aa(lp2110
 S'Mose Timoteo'
-p2023
+p2111
 aS'2000'
-p2024
+p2112
 aS'Scrum-half'
-p2025
+p2113
 aS'32'
-p2026
+p2114
 aS'10'
-p2027
+p2115
 aS'22'
-p2028
+p2116
 aS'0'
 aS'3'
 aS'15'
-p2029
+p2117
 aS'American Samoa'
-p2030
+p2118
 aVUnited States of America
-p2031
+p2119
 aVAmerican Samoa
-p2032
+p2120
 ag28
-aa(lp2033
+ag28
+aa(lp2121
 S'Jovesa Naivalu'
-p2034
+p2122
 aS'2000'
-p2035
+p2123
 aS'Wing'
-p2036
+p2124
 aS'10'
-p2037
+p2125
 aS'2'
 aS'8'
 aS'0'
 aS'4'
 aS'20'
-p2038
+p2126
 aS'1978'
-p2039
+p2127
 aVSvizra
-p2040
+p2128
 aVSvizzera
-p2041
+p2129
 aVSuisse
-p2042
-aa(lp2043
+p2130
+aVSchweiz
+p2131
+aa(lp2132
 S'Paul Still'
-p2044
+p2133
 aS'2000'
-p2045
+p2134
 aS'Prop'
-p2046
+p2135
 aS'7'
 aS'1'
 aS'6'
@@ -6006,42 +6399,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2047
+p2136
 aVUnited States of America
-p2048
+p2137
 ag28
 ag28
-aa(lp2049
+ag28
+aa(lp2138
 S'Jason Keyter'
-p2050
+p2139
 aS'2000'
-p2051
+p2140
 aS'Wing'
-p2052
+p2141
 aS'17'
-p2053
+p2142
 aS'5'
 aS'12'
-p2054
+p2143
 aS'0'
 aS'2'
 aS'13'
-p2055
+p2144
 aS'Port Elizabeth'
-p2056
+p2145
 aVSouth Africa
-p2057
+p2146
 aVEastern Cape
-p2058
+p2147
 aVNelson Mandela Bay Metropolitan Municipality
-p2059
-aa(lp2060
+p2148
+aVPort Elizabeth
+p2149
+aa(lp2150
 S'Alex Magleby'
-p2061
+p2151
 aS'2000'
-p2062
+p2152
 aS'Flanker'
-p2063
+p2153
 aS'4'
 aS'1'
 aS'3'
@@ -6049,18 +6445,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2064
+p2154
 aVUnited States of America
-p2065
+p2155
 ag28
 ag28
-aa(lp2066
+ag28
+aa(lp2156
 S'John Buchholz'
-p2067
+p2157
 aS'2001'
-p2068
+p2158
 aS'Fullback'
-p2069
+p2159
 aS'9'
 aS'2'
 aS'7'
@@ -6068,129 +6465,136 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2070
+p2160
 aVUnited States of America
-p2071
+p2161
 ag28
 ag28
-aa(lp2072
+ag28
+aa(lp2162
 S'Kimball Kjar'
-p2073
+p2163
 aS'2001'
-p2074
+p2164
 aS'Scrum-half'
-p2075
+p2165
 aS'19'
-p2076
+p2166
 aS'4'
 aS'15'
-p2077
+p2167
 aS'0'
 aS'2'
 aS'10'
-p2078
+p2168
 aS'United States'
-p2079
+p2169
 aVUnited States of America
-p2080
+p2170
 ag28
 ag28
-aa(lp2081
+ag28
+aa(lp2171
 S'Jone Naqica'
-p2082
+p2172
 aS'2001'
-p2083
+p2173
 aS'Fullback, Wing'
-p2084
+p2174
 aS'8'
 aS'2'
 aS'6'
 aS'0'
 aS'2'
 aS'10'
-p2085
+p2175
 aS'Suva'
-p2086
+p2176
 aVViti
-p2087
+p2177
 aVCentral
-p2088
+p2178
 aVSuva
-p2089
-aa(lp2090
+p2179
+ag28
+aa(lp2180
 S'Dan Dorsey'
-p2091
+p2181
 aS'2001'
-p2092
+p2182
 aS'Prop'
-p2093
+p2183
 aS'24'
-p2094
+p2184
 aS'10'
-p2095
+p2185
 aS'14'
-p2096
+p2186
 aS'0'
 aS'1'
 aS'5'
 aS'United States'
-p2097
+p2187
 aVUnited States of America
-p2098
+p2188
 ag28
 ag28
-aa(lp2099
+ag28
+aa(lp2189
 S'Brian Surgener'
-p2100
+p2190
 aS'2001'
-p2101
+p2191
 aS'Lock'
-p2102
+p2192
 aS'12'
-p2103
+p2193
 aS'3'
 aS'9'
 aS'0'
 aS'0'
 aS'0'
 aS'1978'
-p2104
+p2194
 aVSvizra
-p2105
+p2195
 aVSvizzera
-p2106
+p2196
 aVSuisse
-p2107
-aa(lp2108
+p2197
+aVSchweiz
+p2198
+aa(lp2199
 S'Mike Hercus'
-p2109
+p2200
 aS'2002'
-p2110
+p2201
 aS'Fly-half'
-p2111
+p2202
 aS'48'
-p2112
+p2203
 aS'19'
-p2113
+p2204
 aS'29'
-p2114
+p2205
 aS'0'
 aS'9'
 aS'465'
-p2115
+p2206
 aS'United States'
-p2116
+p2207
 aVUnited States of America
-p2117
+p2208
 ag28
 ag28
-aa(lp2118
+ag28
+aa(lp2209
 S'Aaron Satchwell'
-p2119
+p2210
 aS'2002'
-p2120
+p2211
 aS'No. 8'
-p2121
+p2212
 aS'2'
 aS'1'
 aS'1'
@@ -6198,20 +6602,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1973'
-p2122
+p2213
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2123
+p2214
 aV\u0421\u041a\u0424\u041e
-p2124
+p2215
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2125
-aa(lp2126
+p2216
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2217
+aa(lp2218
 S'Dan Anderson'
-p2127
+p2219
 aS'2002'
-p2128
+p2220
 aS'Hooker'
-p2129
+p2221
 aS'1'
 aS'0'
 aS'1'
@@ -6219,43 +6625,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'1972'
-p2130
+p2222
 aVDanmark
-p2131
+p2223
 aV1972
-p2132
+p2224
 aVRegion Hovedstaden
-p2133
-aa(lp2134
+p2225
+aVFrederiksberg Kommune
+p2226
+aa(lp2227
 S'Conrad Hodgson'
-p2135
+p2228
 aS'2002'
-p2136
+p2229
 aS'Flanker'
-p2137
+p2230
 aS'11'
-p2138
+p2231
 aS'6'
 aS'5'
 aS'0'
 aS'2'
 aS'10'
-p2139
+p2232
 aS'1978'
-p2140
+p2233
 aVSvizra
-p2141
+p2234
 aVSvizzera
-p2142
+p2235
 aVSuisse
-p2143
-aa(lp2144
+p2236
+aVSchweiz
+p2237
+aa(lp2238
 S'Andy McGarry'
-p2145
+p2239
 aS'2002'
-p2146
+p2240
 aS'Prop'
-p2147
+p2241
 aS'2'
 aS'1'
 aS'1'
@@ -6263,83 +6673,88 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2148
+p2242
 aVUnited States of America
-p2149
+p2243
 ag28
 ag28
-aa(lp2150
+ag28
+aa(lp2244
 S'John Tarpoff'
-p2151
+p2245
 aS'2002'
-p2152
+p2246
 aS'Prop'
-p2153
+p2247
 aS'12'
-p2154
+p2248
 aS'5'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2155
+p2249
 aVUnited States of America
-p2156
+p2250
 ag28
 ag28
-aa(lp2157
+ag28
+aa(lp2251
 S'David Fee'
-p2158
+p2252
 aS'2002'
-p2159
+p2253
 aS'Wing'
-p2160
+p2254
 aS'28'
-p2161
+p2255
 aS'12'
-p2162
+p2256
 aS'16'
-p2163
+p2257
 aS'0'
 aS'9'
 aS'45'
-p2164
+p2258
 aS'United States'
-p2165
+p2259
 aVUnited States of America
-p2166
+p2260
 ag28
 ag28
-aa(lp2167
+ag28
+aa(lp2261
 S'Cayo Nicolau'
-p2168
+p2262
 aS'2002'
-p2169
+p2263
 aS'Centre'
-p2170
+p2264
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'2'
 aS'10'
-p2171
+p2265
 aS'Belem'
-p2172
+p2266
 aVPalestinian Territory
-p2173
+p2267
 aV\u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629\u200e
-p2174
+p2268
 aV\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u062a \u0644\u062d\u0645
-p2175
-aa(lp2176
+p2269
+aV\u0628\u064a\u062a \u0644\u062d\u0645
+p2270
+aa(lp2271
 S'Chris Miller'
-p2177
+p2272
 aS'2002'
-p2178
+p2273
 aS'Hooker'
-p2179
+p2274
 aS'2'
 aS'1'
 aS'1'
@@ -6347,20 +6762,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1978'
-p2180
+p2275
 aVSvizra
-p2181
+p2276
 aVSvizzera
-p2182
+p2277
 aVSuisse
-p2183
-aa(lp2184
+p2278
+aVSchweiz
+p2279
+aa(lp2280
 S'Al Lakomskis'
-p2185
+p2281
 aS'2002'
-p2186
+p2282
 aS'Fullback'
-p2187
+p2283
 aS'4'
 aS'0'
 aS'4'
@@ -6368,89 +6785,95 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lincoln'
-p2188
+p2284
 aVUnited States of America
-p2189
+p2285
 aVNebraska
-p2190
+p2286
 aVLancaster County
-p2191
-aa(lp2192
+p2287
+aVLincoln
+p2288
+aa(lp2289
 S'Kain Cross'
-p2193
+p2290
 aS'2003'
-p2194
+p2291
 aS'Centre'
-p2195
+p2292
 aS'12'
-p2196
+p2293
 aS'6'
 aS'6'
 aS'0'
 aS'5'
 aS'25'
-p2197
+p2294
 aS'NSW'
-p2198
+p2295
 aVAustralia
-p2199
+p2296
 aVNew South Wales
-p2200
+p2297
 ag28
-aa(lp2201
+ag28
+aa(lp2298
 S'Riaan van Zyl'
-p2202
+p2299
 aS'2003'
-p2203
+p2300
 aS'Wing'
-p2204
+p2301
 aS'13'
-p2205
+p2302
 aS'7'
 aS'6'
 aS'0'
 aS'9'
 aS'45'
-p2206
+p2303
 aS'Stellenbosch'
-p2207
+p2304
 aVSouth Africa
-p2208
+p2305
 aVWestern Cape
-p2209
+p2306
 aVCape Winelands District Municipality
-p2210
-aa(lp2211
+p2307
+aVStellenbosch
+p2308
+aa(lp2309
 S'Paul Emerick'
-p2212
+p2310
 aS'2003'
-p2213
+p2311
 aS'Centre, Fullback'
-p2214
+p2312
 aS'53'
-p2215
+p2313
 aS'21'
-p2216
+p2314
 aS'32'
-p2217
+p2315
 aS'0'
 aS'17'
-p2218
+p2316
 aS'85'
-p2219
+p2317
 aS'United States'
-p2220
+p2318
 aVUnited States of America
-p2221
+p2319
 ag28
 ag28
-aa(lp2222
+ag28
+aa(lp2320
 S'Mark Griffin'
-p2223
+p2321
 aS'2003'
-p2224
+p2322
 aS'Hooker'
-p2225
+p2323
 aS'9'
 aS'4'
 aS'5'
@@ -6458,20 +6881,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Oakham'
-p2226
+p2324
 aVUnited Kingdom
-p2227
+p2325
 aVEngland
-p2228
+p2326
 aVEast Midlands
-p2229
-aa(lp2230
+p2327
+aVRutland
+p2328
+aa(lp2329
 S'Christian Long'
-p2231
+p2330
 aS'2003'
-p2232
+p2331
 aS'Lock'
-p2233
+p2332
 aS'1'
 aS'1'
 aS'0'
@@ -6479,41 +6904,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'1976'
-p2234
+p2333
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2235
+p2334
 aV\u0421\u041a\u0424\u041e
-p2236
+p2335
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2237
-aa(lp2238
+p2336
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2337
+aa(lp2338
 S'Jacob Waasdorp'
-p2239
+p2339
 aS'2003'
-p2240
+p2340
 aS'Prop'
-p2241
+p2341
 aS'15'
-p2242
+p2342
 aS'5'
 aS'10'
-p2243
+p2343
 aS'0'
 aS'1'
 aS'5'
 aS'United States'
-p2244
+p2344
 aVUnited States of America
-p2245
+p2345
 ag28
 ag28
-aa(lp2246
+ag28
+aa(lp2346
 S'Jurie Gouws'
-p2247
+p2347
 aS'2003'
-p2248
+p2348
 aS'Flanker'
-p2249
+p2349
 aS'8'
 aS'2'
 aS'6'
@@ -6521,20 +6949,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p2250
+p2350
 aVSouth Africa
-p2251
+p2351
 aVKwaZulu-Natal
-p2252
+p2352
 aVeThekwini Metropolitan Municipality
-p2253
-aa(lp2254
+p2353
+aVDurban
+p2354
+aa(lp2355
 S'Matt Sherman'
-p2255
+p2356
 aS'2003'
-p2256
+p2357
 aS'Fly-half'
-p2257
+p2358
 aS'7'
 aS'1'
 aS'6'
@@ -6542,18 +6972,19 @@ aS'0'
 aS'0'
 aS'6'
 aS'United States'
-p2258
+p2359
 aVUnited States of America
-p2259
+p2360
 ag28
 ag28
-aa(lp2260
+ag28
+aa(lp2361
 S'Gerhard Klerck'
-p2261
+p2362
 aS'2003'
-p2262
+p2363
 aS'Lock'
-p2263
+p2364
 aS'8'
 aS'3'
 aS'5'
@@ -6561,20 +6992,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p2264
+p2365
 aVSouth Africa
-p2265
+p2366
 aVGauteng
-p2266
+p2367
 aVCity of Tshwane Metropolitan Municipality
-p2267
-aa(lp2268
+p2368
+aVPretoria
+p2369
+aa(lp2370
 S'Richard Liddington'
-p2269
+p2371
 aS'2003'
-p2270
+p2372
 aS'Prop'
-p2271
+p2373
 aS'5'
 aS'2'
 aS'3'
@@ -6582,156 +7015,166 @@ aS'0'
 aS'1'
 aS'5'
 aS'Stoke-on-Trent'
-p2272
+p2374
 aVUnited Kingdom
-p2273
+p2375
 aVEngland
-p2274
+p2376
 aVWest Midlands
-p2275
-aa(lp2276
+p2377
+aVStoke-on-Trent
+p2378
+aa(lp2379
 S'Todd Clever'
-p2277
+p2380
 aS'2003'
-p2278
+p2381
 aS'Back-row'
-p2279
+p2382
 aS'63'
-p2280
+p2383
 aS'21'
-p2281
+p2384
 aS'41'
-p2282
+p2385
 aS'1'
 aS'11'
-p2283
+p2386
 aS'55'
-p2284
+p2387
 aS'United States'
-p2285
+p2388
 aVUnited States of America
-p2286
+p2389
 ag28
 ag28
-aa(lp2287
+ag28
+aa(lp2390
 S'Matt Wyatt'
-p2288
+p2391
 aS'2003'
-p2289
+p2392
 aS'Hooker'
-p2290
+p2393
 aS'15'
-p2291
+p2394
 aS'5'
 aS'10'
-p2292
+p2395
 aS'0'
 aS'2'
 aS'10'
-p2293
+p2396
 aS'United States'
-p2294
+p2397
 aVUnited States of America
-p2295
+p2398
 ag28
 ag28
-aa(lp2296
+ag28
+aa(lp2399
 S'Salesi Sika'
-p2297
+p2400
 aS'2003'
-p2298
+p2401
 aS'Centre, Wing'
-p2299
+p2402
 aS'22'
-p2300
+p2403
 aS'4'
 aS'18'
-p2301
+p2404
 aS'0'
 aS'5'
 aS'25'
-p2302
+p2405
 aS'Haveluloto'
-p2303
+p2406
 aVTonga
-p2304
+p2407
 aVTongatapu
-p2305
+p2408
 aVVahe Kolomotu'a
-p2306
-aa(lp2307
+p2409
+aVHaveluloto
+p2410
+aa(lp2411
 S'Albert Tuipulotu'
-p2308
+p2412
 aS'2004'
-p2309
+p2413
 aS'Centre'
-p2310
+p2414
 aS'19'
-p2311
+p2415
 aS'5'
 aS'14'
-p2312
+p2416
 aS'0'
 aS'3'
 aS'15'
-p2313
+p2417
 aS'United States'
-p2314
+p2418
 aVUnited States of America
-p2315
+p2419
 ag28
 ag28
-aa(lp2316
+ag28
+aa(lp2420
 S'David Williams'
-p2317
+p2421
 aS'2004'
-p2318
+p2422
 aS'Scrum-half'
-p2319
+p2423
 aS'11'
-p2320
+p2424
 aS'3'
 aS'8'
 aS'0'
 aS'0'
 aS'0'
 aS'Bristol'
-p2321
+p2425
 aVUnited Kingdom
-p2322
+p2426
 aVEngland
-p2323
+p2427
 aVSouth West England
-p2324
-aa(lp2325
+p2428
+aVCity of Bristol
+p2429
+aa(lp2430
 S'Francois Viljoen'
-p2326
+p2431
 aS'2004'
-p2327
+p2432
 aS'Fullback'
-p2328
+p2433
 aS'18'
-p2329
+p2434
 aS'5'
 aS'13'
-p2330
+p2435
 aS'0'
 aS'1'
 aS'69'
-p2331
+p2436
 aS'United States'
-p2332
+p2437
 aVUnited States of America
-p2333
+p2438
 ag28
 ag28
-aa(lp2334
+ag28
+aa(lp2439
 S'Tony Petruzzella'
-p2335
+p2440
 aS'2004'
-p2336
+p2441
 aS'Flanker'
-p2337
+p2442
 aS'9'
 aS'2'
 aS'7'
@@ -6739,41 +7182,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'1982'
-p2338
+p2443
 aVSverige
-p2339
+p2444
 aVSvealand
-p2340
+p2445
 aVVästmanlands län
-p2341
-aa(lp2342
+p2446
+aVFagersta
+p2447
+aa(lp2448
 S'Chris Osentowski'
-p2343
+p2449
 aS'2004'
-p2344
+p2450
 aS'Prop'
-p2345
+p2451
 aS'18'
-p2346
+p2452
 aS'4'
 aS'14'
-p2347
+p2453
 aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2348
+p2454
 aVUnited States of America
-p2349
+p2455
 ag28
 ag28
-aa(lp2350
+ag28
+aa(lp2456
 S'James Lik'
-p2351
+p2457
 aS'2005'
-p2352
+p2458
 aS'Lock'
-p2353
+p2459
 aS'3'
 aS'1'
 aS'2'
@@ -6781,39 +7227,41 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2354
+p2460
 aVUnited States of America
-p2355
+p2461
 ag28
 ag28
-aa(lp2356
+ag28
+aa(lp2462
 S'Mike Palefau'
-p2357
+p2463
 aS'2005'
-p2358
+p2464
 aS'Wing'
-p2359
+p2465
 aS'11'
-p2360
+p2466
 aS'2'
 aS'9'
 aS'0'
 aS'3'
 aS'15'
-p2361
+p2467
 aS'United States'
-p2362
+p2468
 aVUnited States of America
-p2363
+p2469
 ag28
 ag28
-aa(lp2364
+ag28
+aa(lp2470
 S'Andrew Ryland'
-p2365
+p2471
 aS'2005'
-p2366
+p2472
 aS'Flanker'
-p2367
+p2473
 aS'4'
 aS'2'
 aS'2'
@@ -6821,43 +7269,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'1981'
-p2368
+p2474
 aVSverige
-p2369
+p2475
 aVSvealand
-p2370
+p2476
 aVVästmanlands län
-p2371
-aa(lp2372
+p2477
+aVSala
+p2478
+aa(lp2479
 S'Louis Stanfill'
-p2373
+p2480
 aS'2005'
-p2374
+p2481
 aS'Lock'
-p2375
+p2482
 aS'51'
-p2376
+p2483
 aS'14'
-p2377
+p2484
 aS'36'
-p2378
+p2485
 aS'1'
 aS'3'
 aS'15'
-p2379
+p2486
 aS'United States'
-p2380
+p2487
 aVUnited States of America
-p2381
+p2488
 ag28
 ag28
-aa(lp2382
+ag28
+aa(lp2489
 S'John Hartman'
-p2383
+p2490
 aS'2005'
-p2384
+p2491
 aS'Wing'
-p2385
+p2492
 aS'2'
 aS'0'
 aS'2'
@@ -6865,39 +7316,41 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2386
+p2493
 aVUnited States of America
-p2387
+p2494
 ag28
 ag28
-aa(lp2388
+ag28
+aa(lp2495
 S'Mike Mangan'
-p2389
+p2496
 aS'2005'
-p2390
+p2497
 aS'No. 8'
-p2391
+p2498
 aS'17'
-p2392
+p2499
 aS'4'
 aS'13'
-p2393
+p2500
 aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2394
+p2501
 aVUnited States of America
-p2395
+p2502
 ag28
 ag28
-aa(lp2396
+ag28
+aa(lp2503
 S'Mike Hobson'
-p2397
+p2504
 aS'2005'
-p2398
+p2505
 aS'Hooker'
-p2399
+p2506
 aS'1'
 aS'1'
 aS'0'
@@ -6905,20 +7358,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'1979'
-p2400
+p2507
 aVRomânia
-p2401
+p2508
 aVVâlcea
-p2402
+p2509
 aV1979
-p2403
-aa(lp2404
+p2510
+ag28
+aa(lp2511
 S'Doug Rowe'
-p2405
+p2512
 aS'2005'
-p2406
+p2513
 aS'Scrum-half'
-p2407
+p2514
 aS'2'
 aS'1'
 aS'1'
@@ -6926,20 +7380,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1976'
-p2408
+p2515
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2409
+p2516
 aV\u0421\u041a\u0424\u041e
-p2410
+p2517
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2411
-aa(lp2412
+p2518
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2519
+aa(lp2520
 S'Mike French'
-p2413
+p2521
 aS'2005'
-p2414
+p2522
 aS'Prop'
-p2415
+p2523
 aS'8'
 aS'2'
 aS'6'
@@ -6947,18 +7403,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2416
+p2524
 aVUnited States of America
-p2417
+p2525
 ag28
 ag28
-aa(lp2418
+ag28
+aa(lp2526
 S'Scott Jones'
-p2419
+p2527
 aS'2005'
-p2420
+p2528
 aS'Wing, Centre'
-p2421
+p2529
 aS'2'
 aS'1'
 aS'1'
@@ -6966,18 +7423,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2422
+p2530
 aVUnited States of America
-p2423
+p2531
 ag28
 ag28
-aa(lp2424
+ag28
+aa(lp2532
 S'Jason Pye'
-p2425
+p2533
 aS'2005'
-p2426
+p2534
 aS'Fullback, Wing'
-p2427
+p2535
 aS'2'
 aS'1'
 aS'1'
@@ -6985,18 +7443,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2428
+p2536
 aVUnited States of America
-p2429
+p2537
 ag28
 ag28
-aa(lp2430
+ag28
+aa(lp2538
 S'Carl Hansen'
-p2431
+p2539
 aS'2005'
-p2432
+p2540
 aS'Lock'
-p2433
+p2541
 aS'4'
 aS'1'
 aS'3'
@@ -7004,63 +7463,67 @@ aS'0'
 aS'0'
 aS'0'
 aS'1976'
-p2434
+p2542
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2435
+p2543
 aV\u0421\u041a\u0424\u041e
-p2436
+p2544
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2437
-aa(lp2438
+p2545
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2546
+aa(lp2547
 S'Vaha Esikia'
-p2439
+p2548
 aS'2006'
-p2440
+p2549
 aS'Centre'
-p2441
+p2550
 aS'13'
-p2442
+p2551
 aS'3'
 aS'10'
-p2443
+p2552
 aS'0'
 aS'4'
 aS'20'
-p2444
+p2553
 aS"Vava'u"
-p2445
+p2554
 aVTonga
-p2446
+p2555
 aVVava\u02bbu
-p2447
+p2556
 ag28
-aa(lp2448
+ag28
+aa(lp2557
 S'Jeff Hullinger'
-p2449
+p2558
 aS'2006'
-p2450
+p2559
 aS'Wing'
-p2451
+p2560
 aS'5'
 aS'3'
 aS'2'
 aS'0'
 aS'6'
 aS'30'
-p2452
+p2561
 aS'United States'
-p2453
+p2562
 aVUnited States of America
-p2454
+p2563
 ag28
 ag28
-aa(lp2455
+ag28
+aa(lp2564
 S'Owen Lentz'
-p2456
+p2565
 aS'2006'
-p2457
+p2566
 aS'Hooker, Flanker'
-p2458
+p2567
 aS'8'
 aS'1'
 aS'7'
@@ -7068,328 +7531,25 @@ aS'0'
 aS'0'
 aS'0'
 aS"King William's Town"
-p2459
-aVSouth Africa
-p2460
-aVEastern Cape
-p2461
-aVBuffalo City Metropolitan Municipality
-p2462
-aa(lp2463
-S'Tyson Meek'
-p2464
-aS'2006'
-p2465
-aS'Scrum-half'
-p2466
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
-p2467
-aVUnited States of America
-p2468
-ag28
-ag28
-aa(lp2469
-S'Pate Tuilevuka'
-p2470
-aS'2006'
-p2471
-aS'Fly-half, Centre'
-p2472
-aS'10'
-p2473
-aS'5'
-aS'5'
-aS'0'
-aS'2'
-aS'12'
-p2474
-aS'Suva'
-p2475
-aVViti
-p2476
-aVCentral
-p2477
-aVSuva
-p2478
-aa(lp2479
-S'Mark Aylor'
-p2480
-aS'2006'
-p2481
-aS'Back-row'
-p2482
-aS'11'
-p2483
-aS'3'
-aS'8'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
-p2484
-aVUnited States of America
-p2485
-ag28
-ag28
-aa(lp2486
-S'Brian Barnard'
-p2487
-aS'2006'
-p2488
-aS'Wing'
-p2489
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'1'
-aS'5'
-aS'1980'
-p2490
-aVSverige
-p2491
-aVSvealand
-p2492
-aVVästmanlands län
-p2493
-aa(lp2494
-S'Patrick Bell'
-p2495
-aS'2006'
-p2496
-aS'Prop, Hooker'
-p2497
-aS'7'
-aS'3'
-aS'4'
-aS'0'
-aS'2'
-aS'10'
-p2498
-aS'Pietermaritzburg'
-p2499
-aVSouth Africa
-p2500
-aVKwaZulu-Natal
-p2501
-aVuMgungundlovu District Municipality
-p2502
-aa(lp2503
-S'Brian Schoener'
-p2504
-aS'2006'
-p2505
-aS'Lock'
-p2506
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'1978'
-p2507
-aVSvizra
-p2508
-aVSvizzera
-p2509
-aVSuisse
-p2510
-aa(lp2511
-S'Jason Kelly'
-p2512
-aS'2006'
-p2513
-aS'Fly-half'
-p2514
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'6'
-aS'Timaru'
-p2515
-aVNew Zealand/Aotearoa
-p2516
-aVCanterbury
-p2517
-aVTimaru District
-p2518
-aa(lp2519
-S'Jeremy Nash'
-p2520
-aS'2006'
-p2521
-aS'Wing'
-p2522
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p2523
-aS'g'
-aS'n'
-aS'i'
-aa(lp2524
-S'Scott Lawrence'
-p2525
-aS'2006'
-p2526
-aS'Flanker'
-p2527
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'1975'
-p2528
-aVÖsterreich
-p2529
-aV8271
-p2530
-aVSteiermark
-p2531
-aa(lp2532
-S'Hayden Mexted'
-p2533
-aS'2006'
-p2534
-aS'Lock'
-p2535
-aS'8'
-aS'3'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'Whakatane'
-p2536
-aVNew Zealand/Aotearoa
-p2537
-aVBay of Plenty
-p2538
-aVWhakatane District
-p2539
-aa(lp2540
-S'Justin Stencel'
-p2541
-aS'2006'
-p2542
-aS'Flanker'
-p2543
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
-p2544
-aVUnited States of America
-p2545
-ag28
-ag28
-aa(lp2546
-S'Chad Erskine'
-p2547
-aS'2006'
-p2548
-aS'Scrum-half'
-p2549
-aS'10'
-p2550
-aS'3'
-aS'7'
-aS'0'
-aS'1'
-aS'5'
-aS'Pietermaritzburg'
-p2551
-aVSouth Africa
-p2552
-aVKwaZulu-Natal
-p2553
-aVuMgungundlovu District Municipality
-p2554
-aa(lp2555
-S'Adam Russell'
-p2556
-aS'2006'
-p2557
-aS'Lock'
-p2558
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
-p2559
-aVUnited States of America
-p2560
-ag28
-ag28
-aa(lp2561
-S'Jon Vitale'
-p2562
-aS'2006'
-p2563
-aS'Prop'
-p2564
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
-p2565
-aVUnited States of America
-p2566
-ag28
-ag28
-aa(lp2567
-S'Blake Burdette'
 p2568
-aS'2006'
+aVSouth Africa
 p2569
-aS'Prop'
+aVEastern Cape
 p2570
-aS'9'
-aS'2'
-aS'7'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
+aVBuffalo City Metropolitan Municipality
 p2571
-aVUnited States of America
+aVKing William's Town
 p2572
-ag28
-ag28
 aa(lp2573
-S'Ron Rosser'
+S'Tyson Meek'
 p2574
 aS'2006'
 p2575
-aS'Back-row'
+aS'Scrum-half'
 p2576
-aS'2'
-aS'2'
-aS'0'
+aS'4'
+aS'1'
+aS'3'
 aS'0'
 aS'0'
 aS'0'
@@ -7399,252 +7559,264 @@ aVUnited States of America
 p2578
 ag28
 ag28
+ag28
 aa(lp2579
-S'Mark Crick'
+S'Pate Tuilevuka'
 p2580
-aS'2007'
+aS'2006'
 p2581
-aS'Hooker'
+aS'Fly-half, Centre'
 p2582
-aS'9'
-aS'1'
+aS'10'
+p2583
+aS'5'
+aS'5'
+aS'0'
+aS'2'
+aS'12'
+p2584
+aS'Suva'
+p2585
+aVViti
+p2586
+aVCentral
+p2587
+aVSuva
+p2588
+ag28
+aa(lp2589
+S'Mark Aylor'
+p2590
+aS'2006'
+p2591
+aS'Back-row'
+p2592
+aS'11'
+p2593
+aS'3'
 aS'8'
 aS'0'
 aS'0'
 aS'0'
-aS'NSW'
-p2583
-aVAustralia
-p2584
-aVNew South Wales
-p2585
-ag28
-aa(lp2586
-S'Nese Malifa'
-p2587
-aS'2007'
-p2588
-aS'Fly-half'
-p2589
-aS'23'
-p2590
-aS'6'
-aS'17'
-p2591
-aS'0'
-aS'0'
-aS'65'
-p2592
-aS'American Samoa'
-p2593
-aVUnited States of America
+aS'United States'
 p2594
-aVAmerican Samoa
+aVUnited States of America
 p2595
 ag28
+ag28
+ag28
 aa(lp2596
-S'Pat Quinn'
+S'Brian Barnard'
 p2597
-aS'2007'
+aS'2006'
 p2598
-aS'Back-row'
+aS'Wing'
 p2599
 aS'4'
 aS'1'
 aS'3'
 aS'0'
-aS'0'
-aS'0'
-aS'United States'
+aS'1'
+aS'5'
+aS'1980'
 p2600
-aVUnited States of America
+aVSverige
 p2601
-ag28
-ag28
-aa(lp2602
-S'Chris Wyles'
+aVSvealand
+p2602
+aVVästmanlands län
 p2603
-aS'2007'
+aVVästerås
 p2604
-aS'Fullback, Wing'
-p2605
-aS'45'
+aa(lp2605
+S'Patrick Bell'
 p2606
-aS'15'
+aS'2006'
 p2607
-aS'29'
+aS'Prop, Hooker'
 p2608
-aS'1'
-aS'14'
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'2'
+aS'10'
 p2609
-aS'212'
+aS'Pietermaritzburg'
 p2610
-aS'United States'
+aVSouth Africa
 p2611
-aVUnited States of America
+aVKwaZulu-Natal
 p2612
-ag28
-ag28
-aa(lp2613
-S'Tui Osborne'
+aVuMgungundlovu District Municipality
+p2613
+aVPietermaritzburg
 p2614
-aS'2007'
-p2615
-aS'Fullback, Wing'
+aa(lp2615
+S'Brian Schoener'
 p2616
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Suva'
+aS'2006'
 p2617
-aVViti
-p2618
-aVCentral
-p2619
-aVSuva
-p2620
-aa(lp2621
-S'Ben Wiedemer'
-p2622
-aS'2007'
-p2623
 aS'Lock'
-p2624
-aS'4'
+p2618
+aS'3'
 aS'0'
-aS'4'
+aS'3'
 aS'0'
 aS'0'
 aS'0'
-aS'United States'
+aS'1978'
+p2619
+aVSvizra
+p2620
+aVSvizzera
+p2621
+aVSuisse
+p2622
+aVSchweiz
+p2623
+aa(lp2624
+S'Jason Kelly'
 p2625
-aVUnited States of America
+aS'2006'
 p2626
-ag28
-ag28
-aa(lp2627
-S'Inaki Basauri Flores'
+aS'Fly-half'
+p2627
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'6'
+aS'Timaru'
 p2628
-aS'2007'
+aVNew Zealand/Aotearoa
 p2629
-aS'Back-row'
+aVCanterbury
 p2630
-aS'15'
+aVTimaru District
 p2631
-aS'5'
-aS'10'
+aVTimaru
 p2632
-aS'0'
-aS'0'
-aS'0'
-aS'Monterrey'
-p2633
-aVEstados Unidos Mexicanos
+aa(lp2633
+S'Jeremy Nash'
 p2634
-aVNuevo León
+aS'2006'
 p2635
-aVMonterrey
-p2636
-aa(lp2637
-S'Dan Payne'
-p2638
-aS'2007'
-p2639
-aS'Back-row'
-p2640
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
-p2641
-aVUnited States of America
-p2642
-ag28
-ag28
-aa(lp2643
-S'Henry Bloomfield'
-p2644
-aS'2007'
-p2645
-aS'No. 8'
-p2646
-aS'5'
-aS'0'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'United States'
-p2647
-aVUnited States of America
-p2648
-ag28
-ag28
-aa(lp2649
-S'Taku Ngwenya'
-p2650
-aS'2007'
-p2651
 aS'Wing'
-p2652
-aS'29'
-p2653
-aS'10'
-p2654
-aS'19'
-p2655
+p2636
+aS'2'
 aS'0'
-aS'12'
-p2656
-aS'60'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2637
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2638
+S'Scott Lawrence'
+p2639
+aS'2006'
+p2640
+aS'Flanker'
+p2641
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1975'
+p2642
+aVÖsterreich
+p2643
+aV8271
+p2644
+aVSteiermark
+p2645
+aVHartberg-Fürstenfeld
+p2646
+aa(lp2647
+S'Hayden Mexted'
+p2648
+aS'2006'
+p2649
+aS'Lock'
+p2650
+aS'8'
+aS'3'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Whakatane'
+p2651
+aVNew Zealand/Aotearoa
+p2652
+aVBay of Plenty
+p2653
+aVWhakatane District
+p2654
+aVWhakatane
+p2655
+aa(lp2656
+S'Justin Stencel'
 p2657
-aS'Harare'
+aS'2006'
 p2658
-aVZimbabwe
+aS'Flanker'
 p2659
-aVHarare Province
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
 p2660
-aVHarare
+aVUnited States of America
 p2661
+ag28
+ag28
+ag28
 aa(lp2662
-S'Mate Moeakiola'
+S'Chad Erskine'
 p2663
-aS'2007'
+aS'2006'
 p2664
-aS'Prop'
+aS'Scrum-half'
 p2665
-aS'29'
+aS'10'
 p2666
-aS'9'
-aS'20'
-p2667
+aS'3'
+aS'7'
 aS'0'
 aS'1'
 aS'5'
-aS'Tonga Tapu'
+aS'Pietermaritzburg'
+p2667
+aVSouth Africa
 p2668
-aVCook Islands
+aVKwaZulu-Natal
 p2669
-aVTe-Au-O-Tonga
+aVuMgungundlovu District Municipality
 p2670
-aVAra Tapu
+aVPietermaritzburg
 p2671
 aa(lp2672
-S'Thretton Palamo'
+S'Adam Russell'
 p2673
-aS'2007'
+aS'2006'
 p2674
-aS'Wing'
+aS'Lock'
 p2675
-aS'5'
+aS'2'
 aS'1'
-aS'4'
+aS'1'
 aS'0'
 aS'0'
 aS'0'
@@ -7654,155 +7826,163 @@ aVUnited States of America
 p2677
 ag28
 ag28
+ag28
 aa(lp2678
-S'Mike Petri'
+S'Jon Vitale'
 p2679
-aS'2007'
+aS'2006'
 p2680
-aS'Scrum-half'
+aS'Prop'
 p2681
-aS'48'
-p2682
-aS'16'
-p2683
-aS'31'
-p2684
+aS'3'
 aS'1'
-aS'4'
-aS'23'
-p2685
-aS'United States'
-p2686
-aVUnited States of America
-p2687
-ag28
-ag28
-aa(lp2688
-S'Gavin DeBartolo'
-p2689
-aS'2008'
-p2690
-aS'Fullback, Wing'
-p2691
-aS'6'
-aS'1'
-aS'5'
-aS'0'
 aS'2'
-aS'15'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p2682
+aVUnited States of America
+p2683
+ag28
+ag28
+ag28
+aa(lp2684
+S'Blake Burdette'
+p2685
+aS'2006'
+p2686
+aS'Prop'
+p2687
+aS'9'
+aS'2'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p2688
+aVUnited States of America
+p2689
+ag28
+ag28
+ag28
+aa(lp2690
+S'Ron Rosser'
+p2691
+aS'2006'
 p2692
-aS'NSW'
+aS'Back-row'
 p2693
-aVAustralia
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
 p2694
-aVNew South Wales
+aVUnited States of America
 p2695
 ag28
+ag28
+ag28
 aa(lp2696
-S'John van der Giessen'
+S'Mark Crick'
 p2697
-aS'2008'
+aS'2007'
 p2698
-aS'Lock'
+aS'Hooker'
 p2699
-aS'21'
-p2700
 aS'9'
-aS'12'
+aS'1'
+aS'8'
+aS'0'
+aS'0'
+aS'0'
+aS'NSW'
+p2700
+aVAustralia
 p2701
-aS'0'
-aS'1'
-aS'5'
-aS'United States'
+aVNew South Wales
 p2702
-aVUnited States of America
-p2703
 ag28
 ag28
-aa(lp2704
-S'Brian Doyle'
+aa(lp2703
+S'Nese Malifa'
+p2704
+aS'2007'
 p2705
-aS'2008'
+aS'Fly-half'
 p2706
-aS'Lock'
+aS'23'
 p2707
-aS'15'
+aS'6'
+aS'17'
 p2708
-aS'2'
-aS'13'
-p2709
 aS'0'
-aS'1'
-aS'5'
-aS'United States'
+aS'0'
+aS'65'
+p2709
+aS'American Samoa'
 p2710
 aVUnited States of America
 p2711
+aVAmerican Samoa
+p2712
 ag28
 ag28
-aa(lp2712
-S'Saimone Laulaupeaalu'
-p2713
-aS'2008'
+aa(lp2713
+S'Pat Quinn'
 p2714
-aS'Hooker'
+aS'2007'
 p2715
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'Back-row'
 p2716
-aS'g'
-aS'n'
-aS'i'
-aa(lp2717
-S'Jason Lett'
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p2717
+aVUnited States of America
 p2718
-aS'2008'
-p2719
-aS'Flanker'
+ag28
+ag28
+ag28
+aa(lp2719
+S'Chris Wyles'
 p2720
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Wairoa'
+aS'2007'
 p2721
-aVNew Zealand/Aotearoa
+aS'Fullback, Wing'
 p2722
-aVHawke's Bay
+aS'45'
 p2723
-aVWairoa District
+aS'15'
 p2724
-aa(lp2725
-S'Chad Slaby'
+aS'29'
+p2725
+aS'1'
+aS'14'
 p2726
-aS'2008'
+aS'212'
 p2727
-aS'Prop'
+aS'United States'
 p2728
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aVUnited States of America
 p2729
-aS'g'
-aS'n'
-aS'i'
+ag28
+ag28
+ag28
 aa(lp2730
-S'Justin Boyd'
+S'Tui Osborne'
 p2731
-aS'2008'
+aS'2007'
 p2732
-aS'Wing'
+aS'Fullback, Wing'
 p2733
 aS'2'
 aS'0'
@@ -7810,44 +7990,375 @@ aS'2'
 aS'0'
 aS'0'
 aS'0'
-aS'1986'
+aS'Suva'
 p2734
-aV\u0420\u043e\u0441\u0441\u0438\u044f
+aVViti
 p2735
-aV\u0421\u041a\u0424\u041e
+aVCentral
 p2736
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+aVSuva
 p2737
+ag28
 aa(lp2738
-S'Robbie Shaw'
+S'Ben Wiedemer'
 p2739
-aS'2008'
+aS'2007'
 p2740
-aS'Scrum-half'
+aS'Lock'
 p2741
-aS'12'
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
 p2742
+aVUnited States of America
+p2743
+ag28
+ag28
+ag28
+aa(lp2744
+S'Inaki Basauri Flores'
+p2745
+aS'2007'
+p2746
+aS'Back-row'
+p2747
+aS'15'
+p2748
+aS'5'
+aS'10'
+p2749
+aS'0'
+aS'0'
+aS'0'
+aS'Monterrey'
+p2750
+aVEstados Unidos Mexicanos
+p2751
+aVNuevo León
+p2752
+aVMonterrey
+p2753
+ag28
+aa(lp2754
+S'Dan Payne'
+p2755
+aS'2007'
+p2756
+aS'Back-row'
+p2757
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p2758
+aVUnited States of America
+p2759
+ag28
+ag28
+ag28
+aa(lp2760
+S'Henry Bloomfield'
+p2761
+aS'2007'
+p2762
+aS'No. 8'
+p2763
+aS'5'
+aS'0'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p2764
+aVUnited States of America
+p2765
+ag28
+ag28
+ag28
+aa(lp2766
+S'Taku Ngwenya'
+p2767
+aS'2007'
+p2768
+aS'Wing'
+p2769
+aS'29'
+p2770
+aS'10'
+p2771
+aS'19'
+p2772
+aS'0'
+aS'12'
+p2773
+aS'60'
+p2774
+aS'Harare'
+p2775
+aVZimbabwe
+p2776
+aVHarare Province
+p2777
+aVHarare
+p2778
+ag28
+aa(lp2779
+S'Mate Moeakiola'
+p2780
+aS'2007'
+p2781
+aS'Prop'
+p2782
+aS'29'
+p2783
+aS'9'
+aS'20'
+p2784
+aS'0'
+aS'1'
+aS'5'
+aS'Tonga Tapu'
+p2785
+aVCook Islands
+p2786
+aVTe-Au-O-Tonga
+p2787
+aVAra Tapu
+p2788
+ag28
+aa(lp2789
+S'Thretton Palamo'
+p2790
+aS'2007'
+p2791
+aS'Wing'
+p2792
+aS'5'
+aS'1'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'United States'
+p2793
+aVUnited States of America
+p2794
+ag28
+ag28
+ag28
+aa(lp2795
+S'Mike Petri'
+p2796
+aS'2007'
+p2797
+aS'Scrum-half'
+p2798
+aS'48'
+p2799
+aS'16'
+p2800
+aS'31'
+p2801
+aS'1'
+aS'4'
+aS'23'
+p2802
+aS'United States'
+p2803
+aVUnited States of America
+p2804
+ag28
+ag28
+ag28
+aa(lp2805
+S'Gavin DeBartolo'
+p2806
+aS'2008'
+p2807
+aS'Fullback, Wing'
+p2808
+aS'6'
+aS'1'
+aS'5'
+aS'0'
+aS'2'
+aS'15'
+p2809
+aS'NSW'
+p2810
+aVAustralia
+p2811
+aVNew South Wales
+p2812
+ag28
+ag28
+aa(lp2813
+S'John van der Giessen'
+p2814
+aS'2008'
+p2815
+aS'Lock'
+p2816
+aS'21'
+p2817
+aS'9'
+aS'12'
+p2818
+aS'0'
+aS'1'
+aS'5'
+aS'United States'
+p2819
+aVUnited States of America
+p2820
+ag28
+ag28
+ag28
+aa(lp2821
+S'Brian Doyle'
+p2822
+aS'2008'
+p2823
+aS'Lock'
+p2824
+aS'15'
+p2825
+aS'2'
+aS'13'
+p2826
+aS'0'
+aS'1'
+aS'5'
+aS'United States'
+p2827
+aVUnited States of America
+p2828
+ag28
+ag28
+ag28
+aa(lp2829
+S'Saimone Laulaupeaalu'
+p2830
+aS'2008'
+p2831
+aS'Hooker'
+p2832
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2833
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2834
+S'Jason Lett'
+p2835
+aS'2008'
+p2836
+aS'Flanker'
+p2837
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Wairoa'
+p2838
+aVNew Zealand/Aotearoa
+p2839
+aVHawke's Bay
+p2840
+aVWairoa District
+p2841
+aVWairoa
+p2842
+aa(lp2843
+S'Chad Slaby'
+p2844
+aS'2008'
+p2845
+aS'Prop'
+p2846
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2847
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2848
+S'Justin Boyd'
+p2849
+aS'2008'
+p2850
+aS'Wing'
+p2851
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1986'
+p2852
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p2853
+aV\u0421\u041a\u0424\u041e
+p2854
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p2855
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2856
+aa(lp2857
+S'Robbie Shaw'
+p2858
+aS'2008'
+p2859
+aS'Scrum-half'
+p2860
+aS'12'
+p2861
 aS'3'
 aS'9'
 aS'0'
 aS'3'
 aS'15'
-p2743
+p2862
 aS'Bucks'
-p2744
+p2863
 aVUnited States of America
-p2745
+p2864
 aVpenna
-p2746
+p2865
 aVBucks County
-p2747
-aa(lp2748
+p2866
+ag28
+aa(lp2867
 S'Junior Sifa'
-p2749
+p2868
 aS'2008'
-p2750
+p2869
 aS'Centre'
-p2751
+p2870
 aS'8'
 aS'4'
 aS'4'
@@ -7855,111 +8366,118 @@ aS'0'
 aS'1'
 aS'5'
 aS'American Samoa'
-p2752
+p2871
 aVUnited States of America
-p2753
+p2872
 aVAmerican Samoa
-p2754
+p2873
 ag28
-aa(lp2755
+ag28
+aa(lp2874
 S'Hayden Smith'
-p2756
+p2875
 aS'2008'
-p2757
+p2876
 aS'Lock'
-p2758
+p2877
 aS'22'
-p2759
+p2878
 aS'7'
 aS'14'
-p2760
+p2879
 aS'1'
 aS'0'
 aS'0'
 aS'Penrith'
-p2761
+p2880
 aVUnited Kingdom
-p2762
+p2881
 aVEngland
-p2763
+p2882
 aVNorth West England
-p2764
-aa(lp2765
+p2883
+aVCumbria
+p2884
+aa(lp2885
 S'JJ Gagiano'
-p2766
+p2886
 aS'2008'
-p2767
+p2887
 aS'Back-row'
-p2768
+p2888
 aS'14'
-p2769
+p2889
 aS'7'
 aS'7'
 aS'0'
 aS'2'
 aS'10'
-p2770
+p2890
 aS'Cape Town'
-p2771
+p2891
 aVSouth Africa
-p2772
+p2892
 aVWestern Cape
-p2773
+p2893
 aVCity of Cape Town
-p2774
-aa(lp2775
+p2894
+aVCape Town
+p2895
+aa(lp2896
 S'Shawn Pittman'
-p2776
+p2897
 aS'2008'
-p2777
+p2898
 aS'Prop'
-p2778
+p2899
 aS'30'
-p2779
+p2900
 aS'10'
-p2780
+p2901
 aS'20'
-p2781
+p2902
 aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2782
+p2903
 aVUnited States of America
-p2783
+p2904
 ag28
 ag28
-aa(lp2784
+ag28
+aa(lp2905
 S'Andrew Suniula'
-p2785
+p2906
 aS'2008'
-p2786
+p2907
 aS'Centre'
-p2787
+p2908
 aS'33'
-p2788
+p2909
 aS'11'
-p2789
+p2910
 aS'21'
-p2790
+p2911
 aS'1'
 aS'6'
 aS'30'
-p2791
+p2912
 aS'QLD'
-p2792
+p2913
 aVAustralia
-p2793
+p2914
 aVQueensland
-p2794
+p2915
 ag28
-aa(lp2795
+ag28
+aa(lp2916
 S'Joe Welch'
-p2796
+p2917
 aS'2008'
-p2797
+p2918
 aS'Hooker'
-p2798
+p2919
 aS'5'
 aS'1'
 aS'4'
@@ -7967,18 +8485,19 @@ aS'0'
 aS'1'
 aS'5'
 aS'United States'
-p2799
+p2920
 aVUnited States of America
-p2800
+p2921
 ag28
 ag28
-aa(lp2801
+ag28
+aa(lp2922
 S'Brian Lemay'
-p2802
+p2923
 aS'2008'
-p2803
+p2924
 aS'Prop'
-p2804
+p2925
 aS'1'
 aS'0'
 aS'1'
@@ -7986,18 +8505,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2805
+p2926
 aVUnited States of America
-p2806
+p2927
 ag28
 ag28
-aa(lp2807
+ag28
+aa(lp2928
 S'Courtney McKay'
-p2808
+p2929
 aS'2008'
-p2809
+p2930
 aS'Lock'
-p2810
+p2931
 aS'3'
 aS'0'
 aS'3'
@@ -8005,85 +8525,91 @@ aS'0'
 aS'0'
 aS'0'
 aS'1983'
-p2811
+p2932
 aVSverige
-p2812
+p2933
 aVSvealand
-p2813
+p2934
 aVVästmanlands län
-p2814
-aa(lp2815
+p2935
+aVKöping
+p2936
+aa(lp2937
 S'Chris Biller'
-p2816
+p2938
 aS'2009'
-p2817
+p2939
 aS'Hooker'
-p2818
+p2940
 aS'28'
-p2819
+p2941
 aS'9'
 aS'19'
-p2820
+p2942
 aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2821
+p2943
 aVUnited States of America
-p2822
+p2944
 ag28
 ag28
-aa(lp2823
+ag28
+aa(lp2945
 S'Peter Dahl'
-p2824
+p2946
 aS'2009'
-p2825
+p2947
 aS'Flanker'
-p2826
+p2948
 aS'12'
-p2827
+p2949
 aS'2'
 aS'10'
-p2828
+p2950
 aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p2829
+p2951
 aVNew Zealand/Aotearoa
-p2830
+p2952
 aVCanterbury
-p2831
+p2953
 aVChristchurch City
-p2832
-aa(lp2833
+p2954
+aVChristchurch
+p2955
+aa(lp2956
 S'Nic Johnson'
-p2834
+p2957
 aS'2009'
-p2835
+p2958
 aS'Back-row'
-p2836
+p2959
 aS'18'
-p2837
+p2960
 aS'7'
 aS'11'
-p2838
+p2961
 aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2839
+p2962
 aVUnited States of America
-p2840
+p2963
 ag28
 ag28
-aa(lp2841
+ag28
+aa(lp2964
 S'Will Johnson'
-p2842
+p2965
 aS'2009'
-p2843
+p2966
 aS'Prop'
-p2844
+p2967
 aS'4'
 aS'2'
 aS'2'
@@ -8091,61 +8617,64 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2845
+p2968
 aVUnited States of America
-p2846
+p2969
 ag28
 ag28
-aa(lp2847
+ag28
+aa(lp2970
 S'Roland Suniula'
-p2848
+p2971
 aS'2009'
-p2849
+p2972
 aS'Centre, Fly-half'
-p2850
+p2973
 aS'17'
-p2851
+p2974
 aS'5'
 aS'12'
-p2852
+p2975
 aS'0'
 aS'1'
 aS'5'
 aS'American Samoa'
-p2853
+p2976
 aVUnited States of America
-p2854
+p2977
 aVAmerican Samoa
-p2855
+p2978
 ag28
-aa(lp2856
+ag28
+aa(lp2979
 S'Kevin Swiryn'
-p2857
+p2980
 aS'2009'
-p2858
+p2981
 aS'Wing'
-p2859
+p2982
 aS'13'
-p2860
+p2983
 aS'5'
 aS'8'
 aS'0'
 aS'6'
 aS'30'
-p2861
+p2984
 aS'United States'
-p2862
+p2985
 aVUnited States of America
-p2863
+p2986
 ag28
 ag28
-aa(lp2864
+ag28
+aa(lp2987
 S'Ata Malifa'
-p2865
+p2988
 aS'2009'
-p2866
+p2989
 aS'Fly-half'
-p2867
+p2990
 aS'4'
 aS'1'
 aS'3'
@@ -8153,42 +8682,44 @@ aS'0'
 aS'0'
 aS'5'
 aS'American Samoa'
-p2868
+p2991
 aVUnited States of America
-p2869
+p2992
 aVAmerican Samoa
-p2870
+p2993
 ag28
-aa(lp2871
+ag28
+aa(lp2994
 S'Tim Usasz'
-p2872
+p2995
 aS'2009'
-p2873
+p2996
 aS'Scrum-half'
-p2874
+p2997
 aS'19'
-p2875
+p2998
 aS'8'
 aS'11'
-p2876
+p2999
 aS'0'
 aS'2'
 aS'10'
-p2877
+p3000
 aS'QLD'
-p2878
+p3001
 aVAustralia
-p2879
+p3002
 aVQueensland
-p2880
+p3003
 ag28
-aa(lp2881
+ag28
+aa(lp3004
 S'Brian McClenahan'
-p2882
+p3005
 aS'2009'
-p2883
+p3006
 aS'Hooker'
-p2884
+p3007
 aS'3'
 aS'1'
 aS'2'
@@ -8196,18 +8727,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2885
+p3008
 aVUnited States of America
-p2886
+p3009
 ag28
 ag28
-aa(lp2887
+ag28
+aa(lp3010
 S'Colin Hawley'
-p2888
+p3011
 aS'2009'
-p2889
+p3012
 aS'Wing'
-p2890
+p3013
 aS'7'
 aS'3'
 aS'4'
@@ -8215,39 +8747,41 @@ aS'0'
 aS'1'
 aS'5'
 aS'United States'
-p2891
+p3014
 aVUnited States of America
-p2892
+p3015
 ag28
 ag28
-aa(lp2893
+ag28
+aa(lp3016
 S'Phil Thiel'
-p2894
+p3017
 aS'2009'
-p2895
+p3018
 aS'Prop, Hooker'
-p2896
+p3019
 aS'26'
-p2897
+p3020
 aS'9'
 aS'16'
-p2898
+p3021
 aS'1'
 aS'1'
 aS'5'
 aS'United States'
-p2899
+p3022
 aVUnited States of America
-p2900
+p3023
 ag28
 ag28
-aa(lp2901
+ag28
+aa(lp3024
 S'Jake Sprague'
-p2902
+p3025
 aS'2009'
-p2903
+p3026
 aS'Prop'
-p2904
+p3027
 aS'2'
 aS'2'
 aS'0'
@@ -8255,20 +8789,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1984'
-p2905
+p3028
 aVSverige
-p2906
+p3029
 aVSvealand
-p2907
+p3030
 aVVästmanlands län
-p2908
-aa(lp2909
+p3031
+aVArboga
+p3032
+aa(lp3033
 S'Pat Danahy'
-p2910
+p3034
 aS'2009'
-p2911
+p3035
 aS'Lock'
-p2912
+p3036
 aS'6'
 aS'3'
 aS'3'
@@ -8276,18 +8812,19 @@ aS'0'
 aS'1'
 aS'5'
 aS'United States'
-p2913
+p3037
 aVUnited States of America
-p2914
+p3038
 ag28
 ag28
-aa(lp2915
+ag28
+aa(lp3039
 S'Matt Hawkins'
-p2916
+p3040
 aS'2010'
-p2917
+p3041
 aS'No. 8'
-p2918
+p3042
 aS'1'
 aS'1'
 aS'0'
@@ -8295,42 +8832,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p2919
+p3043
 aVSouth Africa
-p2920
+p3044
 aVKwaZulu-Natal
-p2921
+p3045
 aVeThekwini Metropolitan Municipality
-p2922
-aa(lp2923
+p3046
+aVDurban
+p3047
+aa(lp3048
 S'Scott LaValla'
-p2924
+p3049
 aS'2010'
-p2925
+p3050
 aS'Lock'
-p2926
+p3051
 aS'29'
-p2927
+p3052
 aS'10'
-p2928
+p3053
 aS'18'
-p2929
+p3054
 aS'1'
 aS'1'
 aS'5'
 aS'United States'
-p2930
+p3055
 aVUnited States of America
-p2931
+p3056
 ag28
 ag28
-aa(lp2932
+ag28
+aa(lp3057
 S'Tony Purpura'
-p2933
+p3058
 aS'2010'
-p2934
+p3059
 aS'Prop'
-p2935
+p3060
 aS'1'
 aS'1'
 aS'0'
@@ -8338,18 +8878,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p2936
+p3061
 aVUnited States of America
-p2937
+p3062
 ag28
 ag28
-aa(lp2938
+ag28
+aa(lp3063
 S'Volney Rouse'
-p2939
+p3064
 aS'2010'
-p2940
+p3065
 aS'Fly-half'
-p2941
+p3066
 aS'1'
 aS'1'
 aS'0'
@@ -8357,18 +8898,19 @@ aS'0'
 aS'0'
 aS'3'
 aS'United States'
-p2942
+p3067
 aVUnited States of America
-p2943
+p3068
 ag28
 ag28
-aa(lp2944
+ag28
+aa(lp3069
 S'Seta Tuilevuka'
-p2945
+p3070
 aS'2010'
-p2946
+p3071
 aS'Centre'
-p2947
+p3072
 aS'1'
 aS'1'
 aS'0'
@@ -8376,41 +8918,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'1981'
-p2948
+p3073
 aVSverige
-p2949
+p3074
 aVSvealand
-p2950
+p3075
 aVVästmanlands län
-p2951
-aa(lp2952
+p3076
+aVSala
+p3077
+aa(lp3078
 S'Samu Manoa'
-p2953
+p3079
 aS'2010'
-p2954
+p3080
 aS'Lock, Back-row'
-p2955
+p3081
 aS'10'
-p2956
+p3082
 aS'4'
 aS'5'
 aS'1'
 aS'2'
 aS'10'
-p2957
+p3083
 aS'United States'
-p2958
+p3084
 aVUnited States of America
-p2959
+p3085
 ag28
 ag28
-aa(lp2960
+ag28
+aa(lp3086
 S'Tai Enosa'
-p2961
+p3087
 aS'2011'
-p2962
+p3088
 aS'Fly-half, Centre'
-p2963
+p3089
 aS'6'
 aS'1'
 aS'5'
@@ -8418,41 +8963,43 @@ aS'0'
 aS'1'
 aS'7'
 aS'American Samoa'
-p2964
+p3090
 aVUnited States of America
-p2965
+p3091
 aVAmerican Samoa
-p2966
+p3092
 ag28
-aa(lp2967
+ag28
+aa(lp3093
 S'Eric Fry'
-p2968
+p3094
 aS'2011'
-p2969
+p3095
 aS'Prop'
-p2970
+p3096
 aS'27'
-p2971
+p3097
 aS'8'
 aS'18'
-p2972
+p3098
 aS'1'
 aS'3'
 aS'15'
-p2973
+p3099
 aS'United States'
-p2974
+p3100
 aVUnited States of America
-p2975
+p3101
 ag28
 ag28
-aa(lp2976
+ag28
+aa(lp3102
 S'Troy Hall'
-p2977
+p3103
 aS'2011'
-p2978
+p3104
 aS'Centre'
-p2979
+p3105
 aS'2'
 aS'0'
 aS'2'
@@ -8460,66 +9007,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'1982'
-p2980
+p3106
 aVSverige
-p2981
+p3107
 aVSvealand
-p2982
+p3108
 aVVästmanlands län
-p2983
-aa(lp2984
+p3109
+aVFagersta
+p3110
+aa(lp3111
 S'Blaine Scully'
-p2985
+p3112
 aS'2011'
-p2986
+p3113
 aS'Fullback, Wing'
-p2987
+p3114
 aS'21'
-p2988
+p3115
 aS'6'
 aS'14'
-p2989
+p3116
 aS'1'
 aS'7'
 aS'35'
-p2990
+p3117
 aS'United States'
-p2991
+p3118
 aVUnited States of America
-p2992
+p3119
 ag28
 ag28
-aa(lp2993
+ag28
+aa(lp3120
 S'James Paterson'
-p2994
+p3121
 aS'2011'
-p2995
+p3122
 aS'Wing'
-p2996
+p3123
 aS'12'
-p2997
+p3124
 aS'2'
 aS'10'
-p2998
+p3125
 aS'0'
 aS'2'
 aS'15'
-p2999
+p3126
 aS'Christchurch'
-p3000
+p3127
 aVNew Zealand/Aotearoa
-p3001
+p3128
 aVCanterbury
-p3002
+p3129
 aVChristchurch City
-p3003
-aa(lp3004
+p3130
+aVChristchurch
+p3131
+aa(lp3132
 S'Ryan Chapman'
-p3005
+p3133
 aS'2011'
-p3006
+p3134
 aS'Back-row'
-p3007
+p3135
 aS'1'
 aS'0'
 aS'1'
@@ -8527,20 +9079,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1984'
-p3008
+p3136
 aVSverige
-p3009
+p3137
 aVSvealand
-p3010
+p3138
 aVVästmanlands län
-p3011
-aa(lp3012
+p3139
+aVArboga
+p3140
+aa(lp3141
 S'Drew Durutalo'
-p3013
+p3142
 aS'2012'
-p3014
+p3143
 aS'Hooker'
-p3015
+p3144
 aS'3'
 aS'1'
 aS'2'
@@ -8548,62 +9102,66 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p3016
+p3145
 aVUnited States of America
-p3017
+p3146
 ag28
 ag28
-aa(lp3018
+ag28
+aa(lp3147
 S'Will Holder'
-p3019
+p3148
 aS'2012'
-p3020
+p3149
 aS'Fly-half'
-p3021
+p3150
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aS'10'
-p3022
+p3151
 aS'Frankfurt'
-p3023
+p3152
 aVDeutschland
-p3024
+p3153
 aVHessen
-p3025
+p3154
 aVRegierungsbezirk Darmstadt
-p3026
-aa(lp3027
+p3155
+aVFrankfurt
+p3156
+aa(lp3157
 S'Luke Hume'
-p3028
+p3158
 aS'2012'
-p3029
+p3159
 aS'Wing'
-p3030
+p3160
 aS'17'
-p3031
+p3161
 aS'7'
 aS'9'
 aS'1'
 aS'2'
 aS'10'
-p3032
+p3162
 aS'NSW'
-p3033
+p3163
 aVAustralia
-p3034
+p3164
 aVNew South Wales
-p3035
+p3165
 ag28
-aa(lp3036
+ag28
+aa(lp3166
 S'Taylor Mokate'
-p3037
+p3167
 aS'2012'
-p3038
+p3168
 aS'No. 8'
-p3039
+p3169
 aS'3'
 aS'1'
 aS'2'
@@ -8611,18 +9169,19 @@ aS'0'
 aS'1'
 aS'5'
 aS'United States'
-p3040
+p3170
 aVUnited States of America
-p3041
+p3171
 ag28
 ag28
-aa(lp3042
+ag28
+aa(lp3172
 S'Derek Asbun'
-p3043
+p3173
 aS'2012'
-p3044
+p3174
 aS'Hooker'
-p3045
+p3175
 aS'7'
 aS'4'
 aS'3'
@@ -8630,18 +9189,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p3046
+p3176
 aVUnited States of America
-p3047
+p3177
 ag28
 ag28
-aa(lp3048
+ag28
+aa(lp3178
 S'Dre Liufau'
-p3049
+p3179
 aS'2012'
-p3050
+p3180
 aS'Prop'
-p3051
+p3181
 aS'2'
 aS'1'
 aS'1'
@@ -8649,20 +9209,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1984'
-p3052
+p3182
 aVSverige
-p3053
+p3183
 aVSvealand
-p3054
+p3184
 aVVästmanlands län
-p3055
-aa(lp3056
+p3185
+aVArboga
+p3186
+aa(lp3187
 S'Cornelius Dirksen'
-p3057
+p3188
 aS'2012'
-p3058
+p3189
 aS'Wing'
-p3059
+p3190
 aS'2'
 aS'1'
 aS'1'
@@ -8670,59 +9232,63 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p3060
+p3191
 aS'g'
 aS'n'
 aS'i'
-aa(lp3061
+aS's'
+aa(lp3192
 S"Toby L'Estrange"
-p3062
+p3193
 aS'2012'
-p3063
+p3194
 aS'Fullback'
-p3064
+p3195
 aS'12'
-p3065
+p3196
 aS'3'
 aS'8'
 aS'1'
 aS'1'
 aS'5'
 aS'United States'
-p3066
+p3197
 aVUnited States of America
-p3067
+p3198
 ag28
 ag28
-aa(lp3068
+ag28
+aa(lp3199
 S'John Quill'
-p3069
+p3200
 aS'2012'
-p3070
+p3201
 aS'Back-row'
-p3071
+p3202
 aS'10'
-p3072
+p3203
 aS'4'
 aS'6'
 aS'0'
 aS'1'
 aS'5'
 aS'Cork'
-p3073
+p3204
 aVRepublic of Ireland
-p3074
+p3205
 aVMunster
-p3075
+p3206
 aVCounty Cork
-p3076
-aa(lp3077
+p3207
+aVCork
+p3208
+aa(lp3209
 S'Zach Fenoglio'
-p3078
+p3210
 aS'2012'
-p3079
+p3211
 aS'Prop'
-p3080
+p3212
 aS'7'
 aS'1'
 aS'6'
@@ -8730,18 +9296,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'United States'
-p3081
+p3213
 aVUnited States of America
-p3082
+p3214
 ag28
 ag28
-aa(lp3083
+ag28
+aa(lp3215
 S'Zach Pangelinan'
-p3084
+p3216
 aS'2012'
-p3085
+p3217
 aS'Wing'
-p3086
+p3218
 aS'2'
 aS'1'
 aS'1'
@@ -8749,20 +9316,21 @@ aS'0'
 aS'0'
 aS'8'
 aS'Hagatna'
-p3087
+p3219
 aVUnited States of America
-p3088
+p3220
 aVGuam
-p3089
+p3221
 aVHagåtña
-p3090
-aa(lp3091
+p3222
+ag28
+aa(lp3223
 S'Graham Harriman'
-p3092
+p3224
 aS'2012'
-p3093
+p3225
 aS'Lock'
-p3094
+p3226
 aS'4'
 aS'3'
 aS'1'
@@ -8770,65 +9338,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'1987'
-p3095
+p3227
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3096
+p3228
 aV\u0421\u041a\u0424\u041e
-p3097
+p3229
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3098
-aa(lp3099
+p3230
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3231
+aa(lp3232
 S'Adam Siddall'
-p3100
+p3233
 aS'2013'
-p3101
+p3234
 aS'Fly-half'
-p3102
+p3235
 aS'8'
 aS'3'
 aS'5'
 aS'0'
 aS'0'
 aS'52'
-p3103
+p3236
 aS'1988'
-p3104
+p3237
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3105
+p3238
 aV\u0421\u041a\u0424\u041e
-p3106
+p3239
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3107
-aa(lp3108
+p3240
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3241
+aa(lp3242
 S'Seamus Kelly'
-p3109
+p3243
 aS'2013'
-p3110
+p3244
 aS'Centre'
-p3111
+p3245
 aS'15'
-p3112
+p3246
 aS'4'
 aS'11'
-p3113
+p3247
 aS'0'
 aS'1'
 aS'5'
 aS'1991'
-p3114
+p3248
 aVNederland
-p3115
+p3249
 aV1991
-p3116
+p3250
 aVNederland
-p3117
-aa(lp3118
+p3251
+aVNoord-Holland
+p3252
+aa(lp3253
 S'Liam Murphy'
-p3119
+p3254
 aS'2013'
-p3120
+p3255
 aS'Flanker'
-p3121
+p3256
 aS'2'
 aS'0'
 aS'2'
@@ -8836,63 +9410,68 @@ aS'0'
 aS'0'
 aS'0'
 aS'1988'
-p3122
+p3257
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3123
+p3258
 aV\u0421\u041a\u0424\u041e
-p3124
+p3259
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3125
-aa(lp3126
+p3260
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3261
+aa(lp3262
 S'Nick Wallace'
-p3127
+p3263
 aS'2013'
-p3128
+p3264
 aS'Prop'
-p3129
+p3265
 aS'14'
-p3130
+p3266
 aS'5'
 aS'8'
 aS'1'
 aS'1'
 aS'5'
 aS'1989'
-p3131
+p3267
 aV\u010cesko
-p3132
+p3268
 aV43201
-p3133
+p3269
 aVSeverozápad
-p3134
-aa(lp3135
+p3270
+aVÚstecký kraj
+p3271
+aa(lp3272
 S'Cam Dolan'
-p3136
+p3273
 aS'2013'
-p3137
+p3274
 aS'No. 8'
-p3138
+p3275
 aS'10'
-p3139
+p3276
 aS'3'
 aS'6'
 aS'1'
 aS'2'
 aS'10'
-p3140
+p3277
 aS'United States'
-p3141
+p3278
 aVUnited States of America
-p3142
+p3279
 ag28
 ag28
-aa(lp3143
+ag28
+aa(lp3280
 S'Titi Lamositele'
-p3144
+p3281
 aS'2013'
-p3145
+p3282
 aS'Prop'
-p3146
+p3283
 aS'8'
 aS'3'
 aS'4'
@@ -8900,41 +9479,44 @@ aS'1'
 aS'0'
 aS'0'
 aS'1995'
-p3147
+p3284
 aVUnited States of America
-p3148
+p3285
 aV75497
-p3149
+p3286
 aVTexas
-p3150
-aa(lp3151
+p3287
+aVWood County
+p3288
+aa(lp3289
 S'Folau Niua'
-p3152
+p3290
 aS'2013'
-p3153
+p3291
 aS'Centre'
-p3154
+p3292
 aS'12'
-p3155
+p3293
 aS'5'
 aS'6'
 aS'1'
 aS'1'
 aS'19'
-p3156
+p3294
 aS'United States'
-p3157
+p3295
 aVUnited States of America
-p3158
+p3296
 ag28
 ag28
-aa(lp3159
+ag28
+aa(lp3297
 S'Tim Maupin'
-p3160
+p3298
 aS'2013'
-p3161
+p3299
 aS'Wing'
-p3162
+p3300
 aS'7'
 aS'3'
 aS'3'
@@ -8942,42 +9524,46 @@ aS'1'
 aS'0'
 aS'0'
 aS'1989'
-p3163
+p3301
 aV\u010cesko
-p3164
+p3302
 aV43201
-p3165
+p3303
 aVSeverozápad
-p3166
-aa(lp3167
+p3304
+aVÚstecký kraj
+p3305
+aa(lp3306
 S'Olive Kilifi'
-p3168
+p3307
 aS'2013'
-p3169
+p3308
 aS'Prop'
-p3170
+p3309
 aS'10'
-p3171
+p3310
 aS'5'
 aS'4'
 aS'1'
 aS'0'
 aS'0'
 aS'1986'
-p3172
+p3311
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3173
+p3312
 aV\u0421\u041a\u0424\u041e
-p3174
+p3313
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3175
-aa(lp3176
+p3314
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3315
+aa(lp3316
 S'Tai Tuisamoa'
-p3177
+p3317
 aS'2013'
-p3178
+p3318
 aS'Lock'
-p3179
+p3319
 aS'6'
 aS'3'
 aS'3'
@@ -8985,20 +9571,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1980'
-p3180
+p3320
 aVSverige
-p3181
+p3321
 aVSvealand
-p3182
+p3322
 aVVästmanlands län
-p3183
-aa(lp3184
+p3323
+aVVästerås
+p3324
+aa(lp3325
 S'Shaun Davies'
-p3185
+p3326
 aS'2013'
-p3186
+p3327
 aS'Scrum-half'
-p3187
+p3328
 aS'1'
 aS'1'
 aS'0'
@@ -9006,20 +9594,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1989'
-p3188
+p3329
 aV\u010cesko
-p3189
+p3330
 aV43201
-p3190
+p3331
 aVSeverozápad
-p3191
-aa(lp3192
+p3332
+aVÚstecký kraj
+p3333
+aa(lp3334
 S'Tom Coolican'
-p3193
+p3335
 aS'2014'
-p3194
+p3336
 aS'Hooker'
-p3195
+p3337
 aS'8'
 aS'3'
 aS'4'
@@ -9027,18 +9617,19 @@ aS'1'
 aS'0'
 aS'0'
 aS'United States'
-p3196
+p3338
 aVUnited States of America
-p3197
+p3339
 ag28
 ag28
-aa(lp3198
+ag28
+aa(lp3340
 S'Kyle Sumsion'
-p3199
+p3341
 aS'2014'
-p3200
+p3342
 aS'Flanker'
-p3201
+p3343
 aS'5'
 aS'1'
 aS'3'
@@ -9046,20 +9637,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'1990'
-p3202
+p3344
 aVPortugal
-p3203
+p3345
 aV1990
-p3204
+p3346
 aVLisboa
-p3205
-aa(lp3206
+p3347
+aVParque das Nações
+p3348
+aa(lp3349
 S'Shalom Suniula'
-p3207
+p3350
 aS'2014'
-p3208
+p3351
 aS'Halfback'
-p3209
+p3352
 aS'9'
 aS'3'
 aS'5'
@@ -9067,19 +9660,20 @@ aS'1'
 aS'1'
 aS'5'
 aS'American Samoa'
-p3210
+p3353
 aVUnited States of America
-p3211
+p3354
 aVAmerican Samoa
-p3212
+p3355
 ag28
-aa(lp3213
+ag28
+aa(lp3356
 S'Danny Barrett'
-p3214
+p3357
 aS'2014'
-p3215
+p3358
 aS'Flanker'
-p3216
+p3359
 aS'4'
 aS'1'
 aS'3'
@@ -9087,20 +9681,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1990'
-p3217
+p3360
 aVPortugal
-p3218
+p3361
 aV1990
-p3219
+p3362
 aVLisboa
-p3220
-aa(lp3221
+p3363
+aVParque das Nações
+p3364
+aa(lp3365
 S'Chad London'
-p3222
+p3366
 aS'2014'
-p3223
+p3367
 aS'Centre'
-p3224
+p3368
 aS'1'
 aS'0'
 aS'1'
@@ -9108,20 +9704,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p3225
+p3369
 aVSouth Africa
-p3226
+p3370
 aV2001
-p3227
+p3371
 aVGauteng
-p3228
-aa(lp3229
+p3372
+aVCity of Johannesburg Metropolitan Municipality
+p3373
+aa(lp3374
 S'Brett Thompson'
-p3230
+p3375
 aS'2014'
-p3231
+p3376
 aS'Wing'
-p3232
+p3377
 aS'2'
 aS'1'
 aS'1'
@@ -9129,42 +9727,46 @@ aS'0'
 aS'1'
 aS'5'
 aS'1990'
-p3233
+p3378
 aVPortugal
-p3234
+p3379
 aV1990
-p3235
+p3380
 aVLisboa
-p3236
-aa(lp3237
+p3381
+aVParque das Nações
+p3382
+aa(lp3383
 S'Tim Stanfill'
-p3238
+p3384
 aS'2014'
-p3239
+p3385
 aS'Wing'
-p3240
+p3386
 aS'4'
 aS'1'
 aS'3'
 aS'0'
 aS'2'
 aS'10'
-p3241
+p3387
 aS'1989'
-p3242
+p3388
 aV\u010cesko
-p3243
+p3389
 aV43201
-p3244
+p3390
 aVSeverozápad
-p3245
-aa(lp3246
+p3391
+aVÚstecký kraj
+p3392
+aa(lp3393
 S'Matt Trouville'
-p3247
+p3394
 aS'2014'
-p3248
+p3395
 aS'Flanker'
-p3249
+p3396
 aS'3'
 aS'1'
 aS'2'
@@ -9172,17 +9774,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p3250
+p3397
 aS'g'
 aS'n'
 aS'i'
-aa(lp3251
+aS's'
+aa(lp3398
 S'John Cullen'
-p3252
+p3399
 aS'2014'
-p3253
+p3400
 aS'Lock'
-p3254
+p3401
 aS'3'
 aS'1'
 aS'2'
@@ -9190,20 +9793,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1990'
-p3255
+p3402
 aVPortugal
-p3256
+p3403
 aV1990
-p3257
+p3404
 aVLisboa
-p3258
-aa(lp3259
+p3405
+aVParque das Nações
+p3406
+aa(lp3407
 S'Greg Peterson'
-p3260
+p3408
 aS'2014'
-p3261
+p3409
 aS'Lock'
-p3262
+p3410
 aS'3'
 aS'1'
 aS'2'
@@ -9211,19 +9816,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'NSW'
-p3263
+p3411
 aVAustralia
-p3264
+p3412
 aVNew South Wales
-p3265
+p3413
 ag28
-aa(lp3266
+ag28
+aa(lp3414
 S'Ben Tarr'
-p3267
+p3415
 aS'2014'
-p3268
+p3416
 aS'Prop'
-p3269
+p3417
 aS'2'
 aS'1'
 aS'1'
@@ -9231,20 +9837,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1994'
-p3270
+p3418
 aV\u010cesko
-p3271
+p3419
 aVJihozápad
-p3272
+p3420
 aVPlze\u0148ský kraj
-p3273
-aa(lp3274
+p3421
+aVokres Tachov
+p3422
+aa(lp3423
 S'Ronnie McLean-Dents'
-p3275
+p3424
 aS'2014'
-p3276
+p3425
 aS'Centre'
-p3277
+p3426
 aS'1'
 aS'0'
 aS'1'
@@ -9252,9 +9860,10 @@ aS'0'
 aS'0'
 aS'4'
 aS'United States'
-p3278
+p3427
 aVUnited States of America
-p3279
+p3428
+ag28
 ag28
 ag28
 aa.

@@ -20,55 +20,61 @@ aVSN16 9
 p8
 aVEngland
 p9
-aa(lp10
+aVSouth West England
+p10
+aa(lp11
 S'Bill Bisset'
-p11
-aS'1891'
 p12
-aS'Forward'
+aS'1891'
 p13
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Cape Town'
-p14
-aVSouth Africa
-p15
-aVWestern Cape
-p16
-aVCity of Cape Town
-p17
-aa(lp18
-S'Harry Boyes'
-p19
-aS'1891'
-p20
-aS'Wing'
-p21
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Cape Town'
-p22
-aVSouth Africa
-p23
-aVWestern Cape
-p24
-aVCity of Cape Town
-p25
-aa(lp26
-S'Herbert Castens'
-p27
-aS'1891'
-p28
 aS'Forward'
-p29
+p14
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Cape Town'
+p15
+aVSouth Africa
+p16
+aVWestern Cape
+p17
+aVCity of Cape Town
+p18
+aVCape Town
+p19
+aa(lp20
+S'Harry Boyes'
+p21
+aS'1891'
+p22
+aS'Wing'
+p23
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Cape Town'
+p24
+aVSouth Africa
+p25
+aVWestern Cape
+p26
+aVCity of Cape Town
+p27
+aVCape Town
+p28
+aa(lp29
+S'Herbert Castens'
+p30
+aS'1891'
+p31
+aS'Forward'
+p32
 aS'1'
 aS'0'
 aS'1'
@@ -76,20 +82,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'E Cape'
-p30
-aVUnited States of America
-p31
-aVAlaska
-p32
-aVAleutians West
 p33
-aa(lp34
-S'Tiger Devenish'
+aVUnited States of America
+p34
+aVAlaska
 p35
-aS'1891'
+aVAleutians West
 p36
-aS'Forward'
+aVEast Cape
 p37
+aa(lp38
+S'Tiger Devenish'
+p39
+aS'1891'
+p40
+aS'Forward'
+p41
 aS'1'
 aS'0'
 aS'1'
@@ -97,20 +105,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Victoria West'
-p38
+p42
 aVSouth Africa
-p39
-aVNorthern Cape
-p40
-aVPixley ka Seme District Municipality
-p41
-aa(lp42
-S'Ben Duff'
 p43
-aS'1891'
+aVNorthern Cape
 p44
-aS'Fullback'
+aVPixley ka Seme District Municipality
 p45
+aVVictoria West
+p46
+aa(lp47
+S'Ben Duff'
+p48
+aS'1891'
+p49
+aS'Fullback'
+p50
 aS'3'
 aS'0'
 aS'3'
@@ -118,20 +128,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Swellendam'
-p46
-aVSouth Africa
-p47
-aVWestern Cape
-p48
-aVOverberg District Municipality
-p49
-aa(lp50
-S'Frank Guthrie'
 p51
-aS'1891'
+aVSouth Africa
 p52
-aS'Halfback'
+aVWestern Cape
 p53
+aVOverberg District Municipality
+p54
+aVSwellendam
+p55
+aa(lp56
+S'Frank Guthrie'
+p57
+aS'1891'
+p58
+aS'Halfback'
+p59
 aS'3'
 aS'0'
 aS'3'
@@ -139,20 +151,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Notting Hill'
-p54
-aVUnited Kingdom
-p55
-aVW11
-p56
-aVEngland
-p57
-aa(lp58
-S'Frank Hamilton'
-p59
-aS'1891'
 p60
-aS'Forward'
+aVUnited Kingdom
 p61
+aVW11
+p62
+aVEngland
+p63
+aVGreater London
+p64
+aa(lp65
+S'Frank Hamilton'
+p66
+aS'1891'
+p67
+aS'Forward'
+p68
 aS'1'
 aS'0'
 aS'1'
@@ -160,20 +174,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p62
-aVSouth Africa
-p63
-aVWestern Cape
-p64
-aVCity of Cape Town
-p65
-aa(lp66
-S'Edward Little'
-p67
-aS'1891'
-p68
-aS'Forward'
 p69
+aVSouth Africa
+p70
+aVWestern Cape
+p71
+aVCity of Cape Town
+p72
+aVCape Town
+p73
+aa(lp74
+S'Edward Little'
+p75
+aS'1891'
+p76
+aS'Forward'
+p77
 aS'2'
 aS'0'
 aS'2'
@@ -181,20 +197,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Midlothian'
-p70
+p78
 aVUnited Kingdom
-p71
+p79
 aVScotland
-p72
+p80
 aVMidlothian
-p73
-aa(lp74
+p81
+aS'Missing'
+p82
+aa(lp83
 S'Japie Louw'
-p75
+p84
 aS'1891'
-p76
+p85
 aS'Forward'
-p77
+p86
 aS'3'
 aS'0'
 aS'3'
@@ -202,20 +220,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Fisantekraal'
-p78
+p87
 aVSouth Africa
-p79
+p88
 aVWestern Cape
-p80
+p89
 aVEden District Municipality
-p81
-aa(lp82
+p90
+aVHessequa Local Municipality
+p91
+aa(lp92
 S'George Merry'
-p83
+p93
 aS'1891'
-p84
+p94
 aS'Forward'
-p85
+p95
 aS'1'
 aS'0'
 aS'1'
@@ -223,20 +243,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1869'
-p86
+p96
 aVSvizra
-p87
+p97
 aVSvizzera
-p88
+p98
 aVSuisse
-p89
-aa(lp90
+p99
+aVSchweiz
+p100
+aa(lp101
 S'Alf Richards'
-p91
+p102
 aS'1891'
-p92
+p103
 aS'Halfback'
-p93
+p104
 aS'3'
 aS'0'
 aS'3'
@@ -244,20 +266,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Grahamstown'
-p94
+p105
 aVSouth Africa
-p95
+p106
 aVEastern Cape
-p96
+p107
 aVSarah Baartman District Municipality
-p97
-aa(lp98
+p108
+aVGrahamstown
+p109
+aa(lp110
 S'Mosey van Buuren'
-p99
+p111
 aS'1891'
-p100
+p112
 aS'Wing'
-p101
+p113
 aS'1'
 aS'0'
 aS'1'
@@ -265,20 +289,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Burgersdorp'
-p102
+p114
 aVSouth Africa
-p103
+p115
 aVEastern Cape
-p104
+p116
 aVJoe Gqabi District Municipality
-p105
-aa(lp106
+p117
+aVBurgersdorp
+p118
+aa(lp119
 S'Oupa Versfeld'
-p107
+p120
 aS'1891'
-p108
+p121
 aS'Forward'
-p109
+p122
 aS'3'
 aS'0'
 aS'3'
@@ -286,20 +312,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p110
+p123
 aVSouth Africa
-p111
+p124
 aVWestern Cape
-p112
+p125
 aVCity of Cape Town
-p113
-aa(lp114
+p126
+aVCape Town
+p127
+aa(lp128
 S'Chubb Vigne'
-p115
+p129
 aS'1891'
-p116
+p130
 aS'Centre'
-p117
+p131
 aS'3'
 aS'0'
 aS'3'
@@ -307,20 +335,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Fort Beaufort'
-p118
+p132
 aVSouth Africa
-p119
+p133
 aVEastern Cape
-p120
+p134
 aVAmathole District Municipality
-p121
-aa(lp122
+p135
+aVFort Beaufort
+p136
+aa(lp137
 S'Sas de Kock'
-p123
+p138
 aS'1891'
-p124
+p139
 aS'Wing'
-p125
+p140
 aS'1'
 aS'0'
 aS'1'
@@ -328,20 +358,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hopetown'
-p126
+p141
 aVSouth Africa
-p127
+p142
 aVNorthern Cape
-p128
+p143
 aVPixley ka Seme District Municipality
-p129
-aa(lp130
+p144
+aVHopetown
+p145
+aa(lp146
 S'Fairy Heatlie'
-p131
+p147
 aS'1891'
-p132
+p148
 aS'Forward'
-p133
+p149
 aS'7'
 aS'2'
 aS'4'
@@ -349,17 +381,18 @@ aS'1'
 aS'0'
 aS'6'
 aS'Cape Prov'
-p134
+p150
 aS'g'
 aS'n'
 aS'i'
-aa(lp135
+aS's'
+aa(lp151
 S'Jackie Powell'
-p136
+p152
 aS'1891'
-p137
+p153
 aS'Halfback'
-p138
+p154
 aS'4'
 aS'0'
 aS'2'
@@ -367,48 +400,6 @@ aS'2'
 aS'0'
 aS'0'
 aS'Cape Town'
-p139
-aVSouth Africa
-p140
-aVWestern Cape
-p141
-aVCity of Cape Town
-p142
-aa(lp143
-S'Bob Shand'
-p144
-aS'1891'
-p145
-aS'Forward'
-p146
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Tulbagh'
-p147
-aVSouth Africa
-p148
-aVWestern Cape
-p149
-aVCape Winelands District Municipality
-p150
-aa(lp151
-S'Toski Smith'
-p152
-aS'1891'
-p153
-aS'Forward'
-p154
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Wynberg'
 p155
 aVSouth Africa
 p156
@@ -416,13 +407,61 @@ aVWestern Cape
 p157
 aVCity of Cape Town
 p158
-aa(lp159
-S'Dan Smith'
-p160
-aS'1891'
+aVCape Town
+p159
+aa(lp160
+S'Bob Shand'
 p161
-aS'Forward'
+aS'1891'
 p162
+aS'Forward'
+p163
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Tulbagh'
+p164
+aVSouth Africa
+p165
+aVWestern Cape
+p166
+aVCape Winelands District Municipality
+p167
+aVTulbagh
+p168
+aa(lp169
+S'Toski Smith'
+p170
+aS'1891'
+p171
+aS'Forward'
+p172
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Wynberg'
+p173
+aVSouth Africa
+p174
+aVWestern Cape
+p175
+aVCity of Cape Town
+p176
+aVCape Town
+p177
+aa(lp178
+S'Dan Smith'
+p179
+aS'1891'
+p180
+aS'Forward'
+p181
 aS'1'
 aS'0'
 aS'1'
@@ -430,20 +469,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p163
+p182
 aVSouth Africa
-p164
+p183
 aVKwaZulu-Natal
-p165
+p184
 aVeThekwini Metropolitan Municipality
-p166
-aa(lp167
+p185
+aVDurban
+p186
+aa(lp187
 S'Bob Snedden'
-p168
+p188
 aS'1891'
-p169
+p189
 aS'Forward'
-p170
+p190
 aS'1'
 aS'0'
 aS'1'
@@ -451,20 +492,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kirkgate'
-p171
+p191
 aVUnited Kingdom
-p172
+p192
 aVLS2 7DY
-p173
+p193
 aVEngland
-p174
-aa(lp175
+p194
+aVYorkshire and the Humber
+p195
+aa(lp196
 S'Wilfred Trenery'
-p176
+p197
 aS'1891'
-p177
+p198
 aS'Forward'
-p178
+p199
 aS'1'
 aS'0'
 aS'1'
@@ -472,20 +515,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cornwall'
-p179
+p200
 aVUnited Kingdom
-p180
+p201
 aVEngland
-p181
+p202
 aVSouth West England
-p182
-aa(lp183
+p203
+aVCornwall
+p204
+aa(lp205
 S'Charlie Chignell'
-p184
+p206
 aS'1891'
-p185
+p207
 aS'Forward'
-p186
+p208
 aS'1'
 aS'0'
 aS'1'
@@ -493,20 +538,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Devon'
-p187
+p209
 aVUnited Kingdom
-p188
+p210
 aVEngland
-p189
+p211
 aVSouth West England
-p190
-aa(lp191
+p212
+aVDevon
+p213
+aa(lp214
 S'Jack Hartley'
-p192
+p215
 aS'1891'
-p193
+p216
 aS'Wing'
-p194
+p217
 aS'1'
 aS'0'
 aS'1'
@@ -514,20 +561,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Krugersdorp'
-p195
+p218
 aVSouth Africa
-p196
+p219
 aVGauteng
-p197
+p220
 aVWest Rand District Municipality
-p198
-aa(lp199
+p221
+aVKrugersdorp
+p222
+aa(lp223
 S'Jim McKendrick'
-p200
+p224
 aS'1891'
-p201
+p225
 aS'Flanker'
-p202
+p226
 aS'1'
 aS'0'
 aS'1'
@@ -535,20 +584,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Stellenbosch'
-p203
+p227
 aVSouth Africa
-p204
+p228
 aVWestern Cape
-p205
+p229
 aVCape Winelands District Municipality
-p206
-aa(lp207
+p230
+aVStellenbosch
+p231
+aa(lp232
 S'Charlie van Renen'
-p208
+p233
 aS'1891'
-p209
+p234
 aS'Forward'
-p210
+p235
 aS'3'
 aS'1'
 aS'2'
@@ -556,20 +607,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Constantia'
-p211
+p236
 aVRomânia
-p212
+p237
 aVConstan\u021ba
-p213
-aS'Missing'
-p214
-aa(lp215
+p238
+ag82
+ag82
+aa(lp239
 S'Hasie Versfeld'
-p216
+p240
 aS'1891'
-p217
+p241
 aS'Wing'
-p218
+p242
 aS'1'
 aS'0'
 aS'1'
@@ -577,20 +628,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wynberg'
-p219
+p243
 aVSouth Africa
-p220
+p244
 aVWestern Cape
-p221
+p245
 aVCity of Cape Town
-p222
-aa(lp223
+p246
+aVCape Town
+p247
+aa(lp248
 S'Biddy Anderson'
-p224
+p249
 aS'1896'
-p225
+p250
 aS'Centre'
-p226
+p251
 aS'3'
 aS'1'
 aS'2'
@@ -598,20 +651,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kimberley'
-p227
+p252
 aVSouth Africa
-p228
+p253
 aVNorthern Cape
-p229
+p254
 aVFrances Baard District Municipality
-p230
-aa(lp231
+p255
+aVKimberley
+p256
+aa(lp257
 S'Ferdy Aston'
-p232
+p258
 aS'1896'
-p233
+p259
 aS'Wing'
-p234
+p260
 aS'4'
 aS'1'
 aS'3'
@@ -619,20 +674,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cheltenham'
-p235
+p261
 aVUnited Kingdom
-p236
+p262
 aVEngland
-p237
+p263
 aVSouth West England
-p238
-aa(lp239
+p264
+aVGloucestershire
+p265
+aa(lp266
 S'Mike Bredenkamp'
-p240
+p267
 aS'1896'
-p241
+p268
 aS'Forward'
-p242
+p269
 aS'2'
 aS'0'
 aS'2'
@@ -640,99 +697,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kimberley'
-p243
-aVSouth Africa
-p244
-aVNorthern Cape
-p245
-aVFrances Baard District Municipality
-p246
-aa(lp247
-S'Frank Douglass'
-p248
-aS'1896'
-p249
-aS'Forward'
-p250
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Grahamstown'
-p251
-aVSouth Africa
-p252
-aVEastern Cape
-p253
-aVSarah Baartman District Municipality
-p254
-aa(lp255
-S'Corbett Gorton'
-p256
-aS'1896'
-p257
-aS'Forward'
-p258
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Burton Extra'
-p259
-aVUnited Kingdom
-p260
-aVME2 4LP
-p261
-aVEngland
-p262
-aa(lp263
-S'Dykie Lyons'
-p264
-aS'1896'
-p265
-aS'Fullback'
-p266
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Port Elizabeth'
-p267
-aVSouth Africa
-p268
-aVEastern Cape
-p269
-aVNelson Mandela Bay Metropolitan Municipality
 p270
-aa(lp271
-S'PJ Meyer'
+aVSouth Africa
+p271
+aVNorthern Cape
 p272
-aS'1896'
+aVFrances Baard District Municipality
 p273
-aS'Forward'
+aVKimberley
 p274
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'?'
-aS'g'
-aS'n'
-aS'i'
 aa(lp275
-S'Francis Myburgh'
+S'Frank Douglass'
 p276
 aS'1896'
 p277
-aS'Halfback'
+aS'Forward'
 p278
 aS'1'
 aS'0'
@@ -740,21 +719,110 @@ aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'Cape Town'
+aS'Grahamstown'
 p279
 aVSouth Africa
 p280
-aVWestern Cape
+aVEastern Cape
 p281
-aVCity of Cape Town
+aVSarah Baartman District Municipality
 p282
-aa(lp283
-S'Ernest Olver'
-p284
-aS'1896'
+aVGrahamstown
+p283
+aa(lp284
+S'Corbett Gorton'
 p285
-aS'Wing'
+aS'1896'
 p286
+aS'Forward'
+p287
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Burton Extra'
+p288
+aVUnited Kingdom
+p289
+aVME2 4LP
+p290
+aVEngland
+p291
+aVSouth East
+p292
+aa(lp293
+S'Dykie Lyons'
+p294
+aS'1896'
+p295
+aS'Fullback'
+p296
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Port Elizabeth'
+p297
+aVSouth Africa
+p298
+aVEastern Cape
+p299
+aVNelson Mandela Bay Metropolitan Municipality
+p300
+aVPort Elizabeth
+p301
+aa(lp302
+S'PJ Meyer'
+p303
+aS'1896'
+p304
+aS'Forward'
+p305
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'?'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp306
+S'Francis Myburgh'
+p307
+aS'1896'
+p308
+aS'Halfback'
+p309
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cape Town'
+p310
+aVSouth Africa
+p311
+aVWestern Cape
+p312
+aVCity of Cape Town
+p313
+aVCape Town
+p314
+aa(lp315
+S'Ernest Olver'
+p316
+aS'1896'
+p317
+aS'Wing'
+p318
 aS'1'
 aS'0'
 aS'1'
@@ -762,20 +830,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cornwall'
-p287
+p319
 aVUnited Kingdom
-p288
+p320
 aVEngland
-p289
+p321
 aVSouth West England
-p290
-aa(lp291
+p322
+aVCornwall
+p323
+aa(lp324
 S'Paul Scott'
-p292
+p325
 aS'1896'
-p293
+p326
 aS'Forward'
-p294
+p327
 aS'4'
 aS'1'
 aS'3'
@@ -783,19 +853,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'New Brunswick'
-p295
+p328
 aVCanada
-p296
+p329
 aVNew Brunswick
-p297
-ag214
-aa(lp298
+p330
+ag82
+ag82
+aa(lp331
 S'Percy Twentyman-Jones'
-p299
+p332
 aS'1896'
-p300
+p333
 aS'Wing'
-p301
+p334
 aS'3'
 aS'1'
 aS'2'
@@ -803,20 +874,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Cape Col.'
-p302
+p335
 aVUnited States of America
-p303
+p336
 aV78045
-p304
+p337
 aVTexas
-p305
-aa(lp306
+p338
+aVWebb County
+p339
+aa(lp340
 S'Scraps Wessels'
-p307
+p341
 aS'1896'
-p308
+p342
 aS'Forward'
-p309
+p343
 aS'3'
 aS'0'
 aS'3'
@@ -824,20 +897,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Boshof'
-p310
+p344
 aVSouth Africa
-p311
+p345
 aVFree State
-p312
+p346
 aVLejweleputswa District Municipality
-p313
-aa(lp314
+p347
+aVBoshof
+p348
+aa(lp349
 S'Ben Andrew'
-p315
+p350
 aS'1896'
-p316
+p351
 aS'Forward'
-p317
+p352
 aS'1'
 aS'0'
 aS'1'
@@ -845,20 +920,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lancs'
-p318
+p353
 aVUnited Kingdom
-p319
+p354
 aVS6 3TB
-p320
+p355
 aVEngland
-p321
-aa(lp322
+p356
+aVYorkshire and the Humber
+p357
+aa(lp358
 S'Allan Beswick'
-p323
+p359
 aS'1896'
-p324
+p360
 aS'Forward'
-p325
+p361
 aS'3'
 aS'1'
 aS'2'
@@ -866,20 +943,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Queenstown'
-p326
+p362
 aVNew Zealand/Aotearoa
-p327
+p363
 aVOtago
-p328
+p364
 aVQueenstown-Lakes District
-p329
-aa(lp330
+p365
+aVQueenstown
+p366
+aa(lp367
 S'Davie Cope'
-p331
+p368
 aS'1896'
-p332
+p369
 aS'Fullback'
-p333
+p370
 aS'1'
 aS'0'
 aS'1'
@@ -887,20 +966,22 @@ aS'0'
 aS'0'
 aS'2'
 aS'Kimberley'
-p334
+p371
 aVSouth Africa
-p335
+p372
 aVNorthern Cape
-p336
+p373
 aVFrances Baard District Municipality
-p337
-aa(lp338
+p374
+aVKimberley
+p375
+aa(lp376
 S'Jim Crosby'
-p339
+p377
 aS'1896'
-p340
+p378
 aS'Forward'
-p341
+p379
 aS'1'
 aS'0'
 aS'1'
@@ -908,20 +989,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p342
+p380
 aVSouth Africa
-p343
+p381
 aVWestern Cape
-p344
+p382
 aVCity of Cape Town
-p345
-aa(lp346
+p383
+aVCape Town
+p384
+aa(lp385
 S'Charles Devenish'
-p347
+p386
 aS'1896'
-p348
+p387
 aS'Forward'
-p349
+p388
 aS'1'
 aS'0'
 aS'1'
@@ -929,20 +1012,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Victoria West'
-p350
+p389
 aVSouth Africa
-p351
+p390
 aVNorthern Cape
-p352
+p391
 aVPixley ka Seme District Municipality
-p353
-aa(lp354
+p392
+aVVictoria West
+p393
+aa(lp394
 S'George Devenish'
-p355
+p395
 aS'1896'
-p356
+p396
 aS'Halfback'
-p357
+p397
 aS'1'
 aS'0'
 aS'1'
@@ -950,34 +1035,37 @@ aS'0'
 aS'0'
 aS'0'
 aS'Riversdale District'
-p358
+p398
 aVSouth Africa
-p359
+p399
 aVWestern Cape
-p360
+p400
 aVEden District Municipality
-p361
-aa(lp362
+p401
+aVRiversdale
+p402
+aa(lp403
 S'Spanner Forbes'
-p363
+p404
 aS'1896'
-p364
+p405
 aS'Centre'
-p365
+p406
 aNaNaNaNaNaNaS'Victoria'
-p366
+p407
 aVAustralia
-p367
+p408
 aVVictoria
-p368
-ag214
-aa(lp369
+p409
+ag82
+ag82
+aa(lp410
 S'Alf Larard'
-p370
+p411
 aS'1896'
-p371
+p412
 aS'Halfback'
-p372
+p413
 aS'2'
 aS'1'
 aS'1'
@@ -985,20 +1073,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Kingston-upon-Hull'
-p373
+p414
 aVUnited Kingdom
-p374
+p415
 aVEngland
-p375
+p416
 aVYorkshire and the Humber
-p376
-aa(lp377
+p417
+aVKingston upon Hull
+p418
+aa(lp419
 S'Tom Mellet'
-p378
+p420
 aS'1896'
-p379
+p421
 aS'Forward'
-p380
+p422
 aS'1'
 aS'0'
 aS'1'
@@ -1006,20 +1096,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Potchefstroom'
-p381
+p423
 aVSouth Africa
-p382
+p424
 aVNorth West
-p383
+p425
 aVDr Kenneth Kaunda District Municipality
-p384
-aa(lp385
+p426
+aVPotchefstroom
+p427
+aa(lp428
 S'Theo Samuels'
-p386
+p429
 aS'1896'
-p387
+p430
 aS'Fullback'
-p388
+p431
 aS'3'
 aS'1'
 aS'2'
@@ -1027,20 +1119,21 @@ aS'0'
 aS'2'
 aS'6'
 aS'George'
-p389
+p432
 aVUnited States of America
-p390
+p433
 aVMississippi
-p391
+p434
 aVGeorge
-p392
-aa(lp393
+p435
+ag82
+aa(lp436
 S'Bill Taberer'
-p394
+p437
 aS'1896'
-p395
+p438
 aS'Centre'
-p396
+p439
 aS'1'
 aS'0'
 aS'1'
@@ -1048,20 +1141,22 @@ aS'0'
 aS'0'
 aS'0'
 aS"King William's Town"
-p397
+p440
 aVSouth Africa
-p398
+p441
 aVEastern Cape
-p399
+p442
 aVBuffalo City Metropolitan Municipality
-p400
-aa(lp401
+p443
+aVKing William's Town
+p444
+aa(lp445
 S'Bill Cotty'
-p402
+p446
 aS'1896'
-p403
+p447
 aS'Halfback'
-p404
+p448
 aS'1'
 aS'0'
 aS'1'
@@ -1069,20 +1164,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kimberley'
-p405
+p449
 aVSouth Africa
-p406
+p450
 aVNorthern Cape
-p407
+p451
 aVFrances Baard District Municipality
-p408
-aa(lp409
+p452
+aVKimberley
+p453
+aa(lp454
 S'Pieter Dormehl'
-p410
+p455
 aS'1896'
-p411
+p456
 aS'Forward'
-p412
+p457
 aS'2'
 aS'1'
 aS'1'
@@ -1090,20 +1187,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p413
+p458
 aVSouth Africa
-p414
+p459
 aVWestern Cape
-p415
+p460
 aVCity of Cape Town
-p416
-aa(lp417
+p461
+aVCape Town
+p462
+aa(lp463
 S'Ted Kelly'
-p418
+p464
 aS'1896'
-p419
+p465
 aS'Forward'
-p420
+p466
 aS'1'
 aS'0'
 aS'1'
@@ -1111,20 +1210,22 @@ aS'0'
 aS'0'
 aS'0'
 aS"King William's Town"
-p421
+p467
 aVSouth Africa
-p422
+p468
 aVEastern Cape
-p423
+p469
 aVBuffalo City Metropolitan Municipality
-p424
-aa(lp425
+p470
+aVKing William's Town
+p471
+aa(lp472
 S'Bertie Powell'
-p426
+p473
 aS'1896'
-p427
+p474
 aS'Centre'
-p428
+p475
 aS'1'
 aS'0'
 aS'1'
@@ -1132,20 +1233,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kimberley'
-p429
+p476
 aVSouth Africa
-p430
+p477
 aVNorthern Cape
-p431
+p478
 aVFrances Baard District Municipality
-p432
-aa(lp433
+p479
+aVKimberley
+p480
+aa(lp481
 S'Danie Theunissen'
-p434
+p482
 aS'1896'
-p435
+p483
 aS'Forward'
-p436
+p484
 aS'1'
 aS'0'
 aS'1'
@@ -1153,20 +1256,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Somerset West'
-p437
+p485
 aVSouth Africa
-p438
+p486
 aVWestern Cape
-p439
+p487
 aVCity of Cape Town
-p440
-aa(lp441
+p488
+aVSomerset West
+p489
+aa(lp490
 S'Patats Cloete'
-p442
+p491
 aS'1896'
-p443
+p492
 aS'Forward'
-p444
+p493
 aS'1'
 aS'1'
 aS'0'
@@ -1174,20 +1279,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p445
+p494
 aVSouth Africa
-p446
+p495
 aVWestern Cape
-p447
+p496
 aVCity of Cape Town
-p448
-aa(lp449
+p497
+aVCape Town
+p498
+aa(lp499
 S'Paul de Waal'
-p450
+p500
 aS'1896'
-p451
+p501
 aS'Forward'
-p452
+p502
 aS'1'
 aS'1'
 aS'0'
@@ -1195,17 +1302,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'nr.Kanonkop'
-p453
+p503
 aS'g'
 aS'n'
 aS'i'
-aa(lp454
+aS's'
+aa(lp504
 S'Tommy Etlinger'
-p455
+p505
 aS'1896'
-p456
+p506
 aS'Halfback'
-p457
+p507
 aS'1'
 aS'1'
 aS'0'
@@ -1213,20 +1321,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'London'
-p458
+p508
 aVUnited Kingdom
-p459
+p509
 aVEngland
-p460
+p510
 aVGreater London
-p461
-aa(lp462
+p511
+aVLondon
+p512
+aa(lp513
 S'Tommy Hepburn'
-p463
+p514
 aS'1896'
-p464
+p515
 aS'Centre'
-p465
+p516
 aS'1'
 aS'1'
 aS'0'
@@ -1234,17 +1344,18 @@ aS'0'
 aS'0'
 aS'2'
 aS'Bechuanala'
-p466
+p517
 aS'g'
 aS'n'
 aS'i'
-aa(lp467
+aS's'
+aa(lp518
 S'Herman van Broekhuizen'
-p468
+p519
 aS'1896'
-p469
+p520
 aS'Forward'
-p470
+p521
 aS'1'
 aS'1'
 aS'0'
@@ -1252,20 +1363,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Netherland'
-p471
+p522
 aVPhilippines
-p472
+p523
 aV4023
-p473
+p524
 aVCalabarzon
-p474
-aa(lp475
+p525
+aVLaguna
+p526
+aa(lp527
 S'Joe Barry'
-p476
+p528
 aS'1903'
-p477
+p529
 aS'Wing'
-p478
+p530
 aS'3'
 aS'1'
 aS'0'
@@ -1273,20 +1386,22 @@ aS'2'
 aS'1'
 aS'3'
 aS'Robertson District'
-p479
+p531
 aVSouth Africa
-p480
+p532
 aVWestern Cape
-p481
+p533
 aVCape Winelands District Municipality
-p482
-aa(lp483
+p534
+aVRobertson
+p535
+aa(lp536
 S'Charlie Brown'
-p484
+p537
 aS'1903'
-p485
+p538
 aS'Forward'
-p486
+p539
 aS'3'
 aS'1'
 aS'0'
@@ -1294,19 +1409,20 @@ aS'2'
 aS'0'
 aS'0'
 aS'South-West Africa'
-p487
+p540
 aVBurkina Faso
-p488
+p541
 aVSud-Ouest
-p489
-ag214
-aa(lp490
+p542
+ag82
+ag82
+aa(lp543
 S'Uncle Dobbin'
-p491
+p544
 aS'1903'
-p492
+p545
 aS'Halfback'
-p493
+p546
 aS'9'
 aS'5'
 aS'1'
@@ -1314,20 +1430,22 @@ aS'3'
 aS'1'
 aS'3'
 aS'Bethulie'
-p494
+p547
 aVSouth Africa
-p495
+p548
 aVFree State
-p496
+p549
 aVXhariep District Municipality
-p497
-aa(lp498
+p550
+aVBethulie
+p551
+aa(lp552
 S'Alex Frew'
-p499
+p553
 aS'1901'
-p500
+p554
 aS'Forward'
-p501
+p555
 aS'4'
 aS'3'
 aS'0'
@@ -1335,20 +1453,21 @@ aS'1'
 aS'1'
 aS'3'
 aS'Ayrshire'
-p502
+p556
 aVUnited Kingdom
-p503
+p557
 aVScotland
-p504
+p558
 aVAyrshire
-p505
-aa(lp506
+p559
+ag82
+aa(lp560
 S'Charlie Jones'
-p507
+p561
 aS'1903'
-p508
+p562
 aS'Fullback'
-p509
+p563
 aS'2'
 aS'0'
 aS'0'
@@ -1356,20 +1475,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Kimberley'
-p510
+p564
 aVSouth Africa
-p511
+p565
 aVNorthern Cape
-p512
+p566
 aVFrances Baard District Municipality
-p513
-aa(lp514
+p567
+aVKimberley
+p568
+aa(lp569
 S'Japie Krige'
-p515
+p570
 aS'1903'
-p516
+p571
 aS'Centre'
-p517
+p572
 aS'5'
 aS'3'
 aS'1'
@@ -1377,42 +1498,45 @@ aS'1'
 aS'1'
 aS'3'
 aS'Klein Drakenstein'
-p518
+p573
 aVSouth Africa
-p519
+p574
 aVWestern Cape
-p520
+p575
 aVCape Winelands District Municipality
-p521
-aa(lp522
+p576
+aVDrakenstein Local Municipality
+p577
+aa(lp578
 S'Willie McEwan'
-p523
+p579
 aS'1894'
-p524
+p580
 aS'Forward'
-p525
+p581
 aS'18'
-p526
+p582
 aS'9'
 aS'5'
 aS'4'
 aS'1'
 aS'3'
 aS'Edinburgh'
-p527
+p583
 aVUnited Kingdom
-p528
+p584
 aVScotland
-p529
+p585
 aVCity of Edinburgh
-p530
-aa(lp531
+p586
+ag82
+aa(lp587
 S'Andrew Morkel'
-p532
+p588
 aS'1903'
-p533
+p589
 aS'Wing'
-p534
+p590
 aS'1'
 aS'0'
 aS'0'
@@ -1420,20 +1544,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Somerset West'
-p535
+p591
 aVSouth Africa
-p536
+p592
 aVWestern Cape
-p537
+p593
 aVCity of Cape Town
-p538
-aa(lp539
+p594
+aVSomerset West
+p595
+aa(lp596
 S'PO Nel'
-p540
+p597
 aS'1903'
-p541
+p598
 aS'Forward'
-p542
+p599
 aS'3'
 aS'1'
 aS'0'
@@ -1441,20 +1567,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Natal'
-p543
+p600
 aVBrasil
-p544
+p601
 aVRegião Nordeste
-p545
+p602
 aVRN
-p546
-aa(lp547
+p603
+aVMesorregião do Leste Potiguar
+p604
+aa(lp605
 S'Birdie Partridge'
-p548
+p606
 aS'1903'
-p549
+p607
 aS'Forward'
-p550
+p608
 aS'1'
 aS'0'
 aS'0'
@@ -1462,20 +1590,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Llanthewy Skirrid'
-p551
+p609
 aVUnited Kingdom
-p552
+p610
 aVWales
-p553
+p611
 aVMonmouthshire
-p554
-aa(lp555
+p612
+aVLlanthewy Skirrid
+p613
+aa(lp614
 S'Klondyke Raaff'
-p556
+p615
 aS'1903'
-p557
+p616
 aS'Forward'
-p558
+p617
 aS'6'
 aS'2'
 aS'1'
@@ -1483,20 +1613,22 @@ aS'3'
 aS'1'
 aS'3'
 aS'Cape Town'
-p559
+p618
 aVSouth Africa
-p560
+p619
 aVWestern Cape
-p561
+p620
 aVCity of Cape Town
-p562
-aa(lp563
+p621
+aVCape Town
+p622
+aa(lp623
 S'Jimmy Sinclair'
-p564
+p624
 aS'1903'
-p565
+p625
 aS'Forward'
-p566
+p626
 aS'1'
 aS'0'
 aS'0'
@@ -1504,20 +1636,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cape Col.'
-p567
+p627
 aVUnited States of America
-p568
+p628
 aV78045
-p569
+p629
 aVTexas
-p570
-aa(lp571
+p630
+aVWebb County
+p631
+aa(lp632
 S'Bertie van Renen'
-p572
+p633
 aS'1903'
-p573
+p634
 aS'Fullback'
-p574
+p635
 aS'2'
 aS'1'
 aS'0'
@@ -1525,19 +1659,20 @@ aS'1'
 aS'0'
 aS'0'
 aS'Constantia'
-p575
+p636
 aVRomânia
-p576
+p637
 aVConstan\u021ba
-p577
-ag214
-aa(lp578
+p638
+ag82
+ag82
+aa(lp639
 S'Syd Ashley'
-p579
+p640
 aS'1903'
-p580
+p641
 aS'Centre'
-p581
+p642
 aS'1'
 aS'0'
 aS'0'
@@ -1545,20 +1680,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cape Town'
-p582
+p643
 aVSouth Africa
-p583
+p644
 aVWestern Cape
-p584
+p645
 aVCity of Cape Town
-p585
-aa(lp586
+p646
+aVCape Town
+p647
+aa(lp648
 S'George Crampton'
-p587
+p649
 aS'1903'
-p588
+p650
 aS'Forward'
-p589
+p651
 aS'1'
 aS'0'
 aS'0'
@@ -1566,20 +1703,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Aughrim'
-p590
+p652
 aVRepublic of Ireland
-p591
+p653
 aVLeinster
-p592
+p654
 aVCounty Wicklow
-p593
-aa(lp594
+p655
+aVAughrim
+p656
+aa(lp657
 S'Clem Currie'
-p595
+p658
 aS'1903'
-p596
+p659
 aS'Forward'
-p597
+p660
 aS'1'
 aS'0'
 aS'0'
@@ -1587,20 +1726,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Grahamstown'
-p598
+p661
 aVSouth Africa
-p599
+p662
 aVEastern Cape
-p600
+p663
 aVSarah Baartman District Municipality
-p601
-aa(lp602
+p664
+aVGrahamstown
+p665
+aa(lp666
 S'Syd de Melker'
-p603
+p667
 aS'1903'
-p604
+p668
 aS'Centre'
-p605
+p669
 aS'2'
 aS'0'
 aS'0'
@@ -1608,20 +1749,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Kimberley'
-p606
+p670
 aVSouth Africa
-p607
+p671
 aVNorthern Cape
-p608
+p672
 aVFrances Baard District Municipality
-p609
-aa(lp610
+p673
+aVKimberley
+p674
+aa(lp675
 S'Bertie Gibbs'
-p611
+p676
 aS'1903'
-p612
+p677
 aS'Wing'
-p613
+p678
 aS'1'
 aS'0'
 aS'0'
@@ -1629,20 +1772,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kimberley'
-p614
+p679
 aVSouth Africa
-p615
+p680
 aVNorthern Cape
-p616
+p681
 aVFrances Baard District Municipality
-p617
-aa(lp618
+p682
+aVKimberley
+p683
+aa(lp684
 S'Jack Jackson'
-p619
+p685
 aS'1903'
-p620
+p686
 aS'Forward'
-p621
+p687
 aS'1'
 aS'0'
 aS'0'
@@ -1650,20 +1795,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Victoria West'
-p622
+p688
 aVSouth Africa
-p623
+p689
 aVNorthern Cape
-p624
+p690
 aVPixley ka Seme District Municipality
-p625
-aa(lp626
+p691
+aVVictoria West
+p692
+aa(lp693
 S'Rajah Martheze'
-p627
+p694
 aS'1903'
-p628
+p695
 aS'Forward'
-p629
+p696
 aS'3'
 aS'2'
 aS'0'
@@ -1671,20 +1818,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cape Province'
-p630
+p697
 aVSolomon Islands
-p631
+p698
 aVTemotu Province
-p632
+p699
 aVNeo
-p633
-aa(lp634
+p700
+aVCape Trevanion
+p701
+aa(lp702
 S'Henry Metcalf'
-p635
+p703
 aS'1903'
-p636
+p704
 aS'Forward'
-p637
+p705
 aS'1'
 aS'0'
 aS'0'
@@ -1692,20 +1841,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Caledon'
-p638
+p706
 aVCanada
-p639
+p707
 aVOntario
-p640
+p708
 aVPeel Region
-p641
-aa(lp642
+p709
+aVCaledon
+p710
+aa(lp711
 S'Jock Anderson'
-p643
+p712
 aS'1903'
-p644
+p713
 aS'Forward'
-p645
+p714
 aS'1'
 aS'1'
 aS'0'
@@ -1713,20 +1864,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p646
+p715
 aVSouth Africa
-p647
+p716
 aVWestern Cape
-p648
+p717
 aVCity of Cape Town
-p649
-aa(lp650
+p718
+aVCape Town
+p719
+aa(lp720
 S'John Botha'
-p651
+p721
 aS'1903'
-p652
+p722
 aS'Forward'
-p653
+p723
 aS'1'
 aS'1'
 aS'0'
@@ -1734,20 +1887,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p654
+p724
 aVSouth Africa
-p655
+p725
 aVWestern Cape
-p656
+p726
 aVCity of Cape Town
-p657
-aa(lp658
+p727
+aVCape Town
+p728
+aa(lp729
 S'Paddy Carolin'
-p659
+p730
 aS'1903'
-p660
+p731
 aS'Halfback'
-p661
+p732
 aS'3'
 aS'2'
 aS'1'
@@ -1755,19 +1910,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'E Province'
-p662
+p733
 aVRwanda
-p663
+p734
 aVIburasirasuba
-p664
-ag214
-aa(lp665
+p735
+ag82
+ag82
+aa(lp736
 S'Hugh Ferris'
-p666
+p737
 aS'1901'
-p667
+p738
 aS'Scrum-half'
-p668
+p739
 aS'2'
 aS'1'
 aS'1'
@@ -1775,20 +1931,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Co Down'
-p669
+p740
 aVUnited Kingdom
-p670
+p741
 aVNorthern Ireland
-p671
+p742
 aVCounty Down
-p672
-aa(lp673
+p743
+ag82
+aa(lp744
 S'Tommy Hobson'
-p674
+p745
 aS'1903'
-p675
+p746
 aS'Halfback'
-p676
+p747
 aS'1'
 aS'1'
 aS'0'
@@ -1796,20 +1953,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Somerset East'
-p677
+p748
 aVSouth Africa
-p678
+p749
 aVEastern Cape
-p679
+p750
 aVSarah Baartman District Municipality
-p680
-aa(lp681
+p751
+aVSomerset East
+p752
+aa(lp753
 S'Bob Loubser'
-p682
+p754
 aS'1903'
-p683
+p755
 aS'Wing'
-p684
+p756
 aS'7'
 aS'5'
 aS'1'
@@ -1817,17 +1976,18 @@ aS'1'
 aS'3'
 aS'9'
 aS'Klipheuvel'
-p685
+p757
 aS'g'
 aS'n'
 aS'i'
-aa(lp686
+aS's'
+aa(lp758
 S'Alec Reid'
-p687
+p759
 aS'1903'
-p688
+p760
 aS'Forward'
-p689
+p761
 aS'1'
 aS'1'
 aS'0'
@@ -1835,20 +1995,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Swellendam District'
-p690
+p762
 aVSouth Africa
-p691
+p763
 aVWestern Cape
-p692
+p764
 aVOverberg District Municipality
-p693
-aa(lp694
+p765
+aVSwellendam
+p766
+aa(lp767
 S'Polla Roos'
-p695
+p768
 aS'1903'
-p696
+p769
 aS'Forward'
-p697
+p770
 aS'4'
 aS'3'
 aS'0'
@@ -1856,20 +2018,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Rus-en-Vrede'
-p698
+p771
 aVSouth Africa
-p699
+p772
 aV1725
-p700
+p773
 aVGauteng
-p701
-aa(lp702
+p774
+aVCity of Johannesburg Metropolitan Municipality
+p775
+aa(lp776
 S'Koei Brink'
-p703
+p777
 aS'1906'
-p704
+p778
 aS'Forward'
-p705
+p779
 aS'3'
 aS'1'
 aS'1'
@@ -1877,20 +2041,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kuils River'
-p706
+p780
 aVSouth Africa
-p707
+p781
 aVWestern Cape
-p708
+p782
 aVCity of Cape Town
-p709
-aa(lp710
+p783
+aVCape Town
+p784
+aa(lp785
 S'Cocky Brooks'
-p711
+p786
 aS'1906'
-p712
+p787
 aS'Forward'
-p713
+p788
 aS'1'
 aS'0'
 aS'1'
@@ -1898,20 +2064,22 @@ aS'0'
 aS'0'
 aS'0'
 aS"King William's Town"
-p714
+p789
 aVSouth Africa
-p715
+p790
 aVEastern Cape
-p716
+p791
 aVBuffalo City Metropolitan Municipality
-p717
-aa(lp718
+p792
+aVKing William's Town
+p793
+aa(lp794
 S'Adam Burdett'
-p719
+p795
 aS'1906'
-p720
+p796
 aS'Forward'
-p721
+p797
 aS'2'
 aS'1'
 aS'1'
@@ -1919,20 +2087,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Oudtshoorn'
-p722
+p798
 aVSouth Africa
-p723
+p799
 aVWestern Cape
-p724
+p800
 aVEden District Municipality
-p725
-aa(lp726
+p801
+aVOudtshoorn
+p802
+aa(lp803
 S'Bingo Burger'
-p727
+p804
 aS'1906'
-p728
+p805
 aS'Forward'
-p729
+p806
 aS'4'
 aS'2'
 aS'2'
@@ -1940,17 +2110,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Prov.'
-p730
+p807
 aS'g'
 aS'n'
 aS'i'
-aa(lp731
+aS's'
+aa(lp808
 S'Pinkie Daneel'
-p732
+p809
 aS'1906'
-p733
+p810
 aS'Forward'
-p734
+p811
 aS'4'
 aS'2'
 aS'1'
@@ -1958,20 +2129,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Bredasdorp'
-p735
+p812
 aVSouth Africa
-p736
+p813
 aVWestern Cape
-p737
+p814
 aVOverberg District Municipality
-p738
-aa(lp739
+p815
+aVBredasdorp
+p816
+aa(lp817
 S'Boy de Villiers'
-p740
+p818
 aS'1906'
-p741
+p819
 aS'Centre'
-p742
+p820
 aS'3'
 aS'1'
 aS'1'
@@ -1979,20 +2152,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Paarl'
-p743
+p821
 aVSouth Africa
-p744
+p822
 aVWestern Cape
-p745
+p823
 aVCape Winelands District Municipality
-p746
-aa(lp747
+p824
+aVPaarl
+p825
+aa(lp826
 S'Dietlof Mare'
-p748
+p827
 aS'1906'
-p749
+p828
 aS'Forward'
-p750
+p829
 aS'1'
 aS'0'
 aS'1'
@@ -2000,18 +2175,19 @@ aS'0'
 aS'0'
 aS'0'
 aS'Boland'
-p751
+p830
 aVPolska
-p752
-ag214
-ag214
-aa(lp753
+p831
+ag82
+ag82
+ag82
+aa(lp832
 S'Alf Marsberg'
-p754
+p833
 aS'1906'
-p755
+p834
 aS'Wing'
-p756
+p835
 aS'3'
 aS'1'
 aS'1'
@@ -2019,20 +2195,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Queenstown'
-p757
+p836
 aVNew Zealand/Aotearoa
-p758
+p837
 aVOtago
-p759
+p838
 aVQueenstown-Lakes District
-p760
-aa(lp761
+p839
+aVQueenstown
+p840
+aa(lp841
 S'Sommie Morkel'
-p762
+p842
 aS'1906'
-p763
+p843
 aS'Forward'
-p764
+p844
 aS'4'
 aS'2'
 aS'1'
@@ -2040,20 +2218,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kimberley'
-p765
+p845
 aVSouth Africa
-p766
+p846
 aVNorthern Cape
-p767
+p847
 aVFrances Baard District Municipality
-p768
-aa(lp769
+p848
+aVKimberley
+p849
+aa(lp850
 S'Anton Stegmann'
-p770
+p851
 aS'1906'
-p771
+p852
 aS'Wing'
-p772
+p853
 aS'2'
 aS'1'
 aS'1'
@@ -2061,20 +2241,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Cradock'
-p773
+p854
 aVSouth Africa
-p774
+p855
 aVEastern Cape
-p775
+p856
 aVChris Hani District Municipality
-p776
-aa(lp777
+p857
+aVCradock
+p858
+aa(lp859
 S'Jack Hirsch'
-p778
+p860
 aS'1906'
-p779
+p861
 aS'Centre'
-p780
+p862
 aS'2'
 aS'2'
 aS'0'
@@ -2082,20 +2264,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Port Elizabeth'
-p781
+p863
 aVSouth Africa
-p782
+p864
 aVEastern Cape
-p783
+p865
 aVNelson Mandela Bay Metropolitan Municipality
-p784
-aa(lp785
+p866
+aVPort Elizabeth
+p867
+aa(lp868
 S'Mary Jackson'
-p786
+p869
 aS'1906'
-p787
+p870
 aS'Halfback'
-p788
+p871
 aS'3'
 aS'2'
 aS'0'
@@ -2103,19 +2287,20 @@ aS'1'
 aS'0'
 aS'0'
 aS'Constantia'
-p789
+p872
 aVRomânia
-p790
+p873
 aVConstan\u021ba
-p791
-ag214
-aa(lp792
+p874
+ag82
+ag82
+aa(lp875
 S'Steve Joubert'
-p793
+p876
 aS'1906'
-p794
+p877
 aS'Fullback'
-p795
+p878
 aS'3'
 aS'2'
 aS'0'
@@ -2123,20 +2308,21 @@ aS'1'
 aS'1'
 aS'8'
 aS'Uniondale'
-p796
+p879
 aVUnited States of America
-p797
+p880
 aVNew York
-p798
+p881
 aVUniondale
-p799
-aa(lp800
+p882
+ag82
+aa(lp883
 S'Pietie le Roux'
-p801
+p884
 aS'1906'
-p802
+p885
 aS'Forward'
-p803
+p886
 aS'3'
 aS'2'
 aS'0'
@@ -2144,42 +2330,46 @@ aS'1'
 aS'0'
 aS'0'
 aS'Paarl'
-p804
+p887
 aVSouth Africa
-p805
+p888
 aVWestern Cape
-p806
+p889
 aVCape Winelands District Municipality
-p807
-aa(lp808
+p890
+aVPaarl
+p891
+aa(lp892
 S'Dougie Morkel'
-p809
+p893
 aS'1906'
-p810
+p894
 aS'Forward'
-p811
+p895
 aS'9'
 aS'8'
 aS'0'
 aS'1'
 aS'3'
 aS'38'
-p812
+p896
 aS'Kimberley'
-p813
+p897
 aVSouth Africa
-p814
+p898
 aVNorthern Cape
-p815
+p899
 aVFrances Baard District Municipality
-p816
-aa(lp817
+p900
+aVKimberley
+p901
+aa(lp902
 S'Billy Millar'
-p818
+p903
 aS'1906'
-p819
+p904
 aS'Forward'
-p820
+p905
 aS'6'
 aS'4'
 aS'1'
@@ -2187,17 +2377,18 @@ aS'1'
 aS'2'
 aS'6'
 aS'Cape Prov'
-p821
+p906
 aS'g'
 aS'n'
 aS'i'
-aa(lp822
+aS's'
+aa(lp907
 S'Nic Crosby'
-p823
+p908
 aS'1910'
-p824
+p909
 aS'Forward'
-p825
+p910
 aS'2'
 aS'2'
 aS'0'
@@ -2205,20 +2396,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tarkastad'
-p826
+p911
 aVSouth Africa
-p827
+p912
 aVEastern Cape
-p828
+p913
 aVChris Hani District Municipality
-p829
-aa(lp830
+p914
+aVTarkastad
+p915
+aa(lp916
 S'Max Davison'
-p831
+p917
 aS'1910'
-p832
+p918
 aS'Forward'
-p833
+p919
 aS'1'
 aS'1'
 aS'0'
@@ -2226,17 +2419,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Prov'
-p834
+p920
 aS'g'
 aS'n'
 aS'i'
-aa(lp835
+aS's'
+aa(lp921
 S'Dirkie de Villiers'
-p836
+p922
 aS'1910'
-p837
+p923
 aS'Centre'
-p838
+p924
 aS'3'
 aS'2'
 aS'1'
@@ -2244,18 +2438,19 @@ aS'0'
 aS'1'
 aS'3'
 aS'Boland'
-p839
+p925
 aVPolska
-p840
-ag214
-ag214
-aa(lp841
+p926
+ag82
+ag82
+ag82
+aa(lp927
 S'Cocky Hahn'
-p842
+p928
 aS'1910'
-p843
+p929
 aS'Wing'
-p844
+p930
 aS'3'
 aS'2'
 aS'1'
@@ -2263,20 +2458,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Paarl'
-p845
+p931
 aVSouth Africa
-p846
+p932
 aVWestern Cape
-p847
+p933
 aVCape Winelands District Municipality
-p848
-aa(lp849
+p934
+aVPaarl
+p935
+aa(lp936
 S'Noel Howe-Browne'
-p850
+p937
 aS'1910'
-p851
+p938
 aS'Forward'
-p852
+p939
 aS'3'
 aS'2'
 aS'1'
@@ -2287,13 +2484,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp853
+aS's'
+aa(lp940
 S'Lammetjie Luyt'
-p854
+p941
 aS'1910'
-p855
+p942
 aS'Halfback'
-p856
+p943
 aS'7'
 aS'6'
 aS'1'
@@ -2301,20 +2499,22 @@ aS'0'
 aS'2'
 aS'8'
 aS'Ceres'
-p857
+p944
 aVItalia
-p858
+p945
 aVPIE
-p859
+p946
 aVTO
-p860
-aa(lp861
+p947
+aVCeres
+p948
+aa(lp949
 S'Archie Marsberg'
-p862
+p950
 aS'1910'
-p863
+p951
 aS'Fullback'
-p864
+p952
 aS'1'
 aS'1'
 aS'0'
@@ -2322,20 +2522,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Fort Beaufort'
-p865
+p953
 aVSouth Africa
-p866
+p954
 aVEastern Cape
-p867
+p955
 aVAmathole District Municipality
-p868
-aa(lp869
+p956
+aVFort Beaufort
+p957
+aa(lp958
 S'Cliff Riordan'
-p870
+p959
 aS'1910'
-p871
+p960
 aS'Forward'
-p872
+p961
 aS'2'
 aS'1'
 aS'1'
@@ -2343,20 +2545,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Colesberg'
-p873
+p962
 aVSouth Africa
-p874
+p963
 aVNorthern Cape
-p875
+p964
 aVPixley ka Seme District Municipality
-p876
-aa(lp877
+p965
+aVColesberg
+p966
+aa(lp967
 S'Henry Walker'
-p878
+p968
 aS'1910'
-p879
+p969
 aS'Forward'
-p880
+p970
 aS'3'
 aS'2'
 aS'1'
@@ -2364,20 +2568,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Uitenhage'
-p881
+p971
 aVSouth Africa
-p882
+p972
 aVEastern Cape
-p883
+p973
 aVNelson Mandela Bay Metropolitan Municipality
-p884
-aa(lp885
+p974
+aVUitenhage
+p975
+aa(lp976
 S'Arthur Williams'
-p886
+p977
 aS'1910'
-p887
+p978
 aS'Forward'
-p888
+p979
 aS'1'
 aS'1'
 aS'0'
@@ -2385,20 +2591,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kimberley'
-p889
+p980
 aVSouth Africa
-p890
+p981
 aVNorthern Cape
-p891
+p982
 aVFrances Baard District Municipality
-p892
-aa(lp893
+p983
+aVKimberley
+p984
+aa(lp985
 S'Percy Allport'
-p894
+p986
 aS'1910'
-p895
+p987
 aS'Fullback'
-p896
+p988
 aS'2'
 aS'1'
 aS'1'
@@ -2406,20 +2614,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Calvinia'
-p897
+p989
 aVSouth Africa
-p898
+p990
 aVNorthern Cape
-p899
+p991
 aVNamakwa District Municipality
-p900
-aa(lp901
+p992
+aVCalvinia
+p993
+aa(lp994
 S'Antonie Lombard'
-p902
+p995
 aS'1910'
-p903
+p996
 aS'Forward'
-p904
+p997
 aS'1'
 aS'0'
 aS'1'
@@ -2427,17 +2637,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Prov'
-p905
+p998
 aS'g'
 aS'n'
 aS'i'
-aa(lp906
+aS's'
+aa(lp999
 S'Dick Luyt'
-p907
+p1000
 aS'1910'
-p908
+p1001
 aS'Centre'
-p909
+p1002
 aS'7'
 aS'6'
 aS'1'
@@ -2445,20 +2656,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Ceres'
-p910
+p1003
 aVItalia
-p911
+p1004
 aVPIE
-p912
+p1005
 aVTO
-p913
-aa(lp914
+p1006
+aVCeres
+p1007
+aa(lp1008
 S'Wally Mills'
-p915
+p1009
 aS'1910'
-p916
+p1010
 aS'Wing'
-p917
+p1011
 aS'1'
 aS'0'
 aS'1'
@@ -2466,20 +2679,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Durbanville'
-p918
+p1012
 aVSouth Africa
-p919
+p1013
 aVWestern Cape
-p920
+p1014
 aVCity of Cape Town
-p921
-aa(lp922
+p1015
+aVDurbanville
+p1016
+aa(lp1017
 S'Toby Moll'
-p923
+p1018
 aS'1910'
-p924
+p1019
 aS'Forward'
-p925
+p1020
 aS'1'
 aS'0'
 aS'1'
@@ -2487,20 +2702,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p926
+p1021
 aVSouth Africa
-p927
+p1022
 aVWestern Cape
-p928
+p1023
 aVCity of Cape Town
-p929
-aa(lp930
+p1024
+aVCape Town
+p1025
+aa(lp1026
 S'Gideon Roos'
-p931
+p1027
 aS'1910'
-p932
+p1028
 aS'Forward'
-p933
+p1029
 aS'2'
 aS'1'
 aS'1'
@@ -2508,20 +2725,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Stellenbosch'
-p934
+p1030
 aVSouth Africa
-p935
+p1031
 aVWestern Cape
-p936
+p1032
 aVCape Winelands District Municipality
-p937
-aa(lp938
+p1033
+aVStellenbosch
+p1034
+aa(lp1035
 S'Clive van Ryneveld'
-p939
+p1036
 aS'1910'
-p940
+p1037
 aS'Halfback'
-p941
+p1038
 aS'2'
 aS'1'
 aS'1'
@@ -2529,20 +2748,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Graaf-Reinet'
-p942
+p1039
 aVSouth Africa
-p943
+p1040
 aV1490
-p944
+p1041
 aVGauteng
-p945
-aa(lp946
+p1042
+aVEkurhuleni Metropolitan Municipality
+p1043
+aa(lp1044
 S'Boy Morkel'
-p947
+p1045
 aS'1910'
-p948
+p1046
 aS'Forward'
-p949
+p1047
 aS'9'
 aS'7'
 aS'1'
@@ -2550,20 +2771,22 @@ aS'1'
 aS'2'
 aS'6'
 aS'Somerset West'
-p950
+p1048
 aVSouth Africa
-p951
+p1049
 aVWestern Cape
-p952
+p1050
 aVCity of Cape Town
-p953
-aa(lp954
+p1051
+aVSomerset West
+p1052
+aa(lp1053
 S'Koot Reynecke'
-p955
+p1054
 aS'1910'
-p956
+p1055
 aS'Forward'
-p957
+p1056
 aS'1'
 aS'1'
 aS'0'
@@ -2571,20 +2794,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Senekal'
-p958
+p1057
 aVSouth Africa
-p959
+p1058
 aVFree State
-p960
+p1059
 aVThabo Mofutsanyana District Municipality
-p961
-aa(lp962
+p1060
+aVSenekal
+p1061
+aa(lp1062
 S'Joe Francis'
-p963
+p1063
 aS'1912'
-p964
+p1064
 aS'Forward'
-p965
+p1065
 aS'5'
 aS'5'
 aS'0'
@@ -2592,20 +2817,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Upington'
-p966
+p1066
 aVSouth Africa
-p967
+p1067
 aVNorthern Cape
-p968
+p1068
 aVZF Mgcawu District Municipality
-p969
-aa(lp970
+p1069
+aVUpington
+p1070
+aa(lp1071
 S'Saturday Knight'
-p971
+p1072
 aS'1912'
-p972
+p1073
 aS'Forward'
-p973
+p1074
 aS'5'
 aS'5'
 aS'0'
@@ -2613,20 +2840,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Burgersdorp'
-p974
+p1075
 aVSouth Africa
-p975
+p1076
 aVEastern Cape
-p976
+p1077
 aVJoe Gqabi District Municipality
-p977
-aa(lp978
+p1078
+aVBurgersdorp
+p1079
+aa(lp1080
 S'Sep Ledger'
-p979
+p1081
 aS'1912'
-p980
+p1082
 aS'Forward'
-p981
+p1083
 aS'4'
 aS'4'
 aS'0'
@@ -2634,20 +2863,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Kimberley'
-p982
+p1084
 aVSouth Africa
-p983
+p1085
 aVNorthern Cape
-p984
+p1086
 aVFrances Baard District Municipality
-p985
-aa(lp986
+p1087
+aVKimberley
+p1088
+aa(lp1089
 S'John Luyt'
-p987
+p1090
 aS'1912'
-p988
+p1091
 aS'Forward'
-p989
+p1092
 aS'4'
 aS'4'
 aS'0'
@@ -2655,105 +2886,114 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ceres'
-p990
+p1093
 aVItalia
-p991
+p1094
 aVPIE
-p992
+p1095
 aVTO
-p993
-aa(lp994
+p1096
+aVCeres
+p1097
+aa(lp1098
 S'Boetie McHardy'
-p995
+p1099
 aS'1912'
-p996
+p1100
 aS'Wing'
-p997
+p1101
 aS'5'
 aS'5'
 aS'0'
 aS'0'
 aS'6'
 aS'18'
-p998
+p1102
 aS'Bloemfontein'
-p999
+p1103
 aVSouth Africa
-p1000
+p1104
 aVFree State
-p1001
+p1105
 aVMangaung Metropolitan Municipality
-p1002
-aa(lp1003
+p1106
+aVBloemfontein
+p1107
+aa(lp1108
 S'Jacky Morkel'
-p1004
+p1109
 aS'1912'
-p1005
+p1110
 aS'Centre'
-p1006
+p1111
 aS'5'
 aS'5'
 aS'0'
 aS'0'
 aS'4'
 aS'16'
-p1007
+p1112
 aS'Somerset West'
-p1008
+p1113
 aVSouth Africa
-p1009
+p1114
 aVWestern Cape
-p1010
+p1115
 aVCity of Cape Town
-p1011
-aa(lp1012
+p1116
+aVSomerset West
+p1117
+aa(lp1118
 S'Gerhard Morkel'
-p1013
+p1119
 aS'1912'
-p1014
+p1120
 aS'Fullback'
-p1015
+p1121
 aS'8'
 aS'6'
 aS'1'
 aS'1'
 aS'0'
 aS'16'
-p1016
+p1122
 aS'Somerset West'
-p1017
+p1123
 aVSouth Africa
-p1018
+p1124
 aVWestern Cape
-p1019
+p1125
 aVCity of Cape Town
-p1020
-aa(lp1021
+p1126
+aVSomerset West
+p1127
+aa(lp1128
 S'Jan Stegmann'
-p1022
+p1129
 aS'1912'
-p1023
+p1130
 aS'Wing'
-p1024
+p1131
 aS'5'
 aS'5'
 aS'0'
 aS'0'
 aS'5'
 aS'15'
-p1025
+p1132
 aS'Cape Prov'
-p1026
+p1133
 aS'g'
 aS'n'
 aS'i'
-aa(lp1027
+aS's'
+aa(lp1134
 S'Tommy Thompson'
-p1028
+p1135
 aS'1912'
-p1029
+p1136
 aS'Forward'
-p1030
+p1137
 aS'3'
 aS'3'
 aS'0'
@@ -2761,17 +3001,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Prov'
-p1031
+p1138
 aS'g'
 aS'n'
 aS'i'
-aa(lp1032
+aS's'
+aa(lp1139
 S'Tom van Vuuren'
-p1033
+p1140
 aS'1912'
-p1034
+p1141
 aS'Forward'
-p1035
+p1142
 aS'5'
 aS'5'
 aS'0'
@@ -2779,20 +3020,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Adelaide'
-p1036
+p1143
 aVAustralia
-p1037
+p1144
 aV5000
-p1038
+p1145
 aVSouth Australia
-p1039
-aa(lp1040
+p1146
+aVCity of Adelaide
+p1147
+aa(lp1148
 S'John McCulloch'
-p1041
+p1149
 aS'1913'
-p1042
+p1150
 aS'Halfback'
-p1043
+p1151
 aS'2'
 aS'2'
 aS'0'
@@ -2800,20 +3043,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kimberley'
-p1044
+p1152
 aVSouth Africa
-p1045
+p1153
 aVNorthern Cape
-p1046
+p1154
 aVFrances Baard District Municipality
-p1047
-aa(lp1048
+p1155
+aVKimberley
+p1156
+aa(lp1157
 S'Eddie Shum'
-p1049
+p1158
 aS'1913'
-p1050
+p1159
 aS'Forward'
-p1051
+p1160
 aS'1'
 aS'1'
 aS'0'
@@ -2821,20 +3066,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Estcourt'
-p1052
+p1161
 aVCanada
-p1053
+p1162
 aVQuébec
-p1054
+p1163
 aVEstcourt
-p1055
-aa(lp1056
+p1164
+ag82
+aa(lp1165
 S'Jack Immelman'
-p1057
+p1166
 aS'1913'
-p1058
+p1167
 aS'Halfback'
-p1059
+p1168
 aS'1'
 aS'1'
 aS'0'
@@ -2842,20 +3088,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Victoria West'
-p1060
+p1169
 aVSouth Africa
-p1061
+p1170
 aVNorthern Cape
-p1062
+p1171
 aVPixley ka Seme District Municipality
-p1063
-aa(lp1064
+p1172
+aVVictoria West
+p1173
+aa(lp1174
 S'Wally Clarkson'
-p1065
+p1175
 aS'1921'
-p1066
+p1176
 aS'Centre'
-p1067
+p1177
 aS'3'
 aS'2'
 aS'1'
@@ -2863,20 +3111,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p1068
+p1178
 aVSouth Africa
-p1069
+p1179
 aVKwaZulu-Natal
-p1070
+p1180
 aVeThekwini Metropolitan Municipality
-p1071
-aa(lp1072
+p1181
+aVDurban
+p1182
+aa(lp1183
 S'Theuns Kruger'
-p1073
+p1184
 aS'1921'
-p1074
+p1185
 aS'Hooker'
-p1075
+p1186
 aS'8'
 aS'5'
 aS'2'
@@ -2884,42 +3134,46 @@ aS'1'
 aS'0'
 aS'0'
 aS'Steynsburg'
-p1076
+p1187
 aVSouth Africa
-p1077
+p1188
 aVEastern Cape
-p1078
+p1189
 aVJoe Gqabi District Municipality
-p1079
-aa(lp1080
+p1190
+aVSteynsburg
+p1191
+aa(lp1192
 S'Frank Mellish'
-p1081
+p1193
 aS'1920'
-p1082
+p1194
 aS'Flanker'
-p1083
+p1195
 aS'12'
-p1084
+p1196
 aS'8'
 aS'2'
 aS'2'
 aS'1'
 aS'3'
 aS'Rondebosch'
-p1085
+p1197
 aVSouth Africa
-p1086
+p1198
 aVWestern Cape
-p1087
+p1199
 aVCity of Cape Town
-p1088
-aa(lp1089
+p1200
+aVCape Town
+p1201
+aa(lp1202
 S'Charlie Meyer'
-p1090
+p1203
 aS'1921'
-p1091
+p1204
 aS'Centre'
-p1092
+p1205
 aS'3'
 aS'1'
 aS'1'
@@ -2927,20 +3181,21 @@ aS'1'
 aS'0'
 aS'0'
 aS'Bethel'
-p1093
+p1206
 aVUnited States of America
-p1094
+p1207
 aVAlaska
-p1095
+p1208
 aVBethel
-p1096
-aa(lp1097
+p1209
+ag82
+aa(lp1210
 S'Baby Michau'
-p1098
+p1211
 aS'1921'
-p1099
+p1212
 aS'Lock'
-p1100
+p1213
 aS'1'
 aS'0'
 aS'1'
@@ -2948,17 +3203,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Guadock'
-p1101
+p1214
 aS'g'
 aS'n'
 aS'i'
-aa(lp1102
+aS's'
+aa(lp1215
 S'Mannetjies Michau'
-p1103
+p1216
 aS'1921'
-p1104
+p1217
 aS'Scrum-half'
-p1105
+p1218
 aS'3'
 aS'1'
 aS'1'
@@ -2966,17 +3222,18 @@ aS'1'
 aS'0'
 aS'0'
 aS'Guadock'
-p1106
+p1219
 aS'g'
 aS'n'
 aS'i'
-aa(lp1107
+aS's'
+aa(lp1220
 S'Harry Morkel'
-p1108
+p1221
 aS'1921'
-p1109
+p1222
 aS'Lock'
-p1110
+p1223
 aS'1'
 aS'0'
 aS'1'
@@ -2984,20 +3241,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kimberley'
-p1111
+p1224
 aVSouth Africa
-p1112
+p1225
 aVNorthern Cape
-p1113
+p1226
 aVFrances Baard District Municipality
-p1114
-aa(lp1115
+p1227
+aVKimberley
+p1228
+aa(lp1229
 S'Henry Morkel'
-p1116
+p1230
 aS'1921'
-p1117
+p1231
 aS'Wing'
-p1118
+p1232
 aS'2'
 aS'1'
 aS'1'
@@ -3005,43 +3264,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Somerset West'
-p1119
+p1233
 aVSouth Africa
-p1120
+p1234
 aVWestern Cape
-p1121
+p1235
 aVCity of Cape Town
-p1122
-aa(lp1123
+p1236
+aVSomerset West
+p1237
+aa(lp1238
 S'Phil Mostert'
-p1124
+p1239
 aS'1921'
-p1125
+p1240
 aS'Prop'
-p1126
+p1241
 aS'14'
-p1127
+p1242
 aS'10'
-p1128
+p1243
 aS'3'
 aS'1'
 aS'1'
 aS'6'
 aS'Krugersdorp'
-p1129
+p1244
 aVSouth Africa
-p1130
+p1245
 aVGauteng
-p1131
+p1246
 aVWest Rand District Municipality
-p1132
-aa(lp1133
+p1247
+aVKrugersdorp
+p1248
+aa(lp1249
 S'Tokkie Scholtz'
-p1134
+p1250
 aS'1921'
-p1135
+p1251
 aS'Flanker'
-p1136
+p1252
 aS'2'
 aS'1'
 aS'1'
@@ -3049,20 +3312,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Somerset West'
-p1137
+p1253
 aVSouth Africa
-p1138
+p1254
 aVWestern Cape
-p1139
+p1255
 aVCity of Cape Town
-p1140
-aa(lp1141
+p1256
+aVSomerset West
+p1257
+aa(lp1258
 S'Taffy Townsend'
-p1142
+p1259
 aS'1921'
-p1143
+p1260
 aS'Scrum-half'
-p1144
+p1261
 aS'1'
 aS'0'
 aS'1'
@@ -3070,20 +3335,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Newport'
-p1145
+p1262
 aVUnited Kingdom
-p1146
+p1263
 aVNP
-p1147
+p1264
 aVWales
-p1148
-aa(lp1149
+p1265
+aVMonmouthshire
+p1266
+aa(lp1267
 S'Attie van Heerden'
-p1150
+p1268
 aS'1921'
-p1151
+p1269
 aS'Wing'
-p1152
+p1270
 aS'2'
 aS'0'
 aS'1'
@@ -3091,20 +3358,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Boshof'
-p1153
+p1271
 aVSouth Africa
-p1154
+p1272
 aVFree State
-p1155
+p1273
 aVLejweleputswa District Municipality
-p1156
-aa(lp1157
+p1274
+aVBoshof
+p1275
+aa(lp1276
 S'Alf Walker'
-p1158
+p1277
 aS'1921'
-p1159
+p1278
 aS'Lock'
-p1160
+p1279
 aS'6'
 aS'3'
 aS'1'
@@ -3112,20 +3381,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Randfontein'
-p1161
+p1280
 aVSouth Africa
-p1162
+p1281
 aVGauteng
-p1163
+p1282
 aVWest Rand District Municipality
-p1164
-aa(lp1165
+p1283
+aVRandfontein
+p1284
+aa(lp1285
 S'Nic du Plessis'
-p1166
+p1286
 aS'1921'
-p1167
+p1287
 aS'Lock'
-p1168
+p1288
 aS'5'
 aS'3'
 aS'0'
@@ -3133,20 +3404,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Steynsburg'
-p1169
+p1289
 aVSouth Africa
-p1170
+p1290
 aVEastern Cape
-p1171
+p1291
 aVJoe Gqabi District Municipality
-p1172
-aa(lp1173
+p1292
+aVSteynsburg
+p1293
+aa(lp1294
 S'Mervyn Ellis'
-p1174
+p1295
 aS'1921'
-p1175
+p1296
 aS'Flanker'
-p1176
+p1297
 aS'6'
 aS'4'
 aS'0'
@@ -3154,20 +3427,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Kokstad'
-p1177
+p1298
 aVSouth Africa
-p1178
+p1299
 aVKwaZulu-Natal
-p1179
+p1300
 aVSisonke District Municipality
-p1180
-aa(lp1181
+p1301
+aVKokstad
+p1302
+aa(lp1303
 S'Royal Morkel'
-p1182
+p1304
 aS'1921'
-p1183
+p1305
 aS'Lock'
-p1184
+p1306
 aS'2'
 aS'1'
 aS'0'
@@ -3175,20 +3450,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kimberley'
-p1185
+p1307
 aVSouth Africa
-p1186
+p1308
 aVNorthern Cape
-p1187
+p1309
 aVFrances Baard District Municipality
-p1188
-aa(lp1189
+p1310
+aVKimberley
+p1311
+aa(lp1312
 S'Billy Sendin'
-p1190
+p1313
 aS'1921'
-p1191
+p1314
 aS'Centre'
-p1192
+p1315
 aS'1'
 aS'1'
 aS'0'
@@ -3196,20 +3473,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Kimberley'
-p1193
+p1316
 aVSouth Africa
-p1194
+p1317
 aVNorthern Cape
-p1195
+p1318
 aVFrances Baard District Municipality
-p1196
-aa(lp1197
+p1319
+aVKimberley
+p1320
+aa(lp1321
 S'Tank van Rooyen'
-p1198
+p1322
 aS'1921'
-p1199
+p1323
 aS'Lock'
-p1200
+p1324
 aS'2'
 aS'1'
 aS'0'
@@ -3217,20 +3496,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Steynsburg'
-p1201
+p1325
 aVSouth Africa
-p1202
+p1326
 aVEastern Cape
-p1203
+p1327
 aVJoe Gqabi District Municipality
-p1204
-aa(lp1205
+p1328
+aVSteynsburg
+p1329
+aa(lp1330
 S'Bill Zeller'
-p1206
+p1331
 aS'1921'
-p1207
+p1332
 aS'Wing'
-p1208
+p1333
 aS'2'
 aS'1'
 aS'0'
@@ -3238,17 +3519,18 @@ aS'1'
 aS'0'
 aS'0'
 aS'Umtala'
-p1209
+p1334
 aS'g'
 aS'n'
 aS'i'
-aa(lp1210
+aS's'
+aa(lp1335
 S'Sas de Kock'
-p1211
+p1336
 aS'1921'
-p1212
+p1337
 aS'Centre'
-p1213
+p1338
 aS'2'
 aS'0'
 aS'0'
@@ -3256,20 +3538,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Caledon'
-p1214
+p1339
 aVCanada
-p1215
+p1340
 aVOntario
-p1216
+p1341
 aVPeel Region
-p1217
-aa(lp1218
+p1342
+aVCaledon
+p1343
+aa(lp1344
 S'Sarel Strauss'
-p1219
+p1345
 aS'1921'
-p1220
+p1346
 aS'Centre'
-p1221
+p1347
 aS'1'
 aS'0'
 aS'0'
@@ -3280,13 +3564,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1222
+aS's'
+aa(lp1348
 S'Pierre Albertyn'
-p1223
+p1349
 aS'1924'
-p1224
+p1350
 aS'Centre'
-p1225
+p1351
 aS'4'
 aS'3'
 aS'0'
@@ -3294,20 +3579,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Kleinmond'
-p1226
+p1352
 aVSouth Africa
-p1227
+p1353
 aVWestern Cape
-p1228
+p1354
 aVOverberg District Municipality
-p1229
-aa(lp1230
+p1355
+aVKleinmond
+p1356
+aa(lp1357
 S'Hans Aucamp'
-p1231
+p1358
 aS'1924'
-p1232
+p1359
 aS'Wing'
-p1233
+p1360
 aS'2'
 aS'2'
 aS'0'
@@ -3315,20 +3602,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Steynsburg'
-p1234
+p1361
 aVSouth Africa
-p1235
+p1362
 aVEastern Cape
-p1236
+p1363
 aVJoe Gqabi District Municipality
-p1237
-aa(lp1238
+p1364
+aVSteynsburg
+p1365
+aa(lp1366
 S'Champion Myburgh'
-p1239
+p1367
 aS'1924'
-p1240
+p1368
 aS'Scrum-half'
-p1241
+p1369
 aS'1'
 aS'1'
 aS'0'
@@ -3336,44 +3625,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Paarl'
-p1242
+p1370
 aVSouth Africa
-p1243
+p1371
 aVWestern Cape
-p1244
+p1372
 aVCape Winelands District Municipality
-p1245
-aa(lp1246
+p1373
+aVPaarl
+p1374
+aa(lp1375
 S'Bennie Osler'
-p1247
+p1376
 aS'1924'
-p1248
+p1377
 aS'Fly-half'
-p1249
+p1378
 aS'17'
-p1250
+p1379
 aS'12'
-p1251
+p1380
 aS'4'
 aS'1'
 aS'2'
 aS'46'
-p1252
+p1381
 aS'Aliwal North'
-p1253
+p1382
 aVSouth Africa
-p1254
+p1383
 aVEastern Cape
-p1255
+p1384
 aVJoe Gqabi District Municipality
-p1256
-aa(lp1257
+p1385
+aVAliwal North
+p1386
+aa(lp1387
 S'Bill Payn'
-p1258
+p1388
 aS'1924'
-p1259
+p1389
 aS'Flanker'
-p1260
+p1390
 aS'2'
 aS'2'
 aS'0'
@@ -3381,42 +3674,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Harding'
-p1261
+p1391
 aVUnited States of America
-p1262
+p1392
 aVSouth Dakota
-p1263
+p1393
 aVHarding County
-p1264
-aa(lp1265
+p1394
+ag82
+aa(lp1395
 S'Kenny Starke'
-p1266
+p1396
 aS'1924'
-p1267
+p1397
 aS'Wing'
-p1268
+p1398
 aS'4'
 aS'3'
 aS'0'
 aS'1'
 aS'3'
 aS'13'
-p1269
+p1399
 aS'Muldersvlei'
-p1270
+p1400
 aVSouth Africa
-p1271
+p1401
 aV7607
-p1272
+p1402
 aVWestern Cape
-p1273
-aa(lp1274
+p1403
+aVCape Winelands District Municipality
+p1404
+aa(lp1405
 S'Jackie Tindall'
-p1275
+p1406
 aS'1924'
-p1276
+p1407
 aS'Fullback'
-p1277
+p1408
 aS'5'
 aS'3'
 aS'2'
@@ -3424,20 +3720,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Stellenbosch'
-p1278
+p1409
 aVSouth Africa
-p1279
+p1410
 aVWestern Cape
-p1280
+p1411
 aVCape Winelands District Municipality
-p1281
-aa(lp1282
+p1412
+aVStellenbosch
+p1413
+aa(lp1414
 S'Nic van Druten'
-p1283
+p1415
 aS'1924'
-p1284
+p1416
 aS'No. 8'
-p1285
+p1417
 aS'8'
 aS'5'
 aS'2'
@@ -3445,17 +3743,18 @@ aS'1'
 aS'2'
 aS'6'
 aS'Griquatown'
-p1286
+p1418
 aS'g'
 aS'n'
 aS'i'
-aa(lp1287
+aS's'
+aa(lp1419
 S'Jack Bester'
-p1288
+p1420
 aS'1924'
-p1289
+p1421
 aS'Centre'
-p1290
+p1422
 aS'2'
 aS'2'
 aS'0'
@@ -3463,20 +3762,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Moorreesburg'
-p1291
+p1423
 aVSouth Africa
-p1292
+p1424
 aVWestern Cape
-p1293
+p1425
 aVWest Coast District Municipality
-p1294
-aa(lp1295
+p1426
+aVMoorreesburg
+p1427
+aa(lp1428
 S'Nic Bosman'
-p1296
+p1429
 aS'1924'
-p1297
+p1430
 aS'Fullback'
-p1298
+p1431
 aS'3'
 aS'2'
 aS'0'
@@ -3484,20 +3785,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Pretoria'
-p1299
+p1432
 aVSouth Africa
-p1300
+p1433
 aVGauteng
-p1301
+p1434
 aVCity of Tshwane Metropolitan Municipality
-p1302
-aa(lp1303
+p1435
+aVPretoria
+p1436
+aa(lp1437
 S'Pally Truter'
-p1304
+p1438
 aS'1924'
-p1305
+p1439
 aS'Scrum-half'
-p1306
+p1440
 aS'2'
 aS'2'
 aS'0'
@@ -3505,17 +3808,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Riebeeck-Kasteel'
-p1307
+p1441
 aS'g'
 aS'n'
 aS'i'
-aa(lp1308
+aS's'
+aa(lp1442
 S'Daunce Devine'
-p1309
+p1443
 aS'1924'
-p1310
+p1444
 aS'Scrum-half'
-p1311
+p1445
 aS'2'
 aS'0'
 aS'1'
@@ -3523,20 +3827,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Paarl'
-p1312
+p1446
 aVSouth Africa
-p1313
+p1447
 aVWestern Cape
-p1314
+p1448
 aVCape Winelands District Municipality
-p1315
-aa(lp1316
+p1449
+aVPaarl
+p1450
+aa(lp1451
 S'Paul la Grange'
-p1317
+p1452
 aS'1924'
-p1318
+p1453
 aS'Flanker'
-p1319
+p1454
 aS'2'
 aS'1'
 aS'0'
@@ -3544,20 +3850,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Riversdale'
-p1320
+p1455
 aVCanada
-p1321
+p1456
 aVS7M0X2
-p1322
+p1457
 aVSaskatchewan
-p1323
-aa(lp1324
+p1458
+aVCity of Saskatoon
+p1459
+aa(lp1460
 S'Jack Slater'
-p1325
+p1461
 aS'1924'
-p1326
+p1462
 aS'Wing'
-p1327
+p1463
 aS'3'
 aS'2'
 aS'0'
@@ -3565,20 +3873,22 @@ aS'1'
 aS'2'
 aS'6'
 aS'Grahamstown'
-p1328
+p1464
 aVSouth Africa
-p1329
+p1465
 aVEastern Cape
-p1330
+p1466
 aVSarah Baartman District Municipality
-p1331
-aa(lp1332
+p1467
+aVGrahamstown
+p1468
+aa(lp1469
 S'BV Vanderplank'
-p1333
+p1470
 aS'1924'
-p1334
+p1471
 aS'Prop'
-p1335
+p1472
 aS'2'
 aS'1'
 aS'0'
@@ -3586,20 +3896,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Pietermaritzburg'
-p1336
+p1473
 aVSouth Africa
-p1337
+p1474
 aVKwaZulu-Natal
-p1338
+p1475
 aVuMgungundlovu District Municipality
-p1339
-aa(lp1340
+p1476
+aVPietermaritzburg
+p1477
+aa(lp1478
 S'George Daneel'
-p1341
+p1479
 aS'1928'
-p1342
+p1480
 aS'No. 8'
-p1343
+p1481
 aS'8'
 aS'6'
 aS'2'
@@ -3607,20 +3919,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Calvinia'
-p1344
+p1482
 aVSouth Africa
-p1345
+p1483
 aVNorthern Cape
-p1346
+p1484
 aVNamakwa District Municipality
-p1347
-aa(lp1348
+p1485
+aVCalvinia
+p1486
+aa(lp1487
 S'Pierie de Villiers'
-p1349
+p1488
 aS'1928'
-p1350
+p1489
 aS'Scrum-half'
-p1351
+p1490
 aS'8'
 aS'6'
 aS'2'
@@ -3628,20 +3942,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Worcester'
-p1352
+p1491
 aVUnited Kingdom
-p1353
+p1492
 aVEngland
-p1354
+p1493
 aVWest Midlands
-p1355
-aa(lp1356
+p1494
+aVWorcestershire
+p1495
+aa(lp1496
 S'Brooke Duffy'
-p1357
+p1497
 aS'1928'
-p1358
+p1498
 aS'Centre'
-p1359
+p1499
 aS'1'
 aS'1'
 aS'0'
@@ -3649,43 +3965,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'East London'
-p1360
+p1500
 aVSouth Africa
-p1361
+p1501
 aVEastern Cape
-p1362
+p1502
 aVBuffalo City Metropolitan Municipality
-p1363
-aa(lp1364
+p1503
+aVEast London
+p1504
+aa(lp1505
 S'Flip Nel'
-p1365
+p1506
 aS'1928'
-p1366
+p1507
 aS'Lock'
-p1367
+p1508
 aS'16'
-p1368
+p1509
 aS'13'
-p1369
+p1510
 aS'3'
 aS'0'
 aS'1'
 aS'3'
 aS'Natal'
-p1370
+p1511
 aVBrasil
-p1371
+p1512
 aVRegião Nordeste
-p1372
+p1513
 aVRN
-p1373
-aa(lp1374
+p1514
+aVMesorregião do Leste Potiguar
+p1515
+aa(lp1516
 S'Sharkey Osler'
-p1375
+p1517
 aS'1928'
-p1376
+p1518
 aS'Centre'
-p1377
+p1519
 aS'1'
 aS'1'
 aS'0'
@@ -3693,20 +4013,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Aliwal North'
-p1378
+p1520
 aVSouth Africa
-p1379
+p1521
 aVEastern Cape
-p1380
+p1522
 aVJoe Gqabi District Municipality
-p1381
-aa(lp1382
+p1523
+aVAliwal North
+p1524
+aa(lp1525
 S'Hennie Potgieter'
-p1383
+p1526
 aS'1928'
-p1384
+p1527
 aS'Lock'
-p1385
+p1528
 aS'2'
 aS'1'
 aS'1'
@@ -3717,13 +4039,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp1386
+aS's'
+aa(lp1529
 S'Nic Pretorius'
-p1387
+p1530
 aS'1928'
-p1388
+p1531
 aS'Flanker'
-p1389
+p1532
 aS'4'
 aS'2'
 aS'2'
@@ -3731,20 +4054,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Vryburg'
-p1390
+p1533
 aVSouth Africa
-p1391
+p1534
 aVNorth West
-p1392
+p1535
 aVDr Ruth Segomotsi Mompati District Municipality
-p1393
-aa(lp1394
+p1536
+aVVryburg
+p1537
+aa(lp1538
 S'Boet Prinsloo'
-p1395
+p1539
 aS'1928'
-p1396
+p1540
 aS'Wing'
-p1397
+p1541
 aS'1'
 aS'1'
 aS'0'
@@ -3752,20 +4077,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Standerton'
-p1398
+p1542
 aVSouth Africa
-p1399
+p1543
 aVMpumalanga
-p1400
+p1544
 aVGert Sibande District Municipality
-p1401
-aa(lp1402
+p1545
+aVStanderton
+p1546
+aa(lp1547
 S'SP van Wyk'
-p1403
+p1548
 aS'1928'
-p1404
+p1549
 aS'Prop'
-p1405
+p1550
 aS'2'
 aS'1'
 aS'1'
@@ -3773,44 +4100,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Middelburg'
-p1406
+p1551
 aVNederland
-p1407
+p1552
 aVZeeland
-p1408
+p1553
 aVMiddelburg
-p1409
-aa(lp1410
+p1554
+ag82
+aa(lp1555
 S'Gerry Brand'
-p1411
+p1556
 aS'1928'
-p1412
+p1557
 aS'Fullback'
-p1413
+p1558
 aS'16'
-p1414
+p1559
 aS'13'
-p1415
+p1560
 aS'3'
 aS'0'
 aS'0'
 aS'55'
-p1416
+p1561
 aS'Cape Town'
-p1417
+p1562
 aVSouth Africa
-p1418
+p1563
 aVWestern Cape
-p1419
+p1564
 aVCity of Cape Town
-p1420
-aa(lp1421
+p1565
+aVCape Town
+p1566
+aa(lp1567
 S'John Dobie'
-p1422
+p1568
 aS'1928'
-p1423
+p1569
 aS'Centre'
-p1424
+p1570
 aS'1'
 aS'0'
 aS'1'
@@ -3818,20 +4148,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rustenburg'
-p1425
+p1571
 aVSouth Africa
-p1426
+p1572
 aVNorth West
-p1427
+p1573
 aVBojanala Platinum District Municipality
-p1428
-aa(lp1429
+p1574
+aVRustenburg
+p1575
+aa(lp1576
 S'Neville Tod'
-p1430
+p1577
 aS'1928'
-p1431
+p1578
 aS'Wing'
-p1432
+p1579
 aS'1'
 aS'0'
 aS'1'
@@ -3839,20 +4171,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p1433
+p1580
 aVSouth Africa
-p1434
+p1581
 aVKwaZulu-Natal
-p1435
+p1582
 aVeThekwini Metropolitan Municipality
-p1436
-aa(lp1437
+p1583
+aVDurban
+p1584
+aa(lp1585
 S'JC van der Westhuizen'
-p1438
+p1586
 aS'1928'
-p1439
+p1587
 aS'Centre'
-p1440
+p1588
 aS'4'
 aS'2'
 aS'2'
@@ -3860,20 +4194,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Darling'
-p1441
+p1589
 aVSouth Africa
-p1442
+p1590
 aVWestern Cape
-p1443
+p1591
 aVWest Coast District Municipality
-p1444
-aa(lp1445
+p1592
+aVDarling
+p1593
+aa(lp1594
 S'Manus de Jongh'
-p1446
+p1595
 aS'1928'
-p1447
+p1596
 aS'Wing'
-p1448
+p1597
 aS'1'
 aS'1'
 aS'0'
@@ -3881,20 +4217,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Moorreesburg'
-p1449
+p1598
 aVSouth Africa
-p1450
+p1599
 aVWestern Cape
-p1451
+p1600
 aVWest Coast District Municipality
-p1452
-aa(lp1453
+p1601
+aVMoorreesburg
+p1602
+aa(lp1603
 S'AF du Toit'
-p1454
+p1604
 aS'1928'
-p1455
+p1605
 aS'Lock'
-p1456
+p1606
 aS'2'
 aS'1'
 aS'1'
@@ -3902,41 +4240,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'Stellenbosch'
-p1457
+p1607
 aVSouth Africa
-p1458
+p1608
 aVWestern Cape
-p1459
+p1609
 aVCape Winelands District Municipality
-p1460
-aa(lp1461
+p1610
+aVStellenbosch
+p1611
+aa(lp1612
 S'Boy Louw'
-p1462
+p1613
 aS'1928'
-p1463
+p1614
 aS'Prop'
-p1464
+p1615
 aS'18'
-p1465
+p1616
 aS'14'
-p1466
+p1617
 aS'4'
 aS'0'
 aS'1'
 aS'3'
 aS'Boland'
-p1467
+p1618
 aVPolska
-p1468
-ag214
-ag214
-aa(lp1469
+p1619
+ag82
+ag82
+ag82
+aa(lp1620
 S'Poim Oliver'
-p1470
+p1621
 aS'1928'
-p1471
+p1622
 aS'Prop'
-p1472
+p1623
 aS'2'
 aS'1'
 aS'1'
@@ -3944,20 +4285,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Graaf-Reinet'
-p1473
+p1624
 aVSouth Africa
-p1474
+p1625
 aV1490
-p1475
+p1626
 aVGauteng
-p1476
-aa(lp1477
+p1627
+aVEkurhuleni Metropolitan Municipality
+p1628
+aa(lp1629
 S'Willie Rousseau'
-p1478
+p1630
 aS'1928'
-p1479
+p1631
 aS'Centre'
-p1480
+p1632
 aS'2'
 aS'1'
 aS'1'
@@ -3965,20 +4308,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Steynsburg'
-p1481
+p1633
 aVSouth Africa
-p1482
+p1634
 aVEastern Cape
-p1483
+p1635
 aVJoe Gqabi District Municipality
-p1484
-aa(lp1485
+p1636
+aVSteynsburg
+p1637
+aa(lp1638
 S'PK Morkel'
-p1486
+p1639
 aS'1928'
-p1487
+p1640
 aS'Wing'
-p1488
+p1641
 aS'1'
 aS'0'
 aS'1'
@@ -3986,20 +4331,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Koelenhof'
-p1489
+p1642
 aVSouth Africa
-p1490
+p1643
 aV7607
-p1491
+p1644
 aVWestern Cape
-p1492
-aa(lp1493
+p1645
+aVCape Winelands District Municipality
+p1646
+aa(lp1647
 S'Jock van Niekerk'
-p1494
+p1648
 aS'1928'
-p1495
+p1649
 aS'Wing'
-p1496
+p1650
 aS'1'
 aS'0'
 aS'1'
@@ -4007,66 +4354,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Constantia'
-p1497
+p1651
 aVRomânia
-p1498
+p1652
 aVConstan\u021ba
-p1499
-ag214
-aa(lp1500
+p1653
+ag82
+ag82
+aa(lp1654
 S'Ferdie Bergh'
-p1501
+p1655
 aS'1931'
-p1502
+p1656
 aS'Lock'
-p1503
+p1657
 aS'17'
-p1504
+p1658
 aS'13'
-p1505
+p1659
 aS'4'
 aS'0'
 aS'7'
 aS'21'
-p1506
+p1660
 aS'Stellenbosch'
-p1507
+p1661
 aVSouth Africa
-p1508
+p1662
 aVWestern Cape
-p1509
+p1663
 aVCape Winelands District Municipality
-p1510
-aa(lp1511
+p1664
+aVStellenbosch
+p1665
+aa(lp1666
 S'Danie Craven'
-p1512
+p1667
 aS'1931'
-p1513
+p1668
 aS'Scrum-half'
-p1514
+p1669
 aS'16'
-p1515
+p1670
 aS'12'
-p1516
+p1671
 aS'4'
 aS'0'
 aS'2'
 aS'6'
 aS'OFS'
-p1517
+p1672
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1518
+p1673
 aV457040
-p1519
+p1674
 aV\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433
-p1520
-aa(lp1521
+p1675
+aV\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c
+p1676
+aa(lp1677
 S'Geoff Gray'
-p1522
+p1678
 aS'1931'
-p1523
+p1679
 aS'Centre'
-p1524
+p1680
 aS'4'
 aS'3'
 aS'1'
@@ -4074,20 +4426,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hastings'
-p1525
+p1681
 aVUnited Kingdom
-p1526
+p1682
 aVEngland
-p1527
+p1683
 aVSouth East
-p1528
-aa(lp1529
+p1684
+aVEast Sussex
+p1685
+aa(lp1686
 S'Bert Kipling'
-p1530
+p1687
 aS'1931'
-p1531
+p1688
 aS'Hooker'
-p1532
+p1689
 aS'9'
 aS'7'
 aS'2'
@@ -4095,20 +4449,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kimberley'
-p1533
+p1690
 aVSouth Africa
-p1534
+p1691
 aVNorthern Cape
-p1535
+p1692
 aVFrances Baard District Municipality
-p1536
-aa(lp1537
+p1693
+aVKimberley
+p1694
+aa(lp1695
 S'Andre McDonald'
-p1538
+p1696
 aS'1931'
-p1539
+p1697
 aS'Flanker'
-p1540
+p1698
 aS'4'
 aS'4'
 aS'0'
@@ -4116,20 +4472,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Murraysburg'
-p1541
+p1699
 aVSouth Africa
-p1542
+p1700
 aVWestern Cape
-p1543
+p1701
 aVCentral Karoo District Municipality
-p1544
-aa(lp1545
+p1702
+aVMurraysburg
+p1703
+aa(lp1704
 S'Alvi van der Merwe'
-p1546
+p1705
 aS'1931'
-p1547
+p1706
 aS'Flanker'
-p1548
+p1707
 aS'1'
 aS'1'
 aS'0'
@@ -4137,20 +4495,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rawsonville'
-p1549
+p1708
 aVUnited States of America
-p1550
+p1709
 aVMichigan
-p1551
+p1710
 aVWashtenaw County
-p1552
-aa(lp1553
+p1711
+aVRawsonville
+p1712
+aa(lp1713
 S'Floors Venter'
-p1554
+p1714
 aS'1931'
-p1555
+p1715
 aS'Wing'
-p1556
+p1716
 aS'3'
 aS'3'
 aS'0'
@@ -4158,40 +4518,43 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pietersburg'
-p1557
+p1717
 aVSouth Africa
-p1558
+p1718
 aVLimpopo
-p1559
+p1719
 aVCapricorn District Municipality
-p1560
-aa(lp1561
+p1720
+aVPolokwane
+p1721
+aa(lp1722
 S'Jimmy White'
-p1562
+p1723
 aS'1931'
-p1563
+p1724
 aS'Centre'
-p1564
+p1725
 aS'10'
-p1565
+p1726
 aS'7'
 aS'3'
 aS'0'
 aS'2'
 aS'10'
-p1566
+p1727
 aS'CapeProv'
-p1567
+p1728
 aS'g'
 aS'n'
 aS'i'
-aa(lp1568
+aS's'
+aa(lp1729
 S'Morris Zimerman'
-p1569
+p1730
 aS'1931'
-p1570
+p1731
 aS'Wing'
-p1571
+p1732
 aS'4'
 aS'4'
 aS'0'
@@ -4199,20 +4562,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Jansenville'
-p1572
+p1733
 aVSouth Africa
-p1573
+p1734
 aVEastern Cape
-p1574
+p1735
 aVSarah Baartman District Municipality
-p1575
-aa(lp1576
+p1736
+aVJansenville
+p1737
+aa(lp1738
 S'Nic Bierman'
-p1577
+p1739
 aS'1931'
-p1578
+p1740
 aS'Flanker'
-p1579
+p1741
 aS'1'
 aS'1'
 aS'0'
@@ -4220,20 +4585,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Potchefstroom'
-p1580
+p1742
 aVSouth Africa
-p1581
+p1743
 aVNorth West
-p1582
+p1744
 aVDr Kenneth Kaunda District Municipality
-p1583
-aa(lp1584
+p1745
+aVPotchefstroom
+p1746
+aa(lp1747
 S'Ponie van der Westhuizen'
-p1585
+p1748
 aS'1931'
-p1586
+p1749
 aS'Wing'
-p1587
+p1750
 aS'3'
 aS'3'
 aS'0'
@@ -4241,20 +4608,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Darling'
-p1588
+p1751
 aVSouth Africa
-p1589
+p1752
 aVWestern Cape
-p1590
+p1753
 aVWest Coast District Municipality
-p1591
-aa(lp1592
+p1754
+aVDarling
+p1755
+aa(lp1756
 S'Franky Waring'
-p1593
+p1757
 aS'1931'
-p1594
+p1758
 aS'Centre'
-p1595
+p1759
 aS'7'
 aS'5'
 aS'2'
@@ -4262,430 +4631,6 @@ aS'0'
 aS'2'
 aS'6'
 aS'Cape Town'
-p1596
-aVSouth Africa
-p1597
-aVWestern Cape
-p1598
-aVCity of Cape Town
-p1599
-aa(lp1600
-S'Lucas Strachan'
-p1601
-aS'1932'
-p1602
-aS'Flanker'
-p1603
-aS'10'
-p1604
-aS'8'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Parys'
-p1605
-aVFrance
-p1606
-aVFrance métropolitaine
-p1607
-aVÎle-de-France
-p1608
-aa(lp1609
-S"George d'Alton"
-p1610
-aS'1933'
-p1611
-aS'Flanker'
-p1612
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Cape Town'
-p1613
-aVSouth Africa
-p1614
-aVWestern Cape
-p1615
-aVCity of Cape Town
-p1616
-aa(lp1617
-S'Fronie Froneman'
-p1618
-aS'1933'
-p1619
-aS'Flanker'
-p1620
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Cathcart'
-p1621
-aVUnited Kingdom
-p1622
-aVG
-aVScotland
-p1623
-aa(lp1624
-S'Jack Gage'
-p1625
-aS'1926'
-p1626
-aS'Wing'
-p1627
-aS'5'
-aS'4'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'Worcester'
-p1628
-aVUnited Kingdom
-p1629
-aVEngland
-p1630
-aVWest Midlands
-p1631
-aa(lp1632
-S'Manie Geere'
-p1633
-aS'1933'
-p1634
-aS'Lock'
-p1635
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Pretoria'
-p1636
-aVSouth Africa
-p1637
-aVGauteng
-p1638
-aVCity of Tshwane Metropolitan Municipality
-p1639
-aa(lp1640
-S'Fanie Louw'
-p1641
-aS'1933'
-p1642
-aS'Prop'
-p1643
-aS'12'
-p1644
-aS'8'
-aS'4'
-aS'0'
-aS'2'
-aS'6'
-aS'Paarl District'
-p1645
-aVSouth Africa
-p1646
-aVWestern Cape
-p1647
-aVCape Winelands District Municipality
-p1648
-aa(lp1649
-S'Freddy Turner'
-p1650
-aS'1933'
-p1651
-aS'Wing'
-p1652
-aS'11'
-p1653
-aS'8'
-aS'3'
-aS'0'
-aS'4'
-aS'29'
-p1654
-aS'Port Elizabeth'
-p1655
-aVSouth Africa
-p1656
-aVEastern Cape
-p1657
-aVNelson Mandela Bay Metropolitan Municipality
-p1658
-aa(lp1659
-S'Lappies Hattingh'
-p1660
-aS'1933'
-p1661
-aS'Flanker'
-p1662
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Lindley'
-p1663
-aVUnited States of America
-p1664
-aVNew York
-p1665
-aVSteuben County
-p1666
-aa(lp1667
-S'Pat Lyster'
-p1668
-aS'1933'
-p1669
-aS'Wing'
-p1670
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Durban'
-p1671
-aVSouth Africa
-p1672
-aVKwaZulu-Natal
-p1673
-aVeThekwini Metropolitan Municipality
-p1674
-aa(lp1675
-S'Joe Nykamp'
-p1676
-aS'1933'
-p1677
-aS'Prop'
-p1678
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Pretoria'
-p1679
-aVSouth Africa
-p1680
-aVGauteng
-p1681
-aVCity of Tshwane Metropolitan Municipality
-p1682
-aa(lp1683
-S'Paul Visser'
-p1684
-aS'1933'
-p1685
-aS'Prop'
-p1686
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Lichtenburg'
-p1687
-aVDeutschland
-p1688
-aVBerlin
-p1689
-aVLichtenberg
-p1690
-aa(lp1691
-S'Ginger Clark'
-p1692
-aS'1933'
-p1693
-aS'Flanker'
-p1694
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Kimberley'
-p1695
-aVSouth Africa
-p1696
-aVNorthern Cape
-p1697
-aVFrances Baard District Municipality
-p1698
-aa(lp1699
-S'Fred Smollan'
-p1700
-aS'1933'
-p1701
-aS'Flanker'
-p1702
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Uitenhage'
-p1703
-aVSouth Africa
-p1704
-aVEastern Cape
-p1705
-aVNelson Mandela Bay Metropolitan Municipality
-p1706
-aa(lp1707
-S'John Apsey'
-p1708
-aS'1933'
-p1709
-aS'No. 8'
-p1710
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Cape Town'
-p1711
-aVSouth Africa
-p1712
-aVWestern Cape
-p1713
-aVCity of Cape Town
-p1714
-aa(lp1715
-S'Bunny Reid'
-p1716
-aS'1933'
-p1717
-aS'Fullback'
-p1718
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'East London'
-p1719
-aVSouth Africa
-p1720
-aVEastern Cape
-p1721
-aVBuffalo City Metropolitan Municipality
-p1722
-aa(lp1723
-S'Louis Babrow'
-p1724
-aS'1937'
-p1725
-aS'Centre'
-p1726
-aS'5'
-aS'4'
-aS'1'
-aS'0'
-aS'3'
-aS'9'
-aS'Smithfield'
-p1727
-aVUnited States of America
-p1728
-aVNorth Carolina
-p1729
-aVJohnston County
-p1730
-aa(lp1731
-S'Ebbo Bastard'
-p1732
-aS'1937'
-p1733
-aS'Flanker'
-p1734
-aS'6'
-aS'4'
-aS'2'
-aS'0'
-aS'2'
-aS'6'
-aS'Kokstad'
-p1735
-aVSouth Africa
-p1736
-aVKwaZulu-Natal
-p1737
-aVSisonke District Municipality
-p1738
-aa(lp1739
-S'Jan Lotz'
-p1740
-aS'1937'
-p1741
-aS'Hooker'
-p1742
-aS'8'
-aS'6'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'Krugersdorp'
-p1743
-aVSouth Africa
-p1744
-aVGauteng
-p1745
-aVWest Rand District Municipality
-p1746
-aa(lp1747
-S'Mauritz van den Berg'
-p1748
-aS'1937'
-p1749
-aS'Lock'
-p1750
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Pretoria'
-p1751
-aVSouth Africa
-p1752
-aVGauteng
-p1753
-aVCity of Tshwane Metropolitan Municipality
-p1754
-aa(lp1755
-S'Dai Williams'
-p1756
-aS'1937'
-p1757
-aS'Wing'
-p1758
-aS'8'
-aS'6'
-aS'2'
-aS'0'
-aS'5'
-aS'15'
-p1759
-aS'Mowbray'
 p1760
 aVSouth Africa
 p1761
@@ -4693,13 +4638,478 @@ aVWestern Cape
 p1762
 aVCity of Cape Town
 p1763
-aa(lp1764
-S'Harry Martin'
-p1765
-aS'1937'
+aVCape Town
+p1764
+aa(lp1765
+S'Lucas Strachan'
 p1766
-aS'Prop'
+aS'1932'
 p1767
+aS'Flanker'
+p1768
+aS'10'
+p1769
+aS'8'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Parys'
+p1770
+aVFrance
+p1771
+aVFrance métropolitaine
+p1772
+aVÎle-de-France
+p1773
+aVParis
+p1774
+aa(lp1775
+S"George d'Alton"
+p1776
+aS'1933'
+p1777
+aS'Flanker'
+p1778
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cape Town'
+p1779
+aVSouth Africa
+p1780
+aVWestern Cape
+p1781
+aVCity of Cape Town
+p1782
+aVCape Town
+p1783
+aa(lp1784
+S'Fronie Froneman'
+p1785
+aS'1933'
+p1786
+aS'Flanker'
+p1787
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cathcart'
+p1788
+aVUnited Kingdom
+p1789
+aVG
+aVScotland
+p1790
+aVGlasgow City
+p1791
+aa(lp1792
+S'Jack Gage'
+p1793
+aS'1926'
+p1794
+aS'Wing'
+p1795
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Worcester'
+p1796
+aVUnited Kingdom
+p1797
+aVEngland
+p1798
+aVWest Midlands
+p1799
+aVWorcestershire
+p1800
+aa(lp1801
+S'Manie Geere'
+p1802
+aS'1933'
+p1803
+aS'Lock'
+p1804
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Pretoria'
+p1805
+aVSouth Africa
+p1806
+aVGauteng
+p1807
+aVCity of Tshwane Metropolitan Municipality
+p1808
+aVPretoria
+p1809
+aa(lp1810
+S'Fanie Louw'
+p1811
+aS'1933'
+p1812
+aS'Prop'
+p1813
+aS'12'
+p1814
+aS'8'
+aS'4'
+aS'0'
+aS'2'
+aS'6'
+aS'Paarl District'
+p1815
+aVSouth Africa
+p1816
+aVWestern Cape
+p1817
+aVCape Winelands District Municipality
+p1818
+aVPaarl
+p1819
+aa(lp1820
+S'Freddy Turner'
+p1821
+aS'1933'
+p1822
+aS'Wing'
+p1823
+aS'11'
+p1824
+aS'8'
+aS'3'
+aS'0'
+aS'4'
+aS'29'
+p1825
+aS'Port Elizabeth'
+p1826
+aVSouth Africa
+p1827
+aVEastern Cape
+p1828
+aVNelson Mandela Bay Metropolitan Municipality
+p1829
+aVPort Elizabeth
+p1830
+aa(lp1831
+S'Lappies Hattingh'
+p1832
+aS'1933'
+p1833
+aS'Flanker'
+p1834
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Lindley'
+p1835
+aVUnited States of America
+p1836
+aVNew York
+p1837
+aVSteuben County
+p1838
+aVLindley
+p1839
+aa(lp1840
+S'Pat Lyster'
+p1841
+aS'1933'
+p1842
+aS'Wing'
+p1843
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Durban'
+p1844
+aVSouth Africa
+p1845
+aVKwaZulu-Natal
+p1846
+aVeThekwini Metropolitan Municipality
+p1847
+aVDurban
+p1848
+aa(lp1849
+S'Joe Nykamp'
+p1850
+aS'1933'
+p1851
+aS'Prop'
+p1852
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pretoria'
+p1853
+aVSouth Africa
+p1854
+aVGauteng
+p1855
+aVCity of Tshwane Metropolitan Municipality
+p1856
+aVPretoria
+p1857
+aa(lp1858
+S'Paul Visser'
+p1859
+aS'1933'
+p1860
+aS'Prop'
+p1861
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Lichtenburg'
+p1862
+aVDeutschland
+p1863
+aVBerlin
+p1864
+aVLichtenberg
+p1865
+ag82
+aa(lp1866
+S'Ginger Clark'
+p1867
+aS'1933'
+p1868
+aS'Flanker'
+p1869
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Kimberley'
+p1870
+aVSouth Africa
+p1871
+aVNorthern Cape
+p1872
+aVFrances Baard District Municipality
+p1873
+aVKimberley
+p1874
+aa(lp1875
+S'Fred Smollan'
+p1876
+aS'1933'
+p1877
+aS'Flanker'
+p1878
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Uitenhage'
+p1879
+aVSouth Africa
+p1880
+aVEastern Cape
+p1881
+aVNelson Mandela Bay Metropolitan Municipality
+p1882
+aVUitenhage
+p1883
+aa(lp1884
+S'John Apsey'
+p1885
+aS'1933'
+p1886
+aS'No. 8'
+p1887
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Cape Town'
+p1888
+aVSouth Africa
+p1889
+aVWestern Cape
+p1890
+aVCity of Cape Town
+p1891
+aVCape Town
+p1892
+aa(lp1893
+S'Bunny Reid'
+p1894
+aS'1933'
+p1895
+aS'Fullback'
+p1896
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'East London'
+p1897
+aVSouth Africa
+p1898
+aVEastern Cape
+p1899
+aVBuffalo City Metropolitan Municipality
+p1900
+aVEast London
+p1901
+aa(lp1902
+S'Louis Babrow'
+p1903
+aS'1937'
+p1904
+aS'Centre'
+p1905
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'3'
+aS'9'
+aS'Smithfield'
+p1906
+aVUnited States of America
+p1907
+aVNorth Carolina
+p1908
+aVJohnston County
+p1909
+aVSmithfield
+p1910
+aa(lp1911
+S'Ebbo Bastard'
+p1912
+aS'1937'
+p1913
+aS'Flanker'
+p1914
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'2'
+aS'6'
+aS'Kokstad'
+p1915
+aVSouth Africa
+p1916
+aVKwaZulu-Natal
+p1917
+aVSisonke District Municipality
+p1918
+aVKokstad
+p1919
+aa(lp1920
+S'Jan Lotz'
+p1921
+aS'1937'
+p1922
+aS'Hooker'
+p1923
+aS'8'
+aS'6'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'Krugersdorp'
+p1924
+aVSouth Africa
+p1925
+aVGauteng
+p1926
+aVWest Rand District Municipality
+p1927
+aVKrugersdorp
+p1928
+aa(lp1929
+S'Mauritz van den Berg'
+p1930
+aS'1937'
+p1931
+aS'Lock'
+p1932
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pretoria'
+p1933
+aVSouth Africa
+p1934
+aVGauteng
+p1935
+aVCity of Tshwane Metropolitan Municipality
+p1936
+aVPretoria
+p1937
+aa(lp1938
+S'Dai Williams'
+p1939
+aS'1937'
+p1940
+aS'Wing'
+p1941
+aS'8'
+aS'6'
+aS'2'
+aS'0'
+aS'5'
+aS'15'
+p1942
+aS'Mowbray'
+p1943
+aVSouth Africa
+p1944
+aVWestern Cape
+p1945
+aVCity of Cape Town
+p1946
+aVCape Town
+p1947
+aa(lp1948
+S'Harry Martin'
+p1949
+aS'1937'
+p1950
+aS'Prop'
+p1951
 aS'1'
 aS'1'
 aS'0'
@@ -4707,20 +5117,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bloemfontein'
-p1768
+p1952
 aVSouth Africa
-p1769
+p1953
 aVFree State
-p1770
+p1954
 aVMangaung Metropolitan Municipality
-p1771
-aa(lp1772
+p1955
+aVBloemfontein
+p1956
+aa(lp1957
 S'Vandie van de Vyver'
-p1773
+p1958
 aS'1937'
-p1774
+p1959
 aS'Fly-half'
-p1775
+p1960
 aS'1'
 aS'1'
 aS'0'
@@ -4728,20 +5140,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Seymour'
-p1776
+p1961
 aVUnited States of America
-p1777
+p1962
 aVIndiana
-p1778
+p1963
 aVJackson County
-p1779
-aa(lp1780
+p1964
+aVSeymour
+p1965
+aa(lp1966
 S'George van Reenen'
-p1781
+p1967
 aS'1937'
-p1782
+p1968
 aS'No. 8'
-p1783
+p1969
 aS'2'
 aS'1'
 aS'1'
@@ -4749,20 +5163,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Darling'
-p1784
+p1970
 aVSouth Africa
-p1785
+p1971
 aVWestern Cape
-p1786
+p1972
 aVWest Coast District Municipality
-p1787
-aa(lp1788
+p1973
+aVDarling
+p1974
+aa(lp1975
 S'CB Jennings'
-p1789
+p1976
 aS'1937'
-p1790
+p1977
 aS'Prop'
-p1791
+p1978
 aS'1'
 aS'0'
 aS'1'
@@ -4770,20 +5186,22 @@ aS'0'
 aS'0'
 aS'0'
 aS"King William's Town"
-p1792
+p1979
 aVSouth Africa
-p1793
+p1980
 aVEastern Cape
-p1794
+p1981
 aVBuffalo City Metropolitan Municipality
-p1795
-aa(lp1796
+p1982
+aVKing William's Town
+p1983
+aa(lp1984
 S'Tony Harris'
-p1797
+p1985
 aS'1937'
-p1798
+p1986
 aS'Fly-half'
-p1799
+p1987
 aS'5'
 aS'4'
 aS'1'
@@ -4791,20 +5209,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Kimberley'
-p1800
+p1988
 aVSouth Africa
-p1801
+p1989
 aVNorthern Cape
-p1802
+p1990
 aVFrances Baard District Municipality
-p1803
-aa(lp1804
+p1991
+aVKimberley
+p1992
+aa(lp1993
 S'Flappie Lochner'
-p1805
+p1994
 aS'1937'
-p1806
+p1995
 aS'Centre'
-p1807
+p1996
 aS'3'
 aS'3'
 aS'0'
@@ -4812,17 +5232,18 @@ aS'0'
 aS'1'
 aS'3'
 aS'Van Rhynsdorp'
-p1808
+p1997
 aS'g'
 aS'n'
 aS'i'
-aa(lp1809
+aS's'
+aa(lp1998
 S'Piet de Wet'
-p1810
+p1999
 aS'1938'
-p1811
+p2000
 aS'Centre'
-p1812
+p2001
 aS'3'
 aS'2'
 aS'1'
@@ -4830,20 +5251,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Somerset East'
-p1813
+p2002
 aVSouth Africa
-p1814
+p2003
 aVEastern Cape
-p1815
+p2004
 aVSarah Baartman District Municipality
-p1816
-aa(lp1817
+p2005
+aVSomerset East
+p2006
+aa(lp2007
 S'Ben du Toit'
-p1818
+p2008
 aS'1938'
-p1819
+p2009
 aS'Flanker'
-p1820
+p2010
 aS'3'
 aS'2'
 aS'1'
@@ -4851,20 +5274,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Malmesbury'
-p1821
+p2011
 aVUnited Kingdom
-p1822
+p2012
 aVSN16 9
-p1823
+p2013
 aVEngland
-p1824
-aa(lp1825
+p2014
+aVSouth West England
+p2015
+aa(lp2016
 S'Roger Sherriff'
-p1826
+p2017
 aS'1938'
-p1827
+p2018
 aS'Lock'
-p1828
+p2019
 aS'3'
 aS'2'
 aS'1'
@@ -4872,20 +5297,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kimberley'
-p1829
+p2020
 aVSouth Africa
-p1830
+p2021
 aVNorthern Cape
-p1831
+p2022
 aVFrances Baard District Municipality
-p1832
-aa(lp1833
+p2023
+aVKimberley
+p2024
+aa(lp2025
 S'Johnny Bester'
-p1834
+p2026
 aS'1938'
-p1835
+p2027
 aS'Wing'
-p1836
+p2028
 aS'2'
 aS'1'
 aS'1'
@@ -4893,20 +5320,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Moorreesburg'
-p1837
+p2029
 aVSouth Africa
-p1838
+p2030
 aVWestern Cape
-p1839
+p2031
 aVWest Coast District Municipality
-p1840
-aa(lp1841
+p2032
+aVMoorreesburg
+p2033
+aa(lp2034
 S'George Smith'
-p1842
+p2035
 aS'1938'
-p1843
+p2036
 aS'Fullback'
-p1844
+p2037
 aS'1'
 aS'0'
 aS'1'
@@ -4914,44 +5343,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Humansdorp'
-p1845
+p2038
 aVSouth Africa
-p1846
+p2039
 aVEastern Cape
-p1847
+p2040
 aVSarah Baartman District Municipality
-p1848
-aa(lp1849
+p2041
+aVHumansdorp
+p2042
+aa(lp2043
 S'Hannes Brewis'
-p1850
+p2044
 aS'1949'
-p1851
+p2045
 aS'Fly-half'
-p1852
+p2046
 aS'10'
-p1853
+p2047
 aS'10'
-p1854
+p2048
 aS'0'
 aS'0'
 aS'1'
 aS'18'
-p1855
+p2049
 aS'Oudtshoorn'
-p1856
+p2050
 aVSouth Africa
-p1857
+p2051
 aVWestern Cape
-p1858
+p2052
 aVEden District Municipality
-p1859
-aa(lp1860
+p2053
+aVOudtshoorn
+p2054
+aa(lp2055
 S'Felix du Plessis'
-p1861
+p2056
 aS'1949'
-p1862
+p2057
 aS'Lock'
-p1863
+p2058
 aS'3'
 aS'3'
 aS'0'
@@ -4959,20 +5392,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'OFS'
-p1864
+p2059
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1865
+p2060
 aV457040
-p1866
+p2061
 aV\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433
-p1867
-aa(lp1868
+p2062
+aV\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c
+p2063
+aa(lp2064
 S'Floors Duvenage'
-p1869
+p2065
 aS'1949'
-p1870
+p2066
 aS'Centre'
-p1871
+p2067
 aS'2'
 aS'2'
 aS'0'
@@ -4980,42 +5415,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Vryburg'
-p1872
+p2068
 aVSouth Africa
-p1873
+p2069
 aVNorth West
-p1874
+p2070
 aVDr Ruth Segomotsi Mompati District Municipality
-p1875
-aa(lp1876
+p2071
+aVVryburg
+p2072
+aa(lp2073
 S'Okey Geffin'
-p1877
+p2074
 aS'1949'
-p1878
+p2075
 aS'Prop'
-p1879
+p2076
 aS'7'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'48'
-p1880
+p2077
 aS'Johannesburg'
-p1881
+p2078
 aVSouth Africa
-p1882
+p2079
 aV2001
-p1883
+p2080
 aVGauteng
-p1884
-aa(lp1885
+p2081
+aVCity of Johannesburg Metropolitan Municipality
+p2082
+aa(lp2083
 S'Jorrie Jordaan'
-p1886
+p2084
 aS'1949'
-p1887
+p2085
 aS'Hooker'
-p1888
+p2086
 aS'4'
 aS'4'
 aS'0'
@@ -5023,20 +5462,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cradock'
-p1889
+p2087
 aVSouth Africa
-p1890
+p2088
 aVEastern Cape
-p1891
+p2089
 aVChris Hani District Municipality
-p1892
-aa(lp1893
+p2090
+aVCradock
+p2091
+aa(lp2092
 S'Bubbles Koch'
-p1894
+p2093
 aS'1949'
-p1895
+p2094
 aS'Lock'
-p1896
+p2095
 aS'4'
 aS'4'
 aS'0'
@@ -5044,62 +5485,66 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hopefield'
-p1897
+p2096
 aVAustralia
-p1898
+p2097
 aVNew South Wales
-p1899
+p2098
 aVHopefield
-p1900
-aa(lp1901
+p2099
+ag82
+aa(lp2100
 S'Tjol Lategan'
-p1902
+p2101
 aS'1949'
-p1903
+p2102
 aS'Centre'
-p1904
+p2103
 aS'11'
-p1905
+p2104
 aS'10'
-p1906
+p2105
 aS'1'
 aS'0'
 aS'3'
 aS'9'
 aS'Stellenbosch'
-p1907
+p2106
 aVSouth Africa
-p1908
+p2107
 aVWestern Cape
-p1909
+p2108
 aVCape Winelands District Municipality
-p1910
-aa(lp1911
+p2109
+aVStellenbosch
+p2110
+aa(lp2111
 S'Buks Marais'
-p1912
+p2112
 aS'1949'
-p1913
+p2113
 aS'Wing'
-p1914
+p2114
 aS'5'
 aS'4'
 aS'1'
 aS'0'
 aS'1'
 aS'10'
-p1915
+p2115
 aS'Cape Prov'
-p1916
+p2116
 aS'g'
 aS'n'
 aS'i'
-aa(lp1917
+aS's'
+aa(lp2117
 S'Cecil Moss'
-p1918
+p2118
 aS'1949'
-p1919
+p2119
 aS'Wing'
-p1920
+p2120
 aS'4'
 aS'4'
 aS'0'
@@ -5107,44 +5552,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Riversdale'
-p1921
+p2121
 aVCanada
-p1922
+p2122
 aVS7M0X2
-p1923
+p2123
 aVSaskatchewan
-p1924
-aa(lp1925
+p2124
+aVCity of Saskatoon
+p2125
+aa(lp2126
 S'Hennie Muller'
-p1926
+p2127
 aS'1949'
-p1927
+p2128
 aS'No. 8'
-p1928
+p2129
 aS'13'
-p1929
+p2130
 aS'12'
-p1930
+p2131
 aS'1'
 aS'0'
 aS'3'
 aS'16'
-p1931
+p2132
 aS'Tvl'
-p1932
+p2133
 aVUnited States of America
-p1933
+p2134
 aV96150
-p1934
+p2135
 aVCalifornia
-p1935
-aa(lp1936
+p2136
+aVEl Dorado County
+p2137
+aa(lp2138
 S'Louis Strydom'
-p1937
+p2139
 aS'1949'
-p1938
+p2140
 aS'Flanker'
-p1939
+p2141
 aS'2'
 aS'2'
 aS'0'
@@ -5152,20 +5601,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Robertson'
-p1940
+p2142
 aVUnited States of America
-p1941
+p2143
 aVTennessee
-p1942
+p2144
 aVRobertson
-p1943
-aa(lp1944
+p2145
+ag82
+aa(lp2146
 S'Fiks van der Merwe'
-p1945
+p2147
 aS'1949'
-p1946
+p2148
 aS'Flanker'
-p1947
+p2149
 aS'1'
 aS'1'
 aS'0'
@@ -5173,42 +5623,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cradock'
-p1948
+p2150
 aVSouth Africa
-p1949
+p2151
 aVEastern Cape
-p1950
+p2152
 aVChris Hani District Municipality
-p1951
-aa(lp1952
+p2153
+aVCradock
+p2154
+aa(lp2155
 S'Jack van der Schyff'
-p1953
+p2156
 aS'1949'
-p1954
+p2157
 aS'Fullback'
-p1955
+p2158
 aS'5'
 aS'4'
 aS'1'
 aS'0'
 aS'0'
 aS'10'
-p1956
+p2159
 aS'Kimberley'
-p1957
+p2160
 aVSouth Africa
-p1958
+p2161
 aVNorthern Cape
-p1959
+p2162
 aVFrances Baard District Municipality
-p1960
-aa(lp1961
+p2163
+aVKimberley
+p2164
+aa(lp2165
 S'Hoppy van Jaarsveld'
-p1962
+p2166
 aS'1949'
-p1963
+p2167
 aS'Prop'
-p1964
+p2168
 aS'1'
 aS'1'
 aS'0'
@@ -5216,20 +5670,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bloemhof'
-p1965
+p2169
 aVNederland
-p1966
+p2170
 aVZuid-Holland
-p1967
+p2171
 aVMRDH
-p1968
-aa(lp1969
+p2172
+aVRotterdam
+p2173
+aa(lp2174
 S'Ballie Wahl'
-p1970
+p2175
 aS'1949'
-p1971
+p2176
 aS'Scrum-half'
-p1972
+p2177
 aS'1'
 aS'1'
 aS'0'
@@ -5237,44 +5693,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Paarl'
-p1973
+p2178
 aVSouth Africa
-p1974
+p2179
 aVWestern Cape
-p1975
+p2180
 aVCape Winelands District Municipality
-p1976
-aa(lp1977
+p2181
+aVPaarl
+p2182
+aa(lp2183
 S'Salty du Rand'
-p1978
+p2184
 aS'1949'
-p1979
+p2185
 aS'Lock'
-p1980
+p2186
 aS'21'
-p1981
+p2187
 aS'15'
-p1982
+p2188
 aS'6'
 aS'0'
 aS'4'
 aS'12'
-p1983
+p2189
 aS'Hofmeyr'
-p1984
+p2190
 aVSouth Africa
-p1985
+p2191
 aVEastern Cape
-p1986
+p2192
 aVChris Hani District Municipality
-p1987
-aa(lp1988
+p2193
+aVHofmeyr
+p2194
+aa(lp2195
 S'Fonnie du Toit'
-p1989
+p2196
 aS'1949'
-p1990
+p2197
 aS'Scrum-half'
-p1991
+p2198
 aS'8'
 aS'8'
 aS'0'
@@ -5282,64 +5742,69 @@ aS'0'
 aS'2'
 aS'6'
 aS'Vryburg'
-p1992
+p2199
 aVSouth Africa
-p1993
+p2200
 aVNorth West
-p1994
+p2201
 aVDr Ruth Segomotsi Mompati District Municipality
-p1995
-aa(lp1996
+p2202
+aVVryburg
+p2203
+aa(lp2204
 S'Chris Koch'
-p1997
+p2205
 aS'1949'
-p1998
+p2206
 aS'Prop'
-p1999
+p2207
 aS'22'
-p2000
+p2208
 aS'15'
-p2001
+p2209
 aS'6'
 aS'1'
 aS'5'
 aS'15'
-p2002
+p2210
 aS'Moorreesburg'
-p2003
+p2211
 aVSouth Africa
-p2004
+p2212
 aVWestern Cape
-p2005
+p2213
 aVWest Coast District Municipality
-p2006
-aa(lp2007
+p2214
+aVMoorreesburg
+p2215
+aa(lp2216
 S'Ryk van Schoor'
-p2008
+p2217
 aS'1949'
-p2009
+p2218
 aS'Centre'
-p2010
+p2219
 aS'12'
-p2011
+p2220
 aS'11'
-p2012
+p2221
 aS'1'
 aS'0'
 aS'2'
 aS'6'
 aS'CapePrv'
-p2013
+p2222
 aS'g'
 aS'n'
 aS'i'
-aa(lp2014
+aS's'
+aa(lp2223
 S'Flip Geel'
-p2015
+p2224
 aS'1949'
-p2016
+p2225
 aS'Lock'
-p2017
+p2226
 aS'1'
 aS'1'
 aS'0'
@@ -5347,20 +5812,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Boshof'
-p2018
+p2227
 aVSouth Africa
-p2019
+p2228
 aVFree State
-p2020
+p2229
 aVLejweleputswa District Municipality
-p2021
-aa(lp2022
+p2230
+aVBoshof
+p2231
+aa(lp2232
 S'Willem Barnard'
-p2023
+p2233
 aS'1949'
-p2024
+p2234
 aS'Lock'
-p2025
+p2235
 aS'2'
 aS'2'
 aS'0'
@@ -5368,20 +5835,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Upington'
-p2026
+p2236
 aVSouth Africa
-p2027
+p2237
 aVNorthern Cape
-p2028
+p2238
 aVZF Mgcawu District Municipality
-p2029
-aa(lp2030
+p2239
+aVUpington
+p2240
+aa(lp2241
 S'Carrots Geraghty'
-p2031
+p2242
 aS'1949'
-p2032
+p2243
 aS'Wing'
-p2033
+p2244
 aS'1'
 aS'1'
 aS'0'
@@ -5389,20 +5858,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Port Beaufort'
-p2034
+p2245
 aVSouth Africa
-p2035
+p2246
 aVWestern Cape
-p2036
+p2247
 aVEden District Municipality
-p2037
-aa(lp2038
+p2248
+aVPort Beaufort
+p2249
+aa(lp2250
 S'Basil Kenyon'
-p2039
+p2251
 aS'1949'
-p2040
+p2252
 aS'Flanker'
-p2041
+p2253
 aS'1'
 aS'1'
 aS'0'
@@ -5410,17 +5881,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Umtala'
-p2042
+p2254
 aS'g'
 aS'n'
 aS'i'
-aa(lp2043
+aS's'
+aa(lp2255
 S'Piet Malan'
-p2044
+p2256
 aS'1949'
-p2045
+p2257
 aS'Flanker'
-p2046
+p2258
 aS'1'
 aS'1'
 aS'0'
@@ -5428,42 +5900,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Parys'
-p2047
+p2259
 aVFrance
-p2048
+p2260
 aVFrance métropolitaine
-p2049
+p2261
 aVÎle-de-France
-p2050
-aa(lp2051
+p2262
+aVParis
+p2263
+aa(lp2264
 S'Johnny Buchler'
-p2052
+p2265
 aS'1951'
-p2053
+p2266
 aS'Fullback'
-p2054
+p2267
 aS'10'
-p2055
+p2268
 aS'9'
 aS'1'
 aS'0'
 aS'0'
 aS'8'
 aS'Johannesburg'
-p2056
+p2269
 aVSouth Africa
-p2057
+p2270
 aV2001
-p2058
+p2271
 aVGauteng
-p2059
-aa(lp2060
+p2272
+aVCity of Johannesburg Metropolitan Municipality
+p2273
+aa(lp2274
 S'Willa Delport'
-p2061
+p2275
 aS'1951'
-p2062
+p2276
 aS'Hooker'
-p2063
+p2277
 aS'9'
 aS'8'
 aS'1'
@@ -5471,20 +5947,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Kirkwood'
-p2064
+p2278
 aVUnited States of America
-p2065
+p2279
 aVMissouri
-p2066
+p2280
 aVSt. Louis County
-p2067
-aa(lp2068
+p2281
+aVKirkwood
+p2282
+aa(lp2283
 S'Ernst Dinkelmann'
-p2069
+p2284
 aS'1951'
-p2070
+p2285
 aS'Lock'
-p2071
+p2286
 aS'6'
 aS'5'
 aS'1'
@@ -5492,88 +5970,95 @@ aS'0'
 aS'2'
 aS'6'
 aS'Ermelo'
-p2072
+p2287
 aVNederland
-p2073
+p2288
 aVGelderland
-p2074
+p2289
 aVErmelo
-p2075
-aa(lp2076
+p2290
+ag82
+aa(lp2291
 S'Stephen Fry'
-p2077
+p2292
 aS'1951'
-p2078
+p2293
 aS'Flanker'
-p2079
+p2294
 aS'13'
-p2080
+p2295
 aS'10'
-p2081
+p2296
 aS'3'
 aS'0'
 aS'0'
 aS'0'
 aS'Somerset West'
-p2082
+p2297
 aVSouth Africa
-p2083
+p2298
 aVWestern Cape
-p2084
+p2299
 aVCity of Cape Town
-p2085
-aa(lp2086
+p2300
+aVSomerset West
+p2301
+aa(lp2302
 S'Paul Johnstone'
-p2087
+p2303
 aS'1951'
-p2088
+p2304
 aS'Wing'
-p2089
+p2305
 aS'9'
 aS'7'
 aS'2'
 aS'0'
 aS'2'
 aS'11'
-p2090
+p2306
 aS'Johannesburg'
-p2091
+p2307
 aVSouth Africa
-p2092
+p2308
 aV2001
-p2093
+p2309
 aVGauteng
-p2094
-aa(lp2095
+p2310
+aVCity of Johannesburg Metropolitan Municipality
+p2311
+aa(lp2312
 S'Basie van Wyk'
-p2096
+p2313
 aS'1951'
-p2097
+p2314
 aS'Flanker'
-p2098
+p2315
 aS'10'
-p2099
+p2316
 aS'8'
 aS'2'
 aS'0'
 aS'6'
 aS'18'
-p2100
+p2317
 aS'Vryburg'
-p2101
+p2318
 aVSouth Africa
-p2102
+p2319
 aVNorth West
-p2103
+p2320
 aVDr Ruth Segomotsi Mompati District Municipality
-p2104
-aa(lp2105
+p2321
+aVVryburg
+p2322
+aa(lp2323
 S'Chum Ochse'
-p2106
+p2324
 aS'1951'
-p2107
+p2325
 aS'Wing'
-p2108
+p2326
 aS'7'
 aS'6'
 aS'1'
@@ -5581,43 +6066,46 @@ aS'0'
 aS'3'
 aS'9'
 aS'Graaf-Reinet'
-p2109
+p2327
 aVSouth Africa
-p2110
+p2328
 aV1490
-p2111
+p2329
 aVGauteng
-p2112
-aa(lp2113
+p2330
+aVEkurhuleni Metropolitan Municipality
+p2331
+aa(lp2332
 S'Jaap Bekker'
-p2114
+p2333
 aS'1952'
-p2115
+p2334
 aS'Prop'
-p2116
+p2335
 aS'15'
-p2117
+p2336
 aS'10'
-p2118
+p2337
 aS'5'
 aS'0'
 aS'1'
 aS'3'
 aS'Dordrecht'
-p2119
+p2338
 aVNederland
-p2120
+p2339
 aVZuid-Holland
-p2121
+p2340
 aVDordrecht
-p2122
-aa(lp2123
+p2341
+ag82
+aa(lp2342
 S'Hansie Oelofse'
-p2124
+p2343
 aS'1953'
-p2125
+p2344
 aS'Scrum-half'
-p2126
+p2345
 aS'4'
 aS'3'
 aS'1'
@@ -5625,42 +6113,46 @@ aS'0'
 aS'2'
 aS'6'
 aS'Johannesburg'
-p2127
+p2346
 aVSouth Africa
-p2128
+p2347
 aV2001
-p2129
+p2348
 aVGauteng
-p2130
-aa(lp2131
+p2349
+aVCity of Johannesburg Metropolitan Municipality
+p2350
+aa(lp2351
 S'Ian Kirkpatrick'
-p2132
+p2352
 aS'1953'
-p2133
+p2353
 aS'Centre'
-p2134
+p2354
 aS'13'
-p2135
+p2355
 aS'8'
 aS'2'
 aS'3'
 aS'0'
 aS'0'
 aS'Bloemfontein'
-p2136
+p2356
 aVSouth Africa
-p2137
+p2357
 aVFree State
-p2138
+p2358
 aVMangaung Metropolitan Municipality
-p2139
-aa(lp2140
+p2359
+aVBloemfontein
+p2360
+aa(lp2361
 S'Dolf Bekker'
-p2141
+p2362
 aS'1953'
-p2142
+p2363
 aS'Wing'
-p2143
+p2364
 aS'2'
 aS'2'
 aS'0'
@@ -5668,20 +6160,21 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dordrecht'
-p2144
+p2365
 aVNederland
-p2145
+p2366
 aVZuid-Holland
-p2146
+p2367
 aVDordrecht
-p2147
-aa(lp2148
+p2368
+ag82
+aa(lp2369
 S'Steve Hoffman'
-p2149
+p2370
 aS'1953'
-p2150
+p2371
 aS'Wing'
-p2151
+p2372
 aS'1'
 aS'1'
 aS'0'
@@ -5689,20 +6182,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Parow'
-p2152
+p2373
 aVSouth Africa
-p2153
+p2374
 aVWestern Cape
-p2154
+p2375
 aVCity of Cape Town
-p2155
-aa(lp2156
+p2376
+aVParow
+p2377
+aa(lp2378
 S'Jan Pickard'
-p2157
+p2379
 aS'1953'
-p2158
+p2380
 aS'Lock'
-p2159
+p2381
 aS'4'
 aS'3'
 aS'1'
@@ -5710,42 +6205,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Paarl'
-p2160
+p2382
 aVSouth Africa
-p2161
+p2383
 aVWestern Cape
-p2162
+p2384
 aVCape Winelands District Municipality
-p2163
-aa(lp2164
+p2385
+aVPaarl
+p2386
+aa(lp2387
 S'Natie Rens'
-p2165
+p2388
 aS'1953'
-p2166
+p2389
 aS'Fly-half'
-p2167
+p2390
 aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
 aS'19'
-p2168
+p2391
 aS'Potchefstroom'
-p2169
+p2392
 aVSouth Africa
-p2170
+p2393
 aVNorth West
-p2171
+p2394
 aVDr Kenneth Kaunda District Municipality
-p2172
-aa(lp2173
+p2395
+aVPotchefstroom
+p2396
+aa(lp2397
 S'Daantjie Rossouw'
-p2174
+p2398
 aS'1953'
-p2175
+p2399
 aS'Centre'
-p2176
+p2400
 aS'2'
 aS'2'
 aS'0'
@@ -5753,20 +6252,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Upington'
-p2177
+p2401
 aVSouth Africa
-p2178
+p2402
 aVNorthern Cape
-p2179
+p2403
 aVZF Mgcawu District Municipality
-p2180
-aa(lp2181
+p2404
+aVUpington
+p2405
+aa(lp2406
 S'Harry Walker'
-p2182
+p2407
 aS'1953'
-p2183
+p2408
 aS'Prop'
-p2184
+p2409
 aS'4'
 aS'2'
 aS'2'
@@ -5774,66 +6275,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p2185
+p2410
 aVSouth Africa
-p2186
+p2411
 aVKwaZulu-Natal
-p2187
+p2412
 aVeThekwini Metropolitan Municipality
-p2188
-aa(lp2189
+p2413
+aVDurban
+p2414
+aa(lp2415
 S'Theuns Briers'
-p2190
+p2416
 aS'1955'
-p2191
+p2417
 aS'Wing'
-p2192
+p2418
 aS'7'
 aS'3'
 aS'4'
 aS'0'
 aS'5'
 aS'15'
-p2193
+p2419
 aS'Otterkuil'
-p2194
+p2420
 aVSouth Africa
-p2195
+p2421
 aV7599
-p2196
+p2422
 aVWestern Cape
-p2197
-aa(lp2198
+p2423
+aVCape Winelands District Municipality
+p2424
+aa(lp2425
 S'Johan Claassen'
-p2199
+p2426
 aS'1955'
-p2200
+p2427
 aS'Lock'
-p2201
+p2428
 aS'28'
-p2202
+p2429
 aS'17'
-p2203
+p2430
 aS'7'
 aS'4'
 aS'2'
 aS'10'
-p2204
+p2431
 aS'Prince Albert'
-p2205
+p2432
 aVCanada
-p2206
+p2433
 aVSaskatchewan
-p2207
+p2434
 aVPrince Albert
-p2208
-aa(lp2209
+p2435
+ag82
+aa(lp2436
 S'Amos du Plooy'
-p2210
+p2437
 aS'1955'
-p2211
+p2438
 aS'Prop'
-p2212
+p2439
 aS'1'
 aS'0'
 aS'1'
@@ -5841,20 +6347,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'nr Douglas'
-p2213
+p2440
 aVUnited States of America
-p2214
+p2441
 aV97496
-p2215
+p2442
 aVOregon
-p2216
-aa(lp2217
+p2443
+aVDouglas County
+p2444
+aa(lp2445
 S'Tommy Gentles'
-p2218
+p2446
 aS'1955'
-p2219
+p2447
 aS'Scrum-half'
-p2220
+p2448
 aS'6'
 aS'3'
 aS'3'
@@ -5862,20 +6370,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p2221
+p2449
 aVSouth Africa
-p2222
+p2450
 aV2001
-p2223
+p2451
 aVGauteng
-p2224
-aa(lp2225
+p2452
+aVCity of Johannesburg Metropolitan Municipality
+p2453
+aa(lp2454
 S'Colin Kroon'
-p2226
+p2455
 aS'1955'
-p2227
+p2456
 aS'Hooker'
-p2228
+p2457
 aS'1'
 aS'0'
 aS'1'
@@ -5883,42 +6393,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Graaf-Reinet'
-p2229
+p2458
 aVSouth Africa
-p2230
+p2459
 aV1490
-p2231
+p2460
 aVGauteng
-p2232
-aa(lp2233
+p2461
+aVEkurhuleni Metropolitan Municipality
+p2462
+aa(lp2463
 S'Daan Retief'
-p2234
+p2464
 aS'1955'
-p2235
+p2465
 aS'Flanker'
-p2236
+p2466
 aS'9'
 aS'5'
 aS'4'
 aS'0'
 aS'4'
 aS'12'
-p2237
+p2467
 aS'Lichtenburg'
-p2238
+p2468
 aVDeutschland
-p2239
+p2469
 aVBerlin
-p2240
+p2470
 aVLichtenberg
-p2241
-aa(lp2242
+p2471
+ag82
+aa(lp2472
 S'Des Sinclair'
-p2243
+p2473
 aS'1955'
-p2244
+p2474
 aS'Centre'
-p2245
+p2475
 aS'4'
 aS'2'
 aS'2'
@@ -5926,20 +6439,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p2246
+p2476
 aVSouth Africa
-p2247
+p2477
 aV2001
-p2248
+p2478
 aVGauteng
-p2249
-aa(lp2250
+p2479
+aVCity of Johannesburg Metropolitan Municipality
+p2480
+aa(lp2481
 S'Sias Swart'
-p2251
+p2482
 aS'1955'
-p2252
+p2483
 aS'Wing'
-p2253
+p2484
 aS'1'
 aS'0'
 aS'1'
@@ -5947,17 +6462,18 @@ aS'0'
 aS'1'
 aS'3'
 aS'Ofjiwarongo'
-p2254
+p2485
 aS'g'
 aS'n'
 aS'i'
-aa(lp2255
+aS's'
+aa(lp2486
 S'Clive Ulyate'
-p2256
+p2487
 aS'1955'
-p2257
+p2488
 aS'Fly-half'
-p2258
+p2489
 aS'7'
 aS'3'
 aS'4'
@@ -5965,42 +6481,46 @@ aS'0'
 aS'1'
 aS'6'
 aS'Johannesburg'
-p2259
+p2490
 aVSouth Africa
-p2260
+p2491
 aV2001
-p2261
+p2492
 aVGauteng
-p2262
-aa(lp2263
+p2493
+aVCity of Johannesburg Metropolitan Municipality
+p2494
+aa(lp2495
 S'Tom van Vollenhoven'
-p2264
+p2496
 aS'1955'
-p2265
+p2497
 aS'Wing'
-p2266
+p2498
 aS'7'
 aS'4'
 aS'3'
 aS'0'
 aS'4'
 aS'15'
-p2267
+p2499
 aS'OFS'
-p2268
+p2500
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2269
+p2501
 aV457040
-p2270
+p2502
 aV\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433
-p2271
-aa(lp2272
+p2503
+aV\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c
+p2504
+aa(lp2505
 S'Dawie Ackermann'
-p2273
+p2506
 aS'1955'
-p2274
+p2507
 aS'Flanker'
-p2275
+p2508
 aS'8'
 aS'4'
 aS'4'
@@ -6008,42 +6528,46 @@ aS'0'
 aS'1'
 aS'3'
 aS'Aliwal North'
-p2276
+p2509
 aVSouth Africa
-p2277
+p2510
 aVEastern Cape
-p2278
+p2511
 aVJoe Gqabi District Municipality
-p2279
-aa(lp2280
+p2512
+aVAliwal North
+p2513
+aa(lp2514
 S'Roy Dryburgh'
-p2281
+p2515
 aS'1955'
-p2282
+p2516
 aS'Fullback'
-p2283
+p2517
 aS'8'
 aS'4'
 aS'4'
 aS'0'
 aS'3'
 aS'28'
-p2284
+p2518
 aS'Cape Town'
-p2285
+p2519
 aVSouth Africa
-p2286
+p2520
 aVWestern Cape
-p2287
+p2521
 aVCity of Cape Town
-p2288
-aa(lp2289
+p2522
+aVCape Town
+p2523
+aa(lp2524
 S'Wilf Rosenberg'
-p2290
+p2525
 aS'1955'
-p2291
+p2526
 aS'Centre'
-p2292
+p2527
 aS'5'
 aS'2'
 aS'2'
@@ -6051,39 +6575,42 @@ aS'1'
 aS'2'
 aS'6'
 aS'Cape Town'
-p2293
+p2528
 aVSouth Africa
-p2294
+p2529
 aVWestern Cape
-p2295
+p2530
 aVCity of Cape Town
-p2296
-aa(lp2297
+p2531
+aVCape Town
+p2532
+aa(lp2533
 S'Bertus van der Merwe'
-p2298
+p2534
 aS'1955'
-p2299
+p2535
 aS'Hooker'
-p2300
+p2536
 aS'12'
-p2301
+p2537
 aS'6'
 aS'5'
 aS'1'
 aS'0'
 aS'0'
 aS'CapeProv'
-p2302
+p2538
 aS'g'
 aS'n'
 aS'i'
-aa(lp2303
+aS's'
+aa(lp2539
 S'Butch Lochner'
-p2304
+p2540
 aS'1955'
-p2305
+p2541
 aS'No. 8'
-p2306
+p2542
 aS'9'
 aS'3'
 aS'5'
@@ -6091,20 +6618,22 @@ aS'1'
 aS'2'
 aS'6'
 aS'Vredenburg'
-p2307
+p2543
 aVSouth Africa
-p2308
+p2544
 aVWestern Cape
-p2309
+p2545
 aVWest Coast District Municipality
-p2310
-aa(lp2311
+p2546
+aVVredenburg
+p2547
+aa(lp2548
 S'Popeye Strydom'
-p2312
+p2549
 aS'1955'
-p2313
+p2550
 aS'Scrum-half'
-p2314
+p2551
 aS'6'
 aS'2'
 aS'3'
@@ -6112,20 +6641,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kareedouw'
-p2315
+p2552
 aVSouth Africa
-p2316
+p2553
 aVEastern Cape
-p2317
+p2554
 aVSarah Baartman District Municipality
-p2318
-aa(lp2319
+p2555
+aVKareedouw
+p2556
+aa(lp2557
 S'Pat Montini'
-p2320
+p2558
 aS'1956'
-p2321
+p2559
 aS'Centre'
-p2322
+p2560
 aS'2'
 aS'2'
 aS'0'
@@ -6133,20 +6664,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p2323
+p2561
 aVSouth Africa
-p2324
+p2562
 aVWestern Cape
-p2325
+p2563
 aVCity of Cape Town
-p2326
-aa(lp2327
+p2564
+aVCape Town
+p2565
+aa(lp2566
 S'Jeremy Nel'
-p2328
+p2567
 aS'1956'
-p2329
+p2568
 aS'Centre'
-p2330
+p2569
 aS'8'
 aS'3'
 aS'4'
@@ -6154,20 +6687,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Louis Trichardt'
-p2331
+p2570
 aVSouth Africa
-p2332
+p2571
 aVLimpopo
-p2333
+p2572
 aVVhembe District Municipality
-p2334
-aa(lp2335
+p2573
+aVLouis Trichardt
+p2574
+aa(lp2575
 S'Brian Pfaff'
-p2336
+p2576
 aS'1956'
-p2337
+p2577
 aS'Fly-half'
-p2338
+p2578
 aS'1'
 aS'1'
 aS'0'
@@ -6175,42 +6710,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p2339
+p2579
 aVSouth Africa
-p2340
+p2580
 aVKwaZulu-Natal
-p2341
+p2581
 aVeThekwini Metropolitan Municipality
-p2342
-aa(lp2343
+p2582
+aVDurban
+p2583
+aa(lp2584
 S'Basie Vivier'
-p2344
+p2585
 aS'1956'
-p2345
+p2586
 aS'Fullback'
-p2346
+p2587
 aS'5'
 aS'3'
 aS'2'
 aS'0'
 aS'0'
 aS'11'
-p2347
+p2588
 aS'Pietersburg'
-p2348
+p2589
 aVSouth Africa
-p2349
+p2590
 aVLimpopo
-p2350
+p2591
 aVCapricorn District Municipality
-p2351
-aa(lp2352
+p2592
+aVPolokwane
+p2593
+aa(lp2594
 S'Jan du Preez'
-p2353
+p2595
 aS'1956'
-p2354
+p2596
 aS'Wing'
-p2355
+p2597
 aS'1'
 aS'0'
 aS'1'
@@ -6218,20 +6757,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Piketberg'
-p2356
+p2598
 aVSouth Africa
-p2357
+p2599
 aVWestern Cape
-p2358
+p2600
 aVWest Coast District Municipality
-p2359
-aa(lp2360
+p2601
+aVPiketberg
+p2602
+aa(lp2603
 S'Pee-wee Howe'
-p2361
+p2604
 aS'1956'
-p2362
+p2605
 aS'Centre'
-p2363
+p2606
 aS'2'
 aS'0'
 aS'2'
@@ -6239,20 +6780,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Port Nolloth'
-p2364
+p2607
 aVSouth Africa
-p2365
+p2608
 aVNorthern Cape
-p2366
+p2609
 aVNamakwa District Municipality
-p2367
-aa(lp2368
+p2610
+aVPort Nolloth
+p2611
+aa(lp2612
 S'James Starke'
-p2369
+p2613
 aS'1956'
-p2370
+p2614
 aS'Flanker'
-p2371
+p2615
 aS'1'
 aS'0'
 aS'1'
@@ -6260,42 +6803,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durbanville'
-p2372
+p2616
 aVSouth Africa
-p2373
+p2617
 aVWestern Cape
-p2374
+p2618
 aVCity of Cape Town
-p2375
-aa(lp2376
+p2619
+aVDurbanville
+p2620
+aa(lp2621
 S'Piet du Toit'
-p2377
+p2622
 aS'1958'
-p2378
+p2623
 aS'Prop'
-p2379
+p2624
 aS'14'
-p2380
+p2625
 aS'9'
 aS'2'
 aS'3'
 aS'0'
 aS'0'
 aS'Petrusville'
-p2381
+p2626
 aVSouth Africa
-p2382
+p2627
 aVNorthern Cape
-p2383
+p2628
 aVPixley ka Seme District Municipality
-p2384
-aa(lp2385
+p2629
+aVPetrusville
+p2630
+aa(lp2631
 S'Loftie Fourie'
-p2386
+p2632
 aS'1958'
-p2387
+p2633
 aS'Wing'
-p2388
+p2634
 aS'2'
 aS'0'
 aS'1'
@@ -6303,20 +6850,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Outdshoorn'
-p2389
+p2635
 aVSouth Africa
-p2390
+p2636
 aVWestern Cape
-p2391
+p2637
 aVCity of Cape Town
-p2392
-aa(lp2393
+p2638
+aVMitchells Plain
+p2639
+aa(lp2640
 S'Mickey Gerber'
-p2394
+p2641
 aS'1958'
-p2395
+p2642
 aS'Fullback'
-p2396
+p2643
 aS'3'
 aS'1'
 aS'1'
@@ -6324,42 +6873,46 @@ aS'1'
 aS'0'
 aS'8'
 aS'Port Elizabeth'
-p2397
+p2644
 aVSouth Africa
-p2398
+p2645
 aVEastern Cape
-p2399
+p2646
 aVNelson Mandela Bay Metropolitan Municipality
-p2400
-aa(lp2401
+p2647
+aVPort Elizabeth
+p2648
+aa(lp2649
 S'Martin Pelser'
-p2402
+p2650
 aS'1958'
-p2403
+p2651
 aS'Flanker'
-p2404
+p2652
 aS'11'
-p2405
+p2653
 aS'7'
 aS'1'
 aS'3'
 aS'2'
 aS'6'
 aS'Johannesburg'
-p2406
+p2654
 aVSouth Africa
-p2407
+p2655
 aV2001
-p2408
+p2656
 aVGauteng
-p2409
-aa(lp2410
+p2657
+aVCity of Johannesburg Metropolitan Municipality
+p2658
+aa(lp2659
 S'Jan Prinsloo'
-p2411
+p2660
 aS'1958'
-p2412
+p2661
 aS'Wing'
-p2413
+p2662
 aS'2'
 aS'0'
 aS'1'
@@ -6367,20 +6920,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Pretoria'
-p2414
+p2663
 aVSouth Africa
-p2415
+p2664
 aVGauteng
-p2416
+p2665
 aVCity of Tshwane Metropolitan Municipality
-p2417
-aa(lp2418
+p2666
+aVPretoria
+p2667
+aa(lp2668
 S'Johan Steenekamp'
-p2419
+p2669
 aS'1958'
-p2420
+p2670
 aS'Lock'
-p2421
+p2671
 aS'1'
 aS'0'
 aS'0'
@@ -6388,44 +6943,48 @@ aS'1'
 aS'0'
 aS'0'
 aS'Alberton'
-p2422
+p2672
 aVCanada
-p2423
+p2673
 aVPrince Edward Island
-p2424
+p2674
 aVPrince County
-p2425
-aa(lp2426
+p2675
+aVAlberton
+p2676
+aa(lp2677
 S'Hugo van Zyl'
-p2427
+p2678
 aS'1958'
-p2428
+p2679
 aS'Flanker'
-p2429
+p2680
 aS'17'
-p2430
+p2681
 aS'12'
-p2431
+p2682
 aS'1'
 aS'4'
 aS'4'
 aS'12'
-p2432
+p2683
 aS'Porterville'
-p2433
+p2684
 aVUnited States of America
-p2434
+p2685
 aVCalifornia
-p2435
+p2686
 aVTulare County
-p2436
-aa(lp2437
+p2687
+aVPorterville
+p2688
+aa(lp2689
 S'Joe Kaminer'
-p2438
+p2690
 aS'1958'
-p2439
+p2691
 aS'Centre'
-p2440
+p2692
 aS'1'
 aS'0'
 aS'1'
@@ -6433,42 +6992,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Warmbad'
-p2441
+p2693
 aVDeutschland
-p2442
+p2694
 aVSachsen
-p2443
+p2695
 aVErzgebirgskreis
-p2444
-aa(lp2445
+p2696
+aVWarmbad
+p2697
+aa(lp2698
 S'Abie Malan'
-p2446
+p2699
 aS'1958'
-p2447
+p2700
 aS'Hooker'
-p2448
+p2701
 aS'18'
-p2449
+p2702
 aS'9'
 aS'6'
 aS'3'
 aS'1'
 aS'3'
 aS'Kenhardt'
-p2450
+p2703
 aVSouth Africa
-p2451
+p2704
 aVNorthern Cape
-p2452
+p2705
 aVZF Mgcawu District Municipality
-p2453
-aa(lp2454
+p2706
+aVKenhardt
+p2707
+aa(lp2708
 S'Louis Schmidt'
-p2455
+p2709
 aS'1958'
-p2456
+p2710
 aS'Flanker'
-p2457
+p2711
 aS'2'
 aS'1'
 aS'1'
@@ -6476,20 +7039,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Middelburg-Cape'
-p2458
+p2712
 aVSouth Africa
-p2459
+p2713
 aVEastern Cape
-p2460
+p2714
 aVChris Hani District Municipality
-p2461
-aa(lp2462
+p2715
+aVInxuba Yethemba Local Municipality
+p2716
+aa(lp2717
 S'Alan Skene'
-p2463
+p2718
 aS'1958'
-p2464
+p2719
 aS'Centre'
-p2465
+p2720
 aS'1'
 aS'0'
 aS'1'
@@ -6497,20 +7062,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p2466
+p2721
 aVSouth Africa
-p2467
+p2722
 aVWestern Cape
-p2468
+p2723
 aVCity of Cape Town
-p2469
-aa(lp2470
+p2724
+aVCape Town
+p2725
+aa(lp2726
 S'Peter Allen'
-p2471
+p2727
 aS'1960'
-p2472
+p2728
 aS'Lock'
-p2473
+p2729
 aS'1'
 aS'1'
 aS'0'
@@ -6518,20 +7085,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Port Elizabeth'
-p2474
+p2730
 aVSouth Africa
-p2475
+p2731
 aVEastern Cape
-p2476
+p2732
 aVNelson Mandela Bay Metropolitan Municipality
-p2477
-aa(lp2478
+p2733
+aVPort Elizabeth
+p2734
+aa(lp2735
 S'Martiens Bekker'
-p2479
+p2736
 aS'1960'
-p2480
+p2737
 aS'Prop'
-p2481
+p2738
 aS'1'
 aS'1'
 aS'0'
@@ -6539,70 +7108,75 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dordrecht'
-p2482
+p2739
 aVNederland
-p2483
+p2740
 aVZuid-Holland
-p2484
+p2741
 aVDordrecht
-p2485
-aa(lp2486
+p2742
+ag82
+aa(lp2743
 S'Jannie Engelbrecht'
-p2487
+p2744
 aS'1960'
-p2488
+p2745
 aS'Wing'
-p2489
+p2746
 aS'33'
-p2490
+p2747
 aS'19'
-p2491
+p2748
 aS'11'
-p2492
+p2749
 aS'3'
 aS'8'
 aS'24'
-p2493
+p2750
 aS'Cape Town'
-p2494
+p2751
 aVSouth Africa
-p2495
+p2752
 aVWestern Cape
-p2496
+p2753
 aVCity of Cape Town
-p2497
-aa(lp2498
+p2754
+aVCape Town
+p2755
+aa(lp2756
 S'John Gainsford'
-p2499
+p2757
 aS'1960'
-p2500
+p2758
 aS'Centre'
-p2501
+p2759
 aS'33'
-p2502
+p2760
 aS'18'
-p2503
+p2761
 aS'12'
-p2504
+p2762
 aS'3'
 aS'8'
 aS'24'
-p2505
+p2763
 aS'Germiston'
-p2506
+p2764
 aVSouth Africa
-p2507
+p2765
 aVGauteng
-p2508
+p2766
 aVEkurhuleni Metropolitan Municipality
-p2509
-aa(lp2510
+p2767
+aVGermiston
+p2768
+aa(lp2769
 S'Mannetjies Gericke'
-p2511
+p2770
 aS'1960'
-p2512
+p2771
 aS'Scrum-half'
-p2513
+p2772
 aS'1'
 aS'1'
 aS'0'
@@ -6610,20 +7184,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Kimberley'
-p2514
+p2773
 aVSouth Africa
-p2515
+p2774
 aVNorthern Cape
-p2516
+p2775
 aVFrances Baard District Municipality
-p2517
-aa(lp2518
+p2776
+aVKimberley
+p2777
+aa(lp2778
 S'Dougie Holton'
-p2519
+p2779
 aS'1960'
-p2520
+p2780
 aS'Prop'
-p2521
+p2781
 aS'1'
 aS'1'
 aS'0'
@@ -6631,46 +7207,50 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p2522
+p2782
 aVSouth Africa
-p2523
+p2783
 aVWestern Cape
-p2524
+p2784
 aVCity of Cape Town
-p2525
-aa(lp2526
+p2785
+aVCape Town
+p2786
+aa(lp2787
 S'Doug Hopwood'
-p2527
+p2788
 aS'1960'
-p2528
+p2789
 aS'No. 8'
-p2529
+p2790
 aS'22'
-p2530
+p2791
 aS'15'
-p2531
+p2792
 aS'4'
 aS'3'
 aS'5'
 aS'15'
-p2532
+p2793
 aS'Cape Town'
-p2533
+p2794
 aVSouth Africa
-p2534
+p2795
 aVWestern Cape
-p2535
+p2796
 aVCity of Cape Town
-p2536
-aa(lp2537
+p2797
+aVCape Town
+p2798
+aa(lp2799
 S'Dave Stewart'
-p2538
+p2800
 aS'1960'
-p2539
+p2801
 aS'Centre'
-p2540
+p2802
 aS'11'
-p2541
+p2803
 aS'7'
 aS'3'
 aS'1'
@@ -6680,13 +7260,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2542
+aS's'
+aa(lp2804
 S'Robert Twigge'
-p2543
+p2805
 aS'1960'
-p2544
+p2806
 aS'Wing'
-p2545
+p2807
 aS'1'
 aS'1'
 aS'0'
@@ -6697,13 +7278,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2546
+aS's'
+aa(lp2808
 S'Des van Jaarsveldt'
-p2547
+p2809
 aS'1960'
-p2548
+p2810
 aS'Flanker'
-p2549
+p2811
 aS'1'
 aS'1'
 aS'0'
@@ -6711,20 +7293,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'South Rhodesia'
-p2550
+p2812
 aVUnited States of America
-p2551
+p2813
 aVWashington
-p2552
+p2814
 aVPacific County
-p2553
-aa(lp2554
+p2815
+aVRhodesia Beach
+p2816
+aa(lp2817
 S'Mike Antelme'
-p2555
+p2818
 aS'1960'
-p2556
+p2819
 aS'Wing'
-p2557
+p2820
 aS'5'
 aS'2'
 aS'1'
@@ -6732,172 +7316,186 @@ aS'2'
 aS'0'
 aS'0'
 aS'Durban'
-p2558
+p2821
 aVSouth Africa
-p2559
+p2822
 aVKwaZulu-Natal
-p2560
+p2823
 aVeThekwini Metropolitan Municipality
-p2561
-aa(lp2562
+p2824
+aVDurban
+p2825
+aa(lp2826
 S'Dick Lockyear'
-p2563
+p2827
 aS'1960'
-p2564
+p2828
 aS'Scrum-half'
-p2565
+p2829
 aS'6'
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'20'
-p2566
+p2830
 aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2567
+aS's'
+aa(lp2831
 S'Avril Malan'
-p2568
+p2832
 aS'1960'
-p2569
+p2833
 aS'Lock'
-p2570
+p2834
 aS'16'
-p2571
+p2835
 aS'8'
 aS'5'
 aS'3'
 aS'0'
 aS'0'
 aS'Pretoria'
-p2572
+p2836
 aVSouth Africa
-p2573
+p2837
 aVGauteng
-p2574
+p2838
 aVCity of Tshwane Metropolitan Municipality
-p2575
-aa(lp2576
+p2839
+aVPretoria
+p2840
+aa(lp2841
 S'Lofty Nel'
-p2577
+p2842
 aS'1960'
-p2578
+p2843
 aS'Prop, No. 8'
-p2579
+p2844
 aS'11'
-p2580
+p2845
 aS'5'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p2581
+p2846
 aVSouth Africa
-p2582
+p2847
 aVGauteng
-p2583
+p2848
 aVCity of Tshwane Metropolitan Municipality
-p2584
-aa(lp2585
+p2849
+aVPretoria
+p2850
+aa(lp2851
 S'Keith Oxlee'
-p2586
+p2852
 aS'1960'
-p2587
+p2853
 aS'Fly-half'
-p2588
+p2854
 aS'19'
-p2589
+p2855
 aS'13'
-p2590
+p2856
 aS'4'
 aS'2'
 aS'5'
 aS'88'
-p2591
+p2857
 aS'Johannesburg'
-p2592
+p2858
 aVSouth Africa
-p2593
+p2859
 aV2001
-p2594
+p2860
 aVGauteng
-p2595
-aa(lp2596
+p2861
+aVCity of Johannesburg Metropolitan Municipality
+p2862
+aa(lp2863
 S'Hennie van Zyl'
-p2597
+p2864
 aS'1960'
-p2598
+p2865
 aS'Wing'
-p2599
+p2866
 aS'10'
-p2600
+p2867
 aS'8'
 aS'1'
 aS'1'
 aS'6'
 aS'18'
-p2601
+p2868
 aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2602
+aS's'
+aa(lp2869
 S'Fanie Kuhn'
-p2603
+p2870
 aS'1960'
-p2604
+p2871
 aS'Prop'
-p2605
+p2872
 aS'19'
-p2606
+p2873
 aS'12'
-p2607
+p2874
 aS'4'
 aS'3'
 aS'0'
 aS'0'
 aS'Krugersdorp'
-p2608
+p2875
 aVSouth Africa
-p2609
+p2876
 aVGauteng
-p2610
+p2877
 aVWest Rand District Municipality
-p2611
-aa(lp2612
+p2878
+aVKrugersdorp
+p2879
+aa(lp2880
 S'Lionel Wilson'
-p2613
+p2881
 aS'1960'
-p2614
+p2882
 aS'Fullback'
-p2615
+p2883
 aS'27'
-p2616
+p2884
 aS'14'
-p2617
+p2885
 aS'10'
-p2618
+p2886
 aS'3'
 aS'0'
 aS'6'
 aS'Cape Town'
-p2619
+p2887
 aVSouth Africa
-p2620
+p2888
 aVWestern Cape
-p2621
+p2889
 aVCity of Cape Town
-p2622
-aa(lp2623
+p2890
+aVCape Town
+p2891
+aa(lp2892
 S'Stompie van der Merwe'
-p2624
+p2893
 aS'1960'
-p2625
+p2894
 aS'Lock'
-p2626
+p2895
 aS'5'
 aS'2'
 aS'3'
@@ -6908,13 +7506,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2627
+aS's'
+aa(lp2896
 S'Ronnie Hill'
-p2628
+p2897
 aS'1960'
-p2629
+p2898
 aS'Hooker'
-p2630
+p2899
 aS'7'
 aS'6'
 aS'1'
@@ -6922,67 +7521,73 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p2631
+p2900
 aVSouth Africa
-p2632
+p2901
 aV2001
-p2633
+p2902
 aVGauteng
-p2634
-aa(lp2635
+p2903
+aVCity of Johannesburg Metropolitan Municipality
+p2904
+aa(lp2905
 S'Mannetjie Roux'
-p2636
+p2906
 aS'1960'
-p2637
+p2907
 aS'Centre'
-p2638
+p2908
 aS'27'
-p2639
+p2909
 aS'18'
-p2640
+p2910
 aS'7'
 aS'2'
 aS'6'
 aS'18'
-p2641
+p2911
 aS'Victoria West'
-p2642
+p2912
 aVSouth Africa
-p2643
+p2913
 aVNorthern Cape
-p2644
+p2914
 aVPixley ka Seme District Municipality
-p2645
-aa(lp2646
+p2915
+aVVictoria West
+p2916
+aa(lp2917
 S'Piet Uys'
-p2647
+p2918
 aS'1960'
-p2648
+p2919
 aS'Scrum-half'
-p2649
+p2920
 aS'12'
-p2650
+p2921
 aS'10'
-p2651
+p2922
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'Paarl'
-p2652
+p2923
 aVSouth Africa
-p2653
+p2924
 aVWestern Cape
-p2654
+p2925
 aVCape Winelands District Municipality
-p2655
-aa(lp2656
+p2926
+aVPaarl
+p2927
+aa(lp2928
 S'Attie Baard'
-p2657
+p2929
 aS'1960'
-p2658
+p2930
 aS'No. 8'
-p2659
+p2931
 aS'1'
 aS'1'
 aS'0'
@@ -6990,44 +7595,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kakamas'
-p2660
+p2932
 aVSouth Africa
-p2661
+p2933
 aVNorthern Cape
-p2662
+p2934
 aVZF Mgcawu District Municipality
-p2663
-aa(lp2664
+p2935
+aVKakamas
+p2936
+aa(lp2937
 S'Frik du Preez'
-p2665
+p2938
 aS'1961'
-p2666
+p2939
 aS'Lock'
-p2667
+p2940
 aS'38'
-p2668
+p2941
 aS'24'
-p2669
+p2942
 aS'8'
 aS'6'
 aS'1'
 aS'11'
-p2670
+p2943
 aS'Rustenberg'
-p2671
+p2944
 aVSouth Africa
-p2672
+p2945
 aVNorth West
-p2673
+p2946
 aVBojanala Platinum District Municipality
-p2674
-aa(lp2675
+p2947
+aVRustenburg
+p2948
+aa(lp2949
 S'Colin Greenwood'
-p2676
+p2950
 aS'1961'
-p2677
+p2951
 aS'Centre'
-p2678
+p2952
 aS'1'
 aS'1'
 aS'0'
@@ -7035,20 +7644,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Cape Town'
-p2679
+p2953
 aVSouth Africa
-p2680
+p2954
 aVWestern Cape
-p2681
+p2955
 aVCity of Cape Town
-p2682
-aa(lp2683
+p2956
+aVCape Town
+p2957
+aa(lp2958
 S'Charlie Nimb'
-p2684
+p2959
 aS'1961'
-p2685
+p2960
 aS'Fly-half'
-p2686
+p2961
 aS'1'
 aS'1'
 aS'0'
@@ -7056,20 +7667,22 @@ aS'0'
 aS'0'
 aS'9'
 aS'Paarl'
-p2687
+p2962
 aVSouth Africa
-p2688
+p2963
 aVWestern Cape
-p2689
+p2964
 aVCape Winelands District Municipality
-p2690
-aa(lp2691
+p2965
+aVPaarl
+p2966
+aa(lp2967
 S'Ben-Piet van Zyl'
-p2692
+p2968
 aS'1961'
-p2693
+p2969
 aS'Wing'
-p2694
+p2970
 aS'1'
 aS'1'
 aS'0'
@@ -7077,20 +7690,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'South Rhodesia'
-p2695
+p2971
 aVUnited States of America
-p2696
+p2972
 aVWashington
-p2697
+p2973
 aVPacific County
-p2698
-aa(lp2699
+p2974
+aVRhodesia Beach
+p2975
+aa(lp2976
 S'Piet van Zyl'
-p2700
+p2977
 aS'1961'
-p2701
+p2978
 aS'Lock'
-p2702
+p2979
 aS'1'
 aS'1'
 aS'0'
@@ -7101,36 +7716,39 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2703
+aS's'
+aa(lp2980
 S'Mof Myburgh'
-p2704
+p2981
 aS'1962'
-p2705
+p2982
 aS'Prop'
-p2706
+p2983
 aS'18'
-p2707
+p2984
 aS'12'
-p2708
+p2985
 aS'2'
 aS'4'
 aS'0'
 aS'0'
 aS'Senekal'
-p2709
+p2986
 aVSouth Africa
-p2710
+p2987
 aVFree State
-p2711
+p2988
 aVThabo Mofutsanyana District Municipality
-p2712
-aa(lp2713
+p2989
+aVSenekal
+p2990
+aa(lp2991
 S'Ormy Taylor'
-p2714
+p2992
 aS'1962'
-p2715
+p2993
 aS'Wing'
-p2716
+p2994
 aS'1'
 aS'0'
 aS'0'
@@ -7141,13 +7759,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2717
+aS's'
+aa(lp2995
 S'Wang Wyness'
-p2718
+p2996
 aS'1962'
-p2719
+p2997
 aS'Centre'
-p2720
+p2998
 aS'5'
 aS'3'
 aS'1'
@@ -7155,20 +7774,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Colesberg'
-p2721
+p2999
 aVSouth Africa
-p2722
+p3000
 aVNorthern Cape
-p2723
+p3001
 aVPixley ka Seme District Municipality
-p2724
-aa(lp2725
+p3002
+aVColesberg
+p3003
+aa(lp3004
 S'Chris Bezuidenhout'
-p2726
+p3005
 aS'1962'
-p2727
+p3006
 aS'Prop'
-p2728
+p3007
 aS'3'
 aS'3'
 aS'0'
@@ -7179,13 +7800,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2729
+aS's'
+aa(lp3008
 S'Hannes Botha'
-p2730
+p3009
 aS'1962'
-p2731
+p3010
 aS'Flanker'
-p2732
+p3011
 aS'3'
 aS'3'
 aS'0'
@@ -7193,66 +7815,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Potgietersrus'
-p2733
+p3012
 aVSouth Africa
-p2734
+p3013
 aVLimpopo
-p2735
+p3014
 aVWaterberg District Municipality
-p2736
-aa(lp2737
+p3015
+aVMokopane
+p3016
+aa(lp3017
 S'Dawie de Villiers'
-p2738
+p3018
 aS'1962'
-p2739
+p3019
 aS'Scrum-half'
-p2740
+p3020
 aS'25'
-p2741
+p3021
 aS'15'
-p2742
+p3022
 aS'6'
 aS'4'
 aS'3'
 aS'9'
 aS'Burgersdorp'
-p2743
+p3023
 aVSouth Africa
-p2744
+p3024
 aVEastern Cape
-p2745
+p3025
 aVJoe Gqabi District Municipality
-p2746
-aa(lp2747
+p3026
+aVBurgersdorp
+p3027
+aa(lp3028
 S'Tommy Bedford'
-p2748
+p3029
 aS'1963'
-p2749
+p3030
 aS'No. 8'
-p2750
+p3031
 aS'25'
-p2751
+p3032
 aS'13'
-p2752
+p3033
 aS'8'
 aS'4'
 aS'1'
 aS'3'
 aS'Bloemfontein'
-p2753
+p3034
 aVSouth Africa
-p2754
+p3035
 aVFree State
-p2755
+p3036
 aVMangaung Metropolitan Municipality
-p2756
-aa(lp2757
+p3037
+aVBloemfontein
+p3038
+aa(lp3039
 S'Gert Cilliers'
-p2758
+p3040
 aS'1963'
-p2759
+p3041
 aS'Wing'
-p2760
+p3042
 aS'3'
 aS'2'
 aS'1'
@@ -7260,20 +7888,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Williston'
-p2761
+p3043
 aVUnited States of America
-p2762
+p3044
 aVNorth Dakota
-p2763
+p3045
 aVWilliams County
-p2764
-aa(lp2765
+p3046
+aVWilliston
+p3047
+aa(lp3048
 S'Dick Putter'
-p2766
+p3049
 aS'1963'
-p2767
+p3050
 aS'Prop'
-p2768
+p3051
 aS'3'
 aS'2'
 aS'1'
@@ -7284,13 +7914,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2769
+aS's'
+aa(lp3052
 S'Trix Truter'
-p2770
+p3053
 aS'1963'
-p2771
+p3054
 aS'Wing'
-p2772
+p3055
 aS'3'
 aS'1'
 aS'2'
@@ -7301,37 +7932,40 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2773
+aS's'
+aa(lp3056
 S'Hannes Marais'
-p2774
+p3057
 aS'1963'
-p2775
+p3058
 aS'Prop'
-p2776
+p3059
 aS'35'
-p2777
+p3060
 aS'19'
-p2778
+p3061
 aS'11'
-p2779
+p3062
 aS'5'
 aS'1'
 aS'3'
 aS'Somerset East'
-p2780
+p3063
 aVSouth Africa
-p2781
+p3064
 aVEastern Cape
-p2782
+p3065
 aVSarah Baartman District Municipality
-p2783
-aa(lp2784
+p3066
+aVSomerset East
+p3067
+aa(lp3068
 S'Poens Prinsloo'
-p2785
+p3069
 aS'1963'
-p2786
+p3070
 aS'No. 8'
-p2787
+p3071
 aS'1'
 aS'0'
 aS'1'
@@ -7342,13 +7976,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2788
+aS's'
+aa(lp3072
 S'Norman Riley'
-p2789
+p3073
 aS'1963'
-p2790
+p3074
 aS'Fly-half'
-p2791
+p3075
 aS'1'
 aS'0'
 aS'1'
@@ -7359,13 +7994,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2792
+aS's'
+aa(lp3076
 S'Haas Schoeman'
-p2793
+p3077
 aS'1963'
-p2794
+p3078
 aS'Flanker'
-p2795
+p3079
 aS'7'
 aS'1'
 aS'6'
@@ -7373,40 +8009,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'Prince Albert'
-p2796
+p3080
 aVCanada
-p2797
+p3081
 aVSaskatchewan
-p2798
+p3082
 aVPrince Albert
-p2799
-aa(lp2800
+p3083
+ag82
+aa(lp3084
 S'Nelie Smith'
-p2801
+p3085
 aS'1963'
-p2802
+p3086
 aS'Scrum-half'
-p2803
+p3087
 aS'7'
 aS'2'
 aS'5'
 aS'0'
 aS'1'
 aS'12'
-p2804
+p3088
 aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2805
+aS's'
+aa(lp3089
 S'Corra Dirksen'
-p2806
+p3090
 aS'1963'
-p2807
+p3091
 aS'Wing'
-p2808
+p3092
 aS'10'
-p2809
+p3093
 aS'5'
 aS'3'
 aS'2'
@@ -7416,58 +8054,63 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2810
+aS's'
+aa(lp3094
 S'Tiny Naude'
-p2811
+p3095
 aS'1963'
-p2812
+p3096
 aS'Lock'
-p2813
+p3097
 aS'14'
-p2814
+p3098
 aS'7'
 aS'5'
 aS'2'
 aS'2'
 aS'47'
-p2815
+p3099
 aS'Warrenton'
-p2816
+p3100
 aVUnited States of America
-p2817
+p3101
 aVVirginia
-p2818
+p3102
 aVFauquier County
-p2819
-aa(lp2820
+p3103
+aVWarrenton
+p3104
+aa(lp3105
 S'Gawie Carelse'
-p2821
+p3106
 aS'1964'
-p2822
+p3107
 aS'Lock'
-p2823
+p3108
 aS'14'
-p2824
+p3109
 aS'9'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Port Elizabeth'
-p2825
+p3110
 aVSouth Africa
-p2826
+p3111
 aVEastern Cape
-p2827
+p3112
 aVNelson Mandela Bay Metropolitan Municipality
-p2828
-aa(lp2829
+p3113
+aVPort Elizabeth
+p3114
+aa(lp3115
 S'Mike Lawless'
-p2830
+p3116
 aS'1964'
-p2831
+p3117
 aS'Fly-half'
-p2832
+p3118
 aS'4'
 aS'0'
 aS'2'
@@ -7475,20 +8118,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Cape Town'
-p2833
+p3119
 aVSouth Africa
-p2834
+p3120
 aVWestern Cape
-p2835
+p3121
 aVCity of Cape Town
-p2836
-aa(lp2837
+p3122
+aVCape Town
+p3123
+aa(lp3124
 S'Don Walton'
-p2838
+p3125
 aS'1964'
-p2839
+p3126
 aS'Hooker'
-p2840
+p3127
 aS'8'
 aS'3'
 aS'5'
@@ -7496,20 +8141,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p2841
+p3128
 aVSouth Africa
-p2842
+p3129
 aVKwaZulu-Natal
-p2843
+p3130
 aVeThekwini Metropolitan Municipality
-p2844
-aa(lp2845
+p3131
+aVDurban
+p3132
+aa(lp3133
 S'Wynand Mans'
-p2846
+p3134
 aS'1965'
-p2847
+p3135
 aS'Centre'
-p2848
+p3136
 aS'2'
 aS'0'
 aS'2'
@@ -7520,13 +8167,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2849
+aS's'
+aa(lp3137
 S'Snowy Suter'
-p2850
+p3138
 aS'1965'
-p2851
+p3139
 aS'Flanker'
-p2852
+p3140
 aS'2'
 aS'0'
 aS'2'
@@ -7537,13 +8185,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2853
+aS's'
+aa(lp3141
 S'Jannie Barnard'
-p2854
+p3142
 aS'1965'
-p2855
+p3143
 aS'Fly-half'
-p2856
+p3144
 aS'5'
 aS'1'
 aS'4'
@@ -7551,20 +8200,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p2857
+p3145
 aVSouth Africa
-p2858
+p3146
 aV2001
-p2859
+p3147
 aVGauteng
-p2860
-aa(lp2861
+p3148
+aVCity of Johannesburg Metropolitan Municipality
+p3149
+aa(lp3150
 S'Dirkie de Vos'
-p2862
+p3151
 aS'1965'
-p2863
+p3152
 aS'Scrum-half'
-p2864
+p3153
 aS'3'
 aS'1'
 aS'2'
@@ -7572,20 +8223,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kroonstad'
-p2865
+p3154
 aVSouth Africa
-p2866
+p3155
 aVFree State
-p2867
+p3156
 aVFezile Dabi District Municipality
-p2868
-aa(lp2869
+p3157
+aVKroonstad
+p3158
+aa(lp3159
 S'Piet Botha'
-p2870
+p3160
 aS'1965'
-p2871
+p3161
 aS'Lock'
-p2872
+p3162
 aS'2'
 aS'0'
 aS'2'
@@ -7593,19 +8246,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Florida'
-p2873
+p3163
 aVUnited States of America
-p2874
+p3164
 aVFlorida
-p2875
-ag214
-aa(lp2876
+p3165
+ag82
+ag82
+aa(lp3166
 S'Gertjie Brynard'
-p2877
+p3167
 aS'1965'
-p2878
+p3168
 aS'Wing'
-p2879
+p3169
 aS'7'
 aS'3'
 aS'4'
@@ -7613,20 +8267,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Calvinia'
-p2880
+p3170
 aVSouth Africa
-p2881
+p3171
 aVNorthern Cape
-p2882
+p3172
 aVNamakwa District Municipality
-p2883
-aa(lp2884
+p3173
+aVCalvinia
+p3174
+aa(lp3175
 S'Andy MacDonald'
-p2885
+p3176
 aS'1965'
-p2886
+p3177
 aS'Prop'
-p2887
+p3178
 aS'5'
 aS'1'
 aS'4'
@@ -7634,20 +8290,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Springs'
-p2888
+p3179
 aVUnited States of America
-p2889
+p3180
 aVNew York
-p2890
+p3181
 aVSuffolk County
-p2891
-aa(lp2892
+p3182
+aVSprings
+p3183
+aa(lp3184
 S'Hambly Parker'
-p2893
+p3185
 aS'1965'
-p2894
+p3186
 aS'Prop'
-p2895
+p3187
 aS'2'
 aS'0'
 aS'2'
@@ -7655,45 +8313,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'Somerset East'
-p2896
+p3188
 aVSouth Africa
-p2897
+p3189
 aVEastern Cape
-p2898
+p3190
 aVSarah Baartman District Municipality
-p2899
-aa(lp2900
+p3191
+aVSomerset East
+p3192
+aa(lp3193
 S'Jan Ellis'
-p2901
+p3194
 aS'1965'
-p2902
+p3195
 aS'Flanker'
-p2903
+p3196
 aS'38'
-p2904
+p3197
 aS'22'
-p2905
+p3198
 aS'10'
-p2906
+p3199
 aS'6'
 aS'7'
 aS'21'
-p2907
+p3200
 aS'Brakpan'
-p2908
+p3201
 aVSouth Africa
-p2909
+p3202
 aVGauteng
-p2910
+p3203
 aVEkurhuleni Metropolitan Municipality
-p2911
-aa(lp2912
+p3204
+aVBrakpan
+p3205
+aa(lp3206
 S'Sakkie van Zyl'
-p2913
+p3207
 aS'1965'
-p2914
+p3208
 aS'Prop'
-p2915
+p3209
 aS'4'
 aS'1'
 aS'3'
@@ -7704,13 +8366,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2916
+aS's'
+aa(lp3210
 S'Piet Goosen'
-p2917
+p3211
 aS'1965'
-p2918
+p3212
 aS'Lock'
-p2919
+p3213
 aS'1'
 aS'0'
 aS'1'
@@ -7721,36 +8384,39 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp2920
+aS's'
+aa(lp3214
 S'HO de Villiers'
-p2921
+p3215
 aS'1967'
-p2922
+p3216
 aS'Fullback'
-p2923
+p3217
 aS'14'
-p2924
+p3218
 aS'8'
 aS'3'
 aS'3'
 aS'0'
 aS'26'
-p2925
+p3219
 aS'Johannesburg'
-p2926
+p3220
 aVSouth Africa
-p2927
+p3221
 aV2001
-p2928
+p3222
 aVGauteng
-p2929
-aa(lp2930
+p3223
+aVCity of Johannesburg Metropolitan Municipality
+p3224
+aa(lp3225
 S'Albie de Waal'
-p2931
+p3226
 aS'1967'
-p2932
+p3227
 aS'No. 8'
-p2933
+p3228
 aS'4'
 aS'2'
 aS'1'
@@ -7758,44 +8424,48 @@ aS'1'
 aS'0'
 aS'0'
 aS'Moorreesburg'
-p2934
+p3229
 aVSouth Africa
-p2935
+p3230
 aVWestern Cape
-p2936
+p3231
 aVWest Coast District Municipality
-p2937
-aa(lp2938
+p3232
+aVMoorreesburg
+p3233
+aa(lp3234
 S'Piet Greyling'
-p2939
+p3235
 aS'1967'
-p2940
+p3236
 aS'Flanker'
-p2941
+p3237
 aS'25'
-p2942
+p3238
 aS'16'
-p2943
+p3239
 aS'5'
 aS'4'
 aS'5'
 aS'15'
-p2944
+p3240
 aS'Zastron'
-p2945
+p3241
 aVSouth Africa
-p2946
+p3242
 aVFree State
-p2947
+p3243
 aVXhariep District Municipality
-p2948
-aa(lp2949
+p3244
+aVZastron
+p3245
+aa(lp3246
 S'Gert Kotze'
-p2950
+p3247
 aS'1967'
-p2951
+p3248
 aS'Prop'
-p2952
+p3249
 aS'4'
 aS'2'
 aS'1'
@@ -7803,20 +8473,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Vredendal'
-p2953
+p3250
 aVSouth Africa
-p2954
+p3251
 aVWestern Cape
-p2955
+p3252
 aVWest Coast District Municipality
-p2956
-aa(lp2957
+p3253
+aVVredendal
+p3254
+aa(lp3255
 S'Tiny Neethling'
-p2958
+p3256
 aS'1967'
-p2959
+p3257
 aS'Prop'
-p2960
+p3258
 aS'8'
 aS'4'
 aS'3'
@@ -7824,111 +8496,120 @@ aS'1'
 aS'0'
 aS'0'
 aS'CapeProv'
-p2961
+p3259
 aS'g'
 aS'n'
 aS'i'
-aa(lp2962
+aS's'
+aa(lp3260
 S'Eben Olivier'
-p2963
+p3261
 aS'1967'
-p2964
+p3262
 aS'Centre, Scrum-half'
-p2965
+p3263
 aS'16'
-p2966
+p3264
 aS'11'
-p2967
+p3265
 aS'3'
 aS'2'
 aS'5'
 aS'15'
-p2968
+p3266
 aS'Kirkswood'
-p2969
+p3267
 aVUnited States of America
-p2970
+p3268
 aV33813
-p2971
+p3269
 aVFlorida
-p2972
-aa(lp2973
+p3270
+aVPolk County
+p3271
+aa(lp3272
 S'Gys Pitzer'
-p2974
+p3273
 aS'1967'
-p2975
+p3274
 aS'Hooker'
-p2976
+p3275
 aS'12'
-p2977
+p3276
 aS'9'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aS'Louis Trichardt'
-p2978
+p3277
 aVSouth Africa
-p2979
+p3278
 aVLimpopo
-p2980
+p3279
 aVVhembe District Municipality
-p2981
-aa(lp2982
+p3280
+aVLouis Trichardt
+p3281
+aa(lp3282
 S'Piet Visagie'
-p2983
+p3283
 aS'1967'
-p2984
+p3284
 aS'Fly-half'
-p2985
+p3285
 aS'25'
-p2986
+p3286
 aS'18'
-p2987
+p3287
 aS'4'
 aS'3'
 aS'6'
 aS'130'
-p2988
+p3288
 aS'Kimberley'
-p2989
+p3289
 aVSouth Africa
-p2990
+p3290
 aVNorthern Cape
-p2991
+p3291
 aVFrances Baard District Municipality
-p2992
-aa(lp2993
+p3292
+aVKimberley
+p3293
+aa(lp3294
 S'Syd Nomis'
-p2994
+p3295
 aS'1967'
-p2995
+p3296
 aS'Wing'
-p2996
+p3297
 aS'25'
-p2997
+p3298
 aS'16'
-p2998
+p3299
 aS'4'
 aS'5'
 aS'6'
 aS'18'
-p2999
+p3300
 aS'Johannesburg'
-p3000
+p3301
 aVSouth Africa
-p3001
+p3302
 aV2001
-p3002
+p3303
 aVGauteng
-p3003
-aa(lp3004
+p3304
+aVCity of Johannesburg Metropolitan Municipality
+p3305
+aa(lp3306
 S'Rodney Gould'
-p3005
+p3307
 aS'1968'
-p3006
+p3308
 aS'Fullback'
-p3007
+p3309
 aS'4'
 aS'3'
 aS'0'
@@ -7936,20 +8617,22 @@ aS'1'
 aS'0'
 aS'3'
 aS"King William's Town"
-p3008
+p3310
 aVSouth Africa
-p3009
+p3311
 aVEastern Cape
-p3010
+p3312
 aVBuffalo City Metropolitan Municipality
-p3011
-aa(lp3012
+p3313
+aVKing William's Town
+p3314
+aa(lp3315
 S'Thys Lourens'
-p3013
+p3316
 aS'1968'
-p3014
+p3317
 aS'Flanker'
-p3015
+p3318
 aS'3'
 aS'2'
 aS'0'
@@ -7957,20 +8640,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Vryheid'
-p3016
+p3319
 aVSouth Africa
-p3017
+p3320
 aV3100
-p3018
+p3321
 aVKwaZulu-Natal
-p3019
-aa(lp3020
+p3322
+aVZululand District Municipality
+p3323
+aa(lp3324
 S'Andre de Wet'
-p3021
+p3325
 aS'1969'
-p3022
+p3326
 aS'Lock'
-p3023
+p3327
 aS'3'
 aS'2'
 aS'1'
@@ -7978,43 +8663,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kokstad'
-p3024
+p3328
 aVSouth Africa
-p3025
+p3329
 aVKwaZulu-Natal
-p3026
+p3330
 aVSisonke District Municipality
-p3027
-aa(lp3028
+p3331
+aVKokstad
+p3332
+aa(lp3333
 S'Gert Muller'
-p3029
+p3334
 aS'1969'
-p3030
+p3335
 aS'Wing'
-p3031
+p3336
 aS'14'
-p3032
+p3337
 aS'6'
 aS'5'
 aS'3'
 aS'4'
 aS'12'
-p3033
+p3338
 aS'Natal'
-p3034
+p3339
 aVBrasil
-p3035
+p3340
 aVRegião Nordeste
-p3036
+p3341
 aVRN
-p3037
-aa(lp3038
+p3342
+aVMesorregião do Leste Potiguar
+p3343
+aa(lp3344
 S'Charlie Cockrell'
-p3039
+p3345
 aS'1969'
-p3040
+p3346
 aS'Hooker'
-p3041
+p3347
 aS'3'
 aS'0'
 aS'1'
@@ -8022,20 +8711,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Cape Town'
-p3042
+p3348
 aVSouth Africa
-p3043
+p3349
 aVWestern Cape
-p3044
+p3350
 aVCity of Cape Town
-p3045
-aa(lp3046
+p3351
+aVCape Town
+p3352
+aa(lp3353
 S'Tonie Roux'
-p3047
+p3354
 aS'1969'
-p3048
+p3355
 aS'Centre'
-p3049
+p3356
 aS'7'
 aS'0'
 aS'4'
@@ -8043,20 +8734,22 @@ aS'3'
 aS'0'
 aS'0'
 aS'Pretoria'
-p3050
+p3357
 aVSouth Africa
-p3051
+p3358
 aVGauteng
-p3052
+p3359
 aVCity of Tshwane Metropolitan Municipality
-p3053
-aa(lp3054
+p3360
+aVPretoria
+p3361
+aa(lp3362
 S'Andy van der Watt'
-p3055
+p3363
 aS'1969'
-p3056
+p3364
 aS'Wing'
-p3057
+p3365
 aS'3'
 aS'0'
 aS'2'
@@ -8064,20 +8757,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Krugersdorp'
-p3058
+p3366
 aVSouth Africa
-p3059
+p3367
 aVGauteng
-p3060
+p3368
 aVWest Rand District Municipality
-p3061
-aa(lp3062
+p3369
+aVKrugersdorp
+p3370
+aa(lp3371
 S'Albie Bates'
-p3063
+p3372
 aS'1969'
-p3064
+p3373
 aS'Back-row'
-p3065
+p3374
 aS'4'
 aS'1'
 aS'3'
@@ -8085,20 +8780,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Germiston'
-p3066
+p3375
 aVSouth Africa
-p3067
+p3376
 aVGauteng
-p3068
+p3377
 aVEkurhuleni Metropolitan Municipality
-p3069
-aa(lp3070
+p3378
+aVGermiston
+p3379
+aa(lp3380
 S'Sakkie de Klerk'
-p3071
+p3381
 aS'1969'
-p3072
+p3382
 aS'Lock'
-p3073
+p3383
 aS'3'
 aS'0'
 aS'1'
@@ -8106,20 +8803,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Calvinia'
-p3074
+p3384
 aVSouth Africa
-p3075
+p3385
 aVNorthern Cape
-p3076
+p3386
 aVNamakwa District Municipality
-p3077
-aa(lp3078
+p3387
+aVCalvinia
+p3388
+aa(lp3389
 S'JP van der Merwe'
-p3079
+p3390
 aS'1970'
-p3080
+p3391
 aS'Centre'
-p3081
+p3392
 aS'1'
 aS'0'
 aS'0'
@@ -8127,65 +8826,71 @@ aS'1'
 aS'0'
 aS'0'
 aS'Uitenhage'
-p3082
+p3393
 aVSouth Africa
-p3083
+p3394
 aVEastern Cape
-p3084
+p3395
 aVNelson Mandela Bay Metropolitan Municipality
-p3085
-aa(lp3086
+p3396
+aVUitenhage
+p3397
+aa(lp3398
 S'Joggie Jansen'
-p3087
+p3399
 aS'1970'
-p3088
+p3400
 aS'Centre'
-p3089
+p3401
 aS'10'
-p3090
+p3402
 aS'7'
 aS'2'
 aS'1'
 aS'1'
 aS'3'
 aS'Griekwastad'
-p3091
+p3403
 aVSouth Africa
-p3092
+p3404
 aVNorthern Cape
-p3093
+p3405
 aVPixley ka Seme District Municipality
-p3094
-aa(lp3095
+p3406
+aVGriekwastad
+p3407
+aa(lp3408
 S'Ian McCallum'
-p3096
+p3409
 aS'1970'
-p3097
+p3410
 aS'Fullback'
-p3098
+p3411
 aS'11'
-p3099
+p3412
 aS'7'
 aS'3'
 aS'1'
 aS'0'
 aS'62'
-p3100
+p3413
 aS"N'Kana"
-p3101
+p3414
 aVNigeria
-p3102
+p3415
 aVAkwa Ibom
-p3103
+p3416
 aVIni
-p3104
-aa(lp3105
+p3417
+aVNkana
+p3418
+aa(lp3419
 S'Johan Spies'
-p3106
+p3420
 aS'1970'
-p3107
+p3421
 aS'Lock'
-p3108
+p3422
 aS'4'
 aS'3'
 aS'1'
@@ -8193,42 +8898,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Harrismith'
-p3109
+p3423
 aVSouth Africa
-p3110
+p3424
 aV9880
-p3111
+p3425
 aVFree State
-p3112
-aa(lp3113
+p3426
+aVThabo Mofutsanyana District Municipality
+p3427
+aa(lp3428
 S'Piston van Wyk'
-p3114
+p3429
 aS'1970'
-p3115
+p3430
 aS'Hooker'
-p3116
+p3431
 aS'15'
-p3117
+p3432
 aS'9'
 aS'4'
 aS'2'
 aS'0'
 aS'0'
 aS'Vereeniging'
-p3118
+p3433
 aVSouth Africa
-p3119
+p3434
 aVGauteng
-p3120
+p3435
 aVSedibeng District Municipality
-p3121
-aa(lp3122
+p3436
+aVVereeniging
+p3437
+aa(lp3438
 S'Robbie Barnard'
-p3123
+p3439
 aS'1970'
-p3124
+p3440
 aS'Hooker'
-p3125
+p3441
 aS'1'
 aS'0'
 aS'1'
@@ -8236,42 +8945,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p3126
+p3442
 aVSouth Africa
-p3127
+p3443
 aVGauteng
-p3128
+p3444
 aVCity of Tshwane Metropolitan Municipality
-p3129
-aa(lp3130
+p3445
+aVPretoria
+p3446
+aa(lp3447
 S'Peter Cronje'
-p3131
+p3448
 aS'1971'
-p3132
+p3449
 aS'Centre'
-p3133
+p3450
 aS'7'
 aS'4'
 aS'1'
 aS'2'
 aS'3'
 aS'10'
-p3134
+p3451
 aS'Johannesburg'
-p3135
+p3452
 aVSouth Africa
-p3136
+p3453
 aV2001
-p3137
+p3454
 aVGauteng
-p3138
-aa(lp3139
+p3455
+aVCity of Johannesburg Metropolitan Municipality
+p3456
+aa(lp3457
 S'Sakkie Sauermann'
-p3140
+p3458
 aS'1971'
-p3141
+p3459
 aS'Prop'
-p3142
+p3460
 aS'5'
 aS'2'
 aS'2'
@@ -8279,20 +8992,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Alberton'
-p3143
+p3461
 aVCanada
-p3144
+p3462
 aVPrince Edward Island
-p3145
+p3463
 aVPrince County
-p3146
-aa(lp3147
+p3464
+aVAlberton
+p3465
+aa(lp3466
 S'Joggie Viljoen'
-p3148
+p3467
 aS'1971'
-p3149
+p3468
 aS'Scrum-half'
-p3150
+p3469
 aS'6'
 aS'4'
 aS'1'
@@ -8300,66 +9015,72 @@ aS'1'
 aS'2'
 aS'6'
 aS'Cape Town'
-p3151
+p3470
 aVSouth Africa
-p3152
+p3471
 aVWestern Cape
-p3153
+p3472
 aVCity of Cape Town
-p3154
-aa(lp3155
+p3473
+aVCape Town
+p3474
+aa(lp3475
 S'John Williams'
-p3156
+p3476
 aS'1971'
-p3157
+p3477
 aS'Lock'
-p3158
+p3478
 aS'13'
-p3159
+p3479
 aS'7'
 aS'4'
 aS'2'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p3160
+p3480
 aVSouth Africa
-p3161
+p3481
 aV2001
-p3162
+p3482
 aVGauteng
-p3163
-aa(lp3164
+p3483
+aVCity of Johannesburg Metropolitan Municipality
+p3484
+aa(lp3485
 S'Morne du Plessis'
-p3165
+p3486
 aS'1971'
-p3166
+p3487
 aS'No. 8'
-p3167
+p3488
 aS'22'
-p3168
+p3489
 aS'18'
-p3169
+p3490
 aS'4'
 aS'0'
 aS'3'
 aS'12'
-p3170
+p3491
 aS'Krugersdorp'
-p3171
+p3492
 aVSouth Africa
-p3172
+p3493
 aVGauteng
-p3173
+p3494
 aVWest Rand District Municipality
-p3174
-aa(lp3175
+p3495
+aVKrugersdorp
+p3496
+aa(lp3497
 S'Hannes Viljoen'
-p3176
+p3498
 aS'1971'
-p3177
+p3499
 aS'Wing'
-p3178
+p3500
 aS'3'
 aS'3'
 aS'0'
@@ -8367,20 +9088,21 @@ aS'0'
 aS'2'
 aS'6'
 aS'Elliott'
-p3179
+p3501
 aVUnited States of America
-p3180
+p3502
 aVKentucky
-p3181
+p3503
 aVElliott County
-p3182
-aa(lp3183
+p3504
+ag82
+aa(lp3505
 S'Martiens Louw'
-p3184
+p3506
 aS'1971'
-p3185
+p3507
 aS'Prop'
-p3186
+p3508
 aS'2'
 aS'2'
 aS'0'
@@ -8388,20 +9110,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Germiston'
-p3187
+p3509
 aVSouth Africa
-p3188
+p3510
 aVGauteng
-p3189
+p3511
 aVEkurhuleni Metropolitan Municipality
-p3190
-aa(lp3191
+p3512
+aVGermiston
+p3513
+aa(lp3514
 S'Niek Bezuidenhout'
-p3192
+p3515
 aS'1972'
-p3193
+p3516
 aS'Prop'
-p3194
+p3517
 aS'9'
 aS'5'
 aS'3'
@@ -8409,20 +9133,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Delmas'
-p3195
+p3518
 aVAyiti
-p3196
+p3519
 aVDépartement de l'Ouest
-p3197
+p3520
 aVArrondissement de Port-au-Prince
-p3198
-aa(lp3199
+p3521
+aVDelmas
+p3522
+aa(lp3523
 S'Ray Carlson'
-p3200
+p3524
 aS'1972'
-p3201
+p3525
 aS'Fullback'
-p3202
+p3526
 aS'1'
 aS'0'
 aS'1'
@@ -8430,20 +9156,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'East London'
-p3203
+p3527
 aVSouth Africa
-p3204
+p3528
 aVEastern Cape
-p3205
+p3529
 aVBuffalo City Metropolitan Municipality
-p3206
-aa(lp3207
+p3530
+aVEast London
+p3531
+aa(lp3532
 S'Piet du Plessis'
-p3208
+p3533
 aS'1972'
-p3209
+p3534
 aS'Lock'
-p3210
+p3535
 aS'1'
 aS'0'
 aS'1'
@@ -8451,43 +9179,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nylstroom'
-p3211
+p3536
 aVSouth Africa
-p3212
+p3537
 aVLimpopo
-p3213
+p3538
 aVWaterberg District Municipality
-p3214
-aa(lp3215
+p3539
+aVModimolle Local Municipality
+p3540
+aa(lp3541
 S'Dawie Snyman'
-p3216
+p3542
 aS'1972'
-p3217
+p3543
 aS'Fullback'
-p3218
+p3544
 aS'10'
-p3219
+p3545
 aS'6'
 aS'4'
 aS'0'
 aS'1'
 aS'24'
-p3220
+p3546
 aS'Johannesburg'
-p3221
+p3547
 aVSouth Africa
-p3222
+p3548
 aV2001
-p3223
+p3549
 aVGauteng
-p3224
-aa(lp3225
+p3550
+aVCity of Johannesburg Metropolitan Municipality
+p3551
+aa(lp3552
 S'Boland Coetzee'
-p3226
+p3553
 aS'1974'
-p3227
+p3554
 aS'Flanker'
-p3228
+p3555
 aS'6'
 aS'4'
 aS'2'
@@ -8495,42 +9227,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Porterville'
-p3229
+p3556
 aVUnited States of America
-p3230
+p3557
 aVCalifornia
-p3231
+p3558
 aVTulare County
-p3232
-aa(lp3233
+p3559
+aVPorterville
+p3560
+aa(lp3561
 S'Kevin de Klerk'
-p3234
+p3562
 aS'1974'
-p3235
+p3563
 aS'Lock'
-p3236
+p3564
 aS'13'
-p3237
+p3565
 aS'9'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p3238
+p3566
 aVSouth Africa
-p3239
+p3567
 aV2001
-p3240
+p3568
 aVGauteng
-p3241
-aa(lp3242
+p3569
+aVCity of Johannesburg Metropolitan Municipality
+p3570
+aa(lp3571
 S'Roy McCallum'
-p3243
+p3572
 aS'1974'
-p3244
+p3573
 aS'Scrum-half'
-p3245
+p3574
 aS'1'
 aS'0'
 aS'1'
@@ -8538,20 +9274,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kitwe'
-p3246
+p3575
 aVZambia
-p3247
+p3576
 aVCopperbelt Province
-p3248
+p3577
 aVKitwe
-p3249
-aa(lp3250
+p3578
+ag82
+aa(lp3579
 S'Kol Oosthuizen'
-p3251
+p3580
 aS'1974'
-p3252
+p3581
 aS'Centre'
-p3253
+p3582
 aS'9'
 aS'7'
 aS'2'
@@ -8559,17 +9296,18 @@ aS'0'
 aS'2'
 aS'8'
 aS'Cape Prov'
-p3254
+p3583
 aS'g'
 aS'n'
 aS'i'
-aa(lp3255
+aS's'
+aa(lp3584
 S'Chris Pope'
-p3256
+p3585
 aS'1974'
-p3257
+p3586
 aS'Wing'
-p3258
+p3587
 aS'9'
 aS'4'
 aS'4'
@@ -8577,20 +9315,22 @@ aS'1'
 aS'1'
 aS'4'
 aS'Stellenbosch'
-p3259
+p3588
 aVSouth Africa
-p3260
+p3589
 aVWestern Cape
-p3261
+p3590
 aVCape Winelands District Municipality
-p3262
-aa(lp3263
+p3591
+aVStellenbosch
+p3592
+aa(lp3593
 S'Peter Whipp'
-p3264
+p3594
 aS'1974'
-p3265
+p3595
 aS'Centre'
-p3266
+p3596
 aS'8'
 aS'6'
 aS'2'
@@ -8598,64 +9338,70 @@ aS'0'
 aS'1'
 aS'4'
 aS'East London'
-p3267
+p3597
 aVSouth Africa
-p3268
+p3598
 aVEastern Cape
-p3269
+p3599
 aVBuffalo City Metropolitan Municipality
-p3270
-aa(lp3271
+p3600
+aVEast London
+p3601
+aa(lp3602
 S'Paul Bayvel'
-p3272
+p3603
 aS'1974'
-p3273
+p3604
 aS'Scrum-half'
-p3274
+p3605
 aS'10'
-p3275
+p3606
 aS'7'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p3276
+p3607
 aVSouth Africa
-p3277
+p3608
 aV2001
-p3278
+p3609
 aVGauteng
-p3279
-aa(lp3280
+p3610
+aVCity of Johannesburg Metropolitan Municipality
+p3611
+aa(lp3612
 S'Gerald Bosch'
-p3281
+p3613
 aS'1974'
-p3282
+p3614
 aS'Fly-half'
-p3283
+p3615
 aS'9'
 aS'7'
 aS'2'
 aS'0'
 aS'0'
 aS'89'
-p3284
+p3616
 aS'Vereeniging'
-p3285
+p3617
 aVSouth Africa
-p3286
+p3618
 aVGauteng
-p3287
+p3619
 aVSedibeng District Municipality
-p3288
-aa(lp3289
+p3620
+aVVereeniging
+p3621
+aa(lp3622
 S'Dave Frederickson'
-p3290
+p3623
 aS'1974'
-p3291
+p3624
 aS'Hooker'
-p3292
+p3625
 aS'3'
 aS'2'
 aS'1'
@@ -8663,45 +9409,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lichtenburg'
-p3293
+p3626
 aVDeutschland
-p3294
+p3627
 aVBerlin
-p3295
+p3628
 aVLichtenberg
-p3296
-aa(lp3297
+p3629
+ag82
+aa(lp3630
 S'Gerrie Germishuys'
-p3298
+p3631
 aS'1974'
-p3299
+p3632
 aS'Wing'
-p3300
+p3633
 aS'20'
-p3301
+p3634
 aS'16'
-p3302
+p3635
 aS'4'
 aS'0'
 aS'12'
-p3303
+p3636
 aS'48'
-p3304
+p3637
 aS'Port Shepstone'
-p3305
+p3638
 aVSouth Africa
-p3306
+p3639
 aVKwaZulu-Natal
-p3307
+p3640
 aVUgu District Municipality
-p3308
-aa(lp3309
+p3641
+aVPort Shepstone
+p3642
+aa(lp3643
 S'Dugald Macdonald'
-p3310
+p3644
 aS'1974'
-p3311
+p3645
 aS'No. 8'
-p3312
+p3646
 aS'1'
 aS'0'
 aS'1'
@@ -8709,42 +9458,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p3313
+p3647
 aVSouth Africa
-p3314
+p3648
 aVKwaZulu-Natal
-p3315
+p3649
 aVeThekwini Metropolitan Municipality
-p3316
-aa(lp3317
+p3650
+aVDurban
+p3651
+aa(lp3652
 S'Jackie Snyman'
-p3318
+p3653
 aS'1974'
-p3319
+p3654
 aS'Fly-half'
-p3320
+p3655
 aS'3'
 aS'0'
 aS'2'
 aS'1'
 aS'0'
 aS'18'
-p3321
+p3656
 aS'Johannesburg'
-p3322
+p3657
 aVSouth Africa
-p3323
+p3658
 aV2001
-p3324
+p3659
 aVGauteng
-p3325
-aa(lp3326
+p3660
+aVCity of Johannesburg Metropolitan Municipality
+p3661
+aa(lp3662
 S'Leon Vogel'
-p3327
+p3663
 aS'1974'
-p3328
+p3664
 aS'Wing'
-p3329
+p3665
 aS'1'
 aS'0'
 aS'1'
@@ -8752,20 +9505,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Aliwal North'
-p3330
+p3666
 aVSouth Africa
-p3331
+p3667
 aVEastern Cape
-p3332
+p3668
 aVJoe Gqabi District Municipality
-p3333
-aa(lp3334
+p3669
+aVAliwal North
+p3670
+aa(lp3671
 S'Johan de Bruyn'
-p3335
+p3672
 aS'1974'
-p3336
+p3673
 aS'Lock'
-p3337
+p3674
 aS'1'
 aS'0'
 aS'1'
@@ -8773,20 +9528,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Reivilo'
-p3338
+p3675
 aVSouth Africa
-p3339
+p3676
 aVNorth West
-p3340
+p3677
 aVDr Ruth Segomotsi Mompati District Municipality
-p3341
-aa(lp3342
+p3678
+aVReivilo
+p3679
+aa(lp3680
 S'Polla Fourie'
-p3343
+p3681
 aS'1974'
-p3344
+p3682
 aS'Flanker'
-p3345
+p3683
 aS'1'
 aS'0'
 aS'1'
@@ -8794,20 +9551,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Uitenhage'
-p3346
+p3684
 aVSouth Africa
-p3347
+p3685
 aVEastern Cape
-p3348
+p3686
 aVNelson Mandela Bay Metropolitan Municipality
-p3349
-aa(lp3350
+p3687
+aVUitenhage
+p3688
+aa(lp3689
 S'Klippies Kritzinger'
-p3351
+p3690
 aS'1974'
-p3352
+p3691
 aS'Flanker'
-p3353
+p3692
 aS'7'
 aS'5'
 aS'1'
@@ -8815,20 +9574,22 @@ aS'1'
 aS'1'
 aS'4'
 aS'Harrismith'
-p3354
+p3693
 aVSouth Africa
-p3355
+p3694
 aV9880
-p3356
+p3695
 aVFree State
-p3357
-aa(lp3358
+p3696
+aVThabo Mofutsanyana District Municipality
+p3697
+aa(lp3698
 S'Jan Schlebusch'
-p3359
+p3699
 aS'1974'
-p3360
+p3700
 aS'Centre'
-p3361
+p3701
 aS'3'
 aS'1'
 aS'1'
@@ -8836,20 +9597,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kroonstad'
-p3362
+p3702
 aVSouth Africa
-p3363
+p3703
 aVFree State
-p3364
+p3704
 aVFezile Dabi District Municipality
-p3365
-aa(lp3366
+p3705
+aVKroonstad
+p3706
+aa(lp3707
 S'Gerrie Sonnekus'
-p3367
+p3708
 aS'1974'
-p3368
+p3709
 aS'No. 8'
-p3369
+p3710
 aS'3'
 aS'2'
 aS'1'
@@ -8857,43 +9620,47 @@ aS'0'
 aS'1'
 aS'4'
 aS'Senekal'
-p3370
+p3711
 aVSouth Africa
-p3371
+p3712
 aVFree State
-p3372
+p3713
 aVThabo Mofutsanyana District Municipality
-p3373
-aa(lp3374
+p3714
+aVSenekal
+p3715
+aa(lp3716
 S'Moaner van Heerden'
-p3375
+p3717
 aS'1974'
-p3376
+p3718
 aS'Lock'
-p3377
+p3719
 aS'17'
-p3378
+p3720
 aS'13'
-p3379
+p3721
 aS'3'
 aS'1'
 aS'1'
 aS'4'
 aS'Pretoria'
-p3380
+p3722
 aVSouth Africa
-p3381
+p3723
 aVGauteng
-p3382
+p3724
 aVCity of Tshwane Metropolitan Municipality
-p3383
-aa(lp3384
+p3725
+aVPretoria
+p3726
+aa(lp3727
 S'Kleintjie Grobler'
-p3385
+p3728
 aS'1974'
-p3386
+p3729
 aS'Back-row'
-p3387
+p3730
 aS'3'
 aS'2'
 aS'0'
@@ -8901,20 +9668,22 @@ aS'1'
 aS'1'
 aS'4'
 aS'Pretoria'
-p3388
+p3731
 aVSouth Africa
-p3389
+p3732
 aVGauteng
-p3390
+p3733
 aVCity of Tshwane Metropolitan Municipality
-p3391
-aa(lp3392
+p3734
+aVPretoria
+p3735
+aa(lp3736
 S'Rampie Stander'
-p3393
+p3737
 aS'1974'
-p3394
+p3738
 aS'Prop'
-p3395
+p3739
 aS'5'
 aS'3'
 aS'1'
@@ -8922,64 +9691,70 @@ aS'1'
 aS'0'
 aS'0'
 aS'Cape Town'
-p3396
+p3740
 aVSouth Africa
-p3397
+p3741
 aVWestern Cape
-p3398
+p3742
 aVCity of Cape Town
-p3399
-aa(lp3400
+p3743
+aVCape Town
+p3744
+aa(lp3745
 S'Robert Cockrell'
-p3401
+p3746
 aS'1974'
-p3402
+p3747
 aS'Hooker'
-p3403
+p3748
 aS'11'
-p3404
+p3749
 aS'8'
 aS'3'
 aS'0'
 aS'1'
 aS'4'
 aS'Cape Town'
-p3405
+p3750
 aVSouth Africa
-p3406
+p3751
 aVWestern Cape
-p3407
+p3752
 aVCity of Cape Town
-p3408
-aa(lp3409
+p3753
+aVCape Town
+p3754
+aa(lp3755
 S'Tossie Fourie'
-p3410
+p3756
 aS'1974'
-p3411
+p3757
 aS'Wing'
-p3412
+p3758
 aS'4'
 aS'4'
 aS'0'
 aS'0'
 aS'1'
 aS'10'
-p3413
+p3759
 aS'Uitenhage'
-p3414
+p3760
 aVSouth Africa
-p3415
+p3761
 aVEastern Cape
-p3416
+p3762
 aVNelson Mandela Bay Metropolitan Municipality
-p3417
-aa(lp3418
+p3763
+aVUitenhage
+p3764
+aa(lp3765
 S'Ian Robertson'
-p3419
+p3766
 aS'1974'
-p3420
+p3767
 aS'Centre'
-p3421
+p3768
 aS'5'
 aS'4'
 aS'1'
@@ -8987,20 +9762,22 @@ aS'0'
 aS'0'
 aS'3'
 aS'South Rhodesia'
-p3422
+p3769
 aVUnited States of America
-p3423
+p3770
 aVWashington
-p3424
+p3771
 aVPacific County
-p3425
-aa(lp3426
+p3772
+aVRhodesia Beach
+p3773
+aa(lp3774
 S'Willem Stapelberg'
-p3427
+p3775
 aS'1974'
-p3428
+p3776
 aS'Wing'
-p3429
+p3777
 aS'2'
 aS'2'
 aS'0'
@@ -9008,20 +9785,22 @@ aS'0'
 aS'2'
 aS'8'
 aS'Pretoria'
-p3430
+p3778
 aVSouth Africa
-p3431
+p3779
 aVGauteng
-p3432
+p3780
 aVCity of Tshwane Metropolitan Municipality
-p3433
-aa(lp3434
+p3781
+aVPretoria
+p3782
+aa(lp3783
 S'Andre Bestbier'
-p3435
+p3784
 aS'1974'
-p3436
+p3785
 aS'Hooker'
-p3437
+p3786
 aS'1'
 aS'1'
 aS'0'
@@ -9029,20 +9808,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Potchefstroom'
-p3438
+p3787
 aVSouth Africa
-p3439
+p3788
 aVNorth West
-p3440
+p3789
 aVDr Kenneth Kaunda District Municipality
-p3441
-aa(lp3442
+p3790
+aVPotchefstroom
+p3791
+aa(lp3792
 S'Derek van den Berg'
-p3443
+p3793
 aS'1975'
-p3444
+p3794
 aS'Prop'
-p3445
+p3795
 aS'4'
 aS'3'
 aS'1'
@@ -9050,20 +9831,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p3446
+p3796
 aVSouth Africa
-p3447
+p3797
 aVWestern Cape
-p3448
+p3798
 aVCity of Cape Town
-p3449
-aa(lp3450
+p3799
+aVCape Town
+p3800
+aa(lp3801
 S'Edrich Krantz'
-p3451
+p3802
 aS'1976'
-p3452
+p3803
 aS'Wing'
-p3453
+p3804
 aS'2'
 aS'2'
 aS'0'
@@ -9071,20 +9854,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Senekal'
-p3454
+p3805
 aVSouth Africa
-p3455
+p3806
 aVFree State
-p3456
+p3807
 aVThabo Mofutsanyana District Municipality
-p3457
-aa(lp3458
+p3808
+aVSenekal
+p3809
+aa(lp3810
 S'De Wet Ras'
-p3459
+p3811
 aS'1976'
-p3460
+p3812
 aS'Utility back'
-p3461
+p3813
 aS'2'
 aS'2'
 aS'0'
@@ -9092,44 +9877,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Harrismith'
-p3462
+p3814
 aVSouth Africa
-p3463
+p3815
 aV9880
-p3464
+p3816
 aVFree State
-p3465
-aa(lp3466
+p3817
+aVThabo Mofutsanyana District Municipality
+p3818
+aa(lp3819
 S'Theuns Stofberg'
-p3467
+p3820
 aS'1976'
-p3468
+p3821
 aS'Flanker'
-p3469
+p3822
 aS'21'
-p3470
+p3823
 aS'17'
-p3471
+p3824
 aS'4'
 aS'0'
 aS'6'
 aS'24'
-p3472
+p3825
 aS'Villiers'
-p3473
+p3826
 aVFrance
-p3474
+p3827
 aV75017
-p3475
+p3828
 aVFrance métropolitaine
-p3476
-aa(lp3477
+p3829
+aVÎle-de-France
+p3830
+aa(lp3831
 S'Johan Strauss'
-p3478
+p3832
 aS'1976'
-p3479
+p3833
 aS'Prop'
-p3480
+p3834
 aS'3'
 aS'3'
 aS'0'
@@ -9137,42 +9926,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Alberton'
-p3481
+p3835
 aVCanada
-p3482
+p3836
 aVPrince Edward Island
-p3483
+p3837
 aVPrince County
-p3484
-aa(lp3485
+p3838
+aVAlberton
+p3839
+aa(lp3840
 S'Robbie Blair'
-p3486
+p3841
 aS'1977'
-p3487
+p3842
 aS'Fly-half'
-p3488
+p3843
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'21'
-p3489
+p3844
 aS'Johannesburg'
-p3490
+p3845
 aVSouth Africa
-p3491
+p3846
 aV2001
-p3492
+p3847
 aVGauteng
-p3493
-aa(lp3494
+p3848
+aVCity of Johannesburg Metropolitan Municipality
+p3849
+aa(lp3850
 S'Daan du Plessis'
-p3495
+p3851
 aS'1977'
-p3496
+p3852
 aS'Prop'
-p3497
+p3853
 aS'2'
 aS'2'
 aS'0'
@@ -9180,20 +9973,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Potchefstroom'
-p3498
+p3854
 aVSouth Africa
-p3499
+p3855
 aVNorth West
-p3500
+p3856
 aVDr Kenneth Kaunda District Municipality
-p3501
-aa(lp3502
+p3857
+aVPotchefstroom
+p3858
+aa(lp3859
 S'Dirk Froneman'
-p3503
+p3860
 aS'1977'
-p3504
+p3861
 aS'Centre'
-p3505
+p3862
 aS'1'
 aS'1'
 aS'0'
@@ -9201,43 +9996,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wynburg'
-p3506
+p3863
 aVSouth Africa
-p3507
+p3864
 aVWestern Cape
-p3508
+p3865
 aVCity of Cape Town
-p3509
-aa(lp3510
+p3866
+aVCape Town
+p3867
+aa(lp3868
 S'Louis Moolman'
-p3511
+p3869
 aS'1977'
-p3512
+p3870
 aS'Lock'
-p3513
+p3871
 aS'24'
-p3514
+p3872
 aS'19'
-p3515
+p3873
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p3516
+p3874
 aVSouth Africa
-p3517
+p3875
 aVGauteng
-p3518
+p3876
 aVCity of Tshwane Metropolitan Municipality
-p3519
-aa(lp3520
+p3877
+aVPretoria
+p3878
+aa(lp3879
 S'Hermanus Potgieter'
-p3521
+p3880
 aS'1977'
-p3522
+p3881
 aS'Wing'
-p3523
+p3882
 aS'1'
 aS'1'
 aS'0'
@@ -9245,20 +10044,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Kirkwood'
-p3524
+p3883
 aVUnited States of America
-p3525
+p3884
 aVMissouri
-p3526
+p3885
 aVSt. Louis County
-p3527
-aa(lp3528
+p3886
+aVKirkwood
+p3887
+aa(lp3888
 S'Piet Veldsman'
-p3529
+p3889
 aS'1977'
-p3530
+p3890
 aS'Flanker'
-p3531
+p3891
 aS'1'
 aS'1'
 aS'0'
@@ -9266,20 +10067,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'George'
-p3532
+p3892
 aVUnited States of America
-p3533
+p3893
 aVMississippi
-p3534
+p3894
 aVGeorge
-p3535
-aa(lp3536
+p3895
+ag82
+aa(lp3896
 S'Christo Wagenaar'
-p3537
+p3897
 aS'1977'
-p3538
+p3898
 aS'Centre'
-p3539
+p3899
 aS'1'
 aS'1'
 aS'0'
@@ -9287,20 +10089,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Krugersdorp'
-p3540
+p3900
 aVSouth Africa
-p3541
+p3901
 aVGauteng
-p3542
+p3902
 aVWest Rand District Municipality
-p3543
-aa(lp3544
+p3903
+aVKrugersdorp
+p3904
+aa(lp3905
 S'Barry Wolmarans'
-p3545
+p3906
 aS'1977'
-p3546
+p3907
 aS'Scrum-half'
-p3547
+p3908
 aS'1'
 aS'1'
 aS'0'
@@ -9308,44 +10112,48 @@ aS'0'
 aS'1'
 aS'4'
 aS'Oudtshoorn'
-p3548
+p3909
 aVSouth Africa
-p3549
+p3910
 aVWestern Cape
-p3550
+p3911
 aVEden District Municipality
-p3551
-aa(lp3552
+p3912
+aVOudtshoorn
+p3913
+aa(lp3914
 S'Naas Botha'
-p3553
+p3915
 aS'1980'
-p3554
+p3916
 aS'Fly-half'
-p3555
+p3917
 aS'28'
-p3556
+p3918
 aS'19'
-p3557
+p3919
 aS'9'
 aS'0'
 aS'2'
 aS'312'
-p3558
+p3920
 aS'Breyten'
-p3559
+p3921
 aVSouth Africa
-p3560
+p3922
 aVMpumalanga
-p3561
+p3923
 aVGert Sibande District Municipality
-p3562
-aa(lp3563
+p3924
+aVBreyten
+p3925
+aa(lp3926
 S'Tommy du Plessis'
-p3564
+p3927
 aS'1980'
-p3565
+p3928
 aS'Scrum-half'
-p3566
+p3929
 aS'2'
 aS'2'
 aS'0'
@@ -9353,44 +10161,48 @@ aS'0'
 aS'1'
 aS'4'
 aS'Elsburg'
-p3567
+p3930
 aVSouth Africa
-p3568
+p3931
 aVGauteng
-p3569
+p3932
 aVEkurhuleni Metropolitan Municipality
-p3570
-aa(lp3571
+p3933
+aVGermiston
+p3934
+aa(lp3935
 S'Willie du Plessis'
-p3572
+p3936
 aS'1980'
-p3573
+p3937
 aS'Centre'
-p3574
+p3938
 aS'14'
-p3575
+p3939
 aS'10'
-p3576
+p3940
 aS'4'
 aS'0'
 aS'3'
 aS'12'
-p3577
+p3941
 aS'Somerset East'
-p3578
+p3942
 aVSouth Africa
-p3579
+p3943
 aVEastern Cape
-p3580
+p3944
 aVSarah Baartman District Municipality
-p3581
-aa(lp3582
+p3945
+aVSomerset East
+p3946
+aa(lp3947
 S'Pierre Edwards'
-p3583
+p3948
 aS'1980'
-p3584
+p3949
 aS'Fullback'
-p3585
+p3950
 aS'2'
 aS'2'
 aS'0'
@@ -9398,139 +10210,150 @@ aS'0'
 aS'0'
 aS'0'
 aS'George'
-p3586
+p3951
 aVUnited States of America
-p3587
+p3952
 aVMississippi
-p3588
+p3953
 aVGeorge
-p3589
-aa(lp3590
+p3954
+ag82
+aa(lp3955
 S'Rob Louw'
-p3591
+p3956
 aS'1980'
-p3592
+p3957
 aS'Flanker'
-p3593
+p3958
 aS'19'
-p3594
+p3959
 aS'15'
-p3595
+p3960
 aS'4'
 aS'0'
 aS'5'
 aS'20'
-p3596
+p3961
 aS'Cape Town'
-p3597
+p3962
 aVSouth Africa
-p3598
+p3963
 aVWestern Cape
-p3599
+p3964
 aVCity of Cape Town
-p3600
-aa(lp3601
+p3965
+aVCape Town
+p3966
+aa(lp3967
 S'Ray Mordt'
-p3602
+p3968
 aS'1980'
-p3603
+p3969
 aS'Wing'
-p3604
+p3970
 aS'18'
-p3605
+p3971
 aS'14'
-p3606
+p3972
 aS'4'
 aS'0'
 aS'12'
-p3607
+p3973
 aS'48'
-p3608
+p3974
 aS'Cape Town'
-p3609
+p3975
 aVSouth Africa
-p3610
+p3976
 aVWestern Cape
-p3611
+p3977
 aVCity of Cape Town
-p3612
-aa(lp3613
+p3978
+aVCape Town
+p3979
+aa(lp3980
 S'Richard Prentis'
-p3614
+p3981
 aS'1980'
-p3615
+p3982
 aS'Prop'
-p3616
+p3983
 aS'11'
-p3617
+p3984
 aS'10'
-p3618
+p3985
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'Krugersdorp'
-p3619
+p3986
 aVSouth Africa
-p3620
+p3987
 aVGauteng
-p3621
+p3988
 aVWest Rand District Municipality
-p3622
-aa(lp3623
+p3989
+aVKrugersdorp
+p3990
+aa(lp3991
 S'Gysie Pienaar'
-p3624
+p3992
 aS'1980'
-p3625
+p3993
 aS'Fullback'
-p3626
+p3994
 aS'13'
-p3627
+p3995
 aS'10'
-p3628
+p3996
 aS'3'
 aS'0'
 aS'2'
 aS'14'
-p3629
+p3997
 aS'Bloemfontein'
-p3630
+p3998
 aVSouth Africa
-p3631
+p3999
 aVFree State
-p3632
+p4000
 aVMangaung Metropolitan Municipality
-p3633
-aa(lp3634
+p4001
+aVBloemfontein
+p4002
+aa(lp4003
 S'Willie Kahts'
-p3635
+p4004
 aS'1980'
-p3636
+p4005
 aS'Hooker'
-p3637
+p4006
 aS'11'
-p3638
+p4007
 aS'10'
-p3639
+p4008
 aS'1'
 aS'0'
 aS'1'
 aS'4'
 aS'Volksrust'
-p3640
+p4009
 aVSouth Africa
-p3641
+p4010
 aVMpumalanga
-p3642
+p4011
 aVGert Sibande District Municipality
-p3643
-aa(lp3644
+p4012
+aVVolksrust
+p4013
+aa(lp4014
 S'Martiens le Roux'
-p3645
+p4015
 aS'1980'
-p3646
+p4016
 aS'Prop'
-p3647
+p4017
 aS'8'
 aS'7'
 aS'1'
@@ -9538,44 +10361,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wesselsbron'
-p3648
+p4018
 aVSouth Africa
-p3649
+p4019
 aVFree State
-p3650
+p4020
 aVLejweleputswa District Municipality
-p3651
-aa(lp3652
+p4021
+aVWesselsbron
+p4022
+aa(lp4023
 S'Divan Serfontein'
-p3653
+p4024
 aS'1980'
-p3654
+p4025
 aS'Scrum-half'
-p3655
+p4026
 aS'19'
-p3656
+p4027
 aS'15'
-p3657
+p4028
 aS'4'
 aS'0'
 aS'3'
 aS'12'
-p3658
+p4029
 aS'Krugersdorp'
-p3659
+p4030
 aVSouth Africa
-p3660
+p4031
 aVGauteng
-p3661
+p4032
 aVWest Rand District Municipality
-p3662
-aa(lp3663
+p4033
+aVKrugersdorp
+p4034
+aa(lp4035
 S'David Smith'
-p3664
+p4036
 aS'1980'
-p3665
+p4037
 aS'Centre'
-p3666
+p4038
 aS'4'
 aS'3'
 aS'1'
@@ -9583,20 +10410,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'South Rhodesia'
-p3667
+p4039
 aVUnited States of America
-p3668
+p4040
 aVWashington
-p3669
+p4041
 aVPacific County
-p3670
-aa(lp3671
+p4042
+aVRhodesia Beach
+p4043
+aa(lp4044
 S'Thys Burger'
-p3672
+p4045
 aS'1980'
-p3673
+p4046
 aS'No. 8'
-p3674
+p4047
 aS'3'
 aS'3'
 aS'0'
@@ -9604,20 +10433,22 @@ aS'0'
 aS'2'
 aS'8'
 aS'Pietersburg'
-p3675
+p4048
 aVSouth Africa
-p3676
+p4049
 aVLimpopo
-p3677
+p4050
 aVCapricorn District Municipality
-p3678
-aa(lp3679
+p4051
+aVPolokwane
+p4052
+aa(lp4053
 S'Ewoud Malan'
-p3680
+p4054
 aS'1980'
-p3681
+p4055
 aS'Hooker'
-p3682
+p4056
 aS'2'
 aS'1'
 aS'1'
@@ -9625,45 +10456,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'Groblersdal'
-p3683
+p4057
 aVSouth Africa
-p3684
+p4058
 aVLimpopo
-p3685
+p4059
 aVSekhukhune District Municipality
-p3686
-aa(lp3687
+p4060
+aVGroblersdal
+p4061
+aa(lp4062
 S'Danie Gerber'
-p3688
+p4063
 aS'1980'
-p3689
+p4064
 aS'Centre'
-p3690
+p4065
 aS'24'
-p3691
+p4066
 aS'16'
-p3692
+p4067
 aS'8'
 aS'0'
 aS'19'
-p3693
+p4068
 aS'82'
-p3694
+p4069
 aS'Port Elizabeth'
-p3695
+p4070
 aVSouth Africa
-p3696
+p4071
 aVEastern Cape
-p3697
+p4072
 aVNelson Mandela Bay Metropolitan Municipality
-p3698
-aa(lp3699
+p4073
+aVPort Elizabeth
+p4074
+aa(lp4075
 S'Wynand Claassen'
-p3700
+p4076
 aS'1981'
-p3701
+p4077
 aS'No. 8'
-p3702
+p4078
 aS'7'
 aS'5'
 aS'2'
@@ -9671,39 +10506,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'Schweize-Reneke'
-p3703
+p4079
 aS'g'
 aS'n'
 aS'i'
-aa(lp3704
+aS's'
+aa(lp4080
 S'Errol Tobias'
-p3705
+p4081
 aS'1981'
-p3706
+p4082
 aS'Fly-half'
-p3707
+p4083
 aS'6'
 aS'6'
 aS'0'
 aS'0'
 aS'1'
 aS'22'
-p3708
+p4084
 aS'Caledon'
-p3709
+p4085
 aVCanada
-p3710
+p4086
 aVOntario
-p3711
+p4087
 aVPeel Region
-p3712
-aa(lp3713
+p4088
+aVCaledon
+p4089
+aa(lp4090
 S'Ockie Oosthuizen'
-p3714
+p4091
 aS'1981'
-p3715
+p4092
 aS'Prop'
-p3716
+p4093
 aS'9'
 aS'7'
 aS'2'
@@ -9711,20 +10549,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Johannesburg'
-p3717
+p4094
 aVSouth Africa
-p3718
+p4095
 aV2001
-p3719
+p4096
 aVGauteng
-p3720
-aa(lp3721
+p4097
+aVCity of Johannesburg Metropolitan Municipality
+p4098
+aa(lp4099
 S'Hennie Bekker'
-p3722
+p4100
 aS'1981'
-p3723
+p4101
 aS'Lock'
-p3724
+p4102
 aS'2'
 aS'0'
 aS'2'
@@ -9732,20 +10572,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Nuwerus'
-p3725
+p4103
 aVSouth Africa
-p3726
+p4104
 aVNorthern Cape
-p3727
+p4105
 aVZF Mgcawu District Municipality
-p3728
-aa(lp3729
+p4106
+aVUpington
+p4107
+aa(lp4108
 S'Darius Botha'
-p3730
+p4109
 aS'1981'
-p3731
+p4110
 aS'Wing'
-p3732
+p4111
 aS'1'
 aS'0'
 aS'1'
@@ -9753,20 +10595,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Breyten'
-p3733
+p4112
 aVSouth Africa
-p3734
+p4113
 aVMpumalanga
-p3735
+p4114
 aVGert Sibande District Municipality
-p3736
-aa(lp3737
+p4115
+aVBreyten
+p4116
+aa(lp4117
 S'Hempies du Toit'
-p3738
+p4118
 aS'1981'
-p3739
+p4119
 aS'Prop'
-p3740
+p4120
 aS'5'
 aS'3'
 aS'2'
@@ -9774,20 +10618,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Villiersdorp'
-p3741
+p4121
 aVSouth Africa
-p3742
+p4122
 aVWestern Cape
-p3743
+p4123
 aVOverberg District Municipality
-p3744
-aa(lp3745
+p4124
+aVVilliersdorp
+p4125
+aa(lp4126
 S'Eben Jansen'
-p3746
+p4127
 aS'1981'
-p3747
+p4128
 aS'Flanker'
-p3748
+p4129
 aS'1'
 aS'0'
 aS'1'
@@ -9795,20 +10641,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Griekwastad'
-p3749
+p4130
 aVSouth Africa
-p3750
+p4131
 aVNorthern Cape
-p3751
+p4132
 aVPixley ka Seme District Municipality
-p3752
-aa(lp3753
+p4133
+aVGriekwastad
+p4134
+aa(lp4135
 S'Henning van Aswegen'
-p3754
+p4136
 aS'1981'
-p3755
+p4137
 aS'Prop'
-p3756
+p4138
 aS'2'
 aS'0'
 aS'2'
@@ -9816,19 +10664,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Okahandja'
-p3757
+p4139
 aVNamibia
-p3758
+p4140
 aVOkahandja
-p3759
-ag214
-aa(lp3760
+p4141
+ag82
+ag82
+aa(lp4142
 S'Burger Geldenhuys'
-p3761
+p4143
 aS'1981'
-p3762
+p4144
 aS'Flanker'
-p3763
+p4145
 aS'7'
 aS'5'
 aS'2'
@@ -9836,20 +10685,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Kroonstad'
-p3764
+p4146
 aVSouth Africa
-p3765
+p4147
 aVFree State
-p3766
+p4148
 aVFezile Dabi District Municipality
-p3767
-aa(lp3768
+p4149
+aVKroonstad
+p4150
+aa(lp4151
 S'Flippie van der Merwe'
-p3769
+p4152
 aS'1981'
-p3770
+p4153
 aS'Prop'
-p3771
+p4154
 aS'6'
 aS'4'
 aS'2'
@@ -9857,20 +10708,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dibeng'
-p3772
+p4155
 aVSouth Africa
-p3773
+p4156
 aVNorthern Cape
-p3774
+p4157
 aVJohn Taolo Gaetsewe District Municipality
-p3775
-aa(lp3776
+p4158
+aVDibeng
+p4159
+aa(lp4160
 S'Div Visser'
-p3777
+p4161
 aS'1981'
-p3778
+p4162
 aS'Lock'
-p3779
+p4163
 aS'2'
 aS'2'
 aS'0'
@@ -9878,20 +10731,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p3780
+p4164
 aVSouth Africa
-p3781
+p4165
 aVWestern Cape
-p3782
+p4166
 aVCity of Cape Town
-p3783
-aa(lp3784
+p4167
+aVCape Town
+p4168
+aa(lp4169
 S'Colin Beck'
-p3785
+p4170
 aS'1981'
-p3786
+p4171
 aS'Centre'
-p3787
+p4172
 aS'3'
 aS'2'
 aS'1'
@@ -9899,67 +10754,71 @@ aS'0'
 aS'1'
 aS'4'
 aS'Strand'
-p3788
+p4173
 aVDeutschland
-p3789
+p4174
 aVSachsen-Anhalt
-p3790
-ag214
-aa(lp3791
+p4175
+ag82
+ag82
+aa(lp4176
 S'Johan Heunis'
-p3792
+p4177
 aS'1981'
-p3793
+p4178
 aS'Fullback'
-p3794
+p4179
 aS'14'
-p3795
+p4180
 aS'11'
-p3796
+p4181
 aS'3'
 aS'0'
 aS'2'
 aS'41'
-p3797
+p4182
 aS'George'
-p3798
+p4183
 aVUnited States of America
-p3799
+p4184
 aVMississippi
-p3800
+p4185
 aVGeorge
-p3801
-aa(lp3802
+p4186
+ag82
+aa(lp4187
 S'Carel du Plessis'
-p3803
+p4188
 aS'1982'
-p3804
+p4189
 aS'Wing'
-p3805
+p4190
 aS'12'
-p3806
+p4191
 aS'10'
-p3807
+p4192
 aS'2'
 aS'0'
 aS'4'
 aS'16'
-p3808
+p4193
 aS'Somerset East'
-p3809
+p4194
 aVSouth Africa
-p3810
+p4195
 aVEastern Cape
-p3811
+p4196
 aVSarah Baartman District Municipality
-p3812
-aa(lp3813
+p4197
+aVSomerset East
+p4198
+aa(lp4199
 S'Schalk Burger'
-p3814
+p4200
 aS'1984'
-p3815
+p4201
 aS'Flanker'
-p3816
+p4202
 aS'6'
 aS'5'
 aS'1'
@@ -9967,20 +10826,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p3817
+p4203
 aVSouth Africa
-p3818
+p4204
 aVWestern Cape
-p3819
+p4205
 aVCity of Cape Town
-p3820
-aa(lp3821
+p4206
+aVCape Town
+p4207
+aa(lp4208
 S'Chris Rogers'
-p3822
+p4209
 aS'1984'
-p3823
+p4210
 aS'Hooker'
-p3824
+p4211
 aS'4'
 aS'4'
 aS'0'
@@ -9988,20 +10849,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'South Rhodesia'
-p3825
+p4212
 aVUnited States of America
-p3826
+p4213
 aVWashington
-p3827
+p4214
 aVPacific County
-p3828
-aa(lp3829
+p4215
+aVRhodesia Beach
+p4216
+aa(lp4217
 S'John Villet'
-p3830
+p4218
 aS'1984'
-p3831
+p4219
 aS'Centre'
-p3832
+p4220
 aS'2'
 aS'2'
 aS'0'
@@ -10009,20 +10872,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ceres'
-p3833
+p4221
 aVItalia
-p3834
+p4222
 aVPIE
-p3835
+p4223
 aVTO
-p3836
-aa(lp3837
+p4224
+aVCeres
+p4225
+aa(lp4226
 S'Rudi Visagie'
-p3838
+p4227
 aS'1984'
-p3839
+p4228
 aS'Lock'
-p3840
+p4229
 aS'5'
 aS'4'
 aS'0'
@@ -10030,20 +10895,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Nelspruit'
-p3841
+p4230
 aVSouth Africa
-p3842
+p4231
 aVMpumalanga
-p3843
+p4232
 aVEhlanzeni District Municipality
-p3844
-aa(lp3845
+p4233
+aVNelspruit
+p4234
+aa(lp4235
 S'Avril Williams'
-p3846
+p4236
 aS'1984'
-p3847
+p4237
 aS'Wing'
-p3848
+p4238
 aS'2'
 aS'2'
 aS'0'
@@ -10051,20 +10918,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Paarl'
-p3849
+p4239
 aVSouth Africa
-p3850
+p4240
 aVWestern Cape
-p3851
+p4241
 aVCape Winelands District Municipality
-p3852
-aa(lp3853
+p4242
+aVPaarl
+p4243
+aa(lp4244
 S'Anton Barnard'
-p3854
+p4245
 aS'1984'
-p3855
+p4246
 aS'Prop'
-p3856
+p4247
 aS'4'
 aS'3'
 aS'1'
@@ -10072,20 +10941,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'George'
-p3857
+p4248
 aVUnited States of America
-p3858
+p4249
 aVMississippi
-p3859
+p4250
 aVGeorge
-p3860
-aa(lp3861
+p4251
+ag82
+aa(lp4252
 S'Michael du Plessis'
-p3862
+p4253
 aS'1984'
-p3863
+p4254
 aS'Centre'
-p3864
+p4255
 aS'8'
 aS'7'
 aS'1'
@@ -10093,20 +10963,22 @@ aS'0'
 aS'1'
 aS'7'
 aS'Somerset East'
-p3865
+p4256
 aVSouth Africa
-p3866
+p4257
 aVEastern Cape
-p3867
+p4258
 aVSarah Baartman District Municipality
-p3868
-aa(lp3869
+p4259
+aVSomerset East
+p4260
+aa(lp4261
 S'Kulu Ferreira'
-p3870
+p4262
 aS'1984'
-p3871
+p4263
 aS'Flanker'
-p3872
+p4264
 aS'2'
 aS'2'
 aS'0'
@@ -10114,20 +10986,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Kroonstad'
-p3873
+p4265
 aVSouth Africa
-p3874
+p4266
 aVFree State
-p3875
+p4267
 aVFezile Dabi District Municipality
-p3876
-aa(lp3877
+p4268
+aVKroonstad
+p4269
+aa(lp4270
 S'Nick Mallett'
-p3878
+p4271
 aS'1984'
-p3879
+p4272
 aS'No. 8'
-p3880
+p4273
 aS'2'
 aS'2'
 aS'0'
@@ -10135,20 +11009,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Herts'
-p3881
+p4274
 aVPortugal
-p3882
+p4275
 aVViseu
-p3883
+p4276
 aVValdevez
-p3884
-aa(lp3885
+p4277
+aVEN 226
+p4278
+aa(lp4279
 S'Attie Strauss'
-p3886
+p4280
 aS'1984'
-p3887
+p4281
 aS'Prop'
-p3888
+p4282
 aS'2'
 aS'2'
 aS'0'
@@ -10156,20 +11032,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Calvinia'
-p3889
+p4283
 aVSouth Africa
-p3890
+p4284
 aVNorthern Cape
-p3891
+p4285
 aVNamakwa District Municipality
-p3892
-aa(lp3893
+p4286
+aVCalvinia
+p4287
+aa(lp4288
 S'Wahl Bartmann'
-p3894
+p4289
 aS'1986'
-p3895
+p4290
 aS'Flanker'
-p3896
+p4291
 aS'8'
 aS'4'
 aS'4'
@@ -10177,19 +11055,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Florida'
-p3897
+p4292
 aVUnited States of America
-p3898
+p4293
 aVFlorida
-p3899
-ag214
-aa(lp3900
+p4294
+ag82
+ag82
+aa(lp4295
 S'Jannie Breedt'
-p3901
+p4296
 aS'1986'
-p3902
+p4297
 aS'No. 8'
-p3903
+p4298
 aS'8'
 aS'5'
 aS'3'
@@ -10197,20 +11076,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kempton Park'
-p3904
+p4299
 aVUnited Kingdom
-p3905
+p4300
 aVTW16 5AQ
-p3906
+p4301
 aVEngland
-p3907
-aa(lp3908
+p4302
+aVSouth East
+p4303
+aa(lp4304
 S'Christo Ferreira'
-p3909
+p4305
 aS'1986'
-p3910
+p4306
 aS'Scrum-half'
-p3911
+p4307
 aS'2'
 aS'1'
 aS'1'
@@ -10218,20 +11099,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Welkom'
-p3912
+p4308
 aVSouth Africa
-p3913
+p4309
 aVFree State
-p3914
+p4310
 aVLejweleputswa District Municipality
-p3915
-aa(lp3916
+p4311
+aVWelkom
+p4312
+aa(lp4313
 S'Jaco Reinach'
-p3917
+p4314
 aS'1986'
-p3918
+p4315
 aS'Wing'
-p3919
+p4316
 aS'4'
 aS'3'
 aS'1'
@@ -10239,43 +11122,47 @@ aS'0'
 aS'2'
 aS'8'
 aS'Ceres'
-p3920
+p4317
 aVItalia
-p3921
+p4318
 aVPIE
-p3922
+p4319
 aVTO
-p3923
-aa(lp3924
+p4320
+aVCeres
+p4321
+aa(lp4322
 S'Uli Schmidt'
-p3925
+p4323
 aS'1986'
-p3926
+p4324
 aS'Hooker'
-p3927
+p4325
 aS'17'
-p3928
+p4326
 aS'10'
-p3929
+p4327
 aS'6'
 aS'1'
 aS'2'
 aS'9'
 aS'Pretoria'
-p3930
+p4328
 aVSouth Africa
-p3931
+p4329
 aVGauteng
-p3932
+p4330
 aVCity of Tshwane Metropolitan Municipality
-p3933
-aa(lp3934
+p4331
+aVPretoria
+p4332
+aa(lp4333
 S'Gert Smal'
-p3935
+p4334
 aS'1986'
-p3936
+p4335
 aS'Flanker'
-p3937
+p4336
 aS'6'
 aS'5'
 aS'1'
@@ -10283,20 +11170,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Kimberley'
-p3938
+p4337
 aVSouth Africa
-p3939
+p4338
 aVNorthern Cape
-p3940
+p4339
 aVFrances Baard District Municipality
-p3941
-aa(lp3942
+p4340
+aVKimberley
+p4341
+aa(lp4342
 S'Frans Erasmus'
-p3943
+p4343
 aS'1986'
-p3944
+p4344
 aS'Prop'
-p3945
+p4345
 aS'3'
 aS'3'
 aS'0'
@@ -10304,20 +11193,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ceres'
-p3946
+p4346
 aVItalia
-p3947
+p4347
 aVPIE
-p3948
+p4348
 aVTO
-p3949
-aa(lp3950
+p4349
+aVCeres
+p4350
+aa(lp4351
 S'Piet Kruger'
-p3951
+p4352
 aS'1986'
-p3952
+p4353
 aS'Prop'
-p3953
+p4354
 aS'2'
 aS'2'
 aS'0'
@@ -10325,20 +11216,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Brits'
-p3954
+p4355
 aVSouth Africa
-p3955
+p4356
 aVNorth West
-p3956
+p4357
 aVBojanala Platinum District Municipality
-p3957
-aa(lp3958
+p4358
+aVBrits
+p4359
+aa(lp4360
 S'Garth Wright'
-p3959
+p4361
 aS'1986'
-p3960
+p4362
 aS'Scrum-half'
-p3961
+p4363
 aS'7'
 aS'5'
 aS'2'
@@ -10346,20 +11239,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'East London'
-p3962
+p4364
 aVSouth Africa
-p3963
+p4365
 aVEastern Cape
-p3964
+p4366
 aVBuffalo City Metropolitan Municipality
-p3965
-aa(lp3966
+p4367
+aVEast London
+p4368
+aa(lp4369
 S'Helgard Muller'
-p3967
+p4370
 aS'1986'
-p3968
+p4371
 aS'Utility back'
-p3969
+p4372
 aS'2'
 aS'2'
 aS'0'
@@ -10367,20 +11262,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bloemfontein'
-p3970
+p4373
 aVSouth Africa
-p3971
+p4374
 aVFree State
-p3972
+p4375
 aVMangaung Metropolitan Municipality
-p3973
-aa(lp3974
+p4376
+aVBloemfontein
+p4377
+aa(lp4378
 S'Kobus Burger'
-p3975
+p4379
 aS'1989'
-p3976
+p4380
 aS'Wing'
-p3977
+p4381
 aS'2'
 aS'2'
 aS'0'
@@ -10388,20 +11285,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Paarl'
-p3978
+p4382
 aVSouth Africa
-p3979
+p4383
 aVWestern Cape
-p3980
+p4384
 aVCape Winelands District Municipality
-p3981
-aa(lp3982
+p4385
+aVPaarl
+p4386
+aa(lp4387
 S'Niel Hugo'
-p3983
+p4388
 aS'1989'
-p3984
+p4389
 aS'Lock'
-p3985
+p4390
 aS'2'
 aS'2'
 aS'0'
@@ -10409,20 +11308,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Victoria West'
-p3986
+p4391
 aVSouth Africa
-p3987
+p4392
 aVNorthern Cape
-p3988
+p4393
 aVPixley ka Seme District Municipality
-p3989
-aa(lp3990
+p4394
+aVVictoria West
+p4395
+aa(lp4396
 S'Faffa Knoetze'
-p3991
+p4397
 aS'1989'
-p3992
+p4398
 aS'Centre'
-p3993
+p4399
 aS'2'
 aS'2'
 aS'0'
@@ -10430,20 +11331,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Parow'
-p3994
+p4400
 aVSouth Africa
-p3995
+p4401
 aVWestern Cape
-p3996
+p4402
 aVCity of Cape Town
-p3997
-aa(lp3998
+p4403
+aVParow
+p4404
+aa(lp4405
 S'Adolf Malan'
-p3999
+p4406
 aS'1989'
-p4000
+p4407
 aS'Lock'
-p4001
+p4408
 aS'7'
 aS'3'
 aS'4'
@@ -10451,20 +11354,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Germiston'
-p4002
+p4409
 aVSouth Africa
-p4003
+p4410
 aVGauteng
-p4004
+p4411
 aVEkurhuleni Metropolitan Municipality
-p4005
-aa(lp4006
+p4412
+aVGermiston
+p4413
+aa(lp4414
 S'Hein Rodgers'
-p4007
+p4415
 aS'1989'
-p4008
+p4416
 aS'Prop'
-p4009
+p4417
 aS'5'
 aS'3'
 aS'2'
@@ -10472,46 +11377,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'Harrismith'
-p4010
+p4418
 aVSouth Africa
-p4011
+p4419
 aV9880
-p4012
+p4420
 aVFree State
-p4013
-aa(lp4014
+p4421
+aVThabo Mofutsanyana District Municipality
+p4422
+aa(lp4423
 S'Andre Joubert'
-p4015
+p4424
 aS'1989'
-p4016
+p4425
 aS'Fullback'
-p4017
+p4426
 aS'34'
-p4018
+p4427
 aS'23'
-p4019
+p4428
 aS'10'
-p4020
+p4429
 aS'1'
 aS'10'
-p4021
+p4430
 aS'115'
-p4022
+p4431
 aS'Ladysmith'
-p4023
+p4432
 aVAustralia
-p4024
+p4433
 aVNew South Wales
-p4025
+p4434
 aVLadysmith
-p4026
-aa(lp4027
+p4435
+ag82
+aa(lp4436
 S'Robert du Preez'
-p4028
+p4437
 aS'1992'
-p4029
+p4438
 aS'Scrum-half'
-p4030
+p4439
 aS'7'
 aS'1'
 aS'5'
@@ -10519,20 +11427,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Potchefstroom'
-p4031
+p4440
 aVSouth Africa
-p4032
+p4441
 aVNorth West
-p4033
+p4442
 aVDr Kenneth Kaunda District Municipality
-p4034
-aa(lp4035
+p4443
+aVPotchefstroom
+p4444
+aa(lp4445
 S'Adri Geldenhuys'
-p4036
+p4446
 aS'1992'
-p4037
+p4447
 aS'Lock'
-p4038
+p4448
 aS'4'
 aS'1'
 aS'3'
@@ -10540,43 +11450,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Clanwilliam'
-p4039
+p4449
 aVSouth Africa
-p4040
+p4450
 aVWestern Cape
-p4041
+p4451
 aVWest Coast District Municipality
-p4042
-aa(lp4043
+p4452
+aVClanwilliam
+p4453
+aa(lp4454
 S'Pieter Hendriks'
-p4044
+p4455
 aS'1992'
-p4045
+p4456
 aS'Wing'
-p4046
+p4457
 aS'14'
-p4047
+p4458
 aS'7'
 aS'7'
 aS'0'
 aS'2'
 aS'10'
-p4048
+p4459
 aS'Douglas'
-p4049
+p4460
 aVUnited States of America
-p4050
+p4461
 aVIllinois
-p4051
+p4462
 aVDouglas County
-p4052
-aa(lp4053
+p4463
+ag82
+aa(lp4464
 S'Ian Macdonald'
-p4054
+p4465
 aS'1992'
-p4055
+p4466
 aS'Flanker'
-p4056
+p4467
 aS'6'
 aS'2'
 aS'3'
@@ -10584,20 +11497,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Pretoria'
-p4057
+p4468
 aVSouth Africa
-p4058
+p4469
 aVGauteng
-p4059
+p4470
 aVCity of Tshwane Metropolitan Municipality
-p4060
-aa(lp4061
+p4471
+aVPretoria
+p4472
+aa(lp4473
 S'Lood Muller'
-p4062
+p4474
 aS'1992'
-p4063
+p4475
 aS'Prop'
-p4064
+p4476
 aS'2'
 aS'0'
 aS'2'
@@ -10605,93 +11520,101 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pietermaritzburg'
-p4065
+p4477
 aVSouth Africa
-p4066
+p4478
 aVKwaZulu-Natal
-p4067
+p4479
 aVuMgungundlovu District Municipality
-p4068
-aa(lp4069
+p4480
+aVPietermaritzburg
+p4481
+aa(lp4482
 S'Pieter Muller'
-p4070
+p4483
 aS'1992'
-p4071
+p4484
 aS'Centre'
-p4072
+p4485
 aS'33'
-p4073
+p4486
 aS'19'
-p4074
+p4487
 aS'13'
-p4075
+p4488
 aS'1'
 aS'3'
 aS'15'
-p4076
+p4489
 aS'Bloemfontein'
-p4077
+p4490
 aVSouth Africa
-p4078
+p4491
 aVFree State
-p4079
+p4492
 aVMangaung Metropolitan Municipality
-p4080
-aa(lp4081
+p4493
+aVBloemfontein
+p4494
+aa(lp4495
 S'James Small'
-p4082
+p4496
 aS'1992'
-p4083
+p4497
 aS'Wing'
-p4084
+p4498
 aS'47'
-p4085
+p4499
 aS'28'
-p4086
+p4500
 aS'17'
-p4087
+p4501
 aS'2'
 aS'20'
-p4088
+p4502
 aS'100'
-p4089
+p4503
 aS'Cape Town'
-p4090
+p4504
 aVSouth Africa
-p4091
+p4505
 aVWestern Cape
-p4092
+p4506
 aVCity of Cape Town
-p4093
-aa(lp4094
+p4507
+aVCape Town
+p4508
+aa(lp4509
 S'Theo van Rensburg'
-p4095
+p4510
 aS'1992'
-p4096
+p4511
 aS'Fullback'
-p4097
+p4512
 aS'7'
 aS'1'
 aS'5'
 aS'1'
 aS'0'
 aS'40'
-p4098
+p4513
 aS'Carletonville'
-p4099
+p4514
 aVSouth Africa
-p4100
+p4515
 aVGauteng
-p4101
+p4516
 aVWest Rand District Municipality
-p4102
-aa(lp4103
+p4517
+aVCarletonville
+p4518
+aa(lp4519
 S'Heinrich Fuls'
-p4104
+p4520
 aS'1992'
-p4105
+p4521
 aS'Centre'
-p4106
+p4522
 aS'8'
 aS'3'
 aS'4'
@@ -10699,20 +11622,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'OFS'
-p4107
+p4523
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p4108
+p4524
 aV457040
-p4109
+p4525
 aV\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433
-p4110
-aa(lp4111
+p4526
+aV\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c
+p4527
+aa(lp4528
 S'Johann Styger'
-p4112
+p4529
 aS'1992'
-p4113
+p4530
 aS'Prop'
-p4114
+p4531
 aS'7'
 aS'1'
 aS'6'
@@ -10720,20 +11645,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bloemfontein'
-p4115
+p4532
 aVSouth Africa
-p4116
+p4533
 aVFree State
-p4117
+p4534
 aVMangaung Metropolitan Municipality
-p4118
-aa(lp4119
+p4535
+aVBloemfontein
+p4536
+aa(lp4537
 S'Drikus Hattingh'
-p4120
+p4538
 aS'1992'
-p4121
+p4539
 aS'Lock'
-p4122
+p4540
 aS'5'
 aS'2'
 aS'3'
@@ -10741,20 +11668,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rustenburg'
-p4123
+p4541
 aVSouth Africa
-p4124
+p4542
 aVNorth West
-p4125
+p4543
 aVBojanala Platinum District Municipality
-p4126
-aa(lp4127
+p4544
+aVRustenburg
+p4545
+aa(lp4546
 S'Willie Hills'
-p4128
+p4547
 aS'1992'
-p4129
+p4548
 aS'Hooker'
-p4130
+p4549
 aS'6'
 aS'2'
 aS'3'
@@ -10762,44 +11691,48 @@ aS'1'
 aS'0'
 aS'0'
 aS'Pretoria'
-p4131
+p4550
 aVSouth Africa
-p4132
+p4551
 aVGauteng
-p4133
+p4552
 aVCity of Tshwane Metropolitan Municipality
-p4134
-aa(lp4135
+p4553
+aVPretoria
+p4554
+aa(lp4555
 S'Jacques Olivier'
-p4136
+p4556
 aS'1992'
-p4137
+p4557
 aS'Wing'
-p4138
+p4558
 aS'17'
-p4139
+p4559
 aS'11'
-p4140
+p4560
 aS'5'
 aS'1'
 aS'3'
 aS'15'
-p4141
+p4561
 aS'Pretoria'
-p4142
+p4562
 aVSouth Africa
-p4143
+p4563
 aVGauteng
-p4144
+p4564
 aVCity of Tshwane Metropolitan Municipality
-p4145
-aa(lp4146
+p4565
+aVPretoria
+p4566
+aa(lp4567
 S'Hugh Reece-Edwards'
-p4147
+p4568
 aS'1992'
-p4148
+p4569
 aS'Fullback'
-p4149
+p4570
 aS'3'
 aS'1'
 aS'2'
@@ -10807,68 +11740,74 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p4150
+p4571
 aVSouth Africa
-p4151
+p4572
 aV2001
-p4152
+p4573
 aVGauteng
-p4153
-aa(lp4154
+p4574
+aVCity of Johannesburg Metropolitan Municipality
+p4575
+aa(lp4576
 S'Adriaan Richter'
-p4155
+p4577
 aS'1992'
-p4156
+p4578
 aS'No. 8'
-p4157
+p4579
 aS'10'
-p4158
+p4580
 aS'5'
 aS'4'
 aS'1'
 aS'4'
 aS'20'
-p4159
+p4581
 aS'Roodepoort'
-p4160
+p4582
 aVSouth Africa
-p4161
+p4583
 aVGauteng
-p4162
+p4584
 aVCity of Johannesburg Metropolitan Municipality
-p4163
-aa(lp4164
+p4585
+aVRoodepoort
+p4586
+aa(lp4587
 S'Tiaan Strauss'
-p4165
+p4588
 aS'1992'
-p4166
+p4589
 aS'No. 8'
-p4167
+p4590
 aS'26'
-p4168
+p4591
 aS'15'
-p4169
+p4592
 aS'10'
-p4170
+p4593
 aS'1'
 aS'8'
 aS'40'
-p4171
+p4594
 aS'Upington'
-p4172
+p4595
 aVSouth Africa
-p4173
+p4596
 aVNorthern Cape
-p4174
+p4597
 aVZF Mgcawu District Municipality
-p4175
-aa(lp4176
+p4598
+aVUpington
+p4599
+aa(lp4600
 S'Keith Andrews'
-p4177
+p4601
 aS'1992'
-p4178
+p4602
 aS'Prop'
-p4179
+p4603
 aS'9'
 aS'3'
 aS'4'
@@ -10876,20 +11815,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Molteno'
-p4180
+p4604
 aVItalia
-p4181
+p4605
 aVLOM
-p4182
+p4606
 aVLC
-p4183
-aa(lp4184
+p4607
+aVMolteno
+p4608
+aa(lp4609
 S'FC Smit'
-p4185
+p4610
 aS'1992'
-p4186
+p4611
 aS'Flanker'
-p4187
+p4612
 aS'1'
 aS'0'
 aS'1'
@@ -10897,91 +11838,99 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p4188
+p4613
 aVSouth Africa
-p4189
+p4614
 aVWestern Cape
-p4190
+p4615
 aVCity of Cape Town
-p4191
-aa(lp4192
+p4616
+aVCape Town
+p4617
+aa(lp4618
 S'Hennie le Roux'
-p4193
+p4619
 aS'1993'
-p4194
+p4620
 aS'Centre'
-p4195
+p4621
 aS'27'
-p4196
+p4622
 aS'20'
-p4197
+p4623
 aS'5'
 aS'2'
 aS'4'
 aS'34'
-p4198
+p4624
 aS'Grahamstown'
-p4199
+p4625
 aVSouth Africa
-p4200
+p4626
 aVEastern Cape
-p4201
+p4627
 aVSarah Baartman District Municipality
-p4202
-aa(lp4203
+p4628
+aVGrahamstown
+p4629
+aa(lp4630
 S'Francois Pienaar'
-p4204
+p4631
 aS'1993'
-p4205
+p4632
 aS'Flanker'
-p4206
+p4633
 aS'29'
-p4207
+p4634
 aS'19'
-p4208
+p4635
 aS'8'
 aS'2'
 aS'3'
 aS'15'
-p4209
+p4636
 aS'Vereeniging'
-p4210
+p4637
 aVSouth Africa
-p4211
+p4638
 aVGauteng
-p4212
+p4639
 aVSedibeng District Municipality
-p4213
-aa(lp4214
+p4640
+aVVereeniging
+p4641
+aa(lp4642
 S'Kobus Wiese'
-p4215
+p4643
 aS'1993'
-p4216
+p4644
 aS'Lock'
-p4217
+p4645
 aS'18'
-p4218
+p4646
 aS'15'
-p4219
+p4647
 aS'2'
 aS'1'
 aS'1'
 aS'5'
 aS'Paarl'
-p4220
+p4648
 aVSouth Africa
-p4221
+p4649
 aVWestern Cape
-p4222
+p4650
 aVCape Winelands District Municipality
-p4223
-aa(lp4224
+p4651
+aVPaarl
+p4652
+aa(lp4653
 S'Deon Lotter'
-p4225
+p4654
 aS'1993'
-p4226
+p4655
 aS'Flanker'
-p4227
+p4656
 aS'3'
 aS'1'
 aS'2'
@@ -10989,43 +11938,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Stellenbosch'
-p4228
+p4657
 aVSouth Africa
-p4229
+p4658
 aVWestern Cape
-p4230
+p4659
 aVCape Winelands District Municipality
-p4231
-aa(lp4232
+p4660
+aVStellenbosch
+p4661
+aa(lp4662
 S'Hannes Strydom'
-p4233
+p4663
 aS'1993'
-p4234
+p4664
 aS'Lock'
-p4235
+p4665
 aS'21'
-p4236
+p4666
 aS'12'
-p4237
+p4667
 aS'9'
 aS'0'
 aS'1'
 aS'5'
 aS'Welkom'
-p4238
+p4668
 aVSouth Africa
-p4239
+p4669
 aVFree State
-p4240
+p4670
 aVLejweleputswa District Municipality
-p4241
-aa(lp4242
+p4671
+aVWelkom
+p4672
+aa(lp4673
 S'Nico Wegner'
-p4243
+p4674
 aS'1993'
-p4244
+p4675
 aS'Lock'
-p4245
+p4676
 aS'4'
 aS'1'
 aS'3'
@@ -11033,114 +11986,123 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nelspruit'
-p4246
+p4677
 aVSouth Africa
-p4247
+p4678
 aVMpumalanga
-p4248
+p4679
 aVEhlanzeni District Municipality
-p4249
-aa(lp4250
+p4680
+aVNelspruit
+p4681
+aa(lp4682
 S'Joel Stransky'
-p4251
+p4683
 aS'1993'
-p4252
+p4684
 aS'Fly-half'
-p4253
+p4685
 aS'22'
-p4254
+p4686
 aS'16'
-p4255
+p4687
 aS'6'
 aS'0'
 aS'6'
 aS'240'
-p4256
+p4688
 aS'Pietermaritzburg'
-p4257
+p4689
 aVSouth Africa
-p4258
+p4690
 aVKwaZulu-Natal
-p4259
+p4691
 aVuMgungundlovu District Municipality
-p4260
-aa(lp4261
+p4692
+aVPietermaritzburg
+p4693
+aa(lp4694
 S'Balie Swart'
-p4262
+p4695
 aS'1993'
-p4263
+p4696
 aS'Prop'
-p4264
+p4697
 aS'16'
-p4265
+p4698
 aS'11'
-p4266
+p4699
 aS'4'
 aS'1'
 aS'0'
 aS'0'
 aS'Malmesbury'
-p4267
+p4700
 aVUnited Kingdom
-p4268
+p4701
 aVSN16 9
-p4269
+p4702
 aVEngland
-p4270
-aa(lp4271
+p4703
+aVSouth West England
+p4704
+aa(lp4705
 S'John Allan'
-p4272
+p4706
 aS'1990'
-p4273
+p4707
 aS'Hooker'
-p4274
+p4708
 aS'22'
-p4275
+p4709
 aS'11'
-p4276
+p4710
 aS'10'
-p4277
+p4711
 aS'1'
 aS'0'
 aS'0'
 aS'Glasgow'
-p4278
+p4712
 aVUnited Kingdom
-p4279
+p4713
 aVG
 aVScotland
-p4280
-aa(lp4281
+p4714
+aVGlasgow City
+p4715
+aa(lp4716
 S'Henry Honiball'
-p4282
+p4717
 aS'1993'
-p4283
+p4718
 aS'Fly-half'
-p4284
+p4719
 aS'35'
-p4285
+p4720
 aS'26'
-p4286
+p4721
 aS'9'
 aS'0'
 aS'1'
 aS'156'
-p4287
+p4722
 aS'Estcourt'
-p4288
+p4723
 aVCanada
-p4289
+p4724
 aVQuébec
-p4290
+p4725
 aVEstcourt
-p4291
-aa(lp4292
+p4726
+ag82
+aa(lp4727
 S'Steve Atherton'
-p4293
+p4728
 aS'1993'
-p4294
+p4729
 aS'Lock'
-p4295
+p4730
 aS'8'
 aS'3'
 aS'4'
@@ -11148,20 +12110,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Gosport'
-p4296
+p4731
 aVUnited Kingdom
-p4297
+p4732
 aVEngland
-p4298
+p4733
 aVSouth East
-p4299
-aa(lp4300
+p4734
+aVHampshire
+p4735
+aa(lp4736
 S'Guy Kebble'
-p4301
+p4737
 aS'1993'
-p4302
+p4738
 aS'Prop'
-p4303
+p4739
 aS'4'
 aS'2'
 aS'2'
@@ -11169,239 +12133,259 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p4304
+p4740
 aVSouth Africa
-p4305
+p4741
 aVWestern Cape
-p4306
+p4742
 aVCity of Cape Town
-p4307
-aa(lp4308
+p4743
+aVCape Town
+p4744
+aa(lp4745
 S'Ruben Kruger'
-p4309
+p4746
 aS'1993'
-p4310
+p4747
 aS'Flanker'
-p4311
+p4748
 aS'36'
-p4312
+p4749
 aS'25'
-p4313
+p4750
 aS'11'
-p4314
+p4751
 aS'0'
 aS'7'
 aS'35'
-p4315
+p4752
 aS'Vrede'
-p4316
+p4753
 aVSouth Africa
-p4317
+p4754
 aVWestern Cape
-p4318
+p4755
 aVCentral Karoo District Municipality
-p4319
-aa(lp4320
+p4756
+aVVrede
+p4757
+aa(lp4758
 S'Joost van der Westhuizen'
-p4321
+p4759
 aS'1993'
-p4322
+p4760
 aS'Scrum-half'
-p4323
+p4761
 aS'89'
-p4324
+p4762
 aS'60'
-p4325
+p4763
 aS'28'
-p4326
+p4764
 aS'1'
 aS'38'
-p4327
+p4765
 aS'190'
-p4328
+p4766
 aS'Pretoria'
-p4329
+p4767
 aVSouth Africa
-p4330
+p4768
 aVGauteng
-p4331
+p4769
 aVCity of Tshwane Metropolitan Municipality
-p4332
-aa(lp4333
+p4770
+aVPretoria
+p4771
+aa(lp4772
 S'Naka Drotske'
-p4334
+p4773
 aS'1993'
-p4335
+p4774
 aS'Hooker'
-p4336
+p4775
 aS'26'
-p4337
+p4776
 aS'15'
-p4338
+p4777
 aS'11'
-p4339
+p4778
 aS'0'
 aS'3'
 aS'15'
-p4340
+p4779
 aS'Senekal'
-p4341
+p4780
 aVSouth Africa
-p4342
+p4781
 aVFree State
-p4343
+p4782
 aVThabo Mofutsanyana District Municipality
-p4344
-aa(lp4345
+p4783
+aVSenekal
+p4784
+aa(lp4785
 S'Gavin Johnson'
-p4346
+p4786
 aS'1993'
-p4347
+p4787
 aS'Fullback, Wing'
-p4348
+p4788
 aS'7'
 aS'6'
 aS'0'
 aS'1'
 aS'5'
 aS'86'
-p4349
+p4789
 aS'Louis Trichardt'
-p4350
+p4790
 aVSouth Africa
-p4351
+p4791
 aVLimpopo
-p4352
+p4792
 aVVhembe District Municipality
-p4353
-aa(lp4354
+p4793
+aVLouis Trichardt
+p4794
+aa(lp4795
 S'Chester Williams'
-p4355
+p4796
 aS'1993'
-p4356
+p4797
 aS'Wing'
-p4357
+p4798
 aS'27'
-p4358
+p4799
 aS'20'
-p4359
+p4800
 aS'6'
 aS'1'
 aS'14'
-p4360
+p4801
 aS'70'
-p4361
+p4802
 aS'Paarl'
-p4362
+p4803
 aVSouth Africa
-p4363
+p4804
 aVWestern Cape
-p4364
+p4805
 aVCape Winelands District Municipality
-p4365
-aa(lp4366
+p4806
+aVPaarl
+p4807
+aa(lp4808
 S'Ollie le Roux'
-p4367
+p4809
 aS'1994'
-p4368
+p4810
 aS'Prop'
-p4369
+p4811
 aS'54'
-p4370
+p4812
 aS'33'
-p4371
+p4813
 aS'20'
-p4372
+p4814
 aS'1'
 aS'1'
 aS'5'
 aS'Fort Beaufort'
-p4373
+p4815
 aVSouth Africa
-p4374
+p4816
 aVEastern Cape
-p4375
+p4817
 aVAmathole District Municipality
-p4376
-aa(lp4377
+p4818
+aVFort Beaufort
+p4819
+aa(lp4820
 S'Fritz van Heerden'
-p4378
+p4821
 aS'1994'
-p4379
+p4822
 aS'Lock'
-p4380
+p4823
 aS'14'
-p4381
+p4824
 aS'9'
 aS'4'
 aS'1'
 aS'1'
 aS'5'
 aS'Roodepoort'
-p4382
+p4825
 aVSouth Africa
-p4383
+p4826
 aVGauteng
-p4384
+p4827
 aVCity of Johannesburg Metropolitan Municipality
-p4385
-aa(lp4386
+p4828
+aVRoodepoort
+p4829
+aa(lp4830
 S'Brendan Venter'
-p4387
+p4831
 aS'1994'
-p4388
+p4832
 aS'Centre'
-p4389
+p4833
 aS'17'
-p4390
+p4834
 aS'11'
-p4391
+p4835
 aS'5'
 aS'1'
 aS'2'
 aS'10'
-p4392
+p4836
 aS'Johannesburg'
-p4393
+p4837
 aVSouth Africa
-p4394
+p4838
 aV2001
-p4395
+p4839
 aVGauteng
-p4396
-aa(lp4397
+p4840
+aVCity of Johannesburg Metropolitan Municipality
+p4841
+aa(lp4842
 S'Mark Andrews'
-p4398
+p4843
 aS'1994'
-p4399
+p4844
 aS'Lock, No. 8'
-p4400
+p4845
 aS'77'
-p4401
+p4846
 aS'51'
-p4402
+p4847
 aS'24'
-p4403
+p4848
 aS'2'
 aS'12'
-p4404
+p4849
 aS'60'
-p4405
+p4850
 aS'Elliot'
-p4406
+p4851
 aVSouth Africa
-p4407
+p4852
 aVEastern Cape
-p4408
+p4853
 aVChris Hani District Municipality
-p4409
-aa(lp4410
+p4854
+aVElliot
+p4855
+aa(lp4856
 S'Johan le Roux'
-p4411
+p4857
 aS'1994'
-p4412
+p4858
 aS'Prop'
-p4413
+p4859
 aS'3'
 aS'1'
 aS'2'
@@ -11409,116 +12393,126 @@ aS'0'
 aS'0'
 aS'0'
 aS'Vereeniging'
-p4414
+p4860
 aVSouth Africa
-p4415
+p4861
 aVGauteng
-p4416
+p4862
 aVSedibeng District Municipality
-p4417
-aa(lp4418
+p4863
+aVVereeniging
+p4864
+aa(lp4865
 S'Johan Roux'
-p4419
+p4866
 aS'1994'
-p4420
+p4867
 aS'Scrum-half'
-p4421
+p4868
 aS'12'
-p4422
+p4869
 aS'6'
 aS'5'
 aS'1'
 aS'2'
 aS'10'
-p4423
+p4870
 aS'Pretoria'
-p4424
+p4871
 aVSouth Africa
-p4425
+p4872
 aVGauteng
-p4426
+p4873
 aVCity of Tshwane Metropolitan Municipality
-p4427
-aa(lp4428
+p4874
+aVPretoria
+p4875
+aa(lp4876
 S'Rudolf Straeuli'
-p4429
+p4877
 aS'1994'
-p4430
+p4878
 aS'Back-row'
-p4431
+p4879
 aS'10'
-p4432
+p4880
 aS'9'
 aS'1'
 aS'0'
 aS'4'
 aS'20'
-p4433
+p4881
 aS'Pretoria'
-p4434
+p4882
 aVSouth Africa
-p4435
+p4883
 aVGauteng
-p4436
+p4884
 aVCity of Tshwane Metropolitan Municipality
-p4437
-aa(lp4438
+p4885
+aVPretoria
+p4886
+aa(lp4887
 S'Japie Mulder'
-p4439
+p4888
 aS'1994'
-p4440
+p4889
 aS'Centre'
-p4441
+p4890
 aS'34'
-p4442
+p4891
 aS'23'
-p4443
+p4892
 aS'10'
-p4444
+p4893
 aS'1'
 aS'6'
 aS'30'
-p4445
+p4894
 aS'Springs'
-p4446
+p4895
 aVUnited States of America
-p4447
+p4896
 aVNew York
-p4448
+p4897
 aVSuffolk County
-p4449
-aa(lp4450
+p4898
+aVSprings
+p4899
+aa(lp4900
 S'Os du Randt'
-p4451
+p4901
 aS'1994'
-p4452
+p4902
 aS'Prop'
-p4453
+p4903
 aS'80'
-p4454
+p4904
 aS'52'
-p4455
+p4905
 aS'27'
-p4456
+p4906
 aS'1'
 aS'5'
 aS'25'
-p4457
+p4907
 aS'Elliot'
-p4458
+p4908
 aVSouth Africa
-p4459
+p4909
 aVEastern Cape
-p4460
+p4910
 aVChris Hani District Municipality
-p4461
-aa(lp4462
+p4911
+aVElliot
+p4912
+aa(lp4913
 S'Tommy Laubscher'
-p4463
+p4914
 aS'1994'
-p4464
+p4915
 aS'Prop'
-p4465
+p4916
 aS'6'
 aS'6'
 aS'0'
@@ -11526,20 +12520,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Vredenburg'
-p4466
+p4917
 aVSouth Africa
-p4467
+p4918
 aVWestern Cape
-p4468
+p4919
 aVWest Coast District Municipality
-p4469
-aa(lp4470
+p4920
+aVVredenburg
+p4921
+aa(lp4922
 S'Christiaan Scholtz'
-p4471
+p4923
 aS'1994'
-p4472
+p4924
 aS'Centre'
-p4473
+p4925
 aS'4'
 aS'4'
 aS'0'
@@ -11547,65 +12543,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'Stutterheim'
-p4474
+p4926
 aVSouth Africa
-p4475
+p4927
 aVEastern Cape
-p4476
+p4928
 aVAmathole District Municipality
-p4477
-aa(lp4478
+p4929
+aVStutterheim
+p4930
+aa(lp4931
 S'James Dalton'
-p4479
+p4932
 aS'1994'
-p4480
+p4933
 aS'Hooker'
-p4481
+p4934
 aS'43'
-p4482
+p4935
 aS'35'
-p4483
+p4936
 aS'8'
 aS'0'
 aS'5'
 aS'25'
-p4484
+p4937
 aS'Johannesburg'
-p4485
+p4938
 aVSouth Africa
-p4486
+p4939
 aV2001
-p4487
+p4940
 aVGauteng
-p4488
-aa(lp4489
+p4941
+aVCity of Johannesburg Metropolitan Municipality
+p4942
+aa(lp4943
 S'Chris Badenhorst'
-p4490
+p4944
 aS'1994'
-p4491
+p4945
 aS'Wing'
-p4492
+p4946
 aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'2'
 aS'10'
-p4493
+p4947
 aS'South-West Africa'
-p4494
+p4948
 aVBurkina Faso
-p4495
+p4949
 aVSud-Ouest
-p4496
-ag214
-aa(lp4497
+p4950
+ag82
+ag82
+aa(lp4951
 S'Elandre van den Bergh'
-p4498
+p4952
 aS'1994'
-p4499
+p4953
 aS'Flanker'
-p4500
+p4954
 aS'1'
 aS'1'
 aS'0'
@@ -11613,20 +12614,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p4501
+p4955
 aVSouth Africa
-p4502
+p4956
 aVGauteng
-p4503
+p4957
 aVCity of Tshwane Metropolitan Municipality
-p4504
-aa(lp4505
+p4958
+aVPretoria
+p4959
+aa(lp4960
 S'Phillip Schutte'
-p4506
+p4961
 aS'1994'
-p4507
+p4962
 aS'Lock'
-p4508
+p4963
 aS'2'
 aS'2'
 aS'0'
@@ -11634,42 +12637,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p4509
+p4964
 aVSouth Africa
-p4510
+p4965
 aVGauteng
-p4511
+p4966
 aVCity of Tshwane Metropolitan Municipality
-p4512
-aa(lp4513
+p4967
+aVPretoria
+p4968
+aa(lp4969
 S'Chris Rossouw'
-p4514
+p4970
 aS'1995'
-p4515
+p4971
 aS'Hooker'
-p4516
+p4972
 aS'9'
 aS'8'
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p4517
+p4973
 aS'Delmas'
-p4518
+p4974
 aVAyiti
-p4519
+p4975
 aVDépartement de l'Ouest
-p4520
+p4976
 aVArrondissement de Port-au-Prince
-p4521
-aa(lp4522
+p4977
+aVDelmas
+p4978
+aa(lp4979
 S'Mornay Visser'
-p4523
+p4980
 aS'1995'
-p4524
+p4981
 aS'Hooker'
-p4525
+p4982
 aS'1'
 aS'1'
 aS'0'
@@ -11677,20 +12684,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p4526
+p4983
 aVSouth Africa
-p4527
+p4984
 aVWestern Cape
-p4528
+p4985
 aVCity of Cape Town
-p4529
-aa(lp4530
+p4986
+aVCape Town
+p4987
+aa(lp4988
 S'Garry Pagel'
-p4531
+p4989
 aS'1995'
-p4532
+p4990
 aS'Prop'
-p4533
+p4991
 aS'5'
 aS'5'
 aS'0'
@@ -11698,20 +12707,22 @@ aS'0'
 aS'0'
 aS'0'
 aS"King William's Town"
-p4534
+p4992
 aVSouth Africa
-p4535
+p4993
 aVEastern Cape
-p4536
+p4994
 aVBuffalo City Metropolitan Municipality
-p4537
-aa(lp4538
+p4995
+aVKing William's Town
+p4996
+aa(lp4997
 S'Robbie Brink'
-p4539
+p4998
 aS'1995'
-p4540
+p4999
 aS'Flanker'
-p4541
+p5000
 aS'2'
 aS'2'
 aS'0'
@@ -11719,91 +12730,99 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p4542
+p5001
 aVSouth Africa
-p4543
+p5002
 aVGauteng
-p4544
+p5003
 aVCity of Tshwane Metropolitan Municipality
-p4545
-aa(lp4546
+p5004
+aVPretoria
+p5005
+aa(lp5006
 S'Marius Hurter'
-p4547
+p5007
 aS'1995'
-p4548
+p5008
 aS'Prop'
-p4549
+p5009
 aS'13'
-p4550
+p5010
 aS'6'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'Potchefstroom'
-p4551
+p5011
 aVSouth Africa
-p4552
+p5012
 aVNorth West
-p4553
+p5013
 aVDr Kenneth Kaunda District Municipality
-p4554
-aa(lp4555
+p5014
+aVPotchefstroom
+p5015
+aa(lp5016
 S'Krynauw Otto'
-p4556
+p5017
 aS'1995'
-p4557
+p5018
 aS'Lock'
-p4558
+p5019
 aS'38'
-p4559
+p5020
 aS'28'
-p4560
+p5021
 aS'10'
-p4561
+p5022
 aS'0'
 aS'1'
 aS'5'
 aS'Belfast'
-p4562
+p5023
 aVUnited Kingdom
-p4563
+p5024
 aVNorthern Ireland
-p4564
+p5025
 aVCounty Antrim
-p4565
-aa(lp4566
+p5026
+aVBelfast
+p5027
+aa(lp5028
 S'Gary Teichmann'
-p4567
+p5029
 aS'1995'
-p4568
+p5030
 aS'No. 8'
-p4569
+p5031
 aS'42'
-p4570
+p5032
 aS'29'
-p4571
+p5033
 aS'13'
-p4572
+p5034
 aS'0'
 aS'6'
 aS'30'
-p4573
+p5035
 aS'Rhodesia'
-p4574
+p5036
 aVUnited Kingdom
-p4575
+p5037
 aVEngland
-p4576
+p5038
 aVEast Midlands
-p4577
-aa(lp4578
+p5039
+aVNottinghamshire
+p5040
+aa(lp5041
 S'Toks van der Linde'
-p4579
+p5042
 aS'1995'
-p4580
+p5043
 aS'Prop'
-p4581
+p5044
 aS'7'
 aS'6'
 aS'1'
@@ -11811,134 +12830,146 @@ aS'0'
 aS'0'
 aS'0'
 aS'Senekal'
-p4582
+p5045
 aVSouth Africa
-p4583
+p5046
 aVFree State
-p4584
+p5047
 aVThabo Mofutsanyana District Municipality
-p4585
-aa(lp4586
+p5048
+aVSenekal
+p5049
+aa(lp5050
 S'Johan Ackermann'
-p4587
+p5051
 aS'1996'
-p4588
+p5052
 aS'Lock'
-p4589
+p5053
 aS'13'
-p4590
+p5054
 aS'7'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Benoni'
-p4591
+p5055
 aVSouth Africa
-p4592
+p5056
 aVGauteng
-p4593
+p5057
 aVEkurhuleni Metropolitan Municipality
-p4594
-aa(lp4595
+p5058
+aVBenoni
+p5059
+aa(lp5060
 S'Justin Swart'
-p4596
+p5061
 aS'1996'
-p4597
+p5062
 aS'Wing'
-p4598
+p5063
 aS'10'
-p4599
+p5064
 aS'6'
 aS'4'
 aS'0'
 aS'1'
 aS'5'
 aS'Stellenbosch'
-p4600
+p5065
 aVSouth Africa
-p4601
+p5066
 aVWestern Cape
-p4602
+p5067
 aVCape Winelands District Municipality
-p4603
-aa(lp4604
+p5068
+aVStellenbosch
+p5069
+aa(lp5070
 S'Danie van Schalkwyk'
-p4605
+p5071
 aS'1996'
-p4606
+p5072
 aS'Centre'
-p4607
+p5073
 aS'8'
 aS'3'
 aS'5'
 aS'0'
 aS'2'
 aS'10'
-p4608
+p5074
 aS'Boksburg'
-p4609
+p5075
 aVSouth Africa
-p4610
+p5076
 aVGauteng
-p4611
+p5077
 aVEkurhuleni Metropolitan Municipality
-p4612
-aa(lp4613
+p5078
+aVBoksburg
+p5079
+aa(lp5080
 S'Dawie Theron'
-p4614
+p5081
 aS'1996'
-p4615
+p5082
 aS'Prop'
-p4616
+p5083
 aS'13'
-p4617
+p5084
 aS'8'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Bloemfontein'
-p4618
+p5085
 aVSouth Africa
-p4619
+p5086
 aVFree State
-p4620
+p5087
 aVMangaung Metropolitan Municipality
-p4621
-aa(lp4622
+p5088
+aVBloemfontein
+p5089
+aa(lp5090
 S'Andre Snyman'
-p4623
+p5091
 aS'1996'
-p4624
+p5092
 aS'Centre'
-p4625
+p5093
 aS'38'
-p4626
+p5094
 aS'26'
-p4627
+p5095
 aS'12'
-p4628
+p5096
 aS'0'
 aS'10'
-p4629
+p5097
 aS'50'
-p4630
+p5098
 aS'Natal'
-p4631
+p5099
 aVBrasil
-p4632
+p5100
 aVRegião Nordeste
-p4633
+p5101
 aVRN
-p4634
-aa(lp4635
+p5102
+aVMesorregião do Leste Potiguar
+p5103
+aa(lp5104
 S'Henry Tromp'
-p4636
+p5105
 aS'1996'
-p4637
+p5106
 aS'Hooker'
-p4638
+p5107
 aS'4'
 aS'2'
 aS'2'
@@ -11946,44 +12977,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'South-West Africa'
-p4639
+p5108
 aVBurkina Faso
-p4640
+p5109
 aVSud-Ouest
-p4641
-ag214
-aa(lp4642
+p5110
+ag82
+ag82
+aa(lp5111
 S'Andre Venter'
-p4643
+p5112
 aS'1996'
-p4644
+p5113
 aS'Flanker'
-p4645
+p5114
 aS'66'
-p4646
+p5115
 aS'41'
-p4647
+p5116
 aS'24'
-p4648
+p5117
 aS'1'
 aS'9'
 aS'45'
-p4649
+p5118
 aS'Vereeniging'
-p4650
+p5119
 aVSouth Africa
-p4651
+p5120
 aVGauteng
-p4652
+p5121
 aVSedibeng District Municipality
-p4653
-aa(lp4654
+p5122
+aVVereeniging
+p5123
+aa(lp5124
 S'Vlok Cilliers'
-p4655
+p5125
 aS'1996'
-p4656
+p5126
 aS'Fly-half'
-p4657
+p5127
 aS'1'
 aS'0'
 aS'1'
@@ -11991,20 +13025,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Williston'
-p4658
+p5128
 aVUnited States of America
-p4659
+p5129
 aVNorth Dakota
-p4660
+p5130
 aVWilliams County
-p4661
-aa(lp4662
+p5131
+aVWilliston
+p5132
+aa(lp5133
 S'Wayne Fyvie'
-p4663
+p5134
 aS'1996'
-p4664
+p5135
 aS'Flanker'
-p4665
+p5136
 aS'3'
 aS'2'
 aS'1'
@@ -12012,211 +13048,228 @@ aS'0'
 aS'0'
 aS'0'
 aS'Harrismith'
-p4666
+p5137
 aVSouth Africa
-p4667
+p5138
 aV9880
-p4668
+p5139
 aVFree State
-p4669
-aa(lp4670
+p5140
+aVThabo Mofutsanyana District Municipality
+p5141
+aa(lp5142
 S'Adrian Garvey'
-p4671
+p5143
 aS'1990'
-p4672
+p5144
 aS'Prop'
-p4673
+p5145
 aS'38'
-p4674
+p5146
 aS'28'
-p4675
+p5147
 aS'10'
-p4676
+p5148
 aS'0'
 aS'6'
 aS'28'
-p4677
+p5149
 aS'Rhodesia'
-p4678
+p5150
 aVUnited Kingdom
-p4679
+p5151
 aVEngland
-p4680
+p5152
 aVEast Midlands
-p4681
-aa(lp4682
+p5153
+aVNottinghamshire
+p5154
+aa(lp5155
 S'Edrich Lubbe'
-p4683
+p5156
 aS'1997'
-p4684
+p5157
 aS'Centre'
-p4685
+p5158
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'17'
-p4686
+p5159
 aS'Caledon'
-p4687
+p5160
 aVCanada
-p4688
+p5161
 aVOntario
-p4689
+p5162
 aVPeel Region
-p4690
-aa(lp4691
+p5163
+aVCaledon
+p5164
+aa(lp5165
 S'Russell Bennett'
-p4692
+p5166
 aS'1997'
-p4693
+p5167
 aS'Fullback'
-p4694
+p5168
 aS'6'
 aS'2'
 aS'4'
 aS'0'
 aS'2'
 aS'10'
-p4695
+p5169
 aS'Adelaide'
-p4696
+p5170
 aVAustralia
-p4697
+p5171
 aV5000
-p4698
+p5172
 aVSouth Australia
-p4699
-aa(lp4700
+p5173
+aVCity of Adelaide
+p5174
+aa(lp5175
 S'Percy Montgomery'
-p4701
+p5176
 aS'1997'
-p4702
+p5177
 aS'Fullback'
-p4703
+p5178
 aS'102'
-p4704
+p5179
 aS'67'
-p4705
+p5180
 aS'34'
-p4706
+p5181
 aS'1'
 aS'25'
-p4707
+p5182
 aS'893'
-p4708
+p5183
 aS'South-West Africa'
-p4709
+p5184
 aVBurkina Faso
-p4710
+p5185
 aVSud-Ouest
-p4711
-ag214
-aa(lp4712
+p5186
+ag82
+ag82
+aa(lp5187
 S'Pieter Rossouw'
-p4713
+p5188
 aS'1997'
-p4714
+p5189
 aS'Wing'
-p4715
+p5190
 aS'43'
-p4716
+p5191
 aS'30'
-p4717
+p5192
 aS'13'
-p4718
+p5193
 aS'0'
 aS'21'
-p4719
+p5194
 aS'105'
-p4720
+p5195
 aS'Swellendam'
-p4721
+p5196
 aVSouth Africa
-p4722
+p5197
 aVWestern Cape
-p4723
+p5198
 aVOverberg District Municipality
-p4724
-aa(lp4725
+p5199
+aVSwellendam
+p5200
+aa(lp5201
 S'Jannie de Beer'
-p4726
+p5202
 aS'1997'
-p4727
+p5203
 aS'Fly-half'
-p4728
+p5204
 aS'13'
-p4729
+p5205
 aS'9'
 aS'4'
 aS'0'
 aS'2'
 aS'181'
-p4730
+p5206
 aS'Welkom'
-p4731
+p5207
 aVSouth Africa
-p4732
+p5208
 aVFree State
-p4733
+p5209
 aVLejweleputswa District Municipality
-p4734
-aa(lp4735
+p5210
+aVWelkom
+p5211
+aa(lp5212
 S'Johan Erasmus'
-p4736
+p5213
 aS'1997'
-p4737
+p5214
 aS'Flanker'
-p4738
+p5215
 aS'36'
-p4739
+p5216
 aS'27'
-p4740
+p5217
 aS'9'
 aS'0'
 aS'7'
 aS'35'
-p4741
+p5218
 aS'Despatch'
-p4742
+p5219
 aVSouth Africa
-p4743
+p5220
 aVEastern Cape
-p4744
+p5221
 aVNelson Mandela Bay Metropolitan Municipality
-p4745
-aa(lp4746
+p5222
+aVDespatch
+p5223
+aa(lp5224
 S'Werner Swanepoel'
-p4747
+p5225
 aS'1997'
-p4748
+p5226
 aS'Scrum-half'
-p4749
+p5227
 aS'20'
-p4750
+p5228
 aS'13'
-p4751
+p5229
 aS'7'
 aS'0'
 aS'6'
 aS'30'
-p4752
+p5230
 aS'Bloemfontein'
-p4753
+p5231
 aVSouth Africa
-p4754
+p5232
 aVFree State
-p4755
+p5233
 aVMangaung Metropolitan Municipality
-p4756
-aa(lp4757
+p5234
+aVBloemfontein
+p5235
+aa(lp5236
 S'Warren Brosnihan'
-p4758
+p5237
 aS'1997'
-p4759
+p5238
 aS'Flanker'
-p4760
+p5239
 aS'6'
 aS'2'
 aS'4'
@@ -12224,20 +13277,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Paarl'
-p4761
+p5240
 aVSouth Africa
-p4762
+p5241
 aVWestern Cape
-p4763
+p5242
 aVCape Winelands District Municipality
-p4764
-aa(lp4765
+p5243
+aVPaarl
+p5244
+aa(lp5245
 S'Schutte Bekker'
-p4766
+p5246
 aS'1997'
-p4767
+p5247
 aS'Flanker'
-p4768
+p5248
 aS'1'
 aS'1'
 aS'0'
@@ -12245,20 +13300,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nelspruit'
-p4769
+p5249
 aVSouth Africa
-p4770
+p5250
 aVMpumalanga
-p4771
+p5251
 aVEhlanzeni District Municipality
-p4772
-aa(lp4773
+p5252
+aVNelspruit
+p5253
+aa(lp5254
 S'Braam Els'
-p4774
+p5255
 aS'1997'
-p4775
+p5256
 aS'Flanker'
-p4776
+p5257
 aS'1'
 aS'1'
 aS'0'
@@ -12266,42 +13323,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kroonstad'
-p4777
+p5258
 aVSouth Africa
-p4778
+p5259
 aVFree State
-p4779
+p5260
 aVFezile Dabi District Municipality
-p4780
-aa(lp4781
+p5261
+aVKroonstad
+p5262
+aa(lp5263
 S'Dick Muir'
-p4782
+p5264
 aS'1997'
-p4783
+p5265
 aS'Centre'
-p4784
+p5266
 aS'5'
 aS'5'
 aS'0'
 aS'0'
 aS'2'
 aS'10'
-p4785
+p5267
 aS'Kokstad'
-p4786
+p5268
 aVSouth Africa
-p4787
+p5269
 aVKwaZulu-Natal
-p4788
+p5270
 aVSisonke District Municipality
-p4789
-aa(lp4790
+p5271
+aVKokstad
+p5272
+aa(lp5273
 S'Andrew Aitken'
-p4791
+p5274
 aS'1997'
-p4792
+p5275
 aS'Flanker'
-p4793
+p5276
 aS'7'
 aS'7'
 aS'0'
@@ -12309,141 +13370,152 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p4794
+p5277
 aVSouth Africa
-p4795
+p5278
 aVKwaZulu-Natal
-p4796
+p5279
 aVeThekwini Metropolitan Municipality
-p4797
-aa(lp4798
+p5280
+aVDurban
+p5281
+aa(lp5282
 S'Bobby Skinstad'
-p4799
+p5283
 aS'1997'
-p4800
+p5284
 aS'Flanker'
-p4801
+p5285
 aS'42'
-p4802
+p5286
 aS'29'
-p4803
+p5287
 aS'12'
-p4804
+p5288
 aS'1'
 aS'11'
-p4805
+p5289
 aS'55'
-p4806
+p5290
 aS'Rhodesia'
-p4807
+p5291
 aVUnited Kingdom
-p4808
+p5292
 aVEngland
-p4809
+p5293
 aVEast Midlands
-p4810
-aa(lp4811
+p5294
+aVNottinghamshire
+p5295
+aa(lp5296
 S'Willie Meyer'
-p4812
+p5297
 aS'1997'
-p4813
+p5298
 aS'Prop'
-p4814
+p5299
 aS'26'
-p4815
+p5300
 aS'16'
-p4816
+p5301
 aS'10'
-p4817
+p5302
 aS'0'
 aS'1'
 aS'5'
 aS'Port Elizabeth'
-p4818
+p5303
 aVSouth Africa
-p4819
+p5304
 aVEastern Cape
-p4820
+p5305
 aVNelson Mandela Bay Metropolitan Municipality
-p4821
-aa(lp4822
+p5306
+aVPort Elizabeth
+p5307
+aa(lp5308
 S'Franco Smith'
-p4823
+p5309
 aS'1997'
-p4824
+p5310
 aS'Fly-half'
-p4825
+p5311
 aS'9'
 aS'8'
 aS'1'
 aS'0'
 aS'2'
 aS'23'
-p4826
+p5312
 aS'Lichtenburg'
-p4827
+p5313
 aVDeutschland
-p4828
+p5314
 aVBerlin
-p4829
+p5315
 aVLichtenberg
-p4830
-aa(lp4831
+p5316
+ag82
+aa(lp5317
 S'Gaffie du Toit'
-p4832
+p5318
 aS'1998'
-p4833
+p5319
 aS'Fly-half, Fullback'
-p4834
+p5320
 aS'14'
-p4835
+p5321
 aS'9'
 aS'5'
 aS'0'
 aS'5'
 aS'108'
-p4836
+p5322
 aS'Cape Town'
-p4837
+p5323
 aVSouth Africa
-p4838
+p5324
 aVWestern Cape
-p4839
+p5325
 aVCity of Cape Town
-p4840
-aa(lp4841
+p5326
+aVCape Town
+p5327
+aa(lp5328
 S'Stefan Terblanche'
-p4842
+p5329
 aS'1998'
-p4843
+p5330
 aS'Centre'
-p4844
+p5331
 aS'37'
-p4845
+p5332
 aS'26'
-p4846
+p5333
 aS'11'
-p4847
+p5334
 aS'0'
 aS'19'
-p4848
+p5335
 aS'95'
-p4849
+p5336
 aS'Mossel Bay'
-p4850
+p5337
 aVSouth Africa
-p4851
+p5338
 aV6506
-p4852
+p5339
 aVWestern Cape
-p4853
-aa(lp4854
+p5340
+aVEden District Municipality
+p5341
+aa(lp5342
 S'McNeil Hendricks'
-p4855
+p5343
 aS'1998'
-p4856
+p5344
 aS'Wing'
-p4857
+p5345
 aS'2'
 aS'2'
 aS'0'
@@ -12451,1278 +13523,159 @@ aS'0'
 aS'1'
 aS'5'
 aS'Malmesbury'
-p4858
+p5346
 aVUnited Kingdom
-p4859
+p5347
 aVSN16 9
-p4860
+p5348
 aVEngland
-p4861
-aa(lp4862
+p5349
+aVSouth West England
+p5350
+aa(lp5351
 S'Robbie Kempson'
-p4863
+p5352
 aS'1998'
-p4864
+p5353
 aS'Prop'
-p4865
+p5354
 aS'37'
-p4866
+p5355
 aS'23'
-p4867
+p5356
 aS'13'
-p4868
+p5357
 aS'1'
 aS'1'
 aS'5'
 aS'Queenstown'
-p4869
+p5358
 aVNew Zealand/Aotearoa
-p4870
+p5359
 aVOtago
-p4871
+p5360
 aVQueenstown-Lakes District
-p4872
-aa(lp4873
+p5361
+aVQueenstown
+p5362
+aa(lp5363
 S'Christian Stewart'
-p4874
+p5364
 aS'1991'
-p4875
+p5365
 aS'Centre'
-p4876
+p5366
 aS'17'
-p4877
+p5367
 aS'8'
 aS'9'
 aS'0'
 aS'2'
 aS'10'
-p4878
+p5368
 aS'Toronto'
-p4879
+p5369
 aVCanada
-p4880
+p5370
 aVOntario
-p4881
+p5371
 aVToronto
-p4882
-aa(lp4883
+p5372
+ag82
+aa(lp5373
 S'Selborne Boome'
-p4884
+p5374
 aS'1999'
-p4885
+p5375
 aS'Lock'
-p4886
+p5376
 aS'20'
-p4887
+p5377
 aS'11'
-p4888
+p5378
 aS'9'
 aS'0'
 aS'1'
 aS'5'
 aS'Somerset West'
-p4889
+p5379
 aVSouth Africa
-p4890
+p5380
 aVWestern Cape
-p4891
+p5381
 aVCity of Cape Town
-p4892
-aa(lp4893
+p5382
+aVSomerset West
+p5383
+aa(lp5384
 S'Robbie Fleck'
-p4894
+p5385
 aS'1999'
-p4895
+p5386
 aS'Centre'
-p4896
+p5387
 aS'31'
-p4897
+p5388
 aS'16'
-p4898
+p5389
 aS'14'
-p4899
+p5390
 aS'1'
 aS'10'
-p4900
+p5391
 aS'50'
-p4901
+p5392
 aS'Cape Town'
-p4902
+p5393
 aVSouth Africa
-p4903
+p5394
 aVWestern Cape
-p4904
+p5395
 aVCity of Cape Town
-p4905
-aa(lp4906
+p5396
+aVCape Town
+p5397
+aa(lp5398
 S'Breyton Paulse'
-p4907
+p5399
 aS'1999'
-p4908
+p5400
 aS'Wing'
-p4909
+p5401
 aS'64'
-p4910
+p5402
 aS'36'
-p4911
+p5403
 aS'27'
-p4912
+p5404
 aS'1'
 aS'26'
-p4913
+p5405
 aS'130'
-p4914
+p5406
 aS'Koue Bokkeveld'
-p4915
+p5407
 aS'g'
 aS'n'
 aS'i'
-aa(lp4916
+aS's'
+aa(lp5408
 S'Cobus Visagie'
-p4917
-aS'1999'
-p4918
-aS'Prop'
-p4919
-aS'29'
-p4920
-aS'14'
-p4921
-aS'14'
-p4922
-aS'1'
-aS'0'
-aS'0'
-aS'Stellenbosch'
-p4923
-aVSouth Africa
-p4924
-aVWestern Cape
-p4925
-aVCape Winelands District Municipality
-p4926
-aa(lp4927
-S'Charl Marais'
-p4928
-aS'1999'
-p4929
-aS'Hooker'
-p4930
-aS'11'
-p4931
-aS'6'
-aS'5'
-aS'0'
-aS'1'
-aS'5'
-aS'Bothaville'
-p4932
-aVSouth Africa
-p4933
-aVFree State
-p4934
-aVLejweleputswa District Municipality
-p4935
-aa(lp4936
-S'Albert van den Berg'
-p4937
-aS'1999'
-p4938
-aS'Lock'
-p4939
-aS'51'
-p4940
-aS'29'
-p4941
-aS'20'
-p4942
-aS'2'
-aS'4'
-aS'20'
-p4943
-aS'Hoopstad'
-p4944
-aVSouth Africa
-p4945
-aVFree State
-p4946
-aVLejweleputswa District Municipality
-p4947
-aa(lp4948
-S'Dave von Hoesslin'
-p4949
-aS'1999'
-p4950
-aS'Scrum-half'
-p4951
-aS'5'
-aS'2'
-aS'3'
-aS'0'
-aS'2'
-aS'10'
-p4952
-aS'Stellenbosch'
-p4953
-aVSouth Africa
-p4954
-aVWestern Cape
-p4955
-aVCape Winelands District Municipality
-p4956
-aa(lp4957
-S'Andre Vos'
-p4958
-aS'1999'
-p4959
-aS'Back-row'
-p4960
-aS'33'
-p4961
-aS'18'
-p4962
-aS'14'
-p4963
-aS'1'
-aS'5'
-aS'25'
-p4964
-aS'East London'
-p4965
-aVSouth Africa
-p4966
-aVEastern Cape
-p4967
-aVBuffalo City Metropolitan Municipality
-p4968
-aa(lp4969
-S'Corne Krige'
-p4970
-aS'1999'
-p4971
-aS'Flanker'
-p4972
-aS'39'
-p4973
-aS'18'
-p4974
-aS'21'
-p4975
-aS'0'
-aS'2'
-aS'10'
-p4976
-aS'Lusaka'
-p4977
-aVZambia
-p4978
-aVLusaka Province
-p4979
-aVLusaka
-p4980
-aa(lp4981
-S'Deon Kayser'
-p4982
-aS'1999'
-p4983
-aS'Wing'
-p4984
-aS'13'
-p4985
-aS'7'
-aS'5'
-aS'1'
-aS'5'
-aS'25'
-p4986
-aS'Uitenhage'
-p4987
-aVSouth Africa
-p4988
-aVEastern Cape
-p4989
-aVNelson Mandela Bay Metropolitan Municipality
-p4990
-aa(lp4991
-S'Braam van Straaten'
-p4992
-aS'1999'
-p4993
-aS'Centre'
-p4994
-aS'21'
-p4995
-aS'9'
-aS'11'
-p4996
-aS'1'
-aS'2'
-aS'221'
-p4997
-aS'Pretoria'
-p4998
-aVSouth Africa
-p4999
-aVGauteng
-p5000
-aVCity of Tshwane Metropolitan Municipality
-p5001
-aa(lp5002
-S'Anton Leonard'
-p5003
-aS'1999'
-p5004
-aS'No. 8'
-p5005
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'1'
-aS'5'
-aS'Durban'
-p5006
-aVSouth Africa
-p5007
-aVKwaZulu-Natal
-p5008
-aVeThekwini Metropolitan Municipality
-p5009
-aa(lp5010
-S'Wayne Julies'
-p5011
-aS'1999'
-p5012
-aS'Centre'
-p5013
-aS'11'
-p5014
-aS'10'
-p5015
-aS'1'
-aS'0'
-aS'2'
-aS'10'
-p5016
-aS'Paarl'
-p5017
-aVSouth Africa
-p5018
-aVWestern Cape
-p5019
-aVCape Winelands District Municipality
-p5020
-aa(lp5021
-S'Kaya Malotana'
-p5022
-aS'1999'
-p5023
-aS'Centre'
-p5024
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Lady Frere'
-p5025
-aVSouth Africa
-p5026
-aVEastern Cape
-p5027
-aVChris Hani District Municipality
-p5028
-aa(lp5029
-S'De Wet Barry'
-p5030
-aS'2000'
-p5031
-aS'Centre'
-p5032
-aS'39'
-p5033
-aS'18'
-p5034
-aS'20'
-p5035
-aS'1'
-aS'3'
-aS'15'
-p5036
-aS'Ceres'
-p5037
-aVItalia
-p5038
-aVPIE
-p5039
-aVTO
-p5040
-aa(lp5041
-S'Thinus Delport'
-p5042
-aS'2000'
-p5043
-aS'Fullback'
-p5044
-aS'18'
-p5045
-aS'11'
-p5046
-aS'7'
-aS'0'
-aS'3'
-aS'15'
-p5047
-aS'Port Elizabeth'
-p5048
-aVSouth Africa
-p5049
-aVEastern Cape
-p5050
-aVNelson Mandela Bay Metropolitan Municipality
-p5051
-aa(lp5052
-S'John Smit'
-p5053
-aS'2000'
-p5054
-aS'Hooker, Prop'
-p5055
-aS'111'
-p5056
-aS'69'
-p5057
-aS'40'
-p5058
-aS'2'
-aS'8'
-aS'40'
-p5059
-aS'Pietersburg'
-p5060
-aVSouth Africa
-p5061
-aVLimpopo
-p5062
-aVCapricorn District Municipality
-p5063
-aa(lp5064
-S'Louis Koen'
-p5065
-aS'2000'
-p5066
-aS'Fly-half'
-p5067
-aS'15'
-p5068
-aS'8'
-aS'7'
-aS'0'
-aS'0'
-aS'145'
-p5069
-aS'Cape Town'
-p5070
-aVSouth Africa
-p5071
-aVWestern Cape
-p5072
-aVCity of Cape Town
-p5073
-aa(lp5074
-S'Grant Esterhuizen'
-p5075
-aS'2000'
-p5076
-aS'Wing, Centre'
-p5077
-aS'7'
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Alexander Bay'
-p5078
-aVSouth Africa
-p5079
-aVNorthern Cape
-p5080
-aVNamakwa District Municipality
-p5081
-aa(lp5082
-S'Jannes Labuschagne'
-p5083
-aS'2000'
-p5084
-aS'Lock'
-p5085
-aS'11'
-p5086
-aS'4'
-aS'7'
-aS'0'
-aS'0'
-aS'0'
-aS'Bloemhof'
-p5087
-aVNederland
-p5088
-aVZuid-Holland
-p5089
-aVMRDH
-p5090
-aa(lp5091
-S'Jaco van der Westhuyzen'
-p5092
-aS'2000'
-p5093
-aS'Utility back'
-p5094
-aS'32'
-p5095
-aS'21'
-p5096
-aS'10'
-p5097
-aS'1'
-aS'5'
-aS'51'
-p5098
-aS'Nelspruit'
-p5099
-aVSouth Africa
-p5100
-aVMpumalanga
-p5101
-aVEhlanzeni District Municipality
-p5102
-aa(lp5103
-S'AJ Venter'
-p5104
-aS'2000'
-p5105
-aS'No. 8, Lock'
-p5106
-aS'25'
-p5107
-aS'13'
-p5108
-aS'12'
-p5109
-aS'0'
-aS'0'
-aS'0'
-aS'Zastron'
-p5110
-aVSouth Africa
-p5111
-aVFree State
-p5112
-aVXhariep District Municipality
-p5113
-aa(lp5114
-S'Dan van Zyl'
-p5115
-aS'2000'
-p5116
-aS'Fly-half, Scrum-half'
-p5117
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Pretoria'
-p5118
-aVSouth Africa
-p5119
-aVGauteng
-p5120
-aVCity of Tshwane Metropolitan Municipality
-p5121
-aa(lp5122
-S'Etienne Fynn'
-p5123
-aS'2001'
-p5124
-aS'Prop'
-p5125
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Durban'
-p5126
-aVSouth Africa
-p5127
-aVKwaZulu-Natal
-p5128
-aVeThekwini Metropolitan Municipality
-p5129
-aa(lp5130
-S'Dean Hall'
-p5131
-aS'2001'
-p5132
-aS'Wing'
-p5133
-aS'13'
-p5134
-aS'6'
-aS'6'
-aS'1'
-aS'4'
-aS'20'
-p5135
-aS'Springs'
-p5136
-aVUnited States of America
-p5137
-aVNew York
-p5138
-aVSuffolk County
-p5139
-aa(lp5140
-S'Butch James'
-p5141
-aS'2001'
-p5142
-aS'Fly-half'
-p5143
-aS'42'
-p5144
-aS'23'
-p5145
-aS'18'
-p5146
-aS'1'
-aS'3'
-aS'154'
-p5147
-aS'Johannesburg'
-p5148
-aVSouth Africa
-p5149
-aV2001
-p5150
-aVGauteng
-p5151
-aa(lp5152
-S'Neil de Kock'
-p5153
-aS'2001'
-p5154
-aS'Scrum-half'
-p5155
-aS'10'
-p5156
-aS'6'
-aS'4'
-aS'0'
-aS'2'
-aS'10'
-p5157
-aS'Cape Town'
-p5158
-aVSouth Africa
-p5159
-aVWestern Cape
-p5160
-aVCity of Cape Town
-p5161
-aa(lp5162
-S'Conrad Jantjes'
-p5163
-aS'2001'
-p5164
-aS'Fullback'
-p5165
-aS'24'
-p5166
-aS'16'
-p5167
-aS'7'
-aS'1'
-aS'4'
-aS'22'
-p5168
-aS'Boksburg'
-p5169
-aVSouth Africa
-p5170
-aVGauteng
-p5171
-aVEkurhuleni Metropolitan Municipality
-p5172
-aa(lp5173
-S'Victor Matfield'
-p5174
-aS'2001'
-p5175
-aS'Lock'
-p5176
-aS'121'
-p5177
-aS'76'
-p5178
-aS'43'
-p5179
-aS'2'
-aS'7'
-aS'35'
-p5180
-aS'Pietersburg'
-p5181
-aVSouth Africa
-p5182
-aVLimpopo
-p5183
-aVCapricorn District Municipality
-p5184
-aa(lp5185
-S'Lukas van Biljon'
-p5186
-aS'2001'
-p5187
-aS'Hooker'
-p5188
-aS'13'
-p5189
-aS'4'
-aS'8'
-aS'1'
-aS'1'
-aS'5'
-aS'Bloemfontein'
-p5190
-aVSouth Africa
-p5191
-aVFree State
-p5192
-aVMangaung Metropolitan Municipality
-p5193
-aa(lp5194
-S'Marius Joubert'
-p5195
-aS'2001'
-p5196
-aS'Centre'
-p5197
-aS'30'
-p5198
-aS'19'
-p5199
-aS'10'
-p5200
-aS'1'
-aS'9'
-aS'45'
-p5201
-aS'Paarl'
-p5202
-aVSouth Africa
-p5203
-aVWestern Cape
-p5204
-aVCape Winelands District Municipality
-p5205
-aa(lp5206
-S'Joe van Niekerk'
-p5207
-aS'2001'
-p5208
-aS'Back-row'
-p5209
-aS'52'
-p5210
-aS'28'
-p5211
-aS'24'
-p5212
-aS'0'
-aS'10'
-p5213
-aS'50'
-p5214
-aS'Port Elizabeth'
-p5215
-aVSouth Africa
-p5216
-aVEastern Cape
-p5217
-aVNelson Mandela Bay Metropolitan Municipality
-p5218
-aa(lp5219
-S'Trevor Halstead'
-p5220
-aS'2001'
-p5221
-aS'Centre'
-p5222
-aS'6'
-aS'4'
-aS'2'
-aS'0'
-aS'3'
-aS'15'
-p5223
-aS'Margate'
-p5224
-aVUnited Kingdom
-p5225
-aVEngland
-p5226
-aVSouth East
-p5227
-aa(lp5228
-S'Deon de Kock'
-p5229
-aS'2001'
-p5230
-aS'Scrum-half'
-p5231
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Empangeni'
-p5232
-aVSouth Africa
-p5233
-aVKwaZulu-Natal
-p5234
-aVuThungulu District Municipality
-p5235
-aa(lp5236
-S'Adrian Jacobs'
-p5237
-aS'2001'
-p5238
-aS'Centre'
-p5239
-aS'34'
-p5240
-aS'22'
-p5241
-aS'12'
-p5242
-aS'0'
-aS'7'
-aS'35'
-p5243
-aS'Kraaifontein'
-p5244
-aVSouth Africa
-p5245
-aVWestern Cape
-p5246
-aVCity of Cape Town
-p5247
-aa(lp5248
-S'Lawrence Sephaka'
-p5249
-aS'2001'
-p5250
-aS'Prop'
-p5251
-aS'24'
-p5252
-aS'14'
-p5253
-aS'10'
-p5254
-aS'0'
-aS'0'
-aS'0'
-aS'Johannesburg'
-p5255
-aVSouth Africa
-p5256
-aV2001
-p5257
-aVGauteng
-p5258
-aa(lp5259
-S'Warren Britz'
-p5260
-aS'2002'
-p5261
-aS'Flanker'
-p5262
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Durban'
-p5263
-aVSouth Africa
-p5264
-aVKwaZulu-Natal
-p5265
-aVeThekwini Metropolitan Municipality
-p5266
-aa(lp5267
-S'Bolla Conradie'
-p5268
-aS'2002'
-p5269
-aS'Scrum-half'
-p5270
-aS'18'
-p5271
-aS'12'
-p5272
-aS'6'
-aS'0'
-aS'2'
-aS'13'
-p5273
-aS'Cape Town'
-p5274
-aVSouth Africa
-p5275
-aVWestern Cape
-p5276
-aVCity of Cape Town
-p5277
-aa(lp5278
-S'Daan Human'
-p5279
-aS'2002'
-p5280
-aS'Prop'
-p5281
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Bloemfontein'
-p5282
-aVSouth Africa
-p5283
-aVFree State
-p5284
-aVMangaung Metropolitan Municipality
-p5285
-aa(lp5286
-S'Ricardo Loubscher'
-p5287
-aS'2002'
-p5288
-aS'Fullback'
-p5289
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Colesberg'
-p5290
-aVSouth Africa
-p5291
-aVNorthern Cape
-p5292
-aVPixley ka Seme District Municipality
-p5293
-aa(lp5294
-S'Andre Pretorius'
-p5295
-aS'2002'
-p5296
-aS'Fly-half'
-p5297
-aS'31'
-p5298
-aS'19'
-p5299
-aS'12'
-p5300
-aS'0'
-aS'2'
-aS'171'
-p5301
-aS'Johannesburg'
-p5302
-aVSouth Africa
-p5303
-aV2001
-p5304
-aVGauteng
-p5305
-aa(lp5306
-S'Faan Rautenbach'
-p5307
-aS'2002'
-p5308
-aS'Prop'
-p5309
-aS'14'
-p5310
-aS'9'
-aS'5'
-aS'0'
-aS'1'
-aS'5'
-aS'Bethlehem'
-p5311
-aVUnited States of America
-p5312
-aVpenna
-p5313
-aVNorthampton County
-p5314
-aa(lp5315
-S'Brent Russell'
-p5316
-aS'2002'
-p5317
-aS'Wing'
-p5318
-aS'23'
-p5319
-aS'14'
-p5320
-aS'9'
-aS'0'
-aS'8'
-aS'40'
-p5321
-aS'Port Elizabeth'
-p5322
-aVSouth Africa
-p5323
-aVEastern Cape
-p5324
-aVNelson Mandela Bay Metropolitan Municipality
-p5325
-aa(lp5326
-S'Quinton Davids'
-p5327
-aS'2002'
-p5328
-aS'Lock'
-p5329
-aS'9'
-aS'8'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Bellville'
-p5330
-aVUnited States of America
-p5331
-aVTexas
-p5332
-aVBellville
-p5333
-aa(lp5334
-S'Craig Davidson'
-p5335
-aS'2002'
-p5336
-aS'Scrum-half'
-p5337
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'2'
-aS'10'
-p5338
-aS"King William's Town"
-p5339
-aVSouth Africa
-p5340
-aVEastern Cape
-p5341
-aVBuffalo City Metropolitan Municipality
-p5342
-aa(lp5343
-S'Hottie Louw'
-p5344
-aS'2002'
-p5345
-aS'Lock'
-p5346
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Paarl'
-p5347
-aVSouth Africa
-p5348
-aVWestern Cape
-p5349
-aVCape Winelands District Municipality
-p5350
-aa(lp5351
-S'Werner Greeff'
-p5352
-aS'2002'
-p5353
-aS'Wing'
-p5354
-aS'11'
-p5355
-aS'5'
-aS'6'
-aS'0'
-aS'4'
-aS'31'
-p5356
-aS'Bellville'
-p5357
-aVUnited States of America
-p5358
-aVTexas
-p5359
-aVBellville
-p5360
-aa(lp5361
-S'Danie Coetzee'
-p5362
-aS'2002'
-p5363
-aS'Hooker'
-p5364
-aS'15'
-p5365
-aS'9'
-aS'6'
-aS'0'
-aS'1'
-aS'5'
-aS'Harrismith'
-p5366
-aVSouth Africa
-p5367
-aV9880
-p5368
-aVFree State
-p5369
-aa(lp5370
-S'Delarey du Preez'
-p5371
-aS'2002'
-p5372
-aS'Hooker'
-p5373
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'1'
-aS'5'
-aS'Queenstown'
-p5374
-aVNew Zealand/Aotearoa
-p5375
-aVOtago
-p5376
-aVQueenstown-Lakes District
-p5377
-aa(lp5378
-S'Shaun Sowerby'
-p5379
-aS'2002'
-p5380
-aS'No. 8'
-p5381
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Vereeniging'
-p5382
-aVSouth Africa
-p5383
-aVGauteng
-p5384
-aVSedibeng District Municipality
-p5385
-aa(lp5386
-S'Hendro Scholtz'
-p5387
-aS'2002'
-p5388
-aS'Back-row'
-p5389
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'1'
-aS'5'
-aS'Bethlehem'
-p5390
-aVUnited States of America
-p5391
-aVpenna
-p5392
-aVNorthampton County
-p5393
-aa(lp5394
-S'Bakkies Botha'
-p5395
-aS'2002'
-p5396
-aS'Lock'
-p5397
-aS'85'
-p5398
-aS'64'
-p5399
-aS'21'
-p5400
-aS'0'
-aS'7'
-aS'35'
-p5401
-aS'Natal'
-p5402
-aVBrasil
-p5403
-aVRegião Nordeste
-p5404
-aVRN
-p5405
-aa(lp5406
-S'Jean de Villiers'
-p5407
-aS'2002'
-p5408
-aS'Centre'
 p5409
-aS'106'
+aS'1999'
 p5410
-aS'70'
+aS'Prop'
 p5411
-aS'33'
+aS'29'
 p5412
-aS'3'
-aS'27'
+aS'14'
 p5413
-aS'135'
+aS'14'
 p5414
-aS'Paarl'
+aS'1'
+aS'0'
+aS'0'
+aS'Stellenbosch'
 p5415
 aVSouth Africa
 p5416
@@ -13730,13 +13683,1239 @@ aVWestern Cape
 p5417
 aVCape Winelands District Municipality
 p5418
-aa(lp5419
-S'Wessel Roux'
-p5420
-aS'2002'
+aVStellenbosch
+p5419
+aa(lp5420
+S'Charl Marais'
 p5421
-aS'Prop'
+aS'1999'
 p5422
+aS'Hooker'
+p5423
+aS'11'
+p5424
+aS'6'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'Bothaville'
+p5425
+aVSouth Africa
+p5426
+aVFree State
+p5427
+aVLejweleputswa District Municipality
+p5428
+aVBothaville
+p5429
+aa(lp5430
+S'Albert van den Berg'
+p5431
+aS'1999'
+p5432
+aS'Lock'
+p5433
+aS'51'
+p5434
+aS'29'
+p5435
+aS'20'
+p5436
+aS'2'
+aS'4'
+aS'20'
+p5437
+aS'Hoopstad'
+p5438
+aVSouth Africa
+p5439
+aVFree State
+p5440
+aVLejweleputswa District Municipality
+p5441
+aVHoopstad
+p5442
+aa(lp5443
+S'Dave von Hoesslin'
+p5444
+aS'1999'
+p5445
+aS'Scrum-half'
+p5446
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'2'
+aS'10'
+p5447
+aS'Stellenbosch'
+p5448
+aVSouth Africa
+p5449
+aVWestern Cape
+p5450
+aVCape Winelands District Municipality
+p5451
+aVStellenbosch
+p5452
+aa(lp5453
+S'Andre Vos'
+p5454
+aS'1999'
+p5455
+aS'Back-row'
+p5456
+aS'33'
+p5457
+aS'18'
+p5458
+aS'14'
+p5459
+aS'1'
+aS'5'
+aS'25'
+p5460
+aS'East London'
+p5461
+aVSouth Africa
+p5462
+aVEastern Cape
+p5463
+aVBuffalo City Metropolitan Municipality
+p5464
+aVEast London
+p5465
+aa(lp5466
+S'Corne Krige'
+p5467
+aS'1999'
+p5468
+aS'Flanker'
+p5469
+aS'39'
+p5470
+aS'18'
+p5471
+aS'21'
+p5472
+aS'0'
+aS'2'
+aS'10'
+p5473
+aS'Lusaka'
+p5474
+aVZambia
+p5475
+aVLusaka Province
+p5476
+aVLusaka
+p5477
+ag82
+aa(lp5478
+S'Deon Kayser'
+p5479
+aS'1999'
+p5480
+aS'Wing'
+p5481
+aS'13'
+p5482
+aS'7'
+aS'5'
+aS'1'
+aS'5'
+aS'25'
+p5483
+aS'Uitenhage'
+p5484
+aVSouth Africa
+p5485
+aVEastern Cape
+p5486
+aVNelson Mandela Bay Metropolitan Municipality
+p5487
+aVUitenhage
+p5488
+aa(lp5489
+S'Braam van Straaten'
+p5490
+aS'1999'
+p5491
+aS'Centre'
+p5492
+aS'21'
+p5493
+aS'9'
+aS'11'
+p5494
+aS'1'
+aS'2'
+aS'221'
+p5495
+aS'Pretoria'
+p5496
+aVSouth Africa
+p5497
+aVGauteng
+p5498
+aVCity of Tshwane Metropolitan Municipality
+p5499
+aVPretoria
+p5500
+aa(lp5501
+S'Anton Leonard'
+p5502
+aS'1999'
+p5503
+aS'No. 8'
+p5504
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Durban'
+p5505
+aVSouth Africa
+p5506
+aVKwaZulu-Natal
+p5507
+aVeThekwini Metropolitan Municipality
+p5508
+aVDurban
+p5509
+aa(lp5510
+S'Wayne Julies'
+p5511
+aS'1999'
+p5512
+aS'Centre'
+p5513
+aS'11'
+p5514
+aS'10'
+p5515
+aS'1'
+aS'0'
+aS'2'
+aS'10'
+p5516
+aS'Paarl'
+p5517
+aVSouth Africa
+p5518
+aVWestern Cape
+p5519
+aVCape Winelands District Municipality
+p5520
+aVPaarl
+p5521
+aa(lp5522
+S'Kaya Malotana'
+p5523
+aS'1999'
+p5524
+aS'Centre'
+p5525
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Lady Frere'
+p5526
+aVSouth Africa
+p5527
+aVEastern Cape
+p5528
+aVChris Hani District Municipality
+p5529
+aVEmalahleni Local Municipality
+p5530
+aa(lp5531
+S'De Wet Barry'
+p5532
+aS'2000'
+p5533
+aS'Centre'
+p5534
+aS'39'
+p5535
+aS'18'
+p5536
+aS'20'
+p5537
+aS'1'
+aS'3'
+aS'15'
+p5538
+aS'Ceres'
+p5539
+aVItalia
+p5540
+aVPIE
+p5541
+aVTO
+p5542
+aVCeres
+p5543
+aa(lp5544
+S'Thinus Delport'
+p5545
+aS'2000'
+p5546
+aS'Fullback'
+p5547
+aS'18'
+p5548
+aS'11'
+p5549
+aS'7'
+aS'0'
+aS'3'
+aS'15'
+p5550
+aS'Port Elizabeth'
+p5551
+aVSouth Africa
+p5552
+aVEastern Cape
+p5553
+aVNelson Mandela Bay Metropolitan Municipality
+p5554
+aVPort Elizabeth
+p5555
+aa(lp5556
+S'John Smit'
+p5557
+aS'2000'
+p5558
+aS'Hooker, Prop'
+p5559
+aS'111'
+p5560
+aS'69'
+p5561
+aS'40'
+p5562
+aS'2'
+aS'8'
+aS'40'
+p5563
+aS'Pietersburg'
+p5564
+aVSouth Africa
+p5565
+aVLimpopo
+p5566
+aVCapricorn District Municipality
+p5567
+aVPolokwane
+p5568
+aa(lp5569
+S'Louis Koen'
+p5570
+aS'2000'
+p5571
+aS'Fly-half'
+p5572
+aS'15'
+p5573
+aS'8'
+aS'7'
+aS'0'
+aS'0'
+aS'145'
+p5574
+aS'Cape Town'
+p5575
+aVSouth Africa
+p5576
+aVWestern Cape
+p5577
+aVCity of Cape Town
+p5578
+aVCape Town
+p5579
+aa(lp5580
+S'Grant Esterhuizen'
+p5581
+aS'2000'
+p5582
+aS'Wing, Centre'
+p5583
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Alexander Bay'
+p5584
+aVSouth Africa
+p5585
+aVNorthern Cape
+p5586
+aVNamakwa District Municipality
+p5587
+aVAlexander Bay
+p5588
+aa(lp5589
+S'Jannes Labuschagne'
+p5590
+aS'2000'
+p5591
+aS'Lock'
+p5592
+aS'11'
+p5593
+aS'4'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Bloemhof'
+p5594
+aVNederland
+p5595
+aVZuid-Holland
+p5596
+aVMRDH
+p5597
+aVRotterdam
+p5598
+aa(lp5599
+S'Jaco van der Westhuyzen'
+p5600
+aS'2000'
+p5601
+aS'Utility back'
+p5602
+aS'32'
+p5603
+aS'21'
+p5604
+aS'10'
+p5605
+aS'1'
+aS'5'
+aS'51'
+p5606
+aS'Nelspruit'
+p5607
+aVSouth Africa
+p5608
+aVMpumalanga
+p5609
+aVEhlanzeni District Municipality
+p5610
+aVNelspruit
+p5611
+aa(lp5612
+S'AJ Venter'
+p5613
+aS'2000'
+p5614
+aS'No. 8, Lock'
+p5615
+aS'25'
+p5616
+aS'13'
+p5617
+aS'12'
+p5618
+aS'0'
+aS'0'
+aS'0'
+aS'Zastron'
+p5619
+aVSouth Africa
+p5620
+aVFree State
+p5621
+aVXhariep District Municipality
+p5622
+aVZastron
+p5623
+aa(lp5624
+S'Dan van Zyl'
+p5625
+aS'2000'
+p5626
+aS'Fly-half, Scrum-half'
+p5627
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Pretoria'
+p5628
+aVSouth Africa
+p5629
+aVGauteng
+p5630
+aVCity of Tshwane Metropolitan Municipality
+p5631
+aVPretoria
+p5632
+aa(lp5633
+S'Etienne Fynn'
+p5634
+aS'2001'
+p5635
+aS'Prop'
+p5636
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Durban'
+p5637
+aVSouth Africa
+p5638
+aVKwaZulu-Natal
+p5639
+aVeThekwini Metropolitan Municipality
+p5640
+aVDurban
+p5641
+aa(lp5642
+S'Dean Hall'
+p5643
+aS'2001'
+p5644
+aS'Wing'
+p5645
+aS'13'
+p5646
+aS'6'
+aS'6'
+aS'1'
+aS'4'
+aS'20'
+p5647
+aS'Springs'
+p5648
+aVUnited States of America
+p5649
+aVNew York
+p5650
+aVSuffolk County
+p5651
+aVSprings
+p5652
+aa(lp5653
+S'Butch James'
+p5654
+aS'2001'
+p5655
+aS'Fly-half'
+p5656
+aS'42'
+p5657
+aS'23'
+p5658
+aS'18'
+p5659
+aS'1'
+aS'3'
+aS'154'
+p5660
+aS'Johannesburg'
+p5661
+aVSouth Africa
+p5662
+aV2001
+p5663
+aVGauteng
+p5664
+aVCity of Johannesburg Metropolitan Municipality
+p5665
+aa(lp5666
+S'Neil de Kock'
+p5667
+aS'2001'
+p5668
+aS'Scrum-half'
+p5669
+aS'10'
+p5670
+aS'6'
+aS'4'
+aS'0'
+aS'2'
+aS'10'
+p5671
+aS'Cape Town'
+p5672
+aVSouth Africa
+p5673
+aVWestern Cape
+p5674
+aVCity of Cape Town
+p5675
+aVCape Town
+p5676
+aa(lp5677
+S'Conrad Jantjes'
+p5678
+aS'2001'
+p5679
+aS'Fullback'
+p5680
+aS'24'
+p5681
+aS'16'
+p5682
+aS'7'
+aS'1'
+aS'4'
+aS'22'
+p5683
+aS'Boksburg'
+p5684
+aVSouth Africa
+p5685
+aVGauteng
+p5686
+aVEkurhuleni Metropolitan Municipality
+p5687
+aVBoksburg
+p5688
+aa(lp5689
+S'Victor Matfield'
+p5690
+aS'2001'
+p5691
+aS'Lock'
+p5692
+aS'121'
+p5693
+aS'76'
+p5694
+aS'43'
+p5695
+aS'2'
+aS'7'
+aS'35'
+p5696
+aS'Pietersburg'
+p5697
+aVSouth Africa
+p5698
+aVLimpopo
+p5699
+aVCapricorn District Municipality
+p5700
+aVPolokwane
+p5701
+aa(lp5702
+S'Lukas van Biljon'
+p5703
+aS'2001'
+p5704
+aS'Hooker'
+p5705
+aS'13'
+p5706
+aS'4'
+aS'8'
+aS'1'
+aS'1'
+aS'5'
+aS'Bloemfontein'
+p5707
+aVSouth Africa
+p5708
+aVFree State
+p5709
+aVMangaung Metropolitan Municipality
+p5710
+aVBloemfontein
+p5711
+aa(lp5712
+S'Marius Joubert'
+p5713
+aS'2001'
+p5714
+aS'Centre'
+p5715
+aS'30'
+p5716
+aS'19'
+p5717
+aS'10'
+p5718
+aS'1'
+aS'9'
+aS'45'
+p5719
+aS'Paarl'
+p5720
+aVSouth Africa
+p5721
+aVWestern Cape
+p5722
+aVCape Winelands District Municipality
+p5723
+aVPaarl
+p5724
+aa(lp5725
+S'Joe van Niekerk'
+p5726
+aS'2001'
+p5727
+aS'Back-row'
+p5728
+aS'52'
+p5729
+aS'28'
+p5730
+aS'24'
+p5731
+aS'0'
+aS'10'
+p5732
+aS'50'
+p5733
+aS'Port Elizabeth'
+p5734
+aVSouth Africa
+p5735
+aVEastern Cape
+p5736
+aVNelson Mandela Bay Metropolitan Municipality
+p5737
+aVPort Elizabeth
+p5738
+aa(lp5739
+S'Trevor Halstead'
+p5740
+aS'2001'
+p5741
+aS'Centre'
+p5742
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'3'
+aS'15'
+p5743
+aS'Margate'
+p5744
+aVUnited Kingdom
+p5745
+aVEngland
+p5746
+aVSouth East
+p5747
+aVKent
+p5748
+aa(lp5749
+S'Deon de Kock'
+p5750
+aS'2001'
+p5751
+aS'Scrum-half'
+p5752
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Empangeni'
+p5753
+aVSouth Africa
+p5754
+aVKwaZulu-Natal
+p5755
+aVuThungulu District Municipality
+p5756
+aVEmpangeni
+p5757
+aa(lp5758
+S'Adrian Jacobs'
+p5759
+aS'2001'
+p5760
+aS'Centre'
+p5761
+aS'34'
+p5762
+aS'22'
+p5763
+aS'12'
+p5764
+aS'0'
+aS'7'
+aS'35'
+p5765
+aS'Kraaifontein'
+p5766
+aVSouth Africa
+p5767
+aVWestern Cape
+p5768
+aVCity of Cape Town
+p5769
+aVKraaifontein
+p5770
+aa(lp5771
+S'Lawrence Sephaka'
+p5772
+aS'2001'
+p5773
+aS'Prop'
+p5774
+aS'24'
+p5775
+aS'14'
+p5776
+aS'10'
+p5777
+aS'0'
+aS'0'
+aS'0'
+aS'Johannesburg'
+p5778
+aVSouth Africa
+p5779
+aV2001
+p5780
+aVGauteng
+p5781
+aVCity of Johannesburg Metropolitan Municipality
+p5782
+aa(lp5783
+S'Warren Britz'
+p5784
+aS'2002'
+p5785
+aS'Flanker'
+p5786
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Durban'
+p5787
+aVSouth Africa
+p5788
+aVKwaZulu-Natal
+p5789
+aVeThekwini Metropolitan Municipality
+p5790
+aVDurban
+p5791
+aa(lp5792
+S'Bolla Conradie'
+p5793
+aS'2002'
+p5794
+aS'Scrum-half'
+p5795
+aS'18'
+p5796
+aS'12'
+p5797
+aS'6'
+aS'0'
+aS'2'
+aS'13'
+p5798
+aS'Cape Town'
+p5799
+aVSouth Africa
+p5800
+aVWestern Cape
+p5801
+aVCity of Cape Town
+p5802
+aVCape Town
+p5803
+aa(lp5804
+S'Daan Human'
+p5805
+aS'2002'
+p5806
+aS'Prop'
+p5807
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Bloemfontein'
+p5808
+aVSouth Africa
+p5809
+aVFree State
+p5810
+aVMangaung Metropolitan Municipality
+p5811
+aVBloemfontein
+p5812
+aa(lp5813
+S'Ricardo Loubscher'
+p5814
+aS'2002'
+p5815
+aS'Fullback'
+p5816
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Colesberg'
+p5817
+aVSouth Africa
+p5818
+aVNorthern Cape
+p5819
+aVPixley ka Seme District Municipality
+p5820
+aVColesberg
+p5821
+aa(lp5822
+S'Andre Pretorius'
+p5823
+aS'2002'
+p5824
+aS'Fly-half'
+p5825
+aS'31'
+p5826
+aS'19'
+p5827
+aS'12'
+p5828
+aS'0'
+aS'2'
+aS'171'
+p5829
+aS'Johannesburg'
+p5830
+aVSouth Africa
+p5831
+aV2001
+p5832
+aVGauteng
+p5833
+aVCity of Johannesburg Metropolitan Municipality
+p5834
+aa(lp5835
+S'Faan Rautenbach'
+p5836
+aS'2002'
+p5837
+aS'Prop'
+p5838
+aS'14'
+p5839
+aS'9'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'Bethlehem'
+p5840
+aVUnited States of America
+p5841
+aVpenna
+p5842
+aVNorthampton County
+p5843
+aVBethlehem
+p5844
+aa(lp5845
+S'Brent Russell'
+p5846
+aS'2002'
+p5847
+aS'Wing'
+p5848
+aS'23'
+p5849
+aS'14'
+p5850
+aS'9'
+aS'0'
+aS'8'
+aS'40'
+p5851
+aS'Port Elizabeth'
+p5852
+aVSouth Africa
+p5853
+aVEastern Cape
+p5854
+aVNelson Mandela Bay Metropolitan Municipality
+p5855
+aVPort Elizabeth
+p5856
+aa(lp5857
+S'Quinton Davids'
+p5858
+aS'2002'
+p5859
+aS'Lock'
+p5860
+aS'9'
+aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Bellville'
+p5861
+aVUnited States of America
+p5862
+aVTexas
+p5863
+aVBellville
+p5864
+ag82
+aa(lp5865
+S'Craig Davidson'
+p5866
+aS'2002'
+p5867
+aS'Scrum-half'
+p5868
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'2'
+aS'10'
+p5869
+aS"King William's Town"
+p5870
+aVSouth Africa
+p5871
+aVEastern Cape
+p5872
+aVBuffalo City Metropolitan Municipality
+p5873
+aVKing William's Town
+p5874
+aa(lp5875
+S'Hottie Louw'
+p5876
+aS'2002'
+p5877
+aS'Lock'
+p5878
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Paarl'
+p5879
+aVSouth Africa
+p5880
+aVWestern Cape
+p5881
+aVCape Winelands District Municipality
+p5882
+aVPaarl
+p5883
+aa(lp5884
+S'Werner Greeff'
+p5885
+aS'2002'
+p5886
+aS'Wing'
+p5887
+aS'11'
+p5888
+aS'5'
+aS'6'
+aS'0'
+aS'4'
+aS'31'
+p5889
+aS'Bellville'
+p5890
+aVUnited States of America
+p5891
+aVTexas
+p5892
+aVBellville
+p5893
+ag82
+aa(lp5894
+S'Danie Coetzee'
+p5895
+aS'2002'
+p5896
+aS'Hooker'
+p5897
+aS'15'
+p5898
+aS'9'
+aS'6'
+aS'0'
+aS'1'
+aS'5'
+aS'Harrismith'
+p5899
+aVSouth Africa
+p5900
+aV9880
+p5901
+aVFree State
+p5902
+aVThabo Mofutsanyana District Municipality
+p5903
+aa(lp5904
+S'Delarey du Preez'
+p5905
+aS'2002'
+p5906
+aS'Hooker'
+p5907
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'5'
+aS'Queenstown'
+p5908
+aVNew Zealand/Aotearoa
+p5909
+aVOtago
+p5910
+aVQueenstown-Lakes District
+p5911
+aVQueenstown
+p5912
+aa(lp5913
+S'Shaun Sowerby'
+p5914
+aS'2002'
+p5915
+aS'No. 8'
+p5916
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Vereeniging'
+p5917
+aVSouth Africa
+p5918
+aVGauteng
+p5919
+aVSedibeng District Municipality
+p5920
+aVVereeniging
+p5921
+aa(lp5922
+S'Hendro Scholtz'
+p5923
+aS'2002'
+p5924
+aS'Back-row'
+p5925
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'1'
+aS'5'
+aS'Bethlehem'
+p5926
+aVUnited States of America
+p5927
+aVpenna
+p5928
+aVNorthampton County
+p5929
+aVBethlehem
+p5930
+aa(lp5931
+S'Bakkies Botha'
+p5932
+aS'2002'
+p5933
+aS'Lock'
+p5934
+aS'85'
+p5935
+aS'64'
+p5936
+aS'21'
+p5937
+aS'0'
+aS'7'
+aS'35'
+p5938
+aS'Natal'
+p5939
+aVBrasil
+p5940
+aVRegião Nordeste
+p5941
+aVRN
+p5942
+aVMesorregião do Leste Potiguar
+p5943
+aa(lp5944
+S'Jean de Villiers'
+p5945
+aS'2002'
+p5946
+aS'Centre'
+p5947
+aS'106'
+p5948
+aS'70'
+p5949
+aS'33'
+p5950
+aS'3'
+aS'27'
+p5951
+aS'135'
+p5952
+aS'Paarl'
+p5953
+aVSouth Africa
+p5954
+aVWestern Cape
+p5955
+aVCape Winelands District Municipality
+p5956
+aVPaarl
+p5957
+aa(lp5958
+S'Wessel Roux'
+p5959
+aS'2002'
+p5960
+aS'Prop'
+p5961
 aS'3'
 aS'0'
 aS'3'
@@ -13744,44 +14923,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bothaville'
-p5423
+p5962
 aVSouth Africa
-p5424
+p5963
 aVFree State
-p5425
+p5964
 aVLejweleputswa District Municipality
-p5426
-aa(lp5427
+p5965
+aVBothaville
+p5966
+aa(lp5967
 S'Pedrie Wannenburg'
-p5428
+p5968
 aS'2002'
-p5429
+p5969
 aS'No. 8'
-p5430
+p5970
 aS'20'
-p5431
+p5971
 aS'12'
-p5432
+p5972
 aS'8'
 aS'0'
 aS'3'
 aS'15'
-p5433
+p5973
 aS'Nelspruit'
-p5434
+p5974
 aVSouth Africa
-p5435
+p5975
 aVMpumalanga
-p5436
+p5976
 aVEhlanzeni District Municipality
-p5437
-aa(lp5438
+p5977
+aVNelspruit
+p5978
+aa(lp5979
 S'Marco Wentzel'
-p5439
+p5980
 aS'2002'
-p5440
+p5981
 aS'Lock'
-p5441
+p5982
 aS'2'
 aS'0'
 aS'2'
@@ -13789,20 +14972,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'George'
-p5442
+p5983
 aVUnited States of America
-p5443
+p5984
 aVMississippi
-p5444
+p5985
 aVGeorge
-p5445
-aa(lp5446
+p5986
+ag82
+aa(lp5987
 S'Deon Carstens'
-p5447
+p5988
 aS'2002'
-p5448
+p5989
 aS'Prop'
-p5449
+p5990
 aS'9'
 aS'5'
 aS'4'
@@ -13810,20 +14994,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Goodwood'
-p5450
+p5991
 aVSouth Africa
-p5451
+p5992
 aVWestern Cape
-p5452
+p5993
 aVCity of Cape Town
-p5453
-aa(lp5454
+p5994
+aVCape Town
+p5995
+aa(lp5996
 S'Friedrich Lombard'
-p5455
+p5997
 aS'2002'
-p5456
+p5998
 aS'Wing'
-p5457
+p5999
 aS'2'
 aS'0'
 aS'2'
@@ -13831,20 +15017,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Frankfort'
-p5458
+p6000
 aVUnited States of America
-p5459
+p6001
 aVKentucky
-p5460
+p6002
 aVFranklin County
-p5461
-aa(lp5462
+p6003
+aVFrankfort
+p6004
+aa(lp6005
 S'Pierre Uys'
-p5463
+p6006
 aS'2002'
-p5464
+p6007
 aS'Flanker'
-p5465
+p6008
 aS'1'
 aS'0'
 aS'1'
@@ -13852,45 +15040,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'Mossel Bay'
-p5466
+p6009
 aVSouth Africa
-p5467
+p6010
 aV6506
-p5468
+p6011
 aVWestern Cape
-p5469
-aa(lp5470
+p6012
+aVEden District Municipality
+p6013
+aa(lp6014
 S'CJ van der Linde'
-p5471
+p6015
 aS'2002'
-p5472
+p6016
 aS'Prop'
-p5473
+p6017
 aS'75'
-p5474
+p6018
 aS'43'
-p5475
+p6019
 aS'31'
-p5476
+p6020
 aS'1'
 aS'4'
 aS'20'
-p5477
+p6021
 aS'Welkom'
-p5478
+p6022
 aVSouth Africa
-p5479
+p6023
 aVFree State
-p5480
+p6024
 aVLejweleputswa District Municipality
-p5481
-aa(lp5482
+p6025
+aVWelkom
+p6026
+aa(lp6027
 S'Norman Jordaan'
-p5483
+p6028
 aS'2002'
-p5484
+p6029
 aS'Scrum-half'
-p5485
+p6030
 aS'1'
 aS'0'
 aS'1'
@@ -13898,43 +15090,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p5486
+p6031
 aVSouth Africa
-p5487
+p6032
 aVWestern Cape
-p5488
+p6033
 aVCity of Cape Town
-p5489
-aa(lp5490
+p6034
+aVCape Town
+p6035
+aa(lp6036
 S'Richard Bands'
-p5491
+p6037
 aS'2003'
-p5492
+p6038
 aS'Hooker, Prop'
-p5493
+p6039
 aS'11'
-p5494
+p6040
 aS'6'
 aS'5'
 aS'0'
 aS'2'
 aS'10'
-p5495
+p6041
 aS'Mafeking'
-p5496
+p6042
 aVCanada
-p5497
+p6043
 aVManitoba
-p5498
+p6044
 aVMafeking
-p5499
-aa(lp5500
+p6045
+ag82
+aa(lp6046
 S'Hendrik Gerber'
-p5501
+p6047
 aS'2003'
-p5502
+p6048
 aS'Flanker'
-p5503
+p6049
 aS'2'
 aS'2'
 aS'0'
@@ -13942,93 +15137,100 @@ aS'0'
 aS'0'
 aS'0'
 aS'George'
-p5504
+p6050
 aVUnited States of America
-p5505
+p6051
 aVMississippi
-p5506
+p6052
 aVGeorge
-p5507
-aa(lp5508
+p6053
+ag82
+aa(lp6054
 S'Wikus van Heerden'
-p5509
+p6055
 aS'2003'
-p5510
+p6056
 aS'Flanker, Lock'
-p5511
+p6057
 aS'14'
-p5512
+p6058
 aS'10'
-p5513
+p6059
 aS'4'
 aS'0'
 aS'1'
 aS'5'
 aS'Johannesburg'
-p5514
+p6060
 aVSouth Africa
-p5515
+p6061
 aV2001
-p5516
+p6062
 aVGauteng
-p5517
-aa(lp5518
+p6063
+aVCity of Johannesburg Metropolitan Municipality
+p6064
+aa(lp6065
 S'Ashwin Willemse'
-p5519
+p6066
 aS'2003'
-p5520
+p6067
 aS'Wing'
-p5521
+p6068
 aS'19'
-p5522
+p6069
 aS'12'
-p5523
+p6070
 aS'7'
 aS'0'
 aS'4'
 aS'20'
-p5524
+p6071
 aS'Caledon'
-p5525
+p6072
 aVCanada
-p5526
+p6073
 aVOntario
-p5527
+p6074
 aVPeel Region
-p5528
-aa(lp5529
+p6075
+aVCaledon
+p6076
+aa(lp6077
 S'Juan Smith'
-p5530
+p6078
 aS'2003'
-p5531
+p6079
 aS'Flanker'
-p5532
+p6080
 aS'70'
-p5533
+p6081
 aS'49'
-p5534
+p6082
 aS'21'
-p5535
+p6083
 aS'0'
 aS'12'
-p5536
+p6084
 aS'60'
-p5537
+p6085
 aS'Bloemfontein'
-p5538
+p6086
 aVSouth Africa
-p5539
+p6087
 aVFree State
-p5540
+p6088
 aVMangaung Metropolitan Municipality
-p5541
-aa(lp5542
+p6089
+aVBloemfontein
+p6090
+aa(lp6091
 S'Gcobani Bobo'
-p5543
+p6092
 aS'2003'
-p5544
+p6093
 aS'Centre'
-p5545
+p6094
 aS'6'
 aS'5'
 aS'1'
@@ -14036,20 +15238,22 @@ aS'0'
 aS'0'
 aS'0'
 aS"King William's Town"
-p5546
+p6095
 aVSouth Africa
-p5547
+p6096
 aVEastern Cape
-p5548
+p6097
 aVBuffalo City Metropolitan Municipality
-p5549
-aa(lp5550
+p6098
+aVKing William's Town
+p6099
+aa(lp6100
 S'Dale Santon'
-p5551
+p6101
 aS'2003'
-p5552
+p6102
 aS'Hooker'
-p5553
+p6103
 aS'4'
 aS'2'
 aS'2'
@@ -14057,20 +15261,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p5554
+p6104
 aVSouth Africa
-p5555
+p6105
 aVWestern Cape
-p5556
+p6106
 aVCity of Cape Town
-p5557
-aa(lp5558
+p6107
+aVCape Town
+p6108
+aa(lp6109
 S'Jorrie Muller'
-p5559
+p6110
 aS'2003'
-p5560
+p6111
 aS'Wing'
-p5561
+p6112
 aS'6'
 aS'2'
 aS'4'
@@ -14078,20 +15284,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Fochville'
-p5562
+p6113
 aVSouth Africa
-p5563
+p6114
 aVGauteng
-p5564
+p6115
 aVWest Rand District Municipality
-p5565
-aa(lp5566
+p6116
+aVMerafong City Local Municipality
+p6117
+aa(lp6118
 S'Geo Cronje'
-p5567
+p6119
 aS'2003'
-p5568
+p6120
 aS'Lock'
-p5569
+p6121
 aS'3'
 aS'2'
 aS'1'
@@ -14099,20 +15307,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Klerksdorp'
-p5570
+p6122
 aVSouth Africa
-p5571
+p6123
 aVNorth West
-p5572
+p6124
 aVDr Kenneth Kaunda District Municipality
-p5573
-aa(lp5574
+p6125
+aVKlerksdorp
+p6126
+aa(lp6127
 S'Christo Bezuidenhout'
-p5575
+p6128
 aS'2003'
-p5576
+p6129
 aS'Prop'
-p5577
+p6130
 aS'4'
 aS'1'
 aS'3'
@@ -14120,195 +15330,211 @@ aS'0'
 aS'0'
 aS'0'
 aS'Canary Is'
-p5578
+p6131
 aVUnited States of America
-p5579
+p6132
 aVMassachusetts
-p5580
+p6133
 aVHampshire County
-p5581
-aa(lp5582
+p6134
+aVHatfield
+p6135
+aa(lp6136
 S'Jaque Fourie'
-p5583
+p6137
 aS'2003'
-p5584
+p6138
 aS'Centre'
-p5585
+p6139
 aS'72'
-p5586
+p6140
 aS'52'
-p5587
+p6141
 aS'20'
-p5588
+p6142
 aS'0'
 aS'32'
-p5589
+p6143
 aS'160'
-p5590
+p6144
 aS'Carletonville'
-p5591
+p6145
 aVSouth Africa
-p5592
+p6146
 aVGauteng
-p5593
+p6147
 aVWest Rand District Municipality
-p5594
-aa(lp5595
+p6148
+aVCarletonville
+p6149
+aa(lp6150
 S'Danie Rossouw'
-p5596
+p6151
 aS'2003'
-p5597
+p6152
 aS'Lock'
-p5598
+p6153
 aS'63'
-p5599
+p6154
 aS'40'
-p5600
+p6155
 aS'22'
-p5601
+p6156
 aS'1'
 aS'10'
-p5602
+p6157
 aS'50'
-p5603
+p6158
 aS'Sabie'
-p5604
+p6159
 aVSouth Africa
-p5605
+p6160
 aVMpumalanga
-p5606
+p6161
 aVEhlanzeni District Municipality
-p5607
-aa(lp5608
+p6162
+aVSabie
+p6163
+aa(lp6164
 S'Derick Hougaard'
-p5609
+p6165
 aS'2003'
-p5610
+p6166
 aS'Fly-half'
-p5611
+p6167
 aS'8'
 aS'4'
 aS'4'
 aS'0'
 aS'2'
 aS'69'
-p5612
+p6168
 aS'Citrusdal'
-p5613
+p6169
 aVSouth Africa
-p5614
+p6170
 aVWestern Cape
-p5615
+p6171
 aVWest Coast District Municipality
-p5616
-aa(lp5617
+p6172
+aVCitrusdal
+p6173
+aa(lp6174
 S'Schalk Burger'
-p5618
+p6175
 aS'2003'
-p5619
+p6176
 aS'Back-row'
-p5620
+p6177
 aS'75'
-p5621
+p6178
 aS'51'
-p5622
+p6179
 aS'23'
-p5623
+p6180
 aS'1'
 aS'14'
-p5624
+p6181
 aS'70'
-p5625
+p6182
 aS'Port Elizabeth'
-p5626
+p6183
 aVSouth Africa
-p5627
+p6184
 aVEastern Cape
-p5628
+p6185
 aVNelson Mandela Bay Metropolitan Municipality
-p5629
-aa(lp5630
+p6186
+aVPort Elizabeth
+p6187
+aa(lp6188
 S'Eddie Andrews'
-p5631
+p6189
 aS'2004'
-p5632
+p6190
 aS'Prop'
-p5633
+p6191
 aS'23'
-p5634
+p6192
 aS'11'
-p5635
+p6193
 aS'11'
-p5636
+p6194
 aS'1'
 aS'0'
 aS'0'
 aS'Cape Town'
-p5637
+p6195
 aVSouth Africa
-p5638
+p6196
 aVWestern Cape
-p5639
+p6197
 aVCity of Cape Town
-p5640
-aa(lp5641
+p6198
+aVCape Town
+p6199
+aa(lp6200
 S'Jacques Cronje'
-p5642
+p6201
 aS'2004'
-p5643
+p6202
 aS'No. 8'
-p5644
+p6203
 aS'32'
-p5645
+p6204
 aS'17'
-p5646
+p6205
 aS'14'
-p5647
+p6206
 aS'1'
 aS'4'
 aS'20'
-p5648
+p6207
 aS'Klerksdorp'
-p5649
+p6208
 aVSouth Africa
-p5650
+p6209
 aVNorth West
-p5651
+p6210
 aVDr Kenneth Kaunda District Municipality
-p5652
-aa(lp5653
+p6211
+aVKlerksdorp
+p6212
+aa(lp6213
 S'Fourie du Preez'
-p5654
+p6214
 aS'2004'
-p5655
+p6215
 aS'Scrum-half'
-p5656
+p6216
 aS'70'
-p5657
+p6217
 aS'50'
-p5658
+p6218
 aS'19'
-p5659
+p6219
 aS'1'
 aS'15'
-p5660
+p6220
 aS'75'
-p5661
+p6221
 aS'Pretoria'
-p5662
+p6222
 aVSouth Africa
-p5663
+p6223
 aVGauteng
-p5664
+p6224
 aVCity of Tshwane Metropolitan Municipality
-p5665
-aa(lp5666
+p6225
+aVPretoria
+p6226
+aa(lp6227
 S'Henno Mentz'
-p5667
+p6228
 aS'2004'
-p5668
+p6229
 aS'Wing'
-p5669
+p6230
 aS'2'
 aS'2'
 aS'0'
@@ -14316,43 +15542,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ermelo'
-p5670
+p6231
 aVNederland
-p5671
+p6232
 aVGelderland
-p5672
+p6233
 aVErmelo
-p5673
-aa(lp5674
+p6234
+ag82
+aa(lp6235
 S'Gerrie Britz'
-p5675
+p6236
 aS'2004'
-p5676
+p6237
 aS'Back-row'
-p5677
+p6238
 aS'13'
-p5678
+p6239
 aS'10'
-p5679
+p6240
 aS'3'
 aS'0'
 aS'0'
 aS'0'
 aS'Bloemfontein'
-p5680
+p6241
 aVSouth Africa
-p5681
+p6242
 aVFree State
-p5682
+p6243
 aVMangaung Metropolitan Municipality
-p5683
-aa(lp5684
+p6244
+aVBloemfontein
+p6245
+aa(lp6246
 S'Hanyani Shimange'
-p5685
+p6247
 aS'2004'
-p5686
+p6248
 aS'Hooker'
-p5687
+p6249
 aS'9'
 aS'8'
 aS'1'
@@ -14360,20 +15589,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Elim'
-p5688
+p6250
 aVUnited States of America
-p5689
+p6251
 aVpenna
-p5690
+p6252
 aVCambria County
-p5691
-aa(lp5692
+p6253
+aVElim
+p6254
+aa(lp6255
 S'Michael Claassens'
-p5693
+p6256
 aS'2004'
-p5694
+p6257
 aS'Scrum-half'
-p5695
+p6258
 aS'8'
 aS'5'
 aS'3'
@@ -14381,20 +15612,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kroonstad'
-p5696
+p6259
 aVSouth Africa
-p5697
+p6260
 aVFree State
-p5698
+p6261
 aVFezile Dabi District Municipality
-p5699
-aa(lp5700
+p6262
+aVKroonstad
+p6263
+aa(lp6264
 S'Tim Dlulane'
-p5701
+p6265
 aS'2004'
-p5702
+p6266
 aS'Flanker'
-p5703
+p6267
 aS'1'
 aS'1'
 aS'0'
@@ -14402,159 +15635,170 @@ aS'0'
 aS'0'
 aS'0'
 aS'Umtala'
-p5704
+p6268
 aS'g'
 aS'n'
 aS'i'
-aa(lp5705
+aS's'
+aa(lp6269
 S'Bryan Habana'
-p5706
+p6270
 aS'2004'
-p5707
+p6271
 aS'Wing'
-p5708
+p6272
 aS'106'
-p5709
+p6273
 aS'71'
-p5710
+p6274
 aS'32'
-p5711
+p6275
 aS'3'
 aS'57'
-p5712
+p6276
 aS'285'
-p5713
+p6277
 aS'Johannesburg'
-p5714
+p6278
 aVSouth Africa
-p5715
+p6279
 aV2001
-p5716
+p6280
 aVGauteng
-p5717
-aa(lp5718
+p6281
+aVCity of Johannesburg Metropolitan Municipality
+p6282
+aa(lp6283
 S'Gurthro Steenkamp'
-p5719
+p6284
 aS'2004'
-p5720
+p6285
 aS'Prop'
-p5721
+p6286
 aS'53'
-p5722
+p6287
 aS'41'
-p5723
+p6288
 aS'12'
-p5724
+p6289
 aS'0'
 aS'6'
 aS'30'
-p5725
+p6290
 aS'Paarl'
-p5726
+p6291
 aVSouth Africa
-p5727
+p6292
 aVWestern Cape
-p5728
+p6293
 aVCape Winelands District Municipality
-p5729
-aa(lp5730
+p6294
+aVPaarl
+p6295
+aa(lp6296
 S'Solly Tyibilika'
-p5731
+p6297
 aS'2004'
-p5732
+p6298
 aS'Back-row'
-p5733
+p6299
 aS'8'
 aS'5'
 aS'3'
 aS'0'
 aS'3'
 aS'15'
-p5734
+p6300
 aS'Port Elizabeth'
-p5735
+p6301
 aVSouth Africa
-p5736
+p6302
 aVEastern Cape
-p5737
+p6303
 aVNelson Mandela Bay Metropolitan Municipality
-p5738
-aa(lp5739
+p6304
+aVPort Elizabeth
+p6305
+aa(lp6306
 S'Tonderai Chavhanga'
-p5740
+p6307
 aS'2005'
-p5741
+p6308
 aS'Wing'
-p5742
+p6309
 aS'4'
 aS'3'
 aS'1'
 aS'0'
 aS'6'
 aS'30'
-p5743
+p6310
 aS'Masvingo'
-p5744
+p6311
 aVZimbabwe
-p5745
+p6312
 aVMasvingo Province
-p5746
+p6313
 aVMasvingo
-p5747
-aa(lp5748
+p6314
+ag82
+aa(lp6315
 S'Ricky Januarie'
-p5749
+p6316
 aS'2005'
-p5750
+p6317
 aS'Scrum-half'
-p5751
+p6318
 aS'47'
-p5752
+p6319
 aS'34'
-p5753
+p6320
 aS'13'
-p5754
+p6321
 aS'0'
 aS'5'
 aS'25'
-p5755
+p6322
 aS'Hopefield'
-p5756
+p6323
 aVAustralia
-p5757
+p6324
 aVNew South Wales
-p5758
+p6325
 aVHopefield
-p5759
-aa(lp5760
+p6326
+ag82
+aa(lp6327
 S'Gary Botha'
-p5761
+p6328
 aS'2005'
-p5762
+p6329
 aS'Hooker'
-p5763
+p6330
 aS'12'
-p5764
+p6331
 aS'8'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p5765
+p6332
 aVSouth Africa
-p5766
+p6333
 aVGauteng
-p5767
+p6334
 aVCity of Tshwane Metropolitan Municipality
-p5768
-aa(lp5769
+p6335
+aVPretoria
+p6336
+aa(lp6337
 S'Meyer Bosman'
-p5770
+p6338
 aS'2005'
-p5771
+p6339
 aS'Centre'
-p5772
+p6340
 aS'3'
 aS'1'
 aS'2'
@@ -14562,211 +15806,229 @@ aS'0'
 aS'0'
 aS'7'
 aS'Bethlehem'
-p5773
+p6341
 aVUnited States of America
-p5774
+p6342
 aVpenna
-p5775
+p6343
 aVNorthampton County
-p5776
-aa(lp5777
+p6344
+aVBethlehem
+p6345
+aa(lp6346
 S'Johann Muller'
-p5778
+p6347
 aS'2006'
-p5779
+p6348
 aS'Lock'
-p5780
+p6349
 aS'24'
-p5781
+p6350
 aS'15'
-p5782
+p6351
 aS'9'
 aS'0'
 aS'0'
 aS'0'
 aS'Mossel Bay'
-p5783
+p6352
 aVSouth Africa
-p5784
+p6353
 aV6506
-p5785
+p6354
 aVWestern Cape
-p5786
-aa(lp5787
+p6355
+aVEden District Municipality
+p6356
+aa(lp6357
 S'Wynand Olivier'
-p5788
+p6358
 aS'2006'
-p5789
+p6359
 aS'Centre'
-p5790
+p6360
 aS'38'
-p5791
+p6361
 aS'19'
-p5792
+p6362
 aS'18'
-p5793
+p6363
 aS'1'
 aS'1'
 aS'5'
 aS'Welkom'
-p5794
+p6364
 aVSouth Africa
-p5795
+p6365
 aVFree State
-p5796
+p6366
 aVLejweleputswa District Municipality
-p5797
-aa(lp5798
+p6367
+aVWelkom
+p6368
+aa(lp6369
 S'Akona Ndungane'
-p5799
+p6370
 aS'2006'
-p5800
+p6371
 aS'Wing'
-p5801
+p6372
 aS'11'
-p5802
+p6373
 aS'7'
 aS'4'
 aS'0'
 aS'1'
 aS'5'
 aS'Transkei'
-p5803
+p6374
 aVSouth Africa
-p5804
+p6375
 aVEastern Cape
-p5805
+p6376
 aVBuffalo City Metropolitan Municipality
-p5806
-aa(lp5807
+p6377
+aVEast London
+p6378
+aa(lp6379
 S'Pierre Spies'
-p5808
+p6380
 aS'2006'
-p5809
+p6381
 aS'No. 8'
-p5810
+p6382
 aS'53'
-p5811
+p6383
 aS'36'
-p5812
+p6384
 aS'16'
-p5813
+p6385
 aS'1'
 aS'7'
 aS'35'
-p5814
+p6386
 aS'Pretoria'
-p5815
+p6387
 aVSouth Africa
-p5816
+p6388
 aVGauteng
-p5817
+p6389
 aVCity of Tshwane Metropolitan Municipality
-p5818
-aa(lp5819
+p6390
+aVPretoria
+p6391
+aa(lp6392
 S'BJ Botha'
-p5820
+p6393
 aS'2006'
-p5821
+p6394
 aS'Prop'
-p5822
+p6395
 aS'25'
-p5823
+p6396
 aS'17'
-p5824
+p6397
 aS'8'
 aS'0'
 aS'1'
 aS'5'
 aS'Durban'
-p5825
+p6398
 aVSouth Africa
-p5826
+p6399
 aVKwaZulu-Natal
-p5827
+p6400
 aVeThekwini Metropolitan Municipality
-p5828
-aa(lp5829
+p6401
+aVDurban
+p6402
+aa(lp6403
 S'Ruan Pienaar'
-p5830
+p6404
 aS'2006'
-p5831
+p6405
 aS'Scrum-half'
-p5832
+p6406
 aS'80'
-p5833
+p6407
 aS'55'
-p5834
+p6408
 aS'23'
-p5835
+p6409
 aS'2'
 aS'8'
 aS'135'
-p5836
+p6410
 aS'Bloemfontein'
-p5837
+p6411
 aVSouth Africa
-p5838
+p6412
 aVFree State
-p5839
+p6413
 aVMangaung Metropolitan Municipality
-p5840
-aa(lp5841
+p6414
+aVBloemfontein
+p6415
+aa(lp6416
 S'Chiliboy Ralepelle'
-p5842
+p6417
 aS'2006'
-p5843
+p6418
 aS'Hooker'
-p5844
+p6419
 aS'22'
-p5845
+p6420
 aS'14'
-p5846
+p6421
 aS'8'
 aS'0'
 aS'1'
 aS'5'
 aS'Tzaneen'
-p5847
+p6422
 aVSouth Africa
-p5848
+p6423
 aVLimpopo
-p5849
+p6424
 aVMopani District Municipality
-p5850
-aa(lp5851
+p6425
+aVTzaneen
+p6426
+aa(lp6427
 S'JP Pietersen'
-p5852
+p6428
 aS'2006'
-p5853
+p6429
 aS'Wing'
-p5854
+p6430
 aS'59'
-p5855
+p6431
 aS'45'
-p5856
+p6432
 aS'13'
-p5857
+p6433
 aS'1'
 aS'18'
-p5858
+p6434
 aS'90'
-p5859
+p6435
 aS'Stellenbosch'
-p5860
+p6436
 aVSouth Africa
-p5861
+p6437
 aVWestern Cape
-p5862
+p6438
 aVCape Winelands District Municipality
-p5863
-aa(lp5864
+p6439
+aVStellenbosch
+p6440
+aa(lp6441
 S'Bevin Fortuin'
-p5865
+p6442
 aS'2006'
-p5866
+p6443
 aS'Fullback, Centre'
-p5867
+p6444
 aS'2'
 aS'0'
 aS'2'
@@ -14774,20 +16036,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'George'
-p5868
+p6445
 aVUnited States of America
-p5869
+p6446
 aVMississippi
-p5870
+p6447
 aVGeorge
-p5871
-aa(lp5872
+p6448
+ag82
+aa(lp6449
 S'Jaco Pretorius'
-p5873
+p6450
 aS'2006'
-p5874
+p6451
 aS'Centre'
-p5875
+p6452
 aS'2'
 aS'0'
 aS'2'
@@ -14795,46 +16058,50 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p5876
+p6453
 aVSouth Africa
-p5877
+p6454
 aV2001
-p5878
+p6455
 aVGauteng
-p5879
-aa(lp5880
+p6456
+aVCity of Johannesburg Metropolitan Municipality
+p6457
+aa(lp6458
 S'Frans Steyn'
-p5881
+p6459
 aS'2006'
-p5882
+p6460
 aS'Centre'
-p5883
+p6461
 aS'53'
-p5884
+p6462
 aS'38'
-p5885
+p6463
 aS'14'
-p5886
+p6464
 aS'1'
 aS'10'
-p5887
+p6465
 aS'132'
-p5888
+p6466
 aS'Aliwal North'
-p5889
+p6467
 aVSouth Africa
-p5890
+p6468
 aVEastern Cape
-p5891
+p6469
 aVJoe Gqabi District Municipality
-p5892
-aa(lp5893
+p6470
+aVAliwal North
+p6471
+aa(lp6472
 S'Hilton Lobberts'
-p5894
+p6473
 aS'2006'
-p5895
+p6474
 aS'Lock'
-p5896
+p6475
 aS'2'
 aS'0'
 aS'2'
@@ -14842,20 +16109,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Paarl'
-p5897
+p6476
 aVSouth Africa
-p5898
+p6477
 aVWestern Cape
-p5899
+p6478
 aVCape Winelands District Municipality
-p5900
-aa(lp5901
+p6479
+aVPaarl
+p6480
+aa(lp6481
 S'Kabamba Floors'
-p5902
+p6482
 aS'2006'
-p5903
+p6483
 aS'Flanker'
-p5904
+p6484
 aS'1'
 aS'1'
 aS'0'
@@ -14863,20 +16132,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Oudtshoorn'
-p5905
+p6485
 aVSouth Africa
-p5906
+p6486
 aVWestern Cape
-p5907
+p6487
 aVEden District Municipality
-p5908
-aa(lp5909
+p6488
+aVOudtshoorn
+p6489
+aa(lp6490
 S'Waylon Murray'
-p5910
+p6491
 aS'2007'
-p5911
+p6492
 aS'Centre'
-p5912
+p6493
 aS'3'
 aS'1'
 aS'2'
@@ -14884,91 +16155,99 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p5913
+p6494
 aVSouth Africa
-p5914
+p6495
 aVKwaZulu-Natal
-p5915
+p6496
 aVeThekwini Metropolitan Municipality
-p5916
-aa(lp5917
+p6497
+aVDurban
+p6498
+aa(lp6499
 S'Luke Watson'
-p5918
+p6500
 aS'2007'
-p5919
+p6501
 aS'Back-row'
-p5920
+p6502
 aS'10'
-p5921
+p6503
 aS'7'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
 aS'Port Elizabeth'
-p5922
+p6504
 aVSouth Africa
-p5923
+p6505
 aVEastern Cape
-p5924
+p6506
 aVNelson Mandela Bay Metropolitan Municipality
-p5925
-aa(lp5926
+p6507
+aVPort Elizabeth
+p6508
+aa(lp6509
 S'Jannie du Plessis'
-p5927
+p6510
 aS'2007'
-p5928
+p6511
 aS'Prop'
-p5929
+p6512
 aS'62'
-p5930
+p6513
 aS'44'
-p5931
+p6514
 aS'16'
-p5932
+p6515
 aS'2'
 aS'1'
 aS'5'
 aS'Bethlehem'
-p5933
+p6516
 aVUnited States of America
-p5934
+p6517
 aVpenna
-p5935
+p6518
 aVNorthampton County
-p5936
-aa(lp5937
+p6519
+aVBethlehem
+p6520
+aa(lp6521
 S'Bismarck du Plessis'
-p5938
+p6522
 aS'2007'
-p5939
+p6523
 aS'Hooker'
-p5940
+p6524
 aS'70'
-p5941
+p6525
 aS'51'
-p5942
+p6526
 aS'18'
-p5943
+p6527
 aS'1'
 aS'9'
 aS'45'
-p5944
+p6528
 aS'Bethlehem'
-p5945
+p6529
 aVUnited States of America
-p5946
+p6530
 aVpenna
-p5947
+p6531
 aVNorthampton County
-p5948
-aa(lp5949
+p6532
+aVBethlehem
+p6533
+aa(lp6534
 S'Peter Grant'
-p5950
+p6535
 aS'2007'
-p5951
+p6536
 aS'Fly-half'
-p5952
+p6537
 aS'5'
 aS'2'
 aS'3'
@@ -14976,43 +16255,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p5953
+p6538
 aVSouth Africa
-p5954
+p6539
 aVKwaZulu-Natal
-p5955
+p6540
 aVeThekwini Metropolitan Municipality
-p5956
-aa(lp5957
+p6541
+aVDurban
+p6542
+aa(lp6543
 S'Ryan Kankowski'
-p5958
+p6544
 aS'2007'
-p5959
+p6545
 aS'No. 8'
-p5960
+p6546
 aS'20'
-p5961
+p6547
 aS'10'
-p5962
+p6548
 aS'9'
 aS'1'
 aS'1'
 aS'5'
 aS'Port Elizabeth'
-p5963
+p6549
 aVSouth Africa
-p5964
+p6550
 aVEastern Cape
-p5965
+p6551
 aVNelson Mandela Bay Metropolitan Municipality
-p5966
-aa(lp5967
+p6552
+aVPort Elizabeth
+p6553
+aa(lp6554
 S'Heinke van der Merwe'
-p5968
+p6555
 aS'2007'
-p5969
+p6556
 aS'Prop'
-p5970
+p6557
 aS'4'
 aS'4'
 aS'0'
@@ -15020,112 +16303,120 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p5971
+p6558
 aVSouth Africa
-p5972
+p6559
 aV2001
-p5973
+p6560
 aVGauteng
-p5974
-aa(lp5975
+p6561
+aVCity of Johannesburg Metropolitan Municipality
+p6562
+aa(lp6563
 S'Andries Bekker'
-p5976
+p6564
 aS'2008'
-p5977
+p6565
 aS'Lock'
-p5978
+p6566
 aS'29'
-p5979
+p6567
 aS'18'
-p5980
+p6568
 aS'10'
-p5981
+p6569
 aS'1'
 aS'1'
 aS'5'
 aS'Goodwood'
-p5982
+p6570
 aVSouth Africa
-p5983
+p6571
 aVWestern Cape
-p5984
+p6572
 aVCity of Cape Town
-p5985
-aa(lp5986
+p6573
+aVCape Town
+p6574
+aa(lp6575
 S'Brian Mujati'
-p5987
+p6576
 aS'2008'
-p5988
+p6577
 aS'Prop'
-p5989
+p6578
 aS'12'
-p5990
+p6579
 aS'8'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
 aS'Bulawayo'
-p5991
+p6580
 aVZimbabwe
-p5992
+p6581
 aVBulawayo Province
-p5993
-ag214
-aa(lp5994
+p6582
+ag82
+ag82
+aa(lp6583
 S'Tendai Mtawarira'
-p5995
+p6584
 aS'2008'
-p5996
+p6585
 aS'Prop'
-p5997
+p6586
 aS'64'
-p5998
+p6587
 aS'44'
-p5999
+p6588
 aS'18'
-p6000
+p6589
 aS'2'
 aS'2'
 aS'10'
-p6001
+p6590
 aS'Harare'
-p6002
+p6591
 aVZimbabwe
-p6003
+p6592
 aVHarare Province
-p6004
+p6593
 aVHarare
-p6005
-aa(lp6006
+p6594
+ag82
+aa(lp6595
 S'Odwa Ndungane'
-p6007
+p6596
 aS'2008'
-p6008
+p6597
 aS'Wing'
-p6009
+p6598
 aS'9'
 aS'5'
 aS'4'
 aS'0'
 aS'2'
 aS'10'
-p6010
+p6599
 aS'Transkei'
-p6011
+p6600
 aVSouth Africa
-p6012
+p6601
 aVEastern Cape
-p6013
+p6602
 aVBuffalo City Metropolitan Municipality
-p6014
-aa(lp6015
+p6603
+aVEast London
+p6604
+aa(lp6605
 S'Schalk Brits'
-p6016
+p6606
 aS'2008'
-p6017
+p6607
 aS'Hooker'
-p6018
+p6608
 aS'7'
 aS'6'
 aS'1'
@@ -15133,139 +16424,148 @@ aS'0'
 aS'0'
 aS'0'
 aS'Empangeni'
-p6019
+p6609
 aVSouth Africa
-p6020
+p6610
 aVKwaZulu-Natal
-p6021
+p6611
 aVuThungulu District Municipality
-p6022
-aa(lp6023
+p6612
+aVEmpangeni
+p6613
+aa(lp6614
 S'Adriaan Strauss'
-p6024
+p6615
 aS'2008'
-p6025
+p6616
 aS'Hooker'
-p6026
+p6617
 aS'44'
-p6027
+p6618
 aS'28'
-p6028
+p6619
 aS'14'
-p6029
+p6620
 aS'2'
 aS'5'
 aS'25'
-p6030
+p6621
 aS'Bloemfontein'
-p6031
+p6622
 aVSouth Africa
-p6032
+p6623
 aVFree State
-p6033
+p6624
 aVMangaung Metropolitan Municipality
-p6034
-aa(lp6035
+p6625
+aVBloemfontein
+p6626
+aa(lp6627
 S'Jongi Nokwe'
-p6036
+p6628
 aS'2008'
-p6037
+p6629
 aS'Wing'
-p6038
+p6630
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'5'
 aS'25'
-p6039
+p6631
 aS'Eastern Cape'
-p6040
+p6632
 aVSouth Africa
-p6041
+p6633
 aVEastern Cape
-p6042
-ag214
-aa(lp6043
+p6634
+ag82
+ag82
+aa(lp6635
 S'Heinrich Brussow'
-p6044
+p6636
 aS'2008'
-p6045
+p6637
 aS'Flanker'
-p6046
+p6638
 aS'20'
-p6047
+p6639
 aS'14'
-p6048
+p6640
 aS'6'
 aS'0'
 aS'1'
 aS'5'
 aS'Bloemfontein'
-p6049
+p6641
 aVSouth Africa
-p6050
+p6642
 aVFree State
-p6051
+p6643
 aVMangaung Metropolitan Municipality
-p6052
-aa(lp6053
+p6644
+aVBloemfontein
+p6645
+aa(lp6646
 S'Morne Steyn'
-p6054
+p6647
 aS'2009'
-p6055
+p6648
 aS'Fly-half'
-p6056
+p6649
 aS'59'
-p6057
+p6650
 aS'38'
-p6058
+p6651
 aS'19'
-p6059
+p6652
 aS'2'
 aS'8'
 aS'688'
-p6060
+p6653
 aS'Bellville'
-p6061
+p6654
 aVUnited States of America
-p6062
+p6655
 aVTexas
-p6063
+p6656
 aVBellville
-p6064
-aa(lp6065
+p6657
+ag82
+aa(lp6658
 S'Zane Kirchner'
-p6066
+p6659
 aS'2009'
-p6067
+p6660
 aS'Wing, Fullback'
-p6068
+p6661
 aS'29'
-p6069
+p6662
 aS'16'
-p6070
+p6663
 aS'12'
-p6071
+p6664
 aS'1'
 aS'5'
 aS'25'
-p6072
+p6665
 aS'George'
-p6073
+p6666
 aVUnited States of America
-p6074
+p6667
 aVMississippi
-p6075
+p6668
 aVGeorge
-p6076
-aa(lp6077
+p6669
+ag82
+aa(lp6670
 S'Wian du Preez'
-p6078
+p6671
 aS'2009'
-p6079
+p6672
 aS'Prop'
-p6080
+p6673
 aS'1'
 aS'1'
 aS'0'
@@ -15273,20 +16573,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bloemfontein'
-p6081
+p6674
 aVSouth Africa
-p6082
+p6675
 aVFree State
-p6083
+p6676
 aVMangaung Metropolitan Municipality
-p6084
-aa(lp6085
+p6677
+aVBloemfontein
+p6678
+aa(lp6679
 S'Jean Deysel'
-p6086
+p6680
 aS'2009'
-p6087
+p6681
 aS'Back-row'
-p6088
+p6682
 aS'4'
 aS'1'
 aS'3'
@@ -15294,44 +16596,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Virginia'
-p6089
+p6683
 aVUnited States of America
-p6090
+p6684
 aVVirginia
-p6091
-ag214
-aa(lp6092
+p6685
+ag82
+ag82
+aa(lp6686
 S'Francois Hougaard'
-p6093
+p6687
 aS'2009'
-p6094
+p6688
 aS'Scrum-half'
-p6095
+p6689
 aS'35'
-p6096
+p6690
 aS'21'
-p6097
+p6691
 aS'12'
-p6098
+p6692
 aS'2'
 aS'5'
 aS'25'
-p6099
+p6693
 aS'Paarl'
-p6100
+p6694
 aVSouth Africa
-p6101
+p6695
 aVWestern Cape
-p6102
+p6696
 aVCape Winelands District Municipality
-p6103
-aa(lp6104
+p6697
+aVPaarl
+p6698
+aa(lp6699
 S'Dewald Potgieter'
-p6105
+p6700
 aS'2009'
-p6106
+p6701
 aS'Back-row'
-p6107
+p6702
 aS'6'
 aS'4'
 aS'2'
@@ -15339,114 +16644,124 @@ aS'0'
 aS'1'
 aS'5'
 aS'Port Elizabeth'
-p6108
+p6703
 aVSouth Africa
-p6109
+p6704
 aVEastern Cape
-p6110
+p6705
 aVNelson Mandela Bay Metropolitan Municipality
-p6111
-aa(lp6112
+p6706
+aVPort Elizabeth
+p6707
+aa(lp6708
 S'Gio Aplon'
-p6113
+p6709
 aS'2010'
-p6114
+p6710
 aS'Fullback'
-p6115
+p6711
 aS'17'
-p6116
+p6712
 aS'8'
 aS'8'
 aS'1'
 aS'5'
 aS'25'
-p6117
+p6713
 aS'Hermanus'
-p6118
+p6714
 aVSouth Africa
-p6119
+p6715
 aVWestern Cape
-p6120
+p6716
 aVOverberg District Municipality
-p6121
-aa(lp6122
+p6717
+aVHermanus
+p6718
+aa(lp6719
 S'Juan de Jongh'
-p6123
+p6720
 aS'2010'
-p6124
+p6721
 aS'Centre'
-p6125
+p6722
 aS'14'
-p6126
+p6723
 aS'9'
 aS'5'
 aS'0'
 aS'3'
 aS'15'
-p6127
+p6724
 aS'Paarl'
-p6128
+p6725
 aVSouth Africa
-p6129
+p6726
 aVWestern Cape
-p6130
+p6727
 aVCape Winelands District Municipality
-p6131
-aa(lp6132
+p6728
+aVPaarl
+p6729
+aa(lp6730
 S'Francois Louw'
-p6133
+p6731
 aS'2010'
-p6134
+p6732
 aS'Flanker'
-p6135
+p6733
 aS'34'
-p6136
+p6734
 aS'23'
-p6137
+p6735
 aS'11'
-p6138
+p6736
 aS'0'
 aS'5'
 aS'25'
-p6139
+p6737
 aS'Cape Town'
-p6140
+p6738
 aVSouth Africa
-p6141
+p6739
 aVWestern Cape
-p6142
+p6740
 aVCity of Cape Town
-p6143
-aa(lp6144
+p6741
+aVCape Town
+p6742
+aa(lp6743
 S'Bjorn Basson'
-p6145
+p6744
 aS'2010'
-p6146
+p6745
 aS'Wing'
-p6147
+p6746
 aS'11'
-p6148
+p6747
 aS'9'
 aS'2'
 aS'0'
 aS'3'
 aS'15'
-p6149
+p6748
 aS"King William's Town"
-p6150
+p6749
 aVSouth Africa
-p6151
+p6750
 aVEastern Cape
-p6152
+p6751
 aVBuffalo City Metropolitan Municipality
-p6153
-aa(lp6154
+p6752
+aVKing William's Town
+p6753
+aa(lp6754
 S'Alistair Hargreaves'
-p6155
+p6755
 aS'2010'
-p6156
+p6756
 aS'Lock'
-p6157
+p6757
 aS'4'
 aS'2'
 aS'2'
@@ -15454,43 +16769,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p6158
+p6758
 aVSouth Africa
-p6159
+p6759
 aVKwaZulu-Natal
-p6160
+p6760
 aVeThekwini Metropolitan Municipality
-p6161
-aa(lp6162
+p6761
+aVDurban
+p6762
+aa(lp6763
 S'Flip van der Merwe'
-p6163
+p6764
 aS'2010'
-p6164
+p6765
 aS'Lock'
-p6165
+p6766
 aS'35'
-p6166
+p6767
 aS'24'
-p6167
+p6768
 aS'9'
 aS'2'
 aS'1'
 aS'5'
 aS'Potchefstroom'
-p6168
+p6769
 aVSouth Africa
-p6169
+p6770
 aVNorth West
-p6170
+p6771
 aVDr Kenneth Kaunda District Municipality
-p6171
-aa(lp6172
+p6772
+aVPotchefstroom
+p6773
+aa(lp6774
 S'Bandise Maku'
-p6173
+p6775
 aS'2010'
-p6174
+p6776
 aS'Hooker'
-p6175
+p6777
 aS'1'
 aS'1'
 aS'0'
@@ -15498,20 +16817,22 @@ aS'0'
 aS'0'
 aS'0'
 aS"King William's Town"
-p6176
+p6778
 aVSouth Africa
-p6177
+p6779
 aVEastern Cape
-p6178
+p6780
 aVBuffalo City Metropolitan Municipality
-p6179
-aa(lp6180
+p6781
+aVKing William's Town
+p6782
+aa(lp6783
 S'Deon Stegmann'
-p6181
+p6784
 aS'2010'
-p6182
+p6785
 aS'Flanker'
-p6183
+p6786
 aS'6'
 aS'3'
 aS'3'
@@ -15519,20 +16840,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cradock'
-p6184
+p6787
 aVSouth Africa
-p6185
+p6788
 aVEastern Cape
-p6186
+p6789
 aVChris Hani District Municipality
-p6187
-aa(lp6188
+p6790
+aVCradock
+p6791
+aa(lp6792
 S'Keegan Daniel'
-p6189
+p6793
 aS'2010'
-p6190
+p6794
 aS'Back-row'
-p6191
+p6795
 aS'5'
 aS'4'
 aS'0'
@@ -15540,89 +16863,96 @@ aS'1'
 aS'0'
 aS'0'
 aS'Humansdorp'
-p6192
+p6796
 aVSouth Africa
-p6193
+p6797
 aVEastern Cape
-p6194
+p6798
 aVSarah Baartman District Municipality
-p6195
-aa(lp6196
+p6799
+aVHumansdorp
+p6800
+aa(lp6801
 S'Patrick Lambie'
-p6197
+p6802
 aS'2010'
-p6198
+p6803
 aS'Fly-half'
-p6199
+p6804
 aS'40'
-p6200
+p6805
 aS'27'
-p6201
+p6806
 aS'13'
-p6202
+p6807
 aS'0'
 aS'2'
 aS'106'
-p6203
+p6808
 aS'Durban'
-p6204
+p6809
 aVSouth Africa
-p6205
+p6810
 aVKwaZulu-Natal
-p6206
+p6811
 aVeThekwini Metropolitan Municipality
-p6207
-aa(lp6208
+p6812
+aVDurban
+p6813
+aa(lp6814
 S'Willem Alberts'
-p6209
+p6815
 aS'2010'
-p6210
+p6816
 aS'Back-row'
-p6211
+p6817
 aS'32'
-p6212
+p6818
 aS'24'
-p6213
+p6819
 aS'7'
 aS'1'
 aS'7'
 aS'35'
-p6214
+p6820
 aS'Pretoria'
-p6215
+p6821
 aVSouth Africa
-p6216
+p6822
 aVGauteng
-p6217
+p6823
 aVCity of Tshwane Metropolitan Municipality
-p6218
-aa(lp6219
+p6824
+aVPretoria
+p6825
+aa(lp6826
 S'Lwazi Mvovo'
-p6220
+p6827
 aS'2010'
-p6221
+p6828
 aS'Wing'
-p6222
+p6829
 aS'10'
-p6223
+p6830
 aS'4'
 aS'5'
 aS'1'
 aS'3'
 aS'15'
-p6224
+p6831
 aS'Umtala'
-p6225
+p6832
 aS'g'
 aS'n'
 aS'i'
-aa(lp6226
+aS's'
+aa(lp6833
 S'Dean Greyling'
-p6227
+p6834
 aS'2011'
-p6228
+p6835
 aS'Prop'
-p6229
+p6836
 aS'3'
 aS'0'
 aS'3'
@@ -15630,20 +16960,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Potgietersrus'
-p6230
+p6837
 aVSouth Africa
-p6231
+p6838
 aVLimpopo
-p6232
+p6839
 aVWaterberg District Municipality
-p6233
-aa(lp6234
+p6840
+aVMokopane
+p6841
+aa(lp6842
 S'Ashley Johnson'
-p6235
+p6843
 aS'2011'
-p6236
+p6844
 aS'Back-row'
-p6237
+p6845
 aS'3'
 aS'1'
 aS'2'
@@ -15651,20 +16983,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wynberg'
-p6238
+p6846
 aVSouth Africa
-p6239
+p6847
 aVWestern Cape
-p6240
+p6848
 aVCity of Cape Town
-p6241
-aa(lp6242
+p6849
+aVCape Town
+p6850
+aa(lp6851
 S'Werner Kruger'
-p6243
+p6852
 aS'2011'
-p6244
+p6853
 aS'Prop'
-p6245
+p6854
 aS'4'
 aS'1'
 aS'2'
@@ -15672,20 +17006,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kempton Park'
-p6246
+p6855
 aVUnited Kingdom
-p6247
+p6856
 aVTW16 5AQ
-p6248
+p6857
 aVEngland
-p6249
-aa(lp6250
+p6858
+aVSouth East
+p6859
+aa(lp6860
 S'Gerhard Mostert'
-p6251
+p6861
 aS'2011'
-p6252
+p6862
 aS'Lock'
-p6253
+p6863
 aS'2'
 aS'0'
 aS'2'
@@ -15693,20 +17029,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rustenburg'
-p6254
+p6864
 aVSouth Africa
-p6255
+p6865
 aVNorth West
-p6256
+p6866
 aVBojanala Platinum District Municipality
-p6257
-aa(lp6258
+p6867
+aVRustenburg
+p6868
+aa(lp6869
 S'Charl McLeod'
-p6259
+p6870
 aS'2011'
-p6260
+p6871
 aS'Scrum-half'
-p6261
+p6872
 aS'1'
 aS'0'
 aS'1'
@@ -15714,114 +17052,124 @@ aS'0'
 aS'0'
 aS'0'
 aS'Johannesburg'
-p6262
+p6873
 aVSouth Africa
-p6263
+p6874
 aV2001
-p6264
+p6875
 aVGauteng
-p6265
-aa(lp6266
+p6876
+aVCity of Johannesburg Metropolitan Municipality
+p6877
+aa(lp6878
 S'Marcell Coetzee'
-p6267
+p6879
 aS'2012'
-p6268
+p6880
 aS'Flanker'
-p6269
+p6881
 aS'26'
-p6270
+p6882
 aS'17'
-p6271
+p6883
 aS'7'
 aS'2'
 aS'6'
 aS'30'
-p6272
+p6884
 aS'Potchefstroom'
-p6273
+p6885
 aVSouth Africa
-p6274
+p6886
 aVNorth West
-p6275
+p6887
 aVDr Kenneth Kaunda District Municipality
-p6276
-aa(lp6277
+p6888
+aVPotchefstroom
+p6889
+aa(lp6890
 S'Eben Etzebeth'
-p6278
+p6891
 aS'2012'
-p6279
+p6892
 aS'Lock'
-p6280
+p6893
 aS'33'
-p6281
+p6894
 aS'23'
-p6282
+p6895
 aS'8'
 aS'2'
 aS'0'
 aS'0'
 aS'Cape Town'
-p6283
+p6896
 aVSouth Africa
-p6284
+p6897
 aVWestern Cape
-p6285
+p6898
 aVCity of Cape Town
-p6286
-aa(lp6287
+p6899
+aVCape Town
+p6900
+aa(lp6901
 S'Juandre Kruger'
-p6288
+p6902
 aS'2012'
-p6289
+p6903
 aS'Lock'
-p6290
+p6904
 aS'17'
-p6291
+p6905
 aS'12'
-p6292
+p6906
 aS'4'
 aS'1'
 aS'0'
 aS'0'
 aS'Cape Town'
-p6293
+p6907
 aVSouth Africa
-p6294
+p6908
 aVWestern Cape
-p6295
+p6909
 aVCity of Cape Town
-p6296
-aa(lp6297
+p6910
+aVCape Town
+p6911
+aa(lp6912
 S'Coenie Oosthuizen'
-p6298
+p6913
 aS'2012'
-p6299
+p6914
 aS'Prop'
-p6300
+p6915
 aS'21'
-p6301
+p6916
 aS'16'
-p6302
+p6917
 aS'5'
 aS'0'
 aS'3'
 aS'15'
-p6303
+p6918
 aS'Potchefstroom'
-p6304
+p6919
 aVSouth Africa
-p6305
+p6920
 aVNorth West
-p6306
+p6921
 aVDr Kenneth Kaunda District Municipality
-p6307
-aa(lp6308
+p6922
+aVPotchefstroom
+p6923
+aa(lp6924
 S'Jacques Potgieter'
-p6309
+p6925
 aS'2012'
-p6310
+p6926
 aS'Lock'
-p6311
+p6927
 aS'3'
 aS'1'
 aS'0'
@@ -15829,20 +17177,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Port Elizabeth'
-p6312
+p6928
 aVSouth Africa
-p6313
+p6929
 aVEastern Cape
-p6314
+p6930
 aVNelson Mandela Bay Metropolitan Municipality
-p6315
-aa(lp6316
+p6931
+aVPort Elizabeth
+p6932
+aa(lp6933
 S'Pat Cilliers'
-p6317
+p6934
 aS'2012'
-p6318
+p6935
 aS'Prop'
-p6319
+p6936
 aS'6'
 aS'4'
 aS'1'
@@ -15850,44 +17200,48 @@ aS'1'
 aS'0'
 aS'0'
 aS'Pietermaritzburg'
-p6320
+p6937
 aVSouth Africa
-p6321
+p6938
 aVKwaZulu-Natal
-p6322
+p6939
 aVuMgungundlovu District Municipality
-p6323
-aa(lp6324
+p6940
+aVPietermaritzburg
+p6941
+aa(lp6942
 S'JJ Engelbrecht'
-p6325
+p6943
 aS'2012'
-p6326
+p6944
 aS'Centre'
-p6327
+p6945
 aS'12'
-p6328
+p6946
 aS'10'
-p6329
+p6947
 aS'2'
 aS'0'
 aS'4'
 aS'20'
-p6330
+p6948
 aS'Port Elizabeth'
-p6331
+p6949
 aVSouth Africa
-p6332
+p6950
 aVEastern Cape
-p6333
+p6951
 aVNelson Mandela Bay Metropolitan Municipality
-p6334
-aa(lp6335
+p6952
+aVPort Elizabeth
+p6953
+aa(lp6954
 S'Tiaan Liebenberg'
-p6336
+p6955
 aS'2012'
-p6337
+p6956
 aS'Hooker'
-p6338
+p6957
 aS'5'
 aS'1'
 aS'3'
@@ -15895,44 +17249,48 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kimberley'
-p6339
+p6958
 aVSouth Africa
-p6340
+p6959
 aVNorthern Cape
-p6341
+p6960
 aVFrances Baard District Municipality
-p6342
-aa(lp6343
+p6961
+aVKimberley
+p6962
+aa(lp6963
 S'Duane Vermeulen'
-p6344
+p6964
 aS'2012'
-p6345
+p6965
 aS'No. 8'
-p6346
+p6966
 aS'29'
-p6347
+p6967
 aS'20'
-p6348
+p6968
 aS'9'
 aS'0'
 aS'2'
 aS'10'
-p6349
+p6969
 aS'Nelspruit'
-p6350
+p6970
 aVSouth Africa
-p6351
+p6971
 aVMpumalanga
-p6352
+p6972
 aVEhlanzeni District Municipality
-p6353
-aa(lp6354
+p6973
+aVNelspruit
+p6974
+aa(lp6975
 S'Johan Goosen'
-p6355
+p6976
 aS'2012'
-p6356
+p6977
 aS'Fly-half'
-p6357
+p6978
 aS'6'
 aS'3'
 aS'3'
@@ -15940,20 +17298,22 @@ aS'0'
 aS'0'
 aS'8'
 aS'Burgersdorp'
-p6358
+p6979
 aVSouth Africa
-p6359
+p6980
 aVEastern Cape
-p6360
+p6981
 aVJoe Gqabi District Municipality
-p6361
-aa(lp6362
+p6982
+aVBurgersdorp
+p6983
+aa(lp6984
 S'Jaco Taute'
-p6363
+p6985
 aS'2012'
-p6364
+p6986
 aS'Fullback'
-p6365
+p6987
 aS'3'
 aS'2'
 aS'1'
@@ -15961,20 +17321,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Springs'
-p6366
+p6988
 aVUnited States of America
-p6367
+p6989
 aVNew York
-p6368
+p6990
 aVSuffolk County
-p6369
-aa(lp6370
+p6991
+aVSprings
+p6992
+aa(lp6993
 S'Elton Jantjies'
-p6371
+p6994
 aS'2012'
-p6372
+p6995
 aS'Fly-half'
-p6373
+p6996
 aS'2'
 aS'1'
 aS'1'
@@ -15982,20 +17344,22 @@ aS'0'
 aS'0'
 aS'6'
 aS'Graaff Reinet'
-p6374
+p6997
 aVSouth Africa
-p6375
+p6998
 aVEastern Cape
-p6376
+p6999
 aVSarah Baartman District Municipality
-p6377
-aa(lp6378
+p7000
+aVGraaff-Reinet
+p7001
+aa(lp7002
 S'Arno Botha'
-p6379
+p7003
 aS'2013'
-p6380
+p7004
 aS'Flanker'
-p6381
+p7005
 aS'2'
 aS'2'
 aS'0'
@@ -16003,44 +17367,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Modimolle'
-p6382
+p7006
 aVSouth Africa
-p6383
+p7007
 aVLimpopo
-p6384
+p7008
 aVWaterberg District Municipality
-p6385
-aa(lp6386
+p7009
+aVModimolle
+p7010
+aa(lp7011
 S'Willie le Roux'
-p6387
+p7012
 aS'2013'
-p6388
+p7013
 aS'Fullback'
-p6389
+p7014
 aS'25'
-p6390
+p7015
 aS'19'
-p6391
+p7016
 aS'6'
 aS'0'
 aS'7'
 aS'35'
-p6392
+p7017
 aS'Cape Town'
-p6393
+p7018
 aVSouth Africa
-p6394
+p7019
 aVWestern Cape
-p6395
+p7020
 aVCity of Cape Town
-p6396
-aa(lp6397
+p7021
+aVCape Town
+p7022
+aa(lp7023
 S'Jano Vermaak'
-p6398
+p7024
 aS'2013'
-p6399
+p7025
 aS'Scrum-half'
-p6400
+p7026
 aS'3'
 aS'2'
 aS'1'
@@ -16048,88 +17416,96 @@ aS'0'
 aS'0'
 aS'0'
 aS'Graaff-Reinet'
-p6401
+p7027
 aVSouth Africa
-p6402
+p7028
 aVEastern Cape
-p6403
+p7029
 aVSarah Baartman District Municipality
-p6404
-aa(lp6405
+p7030
+aVGraaff-Reinet
+p7031
+aa(lp7032
 S'Trevor Nyakane'
-p6406
+p7033
 aS'2013'
-p6407
+p7034
 aS'Prop'
-p6408
+p7035
 aS'13'
-p6409
+p7036
 aS'9'
 aS'4'
 aS'0'
 aS'1'
 aS'5'
 aS'Bushbuck Ridge'
-p6410
+p7037
 aVSouth Africa
-p6411
+p7038
 aV3610
-p6412
+p7039
 aVKwaZulu-Natal
-p6413
-aa(lp6414
+p7040
+aVeThekwini Metropolitan Municipality
+p7041
+aa(lp7042
 S'Jan Serfontein'
-p6415
+p7043
 aS'2013'
-p6416
+p7044
 aS'Centre'
-p6417
+p7045
 aS'20'
-p6418
+p7046
 aS'14'
-p6419
+p7047
 aS'6'
 aS'0'
 aS'2'
 aS'10'
-p6420
+p7048
 aS'Port Elizabeth'
-p6421
+p7049
 aVSouth Africa
-p6422
+p7050
 aVEastern Cape
-p6423
+p7051
 aVNelson Mandela Bay Metropolitan Municipality
-p6424
-aa(lp6425
+p7052
+aVPort Elizabeth
+p7053
+aa(lp7054
 S'Siya Kolisi'
-p6426
+p7055
 aS'2013'
-p6427
+p7056
 aS'Flanker'
-p6428
+p7057
 aS'10'
-p6429
+p7058
 aS'8'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
 aS'Port Elizabeth'
-p6430
+p7059
 aVSouth Africa
-p6431
+p7060
 aVEastern Cape
-p6432
+p7061
 aVNelson Mandela Bay Metropolitan Municipality
-p6433
-aa(lp6434
+p7062
+aVPort Elizabeth
+p7063
+aa(lp7064
 S'Piet van Zyl'
-p6435
+p7065
 aS'2013'
-p6436
+p7066
 aS'Scrum-half'
-p6437
+p7067
 aS'2'
 aS'2'
 aS'0'
@@ -16137,20 +17513,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p6438
+p7068
 aVSouth Africa
-p6439
+p7069
 aVGauteng
-p6440
+p7070
 aVCity of Tshwane Metropolitan Municipality
-p6441
-aa(lp6442
+p7071
+aVPretoria
+p7072
+aa(lp7073
 S'Franco van der Merwe'
-p6443
+p7074
 aS'2013'
-p6444
+p7075
 aS'Lock'
-p6445
+p7076
 aS'1'
 aS'0'
 aS'1'
@@ -16158,20 +17536,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Paarl'
-p6446
+p7077
 aVSouth Africa
-p6447
+p7078
 aVWestern Cape
-p6448
+p7079
 aVCape Winelands District Municipality
-p6449
-aa(lp6450
+p7080
+aVPaarl
+p7081
+aa(lp7082
 S'Frans Malherbe'
-p6451
+p7083
 aS'2013'
-p6452
+p7084
 aS'Prop'
-p6453
+p7085
 aS'4'
 aS'4'
 aS'0'
@@ -16179,20 +17559,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Paarl'
-p6454
+p7086
 aVSouth Africa
-p6455
+p7087
 aVWestern Cape
-p6456
+p7088
 aVCape Winelands District Municipality
-p6457
-aa(lp6458
+p7089
+aVPaarl
+p7090
+aa(lp7091
 S'Pieter-Steph du Toit'
-p6459
+p7092
 aS'2013'
-p6460
+p7093
 aS'Lock'
-p6461
+p7094
 aS'2'
 aS'2'
 aS'0'
@@ -16200,20 +17582,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p6462
+p7095
 aVSouth Africa
-p6463
+p7096
 aVWestern Cape
-p6464
+p7097
 aVCity of Cape Town
-p6465
-aa(lp6466
+p7098
+aVCape Town
+p7099
+aa(lp7100
 S'Lourens Adriaanse'
-p6467
+p7101
 aS'2013'
-p6468
+p7102
 aS'Prop'
-p6469
+p7103
 aS'1'
 aS'1'
 aS'0'
@@ -16221,87 +17605,95 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p6470
+p7104
 aVSouth Africa
-p6471
+p7105
 aVWestern Cape
-p6472
+p7106
 aVCity of Cape Town
-p6473
-aa(lp6474
+p7107
+aVCape Town
+p7108
+aa(lp7109
 S'Cornal Hendricks'
-p6475
+p7110
 aS'2014'
-p6476
+p7111
 aS'Wing'
-p6477
+p7112
 aS'11'
-p6478
+p7113
 aS'7'
 aS'4'
 aS'0'
 aS'5'
 aS'25'
-p6479
+p7114
 aS'Paarl'
-p6480
+p7115
 aVSouth Africa
-p6481
+p7116
 aVWestern Cape
-p6482
+p7117
 aVCape Winelands District Municipality
-p6483
-aa(lp6484
+p7118
+aVPaarl
+p7119
+aa(lp7120
 S'Lood de Jager'
-p6485
+p7121
 aS'2014'
-p6486
+p7122
 aS'Lock'
-p6487
+p7123
 aS'9'
 aS'6'
 aS'3'
 aS'0'
 aS'2'
 aS'10'
-p6488
+p7124
 aS'Alberton'
-p6489
+p7125
 aVCanada
-p6490
+p7126
 aVPrince Edward Island
-p6491
+p7127
 aVPrince County
-p6492
-aa(lp6493
+p7128
+aVAlberton
+p7129
+aa(lp7130
 S'Handre Pollard'
-p6494
+p7131
 aS'2014'
-p6495
+p7132
 aS'Fly-half'
-p6496
+p7133
 aS'9'
 aS'6'
 aS'3'
 aS'0'
 aS'2'
 aS'65'
-p6497
+p7134
 aS'Somerset West'
-p6498
+p7135
 aVSouth Africa
-p6499
+p7136
 aVWestern Cape
-p6500
+p7137
 aVCity of Cape Town
-p6501
-aa(lp6502
+p7138
+aVSomerset West
+p7139
+aa(lp7140
 S'Marnitz Boshoff'
-p6503
+p7141
 aS'2014'
-p6504
+p7142
 aS'Utility back'
-p6505
+p7143
 aS'1'
 aS'1'
 aS'0'
@@ -16309,20 +17701,22 @@ aS'0'
 aS'0'
 aS'2'
 aS'Nelspruit'
-p6506
+p7144
 aVSouth Africa
-p6507
+p7145
 aVMpumalanga
-p6508
+p7146
 aVEhlanzeni District Municipality
-p6509
-aa(lp6510
+p7147
+aVNelspruit
+p7148
+aa(lp7149
 S'Stephan Lewies'
-p6511
+p7150
 aS'2014'
-p6512
+p7151
 aS'Lock'
-p6513
+p7152
 aS'1'
 aS'1'
 aS'0'
@@ -16330,20 +17724,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p6514
+p7153
 aVSouth Africa
-p6515
+p7154
 aVGauteng
-p6516
+p7155
 aVCity of Tshwane Metropolitan Municipality
-p6517
-aa(lp6518
+p7156
+aVPretoria
+p7157
+aa(lp7158
 S'Oupa Mohoje'
-p6519
+p7159
 aS'2014'
-p6520
+p7160
 aS'Flanker'
-p6521
+p7161
 aS'7'
 aS'5'
 aS'2'
@@ -16351,20 +17747,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Qwa Qwa'
-p6522
+p7162
 aVSouth Africa
-p6523
+p7163
 aVGauteng
-p6524
+p7164
 aVSedibeng District Municipality
-p6525
-aa(lp6526
+p7165
+aVEmfuleni Local Municipality
+p7166
+aa(lp7167
 S'Marcel van der Merwe'
-p6527
+p7168
 aS'2014'
-p6528
+p7169
 aS'Prop'
-p6529
+p7170
 aS'5'
 aS'3'
 aS'2'
@@ -16372,20 +17770,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Welkom'
-p6530
+p7171
 aVSouth Africa
-p6531
+p7172
 aVFree State
-p6532
+p7173
 aVLejweleputswa District Municipality
-p6533
-aa(lp6534
+p7174
+aVWelkom
+p7175
+aa(lp7176
 S'Damian de Allende'
-p6535
+p7177
 aS'2014'
-p6536
+p7178
 aS'Centre'
-p6537
+p7179
 aS'3'
 aS'2'
 aS'1'
@@ -16393,20 +17793,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p6538
+p7180
 aVSouth Africa
-p6539
+p7181
 aVWestern Cape
-p6540
+p7182
 aVCity of Cape Town
-p6541
-aa(lp6542
+p7183
+aVCape Town
+p7184
+aa(lp7185
 S'Warren Whiteley'
-p6543
+p7186
 aS'2014'
-p6544
+p7187
 aS'No. 8'
-p6545
+p7188
 aS'2'
 aS'0'
 aS'2'
@@ -16414,42 +17816,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p6546
+p7189
 aVSouth Africa
-p6547
+p7190
 aVKwaZulu-Natal
-p6548
+p7191
 aVeThekwini Metropolitan Municipality
-p6549
-aa(lp6550
+p7192
+aVDurban
+p7193
+aa(lp7194
 S'Cobus Reinach'
-p6551
+p7195
 aS'2014'
-p6552
+p7196
 aS'Scrum-half'
-p6553
+p7197
 aS'6'
 aS'4'
 aS'2'
 aS'0'
 aS'2'
 aS'10'
-p6554
+p7198
 aS'Bloemfontein'
-p6555
+p7199
 aVSouth Africa
-p6556
+p7200
 aVFree State
-p6557
+p7201
 aVMangaung Metropolitan Municipality
-p6558
-aa(lp6559
+p7202
+aVBloemfontein
+p7203
+aa(lp7204
 S'Nizaam Carr'
-p6560
+p7205
 aS'2014'
-p6561
+p7206
 aS'Back-row'
-p6562
+p7207
 aS'2'
 aS'1'
 aS'1'
@@ -16457,20 +17863,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cape Town'
-p6563
+p7208
 aVSouth Africa
-p6564
+p7209
 aVWestern Cape
-p6565
+p7210
 aVCity of Cape Town
-p6566
-aa(lp6567
+p7211
+aVCape Town
+p7212
+aa(lp7213
 S'Julian Redelinghuys'
-p6568
+p7214
 aS'2014'
-p6569
+p7215
 aS'Prop'
-p6570
+p7216
 aS'2'
 aS'1'
 aS'1'
@@ -16478,11 +17886,13 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pretoria'
-p6571
+p7217
 aVSouth Africa
-p6572
+p7218
 aVGauteng
-p6573
+p7219
 aVCity of Tshwane Metropolitan Municipality
-p6574
+p7220
+aVPretoria
+p7221
 aa.

@@ -16,6 +16,7 @@ p5
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp6
 S'Aitofele'
 p7
@@ -33,6 +34,7 @@ p9
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp10
 S'T. Allen'
 p11
@@ -50,6 +52,7 @@ p13
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp14
 S'Atiga'
 p15
@@ -67,6 +70,7 @@ p17
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp18
 S'C.H. Capper'
 p19
@@ -85,6 +89,7 @@ p22
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp23
 S'I. Imo'
 p24
@@ -102,6 +107,7 @@ p26
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp27
 S'Iupati'
 p28
@@ -119,6 +125,7 @@ p30
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp31
 S'A. Macdonald'
 p32
@@ -136,6 +143,7 @@ p34
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp35
 S'H. Moors'
 p36
@@ -153,6 +161,7 @@ p38
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp39
 S"P. Papali'i"
 p40
@@ -170,6 +179,7 @@ p42
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp43
 S'I. Railey'
 p44
@@ -187,6 +197,7 @@ p46
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp47
 S"E. Sa'aga"
 p48
@@ -204,6 +215,7 @@ p50
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp51
 S'Sinaumea'
 p52
@@ -221,6 +233,7 @@ p54
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp55
 S'Toni'
 p56
@@ -238,6 +251,7 @@ p58
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp59
 S'Tualai'
 p60
@@ -255,6 +269,7 @@ p62
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp63
 S'Tagimanu'
 p64
@@ -272,6 +287,7 @@ p66
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp67
 S'Tufele'
 p68
@@ -289,6 +305,7 @@ p70
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp71
 S'Ah Sue'
 p72
@@ -306,6 +323,7 @@ p74
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp75
 S'Filivaa'
 p76
@@ -323,6 +341,7 @@ p78
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp79
 S'Iese'
 p80
@@ -340,6 +359,7 @@ p82
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp83
 S'Latai'
 p84
@@ -357,6 +377,7 @@ p86
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp87
 S'Lui'
 p88
@@ -374,6 +395,7 @@ p90
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp91
 S'Manulua'
 p92
@@ -391,6 +413,7 @@ p94
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp95
 S'C. Meredith'
 p96
@@ -408,6 +431,7 @@ p98
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp99
 S'Moli'
 p100
@@ -425,6 +449,7 @@ p102
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp103
 S'Pio'
 p104
@@ -442,6 +467,7 @@ p106
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp107
 S'Poutoa'
 p108
@@ -459,6 +485,7 @@ p110
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp111
 S'Siaosi'
 p112
@@ -476,6 +503,7 @@ p114
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp115
 S'Simaile'
 p116
@@ -493,6 +521,7 @@ p118
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp119
 S'Simanu'
 p120
@@ -510,6 +539,7 @@ p122
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp123
 S'Tuvale'
 p124
@@ -527,6 +557,7 @@ p126
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp127
 S"A'ati"
 p128
@@ -544,6 +575,7 @@ p130
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp131
 S'Ah Mu'
 p132
@@ -561,6 +593,7 @@ p134
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp135
 S'Fruean'
 p136
@@ -578,6 +611,7 @@ p138
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp139
 S'Hellesoe'
 p140
@@ -595,6 +629,7 @@ p142
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp143
 S'Mose'
 p144
@@ -612,6 +647,7 @@ p146
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp147
 S'Panapa'
 p148
@@ -629,6 +665,7 @@ p150
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp151
 S'Petelo'
 p152
@@ -646,6 +683,7 @@ p154
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp155
 S'Sefo'
 p156
@@ -663,6 +701,7 @@ p158
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp159
 S'Tamalua'
 p160
@@ -680,6 +719,7 @@ p162
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp163
 S'Visesio'
 p164
@@ -697,6 +737,7 @@ p166
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp167
 S'S. Ah Fook'
 p168
@@ -714,6 +755,7 @@ p170
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp171
 S'K. Ese'
 p172
@@ -731,6 +773,7 @@ p174
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp175
 S"Fa'amaile"
 p176
@@ -748,6 +791,7 @@ p178
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp179
 S"F. Fa'asuaga"
 p180
@@ -765,6 +809,7 @@ p182
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp183
 S'Fatu'
 p184
@@ -782,6 +827,7 @@ p186
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp187
 S'S. Fretton'
 p188
@@ -799,6 +845,7 @@ p190
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp191
 S'S. Iuta'
 p192
@@ -816,6 +863,7 @@ p194
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp195
 S"M. Mata'afa"
 p196
@@ -833,6 +881,7 @@ p198
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp199
 S'O. Meredith'
 p200
@@ -850,6 +899,7 @@ p202
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp203
 S'J. Schaafhausen'
 p204
@@ -867,6 +917,7 @@ p206
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp207
 S'W. Schaafhausen'
 p208
@@ -884,6 +935,7 @@ p210
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp211
 S'A. Teo'
 p212
@@ -901,6 +953,7 @@ p214
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp215
 S'T. Tuisaula'
 p216
@@ -918,6 +971,7 @@ p218
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp219
 S'T. Viliamu'
 p220
@@ -935,6 +989,7 @@ p222
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp223
 S'C. Betham'
 p224
@@ -952,6 +1007,7 @@ p226
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp227
 S'J. Cavanagh'
 p228
@@ -969,6 +1025,7 @@ p230
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp231
 S'O. Crichton'
 p232
@@ -986,6 +1043,7 @@ p234
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp235
 S'Silipa Fruean'
 p236
@@ -1003,6 +1061,7 @@ p238
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp239
 S'Tile Imo'
 p240
@@ -1020,6 +1079,7 @@ p242
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp243
 S'Leavaula Kamu'
 p244
@@ -1037,6 +1097,7 @@ p246
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp247
 S'Potu Leavasa'
 p248
@@ -1054,6 +1115,7 @@ p250
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp251
 S'Sosene Leavasa'
 p252
@@ -1071,6 +1133,7 @@ p254
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp255
 S'O. Nelson'
 p256
@@ -1088,6 +1151,7 @@ p258
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp259
 S"Sione Pala'amo"
 p260
@@ -1105,6 +1169,7 @@ p262
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp263
 S"Muka Papali'i"
 p264
@@ -1122,6 +1187,7 @@ p266
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp267
 S'P. Paul'
 p268
@@ -1139,6 +1205,7 @@ p270
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp271
 S'Pelenato Solia'
 p272
@@ -1156,6 +1223,7 @@ p274
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp275
 S'Fetu Teo'
 p276
@@ -1173,6 +1241,7 @@ p278
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp279
 S'S. Wendt'
 p280
@@ -1190,6 +1259,7 @@ p282
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp283
 S'F. Ah Long'
 p284
@@ -1207,6 +1277,7 @@ p286
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp287
 S'Sioa Fale'
 p288
@@ -1224,6 +1295,7 @@ p290
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp291
 S'Mose Hewitt'
 p292
@@ -1241,6 +1313,7 @@ p294
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp295
 S'Kapisi Toleafoa'
 p296
@@ -1258,6 +1331,7 @@ p298
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp299
 S'B. Laban'
 p300
@@ -1275,6 +1349,7 @@ p302
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp303
 S"M. Papali'i"
 p304
@@ -1292,6 +1367,7 @@ p306
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp307
 S'L. Eves'
 p308
@@ -1309,6 +1385,7 @@ p310
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp311
 S"Fa'asalele"
 p312
@@ -1326,6 +1403,7 @@ p314
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp315
 S'A. Grey'
 p316
@@ -1343,6 +1421,7 @@ p318
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp319
 S'J. Hunt'
 p320
@@ -1360,6 +1439,7 @@ p322
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp323
 S'A. Ioane'
 p324
@@ -1377,6 +1457,7 @@ p326
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp327
 S'Mei Lome'
 p328
@@ -1394,6 +1475,7 @@ p330
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp331
 S'P. Matailina'
 p332
@@ -1411,6 +1493,7 @@ p334
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp335
 S'P. Saili'
 p336
@@ -1428,6 +1511,7 @@ p338
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp339
 S"L. Savai'inaea"
 p340
@@ -1445,6 +1529,7 @@ p342
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp343
 S'L. Schaafhausen'
 p344
@@ -1462,6 +1547,7 @@ p346
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp347
 S'V. Teo'
 p348
@@ -1479,6 +1565,7 @@ p350
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp351
 S'M. Fepuleai'
 p352
@@ -1496,6 +1583,7 @@ p354
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp355
 S'S. Kalapu'
 p356
@@ -1513,6 +1601,7 @@ p358
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp359
 S'M. McFadyen'
 p360
@@ -1530,6 +1619,7 @@ p362
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp363
 S'F. Nickel'
 p364
@@ -1547,6 +1637,7 @@ p366
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp367
 S'Nimmo'
 p368
@@ -1564,6 +1655,7 @@ p370
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp371
 S'P. Swepson'
 p372
@@ -1581,6 +1673,7 @@ p374
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp375
 S'F. Tuatagaloa'
 p376
@@ -1598,6 +1691,7 @@ p378
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp379
 S'M. Vili'
 p380
@@ -1615,6 +1709,7 @@ p382
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp383
 S'Faleata Asi'
 p384
@@ -1632,6 +1727,7 @@ p386
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp387
 S"Fautai Fa'asiu"
 p388
@@ -1653,742 +1749,769 @@ aVSvizzera
 p393
 aVSuisse
 p394
-aa(lp395
+aVSchweiz
+p395
+aa(lp396
 S'Salele Feagai'
-p396
-aS'1963'
 p397
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p398
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p399
 aS'g'
 aS'n'
 aS'i'
-aa(lp399
+aS's'
+aa(lp400
 S'Hans Kruse'
-p400
-aS'1963'
 p401
-aS''
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p402
+aS''
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p403
 aS'g'
 aS'n'
 aS'i'
-aa(lp403
+aS's'
+aa(lp404
 S'A. Liaina'
-p404
-aS'1963'
 p405
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p406
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p407
 aS'g'
 aS'n'
 aS'i'
-aa(lp407
+aS's'
+aa(lp408
 S'Solomona Liaina'
-p408
-aS'1963'
 p409
-aS''
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'3'
-aS'date unknown'
+aS'1963'
 p410
+aS''
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'3'
+aS'date unknown'
+p411
 aS'g'
 aS'n'
 aS'i'
-aa(lp411
+aS's'
+aa(lp412
 S"Fa'aitu Mailei"
-p412
-aS'1963'
 p413
-aS''
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p414
+aS''
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p415
 aS'g'
 aS'n'
 aS'i'
-aa(lp415
+aS's'
+aa(lp416
 S'Jack Meredith'
-p416
-aS'1963'
 p417
-aS''
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'3'
-aS'date unknown'
+aS'1963'
 p418
+aS''
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'3'
+aS'date unknown'
+p419
 aS'g'
 aS'n'
 aS'i'
-aa(lp419
+aS's'
+aa(lp420
 S'Sio Perez'
-p420
-aS'1963'
 p421
-aS''
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'1'
-aS'3'
-aS'date unknown'
+aS'1963'
 p422
+aS''
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'1'
+aS'3'
+aS'date unknown'
+p423
 aS'g'
 aS'n'
 aS'i'
-aa(lp423
+aS's'
+aa(lp424
 S'L. Sagaga'
-p424
-aS'1963'
 p425
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p426
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p427
 aS'g'
 aS'n'
 aS'i'
-aa(lp427
+aS's'
+aa(lp428
 S'Po Siu'
-p428
-aS'1963'
 p429
-aS''
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p430
+aS''
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p431
 aS'g'
 aS'n'
 aS'i'
-aa(lp431
+aS's'
+aa(lp432
 S'V. Stet'
-p432
-aS'1963'
 p433
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p434
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p435
 aS'g'
 aS'n'
 aS'i'
-aa(lp435
+aS's'
+aa(lp436
 S'I. Tualaulelei'
-p436
-aS'1963'
 p437
-aS''
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p438
+aS''
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p439
 aS'g'
 aS'n'
 aS'i'
-aa(lp439
+aS's'
+aa(lp440
 S'Keli Tuatagaloa'
-p440
-aS'1963'
 p441
-aS''
-aS'4'
-aS'0'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p442
+aS''
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p443
 aS'g'
 aS'n'
 aS'i'
-aa(lp443
+aS's'
+aa(lp444
 S'V. Tuatagaloa'
-p444
-aS'1963'
 p445
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p446
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p447
 aS'g'
 aS'n'
 aS'i'
-aa(lp447
+aS's'
+aa(lp448
 S'Efu Feagai'
-p448
-aS'1963'
 p449
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p450
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p451
 aS'g'
 aS'n'
 aS'i'
-aa(lp451
+aS's'
+aa(lp452
 S"Pito Fa'alogo"
-p452
-aS'1963'
 p453
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p454
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p455
 aS'g'
 aS'n'
 aS'i'
-aa(lp455
+aS's'
+aa(lp456
 S'Fealofima Lima'
-p456
-aS'1963'
 p457
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p458
-aS'g'
-aS'n'
-aS'i'
-aa(lp459
-S"Ni'o Petaia"
-p460
 aS'1963'
+p458
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p459
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp460
+S"Ni'o Petaia"
 p461
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1963'
 p462
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p463
 aS'g'
 aS'n'
 aS'i'
-aa(lp463
+aS's'
+aa(lp464
 S'H. Ekeroma'
-p464
-aS'1972'
 p465
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p466
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p467
 aS'g'
 aS'n'
 aS'i'
-aa(lp467
+aS's'
+aa(lp468
 S'S. Epati'
-p468
-aS'1972'
 p469
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p470
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p471
 aS'g'
 aS'n'
 aS'i'
-aa(lp471
+aS's'
+aa(lp472
 S'J. Fruean'
-p472
-aS'1972'
 p473
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p474
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p475
 aS'g'
 aS'n'
 aS'i'
-aa(lp475
+aS's'
+aa(lp476
 S'Siro Fuatai'
-p476
-aS'1972'
 p477
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p478
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p479
 aS'g'
 aS'n'
 aS'i'
-aa(lp479
+aS's'
+aa(lp480
 S'T. Galuvao'
-p480
-aS'1972'
 p481
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p482
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p483
 aS'g'
 aS'n'
 aS'i'
-aa(lp483
+aS's'
+aa(lp484
 S'I. Melei'
-p484
-aS'1972'
 p485
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p486
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p487
 aS'g'
 aS'n'
 aS'i'
-aa(lp487
+aS's'
+aa(lp488
 S'P. Momoisea'
-p488
-aS'1972'
 p489
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p490
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p491
 aS'g'
 aS'n'
 aS'i'
-aa(lp491
+aS's'
+aa(lp492
 S'T. Palamo'
-p492
-aS'1972'
 p493
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p494
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p495
 aS'g'
 aS'n'
 aS'i'
-aa(lp495
+aS's'
+aa(lp496
 S'K. Roberts'
-p496
-aS'1972'
 p497
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p498
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p499
 aS'g'
 aS'n'
 aS'i'
-aa(lp499
+aS's'
+aa(lp500
 S'R. Slade'
-p500
-aS'1972'
 p501
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p502
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p503
 aS'g'
 aS'n'
 aS'i'
-aa(lp503
+aS's'
+aa(lp504
 S'R. Tiatia'
-p504
-aS'1972'
 p505
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p506
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p507
 aS'g'
 aS'n'
 aS'i'
-aa(lp507
+aS's'
+aa(lp508
 S'S. Tilialo'
-p508
-aS'1972'
 p509
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p510
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p511
 aS'g'
 aS'n'
 aS'i'
-aa(lp511
+aS's'
+aa(lp512
 S"P. Tu'uau"
-p512
-aS'1972'
 p513
-aS''
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p514
+aS''
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p515
 aS'g'
 aS'n'
 aS'i'
-aa(lp515
+aS's'
+aa(lp516
 S'F. Vagaia'
-p516
-aS'1972'
 p517
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p518
-aS'g'
-aS'n'
-aS'i'
-aa(lp519
-S'F. Vito'
-p520
 aS'1972'
+p518
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p519
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp520
+S'F. Vito'
 p521
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1972'
 p522
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p523
 aS'g'
 aS'n'
 aS'i'
-aa(lp523
+aS's'
+aa(lp524
 S'F. Asi'
-p524
-aS'1975'
 p525
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1975'
 p526
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p527
 aS'g'
 aS'n'
 aS'i'
-aa(lp527
+aS's'
+aa(lp528
 S'Jeffe Atoa'
-p528
-aS'1975'
 p529
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1975'
 p530
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p531
 aS'g'
 aS'n'
 aS'i'
-aa(lp531
+aS's'
+aa(lp532
 S'S. Enari'
-p532
-aS'1975'
 p533
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1975'
 p534
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p535
 aS'g'
 aS'n'
 aS'i'
-aa(lp535
+aS's'
+aa(lp536
 S'Paul Grey'
-p536
-aS'1975'
 p537
-aS''
-aS'4'
-aS'0'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1975'
 p538
+aS''
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p539
 aS'g'
 aS'n'
 aS'i'
-aa(lp539
+aS's'
+aa(lp540
 S'T. Iona'
-p540
-aS'1975'
 p541
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1975'
 p542
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p543
 aS'g'
 aS'n'
 aS'i'
-aa(lp543
+aS's'
+aa(lp544
 S'T. Kali'
-p544
-aS'1975'
 p545
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1975'
 p546
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p547
 aS'g'
 aS'n'
 aS'i'
-aa(lp547
+aS's'
+aa(lp548
 S"I. Laga'aia"
-p548
-aS'1975'
 p549
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1975'
 p550
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p551
 aS'g'
 aS'n'
 aS'i'
-aa(lp551
+aS's'
+aa(lp552
 S'Peter Schuster'
-p552
-aS'1975'
 p553
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1975'
 p554
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p555
 aS'g'
 aS'n'
 aS'i'
-aa(lp555
+aS's'
+aa(lp556
 S'Asora Simanu'
-p556
-aS'1975'
 p557
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1975'
 p558
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p559
 aS'g'
 aS'n'
 aS'i'
-aa(lp559
+aS's'
+aa(lp560
 S'F. Siu'
-p560
-aS'1975'
 p561
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1975'
 p562
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p563
 aS'g'
 aS'n'
 aS'i'
-aa(lp563
+aS's'
+aa(lp564
 S"L. Utu'utu"
-p564
-aS'1975'
 p565
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p566
-aS'g'
-aS'n'
-aS'i'
-aa(lp567
-S'M. Vili'
-p568
 aS'1975'
-p569
+p566
 aS''
 aS'1'
 aS'0'
@@ -2397,84 +2520,89 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p570
+p567
 aS'g'
 aS'n'
 aS'i'
-aa(lp571
+aS's'
+aa(lp568
+S'M. Vili'
+p569
+aS'1975'
+p570
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p571
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp572
 S'Susuga Alesana'
-p572
-aS'1979'
 p573
+aS'1979'
+p574
 aS''
 aS'13'
-p574
+p575
 aS'5'
 aS'8'
 aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p575
+p576
 aS'g'
 aS'n'
 aS'i'
-aa(lp576
+aS's'
+aa(lp577
 S"Se Ati'ifale"
-p577
-aS'1979'
 p578
-aS''
-aS'4'
-aS'0'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1979'
 p579
+aS''
+aS'4'
+aS'0'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p580
 aS'g'
 aS'n'
 aS'i'
-aa(lp580
+aS's'
+aa(lp581
 S'Simaile Leaupepe'
-p581
-aS'1979'
 p582
-aS''
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1979'
 p583
+aS''
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p584
 aS'g'
 aS'n'
 aS'i'
-aa(lp584
+aS's'
+aa(lp585
 S'Andy Leavasa'
-p585
-aS'1979'
 p586
-aS''
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1979'
 p587
-aS'g'
-aS'n'
-aS'i'
-aa(lp588
-S'Magalo Malele'
-p589
-aS'1979'
-p590
 aS''
 aS'3'
 aS'0'
@@ -2483,17 +2611,36 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p591
+p588
 aS'g'
 aS'n'
 aS'i'
-aa(lp592
-S'Arona Palamo'
-p593
+aS's'
+aa(lp589
+S'Magalo Malele'
+p590
 aS'1979'
+p591
+aS''
+aS'3'
+aS'0'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p592
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp593
+S'Arona Palamo'
 p594
-aS'Centre'
+aS'1979'
 p595
+aS'Centre'
+p596
 aS'9'
 aS'2'
 aS'6'
@@ -2501,34 +2648,36 @@ aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
-p596
+p597
 aS'g'
 aS'n'
 aS'i'
-aa(lp597
+aS's'
+aa(lp598
 S'Niko Palamo'
-p598
-aS'1979'
 p599
-aS'Centre'
+aS'1979'
 p600
-aS'14'
+aS'Centre'
 p601
+aS'14'
+p602
 aS'4'
 aS'9'
 aS'1'
 aS'1'
 aS'4'
 aS'date unknown'
-p602
+p603
 aS'g'
 aS'n'
 aS'i'
-aa(lp603
+aS's'
+aa(lp604
 S'Tapuofaofa Patu'
-p604
-aS'1979'
 p605
+aS'1979'
+p606
 aS''
 aS'4'
 aS'0'
@@ -2537,15 +2686,16 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p606
+p607
 aS'g'
 aS'n'
 aS'i'
-aa(lp607
+aS's'
+aa(lp608
 S'Keli Saifoloi'
-p608
-aS'1979'
 p609
+aS'1979'
+p610
 aS''
 aS'6'
 aS'1'
@@ -2554,36 +2704,38 @@ aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
-p610
+p611
 aS'g'
 aS'n'
 aS'i'
-aa(lp611
+aS's'
+aa(lp612
 S'Taufusi Salesa'
-p612
-aS'1979'
 p613
+aS'1979'
+p614
 aS''
 aS'27'
-p614
-aS'10'
 p615
-aS'15'
+aS'10'
 p616
+aS'15'
+p617
 aS'2'
 aS'2'
 aS'42'
-p617
-aS'date unknown'
 p618
+aS'date unknown'
+p619
 aS'g'
 aS'n'
 aS'i'
-aa(lp619
+aS's'
+aa(lp620
 S'Ricky Schmidt'
-p620
-aS'1979'
 p621
+aS'1979'
+p622
 aS''
 aS'3'
 aS'0'
@@ -2592,15 +2744,16 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p622
+p623
 aS'g'
 aS'n'
 aS'i'
-aa(lp623
+aS's'
+aa(lp624
 S'Faitala Talapusi'
-p624
-aS'1979'
 p625
+aS'1979'
+p626
 aS''
 aS'3'
 aS'0'
@@ -2609,15 +2762,16 @@ aS'0'
 aS'0'
 aS'5'
 aS'date unknown'
-p626
+p627
 aS'g'
 aS'n'
 aS'i'
-aa(lp627
+aS's'
+aa(lp628
 S'Foua Toloa'
-p628
-aS'1979'
 p629
+aS'1979'
+p630
 aS''
 aS'3'
 aS'0'
@@ -2626,15 +2780,16 @@ aS'0'
 aS'1'
 aS'4'
 aS'date unknown'
-p630
+p631
 aS'g'
 aS'n'
 aS'i'
-aa(lp631
+aS's'
+aa(lp632
 S"A. Utu'utu"
-p632
-aS'1979'
 p633
+aS'1979'
+p634
 aS''
 aS'2'
 aS'0'
@@ -2643,15 +2798,16 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p634
+p635
 aS'g'
 aS'n'
 aS'i'
-aa(lp635
+aS's'
+aa(lp636
 S"Fineaso Aima'asu"
-p636
-aS'1979'
 p637
+aS'1979'
+p638
 aS''
 aS'8'
 aS'3'
@@ -2660,32 +2816,16 @@ aS'2'
 aS'0'
 aS'0'
 aS'date unknown'
-p638
+p639
 aS'g'
 aS'n'
 aS'i'
-aa(lp639
+aS's'
+aa(lp640
 S'Seletifuti Patu'
-p640
-aS'1979'
 p641
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1979'
 p642
-aS'g'
-aS'n'
-aS'i'
-aa(lp643
-S'Mark Phillips'
-p644
-aS'1979'
-p645
 aS''
 aS'1'
 aS'0'
@@ -2694,17 +2834,36 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p646
+p643
 aS'g'
 aS'n'
 aS'i'
-aa(lp647
-S'Korua'
-p648
+aS's'
+aa(lp644
+S'Mark Phillips'
+p645
 aS'1979'
+p646
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p647
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp648
+S'Korua'
 p649
-aS'Replacement'
+aS'1979'
 p650
+aS'Replacement'
+p651
 aS'1'
 aS'0'
 aS'1'
@@ -2712,15 +2871,16 @@ aS'0'
 aS'1'
 aS'4'
 aS'date unknown'
-p651
+p652
 aS'g'
 aS'n'
 aS'i'
-aa(lp652
+aS's'
+aa(lp653
 S'O. Patu'
-p653
-aS'1980'
 p654
+aS'1980'
+p655
 aS''
 aS'1'
 aS'0'
@@ -2729,15 +2889,16 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p655
+p656
 aS'g'
 aS'n'
 aS'i'
-aa(lp656
+aS's'
+aa(lp657
 S'P. Schmidt'
-p657
-aS'1980'
 p658
+aS'1980'
+p659
 aS''
 aS'2'
 aS'1'
@@ -2746,15 +2907,16 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p659
+p660
 aS'g'
 aS'n'
 aS'i'
-aa(lp660
+aS's'
+aa(lp661
 S'Feausiga Sililoto'
-p661
-aS'1980'
 p662
+aS'1980'
+p663
 aS''
 aS'6'
 aS'1'
@@ -2763,66 +2925,16 @@ aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
-p663
+p664
 aS'g'
 aS'n'
 aS'i'
-aa(lp664
+aS's'
+aa(lp665
 S'Taei Aoese'
-p665
-aS'1981'
 p666
-aS''
-aS'7'
-aS'2'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1981'
 p667
-aS'g'
-aS'n'
-aS'i'
-aa(lp668
-S'Saipele Esera'
-p669
-aS'1981'
-p670
-aS''
-aS'2'
-aS'0'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'date unknown'
-p671
-aS'g'
-aS'n'
-aS'i'
-aa(lp672
-S'Falefa Lima'
-p673
-aS'1981'
-p674
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p675
-aS'g'
-aS'n'
-aS'i'
-aa(lp676
-S'Samuela Punivalu'
-p677
-aS'1981'
-p678
 aS''
 aS'7'
 aS'2'
@@ -2831,32 +2943,88 @@ aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
+p668
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp669
+S'Saipele Esera'
+p670
+aS'1981'
+p671
+aS''
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'date unknown'
+p672
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp673
+S'Falefa Lima'
+p674
+aS'1981'
+p675
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p676
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp677
+S'Samuela Punivalu'
+p678
+aS'1981'
 p679
+aS''
+aS'7'
+aS'2'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'date unknown'
+p680
 aS'g'
 aS'n'
 aS'i'
-aa(lp680
+aS's'
+aa(lp681
 S"Tufua Se'umanutafa"
-p681
-aS'1981'
 p682
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'1981'
 p683
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p684
 aS'g'
 aS'n'
 aS'i'
-aa(lp684
+aS's'
+aa(lp685
 S'Pio Sioa'
-p685
-aS'1981'
 p686
+aS'1981'
+p687
 aS''
 aS'2'
 aS'0'
@@ -2865,34 +3033,36 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p687
+p688
 aS'g'
 aS'n'
 aS'i'
-aa(lp688
+aS's'
+aa(lp689
 S'Dickie Tafua'
-p689
-aS'1981'
 p690
-aS'Prop'
+aS'1981'
 p691
-aS'18'
+aS'Prop'
 p692
+aS'18'
+p693
 aS'8'
 aS'9'
 aS'1'
 aS'1'
 aS'4'
 aS'date unknown'
-p693
+p694
 aS'g'
 aS'n'
 aS'i'
-aa(lp694
+aS's'
+aa(lp695
 S'Ieti Solipo'
-p695
-aS'1981'
 p696
+aS'1981'
+p697
 aS''
 aS'1'
 aS'0'
@@ -2901,15 +3071,16 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p697
+p698
 aS'g'
 aS'n'
 aS'i'
-aa(lp698
+aS's'
+aa(lp699
 S"Va'a Tasi"
-p699
-aS'1981'
 p700
+aS'1981'
+p701
 aS''
 aS'9'
 aS'4'
@@ -2918,18 +3089,20 @@ aS'1'
 aS'1'
 aS'4'
 aS'1962'
-p701
-aVSverige
 p702
-aVSvealand
+aVSverige
 p703
-aVVästmanlands län
+aVSvealand
 p704
-aa(lp705
-S'Jack Huch'
+aVVästmanlands län
+p705
+aVNorberg
 p706
+aa(lp707
+S'Jack Huch'
+p708
 aS'1982'
-p707
+p709
 aS''
 aS'4'
 aS'0'
@@ -2938,15 +3111,16 @@ aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
-p708
+p710
 aS'g'
 aS'n'
 aS'i'
-aa(lp709
+aS's'
+aa(lp711
 S'Maafala Lima'
-p710
+p712
 aS'1982'
-p711
+p713
 aS''
 aS'2'
 aS'0'
@@ -2955,15 +3129,16 @@ aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
-p712
+p714
 aS'g'
 aS'n'
 aS'i'
-aa(lp713
+aS's'
+aa(lp715
 S"Fa'aniniva Ropati"
-p714
+p716
 aS'1982'
-p715
+p717
 aS''
 aS'5'
 aS'2'
@@ -2972,75 +3147,80 @@ aS'1'
 aS'0'
 aS'3'
 aS'date unknown'
-p716
+p718
 aS'g'
 aS'n'
 aS'i'
-aa(lp717
+aS's'
+aa(lp719
 S"Fa'afetai Sua"
-p718
+p720
 aS'1982'
-p719
+p721
 aS''
 aS'13'
-p720
+p722
 aS'4'
 aS'8'
 aS'1'
 aS'1'
 aS'4'
 aS'date unknown'
-p721
+p723
 aS'g'
 aS'n'
 aS'i'
-aa(lp722
+aS's'
+aa(lp724
 S'Sepe Tupuola'
-p723
-aS'1982'
-p724
-aS'Flanker'
 p725
-aS'13'
+aS'1982'
 p726
+aS'Flanker'
+p727
+aS'13'
+p728
 aS'5'
 aS'7'
 aS'1'
 aS'0'
 aS'0'
 aS'1958'
-p727
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p728
-aVSétif - \u0633\u0637\u064a\u0641\u200e
 p729
-aVDaïra Hammam Sokhna
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
 p730
-aa(lp731
-S'Sanele Skelton'
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p731
+aVDaïra Hammam Sokhna
 p732
-aS'1982'
+aVTaya
 p733
-aS'Replacement'
-p734
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'date unknown'
+aa(lp734
+S'Sanele Skelton'
 p735
+aS'1982'
+p736
+aS'Replacement'
+p737
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'date unknown'
+p738
 aS'g'
 aS'n'
 aS'i'
-aa(lp736
+aS's'
+aa(lp739
 S'S. Lameta'
-p737
+p740
 aS'1982'
-p738
+p741
 aS'Replacement'
-p739
+p742
 aS'1'
 aS'0'
 aS'1'
@@ -3048,52 +3228,55 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p740
+p743
 aS'g'
 aS'n'
 aS'i'
-aa(lp741
+aS's'
+aa(lp744
 S'Pati Maligi'
-p742
+p745
 aS'1982'
-p743
+p746
 aS''
 aS'11'
-p744
-aS'6'
-aS'5'
-aS'0'
-aS'1'
-aS'4'
-aS'date unknown'
-p745
-aS'g'
-aS'n'
-aS'i'
-aa(lp746
-S'Lomitusi Sasi'
 p747
-aS'1982'
+aS'6'
+aS'5'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
 p748
-aS'Flanker'
-p749
-aS'14'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp749
+S'Lomitusi Sasi'
 p750
+aS'1982'
+p751
+aS'Flanker'
+p752
+aS'14'
+p753
 aS'7'
 aS'6'
 aS'1'
 aS'0'
 aS'2'
 aS'date unknown'
-p751
+p754
 aS'g'
 aS'n'
 aS'i'
-aa(lp752
+aS's'
+aa(lp755
 S'Kini Vaega'
-p753
+p756
 aS'1982'
-p754
+p757
 aS''
 aS'2'
 aS'2'
@@ -3102,17 +3285,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p755
+p758
 aS'g'
 aS'n'
 aS'i'
-aa(lp756
+aS's'
+aa(lp759
 S'Toma Aleni'
-p757
+p760
 aS'1982'
-p758
+p761
 aS'Scrum-half'
-p759
+p762
 aS'7'
 aS'2'
 aS'5'
@@ -3120,15 +3304,16 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p760
+p763
 aS'g'
 aS'n'
 aS'i'
-aa(lp761
+aS's'
+aa(lp764
 S'David Schuster'
-p762
+p765
 aS'1982'
-p763
+p766
 aS''
 aS'4'
 aS'2'
@@ -3137,42 +3322,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p764
+p767
 aS'g'
 aS'n'
 aS'i'
-aa(lp765
+aS's'
+aa(lp768
 S'Andrew Aiolupo'
-p766
-aS'1983'
-p767
-aS'Fullback'
-p768
-aS'36'
 p769
-aS'21'
+aS'1983'
 p770
-aS'14'
+aS'Fullback'
 p771
+aS'36'
+p772
+aS'21'
+p773
+aS'14'
+p774
 aS'1'
 aS'3'
 aS'83'
-p772
-aS'Western Samoa'
-p773
-aVUnited States of America
-p774
-aV95503
 p775
-aVCalifornia
+aS'Western Samoa'
 p776
-aa(lp777
-S"Ta'i Fong"
+aVUnited States of America
+p777
+aV95503
 p778
-aS'1983'
+aVCalifornia
 p779
-aS'Fly-half'
+aVHumboldt County
 p780
+aa(lp781
+S"Ta'i Fong"
+p782
+aS'1983'
+p783
+aS'Fly-half'
+p784
 aS'9'
 aS'3'
 aS'6'
@@ -3180,56 +3368,41 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p781
+p785
 aS'g'
 aS'n'
 aS'i'
-aa(lp782
+aS's'
+aa(lp786
 S'Lolani Koko'
-p783
-aS'1983'
-p784
-aS'Centre'
-p785
-aS'23'
-p786
-aS'10'
 p787
-aS'12'
+aS'1983'
 p788
+aS'Centre'
+p789
+aS'23'
+p790
+aS'10'
+p791
+aS'12'
+p792
 aS'1'
 aS'2'
 aS'8'
-aS'date unknown'
-p789
-aS'g'
-aS'n'
-aS'i'
-aa(lp790
-S'Marcus Krause'
-p791
-aS'1983'
-p792
-aS''
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
 aS'date unknown'
 p793
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp794
-S'Keith McFall'
+S'Marcus Krause'
 p795
 aS'1983'
 p796
 aS''
-aS'1'
-aS'1'
+aS'2'
+aS'2'
 aS'0'
 aS'0'
 aS'0'
@@ -3239,14 +3412,15 @@ p797
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp798
-S'Winston Ryan'
+S'Keith McFall'
 p799
 aS'1983'
 p800
 aS''
-aS'2'
-aS'2'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
 aS'0'
@@ -3256,33 +3430,35 @@ p801
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp802
-S"Fa'au'uga Kelemete"
+S'Winston Ryan'
 p803
-aS'1984'
+aS'1983'
 p804
-aS'Lock'
-p805
-aS'5'
+aS''
 aS'2'
-aS'3'
+aS'2'
+aS'0'
 aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p806
+p805
 aS'g'
 aS'n'
 aS'i'
-aa(lp807
-S'Etuale Sefo'
-p808
+aS's'
+aa(lp806
+S"Fa'au'uga Kelemete"
+p807
 aS'1984'
+p808
+aS'Lock'
 p809
-aS''
-aS'1'
-aS'0'
-aS'1'
+aS'5'
+aS'2'
+aS'3'
 aS'0'
 aS'0'
 aS'0'
@@ -3291,14 +3467,15 @@ p810
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp811
-S'T. Tavita'
+S'Etuale Sefo'
 p812
 aS'1984'
 p813
 aS''
-aS'2'
 aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
@@ -3308,28 +3485,12 @@ p814
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp815
-S'S. Motoi'
+S'T. Tavita'
 p816
 aS'1984'
 p817
-aS''
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p818
-aS'g'
-aS'n'
-aS'i'
-aa(lp819
-S'I. Fesuiaii'
-p820
-aS'1985'
-p821
 aS''
 aS'2'
 aS'1'
@@ -3338,12 +3499,31 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
+p818
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp819
+S'S. Motoi'
+p820
+aS'1984'
+p821
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p822
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp823
-S'Iose Grey'
+S'I. Fesuiaii'
 p824
 aS'1985'
 p825
@@ -3359,15 +3539,16 @@ p826
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp827
-S'Sepulona Moamanu'
+S'Iose Grey'
 p828
 aS'1985'
 p829
 aS''
-aS'3'
-aS'0'
-aS'3'
+aS'2'
+aS'1'
+aS'1'
 aS'0'
 aS'0'
 aS'0'
@@ -3376,31 +3557,33 @@ p830
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp831
-S'Tovia Petelo'
+S'Sepulona Moamanu'
 p832
 aS'1985'
 p833
 aS''
-aS'1'
+aS'3'
 aS'0'
-aS'1'
+aS'3'
 aS'0'
-aS'1'
-aS'4'
+aS'0'
+aS'0'
 aS'date unknown'
 p834
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp835
-S'John Schuster'
+S'Tovia Petelo'
 p836
 aS'1985'
 p837
 aS''
-aS'3'
-aS'2'
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'1'
@@ -3410,13 +3593,32 @@ p838
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp839
-S'Iosefo Tautua'
+S'John Schuster'
 p840
 aS'1985'
 p841
-aS'Wing'
+aS''
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
 p842
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp843
+S'Iosefo Tautua'
+p844
+aS'1985'
+p845
+aS'Wing'
+p846
 aS'4'
 aS'1'
 aS'3'
@@ -3424,60 +3626,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p843
+p847
 aS'g'
 aS'n'
 aS'i'
-aa(lp844
+aS's'
+aa(lp848
 S"Stan To'omalatai"
-p845
-aS'1985'
-p846
-aS'Hooker'
-p847
-aS'29'
-p848
-aS'18'
 p849
-aS'10'
+aS'1985'
 p850
+aS'Hooker'
+p851
+aS'29'
+p852
+aS'18'
+p853
+aS'10'
+p854
 aS'1'
 aS'2'
 aS'8'
 aS'Western Samoa'
-p851
+p855
 aVUnited States of America
-p852
-aV95503
-p853
-aVCalifornia
-p854
-aa(lp855
-S'John Ulugia'
 p856
-aS'1985'
+aV95503
 p857
+aVCalifornia
+p858
+aVHumboldt County
+p859
+aa(lp860
+S'John Ulugia'
+p861
+aS'1985'
+p862
 aS''
 aS'2'
 aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p858
-aS'g'
-aS'n'
-aS'i'
-aa(lp859
-S'M. Lautau'
-p860
-aS'1985'
-p861
-aS'Replacement'
-p862
-aS'1'
-aS'0'
 aS'1'
 aS'0'
 aS'0'
@@ -3487,45 +3674,31 @@ p863
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp864
-S'J. Apelu'
+S'M. Lautau'
 p865
 aS'1985'
 p866
-aS''
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'Replacement'
 p867
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p868
 aS'g'
 aS'n'
 aS'i'
-aa(lp868
-S'K. Mavaega'
-p869
-aS'1985'
+aS's'
+aa(lp869
+S'J. Apelu'
 p870
-aS''
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p871
-aS'g'
-aS'n'
-aS'i'
-aa(lp872
-S'F. Solomona'
-p873
 aS'1985'
-p874
+p871
 aS''
 aS'1'
 aS'1'
@@ -3534,17 +3707,54 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p875
+p872
 aS'g'
 aS'n'
 aS'i'
-aa(lp876
-S"Tele'a Aialupo"
-p877
-aS'1986'
+aS's'
+aa(lp873
+S'K. Mavaega'
+p874
+aS'1985'
+p875
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p876
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp877
+S'F. Solomona'
 p878
-aS'Fullback'
+aS'1985'
 p879
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p880
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp881
+S"Tele'a Aialupo"
+p882
+aS'1986'
+p883
+aS'Fullback'
+p884
 aS'1'
 aS'0'
 aS'1'
@@ -3552,61 +3762,18 @@ aS'0'
 aS'0'
 aS'6'
 aS'date unknown'
-p880
-aS'g'
-aS'n'
-aS'i'
-aa(lp881
-S'P. Alalatoa'
-p882
-aS'1986'
-p883
-aS'Lock'
-p884
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
 p885
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp886
-S'Michael Jones'
+S'P. Alalatoa'
 p887
 aS'1986'
 p888
-aS'Flanker'
+aS'Lock'
 p889
-aS'56'
-p890
-aS'43'
-p891
-aS'11'
-p892
-aS'2'
-aS'13'
-p893
-aS'56'
-p894
-aS'Auckland'
-p895
-aVNew Zealand/Aotearoa
-p896
-aVAuckland
-p897
-aS'Missing'
-p898
-aa(lp899
-S"Ma'atusi Krause"
-p900
-aS'1986'
-p901
-aS'Flanker'
-p902
 aS'1'
 aS'0'
 aS'1'
@@ -3614,17 +3781,64 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p903
+p890
 aS'g'
 aS'n'
 aS'i'
+aS's'
+aa(lp891
+S'Michael Jones'
+p892
+aS'1986'
+p893
+aS'Flanker'
+p894
+aS'56'
+p895
+aS'43'
+p896
+aS'11'
+p897
+aS'2'
+aS'13'
+p898
+aS'56'
+p899
+aS'Auckland'
+p900
+aVNew Zealand/Aotearoa
+p901
+aVAuckland
+p902
+aS'Missing'
+p903
+ag903
 aa(lp904
-S'Malaefatu Patolo'
+S"Ma'atusi Krause"
 p905
 aS'1986'
 p906
-aS'Hooker'
+aS'Flanker'
 p907
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p908
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp909
+S'Malaefatu Patolo'
+p910
+aS'1986'
+p911
+aS'Hooker'
+p912
 aS'3'
 aS'0'
 aS'3'
@@ -3632,95 +3846,66 @@ aS'0'
 aS'0'
 aS'0'
 aS'1961'
-p908
-aVSverige
-p909
-aVSvealand
-p910
-aVVästmanlands län
-p911
-aa(lp912
-S"To'o Vaega"
 p913
-aS'1986'
+aVSverige
 p914
-aS'Centre'
+aVSvealand
 p915
-aS'61'
+aVVästmanlands län
 p916
-aS'35'
+aVHallstahammar
 p917
+aa(lp918
+S"To'o Vaega"
+p919
+aS'1986'
+p920
+aS'Centre'
+p921
+aS'61'
+p922
+aS'35'
+p923
 aS'25'
-p918
+p924
 aS'1'
 aS'12'
-p919
+p925
 aS'71'
-p920
-aS'Western Samoa'
-p921
-aVUnited States of America
-p922
-aV95503
-p923
-aVCalifornia
-p924
-aa(lp925
-S'Palemia Alalafoa'
 p926
-aS'1986'
+aS'Western Samoa'
 p927
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aVUnited States of America
 p928
-aS'g'
-aS'n'
-aS'i'
-aa(lp929
-S'Alani Fata'
+aV95503
+p929
+aVCalifornia
 p930
-aS'1986'
+aVHumboldt County
 p931
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p932
-aS'g'
-aS'n'
-aS'i'
-aa(lp933
-S'Faalelei Feimanatufa'
+aa(lp932
+S'Palemia Alalafoa'
+p933
+aS'1986'
 p934
-aS'1986'
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p935
-aS''
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p936
 aS'g'
 aS'n'
 aS'i'
-aa(lp937
-S'Keneti Taylor'
-p938
+aS's'
+aa(lp936
+S'Alani Fata'
+p937
 aS'1986'
-p939
+p938
 aS''
 aS'1'
 aS'0'
@@ -3729,39 +3914,78 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p940
+p939
 aS'g'
 aS'n'
 aS'i'
-aa(lp941
-S'John Ah Kuoi'
+aS's'
+aa(lp940
+S'Faalelei Feimanatufa'
+p941
+aS'1986'
 p942
-aS'1987'
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p943
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp944
+S'Keneti Taylor'
+p945
+aS'1986'
+p946
+aS''
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p947
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp948
+S'John Ah Kuoi'
+p949
+aS'1987'
+p950
 aS'Centre'
-p944
+p951
 aS'6'
 aS'3'
 aS'3'
 aS'0'
 aS'2'
 aS'11'
-p945
-aS'1957'
-p946
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p947
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p948
-aVDaïra Amoucha
-p949
-aa(lp950
-S"Vaivase Fa'asua"
-p951
-aS'1987'
 p952
-aS'Flanker'
+aS'1957'
 p953
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p954
+aVSétif - \u0633\u0637\u064a\u0641\u200e
+p955
+aVDaïra Amoucha
+p956
+aVOued El Bared
+p957
+aa(lp958
+S"Vaivase Fa'asua"
+p959
+aS'1987'
+p960
+aS'Flanker'
+p961
 aS'4'
 aS'1'
 aS'2'
@@ -3769,60 +3993,64 @@ aS'1'
 aS'1'
 aS'4'
 aS'date unknown'
-p954
+p962
 aS'g'
 aS'n'
 aS'i'
-aa(lp955
+aS's'
+aa(lp963
 S'Ekeroma Lauaiufi'
-p956
+p964
 aS'1987'
-p957
+p965
 aS'Lock'
-p958
+p966
 aS'15'
-p959
+p967
 aS'5'
 aS'9'
 aS'1'
 aS'1'
 aS'4'
 aS'Western Samoa'
-p960
-aVUnited States of America
-p961
-aV95503
-p962
-aVCalifornia
-p963
-aa(lp964
-S"Afa Leu'u"
-p965
-aS'1987'
-p966
-aS'Prop'
-p967
-aS'10'
 p968
+aVUnited States of America
+p969
+aV95503
+p970
+aVCalifornia
+p971
+aVHumboldt County
+p972
+aa(lp973
+S"Afa Leu'u"
+p974
+aS'1987'
+p975
+aS'Prop'
+p976
+aS'10'
+p977
 aS'7'
 aS'3'
 aS'0'
 aS'1'
 aS'4'
 aS'Auckland'
-p969
+p978
 aVNew Zealand/Aotearoa
-p970
+p979
 aVAuckland
-p971
-ag898
-aa(lp972
+p980
+ag903
+ag903
+aa(lp981
 S'Petaia Nee Nee'
-p973
+p982
 aS'1987'
-p974
+p983
 aS'Fullback'
-p975
+p984
 aS'4'
 aS'3'
 aS'1'
@@ -3830,73 +4058,40 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p976
+p985
 aS'g'
 aS'n'
 aS'i'
-aa(lp977
+aS's'
+aa(lp986
 S"'Otenili Pifeleti"
-p978
+p987
 aS'1983'
-p979
+p988
 aS'No. 8'
-p980
+p989
 aS'14'
-p981
+p990
 aS'4'
 aS'10'
-p982
+p991
 aS'0'
 aS'1'
 aS'4'
 aS'date unknown'
-p983
+p992
 aS'g'
 aS'n'
 aS'i'
-aa(lp984
+aS's'
+aa(lp993
 S'Kitona Vai'
-p985
+p994
 aS'1987'
-p986
+p995
 aS''
 aS'3'
 aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p987
-aS'g'
-aS'n'
-aS'i'
-aa(lp988
-S'T. Jensen'
-p989
-aS'1987'
-p990
-aS''
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p991
-aS'g'
-aS'n'
-aS'i'
-aa(lp992
-S'Tuise Sefo'
-p993
-aS'1987'
-p994
-aS'Flanker'
-p995
-aS'2'
-aS'1'
 aS'1'
 aS'0'
 aS'0'
@@ -3906,14 +4101,15 @@ p996
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp997
-S'S. Tanuko'
+S'T. Jensen'
 p998
 aS'1987'
 p999
 aS''
-aS'1'
-aS'1'
+aS'2'
+aS'2'
 aS'0'
 aS'0'
 aS'0'
@@ -3923,17 +4119,18 @@ p1000
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp1001
-S'Peleiupu Fuatai Leota'
+S'Tuise Sefo'
 p1002
-aS'1988'
+aS'1987'
 p1003
-aS'Lock'
+aS'Flanker'
 p1004
-aS'8'
-aS'6'
+aS'2'
 aS'1'
 aS'1'
+aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
@@ -3941,33 +4138,12 @@ p1005
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp1006
-S'Malaki Iupeli'
+S'S. Tanuko'
 p1007
-aS'1988'
+aS'1987'
 p1008
-aS'Flanker'
-p1009
-aS'16'
-p1010
-aS'7'
-aS'8'
-aS'1'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p1011
-aVUnited States of America
-p1012
-aV95503
-p1013
-aVCalifornia
-p1014
-aa(lp1015
-S'T. Magele'
-p1016
-aS'1988'
-p1017
 aS''
 aS'1'
 aS'1'
@@ -3976,48 +4152,87 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1018
+p1009
 aS'g'
 aS'n'
 aS'i'
-aa(lp1019
-S'Filipo Saena'
-p1020
+aS's'
+aa(lp1010
+S'Peleiupu Fuatai Leota'
+p1011
 aS'1988'
-p1021
-aS'Fly-half'
-p1022
-aS'17'
-p1023
-aS'14'
-p1024
-aS'2'
+p1012
+aS'Lock'
+p1013
+aS'8'
+aS'6'
 aS'1'
-aS'2'
-aS'14'
-p1025
-aS'Western Samoa'
-p1026
-aVUnited States of America
-p1027
-aV95503
-p1028
-aVCalifornia
-p1029
-aa(lp1030
-S'Keneti Sio'
-p1031
+aS'1'
+aS'0'
+aS'0'
+aS'date unknown'
+p1014
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp1015
+S'Malaki Iupeli'
+p1016
 aS'1988'
+p1017
+aS'Flanker'
+p1018
+aS'16'
+p1019
+aS'7'
+aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p1020
+aVUnited States of America
+p1021
+aV95503
+p1022
+aVCalifornia
+p1023
+aVHumboldt County
+p1024
+aa(lp1025
+S'T. Magele'
+p1026
+aS'1988'
+p1027
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1028
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp1029
+S'Filipo Saena'
+p1030
+aS'1988'
+p1031
+aS'Fly-half'
 p1032
-aS'Centre'
+aS'17'
 p1033
 aS'14'
 p1034
-aS'9'
-aS'4'
+aS'2'
 aS'1'
-aS'3'
-aS'12'
+aS'2'
+aS'14'
 p1035
 aS'Western Samoa'
 p1036
@@ -4027,11 +4242,38 @@ aV95503
 p1038
 aVCalifornia
 p1039
-aa(lp1040
-S'Suliveta Uati'
-p1041
-aS'1988'
+aVHumboldt County
+p1040
+aa(lp1041
+S'Keneti Sio'
 p1042
+aS'1988'
+p1043
+aS'Centre'
+p1044
+aS'14'
+p1045
+aS'9'
+aS'4'
+aS'1'
+aS'3'
+aS'12'
+p1046
+aS'Western Samoa'
+p1047
+aVUnited States of America
+p1048
+aV95503
+p1049
+aVCalifornia
+p1050
+aVHumboldt County
+p1051
+aa(lp1052
+S'Suliveta Uati'
+p1053
+aS'1988'
+p1054
 aS''
 aS'2'
 aS'1'
@@ -4040,17 +4282,18 @@ aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
-p1043
+p1055
 aS'g'
 aS'n'
 aS'i'
-aa(lp1044
+aS's'
+aa(lp1056
 S'Tauvere Ugapo'
-p1045
+p1057
 aS'1988'
-p1046
+p1058
 aS'Wing'
-p1047
+p1059
 aS'7'
 aS'4'
 aS'2'
@@ -4058,17 +4301,18 @@ aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
-p1048
+p1060
 aS'g'
 aS'n'
 aS'i'
-aa(lp1049
+aS's'
+aa(lp1061
 S'Lafaele Mano'
-p1050
+p1062
 aS'1988'
-p1051
+p1063
 aS'Flanker'
-p1052
+p1064
 aS'3'
 aS'0'
 aS'2'
@@ -4076,15 +4320,16 @@ aS'1'
 aS'1'
 aS'4'
 aS'date unknown'
-p1053
+p1065
 aS'g'
 aS'n'
 aS'i'
-aa(lp1054
+aS's'
+aa(lp1066
 S'Taumaloto Tofilau'
-p1055
+p1067
 aS'1988'
-p1056
+p1068
 aS''
 aS'1'
 aS'0'
@@ -4093,86 +4338,93 @@ aS'1'
 aS'0'
 aS'0'
 aS'date unknown'
-p1057
+p1069
 aS'g'
 aS'n'
 aS'i'
-aa(lp1058
+aS's'
+aa(lp1070
 S'Vili Alalatoa'
-p1059
+p1071
 aS'1988'
-p1060
+p1072
 aS'Prop'
-p1061
+p1073
 aS'10'
-p1062
+p1074
 aS'6'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
 aS'1962'
-p1063
+p1075
 aVSverige
-p1064
+p1076
 aVSvealand
-p1065
+p1077
 aVVästmanlands län
-p1066
-aa(lp1067
+p1078
+aVNorberg
+p1079
+aa(lp1080
 S'Peter Fatialofa'
-p1068
+p1081
 aS'1988'
-p1069
+p1082
 aS'Prop'
-p1070
+p1083
 aS'34'
-p1071
+p1084
 aS'18'
-p1072
+p1085
 aS'15'
-p1073
+p1086
 aS'1'
 aS'3'
 aS'14'
-p1074
+p1087
 aS'Western Samoa'
-p1075
+p1088
 aVUnited States of America
-p1076
+p1089
 aV95503
-p1077
+p1090
 aVCalifornia
-p1078
-aa(lp1079
+p1091
+aVHumboldt County
+p1092
+aa(lp1093
 S'Saini Lemamea'
-p1080
+p1094
 aS'1988'
-p1081
+p1095
 aS'Lock'
-p1082
+p1096
 aS'13'
-p1083
+p1097
 aS'7'
 aS'6'
 aS'0'
 aS'1'
 aS'4'
 aS'Western Samoa'
-p1084
+p1098
 aVUnited States of America
-p1085
+p1099
 aV95503
-p1086
+p1100
 aVCalifornia
-p1087
-aa(lp1088
+p1101
+aVHumboldt County
+p1102
+aa(lp1103
 S'Daryl Williams'
-p1089
+p1104
 aS'1988'
-p1090
+p1105
 aS'Lock'
-p1091
+p1106
 aS'5'
 aS'1'
 aS'4'
@@ -4180,19 +4432,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p1092
+p1107
 aVNew Zealand/Aotearoa
-p1093
+p1108
 aVAuckland
-p1094
-ag898
-aa(lp1095
+p1109
+ag903
+ag903
+aa(lp1110
 S'Phineas Young'
-p1096
+p1111
 aS'1988'
-p1097
+p1112
 aS'Scrum-half'
-p1098
+p1113
 aS'2'
 aS'1'
 aS'1'
@@ -4200,17 +4453,18 @@ aS'0'
 aS'2'
 aS'8'
 aS'date unknown'
-p1099
+p1114
 aS'g'
 aS'n'
 aS'i'
-aa(lp1100
+aS's'
+aa(lp1115
 S'Ollie Crichton'
-p1101
+p1116
 aS'1988'
-p1102
+p1117
 aS'Flanker'
-p1103
+p1118
 aS'1'
 aS'0'
 aS'1'
@@ -4218,179 +4472,118 @@ aS'0'
 aS'0'
 aS'2'
 aS'date unknown'
-p1104
+p1119
 aS'g'
 aS'n'
 aS'i'
-aa(lp1105
+aS's'
+aa(lp1120
 S"Tupo Fa'amasino"
-p1106
+p1121
 aS'1988'
-p1107
+p1122
 aS'Centre'
-p1108
+p1123
 aS'20'
-p1109
+p1124
 aS'12'
-p1110
+p1125
 aS'8'
 aS'0'
 aS'5'
 aS'36'
-p1111
-aS'Western Samoa'
-p1112
-aVUnited States of America
-p1113
-aV95503
-p1114
-aVCalifornia
-p1115
-aa(lp1116
-S'Vincent Fepuleai'
-p1117
-aS'1988'
-p1118
-aS'Scrum-half'
-p1119
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p1120
-aS'g'
-aS'n'
-aS'i'
-aa(lp1121
-S'P. Schmidt'
-p1122
-aS'1989'
-p1123
-aS''
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p1124
-aS'g'
-aS'n'
-aS'i'
-aa(lp1125
-S'Harry Schuster'
 p1126
-aS'1989'
+aS'Western Samoa'
 p1127
-aS'No. 8'
+aVUnited States of America
 p1128
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'1'
-aS'4'
-aS'date unknown'
+aV95503
 p1129
-aS'g'
-aS'n'
-aS'i'
-aa(lp1130
-S'T. Tofaeono'
+aVCalifornia
+p1130
+aVHumboldt County
 p1131
-aS'1989'
-p1132
-aS''
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aa(lp1132
+S'Vincent Fepuleai'
 p1133
-aS'g'
-aS'n'
-aS'i'
-aa(lp1134
-S'Faatoto Moananu'
+aS'1988'
+p1134
+aS'Scrum-half'
 p1135
-aS'1989'
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1136
-aS'Wing'
-p1137
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp1137
+S'P. Schmidt'
 p1138
-aS'g'
-aS'n'
-aS'i'
-aa(lp1139
-S'P. Paulo'
+aS'1989'
+p1139
+aS''
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1140
-aS'1989'
-p1141
-aS''
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp1141
+S'Harry Schuster'
 p1142
-aS'g'
-aS'n'
-aS'i'
-aa(lp1143
-S'S. Sauila'
+aS'1989'
+p1143
+aS'No. 8'
 p1144
-aS'1989'
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'date unknown'
 p1145
-aS''
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p1146
 aS'g'
 aS'n'
 aS'i'
-aa(lp1147
-S'F. Taiomaivao'
+aS's'
+aa(lp1146
+S'T. Tofaeono'
+p1147
+aS'1989'
 p1148
-aS'1989'
-p1149
 aS''
-aS'1'
-aS'1'
+aS'2'
+aS'2'
 aS'0'
 aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1150
+p1149
 aS'g'
 aS'n'
 aS'i'
-aa(lp1151
-S'S. Telea'
-p1152
+aS's'
+aa(lp1150
+S'Faatoto Moananu'
+p1151
 aS'1989'
+p1152
+aS'Wing'
 p1153
-aS''
 aS'1'
 aS'1'
 aS'0'
@@ -4402,39 +4595,69 @@ p1154
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp1155
-S'Sila Vaifale'
+S'P. Paulo'
 p1156
 aS'1989'
 p1157
-aS'Flanker'
+aS''
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1158
-aS'28'
-p1159
-aS'18'
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp1159
+S'S. Sauila'
 p1160
-aS'9'
-aS'1'
-aS'4'
-aS'16'
+aS'1989'
 p1161
-aS'Western Samoa'
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
 p1162
-aVUnited States of America
-p1163
-aV95503
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp1163
+S'F. Taiomaivao'
 p1164
-aVCalifornia
+aS'1989'
 p1165
-aa(lp1166
-S'S.P. Ching'
-p1167
-aS'1990'
+aS''
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1166
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp1167
+S'S. Telea'
 p1168
-aS'Lock'
+aS'1989'
 p1169
-aS'3'
-aS'3'
+aS''
+aS'1'
+aS'1'
 aS'0'
 aS'0'
 aS'0'
@@ -4444,35 +4667,83 @@ p1170
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp1171
-S'Danny Kaleopa'
+S'Sila Vaifale'
 p1172
-aS'1990'
+aS'1989'
 p1173
 aS'Flanker'
 p1174
+aS'28'
+p1175
+aS'18'
+p1176
+aS'9'
+aS'1'
+aS'4'
+aS'16'
+p1177
+aS'Western Samoa'
+p1178
+aVUnited States of America
+p1179
+aV95503
+p1180
+aVCalifornia
+p1181
+aVHumboldt County
+p1182
+aa(lp1183
+S'S.P. Ching'
+p1184
+aS'1990'
+p1185
+aS'Lock'
+p1186
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p1187
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp1188
+S'Danny Kaleopa'
+p1189
+aS'1990'
+p1190
+aS'Flanker'
+p1191
 aS'7'
 aS'6'
 aS'1'
 aS'0'
 aS'3'
 aS'12'
-p1175
+p1192
 aS'1966'
-p1176
+p1193
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1177
+p1194
 aV\u0421\u041a\u0424\u041e
-p1178
+p1195
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1179
-aa(lp1180
+p1196
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1197
+aa(lp1198
 S'Milovale Moke'
-p1181
+p1199
 aS'1990'
-p1182
+p1200
 aS'Scrum-half'
-p1183
+p1201
 aS'5'
 aS'5'
 aS'0'
@@ -4480,38 +4751,40 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1184
+p1202
 aS'g'
 aS'n'
 aS'i'
-aa(lp1185
+aS's'
+aa(lp1203
 S'Timo Tagaloa'
-p1186
+p1204
 aS'1990'
-p1187
+p1205
 aS'Wing'
-p1188
+p1206
 aS'9'
 aS'7'
 aS'2'
 aS'0'
 aS'6'
 aS'24'
-p1189
+p1207
 aS'Auckland'
-p1190
+p1208
 aVNew Zealand/Aotearoa
-p1191
+p1209
 aVAuckland
-p1192
-ag898
-aa(lp1193
+p1210
+ag903
+ag903
+aa(lp1211
 S'David Sio'
-p1194
+p1212
 aS'1990'
-p1195
+p1213
 aS'Prop'
-p1196
+p1214
 aS'2'
 aS'2'
 aS'0'
@@ -4519,20 +4792,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p1197
+p1215
 aVUnited States of America
-p1198
+p1216
 aV95503
-p1199
+p1217
 aVCalifornia
-p1200
-aa(lp1201
+p1218
+aVHumboldt County
+p1219
+aa(lp1220
 S'Peter Leavai'
-p1202
+p1221
 aS'1990'
-p1203
+p1222
 aS'Lock'
-p1204
+p1223
 aS'1'
 aS'1'
 aS'0'
@@ -4540,15 +4815,16 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1205
+p1224
 aS'g'
 aS'n'
 aS'i'
-aa(lp1206
+aS's'
+aa(lp1225
 S"S. Fa'aofo"
-p1207
+p1226
 aS'1990'
-p1208
+p1227
 aS''
 aS'1'
 aS'1'
@@ -4557,62 +4833,67 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1209
+p1228
 aS'g'
 aS'n'
 aS'i'
-aa(lp1210
-S'Lio Falaniko'
-p1211
-aS'1990'
-p1212
-aS'Lock'
-p1213
-aS'21'
-p1214
-aS'12'
-p1215
-aS'8'
-aS'1'
-aS'2'
-aS'10'
-p1216
-aS'Western Samoa'
-p1217
-aVUnited States of America
-p1218
-aV95503
-p1219
-aVCalifornia
-p1220
-aa(lp1221
-S'Siu Fanolua'
-p1222
-aS'1990'
-p1223
-aS'Prop'
-p1224
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p1225
-aVUnited States of America
-p1226
-aV95503
-p1227
-aVCalifornia
-p1228
+aS's'
 aa(lp1229
-S'Eddie Ioane'
+S'Lio Falaniko'
 p1230
 aS'1990'
 p1231
 aS'Lock'
 p1232
+aS'21'
+p1233
+aS'12'
+p1234
+aS'8'
+aS'1'
+aS'2'
+aS'10'
+p1235
+aS'Western Samoa'
+p1236
+aVUnited States of America
+p1237
+aV95503
+p1238
+aVCalifornia
+p1239
+aVHumboldt County
+p1240
+aa(lp1241
+S'Siu Fanolua'
+p1242
+aS'1990'
+p1243
+aS'Prop'
+p1244
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p1245
+aVUnited States of America
+p1246
+aV95503
+p1247
+aVCalifornia
+p1248
+aVHumboldt County
+p1249
+aa(lp1250
+S'Eddie Ioane'
+p1251
+aS'1990'
+p1252
+aS'Lock'
+p1253
 aS'5'
 aS'4'
 aS'1'
@@ -4620,18 +4901,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p1233
+p1254
 aVUnited States of America
-p1234
+p1255
 aV95503
-p1235
+p1256
 aVCalifornia
-p1236
-aa(lp1237
+p1257
+aVHumboldt County
+p1258
+aa(lp1259
 S'Fili Lameta'
-p1238
+p1260
 aS'1990'
-p1239
+p1261
 aS''
 aS'2'
 aS'2'
@@ -4640,119 +4923,129 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p1240
+p1262
 aVUnited States of America
-p1241
+p1263
 aV95503
-p1242
+p1264
 aVCalifornia
-p1243
-aa(lp1244
+p1265
+aVHumboldt County
+p1266
+aa(lp1267
 S'Shem Tatupu'
-p1245
+p1268
 aS'1990'
-p1246
+p1269
 aS'Back-row'
-p1247
+p1270
 aS'10'
-p1248
+p1271
 aS'6'
 aS'4'
 aS'0'
 aS'3'
 aS'15'
-p1249
+p1272
 aS'N Harbour'
-p1250
+p1273
 aVCanada
-p1251
+p1274
 aVNova Scotia
-p1252
+p1275
 aVShelburne County
-p1253
-aa(lp1254
+p1276
+aVMunicipality of the District of Shelburne
+p1277
+aa(lp1278
 S'Stephen Bachop'
-p1255
+p1279
 aS'1991'
-p1256
+p1280
 aS'Fly-half'
-p1257
+p1281
 aS'23'
-p1258
+p1282
 aS'12'
-p1259
+p1283
 aS'10'
-p1260
+p1284
 aS'1'
 aS'4'
 aS'64'
-p1261
-aS'Lyttelton'
-p1262
-aVNew Zealand/Aotearoa
-p1263
-aVCanterbury
-p1264
-aVChristchurch City
-p1265
-aa(lp1266
-S'Brian Lima'
-p1267
-aS'1991'
-p1268
-aS'Wing'
-p1269
-aS'66'
-p1270
-aS'31'
-p1271
-aS'33'
-p1272
-aS'2'
-aS'29'
-p1273
-aS'140'
-p1274
-aS'Western Samoa'
-p1275
-aVUnited States of America
-p1276
-aV95503
-p1277
-aVCalifornia
-p1278
-aa(lp1279
-S'Junior Paramore'
-p1280
-aS'1991'
-p1281
-aS'No. 8'
-p1282
-aS'27'
-p1283
-aS'17'
-p1284
-aS'10'
 p1285
-aS'0'
-aS'6'
-aS'30'
+aS'Lyttelton'
 p1286
-aS'Western Samoa'
+aVNew Zealand/Aotearoa
 p1287
-aVUnited States of America
+aVCanterbury
 p1288
-aV95503
+aVChristchurch City
 p1289
-aVCalifornia
+aVChristchurch
 p1290
 aa(lp1291
-S'Apollo Perelini'
+S'Brian Lima'
 p1292
 aS'1991'
 p1293
-aS'Flanker'
+aS'Wing'
 p1294
+aS'66'
+p1295
+aS'31'
+p1296
+aS'33'
+p1297
+aS'2'
+aS'29'
+p1298
+aS'140'
+p1299
+aS'Western Samoa'
+p1300
+aVUnited States of America
+p1301
+aV95503
+p1302
+aVCalifornia
+p1303
+aVHumboldt County
+p1304
+aa(lp1305
+S'Junior Paramore'
+p1306
+aS'1991'
+p1307
+aS'No. 8'
+p1308
+aS'27'
+p1309
+aS'17'
+p1310
+aS'10'
+p1311
+aS'0'
+aS'6'
+aS'30'
+p1312
+aS'Western Samoa'
+p1313
+aVUnited States of America
+p1314
+aV95503
+p1315
+aVCalifornia
+p1316
+aVHumboldt County
+p1317
+aa(lp1318
+S'Apollo Perelini'
+p1319
+aS'1991'
+p1320
+aS'Flanker'
+p1321
 aS'9'
 aS'6'
 aS'3'
@@ -4760,157 +5053,167 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p1295
+p1322
 aVNew Zealand/Aotearoa
-p1296
+p1323
 aVAuckland
-p1297
-ag898
-aa(lp1298
+p1324
+ag903
+ag903
+aa(lp1325
 S'Mathew Vaea'
-p1299
+p1326
 aS'1991'
-p1300
+p1327
 aS'Scrum-half'
-p1301
+p1328
 aS'8'
 aS'5'
 aS'2'
 aS'1'
 aS'0'
 aS'25'
-p1302
+p1329
 aS'Western Samoa'
-p1303
+p1330
 aVUnited States of America
-p1304
+p1331
 aV95503
-p1305
+p1332
 aVCalifornia
-p1306
-aa(lp1307
+p1333
+aVHumboldt County
+p1334
+aa(lp1335
 S'Mark Birtwistle'
-p1308
+p1336
 aS'1991'
-p1309
+p1337
 aS'Lock'
-p1310
+p1338
 aS'11'
-p1311
+p1339
 aS'6'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p1312
+p1340
 aVNew Zealand/Aotearoa
-p1313
+p1341
 aVAuckland
-p1314
-ag898
-aa(lp1315
+p1342
+ag903
+ag903
+aa(lp1343
 S'Frank Bunce'
-p1316
+p1344
 aS'1991'
-p1317
+p1345
 aS'Centre'
-p1318
+p1346
 aS'59'
-p1319
+p1347
 aS'44'
-p1320
+p1348
 aS'13'
-p1321
+p1349
 aS'2'
 aS'21'
-p1322
+p1350
 aS'100'
-p1323
+p1351
 aS'Auckland'
-p1324
+p1352
 aVNew Zealand/Aotearoa
-p1325
+p1353
 aVAuckland
-p1326
-ag898
-aa(lp1327
+p1354
+ag903
+ag903
+aa(lp1355
 S'Mat Keenan'
-p1328
+p1356
 aS'1991'
-p1329
+p1357
 aS'Lock'
-p1330
+p1358
 aS'10'
-p1331
+p1359
 aS'6'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p1332
+p1360
 aVUnited States of America
-p1333
+p1361
 aV95503
-p1334
+p1362
 aVCalifornia
-p1335
-aa(lp1336
+p1363
+aVHumboldt County
+p1364
+aa(lp1365
 S'Pat Lam'
-p1337
+p1366
 aS'1991'
-p1338
+p1367
 aS'No. 8'
-p1339
+p1368
 aS'34'
-p1340
+p1369
 aS'15'
-p1341
+p1370
 aS'17'
-p1342
+p1371
 aS'2'
 aS'5'
 aS'25'
-p1343
+p1372
 aS'Auckland'
-p1344
+p1373
 aVNew Zealand/Aotearoa
-p1345
+p1374
 aVAuckland
-p1346
-ag898
-aa(lp1347
+p1375
+ag903
+ag903
+aa(lp1376
 S'Alama Ieremia'
-p1348
+p1377
 aS'1992'
-p1349
+p1378
 aS'Five-eighth'
-p1350
+p1379
 aS'35'
-p1351
+p1380
 aS'27'
-p1352
+p1381
 aS'7'
 aS'1'
 aS'5'
 aS'25'
-p1353
+p1382
 aS'Western Samoa'
-p1354
+p1383
 aVUnited States of America
-p1355
+p1384
 aV95503
-p1356
+p1385
 aVCalifornia
-p1357
-aa(lp1358
+p1386
+aVHumboldt County
+p1387
+aa(lp1388
 S'Kose Seinafo'
-p1359
+p1389
 aS'1992'
-p1360
+p1390
 aS'Wing, Centre'
-p1361
+p1391
 aS'1'
 aS'1'
 aS'0'
@@ -4918,43 +5221,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'1963'
-p1362
+p1392
 aVÖsterreich
-p1363
+p1393
 aV8362
-p1364
+p1394
 aVSteiermark
-p1365
-aa(lp1366
+p1395
+aVHartberg-Fürstenfeld
+p1396
+aa(lp1397
 S'Freddie Tuilagi'
-p1367
+p1398
 aS'1992'
-p1368
+p1399
 aS'Wing, Centre'
-p1369
+p1400
 aS'17'
-p1370
+p1401
 aS'8'
 aS'9'
 aS'0'
 aS'2'
 aS'10'
-p1371
+p1402
 aS'Western Samoa'
-p1372
+p1403
 aVUnited States of America
-p1373
+p1404
 aV95503
-p1374
+p1405
 aVCalifornia
-p1375
-aa(lp1376
+p1406
+aVHumboldt County
+p1407
+aa(lp1408
 S"Junior Tonu'u"
-p1377
+p1409
 aS'1992'
-p1378
+p1410
 aS'Scrum-half'
-p1379
+p1411
 aS'9'
 aS'7'
 aS'2'
@@ -4962,87 +5269,94 @@ aS'0'
 aS'1'
 aS'5'
 aS'Wellington'
-p1380
+p1412
 aVNew Zealand/Aotearoa
-p1381
+p1413
 aVWellington
-p1382
+p1414
 aVWellington City
-p1383
-aa(lp1384
+p1415
+aVWellington
+p1416
+aa(lp1417
 S'Darren Kellett'
-p1385
+p1418
 aS'1993'
-p1386
+p1419
 aS'Fly-half'
-p1387
+p1420
 aS'13'
-p1388
+p1421
 aS'7'
 aS'5'
 aS'1'
 aS'2'
 aS'137'
-p1389
+p1422
 aS'Auckland'
-p1390
+p1423
 aVNew Zealand/Aotearoa
-p1391
+p1424
 aVAuckland
-p1392
-ag898
-aa(lp1393
+p1425
+ag903
+ag903
+aa(lp1426
 S'Potu Leavasa'
-p1394
+p1427
 aS'1993'
-p1395
+p1428
 aS'Lock'
-p1396
+p1429
 aS'17'
-p1397
+p1430
 aS'11'
-p1398
+p1431
 aS'5'
 aS'1'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p1399
+p1432
 aVUnited States of America
-p1400
+p1433
 aV95503
-p1401
+p1434
 aVCalifornia
-p1402
-aa(lp1403
+p1435
+aVHumboldt County
+p1436
+aa(lp1437
 S"Tala Leiasamaiva'o"
-p1404
+p1438
 aS'1993'
-p1405
+p1439
 aS'Hooker'
-p1406
+p1440
 aS'18'
-p1407
+p1441
 aS'9'
 aS'8'
 aS'1'
 aS'1'
 aS'5'
 aS'1967'
-p1408
+p1442
 aVDanmark
-p1409
+p1443
 aV1967
-p1410
+p1444
 aVRegion Hovedstaden
-p1411
-aa(lp1412
+p1445
+aVFrederiksberg Kommune
+p1446
+aa(lp1447
 S'Palamia Lilomaiava'
-p1413
+p1448
 aS'1993'
-p1414
+p1449
 aS'Prop'
-p1415
+p1450
 aS'1'
 aS'0'
 aS'1'
@@ -5050,39 +5364,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1416
+p1451
 aS'g'
 aS'n'
 aS'i'
-aa(lp1417
+aS's'
+aa(lp1452
 S'George Latu'
-p1418
+p1453
 aS'1994'
-p1419
+p1454
 aS'Prop'
-p1420
+p1455
 aS'10'
-p1421
+p1456
 aS'4'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p1422
+p1457
 aVUnited States of America
-p1423
+p1458
 aV95503
-p1424
+p1459
 aVCalifornia
-p1425
-aa(lp1426
+p1460
+aVHumboldt County
+p1461
+aa(lp1462
 S"Tu Nu'uali'itia"
-p1427
+p1463
 aS'1994'
-p1428
+p1464
 aS'Scrum-half'
-p1429
+p1465
 aS'8'
 aS'3'
 aS'5'
@@ -5090,41 +5407,44 @@ aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p1430
+p1466
 aVNew Zealand/Aotearoa
-p1431
+p1467
 aVAuckland
-p1432
-ag898
-aa(lp1433
+p1468
+ag903
+ag903
+aa(lp1469
 S'Sam Kaleta'
-p1434
+p1470
 aS'1992'
-p1435
+p1471
 aS'Flanker'
-p1436
+p1472
 aS'11'
-p1437
+p1473
 aS'5'
 aS'5'
 aS'1'
 aS'1'
 aS'5'
 aS'1966'
-p1438
+p1474
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1439
+p1475
 aV\u0421\u041a\u0424\u041e
-p1440
+p1476
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1441
-aa(lp1442
+p1477
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1478
+aa(lp1479
 S'Rudolf Moors'
-p1443
+p1480
 aS'1994'
-p1444
+p1481
 aS'Scrum-half'
-p1445
+p1482
 aS'1'
 aS'1'
 aS'0'
@@ -5132,42 +5452,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'1969'
-p1446
+p1483
 aVNederland
-p1447
+p1484
 aV1969
-p1448
+p1485
 aVNederland
-p1449
-aa(lp1450
+p1486
+aVNoord-Holland
+p1487
+aa(lp1488
 S'Toa Samania'
-p1451
+p1489
 aS'1994'
-p1452
+p1490
 aS'Fullback'
-p1453
+p1491
 aS'9'
 aS'6'
 aS'3'
 aS'0'
 aS'2'
 aS'28'
-p1454
+p1492
 aS'1973'
-p1455
+p1493
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1456
+p1494
 aV\u0421\u041a\u0424\u041e
-p1457
+p1495
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1458
-aa(lp1459
+p1496
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1497
+aa(lp1498
 S'Vaa Vitale'
-p1460
+p1499
 aS'1994'
-p1461
+p1500
 aS'Scrum-half'
-p1462
+p1501
 aS'5'
 aS'2'
 aS'3'
@@ -5175,20 +5499,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p1463
+p1502
 aVUnited States of America
-p1464
+p1503
 aV95503
-p1465
+p1504
 aVCalifornia
-p1466
-aa(lp1467
+p1505
+aVHumboldt County
+p1506
+aa(lp1507
 S'Dylan Mika'
-p1468
+p1508
 aS'1994'
-p1469
+p1509
 aS'Back-row'
-p1470
+p1510
 aS'9'
 aS'6'
 aS'3'
@@ -5196,89 +5522,96 @@ aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p1471
+p1511
 aVNew Zealand/Aotearoa
-p1472
+p1512
 aVAuckland
-p1473
-ag898
-aa(lp1474
+p1513
+ag903
+ag903
+aa(lp1514
 S'George Harder'
-p1475
+p1515
 aS'1995'
-p1476
+p1516
 aS'Wing'
-p1477
+p1517
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'3'
 aS'15'
-p1478
+p1518
 aS'Western Samoa'
-p1479
+p1519
 aVUnited States of America
-p1480
+p1520
 aV95503
-p1481
+p1521
 aVCalifornia
-p1482
-aa(lp1483
+p1522
+aVHumboldt County
+p1523
+aa(lp1524
 S'George Leaupepe'
-p1484
+p1525
 aS'1995'
-p1485
+p1526
 aS'Wing'
-p1486
+p1527
 aS'26'
-p1487
+p1528
 aS'12'
-p1488
+p1529
 aS'12'
-p1489
+p1530
 aS'2'
 aS'10'
-p1490
+p1531
 aS'50'
-p1491
+p1532
 aS'Western Samoa'
-p1492
+p1533
 aVUnited States of America
-p1493
+p1534
 aV95503
-p1494
+p1535
 aVCalifornia
-p1495
-aa(lp1496
+p1536
+aVHumboldt County
+p1537
+aa(lp1538
 S'Mike Mika'
-p1497
+p1539
 aS'1995'
-p1498
+p1540
 aS'Prop'
-p1499
+p1541
 aS'15'
-p1500
+p1542
 aS'6'
 aS'7'
 aS'2'
 aS'0'
 aS'0'
 aS'Lower Hutt'
-p1501
+p1543
 aVNew Zealand/Aotearoa
-p1502
+p1544
 aVWellington
-p1503
+p1545
 aVLower Hutt City
-p1504
-aa(lp1505
+p1546
+aVLower Hutt
+p1547
+aa(lp1548
 S'Esera Puleitu'
-p1506
+p1549
 aS'1995'
-p1507
+p1550
 aS'Fly-half'
-p1508
+p1551
 aS'2'
 aS'0'
 aS'2'
@@ -5286,108 +5619,117 @@ aS'0'
 aS'0'
 aS'0'
 aS'1975'
-p1509
+p1552
 aVÖsterreich
-p1510
+p1553
 aV8271
-p1511
+p1554
 aVSteiermark
-p1512
-aa(lp1513
+p1555
+aVHartberg-Fürstenfeld
+p1556
+aa(lp1557
 S'Mike Umaga'
-p1514
+p1558
 aS'1995'
-p1515
+p1559
 aS'Centre'
-p1516
+p1560
 aS'13'
-p1517
+p1561
 aS'5'
 aS'7'
 aS'1'
 aS'2'
 aS'13'
-p1518
+p1562
 aS'Auckland'
-p1519
+p1563
 aVNew Zealand/Aotearoa
-p1520
+p1564
 aVAuckland
-p1521
-ag898
-aa(lp1522
+p1565
+ag903
+ag903
+aa(lp1566
 S'Fata Sini'
-p1523
+p1567
 aS'1995'
-p1524
+p1568
 aS'Fly-half'
-p1525
+p1569
 aS'4'
 aS'1'
 aS'3'
 aS'0'
 aS'2'
 aS'10'
-p1526
+p1570
 aS'1966'
-p1527
+p1571
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1528
+p1572
 aV\u0421\u041a\u0424\u041e
-p1529
+p1573
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1530
-aa(lp1531
+p1574
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1575
+aa(lp1576
 S'Brendan Reidy'
-p1532
+p1577
 aS'1995'
-p1533
+p1578
 aS'Prop'
-p1534
+p1579
 aS'18'
-p1535
+p1580
 aS'7'
 aS'10'
-p1536
+p1581
 aS'1'
 aS'0'
 aS'0'
 aS'Wellington'
-p1537
+p1582
 aVNew Zealand/Aotearoa
-p1538
+p1583
 aVWellington
-p1539
+p1584
 aVWellington City
-p1540
-aa(lp1541
+p1585
+aVWellington
+p1586
+aa(lp1587
 S'Joe Filemu'
-p1542
+p1588
 aS'1995'
-p1543
+p1589
 aS'Scrum-half'
-p1544
+p1590
 aS'22'
-p1545
+p1591
 aS'13'
-p1546
+p1592
 aS'7'
 aS'2'
 aS'1'
 aS'5'
 aS'1974'
-p1547
+p1593
 aVÖsterreich
-p1548
+p1594
 aV8573
-p1549
+p1595
 aVSteiermark
-p1550
-aa(lp1551
+p1596
+aVVoitsberg
+p1597
+aa(lp1598
 S'Veli Patu'
-p1552
+p1599
 aS'1995'
-p1553
+p1600
 aS''
 aS'5'
 aS'1'
@@ -5395,44 +5737,48 @@ aS'3'
 aS'1'
 aS'2'
 aS'13'
-p1554
+p1601
 aS'1967'
-p1555
+p1602
 aVDanmark
-p1556
+p1603
 aV1967
-p1557
+p1604
 aVRegion Hovedstaden
-p1558
-aa(lp1559
+p1605
+aVFrederiksberg Kommune
+p1606
+aa(lp1607
 S'Alex Telea'
-p1560
+p1608
 aS'1995'
-p1561
+p1609
 aS'Wing'
-p1562
+p1610
 aS'5'
 aS'1'
 aS'3'
 aS'1'
 aS'3'
 aS'15'
-p1563
+p1611
 aS'Lower Hutt'
-p1564
+p1612
 aVNew Zealand/Aotearoa
-p1565
+p1613
 aVWellington
-p1566
+p1614
 aVLower Hutt City
-p1567
-aa(lp1568
+p1615
+aVLower Hutt
+p1616
+aa(lp1617
 S'Stephen Smith'
-p1569
+p1618
 aS'1995'
-p1570
+p1619
 aS'Lock'
-p1571
+p1620
 aS'8'
 aS'2'
 aS'4'
@@ -5440,66 +5786,72 @@ aS'2'
 aS'0'
 aS'0'
 aS'1973'
-p1572
+p1621
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1573
+p1622
 aV\u0421\u041a\u0424\u041e
-p1574
+p1623
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1575
-aa(lp1576
+p1624
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1625
+aa(lp1626
 S'Terry Fanolua'
-p1577
+p1627
 aS'1996'
-p1578
+p1628
 aS'Centre'
-p1579
+p1629
 aS'29'
-p1580
+p1630
 aS'17'
-p1581
+p1631
 aS'12'
-p1582
+p1632
 aS'0'
 aS'7'
 aS'35'
-p1583
+p1633
 aS'Western Samoa'
-p1584
+p1634
 aVUnited States of America
-p1585
+p1635
 aV95503
-p1586
+p1636
 aVCalifornia
-p1587
-aa(lp1588
+p1637
+aVHumboldt County
+p1638
+aa(lp1639
 S"Sene Ta'ala"
-p1589
+p1640
 aS'1996'
-p1590
+p1641
 aS'Flanker'
-p1591
+p1642
 aS'18'
-p1592
+p1643
 aS'11'
-p1593
+p1644
 aS'6'
 aS'1'
 aS'0'
 aS'0'
 aS'Johnsonville'
-p1594
+p1645
 aVUnited States of America
-p1595
+p1646
 aVIllinois
-p1596
+p1647
 aVVermilion County
-p1597
-aa(lp1598
+p1648
+aVJohnsonville
+p1649
+aa(lp1650
 S"Fa'avaivai Tanoa'i"
-p1599
+p1651
 aS'1996'
-p1600
+p1652
 aS''
 aS'2'
 aS'1'
@@ -5507,22 +5859,24 @@ aS'1'
 aS'0'
 aS'0'
 aS'10'
-p1601
+p1653
 aS'1974'
-p1602
+p1654
 aVÖsterreich
-p1603
+p1655
 aV8573
-p1604
+p1656
 aVSteiermark
-p1605
-aa(lp1606
+p1657
+aVVoitsberg
+p1658
+aa(lp1659
 S'Onehunga Matauiau Esau'
-p1607
+p1660
 aS'1996'
-p1608
+p1661
 aS'Hooker'
-p1609
+p1662
 aS'9'
 aS'4'
 aS'5'
@@ -5530,20 +5884,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1975'
-p1610
+p1663
 aVÖsterreich
-p1611
+p1664
 aV8271
-p1612
+p1665
 aVSteiermark
-p1613
-aa(lp1614
+p1666
+aVHartberg-Fürstenfeld
+p1667
+aa(lp1668
 S'Kaisa Tuigamala'
-p1615
+p1669
 aS'1996'
-p1616
+p1670
 aS'Centre'
-p1617
+p1671
 aS'1'
 aS'0'
 aS'1'
@@ -5551,209 +5907,226 @@ aS'0'
 aS'0'
 aS'0'
 aS'1973'
-p1618
+p1672
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1619
+p1673
 aV\u0421\u041a\u0424\u041e
-p1620
+p1674
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1621
-aa(lp1622
+p1675
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1676
+aa(lp1677
 S"Zak Feau'nati"
-p1623
+p1678
 aS'1996'
-p1624
+p1679
 aS'No. 8'
-p1625
+p1680
 aS'14'
-p1626
+p1681
 aS'9'
 aS'4'
 aS'1'
 aS'2'
 aS'10'
-p1627
+p1682
 aS'Wellington'
-p1628
+p1683
 aVNew Zealand/Aotearoa
-p1629
+p1684
 aVWellington
-p1630
+p1685
 aVWellington City
-p1631
-aa(lp1632
+p1686
+aVWellington
+p1687
+aa(lp1688
 S"Afato So'oalo"
-p1633
+p1689
 aS'1996'
-p1634
+p1690
 aS'Wing'
-p1635
+p1691
 aS'20'
-p1636
+p1692
 aS'12'
-p1637
+p1693
 aS'7'
 aS'1'
 aS'15'
-p1638
+p1694
 aS'75'
-p1639
+p1695
 aS'Western Samoa'
-p1640
+p1696
 aVUnited States of America
-p1641
+p1697
 aV95503
-p1642
+p1698
 aVCalifornia
-p1643
-aa(lp1644
+p1699
+aVHumboldt County
+p1700
+aa(lp1701
 S'Inga Tuigamala'
-p1645
+p1702
 aS'1991'
-p1646
+p1703
 aS'Centre, Wing'
-p1647
+p1704
 aS'41'
-p1648
+p1705
 aS'27'
-p1649
+p1706
 aS'14'
-p1650
+p1707
 aS'0'
 aS'8'
 aS'36'
-p1651
+p1708
 aS'Western Samoa'
-p1652
+p1709
 aVUnited States of America
-p1653
+p1710
 aV95503
-p1654
+p1711
 aVCalifornia
-p1655
-aa(lp1656
+p1712
+aVHumboldt County
+p1713
+aa(lp1714
 S"Earl Va'a"
-p1657
+p1715
 aS'1996'
-p1658
+p1716
 aS'Fly-half'
-p1659
+p1717
 aS'28'
-p1660
+p1718
 aS'15'
-p1661
+p1719
 aS'12'
-p1662
+p1720
 aS'1'
 aS'3'
 aS'172'
-p1663
+p1721
 aS'Wellington'
-p1664
+p1722
 aVNew Zealand/Aotearoa
-p1665
+p1723
 aVWellington
-p1666
+p1724
 aVWellington City
-p1667
-aa(lp1668
+p1725
+aVWellington
+p1726
+aa(lp1727
 S'Robbie Ale'
-p1669
+p1728
 aS'1997'
-p1670
+p1729
 aS'Prop'
-p1671
+p1730
 aS'6'
 aS'4'
 aS'2'
 aS'0'
 aS'2'
 aS'10'
-p1672
+p1731
 aS'1973'
-p1673
+p1732
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1674
+p1733
 aV\u0421\u041a\u0424\u041e
-p1675
+p1734
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1676
-aa(lp1677
+p1735
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1736
+aa(lp1737
 S'John Clarke'
-p1678
+p1738
 aS'1997'
-p1679
+p1739
 aS'Scrum-half'
-p1680
+p1740
 aS'5'
 aS'4'
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p1681
+p1741
 aS'Lower Hutt'
-p1682
+p1742
 aVNew Zealand/Aotearoa
-p1683
+p1743
 aVWellington
-p1684
+p1744
 aVLower Hutt City
-p1685
-aa(lp1686
+p1745
+aVLower Hutt
+p1746
+aa(lp1747
 S'Silao Leaegailesolo'
-p1687
+p1748
 aS'1997'
-p1688
+p1749
 aS'Centre'
-p1689
+p1750
 aS'19'
-p1690
+p1751
 aS'10'
-p1691
+p1752
 aS'9'
 aS'0'
 aS'2'
 aS'145'
-p1692
+p1753
 aS'Western Samoa'
-p1693
+p1754
 aVUnited States of America
-p1694
+p1755
 aV95503
-p1695
+p1756
 aVCalifornia
-p1696
-aa(lp1697
+p1757
+aVHumboldt County
+p1758
+aa(lp1759
 S'Trevor Leota'
-p1698
+p1760
 aS'1997'
-p1699
+p1761
 aS'Hooker'
-p1700
+p1762
 aS'30'
-p1701
+p1763
 aS'15'
-p1702
+p1764
 aS'14'
-p1703
+p1765
 aS'1'
 aS'1'
 aS'5'
 aS'Auckland'
-p1704
+p1766
 aVNew Zealand/Aotearoa
-p1705
+p1767
 aVAuckland
-p1706
-ag898
-aa(lp1707
+p1768
+ag903
+ag903
+aa(lp1769
 S'Tupae Pati'
-p1708
+p1770
 aS'1997'
-p1709
+p1771
 aS'Fly-half'
-p1710
+p1772
 aS'1'
 aS'1'
 aS'0'
@@ -5761,20 +6134,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1975'
-p1711
+p1773
 aVÖsterreich
-p1712
+p1774
 aV8271
-p1713
+p1775
 aVSteiermark
-p1714
-aa(lp1715
+p1776
+aVHartberg-Fürstenfeld
+p1777
+aa(lp1778
 S'Richard Rasmussen'
-p1716
+p1779
 aS'1997'
-p1717
+p1780
 aS'Lock'
-p1718
+p1781
 aS'1'
 aS'1'
 aS'0'
@@ -5782,20 +6157,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1977'
-p1719
+p1782
 aVSvizra
-p1720
+p1783
 aVSvizzera
-p1721
+p1784
 aVSuisse
-p1722
-aa(lp1723
+p1785
+aVSchweiz
+p1786
+aa(lp1787
 S"Kepi Faiva'ai"
-p1724
+p1788
 aS'1998'
-p1725
+p1789
 aS'Prop'
-p1726
+p1790
 aS'9'
 aS'4'
 aS'4'
@@ -5803,92 +6180,100 @@ aS'1'
 aS'0'
 aS'0'
 aS'Wellington'
-p1727
+p1791
 aVNew Zealand/Aotearoa
-p1728
+p1792
 aVWellington
-p1729
+p1793
 aVWellington City
-p1730
-aa(lp1731
+p1794
+aVWellington
+p1795
+aa(lp1796
 S"Fosi Pala'amo"
-p1732
+p1797
 aS'1998'
-p1733
+p1798
 aS'Prop'
-p1734
+p1799
 aS'14'
-p1735
+p1800
 aS'7'
 aS'7'
 aS'0'
 aS'1'
 aS'5'
 aS'Murupara'
-p1736
+p1801
 aVNew Zealand/Aotearoa
-p1737
+p1802
 aVBay of Plenty
-p1738
+p1803
 aVWhakatane District
-p1739
-aa(lp1740
+p1804
+aVMurupara
+p1805
+aa(lp1806
 S'Opeta Palepoi'
-p1741
+p1807
 aS'1998'
-p1742
+p1808
 aS'Lock, Flanker'
-p1743
+p1809
 aS'43'
-p1744
+p1810
 aS'24'
-p1745
+p1811
 aS'19'
-p1746
+p1812
 aS'0'
 aS'2'
 aS'10'
-p1747
+p1813
 aS'Western Samoa'
-p1748
+p1814
 aVUnited States of America
-p1749
+p1815
 aV95503
-p1750
+p1816
 aVCalifornia
-p1751
-aa(lp1752
+p1817
+aVHumboldt County
+p1818
+aa(lp1819
 S"Steve So'oialo"
-p1753
+p1820
 aS'1998'
-p1754
+p1821
 aS'Scrum-half'
-p1755
+p1822
 aS'40'
-p1756
+p1823
 aS'18'
-p1757
+p1824
 aS'22'
-p1758
+p1825
 aS'0'
 aS'5'
 aS'25'
-p1759
+p1826
 aS'Western Samoa'
-p1760
+p1827
 aVUnited States of America
-p1761
+p1828
 aV95503
-p1762
+p1829
 aVCalifornia
-p1763
-aa(lp1764
+p1830
+aVHumboldt County
+p1831
+aa(lp1832
 S'Kalolo Toleafoa'
-p1765
+p1833
 aS'1998'
-p1766
+p1834
 aS'Flanker'
-p1767
+p1835
 aS'3'
 aS'1'
 aS'2'
@@ -5896,43 +6281,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p1768
+p1836
 aVUnited States of America
-p1769
+p1837
 aV95503
-p1770
+p1838
 aVCalifornia
-p1771
-aa(lp1772
+p1839
+aVHumboldt County
+p1840
+aa(lp1841
 S'Lama Tone'
-p1773
+p1842
 aS'1998'
-p1774
+p1843
 aS'Lock'
-p1775
+p1844
 aS'24'
-p1776
+p1845
 aS'12'
-p1777
+p1846
 aS'11'
-p1778
+p1847
 aS'1'
 aS'0'
 aS'0'
 aS'Auckland'
-p1779
+p1848
 aVNew Zealand/Aotearoa
-p1780
+p1849
 aVAuckland
-p1781
-ag898
-aa(lp1782
+p1850
+ag903
+ag903
+aa(lp1851
 S'Filipo Toala'
-p1783
+p1852
 aS'1998'
-p1784
+p1853
 aS'Wing'
-p1785
+p1854
 aS'6'
 aS'1'
 aS'5'
@@ -5940,20 +6328,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Western Samoa'
-p1786
+p1855
 aVUnited States of America
-p1787
+p1856
 aV95503
-p1788
+p1857
 aVCalifornia
-p1789
-aa(lp1790
+p1858
+aVHumboldt County
+p1859
+aa(lp1860
 S'Malua Tipi'
-p1791
+p1861
 aS'1998'
-p1792
+p1862
 aS'Lock'
-p1793
+p1863
 aS'7'
 aS'2'
 aS'5'
@@ -5961,17 +6351,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1794
+p1864
 aS'g'
 aS'n'
 aS'i'
-aa(lp1795
+aS's'
+aa(lp1865
 S"Andrew Va'a"
-p1796
+p1866
 aS'1998'
-p1797
+p1867
 aS'Hooker'
-p1798
+p1868
 aS'1'
 aS'0'
 aS'1'
@@ -5979,61 +6370,65 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1799
+p1869
 aS'g'
 aS'n'
 aS'i'
-aa(lp1800
+aS's'
+aa(lp1870
 S'Craig Glendinning'
-p1801
+p1871
 aS'1999'
-p1802
+p1872
 aS'No. 8'
-p1803
+p1873
 aS'22'
-p1804
+p1874
 aS'13'
-p1805
+p1875
 aS'8'
 aS'1'
 aS'1'
 aS'5'
 aS'Otahuhu'
-p1806
+p1876
 aVNew Zealand/Aotearoa
-p1807
+p1877
 aVAuckland
-p1808
+p1878
 aVMangere-Otahuhu
-p1809
-aa(lp1810
+p1879
+aV\u014ct\u0101huhu
+p1880
+aa(lp1881
 S'Ali Koko'
-p1811
+p1882
 aS'1999'
-p1812
+p1883
 aS'Wing'
-p1813
+p1884
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p1814
+p1885
 aS'American Samoa'
-p1815
+p1886
 aVUnited States of America
-p1816
+p1887
 aVAmerican Samoa
-p1817
-ag898
-aa(lp1818
+p1888
+ag903
+ag903
+aa(lp1889
 S'Mepi Faoagali'
-p1819
+p1890
 aS'1999'
-p1820
+p1891
 aS'Wing, Centre'
-p1821
+p1892
 aS'2'
 aS'1'
 aS'1'
@@ -6041,92 +6436,99 @@ aS'0'
 aS'0'
 aS'0'
 aS'1971'
-p1822
+p1893
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1823
+p1894
 aV\u0421\u041a\u0424\u041e
-p1824
+p1895
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1825
-aa(lp1826
+p1896
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1897
+aa(lp1898
 S'Mark Luafalealo'
-p1827
+p1899
 aS'1999'
-p1828
+p1900
 aS'Prop'
-p1829
+p1901
 aS'10'
-p1830
+p1902
 aS'6'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
 aS'1975'
-p1831
+p1903
 aVÖsterreich
-p1832
+p1904
 aV8271
-p1833
+p1905
 aVSteiermark
-p1834
-aa(lp1835
+p1906
+aVHartberg-Fürstenfeld
+p1907
+aa(lp1908
 S'Semo Sititi'
-p1836
+p1909
 aS'1999'
-p1837
+p1910
 aS'Flanker'
-p1838
+p1911
 aS'63'
-p1839
+p1912
 aS'33'
-p1840
+p1913
 aS'30'
-p1841
+p1914
 aS'0'
 aS'17'
-p1842
+p1915
 aS'85'
-p1843
+p1916
 aS'Western Samoa'
-p1844
+p1917
 aVUnited States of America
-p1845
+p1918
 aV95503
-p1846
+p1919
 aVCalifornia
-p1847
-aa(lp1848
+p1920
+aVHumboldt County
+p1921
+aa(lp1922
 S'Tanner Vili'
-p1849
+p1923
 aS'1999'
-p1850
+p1924
 aS'Centre'
-p1851
+p1925
 aS'34'
-p1852
+p1926
 aS'16'
-p1853
+p1927
 aS'17'
-p1854
+p1928
 aS'1'
 aS'4'
 aS'99'
-p1855
+p1929
 aS'Auckland'
-p1856
+p1930
 aVNew Zealand/Aotearoa
-p1857
+p1931
 aVAuckland
-p1858
-ag898
-aa(lp1859
+p1932
+ag903
+ag903
+aa(lp1933
 S"Fa'apulou So'olefai"
-p1860
+p1934
 aS'1999'
-p1861
+p1935
 aS'Centre, Wing'
-p1862
+p1936
 aS'9'
 aS'4'
 aS'4'
@@ -6134,185 +6536,201 @@ aS'1'
 aS'0'
 aS'0'
 aS'1977'
-p1863
+p1937
 aVSvizra
-p1864
+p1938
 aVSvizzera
-p1865
+p1939
 aVSuisse
-p1866
-aa(lp1867
+p1940
+aVSchweiz
+p1941
+aa(lp1942
 S'John Schuster'
-p1868
+p1943
 aS'1988'
-p1869
+p1944
 aS'Centre'
-p1870
+p1945
 aS'13'
-p1871
+p1946
 aS'10'
-p1872
+p1947
 aS'1'
 aS'2'
 aS'1'
 aS'21'
-p1873
+p1948
 aS'Western Samoa'
-p1874
+p1949
 aVUnited States of America
-p1875
+p1950
 aV95503
-p1876
+p1951
 aVCalifornia
-p1877
-aa(lp1878
+p1952
+aVHumboldt County
+p1953
+aa(lp1954
 S'Tani Fuga'
-p1879
+p1955
 aS'1999'
-p1880
+p1956
 aS'Hooker'
-p1881
+p1957
 aS'13'
-p1882
+p1958
 aS'7'
 aS'6'
 aS'0'
 aS'1'
 aS'5'
 aS'Western Samoa'
-p1883
+p1959
 aVUnited States of America
-p1884
+p1960
 aV95503
-p1885
+p1961
 aVCalifornia
-p1886
-aa(lp1887
+p1962
+aVHumboldt County
+p1963
+aa(lp1964
 S'Polo Asi'
-p1888
+p1965
 aS'1999'
-p1889
+p1966
 aS'Prop'
-p1890
+p1967
 aS'15'
-p1891
+p1968
 aS'8'
 aS'7'
 aS'0'
 aS'0'
 aS'0'
 aS'1975'
-p1892
+p1969
 aVÖsterreich
-p1893
+p1970
 aV8271
-p1894
+p1971
 aVSteiermark
-p1895
-aa(lp1896
+p1972
+aVHartberg-Fürstenfeld
+p1973
+aa(lp1974
 S'Tom Curtis'
-p1897
+p1975
 aS'2000'
-p1898
+p1976
 aS'Lock'
-p1899
+p1977
 aS'6'
 aS'5'
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p1900
+p1978
 aS'1973'
-p1901
+p1979
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p1902
+p1980
 aV\u0421\u041a\u0424\u041e
-p1903
+p1981
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p1904
-aa(lp1905
+p1982
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p1983
+aa(lp1984
 S"Lome Fa'atau"
-p1906
+p1985
 aS'2000'
-p1907
+p1986
 aS'Wing'
-p1908
+p1987
 aS'40'
-p1909
+p1988
 aS'19'
-p1910
+p1989
 aS'21'
-p1911
+p1990
 aS'0'
 aS'15'
-p1912
+p1991
 aS'75'
-p1913
+p1992
 aS'Wellington'
-p1914
+p1993
 aVNew Zealand/Aotearoa
-p1915
+p1994
 aVWellington
-p1916
+p1995
 aVWellington City
-p1917
-aa(lp1918
+p1996
+aVWellington
+p1997
+aa(lp1998
 S"Kas Lealamanu'a"
-p1919
+p1999
 aS'2000'
-p1920
+p2000
 aS'Prop'
-p1921
+p2001
 aS'31'
-p1922
+p2002
 aS'14'
-p1923
+p2003
 aS'17'
-p1924
+p2004
 aS'0'
 aS'1'
 aS'5'
 aS'Western Samoa'
-p1925
+p2005
 aVUnited States of America
-p1926
+p2006
 aV95503
-p1927
+p2007
 aVCalifornia
-p1928
-aa(lp1929
+p2008
+aVHumboldt County
+p2009
+aa(lp2010
 S"Elvis Seveali'i"
-p1930
+p2011
 aS'2000'
-p1931
+p2012
 aS'Centre'
-p1932
+p2013
 aS'22'
-p1933
+p2014
 aS'11'
-p1934
+p2015
 aS'11'
-p1935
+p2016
 aS'0'
 aS'9'
 aS'45'
-p1936
+p2017
 aS'Wellington'
-p1937
+p2018
 aVNew Zealand/Aotearoa
-p1938
+p2019
 aVWellington
-p1939
+p2020
 aVWellington City
-p1940
-aa(lp1941
+p2021
+aVWellington
+p2022
+aa(lp2023
 S'Malaga Leota'
-p1942
+p2024
 aS'2000'
-p1943
+p2025
 aS'Prop'
-p1944
+p2026
 aS'2'
 aS'2'
 aS'0'
@@ -6320,42 +6738,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'1977'
-p1945
+p2027
 aVSvizra
-p1946
+p2028
 aVSvizzera
-p1947
+p2029
 aVSuisse
-p1948
-aa(lp1949
+p2030
+aVSchweiz
+p2031
+aa(lp2032
 S'Denning Tyrell'
-p1950
+p2033
 aS'2000'
-p1951
+p2034
 aS'Scrum-half'
-p1952
+p2035
 aS'13'
-p1953
+p2036
 aS'8'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p1954
+p2037
 aVUnited States of America
-p1955
+p2038
 aV95503
-p1956
+p2039
 aVCalifornia
-p1957
-aa(lp1958
+p2040
+aVHumboldt County
+p2041
+aa(lp2042
 S'Tim Cowley'
-p1959
+p2043
 aS'2000'
-p1960
+p2044
 aS'Flanker'
-p1961
+p2045
 aS'3'
 aS'3'
 aS'0'
@@ -6363,20 +6785,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tokoroa'
-p1962
+p2046
 aVNew Zealand/Aotearoa
-p1963
+p2047
 aVWaikato
-p1964
+p2048
 aVSouth Waikato District
-p1965
-aa(lp1966
+p2049
+aVTokoroa
+p2050
+aa(lp2051
 S'Ngapaku Ngapaku'
-p1967
+p2052
 aS'2000'
-p1968
+p2053
 aS'Fly-half'
-p1969
+p2054
 aS'3'
 aS'3'
 aS'0'
@@ -6384,20 +6808,22 @@ aS'0'
 aS'0'
 aS'2'
 aS'Otahuhu'
-p1970
+p2055
 aVNew Zealand/Aotearoa
-p1971
+p2056
 aVAuckland
-p1972
+p2057
 aVMangere-Otahuhu
-p1973
-aa(lp1974
+p2058
+aV\u014ct\u0101huhu
+p2059
+aa(lp2060
 S'Iva Motusaga'
-p1975
+p2061
 aS'2000'
-p1976
+p2062
 aS'Flanker'
-p1977
+p2063
 aS'3'
 aS'1'
 aS'2'
@@ -6405,20 +6831,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Porirua'
-p1978
+p2064
 aVNew Zealand/Aotearoa
-p1979
+p2065
 aVWellington
-p1980
+p2066
 aVPorirua City
-p1981
-aa(lp1982
+p2067
+aVPorirua
+p2068
+aa(lp2069
 S"S. Fa'asua Taua"
-p1983
+p2070
 aS'2000'
-p1984
+p2071
 aS'No. 8'
-p1985
+p2072
 aS'1'
 aS'0'
 aS'1'
@@ -6426,20 +6854,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1978'
-p1986
+p2073
 aVSvizra
-p1987
+p2074
 aVSvizzera
-p1988
+p2075
 aVSuisse
-p1989
-aa(lp1990
+p2076
+aVSchweiz
+p2077
+aa(lp2078
 S'Junior Maligi'
-p1991
+p2079
 aS'2000'
-p1992
+p2080
 aS'No. 8'
-p1993
+p2081
 aS'2'
 aS'0'
 aS'2'
@@ -6447,17 +6877,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p1994
+p2082
 aS'g'
 aS'n'
 aS'i'
-aa(lp1995
+aS's'
+aa(lp2083
 S'Luke Mealamu'
-p1996
+p2084
 aS'2000'
-p1997
+p2085
 aS'No. 8'
-p1998
+p2086
 aS'2'
 aS'0'
 aS'2'
@@ -6465,327 +6896,87 @@ aS'0'
 aS'0'
 aS'0'
 aS'1977'
-p1999
-aVSvizra
-p2000
-aVSvizzera
-p2001
-aVSuisse
-p2002
-aa(lp2003
-S'Sika Poching'
-p2004
-aS'2000'
-p2005
-aS'Lock'
-p2006
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p2007
-aS'g'
-aS'n'
-aS'i'
-aa(lp2008
-S'Quintan Sanft'
-p2009
-aS'2000'
-p2010
-aS'Fly-half'
-p2011
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'6'
-aS'date unknown'
-p2012
-aS'g'
-aS'n'
-aS'i'
-aa(lp2013
-S"Alfie To'oala Vaeluaga"
-p2014
-aS'2000'
-p2015
-aS'Back-row'
-p2016
-aS'13'
-p2017
-aS'6'
-aS'7'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p2018
-aVUnited States of America
-p2019
-aV95503
-p2020
-aVCalifornia
-p2021
-aa(lp2022
-S'Tuaifuaina Veiru'
-p2023
-aS'2000'
-p2024
-aS'Prop'
-p2025
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p2026
-aS'g'
-aS'n'
-aS'i'
-aa(lp2027
-S'Joe Mamea'
-p2028
-aS'2000'
-p2029
-aS'No. 8'
-p2030
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p2031
-aVUnited States of America
-p2032
-aV95503
-p2033
-aVCalifornia
-p2034
-aa(lp2035
-S'Pule Misa'
-p2036
-aS'2000'
-p2037
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p2038
-aS'g'
-aS'n'
-aS'i'
-aa(lp2039
-S'Mahonri Schwalger'
-p2040
-aS'2000'
-p2041
-aS'Hooker'
-p2042
-aS'42'
-p2043
-aS'18'
-p2044
-aS'24'
-p2045
-aS'0'
-aS'4'
-aS'20'
-p2046
-aS'Western Samoa'
-p2047
-aVUnited States of America
-p2048
-aV95503
-p2049
-aVCalifornia
-p2050
-aa(lp2051
-S'Dan Tafeamalii'
-p2052
-aS'2000'
-p2053
-aS''
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p2054
-aS'g'
-aS'n'
-aS'i'
-aa(lp2055
-S'Aleki Toleafoa'
-p2056
-aS'2000'
-p2057
-aS'Fly-half'
-p2058
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p2059
-aVUnited States of America
-p2060
-aV95503
-p2061
-aVCalifornia
-p2062
-aa(lp2063
-S'Setefano Tone'
-p2064
-aS'2000'
-p2065
-aS'Lock'
-p2066
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'1974'
-p2067
-aVÖsterreich
-p2068
-aV8573
-p2069
-aVSteiermark
-p2070
-aa(lp2071
-S'Mussolini Schuster'
-p2072
-aS'2000'
-p2073
-aS'Wing'
-p2074
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'1980'
-p2075
-aVSverige
-p2076
-aVSvealand
-p2077
-aVVästmanlands län
-p2078
-aa(lp2079
-S'Anthony Mika'
-p2080
-aS'2000'
-p2081
-aS'Flanker'
-p2082
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p2083
-aVNew Zealand/Aotearoa
-p2084
-aVAuckland
-p2085
-ag898
-aa(lp2086
-S"Leo Lafaiali'i"
 p2087
-aS'2001'
+aVSvizra
 p2088
-aS'Lock'
+aVSvizzera
 p2089
-aS'27'
+aVSuisse
 p2090
-aS'14'
+aVSchweiz
 p2091
-aS'13'
-p2092
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
+aa(lp2092
+S'Sika Poching'
 p2093
-aVNew Zealand/Aotearoa
+aS'2000'
 p2094
-aVAuckland
+aS'Lock'
 p2095
-ag898
-aa(lp2096
-S'Patrick Segi'
-p2097
-aS'2001'
-p2098
-aS'Flanker'
-p2099
-aS'11'
-p2100
-aS'7'
-aS'4'
-aS'0'
-aS'1'
-aS'5'
-aS'Auckland'
-p2101
-aVNew Zealand/Aotearoa
-p2102
-aVAuckland
-p2103
-ag898
-aa(lp2104
-S'Ace Tiatia'
-p2105
-aS'2001'
-p2106
-aS'Hooker'
-p2107
-aS'7'
-aS'4'
 aS'3'
+aS'1'
+aS'2'
 aS'0'
 aS'0'
 aS'0'
-aS'Wellington'
+aS'date unknown'
+p2096
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2097
+S'Quintan Sanft'
+p2098
+aS'2000'
+p2099
+aS'Fly-half'
+p2100
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'6'
+aS'date unknown'
+p2101
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2102
+S"Alfie To'oala Vaeluaga"
+p2103
+aS'2000'
+p2104
+aS'Back-row'
+p2105
+aS'13'
+p2106
+aS'6'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p2107
+aVUnited States of America
 p2108
-aVNew Zealand/Aotearoa
+aV95503
 p2109
-aVWellington
+aVCalifornia
 p2110
-aVWellington City
+aVHumboldt County
 p2111
 aa(lp2112
-S'Hery Williams'
+S'Tuaifuaina Veiru'
 p2113
-aS'2001'
+aS'2000'
 p2114
 aS'Prop'
 p2115
-aS'3'
-aS'3'
+aS'2'
 aS'0'
+aS'2'
 aS'0'
 aS'0'
 aS'0'
@@ -6794,149 +6985,425 @@ p2116
 aS'g'
 aS'n'
 aS'i'
+aS's'
 aa(lp2117
-S'Tamato Leupolu'
+S'Joe Mamea'
 p2118
-aS'2001'
+aS'2000'
 p2119
-aS'Prop'
+aS'No. 8'
 p2120
-aS'15'
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
 p2121
+aVUnited States of America
+p2122
+aV95503
+p2123
+aVCalifornia
+p2124
+aVHumboldt County
+p2125
+aa(lp2126
+S'Pule Misa'
+p2127
+aS'2000'
+p2128
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2129
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2130
+S'Mahonri Schwalger'
+p2131
+aS'2000'
+p2132
+aS'Hooker'
+p2133
+aS'42'
+p2134
+aS'18'
+p2135
+aS'24'
+p2136
+aS'0'
+aS'4'
+aS'20'
+p2137
+aS'Western Samoa'
+p2138
+aVUnited States of America
+p2139
+aV95503
+p2140
+aVCalifornia
+p2141
+aVHumboldt County
+p2142
+aa(lp2143
+S'Dan Tafeamalii'
+p2144
+aS'2000'
+p2145
+aS''
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2146
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2147
+S'Aleki Toleafoa'
+p2148
+aS'2000'
+p2149
+aS'Fly-half'
+p2150
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p2151
+aVUnited States of America
+p2152
+aV95503
+p2153
+aVCalifornia
+p2154
+aVHumboldt County
+p2155
+aa(lp2156
+S'Setefano Tone'
+p2157
+aS'2000'
+p2158
+aS'Lock'
+p2159
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1974'
+p2160
+aVÖsterreich
+p2161
+aV8573
+p2162
+aVSteiermark
+p2163
+aVVoitsberg
+p2164
+aa(lp2165
+S'Mussolini Schuster'
+p2166
+aS'2000'
+p2167
+aS'Wing'
+p2168
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1980'
+p2169
+aVSverige
+p2170
+aVSvealand
+p2171
+aVVästmanlands län
+p2172
+aVVästerås
+p2173
+aa(lp2174
+S'Anthony Mika'
+p2175
+aS'2000'
+p2176
+aS'Flanker'
+p2177
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p2178
+aVNew Zealand/Aotearoa
+p2179
+aVAuckland
+p2180
+ag903
+ag903
+aa(lp2181
+S"Leo Lafaiali'i"
+p2182
+aS'2001'
+p2183
+aS'Lock'
+p2184
+aS'27'
+p2185
+aS'14'
+p2186
+aS'13'
+p2187
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p2188
+aVNew Zealand/Aotearoa
+p2189
+aVAuckland
+p2190
+ag903
+ag903
+aa(lp2191
+S'Patrick Segi'
+p2192
+aS'2001'
+p2193
+aS'Flanker'
+p2194
+aS'11'
+p2195
+aS'7'
+aS'4'
+aS'0'
+aS'1'
+aS'5'
+aS'Auckland'
+p2196
+aVNew Zealand/Aotearoa
+p2197
+aVAuckland
+p2198
+ag903
+ag903
+aa(lp2199
+S'Ace Tiatia'
+p2200
+aS'2001'
+p2201
+aS'Hooker'
+p2202
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
+p2203
+aVNew Zealand/Aotearoa
+p2204
+aVWellington
+p2205
+aVWellington City
+p2206
+aVWellington
+p2207
+aa(lp2208
+S'Hery Williams'
+p2209
+aS'2001'
+p2210
+aS'Prop'
+p2211
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2212
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2213
+S'Tamato Leupolu'
+p2214
+aS'2001'
+p2215
+aS'Prop'
+p2216
+aS'15'
+p2217
 aS'8'
 aS'7'
 aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p2122
+p2218
 aVNew Zealand/Aotearoa
-p2123
+p2219
 aVAuckland
-p2124
-ag898
-aa(lp2125
+p2220
+ag903
+ag903
+aa(lp2221
 S'Jonathan Meredith'
-p2126
+p2222
 aS'2001'
-p2127
+p2223
 aS'Hooker'
-p2128
+p2224
 aS'21'
-p2129
+p2225
 aS'11'
-p2130
+p2226
 aS'10'
-p2131
+p2227
 aS'0'
 aS'1'
 aS'5'
 aS'Western Samoa'
-p2132
+p2228
 aVUnited States of America
-p2133
+p2229
 aV95503
-p2134
+p2230
 aVCalifornia
-p2135
-aa(lp2136
+p2231
+aVHumboldt County
+p2232
+aa(lp2233
 S'George Stowers'
-p2137
+p2234
 aS'2001'
-p2138
+p2235
 aS'Back-row'
-p2139
+p2236
 aS'24'
-p2140
+p2237
 aS'10'
-p2141
+p2238
 aS'14'
-p2142
+p2239
 aS'0'
 aS'5'
 aS'25'
-p2143
+p2240
 aS'Western Samoa'
-p2144
+p2241
 aVUnited States of America
-p2145
+p2242
 aV95503
-p2146
+p2243
 aVCalifornia
-p2147
-aa(lp2148
+p2244
+aVHumboldt County
+p2245
+aa(lp2246
 S'Jeremy Tomuli'
-p2149
+p2247
 aS'2001'
-p2150
+p2248
 aS'Prop'
-p2151
+p2249
 aS'14'
-p2152
+p2250
 aS'8'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'1971'
-p2153
+p2251
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2154
+p2252
 aV\u0421\u041a\u0424\u041e
-p2155
+p2253
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2156
-aa(lp2157
+p2254
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2255
+aa(lp2256
 S'Siaosi Vaili'
-p2158
+p2257
 aS'2001'
-p2159
+p2258
 aS'Back-row'
-p2160
+p2259
 aS'10'
-p2161
+p2260
 aS'6'
 aS'4'
 aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p2162
+p2261
 aVUnited States of America
-p2163
+p2262
 aV95503
-p2164
+p2263
 aVCalifornia
-p2165
-aa(lp2166
+p2264
+aVHumboldt County
+p2265
+aa(lp2266
 S'Kitiona Viliamu'
-p2167
+p2267
 aS'2001'
-p2168
+p2268
 aS'Lock, Flanker'
-p2169
+p2269
 aS'10'
-p2170
+p2270
 aS'3'
 aS'7'
 aS'0'
 aS'1'
 aS'5'
 aS'Wellington'
-p2171
+p2271
 aVNew Zealand/Aotearoa
-p2172
+p2272
 aVWellington
-p2173
+p2273
 aVWellington City
-p2174
-aa(lp2175
+p2274
+aVWellington
+p2275
+aa(lp2276
 S"Fa'amaoni Lalomilo"
-p2176
+p2277
 aS'2001'
-p2177
+p2278
 aS'Prop'
-p2178
+p2279
 aS'2'
 aS'1'
 aS'1'
@@ -6944,17 +7411,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p2179
+p2280
 aS'g'
 aS'n'
 aS'i'
-aa(lp2180
+aS's'
+aa(lp2281
 S'Carl Manu'
-p2181
+p2282
 aS'2002'
-p2182
+p2283
 aS'Centre'
-p2183
+p2284
 aS'4'
 aS'2'
 aS'2'
@@ -6962,93 +7430,101 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p2184
+p2285
 aVNew Zealand/Aotearoa
-p2185
+p2286
 aVCanterbury
-p2186
+p2287
 aVChristchurch City
-p2187
-aa(lp2188
+p2288
+aVChristchurch
+p2289
+aa(lp2290
 S'Henry Tuilagi'
-p2189
+p2291
 aS'2002'
-p2190
+p2292
 aS'No. 8'
-p2191
+p2293
 aS'10'
-p2192
+p2294
 aS'4'
 aS'6'
 aS'0'
 aS'1'
 aS'5'
 aS'Western Samoa'
-p2193
+p2295
 aVUnited States of America
-p2194
+p2296
 aV95503
-p2195
+p2297
 aVCalifornia
-p2196
-aa(lp2197
+p2298
+aVHumboldt County
+p2299
+aa(lp2300
 S'Alesana Tuilagi'
-p2198
+p2301
 aS'2002'
-p2199
+p2302
 aS'Wing'
-p2200
+p2303
 aS'30'
-p2201
+p2304
 aS'14'
-p2202
+p2305
 aS'16'
-p2203
+p2306
 aS'0'
 aS'17'
-p2204
+p2307
 aS'85'
-p2205
+p2308
 aS'Western Samoa'
-p2206
+p2309
 aVUnited States of America
-p2207
+p2310
 aV95503
-p2208
+p2311
 aVCalifornia
-p2209
-aa(lp2210
+p2312
+aVHumboldt County
+p2313
+aa(lp2314
 S"Maurie Fa'asavalu"
-p2211
+p2315
 aS'2002'
-p2212
+p2316
 aS'Back-row'
-p2213
+p2317
 aS'24'
-p2214
+p2318
 aS'13'
-p2215
+p2319
 aS'11'
-p2216
+p2320
 aS'0'
 aS'2'
 aS'10'
-p2217
+p2321
 aS'Western Samoa'
-p2218
+p2322
 aVUnited States of America
-p2219
+p2323
 aV95503
-p2220
+p2324
 aVCalifornia
-p2221
-aa(lp2222
+p2325
+aVHumboldt County
+p2326
+aa(lp2327
 S'Ponali Tapelu'
-p2223
+p2328
 aS'2002'
-p2224
+p2329
 aS'Flanker'
-p2225
+p2330
 aS'1'
 aS'0'
 aS'1'
@@ -7056,284 +7532,24 @@ aS'0'
 aS'0'
 aS'0'
 aS'1979'
-p2226
-aVRomânia
-p2227
-aVVâlcea
-p2228
-aV1979
-p2229
-aa(lp2230
-S"Ron Fanu'atanu"
-p2231
-aS'2003'
-p2232
-aS'Wing'
-p2233
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'1'
-aS'5'
-aS'Western Samoa'
-p2234
-aVUnited States of America
-p2235
-aV95503
-p2236
-aVCalifornia
-p2237
-aa(lp2238
-S"Fa'atonu Fili"
-p2239
-aS'2003'
-p2240
-aS'Fly-half, Centre'
-p2241
-aS'5'
-aS'1'
-aS'4'
-aS'0'
-aS'0'
-aS'8'
-aS'Wellington'
-p2242
-aVNew Zealand/Aotearoa
-p2243
-aVWellington
-p2244
-aVWellington City
-p2245
-aa(lp2246
-S'Dale Rasmussen'
-p2247
-aS'2003'
-p2248
-aS'Centre'
-p2249
-aS'9'
-aS'4'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p2250
-aVNew Zealand/Aotearoa
-p2251
-aVAuckland
-p2252
-ag898
-aa(lp2253
-S'Gaolo Elisara'
-p2254
-aS'2003'
-p2255
-aS'Centre'
-p2256
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1977'
-p2257
-aVSvizra
-p2258
-aVSvizzera
-p2259
-aVSuisse
-p2260
-aa(lp2261
-S"Des Tuiali'i"
-p2262
-aS'2003'
-p2263
-aS'Flanker'
-p2264
-aS'5'
-aS'2'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p2265
-aVUnited States of America
-p2266
-aV95503
-p2267
-aVCalifornia
-p2268
-aa(lp2269
-S"Dom Feau'nati"
-p2270
-aS'2003'
-p2271
-aS'Centre'
-p2272
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'5'
-aS'25'
-p2273
-aS'Wellington'
-p2274
-aVNew Zealand/Aotearoa
-p2275
-aVWellington
-p2276
-aVWellington City
-p2277
-aa(lp2278
-S'Sailosi Tagicakibau'
-p2279
-aS'2003'
-p2280
-aS'Wing'
-p2281
-aS'24'
-p2282
-aS'12'
-p2283
-aS'12'
-p2284
-aS'0'
-aS'7'
-aS'35'
-p2285
-aS'Auckland'
-p2286
-aVNew Zealand/Aotearoa
-p2287
-aVAuckland
-p2288
-ag898
-aa(lp2289
-S'Pama Petia'
-p2290
-aS'2003'
-p2291
-aS'No. 8'
-p2292
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'1978'
-p2293
-aVSvizra
-p2294
-aVSvizzera
-p2295
-aVSuisse
-p2296
-aa(lp2297
-S'Peter Poulos'
-p2298
-aS'2003'
-p2299
-aS'Flanker'
-p2300
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'1977'
-p2301
-aVSvizra
-p2302
-aVSvizzera
-p2303
-aVSuisse
-p2304
-aa(lp2305
-S'Simon Lemalu'
-p2306
-aS'2003'
-p2307
-aS'Prop'
-p2308
-aS'13'
-p2309
-aS'6'
-aS'7'
-aS'0'
-aS'1'
-aS'5'
-aS'1981'
-p2310
-aVSverige
-p2311
-aVSvealand
-p2312
-aVVästmanlands län
-p2313
-aa(lp2314
-S'Romi Ropati'
-p2315
-aS'2003'
-p2316
-aS'Centre'
-p2317
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p2318
-aVNew Zealand/Aotearoa
-p2319
-aVAuckland
-p2320
-ag898
-aa(lp2321
-S'David Lemi'
-p2322
-aS'2004'
-p2323
-aS'Wing'
-p2324
-aS'42'
-p2325
-aS'19'
-p2326
-aS'22'
-p2327
-aS'1'
-aS'11'
-p2328
-aS'55'
-p2329
-aS'Western Samoa'
-p2330
-aVUnited States of America
 p2331
-aV95503
+aVRomânia
 p2332
-aVCalifornia
+aVVâlcea
 p2333
-aa(lp2334
-S'Ulia Ulia'
-p2335
-aS'2004'
+aV1979
+p2334
+ag903
+aa(lp2335
+S"Ron Fanu'atanu"
 p2336
-aS'Back-row'
+aS'2003'
 p2337
-aS'11'
+aS'Wing'
 p2338
-aS'7'
-aS'4'
+aS'2'
+aS'1'
+aS'1'
 aS'0'
 aS'1'
 aS'5'
@@ -7345,176 +7561,184 @@ aV95503
 p2341
 aVCalifornia
 p2342
-aa(lp2343
-S'Roger Warren'
-p2344
-aS'2004'
+aVHumboldt County
+p2343
+aa(lp2344
+S"Fa'atonu Fili"
 p2345
-aS'Fly-half'
+aS'2003'
 p2346
-aS'12'
+aS'Fly-half, Centre'
 p2347
-aS'7'
 aS'5'
+aS'1'
+aS'4'
 aS'0'
 aS'0'
-aS'119'
+aS'8'
+aS'Wellington'
 p2348
-aS'Western Samoa'
+aVNew Zealand/Aotearoa
 p2349
-aVUnited States of America
+aVWellington
 p2350
-aV95503
+aVWellington City
 p2351
-aVCalifornia
+aVWellington
 p2352
 aa(lp2353
-S'Nathan George'
+S'Dale Rasmussen'
 p2354
-aS'2004'
+aS'2003'
 p2355
-aS'Lock'
+aS'Centre'
 p2356
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1979'
-p2357
-aVRomânia
-p2358
-aVVâlcea
-p2359
-aV1979
-p2360
-aa(lp2361
-S'John Senio'
-p2362
-aS'2004'
-p2363
-aS'Scrum-half'
-p2364
-aS'10'
-p2365
-aS'6'
+aS'9'
 aS'4'
-aS'0'
-aS'2'
-aS'10'
-p2366
-aS'1982'
-p2367
-aVSverige
-p2368
-aVSvealand
-p2369
-aVVästmanlands län
-p2370
-aa(lp2371
-S'Loleni Tafunai'
-p2372
-aS'2004'
-p2373
-aS'Hooker'
-p2374
-aS'11'
-p2375
-aS'7'
-aS'4'
-aS'0'
-aS'2'
-aS'10'
-p2376
-aS'1980'
-p2377
-aVSverige
-p2378
-aVSvealand
-p2379
-aVVästmanlands län
-p2380
-aa(lp2381
-S'Michael von Dincklage'
-p2382
-aS'2004'
-p2383
-aS'Lock'
-p2384
-aS'1'
-aS'0'
-aS'1'
+aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p2385
+p2357
 aVNew Zealand/Aotearoa
-p2386
+p2358
 aVAuckland
-p2387
-ag898
-aa(lp2388
-S'Ray Tuivaiti'
-p2389
-aS'2004'
-p2390
+p2359
+ag903
+ag903
+aa(lp2360
+S'Gaolo Elisara'
+p2361
+aS'2003'
+p2362
+aS'Centre'
+p2363
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1977'
+p2364
+aVSvizra
+p2365
+aVSvizzera
+p2366
+aVSuisse
+p2367
+aVSchweiz
+p2368
+aa(lp2369
+S"Des Tuiali'i"
+p2370
+aS'2003'
+p2371
 aS'Flanker'
-p2391
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1983'
-p2392
-aVSverige
-p2393
-aVSvealand
-p2394
-aVVästmanlands län
-p2395
-aa(lp2396
-S'Lolo Lui'
-p2397
-aS'2004'
-p2398
-aS'Fullback'
-p2399
-aS'25'
-p2400
-aS'17'
-p2401
-aS'8'
+p2372
+aS'5'
+aS'2'
+aS'3'
 aS'0'
 aS'0'
-aS'36'
-p2402
+aS'0'
 aS'Western Samoa'
-p2403
+p2373
 aVUnited States of America
-p2404
+p2374
 aV95503
-p2405
+p2375
 aVCalifornia
-p2406
-aa(lp2407
-S'Simaika Mikaele'
-p2408
-aS'2004'
-p2409
-aS'Flanker'
-p2410
-aS'10'
-p2411
-aS'6'
-aS'4'
+p2376
+aVHumboldt County
+p2377
+aa(lp2378
+S"Dom Feau'nati"
+p2379
+aS'2003'
+p2380
+aS'Centre'
+p2381
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'5'
+aS'25'
+p2382
+aS'Wellington'
+p2383
+aVNew Zealand/Aotearoa
+p2384
+aVWellington
+p2385
+aVWellington City
+p2386
+aVWellington
+p2387
+aa(lp2388
+S'Sailosi Tagicakibau'
+p2389
+aS'2003'
+p2390
+aS'Wing'
+p2391
+aS'24'
+p2392
+aS'12'
+p2393
+aS'12'
+p2394
+aS'0'
+aS'7'
+aS'35'
+p2395
+aS'Auckland'
+p2396
+aVNew Zealand/Aotearoa
+p2397
+aVAuckland
+p2398
+ag903
+ag903
+aa(lp2399
+S'Pama Petia'
+p2400
+aS'2003'
+p2401
+aS'No. 8'
+p2402
+aS'1'
+aS'1'
+aS'0'
 aS'0'
 aS'0'
 aS'0'
 aS'1978'
+p2403
+aVSvizra
+p2404
+aVSvizzera
+p2405
+aVSuisse
+p2406
+aVSchweiz
+p2407
+aa(lp2408
+S'Peter Poulos'
+p2409
+aS'2003'
+p2410
+aS'Flanker'
+p2411
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1977'
 p2412
 aVSvizra
 p2413
@@ -7522,430 +7746,137 @@ aVSvizzera
 p2414
 aVSuisse
 p2415
-aa(lp2416
-S'Census Johnston'
-p2417
-aS'2005'
+aVSchweiz
+p2416
+aa(lp2417
+S'Simon Lemalu'
 p2418
-aS'Prop'
+aS'2003'
 p2419
-aS'50'
+aS'Prop'
 p2420
-aS'22'
+aS'13'
 p2421
-aS'27'
-p2422
+aS'6'
+aS'7'
+aS'0'
 aS'1'
-aS'4'
-aS'20'
+aS'5'
+aS'1981'
+p2422
+aVSverige
 p2423
-aS'Auckland'
+aVSvealand
 p2424
-aVNew Zealand/Aotearoa
+aVVästmanlands län
 p2425
-aVAuckland
+aVSala
 p2426
-ag898
 aa(lp2427
-S'Apoua Stewart'
+S'Romi Ropati'
 p2428
-aS'2005'
+aS'2003'
 p2429
-aS'Fullback, Wing'
+aS'Centre'
 p2430
 aS'2'
-aS'1'
-aS'1'
+aS'0'
+aS'2'
 aS'0'
 aS'0'
 aS'0'
-aS'Wellington'
+aS'Auckland'
 p2431
 aVNew Zealand/Aotearoa
 p2432
-aVWellington
+aVAuckland
 p2433
-aVWellington City
-p2434
-aa(lp2435
-S"Justin Va'a"
+ag903
+ag903
+aa(lp2434
+S'David Lemi'
+p2435
+aS'2004'
 p2436
-aS'2005'
-p2437
-aS'Prop'
-p2438
-aS'23'
-p2439
-aS'9'
-aS'14'
-p2440
-aS'0'
-aS'2'
-aS'10'
-p2441
-aS'Lower Hutt'
-p2442
-aVNew Zealand/Aotearoa
-p2443
-aVWellington
-p2444
-aVLower Hutt City
-p2445
-aa(lp2446
-S'Lualua Vailoaloa'
-p2447
-aS'2005'
-p2448
-aS'Back-row'
-p2449
-aS'4'
-aS'1'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'1980'
-p2450
-aVSverige
-p2451
-aVSvealand
-p2452
-aVVästmanlands län
-p2453
-aa(lp2454
-S'Dan Leo'
-p2455
-aS'2005'
-p2456
-aS'Lock'
-p2457
-aS'42'
-p2458
-aS'22'
-p2459
-aS'19'
-p2460
-aS'1'
-aS'1'
-aS'5'
-aS'Palmerston North'
-p2461
-aVNew Zealand/Aotearoa
-p2462
-aVManawatu-Wanganui
-p2463
-aVPalmerston North City
-p2464
-aa(lp2465
-S'Jamie Parkinson'
-p2466
-aS'2005'
-p2467
-aS'Prop'
-p2468
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1977'
-p2469
-aVSvizra
-p2470
-aVSvizzera
-p2471
-aVSuisse
-p2472
-aa(lp2473
-S'Faletoese Talapusi'
-p2474
-aS'2005'
-p2475
-aS'Centre'
-p2476
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'2'
-aS'1981'
-p2477
-aVSverige
-p2478
-aVSvealand
-p2479
-aVVästmanlands län
-p2480
-aa(lp2481
-S'Notise Tauafao'
-p2482
-aS'2005'
-p2483
-aS'Scrum-half'
-p2484
-aS'16'
-p2485
-aS'10'
-p2486
-aS'6'
-aS'0'
-aS'1'
-aS'5'
-aS'1982'
-p2487
-aVSverige
-p2488
-aVSvealand
-p2489
-aVVästmanlands län
-p2490
-aa(lp2491
-S'Paul Tupai'
-p2492
-aS'2005'
-p2493
-aS'Back-row, Lock'
-p2494
-aS'5'
-aS'2'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Rotorua'
-p2495
-aVNew Zealand/Aotearoa
-p2496
-aVBay of Plenty
-p2497
-aVRotorua District
-p2498
-aa(lp2499
-S"Filisoa Fa'aiu"
-p2500
-aS'2005'
-p2501
-aS'No. 8'
-p2502
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'date unknown'
-p2503
-aS'g'
-aS'n'
-aS'i'
-aa(lp2504
-S'Donald Kerslake'
-p2505
-aS'2005'
-p2506
-aS'Prop'
-p2507
-aS'9'
-aS'7'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Christchurch'
-p2508
-aVNew Zealand/Aotearoa
-p2509
-aVCanterbury
-p2510
-aVChristchurch City
-p2511
-aa(lp2512
-S'Muliufi Salanoa'
-p2513
-aS'2005'
-p2514
-aS'Prop, Hooker'
-p2515
-aS'10'
-p2516
-aS'7'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p2517
-aVUnited States of America
-p2518
-aV95503
-p2519
-aVCalifornia
-p2520
-aa(lp2521
-S'Iosefa Taina'
-p2522
-aS'2005'
-p2523
-aS'Back-row'
-p2524
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'1977'
-p2525
-aVSvizra
-p2526
-aVSvizzera
-p2527
-aVSuisse
-p2528
-aa(lp2529
-S'Andy Tuilagi'
-p2530
-aS'2005'
-p2531
 aS'Wing'
-p2532
-aS'17'
-p2533
-aS'11'
-p2534
-aS'5'
+p2437
+aS'42'
+p2438
+aS'19'
+p2439
+aS'22'
+p2440
 aS'1'
-aS'5'
-aS'25'
-p2535
+aS'11'
+p2441
+aS'55'
+p2442
 aS'Western Samoa'
-p2536
+p2443
 aVUnited States of America
-p2537
+p2444
 aV95503
-p2538
+p2445
 aVCalifornia
-p2539
-aa(lp2540
-S'Daniel Farani'
-p2541
-aS'2005'
-p2542
+p2446
+aVHumboldt County
+p2447
+aa(lp2448
+S'Ulia Ulia'
+p2449
+aS'2004'
+p2450
 aS'Back-row'
-p2543
-aS'9'
-aS'5'
-aS'4'
-aS'0'
-aS'3'
-aS'15'
-p2544
-aS'Wellington'
-p2545
-aVNew Zealand/Aotearoa
-p2546
-aVWellington
-p2547
-aVWellington City
-p2548
-aa(lp2549
-S'Pelu Taele-Pavihi'
-p2550
-aS'2005'
-p2551
-aS'Lock'
-p2552
-aS'8'
-aS'5'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Dunedin'
-p2553
-aVNew Zealand/Aotearoa
-p2554
-aVOtago
-p2555
-aVDunedin City
-p2556
-aa(lp2557
-S'Garrick Cowley'
-p2558
-aS'2005'
-p2559
-aS'Scrum-half'
-p2560
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Rotorua'
-p2561
-aVNew Zealand/Aotearoa
-p2562
-aVBay of Plenty
-p2563
-aVRotorua District
-p2564
-aa(lp2565
-S"Jonny Fa'amatuainu"
-p2566
-aS'2005'
-p2567
-aS'Lock, Back-row'
-p2568
-aS'12'
-p2569
-aS'5'
-aS'7'
-aS'0'
-aS'0'
-aS'0'
-aS'1983'
-p2570
-aVSverige
-p2571
-aVSvealand
-p2572
-aVVästmanlands län
-p2573
-aa(lp2574
-S'Eliota Fuimaono-Sapolu'
-p2575
-aS'2005'
-p2576
-aS'Centre'
-p2577
-aS'23'
-p2578
+p2451
 aS'11'
-p2579
-aS'12'
-p2580
+p2452
+aS'7'
+aS'4'
 aS'0'
-aS'3'
-aS'15'
-p2581
+aS'1'
+aS'5'
 aS'Western Samoa'
-p2582
+p2453
 aVUnited States of America
-p2583
+p2454
 aV95503
-p2584
+p2455
 aVCalifornia
-p2585
-aa(lp2586
-S'Aukuso Collins'
-p2587
-aS'2005'
-p2588
-aS'Centre'
-p2589
+p2456
+aVHumboldt County
+p2457
+aa(lp2458
+S'Roger Warren'
+p2459
+aS'2004'
+p2460
+aS'Fly-half'
+p2461
+aS'12'
+p2462
+aS'7'
+aS'5'
+aS'0'
+aS'0'
+aS'119'
+p2463
+aS'Western Samoa'
+p2464
+aVUnited States of America
+p2465
+aV95503
+p2466
+aVCalifornia
+p2467
+aVHumboldt County
+p2468
+aa(lp2469
+S'Nathan George'
+p2470
+aS'2004'
+p2471
+aS'Lock'
+p2472
 aS'2'
 aS'1'
 aS'1'
@@ -7953,20 +7884,640 @@ aS'0'
 aS'0'
 aS'0'
 aS'1979'
-p2590
+p2473
 aVRomânia
-p2591
+p2474
 aVVâlcea
-p2592
+p2475
 aV1979
-p2593
-aa(lp2594
-S'Kiri Mariner'
-p2595
+p2476
+ag903
+aa(lp2477
+S'John Senio'
+p2478
+aS'2004'
+p2479
+aS'Scrum-half'
+p2480
+aS'10'
+p2481
+aS'6'
+aS'4'
+aS'0'
+aS'2'
+aS'10'
+p2482
+aS'1982'
+p2483
+aVSverige
+p2484
+aVSvealand
+p2485
+aVVästmanlands län
+p2486
+aVFagersta
+p2487
+aa(lp2488
+S'Loleni Tafunai'
+p2489
+aS'2004'
+p2490
+aS'Hooker'
+p2491
+aS'11'
+p2492
+aS'7'
+aS'4'
+aS'0'
+aS'2'
+aS'10'
+p2493
+aS'1980'
+p2494
+aVSverige
+p2495
+aVSvealand
+p2496
+aVVästmanlands län
+p2497
+aVVästerås
+p2498
+aa(lp2499
+S'Michael von Dincklage'
+p2500
+aS'2004'
+p2501
+aS'Lock'
+p2502
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p2503
+aVNew Zealand/Aotearoa
+p2504
+aVAuckland
+p2505
+ag903
+ag903
+aa(lp2506
+S'Ray Tuivaiti'
+p2507
+aS'2004'
+p2508
+aS'Flanker'
+p2509
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1983'
+p2510
+aVSverige
+p2511
+aVSvealand
+p2512
+aVVästmanlands län
+p2513
+aVKöping
+p2514
+aa(lp2515
+S'Lolo Lui'
+p2516
+aS'2004'
+p2517
+aS'Fullback'
+p2518
+aS'25'
+p2519
+aS'17'
+p2520
+aS'8'
+aS'0'
+aS'0'
+aS'36'
+p2521
+aS'Western Samoa'
+p2522
+aVUnited States of America
+p2523
+aV95503
+p2524
+aVCalifornia
+p2525
+aVHumboldt County
+p2526
+aa(lp2527
+S'Simaika Mikaele'
+p2528
+aS'2004'
+p2529
+aS'Flanker'
+p2530
+aS'10'
+p2531
+aS'6'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'1978'
+p2532
+aVSvizra
+p2533
+aVSvizzera
+p2534
+aVSuisse
+p2535
+aVSchweiz
+p2536
+aa(lp2537
+S'Census Johnston'
+p2538
 aS'2005'
+p2539
+aS'Prop'
+p2540
+aS'50'
+p2541
+aS'22'
+p2542
+aS'27'
+p2543
+aS'1'
+aS'4'
+aS'20'
+p2544
+aS'Auckland'
+p2545
+aVNew Zealand/Aotearoa
+p2546
+aVAuckland
+p2547
+ag903
+ag903
+aa(lp2548
+S'Apoua Stewart'
+p2549
+aS'2005'
+p2550
+aS'Fullback, Wing'
+p2551
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
+p2552
+aVNew Zealand/Aotearoa
+p2553
+aVWellington
+p2554
+aVWellington City
+p2555
+aVWellington
+p2556
+aa(lp2557
+S"Justin Va'a"
+p2558
+aS'2005'
+p2559
+aS'Prop'
+p2560
+aS'23'
+p2561
+aS'9'
+aS'14'
+p2562
+aS'0'
+aS'2'
+aS'10'
+p2563
+aS'Lower Hutt'
+p2564
+aVNew Zealand/Aotearoa
+p2565
+aVWellington
+p2566
+aVLower Hutt City
+p2567
+aVLower Hutt
+p2568
+aa(lp2569
+S'Lualua Vailoaloa'
+p2570
+aS'2005'
+p2571
+aS'Back-row'
+p2572
+aS'4'
+aS'1'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1980'
+p2573
+aVSverige
+p2574
+aVSvealand
+p2575
+aVVästmanlands län
+p2576
+aVVästerås
+p2577
+aa(lp2578
+S'Dan Leo'
+p2579
+aS'2005'
+p2580
+aS'Lock'
+p2581
+aS'42'
+p2582
+aS'22'
+p2583
+aS'19'
+p2584
+aS'1'
+aS'1'
+aS'5'
+aS'Palmerston North'
+p2585
+aVNew Zealand/Aotearoa
+p2586
+aVManawatu-Wanganui
+p2587
+aVPalmerston North City
+p2588
+aVPalmerston North
+p2589
+aa(lp2590
+S'Jamie Parkinson'
+p2591
+aS'2005'
+p2592
+aS'Prop'
+p2593
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1977'
+p2594
+aVSvizra
+p2595
+aVSvizzera
 p2596
-aS'Centre'
+aVSuisse
 p2597
+aVSchweiz
+p2598
+aa(lp2599
+S'Faletoese Talapusi'
+p2600
+aS'2005'
+p2601
+aS'Centre'
+p2602
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'2'
+aS'1981'
+p2603
+aVSverige
+p2604
+aVSvealand
+p2605
+aVVästmanlands län
+p2606
+aVSala
+p2607
+aa(lp2608
+S'Notise Tauafao'
+p2609
+aS'2005'
+p2610
+aS'Scrum-half'
+p2611
+aS'16'
+p2612
+aS'10'
+p2613
+aS'6'
+aS'0'
+aS'1'
+aS'5'
+aS'1982'
+p2614
+aVSverige
+p2615
+aVSvealand
+p2616
+aVVästmanlands län
+p2617
+aVFagersta
+p2618
+aa(lp2619
+S'Paul Tupai'
+p2620
+aS'2005'
+p2621
+aS'Back-row, Lock'
+p2622
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Rotorua'
+p2623
+aVNew Zealand/Aotearoa
+p2624
+aVBay of Plenty
+p2625
+aVRotorua District
+p2626
+aVRotorua
+p2627
+aa(lp2628
+S"Filisoa Fa'aiu"
+p2629
+aS'2005'
+p2630
+aS'No. 8'
+p2631
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'date unknown'
+p2632
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp2633
+S'Donald Kerslake'
+p2634
+aS'2005'
+p2635
+aS'Prop'
+p2636
+aS'9'
+aS'7'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Christchurch'
+p2637
+aVNew Zealand/Aotearoa
+p2638
+aVCanterbury
+p2639
+aVChristchurch City
+p2640
+aVChristchurch
+p2641
+aa(lp2642
+S'Muliufi Salanoa'
+p2643
+aS'2005'
+p2644
+aS'Prop, Hooker'
+p2645
+aS'10'
+p2646
+aS'7'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p2647
+aVUnited States of America
+p2648
+aV95503
+p2649
+aVCalifornia
+p2650
+aVHumboldt County
+p2651
+aa(lp2652
+S'Iosefa Taina'
+p2653
+aS'2005'
+p2654
+aS'Back-row'
+p2655
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1977'
+p2656
+aVSvizra
+p2657
+aVSvizzera
+p2658
+aVSuisse
+p2659
+aVSchweiz
+p2660
+aa(lp2661
+S'Andy Tuilagi'
+p2662
+aS'2005'
+p2663
+aS'Wing'
+p2664
+aS'17'
+p2665
+aS'11'
+p2666
+aS'5'
+aS'1'
+aS'5'
+aS'25'
+p2667
+aS'Western Samoa'
+p2668
+aVUnited States of America
+p2669
+aV95503
+p2670
+aVCalifornia
+p2671
+aVHumboldt County
+p2672
+aa(lp2673
+S'Daniel Farani'
+p2674
+aS'2005'
+p2675
+aS'Back-row'
+p2676
+aS'9'
+aS'5'
+aS'4'
+aS'0'
+aS'3'
+aS'15'
+p2677
+aS'Wellington'
+p2678
+aVNew Zealand/Aotearoa
+p2679
+aVWellington
+p2680
+aVWellington City
+p2681
+aVWellington
+p2682
+aa(lp2683
+S'Pelu Taele-Pavihi'
+p2684
+aS'2005'
+p2685
+aS'Lock'
+p2686
+aS'8'
+aS'5'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Dunedin'
+p2687
+aVNew Zealand/Aotearoa
+p2688
+aVOtago
+p2689
+aVDunedin City
+p2690
+aVDunedin
+p2691
+aa(lp2692
+S'Garrick Cowley'
+p2693
+aS'2005'
+p2694
+aS'Scrum-half'
+p2695
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Rotorua'
+p2696
+aVNew Zealand/Aotearoa
+p2697
+aVBay of Plenty
+p2698
+aVRotorua District
+p2699
+aVRotorua
+p2700
+aa(lp2701
+S"Jonny Fa'amatuainu"
+p2702
+aS'2005'
+p2703
+aS'Lock, Back-row'
+p2704
+aS'12'
+p2705
+aS'5'
+aS'7'
+aS'0'
+aS'0'
+aS'0'
+aS'1983'
+p2706
+aVSverige
+p2707
+aVSvealand
+p2708
+aVVästmanlands län
+p2709
+aVKöping
+p2710
+aa(lp2711
+S'Eliota Fuimaono-Sapolu'
+p2712
+aS'2005'
+p2713
+aS'Centre'
+p2714
+aS'23'
+p2715
+aS'11'
+p2716
+aS'12'
+p2717
+aS'0'
+aS'3'
+aS'15'
+p2718
+aS'Western Samoa'
+p2719
+aVUnited States of America
+p2720
+aV95503
+p2721
+aVCalifornia
+p2722
+aVHumboldt County
+p2723
+aa(lp2724
+S'Aukuso Collins'
+p2725
+aS'2005'
+p2726
+aS'Centre'
+p2727
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1979'
+p2728
+aVRomânia
+p2729
+aVVâlcea
+p2730
+aV1979
+p2731
+ag903
+aa(lp2732
+S'Kiri Mariner'
+p2733
+aS'2005'
+p2734
+aS'Centre'
+p2735
 aS'1'
 aS'1'
 aS'0'
@@ -7974,67 +8525,73 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p2598
+p2736
 aVUnited States of America
-p2599
+p2737
 aV95503
-p2600
+p2738
 aVCalifornia
-p2601
-aa(lp2602
+p2739
+aVHumboldt County
+p2740
+aa(lp2741
 S'Timoteo Iosua'
-p2603
+p2742
 aS'2006'
-p2604
+p2743
 aS'Wing, Fullback'
-p2605
+p2744
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'3'
 aS'15'
-p2606
+p2745
 aS'1986'
-p2607
+p2746
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2608
+p2747
 aV\u0421\u041a\u0424\u041e
-p2609
+p2748
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2610
-aa(lp2611
+p2749
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2750
+aa(lp2751
 S'Seilala Mapusua'
-p2612
+p2752
 aS'2004'
-p2613
+p2753
 aS'Centre'
-p2614
+p2754
 aS'33'
-p2615
+p2755
 aS'13'
-p2616
+p2756
 aS'20'
-p2617
+p2757
 aS'0'
 aS'2'
 aS'10'
-p2618
+p2758
 aS'Western Samoa'
-p2619
+p2759
 aVUnited States of America
-p2620
+p2760
 aV95503
-p2621
+p2761
 aVCalifornia
-p2622
-aa(lp2623
+p2762
+aVHumboldt County
+p2763
+aa(lp2764
 S'Philemon Toleafoa'
-p2624
+p2765
 aS'2006'
-p2625
+p2766
 aS'Prop'
-p2626
+p2767
 aS'2'
 aS'1'
 aS'1'
@@ -8042,43 +8599,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p2627
+p2768
 aVUnited States of America
-p2628
+p2769
 aV95503
-p2629
+p2770
 aVCalifornia
-p2630
-aa(lp2631
+p2771
+aVHumboldt County
+p2772
+aa(lp2773
 S'Alafoti Faosiliva'
-p2632
+p2774
 aS'2006'
-p2633
+p2775
 aS'Flanker'
-p2634
+p2776
 aS'12'
-p2635
+p2777
 aS'9'
 aS'3'
 aS'0'
 aS'4'
 aS'20'
-p2636
+p2778
 aS'Western Samoa'
-p2637
+p2779
 aVUnited States of America
-p2638
+p2780
 aV95503
-p2639
+p2781
 aVCalifornia
-p2640
-aa(lp2641
+p2782
+aVHumboldt County
+p2783
+aa(lp2784
 S'Doug Sanft'
-p2642
+p2785
 aS'2006'
-p2643
+p2786
 aS'Centre, Fly-half'
-p2644
+p2787
 aS'1'
 aS'1'
 aS'0'
@@ -8086,17 +8647,18 @@ aS'0'
 aS'0'
 aS'2'
 aS'date unknown'
-p2645
+p2788
 aS'g'
 aS'n'
 aS'i'
-aa(lp2646
+aS's'
+aa(lp2789
 S'Chad Slade'
-p2647
+p2790
 aS'2006'
-p2648
+p2791
 aS'No. 8'
-p2649
+p2792
 aS'6'
 aS'3'
 aS'3'
@@ -8104,43 +8666,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p2650
+p2793
 aVUnited States of America
-p2651
+p2794
 aV95503
-p2652
+p2795
 aVCalifornia
-p2653
-aa(lp2654
+p2796
+aVHumboldt County
+p2797
+aa(lp2798
 S'Loki Crichton'
-p2655
+p2799
 aS'2006'
-p2656
+p2800
 aS'Utility back'
-p2657
+p2801
 aS'10'
-p2658
+p2802
 aS'5'
 aS'5'
 aS'0'
 aS'0'
 aS'62'
-p2659
+p2803
 aS'Western Samoa'
-p2660
+p2804
 aVUnited States of America
-p2661
+p2805
 aV95503
-p2662
+p2806
 aVCalifornia
-p2663
-aa(lp2664
+p2807
+aVHumboldt County
+p2808
+aa(lp2809
 S'Alapasa Cortz'
-p2665
+p2810
 aS'2007'
-p2666
+p2811
 aS'Flanker'
-p2667
+p2812
 aS'1'
 aS'1'
 aS'0'
@@ -8148,44 +8714,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'1973'
-p2668
+p2813
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2669
+p2814
 aV\u0421\u041a\u0424\u041e
-p2670
+p2815
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2671
-aa(lp2672
+p2816
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2817
+aa(lp2818
 S'Filipo Levi'
-p2673
+p2819
 aS'2004'
-p2674
+p2820
 aS'Lock'
-p2675
+p2821
 aS'30'
-p2676
+p2822
 aS'13'
-p2677
+p2823
 aS'17'
-p2678
+p2824
 aS'0'
 aS'0'
 aS'0'
 aS'Huntly'
-p2679
+p2825
 aVUnited Kingdom
-p2680
+p2826
 aVScotland
-p2681
+p2827
 aVAberdeenshire
-p2682
-aa(lp2683
+p2828
+aVHuntly
+p2829
+aa(lp2830
 S'Justin Purdie'
-p2684
+p2831
 aS'2007'
-p2685
+p2832
 aS'Back-row'
-p2686
+p2833
 aS'8'
 aS'4'
 aS'4'
@@ -8193,68 +8763,73 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p2687
+p2834
 aVNew Zealand/Aotearoa
-p2688
+p2835
 aVWellington
-p2689
+p2836
 aVWellington City
-p2690
-aa(lp2691
+p2837
+aVWellington
+p2838
+aa(lp2839
 S'Kane Thompson'
-p2692
+p2840
 aS'2007'
-p2693
+p2841
 aS'Back-row'
-p2694
+p2842
 aS'31'
-p2695
+p2843
 aS'14'
-p2696
+p2844
 aS'16'
-p2697
+p2845
 aS'1'
 aS'2'
 aS'10'
-p2698
+p2846
 aS'Paraparaumu'
-p2699
+p2847
 aVNew Zealand/Aotearoa
-p2700
+p2848
 aVWellington
-p2701
+p2849
 aVKapiti Coast District
-p2702
-aa(lp2703
+p2850
+aVParaparaumu
+p2851
+aa(lp2852
 S'Gavin Williams'
-p2704
+p2853
 aS'2007'
-p2705
+p2854
 aS'Centre'
-p2706
+p2855
 aS'18'
-p2707
+p2856
 aS'8'
 aS'10'
-p2708
+p2857
 aS'0'
 aS'5'
 aS'106'
-p2709
+p2858
 aS'Auckland'
-p2710
+p2859
 aVNew Zealand/Aotearoa
-p2711
+p2860
 aVAuckland
-p2712
-ag898
-aa(lp2713
+p2861
+ag903
+ag903
+aa(lp2862
 S"Tauvaga Fa'afou"
-p2714
+p2863
 aS'2007'
-p2715
+p2864
 aS'Wing'
-p2716
+p2865
 aS'1'
 aS'1'
 aS'0'
@@ -8262,17 +8837,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p2717
+p2866
 aS'g'
 aS'n'
 aS'i'
-aa(lp2718
+aS's'
+aa(lp2867
 S"Na'ama Leleimalefaga"
-p2719
+p2868
 aS'2007'
-p2720
+p2869
 aS'Prop'
-p2721
+p2870
 aS'2'
 aS'2'
 aS'0'
@@ -8280,69 +8856,75 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p2722
+p2871
 aVUnited States of America
-p2723
+p2872
 aV95503
-p2724
+p2873
 aVCalifornia
-p2725
-aa(lp2726
+p2874
+aVHumboldt County
+p2875
+aa(lp2876
 S'Junior Poluleuligaga'
-p2727
+p2877
 aS'2006'
-p2728
+p2878
 aS'Scrum-half'
-p2729
+p2879
 aS'23'
-p2730
+p2880
 aS'8'
 aS'15'
-p2731
+p2881
 aS'0'
 aS'4'
 aS'20'
-p2732
+p2882
 aS'Otahuhu'
-p2733
+p2883
 aVNew Zealand/Aotearoa
-p2734
+p2884
 aVAuckland
-p2735
+p2885
 aVMangere-Otahuhu
-p2736
-aa(lp2737
+p2886
+aV\u014ct\u0101huhu
+p2887
+aa(lp2888
 S'Joe Tekori'
-p2738
+p2889
 aS'2007'
-p2739
+p2890
 aS'No. 8'
-p2740
+p2891
 aS'28'
-p2741
+p2892
 aS'11'
-p2742
+p2893
 aS'17'
-p2743
+p2894
 aS'0'
 aS'4'
 aS'20'
-p2744
+p2895
 aS'Western Samoa'
-p2745
+p2896
 aVUnited States of America
-p2746
+p2897
 aV95503
-p2747
+p2898
 aVCalifornia
-p2748
-aa(lp2749
+p2899
+aVHumboldt County
+p2900
+aa(lp2901
 S'Jerry Meafou'
-p2750
+p2902
 aS'2007'
-p2751
+p2903
 aS'Centre'
-p2752
+p2904
 aS'4'
 aS'1'
 aS'3'
@@ -8350,20 +8932,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p2753
+p2905
 aVUnited States of America
-p2754
+p2906
 aV95503
-p2755
+p2907
 aVCalifornia
-p2756
-aa(lp2757
+p2908
+aVHumboldt County
+p2909
+aa(lp2910
 S'Silao Vaisola Sefo'
-p2758
+p2911
 aS'2007'
-p2759
+p2912
 aS'Hooker'
-p2760
+p2913
 aS'1'
 aS'1'
 aS'0'
@@ -8371,64 +8955,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p2761
+p2914
 aVUnited States of America
-p2762
+p2915
 aV95503
-p2763
+p2916
 aVCalifornia
-p2764
-aa(lp2765
+p2917
+aVHumboldt County
+p2918
+aa(lp2919
 S"Henry Fa'afili"
-p2766
+p2920
 aS'2008'
-p2767
+p2921
 aS'Wing, Centre'
-p2768
+p2922
 aS'10'
-p2769
+p2923
 aS'5'
 aS'5'
 aS'0'
 aS'1'
 aS'5'
 aS'Western Samoa'
-p2770
+p2924
 aVUnited States of America
-p2771
+p2925
 aV95503
-p2772
+p2926
 aVCalifornia
-p2773
-aa(lp2774
+p2927
+aVHumboldt County
+p2928
+aa(lp2929
 S'Esera Lauina'
-p2775
+p2930
 aS'2008'
-p2776
+p2931
 aS'Wing'
-p2777
+p2932
 aS'9'
 aS'6'
 aS'3'
 aS'0'
 aS'5'
 aS'25'
-p2778
+p2933
 aS'1986'
-p2779
+p2934
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2780
+p2935
 aV\u0421\u041a\u0424\u041e
-p2781
+p2936
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2782
-aa(lp2783
+p2937
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p2938
+aa(lp2939
 S'Samisoni Moala'
-p2784
+p2940
 aS'2008'
-p2785
+p2941
 aS'Centre'
-p2786
+p2942
 aS'1'
 aS'0'
 aS'1'
@@ -8436,20 +9026,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1984'
-p2787
+p2943
 aVSverige
-p2788
+p2944
 aVSvealand
-p2789
+p2945
 aVVästmanlands län
-p2790
-aa(lp2791
+p2946
+aVArboga
+p2947
+aa(lp2948
 S'Ray Stowers'
-p2792
+p2949
 aS'2008'
-p2793
+p2950
 aS'Back-row'
-p2794
+p2951
 aS'1'
 aS'0'
 aS'1'
@@ -8457,19 +9049,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p2795
+p2952
 aVNew Zealand/Aotearoa
-p2796
+p2953
 aVAuckland
-p2797
-ag898
-aa(lp2798
+p2954
+ag903
+ag903
+aa(lp2955
 S'Evile Telea'
-p2799
+p2956
 aS'2008'
-p2800
+p2957
 aS'Prop'
-p2801
+p2958
 aS'1'
 aS'0'
 aS'1'
@@ -8477,17 +9070,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p2802
+p2959
 aS'g'
 aS'n'
 aS'i'
-aa(lp2803
+aS's'
+aa(lp2960
 S'Paletuatoa Toelupe'
-p2804
+p2961
 aS'2008'
-p2805
+p2962
 aS'Centre'
-p2806
+p2963
 aS'3'
 aS'1'
 aS'2'
@@ -8495,20 +9089,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1982'
-p2807
+p2964
 aVSverige
-p2808
+p2965
 aVSvealand
-p2809
+p2966
 aVVästmanlands län
-p2810
-aa(lp2811
+p2967
+aVFagersta
+p2968
+aa(lp2969
 S'Gasolo Salima'
-p2812
+p2970
 aS'2008'
-p2813
+p2971
 aS'Wing'
-p2814
+p2972
 aS'1'
 aS'0'
 aS'1'
@@ -8516,20 +9112,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1984'
-p2815
+p2973
 aVSverige
-p2816
+p2974
 aVSvealand
-p2817
+p2975
 aVVästmanlands län
-p2818
-aa(lp2819
+p2976
+aVArboga
+p2977
+aa(lp2978
 S'Bell Sasalu'
-p2820
+p2979
 aS'2008'
-p2821
+p2980
 aS'Lock'
-p2822
+p2981
 aS'1'
 aS'0'
 aS'1'
@@ -8537,20 +9135,22 @@ aS'0'
 aS'0'
 aS'2'
 aS'1980'
-p2823
+p2982
 aVSverige
-p2824
+p2983
 aVSvealand
-p2825
+p2984
 aVVästmanlands län
-p2826
-aa(lp2827
+p2985
+aVVästerås
+p2986
+aa(lp2987
 S'Hiro Tea'
-p2828
+p2988
 aS'2008'
-p2829
+p2989
 aS'Prop'
-p2830
+p2990
 aS'5'
 aS'3'
 aS'2'
@@ -8558,64 +9158,69 @@ aS'0'
 aS'1'
 aS'5'
 aS'Western Samoa'
-p2831
+p2991
 aVUnited States of America
-p2832
+p2992
 aV95503
-p2833
+p2993
 aVCalifornia
-p2834
-aa(lp2835
+p2994
+aVHumboldt County
+p2995
+aa(lp2996
 S'James Johnston'
-p2836
+p2997
 aS'2008'
-p2837
+p2998
 aS'Prop'
-p2838
+p2999
 aS'14'
-p2839
+p3000
 aS'9'
 aS'5'
 aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p2840
+p3001
 aVNew Zealand/Aotearoa
-p2841
+p3002
 aVAuckland
-p2842
-ag898
-aa(lp2843
+p3003
+ag903
+ag903
+aa(lp3004
 S'Uale Mai'
-p2844
+p3005
 aS'2008'
-p2845
+p3006
 aS'Fly-half'
-p2846
+p3007
 aS'16'
-p2847
+p3008
 aS'8'
 aS'8'
 aS'0'
 aS'4'
 aS'22'
-p2848
+p3009
 aS'1978'
-p2849
+p3010
 aVSvizra
-p2850
+p3011
 aVSvizzera
-p2851
+p3012
 aVSuisse
-p2852
-aa(lp2853
+p3013
+aVSchweiz
+p3014
+aa(lp3015
 S'Egelani Fale'
-p2854
+p3016
 aS'2008'
-p2855
+p3017
 aS'Prop'
-p2856
+p3018
 aS'1'
 aS'1'
 aS'0'
@@ -8623,17 +9228,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p2857
+p3019
 aS'g'
 aS'n'
 aS'i'
-aa(lp2858
+aS's'
+aa(lp3020
 S'Ati Olive'
-p2859
+p3021
 aS'2008'
-p2860
+p3022
 aS'Back-row'
-p2861
+p3023
 aS'1'
 aS'1'
 aS'0'
@@ -8641,20 +9247,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1980'
-p2862
+p3024
 aVSverige
-p2863
+p3025
 aVSvealand
-p2864
+p3026
 aVVästmanlands län
-p2865
-aa(lp2866
+p3027
+aVVästerås
+p3028
+aa(lp3029
 S'Rupeni Levasa'
-p2867
+p3030
 aS'2008'
-p2868
+p3031
 aS'Centre'
-p2869
+p3032
 aS'6'
 aS'3'
 aS'3'
@@ -8662,20 +9270,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'1983'
-p2870
+p3033
 aVSverige
-p2871
+p3034
 aVSvealand
-p2872
+p3035
 aVVästmanlands län
-p2873
-aa(lp2874
+p3036
+aVKöping
+p3037
+aa(lp3038
 S'Alatasi Tupou'
-p2875
+p3039
 aS'2008'
-p2876
+p3040
 aS'Scrum-half'
-p2877
+p3041
 aS'2'
 aS'1'
 aS'1'
@@ -8683,20 +9293,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1988'
-p2878
+p3042
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2879
+p3043
 aV\u0421\u041a\u0424\u041e
-p2880
+p3044
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2881
-aa(lp2882
+p3045
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3046
+aa(lp3047
 S'Lafoga Aoelua'
-p2883
+p3048
 aS'2008'
-p2884
+p3049
 aS'Hooker'
-p2885
+p3050
 aS'1'
 aS'0'
 aS'1'
@@ -8704,17 +9316,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p2886
+p3051
 aS'g'
 aS'n'
 aS'i'
-aa(lp2887
+aS's'
+aa(lp3052
 S'Maselino Paulino'
-p2888
+p3053
 aS'2008'
-p2889
+p3054
 aS'Lock'
-p2890
+p3055
 aS'5'
 aS'3'
 aS'2'
@@ -8722,20 +9335,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1988'
-p2891
+p3056
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2892
+p3057
 aV\u0421\u041a\u0424\u041e
-p2893
+p3058
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2894
-aa(lp2895
+p3059
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3060
+aa(lp3061
 S'Roysiu Tolufale'
-p2896
+p3062
 aS'2008'
-p2897
+p3063
 aS'Prop'
-p2898
+p3064
 aS'2'
 aS'1'
 aS'1'
@@ -8743,20 +9358,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1988'
-p2899
+p3065
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2900
+p3066
 aV\u0421\u041a\u0424\u041e
-p2901
+p3067
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2902
-aa(lp2903
+p3068
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3069
+aa(lp3070
 S'Will Brame'
-p2904
+p3071
 aS'2009'
-p2905
+p3072
 aS'Flanker'
-p2906
+p3073
 aS'2'
 aS'1'
 aS'1'
@@ -8764,20 +9381,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1980'
-p2907
+p3074
 aVSverige
-p2908
+p3075
 aVSvealand
-p2909
+p3076
 aVVästmanlands län
-p2910
-aa(lp2911
+p3077
+aVVästerås
+p3078
+aa(lp3079
 S'Ernest Skelton'
-p2912
+p3080
 aS'2009'
-p2913
+p3081
 aS'Prop'
-p2914
+p3082
 aS'4'
 aS'4'
 aS'0'
@@ -8785,88 +9404,96 @@ aS'0'
 aS'1'
 aS'5'
 aS'1977'
-p2915
+p3083
 aVSvizra
-p2916
+p3084
 aVSvizzera
-p2917
+p3085
 aVSuisse
-p2918
-aa(lp2919
+p3086
+aVSchweiz
+p3087
+aa(lp3088
 S'Ofisa Treviranus'
-p2920
+p3089
 aS'2009'
-p2921
+p3090
 aS'Flanker'
-p2922
+p3091
 aS'31'
-p2923
+p3092
 aS'13'
-p2924
+p3093
 aS'17'
-p2925
+p3094
 aS'1'
 aS'1'
 aS'5'
 aS'Western Samoa'
-p2926
+p3095
 aVUnited States of America
-p2927
+p3096
 aV95503
-p2928
+p3097
 aVCalifornia
-p2929
-aa(lp2930
+p3098
+aVHumboldt County
+p3099
+aa(lp3100
 S'Andrew Williams'
-p2931
+p3101
 aS'2009'
-p2932
+p3102
 aS'Hooker'
-p2933
+p3103
 aS'9'
 aS'4'
 aS'5'
 aS'0'
 aS'4'
 aS'20'
-p2934
+p3104
 aS'1985'
-p2935
+p3105
 aVNederland
-p2936
+p3106
 aV1985
-p2937
+p3107
 aVNederland
-p2938
-aa(lp2939
+p3108
+aVNoord-Holland
+p3109
+aa(lp3110
 S'Ki Anufe'
-p2940
+p3111
 aS'2009'
-p2941
+p3112
 aS'Fly-half'
-p2942
+p3113
 aS'6'
 aS'5'
 aS'1'
 aS'0'
 aS'0'
 aS'40'
-p2943
+p3114
 aS'1987'
-p2944
+p3115
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2945
+p3116
 aV\u0421\u041a\u0424\u041e
-p2946
+p3117
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2947
-aa(lp2948
+p3118
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3119
+aa(lp3120
 S'Misioka Timoteo'
-p2949
+p3121
 aS'2009'
-p2950
+p3122
 aS'Flanker'
-p2951
+p3123
 aS'6'
 aS'3'
 aS'3'
@@ -8874,64 +9501,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'1988'
-p2952
+p3124
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2953
+p3125
 aV\u0421\u041a\u0424\u041e
-p2954
+p3126
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2955
-aa(lp2956
+p3127
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3128
+aa(lp3129
 S'Titi Junior Esau'
-p2957
+p3130
 aS'2009'
-p2958
+p3131
 aS'Fullback'
-p2959
+p3132
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'1'
 aS'37'
-p2960
+p3133
 aS'1988'
-p2961
+p3134
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2962
+p3135
 aV\u0421\u041a\u0424\u041e
-p2963
+p3136
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2964
-aa(lp2965
+p3137
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3138
+aa(lp3139
 S'Mikaela Pesamino'
-p2966
+p3140
 aS'2009'
-p2967
+p3141
 aS'Wing'
-p2968
+p3142
 aS'6'
 aS'5'
 aS'1'
 aS'0'
 aS'7'
 aS'35'
-p2969
+p3143
 aS'Western Samoa'
-p2970
+p3144
 aVUnited States of America
-p2971
+p3145
 aV95503
-p2972
+p3146
 aVCalifornia
-p2973
-aa(lp2974
+p3147
+aVHumboldt County
+p3148
+aa(lp3149
 S'Afa Aiono'
-p2975
+p3150
 aS'2009'
-p2976
+p3151
 aS'Flanker'
-p2977
+p3152
 aS'8'
 aS'3'
 aS'5'
@@ -8939,20 +9572,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'1988'
-p2978
+p3153
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p2979
+p3154
 aV\u0421\u041a\u0424\u041e
-p2980
+p3155
 aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p2981
-aa(lp2982
+p3156
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3157
+aa(lp3158
 S'Nifo Nifo'
-p2983
+p3159
 aS'2009'
-p2984
+p3160
 aS'Back-row, Lock'
-p2985
+p3161
 aS'1'
 aS'1'
 aS'0'
@@ -8960,456 +9595,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'1981'
-p2986
-aVSverige
-p2987
-aVSvealand
-p2988
-aVVästmanlands län
-p2989
-aa(lp2990
-S'Pesamino Alauni'
-p2991
-aS'2009'
-p2992
-aS'Wing'
-p2993
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'1985'
-p2994
-aVNederland
-p2995
-aV1985
-p2996
-aVNederland
-p2997
-aa(lp2998
-S'Meki Magele'
-p2999
-aS'2009'
-p3000
-aS'Wing'
-p3001
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'1'
-aS'5'
-aS'1985'
-p3002
-aVNederland
-p3003
-aV1985
-p3004
-aVNederland
-p3005
-aa(lp3006
-S"Logovi'i Mulipola"
-p3007
-aS'2009'
-p3008
-aS'Prop'
-p3009
-aS'17'
-p3010
-aS'10'
-p3011
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p3012
-aVUnited States of America
-p3013
-aV95503
-p3014
-aVCalifornia
-p3015
-aa(lp3016
-S'Zak Taulafo'
-p3017
-aS'2009'
-p3018
-aS'Prop'
-p3019
-aS'31'
-p3020
-aS'15'
-p3021
-aS'15'
-p3022
-aS'1'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p3023
-aVUnited States of America
-p3024
-aV95503
-p3025
-aVCalifornia
-p3026
-aa(lp3027
-S'Lucky Mulipola'
-p3028
-aS'2009'
-p3029
-aS'Centre, Wing'
-p3030
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p3031
-aVUnited States of America
-p3032
-aV95503
-p3033
-aVCalifornia
-p3034
-aa(lp3035
-S'Jeremiah Fatialofa'
-p3036
-aS'2009'
-p3037
-aS'Prop'
-p3038
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1984'
-p3039
-aVSverige
-p3040
-aVSvealand
-p3041
-aVVästmanlands län
-p3042
-aa(lp3043
-S'Semiperive Semeane'
-p3044
-aS'2009'
-p3045
-aS'Flanker'
-p3046
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1988'
-p3047
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3048
-aV\u0421\u041a\u0424\u041e
-p3049
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3050
-aa(lp3051
-S'Jamie Helleur'
-p3052
-aS'2010'
-p3053
-aS'Centre'
-p3054
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p3055
-aVNew Zealand/Aotearoa
-p3056
-aVAuckland
-p3057
-ag898
-aa(lp3058
-S'Anthony Perenise'
-p3059
-aS'2010'
-p3060
-aS'Prop'
-p3061
-aS'19'
-p3062
-aS'8'
-aS'10'
-p3063
-aS'1'
-aS'2'
-aS'10'
-p3064
-aS'Wellington'
-p3065
-aVNew Zealand/Aotearoa
-p3066
-aVWellington
-p3067
-aVWellington City
-p3068
-aa(lp3069
-S'George Pisi'
-p3070
-aS'2010'
-p3071
-aS'Centre'
-p3072
-aS'17'
-p3073
-aS'10'
-p3074
-aS'6'
-aS'1'
-aS'3'
-aS'15'
-p3075
-aS'Western Samoa'
-p3076
-aVUnited States of America
-p3077
-aV95503
-p3078
-aVCalifornia
-p3079
-aa(lp3080
-S'Falemiga Selesele'
-p3081
-aS'2010'
-p3082
-aS'Flanker'
-p3083
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'1989'
-p3084
-aV\u010cesko
-p3085
-aV43201
-p3086
-aVSeverozápad
-p3087
-aa(lp3088
-S'Paul Williams'
-p3089
-aS'2010'
-p3090
-aS'Centre'
-p3091
-aS'18'
-p3092
-aS'10'
-p3093
-aS'8'
-aS'0'
-aS'4'
-aS'72'
-p3094
-aS'Auckland'
-p3095
-aVNew Zealand/Aotearoa
-p3096
-aVAuckland
-p3097
-ag898
-aa(lp3098
-S'James Afoa'
-p3099
-aS'2010'
-p3100
-aS'Prop'
-p3101
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p3102
-aVNew Zealand/Aotearoa
-p3103
-aVAuckland
-p3104
-ag898
-aa(lp3105
-S'Tua Otto'
-p3106
-aS'2010'
-p3107
-aS'Centre'
-p3108
-aS'12'
-p3109
-aS'5'
-aS'6'
-aS'1'
-aS'3'
-aS'15'
-p3110
-aS'1985'
-p3111
-aVNederland
-p3112
-aV1985
-p3113
-aVNederland
-p3114
-aa(lp3115
-S'Manu Salavea'
-p3116
-aS'2010'
-p3117
-aS'No. 8'
-p3118
-aS'10'
-p3119
-aS'5'
-aS'5'
-aS'0'
-aS'1'
-aS'5'
-aS'Western Samoa'
-p3120
-aVUnited States of America
-p3121
-aV95503
-p3122
-aVCalifornia
-p3123
-aa(lp3124
-S'Uarotafou Setu'
-p3125
-aS'2010'
-p3126
-aS'Centre'
-p3127
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p3128
-aVUnited States of America
-p3129
-aV95503
-p3130
-aVCalifornia
-p3131
-aa(lp3132
-S'Josh Keil'
-p3133
-aS'2010'
-p3134
-aS'Fly-half'
-p3135
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1982'
-p3136
-aVSverige
-p3137
-aVSvealand
-p3138
-aVVästmanlands län
-p3139
-aa(lp3140
-S"Kahn Fotuali'i"
-p3141
-aS'2010'
-p3142
-aS'Scrum-half'
-p3143
-aS'22'
-p3144
-aS'10'
-p3145
-aS'11'
-p3146
-aS'1'
-aS'5'
-aS'28'
-p3147
-aS'Auckland'
-p3148
-aVNew Zealand/Aotearoa
-p3149
-aVAuckland
-p3150
-ag898
-aa(lp3151
-S'Richard Muagututia'
-p3152
-aS'2010'
-p3153
-aS'Flanker'
-p3154
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p3155
-aVUnited States of America
-p3156
-aV95503
-p3157
-aVCalifornia
-p3158
-aa(lp3159
-S'Sinoti Sinoti'
-p3160
-aS'2010'
-p3161
-aS'Wing'
 p3162
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Wellington'
+aVSverige
 p3163
-aVNew Zealand/Aotearoa
+aVSvealand
 p3164
-aVWellington
+aVVästmanlands län
 p3165
-aVWellington City
+aVSala
 p3166
 aa(lp3167
-S'Josh Tatupu'
+S'Pesamino Alauni'
 p3168
-aS'2010'
+aS'2009'
 p3169
-aS'Centre'
+aS'Wing'
 p3170
 aS'1'
 aS'1'
@@ -9417,860 +9617,120 @@ aS'0'
 aS'0'
 aS'0'
 aS'0'
-aS'Christchurch'
-p3171
-aVNew Zealand/Aotearoa
-p3172
-aVCanterbury
-p3173
-aVChristchurch City
-p3174
-aa(lp3175
-S"Levi Asifa'amatala"
-p3176
-aS'2010'
-p3177
-aS'Lock'
-p3178
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'1988'
-p3179
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3180
-aV\u0421\u041a\u0424\u041e
-p3181
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3182
-aa(lp3183
-S'Tala Fagasoaia'
-p3184
-aS'2010'
-p3185
-aS'Scrum-half'
-p3186
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'1987'
-p3187
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3188
-aV\u0421\u041a\u0424\u041e
-p3189
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3190
-aa(lp3191
-S'Tasesa Lavea Levi'
-p3192
-aS'2010'
-p3193
-aS'Fly-half'
-p3194
-aS'7'
-aS'2'
-aS'5'
-aS'0'
-aS'0'
-aS'3'
-aS'South Auckland'
-p3195
-aVArgentina
-p3196
-aVS2000
-p3197
-aVSFE
-p3198
-aa(lp3199
-S"Ti'i Paulo"
-p3200
-aS'2010'
-p3201
-aS'Hooker'
-p3202
-aS'22'
-p3203
-aS'9'
-aS'12'
-p3204
-aS'1'
-aS'0'
-aS'0'
-aS'Christchurch'
-p3205
-aVNew Zealand/Aotearoa
-p3206
-aVCanterbury
-p3207
-aVChristchurch City
-p3208
-aa(lp3209
-S'Tusi Pisi'
-p3210
-aS'2006'
-p3211
-aS'Centre, Fly-half'
-p3212
-aS'23'
-p3213
-aS'10'
-p3214
-aS'12'
-p3215
-aS'1'
-aS'2'
-aS'151'
-p3216
-aS'Western Samoa'
-p3217
-aVUnited States of America
-p3218
-aV95503
-p3219
-aVCalifornia
-p3220
-aa(lp3221
-S"James So'oialo"
-p3222
-aS'2011'
-p3223
-aS'Centre'
-p3224
-aS'7'
-aS'3'
-aS'4'
-aS'0'
-aS'1'
-aS'78'
-p3225
-aS'Wellington'
-p3226
-aVNew Zealand/Aotearoa
-p3227
-aVWellington
-p3228
-aVWellington City
-p3229
-aa(lp3230
-S'Ezra Taylor'
-p3231
-aS'2011'
-p3232
-aS'Lock, Back-row'
-p3233
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'QLD'
-p3234
-aVAustralia
-p3235
-aVQueensland
-p3236
-ag898
-aa(lp3237
-S"Tai Tu'ifua"
-p3238
-aS'2011'
-p3239
-aS'No. 8'
-p3240
-aS'16'
-p3241
-aS'9'
-aS'6'
-aS'1'
-aS'2'
-aS'10'
-p3242
-aS'Western Samoa'
-p3243
-aVUnited States of America
-p3244
-aV95503
-p3245
-aVCalifornia
-p3246
-aa(lp3247
-S'Ole Avei'
-p3248
-aS'2011'
-p3249
-aS'Hooker'
-p3250
-aS'20'
-p3251
-aS'11'
-p3252
-aS'8'
-aS'1'
-aS'0'
-aS'0'
-aS'Wellington'
-p3253
-aVNew Zealand/Aotearoa
-p3254
-aVWellington
-p3255
-aVWellington City
-p3256
-aa(lp3257
-S'Johnny Leota'
-p3258
-aS'2011'
-p3259
-aS'Centre'
-p3260
-aS'15'
-p3261
-aS'6'
-aS'8'
-aS'1'
-aS'2'
-aS'10'
-p3262
-aS'Palmerston North'
-p3263
-aVNew Zealand/Aotearoa
-p3264
-aVManawatu-Wanganui
-p3265
-aVPalmerston North City
-p3266
-aa(lp3267
-S'Brenton Helleur'
-p3268
-aS'2011'
-p3269
-aS'Scrum-half'
-p3270
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p3271
-aVNew Zealand/Aotearoa
-p3272
-aVAuckland
-p3273
-ag898
-aa(lp3274
-S'Ray Ofisa Treviranus'
-p3275
-aS'2011'
-p3276
-aS'Back-row'
-p3277
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p3278
-aVUnited States of America
-p3279
-aV95503
-p3280
-aVCalifornia
-p3281
-aa(lp3282
-S'Herman Porter'
-p3283
-aS'2011'
-p3284
-aS'Centre'
-p3285
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p3286
-aVUnited States of America
-p3287
-aV95503
-p3288
-aVCalifornia
-p3289
-aa(lp3290
-S"Jeremy Su'a"
-p3291
-aS'2011'
-p3292
-aS'Scrum-half'
-p3293
-aS'14'
-p3294
-aS'8'
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aS'Wellington'
-p3295
-aVNew Zealand/Aotearoa
-p3296
-aVWellington
-p3297
-aVWellington City
-p3298
-aa(lp3299
-S"Fa'atoina Autagavaia"
-p3300
-aS'2012'
-p3301
-aS'Fullback'
-p3302
-aS'13'
-p3303
-aS'8'
-aS'4'
-aS'1'
-aS'1'
-aS'5'
-aS'Western Samoa'
-p3304
-aVUnited States of America
-p3305
-aV95503
-p3306
-aVCalifornia
-p3307
-aa(lp3308
-S'Daniel Crichton'
-p3309
-aS'2012'
-p3310
-aS'Back-row'
-p3311
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Wellington'
-p3312
-aVNew Zealand/Aotearoa
-p3313
-aVWellington
-p3314
-aVWellington City
-p3315
-aa(lp3316
-S'Steve Fualau'
-p3317
-aS'2012'
-p3318
-aS'Hooker'
-p3319
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'1983'
-p3320
-aVSverige
-p3321
-aVSvealand
-p3322
-aVVästmanlands län
-p3323
-aa(lp3324
-S"Fa'atiga Lemalu"
-p3325
-aS'2012'
-p3326
-aS'Lock, Flanker'
-p3327
-aS'12'
-p3328
-aS'6'
-aS'6'
-aS'0'
-aS'2'
-aS'10'
-p3329
-aS'Otahuhu'
-p3330
-aVNew Zealand/Aotearoa
-p3331
-aVAuckland
-p3332
-aVMangere-Otahuhu
-p3333
-aa(lp3334
-S'Ben Masoe'
-p3335
-aS'2012'
-p3336
-aS'Back-row'
-p3337
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1986'
-p3338
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3339
-aV\u0421\u041a\u0424\u041e
-p3340
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3341
-aa(lp3342
-S'Ken Pisi'
-p3343
-aS'2012'
-p3344
-aS'Wing'
-p3345
-aS'5'
-aS'2'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p3346
-aVNew Zealand/Aotearoa
-p3347
-aVAuckland
-p3348
-ag898
-aa(lp3349
-S'Alvin Tavana'
-p3350
-aS'2012'
-p3351
-aS'Fly-half'
-p3352
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'1987'
-p3353
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3354
-aV\u0421\u041a\u0424\u041e
-p3355
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3356
-aa(lp3357
-S'Nalu Tuigamala'
-p3358
-aS'2012'
-p3359
-aS'Utility back'
-p3360
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'1'
-aS'5'
-aS'1989'
-p3361
-aV\u010cesko
-p3362
-aV43201
-p3363
-aVSeverozápad
-p3364
-aa(lp3365
-S'Viliamu Afatia'
-p3366
-aS'2012'
-p3367
-aS'Prop'
-p3368
-aS'6'
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'1990'
-p3369
-aVPortugal
-p3370
-aV1990
-p3371
-aVLisboa
-p3372
-aa(lp3373
-S'Paul Perez'
-p3374
-aS'2012'
-p3375
-aS'Wing'
-p3376
-aS'7'
-aS'5'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p3377
-aVUnited States of America
-p3378
-aV95503
-p3379
-aVCalifornia
-p3380
-aa(lp3381
-S"Tivaini Foma'i"
-p3382
-aS'2012'
-p3383
-aS'Flanker'
-p3384
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
 aS'1985'
-p3385
+p3171
 aVNederland
-p3386
+p3172
 aV1985
-p3387
+p3173
 aVNederland
-p3388
-aa(lp3389
-S'Robert Lilomaiava'
-p3390
-aS'2012'
-p3391
+p3174
+aVNoord-Holland
+p3175
+aa(lp3176
+S'Meki Magele'
+p3177
+aS'2009'
+p3178
 aS'Wing'
-p3392
+p3179
 aS'2'
 aS'1'
 aS'1'
 aS'0'
-aS'4'
-aS'20'
-p3393
-aS'Western Samoa'
-p3394
-aVUnited States of America
-p3395
-aV95503
-p3396
-aVCalifornia
-p3397
-aa(lp3398
-S'Filo Paulo'
-p3399
-aS'2012'
-p3400
-aS'Lock'
-p3401
-aS'13'
-p3402
-aS'6'
-aS'6'
-aS'1'
 aS'1'
 aS'5'
-aS'Wellington'
-p3403
-aVNew Zealand/Aotearoa
-p3404
-aVWellington
-p3405
-aVWellington City
-p3406
-aa(lp3407
-S'Setaimata Sa'
-p3408
-aS'2012'
-p3409
-aS'Centre'
-p3410
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Western Samoa'
-p3411
-aVUnited States of America
-p3412
-aV95503
-p3413
-aVCalifornia
-p3414
-aa(lp3415
-S'Ropeti Lafo'
-p3416
-aS'2012'
-p3417
-aS'Hooker'
-p3418
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1992'
-p3419
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3420
-aV\u0421\u041a\u0424\u041e
-p3421
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3422
-aa(lp3423
-S'Jack Lam'
-p3424
-aS'2013'
-p3425
-aS'Back-row'
-p3426
-aS'11'
-p3427
-aS'5'
-aS'5'
-aS'1'
-aS'2'
-aS'10'
-p3428
-aS'Hamilton'
-p3429
-aVCanada
-p3430
-aVOntario
-p3431
-aVHamilton
-p3432
-aa(lp3433
-S'Alapati Leiua'
-p3434
-aS'2013'
-p3435
-aS'Centre'
-p3436
-aS'10'
-p3437
-aS'4'
-aS'5'
-aS'1'
-aS'2'
-aS'10'
-p3438
-aS'Western Samoa'
-p3439
-aVUnited States of America
-p3440
-aV95503
-p3441
-aVCalifornia
-p3442
-aa(lp3443
-S'Manu Leiataua'
-p3444
-aS'2013'
-p3445
-aS'Hooker'
-p3446
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Wellington'
-p3447
-aVNew Zealand/Aotearoa
-p3448
-aVWellington
-p3449
-aVWellington City
-p3450
-aa(lp3451
-S"Brando Va'aulu"
-p3452
-aS'2013'
-p3453
-aS'Wing'
-p3454
-aS'6'
-aS'2'
-aS'4'
-aS'0'
-aS'2'
-aS'10'
-p3455
-aS'Auckland'
-p3456
-aVNew Zealand/Aotearoa
-p3457
-aVAuckland
-p3458
-ag898
-aa(lp3459
-S'Piula Faasalele'
-p3460
-aS'2013'
-p3461
-aS'Flanker'
-p3462
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Porirua'
-p3463
-aVNew Zealand/Aotearoa
-p3464
-aVWellington
-p3465
-aVPorirua City
-p3466
-aa(lp3467
-S'Faifili Levave'
-p3468
-aS'2013'
-p3469
-aS'Back-row'
-p3470
-aS'3'
-aS'0'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'Porirua'
-p3471
-aVNew Zealand/Aotearoa
-p3472
-aVWellington
-p3473
-aVPorirua City
-p3474
-aa(lp3475
-S'Isaia Tuifua'
-p3476
-aS'2013'
-p3477
-aS'Centre'
-p3478
-aS'2'
-aS'0'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'1987'
-p3479
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3480
-aV\u0421\u041a\u0424\u041e
-p3481
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3482
-aa(lp3483
-S'Vavao Afemai'
-p3484
-aS'2014'
-p3485
-aS'Scrum-half'
-p3486
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1992'
-p3487
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3488
-aV\u0421\u041a\u0424\u041e
-p3489
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3490
-aa(lp3491
-S"Oneone Fa'afou"
-p3492
-aS'2014'
-p3493
-aS'Flanker'
-p3494
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'1992'
-p3495
-aV\u0420\u043e\u0441\u0441\u0438\u044f
-p3496
-aV\u0421\u041a\u0424\u041e
-p3497
-aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
-p3498
-aa(lp3499
-S"Patrick Fa'apale"
-p3500
-aS'2014'
-p3501
-aS'Fly-half'
-p3502
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'4'
-aS'1991'
-p3503
+aS'1985'
+p3180
 aVNederland
-p3504
-aV1991
-p3505
+p3181
+aV1985
+p3182
 aVNederland
-p3506
-aa(lp3507
-S'Jake Grey'
-p3508
-aS'2014'
-p3509
+p3183
+aVNoord-Holland
+p3184
+aa(lp3185
+S"Logovi'i Mulipola"
+p3186
+aS'2009'
+p3187
 aS'Prop'
-p3510
+p3188
+aS'17'
+p3189
+aS'10'
+p3190
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p3191
+aVUnited States of America
+p3192
+aV95503
+p3193
+aVCalifornia
+p3194
+aVHumboldt County
+p3195
+aa(lp3196
+S'Zak Taulafo'
+p3197
+aS'2009'
+p3198
+aS'Prop'
+p3199
+aS'31'
+p3200
+aS'15'
+p3201
+aS'15'
+p3202
+aS'1'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p3203
+aVUnited States of America
+p3204
+aV95503
+p3205
+aVCalifornia
+p3206
+aVHumboldt County
+p3207
+aa(lp3208
+S'Lucky Mulipola'
+p3209
+aS'2009'
+p3210
+aS'Centre, Wing'
+p3211
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p3212
+aVUnited States of America
+p3213
+aV95503
+p3214
+aVCalifornia
+p3215
+aVHumboldt County
+p3216
+aa(lp3217
+S'Jeremiah Fatialofa'
+p3218
+aS'2009'
+p3219
+aS'Prop'
+p3220
 aS'1'
 aS'0'
 aS'1'
@@ -10278,20 +9738,637 @@ aS'0'
 aS'0'
 aS'0'
 aS'1984'
-p3511
+p3221
 aVSverige
-p3512
+p3222
 aVSvealand
-p3513
+p3223
 aVVästmanlands län
-p3514
-aa(lp3515
-S'Aniseko Sio'
-p3516
-aS'2014'
-p3517
+p3224
+aVArboga
+p3225
+aa(lp3226
+S'Semiperive Semeane'
+p3227
+aS'2009'
+p3228
+aS'Flanker'
+p3229
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1988'
+p3230
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3231
+aV\u0421\u041a\u0424\u041e
+p3232
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3233
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3234
+aa(lp3235
+S'Jamie Helleur'
+p3236
+aS'2010'
+p3237
+aS'Centre'
+p3238
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p3239
+aVNew Zealand/Aotearoa
+p3240
+aVAuckland
+p3241
+ag903
+ag903
+aa(lp3242
+S'Anthony Perenise'
+p3243
+aS'2010'
+p3244
 aS'Prop'
-p3518
+p3245
+aS'19'
+p3246
+aS'8'
+aS'10'
+p3247
+aS'1'
+aS'2'
+aS'10'
+p3248
+aS'Wellington'
+p3249
+aVNew Zealand/Aotearoa
+p3250
+aVWellington
+p3251
+aVWellington City
+p3252
+aVWellington
+p3253
+aa(lp3254
+S'George Pisi'
+p3255
+aS'2010'
+p3256
+aS'Centre'
+p3257
+aS'17'
+p3258
+aS'10'
+p3259
+aS'6'
+aS'1'
+aS'3'
+aS'15'
+p3260
+aS'Western Samoa'
+p3261
+aVUnited States of America
+p3262
+aV95503
+p3263
+aVCalifornia
+p3264
+aVHumboldt County
+p3265
+aa(lp3266
+S'Falemiga Selesele'
+p3267
+aS'2010'
+p3268
+aS'Flanker'
+p3269
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1989'
+p3270
+aV\u010cesko
+p3271
+aV43201
+p3272
+aVSeverozápad
+p3273
+aVÚstecký kraj
+p3274
+aa(lp3275
+S'Paul Williams'
+p3276
+aS'2010'
+p3277
+aS'Centre'
+p3278
+aS'18'
+p3279
+aS'10'
+p3280
+aS'8'
+aS'0'
+aS'4'
+aS'72'
+p3281
+aS'Auckland'
+p3282
+aVNew Zealand/Aotearoa
+p3283
+aVAuckland
+p3284
+ag903
+ag903
+aa(lp3285
+S'James Afoa'
+p3286
+aS'2010'
+p3287
+aS'Prop'
+p3288
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p3289
+aVNew Zealand/Aotearoa
+p3290
+aVAuckland
+p3291
+ag903
+ag903
+aa(lp3292
+S'Tua Otto'
+p3293
+aS'2010'
+p3294
+aS'Centre'
+p3295
+aS'12'
+p3296
+aS'5'
+aS'6'
+aS'1'
+aS'3'
+aS'15'
+p3297
+aS'1985'
+p3298
+aVNederland
+p3299
+aV1985
+p3300
+aVNederland
+p3301
+aVNoord-Holland
+p3302
+aa(lp3303
+S'Manu Salavea'
+p3304
+aS'2010'
+p3305
+aS'No. 8'
+p3306
+aS'10'
+p3307
+aS'5'
+aS'5'
+aS'0'
+aS'1'
+aS'5'
+aS'Western Samoa'
+p3308
+aVUnited States of America
+p3309
+aV95503
+p3310
+aVCalifornia
+p3311
+aVHumboldt County
+p3312
+aa(lp3313
+S'Uarotafou Setu'
+p3314
+aS'2010'
+p3315
+aS'Centre'
+p3316
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p3317
+aVUnited States of America
+p3318
+aV95503
+p3319
+aVCalifornia
+p3320
+aVHumboldt County
+p3321
+aa(lp3322
+S'Josh Keil'
+p3323
+aS'2010'
+p3324
+aS'Fly-half'
+p3325
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1982'
+p3326
+aVSverige
+p3327
+aVSvealand
+p3328
+aVVästmanlands län
+p3329
+aVFagersta
+p3330
+aa(lp3331
+S"Kahn Fotuali'i"
+p3332
+aS'2010'
+p3333
+aS'Scrum-half'
+p3334
+aS'22'
+p3335
+aS'10'
+p3336
+aS'11'
+p3337
+aS'1'
+aS'5'
+aS'28'
+p3338
+aS'Auckland'
+p3339
+aVNew Zealand/Aotearoa
+p3340
+aVAuckland
+p3341
+ag903
+ag903
+aa(lp3342
+S'Richard Muagututia'
+p3343
+aS'2010'
+p3344
+aS'Flanker'
+p3345
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p3346
+aVUnited States of America
+p3347
+aV95503
+p3348
+aVCalifornia
+p3349
+aVHumboldt County
+p3350
+aa(lp3351
+S'Sinoti Sinoti'
+p3352
+aS'2010'
+p3353
+aS'Wing'
+p3354
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
+p3355
+aVNew Zealand/Aotearoa
+p3356
+aVWellington
+p3357
+aVWellington City
+p3358
+aVWellington
+p3359
+aa(lp3360
+S'Josh Tatupu'
+p3361
+aS'2010'
+p3362
+aS'Centre'
+p3363
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Christchurch'
+p3364
+aVNew Zealand/Aotearoa
+p3365
+aVCanterbury
+p3366
+aVChristchurch City
+p3367
+aVChristchurch
+p3368
+aa(lp3369
+S"Levi Asifa'amatala"
+p3370
+aS'2010'
+p3371
+aS'Lock'
+p3372
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1988'
+p3373
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3374
+aV\u0421\u041a\u0424\u041e
+p3375
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3376
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3377
+aa(lp3378
+S'Tala Fagasoaia'
+p3379
+aS'2010'
+p3380
+aS'Scrum-half'
+p3381
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1987'
+p3382
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3383
+aV\u0421\u041a\u0424\u041e
+p3384
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3385
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3386
+aa(lp3387
+S'Tasesa Lavea Levi'
+p3388
+aS'2010'
+p3389
+aS'Fly-half'
+p3390
+aS'7'
+aS'2'
+aS'5'
+aS'0'
+aS'0'
+aS'3'
+aS'South Auckland'
+p3391
+aVArgentina
+p3392
+aVS2000
+p3393
+aVSFE
+p3394
+aVDepartamento Rosario
+p3395
+aa(lp3396
+S"Ti'i Paulo"
+p3397
+aS'2010'
+p3398
+aS'Hooker'
+p3399
+aS'22'
+p3400
+aS'9'
+aS'12'
+p3401
+aS'1'
+aS'0'
+aS'0'
+aS'Christchurch'
+p3402
+aVNew Zealand/Aotearoa
+p3403
+aVCanterbury
+p3404
+aVChristchurch City
+p3405
+aVChristchurch
+p3406
+aa(lp3407
+S'Tusi Pisi'
+p3408
+aS'2006'
+p3409
+aS'Centre, Fly-half'
+p3410
+aS'23'
+p3411
+aS'10'
+p3412
+aS'12'
+p3413
+aS'1'
+aS'2'
+aS'151'
+p3414
+aS'Western Samoa'
+p3415
+aVUnited States of America
+p3416
+aV95503
+p3417
+aVCalifornia
+p3418
+aVHumboldt County
+p3419
+aa(lp3420
+S"James So'oialo"
+p3421
+aS'2011'
+p3422
+aS'Centre'
+p3423
+aS'7'
+aS'3'
+aS'4'
+aS'0'
+aS'1'
+aS'78'
+p3424
+aS'Wellington'
+p3425
+aVNew Zealand/Aotearoa
+p3426
+aVWellington
+p3427
+aVWellington City
+p3428
+aVWellington
+p3429
+aa(lp3430
+S'Ezra Taylor'
+p3431
+aS'2011'
+p3432
+aS'Lock, Back-row'
+p3433
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'QLD'
+p3434
+aVAustralia
+p3435
+aVQueensland
+p3436
+ag903
+ag903
+aa(lp3437
+S"Tai Tu'ifua"
+p3438
+aS'2011'
+p3439
+aS'No. 8'
+p3440
+aS'16'
+p3441
+aS'9'
+aS'6'
+aS'1'
+aS'2'
+aS'10'
+p3442
+aS'Western Samoa'
+p3443
+aVUnited States of America
+p3444
+aV95503
+p3445
+aVCalifornia
+p3446
+aVHumboldt County
+p3447
+aa(lp3448
+S'Ole Avei'
+p3449
+aS'2011'
+p3450
+aS'Hooker'
+p3451
+aS'20'
+p3452
+aS'11'
+p3453
+aS'8'
+aS'1'
+aS'0'
+aS'0'
+aS'Wellington'
+p3454
+aVNew Zealand/Aotearoa
+p3455
+aVWellington
+p3456
+aVWellington City
+p3457
+aVWellington
+p3458
+aa(lp3459
+S'Johnny Leota'
+p3460
+aS'2011'
+p3461
+aS'Centre'
+p3462
+aS'15'
+p3463
+aS'6'
+aS'8'
+aS'1'
+aS'2'
+aS'10'
+p3464
+aS'Palmerston North'
+p3465
+aVNew Zealand/Aotearoa
+p3466
+aVManawatu-Wanganui
+p3467
+aVPalmerston North City
+p3468
+aVPalmerston North
+p3469
+aa(lp3470
+S'Brenton Helleur'
+p3471
+aS'2011'
+p3472
+aS'Scrum-half'
+p3473
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p3474
+aVNew Zealand/Aotearoa
+p3475
+aVAuckland
+p3476
+ag903
+ag903
+aa(lp3477
+S'Ray Ofisa Treviranus'
+p3478
+aS'2011'
+p3479
+aS'Back-row'
+p3480
 aS'1'
 aS'0'
 aS'1'
@@ -10299,20 +10376,695 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p3519
+p3481
 aVUnited States of America
-p3520
+p3482
 aV95503
-p3521
+p3483
 aVCalifornia
-p3522
-aa(lp3523
-S'Tulolo Tulolo'
-p3524
-aS'2014'
-p3525
+p3484
+aVHumboldt County
+p3485
+aa(lp3486
+S'Herman Porter'
+p3487
+aS'2011'
+p3488
+aS'Centre'
+p3489
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p3490
+aVUnited States of America
+p3491
+aV95503
+p3492
+aVCalifornia
+p3493
+aVHumboldt County
+p3494
+aa(lp3495
+S"Jeremy Su'a"
+p3496
+aS'2011'
+p3497
+aS'Scrum-half'
+p3498
+aS'14'
+p3499
+aS'8'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'Wellington'
+p3500
+aVNew Zealand/Aotearoa
+p3501
+aVWellington
+p3502
+aVWellington City
+p3503
+aVWellington
+p3504
+aa(lp3505
+S"Fa'atoina Autagavaia"
+p3506
+aS'2012'
+p3507
 aS'Fullback'
+p3508
+aS'13'
+p3509
+aS'8'
+aS'4'
+aS'1'
+aS'1'
+aS'5'
+aS'Western Samoa'
+p3510
+aVUnited States of America
+p3511
+aV95503
+p3512
+aVCalifornia
+p3513
+aVHumboldt County
+p3514
+aa(lp3515
+S'Daniel Crichton'
+p3516
+aS'2012'
+p3517
+aS'Back-row'
+p3518
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
+p3519
+aVNew Zealand/Aotearoa
+p3520
+aVWellington
+p3521
+aVWellington City
+p3522
+aVWellington
+p3523
+aa(lp3524
+S'Steve Fualau'
+p3525
+aS'2012'
 p3526
+aS'Hooker'
+p3527
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1983'
+p3528
+aVSverige
+p3529
+aVSvealand
+p3530
+aVVästmanlands län
+p3531
+aVKöping
+p3532
+aa(lp3533
+S"Fa'atiga Lemalu"
+p3534
+aS'2012'
+p3535
+aS'Lock, Flanker'
+p3536
+aS'12'
+p3537
+aS'6'
+aS'6'
+aS'0'
+aS'2'
+aS'10'
+p3538
+aS'Otahuhu'
+p3539
+aVNew Zealand/Aotearoa
+p3540
+aVAuckland
+p3541
+aVMangere-Otahuhu
+p3542
+aV\u014ct\u0101huhu
+p3543
+aa(lp3544
+S'Ben Masoe'
+p3545
+aS'2012'
+p3546
+aS'Back-row'
+p3547
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1986'
+p3548
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3549
+aV\u0421\u041a\u0424\u041e
+p3550
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3551
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3552
+aa(lp3553
+S'Ken Pisi'
+p3554
+aS'2012'
+p3555
+aS'Wing'
+p3556
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p3557
+aVNew Zealand/Aotearoa
+p3558
+aVAuckland
+p3559
+ag903
+ag903
+aa(lp3560
+S'Alvin Tavana'
+p3561
+aS'2012'
+p3562
+aS'Fly-half'
+p3563
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'1987'
+p3564
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3565
+aV\u0421\u041a\u0424\u041e
+p3566
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3567
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3568
+aa(lp3569
+S'Nalu Tuigamala'
+p3570
+aS'2012'
+p3571
+aS'Utility back'
+p3572
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'5'
+aS'1989'
+p3573
+aV\u010cesko
+p3574
+aV43201
+p3575
+aVSeverozápad
+p3576
+aVÚstecký kraj
+p3577
+aa(lp3578
+S'Viliamu Afatia'
+p3579
+aS'2012'
+p3580
+aS'Prop'
+p3581
+aS'6'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'1990'
+p3582
+aVPortugal
+p3583
+aV1990
+p3584
+aVLisboa
+p3585
+aVParque das Nações
+p3586
+aa(lp3587
+S'Paul Perez'
+p3588
+aS'2012'
+p3589
+aS'Wing'
+p3590
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p3591
+aVUnited States of America
+p3592
+aV95503
+p3593
+aVCalifornia
+p3594
+aVHumboldt County
+p3595
+aa(lp3596
+S"Tivaini Foma'i"
+p3597
+aS'2012'
+p3598
+aS'Flanker'
+p3599
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1985'
+p3600
+aVNederland
+p3601
+aV1985
+p3602
+aVNederland
+p3603
+aVNoord-Holland
+p3604
+aa(lp3605
+S'Robert Lilomaiava'
+p3606
+aS'2012'
+p3607
+aS'Wing'
+p3608
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'4'
+aS'20'
+p3609
+aS'Western Samoa'
+p3610
+aVUnited States of America
+p3611
+aV95503
+p3612
+aVCalifornia
+p3613
+aVHumboldt County
+p3614
+aa(lp3615
+S'Filo Paulo'
+p3616
+aS'2012'
+p3617
+aS'Lock'
+p3618
+aS'13'
+p3619
+aS'6'
+aS'6'
+aS'1'
+aS'1'
+aS'5'
+aS'Wellington'
+p3620
+aVNew Zealand/Aotearoa
+p3621
+aVWellington
+p3622
+aVWellington City
+p3623
+aVWellington
+p3624
+aa(lp3625
+S'Setaimata Sa'
+p3626
+aS'2012'
+p3627
+aS'Centre'
+p3628
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p3629
+aVUnited States of America
+p3630
+aV95503
+p3631
+aVCalifornia
+p3632
+aVHumboldt County
+p3633
+aa(lp3634
+S'Ropeti Lafo'
+p3635
+aS'2012'
+p3636
+aS'Hooker'
+p3637
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1992'
+p3638
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3639
+aV\u0421\u041a\u0424\u041e
+p3640
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3641
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3642
+aa(lp3643
+S'Jack Lam'
+p3644
+aS'2013'
+p3645
+aS'Back-row'
+p3646
+aS'11'
+p3647
+aS'5'
+aS'5'
+aS'1'
+aS'2'
+aS'10'
+p3648
+aS'Hamilton'
+p3649
+aVCanada
+p3650
+aVOntario
+p3651
+aVHamilton
+p3652
+ag903
+aa(lp3653
+S'Alapati Leiua'
+p3654
+aS'2013'
+p3655
+aS'Centre'
+p3656
+aS'10'
+p3657
+aS'4'
+aS'5'
+aS'1'
+aS'2'
+aS'10'
+p3658
+aS'Western Samoa'
+p3659
+aVUnited States of America
+p3660
+aV95503
+p3661
+aVCalifornia
+p3662
+aVHumboldt County
+p3663
+aa(lp3664
+S'Manu Leiataua'
+p3665
+aS'2013'
+p3666
+aS'Hooker'
+p3667
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
+p3668
+aVNew Zealand/Aotearoa
+p3669
+aVWellington
+p3670
+aVWellington City
+p3671
+aVWellington
+p3672
+aa(lp3673
+S"Brando Va'aulu"
+p3674
+aS'2013'
+p3675
+aS'Wing'
+p3676
+aS'6'
+aS'2'
+aS'4'
+aS'0'
+aS'2'
+aS'10'
+p3677
+aS'Auckland'
+p3678
+aVNew Zealand/Aotearoa
+p3679
+aVAuckland
+p3680
+ag903
+ag903
+aa(lp3681
+S'Piula Faasalele'
+p3682
+aS'2013'
+p3683
+aS'Flanker'
+p3684
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Porirua'
+p3685
+aVNew Zealand/Aotearoa
+p3686
+aVWellington
+p3687
+aVPorirua City
+p3688
+aVPorirua
+p3689
+aa(lp3690
+S'Faifili Levave'
+p3691
+aS'2013'
+p3692
+aS'Back-row'
+p3693
+aS'3'
+aS'0'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Porirua'
+p3694
+aVNew Zealand/Aotearoa
+p3695
+aVWellington
+p3696
+aVPorirua City
+p3697
+aVPorirua
+p3698
+aa(lp3699
+S'Isaia Tuifua'
+p3700
+aS'2013'
+p3701
+aS'Centre'
+p3702
+aS'2'
+aS'0'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'1987'
+p3703
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3704
+aV\u0421\u041a\u0424\u041e
+p3705
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3706
+aV\u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3707
+aa(lp3708
+S'Vavao Afemai'
+p3709
+aS'2014'
+p3710
+aS'Scrum-half'
+p3711
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1992'
+p3712
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3713
+aV\u0421\u041a\u0424\u041e
+p3714
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3715
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3716
+aa(lp3717
+S"Oneone Fa'afou"
+p3718
+aS'2014'
+p3719
+aS'Flanker'
+p3720
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1992'
+p3721
+aV\u0420\u043e\u0441\u0441\u0438\u044f
+p3722
+aV\u0421\u041a\u0424\u041e
+p3723
+aV\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f
+p3724
+aV\u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d
+p3725
+aa(lp3726
+S"Patrick Fa'apale"
+p3727
+aS'2014'
+p3728
+aS'Fly-half'
+p3729
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'4'
+aS'1991'
+p3730
+aVNederland
+p3731
+aV1991
+p3732
+aVNederland
+p3733
+aVNoord-Holland
+p3734
+aa(lp3735
+S'Jake Grey'
+p3736
+aS'2014'
+p3737
+aS'Prop'
+p3738
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'1984'
+p3739
+aVSverige
+p3740
+aVSvealand
+p3741
+aVVästmanlands län
+p3742
+aVArboga
+p3743
+aa(lp3744
+S'Aniseko Sio'
+p3745
+aS'2014'
+p3746
+aS'Prop'
+p3747
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Western Samoa'
+p3748
+aVUnited States of America
+p3749
+aV95503
+p3750
+aVCalifornia
+p3751
+aVHumboldt County
+p3752
+aa(lp3753
+S'Tulolo Tulolo'
+p3754
+aS'2014'
+p3755
+aS'Fullback'
+p3756
 aS'1'
 aS'0'
 aS'1'
@@ -10320,20 +11072,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1991'
-p3527
+p3757
 aVNederland
-p3528
+p3758
 aV1991
-p3529
+p3759
 aVNederland
-p3530
-aa(lp3531
+p3760
+aVNoord-Holland
+p3761
+aa(lp3762
 S'Samuel Aiono'
-p3532
+p3763
 aS'2014'
-p3533
+p3764
 aS'Prop'
-p3534
+p3765
 aS'1'
 aS'0'
 aS'1'
@@ -10341,18 +11095,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p3535
+p3766
 aVUnited States of America
-p3536
+p3767
 aV95503
-p3537
+p3768
 aVCalifornia
-p3538
-aa(lp3539
+p3769
+aVHumboldt County
+p3770
+aa(lp3771
 S'Lio Lolo'
-p3540
+p3772
 aS'2014'
-p3541
+p3773
 aS''
 aS'1'
 aS'0'
@@ -10361,20 +11117,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1989'
-p3542
+p3774
 aV\u010cesko
-p3543
+p3775
 aV43201
-p3544
+p3776
 aVSeverozápad
-p3545
-aa(lp3546
+p3777
+aVÚstecký kraj
+p3778
+aa(lp3779
 S'Vaiofaga Simanu'
-p3547
+p3780
 aS'2014'
-p3548
+p3781
 aS'Scrum-half'
-p3549
+p3782
 aS'1'
 aS'0'
 aS'1'
@@ -10382,20 +11140,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1991'
-p3550
+p3783
 aVNederland
-p3551
+p3784
 aV1991
-p3552
+p3785
 aVNederland
-p3553
-aa(lp3554
+p3786
+aVNoord-Holland
+p3787
+aa(lp3788
 S'Kaino Thomsen-Fuataaga'
-p3555
+p3789
 aS'2014'
-p3556
+p3790
 aS'Centre'
-p3557
+p3791
 aS'1'
 aS'0'
 aS'1'
@@ -10403,17 +11163,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'date unknown'
-p3558
+p3792
 aS'g'
 aS'n'
 aS'i'
-aa(lp3559
+aS's'
+aa(lp3793
 S'Pele Cowley'
-p3560
+p3794
 aS'2014'
-p3561
+p3795
 aS'Scrum-half'
-p3562
+p3796
 aS'2'
 aS'1'
 aS'1'
@@ -10421,41 +11182,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'1993'
-p3563
+p3797
 aVSvizra
-p3564
+p3798
 aVSvizzera
-p3565
+p3799
 aVSuisse
-p3566
-aa(lp3567
+p3800
+aVSchweiz
+p3801
+aa(lp3802
 S'Mike Stanley'
-p3568
+p3803
 aS'2014'
-p3569
+p3804
 aS'Fullback, Centre'
-p3570
+p3805
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aS'13'
-p3571
+p3806
 aS'Auckland'
-p3572
+p3807
 aVNew Zealand/Aotearoa
-p3573
+p3808
 aVAuckland
-p3574
-ag898
-aa(lp3575
+p3809
+ag903
+ag903
+aa(lp3810
 S'Winston Stanley'
-p3576
+p3811
 aS'2014'
-p3577
+p3812
 aS'Centre'
-p3578
+p3813
 aS'2'
 aS'1'
 aS'1'
@@ -10463,19 +11227,20 @@ aS'0'
 aS'1'
 aS'5'
 aS'QLD'
-p3579
+p3814
 aVAustralia
-p3580
+p3815
 aVQueensland
-p3581
-ag898
-aa(lp3582
+p3816
+ag903
+ag903
+aa(lp3817
 S'Patrick Toetu'
-p3583
+p3818
 aS'2014'
-p3584
+p3819
 aS'Prop'
-p3585
+p3820
 aS'1'
 aS'0'
 aS'1'
@@ -10483,20 +11248,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'1984'
-p3586
+p3821
 aVSverige
-p3587
+p3822
 aVSvealand
-p3588
+p3823
 aVVästmanlands län
-p3589
-aa(lp3590
+p3824
+aVArboga
+p3825
+aa(lp3826
 S'Alofa Alofa'
-p3591
+p3827
 aS'2014'
-p3592
+p3828
 aS'Wing'
-p3593
+p3829
 aS'1'
 aS'1'
 aS'0'
@@ -10504,19 +11271,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p3594
+p3830
 aVNew Zealand/Aotearoa
-p3595
+p3831
 aVAuckland
-p3596
-ag898
-aa(lp3597
+p3832
+ag903
+ag903
+aa(lp3833
 S'TJ Ioane'
-p3598
+p3834
 aS'2014'
-p3599
+p3835
 aS'Back-row'
-p3600
+p3836
 aS'2'
 aS'1'
 aS'1'
@@ -10524,20 +11292,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p3601
+p3837
 aVUnited States of America
-p3602
+p3838
 aV95503
-p3603
+p3839
 aVCalifornia
-p3604
-aa(lp3605
+p3840
+aVHumboldt County
+p3841
+aa(lp3842
 S'Rey Lee-Lo'
-p3606
+p3843
 aS'2014'
-p3607
+p3844
 aS'Centre'
-p3608
+p3845
 aS'2'
 aS'1'
 aS'1'
@@ -10545,20 +11315,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p3609
+p3846
 aVUnited States of America
-p3610
+p3847
 aV95503
-p3611
+p3848
 aVCalifornia
-p3612
-aa(lp3613
+p3849
+aVHumboldt County
+p3850
+aa(lp3851
 S'Ahsee Tuala'
-p3614
+p3852
 aS'2014'
-p3615
+p3853
 aS'Fullback, Wing'
-p3616
+p3854
 aS'1'
 aS'1'
 aS'0'
@@ -10566,11 +11338,13 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p3617
+p3855
 aVUnited States of America
-p3618
+p3856
 aV95503
-p3619
+p3857
 aVCalifornia
-p3620
+p3858
+aVHumboldt County
+p3859
 aa.

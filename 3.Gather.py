@@ -133,6 +133,16 @@ for country in COUNTRY:
 		else:
 			x = "Missing"
 		birth_country2.append(x)
+
+	# Do the same for next comma, because formatting sometimes places UK country here 
+	birth_country3 = []
+	for row in odie:
+		if len(row)>3:
+			x = row[-4]
+			x=x.strip()
+		else:
+			x = "Missing"
+		birth_country3.append(x)
 		
 #-------------------------------------------------------------#
 # 4. Combine data
@@ -141,7 +151,7 @@ for country in COUNTRY:
 # Country Specific
 	BIG_MAT = []
 	for i in range(len(COUNTRY_STRINGS)):
-		y =	[NAMES[i], str(debut_year[i]), str(POSITION[i]), STATS[i].get('Mat'), STATS[i].get('Won'), STATS[i].get('Lost'),STATS[i].get('Draw'), STATS[i].get('Tries'), STATS[i].get('Pts'), Birth_City[i].encode('utf8'), birth_country[i], birth_country1[i], birth_country2[i]]
+		y =	[NAMES[i], str(debut_year[i]), str(POSITION[i]), STATS[i].get('Mat'), STATS[i].get('Won'), STATS[i].get('Lost'),STATS[i].get('Draw'), STATS[i].get('Tries'), STATS[i].get('Pts'), Birth_City[i].encode('utf8'), birth_country[i], birth_country1[i], birth_country2[i], birth_country3[i]]
 		BIG_MAT.append(y)
 
 	HI=[]
@@ -183,7 +193,7 @@ for country in COUNTRY:
 	data = cPickle.load(open(storage + country + "/final.p","r"))
 
 	for row in data:
-		x=row+country
+		x=row+[country]
 		FINAL.append(x)
 
 FINAL_FORMAT=[]

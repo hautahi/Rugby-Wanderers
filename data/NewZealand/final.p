@@ -20,13 +20,15 @@ aVBay of Plenty
 p8
 aVTauranga City
 p9
-aa(lp10
+aVTauranga
+p10
+aa(lp11
 S'Reuben Cooke'
-p11
-aS'1903'
 p12
-aS'Lock'
+aS'1903'
 p13
+aS'Lock'
+p14
 aS'1'
 aS'1'
 aS'0'
@@ -37,13 +39,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp14
+aS's'
+aa(lp15
 S'Jimmy Duncan'
-p15
-aS'1903'
 p16
-aS'Fly-half'
+aS'1903'
 p17
+aS'Fly-half'
+p18
 aS'1'
 aS'1'
 aS'0'
@@ -51,20 +54,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dunedin'
-p18
-aVNew Zealand/Aotearoa
 p19
-aVOtago
+aVNew Zealand/Aotearoa
 p20
-aVDunedin City
+aVOtago
 p21
-aa(lp22
-S'Bernard Fanning'
+aVDunedin City
+p22
+aVDunedin
 p23
-aS'1903'
-p24
-aS'Lock'
+aa(lp24
+S'Bernard Fanning'
 p25
+aS'1903'
+p26
+aS'Lock'
+p27
 aS'2'
 aS'2'
 aS'0'
@@ -72,20 +77,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p26
-aVNew Zealand/Aotearoa
-p27
-aVCanterbury
 p28
-aVChristchurch City
+aVNew Zealand/Aotearoa
 p29
-aa(lp30
-S'David Gallaher'
+aVCanterbury
+p30
+aVChristchurch City
 p31
-aS'1903'
+aVChristchurch
 p32
+aa(lp33
+S'David Gallaher'
+p34
+aS'1903'
+p35
 aS'Wing-forward'
-p33
+p36
 aS'6'
 aS'5'
 aS'1'
@@ -93,20 +100,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ramelton'
-p34
-aVRepublic of Ireland
-p35
-aVCounty Donegal
-p36
-aVRamelton
 p37
-aa(lp38
-S'Mickey Kiernan'
+aVRepublic of Ireland
+p38
+aVCounty Donegal
 p39
-aS'1903'
+aVRamelton
 p40
-aS'Scrum-half'
+aS'Missing'
 p41
+aa(lp42
+S'Mickey Kiernan'
+p43
+aS'1903'
+p44
+aS'Scrum-half'
+p45
 aS'1'
 aS'1'
 aS'0'
@@ -114,20 +123,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wanganui'
-p42
+p46
 aVNew Zealand/Aotearoa
-p43
-aVManawatu-Wanganui
-p44
-aVWanganui District
-p45
-aa(lp46
-S'Paddy Long'
 p47
-aS'1903'
+aVManawatu-Wanganui
 p48
-aS'Lock'
+aVWanganui District
 p49
+aVWhanganui
+p50
+aa(lp51
+S'Paddy Long'
+p52
+aS'1903'
+p53
+aS'Lock'
+p54
 aS'1'
 aS'1'
 aS'0'
@@ -135,42 +146,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p50
-aVNew Zealand/Aotearoa
-p51
-aVAuckland
-p52
-aS'Missing'
-p53
-aa(lp54
-S'Duncan McGregor'
 p55
-aS'1903'
+aVNew Zealand/Aotearoa
 p56
-aS'Wing'
+aVAuckland
 p57
+ag41
+ag41
+aa(lp58
+S'Duncan McGregor'
+p59
+aS'1903'
+p60
+aS'Wing'
+p61
 aS'4'
 aS'3'
 aS'1'
 aS'0'
 aS'6'
 aS'18'
-p58
-aS'Kaiapoi'
-p59
-aVNew Zealand/Aotearoa
-p60
-aVCanterbury
-p61
-aVWaimakariri District
 p62
-aa(lp63
-S'Dick McGregor'
+aS'Kaiapoi'
+p63
+aVNew Zealand/Aotearoa
 p64
-aS'1903'
+aVCanterbury
 p65
-aS'Fullback'
+aVWaimakariri District
 p66
+aVKaiapoi
+p67
+aa(lp68
+S'Dick McGregor'
+p69
+aS'1903'
+p70
+aS'Fullback'
+p71
 aS'2'
 aS'2'
 aS'0'
@@ -178,20 +191,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Thames'
-p67
-aVNew Zealand/Aotearoa
-p68
-aVWaikato
-p69
-aVThames Coromandel District
-p70
-aa(lp71
-S'Archibald McMinn'
 p72
-aS'1903'
+aVNew Zealand/Aotearoa
 p73
-aS'Flanker'
+aVWaikato
 p74
+aVThames Coromandel District
+p75
+aVThames
+p76
+aa(lp77
+S'Archibald McMinn'
+p78
+aS'1903'
+p79
+aS'Flanker'
+p80
 aS'2'
 aS'2'
 aS'0'
@@ -199,20 +214,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Marton'
-p75
-aVUnited Kingdom
-p76
-aVEngland
-p77
-aVNorth West England
-p78
-aa(lp79
-S'George Nicholson'
-p80
-aS'1903'
 p81
-aS'Lock'
+aVUnited Kingdom
 p82
+aVEngland
+p83
+aVNorth West England
+p84
+aVCheshire East
+p85
+aa(lp86
+S'George Nicholson'
+p87
+aS'1903'
+p88
+aS'Lock'
+p89
 aS'4'
 aS'3'
 aS'0'
@@ -220,19 +237,20 @@ aS'1'
 aS'0'
 aS'0'
 aS'Auckland'
-p83
+p90
 aVNew Zealand/Aotearoa
-p84
+p91
 aVAuckland
-p85
-ag53
-aa(lp86
+p92
+ag41
+ag41
+aa(lp93
 S'Bubs Tyler'
-p87
+p94
 aS'1903'
-p88
+p95
 aS'Prop'
-p89
+p96
 aS'7'
 aS'6'
 aS'1'
@@ -240,19 +258,20 @@ aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p90
+p97
 aVNew Zealand/Aotearoa
-p91
+p98
 aVAuckland
-p92
-ag53
-aa(lp93
+p99
+ag41
+ag41
+aa(lp100
 S'Daniel Udy'
-p94
+p101
 aS'1903'
-p95
+p102
 aS'Prop'
-p96
+p103
 aS'1'
 aS'1'
 aS'0'
@@ -260,43 +279,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Greytown'
-p97
-aVNew Zealand/Aotearoa
-p98
-aVWellington
-p99
-aVSouth Wairarapa District
-p100
-aa(lp101
-S'Carbine Wallace'
-p102
-aS'1903'
-p103
-aS'Wing'
 p104
-aS'11'
+aVNew Zealand/Aotearoa
 p105
+aVWellington
+p106
+aVSouth Wairarapa District
+p107
+aVGreytown
+p108
+aa(lp109
+S'Carbine Wallace'
+p110
+aS'1903'
+p111
+aS'Wing'
+p112
+aS'11'
+p113
 aS'8'
 aS'1'
 aS'2'
 aS'5'
 aS'53'
-p106
-aS'Wellington'
-p107
-aVNew Zealand/Aotearoa
-p108
-aVWellington
-p109
-aVWellington City
-p110
-aa(lp111
-S'Maurice Wood'
-p112
-aS'1903'
-p113
-aS'Five-eighth'
 p114
+aS'Wellington'
+p115
+aVNew Zealand/Aotearoa
+p116
+aVWellington
+p117
+aVWellington City
+p118
+aVWellington
+p119
+aa(lp120
+S'Maurice Wood'
+p121
+aS'1903'
+p122
+aS'Five-eighth'
+p123
 aS'2'
 aS'2'
 aS'0'
@@ -304,20 +327,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Waipawa'
-p115
+p124
 aVNew Zealand/Aotearoa
-p116
+p125
 aVWellington
-p117
+p126
 aVSouth Wairarapa District
-p118
-aa(lp119
+p127
+aVWaipawa
+p128
+aa(lp129
 S'Angry Cross'
-p120
+p130
 aS'1904'
-p121
+p131
 aS'Lock'
-p122
+p132
 aS'2'
 aS'2'
 aS'0'
@@ -325,20 +350,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dunedin'
-p123
+p133
 aVNew Zealand/Aotearoa
-p124
+p134
 aVOtago
-p125
+p135
 aVDunedin City
-p126
-aa(lp127
+p136
+aVDunedin
+p137
+aa(lp138
 S'Billy Glenn'
-p128
+p139
 aS'1904'
-p129
+p140
 aS'Flanker'
-p130
+p141
 aS'2'
 aS'2'
 aS'0'
@@ -346,20 +373,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Greymouth'
-p131
+p142
 aVNew Zealand/Aotearoa
-p132
+p143
 aVWest Coast
-p133
+p144
 aVGrey District
-p134
-aa(lp135
+p145
+aVGreymouth
+p146
+aa(lp147
 S'Eric Harper'
-p136
+p148
 aS'1904'
-p137
+p149
 aS'Centre'
-p138
+p150
 aS'2'
 aS'2'
 aS'0'
@@ -367,20 +396,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Christchurch'
-p139
+p151
 aVNew Zealand/Aotearoa
-p140
+p152
 aVCanterbury
-p141
+p153
 aVChristchurch City
-p142
-aa(lp143
+p154
+aVChristchurch
+p155
+aa(lp156
 S'Peter Harvey'
-p144
+p157
 aS'1904'
-p145
+p158
 aS'Scrum-half'
-p146
+p159
 aS'1'
 aS'1'
 aS'0'
@@ -388,20 +419,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'S Rakaia'
-p147
+p160
 aVNew Zealand/Aotearoa
-p148
+p161
 aVCanterbury
-p149
+p162
 aVAshburton District
-p150
-aa(lp151
+p163
+aVRakaia River
+p164
+aa(lp165
 S'Paddy McMinn'
-p152
+p166
 aS'1904'
-p153
+p167
 aS'Prop'
-p154
+p168
 aS'1'
 aS'1'
 aS'0'
@@ -409,86 +442,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Turkina'
-p155
+p169
 aV\u0420\u043e\u0441\u0441\u0438\u044f
-p156
+p170
 aV614056
-p157
+p171
 aV\u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433
-p158
-aa(lp159
+p172
+aV\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439
+p173
+aa(lp174
 S'Bronco Seeling'
-p160
+p175
 aS'1904'
-p161
+p176
 aS'Flanker'
-p162
+p177
 aS'11'
-p163
+p178
 aS'9'
 aS'1'
 aS'1'
 aS'2'
 aS'6'
 aS'Wanganui'
-p164
-aVNew Zealand/Aotearoa
-p165
-aVManawatu-Wanganui
-p166
-aVWanganui District
-p167
-aa(lp168
-S'Billy Stead'
-p169
-aS'1904'
-p170
-aS'Fly-half'
-p171
-aS'7'
-aS'7'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Invercargill'
-p172
-aVNew Zealand/Aotearoa
-p173
-aVSouthland
-p174
-aVInvercargill City
-p175
-aa(lp176
-S'Robert Bennet'
-p177
-aS'1905'
-p178
-aS'Centre'
 p179
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Caversham'
+aVNew Zealand/Aotearoa
 p180
-aVUnited Kingdom
+aVManawatu-Wanganui
 p181
-aVEngland
+aVWanganui District
 p182
-aVSouth East
+aVWhanganui
 p183
 aa(lp184
-S'Jerry Burgess'
+S'Billy Stead'
 p185
-aS'1905'
+aS'1904'
 p186
-aS'Scrum-half'
+aS'Fly-half'
 p187
-aS'1'
-aS'1'
+aS'7'
+aS'7'
 aS'0'
 aS'0'
 aS'0'
@@ -501,13 +496,61 @@ aVSouthland
 p190
 aVInvercargill City
 p191
-aa(lp192
-S'Ernie Dodd'
-p193
-aS'1905'
+aVInvercargill
+p192
+aa(lp193
+S'Robert Bennet'
 p194
-aS'Prop'
+aS'1905'
 p195
+aS'Centre'
+p196
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Caversham'
+p197
+aVUnited Kingdom
+p198
+aVEngland
+p199
+aVSouth East
+p200
+aVReading
+p201
+aa(lp202
+S'Jerry Burgess'
+p203
+aS'1905'
+p204
+aS'Scrum-half'
+p205
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Invercargill'
+p206
+aVNew Zealand/Aotearoa
+p207
+aVSouthland
+p208
+aVInvercargill City
+p209
+aVInvercargill
+p210
+aa(lp211
+S'Ernie Dodd'
+p212
+aS'1905'
+p213
+aS'Prop'
+p214
 aS'1'
 aS'1'
 aS'0'
@@ -515,43 +558,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p196
+p215
 aVNew Zealand/Aotearoa
-p197
+p216
 aVWellington
-p198
+p217
 aVWellington City
-p199
-aa(lp200
+p218
+aVWellington
+p219
+aa(lp220
 S'Bolla Francis'
-p201
+p221
 aS'1905'
-p202
+p222
 aS'Lock'
-p203
+p223
 aS'10'
-p204
+p224
 aS'7'
 aS'1'
 aS'2'
 aS'3'
 aS'16'
-p205
+p225
 aS'Wanganui'
-p206
+p226
 aVNew Zealand/Aotearoa
-p207
+p227
 aVManawatu-Wanganui
-p208
+p228
 aVWanganui District
-p209
-aa(lp210
+p229
+aVWhanganui
+p230
+aa(lp231
 S'Colin Gilray'
-p211
+p232
 aS'1905'
-p212
+p233
 aS'Wing'
-p213
+p234
 aS'5'
 aS'3'
 aS'2'
@@ -559,20 +606,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Broughty Ferry'
-p214
+p235
 aVUnited Kingdom
-p215
+p236
 aVScotland
-p216
+p237
 aVDundee City
-p217
-aa(lp218
+p238
+aVDundee
+p239
+aa(lp240
 S'Donald Macpherson'
-p219
+p241
 aS'1905'
-p220
+p242
 aS'Wing'
-p221
+p243
 aS'3'
 aS'2'
 aS'1'
@@ -580,20 +629,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Waimate'
-p222
+p244
 aVNew Zealand/Aotearoa
-p223
+p245
 aVCanterbury
-p224
+p246
 aVWaimate District
-p225
-aa(lp226
+p247
+aVWaimate
+p248
+aa(lp249
 S'Charles Purdue'
-p227
+p250
 aS'1905'
-p228
+p251
 aS'Flanker'
-p229
+p252
 aS'1'
 aS'1'
 aS'0'
@@ -601,82 +652,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Mataura'
-p230
-aVNew Zealand/Aotearoa
-p231
-aVSouthland
-p232
-aVGore District
-p233
-aa(lp234
-S'Pat Purdue'
-p235
-aS'1905'
-p236
-aS'Lock'
-p237
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Dipton'
-p238
-aVNew Zealand/Aotearoa
-p239
-aVSouthland
-p240
-aVDipton
-p241
-aa(lp242
-S'William Smith'
-p243
-aS'1905'
-p244
-aS'Fly-half'
-p245
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Wellington'
-p246
-aVNew Zealand/Aotearoa
-p247
-aVWellington
-p248
-aVWellington City
-p249
-aa(lp250
-S'John Spencer'
-p251
-aS'1905'
-p252
-aS'Lock'
 p253
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Wellington'
-p254
 aVNew Zealand/Aotearoa
+p254
+aVSouthland
 p255
-aVWellington
+aVGore District
 p256
-aVWellington City
+aVMataura
 p257
 aa(lp258
-S'Hubert Turtill'
+S'Pat Purdue'
 p259
 aS'1905'
 p260
-aS'Fullback'
+aS'Lock'
 p261
 aS'1'
 aS'1'
@@ -684,20 +674,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'0'
-aS'London'
+aS'Dipton'
 p262
-aVUnited Kingdom
+aVNew Zealand/Aotearoa
 p263
-aVEngland
+aVSouthland
 p264
-aVGreater London
+aVDipton
 p265
+ag41
 aa(lp266
-S'Eric Watkins'
+S'William Smith'
 p267
 aS'1905'
 p268
-aS'Prop'
+aS'Fly-half'
 p269
 aS'1'
 aS'1'
@@ -705,21 +696,92 @@ aS'0'
 aS'0'
 aS'0'
 aS'0'
-aS'Akaroa'
+aS'Wellington'
 p270
 aVNew Zealand/Aotearoa
 p271
-aVCanterbury
+aVWellington
 p272
-aVChristchurch City
+aVWellington City
 p273
-aa(lp274
-S'Edgar Wrigley'
-p275
-aS'1905'
+aVWellington
+p274
+aa(lp275
+S'John Spencer'
 p276
-aS'Five-eighth'
+aS'1905'
 p277
+aS'Lock'
+p278
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
+p279
+aVNew Zealand/Aotearoa
+p280
+aVWellington
+p281
+aVWellington City
+p282
+aVWellington
+p283
+aa(lp284
+S'Hubert Turtill'
+p285
+aS'1905'
+p286
+aS'Fullback'
+p287
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'London'
+p288
+aVUnited Kingdom
+p289
+aVEngland
+p290
+aVGreater London
+p291
+aVLondon
+p292
+aa(lp293
+S'Eric Watkins'
+p294
+aS'1905'
+p295
+aS'Prop'
+p296
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Akaroa'
+p297
+aVNew Zealand/Aotearoa
+p298
+aVCanterbury
+p299
+aVChristchurch City
+p300
+aVAkaroa
+p301
+aa(lp302
+S'Edgar Wrigley'
+p303
+aS'1905'
+p304
+aS'Five-eighth'
+p305
 aS'1'
 aS'1'
 aS'0'
@@ -727,20 +789,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Masterton'
-p278
+p306
 aVNew Zealand/Aotearoa
-p279
+p307
 aVWellington
-p280
+p308
 aVMasterton District
-p281
-aa(lp282
+p309
+aVMasterton
+p310
+aa(lp311
 S'Steve Casey'
-p283
+p312
 aS'1905'
-p284
+p313
 aS'Prop'
-p285
+p314
 aS'8'
 aS'6'
 aS'1'
@@ -748,20 +812,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dunedin'
-p286
+p315
 aVNew Zealand/Aotearoa
-p287
+p316
 aVOtago
-p288
+p317
 aVDunedin City
-p289
-aa(lp290
+p318
+aVDunedin
+p319
+aa(lp320
 S'Bill Cunningham'
-p291
+p321
 aS'1905'
-p292
+p322
 aS'Lock'
-p293
+p323
 aS'9'
 aS'7'
 aS'0'
@@ -769,17 +835,18 @@ aS'2'
 aS'1'
 aS'3'
 aS'Rangiaohia'
-p294
+p324
 aS'g'
 aS'n'
 aS'i'
-aa(lp295
+aS's'
+aa(lp325
 S'Bob Deans'
-p296
+p326
 aS'1905'
-p297
+p327
 aS'Centre'
-p298
+p328
 aS'5'
 aS'4'
 aS'1'
@@ -787,20 +854,22 @@ aS'0'
 aS'3'
 aS'9'
 aS'Christchurch'
-p299
+p329
 aVNew Zealand/Aotearoa
-p300
+p330
 aVCanterbury
-p301
+p331
 aVChristchurch City
-p302
-aa(lp303
+p332
+aVChristchurch
+p333
+aa(lp334
 S'George Gillett'
-p304
+p335
 aS'1905'
-p305
+p336
 aS'Wing-forward'
-p306
+p337
 aS'8'
 aS'6'
 aS'1'
@@ -808,20 +877,22 @@ aS'1'
 aS'1'
 aS'7'
 aS'Leeston'
-p307
+p338
 aVNew Zealand/Aotearoa
-p308
+p339
 aVCanterbury
-p309
+p340
 aVSelwyn District
-p310
-aa(lp311
+p341
+aVLeeston
+p342
+aa(lp343
 S'Francis Glasgow'
-p312
+p344
 aS'1905'
-p313
+p345
 aS'Lock'
-p314
+p346
 aS'6'
 aS'5'
 aS'1'
@@ -829,65 +900,71 @@ aS'0'
 aS'3'
 aS'9'
 aS'S Dunedin'
-p315
+p347
 aVNew Zealand/Aotearoa
-p316
+p348
 aV9012
-p317
+p349
 aVOtago
-p318
-aa(lp319
+p350
+aVDunedin City
+p351
+aa(lp352
 S'Jimmy Hunter'
-p320
+p353
 aS'1905'
-p321
+p354
 aS'Five-eighth'
-p322
+p355
 aS'11'
-p323
+p356
 aS'8'
 aS'1'
 aS'2'
 aS'4'
 aS'12'
-p324
+p357
 aS'Hawera'
-p325
+p358
 aVNew Zealand/Aotearoa
-p326
+p359
 aVTaranaki
-p327
+p360
 aVSouth Taranaki District
-p328
-aa(lp329
+p361
+aVHawera
+p362
+aa(lp363
 S'Alexander McDonald'
-p330
+p364
 aS'1905'
-p331
+p365
 aS'Flanker'
-p332
+p366
 aS'8'
 aS'7'
 aS'1'
 aS'0'
 aS'3'
 aS'11'
-p333
+p367
 aS'Dunedin'
-p334
+p368
 aVNew Zealand/Aotearoa
-p335
+p369
 aVOtago
-p336
+p370
 aVDunedin City
-p337
-aa(lp338
+p371
+aVDunedin
+p372
+aa(lp373
 S"James O'Sullivan"
-p339
+p374
 aS'1905'
-p340
+p375
 aS'Lock'
-p341
+p376
 aS'5'
 aS'3'
 aS'1'
@@ -895,43 +972,47 @@ aS'1'
 aS'0'
 aS'0'
 aS'Okaiawa'
-p342
+p377
 aVNew Zealand/Aotearoa
-p343
+p378
 aVTaranaki
-p344
+p379
 aVSouth Taranaki District
-p345
-aa(lp346
+p380
+aVOkaiawa
+p381
+aa(lp382
 S'Frederick Roberts'
-p347
+p383
 aS'1905'
-p348
+p384
 aS'Scrum-half'
-p349
+p385
 aS'12'
-p350
+p386
 aS'9'
 aS'2'
 aS'1'
 aS'2'
 aS'11'
-p351
+p387
 aS'Wellington'
-p352
+p388
 aVNew Zealand/Aotearoa
-p353
+p389
 aVWellington
-p354
+p390
 aVWellington City
-p355
-aa(lp356
+p391
+aVWellington
+p392
+aa(lp393
 S'George Smith'
-p357
+p394
 aS'1905'
-p358
+p395
 aS'Wing'
-p359
+p396
 aS'2'
 aS'2'
 aS'0'
@@ -939,19 +1020,20 @@ aS'0'
 aS'2'
 aS'6'
 aS'Auckland'
-p360
+p397
 aVNew Zealand/Aotearoa
-p361
+p398
 aVAuckland
-p362
-ag53
-aa(lp363
+p399
+ag41
+ag41
+aa(lp400
 S'Simon Mynott'
-p364
+p401
 aS'1905'
-p365
+p402
 aS'Fly-half'
-p366
+p403
 aS'8'
 aS'6'
 aS'1'
@@ -959,19 +1041,20 @@ aS'1'
 aS'0'
 aS'0'
 aS'Auckland'
-p367
+p404
 aVNew Zealand/Aotearoa
-p368
+p405
 aVAuckland
-p369
-ag53
-aa(lp370
+p406
+ag41
+ag41
+aa(lp407
 S'Frederick Newton'
-p371
+p408
 aS'1905'
-p372
+p409
 aS'Lock'
-p373
+p410
 aS'3'
 aS'2'
 aS'1'
@@ -979,20 +1062,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Christchurch'
-p374
+p411
 aVNew Zealand/Aotearoa
-p375
+p412
 aVCanterbury
-p376
+p413
 aVChristchurch City
-p377
-aa(lp378
+p414
+aVChristchurch
+p415
+aa(lp416
 S'Bunny Abbott'
-p379
+p417
 aS'1906'
-p380
+p418
 aS'Wing'
-p381
+p419
 aS'1'
 aS'1'
 aS'0'
@@ -1000,20 +1085,22 @@ aS'0'
 aS'2'
 aS'8'
 aS'Camerontown'
-p382
+p420
 aVUnited States of America
-p383
+p421
 aVSouth Carolina
-p384
+p422
 aVFlorence County
-p385
-aa(lp386
+p423
+aVLee Crossroads
+p424
+aa(lp425
 S'Ernest Booth'
-p387
+p426
 aS'1906'
-p388
+p427
 aS'Fullback'
-p389
+p428
 aS'3'
 aS'2'
 aS'0'
@@ -1021,20 +1108,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Teschemakers'
-p390
+p429
 aVNew Zealand/Aotearoa
-p391
+p430
 aVOtago
-p392
+p431
 aVWaitaki District
-p393
-aa(lp394
+p432
+aVReidston
+p433
+aa(lp434
 S'Bill Mackrell'
-p395
+p435
 aS'1906'
-p396
+p436
 aS'Prop'
-p397
+p437
 aS'1'
 aS'1'
 aS'0'
@@ -1042,20 +1131,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Milton'
-p398
+p438
 aVUnited States of America
-p399
+p439
 aVMassachusetts
-p400
+p440
 aVNorfolk County
-p401
-aa(lp402
+p441
+aVMilton
+p442
+aa(lp443
 S'Ginger Colman'
-p403
+p444
 aS'1907'
-p404
+p445
 aS'Fullback'
-p405
+p446
 aS'4'
 aS'4'
 aS'0'
@@ -1063,20 +1154,22 @@ aS'0'
 aS'0'
 aS'2'
 aS'Hawera'
-p406
+p447
 aVNew Zealand/Aotearoa
-p407
+p448
 aVTaranaki
-p408
+p449
 aVSouth Taranaki District
-p409
-aa(lp410
+p450
+aVHawera
+p451
+aa(lp452
 S'Frank Fryer'
-p411
+p453
 aS'1907'
-p412
+p454
 aS'Wing'
-p413
+p455
 aS'4'
 aS'2'
 aS'0'
@@ -1084,20 +1177,22 @@ aS'2'
 aS'0'
 aS'0'
 aS'Riccarton'
-p414
+p456
 aVNew Zealand/Aotearoa
-p415
+p457
 aVCanterbury
-p416
+p458
 aVChristchurch City
-p417
-aa(lp418
+p459
+aVChristchurch
+p460
+aa(lp461
 S'Ned Hughes'
-p419
+p462
 aS'1907'
-p420
+p463
 aS'Prop'
-p421
+p464
 aS'6'
 aS'4'
 aS'1'
@@ -1105,20 +1200,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Invercargill'
-p422
+p465
 aVNew Zealand/Aotearoa
-p423
+p466
 aVSouthland
-p424
+p467
 aVInvercargill City
-p425
-aa(lp426
+p468
+aVInvercargill
+p469
+aa(lp470
 S'Massa Johnston'
-p427
+p471
 aS'1907'
-p428
+p472
 aS'Lock'
-p429
+p473
 aS'3'
 aS'2'
 aS'0'
@@ -1126,44 +1223,48 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dunedin'
-p430
+p474
 aVNew Zealand/Aotearoa
-p431
+p475
 aVOtago
-p432
+p476
 aVDunedin City
-p433
-aa(lp434
+p477
+aVDunedin
+p478
+aa(lp479
 S'Frank Mitchinson'
-p435
+p480
 aS'1907'
-p436
+p481
 aS'Centre'
-p437
+p482
 aS'11'
-p438
+p483
 aS'8'
 aS'1'
 aS'2'
 aS'10'
-p439
+p484
 aS'32'
-p440
+p485
 aS'Lawrence'
-p441
+p486
 aVUnited States of America
-p442
+p487
 aVKansas
-p443
+p488
 aVDouglas County
-p444
-aa(lp445
+p489
+aVLawrence
+p490
+aa(lp491
 S'Don Cameron'
-p446
+p492
 aS'1908'
-p447
+p493
 aS'Wing'
-p448
+p494
 aS'3'
 aS'2'
 aS'0'
@@ -1171,20 +1272,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Waitara'
-p449
+p495
 aVNew Zealand/Aotearoa
-p450
+p496
 aVTaranaki
-p451
+p497
 aVNew Plymouth District
-p452
-aa(lp453
+p498
+aVWaitara
+p499
+aa(lp500
 S'Mona Thomson'
-p454
+p501
 aS'1908'
-p455
+p502
 aS'Wing'
-p456
+p503
 aS'1'
 aS'1'
 aS'0'
@@ -1192,42 +1295,46 @@ aS'0'
 aS'1'
 aS'3'
 aS'Napier'
-p457
+p504
 aVNew Zealand/Aotearoa
-p458
+p505
 aVHawke's Bay
-p459
+p506
 aVNapier City
-p460
-aa(lp461
+p507
+aVNapier
+p508
+aa(lp509
 S'Ranji Wilson'
-p462
+p510
 aS'1908'
-p463
+p511
 aS'Flanker'
-p464
+p512
 aS'10'
-p465
+p513
 aS'7'
 aS'2'
 aS'1'
 aS'2'
 aS'6'
 aS'Christchurch'
-p466
+p514
 aVNew Zealand/Aotearoa
-p467
+p515
 aVCanterbury
-p468
+p516
 aVChristchurch City
-p469
-aa(lp470
+p517
+aVChristchurch
+p518
+aa(lp519
 S'Paddy Burns'
-p471
+p520
 aS'1908'
-p472
+p521
 aS'Centre'
-p473
+p522
 aS'5'
 aS'2'
 aS'2'
@@ -1235,20 +1342,22 @@ aS'1'
 aS'2'
 aS'6'
 aS'Lyttelton'
-p474
+p523
 aVNew Zealand/Aotearoa
-p475
+p524
 aVCanterbury
-p476
+p525
 aVChristchurch City
-p477
-aa(lp478
+p526
+aVChristchurch
+p527
+aa(lp528
 S'Doddy Gray'
-p479
+p529
 aS'1908'
-p480
+p530
 aS'Fly-half'
-p481
+p531
 aS'3'
 aS'2'
 aS'0'
@@ -1259,13 +1368,14 @@ aS'?'
 aS'g'
 aS'n'
 aS'i'
-aa(lp482
+aS's'
+aa(lp532
 S'Donald Hamilton'
-p483
+p533
 aS'1908'
-p484
+p534
 aS'Wing-forward'
-p485
+p535
 aS'1'
 aS'0'
 aS'0'
@@ -1273,20 +1383,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Invercargill'
-p486
+p536
 aVNew Zealand/Aotearoa
-p487
+p537
 aVSouthland
-p488
+p538
 aVInvercargill City
-p489
-aa(lp490
+p539
+aVInvercargill
+p540
+aa(lp541
 S'Peter Murray'
-p491
+p542
 aS'1908'
-p492
+p543
 aS'Prop'
-p493
+p544
 aS'1'
 aS'0'
 aS'0'
@@ -1294,20 +1406,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Southern Grove'
-p494
+p545
 aVUnited Kingdom
-p495
+p546
 aVE3 4PN
-p496
+p547
 aVEngland
-p497
-aa(lp498
+p548
+aVGreater London
+p549
+aa(lp550
 S'Sandy Paterson'
-p499
+p551
 aS'1908'
-p500
+p552
 aS'Lock'
-p501
+p553
 aS'5'
 aS'3'
 aS'1'
@@ -1315,20 +1429,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Dunedin'
-p502
+p554
 aVNew Zealand/Aotearoa
-p503
+p555
 aVOtago
-p504
+p556
 aVDunedin City
-p505
-aa(lp506
+p557
+aVDunedin
+p558
+aa(lp559
 S'William Reedy'
-p507
+p560
 aS'1908'
-p508
+p561
 aS'Prop'
-p509
+p562
 aS'2'
 aS'1'
 aS'0'
@@ -1336,20 +1452,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Buller'
-p510
+p563
 aVUnited States of America
-p511
+p564
 aVLouisiana
-p512
+p565
 aVJefferson Davis
-p513
-aa(lp514
+p566
+aVBuller
+p567
+aa(lp568
 S'Circus Hayward'
-p515
+p569
 aS'1908'
-p516
+p570
 aS'Flanker'
-p517
+p571
 aS'1'
 aS'1'
 aS'0'
@@ -1357,20 +1475,21 @@ aS'0'
 aS'1'
 aS'3'
 aS'Blenheim'
-p518
+p572
 aVNew Zealand/Aotearoa
-p519
+p573
 aVMarlborough
-p520
+p574
 aVBlenheim
-p521
-aa(lp522
+p575
+ag41
+aa(lp576
 S'Henry Avery'
-p523
+p577
 aS'1910'
-p524
+p578
 aS'Wing-forward'
-p525
+p579
 aS'3'
 aS'2'
 aS'1'
@@ -1378,20 +1497,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p526
+p580
 aVNew Zealand/Aotearoa
-p527
+p581
 aVWellington
-p528
+p582
 aVWellington City
-p529
-aa(lp530
+p583
+aVWellington
+p584
+aa(lp585
 S'William Fuller'
-p531
+p586
 aS'1910'
-p532
+p587
 aS'Five-eighth'
-p533
+p588
 aS'2'
 aS'1'
 aS'1'
@@ -1399,20 +1520,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Christchurch'
-p534
+p589
 aVNew Zealand/Aotearoa
-p535
+p590
 aVCanterbury
-p536
+p591
 aVChristchurch City
-p537
-aa(lp538
+p592
+aVChristchurch
+p593
+aa(lp594
 S'Gerald McKellar'
-p539
+p595
 aS'1910'
-p540
+p596
 aS'Flanker'
-p541
+p597
 aS'3'
 aS'2'
 aS'1'
@@ -1420,20 +1543,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cromwell'
-p542
+p598
 aVUnited States of America
-p543
+p599
 aV89109
-p544
+p600
 aVNevada
-p545
-aa(lp546
+p601
+aVClark County
+p602
+aa(lp603
 S'James Maguire'
-p547
+p604
 aS'1910'
-p548
+p605
 aS'Prop'
-p549
+p606
 aS'3'
 aS'2'
 aS'1'
@@ -1441,41 +1566,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p550
+p607
 aVNew Zealand/Aotearoa
-p551
+p608
 aVAuckland
-p552
-ag53
-aa(lp553
+p609
+ag41
+ag41
+aa(lp610
 S"Joe O'Leary"
-p554
+p611
 aS'1910'
-p555
+p612
 aS'Fullback'
-p556
+p613
 aS'4'
 aS'3'
 aS'1'
 aS'0'
 aS'0'
 aS'16'
-p557
+p614
 aS'Masterton'
-p558
+p615
 aVNew Zealand/Aotearoa
-p559
+p616
 aVWellington
-p560
+p617
 aVMasterton District
-p561
-aa(lp562
+p618
+aVMasterton
+p619
+aa(lp620
 S'Henry Paton'
-p563
+p621
 aS'1910'
-p564
+p622
 aS'Lock'
-p565
+p623
 aS'2'
 aS'2'
 aS'0'
@@ -1483,20 +1611,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dunedin'
-p566
+p624
 aVNew Zealand/Aotearoa
-p567
+p625
 aVOtago
-p568
+p626
 aVDunedin City
-p569
-aa(lp570
+p627
+aVDunedin
+p628
+aa(lp629
 S'Alexander Ridland'
-p571
+p630
 aS'1910'
-p572
+p631
 aS'Prop'
-p573
+p632
 aS'3'
 aS'2'
 aS'1'
@@ -1504,20 +1634,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Invercargill'
-p574
+p633
 aVNew Zealand/Aotearoa
-p575
+p634
 aVSouthland
-p576
+p635
 aVInvercargill City
-p577
-aa(lp578
+p636
+aVInvercargill
+p637
+aa(lp638
 S'Jack Stohr'
-p579
+p639
 aS'1910'
-p580
+p640
 aS'Wing'
-p581
+p641
 aS'3'
 aS'2'
 aS'1'
@@ -1525,20 +1657,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'New Plymouth'
-p582
+p642
 aVNew Zealand/Aotearoa
-p583
+p643
 aVTaranaki
-p584
+p644
 aVNew Plymouth District
-p585
-aa(lp586
+p645
+aVNew Plymouth
+p646
+aa(lp647
 S'Dave Evans'
-p587
+p648
 aS'1910'
-p588
+p649
 aS'Lock'
-p589
+p650
 aS'1'
 aS'0'
 aS'1'
@@ -1546,20 +1680,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Napier'
-p590
+p651
 aVNew Zealand/Aotearoa
-p591
+p652
 aVHawke's Bay
-p592
+p653
 aVNapier City
-p593
-aa(lp594
+p654
+aVNapier
+p655
+aa(lp656
 S'Billy Mitchell'
-p595
+p657
 aS'1910'
-p596
+p658
 aS'Wing'
-p597
+p659
 aS'2'
 aS'1'
 aS'1'
@@ -1567,19 +1703,20 @@ aS'0'
 aS'1'
 aS'3'
 aS'VIC'
-p598
+p660
 aVAustralia
-p599
+p661
 aVVictoria
-p600
-ag53
-aa(lp601
+p662
+ag41
+ag41
+aa(lp663
 S'James Ryan'
-p602
+p664
 aS'1910'
-p603
+p665
 aS'Five-eighth'
-p604
+p666
 aS'4'
 aS'3'
 aS'1'
@@ -1587,20 +1724,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Masterton'
-p605
+p667
 aVNew Zealand/Aotearoa
-p606
+p668
 aVWellington
-p607
+p669
 aVMasterton District
-p608
-aa(lp609
+p670
+aVMasterton
+p671
+aa(lp672
 S'Harry Atkinson'
-p610
+p673
 aS'1913'
-p611
+p674
 aS'Lock'
-p612
+p675
 aS'1'
 aS'1'
 aS'0'
@@ -1608,187 +1747,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dunedin'
-p613
-aVNew Zealand/Aotearoa
-p614
-aVOtago
-p615
-aVDunedin City
-p616
-aa(lp617
-S'Jock Cuthill'
-p618
-aS'1913'
-p619
-aS'Fullback'
-p620
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Inverleithen'
-p621
-aS'g'
-aS'n'
-aS'i'
-aa(lp622
-S'Norkey Dewar'
-p623
-aS'1913'
-p624
-aS'Flanker'
-p625
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Wellington'
-p626
-aVNew Zealand/Aotearoa
-p627
-aVWellington
-p628
-aVWellington City
-p629
-aa(lp630
-S'Doolan Downing'
-p631
-aS'1913'
-p632
-aS'Lock'
-p633
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Napier'
-p634
-aVNew Zealand/Aotearoa
-p635
-aVHawke's Bay
-p636
-aVNapier City
-p637
-aa(lp638
-S'Tiger Lynch'
-p639
-aS'1913'
-p640
-aS'Wing'
-p641
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'4'
-aS'12'
-p642
-aS'Milton'
-p643
-aVUnited States of America
-p644
-aVMassachusetts
-p645
-aVNorfolk County
-p646
-aa(lp647
-S'Dougie McGregor'
-p648
-aS'1913'
-p649
-aS'Wing'
-p650
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'1'
-aS'3'
-aS'Thames'
-p651
-aVNew Zealand/Aotearoa
-p652
-aVWaikato
-p653
-aVThames Coromandel District
-p654
-aa(lp655
-S'Jock McKenzie'
-p656
-aS'1913'
-p657
-aS'Five-eighth'
-p658
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'5'
-aS'15'
-p659
-aS'Lyttelton'
-p660
-aVNew Zealand/Aotearoa
-p661
-aVCanterbury
-p662
-aVChristchurch City
-p663
-aa(lp664
-S'Toby Murray'
-p665
-aS'1913'
-p666
-aS'Wing-forward'
-p667
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'3'
-aS'9'
-aS'Christchurch'
-p668
-aVNew Zealand/Aotearoa
-p669
-aVCanterbury
-p670
-aVChristchurch City
-p671
-aa(lp672
-S'Dick Roberts'
-p673
-aS'1913'
-p674
-aS'Centre'
-p675
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'7'
-aS'29'
 p676
-aS'Manaia'
-p677
 aVNew Zealand/Aotearoa
+p677
+aVOtago
 p678
-aVTaranaki
+aVDunedin City
 p679
-aVSouth Taranaki District
+aVDunedin
 p680
 aa(lp681
-S'George Sellars'
+S'Jock Cuthill'
 p682
 aS'1913'
 p683
-aS'Prop'
+aS'Fullback'
 p684
 aS'2'
 aS'2'
@@ -1796,190 +1769,185 @@ aS'0'
 aS'0'
 aS'0'
 aS'0'
-aS'Auckland'
+aS'Inverleithen'
 p685
-aVNew Zealand/Aotearoa
-p686
-aVAuckland
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp686
+S'Norkey Dewar'
 p687
-ag53
-aa(lp688
-S'Harry Taylor'
-p689
 aS'1913'
+p688
+aS'Flanker'
+p689
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
 p690
-aS'Wing'
+aVNew Zealand/Aotearoa
 p691
+aVWellington
+p692
+aVWellington City
+p693
+aVWellington
+p694
+aa(lp695
+S'Doolan Downing'
+p696
+aS'1913'
+p697
+aS'Lock'
+p698
 aS'5'
 aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Napier'
+p699
+aVNew Zealand/Aotearoa
+p700
+aVHawke's Bay
+p701
+aVNapier City
+p702
+aVNapier
+p703
+aa(lp704
+S'Tiger Lynch'
+p705
+aS'1913'
+p706
+aS'Wing'
+p707
+aS'4'
+aS'4'
 aS'0'
 aS'0'
 aS'4'
 aS'12'
-p692
-aS'Christchurch'
-p693
-aVNew Zealand/Aotearoa
-p694
-aVCanterbury
-p695
-aVChristchurch City
-p696
-aa(lp697
-S'Peter Williams'
-p698
-aS'1913'
-p699
-aS'Prop'
-p700
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Dunedin'
-p701
-aVNew Zealand/Aotearoa
-p702
-aVOtago
-p703
-aVDunedin City
-p704
-aa(lp705
-S'Jim Wylie'
-p706
-aS'1913'
-p707
-aS'Lock'
 p708
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'1'
-aS'3'
-aS'Galatea'
+aS'Milton'
 p709
 aVUnited States of America
 p710
-aVOhio
+aVMassachusetts
 p711
-aVWood County
+aVNorfolk County
 p712
-aa(lp713
-S'James Baird'
-p714
-aS'1913'
+aVMilton
+p713
+aa(lp714
+S'Dougie McGregor'
 p715
-aS'Centre'
+aS'1913'
 p716
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Dunedin'
+aS'Wing'
 p717
-aVNew Zealand/Aotearoa
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Thames'
 p718
-aVOtago
+aVNew Zealand/Aotearoa
 p719
-aVDunedin City
+aVWaikato
 p720
-aa(lp721
-S'Buster Barrett'
+aVThames Coromandel District
+p721
+aVThames
 p722
-aS'1913'
-p723
-aS'Flanker'
+aa(lp723
+S'Jock McKenzie'
 p724
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
+aS'1913'
 p725
-aVNew Zealand/Aotearoa
+aS'Five-eighth'
 p726
-aVAuckland
-p727
-ag53
-aa(lp728
-S'Charles Brown'
-p729
-aS'1913'
-p730
-aS'Scrum-half'
-p731
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'New Plymouth'
-p732
-aVNew Zealand/Aotearoa
-p733
-aVTaranaki
-p734
-aVNew Plymouth District
-p735
-aa(lp736
-S'William Cummings'
-p737
-aS'1913'
-p738
-aS'Lock'
-p739
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'Timaru'
-p740
-aVNew Zealand/Aotearoa
-p741
-aVCanterbury
-p742
-aVTimaru District
-p743
-aa(lp744
-S'William Francis'
-p745
-aS'1913'
-p746
-aS'Prop'
-p747
-aS'5'
 aS'4'
-aS'1'
+aS'4'
 aS'0'
-aS'2'
-aS'6'
-aS'New Plymouth'
-p748
+aS'0'
+aS'5'
+aS'15'
+p727
+aS'Lyttelton'
+p728
 aVNew Zealand/Aotearoa
-p749
+p729
+aVCanterbury
+p730
+aVChristchurch City
+p731
+aVChristchurch
+p732
+aa(lp733
+S'Toby Murray'
+p734
+aS'1913'
+p735
+aS'Wing-forward'
+p736
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'3'
+aS'9'
+aS'Christchurch'
+p737
+aVNew Zealand/Aotearoa
+p738
+aVCanterbury
+p739
+aVChristchurch City
+p740
+aVChristchurch
+p741
+aa(lp742
+S'Dick Roberts'
+p743
+aS'1913'
+p744
+aS'Centre'
+p745
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'7'
+aS'29'
+p746
+aS'Manaia'
+p747
+aVNew Zealand/Aotearoa
+p748
 aVTaranaki
+p749
+aVSouth Taranaki District
 p750
-aVNew Plymouth District
+aVManaia
 p751
 aa(lp752
-S'William Geddes'
+S'George Sellars'
 p753
 aS'1913'
 p754
-aS'Fly-half'
+aS'Prop'
 p755
-aS'1'
-aS'1'
+aS'2'
+aS'2'
 aS'0'
 aS'0'
 aS'0'
@@ -1990,56 +1958,198 @@ aVNew Zealand/Aotearoa
 p757
 aVAuckland
 p758
-ag53
+ag41
+ag41
 aa(lp759
-S'Charles Gillespie'
+S'Harry Taylor'
 p760
 aS'1913'
 p761
-aS'Lock'
+aS'Wing'
 p762
-aS'1'
-aS'1'
+aS'5'
+aS'5'
 aS'0'
 aS'0'
-aS'0'
-aS'0'
-aS'Masterton'
+aS'4'
+aS'12'
 p763
-aVNew Zealand/Aotearoa
+aS'Christchurch'
 p764
-aVWellington
+aVNew Zealand/Aotearoa
 p765
-aVMasterton District
+aVCanterbury
 p766
-aa(lp767
-S'Edward Hasell'
+aVChristchurch City
+p767
+aVChristchurch
 p768
-aS'1913'
-p769
-aS'Prop'
+aa(lp769
+S'Peter Williams'
 p770
+aS'1913'
+p771
+aS'Prop'
+p772
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Dunedin'
+p773
+aVNew Zealand/Aotearoa
+p774
+aVOtago
+p775
+aVDunedin City
+p776
+aVDunedin
+p777
+aa(lp778
+S'Jim Wylie'
+p779
+aS'1913'
+p780
+aS'Lock'
+p781
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Galatea'
+p782
+aVUnited States of America
+p783
+aVOhio
+p784
+aVWood County
+p785
+aVGalatea
+p786
+aa(lp787
+S'James Baird'
+p788
+aS'1913'
+p789
+aS'Centre'
+p790
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Dunedin'
+p791
+aVNew Zealand/Aotearoa
+p792
+aVOtago
+p793
+aVDunedin City
+p794
+aVDunedin
+p795
+aa(lp796
+S'Buster Barrett'
+p797
+aS'1913'
+p798
+aS'Flanker'
+p799
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p800
+aVNew Zealand/Aotearoa
+p801
+aVAuckland
+p802
+ag41
+ag41
+aa(lp803
+S'Charles Brown'
+p804
+aS'1913'
+p805
+aS'Scrum-half'
+p806
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'1'
 aS'3'
-aS'Christchurch'
-p771
+aS'New Plymouth'
+p807
 aVNew Zealand/Aotearoa
-p772
-aVCanterbury
-p773
-aVChristchurch City
-p774
-aa(lp775
-S'John Macky'
-p776
+p808
+aVTaranaki
+p809
+aVNew Plymouth District
+p810
+aVNew Plymouth
+p811
+aa(lp812
+S'William Cummings'
+p813
 aS'1913'
-p777
-aS'Wing'
-p778
+p814
+aS'Lock'
+p815
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Timaru'
+p816
+aVNew Zealand/Aotearoa
+p817
+aVCanterbury
+p818
+aVTimaru District
+p819
+aVTimaru
+p820
+aa(lp821
+S'William Francis'
+p822
+aS'1913'
+p823
+aS'Prop'
+p824
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'New Plymouth'
+p825
+aVNew Zealand/Aotearoa
+p826
+aVTaranaki
+p827
+aVNew Plymouth District
+p828
+aVNew Plymouth
+p829
+aa(lp830
+S'William Geddes'
+p831
+aS'1913'
+p832
+aS'Fly-half'
+p833
 aS'1'
 aS'1'
 aS'0'
@@ -2047,19 +2157,87 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p779
+p834
 aVNew Zealand/Aotearoa
-p780
+p835
 aVAuckland
-p781
-ag53
-aa(lp782
-S'James McNeece'
-p783
+p836
+ag41
+ag41
+aa(lp837
+S'Charles Gillespie'
+p838
 aS'1913'
-p784
+p839
 aS'Lock'
-p785
+p840
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Masterton'
+p841
+aVNew Zealand/Aotearoa
+p842
+aVWellington
+p843
+aVMasterton District
+p844
+aVMasterton
+p845
+aa(lp846
+S'Edward Hasell'
+p847
+aS'1913'
+p848
+aS'Prop'
+p849
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Christchurch'
+p850
+aVNew Zealand/Aotearoa
+p851
+aVCanterbury
+p852
+aVChristchurch City
+p853
+aVChristchurch
+p854
+aa(lp855
+S'John Macky'
+p856
+aS'1913'
+p857
+aS'Wing'
+p858
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p859
+aVNew Zealand/Aotearoa
+p860
+aVAuckland
+p861
+ag41
+ag41
+aa(lp862
+S'James McNeece'
+p863
+aS'1913'
+p864
+aS'Lock'
+p865
 aS'5'
 aS'4'
 aS'1'
@@ -2067,20 +2245,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Invercargill'
-p786
+p866
 aVNew Zealand/Aotearoa
-p787
+p867
 aVSouthland
-p788
+p868
 aVInvercargill City
-p789
-aa(lp790
+p869
+aVInvercargill
+p870
+aa(lp871
 S'Augustine Spillane'
-p791
+p872
 aS'1913'
-p792
+p873
 aS'Five-eighth'
-p793
+p874
 aS'2'
 aS'1'
 aS'1'
@@ -2088,20 +2268,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Geraldine'
-p794
+p875
 aVNew Zealand/Aotearoa
-p795
+p876
 aVCanterbury
-p796
+p877
 aVTimaru District
-p797
-aa(lp798
+p878
+aVGeraldine
+p879
+aa(lp880
 S'James Stewart'
-p799
+p881
 aS'1913'
-p800
+p882
 aS'Wing'
-p801
+p883
 aS'2'
 aS'1'
 aS'1'
@@ -2109,20 +2291,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kaiapoi'
-p802
+p884
 aVNew Zealand/Aotearoa
-p803
+p885
 aVCanterbury
-p804
+p886
 aVWaimakariri District
-p805
-aa(lp806
+p887
+aVKaiapoi
+p888
+aa(lp889
 S'Reginald Taylor'
-p807
+p890
 aS'1913'
-p808
+p891
 aS'Wing-forward'
-p809
+p892
 aS'2'
 aS'1'
 aS'1'
@@ -2130,17 +2314,18 @@ aS'0'
 aS'1'
 aS'3'
 aS'Taranak'
-p810
+p893
 aS'g'
 aS'n'
 aS'i'
-aa(lp811
+aS's'
+aa(lp894
 S'Eric Cockroft'
-p812
+p895
 aS'1913'
-p813
+p896
 aS'Fullback'
-p814
+p897
 aS'3'
 aS'2'
 aS'1'
@@ -2148,20 +2333,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Clinton'
-p815
+p898
 aVUnited States of America
-p816
+p899
 aVIllinois
-p817
+p900
 aVClinton County
-p818
-aa(lp819
+p901
+ag41
+aa(lp902
 S'Alfred Fanning'
-p820
+p903
 aS'1913'
-p821
+p904
 aS'Lock'
-p822
+p905
 aS'1'
 aS'0'
 aS'1'
@@ -2169,20 +2355,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Linwood'
-p823
+p906
 aVUnited States of America
-p824
+p907
 aVpenna
-p825
+p908
 aVDelaware County
-p826
-aa(lp827
+p909
+aVLinwood
+p910
+aa(lp911
 S'James Tilyard'
-p828
+p912
 aS'1913'
-p829
+p913
 aS'Fly-half'
-p830
+p914
 aS'1'
 aS'0'
 aS'1'
@@ -2190,20 +2378,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Waratah'
-p831
+p915
 aVAustralia
-p832
+p916
 aVTasmania
-p833
+p917
 aVWaratah
-p834
-aa(lp835
+p918
+ag41
+aa(lp919
 S'Michael Cain'
-p836
+p920
 aS'1913'
-p837
+p921
 aS'Prop'
-p838
+p922
 aS'4'
 aS'4'
 aS'0'
@@ -2211,42 +2400,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Waitara'
-p839
+p923
 aVNew Zealand/Aotearoa
-p840
+p924
 aVTaranaki
-p841
+p925
 aVNew Plymouth District
-p842
-aa(lp843
+p926
+aVWaitara
+p927
+aa(lp928
 S'James Graham'
-p844
+p929
 aS'1913'
-p845
+p930
 aS'Lock'
-p846
+p931
 aS'3'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
 aS'10'
-p847
+p932
 aS'Dunedin'
-p848
+p933
 aVNew Zealand/Aotearoa
-p849
+p934
 aVOtago
-p850
+p935
 aVDunedin City
-p851
-aa(lp852
+p936
+aVDunedin
+p937
+aa(lp938
 S'Robert Black'
-p853
+p939
 aS'1914'
-p854
+p940
 aS'Fly-half'
-p855
+p941
 aS'1'
 aS'1'
 aS'0'
@@ -2254,20 +2447,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Arrowtown'
-p856
+p942
 aVNew Zealand/Aotearoa
-p857
+p943
 aVOtago
-p858
+p944
 aVQueenstown-Lakes District
-p859
-aa(lp860
+p945
+aVArrowtown
+p946
+aa(lp947
 S'John Bruce'
-p861
+p948
 aS'1914'
-p862
+p949
 aS'Flanker'
-p863
+p950
 aS'2'
 aS'2'
 aS'0'
@@ -2275,20 +2470,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p864
+p951
 aVNew Zealand/Aotearoa
-p865
+p952
 aVWellington
-p866
+p953
 aVWellington City
-p867
-aa(lp868
+p954
+aVWellington
+p955
+aa(lp956
 S'Sal Irvine'
-p869
+p957
 aS'1914'
-p870
+p958
 aS'Lock'
-p871
+p959
 aS'3'
 aS'3'
 aS'0'
@@ -2296,20 +2493,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dunedin'
-p872
+p960
 aVNew Zealand/Aotearoa
-p873
+p961
 aVOtago
-p874
+p962
 aVDunedin City
-p875
-aa(lp876
+p963
+aVDunedin
+p964
+aa(lp965
 S"John O'Brien"
-p877
+p966
 aS'1914'
-p878
+p967
 aS'Fullback'
-p879
+p968
 aS'1'
 aS'1'
 aS'0'
@@ -2317,20 +2516,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p880
+p969
 aVNew Zealand/Aotearoa
-p881
+p970
 aVWellington
-p882
+p971
 aVWellington City
-p883
-aa(lp884
+p972
+aVWellington
+p973
+aa(lp974
 S'Teddy Roberts'
-p885
+p975
 aS'1914'
-p886
+p976
 aS'Scrum-half'
-p887
+p977
 aS'5'
 aS'3'
 aS'1'
@@ -2338,42 +2539,46 @@ aS'1'
 aS'0'
 aS'4'
 aS'Wellington'
-p888
+p978
 aVNew Zealand/Aotearoa
-p889
+p979
 aVWellington
-p890
+p980
 aVWellington City
-p891
-aa(lp892
+p981
+aVWellington
+p982
+aa(lp983
 S'George Aitken'
-p893
+p984
 aS'1921'
-p894
+p985
 aS'Centre'
-p895
+p986
 aS'10'
-p896
+p987
 aS'8'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
 aS'Westport'
-p897
+p988
 aVUnited States of America
-p898
+p989
 aVConnecticut
-p899
+p990
 aVFairfield County
-p900
-aa(lp901
+p991
+aVWestport
+p992
+aa(lp993
 S'Cecil Badeley'
-p902
+p994
 aS'1921'
-p903
+p995
 aS'Fly-half'
-p904
+p996
 aS'2'
 aS'1'
 aS'1'
@@ -2381,19 +2586,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p905
+p997
 aVNew Zealand/Aotearoa
-p906
+p998
 aVAuckland
-p907
-ag53
-aa(lp908
+p999
+ag41
+ag41
+aa(lp1000
 S'Moke Belliss'
-p909
+p1001
 aS'1921'
-p910
+p1002
 aS'Flanker'
-p911
+p1003
 aS'3'
 aS'1'
 aS'1'
@@ -2401,20 +2607,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Palmerston North'
-p912
+p1004
 aVNew Zealand/Aotearoa
-p913
+p1005
 aVManawatu-Wanganui
-p914
+p1006
 aVPalmerston North City
-p915
-aa(lp916
+p1007
+aVPalmerston North
+p1008
+aa(lp1009
 S'Jim Donald'
-p917
+p1010
 aS'1921'
-p918
+p1011
 aS'Wing-forward'
-p919
+p1012
 aS'2'
 aS'1'
 aS'1'
@@ -2422,20 +2630,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Featherston'
-p920
+p1013
 aVNew Zealand/Aotearoa
-p921
+p1014
 aVWellington
-p922
+p1015
 aVSouth Wairarapa District
-p923
-aa(lp924
+p1016
+aVFeatherston
+p1017
+aa(lp1018
 S'Bill Duncan'
-p925
+p1019
 aS'1921'
-p926
+p1020
 aS'Prop'
-p927
+p1021
 aS'3'
 aS'1'
 aS'1'
@@ -2443,20 +2653,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Port Chalmers'
-p928
+p1022
 aVNew Zealand/Aotearoa
-p929
+p1023
 aVOtago
-p930
+p1024
 aVDunedin City
-p931
-aa(lp932
+p1025
+aVPort Chalmers
+p1026
+aa(lp1027
 S'Richard Fogarty'
-p933
+p1028
 aS'1921'
-p934
+p1029
 aS'Prop'
-p935
+p1030
 aS'2'
 aS'1'
 aS'0'
@@ -2464,17 +2676,18 @@ aS'1'
 aS'0'
 aS'0'
 aS'Matakanui'
-p936
+p1031
 aS'g'
 aS'n'
 aS'i'
-aa(lp937
+aS's'
+aa(lp1032
 S'Nipper Kingstone'
-p938
+p1033
 aS'1921'
-p939
+p1034
 aS'Fullback'
-p940
+p1035
 aS'3'
 aS'1'
 aS'1'
@@ -2482,19 +2695,20 @@ aS'1'
 aS'0'
 aS'0'
 aS'Auckland'
-p941
+p1036
 aVNew Zealand/Aotearoa
-p942
+p1037
 aVAuckland
-p943
-ag53
-aa(lp944
+p1038
+ag41
+ag41
+aa(lp1039
 S'Jim Moffitt'
-p945
+p1040
 aS'1921'
-p946
+p1041
 aS'Lock'
-p947
+p1042
 aS'3'
 aS'1'
 aS'1'
@@ -2502,20 +2716,21 @@ aS'1'
 aS'0'
 aS'0'
 aS'Waikaia'
-p948
+p1043
 aVNew Zealand/Aotearoa
-p949
+p1044
 aVSouthland
-p950
+p1045
 aVWaikaia
-p951
-aa(lp952
+p1046
+ag41
+aa(lp1047
 S'Ginger Nicholls'
-p953
+p1048
 aS'1921'
-p954
+p1049
 aS'Scrum-half'
-p955
+p1050
 aS'1'
 aS'1'
 aS'0'
@@ -2523,43 +2738,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p956
+p1051
 aVNew Zealand/Aotearoa
-p957
+p1052
 aVWellington
-p958
+p1053
 aVWellington City
-p959
-aa(lp960
+p1054
+aVWellington
+p1055
+aa(lp1056
 S'Mark Nicholls'
-p961
+p1057
 aS'1921'
-p962
+p1058
 aS'Five-eighth'
-p963
+p1059
 aS'10'
-p964
+p1060
 aS'8'
 aS'1'
 aS'1'
 aS'0'
 aS'48'
-p965
+p1061
 aS'Greytown'
-p966
+p1062
 aVNew Zealand/Aotearoa
-p967
+p1063
 aVWellington
-p968
+p1064
 aVSouth Wairarapa District
-p969
-aa(lp970
+p1065
+aVGreytown
+p1066
+aa(lp1067
 S'Jock Richardson'
-p971
+p1068
 aS'1921'
-p972
+p1069
 aS'Lock'
-p973
+p1070
 aS'7'
 aS'5'
 aS'1'
@@ -2567,20 +2786,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Dunedin'
-p974
+p1071
 aVNew Zealand/Aotearoa
-p975
+p1072
 aVOtago
-p976
+p1073
 aVDunedin City
-p977
-aa(lp978
+p1074
+aVDunedin
+p1075
+aa(lp1076
 S'John Steel'
-p979
+p1077
 aS'1921'
-p980
+p1078
 aS'Wing'
-p981
+p1079
 aS'6'
 aS'4'
 aS'1'
@@ -2588,17 +2809,18 @@ aS'1'
 aS'3'
 aS'9'
 aS'Dillmanstown'
-p982
+p1080
 aS'g'
 aS'n'
 aS'i'
-aa(lp983
+aS's'
+aa(lp1081
 S'Percival Storey'
-p984
+p1082
 aS'1921'
-p985
+p1083
 aS'Wing'
-p986
+p1084
 aS'2'
 aS'1'
 aS'1'
@@ -2606,20 +2828,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Temuka'
-p987
+p1085
 aVNew Zealand/Aotearoa
-p988
+p1086
 aVCanterbury
-p989
+p1087
 aVTimaru District
-p990
-aa(lp991
+p1088
+aVTemuka
+p1089
+aa(lp1090
 S'Son White'
-p992
+p1091
 aS'1921'
-p993
+p1092
 aS'Flanker'
-p994
+p1093
 aS'4'
 aS'4'
 aS'0'
@@ -2627,20 +2851,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Invercargill'
-p995
+p1094
 aVNew Zealand/Aotearoa
-p996
+p1095
 aVSouthland
-p997
+p1096
 aVInvercargill City
-p998
-aa(lp999
+p1097
+aVInvercargill
+p1098
+aa(lp1099
 S'Andrew McLean'
-p1000
+p1100
 aS'1921'
-p1001
+p1101
 aS'Lock'
-p1002
+p1102
 aS'2'
 aS'0'
 aS'1'
@@ -2648,19 +2874,20 @@ aS'1'
 aS'1'
 aS'3'
 aS'Auckland'
-p1003
+p1103
 aVNew Zealand/Aotearoa
-p1004
+p1104
 aVAuckland
-p1005
-ag53
-aa(lp1006
+p1105
+ag41
+ag41
+aa(lp1106
 S'Alfred West'
-p1007
+p1107
 aS'1921'
-p1008
+p1108
 aS'Flanker'
-p1009
+p1109
 aS'2'
 aS'0'
 aS'1'
@@ -2668,20 +2895,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Inglewood'
-p1010
+p1110
 aVUnited States of America
-p1011
+p1111
 aVCalifornia
-p1012
+p1112
 aVLos Angeles County
-p1013
-aa(lp1014
+p1113
+aVInglewood
+p1114
+aa(lp1115
 S'Billy Fea'
-p1015
+p1116
 aS'1921'
-p1016
+p1117
 aS'Fly-half'
-p1017
+p1118
 aS'1'
 aS'0'
 aS'0'
@@ -2689,20 +2918,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dunedin'
-p1018
+p1119
 aVNew Zealand/Aotearoa
-p1019
+p1120
 aVOtago
-p1020
+p1121
 aVDunedin City
-p1021
-aa(lp1022
+p1122
+aVDunedin
+p1123
+aa(lp1124
 S'Charles Fletcher'
-p1023
+p1125
 aS'1921'
-p1024
+p1126
 aS'Flanker'
-p1025
+p1127
 aS'1'
 aS'0'
 aS'0'
@@ -2710,20 +2941,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Rewiti'
-p1026
+p1128
 aVNew Zealand/Aotearoa
-p1027
+p1129
 aV1050
-p1028
+p1130
 aVAuckland
-p1029
-aa(lp1030
+p1131
+aVOrakei
+p1132
+aa(lp1133
 S'Karl Ifwersen'
-p1031
+p1134
 aS'1921'
-p1032
+p1135
 aS'Five-eighth'
-p1033
+p1136
 aS'1'
 aS'0'
 aS'0'
@@ -2731,19 +2964,20 @@ aS'1'
 aS'0'
 aS'0'
 aS'Auckland'
-p1034
+p1137
 aVNew Zealand/Aotearoa
-p1035
+p1138
 aVAuckland
-p1036
-ag53
-aa(lp1037
+p1139
+ag41
+ag41
+aa(lp1140
 S'Stanley Siddells'
-p1038
+p1141
 aS'1921'
-p1039
+p1142
 aS'Wing'
-p1040
+p1143
 aS'1'
 aS'0'
 aS'0'
@@ -2751,20 +2985,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Wellington'
-p1041
+p1144
 aVNew Zealand/Aotearoa
-p1042
+p1145
 aVWellington
-p1043
+p1146
 aVWellington City
-p1044
-aa(lp1045
+p1147
+aVWellington
+p1148
+aa(lp1149
 S'Maurice Brownlie'
-p1046
+p1150
 aS'1924'
-p1047
+p1151
 aS'Lock'
-p1048
+p1152
 aS'8'
 aS'6'
 aS'2'
@@ -2772,41 +3008,44 @@ aS'0'
 aS'2'
 aS'6'
 aS'Wanganui'
-p1049
+p1153
 aVNew Zealand/Aotearoa
-p1050
+p1154
 aVManawatu-Wanganui
-p1051
+p1155
 aVWanganui District
-p1052
-aa(lp1053
+p1156
+aVWhanganui
+p1157
+aa(lp1158
 S'Bert Cooke'
-p1054
+p1159
 aS'1924'
-p1055
+p1160
 aS'Five-eighth'
-p1056
+p1161
 aS'8'
 aS'7'
 aS'1'
 aS'0'
 aS'4'
 aS'12'
-p1057
+p1162
 aS'Auckland'
-p1058
+p1163
 aVNew Zealand/Aotearoa
-p1059
+p1164
 aVAuckland
-p1060
-ag53
-aa(lp1061
+p1165
+ag41
+ag41
+aa(lp1166
 S'Les Cupples'
-p1062
+p1167
 aS'1924'
-p1063
+p1168
 aS'Flanker'
-p1064
+p1169
 aS'2'
 aS'2'
 aS'0'
@@ -2814,20 +3053,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Otautau'
-p1065
+p1170
 aVNew Zealand/Aotearoa
-p1066
+p1171
 aVSouthland
-p1067
+p1172
 aVOtautau
-p1068
-aa(lp1069
+p1173
+ag41
+aa(lp1174
 S'Bill Dalley'
-p1070
+p1175
 aS'1924'
-p1071
+p1176
 aS'Scrum-half'
-p1072
+p1177
 aS'5'
 aS'3'
 aS'2'
@@ -2835,20 +3075,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lyttelton'
-p1073
+p1178
 aVNew Zealand/Aotearoa
-p1074
+p1179
 aVCanterbury
-p1075
+p1180
 aVChristchurch City
-p1076
-aa(lp1077
+p1181
+aVChristchurch
+p1182
+aa(lp1183
 S'Quentin Donald'
-p1078
+p1184
 aS'1924'
-p1079
+p1185
 aS'Prop'
-p1080
+p1186
 aS'4'
 aS'4'
 aS'0'
@@ -2856,20 +3098,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Featherston'
-p1081
+p1187
 aVNew Zealand/Aotearoa
-p1082
+p1188
 aVWellington
-p1083
+p1189
 aVSouth Wairarapa District
-p1084
-aa(lp1085
+p1190
+aVFeatherston
+p1191
+aa(lp1192
 S'Augustine Hart'
-p1086
+p1193
 aS'1924'
-p1087
+p1194
 aS'Wing'
-p1088
+p1195
 aS'1'
 aS'1'
 aS'0'
@@ -2877,19 +3121,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p1089
+p1196
 aVNew Zealand/Aotearoa
-p1090
+p1197
 aVAuckland
-p1091
-ag53
-aa(lp1092
+p1198
+ag41
+ag41
+aa(lp1199
 S'Bull Irvine'
-p1093
+p1200
 aS'1924'
-p1094
+p1201
 aS'Prop'
-p1095
+p1202
 aS'5'
 aS'4'
 aS'1'
@@ -2897,17 +3142,18 @@ aS'0'
 aS'3'
 aS'9'
 aS'Wairapapa'
-p1096
+p1203
 aS'g'
 aS'n'
 aS'i'
-aa(lp1097
+aS's'
+aa(lp1204
 S'Frederick Lucas'
-p1098
+p1205
 aS'1924'
-p1099
+p1206
 aS'Centre'
-p1100
+p1207
 aS'7'
 aS'6'
 aS'1'
@@ -2915,19 +3161,20 @@ aS'0'
 aS'1'
 aS'3'
 aS'Auckland'
-p1101
+p1208
 aVNew Zealand/Aotearoa
-p1102
+p1209
 aVAuckland
-p1103
-ag53
-aa(lp1104
+p1210
+ag41
+ag41
+aa(lp1211
 S'Read Masters'
-p1105
+p1212
 aS'1924'
-p1106
+p1213
 aS'Lock'
-p1107
+p1214
 aS'4'
 aS'4'
 aS'0'
@@ -2935,20 +3182,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Picton'
-p1108
+p1215
 aVUnited Kingdom
-p1109
+p1216
 aVEngland
-p1110
+p1217
 aVNorth West England
-p1111
-aa(lp1112
+p1218
+aVCheshire West and Chester
+p1219
+aa(lp1220
 S'George Nepia'
-p1113
+p1221
 aS'1924'
-p1114
+p1222
 aS'Fullback'
-p1115
+p1223
 aS'9'
 aS'7'
 aS'2'
@@ -2956,20 +3205,22 @@ aS'0'
 aS'0'
 aS'5'
 aS'Wairoa'
-p1116
+p1224
 aVNew Zealand/Aotearoa
-p1117
+p1225
 aVHawke's Bay
-p1118
+p1226
 aVWairoa District
-p1119
-aa(lp1120
+p1227
+aVWairoa
+p1228
+aa(lp1229
 S'James Parker'
-p1121
+p1230
 aS'1924'
-p1122
+p1231
 aS'Wing-forward'
-p1123
+p1232
 aS'3'
 aS'3'
 aS'0'
@@ -2977,42 +3228,45 @@ aS'0'
 aS'1'
 aS'3'
 aS'Lyttelton'
-p1124
+p1233
 aVNew Zealand/Aotearoa
-p1125
+p1234
 aVCanterbury
-p1126
+p1235
 aVChristchurch City
-p1127
-aa(lp1128
+p1236
+aVChristchurch
+p1237
+aa(lp1238
 S'Snowy Svenson'
-p1129
+p1239
 aS'1924'
-p1130
+p1240
 aS'Wing'
-p1131
+p1241
 aS'4'
 aS'4'
 aS'0'
 aS'0'
 aS'4'
 aS'12'
-p1132
+p1242
 aS'Toowoomba'
-p1133
+p1243
 aVAustralia
-p1134
+p1244
 aVQueensland
-p1135
+p1245
 aVToowoomba
-p1136
-aa(lp1137
+p1246
+ag41
+aa(lp1247
 S'Cyril Brownlie'
-p1138
+p1248
 aS'1924'
-p1139
+p1249
 aS'Lock'
-p1140
+p1250
 aS'3'
 aS'3'
 aS'0'
@@ -3020,20 +3274,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wanganui'
-p1141
+p1251
 aVNew Zealand/Aotearoa
-p1142
+p1252
 aVManawatu-Wanganui
-p1143
+p1253
 aVWanganui District
-p1144
-aa(lp1145
+p1254
+aVWhanganui
+p1255
+aa(lp1256
 S'Neil McGregor'
-p1146
+p1257
 aS'1924'
-p1147
+p1258
 aS'Fly-half'
-p1148
+p1259
 aS'2'
 aS'2'
 aS'0'
@@ -3041,20 +3297,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lowburn'
-p1149
+p1260
 aVUnited Kingdom
-p1150
+p1261
 aVEngland
-p1151
+p1262
 aVYorkshire and the Humber
-p1152
-aa(lp1153
+p1263
+aVNorth Yorkshire
+p1264
+aa(lp1265
 S'Jimmy Mill'
-p1154
+p1266
 aS'1924'
-p1155
+p1267
 aS'Scrum-half'
-p1156
+p1268
 aS'4'
 aS'3'
 aS'1'
@@ -3062,42 +3320,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tokomaru Bay'
-p1157
+p1269
 aVNew Zealand/Aotearoa
-p1158
+p1270
 aVGisborne
-p1159
+p1271
 aVTokomaru Bay
-p1160
-aa(lp1161
+p1272
+ag41
+aa(lp1273
 S'Cliff Porter'
-p1162
+p1274
 aS'1925'
-p1163
+p1275
 aS'Wing-forward'
-p1164
+p1276
 aS'7'
 aS'4'
 aS'3'
 aS'0'
 aS'4'
 aS'12'
-p1165
+p1277
 aS'Edinburgh'
-p1166
+p1278
 aVUnited Kingdom
-p1167
+p1279
 aVScotland
-p1168
+p1280
 aVCity of Edinburgh
-p1169
-aa(lp1170
+p1281
+ag41
+aa(lp1282
 S'Geoff Alley'
-p1171
+p1283
 aS'1928'
-p1172
+p1284
 aS'Lock'
-p1173
+p1285
 aS'3'
 aS'1'
 aS'2'
@@ -3105,20 +3365,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Amberley'
-p1174
+p1286
 aVUnited Kingdom
-p1175
+p1287
 aVEngland
-p1176
+p1288
 aVSouth East
-p1177
-aa(lp1178
+p1289
+aVWest Sussex
+p1290
+aa(lp1291
 S'Syd Carleton'
-p1179
+p1292
 aS'1928'
-p1180
+p1293
 aS'Centre'
-p1181
+p1294
 aS'6'
 aS'1'
 aS'5'
@@ -3126,20 +3388,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p1182
+p1295
 aVNew Zealand/Aotearoa
-p1183
+p1296
 aVCanterbury
-p1184
+p1297
 aVChristchurch City
-p1185
-aa(lp1186
+p1298
+aVChristchurch
+p1299
+aa(lp1300
 S'Bunny Finlayson'
-p1187
+p1301
 aS'1928'
-p1188
+p1302
 aS'Lock'
-p1189
+p1303
 aS'6'
 aS'3'
 aS'3'
@@ -3147,20 +3411,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Maungaturoto'
-p1190
+p1304
 aVNew Zealand/Aotearoa
-p1191
+p1305
 aVNorthland
-p1192
+p1306
 aVKaipara District
-p1193
-aa(lp1194
+p1307
+aVMaungaturoto
+p1308
+aa(lp1309
 S'Bert Grenside'
-p1195
+p1310
 aS'1928'
-p1196
+p1311
 aS'Wing'
-p1197
+p1312
 aS'6'
 aS'2'
 aS'4'
@@ -3168,20 +3434,22 @@ aS'0'
 aS'3'
 aS'9'
 aS'Hastings'
-p1198
+p1313
 aVUnited Kingdom
-p1199
+p1314
 aVEngland
-p1200
+p1315
 aVSouth East
-p1201
-aa(lp1202
+p1316
+aVEast Sussex
+p1317
+aa(lp1318
 S'Swin Hadley'
-p1203
+p1319
 aS'1928'
-p1204
+p1320
 aS'Prop'
-p1205
+p1321
 aS'4'
 aS'2'
 aS'2'
@@ -3189,20 +3457,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Whangaroa'
-p1206
+p1322
 aVNew Zealand/Aotearoa
-p1207
+p1323
 aVNorthland
-p1208
+p1324
 aVFar North District
-p1209
-aa(lp1210
+p1325
+aVWhangaroa
+p1326
+aa(lp1327
 S'William Hazlett'
-p1211
+p1328
 aS'1928'
-p1212
+p1329
 aS'Flanker'
-p1213
+p1330
 aS'8'
 aS'5'
 aS'3'
@@ -3210,20 +3480,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Invercargill'
-p1214
+p1331
 aVNew Zealand/Aotearoa
-p1215
+p1332
 aVSouthland
-p1216
+p1333
 aVInvercargill City
-p1217
-aa(lp1218
+p1334
+aVInvercargill
+p1335
+aa(lp1336
 S'Lancelot Johnson'
-p1219
+p1337
 aS'1928'
-p1220
+p1338
 aS'Fly-half'
-p1221
+p1339
 aS'4'
 aS'2'
 aS'2'
@@ -3231,20 +3503,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lumsden'
-p1222
+p1340
 aVNew Zealand/Aotearoa
-p1223
+p1341
 aVSouthland
-p1224
+p1342
 aVLumsden
-p1225
-aa(lp1226
+p1343
+ag41
+aa(lp1344
 S'David Lindsay'
-p1227
+p1345
 aS'1928'
-p1228
+p1346
 aS'Fullback'
-p1229
+p1347
 aS'3'
 aS'1'
 aS'2'
@@ -3252,20 +3525,22 @@ aS'0'
 aS'0'
 aS'3'
 aS'Studholm'
-p1230
+p1348
 aVCanada
-p1231
+p1349
 aVE3B3E7
-p1232
+p1350
 aVNew Brunswick
-p1233
-aa(lp1234
+p1351
+aVYork County
+p1352
+aa(lp1353
 S'Alan Robilliard'
-p1235
+p1354
 aS'1928'
-p1236
+p1355
 aS'Wing'
-p1237
+p1356
 aS'4'
 aS'2'
 aS'2'
@@ -3273,20 +3548,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Ashburton'
-p1238
+p1357
 aVUnited Kingdom
-p1239
+p1358
 aVEngland
-p1240
+p1359
 aVSouth West England
-p1241
-aa(lp1242
+p1360
+aVDevon
+p1361
+aa(lp1362
 S'George Scrimshaw'
-p1243
+p1363
 aS'1928'
-p1244
+p1364
 aS'Wing-forward'
-p1245
+p1365
 aS'1'
 aS'0'
 aS'1'
@@ -3294,20 +3571,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Islington'
-p1246
+p1366
 aVUnited Kingdom
-p1247
+p1367
 aVN1
-p1248
+p1368
 aVEngland
-p1249
-aa(lp1250
+p1369
+aVGreater London
+p1370
+aa(lp1371
 S'Ronald Stewart'
-p1251
+p1372
 aS'1928'
-p1252
+p1373
 aS'Wing-forward'
-p1253
+p1374
 aS'5'
 aS'3'
 aS'2'
@@ -3315,42 +3594,45 @@ aS'0'
 aS'1'
 aS'3'
 aS'Waikaia'
-p1254
+p1375
 aVNew Zealand/Aotearoa
-p1255
+p1376
 aVSouthland
-p1256
+p1377
 aVWaikaia
-p1257
-aa(lp1258
+p1378
+ag41
+aa(lp1379
 S'William Strang'
-p1259
+p1380
 aS'1928'
-p1260
+p1381
 aS'Fly-half'
-p1261
+p1382
 aS'5'
 aS'4'
 aS'1'
 aS'0'
 aS'1'
 aS'13'
-p1262
+p1383
 aS'Invercargill'
-p1263
+p1384
 aVNew Zealand/Aotearoa
-p1264
+p1385
 aVSouthland
-p1265
+p1386
 aVInvercargill City
-p1266
-aa(lp1267
+p1387
+aVInvercargill
+p1388
+aa(lp1389
 S'Tuna Swain'
-p1268
+p1390
 aS'1928'
-p1269
+p1391
 aS'Prop'
-p1270
+p1392
 aS'4'
 aS'2'
 aS'2'
@@ -3358,63 +3640,68 @@ aS'0'
 aS'1'
 aS'3'
 aS'NSW'
-p1271
+p1393
 aVAustralia
-p1272
+p1394
 aVNew South Wales
-p1273
-ag53
-aa(lp1274
+p1395
+ag41
+ag41
+aa(lp1396
 S'Reuben McWilliams'
-p1275
+p1397
 aS'1928'
-p1276
+p1398
 aS'Flanker'
-p1277
+p1399
 aS'10'
-p1278
+p1400
 aS'5'
 aS'5'
 aS'0'
 aS'1'
 aS'3'
 aS'Paeroa'
-p1279
+p1401
 aVNew Zealand/Aotearoa
-p1280
+p1402
 aVWaikato
-p1281
+p1403
 aVHauraki District
-p1282
-aa(lp1283
+p1404
+aVPaeroa
+p1405
+aa(lp1406
 S'Herb Lilburne'
-p1284
+p1407
 aS'1928'
-p1285
+p1408
 aS'Fly-half'
-p1286
+p1409
 aS'10'
-p1287
+p1410
 aS'3'
 aS'6'
 aS'1'
 aS'0'
 aS'4'
 aS'Burnham'
-p1288
+p1411
 aVUnited States of America
-p1289
+p1412
 aVIllinois
-p1290
+p1413
 aVCook County
-p1291
-aa(lp1292
+p1414
+aVBurnham
+p1415
+aa(lp1416
 S'Ian Harvey'
-p1293
+p1417
 aS'1928'
-p1294
+p1418
 aS'Lock'
-p1295
+p1419
 aS'1'
 aS'1'
 aS'0'
@@ -3422,42 +3709,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Masterton'
-p1296
+p1420
 aVNew Zealand/Aotearoa
-p1297
+p1421
 aVWellington
-p1298
+p1422
 aVMasterton District
-p1299
-aa(lp1300
+p1423
+aVMasterton
+p1424
+aa(lp1425
 S'Beau Cottrell'
-p1301
+p1426
 aS'1929'
-p1302
+p1427
 aS'Prop'
-p1303
+p1428
 aS'11'
-p1304
+p1429
 aS'6'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Westport'
-p1305
+p1430
 aVUnited States of America
-p1306
+p1431
 aVConnecticut
-p1307
+p1432
 aVFairfield County
-p1308
-aa(lp1309
+p1433
+aVWestport
+p1434
+aa(lp1435
 S'John Geddes'
-p1310
+p1436
 aS'1929'
-p1311
+p1437
 aS'Wing'
-p1312
+p1438
 aS'1'
 aS'0'
 aS'1'
@@ -3465,20 +3756,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Invercargill'
-p1313
+p1439
 aVNew Zealand/Aotearoa
-p1314
+p1440
 aVSouthland
-p1315
+p1441
 aVInvercargill City
-p1316
-aa(lp1317
+p1442
+aVInvercargill
+p1443
+aa(lp1444
 S'Bill Heke'
-p1318
+p1445
 aS'1929'
-p1319
+p1446
 aS'Lock'
-p1320
+p1447
 aS'3'
 aS'0'
 aS'3'
@@ -3486,20 +3779,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'King Country'
-p1321
+p1448
 aVUnited States of America
-p1322
+p1449
 aV23011
-p1323
+p1450
 aVVirginia
-p1324
-aa(lp1325
+p1451
+aVNew Kent County
+p1452
+aa(lp1453
 S'Lew Hook'
-p1326
+p1454
 aS'1929'
-p1327
+p1455
 aS'Centre'
-p1328
+p1456
 aS'3'
 aS'0'
 aS'3'
@@ -3507,20 +3802,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Puni'
-p1329
+p1457
 aVTanzania
-p1330
+p1458
 aVLake
-p1331
+p1459
 aVShinyanga
-p1332
-aa(lp1333
+p1460
+aVShinyanga Rural
+p1461
+aa(lp1462
 S'Charles Oliver'
-p1334
+p1463
 aS'1929'
-p1335
+p1464
 aS'Five-eighth'
-p1336
+p1465
 aS'7'
 aS'2'
 aS'5'
@@ -3528,20 +3825,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Wanganui'
-p1337
+p1466
 aVNew Zealand/Aotearoa
-p1338
+p1467
 aVManawatu-Wanganui
-p1339
+p1468
 aVWanganui District
-p1340
-aa(lp1341
+p1469
+aVWhanganui
+p1470
+aa(lp1471
 S'Keith Reid'
-p1342
+p1472
 aS'1929'
-p1343
+p1473
 aS'Prop'
-p1344
+p1474
 aS'2'
 aS'0'
 aS'2'
@@ -3549,20 +3848,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Clareville'
-p1345
+p1475
 aVUnited States of America
-p1346
+p1476
 aVTexas
-p1347
+p1477
 aVBee County
-p1348
-aa(lp1349
+p1478
+aVClareville
+p1479
+aa(lp1480
 S'Wattie Reside'
-p1350
+p1481
 aS'1929'
-p1351
+p1482
 aS'Lock'
-p1352
+p1483
 aS'1'
 aS'0'
 aS'1'
@@ -3570,20 +3871,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Masterton'
-p1353
+p1484
 aVNew Zealand/Aotearoa
-p1354
+p1485
 aVWellington
-p1355
+p1486
 aVMasterton District
-p1356
-aa(lp1357
+p1487
+aVMasterton
+p1488
+aa(lp1489
 S'Fritz Snow'
-p1358
+p1490
 aS'1929'
-p1359
+p1491
 aS'Flanker'
-p1360
+p1492
 aS'3'
 aS'0'
 aS'3'
@@ -3591,19 +3894,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nelson'
-p1361
+p1493
 aVNew Zealand/Aotearoa
-p1362
+p1494
 aVNelson
-p1363
-ag53
-aa(lp1364
+p1495
+ag41
+ag41
+aa(lp1496
 S'Charles Sonntag'
-p1365
+p1497
 aS'1929'
-p1366
+p1498
 aS'Lock'
-p1367
+p1499
 aS'3'
 aS'0'
 aS'3'
@@ -3611,20 +3915,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dunedin'
-p1368
+p1500
 aVNew Zealand/Aotearoa
-p1369
+p1501
 aVOtago
-p1370
+p1502
 aVDunedin City
-p1371
-aa(lp1372
+p1503
+aVDunedin
+p1504
+aa(lp1505
 S'Jack Tuck'
-p1373
+p1506
 aS'1929'
-p1374
+p1507
 aS'Scrum-half'
-p1375
+p1508
 aS'3'
 aS'0'
 aS'3'
@@ -3632,20 +3938,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tikokino'
-p1376
+p1509
 aVNew Zealand/Aotearoa
-p1377
+p1510
 aVHawke's Bay
-p1378
+p1511
 aVCentral Hawke's Bay District
-p1379
-aa(lp1380
+p1512
+aVTikokino
+p1513
+aa(lp1514
 S'Alfred Waterman'
-p1381
+p1515
 aS'1929'
-p1382
+p1516
 aS'Wing'
-p1383
+p1517
 aS'2'
 aS'0'
 aS'2'
@@ -3653,19 +3961,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p1384
+p1518
 aVNew Zealand/Aotearoa
-p1385
+p1519
 aVAuckland
-p1386
-ag53
-aa(lp1387
+p1520
+ag41
+ag41
+aa(lp1521
 S'Clinton Stringfellow'
-p1388
+p1522
 aS'1929'
-p1389
+p1523
 aS'Centre'
-p1390
+p1524
 aS'2'
 aS'0'
 aS'2'
@@ -3673,20 +3982,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Chertsey'
-p1391
+p1525
 aVUnited Kingdom
-p1392
+p1526
 aVEngland
-p1393
+p1527
 aVSouth East
-p1394
-aa(lp1395
+p1528
+aVSurrey
+p1529
+aa(lp1530
 S'Alfred Kivell'
-p1396
+p1531
 aS'1929'
-p1397
+p1532
 aS'Lock'
-p1398
+p1533
 aS'2'
 aS'0'
 aS'2'
@@ -3694,20 +4005,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Thames'
-p1399
+p1534
 aVNew Zealand/Aotearoa
-p1400
+p1535
 aVWaikato
-p1401
+p1536
 aVThames Coromandel District
-p1402
-aa(lp1403
+p1537
+aVThames
+p1538
+aa(lp1539
 S'Bertram Palmer'
-p1404
+p1540
 aS'1929'
-p1405
+p1541
 aS'Hooker'
-p1406
+p1542
 aS'3'
 aS'2'
 aS'1'
@@ -3715,20 +4028,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Mosstown'
-p1407
+p1543
 aVRepublic of Ireland
-p1408
+p1544
 aVLeinster
-p1409
+p1545
 aVCounty Longford
-p1410
-aa(lp1411
+p1546
+aVMosstown
+p1547
+aa(lp1548
 S'Rawi Cundy'
-p1412
+p1549
 aS'1929'
-p1413
+p1550
 aS'Wing-forward'
-p1414
+p1551
 aS'1'
 aS'0'
 aS'1'
@@ -3736,20 +4051,22 @@ aS'0'
 aS'0'
 aS'3'
 aS'Featherston'
-p1415
+p1552
 aVNew Zealand/Aotearoa
-p1416
+p1553
 aVWellington
-p1417
+p1554
 aVSouth Wairarapa District
-p1418
-aa(lp1419
+p1555
+aVFeatherston
+p1556
+aa(lp1557
 S'Tiny Leys'
-p1420
+p1558
 aS'1929'
-p1421
+p1559
 aS'Scrum-half'
-p1422
+p1560
 aS'1'
 aS'0'
 aS'1'
@@ -3757,20 +4074,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p1423
+p1561
 aVNew Zealand/Aotearoa
-p1424
+p1562
 aVWellington
-p1425
+p1563
 aVWellington City
-p1426
-aa(lp1427
+p1564
+aVWellington
+p1565
+aa(lp1566
 S'Walter Batty'
-p1428
+p1567
 aS'1930'
-p1429
+p1568
 aS'Flanker'
-p1430
+p1569
 aS'4'
 aS'3'
 aS'1'
@@ -3778,43 +4097,47 @@ aS'0'
 aS'1'
 aS'3'
 aS'1905'
-p1431
+p1570
 aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p1432
+p1571
 aVSétif - \u0633\u0637\u064a\u0641\u200e
-p1433
+p1572
 aVDaïra Salah Bey
-p1434
-aa(lp1435
+p1573
+aVBoutaleb
+p1574
+aa(lp1575
 S'George Hart'
-p1436
+p1576
 aS'1930'
-p1437
+p1577
 aS'Wing'
-p1438
+p1578
 aS'11'
-p1439
+p1579
 aS'8'
 aS'3'
 aS'0'
 aS'7'
 aS'21'
-p1440
+p1580
 aS'Christchurch'
-p1441
+p1581
 aVNew Zealand/Aotearoa
-p1442
+p1582
 aVCanterbury
-p1443
+p1583
 aVChristchurch City
-p1444
-aa(lp1445
+p1584
+aVChristchurch
+p1585
+aa(lp1586
 S'Don Oliver'
-p1446
+p1587
 aS'1930'
-p1447
+p1588
 aS'Wing'
-p1448
+p1589
 aS'2'
 aS'1'
 aS'1'
@@ -3822,20 +4145,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dunedin'
-p1449
+p1590
 aVNew Zealand/Aotearoa
-p1450
+p1591
 aVOtago
-p1451
+p1592
 aVDunedin City
-p1452
-aa(lp1453
+p1593
+aVDunedin
+p1594
+aa(lp1595
 S'Edward Steere'
-p1454
+p1596
 aS'1930'
-p1455
+p1597
 aS'Lock'
-p1456
+p1598
 aS'6'
 aS'4'
 aS'2'
@@ -3843,20 +4168,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Raetihi'
-p1457
+p1599
 aVNew Zealand/Aotearoa
-p1458
+p1600
 aVManawatu-Wanganui
-p1459
+p1601
 aVRuapehu District
-p1460
-aa(lp1461
+p1602
+aVRaetihi
+p1603
+aa(lp1604
 S'Merv Corner'
-p1462
+p1605
 aS'1930'
-p1463
+p1606
 aS'Scrum-half'
-p1464
+p1607
 aS'6'
 aS'4'
 aS'2'
@@ -3864,41 +4191,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p1465
+p1608
 aVNew Zealand/Aotearoa
-p1466
+p1609
 aVAuckland
-p1467
-ag53
-aa(lp1468
+p1610
+ag41
+ag41
+aa(lp1611
 S'John Hore'
-p1469
+p1612
 aS'1930'
-p1470
+p1613
 aS'Prop'
-p1471
+p1614
 aS'10'
-p1472
+p1615
 aS'6'
 aS'3'
 aS'1'
 aS'3'
 aS'9'
 aS'Dunedin'
-p1473
+p1616
 aVNew Zealand/Aotearoa
-p1474
+p1617
 aVOtago
-p1475
+p1618
 aVDunedin City
-p1476
-aa(lp1477
+p1619
+aVDunedin
+p1620
+aa(lp1621
 S'Hugh McLean'
-p1478
+p1622
 aS'1930'
-p1479
+p1623
 aS'Flanker'
-p1480
+p1624
 aS'9'
 aS'5'
 aS'4'
@@ -3906,63 +4236,68 @@ aS'0'
 aS'3'
 aS'9'
 aS'Wanganui'
-p1481
+p1625
 aVNew Zealand/Aotearoa
-p1482
+p1626
 aVManawatu-Wanganui
-p1483
+p1627
 aVWanganui District
-p1484
-aa(lp1485
+p1628
+aVWhanganui
+p1629
+aa(lp1630
 S'Kelly Ball'
-p1486
+p1631
 aS'1931'
-p1487
+p1632
 aS'Wing'
-p1488
+p1633
 aS'5'
 aS'3'
 aS'2'
 aS'0'
 aS'4'
 aS'12'
-p1489
+p1634
 aS'Foxton'
-p1490
+p1635
 aVUnited Kingdom
-p1491
+p1636
 aVEngland
-p1492
+p1637
 aVEast of England
-p1493
-aa(lp1494
+p1638
+aVCambridgeshire
+p1639
+aa(lp1640
 S'Ron Bush'
-p1495
+p1641
 aS'1931'
-p1496
+p1642
 aS'Fullback'
-p1497
+p1643
 aS'1'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'14'
-p1498
+p1644
 aS'Nelson'
-p1499
+p1645
 aVNew Zealand/Aotearoa
-p1500
+p1646
 aVNelson
-p1501
-ag53
-aa(lp1502
+p1647
+ag41
+ag41
+aa(lp1648
 S'Ted Jessep'
-p1503
+p1649
 aS'1931'
-p1504
+p1650
 aS'Prop'
-p1505
+p1651
 aS'4'
 aS'2'
 aS'1'
@@ -3970,20 +4305,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Leichhard'
-p1506
+p1652
 aVAustralia
-p1507
+p1653
 aV0800
-p1508
+p1654
 aVNorthern Territory
-p1509
-aa(lp1510
+p1655
+aVDarwin
+p1656
+aa(lp1657
 S'Donald Max'
-p1511
+p1658
 aS'1931'
-p1512
+p1659
 aS'Lock'
-p1513
+p1660
 aS'3'
 aS'1'
 aS'1'
@@ -3991,19 +4328,20 @@ aS'1'
 aS'1'
 aS'3'
 aS'Nelson'
-p1514
+p1661
 aVNew Zealand/Aotearoa
-p1515
+p1662
 aVNelson
-p1516
-ag53
-aa(lp1517
+p1663
+ag41
+ag41
+aa(lp1664
 S'Thomas Metcalfe'
-p1518
+p1665
 aS'1931'
-p1519
+p1666
 aS'No. 8'
-p1520
+p1667
 aS'2'
 aS'1'
 aS'1'
@@ -4011,20 +4349,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Invercargill'
-p1521
+p1668
 aVNew Zealand/Aotearoa
-p1522
+p1669
 aVSouthland
-p1523
+p1670
 aVInvercargill City
-p1524
-aa(lp1525
+p1671
+aVInvercargill
+p1672
+aa(lp1673
 S'Rusty Page'
-p1526
+p1674
 aS'1931'
-p1527
+p1675
 aS'Fly-half'
-p1528
+p1676
 aS'6'
 aS'3'
 aS'2'
@@ -4032,20 +4372,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Dunedin'
-p1529
+p1677
 aVNew Zealand/Aotearoa
-p1530
+p1678
 aVOtago
-p1531
+p1679
 aVDunedin City
-p1532
-aa(lp1533
+p1680
+aVDunedin
+p1681
+aa(lp1682
 S'George Purdue'
-p1534
+p1683
 aS'1931'
-p1535
+p1684
 aS'Lock'
-p1536
+p1685
 aS'4'
 aS'3'
 aS'1'
@@ -4053,20 +4395,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Invercargill'
-p1537
+p1686
 aVNew Zealand/Aotearoa
-p1538
+p1687
 aVSouthland
-p1539
+p1688
 aVInvercargill City
-p1540
-aa(lp1541
+p1689
+aVInvercargill
+p1690
+aa(lp1691
 S'Frank Solomon'
-p1542
+p1692
 aS'1931'
-p1543
+p1693
 aS'No. 8'
-p1544
+p1694
 aS'3'
 aS'3'
 aS'0'
@@ -4074,19 +4418,20 @@ aS'0'
 aS'1'
 aS'3'
 aS'American Samoa'
-p1545
+p1695
 aVUnited States of America
-p1546
+p1696
 aVAmerican Samoa
-p1547
-ag53
-aa(lp1548
+p1697
+ag41
+ag41
+aa(lp1698
 S'George Bullock-Douglas'
-p1549
+p1699
 aS'1932'
-p1550
+p1700
 aS'Wing'
-p1551
+p1701
 aS'5'
 aS'2'
 aS'2'
@@ -4094,20 +4439,22 @@ aS'1'
 aS'3'
 aS'9'
 aS'Wanganui'
-p1552
+p1702
 aVNew Zealand/Aotearoa
-p1553
+p1703
 aVManawatu-Wanganui
-p1554
+p1704
 aVWanganui District
-p1555
-aa(lp1556
+p1705
+aVWhanganui
+p1706
+aa(lp1707
 S'Pat Caughey'
-p1557
+p1708
 aS'1932'
-p1558
+p1709
 aS'Centre'
-p1559
+p1710
 aS'9'
 aS'4'
 aS'4'
@@ -4115,19 +4462,20 @@ aS'1'
 aS'3'
 aS'9'
 aS'Auckland'
-p1560
+p1711
 aVNew Zealand/Aotearoa
-p1561
+p1712
 aVAuckland
-p1562
-ag53
-aa(lp1563
+p1713
+ag41
+ag41
+aa(lp1714
 S'Francis Kilby'
-p1564
+p1715
 aS'1932'
-p1565
+p1716
 aS'Scrum-half'
-p1566
+p1717
 aS'4'
 aS'2'
 aS'1'
@@ -4135,20 +4483,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Invercargill'
-p1567
+p1718
 aVNew Zealand/Aotearoa
-p1568
+p1719
 aVSouthland
-p1569
+p1720
 aVInvercargill City
-p1570
-aa(lp1571
+p1721
+aVInvercargill
+p1722
+aa(lp1723
 S'Jack Manchester'
-p1572
+p1724
 aS'1932'
-p1573
+p1725
 aS'Flanker'
-p1574
+p1726
 aS'9'
 aS'4'
 aS'4'
@@ -4156,42 +4506,46 @@ aS'1'
 aS'1'
 aS'3'
 aS'Waimate'
-p1575
+p1727
 aVNew Zealand/Aotearoa
-p1576
+p1728
 aVCanterbury
-p1577
+p1729
 aVWaimate District
-p1578
-aa(lp1579
+p1730
+aVWaimate
+p1731
+aa(lp1732
 S'Bunk Pollock'
-p1580
+p1733
 aS'1932'
-p1581
+p1734
 aS'Five-eighth'
-p1582
+p1735
 aS'5'
 aS'4'
 aS'1'
 aS'0'
 aS'0'
 aS'29'
-p1583
+p1736
 aS'Petone'
-p1584
+p1737
 aVNew Zealand/Aotearoa
-p1585
+p1738
 aVWellington
-p1586
+p1739
 aVLower Hutt City
-p1587
-aa(lp1588
+p1740
+aVLower Hutt
+p1741
+aa(lp1742
 S'Joe Procter'
-p1589
+p1743
 aS'1932'
-p1590
+p1744
 aS'Wing'
-p1591
+p1745
 aS'1'
 aS'0'
 aS'1'
@@ -4199,20 +4553,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dunedin'
-p1592
+p1746
 aVNew Zealand/Aotearoa
-p1593
+p1747
 aVOtago
-p1594
+p1748
 aVDunedin City
-p1595
-aa(lp1596
+p1749
+aVDunedin
+p1750
+aa(lp1751
 S'Ray Clarke'
-p1597
+p1752
 aS'1932'
-p1598
+p1753
 aS'Lock'
-p1599
+p1754
 aS'2'
 aS'2'
 aS'0'
@@ -4220,17 +4576,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wairea'
-p1600
+p1755
 aS'g'
 aS'n'
 aS'i'
-aa(lp1601
+aS's'
+aa(lp1756
 S'Arthur Collins'
-p1602
+p1757
 aS'1932'
-p1603
+p1758
 aS'Fullback'
-p1604
+p1759
 aS'3'
 aS'2'
 aS'1'
@@ -4238,20 +4595,22 @@ aS'0'
 aS'0'
 aS'9'
 aS'Stratford'
-p1605
+p1760
 aVUnited Kingdom
-p1606
+p1761
 aVEngland
-p1607
+p1762
 aVWest Midlands
-p1608
-aa(lp1609
+p1763
+aVWarwickshire
+p1764
+aa(lp1765
 S'Gordon Innes'
-p1610
+p1766
 aS'1932'
-p1611
+p1767
 aS'Five-eighth'
-p1612
+p1768
 aS'1'
 aS'1'
 aS'0'
@@ -4259,20 +4618,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dunedin'
-p1613
+p1769
 aVNew Zealand/Aotearoa
-p1614
+p1770
 aVOtago
-p1615
+p1771
 aVDunedin City
-p1616
-aa(lp1617
+p1772
+aVDunedin
+p1773
+aa(lp1774
 S'Bill Hadley'
-p1618
+p1775
 aS'1934'
-p1619
+p1776
 aS'Hooker'
-p1620
+p1777
 aS'8'
 aS'4'
 aS'3'
@@ -4280,19 +4641,20 @@ aS'1'
 aS'2'
 aS'6'
 aS'Auckland'
-p1621
+p1778
 aVNew Zealand/Aotearoa
-p1622
+p1779
 aVAuckland
-p1623
-ag53
-aa(lp1624
+p1780
+ag41
+ag41
+aa(lp1781
 S'Bubs Knight'
-p1625
+p1782
 aS'1934'
-p1626
+p1783
 aS'Lock'
-p1627
+p1784
 aS'1'
 aS'0'
 aS'1'
@@ -4300,40 +4662,42 @@ aS'0'
 aS'1'
 aS'3'
 aS'Auckland'
-p1628
+p1785
 aVNew Zealand/Aotearoa
-p1629
+p1786
 aVAuckland
-p1630
-ag53
-aa(lp1631
+p1787
+ag41
+ag41
+aa(lp1788
 S'Arthur Lambourn'
-p1632
+p1789
 aS'1934'
-p1633
+p1790
 aS'Prop'
-p1634
+p1791
 aS'10'
-p1635
+p1792
 aS'4'
 aS'5'
 aS'1'
 aS'0'
 aS'0'
 aS'Qld'
-p1636
+p1793
 aVAustralia
-p1637
+p1794
 aVQueensland
-p1638
-ag53
-aa(lp1639
+p1795
+ag41
+ag41
+aa(lp1796
 S'Roderick McKenzie'
-p1640
+p1797
 aS'1934'
-p1641
+p1798
 aS'Flanker'
-p1642
+p1799
 aS'9'
 aS'6'
 aS'3'
@@ -4341,20 +4705,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rakaia'
-p1643
+p1800
 aVNew Zealand/Aotearoa
-p1644
+p1801
 aVCanterbury
-p1645
+p1802
 aVAshburton District
-p1646
-aa(lp1647
+p1803
+aVRakaia
+p1804
+aa(lp1805
 S'Ned Barry'
-p1648
+p1806
 aS'1934'
-p1649
+p1807
 aS'Flanker'
-p1650
+p1808
 aS'1'
 aS'0'
 aS'0'
@@ -4362,20 +4728,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Temuka'
-p1651
+p1809
 aVNew Zealand/Aotearoa
-p1652
+p1810
 aVCanterbury
-p1653
+p1811
 aVTimaru District
-p1654
-aa(lp1655
+p1812
+aVTemuka
+p1813
+aa(lp1814
 S'Jack Griffiths'
-p1656
+p1815
 aS'1934'
-p1657
+p1816
 aS'Fly-half'
-p1658
+p1817
 aS'7'
 aS'5'
 aS'1'
@@ -4383,20 +4751,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Wellington'
-p1659
+p1818
 aVNew Zealand/Aotearoa
-p1660
+p1819
 aVWellington
-p1661
+p1820
 aVWellington City
-p1662
-aa(lp1663
+p1821
+aVWellington
+p1822
+aa(lp1823
 S'Edward Holder'
-p1664
+p1824
 aS'1934'
-p1665
+p1825
 aS'Wing'
-p1666
+p1826
 aS'1'
 aS'0'
 aS'0'
@@ -4404,42 +4774,46 @@ aS'1'
 aS'0'
 aS'0'
 aS'Seddonville'
-p1667
+p1827
 aVNew Zealand/Aotearoa
-p1668
+p1828
 aVWest Coast
-p1669
+p1829
 aVBuller District
-p1670
-aa(lp1671
+p1830
+aVSeddonville
+p1831
+aa(lp1832
 S'Ron King'
-p1672
+p1833
 aS'1934'
-p1673
+p1834
 aS'Lock'
-p1674
+p1835
 aS'13'
-p1675
+p1836
 aS'8'
 aS'4'
 aS'1'
 aS'0'
 aS'0'
 aS'Waiuta'
-p1676
+p1837
 aVNew Zealand/Aotearoa
-p1677
+p1838
 aVWest Coast
-p1678
+p1839
 aVBuller District
-p1679
-aa(lp1680
+p1840
+aVWaiuta
+p1841
+aa(lp1842
 S'Hawea Mataira'
-p1681
+p1843
 aS'1934'
-p1682
+p1844
 aS'No. 8'
-p1683
+p1845
 aS'1'
 aS'0'
 aS'0'
@@ -4447,42 +4821,46 @@ aS'1'
 aS'0'
 aS'0'
 aS'Nuhaka'
-p1684
+p1846
 aVNew Zealand/Aotearoa
-p1685
+p1847
 aVHawke's Bay
-p1686
+p1848
 aVWairoa District
-p1687
-aa(lp1688
+p1849
+aVNuhaka
+p1850
+aa(lp1851
 S'Mike Gilbert'
-p1689
+p1852
 aS'1935'
-p1690
+p1853
 aS'Fullback'
-p1691
+p1854
 aS'4'
 aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'20'
-p1692
+p1855
 aS'Rothesay'
-p1693
+p1856
 aVCanada
-p1694
+p1857
 aVNew Brunswick
-p1695
+p1858
 aVKings County
-p1696
-aa(lp1697
+p1859
+aVRothesay
+p1860
+aa(lp1861
 S'Tonk Mahoney'
-p1698
+p1862
 aS'1935'
-p1699
+p1863
 aS'No. 8'
-p1700
+p1864
 aS'4'
 aS'2'
 aS'2'
@@ -4490,42 +4868,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Woodville'
-p1701
+p1865
 aVUnited States of America
-p1702
+p1866
 aVTexas
-p1703
+p1867
 aVTyler County
-p1704
-aa(lp1705
+p1868
+aVWoodville
+p1869
+aa(lp1870
 S'Brushy Mitchell'
-p1706
+p1871
 aS'1935'
-p1707
+p1872
 aS'Centre'
-p1708
+p1873
 aS'8'
 aS'5'
 aS'3'
 aS'0'
 aS'4'
 aS'12'
-p1709
+p1874
 aS'Invercargill'
-p1710
+p1875
 aVNew Zealand/Aotearoa
-p1711
+p1876
 aVSouthland
-p1712
+p1877
 aVInvercargill City
-p1713
-aa(lp1714
+p1878
+aVInvercargill
+p1879
+aa(lp1880
 S'Tori Reid'
-p1715
+p1881
 aS'1935'
-p1716
+p1882
 aS'Lock'
-p1717
+p1883
 aS'9'
 aS'5'
 aS'4'
@@ -4533,20 +4915,21 @@ aS'0'
 aS'2'
 aS'6'
 aS'Tokomaru Bay'
-p1718
+p1884
 aVNew Zealand/Aotearoa
-p1719
+p1885
 aVGisborne
-p1720
+p1886
 aVTokomaru Bay
-p1721
-aa(lp1722
+p1887
+ag41
+aa(lp1888
 S'Joey Sadler'
-p1723
+p1889
 aS'1935'
-p1724
+p1890
 aS'Scrum-half'
-p1725
+p1891
 aS'5'
 aS'4'
 aS'1'
@@ -4554,20 +4937,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p1726
+p1892
 aVNew Zealand/Aotearoa
-p1727
+p1893
 aVWellington
-p1728
+p1894
 aVWellington City
-p1729
-aa(lp1730
+p1895
+aVWellington
+p1896
+aa(lp1897
 S'Doug Dalton'
-p1731
+p1898
 aS'1935'
-p1732
+p1899
 aS'Prop'
-p1733
+p1900
 aS'9'
 aS'6'
 aS'3'
@@ -4575,20 +4960,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Napier'
-p1734
+p1901
 aVNew Zealand/Aotearoa
-p1735
+p1902
 aVHawke's Bay
-p1736
+p1903
 aVNapier City
-p1737
-aa(lp1738
+p1904
+aVNapier
+p1905
+aa(lp1906
 S'Snowy Tindill'
-p1739
+p1907
 aS'1936'
-p1740
+p1908
 aS'Fly-half, Scrum-half'
-p1741
+p1909
 aS'1'
 aS'0'
 aS'1'
@@ -4596,19 +4983,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nelson'
-p1742
+p1910
 aVNew Zealand/Aotearoa
-p1743
+p1911
 aVNelson
-p1744
-ag53
-aa(lp1745
+p1912
+ag41
+ag41
+aa(lp1913
 S'Everard Jackson'
-p1746
+p1914
 aS'1936'
-p1747
+p1915
 aS'Prop'
-p1748
+p1916
 aS'6'
 aS'4'
 aS'2'
@@ -4616,20 +5004,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hastings'
-p1749
+p1917
 aVUnited Kingdom
-p1750
+p1918
 aVEngland
-p1751
+p1919
 aVSouth East
-p1752
-aa(lp1753
+p1920
+aVEast Sussex
+p1921
+aa(lp1922
 S'Shorty Killeen'
-p1754
+p1923
 aS'1936'
-p1755
+p1924
 aS'Five-eighth'
-p1756
+p1925
 aS'1'
 aS'1'
 aS'0'
@@ -4637,20 +5027,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p1757
+p1926
 aVNew Zealand/Aotearoa
-p1758
+p1927
 aVWellington
-p1759
+p1928
 aVWellington City
-p1760
-aa(lp1761
+p1929
+aVWellington
+p1930
+aa(lp1931
 S'John Rankin'
-p1762
+p1932
 aS'1936'
-p1763
+p1933
 aS'No. 8'
-p1764
+p1934
 aS'3'
 aS'2'
 aS'1'
@@ -4658,20 +5050,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Christchurch'
-p1765
+p1935
 aVNew Zealand/Aotearoa
-p1766
+p1936
 aVCanterbury
-p1767
+p1937
 aVChristchurch City
-p1768
-aa(lp1769
+p1938
+aVChristchurch
+p1939
+aa(lp1940
 S'Jim Watt'
-p1770
+p1941
 aS'1936'
-p1771
+p1942
 aS'Wing'
-p1772
+p1943
 aS'2'
 aS'2'
 aS'0'
@@ -4679,20 +5073,22 @@ aS'0'
 aS'2'
 aS'6'
 aS'Dunedin'
-p1773
+p1944
 aVNew Zealand/Aotearoa
-p1774
+p1945
 aVOtago
-p1775
+p1946
 aVDunedin City
-p1776
-aa(lp1777
+p1947
+aVDunedin
+p1948
+aa(lp1949
 S'Jock Wells'
-p1778
+p1950
 aS'1936'
-p1779
+p1951
 aS'Flanker'
-p1780
+p1952
 aS'2'
 aS'2'
 aS'0'
@@ -4700,17 +5096,18 @@ aS'0'
 aS'0'
 aS'0'
 aS'nr.Dargaville'
-p1781
+p1953
 aS'g'
 aS'n'
 aS'i'
-aa(lp1782
+aS's'
+aa(lp1954
 S'Colin Gillies'
-p1783
+p1955
 aS'1936'
-p1784
+p1956
 aS'Fly-half'
-p1785
+p1957
 aS'1'
 aS'1'
 aS'0'
@@ -4718,20 +5115,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Oamaru'
-p1786
+p1958
 aVNew Zealand/Aotearoa
-p1787
+p1959
 aVOtago
-p1788
+p1960
 aVWaitaki District
-p1789
-aa(lp1790
+p1961
+aVOamaru
+p1962
+aa(lp1963
 S'Ronald Ward'
-p1791
+p1964
 aS'1936'
-p1792
+p1965
 aS'Flanker'
-p1793
+p1966
 aS'3'
 aS'2'
 aS'1'
@@ -4739,20 +5138,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Riverton'
-p1794
+p1967
 aVUnited States of America
-p1795
+p1968
 aVWyoming
-p1796
+p1969
 aVFremont County
-p1797
-aa(lp1798
+p1970
+aVRiverton
+p1971
+aa(lp1972
 S'Donald Cobden'
-p1799
+p1973
 aS'1937'
-p1800
+p1974
 aS'Wing'
-p1801
+p1975
 aS'1'
 aS'1'
 aS'0'
@@ -4760,20 +5161,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p1802
+p1976
 aVNew Zealand/Aotearoa
-p1803
+p1977
 aVCanterbury
-p1804
+p1978
 aVChristchurch City
-p1805
-aa(lp1806
+p1979
+aVChristchurch
+p1980
+aa(lp1981
 S'John Dick'
-p1807
+p1982
 aS'1937'
-p1808
+p1983
 aS'Wing'
-p1809
+p1984
 aS'3'
 aS'2'
 aS'1'
@@ -4781,19 +5184,20 @@ aS'0'
 aS'1'
 aS'3'
 aS'Auckland'
-p1810
+p1985
 aVNew Zealand/Aotearoa
-p1811
+p1986
 aVAuckland
-p1812
-ag53
-aa(lp1813
+p1987
+ag41
+ag41
+aa(lp1988
 S'John Hooper'
-p1814
+p1989
 aS'1937'
-p1815
+p1990
 aS'Five-eighth'
-p1816
+p1991
 aS'3'
 aS'1'
 aS'2'
@@ -4801,20 +5205,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p1817
+p1992
 aVNew Zealand/Aotearoa
-p1818
+p1993
 aVCanterbury
-p1819
+p1994
 aVChristchurch City
-p1820
-aa(lp1821
+p1995
+aVChristchurch
+p1996
+aa(lp1997
 S'Allan Parkhill'
-p1822
+p1998
 aS'1937'
-p1823
+p1999
 aS'No. 8'
-p1824
+p2000
 aS'6'
 aS'4'
 aS'2'
@@ -4822,19 +5228,20 @@ aS'0'
 aS'1'
 aS'3'
 aS'Palmerston'
-p1825
+p2001
 aVCook Islands
-p1826
+p2002
 aVPalmerston
-p1827
-ag53
-aa(lp1828
+p2003
+ag41
+ag41
+aa(lp2004
 S'Harold Simon'
-p1829
+p2005
 aS'1937'
-p1830
+p2006
 aS'Scrum-half'
-p1831
+p2007
 aS'3'
 aS'1'
 aS'2'
@@ -4842,20 +5249,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kingston'
-p1832
+p2008
 aVJamaica
-p1833
+p2009
 aVSurrey County
-p1834
+p2010
 aVKingston and St. Andrew Corporation
-p1835
-aa(lp1836
+p2011
+aVKingston
+p2012
+aa(lp2013
 S'John Sullivan'
-p1837
+p2014
 aS'1937'
-p1838
+p2015
 aS'Centre'
-p1839
+p2016
 aS'6'
 aS'4'
 aS'2'
@@ -4863,61 +5272,65 @@ aS'0'
 aS'3'
 aS'9'
 aS'Tahora'
-p1840
+p2017
 aVNew Zealand/Aotearoa
-p1841
+p2018
 aVManawatu-Wanganui
-p1842
+p2019
 aVTahora
-p1843
-aa(lp1844
+p2020
+ag41
+aa(lp2021
 S'John Taylor'
-p1845
+p2022
 aS'1937'
-p1846
+p2023
 aS'Fullback'
-p1847
+p2024
 aS'6'
 aS'4'
 aS'2'
 aS'0'
 aS'0'
 aS'24'
-p1848
+p2025
 aS'Mataura'
-p1849
+p2026
 aVNew Zealand/Aotearoa
-p1850
+p2027
 aVSouthland
-p1851
+p2028
 aVGore District
-p1852
-aa(lp1853
+p2029
+aVMataura
+p2030
+aa(lp2031
 S'David Trevathan'
-p1854
+p2032
 aS'1937'
-p1855
+p2033
 aS'Fly-half'
-p1856
+p2034
 aS'3'
 aS'1'
 aS'2'
 aS'0'
 aS'0'
 aS'16'
-p1857
+p2035
 aS'Mosgiel Junction'
-p1858
+p2036
 aS'g'
 aS'n'
 aS'i'
-aa(lp1859
+aS's'
+aa(lp2037
 S'Bill Phillips'
-p1860
+p2038
 aS'1937'
-p1861
+p2039
 aS'Wing'
-p1862
+p2040
 aS'3'
 aS'2'
 aS'1'
@@ -4925,20 +5338,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Raglan'
-p1863
+p2041
 aVUnited Kingdom
-p1864
+p2042
 aVWales
-p1865
+p2043
 aVMonmouthshire
-p1866
-aa(lp1867
+p2044
+aVRaglan
+p2045
+aa(lp2046
 S'Trevor Berghan'
-p1868
+p2047
 aS'1938'
-p1869
+p2048
 aS'Fly-half'
-p1870
+p2049
 aS'3'
 aS'3'
 aS'0'
@@ -4946,20 +5361,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Houhora'
-p1871
+p2050
 aVNew Zealand/Aotearoa
-p1872
+p2051
 aVNorthland
-p1873
+p2052
 aVFar North District
-p1874
-aa(lp1875
+p2053
+aVHouhora
+p2054
+aa(lp2055
 S'Snow Bowman'
-p1876
+p2056
 aS'1938'
-p1877
+p2057
 aS'Flanker'
-p1878
+p2058
 aS'3'
 aS'3'
 aS'0'
@@ -4967,19 +5384,20 @@ aS'0'
 aS'2'
 aS'6'
 aS'Auckland'
-p1879
+p2059
 aVNew Zealand/Aotearoa
-p1880
+p2060
 aVAuckland
-p1881
-ag53
-aa(lp1882
+p2061
+ag41
+ag41
+aa(lp2062
 S'Les George'
-p1883
+p2063
 aS'1938'
-p1884
+p2064
 aS'Prop'
-p1885
+p2065
 aS'3'
 aS'3'
 aS'0'
@@ -4987,20 +5405,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Invercargill'
-p1886
+p2066
 aVNew Zealand/Aotearoa
-p1887
+p2067
 aVSouthland
-p1888
+p2068
 aVInvercargill City
-p1889
-aa(lp1890
+p2069
+aVInvercargill
+p2070
+aa(lp2071
 S'Harold Milliken'
-p1891
+p2072
 aS'1938'
-p1892
+p2073
 aS'Lock'
-p1893
+p2074
 aS'3'
 aS'3'
 aS'0'
@@ -5008,20 +5428,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Christchurch'
-p1894
+p2075
 aVNew Zealand/Aotearoa
-p1895
+p2076
 aVCanterbury
-p1896
+p2077
 aVChristchurch City
-p1897
-aa(lp1898
+p2078
+aVChristchurch
+p2079
+aa(lp2080
 S'Thomas Morrison'
-p1899
+p2081
 aS'1938'
-p1900
+p2082
 aS'Wing'
-p1901
+p2083
 aS'3'
 aS'3'
 aS'0'
@@ -5029,19 +5451,20 @@ aS'0'
 aS'0'
 aS'4'
 aS'Gisborne'
-p1902
+p2084
 aVNew Zealand/Aotearoa
-p1903
+p2085
 aVGisborne
-p1904
-ag53
-aa(lp1905
+p2086
+ag41
+ag41
+aa(lp2087
 S'Charlie Quaid'
-p1906
+p2088
 aS'1938'
-p1907
+p2089
 aS'Hooker'
-p1908
+p2090
 aS'2'
 aS'2'
 aS'0'
@@ -5049,20 +5472,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p1909
+p2091
 aVNew Zealand/Aotearoa
-p1910
+p2092
 aVCanterbury
-p1911
+p2093
 aVChristchurch City
-p1912
-aa(lp1913
+p2094
+aVChristchurch
+p2095
+aa(lp2096
 S'Charles Saxton'
-p1914
+p2097
 aS'1938'
-p1915
+p2098
 aS'Scrum-half'
-p1916
+p2099
 aS'3'
 aS'3'
 aS'0'
@@ -5070,20 +5495,22 @@ aS'0'
 aS'3'
 aS'9'
 aS'Kurow'
-p1917
+p2100
 aVNew Zealand/Aotearoa
-p1918
+p2101
 aVCanterbury
-p1919
+p2102
 aVWaitaki District
-p1920
-aa(lp1921
+p2103
+aVKurow
+p2104
+aa(lp2105
 S'Fred Allen'
-p1922
+p2106
 aS'1946'
-p1923
+p2107
 aS'Five-eighth'
-p1924
+p2108
 aS'6'
 aS'4'
 aS'2'
@@ -5091,41 +5518,44 @@ aS'0'
 aS'0'
 aS'0'
 aS'Oamaru'
-p1925
+p2109
 aVNew Zealand/Aotearoa
-p1926
+p2110
 aVOtago
-p1927
+p2111
 aVWaitaki District
-p1928
-aa(lp1929
+p2112
+aVOamaru
+p2113
+aa(lp2114
 S'Wally Argus'
-p1930
+p2115
 aS'1946'
-p1931
+p2116
 aS'Wing'
-p1932
+p2117
 aS'4'
 aS'4'
 aS'0'
 aS'0'
 aS'4'
 aS'12'
-p1933
+p2118
 aS'Auckland'
-p1934
+p2119
 aVNew Zealand/Aotearoa
-p1935
+p2120
 aVAuckland
-p1936
-ag53
-aa(lp1937
+p2121
+ag41
+ag41
+aa(lp2122
 S'Has Catley'
-p1938
+p2123
 aS'1946'
-p1939
+p2124
 aS'Hooker'
-p1940
+p2125
 aS'7'
 aS'3'
 aS'4'
@@ -5133,20 +5563,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hamilton'
-p1941
+p2126
 aVCanada
-p1942
+p2127
 aVOntario
-p1943
+p2128
 aVHamilton
-p1944
-aa(lp1945
+p2129
+ag41
+aa(lp2130
 S'John Dunn'
-p1946
+p2131
 aS'1946'
-p1947
+p2132
 aS'Wing'
-p1948
+p2133
 aS'1'
 aS'1'
 aS'0'
@@ -5154,20 +5585,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Otahuhu'
-p1949
+p2134
 aVNew Zealand/Aotearoa
-p1950
+p2135
 aVAuckland
-p1951
+p2136
 aVMangere-Otahuhu
-p1952
-aa(lp1953
+p2137
+aV\u014ct\u0101huhu
+p2138
+aa(lp2139
 S'Ken Elliott'
-p1954
+p2140
 aS'1946'
-p1955
+p2141
 aS'No. 8'
-p1956
+p2142
 aS'2'
 aS'2'
 aS'0'
@@ -5175,42 +5608,46 @@ aS'0'
 aS'1'
 aS'3'
 aS'Wellington'
-p1957
+p2143
 aVNew Zealand/Aotearoa
-p1958
+p2144
 aVWellington
-p1959
+p2145
 aVWellington City
-p1960
-aa(lp1961
+p2146
+aVWellington
+p2147
+aa(lp2148
 S'Ron Elvidge'
-p1962
+p2149
 aS'1946'
-p1963
+p2150
 aS'Five-eighth'
-p1964
+p2151
 aS'9'
 aS'4'
 aS'4'
 aS'1'
 aS'4'
 aS'12'
-p1965
+p2152
 aS'Timaru'
-p1966
+p2153
 aVNew Zealand/Aotearoa
-p1967
+p2154
 aVCanterbury
-p1968
+p2155
 aVTimaru District
-p1969
-aa(lp1970
+p2156
+aVTimaru
+p2157
+aa(lp2158
 S'Jack Finlay'
-p1971
+p2159
 aS'1946'
-p1972
+p2160
 aS'No. 8'
-p1973
+p2161
 aS'1'
 aS'1'
 aS'0'
@@ -5218,20 +5655,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Normanby'
-p1974
+p2162
 aVUnited Kingdom
-p1975
+p2163
 aVEngland
-p1976
+p2164
 aVYorkshire and the Humber
-p1977
-aa(lp1978
+p2165
+aVNorth Lincolnshire
+p2166
+aa(lp2167
 S'Harry Frazer'
-p1979
+p2168
 aS'1946'
-p1980
+p2169
 aS'Lock'
-p1981
+p2170
 aS'5'
 aS'4'
 aS'1'
@@ -5239,20 +5678,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Wanganui'
-p1982
+p2171
 aVNew Zealand/Aotearoa
-p1983
+p2172
 aVManawatu-Wanganui
-p1984
+p2173
 aVWanganui District
-p1985
-aa(lp1986
+p2174
+aVWhanganui
+p2175
+aa(lp2176
 S'Jimmy Haig'
-p1987
+p2177
 aS'1946'
-p1988
+p2178
 aS'Scrum-half'
-p1989
+p2179
 aS'2'
 aS'2'
 aS'0'
@@ -5260,20 +5701,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Prestonpans'
-p1990
+p2180
 aVUnited Kingdom
-p1991
+p2181
 aVScotland
-p1992
+p2182
 aVEast Lothian
-p1993
-aa(lp1994
+p2183
+aVPrestonpans
+p2184
+aa(lp2185
 S'Maurice McHugh'
-p1995
+p2186
 aS'1946'
-p1996
+p2187
 aS'Flanker'
-p1997
+p2188
 aS'3'
 aS'2'
 aS'1'
@@ -5281,19 +5724,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p1998
+p2189
 aVNew Zealand/Aotearoa
-p1999
+p2190
 aVAuckland
-p2000
-ag53
-aa(lp2001
+p2191
+ag41
+ag41
+aa(lp2192
 S'Pat Rhind'
-p2002
+p2193
 aS'1946'
-p2003
+p2194
 aS'Prop'
-p2004
+p2195
 aS'2'
 aS'2'
 aS'0'
@@ -5301,44 +5745,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lyttelton'
-p2005
+p2196
 aVNew Zealand/Aotearoa
-p2006
+p2197
 aVCanterbury
-p2007
+p2198
 aVChristchurch City
-p2008
-aa(lp2009
+p2199
+aVChristchurch
+p2200
+aa(lp2201
 S'Bob Scott'
-p2010
+p2202
 aS'1946'
-p2011
+p2203
 aS'Fullback'
-p2012
+p2204
 aS'17'
-p2013
+p2205
 aS'10'
-p2014
+p2206
 aS'6'
 aS'1'
 aS'0'
 aS'74'
-p2015
+p2207
 aS'Wellington'
-p2016
+p2208
 aVNew Zealand/Aotearoa
-p2017
+p2209
 aVWellington
-p2018
+p2210
 aVWellington City
-p2019
-aa(lp2020
+p2211
+aVWellington
+p2212
+aa(lp2213
 S'John Smith'
-p2021
+p2214
 aS'1946'
-p2022
+p2215
 aS'Centre'
-p2023
+p2216
 aS'4'
 aS'2'
 aS'2'
@@ -5346,20 +5794,22 @@ aS'0'
 aS'1'
 aS'6'
 aS'Kaikohe'
-p2024
+p2217
 aVNew Zealand/Aotearoa
-p2025
+p2218
 aVNorthland
-p2026
+p2219
 aVFar North District
-p2027
-aa(lp2028
+p2220
+aVKaikohe
+p2221
+aa(lp2222
 S'Roy White'
-p2029
+p2223
 aS'1946'
-p2030
+p2224
 aS'Flanker'
-p2031
+p2225
 aS'4'
 aS'4'
 aS'0'
@@ -5367,20 +5817,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dannevirke'
-p2032
+p2226
 aVNew Zealand/Aotearoa
-p2033
+p2227
 aVManawatu-Wanganui
-p2034
+p2228
 aVTararua District
-p2035
-aa(lp2036
+p2229
+aVDannevirke
+p2230
+aa(lp2231
 S'Charlie Willocks'
-p2037
+p2232
 aS'1946'
-p2038
+p2233
 aS'Lock'
-p2039
+p2234
 aS'5'
 aS'2'
 aS'3'
@@ -5388,20 +5840,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Balclutha'
-p2040
+p2235
 aVNew Zealand/Aotearoa
-p2041
+p2236
 aVOtago
-p2042
+p2237
 aVClutha District
-p2043
-aa(lp2044
+p2238
+aVBalclutha
+p2239
+aa(lp2240
 S'John McRae'
-p2045
+p2241
 aS'1946'
-p2046
+p2242
 aS'Hooker'
-p2047
+p2243
 aS'2'
 aS'2'
 aS'0'
@@ -5409,20 +5863,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Springhills'
-p2048
+p2244
 aVNew Zealand/Aotearoa
-p2049
+p2245
 aVSouthland
-p2050
+p2246
 aVSpringhills
-p2051
-aa(lp2052
+p2247
+ag41
+aa(lp2248
 S'Eric Boggs'
-p2053
+p2249
 aS'1946'
-p2054
+p2250
 aS'Wing'
-p2055
+p2251
 aS'2'
 aS'1'
 aS'1'
@@ -5430,20 +5885,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Whangarei'
-p2056
+p2252
 aVNew Zealand/Aotearoa
-p2057
+p2253
 aVNorthland
-p2058
+p2254
 aVWhangarei District
-p2059
-aa(lp2060
+p2255
+aVWhangarei
+p2256
+aa(lp2257
 S'Thomas Budd'
-p2061
+p2258
 aS'1946'
-p2062
+p2259
 aS'Lock'
-p2063
+p2260
 aS'2'
 aS'1'
 aS'1'
@@ -5451,20 +5908,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Bluff'
-p2064
+p2261
 aVNew Zealand/Aotearoa
-p2065
+p2262
 aVSouthland
-p2066
+p2263
 aVInvercargill City
-p2067
-aa(lp2068
+p2264
+aVBluff
+p2265
+aa(lp2266
 S'Maurice Goddard'
-p2069
+p2267
 aS'1946'
-p2070
+p2268
 aS'Centre'
-p2071
+p2269
 aS'5'
 aS'3'
 aS'2'
@@ -5472,20 +5931,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Timaru'
-p2072
+p2270
 aVNew Zealand/Aotearoa
-p2073
+p2271
 aVCanterbury
-p2074
+p2272
 aVTimaru District
-p2075
-aa(lp2076
+p2273
+aVTimaru
+p2274
+aa(lp2275
 S'Keith Arnold'
-p2077
+p2276
 aS'1947'
-p2078
+p2277
 aS'Flanker'
-p2079
+p2278
 aS'2'
 aS'2'
 aS'0'
@@ -5493,20 +5954,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Feilding'
-p2080
+p2279
 aVNew Zealand/Aotearoa
-p2081
+p2280
 aVManawatu-Wanganui
-p2082
+p2281
 aVManawatu District
-p2083
-aa(lp2084
+p2282
+aVFeilding
+p2283
+aa(lp2284
 S'Ben Couch'
-p2085
+p2285
 aS'1947'
-p2086
+p2286
 aS'Fly-half'
-p2087
+p2287
 aS'3'
 aS'1'
 aS'2'
@@ -5514,20 +5977,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p2088
+p2288
 aVNew Zealand/Aotearoa
-p2089
+p2289
 aVCanterbury
-p2090
+p2290
 aVChristchurch City
-p2091
-aa(lp2092
+p2291
+aVChristchurch
+p2292
+aa(lp2293
 S'Ray Dalton'
-p2093
+p2294
 aS'1947'
-p2094
+p2295
 aS'Prop'
-p2095
+p2296
 aS'2'
 aS'2'
 aS'0'
@@ -5535,20 +6000,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Te Awamutu'
-p2096
+p2297
 aVNew Zealand/Aotearoa
-p2097
+p2298
 aVWaikato
-p2098
+p2299
 aVWaipa District
-p2099
-aa(lp2100
+p2300
+aVTe Awamutu
+p2301
+aa(lp2302
 S'Goldie Grant'
-p2101
+p2303
 aS'1947'
-p2102
+p2304
 aS'Lock'
-p2103
+p2305
 aS'4'
 aS'2'
 aS'2'
@@ -5556,20 +6023,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Temuka'
-p2104
+p2306
 aVNew Zealand/Aotearoa
-p2105
+p2307
 aVCanterbury
-p2106
+p2308
 aVTimaru District
-p2107
-aa(lp2108
+p2309
+aVTemuka
+p2310
+aa(lp2311
 S'John McLean'
-p2109
+p2312
 aS'1947'
-p2110
+p2313
 aS'Wing'
-p2111
+p2314
 aS'2'
 aS'1'
 aS'1'
@@ -5577,20 +6046,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Thames'
-p2112
+p2315
 aVNew Zealand/Aotearoa
-p2113
+p2316
 aVWaikato
-p2114
+p2317
 aVThames Coromandel District
-p2115
-aa(lp2116
+p2318
+aVThames
+p2319
+aa(lp2320
 S'Johnny Simpson'
-p2117
+p2321
 aS'1947'
-p2118
+p2322
 aS'Prop'
-p2119
+p2323
 aS'9'
 aS'4'
 aS'4'
@@ -5598,20 +6069,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Rotorua'
-p2120
+p2324
 aVNew Zealand/Aotearoa
-p2121
+p2325
 aVBay of Plenty
-p2122
+p2326
 aVRotorua District
-p2123
-aa(lp2124
+p2327
+aVRotorua
+p2328
+aa(lp2329
 S'Percy Tetzlaff'
-p2125
+p2330
 aS'1947'
-p2126
+p2331
 aS'Scrum-half'
-p2127
+p2332
 aS'2'
 aS'2'
 aS'0'
@@ -5619,20 +6092,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Taupiri'
-p2128
+p2333
 aVNew Zealand/Aotearoa
-p2129
+p2334
 aVWaikato
-p2130
+p2335
 aVWaikato District
-p2131
-aa(lp2132
+p2336
+aVTaupiri
+p2337
+aa(lp2338
 S'Neville Thornton'
-p2133
+p2339
 aS'1947'
-p2134
+p2340
 aS'No. 8'
-p2135
+p2341
 aS'3'
 aS'2'
 aS'1'
@@ -5640,20 +6115,22 @@ aS'0'
 aS'0'
 aS'3'
 aS'Otahuhu'
-p2136
+p2342
 aVNew Zealand/Aotearoa
-p2137
+p2343
 aVAuckland
-p2138
+p2344
 aVMangere-Otahuhu
-p2139
-aa(lp2140
+p2345
+aV\u014ct\u0101huhu
+p2346
+aa(lp2347
 S'Jim Kearney'
-p2141
+p2348
 aS'1947'
-p2142
+p2349
 aS'Fly-half'
-p2143
+p2350
 aS'4'
 aS'1'
 aS'3'
@@ -5661,20 +6138,22 @@ aS'0'
 aS'1'
 aS'9'
 aS'Naseby'
-p2144
+p2351
 aVUnited Kingdom
-p2145
+p2352
 aVEngland
-p2146
+p2353
 aVEast Midlands
-p2147
-aa(lp2148
+p2354
+aVNorthamptonshire
+p2355
+aa(lp2356
 S'Tim Mason'
-p2149
+p2357
 aS'1947'
-p2150
+p2358
 aS'Wing'
-p2151
+p2359
 aS'1'
 aS'1'
 aS'0'
@@ -5682,20 +6161,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Wellington'
-p2152
+p2360
 aVNew Zealand/Aotearoa
-p2153
+p2361
 aVWellington
-p2154
+p2362
 aVWellington City
-p2155
-aa(lp2156
+p2363
+aVWellington
+p2364
+aa(lp2365
 S'Lester Harvey'
-p2157
+p2366
 aS'1949'
-p2158
+p2367
 aS'Lock'
-p2159
+p2368
 aS'8'
 aS'3'
 aS'4'
@@ -5703,20 +6184,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Dunedin'
-p2160
+p2369
 aVNew Zealand/Aotearoa
-p2161
+p2370
 aVOtago
-p2162
+p2371
 aVDunedin City
-p2163
-aa(lp2164
+p2372
+aVDunedin
+p2373
+aa(lp2374
 S'Sammy Henderson'
-p2165
+p2375
 aS'1949'
-p2166
+p2376
 aS'Wing'
-p2167
+p2377
 aS'7'
 aS'3'
 aS'4'
@@ -5724,19 +6207,20 @@ aS'0'
 aS'2'
 aS'6'
 aS'Gisborne'
-p2168
+p2378
 aVNew Zealand/Aotearoa
-p2169
+p2379
 aVGisborne
-p2170
-ag53
-aa(lp2171
+p2380
+ag41
+ag41
+aa(lp2381
 S'Jack McNab'
-p2172
+p2382
 aS'1949'
-p2173
+p2383
 aS'Flanker'
-p2174
+p2384
 aS'6'
 aS'2'
 aS'3'
@@ -5744,20 +6228,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Owaka'
-p2175
+p2385
 aVNew Zealand/Aotearoa
-p2176
+p2386
 aVOtago
-p2177
+p2387
 aVClutha District
-p2178
-aa(lp2179
+p2388
+aVOwaka
+p2389
+aa(lp2390
 S'Laurence Savage'
-p2180
+p2391
 aS'1949'
-p2181
+p2392
 aS'Scrum-half'
-p2182
+p2393
 aS'3'
 aS'0'
 aS'3'
@@ -5765,42 +6251,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nelson'
-p2183
+p2394
 aVNew Zealand/Aotearoa
-p2184
+p2395
 aVNelson
-p2185
-ag53
-aa(lp2186
+p2396
+ag41
+ag41
+aa(lp2397
 S'Kevin Skinner'
-p2187
+p2398
 aS'1949'
-p2188
+p2399
 aS'Prop'
-p2189
+p2400
 aS'20'
-p2190
+p2401
 aS'12'
-p2191
+p2402
 aS'7'
 aS'1'
 aS'1'
 aS'3'
 aS'Dunedin'
-p2192
+p2403
 aVNew Zealand/Aotearoa
-p2193
+p2404
 aVOtago
-p2194
+p2405
 aVDunedin City
-p2195
-aa(lp2196
+p2406
+aVDunedin
+p2407
+aa(lp2408
 S'Peter Johnstone'
-p2197
+p2409
 aS'1949'
-p2198
+p2410
 aS'No. 8'
-p2199
+p2411
 aS'9'
 aS'6'
 aS'2'
@@ -5808,20 +6297,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Mosgiel'
-p2200
+p2412
 aVNew Zealand/Aotearoa
-p2201
+p2413
 aVOtago
-p2202
+p2414
 aVDunedin City
-p2203
-aa(lp2204
+p2415
+aVMosgiel
+p2416
+aa(lp2417
 S'Bill Meates'
-p2205
+p2418
 aS'1949'
-p2206
+p2419
 aS'Wing'
-p2207
+p2420
 aS'7'
 aS'3'
 aS'3'
@@ -5829,20 +6320,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Greymouth'
-p2208
+p2421
 aVNew Zealand/Aotearoa
-p2209
+p2422
 aVWest Coast
-p2210
+p2423
 aVGrey District
-p2211
-aa(lp2212
+p2424
+aVGreymouth
+p2425
+aa(lp2426
 S'Vince Bevan'
-p2213
+p2427
 aS'1949'
-p2214
+p2428
 aS'Scrum-half'
-p2215
+p2429
 aS'6'
 aS'3'
 aS'2'
@@ -5850,20 +6343,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Wellington'
-p2216
+p2430
 aVNew Zealand/Aotearoa
-p2217
+p2431
 aVWellington
-p2218
+p2432
 aVWellington City
-p2219
-aa(lp2220
+p2433
+aVWellington
+p2434
+aa(lp2435
 S'Kiwi Blake'
-p2221
+p2436
 aS'1949'
-p2222
+p2437
 aS'Flanker'
-p2223
+p2438
 aS'1'
 aS'0'
 aS'1'
@@ -5871,20 +6366,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Carterton'
-p2224
+p2439
 aVNew Zealand/Aotearoa
-p2225
+p2440
 aVWellington
-p2226
+p2441
 aVCarterton District
-p2227
-aa(lp2228
+p2442
+aVCarterton
+p2443
+aa(lp2444
 S'Ron Bryers'
-p2229
+p2445
 aS'1949'
-p2230
+p2446
 aS'Lock'
-p2231
+p2447
 aS'1'
 aS'0'
 aS'1'
@@ -5892,20 +6389,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Raetihi'
-p2232
+p2448
 aVNew Zealand/Aotearoa
-p2233
+p2449
 aVManawatu-Wanganui
-p2234
+p2450
 aVRuapehu District
-p2235
-aa(lp2236
+p2451
+aVRaetihi
+p2452
+aa(lp2453
 S'Ronald Dobson'
-p2237
+p2454
 aS'1949'
-p2238
+p2455
 aS'Five-eighth'
-p2239
+p2456
 aS'1'
 aS'0'
 aS'1'
@@ -5913,19 +6412,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p2240
+p2457
 aVNew Zealand/Aotearoa
-p2241
+p2458
 aVAuckland
-p2242
-ag53
-aa(lp2243
+p2459
+ag41
+ag41
+aa(lp2460
 S'Arthur Hughes'
-p2244
+p2461
 aS'1949'
-p2245
+p2462
 aS'Hooker'
-p2246
+p2463
 aS'6'
 aS'3'
 aS'2'
@@ -5933,19 +6433,20 @@ aS'1'
 aS'0'
 aS'0'
 aS'Auckland'
-p2247
+p2464
 aVNew Zealand/Aotearoa
-p2248
+p2465
 aVAuckland
-p2249
-ag53
-aa(lp2250
+p2466
+ag41
+ag41
+aa(lp2467
 S'Jack Kelly'
-p2251
+p2468
 aS'1949'
-p2252
+p2469
 aS'Fullback'
-p2253
+p2470
 aS'2'
 aS'0'
 aS'2'
@@ -5953,20 +6454,22 @@ aS'0'
 aS'0'
 aS'3'
 aS'Ashburton'
-p2254
+p2471
 aVUnited Kingdom
-p2255
+p2472
 aVEngland
-p2256
+p2473
 aVSouth West England
-p2257
-aa(lp2258
+p2474
+aVDevon
+p2475
+aa(lp2476
 S'Bert Lunn'
-p2259
+p2477
 aS'1949'
-p2260
+p2478
 aS'Flanker'
-p2261
+p2479
 aS'2'
 aS'0'
 aS'2'
@@ -5974,20 +6477,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Alexandra'
-p2262
+p2480
 aVNew Zealand/Aotearoa
-p2263
+p2481
 aVOtago
-p2264
+p2482
 aVCentral Otago District
-p2265
-aa(lp2266
+p2483
+aVAlexandra
+p2484
+aa(lp2485
 S'Graham Moore'
-p2267
+p2486
 aS'1949'
-p2268
+p2487
 aS'Wing'
-p2269
+p2488
 aS'1'
 aS'0'
 aS'1'
@@ -5995,20 +6500,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Wellington'
-p2270
+p2489
 aVNew Zealand/Aotearoa
-p2271
+p2490
 aVWellington
-p2272
+p2491
 aVWellington City
-p2273
-aa(lp2274
+p2492
+aVWellington
+p2493
+aa(lp2494
 S'Bill Mumm'
-p2275
+p2495
 aS'1949'
-p2276
+p2496
 aS'Prop'
-p2277
+p2497
 aS'1'
 aS'0'
 aS'1'
@@ -6016,20 +6523,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Mokihinui'
-p2278
+p2498
 aVNew Zealand/Aotearoa
-p2279
+p2499
 aVWest Coast
-p2280
+p2500
 aVBuller District
-p2281
-aa(lp2282
+p2501
+aVMokihinui
+p2502
+aa(lp2503
 S'Rex Orr'
-p2283
+p2504
 aS'1949'
-p2284
+p2505
 aS'Fullback'
-p2285
+p2506
 aS'1'
 aS'0'
 aS'1'
@@ -6037,20 +6546,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Gore'
-p2286
+p2507
 aVNew Zealand/Aotearoa
-p2287
+p2508
 aVSouthland
-p2288
+p2509
 aVGore District
-p2289
-aa(lp2290
+p2510
+aVGore
+p2511
+aa(lp2512
 S'Bob Stuart'
-p2291
+p2513
 aS'1949'
-p2292
+p2514
 aS'No. 8'
-p2293
+p2515
 aS'7'
 aS'3'
 aS'4'
@@ -6058,42 +6569,45 @@ aS'0'
 aS'1'
 aS'3'
 aS'Dunedin'
-p2294
+p2516
 aVNew Zealand/Aotearoa
-p2295
+p2517
 aVOtago
-p2296
+p2518
 aVDunedin City
-p2297
-aa(lp2298
+p2519
+aVDunedin
+p2520
+aa(lp2521
 S'Tiny White'
-p2299
+p2522
 aS'1949'
-p2300
+p2523
 aS'Lock'
-p2301
+p2524
 aS'23'
-p2302
+p2525
 aS'15'
-p2303
+p2526
 aS'7'
 aS'1'
 aS'3'
 aS'9'
 aS'Gisborne'
-p2304
+p2527
 aVNew Zealand/Aotearoa
-p2305
+p2528
 aVGisborne
-p2306
-ag53
-aa(lp2307
+p2529
+ag41
+ag41
+aa(lp2530
 S'Hector Wilson'
-p2308
+p2531
 aS'1949'
-p2309
+p2532
 aS'Prop'
-p2310
+p2533
 aS'5'
 aS'4'
 aS'1'
@@ -6101,20 +6615,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Beaumont'
-p2311
+p2534
 aVUnited States of America
-p2312
+p2535
 aVTexas
-p2313
+p2536
 aVJefferson County
-p2314
-aa(lp2315
+p2537
+aVBeaumont
+p2538
+aa(lp2539
 S'Neville Black'
-p2316
+p2540
 aS'1949'
-p2317
+p2541
 aS'Scrum-half'
-p2318
+p2542
 aS'1'
 aS'0'
 aS'1'
@@ -6122,20 +6638,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Kawakawa'
-p2319
+p2543
 aVNew Zealand/Aotearoa
-p2320
+p2544
 aVNorthland
-p2321
+p2545
 aVFar North District
-p2322
-aa(lp2323
+p2546
+aVKawakawa
+p2547
+aa(lp2548
 S'Pat Crowley'
-p2324
+p2549
 aS'1949'
-p2325
+p2550
 aS'Flanker'
-p2326
+p2551
 aS'6'
 aS'3'
 aS'2'
@@ -6143,20 +6661,22 @@ aS'1'
 aS'1'
 aS'3'
 aS'Wanganui'
-p2327
+p2552
 aVNew Zealand/Aotearoa
-p2328
+p2553
 aVManawatu-Wanganui
-p2329
+p2554
 aVWanganui District
-p2330
-aa(lp2331
+p2555
+aVWhanganui
+p2556
+aa(lp2557
 S'Desmond Christian'
-p2332
+p2558
 aS'1949'
-p2333
+p2559
 aS'No. 8'
-p2334
+p2560
 aS'1'
 aS'0'
 aS'1'
@@ -6164,19 +6684,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p2335
+p2561
 aVNew Zealand/Aotearoa
-p2336
+p2562
 aVAuckland
-p2337
-ag53
-aa(lp2338
+p2563
+ag41
+ag41
+aa(lp2564
 S'Red Delamore'
-p2339
+p2565
 aS'1949'
-p2340
+p2566
 aS'Fly-half'
-p2341
+p2567
 aS'1'
 aS'0'
 aS'1'
@@ -6184,20 +6705,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Thames'
-p2342
+p2568
 aVNew Zealand/Aotearoa
-p2343
+p2569
 aVWaikato
-p2344
+p2570
 aVThames Coromandel District
-p2345
-aa(lp2346
+p2571
+aVThames
+p2572
+aa(lp2573
 S'Jack Bond'
-p2347
+p2574
 aS'1949'
-p2348
+p2575
 aS'Prop'
-p2349
+p2576
 aS'1'
 aS'0'
 aS'1'
@@ -6205,20 +6728,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Carterton'
-p2350
+p2577
 aVNew Zealand/Aotearoa
-p2351
+p2578
 aVWellington
-p2352
+p2579
 aVCarterton District
-p2353
-aa(lp2354
+p2580
+aVCarterton
+p2581
+aa(lp2582
 S"Ray O'Callaghan"
-p2355
+p2583
 aS'1949'
-p2356
+p2584
 aS'Five-eighth'
-p2357
+p2585
 aS'1'
 aS'0'
 aS'1'
@@ -6226,20 +6751,22 @@ aS'0'
 aS'0'
 aS'3'
 aS'Wellington'
-p2358
+p2586
 aVNew Zealand/Aotearoa
-p2359
+p2587
 aVWellington
-p2360
+p2588
 aVWellington City
-p2361
-aa(lp2362
+p2589
+aVWellington
+p2590
+aa(lp2591
 S"Des O'Donnell"
-p2363
+p2592
 aS'1949'
-p2364
+p2593
 aS'Prop'
-p2365
+p2594
 aS'1'
 aS'0'
 aS'1'
@@ -6247,20 +6774,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Palmerston North'
-p2366
+p2595
 aVNew Zealand/Aotearoa
-p2367
+p2596
 aVManawatu-Wanganui
-p2368
+p2597
 aVPalmerston North City
-p2369
-aa(lp2370
+p2598
+aVPalmerston North
+p2599
+aa(lp2600
 S'Roy Roper'
-p2371
+p2601
 aS'1949'
-p2372
+p2602
 aS'Centre'
-p2373
+p2603
 aS'5'
 aS'3'
 aS'1'
@@ -6268,20 +6797,22 @@ aS'1'
 aS'3'
 aS'9'
 aS'Owhango'
-p2374
+p2604
 aVNew Zealand/Aotearoa
-p2375
+p2605
 aVManawatu-Wanganui
-p2376
+p2606
 aVRuapehu District
-p2377
-aa(lp2378
+p2607
+aVOwhango
+p2608
+aa(lp2609
 S'Harry Rowley'
-p2379
+p2610
 aS'1949'
-p2380
+p2611
 aS'No. 8'
-p2381
+p2612
 aS'1'
 aS'0'
 aS'1'
@@ -6289,20 +6820,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Cromwell'
-p2382
+p2613
 aVUnited States of America
-p2383
+p2614
 aV89109
-p2384
+p2615
 aVNevada
-p2385
-aa(lp2386
+p2616
+aVClark County
+p2617
+aa(lp2618
 S'George Beatty'
-p2387
+p2619
 aS'1950'
-p2388
+p2620
 aS'Fly-half'
-p2389
+p2621
 aS'1'
 aS'0'
 aS'0'
@@ -6310,20 +6843,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'New Plymouth'
-p2390
+p2622
 aVNew Zealand/Aotearoa
-p2391
+p2623
 aVTaranaki
-p2392
+p2624
 aVNew Plymouth District
-p2393
-aa(lp2394
+p2625
+aVNew Plymouth
+p2626
+aa(lp2627
 S'Brownie Cherrington'
-p2395
+p2628
 aS'1950'
-p2396
+p2629
 aS'Wing'
-p2397
+p2630
 aS'1'
 aS'0'
 aS'0'
@@ -6331,20 +6866,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Otiria'
-p2398
+p2631
 aVNew Zealand/Aotearoa
-p2399
+p2632
 aVNorthland
-p2400
+p2633
 aVFar North District
-p2401
-aa(lp2402
+p2634
+aVMoerewa
+p2635
+aa(lp2636
 S'Laurie Haig'
-p2403
+p2637
 aS'1950'
-p2404
+p2638
 aS'Fly-half'
-p2405
+p2639
 aS'9'
 aS'8'
 aS'1'
@@ -6352,20 +6889,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Prestonpans'
-p2406
+p2640
 aVUnited Kingdom
-p2407
+p2641
 aVScotland
-p2408
+p2642
 aVEast Lothian
-p2409
-aa(lp2410
+p2643
+aVPrestonpans
+p2644
+aa(lp2645
 S'Graham Mexted'
-p2411
+p2646
 aS'1950'
-p2412
+p2647
 aS'No. 8'
-p2413
+p2648
 aS'1'
 aS'1'
 aS'0'
@@ -6373,20 +6912,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Greytown'
-p2414
+p2649
 aVNew Zealand/Aotearoa
-p2415
+p2650
 aVWellington
-p2416
+p2651
 aVSouth Wairarapa District
-p2417
-aa(lp2418
+p2652
+aVGreytown
+p2653
+aa(lp2654
 S'John Tanner'
-p2419
+p2655
 aS'1950'
-p2420
+p2656
 aS'Centre'
-p2421
+p2657
 aS'5'
 aS'4'
 aS'1'
@@ -6394,63 +6935,68 @@ aS'0'
 aS'1'
 aS'3'
 aS'Auckland'
-p2422
+p2658
 aVNew Zealand/Aotearoa
-p2423
+p2659
 aVAuckland
-p2424
-ag53
-aa(lp2425
+p2660
+ag41
+ag41
+aa(lp2661
 S'Snow Cockerill'
-p2426
+p2662
 aS'1951'
-p2427
+p2663
 aS'Fullback'
-p2428
+p2664
 aS'3'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
 aS'11'
-p2429
+p2665
 aS'Hawera'
-p2430
+p2666
 aVNew Zealand/Aotearoa
-p2431
+p2667
 aVTaranaki
-p2432
+p2668
 aVSouth Taranaki District
-p2433
-aa(lp2434
+p2669
+aVHawera
+p2670
+aa(lp2671
 S'Bob Duff'
-p2435
+p2672
 aS'1951'
-p2436
+p2673
 aS'Lock'
-p2437
+p2674
 aS'11'
-p2438
+p2675
 aS'8'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
 aS'Lyttelton'
-p2439
+p2676
 aVNew Zealand/Aotearoa
-p2440
+p2677
 aVCanterbury
-p2441
+p2678
 aVChristchurch City
-p2442
-aa(lp2443
+p2679
+aVChristchurch
+p2680
+aa(lp2681
 S'Percy Erceg'
-p2444
+p2682
 aS'1951'
-p2445
+p2683
 aS'Wing'
-p2446
+p2684
 aS'4'
 aS'3'
 aS'1'
@@ -6458,44 +7004,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Waipapakauri'
-p2447
+p2685
 aVNew Zealand/Aotearoa
-p2448
+p2686
 aVNorthland
-p2449
+p2687
 aVFar North District
-p2450
-aa(lp2451
+p2688
+aVUnahi
+p2689
+aa(lp2690
 S'Ronald Jarden'
-p2452
+p2691
 aS'1951'
-p2453
+p2692
 aS'Wing'
-p2454
+p2693
 aS'16'
-p2455
+p2694
 aS'11'
-p2456
+p2695
 aS'5'
 aS'0'
 aS'7'
 aS'42'
-p2457
+p2696
 aS'Lower Hutt'
-p2458
+p2697
 aVNew Zealand/Aotearoa
-p2459
+p2698
 aVWellington
-p2460
+p2699
 aVLower Hutt City
-p2461
-aa(lp2462
+p2700
+aVLower Hutt
+p2701
+aa(lp2702
 S'Thomas Lynch'
-p2463
+p2703
 aS'1951'
-p2464
+p2704
 aS'Five-eighth'
-p2465
+p2705
 aS'3'
 aS'3'
 aS'0'
@@ -6503,20 +7053,22 @@ aS'0'
 aS'2'
 aS'9'
 aS'Naseby'
-p2466
+p2706
 aVUnited Kingdom
-p2467
+p2707
 aVEngland
-p2468
+p2708
 aVEast Midlands
-p2469
-aa(lp2470
+p2709
+aVNorthamptonshire
+p2710
+aa(lp2711
 S'William McCaw'
-p2471
+p2712
 aS'1951'
-p2472
+p2713
 aS'No. 8'
-p2473
+p2714
 aS'5'
 aS'3'
 aS'2'
@@ -6524,20 +7076,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Gore'
-p2474
+p2715
 aVNew Zealand/Aotearoa
-p2475
+p2716
 aVSouthland
-p2476
+p2717
 aVGore District
-p2477
-aa(lp2478
+p2718
+aVGore
+p2719
+aa(lp2720
 S'Charles Robinson'
-p2479
+p2721
 aS'1951'
-p2480
+p2722
 aS'Flanker'
-p2481
+p2723
 aS'5'
 aS'4'
 aS'1'
@@ -6545,20 +7099,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Bluff'
-p2482
+p2724
 aVNew Zealand/Aotearoa
-p2483
+p2725
 aVSouthland
-p2484
+p2726
 aVInvercargill City
-p2485
-aa(lp2486
+p2727
+aVBluff
+p2728
+aa(lp2729
 S'Leo Steele'
-p2487
+p2730
 aS'1951'
-p2488
+p2731
 aS'Scrum-half'
-p2489
+p2732
 aS'3'
 aS'3'
 aS'0'
@@ -6566,20 +7122,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p2490
+p2733
 aVNew Zealand/Aotearoa
-p2491
+p2734
 aVWellington
-p2492
+p2735
 aVWellington City
-p2493
-aa(lp2494
+p2736
+aVWellington
+p2737
+aa(lp2738
 S'Norman Wilson'
-p2495
+p2739
 aS'1951'
-p2496
+p2740
 aS'Hooker'
-p2497
+p2741
 aS'3'
 aS'3'
 aS'0'
@@ -6587,20 +7145,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Masterton'
-p2498
+p2742
 aVNew Zealand/Aotearoa
-p2499
+p2743
 aVWellington
-p2500
+p2744
 aVMasterton District
-p2501
-aa(lp2502
+p2745
+aVMasterton
+p2746
+aa(lp2747
 S'Raymond Bell'
-p2503
+p2748
 aS'1951'
-p2504
+p2749
 aS'Wing'
-p2505
+p2750
 aS'3'
 aS'2'
 aS'1'
@@ -6608,20 +7168,22 @@ aS'0'
 aS'1'
 aS'6'
 aS'Dunedin'
-p2506
+p2751
 aVNew Zealand/Aotearoa
-p2507
+p2752
 aVOtago
-p2508
+p2753
 aVDunedin City
-p2509
-aa(lp2510
+p2754
+aVDunedin
+p2755
+aa(lp2756
 S'Peter Eastgate'
-p2511
+p2757
 aS'1952'
-p2512
+p2758
 aS'Prop'
-p2513
+p2759
 aS'3'
 aS'2'
 aS'1'
@@ -6629,19 +7191,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Nelson'
-p2514
+p2760
 aVNew Zealand/Aotearoa
-p2515
+p2761
 aVNelson
-p2516
-ag53
-aa(lp2517
+p2762
+ag41
+ag41
+aa(lp2763
 S'Allan Elsom'
-p2518
+p2764
 aS'1952'
-p2519
+p2765
 aS'Centre'
-p2520
+p2766
 aS'6'
 aS'3'
 aS'3'
@@ -6649,20 +7212,22 @@ aS'0'
 aS'0'
 aS'3'
 aS'Christchurch'
-p2521
+p2767
 aVNew Zealand/Aotearoa
-p2522
+p2768
 aVCanterbury
-p2523
+p2769
 aVChristchurch City
-p2524
-aa(lp2525
+p2770
+aVChristchurch
+p2771
+aa(lp2772
 S'Jim Fitzgerald'
-p2526
+p2773
 aS'1952'
-p2527
+p2774
 aS'Five-eighth'
-p2528
+p2775
 aS'1'
 aS'0'
 aS'1'
@@ -6670,20 +7235,22 @@ aS'0'
 aS'1'
 aS'3'
 aS'Wellington'
-p2529
+p2776
 aVNew Zealand/Aotearoa
-p2530
+p2777
 aVWellington
-p2531
+p2778
 aVWellington City
-p2532
-aa(lp2533
+p2779
+aVWellington
+p2780
+aa(lp2781
 S'John Hotop'
-p2534
+p2782
 aS'1952'
-p2535
+p2783
 aS'Fly-half'
-p2536
+p2784
 aS'3'
 aS'1'
 aS'2'
@@ -6691,20 +7258,22 @@ aS'0'
 aS'1'
 aS'6'
 aS'Alexandra'
-p2537
+p2785
 aVNew Zealand/Aotearoa
-p2538
+p2786
 aVOtago
-p2539
+p2787
 aVCentral Otago District
-p2540
-aa(lp2541
+p2788
+aVAlexandra
+p2789
+aa(lp2790
 S'Ian Irvine'
-p2542
+p2791
 aS'1952'
-p2543
+p2792
 aS'Hooker'
-p2544
+p2793
 aS'1'
 aS'0'
 aS'1'
@@ -6712,679 +7281,42 @@ aS'0'
 aS'0'
 aS'0'
 aS'Carterton'
-p2545
-aVNew Zealand/Aotearoa
-p2546
-aVWellington
-p2547
-aVCarterton District
-p2548
-aa(lp2549
-S'Hugh McLaren'
-p2550
-aS'1952'
-p2551
-aS'No. 8'
-p2552
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p2553
-aVNew Zealand/Aotearoa
-p2554
-aVAuckland
-p2555
-ag53
-aa(lp2556
-S'Kevin Meates'
-p2557
-aS'1952'
-p2558
-aS'No. 8'
-p2559
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Greymouth'
-p2560
-aVNew Zealand/Aotearoa
-p2561
-aVWest Coast
-p2562
-aVGrey District
-p2563
-aa(lp2564
-S'Ponty Reid'
-p2565
-aS'1952'
-p2566
-aS'Scrum-half'
-p2567
-aS'5'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Te Kuiti'
-p2568
-aVNew Zealand/Aotearoa
-p2569
-aVWaikato
-p2570
-aVWaitomo District
-p2571
-aa(lp2572
-S'Noel Bowden'
-p2573
-aS'1952'
-p2574
-aS'Fullback'
-p2575
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'3'
-aS'Whangarei'
-p2576
-aVNew Zealand/Aotearoa
-p2577
-aVNorthland
-p2578
-aVWhangarei District
-p2579
-aa(lp2580
-S'Mick Bremner'
-p2581
-aS'1952'
-p2582
-aS'Five-eighth'
-p2583
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Otorohanga'
-p2584
-aVNew Zealand/Aotearoa
-p2585
-aVWaikato
-p2586
-aVOtorohanga District
-p2587
-aa(lp2588
-S'Keith Davis'
-p2589
-aS'1952'
-p2590
-aS'Scrum-half'
-p2591
-aS'10'
-p2592
-aS'7'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Whakatane'
-p2593
-aVNew Zealand/Aotearoa
-p2594
-aVBay of Plenty
-p2595
-aVWhakatane District
-p2596
-aa(lp2597
-S'Ian Hammond'
-p2598
-aS'1952'
-p2599
-aS'Hooker'
-p2600
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Blenheim'
-p2601
-aVNew Zealand/Aotearoa
-p2602
-aVMarlborough
-p2603
-aVBlenheim
-p2604
-aa(lp2605
-S'Jack Skeen'
-p2606
-aS'1952'
-p2607
-aS'Flanker'
-p2608
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p2609
-aVNew Zealand/Aotearoa
-p2610
-aVAuckland
-p2611
-ag53
-aa(lp2612
-S'Bill Clark'
-p2613
-aS'1953'
-p2614
-aS'Flanker'
-p2615
-aS'9'
-aS'7'
-aS'2'
-aS'0'
-aS'3'
-aS'9'
-aS'Motueka'
-p2616
-aVNew Zealand/Aotearoa
-p2617
-aVTasman
-p2618
-aVMotueka
-p2619
-aa(lp2620
-S'Ian Clarke'
-p2621
-aS'1953'
-p2622
-aS'Prop'
-p2623
-aS'24'
-p2624
-aS'19'
-p2625
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'Kaponga'
-p2626
-aVNew Zealand/Aotearoa
-p2627
-aVTaranaki
-p2628
-aVSouth Taranaki District
-p2629
-aa(lp2630
-S'Nelson Dalzell'
-p2631
-aS'1953'
-p2632
-aS'Lock'
-p2633
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'1'
-aS'3'
-aS'N.Cant.'
-p2634
-aVUnited States of America
-p2635
-aVOhio
-p2636
-aVStark County
-p2637
-aa(lp2638
-S'Brian Fitzpatrick'
-p2639
-aS'1953'
-p2640
-aS'Five-eighth'
-p2641
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Opotiki'
-p2642
-aVNew Zealand/Aotearoa
-p2643
-aVBay of Plenty
-p2644
-aVOpotiki District
-p2645
-aa(lp2646
-S'Ron Hemi'
-p2647
-aS'1953'
-p2648
-aS'Hooker'
-p2649
-aS'16'
-p2650
-aS'12'
-p2651
-aS'4'
-aS'0'
-aS'1'
-aS'3'
-aS'Whangarei'
-p2652
-aVNew Zealand/Aotearoa
-p2653
-aVNorthland
-p2654
-aVWhangarei District
-p2655
-aa(lp2656
-S'Richard Bowers'
-p2657
-aS'1954'
-p2658
-aS'Fly-half'
-p2659
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Rawhiti'
-p2660
-aVNew Zealand/Aotearoa
-p2661
-aV6145
-p2662
-aVWellington
-p2663
-aa(lp2664
-S'Morrie Dixon'
-p2665
-aS'1954'
-p2666
-aS'Wing'
-p2667
-aS'10'
-p2668
-aS'8'
-aS'2'
-aS'0'
-aS'2'
-aS'6'
-aS'Christchurch'
-p2669
-aVNew Zealand/Aotearoa
-p2670
-aVCanterbury
-p2671
-aVChristchurch City
-p2672
-aa(lp2673
-S'Colin Loader'
-p2674
-aS'1954'
-p2675
-aS'Centre'
-p2676
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Dannevirke'
-p2677
-aVNew Zealand/Aotearoa
-p2678
-aVManawatu-Wanganui
-p2679
-aVTararua District
-p2680
-aa(lp2681
-S'Desmond Oliver'
-p2682
-aS'1954'
-p2683
-aS'Flanker'
-p2684
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Palmerston North'
-p2685
-aVNew Zealand/Aotearoa
-p2686
-aVManawatu-Wanganui
-p2687
-aVPalmerston North City
-p2688
-aa(lp2689
-S'Snow White'
-p2690
-aS'1954'
-p2691
-aS'Prop'
-p2692
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Kawakawa'
-p2693
-aVNew Zealand/Aotearoa
-p2694
-aVNorthland
-p2695
-aVFar North District
-p2696
-aa(lp2697
-S'Tiger Hilton-Jones'
-p2698
-aS'1954'
-p2699
-aS'Flanker'
-p2700
-aS'11'
-p2701
-aS'9'
-aS'2'
-aS'0'
-aS'2'
-aS'6'
-aS'Kaitaia'
-p2702
-aVNew Zealand/Aotearoa
-p2703
-aVNorthland
-p2704
-aVFar North District
-p2705
-aa(lp2706
-S'Douglas Wilson'
-p2707
-aS'1954'
-p2708
-aS'Five-eighth'
-p2709
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Wanganui'
-p2710
-aVNew Zealand/Aotearoa
-p2711
-aVManawatu-Wanganui
-p2712
-aVWanganui District
-p2713
-aa(lp2714
-S'Robin Archer'
-p2715
-aS'1955'
-p2716
-aS'Fly-half'
-p2717
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Gore'
-p2718
-aVNew Zealand/Aotearoa
-p2719
-aVSouthland
-p2720
-aVGore District
-p2721
-aa(lp2722
-S'Peter Burke'
-p2723
-aS'1955'
-p2724
-aS'No. 8'
-p2725
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Tauranga'
-p2726
-aVNew Zealand/Aotearoa
-p2727
-aVBay of Plenty
-p2728
-aVTauranga City
-p2729
-aa(lp2730
-S'Mark Irwin'
-p2731
-aS'1955'
-p2732
-aS'Prop'
-p2733
-aS'7'
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Gisborne'
-p2734
-aVNew Zealand/Aotearoa
-p2735
-aVGisborne
-p2736
-ag53
-aa(lp2737
-S'Ross Smith'
-p2738
-aS'1955'
-p2739
-aS'Wing'
-p2740
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Ashburton'
-p2741
-aVUnited Kingdom
-p2742
-aVEngland
-p2743
-aVSouth West England
-p2744
-aa(lp2745
-S'Kevin Stuart'
-p2746
-aS'1955'
-p2747
-aS'Fullback'
-p2748
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Dunedin'
-p2749
-aVNew Zealand/Aotearoa
-p2750
-aVOtago
-p2751
-aVDunedin City
-p2752
-aa(lp2753
-S'Lindsay Townsend'
-p2754
-aS'1955'
-p2755
-aS'Scrum-half'
-p2756
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Mataura'
-p2757
-aVNew Zealand/Aotearoa
-p2758
-aVSouthland
-p2759
-aVGore District
-p2760
-aa(lp2761
-S'Ivan Vodanovich'
-p2762
-aS'1955'
-p2763
-aS'Prop'
-p2764
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'Wanganui'
-p2765
-aVNew Zealand/Aotearoa
-p2766
-aVManawatu-Wanganui
-p2767
-aVWanganui District
-p2768
-aa(lp2769
-S'Pat Walsh'
-p2770
-aS'1955'
-p2771
-aS'Fullback'
-p2772
-aS'13'
-p2773
-aS'10'
-p2774
-aS'3'
-aS'0'
-aS'4'
-aS'12'
-p2775
-aS'Kaitaia'
-p2776
-aVNew Zealand/Aotearoa
-p2777
-aVNorthland
-p2778
-aVFar North District
-p2779
-aa(lp2780
-S'Bill Gray'
-p2781
-aS'1955'
-p2782
-aS'Five-eighth'
-p2783
-aS'6'
-aS'4'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Te Puke'
-p2784
-aVNew Zealand/Aotearoa
-p2785
-aVBay of Plenty
-p2786
-aVWestern Bay of Plenty District
-p2787
-aa(lp2788
-S'Tom Katene'
-p2789
-aS'1955'
-p2790
-aS'Wing'
-p2791
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Taranaki'
-p2792
-aVNew Zealand/Aotearoa
-p2793
-aVTaranaki
 p2794
-ag53
-aa(lp2795
-S'Ross Brown'
-p2796
-aS'1955'
-p2797
-aS'Fly-half'
-p2798
-aS'16'
-p2799
-aS'13'
-p2800
-aS'3'
-aS'0'
-aS'3'
-aS'12'
-p2801
-aS'New Plymouth'
-p2802
 aVNew Zealand/Aotearoa
+p2795
+aVWellington
+p2796
+aVCarterton District
+p2797
+aVCarterton
+p2798
+aa(lp2799
+S'Hugh McLaren'
+p2800
+aS'1952'
+p2801
+aS'No. 8'
+p2802
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
 p2803
-aVTaranaki
+aVNew Zealand/Aotearoa
 p2804
-aVNew Plymouth District
+aVAuckland
 p2805
+ag41
+ag41
 aa(lp2806
-S'John Buxton'
+S'Kevin Meates'
 p2807
-aS'1955'
+aS'1952'
 p2808
-aS'Flanker'
+aS'No. 8'
 p2809
 aS'2'
 aS'1'
@@ -7392,42 +7324,740 @@ aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'Auckland'
+aS'Greymouth'
 p2810
 aVNew Zealand/Aotearoa
 p2811
-aVAuckland
+aVWest Coast
 p2812
-ag53
-aa(lp2813
-S'Tiny Hill'
+aVGrey District
+p2813
+aVGreymouth
 p2814
-aS'1955'
-p2815
-aS'Lock'
+aa(lp2815
+S'Ponty Reid'
 p2816
-aS'11'
+aS'1952'
 p2817
+aS'Scrum-half'
+p2818
+aS'5'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Te Kuiti'
+p2819
+aVNew Zealand/Aotearoa
+p2820
+aVWaikato
+p2821
+aVWaitomo District
+p2822
+aVTe Kuiti
+p2823
+aa(lp2824
+S'Noel Bowden'
+p2825
+aS'1952'
+p2826
+aS'Fullback'
+p2827
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'3'
+aS'Whangarei'
+p2828
+aVNew Zealand/Aotearoa
+p2829
+aVNorthland
+p2830
+aVWhangarei District
+p2831
+aVWhangarei
+p2832
+aa(lp2833
+S'Mick Bremner'
+p2834
+aS'1952'
+p2835
+aS'Five-eighth'
+p2836
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Otorohanga'
+p2837
+aVNew Zealand/Aotearoa
+p2838
+aVWaikato
+p2839
+aVOtorohanga District
+p2840
+aVOtorohanga
+p2841
+aa(lp2842
+S'Keith Davis'
+p2843
+aS'1952'
+p2844
+aS'Scrum-half'
+p2845
+aS'10'
+p2846
+aS'7'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Whakatane'
+p2847
+aVNew Zealand/Aotearoa
+p2848
+aVBay of Plenty
+p2849
+aVWhakatane District
+p2850
+aVWhakatane
+p2851
+aa(lp2852
+S'Ian Hammond'
+p2853
+aS'1952'
+p2854
+aS'Hooker'
+p2855
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Blenheim'
+p2856
+aVNew Zealand/Aotearoa
+p2857
+aVMarlborough
+p2858
+aVBlenheim
+p2859
+ag41
+aa(lp2860
+S'Jack Skeen'
+p2861
+aS'1952'
+p2862
+aS'Flanker'
+p2863
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p2864
+aVNew Zealand/Aotearoa
+p2865
+aVAuckland
+p2866
+ag41
+ag41
+aa(lp2867
+S'Bill Clark'
+p2868
+aS'1953'
+p2869
+aS'Flanker'
+p2870
+aS'9'
+aS'7'
+aS'2'
+aS'0'
+aS'3'
+aS'9'
+aS'Motueka'
+p2871
+aVNew Zealand/Aotearoa
+p2872
+aVTasman
+p2873
+aVMotueka
+p2874
+ag41
+aa(lp2875
+S'Ian Clarke'
+p2876
+aS'1953'
+p2877
+aS'Prop'
+p2878
+aS'24'
+p2879
+aS'19'
+p2880
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Kaponga'
+p2881
+aVNew Zealand/Aotearoa
+p2882
+aVTaranaki
+p2883
+aVSouth Taranaki District
+p2884
+aVKaponga
+p2885
+aa(lp2886
+S'Nelson Dalzell'
+p2887
+aS'1953'
+p2888
+aS'Lock'
+p2889
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'1'
+aS'3'
+aS'N.Cant.'
+p2890
+aVUnited States of America
+p2891
+aVOhio
+p2892
+aVStark County
+p2893
+aVNorth Canton
+p2894
+aa(lp2895
+S'Brian Fitzpatrick'
+p2896
+aS'1953'
+p2897
+aS'Five-eighth'
+p2898
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Opotiki'
+p2899
+aVNew Zealand/Aotearoa
+p2900
+aVBay of Plenty
+p2901
+aVOpotiki District
+p2902
+aVOpotiki
+p2903
+aa(lp2904
+S'Ron Hemi'
+p2905
+aS'1953'
+p2906
+aS'Hooker'
+p2907
+aS'16'
+p2908
+aS'12'
+p2909
+aS'4'
+aS'0'
+aS'1'
+aS'3'
+aS'Whangarei'
+p2910
+aVNew Zealand/Aotearoa
+p2911
+aVNorthland
+p2912
+aVWhangarei District
+p2913
+aVWhangarei
+p2914
+aa(lp2915
+S'Richard Bowers'
+p2916
+aS'1954'
+p2917
+aS'Fly-half'
+p2918
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Rawhiti'
+p2919
+aVNew Zealand/Aotearoa
+p2920
+aV6145
+p2921
+aVWellington
+p2922
+aVWellington City
+p2923
+aa(lp2924
+S'Morrie Dixon'
+p2925
+aS'1954'
+p2926
+aS'Wing'
+p2927
+aS'10'
+p2928
+aS'8'
+aS'2'
+aS'0'
+aS'2'
+aS'6'
+aS'Christchurch'
+p2929
+aVNew Zealand/Aotearoa
+p2930
+aVCanterbury
+p2931
+aVChristchurch City
+p2932
+aVChristchurch
+p2933
+aa(lp2934
+S'Colin Loader'
+p2935
+aS'1954'
+p2936
+aS'Centre'
+p2937
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Dannevirke'
+p2938
+aVNew Zealand/Aotearoa
+p2939
+aVManawatu-Wanganui
+p2940
+aVTararua District
+p2941
+aVDannevirke
+p2942
+aa(lp2943
+S'Desmond Oliver'
+p2944
+aS'1954'
+p2945
+aS'Flanker'
+p2946
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Palmerston North'
+p2947
+aVNew Zealand/Aotearoa
+p2948
+aVManawatu-Wanganui
+p2949
+aVPalmerston North City
+p2950
+aVPalmerston North
+p2951
+aa(lp2952
+S'Snow White'
+p2953
+aS'1954'
+p2954
+aS'Prop'
+p2955
+aS'4'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Kawakawa'
+p2956
+aVNew Zealand/Aotearoa
+p2957
+aVNorthland
+p2958
+aVFar North District
+p2959
+aVKawakawa
+p2960
+aa(lp2961
+S'Tiger Hilton-Jones'
+p2962
+aS'1954'
+p2963
+aS'Flanker'
+p2964
+aS'11'
+p2965
+aS'9'
+aS'2'
+aS'0'
+aS'2'
+aS'6'
+aS'Kaitaia'
+p2966
+aVNew Zealand/Aotearoa
+p2967
+aVNorthland
+p2968
+aVFar North District
+p2969
+aVKaitaia
+p2970
+aa(lp2971
+S'Douglas Wilson'
+p2972
+aS'1954'
+p2973
+aS'Five-eighth'
+p2974
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Wanganui'
+p2975
+aVNew Zealand/Aotearoa
+p2976
+aVManawatu-Wanganui
+p2977
+aVWanganui District
+p2978
+aVWhanganui
+p2979
+aa(lp2980
+S'Robin Archer'
+p2981
+aS'1955'
+p2982
+aS'Fly-half'
+p2983
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Gore'
+p2984
+aVNew Zealand/Aotearoa
+p2985
+aVSouthland
+p2986
+aVGore District
+p2987
+aVGore
+p2988
+aa(lp2989
+S'Peter Burke'
+p2990
+aS'1955'
+p2991
+aS'No. 8'
+p2992
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tauranga'
+p2993
+aVNew Zealand/Aotearoa
+p2994
+aVBay of Plenty
+p2995
+aVTauranga City
+p2996
+aVTauranga
+p2997
+aa(lp2998
+S'Mark Irwin'
+p2999
+aS'1955'
+p3000
+aS'Prop'
+p3001
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Gisborne'
+p3002
+aVNew Zealand/Aotearoa
+p3003
+aVGisborne
+p3004
+ag41
+ag41
+aa(lp3005
+S'Ross Smith'
+p3006
+aS'1955'
+p3007
+aS'Wing'
+p3008
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Ashburton'
+p3009
+aVUnited Kingdom
+p3010
+aVEngland
+p3011
+aVSouth West England
+p3012
+aVDevon
+p3013
+aa(lp3014
+S'Kevin Stuart'
+p3015
+aS'1955'
+p3016
+aS'Fullback'
+p3017
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Dunedin'
+p3018
+aVNew Zealand/Aotearoa
+p3019
+aVOtago
+p3020
+aVDunedin City
+p3021
+aVDunedin
+p3022
+aa(lp3023
+S'Lindsay Townsend'
+p3024
+aS'1955'
+p3025
+aS'Scrum-half'
+p3026
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Mataura'
+p3027
+aVNew Zealand/Aotearoa
+p3028
+aVSouthland
+p3029
+aVGore District
+p3030
+aVMataura
+p3031
+aa(lp3032
+S'Ivan Vodanovich'
+p3033
+aS'1955'
+p3034
+aS'Prop'
+p3035
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Wanganui'
+p3036
+aVNew Zealand/Aotearoa
+p3037
+aVManawatu-Wanganui
+p3038
+aVWanganui District
+p3039
+aVWhanganui
+p3040
+aa(lp3041
+S'Pat Walsh'
+p3042
+aS'1955'
+p3043
+aS'Fullback'
+p3044
+aS'13'
+p3045
+aS'10'
+p3046
+aS'3'
+aS'0'
+aS'4'
+aS'12'
+p3047
+aS'Kaitaia'
+p3048
+aVNew Zealand/Aotearoa
+p3049
+aVNorthland
+p3050
+aVFar North District
+p3051
+aVKaitaia
+p3052
+aa(lp3053
+S'Bill Gray'
+p3054
+aS'1955'
+p3055
+aS'Five-eighth'
+p3056
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Te Puke'
+p3057
+aVNew Zealand/Aotearoa
+p3058
+aVBay of Plenty
+p3059
+aVWestern Bay of Plenty District
+p3060
+aVTe Puke
+p3061
+aa(lp3062
+S'Tom Katene'
+p3063
+aS'1955'
+p3064
+aS'Wing'
+p3065
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Taranaki'
+p3066
+aVNew Zealand/Aotearoa
+p3067
+aVTaranaki
+p3068
+ag41
+ag41
+aa(lp3069
+S'Ross Brown'
+p3070
+aS'1955'
+p3071
+aS'Fly-half'
+p3072
+aS'16'
+p3073
+aS'13'
+p3074
+aS'3'
+aS'0'
+aS'3'
+aS'12'
+p3075
+aS'New Plymouth'
+p3076
+aVNew Zealand/Aotearoa
+p3077
+aVTaranaki
+p3078
+aVNew Plymouth District
+p3079
+aVNew Plymouth
+p3080
+aa(lp3081
+S'John Buxton'
+p3082
+aS'1955'
+p3083
+aS'Flanker'
+p3084
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p3085
+aVNew Zealand/Aotearoa
+p3086
+aVAuckland
+p3087
+ag41
+ag41
+aa(lp3088
+S'Tiny Hill'
+p3089
+aS'1955'
+p3090
+aS'Lock'
+p3091
+aS'11'
+p3092
 aS'9'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
 aS'New Plymouth'
-p2818
+p3093
 aVNew Zealand/Aotearoa
-p2819
+p3094
 aVTaranaki
-p2820
+p3095
 aVNew Plymouth District
-p2821
-aa(lp2822
+p3096
+aVNew Plymouth
+p3097
+aa(lp3098
 S'Donald McIntosh'
-p2823
+p3099
 aS'1956'
-p2824
+p3100
 aS'Flanker'
-p2825
+p3101
 aS'4'
 aS'3'
 aS'1'
@@ -7435,20 +8065,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lower Hutt'
-p2826
+p3102
 aVNew Zealand/Aotearoa
-p2827
+p3103
 aVWellington
-p2828
+p3104
 aVLower Hutt City
-p2829
-aa(lp2830
+p3105
+aVLower Hutt
+p3106
+aa(lp3107
 S'Patrick Vincent'
-p2831
+p3108
 aS'1956'
-p2832
+p3109
 aS'Scrum-half'
-p2833
+p3110
 aS'2'
 aS'1'
 aS'1'
@@ -7456,20 +8088,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wataroa'
-p2834
+p3111
 aVNew Zealand/Aotearoa
-p2835
+p3112
 aVTaranaki
-p2836
+p3113
 aVSouth Taranaki District
-p2837
-aa(lp2838
+p3114
+aVPungarehu
+p3115
+aa(lp3116
 S'Francis McAtamney'
-p2839
+p3117
 aS'1956'
-p2840
+p3118
 aS'Prop'
-p2841
+p3119
 aS'1'
 aS'0'
 aS'1'
@@ -7477,824 +8111,122 @@ aS'0'
 aS'0'
 aS'0'
 aS'Middlemarch'
-p2842
+p3120
 aVCanada
-p2843
+p3121
 aVOntario
-p2844
+p3122
 aVElgin County
-p2845
-aa(lp2846
+p3123
+aVSouthwold
+p3124
+aa(lp3125
 S'Ian MacEwan'
-p2847
+p3126
 aS'1956'
-p2848
+p3127
 aS'Lock'
-p2849
+p3128
 aS'20'
-p2850
+p3129
 aS'14'
-p2851
+p3130
 aS'4'
 aS'2'
 aS'2'
 aS'6'
 aS'Auckland'
-p2852
+p3131
 aVNew Zealand/Aotearoa
-p2853
+p3132
 aVAuckland
-p2854
-ag53
-aa(lp2855
+p3133
+ag41
+ag41
+aa(lp3134
 S'Denis Young'
-p2856
+p3135
 aS'1956'
-p2857
+p3136
 aS'Hooker'
-p2858
+p3137
 aS'22'
-p2859
+p3138
 aS'15'
-p2860
+p3139
 aS'4'
 aS'3'
 aS'0'
 aS'0'
 aS'Christchurch'
-p2861
+p3140
 aVNew Zealand/Aotearoa
-p2862
+p3141
 aVCanterbury
-p2863
+p3142
 aVChristchurch City
-p2864
-aa(lp2865
+p3143
+aVChristchurch
+p3144
+aa(lp3145
 S'Don Clarke'
-p2866
+p3146
 aS'1956'
-p2867
+p3147
 aS'Fullback'
-p2868
+p3148
 aS'31'
-p2869
+p3149
 aS'24'
-p2870
+p3150
 aS'4'
 aS'3'
 aS'2'
 aS'207'
-p2871
-aS'Pihama'
-p2872
-aVNew Zealand/Aotearoa
-p2873
-aVTaranaki
-p2874
-aVSouth Taranaki District
-p2875
-aa(lp2876
-S'Terry Lineen'
-p2877
-aS'1957'
-p2878
-aS'Five-eighth'
-p2879
-aS'12'
-p2880
-aS'8'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'Auckland'
-p2881
-aVNew Zealand/Aotearoa
-p2882
-aVAuckland
-p2883
-ag53
-aa(lp2884
-S'Frank McMullen'
-p2885
-aS'1957'
-p2886
-aS'Wing'
-p2887
-aS'11'
-p2888
-aS'8'
-aS'2'
-aS'1'
-aS'4'
-aS'12'
-p2889
-aS'Auckland'
-p2890
-aVNew Zealand/Aotearoa
-p2891
-aVAuckland
-p2892
-ag53
-aa(lp2893
-S'Colin Meads'
-p2894
-aS'1957'
-p2895
-aS'Lock'
-p2896
-aS'55'
-p2897
-aS'41'
-p2898
-aS'10'
-p2899
-aS'4'
-aS'7'
-aS'21'
-p2900
-aS'Cambridge'
-p2901
-aVUnited Kingdom
-p2902
-aVEngland
-p2903
-aVEast of England
-p2904
-aa(lp2905
-S'Wilson Whineray'
-p2906
-aS'1957'
-p2907
-aS'Prop'
-p2908
-aS'32'
-p2909
-aS'24'
-p2910
-aS'5'
-aS'3'
-aS'2'
-aS'6'
-aS'Auckland'
-p2911
-aVNew Zealand/Aotearoa
-p2912
-aVAuckland
-p2913
-ag53
-aa(lp2914
-S'Mick Cossey'
-p2915
-aS'1958'
-p2916
-aS'Wing'
-p2917
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Papakura'
-p2918
-aVNew Zealand/Aotearoa
-p2919
-aVAuckland
-p2920
-aVPapakura
-p2921
-aa(lp2922
-S'Thomas Coughlan'
-p2923
-aS'1958'
-p2924
-aS'Flanker'
-p2925
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Temuka'
-p2926
-aVNew Zealand/Aotearoa
-p2927
-aVCanterbury
-p2928
-aVTimaru District
-p2929
-aa(lp2930
-S'David Graham'
-p2931
-aS'1958'
-p2932
-aS'Flanker'
-p2933
-aS'22'
-p2934
-aS'17'
-p2935
-aS'2'
-aS'3'
-aS'2'
-aS'6'
-aS'Stratford'
-p2936
-aVUnited Kingdom
-p2937
-aVEngland
-p2938
-aVWest Midlands
-p2939
-aa(lp2940
-S'David Ashby'
-p2941
-aS'1958'
-p2942
-aS'Fullback'
-p2943
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Mataura'
-p2944
-aVNew Zealand/Aotearoa
-p2945
-aVSouthland
-p2946
-aVGore District
-p2947
-aa(lp2948
-S'Ernest Pickering'
-p2949
-aS'1958'
-p2950
-aS'Flanker'
-p2951
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Te Kuiti'
-p2952
-aVNew Zealand/Aotearoa
-p2953
-aVWaikato
-p2954
-aVWaitomo District
-p2955
-aa(lp2956
-S'James Watt'
-p2957
-aS'1958'
-p2958
-aS'Wing'
-p2959
-aS'9'
-aS'5'
-aS'3'
-aS'1'
-aS'1'
-aS'3'
-aS'Dunedin'
-p2960
-aVNew Zealand/Aotearoa
-p2961
-aVOtago
-p2962
-aVDunedin City
-p2963
-aa(lp2964
-S'Adrian Clarke'
-p2965
-aS'1958'
-p2966
-aS'Fly-half'
-p2967
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Christchurch'
-p2968
-aVNew Zealand/Aotearoa
-p2969
-aVCanterbury
-p2970
-aVChristchurch City
-p2971
-aa(lp2972
-S'William Gillespie'
-p2973
-aS'1958'
-p2974
-aS'Flanker'
-p2975
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Cromwell'
-p2976
-aVUnited States of America
-p2977
-aV89109
-p2978
-aVNevada
-p2979
-aa(lp2980
-S'Brian Finlay'
-p2981
-aS'1959'
-p2982
-aS'Flanker'
-p2983
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Cromwell'
-p2984
-aVUnited States of America
-p2985
-aV89109
-p2986
-aVNevada
-p2987
-aa(lp2988
-S'Bruce McPhail'
-p2989
-aS'1959'
-p2990
-aS'Wing'
-p2991
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Ashburton'
-p2992
-aVUnited Kingdom
-p2993
-aVEngland
-p2994
-aVSouth West England
-p2995
-aa(lp2996
-S'Spider Urbahn'
-p2997
-aS'1959'
-p2998
-aS'Scrum-half'
-p2999
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'Opunake'
-p3000
-aVNew Zealand/Aotearoa
-p3001
-aVTaranaki
-p3002
-aVSouth Taranaki District
-p3003
-aa(lp3004
-S'Kevin Briscoe'
-p3005
-aS'1959'
-p3006
-aS'Scrum-half'
-p3007
-aS'9'
-aS'5'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'New Plymouth'
-p3008
-aVNew Zealand/Aotearoa
-p3009
-aVTaranaki
-p3010
-aVNew Plymouth District
-p3011
-aa(lp3012
-S'Ralph Caulton'
-p3013
-aS'1959'
-p3014
-aS'Wing'
-p3015
-aS'16'
-p3016
-aS'11'
-p3017
-aS'4'
-aS'1'
-aS'8'
-aS'24'
-p3018
-aS'Wellington'
-p3019
-aVNew Zealand/Aotearoa
-p3020
-aVWellington
-p3021
-aVWellington City
-p3022
-aa(lp3023
-S'Dick Conway'
-p3024
-aS'1959'
-p3025
-aS'No. 8'
-p3026
-aS'10'
-p3027
-aS'5'
-aS'4'
-aS'1'
-aS'1'
-aS'3'
-aS'Whakatane'
-p3028
-aVNew Zealand/Aotearoa
-p3029
-aVBay of Plenty
-p3030
-aVWhakatane District
-p3031
-aa(lp3032
-S'Tuppy Diack'
-p3033
-aS'1959'
-p3034
-aS'Wing'
-p3035
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Invercargill'
-p3036
-aVNew Zealand/Aotearoa
-p3037
-aVSouthland
-p3038
-aVInvercargill City
-p3039
-aa(lp3040
-S'John McCullough'
-p3041
-aS'1959'
-p3042
-aS'Fly-half'
-p3043
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Stratford'
-p3044
-aVUnited Kingdom
-p3045
-aVEngland
-p3046
-aVWest Midlands
-p3047
-aa(lp3048
-S'Kel Tremain'
-p3049
-aS'1959'
-p3050
-aS'Flanker'
-p3051
-aS'38'
-p3052
-aS'30'
-p3053
-aS'5'
-aS'3'
-aS'9'
-aS'27'
-p3054
-aS'Auckland'
-p3055
-aVNew Zealand/Aotearoa
-p3056
-aVAuckland
-p3057
-ag53
-aa(lp3058
-S'Desmond Webb'
-p3059
-aS'1959'
-p3060
-aS'Hooker'
-p3061
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Kawakawa'
-p3062
-aVNew Zealand/Aotearoa
-p3063
-aVNorthland
-p3064
-aVFar North District
-p3065
-aa(lp3066
-S"Terence O'Sullivan"
-p3067
-aS'1960'
-p3068
-aS'Centre'
-p3069
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'1'
-aS'3'
-aS'New Plymouth'
-p3070
-aVNew Zealand/Aotearoa
-p3071
-aVTaranaki
-p3072
-aVNew Plymouth District
-p3073
-aa(lp3074
-S'Ronald Horsley'
-p3075
-aS'1960'
-p3076
-aS'Lock'
-p3077
-aS'3'
-aS'1'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Wellington'
-p3078
-aVNew Zealand/Aotearoa
-p3079
-aVWellington
-p3080
-aVWellington City
-p3081
-aa(lp3082
-S'Kevin Laidlaw'
-p3083
-aS'1960'
-p3084
-aS'Centre'
-p3085
-aS'3'
-aS'1'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Nightcaps'
-p3086
-aVNew Zealand/Aotearoa
-p3087
-aVSouthland
-p3088
-aVThe Nightcaps
-p3089
-aa(lp3090
-S'Steven Nesbit'
-p3091
-aS'1960'
-p3092
-aS'Fly-half'
-p3093
-aS'2'
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Auckland'
-p3094
-aVNew Zealand/Aotearoa
-p3095
-aVAuckland
-p3096
-ag53
-aa(lp3097
-S'Tony Davies'
-p3098
-aS'1960'
-p3099
-aS'Five-eighth'
-p3100
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p3101
-aVNew Zealand/Aotearoa
-p3102
-aVAuckland
-p3103
-ag53
-aa(lp3104
-S'Desmond Connor'
-p3105
-aS'1958'
-p3106
-aS'Scrum-half'
-p3107
-aS'24'
-p3108
-aS'11'
-p3109
-aS'11'
-p3110
-aS'2'
-aS'0'
-aS'0'
-aS'Brisbane'
-p3111
-aVAustralia
-p3112
-aVQueensland
-p3113
-aVBrisbane
-p3114
-aa(lp3115
-S'Donald McKay'
-p3116
-aS'1961'
-p3117
-aS'Wing'
-p3118
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'2'
-aS'6'
-aS'Auckland'
-p3119
-aVNew Zealand/Aotearoa
-p3120
-aVAuckland
-p3121
-ag53
-aa(lp3122
-S'Stan Meads'
-p3123
-aS'1961'
-p3124
-aS'Lock'
-p3125
-aS'15'
-p3126
-aS'13'
-p3127
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Arapuni'
-p3128
-aVNew Zealand/Aotearoa
-p3129
-aVWaikato
-p3130
-aVSouth Waikato District
-p3131
-aa(lp3132
-S'Neil Wolfe'
-p3133
-aS'1961'
-p3134
-aS'Fly-half'
-p3135
-aS'6'
-aS'5'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'New Plymouth'
-p3136
-aVNew Zealand/Aotearoa
-p3137
-aVTaranaki
-p3138
-aVNew Plymouth District
-p3139
-aa(lp3140
-S'Boy Yates'
-p3141
-aS'1961'
-p3142
-aS'No. 8'
-p3143
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'1'
-aS'3'
-aS'Kaitaia'
-p3144
-aVNew Zealand/Aotearoa
-p3145
-aVNorthland
-p3146
-aVFar North District
-p3147
-aa(lp3148
-S'Paul Little'
-p3149
-aS'1961'
-p3150
-aS'Centre'
 p3151
-aS'10'
+aS'Pihama'
 p3152
-aS'8'
-aS'0'
-aS'2'
-aS'1'
-aS'3'
-aS'Auckland'
-p3153
 aVNew Zealand/Aotearoa
+p3153
+aVTaranaki
 p3154
-aVAuckland
+aVSouth Taranaki District
 p3155
-ag53
-aa(lp3156
-S'Rod Heeps'
-p3157
-aS'1962'
+aVPihama
+p3156
+aa(lp3157
+S'Terry Lineen'
 p3158
-aS'Wing'
+aS'1957'
 p3159
-aS'5'
-aS'4'
-aS'0'
-aS'1'
-aS'1'
-aS'3'
-aS'Hamilton'
+aS'Five-eighth'
 p3160
-aVCanada
+aS'12'
 p3161
-aVOntario
-p3162
-aVHamilton
-p3163
-aa(lp3164
-S'Waka Nathan'
-p3165
-aS'1962'
-p3166
-aS'Flanker'
-p3167
-aS'14'
-p3168
-aS'13'
-p3169
+aS'8'
+aS'3'
+aS'1'
 aS'0'
+aS'0'
+aS'Auckland'
+p3162
+aVNew Zealand/Aotearoa
+p3163
+aVAuckland
+p3164
+ag41
+ag41
+aa(lp3165
+S'Frank McMullen'
+p3166
+aS'1957'
+p3167
+aS'Wing'
+p3168
+aS'11'
+p3169
+aS'8'
+aS'2'
 aS'1'
 aS'4'
 aS'12'
@@ -8305,14 +8237,780 @@ aVNew Zealand/Aotearoa
 p3172
 aVAuckland
 p3173
-ag53
+ag41
+ag41
 aa(lp3174
-S'Bruce Watt'
+S'Colin Meads'
 p3175
-aS'1962'
+aS'1957'
 p3176
-aS'Fly-half'
+aS'Lock'
 p3177
+aS'55'
+p3178
+aS'41'
+p3179
+aS'10'
+p3180
+aS'4'
+aS'7'
+aS'21'
+p3181
+aS'Cambridge'
+p3182
+aVUnited Kingdom
+p3183
+aVEngland
+p3184
+aVEast of England
+p3185
+aVCambridgeshire
+p3186
+aa(lp3187
+S'Wilson Whineray'
+p3188
+aS'1957'
+p3189
+aS'Prop'
+p3190
+aS'32'
+p3191
+aS'24'
+p3192
+aS'5'
+aS'3'
+aS'2'
+aS'6'
+aS'Auckland'
+p3193
+aVNew Zealand/Aotearoa
+p3194
+aVAuckland
+p3195
+ag41
+ag41
+aa(lp3196
+S'Mick Cossey'
+p3197
+aS'1958'
+p3198
+aS'Wing'
+p3199
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Papakura'
+p3200
+aVNew Zealand/Aotearoa
+p3201
+aVAuckland
+p3202
+aVPapakura
+p3203
+ag41
+aa(lp3204
+S'Thomas Coughlan'
+p3205
+aS'1958'
+p3206
+aS'Flanker'
+p3207
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Temuka'
+p3208
+aVNew Zealand/Aotearoa
+p3209
+aVCanterbury
+p3210
+aVTimaru District
+p3211
+aVTemuka
+p3212
+aa(lp3213
+S'David Graham'
+p3214
+aS'1958'
+p3215
+aS'Flanker'
+p3216
+aS'22'
+p3217
+aS'17'
+p3218
+aS'2'
+aS'3'
+aS'2'
+aS'6'
+aS'Stratford'
+p3219
+aVUnited Kingdom
+p3220
+aVEngland
+p3221
+aVWest Midlands
+p3222
+aVWarwickshire
+p3223
+aa(lp3224
+S'David Ashby'
+p3225
+aS'1958'
+p3226
+aS'Fullback'
+p3227
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Mataura'
+p3228
+aVNew Zealand/Aotearoa
+p3229
+aVSouthland
+p3230
+aVGore District
+p3231
+aVMataura
+p3232
+aa(lp3233
+S'Ernest Pickering'
+p3234
+aS'1958'
+p3235
+aS'Flanker'
+p3236
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Te Kuiti'
+p3237
+aVNew Zealand/Aotearoa
+p3238
+aVWaikato
+p3239
+aVWaitomo District
+p3240
+aVTe Kuiti
+p3241
+aa(lp3242
+S'James Watt'
+p3243
+aS'1958'
+p3244
+aS'Wing'
+p3245
+aS'9'
+aS'5'
+aS'3'
+aS'1'
+aS'1'
+aS'3'
+aS'Dunedin'
+p3246
+aVNew Zealand/Aotearoa
+p3247
+aVOtago
+p3248
+aVDunedin City
+p3249
+aVDunedin
+p3250
+aa(lp3251
+S'Adrian Clarke'
+p3252
+aS'1958'
+p3253
+aS'Fly-half'
+p3254
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Christchurch'
+p3255
+aVNew Zealand/Aotearoa
+p3256
+aVCanterbury
+p3257
+aVChristchurch City
+p3258
+aVChristchurch
+p3259
+aa(lp3260
+S'William Gillespie'
+p3261
+aS'1958'
+p3262
+aS'Flanker'
+p3263
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cromwell'
+p3264
+aVUnited States of America
+p3265
+aV89109
+p3266
+aVNevada
+p3267
+aVClark County
+p3268
+aa(lp3269
+S'Brian Finlay'
+p3270
+aS'1959'
+p3271
+aS'Flanker'
+p3272
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cromwell'
+p3273
+aVUnited States of America
+p3274
+aV89109
+p3275
+aVNevada
+p3276
+aVClark County
+p3277
+aa(lp3278
+S'Bruce McPhail'
+p3279
+aS'1959'
+p3280
+aS'Wing'
+p3281
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Ashburton'
+p3282
+aVUnited Kingdom
+p3283
+aVEngland
+p3284
+aVSouth West England
+p3285
+aVDevon
+p3286
+aa(lp3287
+S'Spider Urbahn'
+p3288
+aS'1959'
+p3289
+aS'Scrum-half'
+p3290
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'Opunake'
+p3291
+aVNew Zealand/Aotearoa
+p3292
+aVTaranaki
+p3293
+aVSouth Taranaki District
+p3294
+aVOpunake
+p3295
+aa(lp3296
+S'Kevin Briscoe'
+p3297
+aS'1959'
+p3298
+aS'Scrum-half'
+p3299
+aS'9'
+aS'5'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'New Plymouth'
+p3300
+aVNew Zealand/Aotearoa
+p3301
+aVTaranaki
+p3302
+aVNew Plymouth District
+p3303
+aVNew Plymouth
+p3304
+aa(lp3305
+S'Ralph Caulton'
+p3306
+aS'1959'
+p3307
+aS'Wing'
+p3308
+aS'16'
+p3309
+aS'11'
+p3310
+aS'4'
+aS'1'
+aS'8'
+aS'24'
+p3311
+aS'Wellington'
+p3312
+aVNew Zealand/Aotearoa
+p3313
+aVWellington
+p3314
+aVWellington City
+p3315
+aVWellington
+p3316
+aa(lp3317
+S'Dick Conway'
+p3318
+aS'1959'
+p3319
+aS'No. 8'
+p3320
+aS'10'
+p3321
+aS'5'
+aS'4'
+aS'1'
+aS'1'
+aS'3'
+aS'Whakatane'
+p3322
+aVNew Zealand/Aotearoa
+p3323
+aVBay of Plenty
+p3324
+aVWhakatane District
+p3325
+aVWhakatane
+p3326
+aa(lp3327
+S'Tuppy Diack'
+p3328
+aS'1959'
+p3329
+aS'Wing'
+p3330
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Invercargill'
+p3331
+aVNew Zealand/Aotearoa
+p3332
+aVSouthland
+p3333
+aVInvercargill City
+p3334
+aVInvercargill
+p3335
+aa(lp3336
+S'John McCullough'
+p3337
+aS'1959'
+p3338
+aS'Fly-half'
+p3339
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Stratford'
+p3340
+aVUnited Kingdom
+p3341
+aVEngland
+p3342
+aVWest Midlands
+p3343
+aVWarwickshire
+p3344
+aa(lp3345
+S'Kel Tremain'
+p3346
+aS'1959'
+p3347
+aS'Flanker'
+p3348
+aS'38'
+p3349
+aS'30'
+p3350
+aS'5'
+aS'3'
+aS'9'
+aS'27'
+p3351
+aS'Auckland'
+p3352
+aVNew Zealand/Aotearoa
+p3353
+aVAuckland
+p3354
+ag41
+ag41
+aa(lp3355
+S'Desmond Webb'
+p3356
+aS'1959'
+p3357
+aS'Hooker'
+p3358
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Kawakawa'
+p3359
+aVNew Zealand/Aotearoa
+p3360
+aVNorthland
+p3361
+aVFar North District
+p3362
+aVKawakawa
+p3363
+aa(lp3364
+S"Terence O'Sullivan"
+p3365
+aS'1960'
+p3366
+aS'Centre'
+p3367
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'1'
+aS'3'
+aS'New Plymouth'
+p3368
+aVNew Zealand/Aotearoa
+p3369
+aVTaranaki
+p3370
+aVNew Plymouth District
+p3371
+aVNew Plymouth
+p3372
+aa(lp3373
+S'Ronald Horsley'
+p3374
+aS'1960'
+p3375
+aS'Lock'
+p3376
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Wellington'
+p3377
+aVNew Zealand/Aotearoa
+p3378
+aVWellington
+p3379
+aVWellington City
+p3380
+aVWellington
+p3381
+aa(lp3382
+S'Kevin Laidlaw'
+p3383
+aS'1960'
+p3384
+aS'Centre'
+p3385
+aS'3'
+aS'1'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Nightcaps'
+p3386
+aVNew Zealand/Aotearoa
+p3387
+aVSouthland
+p3388
+aVThe Nightcaps
+p3389
+ag41
+aa(lp3390
+S'Steven Nesbit'
+p3391
+aS'1960'
+p3392
+aS'Fly-half'
+p3393
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Auckland'
+p3394
+aVNew Zealand/Aotearoa
+p3395
+aVAuckland
+p3396
+ag41
+ag41
+aa(lp3397
+S'Tony Davies'
+p3398
+aS'1960'
+p3399
+aS'Five-eighth'
+p3400
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p3401
+aVNew Zealand/Aotearoa
+p3402
+aVAuckland
+p3403
+ag41
+ag41
+aa(lp3404
+S'Desmond Connor'
+p3405
+aS'1958'
+p3406
+aS'Scrum-half'
+p3407
+aS'24'
+p3408
+aS'11'
+p3409
+aS'11'
+p3410
+aS'2'
+aS'0'
+aS'0'
+aS'Brisbane'
+p3411
+aVAustralia
+p3412
+aVQueensland
+p3413
+aVBrisbane
+p3414
+ag41
+aa(lp3415
+S'Donald McKay'
+p3416
+aS'1961'
+p3417
+aS'Wing'
+p3418
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'2'
+aS'6'
+aS'Auckland'
+p3419
+aVNew Zealand/Aotearoa
+p3420
+aVAuckland
+p3421
+ag41
+ag41
+aa(lp3422
+S'Stan Meads'
+p3423
+aS'1961'
+p3424
+aS'Lock'
+p3425
+aS'15'
+p3426
+aS'13'
+p3427
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Arapuni'
+p3428
+aVNew Zealand/Aotearoa
+p3429
+aVWaikato
+p3430
+aVSouth Waikato District
+p3431
+aVArapuni
+p3432
+aa(lp3433
+S'Neil Wolfe'
+p3434
+aS'1961'
+p3435
+aS'Fly-half'
+p3436
+aS'6'
+aS'5'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'New Plymouth'
+p3437
+aVNew Zealand/Aotearoa
+p3438
+aVTaranaki
+p3439
+aVNew Plymouth District
+p3440
+aVNew Plymouth
+p3441
+aa(lp3442
+S'Boy Yates'
+p3443
+aS'1961'
+p3444
+aS'No. 8'
+p3445
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'3'
+aS'Kaitaia'
+p3446
+aVNew Zealand/Aotearoa
+p3447
+aVNorthland
+p3448
+aVFar North District
+p3449
+aVKaitaia
+p3450
+aa(lp3451
+S'Paul Little'
+p3452
+aS'1961'
+p3453
+aS'Centre'
+p3454
+aS'10'
+p3455
+aS'8'
+aS'0'
+aS'2'
+aS'1'
+aS'3'
+aS'Auckland'
+p3456
+aVNew Zealand/Aotearoa
+p3457
+aVAuckland
+p3458
+ag41
+ag41
+aa(lp3459
+S'Rod Heeps'
+p3460
+aS'1962'
+p3461
+aS'Wing'
+p3462
+aS'5'
+aS'4'
+aS'0'
+aS'1'
+aS'1'
+aS'3'
+aS'Hamilton'
+p3463
+aVCanada
+p3464
+aVOntario
+p3465
+aVHamilton
+p3466
+ag41
+aa(lp3467
+S'Waka Nathan'
+p3468
+aS'1962'
+p3469
+aS'Flanker'
+p3470
+aS'14'
+p3471
+aS'13'
+p3472
+aS'0'
+aS'1'
+aS'4'
+aS'12'
+p3473
+aS'Auckland'
+p3474
+aVNew Zealand/Aotearoa
+p3475
+aVAuckland
+p3476
+ag41
+ag41
+aa(lp3477
+S'Bruce Watt'
+p3478
+aS'1962'
+p3479
+aS'Fly-half'
+p3480
 aS'8'
 aS'7'
 aS'0'
@@ -8320,793 +9018,50 @@ aS'1'
 aS'2'
 aS'9'
 aS'Marton'
-p3178
-aVUnited Kingdom
-p3179
-aVEngland
-p3180
-aVNorth West England
-p3181
-aa(lp3182
-S'Raymond Moreton'
-p3183
-aS'1962'
-p3184
-aS'Five-eighth'
-p3185
-aS'7'
-aS'4'
-aS'2'
-aS'1'
-aS'2'
-aS'9'
-aS'Invercargill'
-p3186
-aVNew Zealand/Aotearoa
-p3187
-aVSouthland
-p3188
-aVInvercargill City
-p3189
-aa(lp3190
-S'Peter Morrissey'
-p3191
-aS'1962'
-p3192
-aS'Wing'
-p3193
-aS'3'
-aS'2'
-aS'0'
-aS'1'
-aS'2'
-aS'6'
-aS'Christchurch'
-p3194
-aVNew Zealand/Aotearoa
-p3195
-aVCanterbury
-p3196
-aVChristchurch City
-p3197
-aa(lp3198
-S'John Creighton'
-p3199
-aS'1962'
-p3200
-aS'Hooker'
-p3201
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Rotherham'
-p3202
-aVUnited Kingdom
-p3203
-aVEngland
-p3204
-aVYorkshire and the Humber
-p3205
-aa(lp3206
-S'Jules le Lievre'
-p3207
-aS'1962'
-p3208
-aS'Prop'
-p3209
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Akaroa'
-p3210
-aVNew Zealand/Aotearoa
-p3211
-aVCanterbury
-p3212
-aVChristchurch City
-p3213
-aa(lp3214
-S'Keith Nelson'
-p3215
-aS'1962'
-p3216
-aS'No. 8'
-p3217
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p3218
-aVNew Zealand/Aotearoa
-p3219
-aVAuckland
-p3220
-ag53
-aa(lp3221
-S'Mac Herewini'
-p3222
-aS'1962'
-p3223
-aS'Fly-half'
-p3224
-aS'10'
-p3225
-aS'9'
-aS'0'
-aS'1'
-aS'1'
-aS'21'
-p3226
-aS'Mokai'
-p3227
-aVBrasil
-p3228
-aV70347090
-p3229
-aVRegião Centro-Oeste
-p3230
-aa(lp3231
-S'Barry Thomas'
-p3232
-aS'1962'
-p3233
-aS'Prop'
-p3234
-aS'4'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p3235
-aVNew Zealand/Aotearoa
-p3236
-aVAuckland
-p3237
-ag53
-aa(lp3238
-S'Allan Stewart'
-p3239
-aS'1963'
-p3240
-aS'Lock'
-p3241
-aS'8'
-aS'6'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Temuka'
-p3242
-aVNew Zealand/Aotearoa
-p3243
-aVCanterbury
-p3244
-aVTimaru District
-p3245
-aa(lp3246
-S'Ian Uttley'
-p3247
-aS'1963'
-p3248
-aS'Centre'
-p3249
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Christchurch'
-p3250
-aVNew Zealand/Aotearoa
-p3251
-aVCanterbury
-p3252
-aVChristchurch City
-p3253
-aa(lp3254
-S'Bluey Arnold'
-p3255
-aS'1963'
-p3256
-aS'Five-eighth'
-p3257
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Balclutha'
-p3258
-aVNew Zealand/Aotearoa
-p3259
-aVOtago
-p3260
-aVClutha District
-p3261
-aa(lp3262
-S'Malcolm Dick'
-p3263
-aS'1963'
-p3264
-aS'Wing'
-p3265
-aS'15'
-p3266
-aS'11'
-p3267
-aS'3'
-aS'1'
-aS'4'
-aS'12'
-p3268
-aS'Auckland'
-p3269
-aVNew Zealand/Aotearoa
-p3270
-aVAuckland
-p3271
-ag53
-aa(lp3272
-S'Ken Gray'
-p3273
-aS'1963'
-p3274
-aS'Prop'
-p3275
-aS'24'
-p3276
-aS'21'
-p3277
-aS'2'
-aS'1'
-aS'4'
-aS'12'
-p3278
-aS'Porirua'
-p3279
-aVNew Zealand/Aotearoa
-p3280
-aVWellington
-p3281
-aVPorirua City
-p3282
-aa(lp3283
-S'Brian Lochore'
-p3284
-aS'1964'
-p3285
-aS'No. 8'
-p3286
-aS'25'
-p3287
-aS'19'
-p3288
-aS'5'
-aS'1'
-aS'2'
-aS'6'
-aS'Masterton'
-p3289
-aVNew Zealand/Aotearoa
-p3290
-aVWellington
-p3291
-aVMasterton District
-p3292
-aa(lp3293
-S'Chris Laidlaw'
-p3294
-aS'1964'
-p3295
-aS'Scrum-half'
-p3296
-aS'20'
-p3297
-aS'17'
-p3298
-aS'3'
-aS'0'
-aS'3'
-aS'12'
-p3299
-aS'Dunedin'
-p3300
-aVNew Zealand/Aotearoa
-p3301
-aVOtago
-p3302
-aVDunedin City
-p3303
-aa(lp3304
-S'Don Clark'
-p3305
-aS'1964'
-p3306
-aS'Flanker'
-p3307
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Cromwell'
-p3308
-aVUnited States of America
-p3309
-aV89109
-p3310
-aVNevada
-p3311
-aa(lp3312
-S'John Collins'
-p3313
-aS'1964'
-p3314
-aS'Five-eighth'
-p3315
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Tokomaru Nay'
-p3316
-aS'g'
-aS'n'
-aS'i'
-aa(lp3317
-S'Bruce McLeod'
-p3318
-aS'1964'
-p3319
-aS'Hooker'
-p3320
-aS'24'
-p3321
-aS'21'
-p3322
-aS'3'
-aS'0'
-aS'4'
-aS'12'
-p3323
-aS'Auckland'
-p3324
-aVNew Zealand/Aotearoa
-p3325
-aVAuckland
-p3326
-ag53
-aa(lp3327
-S'Spooky Smith'
-p3328
-aS'1964'
-p3329
-aS'Wing'
-p3330
-aS'9'
-aS'8'
-aS'1'
-aS'0'
-aS'2'
-aS'6'
-aS'Dunedin'
-p3331
-aVNew Zealand/Aotearoa
-p3332
-aVOtago
-p3333
-aVDunedin City
-p3334
-aa(lp3335
-S'Michael Williment'
-p3336
-aS'1964'
-p3337
-aS'Fullback'
-p3338
-aS'9'
-aS'8'
-aS'1'
-aS'0'
-aS'1'
-aS'70'
-p3339
-aS'Wellington'
-p3340
-aVNew Zealand/Aotearoa
-p3341
-aVWellington
-p3342
-aVWellington City
-p3343
-aa(lp3344
-S'Peter Murdoch'
-p3345
-aS'1964'
-p3346
-aS'Fly-half'
-p3347
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'2'
-aS'6'
-aS'Auckland'
-p3348
-aVNew Zealand/Aotearoa
-p3349
-aVAuckland
-p3350
-ag53
-aa(lp3351
-S'Ron Rangi'
-p3352
-aS'1964'
-p3353
-aS'Centre'
-p3354
-aS'10'
-p3355
-aS'8'
-aS'2'
-aS'0'
-aS'3'
-aS'9'
-aS'Auckland'
-p3356
-aVNew Zealand/Aotearoa
-p3357
-aVAuckland
-p3358
-ag53
-aa(lp3359
-S'Bill Birtwistle'
-p3360
-aS'1965'
-p3361
-aS'Wing'
-p3362
-aS'7'
-aS'6'
-aS'1'
-aS'0'
-aS'4'
-aS'12'
-p3363
-aS'Auckland'
-p3364
-aVNew Zealand/Aotearoa
-p3365
-aVAuckland
-p3366
-ag53
-aa(lp3367
-S'Fergie McCormick'
-p3368
-aS'1965'
-p3369
-aS'Fullback'
-p3370
-aS'16'
-p3371
-aS'13'
-p3372
-aS'3'
-aS'0'
-aS'0'
-aS'121'
-p3373
-aS'Ashburton'
-p3374
-aVUnited Kingdom
-p3375
-aVEngland
-p3376
-aVSouth West England
-p3377
-aa(lp3378
-S'Jack Hazlett'
-p3379
-aS'1966'
-p3380
-aS'Prop'
-p3381
-aS'6'
-aS'6'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Invercargill'
-p3382
-aVNew Zealand/Aotearoa
-p3383
-aVSouthland
-p3384
-aVInvercargill City
-p3385
-aa(lp3386
-S'Ian MacRae'
-p3387
-aS'1966'
-p3388
-aS'Five-eighth'
-p3389
-aS'17'
-p3390
-aS'14'
-p3391
-aS'3'
-aS'0'
-aS'3'
-aS'9'
-aS'Christchurch'
-p3392
-aVNew Zealand/Aotearoa
-p3393
-aVCanterbury
-p3394
-aVChristchurch City
-p3395
-aa(lp3396
-S'Anthony Steel'
-p3397
-aS'1966'
-p3398
-aS'Wing'
-p3399
-aS'9'
-aS'9'
-aS'0'
-aS'0'
-aS'7'
-aS'21'
-p3400
-aS'Greymouth'
-p3401
-aVNew Zealand/Aotearoa
-p3402
-aVWest Coast
-p3403
-aVGrey District
-p3404
-aa(lp3405
-S'Bill Davis'
-p3406
-aS'1967'
-p3407
-aS'Centre'
-p3408
-aS'11'
-p3409
-aS'11'
-p3410
-aS'0'
-aS'0'
-aS'4'
-aS'12'
-p3411
-aS'Hastings'
-p3412
-aVUnited Kingdom
-p3413
-aVEngland
-p3414
-aVSouth East
-p3415
-aa(lp3416
-S'Sid Going'
-p3417
-aS'1967'
-p3418
-aS'Scrum-half'
-p3419
-aS'29'
-p3420
-aS'17'
-p3421
-aS'10'
-p3422
-aS'2'
-aS'10'
-p3423
-aS'44'
-p3424
-aS'Kawakawa'
-p3425
-aVNew Zealand/Aotearoa
-p3426
-aVNorthland
-p3427
-aVFar North District
-p3428
-aa(lp3429
-S'John Major'
-p3430
-aS'1967'
-p3431
-aS'Hooker'
-p3432
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Whakatane'
-p3433
-aVNew Zealand/Aotearoa
-p3434
-aVBay of Plenty
-p3435
-aVWhakatane District
-p3436
-aa(lp3437
-S'Jazz Muller'
-p3438
-aS'1967'
-p3439
-aS'Prop'
-p3440
-aS'14'
-p3441
-aS'9'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'Eltham'
-p3442
-aVUnited Kingdom
-p3443
-aVEngland
-p3444
-aVGreater London
-p3445
-aa(lp3446
-S'Samuel Strahan'
-p3447
-aS'1967'
-p3448
-aS'Lock'
-p3449
-aS'17'
-p3450
-aS'14'
-p3451
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Palmerston North'
-p3452
-aVNew Zealand/Aotearoa
-p3453
-aVManawatu-Wanganui
-p3454
-aVPalmerston North City
-p3455
-aa(lp3456
-S'Earle Kirton'
-p3457
-aS'1967'
-p3458
-aS'Fly-half'
-p3459
-aS'13'
-p3460
-aS'12'
-p3461
-aS'1'
-aS'0'
-aS'4'
-aS'12'
-p3462
-aS'Taumarunui'
-p3463
-aVNew Zealand/Aotearoa
-p3464
-aVManawatu-Wanganui
-p3465
-aVRuapehu District
-p3466
-aa(lp3467
-S'Graham Williams'
-p3468
-aS'1967'
-p3469
-aS'Flanker'
-p3470
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Wellington'
-p3471
-aVNew Zealand/Aotearoa
-p3472
-aVWellington
-p3473
-aVWellington City
-p3474
-aa(lp3475
-S'Ian Kirkpatrick'
-p3476
-aS'1967'
-p3477
-aS'Flanker'
-p3478
-aS'39'
-p3479
-aS'25'
-p3480
-aS'11'
 p3481
-aS'3'
-aS'16'
+aVUnited Kingdom
 p3482
-aS'57'
+aVEngland
 p3483
-aS'Gisborne'
+aVNorth West England
 p3484
-aVNew Zealand/Aotearoa
+aVCheshire East
 p3485
-aVGisborne
-p3486
-ag53
-aa(lp3487
-S'Alister Hopkinson'
+aa(lp3486
+S'Raymond Moreton'
+p3487
+aS'1962'
 p3488
-aS'1967'
+aS'Five-eighth'
 p3489
-aS'Prop'
-p3490
-aS'9'
 aS'7'
+aS'4'
 aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Mosgiel'
-p3491
+aS'1'
+aS'2'
+aS'9'
+aS'Invercargill'
+p3490
 aVNew Zealand/Aotearoa
+p3491
+aVSouthland
 p3492
-aVOtago
+aVInvercargill City
 p3493
-aVDunedin City
+aVInvercargill
 p3494
 aa(lp3495
-S'Wayne Cottrell'
+S'Peter Morrissey'
 p3496
-aS'1968'
+aS'1962'
 p3497
-aS'Five-eighth'
+aS'Wing'
 p3498
-aS'9'
-aS'5'
 aS'3'
+aS'2'
+aS'0'
 aS'1'
-aS'1'
+aS'2'
 aS'6'
 aS'Christchurch'
 p3499
@@ -9116,13 +9071,821 @@ aVCanterbury
 p3501
 aVChristchurch City
 p3502
-aa(lp3503
-S'Thomas Lister'
-p3504
-aS'1968'
+aVChristchurch
+p3503
+aa(lp3504
+S'John Creighton'
 p3505
-aS'Flanker'
+aS'1962'
 p3506
+aS'Hooker'
+p3507
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Rotherham'
+p3508
+aVUnited Kingdom
+p3509
+aVEngland
+p3510
+aVYorkshire and the Humber
+p3511
+aVRotherham
+p3512
+aa(lp3513
+S'Jules le Lievre'
+p3514
+aS'1962'
+p3515
+aS'Prop'
+p3516
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Akaroa'
+p3517
+aVNew Zealand/Aotearoa
+p3518
+aVCanterbury
+p3519
+aVChristchurch City
+p3520
+aVAkaroa
+p3521
+aa(lp3522
+S'Keith Nelson'
+p3523
+aS'1962'
+p3524
+aS'No. 8'
+p3525
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p3526
+aVNew Zealand/Aotearoa
+p3527
+aVAuckland
+p3528
+ag41
+ag41
+aa(lp3529
+S'Mac Herewini'
+p3530
+aS'1962'
+p3531
+aS'Fly-half'
+p3532
+aS'10'
+p3533
+aS'9'
+aS'0'
+aS'1'
+aS'1'
+aS'21'
+p3534
+aS'Mokai'
+p3535
+aVBrasil
+p3536
+aV70347090
+p3537
+aVRegião Centro-Oeste
+p3538
+aVDF
+p3539
+aa(lp3540
+S'Barry Thomas'
+p3541
+aS'1962'
+p3542
+aS'Prop'
+p3543
+aS'4'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p3544
+aVNew Zealand/Aotearoa
+p3545
+aVAuckland
+p3546
+ag41
+ag41
+aa(lp3547
+S'Allan Stewart'
+p3548
+aS'1963'
+p3549
+aS'Lock'
+p3550
+aS'8'
+aS'6'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Temuka'
+p3551
+aVNew Zealand/Aotearoa
+p3552
+aVCanterbury
+p3553
+aVTimaru District
+p3554
+aVTemuka
+p3555
+aa(lp3556
+S'Ian Uttley'
+p3557
+aS'1963'
+p3558
+aS'Centre'
+p3559
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Christchurch'
+p3560
+aVNew Zealand/Aotearoa
+p3561
+aVCanterbury
+p3562
+aVChristchurch City
+p3563
+aVChristchurch
+p3564
+aa(lp3565
+S'Bluey Arnold'
+p3566
+aS'1963'
+p3567
+aS'Five-eighth'
+p3568
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Balclutha'
+p3569
+aVNew Zealand/Aotearoa
+p3570
+aVOtago
+p3571
+aVClutha District
+p3572
+aVBalclutha
+p3573
+aa(lp3574
+S'Malcolm Dick'
+p3575
+aS'1963'
+p3576
+aS'Wing'
+p3577
+aS'15'
+p3578
+aS'11'
+p3579
+aS'3'
+aS'1'
+aS'4'
+aS'12'
+p3580
+aS'Auckland'
+p3581
+aVNew Zealand/Aotearoa
+p3582
+aVAuckland
+p3583
+ag41
+ag41
+aa(lp3584
+S'Ken Gray'
+p3585
+aS'1963'
+p3586
+aS'Prop'
+p3587
+aS'24'
+p3588
+aS'21'
+p3589
+aS'2'
+aS'1'
+aS'4'
+aS'12'
+p3590
+aS'Porirua'
+p3591
+aVNew Zealand/Aotearoa
+p3592
+aVWellington
+p3593
+aVPorirua City
+p3594
+aVPorirua
+p3595
+aa(lp3596
+S'Brian Lochore'
+p3597
+aS'1964'
+p3598
+aS'No. 8'
+p3599
+aS'25'
+p3600
+aS'19'
+p3601
+aS'5'
+aS'1'
+aS'2'
+aS'6'
+aS'Masterton'
+p3602
+aVNew Zealand/Aotearoa
+p3603
+aVWellington
+p3604
+aVMasterton District
+p3605
+aVMasterton
+p3606
+aa(lp3607
+S'Chris Laidlaw'
+p3608
+aS'1964'
+p3609
+aS'Scrum-half'
+p3610
+aS'20'
+p3611
+aS'17'
+p3612
+aS'3'
+aS'0'
+aS'3'
+aS'12'
+p3613
+aS'Dunedin'
+p3614
+aVNew Zealand/Aotearoa
+p3615
+aVOtago
+p3616
+aVDunedin City
+p3617
+aVDunedin
+p3618
+aa(lp3619
+S'Don Clark'
+p3620
+aS'1964'
+p3621
+aS'Flanker'
+p3622
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cromwell'
+p3623
+aVUnited States of America
+p3624
+aV89109
+p3625
+aVNevada
+p3626
+aVClark County
+p3627
+aa(lp3628
+S'John Collins'
+p3629
+aS'1964'
+p3630
+aS'Five-eighth'
+p3631
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tokomaru Nay'
+p3632
+aS'g'
+aS'n'
+aS'i'
+aS's'
+aa(lp3633
+S'Bruce McLeod'
+p3634
+aS'1964'
+p3635
+aS'Hooker'
+p3636
+aS'24'
+p3637
+aS'21'
+p3638
+aS'3'
+aS'0'
+aS'4'
+aS'12'
+p3639
+aS'Auckland'
+p3640
+aVNew Zealand/Aotearoa
+p3641
+aVAuckland
+p3642
+ag41
+ag41
+aa(lp3643
+S'Spooky Smith'
+p3644
+aS'1964'
+p3645
+aS'Wing'
+p3646
+aS'9'
+aS'8'
+aS'1'
+aS'0'
+aS'2'
+aS'6'
+aS'Dunedin'
+p3647
+aVNew Zealand/Aotearoa
+p3648
+aVOtago
+p3649
+aVDunedin City
+p3650
+aVDunedin
+p3651
+aa(lp3652
+S'Michael Williment'
+p3653
+aS'1964'
+p3654
+aS'Fullback'
+p3655
+aS'9'
+aS'8'
+aS'1'
+aS'0'
+aS'1'
+aS'70'
+p3656
+aS'Wellington'
+p3657
+aVNew Zealand/Aotearoa
+p3658
+aVWellington
+p3659
+aVWellington City
+p3660
+aVWellington
+p3661
+aa(lp3662
+S'Peter Murdoch'
+p3663
+aS'1964'
+p3664
+aS'Fly-half'
+p3665
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'2'
+aS'6'
+aS'Auckland'
+p3666
+aVNew Zealand/Aotearoa
+p3667
+aVAuckland
+p3668
+ag41
+ag41
+aa(lp3669
+S'Ron Rangi'
+p3670
+aS'1964'
+p3671
+aS'Centre'
+p3672
+aS'10'
+p3673
+aS'8'
+aS'2'
+aS'0'
+aS'3'
+aS'9'
+aS'Auckland'
+p3674
+aVNew Zealand/Aotearoa
+p3675
+aVAuckland
+p3676
+ag41
+ag41
+aa(lp3677
+S'Bill Birtwistle'
+p3678
+aS'1965'
+p3679
+aS'Wing'
+p3680
+aS'7'
+aS'6'
+aS'1'
+aS'0'
+aS'4'
+aS'12'
+p3681
+aS'Auckland'
+p3682
+aVNew Zealand/Aotearoa
+p3683
+aVAuckland
+p3684
+ag41
+ag41
+aa(lp3685
+S'Fergie McCormick'
+p3686
+aS'1965'
+p3687
+aS'Fullback'
+p3688
+aS'16'
+p3689
+aS'13'
+p3690
+aS'3'
+aS'0'
+aS'0'
+aS'121'
+p3691
+aS'Ashburton'
+p3692
+aVUnited Kingdom
+p3693
+aVEngland
+p3694
+aVSouth West England
+p3695
+aVDevon
+p3696
+aa(lp3697
+S'Jack Hazlett'
+p3698
+aS'1966'
+p3699
+aS'Prop'
+p3700
+aS'6'
+aS'6'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Invercargill'
+p3701
+aVNew Zealand/Aotearoa
+p3702
+aVSouthland
+p3703
+aVInvercargill City
+p3704
+aVInvercargill
+p3705
+aa(lp3706
+S'Ian MacRae'
+p3707
+aS'1966'
+p3708
+aS'Five-eighth'
+p3709
+aS'17'
+p3710
+aS'14'
+p3711
+aS'3'
+aS'0'
+aS'3'
+aS'9'
+aS'Christchurch'
+p3712
+aVNew Zealand/Aotearoa
+p3713
+aVCanterbury
+p3714
+aVChristchurch City
+p3715
+aVChristchurch
+p3716
+aa(lp3717
+S'Anthony Steel'
+p3718
+aS'1966'
+p3719
+aS'Wing'
+p3720
+aS'9'
+aS'9'
+aS'0'
+aS'0'
+aS'7'
+aS'21'
+p3721
+aS'Greymouth'
+p3722
+aVNew Zealand/Aotearoa
+p3723
+aVWest Coast
+p3724
+aVGrey District
+p3725
+aVGreymouth
+p3726
+aa(lp3727
+S'Bill Davis'
+p3728
+aS'1967'
+p3729
+aS'Centre'
+p3730
+aS'11'
+p3731
+aS'11'
+p3732
+aS'0'
+aS'0'
+aS'4'
+aS'12'
+p3733
+aS'Hastings'
+p3734
+aVUnited Kingdom
+p3735
+aVEngland
+p3736
+aVSouth East
+p3737
+aVEast Sussex
+p3738
+aa(lp3739
+S'Sid Going'
+p3740
+aS'1967'
+p3741
+aS'Scrum-half'
+p3742
+aS'29'
+p3743
+aS'17'
+p3744
+aS'10'
+p3745
+aS'2'
+aS'10'
+p3746
+aS'44'
+p3747
+aS'Kawakawa'
+p3748
+aVNew Zealand/Aotearoa
+p3749
+aVNorthland
+p3750
+aVFar North District
+p3751
+aVKawakawa
+p3752
+aa(lp3753
+S'John Major'
+p3754
+aS'1967'
+p3755
+aS'Hooker'
+p3756
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Whakatane'
+p3757
+aVNew Zealand/Aotearoa
+p3758
+aVBay of Plenty
+p3759
+aVWhakatane District
+p3760
+aVWhakatane
+p3761
+aa(lp3762
+S'Jazz Muller'
+p3763
+aS'1967'
+p3764
+aS'Prop'
+p3765
+aS'14'
+p3766
+aS'9'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Eltham'
+p3767
+aVUnited Kingdom
+p3768
+aVEngland
+p3769
+aVGreater London
+p3770
+aVLondon
+p3771
+aa(lp3772
+S'Samuel Strahan'
+p3773
+aS'1967'
+p3774
+aS'Lock'
+p3775
+aS'17'
+p3776
+aS'14'
+p3777
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Palmerston North'
+p3778
+aVNew Zealand/Aotearoa
+p3779
+aVManawatu-Wanganui
+p3780
+aVPalmerston North City
+p3781
+aVPalmerston North
+p3782
+aa(lp3783
+S'Earle Kirton'
+p3784
+aS'1967'
+p3785
+aS'Fly-half'
+p3786
+aS'13'
+p3787
+aS'12'
+p3788
+aS'1'
+aS'0'
+aS'4'
+aS'12'
+p3789
+aS'Taumarunui'
+p3790
+aVNew Zealand/Aotearoa
+p3791
+aVManawatu-Wanganui
+p3792
+aVRuapehu District
+p3793
+aVTaumarunui
+p3794
+aa(lp3795
+S'Graham Williams'
+p3796
+aS'1967'
+p3797
+aS'Flanker'
+p3798
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
+p3799
+aVNew Zealand/Aotearoa
+p3800
+aVWellington
+p3801
+aVWellington City
+p3802
+aVWellington
+p3803
+aa(lp3804
+S'Ian Kirkpatrick'
+p3805
+aS'1967'
+p3806
+aS'Flanker'
+p3807
+aS'39'
+p3808
+aS'25'
+p3809
+aS'11'
+p3810
+aS'3'
+aS'16'
+p3811
+aS'57'
+p3812
+aS'Gisborne'
+p3813
+aVNew Zealand/Aotearoa
+p3814
+aVGisborne
+p3815
+ag41
+ag41
+aa(lp3816
+S'Alister Hopkinson'
+p3817
+aS'1967'
+p3818
+aS'Prop'
+p3819
+aS'9'
+aS'7'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Mosgiel'
+p3820
+aVNew Zealand/Aotearoa
+p3821
+aVOtago
+p3822
+aVDunedin City
+p3823
+aVMosgiel
+p3824
+aa(lp3825
+S'Wayne Cottrell'
+p3826
+aS'1968'
+p3827
+aS'Five-eighth'
+p3828
+aS'9'
+aS'5'
+aS'3'
+aS'1'
+aS'1'
+aS'6'
+aS'Christchurch'
+p3829
+aVNew Zealand/Aotearoa
+p3830
+aVCanterbury
+p3831
+aVChristchurch City
+p3832
+aVChristchurch
+p3833
+aa(lp3834
+S'Thomas Lister'
+p3835
+aS'1968'
+p3836
+aS'Flanker'
+p3837
 aS'8'
 aS'5'
 aS'2'
@@ -9130,41 +9893,44 @@ aS'1'
 aS'2'
 aS'6'
 aS'Ashburton'
-p3507
+p3838
 aVUnited Kingdom
-p3508
+p3839
 aVEngland
-p3509
+p3840
 aVSouth West England
-p3510
-aa(lp3511
+p3841
+aVDevon
+p3842
+aa(lp3843
 S'Grahame Thorne'
-p3512
+p3844
 aS'1968'
-p3513
+p3845
 aS'Wing'
-p3514
+p3846
 aS'10'
-p3515
+p3847
 aS'7'
 aS'3'
 aS'0'
 aS'1'
 aS'3'
 aS'Auckland'
-p3516
+p3848
 aVNew Zealand/Aotearoa
-p3517
+p3849
 aVAuckland
-p3518
-ag53
-aa(lp3519
+p3850
+ag41
+ag41
+aa(lp3851
 S'Anthony Kreft'
-p3520
+p3852
 aS'1968'
-p3521
+p3853
 aS'Prop'
-p3522
+p3854
 aS'1'
 aS'1'
 aS'0'
@@ -9172,20 +9938,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Milton'
-p3523
+p3855
 aVUnited States of America
-p3524
+p3856
 aVMassachusetts
-p3525
+p3857
 aVNorfolk County
-p3526
-aa(lp3527
+p3858
+aVMilton
+p3859
+aa(lp3860
 S"Michael O'Callaghan"
-p3528
+p3861
 aS'1968'
-p3529
+p3862
 aS'Wing'
-p3530
+p3863
 aS'3'
 aS'3'
 aS'0'
@@ -9193,20 +9961,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Culverden'
-p3531
+p3864
 aVNew Zealand/Aotearoa
-p3532
+p3865
 aVCanterbury
-p3533
+p3866
 aVHurunui District
-p3534
-aa(lp3535
+p3867
+aVCulverden
+p3868
+aa(lp3869
 S'Owen Stephens'
-p3536
+p3870
 aS'1968'
-p3537
+p3871
 aS'Wing'
-p3538
+p3872
 aS'6'
 aS'2'
 aS'3'
@@ -9214,20 +9984,22 @@ aS'1'
 aS'2'
 aS'8'
 aS'Paeroa'
-p3539
+p3873
 aVNew Zealand/Aotearoa
-p3540
+p3874
 aVWaikato
-p3541
+p3875
 aVHauraki District
-p3542
-aa(lp3543
+p3876
+aVPaeroa
+p3877
+aa(lp3878
 S'Alan Smith'
-p3544
+p3879
 aS'1969'
-p3545
+p3880
 aS'Lock'
-p3546
+p3881
 aS'3'
 aS'2'
 aS'1'
@@ -9235,20 +10007,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Stratford'
-p3547
+p3882
 aVUnited Kingdom
-p3548
+p3883
 aVEngland
-p3549
+p3884
 aVWest Midlands
-p3550
-aa(lp3551
+p3885
+aVWarwickshire
+p3886
+aa(lp3887
 S'George Skudder'
-p3552
+p3888
 aS'1969'
-p3553
+p3889
 aS'Wing'
-p3554
+p3890
 aS'1'
 aS'1'
 aS'0'
@@ -9256,90 +10030,96 @@ aS'0'
 aS'1'
 aS'3'
 aS'Te Puke'
-p3555
+p3891
 aVNew Zealand/Aotearoa
-p3556
+p3892
 aVBay of Plenty
-p3557
+p3893
 aVWestern Bay of Plenty District
-p3558
-aa(lp3559
+p3894
+aVTe Puke
+p3895
+aa(lp3896
 S'Bryan Williams'
-p3560
+p3897
 aS'1970'
-p3561
+p3898
 aS'Wing'
-p3562
+p3899
 aS'38'
-p3563
+p3900
 aS'23'
-p3564
+p3901
 aS'12'
-p3565
+p3902
 aS'3'
 aS'10'
-p3566
+p3903
 aS'71'
-p3567
+p3904
 aS'Auckland'
-p3568
+p3905
 aVNew Zealand/Aotearoa
-p3569
+p3906
 aVAuckland
-p3570
-ag53
-aa(lp3571
+p3907
+ag41
+ag41
+aa(lp3908
 S'Alan Sutherland'
-p3572
+p3909
 aS'1970'
-p3573
+p3910
 aS'No. 8'
-p3574
+p3911
 aS'10'
-p3575
+p3912
 aS'6'
 aS'3'
 aS'1'
 aS'3'
 aS'12'
-p3576
+p3913
 aS'Blenheim'
-p3577
+p3914
 aVNew Zealand/Aotearoa
-p3578
+p3915
 aVMarlborough
-p3579
+p3916
 aVBlenheim
-p3580
-aa(lp3581
+p3917
+ag41
+aa(lp3918
 S'Alex Wyllie'
-p3582
+p3919
 aS'1970'
-p3583
+p3920
 aS'Flanker'
-p3584
+p3921
 aS'11'
-p3585
+p3922
 aS'5'
 aS'4'
 aS'2'
 aS'2'
 aS'8'
 aS'Christchurch'
-p3586
+p3923
 aVNew Zealand/Aotearoa
-p3587
+p3924
 aVCanterbury
-p3588
+p3925
 aVChristchurch City
-p3589
-aa(lp3590
+p3926
+aVChristchurch
+p3927
+aa(lp3928
 S'Buff Milner'
-p3591
+p3929
 aS'1970'
-p3592
+p3930
 aS'Wing'
-p3593
+p3931
 aS'1'
 aS'0'
 aS'1'
@@ -9347,20 +10127,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tokomaru Bay'
-p3594
+p3932
 aVNew Zealand/Aotearoa
-p3595
+p3933
 aVGisborne
-p3596
+p3934
 aVTokomaru Bay
-p3597
-aa(lp3598
+p3935
+ag41
+aa(lp3936
 S'Neil Thimbleby'
-p3599
+p3937
 aS'1970'
-p3600
+p3938
 aS'Prop'
-p3601
+p3939
 aS'1'
 aS'0'
 aS'1'
@@ -9368,20 +10149,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lower Hutt'
-p3602
+p3940
 aVNew Zealand/Aotearoa
-p3603
+p3941
 aVWellington
-p3604
+p3942
 aVLower Hutt City
-p3605
-aa(lp3606
+p3943
+aVLower Hutt
+p3944
+aa(lp3945
 S'Ron Urlich'
-p3607
+p3946
 aS'1970'
-p3608
+p3947
 aS'Hooker'
-p3609
+p3948
 aS'2'
 aS'0'
 aS'2'
@@ -9389,19 +10172,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p3610
+p3949
 aVNew Zealand/Aotearoa
-p3611
+p3950
 aVAuckland
-p3612
-ag53
-aa(lp3613
+p3951
+ag41
+ag41
+aa(lp3952
 S'Blair Furlong'
-p3614
+p3953
 aS'1970'
-p3615
+p3954
 aS'Fly-half'
-p3616
+p3955
 aS'1'
 aS'0'
 aS'1'
@@ -9409,42 +10193,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dannevirke'
-p3617
+p3956
 aVNew Zealand/Aotearoa
-p3618
+p3957
 aVManawatu-Wanganui
-p3619
+p3958
 aVTararua District
-p3620
-aa(lp3621
+p3959
+aVDannevirke
+p3960
+aa(lp3961
 S'Gerald Kember'
-p3622
+p3962
 aS'1970'
-p3623
+p3963
 aS'Fullback'
-p3624
+p3964
 aS'1'
 aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'14'
-p3625
+p3965
 aS'Wellington'
-p3626
+p3966
 aVNew Zealand/Aotearoa
-p3627
+p3967
 aVWellington
-p3628
+p3968
 aVWellington City
-p3629
-aa(lp3630
+p3969
+aVWellington
+p3970
+aa(lp3971
 S'Keith Murdoch'
-p3631
+p3972
 aS'1970'
-p3632
+p3973
 aS'Prop'
-p3633
+p3974
 aS'3'
 aS'2'
 aS'1'
@@ -9452,20 +10240,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Dunedin'
-p3634
+p3975
 aVNew Zealand/Aotearoa
-p3635
+p3976
 aVOtago
-p3636
+p3977
 aVDunedin City
-p3637
-aa(lp3638
+p3978
+aVDunedin
+p3979
+aa(lp3980
 S'Bob Burgess'
-p3639
+p3981
 aS'1971'
-p3640
+p3982
 aS'Fly-half'
-p3641
+p3983
 aS'7'
 aS'3'
 aS'3'
@@ -9473,20 +10263,22 @@ aS'1'
 aS'2'
 aS'6'
 aS'New Plymouth'
-p3642
+p3984
 aVNew Zealand/Aotearoa
-p3643
+p3985
 aVTaranaki
-p3644
+p3986
 aVNew Plymouth District
-p3645
-aa(lp3646
+p3987
+aVNew Plymouth
+p3988
+aa(lp3989
 S'Ken Carrington'
-p3647
+p3990
 aS'1971'
-p3648
+p3991
 aS'Wing'
-p3649
+p3992
 aS'3'
 aS'0'
 aS'2'
@@ -9494,20 +10286,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Whakatane'
-p3650
+p3993
 aVNew Zealand/Aotearoa
-p3651
+p3994
 aVBay of Plenty
-p3652
+p3995
 aVWhakatane District
-p3653
-aa(lp3654
+p3996
+aVWhakatane
+p3997
+aa(lp3998
 S'Richard Guy'
-p3655
+p3999
 aS'1971'
-p3656
+p4000
 aS'Prop'
-p3657
+p4001
 aS'4'
 aS'1'
 aS'2'
@@ -9515,20 +10309,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Lower Hutt'
-p3658
+p4002
 aVNew Zealand/Aotearoa
-p3659
+p4003
 aVWellington
-p3660
+p4004
 aVLower Hutt City
-p3661
-aa(lp3662
+p4005
+aVLower Hutt
+p4006
+aa(lp4007
 S'Bruce Hunter'
-p3663
+p4008
 aS'1971'
-p3664
+p4009
 aS'Wing'
-p3665
+p4010
 aS'3'
 aS'1'
 aS'2'
@@ -9536,20 +10332,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Oamaru'
-p3666
+p4011
 aVNew Zealand/Aotearoa
-p3667
+p4012
 aVOtago
-p3668
+p4013
 aVWaitaki District
-p3669
-aa(lp3670
+p4014
+aVOamaru
+p4015
+aa(lp4016
 S'Alan McNaughton'
-p3671
+p4017
 aS'1971'
-p3672
+p4018
 aS'Flanker'
-p3673
+p4019
 aS'3'
 aS'1'
 aS'2'
@@ -9557,66 +10355,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p3674
+p4020
 aVNew Zealand/Aotearoa
-p3675
+p4021
 aVCanterbury
-p3676
+p4022
 aVChristchurch City
-p3677
-aa(lp3678
+p4023
+aVChristchurch
+p4024
+aa(lp4025
 S'Tane Norton'
-p3679
+p4026
 aS'1971'
-p3680
+p4027
 aS'Hooker'
-p3681
+p4028
 aS'27'
-p3682
+p4029
 aS'16'
-p3683
+p4030
 aS'8'
 aS'3'
 aS'0'
 aS'0'
 aS'Waikari'
-p3684
+p4031
 aVNew Zealand/Aotearoa
-p3685
+p4032
 aVCanterbury
-p3686
+p4033
 aVHurunui District
-p3687
-aa(lp3688
+p4034
+aVWaikari
+p4035
+aa(lp4036
 S'Pole Whiting'
-p3689
+p4037
 aS'1971'
-p3690
+p4038
 aS'Lock'
-p3691
+p4039
 aS'20'
-p3692
+p4040
 aS'12'
-p3693
+p4041
 aS'5'
 aS'3'
 aS'3'
 aS'12'
-p3694
+p4042
 aS'Auckland'
-p3695
+p4043
 aVNew Zealand/Aotearoa
-p3696
+p4044
 aVAuckland
-p3697
-ag53
-aa(lp3698
+p4045
+ag41
+ag41
+aa(lp4046
 S'Howard Joseph'
-p3699
+p4047
 aS'1971'
-p3700
+p4048
 aS'Centre'
-p3701
+p4049
 aS'2'
 aS'1'
 aS'1'
@@ -9624,42 +10427,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p3702
+p4050
 aVNew Zealand/Aotearoa
-p3703
+p4051
 aVCanterbury
-p3704
+p4052
 aVChristchurch City
-p3705
-aa(lp3706
+p4053
+aVChristchurch
+p4054
+aa(lp4055
 S'Laurie Mains'
-p3707
+p4056
 aS'1971'
-p3708
+p4057
 aS'Fullback'
-p3709
+p4058
 aS'4'
 aS'2'
 aS'1'
 aS'1'
 aS'1'
 aS'21'
-p3710
+p4059
 aS'Dunedin'
-p3711
+p4060
 aVNew Zealand/Aotearoa
-p3712
+p4061
 aVOtago
-p3713
+p4062
 aVDunedin City
-p3714
-aa(lp3715
+p4063
+aVDunedin
+p4064
+aa(lp4065
 S'Mick Duncan'
-p3716
+p4066
 aS'1971'
-p3717
+p4067
 aS'Centre'
-p3718
+p4068
 aS'2'
 aS'0'
 aS'1'
@@ -9667,20 +10474,22 @@ aS'1'
 aS'0'
 aS'0'
 aS'Waipawa'
-p3719
+p4069
 aVNew Zealand/Aotearoa
-p3720
+p4070
 aVWellington
-p3721
+p4071
 aVSouth Wairarapa District
-p3722
-aa(lp3723
+p4072
+aVWaipawa
+p4073
+aa(lp4074
 S'Phil Gard'
-p3724
+p4075
 aS'1971'
-p3725
+p4076
 aS'Five-eighth'
-p3726
+p4077
 aS'1'
 aS'0'
 aS'0'
@@ -9688,937 +10497,42 @@ aS'1'
 aS'0'
 aS'0'
 aS'Kurow'
-p3727
+p4078
 aVNew Zealand/Aotearoa
-p3728
-aVCanterbury
-p3729
-aVWaitaki District
-p3730
-aa(lp3731
-S'John Dougan'
-p3732
-aS'1972'
-p3733
-aS'Fly-half'
-p3734
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'1'
-aS'4'
-aS'Lower Hutt'
-p3735
-aVNew Zealand/Aotearoa
-p3736
-aVWellington
-p3737
-aVLower Hutt City
-p3738
-aa(lp3739
-S'Duncan Hales'
-p3740
-aS'1972'
-p3741
-aS'Wing'
-p3742
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Dannevirke'
-p3743
-aVNew Zealand/Aotearoa
-p3744
-aVManawatu-Wanganui
-p3745
-aVTararua District
-p3746
-aa(lp3747
-S'Jeff Matheson'
-p3748
-aS'1972'
-p3749
-aS'Prop'
-p3750
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Palmerston'
-p3751
-aVCook Islands
-p3752
-aVPalmerston
-p3753
-ag53
-aa(lp3754
-S'Trevor Morris'
-p3755
-aS'1972'
-p3756
-aS'Fullback'
-p3757
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'33'
-p3758
-aS'Nelson'
-p3759
-aVNew Zealand/Aotearoa
-p3760
-aVNelson
-p3761
-ag53
-aa(lp3762
-S'Mike Parkinson'
-p3763
-aS'1972'
-p3764
-aS'Five-eighth'
-p3765
-aS'7'
-aS'6'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Wairoa'
-p3766
-aVNew Zealand/Aotearoa
-p3767
-aVHawke's Bay
-p3768
-aVWairoa District
-p3769
-aa(lp3770
-S'Bruce Robertson'
-p3771
-aS'1972'
-p3772
-aS'Centre'
-p3773
-aS'34'
-p3774
-aS'23'
-p3775
-aS'9'
-aS'2'
-aS'4'
-aS'22'
-p3776
-aS'Hastings'
-p3777
-aVUnited Kingdom
-p3778
-aVEngland
-p3779
-aVSouth East
-p3780
-aa(lp3781
-S'Alistair Scown'
-p3782
-aS'1972'
-p3783
-aS'Flanker'
-p3784
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'1'
-aS'4'
-aS'Patea'
-p3785
-aVNew Zealand/Aotearoa
-p3786
-aVTaranaki
-p3787
-aVSouth Taranaki District
-p3788
-aa(lp3789
-S'Graham Whiting'
-p3790
-aS'1972'
-p3791
-aS'Prop'
-p3792
-aS'6'
-aS'4'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Wanganui'
-p3793
-aVNew Zealand/Aotearoa
-p3794
-aVManawatu-Wanganui
-p3795
-aVWanganui District
-p3796
-aa(lp3797
-S'Lyn Jaffray'
-p3798
-aS'1972'
-p3799
-aS'Five-eighth'
-p3800
-aS'7'
-aS'4'
-aS'3'
-aS'0'
-aS'1'
-aS'4'
-aS'Dunedin'
-p3801
-aVNew Zealand/Aotearoa
-p3802
-aVOtago
-p3803
-aVDunedin City
-p3804
-aa(lp3805
-S'Graham Sims'
-p3806
-aS'1972'
-p3807
-aS'Centre'
-p3808
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Featherston'
-p3809
-aVNew Zealand/Aotearoa
-p3810
-aVWellington
-p3811
-aVSouth Wairarapa District
-p3812
-aa(lp3813
-S'Grant Batty'
-p3814
-aS'1972'
-p3815
-aS'Wing'
-p3816
-aS'15'
-p3817
-aS'9'
-aS'5'
-aS'1'
-aS'4'
-aS'16'
-p3818
-aS'Greytown'
-p3819
-aVNew Zealand/Aotearoa
-p3820
-aVWellington
-p3821
-aVSouth Wairarapa District
-p3822
-aa(lp3823
-S'Joseph Karam'
-p3824
-aS'1972'
-p3825
-aS'Fullback'
-p3826
-aS'10'
-p3827
-aS'7'
-aS'1'
-aS'2'
-aS'1'
-aS'65'
-p3828
-aS'Taumarunui'
-p3829
-aVNew Zealand/Aotearoa
-p3830
-aVManawatu-Wanganui
-p3831
-aVRuapehu District
-p3832
-aa(lp3833
-S'Hamish Macdonald'
-p3834
-aS'1972'
-p3835
-aS'Lock'
-p3836
-aS'12'
-p3837
-aS'7'
-aS'4'
-aS'1'
-aS'1'
-aS'4'
-aS'Rawene'
-p3838
-aVNew Zealand/Aotearoa
-p3839
-aVNorthland
-p3840
-aVFar North District
-p3841
-aa(lp3842
-S'Ian Stevens'
-p3843
-aS'1972'
-p3844
-aS'Fly-half'
-p3845
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'1'
-aS'4'
-aS'Waipawa'
-p3846
-aVNew Zealand/Aotearoa
-p3847
-aVWellington
-p3848
-aVSouth Wairarapa District
-p3849
-aa(lp3850
-S'Kent Lambert'
-p3851
-aS'1972'
-p3852
-aS'Prop'
-p3853
-aS'11'
-p3854
-aS'5'
-aS'5'
-aS'1'
-aS'0'
-aS'0'
-aS'Wairoa'
-p3855
-aVNew Zealand/Aotearoa
-p3856
-aVHawke's Bay
-p3857
-aVWairoa District
-p3858
-aa(lp3859
-S'Ian Hurst'
-p3860
-aS'1973'
-p3861
-aS'Five-eighth'
-p3862
-aS'5'
-aS'1'
-aS'2'
-aS'2'
-aS'2'
-aS'8'
-aS'Oamaru'
-p3863
-aVNew Zealand/Aotearoa
-p3864
-aVOtago
-p3865
-aVWaitaki District
-p3866
-aa(lp3867
-S'Murray Jones'
-p3868
-aS'1973'
-p3869
-aS'Prop'
-p3870
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Warkworth'
-p3871
-aVNew Zealand/Aotearoa
-p3872
-aVAuckland
-p3873
-aVRodney
-p3874
-aa(lp3875
-S'Robert Lendrum'
-p3876
-aS'1973'
-p3877
-aS'Fullback'
-p3878
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'2'
-aS'Waiuku'
-p3879
-aVNew Zealand/Aotearoa
-p3880
-aVAuckland
-p3881
-aVFranklin
-p3882
-aa(lp3883
-S'Ken Stewart'
-p3884
-aS'1973'
-p3885
-aS'Flanker'
-p3886
-aS'13'
-p3887
-aS'8'
-aS'4'
-aS'1'
-aS'0'
-aS'0'
-aS'Gore'
-p3888
-aVNew Zealand/Aotearoa
-p3889
-aVSouthland
-p3890
-aVGore District
-p3891
-aa(lp3892
-S'Terry Morrison'
-p3893
-aS'1973'
-p3894
-aS'Wing'
-p3895
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Hamilton'
-p3896
-aVCanada
-p3897
-aVOntario
-p3898
-aVHamilton
-p3899
-aa(lp3900
-S'Billy Bush'
-p3901
-aS'1974'
-p3902
-aS'Prop'
-p3903
-aS'12'
-p3904
-aS'8'
-aS'3'
-aS'1'
-aS'0'
-aS'0'
-aS'Napier'
-p3905
-aVNew Zealand/Aotearoa
-p3906
-aVHawke's Bay
-p3907
-aVNapier City
-p3908
-aa(lp3909
-S'John Callesen'
-p3910
-aS'1974'
-p3911
-aS'Lock'
-p3912
-aS'4'
-aS'3'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Palmerston North'
-p3913
-aVNew Zealand/Aotearoa
-p3914
-aVManawatu-Wanganui
-p3915
-aVPalmerston North City
-p3916
-aa(lp3917
-S'Bruce Gemmell'
-p3918
-aS'1974'
-p3919
-aS'Scrum-half'
-p3920
-aS'2'
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Auckland'
-p3921
-aVNew Zealand/Aotearoa
-p3922
-aVAuckland
-p3923
-ag53
-aa(lp3924
-S'Andrew Leslie'
-p3925
-aS'1974'
-p3926
-aS'No. 8'
-p3927
-aS'10'
-p3928
-aS'6'
-aS'3'
-aS'1'
-aS'1'
-aS'4'
-aS'Lower Hutt'
-p3929
-aVNew Zealand/Aotearoa
-p3930
-aVWellington
-p3931
-aVLower Hutt City
-p3932
-aa(lp3933
-S'Duncan Robertson'
-p3934
-aS'1974'
-p3935
-aS'Fly-half'
-p3936
-aS'10'
-p3937
-aS'6'
-aS'3'
-aS'1'
-aS'2'
-aS'8'
-aS'Dunedin'
-p3938
-aVNew Zealand/Aotearoa
-p3939
-aVOtago
-p3940
-aVDunedin City
-p3941
-aa(lp3942
-S'Kerry Tanner'
-p3943
-aS'1974'
-p3944
-aS'Prop'
-p3945
-aS'7'
-aS'5'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Hamilton'
-p3946
-aVCanada
-p3947
-aVOntario
-p3948
-aVHamilton
-p3949
-aa(lp3950
-S'Jon McLachlan'
-p3951
-aS'1974'
-p3952
-aS'Wing'
-p3953
-aS'1'
-aS'0'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'Auckland'
-p3954
-aVNew Zealand/Aotearoa
-p3955
-aVAuckland
-p3956
-ag53
-aa(lp3957
-S'Ashley Gardiner'
-p3958
-aS'1974'
-p3959
-aS'Prop'
-p3960
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'New Plymouth'
-p3961
-aVNew Zealand/Aotearoa
-p3962
-aVTaranaki
-p3963
-aVNew Plymouth District
-p3964
-aa(lp3965
-S'Joe Morgan'
-p3966
-aS'1974'
-p3967
-aS'Five-eighth'
-p3968
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'1'
-aS'4'
-aS'Whangarei'
-p3969
-aVNew Zealand/Aotearoa
-p3970
-aVNorthland
-p3971
-aVWhangarei District
-p3972
-aa(lp3973
-S'Bill Osborne'
-p3974
-aS'1975'
-p3975
-aS'Five-eighth'
-p3976
-aS'16'
-p3977
-aS'13'
-p3978
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Wanganui'
-p3979
-aVNew Zealand/Aotearoa
-p3980
-aVManawatu-Wanganui
-p3981
-aVWanganui District
-p3982
-aa(lp3983
-S'Lyn Davis'
-p3984
-aS'1976'
-p3985
-aS'Scrum-half'
-p3986
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Christchurch'
-p3987
-aVNew Zealand/Aotearoa
-p3988
-aVCanterbury
-p3989
-aVChristchurch City
-p3990
-aa(lp3991
-S'Neil Purvis'
-p3992
-aS'1976'
-p3993
-aS'Wing'
-p3994
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Cromwell'
-p3995
-aVUnited States of America
-p3996
-aV89109
-p3997
-aVNevada
-p3998
-aa(lp3999
-S'Doug Bruce'
-p4000
-aS'1976'
-p4001
-aS'Fly-half'
-p4002
-aS'14'
-p4003
-aS'10'
-p4004
-aS'4'
-aS'0'
-aS'0'
-aS'15'
-p4005
-aS'Dunedin'
-p4006
-aVNew Zealand/Aotearoa
-p4007
-aVOtago
-p4008
-aVDunedin City
-p4009
-aa(lp4010
-S'Kevin Everleigh'
-p4011
-aS'1976'
-p4012
-aS'Flanker'
-p4013
-aS'4'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Palmerston North'
-p4014
-aVNew Zealand/Aotearoa
-p4015
-aVManawatu-Wanganui
-p4016
-aVPalmerston North City
-p4017
-aa(lp4018
-S'Kit Fawcett'
-p4019
-aS'1976'
-p4020
-aS'Fullback'
-p4021
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Matamata'
-p4022
-aVNew Zealand/Aotearoa
-p4023
-aVWaikato
-p4024
-aVMatamata Piako District
-p4025
-aa(lp4026
-S'Brad Johnstone'
-p4027
-aS'1976'
-p4028
-aS'Prop'
-p4029
-aS'13'
-p4030
-aS'10'
-p4031
-aS'3'
-aS'0'
-aS'2'
-aS'8'
-aS'Auckland'
-p4032
-aVNew Zealand/Aotearoa
-p4033
-aVAuckland
-p4034
-ag53
-aa(lp4035
-S'Perry Harris'
-p4036
-aS'1976'
-p4037
-aS'Prop'
-p4038
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Feilding'
-p4039
-aVNew Zealand/Aotearoa
-p4040
-aVManawatu-Wanganui
-p4041
-aVManawatu District
-p4042
-aa(lp4043
-S'Frank Oliver'
-p4044
-aS'1976'
-p4045
-aS'Lock'
-p4046
-aS'17'
-p4047
-aS'11'
-p4048
-aS'6'
-aS'0'
-aS'1'
-aS'4'
-aS'Dunedin'
-p4049
-aVNew Zealand/Aotearoa
-p4050
-aVOtago
-p4051
-aVDunedin City
-p4052
-aa(lp4053
-S'Terry Mitchell'
-p4054
-aS'1976'
-p4055
-aS'Wing'
-p4056
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Takara'
-p4057
-aVNigeria
-p4058
-aVJigawa
-p4059
-aVGuri
-p4060
-aa(lp4061
-S'Colin Farrell'
-p4062
-aS'1977'
-p4063
-aS'Fullback'
-p4064
-aS'2'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p4065
-aVNew Zealand/Aotearoa
-p4066
-aVAuckland
-p4067
-ag53
-aa(lp4068
-S'Andy Haden'
-p4069
-aS'1977'
-p4070
-aS'Lock'
-p4071
-aS'41'
-p4072
-aS'31'
-p4073
-aS'9'
-aS'1'
-aS'2'
-aS'8'
-aS'Wanganui'
-p4074
-aVNew Zealand/Aotearoa
-p4075
-aVManawatu-Wanganui
-p4076
-aVWanganui District
-p4077
-aa(lp4078
-S'Laurie Knight'
 p4079
-aS'1977'
+aVCanterbury
 p4080
-aS'No. 8'
+aVWaitaki District
 p4081
-aS'6'
-aS'4'
-aS'2'
-aS'0'
-aS'1'
-aS'4'
-aS'Auckland'
+aVKurow
 p4082
-aVNew Zealand/Aotearoa
-p4083
-aVAuckland
+aa(lp4083
+S'John Dougan'
 p4084
-ag53
-aa(lp4085
-S'Mark Taylor'
+aS'1972'
+p4085
+aS'Fly-half'
 p4086
-aS'1977'
-p4087
-aS'Five-eighth'
-p4088
-aS'9'
-aS'5'
-aS'4'
+aS'2'
+aS'1'
+aS'1'
 aS'0'
 aS'1'
 aS'4'
-aS'Auckland'
-p4089
+aS'Lower Hutt'
+p4087
 aVNew Zealand/Aotearoa
+p4088
+aVWellington
+p4089
+aVLower Hutt City
 p4090
-aVAuckland
+aVLower Hutt
 p4091
-ag53
 aa(lp4092
-S'Brian Ford'
+S'Duncan Hales'
 p4093
-aS'1977'
+aS'1972'
 p4094
 aS'Wing'
 p4095
@@ -10628,335 +10542,350 @@ aS'0'
 aS'0'
 aS'0'
 aS'0'
-aS'Kaikoura'
+aS'Dannevirke'
 p4096
 aVNew Zealand/Aotearoa
 p4097
-aVCanterbury
+aVManawatu-Wanganui
 p4098
-aVKaikoura District
+aVTararua District
 p4099
-aa(lp4100
-S'John McEldowney'
-p4101
-aS'1977'
+aVDannevirke
+p4100
+aa(lp4101
+S'Jeff Matheson'
 p4102
-aS'Prop'
+aS'1972'
 p4103
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'New Plymouth'
+aS'Prop'
 p4104
-aVNew Zealand/Aotearoa
-p4105
-aVTaranaki
-p4106
-aVNew Plymouth District
-p4107
-aa(lp4108
-S'Graham Mourie'
-p4109
-aS'1977'
-p4110
-aS'Flanker'
-p4111
-aS'21'
-p4112
-aS'17'
-p4113
-aS'4'
-aS'0'
-aS'4'
-aS'16'
-p4114
-aS'Opunake'
-p4115
-aVNew Zealand/Aotearoa
-p4116
-aVTaranaki
-p4117
-aVSouth Taranaki District
-p4118
-aa(lp4119
-S'Bevan Wilson'
-p4120
-aS'1977'
-p4121
-aS'Fullback'
-p4122
-aS'8'
 aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Palmerston'
+p4105
+aVCook Islands
+p4106
+aVPalmerston
+p4107
+ag41
+ag41
+aa(lp4108
+S'Trevor Morris'
+p4109
+aS'1972'
+p4110
+aS'Fullback'
+p4111
+aS'3'
 aS'3'
 aS'0'
 aS'0'
-aS'55'
+aS'0'
+aS'33'
+p4112
+aS'Nelson'
+p4113
+aVNew Zealand/Aotearoa
+p4114
+aVNelson
+p4115
+ag41
+ag41
+aa(lp4116
+S'Mike Parkinson'
+p4117
+aS'1972'
+p4118
+aS'Five-eighth'
+p4119
+aS'7'
+aS'6'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Wairoa'
+p4120
+aVNew Zealand/Aotearoa
+p4121
+aVHawke's Bay
+p4122
+aVWairoa District
 p4123
-aS'Dunstan'
+aVWairoa
 p4124
-aVNew Zealand/Aotearoa
-p4125
-aVOtago
+aa(lp4125
+S'Bruce Robertson'
 p4126
-aVCentral Otago District
+aS'1972'
 p4127
-aa(lp4128
-S'John Black'
+aS'Centre'
+p4128
+aS'34'
 p4129
-aS'1977'
+aS'23'
 p4130
-aS'Hooker'
-p4131
-aS'3'
-aS'0'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'Timaru'
-p4132
-aVNew Zealand/Aotearoa
-p4133
-aVCanterbury
-p4134
-aVTimaru District
-p4135
-aa(lp4136
-S'Mark Donaldson'
-p4137
-aS'1977'
-p4138
-aS'Scrum-half'
-p4139
-aS'13'
-p4140
 aS'9'
+aS'2'
 aS'4'
+aS'22'
+p4131
+aS'Hastings'
+p4132
+aVUnited Kingdom
+p4133
+aVEngland
+p4134
+aVSouth East
+p4135
+aVEast Sussex
+p4136
+aa(lp4137
+S'Alistair Scown'
+p4138
+aS'1972'
+p4139
+aS'Flanker'
+p4140
+aS'5'
+aS'5'
+aS'0'
 aS'0'
 aS'1'
 aS'4'
-aS'Palmerston North'
+aS'Patea'
 p4141
 aVNew Zealand/Aotearoa
 p4142
-aVManawatu-Wanganui
+aVTaranaki
 p4143
-aVPalmerston North City
+aVSouth Taranaki District
 p4144
-aa(lp4145
-S'Gary Knight'
-p4146
-aS'1977'
+aVPatea
+p4145
+aa(lp4146
+S'Graham Whiting'
 p4147
-aS'Prop'
+aS'1972'
 p4148
-aS'36'
+aS'Prop'
 p4149
-aS'27'
-p4150
-aS'9'
-aS'0'
-aS'1'
+aS'6'
 aS'4'
-aS'Wellington'
-p4151
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Wanganui'
+p4150
 aVNew Zealand/Aotearoa
+p4151
+aVManawatu-Wanganui
 p4152
-aVWellington
+aVWanganui District
 p4153
-aVWellington City
+aVWhanganui
 p4154
 aa(lp4155
-S'Brian McKechnie'
+S'Lyn Jaffray'
 p4156
-aS'1977'
+aS'1972'
 p4157
-aS'Fullback'
+aS'Five-eighth'
 p4158
-aS'10'
-p4159
 aS'7'
+aS'4'
 aS'3'
 aS'0'
-aS'0'
-aS'46'
-p4160
-aS'Gore'
-p4161
-aVNew Zealand/Aotearoa
-p4162
-aVSouthland
-p4163
-aVGore District
-p4164
-aa(lp4165
-S'Gary Seear'
-p4166
-aS'1977'
-p4167
-aS'No. 8'
-p4168
-aS'12'
-p4169
-aS'8'
+aS'1'
 aS'4'
-aS'0'
-aS'2'
-aS'11'
-p4170
 aS'Dunedin'
-p4171
+p4159
 aVNew Zealand/Aotearoa
-p4172
+p4160
 aVOtago
-p4173
+p4161
 aVDunedin City
+p4162
+aVDunedin
+p4163
+aa(lp4164
+S'Graham Sims'
+p4165
+aS'1972'
+p4166
+aS'Centre'
+p4167
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Featherston'
+p4168
+aVNew Zealand/Aotearoa
+p4169
+aVWellington
+p4170
+aVSouth Wairarapa District
+p4171
+aVFeatherston
+p4172
+aa(lp4173
+S'Grant Batty'
 p4174
-aa(lp4175
-S'Stu Wilson'
-p4176
-aS'1977'
-p4177
+aS'1972'
+p4175
 aS'Wing'
+p4176
+aS'15'
+p4177
+aS'9'
+aS'5'
+aS'1'
+aS'4'
+aS'16'
 p4178
-aS'34'
+aS'Greytown'
 p4179
-aS'25'
+aVNew Zealand/Aotearoa
 p4180
-aS'8'
-aS'1'
-aS'19'
+aVWellington
 p4181
-aS'76'
+aVSouth Wairarapa District
 p4182
-aS'Gore'
+aVGreytown
 p4183
-aVNew Zealand/Aotearoa
-p4184
-aVSouthland
+aa(lp4184
+S'Joseph Karam'
 p4185
-aVGore District
+aS'1972'
 p4186
-aa(lp4187
-S'Robbie Stuart'
+aS'Fullback'
+p4187
+aS'10'
 p4188
-aS'1977'
+aS'7'
+aS'1'
+aS'2'
+aS'1'
+aS'65'
 p4189
-aS'Lock'
+aS'Taumarunui'
 p4190
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Napier'
-p4191
 aVNew Zealand/Aotearoa
+p4191
+aVManawatu-Wanganui
 p4192
-aVHawke's Bay
+aVRuapehu District
 p4193
-aVNapier City
+aVTaumarunui
 p4194
 aa(lp4195
-S'Andy Dalton'
+S'Hamish Macdonald'
 p4196
-aS'1977'
+aS'1972'
 p4197
-aS'Hooker'
+aS'Lock'
 p4198
-aS'35'
-p4199
-aS'30'
-p4200
-aS'5'
-aS'0'
-aS'3'
 aS'12'
+p4199
+aS'7'
+aS'4'
+aS'1'
+aS'1'
+aS'4'
+aS'Rawene'
+p4200
+aVNew Zealand/Aotearoa
 p4201
-aS'Dunedin'
+aVNorthland
 p4202
-aVNew Zealand/Aotearoa
+aVFar North District
 p4203
-aVOtago
+aVRawene
 p4204
-aVDunedin City
-p4205
-aa(lp4206
-S'Barry Ashworth'
+aa(lp4205
+S'Ian Stevens'
+p4206
+aS'1972'
 p4207
-aS'1978'
+aS'Fly-half'
 p4208
-aS'Flanker'
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'Waipawa'
 p4209
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Waiuku'
-p4210
 aVNew Zealand/Aotearoa
+p4210
+aVWellington
 p4211
-aVAuckland
+aVSouth Wairarapa District
 p4212
-aVFranklin
+aVWaipawa
 p4213
 aa(lp4214
-S'John Ashworth'
+S'Kent Lambert'
 p4215
-aS'1978'
+aS'1972'
 p4216
 aS'Prop'
 p4217
-aS'24'
+aS'11'
 p4218
-aS'18'
-p4219
-aS'6'
-aS'0'
+aS'5'
+aS'5'
 aS'1'
-aS'4'
-aS'Makahu'
-p4220
+aS'0'
+aS'0'
+aS'Wairoa'
+p4219
 aVNew Zealand/Aotearoa
+p4220
+aVHawke's Bay
 p4221
-aVTaranaki
+aVWairoa District
 p4222
-aVStratford District
+aVWairoa
 p4223
 aa(lp4224
-S'Leicester Rutledge'
+S'Ian Hurst'
 p4225
-aS'1978'
+aS'1973'
 p4226
-aS'Flanker'
+aS'Five-eighth'
 p4227
-aS'13'
-p4228
-aS'8'
 aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'Christchurch'
-p4229
+aS'1'
+aS'2'
+aS'2'
+aS'2'
+aS'8'
+aS'Oamaru'
+p4228
 aVNew Zealand/Aotearoa
+p4229
+aVOtago
 p4230
-aVCanterbury
+aVWaitaki District
 p4231
-aVChristchurch City
+aVOamaru
 p4232
 aa(lp4233
-S'Dick Myers'
+S'Murray Jones'
 p4234
-aS'1978'
+aS'1973'
 p4235
-aS'Flanker'
+aS'Prop'
 p4236
 aS'1'
 aS'0'
@@ -10964,411 +10893,416 @@ aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'Hamilton'
+aS'Warkworth'
 p4237
-aVCanada
+aVNew Zealand/Aotearoa
 p4238
-aVOntario
+aVAuckland
 p4239
-aVHamilton
+aVRodney
 p4240
-aa(lp4241
-S'Clive Currie'
-p4242
-aS'1978'
+aVWarkworth
+p4241
+aa(lp4242
+S'Robert Lendrum'
 p4243
-aS'Fullback'
+aS'1973'
 p4244
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Wellington'
+aS'Fullback'
 p4245
-aVNew Zealand/Aotearoa
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'2'
+aS'Waiuku'
 p4246
-aVWellington
+aVNew Zealand/Aotearoa
 p4247
-aVWellington City
+aVAuckland
 p4248
-aa(lp4249
-S'David Loveridge'
-p4250
-aS'1978'
-p4251
-aS'Scrum-half'
-p4252
-aS'24'
-p4253
-aS'19'
-p4254
-aS'4'
-aS'1'
-aS'3'
-aS'12'
-p4255
-aS'Stratford'
-p4256
-aVUnited Kingdom
-p4257
-aVEngland
-p4258
-aVWest Midlands
-p4259
-aa(lp4260
-S'Murray Taylor'
-p4261
-aS'1979'
-p4262
-aS'Fly-half'
-p4263
-aS'7'
-aS'4'
-aS'3'
-aS'0'
-aS'0'
-aS'3'
-aS'Hamilton'
-p4264
-aVCanada
-p4265
-aVOntario
-p4266
-aVHamilton
-p4267
-aa(lp4268
-S'Murray Watts'
-p4269
-aS'1979'
-p4270
-aS'Wing'
-p4271
-aS'5'
-aS'2'
-aS'3'
-aS'0'
-aS'1'
-aS'4'
-aS'Patea'
-p4272
-aVNew Zealand/Aotearoa
-p4273
-aVTaranaki
-p4274
-aVSouth Taranaki District
-p4275
-aa(lp4276
-S'Wayne Graham'
-p4277
-aS'1979'
-p4278
-aS'Flanker'
-p4279
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Tauranga'
-p4280
-aVNew Zealand/Aotearoa
-p4281
-aVBay of Plenty
-p4282
-aVTauranga City
-p4283
-aa(lp4284
-S'Gary Cunningham'
-p4285
-aS'1979'
-p4286
-aS'Five-eighth'
-p4287
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p4288
-aVNew Zealand/Aotearoa
-p4289
-aVAuckland
-p4290
-ag53
-aa(lp4291
-S'Mike McCool'
-p4292
-aS'1979'
-p4293
-aS'Lock'
-p4294
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Hastings'
-p4295
-aVUnited Kingdom
-p4296
-aVEngland
-p4297
-aVSouth East
-p4298
-aa(lp4299
-S'Eddie Dunn'
-p4300
-aS'1979'
-p4301
-aS'Fly-half'
-p4302
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'1'
-aS'4'
-aS'Te Kopuru'
-p4303
-aVNew Zealand/Aotearoa
-p4304
-aVNorthland
-p4305
-aVKaipara District
-p4306
-aa(lp4307
-S'John Fleming'
-p4308
-aS'1979'
-p4309
-aS'Lock'
-p4310
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'1'
-aS'4'
-aS'Auckland'
-p4311
-aVNew Zealand/Aotearoa
-p4312
-aVAuckland
-p4313
-ag53
-aa(lp4314
-S'Bernie Fraser'
-p4315
-aS'1979'
-p4316
-aS'Wing'
-p4317
-aS'23'
-p4318
-aS'17'
-p4319
-aS'5'
-aS'1'
-aS'6'
-aS'24'
-p4320
-aS'Lautoka'
-p4321
-aVViti
-p4322
-aVLautoka
-p4323
-ag53
-aa(lp4324
-S'Murray Mexted'
-p4325
-aS'1979'
-p4326
-aS'No. 8'
-p4327
-aS'34'
-p4328
-aS'26'
-p4329
-aS'6'
-aS'2'
-aS'4'
-aS'16'
-p4330
-aS'Wellington'
-p4331
-aVNew Zealand/Aotearoa
-p4332
-aVWellington
-p4333
-aVWellington City
-p4334
-aa(lp4335
-S'John Spiers'
-p4336
-aS'1979'
-p4337
-aS'Prop'
-p4338
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Otahuhu'
-p4339
-aVNew Zealand/Aotearoa
-p4340
-aVAuckland
-p4341
-aVMangere-Otahuhu
-p4342
-aa(lp4343
-S'Richard Wilson'
-p4344
-aS'1979'
-p4345
-aS'Fullback'
-p4346
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'10'
-p4347
-aS'Leeston'
-p4348
-aVNew Zealand/Aotearoa
-p4349
-aVCanterbury
-p4350
-aVSelwyn District
-p4351
-aa(lp4352
-S'Peter Sloane'
-p4353
-aS'1979'
-p4354
-aS'Hooker'
-p4355
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Whangarei'
-p4356
-aVNew Zealand/Aotearoa
-p4357
-aVNorthland
-p4358
-aVWhangarei District
-p4359
-aa(lp4360
-S'Brett Codlin'
-p4361
-aS'1980'
-p4362
-aS'Fullback'
-p4363
-aS'3'
-aS'1'
-aS'2'
-aS'0'
-aS'0'
-aS'23'
-p4364
-aS'Pukekohe'
-p4365
-aVNew Zealand/Aotearoa
-p4366
-aVAuckland
-p4367
 aVFranklin
-p4368
-aa(lp4369
-S'Hika Reid'
-p4370
-aS'1980'
-p4371
-aS'Hooker'
-p4372
-aS'9'
+p4249
+aVWaiuku
+p4250
+aa(lp4251
+S'Ken Stewart'
+p4252
+aS'1973'
+p4253
+aS'Flanker'
+p4254
+aS'13'
+p4255
+aS'8'
+aS'4'
+aS'1'
+aS'0'
+aS'0'
+aS'Gore'
+p4256
+aVNew Zealand/Aotearoa
+p4257
+aVSouthland
+p4258
+aVGore District
+p4259
+aVGore
+p4260
+aa(lp4261
+S'Terry Morrison'
+p4262
+aS'1973'
+p4263
+aS'Wing'
+p4264
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Hamilton'
+p4265
+aVCanada
+p4266
+aVOntario
+p4267
+aVHamilton
+p4268
+ag41
+aa(lp4269
+S'Billy Bush'
+p4270
+aS'1974'
+p4271
+aS'Prop'
+p4272
+aS'12'
+p4273
+aS'8'
+aS'3'
+aS'1'
+aS'0'
+aS'0'
+aS'Napier'
+p4274
+aVNew Zealand/Aotearoa
+p4275
+aVHawke's Bay
+p4276
+aVNapier City
+p4277
+aVNapier
+p4278
+aa(lp4279
+S'John Callesen'
+p4280
+aS'1974'
+p4281
+aS'Lock'
+p4282
 aS'4'
 aS'3'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Palmerston North'
+p4283
+aVNew Zealand/Aotearoa
+p4284
+aVManawatu-Wanganui
+p4285
+aVPalmerston North City
+p4286
+aVPalmerston North
+p4287
+aa(lp4288
+S'Bruce Gemmell'
+p4289
+aS'1974'
+p4290
+aS'Scrum-half'
+p4291
 aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Auckland'
+p4292
+aVNew Zealand/Aotearoa
+p4293
+aVAuckland
+p4294
+ag41
+ag41
+aa(lp4295
+S'Andrew Leslie'
+p4296
+aS'1974'
+p4297
+aS'No. 8'
+p4298
+aS'10'
+p4299
+aS'6'
+aS'3'
+aS'1'
+aS'1'
+aS'4'
+aS'Lower Hutt'
+p4300
+aVNew Zealand/Aotearoa
+p4301
+aVWellington
+p4302
+aVLower Hutt City
+p4303
+aVLower Hutt
+p4304
+aa(lp4305
+S'Duncan Robertson'
+p4306
+aS'1974'
+p4307
+aS'Fly-half'
+p4308
+aS'10'
+p4309
+aS'6'
+aS'3'
+aS'1'
 aS'2'
 aS'8'
-aS'Rotorua'
-p4373
+aS'Dunedin'
+p4310
 aVNew Zealand/Aotearoa
+p4311
+aVOtago
+p4312
+aVDunedin City
+p4313
+aVDunedin
+p4314
+aa(lp4315
+S'Kerry Tanner'
+p4316
+aS'1974'
+p4317
+aS'Prop'
+p4318
+aS'7'
+aS'5'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Hamilton'
+p4319
+aVCanada
+p4320
+aVOntario
+p4321
+aVHamilton
+p4322
+ag41
+aa(lp4323
+S'Jon McLachlan'
+p4324
+aS'1974'
+p4325
+aS'Wing'
+p4326
+aS'1'
+aS'0'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Auckland'
+p4327
+aVNew Zealand/Aotearoa
+p4328
+aVAuckland
+p4329
+ag41
+ag41
+aa(lp4330
+S'Ashley Gardiner'
+p4331
+aS'1974'
+p4332
+aS'Prop'
+p4333
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'New Plymouth'
+p4334
+aVNew Zealand/Aotearoa
+p4335
+aVTaranaki
+p4336
+aVNew Plymouth District
+p4337
+aVNew Plymouth
+p4338
+aa(lp4339
+S'Joe Morgan'
+p4340
+aS'1974'
+p4341
+aS'Five-eighth'
+p4342
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'Whangarei'
+p4343
+aVNew Zealand/Aotearoa
+p4344
+aVNorthland
+p4345
+aVWhangarei District
+p4346
+aVWhangarei
+p4347
+aa(lp4348
+S'Bill Osborne'
+p4349
+aS'1975'
+p4350
+aS'Five-eighth'
+p4351
+aS'16'
+p4352
+aS'13'
+p4353
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'Wanganui'
+p4354
+aVNew Zealand/Aotearoa
+p4355
+aVManawatu-Wanganui
+p4356
+aVWanganui District
+p4357
+aVWhanganui
+p4358
+aa(lp4359
+S'Lyn Davis'
+p4360
+aS'1976'
+p4361
+aS'Scrum-half'
+p4362
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Christchurch'
+p4363
+aVNew Zealand/Aotearoa
+p4364
+aVCanterbury
+p4365
+aVChristchurch City
+p4366
+aVChristchurch
+p4367
+aa(lp4368
+S'Neil Purvis'
+p4369
+aS'1976'
+p4370
+aS'Wing'
+p4371
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Cromwell'
+p4372
+aVUnited States of America
+p4373
+aV89109
 p4374
-aVBay of Plenty
+aVNevada
 p4375
-aVRotorua District
+aVClark County
 p4376
 aa(lp4377
-S'Mark Shaw'
+S'Doug Bruce'
 p4378
-aS'1980'
+aS'1976'
 p4379
-aS'Flanker'
+aS'Fly-half'
 p4380
-aS'30'
+aS'14'
 p4381
-aS'21'
+aS'10'
 p4382
-aS'7'
-aS'2'
-aS'6'
-aS'24'
+aS'4'
+aS'0'
+aS'0'
+aS'15'
 p4383
-aS'Palmerston North'
+aS'Dunedin'
 p4384
 aVNew Zealand/Aotearoa
 p4385
-aVManawatu-Wanganui
+aVOtago
 p4386
-aVPalmerston North City
+aVDunedin City
 p4387
-aa(lp4388
-S'Wayne Smith'
-p4389
-aS'1980'
+aVDunedin
+p4388
+aa(lp4389
+S'Kevin Everleigh'
 p4390
-aS'Fly-half'
+aS'1976'
 p4391
-aS'17'
+aS'Flanker'
 p4392
-aS'11'
-p4393
 aS'4'
 aS'2'
+aS'2'
 aS'0'
-aS'6'
-aS'Putaruru'
-p4394
+aS'0'
+aS'0'
+aS'Palmerston North'
+p4393
 aVNew Zealand/Aotearoa
+p4394
+aVManawatu-Wanganui
 p4395
-aVWaikato
+aVPalmerston North City
 p4396
-aVSouth Waikato District
+aVPalmerston North
 p4397
 aa(lp4398
-S'Tim Twigden'
+S'Kit Fawcett'
 p4399
-aS'1980'
+aS'1976'
 p4400
-aS'Wing'
+aS'Fullback'
 p4401
 aS'2'
 aS'1'
@@ -11376,925 +11310,925 @@ aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'Taumarunui'
+aS'Matamata'
 p4402
 aVNew Zealand/Aotearoa
 p4403
-aVManawatu-Wanganui
+aVWaikato
 p4404
-aVRuapehu District
+aVMatamata Piako District
 p4405
-aa(lp4406
-S'Nicky Allen'
-p4407
-aS'1980'
+aVMatamata
+p4406
+aa(lp4407
+S'Brad Johnstone'
 p4408
-aS'Fly-half'
+aS'1976'
 p4409
+aS'Prop'
+p4410
+aS'13'
+p4411
+aS'10'
+p4412
+aS'3'
+aS'0'
 aS'2'
+aS'8'
+aS'Auckland'
+p4413
+aVNew Zealand/Aotearoa
+p4414
+aVAuckland
+p4415
+ag41
+ag41
+aa(lp4416
+S'Perry Harris'
+p4417
+aS'1976'
+p4418
+aS'Prop'
+p4419
 aS'1'
+aS'0'
 aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Feilding'
+p4420
+aVNew Zealand/Aotearoa
+p4421
+aVManawatu-Wanganui
+p4422
+aVManawatu District
+p4423
+aVFeilding
+p4424
+aa(lp4425
+S'Frank Oliver'
+p4426
+aS'1976'
+p4427
+aS'Lock'
+p4428
+aS'17'
+p4429
+aS'11'
+p4430
+aS'6'
 aS'0'
 aS'1'
 aS'4'
-aS'Auckland'
-p4410
-aVNew Zealand/Aotearoa
-p4411
-aVAuckland
-p4412
-ag53
-aa(lp4413
-S'Lachlan Cameron'
-p4414
-aS'1980'
-p4415
-aS'Five-eighth'
-p4416
-aS'5'
-aS'3'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'Hamilton'
-p4417
-aVCanada
-p4418
-aVOntario
-p4419
-aVHamilton
-p4420
-aa(lp4421
-S'Geoffrey Hines'
-p4422
-aS'1980'
-p4423
-aS'Flanker'
-p4424
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Tokoroa'
-p4425
-aVNew Zealand/Aotearoa
-p4426
-aVWaikato
-p4427
-aVSouth Waikato District
-p4428
-aa(lp4429
-S'Graeme Higginson'
-p4430
-aS'1980'
+aS'Dunedin'
 p4431
-aS'Lock'
+aVNew Zealand/Aotearoa
 p4432
-aS'6'
-aS'5'
+aVOtago
+p4433
+aVDunedin City
+p4434
+aVDunedin
+p4435
+aa(lp4436
+S'Terry Mitchell'
+p4437
+aS'1976'
+p4438
+aS'Wing'
+p4439
+aS'1'
+aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
-aS'Rangiora'
-p4433
-aVNew Zealand/Aotearoa
-p4434
-aVCanterbury
-p4435
-aVWaimakariri District
-p4436
-aa(lp4437
-S'Rod Ketels'
-p4438
-aS'1980'
-p4439
-aS'Prop'
+aS'Takara'
 p4440
-aS'5'
-aS'5'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Papakura'
+aVNigeria
 p4441
-aVNew Zealand/Aotearoa
+aVJigawa
 p4442
-aVAuckland
+aVGuri
 p4443
-aVPapakura
+aVTakara
 p4444
 aa(lp4445
-S'Douglas Rollerson'
+S'Colin Farrell'
 p4446
-aS'1980'
+aS'1977'
 p4447
-aS'Fly-half'
-p4448
-aS'8'
-aS'7'
-aS'1'
-aS'0'
-aS'1'
-aS'24'
-p4449
-aS'Papakura'
-p4450
-aVNew Zealand/Aotearoa
-p4451
-aVAuckland
-p4452
-aVPapakura
-p4453
-aa(lp4454
-S'Allan Hewson'
-p4455
-aS'1981'
-p4456
 aS'Fullback'
-p4457
-aS'19'
-p4458
-aS'16'
-p4459
-aS'3'
-aS'0'
-aS'4'
-aS'201'
-p4460
-aS'Lower Hutt'
-p4461
-aVNew Zealand/Aotearoa
-p4462
-aVWellington
-p4463
-aVLower Hutt City
-p4464
-aa(lp4465
-S'Andy Jefferd'
-p4466
-aS'1981'
-p4467
-aS'Five-eighth'
-p4468
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Gisborne'
-p4469
-aVNew Zealand/Aotearoa
-p4470
-aVGisborne
-p4471
-ag53
-aa(lp4472
-S'Haydn Rickit'
-p4473
-aS'1981'
-p4474
-aS'Lock'
-p4475
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Taupo'
-p4476
-aVNew Zealand/Aotearoa
-p4477
-aVWaikato
-p4478
-aVTaupo District
-p4479
-aa(lp4480
-S'Freddy Woodman'
-p4481
-aS'1981'
-p4482
-aS'Wing'
-p4483
-aS'3'
+p4448
 aS'2'
 aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Kaikohe'
-p4484
-aVNew Zealand/Aotearoa
-p4485
-aVNorthland
-p4486
-aVFar North District
-p4487
-aa(lp4488
-S'Greg Burgess'
-p4489
-aS'1981'
-p4490
-aS'Prop'
-p4491
-aS'1'
-aS'0'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p4492
+p4449
 aVNew Zealand/Aotearoa
-p4493
+p4450
 aVAuckland
+p4451
+ag41
+ag41
+aa(lp4452
+S'Andy Haden'
+p4453
+aS'1977'
+p4454
+aS'Lock'
+p4455
+aS'41'
+p4456
+aS'31'
+p4457
+aS'9'
+aS'1'
+aS'2'
+aS'8'
+aS'Wanganui'
+p4458
+aVNew Zealand/Aotearoa
+p4459
+aVManawatu-Wanganui
+p4460
+aVWanganui District
+p4461
+aVWhanganui
+p4462
+aa(lp4463
+S'Laurie Knight'
+p4464
+aS'1977'
+p4465
+aS'No. 8'
+p4466
+aS'6'
+aS'4'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'Auckland'
+p4467
+aVNew Zealand/Aotearoa
+p4468
+aVAuckland
+p4469
+ag41
+ag41
+aa(lp4470
+S'Mark Taylor'
+p4471
+aS'1977'
+p4472
+aS'Five-eighth'
+p4473
+aS'9'
+aS'5'
+aS'4'
+aS'0'
+aS'1'
+aS'4'
+aS'Auckland'
+p4474
+aVNew Zealand/Aotearoa
+p4475
+aVAuckland
+p4476
+ag41
+ag41
+aa(lp4477
+S'Brian Ford'
+p4478
+aS'1977'
+p4479
+aS'Wing'
+p4480
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Kaikoura'
+p4481
+aVNew Zealand/Aotearoa
+p4482
+aVCanterbury
+p4483
+aVKaikoura District
+p4484
+aVKaikoura
+p4485
+aa(lp4486
+S'John McEldowney'
+p4487
+aS'1977'
+p4488
+aS'Prop'
+p4489
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'New Plymouth'
+p4490
+aVNew Zealand/Aotearoa
+p4491
+aVTaranaki
+p4492
+aVNew Plymouth District
+p4493
+aVNew Plymouth
 p4494
-ag53
 aa(lp4495
-S'Geoff Old'
+S'Graham Mourie'
 p4496
-aS'1981'
+aS'1977'
 p4497
 aS'Flanker'
 p4498
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Eltham'
-p4499
-aVUnited Kingdom
-p4500
-aVEngland
-p4501
-aVGreater London
-p4502
-aa(lp4503
-S'Steve Pokere'
-p4504
-aS'1981'
-p4505
-aS'Centre'
-p4506
-aS'18'
-p4507
-aS'15'
-p4508
-aS'2'
-aS'1'
-aS'2'
-aS'8'
-aS'Hawera'
-p4509
-aVNew Zealand/Aotearoa
-p4510
-aVTaranaki
-p4511
-aVSouth Taranaki District
-p4512
-aa(lp4513
-S'Frank Shelford'
-p4514
-aS'1981'
-p4515
-aS'Flanker'
-p4516
-aS'4'
-aS'4'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Waioeka'
-p4517
-aVIndonesia
-p4518
-aVMaluku
-p4519
-aVWaihoka
-p4520
-aa(lp4521
-S'Gary Whetton'
-p4522
-aS'1981'
-p4523
-aS'Lock'
-p4524
-aS'58'
-p4525
-aS'50'
-p4526
-aS'6'
-aS'2'
-aS'1'
-aS'4'
-aS'Auckland'
-p4527
-aVNew Zealand/Aotearoa
-p4528
-aVAuckland
-p4529
-ag53
-aa(lp4530
-S'Jamie Salmon'
-p4531
-aS'1981'
-p4532
-aS'Centre'
-p4533
-aS'15'
-p4534
-aS'7'
-aS'8'
-aS'0'
-aS'2'
-aS'8'
-aS'1959'
-p4535
-aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
-p4536
-aVSétif - \u0633\u0637\u064a\u0641\u200e
-p4537
-aVDaïra Bir El Arch
-p4538
-aa(lp4539
-S'Arthur Stone'
-p4540
-aS'1981'
-p4541
-aS'Five-eighth'
-p4542
-aS'9'
-aS'6'
-aS'3'
-aS'0'
-aS'1'
-aS'7'
-aS'Auckland'
-p4543
-aVNew Zealand/Aotearoa
-p4544
-aVAuckland
-p4545
-ag53
-aa(lp4546
-S'Paul Koteka'
-p4547
-aS'1981'
-p4548
-aS'Prop'
-p4549
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Tokoroa'
-p4550
-aVNew Zealand/Aotearoa
-p4551
-aVWaikato
-p4552
-aVSouth Waikato District
-p4553
-aa(lp4554
-S'Ian Dunn'
-p4555
-aS'1983'
-p4556
-aS'Fly-half'
-p4557
-aS'3'
-aS'3'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Te Kopuru'
-p4558
-aVNew Zealand/Aotearoa
-p4559
-aVNorthland
-p4560
-aVKaipara District
-p4561
-aa(lp4562
-S'Jock Hobbs'
-p4563
-aS'1983'
-p4564
-aS'Flanker'
-p4565
 aS'21'
-p4566
-aS'15'
-p4567
+p4499
+aS'17'
+p4500
 aS'4'
-aS'2'
+aS'0'
 aS'4'
 aS'16'
-p4568
-aS'Christchurch'
-p4569
+p4501
+aS'Opunake'
+p4502
 aVNew Zealand/Aotearoa
-p4570
-aVCanterbury
-p4571
-aVChristchurch City
-p4572
-aa(lp4573
-S'Warwick Taylor'
-p4574
-aS'1983'
-p4575
-aS'Five-eighth'
-p4576
-aS'24'
-p4577
-aS'21'
-p4578
-aS'1'
-aS'2'
-aS'5'
-aS'20'
-p4579
-aS'Hamilton'
-p4580
-aVCanada
-p4581
-aVOntario
-p4582
-aVHamilton
-p4583
-aa(lp4584
-S'Albert Anderson'
-p4585
-aS'1983'
-p4586
-aS'Lock'
-p4587
-aS'6'
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'Christchurch'
-p4588
-aVNew Zealand/Aotearoa
-p4589
-aVCanterbury
-p4590
-aVChristchurch City
-p4591
-aa(lp4592
-S'Gary Braid'
-p4593
-aS'1983'
-p4594
-aS'Lock'
-p4595
-aS'2'
-aS'0'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Tauranga'
-p4596
-aVNew Zealand/Aotearoa
-p4597
-aVBay of Plenty
-p4598
-aVTauranga City
-p4599
-aa(lp4600
-S'Scott Crichton'
-p4601
-aS'1983'
-p4602
-aS'Prop'
-p4603
-aS'2'
-aS'0'
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'Wanganui'
-p4604
-aVNew Zealand/Aotearoa
-p4605
-aVManawatu-Wanganui
-p4606
-aVWanganui District
-p4607
-aa(lp4608
-S'Robbie Deans'
-p4609
-aS'1983'
-p4610
-aS'Fullback'
-p4611
-aS'5'
-aS'2'
-aS'2'
-aS'1'
-aS'0'
-aS'50'
-p4612
-aS'Cheviot'
-p4613
-aVUnited States of America
-p4614
-aVOhio
-p4615
-aVHamilton County
-p4616
-aa(lp4617
-S'Andy Donald'
-p4618
-aS'1983'
-p4619
-aS'Scrum-half'
-p4620
-aS'7'
-aS'4'
-aS'2'
-aS'1'
-aS'0'
-aS'0'
-aS'Wanganui'
-p4621
-aVNew Zealand/Aotearoa
-p4622
-aVManawatu-Wanganui
-p4623
-aVWanganui District
-p4624
-aa(lp4625
-S'Brian McGrattan'
-p4626
-aS'1983'
-p4627
-aS'Prop'
-p4628
-aS'6'
-aS'2'
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'Wellington'
-p4629
-aVNew Zealand/Aotearoa
-p4630
-aVWellington
-p4631
-aVWellington City
-p4632
-aa(lp4633
-S'Craig Green'
-p4634
-aS'1983'
-p4635
-aS'Wing'
-p4636
-aS'20'
-p4637
-aS'14'
-p4638
-aS'4'
-aS'2'
-aS'11'
-p4639
-aS'44'
-p4640
-aS'Christchurch'
-p4641
-aVNew Zealand/Aotearoa
-p4642
-aVCanterbury
-p4643
-aVChristchurch City
-p4644
-aa(lp4645
-S'Murray Davie'
-p4646
-aS'1983'
-p4647
-aS'Prop'
-p4648
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'1'
-aS'4'
-aS'Christchurch'
-p4649
-aVNew Zealand/Aotearoa
-p4650
-aVCanterbury
-p4651
-aVChristchurch City
-p4652
-aa(lp4653
-S'John Kirwan'
-p4654
-aS'1984'
-p4655
-aS'Wing'
-p4656
-aS'63'
-p4657
-aS'48'
-p4658
-aS'12'
-p4659
-aS'3'
-aS'35'
-p4660
-aS'143'
-p4661
-aS'Auckland'
-p4662
-aVNew Zealand/Aotearoa
-p4663
-aVAuckland
-p4664
-ag53
-aa(lp4665
-S'Bruce Smith'
-p4666
-aS'1984'
-p4667
-aS'Wing'
-p4668
-aS'3'
-aS'2'
-aS'1'
-aS'0'
-aS'1'
-aS'4'
-aS'Wairoa'
-p4669
-aVNew Zealand/Aotearoa
-p4670
-aVHawke's Bay
-p4671
-aVWairoa District
-p4672
-aa(lp4673
-S'Alan Whetton'
-p4674
-aS'1984'
-p4675
-aS'Flanker'
-p4676
-aS'35'
-p4677
-aS'31'
-p4678
-aS'3'
-aS'1'
-aS'10'
-p4679
-aS'40'
-p4680
-aS'Auckland'
-p4681
-aVNew Zealand/Aotearoa
-p4682
-aVAuckland
-p4683
-ag53
-aa(lp4684
-S'Michael Clamp'
-p4685
-aS'1984'
-p4686
-aS'Wing'
-p4687
-aS'2'
-aS'2'
-aS'0'
-aS'0'
-aS'1'
-aS'4'
-aS'Wellington'
-p4688
-aVNew Zealand/Aotearoa
-p4689
-aVWellington
-p4690
-aVWellington City
-p4691
-aa(lp4692
-S'Kieran Crowley'
-p4693
-aS'1985'
-p4694
-aS'Fullback'
-p4695
-aS'19'
-p4696
-aS'14'
-p4697
-aS'4'
-aS'1'
-aS'5'
-aS'105'
-p4698
-aS'Kaponga'
-p4699
-aVNew Zealand/Aotearoa
-p4700
+p4503
 aVTaranaki
-p4701
+p4504
 aVSouth Taranaki District
-p4702
-aa(lp4703
-S'David Kirk'
-p4704
-aS'1985'
-p4705
-aS'Scrum-half'
-p4706
-aS'17'
-p4707
-aS'14'
-p4708
+p4505
+aVOpunake
+p4506
+aa(lp4507
+S'Bevan Wilson'
+p4508
+aS'1977'
+p4509
+aS'Fullback'
+p4510
+aS'8'
+aS'5'
 aS'3'
 aS'0'
-aS'6'
-aS'24'
-p4709
-aS'Wellington'
-p4710
+aS'0'
+aS'55'
+p4511
+aS'Dunstan'
+p4512
 aVNew Zealand/Aotearoa
-p4711
-aVWellington
-p4712
-aVWellington City
-p4713
-aa(lp4714
-S'Murray Pierce'
-p4715
-aS'1985'
-p4716
-aS'Lock'
-p4717
-aS'26'
-p4718
-aS'23'
-p4719
-aS'2'
-aS'1'
+p4513
+aVOtago
+p4514
+aVCentral Otago District
+p4515
+aVDunstan
+p4516
+aa(lp4517
+S'John Black'
+p4518
+aS'1977'
+p4519
+aS'Hooker'
+p4520
+aS'3'
+aS'0'
+aS'3'
+aS'0'
 aS'0'
 aS'0'
 aS'Timaru'
-p4720
+p4521
 aVNew Zealand/Aotearoa
-p4721
+p4522
 aVCanterbury
-p4722
+p4523
 aVTimaru District
-p4723
-aa(lp4724
-S'Grant Fox'
-p4725
-aS'1985'
-p4726
-aS'Fly-half'
-p4727
-aS'46'
-p4728
-aS'38'
-p4729
-aS'7'
+p4524
+aVTimaru
+p4525
+aa(lp4526
+S'Mark Donaldson'
+p4527
+aS'1977'
+p4528
+aS'Scrum-half'
+p4529
+aS'13'
+p4530
+aS'9'
+aS'4'
+aS'0'
 aS'1'
-aS'1'
-aS'645'
-p4730
-aS'New Plymouth'
-p4731
+aS'4'
+aS'Palmerston North'
+p4531
 aVNew Zealand/Aotearoa
-p4732
-aVTaranaki
-p4733
-aVNew Plymouth District
-p4734
-aa(lp4735
-S'Steve McDowall'
-p4736
-aS'1985'
-p4737
+p4532
+aVManawatu-Wanganui
+p4533
+aVPalmerston North City
+p4534
+aVPalmerston North
+p4535
+aa(lp4536
+S'Gary Knight'
+p4537
+aS'1977'
+p4538
 aS'Prop'
-p4738
+p4539
+aS'36'
+p4540
+aS'27'
+p4541
+aS'9'
+aS'0'
+aS'1'
+aS'4'
+aS'Wellington'
+p4542
+aVNew Zealand/Aotearoa
+p4543
+aVWellington
+p4544
+aVWellington City
+p4545
+aVWellington
+p4546
+aa(lp4547
+S'Brian McKechnie'
+p4548
+aS'1977'
+p4549
+aS'Fullback'
+p4550
+aS'10'
+p4551
+aS'7'
+aS'3'
+aS'0'
+aS'0'
 aS'46'
-p4739
-aS'38'
-p4740
-aS'6'
+p4552
+aS'Gore'
+p4553
+aVNew Zealand/Aotearoa
+p4554
+aVSouthland
+p4555
+aVGore District
+p4556
+aVGore
+p4557
+aa(lp4558
+S'Gary Seear'
+p4559
+aS'1977'
+p4560
+aS'No. 8'
+p4561
+aS'12'
+p4562
+aS'8'
+aS'4'
+aS'0'
 aS'2'
+aS'11'
+p4563
+aS'Dunedin'
+p4564
+aVNew Zealand/Aotearoa
+p4565
+aVOtago
+p4566
+aVDunedin City
+p4567
+aVDunedin
+p4568
+aa(lp4569
+S'Stu Wilson'
+p4570
+aS'1977'
+p4571
+aS'Wing'
+p4572
+aS'34'
+p4573
+aS'25'
+p4574
+aS'8'
+aS'1'
+aS'19'
+p4575
+aS'76'
+p4576
+aS'Gore'
+p4577
+aVNew Zealand/Aotearoa
+p4578
+aVSouthland
+p4579
+aVGore District
+p4580
+aVGore
+p4581
+aa(lp4582
+S'Robbie Stuart'
+p4583
+aS'1977'
+p4584
+aS'Lock'
+p4585
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Napier'
+p4586
+aVNew Zealand/Aotearoa
+p4587
+aVHawke's Bay
+p4588
+aVNapier City
+p4589
+aVNapier
+p4590
+aa(lp4591
+S'Andy Dalton'
+p4592
+aS'1977'
+p4593
+aS'Hooker'
+p4594
+aS'35'
+p4595
+aS'30'
+p4596
+aS'5'
+aS'0'
 aS'3'
 aS'12'
-p4741
-aS'Rotorua'
-p4742
+p4597
+aS'Dunedin'
+p4598
 aVNew Zealand/Aotearoa
-p4743
-aVBay of Plenty
-p4744
-aVRotorua District
-p4745
-aa(lp4746
-S'Victor Simpson'
-p4747
-aS'1985'
-p4748
-aS'Centre'
-p4749
+p4599
+aVOtago
+p4600
+aVDunedin City
+p4601
+aVDunedin
+p4602
+aa(lp4603
+S'Barry Ashworth'
+p4604
+aS'1978'
+p4605
+aS'Flanker'
+p4606
 aS'2'
-aS'1'
-aS'0'
-aS'1'
+aS'2'
 aS'0'
 aS'0'
-aS'Gisborne'
-p4750
+aS'0'
+aS'0'
+aS'Waiuku'
+p4607
 aVNew Zealand/Aotearoa
-p4751
-aVGisborne
-p4752
-ag53
-aa(lp4753
-S'Kevin Boroevich'
-p4754
-aS'1986'
-p4755
+p4608
+aVAuckland
+p4609
+aVFranklin
+p4610
+aVWaiuku
+p4611
+aa(lp4612
+S'John Ashworth'
+p4613
+aS'1978'
+p4614
 aS'Prop'
-p4756
-aS'3'
+p4615
+aS'24'
+p4616
+aS'18'
+p4617
+aS'6'
+aS'0'
 aS'1'
+aS'4'
+aS'Makahu'
+p4618
+aVNew Zealand/Aotearoa
+p4619
+aVTaranaki
+p4620
+aVStratford District
+p4621
+aVMakahu
+p4622
+aa(lp4623
+S'Leicester Rutledge'
+p4624
+aS'1978'
+p4625
+aS'Flanker'
+p4626
+aS'13'
+p4627
+aS'8'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'Christchurch'
+p4628
+aVNew Zealand/Aotearoa
+p4629
+aVCanterbury
+p4630
+aVChristchurch City
+p4631
+aVChristchurch
+p4632
+aa(lp4633
+S'Dick Myers'
+p4634
+aS'1978'
+p4635
+aS'Flanker'
+p4636
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Hamilton'
+p4637
+aVCanada
+p4638
+aVOntario
+p4639
+aVHamilton
+p4640
+ag41
+aa(lp4641
+S'Clive Currie'
+p4642
+aS'1978'
+p4643
+aS'Fullback'
+p4644
+aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
-aS'Te Kuiti'
-p4757
+aS'0'
+aS'Wellington'
+p4645
 aVNew Zealand/Aotearoa
-p4758
-aVWaikato
-p4759
-aVWaitomo District
-p4760
-aa(lp4761
-S'Frano Botica'
-p4762
-aS'1986'
-p4763
+p4646
+aVWellington
+p4647
+aVWellington City
+p4648
+aVWellington
+p4649
+aa(lp4650
+S'David Loveridge'
+p4651
+aS'1978'
+p4652
+aS'Scrum-half'
+p4653
+aS'24'
+p4654
+aS'19'
+p4655
+aS'4'
+aS'1'
+aS'3'
+aS'12'
+p4656
+aS'Stratford'
+p4657
+aVUnited Kingdom
+p4658
+aVEngland
+p4659
+aVWest Midlands
+p4660
+aVWarwickshire
+p4661
+aa(lp4662
+S'Murray Taylor'
+p4663
+aS'1979'
+p4664
 aS'Fly-half'
-p4764
+p4665
 aS'7'
 aS'4'
 aS'3'
 aS'0'
 aS'0'
+aS'3'
+aS'Hamilton'
+p4666
+aVCanada
+p4667
+aVOntario
+p4668
+aVHamilton
+p4669
+ag41
+aa(lp4670
+S'Murray Watts'
+p4671
+aS'1979'
+p4672
+aS'Wing'
+p4673
+aS'5'
+aS'2'
+aS'3'
+aS'0'
+aS'1'
+aS'4'
+aS'Patea'
+p4674
+aVNew Zealand/Aotearoa
+p4675
+aVTaranaki
+p4676
+aVSouth Taranaki District
+p4677
+aVPatea
+p4678
+aa(lp4679
+S'Wayne Graham'
+p4680
+aS'1979'
+p4681
+aS'Flanker'
+p4682
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tauranga'
+p4683
+aVNew Zealand/Aotearoa
+p4684
+aVBay of Plenty
+p4685
+aVTauranga City
+p4686
+aVTauranga
+p4687
+aa(lp4688
+S'Gary Cunningham'
+p4689
+aS'1979'
+p4690
+aS'Five-eighth'
+p4691
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p4692
+aVNew Zealand/Aotearoa
+p4693
+aVAuckland
+p4694
+ag41
+ag41
+aa(lp4695
+S'Mike McCool'
+p4696
+aS'1979'
+p4697
+aS'Lock'
+p4698
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Hastings'
+p4699
+aVUnited Kingdom
+p4700
+aVEngland
+p4701
+aVSouth East
+p4702
+aVEast Sussex
+p4703
+aa(lp4704
+S'Eddie Dunn'
+p4705
+aS'1979'
+p4706
+aS'Fly-half'
+p4707
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'Te Kopuru'
+p4708
+aVNew Zealand/Aotearoa
+p4709
+aVNorthland
+p4710
+aVKaipara District
+p4711
+aVTe Kopuru
+p4712
+aa(lp4713
+S'John Fleming'
+p4714
+aS'1979'
+p4715
+aS'Lock'
+p4716
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'1'
+aS'4'
+aS'Auckland'
+p4717
+aVNew Zealand/Aotearoa
+p4718
+aVAuckland
+p4719
+ag41
+ag41
+aa(lp4720
+S'Bernie Fraser'
+p4721
+aS'1979'
+p4722
+aS'Wing'
+p4723
+aS'23'
+p4724
+aS'17'
+p4725
+aS'5'
+aS'1'
 aS'6'
-aS'Mangakino'
+aS'24'
+p4726
+aS'Lautoka'
+p4727
+aVViti
+p4728
+aVLautoka
+p4729
+ag41
+ag41
+aa(lp4730
+S'Murray Mexted'
+p4731
+aS'1979'
+p4732
+aS'No. 8'
+p4733
+aS'34'
+p4734
+aS'26'
+p4735
+aS'6'
+aS'2'
+aS'4'
+aS'16'
+p4736
+aS'Wellington'
+p4737
+aVNew Zealand/Aotearoa
+p4738
+aVWellington
+p4739
+aVWellington City
+p4740
+aVWellington
+p4741
+aa(lp4742
+S'John Spiers'
+p4743
+aS'1979'
+p4744
+aS'Prop'
+p4745
+aS'5'
+aS'5'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Otahuhu'
+p4746
+aVNew Zealand/Aotearoa
+p4747
+aVAuckland
+p4748
+aVMangere-Otahuhu
+p4749
+aV\u014ct\u0101huhu
+p4750
+aa(lp4751
+S'Richard Wilson'
+p4752
+aS'1979'
+p4753
+aS'Fullback'
+p4754
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'10'
+p4755
+aS'Leeston'
+p4756
+aVNew Zealand/Aotearoa
+p4757
+aVCanterbury
+p4758
+aVSelwyn District
+p4759
+aVLeeston
+p4760
+aa(lp4761
+S'Peter Sloane'
+p4762
+aS'1979'
+p4763
+aS'Hooker'
+p4764
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Whangarei'
 p4765
 aVNew Zealand/Aotearoa
 p4766
-aVWaikato
+aVNorthland
 p4767
-aVTaupo District
+aVWhangarei District
 p4768
-aa(lp4769
-S'Mike Brewer'
-p4770
-aS'1986'
+aVWhangarei
+p4769
+aa(lp4770
+S'Brett Codlin'
 p4771
-aS'Back-row'
+aS'1980'
 p4772
-aS'32'
+aS'Fullback'
 p4773
-aS'22'
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'23'
 p4774
-aS'9'
-aS'1'
-aS'1'
-aS'4'
 aS'Pukekohe'
 p4775
 aVNew Zealand/Aotearoa
@@ -12303,404 +12237,436 @@ aVAuckland
 p4777
 aVFranklin
 p4778
-aa(lp4779
-S'Mark Brooke-Cowden'
-p4780
-aS'1986'
+aVPukekohe
+p4779
+aa(lp4780
+S'Hika Reid'
 p4781
-aS'Flanker'
+aS'1980'
 p4782
+aS'Hooker'
+p4783
+aS'9'
+aS'4'
 aS'3'
 aS'2'
-aS'1'
-aS'0'
 aS'2'
 aS'8'
-aS'Auckland'
-p4783
-aVNew Zealand/Aotearoa
+aS'Rotorua'
 p4784
-aVAuckland
+aVNew Zealand/Aotearoa
 p4785
-ag53
-aa(lp4786
-S'Greg Cooper'
+aVBay of Plenty
+p4786
+aVRotorua District
 p4787
-aS'1986'
+aVRotorua
 p4788
-aS'Fullback'
-p4789
-aS'7'
-aS'5'
-aS'2'
-aS'0'
-aS'2'
-aS'63'
+aa(lp4789
+S'Mark Shaw'
 p4790
-aS'Gisborne'
+aS'1980'
 p4791
-aVNew Zealand/Aotearoa
+aS'Flanker'
 p4792
-aVGisborne
-p4793
-ag53
-aa(lp4794
-S'Andy Earl'
-p4795
-aS'1986'
-p4796
-aS'Flanker'
-p4797
-aS'14'
-p4798
-aS'10'
-p4799
-aS'4'
-aS'0'
-aS'3'
-aS'12'
-p4800
-aS'Christchurch'
-p4801
-aVNew Zealand/Aotearoa
-p4802
-aVCanterbury
-p4803
-aVChristchurch City
-p4804
-aa(lp4805
-S'Sean Fitzpatrick'
-p4806
-aS'1986'
-p4807
-aS'Hooker'
-p4808
-aS'92'
-p4809
-aS'74'
-p4810
-aS'16'
-p4811
-aS'2'
-aS'12'
-p4812
-aS'55'
-p4813
-aS'Auckland'
-p4814
-aVNew Zealand/Aotearoa
-p4815
-aVAuckland
-p4816
-ag53
-aa(lp4817
-S'Brett Harvey'
-p4818
-aS'1986'
-p4819
-aS'Flanker'
-p4820
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Palmerston North'
-p4821
-aVNew Zealand/Aotearoa
-p4822
-aVManawatu-Wanganui
-p4823
-aVPalmerston North City
-p4824
-aa(lp4825
-S'Gordon Macpherson'
-p4826
-aS'1986'
-p4827
-aS'Lock'
-p4828
-aS'1'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'0'
-aS'Gisborne'
-p4829
-aVNew Zealand/Aotearoa
-p4830
-aVGisborne
-p4831
-ag53
-aa(lp4832
-S'Joe Stanley'
-p4833
-aS'1986'
-p4834
-aS'Centre'
-p4835
-aS'27'
-p4836
-aS'23'
-p4837
-aS'3'
-aS'1'
-aS'4'
-aS'16'
-p4838
-aS'Auckland'
-p4839
-aVNew Zealand/Aotearoa
-p4840
-aVAuckland
-p4841
-ag53
-aa(lp4842
-S'Terry Wright'
-p4843
-aS'1986'
-p4844
-aS'Wing'
-p4845
 aS'30'
-p4846
-aS'26'
-p4847
-aS'3'
-aS'1'
-aS'18'
-p4848
-aS'72'
-p4849
-aS'Takapuna'
-p4850
+p4793
+aS'21'
+p4794
+aS'7'
+aS'2'
+aS'6'
+aS'24'
+p4795
+aS'Palmerston North'
+p4796
 aVNew Zealand/Aotearoa
-p4851
+p4797
+aVManawatu-Wanganui
+p4798
+aVPalmerston North City
+p4799
+aVPalmerston North
+p4800
+aa(lp4801
+S'Wayne Smith'
+p4802
+aS'1980'
+p4803
+aS'Fly-half'
+p4804
+aS'17'
+p4805
+aS'11'
+p4806
+aS'4'
+aS'2'
+aS'0'
+aS'6'
+aS'Putaruru'
+p4807
+aVNew Zealand/Aotearoa
+p4808
+aVWaikato
+p4809
+aVSouth Waikato District
+p4810
+aVPutaruru
+p4811
+aa(lp4812
+S'Tim Twigden'
+p4813
+aS'1980'
+p4814
+aS'Wing'
+p4815
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Taumarunui'
+p4816
+aVNew Zealand/Aotearoa
+p4817
+aVManawatu-Wanganui
+p4818
+aVRuapehu District
+p4819
+aVTaumarunui
+p4820
+aa(lp4821
+S'Nicky Allen'
+p4822
+aS'1980'
+p4823
+aS'Fly-half'
+p4824
+aS'2'
+aS'1'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'Auckland'
+p4825
+aVNew Zealand/Aotearoa
+p4826
 aVAuckland
+p4827
+ag41
+ag41
+aa(lp4828
+S'Lachlan Cameron'
+p4829
+aS'1980'
+p4830
+aS'Five-eighth'
+p4831
+aS'5'
+aS'3'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Hamilton'
+p4832
+aVCanada
+p4833
+aVOntario
+p4834
+aVHamilton
+p4835
+ag41
+aa(lp4836
+S'Geoffrey Hines'
+p4837
+aS'1980'
+p4838
+aS'Flanker'
+p4839
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Tokoroa'
+p4840
+aVNew Zealand/Aotearoa
+p4841
+aVWaikato
+p4842
+aVSouth Waikato District
+p4843
+aVTokoroa
+p4844
+aa(lp4845
+S'Graeme Higginson'
+p4846
+aS'1980'
+p4847
+aS'Lock'
+p4848
+aS'6'
+aS'5'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Rangiora'
+p4849
+aVNew Zealand/Aotearoa
+p4850
+aVCanterbury
+p4851
+aVWaimakariri District
 p4852
-aVDevonport-Takapuna
+aVRangiora
 p4853
 aa(lp4854
-S'Brent Anderson'
+S'Rod Ketels'
 p4855
-aS'1986'
+aS'1980'
 p4856
-aS'Lock'
+aS'Prop'
 p4857
-aS'1'
-aS'0'
-aS'1'
-aS'0'
+aS'5'
+aS'5'
 aS'0'
 aS'0'
-aS'Lower Hutt'
+aS'0'
+aS'0'
+aS'Papakura'
 p4858
 aVNew Zealand/Aotearoa
 p4859
-aVWellington
-p4860
-aVLower Hutt City
-p4861
-aa(lp4862
-S'Michael Speight'
-p4863
-aS'1986'
-p4864
-aS'Lock'
-p4865
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Auckland'
-p4866
-aVNew Zealand/Aotearoa
-p4867
 aVAuckland
-p4868
-ag53
-aa(lp4869
-S'Marty Berry'
-p4870
-aS'1986'
-p4871
-aS'Fly-half, Centre'
-p4872
-aS'1'
-aS'0'
-aS'1'
-aS'0'
-aS'0'
-aS'0'
-aS'Wellington'
-p4873
-aVNew Zealand/Aotearoa
-p4874
-aVWellington
-p4875
-aVWellington City
-p4876
-aa(lp4877
-S'John Drake'
-p4878
-aS'1986'
-p4879
-aS'Prop'
-p4880
+p4860
+aVPapakura
+p4861
+ag41
+aa(lp4862
+S'Douglas Rollerson'
+p4863
+aS'1980'
+p4864
+aS'Fly-half'
+p4865
 aS'8'
 aS'7'
 aS'1'
 aS'0'
 aS'1'
-aS'4'
-aS'Auckland'
-p4881
+aS'24'
+p4866
+aS'Papakura'
+p4867
 aVNew Zealand/Aotearoa
-p4882
+p4868
 aVAuckland
-p4883
-ag53
-aa(lp4884
-S'Buck Shelford'
-p4885
-aS'1986'
-p4886
-aS'No. 8'
-p4887
-aS'22'
-p4888
-aS'20'
-p4889
-aS'1'
-aS'1'
-aS'5'
-aS'20'
-p4890
-aS'Rotorua'
-p4891
-aVNew Zealand/Aotearoa
-p4892
-aVBay of Plenty
-p4893
-aVRotorua District
-p4894
-aa(lp4895
-S'John Gallagher'
-p4896
-aS'1987'
-p4897
+p4869
+aVPapakura
+p4870
+ag41
+aa(lp4871
+S'Allan Hewson'
+p4872
+aS'1981'
+p4873
 aS'Fullback'
-p4898
-aS'18'
-p4899
-aS'17'
-p4900
+p4874
+aS'19'
+p4875
+aS'16'
+p4876
+aS'3'
 aS'0'
-aS'1'
-aS'13'
-p4901
-aS'52'
-p4902
-aS'London'
-p4903
-aVUnited Kingdom
-p4904
-aVEngland
-p4905
-aVGreater London
-p4906
-aa(lp4907
-S'Michael Jones'
-p4908
-aS'1986'
-p4909
-aS'Flanker'
-p4910
-aS'56'
-p4911
-aS'43'
-p4912
-aS'11'
-p4913
-aS'2'
-aS'13'
-p4914
-aS'56'
-p4915
-aS'Auckland'
-p4916
+aS'4'
+aS'201'
+p4877
+aS'Lower Hutt'
+p4878
 aVNew Zealand/Aotearoa
-p4917
-aVAuckland
-p4918
-ag53
-aa(lp4919
-S'Richard Loe'
-p4920
-aS'1987'
-p4921
-aS'Prop'
-p4922
-aS'49'
-p4923
-aS'37'
-p4924
-aS'10'
-p4925
-aS'2'
-aS'6'
-aS'25'
-p4926
-aS'Chevot'
-p4927
-aVUnited States of America
-p4928
-aV47906
-p4929
-aVIndiana
-p4930
-aa(lp4931
-S'Zinzan Brooke'
-p4932
-aS'1987'
-p4933
-aS'No. 8'
-p4934
-aS'58'
-p4935
-aS'45'
-p4936
-aS'11'
-p4937
-aS'2'
-aS'17'
-p4938
-aS'89'
-p4939
-aS'Waiuku'
-p4940
-aVNew Zealand/Aotearoa
-p4941
-aVAuckland
-p4942
-aVFranklin
-p4943
-aa(lp4944
-S'Bernie McCahill'
-p4945
-aS'1987'
-p4946
+p4879
+aVWellington
+p4880
+aVLower Hutt City
+p4881
+aVLower Hutt
+p4882
+aa(lp4883
+S'Andy Jefferd'
+p4884
+aS'1981'
+p4885
 aS'Five-eighth'
-p4947
-aS'10'
-p4948
-aS'9'
+p4886
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Gisborne'
+p4887
+aVNew Zealand/Aotearoa
+p4888
+aVGisborne
+p4889
+ag41
+ag41
+aa(lp4890
+S'Haydn Rickit'
+p4891
+aS'1981'
+p4892
+aS'Lock'
+p4893
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Taupo'
+p4894
+aVNew Zealand/Aotearoa
+p4895
+aVWaikato
+p4896
+aVTaupo District
+p4897
+aVTaupo
+p4898
+aa(lp4899
+S'Freddy Woodman'
+p4900
+aS'1981'
+p4901
+aS'Wing'
+p4902
+aS'3'
+aS'2'
 aS'1'
 aS'0'
+aS'0'
+aS'0'
+aS'Kaikohe'
+p4903
+aVNew Zealand/Aotearoa
+p4904
+aVNorthland
+p4905
+aVFar North District
+p4906
+aVKaikohe
+p4907
+aa(lp4908
+S'Greg Burgess'
+p4909
+aS'1981'
+p4910
+aS'Prop'
+p4911
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p4912
+aVNew Zealand/Aotearoa
+p4913
+aVAuckland
+p4914
+ag41
+ag41
+aa(lp4915
+S'Geoff Old'
+p4916
+aS'1981'
+p4917
+aS'Flanker'
+p4918
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Eltham'
+p4919
+aVUnited Kingdom
+p4920
+aVEngland
+p4921
+aVGreater London
+p4922
+aVLondon
+p4923
+aa(lp4924
+S'Steve Pokere'
+p4925
+aS'1981'
+p4926
+aS'Centre'
+p4927
+aS'18'
+p4928
+aS'15'
+p4929
+aS'2'
+aS'1'
+aS'2'
+aS'8'
+aS'Hawera'
+p4930
+aVNew Zealand/Aotearoa
+p4931
+aVTaranaki
+p4932
+aVSouth Taranaki District
+p4933
+aVHawera
+p4934
+aa(lp4935
+S'Frank Shelford'
+p4936
+aS'1981'
+p4937
+aS'Flanker'
+p4938
+aS'4'
+aS'4'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Waioeka'
+p4939
+aVIndonesia
+p4940
+aVMaluku
+p4941
+aVWaihoka
+p4942
+ag41
+aa(lp4943
+S'Gary Whetton'
+p4944
+aS'1981'
+p4945
+aS'Lock'
+p4946
+aS'58'
+p4947
+aS'50'
+p4948
+aS'6'
+aS'2'
 aS'1'
 aS'4'
 aS'Auckland'
@@ -12709,160 +12675,1256 @@ aVNew Zealand/Aotearoa
 p4950
 aVAuckland
 p4951
-ag53
+ag41
+ag41
 aa(lp4952
-S'Bruce Deans'
+S'Jamie Salmon'
 p4953
-aS'1988'
+aS'1981'
 p4954
-aS'Scrum-half'
+aS'Centre'
 p4955
-aS'10'
+aS'15'
 p4956
-aS'9'
+aS'7'
+aS'8'
 aS'0'
-aS'1'
-aS'6'
-aS'24'
+aS'2'
+aS'8'
+aS'1959'
 p4957
-aS'Cheviot'
+aVAlgérie \u0627\u0644\u062c\u0632\u0627\u0626\u0631
 p4958
-aVUnited States of America
+aVSétif - \u0633\u0637\u064a\u0641\u200e
 p4959
-aVOhio
+aVDaïra Bir El Arch
 p4960
-aVHamilton County
+aVEl Oueldja
 p4961
 aa(lp4962
-S'John Schuster'
+S'Arthur Stone'
 p4963
-aS'1988'
+aS'1981'
 p4964
-aS'Centre'
+aS'Five-eighth'
 p4965
-aS'13'
+aS'9'
+aS'6'
+aS'3'
+aS'0'
+aS'1'
+aS'7'
+aS'Auckland'
 p4966
-aS'10'
+aVNew Zealand/Aotearoa
 p4967
+aVAuckland
+p4968
+ag41
+ag41
+aa(lp4969
+S'Paul Koteka'
+p4970
+aS'1981'
+p4971
+aS'Prop'
+p4972
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Tokoroa'
+p4973
+aVNew Zealand/Aotearoa
+p4974
+aVWaikato
+p4975
+aVSouth Waikato District
+p4976
+aVTokoroa
+p4977
+aa(lp4978
+S'Ian Dunn'
+p4979
+aS'1983'
+p4980
+aS'Fly-half'
+p4981
+aS'3'
+aS'3'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Te Kopuru'
+p4982
+aVNew Zealand/Aotearoa
+p4983
+aVNorthland
+p4984
+aVKaipara District
+p4985
+aVTe Kopuru
+p4986
+aa(lp4987
+S'Jock Hobbs'
+p4988
+aS'1983'
+p4989
+aS'Flanker'
+p4990
+aS'21'
+p4991
+aS'15'
+p4992
+aS'4'
+aS'2'
+aS'4'
+aS'16'
+p4993
+aS'Christchurch'
+p4994
+aVNew Zealand/Aotearoa
+p4995
+aVCanterbury
+p4996
+aVChristchurch City
+p4997
+aVChristchurch
+p4998
+aa(lp4999
+S'Warwick Taylor'
+p5000
+aS'1983'
+p5001
+aS'Five-eighth'
+p5002
+aS'24'
+p5003
+aS'21'
+p5004
 aS'1'
 aS'2'
+aS'5'
+aS'20'
+p5005
+aS'Hamilton'
+p5006
+aVCanada
+p5007
+aVOntario
+p5008
+aVHamilton
+p5009
+ag41
+aa(lp5010
+S'Albert Anderson'
+p5011
+aS'1983'
+p5012
+aS'Lock'
+p5013
+aS'6'
+aS'3'
+aS'2'
 aS'1'
-aS'21'
-p4968
-aS'Western Samoa'
-p4969
+aS'0'
+aS'0'
+aS'Christchurch'
+p5014
+aVNew Zealand/Aotearoa
+p5015
+aVCanterbury
+p5016
+aVChristchurch City
+p5017
+aVChristchurch
+p5018
+aa(lp5019
+S'Gary Braid'
+p5020
+aS'1983'
+p5021
+aS'Lock'
+p5022
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Tauranga'
+p5023
+aVNew Zealand/Aotearoa
+p5024
+aVBay of Plenty
+p5025
+aVTauranga City
+p5026
+aVTauranga
+p5027
+aa(lp5028
+S'Scott Crichton'
+p5029
+aS'1983'
+p5030
+aS'Prop'
+p5031
+aS'2'
+aS'0'
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'Wanganui'
+p5032
+aVNew Zealand/Aotearoa
+p5033
+aVManawatu-Wanganui
+p5034
+aVWanganui District
+p5035
+aVWhanganui
+p5036
+aa(lp5037
+S'Robbie Deans'
+p5038
+aS'1983'
+p5039
+aS'Fullback'
+p5040
+aS'5'
+aS'2'
+aS'2'
+aS'1'
+aS'0'
+aS'50'
+p5041
+aS'Cheviot'
+p5042
 aVUnited States of America
-p4970
-aV95503
-p4971
-aVCalifornia
-p4972
-aa(lp4973
-S'Graeme Bachop'
-p4974
-aS'1989'
-p4975
+p5043
+aVOhio
+p5044
+aVHamilton County
+p5045
+aVCheviot
+p5046
+aa(lp5047
+S'Andy Donald'
+p5048
+aS'1983'
+p5049
 aS'Scrum-half'
-p4976
-aS'39'
-p4977
-aS'28'
-p4978
-aS'10'
-p4979
+p5050
+aS'7'
+aS'4'
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Wanganui'
+p5051
+aVNew Zealand/Aotearoa
+p5052
+aVManawatu-Wanganui
+p5053
+aVWanganui District
+p5054
+aVWhanganui
+p5055
+aa(lp5056
+S'Brian McGrattan'
+p5057
+aS'1983'
+p5058
+aS'Prop'
+p5059
+aS'6'
+aS'2'
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'Wellington'
+p5060
+aVNew Zealand/Aotearoa
+p5061
+aVWellington
+p5062
+aVWellington City
+p5063
+aVWellington
+p5064
+aa(lp5065
+S'Craig Green'
+p5066
+aS'1983'
+p5067
+aS'Wing'
+p5068
+aS'20'
+p5069
+aS'14'
+p5070
+aS'4'
+aS'2'
+aS'11'
+p5071
+aS'44'
+p5072
+aS'Christchurch'
+p5073
+aVNew Zealand/Aotearoa
+p5074
+aVCanterbury
+p5075
+aVChristchurch City
+p5076
+aVChristchurch
+p5077
+aa(lp5078
+S'Murray Davie'
+p5079
+aS'1983'
+p5080
+aS'Prop'
+p5081
+aS'1'
+aS'0'
+aS'1'
+aS'0'
 aS'1'
 aS'4'
-aS'18'
-p4980
 aS'Christchurch'
-p4981
+p5082
 aVNew Zealand/Aotearoa
-p4982
+p5083
 aVCanterbury
-p4983
+p5084
 aVChristchurch City
-p4984
-aa(lp4985
-S'Craig Innes'
-p4986
-aS'1989'
-p4987
-aS'Centre'
-p4988
-aS'17'
-p4989
+p5085
+aVChristchurch
+p5086
+aa(lp5087
+S'John Kirwan'
+p5088
+aS'1984'
+p5089
+aS'Wing'
+p5090
+aS'63'
+p5091
+aS'48'
+p5092
+aS'12'
+p5093
+aS'3'
+aS'35'
+p5094
+aS'143'
+p5095
+aS'Auckland'
+p5096
+aVNew Zealand/Aotearoa
+p5097
+aVAuckland
+p5098
+ag41
+ag41
+aa(lp5099
+S'Bruce Smith'
+p5100
+aS'1984'
+p5101
+aS'Wing'
+p5102
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'Wairoa'
+p5103
+aVNew Zealand/Aotearoa
+p5104
+aVHawke's Bay
+p5105
+aVWairoa District
+p5106
+aVWairoa
+p5107
+aa(lp5108
+S'Alan Whetton'
+p5109
+aS'1984'
+p5110
+aS'Flanker'
+p5111
+aS'35'
+p5112
+aS'31'
+p5113
+aS'3'
+aS'1'
+aS'10'
+p5114
+aS'40'
+p5115
+aS'Auckland'
+p5116
+aVNew Zealand/Aotearoa
+p5117
+aVAuckland
+p5118
+ag41
+ag41
+aa(lp5119
+S'Michael Clamp'
+p5120
+aS'1984'
+p5121
+aS'Wing'
+p5122
+aS'2'
+aS'2'
+aS'0'
+aS'0'
+aS'1'
+aS'4'
+aS'Wellington'
+p5123
+aVNew Zealand/Aotearoa
+p5124
+aVWellington
+p5125
+aVWellington City
+p5126
+aVWellington
+p5127
+aa(lp5128
+S'Kieran Crowley'
+p5129
+aS'1985'
+p5130
+aS'Fullback'
+p5131
+aS'19'
+p5132
 aS'14'
-p4990
+p5133
+aS'4'
+aS'1'
+aS'5'
+aS'105'
+p5134
+aS'Kaponga'
+p5135
+aVNew Zealand/Aotearoa
+p5136
+aVTaranaki
+p5137
+aVSouth Taranaki District
+p5138
+aVKaponga
+p5139
+aa(lp5140
+S'David Kirk'
+p5141
+aS'1985'
+p5142
+aS'Scrum-half'
+p5143
+aS'17'
+p5144
+aS'14'
+p5145
 aS'3'
 aS'0'
 aS'6'
 aS'24'
-p4991
-aS'New Plymouth'
-p4992
+p5146
+aS'Wellington'
+p5147
 aVNew Zealand/Aotearoa
-p4993
-aVTaranaki
-p4994
-aVNew Plymouth District
-p4995
-aa(lp4996
-S'Ian Jones'
-p4997
-aS'1990'
-p4998
+p5148
+aVWellington
+p5149
+aVWellington City
+p5150
+aVWellington
+p5151
+aa(lp5152
+S'Murray Pierce'
+p5153
+aS'1985'
+p5154
 aS'Lock'
-p4999
-aS'79'
-p5000
-aS'59'
-p5001
+p5155
+aS'26'
+p5156
+aS'23'
+p5157
+aS'2'
+aS'1'
+aS'0'
+aS'0'
+aS'Timaru'
+p5158
+aVNew Zealand/Aotearoa
+p5159
+aVCanterbury
+p5160
+aVTimaru District
+p5161
+aVTimaru
+p5162
+aa(lp5163
+S'Grant Fox'
+p5164
+aS'1985'
+p5165
+aS'Fly-half'
+p5166
+aS'46'
+p5167
+aS'38'
+p5168
+aS'7'
+aS'1'
+aS'1'
+aS'645'
+p5169
+aS'New Plymouth'
+p5170
+aVNew Zealand/Aotearoa
+p5171
+aVTaranaki
+p5172
+aVNew Plymouth District
+p5173
+aVNew Plymouth
+p5174
+aa(lp5175
+S'Steve McDowall'
+p5176
+aS'1985'
+p5177
+aS'Prop'
+p5178
+aS'46'
+p5179
+aS'38'
+p5180
+aS'6'
+aS'2'
+aS'3'
+aS'12'
+p5181
+aS'Rotorua'
+p5182
+aVNew Zealand/Aotearoa
+p5183
+aVBay of Plenty
+p5184
+aVRotorua District
+p5185
+aVRotorua
+p5186
+aa(lp5187
+S'Victor Simpson'
+p5188
+aS'1985'
+p5189
+aS'Centre'
+p5190
+aS'2'
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'Gisborne'
+p5191
+aVNew Zealand/Aotearoa
+p5192
+aVGisborne
+p5193
+ag41
+ag41
+aa(lp5194
+S'Kevin Boroevich'
+p5195
+aS'1986'
+p5196
+aS'Prop'
+p5197
+aS'3'
+aS'1'
+aS'2'
+aS'0'
+aS'0'
+aS'0'
+aS'Te Kuiti'
+p5198
+aVNew Zealand/Aotearoa
+p5199
+aVWaikato
+p5200
+aVWaitomo District
+p5201
+aVTe Kuiti
+p5202
+aa(lp5203
+S'Frano Botica'
+p5204
+aS'1986'
+p5205
+aS'Fly-half'
+p5206
+aS'7'
+aS'4'
+aS'3'
+aS'0'
+aS'0'
+aS'6'
+aS'Mangakino'
+p5207
+aVNew Zealand/Aotearoa
+p5208
+aVWaikato
+p5209
+aVTaupo District
+p5210
+aVMangakino
+p5211
+aa(lp5212
+S'Mike Brewer'
+p5213
+aS'1986'
+p5214
+aS'Back-row'
+p5215
+aS'32'
+p5216
+aS'22'
+p5217
+aS'9'
+aS'1'
+aS'1'
+aS'4'
+aS'Pukekohe'
+p5218
+aVNew Zealand/Aotearoa
+p5219
+aVAuckland
+p5220
+aVFranklin
+p5221
+aVPukekohe
+p5222
+aa(lp5223
+S'Mark Brooke-Cowden'
+p5224
+aS'1986'
+p5225
+aS'Flanker'
+p5226
+aS'3'
+aS'2'
+aS'1'
+aS'0'
+aS'2'
+aS'8'
+aS'Auckland'
+p5227
+aVNew Zealand/Aotearoa
+p5228
+aVAuckland
+p5229
+ag41
+ag41
+aa(lp5230
+S'Greg Cooper'
+p5231
+aS'1986'
+p5232
+aS'Fullback'
+p5233
+aS'7'
+aS'5'
+aS'2'
+aS'0'
+aS'2'
+aS'63'
+p5234
+aS'Gisborne'
+p5235
+aVNew Zealand/Aotearoa
+p5236
+aVGisborne
+p5237
+ag41
+ag41
+aa(lp5238
+S'Andy Earl'
+p5239
+aS'1986'
+p5240
+aS'Flanker'
+p5241
+aS'14'
+p5242
+aS'10'
+p5243
+aS'4'
+aS'0'
+aS'3'
+aS'12'
+p5244
+aS'Christchurch'
+p5245
+aVNew Zealand/Aotearoa
+p5246
+aVCanterbury
+p5247
+aVChristchurch City
+p5248
+aVChristchurch
+p5249
+aa(lp5250
+S'Sean Fitzpatrick'
+p5251
+aS'1986'
+p5252
+aS'Hooker'
+p5253
+aS'92'
+p5254
+aS'74'
+p5255
+aS'16'
+p5256
+aS'2'
+aS'12'
+p5257
+aS'55'
+p5258
+aS'Auckland'
+p5259
+aVNew Zealand/Aotearoa
+p5260
+aVAuckland
+p5261
+ag41
+ag41
+aa(lp5262
+S'Brett Harvey'
+p5263
+aS'1986'
+p5264
+aS'Flanker'
+p5265
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Palmerston North'
+p5266
+aVNew Zealand/Aotearoa
+p5267
+aVManawatu-Wanganui
+p5268
+aVPalmerston North City
+p5269
+aVPalmerston North
+p5270
+aa(lp5271
+S'Gordon Macpherson'
+p5272
+aS'1986'
+p5273
+aS'Lock'
+p5274
+aS'1'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'0'
+aS'Gisborne'
+p5275
+aVNew Zealand/Aotearoa
+p5276
+aVGisborne
+p5277
+ag41
+ag41
+aa(lp5278
+S'Joe Stanley'
+p5279
+aS'1986'
+p5280
+aS'Centre'
+p5281
+aS'27'
+p5282
+aS'23'
+p5283
+aS'3'
+aS'1'
+aS'4'
+aS'16'
+p5284
+aS'Auckland'
+p5285
+aVNew Zealand/Aotearoa
+p5286
+aVAuckland
+p5287
+ag41
+ag41
+aa(lp5288
+S'Terry Wright'
+p5289
+aS'1986'
+p5290
+aS'Wing'
+p5291
+aS'30'
+p5292
+aS'26'
+p5293
+aS'3'
+aS'1'
 aS'18'
-p5002
+p5294
+aS'72'
+p5295
+aS'Takapuna'
+p5296
+aVNew Zealand/Aotearoa
+p5297
+aVAuckland
+p5298
+aVDevonport-Takapuna
+p5299
+aVTakapuna
+p5300
+aa(lp5301
+S'Brent Anderson'
+p5302
+aS'1986'
+p5303
+aS'Lock'
+p5304
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Lower Hutt'
+p5305
+aVNew Zealand/Aotearoa
+p5306
+aVWellington
+p5307
+aVLower Hutt City
+p5308
+aVLower Hutt
+p5309
+aa(lp5310
+S'Michael Speight'
+p5311
+aS'1986'
+p5312
+aS'Lock'
+p5313
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Auckland'
+p5314
+aVNew Zealand/Aotearoa
+p5315
+aVAuckland
+p5316
+ag41
+ag41
+aa(lp5317
+S'Marty Berry'
+p5318
+aS'1986'
+p5319
+aS'Fly-half, Centre'
+p5320
+aS'1'
+aS'0'
+aS'1'
+aS'0'
+aS'0'
+aS'0'
+aS'Wellington'
+p5321
+aVNew Zealand/Aotearoa
+p5322
+aVWellington
+p5323
+aVWellington City
+p5324
+aVWellington
+p5325
+aa(lp5326
+S'John Drake'
+p5327
+aS'1986'
+p5328
+aS'Prop'
+p5329
+aS'8'
+aS'7'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'Auckland'
+p5330
+aVNew Zealand/Aotearoa
+p5331
+aVAuckland
+p5332
+ag41
+ag41
+aa(lp5333
+S'Buck Shelford'
+p5334
+aS'1986'
+p5335
+aS'No. 8'
+p5336
+aS'22'
+p5337
+aS'20'
+p5338
+aS'1'
+aS'1'
+aS'5'
+aS'20'
+p5339
+aS'Rotorua'
+p5340
+aVNew Zealand/Aotearoa
+p5341
+aVBay of Plenty
+p5342
+aVRotorua District
+p5343
+aVRotorua
+p5344
+aa(lp5345
+S'John Gallagher'
+p5346
+aS'1987'
+p5347
+aS'Fullback'
+p5348
+aS'18'
+p5349
+aS'17'
+p5350
+aS'0'
+aS'1'
+aS'13'
+p5351
+aS'52'
+p5352
+aS'London'
+p5353
+aVUnited Kingdom
+p5354
+aVEngland
+p5355
+aVGreater London
+p5356
+aVLondon
+p5357
+aa(lp5358
+S'Michael Jones'
+p5359
+aS'1986'
+p5360
+aS'Flanker'
+p5361
+aS'56'
+p5362
+aS'43'
+p5363
+aS'11'
+p5364
+aS'2'
+aS'13'
+p5365
+aS'56'
+p5366
+aS'Auckland'
+p5367
+aVNew Zealand/Aotearoa
+p5368
+aVAuckland
+p5369
+ag41
+ag41
+aa(lp5370
+S'Richard Loe'
+p5371
+aS'1987'
+p5372
+aS'Prop'
+p5373
+aS'49'
+p5374
+aS'37'
+p5375
+aS'10'
+p5376
+aS'2'
+aS'6'
+aS'25'
+p5377
+aS'Chevot'
+p5378
+aVUnited States of America
+p5379
+aV47906
+p5380
+aVIndiana
+p5381
+aVTippecanoe County
+p5382
+aa(lp5383
+S'Zinzan Brooke'
+p5384
+aS'1987'
+p5385
+aS'No. 8'
+p5386
+aS'58'
+p5387
+aS'45'
+p5388
+aS'11'
+p5389
+aS'2'
+aS'17'
+p5390
+aS'89'
+p5391
+aS'Waiuku'
+p5392
+aVNew Zealand/Aotearoa
+p5393
+aVAuckland
+p5394
+aVFranklin
+p5395
+aVWaiuku
+p5396
+aa(lp5397
+S'Bernie McCahill'
+p5398
+aS'1987'
+p5399
+aS'Five-eighth'
+p5400
+aS'10'
+p5401
+aS'9'
+aS'1'
+aS'0'
+aS'1'
+aS'4'
+aS'Auckland'
+p5402
+aVNew Zealand/Aotearoa
+p5403
+aVAuckland
+p5404
+ag41
+ag41
+aa(lp5405
+S'Bruce Deans'
+p5406
+aS'1988'
+p5407
+aS'Scrum-half'
+p5408
+aS'10'
+p5409
+aS'9'
+aS'0'
+aS'1'
+aS'6'
+aS'24'
+p5410
+aS'Cheviot'
+p5411
+aVUnited States of America
+p5412
+aVOhio
+p5413
+aVHamilton County
+p5414
+aVCheviot
+p5415
+aa(lp5416
+S'John Schuster'
+p5417
+aS'1988'
+p5418
+aS'Centre'
+p5419
+aS'13'
+p5420
+aS'10'
+p5421
+aS'1'
+aS'2'
+aS'1'
+aS'21'
+p5422
+aS'Western Samoa'
+p5423
+aVUnited States of America
+p5424
+aV95503
+p5425
+aVCalifornia
+p5426
+aVHumboldt County
+p5427
+aa(lp5428
+S'Graeme Bachop'
+p5429
+aS'1989'
+p5430
+aS'Scrum-half'
+p5431
+aS'39'
+p5432
+aS'28'
+p5433
+aS'10'
+p5434
+aS'1'
+aS'4'
+aS'18'
+p5435
+aS'Christchurch'
+p5436
+aVNew Zealand/Aotearoa
+p5437
+aVCanterbury
+p5438
+aVChristchurch City
+p5439
+aVChristchurch
+p5440
+aa(lp5441
+S'Craig Innes'
+p5442
+aS'1989'
+p5443
+aS'Centre'
+p5444
+aS'17'
+p5445
+aS'14'
+p5446
+aS'3'
+aS'0'
+aS'6'
+aS'24'
+p5447
+aS'New Plymouth'
+p5448
+aVNew Zealand/Aotearoa
+p5449
+aVTaranaki
+p5450
+aVNew Plymouth District
+p5451
+aVNew Plymouth
+p5452
+aa(lp5453
+S'Ian Jones'
+p5454
+aS'1990'
+p5455
+aS'Lock'
+p5456
+aS'79'
+p5457
+aS'59'
+p5458
+aS'18'
+p5459
 aS'2'
 aS'9'
 aS'42'
-p5003
+p5460
 aS'Whangarei'
-p5004
+p5461
 aVNew Zealand/Aotearoa
-p5005
+p5462
 aVNorthland
-p5006
+p5463
 aVWhangarei District
-p5007
-aa(lp5008
+p5464
+aVWhangarei
+p5465
+aa(lp5466
 S'Walter Little'
-p5009
+p5467
 aS'1990'
-p5010
+p5468
 aS'Five-eighth'
-p5011
+p5469
 aS'50'
-p5012
+p5470
 aS'37'
-p5013
+p5471
 aS'12'
-p5014
+p5472
 aS'1'
 aS'9'
 aS'44'
-p5015
+p5473
 aS'Tokoroa'
-p5016
+p5474
 aVNew Zealand/Aotearoa
-p5017
+p5475
 aVWaikato
-p5018
+p5476
 aVSouth Waikato District
-p5019
-aa(lp5020
+p5477
+aVTokoroa
+p5478
+aa(lp5479
 S'Kevin Schuler'
-p5021
+p5480
 aS'1990'
-p5022
+p5481
 aS'Flanker'
-p5023
+p5482
 aS'4'
 aS'3'
 aS'1'
@@ -12870,20 +13932,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Te Aroha'
-p5024
+p5483
 aVNew Zealand/Aotearoa
-p5025
+p5484
 aVWaikato
-p5026
+p5485
 aVMatamata Piako District
-p5027
-aa(lp5028
+p5486
+aVTe Aroha
+p5487
+aa(lp5488
 S'Paul Henderson'
-p5029
+p5489
 aS'1991'
-p5030
+p5490
 aS'No. 8'
-p5031
+p5491
 aS'7'
 aS'6'
 aS'1'
@@ -12891,44 +13955,48 @@ aS'0'
 aS'2'
 aS'9'
 aS'Bluff'
-p5032
+p5492
 aVNew Zealand/Aotearoa
-p5033
+p5493
 aVSouthland
-p5034
+p5494
 aVInvercargill City
-p5035
-aa(lp5036
+p5495
+aVBluff
+p5496
+aa(lp5497
 S'John Timu'
-p5037
+p5498
 aS'1991'
-p5038
+p5499
 aS'Fullback'
-p5039
+p5500
 aS'26'
-p5040
+p5501
 aS'16'
-p5041
+p5502
 aS'9'
 aS'1'
 aS'7'
 aS'31'
-p5042
+p5503
 aS'Dannevirke'
-p5043
+p5504
 aVNew Zealand/Aotearoa
-p5044
+p5505
 aVManawatu-Wanganui
-p5045
+p5506
 aVTararua District
-p5046
-aa(lp5047
+p5507
+aVDannevirke
+p5508
+aa(lp5509
 S'Mark Carter'
-p5048
+p5510
 aS'1991'
-p5049
+p5511
 aS'Flanker'
-p5050
+p5512
 aS'7'
 aS'5'
 aS'2'
@@ -12936,42 +14004,45 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p5051
+p5513
 aVNew Zealand/Aotearoa
-p5052
+p5514
 aVAuckland
-p5053
-ag53
-aa(lp5054
+p5515
+ag41
+ag41
+aa(lp5516
 S'Jon Preston'
-p5055
+p5517
 aS'1991'
-p5056
+p5518
 aS'Scrum-half'
-p5057
+p5519
 aS'10'
-p5058
+p5520
 aS'9'
 aS'1'
 aS'0'
 aS'1'
 aS'34'
-p5059
+p5521
 aS'Dunedin'
-p5060
+p5522
 aVNew Zealand/Aotearoa
-p5061
+p5523
 aVOtago
-p5062
+p5524
 aVDunedin City
-p5063
-aa(lp5064
+p5525
+aVDunedin
+p5526
+aa(lp5527
 S'Graham Purvis'
-p5065
+p5528
 aS'1991'
-p5066
+p5529
 aS'Prop'
-p5067
+p5530
 aS'2'
 aS'2'
 aS'0'
@@ -12979,45 +14050,49 @@ aS'0'
 aS'1'
 aS'4'
 aS'Waihi'
-p5068
+p5531
 aVNew Zealand/Aotearoa
-p5069
+p5532
 aVWaikato
-p5070
+p5533
 aVHauraki District
-p5071
-aa(lp5072
+p5534
+aVWaihi
+p5535
+aa(lp5536
 S'Inga Tuigamala'
-p5073
+p5537
 aS'1991'
-p5074
+p5538
 aS'Wing, Centre'
-p5075
+p5539
 aS'41'
-p5076
+p5540
 aS'27'
-p5077
+p5541
 aS'14'
-p5078
+p5542
 aS'0'
 aS'8'
 aS'36'
-p5079
+p5543
 aS'Western Samoa'
-p5080
+p5544
 aVUnited States of America
-p5081
+p5545
 aV95503
-p5082
+p5546
 aVCalifornia
-p5083
-aa(lp5084
+p5547
+aVHumboldt County
+p5548
+aa(lp5549
 S'Jason Hewett'
-p5085
+p5550
 aS'1991'
-p5086
+p5551
 aS'Scrum-half'
-p5087
+p5552
 aS'1'
 aS'1'
 aS'0'
@@ -13025,20 +14100,22 @@ aS'0'
 aS'1'
 aS'4'
 aS'Clyde'
-p5088
+p5553
 aVUnited States of America
-p5089
+p5554
 aV94520
-p5090
+p5555
 aVCalifornia
-p5091
-aa(lp5092
+p5556
+aVContra Costa County
+p5557
+aa(lp5558
 S'Shayne Philpott'
-p5093
+p5559
 aS'1991'
-p5094
+p5560
 aS'Fullback'
-p5095
+p5561
 aS'2'
 aS'2'
 aS'0'
@@ -13046,66 +14123,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p5096
+p5562
 aVNew Zealand/Aotearoa
-p5097
+p5563
 aVCanterbury
-p5098
+p5564
 aVChristchurch City
-p5099
-aa(lp5100
+p5565
+aVChristchurch
+p5566
+aa(lp5567
 S'Frank Bunce'
-p5101
+p5568
 aS'1991'
-p5102
+p5569
 aS'Centre'
-p5103
+p5570
 aS'59'
-p5104
+p5571
 aS'44'
-p5105
+p5572
 aS'13'
-p5106
+p5573
 aS'2'
 aS'21'
-p5107
+p5574
 aS'100'
-p5108
+p5575
 aS'Auckland'
-p5109
+p5576
 aVNew Zealand/Aotearoa
-p5110
+p5577
 aVAuckland
-p5111
-ag53
-aa(lp5112
+p5578
+ag41
+ag41
+aa(lp5579
 S'Mark Cooksley'
-p5113
+p5580
 aS'1992'
-p5114
+p5581
 aS'Lock'
-p5115
+p5582
 aS'11'
-p5116
+p5583
 aS'5'
 aS'6'
 aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p5117
+p5584
 aVNew Zealand/Aotearoa
-p5118
+p5585
 aVAuckland
-p5119
-ag53
-aa(lp5120
+p5586
+ag41
+ag41
+aa(lp5587
 S'Richard Turner'
-p5121
+p5588
 aS'1992'
-p5122
+p5589
 aS'Flanker'
-p5123
+p5590
 aS'2'
 aS'1'
 aS'1'
@@ -13113,135 +14194,144 @@ aS'0'
 aS'1'
 aS'4'
 aS'Napier'
-p5124
+p5591
 aVNew Zealand/Aotearoa
-p5125
+p5592
 aVHawke's Bay
-p5126
+p5593
 aVNapier City
-p5127
-aa(lp5128
+p5594
+aVNapier
+p5595
+aa(lp5596
 S'Arran Pene'
-p5129
+p5597
 aS'1992'
-p5130
+p5598
 aS'No. 8'
-p5131
+p5599
 aS'15'
-p5132
+p5600
 aS'9'
 aS'6'
 aS'0'
 aS'4'
 aS'16'
-p5133
+p5601
 aS'Hamilton'
-p5134
+p5602
 aVCanada
-p5135
+p5603
 aVOntario
-p5136
+p5604
 aVHamilton
-p5137
-aa(lp5138
+p5605
+ag41
+aa(lp5606
 S'Eroni Clarke'
-p5139
+p5607
 aS'1992'
-p5140
+p5608
 aS'Five-eighth'
-p5141
+p5609
 aS'10'
-p5142
+p5610
 aS'6'
 aS'4'
 aS'0'
 aS'6'
 aS'25'
-p5143
+p5611
 aS'Western Samoa'
-p5144
+p5612
 aVUnited States of America
-p5145
+p5613
 aV95503
-p5146
+p5614
 aVCalifornia
-p5147
-aa(lp5148
+p5615
+aVHumboldt County
+p5616
+aa(lp5617
 S'Jamie Joseph'
-p5149
+p5618
 aS'1992'
-p5150
+p5619
 aS'Flanker'
-p5151
+p5620
 aS'29'
-p5152
+p5621
 aS'21'
-p5153
+p5622
 aS'8'
 aS'0'
 aS'3'
 aS'15'
-p5154
+p5623
 aS'Blenheim'
-p5155
+p5624
 aVNew Zealand/Aotearoa
-p5156
+p5625
 aVMarlborough
-p5157
+p5626
 aVBlenheim
-p5158
-aa(lp5159
+p5627
+ag41
+aa(lp5628
 S'Blair Larsen'
-p5160
+p5629
 aS'1992'
-p5161
+p5630
 aS'Flanker'
-p5162
+p5631
 aS'17'
-p5163
+p5632
 aS'12'
-p5164
+p5633
 aS'4'
 aS'1'
 aS'1'
 aS'4'
 aS'Northshore'
-p5165
+p5634
 aVCanada
-p5166
+p5635
 aVOntario
-p5167
+p5636
 aVNorthshore
-p5168
-aa(lp5169
+p5637
+ag41
+aa(lp5638
 S'Ant Strachan'
-p5170
+p5639
 aS'1992'
-p5171
+p5640
 aS'Scrum-half'
-p5172
+p5641
 aS'11'
-p5173
+p5642
 aS'8'
 aS'3'
 aS'0'
 aS'2'
 aS'8'
 aS'Te Awamutu'
-p5174
+p5643
 aVNew Zealand/Aotearoa
-p5175
+p5644
 aVWaikato
-p5176
+p5645
 aVWaipa District
-p5177
-aa(lp5178
+p5646
+aVTe Awamutu
+p5647
+aa(lp5648
 S'Graham Dowd'
-p5179
+p5649
 aS'1992'
-p5180
+p5650
 aS'Prop'
-p5181
+p5651
 aS'1'
 aS'1'
 aS'0'
@@ -13249,136 +14339,145 @@ aS'0'
 aS'0'
 aS'0'
 aS'Takapuna'
-p5182
+p5652
 aVNew Zealand/Aotearoa
-p5183
+p5653
 aVAuckland
-p5184
+p5654
 aVDevonport-Takapuna
-p5185
-aa(lp5186
+p5655
+aVTakapuna
+p5656
+aa(lp5657
 S'Robin Brooke'
-p5187
+p5658
 aS'1992'
-p5188
+p5659
 aS'Lock'
-p5189
+p5660
 aS'62'
-p5190
+p5661
 aS'47'
-p5191
+p5662
 aS'13'
-p5192
+p5663
 aS'2'
 aS'4'
 aS'20'
-p5193
+p5664
 aS'Warkworth'
-p5194
+p5665
 aVNew Zealand/Aotearoa
-p5195
+p5666
 aVAuckland
-p5196
+p5667
 aVRodney
-p5197
-aa(lp5198
+p5668
+aVWarkworth
+p5669
+aa(lp5670
 S'Olo Brown'
-p5199
+p5671
 aS'1992'
-p5200
+p5672
 aS'Prop'
-p5201
+p5673
 aS'56'
-p5202
+p5674
 aS'40'
-p5203
+p5675
 aS'14'
-p5204
+p5676
 aS'2'
 aS'4'
 aS'20'
-p5205
+p5677
 aS'Western Samoa'
-p5206
+p5678
 aVUnited States of America
-p5207
+p5679
 aV95503
-p5208
+p5680
 aVCalifornia
-p5209
-aa(lp5210
+p5681
+aVHumboldt County
+p5682
+aa(lp5683
 S'Matthew Cooper'
-p5211
+p5684
 aS'1992'
-p5212
+p5685
 aS'Five-eighth'
-p5213
+p5686
 aS'8'
 aS'6'
 aS'2'
 aS'0'
 aS'2'
 aS'55'
-p5214
+p5687
 aS'Gisborne'
-p5215
+p5688
 aVNew Zealand/Aotearoa
-p5216
+p5689
 aVGisborne
-p5217
-ag53
-aa(lp5218
+p5690
+ag41
+ag41
+aa(lp5691
 S'Craig Dowd'
-p5219
+p5692
 aS'1993'
-p5220
+p5693
 aS'Prop'
-p5221
+p5694
 aS'60'
-p5222
+p5695
 aS'47'
-p5223
+p5696
 aS'13'
-p5224
+p5697
 aS'0'
 aS'2'
 aS'10'
-p5225
+p5698
 aS'Auckland'
-p5226
+p5699
 aVNew Zealand/Aotearoa
-p5227
+p5700
 aVAuckland
-p5228
-ag53
-aa(lp5229
+p5701
+ag41
+ag41
+aa(lp5702
 S'Lee Stensness'
-p5230
+p5703
 aS'1993'
-p5231
+p5704
 aS'Centre, Five-eighth'
-p5232
+p5705
 aS'8'
 aS'8'
 aS'0'
 aS'0'
 aS'3'
 aS'15'
-p5233
+p5706
 aS'Auckland'
-p5234
+p5707
 aVNew Zealand/Aotearoa
-p5235
+p5708
 aVAuckland
-p5236
-ag53
-aa(lp5237
+p5709
+ag41
+ag41
+aa(lp5710
 S'Bull Allen'
-p5238
+p5711
 aS'1993'
-p5239
+p5712
 aS'Prop'
-p5240
+p5713
 aS'8'
 aS'7'
 aS'0'
@@ -13386,43 +14485,47 @@ aS'1'
 aS'1'
 aS'5'
 aS'Stratford'
-p5241
+p5714
 aVUnited Kingdom
-p5242
+p5715
 aVEngland
-p5243
+p5716
 aVWest Midlands
-p5244
-aa(lp5245
+p5717
+aVWarwickshire
+p5718
+aa(lp5719
 S'Marc Ellis'
-p5246
+p5720
 aS'1993'
-p5247
+p5721
 aS'Wing'
-p5248
+p5722
 aS'8'
 aS'6'
 aS'2'
 aS'0'
 aS'11'
-p5249
+p5723
 aS'55'
-p5250
+p5724
 aS'Wellington'
-p5251
+p5725
 aVNew Zealand/Aotearoa
-p5252
+p5726
 aVWellington
-p5253
+p5727
 aVWellington City
-p5254
-aa(lp5255
+p5728
+aVWellington
+p5729
+aa(lp5730
 S'Stu Forster'
-p5256
+p5731
 aS'1993'
-p5257
+p5732
 aS'Scrum-half'
-p5258
+p5733
 aS'6'
 aS'2'
 aS'4'
@@ -13430,20 +14533,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Pahiatua'
-p5259
+p5734
 aVNew Zealand/Aotearoa
-p5260
+p5735
 aVManawatu-Wanganui
-p5261
+p5736
 aVTararua District
-p5262
-aa(lp5263
+p5737
+aVPahiatua
+p5738
+aa(lp5739
 S'Steve Gordon'
-p5264
+p5740
 aS'1993'
-p5265
+p5741
 aS'Lock'
-p5266
+p5742
 aS'2'
 aS'1'
 aS'1'
@@ -13451,71 +14556,76 @@ aS'0'
 aS'0'
 aS'0'
 aS'Te Awamutu'
-p5267
+p5743
 aVNew Zealand/Aotearoa
-p5268
+p5744
 aVWaikato
-p5269
+p5745
 aVWaipa District
-p5270
-aa(lp5271
+p5746
+aVTe Awamutu
+p5747
+aa(lp5748
 S'Jeff Wilson'
-p5272
+p5749
 aS'1993'
-p5273
+p5750
 aS'Wing'
-p5274
+p5751
 aS'60'
-p5275
+p5752
 aS'45'
-p5276
+p5753
 aS'14'
-p5277
+p5754
 aS'1'
 aS'44'
-p5278
+p5755
 aS'234'
-p5279
+p5756
 aS'Invercargill'
-p5280
+p5757
 aVNew Zealand/Aotearoa
-p5281
+p5758
 aVSouthland
-p5282
+p5759
 aVInvercargill City
-p5283
-aa(lp5284
+p5760
+aVInvercargill
+p5761
+aa(lp5762
 S'Jonah Lomu'
-p5285
+p5763
 aS'1994'
-p5286
+p5764
 aS'Wing'
-p5287
+p5765
 aS'63'
-p5288
+p5766
 aS'44'
-p5289
+p5767
 aS'17'
-p5290
+p5768
 aS'2'
 aS'37'
-p5291
+p5769
 aS'185'
-p5292
+p5770
 aS'Auckland'
-p5293
+p5771
 aVNew Zealand/Aotearoa
-p5294
+p5772
 aVAuckland
-p5295
-ag53
-aa(lp5296
+p5773
+ag41
+ag41
+aa(lp5774
 S'Simon Mannix'
-p5297
+p5775
 aS'1994'
-p5298
+p5776
 aS'Fly-half'
-p5299
+p5777
 aS'1'
 aS'0'
 aS'1'
@@ -13523,168 +14633,181 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lower Hutt'
-p5300
+p5778
 aVNew Zealand/Aotearoa
-p5301
+p5779
 aVWellington
-p5302
+p5780
 aVLower Hutt City
-p5303
-aa(lp5304
+p5781
+aVLower Hutt
+p5782
+aa(lp5783
 S'Stephen Bachop'
-p5305
+p5784
 aS'1991'
-p5306
+p5785
 aS'Fly-half'
-p5307
+p5786
 aS'23'
-p5308
+p5787
 aS'12'
-p5309
+p5788
 aS'10'
-p5310
+p5789
 aS'1'
 aS'4'
 aS'64'
-p5311
+p5790
 aS'Lyttelton'
-p5312
+p5791
 aVNew Zealand/Aotearoa
-p5313
+p5792
 aVCanterbury
-p5314
+p5793
 aVChristchurch City
-p5315
-aa(lp5316
+p5794
+aVChristchurch
+p5795
+aa(lp5796
 S'Shane Howarth'
-p5317
+p5797
 aS'1994'
-p5318
+p5798
 aS'Fly-half, Fullback'
-p5319
+p5799
 aS'23'
-p5320
+p5800
 aS'14'
-p5321
+p5801
 aS'8'
 aS'1'
 aS'5'
 aS'77'
-p5322
+p5802
 aS'Auckland'
-p5323
+p5803
 aVNew Zealand/Aotearoa
-p5324
+p5804
 aVAuckland
-p5325
-ag53
-aa(lp5326
+p5805
+ag41
+ag41
+aa(lp5806
 S'Alama Ieremia'
-p5327
+p5807
 aS'1992'
-p5328
+p5808
 aS'Five-eighth'
-p5329
+p5809
 aS'35'
-p5330
+p5810
 aS'27'
-p5331
+p5811
 aS'7'
 aS'1'
 aS'5'
 aS'25'
-p5332
+p5812
 aS'Western Samoa'
-p5333
+p5813
 aVUnited States of America
-p5334
+p5814
 aV95503
-p5335
+p5815
 aVCalifornia
-p5336
-aa(lp5337
+p5816
+aVHumboldt County
+p5817
+aa(lp5818
 S'Josh Kronfeld'
-p5338
+p5819
 aS'1995'
-p5339
+p5820
 aS'Flanker'
-p5340
+p5821
 aS'54'
-p5341
+p5822
 aS'42'
-p5342
+p5823
 aS'11'
-p5343
+p5824
 aS'1'
 aS'14'
-p5344
+p5825
 aS'70'
-p5345
+p5826
 aS'Hastings'
-p5346
+p5827
 aVUnited Kingdom
-p5347
+p5828
 aVEngland
-p5348
+p5829
 aVSouth East
-p5349
-aa(lp5350
+p5830
+aVEast Sussex
+p5831
+aa(lp5832
 S'Andrew Mehrtens'
-p5351
+p5833
 aS'1995'
-p5352
+p5834
 aS'Fly-half'
-p5353
+p5835
 aS'70'
-p5354
+p5836
 aS'49'
-p5355
+p5837
 aS'19'
-p5356
+p5838
 aS'2'
 aS'7'
 aS'967'
-p5357
+p5839
 aS'Durban'
-p5358
+p5840
 aVSouth Africa
-p5359
+p5841
 aVKwaZulu-Natal
-p5360
+p5842
 aVeThekwini Metropolitan Municipality
-p5361
-aa(lp5362
+p5843
+aVDurban
+p5844
+aa(lp5845
 S'Glen Osborne'
-p5363
+p5846
 aS'1995'
-p5364
+p5847
 aS'Fullback'
-p5365
+p5848
 aS'19'
-p5366
+p5849
 aS'16'
-p5367
+p5850
 aS'3'
 aS'0'
 aS'11'
-p5368
+p5851
 aS'55'
-p5369
+p5852
 aS'Wanganui'
-p5370
+p5853
 aVNew Zealand/Aotearoa
-p5371
+p5854
 aVManawatu-Wanganui
-p5372
+p5855
 aVWanganui District
-p5373
-aa(lp5374
+p5856
+aVWhanganui
+p5857
+aa(lp5858
 S'Norm Hewitt'
-p5375
+p5859
 aS'1995'
-p5376
+p5860
 aS'Hooker'
-p5377
+p5861
 aS'9'
 aS'8'
 aS'0'
@@ -13692,63 +14815,68 @@ aS'1'
 aS'0'
 aS'0'
 aS'Hastings'
-p5378
+p5862
 aVUnited Kingdom
-p5379
+p5863
 aVEngland
-p5380
+p5864
 aVSouth East
-p5381
-aa(lp5382
+p5865
+aVEast Sussex
+p5866
+aa(lp5867
 S'Eric Rush'
-p5383
+p5868
 aS'1995'
-p5384
+p5869
 aS'Wing'
-p5385
+p5870
 aS'9'
 aS'8'
 aS'1'
 aS'0'
 aS'5'
 aS'25'
-p5386
+p5871
 aS'Auckland'
-p5387
+p5872
 aVNew Zealand/Aotearoa
-p5388
+p5873
 aVAuckland
-p5389
-ag53
-aa(lp5390
+p5874
+ag41
+ag41
+aa(lp5875
 S'Simon Culhane'
-p5391
+p5876
 aS'1995'
-p5392
+p5877
 aS'Fly-half'
-p5393
+p5878
 aS'6'
 aS'5'
 aS'1'
 aS'0'
 aS'1'
 aS'114'
-p5394
+p5879
 aS'Invercargill'
-p5395
+p5880
 aVNew Zealand/Aotearoa
-p5396
+p5881
 aVSouthland
-p5397
+p5882
 aVInvercargill City
-p5398
-aa(lp5399
+p5883
+aVInvercargill
+p5884
+aa(lp5885
 S'Liam Barry'
-p5400
+p5886
 aS'1995'
-p5401
+p5887
 aS'Flanker'
-p5402
+p5888
 aS'1'
 aS'1'
 aS'0'
@@ -13756,94 +14884,102 @@ aS'0'
 aS'0'
 aS'0'
 aS'Takapuna'
-p5403
+p5889
 aVNew Zealand/Aotearoa
-p5404
+p5890
 aVAuckland
-p5405
+p5891
 aVDevonport-Takapuna
-p5406
-aa(lp5407
+p5892
+aVTakapuna
+p5893
+aa(lp5894
 S'Justin Marshall'
-p5408
+p5895
 aS'1995'
-p5409
+p5896
 aS'Scrum-half'
-p5410
+p5897
 aS'81'
-p5411
+p5898
 aS'61'
-p5412
+p5899
 aS'19'
-p5413
+p5900
 aS'1'
 aS'24'
-p5414
+p5901
 aS'120'
-p5415
+p5902
 aS'Mataura'
-p5416
+p5903
 aVNew Zealand/Aotearoa
-p5417
+p5904
 aVSouthland
-p5418
+p5905
 aVGore District
-p5419
-aa(lp5420
+p5906
+aVMataura
+p5907
+aa(lp5908
 S'Christian Cullen'
-p5421
+p5909
 aS'1996'
-p5422
+p5910
 aS'Fullback'
-p5423
+p5911
 aS'58'
-p5424
+p5912
 aS'42'
-p5425
+p5913
 aS'14'
-p5426
+p5914
 aS'2'
 aS'46'
-p5427
+p5915
 aS'236'
-p5428
+p5916
 aS'Paraparaumu'
-p5429
+p5917
 aVNew Zealand/Aotearoa
-p5430
+p5918
 aVWellington
-p5431
+p5919
 aVKapiti Coast District
-p5432
-aa(lp5433
+p5920
+aVParaparaumu
+p5921
+aa(lp5922
 S'Scott McLeod'
-p5434
+p5923
 aS'1996'
-p5435
+p5924
 aS'Centre'
-p5436
+p5925
 aS'10'
-p5437
+p5926
 aS'7'
 aS'2'
 aS'1'
 aS'1'
 aS'5'
 aS'S Brisbane'
-p5438
+p5927
 aVAustralia
-p5439
+p5928
 aV4101
-p5440
+p5929
 aVQueensland
-p5441
-aa(lp5442
+p5930
+aVBrisbane
+p5931
+aa(lp5932
 S'Adrian Cashmore'
-p5443
+p5933
 aS'1996'
-p5444
+p5934
 aS'Fullback'
-p5445
+p5935
 aS'2'
 aS'2'
 aS'0'
@@ -13851,43 +14987,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tokoroa'
-p5446
+p5936
 aVNew Zealand/Aotearoa
-p5447
+p5937
 aVWaikato
-p5448
+p5938
 aVSouth Waikato District
-p5449
-aa(lp5450
+p5939
+aVTokoroa
+p5940
+aa(lp5941
 S'Andrew Blowers'
-p5451
+p5942
 aS'1996'
-p5452
+p5943
 aS'Back-row'
-p5453
+p5944
 aS'11'
-p5454
+p5945
 aS'10'
-p5455
+p5946
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'Otahuhu'
-p5456
+p5947
 aVNew Zealand/Aotearoa
-p5457
+p5948
 aVAuckland
-p5458
+p5949
 aVMangere-Otahuhu
-p5459
-aa(lp5460
+p5950
+aV\u014ct\u0101huhu
+p5951
+aa(lp5952
 S'Glenn Taylor'
-p5461
+p5953
 aS'1996'
-p5462
+p5954
 aS'Flanker'
-p5463
+p5955
 aS'1'
 aS'0'
 aS'1'
@@ -13895,97 +15035,105 @@ aS'0'
 aS'0'
 aS'0'
 aS'Whangarei'
-p5464
+p5956
 aVNew Zealand/Aotearoa
-p5465
+p5957
 aVNorthland
-p5466
+p5958
 aVWhangarei District
-p5467
-aa(lp5468
+p5959
+aVWhangarei
+p5960
+aa(lp5961
 S'Taine Randell'
-p5469
+p5962
 aS'1997'
-p5470
+p5963
 aS'Back-row'
-p5471
+p5964
 aS'51'
-p5472
+p5965
 aS'35'
-p5473
+p5966
 aS'14'
-p5474
+p5967
 aS'2'
 aS'12'
-p5475
+p5968
 aS'60'
-p5476
+p5969
 aS'Hastings'
-p5477
+p5970
 aVUnited Kingdom
-p5478
+p5971
 aVEngland
-p5479
+p5972
 aVSouth East
-p5480
-aa(lp5481
+p5973
+aVEast Sussex
+p5974
+aa(lp5975
 S'Tana Umaga'
-p5482
+p5976
 aS'1997'
-p5483
+p5977
 aS'Wing, Centre'
-p5484
+p5978
 aS'74'
-p5485
+p5979
 aS'59'
-p5486
+p5980
 aS'14'
-p5487
+p5981
 aS'1'
 aS'36'
-p5488
+p5982
 aS'180'
-p5489
+p5983
 aS'Lower Hutt'
-p5490
+p5984
 aVNew Zealand/Aotearoa
-p5491
+p5985
 aVWellington
-p5492
+p5986
 aVLower Hutt City
-p5493
-aa(lp5494
+p5987
+aVLower Hutt
+p5988
+aa(lp5989
 S'Anton Oliver'
-p5495
+p5990
 aS'1997'
-p5496
+p5991
 aS'Hooker'
-p5497
+p5992
 aS'59'
-p5498
+p5993
 aS'42'
-p5499
+p5994
 aS'17'
-p5500
+p5995
 aS'0'
 aS'3'
 aS'15'
-p5501
+p5996
 aS'Invercargill'
-p5502
+p5997
 aVNew Zealand/Aotearoa
-p5503
+p5998
 aVSouthland
-p5504
+p5999
 aVInvercargill City
-p5505
-aa(lp5506
+p6000
+aVInvercargill
+p6001
+aa(lp6002
 S'Charles Riechelmann'
-p5507
+p6003
 aS'1997'
-p5508
+p6004
 aS'Flanker'
-p5509
+p6005
 aS'6'
 aS'5'
 aS'0'
@@ -13993,20 +15141,22 @@ aS'1'
 aS'1'
 aS'5'
 aS"Nuku'alofa"
-p5510
+p6006
 aVTonga
-p5511
+p6007
 aVTongatapu
-p5512
+p6008
 aVVahe Kolofo'ou
-p5513
-aa(lp5514
+p6009
+aVNuku'alofa
+p6010
+aa(lp6011
 S"Junior Tonu'u"
-p5515
+p6012
 aS'1992'
-p5516
+p6013
 aS'Scrum-half'
-p5517
+p6014
 aS'9'
 aS'7'
 aS'2'
@@ -14014,88 +15164,95 @@ aS'0'
 aS'1'
 aS'5'
 aS'Wellington'
-p5518
+p6015
 aVNew Zealand/Aotearoa
-p5519
+p6016
 aVWellington
-p5520
+p6017
 aVWellington City
-p5521
-aa(lp5522
+p6018
+aVWellington
+p6019
+aa(lp6020
 S'Carlos Spencer'
-p5523
+p6021
 aS'1997'
-p5524
+p6022
 aS'Fullback, Fly-half'
-p5525
+p6023
 aS'35'
-p5526
+p6024
 aS'27'
-p5527
+p6025
 aS'7'
 aS'1'
 aS'14'
-p5528
+p6026
 aS'291'
-p5529
+p6027
 aS'Levin'
-p5530
+p6028
 aVNew Zealand/Aotearoa
-p5531
+p6029
 aVManawatu-Wanganui
-p5532
+p6030
 aVHorowhenua District
-p5533
-aa(lp5534
+p6031
+aVLevin
+p6032
+aa(lp6033
 S'Mark Mayerhofler'
-p5535
+p6034
 aS'1998'
-p5536
+p6035
 aS'Centre'
-p5537
+p6036
 aS'6'
 aS'2'
 aS'4'
 aS'0'
 aS'2'
 aS'10'
-p5538
+p6037
 aS'Auckland'
-p5539
+p6038
 aVNew Zealand/Aotearoa
-p5540
+p6039
 aVAuckland
-p5541
-ag53
-aa(lp5542
+p6040
+ag41
+ag41
+aa(lp6041
 S'Todd Blackadder'
-p5543
+p6042
 aS'1998'
-p5544
+p6043
 aS'Lock, Flanker'
-p5545
+p6044
 aS'12'
-p5546
+p6045
 aS'9'
 aS'3'
 aS'0'
 aS'1'
 aS'5'
 aS'Rangiora'
-p5547
+p6046
 aVNew Zealand/Aotearoa
-p5548
+p6047
 aVCanterbury
-p5549
+p6048
 aVWaimakariri District
-p5550
-aa(lp5551
+p6049
+aVRangiora
+p6050
+aa(lp6051
 S'Mark Robinson'
-p5552
+p6052
 aS'1998'
-p5553
+p6053
 aS'Scrum-half'
-p5554
+p6054
 aS'3'
 aS'3'
 aS'0'
@@ -14103,67 +15260,72 @@ aS'0'
 aS'1'
 aS'5'
 aS'Palmerston North'
-p5555
+p6055
 aVNew Zealand/Aotearoa
-p5556
+p6056
 aVManawatu-Wanganui
-p5557
+p6057
 aVPalmerston North City
-p5558
-aa(lp5559
+p6058
+aVPalmerston North
+p6059
+aa(lp6060
 S'Caleb Ralph'
-p5560
+p6061
 aS'1998'
-p5561
+p6062
 aS'Centre, Wing'
-p5562
+p6063
 aS'14'
-p5563
+p6064
 aS'12'
-p5564
+p6065
 aS'2'
 aS'0'
 aS'8'
 aS'40'
-p5565
+p6066
 aS'Rotorua'
-p5566
+p6067
 aVNew Zealand/Aotearoa
-p5567
+p6068
 aVBay of Plenty
-p5568
+p6069
 aVRotorua District
-p5569
-aa(lp5570
+p6070
+aVRotorua
+p6071
+aa(lp6072
 S'Carl Hoeft'
-p5571
+p6073
 aS'1998'
-p5572
+p6074
 aS'Prop'
-p5573
+p6075
 aS'30'
-p5574
+p6076
 aS'20'
-p5575
+p6077
 aS'10'
-p5576
+p6078
 aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p5577
+p6079
 aVNew Zealand/Aotearoa
-p5578
+p6080
 aVAuckland
-p5579
-ag53
-aa(lp5580
+p6081
+ag41
+ag41
+aa(lp6082
 S'Isitolo Maka'
-p5581
+p6083
 aS'1998'
-p5582
+p6084
 aS'No. 8'
-p5583
+p6085
 aS'4'
 aS'1'
 aS'3'
@@ -14171,85 +15333,92 @@ aS'0'
 aS'1'
 aS'5'
 aS'Longoteme'
-p5584
+p6086
 aVTonga
-p5585
+p6087
 aVTongatapu
-p5586
+p6088
 aVVahe Vaini
-p5587
-aa(lp5588
+p6089
+aVLongoteme
+p6090
+aa(lp6091
 S'Joeli Vidiri'
-p5589
+p6092
 aS'1994'
-p5590
+p6093
 aS'Wing'
-p5591
+p6094
 aS'9'
 aS'2'
 aS'7'
 aS'0'
 aS'6'
 aS'30'
-p5592
+p6095
 aS'Nausori Highland'
-p5593
+p6096
 aS'g'
 aS'n'
 aS'i'
-aa(lp5594
+aS's'
+aa(lp6097
 S'Scott Robertson'
-p5595
+p6098
 aS'1998'
-p5596
+p6099
 aS'No. 8'
-p5597
+p6100
 aS'23'
-p5598
+p6101
 aS'17'
-p5599
+p6102
 aS'6'
 aS'0'
 aS'4'
 aS'20'
-p5600
+p6103
 aS'Tauranga'
-p5601
+p6104
 aVNew Zealand/Aotearoa
-p5602
+p6105
 aVBay of Plenty
-p5603
+p6106
 aVTauranga City
-p5604
-aa(lp5605
+p6107
+aVTauranga
+p6108
+aa(lp6109
 S'Royce Willis'
-p5606
+p6110
 aS'1998'
-p5607
+p6111
 aS'Lock'
-p5608
+p6112
 aS'12'
-p5609
+p6113
 aS'7'
 aS'5'
 aS'0'
 aS'0'
 aS'0'
 aS'Tokoroa'
-p5610
+p6114
 aVNew Zealand/Aotearoa
-p5611
+p6115
 aVWaikato
-p5612
+p6116
 aVSouth Waikato District
-p5613
-aa(lp5614
+p6117
+aVTokoroa
+p6118
+aa(lp6119
 S'Norm Berryman'
-p5615
+p6120
 aS'1998'
-p5616
+p6121
 aS'Centre'
-p5617
+p6122
 aS'1'
 aS'0'
 aS'1'
@@ -14257,45 +15426,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p5618
+p6123
 aVNew Zealand/Aotearoa
-p5619
+p6124
 aVWellington
-p5620
+p6125
 aVWellington City
-p5621
-aa(lp5622
+p6126
+aVWellington
+p6127
+aa(lp6128
 S'Kees Meeuws'
-p5623
+p6129
 aS'1998'
-p5624
+p6130
 aS'Prop'
-p5625
+p6131
 aS'42'
-p5626
+p6132
 aS'31'
-p5627
+p6133
 aS'10'
-p5628
+p6134
 aS'1'
 aS'10'
-p5629
+p6135
 aS'50'
-p5630
+p6136
 aS'Auckland'
-p5631
+p6137
 aVNew Zealand/Aotearoa
-p5632
+p6138
 aVAuckland
-p5633
-ag53
-aa(lp5634
+p6139
+ag41
+ag41
+aa(lp6140
 S'Xavier Rush'
-p5635
+p6141
 aS'1998'
-p5636
+p6142
 aS'No. 8'
-p5637
+p6143
 aS'8'
 aS'5'
 aS'3'
@@ -14303,90 +15475,95 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p5638
+p6144
 aVNew Zealand/Aotearoa
-p5639
+p6145
 aVAuckland
-p5640
-ag53
-aa(lp5641
+p6146
+ag41
+ag41
+aa(lp6147
 S'Tony Brown'
-p5642
+p6148
 aS'1999'
-p5643
+p6149
 aS'Fly-half'
-p5644
+p6150
 aS'18'
-p5645
+p6151
 aS'15'
-p5646
+p6152
 aS'3'
 aS'0'
 aS'5'
 aS'171'
-p5647
+p6153
 aS'Blenheim'
-p5648
+p6154
 aVNew Zealand/Aotearoa
-p5649
+p6155
 aVMarlborough
-p5650
+p6156
 aVBlenheim
-p5651
-aa(lp5652
+p6157
+ag41
+aa(lp6158
 S'Daryl Gibson'
-p5653
+p6159
 aS'1999'
-p5654
+p6160
 aS'Centre'
-p5655
+p6161
 aS'19'
-p5656
+p6162
 aS'15'
-p5657
+p6163
 aS'4'
 aS'0'
 aS'1'
 aS'5'
 aS'Lumsden'
-p5658
+p6164
 aVNew Zealand/Aotearoa
-p5659
+p6165
 aVSouthland
-p5660
+p6166
 aVLumsden
-p5661
-aa(lp5662
+p6167
+ag41
+aa(lp6168
 S'Norm Maxwell'
-p5663
+p6169
 aS'1999'
-p5664
+p6170
 aS'Lock'
-p5665
+p6171
 aS'36'
-p5666
+p6172
 aS'28'
-p5667
+p6173
 aS'8'
 aS'0'
 aS'5'
 aS'25'
-p5668
+p6174
 aS'Rawene'
-p5669
+p6175
 aVNew Zealand/Aotearoa
-p5670
+p6176
 aVNorthland
-p5671
+p6177
 aVFar North District
-p5672
-aa(lp5673
+p6178
+aVRawene
+p6179
+aa(lp6180
 S'Dylan Mika'
-p5674
+p6181
 aS'1994'
-p5675
+p6182
 aS'Back-row'
-p5676
+p6183
 aS'9'
 aS'6'
 aS'3'
@@ -14394,137 +15571,147 @@ aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p5677
+p6184
 aVNew Zealand/Aotearoa
-p5678
+p6185
 aVAuckland
-p5679
-ag53
-aa(lp5680
+p6186
+ag41
+ag41
+aa(lp6187
 S'Greg Feek'
-p5681
+p6188
 aS'1999'
-p5682
+p6189
 aS'Prop'
-p5683
+p6190
 aS'10'
-p5684
+p6191
 aS'9'
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'New Plymouth'
-p5685
+p6192
 aVNew Zealand/Aotearoa
-p5686
+p6193
 aVTaranaki
-p5687
+p6194
 aVNew Plymouth District
-p5688
-aa(lp5689
+p6195
+aVNew Plymouth
+p6196
+aa(lp6197
 S'Byron Kelleher'
-p5690
+p6198
 aS'1999'
-p5691
+p6199
 aS'Scrum-half'
-p5692
+p6200
 aS'57'
-p5693
+p6201
 aS'46'
-p5694
+p6202
 aS'11'
-p5695
+p6203
 aS'0'
 aS'8'
 aS'40'
-p5696
+p6204
 aS'Dunedin'
-p5697
+p6205
 aVNew Zealand/Aotearoa
-p5698
+p6206
 aVOtago
-p5699
+p6207
 aVDunedin City
-p5700
-aa(lp5701
+p6208
+aVDunedin
+p6209
+aa(lp6210
 S'Pita Alatini'
-p5702
+p6211
 aS'1995'
-p5703
+p6212
 aS'Centre'
-p5704
+p6213
 aS'18'
-p5705
+p6214
 aS'13'
-p5706
+p6215
 aS'5'
 aS'0'
 aS'6'
 aS'30'
-p5707
+p6216
 aS"Nuku'alofa"
-p5708
+p6217
 aVTonga
-p5709
+p6218
 aVTongatapu
-p5710
+p6219
 aVVahe Kolofo'ou
-p5711
-aa(lp5712
+p6220
+aVNuku'alofa
+p6221
+aa(lp6222
 S'Mark Hammett'
-p5713
+p6223
 aS'1999'
-p5714
+p6224
 aS'Hooker'
-p5715
+p6225
 aS'29'
-p5716
+p6226
 aS'25'
-p5717
+p6227
 aS'4'
 aS'0'
 aS'3'
 aS'15'
-p5718
+p6228
 aS'Christchurch'
-p5719
+p6229
 aVNew Zealand/Aotearoa
-p5720
+p6230
 aVCanterbury
-p5721
+p6231
 aVChristchurch City
-p5722
-aa(lp5723
+p6232
+aVChristchurch
+p6233
+aa(lp6234
 S'Reuben Thorne'
-p5724
+p6235
 aS'1999'
-p5725
+p6236
 aS'Flanker, Lock'
-p5726
+p6237
 aS'50'
-p5727
+p6238
 aS'42'
-p5728
+p6239
 aS'8'
 aS'0'
 aS'5'
 aS'25'
-p5729
+p6240
 aS'Burwood'
-p5730
+p6241
 aVAustralia
-p5731
+p6242
 aVBurwood
-p5732
-ag53
-aa(lp5733
+p6243
+ag41
+ag41
+aa(lp6244
 S'Rhys Duggan'
-p5734
+p6245
 aS'1999'
-p5735
+p6246
 aS'Scrum-half'
-p5736
+p6247
 aS'1'
 aS'1'
 aS'0'
@@ -14532,164 +15719,176 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rotorua'
-p5737
+p6248
 aVNew Zealand/Aotearoa
-p5738
+p6249
 aVBay of Plenty
-p5739
+p6250
 aVRotorua District
-p5740
-aa(lp5741
+p6251
+aVRotorua
+p6252
+aa(lp6253
 S'Troy Flavell'
-p5742
+p6254
 aS'2000'
-p5743
+p6255
 aS'Lock'
-p5744
+p6256
 aS'22'
-p5745
+p6257
 aS'17'
-p5746
+p6258
 aS'5'
 aS'0'
 aS'6'
 aS'30'
-p5747
+p6259
 aS'Otahuhu'
-p5748
+p6260
 aVNew Zealand/Aotearoa
-p5749
+p6261
 aVAuckland
-p5750
+p6262
 aVMangere-Otahuhu
-p5751
-aa(lp5752
+p6263
+aV\u014ct\u0101huhu
+p6264
+aa(lp6265
 S'Greg Somerville'
-p5753
+p6266
 aS'2000'
-p5754
+p6267
 aS'Prop'
-p5755
+p6268
 aS'66'
-p5756
+p6269
 aS'55'
-p5757
+p6270
 aS'11'
-p5758
+p6271
 aS'0'
 aS'1'
 aS'5'
 aS'Wairoa'
-p5759
+p6272
 aVNew Zealand/Aotearoa
-p5760
+p6273
 aVHawke's Bay
-p5761
+p6274
 aVWairoa District
-p5762
-aa(lp5763
+p6275
+aVWairoa
+p6276
+aa(lp6277
 S'Doug Howlett'
-p5764
+p6278
 aS'2000'
-p5765
+p6279
 aS'Wing'
-p5766
+p6280
 aS'62'
-p5767
+p6281
 aS'51'
-p5768
+p6282
 aS'10'
-p5769
+p6283
 aS'1'
 aS'49'
-p5770
+p6284
 aS'245'
-p5771
+p6285
 aS'Auckland'
-p5772
+p6286
 aVNew Zealand/Aotearoa
-p5773
+p6287
 aVAuckland
-p5774
-ag53
-aa(lp5775
+p6288
+ag41
+ag41
+aa(lp6289
 S'Filo Tiatia'
-p5776
+p6290
 aS'2000'
-p5777
+p6291
 aS'Back-row, Lock'
-p5778
+p6292
 aS'2'
 aS'2'
 aS'0'
 aS'0'
 aS'2'
 aS'10'
-p5779
+p6293
 aS'Wellington'
-p5780
+p6294
 aVNew Zealand/Aotearoa
-p5781
+p6295
 aVWellington
-p5782
+p6296
 aVWellington City
-p5783
-aa(lp5784
+p6297
+aVWellington
+p6298
+aa(lp6299
 S'Ron Cribb'
-p5785
+p6300
 aS'2000'
-p5786
+p6301
 aS'No. 8'
-p5787
+p6302
 aS'15'
-p5788
+p6303
 aS'10'
-p5789
+p6304
 aS'5'
 aS'0'
 aS'4'
 aS'20'
-p5790
+p6305
 aS'Wanganui'
-p5791
+p6306
 aVNew Zealand/Aotearoa
-p5792
+p6307
 aVManawatu-Wanganui
-p5793
+p6308
 aVWanganui District
-p5794
-aa(lp5795
+p6309
+aVWhanganui
+p6310
+aa(lp6311
 S'Leon MacDonald'
-p5796
+p6312
 aS'2000'
-p5797
+p6313
 aS'Fly-half'
-p5798
+p6314
 aS'56'
-p5799
+p6315
 aS'48'
-p5800
+p6316
 aS'8'
 aS'0'
 aS'14'
-p5801
+p6317
 aS'141'
-p5802
+p6318
 aS'Blenheim'
-p5803
+p6319
 aVNew Zealand/Aotearoa
-p5804
+p6320
 aVMarlborough
-p5805
+p6321
 aVBlenheim
-p5806
-aa(lp5807
+p6322
+ag41
+aa(lp6323
 S'Mark Robinson'
-p5808
+p6324
 aS'2000'
-p5809
+p6325
 aS'Centre'
-p5810
+p6326
 aS'9'
 aS'7'
 aS'1'
@@ -14697,20 +15896,22 @@ aS'1'
 aS'1'
 aS'5'
 aS'Stratford'
-p5811
+p6327
 aVUnited Kingdom
-p5812
+p6328
 aVEngland
-p5813
+p6329
 aVWest Midlands
-p5814
-aa(lp5815
+p6330
+aVWarwickshire
+p6331
+aa(lp6332
 S'Gordon Slater'
-p5816
+p6333
 aS'2000'
-p5817
+p6334
 aS'Prop'
-p5818
+p6335
 aS'3'
 aS'2'
 aS'1'
@@ -14718,42 +15919,46 @@ aS'0'
 aS'1'
 aS'5'
 aS'New Plymouth'
-p5819
+p6336
 aVNew Zealand/Aotearoa
-p5820
+p6337
 aVTaranaki
-p5821
+p6338
 aVNew Plymouth District
-p5822
-aa(lp5823
+p6339
+aVNew Plymouth
+p6340
+aa(lp6341
 S'Bruce Reihana'
-p5824
+p6342
 aS'2000'
-p5825
+p6343
 aS'Fullback'
-p5826
+p6344
 aS'2'
 aS'1'
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p5827
+p6345
 aS'Thames'
-p5828
+p6346
 aVNew Zealand/Aotearoa
-p5829
+p6347
 aVWaikato
-p5830
+p6348
 aVThames Coromandel District
-p5831
-aa(lp5832
+p6349
+aVThames
+p6350
+aa(lp6351
 S"Jason O'Halloran"
-p5833
+p6352
 aS'2000'
-p5834
+p6353
 aS'Five-eighth'
-p5835
+p6354
 aS'1'
 aS'1'
 aS'0'
@@ -14761,68 +15966,73 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lower Hutt'
-p5836
+p6355
 aVNew Zealand/Aotearoa
-p5837
+p6356
 aVWellington
-p5838
+p6357
 aVLower Hutt City
-p5839
-aa(lp5840
+p6358
+aVLower Hutt
+p6359
+aa(lp6360
 S'Marty Holah'
-p5841
+p6361
 aS'2001'
-p5842
+p6362
 aS'Flanker'
-p5843
+p6363
 aS'36'
-p5844
+p6364
 aS'27'
-p5845
+p6365
 aS'8'
 aS'1'
 aS'3'
 aS'15'
-p5846
+p6366
 aS'Hamilton'
-p5847
+p6367
 aVCanada
-p5848
+p6368
 aVOntario
-p5849
+p6369
 aVHamilton
-p5850
-aa(lp5851
+p6370
+ag41
+aa(lp6371
 S'Carl Hayman'
-p5852
+p6372
 aS'2001'
-p5853
+p6373
 aS'Prop'
-p5854
+p6374
 aS'45'
-p5855
+p6375
 aS'36'
-p5856
+p6376
 aS'8'
 aS'1'
 aS'2'
 aS'10'
-p5857
+p6377
 aS'Opunake'
-p5858
+p6378
 aVNew Zealand/Aotearoa
-p5859
+p6379
 aVTaranaki
-p5860
+p6380
 aVSouth Taranaki District
-p5861
-aa(lp5862
+p6381
+aVOpunake
+p6382
+aa(lp6383
 S'Mark Ranby'
-p5863
+p6384
 aS'2001'
-p5864
+p6385
 aS'Centre'
-p5865
+p6386
 aS'1'
 aS'1'
 aS'0'
@@ -14830,141 +16040,152 @@ aS'0'
 aS'0'
 aS'0'
 aS'Putaruhu'
-p5866
+p6387
 aS'g'
 aS'n'
 aS'i'
-aa(lp5867
+aS's'
+aa(lp6388
 S'Jerry Collins'
-p5868
+p6389
 aS'2001'
-p5869
+p6390
 aS'Flanker'
-p5870
+p6391
 aS'48'
-p5871
+p6392
 aS'42'
-p5872
+p6393
 aS'6'
 aS'0'
 aS'5'
 aS'25'
-p5873
+p6394
 aS'Western Samoa'
-p5874
+p6395
 aVUnited States of America
-p5875
+p6396
 aV95503
-p5876
+p6397
 aVCalifornia
-p5877
-aa(lp5878
+p6398
+aVHumboldt County
+p6399
+aa(lp6400
 S'Chris Jack'
-p5879
+p6401
 aS'2001'
-p5880
+p6402
 aS'Lock'
-p5881
+p6403
 aS'67'
-p5882
+p6404
 aS'57'
-p5883
+p6405
 aS'10'
-p5884
+p6406
 aS'0'
 aS'5'
 aS'25'
-p5885
+p6407
 aS'Christchurch'
-p5886
+p6408
 aVNew Zealand/Aotearoa
-p5887
+p6409
 aVCanterbury
-p5888
+p6410
 aVChristchurch City
-p5889
-aa(lp5890
+p6411
+aVChristchurch
+p6412
+aa(lp6413
 S'Richie McCaw'
-p5891
+p6414
 aS'2001'
-p5892
+p6415
 aS'Flanker'
-p5893
+p6416
 aS'137'
-p5894
+p6417
 aS'121'
-p5895
+p6418
 aS'14'
-p5896
+p6419
 aS'2'
 aS'25'
-p5897
+p6420
 aS'125'
-p5898
+p6421
 aS'Oamaru'
-p5899
+p6422
 aVNew Zealand/Aotearoa
-p5900
+p6423
 aVOtago
-p5901
+p6424
 aVWaitaki District
-p5902
-aa(lp5903
+p6425
+aVOamaru
+p6426
+aa(lp6427
 S'Aaron Mauger'
-p5904
+p6428
 aS'2001'
-p5905
+p6429
 aS'Centre'
-p5906
+p6430
 aS'45'
-p5907
+p6431
 aS'39'
-p5908
+p6432
 aS'6'
 aS'0'
 aS'13'
-p5909
+p6433
 aS'90'
-p5910
+p6434
 aS'Christchurch'
-p5911
+p6435
 aVNew Zealand/Aotearoa
-p5912
+p6436
 aVCanterbury
-p5913
+p6437
 aVChristchurch City
-p5914
-aa(lp5915
+p6438
+aVChristchurch
+p6439
+aa(lp6440
 S'Dave Hewett'
-p5916
+p6441
 aS'2001'
-p5917
+p6442
 aS'Prop'
-p5918
+p6443
 aS'22'
-p5919
+p6444
 aS'19'
-p5920
+p6445
 aS'3'
 aS'0'
 aS'2'
 aS'10'
-p5921
+p6446
 aS'Christchurch'
-p5922
+p6447
 aVNew Zealand/Aotearoa
-p5923
+p6448
 aVCanterbury
-p5924
+p6449
 aVChristchurch City
-p5925
-aa(lp5926
+p6450
+aVChristchurch
+p6451
+aa(lp6452
 S'Ben Blair'
-p5927
+p6453
 aS'2001'
-p5928
+p6454
 aS'Fullback'
-p5929
+p6455
 aS'4'
 aS'3'
 aS'1'
@@ -14972,20 +16193,22 @@ aS'0'
 aS'0'
 aS'4'
 aS'Westport'
-p5930
+p6456
 aVUnited States of America
-p5931
+p6457
 aVConnecticut
-p5932
+p6458
 aVFairfield County
-p5933
-aa(lp5934
+p6459
+aVWestport
+p6460
+aa(lp6461
 S'Dion Waller'
-p5935
+p6462
 aS'2001'
-p5936
+p6463
 aS'Lock'
-p5937
+p6464
 aS'1'
 aS'1'
 aS'0'
@@ -14993,20 +16216,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Turangi'
-p5938
+p6465
 aVNew Zealand/Aotearoa
-p5939
+p6466
 aVWaikato
-p5940
+p6467
 aVTaupo District
-p5941
-aa(lp5942
+p6468
+aVTurangi
+p6469
+aa(lp6470
 S'Joe McDonnell'
-p5943
+p6471
 aS'2002'
-p5944
+p6472
 aS'Prop'
-p5945
+p6473
 aS'8'
 aS'5'
 aS'2'
@@ -15014,42 +16239,46 @@ aS'1'
 aS'1'
 aS'5'
 aS'Hastings'
-p5946
+p6474
 aVUnited Kingdom
-p5947
+p6475
 aVEngland
-p5948
+p6476
 aVSouth East
-p5949
-aa(lp5950
+p6477
+aVEast Sussex
+p6478
+aa(lp6479
 S'Simon Maling'
-p5951
+p6480
 aS'2002'
-p5952
+p6481
 aS'Lock'
-p5953
+p6482
 aS'11'
-p5954
+p6483
 aS'9'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p5955
+p6484
 aVNew Zealand/Aotearoa
-p5956
+p6485
 aVCanterbury
-p5957
+p6486
 aVChristchurch City
-p5958
-aa(lp5959
+p6487
+aVChristchurch
+p6488
+aa(lp6489
 S'Tom Willis'
-p5960
+p6490
 aS'2002'
-p5961
+p6491
 aS'Hooker'
-p5962
+p6492
 aS'5'
 aS'4'
 aS'1'
@@ -15057,20 +16286,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Dunedin'
-p5963
+p6493
 aVNew Zealand/Aotearoa
-p5964
+p6494
 aVOtago
-p5965
+p6495
 aVDunedin City
-p5966
-aa(lp5967
+p6496
+aVDunedin
+p6497
+aa(lp6498
 S'Sam Harding'
-p5968
+p6499
 aS'2002'
-p5969
+p6500
 aS'Flanker'
-p5970
+p6501
 aS'1'
 aS'1'
 aS'0'
@@ -15078,20 +16309,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Subiaco'
-p5971
+p6502
 aVItalia
-p5972
+p6503
 aVLAZ
-p5973
+p6504
 aVRoma Capitale
-p5974
-aa(lp5975
+p6505
+aVSubiaco
+p6506
+aa(lp6507
 S'Sam Broomhall'
-p5976
+p6508
 aS'2002'
-p5977
+p6509
 aS'Back-row'
-p5978
+p6510
 aS'4'
 aS'2'
 aS'1'
@@ -15099,66 +16332,71 @@ aS'1'
 aS'0'
 aS'0'
 aS'Christchurch'
-p5979
+p6511
 aVNew Zealand/Aotearoa
-p5980
+p6512
 aVCanterbury
-p5981
+p6513
 aVChristchurch City
-p5982
-aa(lp5983
+p6514
+aVChristchurch
+p6515
+aa(lp6516
 S'Steve Devine'
-p5984
+p6517
 aS'2002'
-p5985
+p6518
 aS'Scrum-half'
-p5986
+p6519
 aS'10'
-p5987
+p6520
 aS'8'
 aS'2'
 aS'0'
 aS'0'
 aS'0'
 aS'NSW'
-p5988
+p6521
 aVAustralia
-p5989
+p6522
 aVNew South Wales
-p5990
-ag53
-aa(lp5991
+p6523
+ag41
+ag41
+aa(lp6524
 S'Andrew Hore'
-p5992
+p6525
 aS'2002'
-p5993
+p6526
 aS'Hooker'
-p5994
+p6527
 aS'83'
-p5995
+p6528
 aS'70'
-p5996
+p6529
 aS'11'
-p5997
+p6530
 aS'2'
 aS'8'
 aS'40'
-p5998
+p6531
 aS'Dunedin'
-p5999
+p6532
 aVNew Zealand/Aotearoa
-p6000
+p6533
 aVOtago
-p6001
+p6534
 aVDunedin City
-p6002
-aa(lp6003
+p6535
+aVDunedin
+p6536
+aa(lp6537
 S'Keith Lowen'
-p6004
+p6538
 aS'2002'
-p6005
+p6539
 aS'Centre'
-p6006
+p6540
 aS'1'
 aS'0'
 aS'1'
@@ -15166,66 +16404,71 @@ aS'0'
 aS'0'
 aS'0'
 aS'Huntly'
-p6007
+p6541
 aVUnited Kingdom
-p6008
+p6542
 aVScotland
-p6009
+p6543
 aVAberdeenshire
-p6010
-aa(lp6011
+p6544
+aVHuntly
+p6545
+aa(lp6546
 S'Keith Robinson'
-p6012
+p6547
 aS'2002'
-p6013
+p6548
 aS'Lock'
-p6014
+p6549
 aS'12'
-p6015
+p6550
 aS'9'
 aS'2'
 aS'1'
 aS'0'
 aS'0'
 aS'Te Aroha'
-p6016
+p6551
 aVNew Zealand/Aotearoa
-p6017
+p6552
 aVWaikato
-p6018
+p6553
 aVMatamata Piako District
-p6019
-aa(lp6020
+p6554
+aVTe Aroha
+p6555
+aa(lp6556
 S'Ali Williams'
-p6021
+p6557
 aS'2002'
-p6022
+p6558
 aS'Lock'
-p6023
+p6559
 aS'77'
-p6024
+p6560
 aS'65'
-p6025
+p6561
 aS'11'
-p6026
+p6562
 aS'1'
 aS'7'
 aS'35'
-p6027
+p6563
 aS'Auckland'
-p6028
+p6564
 aVNew Zealand/Aotearoa
-p6029
+p6565
 aVAuckland
-p6030
-ag53
-aa(lp6031
+p6566
+ag41
+ag41
+aa(lp6567
 S'Danny Lee'
-p6032
+p6568
 aS'2002'
-p6033
+p6569
 aS'Scrum-half'
-p6034
+p6570
 aS'2'
 aS'0'
 aS'1'
@@ -15233,20 +16476,22 @@ aS'1'
 aS'1'
 aS'5'
 aS'Hastings'
-p6035
+p6571
 aVUnited Kingdom
-p6036
+p6572
 aVEngland
-p6037
+p6573
 aVSouth East
-p6038
-aa(lp6039
+p6574
+aVEast Sussex
+p6575
+aa(lp6576
 S'Brad Mika'
-p6040
+p6577
 aS'2002'
-p6041
+p6578
 aS'Back-row'
-p6042
+p6579
 aS'3'
 aS'1'
 aS'1'
@@ -15254,19 +16499,20 @@ aS'1'
 aS'0'
 aS'0'
 aS'Auckland'
-p6043
+p6580
 aVNew Zealand/Aotearoa
-p6044
+p6581
 aVAuckland
-p6045
-ag53
-aa(lp6046
+p6582
+ag41
+ag41
+aa(lp6583
 S'Dan Braid'
-p6047
+p6584
 aS'2002'
-p6048
+p6585
 aS'Flanker'
-p6049
+p6586
 aS'6'
 aS'5'
 aS'1'
@@ -15274,20 +16520,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Tauranga'
-p6050
+p6587
 aVNew Zealand/Aotearoa
-p6051
+p6588
 aVBay of Plenty
-p6052
+p6589
 aVTauranga City
-p6053
-aa(lp6054
+p6590
+aVTauranga
+p6591
+aa(lp6592
 S'Regan King'
-p6055
+p6593
 aS'2002'
-p6056
+p6594
 aS'Centre'
-p6057
+p6595
 aS'1'
 aS'1'
 aS'0'
@@ -15295,95 +16543,103 @@ aS'0'
 aS'1'
 aS'5'
 aS'Cambridge'
-p6058
+p6596
 aVUnited Kingdom
-p6059
+p6597
 aVEngland
-p6060
+p6598
 aVEast of England
-p6061
-aa(lp6062
+p6599
+aVCambridgeshire
+p6600
+aa(lp6601
 S'Keven Mealamu'
-p6063
+p6602
 aS'2002'
-p6064
+p6603
 aS'Hooker'
-p6065
+p6604
 aS'123'
-p6066
+p6605
 aS'105'
-p6067
+p6606
 aS'16'
-p6068
+p6607
 aS'2'
 aS'12'
-p6069
+p6608
 aS'60'
-p6070
+p6609
 aS'Tokoroa'
-p6071
+p6610
 aVNew Zealand/Aotearoa
-p6072
+p6611
 aVWaikato
-p6073
+p6612
 aVSouth Waikato District
-p6074
-aa(lp6075
+p6613
+aVTokoroa
+p6614
+aa(lp6615
 S"Rodney So'oialo"
-p6076
+p6616
 aS'2002'
-p6077
+p6617
 aS'Back-row'
-p6078
+p6618
 aS'62'
-p6079
+p6619
 aS'53'
-p6080
+p6620
 aS'9'
 aS'0'
 aS'6'
 aS'30'
-p6081
+p6621
 aS'Western Samoa'
-p6082
+p6622
 aVUnited States of America
-p6083
+p6623
 aV95503
-p6084
+p6624
 aVCalifornia
-p6085
-aa(lp6086
+p6625
+aVHumboldt County
+p6626
+aa(lp6627
 S'Tony Woodcock'
-p6087
+p6628
 aS'2002'
-p6088
+p6629
 aS'Prop'
-p6089
+p6630
 aS'110'
-p6090
+p6631
 aS'95'
-p6091
+p6632
 aS'14'
-p6092
+p6633
 aS'1'
 aS'9'
 aS'45'
-p6093
+p6634
 aS'Helensville'
-p6094
+p6635
 aVNew Zealand/Aotearoa
-p6095
+p6636
 aVAuckland
-p6096
+p6637
 aVRodney
-p6097
-aa(lp6098
+p6638
+aVHelensville
+p6639
+aa(lp6640
 S'Paul Steinmetz'
-p6099
+p6641
 aS'2002'
-p6100
+p6642
 aS'Centre'
-p6101
+p6643
 aS'1'
 aS'1'
 aS'0'
@@ -15391,171 +16647,184 @@ aS'0'
 aS'0'
 aS'0'
 aS'Paraparaumu'
-p6102
+p6644
 aVNew Zealand/Aotearoa
-p6103
+p6645
 aVWellington
-p6104
+p6646
 aVKapiti Coast District
-p6105
-aa(lp6106
+p6647
+aVParaparaumu
+p6648
+aa(lp6649
 S"Ma'a Nonu"
-p6107
+p6650
 aS'2003'
-p6108
+p6651
 aS'Centre'
-p6109
+p6652
 aS'94'
-p6110
+p6653
 aS'82'
-p6111
+p6654
 aS'10'
-p6112
+p6655
 aS'2'
 aS'26'
-p6113
+p6656
 aS'130'
-p6114
+p6657
 aS'Wellington'
-p6115
+p6658
 aVNew Zealand/Aotearoa
-p6116
+p6659
 aVWellington
-p6117
+p6660
 aVWellington City
-p6118
-aa(lp6119
+p6661
+aVWellington
+p6662
+aa(lp6663
 S'Joe Rokocoko'
-p6120
+p6664
 aS'2003'
-p6121
+p6665
 aS'Centre'
-p6122
+p6666
 aS'68'
-p6123
+p6667
 aS'55'
-p6124
+p6668
 aS'13'
-p6125
+p6669
 aS'0'
 aS'46'
-p6126
+p6670
 aS'230'
-p6127
+p6671
 aS'Nadi'
-p6128
+p6672
 aVViti
-p6129
+p6673
 aVNadi
-p6130
-ag53
-aa(lp6131
+p6674
+ag41
+ag41
+aa(lp6675
 S'Mils Muliaina'
-p6132
+p6676
 aS'2003'
-p6133
+p6677
 aS'Fullback'
-p6134
+p6678
 aS'100'
-p6135
+p6679
 aS'84'
-p6136
+p6680
 aS'16'
-p6137
+p6681
 aS'0'
 aS'34'
-p6138
+p6682
 aS'170'
-p6139
+p6683
 aS'Western Samoa'
-p6140
+p6684
 aVUnited States of America
-p6141
+p6685
 aV95503
-p6142
+p6686
 aVCalifornia
-p6143
-aa(lp6144
+p6687
+aVHumboldt County
+p6688
+aa(lp6689
 S'Dan Carter'
-p6145
+p6690
 aS'2003'
-p6146
+p6691
 aS'Fly-half'
-p6147
+p6692
 aS'102'
-p6148
+p6693
 aS'90'
-p6149
+p6694
 aS'11'
-p6150
+p6695
 aS'1'
 aS'29'
-p6151
+p6696
 aS'1457'
-p6152
+p6697
 aS'Leeston'
-p6153
+p6698
 aVNew Zealand/Aotearoa
-p6154
+p6699
 aVCanterbury
-p6155
+p6700
 aVSelwyn District
-p6156
-aa(lp6157
+p6701
+aVLeeston
+p6702
+aa(lp6703
 S'Brad Thorn'
-p6158
+p6704
 aS'2003'
-p6159
+p6705
 aS'Lock'
-p6160
+p6706
 aS'59'
-p6161
+p6707
 aS'51'
-p6162
+p6708
 aS'8'
 aS'0'
 aS'4'
 aS'20'
-p6163
+p6709
 aS'Mosgiel'
-p6164
+p6710
 aVNew Zealand/Aotearoa
-p6165
+p6711
 aVOtago
-p6166
+p6712
 aVDunedin City
-p6167
-aa(lp6168
+p6713
+aVMosgiel
+p6714
+aa(lp6715
 S'Corey Flynn'
-p6169
+p6716
 aS'2003'
-p6170
+p6717
 aS'Hooker'
-p6171
+p6718
 aS'15'
-p6172
+p6719
 aS'15'
-p6173
+p6720
 aS'0'
 aS'0'
 aS'3'
 aS'15'
-p6174
+p6721
 aS'Invercargill'
-p6175
+p6722
 aVNew Zealand/Aotearoa
-p6176
+p6723
 aVSouthland
-p6177
+p6724
 aVInvercargill City
-p6178
-aa(lp6179
+p6725
+aVInvercargill
+p6726
+aa(lp6727
 S'Ben Atiga'
-p6180
+p6728
 aS'2003'
-p6181
+p6729
 aS'Centre'
-p6182
+p6730
 aS'1'
 aS'1'
 aS'0'
@@ -15563,19 +16832,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p6183
+p6731
 aVNew Zealand/Aotearoa
-p6184
+p6732
 aVAuckland
-p6185
-ag53
-aa(lp6186
+p6733
+ag41
+ag41
+aa(lp6734
 S'Jono Gibbes'
-p6187
+p6735
 aS'2004'
-p6188
+p6736
 aS'Flanker, Lock'
-p6189
+p6737
 aS'8'
 aS'6'
 aS'2'
@@ -15583,44 +16853,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Henderson'
-p6190
+p6738
 aVUnited States of America
-p6191
+p6739
 aVIllinois
-p6192
+p6740
 aVHenderson County
-p6193
-aa(lp6194
+p6741
+ag41
+aa(lp6742
 S'Nick Evans'
-p6195
+p6743
 aS'2004'
-p6196
+p6744
 aS'Fly-half'
-p6197
+p6745
 aS'16'
-p6198
+p6746
 aS'15'
-p6199
+p6747
 aS'1'
 aS'0'
 aS'5'
 aS'103'
-p6200
+p6748
 aS'Takapuna'
-p6201
+p6749
 aVNew Zealand/Aotearoa
-p6202
+p6750
 aVAuckland
-p6203
+p6751
 aVDevonport-Takapuna
-p6204
-aa(lp6205
+p6752
+aVTakapuna
+p6753
+aa(lp6754
 S'Sam Tuitupou'
-p6206
+p6755
 aS'2004'
-p6207
+p6756
 aS'Centre'
-p6208
+p6757
 aS'9'
 aS'7'
 aS'2'
@@ -15628,19 +16901,20 @@ aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p6209
+p6758
 aVNew Zealand/Aotearoa
-p6210
+p6759
 aVAuckland
-p6211
-ag53
-aa(lp6212
+p6760
+ag41
+ag41
+aa(lp6761
 S'Craig Newby'
-p6213
+p6762
 aS'2004'
-p6214
+p6763
 aS'Back-row'
-p6215
+p6764
 aS'3'
 aS'2'
 aS'1'
@@ -15648,20 +16922,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rotorua'
-p6216
+p6765
 aVNew Zealand/Aotearoa
-p6217
+p6766
 aVBay of Plenty
-p6218
+p6767
 aVRotorua District
-p6219
-aa(lp6220
+p6768
+aVRotorua
+p6769
+aa(lp6770
 S"Mose Tuiali'i"
-p6221
+p6771
 aS'2004'
-p6222
+p6772
 aS'Back-row'
-p6223
+p6773
 aS'9'
 aS'7'
 aS'2'
@@ -15669,68 +16945,72 @@ aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p6224
+p6774
 aVNew Zealand/Aotearoa
-p6225
+p6775
 aVAuckland
-p6226
-ag53
-aa(lp6227
+p6776
+ag41
+ag41
+aa(lp6777
 S'Rico Gear'
-p6228
+p6778
 aS'2004'
-p6229
+p6779
 aS'Wing, Centre'
-p6230
+p6780
 aS'19'
-p6231
+p6781
 aS'16'
-p6232
+p6782
 aS'3'
 aS'0'
 aS'11'
-p6233
+p6783
 aS'55'
-p6234
+p6784
 aS'Gisborne'
-p6235
+p6785
 aVNew Zealand/Aotearoa
-p6236
+p6786
 aVGisborne
-p6237
-ag53
-aa(lp6238
+p6787
+ag41
+ag41
+aa(lp6788
 S'Conrad Smith'
-p6239
+p6789
 aS'2004'
-p6240
+p6790
 aS'Centre'
-p6241
+p6791
 aS'85'
-p6242
+p6792
 aS'76'
-p6243
+p6793
 aS'8'
 aS'1'
 aS'25'
-p6244
+p6794
 aS'125'
-p6245
+p6795
 aS'Hawera'
-p6246
+p6796
 aVNew Zealand/Aotearoa
-p6247
+p6797
 aVTaranaki
-p6248
+p6798
 aVSouth Taranaki District
-p6249
-aa(lp6250
+p6799
+aVHawera
+p6800
+aa(lp6801
 S'Saimone Taumoepeau'
-p6251
+p6802
 aS'2004'
-p6252
+p6803
 aS'Prop'
-p6253
+p6804
 aS'3'
 aS'3'
 aS'0'
@@ -15738,20 +17018,21 @@ aS'0'
 aS'1'
 aS'5'
 aS"Ha'apai"
-p6254
+p6805
 aVTonga
-p6255
+p6806
 aVTongatapu
-p6256
+p6807
 aVHunga Ha\u02bbapai
-p6257
-aa(lp6258
+p6808
+ag41
+aa(lp6809
 S'Steven Bates'
-p6259
+p6810
 aS'2004'
-p6260
+p6811
 aS'Back-row'
-p6261
+p6812
 aS'1'
 aS'1'
 aS'0'
@@ -15759,43 +17040,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p6262
+p6813
 aVNew Zealand/Aotearoa
-p6263
+p6814
 aVAuckland
-p6264
-ag53
-aa(lp6265
+p6815
+ag41
+ag41
+aa(lp6816
 S'Jimmy Cowan'
-p6266
+p6817
 aS'2004'
-p6267
+p6818
 aS'Scrum-half'
-p6268
+p6819
 aS'51'
-p6269
+p6820
 aS'44'
-p6270
+p6821
 aS'7'
 aS'0'
 aS'7'
 aS'35'
-p6271
+p6822
 aS'Gore'
-p6272
+p6823
 aVNew Zealand/Aotearoa
-p6273
+p6824
 aVSouthland
-p6274
+p6825
 aVGore District
-p6275
-aa(lp6276
+p6826
+aVGore
+p6827
+aa(lp6828
 S'Casey Laulala'
-p6277
+p6829
 aS'2004'
-p6278
+p6830
 aS'Centre'
-p6279
+p6831
 aS'2'
 aS'2'
 aS'0'
@@ -15803,44 +17087,48 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p6280
+p6832
 aVUnited States of America
-p6281
+p6833
 aV95503
-p6282
+p6834
 aVCalifornia
-p6283
-aa(lp6284
+p6835
+aVHumboldt County
+p6836
+aa(lp6837
 S'Piri Weepu'
-p6285
+p6838
 aS'2004'
-p6286
+p6839
 aS'Scrum-half'
-p6287
+p6840
 aS'71'
-p6288
+p6841
 aS'62'
-p6289
+p6842
 aS'8'
 aS'1'
 aS'7'
 aS'103'
-p6290
+p6843
 aS'Lower Hutt'
-p6291
+p6844
 aVNew Zealand/Aotearoa
-p6292
+p6845
 aVWellington
-p6293
+p6846
 aVLower Hutt City
-p6294
-aa(lp6295
+p6847
+aVLower Hutt
+p6848
+aa(lp6849
 S'James Ryan'
-p6296
+p6850
 aS'2005'
-p6297
+p6851
 aS'Lock'
-p6298
+p6852
 aS'9'
 aS'9'
 aS'0'
@@ -15848,46 +17136,49 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p6299
+p6853
 aVNew Zealand/Aotearoa
-p6300
+p6854
 aVCanterbury
-p6301
+p6855
 aVChristchurch City
-p6302
-aa(lp6303
+p6856
+aVChristchurch
+p6857
+aa(lp6858
 S'Sitiveni Sivivatu'
-p6304
+p6859
 aS'2004'
-p6305
+p6860
 aS'Wing'
-p6306
+p6861
 aS'48'
-p6307
+p6862
 aS'37'
-p6308
+p6863
 aS'11'
-p6309
+p6864
 aS'0'
 aS'33'
-p6310
+p6865
 aS'165'
-p6311
+p6866
 aS'Suva'
-p6312
+p6867
 aVViti
-p6313
+p6868
 aVCentral
-p6314
+p6869
 aVSuva
-p6315
-aa(lp6316
+p6870
+ag41
+aa(lp6871
 S'Derren Witcombe'
-p6317
+p6872
 aS'2005'
-p6318
+p6873
 aS'Hooker'
-p6319
+p6874
 aS'5'
 aS'4'
 aS'1'
@@ -15895,19 +17186,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Tasmania'
-p6320
+p6875
 aVAustralia
-p6321
+p6876
 aVTasmania
-p6322
-ag53
-aa(lp6323
+p6877
+ag41
+ag41
+aa(lp6878
 S'Sosene Anesi'
-p6324
+p6879
 aS'2005'
-p6325
+p6880
 aS'Wing, Fullback'
-p6326
+p6881
 aS'1'
 aS'1'
 aS'0'
@@ -15915,20 +17207,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Western Samoa'
-p6327
+p6882
 aVUnited States of America
-p6328
+p6883
 aV95503
-p6329
+p6884
 aVCalifornia
-p6330
-aa(lp6331
+p6885
+aVHumboldt County
+p6886
+aa(lp6887
 S'Campbell Johnstone'
-p6332
+p6888
 aS'2005'
-p6333
+p6889
 aS'Prop'
-p6334
+p6890
 aS'3'
 aS'3'
 aS'0'
@@ -15936,65 +17230,69 @@ aS'0'
 aS'0'
 aS'0'
 aS'Waipukarau'
-p6335
+p6891
 aS'g'
 aS'n'
 aS'i'
-aa(lp6336
+aS's'
+aa(lp6892
 S'Sione Lauaki'
-p6337
+p6893
 aS'2004'
-p6338
+p6894
 aS'No. 8'
-p6339
+p6895
 aS'20'
-p6340
+p6896
 aS'15'
-p6341
+p6897
 aS'5'
 aS'0'
 aS'6'
 aS'30'
-p6342
+p6898
 aS"Ha'apai"
-p6343
+p6899
 aVTonga
-p6344
+p6900
 aVTongatapu
-p6345
+p6901
 aVHunga Ha\u02bbapai
-p6346
-aa(lp6347
+p6902
+ag41
+aa(lp6903
 S'Luke McAlister'
-p6348
+p6904
 aS'2005'
-p6349
+p6905
 aS'Fly-half'
-p6350
+p6906
 aS'30'
-p6351
+p6907
 aS'24'
-p6352
+p6908
 aS'6'
 aS'0'
 aS'7'
 aS'153'
-p6353
+p6909
 aS'Waitara'
-p6354
+p6910
 aVNew Zealand/Aotearoa
-p6355
+p6911
 aVTaranaki
-p6356
+p6912
 aVNew Plymouth District
-p6357
-aa(lp6358
+p6913
+aVWaitara
+p6914
+aa(lp6915
 S'Kevin Senio'
-p6359
+p6916
 aS'2005'
-p6360
+p6917
 aS'Scrum-half'
-p6361
+p6918
 aS'1'
 aS'1'
 aS'0'
@@ -16002,67 +17300,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p6362
+p6919
 aVNew Zealand/Aotearoa
-p6363
+p6920
 aVAuckland
-p6364
-ag53
-aa(lp6365
+p6921
+ag41
+ag41
+aa(lp6922
 S'Chris Masoe'
-p6366
+p6923
 aS'2005'
-p6367
+p6924
 aS'No. 8'
-p6368
+p6925
 aS'20'
-p6369
+p6926
 aS'18'
-p6370
+p6927
 aS'2'
 aS'0'
 aS'3'
 aS'15'
-p6371
+p6928
 aS'Western Samoa'
-p6372
+p6929
 aVUnited States of America
-p6373
+p6930
 aV95503
-p6374
+p6931
 aVCalifornia
-p6375
-aa(lp6376
+p6932
+aVHumboldt County
+p6933
+aa(lp6934
 S'Neemia Tialata'
-p6377
+p6935
 aS'2005'
-p6378
+p6936
 aS'Prop'
-p6379
+p6937
 aS'43'
-p6380
+p6938
 aS'38'
-p6381
+p6939
 aS'5'
 aS'0'
 aS'2'
 aS'10'
-p6382
+p6940
 aS'Lower Hutt'
-p6383
+p6941
 aVNew Zealand/Aotearoa
-p6384
+p6942
 aVWellington
-p6385
+p6943
 aVLower Hutt City
-p6386
-aa(lp6387
+p6944
+aVLower Hutt
+p6945
+aa(lp6946
 S'Angus Macdonald'
-p6388
+p6947
 aS'2005'
-p6389
+p6948
 aS'Back-row'
-p6390
+p6949
 aS'2'
 aS'2'
 aS'0'
@@ -16070,89 +17373,96 @@ aS'0'
 aS'0'
 aS'0'
 aS'Whangarei'
-p6391
+p6950
 aVNew Zealand/Aotearoa
-p6392
+p6951
 aVNorthland
-p6393
+p6952
 aVWhangarei District
-p6394
-aa(lp6395
+p6953
+aVWhangarei
+p6954
+aa(lp6955
 S'John Afoa'
-p6396
+p6956
 aS'2005'
-p6397
+p6957
 aS'Prop'
-p6398
+p6958
 aS'36'
-p6399
+p6959
 aS'28'
-p6400
+p6960
 aS'8'
 aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p6401
+p6961
 aVNew Zealand/Aotearoa
-p6402
+p6962
 aVAuckland
-p6403
-ag53
-aa(lp6404
+p6963
+ag41
+ag41
+aa(lp6964
 S'Jason Eaton'
-p6405
+p6965
 aS'2005'
-p6406
+p6966
 aS'Lock'
-p6407
+p6967
 aS'15'
-p6408
+p6968
 aS'13'
-p6409
+p6969
 aS'2'
 aS'0'
 aS'1'
 aS'5'
 aS'Palmerston North'
-p6410
+p6970
 aVNew Zealand/Aotearoa
-p6411
+p6971
 aVManawatu-Wanganui
-p6412
+p6972
 aVPalmerston North City
-p6413
-aa(lp6414
+p6973
+aVPalmerston North
+p6974
+aa(lp6975
 S'Isaia Toeava'
-p6415
+p6976
 aS'2005'
-p6416
+p6977
 aS'Centre, Fullback'
-p6417
+p6978
 aS'36'
-p6418
+p6979
 aS'30'
-p6419
+p6980
 aS'6'
 aS'0'
 aS'8'
 aS'40'
-p6420
+p6981
 aS'Western Samoa'
-p6421
+p6982
 aVUnited States of America
-p6422
+p6983
 aV95503
-p6423
+p6984
 aVCalifornia
-p6424
-aa(lp6425
+p6985
+aVHumboldt County
+p6986
+aa(lp6987
 S'Clarke Dermody'
-p6426
+p6988
 aS'2006'
-p6427
+p6989
 aS'Prop'
-p6428
+p6990
 aS'3'
 aS'3'
 aS'0'
@@ -16160,20 +17470,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Invercargill'
-p6429
+p6991
 aVNew Zealand/Aotearoa
-p6430
+p6992
 aVSouthland
-p6431
+p6993
 aVInvercargill City
-p6432
-aa(lp6433
+p6994
+aVInvercargill
+p6995
+aa(lp6996
 S'Greg Rawlinson'
-p6434
+p6997
 aS'2006'
-p6435
+p6998
 aS'Lock'
-p6436
+p6999
 aS'4'
 aS'4'
 aS'0'
@@ -16181,43 +17493,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Durban'
-p6437
+p7000
 aVSouth Africa
-p6438
+p7001
 aVKwaZulu-Natal
-p6439
+p7002
 aVeThekwini Metropolitan Municipality
-p6440
-aa(lp6441
+p7003
+aVDurban
+p7004
+aa(lp7005
 S'Jerome Kaino'
-p6442
+p7006
 aS'2006'
-p6443
+p7007
 aS'Back-row'
-p6444
+p7008
 aS'56'
-p6445
+p7009
 aS'47'
-p6446
+p7010
 aS'8'
 aS'1'
 aS'9'
 aS'45'
-p6447
+p7011
 aS'American Samoa'
-p6448
+p7012
 aVUnited States of America
-p6449
+p7013
 aVAmerican Samoa
-p6450
-ag53
-aa(lp6451
+p7014
+ag41
+ag41
+aa(lp7015
 S'David Hill'
-p6452
+p7016
 aS'2006'
-p6453
+p7017
 aS'Fly-half'
-p6454
+p7018
 aS'1'
 aS'1'
 aS'0'
@@ -16225,20 +17540,21 @@ aS'0'
 aS'0'
 aS'0'
 aS'Blenheim'
-p6455
+p7019
 aVNew Zealand/Aotearoa
-p6456
+p7020
 aVMarlborough
-p6457
+p7021
 aVBlenheim
-p6458
-aa(lp6459
+p7022
+ag41
+aa(lp7023
 S'Scott Hamilton'
-p6460
+p7024
 aS'2006'
-p6461
+p7025
 aS'Fullback, Wing'
-p6462
+p7026
 aS'2'
 aS'2'
 aS'0'
@@ -16246,68 +17562,74 @@ aS'0'
 aS'1'
 aS'5'
 aS'Christchurch'
-p6463
+p7027
 aVNew Zealand/Aotearoa
-p6464
+p7028
 aVCanterbury
-p6465
+p7029
 aVChristchurch City
-p6466
-aa(lp6467
+p7030
+aVChristchurch
+p7031
+aa(lp7032
 S'Andy Ellis'
-p6468
+p7033
 aS'2006'
-p6469
+p7034
 aS'Scrum-half'
-p6470
+p7035
 aS'26'
-p6471
+p7036
 aS'22'
-p6472
+p7037
 aS'4'
 aS'0'
 aS'4'
 aS'20'
-p6473
+p7038
 aS'Christchurch'
-p6474
+p7039
 aVNew Zealand/Aotearoa
-p6475
+p7040
 aVCanterbury
-p6476
+p7041
 aVChristchurch City
-p6477
-aa(lp6478
+p7042
+aVChristchurch
+p7043
+aa(lp7044
 S'Brendon Leonard'
-p6479
+p7045
 aS'2007'
-p6480
+p7046
 aS'Scrum-half'
-p6481
+p7047
 aS'13'
-p6482
+p7048
 aS'11'
-p6483
+p7049
 aS'2'
 aS'0'
 aS'2'
 aS'10'
-p6484
+p7050
 aS'Morrinsville'
-p6485
+p7051
 aVNew Zealand/Aotearoa
-p6486
+p7052
 aVWaikato
-p6487
+p7053
 aVMatamata Piako District
-p6488
-aa(lp6489
+p7054
+aVMorrinsville
+p7055
+aa(lp7056
 S'Ross Filipo'
-p6490
+p7057
 aS'2007'
-p6491
+p7058
 aS'Flanker'
-p6492
+p7059
 aS'4'
 aS'3'
 aS'1'
@@ -16315,20 +17637,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Lower Hutt'
-p6493
+p7060
 aVNew Zealand/Aotearoa
-p6494
+p7061
 aVWellington
-p6495
+p7062
 aVLower Hutt City
-p6496
-aa(lp6497
+p7063
+aVLower Hutt
+p7064
+aa(lp7065
 S'John Schwalger'
-p6498
+p7066
 aS'2007'
-p6499
+p7067
 aS'Prop'
-p6500
+p7068
 aS'2'
 aS'2'
 aS'0'
@@ -16336,20 +17660,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Western Samoa'
-p6501
+p7069
 aVUnited States of America
-p6502
+p7070
 aV95503
-p6503
+p7071
 aVCalifornia
-p6504
-aa(lp6505
+p7072
+aVHumboldt County
+p7073
+aa(lp7074
 S'Anthony Tuitavake'
-p6506
+p7075
 aS'2008'
-p6507
+p7076
 aS'Wing'
-p6508
+p7077
 aS'6'
 aS'5'
 aS'1'
@@ -16357,115 +17683,122 @@ aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p6509
+p7078
 aVNew Zealand/Aotearoa
-p6510
+p7079
 aVAuckland
-p6511
-ag53
-aa(lp6512
+p7080
+ag41
+ag41
+aa(lp7081
 S'Adam Thomson'
-p6513
+p7082
 aS'2008'
-p6514
+p7083
 aS'Flanker'
-p6515
+p7084
 aS'29'
-p6516
+p7085
 aS'24'
-p6517
+p7086
 aS'5'
 aS'0'
 aS'6'
 aS'30'
-p6518
+p7087
 aS'Ashburton'
-p6519
+p7088
 aVUnited Kingdom
-p6520
+p7089
 aVEngland
-p6521
+p7090
 aVSouth West England
-p6522
-aa(lp6523
+p7091
+aVDevon
+p7092
+aa(lp7093
 S'Anthony Boric'
-p6524
+p7094
 aS'2008'
-p6525
+p7095
 aS'Lock'
-p6526
+p7096
 aS'24'
-p6527
+p7097
 aS'23'
-p6528
+p7098
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p6529
+p7099
 aS'Auckland'
-p6530
+p7100
 aVNew Zealand/Aotearoa
-p6531
+p7101
 aVAuckland
-p6532
-ag53
-aa(lp6533
+p7102
+ag41
+ag41
+aa(lp7103
 S'Stephen Donald'
-p6534
+p7104
 aS'2008'
-p6535
+p7105
 aS'Fly-half'
-p6536
+p7106
 aS'23'
-p6537
+p7107
 aS'18'
-p6538
+p7108
 aS'5'
 aS'0'
 aS'1'
 aS'98'
-p6539
+p7109
 aS'Papakura'
-p6540
+p7110
 aVNew Zealand/Aotearoa
-p6541
+p7111
 aVAuckland
-p6542
+p7112
 aVPapakura
-p6543
-aa(lp6544
+p7113
+ag41
+aa(lp7114
 S'Richard Kahui'
-p6545
+p7115
 aS'2008'
-p6546
+p7116
 aS'Wing, Centre'
-p6547
+p7117
 aS'17'
-p6548
+p7118
 aS'15'
-p6549
+p7119
 aS'2'
 aS'0'
 aS'10'
-p6550
+p7120
 aS'50'
-p6551
+p7121
 aS'Tokoroa'
-p6552
+p7122
 aVNew Zealand/Aotearoa
-p6553
+p7123
 aVWaikato
-p6554
+p7124
 aVSouth Waikato District
-p6555
-aa(lp6556
+p7125
+aVTokoroa
+p7126
+aa(lp7127
 S'Rudi Wulf'
-p6557
+p7128
 aS'2008'
-p6558
+p7129
 aS'Wing'
-p6559
+p7130
 aS'4'
 aS'3'
 aS'1'
@@ -16473,19 +17806,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p6560
+p7131
 aVNew Zealand/Aotearoa
-p6561
+p7132
 aVAuckland
-p6562
-ag53
-aa(lp6563
+p7133
+ag41
+ag41
+aa(lp7134
 S"Kevin O'Neill"
-p6564
+p7135
 aS'2008'
-p6565
+p7136
 aS'Lock'
-p6566
+p7137
 aS'1'
 aS'0'
 aS'1'
@@ -16493,68 +17827,73 @@ aS'0'
 aS'0'
 aS'0'
 aS'Te Aroha'
-p6567
+p7138
 aVNew Zealand/Aotearoa
-p6568
+p7139
 aVWaikato
-p6569
+p7140
 aVMatamata Piako District
-p6570
-aa(lp6571
+p7141
+aVTe Aroha
+p7142
+aa(lp7143
 S'Hosea Gear'
-p6572
+p7144
 aS'2008'
-p6573
+p7145
 aS'Wing'
-p6574
+p7146
 aS'14'
-p6575
+p7147
 aS'12'
-p6576
+p7148
 aS'1'
 aS'1'
 aS'6'
 aS'30'
-p6577
+p7149
 aS'Gisborne'
-p6578
+p7150
 aVNew Zealand/Aotearoa
-p6579
+p7151
 aVGisborne
-p6580
-ag53
-aa(lp6581
+p7152
+ag41
+ag41
+aa(lp7153
 S'Cory Jane'
-p6582
+p7154
 aS'2008'
-p6583
+p7155
 aS'Wing'
-p6584
+p7156
 aS'53'
-p6585
+p7157
 aS'45'
-p6586
+p7158
 aS'6'
 aS'2'
 aS'18'
-p6587
+p7159
 aS'90'
-p6588
+p7160
 aS'Lower Hutt'
-p6589
+p7161
 aVNew Zealand/Aotearoa
-p6590
+p7162
 aVWellington
-p6591
+p7163
 aVLower Hutt City
-p6592
-aa(lp6593
+p7164
+aVLower Hutt
+p7165
+aa(lp7166
 S'Jamie Mackintosh'
-p6594
+p7167
 aS'2008'
-p6595
+p7168
 aS'Prop'
-p6596
+p7169
 aS'1'
 aS'1'
 aS'0'
@@ -16562,91 +17901,97 @@ aS'0'
 aS'0'
 aS'0'
 aS'Invercargill'
-p6597
+p7170
 aVNew Zealand/Aotearoa
-p6598
+p7171
 aVSouthland
-p6599
+p7172
 aVInvercargill City
-p6600
-aa(lp6601
+p7173
+aVInvercargill
+p7174
+aa(lp7175
 S'Liam Messam'
-p6602
+p7176
 aS'2008'
-p6603
+p7177
 aS'Flanker'
-p6604
+p7178
 aS'40'
-p6605
+p7179
 aS'35'
-p6606
+p7180
 aS'4'
 aS'1'
 aS'6'
 aS'30'
-p6607
+p7181
 aS'Blenheim'
-p6608
+p7182
 aVNew Zealand/Aotearoa
-p6609
+p7183
 aVMarlborough
-p6610
+p7184
 aVBlenheim
-p6611
-aa(lp6612
+p7185
+ag41
+aa(lp7186
 S'Kieran Read'
-p6613
+p7187
 aS'2008'
-p6614
+p7188
 aS'No. 8'
-p6615
+p7189
 aS'72'
-p6616
+p7190
 aS'62'
-p6617
+p7191
 aS'8'
 aS'2'
 aS'17'
-p6618
+p7192
 aS'85'
-p6619
+p7193
 aS'Papakura'
-p6620
+p7194
 aVNew Zealand/Aotearoa
-p6621
+p7195
 aVAuckland
-p6622
+p7196
 aVPapakura
-p6623
-aa(lp6624
+p7197
+ag41
+aa(lp7198
 S'Isaac Ross'
-p6625
+p7199
 aS'2009'
-p6626
+p7200
 aS'Lock'
-p6627
+p7201
 aS'8'
 aS'4'
 aS'4'
 aS'0'
 aS'2'
 aS'10'
-p6628
+p7202
 aS'Ashburton'
-p6629
+p7203
 aVUnited Kingdom
-p6630
+p7204
 aVEngland
-p6631
+p7205
 aVSouth West England
-p6632
-aa(lp6633
+p7206
+aVDevon
+p7207
+aa(lp7208
 S'Bryn Evans'
-p6634
+p7209
 aS'2009'
-p6635
+p7210
 aS'Lock'
-p6636
+p7211
 aS'2'
 aS'1'
 aS'1'
@@ -16654,20 +17999,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hastings'
-p6637
+p7212
 aVUnited Kingdom
-p6638
+p7213
 aVEngland
-p6639
+p7214
 aVSouth East
-p6640
-aa(lp6641
+p7215
+aVEast Sussex
+p7216
+aa(lp7217
 S'Tanerau Latimer'
-p6642
+p7218
 aS'2009'
-p6643
+p7219
 aS'Flanker'
-p6644
+p7220
 aS'5'
 aS'4'
 aS'1'
@@ -16675,43 +18022,47 @@ aS'0'
 aS'0'
 aS'0'
 aS'Te Puke'
-p6645
+p7221
 aVNew Zealand/Aotearoa
-p6646
+p7222
 aVBay of Plenty
-p6647
+p7223
 aVWestern Bay of Plenty District
-p6648
-aa(lp6649
+p7224
+aVTe Puke
+p7225
+aa(lp7226
 S'Wyatt Crockett'
-p6650
+p7227
 aS'2009'
-p6651
+p7228
 aS'Prop'
-p6652
+p7229
 aS'36'
-p6653
+p7230
 aS'34'
-p6654
+p7231
 aS'1'
 aS'1'
 aS'1'
 aS'5'
 aS'Christchurch'
-p6655
+p7232
 aVNew Zealand/Aotearoa
-p6656
+p7233
 aVCanterbury
-p6657
+p7234
 aVChristchurch City
-p6658
-aa(lp6659
+p7235
+aVChristchurch
+p7236
+aa(lp7237
 S'Lelia Masaga'
-p6660
+p7238
 aS'2009'
-p6661
+p7239
 aS'Wing'
-p6662
+p7240
 aS'1'
 aS'1'
 aS'0'
@@ -16719,20 +18070,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p6663
+p7241
 aVNew Zealand/Aotearoa
-p6664
+p7242
 aVWellington
-p6665
+p7243
 aVWellington City
-p6666
-aa(lp6667
+p7244
+aVWellington
+p7245
+aa(lp7246
 S'Aled de Malmanche'
-p6668
+p7247
 aS'2009'
-p6669
+p7248
 aS'Hooker'
-p6670
+p7249
 aS'5'
 aS'5'
 aS'0'
@@ -16740,43 +18093,46 @@ aS'0'
 aS'0'
 aS'0'
 aS'Palmerston North'
-p6671
+p7250
 aVNew Zealand/Aotearoa
-p6672
+p7251
 aVManawatu-Wanganui
-p6673
+p7252
 aVPalmerston North City
-p6674
-aa(lp6675
+p7253
+aVPalmerston North
+p7254
+aa(lp7255
 S'Owen Franks'
-p6676
+p7256
 aS'2009'
-p6677
+p7257
 aS'Prop'
-p6678
+p7258
 aS'67'
-p6679
+p7259
 aS'58'
-p6680
+p7260
 aS'7'
 aS'2'
 aS'0'
 aS'0'
 aS'Motueka'
-p6681
+p7261
 aVNew Zealand/Aotearoa
-p6682
+p7262
 aVTasman
-p6683
+p7263
 aVMotueka
-p6684
-aa(lp6685
+p7264
+ag41
+aa(lp7265
 S'George Whitelock'
-p6686
+p7266
 aS'2009'
-p6687
+p7267
 aS'Flanker'
-p6688
+p7268
 aS'1'
 aS'1'
 aS'0'
@@ -16784,66 +18140,72 @@ aS'0'
 aS'1'
 aS'5'
 aS'Palmerston North'
-p6689
+p7269
 aVNew Zealand/Aotearoa
-p6690
+p7270
 aVManawatu-Wanganui
-p6691
+p7271
 aVPalmerston North City
-p6692
-aa(lp6693
+p7272
+aVPalmerston North
+p7273
+aa(lp7274
 S'Tom Donnelly'
-p6694
+p7275
 aS'2009'
-p6695
+p7276
 aS'Lock'
-p6696
+p7277
 aS'15'
-p6697
+p7278
 aS'14'
-p6698
+p7279
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'Rotorua'
-p6699
+p7280
 aVNew Zealand/Aotearoa
-p6700
+p7281
 aVBay of Plenty
-p6701
+p7282
 aVRotorua District
-p6702
-aa(lp6703
+p7283
+aVRotorua
+p7284
+aa(lp7285
 S'Zac Guildford'
-p6704
+p7286
 aS'2009'
-p6705
+p7287
 aS'Wing'
-p6706
+p7288
 aS'10'
-p6707
+p7289
 aS'9'
 aS'1'
 aS'0'
 aS'6'
 aS'30'
-p6708
+p7290
 aS'Greytown'
-p6709
+p7291
 aVNew Zealand/Aotearoa
-p6710
+p7292
 aVWellington
-p6711
+p7293
 aVSouth Wairarapa District
-p6712
-aa(lp6713
+p7294
+aVGreytown
+p7295
+aa(lp7296
 S'Mike Delany'
-p6714
+p7297
 aS'2009'
-p6715
+p7298
 aS'Fly-half'
-p6716
+p7299
 aS'1'
 aS'1'
 aS'0'
@@ -16851,20 +18213,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Rotorua'
-p6717
+p7300
 aVNew Zealand/Aotearoa
-p6718
+p7301
 aVBay of Plenty
-p6719
+p7302
 aVRotorua District
-p6720
-aa(lp6721
+p7303
+aVRotorua
+p7304
+aa(lp7305
 S'Tamati Ellison'
-p6722
+p7306
 aS'2009'
-p6723
+p7307
 aS'Centre'
-p6724
+p7308
 aS'4'
 aS'4'
 aS'0'
@@ -16872,93 +18236,100 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p6725
+p7309
 aVNew Zealand/Aotearoa
-p6726
+p7310
 aVWellington
-p6727
+p7311
 aVWellington City
-p6728
-aa(lp6729
+p7312
+aVWellington
+p7313
+aa(lp7314
 S'Ben Smith'
-p6730
+p7315
 aS'2009'
-p6731
+p7316
 aS'Fullback'
-p6732
+p7317
 aS'38'
-p6733
+p7318
 aS'34'
-p6734
+p7319
 aS'2'
 aS'2'
 aS'16'
-p6735
+p7320
 aS'80'
-p6736
+p7321
 aS'Dunedin'
-p6737
+p7322
 aVNew Zealand/Aotearoa
-p6738
+p7323
 aVOtago
-p6739
+p7324
 aVDunedin City
-p6740
-aa(lp6741
+p7325
+aVDunedin
+p7326
+aa(lp7327
 S'Israel Dagg'
-p6742
+p7328
 aS'2010'
-p6743
+p7329
 aS'Fullback'
-p6744
+p7330
 aS'46'
-p6745
+p7331
 aS'42'
-p6746
+p7332
 aS'3'
 aS'1'
 aS'14'
-p6747
+p7333
 aS'75'
-p6748
+p7334
 aS'Marton'
-p6749
+p7335
 aVUnited Kingdom
-p6750
+p7336
 aVEngland
-p6751
+p7337
 aVNorth West England
-p6752
-aa(lp6753
+p7338
+aVCheshire East
+p7339
+aa(lp7340
 S'Ben Franks'
-p6754
+p7341
 aS'2010'
-p6755
+p7342
 aS'Prop'
-p6756
+p7343
 aS'41'
-p6757
+p7344
 aS'38'
-p6758
+p7345
 aS'2'
 aS'1'
 aS'2'
 aS'10'
-p6759
+p7346
 aS'VIC'
-p6760
+p7347
 aVAustralia
-p6761
+p7348
 aVVictoria
-p6762
-ag53
-aa(lp6763
+p7349
+ag41
+ag41
+aa(lp7350
 S'Benson Stanley'
-p6764
+p7351
 aS'2010'
-p6765
+p7352
 aS'Centre'
-p6766
+p7353
 aS'3'
 aS'3'
 aS'0'
@@ -16966,91 +18337,98 @@ aS'0'
 aS'0'
 aS'0'
 aS'NSW'
-p6767
+p7354
 aVAustralia
-p6768
+p7355
 aVNew South Wales
-p6769
-ag53
-aa(lp6770
+p7356
+ag41
+ag41
+aa(lp7357
 S'Aaron Cruden'
-p6771
+p7358
 aS'2010'
-p6772
+p7359
 aS'Fly-half'
-p6773
+p7360
 aS'37'
-p6774
+p7361
 aS'34'
-p6775
+p7362
 aS'1'
 aS'2'
 aS'5'
 aS'280'
-p6776
+p7363
 aS'Palmerston North'
-p6777
+p7364
 aVNew Zealand/Aotearoa
-p6778
+p7365
 aVManawatu-Wanganui
-p6779
+p7366
 aVPalmerston North City
-p6780
-aa(lp6781
+p7367
+aVPalmerston North
+p7368
+aa(lp7369
 S'Victor Vito'
-p6782
+p7370
 aS'2010'
-p6783
+p7371
 aS'Back-row'
-p6784
+p7372
 aS'26'
-p6785
+p7373
 aS'22'
-p6786
+p7374
 aS'3'
 aS'1'
 aS'3'
 aS'15'
-p6787
+p7375
 aS'Wellington'
-p6788
+p7376
 aVNew Zealand/Aotearoa
-p6789
+p7377
 aVWellington
-p6790
+p7378
 aVWellington City
-p6791
-aa(lp6792
+p7379
+aVWellington
+p7380
+aa(lp7381
 S'Sam Whitelock'
-p6793
+p7382
 aS'2010'
-p6794
+p7383
 aS'Lock'
-p6795
+p7384
 aS'62'
-p6796
+p7385
 aS'55'
-p6797
+p7386
 aS'5'
 aS'2'
 aS'4'
 aS'20'
-p6798
+p7387
 aS'Palmerston North'
-p6799
+p7388
 aVNew Zealand/Aotearoa
-p6800
+p7389
 aVManawatu-Wanganui
-p6801
+p7390
 aVPalmerston North City
-p6802
-aa(lp6803
+p7391
+aVPalmerston North
+p7392
+aa(lp7393
 S'Rene Ranger'
-p6804
+p7394
 aS'2010'
-p6805
+p7395
 aS'Centre'
-p6806
+p7396
 aS'6'
 aS'6'
 aS'0'
@@ -17058,20 +18436,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Whangarei'
-p6807
+p7397
 aVNew Zealand/Aotearoa
-p6808
+p7398
 aVNorthland
-p6809
+p7399
 aVWhangarei District
-p6810
-aa(lp6811
+p7400
+aVWhangarei
+p7401
+aa(lp7402
 S'Alby Mathewson'
-p6812
+p7403
 aS'2010'
-p6813
+p7404
 aS'Scrum-half'
-p6814
+p7405
 aS'4'
 aS'3'
 aS'1'
@@ -17079,67 +18459,72 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hastings'
-p6815
+p7406
 aVUnited Kingdom
-p6816
+p7407
 aVEngland
-p6817
+p7408
 aVSouth East
-p6818
-aa(lp6819
+p7409
+aVEast Sussex
+p7410
+aa(lp7411
 S'Colin Slade'
-p6820
+p7412
 aS'2010'
-p6821
+p7413
 aS'Fly-half'
-p6822
+p7414
 aS'17'
-p6823
+p7415
 aS'15'
-p6824
+p7416
 aS'2'
 aS'0'
 aS'3'
 aS'76'
-p6825
+p7417
 aS'Christchurch'
-p6826
+p7418
 aVNew Zealand/Aotearoa
-p6827
+p7419
 aVCanterbury
-p6828
+p7420
 aVChristchurch City
-p6829
-aa(lp6830
+p7421
+aVChristchurch
+p7422
+aa(lp7423
 S'Sonny Bill Williams'
-p6831
+p7424
 aS'2010'
-p6832
+p7425
 aS'Centre'
-p6833
+p7426
 aS'23'
-p6834
+p7427
 aS'22'
-p6835
+p7428
 aS'1'
 aS'0'
 aS'8'
 aS'40'
-p6836
+p7429
 aS'Auckland'
-p6837
+p7430
 aVNew Zealand/Aotearoa
-p6838
+p7431
 aVAuckland
-p6839
-ag53
-aa(lp6840
+p7432
+ag41
+ag41
+aa(lp7433
 S'Hika Elliot'
-p6841
+p7434
 aS'2010'
-p6842
+p7435
 aS'Hooker'
-p6843
+p7436
 aS'3'
 aS'3'
 aS'0'
@@ -17147,20 +18532,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Hastings'
-p6844
+p7437
 aVUnited Kingdom
-p6845
+p7438
 aVEngland
-p6846
+p7439
 aVSouth East
-p6847
-aa(lp6848
+p7440
+aVEast Sussex
+p7441
+aa(lp7442
 S'Jarrad Hoeata'
-p6849
+p7443
 aS'2011'
-p6850
+p7444
 aS'Back-row'
-p6851
+p7445
 aS'3'
 aS'2'
 aS'1'
@@ -17168,233 +18555,252 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p6852
+p7446
 aVNew Zealand/Aotearoa
-p6853
+p7447
 aVWellington
-p6854
+p7448
 aVWellington City
-p6855
-aa(lp6856
+p7449
+aVWellington
+p7450
+aa(lp7451
 S'Brodie Retallick'
-p6857
+p7452
 aS'2012'
-p6858
+p7453
 aS'Lock'
-p6859
+p7454
 aS'36'
-p6860
+p7455
 aS'33'
-p6861
+p7456
 aS'1'
 aS'2'
 aS'1'
 aS'5'
 aS'Rangiora'
-p6862
+p7457
 aVNew Zealand/Aotearoa
-p6863
+p7458
 aVCanterbury
-p6864
+p7459
 aVWaimakariri District
-p6865
-aa(lp6866
+p7460
+aVRangiora
+p7461
+aa(lp7462
 S'Julian Savea'
-p6867
+p7463
 aS'2012'
-p6868
+p7464
 aS'Wing'
-p6869
+p7465
 aS'33'
-p6870
+p7466
 aS'30'
-p6871
+p7467
 aS'2'
 aS'1'
 aS'30'
-p6872
+p7468
 aS'150'
-p6873
+p7469
 aS'Wellington'
-p6874
+p7470
 aVNew Zealand/Aotearoa
-p6875
+p7471
 aVWellington
-p6876
+p7472
 aVWellington City
-p6877
-aa(lp6878
+p7473
+aVWellington
+p7474
+aa(lp7475
 S'Aaron Smith'
-p6879
+p7476
 aS'2012'
-p6880
+p7477
 aS'Scrum-half'
-p6881
+p7478
 aS'38'
-p6882
+p7479
 aS'34'
-p6883
+p7480
 aS'2'
 aS'2'
 aS'11'
-p6884
+p7481
 aS'57'
-p6885
+p7482
 aS'Palmerston North'
-p6886
+p7483
 aVNew Zealand/Aotearoa
-p6887
+p7484
 aVManawatu-Wanganui
-p6888
+p7485
 aVPalmerston North City
-p6889
-aa(lp6890
+p7486
+aVPalmerston North
+p7487
+aa(lp7488
 S'Sam Cane'
-p6891
+p7489
 aS'2012'
-p6892
+p7490
 aS'Flanker'
-p6893
+p7491
 aS'22'
-p6894
+p7492
 aS'21'
-p6895
+p7493
 aS'0'
 aS'1'
 aS'8'
 aS'40'
-p6896
+p7494
 aS'Rotorua'
-p6897
+p7495
 aVNew Zealand/Aotearoa
-p6898
+p7496
 aVBay of Plenty
-p6899
+p7497
 aVRotorua District
-p6900
-aa(lp6901
+p7498
+aVRotorua
+p7499
+aa(lp7500
 S'Luke Romano'
-p6902
+p7501
 aS'2012'
-p6903
+p7502
 aS'Lock'
-p6904
+p7503
 aS'17'
-p6905
+p7504
 aS'15'
-p6906
+p7505
 aS'1'
 aS'1'
 aS'1'
 aS'5'
 aS'Christchurch'
-p6907
+p7506
 aVNew Zealand/Aotearoa
-p6908
+p7507
 aVCanterbury
-p6909
+p7508
 aVChristchurch City
-p6910
-aa(lp6911
+p7509
+aVChristchurch
+p7510
+aa(lp7511
 S'Beauden Barrett'
-p6912
+p7512
 aS'2012'
-p6913
+p7513
 aS'Fly-half'
-p6914
+p7514
 aS'28'
-p6915
+p7515
 aS'26'
-p6916
+p7516
 aS'1'
 aS'1'
 aS'6'
 aS'119'
-p6917
+p7517
 aS'New Plymouth'
-p6918
+p7518
 aVNew Zealand/Aotearoa
-p6919
+p7519
 aVTaranaki
-p6920
+p7520
 aVNew Plymouth District
-p6921
-aa(lp6922
+p7521
+aVNew Plymouth
+p7522
+aa(lp7523
 S'Charlie Faumuina'
-p6923
+p7524
 aS'2012'
-p6924
+p7525
 aS'Prop'
-p6925
+p7526
 aS'27'
-p6926
+p7527
 aS'24'
-p6927
+p7528
 aS'2'
 aS'1'
 aS'1'
 aS'5'
 aS'South Auckland'
-p6928
+p7529
 aVArgentina
-p6929
+p7530
 aVS2000
-p6930
+p7531
 aVSFE
-p6931
-aa(lp6932
+p7532
+aVDepartamento Rosario
+p7533
+aa(lp7534
 S'Dane Coles'
-p6933
+p7535
 aS'2012'
-p6934
+p7536
 aS'Hooker'
-p6935
+p7537
 aS'27'
-p6936
+p7538
 aS'24'
-p6937
+p7539
 aS'2'
 aS'1'
 aS'2'
 aS'10'
-p6938
+p7540
 aS'Paraparaumu'
-p6939
+p7541
 aVNew Zealand/Aotearoa
-p6940
+p7542
 aVWellington
-p6941
+p7543
 aVKapiti Coast District
-p6942
-aa(lp6943
+p7544
+aVParaparaumu
+p7545
+aa(lp7546
 S'Tawera Kerr-Barlow'
-p6944
+p7547
 aS'2012'
-p6945
+p7548
 aS'Scrum-half'
-p6946
+p7549
 aS'15'
-p6947
+p7550
 aS'14'
-p6948
+p7551
 aS'1'
 aS'0'
 aS'0'
 aS'0'
 aS'VIC'
-p6949
+p7552
 aVAustralia
-p6950
+p7553
 aVVictoria
-p6951
-ag53
-aa(lp6952
+p7554
+ag41
+ag41
+aa(lp7555
 S'Ben Afeaki'
-p6953
+p7556
 aS'2013'
-p6954
+p7557
 aS'Prop'
-p6955
+p7558
 aS'1'
 aS'1'
 aS'0'
@@ -17402,87 +18808,91 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p6956
+p7559
 aVNew Zealand/Aotearoa
-p6957
+p7560
 aVAuckland
-p6958
-ag53
-aa(lp6959
+p7561
+ag41
+ag41
+aa(lp7562
 S'Jeremy Thrush'
-p6960
+p7563
 aS'2013'
-p6961
+p7564
 aS'Lock'
-p6962
+p7565
 aS'11'
-p6963
+p7566
 aS'10'
-p6964
+p7567
 aS'1'
 aS'0'
 aS'2'
 aS'10'
-p6965
+p7568
 aS'Auckland'
-p6966
+p7569
 aVNew Zealand/Aotearoa
-p6967
+p7570
 aVAuckland
-p6968
-ag53
-aa(lp6969
+p7571
+ag41
+ag41
+aa(lp7572
 S'Steven Luatua'
-p6970
+p7573
 aS'2013'
-p6971
+p7574
 aS'Flanker'
-p6972
+p7575
 aS'14'
-p6973
+p7576
 aS'13'
-p6974
+p7577
 aS'1'
 aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p6975
+p7578
 aVNew Zealand/Aotearoa
-p6976
+p7579
 aVAuckland
-p6977
-ag53
-aa(lp6978
+p7580
+ag41
+ag41
+aa(lp7581
 S'Charles Piutau'
-p6979
+p7582
 aS'2013'
-p6980
+p7583
 aS'Fullback'
-p6981
+p7584
 aS'14'
-p6982
+p7585
 aS'14'
-p6983
+p7586
 aS'0'
 aS'0'
 aS'4'
 aS'20'
-p6984
+p7587
 aS'Auckland'
-p6985
+p7588
 aVNew Zealand/Aotearoa
-p6986
+p7589
 aVAuckland
-p6987
-ag53
-aa(lp6988
+p7590
+ag41
+ag41
+aa(lp7591
 S'Matt Todd'
-p6989
+p7592
 aS'2013'
-p6990
+p7593
 aS'Flanker'
-p6991
+p7594
 aS'2'
 aS'2'
 aS'0'
@@ -17490,64 +18900,69 @@ aS'0'
 aS'0'
 aS'0'
 aS'Christchurch'
-p6992
+p7595
 aVNew Zealand/Aotearoa
-p6993
+p7596
 aVCanterbury
-p6994
+p7597
 aVChristchurch City
-p6995
-aa(lp6996
+p7598
+aVChristchurch
+p7599
+aa(lp7600
 S'Ryan Crotty'
-p6997
+p7601
 aS'2013'
-p6998
+p7602
 aS'Centre'
-p6999
+p7603
 aS'13'
-p7000
+p7604
 aS'11'
-p7001
+p7605
 aS'1'
 aS'1'
 aS'1'
 aS'5'
 aS'Nelson'
-p7002
+p7606
 aVNew Zealand/Aotearoa
-p7003
+p7607
 aVNelson
-p7004
-ag53
-aa(lp7005
+p7608
+ag41
+ag41
+aa(lp7609
 S'Tom Taylor'
-p7006
+p7610
 aS'2013'
-p7007
+p7611
 aS'Fly-half'
-p7008
+p7612
 aS'3'
 aS'3'
 aS'0'
 aS'0'
 aS'0'
 aS'14'
-p7009
+p7613
 aS'Christchurch'
-p7010
+p7614
 aVNew Zealand/Aotearoa
-p7011
+p7615
 aVCanterbury
-p7012
+p7616
 aVChristchurch City
-p7013
-aa(lp7014
+p7617
+aVChristchurch
+p7618
+aa(lp7619
 S'Francis Saili'
-p7015
+p7620
 aS'2013'
-p7016
+p7621
 aS'Centre'
-p7017
+p7622
 aS'2'
 aS'2'
 aS'0'
@@ -17555,19 +18970,20 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p7018
+p7623
 aVNew Zealand/Aotearoa
-p7019
+p7624
 aVAuckland
-p7020
-ag53
-aa(lp7021
+p7625
+ag41
+ag41
+aa(lp7626
 S'Dominic Bird'
-p7022
+p7627
 aS'2013'
-p7023
+p7628
 aS'Lock'
-p7024
+p7629
 aS'2'
 aS'2'
 aS'0'
@@ -17575,20 +18991,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Waipukurau'
-p7025
+p7630
 aVNew Zealand/Aotearoa
-p7026
+p7631
 aVHawke's Bay
-p7027
+p7632
 aVCentral Hawke's Bay District
-p7028
-aa(lp7029
+p7633
+aVWaipukurau
+p7634
+aa(lp7635
 S'Frank Halai'
-p7030
+p7636
 aS'2013'
-p7031
+p7637
 aS'Wing'
-p7032
+p7638
 aS'1'
 aS'1'
 aS'0'
@@ -17596,20 +19014,21 @@ aS'0'
 aS'1'
 aS'5'
 aS'Pangai'
-p7033
+p7639
 aVTonga
-p7034
+p7640
 aVVahe Lifuka
-p7035
+p7641
 aVPangai
-p7036
-aa(lp7037
+p7642
+ag41
+aa(lp7643
 S'Jeff Toomaga-Allen'
-p7038
+p7644
 aS'2013'
-p7039
+p7645
 aS'Prop'
-p7040
+p7646
 aS'1'
 aS'1'
 aS'0'
@@ -17617,20 +19036,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'Wellington'
-p7041
+p7647
 aVNew Zealand/Aotearoa
-p7042
+p7648
 aVWellington
-p7043
+p7649
 aVWellington City
-p7044
-aa(lp7045
+p7650
+aVWellington
+p7651
+aa(lp7652
 S'Luke Whitelock'
-p7046
+p7653
 aS'2013'
-p7047
+p7654
 aS'Back-row'
-p7048
+p7655
 aS'1'
 aS'1'
 aS'0'
@@ -17638,65 +19059,70 @@ aS'0'
 aS'0'
 aS'0'
 aS'Palmerston North'
-p7049
+p7656
 aVNew Zealand/Aotearoa
-p7050
+p7657
 aVManawatu-Wanganui
-p7051
+p7658
 aVPalmerston North City
-p7052
-aa(lp7053
+p7659
+aVPalmerston North
+p7660
+aa(lp7661
 S'Malakai Fekitoa'
-p7054
+p7662
 aS'2014'
-p7055
+p7663
 aS'Centre'
-p7056
+p7664
 aS'8'
 aS'6'
 aS'1'
 aS'1'
 aS'2'
 aS'10'
-p7057
+p7665
 aS"Ha'apai"
-p7058
+p7666
 aVTonga
-p7059
+p7667
 aVTongatapu
-p7060
+p7668
 aVHunga Ha\u02bbapai
-p7061
-aa(lp7062
+p7669
+ag41
+aa(lp7670
 S'TJ Perenara'
-p7063
+p7671
 aS'2014'
-p7064
+p7672
 aS'Scrum-half'
-p7065
+p7673
 aS'11'
-p7066
+p7674
 aS'11'
-p7067
+p7675
 aS'0'
 aS'0'
 aS'1'
 aS'5'
 aS'Wellington'
-p7068
+p7676
 aVNew Zealand/Aotearoa
-p7069
+p7677
 aVWellington
-p7070
+p7678
 aVWellington City
-p7071
-aa(lp7072
+p7679
+aVWellington
+p7680
+aa(lp7681
 S'Patrick Tuipulotu'
-p7073
+p7682
 aS'2014'
-p7074
+p7683
 aS'Lock'
-p7075
+p7684
 aS'7'
 aS'7'
 aS'0'
@@ -17704,19 +19130,20 @@ aS'0'
 aS'1'
 aS'5'
 aS'Auckland'
-p7076
+p7685
 aVNew Zealand/Aotearoa
-p7077
+p7686
 aVAuckland
-p7078
-ag53
-aa(lp7079
+p7687
+ag41
+ag41
+aa(lp7688
 S'Joe Moody'
-p7080
+p7689
 aS'2014'
-p7081
+p7690
 aS'Prop'
-p7082
+p7691
 aS'8'
 aS'6'
 aS'1'
@@ -17724,20 +19151,22 @@ aS'1'
 aS'1'
 aS'5'
 aS'Christchurch'
-p7083
+p7692
 aVNew Zealand/Aotearoa
-p7084
+p7693
 aVCanterbury
-p7085
+p7694
 aVChristchurch City
-p7086
-aa(lp7087
+p7695
+aVChristchurch
+p7696
+aa(lp7697
 S'Nathan Harris'
-p7088
+p7698
 aS'2014'
-p7089
+p7699
 aS'Hooker'
-p7090
+p7700
 aS'2'
 aS'2'
 aS'0'
@@ -17745,20 +19174,22 @@ aS'0'
 aS'1'
 aS'5'
 aS'Tauranga'
-p7091
+p7701
 aVNew Zealand/Aotearoa
-p7092
+p7702
 aVBay of Plenty
-p7093
+p7703
 aVTauranga City
-p7094
-aa(lp7095
+p7704
+aVTauranga
+p7705
+aa(lp7706
 S'Augustine Pulu'
-p7096
+p7707
 aS'2014'
-p7097
+p7708
 aS'Scrum-half'
-p7098
+p7709
 aS'2'
 aS'2'
 aS'0'
@@ -17766,20 +19197,22 @@ aS'0'
 aS'0'
 aS'0'
 aS'S Auckland'
-p7099
+p7710
 aVArgentina
-p7100
+p7711
 aVS2000
-p7101
+p7712
 aVSFE
-p7102
-aa(lp7103
+p7713
+aVDepartamento Rosario
+p7714
+aa(lp7715
 S'James Parsons'
-p7104
+p7716
 aS'2014'
-p7105
+p7717
 aS'Hooker'
-p7106
+p7718
 aS'1'
 aS'1'
 aS'0'
@@ -17787,10 +19220,11 @@ aS'0'
 aS'0'
 aS'0'
 aS'Auckland'
-p7107
+p7719
 aVNew Zealand/Aotearoa
-p7108
+p7720
 aVAuckland
-p7109
-ag53
+p7721
+ag41
+ag41
 aa.
