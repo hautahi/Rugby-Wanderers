@@ -125,7 +125,7 @@ for (i in 1:length(COUNTRY)){
 new_data <- data.frame("player" = d$player, "team" = d$team, "debut" = d$debut,
                        "tests"=d$tests,"win"=d$wins,"loss"=d$losses, "draw"=d$draws,"points"=d$points,
                        "tries"=d$tries, "birthplace" = d$birthplace, "country"=d$born) 
-write.csv(new_data, "final_data.csv", row.names=TRUE)
+write.csv(new_data, "final_data.csv", row.names=FALSE)
 
 #NZ_data <- read.csv("NZ_data.csv",header=T)
 #NZ_data <- NZ_data[!(NZ_data$Tests==0),]

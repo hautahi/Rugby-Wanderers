@@ -1,12 +1,13 @@
 # This program performs the final analysis
 library(data.table)
+library(stargazer)
 
 # Load datasets
 d       <- read.csv("final_data.csv", header=TRUE,stringsAsFactors=F)
 country <- read.csv("manual_adjustments/country_codes.csv", header=FALSE,stringsAsFactors=F)
 
 # Restrict by year
-d <- d[d$debut>1995,]
+#d <- d[d$debut>1995,]
 
 # Define countries of analysis
 COUNTRIES <- c("England","Australia","Scotland","Wales","SouthAfrica","Ireland",
@@ -62,10 +63,28 @@ for (i in 1:length(COUNTRIES)){
 df_tests <- transform(df_tests, Other=sum_df_tests$Total-rowSums(df_tests))
 
 # Analysis
+Migration <- df[,1:length(COUNTRIES)]
+Migration$Other <- df$Other
+Migration$Missing <- df$Var.15
+
+Imports_players <- rowSums(df[,1:length(COUNTRIES)])-diag(as.matrix(df))
 Exports_players <- colSums(df[,1:length(COUNTRIES)])-diag(as.matrix(df))
+
+Imports_points <- rowSums(df_points[,1:length(COUNTRIES)])-diag(as.matrix(df_points))
 Exports_points <- colSums(df_points[,1:length(COUNTRIES)])-diag(as.matrix(df_points))
+
+Imports_tests <- rowSums(df_tests[,1:length(COUNTRIES)])-diag(as.matrix(df_tests))
 Exports_tests <- colSums(df_tests[,1:length(COUNTRIES)])-diag(as.matrix(df_tests))
 
-Exports_players
-Exports_points
-Exports_tests
+Exports <- data.frame(Exports_players, Exports_points, Exports_tests)
+Imports <- data.frame(Imports_players, Imports_points, Imports_tests)
+
+stargazer(Exports,type="text",title = "Contribution toward Foreign nations",style="aer",
+          notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Exports.tex")
+
+stargazer(Imports,type="text",title = "Contribution of Foreign-Born Players",style="aer",
+          notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Imports.tex")
+
+stargazer(Migration,type="text",title = "Player Birthplace for Each Team",style="aer",
+          notes = "A count of the birthplace(columns) of players from each country (row).",
+          flip=FALSE,summary=FALSE,dep.var.labels = "Hi",out="output/Migration.tex")
