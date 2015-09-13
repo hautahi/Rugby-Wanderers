@@ -1,0 +1,19 @@
+
+Contribution toward Foreign nations
+================================================
+    Exports_players Exports_points Exports_tests
+------------------------------------------------
+ENG       317           2,276          3,347    
+AUS       148            867           1,388    
+SCO       29             130            194     
+WAL       52             434            379     
+SA        90            1,793          1,055    
+IRE       26              53            175     
+NZ        255           3,611          3,194    
+FR        31             276            214     
+ARG       42            1,889           962     
+ITA        7              14            63      
+SAM       18             555            553     
+TON       14             169            182     
+------------------------------------------------
+Source: Author's construction                   
