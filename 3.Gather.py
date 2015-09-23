@@ -42,6 +42,45 @@ def extract_birthplace(BIRTH):
 
 	return birth_location
 
+def extract_birthmonth(BIRTH):
+
+    # Separate each string using the comma separator
+	odie=[]
+	for item in BIRTH:
+		x = item.split(',')
+		odie.append(x)
+
+   # Extract the string after the last comma and strip any spaces
+	birth_month = []
+	for row in odie:
+		x = row[0]
+		x = x.strip()
+		birth_month.append(x)
+
+	return birth_month
+
+def extract_birthyear(BIRTH):
+
+    # Separate each string using the comma separator
+	odie=[]
+	for item in BIRTH:
+		x = item.split(',')
+		odie.append(x)
+
+   # Extract the string after the last comma and strip any spaces
+	birth_year = []
+	for row in odie:
+		if len(row)>1:
+			x=row[1]
+		else:
+			x=""
+#		x = row[1]
+		x = x.strip()
+		birth_year.append(x)
+
+	return birth_year
+
+
 def extract_debutyear(DEBUT):
 
     # Separate each string using the comma separator
@@ -80,6 +119,8 @@ for country in COUNTRY:
 	# Currently only care about year of debut, so we strip this out
 	debut_year = extract_debutyear(DEBUT)
 	Birth_City = extract_birthplace(BIRTH)
+	Birth_Month = extract_birthmonth(BIRTH)
+	Birth_Year = extract_birthyear(BIRTH)
 
 #-------------------------------------------------------------#
 # 3. Split country strings
@@ -151,7 +192,7 @@ for country in COUNTRY:
 # Country Specific
 	BIG_MAT = []
 	for i in range(len(COUNTRY_STRINGS)):
-		y =	[NAMES[i], str(debut_year[i]), str(POSITION[i]), STATS[i].get('Mat'), STATS[i].get('Won'), STATS[i].get('Lost'),STATS[i].get('Draw'), STATS[i].get('Tries'), STATS[i].get('Pts'), Birth_City[i].encode('utf8'), birth_country[i], birth_country1[i], birth_country2[i], birth_country3[i]]
+		y =	[NAMES[i], str(debut_year[i]), str(POSITION[i]), STATS[i].get('Mat'), STATS[i].get('Won'), STATS[i].get('Lost'),STATS[i].get('Draw'), STATS[i].get('Tries'), STATS[i].get('Pts'), Birth_City[i].encode('utf8'), birth_country[i], birth_country1[i], birth_country2[i], birth_country3[i],str(Birth_Month[i]),str(Birth_Year[i])]
 		BIG_MAT.append(y)
 
 	HI=[]
