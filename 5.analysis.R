@@ -1,13 +1,15 @@
 # This program performs the final analysis
 library(data.table)
 library(stargazer)
+library(ggplot2)
 
 # Load datasets
 d       <- read.csv("final_data.csv", header=TRUE,stringsAsFactors=F)
 country <- read.csv("manual_adjustments/country_codes.csv", header=FALSE,stringsAsFactors=F)
 
 # Restrict by year
-#d <- d[d$debut>1995,]
+d <- d[d$debut>1995,]
+d <- d[complete.cases(d$debut),]
 
 # Define countries of analysis
 COUNTRIES <- c("England","Australia","Scotland","Wales","SouthAfrica","Ireland",
@@ -66,6 +68,7 @@ df_tests <- transform(df_tests, Other=sum_df_tests$Total-rowSums(df_tests))
 Migration <- df[,1:length(COUNTRIES)]
 Migration$Other <- df$Other
 Migration$Missing <- df$Var.15
+Migration$sum <- rowSums(Migration)
 
 Imports_players <- rowSums(df[,1:length(COUNTRIES)])-diag(as.matrix(df))
 Exports_players <- colSums(df[,1:length(COUNTRIES)])-diag(as.matrix(df))
@@ -82,9 +85,51 @@ Imports <- data.frame(Imports_players, Imports_points, Imports_tests)
 stargazer(Exports,type="text",title = "Contribution toward Foreign nations",style="aer",
           notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Exports.tex")
 
+stargazer(Exports,type="text",title = "Contribution toward Foreign nations",style="aer",
+          notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Exports.txt")
+
+stargazer(Exports,type="text",title = "Contribution toward Foreign nations",style="aer",
+          notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Exports.html")
+
 stargazer(Imports,type="text",title = "Contribution of Foreign-Born Players",style="aer",
           notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Imports.tex")
 
 stargazer(Migration,type="text",title = "Player Birthplace for Each Team",style="aer",
           notes = "A count of the birthplace(columns) of players from each country (row).",
           flip=FALSE,summary=FALSE,dep.var.labels = "Hi",out="output/Migration.tex")
+
+stargazer(Migration,type="text",title = "Player Birthplace for Each Team",style="aer",
+          notes = "A count of the birthplace(columns) of players from each country (row).",
+          flip=FALSE,summary=FALSE,dep.var.labels = "Hi",out="output/Migration.txt")
+
+# Time Series
+YEAR <- unique(d$debut)
+history_Tot <- data.frame(matrix(nrow = length(COUNTRIES), ncol = length(YEAR)))
+colnames(history_Tot)<-YEAR
+rownames(history_Tot)<-COUNTRIES
+history_Mig <- history_Tot
+
+for (i in 1:length(COUNTRIES)){
+  for (j in 1:length(YEAR)){
+    history_Mig[i,j] <- length(d$player[d$debut==YEAR[j] & d$team==COUNTRIES[i] & d$country!=clist[i]])
+    history_Tot[i,j] <- length(d$player[d$debut==YEAR[j] & d$team==COUNTRIES[i]])
+  }
+}
+
+history_Tot$sum <- rowSums(history_Tot)
+
+tseries<-data.frame(t(history_Tot[,1:ncol(history_Tot)-1]))
+tseries1<-data.frame(t(history_Mig[,1:ncol(history_Mig)-1]))
+
+plot(rownames(tseries), tseries$England,col="red")
+lines(rownames(tseries), tseries$NewZealand,col="black")
+lines(rownames(tseries), tseries$Australia,col="green")
+
+a<-ggplot(data=tseries, aes(x=rownames(tseries),group=1)) + 
+  geom_line(aes( y=tseries$England),colour="red",linetype="dashed", size=1.5) + 
+  geom_line(aes( y=tseries$NewZealand),colour="black") + 
+  xlab("Year") + ylab("Number of debutants") +
+  ggtitle("Number of debutants per Year")
+
+a
+  
