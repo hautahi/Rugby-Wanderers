@@ -4,7 +4,7 @@ library(stargazer)
 library(ggplot2)
 
 # Load datasets
-d       <- read.csv("final_data.csv", header=TRUE,stringsAsFactors=F)
+d       <- read.csv("../final_data.csv", header=TRUE,stringsAsFactors=F)
 country <- read.csv("manual_adjustments/country_codes.csv", header=FALSE,stringsAsFactors=F)
 
 # Restrict by year

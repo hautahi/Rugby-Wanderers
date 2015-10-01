@@ -3,7 +3,7 @@ library(data.table)
 library(plyr)
 
 # Load data created from Python
-d <- read.csv("complete.csv", header=FALSE)
+d <- read.csv("../1.webscrape/complete.csv", header=FALSE)
 
 # Rename variables
 oldnames = c('V1','V2','V3','V4','V5','V6','V7','V8','V9','V10','V11','V12','V13','V14','V15')
@@ -125,7 +125,7 @@ for (i in 1:length(COUNTRY)){
 new_data <- data.frame("player" = d$player, "team" = d$team, "debut" = d$debut,
                        "tests"=d$tests,"win"=d$wins,"loss"=d$losses, "draw"=d$draws,"points"=d$points,
                        "tries"=d$tries, "birthplace" = d$birthplace, "country"=d$born) 
-write.csv(new_data, "final_data.csv", row.names=FALSE)
+write.csv(new_data, "../final_data.csv", row.names=FALSE)
 
 #NZ_data <- read.csv("NZ_data.csv",header=T)
 #NZ_data <- NZ_data[!(NZ_data$Tests==0),]
