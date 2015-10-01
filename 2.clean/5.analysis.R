@@ -1,7 +1,9 @@
+## @knitr main
 # This program performs the final analysis
 library(data.table)
 library(stargazer)
 library(ggplot2)
+library(Hmisc)
 
 # Load datasets
 d       <- read.csv("../final_data.csv", header=TRUE,stringsAsFactors=F)
@@ -13,7 +15,7 @@ d <- d[complete.cases(d$debut),]
 
 # Define countries of analysis
 COUNTRIES <- c("England","Australia","Scotland","Wales","SouthAfrica","Ireland",
-               "NewZealand","France","Argentina","Italy","Samoa","Tonga")
+               "NewZealand","France","Argentina","Italy","Samoa")
 clist <- c("ENG","AUS","SCO","WAL","SA","IRE","NZ","FR","ARG","ITA","SAM","TON","USA","NAMIBIA","")
 
 # Create counts of birthplaces
@@ -133,3 +135,9 @@ a<-ggplot(data=tseries, aes(x=rownames(tseries),group=1)) +
 
 a
   
+# Birth Month Stuff
+d$month1<-sapply(d$month, function(x) first.word(x,i=1,expr=substitute(x)))
+Months <- data.frame(table(d$month1[d$team=="England"]))
+Months1 <- data.frame(table(d$month1[d$team=="NewZealand"]))
+Months2 <- data.frame(table(d$month1[d$team=="Australia"]))
+Months3 <- data.frame(table(d$month1[d$team=="SouthAfrica"]))

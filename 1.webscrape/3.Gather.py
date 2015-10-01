@@ -204,27 +204,6 @@ for country in COUNTRY:
 # 4. Save
 #-------------------------------------------------------------#
 
-	# Save as Python object
-	obj = open(storage + country + "/final.p","w+")
-	cPickle.dump(BIG_MAT,obj)
-	obj.close()
-
-	# Save to txt
-	f = open(storage + country + "/final.txt", "w+")
-	f.writelines(["%s\n" % item for item in BIG_MAT])
-	f.close()
-
-	f = open(storage + country + "/final1.txt", "w+")
-	f.writelines(["%s\n" % item for item in HI])
-	f.close()
-
-	# Save to csv
-	f = open(storage + country + "/final.csv",'w+')
-	wr = csv.writer(f, dialect='excel')
-	wr.writerows(HI)
-	f.close()
-
-# Combined
 FINAL=[]
 for country in COUNTRY:
 
@@ -248,6 +227,3 @@ f = open("complete.csv",'w+')
 wr = csv.writer(f, dialect='excel')
 wr.writerows(FINAL_FORMAT)
 f.close()
-
-
-
