@@ -6,8 +6,8 @@ library(plyr)
 d <- read.csv("../1.webscrape/complete.csv", header=FALSE)
 
 # Rename variables
-oldnames = c('V1','V2','V3','V4','V5','V6','V7','V8','V9','V10','V11','V12','V13','V14','V15')
-newnames = c('player','debut','position','tests','wins','losses','draws','points','tries','birthplace','country1','country2','country3','country4','team')
+oldnames = c('V1','V2','V3','V4','V5','V6','V7','V8','V9','V10','V11','V12','V13','V14','V15','V16','V17')
+newnames = c('player','debut','position','tests','wins','losses','draws','points','tries','birthplace','country1','country2','country3','country4','month','birthyear','team')
 setnames(d, old = oldnames, new = newnames)
 
 #-------------------------------------------------------------#
@@ -124,13 +124,5 @@ for (i in 1:length(COUNTRY)){
 
 new_data <- data.frame("player" = d$player, "team" = d$team, "debut" = d$debut,
                        "tests"=d$tests,"win"=d$wins,"loss"=d$losses, "draw"=d$draws,"points"=d$points,
-                       "tries"=d$tries, "birthplace" = d$birthplace, "country"=d$born) 
+                       "tries"=d$tries, "birthplace" = d$birthplace, "country"=d$born,"month"=d$month,"birthyear"=d$birthyear) 
 write.csv(new_data, "../final_data.csv", row.names=FALSE)
-
-#NZ_data <- read.csv("NZ_data.csv",header=T)
-#NZ_data <- NZ_data[!(NZ_data$Tests==0),]
-#NZ_data$Place <- as.character(NZ_data$Place)
-#NZ_data$Name <- as.character(NZ_data$Name)
-
-#read.table(NZ_data$Place, sep = ",", colClasses = "character")
-#x <- strsplit(NZ_data$Place, ", ")

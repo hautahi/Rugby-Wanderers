@@ -90,9 +90,6 @@ stargazer(Exports,type="text",title = "Contribution toward Foreign nations",styl
 stargazer(Exports,type="text",title = "Contribution toward Foreign nations",style="aer",
           notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Exports.txt")
 
-stargazer(Exports,type="text",title = "Contribution toward Foreign nations",style="aer",
-          notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Exports.html")
-
 stargazer(Imports,type="text",title = "Contribution of Foreign-Born Players",style="aer",
           notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Imports.tex")
 
@@ -132,9 +129,9 @@ a<-ggplot(data=tseries, aes(x=rownames(tseries),group=1)) +
   geom_line(aes( y=tseries$NewZealand),colour="black") + 
   xlab("Year") + ylab("Number of debutants") +
   ggtitle("Number of debutants per Year")
-
-a
   
+a
+
 # Birth Month Stuff
 d$month1<-sapply(d$month, function(x) first.word(x,i=1,expr=substitute(x)))
 Months <- data.frame(table(d$month1[d$team=="England"]))
