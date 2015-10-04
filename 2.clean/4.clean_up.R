@@ -7,7 +7,7 @@ d <- read.csv("../1.webscrape/complete.csv", header=FALSE)
 
 # Rename variables
 oldnames = c('V1','V2','V3','V4','V5','V6','V7','V8','V9','V10','V11','V12','V13','V14','V15','V16','V17')
-newnames = c('player','debut','position','tests','wins','losses','draws','points','tries','birthplace','country1','country2','country3','country4','month','birthyear','team')
+newnames = c('player','debut','position','tests','wins','losses','draws','tries','points','birthplace','country1','country2','country3','country4','month','birthyear','team')
 setnames(d, old = oldnames, new = newnames)
 
 #-------------------------------------------------------------#
@@ -53,6 +53,10 @@ d$born <- d$country1
 for (i in 1:length(COUNTRY)){
 d$born[grepl(names(COUNTRY[i]),d$han)==TRUE]=COUNTRY[[i]]
 }
+
+# Same thing for Japan (do here because I can't encode Japanese characters in csv)
+d$born[d$born=="日本"] = "JAP"
+d$born[d$born=="대한민국"] = "KOR"
 
 # The remaining errors are now a result of incorrect geocoding in Python.
 
