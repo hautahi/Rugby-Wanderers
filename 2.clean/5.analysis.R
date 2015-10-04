@@ -7,7 +7,6 @@ library(Hmisc)
 
 # Load datasets
 d       <- read.csv("../final_data.csv", header=TRUE,stringsAsFactors=F)
-country <- read.csv("manual_adjustments/country_codes.csv", header=FALSE,stringsAsFactors=F)
 
 # Restrict by year
 d <- d[d$debut>1995,]
@@ -18,7 +17,10 @@ COUNTRIES <- c("England","Australia","Scotland","Wales","SouthAfrica","Ireland",
                "NewZealand","France","Argentina","Italy","Samoa")
 clist <- c("ENG","AUS","SCO","WAL","SA","IRE","NZ","FR","ARG","ITA","SAM","TON","USA","NAMIBIA","")
 
-# Create counts of birthplaces
+#-------------------------------------------------------------#
+# Tally of birthplaces for each team
+#-------------------------------------------------------------#
+
 df <- data.frame(matrix(nrow = length(COUNTRIES), ncol = length(clist)))
 colnames(df)<-clist
 rownames(df)<-COUNTRIES
@@ -33,14 +35,15 @@ for (i in 1:length(COUNTRIES)){
 }
 
 df <- transform(df, Other=sum_df$Total-rowSums(df))
+setnames(df, old = "Var.15", new = "Missing")
 
-# Create sums of points scored
-df_points <- data.frame(matrix(nrow = length(COUNTRIES), ncol = length(clist)))
-colnames(df_points)<-clist
-rownames(df_points)<-COUNTRIES
-sum_df_points<-data.frame(matrix(nrow=length(COUNTRIES), ncol=1))
+#-------------------------------------------------------------#
+# Points scored for each team by birthplace
+#-------------------------------------------------------------#
 
-colnames(sum_df_points)<-c("Total")
+df_points <- df
+sum_df_points<- sum_df
+
 for (i in 1:length(COUNTRIES)){
   sum_df_points[i,1] <- sum(d$tries[d$team==COUNTRIES[i]],na.rm = T)
   for (j in 1:length(clist)){
@@ -50,13 +53,13 @@ for (i in 1:length(COUNTRIES)){
 
 df_points <- transform(df_points, Other=sum_df_points$Total-rowSums(df_points))
 
-# Create sums of tests played
-df_tests <- data.frame(matrix(nrow = length(COUNTRIES), ncol = length(clist)))
-colnames(df_tests)<-clist
-rownames(df_tests)<-COUNTRIES
-sum_df_tests<-data.frame(matrix(nrow=length(COUNTRIES), ncol=1))
+#-------------------------------------------------------------#
+# Tests played for each team by birthplace
+#-------------------------------------------------------------#
 
-colnames(sum_df_tests)<-c("Total")
+df_tests <- df
+sum_df_tests<- sum_df
+
 for (i in 1:length(COUNTRIES)){
   sum_df_tests[i,1] <- sum(d$tests[d$team==COUNTRIES[i]],na.rm = T)
   for (j in 1:length(clist)){
@@ -67,11 +70,14 @@ for (i in 1:length(COUNTRIES)){
 df_tests <- transform(df_tests, Other=sum_df_tests$Total-rowSums(df_tests))
 
 # Analysis
+
+# This is incorrect. Misses other countries
 Migration <- df[,1:length(COUNTRIES)]
 Migration$Other <- df$Other
-Migration$Missing <- df$Var.15
-Migration$sum <- rowSums(Migration)
+Migration$Missing <- df$Missing
+Migration$Sum <- rowSums(Migration)
 
+# This is incorrect. Misses other countries
 Imports_players <- rowSums(df[,1:length(COUNTRIES)])-diag(as.matrix(df))
 Exports_players <- colSums(df[,1:length(COUNTRIES)])-diag(as.matrix(df))
 
@@ -91,7 +97,7 @@ stargazer(Exports,type="text",title = "Contribution toward Foreign nations",styl
           notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Exports.txt")
 
 stargazer(Imports,type="text",title = "Contribution of Foreign-Born Players",style="aer",
-          notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Imports.tex")
+          notes = "Source: Author's construction",flip=FALSE,summary=FALSE,out="output/Imports.txt")
 
 stargazer(Migration,type="text",title = "Player Birthplace for Each Team",style="aer",
           notes = "A count of the birthplace(columns) of players from each country (row).",
@@ -101,7 +107,10 @@ stargazer(Migration,type="text",title = "Player Birthplace for Each Team",style=
           notes = "A count of the birthplace(columns) of players from each country (row).",
           flip=FALSE,summary=FALSE,dep.var.labels = "Hi",out="output/Migration.txt")
 
-# Time Series
+#-------------------------------------------------------------#
+# Time Series Analysis
+#-------------------------------------------------------------#
+
 YEAR <- unique(d$debut)
 history_Tot <- data.frame(matrix(nrow = length(COUNTRIES), ncol = length(YEAR)))
 colnames(history_Tot)<-YEAR
@@ -131,8 +140,10 @@ a<-ggplot(data=tseries, aes(x=rownames(tseries),group=1)) +
   ggtitle("Number of debutants per Year")
   
 a
+#-------------------------------------------------------------#
+# Birth Month Analysis
+#-------------------------------------------------------------#
 
-# Birth Month Stuff
 d$month1<-sapply(d$month, function(x) first.word(x,i=1,expr=substitute(x)))
 Months <- data.frame(table(d$month1[d$team=="England"]))
 Months1 <- data.frame(table(d$month1[d$team=="NewZealand"]))
