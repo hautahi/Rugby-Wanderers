@@ -19,8 +19,8 @@ geolocator = Nominatim()
 
 storage =  "./data/"
 
-#COUNTRY = ["England", "Scotland", "Ireland", "Wales", "SouthAfrica","Australia", "NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan","Canada","USA"]
-COUNTRY = ["England"]
+COUNTRY = ["England", "Scotland", "Ireland", "Wales", "SouthAfrica","Australia", "NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan","Canada","USA"]
+#COUNTRY = ["England"]
 
 #-------------------------------------------------------------#
 # 2. Define Functions

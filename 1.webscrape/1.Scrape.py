@@ -36,7 +36,6 @@ TEAM_URL = ["/england/rugby/player/caps.html?team=1", "/scotland/rugby/player/ca
 # 3. Define Functions
 #-------------------------------------------------------------#
 
-# Note to self: Tidy up the "next's" by using nextSibling
 def make_soup(url):
     html = urlopen(url).read()
     return BeautifulSoup(html, "lxml")
@@ -116,7 +115,7 @@ if __name__ == "__main__":
 	pass
 
 #-------------------------------------------------------------#
-# 4. Retrieve Data
+# 4. Retrieve and Save Data
 #-------------------------------------------------------------#
 
 print "Retrieving New Links....."
@@ -216,6 +215,10 @@ for i in range(len(COUNTRY)):
 			os.makedirs(storage + country)
 			
 		# Save data as Python objects
+<<<<<<< HEAD
+=======
+		cPickle.dump(links,open(storage + country + "/Player_links.p","w+"))
+>>>>>>> 59a538ee25ca74f2a36b9f5a83e0512d59b32dc6
 		cPickle.dump(NAMES,open(storage + country + "/Names.p","w+"))
 		cPickle.dump(BIRTH,open(storage + country + "/Birth.p","w+"))
 		cPickle.dump(DEBUT,open(storage + country + "/Debut.p","w+"))

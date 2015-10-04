@@ -1,7 +1,6 @@
 # This program gathers all relevant statistics into one data file
 # If birthplace has more that one possible country, it takes the first country.
 
-
 # Author: Hautahi Kingi
 # Date: 22 June 2015
 
@@ -74,7 +73,6 @@ def extract_birthyear(BIRTH):
 			x=row[1]
 		else:
 			x=""
-#		x = row[1]
 		x = x.strip()
 		birth_year.append(x)
 
@@ -126,7 +124,6 @@ for country in COUNTRY:
 # 3. Split country strings
 #-------------------------------------------------------------#
 
-
 	# Take the first country as most likely (For each player, COUNTRY_STRINGS contains a number of different posibilities)
 	likely_country = []
 	for row in COUNTRY_STRINGS:
@@ -165,7 +162,7 @@ for country in COUNTRY:
 			x = "Missing"
 		birth_country1.append(x)
 
-	# Do the same for next comma, because formatting sometimes places UK country here 
+	# Do the same for next comma, because formatting sometimes places UK country here, for example. 
 	birth_country2 = []
 	for row in odie:
 		if len(row)>2:
@@ -175,7 +172,7 @@ for country in COUNTRY:
 			x = "Missing"
 		birth_country2.append(x)
 
-	# Do the same for next comma, because formatting sometimes places UK country here 
+	# Do the same for next comma, just in case
 	birth_country3 = []
 	for row in odie:
 		if len(row)>3:
@@ -204,23 +201,21 @@ for country in COUNTRY:
 # 4. Save
 #-------------------------------------------------------------#
 
+# Add column of country name
 FINAL=[]
 for country in COUNTRY:
 
 	print country
 
-	# Load pickled Python objects
-	data = cPickle.load(open(storage + country + "/final.p","r"))
-
-	for row in data:
-		x=row+[country]
+	for row in BIG_MAT:
+		x = row+[country]
 		FINAL.append(x)
 
+# Format character encoding
 FINAL_FORMAT=[]
 for i in range(len(FINAL)):
 	current = ['NA' if x is None else x.encode('utf-8') for x in FINAL[i]]
 	FINAL_FORMAT.append(current)
-
 
 # Save to csv
 f = open("complete.csv",'w+')
