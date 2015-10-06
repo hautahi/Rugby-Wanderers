@@ -1,4 +1,4 @@
-# rugby-wanderers
+# Rugby-Wanderers
 
 # Introduction
 An ongoing and often heated debate among the rugby public and media concerns the extent to which international rugby teams "poach" players from other countries. The poaching allegations have largely relied on casual observations and anecdotes rather than any attempt to look at the evidence. The [New Zealand Herald](http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=11278276) provided a notable exception by compiling a dataset of the birthplace of every All Black.
@@ -19,7 +19,7 @@ The data contained in this repository is an attempt to provide further empirical
   - `4.clean_up.R` script cleans and performs the adjustments to the raw data in order to produce the final dataset.
   - `5.analysis.R` script performs analysis on the data to be reported at a later date.
 
-## Contributing to rugby-wanderers
+## Contributing to Rugby-Wanderers
 
 To my knowledge, the player names and playing statistics are accurate, but the birthplace information remains a work in progress. Birthplace data is especially sparse for Canada, the USA and the Pacific Island countries. I welcome any contributions and corrections that can be pointed out. Feel free to create a pull request or to email me (hrk55@cornell.edu) with any help you can provide.
 
