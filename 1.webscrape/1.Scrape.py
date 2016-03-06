@@ -118,7 +118,7 @@ if __name__ == "__main__":
 # 4. Retrieve and Save Data
 #-------------------------------------------------------------#
 
-print "Retrieving New Links....."
+print "Retrieving Player Links....."
 # Retrieve Links and compare with links in existence. (Then only need to scrape the new links)
 for i in range(len(COUNTRY)):
 
@@ -130,21 +130,12 @@ for i in range(len(COUNTRY)):
 		# Retrieve url links for each player from the country page
 		links = get_player_links(team_url)
 
-		# If player links already exist, extract new ones
-		if os.path.isfile(storage + country + "/Player_links.p"):
-				# Load already existing player links
-				oldlinks = cPickle.load(open(storage + country + "/Player_links.p","r"))
-				# create list of only new links
-				newlinks = [x for x in links if x not in oldlinks]
+		# Create country directory if it does not exist
+		if not os.path.isdir(storage + country):
+			os.makedirs(storage + country)
 
-				print "There are %d new players to be added" % len(newlinks)
-		else:
-				print "All New Links"
-				newlinks = links
-
-		# Update current links and save newlinks as Python objects
+		# Save links as Python objects
 		cPickle.dump(links,open(storage + country + "/Player_links.p","w+"))
-		cPickle.dump(newlinks,open(storage + country + "/Player_newlinks.p","w+"))
 
 print "Retrieving Statistics....."
 # Loop over each country
@@ -157,36 +148,16 @@ for i in range(len(COUNTRY)):
 		print country
 
 		# Retrieve url links for each player from the country page
-		links = cPickle.load(open(storage + country + "/Player_newlinks.p","r"))
+		links = cPickle.load(open(storage + country + "/Player_links.p","r"))
 		links_short = links		 				# use this for debugging
 #		print links[-1]  			  			# print an example, also used for debugging
 
 		# Retrieve player statistics from each player's page
-
-		if os.path.isfile(storage + country + "/Names.p"):
-				NAMES = cPickle.load(open(storage + country + "/Names.p","r"))
-		else:
-				NAMES = []
-
-		if os.path.isfile(storage + country + "/Birth.p"):
-				BIRTH = cPickle.load(open(storage + country + "/Birth.p","r"))
-		else:
-				BIRTH = []
-
-		if os.path.isfile(storage + country + "/Debut.p"):
-				DEBUT = cPickle.load(open(storage + country + "/Debut.p","r"))
-		else:
-				DEBUT = []
-
-		if os.path.isfile(storage + country + "/Position.p"):
-				POSITION = cPickle.load(open(storage + country + "/Names.p","r"))
-		else:
-				POSITION = []
-
-		if os.path.isfile(storage + country + "/Stats.p"):
-				STATS = cPickle.load(open(storage + country + "/Stats.p","r"))
-		else:
-				STATS = []
+		NAMES = []
+		BIRTH = []
+		DEBUT = []
+		POSITION = []
+		STATS = []
 
 		for link in links_short:
 			soup=make_soup(link)
