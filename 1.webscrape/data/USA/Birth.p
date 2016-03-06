@@ -333,7 +333,7 @@ aVcirca 1959
 p167
 aVMarch 17, 1960, La Grange, GA, United States
 p168
-aVJanuary 1, 1961, New York, United States
+aVJanuary 1, 1961, New York, NY, United States
 p169
 aVdate unknown
 p170
@@ -603,7 +603,7 @@ aVJune 26, 1970, Dublin, GA, United States
 p302
 aVdate unknown
 p303
-aVSeptember 7, 1976, Pago Pago, American Samoa
+aVSeptember 7, 1976, Pago Pago
 p304
 aVMarch 19, 1978
 p305
@@ -743,7 +743,7 @@ aVJune 21, 1983, Anaheim, CA, United States
 p372
 aVJanuary 27, 1975, Dubbo, NSW
 p373
-aVSeptember 10, 1985, Pago Pago, American Samoa
+aVSeptember 10, 1985, Pago Pago
 p374
 aVMay 17, 1981, Hartford, CT, United States
 p375
@@ -761,7 +761,7 @@ aVJanuary 4, 1973, Los Angeles, CA, United States
 p381
 aVJuly 22, 1985, Harare
 p382
-aVMay 16, 1978, Tonga Tapu
+aVMay 16, 1978, Vaini
 p383
 aVSeptember 22, 1988, Woodland, CA, United States
 p384
@@ -783,15 +783,15 @@ aVMarch 26, 1986
 p392
 aVJuly 24, 1983, Taplow, Bucks
 p393
-aVMarch 24, 1983, Faga'alu, American Samoa
+aVMarch 24, 1983, Faga'alu
 p394
-aVApril 10, 1985, Penrith
+aVApril 10, 1985, Penrith, NSW
 p395
 aVAugust 14, 1985, Cape Town
 p396
 aVJanuary 22, 1988, Bellingham, WA, United States
 p397
-aVSeptember 29, 1987, Bundaberg, QLD
+aVMay 1, 1982, Pago Pago
 p398
 aVOctober 30, 1984, Sacramento, CA, United States
 p399
@@ -807,11 +807,11 @@ aVOctober 4, 1989, Salt Lake City, UT, United States
 p404
 aVMay 29, 1984, California, United States
 p405
-aVDecember 17, 1986, Pago Pago, American Samoa
+aVDecember 17, 1986, Pago Pago
 p406
 aVDecember 16, 1984, San Jose, CA, United States
 p407
-aVSeptember 10, 1985, Pago Pago, American Samoa
+aVSeptember 10, 1985, Pago Pago
 p408
 aVJune 21, 1983, Brisbane, QLD
 p409
@@ -819,7 +819,7 @@ aVJune 12, 1982, Mountain View, CA, United States
 p410
 aVApril 10, 1987, Phoenix, AZ, United States
 p411
-aVOctober 29, 1984, Michigan, United States
+aVOctober 29, 1984, Traverse City, MI, United States
 p412
 aVDecember 27, 1984
 p413
@@ -837,11 +837,11 @@ aVOctober 27, 1981
 p419
 aVMarch 5, 1985, Concord, CA, United States
 p420
-aVJune 3, 1989, Faga'alu, American Samoa
+aVJune 3, 1989, Faga'alu
 p421
 aVSeptember 14, 1987, Davis, CA, United States
 p422
-aVFebruary 16, 1982
+aVFebruary 16, 1982, Portland, OR, United States
 p423
 aVFebruary 29, 1988, Sacramento, CA, United States
 p424
@@ -849,7 +849,7 @@ aVApril 11, 1987, Christchurch
 p425
 aVJuly 4, 1984
 p426
-aVOctober 25, 1987, New York, United States
+aVOctober 25, 1987, New York, NY, United States
 p427
 aVMarch 19, 1991, Frankfurt
 p428
@@ -875,48 +875,62 @@ aVFebruary 23, 1987
 p438
 aVJuly 27, 1988
 p439
-aVMay 30, 1991
+aVMay 30, 1991, New York, NY, United States
 p440
 aVJuly 11, 1988
 p441
-aVOctober 16, 1989
+aVOctober 16, 1989, Bellingham, WA, United States
 p442
-aVMarch 7, 1990, Florida, United States
+aVMarch 7, 1990, Fort Myers, FL, United States
 p443
-aVFebruary 11, 1995
+aVFebruary 11, 1995, Bellingham, WA, United States
 p444
-aVJanuary 27, 1985, California, United States
+aVJanuary 27, 1985, East Palo Alto, CA, United States
 p445
-aVMarch 23, 1989
+aVMarch 23, 1989, Danville, CA, United States
 p446
-aVSeptember 28, 1986
+aVSeptember 28, 1986, Seattle, WA, United States
 p447
-aVAugust 28, 1980
+aVAugust 28, 1980, San Diego, CA, United States
 p448
 aVJune 20, 1989
 p449
 aVAugust 26, 1988, Cleveland, OH, United States
 p450
-aVJanuary 24, 1990
+aVJanuary 24, 1990, American Fork, UT, United States
 p451
-aVMay 6, 1988, American Samoa
+aVJune 5, 1988, Pago Pago
 p452
-aVMarch 23, 1990
+aVMarch 23, 1990, Pacifica, CA, United States
 p453
 aVSeptember 27, 1988, Johannesburg
 p454
-aVAugust 17, 1990
+aVAugust 17, 1990, Tempe, AZ, United States
 p455
-aVApril 7, 1989
+aVApril 7, 1989, Vancouver, WA, United States
 p456
-aVdate unknown
+aVSeptember 6, 1986, Darlinghurst, NSW
 p457
-aVMay 16, 1990
+aVMay 16, 1990, La Mirada, CA, United States
 p458
 aVMarch 26, 1991, Sydney, NSW
 p459
-aVMarch 17, 1994
+aVMarch 17, 1994, Indianapolis, IN, United States
 p460
 aVJune 5, 1985, Burbank, CA, United States
 p461
+aVFebruary 26, 1990, Dublin
+p462
+aVOctober 13, 1989, Redwood City, CA, United States
+p463
+aVJune 2, 1989, Paddington, NSW
+p464
+aVMay 18, 1987, Steamboat Springs, C, United States
+p465
+aVOctober 9, 1991, Pretoria
+p466
+aVOctober 4, 1992
+p467
+aVJanuary 22, 1992, Tiburon, CA, United States
+p468
 a.

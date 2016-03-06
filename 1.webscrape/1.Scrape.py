@@ -133,6 +133,7 @@ for i in range(len(COUNTRY)):
 		# Create country directory if it does not exist
 		if not os.path.isdir(storage + country):
 			os.makedirs(storage + country)
+			print "Creating country directory"
 
 		# Save links as Python objects
 		cPickle.dump(links,open(storage + country + "/Player_links.p","w+"))

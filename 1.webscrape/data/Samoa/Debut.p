@@ -151,43 +151,43 @@ aVSamoa v Fiji XV at Apia, Jun 18, 1955
 p76
 aVSamoa v Fiji XV at Apia, Jun 18, 1955
 p77
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p78
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p79
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p80
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p81
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p82
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p83
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p84
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p85
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p86
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p87
-aVSamoa v Tonga at Apia, Jul 2, 1957
+aVSamoa v Tonga at Apia, Jun 1, 1957
 p88
-aVSamoa v Tonga at Apia, Jul 4, 1957
+aVSamoa v Tonga at Apia, Jun 4, 1957
 p89
-aVSamoa v Tonga at Apia, Jul 4, 1957
+aVSamoa v Tonga at Apia, Jun 4, 1957
 p90
-aVSamoa v Tonga at Apia, Jul 4, 1957
+aVSamoa v Tonga at Apia, Jun 4, 1957
 p91
-aVSamoa v Tonga at Apia, Jul 4, 1957
+aVSamoa v Tonga at Apia, Jun 4, 1957
 p92
-aVSamoa v Tonga at Apia, Jul 4, 1957
+aVSamoa v Tonga at Apia, Jun 4, 1957
 p93
-aVSamoa v Tonga at Apia, Jul 4, 1957
+aVSamoa v Tonga at Apia, Jun 4, 1957
 p94
-aVSamoa v Tonga at Apia, Jul 4, 1957
+aVSamoa v Tonga at Apia, Jun 4, 1957
 p95
-aVSamoa v Tonga at Apia, Jul 4, 1957
+aVSamoa v Tonga at Apia, Jun 4, 1957
 p96
 aVFiji v Samoa at Suva, Aug 30, 1963
 p97
@@ -219,7 +219,7 @@ aVFiji v Samoa at Suva, Aug 30, 1963
 p110
 aVFiji v Samoa at Suva, Aug 30, 1963
 p111
-aVSamoa v Tonga at Suva, Sep 3, 1963
+aVFiji v Samoa at Suva, Sep 5, 1963
 p112
 aVFiji v Samoa at Suva, Sep 5, 1963
 p113
@@ -227,35 +227,35 @@ aVFiji v Samoa at Suva, Sep 5, 1963
 p114
 aVFiji v Samoa at Suva, Sep 5, 1963
 p115
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p116
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p117
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p118
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p119
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p120
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p121
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p122
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p123
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p124
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p125
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p126
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p127
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p128
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p129
-aVSamoa v Tonga at Apia, Jun 3, 1972
+aVSamoa v Tonga at Apia, May 27, 1972
 p130
 aVSamoa v Tonga at Apia, Jun 13, 1975
 p131
@@ -957,116 +957,4 @@ aVJapan v Samoa at Tokyo, Oct 30, 2010
 p479
 aVJapan v Samoa at Tokyo, Oct 30, 2010
 p480
-aVJapan v Samoa at Tokyo, Oct 30, 2010
-p481
-aVJapan v Samoa at Tokyo, Oct 30, 2010
-p482
-aVJapan v Samoa at Tokyo, Oct 30, 2010
-p483
-aVJapan v Samoa at Tokyo, Oct 30, 2010
-p484
-aVIreland v Samoa at Lansdowne Road, Nov 13, 2010
-p485
-aVEngland v Samoa at Twickenham, Nov 20, 2010
-p486
-aVWales v Pacific Islanders at Millennium Stadium, Nov 11, 2006
-p487
-aVJapan v Samoa at Tokyo, Jul 2, 2011
-p488
-aVJapan v Samoa at Tokyo, Jul 2, 2011
-p489
-aVJapan v Samoa at Tokyo, Jul 2, 2011
-p490
-aVJapan v Samoa at Tokyo, Jul 2, 2011
-p491
-aVFiji v Samoa at Suva, Jul 9, 2011
-p492
-aVSamoa v Tonga at Lautoka, Jul 13, 2011
-p493
-aVSamoa v Tonga at Lautoka, Jul 13, 2011
-p494
-aVSamoa v Tonga at Lautoka, Jul 13, 2011
-p495
-aVSamoa v Wales at Hamilton, Sep 18, 2011
-p496
-aVSamoa v Tonga at Nagoya, Jun 5, 2012
-p497
-aVSamoa v Tonga at Nagoya, Jun 5, 2012
-p498
-aVSamoa v Tonga at Nagoya, Jun 5, 2012
-p499
-aVSamoa v Tonga at Nagoya, Jun 5, 2012
-p500
-aVSamoa v Tonga at Nagoya, Jun 5, 2012
-p501
-aVSamoa v Tonga at Nagoya, Jun 5, 2012
-p502
-aVSamoa v Tonga at Nagoya, Jun 5, 2012
-p503
-aVSamoa v Tonga at Nagoya, Jun 5, 2012
-p504
-aVSamoa v Tonga at Nagoya, Jun 5, 2012
-p505
-aVSamoa v Tonga at Nagoya, Jun 5, 2012
-p506
-aVCanada v Samoa at Colwyn Bay, Nov 9, 2012
-p507
-aVCanada v Samoa at Colwyn Bay, Nov 9, 2012
-p508
-aVCanada v Samoa at Colwyn Bay, Nov 9, 2012
-p509
-aVCanada v Samoa at Colwyn Bay, Nov 9, 2012
-p510
-aVCanada v Samoa at Colwyn Bay, Nov 9, 2012
-p511
-aVSamoa v Scotland at Durban, Jun 8, 2013
-p512
-aVSamoa v Scotland at Durban, Jun 8, 2013
-p513
-aVSamoa v Scotland at Durban, Jun 8, 2013
-p514
-aVSamoa v Scotland at Durban, Jun 8, 2013
-p515
-aVItaly v Samoa at Nelspruit, Jun 15, 2013
-p516
-aVIreland v Samoa at Lansdowne Road, Nov 9, 2013
-p517
-aVIreland v Samoa at Lansdowne Road, Nov 9, 2013
-p518
-aVJapan v Samoa at Tokyo, May 30, 2014
-p519
-aVJapan v Samoa at Tokyo, May 30, 2014
-p520
-aVJapan v Samoa at Tokyo, May 30, 2014
-p521
-aVJapan v Samoa at Tokyo, May 30, 2014
-p522
-aVJapan v Samoa at Tokyo, May 30, 2014
-p523
-aVJapan v Samoa at Tokyo, May 30, 2014
-p524
-aVJapan v Samoa at Tokyo, May 30, 2014
-p525
-aVJapan v Samoa at Tokyo, May 30, 2014
-p526
-aVJapan v Samoa at Tokyo, May 30, 2014
-p527
-aVJapan v Samoa at Tokyo, May 30, 2014
-p528
-aVItaly v Samoa at Ascoli Piceno, Nov 8, 2014
-p529
-aVItaly v Samoa at Ascoli Piceno, Nov 8, 2014
-p530
-aVItaly v Samoa at Ascoli Piceno, Nov 8, 2014
-p531
-aVItaly v Samoa at Ascoli Piceno, Nov 8, 2014
-p532
-aVCanada v Samoa at Vannes, Nov 14, 2014
-p533
-aVCanada v Samoa at Vannes, Nov 14, 2014
-p534
-aVCanada v Samoa at Vannes, Nov 14, 2014
-p535
-aVCanada v Samoa at Vannes, Nov 14, 2014
-p536
 a.

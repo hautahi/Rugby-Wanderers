@@ -23,9 +23,9 @@ aVcirca 1907
 p12
 aVdate unknown
 p13
-aVFebruary 6, 1908, New York, United States
+aVFebruary 6, 1908, New York, NY, United States
 p14
-aVMay 2, 1910, New York, United States
+aVMay 2, 1910, New York, NY, United States
 p15
 aVNovember 25, 1912, Briey
 p16
@@ -107,7 +107,7 @@ aVApril 24, 1912, Turin
 p54
 aVdate unknown
 p55
-aVJanuary 25, 1909, Foligno
+aVJanuary 25, 1909, Foligno, PG
 p56
 aVDecember 11, 1913, Milano
 p57
@@ -597,7 +597,7 @@ aVJune 16, 1946, Crespino, RO
 p299
 aVMarch 15, 1951, L'Aquila
 p300
-aVNovember 8, 1952, Arqua, RO
+aVNovember 8, 1952, Arqua Polesine, RO
 p301
 aVOctober 24, 1950, Vescovana, RO
 p302
@@ -869,7 +869,7 @@ aVFebruary 11, 1961, Rosario
 p435
 aVApril 25, 1966, Cordoba
 p436
-aVJanuary 15, 1971, Calvisano
+aVJanuary 15, 1971, Calvisano, BS
 p437
 aVNovember 8, 1955, Foligno, PG
 p438
@@ -909,7 +909,7 @@ aVJanuary 20, 1968, San Dona, VE
 p455
 aVApril 17, 1969, Milano
 p456
-aVSeptember 5, 1972, Calvisano
+aVSeptember 5, 1972, Calvisano, BS
 p457
 aVDecember 16, 1967, Benevento
 p458
@@ -927,368 +927,4 @@ aVSeptember 6, 1973, Treviso
 p464
 aVOctober 26, 1968, General San Martin
 p465
-aVMay 15, 1972, L'Aquila
-p466
-aVApril 27, 1967, Rosario
-p467
-aVJuly 29, 1967, Cordoba
-p468
-aVJuly 24, 1972, L'Aquila
-p469
-aVMay 6, 1973, Cremona
-p470
-aVMarch 1, 1975, Treviso
-p471
-aVApril 13, 1971, Roma
-p472
-aVFebruary 18, 1973, L'Aquila
-p473
-aVJuly 1, 1973, Padova
-p474
-aVOctober 27, 1975, Padova
-p475
-aVJanuary 27, 1966, San Miguel de Tucuma
-p476
-aVMarch 30, 1974, Treviso
-p477
-aVMarch 17, 1970, Roma
-p478
-aVJanuary 25, 1973, San Dona, VE
-p479
-aVMay 28, 1974, Treviso
-p480
-aVFebruary 2, 1968, Livorno
-p481
-aVAugust 22, 1971, Padova
-p482
-aVSeptember 21, 1974, Padova
-p483
-aVSeptember 30, 1968, Livorno
-p484
-aVDecember 2, 1972, Padova
-p485
-aVMay 11, 1972, Treviso
-p486
-aVAugust 1, 1976, Bucuresti
-p487
-aVNovember 25, 1973, Padova
-p488
-aVOctober 15, 1976, Montebelluna, TV
-p489
-aVNovember 13, 1972, Mantova
-p490
-aVSeptember 24, 1974, Belluno
-p491
-aVMarch 4, 1975, Pisa
-p492
-aVJanuary 24, 1970, Viterbo
-p493
-aVMay 1, 1979, Padova
-p494
-aVMarch 21, 1969, Canberra
-p495
-aVOctober 7, 1972, Mirano, VE
-p496
-aVMay 7, 1971, Udine
-p497
-aVOctober 14, 1974, Frascati, RM
-p498
-aVNovember 4, 1976, Colleferro, RM
-p499
-aVAugust 15, 1978, Padova
-p500
-aVMarch 4, 1978, Asolo, TV
-p501
-aVApril 15, 1977, Noale, VE
-p502
-aVMarch 27, 1970, Durban
-p503
-aVDecember 26, 1973, Camposampiero, PD
-p504
-aVNovember 24, 1972, Gap
-p505
-aVAugust 8, 1974, Villa Ballester
-p506
-aVAugust 7, 1972, Genova
-p507
-aVJuly 23, 1973, Rovigo
-p508
-aVMay 3, 1977
-p509
-aVMarch 30, 1981, L'Aquila
-p510
-aVJune 24, 1975, Rosario
-p511
-aVAugust 2, 1972, Sydney, NSW
-p512
-aVApril 21, 1973, Buenos Aires
-p513
-aVJanuary 28, 1977, Firenze
-p514
-aVOctober 24, 1976, Livorno
-p515
-aVMarch 29, 1978, Lower Hutt
-p516
-aVSeptember 2, 1973, Genova
-p517
-aVAugust 18, 1975, Rosario
-p518
-aVMarch 6, 1978, Benevento
-p519
-aVMay 7, 1976, Catania
-p520
-aVDecember 6, 1978, Cordoba
-p521
-aVJuly 31, 1974, Rosario
-p522
-aVAugust 14, 1980, Legnago, VR
-p523
-aVMay 6, 1976, Segni
-p524
-aVMay 21, 1976, Cordoba
-p525
-aVJanuary 12, 1978, L'Aquila
-p526
-aVMay 3, 1972, Noceto, PR
-p527
-aVAugust 10, 1971, Conselve, PD
-p528
-aVSeptember 23, 1977, Venezia
-p529
-aVJanuary 1, 1973, Casale, TV
-p530
-aVJuly 22, 1977, Treviso
-p531
-aVJune 12, 1979, Treviso
-p532
-aVOctober 26, 1975, Mombasa
-p533
-aVJune 12, 1980, Padova
-p534
-aVSeptember 21, 1976, Modena
-p535
-aVDecember 3, 1977, Catania
-p536
-aVNovember 8, 1979, Viadana
-p537
-aVJanuary 20, 1980, Ponte dell'Oglio, PC
-p538
-aVNovember 17, 1974, Brescia
-p539
-aVMay 9, 1978, La Plata
-p540
-aVApril 10, 1975, Kaitaia
-p541
-aVFebruary 23, 1983, Padova
-p542
-aVMarch 22, 1974, Germiston
-p543
-aVApril 28, 1976, La Plata
-p544
-aVOctober 23, 1970, Buenos Aires
-p545
-aVSeptember 12, 1983, La Plata
-p546
-aVJune 8, 1982, Venezia
-p547
-aVOctober 21, 1981, Parana
-p548
-aVOctober 15, 1980, Montebelluna, TV
-p549
-aVNovember 10, 1977, Palmerston North
-p550
-aVMay 13, 1975, Reggio Emilia
-p551
-aVJune 20, 1980, L'Aquila
-p552
-aVNovember 11, 1982, Cordoba
-p553
-aVFebruary 23, 1981, Livorno
-p554
-aVMarch 23, 1976, North Shore
-p555
-aVMarch 30, 1975, Dunedin
-p556
-aVNovember 17, 1975, Durban
-p557
-aVFebruary 9, 1981, Venezia
-p558
-aVApril 10, 1979, Brescia
-p559
-aVSeptember 26, 1982, Roma
-p560
-aVJuly 1, 1981, Umtala
-p561
-aVApril 9, 1982, Catania
-p562
-aVOctober 29, 1980, Auckland
-p563
-aVJuly 22, 1979, L'Aquila
-p564
-aVFebruary 15, 1981, Milano
-p565
-aVNovember 13, 1973, Sabbioneta, MN
-p566
-aVOctober 27, 1983, Roma
-p567
-aVOctober 12, 1981, Cordoba
-p568
-aVApril 28, 1981, Treviso
-p569
-aVJuly 27, 1985, Roma
-p570
-aVMarch 3, 1984, Roma
-p571
-aVJune 6, 1981, Varese
-p572
-aVFebruary 15, 1980, Hamilton
-p573
-aVOctober 13, 1982, Agordo, PL
-p574
-aVDecember 26, 1981, Cordoba
-p575
-aVSeptember 16, 1982, Dolo, VE
-p576
-aVFebruary 13, 1981, San Nicolas
-p577
-aVJanuary 31, 1984, Udine
-p578
-aVJuly 21, 1981, Auch
-p579
-aVJanuary 12, 1980, Cape Town
-p580
-aVJune 5, 1984, Toronto
-p581
-aVDecember 26, 1984, Padova
-p582
-aVApril 17, 1983, Padova
-p583
-aVOctober 8, 1986, Roma
-p584
-aVApril 20, 1983, Eboli
-p585
-aVOctober 1, 1979, Birmingham
-p586
-aVNovember 1, 1982, Manchester
-p587
-aVAugust 4, 1980, Brisbane, QLD
-p588
-aVJanuary 15, 1985, Camposampiero
-p589
-aVOctober 24, 1983, Varese
-p590
-aVAugust 12, 1983, Suva
-p591
-aVDecember 17, 1982, Bergamo
-p592
-aVMay 12, 1984, Rovigo
-p593
-aVNovember 26, 1986, Montebelluna, TV
-p594
-aVJuly 28, 1986, Treviso
-p595
-aVJuly 31, 1979, Humansdorf
-p596
-aVFebruary 18, 1984, Mendoza
-p597
-aVJune 29, 1987, Townsville
-p598
-aVOctober 22, 1978, Buenos Aires
-p599
-aVOctober 13, 1986, Conegliano, TV
-p600
-aVJanuary 15, 1984, Roma
-p601
-aVMarch 21, 1983, Muret
-p602
-aVJuly 4, 1988, Rovigo
-p603
-aVApril 24, 1987, Frascati, RM
-p604
-aVDecember 3, 1982, Mar del Plata
-p605
-aVMarch 29, 1988, L'Aquila
-p606
-aVJune 19, 1981, Krugersdorp
-p607
-aVApril 29, 1978, Penrith, NSW
-p608
-aVNovember 3, 1986, Cecina, LI
-p609
-aVSeptember 23, 1987, Parma
-p610
-aVNovember 7, 1988, Treviso
-p611
-aVMarch 3, 1988, Viterbo
-p612
-aVDecember 12, 1990, Vittorio Veneto
-p613
-aVMarch 5, 1990, Prato
-p614
-aVMay 6, 1986, Treviso
-p615
-aVJune 30, 1988, Benevento
-p616
-aVJanuary 27, 1979, Nelspruit
-p617
-aVOctober 21, 1989, Melbourne, VIC
-p618
-aVMarch 27, 1990, Avezzano
-p619
-aVApril 26, 1984, Worcester
-p620
-aVFebruary 22, 1991, Milano
-p621
-aVMarch 13, 1986, Jesolo
-p622
-aVJanuary 16, 1986, Mestre, VE
-p623
-aVMarch 31, 1989, Bagni-a-Ripoli
-p624
-aVNovember 25, 1990, Padova
-p625
-aVNovember 26, 1988, Roma
-p626
-aVMarch 9, 1991, Villorba
-p627
-aVSeptember 16, 1990, Treviso
-p628
-aVMay 20, 1987, Mirano
-p629
-aVNovember 4, 1980, Rosario
-p630
-aVApril 28, 1990, Parma
-p631
-aVFebruary 16, 1988, Resistencia
-p632
-aVJanuary 15, 1992, Zevio, VR
-p633
-aVDecember 5, 1990, Venezia
-p634
-aVApril 26, 1993, Vicenza
-p635
-aVMarch 13, 1993, Mirano
-p636
-aVJune 14, 1993, Napoli
-p637
-aVOctober 4, 1985, Irvine
-p638
-aVApril 11, 1991, Gardone val Trompia
-p639
-aVNovember 19, 1988, Montebelluna, TV
-p640
-aVSeptember 14, 1988, Kempton Park
-p641
-aVJuly 30, 1986, Rotorua
-p642
-aVAugust 19, 1988, Suva
-p643
-aVOctober 16, 1990, Padova
-p644
-aVApril 4, 1992, Frascati
-p645
-aVNovember 28, 1992, San Dona
-p646
-aVDecember 13, 1991, Paese
-p647
 a.

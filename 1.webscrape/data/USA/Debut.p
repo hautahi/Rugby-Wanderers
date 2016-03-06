@@ -919,4 +919,18 @@ aVRomania v United States of America at Bucharest, Nov 8, 2014
 p460
 aVFiji v United States of America at Vannes, Nov 21, 2014
 p461
+aVUnited States of America v Samoa at San Jose, Jul 18, 2015
+p462
+aVUnited States of America v Samoa at San Jose, Jul 18, 2015
+p463
+aVUnited States of America v Japan at Sacramento, Jul 24, 2015
+p464
+aVTonga v United States of America at Toronto, Jul 29, 2015
+p465
+aVCanada v United States of America at Nepean, Aug 22, 2015
+p466
+aVSouth Africa v United States of America at London, Oct 7, 2015
+p467
+aVUnited States of America v Canada at TX, Feb 13, 2016
+p468
 a.

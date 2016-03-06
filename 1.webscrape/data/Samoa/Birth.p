@@ -645,7 +645,7 @@ aVdate unknown
 p323
 aVJanuary 12, 1973, Otahuhu
 p324
-aVFebruary 9, 1974, Pago Pago, American Samoa
+aVFebruary 9, 1974, Pago Pago
 p325
 aVNovember 16, 1971
 p326
@@ -739,7 +739,7 @@ aVAugust 12, 1976, Fatausi-Fogapoa, Western Samoa
 p370
 aVFebruary 24, 1981, Fatausi-Fogapoa, Western Samoa
 p371
-aVJanuary 12, 1980, Apia, Western Samoa
+aVJanuary 12, 1980, Moto'otua, Western Samoa
 p372
 aVAugust 13, 1979
 p373
@@ -773,7 +773,7 @@ aVOctober 19, 1979, Western Samoa
 p387
 aVFebruary 16, 1979
 p388
-aVSeptember 10, 1982
+aVSeptember 10, 1982, Western Samoa
 p389
 aVSeptember 19, 1980
 p390
@@ -857,7 +857,7 @@ aVNovember 20, 1987, Apia, Western Samoa
 p429
 aVFebruary 5, 1981, Otahuhu
 p430
-aVDecember 17, 1983, Apia, Western Samoa
+aVDecember 17, 1983, Moto'otua, Western Samoa
 p431
 aVApril 22, 1982, Apia, Western Samoa
 p432
@@ -937,7 +937,7 @@ aVNovember 21, 1983, Auckland
 p469
 aVOctober 18, 1982, Wellington
 p470
-aVJune 29, 1986, Apia, Western Samoa
+aVJune 29, 1986, Auckland
 p471
 aVFebruary 28, 1989
 p472
@@ -945,7 +945,7 @@ aVApril 22, 1983, Auckland
 p473
 aVDecember 6, 1981, Auckland
 p474
-aVJuly 23, 1985
+aVJuly 23, 1985, Saasaai, Western Samoa
 p475
 aVMarch 26, 1986, Moto'otua, Western Samoa
 p476
@@ -957,116 +957,4 @@ aVMay 22, 1982, Auckland
 p479
 aVJanuary 7, 1988, Western Samoa
 p480
-aVSeptember 9, 1985, Wellington
-p481
-aVNovember 6, 1986, Christchurch
-p482
-aVFebruary 10, 1988
-p483
-aVMarch 4, 1987
-p484
-aVJanuary 10, 1980, South Auckland
-p485
-aVJanuary 13, 1983, Christchurch
-p486
-aVJune 18, 1982, Apia, Western Samoa
-p487
-aVMarch 2, 1989, Wellington
-p488
-aVApril 6, 1983, Brisbane, QLD
-p489
-aVAugust 20, 1984, Moto'otua, Western Samoa
-p490
-aVJune 13, 1983, Wellington
-p491
-aVJanuary 21, 1984, Palmerston North
-p492
-aVFebruary 13, 1986, Auckland
-p493
-aVMarch 22, 1980, Western Samoa
-p494
-aVSeptember 18, 1986, Western Samoa
-p495
-aVNovember 10, 1988, Wellington
-p496
-aVSeptember 18, 1988, Vailoa Palauli, Western Samoa
-p497
-aVOctober 22, 1985, Wellington
-p498
-aVAugust 3, 1983
-p499
-aVApril 17, 1989, Otahuhu
-p500
-aVMarch 9, 1986
-p501
-aVFebruary 24, 1989, Auckland
-p502
-aVApril 11, 1987
-p503
-aVFebruary 11, 1989
-p504
-aVMay 24, 1990
-p505
-aVJuly 26, 1986, Moto'otua, Western Samoa
-p506
-aVMay 26, 1985
-p507
-aVMarch 28, 1992, Moto'otua, Western Samoa
-p508
-aVNovember 6, 1987, Wellington
-p509
-aVSeptember 14, 1987, Western Samoa
-p510
-aVMarch 13, 1992
-p511
-aVNovember 18, 1987, Hamilton
-p512
-aVSeptember 21, 1988, Malie, Western Samoa
-p513
-aVDecember 26, 1986, Wellington
-p514
-aVMay 3, 1987, Auckland
-p515
-aVJanuary 22, 1988, Porirua
-p516
-aVJanuary 15, 1986, Porirua
-p517
-aVAugust 24, 1987
-p518
-aVFebruary 18, 1992
-p519
-aVJune 2, 1992
-p520
-aVMarch 5, 1991
-p521
-aVFebruary 17, 1984
-p522
-aVSeptember 1, 1992, Moto'otua, Western Samoa
-p523
-aVJanuary 25, 1991
-p524
-aVApril 7, 1989, Western Samoa
-p525
-aVDecember 22, 1989
-p526
-aVMarch 16, 1991
-p527
-aVdate unknown
-p528
-aVApril 16, 1993
-p529
-aVDecember 29, 1989, Auckland
-p530
-aVFebruary 11, 1989, Brisbane, QLD
-p531
-aVMarch 14, 1984
-p532
-aVMarch 12, 1991, Auckland
-p533
-aVMay 9, 1989, Moto'otua, Western Samoa
-p534
-aVMarch 1, 1986, Apia, Western Samoa
-p535
-aVOctober 23, 1989, Western Samoa
-p536
 a.

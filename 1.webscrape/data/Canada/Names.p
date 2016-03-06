@@ -139,7 +139,7 @@ aS'Doug Schick'
 p70
 aS'W. Thomson'
 p71
-aS'Jordan Allers'
+aS'Pat Aldous'
 p72
 aS'Mike Ashton'
 p73
@@ -813,4 +813,46 @@ aS'Jordan Wilson-Ross'
 p407
 aS'Richard Thorpe'
 p408
+aS'Thyssen de Goede'
+p409
+aS'Callum Morrison'
+p410
+aS'Evan Olmstead'
+p411
+aS'Gradyn Bowd'
+p412
+aS'Paul Ciulini'
+p413
+aS'Dan Moor'
+p414
+aS'Clay Panga'
+p415
+aS'Lucas Rumball'
+p416
+aS'Mozac Samson'
+p417
+aS'Allistair Clark'
+p418
+aS'Kyle Baille'
+p419
+aS'Liam Chisholm'
+p420
+aS'Andrew Ferguson'
+p421
+aS'Duncan Maguire'
+p422
+aS'Brock Staller'
+p423
+aS'Rob Brouwer'
+p424
+aS'Joe Dolesau'
+p425
+aS'Michael Hamson'
+p426
+aS'Eric Howard'
+p427
+aS'Brett Johnson'
+p428
+aS'Jacob Robinson'
+p429
 a.

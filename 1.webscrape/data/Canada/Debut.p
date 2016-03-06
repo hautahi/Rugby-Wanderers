@@ -813,4 +813,46 @@ aVCanada v Namibia at Colwyn Bay, Nov 7, 2014
 p407
 aVCanada v Samoa at Vannes, Nov 14, 2014
 p408
+aVCanada v Japan at San Jose, Jul 18, 2015
+p409
+aVCanada v Japan at San Jose, Jul 18, 2015
+p410
+aVCanada v Samoa at Toronto, Jul 29, 2015
+p411
+aVCanada v Uruguay at Langford, Feb 6, 2016
+p412
+aVCanada v Uruguay at Langford, Feb 6, 2016
+p413
+aVCanada v Uruguay at Langford, Feb 6, 2016
+p414
+aVCanada v Uruguay at Langford, Feb 6, 2016
+p415
+aVCanada v Uruguay at Langford, Feb 6, 2016
+p416
+aVCanada v Uruguay at Langford, Feb 6, 2016
+p417
+aVCanada v Uruguay at Langford, Feb 6, 2016
+p418
+aVUnited States of America v Canada at TX, Feb 13, 2016
+p419
+aVUnited States of America v Canada at TX, Feb 13, 2016
+p420
+aVUnited States of America v Canada at TX, Feb 13, 2016
+p421
+aVUnited States of America v Canada at TX, Feb 13, 2016
+p422
+aVCanada v Brazil at Langford, Feb 20, 2016
+p423
+aVCanada v Brazil at Langford, Feb 20, 2016
+p424
+aVCanada v Brazil at Langford, Feb 20, 2016
+p425
+aVCanada v Brazil at Langford, Feb 20, 2016
+p426
+aVCanada v Brazil at Langford, Feb 20, 2016
+p427
+aVCanada v Brazil at Langford, Feb 20, 2016
+p428
+aVCanada v Brazil at Langford, Feb 20, 2016
+p429
 a.

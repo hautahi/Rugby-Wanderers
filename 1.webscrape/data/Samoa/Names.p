@@ -219,9 +219,9 @@ aS'Keli Tuatagaloa'
 p110
 aS'V. Tuatagaloa'
 p111
-aS'Efu Feagai'
-p112
 aS"Pito Fa'alogo"
+p112
+aS'Efu Feagai'
 p113
 aS'Fealofima Lima'
 p114
@@ -957,116 +957,4 @@ aS"Kahn Fotuali'i"
 p479
 aS'Richard Muagututia'
 p480
-aS'Sinoti Sinoti'
-p481
-aS'Josh Tatupu'
-p482
-aS"Levi Asifa'amatala"
-p483
-aS'Tala Fagasoaia'
-p484
-aS'Tasesa Lavea Levi'
-p485
-aS"Ti'i Paulo"
-p486
-aS'Tusi Pisi'
-p487
-aS"James So'oialo"
-p488
-aS'Ezra Taylor'
-p489
-aS"Tai Tu'ifua"
-p490
-aS'Ole Avei'
-p491
-aS'Johnny Leota'
-p492
-aS'Brenton Helleur'
-p493
-aS'Ray Ofisa Treviranus'
-p494
-aS'Herman Porter'
-p495
-aS"Jeremy Su'a"
-p496
-aS"Fa'atoina Autagavaia"
-p497
-aS'Daniel Crichton'
-p498
-aS'Steve Fualau'
-p499
-aS"Fa'atiga Lemalu"
-p500
-aS'Ben Masoe'
-p501
-aS'Ken Pisi'
-p502
-aS'Alvin Tavana'
-p503
-aS'Nalu Tuigamala'
-p504
-aS'Viliamu Afatia'
-p505
-aS'Paul Perez'
-p506
-aS"Tivaini Foma'i"
-p507
-aS'Robert Lilomaiava'
-p508
-aS'Filo Paulo'
-p509
-aS'Setaimata Sa'
-p510
-aS'Ropeti Lafo'
-p511
-aS'Jack Lam'
-p512
-aS'Alapati Leiua'
-p513
-aS'Manu Leiataua'
-p514
-aS"Brando Va'aulu"
-p515
-aS'Piula Faasalele'
-p516
-aS'Faifili Levave'
-p517
-aS'Isaia Tuifua'
-p518
-aS'Vavao Afemai'
-p519
-aS"Oneone Fa'afou"
-p520
-aS"Patrick Fa'apale"
-p521
-aS'Jake Grey'
-p522
-aS'Aniseko Sio'
-p523
-aS'Tulolo Tulolo'
-p524
-aS'Samuel Aiono'
-p525
-aS'Lio Lolo'
-p526
-aS'Vaiofaga Simanu'
-p527
-aS'Kaino Thomsen-Fuataaga'
-p528
-aS'Pele Cowley'
-p529
-aS'Mike Stanley'
-p530
-aS'Winston Stanley'
-p531
-aS'Patrick Toetu'
-p532
-aS'Alofa Alofa'
-p533
-aS'TJ Ioane'
-p534
-aS'Rey Lee-Lo'
-p535
-aS'Ahsee Tuala'
-p536
 a.
