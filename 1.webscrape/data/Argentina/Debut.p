@@ -885,4 +885,768 @@ aVCanada v Argentina at Burnaby Lake, Mar 30, 1990
 p443
 aVCanada v Argentina at Burnaby Lake, Mar 30, 1990
 p444
+aVArgentina v Canada at Buenos Aires, Jun 16, 1990
+p445
+aVArgentina v Canada at Buenos Aires, Jun 16, 1990
+p446
+aVArgentina v England at Buenos Aires, Aug 4, 1990
+p447
+aVIreland v Argentina at Lansdowne Road, Oct 27, 1990
+p448
+aVIreland v Argentina at Lansdowne Road, Oct 27, 1990
+p449
+aVIreland v Argentina at Lansdowne Road, Oct 27, 1990
+p450
+aVIreland v Argentina at Lansdowne Road, Oct 27, 1990
+p451
+aVIreland v Argentina at Lansdowne Road, Oct 27, 1990
+p452
+aVIreland v Argentina at Lansdowne Road, Oct 27, 1990
+p453
+aVIreland v Argentina at Lansdowne Road, Oct 27, 1990
+p454
+aVIreland v Argentina at Lansdowne Road, Oct 27, 1990
+p455
+aVIreland v Argentina at Lansdowne Road, Oct 27, 1990
+p456
+aVEngland v Argentina at Twickenham, Nov 3, 1990
+p457
+aVScotland v Argentina at Murrayfield, Nov 10, 1990
+p458
+aVArgentina v New Zealand at Buenos Aires, Jul 6, 1991
+p459
+aVArgentina v New Zealand at Buenos Aires, Jul 6, 1991
+p460
+aVArgentina v New Zealand at Buenos Aires, Jul 6, 1991
+p461
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p462
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p463
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p464
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p465
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p466
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p467
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p468
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p469
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p470
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p471
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p472
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p473
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p474
+aVArgentina v Uruguay at Buenos Aires, Sep 21, 1991
+p475
+aVParaguay v Argentina at Asuncion, Sep 28, 1991
+p476
+aVParaguay v Argentina at Asuncion, Sep 28, 1991
+p477
+aVArgentina v Australia at Llanelli, Oct 4, 1991
+p478
+aVArgentina v Australia at Llanelli, Oct 4, 1991
+p479
+aVArgentina v Samoa at Pontypridd, Oct 13, 1991
+p480
+aVArgentina v France at Buenos Aires, Jul 4, 1992
+p481
+aVArgentina v France at Buenos Aires, Jul 4, 1992
+p482
+aVArgentina v Spain at Buenos Aires, Sep 26, 1992
+p483
+aVArgentina v Spain at Buenos Aires, Sep 26, 1992
+p484
+aVArgentina v Spain at Buenos Aires, Sep 26, 1992
+p485
+aVArgentina v Spain at Buenos Aires, Sep 26, 1992
+p486
+aVRomania v Argentina at Bucharest, Oct 31, 1992
+p487
+aVArgentina v Japan at Tucuman, May 15, 1993
+p488
+aVArgentina v Japan at Tucuman, May 15, 1993
+p489
+aVArgentina v Japan at Tucuman, May 15, 1993
+p490
+aVArgentina v Japan at Tucuman, May 15, 1993
+p491
+aVArgentina v Japan at Tucuman, May 15, 1993
+p492
+aVArgentina v Japan at Buenos Aires, May 22, 1993
+p493
+aVBrazil v Argentina at Sao Paulo, Oct 2, 1993
+p494
+aVBrazil v Argentina at Sao Paulo, Oct 2, 1993
+p495
+aVBrazil v Argentina at Sao Paulo, Oct 2, 1993
+p496
+aVBrazil v Argentina at Sao Paulo, Oct 2, 1993
+p497
+aVBrazil v Argentina at Sao Paulo, Oct 2, 1993
+p498
+aVBrazil v Argentina at Sao Paulo, Oct 2, 1993
+p499
+aVArgentina v South Africa at Buenos Aires, Nov 6, 1993
+p500
+aVUnited States of America v Argentina at Long Beach, May 28, 1994
+p501
+aVUnited States of America v Argentina at Long Beach, May 28, 1994
+p502
+aVSouth Africa v Argentina at Port Elizabeth, Oct 8, 1994
+p503
+aVSouth Africa v Argentina at Port Elizabeth, Oct 8, 1994
+p504
+aVSouth Africa v Argentina at Johannesburg, Oct 15, 1994
+p505
+aVArgentina v Uruguay at Buenos Aires, Mar 4, 1995
+p506
+aVArgentina v Uruguay at Buenos Aires, Mar 4, 1995
+p507
+aVArgentina v Uruguay at Buenos Aires, Mar 4, 1995
+p508
+aVArgentina v Uruguay at Buenos Aires, Mar 4, 1995
+p509
+aVArgentina v Canada at Buenos Aires, Mar 10, 1995
+p510
+aVAustralia v Argentina at Brisbane, Apr 30, 1995
+p511
+aVAustralia v Argentina at Brisbane, Apr 30, 1995
+p512
+aVParaguay v Argentina at Asuncion, Sep 24, 1995
+p513
+aVParaguay v Argentina at Asuncion, Sep 24, 1995
+p514
+aVParaguay v Argentina at Asuncion, Sep 24, 1995
+p515
+aVParaguay v Argentina at Asuncion, Sep 24, 1995
+p516
+aVUruguay v Argentina at Montevideo, Jun 8, 1996
+p517
+aVUruguay v Argentina at Montevideo, Jun 8, 1996
+p518
+aVUruguay v Argentina at Montevideo, Jun 8, 1996
+p519
+aVUruguay v Argentina at Montevideo, Jun 8, 1996
+p520
+aVUruguay v Argentina at Montevideo, Jun 8, 1996
+p521
+aVArgentina v France at Buenos Aires, Jun 22, 1996
+p522
+aVArgentina v United States of America at Nepean, Sep 14, 1996
+p523
+aVArgentina v United States of America at Nepean, Sep 14, 1996
+p524
+aVArgentina v United States of America at Nepean, Sep 14, 1996
+p525
+aVArgentina v United States of America at Nepean, Sep 14, 1996
+p526
+aVArgentina v United States of America at Nepean, Sep 14, 1996
+p527
+aVArgentina v United States of America at Nepean, Sep 14, 1996
+p528
+aVArgentina v United States of America at Nepean, Sep 14, 1996
+p529
+aVArgentina v United States of America at Nepean, Sep 14, 1996
+p530
+aVArgentina v United States of America at Nepean, Sep 14, 1996
+p531
+aVArgentina v Uruguay at Hamilton, Sep 18, 1996
+p532
+aVArgentina v Uruguay at Hamilton, Sep 18, 1996
+p533
+aVArgentina v Uruguay at Hamilton, Sep 18, 1996
+p534
+aVArgentina v Uruguay at Hamilton, Sep 18, 1996
+p535
+aVArgentina v Uruguay at Hamilton, Sep 18, 1996
+p536
+aVArgentina v England at Buenos Aires, Jun 7, 1997
+p537
+aVNew Zealand v Argentina at Wellington, Jun 21, 1997
+p538
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p539
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p540
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p541
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p542
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p543
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p544
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p545
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p546
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p547
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p548
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p549
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p550
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p551
+aVArgentina v Paraguay at Corrientes, Sep 13, 1997
+p552
+aVUruguay v Argentina at Montevideo, Sep 27, 1997
+p553
+aVUruguay v Argentina at Montevideo, Sep 27, 1997
+p554
+aVUruguay v Argentina at Montevideo, Sep 27, 1997
+p555
+aVUruguay v Argentina at Montevideo, Sep 27, 1997
+p556
+aVUruguay v Argentina at Montevideo, Sep 27, 1997
+p557
+aVArgentina v Chile at Mendoza, Oct 4, 1997
+p558
+aVArgentina v Chile at Mendoza, Oct 4, 1997
+p559
+aVArgentina v Chile at Mendoza, Oct 4, 1997
+p560
+aVArgentina v Chile at Mendoza, Oct 4, 1997
+p561
+aVArgentina v Chile at Mendoza, Oct 4, 1997
+p562
+aVArgentina v Chile at Mendoza, Oct 4, 1997
+p563
+aVArgentina v Romania at Rosario, Aug 8, 1998
+p564
+aVArgentina v United States of America at Buenos Aires, Aug 15, 1998
+p565
+aVJapan v Argentina at Tokyo, Sep 15, 1998
+p566
+aVJapan v Argentina at Tokyo, Sep 15, 1998
+p567
+aVJapan v Argentina at Tokyo, Sep 15, 1998
+p568
+aVJapan v Argentina at Tokyo, Sep 15, 1998
+p569
+aVJapan v Argentina at Tokyo, Sep 15, 1998
+p570
+aVJapan v Argentina at Tokyo, Sep 15, 1998
+p571
+aVJapan v Argentina at Tokyo, Sep 15, 1998
+p572
+aVJapan v Argentina at Tokyo, Sep 15, 1998
+p573
+aVJapan v Argentina at Tokyo, Sep 15, 1998
+p574
+aVJapan v Argentina at Tokyo, Sep 15, 1998
+p575
+aVParaguay v Argentina at Asuncion, Oct 3, 1998
+p576
+aVParaguay v Argentina at Asuncion, Oct 3, 1998
+p577
+aVParaguay v Argentina at Asuncion, Oct 3, 1998
+p578
+aVParaguay v Argentina at Asuncion, Oct 3, 1998
+p579
+aVParaguay v Argentina at Asuncion, Oct 3, 1998
+p580
+aVParaguay v Argentina at Asuncion, Oct 3, 1998
+p581
+aVParaguay v Argentina at Asuncion, Oct 3, 1998
+p582
+aVParaguay v Argentina at Asuncion, Oct 3, 1998
+p583
+aVParaguay v Argentina at Asuncion, Oct 3, 1998
+p584
+aVChile v Argentina at Santiago, Oct 10, 1998
+p585
+aVChile v Argentina at Santiago, Oct 10, 1998
+p586
+aVChile v Argentina at Santiago, Oct 10, 1998
+p587
+aVChile v Argentina at Santiago, Oct 10, 1998
+p588
+aVChile v Argentina at Santiago, Oct 10, 1998
+p589
+aVArgentina v Uruguay at Buenos Aires, Oct 17, 1998
+p590
+aVArgentina v Wales at Buenos Aires, Jun 5, 1999
+p591
+aVArgentina v Wales at Buenos Aires, Jun 5, 1999
+p592
+aVScotland v Argentina at Murrayfield, Aug 21, 1999
+p593
+aVArgentina v Uruguay at Kingston, May 19, 2001
+p594
+aVArgentina v Uruguay at Kingston, May 19, 2001
+p595
+aVArgentina v Uruguay at Kingston, May 19, 2001
+p596
+aVArgentina v Uruguay at Kingston, May 19, 2001
+p597
+aVArgentina v Uruguay at Kingston, May 19, 2001
+p598
+aVArgentina v Uruguay at Kingston, May 19, 2001
+p599
+aVArgentina v Uruguay at Kingston, May 19, 2001
+p600
+aVArgentina v Uruguay at Kingston, May 19, 2001
+p601
+aVArgentina v Uruguay at Kingston, May 19, 2001
+p602
+aVArgentina v Uruguay at Kingston, May 19, 2001
+p603
+aVArgentina v United States of America at Hamilton, May 23, 2001
+p604
+aVArgentina v United States of America at Hamilton, May 23, 2001
+p605
+aVArgentina v Uruguay at Mendoza, Apr 28, 2002
+p606
+aVArgentina v Uruguay at Mendoza, Apr 28, 2002
+p607
+aVArgentina v Uruguay at Mendoza, Apr 28, 2002
+p608
+aVArgentina v Uruguay at Mendoza, Apr 28, 2002
+p609
+aVArgentina v Paraguay at Mendoza, May 1, 2002
+p610
+aVArgentina v Paraguay at Montevideo, Apr 27, 2003
+p611
+aVArgentina v Paraguay at Montevideo, Apr 27, 2003
+p612
+aVArgentina v Paraguay at Montevideo, Apr 27, 2003
+p613
+aVArgentina v Paraguay at Montevideo, Apr 27, 2003
+p614
+aVArgentina v Paraguay at Montevideo, Apr 27, 2003
+p615
+aVArgentina v Paraguay at Montevideo, Apr 27, 2003
+p616
+aVArgentina v Paraguay at Montevideo, Apr 27, 2003
+p617
+aVArgentina v Paraguay at Montevideo, Apr 27, 2003
+p618
+aVArgentina v Paraguay at Montevideo, Apr 27, 2003
+p619
+aVArgentina v Chile at Montevideo, Apr 30, 2003
+p620
+aVArgentina v Chile at Montevideo, Apr 30, 2003
+p621
+aVArgentina v Chile at Montevideo, Apr 30, 2003
+p622
+aVArgentina v United States of America at Buenos Aires, Aug 23, 2003
+p623
+aVChile v Argentina at Santiago, Apr 25, 2004
+p624
+aVChile v Argentina at Santiago, Apr 25, 2004
+p625
+aVChile v Argentina at Santiago, Apr 25, 2004
+p626
+aVChile v Argentina at Santiago, Apr 25, 2004
+p627
+aVChile v Argentina at Santiago, Apr 25, 2004
+p628
+aVChile v Argentina at Santiago, Apr 25, 2004
+p629
+aVArgentina v Uruguay at Santiago, Apr 28, 2004
+p630
+aVArgentina v Uruguay at Santiago, Apr 28, 2004
+p631
+aVArgentina v Uruguay at Santiago, Apr 28, 2004
+p632
+aVArgentina v Uruguay at Santiago, Apr 28, 2004
+p633
+aVArgentina v Uruguay at Santiago, Apr 28, 2004
+p634
+aVNew Zealand v Argentina at Hamilton, Jun 26, 2004
+p635
+aVArgentina v South Africa at Buenos Aires, Dec 4, 2004
+p636
+aVArgentina v South Africa at Buenos Aires, Dec 4, 2004
+p637
+aVArgentina v South Africa at Buenos Aires, Dec 4, 2004
+p638
+aVArgentina v South Africa at Buenos Aires, Dec 4, 2004
+p639
+aVArgentina v South Africa at Buenos Aires, Dec 4, 2004
+p640
+aVArgentina v South Africa at Buenos Aires, Dec 4, 2004
+p641
+aVArgentina v Japan at Buenos Aires, Apr 23, 2005
+p642
+aVArgentina v Japan at Buenos Aires, Apr 23, 2005
+p643
+aVArgentina v Japan at Buenos Aires, Apr 23, 2005
+p644
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p645
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p646
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p647
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p648
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p649
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p650
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p651
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p652
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p653
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p654
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p655
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p656
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p657
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p658
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p659
+aVArgentina v Chile at Buenos Aires, May 8, 2005
+p660
+aVArgentina v Uruguay at Buenos Aires, May 15, 2005
+p661
+aVArgentina v Uruguay at Buenos Aires, May 15, 2005
+p662
+aVArgentina v Uruguay at Buenos Aires, May 15, 2005
+p663
+aVArgentina v Samoa at Buenos Aires, Dec 3, 2005
+p664
+aVArgentina v Samoa at Buenos Aires, Dec 3, 2005
+p665
+aVArgentina v Samoa at Buenos Aires, Dec 3, 2005
+p666
+aVArgentina v Wales at Puerto Madryn, Jun 11, 2006
+p667
+aVArgentina v Wales at Buenos Aires, Jun 17, 2006
+p668
+aVEngland v Argentina at Twickenham, Nov 11, 2006
+p669
+aVItaly v Argentina at Rome, Nov 18, 2006
+p670
+aVArgentina v Italy at Mendoza, Jun 9, 2007
+p671
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p672
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p673
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p674
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p675
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p676
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p677
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p678
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p679
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p680
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p681
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p682
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p683
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p684
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p685
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p686
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p687
+aVArgentina v Chile at San Juan, Dec 15, 2007
+p688
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p689
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p690
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p691
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p692
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p693
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p694
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p695
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p696
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p697
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p698
+aVUruguay v Argentina at Montevideo, May 31, 2008
+p699
+aVArgentina v Scotland at Rosario, Jun 7, 2008
+p700
+aVArgentina v Italy at Cordoba, Jun 28, 2008
+p701
+aVSouth Africa v Argentina at Johannesburg, Aug 9, 2008
+p702
+aVChile v Argentina at Santiago, Nov 8, 2008
+p703
+aVChile v Argentina at Santiago, Nov 8, 2008
+p704
+aVChile v Argentina at Santiago, Nov 8, 2008
+p705
+aVChile v Argentina at Santiago, Nov 8, 2008
+p706
+aVChile v Argentina at Santiago, Nov 8, 2008
+p707
+aVChile v Argentina at Santiago, Nov 8, 2008
+p708
+aVChile v Argentina at Santiago, Nov 8, 2008
+p709
+aVChile v Argentina at Santiago, Nov 8, 2008
+p710
+aVChile v Argentina at Santiago, Nov 8, 2008
+p711
+aVFrance v Argentina at Marseille, Nov 8, 2008
+p712
+aVItaly v Argentina at Torino, Nov 15, 2008
+p713
+aVItaly v Argentina at Torino, Nov 15, 2008
+p714
+aVArgentina v Chile at Montevideo, May 20, 2009
+p715
+aVArgentina v Chile at Montevideo, May 20, 2009
+p716
+aVArgentina v Chile at Montevideo, May 20, 2009
+p717
+aVArgentina v Chile at Montevideo, May 20, 2009
+p718
+aVArgentina v Chile at Montevideo, May 20, 2009
+p719
+aVArgentina v Chile at Montevideo, May 20, 2009
+p720
+aVArgentina v Chile at Montevideo, May 20, 2009
+p721
+aVArgentina v Chile at Montevideo, May 20, 2009
+p722
+aVArgentina v Chile at Montevideo, May 20, 2009
+p723
+aVArgentina v Chile at Montevideo, May 20, 2009
+p724
+aVArgentina v Chile at Montevideo, May 20, 2009
+p725
+aVArgentina v Chile at Montevideo, May 20, 2009
+p726
+aVArgentina v Chile at Montevideo, May 20, 2009
+p727
+aVArgentina v Chile at Montevideo, May 20, 2009
+p728
+aVArgentina v Chile at Montevideo, May 20, 2009
+p729
+aVArgentina v Chile at Montevideo, May 20, 2009
+p730
+aVEngland v Argentina at Twickenham, Nov 14, 2009
+p731
+aVArgentina v Uruguay at Santiago, May 21, 2010
+p732
+aVArgentina v Uruguay at Santiago, May 21, 2010
+p733
+aVArgentina v Uruguay at Santiago, May 21, 2010
+p734
+aVArgentina v Uruguay at Santiago, May 21, 2010
+p735
+aVArgentina v Uruguay at Santiago, May 21, 2010
+p736
+aVArgentina v Uruguay at Santiago, May 21, 2010
+p737
+aVArgentina v Uruguay at Santiago, May 21, 2010
+p738
+aVChile v Argentina at Santiago, May 23, 2010
+p739
+aVChile v Argentina at Santiago, May 23, 2010
+p740
+aVArgentina v Scotland at Tucuman, Jun 12, 2010
+p741
+aVArgentina v Scotland at Mar del Plata, Jun 19, 2010
+p742
+aVArgentina v France at Buenos Aires, Jun 26, 2010
+p743
+aVFrance v Argentina at Montpellier, Nov 20, 2010
+p744
+aVArgentina v Chile at Cataratas, May 22, 2011
+p745
+aVArgentina v Chile at Cataratas, May 22, 2011
+p746
+aVArgentina v Chile at Cataratas, May 22, 2011
+p747
+aVArgentina v Chile at Cataratas, May 22, 2011
+p748
+aVArgentina v Chile at Cataratas, May 22, 2011
+p749
+aVArgentina v Chile at Cataratas, May 22, 2011
+p750
+aVArgentina v Chile at Cataratas, May 22, 2011
+p751
+aVArgentina v Chile at Cataratas, May 22, 2011
+p752
+aVArgentina v Chile at Cataratas, May 22, 2011
+p753
+aVArgentina v Chile at Cataratas, May 22, 2011
+p754
+aVArgentina v Chile at Cataratas, May 22, 2011
+p755
+aVArgentina v Chile at Cataratas, May 22, 2011
+p756
+aVArgentina v Uruguay at Posadas, May 25, 2011
+p757
+aVArgentina v Uruguay at Posadas, May 25, 2011
+p758
+aVArgentina v Uruguay at Posadas, May 25, 2011
+p759
+aVArgentina v Georgia at Palmerston North, Oct 2, 2011
+p760
+aVArgentina v Georgia at Palmerston North, Oct 2, 2011
+p761
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p762
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p763
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p764
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p765
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p766
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p767
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p768
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p769
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p770
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p771
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p772
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p773
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p774
+aVArgentina v Uruguay at Santiago, May 20, 2012
+p775
+aVArgentina v Brazil at Santiago, May 23, 2012
+p776
+aVArgentina v Brazil at Santiago, May 23, 2012
+p777
+aVArgentina v Italy at San Juan, Jun 9, 2012
+p778
+aVArgentina v France at Cordoba, Jun 16, 2012
+p779
+aVFrance v Argentina at Lille, Nov 17, 2012
+p780
+aVIreland v Argentina at Lansdowne Road, Nov 24, 2012
+p781
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p782
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p783
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p784
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p785
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p786
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p787
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p788
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p789
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p790
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p791
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p792
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p793
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p794
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p795
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p796
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p797
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p798
+aVUruguay v Argentina at Montevideo, Apr 27, 2013
+p799
+aVArgentina v Chile at Montevideo, May 1, 2013
+p800
+aVArgentina v Chile at Montevideo, May 1, 2013
+p801
+aVArgentina v Chile at Montevideo, May 1, 2013
+p802
+aVArgentina v Chile at Montevideo, May 1, 2013
+p803
+aVArgentina v Chile at Montevideo, May 1, 2013
+p804
+aVArgentina v Chile at Montevideo, May 1, 2013
+p805
+aVEngland v Argentina at Twickenham, Nov 9, 2013
+p806
+aVUruguay v Argentina at Paysandu, May 17, 2014
+p807
+aVUruguay v Argentina at Paysandu, May 17, 2014
+p808
+aVUruguay v Argentina at Paysandu, May 17, 2014
+p809
+aVUruguay v Argentina at Paysandu, May 17, 2014
+p810
+aVUruguay v Argentina at Paysandu, May 17, 2014
+p811
+aVUruguay v Argentina at Paysandu, May 17, 2014
+p812
+aVUruguay v Argentina at Paysandu, May 17, 2014
+p813
+aVChile v Argentina at Santiago, May 25, 2014
+p814
+aVArgentina v Ireland at Resistencia, Jun 7, 2014
+p815
+aVArgentina v Scotland at Cordoba, Jun 20, 2014
+p816
+aVScotland v Argentina at Murrayfield, Nov 8, 2014
+p817
+aVScotland v Argentina at Murrayfield, Nov 8, 2014
+p818
+aVItaly v Argentina at Genova, Nov 14, 2014
+p819
+aVFrance v Argentina at Stade de France, Nov 22, 2014
+p820
+aVUruguay v Argentina at Montevideo, May 16, 2015
+p821
+aVUruguay v Argentina at Montevideo, May 16, 2015
+p822
+aVUruguay v Argentina at Montevideo, May 16, 2015
+p823
+aVParaguay v Argentina at Asuncion, May 23, 2015
+p824
+aVParaguay v Argentina at Asuncion, May 23, 2015
+p825
+aVArgentina v Australia at Mendoza, Jul 25, 2015
+p826
 a.

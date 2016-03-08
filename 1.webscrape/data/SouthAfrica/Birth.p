@@ -875,4 +875,662 @@ aVJune 3, 1953, Johannesburg
 p438
 aVAugust 9, 1948, Potchefstroom
 p439
+aVApril 14, 1954, Wynburg
+p440
+aVJanuary 21, 1951, Pretoria
+p441
+aVJanuary 11, 1953, Kirkwood
+p442
+aVMarch 11, 1952, George
+p443
+aVMarch 11, 1952, Krugersdorp
+p444
+aVFebruary 22, 1953, Oudtshoorn
+p445
+aVFebruary 27, 1958, Breyten
+p446
+aVJune 29, 1953, Elsburg
+p447
+aVSeptember 4, 1955, Somerset East
+p448
+aVMay 23, 1953, George
+p449
+aVMarch 26, 1955, Cape Town
+p450
+aVFebruary 15, 1957, Cape Town
+p451
+aVFebruary 27, 1947, Krugersdorp
+p452
+aVDecember 21, 1954, Bloemfontein
+p453
+aVFebruary 20, 1947, Volksrust
+p454
+aVMarch 30, 1951, Wesselsbron
+p455
+aVAugust 3, 1954, Krugersdorp
+p456
+aVNovember 9, 1957, Bulawayo, South Rhodesia
+p457
+aVNovember 10, 1954, Pietersburg
+p458
+aVJuly 4, 1953, Groblersdal
+p459
+aVApril 14, 1958, Port Elizabeth
+p460
+aVJanuary 16, 1951, Schweize-Reneke
+p461
+aVMarch 18, 1950, Caledon
+p462
+aVApril 1, 1955, Johannesburg
+p463
+aVSeptember 12, 1952, Nuwerus
+p464
+aVJune 26, 1955, Breyten
+p465
+aVAugust 23, 1953, Villiersdorp
+p466
+aVJune 5, 1954, Griekwastad
+p467
+aVFebruary 11, 1955, Okahandja
+p468
+aVMay 18, 1956, Kroonstad
+p469
+aVJuly 8, 1957, Dibeng
+p470
+aVNovember 26, 1958, Cape Town
+p471
+aVMarch 27, 1959, Strand
+p472
+aVJanuary 26, 1958, George
+p473
+aVJune 24, 1960, Somerset East
+p474
+aVOctober 6, 1955, Cape Town
+p475
+aVOctober 10, 1956, Bulawayo, South Rhodesia
+p476
+aVNovember 3, 1954, Ceres
+p477
+aVJune 27, 1959, Nelspruit
+p478
+aVFebruary 10, 1961, Paarl
+p479
+aVApril 7, 1958, George
+p480
+aVNovember 4, 1958, Somerset East
+p481
+aVMarch 17, 1959, Kroonstad
+p482
+aVOctober 30, 1956, Haileybury, Herts
+p483
+aVSeptember 2, 1959, Calvinia
+p484
+aVJune 13, 1963, Florida
+p485
+aVJune 4, 1959, Kempton Park
+p486
+aVAugust 28, 1960, Welkom
+p487
+aVJanuary 1, 1962, Ceres
+p488
+aVJuly 10, 1961, Pretoria
+p489
+aVDecember 27, 1961, Kimberley
+p490
+aVJune 19, 1959, Ceres
+p491
+aVApril 11, 1958, Brits
+p492
+aVSeptember 9, 1963, East London
+p493
+aVJune 1, 1963, Bloemfontein
+p494
+aVMarch 31, 1964, Paarl
+p495
+aVNovember 11, 1958, Victoria West
+p496
+aVJanuary 18, 1963, Parow
+p497
+aVSeptember 6, 1961, Germiston
+p498
+aVJune 23, 1962, Harrismith
+p499
+aVApril 15, 1964, Ladysmith
+p500
+aVJuly 19, 1963, Potchefstroom
+p501
+aVJuly 11, 1964, Clanwilliam
+p502
+aVApril 13, 1970, Douglas
+p503
+aVFebruary 22, 1968, Pretoria
+p504
+aVJuly 5, 1959, Pietermaritzburg
+p505
+aVMay 5, 1969, Bloemfontein
+p506
+aVFebruary 10, 1969, Cape Town
+p507
+aVAugust 26, 1967, Carletonville
+p508
+aVMarch 8, 1971, Hoopstad, OFS
+p509
+aVJanuary 31, 1962, Bloemfontein
+p510
+aVFebruary 21, 1968, Rustenburg
+p511
+aVJanuary 26, 1962, Pretoria
+p512
+aVNovember 13, 1968, Pretoria
+p513
+aVJanuary 5, 1961, Johannesburg
+p514
+aVMay 10, 1966, Roodepoort
+p515
+aVJune 28, 1965, Upington
+p516
+aVMay 3, 1962, Molteno
+p517
+aVAugust 13, 1965, Cape Town
+p518
+aVJuly 10, 1967, Grahamstown
+p519
+aVJanuary 2, 1967, Vereeniging
+p520
+aVMay 16, 1964, Paarl
+p521
+aVNovember 10, 1957, Stellenbosch
+p522
+aVJuly 13, 1965, Welkom
+p523
+aVDecember 3, 1968, Nelspruit
+p524
+aVJuly 16, 1967, Pietermaritzburg
+p525
+aVMay 18, 1964, Malmesbury
+p526
+aVNovember 25, 1963, Glasgow
+p527
+aVDecember 1, 1965, Estcourt
+p528
+aVMarch 17, 1965, Gosport
+p529
+aVMay 2, 1966, Cape Town
+p530
+aVMarch 30, 1970, Vrede
+p531
+aVFebruary 20, 1971, Pretoria
+p532
+aVMarch 15, 1971, Senekal
+p533
+aVOctober 17, 1966, Louis Trichardt
+p534
+aVAugust 8, 1970, Paarl
+p535
+aVMay 10, 1973, Fort Beaufort
+p536
+aVJune 29, 1970, Roodepoort
+p537
+aVDecember 29, 1969, Johannesburg
+p538
+aVFebruary 21, 1972, Elliot
+p539
+aVNovember 15, 1961, Vereeniging
+p540
+aVFebruary 25, 1969, Pretoria
+p541
+aVAugust 20, 1963, Pretoria
+p542
+aVOctober 18, 1969, Springs
+p543
+aVSeptember 8, 1972, Elliot
+p544
+aVOctober 8, 1963, Vredenburg
+p545
+aVOctober 22, 1970, Stutterheim
+p546
+aVAugust 16, 1972, Johannesburg
+p547
+aVDecember 12, 1965, Windhoek, South-West Africa
+p548
+aVDecember 9, 1966, Pretoria
+p549
+aVOctober 7, 1969, Pretoria
+p550
+aVSeptember 14, 1969, Delmas
+p551
+aVMarch 30, 1969, Cape Town
+p552
+aVSeptember 17, 1966, King William's Town
+p553
+aVJuly 21, 1971, Pretoria
+p554
+aVOctober 8, 1970, Potchefstroom
+p555
+aVOctober 8, 1971, Belfast
+p556
+aVJanuary 9, 1967, Gwelo, Rhodesia
+p557
+aVDecember 30, 1969, Senekal
+p558
+aVJune 3, 1970, Benoni
+p559
+aVJuly 23, 1972, Stellenbosch
+p560
+aVFebruary 1, 1975, Boksburg
+p561
+aVSeptember 15, 1966, Bloemfontein
+p562
+aVFebruary 2, 1974, Newcastle, Natal
+p563
+aVDecember 29, 1966, Otjiwarongo, South-West Africa
+p564
+aVNovember 14, 1970, Vereeniging
+p565
+aVMarch 26, 1968, Williston
+p566
+aVMarch 28, 1972, Harrismith
+p567
+aVJune 25, 1968, Bulawayo, Rhodesia
+p568
+aVJuly 29, 1969, Caledon
+p569
+aVNovember 22, 1971, Adelaide
+p570
+aVMarch 15, 1974, Walvis Bay, South-West Africa
+p571
+aVDecember 3, 1971, Swellendam
+p572
+aVApril 22, 1971, Welkom
+p573
+aVNovember 5, 1972, Despatch
+p574
+aVApril 15, 1973, Bloemfontein
+p575
+aVDecember 28, 1971, Paarl
+p576
+aVOctober 19, 1971, Nelspruit
+p577
+aVNovember 1, 1971, Kroonstad
+p578
+aVMarch 20, 1965, Kokstad
+p579
+aVJune 10, 1968, Durban
+p580
+aVJuly 3, 1976, Bulawayo, Rhodesia
+p581
+aVNovember 6, 1967, Port Elizabeth
+p582
+aVJuly 29, 1972, Lichtenburg
+p583
+aVMarch 24, 1976, Cape Town
+p584
+aVJuly 2, 1975, Mossel Bay
+p585
+aVJuly 10, 1973, Malmesbury
+p586
+aVFebruary 23, 1974, Queenstown
+p587
+aVOctober 17, 1966, Toronto, ON
+p588
+aVApril 16, 1975, Somerset West
+p589
+aVJuly 17, 1975, Cape Town
+p590
+aVApril 25, 1976, Koue Bokkeveld
+p591
+aVOctober 31, 1973, Stellenbosch
+p592
+aVSeptember 2, 1970, Bothaville
+p593
+aVJanuary 26, 1974, Hoopstad
+p594
+aVMay 10, 1975, Stellenbosch
+p595
+aVJanuary 9, 1975, East London
+p596
+aVMarch 21, 1975, Lusaka
+p597
+aVJuly 3, 1970, Uitenhage
+p598
+aVSeptember 28, 1971, Pretoria
+p599
+aVMay 31, 1974, Durban
+p600
+aVOctober 23, 1978, Paarl
+p601
+aVJanuary 30, 1976, Lady Frere
+p602
+aVJune 24, 1978, Ceres
+p603
+aVFebruary 2, 1975, Port Elizabeth
+p604
+aVApril 3, 1978, Pietersburg
+p605
+aVJuly 7, 1975, Cape Town
+p606
+aVApril 28, 1976, Alexander Bay
+p607
+aVApril 16, 1976, Bloemhof
+p608
+aVApril 6, 1978, Nelspruit
+p609
+aVJuly 29, 1973, Zastron
+p610
+aVJanuary 8, 1971, Pretoria
+p611
+aVDecember 14, 1972, Durban
+p612
+aVSeptember 2, 1977, Springs
+p613
+aVJanuary 8, 1979, Johannesburg
+p614
+aVNovember 20, 1978, Cape Town
+p615
+aVMarch 24, 1980, Boksburg
+p616
+aVMay 11, 1977, Pietersburg
+p617
+aVMarch 18, 1976, Bloemfontein
+p618
+aVJuly 10, 1979, Paarl
+p619
+aVMay 4, 1980, Port Elizabeth
+p620
+aVJune 17, 1976, Margate
+p621
+aVMay 11, 1975, Empangeni
+p622
+aVAugust 14, 1980, Kraaifontein
+p623
+aVAugust 8, 1978, Johannesburg
+p624
+aVNovember 7, 1973, Durban
+p625
+aVFebruary 24, 1978, Cape Town
+p626
+aVApril 3, 1976, Bloemfontein
+p627
+aVJune 11, 1974, Colesberg
+p628
+aVDecember 29, 1978, Johannesburg
+p629
+aVFebruary 22, 1976, Bethlehem
+p630
+aVMarch 5, 1980, Port Elizabeth
+p631
+aVJuly 17, 1975, Bellville
+p632
+aVFebruary 23, 1977, King William's Town
+p633
+aVMarch 2, 1976, Paarl
+p634
+aVJuly 14, 1977, Bellville
+p635
+aVSeptember 2, 1977, Harrismith
+p636
+aVJune 12, 1975, Queenstown
+p637
+aVJuly 1, 1978, Vereeniging
+p638
+aVMarch 22, 1979, Bethlehem
+p639
+aVSeptember 22, 1979, Newcastle, Natal
+p640
+aVFebruary 24, 1981, Paarl
+p641
+aVOctober 1, 1976, Bothaville
+p642
+aVJanuary 2, 1981, Nelspruit
+p643
+aVMay 6, 1979, George
+p644
+aVJune 3, 1979, Goodwood
+p645
+aVMarch 4, 1979, Frankfort
+p646
+aVFebruary 5, 1976, Mossel Bay
+p647
+aVAugust 27, 1980, Welkom
+p648
+aVApril 3, 1975, Cape Town
+p649
+aVMarch 25, 1974, Mafeking
+p650
+aVApril 12, 1976, George
+p651
+aVFebruary 25, 1979, Johannesburg
+p652
+aVSeptember 8, 1981, Caledon
+p653
+aVJuly 30, 1981, Bloemfontein
+p654
+aVSeptember 12, 1979, King William's Town
+p655
+aVAugust 18, 1969, Cape Town
+p656
+aVMarch 1, 1981, Fochville
+p657
+aVJuly 23, 1980, Klerksdorp
+p658
+aVMay 14, 1970, Canary Is
+p659
+aVMarch 4, 1983, Carletonville
+p660
+aVMay 6, 1978, Sabie
+p661
+aVJanuary 4, 1983, Citrusdal
+p662
+aVApril 13, 1983, Port Elizabeth
+p663
+aVMarch 18, 1977, Cape Town
+p664
+aVAugust 4, 1982, Klerksdorp
+p665
+aVMarch 24, 1982, Pretoria
+p666
+aVSeptember 25, 1979, Ermelo
+p667
+aVApril 14, 1978, Bloemfontein
+p668
+aVApril 17, 1978, Elim
+p669
+aVOctober 28, 1982, Kroonstad
+p670
+aVJune 5, 1981, Umtala
+p671
+aVJune 12, 1983, Johannesburg
+p672
+aVJune 12, 1981, Paarl
+p673
+aVJune 23, 1979, Port Elizabeth
+p674
+aVDecember 24, 1983, Masvingo
+p675
+aVFebruary 2, 1982, Hopefield
+p676
+aVOctober 12, 1981, Pretoria
+p677
+aVApril 19, 1985, Bethlehem
+p678
+aVJanuary 6, 1980, Mossel Bay
+p679
+aVJune 11, 1983, Welkom
+p680
+aVFebruary 20, 1981, Umtala, Transkei
+p681
+aVJune 8, 1985, Pretoria
+p682
+aVJanuary 4, 1980, Durban
+p683
+aVMarch 10, 1984, Bloemfontein
+p684
+aVSeptember 11, 1986, Tzaneen
+p685
+aVJuly 12, 1986, Stellenbosch
+p686
+aVFebruary 6, 1979, George
+p687
+aVDecember 10, 1979, Johannesburg
+p688
+aVMay 14, 1987, Aliwal North
+p689
+aVJune 11, 1986, Paarl
+p690
+aVNovember 15, 1980, Oudtshoorn
+p691
+aVApril 27, 1986, Durban
+p692
+aVOctober 26, 1983, Port Elizabeth
+p693
+aVNovember 16, 1982, Bethlehem
+p694
+aVMay 22, 1984, Bethlehem
+p695
+aVAugust 15, 1984, Durban
+p696
+aVOctober 14, 1985, Port Elizabeth
+p697
+aVMay 3, 1985, Johannesburg
+p698
+aVDecember 5, 1983, Goodwood
+p699
+aVSeptember 28, 1984, Bulawayo
+p700
+aVAugust 1, 1985, Harare
+p701
+aVFebruary 20, 1981, Umtala, Transkei
+p702
+aVMay 16, 1981, Empangeni
+p703
+aVNovember 18, 1985, Bloemfontein
+p704
+aVDecember 30, 1981, Eastern Cape
+p705
+aVJuly 21, 1986, Bloemfontein
+p706
+aVJuly 11, 1984, Bellville
+p707
+aVJune 16, 1984, George
+p708
+aVOctober 30, 1982, Bloemfontein
+p709
+aVMarch 5, 1985, Virginia
+p710
+aVApril 6, 1988, Paarl
+p711
+aVFebruary 22, 1987, Port Elizabeth
+p712
+aVOctober 6, 1982, Hermanus
+p713
+aVApril 15, 1988, Paarl
+p714
+aVJune 15, 1985, Cape Town
+p715
+aVFebruary 11, 1987, King William's Town
+p716
+aVApril 29, 1986, Durban
+p717
+aVJune 6, 1985, Potchefstroom
+p718
+aVJuly 24, 1986, King William's Town
+p719
+aVMarch 23, 1986, Cradock
+p720
+aVMarch 5, 1985, Humansdorp
+p721
+aVOctober 17, 1990, Durban
+p722
+aVMay 11, 1984, Pretoria
+p723
+aVJune 3, 1986, Umtala
+p724
+aVJanuary 1, 1986, Potgietersrus
+p725
+aVMay 16, 1986, Wynberg
+p726
+aVJanuary 23, 1985, Kempton Park
+p727
+aVOctober 4, 1984, Rustenburg
+p728
+aVAugust 5, 1983, Johannesburg
+p729
+aVMay 8, 1991, Potchefstroom
+p730
+aVOctober 29, 1991, Cape Town
+p731
+aVSeptember 6, 1985, Cape Town
+p732
+aVMarch 22, 1989, Potchefstroom
+p733
+aVApril 24, 1986, Port Elizabeth
+p734
+aVMarch 3, 1987, Pietermaritzburg
+p735
+aVFebruary 22, 1989, Port Elizabeth
+p736
+aVDecember 18, 1981, Kimberley
+p737
+aVJuly 3, 1986, Nelspruit
+p738
+aVJuly 27, 1992, Burgersdorp
+p739
+aVFebruary 21, 1991, Springs
+p740
+aVAugust 1, 1990, Graaff Reinet
+p741
+aVOctober 26, 1991, Modimolle
+p742
+aVAugust 18, 1989, Cape Town
+p743
+aVJanuary 1, 1985, Graaff-Reinet
+p744
+aVMay 4, 1989, Bushbuck Ridge
+p745
+aVApril 15, 1993, Port Elizabeth
+p746
+aVJune 16, 1991, Port Elizabeth
+p747
+aVSeptember 14, 1989, Pretoria
+p748
+aVMarch 15, 1983, Paarl
+p749
+aVMarch 14, 1991, Paarl
+p750
+aVAugust 20, 1992, Cape Town
+p751
+aVFebruary 5, 1988, Cape Town
+p752
+aVApril 18, 1988, Paarl
+p753
+aVDecember 17, 1992, Alberton
+p754
+aVMarch 9, 1994, Somerset West
+p755
+aVJanuary 11, 1989, Nelspruit
+p756
+aVJanuary 27, 1992, Pretoria
+p757
+aVAugust 3, 1990, Qwa Qwa
+p758
+aVOctober 24, 1990, Welkom
+p759
+aVNovember 25, 1991, Cape Town
+p760
+aVSeptember 18, 1987, Durban
+p761
+aVFebruary 7, 1990, Bloemfontein
+p762
+aVApril 4, 1991, Cape Town
+p763
+aVSeptember 11, 1989, Pretoria
+p764
+aVFebruary 15, 1994, Cape Town
+p765
+aVMarch 13, 1990, Empangeni
+p766
+aVJuly 13, 1988, Port Elizabeth
+p767
+aVAugust 2, 1989, Riversdale
+p768
 a.

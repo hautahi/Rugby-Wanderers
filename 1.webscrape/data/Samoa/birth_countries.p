@@ -2511,4 +2511,701 @@ aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-d
 p1329
 aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
 p1330
-aaNa.
+aaNa(lp1331
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p1332
+aVWellington, New Zealand/Aotearoa
+p1333
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p1334
+aVWellington, Somerset, South West England, England, United Kingdom
+p1335
+aVWellington, Collingsworth County, Texas, United States of America
+p1336
+aVWellington, Jefferson County, Kentucky, United States of America
+p1337
+aVWellington, Palm Beach County, Florida, United States of America
+p1338
+aVWellington, Palm Beach County, Florida, United States of America
+p1339
+aVWellington, Larimer County, Colorado, United States of America
+p1340
+aVWellington, Prince County, Prince Edward Island, Canada
+p1341
+aa(lp1342
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p1343
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p1344
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p1345
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p1346
+aVChristchurch, Middlesex, Virginia, United States of America
+p1347
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p1348
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p1349
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p1350
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p1351
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p1352
+aa(lp1353
+V1988, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1354
+aVR3, Almar, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1355
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1356
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1357
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1358
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1359
+aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1360
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1361
+aVMYMN-Rd-1, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1362
+aa(lp1363
+V1987, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1364
+aVMandelon, Hérémence, Hérens, Valais - Wallis, 1987, Schweiz, Suisse, Svizzera, Svizra
+p1365
+aVRanchos, Partido de General Paz, Bs. As., 1987, Argentina
+p1366
+aV\u041a1987, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1367
+aV1987, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01815, Slovensko
+p1368
+aV1987, Bodiná, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01815, Slovensko
+p1369
+aV1987, Kotvina, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p1370
+aV1987, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43163, \u010cesko
+p1371
+aV1987, Oslovice, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43163, \u010cesko
+p1372
+aV1987, Strá\u017e nad Oh\u0159í, okres Karlovy Vary, Karlovarský kraj, Severozápad, \u010cesko
+p1373
+aa(lp1374
+VAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p1375
+aa(lp1376
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p1377
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p1378
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p1379
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p1380
+aVChristchurch, Middlesex, Virginia, United States of America
+p1381
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p1382
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p1383
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p1384
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p1385
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p1386
+aa(lp1387
+VAuckland, 1010, New Zealand/Aotearoa
+p1388
+aVAuckland, New Zealand/Aotearoa
+p1389
+aVAuckland, Tulare County, California, United States of America
+p1390
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p1391
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p1392
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p1393
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p1394
+aa(lp1395
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p1396
+aVWellington, New Zealand/Aotearoa
+p1397
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p1398
+aVWellington, Somerset, South West England, England, United Kingdom
+p1399
+aVWellington, Collingsworth County, Texas, United States of America
+p1400
+aVWellington, Jefferson County, Kentucky, United States of America
+p1401
+aVWellington, Palm Beach County, Florida, United States of America
+p1402
+aVWellington, Palm Beach County, Florida, United States of America
+p1403
+aVWellington, Larimer County, Colorado, United States of America
+p1404
+aVWellington, Prince County, Prince Edward Island, Canada
+p1405
+aa(lp1406
+VQLD, Australia
+p1407
+aV\u0642\u0644\u062f, \u2018Amr\u0101n, \u0627\u0644\u064a\u0645\u0646
+p1408
+aVNew Farm State School, Heal Street, New Farm, Brisbane, QLD, 4005, Australia
+p1409
+aVBase aérienne de Blida, RN 69, Cité 13 Mai, Blida \u0627\u0644\u0628\u0644\u06cc\u062f\u0647, Blida, Daïra Blida, Blida - \u0627\u0644\u0628\u0644\u064a\u062f\u0629, 09000, Algérie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p1410
+aaNa(lp1411
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p1412
+aVWellington, New Zealand/Aotearoa
+p1413
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p1414
+aVWellington, Somerset, South West England, England, United Kingdom
+p1415
+aVWellington, Collingsworth County, Texas, United States of America
+p1416
+aVWellington, Jefferson County, Kentucky, United States of America
+p1417
+aVWellington, Palm Beach County, Florida, United States of America
+p1418
+aVWellington, Palm Beach County, Florida, United States of America
+p1419
+aVWellington, Larimer County, Colorado, United States of America
+p1420
+aVWellington, Prince County, Prince Edward Island, Canada
+p1421
+aa(lp1422
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p1423
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p1424
+aa(lp1425
+VAuckland, 1010, New Zealand/Aotearoa
+p1426
+aVAuckland, New Zealand/Aotearoa
+p1427
+aVAuckland, Tulare County, California, United States of America
+p1428
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p1429
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p1430
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p1431
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p1432
+aaNaNa(lp1433
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p1434
+aVWellington, New Zealand/Aotearoa
+p1435
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p1436
+aVWellington, Somerset, South West England, England, United Kingdom
+p1437
+aVWellington, Collingsworth County, Texas, United States of America
+p1438
+aVWellington, Jefferson County, Kentucky, United States of America
+p1439
+aVWellington, Palm Beach County, Florida, United States of America
+p1440
+aVWellington, Palm Beach County, Florida, United States of America
+p1441
+aVWellington, Larimer County, Colorado, United States of America
+p1442
+aVWellington, Prince County, Prince Edward Island, Canada
+p1443
+aaNa(lp1444
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p1445
+aVWellington, New Zealand/Aotearoa
+p1446
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p1447
+aVWellington, Somerset, South West England, England, United Kingdom
+p1448
+aVWellington, Collingsworth County, Texas, United States of America
+p1449
+aVWellington, Jefferson County, Kentucky, United States of America
+p1450
+aVWellington, Palm Beach County, Florida, United States of America
+p1451
+aVWellington, Palm Beach County, Florida, United States of America
+p1452
+aVWellington, Larimer County, Colorado, United States of America
+p1453
+aVWellington, Prince County, Prince Edward Island, Canada
+p1454
+aa(lp1455
+VKöping, Västmanlands län, Svealand, Sverige
+p1456
+aVFlanmayens, Evolène, Hérens, Valais - Wallis, 1983, Schweiz, Suisse, Svizzera, Svizra
+p1457
+aVAbasto, Partido de La Plata, Bs. As., 1983, Argentina
+p1458
+aV1983, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
+p1459
+aVRobotnícka, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
+p1460
+aVMilana Rastislava \u0160tefánika, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
+p1461
+aVR-C, \u0648\u0644\u0627\u06cc\u062a \u063a\u0648\u0631, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1462
+aa(lp1463
+VOtahuhu, Mangere-Otahuhu, Auckland, New Zealand/Aotearoa
+p1464
+aV\u014ct\u0101huhu / Mount Richmond, Maungakiekie-Tamaki, Auckland, New Zealand/Aotearoa
+p1465
+aV\u014ct\u0101huhu, Walmsley Road Footbridge, Otahuhu, Mangere-Otahuhu, Auckland, 1062, New Zealand/Aotearoa
+p1466
+aa(lp1467
+V1986, \u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1468
+aV\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0439\u043e\u0440\u043e\u0432\u0430, \u041d\u0435\u0444\u0442\u0435\u0441\u0442\u0440\u043e\u0439, \u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 150023, \u0420\u043e\u0441\u0441\u0438\u044f
+p1469
+aVWriezener Karree, Fhain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland
+p1470
+aVVängavägen, Alingsås kommun, Alingsås, Västra Götalands län, Götaland, Sverige
+p1471
+aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Lestkov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p1472
+aV1986, Velká Lesná, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p1473
+aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p1474
+aV1986, Praznov, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1475
+aV1986, SNP, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1476
+aVSierra Toledana - Patio Santiago, Calle de la Sierra Toledana, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28038, España
+p1477
+aa(lp1478
+VAuckland, 1010, New Zealand/Aotearoa
+p1479
+aVAuckland, New Zealand/Aotearoa
+p1480
+aVAuckland, Tulare County, California, United States of America
+p1481
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p1482
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p1483
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p1484
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p1485
+aa(lp1486
+V1987, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1487
+aVMandelon, Hérémence, Hérens, Valais - Wallis, 1987, Schweiz, Suisse, Svizzera, Svizra
+p1488
+aVRanchos, Partido de General Paz, Bs. As., 1987, Argentina
+p1489
+aV\u041a1987, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1490
+aV1987, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01815, Slovensko
+p1491
+aV1987, Bodiná, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01815, Slovensko
+p1492
+aV1987, Kotvina, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p1493
+aV1987, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43163, \u010cesko
+p1494
+aV1987, Oslovice, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43163, \u010cesko
+p1495
+aV1987, Strá\u017e nad Oh\u0159í, okres Karlovy Vary, Karlovarský kraj, Severozápad, \u010cesko
+p1496
+aa(lp1497
+V\u041a1989, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1498
+aV1989, Po\u010darová, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1499
+aV1989, Úho\u0161\u0165any, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p1500
+aV1989, Domani\u017ea, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1501
+aV1989, Zemianska Závada, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1502
+aV1989, Dereham Road, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 3TL, United Kingdom
+p1503
+aaNaNa(lp1504
+VDriehuis NH, Velsen, MRA, Noord-Holland, Nederland, 1985, Nederland
+p1505
+aVMotau, Evolène, Hérens, Valais - Wallis, 1985, Schweiz, Suisse, Svizzera, Svizra
+p1506
+aV1985, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p1507
+aV1985, Pokutice, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p1508
+aV1985, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p1509
+aV1985, Zásada u Kadan\u011b, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p1510
+aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p1511
+aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p1512
+aVRa\u0161ovice, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p1513
+aaNa(lp1514
+VPorirua, Porirua City, Wellington, New Zealand/Aotearoa
+p1515
+aVPorirua, informal path from Porirua Station to Kenepuru Station, Ranui Heights, Porirua, Porirua City, Wellington, 5022, New Zealand/Aotearoa
+p1516
+aVPorirua, informal path from Porirua Station to Kenepuru Station, Ranui Heights, Porirua, Porirua City, Wellington, 5022, New Zealand/Aotearoa
+p1517
+aaNa(lp1518
+V1992, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1519
+aVLes Agettes, Hérens, Valais - Wallis, 1992, Schweiz, Suisse, Svizzera, Svizra
+p1520
+aV\u041a1992, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1521
+aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
+p1522
+aV1992, T\u011bchlovice u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
+p1523
+aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1524
+aV1992, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1525
+aV1992, Nynkov, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1526
+aVTorggatan, Kyrkholmen, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
+p1527
+aVStorgatan, Norrbacka, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
+p1528
+aa(lp1529
+VHamilton, Ontario, Canada
+p1530
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p1531
+aVHamilton County, Illinois, United States of America
+p1532
+aVHamilton County, Kansas, United States of America
+p1533
+aVHamilton, Tennessee, United States of America
+p1534
+aVHamilton, Bermuda
+p1535
+aVHamilton County, Ohio, United States of America
+p1536
+aVHamilton, Butler County, Ohio, United States of America
+p1537
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p1538
+aVHamilton, City of Hamilton, Bermuda
+p1539
+aaNa(lp1540
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p1541
+aVWellington, New Zealand/Aotearoa
+p1542
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p1543
+aVWellington, Somerset, South West England, England, United Kingdom
+p1544
+aVWellington, Collingsworth County, Texas, United States of America
+p1545
+aVWellington, Jefferson County, Kentucky, United States of America
+p1546
+aVWellington, Palm Beach County, Florida, United States of America
+p1547
+aVWellington, Palm Beach County, Florida, United States of America
+p1548
+aVWellington, Larimer County, Colorado, United States of America
+p1549
+aVWellington, Prince County, Prince Edward Island, Canada
+p1550
+aa(lp1551
+VAuckland, 1010, New Zealand/Aotearoa
+p1552
+aVAuckland, New Zealand/Aotearoa
+p1553
+aVAuckland, Tulare County, California, United States of America
+p1554
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p1555
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p1556
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p1557
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p1558
+aa(lp1559
+VPorirua, Porirua City, Wellington, New Zealand/Aotearoa
+p1560
+aVPorirua, informal path from Porirua Station to Kenepuru Station, Ranui Heights, Porirua, Porirua City, Wellington, 5022, New Zealand/Aotearoa
+p1561
+aVPorirua, informal path from Porirua Station to Kenepuru Station, Ranui Heights, Porirua, Porirua City, Wellington, 5022, New Zealand/Aotearoa
+p1562
+aa(lp1563
+VPorirua, Porirua City, Wellington, New Zealand/Aotearoa
+p1564
+aVPorirua, informal path from Porirua Station to Kenepuru Station, Ranui Heights, Porirua, Porirua City, Wellington, 5022, New Zealand/Aotearoa
+p1565
+aVPorirua, informal path from Porirua Station to Kenepuru Station, Ranui Heights, Porirua, Porirua City, Wellington, 5022, New Zealand/Aotearoa
+p1566
+aa(lp1567
+V1987, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1568
+aVMandelon, Hérémence, Hérens, Valais - Wallis, 1987, Schweiz, Suisse, Svizzera, Svizra
+p1569
+aVRanchos, Partido de General Paz, Bs. As., 1987, Argentina
+p1570
+aV\u041a1987, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1571
+aV1987, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01815, Slovensko
+p1572
+aV1987, Bodiná, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01815, Slovensko
+p1573
+aV1987, Kotvina, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p1574
+aV1987, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43163, \u010cesko
+p1575
+aV1987, Oslovice, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43163, \u010cesko
+p1576
+aV1987, Strá\u017e nad Oh\u0159í, okres Karlovy Vary, Karlovarský kraj, Severozápad, \u010cesko
+p1577
+aaNa(lp1578
+V1992, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1579
+aVLes Agettes, Hérens, Valais - Wallis, 1992, Schweiz, Suisse, Svizzera, Svizra
+p1580
+aV\u041a1992, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1581
+aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
+p1582
+aV1992, T\u011bchlovice u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
+p1583
+aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1584
+aV1992, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1585
+aV1992, Nynkov, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1586
+aVTorggatan, Kyrkholmen, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
+p1587
+aVStorgatan, Norrbacka, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
+p1588
+aaNaNaNa(lp1589
+VVelserbroek, Velsen, MRA, Noord-Holland, Nederland, 1991, Nederland
+p1590
+aVSion, Valais - Wallis, 1991, Schweiz, Suisse, Svizzera, Svizra
+p1591
+aV1991, Málkovice, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1592
+aV1991, Kurojedy, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1593
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1594
+aVR-C, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1595
+aVDinetard, Rue Louis Plana, Jolimont - Soupetard - Bonhoure, Toulouse Est, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France
+p1596
+aV1991, Lurzenbacher Straße, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
+p1597
+aV1991, \u0e16\u0e19\u0e19\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e27\u0e07\u0e28\u0e4c, \u0e0a\u0e49\u0e32\u0e07\u0e40\u0e1c\u0e37\u0e2d\u0e01, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50000, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22
+p1598
+aV1991, K 7504, Maselheim, Verwaltungsgemeinschaft Biberach an der Riß, Landkreis Biberach, Regierungsbezirk Tübingen, Baden-Württemberg, 88437, Deutschland
+p1599
+aaNa(lp1600
+V\u041a1989, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1601
+aV1989, Po\u010darová, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1602
+aV1989, Úho\u0161\u0165any, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p1603
+aV1989, Domani\u017ea, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1604
+aV1989, Zemianska Závada, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1605
+aV1989, Dereham Road, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 3TL, United Kingdom
+p1606
+aa(lp1607
+VVelserbroek, Velsen, MRA, Noord-Holland, Nederland, 1991, Nederland
+p1608
+aVSion, Valais - Wallis, 1991, Schweiz, Suisse, Svizzera, Svizra
+p1609
+aV1991, Málkovice, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1610
+aV1991, Kurojedy, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1611
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1612
+aVR-C, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1613
+aVDinetard, Rue Louis Plana, Jolimont - Soupetard - Bonhoure, Toulouse Est, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France
+p1614
+aV1991, Lurzenbacher Straße, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
+p1615
+aV1991, \u0e16\u0e19\u0e19\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e27\u0e07\u0e28\u0e4c, \u0e0a\u0e49\u0e32\u0e07\u0e40\u0e1c\u0e37\u0e2d\u0e01, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50000, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22
+p1616
+aV1991, K 7504, Maselheim, Verwaltungsgemeinschaft Biberach an der Riß, Landkreis Biberach, Regierungsbezirk Tübingen, Baden-Württemberg, 88437, Deutschland
+p1617
+aaNa(lp1618
+VVeysonnaz, Sion, Valais - Wallis, 1993, Schweiz, Suisse, Svizzera, Svizra
+p1619
+aV1993, Lobzy u O\u0161elína, O\u0161elín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1620
+aVArroyo Fontarrón - Encomienda de Palacios, Calle del Arroyo Fontarrón, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
+p1621
+aVRe, Via Asinari di Bernezzo, Parella, Circoscrizione 4, Torino, TO, PIE, 10145, Italia
+p1622
+aVOld Kilmainham, Kilmainham, Dublin, County Dublin, Leinster, D07, Ireland
+p1623
+aV1993, 39, Piotra Wawrzyniaka, Je\u017cyce, Pozna\u0144, wielkopolskie, 60-505, Polska
+p1624
+aV1993, 106 Street NW, Old Strathcona, Edmonton, Alberta, T5K1E4, Canada
+p1625
+aV\u0426\u0440\u043a\u0432\u0430 \u0421\u0432\u0435\u0442\u043e\u0433 \u0414\u0438\u043c\u0438\u0442\u0440\u0438\u0458\u0430, \u0411\u0443\u043b\u0435\u0432\u0430\u0440 \u0417\u043e\u0440\u0430\u043d\u0430 \u0402\u0438\u043d\u0452\u0438\u045b\u0430, \u041f\u0430\u0432\u0438\u0459\u043e\u043d\u0438, \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11070, \u0421\u0440\u0431\u0438\u0458\u0430
+p1626
+aV1993, 44, \u0413\u0432\u0430\u0440\u0434\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0429\u0454\u0434\u0440\u0438\u0449\u0435\u0432\u0435, \u0421\u0454\u0432\u0454\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a, \u0421\u0454\u0432\u0454\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 93409, \u0423\u043a\u0440\u0430\u0457\u043d\u0430
+p1627
+aVCalle Tagoro Nº 127, Calle Tagoro, Tagoro, Tacoronte, Santa Cruz de Tenerife, Canarias, 38350, España
+p1628
+aa(lp1629
+VAuckland, 1010, New Zealand/Aotearoa
+p1630
+aVAuckland, New Zealand/Aotearoa
+p1631
+aVAuckland, Tulare County, California, United States of America
+p1632
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p1633
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p1634
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p1635
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p1636
+aa(lp1637
+VQLD, Australia
+p1638
+aV\u0642\u0644\u062f, \u2018Amr\u0101n, \u0627\u0644\u064a\u0645\u0646
+p1639
+aVNew Farm State School, Heal Street, New Farm, Brisbane, QLD, 4005, Australia
+p1640
+aVBase aérienne de Blida, RN 69, Cité 13 Mai, Blida \u0627\u0644\u0628\u0644\u06cc\u062f\u0647, Blida, Daïra Blida, Blida - \u0627\u0644\u0628\u0644\u064a\u062f\u0629, 09000, Algérie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p1641
+aa(lp1642
+VArboga, Västmanlands län, Svealand, Sverige
+p1643
+aVLes Flaches, Evolène, Hérens, Valais - Wallis, 1984, Schweiz, Suisse, Svizzera, Svizra
+p1644
+aV1984, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p1645
+aV1984, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
+p1646
+aV1984, Podmanín, Pova\u017eská Bystrica, Podmanín, Tren\u010diansky kraj, Západné Slovensko, 017 01, Slovensko
+p1647
+aVR-1, \u0648\u0644\u0627\u06cc\u062a \u063a\u0648\u0631, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1648
+aa(lp1649
+VAuckland, 1010, New Zealand/Aotearoa
+p1650
+aVAuckland, New Zealand/Aotearoa
+p1651
+aVAuckland, Tulare County, California, United States of America
+p1652
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p1653
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p1654
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p1655
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p1656
+aaNaNaNa(lp1657
+VAuckland, 1010, New Zealand/Aotearoa
+p1658
+aVAuckland, New Zealand/Aotearoa
+p1659
+aVAuckland, Tulare County, California, United States of America
+p1660
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p1661
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p1662
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p1663
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p1664
+aa(lp1665
+V\u041a1989, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1666
+aV1989, Po\u010darová, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1667
+aV1989, Úho\u0161\u0165any, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p1668
+aV1989, Domani\u017ea, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1669
+aV1989, Zemianska Závada, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1670
+aV1989, Dereham Road, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 3TL, United Kingdom
+p1671
+aaNa(lp1672
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p1673
+aVWellington, New Zealand/Aotearoa
+p1674
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p1675
+aVWellington, Somerset, South West England, England, United Kingdom
+p1676
+aVWellington, Collingsworth County, Texas, United States of America
+p1677
+aVWellington, Jefferson County, Kentucky, United States of America
+p1678
+aVWellington, Palm Beach County, Florida, United States of America
+p1679
+aVWellington, Palm Beach County, Florida, United States of America
+p1680
+aVWellington, Larimer County, Colorado, United States of America
+p1681
+aVWellington, Prince County, Prince Edward Island, Canada
+p1682
+aa(lp1683
+V\u041a1989, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1684
+aV1989, Po\u010darová, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1685
+aV1989, Úho\u0161\u0165any, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p1686
+aV1989, Domani\u017ea, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1687
+aV1989, Zemianska Závada, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p1688
+aV1989, Dereham Road, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 3TL, United Kingdom
+p1689
+aa(lp1690
+V1992, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1691
+aVLes Agettes, Hérens, Valais - Wallis, 1992, Schweiz, Suisse, Svizzera, Svizra
+p1692
+aV\u041a1992, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1693
+aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
+p1694
+aV1992, T\u011bchlovice u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
+p1695
+aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1696
+aV1992, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1697
+aV1992, Nynkov, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1698
+aVTorggatan, Kyrkholmen, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
+p1699
+aVStorgatan, Norrbacka, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
+p1700
+aa.

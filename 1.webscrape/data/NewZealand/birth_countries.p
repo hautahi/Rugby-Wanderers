@@ -5823,4 +5823,4621 @@ p3127
 aa(lp3128
 VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
 p3129
+aa(lp3130
+VAuckland, 1010, New Zealand/Aotearoa
+p3131
+aVAuckland, New Zealand/Aotearoa
+p3132
+aVAuckland, Tulare County, California, United States of America
+p3133
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3134
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3135
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3136
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3137
+aa(lp3138
+VDannevirke, Tararua District, Manawatu-Wanganui, New Zealand/Aotearoa
+p3139
+aVDannevirke, Howard County, Nebraska, United States of America
+p3140
+aa(lp3141
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p3142
+aVWellington, New Zealand/Aotearoa
+p3143
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p3144
+aVWellington, Somerset, South West England, England, United Kingdom
+p3145
+aVWellington, Collingsworth County, Texas, United States of America
+p3146
+aVWellington, Jefferson County, Kentucky, United States of America
+p3147
+aVWellington, Palm Beach County, Florida, United States of America
+p3148
+aVWellington, Palm Beach County, Florida, United States of America
+p3149
+aVWellington, Larimer County, Colorado, United States of America
+p3150
+aVWellington, Prince County, Prince Edward Island, Canada
+p3151
+aa(lp3152
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p3153
+aVDunedin, Pinellas County, Florida, United States of America
+p3154
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p3155
+aVDunedin, Chesapeake City, Virginia, United States of America
+p3156
+aVDunedin, Petersburg (city), Virginia, United States of America
+p3157
+aVDunedin, Ontario, Canada
+p3158
+aVDunedin, Pinellas County, Florida, United States of America
+p3159
+aVDunedin, New South Wales, Australia
+p3160
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p3161
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p3162
+aa(lp3163
+VNew Plymouth, New Plymouth District, Taranaki, New Zealand/Aotearoa
+p3164
+aVNew Plymouth, The Bahamas
+p3165
+aVNew Plymouth, Payette County, Idaho, United States of America
+p3166
+aVNew Plymouth, Brown Township, Vinton County, Ohio, United States of America
+p3167
+aVNew Plymouth, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8HF, United Kingdom
+p3168
+aVNew Plymouth, Westwood Hill, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8EZ, United Kingdom
+p3169
+aa(lp3170
+VWhakat\u0101ne, Whakatane District, Bay of Plenty, New Zealand/Aotearoa
+p3171
+aa(lp3172
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p3173
+aa(lp3174
+VOamaru, Waitaki District, Otago, New Zealand/Aotearoa
+p3175
+aVOamaru, 25, Buckinghamshire Road, Brasside, Belmont, County Durham, North East England, England, DH1 2DQ, United Kingdom
+p3176
+aVoamaru, 46a, Sunderland Road, Gilesgate, Durham, County Durham, North East England, England, DH1 1PF, United Kingdom
+p3177
+aa(lp3178
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p3179
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p3180
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p3181
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p3182
+aVChristchurch, Middlesex, Virginia, United States of America
+p3183
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p3184
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p3185
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p3186
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p3187
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p3188
+aa(lp3189
+VWaikari, Hurunui District, Canterbury, New Zealand/Aotearoa
+p3190
+aa(lp3191
+VAuckland, 1010, New Zealand/Aotearoa
+p3192
+aVAuckland, New Zealand/Aotearoa
+p3193
+aVAuckland, Tulare County, California, United States of America
+p3194
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3195
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3196
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3197
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3198
+aa(lp3199
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p3200
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p3201
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p3202
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p3203
+aVChristchurch, Middlesex, Virginia, United States of America
+p3204
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p3205
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p3206
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p3207
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p3208
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p3209
+aa(lp3210
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p3211
+aVDunedin, Pinellas County, Florida, United States of America
+p3212
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p3213
+aVDunedin, Chesapeake City, Virginia, United States of America
+p3214
+aVDunedin, Petersburg (city), Virginia, United States of America
+p3215
+aVDunedin, Ontario, Canada
+p3216
+aVDunedin, Pinellas County, Florida, United States of America
+p3217
+aVDunedin, New South Wales, Australia
+p3218
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p3219
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p3220
+aa(lp3221
+VWaipawa, South Wairarapa District, Wellington, New Zealand/Aotearoa
+p3222
+aVWaipawa, Central Hawke's Bay District, Hawke's Bay, New Zealand/Aotearoa
+p3223
+aa(lp3224
+VKurow, Waitaki District, Canterbury, New Zealand/Aotearoa
+p3225
+aVKurów, gmina Kurów, powiat pu\u0142awski, lubelskie, 24-170, Polska
+p3226
+aVKurów, gmina Nowe Skalmierzyce, powiat ostrowski, wielkopolskie, 63-460, Polska
+p3227
+aVKurów-Wie\u015b, gmina Oporów, powiat kutnowski, \u0142ódzkie, 99-322, Polska
+p3228
+aVKurów, gmina Trzebieszów, powiat \u0142ukowski, lubelskie, 21-404, Polska
+p3229
+aVKurów, gmina Lipnik, powiat opatowski, \u015bwi\u0119tokrzyskie, 27-540, Polska
+p3230
+aVKurów, gmina Lipnik, powiat opatowski, \u015bwi\u0119tokrzyskie, Polska
+p3231
+aVKurów, gmina Che\u0142miec, powiat nowos\u0105decki, ma\u0142opolskie, 33-311, Polska
+p3232
+aVKurów, gmina Drwinia, powiat boche\u0144ski, ma\u0142opolskie, Polska
+p3233
+aVKurów, gmina Zelów, powiat be\u0142chatowski, \u0142ódzkie, 97-425, Polska
+p3234
+aa(lp3235
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p3236
+aa(lp3237
+VDannevirke, Tararua District, Manawatu-Wanganui, New Zealand/Aotearoa
+p3238
+aVDannevirke, Howard County, Nebraska, United States of America
+p3239
+aa(lp3240
+VPalmerston, Cook Islands
+p3241
+aVPalmerston, Cook Islands
+p3242
+aVPalmerston, Waitaki District, Otago, New Zealand/Aotearoa
+p3243
+aVPalmerston, City of Palmerston, Northern Territory, 0830, Australia
+p3244
+aVPalmerston, Wellington County, Ontario, Canada
+p3245
+aVPalmerston, Gungahlin, Australian Capital Territory, Australia
+p3246
+aVPalmerston, Mossneuk, Hudson Bay, South Lanarkshire, Scotland, United Kingdom
+p3247
+aVPalmerston, Main Street, Lochcarron, Highland, Scotland, IV54 8YD, United Kingdom
+p3248
+aVPalmerston, Bond Street, Palmerston, Waitaki District, Otago, 9430, New Zealand/Aotearoa
+p3249
+aVThe Palmerston, 91, Lordship Lane, East Dulwich, London Borough of Southwark, London, Greater London, England, SE22 0BJ, United Kingdom
+p3250
+aa(lp3251
+VNelson, New Zealand/Aotearoa
+p3252
+aVNelson, New Zealand/Aotearoa
+p3253
+aVNelson, Virginia, United States of America
+p3254
+aVNelson, Regional District of Central Kootenay, British Columbia, Canada
+p3255
+aVNelson County, Kentucky, United States of America
+p3256
+aVNelson, Lancs, North West England, England, United Kingdom
+p3257
+aVNelson, Butte County, California, United States of America
+p3258
+aVNelson County, North Dakota, United States of America
+p3259
+aVNelson, Cheshire County, New Hampshire, United States of America
+p3260
+aVNelson, Netherfield Road, Little Marsden, Pendle, Lancs, North West England, England, United Kingdom
+p3261
+aa(lp3262
+VWairoa, Wairoa District, Hawke's Bay, New Zealand/Aotearoa
+p3263
+aVWairoa, Cape Town Ward 21, Cape Town Subcouncil 7, Durbanville, City of Cape Town, Western Cape, 7551, South Africa
+p3264
+aVWairoa, Mount Barker Road, Aldgate, Stirling, South Australia, 5152, Australia
+p3265
+aa(lp3266
+VHastings, East Sussex, South East, England, United Kingdom
+p3267
+aVHastings, Dakota County, Minnesota, United States of America
+p3268
+aVHastings, Hastings District, Hawke's Bay, New Zealand/Aotearoa
+p3269
+aVHastings, Adams County, Nebraska, United States of America
+p3270
+aVHastings, Australia
+p3271
+aVHastings, Station Approach, Trinity Triangle, Blacklands, Hastings, East Sussex, South East, England, TN34 1BG, United Kingdom
+p3272
+aVHastings, Barry County, Michigan, United States of America
+p3273
+aVHastings, Mills County, Iowa, United States of America
+p3274
+aVHastings, Cambria County, Pennsylvania, United States of America
+p3275
+aVHastings, Shire of Mornington Peninsula, Greater Melbourne, Victoria, Australia
+p3276
+aa(lp3277
+VPatea, South Taranaki District, Taranaki, New Zealand/Aotearoa
+p3278
+aa(lp3279
+VWhanganui, Wanganui District, Manawatu-Wanganui, New Zealand/Aotearoa
+p3280
+aVWanganui, New South Wales, Australia
+p3281
+aVWanganui, 4293, New South Wales, 2831, Australia
+p3282
+aVWANGANUI, Landguard Road, Gonville, Whanganui, Wanganui District, Manawatu-Wanganui, 4501, New Zealand/Aotearoa
+p3283
+aa(lp3284
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p3285
+aVDunedin, Pinellas County, Florida, United States of America
+p3286
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p3287
+aVDunedin, Chesapeake City, Virginia, United States of America
+p3288
+aVDunedin, Petersburg (city), Virginia, United States of America
+p3289
+aVDunedin, Ontario, Canada
+p3290
+aVDunedin, Pinellas County, Florida, United States of America
+p3291
+aVDunedin, New South Wales, Australia
+p3292
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p3293
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p3294
+aa(lp3295
+VFeatherston, South Wairarapa District, Wellington, New Zealand/Aotearoa
+p3296
+aVFeatherston, Harrison Street East, Featherston, South Wairarapa District, Wellington, 5771, New Zealand/Aotearoa
+p3297
+aVFeatherston, Pittsburg, Oklahoma, United States of America
+p3298
+aVFeatherston, Harrison Street West, Featherston, South Wairarapa District, Wellington, New Zealand/Aotearoa
+p3299
+aa(lp3300
+VGreytown, South Wairarapa District, Wellington, New Zealand/Aotearoa
+p3301
+aVGreytown, Umzinyathi District Municipality, KwaZulu-Natal, South Africa
+p3302
+aVSan Juan de Nicaragua, Municipio San Juan de Nicaragua, Río San Juan, 92500, Nicaragua
+p3303
+aVGreytown, Sargeant Street, Umvoti Ward 9, Umvoti Local Municipality, Umzinyathi District Municipality, KwaZulu-Natal, South Africa
+p3304
+aVGreytown, Kuratawhiti Street, Greytown, South Wairarapa District, Wellington, 5710, New Zealand/Aotearoa
+p3305
+aa(lp3306
+VTaumarunui, Ruapehu District, Manawatu-Wanganui, New Zealand/Aotearoa
+p3307
+aVTaumarunui, Hakiaha Street, Taumarunui, Ruapehu District, Manawatu-Wanganui, 3920, New Zealand/Aotearoa
+p3308
+aa(lp3309
+VRawene, Far North District, Northland, New Zealand/Aotearoa
+p3310
+aa(lp3311
+VWaipawa, South Wairarapa District, Wellington, New Zealand/Aotearoa
+p3312
+aVWaipawa, Central Hawke's Bay District, Hawke's Bay, New Zealand/Aotearoa
+p3313
+aa(lp3314
+VWairoa, Wairoa District, Hawke's Bay, New Zealand/Aotearoa
+p3315
+aVWairoa, Cape Town Ward 21, Cape Town Subcouncil 7, Durbanville, City of Cape Town, Western Cape, 7551, South Africa
+p3316
+aVWairoa, Mount Barker Road, Aldgate, Stirling, South Australia, 5152, Australia
+p3317
+aa(lp3318
+VOamaru, Waitaki District, Otago, New Zealand/Aotearoa
+p3319
+aVOamaru, 25, Buckinghamshire Road, Brasside, Belmont, County Durham, North East England, England, DH1 2DQ, United Kingdom
+p3320
+aVoamaru, 46a, Sunderland Road, Gilesgate, Durham, County Durham, North East England, England, DH1 1PF, United Kingdom
+p3321
+aa(lp3322
+VWarkworth, Auckland, New Zealand/Aotearoa
+p3323
+aVWarkworth, Northumberland, North East England, England, United Kingdom
+p3324
+aVWarkworth, Northumberland, North East England, England, NE65, United Kingdom
+p3325
+aVWarkworth, South Northamptonshire, Northamptonshire, East Midlands, England, United Kingdom
+p3326
+aVWarkworth, 4, Dial Place, Warkworth, Northumberland, North East England, England, NE65 0UR, United Kingdom
+p3327
+aVWarkworth, Grange Road, Shilbottle, Northumberland, North East England, England, United Kingdom
+p3328
+aa(lp3329
+VWaiuku, Auckland, New Zealand/Aotearoa
+p3330
+aa(lp3331
+VGore, Gore District, Southland, New Zealand/Aotearoa
+p3332
+aVThe Gore, Franklin County, Vermont, United States of America
+p3333
+aVGore, Frederick, Virginia, United States of America
+p3334
+aVGore, Sequoyah County, Oklahoma, United States of America
+p3335
+aVGore, Kent, South East, England, United Kingdom
+p3336
+aVGore, Dorset, South West England, England, United Kingdom
+p3337
+aVGore, Hocking County, Ohio, United States of America
+p3338
+aVGore, Warren County, Missouri, United States of America
+p3339
+aVGore, Chattooga, Georgia, United States of America
+p3340
+aVGore, Randolph, Georgia, United States of America
+p3341
+aa(lp3342
+VHamilton, Ontario, Canada
+p3343
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p3344
+aVHamilton County, Illinois, United States of America
+p3345
+aVHamilton County, Kansas, United States of America
+p3346
+aVHamilton, Tennessee, United States of America
+p3347
+aVHamilton, Bermuda
+p3348
+aVHamilton County, Ohio, United States of America
+p3349
+aVHamilton, Butler County, Ohio, United States of America
+p3350
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p3351
+aVHamilton, City of Hamilton, Bermuda
+p3352
+aa(lp3353
+VNapier, Napier City, Hawke's Bay, New Zealand/Aotearoa
+p3354
+aVNapier, Overberg District Municipality, Western Cape, South Africa
+p3355
+aVNapier, Bedford County, Pennsylvania, United States of America
+p3356
+aVNapier, San Jacinto County, Texas, United States of America
+p3357
+aVNapier, Washington County, Ohio, United States of America
+p3358
+aVNapier, Berrien County, Michigan, United States of America
+p3359
+aVNapier, Holt County, Missouri, United States of America
+p3360
+aVNapier, Lewis, Tennessee, United States of America
+p3361
+aVNapier, Boone County, Iowa, United States of America
+p3362
+aVNapier, Leslie County, Kentucky, United States of America
+p3363
+aa(lp3364
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p3365
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p3366
+aa(lp3367
+VAuckland, 1010, New Zealand/Aotearoa
+p3368
+aVAuckland, New Zealand/Aotearoa
+p3369
+aVAuckland, Tulare County, California, United States of America
+p3370
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3371
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3372
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3373
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3374
+aa(lp3375
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p3376
+aa(lp3377
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p3378
+aVDunedin, Pinellas County, Florida, United States of America
+p3379
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p3380
+aVDunedin, Chesapeake City, Virginia, United States of America
+p3381
+aVDunedin, Petersburg (city), Virginia, United States of America
+p3382
+aVDunedin, Ontario, Canada
+p3383
+aVDunedin, Pinellas County, Florida, United States of America
+p3384
+aVDunedin, New South Wales, Australia
+p3385
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p3386
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p3387
+aa(lp3388
+VHamilton, Ontario, Canada
+p3389
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p3390
+aVHamilton County, Illinois, United States of America
+p3391
+aVHamilton County, Kansas, United States of America
+p3392
+aVHamilton, Tennessee, United States of America
+p3393
+aVHamilton, Bermuda
+p3394
+aVHamilton County, Ohio, United States of America
+p3395
+aVHamilton, Butler County, Ohio, United States of America
+p3396
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p3397
+aVHamilton, City of Hamilton, Bermuda
+p3398
+aa(lp3399
+VAuckland, 1010, New Zealand/Aotearoa
+p3400
+aVAuckland, New Zealand/Aotearoa
+p3401
+aVAuckland, Tulare County, California, United States of America
+p3402
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3403
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3404
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3405
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3406
+aa(lp3407
+VNew Plymouth, New Plymouth District, Taranaki, New Zealand/Aotearoa
+p3408
+aVNew Plymouth, The Bahamas
+p3409
+aVNew Plymouth, Payette County, Idaho, United States of America
+p3410
+aVNew Plymouth, Brown Township, Vinton County, Ohio, United States of America
+p3411
+aVNew Plymouth, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8HF, United Kingdom
+p3412
+aVNew Plymouth, Westwood Hill, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8EZ, United Kingdom
+p3413
+aa(lp3414
+VWhangarei, Whangarei District, Northland, New Zealand/Aotearoa
+p3415
+aa(lp3416
+VWhanganui, Wanganui District, Manawatu-Wanganui, New Zealand/Aotearoa
+p3417
+aVWanganui, New South Wales, Australia
+p3418
+aVWanganui, 4293, New South Wales, 2831, Australia
+p3419
+aVWANGANUI, Landguard Road, Gonville, Whanganui, Wanganui District, Manawatu-Wanganui, 4501, New Zealand/Aotearoa
+p3420
+aa(lp3421
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p3422
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p3423
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p3424
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p3425
+aVChristchurch, Middlesex, Virginia, United States of America
+p3426
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p3427
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p3428
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p3429
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p3430
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p3431
+aa(lp3432
+VThe Cromwell, 3595, Las Vegas Boulevard South, Hughes Center, Paradise, Clark County, Nevada, 89109, United States of America
+p3433
+aVCromwell, Middlesex County, Connecticut, United States of America
+p3434
+aVCromwell, Central Otago District, Otago, New Zealand/Aotearoa
+p3435
+aVCromwell, Noble County, Indiana, United States of America
+p3436
+aVCromwell, Carlton County, Minnesota, United States of America
+p3437
+aVCromwell, Fauquier, Virginia, United States of America
+p3438
+aVCromwell, Choctaw County, Alabama, United States of America
+p3439
+aVCromwell, Ohio County, Kentucky, United States of America
+p3440
+aVCromwell, Pierce County, Washington, United States of America
+p3441
+aVCromwell, Newark and Sherwood, Nottinghamshire, East Midlands, England, United Kingdom
+p3442
+aa(lp3443
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p3444
+aVDunedin, Pinellas County, Florida, United States of America
+p3445
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p3446
+aVDunedin, Chesapeake City, Virginia, United States of America
+p3447
+aVDunedin, Petersburg (city), Virginia, United States of America
+p3448
+aVDunedin, Ontario, Canada
+p3449
+aVDunedin, Pinellas County, Florida, United States of America
+p3450
+aVDunedin, New South Wales, Australia
+p3451
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p3452
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p3453
+aa(lp3454
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p3455
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p3456
+aa(lp3457
+VMatamata, Matamata Piako District, Waikato, New Zealand/Aotearoa
+p3458
+aVMatamata, Vilcas Huamán, Ayacucho, Perú
+p3459
+aVMatamata, Meta, Colombia
+p3460
+aVMatamatá, Microrregião de Juruá, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+p3461
+aVMatamata, Firth Street, Matamata, Matamata Piako District, Waikato, 3400, New Zealand/Aotearoa
+p3462
+aa(lp3463
+VAuckland, 1010, New Zealand/Aotearoa
+p3464
+aVAuckland, New Zealand/Aotearoa
+p3465
+aVAuckland, Tulare County, California, United States of America
+p3466
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3467
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3468
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3469
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3470
+aa(lp3471
+VFeilding, Manawatu District, Manawatu-Wanganui, New Zealand/Aotearoa
+p3472
+aVFeilding, -, Aorangi Street, Feilding, Manawatu District, Manawatu-Wanganui, 4702, New Zealand/Aotearoa
+p3473
+aa(lp3474
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p3475
+aVDunedin, Pinellas County, Florida, United States of America
+p3476
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p3477
+aVDunedin, Chesapeake City, Virginia, United States of America
+p3478
+aVDunedin, Petersburg (city), Virginia, United States of America
+p3479
+aVDunedin, Ontario, Canada
+p3480
+aVDunedin, Pinellas County, Florida, United States of America
+p3481
+aVDunedin, New South Wales, Australia
+p3482
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p3483
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p3484
+aa(lp3485
+VTakara, Guri, Jigawa, Nigeria
+p3486
+aVTakara, Matamèye, Zinder, Niger
+p3487
+aVTakara, Shefa, Vanuatu
+p3488
+aVTakara, Tihigrine, Cercle de Goundam, Tombouctou, Mali
+p3489
+aVTakara, 11, Europaplein, Zuideramstel, Amsterdam, Zuid, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1078GS, Nederland
+p3490
+aVTakara, Rue Molière, Palais Royal, 1er, Paris, Île-de-France, France métropolitaine, 75001, France
+p3491
+aVTakara, 86, Rue du Commerce, Grenelle, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p3492
+aVTakara, Marburger Straße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10789, Deutschland
+p3493
+aVTakara, 1, Heinrich-von-Bibra-Platz, Neuenberg, Fulda, Landkreis Fulda, Regierungsbezirk Kassel, Hessen, 36037, Deutschland, Europe
+p3494
+aVTakara, Capitola Road, Capitola, Santa Cruz County, California, 95010, United States of America
+p3495
+aa(lp3496
+VAuckland, 1010, New Zealand/Aotearoa
+p3497
+aVAuckland, New Zealand/Aotearoa
+p3498
+aVAuckland, Tulare County, California, United States of America
+p3499
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3500
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3501
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3502
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3503
+aa(lp3504
+VWhanganui, Wanganui District, Manawatu-Wanganui, New Zealand/Aotearoa
+p3505
+aVWanganui, New South Wales, Australia
+p3506
+aVWanganui, 4293, New South Wales, 2831, Australia
+p3507
+aVWANGANUI, Landguard Road, Gonville, Whanganui, Wanganui District, Manawatu-Wanganui, 4501, New Zealand/Aotearoa
+p3508
+aa(lp3509
+VAuckland, 1010, New Zealand/Aotearoa
+p3510
+aVAuckland, New Zealand/Aotearoa
+p3511
+aVAuckland, Tulare County, California, United States of America
+p3512
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3513
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3514
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3515
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3516
+aa(lp3517
+VAuckland, 1010, New Zealand/Aotearoa
+p3518
+aVAuckland, New Zealand/Aotearoa
+p3519
+aVAuckland, Tulare County, California, United States of America
+p3520
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3521
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3522
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3523
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3524
+aa(lp3525
+VKaikoura, Kaikoura District, Canterbury, New Zealand/Aotearoa
+p3526
+aVKaikoura, Whaleway Station, Kaikoura, Kaikoura District, Canterbury, 7033, New Zealand/Aotearoa
+p3527
+aVKaikoura, West End, Kaikoura, Kaikoura District, Canterbury, 7300, New Zealand/Aotearoa
+p3528
+aa(lp3529
+VNew Plymouth, New Plymouth District, Taranaki, New Zealand/Aotearoa
+p3530
+aVNew Plymouth, The Bahamas
+p3531
+aVNew Plymouth, Payette County, Idaho, United States of America
+p3532
+aVNew Plymouth, Brown Township, Vinton County, Ohio, United States of America
+p3533
+aVNew Plymouth, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8HF, United Kingdom
+p3534
+aVNew Plymouth, Westwood Hill, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8EZ, United Kingdom
+p3535
+aa(lp3536
+VOpunake, South Taranaki District, Taranaki, New Zealand/Aotearoa
+p3537
+aa(lp3538
+VDunstan, Central Otago District, Otago, New Zealand/Aotearoa
+p3539
+aVDunstan, Northumberland, North East England, England, United Kingdom
+p3540
+aVDunstan, Ballybrack Road, Ballybrack, Glencullen ED, Glencullen, Dún Laoghaire-Rathdown, County Dublin, Leinster, Ireland
+p3541
+aa(lp3542
+VTimaru, Timaru District, Canterbury, New Zealand/Aotearoa
+p3543
+aV\u0427\u0435\u043c\u0430\u043b, \u0427\u0435\u043c\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439, \u0421\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p3544
+aVTimaru, Falvey Road, Timaru, Timaru District, Canterbury, New Zealand/Aotearoa
+p3545
+aV\u0427\u0435\u043c\u0430\u043b, \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u043f\u0435\u0440\u0435\u0443\u043b\u043e\u043a, \u0427\u0435\u043c\u0430\u043b, \u0427\u0435\u043c\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439, \u0421\u0424\u041e, 649240, \u0420\u043e\u0441\u0441\u0438\u044f
+p3546
+aa(lp3547
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p3548
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p3549
+aa(lp3550
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p3551
+aVWellington, New Zealand/Aotearoa
+p3552
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p3553
+aVWellington, Somerset, South West England, England, United Kingdom
+p3554
+aVWellington, Collingsworth County, Texas, United States of America
+p3555
+aVWellington, Jefferson County, Kentucky, United States of America
+p3556
+aVWellington, Palm Beach County, Florida, United States of America
+p3557
+aVWellington, Palm Beach County, Florida, United States of America
+p3558
+aVWellington, Larimer County, Colorado, United States of America
+p3559
+aVWellington, Prince County, Prince Edward Island, Canada
+p3560
+aa(lp3561
+VGore, Gore District, Southland, New Zealand/Aotearoa
+p3562
+aVThe Gore, Franklin County, Vermont, United States of America
+p3563
+aVGore, Frederick, Virginia, United States of America
+p3564
+aVGore, Sequoyah County, Oklahoma, United States of America
+p3565
+aVGore, Kent, South East, England, United Kingdom
+p3566
+aVGore, Dorset, South West England, England, United Kingdom
+p3567
+aVGore, Hocking County, Ohio, United States of America
+p3568
+aVGore, Warren County, Missouri, United States of America
+p3569
+aVGore, Chattooga, Georgia, United States of America
+p3570
+aVGore, Randolph, Georgia, United States of America
+p3571
+aa(lp3572
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p3573
+aVDunedin, Pinellas County, Florida, United States of America
+p3574
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p3575
+aVDunedin, Chesapeake City, Virginia, United States of America
+p3576
+aVDunedin, Petersburg (city), Virginia, United States of America
+p3577
+aVDunedin, Ontario, Canada
+p3578
+aVDunedin, Pinellas County, Florida, United States of America
+p3579
+aVDunedin, New South Wales, Australia
+p3580
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p3581
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p3582
+aa(lp3583
+VGore, Gore District, Southland, New Zealand/Aotearoa
+p3584
+aVThe Gore, Franklin County, Vermont, United States of America
+p3585
+aVGore, Frederick, Virginia, United States of America
+p3586
+aVGore, Sequoyah County, Oklahoma, United States of America
+p3587
+aVGore, Kent, South East, England, United Kingdom
+p3588
+aVGore, Dorset, South West England, England, United Kingdom
+p3589
+aVGore, Hocking County, Ohio, United States of America
+p3590
+aVGore, Warren County, Missouri, United States of America
+p3591
+aVGore, Chattooga, Georgia, United States of America
+p3592
+aVGore, Randolph, Georgia, United States of America
+p3593
+aa(lp3594
+VNapier, Napier City, Hawke's Bay, New Zealand/Aotearoa
+p3595
+aVNapier, Overberg District Municipality, Western Cape, South Africa
+p3596
+aVNapier, Bedford County, Pennsylvania, United States of America
+p3597
+aVNapier, San Jacinto County, Texas, United States of America
+p3598
+aVNapier, Washington County, Ohio, United States of America
+p3599
+aVNapier, Berrien County, Michigan, United States of America
+p3600
+aVNapier, Holt County, Missouri, United States of America
+p3601
+aVNapier, Lewis, Tennessee, United States of America
+p3602
+aVNapier, Boone County, Iowa, United States of America
+p3603
+aVNapier, Leslie County, Kentucky, United States of America
+p3604
+aa(lp3605
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p3606
+aVDunedin, Pinellas County, Florida, United States of America
+p3607
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p3608
+aVDunedin, Chesapeake City, Virginia, United States of America
+p3609
+aVDunedin, Petersburg (city), Virginia, United States of America
+p3610
+aVDunedin, Ontario, Canada
+p3611
+aVDunedin, Pinellas County, Florida, United States of America
+p3612
+aVDunedin, New South Wales, Australia
+p3613
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p3614
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p3615
+aa(lp3616
+VWaiuku, Auckland, New Zealand/Aotearoa
+p3617
+aa(lp3618
+VMakahu, Stratford District, Taranaki, New Zealand/Aotearoa
+p3619
+aVmae cafe., \u5e83\u5c3e\u56fd\u9053, Kataoka farm, \u4e2d\u672d\u5185\u6751, \u6cb3\u897f\u90e1, \u5341\u52dd\u7dcf\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, \u65e5\u672c
+p3620
+aa(lp3621
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p3622
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p3623
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p3624
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p3625
+aVChristchurch, Middlesex, Virginia, United States of America
+p3626
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p3627
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p3628
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p3629
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p3630
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p3631
+aa(lp3632
+VHamilton, Ontario, Canada
+p3633
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p3634
+aVHamilton County, Illinois, United States of America
+p3635
+aVHamilton County, Kansas, United States of America
+p3636
+aVHamilton, Tennessee, United States of America
+p3637
+aVHamilton, Bermuda
+p3638
+aVHamilton County, Ohio, United States of America
+p3639
+aVHamilton, Butler County, Ohio, United States of America
+p3640
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p3641
+aVHamilton, City of Hamilton, Bermuda
+p3642
+aa(lp3643
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p3644
+aVWellington, New Zealand/Aotearoa
+p3645
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p3646
+aVWellington, Somerset, South West England, England, United Kingdom
+p3647
+aVWellington, Collingsworth County, Texas, United States of America
+p3648
+aVWellington, Jefferson County, Kentucky, United States of America
+p3649
+aVWellington, Palm Beach County, Florida, United States of America
+p3650
+aVWellington, Palm Beach County, Florida, United States of America
+p3651
+aVWellington, Larimer County, Colorado, United States of America
+p3652
+aVWellington, Prince County, Prince Edward Island, Canada
+p3653
+aa(lp3654
+VStratford-upon-Avon, Warwickshire, West Midlands, England, United Kingdom
+p3655
+aVStratford, Station Street, Stratford Marsh, London Borough of Newham, London, Greater London, England, E15 1XD, United Kingdom
+p3656
+aVStratford, Perth County, Ontario, Canada
+p3657
+aVStratford, London, Greater London, England, United Kingdom
+p3658
+aVStratford, Fairfield County, Connecticut, United States of America
+p3659
+aVStratford, Sherman County, Texas, United States of America
+p3660
+aVStratford, Stratford District, Taranaki, New Zealand/Aotearoa
+p3661
+aVStratford, Queens County, Prince Edward Island, Canada
+p3662
+aVStratford, Coös County, New Hampshire, United States of America
+p3663
+aVStratford, Marathon County, Wisconsin, United States of America
+p3664
+aa(lp3665
+VHamilton, Ontario, Canada
+p3666
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p3667
+aVHamilton County, Illinois, United States of America
+p3668
+aVHamilton County, Kansas, United States of America
+p3669
+aVHamilton, Tennessee, United States of America
+p3670
+aVHamilton, Bermuda
+p3671
+aVHamilton County, Ohio, United States of America
+p3672
+aVHamilton, Butler County, Ohio, United States of America
+p3673
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p3674
+aVHamilton, City of Hamilton, Bermuda
+p3675
+aa(lp3676
+VPatea, South Taranaki District, Taranaki, New Zealand/Aotearoa
+p3677
+aa(lp3678
+VTauranga, Tauranga City, Bay of Plenty, New Zealand/Aotearoa
+p3679
+aVTauranga, Brightlingsea Road, Thorrington Civil Parish, Tendring, Essex, East of England, England, CO7 8JL, United Kingdom
+p3680
+aa(lp3681
+VAuckland, 1010, New Zealand/Aotearoa
+p3682
+aVAuckland, New Zealand/Aotearoa
+p3683
+aVAuckland, Tulare County, California, United States of America
+p3684
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3685
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3686
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3687
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3688
+aa(lp3689
+VHastings, East Sussex, South East, England, United Kingdom
+p3690
+aVHastings, Dakota County, Minnesota, United States of America
+p3691
+aVHastings, Hastings District, Hawke's Bay, New Zealand/Aotearoa
+p3692
+aVHastings, Adams County, Nebraska, United States of America
+p3693
+aVHastings, Australia
+p3694
+aVHastings, Station Approach, Trinity Triangle, Blacklands, Hastings, East Sussex, South East, England, TN34 1BG, United Kingdom
+p3695
+aVHastings, Barry County, Michigan, United States of America
+p3696
+aVHastings, Mills County, Iowa, United States of America
+p3697
+aVHastings, Cambria County, Pennsylvania, United States of America
+p3698
+aVHastings, Shire of Mornington Peninsula, Greater Melbourne, Victoria, Australia
+p3699
+aa(lp3700
+VTe Kopuru, Kaipara District, Northland, New Zealand/Aotearoa
+p3701
+aa(lp3702
+VAuckland, 1010, New Zealand/Aotearoa
+p3703
+aVAuckland, New Zealand/Aotearoa
+p3704
+aVAuckland, Tulare County, California, United States of America
+p3705
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3706
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3707
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3708
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3709
+aa(lp3710
+VLautoka, Viti
+p3711
+aa(lp3712
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p3713
+aVWellington, New Zealand/Aotearoa
+p3714
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p3715
+aVWellington, Somerset, South West England, England, United Kingdom
+p3716
+aVWellington, Collingsworth County, Texas, United States of America
+p3717
+aVWellington, Jefferson County, Kentucky, United States of America
+p3718
+aVWellington, Palm Beach County, Florida, United States of America
+p3719
+aVWellington, Palm Beach County, Florida, United States of America
+p3720
+aVWellington, Larimer County, Colorado, United States of America
+p3721
+aVWellington, Prince County, Prince Edward Island, Canada
+p3722
+aa(lp3723
+VOtahuhu, Mangere-Otahuhu, Auckland, New Zealand/Aotearoa
+p3724
+aV\u014ct\u0101huhu / Mount Richmond, Maungakiekie-Tamaki, Auckland, New Zealand/Aotearoa
+p3725
+aV\u014ct\u0101huhu, Walmsley Road Footbridge, Otahuhu, Mangere-Otahuhu, Auckland, 1062, New Zealand/Aotearoa
+p3726
+aa(lp3727
+VLeeston, Selwyn District, Canterbury, New Zealand/Aotearoa
+p3728
+aa(lp3729
+VWhangarei, Whangarei District, Northland, New Zealand/Aotearoa
+p3730
+aa(lp3731
+VPukekohe, Auckland, New Zealand/Aotearoa
+p3732
+aVPukekohe, Station Road, Franklin, Auckland, 2120, New Zealand/Aotearoa
+p3733
+aVPukekohe, Station Road, Franklin, Auckland, 2120, New Zealand/Aotearoa
+p3734
+aa(lp3735
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p3736
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p3737
+aa(lp3738
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p3739
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p3740
+aa(lp3741
+VPutaruru, South Waikato District, Waikato, New Zealand/Aotearoa
+p3742
+aa(lp3743
+VTaumarunui, Ruapehu District, Manawatu-Wanganui, New Zealand/Aotearoa
+p3744
+aVTaumarunui, Hakiaha Street, Taumarunui, Ruapehu District, Manawatu-Wanganui, 3920, New Zealand/Aotearoa
+p3745
+aa(lp3746
+VAuckland, 1010, New Zealand/Aotearoa
+p3747
+aVAuckland, New Zealand/Aotearoa
+p3748
+aVAuckland, Tulare County, California, United States of America
+p3749
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3750
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3751
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3752
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3753
+aa(lp3754
+VHamilton, Ontario, Canada
+p3755
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p3756
+aVHamilton County, Illinois, United States of America
+p3757
+aVHamilton County, Kansas, United States of America
+p3758
+aVHamilton, Tennessee, United States of America
+p3759
+aVHamilton, Bermuda
+p3760
+aVHamilton County, Ohio, United States of America
+p3761
+aVHamilton, Butler County, Ohio, United States of America
+p3762
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p3763
+aVHamilton, City of Hamilton, Bermuda
+p3764
+aa(lp3765
+VTokoroa, South Waikato District, Waikato, New Zealand/Aotearoa
+p3766
+aa(lp3767
+VRangiora, Waimakariri District, Canterbury, New Zealand/Aotearoa
+p3768
+aVRangiora, Blackett Street, Rangiora, Waimakariri District, Canterbury, 7400, New Zealand/Aotearoa
+p3769
+aa(lp3770
+VPapakura, Auckland, New Zealand/Aotearoa
+p3771
+aVPapakura, Auckland Southern Motorway, Rosehill, Papakura, Auckland, 2113, New Zealand/Aotearoa
+p3772
+aVPapakura, Auckland Southern Motorway, Conifer Grove, Papakura, Auckland, 2112, New Zealand/Aotearoa
+p3773
+aVPapakura, Ron Keat Drive, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p3774
+aVPapakura, Railway Street West, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p3775
+aVPapakura, Ron Keat Drive, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p3776
+aa(lp3777
+VPapakura, Auckland, New Zealand/Aotearoa
+p3778
+aVPapakura, Auckland Southern Motorway, Rosehill, Papakura, Auckland, 2113, New Zealand/Aotearoa
+p3779
+aVPapakura, Auckland Southern Motorway, Conifer Grove, Papakura, Auckland, 2112, New Zealand/Aotearoa
+p3780
+aVPapakura, Ron Keat Drive, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p3781
+aVPapakura, Railway Street West, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p3782
+aVPapakura, Ron Keat Drive, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p3783
+aa(lp3784
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p3785
+aa(lp3786
+VGisborne, New Zealand/Aotearoa
+p3787
+aVGisborne, New Zealand/Aotearoa
+p3788
+aVGisborne, New Zealand/Aotearoa
+p3789
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p3790
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p3791
+aVGisborne, Early Street, New Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3438, Australia
+p3792
+aVGisborne, Robertson Street, Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3437, Australia
+p3793
+aa(lp3794
+VTaup\u014d, Taupo District, Waikato, New Zealand/Aotearoa
+p3795
+aVTaupo, Tongariro Street, Nukuhau, Taup\u014d, Taupo District, Waikato, 3330, New Zealand/Aotearoa
+p3796
+aa(lp3797
+VKaikohe, Far North District, Northland, New Zealand/Aotearoa
+p3798
+aa(lp3799
+VAuckland, 1010, New Zealand/Aotearoa
+p3800
+aVAuckland, New Zealand/Aotearoa
+p3801
+aVAuckland, Tulare County, California, United States of America
+p3802
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3803
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3804
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3805
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3806
+aa(lp3807
+VEltham, London, Greater London, England, United Kingdom
+p3808
+aVEltham, Australia
+p3809
+aVEltham, Rochester Way Relief Road, New Eltham, Royal Borough of Greenwich, London, Greater London, England, SE9 6ER, United Kingdom
+p3810
+aVEltham, New South Wales, Australia
+p3811
+aVEltham, South Taranaki District, Taranaki, New Zealand/Aotearoa
+p3812
+aVEltham, New Kent, Virginia, United States of America
+p3813
+aVEltham, QLD, 4731, Australia
+p3814
+aVEltham, Shire of Nillumbik, Greater Melbourne, Victoria, Australia
+p3815
+aVEltham, St Laurence Lane, Woodridge, Eltham, Shire of Nillumbik, Greater Melbourne, Victoria, 3095, Australia
+p3816
+aVEltham, Saint Ann, Middlesex County, Jamaica
+p3817
+aa(lp3818
+VHawera, South Taranaki District, Taranaki, New Zealand/Aotearoa
+p3819
+aa(lp3820
+VWaihoka, Maluku, Indonesia
+p3821
+aVWaioka, Hana Highway, H\u0101\u2018\u014d\u2018\u016b, Maui County, Hawaii, United States of America
+p3822
+aa(lp3823
+VAuckland, 1010, New Zealand/Aotearoa
+p3824
+aVAuckland, New Zealand/Aotearoa
+p3825
+aVAuckland, Tulare County, California, United States of America
+p3826
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3827
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3828
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3829
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3830
+aa(lp3831
+VEl Oueldja, Daïra Bir El Arch, Sétif - \u0633\u0637\u064a\u0641\u200e, Algérie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p3832
+aV1959, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p3833
+aVFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1959, Danmark
+p3834
+aV\u041a1959, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p3835
+aV1959, Mut\u011bnín, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34525, \u010cesko
+p3836
+aV1959, Bezv\u011brov II, Mut\u011bnín, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p3837
+aVDobrohostova, Hostou\u0148 u Hor\u0161ovského Týna, Hostou\u0148, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34525, \u010cesko
+p3838
+aV1959, Velký Hor\u0161ín, Rybník, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p3839
+aV1959, Rybník nad Radbuzou, Rybník, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p3840
+aVAv. Rafaela Ybarra - Villabona, Avenida de Rafaela Ybarra, Orcasitas, Usera, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28041, España
+p3841
+aa(lp3842
+VAuckland, 1010, New Zealand/Aotearoa
+p3843
+aVAuckland, New Zealand/Aotearoa
+p3844
+aVAuckland, Tulare County, California, United States of America
+p3845
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3846
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3847
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3848
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3849
+aa(lp3850
+VTokoroa, South Waikato District, Waikato, New Zealand/Aotearoa
+p3851
+aa(lp3852
+VTe Kopuru, Kaipara District, Northland, New Zealand/Aotearoa
+p3853
+aa(lp3854
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p3855
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p3856
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p3857
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p3858
+aVChristchurch, Middlesex, Virginia, United States of America
+p3859
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p3860
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p3861
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p3862
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p3863
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p3864
+aa(lp3865
+VHamilton, Ontario, Canada
+p3866
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p3867
+aVHamilton County, Illinois, United States of America
+p3868
+aVHamilton County, Kansas, United States of America
+p3869
+aVHamilton, Tennessee, United States of America
+p3870
+aVHamilton, Bermuda
+p3871
+aVHamilton County, Ohio, United States of America
+p3872
+aVHamilton, Butler County, Ohio, United States of America
+p3873
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p3874
+aVHamilton, City of Hamilton, Bermuda
+p3875
+aa(lp3876
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p3877
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p3878
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p3879
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p3880
+aVChristchurch, Middlesex, Virginia, United States of America
+p3881
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p3882
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p3883
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p3884
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p3885
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p3886
+aa(lp3887
+VTauranga, Tauranga City, Bay of Plenty, New Zealand/Aotearoa
+p3888
+aVTauranga, Brightlingsea Road, Thorrington Civil Parish, Tendring, Essex, East of England, England, CO7 8JL, United Kingdom
+p3889
+aa(lp3890
+VWhanganui, Wanganui District, Manawatu-Wanganui, New Zealand/Aotearoa
+p3891
+aVWanganui, New South Wales, Australia
+p3892
+aVWanganui, 4293, New South Wales, 2831, Australia
+p3893
+aVWANGANUI, Landguard Road, Gonville, Whanganui, Wanganui District, Manawatu-Wanganui, 4501, New Zealand/Aotearoa
+p3894
+aa(lp3895
+VCheviot, Hamilton County, Ohio, United States of America
+p3896
+aVThe Cheviot, Northumberland, North East England, England, United Kingdom
+p3897
+aVCheviot, Town of Germantown, Columbia County, New York, United States of America
+p3898
+aVCheviot, Kittitas County, Washington, United States of America
+p3899
+aVCheviot, Hurunui District, Canterbury, New Zealand/Aotearoa
+p3900
+aVCheviot, Newtonlees House, Kaimflat, Scottish Borders, Scotland, United Kingdom
+p3901
+aVCheviot, Lukhanji Ward 18, Lukhanji Local Municipality, Chris Hani District Municipality, Eastern Cape, South Africa
+p3902
+aVCheviot, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 4JU, United Kingdom
+p3903
+aVCheviot, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 4JR, United Kingdom
+p3904
+aVCheviot, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 4JP, United Kingdom
+p3905
+aa(lp3906
+VWhanganui, Wanganui District, Manawatu-Wanganui, New Zealand/Aotearoa
+p3907
+aVWanganui, New South Wales, Australia
+p3908
+aVWanganui, 4293, New South Wales, 2831, Australia
+p3909
+aVWANGANUI, Landguard Road, Gonville, Whanganui, Wanganui District, Manawatu-Wanganui, 4501, New Zealand/Aotearoa
+p3910
+aa(lp3911
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p3912
+aVWellington, New Zealand/Aotearoa
+p3913
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p3914
+aVWellington, Somerset, South West England, England, United Kingdom
+p3915
+aVWellington, Collingsworth County, Texas, United States of America
+p3916
+aVWellington, Jefferson County, Kentucky, United States of America
+p3917
+aVWellington, Palm Beach County, Florida, United States of America
+p3918
+aVWellington, Palm Beach County, Florida, United States of America
+p3919
+aVWellington, Larimer County, Colorado, United States of America
+p3920
+aVWellington, Prince County, Prince Edward Island, Canada
+p3921
+aa(lp3922
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p3923
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p3924
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p3925
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p3926
+aVChristchurch, Middlesex, Virginia, United States of America
+p3927
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p3928
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p3929
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p3930
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p3931
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p3932
+aa(lp3933
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p3934
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p3935
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p3936
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p3937
+aVChristchurch, Middlesex, Virginia, United States of America
+p3938
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p3939
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p3940
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p3941
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p3942
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p3943
+aa(lp3944
+VAuckland, 1010, New Zealand/Aotearoa
+p3945
+aVAuckland, New Zealand/Aotearoa
+p3946
+aVAuckland, Tulare County, California, United States of America
+p3947
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3948
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3949
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3950
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3951
+aa(lp3952
+VWairoa, Wairoa District, Hawke's Bay, New Zealand/Aotearoa
+p3953
+aVWairoa, Cape Town Ward 21, Cape Town Subcouncil 7, Durbanville, City of Cape Town, Western Cape, 7551, South Africa
+p3954
+aVWairoa, Mount Barker Road, Aldgate, Stirling, South Australia, 5152, Australia
+p3955
+aa(lp3956
+VAuckland, 1010, New Zealand/Aotearoa
+p3957
+aVAuckland, New Zealand/Aotearoa
+p3958
+aVAuckland, Tulare County, California, United States of America
+p3959
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p3960
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p3961
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p3962
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p3963
+aa(lp3964
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p3965
+aVWellington, New Zealand/Aotearoa
+p3966
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p3967
+aVWellington, Somerset, South West England, England, United Kingdom
+p3968
+aVWellington, Collingsworth County, Texas, United States of America
+p3969
+aVWellington, Jefferson County, Kentucky, United States of America
+p3970
+aVWellington, Palm Beach County, Florida, United States of America
+p3971
+aVWellington, Palm Beach County, Florida, United States of America
+p3972
+aVWellington, Larimer County, Colorado, United States of America
+p3973
+aVWellington, Prince County, Prince Edward Island, Canada
+p3974
+aa(lp3975
+VKaponga, South Taranaki District, Taranaki, New Zealand/Aotearoa
+p3976
+aa(lp3977
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p3978
+aVWellington, New Zealand/Aotearoa
+p3979
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p3980
+aVWellington, Somerset, South West England, England, United Kingdom
+p3981
+aVWellington, Collingsworth County, Texas, United States of America
+p3982
+aVWellington, Jefferson County, Kentucky, United States of America
+p3983
+aVWellington, Palm Beach County, Florida, United States of America
+p3984
+aVWellington, Palm Beach County, Florida, United States of America
+p3985
+aVWellington, Larimer County, Colorado, United States of America
+p3986
+aVWellington, Prince County, Prince Edward Island, Canada
+p3987
+aa(lp3988
+VTimaru, Timaru District, Canterbury, New Zealand/Aotearoa
+p3989
+aV\u0427\u0435\u043c\u0430\u043b, \u0427\u0435\u043c\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439, \u0421\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p3990
+aVTimaru, Falvey Road, Timaru, Timaru District, Canterbury, New Zealand/Aotearoa
+p3991
+aV\u0427\u0435\u043c\u0430\u043b, \u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u043f\u0435\u0440\u0435\u0443\u043b\u043e\u043a, \u0427\u0435\u043c\u0430\u043b, \u0427\u0435\u043c\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439, \u0421\u0424\u041e, 649240, \u0420\u043e\u0441\u0441\u0438\u044f
+p3992
+aa(lp3993
+VNew Plymouth, New Plymouth District, Taranaki, New Zealand/Aotearoa
+p3994
+aVNew Plymouth, The Bahamas
+p3995
+aVNew Plymouth, Payette County, Idaho, United States of America
+p3996
+aVNew Plymouth, Brown Township, Vinton County, Ohio, United States of America
+p3997
+aVNew Plymouth, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8HF, United Kingdom
+p3998
+aVNew Plymouth, Westwood Hill, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8EZ, United Kingdom
+p3999
+aa(lp4000
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p4001
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p4002
+aa(lp4003
+VGisborne, New Zealand/Aotearoa
+p4004
+aVGisborne, New Zealand/Aotearoa
+p4005
+aVGisborne, New Zealand/Aotearoa
+p4006
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p4007
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p4008
+aVGisborne, Early Street, New Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3438, Australia
+p4009
+aVGisborne, Robertson Street, Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3437, Australia
+p4010
+aa(lp4011
+VTe Kuiti, Waitomo District, Waikato, New Zealand/Aotearoa
+p4012
+aVTe Kuiti, Rora Street, Te Kuiti, Waitomo District, Waikato, New Zealand/Aotearoa
+p4013
+aa(lp4014
+VMangakino, Taupo District, Waikato, New Zealand/Aotearoa
+p4015
+aa(lp4016
+VPukekohe, Auckland, New Zealand/Aotearoa
+p4017
+aVPukekohe, Station Road, Franklin, Auckland, 2120, New Zealand/Aotearoa
+p4018
+aVPukekohe, Station Road, Franklin, Auckland, 2120, New Zealand/Aotearoa
+p4019
+aa(lp4020
+VAuckland, 1010, New Zealand/Aotearoa
+p4021
+aVAuckland, New Zealand/Aotearoa
+p4022
+aVAuckland, Tulare County, California, United States of America
+p4023
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4024
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4025
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4026
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4027
+aa(lp4028
+VGisborne, New Zealand/Aotearoa
+p4029
+aVGisborne, New Zealand/Aotearoa
+p4030
+aVGisborne, New Zealand/Aotearoa
+p4031
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p4032
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p4033
+aVGisborne, Early Street, New Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3438, Australia
+p4034
+aVGisborne, Robertson Street, Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3437, Australia
+p4035
+aa(lp4036
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4037
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p4038
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p4039
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p4040
+aVChristchurch, Middlesex, Virginia, United States of America
+p4041
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p4042
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p4043
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p4044
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p4045
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p4046
+aa(lp4047
+VAuckland, 1010, New Zealand/Aotearoa
+p4048
+aVAuckland, New Zealand/Aotearoa
+p4049
+aVAuckland, Tulare County, California, United States of America
+p4050
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4051
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4052
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4053
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4054
+aa(lp4055
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p4056
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p4057
+aa(lp4058
+VGisborne, New Zealand/Aotearoa
+p4059
+aVGisborne, New Zealand/Aotearoa
+p4060
+aVGisborne, New Zealand/Aotearoa
+p4061
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p4062
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p4063
+aVGisborne, Early Street, New Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3438, Australia
+p4064
+aVGisborne, Robertson Street, Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3437, Australia
+p4065
+aa(lp4066
+VAuckland, 1010, New Zealand/Aotearoa
+p4067
+aVAuckland, New Zealand/Aotearoa
+p4068
+aVAuckland, Tulare County, California, United States of America
+p4069
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4070
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4071
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4072
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4073
+aa(lp4074
+VTakapuna, Devonport-Takapuna, Auckland, New Zealand/Aotearoa
+p4075
+aa(lp4076
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p4077
+aa(lp4078
+VAuckland, 1010, New Zealand/Aotearoa
+p4079
+aVAuckland, New Zealand/Aotearoa
+p4080
+aVAuckland, Tulare County, California, United States of America
+p4081
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4082
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4083
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4084
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4085
+aa(lp4086
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p4087
+aVWellington, New Zealand/Aotearoa
+p4088
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p4089
+aVWellington, Somerset, South West England, England, United Kingdom
+p4090
+aVWellington, Collingsworth County, Texas, United States of America
+p4091
+aVWellington, Jefferson County, Kentucky, United States of America
+p4092
+aVWellington, Palm Beach County, Florida, United States of America
+p4093
+aVWellington, Palm Beach County, Florida, United States of America
+p4094
+aVWellington, Larimer County, Colorado, United States of America
+p4095
+aVWellington, Prince County, Prince Edward Island, Canada
+p4096
+aa(lp4097
+VAuckland, 1010, New Zealand/Aotearoa
+p4098
+aVAuckland, New Zealand/Aotearoa
+p4099
+aVAuckland, Tulare County, California, United States of America
+p4100
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4101
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4102
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4103
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4104
+aa(lp4105
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p4106
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p4107
+aa(lp4108
+VLondon, Greater London, England, United Kingdom
+p4109
+aVLondon, Ontario, Canada
+p4110
+aVLondon, Laurel County, Kentucky, United States of America
+p4111
+aVLondon, Dane County, Wisconsin, United States of America
+p4112
+aVLondon, Madison County, Ohio, United States of America
+p4113
+aVLondon, Tulare County, California, United States of America
+p4114
+aVLondon, Pope County, Arkansas, United States of America
+p4115
+aVLondon, Kanawha County, West Virginia, United States of America
+p4116
+aVLondon, Rusk County, Texas, United States of America
+p4117
+aVLondon, Richland County, Ohio, United States of America
+p4118
+aa(lp4119
+VAuckland, 1010, New Zealand/Aotearoa
+p4120
+aVAuckland, New Zealand/Aotearoa
+p4121
+aVAuckland, Tulare County, California, United States of America
+p4122
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4123
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4124
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4125
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4126
+aa(lp4127
+VChevot Court, Amberleigh Village, Tippecanoe County, Indiana, 47906, United States of America
+p4128
+aa(lp4129
+VWaiuku, Auckland, New Zealand/Aotearoa
+p4130
+aa(lp4131
+VAuckland, 1010, New Zealand/Aotearoa
+p4132
+aVAuckland, New Zealand/Aotearoa
+p4133
+aVAuckland, Tulare County, California, United States of America
+p4134
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4135
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4136
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4137
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4138
+aa(lp4139
+VCheviot, Hamilton County, Ohio, United States of America
+p4140
+aVThe Cheviot, Northumberland, North East England, England, United Kingdom
+p4141
+aVCheviot, Town of Germantown, Columbia County, New York, United States of America
+p4142
+aVCheviot, Kittitas County, Washington, United States of America
+p4143
+aVCheviot, Hurunui District, Canterbury, New Zealand/Aotearoa
+p4144
+aVCheviot, Newtonlees House, Kaimflat, Scottish Borders, Scotland, United Kingdom
+p4145
+aVCheviot, Lukhanji Ward 18, Lukhanji Local Municipality, Chris Hani District Municipality, Eastern Cape, South Africa
+p4146
+aVCheviot, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 4JU, United Kingdom
+p4147
+aVCheviot, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 4JR, United Kingdom
+p4148
+aVCheviot, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 4JP, United Kingdom
+p4149
+aaNa(lp4150
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4151
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p4152
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p4153
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p4154
+aVChristchurch, Middlesex, Virginia, United States of America
+p4155
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p4156
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p4157
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p4158
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p4159
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p4160
+aa(lp4161
+VNew Plymouth, New Plymouth District, Taranaki, New Zealand/Aotearoa
+p4162
+aVNew Plymouth, The Bahamas
+p4163
+aVNew Plymouth, Payette County, Idaho, United States of America
+p4164
+aVNew Plymouth, Brown Township, Vinton County, Ohio, United States of America
+p4165
+aVNew Plymouth, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8HF, United Kingdom
+p4166
+aVNew Plymouth, Westwood Hill, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8EZ, United Kingdom
+p4167
+aa(lp4168
+VWhangarei, Whangarei District, Northland, New Zealand/Aotearoa
+p4169
+aa(lp4170
+VTokoroa, South Waikato District, Waikato, New Zealand/Aotearoa
+p4171
+aa(lp4172
+VTe Aroha, Matamata Piako District, Waikato, New Zealand/Aotearoa
+p4173
+aVTe Aroha, 1190, Orange, New South Wales, Australia
+p4174
+aa(lp4175
+VBluff, Invercargill City, Southland, New Zealand/Aotearoa
+p4176
+aVBluff, PGH, Allegheny County, Pennsylvania, United States of America
+p4177
+aVBluff, Santa Catalina Island, California, United States of America
+p4178
+aVThe Bluff, Maryborough, QLD, Australia
+p4179
+aVThe Bluff, Charters Towers, QLD, Australia
+p4180
+aVThe Bluff, QLD, Australia
+p4181
+aVThe Bluff, Warwick, QLD, 4370, Australia
+p4182
+aVThe Bluff, Shire of Hepburn, Grampians, Victoria, Australia
+p4183
+aVThe Bluff, Shire of Mansfield, Hume, Victoria, Australia
+p4184
+aVThe Bluff, Shire of Moorabool, Grampians, Victoria, Australia
+p4185
+aa(lp4186
+VDannevirke, Tararua District, Manawatu-Wanganui, New Zealand/Aotearoa
+p4187
+aVDannevirke, Howard County, Nebraska, United States of America
+p4188
+aa(lp4189
+VAuckland, 1010, New Zealand/Aotearoa
+p4190
+aVAuckland, New Zealand/Aotearoa
+p4191
+aVAuckland, Tulare County, California, United States of America
+p4192
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4193
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4194
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4195
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4196
+aa(lp4197
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p4198
+aVDunedin, Pinellas County, Florida, United States of America
+p4199
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p4200
+aVDunedin, Chesapeake City, Virginia, United States of America
+p4201
+aVDunedin, Petersburg (city), Virginia, United States of America
+p4202
+aVDunedin, Ontario, Canada
+p4203
+aVDunedin, Pinellas County, Florida, United States of America
+p4204
+aVDunedin, New South Wales, Australia
+p4205
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p4206
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p4207
+aa(lp4208
+VWaihi, Hauraki District, Waikato, New Zealand/Aotearoa
+p4209
+aVWaihi, Taupo District, Waikato, New Zealand/Aotearoa
+p4210
+aVWaihi, Waitangi West Road, Chatham Islands, New Zealand/Aotearoa
+p4211
+aaNa(lp4212
+VClyde, Essex Street, Clyde, Contra Costa County, California, 94520, United States of America
+p4213
+aVClyde, Contra Costa County, California, United States of America
+p4214
+aVClyde, Alberta, Canada
+p4215
+aVClyde, Imperial County, California, United States of America
+p4216
+aVClyde, Washington County, Arkansas, United States of America
+p4217
+aVClyde, Sandusky County, Ohio, United States of America
+p4218
+aVClyde, Central Otago District, Otago, New Zealand/Aotearoa
+p4219
+aVClyde, Galen Town, Wayne County, New York, United States of America
+p4220
+aVClyde, Cloud County, Kansas, United States of America
+p4221
+aVClyde, Factory Street, Granville, Sydney, New South Wales, 2142, Australia
+p4222
+aa(lp4223
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4224
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p4225
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p4226
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p4227
+aVChristchurch, Middlesex, Virginia, United States of America
+p4228
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p4229
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p4230
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p4231
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p4232
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p4233
+aa(lp4234
+VAuckland, 1010, New Zealand/Aotearoa
+p4235
+aVAuckland, New Zealand/Aotearoa
+p4236
+aVAuckland, Tulare County, California, United States of America
+p4237
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4238
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4239
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4240
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4241
+aa(lp4242
+VAuckland, 1010, New Zealand/Aotearoa
+p4243
+aVAuckland, New Zealand/Aotearoa
+p4244
+aVAuckland, Tulare County, California, United States of America
+p4245
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4246
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4247
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4248
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4249
+aa(lp4250
+VNapier, Napier City, Hawke's Bay, New Zealand/Aotearoa
+p4251
+aVNapier, Overberg District Municipality, Western Cape, South Africa
+p4252
+aVNapier, Bedford County, Pennsylvania, United States of America
+p4253
+aVNapier, San Jacinto County, Texas, United States of America
+p4254
+aVNapier, Washington County, Ohio, United States of America
+p4255
+aVNapier, Berrien County, Michigan, United States of America
+p4256
+aVNapier, Holt County, Missouri, United States of America
+p4257
+aVNapier, Lewis, Tennessee, United States of America
+p4258
+aVNapier, Boone County, Iowa, United States of America
+p4259
+aVNapier, Leslie County, Kentucky, United States of America
+p4260
+aa(lp4261
+VHamilton, Ontario, Canada
+p4262
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p4263
+aVHamilton County, Illinois, United States of America
+p4264
+aVHamilton County, Kansas, United States of America
+p4265
+aVHamilton, Tennessee, United States of America
+p4266
+aVHamilton, Bermuda
+p4267
+aVHamilton County, Ohio, United States of America
+p4268
+aVHamilton, Butler County, Ohio, United States of America
+p4269
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p4270
+aVHamilton, City of Hamilton, Bermuda
+p4271
+aaNa(lp4272
+VBlenheim, Marlborough, New Zealand/Aotearoa
+p4273
+aVBlenheim, Albemarle, Virginia, United States of America
+p4274
+aVBlenheim, Chatham, Ontario, Canada
+p4275
+aVBlenheim, Camden County, New Jersey, United States of America
+p4276
+aVBlenheim, Chatham, Ontario, Canada
+p4277
+aVBlenheim, Marlboro County, South Carolina, United States of America
+p4278
+aVBlenheim, Sweet Air, Baltimore County, Maryland, 21136, United States of America
+p4279
+aVBlenheim, San Antonio, Bexar County, Texas, 78209, United States of America
+p4280
+aVBlenheim, Croughton, South Northamptonshire, Northamptonshire, East Midlands, England, NN13, United Kingdom
+p4281
+aVBlenheim, Patchway CP, Filton, South Gloucestershire, South West England, England, BS34, United Kingdom
+p4282
+aa(lp4283
+VNorthshore, Ontario, Canada
+p4284
+aVNorthshore, Orlando, Orange County, Florida, 32806, United States of America
+p4285
+aVNorthshore, Aiken, Shelby County, Texas, United States of America
+p4286
+aVNorthshore, Flower Mound, Denton County, Texas, 75022, United States of America
+p4287
+aVNorthShore, Orticeti, Osiglia, SV, LIG, Italia
+p4288
+aVNorthShore, Case Tite, Osiglia, SV, LIG, Italia
+p4289
+aVNorthshore, 79, Jameson Avenue, Parkdale, Toronto, Ontario, M6K, Canada
+p4290
+aVNorthshore, 110, San Antonio Street, Austin, Travis County, Texas, 78701, United States of America
+p4291
+aVNorthshore, \u0e1e\u0e31\u0e17\u0e22\u0e32 5, \u0e1e\u0e31\u0e17\u0e22\u0e32, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35, 20210, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22
+p4292
+aVNorthshore, Farm-to-Market Road 3239, Portland, San Patricio County, Texas, 78374, United States of America
+p4293
+aa(lp4294
+VTe Awamutu, Waipa District, Waikato, New Zealand/Aotearoa
+p4295
+aa(lp4296
+VTakapuna, Devonport-Takapuna, Auckland, New Zealand/Aotearoa
+p4297
+aa(lp4298
+VWarkworth, Auckland, New Zealand/Aotearoa
+p4299
+aVWarkworth, Northumberland, North East England, England, United Kingdom
+p4300
+aVWarkworth, Northumberland, North East England, England, NE65, United Kingdom
+p4301
+aVWarkworth, South Northamptonshire, Northamptonshire, East Midlands, England, United Kingdom
+p4302
+aVWarkworth, 4, Dial Place, Warkworth, Northumberland, North East England, England, NE65 0UR, United Kingdom
+p4303
+aVWarkworth, Grange Road, Shilbottle, Northumberland, North East England, England, United Kingdom
+p4304
+aaNa(lp4305
+VGisborne, New Zealand/Aotearoa
+p4306
+aVGisborne, New Zealand/Aotearoa
+p4307
+aVGisborne, New Zealand/Aotearoa
+p4308
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p4309
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p4310
+aVGisborne, Early Street, New Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3438, Australia
+p4311
+aVGisborne, Robertson Street, Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3437, Australia
+p4312
+aa(lp4313
+VAuckland, 1010, New Zealand/Aotearoa
+p4314
+aVAuckland, New Zealand/Aotearoa
+p4315
+aVAuckland, Tulare County, California, United States of America
+p4316
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4317
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4318
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4319
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4320
+aa(lp4321
+VAuckland, 1010, New Zealand/Aotearoa
+p4322
+aVAuckland, New Zealand/Aotearoa
+p4323
+aVAuckland, Tulare County, California, United States of America
+p4324
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4325
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4326
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4327
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4328
+aa(lp4329
+VStratford-upon-Avon, Warwickshire, West Midlands, England, United Kingdom
+p4330
+aVStratford, Station Street, Stratford Marsh, London Borough of Newham, London, Greater London, England, E15 1XD, United Kingdom
+p4331
+aVStratford, Perth County, Ontario, Canada
+p4332
+aVStratford, London, Greater London, England, United Kingdom
+p4333
+aVStratford, Fairfield County, Connecticut, United States of America
+p4334
+aVStratford, Sherman County, Texas, United States of America
+p4335
+aVStratford, Stratford District, Taranaki, New Zealand/Aotearoa
+p4336
+aVStratford, Queens County, Prince Edward Island, Canada
+p4337
+aVStratford, Coös County, New Hampshire, United States of America
+p4338
+aVStratford, Marathon County, Wisconsin, United States of America
+p4339
+aa(lp4340
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p4341
+aVWellington, New Zealand/Aotearoa
+p4342
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p4343
+aVWellington, Somerset, South West England, England, United Kingdom
+p4344
+aVWellington, Collingsworth County, Texas, United States of America
+p4345
+aVWellington, Jefferson County, Kentucky, United States of America
+p4346
+aVWellington, Palm Beach County, Florida, United States of America
+p4347
+aVWellington, Palm Beach County, Florida, United States of America
+p4348
+aVWellington, Larimer County, Colorado, United States of America
+p4349
+aVWellington, Prince County, Prince Edward Island, Canada
+p4350
+aa(lp4351
+VPahiatua, Tararua District, Manawatu-Wanganui, New Zealand/Aotearoa
+p4352
+aa(lp4353
+VTe Awamutu, Waipa District, Waikato, New Zealand/Aotearoa
+p4354
+aa(lp4355
+VInvercargill, Invercargill City, Southland, New Zealand/Aotearoa
+p4356
+aVInvercargill, Clifton, Invercargill City, Southland, 9812, New Zealand/Aotearoa
+p4357
+aVInvercargill, Mossneuk, Hudson Bay, South Lanarkshire, Scotland, G75 8PR, United Kingdom
+p4358
+aa(lp4359
+VAuckland, 1010, New Zealand/Aotearoa
+p4360
+aVAuckland, New Zealand/Aotearoa
+p4361
+aVAuckland, Tulare County, California, United States of America
+p4362
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4363
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4364
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4365
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4366
+aa(lp4367
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p4368
+aa(lp4369
+VLyttelton, Christchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4370
+aVLyttelton, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p4371
+aVLyttelton, Cradock Avenue, Tshwane Ward 57, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0140, South Africa
+p4372
+aa(lp4373
+VAuckland, 1010, New Zealand/Aotearoa
+p4374
+aVAuckland, New Zealand/Aotearoa
+p4375
+aVAuckland, Tulare County, California, United States of America
+p4376
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4377
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4378
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4379
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4380
+aaNa(lp4381
+VHastings, East Sussex, South East, England, United Kingdom
+p4382
+aVHastings, Dakota County, Minnesota, United States of America
+p4383
+aVHastings, Hastings District, Hawke's Bay, New Zealand/Aotearoa
+p4384
+aVHastings, Adams County, Nebraska, United States of America
+p4385
+aVHastings, Australia
+p4386
+aVHastings, Station Approach, Trinity Triangle, Blacklands, Hastings, East Sussex, South East, England, TN34 1BG, United Kingdom
+p4387
+aVHastings, Barry County, Michigan, United States of America
+p4388
+aVHastings, Mills County, Iowa, United States of America
+p4389
+aVHastings, Cambria County, Pennsylvania, United States of America
+p4390
+aVHastings, Shire of Mornington Peninsula, Greater Melbourne, Victoria, Australia
+p4391
+aa(lp4392
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p4393
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p4394
+aVDurban, Manitoba, Canada
+p4395
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p4396
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p4397
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p4398
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4399
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p4400
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4401
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4402
+aa(lp4403
+VWhanganui, Wanganui District, Manawatu-Wanganui, New Zealand/Aotearoa
+p4404
+aVWanganui, New South Wales, Australia
+p4405
+aVWanganui, 4293, New South Wales, 2831, Australia
+p4406
+aVWANGANUI, Landguard Road, Gonville, Whanganui, Wanganui District, Manawatu-Wanganui, 4501, New Zealand/Aotearoa
+p4407
+aa(lp4408
+VHastings, East Sussex, South East, England, United Kingdom
+p4409
+aVHastings, Dakota County, Minnesota, United States of America
+p4410
+aVHastings, Hastings District, Hawke's Bay, New Zealand/Aotearoa
+p4411
+aVHastings, Adams County, Nebraska, United States of America
+p4412
+aVHastings, Australia
+p4413
+aVHastings, Station Approach, Trinity Triangle, Blacklands, Hastings, East Sussex, South East, England, TN34 1BG, United Kingdom
+p4414
+aVHastings, Barry County, Michigan, United States of America
+p4415
+aVHastings, Mills County, Iowa, United States of America
+p4416
+aVHastings, Cambria County, Pennsylvania, United States of America
+p4417
+aVHastings, Shire of Mornington Peninsula, Greater Melbourne, Victoria, Australia
+p4418
+aa(lp4419
+VAuckland, 1010, New Zealand/Aotearoa
+p4420
+aVAuckland, New Zealand/Aotearoa
+p4421
+aVAuckland, Tulare County, California, United States of America
+p4422
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4423
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4424
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4425
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4426
+aa(lp4427
+VInvercargill, Invercargill City, Southland, New Zealand/Aotearoa
+p4428
+aVInvercargill, Clifton, Invercargill City, Southland, 9812, New Zealand/Aotearoa
+p4429
+aVInvercargill, Mossneuk, Hudson Bay, South Lanarkshire, Scotland, G75 8PR, United Kingdom
+p4430
+aa(lp4431
+VTakapuna, Devonport-Takapuna, Auckland, New Zealand/Aotearoa
+p4432
+aa(lp4433
+VMataura, Gore District, Southland, New Zealand/Aotearoa
+p4434
+aVMataura, Îles Australes, Polynésie Française, France, Polynésie française, Îles Australes (eaux territoriales)
+p4435
+aa(lp4436
+VParaparaumu, Kapiti Coast District, Wellington, New Zealand/Aotearoa
+p4437
+aVParaparaumu, Subway from Coastlands Car Park to Paraparaumu Station, Raumati, Paraparaumu, Kapiti Coast District, Wellington, 5032, New Zealand/Aotearoa
+p4438
+aa(lp4439
+VSouth Brisbane, South East Busway, West End, Brisbane, QLD, 4101, Australia
+p4440
+aVSouth Brisbane, Brisbane, QLD, Australia
+p4441
+aVSouth Brisbane, South East Busway, West End, Brisbane, QLD, 4101, Australia
+p4442
+aa(lp4443
+VTokoroa, South Waikato District, Waikato, New Zealand/Aotearoa
+p4444
+aa(lp4445
+VOtahuhu, Mangere-Otahuhu, Auckland, New Zealand/Aotearoa
+p4446
+aV\u014ct\u0101huhu / Mount Richmond, Maungakiekie-Tamaki, Auckland, New Zealand/Aotearoa
+p4447
+aV\u014ct\u0101huhu, Walmsley Road Footbridge, Otahuhu, Mangere-Otahuhu, Auckland, 1062, New Zealand/Aotearoa
+p4448
+aa(lp4449
+VWhangarei, Whangarei District, Northland, New Zealand/Aotearoa
+p4450
+aa(lp4451
+VHastings, East Sussex, South East, England, United Kingdom
+p4452
+aVHastings, Dakota County, Minnesota, United States of America
+p4453
+aVHastings, Hastings District, Hawke's Bay, New Zealand/Aotearoa
+p4454
+aVHastings, Adams County, Nebraska, United States of America
+p4455
+aVHastings, Australia
+p4456
+aVHastings, Station Approach, Trinity Triangle, Blacklands, Hastings, East Sussex, South East, England, TN34 1BG, United Kingdom
+p4457
+aVHastings, Barry County, Michigan, United States of America
+p4458
+aVHastings, Mills County, Iowa, United States of America
+p4459
+aVHastings, Cambria County, Pennsylvania, United States of America
+p4460
+aVHastings, Shire of Mornington Peninsula, Greater Melbourne, Victoria, Australia
+p4461
+aa(lp4462
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p4463
+aa(lp4464
+VInvercargill, Invercargill City, Southland, New Zealand/Aotearoa
+p4465
+aVInvercargill, Clifton, Invercargill City, Southland, 9812, New Zealand/Aotearoa
+p4466
+aVInvercargill, Mossneuk, Hudson Bay, South Lanarkshire, Scotland, G75 8PR, United Kingdom
+p4467
+aa(lp4468
+VNuku'alofa, Vahe Kolofo'ou, Tongatapu, Tonga
+p4469
+aa(lp4470
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p4471
+aVWellington, New Zealand/Aotearoa
+p4472
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p4473
+aVWellington, Somerset, South West England, England, United Kingdom
+p4474
+aVWellington, Collingsworth County, Texas, United States of America
+p4475
+aVWellington, Jefferson County, Kentucky, United States of America
+p4476
+aVWellington, Palm Beach County, Florida, United States of America
+p4477
+aVWellington, Palm Beach County, Florida, United States of America
+p4478
+aVWellington, Larimer County, Colorado, United States of America
+p4479
+aVWellington, Prince County, Prince Edward Island, Canada
+p4480
+aa(lp4481
+VLevin, Horowhenua District, Manawatu-Wanganui, New Zealand/Aotearoa
+p4482
+aVLevin, Landkreis Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, Deutschland
+p4483
+aVLevín, okres Litom\u011b\u0159ice, Ústecký kraj, Severozápad, \u010cesko
+p4484
+aVLevín, okres Beroun, St\u0159edo\u010deský kraj, St\u0159ední \u010cechy, \u010cesko
+p4485
+aVLevín, okres \u010ceské Bud\u011bjovice, Jiho\u010deský kraj, Jihozápad, \u010cesko
+p4486
+aVLevín, okres Olomouc, Olomoucký kraj, St\u0159ední Morava, \u010cesko
+p4487
+aVLevín, okres Hradec Králové, Královéhradecký kraj, Severovýchod, \u010cesko
+p4488
+aV\u041b\u0435\u0432\u0438\u043d, \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e-\u041d\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p4489
+aVLevin, Dargun, Landkreis Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, 17159, Deutschland
+p4490
+aVLevin, Dargun, Landkreis Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, 17159, Deutschland
+p4491
+aa(lp4492
+VAuckland, 1010, New Zealand/Aotearoa
+p4493
+aVAuckland, New Zealand/Aotearoa
+p4494
+aVAuckland, Tulare County, California, United States of America
+p4495
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4496
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4497
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4498
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4499
+aa(lp4500
+VRangiora, Waimakariri District, Canterbury, New Zealand/Aotearoa
+p4501
+aVRangiora, Blackett Street, Rangiora, Waimakariri District, Canterbury, 7400, New Zealand/Aotearoa
+p4502
+aa(lp4503
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p4504
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p4505
+aa(lp4506
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p4507
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p4508
+aa(lp4509
+VAuckland, 1010, New Zealand/Aotearoa
+p4510
+aVAuckland, New Zealand/Aotearoa
+p4511
+aVAuckland, Tulare County, California, United States of America
+p4512
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4513
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4514
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4515
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4516
+aa(lp4517
+VLongoteme, Vahe Vaini, Tongatapu, Tonga
+p4518
+aaNa(lp4519
+VTauranga, Tauranga City, Bay of Plenty, New Zealand/Aotearoa
+p4520
+aVTauranga, Brightlingsea Road, Thorrington Civil Parish, Tendring, Essex, East of England, England, CO7 8JL, United Kingdom
+p4521
+aa(lp4522
+VTokoroa, South Waikato District, Waikato, New Zealand/Aotearoa
+p4523
+aa(lp4524
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p4525
+aVWellington, New Zealand/Aotearoa
+p4526
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p4527
+aVWellington, Somerset, South West England, England, United Kingdom
+p4528
+aVWellington, Collingsworth County, Texas, United States of America
+p4529
+aVWellington, Jefferson County, Kentucky, United States of America
+p4530
+aVWellington, Palm Beach County, Florida, United States of America
+p4531
+aVWellington, Palm Beach County, Florida, United States of America
+p4532
+aVWellington, Larimer County, Colorado, United States of America
+p4533
+aVWellington, Prince County, Prince Edward Island, Canada
+p4534
+aa(lp4535
+VAuckland, 1010, New Zealand/Aotearoa
+p4536
+aVAuckland, New Zealand/Aotearoa
+p4537
+aVAuckland, Tulare County, California, United States of America
+p4538
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4539
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4540
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4541
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4542
+aa(lp4543
+VAuckland, 1010, New Zealand/Aotearoa
+p4544
+aVAuckland, New Zealand/Aotearoa
+p4545
+aVAuckland, Tulare County, California, United States of America
+p4546
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4547
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4548
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4549
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4550
+aa(lp4551
+VBlenheim, Marlborough, New Zealand/Aotearoa
+p4552
+aVBlenheim, Albemarle, Virginia, United States of America
+p4553
+aVBlenheim, Chatham, Ontario, Canada
+p4554
+aVBlenheim, Camden County, New Jersey, United States of America
+p4555
+aVBlenheim, Chatham, Ontario, Canada
+p4556
+aVBlenheim, Marlboro County, South Carolina, United States of America
+p4557
+aVBlenheim, Sweet Air, Baltimore County, Maryland, 21136, United States of America
+p4558
+aVBlenheim, San Antonio, Bexar County, Texas, 78209, United States of America
+p4559
+aVBlenheim, Croughton, South Northamptonshire, Northamptonshire, East Midlands, England, NN13, United Kingdom
+p4560
+aVBlenheim, Patchway CP, Filton, South Gloucestershire, South West England, England, BS34, United Kingdom
+p4561
+aa(lp4562
+VLumsden, Southland District, Southland, New Zealand/Aotearoa
+p4563
+aVLumsden, Saskatchewan, Canada
+p4564
+aVLumsden, Aberdeenshire, Scotland, United Kingdom
+p4565
+aVLumsden, Newfoundland and Labrador, Canada
+p4566
+aVLumsden, Mortimer Crescent, Swiss Cottage, South Hampstead, London Borough of Camden, London, Greater London, England, NW6 5JE, United Kingdom
+p4567
+aa(lp4568
+VRawene, Far North District, Northland, New Zealand/Aotearoa
+p4569
+aa(lp4570
+VAuckland, 1010, New Zealand/Aotearoa
+p4571
+aVAuckland, New Zealand/Aotearoa
+p4572
+aVAuckland, Tulare County, California, United States of America
+p4573
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4574
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4575
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4576
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4577
+aa(lp4578
+VNew Plymouth, New Plymouth District, Taranaki, New Zealand/Aotearoa
+p4579
+aVNew Plymouth, The Bahamas
+p4580
+aVNew Plymouth, Payette County, Idaho, United States of America
+p4581
+aVNew Plymouth, Brown Township, Vinton County, Ohio, United States of America
+p4582
+aVNew Plymouth, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8HF, United Kingdom
+p4583
+aVNew Plymouth, Westwood Hill, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8EZ, United Kingdom
+p4584
+aa(lp4585
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p4586
+aVDunedin, Pinellas County, Florida, United States of America
+p4587
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p4588
+aVDunedin, Chesapeake City, Virginia, United States of America
+p4589
+aVDunedin, Petersburg (city), Virginia, United States of America
+p4590
+aVDunedin, Ontario, Canada
+p4591
+aVDunedin, Pinellas County, Florida, United States of America
+p4592
+aVDunedin, New South Wales, Australia
+p4593
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p4594
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p4595
+aa(lp4596
+VNuku'alofa, Vahe Kolofo'ou, Tongatapu, Tonga
+p4597
+aa(lp4598
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4599
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p4600
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p4601
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p4602
+aVChristchurch, Middlesex, Virginia, United States of America
+p4603
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p4604
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p4605
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p4606
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p4607
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p4608
+aa(lp4609
+VBurwood, Australia
+p4610
+aVBurwood, Burwood Road, Burwood, Sydney, Burwood Municipality, New South Wales, 2134, Australia
+p4611
+aVBurwood, Christchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4612
+aVBurwood, Kent County, Delaware, United States of America
+p4613
+aVBurwood, Sydney, Burwood Municipality, New South Wales, Australia
+p4614
+aVBurwood, New South Wales, Australia
+p4615
+aVBurwood, City of Whitehorse, Greater Melbourne, Victoria, Australia
+p4616
+aVBurwood, Williamson, Tennessee, United States of America
+p4617
+aVBurwood, Trent Street, Glen Iris, City of Boroondara, Greater Melbourne, Victoria, 3147, Australia
+p4618
+aVBurwood, Westpark, Irvine, Orange County, California, 92604, United States of America
+p4619
+aa(lp4620
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p4621
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p4622
+aa(lp4623
+VOtahuhu, Mangere-Otahuhu, Auckland, New Zealand/Aotearoa
+p4624
+aV\u014ct\u0101huhu / Mount Richmond, Maungakiekie-Tamaki, Auckland, New Zealand/Aotearoa
+p4625
+aV\u014ct\u0101huhu, Walmsley Road Footbridge, Otahuhu, Mangere-Otahuhu, Auckland, 1062, New Zealand/Aotearoa
+p4626
+aa(lp4627
+VWairoa, Wairoa District, Hawke's Bay, New Zealand/Aotearoa
+p4628
+aVWairoa, Cape Town Ward 21, Cape Town Subcouncil 7, Durbanville, City of Cape Town, Western Cape, 7551, South Africa
+p4629
+aVWairoa, Mount Barker Road, Aldgate, Stirling, South Australia, 5152, Australia
+p4630
+aa(lp4631
+VAuckland, 1010, New Zealand/Aotearoa
+p4632
+aVAuckland, New Zealand/Aotearoa
+p4633
+aVAuckland, Tulare County, California, United States of America
+p4634
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4635
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4636
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4637
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4638
+aa(lp4639
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p4640
+aVWellington, New Zealand/Aotearoa
+p4641
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p4642
+aVWellington, Somerset, South West England, England, United Kingdom
+p4643
+aVWellington, Collingsworth County, Texas, United States of America
+p4644
+aVWellington, Jefferson County, Kentucky, United States of America
+p4645
+aVWellington, Palm Beach County, Florida, United States of America
+p4646
+aVWellington, Palm Beach County, Florida, United States of America
+p4647
+aVWellington, Larimer County, Colorado, United States of America
+p4648
+aVWellington, Prince County, Prince Edward Island, Canada
+p4649
+aa(lp4650
+VWhanganui, Wanganui District, Manawatu-Wanganui, New Zealand/Aotearoa
+p4651
+aVWanganui, New South Wales, Australia
+p4652
+aVWanganui, 4293, New South Wales, 2831, Australia
+p4653
+aVWANGANUI, Landguard Road, Gonville, Whanganui, Wanganui District, Manawatu-Wanganui, 4501, New Zealand/Aotearoa
+p4654
+aa(lp4655
+VBlenheim, Marlborough, New Zealand/Aotearoa
+p4656
+aVBlenheim, Albemarle, Virginia, United States of America
+p4657
+aVBlenheim, Chatham, Ontario, Canada
+p4658
+aVBlenheim, Camden County, New Jersey, United States of America
+p4659
+aVBlenheim, Chatham, Ontario, Canada
+p4660
+aVBlenheim, Marlboro County, South Carolina, United States of America
+p4661
+aVBlenheim, Sweet Air, Baltimore County, Maryland, 21136, United States of America
+p4662
+aVBlenheim, San Antonio, Bexar County, Texas, 78209, United States of America
+p4663
+aVBlenheim, Croughton, South Northamptonshire, Northamptonshire, East Midlands, England, NN13, United Kingdom
+p4664
+aVBlenheim, Patchway CP, Filton, South Gloucestershire, South West England, England, BS34, United Kingdom
+p4665
+aa(lp4666
+VStratford-upon-Avon, Warwickshire, West Midlands, England, United Kingdom
+p4667
+aVStratford, Station Street, Stratford Marsh, London Borough of Newham, London, Greater London, England, E15 1XD, United Kingdom
+p4668
+aVStratford, Perth County, Ontario, Canada
+p4669
+aVStratford, London, Greater London, England, United Kingdom
+p4670
+aVStratford, Fairfield County, Connecticut, United States of America
+p4671
+aVStratford, Sherman County, Texas, United States of America
+p4672
+aVStratford, Stratford District, Taranaki, New Zealand/Aotearoa
+p4673
+aVStratford, Queens County, Prince Edward Island, Canada
+p4674
+aVStratford, Coös County, New Hampshire, United States of America
+p4675
+aVStratford, Marathon County, Wisconsin, United States of America
+p4676
+aa(lp4677
+VNew Plymouth, New Plymouth District, Taranaki, New Zealand/Aotearoa
+p4678
+aVNew Plymouth, The Bahamas
+p4679
+aVNew Plymouth, Payette County, Idaho, United States of America
+p4680
+aVNew Plymouth, Brown Township, Vinton County, Ohio, United States of America
+p4681
+aVNew Plymouth, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8HF, United Kingdom
+p4682
+aVNew Plymouth, Westwood Hill, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8EZ, United Kingdom
+p4683
+aa(lp4684
+VThames, Thames Coromandel District, Waikato, New Zealand/Aotearoa
+p4685
+aVThames, Cotswold, Gloucestershire, South West England, England, United Kingdom
+p4686
+aVThames, Wiltshire, South West England, England, United Kingdom
+p4687
+aVThe Thames, Cotswold, Gloucestershire, South West England, England, United Kingdom
+p4688
+aVThames, Gilchrist County, Florida, United States of America
+p4689
+aVThames, Partido de Adolfo Alsina, Bs. As., Argentina
+p4690
+aVThames, Las Cañitas, Palermo, CABA, Comuna 14, CABA, C1414BAH, Argentina
+p4691
+aVThames, Villa Crespo, CABA, Comuna 15, CABA, C1414CXU, Argentina
+p4692
+aVThames, Las Cañitas, Palermo, CABA, Comuna 14, CABA, C1425FNI, Argentina
+p4693
+aVThames, Villa Crespo, CABA, Comuna 15, CABA, C1414CWZ, Argentina
+p4694
+aa(lp4695
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p4696
+aa(lp4697
+VHamilton, Ontario, Canada
+p4698
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p4699
+aVHamilton County, Illinois, United States of America
+p4700
+aVHamilton County, Kansas, United States of America
+p4701
+aVHamilton, Tennessee, United States of America
+p4702
+aVHamilton, Bermuda
+p4703
+aVHamilton County, Ohio, United States of America
+p4704
+aVHamilton, Butler County, Ohio, United States of America
+p4705
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p4706
+aVHamilton, City of Hamilton, Bermuda
+p4707
+aa(lp4708
+VOpunake, South Taranaki District, Taranaki, New Zealand/Aotearoa
+p4709
+aaNaNa(lp4710
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4711
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p4712
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p4713
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p4714
+aVChristchurch, Middlesex, Virginia, United States of America
+p4715
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p4716
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p4717
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p4718
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p4719
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p4720
+aa(lp4721
+VOamaru, Waitaki District, Otago, New Zealand/Aotearoa
+p4722
+aVOamaru, 25, Buckinghamshire Road, Brasside, Belmont, County Durham, North East England, England, DH1 2DQ, United Kingdom
+p4723
+aVoamaru, 46a, Sunderland Road, Gilesgate, Durham, County Durham, North East England, England, DH1 1PF, United Kingdom
+p4724
+aa(lp4725
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4726
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p4727
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p4728
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p4729
+aVChristchurch, Middlesex, Virginia, United States of America
+p4730
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p4731
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p4732
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p4733
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p4734
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p4735
+aa(lp4736
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4737
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p4738
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p4739
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p4740
+aVChristchurch, Middlesex, Virginia, United States of America
+p4741
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p4742
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p4743
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p4744
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p4745
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p4746
+aa(lp4747
+VWestport, Fairfield County, Connecticut, United States of America
+p4748
+aVWestport, County Mayo, Connacht, Ireland
+p4749
+aVWestport, Mendocino County, California, United States of America
+p4750
+aVWestport, Buller District, West Coast, New Zealand/Aotearoa
+p4751
+aVWestport, Bristol County, Massachusetts, United States of America
+p4752
+aVWestport, Baltimore, Maryland, 21230, United States of America
+p4753
+aVWestport, Richland County, Wisconsin, United States of America
+p4754
+aVWestport, Essex County, New York, United States of America
+p4755
+aVWestport, Jackson County, Missouri, United States of America
+p4756
+aVWestport, Grays Harbor County, Washington, United States of America
+p4757
+aa(lp4758
+VTurangi, Taupo District, Waikato, New Zealand/Aotearoa
+p4759
+aa(lp4760
+VHastings, East Sussex, South East, England, United Kingdom
+p4761
+aVHastings, Dakota County, Minnesota, United States of America
+p4762
+aVHastings, Hastings District, Hawke's Bay, New Zealand/Aotearoa
+p4763
+aVHastings, Adams County, Nebraska, United States of America
+p4764
+aVHastings, Australia
+p4765
+aVHastings, Station Approach, Trinity Triangle, Blacklands, Hastings, East Sussex, South East, England, TN34 1BG, United Kingdom
+p4766
+aVHastings, Barry County, Michigan, United States of America
+p4767
+aVHastings, Mills County, Iowa, United States of America
+p4768
+aVHastings, Cambria County, Pennsylvania, United States of America
+p4769
+aVHastings, Shire of Mornington Peninsula, Greater Melbourne, Victoria, Australia
+p4770
+aa(lp4771
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4772
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p4773
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p4774
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p4775
+aVChristchurch, Middlesex, Virginia, United States of America
+p4776
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p4777
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p4778
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p4779
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p4780
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p4781
+aa(lp4782
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p4783
+aVDunedin, Pinellas County, Florida, United States of America
+p4784
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p4785
+aVDunedin, Chesapeake City, Virginia, United States of America
+p4786
+aVDunedin, Petersburg (city), Virginia, United States of America
+p4787
+aVDunedin, Ontario, Canada
+p4788
+aVDunedin, Pinellas County, Florida, United States of America
+p4789
+aVDunedin, New South Wales, Australia
+p4790
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p4791
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p4792
+aa(lp4793
+VSubiaco, RM, LAZ, Italia
+p4794
+aVSubiaco, Subiaco Square Road, Perth, Subiaco, Perth, Western Australia, 6008, Australia
+p4795
+aVSubiaco, Logan County, Arkansas, United States of America
+p4796
+aVSubiaco, Perth, Western Australia, Australia
+p4797
+aVSubiaco, Park Street, Perth, Subiaco, Perth, Western Australia, 6008, Australia
+p4798
+aVSubiaco, Roberts Road, Perth, Subiaco, Perth, Western Australia, 6008, Australia
+p4799
+aVSubiaco, Chemin de Limon, Vauhallan, Palaiseau, Essonne, Île-de-France, France métropolitaine, 91430, France
+p4800
+aa(lp4801
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4802
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p4803
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p4804
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p4805
+aVChristchurch, Middlesex, Virginia, United States of America
+p4806
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p4807
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p4808
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p4809
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p4810
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p4811
+aa(lp4812
+VNew South Wales, Australia
+p4813
+aVCessnock, New South Wales, NSW, Australia
+p4814
+aa(lp4815
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p4816
+aVDunedin, Pinellas County, Florida, United States of America
+p4817
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p4818
+aVDunedin, Chesapeake City, Virginia, United States of America
+p4819
+aVDunedin, Petersburg (city), Virginia, United States of America
+p4820
+aVDunedin, Ontario, Canada
+p4821
+aVDunedin, Pinellas County, Florida, United States of America
+p4822
+aVDunedin, New South Wales, Australia
+p4823
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p4824
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p4825
+aa(lp4826
+VHuntly, Aberdeenshire, Scotland, United Kingdom
+p4827
+aVHuntly, Waikato District, Waikato, New Zealand/Aotearoa
+p4828
+aVHuntly, Bendigo, City of Greater Bendigo, Loddon Mallee, Victoria, Australia
+p4829
+aVHuntly, Rappahannock, Virginia, United States of America
+p4830
+aVHuntly, Aberdeen Road, Huntly, Aberdeenshire, Scotland, United Kingdom
+p4831
+aVHuntly, The Colony, Denton County, Texas, 75056, United States of America
+p4832
+aa(lp4833
+VTe Aroha, Matamata Piako District, Waikato, New Zealand/Aotearoa
+p4834
+aVTe Aroha, 1190, Orange, New South Wales, Australia
+p4835
+aa(lp4836
+VAuckland, 1010, New Zealand/Aotearoa
+p4837
+aVAuckland, New Zealand/Aotearoa
+p4838
+aVAuckland, Tulare County, California, United States of America
+p4839
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4840
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4841
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4842
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4843
+aa(lp4844
+VHastings, East Sussex, South East, England, United Kingdom
+p4845
+aVHastings, Dakota County, Minnesota, United States of America
+p4846
+aVHastings, Hastings District, Hawke's Bay, New Zealand/Aotearoa
+p4847
+aVHastings, Adams County, Nebraska, United States of America
+p4848
+aVHastings, Australia
+p4849
+aVHastings, Station Approach, Trinity Triangle, Blacklands, Hastings, East Sussex, South East, England, TN34 1BG, United Kingdom
+p4850
+aVHastings, Barry County, Michigan, United States of America
+p4851
+aVHastings, Mills County, Iowa, United States of America
+p4852
+aVHastings, Cambria County, Pennsylvania, United States of America
+p4853
+aVHastings, Shire of Mornington Peninsula, Greater Melbourne, Victoria, Australia
+p4854
+aa(lp4855
+VAuckland, 1010, New Zealand/Aotearoa
+p4856
+aVAuckland, New Zealand/Aotearoa
+p4857
+aVAuckland, Tulare County, California, United States of America
+p4858
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4859
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4860
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4861
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4862
+aa(lp4863
+VTauranga, Tauranga City, Bay of Plenty, New Zealand/Aotearoa
+p4864
+aVTauranga, Brightlingsea Road, Thorrington Civil Parish, Tendring, Essex, East of England, England, CO7 8JL, United Kingdom
+p4865
+aa(lp4866
+VCambridge, Cambridgeshire, East of England, England, United Kingdom
+p4867
+aVCambridge, Cambridgeshire, East of England, England, United Kingdom
+p4868
+aVCambridge, Middlesex County, Massachusetts, United States of America
+p4869
+aVCambridge, Regional Municipality of Waterloo, Ontario, Canada
+p4870
+aVCambridge, Henry County, Illinois, United States of America
+p4871
+aVCambridge, Dorchester County, Maryland, United States of America
+p4872
+aVCambridge, Station Road, Petersfield, Cambridge, Cambridgeshire, East of England, England, CB1 2JH, United Kingdom
+p4873
+aVCambridge, Jefferson County, Kentucky, United States of America
+p4874
+aVCambridge, Dane County, Wisconsin, United States of America
+p4875
+aVCambridge, Guernsey County, Ohio, United States of America
+p4876
+aa(lp4877
+VTokoroa, South Waikato District, Waikato, New Zealand/Aotearoa
+p4878
+aaNa(lp4879
+VHelensville, Auckland, New Zealand/Aotearoa
+p4880
+aa(lp4881
+VParaparaumu, Kapiti Coast District, Wellington, New Zealand/Aotearoa
+p4882
+aVParaparaumu, Subway from Coastlands Car Park to Paraparaumu Station, Raumati, Paraparaumu, Kapiti Coast District, Wellington, 5032, New Zealand/Aotearoa
+p4883
+aa(lp4884
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p4885
+aVWellington, New Zealand/Aotearoa
+p4886
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p4887
+aVWellington, Somerset, South West England, England, United Kingdom
+p4888
+aVWellington, Collingsworth County, Texas, United States of America
+p4889
+aVWellington, Jefferson County, Kentucky, United States of America
+p4890
+aVWellington, Palm Beach County, Florida, United States of America
+p4891
+aVWellington, Palm Beach County, Florida, United States of America
+p4892
+aVWellington, Larimer County, Colorado, United States of America
+p4893
+aVWellington, Prince County, Prince Edward Island, Canada
+p4894
+aa(lp4895
+VNadi, Viti
+p4896
+aVNadi, Msinga Local Municipality, Umzinyathi District Municipality, KwaZulu-Natal, South Africa
+p4897
+aVNadi, Umvoti Local Municipality, Umzinyathi District Municipality, KwaZulu-Natal, South Africa
+p4898
+aVNadi, Jawa Tengah, Indonesia
+p4899
+aVNadi, Santa Maria in Calanca, Moësa, Graubünden - Grigioni - Grischun, 6541, Schweiz, Suisse, Svizzera, Svizra
+p4900
+aV\u041d\u0430\u0434\u0438, \u041d\u0435\u0440\u044e\u043d\u0433\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f), \u0414\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p4901
+aV\u90a3\u7239, \u6a2a\u53bf / Heng, \u5357\u5b81\u5e02 / Nanning, \u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a, \u4e2d\u56fd
+p4902
+aV\u0e99\u0eb2\u0e94\u0eb5, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7
+p4903
+aVNadi, Via Nedo Nadi, Foggia, FG, PUG, 71122, Italia
+p4904
+aVNadi, 11, Vidzemes iela, Jaunbirzemnieki, Vanga\u017ei, In\u010dukalna novads, Vidzeme, LV-2136, Latvija
+p4905
+aaNa(lp4906
+VLeeston, Selwyn District, Canterbury, New Zealand/Aotearoa
+p4907
+aa(lp4908
+VMosgiel, Dunedin City, Otago, New Zealand/Aotearoa
+p4909
+aVMosgiel, Gladstone Road South, Fairfield, East Taieri, Dunedin City, Otago, 9018, New Zealand/Aotearoa
+p4910
+aa(lp4911
+VInvercargill, Invercargill City, Southland, New Zealand/Aotearoa
+p4912
+aVInvercargill, Clifton, Invercargill City, Southland, 9812, New Zealand/Aotearoa
+p4913
+aVInvercargill, Mossneuk, Hudson Bay, South Lanarkshire, Scotland, G75 8PR, United Kingdom
+p4914
+aa(lp4915
+VAuckland, 1010, New Zealand/Aotearoa
+p4916
+aVAuckland, New Zealand/Aotearoa
+p4917
+aVAuckland, Tulare County, California, United States of America
+p4918
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4919
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4920
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4921
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4922
+aa(lp4923
+VHenderson County, Illinois, United States of America
+p4924
+aVPitcairn Islands
+p4925
+aVHenderson, Clark County, Nevada, United States of America
+p4926
+aVHenderson, Henderson County, Kentucky, United States of America
+p4927
+aVHenderson, Rusk County, Texas, United States of America
+p4928
+aVHenderson, Vance County, North Carolina, United States of America
+p4929
+aVHenderson County, Kentucky, United States of America
+p4930
+aVHenderson County, North Carolina, United States of America
+p4931
+aVHenderson County, Texas, United States of America
+p4932
+aVHenderson, Jefferson County, New York, United States of America
+p4933
+aa(lp4934
+VTakapuna, Devonport-Takapuna, Auckland, New Zealand/Aotearoa
+p4935
+aa(lp4936
+VAuckland, 1010, New Zealand/Aotearoa
+p4937
+aVAuckland, New Zealand/Aotearoa
+p4938
+aVAuckland, Tulare County, California, United States of America
+p4939
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4940
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4941
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4942
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4943
+aa(lp4944
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p4945
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p4946
+aa(lp4947
+VAuckland, 1010, New Zealand/Aotearoa
+p4948
+aVAuckland, New Zealand/Aotearoa
+p4949
+aVAuckland, Tulare County, California, United States of America
+p4950
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4951
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4952
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4953
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4954
+aa(lp4955
+VGisborne, New Zealand/Aotearoa
+p4956
+aVGisborne, New Zealand/Aotearoa
+p4957
+aVGisborne, New Zealand/Aotearoa
+p4958
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p4959
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p4960
+aVGisborne, Early Street, New Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3438, Australia
+p4961
+aVGisborne, Robertson Street, Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3437, Australia
+p4962
+aa(lp4963
+VHawera, South Taranaki District, Taranaki, New Zealand/Aotearoa
+p4964
+aa(lp4965
+VHa\u02bbapai, Tonga
+p4966
+aa(lp4967
+VAuckland, 1010, New Zealand/Aotearoa
+p4968
+aVAuckland, New Zealand/Aotearoa
+p4969
+aVAuckland, Tulare County, California, United States of America
+p4970
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p4971
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4972
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p4973
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p4974
+aa(lp4975
+VGore, Gore District, Southland, New Zealand/Aotearoa
+p4976
+aVThe Gore, Franklin County, Vermont, United States of America
+p4977
+aVGore, Frederick, Virginia, United States of America
+p4978
+aVGore, Sequoyah County, Oklahoma, United States of America
+p4979
+aVGore, Kent, South East, England, United Kingdom
+p4980
+aVGore, Dorset, South West England, England, United Kingdom
+p4981
+aVGore, Hocking County, Ohio, United States of America
+p4982
+aVGore, Warren County, Missouri, United States of America
+p4983
+aVGore, Chattooga, Georgia, United States of America
+p4984
+aVGore, Randolph, Georgia, United States of America
+p4985
+aaNa(lp4986
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p4987
+aa(lp4988
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p4989
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p4990
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p4991
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p4992
+aVChristchurch, Middlesex, Virginia, United States of America
+p4993
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p4994
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p4995
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p4996
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p4997
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p4998
+aa(lp4999
+VSuva, Central, Viti
+p5000
+aV\u8acf\u8a2a\u5e02, \u8acf\u8a2a\u90e1 (Suwa), \u9577\u91ce\u770c, \u65e5\u672c
+p5001
+aVSuva, \u010cernina, okres Humenné, Pre\u0161ovský kraj, Východné Slovensko, Slovensko
+p5002
+aVSueva, Cundinamarca, Colombia
+p5003
+aVSUEVA, Junín, Cundinamarca, Colombia
+p5004
+aVSuva, Suva Passage, Tribschen, Luzern, 6002, Schweiz, Suisse, Svizzera, Svizra
+p5005
+aVSuva, 24A, Frederick Street, Canonmills, New Town, City of Edinburgh, Scotland, EH2 2NE, United Kingdom
+p5006
+aVSUVA, 11, Laupenstrasse, Monbijou, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3008, Schweiz, Suisse, Svizzera, Svizra
+p5007
+aVSUVA, Suva Passage, Tribschen, Luzern, 6002, Schweiz, Suisse, Svizzera, Svizra
+p5008
+aVSUVA, 90, Avenue du Grand-Champsec, Grand Champsec, Sion, Valais - Wallis, 1951, Schweiz, Suisse, Svizzera, Svizra
+p5009
+aa(lp5010
+VTasmania, Australia
+p5011
+aVTasman, New Zealand/Aotearoa
+p5012
+aVTas, South Norfolk District, Norfolk, East of England, England, United Kingdom
+p5013
+aVToshkent-Janubiy, \u0427\u0438\u043d\u0430\u0437 \u0443\u043b\u0438\u0446\u0430, \u041a\u043e\u0448\u043a\u0443\u0440\u0433\u0430\u043d, Sirgali district, Shaykhontohur Tumani, Toshkent, 100000, O\u02bbzbekiston
+p5014
+aVToshkent-Janubiy, \u0427\u0438\u043d\u0430\u0437 \u0443\u043b\u0438\u0446\u0430, \u041a\u043e\u0448\u043a\u0443\u0440\u0433\u0430\u043d, Sirgali district, Shaykhontohur Tumani, Toshkent, 100000, O\u02bbzbekiston
+p5015
+aV\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442  \u0422\u0430\u0448\u043a\u0435\u043d\u0442-2, \u0410\u0432\u0442\u043e\u0431\u0443\u0441\u043d\u0430\u044f \u043f\u043e\u043b\u043e\u0441\u0430, Sirgali district, Yakkasaroy Tumani, Toshkent, 100000, O\u02bbzbekiston
+p5016
+aV\u0637\u0627\u0634, Aleppo, \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629
+p5017
+aV\u0623\u0631\u0633\u0644\u0627\u0646 \u0637\u0627\u0634, Aleppo, \u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629
+p5018
+aVTas, Brielle, MRDH, Zuid-Holland, Nederland, 3232RJ, Nederland
+p5019
+aVTas, Huissen, Lingewaard, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6852EN, Nederland
+p5020
+aaNaNa(lp5021
+VHa\u02bbapai, Tonga
+p5022
+aa(lp5023
+VWaitara, New Plymouth District, Taranaki, New Zealand/Aotearoa
+p5024
+aVWaitara, Sydney, New South Wales, Australia
+p5025
+aVWaitara, QLD, Australia
+p5026
+aVWaitara, Alexandria Parade, Waitara, Sydney, New South Wales, 2077, Australia
+p5027
+aVWaitara, Alexandria Parade, Waitara, Sydney, New South Wales, 2077, Australia
+p5028
+aVWaitara, Costanera, Pichilemu, Provincia de Cardenal Caro, VI Región del Libertador General Bernardo O'Higgins, Chile
+p5029
+aVWaitara, Costanera, Pichilemu, Provincia de Cardenal Caro, VI Región del Libertador General Bernardo O'Higgins, Chile
+p5030
+aa(lp5031
+VAuckland, 1010, New Zealand/Aotearoa
+p5032
+aVAuckland, New Zealand/Aotearoa
+p5033
+aVAuckland, Tulare County, California, United States of America
+p5034
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5035
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5036
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5037
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5038
+aaNa(lp5039
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p5040
+aa(lp5041
+VWhangarei, Whangarei District, Northland, New Zealand/Aotearoa
+p5042
+aa(lp5043
+VAuckland, 1010, New Zealand/Aotearoa
+p5044
+aVAuckland, New Zealand/Aotearoa
+p5045
+aVAuckland, Tulare County, California, United States of America
+p5046
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5047
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5048
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5049
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5050
+aa(lp5051
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p5052
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p5053
+aaNa(lp5054
+VInvercargill, Invercargill City, Southland, New Zealand/Aotearoa
+p5055
+aVInvercargill, Clifton, Invercargill City, Southland, 9812, New Zealand/Aotearoa
+p5056
+aVInvercargill, Mossneuk, Hudson Bay, South Lanarkshire, Scotland, G75 8PR, United Kingdom
+p5057
+aa(lp5058
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p5059
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5060
+aVDurban, Manitoba, Canada
+p5061
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p5062
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p5063
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p5064
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5065
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p5066
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p5067
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p5068
+aa(lp5069
+VFaga`alu Bay, Route 001, Faganeanea, Ituau, American Samoa, United States of America
+p5070
+aa(lp5071
+VBlenheim, Marlborough, New Zealand/Aotearoa
+p5072
+aVBlenheim, Albemarle, Virginia, United States of America
+p5073
+aVBlenheim, Chatham, Ontario, Canada
+p5074
+aVBlenheim, Camden County, New Jersey, United States of America
+p5075
+aVBlenheim, Chatham, Ontario, Canada
+p5076
+aVBlenheim, Marlboro County, South Carolina, United States of America
+p5077
+aVBlenheim, Sweet Air, Baltimore County, Maryland, 21136, United States of America
+p5078
+aVBlenheim, San Antonio, Bexar County, Texas, 78209, United States of America
+p5079
+aVBlenheim, Croughton, South Northamptonshire, Northamptonshire, East Midlands, England, NN13, United Kingdom
+p5080
+aVBlenheim, Patchway CP, Filton, South Gloucestershire, South West England, England, BS34, United Kingdom
+p5081
+aa(lp5082
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p5083
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p5084
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p5085
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p5086
+aVChristchurch, Middlesex, Virginia, United States of America
+p5087
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p5088
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p5089
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p5090
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p5091
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p5092
+aa(lp5093
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p5094
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p5095
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p5096
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p5097
+aVChristchurch, Middlesex, Virginia, United States of America
+p5098
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p5099
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p5100
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p5101
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p5102
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p5103
+aa(lp5104
+VMorrinsville, Matamata Piako District, Waikato, New Zealand/Aotearoa
+p5105
+aa(lp5106
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p5107
+aaNa(lp5108
+VAuckland, 1010, New Zealand/Aotearoa
+p5109
+aVAuckland, New Zealand/Aotearoa
+p5110
+aVAuckland, Tulare County, California, United States of America
+p5111
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5112
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5113
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5114
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5115
+aa(lp5116
+VAshburton, Devon, South West England, England, United Kingdom
+p5117
+aVAshburton, Ashburton District, Canterbury, New Zealand/Aotearoa
+p5118
+aVAshburton, Baltimore, Maryland, 21216, United States of America
+p5119
+aVAshburton, Ontario, Canada
+p5120
+aVAshburton, City of Boroondara, Greater Melbourne, Victoria, Australia
+p5121
+aVAshburton, Msunduzi Local Municipality, uMgungundlovu District Municipality, KwaZulu-Natal, South Africa
+p5122
+aVAshburton, Anniversary Trail, Glen Iris, City of Boroondara, Greater Melbourne, Victoria, 3147, Australia
+p5123
+aVAshburton, Pooks Hill, Bethesda, Montgomery County, Maryland, 20817, United States of America
+p5124
+aVAshburton, San Antonio, Bexar County, Texas, 78254, United States of America
+p5125
+aVAshburton, 3-5, Blaxland Avenue, Newington, Sydney, New South Wales, 2127, Australia
+p5126
+aa(lp5127
+VAuckland, 1010, New Zealand/Aotearoa
+p5128
+aVAuckland, New Zealand/Aotearoa
+p5129
+aVAuckland, Tulare County, California, United States of America
+p5130
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5131
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5132
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5133
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5134
+aa(lp5135
+VPapakura, Auckland, New Zealand/Aotearoa
+p5136
+aVPapakura, Auckland Southern Motorway, Rosehill, Papakura, Auckland, 2113, New Zealand/Aotearoa
+p5137
+aVPapakura, Auckland Southern Motorway, Conifer Grove, Papakura, Auckland, 2112, New Zealand/Aotearoa
+p5138
+aVPapakura, Ron Keat Drive, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p5139
+aVPapakura, Railway Street West, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p5140
+aVPapakura, Ron Keat Drive, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p5141
+aa(lp5142
+VTokoroa, South Waikato District, Waikato, New Zealand/Aotearoa
+p5143
+aa(lp5144
+VAuckland, 1010, New Zealand/Aotearoa
+p5145
+aVAuckland, New Zealand/Aotearoa
+p5146
+aVAuckland, Tulare County, California, United States of America
+p5147
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5148
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5149
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5150
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5151
+aa(lp5152
+VTe Aroha, Matamata Piako District, Waikato, New Zealand/Aotearoa
+p5153
+aVTe Aroha, 1190, Orange, New South Wales, Australia
+p5154
+aa(lp5155
+VGisborne, New Zealand/Aotearoa
+p5156
+aVGisborne, New Zealand/Aotearoa
+p5157
+aVGisborne, New Zealand/Aotearoa
+p5158
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p5159
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p5160
+aVGisborne, Early Street, New Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3438, Australia
+p5161
+aVGisborne, Robertson Street, Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3437, Australia
+p5162
+aa(lp5163
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p5164
+aa(lp5165
+VInvercargill, Invercargill City, Southland, New Zealand/Aotearoa
+p5166
+aVInvercargill, Clifton, Invercargill City, Southland, 9812, New Zealand/Aotearoa
+p5167
+aVInvercargill, Mossneuk, Hudson Bay, South Lanarkshire, Scotland, G75 8PR, United Kingdom
+p5168
+aa(lp5169
+VBlenheim, Marlborough, New Zealand/Aotearoa
+p5170
+aVBlenheim, Albemarle, Virginia, United States of America
+p5171
+aVBlenheim, Chatham, Ontario, Canada
+p5172
+aVBlenheim, Camden County, New Jersey, United States of America
+p5173
+aVBlenheim, Chatham, Ontario, Canada
+p5174
+aVBlenheim, Marlboro County, South Carolina, United States of America
+p5175
+aVBlenheim, Sweet Air, Baltimore County, Maryland, 21136, United States of America
+p5176
+aVBlenheim, San Antonio, Bexar County, Texas, 78209, United States of America
+p5177
+aVBlenheim, Croughton, South Northamptonshire, Northamptonshire, East Midlands, England, NN13, United Kingdom
+p5178
+aVBlenheim, Patchway CP, Filton, South Gloucestershire, South West England, England, BS34, United Kingdom
+p5179
+aa(lp5180
+VPapakura, Auckland, New Zealand/Aotearoa
+p5181
+aVPapakura, Auckland Southern Motorway, Rosehill, Papakura, Auckland, 2113, New Zealand/Aotearoa
+p5182
+aVPapakura, Auckland Southern Motorway, Conifer Grove, Papakura, Auckland, 2112, New Zealand/Aotearoa
+p5183
+aVPapakura, Ron Keat Drive, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p5184
+aVPapakura, Railway Street West, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p5185
+aVPapakura, Ron Keat Drive, Opaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa
+p5186
+aa(lp5187
+VAshburton, Devon, South West England, England, United Kingdom
+p5188
+aVAshburton, Ashburton District, Canterbury, New Zealand/Aotearoa
+p5189
+aVAshburton, Baltimore, Maryland, 21216, United States of America
+p5190
+aVAshburton, Ontario, Canada
+p5191
+aVAshburton, City of Boroondara, Greater Melbourne, Victoria, Australia
+p5192
+aVAshburton, Msunduzi Local Municipality, uMgungundlovu District Municipality, KwaZulu-Natal, South Africa
+p5193
+aVAshburton, Anniversary Trail, Glen Iris, City of Boroondara, Greater Melbourne, Victoria, 3147, Australia
+p5194
+aVAshburton, Pooks Hill, Bethesda, Montgomery County, Maryland, 20817, United States of America
+p5195
+aVAshburton, San Antonio, Bexar County, Texas, 78254, United States of America
+p5196
+aVAshburton, 3-5, Blaxland Avenue, Newington, Sydney, New South Wales, 2127, Australia
+p5197
+aa(lp5198
+VHastings, East Sussex, South East, England, United Kingdom
+p5199
+aVHastings, Dakota County, Minnesota, United States of America
+p5200
+aVHastings, Hastings District, Hawke's Bay, New Zealand/Aotearoa
+p5201
+aVHastings, Adams County, Nebraska, United States of America
+p5202
+aVHastings, Australia
+p5203
+aVHastings, Station Approach, Trinity Triangle, Blacklands, Hastings, East Sussex, South East, England, TN34 1BG, United Kingdom
+p5204
+aVHastings, Barry County, Michigan, United States of America
+p5205
+aVHastings, Mills County, Iowa, United States of America
+p5206
+aVHastings, Cambria County, Pennsylvania, United States of America
+p5207
+aVHastings, Shire of Mornington Peninsula, Greater Melbourne, Victoria, Australia
+p5208
+aa(lp5209
+VTe Puke, Western Bay of Plenty District, Bay of Plenty, New Zealand/Aotearoa
+p5210
+aa(lp5211
+VBurwood, Australia
+p5212
+aVBurwood, Burwood Road, Burwood, Sydney, Burwood Municipality, New South Wales, 2134, Australia
+p5213
+aVBurwood, Christchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p5214
+aVBurwood, Kent County, Delaware, United States of America
+p5215
+aVBurwood, Sydney, Burwood Municipality, New South Wales, Australia
+p5216
+aVBurwood, New South Wales, Australia
+p5217
+aVBurwood, City of Whitehorse, Greater Melbourne, Victoria, Australia
+p5218
+aVBurwood, Williamson, Tennessee, United States of America
+p5219
+aVBurwood, Trent Street, Glen Iris, City of Boroondara, Greater Melbourne, Victoria, 3147, Australia
+p5220
+aVBurwood, Westpark, Irvine, Orange County, California, 92604, United States of America
+p5221
+aa(lp5222
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p5223
+aVWellington, New Zealand/Aotearoa
+p5224
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p5225
+aVWellington, Somerset, South West England, England, United Kingdom
+p5226
+aVWellington, Collingsworth County, Texas, United States of America
+p5227
+aVWellington, Jefferson County, Kentucky, United States of America
+p5228
+aVWellington, Palm Beach County, Florida, United States of America
+p5229
+aVWellington, Palm Beach County, Florida, United States of America
+p5230
+aVWellington, Larimer County, Colorado, United States of America
+p5231
+aVWellington, Prince County, Prince Edward Island, Canada
+p5232
+aa(lp5233
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p5234
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p5235
+aa(lp5236
+VMotueka, Tasman, New Zealand/Aotearoa
+p5237
+aa(lp5238
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p5239
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p5240
+aa(lp5241
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p5242
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p5243
+aa(lp5244
+VGreytown, South Wairarapa District, Wellington, New Zealand/Aotearoa
+p5245
+aVGreytown, Umzinyathi District Municipality, KwaZulu-Natal, South Africa
+p5246
+aVSan Juan de Nicaragua, Municipio San Juan de Nicaragua, Río San Juan, 92500, Nicaragua
+p5247
+aVGreytown, Sargeant Street, Umvoti Ward 9, Umvoti Local Municipality, Umzinyathi District Municipality, KwaZulu-Natal, South Africa
+p5248
+aVGreytown, Kuratawhiti Street, Greytown, South Wairarapa District, Wellington, 5710, New Zealand/Aotearoa
+p5249
+aa(lp5250
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p5251
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p5252
+aa(lp5253
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p5254
+aVWellington, New Zealand/Aotearoa
+p5255
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p5256
+aVWellington, Somerset, South West England, England, United Kingdom
+p5257
+aVWellington, Collingsworth County, Texas, United States of America
+p5258
+aVWellington, Jefferson County, Kentucky, United States of America
+p5259
+aVWellington, Palm Beach County, Florida, United States of America
+p5260
+aVWellington, Palm Beach County, Florida, United States of America
+p5261
+aVWellington, Larimer County, Colorado, United States of America
+p5262
+aVWellington, Prince County, Prince Edward Island, Canada
+p5263
+aa(lp5264
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p5265
+aVDunedin, Pinellas County, Florida, United States of America
+p5266
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p5267
+aVDunedin, Chesapeake City, Virginia, United States of America
+p5268
+aVDunedin, Petersburg (city), Virginia, United States of America
+p5269
+aVDunedin, Ontario, Canada
+p5270
+aVDunedin, Pinellas County, Florida, United States of America
+p5271
+aVDunedin, New South Wales, Australia
+p5272
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p5273
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p5274
+aa(lp5275
+VMarton, Cheshire East, North West England, England, United Kingdom
+p5276
+aVMarton, Rangitikei District, Manawatu-Wanganui, New Zealand/Aotearoa
+p5277
+aVMarton, Cumbria, North West England, England, United Kingdom
+p5278
+aVMarton, Shropshire, West Midlands, England, United Kingdom
+p5279
+aVMarton, East Riding of Yorkshire, Yorkshire and the Humber, England, United Kingdom
+p5280
+aVMarton, East Riding of Yorkshire, Yorkshire and the Humber, England, United Kingdom
+p5281
+aVMarton, Cheshire West and Chester, North West England, England, United Kingdom
+p5282
+aVMarton, QLD, Australia
+p5283
+aVLe Marton, Villefranche-sur-Saône, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, France
+p5284
+aVMarton, Cheshire East, North West England, England, United Kingdom
+p5285
+aa(lp5286
+VVictoria, Australia
+p5287
+aVVic, Osona, BCN, CAT, España
+p5288
+aVLondon Victoria, Bridge Place, Victoria, City of Westminster, London, Greater London, England, SW1V 1QA, United Kingdom
+p5289
+aVVic, Osona, BCN, CAT, España
+p5290
+aVLe Vic, Albi, Tarn, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5291
+aVLe Vic, Langon, Gironde, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, France
+p5292
+aVVic, Millau, Aveyron, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5293
+aVVic, Nimes, Gard, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5294
+aVBorgo Vico, UD, FVG, Italia
+p5295
+aVVico, UD, FVG, Italia
+p5296
+aa(lp5297
+VNew South Wales, Australia
+p5298
+aVCessnock, New South Wales, NSW, Australia
+p5299
+aa(lp5300
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p5301
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p5302
+aa(lp5303
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p5304
+aVWellington, New Zealand/Aotearoa
+p5305
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p5306
+aVWellington, Somerset, South West England, England, United Kingdom
+p5307
+aVWellington, Collingsworth County, Texas, United States of America
+p5308
+aVWellington, Jefferson County, Kentucky, United States of America
+p5309
+aVWellington, Palm Beach County, Florida, United States of America
+p5310
+aVWellington, Palm Beach County, Florida, United States of America
+p5311
+aVWellington, Larimer County, Colorado, United States of America
+p5312
+aVWellington, Prince County, Prince Edward Island, Canada
+p5313
+aa(lp5314
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p5315
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p5316
+aa(lp5317
+VWhangarei, Whangarei District, Northland, New Zealand/Aotearoa
+p5318
+aa(lp5319
+VHastings, East Sussex, South East, England, United Kingdom
+p5320
+aVHastings, Dakota County, Minnesota, United States of America
+p5321
+aVHastings, Hastings District, Hawke's Bay, New Zealand/Aotearoa
+p5322
+aVHastings, Adams County, Nebraska, United States of America
+p5323
+aVHastings, Australia
+p5324
+aVHastings, Station Approach, Trinity Triangle, Blacklands, Hastings, East Sussex, South East, England, TN34 1BG, United Kingdom
+p5325
+aVHastings, Barry County, Michigan, United States of America
+p5326
+aVHastings, Mills County, Iowa, United States of America
+p5327
+aVHastings, Cambria County, Pennsylvania, United States of America
+p5328
+aVHastings, Shire of Mornington Peninsula, Greater Melbourne, Victoria, Australia
+p5329
+aa(lp5330
+VBurwood, Australia
+p5331
+aVBurwood, Burwood Road, Burwood, Sydney, Burwood Municipality, New South Wales, 2134, Australia
+p5332
+aVBurwood, Christchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p5333
+aVBurwood, Kent County, Delaware, United States of America
+p5334
+aVBurwood, Sydney, Burwood Municipality, New South Wales, Australia
+p5335
+aVBurwood, New South Wales, Australia
+p5336
+aVBurwood, City of Whitehorse, Greater Melbourne, Victoria, Australia
+p5337
+aVBurwood, Williamson, Tennessee, United States of America
+p5338
+aVBurwood, Trent Street, Glen Iris, City of Boroondara, Greater Melbourne, Victoria, 3147, Australia
+p5339
+aVBurwood, Westpark, Irvine, Orange County, California, 92604, United States of America
+p5340
+aa(lp5341
+VAuckland, 1010, New Zealand/Aotearoa
+p5342
+aVAuckland, New Zealand/Aotearoa
+p5343
+aVAuckland, Tulare County, California, United States of America
+p5344
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5345
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5346
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5347
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5348
+aa(lp5349
+VHastings, East Sussex, South East, England, United Kingdom
+p5350
+aVHastings, Dakota County, Minnesota, United States of America
+p5351
+aVHastings, Hastings District, Hawke's Bay, New Zealand/Aotearoa
+p5352
+aVHastings, Adams County, Nebraska, United States of America
+p5353
+aVHastings, Australia
+p5354
+aVHastings, Station Approach, Trinity Triangle, Blacklands, Hastings, East Sussex, South East, England, TN34 1BG, United Kingdom
+p5355
+aVHastings, Barry County, Michigan, United States of America
+p5356
+aVHastings, Mills County, Iowa, United States of America
+p5357
+aVHastings, Cambria County, Pennsylvania, United States of America
+p5358
+aVHastings, Shire of Mornington Peninsula, Greater Melbourne, Victoria, Australia
+p5359
+aa(lp5360
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p5361
+aVWellington, New Zealand/Aotearoa
+p5362
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p5363
+aVWellington, Somerset, South West England, England, United Kingdom
+p5364
+aVWellington, Collingsworth County, Texas, United States of America
+p5365
+aVWellington, Jefferson County, Kentucky, United States of America
+p5366
+aVWellington, Palm Beach County, Florida, United States of America
+p5367
+aVWellington, Palm Beach County, Florida, United States of America
+p5368
+aVWellington, Larimer County, Colorado, United States of America
+p5369
+aVWellington, Prince County, Prince Edward Island, Canada
+p5370
+aa(lp5371
+VRangiora, Waimakariri District, Canterbury, New Zealand/Aotearoa
+p5372
+aVRangiora, Blackett Street, Rangiora, Waimakariri District, Canterbury, 7400, New Zealand/Aotearoa
+p5373
+aa(lp5374
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p5375
+aVWellington, New Zealand/Aotearoa
+p5376
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p5377
+aVWellington, Somerset, South West England, England, United Kingdom
+p5378
+aVWellington, Collingsworth County, Texas, United States of America
+p5379
+aVWellington, Jefferson County, Kentucky, United States of America
+p5380
+aVWellington, Palm Beach County, Florida, United States of America
+p5381
+aVWellington, Palm Beach County, Florida, United States of America
+p5382
+aVWellington, Larimer County, Colorado, United States of America
+p5383
+aVWellington, Prince County, Prince Edward Island, Canada
+p5384
+aa(lp5385
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p5386
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p5387
+aa(lp5388
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p5389
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p5390
+aa(lp5391
+VNelson, New Zealand/Aotearoa
+p5392
+aVNelson, New Zealand/Aotearoa
+p5393
+aVNelson, Virginia, United States of America
+p5394
+aVNelson, Regional District of Central Kootenay, British Columbia, Canada
+p5395
+aVNelson County, Kentucky, United States of America
+p5396
+aVNelson, Lancs, North West England, England, United Kingdom
+p5397
+aVNelson, Butte County, California, United States of America
+p5398
+aVNelson County, North Dakota, United States of America
+p5399
+aVNelson, Cheshire County, New Hampshire, United States of America
+p5400
+aVNelson, Netherfield Road, Little Marsden, Pendle, Lancs, North West England, England, United Kingdom
+p5401
+aa(lp5402
+VNew Plymouth, New Plymouth District, Taranaki, New Zealand/Aotearoa
+p5403
+aVNew Plymouth, The Bahamas
+p5404
+aVNew Plymouth, Payette County, Idaho, United States of America
+p5405
+aVNew Plymouth, Brown Township, Vinton County, Ohio, United States of America
+p5406
+aVNew Plymouth, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8HF, United Kingdom
+p5407
+aVNew Plymouth, Westwood Hill, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8EZ, United Kingdom
+p5408
+aa(lp5409
+VAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5410
+aa(lp5411
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p5412
+aVWellington, New Zealand/Aotearoa
+p5413
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p5414
+aVWellington, Somerset, South West England, England, United Kingdom
+p5415
+aVWellington, Collingsworth County, Texas, United States of America
+p5416
+aVWellington, Jefferson County, Kentucky, United States of America
+p5417
+aVWellington, Palm Beach County, Florida, United States of America
+p5418
+aVWellington, Palm Beach County, Florida, United States of America
+p5419
+aVWellington, Larimer County, Colorado, United States of America
+p5420
+aVWellington, Prince County, Prince Edward Island, Canada
+p5421
+aa(lp5422
+VVictoria, Australia
+p5423
+aVVic, Osona, BCN, CAT, España
+p5424
+aVLondon Victoria, Bridge Place, Victoria, City of Westminster, London, Greater London, England, SW1V 1QA, United Kingdom
+p5425
+aVVic, Osona, BCN, CAT, España
+p5426
+aVLe Vic, Albi, Tarn, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5427
+aVLe Vic, Langon, Gironde, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, France
+p5428
+aVVic, Millau, Aveyron, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5429
+aVVic, Nimes, Gard, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5430
+aVBorgo Vico, UD, FVG, Italia
+p5431
+aVVico, UD, FVG, Italia
+p5432
+aa(lp5433
+VAuckland, 1010, New Zealand/Aotearoa
+p5434
+aVAuckland, New Zealand/Aotearoa
+p5435
+aVAuckland, Tulare County, California, United States of America
+p5436
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5437
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5438
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5439
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5440
+aa(lp5441
+VAuckland, 1010, New Zealand/Aotearoa
+p5442
+aVAuckland, New Zealand/Aotearoa
+p5443
+aVAuckland, Tulare County, California, United States of America
+p5444
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5445
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5446
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5447
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5448
+aa(lp5449
+VAuckland, 1010, New Zealand/Aotearoa
+p5450
+aVAuckland, New Zealand/Aotearoa
+p5451
+aVAuckland, Tulare County, California, United States of America
+p5452
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5453
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5454
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5455
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5456
+aa(lp5457
+VAuckland, 1010, New Zealand/Aotearoa
+p5458
+aVAuckland, New Zealand/Aotearoa
+p5459
+aVAuckland, Tulare County, California, United States of America
+p5460
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5461
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5462
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5463
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5464
+aa(lp5465
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p5466
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p5467
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p5468
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p5469
+aVChristchurch, Middlesex, Virginia, United States of America
+p5470
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p5471
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p5472
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p5473
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p5474
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p5475
+aa(lp5476
+VNelson, New Zealand/Aotearoa
+p5477
+aVNelson, New Zealand/Aotearoa
+p5478
+aVNelson, Virginia, United States of America
+p5479
+aVNelson, Regional District of Central Kootenay, British Columbia, Canada
+p5480
+aVNelson County, Kentucky, United States of America
+p5481
+aVNelson, Lancs, North West England, England, United Kingdom
+p5482
+aVNelson, Butte County, California, United States of America
+p5483
+aVNelson County, North Dakota, United States of America
+p5484
+aVNelson, Cheshire County, New Hampshire, United States of America
+p5485
+aVNelson, Netherfield Road, Little Marsden, Pendle, Lancs, North West England, England, United Kingdom
+p5486
+aa(lp5487
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p5488
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p5489
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p5490
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p5491
+aVChristchurch, Middlesex, Virginia, United States of America
+p5492
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p5493
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p5494
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p5495
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p5496
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p5497
+aa(lp5498
+VAuckland, 1010, New Zealand/Aotearoa
+p5499
+aVAuckland, New Zealand/Aotearoa
+p5500
+aVAuckland, Tulare County, California, United States of America
+p5501
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5502
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5503
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5504
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5505
+aa(lp5506
+VWaipukurau, Central Hawke's Bay District, Hawke's Bay, New Zealand/Aotearoa
+p5507
+aa(lp5508
+VPangai, Vahe Lifuka, Ha\u02bbapai, Tonga
+p5509
+aV'Ene 'Afio, Vahe Kolofo'ou, Tongatapu, Tonga
+p5510
+aVPangai, Vahe 'Eua, Tongatapu, Tonga
+p5511
+aa(lp5512
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p5513
+aVWellington, New Zealand/Aotearoa
+p5514
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p5515
+aVWellington, Somerset, South West England, England, United Kingdom
+p5516
+aVWellington, Collingsworth County, Texas, United States of America
+p5517
+aVWellington, Jefferson County, Kentucky, United States of America
+p5518
+aVWellington, Palm Beach County, Florida, United States of America
+p5519
+aVWellington, Palm Beach County, Florida, United States of America
+p5520
+aVWellington, Larimer County, Colorado, United States of America
+p5521
+aVWellington, Prince County, Prince Edward Island, Canada
+p5522
+aa(lp5523
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p5524
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p5525
+aa(lp5526
+VHihifo, Vahe Lifuka, Ha\u02bbapai, Tonga
+p5527
+aVHihifo, Ma'atu, Vahe Niuatoputapu, Ongo Niua, Tonga
+p5528
+aa(lp5529
+VPorirua, Porirua City, Wellington, New Zealand/Aotearoa
+p5530
+aVPorirua, informal path from Porirua Station to Kenepuru Station, Ranui Heights, Porirua, Porirua City, Wellington, 5022, New Zealand/Aotearoa
+p5531
+aVPorirua, informal path from Porirua Station to Kenepuru Station, Ranui Heights, Porirua, Porirua City, Wellington, 5022, New Zealand/Aotearoa
+p5532
+aa(lp5533
+VAuckland, 1010, New Zealand/Aotearoa
+p5534
+aVAuckland, New Zealand/Aotearoa
+p5535
+aVAuckland, Tulare County, California, United States of America
+p5536
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5537
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5538
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5539
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5540
+aa(lp5541
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p5542
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p5543
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p5544
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p5545
+aVChristchurch, Middlesex, Virginia, United States of America
+p5546
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p5547
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p5548
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p5549
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p5550
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p5551
+aa(lp5552
+VTauranga, Tauranga City, Bay of Plenty, New Zealand/Aotearoa
+p5553
+aVTauranga, Brightlingsea Road, Thorrington Civil Parish, Tendring, Essex, East of England, England, CO7 8JL, United Kingdom
+p5554
+aa(lp5555
+VAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5556
+aa(lp5557
+VAuckland, 1010, New Zealand/Aotearoa
+p5558
+aVAuckland, New Zealand/Aotearoa
+p5559
+aVAuckland, Tulare County, California, United States of America
+p5560
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5561
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5562
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5563
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5564
+aa(lp5565
+VAuckland, 1010, New Zealand/Aotearoa
+p5566
+aVAuckland, New Zealand/Aotearoa
+p5567
+aVAuckland, Tulare County, California, United States of America
+p5568
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5569
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5570
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5571
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5572
+aa(lp5573
+VFaga`alu Bay, Route 001, Faganeanea, Ituau, American Samoa, United States of America
+p5574
+aa(lp5575
+VGisborne, New Zealand/Aotearoa
+p5576
+aVGisborne, New Zealand/Aotearoa
+p5577
+aVGisborne, New Zealand/Aotearoa
+p5578
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p5579
+aVGisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, Australia
+p5580
+aVGisborne, Early Street, New Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3438, Australia
+p5581
+aVGisborne, Robertson Street, Gisborne, Shire of Macedon Ranges, Loddon Mallee, Victoria, 3437, Australia
+p5582
+aa(lp5583
+VNapier, Napier City, Hawke's Bay, New Zealand/Aotearoa
+p5584
+aVNapier, Overberg District Municipality, Western Cape, South Africa
+p5585
+aVNapier, Bedford County, Pennsylvania, United States of America
+p5586
+aVNapier, San Jacinto County, Texas, United States of America
+p5587
+aVNapier, Washington County, Ohio, United States of America
+p5588
+aVNapier, Berrien County, Michigan, United States of America
+p5589
+aVNapier, Holt County, Missouri, United States of America
+p5590
+aVNapier, Lewis, Tennessee, United States of America
+p5591
+aVNapier, Boone County, Iowa, United States of America
+p5592
+aVNapier, Leslie County, Kentucky, United States of America
+p5593
+aa(lp5594
+VSigatoka, Viti
+p5595
+aa(lp5596
+VLevin, Horowhenua District, Manawatu-Wanganui, New Zealand/Aotearoa
+p5597
+aVLevin, Landkreis Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, Deutschland
+p5598
+aVLevín, okres Litom\u011b\u0159ice, Ústecký kraj, Severozápad, \u010cesko
+p5599
+aVLevín, okres Beroun, St\u0159edo\u010deský kraj, St\u0159ední \u010cechy, \u010cesko
+p5600
+aVLevín, okres \u010ceské Bud\u011bjovice, Jiho\u010deský kraj, Jihozápad, \u010cesko
+p5601
+aVLevín, okres Olomouc, Olomoucký kraj, St\u0159ední Morava, \u010cesko
+p5602
+aVLevín, okres Hradec Králové, Královéhradecký kraj, Severovýchod, \u010cesko
+p5603
+aV\u041b\u0435\u0432\u0438\u043d, \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e-\u041d\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p5604
+aVLevin, Dargun, Landkreis Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, 17159, Deutschland
+p5605
+aVLevin, Dargun, Landkreis Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, 17159, Deutschland
+p5606
+aa(lp5607
+VKaitaia, Far North District, Northland, New Zealand/Aotearoa
+p5608
+aVKaitaia, Market Lane, Kaitaia, Far North District, Northland, New Zealand/Aotearoa
+p5609
+aa(lp5610
+VWellington, Wellington City, Wellington, New Zealand/Aotearoa
+p5611
+aVWellington, New Zealand/Aotearoa
+p5612
+aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
+p5613
+aVWellington, Somerset, South West England, England, United Kingdom
+p5614
+aVWellington, Collingsworth County, Texas, United States of America
+p5615
+aVWellington, Jefferson County, Kentucky, United States of America
+p5616
+aVWellington, Palm Beach County, Florida, United States of America
+p5617
+aVWellington, Palm Beach County, Florida, United States of America
+p5618
+aVWellington, Larimer County, Colorado, United States of America
+p5619
+aVWellington, Prince County, Prince Edward Island, Canada
+p5620
+aa(lp5621
+VTaihape, Rangitikei District, Manawatu-Wanganui, New Zealand/Aotearoa
+p5622
+aVTaihape, Robin Street, Taihape, Rangitikei District, Manawatu-Wanganui, 4720, New Zealand/Aotearoa
+p5623
 aa.

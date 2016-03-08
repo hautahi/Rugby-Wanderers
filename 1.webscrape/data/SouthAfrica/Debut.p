@@ -875,4 +875,662 @@ aVSouth Africa v World XV at Pretoria, Aug 27, 1977
 p438
 aVSouth Africa v World XV at Pretoria, Aug 27, 1977
 p439
+aVSouth Africa v World XV at Pretoria, Aug 27, 1977
+p440
+aVSouth Africa v World XV at Pretoria, Aug 27, 1977
+p441
+aVSouth Africa v World XV at Pretoria, Aug 27, 1977
+p442
+aVSouth Africa v World XV at Pretoria, Aug 27, 1977
+p443
+aVSouth Africa v World XV at Pretoria, Aug 27, 1977
+p444
+aVSouth Africa v World XV at Pretoria, Aug 27, 1977
+p445
+aVSouth Africa v South America at Johannesburg, Apr 26, 1980
+p446
+aVSouth Africa v South America at Johannesburg, Apr 26, 1980
+p447
+aVSouth Africa v South America at Johannesburg, Apr 26, 1980
+p448
+aVSouth Africa v South America at Johannesburg, Apr 26, 1980
+p449
+aVSouth Africa v South America at Johannesburg, Apr 26, 1980
+p450
+aVSouth Africa v South America at Johannesburg, Apr 26, 1980
+p451
+aVSouth Africa v South America at Johannesburg, Apr 26, 1980
+p452
+aVSouth Africa v South America at Durban, May 3, 1980
+p453
+aVSouth Africa v British and Irish Lions at Cape Town, May 31, 1980
+p454
+aVSouth Africa v British and Irish Lions at Cape Town, May 31, 1980
+p455
+aVSouth Africa v British and Irish Lions at Cape Town, May 31, 1980
+p456
+aVSouth Africa v British and Irish Lions at Cape Town, May 31, 1980
+p457
+aVSouth Africa v British and Irish Lions at Bloemfontein, Jun 14, 1980
+p458
+aVSouth Africa v British and Irish Lions at Port Elizabeth, Jun 28, 1980
+p459
+aVSouth America v South Africa at Montevideo, Oct 18, 1980
+p460
+aVSouth Africa v Ireland at Cape Town, May 30, 1981
+p461
+aVSouth Africa v Ireland at Cape Town, May 30, 1981
+p462
+aVSouth Africa v Ireland at Cape Town, May 30, 1981
+p463
+aVNew Zealand v South Africa at Christchurch, Aug 15, 1981
+p464
+aVNew Zealand v South Africa at Christchurch, Aug 15, 1981
+p465
+aVNew Zealand v South Africa at Christchurch, Aug 15, 1981
+p466
+aVNew Zealand v South Africa at Christchurch, Aug 15, 1981
+p467
+aVNew Zealand v South Africa at Christchurch, Aug 15, 1981
+p468
+aVNew Zealand v South Africa at Wellington, Aug 29, 1981
+p469
+aVNew Zealand v South Africa at Wellington, Aug 29, 1981
+p470
+aVNew Zealand v South Africa at Wellington, Aug 29, 1981
+p471
+aVNew Zealand v South Africa at Wellington, Aug 29, 1981
+p472
+aVNew Zealand v South Africa at Auckland, Sep 12, 1981
+p473
+aVSouth Africa v South America at Pretoria, Mar 27, 1982
+p474
+aVSouth Africa v England at Port Elizabeth, Jun 2, 1984
+p475
+aVSouth Africa v England at Port Elizabeth, Jun 2, 1984
+p476
+aVSouth Africa v England at Port Elizabeth, Jun 2, 1984
+p477
+aVSouth Africa v England at Port Elizabeth, Jun 2, 1984
+p478
+aVSouth Africa v England at Port Elizabeth, Jun 2, 1984
+p479
+aVSouth Africa v South America at Pretoria, Oct 20, 1984
+p480
+aVSouth Africa v South America at Pretoria, Oct 20, 1984
+p481
+aVSouth Africa v South America at Pretoria, Oct 20, 1984
+p482
+aVSouth Africa v South America at Pretoria, Oct 20, 1984
+p483
+aVSouth Africa v South America at Pretoria, Oct 20, 1984
+p484
+aVSouth Africa v New Zealand Cavaliers at Cape Town, May 10, 1986
+p485
+aVSouth Africa v New Zealand Cavaliers at Cape Town, May 10, 1986
+p486
+aVSouth Africa v New Zealand Cavaliers at Cape Town, May 10, 1986
+p487
+aVSouth Africa v New Zealand Cavaliers at Cape Town, May 10, 1986
+p488
+aVSouth Africa v New Zealand Cavaliers at Cape Town, May 10, 1986
+p489
+aVSouth Africa v New Zealand Cavaliers at Cape Town, May 10, 1986
+p490
+aVSouth Africa v New Zealand Cavaliers at Pretoria, May 24, 1986
+p491
+aVSouth Africa v New Zealand Cavaliers at Pretoria, May 24, 1986
+p492
+aVSouth Africa v New Zealand Cavaliers at Pretoria, May 24, 1986
+p493
+aVSouth Africa v New Zealand Cavaliers at Johannesburg, May 31, 1986
+p494
+aVSouth Africa v World XV at Cape Town, Aug 26, 1989
+p495
+aVSouth Africa v World XV at Cape Town, Aug 26, 1989
+p496
+aVSouth Africa v World XV at Cape Town, Aug 26, 1989
+p497
+aVSouth Africa v World XV at Cape Town, Aug 26, 1989
+p498
+aVSouth Africa v World XV at Cape Town, Aug 26, 1989
+p499
+aVSouth Africa v World XV at Cape Town, Aug 26, 1989
+p500
+aVSouth Africa v New Zealand at Johannesburg, Aug 15, 1992
+p501
+aVSouth Africa v New Zealand at Johannesburg, Aug 15, 1992
+p502
+aVSouth Africa v New Zealand at Johannesburg, Aug 15, 1992
+p503
+aVSouth Africa v New Zealand at Johannesburg, Aug 15, 1992
+p504
+aVSouth Africa v New Zealand at Johannesburg, Aug 15, 1992
+p505
+aVSouth Africa v New Zealand at Johannesburg, Aug 15, 1992
+p506
+aVSouth Africa v New Zealand at Johannesburg, Aug 15, 1992
+p507
+aVSouth Africa v New Zealand at Johannesburg, Aug 15, 1992
+p508
+aVSouth Africa v New Zealand at Johannesburg, Aug 15, 1992
+p509
+aVSouth Africa v New Zealand at Johannesburg, Aug 15, 1992
+p510
+aVSouth Africa v Australia at Cape Town, Aug 22, 1992
+p511
+aVFrance v South Africa at Lyon, Oct 17, 1992
+p512
+aVFrance v South Africa at Lyon, Oct 17, 1992
+p513
+aVFrance v South Africa at Lyon, Oct 17, 1992
+p514
+aVFrance v South Africa at Lyon, Oct 17, 1992
+p515
+aVFrance v South Africa at Lyon, Oct 17, 1992
+p516
+aVEngland v South Africa at Twickenham, Nov 14, 1992
+p517
+aVEngland v South Africa at Twickenham, Nov 14, 1992
+p518
+aVSouth Africa v France at Durban, Jun 26, 1993
+p519
+aVSouth Africa v France at Durban, Jun 26, 1993
+p520
+aVSouth Africa v France at Durban, Jun 26, 1993
+p521
+aVSouth Africa v France at Johannesburg, Jul 3, 1993
+p522
+aVSouth Africa v France at Johannesburg, Jul 3, 1993
+p523
+aVSouth Africa v France at Johannesburg, Jul 3, 1993
+p524
+aVAustralia v South Africa at Sydney, Jul 31, 1993
+p525
+aVAustralia v South Africa at Sydney, Jul 31, 1993
+p526
+aVNew Zealand v Scotland at Dunedin, Jun 16, 1990
+p527
+aVAustralia v South Africa at Sydney, Aug 21, 1993
+p528
+aVArgentina v South Africa at Buenos Aires, Nov 6, 1993
+p529
+aVArgentina v South Africa at Buenos Aires, Nov 6, 1993
+p530
+aVArgentina v South Africa at Buenos Aires, Nov 6, 1993
+p531
+aVArgentina v South Africa at Buenos Aires, Nov 6, 1993
+p532
+aVArgentina v South Africa at Buenos Aires, Nov 13, 1993
+p533
+aVArgentina v South Africa at Buenos Aires, Nov 13, 1993
+p534
+aVArgentina v South Africa at Buenos Aires, Nov 13, 1993
+p535
+aVSouth Africa v England at Pretoria, Jun 4, 1994
+p536
+aVSouth Africa v England at Pretoria, Jun 4, 1994
+p537
+aVSouth Africa v England at Pretoria, Jun 4, 1994
+p538
+aVSouth Africa v England at Cape Town, Jun 11, 1994
+p539
+aVSouth Africa v England at Cape Town, Jun 11, 1994
+p540
+aVSouth Africa v England at Cape Town, Jun 11, 1994
+p541
+aVNew Zealand v South Africa at Dunedin, Jul 9, 1994
+p542
+aVNew Zealand v South Africa at Wellington, Jul 23, 1994
+p543
+aVSouth Africa v Argentina at Port Elizabeth, Oct 8, 1994
+p544
+aVSouth Africa v Argentina at Port Elizabeth, Oct 8, 1994
+p545
+aVSouth Africa v Argentina at Port Elizabeth, Oct 8, 1994
+p546
+aVSouth Africa v Argentina at Port Elizabeth, Oct 8, 1994
+p547
+aVSouth Africa v Argentina at Johannesburg, Oct 15, 1994
+p548
+aVSouth Africa v Argentina at Johannesburg, Oct 15, 1994
+p549
+aVScotland v South Africa at Murrayfield, Nov 19, 1994
+p550
+aVSouth Africa v Samoa at Johannesburg, Apr 13, 1995
+p551
+aVSouth Africa v Samoa at Johannesburg, Apr 13, 1995
+p552
+aVSouth Africa v Australia at Cape Town, May 25, 1995
+p553
+aVSouth Africa v Romania at Cape Town, May 30, 1995
+p554
+aVSouth Africa v Romania at Cape Town, May 30, 1995
+p555
+aVSouth Africa v Romania at Cape Town, May 30, 1995
+p556
+aVSouth Africa v Wales at Johannesburg, Sep 2, 1995
+p557
+aVItaly v South Africa at Rome, Nov 12, 1995
+p558
+aVSouth Africa v Fiji at Pretoria, Jul 2, 1996
+p559
+aVSouth Africa v Fiji at Pretoria, Jul 2, 1996
+p560
+aVSouth Africa v Fiji at Pretoria, Jul 2, 1996
+p561
+aVSouth Africa v Australia at Bloemfontein, Aug 3, 1996
+p562
+aVSouth Africa v New Zealand at Durban, Aug 17, 1996
+p563
+aVSouth Africa v New Zealand at Durban, Aug 17, 1996
+p564
+aVSouth Africa v New Zealand at Durban, Aug 17, 1996
+p565
+aVSouth Africa v New Zealand at Durban, Aug 17, 1996
+p566
+aVSouth Africa v New Zealand at Pretoria, Aug 24, 1996
+p567
+aVZimbabwe v Ivory Coast at Harare, May 5, 1990
+p568
+aVSouth Africa v Tonga at Cape Town, Jun 10, 1997
+p569
+aVSouth Africa v Tonga at Cape Town, Jun 10, 1997
+p570
+aVSouth Africa v British and Irish Lions at Durban, Jun 28, 1997
+p571
+aVSouth Africa v British and Irish Lions at Durban, Jun 28, 1997
+p572
+aVSouth Africa v British and Irish Lions at Johannesburg, Jul 5, 1997
+p573
+aVSouth Africa v British and Irish Lions at Johannesburg, Jul 5, 1997
+p574
+aVSouth Africa v British and Irish Lions at Johannesburg, Jul 5, 1997
+p575
+aVSouth Africa v Australia at Pretoria, Aug 23, 1997
+p576
+aVSouth Africa v Australia at Pretoria, Aug 23, 1997
+p577
+aVSouth Africa v Australia at Pretoria, Aug 23, 1997
+p578
+aVItaly v South Africa at Bologna, Nov 8, 1997
+p579
+aVFrance v South Africa at Parc des Princes, Nov 22, 1997
+p580
+aVEngland v South Africa at Twickenham, Nov 29, 1997
+p581
+aVScotland v South Africa at Murrayfield, Dec 6, 1997
+p582
+aVScotland v South Africa at Murrayfield, Dec 6, 1997
+p583
+aVSouth Africa v Ireland at Bloemfontein, Jun 13, 1998
+p584
+aVSouth Africa v Ireland at Bloemfontein, Jun 13, 1998
+p585
+aVSouth Africa v Ireland at Pretoria, Jun 20, 1998
+p586
+aVSouth Africa v Ireland at Pretoria, Jun 20, 1998
+p587
+aVCanada v Scotland XV at Saint John, May 25, 1991
+p588
+aVSouth Africa v Italy at Port Elizabeth, Jun 12, 1999
+p589
+aVSouth Africa v Italy at Port Elizabeth, Jun 12, 1999
+p590
+aVSouth Africa v Italy at Port Elizabeth, Jun 12, 1999
+p591
+aVSouth Africa v Italy at Port Elizabeth, Jun 12, 1999
+p592
+aVSouth Africa v Italy at Port Elizabeth, Jun 12, 1999
+p593
+aVSouth Africa v Italy at Port Elizabeth, Jun 12, 1999
+p594
+aVSouth Africa v Italy at Port Elizabeth, Jun 12, 1999
+p595
+aVSouth Africa v Italy at Port Elizabeth, Jun 12, 1999
+p596
+aVSouth Africa v Italy at Durban, Jun 19, 1999
+p597
+aVSouth Africa v Italy at Durban, Jun 19, 1999
+p598
+aVSouth Africa v Italy at Durban, Jun 19, 1999
+p599
+aVAustralia v South Africa at Brisbane, Jul 17, 1999
+p600
+aVSouth Africa v Spain at Murrayfield, Oct 10, 1999
+p601
+aVSouth Africa v Spain at Murrayfield, Oct 10, 1999
+p602
+aVSouth Africa v Canada at East London, Jun 10, 2000
+p603
+aVSouth Africa v Canada at East London, Jun 10, 2000
+p604
+aVSouth Africa v Canada at East London, Jun 10, 2000
+p605
+aVAustralia v South Africa at Melbourne, Jul 8, 2000
+p606
+aVNew Zealand v South Africa at Christchurch, Jul 22, 2000
+p607
+aVNew Zealand v South Africa at Christchurch, Jul 22, 2000
+p608
+aVSouth Africa v New Zealand at Johannesburg, Aug 19, 2000
+p609
+aVWales v South Africa at Millennium Stadium, Nov 26, 2000
+p610
+aVEngland v South Africa at Twickenham, Dec 2, 2000
+p611
+aVSouth Africa v France at Johannesburg, Jun 16, 2001
+p612
+aVSouth Africa v France at Johannesburg, Jun 16, 2001
+p613
+aVSouth Africa v France at Johannesburg, Jun 16, 2001
+p614
+aVSouth Africa v Italy at Port Elizabeth, Jun 30, 2001
+p615
+aVSouth Africa v Italy at Port Elizabeth, Jun 30, 2001
+p616
+aVSouth Africa v Italy at Port Elizabeth, Jun 30, 2001
+p617
+aVSouth Africa v Italy at Port Elizabeth, Jun 30, 2001
+p618
+aVSouth Africa v New Zealand at Cape Town, Jul 21, 2001
+p619
+aVSouth Africa v New Zealand at Cape Town, Jul 21, 2001
+p620
+aVFrance v South Africa at Stade de France, Nov 10, 2001
+p621
+aVItaly v South Africa at Genova, Nov 17, 2001
+p622
+aVItaly v South Africa at Genova, Nov 17, 2001
+p623
+aVUnited States of America v South Africa at Houston, Dec 1, 2001
+p624
+aVSouth Africa v Wales at Bloemfontein, Jun 8, 2002
+p625
+aVSouth Africa v Wales at Bloemfontein, Jun 8, 2002
+p626
+aVSouth Africa v Wales at Bloemfontein, Jun 8, 2002
+p627
+aVSouth Africa v Wales at Bloemfontein, Jun 8, 2002
+p628
+aVSouth Africa v Wales at Bloemfontein, Jun 8, 2002
+p629
+aVSouth Africa v Wales at Bloemfontein, Jun 8, 2002
+p630
+aVSouth Africa v Wales at Bloemfontein, Jun 8, 2002
+p631
+aVSouth Africa v Wales at Cape Town, Jun 15, 2002
+p632
+aVSouth Africa v Wales at Cape Town, Jun 15, 2002
+p633
+aVSouth Africa v Wales at Cape Town, Jun 15, 2002
+p634
+aVSouth Africa v Argentina at Springs, Jun 29, 2002
+p635
+aVSouth Africa v Samoa at Pretoria, Jul 6, 2002
+p636
+aVSouth Africa v Samoa at Pretoria, Jul 6, 2002
+p637
+aVSouth Africa v Samoa at Pretoria, Jul 6, 2002
+p638
+aVAustralia v South Africa at Brisbane, Jul 27, 2002
+p639
+aVFrance v South Africa at Marseille, Nov 9, 2002
+p640
+aVFrance v South Africa at Marseille, Nov 9, 2002
+p641
+aVFrance v South Africa at Marseille, Nov 9, 2002
+p642
+aVFrance v South Africa at Marseille, Nov 9, 2002
+p643
+aVFrance v South Africa at Marseille, Nov 9, 2002
+p644
+aVScotland v South Africa at Murrayfield, Nov 16, 2002
+p645
+aVScotland v South Africa at Murrayfield, Nov 16, 2002
+p646
+aVScotland v South Africa at Murrayfield, Nov 16, 2002
+p647
+aVScotland v South Africa at Murrayfield, Nov 16, 2002
+p648
+aVEngland v South Africa at Twickenham, Nov 23, 2002
+p649
+aVSouth Africa v Scotland at Durban, Jun 7, 2003
+p650
+aVSouth Africa v Scotland at Durban, Jun 7, 2003
+p651
+aVSouth Africa v Scotland at Durban, Jun 7, 2003
+p652
+aVSouth Africa v Scotland at Durban, Jun 7, 2003
+p653
+aVSouth Africa v Scotland at Durban, Jun 7, 2003
+p654
+aVSouth Africa v Scotland at Johannesburg, Jun 14, 2003
+p655
+aVSouth Africa v Australia at Cape Town, Jul 12, 2003
+p656
+aVAustralia v South Africa at Brisbane, Aug 2, 2003
+p657
+aVNew Zealand v South Africa at Dunedin, Aug 9, 2003
+p658
+aVNew Zealand v South Africa at Dunedin, Aug 9, 2003
+p659
+aVSouth Africa v Uruguay at Perth, Oct 11, 2003
+p660
+aVSouth Africa v Uruguay at Perth, Oct 11, 2003
+p661
+aVSouth Africa v Uruguay at Perth, Oct 11, 2003
+p662
+aVGeorgia v South Africa at Sydney, Oct 24, 2003
+p663
+aVSouth Africa v Ireland at Bloemfontein, Jun 12, 2004
+p664
+aVSouth Africa v Ireland at Bloemfontein, Jun 12, 2004
+p665
+aVSouth Africa v Ireland at Bloemfontein, Jun 12, 2004
+p666
+aVSouth Africa v Ireland at Bloemfontein, Jun 12, 2004
+p667
+aVSouth Africa v Ireland at Bloemfontein, Jun 12, 2004
+p668
+aVSouth Africa v Wales at Pretoria, Jun 26, 2004
+p669
+aVWales v South Africa at Millennium Stadium, Nov 6, 2004
+p670
+aVWales v South Africa at Millennium Stadium, Nov 6, 2004
+p671
+aVEngland v South Africa at Twickenham, Nov 20, 2004
+p672
+aVScotland v South Africa at Murrayfield, Nov 27, 2004
+p673
+aVScotland v South Africa at Murrayfield, Nov 27, 2004
+p674
+aVSouth Africa v Uruguay at East London, Jun 11, 2005
+p675
+aVSouth Africa v Uruguay at East London, Jun 11, 2005
+p676
+aVSouth Africa v Australia at Pretoria, Jul 30, 2005
+p677
+aVWales v South Africa at Millennium Stadium, Nov 19, 2005
+p678
+aVSouth Africa v Scotland at Durban, Jun 10, 2006
+p679
+aVSouth Africa v Scotland at Durban, Jun 10, 2006
+p680
+aVAustralia v South Africa at Brisbane, Jul 15, 2006
+p681
+aVAustralia v South Africa at Brisbane, Jul 15, 2006
+p682
+aVSouth Africa v New Zealand at Pretoria, Aug 26, 2006
+p683
+aVSouth Africa v New Zealand at Pretoria, Aug 26, 2006
+p684
+aVSouth Africa v New Zealand at Pretoria, Aug 26, 2006
+p685
+aVSouth Africa v Australia at Johannesburg, Sep 9, 2006
+p686
+aVIreland v South Africa at Lansdowne Road, Nov 11, 2006
+p687
+aVIreland v South Africa at Lansdowne Road, Nov 11, 2006
+p688
+aVIreland v South Africa at Lansdowne Road, Nov 11, 2006
+p689
+aVEngland v South Africa at Twickenham, Nov 18, 2006
+p690
+aVEngland v South Africa at Twickenham, Nov 25, 2006
+p691
+aVSouth Africa v Samoa at Johannesburg, Jun 9, 2007
+p692
+aVSouth Africa v Samoa at Johannesburg, Jun 9, 2007
+p693
+aVAustralia v South Africa at Sydney, Jul 7, 2007
+p694
+aVAustralia v South Africa at Sydney, Jul 7, 2007
+p695
+aVAustralia v South Africa at Sydney, Jul 7, 2007
+p696
+aVWales v South Africa at Millennium Stadium, Nov 24, 2007
+p697
+aVWales v South Africa at Millennium Stadium, Nov 24, 2007
+p698
+aVSouth Africa v Wales at Bloemfontein, Jun 7, 2008
+p699
+aVSouth Africa v Wales at Bloemfontein, Jun 7, 2008
+p700
+aVSouth Africa v Wales at Pretoria, Jun 14, 2008
+p701
+aVSouth Africa v Italy at Cape Town, Jun 21, 2008
+p702
+aVSouth Africa v Italy at Cape Town, Jun 21, 2008
+p703
+aVAustralia v South Africa at Perth, Jul 19, 2008
+p704
+aVSouth Africa v Argentina at Johannesburg, Aug 9, 2008
+p705
+aVEngland v South Africa at Twickenham, Nov 22, 2008
+p706
+aVSouth Africa v British and Irish Lions at Durban, Jun 20, 2009
+p707
+aVSouth Africa v British and Irish Lions at Johannesburg, Jul 4, 2009
+p708
+aVItaly v South Africa at Udine, Nov 21, 2009
+p709
+aVItaly v South Africa at Udine, Nov 21, 2009
+p710
+aVItaly v South Africa at Udine, Nov 21, 2009
+p711
+aVIreland v South Africa at Croke Park, Nov 28, 2009
+p712
+aVWales v South Africa at Millennium Stadium, Jun 5, 2010
+p713
+aVWales v South Africa at Millennium Stadium, Jun 5, 2010
+p714
+aVWales v South Africa at Millennium Stadium, Jun 5, 2010
+p715
+aVWales v South Africa at Millennium Stadium, Jun 5, 2010
+p716
+aVWales v South Africa at Millennium Stadium, Jun 5, 2010
+p717
+aVSouth Africa v France at Cape Town, Jun 12, 2010
+p718
+aVSouth Africa v Italy at Witbank, Jun 19, 2010
+p719
+aVIreland v South Africa at Lansdowne Road, Nov 6, 2010
+p720
+aVIreland v South Africa at Lansdowne Road, Nov 6, 2010
+p721
+aVIreland v South Africa at Lansdowne Road, Nov 6, 2010
+p722
+aVWales v South Africa at Millennium Stadium, Nov 13, 2010
+p723
+aVScotland v South Africa at Murrayfield, Nov 20, 2010
+p724
+aVAustralia v South Africa at Sydney, Jul 23, 2011
+p725
+aVAustralia v South Africa at Sydney, Jul 23, 2011
+p726
+aVAustralia v South Africa at Sydney, Jul 23, 2011
+p727
+aVNew Zealand v South Africa at Wellington, Jul 30, 2011
+p728
+aVNew Zealand v South Africa at Wellington, Jul 30, 2011
+p729
+aVSouth Africa v England at Durban, Jun 9, 2012
+p730
+aVSouth Africa v England at Durban, Jun 9, 2012
+p731
+aVSouth Africa v England at Durban, Jun 9, 2012
+p732
+aVSouth Africa v England at Durban, Jun 9, 2012
+p733
+aVSouth Africa v England at Port Elizabeth, Jun 23, 2012
+p734
+aVSouth Africa v Argentina at Cape Town, Aug 18, 2012
+p735
+aVSouth Africa v Argentina at Cape Town, Aug 18, 2012
+p736
+aVArgentina v South Africa at Mendoza, Aug 25, 2012
+p737
+aVAustralia v South Africa at Perth, Sep 8, 2012
+p738
+aVAustralia v South Africa at Perth, Sep 8, 2012
+p739
+aVSouth Africa v Australia at Pretoria, Sep 29, 2012
+p740
+aVSouth Africa v Australia at Pretoria, Sep 29, 2012
+p741
+aVSouth Africa v Italy at Durban, Jun 8, 2013
+p742
+aVSouth Africa v Italy at Durban, Jun 8, 2013
+p743
+aVSouth Africa v Italy at Durban, Jun 8, 2013
+p744
+aVSouth Africa v Italy at Durban, Jun 8, 2013
+p745
+aVSouth Africa v Italy at Durban, Jun 8, 2013
+p746
+aVSouth Africa v Scotland at Nelspruit, Jun 15, 2013
+p747
+aVSouth Africa v Scotland at Nelspruit, Jun 15, 2013
+p748
+aVSouth Africa v New Zealand at Johannesburg, Oct 5, 2013
+p749
+aVWales v South Africa at Millennium Stadium, Nov 9, 2013
+p750
+aVWales v South Africa at Millennium Stadium, Nov 9, 2013
+p751
+aVFrance v South Africa at Stade de France, Nov 23, 2013
+p752
+aVSouth Africa v Wales at Durban, Jun 14, 2014
+p753
+aVSouth Africa v Wales at Durban, Jun 14, 2014
+p754
+aVSouth Africa v Scotland at Port Elizabeth, Jun 28, 2014
+p755
+aVSouth Africa v Scotland at Port Elizabeth, Jun 28, 2014
+p756
+aVSouth Africa v Scotland at Port Elizabeth, Jun 28, 2014
+p757
+aVSouth Africa v Scotland at Port Elizabeth, Jun 28, 2014
+p758
+aVSouth Africa v Scotland at Port Elizabeth, Jun 28, 2014
+p759
+aVSouth Africa v Argentina at Pretoria, Aug 16, 2014
+p760
+aVAustralia v South Africa at Perth, Sep 6, 2014
+p761
+aVSouth Africa v Australia at Cape Town, Sep 27, 2014
+p762
+aVItaly v South Africa at Padova, Nov 22, 2014
+p763
+aVItaly v South Africa at Padova, Nov 22, 2014
+p764
+aVAustralia v South Africa at Brisbane, Jul 18, 2015
+p765
+aVSouth Africa v New Zealand at Johannesburg, Jul 25, 2015
+p766
+aVSouth Africa v New Zealand at Johannesburg, Jul 25, 2015
+p767
+aVSouth Africa v United States of America at London, Oct 7, 2015
+p768
 a.

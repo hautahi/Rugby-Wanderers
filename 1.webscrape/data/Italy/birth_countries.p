@@ -320,9 +320,9 @@ aVNapoli, Veneza, Ribeirão das Neves, Microrregião Belo Horizonte, Região Metrop
 p171
 aVNapoli, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
 p172
-aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
-p173
 aVNapoli, Laguna Hills, Orange County, California, 92653, United States of America
+p173
+aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
 p174
 aVNapoli, Vintage Oaks at the Vineyard, Cranes Mill, Comal County, Texas, United States of America
 p175
@@ -844,7 +844,7 @@ aVLonate Pozzolo, SS336, Cascina Castellana, Lonate Pozzolo, VA, LOM, 21015, Ita
 p447
 aVLonate Pozzolo, Piazza San Francesco, Lonate Pozzolo, VA, LOM, 21015, Italia
 p448
-aVLonate Pozzolo, SS336, Cascina Malpaga, Castano Primo, MI, LOM, 21015, Italia
+aVLonate Pozzolo, SS336, Castano Primo, MI, LOM, 21015, Italia
 p449
 aa(lp450
 V\u0637\u0631\u0627\u0628\u0644\u0633, Libya \u2d4d\u2d49\u2d31\u2d62\u2d30 \u0644\u064a\u0628\u064a\u0627
@@ -2659,9 +2659,9 @@ aVNapoli, Veneza, Ribeirão das Neves, Microrregião Belo Horizonte, Região Metrop
 p1401
 aVNapoli, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
 p1402
-aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
-p1403
 aVNapoli, Laguna Hills, Orange County, California, 92653, United States of America
+p1403
+aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
 p1404
 aVNapoli, Vintage Oaks at the Vineyard, Cranes Mill, Comal County, Texas, United States of America
 p1405
@@ -2739,9 +2739,9 @@ aVNapoli, Veneza, Ribeirão das Neves, Microrregião Belo Horizonte, Região Metrop
 p1443
 aVNapoli, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
 p1444
-aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
-p1445
 aVNapoli, Laguna Hills, Orange County, California, 92653, United States of America
+p1445
+aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
 p1446
 aVNapoli, Vintage Oaks at the Vineyard, Cranes Mill, Comal County, Texas, United States of America
 p1447
@@ -3201,9 +3201,9 @@ aVNapoli, Veneza, Ribeirão das Neves, Microrregião Belo Horizonte, Região Metrop
 p1685
 aVNapoli, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
 p1686
-aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
-p1687
 aVNapoli, Laguna Hills, Orange County, California, 92653, United States of America
+p1687
+aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
 p1688
 aVNapoli, Vintage Oaks at the Vineyard, Cranes Mill, Comal County, Texas, United States of America
 p1689
@@ -3579,9 +3579,9 @@ aVNapoli, Veneza, Ribeirão das Neves, Microrregião Belo Horizonte, Região Metrop
 p1883
 aVNapoli, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
 p1884
-aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
-p1885
 aVNapoli, Laguna Hills, Orange County, California, 92653, United States of America
+p1885
+aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
 p1886
 aVNapoli, Vintage Oaks at the Vineyard, Cranes Mill, Comal County, Texas, United States of America
 p1887
@@ -6093,9 +6093,9 @@ aVNapoli, Veneza, Ribeirão das Neves, Microrregião Belo Horizonte, Região Metrop
 p3205
 aVNapoli, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
 p3206
-aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
-p3207
 aVNapoli, Laguna Hills, Orange County, California, 92653, United States of America
+p3207
+aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
 p3208
 aVNapoli, Vintage Oaks at the Vineyard, Cranes Mill, Comal County, Texas, United States of America
 p3209
@@ -7833,4 +7833,3611 @@ aVGeneral San Martín, Rufino, Municipio de Rufino, Departamento General López, S
 p4119
 aVGeneral San Martín, LR, Argentina
 p4120
+aa(lp4121
+VL'Aquila, AQ, ABR, Italia
+p4122
+aVAQ, ABR, Italia
+p4123
+aVL'Aquila, Via Tancredi da Pentima, L'Aquila, AQ, ABR, 67100, Italia
+p4124
+aVL'Aquila, Tramonti di Sopra, PN, FVG, Italia
+p4125
+aVL'aquila, Dolceacqua, IM, LIG, Italia
+p4126
+aVL'Aquila, Buggiano, PT, TOS, Italia
+p4127
+aVL'Aquila, AQ, ABR, Italia
+p4128
+aVL'Aquila, AQ, ABR, Italia
+p4129
+aVL'Aquila, AQ, ABR, Italia
+p4130
+aVL'Aquila, Saint-Pierre, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83000;83100;83200, France
+p4131
+aa(lp4132
+VRosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4133
+aVRosario, Sonora, Estados Unidos Mexicanos
+p4134
+aVRosario, Sinaloa, Estados Unidos Mexicanos
+p4135
+aVRosario, Chihuahua, Estados Unidos Mexicanos
+p4136
+aVRosario, Cavite, Calabarzon, 4106, Philippines
+p4137
+aVRosario, Agusan Del Sur, Caraga, Philippines
+p4138
+aVRosario, Mayagüez, Puerto Rico, United States of America
+p4139
+aVEl Rosario, Cantón Gualaquiza, Morona Santiago, Ecuador
+p4140
+aVEl Rosario, El Empalme, Guayas, Ecuador
+p4141
+aVEl Rosario, Cantón Chaguarpamba, Loja, Ecuador
+p4142
+aa(lp4143
+VCórdoba, Provincia de Córdoba, Andalucía, España
+p4144
+aVCórdoba, Colombia
+p4145
+aVCba., Argentina
+p4146
+aVCórdoba, Departamento Capital, Cba., Argentina
+p4147
+aVCordoba, Ciénaga, Magdalena, Colombia
+p4148
+aVCórdoba, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p4149
+aVCordoba, Chiquinquirá, Boyacá, Colombia
+p4150
+aVCordoba, San Vicente de Chucurí, Santander, Colombia
+p4151
+aVCordoba, Cundinamarca, Colombia
+p4152
+aVCordoba, Hato Corozal, Casanare, Colombia
+p4153
+aa(lp4154
+VL'Aquila, AQ, ABR, Italia
+p4155
+aVAQ, ABR, Italia
+p4156
+aVL'Aquila, Via Tancredi da Pentima, L'Aquila, AQ, ABR, 67100, Italia
+p4157
+aVL'Aquila, Tramonti di Sopra, PN, FVG, Italia
+p4158
+aVL'aquila, Dolceacqua, IM, LIG, Italia
+p4159
+aVL'Aquila, Buggiano, PT, TOS, Italia
+p4160
+aVL'Aquila, AQ, ABR, Italia
+p4161
+aVL'Aquila, AQ, ABR, Italia
+p4162
+aVL'Aquila, AQ, ABR, Italia
+p4163
+aVL'Aquila, Saint-Pierre, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83000;83100;83200, France
+p4164
+aa(lp4165
+VCremona, CR, LOM, 26100, Italia
+p4166
+aVCR, LOM, Italia
+p4167
+aVCremona, Mountain View County, Alberta, Canada
+p4168
+aVCremona, Piazza Della Stazione, Sant'Ambrogio, Cremona, CR, LOM, 26100, Italia
+p4169
+aVCremona, Saint Mary's County, Maryland, United States of America
+p4170
+aVCremona, Swords-Forrest ED, Swords, Fingal, County Dublin, Leinster, Ireland
+p4171
+aVCremona, Temuco, Provincia de Cautín, IX Región de la Araucanía, 4811161, Chile
+p4172
+aVCremona, Laguna Hills, Orange County, California, 92653, United States of America
+p4173
+aVCremona, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p4174
+aVCremona, Guadalajara, Jalisco, 44639, Estados Unidos Mexicanos
+p4175
+aa(lp4176
+VTreviso, TV, VEN, Italia
+p4177
+aVTV, VEN, Italia
+p4178
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p4179
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p4180
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p4181
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p4182
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p4183
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p4184
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p4185
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p4186
+aa(lp4187
+VRoma, RM, LAZ, Italia
+p4188
+aVRM, LAZ, Italia
+p4189
+aVAnguillara Sabazia, Roma, RM, LAZ, 00100, Italia
+p4190
+aVRoma, Saltillo, Coahuila de Zaragoza, Estados Unidos Mexicanos
+p4191
+aVRoma, QLD, Australia
+p4192
+aVRoma, Starr County, Texas, United States of America
+p4193
+aVRoma, Starr County, Texas, United States of America
+p4194
+aVRoma, Gotland, Gotlands län, Götaland, Territorial waters of Gotland
+p4195
+aVRoma, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p4196
+aVRoma, Copo, SDE, Argentina
+p4197
+aa(lp4198
+VL'Aquila, AQ, ABR, Italia
+p4199
+aVAQ, ABR, Italia
+p4200
+aVL'Aquila, Via Tancredi da Pentima, L'Aquila, AQ, ABR, 67100, Italia
+p4201
+aVL'Aquila, Tramonti di Sopra, PN, FVG, Italia
+p4202
+aVL'aquila, Dolceacqua, IM, LIG, Italia
+p4203
+aVL'Aquila, Buggiano, PT, TOS, Italia
+p4204
+aVL'Aquila, AQ, ABR, Italia
+p4205
+aVL'Aquila, AQ, ABR, Italia
+p4206
+aVL'Aquila, AQ, ABR, Italia
+p4207
+aVL'Aquila, Saint-Pierre, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83000;83100;83200, France
+p4208
+aa(lp4209
+VPadova, PD, VEN, Italia
+p4210
+aVPD, VEN, Italia
+p4211
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p4212
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p4213
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p4214
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p4215
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p4216
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p4217
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p4218
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p4219
+aa(lp4220
+VPadova, PD, VEN, Italia
+p4221
+aVPD, VEN, Italia
+p4222
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p4223
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p4224
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p4225
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p4226
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p4227
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p4228
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p4229
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p4230
+aaNa(lp4231
+VTreviso, TV, VEN, Italia
+p4232
+aVTV, VEN, Italia
+p4233
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p4234
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p4235
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p4236
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p4237
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p4238
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p4239
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p4240
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p4241
+aa(lp4242
+VRoma, RM, LAZ, Italia
+p4243
+aVRM, LAZ, Italia
+p4244
+aVAnguillara Sabazia, Roma, RM, LAZ, 00100, Italia
+p4245
+aVRoma, Saltillo, Coahuila de Zaragoza, Estados Unidos Mexicanos
+p4246
+aVRoma, QLD, Australia
+p4247
+aVRoma, Starr County, Texas, United States of America
+p4248
+aVRoma, Starr County, Texas, United States of America
+p4249
+aVRoma, Gotland, Gotlands län, Götaland, Territorial waters of Gotland
+p4250
+aVRoma, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p4251
+aVRoma, Copo, SDE, Argentina
+p4252
+aa(lp4253
+VVenezuela
+p4254
+aVVE, VEN, Italia
+p4255
+aVVe, Karlstad, Värmlands län, Svealand, Sverige
+p4256
+aVVe, Menchum, NW, Cameroun
+p4257
+aVVe, Volta Region, Ghana
+p4258
+aVVE, Route des Fondeurs, Chabeuil, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26120, France
+p4259
+aVVE, Hoofdweg Westzijde, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132MH, Nederland
+p4260
+aVVE, Route de Montmeyran, Grange Neuve, Beaumont-lès-Valence, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26760, France
+p4261
+aVLe Ve, Place de la Gare, Vevey, District de la Riviera-Pays-d\u2019Enhaut, Vaud, 1800, Schweiz, Suisse, Svizzera, Svizra
+p4262
+aVVeh, 23, Hauptstraße, Binnerfeld, Rusch, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59755, Deutschland
+p4263
+aa(lp4264
+VTreviso, TV, VEN, Italia
+p4265
+aVTV, VEN, Italia
+p4266
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p4267
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p4268
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p4269
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p4270
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p4271
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p4272
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p4273
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p4274
+aa(lp4275
+VLivorno, LI, TOS, Italia
+p4276
+aVLI, TOS, Italia
+p4277
+aVLivorno, Belvederre, Montevideo, 12900, Uruguay
+p4278
+aVLivorno, Temuco, Provincia de Cautín, IX Región de la Araucanía, 4811161, Chile
+p4279
+aVLivorno, Villa Galilea, Curicó, Provincia de Curicó, VII Región del Maule, 3340814, Chile
+p4280
+aVLivorno, Portada de Huechuraba, Huechuraba, Provincia de Santiago, Región Metropolitana de Santiago, Chile
+p4281
+aVLivorno, Atlantida, Santa Clara del Mar, Partido de Mar Chiquita, Bs. As., 7609, Argentina
+p4282
+aVLivorno, Jorge Mendez, Hermosillo, Sonora, 83288, Estados Unidos Mexicanos
+p4283
+aVLivorno, Xallitic, Las Trancas, Veracruz de Ignacio de la Llave, 91637, Estados Unidos Mexicanos
+p4284
+aVLivorno, Xallitic, Las Trancas, Veracruz de Ignacio de la Llave, 91637, Estados Unidos Mexicanos
+p4285
+aa(lp4286
+VPadova, PD, VEN, Italia
+p4287
+aVPD, VEN, Italia
+p4288
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p4289
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p4290
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p4291
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p4292
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p4293
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p4294
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p4295
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p4296
+aa(lp4297
+VPadova, PD, VEN, Italia
+p4298
+aVPD, VEN, Italia
+p4299
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p4300
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p4301
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p4302
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p4303
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p4304
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p4305
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p4306
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p4307
+aa(lp4308
+VLivorno, LI, TOS, Italia
+p4309
+aVLI, TOS, Italia
+p4310
+aVLivorno, Belvederre, Montevideo, 12900, Uruguay
+p4311
+aVLivorno, Temuco, Provincia de Cautín, IX Región de la Araucanía, 4811161, Chile
+p4312
+aVLivorno, Villa Galilea, Curicó, Provincia de Curicó, VII Región del Maule, 3340814, Chile
+p4313
+aVLivorno, Portada de Huechuraba, Huechuraba, Provincia de Santiago, Región Metropolitana de Santiago, Chile
+p4314
+aVLivorno, Atlantida, Santa Clara del Mar, Partido de Mar Chiquita, Bs. As., 7609, Argentina
+p4315
+aVLivorno, Jorge Mendez, Hermosillo, Sonora, 83288, Estados Unidos Mexicanos
+p4316
+aVLivorno, Xallitic, Las Trancas, Veracruz de Ignacio de la Llave, 91637, Estados Unidos Mexicanos
+p4317
+aVLivorno, Xallitic, Las Trancas, Veracruz de Ignacio de la Llave, 91637, Estados Unidos Mexicanos
+p4318
+aa(lp4319
+VPadova, PD, VEN, Italia
+p4320
+aVPD, VEN, Italia
+p4321
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p4322
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p4323
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p4324
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p4325
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p4326
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p4327
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p4328
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p4329
+aa(lp4330
+VTreviso, TV, VEN, Italia
+p4331
+aVTV, VEN, Italia
+p4332
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p4333
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p4334
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p4335
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p4336
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p4337
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p4338
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p4339
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p4340
+aa(lp4341
+VBucure\u0219ti, Sector 2, Bucure\u0219ti, România
+p4342
+aVBucure\u0219ti, România
+p4343
+aVBucure\u0219ti, Centrul Istoric, Sector 3, Bucure\u0219ti, 030238, România
+p4344
+aVBucure\u0219ti, Strada Bucure\u0219ti, M\u0103r\u0103\u0219ti, Cluj-Napoca, Cluj, 400613, România
+p4345
+aVBucure\u0219ti, Strada 1 Decembrie 1918, Carei, Satu Mare, 445100, România
+p4346
+aa(lp4347
+VPadova, PD, VEN, Italia
+p4348
+aVPD, VEN, Italia
+p4349
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p4350
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p4351
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p4352
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p4353
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p4354
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p4355
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p4356
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p4357
+aa(lp4358
+VTuvalu
+p4359
+aVTV, VEN, Italia
+p4360
+aVT\u1ec9nh Trà Vinh, Vi\u1ec7t Nam
+p4361
+aVVolta Region, Ghana
+p4362
+aVTv., Alagoinhas, Microrregião de Alagoinhas, Mesorregião do Nordeste Baiano, BA, Região Nordeste, Brasil
+p4363
+aVTV, Postojna, Notranjsko-kra\u0161ka, 6225, Slovenija
+p4364
+aVTV, Mendocino County, California, 95420, United States of America
+p4365
+aVTV, Praça Januário Pereira da Costa, Santa Tereza, Porto Alegre, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 90850-080, Brasil
+p4366
+aVTV, Avenida Sebastião Balbino da Silva, Guidoval, Microrregião Ubá, Mesorregião Zona da Mata, MG, Região Sudeste, Brasil
+p4367
+aVTV, CU-V-5014, Enguídanos, Cuenca, Castilla-La Mancha, España
+p4368
+aa(lp4369
+VMantova, MN, LOM, Italia
+p4370
+aVMN, LOM, Italia
+p4371
+aVMantova, Viale Pitentino, Valletta Paiolo, Mantova, MN, LOM, 46100, Italia
+p4372
+aVMantova, Calle Vázquez de Mella, Los Solises, Las Campas y San Claudio, Oviedo, Principado de Asturias, 33013, España
+p4373
+aa(lp4374
+VBelluno, BL, VEN, Italia
+p4375
+aVBL, VEN, Italia
+p4376
+aVBelluno, Piazzale della Stazione, Lambioi, Belluno, BL, VEN, 32100, Italia
+p4377
+aVBelluno, Temuco, Provincia de Cautín, IX Región de la Araucanía, 4811161, Chile
+p4378
+aVBelluno, Jorge Mendez, Hermosillo, Sonora, 83288, Estados Unidos Mexicanos
+p4379
+aVBelluno, CLN 109/110, Asa Norte, Brasília, Região Integrada de Desenvolvimento do Distrito Federal e Entorno, DF, Região Centro-Oeste, 70752520, Brasil
+p4380
+aVBelluno, Piazzale della Stazione, Lambioi, Belluno, BL, VEN, 32100, Italia
+p4381
+aVBelluno, Via Mier, Mussoi, Belluno, BL, VEN, Belluno, Italia
+p4382
+aVBelluno, 66, Kollwitzstraße, Kollwitzkiez, Prenzlauer Berg, Pankow, Berlin, 10435, Deutschland
+p4383
+aVBelluno, Autostrada d'Alemagna-Galleria Belluno, Ponte nelle Alpi, BL, VEN, 32014, Italia
+p4384
+aa(lp4385
+VPisa, PI, TOS, Italia
+p4386
+aVPI, TOS, Italia
+p4387
+aVPisa, gmina Kolno, powiat kolne\u0144ski, podlaskie, Polska
+p4388
+aVPisa, Barczewo, gmina Barczewo, powiat olszty\u0144ski, warmi\u0144sko-mazurskie, Polska
+p4389
+aVPisa, gmina Barczewo, powiat olszty\u0144ski, warmi\u0144sko-mazurskie, Polska
+p4390
+aVPisa, gmina S\u0119popol, powiat bartoszycki, warmi\u0144sko-mazurskie, Polska
+p4391
+aVPisa, gmina Bartoszyce, powiat bartoszycki, warmi\u0144sko-mazurskie, Polska
+p4392
+aVPisa, gmina Bisztynek, powiat bartoszycki, warmi\u0144sko-mazurskie, Polska
+p4393
+aV\u041f\u0438\u0441\u0441\u0430, \u0427\u0435\u0440\u043d\u044f\u0445\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p4394
+aV\u041f\u0438\u0441\u0441\u0430, \u0427\u0438\u0441\u0442\u043e\u043f\u0440\u0443\u0434\u043d\u0435\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u041d\u0435\u0441\u0442\u0435\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p4395
+aa(lp4396
+VViterbo, VT, LAZ, Italia
+p4397
+aVViterbo, Via Chigi, Viterbo, VT, LAZ, 01100, Italia
+p4398
+aVVT, LAZ, Italia
+p4399
+aVViterbo, Jefferson County, Texas, United States of America
+p4400
+aVViterbo, Bajo Occidente, Caldas, Colombia
+p4401
+aVViterbo, Bajo Occidente, Caldas, Colombia
+p4402
+aVViterbo, Via Viterbo, Municipio Roma II, Roma, RM, LAZ, 00198, Italia
+p4403
+aVViterbo, Viterbo ATAC, Ellera, Viterbo, VT, LAZ, 01100, Italia
+p4404
+aVVITERBO, Via AL16, Talatona, Luanda, Angola
+p4405
+aa(lp4406
+VPadova, PD, VEN, Italia
+p4407
+aVPD, VEN, Italia
+p4408
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p4409
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p4410
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p4411
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p4412
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p4413
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p4414
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p4415
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p4416
+aa(lp4417
+VAustralian Capital Territory, Australia
+p4418
+aVAscot, Station Hill, Sunninghill and Ascot CP, Ascot, Windsor and Maidenhead, South East, England, SL5 9EG, United Kingdom
+p4419
+aVAct, Fountain, El Paso County, Colorado, 8017, United States of America
+p4420
+aVAct, Susana Homes III, Davao City, Davao, 8000, Philippines
+p4421
+aVACT, \u0e16\u0e19\u0e19\u0e0b\u0e38\u0e1b\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e44\u0e2e\u0e40\u0e27\u0e22\u0e4c, Sansiri Condo, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50000, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22
+p4422
+aVACT, \u6210\u5897\u5317\u53e3\u901a\u308a, \u6210\u5897\u4e8c\u4e01\u76ee, \u677f\u6a4b\u533a, \u6771\u4eac\u90fd, 175-0094, \u65e5\u672c
+p4423
+aVACT, East Wooster Street, Main Street Historic District, Bowling Green, Wood County, Ohio, 43402, United States of America
+p4424
+aVACT, \u03a3\u03b5\u03b2\u03b5\u03bd\u03af\u03b4\u03b7, \u03a0\u03c5\u03bb\u03b1\u03af\u03b1, \u0391\u03c3\u03b2\u03b5\u03c3\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03c5\u03bb\u03b1\u03af\u03b1\u03c2 - \u03a7\u03bf\u03c1\u03c4\u03b9\u03ac\u03c4\u03b7, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 55535, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p4425
+aVACT, R356, Karoo Hoogland Ward 3, Karoo Hoogland Local Municipality, Namakwa District Municipality, Northern Cape, South Africa
+p4426
+aVThe Act, Sheikh Zayed Road, Qamardeen, Downtown Burj Khalifa, Dubai, \u062f\u0628\u064a\u200e, 9292, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p4427
+aa(lp4428
+VVenezuela
+p4429
+aVVE, VEN, Italia
+p4430
+aVVe, Karlstad, Värmlands län, Svealand, Sverige
+p4431
+aVVe, Menchum, NW, Cameroun
+p4432
+aVVe, Volta Region, Ghana
+p4433
+aVVE, Route des Fondeurs, Chabeuil, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26120, France
+p4434
+aVVE, Hoofdweg Westzijde, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132MH, Nederland
+p4435
+aVVE, Route de Montmeyran, Grange Neuve, Beaumont-lès-Valence, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26760, France
+p4436
+aVLe Ve, Place de la Gare, Vevey, District de la Riviera-Pays-d\u2019Enhaut, Vaud, 1800, Schweiz, Suisse, Svizzera, Svizra
+p4437
+aVVeh, 23, Hauptstraße, Binnerfeld, Rusch, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59755, Deutschland
+p4438
+aa(lp4439
+VUdine, UD, FVG, Italia
+p4440
+aVUD, FVG, Italia
+p4441
+aVUdine, Viale Europa Unita, Borgo Aquileia, Udine, UD, FVG, 33100, Italia
+p4442
+aVUdine, Piazzale Udine, Quartiere Feltre, Zona 3, Milano, MI, LOM, 20132, Italia
+p4443
+aVUdine, Piazzale Udine, Quartiere Feltre, Zona 3, Milano, MI, LOM, 20132, Italia
+p4444
+aVUdine, Temuco, Provincia de Cautín, IX Región de la Araucanía, 4811161, Chile
+p4445
+aVUdine, Fortunato de la Plaza, Mar del Plata, Partido de General Pueyrredón, Bs. As., A7600, Argentina
+p4446
+aVUdine, El Martillo, Mar del Plata, Partido de General Pueyrredón, Bs. As., A7600, Argentina
+p4447
+aVUdine, Fortunato de la Plaza, Mar del Plata, Partido de General Pueyrredón, Bs. As., 7600, Argentina
+p4448
+aVUdine, Los Negritos, Aguascalientes, 20287, Estados Unidos Mexicanos
+p4449
+aa(lp4450
+VRoma, RM, LAZ, Italia
+p4451
+aVRM, LAZ, Italia
+p4452
+aVRegión Metropolitana de Santiago, Chile
+p4453
+aV\u04d8\u0440\u04d9\u043c\u04d9, \u0411\u043e\u043b\u044c\u0448\u0435\u0442\u0438\u0433\u0430\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p4454
+aV\u0631\u0645, Aqaba, \u0627\u0644\u0623\u0631\u062f\u0646
+p4455
+aVRobert Moses Causeway, Oak Beach, Suffolk County, New York, United States of America
+p4456
+aVRobert Moses Causeway, West Islip, Suffolk County, New York, 11795, United States of America
+p4457
+aVRobert Moses Causeway, West Islip, Suffolk County, New York, 11706, United States of America
+p4458
+aVRobert Moses Causeway, Fire Island, Suffolk County, New York, United States of America
+p4459
+aVRobert Moses Causeway, Oak Beach, Nassau, New York, United States of America
+p4460
+aa(lp4461
+VRoma, RM, LAZ, Italia
+p4462
+aVRM, LAZ, Italia
+p4463
+aVRegión Metropolitana de Santiago, Chile
+p4464
+aV\u04d8\u0440\u04d9\u043c\u04d9, \u0411\u043e\u043b\u044c\u0448\u0435\u0442\u0438\u0433\u0430\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p4465
+aV\u0631\u0645, Aqaba, \u0627\u0644\u0623\u0631\u062f\u0646
+p4466
+aVRobert Moses Causeway, Oak Beach, Suffolk County, New York, United States of America
+p4467
+aVRobert Moses Causeway, West Islip, Suffolk County, New York, 11795, United States of America
+p4468
+aVRobert Moses Causeway, West Islip, Suffolk County, New York, 11706, United States of America
+p4469
+aVRobert Moses Causeway, Fire Island, Suffolk County, New York, United States of America
+p4470
+aVRobert Moses Causeway, Oak Beach, Nassau, New York, United States of America
+p4471
+aa(lp4472
+VPadova, PD, VEN, Italia
+p4473
+aVPD, VEN, Italia
+p4474
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p4475
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p4476
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p4477
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p4478
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p4479
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p4480
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p4481
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p4482
+aa(lp4483
+VTuvalu
+p4484
+aVTV, VEN, Italia
+p4485
+aVT\u1ec9nh Trà Vinh, Vi\u1ec7t Nam
+p4486
+aVVolta Region, Ghana
+p4487
+aVTv., Alagoinhas, Microrregião de Alagoinhas, Mesorregião do Nordeste Baiano, BA, Região Nordeste, Brasil
+p4488
+aVTV, Postojna, Notranjsko-kra\u0161ka, 6225, Slovenija
+p4489
+aVTV, Mendocino County, California, 95420, United States of America
+p4490
+aVTV, Praça Januário Pereira da Costa, Santa Tereza, Porto Alegre, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 90850-080, Brasil
+p4491
+aVTV, Avenida Sebastião Balbino da Silva, Guidoval, Microrregião Ubá, Mesorregião Zona da Mata, MG, Região Sudeste, Brasil
+p4492
+aVTV, CU-V-5014, Enguídanos, Cuenca, Castilla-La Mancha, España
+p4493
+aa(lp4494
+VVenezuela
+p4495
+aVVE, VEN, Italia
+p4496
+aVVe, Karlstad, Värmlands län, Svealand, Sverige
+p4497
+aVVe, Menchum, NW, Cameroun
+p4498
+aVVe, Volta Region, Ghana
+p4499
+aVVE, Route des Fondeurs, Chabeuil, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26120, France
+p4500
+aVVE, Hoofdweg Westzijde, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132MH, Nederland
+p4501
+aVVE, Route de Montmeyran, Grange Neuve, Beaumont-lès-Valence, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26760, France
+p4502
+aVLe Ve, Place de la Gare, Vevey, District de la Riviera-Pays-d\u2019Enhaut, Vaud, 1800, Schweiz, Suisse, Svizzera, Svizra
+p4503
+aVVeh, 23, Hauptstraße, Binnerfeld, Rusch, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59755, Deutschland
+p4504
+aa(lp4505
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p4506
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p4507
+aVDurban, Manitoba, Canada
+p4508
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p4509
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p4510
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p4511
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4512
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p4513
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4514
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4515
+aa(lp4516
+Vpodlaskie, Polska
+p4517
+aVPD, VEN, Italia
+p4518
+aVPD, Brezno, okres Brezno, Banskobystrický kraj, Stredné Slovensko, 97701, Slovensko
+p4519
+aV(PD), Guicán, Boyacá, Colombia
+p4520
+aVPD, Satzingerweg, KG Leopoldau, Floridsdorf, Wien, 1210, Österreich
+p4521
+aVPD, East Hangar Road, Hamilton Beach, Queens County, NYC, New York, 11430, United States of America
+p4522
+aVPD, Earhart Road, Elizabeth, Union County, New Jersey, 07201, United States of America
+p4523
+aVPD, Pohjoinen huoltotie, Ruotsinkylä, Tuusula, Helsingin seutukunta, Uusimaa, Etelä-Suomi, 01590, Suomi
+p4524
+aVPD, via Aereoporto, Località Terminel, Villafranca di Verona, VR, VEN, 37062, Italia
+p4525
+aVPD, Reema Boulevard, Endeavour Hills, City of Casey, Greater Melbourne, Victoria, 3802, Australia
+p4526
+aa(lp4527
+VGap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05000, France
+p4528
+aVGap, 1530, 5th Avenue, Belltown, Seattle, King County, Washington, 98101, United States of America
+p4529
+aVThe Gap, Brisbane, QLD, Australia
+p4530
+aVGap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, France
+p4531
+aVGap, Lancaster County, Pennsylvania, United States of America
+p4532
+aVGap, Hautes-Alpes, Provence-Alpes-Côte d'Azur, France métropolitaine, 05000, France
+p4533
+aVGap, Kidapawan, Cotabato, Soccsksargen, Philippines
+p4534
+aVGap, Diourbel, Senegal
+p4535
+aVLe Gap, Die, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, France
+p4536
+aVThe Gap, QLD, Australia
+p4537
+aa(lp4538
+VVilla Ballester, Partido de General San Martín, Bs. As., Argentina
+p4539
+aVVilla Ballester, Carrara, Departamento Capital, Cba., 5022, Argentina
+p4540
+aVVilla Ballester, 69 San Martín, Villa La Rana, Chilavert, Partido de General San Martín, Bs. As., 1659, Argentina
+p4541
+aa(lp4542
+VGenova, GE, LIG, Italia
+p4543
+aVGE, LIG, Italia
+p4544
+aVGénova, Quetzaltenango, Guatemala
+p4545
+aVGenova, Monterrey, Nueva Granada (Granada), Magdalena, Colombia
+p4546
+aVGenova, Plato, Magdalena, Colombia
+p4547
+aVGenova, Sucre, Colombia
+p4548
+aVGenova, Astrea, Cesar, Colombia
+p4549
+aVGENOVA, Planeta Rica, Córdoba, Colombia
+p4550
+aVGenova, Quito, Pichincha, 170310, Ecuador
+p4551
+aVGénova, Quindío, Colombia
+p4552
+aa(lp4553
+VRovigo, RO, VEN, Italia
+p4554
+aVRO, VEN, Italia
+p4555
+aVRovigo, Piazza Riconoscenza, Commenda, Rovigo, RO, VEN, 45100, Italia
+p4556
+aVRovigo, Principado de Asturias, España
+p4557
+aVRovigo, Autostrada Bologna-Padova, San Pio X, Rovigo, RO, VEN, Italia
+p4558
+aa(lp4559
+VTzeusier, Icogne, Sierre, Valais - Wallis, 1977, Schweiz, Suisse, Svizzera, Svizra
+p4560
+aV1977, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p4561
+aV1977, Hatné, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
+p4562
+aV1977, Hatné, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
+p4563
+aV1977, Klie\u0161tina, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
+p4564
+aV1977, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
+p4565
+aV1977, Byst\u0159ice u B\u011blé nad Radbuzou, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
+p4566
+aVR-C, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p4567
+aVR-C, Kandahar, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p4568
+aa(lp4569
+VL'Aquila, AQ, ABR, Italia
+p4570
+aVAQ, ABR, Italia
+p4571
+aVL'Aquila, Via Tancredi da Pentima, L'Aquila, AQ, ABR, 67100, Italia
+p4572
+aVL'Aquila, Tramonti di Sopra, PN, FVG, Italia
+p4573
+aVL'aquila, Dolceacqua, IM, LIG, Italia
+p4574
+aVL'Aquila, Buggiano, PT, TOS, Italia
+p4575
+aVL'Aquila, AQ, ABR, Italia
+p4576
+aVL'Aquila, AQ, ABR, Italia
+p4577
+aVL'Aquila, AQ, ABR, Italia
+p4578
+aVL'Aquila, Saint-Pierre, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83000;83100;83200, France
+p4579
+aa(lp4580
+VRosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4581
+aVRosario, Sonora, Estados Unidos Mexicanos
+p4582
+aVRosario, Sinaloa, Estados Unidos Mexicanos
+p4583
+aVRosario, Chihuahua, Estados Unidos Mexicanos
+p4584
+aVRosario, Cavite, Calabarzon, 4106, Philippines
+p4585
+aVRosario, Agusan Del Sur, Caraga, Philippines
+p4586
+aVRosario, Mayagüez, Puerto Rico, United States of America
+p4587
+aVEl Rosario, Cantón Gualaquiza, Morona Santiago, Ecuador
+p4588
+aVEl Rosario, El Empalme, Guayas, Ecuador
+p4589
+aVEl Rosario, Cantón Chaguarpamba, Loja, Ecuador
+p4590
+aa(lp4591
+VNew South Wales, Australia
+p4592
+aVCessnock, New South Wales, NSW, Australia
+p4593
+aa(lp4594
+VCABA, Comuna 6, CABA, Argentina
+p4595
+aVBs. As., Argentina
+p4596
+aVBuenos Aires, Lares, Puerto Rico, United States of America
+p4597
+aVBuenos Aires, Palmares, Alajuela, Costa Rica
+p4598
+aVBuenos Aires, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p4599
+aVBuenos Aires, Salamanca, Castilla y León, España
+p4600
+aVBuenos Aires, Tegucigalpa, Francisco Morazán, Honduras
+p4601
+aVBuenos Aires, Esquel, Departamento Futaleufú, CHB, Argentina
+p4602
+aVBuenos Aires, Lázaro Cárdenas, Michoacán de Ocampo, Estados Unidos Mexicanos
+p4603
+aVBuenos Aires, Puntarenas, 60301, Costa Rica
+p4604
+aa(lp4605
+VFirenze, FI, TOS, Italia
+p4606
+aVFI, TOS, Italia
+p4607
+aVFirenze, Jardim La Salle, Too, Microrregião Toledo, Mesorregião Oeste Paranaense, PR, Região Sul, 85903000, Brasil
+p4608
+aVFirenze, Careggi, Firenze, FI, TOS, 5017, Italia
+p4609
+aVFirenze, Nole, TO, PIE, 10076, Italia
+p4610
+aVFirenze, Heathfield, Fareham, Hampshire, South East, England, PO15 5BG, United Kingdom
+p4611
+aVFirenze, Copiapó, Provincia de Copiapó, III Región de Atacama, 1530000, Chile
+p4612
+aVFirenze, McCloud, Siskiyou County, California, 96057, United States of America
+p4613
+aVFirenze, Vintage Oaks at the Vineyard, Cranes Mill, Comal County, Texas, United States of America
+p4614
+aVFirenze, Valley Ridge, Tarrant County, Texas, 76060, United States of America
+p4615
+aa(lp4616
+VLivorno, LI, TOS, Italia
+p4617
+aVLI, TOS, Italia
+p4618
+aVLivorno, Belvederre, Montevideo, 12900, Uruguay
+p4619
+aVLivorno, Temuco, Provincia de Cautín, IX Región de la Araucanía, 4811161, Chile
+p4620
+aVLivorno, Villa Galilea, Curicó, Provincia de Curicó, VII Región del Maule, 3340814, Chile
+p4621
+aVLivorno, Portada de Huechuraba, Huechuraba, Provincia de Santiago, Región Metropolitana de Santiago, Chile
+p4622
+aVLivorno, Atlantida, Santa Clara del Mar, Partido de Mar Chiquita, Bs. As., 7609, Argentina
+p4623
+aVLivorno, Jorge Mendez, Hermosillo, Sonora, 83288, Estados Unidos Mexicanos
+p4624
+aVLivorno, Xallitic, Las Trancas, Veracruz de Ignacio de la Llave, 91637, Estados Unidos Mexicanos
+p4625
+aVLivorno, Xallitic, Las Trancas, Veracruz de Ignacio de la Llave, 91637, Estados Unidos Mexicanos
+p4626
+aa(lp4627
+VLower Hutt, Lower Hutt City, Wellington, New Zealand/Aotearoa
+p4628
+aa(lp4629
+VGenova, GE, LIG, Italia
+p4630
+aVGE, LIG, Italia
+p4631
+aVGénova, Quetzaltenango, Guatemala
+p4632
+aVGenova, Monterrey, Nueva Granada (Granada), Magdalena, Colombia
+p4633
+aVGenova, Plato, Magdalena, Colombia
+p4634
+aVGenova, Sucre, Colombia
+p4635
+aVGenova, Astrea, Cesar, Colombia
+p4636
+aVGENOVA, Planeta Rica, Córdoba, Colombia
+p4637
+aVGenova, Quito, Pichincha, 170310, Ecuador
+p4638
+aVGénova, Quindío, Colombia
+p4639
+aa(lp4640
+VRosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4641
+aVRosario, Sonora, Estados Unidos Mexicanos
+p4642
+aVRosario, Sinaloa, Estados Unidos Mexicanos
+p4643
+aVRosario, Chihuahua, Estados Unidos Mexicanos
+p4644
+aVRosario, Cavite, Calabarzon, 4106, Philippines
+p4645
+aVRosario, Agusan Del Sur, Caraga, Philippines
+p4646
+aVRosario, Mayagüez, Puerto Rico, United States of America
+p4647
+aVEl Rosario, Cantón Gualaquiza, Morona Santiago, Ecuador
+p4648
+aVEl Rosario, El Empalme, Guayas, Ecuador
+p4649
+aVEl Rosario, Cantón Chaguarpamba, Loja, Ecuador
+p4650
+aa(lp4651
+VBenevento, BN, CAM, Italia
+p4652
+aVBN, CAM, Italia
+p4653
+aVBenevento, Piazza Vittoria Colonna, San Lorenzo, Ferrovia, Benevento, BN, CAM, 82100, Italia
+p4654
+aVBenevento, AR, TOS, Italia
+p4655
+aVBenevento, Mallare, SV, LIG, Italia
+p4656
+aVBenevento, Poppi, AR, TOS, Italia
+p4657
+aVBenevento, Spring Hill, Williamson County, Tennessee, 37179, United States of America
+p4658
+aVBenevento, Pituba, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Mesorregião do Recôncavo baiano, BA, Região Nordeste, 41830-595, Brasil
+p4659
+aVBenevento, Pituba, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Mesorregião do Recôncavo baiano, BA, Região Nordeste, 41850-100, Brasil
+p4660
+aVBenevento, Pituba, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Mesorregião do Recôncavo baiano, BA, Região Nordeste, 41830595, Brasil
+p4661
+aa(lp4662
+VCatania, CT, SIC, Italia
+p4663
+aVCT, SIC, Italia
+p4664
+aVCatania \u0643\u0627\u062a\u0627\u0646\u064a\u0627, Marassi \u0645\u0631\u0627\u0633\u0649, \u0645\u0637\u0631\u0648\u062d, \u0645\u0635\u0631
+p4665
+aVCatania, Punta Gorda, Montevideo, 11400, Uruguay
+p4666
+aVCatania, Villa Real, CABA, C1440AAF, Argentina
+p4667
+aVCatania, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p4668
+aVCatania, Mission Viejo, Orange County, California, 92692, United States of America
+p4669
+aVCatania, Mission Viejo, Orange County, California, 92694, United States of America
+p4670
+aVCatania, Newport Beach, Orange County, California, 92657, United States of America
+p4671
+aVCatania, Laguna Hills, Orange County, California, 92653, United States of America
+p4672
+aa(lp4673
+VCórdoba, Provincia de Córdoba, Andalucía, España
+p4674
+aVCórdoba, Colombia
+p4675
+aVCba., Argentina
+p4676
+aVCórdoba, Departamento Capital, Cba., Argentina
+p4677
+aVCordoba, Ciénaga, Magdalena, Colombia
+p4678
+aVCórdoba, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p4679
+aVCordoba, Chiquinquirá, Boyacá, Colombia
+p4680
+aVCordoba, San Vicente de Chucurí, Santander, Colombia
+p4681
+aVCordoba, Cundinamarca, Colombia
+p4682
+aVCordoba, Hato Corozal, Casanare, Colombia
+p4683
+aa(lp4684
+VRosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p4685
+aVRosario, Sonora, Estados Unidos Mexicanos
+p4686
+aVRosario, Sinaloa, Estados Unidos Mexicanos
+p4687
+aVRosario, Chihuahua, Estados Unidos Mexicanos
+p4688
+aVRosario, Cavite, Calabarzon, 4106, Philippines
+p4689
+aVRosario, Agusan Del Sur, Caraga, Philippines
+p4690
+aVRosario, Mayagüez, Puerto Rico, United States of America
+p4691
+aVEl Rosario, Cantón Gualaquiza, Morona Santiago, Ecuador
+p4692
+aVEl Rosario, El Empalme, Guayas, Ecuador
+p4693
+aVEl Rosario, Cantón Chaguarpamba, Loja, Ecuador
+p4694
+aa(lp4695
+VVR, VEN, Italia
+p4696
+aVVakaga, Ködörösêse tî Bêafrîka - République Centrafricaine
+p4697
+aV\u0412\u0440\u0430\u0446\u0430, \u041e\u0431\u043b\u0430\u0441\u0442 \u0412\u0440\u0430\u0446\u0430, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f
+p4698
+aVVR, Tavaradi, Greater Bombay, Maharashtra, India
+p4699
+aVVR, Dhamni, Greater Bombay, Maharashtra, India
+p4700
+aVVR, Shivansai, Greater Bombay, Maharashtra, India
+p4701
+aVVR, Dodhani village, Greater Bombay, Maharashtra, India
+p4702
+aVVR, Dundre, Greater Bombay, Maharashtra, India
+p4703
+aVVR, Shantivan, Greater Bombay, Maharashtra, India
+p4704
+aVVr, Dodhani village, Greater Bombay, Maharashtra, India
+p4705
+aa(lp4706
+VRoma, RM, LAZ, Italia
+p4707
+aVRM, LAZ, Italia
+p4708
+aVRegión Metropolitana de Santiago, Chile
+p4709
+aV\u04d8\u0440\u04d9\u043c\u04d9, \u0411\u043e\u043b\u044c\u0448\u0435\u0442\u0438\u0433\u0430\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p4710
+aV\u0631\u0645, Aqaba, \u0627\u0644\u0623\u0631\u062f\u0646
+p4711
+aVRobert Moses Causeway, Oak Beach, Suffolk County, New York, United States of America
+p4712
+aVRobert Moses Causeway, West Islip, Suffolk County, New York, 11795, United States of America
+p4713
+aVRobert Moses Causeway, West Islip, Suffolk County, New York, 11706, United States of America
+p4714
+aVRobert Moses Causeway, Fire Island, Suffolk County, New York, United States of America
+p4715
+aVRobert Moses Causeway, Oak Beach, Nassau, New York, United States of America
+p4716
+aa(lp4717
+VCórdoba, Provincia de Córdoba, Andalucía, España
+p4718
+aVCórdoba, Colombia
+p4719
+aVCba., Argentina
+p4720
+aVCórdoba, Departamento Capital, Cba., Argentina
+p4721
+aVCordoba, Ciénaga, Magdalena, Colombia
+p4722
+aVCórdoba, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p4723
+aVCordoba, Chiquinquirá, Boyacá, Colombia
+p4724
+aVCordoba, San Vicente de Chucurí, Santander, Colombia
+p4725
+aVCordoba, Cundinamarca, Colombia
+p4726
+aVCordoba, Hato Corozal, Casanare, Colombia
+p4727
+aa(lp4728
+VL'Aquila, AQ, ABR, Italia
+p4729
+aVAQ, ABR, Italia
+p4730
+aVL'Aquila, Via Tancredi da Pentima, L'Aquila, AQ, ABR, 67100, Italia
+p4731
+aVL'Aquila, Tramonti di Sopra, PN, FVG, Italia
+p4732
+aVL'aquila, Dolceacqua, IM, LIG, Italia
+p4733
+aVL'Aquila, Buggiano, PT, TOS, Italia
+p4734
+aVL'Aquila, AQ, ABR, Italia
+p4735
+aVL'Aquila, AQ, ABR, Italia
+p4736
+aVL'Aquila, AQ, ABR, Italia
+p4737
+aVL'Aquila, Saint-Pierre, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83000;83100;83200, France
+p4738
+aa(lp4739
+VHlavní m\u011bsto Praha, Praha, \u010cesko
+p4740
+aVPR, Região Sul, Brasil
+p4741
+aVUnited States of America
+p4742
+aVPR, EMR, Italia
+p4743
+aVPratt County, Kansas, United States of America
+p4744
+aVEl Progreso, Guatemala
+p4745
+aVPR, Lein Ar Voguer, Dinéault, Châteaulin, Finistère, Bretagne, France métropolitaine, 29150, France
+p4746
+aVPR, Saint-Calais-du-Désert, Mayenne, Pays de la Loire, France métropolitaine, 53140, France
+p4747
+aVPR, Roquestéron, Nice, Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France métropolitaine, 06910, France
+p4748
+aVPR, La Pallu, Mayenne, Pays de la Loire, France métropolitaine, 53140, France
+p4749
+aa(lp4750
+Vpodlaskie, Polska
+p4751
+aVPD, VEN, Italia
+p4752
+aVPD, Brezno, okres Brezno, Banskobystrický kraj, Stredné Slovensko, 97701, Slovensko
+p4753
+aV(PD), Guicán, Boyacá, Colombia
+p4754
+aVPD, Satzingerweg, KG Leopoldau, Floridsdorf, Wien, 1210, Österreich
+p4755
+aVPD, East Hangar Road, Hamilton Beach, Queens County, NYC, New York, 11430, United States of America
+p4756
+aVPD, Earhart Road, Elizabeth, Union County, New Jersey, 07201, United States of America
+p4757
+aVPD, Pohjoinen huoltotie, Ruotsinkylä, Tuusula, Helsingin seutukunta, Uusimaa, Etelä-Suomi, 01590, Suomi
+p4758
+aVPD, via Aereoporto, Località Terminel, Villafranca di Verona, VR, VEN, 37062, Italia
+p4759
+aVPD, Reema Boulevard, Endeavour Hills, City of Casey, Greater Melbourne, Victoria, 3802, Australia
+p4760
+aa(lp4761
+VVenezia, VE, VEN, Italia
+p4762
+aVVE, VEN, Italia
+p4763
+aVVenezia, VE, VEN, Italia
+p4764
+aVVenezia, Yavapai County, Arizona, United States of America
+p4765
+aVVenezia, BS, LOM, Italia
+p4766
+aVVenezia, PR, EMR, Italia
+p4767
+aVCanale Santa Maria, Mestre, VE, VEN, 30170, Italia
+p4768
+aVCanale Taglietto, Mestre, VE, VEN, 30170, Italia
+p4769
+aVCanale Silone (dolce), Mestre, VE, VEN, 30170, Italia
+p4770
+aVCanale Siloncello, Mestre, VE, VEN, 30170, Italia
+p4771
+aa(lp4772
+VTuvalu
+p4773
+aVTV, VEN, Italia
+p4774
+aVT\u1ec9nh Trà Vinh, Vi\u1ec7t Nam
+p4775
+aVVolta Region, Ghana
+p4776
+aVTv., Alagoinhas, Microrregião de Alagoinhas, Mesorregião do Nordeste Baiano, BA, Região Nordeste, Brasil
+p4777
+aVTV, Postojna, Notranjsko-kra\u0161ka, 6225, Slovenija
+p4778
+aVTV, Mendocino County, California, 95420, United States of America
+p4779
+aVTV, Praça Januário Pereira da Costa, Santa Tereza, Porto Alegre, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 90850-080, Brasil
+p4780
+aVTV, Avenida Sebastião Balbino da Silva, Guidoval, Microrregião Ubá, Mesorregião Zona da Mata, MG, Região Sudeste, Brasil
+p4781
+aVTV, CU-V-5014, Enguídanos, Cuenca, Castilla-La Mancha, España
+p4782
+aa(lp4783
+VTreviso, TV, VEN, Italia
+p4784
+aVTV, VEN, Italia
+p4785
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p4786
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p4787
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p4788
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p4789
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p4790
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p4791
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p4792
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p4793
+aa(lp4794
+VTreviso, TV, VEN, Italia
+p4795
+aVTV, VEN, Italia
+p4796
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p4797
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p4798
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p4799
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p4800
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p4801
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p4802
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p4803
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p4804
+aa(lp4805
+VMombasa, Kenya
+p4806
+aVMombasa, Kenya
+p4807
+aVMombasa, Manuel alvarez (San Antonio, Los Hoyos), Cajeme, Sonora, 85019, Estados Unidos Mexicanos
+p4808
+aVMombasa, Calle Árbol de la Seda, La Goleta, Almería, Provincia de Almería, Andalucía, 04007, España
+p4809
+aa(lp4810
+VPadova, PD, VEN, Italia
+p4811
+aVPD, VEN, Italia
+p4812
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p4813
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p4814
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p4815
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p4816
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p4817
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p4818
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p4819
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p4820
+aa(lp4821
+VModena, MO, EMR, Italia
+p4822
+aVMO, EMR, Italia
+p4823
+aVModena, Chester County, Pennsylvania, United States of America
+p4824
+aVModena, Via Giovanni Galvani, Circoscrizione 1: CENTRO STORICO, Modena, MO, EMR, 41121, Italia
+p4825
+aVModena, Town of Plattekill, Ulster County, New York, United States of America
+p4826
+aVModena, Chester County, Pennsylvania, United States of America
+p4827
+aVModena, Buffalo County, Wisconsin, United States of America
+p4828
+aVModena, Iron County, Utah, United States of America
+p4829
+aVModena, Sovicille, SI, TOS, Italia
+p4830
+aVModena, Stark County, Illinois, United States of America
+p4831
+aa(lp4832
+VCatania, CT, SIC, Italia
+p4833
+aVCT, SIC, Italia
+p4834
+aVCatania \u0643\u0627\u062a\u0627\u0646\u064a\u0627, Marassi \u0645\u0631\u0627\u0633\u0649, \u0645\u0637\u0631\u0648\u062d, \u0645\u0635\u0631
+p4835
+aVCatania, Punta Gorda, Montevideo, 11400, Uruguay
+p4836
+aVCatania, Villa Real, CABA, C1440AAF, Argentina
+p4837
+aVCatania, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p4838
+aVCatania, Mission Viejo, Orange County, California, 92692, United States of America
+p4839
+aVCatania, Mission Viejo, Orange County, California, 92694, United States of America
+p4840
+aVCatania, Newport Beach, Orange County, California, 92657, United States of America
+p4841
+aVCatania, Laguna Hills, Orange County, California, 92653, United States of America
+p4842
+aa(lp4843
+VMinnesota, United States of America
+p4844
+aV\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441
+p4845
+aVManipur, India
+p4846
+aVMN, LOM, Italia
+p4847
+aVMarion County, Kansas, United States of America
+p4848
+aVManabí, Ecuador
+p4849
+aV\u041c\u043e\u043d\u0442\u0430\u043d\u0430, \u041e\u0431\u043b\u0430\u0441\u0442 \u041c\u043e\u043d\u0442\u0430\u043d\u0430, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f
+p4850
+aVEast Calhoun, Minneapolis, Hennepin County, Minnesota, MN, United States of America
+p4851
+aVMatabeleland North, Zimbabwe
+p4852
+aVmn, Ogden, Boone County, Iowa, 50212, United States of America
+p4853
+aa(lp4854
+VPC, EMR, Italia
+p4855
+aVPichincha, Ecuador
+p4856
+aVPC, Mall Road, Qilla Gujjar Sing, Police Lines, Lahore, Lahore District, \u067e\u0646\u062c\u0627\u0628, 54000, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
+p4857
+aVPC, Grand Trunk Road, I-14, Islamabad, ICT, 44000, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e
+p4858
+aVPC, Route du Phare, Vieux Moulin, Fermanville, Cherbourg, Manche, Normandie, France métropolitaine, 50840, France
+p4859
+aVPC, 19, Gliwicka, \u015aródmie\u015bcie, Bytom, \u015bl\u0105skie, 41-900, Polska
+p4860
+aVPC, 302, Avenida 4 Poniente, San José Vista Hermosa, Puebla, 72140, Estados Unidos Mexicanos
+p4861
+aVPC, via Aereoporto, Località Terminel, Villafranca di Verona, VR, VEN, 37062, Italia
+p4862
+aVPC, Heidenmoosstrasse, Moos, Herzogenbuchsee, Verwaltungskreis Oberaargau, Verwaltungsregion Emmental-Oberaargau, Bern - Berne, 3360, Schweiz, Suisse, Svizzera, Svizra
+p4863
+aVPC, Southwest 14th Street, Sweetwater, University Park, Miami-Dade County, Florida, 33174, United States of America
+p4864
+aa(lp4865
+VBrescia, BS, LOM, Italia
+p4866
+aVBS, LOM, Italia
+p4867
+aVBrescia, Piazzale Stazione, Circoscrizione Brescia Centro, Brescia, BS, LOM, 25122, Italia
+p4868
+aVBrescia, Urbe, SV, LIG, Italia
+p4869
+aVBrescia, Gottolengo, BS, LOM, Italia
+p4870
+aVBrescia, Copiapó, Provincia de Copiapó, III Región de Atacama, 1530000, Chile
+p4871
+aVBrescia, El Retablo, Comas, Lima, Callao, 07, Perú
+p4872
+aVBrescia, San Borja, Lima, Callao, 33, Perú
+p4873
+aVBrescia, Athena Classique Phase 1, Imus, Cavite, Calabarzon, 4103, Philippines
+p4874
+aVBrescia, Villa Residencial Santa Fe 3ra Sección, Santa Fe, Tijuana, Baja California, 22663, Estados Unidos Mexicanos
+p4875
+aa(lp4876
+VLa Plata, Partido de La Plata, Bs. As., Argentina
+p4877
+aVLa Plata County, Colorado, United States of America
+p4878
+aVPlata, Aibonito, Puerto Rico, United States of America
+p4879
+aVPlata, Lajas, Puerto Rico, United States of America
+p4880
+aVPlata, Moca, Puerto Rico, United States of America
+p4881
+aVLa Plata, Charles County, Maryland, United States of America
+p4882
+aVLa Plata, Huila, Colombia
+p4883
+aVLa Plata, Huila, Colombia
+p4884
+aVPlata, Montgomery County, Arkansas, United States of America
+p4885
+aVPlata - Platten, BZ, TAA, Italia
+p4886
+aa(lp4887
+VKaitaia, Far North District, Northland, New Zealand/Aotearoa
+p4888
+aVKaitaia, Market Lane, Kaitaia, Far North District, Northland, New Zealand/Aotearoa
+p4889
+aa(lp4890
+VPadova, PD, VEN, Italia
+p4891
+aVPD, VEN, Italia
+p4892
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p4893
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p4894
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p4895
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p4896
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p4897
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p4898
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p4899
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p4900
+aa(lp4901
+VGermiston, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p4902
+aVGermiston, Glasgow City, Scotland, United Kingdom
+p4903
+aVGermiston, Railway street, Ekurhuleni Ward 93, Germiston, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p4904
+aa(lp4905
+VLa Plata, Partido de La Plata, Bs. As., Argentina
+p4906
+aVLa Plata County, Colorado, United States of America
+p4907
+aVPlata, Aibonito, Puerto Rico, United States of America
+p4908
+aVPlata, Lajas, Puerto Rico, United States of America
+p4909
+aVPlata, Moca, Puerto Rico, United States of America
+p4910
+aVLa Plata, Charles County, Maryland, United States of America
+p4911
+aVLa Plata, Huila, Colombia
+p4912
+aVLa Plata, Huila, Colombia
+p4913
+aVPlata, Montgomery County, Arkansas, United States of America
+p4914
+aVPlata - Platten, BZ, TAA, Italia
+p4915
+aa(lp4916
+VCABA, Comuna 6, CABA, Argentina
+p4917
+aVBs. As., Argentina
+p4918
+aVBuenos Aires, Lares, Puerto Rico, United States of America
+p4919
+aVBuenos Aires, Palmares, Alajuela, Costa Rica
+p4920
+aVBuenos Aires, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p4921
+aVBuenos Aires, Salamanca, Castilla y León, España
+p4922
+aVBuenos Aires, Tegucigalpa, Francisco Morazán, Honduras
+p4923
+aVBuenos Aires, Esquel, Departamento Futaleufú, CHB, Argentina
+p4924
+aVBuenos Aires, Lázaro Cárdenas, Michoacán de Ocampo, Estados Unidos Mexicanos
+p4925
+aVBuenos Aires, Puntarenas, 60301, Costa Rica
+p4926
+aa(lp4927
+VLa Plata, Partido de La Plata, Bs. As., Argentina
+p4928
+aVLa Plata County, Colorado, United States of America
+p4929
+aVPlata, Aibonito, Puerto Rico, United States of America
+p4930
+aVPlata, Lajas, Puerto Rico, United States of America
+p4931
+aVPlata, Moca, Puerto Rico, United States of America
+p4932
+aVLa Plata, Charles County, Maryland, United States of America
+p4933
+aVLa Plata, Huila, Colombia
+p4934
+aVLa Plata, Huila, Colombia
+p4935
+aVPlata, Montgomery County, Arkansas, United States of America
+p4936
+aVPlata - Platten, BZ, TAA, Italia
+p4937
+aa(lp4938
+VVenezia, VE, VEN, Italia
+p4939
+aVVE, VEN, Italia
+p4940
+aVVenezia, VE, VEN, Italia
+p4941
+aVVenezia, Yavapai County, Arizona, United States of America
+p4942
+aVVenezia, BS, LOM, Italia
+p4943
+aVVenezia, PR, EMR, Italia
+p4944
+aVCanale Santa Maria, Mestre, VE, VEN, 30170, Italia
+p4945
+aVCanale Taglietto, Mestre, VE, VEN, 30170, Italia
+p4946
+aVCanale Silone (dolce), Mestre, VE, VEN, 30170, Italia
+p4947
+aVCanale Siloncello, Mestre, VE, VEN, 30170, Italia
+p4948
+aa(lp4949
+VPE, Região Nordeste, Brasil
+p4950
+aVPR, Região Sul, Brasil
+p4951
+aV\u041f\u0430\u043b\u0430\u043d\u0430, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041f\u0430\u043b\u0430\u043d\u0430, \u041a\u043e\u0440\u044f\u043a\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0414\u0424\u041e, 688000, \u0420\u043e\u0441\u0441\u0438\u044f
+p4952
+aVParanã, Microrregião de Dianópolis, Mesorregião Oriental do Tocantins, TO, Região Norte, Brasil
+p4953
+aVParana, MS, TOS, Italia
+p4954
+aVParana, Principado de Asturias, España
+p4955
+aVParana, La Unión, Arequipa, Perú
+p4956
+aVParana, Condesuyos, Arequipa, Perú
+p4957
+aVParaná, Municipio de Paraná, Distrito Sauce, Departamento Paraná, ER., Argentina
+p4958
+aVParaná Pavón, ER., Argentina
+p4959
+aa(lp4960
+VTuvalu
+p4961
+aVTV, VEN, Italia
+p4962
+aVT\u1ec9nh Trà Vinh, Vi\u1ec7t Nam
+p4963
+aVVolta Region, Ghana
+p4964
+aVTv., Alagoinhas, Microrregião de Alagoinhas, Mesorregião do Nordeste Baiano, BA, Região Nordeste, Brasil
+p4965
+aVTV, Postojna, Notranjsko-kra\u0161ka, 6225, Slovenija
+p4966
+aVTV, Mendocino County, California, 95420, United States of America
+p4967
+aVTV, Praça Januário Pereira da Costa, Santa Tereza, Porto Alegre, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 90850-080, Brasil
+p4968
+aVTV, Avenida Sebastião Balbino da Silva, Guidoval, Microrregião Ubá, Mesorregião Zona da Mata, MG, Região Sudeste, Brasil
+p4969
+aVTV, CU-V-5014, Enguídanos, Cuenca, Castilla-La Mancha, España
+p4970
+aa(lp4971
+VPalmerston North, Palmerston North City, Manawatu-Wanganui, New Zealand/Aotearoa
+p4972
+aVPalmerston North, Matthews Ave, Cloverlea, Palmerston North, Palmerston North City, Manawatu-Wanganui, 4440, New Zealand/Aotearoa
+p4973
+aa(lp4974
+VReggio nell'Emilia, RE, EMR, Italia
+p4975
+aVReggio Emilia, Accesso binari 3/4, Porta San Pietro, Ospizio, Reggio nell'Emilia, RE, EMR, 42121, Italia
+p4976
+aVRE, EMR, Italia
+p4977
+aVReggio Emilia, Autostrada del Sole, La Nave, San Prospero Strinati, Reggio nell'Emilia, RE, EMR, 42124, Italia
+p4978
+aa(lp4979
+VL'Aquila, AQ, ABR, Italia
+p4980
+aVAQ, ABR, Italia
+p4981
+aVL'Aquila, Via Tancredi da Pentima, L'Aquila, AQ, ABR, 67100, Italia
+p4982
+aVL'Aquila, Tramonti di Sopra, PN, FVG, Italia
+p4983
+aVL'aquila, Dolceacqua, IM, LIG, Italia
+p4984
+aVL'Aquila, Buggiano, PT, TOS, Italia
+p4985
+aVL'Aquila, AQ, ABR, Italia
+p4986
+aVL'Aquila, AQ, ABR, Italia
+p4987
+aVL'Aquila, AQ, ABR, Italia
+p4988
+aVL'Aquila, Saint-Pierre, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83000;83100;83200, France
+p4989
+aa(lp4990
+VCórdoba, Provincia de Córdoba, Andalucía, España
+p4991
+aVCórdoba, Colombia
+p4992
+aVCba., Argentina
+p4993
+aVCórdoba, Departamento Capital, Cba., Argentina
+p4994
+aVCordoba, Ciénaga, Magdalena, Colombia
+p4995
+aVCórdoba, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p4996
+aVCordoba, Chiquinquirá, Boyacá, Colombia
+p4997
+aVCordoba, San Vicente de Chucurí, Santander, Colombia
+p4998
+aVCordoba, Cundinamarca, Colombia
+p4999
+aVCordoba, Hato Corozal, Casanare, Colombia
+p5000
+aa(lp5001
+VLivorno, LI, TOS, Italia
+p5002
+aVLI, TOS, Italia
+p5003
+aVLivorno, Belvederre, Montevideo, 12900, Uruguay
+p5004
+aVLivorno, Temuco, Provincia de Cautín, IX Región de la Araucanía, 4811161, Chile
+p5005
+aVLivorno, Villa Galilea, Curicó, Provincia de Curicó, VII Región del Maule, 3340814, Chile
+p5006
+aVLivorno, Portada de Huechuraba, Huechuraba, Provincia de Santiago, Región Metropolitana de Santiago, Chile
+p5007
+aVLivorno, Atlantida, Santa Clara del Mar, Partido de Mar Chiquita, Bs. As., 7609, Argentina
+p5008
+aVLivorno, Jorge Mendez, Hermosillo, Sonora, 83288, Estados Unidos Mexicanos
+p5009
+aVLivorno, Xallitic, Las Trancas, Veracruz de Ignacio de la Llave, 91637, Estados Unidos Mexicanos
+p5010
+aVLivorno, Xallitic, Las Trancas, Veracruz de Ignacio de la Llave, 91637, Estados Unidos Mexicanos
+p5011
+aa(lp5012
+VThe North Shore, Ontario, Canada
+p5013
+aVNorth Shore, Jefferson County, Wisconsin, United States of America
+p5014
+aVNorth Shore, San Bernardino County, California, United States of America
+p5015
+aVNorth Shore, Harris County, Texas, United States of America
+p5016
+aVNorth Shore, McHenry County, Illinois, United States of America
+p5017
+aVNorth Shore, Duval County, Florida, United States of America
+p5018
+aVNorth Shore, Todd County, Minnesota, United States of America
+p5019
+aVNorth Shore, Frederick County, Maryland, United States of America
+p5020
+aVNorth Shore, Anne Arundel County, Maryland, United States of America
+p5021
+aVNorth Shore, St. Tammany, Louisiana, United States of America
+p5022
+aa(lp5023
+VDunedin, Dunedin City, Otago, New Zealand/Aotearoa
+p5024
+aVDunedin, Pinellas County, Florida, United States of America
+p5025
+aVDunedin, North Ayrshire, Scotland, United Kingdom
+p5026
+aVDunedin, Chesapeake City, Virginia, United States of America
+p5027
+aVDunedin, Petersburg (city), Virginia, United States of America
+p5028
+aVDunedin, Ontario, Canada
+p5029
+aVDunedin, Pinellas County, Florida, United States of America
+p5030
+aVDunedin, New South Wales, Australia
+p5031
+aVDunedin, Clyde River, Queens County, Prince Edward Island, Canada
+p5032
+aVDunedin, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 2HJ, United Kingdom
+p5033
+aa(lp5034
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p5035
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5036
+aVDurban, Manitoba, Canada
+p5037
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p5038
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p5039
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p5040
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5041
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p5042
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p5043
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p5044
+aa(lp5045
+VVenezia, VE, VEN, Italia
+p5046
+aVVE, VEN, Italia
+p5047
+aVVenezia, VE, VEN, Italia
+p5048
+aVVenezia, Yavapai County, Arizona, United States of America
+p5049
+aVVenezia, BS, LOM, Italia
+p5050
+aVVenezia, PR, EMR, Italia
+p5051
+aVCanale Santa Maria, Mestre, VE, VEN, 30170, Italia
+p5052
+aVCanale Taglietto, Mestre, VE, VEN, 30170, Italia
+p5053
+aVCanale Silone (dolce), Mestre, VE, VEN, 30170, Italia
+p5054
+aVCanale Siloncello, Mestre, VE, VEN, 30170, Italia
+p5055
+aa(lp5056
+VBrescia, BS, LOM, Italia
+p5057
+aVBS, LOM, Italia
+p5058
+aVBrescia, Piazzale Stazione, Circoscrizione Brescia Centro, Brescia, BS, LOM, 25122, Italia
+p5059
+aVBrescia, Urbe, SV, LIG, Italia
+p5060
+aVBrescia, Gottolengo, BS, LOM, Italia
+p5061
+aVBrescia, Copiapó, Provincia de Copiapó, III Región de Atacama, 1530000, Chile
+p5062
+aVBrescia, El Retablo, Comas, Lima, Callao, 07, Perú
+p5063
+aVBrescia, San Borja, Lima, Callao, 33, Perú
+p5064
+aVBrescia, Athena Classique Phase 1, Imus, Cavite, Calabarzon, 4103, Philippines
+p5065
+aVBrescia, Villa Residencial Santa Fe 3ra Sección, Santa Fe, Tijuana, Baja California, 22663, Estados Unidos Mexicanos
+p5066
+aa(lp5067
+VRoma, RM, LAZ, Italia
+p5068
+aVRM, LAZ, Italia
+p5069
+aVAnguillara Sabazia, Roma, RM, LAZ, 00100, Italia
+p5070
+aVRoma, Saltillo, Coahuila de Zaragoza, Estados Unidos Mexicanos
+p5071
+aVRoma, QLD, Australia
+p5072
+aVRoma, Starr County, Texas, United States of America
+p5073
+aVRoma, Starr County, Texas, United States of America
+p5074
+aVRoma, Gotland, Gotlands län, Götaland, Territorial waters of Gotland
+p5075
+aVRoma, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p5076
+aVRoma, Copo, SDE, Argentina
+p5077
+aaNa(lp5078
+VCatania, CT, SIC, Italia
+p5079
+aVCT, SIC, Italia
+p5080
+aVCatania \u0643\u0627\u062a\u0627\u0646\u064a\u0627, Marassi \u0645\u0631\u0627\u0633\u0649, \u0645\u0637\u0631\u0648\u062d, \u0645\u0635\u0631
+p5081
+aVCatania, Punta Gorda, Montevideo, 11400, Uruguay
+p5082
+aVCatania, Villa Real, CABA, C1440AAF, Argentina
+p5083
+aVCatania, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p5084
+aVCatania, Mission Viejo, Orange County, California, 92692, United States of America
+p5085
+aVCatania, Mission Viejo, Orange County, California, 92694, United States of America
+p5086
+aVCatania, Newport Beach, Orange County, California, 92657, United States of America
+p5087
+aVCatania, Laguna Hills, Orange County, California, 92653, United States of America
+p5088
+aa(lp5089
+VAuckland, 1010, New Zealand/Aotearoa
+p5090
+aVAuckland, New Zealand/Aotearoa
+p5091
+aVAuckland, Tulare County, California, United States of America
+p5092
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p5093
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5094
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p5095
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p5096
+aa(lp5097
+VL'Aquila, AQ, ABR, Italia
+p5098
+aVAQ, ABR, Italia
+p5099
+aVL'Aquila, Via Tancredi da Pentima, L'Aquila, AQ, ABR, 67100, Italia
+p5100
+aVL'Aquila, Tramonti di Sopra, PN, FVG, Italia
+p5101
+aVL'aquila, Dolceacqua, IM, LIG, Italia
+p5102
+aVL'Aquila, Buggiano, PT, TOS, Italia
+p5103
+aVL'Aquila, AQ, ABR, Italia
+p5104
+aVL'Aquila, AQ, ABR, Italia
+p5105
+aVL'Aquila, AQ, ABR, Italia
+p5106
+aVL'Aquila, Saint-Pierre, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83000;83100;83200, France
+p5107
+aa(lp5108
+VMilano, MI, LOM, Italia
+p5109
+aVEl Milano, Salamanca, Castilla y León, España
+p5110
+aVMI, LOM, Italia
+p5111
+aVMilano, BG, LOM, Italia
+p5112
+aVMilano, PG, UMB, Italia
+p5113
+aVMilano, Leoncio Prado, Huánuco, Perú
+p5114
+aVMilano, Siquirres, Limón, Costa Rica
+p5115
+aVMilano, Salvadiós, Ávila, Castilla y León, España
+p5116
+aVMilano, Casas de los Pinos, Cuenca, Castilla-La Mancha, España
+p5117
+aVMilano, San Leonardo de Yagüe, Soria, Castilla y León, España
+p5118
+aa(lp5119
+VMinnesota, United States of America
+p5120
+aV\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441
+p5121
+aVManipur, India
+p5122
+aVMN, LOM, Italia
+p5123
+aVMarion County, Kansas, United States of America
+p5124
+aVManabí, Ecuador
+p5125
+aV\u041c\u043e\u043d\u0442\u0430\u043d\u0430, \u041e\u0431\u043b\u0430\u0441\u0442 \u041c\u043e\u043d\u0442\u0430\u043d\u0430, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f
+p5126
+aVEast Calhoun, Minneapolis, Hennepin County, Minnesota, MN, United States of America
+p5127
+aVMatabeleland North, Zimbabwe
+p5128
+aVmn, Ogden, Boone County, Iowa, 50212, United States of America
+p5129
+aa(lp5130
+VRoma, RM, LAZ, Italia
+p5131
+aVRM, LAZ, Italia
+p5132
+aVAnguillara Sabazia, Roma, RM, LAZ, 00100, Italia
+p5133
+aVRoma, Saltillo, Coahuila de Zaragoza, Estados Unidos Mexicanos
+p5134
+aVRoma, QLD, Australia
+p5135
+aVRoma, Starr County, Texas, United States of America
+p5136
+aVRoma, Starr County, Texas, United States of America
+p5137
+aVRoma, Gotland, Gotlands län, Götaland, Territorial waters of Gotland
+p5138
+aVRoma, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p5139
+aVRoma, Copo, SDE, Argentina
+p5140
+aa(lp5141
+VCórdoba, Provincia de Córdoba, Andalucía, España
+p5142
+aVCórdoba, Colombia
+p5143
+aVCba., Argentina
+p5144
+aVCórdoba, Departamento Capital, Cba., Argentina
+p5145
+aVCordoba, Ciénaga, Magdalena, Colombia
+p5146
+aVCórdoba, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p5147
+aVCordoba, Chiquinquirá, Boyacá, Colombia
+p5148
+aVCordoba, San Vicente de Chucurí, Santander, Colombia
+p5149
+aVCordoba, Cundinamarca, Colombia
+p5150
+aVCordoba, Hato Corozal, Casanare, Colombia
+p5151
+aa(lp5152
+VTreviso, TV, VEN, Italia
+p5153
+aVTV, VEN, Italia
+p5154
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p5155
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p5156
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p5157
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p5158
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p5159
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p5160
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p5161
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p5162
+aa(lp5163
+VRoma, RM, LAZ, Italia
+p5164
+aVRM, LAZ, Italia
+p5165
+aVAnguillara Sabazia, Roma, RM, LAZ, 00100, Italia
+p5166
+aVRoma, Saltillo, Coahuila de Zaragoza, Estados Unidos Mexicanos
+p5167
+aVRoma, QLD, Australia
+p5168
+aVRoma, Starr County, Texas, United States of America
+p5169
+aVRoma, Starr County, Texas, United States of America
+p5170
+aVRoma, Gotland, Gotlands län, Götaland, Territorial waters of Gotland
+p5171
+aVRoma, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p5172
+aVRoma, Copo, SDE, Argentina
+p5173
+aa(lp5174
+VRoma, RM, LAZ, Italia
+p5175
+aVRM, LAZ, Italia
+p5176
+aVAnguillara Sabazia, Roma, RM, LAZ, 00100, Italia
+p5177
+aVRoma, Saltillo, Coahuila de Zaragoza, Estados Unidos Mexicanos
+p5178
+aVRoma, QLD, Australia
+p5179
+aVRoma, Starr County, Texas, United States of America
+p5180
+aVRoma, Starr County, Texas, United States of America
+p5181
+aVRoma, Gotland, Gotlands län, Götaland, Territorial waters of Gotland
+p5182
+aVRoma, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p5183
+aVRoma, Copo, SDE, Argentina
+p5184
+aa(lp5185
+VVarese, VA, LOM, Italia
+p5186
+aVVA, LOM, Italia
+p5187
+aVVarese küla, Varese, Võru maakond, Eesti
+p5188
+aVVarese, Rõsna küla, Mikitamäe vald, Põlva maakond, Eesti
+p5189
+aVVarese küla, Sõmerpalu vald, Võru maakond, Eesti
+p5190
+aVVarese, Kristiine linnaosa, Tallinn, Harju maakond, 10616, Eesti
+p5191
+aVVarese, El Gachupin, Hermosillo, Sonora, 83288, Estados Unidos Mexicanos
+p5192
+aVVarese, Jaanikese, Luke küla, Nõo vald, Tartu maakond, 61601, Eesti
+p5193
+aVVarese, San Borja, Lima, Callao, 33, Perú
+p5194
+aVVarese, Olgina linnaosa, Narva linn, Ida-Viru maakond, Eesti
+p5195
+aa(lp5196
+VHamilton, Ontario, Canada
+p5197
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p5198
+aVHamilton County, Illinois, United States of America
+p5199
+aVHamilton County, Kansas, United States of America
+p5200
+aVHamilton, Tennessee, United States of America
+p5201
+aVHamilton, Bermuda
+p5202
+aVHamilton County, Ohio, United States of America
+p5203
+aVHamilton, Butler County, Ohio, United States of America
+p5204
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p5205
+aVHamilton, City of Hamilton, Bermuda
+p5206
+aa(lp5207
+VPolska
+p5208
+aVPlats, Tournon-sur-Rhône, Ardèche, Auvergne-Rhône-Alpes, France métropolitaine, 07300, France
+p5209
+aVPlacé, Mayenne, Pays de la Loire, France métropolitaine, 53240, France
+p5210
+aVPlze\u0148ský kraj, Jihozápad, \u010cesko
+p5211
+aVLaplace, St. John the Baptist Parish, Louisiana, United States of America
+p5212
+aVZeanuri, Arratia-Nerbioi, Bizkaia, Euskadi, 48148, España
+p5213
+aVPhillips County, Kansas, United States of America
+p5214
+aVThe Place, 17, Dukes Road, Holborn, Bloomsbury, London Borough of Camden, London, Greater London, England, WC1H 9PY, United Kingdom
+p5215
+aVLa Place, Châteauvieux, Romorantin-Lanthenay, Loir-et-Cher, Centre-Val de Loire, France métropolitaine, 41110, France
+p5216
+aVPlaß, Lübbenau/Spreewald, Landkreis Oberspreewald-Lausitz, Brandenburg, Deutschland
+p5217
+aa(lp5218
+VCórdoba, Provincia de Córdoba, Andalucía, España
+p5219
+aVCórdoba, Colombia
+p5220
+aVCba., Argentina
+p5221
+aVCórdoba, Departamento Capital, Cba., Argentina
+p5222
+aVCordoba, Ciénaga, Magdalena, Colombia
+p5223
+aVCórdoba, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p5224
+aVCordoba, Chiquinquirá, Boyacá, Colombia
+p5225
+aVCordoba, San Vicente de Chucurí, Santander, Colombia
+p5226
+aVCordoba, Cundinamarca, Colombia
+p5227
+aVCordoba, Hato Corozal, Casanare, Colombia
+p5228
+aa(lp5229
+VVenezuela
+p5230
+aVVE, VEN, Italia
+p5231
+aVVe, Karlstad, Värmlands län, Svealand, Sverige
+p5232
+aVVe, Menchum, NW, Cameroun
+p5233
+aVVe, Volta Region, Ghana
+p5234
+aVVE, Route des Fondeurs, Chabeuil, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26120, France
+p5235
+aVVE, Hoofdweg Westzijde, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132MH, Nederland
+p5236
+aVVE, Route de Montmeyran, Grange Neuve, Beaumont-lès-Valence, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26760, France
+p5237
+aVLe Ve, Place de la Gare, Vevey, District de la Riviera-Pays-d\u2019Enhaut, Vaud, 1800, Schweiz, Suisse, Svizzera, Svizra
+p5238
+aVVeh, 23, Hauptstraße, Binnerfeld, Rusch, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59755, Deutschland
+p5239
+aa(lp5240
+VSan Nicolás, Oaxaca, Estados Unidos Mexicanos
+p5241
+aVSan Nicolás, Tamaulipas, Estados Unidos Mexicanos
+p5242
+aVSan Nicolás, Mayabeque, Cuba
+p5243
+aVSan Nicolas, Batangas, Calabarzon, Philippines
+p5244
+aVSan Nicolas, Pangasinan, Ilocos Region, Philippines
+p5245
+aVSan Nicolas, Busuanga, Palawan, Mimaropa, 5317, Philippines
+p5246
+aVSan Nicolas, Municipality of Oton, Iloilo, Western Visayas, Philippines
+p5247
+aVSan Nicolas, Tapaz, Capiz, Western Visayas, Philippines
+p5248
+aVSan Nicolas, Laguna, Calabarzon, 4000, Philippines
+p5249
+aVSan Nicolas, Davao Del Norte, Davao, Philippines
+p5250
+aa(lp5251
+VUdine, UD, FVG, Italia
+p5252
+aVUD, FVG, Italia
+p5253
+aVUdine, Viale Europa Unita, Borgo Aquileia, Udine, UD, FVG, 33100, Italia
+p5254
+aVUdine, Piazzale Udine, Quartiere Feltre, Zona 3, Milano, MI, LOM, 20132, Italia
+p5255
+aVUdine, Piazzale Udine, Quartiere Feltre, Zona 3, Milano, MI, LOM, 20132, Italia
+p5256
+aVUdine, Temuco, Provincia de Cautín, IX Región de la Araucanía, 4811161, Chile
+p5257
+aVUdine, Fortunato de la Plaza, Mar del Plata, Partido de General Pueyrredón, Bs. As., A7600, Argentina
+p5258
+aVUdine, El Martillo, Mar del Plata, Partido de General Pueyrredón, Bs. As., A7600, Argentina
+p5259
+aVUdine, Fortunato de la Plaza, Mar del Plata, Partido de General Pueyrredón, Bs. As., 7600, Argentina
+p5260
+aVUdine, Los Negritos, Aguascalientes, 20287, Estados Unidos Mexicanos
+p5261
+aa(lp5262
+VAuch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32000, France
+p5263
+aVAuch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5264
+aVAuch, Arènes Romaines - Saint Martin du Touch, Toulouse Ouest, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France
+p5265
+aVAuch, Albasud, Montauban, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82000, France
+p5266
+aVAuch, Le Fil d'Ariane, Arènes Romaines - Saint Martin du Touch, Toulouse Ouest, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France
+p5267
+aVAuch, Avenue Pierre Mendes-France, A Ensalette, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32000, France
+p5268
+aVAuch, Rue Sambre et Meuse, A Ensalette, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32000, France
+p5269
+aVAuch, L'Occitane, Albasud, Montauban, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82000, France
+p5270
+aVAUCH, 10, Weinmarkt, Sebald, Nürnberg, Mittelfranken, Bayern, 90403, Deutschland
+p5271
+aa(lp5272
+VCape Town, City of Cape Town, Western Cape, South Africa
+p5273
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p5274
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5275
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p5276
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p5277
+aa(lp5278
+VOntario, Canada
+p5279
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+p5280
+aVOshana Region, Namibia
+p5281
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p5282
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+p5283
+aVQeqertaq, Kalaallit Nunaat
+p5284
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+p5285
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+p5286
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+p5287
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+p5288
+aa(lp5289
+VPadova, PD, VEN, Italia
+p5290
+aVPD, VEN, Italia
+p5291
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p5292
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p5293
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p5294
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p5295
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p5296
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p5297
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p5298
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p5299
+aa(lp5300
+VPadova, PD, VEN, Italia
+p5301
+aVPD, VEN, Italia
+p5302
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p5303
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p5304
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p5305
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p5306
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p5307
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p5308
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p5309
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p5310
+aa(lp5311
+VRoma, RM, LAZ, Italia
+p5312
+aVRM, LAZ, Italia
+p5313
+aVAnguillara Sabazia, Roma, RM, LAZ, 00100, Italia
+p5314
+aVRoma, Saltillo, Coahuila de Zaragoza, Estados Unidos Mexicanos
+p5315
+aVRoma, QLD, Australia
+p5316
+aVRoma, Starr County, Texas, United States of America
+p5317
+aVRoma, Starr County, Texas, United States of America
+p5318
+aVRoma, Gotland, Gotlands län, Götaland, Territorial waters of Gotland
+p5319
+aVRoma, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p5320
+aVRoma, Copo, SDE, Argentina
+p5321
+aa(lp5322
+VEboli, SA, CAM, Italia
+p5323
+aVEboli, Via Enrico Perito, Eboli, SA, CAM, 84025, Italia
+p5324
+aVEboli, 19, Rue Bailly, Neuilly-sur-Seine, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92200, France
+p5325
+aVEboli, Autostrada A3 Napoli-Reggio Calabria, Eboli, SA, CAM, 84025, Italia
+p5326
+aVEboli, 19, Calle de Las Eras, La Fuente, Centro - El Arroyo - La Fuente, Fuenlabrada, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28944, España
+p5327
+aVEboli, 10, Kirchplatz, Mahnkenwerder, Boizenburg/Elbe, Landkreis Ludwigslust-Parchim, Mecklenburg-Vorpommern, 19258, Deutschland
+p5328
+aVEboli, 14, Schloßstraße, Grünwald, Landkreis München, OB, Bayern, 82031, Deutschland
+p5329
+aVÉboli, Villa Residencial Santa Fe 3ra Sección, Santa Fe, Tijuana, Baja California, 22663, Estados Unidos Mexicanos
+p5330
+aVÉboli, Calle de Princesa de Éboli, Sanchinarro, Hortaleza, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, España
+p5331
+aa(lp5332
+VBirmingham, West Midlands, England, United Kingdom
+p5333
+aVBirmingham, Jefferson County, Alabama, United States of America
+p5334
+aVBirmingham, Oakland County, Michigan, United States of America
+p5335
+aVBirmingham, Jefferson County, Alabama, United States of America
+p5336
+aVBirmingham, Chester County, Pennsylvania, United States of America
+p5337
+aVBirmingham, Burlington County, New Jersey, United States of America
+p5338
+aVBirmingham, Huntingdon County, Pennsylvania, United States of America
+p5339
+aVBirmingham, Schuyler County, Illinois, United States of America
+p5340
+aVBirmingham, Tazewell, Virginia, United States of America
+p5341
+aVBirmingham, Tippecanoe County, Indiana, United States of America
+p5342
+aa(lp5343
+VManchester, Greater Manchester, North West England, England, United Kingdom
+p5344
+aVManchester, Hillsborough County, New Hampshire, United States of America
+p5345
+aVManchester, Middlesex County, Jamaica
+p5346
+aVManchester, Hartford County, Connecticut, 06042, United States of America
+p5347
+aVCentral Manchester, Hartford County, Connecticut, United States of America
+p5348
+aVManchester, Clay County, Kentucky, United States of America
+p5349
+aVManchester, Bennington County, Vermont, United States of America
+p5350
+aVManchester, Mendocino County, California, United States of America
+p5351
+aVManchester, St. Louis County, Missouri, United States of America
+p5352
+aVManchester, York County, Pennsylvania, United States of America
+p5353
+aa(lp5354
+VQLD, Australia
+p5355
+aV\u0642\u0644\u062f, \u2018Amr\u0101n, \u0627\u0644\u064a\u0645\u0646
+p5356
+aVNew Farm State School, Heal Street, New Farm, Brisbane, QLD, 4005, Australia
+p5357
+aVBase aérienne de Blida, RN 69, Cité 13 Mai, Blida \u0627\u0644\u0628\u0644\u06cc\u062f\u0647, Blida, Daïra Blida, Blida - \u0627\u0644\u0628\u0644\u064a\u062f\u0629, 09000, Algérie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p5358
+aa(lp5359
+Vpodlaskie, Polska
+p5360
+aVPD, VEN, Italia
+p5361
+aVPD, Brezno, okres Brezno, Banskobystrický kraj, Stredné Slovensko, 97701, Slovensko
+p5362
+aV(PD), Guicán, Boyacá, Colombia
+p5363
+aVPD, Satzingerweg, KG Leopoldau, Floridsdorf, Wien, 1210, Österreich
+p5364
+aVPD, East Hangar Road, Hamilton Beach, Queens County, NYC, New York, 11430, United States of America
+p5365
+aVPD, Earhart Road, Elizabeth, Union County, New Jersey, 07201, United States of America
+p5366
+aVPD, Pohjoinen huoltotie, Ruotsinkylä, Tuusula, Helsingin seutukunta, Uusimaa, Etelä-Suomi, 01590, Suomi
+p5367
+aVPD, via Aereoporto, Località Terminel, Villafranca di Verona, VR, VEN, 37062, Italia
+p5368
+aVPD, Reema Boulevard, Endeavour Hills, City of Casey, Greater Melbourne, Victoria, 3802, Australia
+p5369
+aa(lp5370
+VVarese, VA, LOM, Italia
+p5371
+aVVA, LOM, Italia
+p5372
+aVVarese küla, Varese, Võru maakond, Eesti
+p5373
+aVVarese, Rõsna küla, Mikitamäe vald, Põlva maakond, Eesti
+p5374
+aVVarese küla, Sõmerpalu vald, Võru maakond, Eesti
+p5375
+aVVarese, Kristiine linnaosa, Tallinn, Harju maakond, 10616, Eesti
+p5376
+aVVarese, El Gachupin, Hermosillo, Sonora, 83288, Estados Unidos Mexicanos
+p5377
+aVVarese, Jaanikese, Luke küla, Nõo vald, Tartu maakond, 61601, Eesti
+p5378
+aVVarese, San Borja, Lima, Callao, 33, Perú
+p5379
+aVVarese, Olgina linnaosa, Narva linn, Ida-Viru maakond, Eesti
+p5380
+aa(lp5381
+VSuva, Central, Viti
+p5382
+aV\u8acf\u8a2a\u5e02, \u8acf\u8a2a\u90e1 (Suwa), \u9577\u91ce\u770c, \u65e5\u672c
+p5383
+aVSuva, \u010cernina, okres Humenné, Pre\u0161ovský kraj, Východné Slovensko, Slovensko
+p5384
+aVSueva, Cundinamarca, Colombia
+p5385
+aVSUEVA, Junín, Cundinamarca, Colombia
+p5386
+aVSuva, Suva Passage, Tribschen, Luzern, 6002, Schweiz, Suisse, Svizzera, Svizra
+p5387
+aVSuva, 24A, Frederick Street, Canonmills, New Town, City of Edinburgh, Scotland, EH2 2NE, United Kingdom
+p5388
+aVSUVA, 11, Laupenstrasse, Monbijou, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3008, Schweiz, Suisse, Svizzera, Svizra
+p5389
+aVSUVA, Suva Passage, Tribschen, Luzern, 6002, Schweiz, Suisse, Svizzera, Svizra
+p5390
+aVSUVA, 90, Avenue du Grand-Champsec, Grand Champsec, Sion, Valais - Wallis, 1951, Schweiz, Suisse, Svizzera, Svizra
+p5391
+aa(lp5392
+VBergamo, BG, LOM, Italia
+p5393
+aVBG, LOM, Italia
+p5394
+aVBergamo, Sottopasso pedonale, Malpensata, Bergamo, BG, LOM, 24126, Italia
+p5395
+aVBergamo, Jardines del Hipódromo, Montevideo, 12200, Uruguay
+p5396
+aVBergamo, El Renuevo, Punta Rieles, Montevideo, 12200, Uruguay
+p5397
+aVBergamo, Westpark, Irvine, Orange County, California, 92614, United States of America
+p5398
+aVBergamo, Laguna Niguel, Orange County, California, 92677, United States of America
+p5399
+aVBergamo, Villa Galilea, Curicó, Provincia de Curicó, VII Región del Maule, 3340814, Chile
+p5400
+aVBergamo, Cerro Navia, Provincia de Santiago, Región Metropolitana de Santiago, 9020078, Chile
+p5401
+aVBergamo, Quinta de Nores, Ampliación Cabo Farina, Departamento Capital, Cba., X5017LAV, Argentina
+p5402
+aa(lp5403
+VRovigo, RO, VEN, Italia
+p5404
+aVRO, VEN, Italia
+p5405
+aVRovigo, Piazza Riconoscenza, Commenda, Rovigo, RO, VEN, 45100, Italia
+p5406
+aVRovigo, Principado de Asturias, España
+p5407
+aVRovigo, Autostrada Bologna-Padova, San Pio X, Rovigo, RO, VEN, Italia
+p5408
+aa(lp5409
+VTuvalu
+p5410
+aVTV, VEN, Italia
+p5411
+aVT\u1ec9nh Trà Vinh, Vi\u1ec7t Nam
+p5412
+aVVolta Region, Ghana
+p5413
+aVTv., Alagoinhas, Microrregião de Alagoinhas, Mesorregião do Nordeste Baiano, BA, Região Nordeste, Brasil
+p5414
+aVTV, Postojna, Notranjsko-kra\u0161ka, 6225, Slovenija
+p5415
+aVTV, Mendocino County, California, 95420, United States of America
+p5416
+aVTV, Praça Januário Pereira da Costa, Santa Tereza, Porto Alegre, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 90850-080, Brasil
+p5417
+aVTV, Avenida Sebastião Balbino da Silva, Guidoval, Microrregião Ubá, Mesorregião Zona da Mata, MG, Região Sudeste, Brasil
+p5418
+aVTV, CU-V-5014, Enguídanos, Cuenca, Castilla-La Mancha, España
+p5419
+aa(lp5420
+VTreviso, TV, VEN, Italia
+p5421
+aVTV, VEN, Italia
+p5422
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p5423
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p5424
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p5425
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p5426
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p5427
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p5428
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p5429
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p5430
+aa(lp5431
+VPlaça dels Drets Humans, la Copa d'Or, la Bordeta, Lleida, Segrià, Lleida, CAT, 25001, España
+p5432
+aVPlaça dels Drets Humans, Mataró, Maresme, BCN, CAT, 08301, España
+p5433
+aVCarrer dels Drets Humans, Polígon industrial Mas Alba, Vinyet, Sitges, Garraf, BCN, CAT, 08870, España
+p5434
+aVPlaça dels Drets Humans, els Serrat de les Torres, Sant Joan de Vilatorrada, Bages, BCN, CAT, 08250, España
+p5435
+aVRúa Dereitos Humans, Vilaboa, Culleredo, A Coruña, Galicia, 15174, España
+p5436
+aVCarrer Drets Humans, Rafelguaraf, Ribera Alta, Provincia de Valencia / València, Comunitat Valenciana, 46666, España
+p5437
+aVCarrer Drets Humans, Malilla, Jesús, Valencia / València, Provincia de Valencia / València, Comunitat Valenciana, 46026, España
+p5438
+aVCarrer Drets Humans, Malilla, Jesús, Valencia / València, Provincia de Valencia / València, Comunitat Valenciana, 46026, España
+p5439
+aVJardins dels Drets Humans, Carrer de Jane Adams, la Marina de Port, Sants-Montjuïc, Barcelona, BCN, CAT, 08038, España
+p5440
+aVSpectacles for Humans, 3862, 24th Street, Noe Valley, SF, California, 94114, United States of America
+p5441
+aa(lp5442
+VMendoza, Sección 2ª Barrio Cívico, Departamento Capital, Mza., Argentina
+p5443
+aVMza., Argentina
+p5444
+aVMendoza, Salamanca, Guanajuato, Estados Unidos Mexicanos
+p5445
+aVMendoza, Vitoria-Gasteizko Eskualdea / Cuadrilla de Vitoria, Araba / Álava, Euskadi, España
+p5446
+aVMendoza, Caldwell County, Texas, United States of America
+p5447
+aVMendoza, Provincia de Limarí, IV Región de Coquimbo, Chile
+p5448
+aVMendoza, Chincha, Ica, Perú
+p5449
+aVMendoza, Provincia Oropeza, CHQ, Bolivia
+p5450
+aVLa Mendoza, San Felipe Tejalápam, Oaxaca, Estados Unidos Mexicanos
+p5451
+aVEl Mendoza, Francisco I. Madero, Hidalgo, Estados Unidos Mexicanos
+p5452
+aa(lp5453
+VTownsville, QLD, Australia
+p5454
+aVTownsville, Vance County, North Carolina, United States of America
+p5455
+aVTownsville, Dasmariñas, Cavite, Calabarzon, 4114, Philippines
+p5456
+aVTownsville, rail station access, Hermit Park, Townsville, QLD, 4810, Australia
+p5457
+aa(lp5458
+VCABA, Comuna 6, CABA, Argentina
+p5459
+aVBs. As., Argentina
+p5460
+aVBuenos Aires, Lares, Puerto Rico, United States of America
+p5461
+aVBuenos Aires, Palmares, Alajuela, Costa Rica
+p5462
+aVBuenos Aires, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p5463
+aVBuenos Aires, Salamanca, Castilla y León, España
+p5464
+aVBuenos Aires, Tegucigalpa, Francisco Morazán, Honduras
+p5465
+aVBuenos Aires, Esquel, Departamento Futaleufú, CHB, Argentina
+p5466
+aVBuenos Aires, Lázaro Cárdenas, Michoacán de Ocampo, Estados Unidos Mexicanos
+p5467
+aVBuenos Aires, Puntarenas, 60301, Costa Rica
+p5468
+aa(lp5469
+VTuvalu
+p5470
+aVTV, VEN, Italia
+p5471
+aVT\u1ec9nh Trà Vinh, Vi\u1ec7t Nam
+p5472
+aVVolta Region, Ghana
+p5473
+aVTv., Alagoinhas, Microrregião de Alagoinhas, Mesorregião do Nordeste Baiano, BA, Região Nordeste, Brasil
+p5474
+aVTV, Postojna, Notranjsko-kra\u0161ka, 6225, Slovenija
+p5475
+aVTV, Mendocino County, California, 95420, United States of America
+p5476
+aVTV, Praça Januário Pereira da Costa, Santa Tereza, Porto Alegre, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 90850-080, Brasil
+p5477
+aVTV, Avenida Sebastião Balbino da Silva, Guidoval, Microrregião Ubá, Mesorregião Zona da Mata, MG, Região Sudeste, Brasil
+p5478
+aVTV, CU-V-5014, Enguídanos, Cuenca, Castilla-La Mancha, España
+p5479
+aa(lp5480
+VRoma, RM, LAZ, Italia
+p5481
+aVRM, LAZ, Italia
+p5482
+aVAnguillara Sabazia, Roma, RM, LAZ, 00100, Italia
+p5483
+aVRoma, Saltillo, Coahuila de Zaragoza, Estados Unidos Mexicanos
+p5484
+aVRoma, QLD, Australia
+p5485
+aVRoma, Starr County, Texas, United States of America
+p5486
+aVRoma, Starr County, Texas, United States of America
+p5487
+aVRoma, Gotland, Gotlands län, Götaland, Territorial waters of Gotland
+p5488
+aVRoma, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p5489
+aVRoma, Copo, SDE, Argentina
+p5490
+aa(lp5491
+VMuret, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31600, France
+p5492
+aVMuret, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5493
+aVMuret, Mende, Lozère, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5494
+aVMuret, Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, France
+p5495
+aVLe Muret, Louhans, Saône-et-Loire, Bourgogne-Franche-Comté, France métropolitaine, France
+p5496
+aVLe Muret, Thonon-les-Bains, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, France
+p5497
+aVLe Muret, Mont-de-Marsan, Landes, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, France
+p5498
+aVMuret, Saint-Salvadou, Le Bas-Ségala, Villefranche-de-Rouergue, Aveyron, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 12200, France
+p5499
+aVMuret, Grenade-sur-l'Adour, Mont-de-Marsan, Landes, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 40270, France
+p5500
+aVMuret, Thiézac, Aurillac, Cantal, Auvergne-Rhône-Alpes, France métropolitaine, 15800, France
+p5501
+aa(lp5502
+VRovigo, RO, VEN, Italia
+p5503
+aVRO, VEN, Italia
+p5504
+aVRovigo, Piazza Riconoscenza, Commenda, Rovigo, RO, VEN, 45100, Italia
+p5505
+aVRovigo, Principado de Asturias, España
+p5506
+aVRovigo, Autostrada Bologna-Padova, San Pio X, Rovigo, RO, VEN, Italia
+p5507
+aa(lp5508
+VRoma, RM, LAZ, Italia
+p5509
+aVRM, LAZ, Italia
+p5510
+aVRegión Metropolitana de Santiago, Chile
+p5511
+aV\u04d8\u0440\u04d9\u043c\u04d9, \u0411\u043e\u043b\u044c\u0448\u0435\u0442\u0438\u0433\u0430\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p5512
+aV\u0631\u0645, Aqaba, \u0627\u0644\u0623\u0631\u062f\u0646
+p5513
+aVRobert Moses Causeway, Oak Beach, Suffolk County, New York, United States of America
+p5514
+aVRobert Moses Causeway, West Islip, Suffolk County, New York, 11795, United States of America
+p5515
+aVRobert Moses Causeway, West Islip, Suffolk County, New York, 11706, United States of America
+p5516
+aVRobert Moses Causeway, Fire Island, Suffolk County, New York, United States of America
+p5517
+aVRobert Moses Causeway, Oak Beach, Nassau, New York, United States of America
+p5518
+aa(lp5519
+VMar del Plata, Partido de General Pueyrredón, Bs. As., Argentina
+p5520
+aVMar del Plata, Mirador, Municipio de Caleta Olivia, Deseado, SC, Argentina
+p5521
+aVMar del Plata, Mirador, Municipio de Caleta Olivia, Deseado, SC, Argentina
+p5522
+aVMar del Plata, Floresta, CABA, Comuna 10, CABA, C1407FAF, Argentina
+p5523
+aVMar del Plata, Temuco, Provincia de Cautín, IX Región de la Araucanía, 4811161, Chile
+p5524
+aVMar del Plata, Resistencia, Departamento San Fernando, CCO, H3500BZQ, Argentina
+p5525
+aVMar del Plata, Resistencia, Departamento San Fernando, CCO, H3500BXB, Argentina
+p5526
+aVMar del Plata, Resistencia, Departamento San Fernando, CCO, H3500BXB, Argentina
+p5527
+aVMar del Plata, Barrio Norte, Oberá, Municipio de Oberá, Departamento Oberá, Mnes., N3361ZAA, Argentina
+p5528
+aVMar del Plata, Judicial, Oberá, Municipio de Oberá, Departamento Oberá, Mnes., N3361ZAA, Argentina
+p5529
+aa(lp5530
+VL'Aquila, AQ, ABR, Italia
+p5531
+aVAQ, ABR, Italia
+p5532
+aVL'Aquila, Via Tancredi da Pentima, L'Aquila, AQ, ABR, 67100, Italia
+p5533
+aVL'Aquila, Tramonti di Sopra, PN, FVG, Italia
+p5534
+aVL'aquila, Dolceacqua, IM, LIG, Italia
+p5535
+aVL'Aquila, Buggiano, PT, TOS, Italia
+p5536
+aVL'Aquila, AQ, ABR, Italia
+p5537
+aVL'Aquila, AQ, ABR, Italia
+p5538
+aVL'Aquila, AQ, ABR, Italia
+p5539
+aVL'Aquila, Saint-Pierre, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83000;83100;83200, France
+p5540
+aa(lp5541
+VKrugersdorp, West Rand District Municipality, Gauteng, South Africa
+p5542
+aVKrugersdorp, Kruger Street, Mogale City Ward 20, Mogale City Local Municipality, West Rand District Municipality, Gauteng, South Africa
+p5543
+aa(lp5544
+VNew South Wales, Australia
+p5545
+aVCessnock, New South Wales, NSW, Australia
+p5546
+aa(lp5547
+VLiechtenstein
+p5548
+aVLée, Pau, Pyrénées-Atlantiques, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 64320, France
+p5549
+aVLI, TOS, Italia
+p5550
+aVLiberecký kraj, Severovýchod, \u010cesko
+p5551
+aV\u8821\u53bf (Li), \u4fdd\u5b9a\u5e02, \u6cb3\u5317\u7701, \u4e2d\u56fd
+p5552
+aVLiezen, Steiermark, Österreich
+p5553
+aV\u7406\u53bf, \u0f62\u0f94\u0f0b\u0f56\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f46\u0f0b\u0f56\u0f39\u0f44\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0b / \u963f\u575d\u85cf\u65cf\u7f8c\u65cf\u81ea\u6cbb\u5dde / Ngawa, \u56db\u5ddd\u7701, \u4e2d\u56fd
+p5554
+aVLi, \u4e34\u6f7c\u533a (Chang'an), \u897f\u5b89\u5e02 / Xi'an, \u9655\u897f\u7701, \u4e2d\u56fd
+p5555
+aVLe Lié, Saint-Brieuc, Côtes-d'Armor, Bretagne, France métropolitaine, France
+p5556
+aV\u793c\u53bf, \u9647\u5357\u5e02 (Longnan), \u7518\u8083\u7701, \u4e2d\u56fd
+p5557
+aa(lp5558
+VParma, PR, EMR, Italia
+p5559
+aVParma, Cuyahoga County, Ohio, United States of America
+p5560
+aVPR, EMR, Italia
+p5561
+aVParma, Via Giovanni Falcone, Parma, PR, EMR, 13, Italia
+p5562
+aVParma, Alamosa, Colorado, United States of America
+p5563
+aVParma, Stone County, Arkansas, United States of America
+p5564
+aVParma, Köprüba\u015f\u0131, Trabzon, Karadeniz Bölgesi, Türkiye
+p5565
+aVParma, Chikun, Kaduna, Nigeria
+p5566
+aVParma, Canyon County, Idaho, United States of America
+p5567
+aVParma, Jackson County, Michigan, United States of America
+p5568
+aa(lp5569
+VTreviso, TV, VEN, Italia
+p5570
+aVTV, VEN, Italia
+p5571
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p5572
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p5573
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p5574
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p5575
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p5576
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p5577
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p5578
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p5579
+aa(lp5580
+VViterbo, VT, LAZ, Italia
+p5581
+aVViterbo, Via Chigi, Viterbo, VT, LAZ, 01100, Italia
+p5582
+aVVT, LAZ, Italia
+p5583
+aVViterbo, Jefferson County, Texas, United States of America
+p5584
+aVViterbo, Bajo Occidente, Caldas, Colombia
+p5585
+aVViterbo, Bajo Occidente, Caldas, Colombia
+p5586
+aVViterbo, Via Viterbo, Municipio Roma II, Roma, RM, LAZ, 00198, Italia
+p5587
+aVViterbo, Viterbo ATAC, Ellera, Viterbo, VT, LAZ, 01100, Italia
+p5588
+aVVITERBO, Via AL16, Talatona, Luanda, Angola
+p5589
+aa(lp5590
+VVittorio Veneto, TV, VEN, Italia
+p5591
+aVVittorio Veneto, 6 de Diciembre, Nuevo Paris, Montevideo, 12900, Uruguay
+p5592
+aVVittorio Veneto, Castel San Pietro Romano, RM, LAZ, 00036, Italia
+p5593
+aVVittorio Veneto, Via Ettore Fenderl, Salsa, Serravalle, Vittorio Veneto, TV, VEN, 31029, Italia
+p5594
+aVVittorio Veneto, Via Vanchiglia, Circoscrizione 1, Torino, TO, PIE, 10124, Italia
+p5595
+aVVittorio Veneto, Piazza Vittorio Veneto, Circoscrizione 1, Torino, TO, PIE, 10124, Italia
+p5596
+aVVittorio Veneto, Via Eusebio Bava, Circoscrizione 1, Torino, TO, PIE, 10124, Italia
+p5597
+aVVittorio Veneto, Via Vanchiglia, Circoscrizione 1, Torino, TO, PIE, 10124, Italia
+p5598
+aVVittorio Veneto, Via Vittorio Veneto, Santa Viola, Bologna, BO, EMR, 40134, Italia
+p5599
+aVVittorio Veneto, Via Vittorio Veneto, Santa Viola, Bologna, BO, EMR, 40131, Italia
+p5600
+aa(lp5601
+VPrato, PO, TOS, Italia
+p5602
+aVPO, TOS, Italia
+p5603
+aVPrato, BO, EMR, Italia
+p5604
+aVPrato, BO, EMR, Italia
+p5605
+aVPrato, CO, LOM, Italia
+p5606
+aVPrato, AL, PIE, Italia
+p5607
+aVPrato, MS, TOS, Italia
+p5608
+aVPrato, FI, TOS, Italia
+p5609
+aVPrato, PG, UMB, Italia
+p5610
+aVPrato, RC, CAL, Italia
+p5611
+aa(lp5612
+VTreviso, TV, VEN, Italia
+p5613
+aVTV, VEN, Italia
+p5614
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p5615
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p5616
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p5617
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p5618
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p5619
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p5620
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p5621
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p5622
+aa(lp5623
+VBenevento, BN, CAM, Italia
+p5624
+aVBN, CAM, Italia
+p5625
+aVBenevento, Piazza Vittoria Colonna, San Lorenzo, Ferrovia, Benevento, BN, CAM, 82100, Italia
+p5626
+aVBenevento, AR, TOS, Italia
+p5627
+aVBenevento, Mallare, SV, LIG, Italia
+p5628
+aVBenevento, Poppi, AR, TOS, Italia
+p5629
+aVBenevento, Spring Hill, Williamson County, Tennessee, 37179, United States of America
+p5630
+aVBenevento, Pituba, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Mesorregião do Recôncavo baiano, BA, Região Nordeste, 41830-595, Brasil
+p5631
+aVBenevento, Pituba, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Mesorregião do Recôncavo baiano, BA, Região Nordeste, 41850-100, Brasil
+p5632
+aVBenevento, Pituba, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Mesorregião do Recôncavo baiano, BA, Região Nordeste, 41830595, Brasil
+p5633
+aa(lp5634
+VNelspruit, Ehlanzeni, Mpumalanga, South Africa
+p5635
+aVNelspruit, Northern Bypass, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p5636
+aVNelspruit, Voortrekker Street, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p5637
+aVNelspruit, Langenhoven Crescent, West Acres, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p5638
+aV320, N4, Mbombela Ward 12, Mbombela, Ehlanzeni, Mpumalanga, South Africa
+p5639
+aa(lp5640
+VVictoria, Australia
+p5641
+aVVic, Osona, BCN, CAT, España
+p5642
+aVLondon Victoria, Bridge Place, Victoria, City of Westminster, London, Greater London, England, SW1V 1QA, United Kingdom
+p5643
+aVVic, Osona, BCN, CAT, España
+p5644
+aVLe Vic, Albi, Tarn, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5645
+aVLe Vic, Langon, Gironde, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, France
+p5646
+aVVic, Millau, Aveyron, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5647
+aVVic, Nimes, Gard, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5648
+aVBorgo Vico, UD, FVG, Italia
+p5649
+aVVico, UD, FVG, Italia
+p5650
+aa(lp5651
+VAvezzano, AQ, ABR, Italia
+p5652
+aVAvezzano, Via Monte D'Oro, Borgo Via Nuova, Avezzano, AQ, ABR, 67051, Italia
+p5653
+aVAvezzano, Strada dei Parchi, Borgo Via Nuova, Avezzano, AQ, ABR, 67051, Italia
+p5654
+aa(lp5655
+VWorcester, Worcestershire, West Midlands, England, United Kingdom
+p5656
+aVWorcester, Worcester County, Massachusetts, United States of America
+p5657
+aVWorcester County, Massachusetts, United States of America
+p5658
+aVWorcester, Massachusetts, United States of America
+p5659
+aVWorcester County, Maryland, United States of America
+p5660
+aVWorcester, Cape Winelands District Municipality, Western Cape, South Africa
+p5661
+aVWorcester, Town of Worcester, Otsego County, New York, United States of America
+p5662
+aVWorcester, Montgomery County, Pennsylvania, United States of America
+p5663
+aVWorcester, Audrain County, Missouri, United States of America
+p5664
+aVWorcester, Washington County, Vermont, United States of America
+p5665
+aa(lp5666
+VMilano, MI, LOM, Italia
+p5667
+aVEl Milano, Salamanca, Castilla y León, España
+p5668
+aVMI, LOM, Italia
+p5669
+aVMilano, BG, LOM, Italia
+p5670
+aVMilano, PG, UMB, Italia
+p5671
+aVMilano, Leoncio Prado, Huánuco, Perú
+p5672
+aVMilano, Siquirres, Limón, Costa Rica
+p5673
+aVMilano, Salvadiós, Ávila, Castilla y León, España
+p5674
+aVMilano, Casas de los Pinos, Cuenca, Castilla-La Mancha, España
+p5675
+aVMilano, San Leonardo de Yagüe, Soria, Castilla y León, España
+p5676
+aa(lp5677
+VJesolo, VE, VEN, Italia
+p5678
+aVJesolo, Mainstraße, Miltenberg-Nord, Miltenberg, Landkreis Miltenberg, Unterfranken, Bayern, 63897, Deutschland
+p5679
+aVJesolo, Schulgasse, Klösterl, Landsberg am Lech, Landkreis Landsberg am Lech, OB, Bayern, 86899, Deutschland
+p5680
+aa(lp5681
+VVenezuela
+p5682
+aVVE, VEN, Italia
+p5683
+aVVe, Karlstad, Värmlands län, Svealand, Sverige
+p5684
+aVVe, Menchum, NW, Cameroun
+p5685
+aVVe, Volta Region, Ghana
+p5686
+aVVE, Route des Fondeurs, Chabeuil, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26120, France
+p5687
+aVVE, Hoofdweg Westzijde, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132MH, Nederland
+p5688
+aVVE, Route de Montmeyran, Grange Neuve, Beaumont-lès-Valence, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26760, France
+p5689
+aVLe Ve, Place de la Gare, Vevey, District de la Riviera-Pays-d\u2019Enhaut, Vaud, 1800, Schweiz, Suisse, Svizzera, Svizra
+p5690
+aVVeh, 23, Hauptstraße, Binnerfeld, Rusch, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59755, Deutschland
+p5691
+aaNa(lp5692
+VPadova, PD, VEN, Italia
+p5693
+aVPD, VEN, Italia
+p5694
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p5695
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p5696
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p5697
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p5698
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p5699
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p5700
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p5701
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p5702
+aa(lp5703
+VRoma, RM, LAZ, Italia
+p5704
+aVRM, LAZ, Italia
+p5705
+aVAnguillara Sabazia, Roma, RM, LAZ, 00100, Italia
+p5706
+aVRoma, Saltillo, Coahuila de Zaragoza, Estados Unidos Mexicanos
+p5707
+aVRoma, QLD, Australia
+p5708
+aVRoma, Starr County, Texas, United States of America
+p5709
+aVRoma, Starr County, Texas, United States of America
+p5710
+aVRoma, Gotland, Gotlands län, Götaland, Territorial waters of Gotland
+p5711
+aVRoma, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p5712
+aVRoma, Copo, SDE, Argentina
+p5713
+aa(lp5714
+VVillorba, TV, VEN, Italia
+p5715
+aa(lp5716
+VTreviso, TV, VEN, Italia
+p5717
+aVTV, VEN, Italia
+p5718
+aVTreviso, San Rafael Abajo, Tibás, San José, 10311, Costa Rica
+p5719
+aVTreviso, Microrregião de Criciúma, Mesorregião do Sul Catarinense, SC, Região Sul, Brasil
+p5720
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BG, Nederland
+p5721
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AM, Nederland
+p5722
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BK, Nederland
+p5723
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p5724
+aVTreviso, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921XA, Nederland
+p5725
+aVTreviso, Laguna Hills, Orange County, California, 92653, United States of America
+p5726
+aa(lp5727
+VVenezuela
+p5728
+aVVE, VEN, Italia
+p5729
+aVVe, Karlstad, Värmlands län, Svealand, Sverige
+p5730
+aVVe, Menchum, NW, Cameroun
+p5731
+aVVe, Volta Region, Ghana
+p5732
+aVVE, Route des Fondeurs, Chabeuil, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26120, France
+p5733
+aVVE, Hoofdweg Westzijde, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132MH, Nederland
+p5734
+aVVE, Route de Montmeyran, Grange Neuve, Beaumont-lès-Valence, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26760, France
+p5735
+aVLe Ve, Place de la Gare, Vevey, District de la Riviera-Pays-d\u2019Enhaut, Vaud, 1800, Schweiz, Suisse, Svizzera, Svizra
+p5736
+aVVeh, 23, Hauptstraße, Binnerfeld, Rusch, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59755, Deutschland
+p5737
+aa(lp5738
+VRosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p5739
+aVRosario, Sonora, Estados Unidos Mexicanos
+p5740
+aVRosario, Sinaloa, Estados Unidos Mexicanos
+p5741
+aVRosario, Chihuahua, Estados Unidos Mexicanos
+p5742
+aVRosario, Cavite, Calabarzon, 4106, Philippines
+p5743
+aVRosario, Agusan Del Sur, Caraga, Philippines
+p5744
+aVRosario, Mayagüez, Puerto Rico, United States of America
+p5745
+aVEl Rosario, Cantón Gualaquiza, Morona Santiago, Ecuador
+p5746
+aVEl Rosario, El Empalme, Guayas, Ecuador
+p5747
+aVEl Rosario, Cantón Chaguarpamba, Loja, Ecuador
+p5748
+aa(lp5749
+VParma, PR, EMR, Italia
+p5750
+aVParma, Cuyahoga County, Ohio, United States of America
+p5751
+aVPR, EMR, Italia
+p5752
+aVParma, Via Giovanni Falcone, Parma, PR, EMR, 13, Italia
+p5753
+aVParma, Alamosa, Colorado, United States of America
+p5754
+aVParma, Stone County, Arkansas, United States of America
+p5755
+aVParma, Köprüba\u015f\u0131, Trabzon, Karadeniz Bölgesi, Türkiye
+p5756
+aVParma, Chikun, Kaduna, Nigeria
+p5757
+aVParma, Canyon County, Idaho, United States of America
+p5758
+aVParma, Jackson County, Michigan, United States of America
+p5759
+aa(lp5760
+VResistencia, Departamento San Fernando, CCO, Argentina
+p5761
+aVResistencia, Departamento San Fernando, CCO, Argentina
+p5762
+aVResistencia, Rivadavia, SA, Argentina
+p5763
+aVLa Resistencia, Sibanicú, Camagüey, Cuba
+p5764
+aVLa Resistencia, Daule, Guayas, Ecuador
+p5765
+aVResistência, Região Administrativa VII - São Pedro, Vitória, Microrregião Vitória, RMGV, Mesorregião Central Espírito-Santense, ES, Região Sudeste, Brasil
+p5766
+aVResistencia, Villa Mousquere, Yerbal Viejo, Municipio de Oberá, Departamento Oberá, Mnes., 3361, Argentina
+p5767
+aVResistencia, Stroeder, Partido de Patagones, Bs. As., Argentina
+p5768
+aVResistencia, Ezpeleta, Partido de Quilmes, Bs. As., 1882, Argentina
+p5769
+aVResistencia, Carlos Casares, Partido de Carlos Casares, Bs. As., B6530DKB, Argentina
+p5770
+aa(lp5771
+VVR, VEN, Italia
+p5772
+aVVakaga, Ködörösêse tî Bêafrîka - République Centrafricaine
+p5773
+aV\u0412\u0440\u0430\u0446\u0430, \u041e\u0431\u043b\u0430\u0441\u0442 \u0412\u0440\u0430\u0446\u0430, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f
+p5774
+aVVR, Tavaradi, Greater Bombay, Maharashtra, India
+p5775
+aVVR, Dhamni, Greater Bombay, Maharashtra, India
+p5776
+aVVR, Shivansai, Greater Bombay, Maharashtra, India
+p5777
+aVVR, Dodhani village, Greater Bombay, Maharashtra, India
+p5778
+aVVR, Dundre, Greater Bombay, Maharashtra, India
+p5779
+aVVR, Shantivan, Greater Bombay, Maharashtra, India
+p5780
+aVVr, Dodhani village, Greater Bombay, Maharashtra, India
+p5781
+aa(lp5782
+VVenezia, VE, VEN, Italia
+p5783
+aVVE, VEN, Italia
+p5784
+aVVenezia, VE, VEN, Italia
+p5785
+aVVenezia, Yavapai County, Arizona, United States of America
+p5786
+aVVenezia, BS, LOM, Italia
+p5787
+aVVenezia, PR, EMR, Italia
+p5788
+aVCanale Santa Maria, Mestre, VE, VEN, 30170, Italia
+p5789
+aVCanale Taglietto, Mestre, VE, VEN, 30170, Italia
+p5790
+aVCanale Silone (dolce), Mestre, VE, VEN, 30170, Italia
+p5791
+aVCanale Siloncello, Mestre, VE, VEN, 30170, Italia
+p5792
+aa(lp5793
+VVicenza, VI, VEN, Italia
+p5794
+aVVI, VEN, Italia
+p5795
+aVVicenza, Viale Venezia, Barche, Gogna, Vicenza, VI, VEN, 36100, Italia
+p5796
+aVVicenza, Perris, Riverside County, California, 92571, United States of America
+p5797
+aVVicenza, Ituzaingó, Montevideo, 11600, Uruguay
+p5798
+aVVicenza, Maroñas-Parque Guaraní, Montevideo, 11600, Uruguay
+p5799
+aVVicenza, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BJ, Nederland
+p5800
+aVVicenza, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921AT, Nederland
+p5801
+aVVicenza, Atlantida, Santa Clara del Mar, Partido de Mar Chiquita, Bs. As., 7609, Argentina
+p5802
+aVVicenza, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p5803
+aa(lp5804
+VVenezuela
+p5805
+aVVE, VEN, Italia
+p5806
+aVVe, Karlstad, Värmlands län, Svealand, Sverige
+p5807
+aVVe, Menchum, NW, Cameroun
+p5808
+aVVe, Volta Region, Ghana
+p5809
+aVVE, Route des Fondeurs, Chabeuil, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26120, France
+p5810
+aVVE, Hoofdweg Westzijde, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132MH, Nederland
+p5811
+aVVE, Route de Montmeyran, Grange Neuve, Beaumont-lès-Valence, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26760, France
+p5812
+aVLe Ve, Place de la Gare, Vevey, District de la Riviera-Pays-d\u2019Enhaut, Vaud, 1800, Schweiz, Suisse, Svizzera, Svizra
+p5813
+aVVeh, 23, Hauptstraße, Binnerfeld, Rusch, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59755, Deutschland
+p5814
+aa(lp5815
+VNapoli, NA, CAM, Italia
+p5816
+aVNA, CAM, Italia
+p5817
+aVNapoli, Cattaraugus County, New York, United States of America
+p5818
+aVNapoli, Jurançon, Pau, Pyrénées-Atlantiques, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 64110, France
+p5819
+aVNapoli, Veneza, Ribeirão das Neves, Microrregião Belo Horizonte, Região Metropolitana de Belo Horizonte, Mesorregião Metropolitana de Belo Horizonte, MG, Região Sudeste, Brasil
+p5820
+aVNapoli, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p5821
+aVNapoli, Laguna Hills, Orange County, California, 92653, United States of America
+p5822
+aVNapoli, Newport Center, Newport Beach, Orange County, California, 92657, United States of America
+p5823
+aVNapoli, Vintage Oaks at the Vineyard, Cranes Mill, Comal County, Texas, United States of America
+p5824
+aVNapoli, Manzanar 8, El Manzanar, Cipolletti, Departamento General Roca, RN, 8324, Argentina
+p5825
+aa(lp5826
+VIrvine, Orange County, California, United States of America
+p5827
+aVIrvine, Estill County, Kentucky, United States of America
+p5828
+aVIrvine, North Ayrshire, Scotland, United Kingdom
+p5829
+aVIrvine, Warren County, Pennsylvania, United States of America
+p5830
+aVIrvine, Chippewa County, Wisconsin, United States of America
+p5831
+aVIrvine, Converse County, Wyoming, United States of America
+p5832
+aVIrvine, Marion County, Florida, United States of America
+p5833
+aVIrvine, Harbour Road, Irvine, North Ayrshire, Scotland, United Kingdom
+p5834
+aVIrvine, Alberta, Canada
+p5835
+aVIrvine, Mountain House, San Joaquin County, California, 95391, United States of America
+p5836
+aa(lp5837
+VGardone Val Trompia, Comunità montana della valle Trompia, BS, LOM, Italia
+p5838
+aa(lp5839
+VTuvalu
+p5840
+aVTV, VEN, Italia
+p5841
+aVT\u1ec9nh Trà Vinh, Vi\u1ec7t Nam
+p5842
+aVVolta Region, Ghana
+p5843
+aVTv., Alagoinhas, Microrregião de Alagoinhas, Mesorregião do Nordeste Baiano, BA, Região Nordeste, Brasil
+p5844
+aVTV, Postojna, Notranjsko-kra\u0161ka, 6225, Slovenija
+p5845
+aVTV, Mendocino County, California, 95420, United States of America
+p5846
+aVTV, Praça Januário Pereira da Costa, Santa Tereza, Porto Alegre, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 90850-080, Brasil
+p5847
+aVTV, Avenida Sebastião Balbino da Silva, Guidoval, Microrregião Ubá, Mesorregião Zona da Mata, MG, Região Sudeste, Brasil
+p5848
+aVTV, CU-V-5014, Enguídanos, Cuenca, Castilla-La Mancha, España
+p5849
+aa(lp5850
+VKempton Park, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p5851
+aVKempton Park, Park Road, Sunbury Common, Spelthorne, Surrey, South East, England, TW16 5AE, United Kingdom
+p5852
+aVKempton Park, Surrey, South East, England, United Kingdom
+p5853
+aVKempton Park, Pelletstown, Ashtown A ED, Dublin, County Dublin, Leinster, D11, Ireland
+p5854
+aVKempton Park, Johannesburg Ward 32, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p5855
+aVKempton Park, Ballyvolane, Cork, County Cork, Munster, Ireland
+p5856
+aVKempton Park, Dunsbury Hill Farm, Cowplain, Havant, Hampshire, South East, England, PO7 8NT, United Kingdom
+p5857
+aVKempton Park, Weeley Civil Parish, Tendring, Essex, East of England, England, CO16 9EJ, United Kingdom
+p5858
+aVKempton Park, Park Road, Sunbury Common, Spelthorne, Surrey, South East, England, TW16 5AE, United Kingdom
+p5859
+aVKempton Park, Geldenhuys Road, Bonaero Park, Benoni, Ekurhuleni Metropolitan Municipality, Gauteng, 1619, South Africa
+p5860
+aa(lp5861
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p5862
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p5863
+aa(lp5864
+VSuva, Central, Viti
+p5865
+aV\u8acf\u8a2a\u5e02, \u8acf\u8a2a\u90e1 (Suwa), \u9577\u91ce\u770c, \u65e5\u672c
+p5866
+aVSuva, \u010cernina, okres Humenné, Pre\u0161ovský kraj, Východné Slovensko, Slovensko
+p5867
+aVSueva, Cundinamarca, Colombia
+p5868
+aVSUEVA, Junín, Cundinamarca, Colombia
+p5869
+aVSuva, Suva Passage, Tribschen, Luzern, 6002, Schweiz, Suisse, Svizzera, Svizra
+p5870
+aVSuva, 24A, Frederick Street, Canonmills, New Town, City of Edinburgh, Scotland, EH2 2NE, United Kingdom
+p5871
+aVSUVA, 11, Laupenstrasse, Monbijou, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3008, Schweiz, Suisse, Svizzera, Svizra
+p5872
+aVSUVA, Suva Passage, Tribschen, Luzern, 6002, Schweiz, Suisse, Svizzera, Svizra
+p5873
+aVSUVA, 90, Avenue du Grand-Champsec, Grand Champsec, Sion, Valais - Wallis, 1951, Schweiz, Suisse, Svizzera, Svizra
+p5874
+aa(lp5875
+VPadova, PD, VEN, Italia
+p5876
+aVPD, VEN, Italia
+p5877
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p5878
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p5879
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p5880
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p5881
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p5882
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p5883
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p5884
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p5885
+aa(lp5886
+VRoma, RM, LAZ, Italia
+p5887
+aVRM, LAZ, Italia
+p5888
+aVRegión Metropolitana de Santiago, Chile
+p5889
+aV\u04d8\u0440\u04d9\u043c\u04d9, \u0411\u043e\u043b\u044c\u0448\u0435\u0442\u0438\u0433\u0430\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p5890
+aV\u0631\u0645, Aqaba, \u0627\u0644\u0623\u0631\u062f\u0646
+p5891
+aVRobert Moses Causeway, Oak Beach, Suffolk County, New York, United States of America
+p5892
+aVRobert Moses Causeway, West Islip, Suffolk County, New York, 11795, United States of America
+p5893
+aVRobert Moses Causeway, West Islip, Suffolk County, New York, 11706, United States of America
+p5894
+aVRobert Moses Causeway, Fire Island, Suffolk County, New York, United States of America
+p5895
+aVRobert Moses Causeway, Oak Beach, Nassau, New York, United States of America
+p5896
+aa(lp5897
+VVenezuela
+p5898
+aVVE, VEN, Italia
+p5899
+aVVe, Karlstad, Värmlands län, Svealand, Sverige
+p5900
+aVVe, Menchum, NW, Cameroun
+p5901
+aVVe, Volta Region, Ghana
+p5902
+aVVE, Route des Fondeurs, Chabeuil, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26120, France
+p5903
+aVVE, Hoofdweg Westzijde, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132MH, Nederland
+p5904
+aVVE, Route de Montmeyran, Grange Neuve, Beaumont-lès-Valence, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26760, France
+p5905
+aVLe Ve, Place de la Gare, Vevey, District de la Riviera-Pays-d\u2019Enhaut, Vaud, 1800, Schweiz, Suisse, Svizzera, Svizra
+p5906
+aVVeh, 23, Hauptstraße, Binnerfeld, Rusch, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59755, Deutschland
+p5907
+aa(lp5908
+VPaese, TV, VEN, Italia
+p5909
+aVPäse, Samtgemeinde Meinersen, Landkreis Gifhorn, Niedersachsen, Deutschland
+p5910
+aVPaseh, Jawa Tengah, Indonesia
+p5911
+aVPa\u0161e, Hontianske Moravce, okres Krupina, Banskobystrický kraj, Stredné Slovensko, Slovensko
+p5912
+aVPaese, Via Municipio, Brione (Verzasca), Circolo della Verzasca, Distretto di Locarno, Ticino, 6634, Schweiz, Suisse, Svizzera, Svizra
+p5913
+aVDorf - Paese, Stickler, Ritten - Renon, BZ, TAA, 39054, Italia
+p5914
+aVDorf - Paese, Ritzfeld, Ritten - Renon, BZ, TAA, Italia
+p5915
+aVDorf - Paese, Stickler, Ritten - Renon, BZ, TAA, 39054, Italia
+p5916
+aVDorf - Paese, Ritzfeld, Ritten - Renon, BZ, TAA, Italia
+p5917
+aVDorf - Paese, Ritzfeld, Ritten - Renon, BZ, TAA, Italia
+p5918
+aa(lp5919
+VBenevento, BN, CAM, Italia
+p5920
+aVBN, CAM, Italia
+p5921
+aVBenevento, Piazza Vittoria Colonna, San Lorenzo, Ferrovia, Benevento, BN, CAM, 82100, Italia
+p5922
+aVBenevento, AR, TOS, Italia
+p5923
+aVBenevento, Mallare, SV, LIG, Italia
+p5924
+aVBenevento, Poppi, AR, TOS, Italia
+p5925
+aVBenevento, Spring Hill, Williamson County, Tennessee, 37179, United States of America
+p5926
+aVBenevento, Pituba, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Mesorregião do Recôncavo baiano, BA, Região Nordeste, 41830-595, Brasil
+p5927
+aVBenevento, Pituba, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Mesorregião do Recôncavo baiano, BA, Região Nordeste, 41850-100, Brasil
+p5928
+aVBenevento, Pituba, Salvador, Microrregião de Salvador, Região Metropolitana de Salvador, Mesorregião do Recôncavo baiano, BA, Região Nordeste, 41830595, Brasil
+p5929
+aa(lp5930
+VParma, PR, EMR, Italia
+p5931
+aVParma, Cuyahoga County, Ohio, United States of America
+p5932
+aVPR, EMR, Italia
+p5933
+aVParma, Via Giovanni Falcone, Parma, PR, EMR, 13, Italia
+p5934
+aVParma, Alamosa, Colorado, United States of America
+p5935
+aVParma, Stone County, Arkansas, United States of America
+p5936
+aVParma, Köprüba\u015f\u0131, Trabzon, Karadeniz Bölgesi, Türkiye
+p5937
+aVParma, Chikun, Kaduna, Nigeria
+p5938
+aVParma, Canyon County, Idaho, United States of America
+p5939
+aVParma, Jackson County, Michigan, United States of America
+p5940
+aa(lp5941
+VPadova, PD, VEN, Italia
+p5942
+aVPD, VEN, Italia
+p5943
+aVPadova, Piazzale della Stazione, Arcella, Padova, PD, VEN, 35132, Italia
+p5944
+aVPadova, Hortolândia, Microrregião de Campinas, RMC, Mesorregião de Campinas, SP, Região Sudeste, 13183080, Brasil
+p5945
+aVPadova, Krimpen aan den IJssel, MRDH, Zuid-Holland, Nederland, 2921BH, Nederland
+p5946
+aVPadova, Laguna Hills, Orange County, California, 92653, United States of America
+p5947
+aVPadova, Northcliff, Guadalupe County, Texas, 78108, United States of America
+p5948
+aVPadova, Rue Notre-Dame des Champs, ND-des-Champs, 6e, Paris, Île-de-France, France métropolitaine, 75006, France
+p5949
+aVPadova, 20, Moskevská, Vr\u0161ovice, Praha, okres Hlavní m\u011bsto Praha, Hlavní m\u011bsto Praha, Praha, 10100, \u010cesko
+p5950
+aVPadova, Via Padova, Vanchiglia, Circoscrizione 7, Torino, TO, PIE, 10153, Italia
+p5951
+aa(lp5952
+VShqipëria
+p5953
+aVAlbania, La Guajira, Colombia
+p5954
+aVAlbania, Santander, Colombia
+p5955
+aVAlbania, gmina Obryte, powiat pu\u0142tuski, mazowieckie, Polska
+p5956
+aVAlbania, Pitalito, Huila, Colombia
+p5957
+aVAlbania, La Vega, Cauca, Colombia
+p5958
+aVAlbania, San Vicente de Chucurí, Santander, Colombia
+p5959
+aVAlbania, Gramalote, Bucarasica, Norte de Santander, Colombia
+p5960
+aVAlbania, San Cayetano, Cundinamarca, Colombia
+p5961
+aVAlbania, Mutiscua, Norte de Santander, Colombia
+p5962
+aa(lp5963
+VPiacenza, PC, EMR, Italia
+p5964
+aVPC, EMR, Italia
+p5965
+aVPiacenza, Piazzale Guglielmo Marconi, Caorsana, Piacenza, PC, EMR, 29122, Italia
+p5966
+aVPiacenza, Winnebago County, Wisconsin, United States of America
+p5967
+aVPiacenza, Luar Kayad, Pergamino, Partido de Pergamino, Bs. As., 2700, Argentina
+p5968
+aVPiacenza, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p5969
+aVPiacenza, Juan XXIII, Venado Tuerto, Municipio de Venado Tuerto, Departamento General López, Sta. Fe, 2600, Argentina
+p5970
+aVPiacenza, Barrio Norte, Venado Tuerto, Municipio de Venado Tuerto, Departamento General López, Sta. Fe, 2600, Argentina
+p5971
+aVPiacenza, Monte Buey, Departamento Marcos Juárez, Cba., 2589, Argentina
+p5972
+aVPiacenza, Arroyo Cabral, Departamento General San Martín, Cba., Argentina
+p5973
+aa(lp5974
+VReggio nell'Emilia, RE, EMR, Italia
+p5975
+aVReggio Emilia, Accesso binari 3/4, Porta San Pietro, Ospizio, Reggio nell'Emilia, RE, EMR, 42121, Italia
+p5976
+aVRE, EMR, Italia
+p5977
+aVReggio Emilia, Autostrada del Sole, La Nave, San Prospero Strinati, Reggio nell'Emilia, RE, EMR, 42124, Italia
+p5978
+aa(lp5979
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p5980
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p5981
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p5982
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p5983
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p5984
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p5985
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p5986
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p5987
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p5988
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p5989
+aa(lp5990
+VVenezuela
+p5991
+aVVE, VEN, Italia
+p5992
+aVVe, Karlstad, Värmlands län, Svealand, Sverige
+p5993
+aVVe, Menchum, NW, Cameroun
+p5994
+aVVe, Volta Region, Ghana
+p5995
+aVVE, Route des Fondeurs, Chabeuil, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26120, France
+p5996
+aVVE, Hoofdweg Westzijde, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132MH, Nederland
+p5997
+aVVE, Route de Montmeyran, Grange Neuve, Beaumont-lès-Valence, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26760, France
+p5998
+aVLe Ve, Place de la Gare, Vevey, District de la Riviera-Pays-d\u2019Enhaut, Vaud, 1800, Schweiz, Suisse, Svizzera, Svizra
+p5999
+aVVeh, 23, Hauptstraße, Binnerfeld, Rusch, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59755, Deutschland
+p6000
+aa(lp6001
+VVenezia, VE, VEN, Italia
+p6002
+aVVE, VEN, Italia
+p6003
+aVVenezia, VE, VEN, Italia
+p6004
+aVVenezia, Yavapai County, Arizona, United States of America
+p6005
+aVVenezia, BS, LOM, Italia
+p6006
+aVVenezia, PR, EMR, Italia
+p6007
+aVCanale Santa Maria, Mestre, VE, VEN, 30170, Italia
+p6008
+aVCanale Taglietto, Mestre, VE, VEN, 30170, Italia
+p6009
+aVCanale Silone (dolce), Mestre, VE, VEN, 30170, Italia
+p6010
+aVCanale Siloncello, Mestre, VE, VEN, 30170, Italia
+p6011
+aa(lp6012
+VCradock, Chris Hani District Municipality, Eastern Cape, South Africa
+p6013
+aVCradock, Portsmouth, Virginia, United States of America
+p6014
+aVCradock, South Australia, Australia
+p6015
+aVCradock, South Australia, Australia
+p6016
+aVCradock, Tshwane Ward 57, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0140, South Africa
+p6017
+aVCradock, R337, Inxuba Yethemba Ward 5, Inxuba Yethemba Local Municipality, Chris Hani District Municipality, Eastern Cape, South Africa
+p6018
 aa.

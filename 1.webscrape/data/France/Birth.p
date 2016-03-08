@@ -915,4 +915,1216 @@ aVAugust 13, 1932, Rivesaltes
 p458
 aVFebruary 11, 1931, Vichy
 p459
+aVDecember 31, 1931, Baixas
+p460
+aVDecember 5, 1926, Lanobre
+p461
+aVOctober 24, 1932, Graulhet
+p462
+aVJune 27, 1933, Rivesaltes
+p463
+aVApril 1, 1932, Louvie-Juzon
+p464
+aVJanuary 2, 1934, Theza
+p465
+aVJanuary 13, 1937, Pouydesseaux
+p466
+aVSeptember 20, 1932, Levallois-Perret
+p467
+aVJanuary 22, 1931, Tarbes
+p468
+aVJanuary 20, 1933, Dax
+p469
+aVDecember 10, 1937, Perigueux
+p470
+aVJuly 6, 1934, Saint-Laurent-de-Gos
+p471
+aVOctober 11, 1932, Orthevielle
+p472
+aVJune 5, 1934, Biarritz
+p473
+aVFebruary 17, 1932, Saverdun
+p474
+aVJanuary 23, 1935, Houeill
+p475
+aVFebruary 17, 1925, Cazes-Mondenard
+p476
+aVMay 18, 1929, Labouheyre
+p477
+aVJuly 14, 1934, Mauleon
+p478
+aVMay 18, 1934, Paris
+p479
+aVMay 4, 1934, Pontacq
+p480
+aVJuly 15, 1938, Tarbes
+p481
+aVMarch 5, 1936, Pau
+p482
+aVJune 16, 1937, La Reole
+p483
+aVDecember 9, 1935, Romans-sur-Isere
+p484
+aVJune 1, 1934, Strasbourg
+p485
+aVMarch 6, 1937, Monfort-en-Chalosse
+p486
+aVJuly 5, 1935, Boissezon
+p487
+aVNovember 13, 1928, Paris
+p488
+aVMarch 3, 1928, Beziers
+p489
+aVJanuary 31, 1936, Saint-Sever
+p490
+aVSeptember 28, 1935, Bagneres-de-Bigorre
+p491
+aVMay 6, 1937, Bugnein
+p492
+aVSeptember 24, 1932, Treveray
+p493
+aVAugust 18, 1934, Bayonne
+p494
+aVJune 18, 1934, Ciboure
+p495
+aVDecember 23, 1941, Bagneres-de-Bigorre
+p496
+aVNovember 24, 1935, Quimerch
+p497
+aVSeptember 28, 1940, Limoux
+p498
+aVMay 13, 1933, Tarbes
+p499
+aVFebruary 8, 1931, Mont-de-Marsan
+p500
+aVJanuary 3, 1934, Soustons
+p501
+aVMarch 5, 1940, Pontacq
+p502
+aVSeptember 19, 1936, La Flamengrie
+p503
+aVSeptember 17, 1935, Pau
+p504
+aVMay 17, 1936, Soubion
+p505
+aVJanuary 1, 1934, Gousse
+p506
+aVFebruary 14, 1940, Salles
+p507
+aVApril 17, 1932, Saint-Malo-de-Guersa
+p508
+aVNovember 21, 1937, Pontacq
+p509
+aVFebruary 4, 1934, Severac-le-Chateau
+p510
+aVSeptember 21, 1935, Sigean
+p511
+aVAugust 25, 1940, Peyrehorade
+p512
+aVFebruary 8, 1934, Penne-d'Agenais
+p513
+aVApril 30, 1931, La Mure
+p514
+aVNovember 8, 1936, Cazouls-les-Beziers
+p515
+aVOctober 15, 1940, Fumel
+p516
+aVApril 11, 1940, Saint-Astier
+p517
+aVNovember 7, 1935, Rodez
+p518
+aVFebruary 27, 1942, Saint-Lys
+p519
+aVMay 8, 1933, Toulouse
+p520
+aVSeptember 27, 1942, Elne
+p521
+aVOctober 13, 1938, Cabrerolles
+p522
+aVMay 12, 1938, Hussein Dey
+p523
+aVJune 22, 1939, Ordan-Larroque
+p524
+aVAugust 17, 1937, Bouilh Devant
+p525
+aVApril 20, 1939, Decazeville
+p526
+aVMay 13, 1936, Lavilledieu-du-Templ
+p527
+aVJanuary 28, 1938, Puisserguier
+p528
+aVMarch 7, 1938, Saint-Jean-de-Marsac
+p529
+aVJanuary 25, 1934, Macon
+p530
+aVMay 8, 1942, Montgaillard
+p531
+aVAugust 28, 1935, Ustaritz
+p532
+aVNovember 4, 1939, Soustons
+p533
+aVFebruary 5, 1938, Bagnara
+p534
+aVDecember 7, 1941, Bourg-en-Bresse
+p535
+aVSeptember 13, 1942, Castelsagrat
+p536
+aVJanuary 31, 1932, Aureilhan
+p537
+aVMarch 11, 1943, Lourdes
+p538
+aVAugust 31, 1942, Salies-de-Bearn
+p539
+aVDecember 21, 1943, Payra-sur-l'Hers
+p540
+aVJuly 15, 1937, Saint-Vincent-de-Tyr
+p541
+aVMarch 30, 1944, Lourdes
+p542
+aVJuly 27, 1934, Toulouse
+p543
+aVJuly 27, 1942, L'Isle-Jourdain
+p544
+aVMarch 19, 1943, Brive
+p545
+aVJuly 17, 1943, Bayonne
+p546
+aVDecember 4, 1942, Perigueux
+p547
+aVDecember 27, 1944, Toulouse
+p548
+aVJuly 27, 1943, Tarbes
+p549
+aVNovember 20, 1948, Magescq
+p550
+aVApril 14, 1943, Beaumont-de-Lomagne
+p551
+aVJuly 6, 1947, Saint-Lary
+p552
+aVJanuary 9, 1946, Saint-Vincent-de-Tyr
+p553
+aVJanuary 16, 1938, Bordeaux
+p554
+aVJuly 5, 1943, Pompadour
+p555
+aVApril 24, 1943, Hendaye
+p556
+aVOctober 28, 1941, Coursan
+p557
+aVMay 6, 1944, Mont-de-Marsan
+p558
+aVJanuary 21, 1940, Le Cause
+p559
+aVAugust 28, 1937, Larresingle
+p560
+aVDecember 26, 1942, Colombes
+p561
+aVMarch 21, 1946, Narbonne
+p562
+aVJanuary 14, 1946, Montauban
+p563
+aVOctober 27, 1944, Condom
+p564
+aVApril 7, 1944, Foix
+p565
+aVMarch 5, 1941, Ciboure
+p566
+aVMarch 23, 1943, Saint-Prix
+p567
+aVFebruary 21, 1945, Saint-Lary
+p568
+aVMay 31, 1943, Saint-Cirgues-de-Jor
+p569
+aVDecember 29, 1944, Marseille
+p570
+aVJuly 25, 1946, Tulle
+p571
+aVOctober 27, 1940, Lyon
+p572
+aVJune 16, 1946, Larroque
+p573
+aVJuly 6, 1941, Larressore
+p574
+aVDecember 1, 1947, Moissac
+p575
+aVAugust 29, 1942, Jarrie
+p576
+aVDecember 9, 1944, Thomes
+p577
+aVJuly 28, 1947, Dax
+p578
+aVJuly 16, 1943, Salles-sur-Garonne
+p579
+aVFebruary 9, 1943, Grenoble
+p580
+aVJanuary 1, 1947, La Rochelle
+p581
+aVMay 27, 1946, Rochefort
+p582
+aVAugust 4, 1947, Anglet
+p583
+aVMarch 30, 1947, Semeac
+p584
+aVNovember 15, 1946, Marciac
+p585
+aVApril 11, 1943, Mas d'Auvignon
+p586
+aVJuly 10, 1945, Lourdes
+p587
+aVJanuary 2, 1946, Marseille
+p588
+aVJuly 28, 1947, Saint-Mayme-de-Perey
+p589
+aVMay 8, 1945, Urrugne
+p590
+aVAugust 29, 1944, Orthez
+p591
+aVMay 19, 1945, Saint-Jean-de-Saucie
+p592
+aVApril 11, 1949, Pouillon
+p593
+aVApril 21, 1947, Toulouse
+p594
+aVDecember 10, 1939, Saint-Paul-les-Dax
+p595
+aVMarch 11, 1948, Bergerac
+p596
+aVOctober 21, 1946, Sarrians
+p597
+aVMay 11, 1948, Carmaux
+p598
+aVJune 21, 1948, Brive
+p599
+aVNovember 26, 1950, Beaumont-de-Lomagne
+p600
+aVJune 17, 1944, Le Havre
+p601
+aVAugust 23, 1942, Pau
+p602
+aVDecember 6, 1949, Ibos
+p603
+aVJune 5, 1948, Payra-sur-l'Hers
+p604
+aVSeptember 15, 1946, Castelnaudary
+p605
+aVOctober 1, 1949, Cornebarrieu
+p606
+aVNovember 2, 1951, Tostat
+p607
+aVMarch 20, 1947, Arques
+p608
+aVSeptember 19, 1946, Sete
+p609
+aVApril 25, 1950, Saubion
+p610
+aVMay 28, 1947, Marseillan
+p611
+aVJuly 17, 1948, Beziers
+p612
+aVAugust 28, 1948, Toulouse
+p613
+aVJune 7, 1949, Le Poujol-sur-Oub
+p614
+aVFebruary 21, 1951, Severac-le-Chateau
+p615
+aVJuly 24, 1947, Auch
+p616
+aVFebruary 11, 1947, Bize-Minervois
+p617
+aVSeptember 19, 1946, Sete
+p618
+aVAugust 10, 1945, Grignols
+p619
+aVOctober 30, 1949, Meaux
+p620
+aVApril 15, 1948, Thuir
+p621
+aVJune 4, 1947, Saint-Jean-de-Luz
+p622
+aVSeptember 11, 1949, Pont-de-Vaux
+p623
+aVNovember 23, 1950, Fort-de-l'Eau
+p624
+aVNovember 23, 1949, Sainte-Colombe
+p625
+aVJune 21, 1945, Pamiers
+p626
+aVMarch 19, 1943, Toulon
+p627
+aVSeptember 8, 1949, Vendres
+p628
+aVSeptember 28, 1944, Montauban
+p629
+aVOctober 31, 1952, Le Creusot
+p630
+aVMarch 3, 1951, Ibos
+p631
+aVSeptember 28, 1954, Paris
+p632
+aVOctober 1, 1949, Sauveterre-de-Bearn
+p633
+aVMay 1, 1952, Beziers
+p634
+aVApril 21, 1947, Serignan
+p635
+aVMay 19, 1948, Brive
+p636
+aVJanuary 17, 1954, Ustaritz
+p637
+aVMay 25, 1950, Peyrehorade
+p638
+aVJune 6, 1945, Fontaine-les-Luxeuil
+p639
+aVSeptember 28, 1950, Saint-Maur-des-Fosse
+p640
+aVDecember 31, 1952, Toulouse
+p641
+aVOctober 22, 1954, Beziers
+p642
+aVJuly 10, 1943, Bayonne
+p643
+aVSeptember 8, 1952, Narbonne
+p644
+aVAugust 25, 1950, Peyrestortes
+p645
+aVFebruary 26, 1956, Saint-Cere
+p646
+aVDecember 1, 1951, Beziers
+p647
+aVJuly 5, 1948, Laruns
+p648
+aVJune 20, 1949, Colombes
+p649
+aVNovember 12, 1954, Vendres
+p650
+aVJanuary 21, 1953, Bourg-les-Valence
+p651
+aVOctober 17, 1951, Perpignan
+p652
+aVOctober 28, 1949, Encausse-les-Thermes
+p653
+aVOctober 23, 1950, Lourdes
+p654
+aVJune 2, 1948, Aucamville
+p655
+aVJanuary 11, 1956, Carcassonne
+p656
+aVSeptember 21, 1953, Saint-Vincent-de-Cos
+p657
+aVFebruary 5, 1954, Toulouse
+p658
+aVDecember 24, 1949, Graulhet
+p659
+aVNovember 1, 1953, Biarritz
+p660
+aVMay 15, 1950, Itxassou
+p661
+aVApril 4, 1955, Toulon
+p662
+aVSeptember 3, 1953, Rieumes
+p663
+aVSeptember 14, 1956, Saint-Jean-de-Luz
+p664
+aVJuly 27, 1952, Juillan
+p665
+aVNovember 3, 1955, Oloron-Sainte-Marie
+p666
+aVJanuary 16, 1953, Chaville
+p667
+aVJuly 10, 1952, Oloron-Sainte-Marie
+p668
+aVJune 27, 1957, La Rochelle
+p669
+aVMarch 13, 1957, Mauleon
+p670
+aVMay 7, 1956, Sigean
+p671
+aVDecember 16, 1949, Paris
+p672
+aVJuly 26, 1955, Layrac
+p673
+aVFebruary 13, 1958, Narbonne
+p674
+aVJuly 11, 1955, Narbonne
+p675
+aVJanuary 29, 1957, Tarbes
+p676
+aVAugust 19, 1954, Montlucon
+p677
+aVMarch 3, 1954, Narbonne
+p678
+aVApril 25, 1954, Aiguillon
+p679
+aVJuly 7, 1948, Clermont-Ferrand
+p680
+aVOctober 15, 1959, Calais
+p681
+aVJuly 11, 1955, Bagneres-de-Bigorre
+p682
+aVFebruary 6, 1955, Montrejeau
+p683
+aVMarch 30, 1955, Menzel-Bou-Zulfa
+p684
+aVAugust 31, 1958, Caracas
+p685
+aVDecember 31, 1953, La Rochelle
+p686
+aVApril 23, 1957, Lezignan
+p687
+aVFebruary 19, 1958, Bayonne
+p688
+aVNovember 7, 1960, Montreuil-sous-Bois
+p689
+aVNovember 28, 1957, Nice
+p690
+aVApril 26, 1956, Betbezer
+p691
+aVFebruary 9, 1956, Castillonnes
+p692
+aVJune 17, 1958, Saint-Gaudens
+p693
+aVAugust 20, 1948, Rabastens
+p694
+aVDecember 15, 1952, Beaufort
+p695
+aVAugust 16, 1956, Eymet
+p696
+aVSeptember 11, 1956, Pezenas
+p697
+aVMarch 26, 1956, La Tronche
+p698
+aVJune 25, 1960, Poitiers
+p699
+aVJuly 5, 1953, Galan
+p700
+aVApril 6, 1960, Dax
+p701
+aVJanuary 19, 1961, Monein
+p702
+aVMarch 30, 1955, Montrejeau
+p703
+aVJanuary 20, 1957, Bayonne
+p704
+aVJanuary 9, 1961, Valence
+p705
+aVMay 3, 1959, Ussel
+p706
+aVAugust 15, 1960, Saint-Andre-de-Seign
+p707
+aVFebruary 14, 1959, Lavelanet
+p708
+aVFebruary 14, 1962, Tonneins
+p709
+aVAugust 4, 1959, St-Denis-du-Sig
+p710
+aVJanuary 6, 1958, Cannes
+p711
+aVApril 22, 1957, Dax
+p712
+aVJanuary 16, 1954, Brive
+p713
+aVMarch 17, 1956, Beaumont-de-Lomagne
+p714
+aVSeptember 19, 1957, Toulon
+p715
+aVJune 15, 1953, Lourdes
+p716
+aVDecember 29, 1961, Neuilly-sur-Seine
+p717
+aVSeptember 4, 1962, Arcachon
+p718
+aVJune 17, 1956, Paris
+p719
+aVNovember 29, 1957, Lectoure
+p720
+aVNovember 19, 1963, Toulouse
+p721
+aVAugust 23, 1954, Castillonnes
+p722
+aVJune 8, 1962, Toulon
+p723
+aVAugust 20, 1959, Cavaillon
+p724
+aVNovember 10, 1956, Saint-Sauves-d'Auver
+p725
+aVJune 14, 1960, Cintegabelle
+p726
+aVMay 12, 1962, Cahors
+p727
+aVJuly 31, 1961, Pau
+p728
+aVSeptember 19, 1959, Carmaux
+p729
+aVDecember 16, 1960, Auterive
+p730
+aVJuly 7, 1960, Saint-Cloud
+p731
+aVJanuary 29, 1965, Tarbes
+p732
+aVAugust 17, 1966, Champagnole
+p733
+aVJune 30, 1961, Neuilly-sur-Seine
+p734
+aVApril 1, 1956, Meharin
+p735
+aVJuly 24, 1963, Lourdes
+p736
+aVMarch 26, 1959, Paris
+p737
+aVJune 13, 1957, Montagnac-sur-Auvign
+p738
+aVJanuary 12, 1960, Oujda
+p739
+aVJanuary 30, 1959, Bourgoin
+p740
+aVMarch 10, 1961, Alfou
+p741
+aVJanuary 31, 1964, Evereux
+p742
+aVJanuary 17, 1963, Versailles
+p743
+aVApril 2, 1963, Mauleon
+p744
+aVJuly 27, 1966, Marseille
+p745
+aVFebruary 14, 1967, Escalans
+p746
+aVMarch 31, 1964, Sort-en-Chalosse
+p747
+aVAugust 1, 1961, Lannemezan
+p748
+aVJune 16, 1966, Mont-de-Marsan
+p749
+aVMay 17, 1968, Cahors
+p750
+aVFebruary 8, 1963, Rouen
+p751
+aVSeptember 18, 1962, Nimes
+p752
+aVAugust 12, 1960, Tulle
+p753
+aVJune 13, 1966, Juvisy-sur-Orge
+p754
+aVMarch 2, 1967, Nogaro
+p755
+aVJuly 19, 1966, Biarritz
+p756
+aVAugust 14, 1967, Montlucon
+p757
+aVJune 27, 1961, Cape Town
+p758
+aVDecember 18, 1962, Beziers
+p759
+aVFebruary 2, 1963, Clermont-Ferrand
+p760
+aVApril 19, 1967, Romans-sur-Isere
+p761
+aVAugust 20, 1968, Ouija
+p762
+aVJanuary 2, 1965, Saint-Monde
+p763
+aVNovember 5, 1965, Clermont Ferrand
+p764
+aVAugust 28, 1967, Lagny-sur-Marne
+p765
+aVApril 5, 1967, Tarbes
+p766
+aVJune 11, 1970, Toulouse
+p767
+aVNovember 20, 1963, Condom
+p768
+aVFebruary 6, 1964, Reims
+p769
+aVApril 3, 1962, Saint-Pee-sur-Nivell
+p770
+aVJune 6, 1962, Asnieres
+p771
+aVOctober 16, 1963, Tulle
+p772
+aVApril 27, 1965, Fumel
+p773
+aVMarch 20, 1969, Cahors
+p774
+aVMarch 20, 1966, Firminy
+p775
+aVJuly 28, 1965, Paris
+p776
+aVJuly 1967, Nice
+p777
+aVAugust 1, 1964, Nice
+p778
+aVAugust 26, 1966, Toulouse
+p779
+aVNovember 22, 1963, Dijon
+p780
+aVJuly 19, 1969, Juillac
+p781
+aVJune 24, 1971, Aurillac
+p782
+aVOctober 6, 1961, Cape Town
+p783
+aVFebruary 7, 1963, Castelsarrasin
+p784
+aVOctober 15, 1962, Chatellerault
+p785
+aVOctober 2, 1964, Portet
+p786
+aVMarch 6, 1970, Pamiers
+p787
+aVOctober 5, 1967, Toulouse
+p788
+aVJuly 10, 1967, Bayonne
+p789
+aVMarch 26, 1968, Rodez
+p790
+aVFebruary 17, 1970, Pau
+p791
+aVDecember 19, 1970, Villefranche
+p792
+aVMay 1, 1966, Auch
+p793
+aVAugust 29, 1965, ?
+p794
+aVMarch 29, 1967, Paris
+p795
+aVOctober 21, 1965, ?
+p796
+aVNovember 14, 1965, Chamalieres
+p797
+aVMarch 15, 1970, Condom
+p798
+aVApril 19, 1966, La Seyne
+p799
+aVJune 25, 1970, Lyon
+p800
+aVDecember 19, 1966, Pamiers
+p801
+aVFebruary 12, 1966, Bordeaux
+p802
+aVNovember 22, 1972, Beziers
+p803
+aVApril 5, 1973, Vienne
+p804
+aVMay 15, 1966, Perpignan
+p805
+aVMay 5, 1967, Vittel
+p806
+aVMay 16, 1972, Toulon
+p807
+aVJune 16, 1973, Tulle
+p808
+aVMay 24, 1972, Marseille
+p809
+aVSeptember 25, 1960, Toulouse
+p810
+aVNovember 28, 1965, Aix-le-Province
+p811
+aVOctober 28, 1968, Dakar
+p812
+aVDecember 4, 1972, Narbonne
+p813
+aVApril 4, 1972, Perpignan
+p814
+aVOctober 21, 1974, Tarbes
+p815
+aVApril 15, 1971, Toulouse
+p816
+aVJanuary 21, 1975, Mont-de-Marsan
+p817
+aVDecember 13, 1974, Dax
+p818
+aVMarch 20, 1969, Villeneuve-sur-Lot
+p819
+aVDecember 7, 1973, Toulouse
+p820
+aVSeptember 20, 1969, Le Pradet
+p821
+aVNovember 12, 1973, Bourgoin
+p822
+aVDecember 31, 1972, Vendres
+p823
+aVFebruary 8, 1968, Saint-Girons
+p824
+aVFebruary 17, 1973, Dax
+p825
+aVNovember 25, 1966, Castelnaudary
+p826
+aVMay 4, 1970, Perigueux
+p827
+aVOctober 30, 1968, Fumel
+p828
+aVJanuary 15, 1972, Nice
+p829
+aVJune 1, 1973, Bellegarde
+p830
+aVNovember 7, 1968, Lavelanet
+p831
+aVNovember 6, 1973, Perpignan
+p832
+aVJanuary 21, 1970, Agen
+p833
+aVApril 8, 1971, Dax
+p834
+aVApril 4, 1968, Cherbourg
+p835
+aVApril 3, 1969, Marmande
+p836
+aVFebruary 14, 1973, Vichy
+p837
+aVApril 11, 1973, Aurillac
+p838
+aVApril 10, 1971, Brive
+p839
+aVJuly 30, 1970, Ville Lauragais
+p840
+aVMay 14, 1973, Saint-Foy-la-Grande
+p841
+aVMarch 25, 1974, Kumba
+p842
+aVJanuary 10, 1970, Paris
+p843
+aVMay 15, 1966, Auch
+p844
+aVSeptember 13, 1972, Oloron
+p845
+aVApril 30, 1969, Toulouse
+p846
+aVDecember 17, 1973, Tarbes
+p847
+aVMay 30, 1972, Beziers
+p848
+aVAugust 7, 1976, Pau
+p849
+aVFebruary 28, 1977, Toulon
+p850
+aVMay 20, 1972, Toulon
+p851
+aVJanuary 12, 1971, Soissons
+p852
+aVDecember 5, 1976, Toulouse
+p853
+aVMay 10, 1973, Carmaux
+p854
+aVMarch 16, 1971, Hyeres
+p855
+aVOctober 5, 1969, Canedo Ribeira dPena
+p856
+aVJanuary 2, 1972, Perpignan
+p857
+aVMay 25, 1977
+p858
+aVJune 5, 1975, Le Chesnay
+p859
+aVApril 8, 1976, Givors
+p860
+aVMarch 19, 1973, Narbonne
+p861
+aVJune 1, 1974, Belfort
+p862
+aVNovember 13, 1973, Harfleur
+p863
+aVFebruary 11, 1971, Lezignan
+p864
+aVMay 20, 1973, Bordeaux
+p865
+aVMarch 3, 1968, Aubagne
+p866
+aVOctober 25, 1977, Frejus
+p867
+aVMarch 6, 1974, Grenoble
+p868
+aVOctober 20, 1975, Tarbes
+p869
+aVFebruary 25, 1973, Cognac
+p870
+aVJuly 16, 1970, Lourdes
+p871
+aVMarch 13, 1972, Valence
+p872
+aVNovember 26, 1977, Toulon
+p873
+aVSeptember 30, 1969, Mont-de-Marsan
+p874
+aVJuly 3, 1972, Malmesbury
+p875
+aVNovember 9, 1971, Givors
+p876
+aVJanuary 17, 1969, Auckland
+p877
+aVDecember 8, 1977, Valence
+p878
+aVOctober 20, 1973, Nimes
+p879
+aVNovember 23, 1977, La Rochelle
+p880
+aVMarch 8, 1976, Vichy
+p881
+aVMarch 18, 1972, Athis-Mons
+p882
+aVJuly 20, 1978, Brive-la-Gallarde
+p883
+aVAugust 4, 1977, Suresnes
+p884
+aVJune 20, 1979, Perpignan
+p885
+aVApril 27, 1974, La Seyne-sur-Mer
+p886
+aVFebruary 9, 1971, Lagarenne
+p887
+aVSeptember 14, 1976, Bourg-en-Bresse
+p888
+aVApril 9, 1975, Pau
+p889
+aVJuly 22, 1974, Auch
+p890
+aVMay 29, 1974, Dakar
+p891
+aVDecember 9, 1975, Saint-Vallier
+p892
+aVAugust 1, 1968, Angouleme
+p893
+aVJuly 22, 1976, Dax
+p894
+aVSeptember 22, 1977, Bergerac
+p895
+aVJanuary 3, 1972, Saint-Saulve
+p896
+aVJuly 28, 1978, Castres
+p897
+aVMay 13, 1981, Montpellier
+p898
+aVMarch 23, 1974, Toulouse
+p899
+aVApril 5, 1979, Senlis
+p900
+aVDecember 7, 1978, Pau
+p901
+aVJanuary 6, 1978, Agboville
+p902
+aVMarch 2, 1979, Toulouse
+p903
+aVJanuary 15, 1979, Tyrosse
+p904
+aVAugust 12, 1972, Auckland
+p905
+aVOctober 15, 1972, Lyon
+p906
+aVMay 20, 1982, Castres
+p907
+aVFebruary 6, 1979, Nimes
+p908
+aVSeptember 26, 1980, Beaumont
+p909
+aVJune 12, 1979, Pau
+p910
+aVOctober 16, 1982, Toulouse
+p911
+aVMay 22, 1973, Auch
+p912
+aVSeptember 26, 1979, Beziers
+p913
+aVSeptember 17, 1972, Johannesburg
+p914
+aVMay 26, 1979, Castres
+p915
+aVFebruary 20, 1980, Bayonne
+p916
+aVAugust 26, 1974, Nimes
+p917
+aVAugust 10, 1979, Aubenas
+p918
+aVMay 5, 1971, Mauvezin
+p919
+aVFebruary 24, 1976, Narbonne
+p920
+aVMay 7, 1981, Echirolles
+p921
+aVJuly 6, 1974, Nanterre
+p922
+aVSeptember 19, 1980, Brive-la-Gallarde
+p923
+aVDecember 2, 1977, Senlis
+p924
+aVMay 23, 1980, Perpignan
+p925
+aVSeptember 19, 1979, Benoni
+p926
+aVOctober 5, 1980, Lyon
+p927
+aVFebruary 9, 1978, Saint-Gaudens
+p928
+aVApril 2, 1981, Bayonne
+p929
+aVSeptember 20, 1978, Bourgoin
+p930
+aVSeptember 3, 1977, Beaumont
+p931
+aVJune 7, 1975, Toulouse
+p932
+aVDecember 19, 1983, Kinshasa, Zaire
+p933
+aVJanuary 26, 1975, Villefranche
+p934
+aVMay 22, 1976, Neuilly-sur-Seine
+p935
+aVMay 26, 1977, Clamart
+p936
+aVJuly 3, 1980, Aix-en-Province
+p937
+aVJanuary 13, 1978, Bayonne
+p938
+aVSeptember 28, 1972, Perpignan
+p939
+aVAugust 15, 1973, Talence
+p940
+aVJanuary 26, 1983, Beziers
+p941
+aVJanuary 12, 1982, Paris
+p942
+aVAugust 4, 1982, Frejus
+p943
+aVJuly 29, 1978, Tarbes
+p944
+aVSeptember 7, 1983, Lavelanet
+p945
+aVOctober 30, 1982, Perpignan
+p946
+aVJuly 8, 1980, Agen
+p947
+aVJanuary 17, 1984, Sens, Burgundy
+p948
+aVApril 20, 1983, Ris-Orangis
+p949
+aVOctober 31, 1972, Thouars
+p950
+aVOctober 12, 1981, Toulouse
+p951
+aVAugust 8, 1979, Vienne
+p952
+aVJune 7, 1981, Valence
+p953
+aVNovember 18, 1981, Abidjan, Ivory Coas
+p954
+aVOctober 2, 1981, Woluwe-Saint-Lambert
+p955
+aVMarch 31, 1985, Saint-Doulchard
+p956
+aVOctober 24, 1985, Tarbes
+p957
+aVDecember 20, 1976, Mont-de-Marsan
+p958
+aVDecember 23, 1980, Grenoble
+p959
+aVOctober 4, 1982, Toulouse
+p960
+aVMarch 4, 1977, Toulon
+p961
+aVNovember 1, 1986, Auch
+p962
+aVJuly 31, 1981, Rodez
+p963
+aVJune 2, 1984, Reims
+p964
+aVNovember 27, 1985, Limoges
+p965
+aVAugust 9, 1975, Chambery
+p966
+aVOctober 30, 1981, Tarbes
+p967
+aVMarch 26, 1982, Cannes
+p968
+aVApril 13, 1977, Perpignan
+p969
+aVJune 26, 1984, Toulouse
+p970
+aVJanuary 17, 1972, Cenon
+p971
+aVJuly 21, 1986, Ouagadougou
+p972
+aVNovember 17, 1981, Lille
+p973
+aVNovember 26, 1977, Montauban
+p974
+aVMay 4, 1983, Le Puy-en-Velay
+p975
+aVNovember 11, 1986, Herault
+p976
+aVJanuary 19, 1980, Saint-Gaudens
+p977
+aVNovember 15, 1988, Metz
+p978
+aVFebruary 5, 1986, Paris
+p979
+aVFebruary 12, 1983, Clermont-Ferrand
+p980
+aVOctober 27, 1983, Agen
+p981
+aVApril 15, 1988, Bourgoin
+p982
+aVMay 25, 1983, Savignu-sur-Orge
+p983
+aVJune 17, 1986, Ceret
+p984
+aVApril 21, 1985, Montpellier
+p985
+aVMarch 22, 1978, Agen
+p986
+aVSeptember 9, 1987, Montauban
+p987
+aVMay 7, 1980, Grenoble
+p988
+aVMay 9, 1977, Tremblay-les-Gonesse
+p989
+aVJuly 26, 1984, Paris
+p990
+aVMay 14, 1985, Niort
+p991
+aVNovember 6, 1975, Perpignan
+p992
+aVApril 29, 1985, Oloron-Sainte-Marie
+p993
+aVDecember 4, 1983, Talence
+p994
+aVJuly 28, 1986, Epinal
+p995
+aVApril 3, 1983, Castres
+p996
+aVJanuary 5, 1984, Pau
+p997
+aVNovember 16, 1986, Toulouse
+p998
+aVSeptember 17, 1988, Creteil
+p999
+aVAugust 20, 1985, Tulle
+p1000
+aVDecember 19, 1983, Perigueux
+p1001
+aVAugust 1, 1981, Grenoble
+p1002
+aVOctober 26, 1983, Marseille
+p1003
+aVMarch 3, 1989, Langon
+p1004
+aVApril 13, 1989, Paray-le-Monial
+p1005
+aVJanuary 2, 1984, La Fere
+p1006
+aVDecember 27, 1985, Frejus
+p1007
+aVMarch 28, 1989, Tarbes
+p1008
+aVSeptember 20, 1985, Perpignan
+p1009
+aVDecember 26, 1981, Carcassonne
+p1010
+aVJune 29, 1985, Perpignan
+p1011
+aVDecember 17, 1980, Dijon
+p1012
+aVJune 2, 1987, Pamiers
+p1013
+aVOctober 28, 1988, Tours
+p1014
+aVFebruary 12, 1991, Toulouse
+p1015
+aVJanuary 20, 1988, Paris
+p1016
+aVJanuary 14, 1988, Hyeres
+p1017
+aVDecember 16, 1991, Colmar
+p1018
+aVApril 13, 1990, Lot-et-Garonne
+p1019
+aVApril 21, 1989, Foix
+p1020
+aVSeptember 14, 1990, Mont-de-Marsan
+p1021
+aVDecember 31, 1993, Frejus
+p1022
+aVDecember 30, 1988, Bordeaux
+p1023
+aVMarch 1, 1984, Clermont-Ferrand
+p1024
+aVJanuary 2, 1982, Narbonne
+p1025
+aVNovember 18, 1982, Port Vila
+p1026
+aVOctober 21, 1991, Noumea, New Caledo
+p1027
+aVOctober 20, 1984, Durban
+p1028
+aVMarch 26, 1994, La Seyne-sur-Mer
+p1029
+aVApril 3, 1989, Oloron-Sainte-Marie
+p1030
+aVApril 21, 1985, Longjumeau
+p1031
+aVOctober 9, 1989, Cambrai
+p1032
+aVMarch 28, 1987, Frankfort
+p1033
+aVJune 4, 1989, Moorreesburg
+p1034
+aVMay 2, 1984, Mont-de-Marsan
+p1035
+aVAugust 25, 1990, Trappes
+p1036
+aVOctober 18, 1989, Sarcelles
+p1037
+aVMarch 27, 1989, Algiers
+p1038
+aVJune 6, 1988, Aubergenville
+p1039
+aVAugust 20, 1991, Neuilly-sur-Seine
+p1040
+aVJuly 22, 1987, Neuilly-sur-Seine
+p1041
+aVNovember 19, 1990, Toulouse
+p1042
+aVApril 2, 1986, Perpignan
+p1043
+aVApril 7, 1988, Pithiviers
+p1044
+aVJanuary 14, 1990, Sainte-Foy-la-Grande
+p1045
+aVAugust 5, 1983, Basse-Ham
+p1046
+aVAugust 24, 1989, Bourgoin
+p1047
+aVMay 4, 1986, Krugersdorp
+p1048
+aVSeptember 18, 1993, Biarritz
+p1049
+aVMarch 26, 1990, Timaru
+p1050
+aVFebruary 13, 1990, Toulon
+p1051
+aVJune 25, 1986, East London
+p1052
+aVMay 11, 1993, Saint-Pee-sur-Nivell
+p1053
+aVApril 23, 1989, Combronde
+p1054
+aVJuly 11, 1990, Naluwai
+p1055
+aVDecember 4, 1988, Lyon
+p1056
+aVNovember 22, 1991, Hauts-de-Seine
+p1057
+aVOctober 7, 1992, Paris
+p1058
+aVFebruary 6, 1993, Montlucon
+p1059
+aVMay 1, 1992, Rangiora
+p1060
+aVJune 2, 1994, Aubervilliers
+p1061
+aVNovember 1, 1992, Val-d'Oise
+p1062
+aVDecember 18, 1995, Auxerre
+p1063
+aVJune 22, 1989, Juvisy-sur-Orge
+p1064
+aVApril 22, 1988, Wallis & F
+p1065
 a.

@@ -3145,4 +3145,1904 @@ aV\u91d1\u5ddd (Kanagawa), \u9ad8\u6881\u5fa1\u6d25\u7dda, \u5317\u533a, \u5ca1\
 p1665
 aV\u795e\u5948\u5ddd\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, \u65e5\u672c
 p1666
+aa(lp1667
+V\u5175\u5eab\u770c, \u65e5\u672c
+p1668
+aV\u5175\u5eab, \u56fd\u90532\u53f7, \u5175\u5eab\u533a, \u795e\u6238\u5e02, \u52a0\u53e4\u90e1, \u5175\u5eab\u770c, 6500017, \u65e5\u672c
+p1669
+aa(lp1670
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p1671
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p1672
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p1673
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p1674
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p1675
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p1676
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p1677
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1678
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1679
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p1680
+aa(lp1681
+VFagersta, Västmanlands län, Svealand, Sverige
+p1682
+aVDowntown, Santa Cruz, Santa Cruz County, California, 1982, United States of America
+p1683
+aVElewijt, Zemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1982, België - Belgique - Belgien
+p1684
+aVWeerde, Zemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1982, België - Belgique - Belgien
+p1685
+aVVendes, Saint-Martin (VS), Hérens, Valais - Wallis, 1982, Schweiz, Suisse, Svizzera, Svizra
+p1686
+aV1982, Faubourg de Tournai, Saint-Amand-les-Eaux, Valenciennes, Nord, Nord-Pas-de-Calais-Picardie, France métropolitaine, 59230, France
+p1687
+aV1982, Podva\u017eie, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01826, Slovensko
+p1688
+aVR-C, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1689
+aV1982, Wilmersdorfer Straße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10627, Deutschland
+p1690
+aVSouthwest Garden Home & 71st, Southwest Garden Home Road, Portland, Washington County, Oregon, 97223, United States of America
+p1691
+aa(lp1692
+VVästerås, Västmanlands län, Svealand, Sverige
+p1693
+aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1694
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+p1695
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+p1696
+aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
+p1697
+aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
+p1698
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1699
+aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1700
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1701
+aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1702
+aa(lp1703
+V\u798f\u5ca1\u770c, \u65e5\u672c
+p1704
+aV\u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p1705
+aV\u798f\u5ca1, \u798f\u5ca1\u505c\u8eca\u5834\u7dda, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, \u65e5\u672c
+p1706
+aV\u798f\u5ca1, \u56fd\u90538\u53f7, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, 939-0192, \u65e5\u672c
+p1707
+aVFukuoka, 19, Rue d'Avron, Saint-Blaise, Charonne, 20e, Paris, Île-de-France, France métropolitaine, 75020, France
+p1708
+aVFukuoka, 373, Stratford Road, Shirley, Solihull, West Midlands, England, B90, United Kingdom
+p1709
+aVFukuoka, 90, Rue Louis de Savoie, Les Rives-de-la-Morges, Morges, District de Morges, Vaud, 1110, Schweiz, Suisse, Svizzera, Svizra
+p1710
+aV\u798f\u5ca1IC, \u798f\u5ca1IC\u5165\u53e3, \u7c95\u5c4b\u753a, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p1711
+aa(lp1712
+V\u6771\u4eac\u90fd, \u65e5\u672c
+p1713
+aV\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u65e5\u672c
+p1714
+aV\u6771\u4eac, 407, \u4e00\u4e01\u76ee, \u4e38\u306e\u5185, \u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 100-0005, \u65e5\u672c
+p1715
+aVTokyo, Hayapuga Rural LLG, Tari-Pori District, Hela, Highlands Region, Papua Niugini
+p1716
+aVTokyo, San Antonio, Bexar County, Texas, 78230, United States of America
+p1717
+aVTokyo, Nouakchott, \u0646\u0648\u0627\u0643\u0634\u0648\u0637, 170, Mauritanie \u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627
+p1718
+aVTokyo, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p1719
+aVTokyo, Don Mariano Home Settlement, Batasan Hills, Holy Spirit, District II, Quezon City, Metro Manila, 1119, Philippines
+p1720
+aVTokyo, Summerwind Village, Dasmariñas, Cavite, Calabarzon, 4114, Philippines
+p1721
+aVTokyo, Gruar I, Cainta, Rizal, Calabarzon, 1900, Philippines
+p1722
+aa(lp1723
+V\u5948\u826f\u770c, \u65e5\u672c
+p1724
+aV\u5948\u826f\u5e02, \u78ef\u57ce\u90e1 (Shiki District), \u5948\u826f\u770c, \u65e5\u672c
+p1725
+aVNara, Cercle de Nara, Koulikoro, Mali
+p1726
+aV\u5948\u826f, \u4e09\u6761\u901a\u308a (Sanj\u014d D\u014dri), \u5927\u5bae\u753a\u4e00\u4e01\u76ee, \u5948\u826f\u5e02, \u78ef\u57ce\u90e1 (Shiki District), \u5948\u826f\u770c, 630-8122, \u65e5\u672c
+p1727
+aVNara, Kecamatan Umbu ratunggai Barat, Nusa Tenggara Timur, Indonesia
+p1728
+aVNara, Menaa, Batna - \u0628\u0627\u062a\u0646\u0629, Algérie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p1729
+aVNara, Nkanu East, Enugu, Nigeria
+p1730
+aVNara, North Shewa (K4), Oromia, \u12a2\u1275\u12ee\u1335\u12eb Ethiopia
+p1731
+aVLa Nara, Muriel, Valladolid, Castilla y León, España
+p1732
+aV\u041d\u0430\u0440\u0430, \u0410\u0442\u0435\u043f\u0446\u0435\u0432\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u041d\u0430\u0440\u043e-\u0424\u043e\u043c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1733
+aa(lp1734
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p1735
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p1736
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p1737
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p1738
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p1739
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p1740
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p1741
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1742
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1743
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p1744
+aa(lp1745
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p1746
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p1747
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p1748
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p1749
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p1750
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p1751
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p1752
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1753
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1754
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p1755
+aa(lp1756
+V\u57fc\u7389\u770c, \u65e5\u672c
+p1757
+aV\u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p1758
+aVSaitama-shi, \u57fc\u7389\u770c, \u65e5\u672c
+p1759
+aV\u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p1760
+aVSaitama, Bambu Estate - South, Purok 20, New Loon, Samulco Village, Davao City, Davao, 8000, Philippines
+p1761
+aVSaitama, 19, Rue La Boétie, Madeleine, 8e, Paris, Île-de-France, France métropolitaine, 75008, France
+p1762
+aV\u5e02\u7acb\u6d66\u548c\u5927\u91cc\u5c0f\u5b66\u6821, \u3072\u307e\u308f\u308a\u901a\u308a, \u5357\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3300061, \u65e5\u672c
+p1763
+aV\u3055\u3044\u305f\u307e\u5e02\u7acb\u5357\u6d66\u548c\u5c0f\u5b66\u6821, \u65e7\u4e2d\u5c71\u9053 (Kyu Nakasen-dou), \u5357\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3300061, \u65e5\u672c
+p1764
+aV\u5317\u5927\u5bae\u99c5\u81ea\u8ee2\u8eca\u99d0\u8eca\u5834, \u65e7\u4e2d\u5c71\u9053, \u571f\u624b\u753a \u4e09\u4e01\u76ee, \u5927\u5bae\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p1765
+aV\u3055\u3044\u305f\u307e\u5e02, \u3082\u307f\u3058\u901a\u308a, \u5317\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3370002, \u65e5\u672c
+p1766
+aa(lp1767
+V\u795e\u5948\u5ddd\u770c, \u65e5\u672c
+p1768
+aV\u795e\u5948\u5ddd, \u9752\u6728\u6a4b, \u795e\u5948\u5ddd\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, 221-0056, \u65e5\u672c
+p1769
+aV\u91d1\u5ddd (Kanagawa), \u9ad8\u6881\u5fa1\u6d25\u7dda, \u5317\u533a, \u5ca1\u5c71\u5e02, \u4e45\u7c73\u90e1, \u5ca1\u5c71\u770c, \u65e5\u672c
+p1770
+aV\u795e\u5948\u5ddd\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, \u65e5\u672c
+p1771
+aa(lp1772
+V\u57fc\u7389\u770c, \u65e5\u672c
+p1773
+aV\u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p1774
+aVSaitama-shi, \u57fc\u7389\u770c, \u65e5\u672c
+p1775
+aV\u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p1776
+aVSaitama, Bambu Estate - South, Purok 20, New Loon, Samulco Village, Davao City, Davao, 8000, Philippines
+p1777
+aVSaitama, 19, Rue La Boétie, Madeleine, 8e, Paris, Île-de-France, France métropolitaine, 75008, France
+p1778
+aV\u5e02\u7acb\u6d66\u548c\u5927\u91cc\u5c0f\u5b66\u6821, \u3072\u307e\u308f\u308a\u901a\u308a, \u5357\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3300061, \u65e5\u672c
+p1779
+aV\u3055\u3044\u305f\u307e\u5e02\u7acb\u5357\u6d66\u548c\u5c0f\u5b66\u6821, \u65e7\u4e2d\u5c71\u9053 (Kyu Nakasen-dou), \u5357\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3300061, \u65e5\u672c
+p1780
+aV\u5317\u5927\u5bae\u99c5\u81ea\u8ee2\u8eca\u99d0\u8eca\u5834, \u65e7\u4e2d\u5c71\u9053, \u571f\u624b\u753a \u4e09\u4e01\u76ee, \u5927\u5bae\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p1781
+aV\u3055\u3044\u305f\u307e\u5e02, \u3082\u307f\u3058\u901a\u308a, \u5317\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3370002, \u65e5\u672c
+p1782
+aa(lp1783
+VUnited States of America
+p1784
+aVMichigan, United States of America
+p1785
+aV\u4e09\u91cd\u770c, \u65e5\u672c
+p1786
+aVMiami County, Kansas, United States of America
+p1787
+aVMI, LOM, Italia
+p1788
+aV\u7709\u53bf, \u5b9d\u9e21\u5e02 / Baoji, \u9655\u897f\u7701, \u4e2d\u56fd
+p1789
+aVMili Atoll, Mile, Aolep\u0101n Aor\u014dkin M\u0327aje\u013c
+p1790
+aV\u5f25\u52d2\u5e02 (Mile), \u7ea2\u6cb3\u5dde (Honghe), \u4e91\u5357\u7701, \u4e2d\u56fd
+p1791
+aVMie, CO, LOM, Italia
+p1792
+aVMistelbach, Niederösterreich, Österreich
+p1793
+aa(lp1794
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p1795
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p1796
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p1797
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p1798
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p1799
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p1800
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p1801
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1802
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1803
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p1804
+aa(lp1805
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p1806
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p1807
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p1808
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p1809
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p1810
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p1811
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p1812
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1813
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1814
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p1815
+aa(lp1816
+V\u5175\u5eab\u770c, \u65e5\u672c
+p1817
+aV\u5175\u5eab, \u56fd\u90532\u53f7, \u5175\u5eab\u533a, \u795e\u6238\u5e02, \u52a0\u53e4\u90e1, \u5175\u5eab\u770c, 6500017, \u65e5\u672c
+p1818
+aa(lp1819
+V\u3084\u307e\u306a\u3057\u4f1d\u7d71\u5de5\u82b8\u9928, \u767d\u4e95\u6cb3\u539f\u516b\u7530\u7dda, \u5927\u9593\u7530, \u7b1b\u5439\u5e02, \u5357\u5de8\u6469\u90e1, \u5c71\u68a8\u770c, \u65e5\u672c
+p1820
+aV\u5c71\u68a8\u5e02\u5730\u57df\u4ea4\u6d41 \u30bb\u30f3\u30bf\u30fc\u8857\u306e\u99c5 \u3084\u307e\u306a\u3057, \u4e07\u529b\u5c0f\u5c4b\u6577\u7dda, \u5c71\u68a8\u5e02, \u5357\u5de8\u6469\u90e1, \u5c71\u68a8\u770c, 405-0018, \u65e5\u672c
+p1821
+aa(lp1822
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p1823
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p1824
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p1825
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p1826
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p1827
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p1828
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p1829
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1830
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1831
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p1832
+aa(lp1833
+VHamilton, Ontario, Canada
+p1834
+aVHamilton, Hamilton City, Waikato, New Zealand/Aotearoa
+p1835
+aVHamilton County, Illinois, United States of America
+p1836
+aVHamilton County, Kansas, United States of America
+p1837
+aVHamilton, Tennessee, United States of America
+p1838
+aVHamilton, Bermuda
+p1839
+aVHamilton County, Ohio, United States of America
+p1840
+aVHamilton, Butler County, Ohio, United States of America
+p1841
+aVHamilton, South Lanarkshire, Scotland, United Kingdom
+p1842
+aVHamilton, City of Hamilton, Bermuda
+p1843
+aa(lp1844
+VNew Plymouth, New Plymouth District, Taranaki, New Zealand/Aotearoa
+p1845
+aVNew Plymouth, The Bahamas
+p1846
+aVNew Plymouth, Payette County, Idaho, United States of America
+p1847
+aVNew Plymouth, Brown Township, Vinton County, Ohio, United States of America
+p1848
+aVNew Plymouth, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8HF, United Kingdom
+p1849
+aVNew Plymouth, Westwood Hill, Westwood, Hudson Bay, South Lanarkshire, Scotland, G75 8EZ, United Kingdom
+p1850
+aa(lp1851
+V\u9577\u5d0e\u770c, \u65e5\u672c
+p1852
+aV\u9577\u5d0e\u5e02, \u897f\u5f7c\u6775\u90e1, \u9577\u5d0e\u770c, \u65e5\u672c
+p1853
+aVNagasaki, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p1854
+aVNagasaki, Tepic, Nayarit, 63175, Estados Unidos Mexicanos
+p1855
+aVNagasaki, Grand Bourg, Partido de Malvinas Argentinas, Bs. As., 1616, Argentina
+p1856
+aVNagasaki, Pablo Nogués, Partido de Malvinas Argentinas, Bs. As., 1613, Argentina
+p1857
+aVNagasaki, Bellavista de La Florida, La Florida, Provincia de Santiago, Región Metropolitana de Santiago, 8240000, Chile
+p1858
+aVNagasaki, Metro South Executive Subd., Biclatan, General Trias, Cavite, Calabarzon, 4107, Philippines
+p1859
+aVNagasaki, Bambu Estate - South, Purok 20, New Loon, Samulco Village, Davao City, Davao, 8000, Philippines
+p1860
+aV\u9577\u5d0e, \u56fd\u9053202\u53f7\u5927\u6ce2\u6b62\u901a\u308a, \u9577\u5d0e\u5e02, \u897f\u5f7c\u6775\u90e1, \u9577\u5d0e\u770c, 8500905, \u65e5\u672c
+p1861
+aa(lp1862
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p1863
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p1864
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p1865
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p1866
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p1867
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p1868
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p1869
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1870
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1871
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p1872
+aa(lp1873
+V\u6771\u4eac\u90fd, \u65e5\u672c
+p1874
+aV\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u65e5\u672c
+p1875
+aV\u6771\u4eac, 407, \u4e00\u4e01\u76ee, \u4e38\u306e\u5185, \u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 100-0005, \u65e5\u672c
+p1876
+aVTokyo, Hayapuga Rural LLG, Tari-Pori District, Hela, Highlands Region, Papua Niugini
+p1877
+aVTokyo, San Antonio, Bexar County, Texas, 78230, United States of America
+p1878
+aVTokyo, Nouakchott, \u0646\u0648\u0627\u0643\u0634\u0648\u0637, 170, Mauritanie \u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627
+p1879
+aVTokyo, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p1880
+aVTokyo, Don Mariano Home Settlement, Batasan Hills, Holy Spirit, District II, Quezon City, Metro Manila, 1119, Philippines
+p1881
+aVTokyo, Summerwind Village, Dasmariñas, Cavite, Calabarzon, 4114, Philippines
+p1882
+aVTokyo, Gruar I, Cainta, Rizal, Calabarzon, 1900, Philippines
+p1883
+aa(lp1884
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p1885
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p1886
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p1887
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p1888
+aVOsaka, Wise, Virginia, United States of America
+p1889
+aVOsaka, Escambia County, Alabama, United States of America
+p1890
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p1891
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p1892
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p1893
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p1894
+aa(lp1895
+V\u611b\u77e5\u770c, \u65e5\u672c
+p1896
+aV\u611b\u77e5\u90e1, \u611b\u77e5\u770c, \u65e5\u672c
+p1897
+aVAichi, Likiep, Aolep\u0101n Aor\u014dkin M\u0327aje\u013c
+p1898
+aV\u611b\u77e5\u6c60 (Aichi-Ike), \u65e5\u9032\u5e02, \u4e39\u7fbd\u90e1, \u611b\u77e5\u770c, \u65e5\u672c
+p1899
+aa(lp1900
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p1901
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p1902
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p1903
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p1904
+aVOsaka, Wise, Virginia, United States of America
+p1905
+aVOsaka, Escambia County, Alabama, United States of America
+p1906
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p1907
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p1908
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p1909
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p1910
+aa(lp1911
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p1912
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p1913
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p1914
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p1915
+aVOsaka, Wise, Virginia, United States of America
+p1916
+aVOsaka, Escambia County, Alabama, United States of America
+p1917
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p1918
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p1919
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p1920
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p1921
+aa(lp1922
+VKaiapoi, Waimakariri District, Canterbury, New Zealand/Aotearoa
+p1923
+aa(lp1924
+V\u6771\u4eac\u90fd, \u65e5\u672c
+p1925
+aV\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u65e5\u672c
+p1926
+aV\u6771\u4eac, 407, \u4e00\u4e01\u76ee, \u4e38\u306e\u5185, \u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 100-0005, \u65e5\u672c
+p1927
+aVTokyo, Hayapuga Rural LLG, Tari-Pori District, Hela, Highlands Region, Papua Niugini
+p1928
+aVTokyo, San Antonio, Bexar County, Texas, 78230, United States of America
+p1929
+aVTokyo, Nouakchott, \u0646\u0648\u0627\u0643\u0634\u0648\u0637, 170, Mauritanie \u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627
+p1930
+aVTokyo, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p1931
+aVTokyo, Don Mariano Home Settlement, Batasan Hills, Holy Spirit, District II, Quezon City, Metro Manila, 1119, Philippines
+p1932
+aVTokyo, Summerwind Village, Dasmariñas, Cavite, Calabarzon, 4114, Philippines
+p1933
+aVTokyo, Gruar I, Cainta, Rizal, Calabarzon, 1900, Philippines
+p1934
+aa(lp1935
+V\u611b\u77e5\u770c, \u65e5\u672c
+p1936
+aV\u611b\u77e5\u90e1, \u611b\u77e5\u770c, \u65e5\u672c
+p1937
+aVAichi, Likiep, Aolep\u0101n Aor\u014dkin M\u0327aje\u013c
+p1938
+aV\u611b\u77e5\u6c60 (Aichi-Ike), \u65e5\u9032\u5e02, \u4e39\u7fbd\u90e1, \u611b\u77e5\u770c, \u65e5\u672c
+p1939
+aa(lp1940
+VRotorua, Rotorua District, Bay of Plenty, New Zealand/Aotearoa
+p1941
+aVRotorua, Windmill Road, Bradfield Civil Parish, Tendring, Essex, East of England, England, CO11 2QS, United Kingdom
+p1942
+aa(lp1943
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p1944
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p1945
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p1946
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p1947
+aVOsaka, Wise, Virginia, United States of America
+p1948
+aVOsaka, Escambia County, Alabama, United States of America
+p1949
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p1950
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p1951
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p1952
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p1953
+aa(lp1954
+V\uc11c\uc6b8, \ub300\ud55c\ubbfc\uad6d
+p1955
+aVSeoul, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p1956
+aVSeoul, Pallas Athena Executive Village Phase 2, Imus, Cavite, Calabarzon, 4103, Philippines
+p1957
+aVSeoul, Rue de Lancry, Porte-St-Martin, 10e, Paris, Île-de-France, France métropolitaine, 75010, France
+p1958
+aVSeoul, 19, Rue Tiphaine, Grenelle, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1959
+aVSeoul, 26, Praterstraße, Afrikanerviertel, KG Leopoldstadt, Leopoldstadt, Wien, 1020, Österreich
+p1960
+aVSeoul, 25, Ronda de Segovia, Barrio Palacio, Centro, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28005, España
+p1961
+aVSeoul, 290, Alsterdorfer Straße, Alsterdorf, Hamburg-Nord, Hamburg, 22297, Deutschland
+p1962
+aVSeoul, Skjulhøj Allé, Vanløse, København, Københavns Kommune, Region Hovedstaden, 2720, Danmark
+p1963
+aVSeoul, Rue El Hadji Amadou Assane Ndoye, Plateau, Dakar, 24951, Senegal
+p1964
+aa(lp1965
+VBroken Hill, City of Broken Hill, New South Wales, Australia
+p1966
+aVBroken Hill, Kings County, California, United States of America
+p1967
+aVBroken Hill, Hinsdale County, Colorado, United States of America
+p1968
+aVBroken Hill, Selwyn District, Canterbury, New Zealand/Aotearoa
+p1969
+aVBroken Hill, Fauquier, Virginia, United States of America
+p1970
+aVBroken Hill, Unincorporated Area of New South Wales, New South Wales, 2880, Australia
+p1971
+aVBroken Hill, 11, Somes Road, Lyttelton, Christchurch, Christchurch City, Canterbury, 8241, New Zealand/Aotearoa
+p1972
+aVBroken Hill, Crystal Street, Broken Hill, City of Broken Hill, New South Wales, 2880, Australia
+p1973
+aa(lp1974
+V\u57fc\u7389\u770c, \u65e5\u672c
+p1975
+aV\u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p1976
+aVSaitama-shi, \u57fc\u7389\u770c, \u65e5\u672c
+p1977
+aV\u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p1978
+aVSaitama, Bambu Estate - South, Purok 20, New Loon, Samulco Village, Davao City, Davao, 8000, Philippines
+p1979
+aVSaitama, 19, Rue La Boétie, Madeleine, 8e, Paris, Île-de-France, France métropolitaine, 75008, France
+p1980
+aV\u5e02\u7acb\u6d66\u548c\u5927\u91cc\u5c0f\u5b66\u6821, \u3072\u307e\u308f\u308a\u901a\u308a, \u5357\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3300061, \u65e5\u672c
+p1981
+aV\u3055\u3044\u305f\u307e\u5e02\u7acb\u5357\u6d66\u548c\u5c0f\u5b66\u6821, \u65e7\u4e2d\u5c71\u9053 (Kyu Nakasen-dou), \u5357\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3300061, \u65e5\u672c
+p1982
+aV\u5317\u5927\u5bae\u99c5\u81ea\u8ee2\u8eca\u99d0\u8eca\u5834, \u65e7\u4e2d\u5c71\u9053, \u571f\u624b\u753a \u4e09\u4e01\u76ee, \u5927\u5bae\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p1983
+aV\u3055\u3044\u305f\u307e\u5e02, \u3082\u307f\u3058\u901a\u308a, \u5317\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3370002, \u65e5\u672c
+p1984
+aa(lp1985
+V\u798f\u5cf6\u770c, \u65e5\u672c
+p1986
+aV\u798f\u5cf6\u5e02, \u5b89\u9054\u90e1, \u798f\u5cf6\u770c, \u65e5\u672c
+p1987
+aV\u798f\u5cf6\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p1988
+aV\u798f\u5cf6, \u6771\u897f\u81ea\u7531\u901a\u8def, \u798f\u5cf6\u5e02, \u5b89\u9054\u90e1, \u798f\u5cf6\u770c, \u65e5\u672c
+p1989
+aV\u798f\u5cf6\u753a, \u677e\u524d\u90e1, \u6e21\u5cf6\u7dcf\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, \u65e5\u672c
+p1990
+aV\u798f\u5cf6, \u8056\u5929\u901a\u308a\u5546\u5e97\u8857 (SyotenDori Mall), \u798f\u5cf6\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 553-0003, \u65e5\u672c
+p1991
+aV\u798f\u5cf6, \u56fd\u90532\u53f7, \u798f\u5cf6\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 553-0003, \u65e5\u672c
+p1992
+aVFukushima, Bellavista de La Florida, La Florida, Provincia de Santiago, Región Metropolitana de Santiago, 8240000, Chile
+p1993
+aVFukushima, Bambu Estate - South, Purok 20, New Loon, Camella - Davao, Davao City, Davao, 8000, Philippines
+p1994
+aVFukushima, 19, Voie Pompier, Grenelle, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p1995
+aa(lp1996
+V\u798f\u5ca1\u770c, \u65e5\u672c
+p1997
+aV\u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p1998
+aV\u798f\u5ca1, \u798f\u5ca1\u505c\u8eca\u5834\u7dda, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, \u65e5\u672c
+p1999
+aV\u798f\u5ca1, \u56fd\u90538\u53f7, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, 939-0192, \u65e5\u672c
+p2000
+aVFukuoka, 19, Rue d'Avron, Saint-Blaise, Charonne, 20e, Paris, Île-de-France, France métropolitaine, 75020, France
+p2001
+aVFukuoka, 373, Stratford Road, Shirley, Solihull, West Midlands, England, B90, United Kingdom
+p2002
+aVFukuoka, 90, Rue Louis de Savoie, Les Rives-de-la-Morges, Morges, District de Morges, Vaud, 1110, Schweiz, Suisse, Svizzera, Svizra
+p2003
+aV\u798f\u5ca1IC, \u798f\u5ca1IC\u5165\u53e3, \u7c95\u5c4b\u753a, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2004
+aa(lp2005
+V\u9577\u5d0e\u770c, \u65e5\u672c
+p2006
+aV\u9577\u5d0e\u5e02, \u897f\u5f7c\u6775\u90e1, \u9577\u5d0e\u770c, \u65e5\u672c
+p2007
+aVNagasaki, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2008
+aVNagasaki, Tepic, Nayarit, 63175, Estados Unidos Mexicanos
+p2009
+aVNagasaki, Grand Bourg, Partido de Malvinas Argentinas, Bs. As., 1616, Argentina
+p2010
+aVNagasaki, Pablo Nogués, Partido de Malvinas Argentinas, Bs. As., 1613, Argentina
+p2011
+aVNagasaki, Bellavista de La Florida, La Florida, Provincia de Santiago, Región Metropolitana de Santiago, 8240000, Chile
+p2012
+aVNagasaki, Metro South Executive Subd., Biclatan, General Trias, Cavite, Calabarzon, 4107, Philippines
+p2013
+aVNagasaki, Bambu Estate - South, Purok 20, New Loon, Samulco Village, Davao City, Davao, 8000, Philippines
+p2014
+aV\u9577\u5d0e, \u56fd\u9053202\u53f7\u5927\u6ce2\u6b62\u901a\u308a, \u9577\u5d0e\u5e02, \u897f\u5f7c\u6775\u90e1, \u9577\u5d0e\u770c, 8500905, \u65e5\u672c
+p2015
+aa(lp2016
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p2017
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p2018
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p2019
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p2020
+aVOsaka, Wise, Virginia, United States of America
+p2021
+aVOsaka, Escambia County, Alabama, United States of America
+p2022
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p2023
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2024
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p2025
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2026
+aa(lp2027
+V\u5e83\u5cf6\u5e02, \u5b89\u82b8\u90e1, \u5e83\u5cf6\u770c, \u65e5\u672c
+p2028
+aV\u5e83\u5cf6\u770c, \u65e5\u672c
+p2029
+aV\u5e83\u5cf6, \u57ce\u5317\u901a\u308a (Johoku Dori Avenue), \u5357\u533a, \u5e83\u5cf6\u5e02, \u5b89\u82b8\u90e1, \u5e83\u5cf6\u770c, 732-0822, \u65e5\u672c
+p2030
+aV\u5e83\u5cf6, \u5e38\u76e4\u6a4b\u82e5\u8349\u7dda;\u4e8c\u8449\u901a\u308a, \u6771\u533a, \u5e83\u5cf6\u5e02, \u5b89\u82b8\u90e1, \u5e83\u5cf6\u770c, 732-0807, \u65e5\u672c
+p2031
+aV\u5e83\u5cf6 (Hiroshima), \u5c71\u967d\u81ea\u52d5\u8eca\u9053, \u7dd1\u4e95\uff12\u4e01\u76ee, \u5b89\u4f50\u5357\u533a, \u5e83\u5cf6\u5e02, \u5b89\u82b8\u90e1, \u5e83\u5cf6\u770c, \u65e5\u672c
+p2032
+aV\u5e83\u5cf6 (Hiroshima), \u5c71\u967d\u81ea\u52d5\u8eca\u9053, \u7dd1\u4e95\uff15\u4e01\u76ee, \u5b89\u4f50\u5357\u533a, \u5e83\u5cf6\u5e02, \u5b89\u82b8\u90e1, \u5e83\u5cf6\u770c, \u65e5\u672c
+p2033
+aVCanton El Carmen, Hiroshima, Provincia de Manuripi, PND, Bolivia
+p2034
+aVHiroshima, Tunari, GAMC, Kanata, Cercado, CBA, 949, Bolivia
+p2035
+aVHiroshima, Belgrano, CABA, Comuna 13, CABA, 1430, Argentina
+p2036
+aVHiroshima, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2037
+aa(lp2038
+V\u8328\u57ce\u770c, \u65e5\u672c
+p2039
+aV\u8328\u6728\u5e02, \u8c4a\u80fd\u90e1 (Toyono District), \u5927\u962a\u5e9c, \u65e5\u672c
+p2040
+aV\u8328\u57ce\u753a, \u6771\u8328\u57ce\u90e1, \u8328\u57ce\u770c, \u65e5\u672c
+p2041
+aV\u8328\u6728, \u5357\u5343\u91cc\u8328\u6728\u505c\u8eca\u5834\u7dda, \u897f\u99c5\u524d\u753a, \u8328\u6728\u5e02, \u8c4a\u80fd\u90e1 (Toyono District), \u5927\u962a\u5e9c, \u65e5\u672c
+p2042
+aVIbaraki, Bambu Estate - South, Purok 20, New Loon, Samulco Village, Davao City, Davao, 8000, Philippines
+p2043
+aa(lp2044
+V\u79cb\u7530\u770c, \u65e5\u672c
+p2045
+aV\u79cb\u7530\u5e02, \u5357\u79cb\u7530\u90e1, \u79cb\u7530\u770c, \u65e5\u672c
+p2046
+aV\u79cb\u7530, \u79cb\u7530\u5317\u91ce\u7530\u7dda, \u5bae\u7530, \u79cb\u7530\u5e02, \u5357\u79cb\u7530\u90e1, \u79cb\u7530\u770c, \u65e5\u672c
+p2047
+aVAkita, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p2048
+aVAkita, 2, Blackwood Street, Hotham Hill, North Melbourne, Melbourne, City of Melbourne, Greater Melbourne, Victoria, 3051, Australia
+p2049
+aVAkita, wandelpromenade Amicitia, Stadskern, Amersfoort, Utrecht, Nederland, 3811DK, Nederland
+p2050
+aVAkita, 2, Avenue des Vignes-Benettes, Le Pecq, Saint-Germain-en-Laye, Yvelines, Île-de-France, France métropolitaine, 78230, France
+p2051
+aVAkita, Kings Highway East, Tunxis Hill, Fairfield County, Connecticut, 06825, United States of America
+p2052
+aa(lp2053
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p2054
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p2055
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p2056
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p2057
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p2058
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p2059
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p2060
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2061
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2062
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p2063
+aa(lp2064
+VDriffield, East Riding of Yorkshire, Yorkshire and the Humber, England, United Kingdom
+p2065
+aVDriffield, Gloucestershire, South West England, England, United Kingdom
+p2066
+aVDriffield, River Head, Driffield CP, Driffield, East Riding of Yorkshire, Yorkshire and the Humber, England, YO25 6PL, United Kingdom
+p2067
+aa(lp2068
+VNuku'alofa, Vahe Kolofo'ou, Tongatapu, Tonga
+p2069
+aa(lp2070
+V\u5175\u5eab\u770c, \u65e5\u672c
+p2071
+aV\u5175\u5eab, \u56fd\u90532\u53f7, \u5175\u5eab\u533a, \u795e\u6238\u5e02, \u52a0\u53e4\u90e1, \u5175\u5eab\u770c, 6500017, \u65e5\u672c
+p2072
+aa(lp2073
+V\u5bae\u57ce\u770c, \u65e5\u672c
+p2074
+aV\u5bae\u57ce\u90e1, \u5bae\u57ce\u770c, \u65e5\u672c
+p2075
+aVMiyagi, 3, Sandkaule, Bonn-Zentrum, Stadtbezirk Bonn, Bonn, Regierungsbezirk Köln, Nordrhein-Westfalen, 53111, Deutschland
+p2076
+aVMiyagi, 12, Bahnhofstraße, Walluf, Rheingau-Taunus-Kreis, Regierungsbezirk Darmstadt, Hessen, 65396, Deutschland
+p2077
+aVMIYAGI, \u5468\u9632\u753a\u901a\u308a, \u9053\u9813\u5800, \u4e2d\u592e\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 542-8501, \u65e5\u672c
+p2078
+aV\u307f\u3084\u304e, \u540d\u53e4\u5c4b\u4e00\u5bae\u7dda, \u4e2d\u6751\u533a, \u540d\u53e4\u5c4b\u5e02, \u6d77\u90e8\u90e1, \u611b\u77e5\u770c, 453-0819, \u65e5\u672c
+p2079
+aV\u30df\u30e4\u30ae, \u4eba\u5f62\u753a\u901a\u308a, \u4e2d\u592e\u533a, \u6771\u4eac\u90fd, 103-0013, \u65e5\u672c
+p2080
+aa(lp2081
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p2082
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p2083
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p2084
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p2085
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p2086
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p2087
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p2088
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2089
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2090
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p2091
+aa(lp2092
+V\u5175\u5eab\u770c, \u65e5\u672c
+p2093
+aV\u5175\u5eab, \u56fd\u90532\u53f7, \u5175\u5eab\u533a, \u795e\u6238\u5e02, \u52a0\u53e4\u90e1, \u5175\u5eab\u770c, 6500017, \u65e5\u672c
+p2094
+aa(lp2095
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p2096
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p2097
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p2098
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p2099
+aVOsaka, Wise, Virginia, United States of America
+p2100
+aVOsaka, Escambia County, Alabama, United States of America
+p2101
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p2102
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2103
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p2104
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2105
+aa(lp2106
+VBurwood, Australia
+p2107
+aVBurwood, Burwood Road, Burwood, Sydney, Burwood Municipality, New South Wales, 2134, Australia
+p2108
+aVBurwood, Christchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p2109
+aVBurwood, Kent County, Delaware, United States of America
+p2110
+aVBurwood, Sydney, Burwood Municipality, New South Wales, Australia
+p2111
+aVBurwood, New South Wales, Australia
+p2112
+aVBurwood, City of Whitehorse, Greater Melbourne, Victoria, Australia
+p2113
+aVBurwood, Williamson, Tennessee, United States of America
+p2114
+aVBurwood, Trent Street, Glen Iris, City of Boroondara, Greater Melbourne, Victoria, 3147, Australia
+p2115
+aVBurwood, Westpark, Irvine, Orange County, California, 92604, United States of America
+p2116
+aa(lp2117
+V\u798f\u5ca1\u770c, \u65e5\u672c
+p2118
+aV\u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2119
+aV\u798f\u5ca1, \u798f\u5ca1\u505c\u8eca\u5834\u7dda, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, \u65e5\u672c
+p2120
+aV\u798f\u5ca1, \u56fd\u90538\u53f7, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, 939-0192, \u65e5\u672c
+p2121
+aVFukuoka, 19, Rue d'Avron, Saint-Blaise, Charonne, 20e, Paris, Île-de-France, France métropolitaine, 75020, France
+p2122
+aVFukuoka, 373, Stratford Road, Shirley, Solihull, West Midlands, England, B90, United Kingdom
+p2123
+aVFukuoka, 90, Rue Louis de Savoie, Les Rives-de-la-Morges, Morges, District de Morges, Vaud, 1110, Schweiz, Suisse, Svizzera, Svizra
+p2124
+aV\u798f\u5ca1IC, \u798f\u5ca1IC\u5165\u53e3, \u7c95\u5c4b\u753a, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2125
+aa(lp2126
+V\u6771\u4eac\u90fd, \u65e5\u672c
+p2127
+aV\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u65e5\u672c
+p2128
+aV\u6771\u4eac, 407, \u4e00\u4e01\u76ee, \u4e38\u306e\u5185, \u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 100-0005, \u65e5\u672c
+p2129
+aVTokyo, Hayapuga Rural LLG, Tari-Pori District, Hela, Highlands Region, Papua Niugini
+p2130
+aVTokyo, San Antonio, Bexar County, Texas, 78230, United States of America
+p2131
+aVTokyo, Nouakchott, \u0646\u0648\u0627\u0643\u0634\u0648\u0637, 170, Mauritanie \u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627
+p2132
+aVTokyo, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2133
+aVTokyo, Don Mariano Home Settlement, Batasan Hills, Holy Spirit, District II, Quezon City, Metro Manila, 1119, Philippines
+p2134
+aVTokyo, Summerwind Village, Dasmariñas, Cavite, Calabarzon, 4114, Philippines
+p2135
+aVTokyo, Gruar I, Cainta, Rizal, Calabarzon, 1900, Philippines
+p2136
+aa(lp2137
+V1986, \u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p2138
+aV\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0439\u043e\u0440\u043e\u0432\u0430, \u041d\u0435\u0444\u0442\u0435\u0441\u0442\u0440\u043e\u0439, \u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 150023, \u0420\u043e\u0441\u0441\u0438\u044f
+p2139
+aVWriezener Karree, Fhain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland
+p2140
+aVVängavägen, Alingsås kommun, Alingsås, Västra Götalands län, Götaland, Sverige
+p2141
+aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Lestkov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p2142
+aV1986, Velká Lesná, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p2143
+aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p2144
+aV1986, Praznov, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p2145
+aV1986, SNP, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p2146
+aVSierra Toledana - Patio Santiago, Calle de la Sierra Toledana, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28038, España
+p2147
+aa(lp2148
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p2149
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p2150
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p2151
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p2152
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p2153
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p2154
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p2155
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2156
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2157
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p2158
+aa(lp2159
+VNuku'alofa, Vahe Kolofo'ou, Tongatapu, Tonga
+p2160
+aa(lp2161
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p2162
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p2163
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p2164
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p2165
+aVOsaka, Wise, Virginia, United States of America
+p2166
+aVOsaka, Escambia County, Alabama, United States of America
+p2167
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p2168
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2169
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p2170
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2171
+aa(lp2172
+V\u7fa4\u99ac\u770c, \u65e5\u672c
+p2173
+aa(lp2174
+V\u5175\u5eab\u770c, \u65e5\u672c
+p2175
+aV\u5175\u5eab, \u56fd\u90532\u53f7, \u5175\u5eab\u533a, \u795e\u6238\u5e02, \u52a0\u53e4\u90e1, \u5175\u5eab\u770c, 6500017, \u65e5\u672c
+p2176
+aa(lp2177
+VVästerås, Västmanlands län, Svealand, Sverige
+p2178
+aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p2179
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+p2180
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+p2181
+aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
+p2182
+aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
+p2183
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2184
+aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2185
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2186
+aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2187
+aa(lp2188
+V\u6771\u4eac\u90fd, \u65e5\u672c
+p2189
+aV\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u65e5\u672c
+p2190
+aV\u6771\u4eac, 407, \u4e00\u4e01\u76ee, \u4e38\u306e\u5185, \u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 100-0005, \u65e5\u672c
+p2191
+aVTokyo, Hayapuga Rural LLG, Tari-Pori District, Hela, Highlands Region, Papua Niugini
+p2192
+aVTokyo, San Antonio, Bexar County, Texas, 78230, United States of America
+p2193
+aVTokyo, Nouakchott, \u0646\u0648\u0627\u0643\u0634\u0648\u0637, 170, Mauritanie \u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627
+p2194
+aVTokyo, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2195
+aVTokyo, Don Mariano Home Settlement, Batasan Hills, Holy Spirit, District II, Quezon City, Metro Manila, 1119, Philippines
+p2196
+aVTokyo, Summerwind Village, Dasmariñas, Cavite, Calabarzon, 4114, Philippines
+p2197
+aVTokyo, Gruar I, Cainta, Rizal, Calabarzon, 1900, Philippines
+p2198
+aa(lp2199
+V\u798f\u5ca1\u770c, \u65e5\u672c
+p2200
+aV\u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2201
+aV\u798f\u5ca1, \u798f\u5ca1\u505c\u8eca\u5834\u7dda, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, \u65e5\u672c
+p2202
+aV\u798f\u5ca1, \u56fd\u90538\u53f7, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, 939-0192, \u65e5\u672c
+p2203
+aVFukuoka, 19, Rue d'Avron, Saint-Blaise, Charonne, 20e, Paris, Île-de-France, France métropolitaine, 75020, France
+p2204
+aVFukuoka, 373, Stratford Road, Shirley, Solihull, West Midlands, England, B90, United Kingdom
+p2205
+aVFukuoka, 90, Rue Louis de Savoie, Les Rives-de-la-Morges, Morges, District de Morges, Vaud, 1110, Schweiz, Suisse, Svizzera, Svizra
+p2206
+aV\u798f\u5ca1IC, \u798f\u5ca1IC\u5165\u53e3, \u7c95\u5c4b\u753a, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2207
+aa(lp2208
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p2209
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p2210
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p2211
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p2212
+aVOsaka, Wise, Virginia, United States of America
+p2213
+aVOsaka, Escambia County, Alabama, United States of America
+p2214
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p2215
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2216
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p2217
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2218
+aa(lp2219
+VNapier, Napier City, Hawke's Bay, New Zealand/Aotearoa
+p2220
+aVNapier, Overberg District Municipality, Western Cape, South Africa
+p2221
+aVNapier, Bedford County, Pennsylvania, United States of America
+p2222
+aVNapier, San Jacinto County, Texas, United States of America
+p2223
+aVNapier, Washington County, Ohio, United States of America
+p2224
+aVNapier, Berrien County, Michigan, United States of America
+p2225
+aVNapier, Holt County, Missouri, United States of America
+p2226
+aVNapier, Lewis, Tennessee, United States of America
+p2227
+aVNapier, Boone County, Iowa, United States of America
+p2228
+aVNapier, Leslie County, Kentucky, United States of America
+p2229
+aaNa(lp2230
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p2231
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p2232
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p2233
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p2234
+aVOsaka, Wise, Virginia, United States of America
+p2235
+aVOsaka, Escambia County, Alabama, United States of America
+p2236
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p2237
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2238
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p2239
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2240
+aa(lp2241
+V\u5bae\u57ce\u770c, \u65e5\u672c
+p2242
+aV\u5bae\u57ce\u90e1, \u5bae\u57ce\u770c, \u65e5\u672c
+p2243
+aVMiyagi, 3, Sandkaule, Bonn-Zentrum, Stadtbezirk Bonn, Bonn, Regierungsbezirk Köln, Nordrhein-Westfalen, 53111, Deutschland
+p2244
+aVMiyagi, 12, Bahnhofstraße, Walluf, Rheingau-Taunus-Kreis, Regierungsbezirk Darmstadt, Hessen, 65396, Deutschland
+p2245
+aVMIYAGI, \u5468\u9632\u753a\u901a\u308a, \u9053\u9813\u5800, \u4e2d\u592e\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 542-8501, \u65e5\u672c
+p2246
+aV\u307f\u3084\u304e, \u540d\u53e4\u5c4b\u4e00\u5bae\u7dda, \u4e2d\u6751\u533a, \u540d\u53e4\u5c4b\u5e02, \u6d77\u90e8\u90e1, \u611b\u77e5\u770c, 453-0819, \u65e5\u672c
+p2247
+aV\u30df\u30e4\u30ae, \u4eba\u5f62\u753a\u901a\u308a, \u4e2d\u592e\u533a, \u6771\u4eac\u90fd, 103-0013, \u65e5\u672c
+p2248
+aa(lp2249
+V\u5bae\u5d0e\u770c, \u65e5\u672c
+p2250
+aV\u5bae\u5d0e\u5e02, \u6771\u8af8\u770c\u90e1, \u5bae\u5d0e\u770c, \u65e5\u672c
+p2251
+aV\u5bae\u5d0e, \u5bae\u5d0e\u6e2f\u5bae\u5d0e\u505c\u8eca\u5834\u7dda, \u5bae\u5d0e\u5e02, \u6771\u8af8\u770c\u90e1, \u5bae\u5d0e\u770c, \u65e5\u672c
+p2252
+aVMiyazaki, Rue Lagille, Grandes-Carrières, 18e, Paris, Île-de-France, France métropolitaine, 75018, France
+p2253
+aV\u307f\u3084\u3056\u304d, \u56fd\u905319\u53f7, \u9577\u91ce\u5e02, \u4e0a\u6c34\u5185\u90e1, \u9577\u91ce\u770c, \u65e5\u672c
+p2254
+aV\u5bae\u5d0e, \u5bae\u524d\u533a, \u5ddd\u5d0e\u5e02, \u9ad8\u5ea7\u90e1, \u795e\u5948\u5ddd\u770c, 2240012, \u65e5\u672c
+p2255
+aV\u307f\u3084\u3056\u304d, \u5317\u5927\u901a\u308a, \u548c\u6b4c\u5c71\u5e02, \u548c\u6b4c\u5c71\u770c, \u65e5\u672c
+p2256
+aV\u5bae\u524d, 372, \u4e80\u5ca1\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p2257
+aa(lp2258
+VNuku'alofa, Vahe Kolofo'ou, Tongatapu, Tonga
+p2259
+aa(lp2260
+V\u57fc\u7389\u770c, \u65e5\u672c
+p2261
+aV\u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p2262
+aVSaitama-shi, \u57fc\u7389\u770c, \u65e5\u672c
+p2263
+aV\u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p2264
+aVSaitama, Bambu Estate - South, Purok 20, New Loon, Samulco Village, Davao City, Davao, 8000, Philippines
+p2265
+aVSaitama, 19, Rue La Boétie, Madeleine, 8e, Paris, Île-de-France, France métropolitaine, 75008, France
+p2266
+aV\u5e02\u7acb\u6d66\u548c\u5927\u91cc\u5c0f\u5b66\u6821, \u3072\u307e\u308f\u308a\u901a\u308a, \u5357\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3300061, \u65e5\u672c
+p2267
+aV\u3055\u3044\u305f\u307e\u5e02\u7acb\u5357\u6d66\u548c\u5c0f\u5b66\u6821, \u65e7\u4e2d\u5c71\u9053 (Kyu Nakasen-dou), \u5357\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3300061, \u65e5\u672c
+p2268
+aV\u5317\u5927\u5bae\u99c5\u81ea\u8ee2\u8eca\u99d0\u8eca\u5834, \u65e7\u4e2d\u5c71\u9053, \u571f\u624b\u753a \u4e09\u4e01\u76ee, \u5927\u5bae\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, \u65e5\u672c
+p2269
+aV\u3055\u3044\u305f\u307e\u5e02, \u3082\u307f\u3058\u901a\u308a, \u5317\u533a, \u3055\u3044\u305f\u307e\u5e02, \u57fc\u7389\u770c, 3370002, \u65e5\u672c
+p2270
+aa(lp2271
+V\u5343\u8449\u770c, \u65e5\u672c
+p2272
+aV\u5343\u8449\u5e02, \u5343\u8449\u770c, \u65e5\u672c
+p2273
+aV\u5343\u8449, \u5343\u8449\u99c5\u5730\u4e0b\u6b69\u9053, \u4e00\u4e01\u76ee, \u65b0\u5343\u8449, \u4e2d\u592e\u533a, \u5343\u8449\u5e02, \u5343\u8449\u770c, 2600031, \u65e5\u672c
+p2274
+aVChiba, Kirinyaga, Kenya
+p2275
+aV\u0427\u0435\u0431\u0430, \u041a\u0443\u044e\u0441\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0427\u0435\u043c\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439, \u0421\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p2276
+aV\u6c60\u575d\u4e61, \u6b66\u90fd\u533a (Wudu), \u9647\u5357\u5e02 (Longnan), \u7518\u8083\u7701, \u4e2d\u56fd
+p2277
+aVCiba, Béjaïa, 06000, Algérie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p2278
+aV\u0634\u064a\u0628\u0629, \u0627\u0644\u0645\u0647\u062f\u064a\u0629, Tunisie \u2d5c\u2d53\u2d4f\u2d59 \u062a\u0648\u0646\u0633
+p2279
+aVCiba, Harghita, 530001, România
+p2280
+aVChiba, A79, Heerlen, Parkstad Limburg, Limburg, Nederland, 6419BJ, Nederland
+p2281
+aa(lp2282
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p2283
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p2284
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p2285
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p2286
+aVOsaka, Wise, Virginia, United States of America
+p2287
+aVOsaka, Escambia County, Alabama, United States of America
+p2288
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p2289
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2290
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p2291
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2292
+aa(lp2293
+V\u798f\u5ca1\u770c, \u65e5\u672c
+p2294
+aV\u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2295
+aV\u798f\u5ca1, \u798f\u5ca1\u505c\u8eca\u5834\u7dda, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, \u65e5\u672c
+p2296
+aV\u798f\u5ca1, \u56fd\u90538\u53f7, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, 939-0192, \u65e5\u672c
+p2297
+aVFukuoka, 19, Rue d'Avron, Saint-Blaise, Charonne, 20e, Paris, Île-de-France, France métropolitaine, 75020, France
+p2298
+aVFukuoka, 373, Stratford Road, Shirley, Solihull, West Midlands, England, B90, United Kingdom
+p2299
+aVFukuoka, 90, Rue Louis de Savoie, Les Rives-de-la-Morges, Morges, District de Morges, Vaud, 1110, Schweiz, Suisse, Svizzera, Svizra
+p2300
+aV\u798f\u5ca1IC, \u798f\u5ca1IC\u5165\u53e3, \u7c95\u5c4b\u753a, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2301
+aa(lp2302
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p2303
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p2304
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p2305
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p2306
+aVOsaka, Wise, Virginia, United States of America
+p2307
+aVOsaka, Escambia County, Alabama, United States of America
+p2308
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p2309
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2310
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p2311
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2312
+aa(lp2313
+V\u5948\u826f\u770c, \u65e5\u672c
+p2314
+aV\u5948\u826f\u5e02, \u78ef\u57ce\u90e1 (Shiki District), \u5948\u826f\u770c, \u65e5\u672c
+p2315
+aVNara, Cercle de Nara, Koulikoro, Mali
+p2316
+aV\u5948\u826f, \u4e09\u6761\u901a\u308a (Sanj\u014d D\u014dri), \u5927\u5bae\u753a\u4e00\u4e01\u76ee, \u5948\u826f\u5e02, \u78ef\u57ce\u90e1 (Shiki District), \u5948\u826f\u770c, 630-8122, \u65e5\u672c
+p2317
+aVNara, Kecamatan Umbu ratunggai Barat, Nusa Tenggara Timur, Indonesia
+p2318
+aVNara, Menaa, Batna - \u0628\u0627\u062a\u0646\u0629, Algérie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p2319
+aVNara, Nkanu East, Enugu, Nigeria
+p2320
+aVNara, North Shewa (K4), Oromia, \u12a2\u1275\u12ee\u1335\u12eb Ethiopia
+p2321
+aVLa Nara, Muriel, Valladolid, Castilla y León, España
+p2322
+aV\u041d\u0430\u0440\u0430, \u0410\u0442\u0435\u043f\u0446\u0435\u0432\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u041d\u0430\u0440\u043e-\u0424\u043e\u043c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p2323
+aa(lp2324
+V\u8328\u57ce\u770c, \u65e5\u672c
+p2325
+aV\u8328\u6728\u5e02, \u8c4a\u80fd\u90e1 (Toyono District), \u5927\u962a\u5e9c, \u65e5\u672c
+p2326
+aV\u8328\u57ce\u753a, \u6771\u8328\u57ce\u90e1, \u8328\u57ce\u770c, \u65e5\u672c
+p2327
+aV\u8328\u6728, \u5357\u5343\u91cc\u8328\u6728\u505c\u8eca\u5834\u7dda, \u897f\u99c5\u524d\u753a, \u8328\u6728\u5e02, \u8c4a\u80fd\u90e1 (Toyono District), \u5927\u962a\u5e9c, \u65e5\u672c
+p2328
+aVIbaraki, Bambu Estate - South, Purok 20, New Loon, Samulco Village, Davao City, Davao, 8000, Philippines
+p2329
+aa(lp2330
+V\u5175\u5eab\u770c, \u65e5\u672c
+p2331
+aV\u5175\u5eab, \u56fd\u90532\u53f7, \u5175\u5eab\u533a, \u795e\u6238\u5e02, \u52a0\u53e4\u90e1, \u5175\u5eab\u770c, 6500017, \u65e5\u672c
+p2332
+aa(lp2333
+VMosgiel, Dunedin City, Otago, New Zealand/Aotearoa
+p2334
+aVMosgiel, Gladstone Road South, Fairfield, East Taieri, Dunedin City, Otago, 9018, New Zealand/Aotearoa
+p2335
+aa(lp2336
+V\u798f\u5ca1\u770c, \u65e5\u672c
+p2337
+aV\u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2338
+aV\u798f\u5ca1, \u798f\u5ca1\u505c\u8eca\u5834\u7dda, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, \u65e5\u672c
+p2339
+aV\u798f\u5ca1, \u56fd\u90538\u53f7, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, 939-0192, \u65e5\u672c
+p2340
+aVFukuoka, 19, Rue d'Avron, Saint-Blaise, Charonne, 20e, Paris, Île-de-France, France métropolitaine, 75020, France
+p2341
+aVFukuoka, 373, Stratford Road, Shirley, Solihull, West Midlands, England, B90, United Kingdom
+p2342
+aVFukuoka, 90, Rue Louis de Savoie, Les Rives-de-la-Morges, Morges, District de Morges, Vaud, 1110, Schweiz, Suisse, Svizzera, Svizra
+p2343
+aV\u798f\u5ca1IC, \u798f\u5ca1IC\u5165\u53e3, \u7c95\u5c4b\u753a, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2344
+aa(lp2345
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p2346
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p2347
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p2348
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p2349
+aVOsaka, Wise, Virginia, United States of America
+p2350
+aVOsaka, Escambia County, Alabama, United States of America
+p2351
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p2352
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2353
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p2354
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2355
+aa(lp2356
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p2357
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p2358
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p2359
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p2360
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p2361
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p2362
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p2363
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2364
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2365
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p2366
+aa(lp2367
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p2368
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p2369
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p2370
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p2371
+aVOsaka, Wise, Virginia, United States of America
+p2372
+aVOsaka, Escambia County, Alabama, United States of America
+p2373
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p2374
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2375
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p2376
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2377
+aa(lp2378
+VAuckland, 1010, New Zealand/Aotearoa
+p2379
+aVAuckland, New Zealand/Aotearoa
+p2380
+aVAuckland, Tulare County, California, United States of America
+p2381
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p2382
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p2383
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p2384
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p2385
+aa(lp2386
+V\u798f\u5ca1\u770c, \u65e5\u672c
+p2387
+aV\u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2388
+aV\u798f\u5ca1, \u798f\u5ca1\u505c\u8eca\u5834\u7dda, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, \u65e5\u672c
+p2389
+aV\u798f\u5ca1, \u56fd\u90538\u53f7, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, 939-0192, \u65e5\u672c
+p2390
+aVFukuoka, 19, Rue d'Avron, Saint-Blaise, Charonne, 20e, Paris, Île-de-France, France métropolitaine, 75020, France
+p2391
+aVFukuoka, 373, Stratford Road, Shirley, Solihull, West Midlands, England, B90, United Kingdom
+p2392
+aVFukuoka, 90, Rue Louis de Savoie, Les Rives-de-la-Morges, Morges, District de Morges, Vaud, 1110, Schweiz, Suisse, Svizzera, Svizra
+p2393
+aV\u798f\u5ca1IC, \u798f\u5ca1IC\u5165\u53e3, \u7c95\u5c4b\u753a, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2394
+aa(lp2395
+V\u611b\u77e5\u770c, \u65e5\u672c
+p2396
+aV\u611b\u77e5\u90e1, \u611b\u77e5\u770c, \u65e5\u672c
+p2397
+aVAichi, Likiep, Aolep\u0101n Aor\u014dkin M\u0327aje\u013c
+p2398
+aV\u611b\u77e5\u6c60 (Aichi-Ike), \u65e5\u9032\u5e02, \u4e39\u7fbd\u90e1, \u611b\u77e5\u770c, \u65e5\u672c
+p2399
+aa(lp2400
+V\u5175\u5eab\u770c, \u65e5\u672c
+p2401
+aV\u5175\u5eab, \u56fd\u90532\u53f7, \u5175\u5eab\u533a, \u795e\u6238\u5e02, \u52a0\u53e4\u90e1, \u5175\u5eab\u770c, 6500017, \u65e5\u672c
+p2402
+aa(lp2403
+V\u5c90\u961c\u770c, \u65e5\u672c
+p2404
+aV\u5c90\u961c\u5e02, \u5c90\u961c\u770c, \u65e5\u672c
+p2405
+aV\u5c90\u961c, \u5c90\u961c\u770c\u9053\u5c90\u961c\u505c\u8eca\u5834\u7dda, \u5c90\u961c\u5e02, \u5c90\u961c\u770c, 500-8833, \u65e5\u672c
+p2406
+aa(lp2407
+V\u6ecb\u8cc0\u770c, \u65e5\u672c
+p2408
+aVShiega, Upper East Region, Ghana
+p2409
+aV\u5fd7\u8cc0\u753a, \u5927\u6d25\u5e02, \u6ecb\u8cc0\u770c, \u65e5\u672c
+p2410
+aV\u30b7\u30ac, \u56fd\u9053229\u53f7, \u4f59\u5e02\u753a, \u4f59\u5e02\u90e1, \u5f8c\u5fd7\u7dcf\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, \u65e5\u672c
+p2411
+aV\u30b7\u30ac, 5, \u4f59\u5e02\u753a, \u4f59\u5e02\u90e1, \u5f8c\u5fd7\u7dcf\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, \u65e5\u672c
+p2412
+aV\u5fd7\u8cc0, \u56fd\u9053254\u53f7, \u5d50\u5c71\u753a, \u6bd4\u4f01\u90e1, \u57fc\u7389\u770c, \u65e5\u672c
+p2413
+aa(lp2414
+V\u611b\u77e5\u770c, \u65e5\u672c
+p2415
+aV\u611b\u77e5\u90e1, \u611b\u77e5\u770c, \u65e5\u672c
+p2416
+aVAichi, Likiep, Aolep\u0101n Aor\u014dkin M\u0327aje\u013c
+p2417
+aV\u611b\u77e5\u6c60 (Aichi-Ike), \u65e5\u9032\u5e02, \u4e39\u7fbd\u90e1, \u611b\u77e5\u770c, \u65e5\u672c
+p2418
+aa(lp2419
+V\u795e\u5948\u5ddd\u770c, \u65e5\u672c
+p2420
+aV\u795e\u5948\u5ddd, \u9752\u6728\u6a4b, \u795e\u5948\u5ddd\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, 221-0056, \u65e5\u672c
+p2421
+aV\u91d1\u5ddd (Kanagawa), \u9ad8\u6881\u5fa1\u6d25\u7dda, \u5317\u533a, \u5ca1\u5c71\u5e02, \u4e45\u7c73\u90e1, \u5ca1\u5c71\u770c, \u65e5\u672c
+p2422
+aV\u795e\u5948\u5ddd\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, \u65e5\u672c
+p2423
+aa(lp2424
+V\u5948\u826f\u770c, \u65e5\u672c
+p2425
+aV\u5948\u826f\u5e02, \u78ef\u57ce\u90e1 (Shiki District), \u5948\u826f\u770c, \u65e5\u672c
+p2426
+aVNara, Cercle de Nara, Koulikoro, Mali
+p2427
+aV\u5948\u826f, \u4e09\u6761\u901a\u308a (Sanj\u014d D\u014dri), \u5927\u5bae\u753a\u4e00\u4e01\u76ee, \u5948\u826f\u5e02, \u78ef\u57ce\u90e1 (Shiki District), \u5948\u826f\u770c, 630-8122, \u65e5\u672c
+p2428
+aVNara, Kecamatan Umbu ratunggai Barat, Nusa Tenggara Timur, Indonesia
+p2429
+aVNara, Menaa, Batna - \u0628\u0627\u062a\u0646\u0629, Algérie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p2430
+aVNara, Nkanu East, Enugu, Nigeria
+p2431
+aVNara, North Shewa (K4), Oromia, \u12a2\u1275\u12ee\u1335\u12eb Ethiopia
+p2432
+aVLa Nara, Muriel, Valladolid, Castilla y León, España
+p2433
+aV\u041d\u0430\u0440\u0430, \u0410\u0442\u0435\u043f\u0446\u0435\u0432\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u041d\u0430\u0440\u043e-\u0424\u043e\u043c\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p2434
+aa(lp2435
+V\u041a1989, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p2436
+aV1989, Po\u010darová, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p2437
+aV1989, Úho\u0161\u0165any, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p2438
+aV1989, Domani\u017ea, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p2439
+aV1989, Zemianska Závada, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p2440
+aV1989, Dereham Road, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 3TL, United Kingdom
+p2441
+aa(lp2442
+V\u6ecb\u8cc0\u770c, \u65e5\u672c
+p2443
+aVShiega, Upper East Region, Ghana
+p2444
+aV\u5fd7\u8cc0\u753a, \u5927\u6d25\u5e02, \u6ecb\u8cc0\u770c, \u65e5\u672c
+p2445
+aV\u30b7\u30ac, \u56fd\u9053229\u53f7, \u4f59\u5e02\u753a, \u4f59\u5e02\u90e1, \u5f8c\u5fd7\u7dcf\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, \u65e5\u672c
+p2446
+aV\u30b7\u30ac, 5, \u4f59\u5e02\u753a, \u4f59\u5e02\u90e1, \u5f8c\u5fd7\u7dcf\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, \u65e5\u672c
+p2447
+aV\u5fd7\u8cc0, \u56fd\u9053254\u53f7, \u5d50\u5c71\u753a, \u6bd4\u4f01\u90e1, \u57fc\u7389\u770c, \u65e5\u672c
+p2448
+aa(lp2449
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p2450
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p2451
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p2452
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p2453
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p2454
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p2455
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p2456
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2457
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2458
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p2459
+aa(lp2460
+V\u798f\u5ca1\u770c, \u65e5\u672c
+p2461
+aV\u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2462
+aV\u798f\u5ca1, \u798f\u5ca1\u505c\u8eca\u5834\u7dda, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, \u65e5\u672c
+p2463
+aV\u798f\u5ca1, \u56fd\u90538\u53f7, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, 939-0192, \u65e5\u672c
+p2464
+aVFukuoka, 19, Rue d'Avron, Saint-Blaise, Charonne, 20e, Paris, Île-de-France, France métropolitaine, 75020, France
+p2465
+aVFukuoka, 373, Stratford Road, Shirley, Solihull, West Midlands, England, B90, United Kingdom
+p2466
+aVFukuoka, 90, Rue Louis de Savoie, Les Rives-de-la-Morges, Morges, District de Morges, Vaud, 1110, Schweiz, Suisse, Svizzera, Svizra
+p2467
+aV\u798f\u5ca1IC, \u798f\u5ca1IC\u5165\u53e3, \u7c95\u5c4b\u753a, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2468
+aa(lp2469
+V\u9e7f\u5150\u5cf6\u770c, \u65e5\u672c
+p2470
+aV\u9e7f\u5150\u5cf6\u5e02, \u66fd\u65bc\u90e1 (Soo), \u9e7f\u5150\u5cf6\u770c, \u65e5\u672c
+p2471
+aV\u9e7f\u5150\u5cf6, \u9e7f\u5150\u5cf6\u5317\u30d0\u30a4\u30d1\u30b9, \u9e7f\u5150\u5cf6\u5e02, \u66fd\u65bc\u90e1 (Soo), \u9e7f\u5150\u5cf6\u770c, 8900065, \u65e5\u672c
+p2472
+aVKagoshima, 218, \u9ad8\u9e97\u753a, \u9e7f\u5150\u5cf6\u5e02, \u66fd\u65bc\u90e1 (Soo), \u9e7f\u5150\u5cf6\u770c, Kagoshima, \u65e5\u672c
+p2473
+aa(lp2474
+V\u5343\u8449\u770c, \u65e5\u672c
+p2475
+aV\u5343\u8449\u5e02, \u5343\u8449\u770c, \u65e5\u672c
+p2476
+aV\u5343\u8449, \u5343\u8449\u99c5\u5730\u4e0b\u6b69\u9053, \u4e00\u4e01\u76ee, \u65b0\u5343\u8449, \u4e2d\u592e\u533a, \u5343\u8449\u5e02, \u5343\u8449\u770c, 2600031, \u65e5\u672c
+p2477
+aVChiba, Kirinyaga, Kenya
+p2478
+aV\u0427\u0435\u0431\u0430, \u041a\u0443\u044e\u0441\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0427\u0435\u043c\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439, \u0421\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p2479
+aV\u6c60\u575d\u4e61, \u6b66\u90fd\u533a (Wudu), \u9647\u5357\u5e02 (Longnan), \u7518\u8083\u7701, \u4e2d\u56fd
+p2480
+aVCiba, Béjaïa, 06000, Algérie \u2d4d\u2d63\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631
+p2481
+aV\u0634\u064a\u0628\u0629, \u0627\u0644\u0645\u0647\u062f\u064a\u0629, Tunisie \u2d5c\u2d53\u2d4f\u2d59 \u062a\u0648\u0646\u0633
+p2482
+aVCiba, Harghita, 530001, România
+p2483
+aVChiba, A79, Heerlen, Parkstad Limburg, Limburg, Nederland, 6419BJ, Nederland
+p2484
+aa(lp2485
+VAuckland, 1010, New Zealand/Aotearoa
+p2486
+aVAuckland, New Zealand/Aotearoa
+p2487
+aVAuckland, Tulare County, California, United States of America
+p2488
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p2489
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p2490
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p2491
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p2492
+aa(lp2493
+VKaitaia, Far North District, Northland, New Zealand/Aotearoa
+p2494
+aVKaitaia, Market Lane, Kaitaia, Far North District, Northland, New Zealand/Aotearoa
+p2495
+aa(lp2496
+V\u9752\u68ee\u770c, \u65e5\u672c
+p2497
+aV\u9752\u68ee\u5e02, \u6771\u6d25\u8efd\u90e1, \u9752\u68ee\u770c, \u65e5\u672c
+p2498
+aV\u9752\u68ee, \u8077\u54e1\u901a\u8def, \u9752\u68ee\u5e02, \u6771\u6d25\u8efd\u90e1, \u9752\u68ee\u770c, \u65e5\u672c
+p2499
+aV\u9752\u68ee, \u6771\u5317\u81ea\u52d5\u8eca\u9053, \u9752\u68ee\u5e02, \u6771\u6d25\u8efd\u90e1, \u9752\u68ee\u770c, \u65e5\u672c
+p2500
+aVAomori, Bambu Estate - South, Purok 20, New Loon, Bambu Estate, Davao City, Davao, 8000, Philippines
+p2501
+aVAomori, Vergara, Barrio República, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8370403, Chile
+p2502
+aa(lp2503
+VAuckland, 1010, New Zealand/Aotearoa
+p2504
+aVAuckland, New Zealand/Aotearoa
+p2505
+aVAuckland, Tulare County, California, United States of America
+p2506
+aVAuckland, Waldridge Park, Waldridge, County Durham, North East England, England, United Kingdom
+p2507
+aVAuckland, Ricardone, Rosario Centro, Distrito Centro, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina
+p2508
+aVAuckland, Rue du Capricorne, Paris Orly Rungis, Rungis, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94150, France
+p2509
+aVThe Auckland, Marine Road Central, West End, Lancaster, Lancs, North West England, England, LA4 4BJ, United Kingdom
+p2510
+aa(lp2511
+V\u3084\u307e\u306a\u3057\u4f1d\u7d71\u5de5\u82b8\u9928, \u767d\u4e95\u6cb3\u539f\u516b\u7530\u7dda, \u5927\u9593\u7530, \u7b1b\u5439\u5e02, \u5357\u5de8\u6469\u90e1, \u5c71\u68a8\u770c, \u65e5\u672c
+p2512
+aV\u5c71\u68a8\u5e02\u5730\u57df\u4ea4\u6d41 \u30bb\u30f3\u30bf\u30fc\u8857\u306e\u99c5 \u3084\u307e\u306a\u3057, \u4e07\u529b\u5c0f\u5c4b\u6577\u7dda, \u5c71\u68a8\u5e02, \u5357\u5de8\u6469\u90e1, \u5c71\u68a8\u770c, 405-0018, \u65e5\u672c
+p2513
+aa(lp2514
+V\u798f\u5ca1\u770c, \u65e5\u672c
+p2515
+aV\u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2516
+aV\u798f\u5ca1, \u798f\u5ca1\u505c\u8eca\u5834\u7dda, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, \u65e5\u672c
+p2517
+aV\u798f\u5ca1, \u56fd\u90538\u53f7, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, 939-0192, \u65e5\u672c
+p2518
+aVFukuoka, 19, Rue d'Avron, Saint-Blaise, Charonne, 20e, Paris, Île-de-France, France métropolitaine, 75020, France
+p2519
+aVFukuoka, 373, Stratford Road, Shirley, Solihull, West Midlands, England, B90, United Kingdom
+p2520
+aVFukuoka, 90, Rue Louis de Savoie, Les Rives-de-la-Morges, Morges, District de Morges, Vaud, 1110, Schweiz, Suisse, Svizzera, Svizra
+p2521
+aV\u798f\u5ca1IC, \u798f\u5ca1IC\u5165\u53e3, \u7c95\u5c4b\u753a, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2522
+aa(lp2523
+VNew South Wales, Australia
+p2524
+aVCessnock, New South Wales, NSW, Australia
+p2525
+aa(lp2526
+V\u9e7f\u5150\u5cf6\u770c, \u65e5\u672c
+p2527
+aV\u9e7f\u5150\u5cf6\u5e02, \u66fd\u65bc\u90e1 (Soo), \u9e7f\u5150\u5cf6\u770c, \u65e5\u672c
+p2528
+aV\u9e7f\u5150\u5cf6, \u9e7f\u5150\u5cf6\u5317\u30d0\u30a4\u30d1\u30b9, \u9e7f\u5150\u5cf6\u5e02, \u66fd\u65bc\u90e1 (Soo), \u9e7f\u5150\u5cf6\u770c, 8900065, \u65e5\u672c
+p2529
+aVKagoshima, 218, \u9ad8\u9e97\u753a, \u9e7f\u5150\u5cf6\u5e02, \u66fd\u65bc\u90e1 (Soo), \u9e7f\u5150\u5cf6\u770c, Kagoshima, \u65e5\u672c
+p2530
+aa(lp2531
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p2532
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p2533
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p2534
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p2535
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p2536
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p2537
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p2538
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2539
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2540
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p2541
+aa(lp2542
+V\u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, \u65e5\u672c
+p2543
+aV\u4eac\u90fd, \u5357\u5317\u81ea\u7531\u901a\u8def, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6008216, \u65e5\u672c
+p2544
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1747, Philippines
+p2545
+aVKyoto, Camella Homes Parañaque 2, San Isidro, Parañaque, Metro Manila, 1720, Philippines
+p2546
+aVKyoto, KK Subdivision, Parañaque, Metro Manila, 1720, Philippines
+p2547
+aVKyoto, BF Homes Phase 3, Parañaque, Metro Manila, 1747, Philippines
+p2548
+aVKyoto, Jardines Universidad, Torreón, Coahuila de Zaragoza, 27297, Estados Unidos Mexicanos
+p2549
+aVKyoto, 19, Rue de Vaugirard, St-Lambert, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2550
+aVKyoto, 99, Rue Saint-Charles, Javel, 15e, Paris, Île-de-France, France métropolitaine, 75015, France
+p2551
+aVKyoto, Calle Las Palmeras, Sector Sur Club Terraza, Distrito I, Managua, Managua (Municipio), Managua, 14179, Nicaragua
+p2552
+aa(lp2553
+VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p2554
+aVChristchurch, Dorset, South West England, England, United Kingdom
+p2555
+aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
+p2556
+aVChristchurch, Gloucestershire, South West England, England, United Kingdom
+p2557
+aVChristchurch, Middlesex, Virginia, United States of America
+p2558
+aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
+p2559
+aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
+p2560
+aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
+p2561
+aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
+p2562
+aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p2563
+aa(lp2564
+VVeysonnaz, Sion, Valais - Wallis, 1993, Schweiz, Suisse, Svizzera, Svizra
+p2565
+aV1993, Lobzy u O\u0161elína, O\u0161elín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p2566
+aVArroyo Fontarrón - Encomienda de Palacios, Calle del Arroyo Fontarrón, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
+p2567
+aVRe, Via Asinari di Bernezzo, Parella, Circoscrizione 4, Torino, TO, PIE, 10145, Italia
+p2568
+aVOld Kilmainham, Kilmainham, Dublin, County Dublin, Leinster, D07, Ireland
+p2569
+aV1993, 39, Piotra Wawrzyniaka, Je\u017cyce, Pozna\u0144, wielkopolskie, 60-505, Polska
+p2570
+aV1993, 106 Street NW, Old Strathcona, Edmonton, Alberta, T5K1E4, Canada
+p2571
+aV\u0426\u0440\u043a\u0432\u0430 \u0421\u0432\u0435\u0442\u043e\u0433 \u0414\u0438\u043c\u0438\u0442\u0440\u0438\u0458\u0430, \u0411\u0443\u043b\u0435\u0432\u0430\u0440 \u0417\u043e\u0440\u0430\u043d\u0430 \u0402\u0438\u043d\u0452\u0438\u045b\u0430, \u041f\u0430\u0432\u0438\u0459\u043e\u043d\u0438, \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11070, \u0421\u0440\u0431\u0438\u0458\u0430
+p2572
+aV1993, 44, \u0413\u0432\u0430\u0440\u0434\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0429\u0454\u0434\u0440\u0438\u0449\u0435\u0432\u0435, \u0421\u0454\u0432\u0454\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a, \u0421\u0454\u0432\u0454\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 93409, \u0423\u043a\u0440\u0430\u0457\u043d\u0430
+p2573
+aVCalle Tagoro Nº 127, Calle Tagoro, Tagoro, Tacoronte, Santa Cruz de Tenerife, Canarias, 38350, España
+p2574
+aa(lp2575
+V\u9577\u5d0e\u770c, \u65e5\u672c
+p2576
+aV\u9577\u5d0e\u5e02, \u897f\u5f7c\u6775\u90e1, \u9577\u5d0e\u770c, \u65e5\u672c
+p2577
+aVNagasaki, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2578
+aVNagasaki, Tepic, Nayarit, 63175, Estados Unidos Mexicanos
+p2579
+aVNagasaki, Grand Bourg, Partido de Malvinas Argentinas, Bs. As., 1616, Argentina
+p2580
+aVNagasaki, Pablo Nogués, Partido de Malvinas Argentinas, Bs. As., 1613, Argentina
+p2581
+aVNagasaki, Bellavista de La Florida, La Florida, Provincia de Santiago, Región Metropolitana de Santiago, 8240000, Chile
+p2582
+aVNagasaki, Metro South Executive Subd., Biclatan, General Trias, Cavite, Calabarzon, 4107, Philippines
+p2583
+aVNagasaki, Bambu Estate - South, Purok 20, New Loon, Samulco Village, Davao City, Davao, 8000, Philippines
+p2584
+aV\u9577\u5d0e, \u56fd\u9053202\u53f7\u5927\u6ce2\u6b62\u901a\u308a, \u9577\u5d0e\u5e02, \u897f\u5f7c\u6775\u90e1, \u9577\u5d0e\u770c, 8500905, \u65e5\u672c
+p2585
+aa(lp2586
+V\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c
+p2587
+aV\u5927\u962a\u5e9c, \u65e5\u672c
+p2588
+aV\u5927\u962a, 176, \u5317\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 530-0057, \u65e5\u672c
+p2589
+aVOsaka, \u0160ebetov, okres Blansko, Jihomoravský kraj, Jihovýchod, \u010cesko
+p2590
+aVOsaka, Wise, Virginia, United States of America
+p2591
+aVOsaka, Escambia County, Alabama, United States of America
+p2592
+aVOsaka, Caballito, CABA, Comuna 6, CABA, 1405, Argentina
+p2593
+aVOsaka, Rodelillo, Valparaíso, Provincia de Valparaíso, V Región de Valparaíso, 2390382, Chile
+p2594
+aVOsaka, Veracruz, Veracruz de Ignacio de la Llave, Estados Unidos Mexicanos
+p2595
+aVOsaka, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2596
+aa(lp2597
+V\u6771\u4eac\u90fd, \u65e5\u672c
+p2598
+aV\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u65e5\u672c
+p2599
+aV\u6771\u4eac, 407, \u4e00\u4e01\u76ee, \u4e38\u306e\u5185, \u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 100-0005, \u65e5\u672c
+p2600
+aVTokyo, Hayapuga Rural LLG, Tari-Pori District, Hela, Highlands Region, Papua Niugini
+p2601
+aVTokyo, San Antonio, Bexar County, Texas, 78230, United States of America
+p2602
+aVTokyo, Nouakchott, \u0646\u0648\u0627\u0643\u0634\u0648\u0637, 170, Mauritanie \u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627
+p2603
+aVTokyo, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
+p2604
+aVTokyo, Don Mariano Home Settlement, Batasan Hills, Holy Spirit, District II, Quezon City, Metro Manila, 1119, Philippines
+p2605
+aVTokyo, Summerwind Village, Dasmariñas, Cavite, Calabarzon, 4114, Philippines
+p2606
+aVTokyo, Gruar I, Cainta, Rizal, Calabarzon, 1900, Philippines
+p2607
+aa(lp2608
+VNapier, Napier City, Hawke's Bay, New Zealand/Aotearoa
+p2609
+aVNapier, Overberg District Municipality, Western Cape, South Africa
+p2610
+aVNapier, Bedford County, Pennsylvania, United States of America
+p2611
+aVNapier, San Jacinto County, Texas, United States of America
+p2612
+aVNapier, Washington County, Ohio, United States of America
+p2613
+aVNapier, Berrien County, Michigan, United States of America
+p2614
+aVNapier, Holt County, Missouri, United States of America
+p2615
+aVNapier, Lewis, Tennessee, United States of America
+p2616
+aVNapier, Boone County, Iowa, United States of America
+p2617
+aVNapier, Leslie County, Kentucky, United States of America
+p2618
+aa(lp2619
+VTofoa, Vahe Kolomotu'a, Tongatapu, Tonga
+p2620
+aa(lp2621
+V\u65b0\u6f5f\u770c, \u65e5\u672c
+p2622
+aV\u65b0\u6f5f\u5e02, \u5357\u84b2\u539f\u90e1, \u65b0\u6f5f\u770c, \u65e5\u672c
+p2623
+aV\u4e2d\u592e\u533a, \u65b0\u6f5f\u5e02, \u5357\u84b2\u539f\u90e1, \u65b0\u6f5f\u770c, \u65e5\u672c
+p2624
+aV\u65b0\u6f5f, \u5f01\u5929\u7dda, \u4e2d\u592e\u533a, \u65b0\u6f5f\u5e02, \u5357\u84b2\u539f\u90e1, \u65b0\u6f5f\u770c, 950, \u65e5\u672c
+p2625
+aVNienka, Kakata, Margibi County, Liberia
+p2626
+aa(lp2627
+V\u798f\u5ca1\u770c, \u65e5\u672c
+p2628
+aV\u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2629
+aV\u798f\u5ca1, \u798f\u5ca1\u505c\u8eca\u5834\u7dda, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, \u65e5\u672c
+p2630
+aV\u798f\u5ca1, \u56fd\u90538\u53f7, \u9ad8\u5ca1\u5e02, \u5bcc\u5c71\u770c, 939-0192, \u65e5\u672c
+p2631
+aVFukuoka, 19, Rue d'Avron, Saint-Blaise, Charonne, 20e, Paris, Île-de-France, France métropolitaine, 75020, France
+p2632
+aVFukuoka, 373, Stratford Road, Shirley, Solihull, West Midlands, England, B90, United Kingdom
+p2633
+aVFukuoka, 90, Rue Louis de Savoie, Les Rives-de-la-Morges, Morges, District de Morges, Vaud, 1110, Schweiz, Suisse, Svizzera, Svizra
+p2634
+aV\u798f\u5ca1IC, \u798f\u5ca1IC\u5165\u53e3, \u7c95\u5c4b\u753a, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, \u65e5\u672c
+p2635
+aa(lp2636
+VNendaz, Conthey, Valais - Wallis, 1994, Schweiz, Suisse, Svizzera, Svizra
+p2637
+aV\u041a1994, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p2638
+aV1994, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p2639
+aVSvoj\u0161ínská, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
+p2640
+aV1994, Ostrovce, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
+p2641
+aVEncomienda de Palacios - Arroyo Fontarrón, Calle de la Encomienda de Palacios, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
+p2642
+aVCapelli, Via Carrera, Parella, Circoscrizione 4, Torino, TO, PIE, 10146, Italia
+p2643
+aVWinship St @ Union St, Winship Street, Aberdeen, Brighton, Boston, Suffolk County, Massachusetts, 02135, United States of America
+p2644
+aV1994, Kingsway NW, Edmonton, Alberta, T5G3K2, Canada
+p2645
+aV1994, Traders Boulevard East, Britannia, Ont., Peel Region, Ontario, L4Z1W7, Canada
+p2646
+aa(lp2647
+V\u795e\u5948\u5ddd\u770c, \u65e5\u672c
+p2648
+aV\u795e\u5948\u5ddd, \u9752\u6728\u6a4b, \u795e\u5948\u5ddd\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, 221-0056, \u65e5\u672c
+p2649
+aV\u91d1\u5ddd (Kanagawa), \u9ad8\u6881\u5fa1\u6d25\u7dda, \u5317\u533a, \u5ca1\u5c71\u5e02, \u4e45\u7c73\u90e1, \u5ca1\u5c71\u770c, \u65e5\u672c
+p2650
+aV\u795e\u5948\u5ddd\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, \u65e5\u672c
+p2651
+aa(lp2652
+V\u611b\u5a9b\u770c, \u65e5\u672c
+p2653
+aVEime, Samtgemeinde Gronau (Leine), Landkreis Hildesheim, Niedersachsen, Deutschland, Europe
+p2654
+aVCasement Aerodrome, Baldonnel, VOR Access, Baldonnell Upper, Newcastle ED, Saggart, South Dublin, County Dublin, Leinster, D22, Ireland
+p2655
+aVEime, Kvitsøy, Rogaland, Norge
+p2656
+aa(lp2657
+VParque das Nações, Lisboa, Grande Lisboa, Lisboa, 1990, Portugal
+p2658
+aVRizal, Calabarzon, 1990, Philippines
+p2659
+aV1990, Howell County, Missouri, United States of America
+p2660
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2661
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2662
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2663
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2664
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2665
+aa(lp2666
+VNendaz, Conthey, Valais - Wallis, 1994, Schweiz, Suisse, Svizzera, Svizra
+p2667
+aV\u041a1994, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p2668
+aV1994, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p2669
+aVSvoj\u0161ínská, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
+p2670
+aV1994, Ostrovce, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
+p2671
+aVEncomienda de Palacios - Arroyo Fontarrón, Calle de la Encomienda de Palacios, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
+p2672
+aVCapelli, Via Carrera, Parella, Circoscrizione 4, Torino, TO, PIE, 10146, Italia
+p2673
+aVWinship St @ Union St, Winship Street, Aberdeen, Brighton, Boston, Suffolk County, Massachusetts, 02135, United States of America
+p2674
+aV1994, Kingsway NW, Edmonton, Alberta, T5G3K2, Canada
+p2675
+aV1994, Traders Boulevard East, Britannia, Ont., Peel Region, Ontario, L4Z1W7, Canada
+p2676
 aa.

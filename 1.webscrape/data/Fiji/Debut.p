@@ -941,4 +941,472 @@ aVFiji v Wales at Suva, Jun 18, 1994
 p471
 aVFiji v Wales at Suva, Jun 18, 1994
 p472
+aVFiji v Canada at Nadi, Apr 8, 1995
+p473
+aVFiji v Canada at Nadi, Apr 8, 1995
+p474
+aVFiji v Canada at Nadi, Apr 8, 1995
+p475
+aVFiji v Canada at Nadi, Apr 8, 1995
+p476
+aVFiji v Canada at Nadi, Apr 8, 1995
+p477
+aVFiji v Canada at Nadi, Apr 8, 1995
+p478
+aVSamoa v Fiji at Apia, Jul 1, 1995
+p479
+aVSamoa v Fiji at Apia, Jul 1, 1995
+p480
+aVSamoa v Fiji at Apia, Jul 1, 1995
+p481
+aVWales v Fiji at Cardiff, Nov 11, 1995
+p482
+aVWales v Fiji at Cardiff, Nov 11, 1995
+p483
+aVWales v Fiji at Cardiff, Nov 11, 1995
+p484
+aVSouth Africa v Fiji at Pretoria, Jul 2, 1996
+p485
+aVSouth Africa v Fiji at Pretoria, Jul 2, 1996
+p486
+aVSouth Africa v Fiji at Pretoria, Jul 2, 1996
+p487
+aVSouth Africa v Fiji at Pretoria, Jul 2, 1996
+p488
+aVFiji v Samoa at Suva, Jul 20, 1996
+p489
+aVHong Kong v Fiji at Hong Kong, Sep 29, 1996
+p490
+aVHong Kong v Fiji at Hong Kong, Sep 29, 1996
+p491
+aVHong Kong v Fiji at Hong Kong, Sep 29, 1996
+p492
+aVHong Kong v Fiji at Hong Kong, Oct 5, 1996
+p493
+aVHong Kong v Fiji at Hong Kong, Oct 5, 1996
+p494
+aVHong Kong v Fiji at Hong Kong, Oct 5, 1996
+p495
+aVFiji v New Zealand Maori at Suva, Nov 1, 1996
+p496
+aVNew Zealand v Fiji at North Shore City, Jun 14, 1997
+p497
+aVNew Zealand v Fiji at North Shore City, Jun 14, 1997
+p498
+aVNew Zealand v Fiji at North Shore City, Jun 14, 1997
+p499
+aVFiji v Scotland at Suva, May 26, 1998
+p500
+aVFiji v Scotland at Suva, May 26, 1998
+p501
+aVFiji v Scotland at Suva, May 26, 1998
+p502
+aVFiji v France at Suva, Jun 27, 1998
+p503
+aVAustralia v Fiji at Sydney, Sep 18, 1998
+p504
+aVFiji v Samoa at Canberra, Sep 22, 1998
+p505
+aVCanada v Fiji at Vancouver, May 15, 1999
+p506
+aVCanada v Fiji at Vancouver, May 15, 1999
+p507
+aVCanada v Fiji at Vancouver, May 15, 1999
+p508
+aVCanada v Fiji at Vancouver, May 15, 1999
+p509
+aVUnited States of America v Fiji at San Francisco, May 22, 1999
+p510
+aVUnited States of America v Fiji at San Francisco, May 22, 1999
+p511
+aVFiji v Samoa at Lautoka, Jul 3, 1999
+p512
+aVFiji v New Zealand Maori at Suva, Aug 3, 1999
+p513
+aVFiji v Spain at Avezzano, Aug 24, 1999
+p514
+aVFiji v Spain at Avezzano, Aug 24, 1999
+p515
+aVFiji v Uruguay at L'Aquila, Aug 26, 1999
+p516
+aVJapan v Fiji at Tokyo, May 20, 2000
+p517
+aVJapan v Fiji at Tokyo, May 20, 2000
+p518
+aVJapan v Fiji at Tokyo, May 20, 2000
+p519
+aVJapan v Fiji at Tokyo, May 20, 2000
+p520
+aVJapan v Fiji at Tokyo, May 20, 2000
+p521
+aVJapan v Fiji at Tokyo, May 20, 2000
+p522
+aVJapan v Fiji at Tokyo, May 20, 2000
+p523
+aVJapan v Fiji at Tokyo, May 20, 2000
+p524
+aVJapan v Fiji at Tokyo, May 20, 2000
+p525
+aVTonga v Fiji at Nuku A'lofa, May 26, 2000
+p526
+aVTonga v Fiji at Nuku A'lofa, May 26, 2000
+p527
+aVFiji v United States of America at Apia, Jun 30, 2000
+p528
+aVFiji v United States of America at Apia, Jun 30, 2000
+p529
+aVFiji v United States of America at Apia, Jun 30, 2000
+p530
+aVCanada v Fiji at Apia, Jul 7, 2000
+p531
+aVTonga v Fiji at Nuku A'lofa, May 25, 2001
+p532
+aVTonga v Fiji at Nuku A'lofa, May 25, 2001
+p533
+aVFiji v Samoa at Suva, Jun 9, 2001
+p534
+aVFiji v Tonga at Lautoka, Jun 16, 2001
+p535
+aVSamoa v Fiji at Apia, Jun 23, 2001
+p536
+aVSamoa v Fiji at Apia, Jun 23, 2001
+p537
+aVSamoa v Fiji at Apia, Jun 23, 2001
+p538
+aVItaly v Fiji at Treviso, Nov 10, 2001
+p539
+aVItaly v Fiji at Treviso, Nov 10, 2001
+p540
+aVItaly v Fiji at Treviso, Nov 10, 2001
+p541
+aVFrance v Fiji at Saint-Etienne, Nov 24, 2001
+p542
+aVFrance v Fiji at Saint-Etienne, Nov 24, 2001
+p543
+aVFrance v Fiji at Saint-Etienne, Nov 24, 2001
+p544
+aVSamoa v Fiji at Apia, Jun 1, 2002
+p545
+aVSamoa v Fiji at Apia, Jun 1, 2002
+p546
+aVSamoa v Fiji at Apia, Jun 1, 2002
+p547
+aVSamoa v Fiji at Apia, Jun 1, 2002
+p548
+aVSamoa v Fiji at Apia, Jun 1, 2002
+p549
+aVTonga v Fiji at Nuku A'lofa, Jun 7, 2002
+p550
+aVTonga v Fiji at Nuku A'lofa, Jun 7, 2002
+p551
+aVScotland v Fiji at Murrayfield, Nov 24, 2002
+p552
+aVScotland v Fiji at Murrayfield, Nov 24, 2002
+p553
+aVFiji v Tonga at Nadi, Jul 4, 2003
+p554
+aVTonga v Fiji at Nuku A'lofa, Jul 11, 2003
+p555
+aVArgentina v Fiji at Cordoba, Aug 18, 2003
+p556
+aVArgentina v Fiji at Cordoba, Aug 18, 2003
+p557
+aVArgentina v Fiji at Cordoba, Aug 18, 2003
+p558
+aVFiji v Scotland at Sydney, Nov 1, 2003
+p559
+aVTonga v Fiji at Nuku A'lofa, Jun 5, 2004
+p560
+aVTonga v Fiji at Nuku A'lofa, Jun 5, 2004
+p561
+aVTonga v Fiji at Nuku A'lofa, Jun 5, 2004
+p562
+aVTonga v Fiji at Nuku A'lofa, Jun 5, 2004
+p563
+aVTonga v Fiji at Nuku A'lofa, Jun 5, 2004
+p564
+aVTonga v Fiji at Nuku A'lofa, Jun 5, 2004
+p565
+aVTonga v Fiji at Nuku A'lofa, Jun 5, 2004
+p566
+aVTonga v Fiji at Nuku A'lofa, Jun 5, 2004
+p567
+aVFiji v Samoa at Suva, Jun 12, 2004
+p568
+aVFiji v Samoa at Suva, Jun 12, 2004
+p569
+aVFiji v Samoa at Suva, Jun 12, 2004
+p570
+aVFiji v Samoa at Suva, Jun 12, 2004
+p571
+aVFiji v New Zealand Maori at Suva, Jun 3, 2005
+p572
+aVFiji v New Zealand Maori at Suva, Jun 3, 2005
+p573
+aVFiji v New Zealand Maori at Suva, Jun 3, 2005
+p574
+aVFiji v New Zealand Maori at Suva, Jun 3, 2005
+p575
+aVFiji v New Zealand Maori at Suva, Jun 3, 2005
+p576
+aVNew Zealand v Fiji at North Shore City, Jun 10, 2005
+p577
+aVFiji v Tonga at Suva, Jun 25, 2005
+p578
+aVFiji v Tonga at Suva, Jun 25, 2005
+p579
+aVFiji v Tonga at Suva, Jun 25, 2005
+p580
+aVSamoa v Fiji at Apia, Jul 9, 2005
+p581
+aVSamoa v Fiji at Apia, Jul 9, 2005
+p582
+aVSamoa v Fiji at Apia, Jul 9, 2005
+p583
+aVFiji v Samoa at Suva, Jul 30, 2005
+p584
+aVFiji v Samoa at Suva, Jul 30, 2005
+p585
+aVWales v Fiji at Millennium Stadium, Nov 11, 2005
+p586
+aVWales v Fiji at Millennium Stadium, Nov 11, 2005
+p587
+aVPortugal v Fiji at Lisbon, Nov 19, 2005
+p588
+aVPortugal v Fiji at Lisbon, Nov 19, 2005
+p589
+aVPortugal v Fiji at Lisbon, Nov 19, 2005
+p590
+aVItaly v Fiji at Monza, Nov 26, 2005
+p591
+aVFiji v Tonga at Gosford, Jun 10, 2006
+p592
+aVFiji v Tonga at Gosford, Jun 10, 2006
+p593
+aVFiji v Tonga at Gosford, Jun 10, 2006
+p594
+aVFiji v Tonga at Gosford, Jun 10, 2006
+p595
+aVFiji v Samoa at Suva, Jun 24, 2006
+p596
+aVSamoa v Fiji at Apia, May 19, 2007
+p597
+aVSamoa v Fiji at Apia, May 19, 2007
+p598
+aVSamoa v Fiji at Apia, May 19, 2007
+p599
+aVSamoa v Fiji at Apia, May 19, 2007
+p600
+aVSamoa v Fiji at Apia, May 19, 2007
+p601
+aVSamoa v Fiji at Apia, May 19, 2007
+p602
+aVSamoa v Fiji at Apia, May 19, 2007
+p603
+aVSamoa v Fiji at Apia, May 19, 2007
+p604
+aVFiji v Japan at Lautoka, May 26, 2007
+p605
+aVFiji v Japan at Lautoka, May 26, 2007
+p606
+aVFiji v Tonga at Lautoka, Jun 16, 2007
+p607
+aVFiji v Tonga at Lautoka, Jun 16, 2007
+p608
+aVFiji v Tonga at Lautoka, Jun 16, 2007
+p609
+aVFiji v Tonga at Lautoka, Jun 16, 2007
+p610
+aVFiji v Tonga at Lautoka, Jun 16, 2007
+p611
+aVAustralia v Fiji at Montpellier, Sep 23, 2007
+p612
+aVFiji v Samoa at Lautoka, Jun 7, 2008
+p613
+aVFiji v Samoa at Lautoka, Jun 7, 2008
+p614
+aVFiji v Samoa at Lautoka, Jun 7, 2008
+p615
+aVFiji v Samoa at Lautoka, Jun 7, 2008
+p616
+aVFiji v New Zealand Maori at Lautoka, Jun 14, 2008
+p617
+aVJapan v Fiji at Tokyo, Jun 22, 2008
+p618
+aVJapan v Fiji at Tokyo, Jun 22, 2008
+p619
+aVTonga v Fiji at Nuku A'lofa, Jul 5, 2008
+p620
+aVTonga v Fiji at Nuku A'lofa, Jul 5, 2008
+p621
+aVTonga v Fiji at Nuku A'lofa, Jul 5, 2008
+p622
+aVTonga v Fiji at Nuku A'lofa, Jul 5, 2008
+p623
+aVTonga v Fiji at Nuku A'lofa, Jun 13, 2009
+p624
+aVTonga v Fiji at Nuku A'lofa, Jun 13, 2009
+p625
+aVTonga v Fiji at Nuku A'lofa, Jun 13, 2009
+p626
+aVTonga v Fiji at Nuku A'lofa, Jun 13, 2009
+p627
+aVTonga v Fiji at Nuku A'lofa, Jun 13, 2009
+p628
+aVTonga v Fiji at Nuku A'lofa, Jun 13, 2009
+p629
+aVFiji v Samoa at Lautoka, Jun 27, 2009
+p630
+aVFiji v Samoa at Lautoka, Jun 27, 2009
+p631
+aVFiji v Japan at Suva, Jul 3, 2009
+p632
+aVFiji v Japan at Suva, Jul 3, 2009
+p633
+aVFiji v Japan at Suva, Jul 3, 2009
+p634
+aVFiji v Japan at Suva, Jul 3, 2009
+p635
+aVScotland v Fiji at Murrayfield, Nov 14, 2009
+p636
+aVScotland v Fiji at Murrayfield, Nov 14, 2009
+p637
+aVScotland v Fiji at Murrayfield, Nov 14, 2009
+p638
+aVFrance v Pacific Islanders at Sochaux-Montbéliard, Nov 15, 2008
+p639
+aVScotland v Fiji at Murrayfield, Nov 14, 2009
+p640
+aVScotland v Fiji at Murrayfield, Nov 14, 2009
+p641
+aVScotland v Fiji at Murrayfield, Nov 14, 2009
+p642
+aVScotland v Fiji at Murrayfield, Nov 14, 2009
+p643
+aVRomania v Fiji at Bucharest, Nov 28, 2009
+p644
+aVRomania v Fiji at Bucharest, Nov 28, 2009
+p645
+aVRomania v Fiji at Bucharest, Nov 28, 2009
+p646
+aVAustralia v Fiji at Canberra, Jun 5, 2010
+p647
+aVAustralia v Fiji at Canberra, Jun 5, 2010
+p648
+aVAustralia v Fiji at Canberra, Jun 5, 2010
+p649
+aVAustralia v Fiji at Canberra, Jun 5, 2010
+p650
+aVAustralia v Fiji at Canberra, Jun 5, 2010
+p651
+aVFiji v Japan at Lautoka, Jun 12, 2010
+p652
+aVFiji v Japan at Lautoka, Jun 12, 2010
+p653
+aVFiji v Japan at Lautoka, Jun 12, 2010
+p654
+aVFiji v Japan at Lautoka, Jun 12, 2010
+p655
+aVFiji v Japan at Lautoka, Jun 12, 2010
+p656
+aVFiji v Tonga at Apia, Jun 19, 2010
+p657
+aVSamoa v Fiji at Apia, Jun 26, 2010
+p658
+aVFrance v Fiji at Nantes, Nov 13, 2010
+p659
+aVFrance v Fiji at Nantes, Nov 13, 2010
+p660
+aVItaly v Fiji at Modena, Nov 27, 2010
+p661
+aVFiji v Tonga at Lautoka, Jul 2, 2011
+p662
+aVFiji v Tonga at Lautoka, Jul 2, 2011
+p663
+aVFiji v Tonga at Lautoka, Jul 2, 2011
+p664
+aVFiji v Tonga at Lautoka, Jul 2, 2011
+p665
+aVFiji v Japan at Lautoka, Jul 13, 2011
+p666
+aVFiji v Japan at Lautoka, Jul 13, 2011
+p667
+aVJapan v Fiji at Nagoya, Jun 5, 2012
+p668
+aVJapan v Fiji at Nagoya, Jun 5, 2012
+p669
+aVJapan v Fiji at Nagoya, Jun 5, 2012
+p670
+aVJapan v Fiji at Nagoya, Jun 5, 2012
+p671
+aVJapan v Fiji at Nagoya, Jun 5, 2012
+p672
+aVJapan v Fiji at Nagoya, Jun 5, 2012
+p673
+aVJapan v Fiji at Nagoya, Jun 5, 2012
+p674
+aVJapan v Fiji at Nagoya, Jun 5, 2012
+p675
+aVJapan v Fiji at Nagoya, Jun 5, 2012
+p676
+aVJapan v Fiji at Nagoya, Jun 5, 2012
+p677
+aVFiji v Samoa at Tokyo, Jun 10, 2012
+p678
+aVFiji v Samoa at Tokyo, Jun 10, 2012
+p679
+aVFiji v Scotland at Lautoka, Jun 16, 2012
+p680
+aVFiji v Tonga at Lautoka, Jun 23, 2012
+p681
+aVFiji v Tonga at Lautoka, Jun 23, 2012
+p682
+aVEngland v Fiji at Twickenham, Nov 10, 2012
+p683
+aVEngland v Fiji at Twickenham, Nov 10, 2012
+p684
+aVEngland v Fiji at Twickenham, Nov 10, 2012
+p685
+aVGeorgia v Fiji at Tbilisi, Nov 24, 2012
+p686
+aVGeorgia v Fiji at Tbilisi, Nov 24, 2012
+p687
+aVFiji v Japan at Lautoka, Jun 1, 2013
+p688
+aVFiji v Japan at Lautoka, Jun 1, 2013
+p689
+aVCanada v Fiji at Nepean, Jun 5, 2013
+p690
+aVCanada v Fiji at Nepean, Jun 5, 2013
+p691
+aVPortugal v Fiji at Lisbon, Nov 9, 2013
+p692
+aVPortugal v Fiji at Lisbon, Nov 9, 2013
+p693
+aVPortugal v Fiji at Lisbon, Nov 9, 2013
+p694
+aVRomania v Fiji at Bucharest, Nov 23, 2013
+p695
+aVRomania v Fiji at Bucharest, Nov 23, 2013
+p696
+aVBarbarians v Fiji at Twickenham, Nov 30, 2013
+p697
+aVBarbarians v Fiji at Twickenham, Nov 30, 2013
+p698
+aVFiji v Italy at Suva, Jun 7, 2014
+p699
+aVFiji v Cook Islands at Suva, Jun 28, 2014
+p700
+aVFrance v Fiji at Marseille, Nov 8, 2014
+p701
+aVFrance v Fiji at Marseille, Nov 8, 2014
+p702
+aVFiji v United States of America at Vannes, Nov 21, 2014
+p703
+aVFiji v New Zealand Maori at Suva, Jul 11, 2015
+p704
+aVFiji v New Zealand Maori at Suva, Jul 11, 2015
+p705
+aVFiji v Tonga at Suva, Jul 18, 2015
+p706
 a.

@@ -943,4 +943,354 @@ aVMarch 6, 1976
 p472
 aVMay 21, 1970
 p473
+aVDecember 31, 1979, Auckland
+p474
+aVMarch 9, 1978
+p475
+aVdate unknown
+p476
+aVMay 24, 1979, Auckland
+p477
+aVNovember 12, 1978, Lower Hutt
+p478
+aVOctober 8, 1979
+p479
+aVAugust 19, 1982
+p480
+aVApril 27, 1982, Folaha
+p481
+aVNovember 29, 1976
+p482
+aVJanuary 31, 1978, Leimatu'a
+p483
+aVdate unknown
+p484
+aVMarch 4, 1977, Auckland
+p485
+aVMay 25, 1976, Auckland
+p486
+aVNovember 6, 1981, Wellington
+p487
+aVFebruary 1, 1980, Manly
+p488
+aVJune 26, 1976, Auckland
+p489
+aVSeptember 16, 1976
+p490
+aVdate unknown
+p491
+aVdate unknown
+p492
+aVdate unknown
+p493
+aVOctober 15, 1975, Nomuka
+p494
+aVAugust 20, 1980
+p495
+aVJune 18, 1982, Hourna
+p496
+aVApril 30, 1975, Auckland
+p497
+aVJuly 21, 1978
+p498
+aVFebruary 2, 1975
+p499
+aVJune 13, 1975
+p500
+aVAugust 31, 1983, Fasi-moe-afi
+p501
+aVMarch 18, 1983, Kolonga
+p502
+aVJuly 10, 1979
+p503
+aVJune 14, 1978
+p504
+aVMarch 24, 1982
+p505
+aVNovember 21, 1980, Kolofo'ou
+p506
+aVDecember 10, 1979
+p507
+aVJune 7, 1980, Holopeka
+p508
+aVdate unknown
+p509
+aVFebruary 25, 1982
+p510
+aVdate unknown
+p511
+aVNovember 16, 1983, Tofoa
+p512
+aVMay 6, 1983, Holopeka
+p513
+aVDecember 12, 1983
+p514
+aVNovember 18, 1977
+p515
+aVJanuary 11, 1981
+p516
+aVdate unknown
+p517
+aVdate unknown
+p518
+aVJune 26, 1983
+p519
+aVdate unknown
+p520
+aVdate unknown
+p521
+aVJanuary 21, 1982, Houma
+p522
+aVSeptember 11, 1984
+p523
+aVFebruary 21, 1978, Longoteme
+p524
+aVNovember 13, 1980
+p525
+aVFebruary 1, 1979, Vaini
+p526
+aVFebruary 19, 1982, Tofoa
+p527
+aVJune 12, 1984
+p528
+aVAugust 18, 1974
+p529
+aVApril 12, 1987
+p530
+aVOctober 26, 1984, Tofoa
+p531
+aVMay 10, 1984
+p532
+aVdate unknown
+p533
+aVFebruary 19, 1980
+p534
+aVFebruary 28, 1983, Koulo
+p535
+aVdate unknown
+p536
+aVdate unknown
+p537
+aVJune 20, 1985, Ha'ateiho
+p538
+aVApril 30, 1979, Kolomotu'a
+p539
+aVMarch 2, 1981
+p540
+aVMay 18, 1988, Matahau
+p541
+aVJuly 30, 1985
+p542
+aVdate unknown
+p543
+aVDecember 21, 1983
+p544
+aVDecember 5, 1987
+p545
+aVdate unknown
+p546
+aVDecember 5, 1979, Ha'ateiho
+p547
+aVJune 7, 1982
+p548
+aVMay 21, 1982
+p549
+aVApril 24, 1978, Ovaka
+p550
+aVOctober 10, 1979
+p551
+aVdate unknown
+p552
+aVdate unknown
+p553
+aVSeptember 13, 1986
+p554
+aVJuly 10, 1977, Longoteme
+p555
+aVSeptember 24, 1984, Ha'ateiho
+p556
+aVFebruary 21, 1987, Brisbane, QLD
+p557
+aVMay 9, 1985
+p558
+aVDecember 10, 1985
+p559
+aVDecember 22, 1982, Auckland
+p560
+aVFebruary 17, 1986
+p561
+aVSeptember 3, 1984, Tofoa
+p562
+aVJune 1, 1980
+p563
+aVDecember 13, 1984, Sigatoka
+p564
+aVJuly 5, 1987, Neiafu
+p565
+aVFebruary 5, 1982, Tofoa
+p566
+aVDecember 25, 1978
+p567
+aVMay 26, 1986, Kolonga
+p568
+aVApril 27, 1980
+p569
+aVJuly 7, 1988
+p570
+aVJuly 20, 1988
+p571
+aVdate unknown
+p572
+aVdate unknown
+p573
+aVJuly 29, 1985
+p574
+aVMay 28, 1988
+p575
+aVdate unknown
+p576
+aVApril 8, 1989, Tefisi
+p577
+aVJuly 4, 1981
+p578
+aVNovember 13, 1984, Takapuna
+p579
+aVJanuary 12, 1986, Meifu
+p580
+aVAugust 4, 1986
+p581
+aVJuly 31, 1987
+p582
+aVJuly 3, 1984
+p583
+aVJuly 29, 1980
+p584
+aVApril 20, 1979
+p585
+aVJuly 24, 1983, Ha'ateiho
+p586
+aVNovember 29, 1987, Tofoa
+p587
+aVApril 13, 1984
+p588
+aVDecember 9, 1989, Fairfield
+p589
+aVApril 19, 1986, Otahuhu
+p590
+aVApril 15, 1986
+p591
+aVJanuary 25, 1988
+p592
+aVJune 21, 1979
+p593
+aVDecember 10, 1984
+p594
+aVNovember 13, 1980
+p595
+aVdate unknown
+p596
+aVdate unknown
+p597
+aVAugust 23, 1985
+p598
+aVdate unknown
+p599
+aVMay 15, 1990
+p600
+aVdate unknown
+p601
+aVdate unknown
+p602
+aVdate unknown
+p603
+aVAugust 8, 1989, Tofoa
+p604
+aVJune 18, 1982
+p605
+aVMarch 9, 1982, Longolongo
+p606
+aVDecember 5, 1982
+p607
+aVMarch 11, 1984
+p608
+aVFebruary 8, 1988, Sydney, NSW
+p609
+aVJuly 31, 1985
+p610
+aVNovember 13, 1981, Ha'akame
+p611
+aVAugust 18, 1981, Suva
+p612
+aVNovember 29, 1985
+p613
+aVApril 15, 1988, Tefisi
+p614
+aVFebruary 2, 1988
+p615
+aVSeptember 23, 1986, Wellington
+p616
+aVAugust 31, 1983, Angahaeua
+p617
+aVMarch 11, 1985, Tofoa
+p618
+aVJanuary 30, 1985, Tofoa
+p619
+aVOctober 13, 1985, Auckland
+p620
+aVFebruary 5, 1983, Brisbane, QLD
+p621
+aVMarch 27, 1988, NSW
+p622
+aVApril 25, 1985, Manly
+p623
+aVJune 8, 1985, Futu
+p624
+aVMay 25, 1983, Tofoa
+p625
+aVDecember 3, 1981, Auckland
+p626
+aVDecember 1, 1988, Auckland
+p627
+aVJanuary 17, 1987, Nuku'alofa
+p628
+aVMarch 1, 1986
+p629
+aVApril 20, 1984, Auckland
+p630
+aVJuly 7, 1991
+p631
+aVFebruary 13, 1989
+p632
+aVMarch 8, 1980
+p633
+aVSeptember 29, 1982, Auckland
+p634
+aVJuly 25, 1992, Takapuna
+p635
+aVAugust 12, 1988, Tokoroa
+p636
+aVAugust 7, 1990
+p637
+aVApril 26, 1991, Havelu
+p638
+aVFebruary 19, 1990, Christchurch
+p639
+aVJanuary 11, 1991, Tofoa
+p640
+aVNovember 4, 1988, Auckland
+p641
+aVAugust 9, 1986
+p642
+aVJanuary 12, 1987, Vava'u
+p643
+aVDecember 26, 1990, Kawakawa
+p644
+aVSeptember 10, 1992, Auckland
+p645
+aVDecember 14, 1991
+p646
+aVJanuary 14, 1987, Sydney
+p647
+aVSeptember 15, 1991, Neiafu
+p648
 a.

@@ -915,4 +915,1216 @@ aVScotland v France at Murrayfield, Jan 14, 1956
 p458
 aVScotland v France at Murrayfield, Jan 14, 1956
 p459
+aVScotland v France at Murrayfield, Jan 14, 1956
+p460
+aVScotland v France at Murrayfield, Jan 14, 1956
+p461
+aVFrance v England at Colombes, Apr 14, 1956
+p462
+aVFrance v Czech Republic at Toulouse, Dec 16, 1956
+p463
+aVFrance v Czech Republic at Toulouse, Dec 16, 1956
+p464
+aVFrance v Czech Republic at Toulouse, Dec 16, 1956
+p465
+aVIreland v France at Lansdowne Road, Jan 26, 1957
+p466
+aVIreland v France at Lansdowne Road, Jan 26, 1957
+p467
+aVFrance v Italy at Agen, Apr 21, 1957
+p468
+aVFrance v Italy at Agen, Apr 21, 1957
+p469
+aVFrance v Italy at Agen, Apr 21, 1957
+p470
+aVRomania v France at Bucharest, May 19, 1957
+p471
+aVRomania v France at Bucharest, May 19, 1957
+p472
+aVRomania v France at Bucharest, May 19, 1957
+p473
+aVFrance v Romania at Bordeaux, Dec 15, 1957
+p474
+aVFrance v Australia at Colombes, Mar 9, 1958
+p475
+aVFrance v Australia at Colombes, Mar 9, 1958
+p476
+aVFrance v Australia at Colombes, Mar 9, 1958
+p477
+aVItaly v France at Naples, Apr 7, 1958
+p478
+aVItaly v France at Naples, Apr 7, 1958
+p479
+aVSouth Africa v France at Cape Town, Jul 26, 1958
+p480
+aVIreland v France at Lansdowne Road, Apr 18, 1959
+p481
+aVIreland v France at Lansdowne Road, Apr 18, 1959
+p482
+aVIreland v France at Lansdowne Road, Apr 18, 1959
+p483
+aVScotland v France at Murrayfield, Jan 9, 1960
+p484
+aVScotland v France at Murrayfield, Jan 9, 1960
+p485
+aVWales v France at Cardiff, Mar 26, 1960
+p486
+aVWales v France at Cardiff, Mar 26, 1960
+p487
+aVWales v France at Cardiff, Mar 26, 1960
+p488
+aVRomania v France at Bucharest, Jun 5, 1960
+p489
+aVArgentina v France at Buenos Aires, Aug 6, 1960
+p490
+aVArgentina v France at Buenos Aires, Aug 6, 1960
+p491
+aVArgentina v France at Buenos Aires, Aug 6, 1960
+p492
+aVArgentina v France at Buenos Aires, Aug 17, 1960
+p493
+aVArgentina v France at Buenos Aires, Aug 17, 1960
+p494
+aVFrance v Scotland at Colombes, Jan 7, 1961
+p495
+aVFrance v Scotland at Colombes, Jan 7, 1961
+p496
+aVFrance v South Africa at Colombes, Feb 18, 1961
+p497
+aVFrance v Italy at Chambery, Apr 2, 1961
+p498
+aVNew Zealand v France at Auckland, Jul 22, 1961
+p499
+aVNew Zealand v France at Auckland, Jul 22, 1961
+p500
+aVNew Zealand v France at Auckland, Jul 22, 1961
+p501
+aVNew Zealand v France at Wellington, Aug 5, 1961
+p502
+aVNew Zealand v France at Wellington, Aug 5, 1961
+p503
+aVNew Zealand v France at Wellington, Aug 5, 1961
+p504
+aVNew Zealand v France at Christchurch, Aug 19, 1961
+p505
+aVNew Zealand v France at Christchurch, Aug 19, 1961
+p506
+aVAustralia v France at Sydney, Aug 26, 1961
+p507
+aVFrance v Romania at Bayonne, Nov 12, 1961
+p508
+aVFrance v Romania at Bayonne, Nov 12, 1961
+p509
+aVScotland v France at Murrayfield, Jan 13, 1962
+p510
+aVScotland v France at Murrayfield, Jan 13, 1962
+p511
+aVItaly v France at Brescia, Apr 22, 1962
+p512
+aVRomania v France at Bucharest, Nov 11, 1962
+p513
+aVRomania v France at Bucharest, Nov 11, 1962
+p514
+aVRomania v France at Bucharest, Nov 11, 1962
+p515
+aVRomania v France at Bucharest, Nov 11, 1962
+p516
+aVFrance v Scotland at Colombes, Jan 12, 1963
+p517
+aVFrance v Scotland at Colombes, Jan 12, 1963
+p518
+aVIreland v France at Lansdowne Road, Jan 26, 1963
+p519
+aVEngland v France at Twickenham, Feb 23, 1963
+p520
+aVEngland v France at Twickenham, Feb 23, 1963
+p521
+aVFrance v Wales at Colombes, Mar 23, 1963
+p522
+aVFrance v Italy at Grenoble, Apr 14, 1963
+p523
+aVFrance v Italy at Grenoble, Apr 14, 1963
+p524
+aVFrance v Romania at Toulouse, Dec 15, 1963
+p525
+aVFrance v Romania at Toulouse, Dec 15, 1963
+p526
+aVFrance v Romania at Toulouse, Dec 15, 1963
+p527
+aVFrance v Romania at Toulouse, Dec 15, 1963
+p528
+aVFrance v Romania at Toulouse, Dec 15, 1963
+p529
+aVScotland v France at Murrayfield, Jan 4, 1964
+p530
+aVScotland v France at Murrayfield, Jan 4, 1964
+p531
+aVFrance v New Zealand at Colombes, Feb 8, 1964
+p532
+aVFrance v England at Colombes, Feb 22, 1964
+p533
+aVWales v France at Cardiff, Mar 21, 1964
+p534
+aVWales v France at Cardiff, Mar 21, 1964
+p535
+aVWales v France at Cardiff, Mar 21, 1964
+p536
+aVFrance v Ireland at Colombes, Apr 11, 1964
+p537
+aVFrance v Ireland at Colombes, Apr 11, 1964
+p538
+aVSouth Africa v France at Springs, Jul 25, 1964
+p539
+aVSouth Africa v France at Springs, Jul 25, 1964
+p540
+aVRomania v France at Bucharest, Nov 29, 1964
+p541
+aVFrance v Wales at Colombes, Mar 27, 1965
+p542
+aVFrance v Romania at Lyon, Nov 28, 1965
+p543
+aVScotland v France at Murrayfield, Jan 15, 1966
+p544
+aVScotland v France at Murrayfield, Jan 15, 1966
+p545
+aVFrance v England at Colombes, Feb 26, 1966
+p546
+aVItaly v France at Naples, Apr 9, 1966
+p547
+aVItaly v France at Naples, Apr 9, 1966
+p548
+aVRomania v France at Bucharest, Nov 27, 1966
+p549
+aVRomania v France at Bucharest, Nov 27, 1966
+p550
+aVRomania v France at Bucharest, Nov 27, 1966
+p551
+aVFrance v Australia at Colombes, Feb 11, 1967
+p552
+aVEngland v France at Twickenham, Feb 25, 1967
+p553
+aVFrance v Italy at Toulon, Mar 26, 1967
+p554
+aVFrance v Italy at Toulon, Mar 26, 1967
+p555
+aVSouth Africa v France at Durban, Jul 15, 1967
+p556
+aVSouth Africa v France at Durban, Jul 15, 1967
+p557
+aVSouth Africa v France at Bloemfontein, Jul 22, 1967
+p558
+aVSouth Africa v France at Bloemfontein, Jul 22, 1967
+p559
+aVSouth Africa v France at Bloemfontein, Jul 22, 1967
+p560
+aVSouth Africa v France at Bloemfontein, Jul 22, 1967
+p561
+aVSouth Africa v France at Bloemfontein, Jul 22, 1967
+p562
+aVSouth Africa v France at Johannesburg, Jul 29, 1967
+p563
+aVSouth Africa v France at Johannesburg, Jul 29, 1967
+p564
+aVSouth Africa v France at Cape Town, Aug 12, 1967
+p565
+aVFrance v New Zealand at Colombes, Nov 25, 1967
+p566
+aVFrance v Romania at Nantes, Dec 10, 1967
+p567
+aVFrance v Romania at Nantes, Dec 10, 1967
+p568
+aVFrance v England at Colombes, Feb 24, 1968
+p569
+aVFrance v England at Colombes, Feb 24, 1968
+p570
+aVFrance v England at Colombes, Feb 24, 1968
+p571
+aVWales v France at Cardiff, Mar 23, 1968
+p572
+aVNew Zealand v France at Christchurch, Jul 13, 1968
+p573
+aVNew Zealand v France at Christchurch, Jul 13, 1968
+p574
+aVNew Zealand v France at Christchurch, Jul 13, 1968
+p575
+aVNew Zealand v France at Wellington, Jul 27, 1968
+p576
+aVNew Zealand v France at Wellington, Jul 27, 1968
+p577
+aVNew Zealand v France at Auckland, Aug 10, 1968
+p578
+aVNew Zealand v France at Auckland, Aug 10, 1968
+p579
+aVFrance v South Africa at Bordeaux, Nov 9, 1968
+p580
+aVFrance v South Africa at Bordeaux, Nov 9, 1968
+p581
+aVFrance v South Africa at Colombes, Nov 16, 1968
+p582
+aVFrance v South Africa at Colombes, Nov 16, 1968
+p583
+aVFrance v South Africa at Colombes, Nov 16, 1968
+p584
+aVRomania v France at Bucharest, Dec 1, 1968
+p585
+aVEngland v France at Twickenham, Feb 22, 1969
+p586
+aVEngland v France at Twickenham, Feb 22, 1969
+p587
+aVEngland v France at Twickenham, Feb 22, 1969
+p588
+aVEngland v France at Twickenham, Feb 22, 1969
+p589
+aVFrance v Wales at Colombes, Mar 22, 1969
+p590
+aVFrance v Wales at Colombes, Mar 22, 1969
+p591
+aVFrance v Wales at Colombes, Mar 22, 1969
+p592
+aVFrance v Romania at Tarbes, Dec 14, 1969
+p593
+aVFrance v Romania at Tarbes, Dec 14, 1969
+p594
+aVFrance v Romania at Tarbes, Dec 14, 1969
+p595
+aVFrance v Romania at Tarbes, Dec 14, 1969
+p596
+aVFrance v Romania at Tarbes, Dec 14, 1969
+p597
+aVWales v France at Cardiff, Apr 4, 1970
+p598
+aVFrance v England at Colombes, Apr 18, 1970
+p599
+aVFrance v Scotland at Colombes, Jan 16, 1971
+p600
+aVFrance v Scotland at Colombes, Jan 16, 1971
+p601
+aVFrance v Scotland at Colombes, Jan 16, 1971
+p602
+aVEngland v France at Twickenham, Feb 27, 1971
+p603
+aVEngland v France at Twickenham, Feb 27, 1971
+p604
+aVSouth Africa v France at Bloemfontein, Jun 12, 1971
+p605
+aVSouth Africa v France at Durban, Jun 19, 1971
+p606
+aVFrance v Australia at Colombes, Nov 27, 1971
+p607
+aVFrance v Australia at Colombes, Nov 27, 1971
+p608
+aVFrance v Australia at Colombes, Nov 27, 1971
+p609
+aVFrance v Australia at Colombes, Nov 27, 1971
+p610
+aVFrance v Australia at Colombes, Nov 27, 1971
+p611
+aVFrance v Australia at Colombes, Nov 27, 1971
+p612
+aVFrance v Romania at Beziers, Dec 11, 1971
+p613
+aVFrance v Romania at Beziers, Dec 11, 1971
+p614
+aVFrance v Romania at Beziers, Dec 11, 1971
+p615
+aVIreland v France at Lansdowne Road, Apr 29, 1972
+p616
+aVAustralia v France at Sydney, Jun 17, 1972
+p617
+aVAustralia v France at Brisbane, Jun 25, 1972
+p618
+aVAustralia v France at Brisbane, Jun 25, 1972
+p619
+aVRomania v France at Constanta, Nov 26, 1972
+p620
+aVRomania v France at Constanta, Nov 26, 1972
+p621
+aVEngland v France at Twickenham, Feb 24, 1973
+p622
+aVFrance v Wales at Parc des Princes, Mar 24, 1973
+p623
+aVFrance v Wales at Parc des Princes, Mar 24, 1973
+p624
+aVFrance v Japan at Bordeaux, Oct 27, 1973
+p625
+aVFrance v Japan at Bordeaux, Oct 27, 1973
+p626
+aVFrance v Japan at Bordeaux, Oct 27, 1973
+p627
+aVFrance v Japan at Bordeaux, Oct 27, 1973
+p628
+aVFrance v Romania at Valence d'Agen, Nov 11, 1973
+p629
+aVFrance v Ireland at Parc des Princes, Jan 19, 1974
+p630
+aVWales v France at Cardiff, Feb 16, 1974
+p631
+aVScotland v France at Murrayfield, Mar 16, 1974
+p632
+aVArgentina v France at Buenos Aires, Jun 20, 1974
+p633
+aVArgentina v France at Buenos Aires, Jun 20, 1974
+p634
+aVArgentina v France at Buenos Aires, Jun 20, 1974
+p635
+aVRomania v France at Bucharest, Oct 13, 1974
+p636
+aVRomania v France at Bucharest, Oct 13, 1974
+p637
+aVFrance v Wales at Parc des Princes, Jan 18, 1975
+p638
+aVEngland v France at Twickenham, Feb 1, 1975
+p639
+aVEngland v France at Twickenham, Feb 1, 1975
+p640
+aVEngland v France at Twickenham, Feb 1, 1975
+p641
+aVFrance v Scotland at Parc des Princes, Feb 15, 1975
+p642
+aVFrance v Scotland at Parc des Princes, Feb 15, 1975
+p643
+aVIreland v France at Lansdowne Road, Mar 1, 1975
+p644
+aVSouth Africa v France at Bloemfontein, Jun 21, 1975
+p645
+aVSouth Africa v France at Bloemfontein, Jun 21, 1975
+p646
+aVSouth Africa v France at Bloemfontein, Jun 21, 1975
+p647
+aVSouth Africa v France at Bloemfontein, Jun 21, 1975
+p648
+aVSouth Africa v France at Bloemfontein, Jun 21, 1975
+p649
+aVSouth Africa v France at Bloemfontein, Jun 21, 1975
+p650
+aVSouth Africa v France at Bloemfontein, Jun 21, 1975
+p651
+aVFrance v Ireland at Parc des Princes, Feb 7, 1976
+p652
+aVFrance v England at Parc des Princes, Mar 20, 1976
+p653
+aVUnited States of America v France at Chicago, Jun 12, 1976
+p654
+aVFrance v Australia at Parc des Princes, Oct 30, 1976
+p655
+aVArgentina v France at Buenos Aires, Jun 25, 1977
+p656
+aVFrance v New Zealand at Toulouse, Nov 11, 1977
+p657
+aVFrance v New Zealand at Toulouse, Nov 11, 1977
+p658
+aVFrance v New Zealand at Parc des Princes, Nov 19, 1977
+p659
+aVFrance v Romania at Clermont-Ferrand, Dec 10, 1977
+p660
+aVFrance v Romania at Clermont-Ferrand, Dec 10, 1977
+p661
+aVFrance v England at Parc des Princes, Jan 21, 1978
+p662
+aVFrance v England at Parc des Princes, Jan 21, 1978
+p663
+aVFrance v Ireland at Parc des Princes, Feb 18, 1978
+p664
+aVRomania v France at Bucharest, Dec 3, 1978
+p665
+aVRomania v France at Bucharest, Dec 3, 1978
+p666
+aVRomania v France at Bucharest, Dec 3, 1978
+p667
+aVFrance v Wales at Parc des Princes, Feb 17, 1979
+p668
+aVEngland v France at Twickenham, Mar 3, 1979
+p669
+aVFrance v Scotland at Parc des Princes, Mar 17, 1979
+p670
+aVFrance v Scotland at Parc des Princes, Mar 17, 1979
+p671
+aVFrance v Scotland at Parc des Princes, Mar 17, 1979
+p672
+aVNew Zealand v France at Christchurch, Jul 7, 1979
+p673
+aVNew Zealand v France at Christchurch, Jul 7, 1979
+p674
+aVNew Zealand v France at Christchurch, Jul 7, 1979
+p675
+aVNew Zealand v France at Christchurch, Jul 7, 1979
+p676
+aVNew Zealand v France at Christchurch, Jul 7, 1979
+p677
+aVNew Zealand v France at Christchurch, Jul 7, 1979
+p678
+aVNew Zealand v France at Auckland, Jul 14, 1979
+p679
+aVFrance v Romania at Montauban, Dec 2, 1979
+p680
+aVFrance v England at Parc des Princes, Feb 2, 1980
+p681
+aVFrance v England at Parc des Princes, Feb 2, 1980
+p682
+aVFrance v England at Parc des Princes, Feb 2, 1980
+p683
+aVFrance v Ireland at Parc des Princes, Mar 1, 1980
+p684
+aVSouth Africa v France at Pretoria, Nov 8, 1980
+p685
+aVSouth Africa v France at Pretoria, Nov 8, 1980
+p686
+aVSouth Africa v France at Pretoria, Nov 8, 1980
+p687
+aVSouth Africa v France at Pretoria, Nov 8, 1980
+p688
+aVSouth Africa v France at Pretoria, Nov 8, 1980
+p689
+aVRomania v France at Bucharest, Nov 23, 1980
+p690
+aVRomania v France at Bucharest, Nov 23, 1980
+p691
+aVRomania v France at Bucharest, Nov 23, 1980
+p692
+aVFrance v Scotland at Parc des Princes, Jan 17, 1981
+p693
+aVFrance v Scotland at Parc des Princes, Jan 17, 1981
+p694
+aVIreland v France at Lansdowne Road, Feb 7, 1981
+p695
+aVAustralia v France at Brisbane, Jul 5, 1981
+p696
+aVAustralia v France at Brisbane, Jul 5, 1981
+p697
+aVAustralia v France at Brisbane, Jul 5, 1981
+p698
+aVAustralia v France at Brisbane, Jul 5, 1981
+p699
+aVAustralia v France at Brisbane, Jul 5, 1981
+p700
+aVAustralia v France at Sydney, Jul 11, 1981
+p701
+aVWales v France at Cardiff, Feb 6, 1982
+p702
+aVWales v France at Cardiff, Feb 6, 1982
+p703
+aVWales v France at Cardiff, Feb 6, 1982
+p704
+aVRomania v France at Bucharest, Oct 31, 1982
+p705
+aVRomania v France at Bucharest, Oct 31, 1982
+p706
+aVRomania v France at Bucharest, Oct 31, 1982
+p707
+aVRomania v France at Bucharest, Oct 31, 1982
+p708
+aVRomania v France at Bucharest, Oct 31, 1982
+p709
+aVFrance v Argentina at Toulouse, Nov 14, 1982
+p710
+aVFrance v Argentina at Toulouse, Nov 14, 1982
+p711
+aVFrance v Argentina at Parc des Princes, Nov 20, 1982
+p712
+aVFrance v Scotland at Parc des Princes, Feb 5, 1983
+p713
+aVFrance v Scotland at Parc des Princes, Feb 5, 1983
+p714
+aVIreland v France at Lansdowne Road, Feb 19, 1983
+p715
+aVFrance v Australia at Clermont-Ferrand, Nov 13, 1983
+p716
+aVFrance v Australia at Clermont-Ferrand, Nov 13, 1983
+p717
+aVFrance v Australia at Clermont-Ferrand, Nov 13, 1983
+p718
+aVFrance v Australia at Parc des Princes, Nov 19, 1983
+p719
+aVNew Zealand v France at Auckland, Jun 23, 1984
+p720
+aVNew Zealand v France at Auckland, Jun 23, 1984
+p721
+aVRomania v France at Bucharest, Nov 10, 1984
+p722
+aVArgentina v France at Buenos Aires, Jun 22, 1985
+p723
+aVArgentina v France at Buenos Aires, Jun 29, 1985
+p724
+aVArgentina v France at Buenos Aires, Jun 29, 1985
+p725
+aVScotland v France at Murrayfield, Jan 18, 1986
+p726
+aVWales v France at Cardiff, Mar 1, 1986
+p727
+aVArgentina v France at Buenos Aires, May 31, 1986
+p728
+aVArgentina v France at Buenos Aires, Jun 7, 1986
+p729
+aVAustralia v France at Sydney, Jun 21, 1986
+p730
+aVAustralia v France at Sydney, Jun 21, 1986
+p731
+aVRomania v France at Bucharest, Oct 23, 1986
+p732
+aVRomania v France at Bucharest, Oct 23, 1986
+p733
+aVFrance v New Zealand at Toulouse, Nov 8, 1986
+p734
+aVFrance v New Zealand at Nantes, Nov 15, 1986
+p735
+aVFrance v Romania at Wellington, May 28, 1987
+p736
+aVFrance v Zimbabwe at Auckland, Jun 2, 1987
+p737
+aVFrance v Zimbabwe at Auckland, Jun 2, 1987
+p738
+aVFrance v Romania at Agen, Nov 11, 1987
+p739
+aVFrance v Ireland at Parc des Princes, Feb 20, 1988
+p740
+aVArgentina v France at Buenos Aires, Jun 25, 1988
+p741
+aVFrance v Argentina at Nantes, Nov 5, 1988
+p742
+aVFrance v Argentina at Nantes, Nov 5, 1988
+p743
+aVFrance v Argentina at Lille, Nov 11, 1988
+p744
+aVRomania v France at Bucharest, Nov 26, 1988
+p745
+aVRomania v France at Bucharest, Nov 26, 1988
+p746
+aVNew Zealand v France at Christchurch, Jun 17, 1989
+p747
+aVNew Zealand v France at Christchurch, Jun 17, 1989
+p748
+aVNew Zealand v France at Auckland, Jul 1, 1989
+p749
+aVFrance v British and Irish Lions XV at Parc des Princes, Oct 4, 1989
+p750
+aVFrance v British and Irish Lions XV at Parc des Princes, Oct 4, 1989
+p751
+aVFrance v British and Irish Lions XV at Parc des Princes, Oct 4, 1989
+p752
+aVFrance v British and Irish Lions XV at Parc des Princes, Oct 4, 1989
+p753
+aVFrance v Australia at Strasbourg, Nov 4, 1989
+p754
+aVFrance v Australia at Strasbourg, Nov 4, 1989
+p755
+aVScotland v France at Murrayfield, Feb 17, 1990
+p756
+aVScotland v France at Murrayfield, Feb 17, 1990
+p757
+aVFrance v Ireland at Parc des Princes, Mar 3, 1990
+p758
+aVFrance v Romania at Auch, May 24, 1990
+p759
+aVFrance v Romania at Auch, May 24, 1990
+p760
+aVFrance v Romania at Auch, May 24, 1990
+p761
+aVAustralia v France at Sydney, Jun 9, 1990
+p762
+aVAustralia v France at Sydney, Jun 9, 1990
+p763
+aVAustralia v France at Brisbane, Jun 24, 1990
+p764
+aVAustralia v France at Sydney, Jun 30, 1990
+p765
+aVAustralia v France at Sydney, Jun 30, 1990
+p766
+aVFrance v New Zealand at Parc des Princes, Nov 10, 1990
+p767
+aVFrance v New Zealand at Parc des Princes, Nov 10, 1990
+p768
+aVFrance v New Zealand at Parc des Princes, Nov 10, 1990
+p769
+aVFrance v Scotland at Parc des Princes, Jan 19, 1991
+p770
+aVFrance v Scotland at Parc des Princes, Jan 19, 1991
+p771
+aVRomania v France at Bucharest, Jun 22, 1991
+p772
+aVRomania v France at Bucharest, Jun 22, 1991
+p773
+aVRomania v France at Bucharest, Jun 22, 1991
+p774
+aVRomania v France at Bucharest, Jun 22, 1991
+p775
+aVRomania v France at Bucharest, Jun 22, 1991
+p776
+aVRomania v France at Bucharest, Jun 22, 1991
+p777
+aVUnited States of America v France at Denver, Jul 13, 1991
+p778
+aVWales v France at Cardiff, Sep 4, 1991
+p779
+aVWales v France at Cardiff, Feb 1, 1992
+p780
+aVWales v France at Cardiff, Feb 1, 1992
+p781
+aVWales v France at Cardiff, Feb 1, 1992
+p782
+aVFrance v England at Parc des Princes, Feb 15, 1992
+p783
+aVFrance v England at Parc des Princes, Feb 15, 1992
+p784
+aVScotland v France at Murrayfield, Mar 7, 1992
+p785
+aVFrance v Romania at Le Havre, May 28, 1992
+p786
+aVFrance v Romania at Le Havre, May 28, 1992
+p787
+aVFrance v Romania at Le Havre, May 28, 1992
+p788
+aVArgentina v France at Buenos Aires, Jul 4, 1992
+p789
+aVArgentina v France at Buenos Aires, Jul 4, 1992
+p790
+aVFrance v Argentina at Nantes, Nov 14, 1992
+p791
+aVFrance v Argentina at Nantes, Nov 14, 1992
+p792
+aVFrance v Argentina at Nantes, Nov 14, 1992
+p793
+aVRomania v France at Bucharest, May 20, 1993
+p794
+aVRomania v France at Bucharest, May 20, 1993
+p795
+aVRomania v France at Bucharest, May 20, 1993
+p796
+aVSouth Africa v France at Durban, Jun 26, 1993
+p797
+aVSouth Africa v France at Durban, Jun 26, 1993
+p798
+aVFrance v Romania at Brive la Gaillarde, Oct 17, 1993
+p799
+aVWales v France at Cardiff, Feb 19, 1994
+p800
+aVFrance v England at Parc des Princes, Mar 5, 1994
+p801
+aVFrance v England at Parc des Princes, Mar 5, 1994
+p802
+aVScotland v France at Murrayfield, Mar 19, 1994
+p803
+aVScotland v France at Murrayfield, Mar 19, 1994
+p804
+aVScotland v France at Murrayfield, Mar 19, 1994
+p805
+aVNew Zealand v France at Christchurch, Jun 26, 1994
+p806
+aVNew Zealand v France at Christchurch, Jun 26, 1994
+p807
+aVFrance v Canada at Besancon, Dec 17, 1994
+p808
+aVEngland v France at Twickenham, Feb 4, 1995
+p809
+aVEngland v France at Pretoria, Jun 22, 1995
+p810
+aVFrance v Italy at Buenos Aires, Oct 14, 1995
+p811
+aVFrance v Italy at Buenos Aires, Oct 14, 1995
+p812
+aVFrance v Italy at Buenos Aires, Oct 14, 1995
+p813
+aVFrance v Romania at Tucuman, Oct 17, 1995
+p814
+aVFrance v Romania at Tucuman, Oct 17, 1995
+p815
+aVFrance v Romania at Tucuman, Oct 17, 1995
+p816
+aVFrance v Romania at Tucuman, Oct 17, 1995
+p817
+aVFrance v Romania at Tucuman, Oct 17, 1995
+p818
+aVFrance v Romania at Tucuman, Oct 17, 1995
+p819
+aVFrance v Romania at Tucuman, Oct 17, 1995
+p820
+aVFrance v England at Parc des Princes, Jan 20, 1996
+p821
+aVScotland v France at Murrayfield, Feb 3, 1996
+p822
+aVFrance v Ireland at Parc des Princes, Feb 17, 1996
+p823
+aVFrance v Ireland at Parc des Princes, Feb 17, 1996
+p824
+aVWales v France at Cardiff, Mar 16, 1996
+p825
+aVFrance v Romania at Aurillac, Apr 20, 1996
+p826
+aVFrance v Romania at Aurillac, Apr 20, 1996
+p827
+aVFrance v Romania at Aurillac, Apr 20, 1996
+p828
+aVFrance v Romania at Aurillac, Apr 20, 1996
+p829
+aVFrance v Romania at Aurillac, Apr 20, 1996
+p830
+aVFrance v Romania at Aurillac, Apr 20, 1996
+p831
+aVWales v France at Cardiff, Sep 25, 1996
+p832
+aVFrance v South Africa at Bordeaux, Nov 30, 1996
+p833
+aVFrance v South Africa at Bordeaux, Nov 30, 1996
+p834
+aVFrance v South Africa at Parc des Princes, Dec 7, 1996
+p835
+aVFrance v South Africa at Parc des Princes, Dec 7, 1996
+p836
+aVFrance v Wales at Parc des Princes, Feb 15, 1997
+p837
+aVFrance v Wales at Parc des Princes, Feb 15, 1997
+p838
+aVFrance v Scotland at Parc des Princes, Mar 15, 1997
+p839
+aVFrance v Scotland at Parc des Princes, Mar 15, 1997
+p840
+aVFrance v Scotland at Parc des Princes, Mar 15, 1997
+p841
+aVFrance v Italy at Grenoble, Mar 22, 1997
+p842
+aVRomania v France at Bucharest, Jun 1, 1997
+p843
+aVRomania v France at Bucharest, Jun 1, 1997
+p844
+aVRomania v France at Bucharest, Jun 1, 1997
+p845
+aVFrance v Italy at Auch, Oct 18, 1997
+p846
+aVFrance v Romania at Lourdes, Oct 22, 1997
+p847
+aVFrance v Romania at Lourdes, Oct 22, 1997
+p848
+aVFrance v Romania at Lourdes, Oct 22, 1997
+p849
+aVFrance v Romania at Lourdes, Oct 22, 1997
+p850
+aVFrance v England at Stade de France, Feb 7, 1998
+p851
+aVFrance v England at Stade de France, Feb 7, 1998
+p852
+aVFrance v Ireland at Stade de France, Mar 7, 1998
+p853
+aVFrance v Wales at Wembley, Apr 5, 1998
+p854
+aVArgentina v France at Buenos Aires, Jun 13, 1998
+p855
+aVArgentina v France at Buenos Aires, Jun 13, 1998
+p856
+aVArgentina v France at Buenos Aires, Jun 13, 1998
+p857
+aVFiji v France at Suva, Jun 27, 1998
+p858
+aVFrance v Argentina at Nantes, Nov 14, 1998
+p859
+aVFrance v Argentina at Nantes, Nov 14, 1998
+p860
+aVFrance v Wales at Stade de France, Mar 6, 1999
+p861
+aVEngland v France at Twickenham, Mar 20, 1999
+p862
+aVEngland v France at Twickenham, Mar 20, 1999
+p863
+aVFrance v Scotland at Stade de France, Apr 10, 1999
+p864
+aVFrance v Scotland at Stade de France, Apr 10, 1999
+p865
+aVFrance v Romania at Castres, Jun 3, 1999
+p866
+aVFrance v Romania at Castres, Jun 3, 1999
+p867
+aVFrance v Romania at Castres, Jun 3, 1999
+p868
+aVFrance v Romania at Castres, Jun 3, 1999
+p869
+aVFrance v Romania at Castres, Jun 3, 1999
+p870
+aVSamoa v France at Apia, Jun 12, 1999
+p871
+aVTonga v France at Nuku A'lofa, Jun 16, 1999
+p872
+aVTonga v France at Nuku A'lofa, Jun 16, 1999
+p873
+aVWales v France at Millennium Stadium, Aug 28, 1999
+p874
+aVWales v France at Millennium Stadium, Aug 28, 1999
+p875
+aVFrance v Namibia at Bordeaux, Oct 8, 1999
+p876
+aVWales v France at Millennium Stadium, Feb 5, 2000
+p877
+aVScotland v France at Murrayfield, Mar 4, 2000
+p878
+aVScotland v France at Murrayfield, Mar 4, 2000
+p879
+aVScotland v France at Murrayfield, Mar 4, 2000
+p880
+aVFrance v Ireland at Stade de France, Mar 19, 2000
+p881
+aVFrance v Ireland at Stade de France, Mar 19, 2000
+p882
+aVFrance v Italy at Stade de France, Apr 1, 2000
+p883
+aVRomania v France at Bucharest, May 28, 2000
+p884
+aVRomania v France at Bucharest, May 28, 2000
+p885
+aVRomania v France at Bucharest, May 28, 2000
+p886
+aVRomania v France at Bucharest, May 28, 2000
+p887
+aVRomania v France at Bucharest, May 28, 2000
+p888
+aVRomania v France at Bucharest, May 28, 2000
+p889
+aVRomania v France at Bucharest, May 28, 2000
+p890
+aVRomania v France at Bucharest, May 28, 2000
+p891
+aVRomania v France at Bucharest, May 28, 2000
+p892
+aVFrance v Australia at Stade de France, Nov 4, 2000
+p893
+aVFrance v New Zealand at Marseille, Nov 18, 2000
+p894
+aVItaly v France at Rome, Mar 3, 2001
+p895
+aVEngland v France at Twickenham, Apr 7, 2001
+p896
+aVSouth Africa v France at Johannesburg, Jun 16, 2001
+p897
+aVSouth Africa v France at Johannesburg, Jun 16, 2001
+p898
+aVSouth Africa v France at Johannesburg, Jun 16, 2001
+p899
+aVSouth Africa v France at Johannesburg, Jun 16, 2001
+p900
+aVNew Zealand v France at Wellington, Jun 30, 2001
+p901
+aVNew Zealand v France at Wellington, Jun 30, 2001
+p902
+aVNew Zealand v France at Wellington, Jun 30, 2001
+p903
+aVFrance v South Africa at Stade de France, Nov 10, 2001
+p904
+aVFrance v South Africa at Stade de France, Nov 10, 2001
+p905
+aVFrance v South Africa at Stade de France, Nov 10, 2001
+p906
+aVFrance v South Africa at Stade de France, Nov 10, 2001
+p907
+aVFrance v South Africa at Stade de France, Nov 10, 2001
+p908
+aVFrance v South Africa at Stade de France, Nov 10, 2001
+p909
+aVFrance v South Africa at Stade de France, Nov 10, 2001
+p910
+aVFrance v South Africa at Stade de France, Nov 10, 2001
+p911
+aVFrance v Australia at Marseille, Nov 17, 2001
+p912
+aVFrance v Fiji at Saint-Etienne, Nov 24, 2001
+p913
+aVFrance v Italy at Stade de France, Feb 2, 2002
+p914
+aVFrance v Italy at Stade de France, Feb 2, 2002
+p915
+aVWales v France at Millennium Stadium, Feb 16, 2002
+p916
+aVWales v France at Millennium Stadium, Feb 16, 2002
+p917
+aVFrance v England at Stade de France, Mar 2, 2002
+p918
+aVArgentina v France at Buenos Aires, Jun 15, 2002
+p919
+aVAustralia v France at Melbourne, Jun 22, 2002
+p920
+aVFrance v South Africa at Marseille, Nov 9, 2002
+p921
+aVFrance v South Africa at Marseille, Nov 9, 2002
+p922
+aVFrance v Canada at Stade de France, Nov 23, 2002
+p923
+aVArgentina v France at Buenos Aires, Jun 14, 2003
+p924
+aVNew Zealand v France at Christchurch, Jun 28, 2003
+p925
+aVFrance v Romania at Lens, Aug 22, 2003
+p926
+aVFrance v Ireland at Stade de France, Feb 14, 2004
+p927
+aVFrance v Ireland at Stade de France, Feb 14, 2004
+p928
+aVFrance v Italy at Stade de France, Feb 21, 2004
+p929
+aVScotland v France at Murrayfield, Mar 21, 2004
+p930
+aVUnited States of America v France at Hartford, Jul 3, 2004
+p931
+aVUnited States of America v France at Hartford, Jul 3, 2004
+p932
+aVUnited States of America v France at Hartford, Jul 3, 2004
+p933
+aVUnited States of America v France at Hartford, Jul 3, 2004
+p934
+aVUnited States of America v France at Hartford, Jul 3, 2004
+p935
+aVUnited States of America v France at Hartford, Jul 3, 2004
+p936
+aVUnited States of America v France at Hartford, Jul 3, 2004
+p937
+aVCanada v France at Toronto, Jul 10, 2004
+p938
+aVCanada v France at Toronto, Jul 10, 2004
+p939
+aVCanada v France at Toronto, Jul 10, 2004
+p940
+aVCanada v France at Toronto, Jul 10, 2004
+p941
+aVFrance v Scotland at Stade de France, Feb 5, 2005
+p942
+aVEngland v France at Twickenham, Feb 13, 2005
+p943
+aVFrance v Wales at Stade de France, Feb 26, 2005
+p944
+aVIreland v France at Lansdowne Road, Mar 12, 2005
+p945
+aVItaly v France at Rome, Mar 19, 2005
+p946
+aVSouth Africa v France at Durban, Jun 18, 2005
+p947
+aVSouth Africa v France at Durban, Jun 18, 2005
+p948
+aVSouth Africa v France at Durban, Jun 18, 2005
+p949
+aVAustralia v France at Brisbane, Jul 2, 2005
+p950
+aVScotland v France at Murrayfield, Feb 5, 2006
+p951
+aVFrance v Ireland at Stade de France, Feb 11, 2006
+p952
+aVRomania v France at Bucharest, Jun 17, 2006
+p953
+aVRomania v France at Bucharest, Jun 17, 2006
+p954
+aVRomania v France at Bucharest, Jun 17, 2006
+p955
+aVFrance v New Zealand at Stade de France, Nov 18, 2006
+p956
+aVItaly v France at Rome, Feb 3, 2007
+p957
+aVFrance v Wales at Stade de France, Feb 24, 2007
+p958
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p959
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p960
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p961
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p962
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p963
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p964
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p965
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p966
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p967
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p968
+aVNew Zealand v France at Auckland, Jun 2, 2007
+p969
+aVNew Zealand v France at Wellington, Jun 9, 2007
+p970
+aVNew Zealand v France at Wellington, Jun 9, 2007
+p971
+aVNew Zealand v France at Wellington, Jun 9, 2007
+p972
+aVScotland v France at Murrayfield, Feb 3, 2008
+p973
+aVScotland v France at Murrayfield, Feb 3, 2008
+p974
+aVScotland v France at Murrayfield, Feb 3, 2008
+p975
+aVScotland v France at Murrayfield, Feb 3, 2008
+p976
+aVScotland v France at Murrayfield, Feb 3, 2008
+p977
+aVScotland v France at Murrayfield, Feb 3, 2008
+p978
+aVFrance v Ireland at Stade de France, Feb 9, 2008
+p979
+aVFrance v England at Stade de France, Feb 23, 2008
+p980
+aVFrance v Italy at Stade de France, Mar 9, 2008
+p981
+aVFrance v Italy at Stade de France, Mar 9, 2008
+p982
+aVFrance v Italy at Stade de France, Mar 9, 2008
+p983
+aVFrance v Italy at Stade de France, Mar 9, 2008
+p984
+aVFrance v Italy at Stade de France, Mar 9, 2008
+p985
+aVAustralia v France at Sydney, Jun 28, 2008
+p986
+aVAustralia v France at Sydney, Jun 28, 2008
+p987
+aVAustralia v France at Sydney, Jun 28, 2008
+p988
+aVAustralia v France at Sydney, Jun 28, 2008
+p989
+aVAustralia v France at Sydney, Jun 28, 2008
+p990
+aVAustralia v France at Sydney, Jun 28, 2008
+p991
+aVAustralia v France at Sydney, Jun 28, 2008
+p992
+aVAustralia v France at Sydney, Jun 28, 2008
+p993
+aVAustralia v France at Brisbane, Jul 5, 2008
+p994
+aVAustralia v France at Brisbane, Jul 5, 2008
+p995
+aVAustralia v France at Brisbane, Jul 5, 2008
+p996
+aVAustralia v France at Brisbane, Jul 5, 2008
+p997
+aVFrance v Argentina at Marseille, Nov 8, 2008
+p998
+aVFrance v Wales at Stade de France, Feb 27, 2009
+p999
+aVFrance v Wales at Stade de France, Feb 27, 2009
+p1000
+aVNew Zealand v France at Dunedin, Jun 13, 2009
+p1001
+aVNew Zealand v France at Dunedin, Jun 13, 2009
+p1002
+aVAustralia v France at Sydney, Jun 27, 2009
+p1003
+aVFrance v Samoa at Stade de France, Nov 21, 2009
+p1004
+aVFrance v Samoa at Stade de France, Nov 21, 2009
+p1005
+aVScotland v France at Murrayfield, Feb 7, 2010
+p1006
+aVWales v France at Millennium Stadium, Feb 26, 2010
+p1007
+aVSouth Africa v France at Cape Town, Jun 12, 2010
+p1008
+aVArgentina v France at Buenos Aires, Jun 26, 2010
+p1009
+aVFrance v Fiji at Nantes, Nov 13, 2010
+p1010
+aVFrance v Fiji at Nantes, Nov 13, 2010
+p1011
+aVFrance v Fiji at Nantes, Nov 13, 2010
+p1012
+aVFrance v Argentina at Montpellier, Nov 20, 2010
+p1013
+aVFrance v Ireland at Bordeaux, Aug 13, 2011
+p1014
+aVNew Zealand v France at Auckland, Oct 23, 2011
+p1015
+aVFrance v Italy at Stade de France, Feb 4, 2012
+p1016
+aVFrance v Italy at Stade de France, Feb 4, 2012
+p1017
+aVWales v France at Millennium Stadium, Mar 17, 2012
+p1018
+aVArgentina v France at Cordoba, Jun 16, 2012
+p1019
+aVArgentina v France at Cordoba, Jun 16, 2012
+p1020
+aVArgentina v France at Cordoba, Jun 16, 2012
+p1021
+aVArgentina v France at Cordoba, Jun 16, 2012
+p1022
+aVArgentina v France at Tucuman, Jun 23, 2012
+p1023
+aVArgentina v France at Tucuman, Jun 23, 2012
+p1024
+aVFrance v Australia at Stade de France, Nov 10, 2012
+p1025
+aVFrance v Australia at Stade de France, Nov 10, 2012
+p1026
+aVFrance v Australia at Stade de France, Nov 10, 2012
+p1027
+aVEngland v France at Twickenham, Feb 23, 2013
+p1028
+aVFrance v Scotland at Stade de France, Mar 16, 2013
+p1029
+aVNew Zealand v France at Auckland, Jun 8, 2013
+p1030
+aVNew Zealand v France at Auckland, Jun 8, 2013
+p1031
+aVNew Zealand v France at Auckland, Jun 8, 2013
+p1032
+aVNew Zealand v France at Auckland, Jun 8, 2013
+p1033
+aVNew Zealand v France at Christchurch, Jun 15, 2013
+p1034
+aVNew Zealand v France at Christchurch, Jun 15, 2013
+p1035
+aVNew Zealand v France at New Plymouth, Jun 22, 2013
+p1036
+aVFrance v New Zealand at Stade de France, Nov 9, 2013
+p1037
+aVFrance v Tonga at Le Havre, Nov 16, 2013
+p1038
+aVFrance v Tonga at Le Havre, Nov 16, 2013
+p1039
+aVFrance v England at Stade de France, Feb 1, 2014
+p1040
+aVFrance v England at Stade de France, Feb 1, 2014
+p1041
+aVFrance v Italy at Stade de France, Feb 9, 2014
+p1042
+aVWales v France at Millennium Stadium, Feb 21, 2014
+p1043
+aVAustralia v France at Brisbane, Jun 7, 2014
+p1044
+aVAustralia v France at Brisbane, Jun 7, 2014
+p1045
+aVAustralia v France at Melbourne, Jun 14, 2014
+p1046
+aVFrance v Fiji at Marseille, Nov 8, 2014
+p1047
+aVFrance v Fiji at Marseille, Nov 8, 2014
+p1048
+aVFrance v Fiji at Marseille, Nov 8, 2014
+p1049
+aVFrance v Fiji at Marseille, Nov 8, 2014
+p1050
+aVFrance v Fiji at Marseille, Nov 8, 2014
+p1051
+aVFrance v Fiji at Marseille, Nov 8, 2014
+p1052
+aVFrance v Fiji at Marseille, Nov 8, 2014
+p1053
+aVFrance v Scotland at Stade de France, Feb 7, 2015
+p1054
+aVItaly v France at Rome, Mar 15, 2015
+p1055
+aVCanada v France at Milton Keynes, Oct 1, 2015
+p1056
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p1057
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p1058
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p1059
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p1060
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p1061
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p1062
+aVFrance v Ireland at Stade de France, Feb 13, 2016
+p1063
+aVWales v France at Millennium Stadium, Feb 26, 2016
+p1064
+aVWales v France at Millennium Stadium, Feb 26, 2016
+p1065
 a.

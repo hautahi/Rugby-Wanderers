@@ -395,7 +395,7 @@ aVWing
 p198
 aVFly-half
 p199
-aVFullback, Centre
+aVCentre, Fullback
 p200
 aVLock
 p201
@@ -749,7 +749,7 @@ aVFlanker
 p374
 aVProp
 p375
-aVFullback, Centre
+aVCentre, Fullback
 p376
 aVLock, Flanker
 p377
@@ -757,7 +757,7 @@ aVLock
 p378
 aVFlanker
 p379
-aVCentre, Wing
+aVWing, Centre
 p380
 aVFullback
 p381
@@ -788,7 +788,7 @@ aVScrum-half
 p393
 aVFlanker
 p394
-aVHooker, Prop
+aVProp, Hooker
 p395
 aVLock
 p396
@@ -860,7 +860,7 @@ aVCentre
 p429
 aVCentre
 p430
-aVFly-half, Fullback
+aVFullback, Fly-half
 p431
 aVHooker
 p432
@@ -892,7 +892,7 @@ aVLock
 p445
 aVFlanker
 p446
-aVFly-half, Fullback
+aVFullback, Fly-half
 p447
 aVHooker
 p448
@@ -932,4 +932,246 @@ aVFullback
 p465
 aVScrum-half
 p466
+aVProp, Flanker
+p467
+aVHooker
+p468
+aVCentre
+p469
+aVFlanker
+p470
+aVCentre
+p471
+aVCentre
+p472
+aVNo. 8
+p473
+aVLock
+p474
+aVUtility back
+p475
+aVLock
+p476
+aVProp
+p477
+aVFly-half
+p478
+aVCentre, Wing
+p479
+aVScrum-half
+p480
+aVCentre
+p481
+aVLock
+p482
+aVFullback, Centre
+p483
+aVWing
+p484
+aVFly-half
+p485
+aVCentre, Fly-half
+p486
+aVCentre
+p487
+aVScrum-half
+p488
+aVHooker
+p489
+aVLock
+p490
+aVFly-half, Centre
+p491
+aVFly-half, Wing
+p492
+aVFlanker
+p493
+aVLock, Flanker
+p494
+aVFront-row
+p495
+aVProp
+p496
+aVFlanker
+p497
+aVWing, Fullback
+p498
+aVScrum-half
+p499
+aVCentre, Fly-half
+p500
+aVLock, Flanker
+p501
+aVFullback, Wing
+p502
+aVFlanker
+p503
+aVProp
+p504
+aVScrum-half
+p505
+aVProp
+p506
+aVProp
+p507
+aVLock
+p508
+aVScrum-half
+p509
+aVFullback, Fly-half
+p510
+aVLock, Back-row
+p511
+aVHooker
+p512
+aVProp
+p513
+aVProp
+p514
+aVFullback, Wing
+p515
+aVFullback, Wing
+p516
+aVBack-row
+p517
+aVCentre, Fly-half
+p518
+aVProp
+p519
+aVFullback
+p520
+aVNo. 8, Lock
+p521
+aVBack-row
+p522
+aVProp
+p523
+aVProp, Hooker
+p524
+aVProp
+p525
+aVCentre
+p526
+aVHooker, Prop
+p527
+aVBack-row
+p528
+aVHooker, Back-row
+p529
+aVLock, Flanker
+p530
+aVCentre
+p531
+aVHooker
+p532
+aVLock, Flanker
+p533
+aVWing
+p534
+aVBack-row
+p535
+aVProp
+p536
+aVHooker
+p537
+aVCentre
+p538
+aVWing, Scrum-half
+p539
+aVCentre, Fly-half
+p540
+aVFullback, Centre
+p541
+aVBack-row
+p542
+aVScrum-half
+p543
+aVFlanker, Lock
+p544
+aVFullback, Wing
+p545
+aVFullback, Wing
+p546
+aVHooker
+p547
+aVFlanker
+p548
+aVFly-half
+p549
+aVHooker
+p550
+aVScrum-half
+p551
+aVFlanker, Lock
+p552
+aVProp
+p553
+aVWing, Centre
+p554
+aVCentre, Fly-half
+p555
+aVLock, Flanker
+p556
+aVFly-half, Centre
+p557
+aVProp
+p558
+aVScrum-half
+p559
+aVWing
+p560
+aVFlanker
+p561
+aVLock, Flanker
+p562
+aVWing, Centre
+p563
+aVBack-row
+p564
+aVFlanker
+p565
+aVProp
+p566
+aVCentre, Fly-half
+p567
+aVProp
+p568
+aVWing
+p569
+aVCentre, Fly-half
+p570
+aVCentre, Fly-half
+p571
+aVLock, Flanker
+p572
+aVWing
+p573
+aVLock, Flanker
+p574
+aVUtility back
+p575
+aVWing, Centre
+p576
+aVCentre, Fly-half
+p577
+aVBack-row, Prop
+p578
+aVWing, Centre
+p579
+aVNo. 8
+p580
+aVProp
+p581
+aVProp
+p582
+aVWing
+p583
+aVFlanker
+p584
+aVLock
+p585
+aVCentre
+p586
+aVProp
+p587
 a.

@@ -5394,4 +5394,371 @@ aVCaryville Post Office, Hill Street, Caryville, Campbell County, Tennessee, 377
 p2862
 aVLower Erebus Hut, Ross Island, Antarctica
 p2863
+aa(lp2864
+VCardiff, Wales, CF, United Kingdom
+p2865
+aVCardiff, Wales, CF, United Kingdom
+p2866
+aVCardiff, Main Road, Cardiff Heights, Newcastle-Maitland, New South Wales, 2305, Australia
+p2867
+aVCardiff, Town of LaFayette, Onondaga County, New York, United States of America
+p2868
+aVCardiff, Jefferson County, Alabama, United States of America
+p2869
+aVCardiff, Cambria County, Pennsylvania, United States of America
+p2870
+aVCardiff, Waller County, Texas, United States of America
+p2871
+aVCardiff, Cecil County, Maryland, United States of America
+p2872
+aVCardiff, Garfield County, Colorado, United States of America
+p2873
+aVCardiff, Atlantic County, New Jersey, United States of America
+p2874
+aa(lp2875
+V\u041a1989, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p2876
+aV1989, Po\u010darová, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p2877
+aV1989, Úho\u0161\u0165any, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p2878
+aV1989, Domani\u017ea, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p2879
+aV1989, Zemianska Závada, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+p2880
+aV1989, Dereham Road, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 3TL, United Kingdom
+p2881
+aa(lp2882
+VVeysonnaz, Sion, Valais - Wallis, 1993, Schweiz, Suisse, Svizzera, Svizra
+p2883
+aV1993, Lobzy u O\u0161elína, O\u0161elín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p2884
+aVArroyo Fontarrón - Encomienda de Palacios, Calle del Arroyo Fontarrón, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
+p2885
+aVRe, Via Asinari di Bernezzo, Parella, Circoscrizione 4, Torino, TO, PIE, 10145, Italia
+p2886
+aVOld Kilmainham, Kilmainham, Dublin, County Dublin, Leinster, D07, Ireland
+p2887
+aV1993, 39, Piotra Wawrzyniaka, Je\u017cyce, Pozna\u0144, wielkopolskie, 60-505, Polska
+p2888
+aV1993, 106 Street NW, Old Strathcona, Edmonton, Alberta, T5K1E4, Canada
+p2889
+aV\u0426\u0440\u043a\u0432\u0430 \u0421\u0432\u0435\u0442\u043e\u0433 \u0414\u0438\u043c\u0438\u0442\u0440\u0438\u0458\u0430, \u0411\u0443\u043b\u0435\u0432\u0430\u0440 \u0417\u043e\u0440\u0430\u043d\u0430 \u0402\u0438\u043d\u0452\u0438\u045b\u0430, \u041f\u0430\u0432\u0438\u0459\u043e\u043d\u0438, \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11070, \u0421\u0440\u0431\u0438\u0458\u0430
+p2890
+aV1993, 44, \u0413\u0432\u0430\u0440\u0434\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0429\u0454\u0434\u0440\u0438\u0449\u0435\u0432\u0435, \u0421\u0454\u0432\u0454\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a, \u0421\u0454\u0432\u0454\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 93409, \u0423\u043a\u0440\u0430\u0457\u043d\u0430
+p2891
+aVCalle Tagoro Nº 127, Calle Tagoro, Tagoro, Tacoronte, Santa Cruz de Tenerife, Canarias, 38350, España
+p2892
+aa(lp2893
+VVelserbroek, Velsen, MRA, Noord-Holland, Nederland, 1991, Nederland
+p2894
+aVSion, Valais - Wallis, 1991, Schweiz, Suisse, Svizzera, Svizra
+p2895
+aV1991, Málkovice, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p2896
+aV1991, Kurojedy, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p2897
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2898
+aVR-C, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2899
+aVDinetard, Rue Louis Plana, Jolimont - Soupetard - Bonhoure, Toulouse Est, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France
+p2900
+aV1991, Lurzenbacher Straße, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
+p2901
+aV1991, \u0e16\u0e19\u0e19\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e27\u0e07\u0e28\u0e4c, \u0e0a\u0e49\u0e32\u0e07\u0e40\u0e1c\u0e37\u0e2d\u0e01, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50000, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22
+p2902
+aV1991, K 7504, Maselheim, Verwaltungsgemeinschaft Biberach an der Riß, Landkreis Biberach, Regierungsbezirk Tübingen, Baden-Württemberg, 88437, Deutschland
+p2903
+aa(lp2904
+VUnited States of America
+p2905
+aVUnited States, Better Living Subdivision, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p2906
+aVUnited States, 97-30, 57th Avenue, Corona, Queens County, NYC, New York, 11368, United States of America
+p2907
+aVUnited States, United States of America
+p2908
+aVUnited States, United States of America
+p2909
+aVGladstone Post Office, 7170, North Broadway Avenue, Gladstone, Clay County, Missouri, 64118, United States of America
+p2910
+aVCaryville Post Office, Hill Street, Caryville, Campbell County, Tennessee, 37714, United States of America
+p2911
+aVLower Erebus Hut, Ross Island, Antarctica
+p2912
+aaNa(lp2913
+VVeysonnaz, Sion, Valais - Wallis, 1993, Schweiz, Suisse, Svizzera, Svizra
+p2914
+aV1993, Lobzy u O\u0161elína, O\u0161elín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p2915
+aVArroyo Fontarrón - Encomienda de Palacios, Calle del Arroyo Fontarrón, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
+p2916
+aVRe, Via Asinari di Bernezzo, Parella, Circoscrizione 4, Torino, TO, PIE, 10145, Italia
+p2917
+aVOld Kilmainham, Kilmainham, Dublin, County Dublin, Leinster, D07, Ireland
+p2918
+aV1993, 39, Piotra Wawrzyniaka, Je\u017cyce, Pozna\u0144, wielkopolskie, 60-505, Polska
+p2919
+aV1993, 106 Street NW, Old Strathcona, Edmonton, Alberta, T5K1E4, Canada
+p2920
+aV\u0426\u0440\u043a\u0432\u0430 \u0421\u0432\u0435\u0442\u043e\u0433 \u0414\u0438\u043c\u0438\u0442\u0440\u0438\u0458\u0430, \u0411\u0443\u043b\u0435\u0432\u0430\u0440 \u0417\u043e\u0440\u0430\u043d\u0430 \u0402\u0438\u043d\u0452\u0438\u045b\u0430, \u041f\u0430\u0432\u0438\u0459\u043e\u043d\u0438, \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11070, \u0421\u0440\u0431\u0438\u0458\u0430
+p2921
+aV1993, 44, \u0413\u0432\u0430\u0440\u0434\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0429\u0454\u0434\u0440\u0438\u0449\u0435\u0432\u0435, \u0421\u0454\u0432\u0454\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a, \u0421\u0454\u0432\u0454\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 93409, \u0423\u043a\u0440\u0430\u0457\u043d\u0430
+p2922
+aVCalle Tagoro Nº 127, Calle Tagoro, Tagoro, Tacoronte, Santa Cruz de Tenerife, Canarias, 38350, España
+p2923
+aa(lp2924
+VParque das Nações, Lisboa, Grande Lisboa, Lisboa, 1990, Portugal
+p2925
+aVRizal, Calabarzon, 1990, Philippines
+p2926
+aV1990, Howell County, Missouri, United States of America
+p2927
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2928
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2929
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2930
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2931
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2932
+aa(lp2933
+VUnited States of America
+p2934
+aVUnited States, Better Living Subdivision, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p2935
+aVUnited States, 97-30, 57th Avenue, Corona, Queens County, NYC, New York, 11368, United States of America
+p2936
+aVUnited States, United States of America
+p2937
+aVUnited States, United States of America
+p2938
+aVGladstone Post Office, 7170, North Broadway Avenue, Gladstone, Clay County, Missouri, 64118, United States of America
+p2939
+aVCaryville Post Office, Hill Street, Caryville, Campbell County, Tennessee, 37714, United States of America
+p2940
+aVLower Erebus Hut, Ross Island, Antarctica
+p2941
+aa(lp2942
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p2943
+aVPretoria, Bulloch County, Georgia, United States of America
+p2944
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p2945
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p2946
+aVPretoria, 230, New South Wales, 2824, Australia
+p2947
+aVPretoria, Dougherty, Georgia, United States of America
+p2948
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p2949
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p2950
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p2951
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p2952
+aa(lp2953
+VUnited States of America
+p2954
+aVUnited States, Better Living Subdivision, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p2955
+aVUnited States, 97-30, 57th Avenue, Corona, Queens County, NYC, New York, 11368, United States of America
+p2956
+aVUnited States, United States of America
+p2957
+aVUnited States, United States of America
+p2958
+aVGladstone Post Office, 7170, North Broadway Avenue, Gladstone, Clay County, Missouri, 64118, United States of America
+p2959
+aVCaryville Post Office, Hill Street, Caryville, Campbell County, Tennessee, 37714, United States of America
+p2960
+aVLower Erebus Hut, Ross Island, Antarctica
+p2961
+aa(lp2962
+VUnited States of America
+p2963
+aVUnited States, Better Living Subdivision, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p2964
+aVUnited States, 97-30, 57th Avenue, Corona, Queens County, NYC, New York, 11368, United States of America
+p2965
+aVUnited States, United States of America
+p2966
+aVUnited States, United States of America
+p2967
+aVGladstone Post Office, 7170, North Broadway Avenue, Gladstone, Clay County, Missouri, 64118, United States of America
+p2968
+aVCaryville Post Office, Hill Street, Caryville, Campbell County, Tennessee, 37714, United States of America
+p2969
+aVLower Erebus Hut, Ross Island, Antarctica
+p2970
+aa(lp2971
+VSalzburg, 5020, Österreich
+p2972
+aVSalzburg, 5020, Österreich
+p2973
+aV\ub300\ud55c\ubbfc\uad6d
+p2974
+aV\u200f\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629\u200e
+p2975
+aV\u62c9\u8428\u5e02 \u0f63\u0fb7\u0f0b\u0f66\u0f0d, \u0f41\u0fb2\u0f72\u0f53\u0f0b\u0f40\u0f7c\u0f53\u0f0b\u0f46\u0f74\u0f66\u0f0b / \u57ce\u5173\u533a / Chengguan, \u0f63\u0fb7\u0f0b\u0f66\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0b / \u62c9\u8428\u5e02 / Lhasa, \u897f\u85cf\u81ea\u6cbb\u533a (\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f63\u0f97\u0f7c\u0f44\u0f66\u0f0b), \u4e2d\u56fd
+p2976
+aV\u0f63\u0fb7\u0f0b\u0f66\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0b / \u62c9\u8428\u5e02 / Lhasa, \u897f\u85cf\u81ea\u6cbb\u533a (\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f63\u0f97\u0f7c\u0f44\u0f66\u0f0b), \u4e2d\u56fd
+p2977
+aVSaon, Bayeux, Calvados, Normandie, France métropolitaine, 14330, France
+p2978
+aVSouth Australia, Australia
+p2979
+aVSA, Argentina
+p2980
+aVSA, CAM, Italia
+p2981
+aa(lp2982
+VUnited States of America
+p2983
+aVUnited States, Better Living Subdivision, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p2984
+aVUnited States, 97-30, 57th Avenue, Corona, Queens County, NYC, New York, 11368, United States of America
+p2985
+aVUnited States, United States of America
+p2986
+aVUnited States, United States of America
+p2987
+aVGladstone Post Office, 7170, North Broadway Avenue, Gladstone, Clay County, Missouri, 64118, United States of America
+p2988
+aVCaryville Post Office, Hill Street, Caryville, Campbell County, Tennessee, 37714, United States of America
+p2989
+aVLower Erebus Hut, Ross Island, Antarctica
+p2990
+aa(lp2991
+VNew South Wales, Australia
+p2992
+aVCessnock, New South Wales, NSW, Australia
+p2993
+aa(lp2994
+VNendaz, Conthey, Valais - Wallis, 1997, Schweiz, Suisse, Svizzera, Svizra
+p2995
+aV1997, Jemnice u Tisové, Tisová, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p2996
+aVEncomienda de Palacios - Fuente Carrantona, Calle de la Encomienda de Palacios, Pavones, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
+p2997
+aVBorgosesia, Via Asinari di Bernezzo, Parella, Circoscrizione 4, Torino, TO, PIE, 10145, Italia
+p2998
+aVThomas Street, James Street, Stoneybatter, Dublin, County Dublin, Leinster, D07, Ireland
+p2999
+aVZachodnia - Manufaktura, Zachodnia, Stare Miasto, \u0141ód\u017a-Ba\u0142uty, \u0141ód\u017a, \u0142ódzkie, 95-100, Polska
+p3000
+aVNorthwest Glisan & Broadway, Northwest Glisan Street, Pearl District, Portland, Multnomah County, Oregon, 97209, United States of America
+p3001
+aV1997, 107 Avenue NW, Old Strathcona, Edmonton, Alberta, T5N 4B7, Canada
+p3002
+aV1997, Alexander-Herzen-Straße, Klotzsche, Marsdorf, Dresden, Sachsen, 01109, Deutschland
+p3003
+aV1997, Unterwilzinger Straße, Emeringen, Verwaltungsgemeinschaft Munderkingen, Alb-Donau-Kreis, Regierungsbezirk Tübingen, Baden-Württemberg, 88499, Deutschland
+p3004
+aa(lp3005
+V1987, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p3006
+aVMandelon, Hérémence, Hérens, Valais - Wallis, 1987, Schweiz, Suisse, Svizzera, Svizra
+p3007
+aVRanchos, Partido de General Paz, Bs. As., 1987, Argentina
+p3008
+aV\u041a1987, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p3009
+aV1987, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01815, Slovensko
+p3010
+aV1987, Bodiná, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01815, Slovensko
+p3011
+aV1987, Kotvina, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p3012
+aV1987, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43163, \u010cesko
+p3013
+aV1987, Oslovice, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43163, \u010cesko
+p3014
+aV1987, Strá\u017e nad Oh\u0159í, okres Karlovy Vary, Karlovarský kraj, Severozápad, \u010cesko
+p3015
+aa(lp3016
+VUnited States of America
+p3017
+aVUnited States, Better Living Subdivision, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p3018
+aVUnited States, 97-30, 57th Avenue, Corona, Queens County, NYC, New York, 11368, United States of America
+p3019
+aVUnited States, United States of America
+p3020
+aVUnited States, United States of America
+p3021
+aVGladstone Post Office, 7170, North Broadway Avenue, Gladstone, Clay County, Missouri, 64118, United States of America
+p3022
+aVCaryville Post Office, Hill Street, Caryville, Campbell County, Tennessee, 37714, United States of America
+p3023
+aVLower Erebus Hut, Ross Island, Antarctica
+p3024
+aa(lp3025
+VParque das Nações, Lisboa, Grande Lisboa, Lisboa, 1990, Portugal
+p3026
+aVRizal, Calabarzon, 1990, Philippines
+p3027
+aV1990, Howell County, Missouri, United States of America
+p3028
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p3029
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p3030
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p3031
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p3032
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p3033
+aa(lp3034
+VPukekohe, Auckland, New Zealand/Aotearoa
+p3035
+aVPukekohe, Station Road, Franklin, Auckland, 2120, New Zealand/Aotearoa
+p3036
+aVPukekohe, Station Road, Franklin, Auckland, 2120, New Zealand/Aotearoa
+p3037
+aa(lp3038
+VUnited States of America
+p3039
+aVUnited States, Better Living Subdivision, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p3040
+aVUnited States, 97-30, 57th Avenue, Corona, Queens County, NYC, New York, 11368, United States of America
+p3041
+aVUnited States, United States of America
+p3042
+aVUnited States, United States of America
+p3043
+aVGladstone Post Office, 7170, North Broadway Avenue, Gladstone, Clay County, Missouri, 64118, United States of America
+p3044
+aVCaryville Post Office, Hill Street, Caryville, Campbell County, Tennessee, 37714, United States of America
+p3045
+aVLower Erebus Hut, Ross Island, Antarctica
+p3046
+aa(lp3047
+V1996, \u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p3048
+aVLes Chottes, Nendaz, Conthey, Valais - Wallis, 1996, Schweiz, Suisse, Svizzera, Svizra
+p3049
+aV1996, La\u017eany u \u010cerno\u0161ína, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
+p3050
+aVEncomienda De Palacios - Tacona, Calle de la Encomienda de Palacios, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
+p3051
+aVMonte Grappa, Via Carrera, Parella, Circoscrizione 4, Torino, TO, PIE, 10146, Italia
+p3052
+aVJames Street, Stoneybatter, Dublin, County Dublin, Leinster, D07, Ireland
+p3053
+aVFaldo Course, Sheikh Zayed Road, Dubai Media City, Dubai, \u062f\u0628\u064a\u200e, 500368, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p3054
+aV1996, 107 Avenue NW, Edmonton, Alberta, T5M 2E8, Canada
+p3055
+aVParcheggio Disabili, Corso Carlo Marx, Alessandria, AL, PIE, 15100, Italia
+p3056
+aV\u041c\u0430\u0440\u043a\u0430 \u0427\u0435\u043b\u0435\u0431\u043e\u043d\u043e\u0432\u0438\u045b\u0430, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11070, \u0421\u0440\u0431\u0438\u0458\u0430
+p3057
 aa.

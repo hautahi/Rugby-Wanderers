@@ -691,7 +691,7 @@ aVProp
 p342
 aVWing, Centre
 p343
-aVFullback, Wing
+aVWing, Fullback
 p344
 aVLock
 p345
@@ -709,7 +709,7 @@ aVBack-row
 p351
 aVWing
 p352
-aVHooker, Prop
+aVProp, Hooker
 p353
 aVLock
 p354
@@ -739,7 +739,7 @@ aVFly-half
 p366
 aVBack-row
 p367
-aVFullback, Wing
+aVWing, Fullback
 p368
 aVFullback, Wing
 p369
@@ -811,7 +811,7 @@ aVHooker
 p402
 aVWing
 p403
-aVProp, Hooker
+aVHooker, Prop
 p404
 aVProp
 p405
@@ -829,13 +829,13 @@ aVCentre
 p411
 aVLock, Back-row
 p412
-aVFly-half, Centre
+aVCentre, Fly-half
 p413
 aVProp
 p414
 aVCentre
 p415
-aVFullback, Wing
+aVWing, Fullback
 p416
 aVWing
 p417
@@ -873,7 +873,7 @@ aVFlanker
 p433
 aVProp
 p434
-aVNo. 8, Lock
+aVLock, No. 8
 p435
 aVProp
 p436
@@ -925,4 +925,48 @@ aVProp
 p459
 aVFullback
 p460
+aVFly-half
+p461
+aVLock
+p462
+aVCentre
+p463
+aVLock
+p464
+aVCentre
+p465
+aVLock
+p466
+aVHooker
+p467
+aVLock
+p468
+aVScrum-half
+p469
+aVFullback, Fly-half
+p470
+aVCentre
+p471
+aVFlanker
+p472
+aVHooker
+p473
+aVScrum-half
+p474
+aVFullback
+p475
+aVCentre
+p476
+aVProp
+p477
+aVBack-row
+p478
+aVFly-half
+p479
+aVFlanker, Lock
+p480
+aVBack-row
+p481
+aVBack-row
+p482
 a.

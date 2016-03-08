@@ -372,7 +372,7 @@ aVFullback
 p171
 aVBack-row
 p172
-aVWing, Centre
+aVCentre, Wing
 p173
 aVProp
 p174
@@ -481,7 +481,7 @@ aVHooker
 p225
 aVProp
 p226
-aVScrum-half, Fly-half
+aVFly-half, Scrum-half
 p227
 aVFlanker
 p228
@@ -521,13 +521,13 @@ aVFullback, Scrum-half
 p245
 aVFlanker
 p246
-aVWing, Centre
+aVCentre, Wing
 p247
 aVCentre
 p248
 aVScrum-half
 p249
-aVWing, Fullback
+aVFullback, Wing
 p250
 aVHooker
 p251
@@ -549,7 +549,7 @@ aVHooker
 p259
 aVLock
 p260
-aVFlanker, Wing
+aVWing, Flanker
 p261
 aVFlanker
 p262
@@ -583,7 +583,7 @@ aVLock
 p276
 aVProp
 p277
-aVFullback, Wing
+aVWing, Fullback
 p278
 aVFlanker
 p279
@@ -613,7 +613,7 @@ aVCentre, Fly-half
 p291
 aVFly-half, Centre
 p292
-aVHooker, Back-row
+aVBack-row, Hooker
 p293
 aVFlanker
 p294
@@ -621,7 +621,7 @@ aVLock
 p295
 aVBack-row
 p296
-aVLock, Flanker
+aVFlanker, Lock
 p297
 aVWing
 p298
@@ -639,13 +639,13 @@ aVProp
 p304
 aVProp
 p305
-aVBack-row, Lock
+aVLock, Back-row
 p306
 aVFly-half
 p307
 aVCentre
 p308
-aVProp, Hooker
+aVHooker, Prop
 p309
 aVFlanker
 p310
@@ -697,7 +697,7 @@ aVFly-half
 p333
 aVLock
 p334
-aVCentre, Fullback
+aVFullback, Centre
 p335
 aVWing
 p336
@@ -735,7 +735,7 @@ aVFlanker
 p352
 aVWing
 p353
-aVCentre, Fly-half
+aVFly-half, Centre
 p354
 aVLock
 p355
@@ -755,7 +755,7 @@ aVHooker
 p362
 aVFullback
 p363
-aVFullback, Fly-half
+aVFly-half, Fullback
 p364
 aVCentre
 p365

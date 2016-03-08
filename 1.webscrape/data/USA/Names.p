@@ -933,4 +933,48 @@ aS"Joe Taufete'e"
 p467
 aS'Jake Anderson'
 p468
+aS'James Bird'
+p469
+aS'Nate Brakeley'
+p470
+aS'LeMoto Fillikitonga'
+p471
+aS'Ben Landry'
+p472
+aS'Kingsley McGowan'
+p473
+aS'Brodie Orth'
+p474
+aS'Mike Sosene-Feagai'
+p475
+aS'David Tameilau'
+p476
+aS"Mike Te'o"
+p477
+aS'Jean-Pierre Eloff'
+p478
+aS'Mike Garrity'
+p479
+aS'Alec Gletzer'
+p480
+aS'James Hilterbrand'
+p481
+aS'Tom Bliss'
+p482
+aS'Nic Edwards'
+p483
+aS'Lorenzo Thomas'
+p484
+aS'Demecus Beach'
+p485
+aS'Patrick Blair'
+p486
+aS'Ryan Matyas'
+p487
+aS'James King'
+p488
+aS'Aladdin Schirmer'
+p489
+aS'Hanco Germishuys'
+p490
 a.

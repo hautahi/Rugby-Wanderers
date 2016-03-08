@@ -5289,4 +5289,4599 @@ aVPotchefstroom, N1, Emfuleni Ward 25, Emfuleni Local Municipality, Sedibeng Dis
 p2841
 aVPotchefstroom, Piet Bosman Street, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2531, South Africa
 p2842
+aa(lp2843
+VWynberg, Cape Town Subcouncil 20, Cape Town, City of Cape Town, Western Cape, South Africa
+p2844
+aVWynberg, Alexandra, City of Johannesburg Metropolitan Municipality, Gauteng, South Africa
+p2845
+aVWynberg, Drakenstein Ward 22, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p2846
+aVWynberg, Edinburgh Drive, Cape Town Ward 62, Cape Town Subcouncil 20, Cape Town, City of Cape Town, Western Cape, 7708, South Africa
+p2847
+aVWynberg, Station Road, Wynberg, Cape Town Subcouncil 20, Cape Town, City of Cape Town, Western Cape, 7800, South Africa
+p2848
+aa(lp2849
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p2850
+aVPretoria, Bulloch County, Georgia, United States of America
+p2851
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p2852
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p2853
+aVPretoria, 230, New South Wales, 2824, Australia
+p2854
+aVPretoria, Dougherty, Georgia, United States of America
+p2855
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p2856
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p2857
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p2858
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p2859
+aa(lp2860
+VKirkwood, St. Louis County, Missouri, United States of America
+p2861
+aVKirkwood, Clifton, Atlanta, DeKalb County, Georgia, 30317, United States of America
+p2862
+aVKirkwood, Lancaster County, Pennsylvania, United States of America
+p2863
+aVKirkwood, New Castle County, Delaware, United States of America
+p2864
+aVKirkwood, Cornice Court, Alpine County, California, 95646, United States of America
+p2865
+aVKirkwood, Alpine, California, United States of America
+p2866
+aVKirkwood, Camden County, New Jersey, United States of America
+p2867
+aVKirkwood, Comal County, Texas, United States of America
+p2868
+aVKirkwood, Alachua County, Florida, United States of America
+p2869
+aVKirkwood, Kirkwood Town, Broome County, New York, United States of America
+p2870
+aa(lp2871
+VGeorge, Mississippi, United States of America
+p2872
+aVGeorge, Eden District Municipality, Western Cape, South Africa
+p2873
+aVGeorge, Grant County, Washington, United States of America
+p2874
+aVGeorge, George Local Municipality, Eden District Municipality, Western Cape, South Africa
+p2875
+aVGeorge Inn, 77, Borough High Street, Borough, London Borough of Southwark, London, Greater London, England, SE1 1NH, United Kingdom
+p2876
+aVGeorge, Madison County, Texas, United States of America
+p2877
+aVGeorge, Clackamas County, Oregon, United States of America
+p2878
+aVGeorge, Northampton County, North Carolina, United States of America
+p2879
+aVGeorge, Newton County, Arkansas, United States of America
+p2880
+aVGeorge, Yazoo, Mississippi, United States of America
+p2881
+aa(lp2882
+VKrugersdorp, West Rand District Municipality, Gauteng, South Africa
+p2883
+aVKrugersdorp, Kruger Street, Mogale City Ward 20, Mogale City Local Municipality, West Rand District Municipality, Gauteng, South Africa
+p2884
+aa(lp2885
+VOudtshoorn, Eden District Municipality, Western Cape, South Africa
+p2886
+aVOudtshoorn, Shultz Street, Oudtshoorn Ward 12, Oudtshoorn Local Municipality, Eden District Municipality, Western Cape, 6625, South Africa
+p2887
+aa(lp2888
+VBreyten, Gert Sibande, Mpumalanga, South Africa
+p2889
+aa(lp2890
+VElsburg, Germiston, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p2891
+aVElsberg, Lüdenscheid, Märkischer Kreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, Deutschland
+p2892
+aVElsberg, Rheden, Stadsregio Arnhem Nijmegen, Gelderland, Nederland
+p2893
+aVElsberg, Kreuztal, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, Deutschland
+p2894
+aVElsberg, Bollschweil, VVG der Gemeinde Ehrenkirchen, Landkreis Breisgau-Hochschwarzwald, Regierungsbezirk Freiburg, Baden-Württemberg, Deutschland
+p2895
+aVEls-Berg, Neubrunn, Landkreis Würzburg, Unterfranken, Bayern, Deutschland
+p2896
+aVElsberg, Landkreis Dingolfing-Landau, NB, Bayern, Deutschland
+p2897
+aVElsburg, Osborne Road, Ekurhuleni Ward 35, Germiston, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p2898
+aVElsberg, Lange Juffer, Laag-Soeren, Rheden, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6961LH, Nederland
+p2899
+aVElsberg, Elsbergrandweg, Bollschweil (Kernort), Bollschweil, VVG der Gemeinde Ehrenkirchen, Landkreis Breisgau-Hochschwarzwald, Regierungsbezirk Freiburg, Baden-Württemberg, 79283, Deutschland
+p2900
+aa(lp2901
+VSomerset East, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p2902
+aVSomerset East, Century Village - West Palm Beach, Century Village, Palm Beach County, Florida, 33417, United States of America
+p2903
+aVSomerset East, College, Blue Crane Route Ward 2, Blue Crane Route Local Municipality, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p2904
+aa(lp2905
+VGeorge, Mississippi, United States of America
+p2906
+aVGeorge, Eden District Municipality, Western Cape, South Africa
+p2907
+aVGeorge, Grant County, Washington, United States of America
+p2908
+aVGeorge, George Local Municipality, Eden District Municipality, Western Cape, South Africa
+p2909
+aVGeorge Inn, 77, Borough High Street, Borough, London Borough of Southwark, London, Greater London, England, SE1 1NH, United Kingdom
+p2910
+aVGeorge, Madison County, Texas, United States of America
+p2911
+aVGeorge, Clackamas County, Oregon, United States of America
+p2912
+aVGeorge, Northampton County, North Carolina, United States of America
+p2913
+aVGeorge, Newton County, Arkansas, United States of America
+p2914
+aVGeorge, Yazoo, Mississippi, United States of America
+p2915
+aa(lp2916
+VCape Town, City of Cape Town, Western Cape, South Africa
+p2917
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p2918
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p2919
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p2920
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p2921
+aa(lp2922
+VCape Town, City of Cape Town, Western Cape, South Africa
+p2923
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p2924
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p2925
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p2926
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p2927
+aa(lp2928
+VKrugersdorp, West Rand District Municipality, Gauteng, South Africa
+p2929
+aVKrugersdorp, Kruger Street, Mogale City Ward 20, Mogale City Local Municipality, West Rand District Municipality, Gauteng, South Africa
+p2930
+aa(lp2931
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p2932
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p2933
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p2934
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p2935
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p2936
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p2937
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p2938
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p2939
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p2940
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p2941
+aa(lp2942
+VVolksrust, Gert Sibande, Mpumalanga, South Africa
+p2943
+aa(lp2944
+VWesselsbron, Lejweleputswa District Municipality, Free State, South Africa
+p2945
+aa(lp2946
+VKrugersdorp, West Rand District Municipality, Gauteng, South Africa
+p2947
+aVKrugersdorp, Kruger Street, Mogale City Ward 20, Mogale City Local Municipality, West Rand District Municipality, Gauteng, South Africa
+p2948
+aa(lp2949
+VRhodesia Beach, Pacific County, Washington, United States of America
+p2950
+aVRhodesia, Bassetlaw, Nottinghamshire, East Midlands, England, United Kingdom
+p2951
+aVWoodsetts, Yorkshire and the Humber, England, United Kingdom
+p2952
+aVRhodesia Avenue Southeast, Lakewood Heights, Atlanta, Fulton County, Georgia, 30315, United States of America
+p2953
+aVNetherthorpe, Yorkshire and the Humber, England, United Kingdom
+p2954
+aVShireoaks, Nottinghamshire, East Midlands, England, United Kingdom
+p2955
+aVRhodesia, Cerro Verde Bajo, Penco, Provincia de Concepción, VIII Región del Biobío, Chile
+p2956
+aVRhodesia, Airport Village, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p2957
+aVRhodesia, Campo Colonial, Ciudad Valles, San Luis Potosí, 79020, Estados Unidos Mexicanos
+p2958
+aVRhodesia, Apodaca, Nuevo León, 66627, Estados Unidos Mexicanos
+p2959
+aa(lp2960
+VPolokwane, Capricorn District Municipality, Limpopo, South Africa
+p2961
+aVPietersberg, Breda, Noord-Brabant, Nederland, 4822TB, Nederland
+p2962
+aVPietersberg, Breda, Noord-Brabant, Nederland, 4822TS, Nederland
+p2963
+aVPietersberg, Capelle aan den IJssel, MRDH, Zuid-Holland, Nederland, 2905PB, Nederland
+p2964
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZJ, Nederland
+p2965
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZJ, Nederland
+p2966
+aVPietersberg, Capelle aan den IJssel, MRDH, Zuid-Holland, Nederland, 2905PE, Nederland
+p2967
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZD, Nederland
+p2968
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZH, Nederland
+p2969
+aVPietersberg, Maasboulevard, Maastricht, Limburg, Nederland, 6212NA, Nederland
+p2970
+aa(lp2971
+VGroblersdal, Sekhukhune District Municipality, Limpopo, South Africa
+p2972
+aa(lp2973
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p2974
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p2975
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p2976
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p2977
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p2978
+aaNa(lp2979
+VCaledon, Peel Region, Ontario, Canada
+p2980
+aVCaledon, County Tyrone, Northern Ireland, United Kingdom
+p2981
+aVCaledon, Overberg District Municipality, Western Cape, South Africa
+p2982
+aVCaledon, County Tyrone, Northern Ireland, United Kingdom
+p2983
+aVCaledon, County Carlow, Leinster, Ireland
+p2984
+aVCaledon, Ekurhuleni Ward 72, Springs, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p2985
+aVCaledon, Breede Valley Ward 15, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p2986
+aVCaledon, Vredenburg, Saldanha Bay Ward 2, Saldanha Bay Local Municipality, West Coast District Municipality, Western Cape, South Africa
+p2987
+aVCaledon, Milner Avenue, Johannesburg Ward 86, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p2988
+aVCaledon, R320, Theewaterskloof Ward 4, Theewaterskloof Local Municipality, Overberg District Municipality, Western Cape, South Africa
+p2989
+aa(lp2990
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p2991
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p2992
+aVJohannesburg, Kern, California, United States of America
+p2993
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p2994
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p2995
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p2996
+aVJohannesberg, Wien, Österreich
+p2997
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p2998
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p2999
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p3000
+aa(lp3001
+VNuwerus, Upington, ZF Mgcawu District Municipality, Northern Cape, South Africa
+p3002
+aVNuwerus, Cederberg Local Municipality, West Coast District Municipality, Western Cape, South Africa
+p3003
+aVNuwerus, Napier, Overberg District Municipality, Western Cape, South Africa
+p3004
+aVNuwerus, Matzikama Local Municipality, West Coast District Municipality, Western Cape, South Africa
+p3005
+aVNuwerus, \u01c1Khara Hais Ward 5, Upington, ZF Mgcawu District Municipality, Northern Cape, 8800, South Africa
+p3006
+aa(lp3007
+VBreyten, Gert Sibande, Mpumalanga, South Africa
+p3008
+aa(lp3009
+VVilliersdorp, Overberg District Municipality, Western Cape, South Africa
+p3010
+aVVilliersdorp, Theewaterskloof Ward 5, Theewaterskloof Local Municipality, Overberg District Municipality, Western Cape, South Africa
+p3011
+aa(lp3012
+VGriekwastad, Pixley ka Seme District Municipality, Northern Cape, South Africa
+p3013
+aVGriekwastad, Schmidtsdrift Road, Siyancuma Ward 6, Siyancuma Local Municipality, Pixley ka Seme District Municipality, Northern Cape, South Africa
+p3014
+aa(lp3015
+VOkahandja, Namibia
+p3016
+aVOkahandja, Otjozondjupa Region, Okahandja, Namibia
+p3017
+aa(lp3018
+VKroonstad, Fezile Dabi District Municipality, Free State, South Africa
+p3019
+aVKroonstad, Kwelderland, Delfzijl, Groningen, Nederland, 9934RH, Nederland
+p3020
+aVKroonstad, Station Street, Moqhaka Ward 16, Moqhaka Local Municipality, Fezile Dabi District Municipality, Free State, South Africa
+p3021
+aa(lp3022
+VDibeng, John Taolo Gaetsewe District Municipality, Northern Cape, South Africa
+p3023
+aa(lp3024
+VCape Town, City of Cape Town, Western Cape, South Africa
+p3025
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p3026
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3027
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p3028
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p3029
+aa(lp3030
+VSachsen-Anhalt, Deutschland
+p3031
+aVSulawesi Tengah, Indonesia
+p3032
+aVSão Tomé e Príncipe
+p3033
+aVSt\u0159edo\u010deský kraj, St\u0159ední \u010cechy, \u010cesko
+p3034
+aVStrand, Rogaland, Norge
+p3035
+aV\u0160tore, Savinjska, Slovenija
+p3036
+aVStaré, Ko\u0161ický kraj, Východné Slovensko, 072 23, Slovensko
+p3037
+aVStanton County, Kansas, United States of America
+p3038
+aVStrand, City of Cape Town, Western Cape, South Africa
+p3039
+aVStra, VE, VEN, Italia
+p3040
+aa(lp3041
+VGeorge, Mississippi, United States of America
+p3042
+aVGeorge, Eden District Municipality, Western Cape, South Africa
+p3043
+aVGeorge, Grant County, Washington, United States of America
+p3044
+aVGeorge, George Local Municipality, Eden District Municipality, Western Cape, South Africa
+p3045
+aVGeorge Inn, 77, Borough High Street, Borough, London Borough of Southwark, London, Greater London, England, SE1 1NH, United Kingdom
+p3046
+aVGeorge, Madison County, Texas, United States of America
+p3047
+aVGeorge, Clackamas County, Oregon, United States of America
+p3048
+aVGeorge, Northampton County, North Carolina, United States of America
+p3049
+aVGeorge, Newton County, Arkansas, United States of America
+p3050
+aVGeorge, Yazoo, Mississippi, United States of America
+p3051
+aa(lp3052
+VSomerset East, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p3053
+aVSomerset East, Century Village - West Palm Beach, Century Village, Palm Beach County, Florida, 33417, United States of America
+p3054
+aVSomerset East, College, Blue Crane Route Ward 2, Blue Crane Route Local Municipality, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p3055
+aa(lp3056
+VCape Town, City of Cape Town, Western Cape, South Africa
+p3057
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p3058
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3059
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p3060
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p3061
+aa(lp3062
+VRhodesia Beach, Pacific County, Washington, United States of America
+p3063
+aVRhodesia, Bassetlaw, Nottinghamshire, East Midlands, England, United Kingdom
+p3064
+aVWoodsetts, Yorkshire and the Humber, England, United Kingdom
+p3065
+aVRhodesia Avenue Southeast, Lakewood Heights, Atlanta, Fulton County, Georgia, 30315, United States of America
+p3066
+aVNetherthorpe, Yorkshire and the Humber, England, United Kingdom
+p3067
+aVShireoaks, Nottinghamshire, East Midlands, England, United Kingdom
+p3068
+aVRhodesia, Cerro Verde Bajo, Penco, Provincia de Concepción, VIII Región del Biobío, Chile
+p3069
+aVRhodesia, Airport Village, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p3070
+aVRhodesia, Campo Colonial, Ciudad Valles, San Luis Potosí, 79020, Estados Unidos Mexicanos
+p3071
+aVRhodesia, Apodaca, Nuevo León, 66627, Estados Unidos Mexicanos
+p3072
+aa(lp3073
+VCeres, TO, PIE, Italia
+p3074
+aVCeres, Stanislaus County, California, United States of America
+p3075
+aVCeres, Cape Winelands District Municipality, Western Cape, South Africa
+p3076
+aVCeres, Mercer County, West Virginia, United States of America
+p3077
+aVCeres, Allegany County, New York, United States of America
+p3078
+aVCeres, Clayton County, Iowa, United States of America
+p3079
+aVCeres, Noble, Oklahoma, United States of America
+p3080
+aVCeres, New South Wales, Australia
+p3081
+aVCeres, City of Greater Geelong, Barwon South West, Victoria, Australia
+p3082
+aVCeres, Lewis County, Washington, United States of America
+p3083
+aa(lp3084
+VNelspruit, Ehlanzeni, Mpumalanga, South Africa
+p3085
+aVNelspruit, Northern Bypass, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p3086
+aVNelspruit, Voortrekker Street, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p3087
+aVNelspruit, Langenhoven Crescent, West Acres, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p3088
+aV320, N4, Mbombela Ward 12, Mbombela, Ehlanzeni, Mpumalanga, South Africa
+p3089
+aa(lp3090
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p3091
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p3092
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3093
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3094
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p3095
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3096
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p3097
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3098
+aa(lp3099
+VGeorge, Mississippi, United States of America
+p3100
+aVGeorge, Eden District Municipality, Western Cape, South Africa
+p3101
+aVGeorge, Grant County, Washington, United States of America
+p3102
+aVGeorge, George Local Municipality, Eden District Municipality, Western Cape, South Africa
+p3103
+aVGeorge Inn, 77, Borough High Street, Borough, London Borough of Southwark, London, Greater London, England, SE1 1NH, United Kingdom
+p3104
+aVGeorge, Madison County, Texas, United States of America
+p3105
+aVGeorge, Clackamas County, Oregon, United States of America
+p3106
+aVGeorge, Northampton County, North Carolina, United States of America
+p3107
+aVGeorge, Newton County, Arkansas, United States of America
+p3108
+aVGeorge, Yazoo, Mississippi, United States of America
+p3109
+aa(lp3110
+VSomerset East, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p3111
+aVSomerset East, Century Village - West Palm Beach, Century Village, Palm Beach County, Florida, 33417, United States of America
+p3112
+aVSomerset East, College, Blue Crane Route Ward 2, Blue Crane Route Local Municipality, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p3113
+aa(lp3114
+VKroonstad, Fezile Dabi District Municipality, Free State, South Africa
+p3115
+aVKroonstad, Kwelderland, Delfzijl, Groningen, Nederland, 9934RH, Nederland
+p3116
+aVKroonstad, Station Street, Moqhaka Ward 16, Moqhaka Local Municipality, Fezile Dabi District Municipality, Free State, South Africa
+p3117
+aa(lp3118
+VHerts, EN 226, Tarouca, Viseu, Douro, Norte, Portugal
+p3119
+aV\u05d4\u05e8\u05e5, \u05d0.\u05ea. \u05d7\u05d5\u05e3 \u05e9\u05de\u05df, \u05d7\u05d9\u05e4\u05d4, \u05de\u05d7\u05d5\u05d6 \u05d7\u05d9\u05e4\u05d4, 3269702, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc
+p3120
+aa(lp3121
+VCalvinia, Namakwa District Municipality, Northern Cape, South Africa
+p3122
+aVCalvinia, Voortrekker Straat, Hantam Ward 2, Hantam Local Municipality, Namakwa District Municipality, Northern Cape, South Africa
+p3123
+aa(lp3124
+VFlorida, United States of America
+p3125
+aVFlorida, Puerto Rico, United States of America
+p3126
+aVFlorida, Vieques, Puerto Rico, United States of America
+p3127
+aVFlorida, San Lorenzo, Puerto Rico, United States of America
+p3128
+aVFlorida, Siquirres, Limón, Costa Rica
+p3129
+aVFlorida, Town of Warwick, New York, United States of America
+p3130
+aVFlórida, Microrregião Astorga, Mesorregião Norte Central Paranaense, PR, Região Sul, Brasil
+p3131
+aVFlorida, Uruguay
+p3132
+aVFlorida, Parroquia Balao, Cantón Balao, Guayas, Ecuador
+p3133
+aVLa Florida, Provincia de Santiago, Región Metropolitana de Santiago, Chile
+p3134
+aa(lp3135
+VKempton Park, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p3136
+aVKempton Park, Park Road, Sunbury Common, Spelthorne, Surrey, South East, England, TW16 5AE, United Kingdom
+p3137
+aVKempton Park, Surrey, South East, England, United Kingdom
+p3138
+aVKempton Park, Pelletstown, Ashtown A ED, Dublin, County Dublin, Leinster, D11, Ireland
+p3139
+aVKempton Park, Johannesburg Ward 32, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p3140
+aVKempton Park, Ballyvolane, Cork, County Cork, Munster, Ireland
+p3141
+aVKempton Park, Dunsbury Hill Farm, Cowplain, Havant, Hampshire, South East, England, PO7 8NT, United Kingdom
+p3142
+aVKempton Park, Weeley Civil Parish, Tendring, Essex, East of England, England, CO16 9EJ, United Kingdom
+p3143
+aVKempton Park, Park Road, Sunbury Common, Spelthorne, Surrey, South East, England, TW16 5AE, United Kingdom
+p3144
+aVKempton Park, Geldenhuys Road, Bonaero Park, Benoni, Ekurhuleni Metropolitan Municipality, Gauteng, 1619, South Africa
+p3145
+aa(lp3146
+VWelkom, Lejweleputswa District Municipality, Free State, South Africa
+p3147
+aVWelkom, Cape Town Ward 102, Cape Town Subcouncil 7, Brackenfell, City of Cape Town, Western Cape, 7560, South Africa
+p3148
+aVWelkom, Arteveldestraat, Groningen, Nederland, 9745AL, Nederland
+p3149
+aVWelkom, Damplein, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p3150
+aVWelkom, Noordschippersdok, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p3151
+aVWelkom, 247, Platte-Lostraat, Lolanden, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, België - Belgique - Belgien
+p3152
+aVWelkom, 20, Ring, Noorderwijk, Herentals, Turnhout, Antwerpen, Vlaanderen, 2200, België - Belgique - Belgien
+p3153
+aVWelkom, 5, Appelboom, Adegem, Maldegem, Eeklo, Oost-Vlaanderen, Vlaanderen, 9990;9991;9992, België - Belgique - Belgien
+p3154
+aVWelkom, Dorpsstraat, Niel, Antwerpen, Vlaanderen, 2845, België - Belgique - Belgien
+p3155
+aVWelkom, 2, Beerzelplein, Beerzel, Putte, Mechelen, Antwerpen, Vlaanderen, 2580, België - Belgique - Belgien
+p3156
+aa(lp3157
+VCeres, TO, PIE, Italia
+p3158
+aVCeres, Stanislaus County, California, United States of America
+p3159
+aVCeres, Cape Winelands District Municipality, Western Cape, South Africa
+p3160
+aVCeres, Mercer County, West Virginia, United States of America
+p3161
+aVCeres, Allegany County, New York, United States of America
+p3162
+aVCeres, Clayton County, Iowa, United States of America
+p3163
+aVCeres, Noble, Oklahoma, United States of America
+p3164
+aVCeres, New South Wales, Australia
+p3165
+aVCeres, City of Greater Geelong, Barwon South West, Victoria, Australia
+p3166
+aVCeres, Lewis County, Washington, United States of America
+p3167
+aa(lp3168
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3169
+aVPretoria, Bulloch County, Georgia, United States of America
+p3170
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3171
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3172
+aVPretoria, 230, New South Wales, 2824, Australia
+p3173
+aVPretoria, Dougherty, Georgia, United States of America
+p3174
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3175
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3176
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3177
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3178
+aa(lp3179
+VKimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3180
+aVKimberley, Nottinghamshire, East Midlands, England, United Kingdom
+p3181
+aVKimberley, Regional District of East Kootenay, British Columbia, Canada
+p3182
+aVKimberley, South Norfolk District, Norfolk, East of England, England, United Kingdom
+p3183
+aVKimberley, Western Australia, Australia
+p3184
+aVKimberley, Norfolk, East of England, England, United Kingdom
+p3185
+aVKimberley, Ontario, Canada
+p3186
+aVKimberley, Pike County, Arkansas, United States of America
+p3187
+aVKimberley, New South Wales, Australia
+p3188
+aVKimberley, Broxtowe, Nottinghamshire, East Midlands, England, United Kingdom
+p3189
+aa(lp3190
+VCeres, TO, PIE, Italia
+p3191
+aVCeres, Stanislaus County, California, United States of America
+p3192
+aVCeres, Cape Winelands District Municipality, Western Cape, South Africa
+p3193
+aVCeres, Mercer County, West Virginia, United States of America
+p3194
+aVCeres, Allegany County, New York, United States of America
+p3195
+aVCeres, Clayton County, Iowa, United States of America
+p3196
+aVCeres, Noble, Oklahoma, United States of America
+p3197
+aVCeres, New South Wales, Australia
+p3198
+aVCeres, City of Greater Geelong, Barwon South West, Victoria, Australia
+p3199
+aVCeres, Lewis County, Washington, United States of America
+p3200
+aa(lp3201
+VBrits, Bojanala Platinum District Municipality, North West, South Africa
+p3202
+aVBrits, Oosterbierum, Franekeradeel, Friesland, Nederland, 8854AN, Nederland
+p3203
+aVBrits, 929, Mass Street, Downtown Lawrence, Lawrence, Douglas County, Kansas, 66044, United States of America
+p3204
+aVBrits, Ko-Operasie Avenue, Madibeng Ward 23, Madibeng Local Municipality, Bojanala Platinum District Municipality, North West, 0250, South Africa
+p3205
+aa(lp3206
+VEast London, Buffalo City Metropolitan Municipality, Eastern Cape, South Africa
+p3207
+aVEast London, Station Street, Buffalo City Ward 47, East London, Buffalo City Metropolitan Municipality, Eastern Cape, 5201, South Africa
+p3208
+aa(lp3209
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p3210
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p3211
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p3212
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p3213
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p3214
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p3215
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p3216
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p3217
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p3218
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p3219
+aa(lp3220
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p3221
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p3222
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3223
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3224
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p3225
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3226
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p3227
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3228
+aa(lp3229
+VVictoria West, Pixley ka Seme District Municipality, Northern Cape, South Africa
+p3230
+aVVictoria West, Victoria, Capital Regional District, British Columbia, Canada
+p3231
+aVVictoria West, Prince County, Prince Edward Island, Canada
+p3232
+aVVictoria West, Victoria, Capital Regional District, British Columbia, V9A3X6, Canada
+p3233
+aVVictoria West, Transcona, Winnipeg, Manitoba, Canada
+p3234
+aVVictoria West, R63, Ubuntu Ward 2, Ubuntu Local Municipality, Pixley ka Seme District Municipality, Northern Cape, South Africa
+p3235
+aVVictoria West, R63, Ubuntu Ward 4, Ubuntu Local Municipality, Pixley ka Seme District Municipality, Northern Cape, South Africa
+p3236
+aa(lp3237
+VParow, City of Cape Town, Western Cape, South Africa
+p3238
+aVParow, Kramerhof, Altenpleen, Landkreis Vorpommern-Rügen, Mecklenburg-Vorpommern, Deutschland
+p3239
+aVParowie, gmina Bia\u0142y Dunajec, powiat tatrza\u0144ski, ma\u0142opolskie, Polska
+p3240
+aVParow, Cape Town Subcouncil 4, Parow, City of Cape Town, Western Cape, South Africa
+p3241
+aVPary, gmina D\u0105browa Tarnowska, powiat d\u0105browski, ma\u0142opolskie, Polska
+p3242
+aVPary, gmina Tarnów, powiat tarnowski, ma\u0142opolskie, Polska
+p3243
+aVParow, Pappelallee, Parow, Kramerhof, Altenpleen, Landkreis Vorpommern-Rügen, Mecklenburg-Vorpommern, 18445, Deutschland
+p3244
+aVParow, Connaught Road, Beaconvale, Cape Town Subcouncil 4, Parow, City of Cape Town, Western Cape, 7500, South Africa
+p3245
+aa(lp3246
+VGermiston, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p3247
+aVGermiston, Glasgow City, Scotland, United Kingdom
+p3248
+aVGermiston, Railway street, Ekurhuleni Ward 93, Germiston, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p3249
+aa(lp3250
+VHarrismith, Thabo Mofutsanyana District Municipality, Free State, 9880, South Africa
+p3251
+aVHarrismith, Western Australia, Australia
+p3252
+aVHarrismith, Thabo Mofutsanyana District Municipality, Free State, 9880, South Africa
+p3253
+aVHarrismith, Emnambithi/Ladysmith Ward 11, Emnambithi/Ladysmith Local Municipality, Uthukela District Municipality, KwaZulu-Natal, South Africa
+p3254
+aVHarrismith, Skeete s Bay, Saint Philip, Barbados
+p3255
+aVHarrismith, McKechnie Street, Maluti-a-Phofung Ward 22, Harrismith, Thabo Mofutsanyana District Municipality, Free State, 9880, South Africa
+p3256
+aVHarrismith, Harrismith Road, Skeete s Bay, Saint Philip, Barbados
+p3257
+aa(lp3258
+VLadysmith, New South Wales, Australia
+p3259
+aVLadysmith, Uthukela District Municipality, KwaZulu-Natal, South Africa
+p3260
+aVLadysmith, Cowichan Valley Regional District, British Columbia, Canada
+p3261
+aVLadysmith, Rusk County, Wisconsin, United States of America
+p3262
+aVLadysmith, Caroline, Virginia, United States of America
+p3263
+aVLadysmith, Québec, Canada
+p3264
+aVLadysmith, Clay County, Kansas, United States of America
+p3265
+aVLadysmith, Saint Clair Twp ON, Lambton County, Ontario, Canada
+p3266
+aVLadysmith, Coreinbob, New South Wales, Australia
+p3267
+aVLadysmith, Manitoba, Canada
+p3268
+aa(lp3269
+VPotchefstroom, Dr Kenneth Kaunda District Municipality, North West, South Africa
+p3270
+aVPotchefstroom, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2520, South Africa
+p3271
+aVPotchefstroom, N1, Emfuleni Ward 25, Emfuleni Local Municipality, Sedibeng District Municipality, Gauteng, 1900, South Africa
+p3272
+aVPotchefstroom, Piet Bosman Street, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2531, South Africa
+p3273
+aa(lp3274
+VClanwilliam, West Coast District Municipality, Western Cape, South Africa
+p3275
+aa(lp3276
+VDouglas County, Illinois, United States of America
+p3277
+aVDouglas County, Kansas, United States of America
+p3278
+aVDouglas, Middle, Isle of Man
+p3279
+aVDouglas County, Colorado, United States of America
+p3280
+aVDouglas, Converse County, Wyoming, United States of America
+p3281
+aVDouglas County, Oregon, United States of America
+p3282
+aVDouglas County, Georgia, United States of America
+p3283
+aVDouglas County, Minnesota, United States of America
+p3284
+aVDouglas County, Nebraska, United States of America
+p3285
+aVDouglas County, Missouri, United States of America
+p3286
+aa(lp3287
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3288
+aVPretoria, Bulloch County, Georgia, United States of America
+p3289
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3290
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3291
+aVPretoria, 230, New South Wales, 2824, Australia
+p3292
+aVPretoria, Dougherty, Georgia, United States of America
+p3293
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3294
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3295
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3296
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3297
+aa(lp3298
+VPietermaritzburg, uMgungundlovu District Municipality, KwaZulu-Natal, South Africa
+p3299
+aVPietermaritzburg, Devonshire Road, Msunduzi Ward 26, Msunduzi Local Municipality, uMgungundlovu District Municipality, KwaZulu-Natal, 3201, South Africa
+p3300
+aa(lp3301
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p3302
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p3303
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p3304
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p3305
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p3306
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p3307
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p3308
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p3309
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p3310
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p3311
+aa(lp3312
+VCape Town, City of Cape Town, Western Cape, South Africa
+p3313
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p3314
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3315
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p3316
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p3317
+aa(lp3318
+VCarletonville, West Rand District Municipality, Gauteng, South Africa
+p3319
+aVCarletonville, Meigs County, Ohio, United States of America
+p3320
+aa(lp3321
+V\u041e\u0424\u0421, \u041f\u043b\u0430\u043d\u043e\u0432\u044b\u0439, \u042e\u0436\u043d\u043e\u0443\u0440\u0430\u043b\u044c\u0441\u043a, \u042e\u0436\u043d\u043e\u0443\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 457040, \u0420\u043e\u0441\u0441\u0438\u044f
+p3322
+aVOld Fire Station, George Street, Jericho, Oxford, Oxon, South East, England, OX1 2BE, United Kingdom
+p3323
+aa(lp3324
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p3325
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p3326
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p3327
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p3328
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p3329
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p3330
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p3331
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p3332
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p3333
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p3334
+aa(lp3335
+VRustenburg, Bojanala Platinum District Municipality, North West, South Africa
+p3336
+aVRustenburg, Mangaan Street, Rustenburg Ward 10, Rustenburg Local Municipality, Bojanala Platinum District Municipality, North West, South Africa
+p3337
+aVRustenburg, Amersfoort, Utrecht, Nederland, 3815ZT, Nederland
+p3338
+aVRustenburg, Amersfoort, Utrecht, Nederland, 3815MK, Nederland
+p3339
+aVRustenburg, Puttershoek, Binnenmaas, Zuid-Holland, Nederland, 3297LG, Nederland
+p3340
+aVRustenburg, Puttershoek, Binnenmaas, Zuid-Holland, Nederland, 3297LG, Nederland
+p3341
+aVRüstenberg, Brakel, Kreis Höxter, Regierungsbezirk Detmold, Nordrhein-Westfalen, Deutschland, Europe
+p3342
+aVRustenburg, Wageningen, Gelderland, Nederland, 6701HC, Nederland
+p3343
+aVRustenburg, Wageningen, Gelderland, Nederland, 6701DV, Nederland
+p3344
+aVRustenburg, Oosterhout, Noord-Brabant, Nederland, 4901WH, Nederland
+p3345
+aa(lp3346
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3347
+aVPretoria, Bulloch County, Georgia, United States of America
+p3348
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3349
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3350
+aVPretoria, 230, New South Wales, 2824, Australia
+p3351
+aVPretoria, Dougherty, Georgia, United States of America
+p3352
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3353
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3354
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3355
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3356
+aa(lp3357
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3358
+aVPretoria, Bulloch County, Georgia, United States of America
+p3359
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3360
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3361
+aVPretoria, 230, New South Wales, 2824, Australia
+p3362
+aVPretoria, Dougherty, Georgia, United States of America
+p3363
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3364
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3365
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3366
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3367
+aa(lp3368
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p3369
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p3370
+aVJohannesburg, Kern, California, United States of America
+p3371
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p3372
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p3373
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p3374
+aVJohannesberg, Wien, Österreich
+p3375
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p3376
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p3377
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p3378
+aa(lp3379
+VRoodepoort, City of Johannesburg Metropolitan Municipality, Gauteng, South Africa
+p3380
+aVRoodepoort, Station Street, Johannesburg Ward 84, Roodepoort, City of Johannesburg Metropolitan Municipality, Gauteng, 1724, South Africa
+p3381
+aa(lp3382
+VUpington, ZF Mgcawu District Municipality, Northern Cape, South Africa
+p3383
+aVUpington, Station Crescent, \u01c1Khara Hais Ward 8, Upington, ZF Mgcawu District Municipality, Northern Cape, 8800, South Africa
+p3384
+aVUpington, Villiersdorp, Theewaterskloof Ward 5, Theewaterskloof Local Municipality, Overberg District Municipality, Western Cape, South Africa
+p3385
+aVUpington, Drakenstein Ward 23, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3386
+aVUpington, Richtersveld Ward 4, Richtersveld Local Municipality, Namakwa District Municipality, Northern Cape, 8220, South Africa
+p3387
+aa(lp3388
+VMolteno, LC, LOM, Italia
+p3389
+aVMolteno, Chris Hani District Municipality, Eastern Cape, South Africa
+p3390
+aVMolteno, Via Stazione, Molteno, LC, LOM, 23847, Italia
+p3391
+aVMolteno, Dennesig, Stellenbosch Ward 10, Stellenbosch Local Municipality, Cape Winelands District Municipality, Western Cape, 7599, South Africa
+p3392
+aVMolteno, Molteno Road, Cape Town Ward 77, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p3393
+aVMolteno, Strada Statale 36 del lago di Como e dello Spluga, Molteno, LC, LOM, 23847, Italia
+p3394
+aVMolteno, R56, Inkwanca Ward 2, Inkwanca Local Municipality, Chris Hani District Municipality, Eastern Cape, South Africa
+p3395
+aa(lp3396
+VCape Town, City of Cape Town, Western Cape, South Africa
+p3397
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p3398
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3399
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p3400
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p3401
+aa(lp3402
+VGrahamstown, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p3403
+aVGrahamstown, Ballintra, County Donegal, Ireland
+p3404
+aVGrahamstown, Sandy Gully, New South Wales, Australia
+p3405
+aVGrahamstown, Sandy Gully, New South Wales, Australia
+p3406
+aVGrahamstown, Anderson Street, Makana Ward 4, Makana Local Municipality, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p3407
+aVGRAHAMSTOWN, R350, Makana Ward 1, Makana Local Municipality, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p3408
+aa(lp3409
+VVereeniging, Sedibeng District Municipality, Gauteng, South Africa
+p3410
+aVVereeniging, Union Street, Emfuleni Ward 15, Emfuleni Local Municipality, Sedibeng District Municipality, Gauteng, South Africa
+p3411
+aVVereeniging, Johannesburg Ward 125, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p3412
+aVVereeniging, Weilback Road, Midvaal Ward 11, Midvaal Local Municipality, Sedibeng District Municipality, Gauteng, South Africa
+p3413
+aa(lp3414
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p3415
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p3416
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3417
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3418
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p3419
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3420
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p3421
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3422
+aa(lp3423
+VStellenbosch, Cape Winelands District Municipality, Western Cape, South Africa
+p3424
+aVStellenbosch, R310, Stellenbosch Ward 11, Stellenbosch Local Municipality, Cape Winelands District Municipality, Western Cape, 7599, South Africa
+p3425
+aa(lp3426
+VWelkom, Lejweleputswa District Municipality, Free State, South Africa
+p3427
+aVWelkom, Cape Town Ward 102, Cape Town Subcouncil 7, Brackenfell, City of Cape Town, Western Cape, 7560, South Africa
+p3428
+aVWelkom, Arteveldestraat, Groningen, Nederland, 9745AL, Nederland
+p3429
+aVWelkom, Damplein, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p3430
+aVWelkom, Noordschippersdok, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p3431
+aVWelkom, 247, Platte-Lostraat, Lolanden, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, België - Belgique - Belgien
+p3432
+aVWelkom, 20, Ring, Noorderwijk, Herentals, Turnhout, Antwerpen, Vlaanderen, 2200, België - Belgique - Belgien
+p3433
+aVWelkom, 5, Appelboom, Adegem, Maldegem, Eeklo, Oost-Vlaanderen, Vlaanderen, 9990;9991;9992, België - Belgique - Belgien
+p3434
+aVWelkom, Dorpsstraat, Niel, Antwerpen, Vlaanderen, 2845, België - Belgique - Belgien
+p3435
+aVWelkom, 2, Beerzelplein, Beerzel, Putte, Mechelen, Antwerpen, Vlaanderen, 2580, België - Belgique - Belgien
+p3436
+aa(lp3437
+VNelspruit, Ehlanzeni, Mpumalanga, South Africa
+p3438
+aVNelspruit, Northern Bypass, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p3439
+aVNelspruit, Voortrekker Street, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p3440
+aVNelspruit, Langenhoven Crescent, West Acres, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p3441
+aV320, N4, Mbombela Ward 12, Mbombela, Ehlanzeni, Mpumalanga, South Africa
+p3442
+aa(lp3443
+VPietermaritzburg, uMgungundlovu District Municipality, KwaZulu-Natal, South Africa
+p3444
+aVPietermaritzburg, Devonshire Road, Msunduzi Ward 26, Msunduzi Local Municipality, uMgungundlovu District Municipality, KwaZulu-Natal, 3201, South Africa
+p3445
+aa(lp3446
+VMalmesbury, Wiltshire, South West England, England, SN16 9, United Kingdom
+p3447
+aVMalmesbury, West Coast District Municipality, Western Cape, South Africa
+p3448
+aVMalmesbury, Cyprus Street, Cyprus Street Estate, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, England, E2 0JD, United Kingdom
+p3449
+aVMalmesbury, Bokomoweg, Swartland Ward 8, Malmesbury, West Coast District Municipality, Western Cape, South Africa
+p3450
+aa(lp3451
+VGlasgow, Barren County, Kentucky, United States of America
+p3452
+aVGlasgow City, Scotland, United Kingdom
+p3453
+aVGlasgow, Rockbridge County, Virginia, United States of America
+p3454
+aVGlasgow, New Castle, Delaware, United States, New Castle County, Delaware, United States of America
+p3455
+aVGlasgow, Valley County, Montana, United States of America
+p3456
+aVGlasgow, Kanawha County, West Virginia, United States of America
+p3457
+aVGlasgow, Beaver County, Pennsylvania, United States of America
+p3458
+aVGlasgow, Howard County, Missouri, United States of America
+p3459
+aVGlasgow, San Bernardino County, California, United States of America
+p3460
+aVGlasgow, Cambria County, Pennsylvania, United States of America
+p3461
+aa(lp3462
+VEstcourt, Québec, Canada
+p3463
+aVEstcourt, Uthukela District Municipality, KwaZulu-Natal, South Africa
+p3464
+aVEstcourt, N3, Umtshezi Ward 3, Umtshezi Local Municipality, Uthukela District Municipality, KwaZulu-Natal, South Africa
+p3465
+aVEstcourt, Hellet, Umtshezi Ward 3, Umtshezi Local Municipality, Uthukela District Municipality, KwaZulu-Natal, South Africa
+p3466
+aa(lp3467
+VGosport, Hampshire, South East, England, United Kingdom
+p3468
+aVGosport, United Kingdom
+p3469
+aVGosport, Marion County, Iowa, United States of America
+p3470
+aVGosport, Rockingham County, New Hampshire, United States of America
+p3471
+aVGosport, Owen County, Indiana, United States of America
+p3472
+aVGosport, Clarke County, Alabama, United States of America
+p3473
+aVGosport, Pearce Court, Newtown, Forton, Gosport, Hampshire, South East, England, PO12 4TD, United Kingdom
+p3474
+aVGoSport, 20, Mechelsesteenweg, Heist-op-den-Berg, Mechelen, Antwerpen, Vlaanderen, 2220, België - Belgique - Belgien
+p3475
+aVGoSport, Oudenaardsestraat, Geraardsbergen, Aalst, Oost-Vlaanderen, Vlaanderen, 9500;9506, België - Belgique - Belgien
+p3476
+aVGoSport, Rue Pierre Gilles de Gennes, Les Quatre Vents, Les Galvinettes, Vineuil, Blois, Loir-et-Cher, Centre-Val de Loire, France métropolitaine, 41350, France
+p3477
+aa(lp3478
+VCape Town, City of Cape Town, Western Cape, South Africa
+p3479
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p3480
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3481
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p3482
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p3483
+aa(lp3484
+VVrede, Central Karoo District Municipality, Western Cape, South Africa
+p3485
+aVVrede, Moses Kotane Local Municipality, Bojanala Platinum District Municipality, North West, South Africa
+p3486
+aVVrede, Phumelela Local Municipality, Thabo Mofutsanyana District Municipality, Free State, South Africa
+p3487
+aVVrede, Cape Town Ward 2, Cape Town Subcouncil 6, Bellville, City of Cape Town, Western Cape, 7530, South Africa
+p3488
+aVVrede, Cape Town Ward 21, Cape Town Subcouncil 7, Durbanville, City of Cape Town, Western Cape, 7551, South Africa
+p3489
+aVVrede, Drakenstein Ward 11, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7654, South Africa
+p3490
+aVVrede, Camphers Drift, George Local Municipality, Eden District Municipality, Western Cape, 6530, South Africa
+p3491
+aVVrede, Stellenbosch Ward 22, Stellenbosch Local Municipality, Cape Winelands District Municipality, Western Cape, 7599, South Africa
+p3492
+aVVrede, Capital Regional District, British Columbia, V8W2G5, Canada
+p3493
+aVVrede, 4, Hagsche Straße, Kleve, Kreis Kleve, Regierungsbezirk Düsseldorf, Nordrhein-Westfalen, 47533, Deutschland
+p3494
+aa(lp3495
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3496
+aVPretoria, Bulloch County, Georgia, United States of America
+p3497
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3498
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3499
+aVPretoria, 230, New South Wales, 2824, Australia
+p3500
+aVPretoria, Dougherty, Georgia, United States of America
+p3501
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3502
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3503
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3504
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3505
+aa(lp3506
+VSenekal, Thabo Mofutsanyana District Municipality, Free State, South Africa
+p3507
+aVSenekal, N5;R70;R707, Setsoto Ward 6, Setsoto Local Municipality, Thabo Mofutsanyana District Municipality, Free State, South Africa
+p3508
+aa(lp3509
+VLouis Trichardt, Vhembe District Municipality, Limpopo, South Africa
+p3510
+aVLouis Trichardt, Theewaterskloof Ward 13, Theewaterskloof Local Municipality, Overberg District Municipality, Western Cape, South Africa
+p3511
+aVLouis Trichardt, Blue Crane Route Ward 5, Blue Crane Route Local Municipality, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p3512
+aVLouis Trichardt, Burger Street, Makhado Ward 21, Makhado Local Municipality, Vhembe District Municipality, Limpopo, South Africa
+p3513
+aa(lp3514
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p3515
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p3516
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3517
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3518
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p3519
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3520
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p3521
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3522
+aa(lp3523
+VFort Beaufort, Amathole District Municipality, Eastern Cape, South Africa
+p3524
+aVFort Beaufort, Bell Street, Nkonkobe Ward 20, Nkonkobe Local Municipality, Amathole District Municipality, Eastern Cape, South Africa
+p3525
+aVFort Beaufort, Durban Street, Nkonkobe Ward 20, Nkonkobe Local Municipality, Amathole District Municipality, Eastern Cape, South Africa
+p3526
+aa(lp3527
+VRoodepoort, City of Johannesburg Metropolitan Municipality, Gauteng, South Africa
+p3528
+aVRoodepoort, Station Street, Johannesburg Ward 84, Roodepoort, City of Johannesburg Metropolitan Municipality, Gauteng, 1724, South Africa
+p3529
+aa(lp3530
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p3531
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p3532
+aVJohannesburg, Kern, California, United States of America
+p3533
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p3534
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p3535
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p3536
+aVJohannesberg, Wien, Österreich
+p3537
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p3538
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p3539
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p3540
+aa(lp3541
+VElliot, Chris Hani District Municipality, Eastern Cape, South Africa
+p3542
+aVElliot, Angus, Scotland, United Kingdom
+p3543
+aVElliot, Robertson County, Texas, United States of America
+p3544
+aVElliot, Frederick County, Maryland, United States of America
+p3545
+aVElliot, Bundaberg Region, QLD, Australia
+p3546
+aVElliot, Sol Plaatje Ward 20, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3547
+aVElliot, Milmine, Piatt County, Illinois, 61855, United States of America
+p3548
+aVElliot, Franklin, Williamson County, Tennessee, 30764, United States of America
+p3549
+aVElliot, Buckner, Jackson County, Missouri, 64016, United States of America
+p3550
+aVElliot, Brewton, Escambia County, Alabama, 36426, United States of America
+p3551
+aa(lp3552
+VVereeniging, Sedibeng District Municipality, Gauteng, South Africa
+p3553
+aVVereeniging, Union Street, Emfuleni Ward 15, Emfuleni Local Municipality, Sedibeng District Municipality, Gauteng, South Africa
+p3554
+aVVereeniging, Johannesburg Ward 125, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p3555
+aVVereeniging, Weilback Road, Midvaal Ward 11, Midvaal Local Municipality, Sedibeng District Municipality, Gauteng, South Africa
+p3556
+aa(lp3557
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3558
+aVPretoria, Bulloch County, Georgia, United States of America
+p3559
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3560
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3561
+aVPretoria, 230, New South Wales, 2824, Australia
+p3562
+aVPretoria, Dougherty, Georgia, United States of America
+p3563
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3564
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3565
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3566
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3567
+aa(lp3568
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3569
+aVPretoria, Bulloch County, Georgia, United States of America
+p3570
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3571
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3572
+aVPretoria, 230, New South Wales, 2824, Australia
+p3573
+aVPretoria, Dougherty, Georgia, United States of America
+p3574
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3575
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3576
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3577
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3578
+aa(lp3579
+VSprings, Suffolk County, New York, United States of America
+p3580
+aVSprings, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p3581
+aVThe Springs, QLD, Australia
+p3582
+aVSprings, Somerset County, Pennsylvania, United States of America
+p3583
+aVThe Springs, Barnstable County, Massachusetts, United States of America
+p3584
+aVThe Springs, Clayton, Georgia, United States of America
+p3585
+aVThe Springs, New South Wales, Australia
+p3586
+aVSprings, Tameside, Greater Manchester, North West England, England, United Kingdom
+p3587
+aVSprings, St. George's, Grenada
+p3588
+aVThe Springs, Broken Hill, New South Wales, Australia
+p3589
+aa(lp3590
+VElliot, Chris Hani District Municipality, Eastern Cape, South Africa
+p3591
+aVElliot, Angus, Scotland, United Kingdom
+p3592
+aVElliot, Robertson County, Texas, United States of America
+p3593
+aVElliot, Frederick County, Maryland, United States of America
+p3594
+aVElliot, Bundaberg Region, QLD, Australia
+p3595
+aVElliot, Sol Plaatje Ward 20, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3596
+aVElliot, Milmine, Piatt County, Illinois, 61855, United States of America
+p3597
+aVElliot, Franklin, Williamson County, Tennessee, 30764, United States of America
+p3598
+aVElliot, Buckner, Jackson County, Missouri, 64016, United States of America
+p3599
+aVElliot, Brewton, Escambia County, Alabama, 36426, United States of America
+p3600
+aa(lp3601
+VVredenburg, West Coast District Municipality, Western Cape, South Africa
+p3602
+aVVredenburg, Saldanha Bay Ward 13, Saldanha Bay Local Municipality, West Coast District Municipality, Western Cape, South Africa
+p3603
+aVVredenberg, Cape Town Subcouncil 3, Brackenfell, City of Cape Town, Western Cape, South Africa
+p3604
+aVVredenburg, Lombok, Utrecht, Bestuur Regio Utrecht, Utrecht, Nederland, 3511 BA, Nederland
+p3605
+aVVredenburg, Lombok, Utrecht, Bestuur Regio Utrecht, Utrecht, Nederland, 3511 BA, Nederland
+p3606
+aVVredenburg, Lombok, Utrecht, Bestuur Regio Utrecht, Utrecht, Nederland, 3511BD, Nederland
+p3607
+aVVredenburg, Sterrenburg, Dordrecht, Zuid-Holland, Nederland, 3328AB, Nederland
+p3608
+aVVredenburg, Sterrenburg, Dordrecht, Zuid-Holland, Nederland, 3328DJ, Nederland
+p3609
+aVVredenburg, Sterrenburg, Dordrecht, Zuid-Holland, Nederland, 3328DG, Nederland
+p3610
+aVVredenburg, Oudorperpolder, Alkmaar, Noord-Holland, Nederland, 1823HL, Nederland
+p3611
+aa(lp3612
+VStutterheim, Amathole District Municipality, Eastern Cape, South Africa
+p3613
+aVStutterheim, R352, Amahlathi Ward 14, Amahlathi Local Municipality, Amathole District Municipality, Eastern Cape, South Africa
+p3614
+aVStutterheim, R352, Amahlathi Ward 17, Amahlathi Local Municipality, Amathole District Municipality, Eastern Cape, South Africa
+p3615
+aa(lp3616
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p3617
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p3618
+aVJohannesburg, Kern, California, United States of America
+p3619
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p3620
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p3621
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p3622
+aVJohannesberg, Wien, Österreich
+p3623
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p3624
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p3625
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p3626
+aa(lp3627
+VSud-Ouest, Burkina Faso
+p3628
+aa(lp3629
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3630
+aVPretoria, Bulloch County, Georgia, United States of America
+p3631
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3632
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3633
+aVPretoria, 230, New South Wales, 2824, Australia
+p3634
+aVPretoria, Dougherty, Georgia, United States of America
+p3635
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3636
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3637
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3638
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3639
+aa(lp3640
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3641
+aVPretoria, Bulloch County, Georgia, United States of America
+p3642
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3643
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3644
+aVPretoria, 230, New South Wales, 2824, Australia
+p3645
+aVPretoria, Dougherty, Georgia, United States of America
+p3646
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3647
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3648
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3649
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3650
+aa(lp3651
+VDelmas, Arrondissement de Port-au-Prince, Département de l'Ouest, Ayiti
+p3652
+aVCommune de Delmas, Arrondissement de Port-au-Prince, Département de l'Ouest, Ayiti
+p3653
+aVDelmas, Marmande, Lot-et-Garonne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, France
+p3654
+aVDelmas, Saskatchewan, Canada
+p3655
+aVDelmas, Arrondissement de l\u2019Anse-à-Veau, Département des Nippes, Ayiti
+p3656
+aVDelmas, Arrondissement de Jacmel, Département du Sud-Est, Ayiti
+p3657
+aVDelmas, Commune Jacmel, Arrondissement de Jacmel, Département du Sud-Est, Ayiti
+p3658
+aVDelmas, Nkangala, Mpumalanga, South Africa
+p3659
+aVDelmas, Avenue Jules Julien, Toulouse Sud-Est, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France
+p3660
+aVDelmas, Avenue du Maréchal Juin, Marvejols, Mende, Lozère, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 48100, France
+p3661
+aa(lp3662
+VCape Town, City of Cape Town, Western Cape, South Africa
+p3663
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p3664
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3665
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p3666
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p3667
+aa(lp3668
+VKing William's Town, Buffalo City Metropolitan Municipality, Eastern Cape, South Africa
+p3669
+aVKing Williams, Dugbe River, Sinoe County, Liberia
+p3670
+aVKing William's Town, Grey Street, Buffalo City Ward 37, King William's Town, Buffalo City Metropolitan Municipality, Eastern Cape, 5600, South Africa
+p3671
+aa(lp3672
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3673
+aVPretoria, Bulloch County, Georgia, United States of America
+p3674
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3675
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3676
+aVPretoria, 230, New South Wales, 2824, Australia
+p3677
+aVPretoria, Dougherty, Georgia, United States of America
+p3678
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3679
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3680
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3681
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3682
+aa(lp3683
+VPotchefstroom, Dr Kenneth Kaunda District Municipality, North West, South Africa
+p3684
+aVPotchefstroom, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2520, South Africa
+p3685
+aVPotchefstroom, N1, Emfuleni Ward 25, Emfuleni Local Municipality, Sedibeng District Municipality, Gauteng, 1900, South Africa
+p3686
+aVPotchefstroom, Piet Bosman Street, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2531, South Africa
+p3687
+aa(lp3688
+VBelfast, County Antrim, Northern Ireland, United Kingdom
+p3689
+aVBelfast, Waldo County, Maine, United States of America
+p3690
+aVBelfast, Lassen County, California, United States of America
+p3691
+aVBelfast, Nkangala, Mpumalanga, South Africa
+p3692
+aVBelfast, Christchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
+p3693
+aVBelfast, Allegany County, New York, United States of America
+p3694
+aVBelfast, Northampton County, Pennsylvania, United States of America
+p3695
+aVBelfast, Stonelick Township, Clermont County, Ohio, United States of America
+p3696
+aVBelfast, Highland County, Ohio, United States of America
+p3697
+aVBelfast, Russell, Virginia, United States of America
+p3698
+aa(lp3699
+VRhodesia, Bassetlaw, Nottinghamshire, East Midlands, England, United Kingdom
+p3700
+aVRhodesia, Cerro Verde Bajo, Penco, Provincia de Concepción, VIII Región del Biobío, Chile
+p3701
+aVRhodesia, Airport Village, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p3702
+aVRhodesia, Campo Colonial, Ciudad Valles, San Luis Potosí, 79020, Estados Unidos Mexicanos
+p3703
+aVRhodesia, Apodaca, Nuevo León, 66627, Estados Unidos Mexicanos
+p3704
+aa(lp3705
+VSenekal, Thabo Mofutsanyana District Municipality, Free State, South Africa
+p3706
+aVSenekal, N5;R70;R707, Setsoto Ward 6, Setsoto Local Municipality, Thabo Mofutsanyana District Municipality, Free State, South Africa
+p3707
+aa(lp3708
+VBenoni, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p3709
+aVBenoni, Sabah, Malaysia
+p3710
+aVBenoni, Mahinog, Camiguin, Northern Mindanao, 9101, Philippines
+p3711
+aVBenoni, Duiven, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6922AG, Nederland
+p3712
+aVBenoni, Asten, MRE, Samenwerkingsverband Regio Eindhoven, Noord-Brabant, Nederland, 5721BJ, Nederland
+p3713
+aVBenoni, Wyke Road, Gillingham Civil Parish, North Dorset, Dorset, South West England, England, United Kingdom
+p3714
+aVBenoni, Avenue Général Mulamba, Lubunga, Kisangani, Tshopo, République démocratique du Congo
+p3715
+aVBenoni, HARPUR AVENUE, Ekurhuleni Ward 28, Benoni, Ekurhuleni Metropolitan Municipality, Gauteng, 1501, South Africa
+p3716
+aVBenoni, Brennanstown Road, Brennanstown, Cornelscourt, Dún Laoghaire-Rathdown, County Dublin, Leinster, Ireland
+p3717
+aa(lp3718
+VStellenbosch, Cape Winelands District Municipality, Western Cape, South Africa
+p3719
+aVStellenbosch, R310, Stellenbosch Ward 11, Stellenbosch Local Municipality, Cape Winelands District Municipality, Western Cape, 7599, South Africa
+p3720
+aa(lp3721
+VBoksburg, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p3722
+aVBocksberg, Knau, Seenplatte, Saale-Orla-Kreis, Thüringen, Deutschland
+p3723
+aVBoksburg, N3, Ekurhuleni Ward 44, Germiston, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p3724
+aVBoksburg, Church Street, Ekurhuleni Ward 32, Boksburg, Ekurhuleni Metropolitan Municipality, Gauteng, 1470, South Africa
+p3725
+aVBoksburg, President Brand Road, Ekurhuleni Ward 32, Boksburg, Ekurhuleni Metropolitan Municipality, Gauteng, 1470, South Africa
+p3726
+aVBoksberg, Neumühlen-Dietrichsdorf, Kiel, Schleswig-Holstein, 24149, Deutschland
+p3727
+aVBoksberg, Neumühlen-Dietrichsdorf, Kiel, Schleswig-Holstein, 24149, Deutschland
+p3728
+aVBoksberg, 35, Tiefe Allee, Neumühlen-Dietrichsdorf, Kiel, Schleswig-Holstein, 24149, Deutschland
+p3729
+aVBoksberg, Tiefe Allee, Neumühlen-Dietrichsdorf, Kiel, Schleswig-Holstein, 24149, Deutschland
+p3730
+aa(lp3731
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p3732
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p3733
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p3734
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p3735
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p3736
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p3737
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p3738
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p3739
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p3740
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p3741
+aa(lp3742
+VNatal, Microrregião de Natal, Mesorregião do Leste Potiguar, RN, Região Nordeste, Brasil
+p3743
+aVNatal, Pittsylvania, Virginia, United States of America
+p3744
+aVNatal, Microrregião de Itaituba, Mesorregião Sudoeste Paraense, PA, Região Norte, Brasil
+p3745
+aVNatal, Microrregião Bico do Papagaio, Mesorregião Ocidental do Tocantins, TO, Região Norte, Brasil
+p3746
+aVNatal, Microrregião de Juruá, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+p3747
+aVNatal, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+p3748
+aVSucuruji, Natal, Microrregião de Amapá, Mesorregião Norte do Amapá, AP, Região Norte, Brasil
+p3749
+aVNhecolândia, Natal, Microrregião do Baixo Pantanal, Mesorregião Pantanal Sul Matro-Grossense, MS, Região Centro-Oeste, Brasil
+p3750
+aVNatal, Microrregião de Boa Vista, Mesorregião Norte de Roraima, RR, Região Norte, Brasil
+p3751
+aVNatal, Microrregião de Cruzeiro do Sul, Mesorregião Vale do Juruá, AC, Região Norte, Brasil
+p3752
+aa(lp3753
+VSud-Ouest, Burkina Faso
+p3754
+aa(lp3755
+VVereeniging, Sedibeng District Municipality, Gauteng, South Africa
+p3756
+aVVereeniging, Union Street, Emfuleni Ward 15, Emfuleni Local Municipality, Sedibeng District Municipality, Gauteng, South Africa
+p3757
+aVVereeniging, Johannesburg Ward 125, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p3758
+aVVereeniging, Weilback Road, Midvaal Ward 11, Midvaal Local Municipality, Sedibeng District Municipality, Gauteng, South Africa
+p3759
+aa(lp3760
+VWilliston, Williams County, North Dakota, United States of America
+p3761
+aVWilliston, Williams County, North Dakota, United States of America
+p3762
+aVWilliston, Marilla Town, Erie County, New York, United States of America
+p3763
+aVWilliston, Barnwell County, South Carolina, United States of America
+p3764
+aVWilliston, Levy County, Florida, United States of America
+p3765
+aVWilliston, Potter County, Pennsylvania, United States of America
+p3766
+aVWilliston, Carteret County, North Carolina, United States of America
+p3767
+aVWilliston, Chittenden County, Vermont, United States of America
+p3768
+aVWilliston, Leake, Mississippi, United States of America
+p3769
+aVWilliston, Caroline County, Maryland, United States of America
+p3770
+aa(lp3771
+VHarrismith, Thabo Mofutsanyana District Municipality, Free State, 9880, South Africa
+p3772
+aVHarrismith, Western Australia, Australia
+p3773
+aVHarrismith, Thabo Mofutsanyana District Municipality, Free State, 9880, South Africa
+p3774
+aVHarrismith, Emnambithi/Ladysmith Ward 11, Emnambithi/Ladysmith Local Municipality, Uthukela District Municipality, KwaZulu-Natal, South Africa
+p3775
+aVHarrismith, Skeete s Bay, Saint Philip, Barbados
+p3776
+aVHarrismith, McKechnie Street, Maluti-a-Phofung Ward 22, Harrismith, Thabo Mofutsanyana District Municipality, Free State, 9880, South Africa
+p3777
+aVHarrismith, Harrismith Road, Skeete s Bay, Saint Philip, Barbados
+p3778
+aa(lp3779
+VRhodesia, Bassetlaw, Nottinghamshire, East Midlands, England, United Kingdom
+p3780
+aVRhodesia, Cerro Verde Bajo, Penco, Provincia de Concepción, VIII Región del Biobío, Chile
+p3781
+aVRhodesia, Airport Village, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p3782
+aVRhodesia, Campo Colonial, Ciudad Valles, San Luis Potosí, 79020, Estados Unidos Mexicanos
+p3783
+aVRhodesia, Apodaca, Nuevo León, 66627, Estados Unidos Mexicanos
+p3784
+aa(lp3785
+VCaledon, Peel Region, Ontario, Canada
+p3786
+aVCaledon, County Tyrone, Northern Ireland, United Kingdom
+p3787
+aVCaledon, Overberg District Municipality, Western Cape, South Africa
+p3788
+aVCaledon, County Tyrone, Northern Ireland, United Kingdom
+p3789
+aVCaledon, County Carlow, Leinster, Ireland
+p3790
+aVCaledon, Ekurhuleni Ward 72, Springs, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p3791
+aVCaledon, Breede Valley Ward 15, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p3792
+aVCaledon, Vredenburg, Saldanha Bay Ward 2, Saldanha Bay Local Municipality, West Coast District Municipality, Western Cape, South Africa
+p3793
+aVCaledon, Milner Avenue, Johannesburg Ward 86, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p3794
+aVCaledon, R320, Theewaterskloof Ward 4, Theewaterskloof Local Municipality, Overberg District Municipality, Western Cape, South Africa
+p3795
+aa(lp3796
+VAdelaide, City of Adelaide, South Australia, 5000, Australia
+p3797
+aVAdelaide, Fayette County, Pennsylvania, United States of America
+p3798
+aVAdelaide, Fremont County, Colorado, United States of America
+p3799
+aVAdelaide, Minidoka County, Idaho, United States of America
+p3800
+aVAdelaide, King County, Washington, United States of America
+p3801
+aVAdelaide, London, Ontario, Canada
+p3802
+aVAdelaide, 5000, City of Adelaide, South Australia, 5000, Australia
+p3803
+aVAdelaide, Ortega, Tolima, Colombia
+p3804
+aVAdelaide, Mitchell, Georgia, United States of America
+p3805
+aVAdelaide, Amathole District Municipality, Eastern Cape, South Africa
+p3806
+aa(lp3807
+VSud-Ouest, Burkina Faso
+p3808
+aa(lp3809
+VSwellendam, Overberg District Municipality, Western Cape, South Africa
+p3810
+aVSwellendam, Swellendam Ward 1, Swellendam Local Municipality, Overberg District Municipality, Western Cape, 6470, South Africa
+p3811
+aVSwellendam, Ekurhuleni Ward 23, Benoni, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p3812
+aVSwellendam, Main Road, Swellendam Ward 3, Swellendam Local Municipality, Overberg District Municipality, Western Cape, 6740, South Africa
+p3813
+aVSwellendam, Station Street, Swellendam Ward 4, Swellendam Local Municipality, Overberg District Municipality, Western Cape, 6470, South Africa
+p3814
+aa(lp3815
+VWelkom, Lejweleputswa District Municipality, Free State, South Africa
+p3816
+aVWelkom, Cape Town Ward 102, Cape Town Subcouncil 7, Brackenfell, City of Cape Town, Western Cape, 7560, South Africa
+p3817
+aVWelkom, Arteveldestraat, Groningen, Nederland, 9745AL, Nederland
+p3818
+aVWelkom, Damplein, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p3819
+aVWelkom, Noordschippersdok, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p3820
+aVWelkom, 247, Platte-Lostraat, Lolanden, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, België - Belgique - Belgien
+p3821
+aVWelkom, 20, Ring, Noorderwijk, Herentals, Turnhout, Antwerpen, Vlaanderen, 2200, België - Belgique - Belgien
+p3822
+aVWelkom, 5, Appelboom, Adegem, Maldegem, Eeklo, Oost-Vlaanderen, Vlaanderen, 9990;9991;9992, België - Belgique - Belgien
+p3823
+aVWelkom, Dorpsstraat, Niel, Antwerpen, Vlaanderen, 2845, België - Belgique - Belgien
+p3824
+aVWelkom, 2, Beerzelplein, Beerzel, Putte, Mechelen, Antwerpen, Vlaanderen, 2580, België - Belgique - Belgien
+p3825
+aa(lp3826
+VDespatch, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p3827
+aVDespatch, Hollard Street, Nelson Mandela Bay Ward 53, Despatch, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6220, South Africa
+p3828
+aa(lp3829
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p3830
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p3831
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p3832
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p3833
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p3834
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p3835
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p3836
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p3837
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p3838
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p3839
+aa(lp3840
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p3841
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p3842
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3843
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3844
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p3845
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3846
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p3847
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p3848
+aa(lp3849
+VNelspruit, Ehlanzeni, Mpumalanga, South Africa
+p3850
+aVNelspruit, Northern Bypass, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p3851
+aVNelspruit, Voortrekker Street, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p3852
+aVNelspruit, Langenhoven Crescent, West Acres, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p3853
+aV320, N4, Mbombela Ward 12, Mbombela, Ehlanzeni, Mpumalanga, South Africa
+p3854
+aa(lp3855
+VKroonstad, Fezile Dabi District Municipality, Free State, South Africa
+p3856
+aVKroonstad, Kwelderland, Delfzijl, Groningen, Nederland, 9934RH, Nederland
+p3857
+aVKroonstad, Station Street, Moqhaka Ward 16, Moqhaka Local Municipality, Fezile Dabi District Municipality, Free State, South Africa
+p3858
+aa(lp3859
+VKokstad, Sisonke District Municipality, KwaZulu-Natal, South Africa
+p3860
+aVKokstad, Gjerdrum, Akershus, Norge
+p3861
+aVKokstad, Lephalale Local Municipality, Waterberg District Municipality, Limpopo, South Africa
+p3862
+aVKokstad, Gjerdrum, Akershus, 2022, Norge
+p3863
+aVKokstad, Vestby, Gjerdrum, Akershus, 2022, Norge
+p3864
+aVKokstad, Ytrebygdsvegen, Sandsli, Ytrebyda, Søreide, Bergen, Hordaland, 5257, Norge
+p3865
+aVH M S Bastard Memorial Airport, N2;R56, Greater Kokstad Ward 6, Greater Kokstad Local Municipality, Sisonke District Municipality, KwaZulu-Natal, South Africa
+p3866
+aa(lp3867
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p3868
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p3869
+aVDurban, Manitoba, Canada
+p3870
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p3871
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p3872
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p3873
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3874
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p3875
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p3876
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p3877
+aa(lp3878
+VRhodesia, Bassetlaw, Nottinghamshire, East Midlands, England, United Kingdom
+p3879
+aVRhodesia, Cerro Verde Bajo, Penco, Provincia de Concepción, VIII Región del Biobío, Chile
+p3880
+aVRhodesia, Airport Village, Don Bosco, Parañaque, Metro Manila, 1006, Philippines
+p3881
+aVRhodesia, Campo Colonial, Ciudad Valles, San Luis Potosí, 79020, Estados Unidos Mexicanos
+p3882
+aVRhodesia, Apodaca, Nuevo León, 66627, Estados Unidos Mexicanos
+p3883
+aa(lp3884
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p3885
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p3886
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p3887
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p3888
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p3889
+aa(lp3890
+VLichtenberg, Berlin, Deutschland
+p3891
+aVLichtenberg, Saverne, Bas-Rhin, Alsace-Champagne-Ardenne-Lorraine, France métropolitaine, 67340, France
+p3892
+aVLichtenberg, Berlin, Deutschland
+p3893
+aVLichtenburg, Ering (VGem), Landkreis Rottal-Inn, NB, Bayern, Deutschland
+p3894
+aVLichtenburg, Landkreis Landshut, NB, Bayern, Deutschland
+p3895
+aVLichtenberg, Pulsnitz, Landkreis Bautzen, Sachsen, Deutschland
+p3896
+aVLichtenberg, Landkreis Hof, Oberfranken, Bayern, Deutschland
+p3897
+aVLichtenberg, Seitenroda, Südliches Saaletal, Saale-Holzland-Kreis, Thüringen, Deutschland
+p3898
+aVLichtenberg, Radeburg, Landkreis Meißen, Sachsen, Deutschland
+p3899
+aVLichtenberg, Leopoldsreuter Wald, Landkreis Freyung-Grafenau, NB, Bayern, Deutschland
+p3900
+aa(lp3901
+VCape Town, City of Cape Town, Western Cape, South Africa
+p3902
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p3903
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3904
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p3905
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p3906
+aa(lp3907
+VMossel Bay, Eden District Municipality, Western Cape, South Africa
+p3908
+aVMossel Bay, N2, Mossel Bay Ward 7, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6506, South Africa
+p3909
+aVMossel Bay, George Road, Hamardt Place, Mossel Bay Ward 8, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6500, South Africa
+p3910
+aVMossel Bay, Nettie Thatcher Street, Fignbosch Park, Mossel Bay Ward 6, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6506, South Africa
+p3911
+aa(lp3912
+VMalmesbury, Wiltshire, South West England, England, SN16 9, United Kingdom
+p3913
+aVMalmesbury, West Coast District Municipality, Western Cape, South Africa
+p3914
+aVMalmesbury, Cyprus Street, Cyprus Street Estate, Bethnal Green, London Borough of Tower Hamlets, London, Greater London, England, E2 0JD, United Kingdom
+p3915
+aVMalmesbury, Bokomoweg, Swartland Ward 8, Malmesbury, West Coast District Municipality, Western Cape, South Africa
+p3916
+aa(lp3917
+VQueenstown, Queenstown-Lakes District, Otago, New Zealand/Aotearoa
+p3918
+aVQueenstown, Commonwealth Avenue, Queenstown, Singapore, Central Singapore Community Development Council, 149297, Singapura
+p3919
+aVQueenstown, Chris Hani District Municipality, Eastern Cape, South Africa
+p3920
+aVQueenstown, Tasmania, Australia
+p3921
+aVQueenstown, Queen Anne's County, Maryland, United States of America
+p3922
+aVQueenstown, Adelaide, South Australia, 5000, Australia
+p3923
+aVQueenstown, Armstrong County, Pennsylvania, United States of America
+p3924
+aVQueenstown, Jefferson County, Alabama, United States of America
+p3925
+aVQueenstown, Pomeroon-Supenaam Region, Guyana
+p3926
+aVCorriverton, Queenstown, Mahaica-Berbice Region, Guyana
+p3927
+aa(lp3928
+VOntario, Canada
+p3929
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+p3930
+aVOshana Region, Namibia
+p3931
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p3932
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+p3933
+aVQeqertaq, Kalaallit Nunaat
+p3934
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+p3935
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+p3936
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+p3937
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+p3938
+aa(lp3939
+VSomerset West, City of Cape Town, Western Cape, South Africa
+p3940
+aVSomerset West, Rock Creek, Washington County, Oregon, United States of America
+p3941
+aVSomerset West, N2, Cape Town Ward 15, Cape Town Subcouncil 22, Somerset West, City of Cape Town, Western Cape, 7130, South Africa
+p3942
+aVSomerset West, Burg Street, Cape Town Ward 84, Cape Town Subcouncil 8, Somerset West, City of Cape Town, Western Cape, 7130, South Africa
+p3943
+aa(lp3944
+VCape Town, City of Cape Town, Western Cape, South Africa
+p3945
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p3946
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3947
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p3948
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p3949
+aaNa(lp3950
+VStellenbosch, Cape Winelands District Municipality, Western Cape, South Africa
+p3951
+aVStellenbosch, R310, Stellenbosch Ward 11, Stellenbosch Local Municipality, Cape Winelands District Municipality, Western Cape, 7599, South Africa
+p3952
+aa(lp3953
+VBothaville, Lejweleputswa District Municipality, Free State, South Africa
+p3954
+aVBothaville, R30;R59, Nala Ward 9, Nala Local Municipality, Lejweleputswa District Municipality, Free State, 9660, South Africa
+p3955
+aVBothaville, Sapsford Street, Nala Ward 12, Nala Local Municipality, Lejweleputswa District Municipality, Free State, 9660, South Africa
+p3956
+aa(lp3957
+VHoopstad, Lejweleputswa District Municipality, Free State, South Africa
+p3958
+aa(lp3959
+VStellenbosch, Cape Winelands District Municipality, Western Cape, South Africa
+p3960
+aVStellenbosch, R310, Stellenbosch Ward 11, Stellenbosch Local Municipality, Cape Winelands District Municipality, Western Cape, 7599, South Africa
+p3961
+aa(lp3962
+VEast London, Buffalo City Metropolitan Municipality, Eastern Cape, South Africa
+p3963
+aVEast London, Station Street, Buffalo City Ward 47, East London, Buffalo City Metropolitan Municipality, Eastern Cape, 5201, South Africa
+p3964
+aa(lp3965
+VLusaka, Lusaka Province, Zambia
+p3966
+aVLusaka, Sumbawanga Urban, Rukwa, Southern Highlands, Tanzania
+p3967
+aVLusaka, Rakai, Uganda
+p3968
+aVLusaka, Masilonyana Local Municipality, Lejweleputswa District Municipality, Free State, South Africa
+p3969
+aVLusaka, Keko Mwanga A, Keko, Dar es Salaam, Coastal, 3918, Tanzania
+p3970
+aVLusaka, Cerro Navia, Provincia de Santiago, Región Metropolitana de Santiago, 9020078, Chile
+p3971
+aVLusaka, Drakenstein Ward 8, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7654, South Africa
+p3972
+aVLusaka, Cairo Road, Kamwala, Lusaka, Lusaka Province, 34681, Zambia
+p3973
+aV\u0634\u0627\u0631\u0639 \u0644\u0648\u0633\u0627\u0643\u0627, \u0645\u062f\u064a\u0646\u0629 \u0646\u0635\u0631, \u0627\u0644\u0642\u0627\u0647\u0631\u0629, 7608, \u0645\u0635\u0631
+p3974
+aa(lp3975
+VUitenhage, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p3976
+aVUitenhage, Bubbs Avenue, Nelson Mandela Bay Ward 48, Uitenhage, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p3977
+aa(lp3978
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p3979
+aVPretoria, Bulloch County, Georgia, United States of America
+p3980
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p3981
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p3982
+aVPretoria, 230, New South Wales, 2824, Australia
+p3983
+aVPretoria, Dougherty, Georgia, United States of America
+p3984
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p3985
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p3986
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p3987
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p3988
+aa(lp3989
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p3990
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p3991
+aVDurban, Manitoba, Canada
+p3992
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p3993
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p3994
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p3995
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p3996
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p3997
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p3998
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p3999
+aa(lp4000
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p4001
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p4002
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4003
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4004
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4005
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4006
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4007
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4008
+aa(lp4009
+VLady Frere, Emalahleni Local Municipality, Chris Hani District Municipality, Eastern Cape, South Africa
+p4010
+aa(lp4011
+VCeres, TO, PIE, Italia
+p4012
+aVCeres, Stanislaus County, California, United States of America
+p4013
+aVCeres, Cape Winelands District Municipality, Western Cape, South Africa
+p4014
+aVCeres, Mercer County, West Virginia, United States of America
+p4015
+aVCeres, Allegany County, New York, United States of America
+p4016
+aVCeres, Clayton County, Iowa, United States of America
+p4017
+aVCeres, Noble, Oklahoma, United States of America
+p4018
+aVCeres, New South Wales, Australia
+p4019
+aVCeres, City of Greater Geelong, Barwon South West, Victoria, Australia
+p4020
+aVCeres, Lewis County, Washington, United States of America
+p4021
+aa(lp4022
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p4023
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p4024
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p4025
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p4026
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p4027
+aa(lp4028
+VPolokwane, Capricorn District Municipality, Limpopo, South Africa
+p4029
+aVPietersberg, Breda, Noord-Brabant, Nederland, 4822TB, Nederland
+p4030
+aVPietersberg, Breda, Noord-Brabant, Nederland, 4822TS, Nederland
+p4031
+aVPietersberg, Capelle aan den IJssel, MRDH, Zuid-Holland, Nederland, 2905PB, Nederland
+p4032
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZJ, Nederland
+p4033
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZJ, Nederland
+p4034
+aVPietersberg, Capelle aan den IJssel, MRDH, Zuid-Holland, Nederland, 2905PE, Nederland
+p4035
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZD, Nederland
+p4036
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZH, Nederland
+p4037
+aVPietersberg, Maasboulevard, Maastricht, Limburg, Nederland, 6212NA, Nederland
+p4038
+aa(lp4039
+VCape Town, City of Cape Town, Western Cape, South Africa
+p4040
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p4041
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4042
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p4043
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p4044
+aa(lp4045
+VAlexander Bay, Namakwa District Municipality, Northern Cape, South Africa
+p4046
+aVAlexander Bay, Eagle Ridge, Port Moody, Greater Vancouver Regional District, British Columbia, V3H 2V7, Canada
+p4047
+aVAlexander Bay, 12 Mile Bay Road, Ontario, Canada
+p4048
+aVAlexander Bay, Alexanders Track, Western Australia, Australia
+p4049
+aVAlexander Bay, Glovertown Road, Glovertown, Newfoundland and Labrador, Canada
+p4050
+aVAlexander Bay, Northwest Territories, Canada
+p4051
+aVAlexander Bay, R382, Richtersveld Ward 2, Richtersveld Local Municipality, Namakwa District Municipality, Northern Cape, South Africa
+p4052
+aa(lp4053
+VBloemhof, Rotterdam, MRDH, Zuid-Holland, Nederland
+p4054
+aVBloemhof, Cape Town Subcouncil 3, Bellville, City of Cape Town, Western Cape, South Africa
+p4055
+aVBloemhof, Dr Ruth Segomotsi Mompati District Municipality, North West, South Africa
+p4056
+aVBloemhof, Rotterdam, MRDH, Zuid-Holland, Nederland, 3073EG, Nederland
+p4057
+aVBloemhof, Maassluis, MRDH, Zuid-Holland, Nederland, 3141VT, Nederland
+p4058
+aVBloemhof, Bussum, Gooise Meren, MRA, Noord-Holland, Nederland, 1403LA, Nederland
+p4059
+aVBloemhof, Bussum, Gooise Meren, MRA, Noord-Holland, Nederland, 1403LC, Nederland
+p4060
+aVBloemhof, Bussum, Gooise Meren, MRA, Noord-Holland, Nederland, 1403NB, Nederland
+p4061
+aVBloemhof, Bussum, Gooise Meren, MRA, Noord-Holland, Nederland, 1403NN, Nederland
+p4062
+aVBloemhof, Ruisbroek, Puurs, Mechelen, Antwerpen, Vlaanderen, 2870, België - Belgique - Belgien
+p4063
+aa(lp4064
+VNelspruit, Ehlanzeni, Mpumalanga, South Africa
+p4065
+aVNelspruit, Northern Bypass, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p4066
+aVNelspruit, Voortrekker Street, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p4067
+aVNelspruit, Langenhoven Crescent, West Acres, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p4068
+aV320, N4, Mbombela Ward 12, Mbombela, Ehlanzeni, Mpumalanga, South Africa
+p4069
+aa(lp4070
+VZastron, Xhariep District Municipality, Free State, South Africa
+p4071
+aVZastron, Vechtkop Street, Mohokare Ward 5, Mohokare Local Municipality, Xhariep District Municipality, Free State, South Africa
+p4072
+aa(lp4073
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p4074
+aVPretoria, Bulloch County, Georgia, United States of America
+p4075
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p4076
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p4077
+aVPretoria, 230, New South Wales, 2824, Australia
+p4078
+aVPretoria, Dougherty, Georgia, United States of America
+p4079
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p4080
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p4081
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p4082
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p4083
+aa(lp4084
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p4085
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p4086
+aVDurban, Manitoba, Canada
+p4087
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p4088
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p4089
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p4090
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4091
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p4092
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4093
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4094
+aa(lp4095
+VSprings, Suffolk County, New York, United States of America
+p4096
+aVSprings, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p4097
+aVThe Springs, QLD, Australia
+p4098
+aVSprings, Somerset County, Pennsylvania, United States of America
+p4099
+aVThe Springs, Barnstable County, Massachusetts, United States of America
+p4100
+aVThe Springs, Clayton, Georgia, United States of America
+p4101
+aVThe Springs, New South Wales, Australia
+p4102
+aVSprings, Tameside, Greater Manchester, North West England, England, United Kingdom
+p4103
+aVSprings, St. George's, Grenada
+p4104
+aVThe Springs, Broken Hill, New South Wales, Australia
+p4105
+aa(lp4106
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p4107
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p4108
+aVJohannesburg, Kern, California, United States of America
+p4109
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p4110
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p4111
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p4112
+aVJohannesberg, Wien, Österreich
+p4113
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4114
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p4115
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4116
+aa(lp4117
+VCape Town, City of Cape Town, Western Cape, South Africa
+p4118
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p4119
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4120
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p4121
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p4122
+aa(lp4123
+VBoksburg, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p4124
+aVBocksberg, Knau, Seenplatte, Saale-Orla-Kreis, Thüringen, Deutschland
+p4125
+aVBoksburg, N3, Ekurhuleni Ward 44, Germiston, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p4126
+aVBoksburg, Church Street, Ekurhuleni Ward 32, Boksburg, Ekurhuleni Metropolitan Municipality, Gauteng, 1470, South Africa
+p4127
+aVBoksburg, President Brand Road, Ekurhuleni Ward 32, Boksburg, Ekurhuleni Metropolitan Municipality, Gauteng, 1470, South Africa
+p4128
+aVBoksberg, Neumühlen-Dietrichsdorf, Kiel, Schleswig-Holstein, 24149, Deutschland
+p4129
+aVBoksberg, Neumühlen-Dietrichsdorf, Kiel, Schleswig-Holstein, 24149, Deutschland
+p4130
+aVBoksberg, 35, Tiefe Allee, Neumühlen-Dietrichsdorf, Kiel, Schleswig-Holstein, 24149, Deutschland
+p4131
+aVBoksberg, Tiefe Allee, Neumühlen-Dietrichsdorf, Kiel, Schleswig-Holstein, 24149, Deutschland
+p4132
+aa(lp4133
+VPolokwane, Capricorn District Municipality, Limpopo, South Africa
+p4134
+aVPietersberg, Breda, Noord-Brabant, Nederland, 4822TB, Nederland
+p4135
+aVPietersberg, Breda, Noord-Brabant, Nederland, 4822TS, Nederland
+p4136
+aVPietersberg, Capelle aan den IJssel, MRDH, Zuid-Holland, Nederland, 2905PB, Nederland
+p4137
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZJ, Nederland
+p4138
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZJ, Nederland
+p4139
+aVPietersberg, Capelle aan den IJssel, MRDH, Zuid-Holland, Nederland, 2905PE, Nederland
+p4140
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZD, Nederland
+p4141
+aVPietersberg, Alphen aan den Rijn, Zuid-Holland, Nederland, 2402ZH, Nederland
+p4142
+aVPietersberg, Maasboulevard, Maastricht, Limburg, Nederland, 6212NA, Nederland
+p4143
+aa(lp4144
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4145
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4146
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p4147
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p4148
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p4149
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p4150
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p4151
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p4152
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p4153
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p4154
+aa(lp4155
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p4156
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p4157
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4158
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4159
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4160
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4161
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4162
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4163
+aa(lp4164
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p4165
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p4166
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p4167
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p4168
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p4169
+aa(lp4170
+VMargate, Kent, South East, England, United Kingdom
+p4171
+aVMargate, Broward County, Florida, United States of America
+p4172
+aVMargate, Tasmania, Australia
+p4173
+aVMargate, Redcliffe, QLD, Australia
+p4174
+aVMargate, Anne Arundel County, Maryland, United States of America
+p4175
+aVMargate, Les Iffs, Rennes, Ille-et-Vilaine, Bretagne, France métropolitaine, 35630, France
+p4176
+aVMargate, Broward County, Florida, United States of America
+p4177
+aVMargate, Prince County, Prince Edward Island, Canada
+p4178
+aVMargata, Dikwa, Borno, Nigeria
+p4179
+aVMargate, Ugu District Municipality, KwaZulu-Natal, South Africa
+p4180
+aa(lp4181
+VEmpangeni, uThungulu District Municipality, KwaZulu-Natal, South Africa
+p4182
+aVEmpangeni, F buurt, Amsterdam, Zuidoost, Amsterdam Zuidoost, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1103AS, Nederland
+p4183
+aVEmpangeni, Border Road, uMhlathuze Ward 9, uMhlathuze Local Municipality, uThungulu District Municipality, KwaZulu-Natal, South Africa
+p4184
+aa(lp4185
+VKraaifontein, City of Cape Town, Western Cape, South Africa
+p4186
+aVKraaifontein, N1, Cape Town Ward 111, Cape Town Subcouncil 2, Kraaifontein, City of Cape Town, Western Cape, 7560, South Africa
+p4187
+aVKraaifontein, N1, Cape Town Ward 102, Cape Town Subcouncil 7, Kraaifontein, City of Cape Town, Western Cape, 7560, South Africa
+p4188
+aVKraaifontein, 12th Avenue, Cape Town Ward 111, Cape Town Subcouncil 2, Kraaifontein, City of Cape Town, Western Cape, 7570, South Africa
+p4189
+aVKraaifontein, R521, Molemole Ward 10, Molemole Local Municipality, Capricorn District Municipality, Limpopo, South Africa
+p4190
+aa(lp4191
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p4192
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p4193
+aVJohannesburg, Kern, California, United States of America
+p4194
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p4195
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p4196
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p4197
+aVJohannesberg, Wien, Österreich
+p4198
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4199
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p4200
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4201
+aa(lp4202
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p4203
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p4204
+aVDurban, Manitoba, Canada
+p4205
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p4206
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p4207
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p4208
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4209
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p4210
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4211
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4212
+aa(lp4213
+VCape Town, City of Cape Town, Western Cape, South Africa
+p4214
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p4215
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4216
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p4217
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p4218
+aa(lp4219
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4220
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4221
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p4222
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p4223
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p4224
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p4225
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p4226
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p4227
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p4228
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p4229
+aa(lp4230
+VColesberg, Pixley ka Seme District Municipality, Northern Cape, South Africa
+p4231
+aVColesburg, Potter County, Pennsylvania, United States of America
+p4232
+aVColesburg, Dickson, Tennessee, United States of America
+p4233
+aVColesburg, Camden, Georgia, United States of America
+p4234
+aVColesburg, Hardin County, Kentucky, United States of America
+p4235
+aVColesburg, Delaware County, Iowa, United States of America
+p4236
+aVColesberg, R58, Umsobomvu Ward 3, Umsobomvu Local Municipality, Pixley ka Seme District Municipality, Northern Cape, South Africa
+p4237
+aVColesburg, Aglantzia, \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1 - Lefko\u015fa, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s, 2202, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s
+p4238
+aa(lp4239
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p4240
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p4241
+aVJohannesburg, Kern, California, United States of America
+p4242
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p4243
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p4244
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p4245
+aVJohannesberg, Wien, Österreich
+p4246
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4247
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p4248
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4249
+aa(lp4250
+VBethlehem, Northampton County, Pennsylvania, United States of America
+p4251
+aV\u0628\u064a\u062a \u0644\u062d\u0645, Area A, \u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629\u200e, Palestinian Territory
+p4252
+aVBelém, Microrregião de Belém, Mesorregião de Metropolitana de Belém, PA, Região Norte, Brasil
+p4253
+aVBethlehem, Grafton County, New Hampshire, United States of America
+p4254
+aVBethlehem, Northampton County, Pennsylvania, United States of America
+p4255
+aVBethlehem, Litchfield County, Connecticut, United States of America
+p4256
+aVBethlehem, Ohio County, West Virginia, United States of America
+p4257
+aVBethlehem, Clark County, Indiana, United States of America
+p4258
+aVBethlehem, Thabo Mofutsanyana District Municipality, Free State, South Africa
+p4259
+aVBethlehem, Clearfield County, Pennsylvania, United States of America
+p4260
+aa(lp4261
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p4262
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p4263
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p4264
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p4265
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p4266
+aa(lp4267
+VBellville, Texas, United States of America
+p4268
+aVBellville, Texas, United States of America
+p4269
+aVBellville, Texas, United States of America
+p4270
+aVBellville, City of Cape Town, Western Cape, South Africa
+p4271
+aVBellville, Richland County, Ohio, United States of America
+p4272
+aVBellville, Hamilton County, Florida, United States of America
+p4273
+aVBellville, Allegany County, New York, United States of America
+p4274
+aVBellville, Marion County, Missouri, United States of America
+p4275
+aVBellville, Clay, Georgia, United States of America
+p4276
+aVBellville, Webster County, Kentucky, United States of America
+p4277
+aa(lp4278
+VKing William's Town, Buffalo City Metropolitan Municipality, Eastern Cape, South Africa
+p4279
+aVKing Williams, Dugbe River, Sinoe County, Liberia
+p4280
+aVKing William's Town, Grey Street, Buffalo City Ward 37, King William's Town, Buffalo City Metropolitan Municipality, Eastern Cape, 5600, South Africa
+p4281
+aa(lp4282
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p4283
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p4284
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4285
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4286
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4287
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4288
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4289
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4290
+aa(lp4291
+VBellville, Texas, United States of America
+p4292
+aVBellville, Texas, United States of America
+p4293
+aVBellville, Texas, United States of America
+p4294
+aVBellville, City of Cape Town, Western Cape, South Africa
+p4295
+aVBellville, Richland County, Ohio, United States of America
+p4296
+aVBellville, Hamilton County, Florida, United States of America
+p4297
+aVBellville, Allegany County, New York, United States of America
+p4298
+aVBellville, Marion County, Missouri, United States of America
+p4299
+aVBellville, Clay, Georgia, United States of America
+p4300
+aVBellville, Webster County, Kentucky, United States of America
+p4301
+aa(lp4302
+VHarrismith, Thabo Mofutsanyana District Municipality, Free State, 9880, South Africa
+p4303
+aVHarrismith, Western Australia, Australia
+p4304
+aVHarrismith, Thabo Mofutsanyana District Municipality, Free State, 9880, South Africa
+p4305
+aVHarrismith, Emnambithi/Ladysmith Ward 11, Emnambithi/Ladysmith Local Municipality, Uthukela District Municipality, KwaZulu-Natal, South Africa
+p4306
+aVHarrismith, Skeete s Bay, Saint Philip, Barbados
+p4307
+aVHarrismith, McKechnie Street, Maluti-a-Phofung Ward 22, Harrismith, Thabo Mofutsanyana District Municipality, Free State, 9880, South Africa
+p4308
+aVHarrismith, Harrismith Road, Skeete s Bay, Saint Philip, Barbados
+p4309
+aa(lp4310
+VQueenstown, Queenstown-Lakes District, Otago, New Zealand/Aotearoa
+p4311
+aVQueenstown, Commonwealth Avenue, Queenstown, Singapore, Central Singapore Community Development Council, 149297, Singapura
+p4312
+aVQueenstown, Chris Hani District Municipality, Eastern Cape, South Africa
+p4313
+aVQueenstown, Tasmania, Australia
+p4314
+aVQueenstown, Queen Anne's County, Maryland, United States of America
+p4315
+aVQueenstown, Adelaide, South Australia, 5000, Australia
+p4316
+aVQueenstown, Armstrong County, Pennsylvania, United States of America
+p4317
+aVQueenstown, Jefferson County, Alabama, United States of America
+p4318
+aVQueenstown, Pomeroon-Supenaam Region, Guyana
+p4319
+aVCorriverton, Queenstown, Mahaica-Berbice Region, Guyana
+p4320
+aa(lp4321
+VVereeniging, Sedibeng District Municipality, Gauteng, South Africa
+p4322
+aVVereeniging, Union Street, Emfuleni Ward 15, Emfuleni Local Municipality, Sedibeng District Municipality, Gauteng, South Africa
+p4323
+aVVereeniging, Johannesburg Ward 125, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p4324
+aVVereeniging, Weilback Road, Midvaal Ward 11, Midvaal Local Municipality, Sedibeng District Municipality, Gauteng, South Africa
+p4325
+aa(lp4326
+VBethlehem, Northampton County, Pennsylvania, United States of America
+p4327
+aV\u0628\u064a\u062a \u0644\u062d\u0645, Area A, \u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629\u200e, Palestinian Territory
+p4328
+aVBelém, Microrregião de Belém, Mesorregião de Metropolitana de Belém, PA, Região Norte, Brasil
+p4329
+aVBethlehem, Grafton County, New Hampshire, United States of America
+p4330
+aVBethlehem, Northampton County, Pennsylvania, United States of America
+p4331
+aVBethlehem, Litchfield County, Connecticut, United States of America
+p4332
+aVBethlehem, Ohio County, West Virginia, United States of America
+p4333
+aVBethlehem, Clark County, Indiana, United States of America
+p4334
+aVBethlehem, Thabo Mofutsanyana District Municipality, Free State, South Africa
+p4335
+aVBethlehem, Clearfield County, Pennsylvania, United States of America
+p4336
+aa(lp4337
+VNatal, Microrregião de Natal, Mesorregião do Leste Potiguar, RN, Região Nordeste, Brasil
+p4338
+aVNatal, Pittsylvania, Virginia, United States of America
+p4339
+aVNatal, Microrregião de Itaituba, Mesorregião Sudoeste Paraense, PA, Região Norte, Brasil
+p4340
+aVNatal, Microrregião Bico do Papagaio, Mesorregião Ocidental do Tocantins, TO, Região Norte, Brasil
+p4341
+aVNatal, Microrregião de Juruá, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+p4342
+aVNatal, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+p4343
+aVSucuruji, Natal, Microrregião de Amapá, Mesorregião Norte do Amapá, AP, Região Norte, Brasil
+p4344
+aVNhecolândia, Natal, Microrregião do Baixo Pantanal, Mesorregião Pantanal Sul Matro-Grossense, MS, Região Centro-Oeste, Brasil
+p4345
+aVNatal, Microrregião de Boa Vista, Mesorregião Norte de Roraima, RR, Região Norte, Brasil
+p4346
+aVNatal, Microrregião de Cruzeiro do Sul, Mesorregião Vale do Juruá, AC, Região Norte, Brasil
+p4347
+aa(lp4348
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p4349
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p4350
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4351
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4352
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4353
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4354
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4355
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4356
+aa(lp4357
+VBothaville, Lejweleputswa District Municipality, Free State, South Africa
+p4358
+aVBothaville, R30;R59, Nala Ward 9, Nala Local Municipality, Lejweleputswa District Municipality, Free State, 9660, South Africa
+p4359
+aVBothaville, Sapsford Street, Nala Ward 12, Nala Local Municipality, Lejweleputswa District Municipality, Free State, 9660, South Africa
+p4360
+aa(lp4361
+VNelspruit, Ehlanzeni, Mpumalanga, South Africa
+p4362
+aVNelspruit, Northern Bypass, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p4363
+aVNelspruit, Voortrekker Street, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p4364
+aVNelspruit, Langenhoven Crescent, West Acres, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p4365
+aV320, N4, Mbombela Ward 12, Mbombela, Ehlanzeni, Mpumalanga, South Africa
+p4366
+aa(lp4367
+VGeorge, Mississippi, United States of America
+p4368
+aVGeorge, Eden District Municipality, Western Cape, South Africa
+p4369
+aVGeorge, Grant County, Washington, United States of America
+p4370
+aVGeorge, George Local Municipality, Eden District Municipality, Western Cape, South Africa
+p4371
+aVGeorge Inn, 77, Borough High Street, Borough, London Borough of Southwark, London, Greater London, England, SE1 1NH, United Kingdom
+p4372
+aVGeorge, Madison County, Texas, United States of America
+p4373
+aVGeorge, Clackamas County, Oregon, United States of America
+p4374
+aVGeorge, Northampton County, North Carolina, United States of America
+p4375
+aVGeorge, Newton County, Arkansas, United States of America
+p4376
+aVGeorge, Yazoo, Mississippi, United States of America
+p4377
+aa(lp4378
+VGoodwood, Cape Town Subcouncil 4, Cape Town, City of Cape Town, Western Cape, South Africa
+p4379
+aVGoodwood, Hobart, Tasmania, Australia
+p4380
+aVGoodwood, Durham Region, Ontario, Canada
+p4381
+aVGoodwood, St. Landry, Louisiana, United States of America
+p4382
+aVGoodwood, East Baton Rouge, Louisiana, United States of America
+p4383
+aVGoodwood, Trinidad and Tobago
+p4384
+aVGoodwood, Goodwood Motor Circuit;Lavant Straight, Westhampnett, Chichester, West Sussex, South East, England, PO18 0PH, United Kingdom
+p4385
+aVGoodwood, Adelaide, South Australia, 5000, Australia
+p4386
+aVGoodwood, Bundaberg Region, QLD, Australia
+p4387
+aVGoodwood, 400, Boulia, QLD, 4829, Australia
+p4388
+aa(lp4389
+VFrankfort, Franklin County, Kentucky, United States of America
+p4390
+aVFrankfort, Will County, Illinois, United States of America
+p4391
+aVFrankfort, Clinton County, Indiana, United States of America
+p4392
+aVFrankfort, Benzie County, Michigan, United States of America
+p4393
+aVFrankfort, Town of Frankfort, Herkimer County, New York, United States of America
+p4394
+aVFrankfort, Franklin County, Illinois, United States of America
+p4395
+aVFrankfort, Lucas County, Ohio, United States of America
+p4396
+aVFrankfort, Morgan, Tennessee, United States of America
+p4397
+aVFrankfort, Franklin County, Alabama, United States of America
+p4398
+aVFrankfort, Osage, Oklahoma, United States of America
+p4399
+aa(lp4400
+VMossel Bay, Eden District Municipality, Western Cape, South Africa
+p4401
+aVMossel Bay, N2, Mossel Bay Ward 7, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6506, South Africa
+p4402
+aVMossel Bay, George Road, Hamardt Place, Mossel Bay Ward 8, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6500, South Africa
+p4403
+aVMossel Bay, Nettie Thatcher Street, Fignbosch Park, Mossel Bay Ward 6, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6506, South Africa
+p4404
+aa(lp4405
+VWelkom, Lejweleputswa District Municipality, Free State, South Africa
+p4406
+aVWelkom, Cape Town Ward 102, Cape Town Subcouncil 7, Brackenfell, City of Cape Town, Western Cape, 7560, South Africa
+p4407
+aVWelkom, Arteveldestraat, Groningen, Nederland, 9745AL, Nederland
+p4408
+aVWelkom, Damplein, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p4409
+aVWelkom, Noordschippersdok, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p4410
+aVWelkom, 247, Platte-Lostraat, Lolanden, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, België - Belgique - Belgien
+p4411
+aVWelkom, 20, Ring, Noorderwijk, Herentals, Turnhout, Antwerpen, Vlaanderen, 2200, België - Belgique - Belgien
+p4412
+aVWelkom, 5, Appelboom, Adegem, Maldegem, Eeklo, Oost-Vlaanderen, Vlaanderen, 9990;9991;9992, België - Belgique - Belgien
+p4413
+aVWelkom, Dorpsstraat, Niel, Antwerpen, Vlaanderen, 2845, België - Belgique - Belgien
+p4414
+aVWelkom, 2, Beerzelplein, Beerzel, Putte, Mechelen, Antwerpen, Vlaanderen, 2580, België - Belgique - Belgien
+p4415
+aa(lp4416
+VCape Town, City of Cape Town, Western Cape, South Africa
+p4417
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p4418
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4419
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p4420
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p4421
+aa(lp4422
+VMafeking, Manitoba, Canada
+p4423
+aVMafeking, Ontario, Canada
+p4424
+aVMafeking, Bradda West Road, Port Erin, Rushen, IM9 6PS, Isle of Man
+p4425
+aVThe Mafeking, 2, Belvoir Street, Rose Hill, Normanton, Derby, East Midlands, England, DE23, United Kingdom
+p4426
+aa(lp4427
+VGeorge, Mississippi, United States of America
+p4428
+aVGeorge, Eden District Municipality, Western Cape, South Africa
+p4429
+aVGeorge, Grant County, Washington, United States of America
+p4430
+aVGeorge, George Local Municipality, Eden District Municipality, Western Cape, South Africa
+p4431
+aVGeorge Inn, 77, Borough High Street, Borough, London Borough of Southwark, London, Greater London, England, SE1 1NH, United Kingdom
+p4432
+aVGeorge, Madison County, Texas, United States of America
+p4433
+aVGeorge, Clackamas County, Oregon, United States of America
+p4434
+aVGeorge, Northampton County, North Carolina, United States of America
+p4435
+aVGeorge, Newton County, Arkansas, United States of America
+p4436
+aVGeorge, Yazoo, Mississippi, United States of America
+p4437
+aa(lp4438
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p4439
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p4440
+aVJohannesburg, Kern, California, United States of America
+p4441
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p4442
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p4443
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p4444
+aVJohannesberg, Wien, Österreich
+p4445
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4446
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p4447
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4448
+aa(lp4449
+VCaledon, Peel Region, Ontario, Canada
+p4450
+aVCaledon, County Tyrone, Northern Ireland, United Kingdom
+p4451
+aVCaledon, Overberg District Municipality, Western Cape, South Africa
+p4452
+aVCaledon, County Tyrone, Northern Ireland, United Kingdom
+p4453
+aVCaledon, County Carlow, Leinster, Ireland
+p4454
+aVCaledon, Ekurhuleni Ward 72, Springs, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p4455
+aVCaledon, Breede Valley Ward 15, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4456
+aVCaledon, Vredenburg, Saldanha Bay Ward 2, Saldanha Bay Local Municipality, West Coast District Municipality, Western Cape, South Africa
+p4457
+aVCaledon, Milner Avenue, Johannesburg Ward 86, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p4458
+aVCaledon, R320, Theewaterskloof Ward 4, Theewaterskloof Local Municipality, Overberg District Municipality, Western Cape, South Africa
+p4459
+aa(lp4460
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4461
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4462
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p4463
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p4464
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p4465
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p4466
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p4467
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p4468
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p4469
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p4470
+aa(lp4471
+VKing William's Town, Buffalo City Metropolitan Municipality, Eastern Cape, South Africa
+p4472
+aVKing Williams, Dugbe River, Sinoe County, Liberia
+p4473
+aVKing William's Town, Grey Street, Buffalo City Ward 37, King William's Town, Buffalo City Metropolitan Municipality, Eastern Cape, 5600, South Africa
+p4474
+aa(lp4475
+VCape Town, City of Cape Town, Western Cape, South Africa
+p4476
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p4477
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4478
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p4479
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p4480
+aa(lp4481
+VFochville, Merafong City Local Municipality, West Rand District Municipality, Gauteng, South Africa
+p4482
+aVFochville, R54, Merafong City Ward 22, Merafong City Local Municipality, West Rand District Municipality, Gauteng, South Africa
+p4483
+aVFochville, R500, Tlokwe Ward 2, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, South Africa
+p4484
+aa(lp4485
+VKlerksdorp, Dr Kenneth Kaunda District Municipality, North West, South Africa
+p4486
+aVKlerksdorp, Magaretha Prinsloo Street, Matlosana Ward 19, Matlosana Local Municipality, Dr Kenneth Kaunda District Municipality, North West, South Africa
+p4487
+aa(lp4488
+VCanary Island, Hatfield, Hampshire County, Massachusetts, United States of America
+p4489
+aVCanary Island, Jefferson County, New York, United States of America
+p4490
+aVCanary Island, Orillia, Ontario, Canada
+p4491
+aVCanary Island, Shire of Loddon, Loddon Mallee, Victoria, Australia
+p4492
+aVCanary Island, Cherrywood Lane, Gravenhurst, Ontario, P1P1G7, Canada
+p4493
+aVCanary Island, Government Lake Road, Ontario, Canada
+p4494
+aa(lp4495
+VCarletonville, West Rand District Municipality, Gauteng, South Africa
+p4496
+aVCarletonville, Meigs County, Ohio, United States of America
+p4497
+aa(lp4498
+VSabie, Ehlanzeni, Mpumalanga, South Africa
+p4499
+aVSabie, Maputo, Moçambique
+p4500
+aVLa Sabie, Le Vaulmier, Mauriac, Cantal, Auvergne-Rhône-Alpes, France métropolitaine, 15380, France
+p4501
+aVSabi, Basse, Gambia
+p4502
+aVSabi, Epe, Lagos, Nigeria
+p4503
+aVSabi, Papua, Indonesia
+p4504
+aVSabi, Tambacounda, Senegal
+p4505
+aV\u0635\u0627\u0628\u062d, Ibb, \u0627\u0644\u064a\u0645\u0646
+p4506
+aV\u0635\u0628\u064a, Al Bay\u1e11\u0101\u2019, \u0627\u0644\u064a\u0645\u0646
+p4507
+aV\u0633\u0628\u064a\u062d, Abyan, \u0627\u0644\u064a\u0645\u0646
+p4508
+aa(lp4509
+VCitrusdal, West Coast District Municipality, Western Cape, South Africa
+p4510
+aa(lp4511
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p4512
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p4513
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p4514
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p4515
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p4516
+aa(lp4517
+VCape Town, City of Cape Town, Western Cape, South Africa
+p4518
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p4519
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4520
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p4521
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p4522
+aa(lp4523
+VKlerksdorp, Dr Kenneth Kaunda District Municipality, North West, South Africa
+p4524
+aVKlerksdorp, Magaretha Prinsloo Street, Matlosana Ward 19, Matlosana Local Municipality, Dr Kenneth Kaunda District Municipality, North West, South Africa
+p4525
+aa(lp4526
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p4527
+aVPretoria, Bulloch County, Georgia, United States of America
+p4528
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p4529
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p4530
+aVPretoria, 230, New South Wales, 2824, Australia
+p4531
+aVPretoria, Dougherty, Georgia, United States of America
+p4532
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p4533
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p4534
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p4535
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p4536
+aa(lp4537
+VErmelo, Gelderland, Nederland
+p4538
+aVErmelo, Gert Sibande, Mpumalanga, South Africa
+p4539
+aVErmelo, São Jorge e Ermelo, Arcos de Valdevez, Viana do Castelo, Alto Minho, Norte, Portugal
+p4540
+aVErmelo, Arcos de Valdevez, Viana do Castelo, Alto Minho, Norte, Portugal
+p4541
+aVErmelo, Pontevedra, Galicia, España
+p4542
+aVErmelo, Gelderland, Nederland
+p4543
+aVErmelo, Bueu, Pontevedra, Galicia, España
+p4544
+aVErmelo, Ermelo e Pardelhas, Mondim de Basto, Vila Real, Ave, Norte, Portugal
+p4545
+aVErmelo, Mondim de Basto, Vila Real, Ave, Norte, Portugal
+p4546
+aVErmelo, Gelderland, Nederland, 3851VG, Nederland
+p4547
+aa(lp4548
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4549
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4550
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p4551
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p4552
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p4553
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p4554
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p4555
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p4556
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p4557
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p4558
+aa(lp4559
+VElim, Cambria County, Pennsylvania, United States of America
+p4560
+aVElim, Overberg District Municipality, Western Cape, South Africa
+p4561
+aVElim, Vhembe District Municipality, Limpopo, South Africa
+p4562
+aVElim, Lancaster County, Pennsylvania, United States of America
+p4563
+aVElim, Nome, Alaska, United States of America
+p4564
+aVElim, Long, Georgia, United States of America
+p4565
+aVElim, Florence County, South Carolina, United States of America
+p4566
+aVElim, Nome, Alaska, United States of America
+p4567
+aVELIM, Tete, Moçambique
+p4568
+aVElim, Hoogeveen, Drenthe, Nederland
+p4569
+aa(lp4570
+VKroonstad, Fezile Dabi District Municipality, Free State, South Africa
+p4571
+aVKroonstad, Kwelderland, Delfzijl, Groningen, Nederland, 9934RH, Nederland
+p4572
+aVKroonstad, Station Street, Moqhaka Ward 16, Moqhaka Local Municipality, Fezile Dabi District Municipality, Free State, South Africa
+p4573
+aaNa(lp4574
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p4575
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p4576
+aVJohannesburg, Kern, California, United States of America
+p4577
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p4578
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p4579
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p4580
+aVJohannesberg, Wien, Österreich
+p4581
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4582
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p4583
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4584
+aa(lp4585
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p4586
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p4587
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4588
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4589
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4590
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4591
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4592
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4593
+aa(lp4594
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p4595
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p4596
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p4597
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p4598
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p4599
+aa(lp4600
+VMasvingo, Maswingo, Masvingo Province, Zimbabwe
+p4601
+aVMasvingo Province, Zimbabwe
+p4602
+aVMasvingo, Leopold Takawira Avenue, Eastvale, Masvingo, Maswingo, Masvingo Province, Zimbabwe
+p4603
+aa(lp4604
+VHopefield, New South Wales, Australia
+p4605
+aVHopefield, West Coast District Municipality, Western Cape, South Africa
+p4606
+aVHopefield, Upper Dalhousie, Midlothian, Scotland, United Kingdom
+p4607
+aVHopefield, Rosemarkie, Highland, Scotland, United Kingdom
+p4608
+aVHopefield, Camaross, County Wexford, Leinster, Ireland
+p4609
+aVHopefield, New South Wales, Australia
+p4610
+aVHopefield, South Australia, Australia
+p4611
+aVHopefield, Kings County, Prince Edward Island, Canada
+p4612
+aVHopefield, Lenasia South, City of Johannesburg Metropolitan Municipality, Gauteng, South Africa
+p4613
+aVHopefield, Curatoe Hill, Clarendon, Middlesex County, Jamaica
+p4614
+aa(lp4615
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p4616
+aVPretoria, Bulloch County, Georgia, United States of America
+p4617
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p4618
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p4619
+aVPretoria, 230, New South Wales, 2824, Australia
+p4620
+aVPretoria, Dougherty, Georgia, United States of America
+p4621
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p4622
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p4623
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p4624
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p4625
+aa(lp4626
+VBethlehem, Northampton County, Pennsylvania, United States of America
+p4627
+aV\u0628\u064a\u062a \u0644\u062d\u0645, Area A, \u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629\u200e, Palestinian Territory
+p4628
+aVBelém, Microrregião de Belém, Mesorregião de Metropolitana de Belém, PA, Região Norte, Brasil
+p4629
+aVBethlehem, Grafton County, New Hampshire, United States of America
+p4630
+aVBethlehem, Northampton County, Pennsylvania, United States of America
+p4631
+aVBethlehem, Litchfield County, Connecticut, United States of America
+p4632
+aVBethlehem, Ohio County, West Virginia, United States of America
+p4633
+aVBethlehem, Clark County, Indiana, United States of America
+p4634
+aVBethlehem, Thabo Mofutsanyana District Municipality, Free State, South Africa
+p4635
+aVBethlehem, Clearfield County, Pennsylvania, United States of America
+p4636
+aa(lp4637
+VMossel Bay, Eden District Municipality, Western Cape, South Africa
+p4638
+aVMossel Bay, N2, Mossel Bay Ward 7, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6506, South Africa
+p4639
+aVMossel Bay, George Road, Hamardt Place, Mossel Bay Ward 8, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6500, South Africa
+p4640
+aVMossel Bay, Nettie Thatcher Street, Fignbosch Park, Mossel Bay Ward 6, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6506, South Africa
+p4641
+aa(lp4642
+VWelkom, Lejweleputswa District Municipality, Free State, South Africa
+p4643
+aVWelkom, Cape Town Ward 102, Cape Town Subcouncil 7, Brackenfell, City of Cape Town, Western Cape, 7560, South Africa
+p4644
+aVWelkom, Arteveldestraat, Groningen, Nederland, 9745AL, Nederland
+p4645
+aVWelkom, Damplein, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p4646
+aVWelkom, Noordschippersdok, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p4647
+aVWelkom, 247, Platte-Lostraat, Lolanden, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, België - Belgique - Belgien
+p4648
+aVWelkom, 20, Ring, Noorderwijk, Herentals, Turnhout, Antwerpen, Vlaanderen, 2200, België - Belgique - Belgien
+p4649
+aVWelkom, 5, Appelboom, Adegem, Maldegem, Eeklo, Oost-Vlaanderen, Vlaanderen, 9990;9991;9992, België - Belgique - Belgien
+p4650
+aVWelkom, Dorpsstraat, Niel, Antwerpen, Vlaanderen, 2845, België - Belgique - Belgien
+p4651
+aVWelkom, 2, Beerzelplein, Beerzel, Putte, Mechelen, Antwerpen, Vlaanderen, 2580, België - Belgique - Belgien
+p4652
+aa(lp4653
+VOld Transkei Road, Buffalo City Ward 4, East London, Buffalo City Metropolitan Municipality, Eastern Cape, 5201, South Africa
+p4654
+aVOld Transkei Road, Buffalo City Ward 4, East London, Buffalo City Metropolitan Municipality, Eastern Cape, 5247, South Africa
+p4655
+aVOld Transkei Road, Buffalo City Ward 18, East London, Buffalo City Metropolitan Municipality, Eastern Cape, 5201, South Africa
+p4656
+aVTranskei Primary School, Nelson Mandela Drive, King Sabata Dalindyebo Ward 6, King Sabata Dalindyebo Local Municipality, O.R. Tambo District Municipality, Eastern Cape, South Africa
+p4657
+aa(lp4658
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p4659
+aVPretoria, Bulloch County, Georgia, United States of America
+p4660
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p4661
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p4662
+aVPretoria, 230, New South Wales, 2824, Australia
+p4663
+aVPretoria, Dougherty, Georgia, United States of America
+p4664
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p4665
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p4666
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p4667
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p4668
+aa(lp4669
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p4670
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p4671
+aVDurban, Manitoba, Canada
+p4672
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p4673
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p4674
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p4675
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4676
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p4677
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4678
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4679
+aa(lp4680
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4681
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4682
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p4683
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p4684
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p4685
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p4686
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p4687
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p4688
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p4689
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p4690
+aa(lp4691
+VTzaneen, Mopani District Municipality, Limpopo, South Africa
+p4692
+aVTzaneen, Waitara Road, Greater Tzaneen Ward 16, Greater Tzaneen Local Municipality, Mopani District Municipality, Limpopo, 0850, South Africa
+p4693
+aa(lp4694
+VStellenbosch, Cape Winelands District Municipality, Western Cape, South Africa
+p4695
+aVStellenbosch, R310, Stellenbosch Ward 11, Stellenbosch Local Municipality, Cape Winelands District Municipality, Western Cape, 7599, South Africa
+p4696
+aa(lp4697
+VGeorge, Mississippi, United States of America
+p4698
+aVGeorge, Eden District Municipality, Western Cape, South Africa
+p4699
+aVGeorge, Grant County, Washington, United States of America
+p4700
+aVGeorge, George Local Municipality, Eden District Municipality, Western Cape, South Africa
+p4701
+aVGeorge Inn, 77, Borough High Street, Borough, London Borough of Southwark, London, Greater London, England, SE1 1NH, United Kingdom
+p4702
+aVGeorge, Madison County, Texas, United States of America
+p4703
+aVGeorge, Clackamas County, Oregon, United States of America
+p4704
+aVGeorge, Northampton County, North Carolina, United States of America
+p4705
+aVGeorge, Newton County, Arkansas, United States of America
+p4706
+aVGeorge, Yazoo, Mississippi, United States of America
+p4707
+aa(lp4708
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p4709
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p4710
+aVJohannesburg, Kern, California, United States of America
+p4711
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p4712
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p4713
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p4714
+aVJohannesberg, Wien, Österreich
+p4715
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4716
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p4717
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4718
+aa(lp4719
+VAliwal North, Joe Gqabi District Municipality, Eastern Cape, South Africa
+p4720
+aVAliwal North, Murray Street, Maletswai Ward 2, Maletswai Local Municipality, Joe Gqabi District Municipality, Eastern Cape, South Africa
+p4721
+aa(lp4722
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p4723
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p4724
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4725
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4726
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4727
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4728
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4729
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4730
+aa(lp4731
+VOudtshoorn, Eden District Municipality, Western Cape, South Africa
+p4732
+aVOudtshoorn, Shultz Street, Oudtshoorn Ward 12, Oudtshoorn Local Municipality, Eden District Municipality, Western Cape, 6625, South Africa
+p4733
+aa(lp4734
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p4735
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p4736
+aVDurban, Manitoba, Canada
+p4737
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p4738
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p4739
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p4740
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4741
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p4742
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4743
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4744
+aa(lp4745
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p4746
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p4747
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p4748
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p4749
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p4750
+aa(lp4751
+VBethlehem, Northampton County, Pennsylvania, United States of America
+p4752
+aV\u0628\u064a\u062a \u0644\u062d\u0645, Area A, \u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629\u200e, Palestinian Territory
+p4753
+aVBelém, Microrregião de Belém, Mesorregião de Metropolitana de Belém, PA, Região Norte, Brasil
+p4754
+aVBethlehem, Grafton County, New Hampshire, United States of America
+p4755
+aVBethlehem, Northampton County, Pennsylvania, United States of America
+p4756
+aVBethlehem, Litchfield County, Connecticut, United States of America
+p4757
+aVBethlehem, Ohio County, West Virginia, United States of America
+p4758
+aVBethlehem, Clark County, Indiana, United States of America
+p4759
+aVBethlehem, Thabo Mofutsanyana District Municipality, Free State, South Africa
+p4760
+aVBethlehem, Clearfield County, Pennsylvania, United States of America
+p4761
+aa(lp4762
+VBethlehem, Northampton County, Pennsylvania, United States of America
+p4763
+aV\u0628\u064a\u062a \u0644\u062d\u0645, Area A, \u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629\u200e, Palestinian Territory
+p4764
+aVBelém, Microrregião de Belém, Mesorregião de Metropolitana de Belém, PA, Região Norte, Brasil
+p4765
+aVBethlehem, Grafton County, New Hampshire, United States of America
+p4766
+aVBethlehem, Northampton County, Pennsylvania, United States of America
+p4767
+aVBethlehem, Litchfield County, Connecticut, United States of America
+p4768
+aVBethlehem, Ohio County, West Virginia, United States of America
+p4769
+aVBethlehem, Clark County, Indiana, United States of America
+p4770
+aVBethlehem, Thabo Mofutsanyana District Municipality, Free State, South Africa
+p4771
+aVBethlehem, Clearfield County, Pennsylvania, United States of America
+p4772
+aa(lp4773
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p4774
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p4775
+aVDurban, Manitoba, Canada
+p4776
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p4777
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p4778
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p4779
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4780
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p4781
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4782
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4783
+aa(lp4784
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p4785
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p4786
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p4787
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p4788
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p4789
+aa(lp4790
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p4791
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p4792
+aVJohannesburg, Kern, California, United States of America
+p4793
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p4794
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p4795
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p4796
+aVJohannesberg, Wien, Österreich
+p4797
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4798
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p4799
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p4800
+aa(lp4801
+VGoodwood, Cape Town Subcouncil 4, Cape Town, City of Cape Town, Western Cape, South Africa
+p4802
+aVGoodwood, Hobart, Tasmania, Australia
+p4803
+aVGoodwood, Durham Region, Ontario, Canada
+p4804
+aVGoodwood, St. Landry, Louisiana, United States of America
+p4805
+aVGoodwood, East Baton Rouge, Louisiana, United States of America
+p4806
+aVGoodwood, Trinidad and Tobago
+p4807
+aVGoodwood, Goodwood Motor Circuit;Lavant Straight, Westhampnett, Chichester, West Sussex, South East, England, PO18 0PH, United Kingdom
+p4808
+aVGoodwood, Adelaide, South Australia, 5000, Australia
+p4809
+aVGoodwood, Bundaberg Region, QLD, Australia
+p4810
+aVGoodwood, 400, Boulia, QLD, 4829, Australia
+p4811
+aa(lp4812
+VBulawayo Province, Zimbabwe
+p4813
+aVBulawayo, Customs Ave, Thorngrove, Bulawayo Province, Zimbabwe
+p4814
+aVBulawayo, A2, Mafeteng, Mafeteng District, Mafeteng, Lesotho
+p4815
+aa(lp4816
+VHarare, Harare Province, Zimbabwe
+p4817
+aVHarare Province, Zimbabwe
+p4818
+aVHarare, Bobonaro, Timór Loro Sa'e
+p4819
+aVHarare, Kenneth Kaunda Avenue, Avondale West, Harare, Harare Province, 00263, Zimbabwe
+p4820
+aa(lp4821
+VOld Transkei Road, Buffalo City Ward 4, East London, Buffalo City Metropolitan Municipality, Eastern Cape, 5201, South Africa
+p4822
+aVOld Transkei Road, Buffalo City Ward 4, East London, Buffalo City Metropolitan Municipality, Eastern Cape, 5247, South Africa
+p4823
+aVOld Transkei Road, Buffalo City Ward 18, East London, Buffalo City Metropolitan Municipality, Eastern Cape, 5201, South Africa
+p4824
+aVTranskei Primary School, Nelson Mandela Drive, King Sabata Dalindyebo Ward 6, King Sabata Dalindyebo Local Municipality, O.R. Tambo District Municipality, Eastern Cape, South Africa
+p4825
+aa(lp4826
+VEmpangeni, uThungulu District Municipality, KwaZulu-Natal, South Africa
+p4827
+aVEmpangeni, F buurt, Amsterdam, Zuidoost, Amsterdam Zuidoost, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1103AS, Nederland
+p4828
+aVEmpangeni, Border Road, uMhlathuze Ward 9, uMhlathuze Local Municipality, uThungulu District Municipality, KwaZulu-Natal, South Africa
+p4829
+aa(lp4830
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4831
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4832
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p4833
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p4834
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p4835
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p4836
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p4837
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p4838
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p4839
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p4840
+aa(lp4841
+VEastern Cape, South Africa
+p4842
+aa(lp4843
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4844
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4845
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p4846
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p4847
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p4848
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p4849
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p4850
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p4851
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p4852
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p4853
+aa(lp4854
+VBellville, Texas, United States of America
+p4855
+aVBellville, Texas, United States of America
+p4856
+aVBellville, Texas, United States of America
+p4857
+aVBellville, City of Cape Town, Western Cape, South Africa
+p4858
+aVBellville, Richland County, Ohio, United States of America
+p4859
+aVBellville, Hamilton County, Florida, United States of America
+p4860
+aVBellville, Allegany County, New York, United States of America
+p4861
+aVBellville, Marion County, Missouri, United States of America
+p4862
+aVBellville, Clay, Georgia, United States of America
+p4863
+aVBellville, Webster County, Kentucky, United States of America
+p4864
+aa(lp4865
+VGeorge, Mississippi, United States of America
+p4866
+aVGeorge, Eden District Municipality, Western Cape, South Africa
+p4867
+aVGeorge, Grant County, Washington, United States of America
+p4868
+aVGeorge, George Local Municipality, Eden District Municipality, Western Cape, South Africa
+p4869
+aVGeorge Inn, 77, Borough High Street, Borough, London Borough of Southwark, London, Greater London, England, SE1 1NH, United Kingdom
+p4870
+aVGeorge, Madison County, Texas, United States of America
+p4871
+aVGeorge, Clackamas County, Oregon, United States of America
+p4872
+aVGeorge, Northampton County, North Carolina, United States of America
+p4873
+aVGeorge, Newton County, Arkansas, United States of America
+p4874
+aVGeorge, Yazoo, Mississippi, United States of America
+p4875
+aa(lp4876
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4877
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p4878
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p4879
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p4880
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p4881
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p4882
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p4883
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p4884
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p4885
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p4886
+aa(lp4887
+VVirginia, United States of America
+p4888
+aVVirgínia, Microrregião Itajubá, Mesorregião Sul/Sudoeste de Minas, MG, Região Sudeste, Brasil
+p4889
+aVVirginia, Saint Louis County, Minnesota, United States of America
+p4890
+aVVirginia, Brisbane, QLD, Australia
+p4891
+aVVirginia, County Cavan, Ireland
+p4892
+aVVirginia, Lloa, Quito, Pichincha, Ecuador
+p4893
+aVVirginia, South Australia, Australia
+p4894
+aVLa Virginia, Risaralda, Colombia
+p4895
+aVVirginia, Cass County, Illinois, United States of America
+p4896
+aVVirginia, Bates County, Missouri, United States of America
+p4897
+aa(lp4898
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p4899
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p4900
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4901
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4902
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4903
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4904
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4905
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4906
+aa(lp4907
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p4908
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p4909
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p4910
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p4911
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p4912
+aa(lp4913
+VHermanus, Overberg District Municipality, Western Cape, South Africa
+p4914
+aVHermanus, Jan Kok, Curaçao, Nederland
+p4915
+aVHermanus, Mossel Bay Ward 9, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6506, South Africa
+p4916
+aVHermanus, Cliff Road, Waldringfield, Suffolk Coastal, Suffolk, East of England, England, IP12 4QL, United Kingdom
+p4917
+aVHermanus, Antoinette Street, Johannesburg Ward 82, Roodepoort, City of Johannesburg Metropolitan Municipality, Gauteng, 1709, South Africa
+p4918
+aVThe Hermanus, Main Road, Overstrand Ward 3, Overstrand Local Municipality, Overberg District Municipality, Western Cape, 7200, South Africa
+p4919
+aa(lp4920
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p4921
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p4922
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4923
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4924
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4925
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4926
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p4927
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4928
+aa(lp4929
+VCape Town, City of Cape Town, Western Cape, South Africa
+p4930
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p4931
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4932
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p4933
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p4934
+aa(lp4935
+VKing William's Town, Buffalo City Metropolitan Municipality, Eastern Cape, South Africa
+p4936
+aVKing Williams, Dugbe River, Sinoe County, Liberia
+p4937
+aVKing William's Town, Grey Street, Buffalo City Ward 37, King William's Town, Buffalo City Metropolitan Municipality, Eastern Cape, 5600, South Africa
+p4938
+aa(lp4939
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p4940
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p4941
+aVDurban, Manitoba, Canada
+p4942
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p4943
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p4944
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p4945
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4946
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p4947
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4948
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4949
+aa(lp4950
+VPotchefstroom, Dr Kenneth Kaunda District Municipality, North West, South Africa
+p4951
+aVPotchefstroom, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2520, South Africa
+p4952
+aVPotchefstroom, N1, Emfuleni Ward 25, Emfuleni Local Municipality, Sedibeng District Municipality, Gauteng, 1900, South Africa
+p4953
+aVPotchefstroom, Piet Bosman Street, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2531, South Africa
+p4954
+aa(lp4955
+VKing William's Town, Buffalo City Metropolitan Municipality, Eastern Cape, South Africa
+p4956
+aVKing Williams, Dugbe River, Sinoe County, Liberia
+p4957
+aVKing William's Town, Grey Street, Buffalo City Ward 37, King William's Town, Buffalo City Metropolitan Municipality, Eastern Cape, 5600, South Africa
+p4958
+aa(lp4959
+VCradock, Chris Hani District Municipality, Eastern Cape, South Africa
+p4960
+aVCradock, Portsmouth, Virginia, United States of America
+p4961
+aVCradock, South Australia, Australia
+p4962
+aVCradock, South Australia, Australia
+p4963
+aVCradock, Tshwane Ward 57, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0140, South Africa
+p4964
+aVCradock, R337, Inxuba Yethemba Ward 5, Inxuba Yethemba Local Municipality, Chris Hani District Municipality, Eastern Cape, South Africa
+p4965
+aa(lp4966
+VHumansdorp, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p4967
+aVHumansdorp, R102, Kouga Ward 1, Kouga Local Municipality, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p4968
+aa(lp4969
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p4970
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p4971
+aVDurban, Manitoba, Canada
+p4972
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p4973
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p4974
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p4975
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p4976
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p4977
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4978
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p4979
+aa(lp4980
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p4981
+aVPretoria, Bulloch County, Georgia, United States of America
+p4982
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p4983
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p4984
+aVPretoria, 230, New South Wales, 2824, Australia
+p4985
+aVPretoria, Dougherty, Georgia, United States of America
+p4986
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p4987
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p4988
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p4989
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p4990
+aaNa(lp4991
+VMokopane, Waterberg District Municipality, Limpopo, South Africa
+p4992
+aVPotgietersrus, R518, Mogalakwena Ward 32, Mogalakwena Local Municipality, Waterberg District Municipality, Limpopo, South Africa
+p4993
+aa(lp4994
+VWynberg, Cape Town Subcouncil 20, Cape Town, City of Cape Town, Western Cape, South Africa
+p4995
+aVWynberg, Alexandra, City of Johannesburg Metropolitan Municipality, Gauteng, South Africa
+p4996
+aVWynberg, Drakenstein Ward 22, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p4997
+aVWynberg, Edinburgh Drive, Cape Town Ward 62, Cape Town Subcouncil 20, Cape Town, City of Cape Town, Western Cape, 7708, South Africa
+p4998
+aVWynberg, Station Road, Wynberg, Cape Town Subcouncil 20, Cape Town, City of Cape Town, Western Cape, 7800, South Africa
+p4999
+aa(lp5000
+VKempton Park, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p5001
+aVKempton Park, Park Road, Sunbury Common, Spelthorne, Surrey, South East, England, TW16 5AE, United Kingdom
+p5002
+aVKempton Park, Surrey, South East, England, United Kingdom
+p5003
+aVKempton Park, Pelletstown, Ashtown A ED, Dublin, County Dublin, Leinster, D11, Ireland
+p5004
+aVKempton Park, Johannesburg Ward 32, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p5005
+aVKempton Park, Ballyvolane, Cork, County Cork, Munster, Ireland
+p5006
+aVKempton Park, Dunsbury Hill Farm, Cowplain, Havant, Hampshire, South East, England, PO7 8NT, United Kingdom
+p5007
+aVKempton Park, Weeley Civil Parish, Tendring, Essex, East of England, England, CO16 9EJ, United Kingdom
+p5008
+aVKempton Park, Park Road, Sunbury Common, Spelthorne, Surrey, South East, England, TW16 5AE, United Kingdom
+p5009
+aVKempton Park, Geldenhuys Road, Bonaero Park, Benoni, Ekurhuleni Metropolitan Municipality, Gauteng, 1619, South Africa
+p5010
+aa(lp5011
+VRustenburg, Bojanala Platinum District Municipality, North West, South Africa
+p5012
+aVRustenburg, Mangaan Street, Rustenburg Ward 10, Rustenburg Local Municipality, Bojanala Platinum District Municipality, North West, South Africa
+p5013
+aVRustenburg, Amersfoort, Utrecht, Nederland, 3815ZT, Nederland
+p5014
+aVRustenburg, Amersfoort, Utrecht, Nederland, 3815MK, Nederland
+p5015
+aVRustenburg, Puttershoek, Binnenmaas, Zuid-Holland, Nederland, 3297LG, Nederland
+p5016
+aVRustenburg, Puttershoek, Binnenmaas, Zuid-Holland, Nederland, 3297LG, Nederland
+p5017
+aVRüstenberg, Brakel, Kreis Höxter, Regierungsbezirk Detmold, Nordrhein-Westfalen, Deutschland, Europe
+p5018
+aVRustenburg, Wageningen, Gelderland, Nederland, 6701HC, Nederland
+p5019
+aVRustenburg, Wageningen, Gelderland, Nederland, 6701DV, Nederland
+p5020
+aVRustenburg, Oosterhout, Noord-Brabant, Nederland, 4901WH, Nederland
+p5021
+aa(lp5022
+VJohannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa
+p5023
+aVJohannesburg, Johannesburg Avenue, Kern County, California, 93528, United States of America
+p5024
+aVJohannesburg, Kern, California, United States of America
+p5025
+aVSkuodas, Skuodo miesto seni\u016bnija, Skuodo rajono savivaldyb\u0117, Klaip\u0117dos apskritis, Lietuva
+p5026
+aVJohannesburg, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
+p5027
+aVJohannesberg, Landkreis Aschaffenburg, Unterfranken, Bayern, Deutschland
+p5028
+aVJohannesberg, Wien, Österreich
+p5029
+aVJohannesberg, Rieneck, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p5030
+aVJohannesberg, Coburg, Oberfranken, Bayern, Deutschland
+p5031
+aVJohannesberg, Steinfeld, Verwaltungsgemeinschaft Lohr a. Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe
+p5032
+aa(lp5033
+VPotchefstroom, Dr Kenneth Kaunda District Municipality, North West, South Africa
+p5034
+aVPotchefstroom, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2520, South Africa
+p5035
+aVPotchefstroom, N1, Emfuleni Ward 25, Emfuleni Local Municipality, Sedibeng District Municipality, Gauteng, 1900, South Africa
+p5036
+aVPotchefstroom, Piet Bosman Street, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2531, South Africa
+p5037
+aa(lp5038
+VCape Town, City of Cape Town, Western Cape, South Africa
+p5039
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p5040
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5041
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p5042
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p5043
+aa(lp5044
+VCape Town, City of Cape Town, Western Cape, South Africa
+p5045
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p5046
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5047
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p5048
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p5049
+aa(lp5050
+VPotchefstroom, Dr Kenneth Kaunda District Municipality, North West, South Africa
+p5051
+aVPotchefstroom, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2520, South Africa
+p5052
+aVPotchefstroom, N1, Emfuleni Ward 25, Emfuleni Local Municipality, Sedibeng District Municipality, Gauteng, 1900, South Africa
+p5053
+aVPotchefstroom, Piet Bosman Street, Tlokwe Ward 25, Tlokwe Local Municipality, Dr Kenneth Kaunda District Municipality, North West, 2531, South Africa
+p5054
+aa(lp5055
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p5056
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p5057
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p5058
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p5059
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p5060
+aa(lp5061
+VPietermaritzburg, uMgungundlovu District Municipality, KwaZulu-Natal, South Africa
+p5062
+aVPietermaritzburg, Devonshire Road, Msunduzi Ward 26, Msunduzi Local Municipality, uMgungundlovu District Municipality, KwaZulu-Natal, 3201, South Africa
+p5063
+aa(lp5064
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p5065
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p5066
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p5067
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p5068
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p5069
+aa(lp5070
+VKimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5071
+aVKimberley, Nottinghamshire, East Midlands, England, United Kingdom
+p5072
+aVKimberley, Regional District of East Kootenay, British Columbia, Canada
+p5073
+aVKimberley, South Norfolk District, Norfolk, East of England, England, United Kingdom
+p5074
+aVKimberley, Western Australia, Australia
+p5075
+aVKimberley, Norfolk, East of England, England, United Kingdom
+p5076
+aVKimberley, Ontario, Canada
+p5077
+aVKimberley, Pike County, Arkansas, United States of America
+p5078
+aVKimberley, New South Wales, Australia
+p5079
+aVKimberley, Broxtowe, Nottinghamshire, East Midlands, England, United Kingdom
+p5080
+aa(lp5081
+VNelspruit, Ehlanzeni, Mpumalanga, South Africa
+p5082
+aVNelspruit, Northern Bypass, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p5083
+aVNelspruit, Voortrekker Street, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p5084
+aVNelspruit, Langenhoven Crescent, West Acres, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p5085
+aV320, N4, Mbombela Ward 12, Mbombela, Ehlanzeni, Mpumalanga, South Africa
+p5086
+aa(lp5087
+VBurgersdorp, Joe Gqabi District Municipality, Eastern Cape, South Africa
+p5088
+aVBurgersdorp, Greater Tzaneen Local Municipality, Mopani District Municipality, Limpopo, South Africa
+p5089
+aVBurgersdorp, R391, Gariep Ward 3, Gariep Local Municipality, Joe Gqabi District Municipality, Eastern Cape, South Africa
+p5090
+aa(lp5091
+VSprings, Suffolk County, New York, United States of America
+p5092
+aVSprings, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p5093
+aVThe Springs, QLD, Australia
+p5094
+aVSprings, Somerset County, Pennsylvania, United States of America
+p5095
+aVThe Springs, Barnstable County, Massachusetts, United States of America
+p5096
+aVThe Springs, Clayton, Georgia, United States of America
+p5097
+aVThe Springs, New South Wales, Australia
+p5098
+aVSprings, Tameside, Greater Manchester, North West England, England, United Kingdom
+p5099
+aVSprings, St. George's, Grenada
+p5100
+aVThe Springs, Broken Hill, New South Wales, Australia
+p5101
+aa(lp5102
+VGraaff-Reinet, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p5103
+aVGraaff Reinet, Mossel Bay Ward 10, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6506, South Africa
+p5104
+aVGraaff-Reinet, Station Str, Camdeboo Ward 4, Camdeboo Local Municipality, Sarah Baartman District Municipality, Eastern Cape, 6280, South Africa
+p5105
+aa(lp5106
+VModimolle, Waterberg District Municipality, Limpopo, South Africa
+p5107
+aVModimolle, Dikgatlong Local Municipality, Frances Baard District Municipality, Northern Cape, South Africa
+p5108
+aVModimolle, Greater Tubatse Local Municipality, Sekhukhune District Municipality, Limpopo, South Africa
+p5109
+aa(lp5110
+VCape Town, City of Cape Town, Western Cape, South Africa
+p5111
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p5112
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5113
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p5114
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p5115
+aa(lp5116
+VGraaff-Reinet, Sarah Baartman District Municipality, Eastern Cape, South Africa
+p5117
+aVGraaff Reinet, Mossel Bay Ward 10, Mossel Bay Local Municipality, Eden District Municipality, Western Cape, 6506, South Africa
+p5118
+aVGraaff-Reinet, Station Str, Camdeboo Ward 4, Camdeboo Local Municipality, Sarah Baartman District Municipality, Eastern Cape, 6280, South Africa
+p5119
+aa(lp5120
+VBushbuck Ridge, eThekwini Ward 16, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 3610, South Africa
+p5121
+aVBushbuck Ridge, eThekwini Ward 16, Pinetown, eThekwini Metropolitan Municipality, KwaZulu-Natal, 3610, South Africa
+p5122
+aa(lp5123
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p5124
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p5125
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p5126
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p5127
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p5128
+aa(lp5129
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p5130
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p5131
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p5132
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p5133
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p5134
+aa(lp5135
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p5136
+aVPretoria, Bulloch County, Georgia, United States of America
+p5137
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p5138
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p5139
+aVPretoria, 230, New South Wales, 2824, Australia
+p5140
+aVPretoria, Dougherty, Georgia, United States of America
+p5141
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p5142
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p5143
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p5144
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p5145
+aa(lp5146
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p5147
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p5148
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5149
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5150
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p5151
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5152
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p5153
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5154
+aa(lp5155
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p5156
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p5157
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5158
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5159
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p5160
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5161
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p5162
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5163
+aa(lp5164
+VCape Town, City of Cape Town, Western Cape, South Africa
+p5165
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p5166
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5167
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p5168
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p5169
+aa(lp5170
+VCape Town, City of Cape Town, Western Cape, South Africa
+p5171
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p5172
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5173
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p5174
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p5175
+aa(lp5176
+VPaarl, Cape Winelands District Municipality, Western Cape, South Africa
+p5177
+aVPaarl, Rooi Harten, Tilburg, Noord-Brabant, Nederland, 5025HW, Nederland
+p5178
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5179
+aVPaarl, N1, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5180
+aVPaarl, N1, Drakenstein Ward 28, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p5181
+aVPaarl, N1, Drakenstein Ward 1, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5182
+aVPaarl, Waterfall Road, Drakenstein Ward 25, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7620, South Africa
+p5183
+aVPaarl, Railway, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa
+p5184
+aa(lp5185
+VAlberton, Prince County, Prince Edward Island, Canada
+p5186
+aVAlberton, Ekurhuleni Metropolitan Municipality, Gauteng, South Africa
+p5187
+aVAlberton, Adelaide, South Australia, 5000, Australia
+p5188
+aVAlberton, Henderson, Tennessee, United States of America
+p5189
+aVAlberton, Coffee County, Alabama, United States of America
+p5190
+aVAlberton, Shire of Wellington, Gippsland, Victoria, Australia
+p5191
+aVAlberton, Jerseyville, Ontario, Canada
+p5192
+aVAlberton, Shire of Wellington, Gippsland, Victoria, Australia
+p5193
+aVAlberton, Mineral County, Montana, United States of America
+p5194
+aVAlberton, Station Place, Alberton, Adelaide, South Australia, 5000, Australia
+p5195
+aa(lp5196
+VSomerset West, City of Cape Town, Western Cape, South Africa
+p5197
+aVSomerset West, Rock Creek, Washington County, Oregon, United States of America
+p5198
+aVSomerset West, N2, Cape Town Ward 15, Cape Town Subcouncil 22, Somerset West, City of Cape Town, Western Cape, 7130, South Africa
+p5199
+aVSomerset West, Burg Street, Cape Town Ward 84, Cape Town Subcouncil 8, Somerset West, City of Cape Town, Western Cape, 7130, South Africa
+p5200
+aa(lp5201
+VNelspruit, Ehlanzeni, Mpumalanga, South Africa
+p5202
+aVNelspruit, Northern Bypass, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p5203
+aVNelspruit, Voortrekker Street, Mbombela Ward 14, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p5204
+aVNelspruit, Langenhoven Crescent, West Acres, Mbombela, Ehlanzeni, Mpumalanga, 1201, South Africa
+p5205
+aV320, N4, Mbombela Ward 12, Mbombela, Ehlanzeni, Mpumalanga, South Africa
+p5206
+aa(lp5207
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p5208
+aVPretoria, Bulloch County, Georgia, United States of America
+p5209
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p5210
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p5211
+aVPretoria, 230, New South Wales, 2824, Australia
+p5212
+aVPretoria, Dougherty, Georgia, United States of America
+p5213
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p5214
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p5215
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p5216
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p5217
+aa(lp5218
+VQwa-Qwa Street, Emfuleni Ward 32, Emfuleni Local Municipality, Sedibeng District Municipality, Gauteng, South Africa
+p5219
+aa(lp5220
+VWelkom, Lejweleputswa District Municipality, Free State, South Africa
+p5221
+aVWelkom, Cape Town Ward 102, Cape Town Subcouncil 7, Brackenfell, City of Cape Town, Western Cape, 7560, South Africa
+p5222
+aVWelkom, Arteveldestraat, Groningen, Nederland, 9745AL, Nederland
+p5223
+aVWelkom, Damplein, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p5224
+aVWelkom, Noordschippersdok, Dam, Antwerpen, Vlaanderen, 2060, België - Belgique - Belgien
+p5225
+aVWelkom, 247, Platte-Lostraat, Lolanden, Kessel-Lo, Leuven, Vlaams-Brabant, Vlaanderen, 3010, België - Belgique - Belgien
+p5226
+aVWelkom, 20, Ring, Noorderwijk, Herentals, Turnhout, Antwerpen, Vlaanderen, 2200, België - Belgique - Belgien
+p5227
+aVWelkom, 5, Appelboom, Adegem, Maldegem, Eeklo, Oost-Vlaanderen, Vlaanderen, 9990;9991;9992, België - Belgique - Belgien
+p5228
+aVWelkom, Dorpsstraat, Niel, Antwerpen, Vlaanderen, 2845, België - Belgique - Belgien
+p5229
+aVWelkom, 2, Beerzelplein, Beerzel, Putte, Mechelen, Antwerpen, Vlaanderen, 2580, België - Belgique - Belgien
+p5230
+aa(lp5231
+VCape Town, City of Cape Town, Western Cape, South Africa
+p5232
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p5233
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5234
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p5235
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p5236
+aa(lp5237
+VDurban, eThekwini Metropolitan Municipality, KwaZulu-Natal, South Africa
+p5238
+aVDurban, Bagnères-de-Bigorre, Hautes-Pyrénées, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
+p5239
+aVDurban, Manitoba, Canada
+p5240
+aVDurban, Veciana, Anoia, BCN, CAT, España
+p5241
+aVDurban, Umgeni Road, eThekwini Ward 26, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4001, South Africa
+p5242
+aVDurban, Auch, Gers, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 32260, France
+p5243
+aVDurban, Sol Plaatje Ward 26, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5244
+aVDurban, Bel-Air Village Phase I and II, Poblacion, Makati, District I, Makati, Metro Manila, 1210, Philippines
+p5245
+aVDurban, Breede Valley Ward 14, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p5246
+aVDurban, Breede Valley Ward 12, Breede Valley Local Municipality, Cape Winelands District Municipality, Western Cape, 6850, South Africa
+p5247
+aa(lp5248
+VBloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p5249
+aVBram Fischer Airport, Tibbie Visser Street, Mangaung Ward 44, Bloemfontein, Mangaung Metropolitan Municipality, Free State, South Africa
+p5250
+aVBloemfontein, Harvey Road, Mangaung Ward 19, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9301, South Africa
+p5251
+aVBloemfontein, Weidevenne, Purmerend, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1448RE, Nederland
+p5252
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AZ, Nederland
+p5253
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AV, Nederland
+p5254
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AX, Nederland
+p5255
+aVBloemfontein, Ermelo, Gelderland, Nederland, 3851AW, Nederland
+p5256
+aVBloemfontein, Leeuwerikenstraat, Heverlee, Leuven, Vlaams-Brabant, Vlaanderen, 3001, België - Belgique - Belgien
+p5257
+aVBLOEMFONTEIN, Naval Road, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa
+p5258
+aa(lp5259
+VCape Town, City of Cape Town, Western Cape, South Africa
+p5260
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p5261
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5262
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p5263
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p5264
+aa(lp5265
+VPretoria, City of Tshwane Metropolitan Municipality, Gauteng, South Africa
+p5266
+aVPretoria, Bulloch County, Georgia, United States of America
+p5267
+aVPretoria, Coeneo, Michoacán de Ocampo, Estados Unidos Mexicanos
+p5268
+aVPretoria, Cantón El Triunfo, Guayas, Ecuador
+p5269
+aVPretoria, 230, New South Wales, 2824, Australia
+p5270
+aVPretoria, Dougherty, Georgia, United States of America
+p5271
+aV\u03a0\u03c1\u03b5\u03c4\u03cc\u03c1\u03b9\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03c1\u03c7\u03b1\u03bd\u03ce\u03bd - \u0391\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c3\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0397\u03c1\u03b1\u03ba\u03bb\u03b5\u03af\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+p5272
+aVPretoria, Los Domínicos, Las Condes, Provincia de Santiago, Región Metropolitana de Santiago, 7550000, Chile
+p5273
+aVPretoria, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa
+p5274
+aVPretoria, Tulleken Street, Tshwane Ward 80, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0002, South Africa
+p5275
+aa(lp5276
+VCape Town, City of Cape Town, Western Cape, South Africa
+p5277
+aVCape Town, Strand Street, Foreshore, Cape Town Subcouncil 16, Cape Town, City of Cape Town, Western Cape, 8001, South Africa
+p5278
+aVCape Town, Sol Plaatje Ward 25, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa
+p5279
+aVCape Town, BF International Village, C.A.A. BF International, District 1, Las Piñas, Metro Manila, 1747, Philippines
+p5280
+aVCape Town, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska
+p5281
+aa(lp5282
+VEmpangeni, uThungulu District Municipality, KwaZulu-Natal, South Africa
+p5283
+aVEmpangeni, F buurt, Amsterdam, Zuidoost, Amsterdam Zuidoost, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1103AS, Nederland
+p5284
+aVEmpangeni, Border Road, uMhlathuze Ward 9, uMhlathuze Local Municipality, uThungulu District Municipality, KwaZulu-Natal, South Africa
+p5285
+aa(lp5286
+VPort Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, South Africa
+p5287
+aVPort Elizabeth, Cumberland County, New Jersey, United States of America
+p5288
+aVPort Elizabeth, Settlers Way, Nelson Mandela Bay Ward 5, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6006, South Africa
+p5289
+aVPort Elizabeth, San Antonio, Bexar County, Texas, 78244, United States of America
+p5290
+aVPort Elizabeth, Derrick, Grenadines, Saint Vincent and the Grenadines
+p5291
+aa(lp5292
+VRiversdale, Golf Dome, Saskatoon, City of Saskatoon, Saskatchewan, S7M0X2, Canada
+p5293
+aVRiversdale, Eden District Municipality, Western Cape, South Africa
+p5294
+aVRiversdale, Saint Catherine, Middlesex County, Jamaica
+p5295
+aVRiversdale, Southland District, Southland, New Zealand/Aotearoa
+p5296
+aVRiversdale, Douglas County, Oregon, United States of America
+p5297
+aVRiversdale, Stann Creek District, Stann Creek, Belize
+p5298
+aVRiversdale, Tommyscroft, County Donegal, Ireland
+p5299
+aVRiversdale, Ontario, Canada
+p5300
+aVRiversdale, Rockingham ED, Municipal District of Boyle, County Roscommon, Connacht, Ireland
+p5301
+aVRiversdale, Newcastle ED, Hazelhatch Bridge, South Dublin, County Dublin, Leinster, Ireland
+p5302
 aa.

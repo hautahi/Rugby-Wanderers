@@ -935,4 +935,246 @@ aVMarch 1, 1986, Fukuoka
 p468
 aVJanuary 7, 1983, Kanagawa
 p469
+aVOctober 16, 1975, Hyogo
+p470
+aVMarch 7, 1979, Kyoto
+p471
+aVAugust 23, 1982
+p472
+aVJuly 24, 1980
+p473
+aVMarch 1, 1977, Fukuoka
+p474
+aVNovember 30, 1979, Tokyo
+p475
+aVFebruary 24, 1980, Nara
+p476
+aVFebruary 7, 1981, Kyoto
+p477
+aVMay 2, 1980, Kyoto
+p478
+aVJuly 16, 1977, Saitama
+p479
+aVJune 5, 1977, Kanagawa
+p480
+aVMay 14, 1982, Saitama
+p481
+aVOctober 31, 1984, Mie
+p482
+aVFebruary 16, 1985, Kyoto
+p483
+aVDecember 28, 1981, Kyoto
+p484
+aVAugust 26, 1982, Hyogo
+p485
+aVNovember 3, 1983, Yamanasi
+p486
+aVJuly 25, 1983, Kyoto
+p487
+aVAugust 11, 1979, Hamilton
+p488
+aVSeptember 19, 1980, New Plymouth
+p489
+aVJanuary 12, 1983, Nagasaki
+p490
+aVFebruary 22, 1982, Kyoto
+p491
+aVJune 19, 1983, Tokyo
+p492
+aVAugust 11, 1986, Osaka
+p493
+aVApril 17, 1987, Aichi
+p494
+aVOctober 17, 1981, Osaka
+p495
+aVOctober 30, 1983, Osaka
+p496
+aVApril 16, 1981, Kaiapoi
+p497
+aVOctober 5, 1982, Tokyo
+p498
+aVOctober 4, 1983, Aichi
+p499
+aVAugust 12, 1972, Rotorua
+p500
+aVMarch 20, 1981, Osaka
+p501
+aVJanuary 22, 1984, Seoul
+p502
+aVMay 23, 1979, Broken Hill
+p503
+aVJuly 13, 1983, Saitama
+p504
+aVNovember 16, 1981, Fukushima
+p505
+aVAugust 6, 1982, Fukuoka
+p506
+aVApril 5, 1978, Nagasaki
+p507
+aVJune 10, 1981, Osaka
+p508
+aVAugust 24, 1979, Hiroshima
+p509
+aVMarch 15, 1982, Ibaraki
+p510
+aVFebruary 6, 1982, Akita
+p511
+aVJanuary 3, 1985, Kyoto
+p512
+aVDecember 30, 1981, Driffield
+p513
+aVOctober 25, 1981, Nuku'alofa
+p514
+aVMarch 15, 1982, Hyogo
+p515
+aVAugust 2, 1985, Miyagi
+p516
+aVJanuary 15, 1983, Kyoto
+p517
+aVNovember 23, 1983, Hyogo
+p518
+aVMay 7, 1980, Osaka
+p519
+aVOctober 7, 1988, Burwood
+p520
+aVSeptember 30, 1981, Fukuoka
+p521
+aVOctober 31, 1985, Tokyo
+p522
+aVMarch 3, 1986
+p523
+aVNovember 29, 1984, Kyoto
+p524
+aVOctober 8, 1980, Nuku'alofa
+p525
+aVJanuary 1, 1986, Osaka
+p526
+aVNovember 5, 1984, Gunma
+p527
+aVAugust 18, 1987, Hyogo
+p528
+aVFebruary 4, 1980
+p529
+aVAugust 25, 1984, Tokyo
+p530
+aVMay 15, 1986, Fukuoka
+p531
+aVJanuary 21, 1986, Osaka
+p532
+aVApril 2, 1980, Napier
+p533
+aVFebruary 1, 1982, Manunu, Western Samoa
+p534
+aVJuly 15, 1988, Osaka
+p535
+aVMarch 26, 1987, Miyagi
+p536
+aVMay 3, 1985, Miyazaki
+p537
+aVMarch 14, 1983, Nuku'alofa
+p538
+aVOctober 2, 1984, Saitama
+p539
+aVJanuary 21, 1984, Chiba
+p540
+aVJuly 13, 1981, Osaka
+p541
+aVApril 14, 1985, Fukuoka
+p542
+aVJune 22, 1988, Osaka
+p543
+aVJune 25, 1978, Nara
+p544
+aVOctober 1, 1984, Ibaraki
+p545
+aVMay 22, 1987, Hyogo
+p546
+aVMay 24, 1984, Mosgiel
+p547
+aVMarch 3, 1982, Fukuoka
+p548
+aVSeptember 28, 1985, Osaka
+p549
+aVOctober 2, 1985, Kyoto
+p550
+aVJanuary 2, 1988, Osaka
+p551
+aVJune 27, 1982, Auckland
+p552
+aVMarch 21, 1989, Fukuoka
+p553
+aVAugust 10, 1982, Aichi
+p554
+aVDecember 2, 1980, Hyogo
+p555
+aVJuly 19, 1985, Gifu
+p556
+aVOctober 26, 1982, Shiga
+p557
+aVJanuary 9, 1989, Aichi
+p558
+aVAugust 21, 1981, Kanagawa
+p559
+aVDecember 2, 1989, Nara
+p560
+aVMarch 21, 1989
+p561
+aVFebruary 22, 1992, Shiga
+p562
+aVOctober 8, 1993, Kyoto
+p563
+aVFebruary 7, 1987, Fukuoka
+p564
+aVOctober 23, 1985, Kagoshima
+p565
+aVMay 27, 1988, Chiba
+p566
+aVDecember 13, 1987, Auckland
+p567
+aVOctober 30, 1986, Kaitaia
+p568
+aVJune 4, 1988, Aomori
+p569
+aVOctober 13, 1987, Auckland
+p570
+aVSeptember 7, 1987, Yamanasi
+p571
+aVSeptember 7, 1992, Fukuoka
+p572
+aVDecember 26, 1979, Sydney, NSW
+p573
+aVJune 3, 1991, Kagoshima
+p574
+aVDecember 6, 1989, Kyoto
+p575
+aVJuly 26, 1985, Kyoto
+p576
+aVJuly 30, 1980, Christchurch
+p577
+aVFebruary 26, 1993
+p578
+aVMay 29, 1988, Nagasaki
+p579
+aVApril 26, 1985, Osaka
+p580
+aVJuly 11, 1990, Tokyo
+p581
+aVAugust 1, 1985, Napier
+p582
+aVJanuary 11, 1990, Tofoa
+p583
+aVJune 2, 1990, Niigata
+p584
+aVDecember 19, 1991, Fukuoka
+p585
+aVNovember 11, 1994
+p586
+aVDecember 15, 1988, Kanagawa
+p587
+aVMarch 17, 1992, Ehime
+p588
+aVAugust 1, 1990
+p589
+aVMay 27, 1994
+p590
 a.

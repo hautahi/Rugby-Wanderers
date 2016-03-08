@@ -933,4 +933,48 @@ aVOctober 4, 1992
 p467
 aVJanuary 22, 1992, Tiburon, CA, United States
 p468
+aVJanuary 4, 1989, Cardiff
+p469
+aVAugust 31, 1989
+p470
+aVMay 25, 1993
+p471
+aVMarch 26, 1991
+p472
+aVDecember 18, 1992, St Thomas, TX, United States
+p473
+aVdate unknown
+p474
+aVApril 17, 1993
+p475
+aVJanuary 22, 1990
+p476
+aVJuly 23, 1993, Long Beach, CA, United States
+p477
+aVMay 28, 1991, Pretoria
+p478
+aVJanuary 11, 1989, Centennial, CO, United States
+p479
+aVOctober 10, 1991, Los Gatos, CA, United States
+p480
+aVMay 21, 1989, Adelaide, SA
+p481
+aVMarch 12, 1993, New York City, NY, United States
+p482
+aVFebruary 24, 1984, Sydney, NSW
+p483
+aVJanuary 22, 1997
+p484
+aVDecember 28, 1987
+p485
+aVJanuary 27, 1990, Tacoma, WA, United States
+p486
+aVDecember 24, 1990
+p487
+aVMarch 16, 1987, Pukekohe
+p488
+aVDecember 31, 1992, North Bend, WA, United States
+p489
+aVAugust 24, 1996
+p490
 a.

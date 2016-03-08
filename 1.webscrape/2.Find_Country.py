@@ -14,6 +14,7 @@ import cPickle
 import csv
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut
+import time
 
 geolocator = Nominatim()
 
@@ -79,9 +80,11 @@ for country in COUNTRY:
 		city = Birth_City[i]
 		while True:
 			try:
+				time.sleep(1)
 				birth_country = get_country(city)
 				BIRTH_COUNTRY.append(birth_country)
 			except:
+				time.sleep(1)
 				print "try again on iteration:" + str(i)
 				continue
 			break

@@ -927,4 +927,388 @@ aVItaly v Spain at Parma, May 7, 1994
 p464
 aVRomania v Italy at Bucharest, May 14, 1994
 p465
+aVItaly v Czech Republic at Viadana, May 18, 1994
+p466
+aVArgentina v Uruguay at Santiago, Sep 27, 1987
+p467
+aVItaly v Romania at Catania, Oct 1, 1994
+p468
+aVFrance XV v Italy at Digione, Dec 4, 1994
+p469
+aVFrance XV v Italy at Digione, Dec 4, 1994
+p470
+aVFrance v Italy at Buenos Aires, Oct 14, 1995
+p471
+aVFrance v Italy at Buenos Aires, Oct 14, 1995
+p472
+aVItaly v Romania at Buenos Aires, Oct 21, 1995
+p473
+aVItaly v New Zealand at Bologna, Oct 28, 1995
+p474
+aVItaly v South Africa at Rome, Nov 12, 1995
+p475
+aVItaly v South Africa at Rome, Nov 12, 1995
+p476
+aVWales v Italy at Cardiff, Jan 16, 1996
+p477
+aVWales v Italy at Cardiff, Jan 16, 1996
+p478
+aVPortugal v Italy at Lisbon, Mar 2, 1996
+p479
+aVPortugal v Italy at Lisbon, Mar 2, 1996
+p480
+aVPortugal v Italy at Lisbon, Mar 2, 1996
+p481
+aVPortugal v Italy at Lisbon, Mar 2, 1996
+p482
+aVPortugal v Italy at Lisbon, Mar 2, 1996
+p483
+aVItaly v Wales at Rome, Oct 5, 1996
+p484
+aVItaly v Wales at Rome, Oct 5, 1996
+p485
+aVItaly v Australia at Padova, Oct 23, 1996
+p486
+aVIreland v Italy at Lansdowne Road, Jan 4, 1997
+p487
+aVFrance v Italy at Auch, Oct 18, 1997
+p488
+aVArgentina v Italy at Lourdes, Oct 22, 1997
+p489
+aVItaly v Romania at Tarbes, Oct 26, 1997
+p490
+aVItaly v Ireland at Bologna, Dec 20, 1997
+p491
+aVRussia v Italy at Krasnoyarsk, Apr 18, 1998
+p492
+aVItaly v Argentina at Piacenza, Nov 7, 1998
+p493
+aVItaly v Netherlands at Huddersfield, Nov 18, 1998
+p494
+aVAustralia v Ireland at Brisbane, Jun 5, 1994
+p495
+aVItaly v Netherlands at Huddersfield, Nov 18, 1998
+p496
+aVItaly v Netherlands at Huddersfield, Nov 18, 1998
+p497
+aVItaly v Netherlands at Huddersfield, Nov 18, 1998
+p498
+aVItaly v Netherlands at Huddersfield, Nov 18, 1998
+p499
+aVItaly v France XV at Genova, Jan 30, 1999
+p500
+aVItaly v France XV at Genova, Jan 30, 1999
+p501
+aVIreland v Italy at Lansdowne Road, Apr 10, 1999
+p502
+aVIreland v Italy at Lansdowne Road, Apr 10, 1999
+p503
+aVSouth Africa v Italy at Durban, Jun 19, 1999
+p504
+aVSouth Africa v Italy at Durban, Jun 19, 1999
+p505
+aVItaly v Uruguay at L'Aquila, Aug 22, 1999
+p506
+aVItaly v Uruguay at L'Aquila, Aug 22, 1999
+p507
+aVItaly v Uruguay at L'Aquila, Aug 22, 1999
+p508
+aVItaly v Spain at L'Aquila, Aug 26, 1999
+p509
+aVItaly v Spain at L'Aquila, Aug 26, 1999
+p510
+aVItaly v Spain at L'Aquila, Aug 26, 1999
+p511
+aVEngland v Italy at Twickenham, Oct 2, 1999
+p512
+aVParaguay v Argentina at Asuncion, Oct 3, 1998
+p513
+aVItaly v Scotland at Rome, Feb 5, 2000
+p514
+aVItaly v Scotland at Rome, Feb 5, 2000
+p515
+aVItaly v Scotland at Rome, Feb 5, 2000
+p516
+aVItaly v Scotland at Rome, Feb 5, 2000
+p517
+aVWales v Italy at Millennium Stadium, Feb 19, 2000
+p518
+aVIreland v Italy at Lansdowne Road, Mar 4, 2000
+p519
+aVItaly v England at Rome, Mar 18, 2000
+p520
+aVSamoa v Italy at Apia, Jul 8, 2000
+p521
+aVSamoa v Italy at Apia, Jul 8, 2000
+p522
+aVSamoa v Italy at Apia, Jul 8, 2000
+p523
+aVSamoa v Italy at Apia, Jul 8, 2000
+p524
+aVSamoa v Italy at Apia, Jul 8, 2000
+p525
+aVFiji v Italy at Lautoka, Jul 15, 2000
+p526
+aVItaly v Canada at Rovigo, Nov 11, 2000
+p527
+aVItaly v Canada at Rovigo, Nov 11, 2000
+p528
+aVItaly v Canada at Rovigo, Nov 11, 2000
+p529
+aVItaly v New Zealand at Genova, Nov 25, 2000
+p530
+aVItaly v Ireland at Rome, Feb 3, 2001
+p531
+aVItaly v Ireland at Rome, Feb 3, 2001
+p532
+aVNamibia v Italy at Windhoek, Jun 23, 2001
+p533
+aVNamibia v Italy at Windhoek, Jun 23, 2001
+p534
+aVNamibia v Italy at Windhoek, Jun 23, 2001
+p535
+aVUruguay v Italy at Montevideo, Jul 7, 2001
+p536
+aVItaly v Fiji at Treviso, Nov 10, 2001
+p537
+aVItaly v South Africa at Genova, Nov 17, 2001
+p538
+aVItaly v Samoa at L'Aquila, Nov 24, 2001
+p539
+aVFrance v Italy at Stade de France, Feb 2, 2002
+p540
+aVFrance v Italy at Stade de France, Feb 2, 2002
+p541
+aVFrance v Italy at Stade de France, Feb 2, 2002
+p542
+aVWales v Italy at Millennium Stadium, Mar 2, 2002
+p543
+aVItaly v England at Rome, Apr 7, 2002
+p544
+aVNew Zealand v Italy at Hamilton, Jun 8, 2002
+p545
+aVNew Zealand v Italy at Hamilton, Jun 8, 2002
+p546
+aVNew Zealand v Italy at Hamilton, Jun 8, 2002
+p547
+aVNew Zealand v Italy at Hamilton, Jun 8, 2002
+p548
+aVItaly v Romania at Parma, Sep 28, 2002
+p549
+aVItaly v Argentina at Rome, Nov 16, 2002
+p550
+aVItaly v Wales at Rome, Feb 15, 2003
+p551
+aVItaly v Wales at Rome, Feb 15, 2003
+p552
+aVScotland v Italy at Murrayfield, Aug 23, 2003
+p553
+aVIreland v Italy at Limerick, Aug 30, 2003
+p554
+aVItaly v Tonga at Canberra, Oct 15, 2003
+p555
+aVItaly v England at Rome, Feb 15, 2004
+p556
+aVItaly v England at Rome, Feb 15, 2004
+p557
+aVItaly v England at Rome, Feb 15, 2004
+p558
+aVIreland v Italy at Lansdowne Road, Mar 20, 2004
+p559
+aVIreland v Italy at Lansdowne Road, Mar 20, 2004
+p560
+aVWales v Italy at Millennium Stadium, Mar 27, 2004
+p561
+aVRomania v Italy at Bucharest, Jun 26, 2004
+p562
+aVRomania v Italy at Bucharest, Jun 26, 2004
+p563
+aVRomania v Italy at Bucharest, Jun 26, 2004
+p564
+aVRomania v Italy at Bucharest, Jun 26, 2004
+p565
+aVRomania v Italy at Bucharest, Jun 26, 2004
+p566
+aVItaly v Canada at L'Aquila, Nov 6, 2004
+p567
+aVItaly v Canada at L'Aquila, Nov 6, 2004
+p568
+aVItaly v Canada at L'Aquila, Nov 6, 2004
+p569
+aVItaly v New Zealand at Rome, Nov 13, 2004
+p570
+aVItaly v United States of America at Biella-in-Piedmont, Nov 27, 2004
+p571
+aVItaly v United States of America at Biella-in-Piedmont, Nov 27, 2004
+p572
+aVArgentina v Italy at Salta, Jun 11, 2005
+p573
+aVArgentina v Italy at Salta, Jun 11, 2005
+p574
+aVAustralia v Italy at Melbourne, Jun 25, 2005
+p575
+aVAustralia v Italy at Melbourne, Jun 25, 2005
+p576
+aVItaly v Tonga at Prato, Nov 12, 2005
+p577
+aVItaly v Tonga at Prato, Nov 12, 2005
+p578
+aVJapan v Italy at Tokyo, Jun 11, 2006
+p579
+aVJapan v Italy at Tokyo, Jun 11, 2006
+p580
+aVJapan v Italy at Tokyo, Jun 11, 2006
+p581
+aVJapan v Italy at Tokyo, Jun 11, 2006
+p582
+aVJapan v Italy at Tokyo, Jun 11, 2006
+p583
+aVJapan v Italy at Tokyo, Jun 11, 2006
+p584
+aVJapan v Italy at Tokyo, Jun 11, 2006
+p585
+aVItaly v Portugal at L'Aquila, Oct 7, 2006
+p586
+aVItaly v Canada at Fontanafredda, Nov 25, 2006
+p587
+aVUruguay v Italy at Montevideo, Jun 2, 2007
+p588
+aVUruguay v Italy at Montevideo, Jun 2, 2007
+p589
+aVUruguay v Italy at Montevideo, Jun 2, 2007
+p590
+aVItaly v Japan at Saint Vincent Aosta, Aug 18, 2007
+p591
+aVIreland v Italy at Croke Park, Feb 2, 2008
+p592
+aVIreland v Italy at Croke Park, Feb 2, 2008
+p593
+aVItaly v England at Rome, Feb 10, 2008
+p594
+aVWales v Italy at Millennium Stadium, Feb 23, 2008
+p595
+aVFrance v Italy at Stade de France, Mar 9, 2008
+p596
+aVSouth Africa v Italy at Cape Town, Jun 21, 2008
+p597
+aVSouth Africa v Italy at Cape Town, Jun 21, 2008
+p598
+aVSouth Africa v Italy at Cape Town, Jun 21, 2008
+p599
+aVSouth Africa v Italy at Cape Town, Jun 21, 2008
+p600
+aVItaly v Australia at Padova, Nov 8, 2008
+p601
+aVEngland v Italy at Twickenham, Feb 7, 2009
+p602
+aVItaly v Ireland at Rome, Feb 15, 2009
+p603
+aVScotland v Italy at Murrayfield, Feb 28, 2009
+p604
+aVScotland v Italy at Murrayfield, Feb 28, 2009
+p605
+aVItaly v Wales at Rome, Mar 14, 2009
+p606
+aVAustralia v Italy at Canberra, Jun 13, 2009
+p607
+aVAustralia v Italy at Canberra, Jun 13, 2009
+p608
+aVAustralia v Italy at Canberra, Jun 13, 2009
+p609
+aVAustralia v Italy at Canberra, Jun 13, 2009
+p610
+aVAustralia v Italy at Melbourne, Jun 20, 2009
+p611
+aVIreland v Italy at Croke Park, Feb 6, 2010
+p612
+aVItaly v Argentina at Verona, Nov 13, 2010
+p613
+aVItaly v Australia at Firenze, Nov 20, 2010
+p614
+aVEngland v Italy at Twickenham, Feb 12, 2011
+p615
+aVItaly v Japan at Cesena, Aug 13, 2011
+p616
+aVItaly v Japan at Cesena, Aug 13, 2011
+p617
+aVScotland v Italy at Murrayfield, Aug 20, 2011
+p618
+aVFrance v Italy at Stade de France, Feb 4, 2012
+p619
+aVFrance v Italy at Stade de France, Feb 4, 2012
+p620
+aVItaly v England at Rome, Feb 11, 2012
+p621
+aVArgentina v Italy at San Juan, Jun 9, 2012
+p622
+aVArgentina v Italy at San Juan, Jun 9, 2012
+p623
+aVArgentina v Italy at San Juan, Jun 9, 2012
+p624
+aVCanada v Italy at Toronto, Jun 15, 2012
+p625
+aVCanada v Italy at Toronto, Jun 15, 2012
+p626
+aVCanada v Italy at Toronto, Jun 15, 2012
+p627
+aVItaly v Tonga at Brescia, Nov 10, 2012
+p628
+aVItaly v New Zealand at Rome, Nov 17, 2012
+p629
+aVSouth Africa v Italy at Durban, Jun 8, 2013
+p630
+aVItaly v Samoa at Nelspruit, Jun 15, 2013
+p631
+aVItaly v Scotland at Pretoria, Jun 22, 2013
+p632
+aVItaly v Scotland at Pretoria, Jun 22, 2013
+p633
+aVItaly v Scotland at Pretoria, Jun 22, 2013
+p634
+aVItaly v Australia at Torino, Nov 9, 2013
+p635
+aVItaly v Fiji at Cremona, Nov 16, 2013
+p636
+aVWales v Italy at Millennium Stadium, Feb 1, 2014
+p637
+aVItaly v England at Rome, Mar 15, 2014
+p638
+aVFiji v Italy at Suva, Jun 7, 2014
+p639
+aVFiji v Italy at Suva, Jun 7, 2014
+p640
+aVSamoa v Italy at Apia, Jun 14, 2014
+p641
+aVItaly v Samoa at Ascoli Piceno, Nov 8, 2014
+p642
+aVItaly v South Africa at Padova, Nov 22, 2014
+p643
+aVItaly v Ireland at Rome, Feb 7, 2015
+p644
+aVEngland v Italy at Twickenham, Feb 14, 2015
+p645
+aVScotland v Italy at Murrayfield, Feb 28, 2015
+p646
+aVScotland v Italy at Murrayfield, Feb 28, 2015
+p647
+aVItaly v Scotland at Torino, Aug 22, 2015
+p648
+aVItaly v Scotland at Torino, Aug 22, 2015
+p649
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p650
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p651
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p652
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p653
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p654
+aVFrance v Italy at Stade de France, Feb 6, 2016
+p655
+aVItaly v England at Rome, Feb 14, 2016
+p656
+aVItaly v England at Rome, Feb 14, 2016
+p657
 a.

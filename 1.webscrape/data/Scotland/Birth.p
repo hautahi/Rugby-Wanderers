@@ -909,4 +909,1242 @@ aVJanuary 19, 1903, Helmsdale
 p455
 aVcirca 1908, ?
 p456
+aVSeptember 6, 1905, ?
+p457
+aVJanuary 8, 1907, Galashiels
+p458
+aVFebruary 9, 1902, Corstophine, Edinburg
+p459
+aVNovember 12, 1909, Polmont, nr Falkirk
+p460
+aVAugust 3, 1908, New York, NY, United States
+p461
+aVDecember 1, 1905, ?
+p462
+aVAugust 30, 1906, ?
+p463
+aVFebruary 19, 1905, ?
+p464
+aVDecember 2, 1908, Uxbridge, Middx
+p465
+aVApril 14, 1910, Kelvin, Glasgow
+p466
+aVDecember 7, 1907, Hallrule Hobkirk
+p467
+aVMarch 1, 1909, Langside, Glasgow
+p468
+aVDecember 16, 1907, Christchurch, Hants
+p469
+aVAugust 8, 1906, Tsientsin
+p470
+aVNovember 19, 1907, Gala
+p471
+aVAugust 29, 1910, ?
+p472
+aVOctober 25, 1908, Irvine, Ayrshire
+p473
+aVJanuary 28, 1904, ?
+p474
+aVSeptember 4, 1909, Dundee
+p475
+aVDecember 7, 1906, San Resno
+p476
+aVApril 19, 1905, Galashiels
+p477
+aVNovember 24, 1909, Edinburgh
+p478
+aVFebruary 3, 1907, ?
+p479
+aVOctober 6, 1909, Rothesay, Bute
+p480
+aVJanuary 7, 1905, Musselburgh
+p481
+aVDecember 30, 1907, ?
+p482
+aVJune 19, 1904, Bearsden
+p483
+aVSeptember 12, 1904, West Derby
+p484
+aVNovember 4, 1909, St Mary, Dundee
+p485
+aVJuly 14, 1909, ?
+p486
+aVFebruary 8, 1909, Dunscore.Dumfries
+p487
+aVApril 14, 1914, Karachi
+p488
+aVMay 1, 1907, Tranent
+p489
+aVNovember 17, 1913, Shanghai
+p490
+aVJanuary 4, 1913, ?
+p491
+aVJuly 10, 1907, ?
+p492
+aVNovember 22, 1910, Kirkcaldy
+p493
+aVNovember 11, 1908, Musselburgh
+p494
+aVMay 18, 1910, York
+p495
+aVJuly 8, 1912, Pollokshields, Glasgo
+p496
+aVJuly 26, 1913, Sevenoaks
+p497
+aVMay 30, 1910, Eastwood, Lanark
+p498
+aVMay 28, 1906, ?
+p499
+aVJuly 23, 1911, Kimberley
+p500
+aVApril 2, 1913, Edinburgh
+p501
+aVApril 11, 1913
+p502
+aVFebruary 14, 1910, Hawick
+p503
+aVJanuary 6, 1907, Motherwell
+p504
+aVApril 2, 1911, ?
+p505
+aVNovember 20, 1910, Kensington
+p506
+aVAugust 24, 1909, Edinburgh
+p507
+aVOctober 1, 1913, Manila, Philippine
+p508
+aVFebruary 1, 1911, Maxton, St Boswells
+p509
+aVMay 31, 1913, Croydon
+p510
+aVNovember 14, 1912, Glasgow
+p511
+aVJanuary 28, 1915, Edinburgh
+p512
+aVOctober 3, 1914, Old Kilpatrick
+p513
+aVOctober 19, 1906, ?
+p514
+aVApril 12, 1909, ?
+p515
+aVMay 12, 1910, Edinburgh
+p516
+aVMay 29, 1915, Galashiels
+p517
+aVAugust 17, 1910, Napier
+p518
+aVApril 19, 1910, ?
+p519
+aVNovember 12, 1912, Bothwell, Lanark
+p520
+aVMay 3, 1912, Coatbridge
+p521
+aVMay 22, 1914, Glasgow
+p522
+aVcirca 1915, New York, NY, United States
+p523
+aVJuly 1911, Hawick
+p524
+aVApril 4, 1913, ?
+p525
+aVOctober 27, 1910, Stirling
+p526
+aVJanuary 20, 1915, Berwick
+p527
+aVNovember 4, 1914, Balmacara
+p528
+aVDecember 9, 1913, ?
+p529
+aVNovember 15, 1913, ?
+p530
+aVMay 7, 1916, Ardrossan
+p531
+aVDecember 1, 1916, Rugby
+p532
+aVAugust 3, 1911, Glasgow
+p533
+aVJanuary 10, 1918, Edinburgh
+p534
+aVJuly 29, 1912, Edinburgh
+p535
+aVAugust 24, 1915, Rochester
+p536
+aVMarch 27, 1916, Galashiels
+p537
+aVApril 2, 1915, Glasgow
+p538
+aVApril 28, 1917, Salisbury, Rhodesia
+p539
+aVMarch 16, 1908, Peebles
+p540
+aVFebruary 13, 1914, Edinburgh
+p541
+aVMay 13, 1911, Ainsdale, Southport
+p542
+aVJanuary 23, 1913, Edinburgh
+p543
+aVNovember 29, 1914, Edinburgh
+p544
+aVNovember 6, 1915, ?
+p545
+aVDecember 7, 1918, Calcutta
+p546
+aVSeptember 9, 1917, Edinburgh
+p547
+aVSeptember 16, 1917, Aberdeen
+p548
+aVJune 24, 1910, Jedburgh
+p549
+aVSeptember 26, 1913, South America
+p550
+aVMay 8, 1918, Forfar
+p551
+aVOctober 31, 1918, Tranent
+p552
+aVNovember 30, 1916, Edinburgh
+p553
+aVMay 12, 1917, London
+p554
+aVMay 6, 1925, Dunfermline
+p555
+aVApril 25, 1918, ?
+p556
+aVOctober 25, 1919, Auckland
+p557
+aVMarch 30, 1919, ?
+p558
+aVMay 26, 1923, St Boswells
+p559
+aVApril 18, 1923, Stow, Midlothian
+p560
+aVOctober 25, 1918, Woking
+p561
+aVNovember 10, 1920, Kirkcaldy
+p562
+aVOctober 15, 1921, Sidcup
+p563
+aVApril 6, 1923, Bruntisfield, Edinbur
+p564
+aVDecember 29, 1925, Edinburgh
+p565
+aVApril 4, 1921, Edinburgh
+p566
+aVJune 13, 1918, Edinburgh
+p567
+aVDecember 19, 1916, ?
+p568
+aVJune 29, 1914, Dunbar
+p569
+aVJuly 8, 1918, Glasgow
+p570
+aVDecember 28, 1921, Wallsend-on-Tyne
+p571
+aVOctober 20, 1918, ?
+p572
+aVNovember 10, 1921, Machakos, Nairobi
+p573
+aVSeptember 3, 1916, Edinburgh
+p574
+aVAugust 11, 1919, Selkirk
+p575
+aVMay 1, 1923, ?
+p576
+aVSeptember 28, 1918, ?
+p577
+aVSeptember 12, 1926, Hawick
+p578
+aVNovember 4, 1919, Glasgow
+p579
+aVJune 19, 1922, Aberdeen
+p580
+aVNovember 25, 1921, ?
+p581
+aVOctober 29, 1925, ?
+p582
+aVMarch 15, 1920, ?
+p583
+aVMay 23, 1921, ?
+p584
+aVApril 19, 1919, Jedburgh
+p585
+aVDecember 18, 1924, Hawick
+p586
+aVFebruary 19, 1928, Rutherglen
+p587
+aVJune 24, 1929, Glasgow
+p588
+aVMarch 27, 1920, Hawick
+p589
+aVOctober 12, 1921, Rugby
+p590
+aVApril 9, 1923, Edinburgh
+p591
+aVMay 9, 1928, Auckland
+p592
+aVOctober 30, 1925, Stokesley
+p593
+aVJune 18, 1922, Wee Waa, NSW
+p594
+aVJune 23, 1924, Bebington, Cheshire
+p595
+aVOctober 27, 1924, Aberdeen
+p596
+aVNovember 23, 1922, ?
+p597
+aVFebruary 20, 1921, ?
+p598
+aVOctober 14, 1923, ?
+p599
+aVFebruary 14, 1927, Tsengchow
+p600
+aVNovember 7, 1920, Hamiota, MB
+p601
+aVJanuary 21, 1921, Galashiels
+p602
+aVMarch 3, 1925, Galashiels
+p603
+aVFebruary 20, 1930, Glasgow
+p604
+aVJanuary 18, 1928, Consett
+p605
+aVMarch 17, 1925, Edinburgh
+p606
+aVMay 11, 1926, Balerno, Edinburgh
+p607
+aVApril 15, 1928, Langholm
+p608
+aVJanuary 20, 1917, ?
+p609
+aVFebruary 17, 1924, Edinburgh
+p610
+aVMarch 4, 1924, Glasgow
+p611
+aVApril 27, 1928, Herne Hill
+p612
+aVApril 13, 1925, Hawick
+p613
+aVAugust 3, 1931, Calcutta
+p614
+aVOctober 7, 1928, Edinburgh
+p615
+aVFebruary 20, 1931, Jedburgh
+p616
+aVDecember 15, 1928, ?
+p617
+aVJune 3, 1919, Eildon, Melrose
+p618
+aVJuly 1, 1926, Galashiels
+p619
+aVJuly 25, 1930, ?
+p620
+aVAugust 31, 1924, ?
+p621
+aVApril 13, 1930, Edinburgh
+p622
+aVJune 7, 1931, Myanmar, Burma
+p623
+aVApril 7, 1928, Balfron, Stirling
+p624
+aVSeptember 17, 1925, St Boswells
+p625
+aVMarch 4, 1927, Melrose
+p626
+aVNovember 14, 1926, ?
+p627
+aVJanuary 28, 1931, Hawick
+p628
+aVAugust 30, 1921
+p629
+aVApril 10, 1929, Edinburgh
+p630
+aVDecember 2, 1928, Dunfermline
+p631
+aVJanuary 4, 1929, Polmont, nr Falkirk
+p632
+aVMarch 11, 1930, London
+p633
+aVSeptember 2, 1925, Carlisle
+p634
+aVMay 9, 1931, ?
+p635
+aVDecember 3, 1931, Poona
+p636
+aVMarch 20, 1928, ?
+p637
+aVJune 27, 1931
+p638
+aVFebruary 9, 1930, Johannesburg
+p639
+aVApril 10, 1925, ?
+p640
+aVJune 1, 1931, Banff
+p641
+aVFebruary 13, 1927, South Africa?
+p642
+aVNovember 19, 1930
+p643
+aVFebruary 5, 1928, Hawick
+p644
+aVDecember 25, 1927, Glasgow
+p645
+aVMay 14, 1929, ?
+p646
+aVDecember 13, 1929, Chelsea, London
+p647
+aVNovember 21, 1929, ?
+p648
+aVMarch 3, 1930, Boghall, Midlothian
+p649
+aVJune 1, 1926, Glasgow
+p650
+aVSeptember 14, 1930, Purley
+p651
+aVJuly 14, 1930, St Andrew's
+p652
+aVOctober 28, 1932
+p653
+aVFebruary 25, 1928, Oxford
+p654
+aVJune 8, 1932, Hawick
+p655
+aVJanuary 30, 1929, Dore, Sheffield
+p656
+aVNovember 7, 1933, Aberdeen
+p657
+aVAugust 16, 1928, Hawick
+p658
+aVMarch 6, 1933, Berea, Durban
+p659
+aVMarch 16, 1928, Salisbury, South Rhodesia
+p660
+aVJuly 5, 1928, Edinburgh
+p661
+aVFebruary 13, 1933, Glasgow
+p662
+aVJune 5, 1931, Glasgow
+p663
+aVApril 1, 1934, Shotts
+p664
+aVNovember 8, 1927, Norwich
+p665
+aVSeptember 7, 1929, Kelso
+p666
+aVNovember 28, 1928, ?
+p667
+aVOctober 29, 1930, Hawick
+p668
+aVApril 6, 1926, nr Gala
+p669
+aVMarch 13, 1932, ?
+p670
+aVFebruary 12, 1932, Edinburgh
+p671
+aVJanuary 23, 1933, Castle Douglas
+p672
+aVOctober 16, 1929, St Boswells
+p673
+aVAugust 9, 1931, Glasgow
+p674
+aVSeptember 23, 1929, Tylorstown, Rhondda
+p675
+aVMay 13, 1933, Dundee
+p676
+aVFebruary 14, 1933, ?
+p677
+aVMay 30, 1933, Hawick
+p678
+aVSeptember 1, 1936, Edinburgh
+p679
+aVAugust 29, 1936, Warriston, Edinburgh
+p680
+aVAugust 20, 1934, ?
+p681
+aVApril 30, 1931, ?
+p682
+aVJune 2, 1929, Edinburgh
+p683
+aVApril 12, 1937, Glasgow
+p684
+aVJune 28, 1932, Edinburgh
+p685
+aVcirca 1929, ?
+p686
+aVJune 28, 1935, ?
+p687
+aVDecember 4, 1934, Buenos Aires
+p688
+aVFebruary 24, 1933
+p689
+aVJuly 19, 1935, Hamilton
+p690
+aVOctober 29, 1935, Bombay
+p691
+aVApril 21, 1937, Richmond
+p692
+aVAugust 6, 1932, Avoch, Ross
+p693
+aVJuly 7, 1934, Cupar, Fife
+p694
+aVApril 3, 1940, Assam
+p695
+aVMarch 11, 1937, London
+p696
+aVJune 12, 1938, West Hartlepool
+p697
+aVApril 20, 1934, Motherwell
+p698
+aVDecember 23, 1936, Yarrow
+p699
+aVMarch 19, 1930, ?
+p700
+aVSeptember 5, 1933, Hawick
+p701
+aVOctober 24, 1938, ?
+p702
+aVOctober 12, 1936, Finchley
+p703
+aVJuly 25, 1939, Edinburgh
+p704
+aVMarch 30, 1935, Newton St Boswells
+p705
+aVAugust 1, 1933, Valletta
+p706
+aVNovember 26, 1941, Selkirk
+p707
+aVDecember 18, 1934, Woolwich
+p708
+aVMarch 15, 1937, ?
+p709
+aVJuly 29, 1935, Hawick
+p710
+aVcirca 1939, ?
+p711
+aVNovember 5, 1930, ?
+p712
+aVFebruary 19, 1937, Newburn, Fyfe
+p713
+aVNovember 11, 1937, Glasgow
+p714
+aVMarch 5, 1933, Ford Midlothian
+p715
+aVNovember 21, 1943, ?
+p716
+aVNovember 21, 1941, Edinburgh
+p717
+aVMarch 17, 1939, Edinburgh
+p718
+aVJanuary 31, 1939, ?
+p719
+aVJuly 28, 1937, Edinburgh
+p720
+aVDecember 16, 1941, Troon
+p721
+aVJune 5, 1934, ?
+p722
+aVMarch 17, 1940, Pathhead, Midlothian
+p723
+aVOctober 22, 1942, Downham
+p724
+aVJanuary 23, 1937, St Boswells
+p725
+aVDecember 5, 1941, ?
+p726
+aVApril 19, 1938, Hawick
+p727
+aVSeptember 20, 1940, Hawick
+p728
+aVFebruary 26, 1940, Glasgow
+p729
+aVNovember 22, 1941, Twickenham
+p730
+aVJune 28, 1943, Cavers, Roxburghshire
+p731
+aVFebruary 21, 1940, ?
+p732
+aVMarch 23, 1942
+p733
+aVApril 5, 1938, Kirkcaldy
+p734
+aVSeptember 28, 1943, Hawick
+p735
+aVSeptember 30, 1945, Glasgow
+p736
+aVFebruary 2, 1944, Glasgow
+p737
+aVFebruary 2, 1943, Hawick
+p738
+aVMay 19, 1941, ?
+p739
+aVOctober 8, 1946, Edinburgh
+p740
+aVJuly 19, 1945, Edinburgh
+p741
+aVNovember 23, 1943, Edinburgh
+p742
+aVSeptember 11, 1939, ?
+p743
+aVMarch 1, 1941, Langholm
+p744
+aVMay 1, 1944, Edinburgh
+p745
+aVMay 11, 1938, ?
+p746
+aVJune 17, 1944, Irvine
+p747
+aVOctober 3, 1944, Edinburgh
+p748
+aVApril 30, 1945, Hawick
+p749
+aVJanuary 17, 1945, London
+p750
+aVOctober 22, 1943, Dundee
+p751
+aVFebruary 26, 1947, Hawick
+p752
+aVMarch 16, 1939, Glasgow
+p753
+aVNovember 4, 1948, Thornton, Fife
+p754
+aVDecember 30, 1938, Glasgow
+p755
+aVApril 14, 1942, Tarbolton
+p756
+aVApril 18, 1947, Langholm
+p757
+aVAugust 4, 1946, Edinburgh
+p758
+aVNovember 1, 1947, Troon
+p759
+aVMarch 27, 1943, Galashiels
+p760
+aVJune 16, 1944, Dundee
+p761
+aVNovember 23, 1945, Liverpool
+p762
+aVSeptember 13, 1940, Edinburgh
+p763
+aVMarch 4, 1946, Galashiels
+p764
+aVDecember 12, 1941, Dar-es-Salaam
+p765
+aVDecember 15, 1945, ?
+p766
+aVDecember 10, 1949, Galashiels
+p767
+aVMarch 9, 1943, Ayr
+p768
+aVJanuary 9, 1948, Cresswell
+p769
+aVNovember 16, 1947, Littlemill, Ayrshire
+p770
+aVJanuary 27, 1944, Edinburgh
+p771
+aVFebruary 12, 1952, Hawick
+p772
+aVMay 19, 1948, Kirkcaldy
+p773
+aVApril 19, 1948, Hawick
+p774
+aVDecember 20, 1950, Perth
+p775
+aVJuly 4, 1946, Edinburgh
+p776
+aVSeptember 16, 1951, Edinburgh
+p777
+aVOctober 30, 1946, Leeds
+p778
+aVMay 24, 1944, Kilwinning
+p779
+aVMay 6, 1949, ?
+p780
+aVAugust 21, 1951, Edinburgh
+p781
+aVMarch 9, 1947, Edinburgh
+p782
+aVNovember 12, 1941, ?
+p783
+aVAugust 30, 1949, Edinburgh
+p784
+aVApril 16, 1947, Gosforth
+p785
+aVJanuary 7, 1949, Edinburgh
+p786
+aVApril 24, 1945, ?
+p787
+aVApril 28, 1949, Warriston, Edinburgh
+p788
+aVNovember 20, 1949, Aberdeen
+p789
+aVApril 14, 1952, Dundee
+p790
+aVOctober 2, 1954, Dumbarton
+p791
+aVDecember 27, 1949, Liverpool
+p792
+aVMay 23, 1950, Edinburgh
+p793
+aVApril 19, 1949, Aberdeen
+p794
+aVDecember 11, 1949, Hawick
+p795
+aVNovember 6, 1951, Hawick
+p796
+aVJanuary 7, 1954, Teddington, Mx
+p797
+aVNovember 22, 1947, Penicuik
+p798
+aVMay 3, 1954, Dechmont
+p799
+aVSeptember 25, 1951, Durban
+p800
+aVDecember 29, 1952, Edinburgh
+p801
+aVFebruary 1, 1948, Bridlington
+p802
+aVNovember 29, 1950, ?
+p803
+aVMay 3, 1955, Hawick
+p804
+aVMarch 2, 1948, Hawick
+p805
+aVNovember 14, 1956, Consett
+p806
+aVMarch 28, 1953, Kilmarnock
+p807
+aVJanuary 4, 1953, Musselburgh
+p808
+aVDecember 10, 1954, Galashiels
+p809
+aVDecember 5, 1954, Hawick
+p810
+aVApril 13, 1954, Edinburgh
+p811
+aVOctober 4, 1955, Selkirk
+p812
+aVJune 17, 1958, Edinburgh
+p813
+aVOctober 20, 1958, Edinburgh
+p814
+aVNovember 27, 1957, North Borneo
+p815
+aVJuly 12, 1947, Kilmarnock
+p816
+aVDecember 6, 1949, Kilwinning
+p817
+aVOctober 5, 1953, Jedburgh
+p818
+aVJune 11, 1958, Ayr
+p819
+aVJuly 31, 1951, Gala
+p820
+aVMay 5, 1951, ?
+p821
+aVSeptember 17, 1951, Edinburgh
+p822
+aVSeptember 25, 1955
+p823
+aVAugust 20, 1957, Haddington
+p824
+aVDecember 29, 1957, Dunfermline
+p825
+aVApril 12, 1960, Kelso
+p826
+aVApril 4, 1957, ?
+p827
+aVJanuary 30, 1958, Haddington
+p828
+aVNovember 16, 1958, ?
+p829
+aVMarch 16, 1958, Lahore
+p830
+aVSeptember 14, 1953, Glasgow
+p831
+aVJanuary 6, 1958, Galashiels
+p832
+aVAugust 31, 1953, MacMerry, E Lothian
+p833
+aVJuly 30, 1954, Edinburgh
+p834
+aVJanuary 1, 1959, Hawick
+p835
+aVAugust 7, 1958, Hawick
+p836
+aVJuly 5, 1959, Kelso
+p837
+aVMay 8, 1962
+p838
+aVMarch 25, 1959, Kelso
+p839
+aVJuly 9, 1956, Inverness
+p840
+aVJuly 4, 1959, Kilwinning
+p841
+aVMay 20, 1963, Edinburgh
+p842
+aVMarch 23, 1962, Hawick
+p843
+aVMarch 5, 1961, Edinburgh
+p844
+aVAugust 20, 1957, Haddington
+p845
+aVFebruary 21, 1959, Gibraltar
+p846
+aVAugust 29, 1959, Glasgow
+p847
+aVJanuary 3, 1962, Edinburgh
+p848
+aVDecember 4, 1964, Edinburgh
+p849
+aVMay 8, 1962, Aylesbury
+p850
+aVJuly 2, 1964, Kelso
+p851
+aVSeptember 12, 1964, Hawick
+p852
+aVSeptember 7, 1963, Falkirk
+p853
+aVOctober 2, 1961, Hawick
+p854
+aVApril 17, 1963, Wegberg
+p855
+aVOctober 16, 1954, Kelso
+p856
+aVSeptember 30, 1966, Edinburgh
+p857
+aVMay 23, 1960, Glasgow
+p858
+aVOctober 15, 1968, Galashiels
+p859
+aVJuly 11, 1960, Haddington
+p860
+aVDecember 25, 1961, Auckland
+p861
+aVDecember 1, 1961, Edinburgh
+p862
+aVSeptember 29, 1965, Edinburgh
+p863
+aVMay 14, 1968, Hawick
+p864
+aVJuly 20, 1964, Edinburgh
+p865
+aVDecember 24, 1960, Hawick
+p866
+aVNovember 25, 1963, Glasgow
+p867
+aVAugust 19, 1963, Ipswich, QLD
+p868
+aVJuly 4, 1970, Edinburgh
+p869
+aVDecember 7, 1958, Edinburgh
+p870
+aVJuly 10, 1967, Glasgow
+p871
+aVAugust 13, 1970, Galashiels
+p872
+aVAugust 20, 1964, Carshalton, Surrey
+p873
+aVJune 29, 1964, Kirkcaldy
+p874
+aVMarch 12, 1971, Dundee
+p875
+aVMarch 16, 1965, Gloucester
+p876
+aVMarch 22, 1965, Perth
+p877
+aVDecember 28, 1963, Arbroath
+p878
+aVJuly 5, 1969, Galashiels
+p879
+aVDecember 30, 1967, Bonnyrigg
+p880
+aVMay 11, 1963, Edinburgh
+p881
+aVApril 3, 1972, Stirling
+p882
+aVJuly 5, 1966, Falkirk
+p883
+aVDecember 14, 1962, Linlithgow
+p884
+aVMay 4, 1969, St Austell, Cornwall
+p885
+aVApril 13, 1966, Johnstone
+p886
+aVApril 26, 1973, Edinburgh
+p887
+aVOctober 20, 1964, Dunfermline
+p888
+aVJanuary 17, 1966, Nairn
+p889
+aVJuly 2, 1971, Galashiels
+p890
+aVNovember 19, 1966, Paisley
+p891
+aVOctober 17, 1969, Bristol
+p892
+aVJune 3, 1969, Alnwick
+p893
+aVDecember 30, 1968, Galashiels
+p894
+aVApril 21, 1974, Glasgow
+p895
+aVJanuary 22, 1968, Stirling
+p896
+aVJune 18, 1970, Selkirk
+p897
+aVJuly 6, 1968, Hawick
+p898
+aVSeptember 7, 1963, Crawley
+p899
+aVApril 25, 1972, Glasgow
+p900
+aVApril 3, 1970, Bristol
+p901
+aVJanuary 28, 1969, Glasgow
+p902
+aVJune 22, 1968, Bridge of Allan
+p903
+aVAugust 8, 1964, Hawick
+p904
+aVJanuary 31, 1970, Kendal
+p905
+aVDecember 25, 1970, Edinburgh
+p906
+aVApril 22, 1972, Athlone
+p907
+aVJune 3, 1975, Edinburgh
+p908
+aVOctober 13, 1967, Milton of Campsie
+p909
+aVMay 18, 1973, Dartford
+p910
+aVApril 6, 1965, Hawick
+p911
+aVOctober 31, 1971, London
+p912
+aVFebruary 24, 1966, Bridge of Allan
+p913
+aVAugust 18, 1974, Dumfries
+p914
+aVMarch 2, 1977, Glasgow
+p915
+aVDecember 28, 1968, Chingola
+p916
+aVJanuary 15, 1976, Musselburgh
+p917
+aVApril 14, 1970, Edinburgh
+p918
+aVJanuary 19, 1966, Stirling
+p919
+aVApril 4, 1974, Aberdeen
+p920
+aVMarch 26, 1975, Glasgow
+p921
+aVDecember 12, 1966, Workington
+p922
+aVOctober 1, 1973, Ayr
+p923
+aVJanuary 3, 1972, Wellington
+p924
+aVMarch 31, 1975, Hawick
+p925
+aVSeptember 13, 1974, Edinburgh
+p926
+aVNovember 13, 1969, Glasgow
+p927
+aVJanuary 30, 1972, Klerksdorp
+p928
+aVApril 15, 1970, Auckland
+p929
+aVSeptember 21, 1971, Takapuna
+p930
+aVNovember 25, 1970, Lower Hutt
+p931
+aVApril 16, 1977, Edinburgh
+p932
+aVNovember 13, 1973, Southampton
+p933
+aVOctober 25, 1971, Lower Hutt
+p934
+aVAugust 29, 1973, Kelso
+p935
+aVOctober 29, 1971, Edinburgh
+p936
+aVApril 16, 1971, Duns
+p937
+aVJuly 28, 1972, Stirling
+p938
+aVMay 1, 1976, Brisbane, QLD
+p939
+aVAugust 20, 1972, Christchurch
+p940
+aVMarch 30, 1978, Edinburgh
+p941
+aVSeptember 25, 1973, Aberdeen
+p942
+aVNovember 21, 1973, Leeds
+p943
+aVApril 17, 1978, Edinburgh
+p944
+aVNovember 15, 1977, Sittingbourne
+p945
+aVApril 25, 1976, Edinburgh
+p946
+aVOctober 19, 1976, Dundee
+p947
+aVFebruary 17, 1976, Edinburgh
+p948
+aVNovember 29, 1976, Wagga Wagga
+p949
+aVJuly 26, 1974, Galashiels
+p950
+aVJuly 7, 1977, Glasgow
+p951
+aVMarch 14, 1980, Middlesbrough
+p952
+aVAugust 17, 1979, Stirling
+p953
+aVFebruary 3, 1980, Chatham, Kent
+p954
+aVSeptember 9, 1975, Sydney, NSW
+p955
+aVMarch 8, 1978, Edinburgh
+p956
+aVSeptember 13, 1978, Middleberg
+p957
+aVNovember 16, 1973, Invercargill
+p958
+aVApril 20, 1981, Edinburgh
+p959
+aVMarch 16, 1976, St Helens, Lancs
+p960
+aVDecember 20, 1979, Glasgow
+p961
+aVAugust 30, 1978, Fulford, York
+p962
+aVMarch 22, 1977, Melbourne, VIC
+p963
+aVSeptember 22, 1978, Edinburgh
+p964
+aVOctober 11, 1979, Edinburgh
+p965
+aVMarch 31, 1978, Edinburgh
+p966
+aVJune 5, 1979, Solihull
+p967
+aVFebruary 10, 1980, Edinburgh
+p968
+aVAugust 18, 1977, Edinburgh
+p969
+aVMarch 5, 1982, Aberdeen
+p970
+aVApril 3, 1977, Newcastle-upon-Tyne
+p971
+aVJuly 17, 1976, Edinburgh
+p972
+aVSeptember 8, 1979, Edinburgh
+p973
+aVJuly 22, 1977, Edinburgh
+p974
+aVSeptember 24, 1980, Dingwall
+p975
+aVMarch 8, 1981, Hartlepool
+p976
+aVJune 13, 1982, Aberdeen
+p977
+aVJanuary 20, 1983, Stirling
+p978
+aVJune 25, 1983, Edinburgh
+p979
+aVMay 26, 1978, Hornsby
+p980
+aVJanuary 15, 1981, Perth
+p981
+aVMay 14, 1980, London
+p982
+aVOctober 17, 1982
+p983
+aVSeptember 1, 1979, Dumfries
+p984
+aVFebruary 25, 1978, Salisbury, Rhodesia
+p985
+aVMarch 3, 1979, Hawick
+p986
+aVApril 23, 1984, Edinburgh
+p987
+aVJune 14, 1981, Bishopbriggs
+p988
+aVApril 4, 1980, Wegberg
+p989
+aVOctober 10, 1982, Perth
+p990
+aVJune 8, 1982, Edinburgh
+p991
+aVSeptember 28, 1981, Lanark
+p992
+aVMay 20, 1982, Edinburgh
+p993
+aVAugust 7, 1980, Glasgow
+p994
+aVDecember 9, 1980, Fort Brown
+p995
+aVMay 25, 1977, Sydney, NSW
+p996
+aVFebruary 15, 1979
+p997
+aVNovember 21, 1985, Glasgow
+p998
+aVOctober 19, 1983, Marlborough
+p999
+aVFebruary 15, 1983, Edinburgh
+p1000
+aVNovember 17, 1982, Swindon
+p1001
+aVMarch 12, 1981, Dunfermline
+p1002
+aVFebruary 21, 1983, Paisley
+p1003
+aVOctober 18, 1983, Dundee
+p1004
+aVSeptember 24, 1986
+p1005
+aVSeptember 11, 1983, Dundee
+p1006
+aVFebruary 1, 1984, Dumfries
+p1007
+aVMarch 29, 1986, Edinburgh
+p1008
+aVSeptember 29, 1985, Leeds
+p1009
+aVApril 2, 1985, Harare
+p1010
+aVFebruary 2, 1977, Christchurch
+p1011
+aVSeptember 28, 1983, Torquay
+p1012
+aVDecember 11, 1982, Edinburgh
+p1013
+aVNovember 28, 1984, Torphins
+p1014
+aVNovember 30, 1987, Solihull
+p1015
+aVFebruary 27, 1986, Farnborough
+p1016
+aVJuly 7, 1987, Dundee
+p1017
+aVOctober 21, 1985, Edinburgh
+p1018
+aVAugust 24, 1989, Rutherglen
+p1019
+aVFebruary 12, 1988, Northampton
+p1020
+aVOctober 12, 1985, Edinburgh
+p1021
+aVOctober 29, 1985, Glasgow
+p1022
+aVSeptember 3, 1987, Bristol
+p1023
+aVFebruary 5, 1990, Marondera
+p1024
+aVJune 28, 1988, Edinburgh
+p1025
+aVJune 24, 1992, Melrose
+p1026
+aVDecember 7, 1982, Plymouth
+p1027
+aVMay 10, 1991, Rutherglen
+p1028
+aVSeptember 30, 1990, Dunfermline
+p1029
+aVOctober 13, 1986, Glasgow
+p1030
+aVOctober 8, 1985, Kirkcaldy
+p1031
+aVMarch 31, 1990, Edinburgh
+p1032
+aVMay 29, 1987, Zeewolde, Netherland
+p1033
+aVFebruary 21, 1985, Nottingham
+p1034
+aVMay 26, 1990, Crewe, Cheshire
+p1035
+aVJuly 9, 1989, Dorchester
+p1036
+aVFebruary 11, 1992, Inverness
+p1037
+aVSeptember 14, 1988, Tokoroa
+p1038
+aVMay 18, 1989, Aldershot
+p1039
+aVAugust 9, 1990, Stirling
+p1040
+aVApril 23, 1990, Dumfries
+p1041
+aVApril 27, 1987, Irvine
+p1042
+aVMay 20, 1989, Pretoria
+p1043
+aVOctober 5, 1989, Kirkcaldy
+p1044
+aVFebruary 22, 1984, Edinburgh
+p1045
+aVSeptember 5, 1989, Northampton
+p1046
+aVJanuary 7, 1986, Carlisle
+p1047
+aVJuly 1, 1988, Nashville, TN, United States
+p1048
+aVFebruary 17, 1987, London
+p1049
+aVJune 20, 1989, Lanark
+p1050
+aVMarch 14, 1994, Glasgow
+p1051
+aVJanuary 27, 1991, Chichester
+p1052
+aVJuly 21, 1989, Kirkcaldy
+p1053
+aVAugust 8, 1990, Edinburgh
+p1054
+aVApril 21, 1986, Upper Hutt
+p1055
+aVMarch 4, 1987, Irvine
+p1056
+aVSeptember 23, 1992, Bridge of Allan
+p1057
+aVFebruary 28, 1992, Harrogate
+p1058
+aVSeptember 7, 1988, Alloa
+p1059
+aVJune 19, 1988, Auckland
+p1060
+aVJuly 24, 1993, Livingston
+p1061
+aVApril 15, 1986, Johannesburg
+p1062
+aVFebruary 3, 1993, Cumnock
+p1063
+aVAugust 4, 1993, Granada
+p1064
+aVMarch 31, 1992, Brisbane, QLD
+p1065
+aVOctober 15, 1991, Manchester
+p1066
+aVSeptember 10, 1992, Tauranga
+p1067
+aVNovember 7, 1984, Doncaster
+p1068
+aVJuly 27, 1988, Lumsden
+p1069
+aVMarch 4, 1993
+p1070
+aVAugust 9, 1990, Edinburgh
+p1071
+aVJanuary 11, 1994, Edinburgh
+p1072
+aVApril 30, 1986, Loriesfontein
+p1073
+aVOctober 23, 1986, Bellville
+p1074
+aVJanuary 19, 1996, Perth
+p1075
 a.

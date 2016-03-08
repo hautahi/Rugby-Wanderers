@@ -903,4 +903,880 @@ aS'Thomas Baxter'
 p452
 aS'Len Diett'
 p453
+aS'Peter Johnson'
+p454
+aS'Bob Outterside'
+p455
+aS'Ken Catchpole'
+p456
+aS'Mike Cleary'
+p457
+aS'John Dowse'
+p458
+aS'Ted Heinrich'
+p459
+aS'Jimmy Lisle'
+p460
+aS'Graeme Macdougall'
+p461
+aS'Ted Magrath'
+p462
+aS"John O'Gorman"
+p463
+aS'Terry Reid'
+p464
+aS'Harry Roberts'
+p465
+aS'Dick Thornett'
+p466
+aS'Rob Heming'
+p467
+aS'Robert Potter'
+p468
+aS'Art Turnbull'
+p469
+aS'Stewart Boyce'
+p470
+aS'Lloyd McDermott'
+p471
+aS'Jim Miller'
+p472
+aS'Paul Perrin'
+p473
+aS'Peter Scott'
+p474
+aS'Norm Storey'
+p475
+aS'Jim Boyce'
+p476
+aS'Geoff Chapman'
+p477
+aS'James Douglas'
+p478
+aS'John Freedman'
+p479
+aS'Phil Hawthorne'
+p480
+aS'Ken McMullen'
+p481
+aS'Keith Walsham'
+p482
+aS'Peter Crittle'
+p483
+aS'Dick Marks'
+p484
+aS'Les Austin'
+p485
+aS'Greg Davis'
+p486
+aS'Peter Jones'
+p487
+aS'Peter Ryan'
+p488
+aS'John Williams'
+p489
+aS'Terry Casey'
+p490
+aS'Jules Guerassimoff'
+p491
+aS'Ian Moutray'
+p492
+aS'Bob Honan'
+p493
+aS"Dallas O'Neill"
+p494
+aS'David Grimmond'
+p495
+aS'David Shepherd'
+p496
+aS'Alan Cardy'
+p497
+aS'George Ruebner'
+p498
+aS'Ric Trivett'
+p499
+aS'John Brass'
+p500
+aS'Michael Purcell'
+p501
+aS'Ross Teitzel'
+p502
+aS'Paul Gibbs'
+p503
+aS'Roy Prosser'
+p504
+aS'Richard How'
+p505
+aS'Hugh Rose'
+p506
+aS'Tony Abrahams'
+p507
+aS'Rod Batterham'
+p508
+aS'Russell Manning'
+p509
+aS'Ian Proctor'
+p510
+aS'Jeff Sayle'
+p511
+aS'Phil Smith'
+p512
+aS'John Ballesty'
+p513
+aS'John Cole'
+p514
+aS'Arthur McGill'
+p515
+aS'Norman Reilly'
+p516
+aS'Jim Roxburgh'
+p517
+aS'David Taylor'
+p518
+aS'John Hipwell'
+p519
+aS'Barry Honan'
+p520
+aS'Stuart Gregory'
+p521
+aS'Alex Pope'
+p522
+aS'Terry Forman'
+p523
+aS'Ross Turnbull'
+p524
+aS'Keith Bell'
+p525
+aS'Paul Darveniza'
+p526
+aS'Geoff Shaw'
+p527
+aS'Alan Skinner'
+p528
+aS'Owen Butler'
+p529
+aS'Rupert Rosenblum'
+p530
+aS'Bruce Taafe'
+p531
+aS'Rod Kelleher'
+p532
+aS'Steve Knight'
+p533
+aS'Barry McDonald'
+p534
+aS'Jake Howard'
+p535
+aS'Bob McLean'
+p536
+aS'Geoff Richardson'
+p537
+aS'Reginald Smith'
+p538
+aS'Peter Sullivan'
+p539
+aS'John Taylor'
+p540
+aS'Garrick Fay'
+p541
+aS'Jeff McLean'
+p542
+aS'Mick Barry'
+p543
+aS'Stuart Macdougall'
+p544
+aS'Robert Thompson'
+p545
+aS'David Dunworth'
+p546
+aS'Russell Fairfax'
+p547
+aS"Rex l'Estrange"
+p548
+aS'Dave Burnet'
+p549
+aS'Dick Cocks'
+p550
+aS'David Rathie'
+p551
+aS'Gary Grey'
+p552
+aS'Bruce Brown'
+p553
+aS'Mick Freney'
+p554
+aS'Tony Gelling'
+p555
+aS'Barry Stumbles'
+p556
+aS'John Cornes'
+p557
+aS'Peter Rowles'
+p558
+aS'Robert Wood'
+p559
+aS'Ron Graham'
+p560
+aS'Mark Loane'
+p561
+aS'Trevor Stegman'
+p562
+aS'Owen Stephens'
+p563
+aS'Chris Carberry'
+p564
+aS'Eric Tindall'
+p565
+aS'Tony Shaw'
+p566
+aS'Bruce Battishall'
+p567
+aS'Laurie Monaghan'
+p568
+aS'Roger Davis'
+p569
+aS'Peter Horton'
+p570
+aS'John Lambie'
+p571
+aS'Paul McLean'
+p572
+aS'John Meadows'
+p573
+aS'Ray Price'
+p574
+aS'Greg Cornelsen'
+p575
+aS'Bob Brown'
+p576
+aS'Steve Finnane'
+p577
+aS'Douglas Osborne'
+p578
+aS'John Weatherstone'
+p579
+aS'Ken Wright'
+p580
+aS'Ian Robertson'
+p581
+aS'Rod Hauser'
+p582
+aS'Jim Hindmarsh'
+p583
+aS'Brian Mansfield'
+p584
+aS'John Ryan'
+p585
+aS'Paddy Batch'
+p586
+aS'John Berne'
+p587
+aS'Spider Hillhouse'
+p588
+aS'Gary Pearse'
+p589
+aS'Bill McKid'
+p590
+aS'Gregory Shambrook'
+p591
+aS'Mick Ellem'
+p592
+aS'Phil Crowe'
+p593
+aS'Martin Knight'
+p594
+aS'Stan Pilecki'
+p595
+aS'Andrew Slack'
+p596
+aS'Peter McLean'
+p597
+aS'Steve Streeter'
+p598
+aS'Brendan Moon'
+p599
+aS'Geoff Richards'
+p600
+aS'Buddha Handy'
+p601
+aS'Tony Melrose'
+p602
+aS'Bruce Cooke'
+p603
+aS'Bill Ross'
+p604
+aS'Keith Besomo'
+p605
+aS'Peter Carson'
+p606
+aS'Andy Stewart'
+p607
+aS'Phillip Cox'
+p608
+aS"Michael O'Connor"
+p609
+aS"Tony D'Arcy"
+p610
+aS'Duncan Hall'
+p611
+aS'Mike Hawker'
+p612
+aS'Mick Martin'
+p613
+aS'Mick Mathers'
+p614
+aS'Simon Poidevin'
+p615
+aS'Steve Williams'
+p616
+aS'Mark Ella'
+p617
+aS'Roger Gould'
+p618
+aS'Declan Curran'
+p619
+aS'Peter Grigg'
+p620
+aS'Mitchell Cox'
+p621
+aS'Glen Ella'
+p622
+aS'Chris Roche'
+p623
+aS'David Campese'
+p624
+aS'John Coolican'
+p625
+aS'Gary Ella'
+p626
+aS'Peter Lucas'
+p627
+aS'Andy McIntyre'
+p628
+aS'Bruce Malouf'
+p629
+aS'Lance Walker'
+p630
+aS'Steve Cutler'
+p631
+aS'Phil Clements'
+p632
+aS'Dominic Vaughan'
+p633
+aS'Ross Hanley'
+p634
+aS'David Codey'
+p635
+aS'Tony Parker'
+p636
+aS'Mark Harding'
+p637
+aS'Mark McBain'
+p638
+aS'Steve Tuynman'
+p639
+aS'Tom Lawton'
+p640
+aS'Bill Campbell'
+p641
+aS'Nigel Holt'
+p642
+aS'Michael Lynagh'
+p643
+aS'Ross Reynolds'
+p644
+aS'Topo Rodriguez'
+p645
+aS'Nick Farr-Jones'
+p646
+aS'Matthew Burke'
+p647
+aS'James Black'
+p648
+aS'Bill Calcraft'
+p649
+aS'Nigel Kassulke'
+p650
+aS'Tim Lane'
+p651
+aS'David Knox'
+p652
+aS'Brett Papworth'
+p653
+aS'Cameron Lillicrap'
+p654
+aS'Michael Cook'
+p655
+aS'Damien Frawley'
+p656
+aS'Mark Hartill'
+p657
+aS'Jeff Miller'
+p658
+aS'Andrew Leeds'
+p659
+aS'Brian Smith'
+p660
+aS'Anthony Herbert'
+p661
+aS'Steve James'
+p662
+aS'Troy Coker'
+p663
+aS'Steve Lidbury'
+p664
+aS'Ian Williams'
+p665
+aS'Julian Gardner'
+p666
+aS'David Carter'
+p667
+aS'James Grant'
+p668
+aS'Rob Lawton'
+p669
+aS'Peter Kay'
+p670
+aS'Tim Gavin'
+p671
+aS'Lloyd Walker'
+p672
+aS'Brad Girvan'
+p673
+aS'Scott Gourley'
+p674
+aS'Acura Niuqila'
+p675
+aS'Brad Burke'
+p676
+aS'Dan Crowley'
+p677
+aS'Dominic Maguire'
+p678
+aS'Greg Martin'
+p679
+aS'Tony Daly'
+p680
+aS'Tim Horan'
+p681
+aS'Phil Kearns'
+p682
+aS'Peter FitzSimons'
+p683
+aS'Jason Little'
+p684
+aS'Rod McCall'
+p685
+aS'Brendon Nasser'
+p686
+aS'Darren Junee'
+p687
+aS'Paul Carozza'
+p688
+aS'Ewen McKenzie'
+p689
+aS'Paul Cornish'
+p690
+aS'Sam Scott-Young'
+p691
+aS'John Flett'
+p692
+aS'Peter Slattery'
+p693
+aS'Willie Ofahengaue'
+p694
+aS'John Eales'
+p695
+aS'Bob Egerton'
+p696
+aS'Marty Roebuck'
+p697
+aS'David Nucifora'
+p698
+aS'Richard Tombs'
+p699
+aS'David Wilson'
+p700
+aS'Peter Jorgensen'
+p701
+aS'Tim Kelaher'
+p702
+aS'Garrick Morgan'
+p703
+aS'Paul Kahl'
+p704
+aS'Brett Johnstone'
+p705
+aS'Pat Howard'
+p706
+aS'Scott Bowen'
+p707
+aS'Damian Smith'
+p708
+aS'Warwick Waugh'
+p709
+aS'Ilie Tabua Tamanivalu'
+p710
+aS'Matt Burke'
+p711
+aS'Alistair Murdoch'
+p712
+aS'Mike Brial'
+p713
+aS"Matt O'Connor"
+p714
+aS'Matt Pini'
+p715
+aS'Dan Herbert'
+p716
+aS'Ryan Constable'
+p717
+aS'George Gregan'
+p718
+aS'Tim Wallace'
+p719
+aS'Joe Roff'
+p720
+aS'Michael Foley'
+p721
+aS'Daniel Manu'
+p722
+aS'Steve Merrick'
+p723
+aS'Marco Caputo'
+p724
+aS'Owen Finegan'
+p725
+aS'Richard Harry'
+p726
+aS'Sam Payne'
+p727
+aS'Ben Tune'
+p728
+aS'Stephen Larkham'
+p729
+aS'Mark Bell'
+p730
+aS'Andrew Heath'
+p731
+aS'John Welborn'
+p732
+aS'Brett Robinson'
+p733
+aS'Andrew Blades'
+p734
+aS'David Giffin'
+p735
+aS'Mitch Hardy'
+p736
+aS'Matt Cockbain'
+p737
+aS'James Holbeck'
+p738
+aS'Cameron Blades'
+p739
+aS'Fili Finau'
+p740
+aS'John Langford'
+p741
+aS'Toutai Kefu'
+p742
+aS'Elton Flatley'
+p743
+aS'Tom Bowman'
+p744
+aS'Jeremy Paul'
+p745
+aS'Nathan Grey'
+p746
+aS'Glenn Panoho'
+p747
+aS'Chris Whitaker'
+p748
+aS'Manny Edmonds'
+p749
+aS'Chris Latham'
+p750
+aS'Patricio Noriega'
+p751
+aS'Nathan Spooner'
+p752
+aS'Tiaan Strauss'
+p753
+aS'Jim Williams'
+p754
+aS'Mark Connors'
+p755
+aS'Rod Kafer'
+p756
+aS'Rod Moore'
+p757
+aS'Scott Staniforth'
+p758
+aS'Fletcher Dyson'
+p759
+aS'Stirling Mortlock'
+p760
+aS'Sam Cordingley'
+p761
+aS'David Lyons'
+p762
+aS'Troy Jaques'
+p763
+aS'Andrew Walker'
+p764
+aS'George Smith'
+p765
+aS'Bill Young'
+p766
+aS'Phil Waugh'
+p767
+aS'Nick Stiles'
+p768
+aS'Ben Darwin'
+p769
+aS'Brendan Cannon'
+p770
+aS'Justin Harrison'
+p771
+aS'Graeme Bond'
+p772
+aS'Steve Kefu'
+p773
+aS'Wendell Sailor'
+p774
+aS'Nathan Sharpe'
+p775
+aS'Mat Rogers'
+p776
+aS'Sean Hardman'
+p777
+aS'Dan Vickerman'
+p778
+aS'David Croft'
+p779
+aS'Adam Freier'
+p780
+aS'Matt Giteau'
+p781
+aS'Mark Bartholomeusz'
+p782
+aS'Morgan Turinui'
+p783
+aS'Lote Tuqiri'
+p784
+aS'Daniel Heenan'
+p785
+aS'Al Baxter'
+p786
+aS'Matt Dunning'
+p787
+aS'John Roe'
+p788
+aS'Clyde Rathbone'
+p789
+aS'Radike Samo'
+p790
+aS'Matt Henjak'
+p791
+aS'Nic Henderson'
+p792
+aS'Mark Chisholm'
+p793
+aS'Stephen Hoiles'
+p794
+aS'Rocky Elsom'
+p795
+aS'Hugh McMeniman'
+p796
+aS'Stephen Moore'
+p797
+aS'Mark Gerrard'
+p798
+aS'Alister Campbell'
+p799
+aS'Drew Mitchell'
+p800
+aS'Adam Ashley-Cooper'
+p801
+aS'Lloyd Johansson'
+p802
+aS'Alex Kanaar'
+p803
+aS'Lachie Mackay'
+p804
+aS'Greg Holmes'
+p805
+aS'Scott Fava'
+p806
+aS'Tatafu Polota-Nau'
+p807
+aS'David Fitter'
+p808
+aS'Rodney Blake'
+p809
+aS'Tai McIsaac'
+p810
+aS'Cameron Shepherd'
+p811
+aS'Josh Valentine'
+p812
+aS'Wycliff Palu'
+p813
+aS'Guy Shepherdson'
+p814
+aS'Benn Robinson'
+p815
+aS'Brett Sheehan'
+p816
+aS'Julian Huxley'
+p817
+aS'Sam Norton-Knight'
+p818
+aS'Digby Ioane'
+p819
+aS'James Horwill'
+p820
+aS'Berrick Barnes'
+p821
+aS'Luke Burgess'
+p822
+aS'Peter Hynes'
+p823
+aS'Dean Mumm'
+p824
+aS'Ben Alexander'
+p825
+aS'Ryan Cross'
+p826
+aS'Lachie Turner'
+p827
+aS'Timana Tahu'
+p828
+aS'Richard Brown'
+p829
+aS'David Pocock'
+p830
+aS'Quade Cooper'
+p831
+aS'Sekope Kepu'
+p832
+aS"James O'Connor"
+p833
+aS'Peter Kimlin'
+p834
+aS'Pek Cowan'
+p835
+aS'Will Genia'
+p836
+aS'Kurtley Beale'
+p837
+aS'Huia Edmonds'
+p838
+aS'Rob Horne'
+p839
+aS"Salesi Ma'afu"
+p840
+aS"Saia Fainga'a"
+p841
+aS'Matt Hodgson'
+p842
+aS'Ben Daley'
+p843
+aS'James Slipper'
+p844
+aS'Ben McCalman'
+p845
+aS'Rob Simmons'
+p846
+aS"Anthony Fainga'a"
+p847
+aS'Pat McCabe'
+p848
+aS'Scott Higginbotham'
+p849
+aS'Rod Davies'
+p850
+aS'Nick Phipps'
+p851
+aS'Sitaleki Timani'
+p852
+aS'Beau Robinson'
+p853
+aS'Ben Tapuai'
+p854
+aS'Dave Dennis'
+p855
+aS'Mike Harris'
+p856
+aS'Luke Morahan'
+p857
+aS'Dan Palmer'
+p858
+aS'Joe Tomane'
+p859
+aS'Michael Hooper'
+p860
+aS'Cooper Vuna'
+p861
+aS'Liam Gill'
+p862
+aS'Dom Shipperley'
+p863
+aS'Kane Douglas'
+p864
+aS'Nick Cummins'
+p865
+aS'James Hanson'
+p866
+aS'Paddy Ryan'
+p867
+aS'Israel Folau'
+p868
+aS"Christian Leali'ifano"
+p869
+aS'Ben Mowen'
+p870
+aS'Jesse Mogg'
+p871
+aS'Matt Toomua'
+p872
+aS'Scott Fardy'
+p873
+aS'Tevita Kuridrani'
+p874
+aS'Scott Sio'
+p875
+aS'Nic White'
+p876
+aS'Chris Feauai-Sautia'
+p877
+aS'Bernard Foley'
+p878
+aS'Peter Betham'
+p879
+aS'Sam Carter'
+p880
+aS'Nathan Charles'
+p881
+aS'Luke Jones'
+p882
+aS'Laurie Weeks'
+p883
+aS'Will Skelton'
+p884
+aS'Josh Mann-Rea'
+p885
+aS'Jake Schatz'
+p886
+aS'Sean McMahon'
+p887
+aS'Tetera Faulkner'
+p888
+aS'Henry Speight'
+p889
+aS'Taqele Naiyaravoro'
+p890
+aS'Toby Smith'
+p891
 a.

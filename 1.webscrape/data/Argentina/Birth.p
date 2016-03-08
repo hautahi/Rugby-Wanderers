@@ -885,4 +885,768 @@ aVdate unknown
 p443
 aVdate unknown
 p444
+aVApril 29, 1968, Buenos Aires
+p445
+aVcirca 1964
+p446
+aVJuly 28, 1959, Buenos Aires
+p447
+aVFebruary 5, 1968
+p448
+aVdate unknown
+p449
+aVJanuary 11, 1965, Buenos Aires
+p450
+aVOctober 13, 1965, San Miguel de Tucuma
+p451
+aVMay 27, 1968, Junin
+p452
+aVJune 23, 1967
+p453
+aVAugust 2, 1972, Mendoza
+p454
+aVJanuary 2, 1971, Buenos Aires
+p455
+aVSeptember 29, 1971, Buenos Aires
+p456
+aVDecember 19, 1970, Buenos Aires
+p457
+aVdate unknown
+p458
+aVDecember 14, 1963, Rosario
+p459
+aVMay 21, 1963, San Miguel de Tucuma
+p460
+aVJuly 25, 1969, San Miguel de Tucuma
+p461
+aVdate unknown
+p462
+aVdate unknown
+p463
+aVdate unknown
+p464
+aVdate unknown
+p465
+aVdate unknown
+p466
+aVdate unknown
+p467
+aVdate unknown
+p468
+aVdate unknown
+p469
+aVdate unknown
+p470
+aVNovember 1, 1968, Rosario
+p471
+aVOctober 26, 1970, Buenos Aires
+p472
+aVOctober 2, 1965
+p473
+aVdate unknown
+p474
+aVdate unknown
+p475
+aVOctober 22, 1971, Buenos Aires
+p476
+aVdate unknown
+p477
+aVOctober 19, 1967, Buenos Aires
+p478
+aVAugust 9, 1962, Buenos Aires
+p479
+aVOctober 5, 1971, Mendoza
+p480
+aVSeptember 10, 1970, Buenos Aires
+p481
+aVJuly 2, 1965, Buenos Aires
+p482
+aVdate unknown
+p483
+aVdate unknown
+p484
+aVdate unknown
+p485
+aVMay 30, 1971
+p486
+aVJanuary 23, 1971
+p487
+aVdate unknown
+p488
+aVJuly 16, 1970, Buenos Aires
+p489
+aVMay 22, 1969
+p490
+aVdate unknown
+p491
+aVdate unknown
+p492
+aVAugust 10, 1968, Buenos Aires
+p493
+aVdate unknown
+p494
+aVNovember 4, 1967, Buenos Aires
+p495
+aVdate unknown
+p496
+aVdate unknown
+p497
+aVAugust 10, 1970, Cordoba
+p498
+aVdate unknown
+p499
+aVdate unknown
+p500
+aVNovember 25, 1972, Buenos Aires
+p501
+aVSeptember 23, 1968, Maryland, United States
+p502
+aVdate unknown
+p503
+aVOctober 30, 1970
+p504
+aVDecember 28, 1972, Buenos Aires
+p505
+aVSeptember 17, 1973, Mar del Plata
+p506
+aVJune 27, 1969, Rosario
+p507
+aVApril 21, 1971, Tucuman
+p508
+aVdate unknown
+p509
+aVJanuary 16, 1971, Rosario
+p510
+aVAugust 22, 1974, Buenos Aires
+p511
+aVApril 17, 1973, Rosario
+p512
+aVNovember 8, 1971
+p513
+aVdate unknown
+p514
+aVOctober 9, 1967
+p515
+aVdate unknown
+p516
+aVMay 9, 1973, Rosario
+p517
+aVJanuary 24, 1971
+p518
+aVFebruary 22, 1970, Bragado
+p519
+aVdate unknown
+p520
+aVMay 4, 1973, Cordoba
+p521
+aVMay 4, 1973
+p522
+aVMarch 8, 1975, Rosario
+p523
+aVNovember 20, 1974, Buenos Aires
+p524
+aVNovember 3, 1974, Rosario
+p525
+aVNovember 30, 1968
+p526
+aVMay 2, 1974, Buenos Aires
+p527
+aVFebruary 5, 1976, Buenos Aires
+p528
+aVOctober 16, 1974, Buenos Aires
+p529
+aVApril 6, 1974, Buenos Aires
+p530
+aVNovember 11, 1973
+p531
+aVJanuary 12, 1972
+p532
+aVJanuary 3, 1973, Buenos Aires
+p533
+aVMay 17, 1973, Buenos Aires
+p534
+aVApril 26, 1976, Rosario
+p535
+aVJanuary 14, 1976
+p536
+aVOctober 13, 1974, Rosario
+p537
+aVJanuary 10, 1975, Mendoza
+p538
+aVdate unknown
+p539
+aVdate unknown
+p540
+aVDecember 11, 1976, Cordoba
+p541
+aVdate unknown
+p542
+aVdate unknown
+p543
+aVdate unknown
+p544
+aVNovember 15, 1974, Salta
+p545
+aVdate unknown
+p546
+aVdate unknown
+p547
+aVdate unknown
+p548
+aVdate unknown
+p549
+aVdate unknown
+p550
+aVOctober 10, 1973, La Prida
+p551
+aVdate unknown
+p552
+aVJuly 2, 1972, Buenos Aires
+p553
+aVNovember 7, 1974, Buenos Aires
+p554
+aVMarch 31, 1974, San Isidro
+p555
+aVdate unknown
+p556
+aVdate unknown
+p557
+aVdate unknown
+p558
+aVMay 30, 1976, Buenos Aires
+p559
+aVdate unknown
+p560
+aVAugust 14, 1973, Mar del Plata
+p561
+aVdate unknown
+p562
+aVdate unknown
+p563
+aVAugust 8, 1975, Rosario
+p564
+aVAugust 20, 1977, Buenos Aires
+p565
+aVJune 15, 1977, Buenos Aires
+p566
+aVJune 21, 1978, Buenos Aires
+p567
+aVdate unknown
+p568
+aVdate unknown
+p569
+aVFebruary 16, 1977, Buenos Aires
+p570
+aVdate unknown
+p571
+aVDecember 17, 1976, Bahia Blanca
+p572
+aVdate unknown
+p573
+aVdate unknown
+p574
+aVdate unknown
+p575
+aVOctober 26, 1972
+p576
+aVdate unknown
+p577
+aVdate unknown
+p578
+aVdate unknown
+p579
+aVdate unknown
+p580
+aVJuly 22, 1974, Quilmes
+p581
+aVJuly 3, 1975, Cordoba
+p582
+aVApril 21, 1973, Buenos Aires
+p583
+aVdate unknown
+p584
+aVdate unknown
+p585
+aVAugust 20, 1977, Buenos Aires
+p586
+aVdate unknown
+p587
+aVdate unknown
+p588
+aVdate unknown
+p589
+aVJune 15, 1978, Parana
+p590
+aVMarch 14, 1974, San Isidro
+p591
+aVMay 3, 1976, Buenos Aires
+p592
+aVApril 18, 1977, Buenos Aires
+p593
+aVJuly 31, 1974, Tucuman
+p594
+aVMay 8, 1975, Tucuman
+p595
+aVMay 5, 1975, Buenos Aires
+p596
+aVdate unknown
+p597
+aVDecember 6, 1976, Tucuman
+p598
+aVJune 24, 1972, Rosario
+p599
+aVdate unknown
+p600
+aVMarch 26, 1975, La Plata
+p601
+aVMay 3, 1978, S.C.de la Sierra, Bolivia
+p602
+aVOctober 23, 1979, Buenos Aires
+p603
+aVMay 4, 1976, Rosario
+p604
+aVOctober 22, 1976, La Plata
+p605
+aVMarch 20, 1978, Cordoba
+p606
+aVOctober 1, 1977, Buenos Aires
+p607
+aVJuly 31, 1974, Rosario
+p608
+aVAugust 21, 1979, Rosario
+p609
+aVDecember 15, 1976, Cordoba
+p610
+aVFebruary 9, 1981, Buenos Aires
+p611
+aVJanuary 17, 1980, Buenos Aires
+p612
+aVSeptember 20, 1977, Mendoza
+p613
+aVJanuary 15, 1982, Mendoza
+p614
+aVAugust 7, 1982, Buenos Aires
+p615
+aVMay 27, 1979, Catamarca
+p616
+aVdate unknown
+p617
+aVSeptember 13, 1975, San Juan
+p618
+aVMay 3, 1979
+p619
+aVdate unknown
+p620
+aVdate unknown
+p621
+aVOctober 3, 1979, Buenos Aires
+p622
+aVJune 27, 1979, Buenos Aires
+p623
+aVJanuary 20, 1980, La Plata
+p624
+aVDecember 31, 1982, Buenos Aires
+p625
+aVJuly 15, 1982, Don Torcuato
+p626
+aVJanuary 1, 1982, Tucuman
+p627
+aVJuly 3, 1981, Mendoza
+p628
+aVApril 14, 1976, Buenos Aires
+p629
+aVSeptember 8, 1977, Cordoba
+p630
+aVNovember 19, 1981, Buenos Aires
+p631
+aVFebruary 26, 1982, Tucuman
+p632
+aVOctober 14, 1980, Salta
+p633
+aVMarch 24, 1979, Mendoza
+p634
+aVJune 3, 1976, Lomas de Zamora
+p635
+aVAugust 28, 1979, Buenos Aires
+p636
+aVMay 5, 1974, San Fernando
+p637
+aVApril 24, 1985, Buenos Aires
+p638
+aVJanuary 12, 1983, Buenos Aires
+p639
+aVAugust 23, 1984, Rosario
+p640
+aVJune 8, 1982, Buenos Aires
+p641
+aVJuly 18, 1981, Buenos Aires
+p642
+aVJune 6, 1983, Santiago del Estero
+p643
+aVMarch 15, 1985, La Plata
+p644
+aVJune 15, 1978
+p645
+aVApril 11, 1983
+p646
+aVdate unknown
+p647
+aVDecember 21, 1982, Buenos Aires
+p648
+aVFebruary 10, 1976
+p649
+aVMay 31, 1982, Buenos Aires
+p650
+aVFebruary 3, 1983
+p651
+aVJune 5, 1983
+p652
+aVAugust 1, 1983, Rosario
+p653
+aVFebruary 15, 1982, Formosa
+p654
+aVAugust 20, 1983, Rosario
+p655
+aVdate unknown
+p656
+aVApril 25, 1977, Mar del Plata
+p657
+aVdate unknown
+p658
+aVdate unknown
+p659
+aVMay 12, 1980, Buenos Aires
+p660
+aVJuly 22, 1981, Cordoba
+p661
+aVMarch 4, 1981
+p662
+aVdate unknown
+p663
+aVOctober 22, 1984, Buenos Aires
+p664
+aVOctober 1, 1985, Mendoza
+p665
+aVAugust 22, 1975, La Plata
+p666
+aVOctober 16, 1981, Buenos Aires
+p667
+aVMay 5, 1980, Tucuman
+p668
+aVJanuary 8, 1982, Brussels
+p669
+aVMarch 27, 1984, Buenos Aires
+p670
+aVJanuary 7, 1984, Buenos Aires
+p671
+aVApril 13, 1985, San Fernando
+p672
+aVJanuary 10, 1985, Rosario
+p673
+aVJune 5, 1983, Buenos Aires
+p674
+aVOctober 20, 1987, San Miguel de Tucuma
+p675
+aVJuly 24, 1976
+p676
+aVJanuary 26, 1984, San Miguel de Tucuma
+p677
+aVDecember 21, 1983, Buenos Aires
+p678
+aVApril 6, 1987, Buenos Aires
+p679
+aVdate unknown
+p680
+aVMay 27, 1981, Buenos Aires
+p681
+aVMarch 11, 1986, Buenos Aires
+p682
+aVMarch 10, 1985, La Plata
+p683
+aVApril 21, 1983, Buenos Aires
+p684
+aVJune 6, 1980, Buenos Aires
+p685
+aVNovember 2, 1985, Buenos Aires
+p686
+aVNovember 5, 1986, La Plata
+p687
+aVdate unknown
+p688
+aVJuly 16, 1981, Tucuman
+p689
+aVNovember 21, 1983, Cordoba
+p690
+aVAugust 28, 1984, Buenos Aires
+p691
+aVJuly 12, 1983, Buenos Aires
+p692
+aVMarch 3, 1982, Buenos Aires
+p693
+aVJuly 3, 1985, Buenos Aires
+p694
+aVDecember 9, 1980, Tucuman
+p695
+aVdate unknown
+p696
+aVMay 13, 1984, Rosario
+p697
+aVApril 4, 1983, Tucuman
+p698
+aVJanuary 21, 1983, Buenos Aires
+p699
+aVJune 6, 1977, San Miguel de Tucuma
+p700
+aVJuly 2, 1985, Buenos Aires
+p701
+aVMarch 3, 1983, Buenos Aires
+p702
+aVJuly 12, 1985, Cordoba
+p703
+aVMay 8, 1982, Buenos Aires
+p704
+aVMay 5, 1988, Rosario
+p705
+aVJuly 1, 1987, Buenos Aires
+p706
+aVMay 10, 1985, Cordoba
+p707
+aVJune 27, 1988, Buenos Aires
+p708
+aVJanuary 28, 1988, La Plata
+p709
+aVJune 14, 1988, Buenos Aires
+p710
+aVAugust 9, 1988, Buenos Aires
+p711
+aVJune 20, 1983, Mendoza
+p712
+aVNovember 28, 1985, Buenos Aires
+p713
+aVJanuary 27, 1985, Buenos Aires
+p714
+aVMay 23, 1988, Buenos Aires
+p715
+aVOctober 28, 1988, Buenos Aires
+p716
+aVMay 15, 1987, Cordoba
+p717
+aVMay 10, 1982, Cordoba
+p718
+aVJune 16, 1988, Buenos Aires
+p719
+aVMay 11, 1988, Rosario
+p720
+aVJanuary 10, 1986, Tucuman
+p721
+aVMarch 22, 1981, Cordoba
+p722
+aVSeptember 5, 1984, Buenos Aires
+p723
+aVJune 18, 1988, La Plata
+p724
+aVdate unknown
+p725
+aVdate unknown
+p726
+aVFebruary 23, 1988
+p727
+aVOctober 28, 1988
+p728
+aVdate unknown
+p729
+aVdate unknown
+p730
+aVApril 12, 1985, Rosario
+p731
+aVdate unknown
+p732
+aVMarch 6, 1983
+p733
+aVJune 12, 1989, Buenos Aires
+p734
+aVMarch 2, 1984, Cordoba
+p735
+aVJune 22, 1986, Rosario
+p736
+aVJanuary 3, 1989, Tucuman
+p737
+aVOctober 26, 1988, San Miguel de Tucuma
+p738
+aVFebruary 8, 1989, Mendoza
+p739
+aVNovember 6, 1989, General Madariaga
+p740
+aVNovember 12, 1986, Veinticinco de Mayo
+p741
+aVJanuary 11, 1989, San Miguel de Tucuma
+p742
+aVMarch 25, 1988, Salta
+p743
+aVSeptember 19, 1978, San Miguel de Tucuma
+p744
+aVFebruary 13, 1982, Cordoba
+p745
+aVSeptember 14, 1984, Buenos Aires
+p746
+aVSeptember 28, 1990, Buenos Aires
+p747
+aVDecember 7, 1989, Buenos Aires
+p748
+aVJuly 5, 1985
+p749
+aVApril 15, 1988, San Miguel de Tucuma
+p750
+aVJune 3, 1988, Rosario
+p751
+aVNovember 17, 1989
+p752
+aVOctober 6, 1985, Cordoba
+p753
+aVJune 18, 1988, Buenos Aires
+p754
+aVdate unknown
+p755
+aVMay 28, 1990, Tucuman
+p756
+aVMay 12, 1990
+p757
+aVApril 17, 1987
+p758
+aVDecember 14, 1990, Rosario
+p759
+aVMarch 17, 1983, Buenos Aires
+p760
+aVOctober 16, 1984, Rosario
+p761
+aVDecember 29, 1988, San Miguel de Tucuma
+p762
+aVOctober 20, 1990, Buenos Aires
+p763
+aVJune 20, 1986, Buenos Aires
+p764
+aVNovember 20, 1991, Adrogue
+p765
+aVNovember 14, 1991, Tucuman
+p766
+aVJune 14, 1990, Entre Rios
+p767
+aVMarch 26, 1988, Buenos Aires
+p768
+aVApril 15, 1991, Tucuman
+p769
+aVJune 15, 1987, Cordoba
+p770
+aVApril 16, 1987, Mar del Plata
+p771
+aVMarch 10, 1989, Cordoba
+p772
+aVJanuary 3, 1991, Villa Maria
+p773
+aVApril 8, 1987, La Plata
+p774
+aVDecember 11, 1991, Buenos Aires
+p775
+aVJuly 4, 1985, San Miguel de Tucuma
+p776
+aVFebruary 21, 1987, Buenos Aires
+p777
+aVAugust 8, 1989, La Plata
+p778
+aVDecember 30, 1982, Rosario
+p779
+aVAugust 27, 1991, Chajari
+p780
+aVApril 2, 1976, Santa Fe
+p781
+aVMarch 4, 1992, Buenos Aires
+p782
+aVMarch 10, 1989, Chaco
+p783
+aVMarch 16, 1993, Mendoza
+p784
+aVApril 30, 1990, Rosario
+p785
+aVNovember 30, 1988, Mendoza
+p786
+aVJanuary 22, 1993, Buenos Aires
+p787
+aVOctober 10, 1990, Buenos Aires
+p788
+aVMarch 17, 1988, Villa la Angostura
+p789
+aVOctober 20, 1993, Cordoba
+p790
+aVOctober 20, 1992, Rosario
+p791
+aVJune 20, 1989, Tucuman
+p792
+aVFebruary 5, 1994, Cordoba
+p793
+aVFebruary 17, 1994, Bahia Blanca
+p794
+aVDecember 19, 1989, Buenos Aires
+p795
+aVJuly 30, 1990, Parana
+p796
+aVOctober 18, 1989, Buenos Aires
+p797
+aVMay 26, 1993, Tucuman
+p798
+aVMay 1, 1989, Rosario
+p799
+aVOctober 11, 1994, Rosario
+p800
+aVJune 19, 1992, Buenos Aires
+p801
+aVJuly 18, 1993, Buenos Aires
+p802
+aVApril 22, 1991, Buenos Aires
+p803
+aVMay 12, 1990, Tucuman
+p804
+aVMay 4, 1990, Tucuman
+p805
+aVDecember 6, 1993, Buenos Aires
+p806
+aVSeptember 6, 1987, Tucuman
+p807
+aVDecember 5, 1991, Cordoba
+p808
+aVFebruary 24, 1991, Rosario
+p809
+aVOctober 5, 1993, Tucuman
+p810
+aVSeptember 3, 1990, Buenos Aires
+p811
+aVApril 15, 1993, Buenos Aires
+p812
+aVOctober 29, 1993, Buenos Aires
+p813
+aVJanuary 26, 1991, Buenos Aires
+p814
+aVFebruary 14, 1989, Comodoro Rivadavia
+p815
+aVMarch 29, 1991, Buenos Aires
+p816
+aVAugust 21, 1992, San Juan
+p817
+aVSeptember 21, 1993, Santiago del Estero
+p818
+aVNovember 17, 1994, Buenos Aires
+p819
+aVFebruary 16, 1994, Santiago del Estero
+p820
+aVNovember 24, 1987, Buenos Aires
+p821
+aVMarch 24, 1995, Mar del Plata
+p822
+aVJune 8, 1992, Tucuman
+p823
+aVDecember 31, 1993, Mendoza
+p824
+aVJanuary 4, 1996, Salta
+p825
+aVMay 30, 1988, Buenos Aires
+p826
 a.

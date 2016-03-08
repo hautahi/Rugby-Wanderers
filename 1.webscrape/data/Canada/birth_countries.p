@@ -1363,3887 +1363,3877 @@ aVQuiché, Guatemala
 p719
 aVQC, Chalmersgatan, Lorensberg, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 411 27, Sverige
 p720
-aVQC, Queensbridge Road, Haggerston, London Borough of Hackney, London, Greater London, England, E8 4DU, United Kingdom
+aVQC, 460, Chemin de Revel, Quartier Saint-Benoît, Moissac, Castelsarrasin, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82200, France
 p721
-aVQC, 460, Chemin de Revel, Quartier Saint-Benoît, Moissac, Castelsarrasin, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82200, France
-p722
-aa(lp723
+aa(lp722
 VBandar Seri Begawan, Brunei-Muara, Brunei Darussalam
-p724
-aaNa(lp725
+p723
+aaNa(lp724
 V\u6771\u4eac\u90fd, \u65e5\u672c
-p726
+p725
 aV\u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, \u65e5\u672c
-p727
+p726
 aV\u6771\u4eac, 407, \u4e00\u4e01\u76ee, \u4e38\u306e\u5185, \u6771\u4eac, \u5343\u4ee3\u7530\u533a, \u6771\u4eac\u90fd, 100-0005, \u65e5\u672c
-p728
+p727
 aVTokyo, Hayapuga Rural LLG, Tari-Pori District, Hela, Highlands Region, Papua Niugini
-p729
+p728
 aVTokyo, San Antonio, Bexar County, Texas, 78230, United States of America
-p730
+p729
 aVTokyo, Nouakchott, \u0646\u0648\u0627\u0643\u0634\u0648\u0637, 170, Mauritanie \u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627
-p731
+p730
 aVTokyo, Merville Park Subdivision, Merville, Parañaque, Metro Manila, 1709, Philippines
-p732
+p731
 aVTokyo, Don Mariano Home Settlement, Batasan Hills, Holy Spirit, District II, Quezon City, Metro Manila, 1119, Philippines
-p733
+p732
 aVTokyo, Summerwind Village, Dasmariñas, Cavite, Calabarzon, 4114, Philippines
-p734
+p733
 aVTokyo, Gruar I, Cainta, Rizal, Calabarzon, 1900, Philippines
-p735
-aaNa(lp736
+p734
+aaNa(lp735
 VKingston, Kingston and St. Andrew Corporation, Surrey County, Jamaica
-p737
+p736
 aVKingston, Ontario, Canada
-p738
+p737
 aVKingston, New York, United States of America
-p739
+p738
 aVKingston, Luzerne County, Pennsylvania, United States of America
-p740
+p739
 aVKingston, Washington County, Rhode Island, United States of America
-p741
+p740
 aVKingston, Plymouth County, Massachusetts, United States of America
-p742
+p741
 aVKingston, Rockingham County, New Hampshire, United States of America
-p743
+p742
 aVKingston, Somerset, New Jersey, United States of America
-p744
+p743
 aVKingston, United States of America
-p745
+p744
 aVKingston, Tasmania, Australia
-p746
-aa(lp747
+p745
+aa(lp746
 VBritish Columbia, Canada
+p747
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p748
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p749
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
 p750
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p751
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p752
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p753
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p754
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p755
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p756
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p757
-aa(lp758
+aa(lp757
 VCardiff, Wales, CF, United Kingdom
+p758
+aVCardiff, Wales, CF, United Kingdom
 p759
-aVCardiff, Wales, CF, United Kingdom
+aVCardiff, Main Road, Cardiff Heights, Newcastle-Maitland, New South Wales, 2305, Australia
 p760
-aVCardiff, Main Road, Cardiff Heights, Newcastle-Maitland, New South Wales, 2305, Australia
+aVCardiff, Town of LaFayette, Onondaga County, New York, United States of America
 p761
-aVCardiff, Town of LaFayette, Onondaga County, New York, United States of America
+aVCardiff, Jefferson County, Alabama, United States of America
 p762
-aVCardiff, Jefferson County, Alabama, United States of America
+aVCardiff, Cambria County, Pennsylvania, United States of America
 p763
-aVCardiff, Cambria County, Pennsylvania, United States of America
+aVCardiff, Waller County, Texas, United States of America
 p764
-aVCardiff, Waller County, Texas, United States of America
+aVCardiff, Cecil County, Maryland, United States of America
 p765
-aVCardiff, Cecil County, Maryland, United States of America
+aVCardiff, Garfield County, Colorado, United States of America
 p766
-aVCardiff, Garfield County, Colorado, United States of America
+aVCardiff, Atlantic County, New Jersey, United States of America
 p767
-aVCardiff, Atlantic County, New Jersey, United States of America
-p768
-aa(lp769
+aa(lp768
 VNagaland, India
+p769
+aVNewfoundland and Labrador, Canada
 p770
-aVNewfoundland and Labrador, Canada
+aVNederland
 p771
-aVNederland
+aVNL, Jetero Boulevard, Houston, Harris County, Texas, 77205, United States of America
 p772
-aVNL, Jetero Boulevard, Houston, Harris County, Texas, 77205, United States of America
+aVNL+, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AX, Nederland
 p773
-aVNL+, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AX, Nederland
+aVHorseferry Road, Marsham Street, Millbank, City of Westminster, London, Greater London, England, SW1P 3DP, United Kingdom
 p774
-aVHorseferry Road, Marsham Street, Millbank, City of Westminster, London, Greater London, England, SW1P 3DP, United Kingdom
+aVNastawnia kolejowa N\u0141, 39, Stare Miasto, Namys\u0142ów, gmina Namys\u0142ów, powiat namys\u0142owski, opolskie, Polska
 p775
-aVNastawnia kolejowa N\u0141, 39, Stare Miasto, Namys\u0142ów, gmina Namys\u0142ów, powiat namys\u0142owski, opolskie, Polska
+aVVery Long Baseline Array, Mehaffey Bridge Road Northeast, Holiday Mobile Home Court, Johnson County, Iowa, 52333, United States of America
 p776
-aVVery Long Baseline Array, Mehaffey Bridge Road Northeast, Holiday Mobile Home Court, Johnson County, Iowa, 52333, United States of America
+aVÑl, Calle 19, Barrio La Aguas, La Candelaria, Candelaria, Bogotá, 117111, Colombia
 p777
-aVÑl, Calle 19, Barrio La Aguas, La Candelaria, Candelaria, Bogotá, 117111, Colombia
+aVNelhammar, H 889, Ukna, Västervik, Kalmar län, Götaland, Sverige
 p778
-aVNelhammar, H 889, Ukna, Västervik, Kalmar län, Götaland, Sverige
-p779
-aa(lp780
+aa(lp779
 VHeemskerk, MRA, Noord-Holland, Nederland, 1969, Nederland
-p781
+p780
 aVVendes, Saint-Martin (VS), Hérens, Valais - Wallis, 1969, Schweiz, Suisse, Svizzera, Svizra
-p782
+p781
 aV1969, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
-p783
+p782
 aV1969, Pova\u017eská Teplá, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p784
+p783
 aVMéndez Álvaro - Pedro Bosch, Calle de Méndez Álvaro, Arganzuela, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28045, España
-p785
+p784
 aVal. Ofiar Terroryzmu 11 wrze\u015bnia - kontenerownia Olechów, Aleja Ofiar Terroryzmu 11 Wrze\u015bnia, Chojny-D\u0105browa, \u0141ód\u017a-Górna, \u0141ód\u017a, \u0142ódzkie, 93-235, Polska
-p786
+p785
 aVSouthwest Garden Home & 57th, Southwest Garden Home Road, Maplewood, Portland, Multnomah County, Oregon, 97225, United States of America
-p787
+p786
 aV1969, 105 Street NW, Old Strathcona, Edmonton, Alberta, T5H4G9, Canada
-p788
+p787
 aV1969, Siegener Straße, Achenbach, Alt-Siegen, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
+p788
+aVMorgari, Corso Torino, Grugliasco, TO, PIE, 10040, Italia
 p789
-aVMorgari, Corso Torino, Grugliasco, TO, PIE, 10040, Italia
-p790
-aa(lp791
+aa(lp790
 VBritish Columbia, Canada
+p791
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p792
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p793
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
 p794
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p795
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p796
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p797
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p798
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p799
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p800
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p801
-aa(lp802
+aa(lp801
 VNagaland, India
+p802
+aVNewfoundland and Labrador, Canada
 p803
-aVNewfoundland and Labrador, Canada
+aVNederland
 p804
-aVNederland
+aVNL, Jetero Boulevard, Houston, Harris County, Texas, 77205, United States of America
 p805
-aVNL, Jetero Boulevard, Houston, Harris County, Texas, 77205, United States of America
+aVNL+, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AX, Nederland
 p806
-aVNL+, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AX, Nederland
+aVHorseferry Road, Marsham Street, Millbank, City of Westminster, London, Greater London, England, SW1P 3DP, United Kingdom
 p807
-aVHorseferry Road, Marsham Street, Millbank, City of Westminster, London, Greater London, England, SW1P 3DP, United Kingdom
+aVNastawnia kolejowa N\u0141, 39, Stare Miasto, Namys\u0142ów, gmina Namys\u0142ów, powiat namys\u0142owski, opolskie, Polska
 p808
-aVNastawnia kolejowa N\u0141, 39, Stare Miasto, Namys\u0142ów, gmina Namys\u0142ów, powiat namys\u0142owski, opolskie, Polska
+aVVery Long Baseline Array, Mehaffey Bridge Road Northeast, Holiday Mobile Home Court, Johnson County, Iowa, 52333, United States of America
 p809
-aVVery Long Baseline Array, Mehaffey Bridge Road Northeast, Holiday Mobile Home Court, Johnson County, Iowa, 52333, United States of America
+aVÑl, Calle 19, Barrio La Aguas, La Candelaria, Candelaria, Bogotá, 117111, Colombia
 p810
-aVÑl, Calle 19, Barrio La Aguas, La Candelaria, Candelaria, Bogotá, 117111, Colombia
+aVNelhammar, H 889, Ukna, Västervik, Kalmar län, Götaland, Sverige
 p811
-aVNelhammar, H 889, Ukna, Västervik, Kalmar län, Götaland, Sverige
-p812
-aa(lp813
+aa(lp812
 VQuébec, Canada
+p813
+aVQuiché, Guatemala
 p814
-aVQuiché, Guatemala
+aVQC, Chalmersgatan, Lorensberg, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 411 27, Sverige
 p815
-aVQC, Chalmersgatan, Lorensberg, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 411 27, Sverige
+aVQC, 460, Chemin de Revel, Quartier Saint-Benoît, Moissac, Castelsarrasin, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82200, France
 p816
-aVQC, Queensbridge Road, Haggerston, London Borough of Hackney, London, Greater London, England, E8 4DU, United Kingdom
-p817
-aVQC, 460, Chemin de Revel, Quartier Saint-Benoît, Moissac, Castelsarrasin, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82200, France
+aa(lp817
+VKohlstadtgraben, Bad Waltersdorf, Hartberg-Fürstenfeld, Steiermark, 8271, Österreich
 p818
-aa(lp819
-VKohlstadtgraben, Bad Waltersdorf, Hartberg-Fürstenfeld, Steiermark, 8271, Österreich
+aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+p819
+aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
 p820
-aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+aVConthey, Valais - Wallis, 1975, Schweiz, Suisse, Svizzera, Svizra
 p821
-aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+aV1975, Vidice, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p822
-aVConthey, Valais - Wallis, 1975, Schweiz, Suisse, Svizzera, Svizra
+aV1975, \u0160títary nad Radbuzou, Hostou\u0148, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p823
-aV1975, Vidice, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aV1975, Oplotec, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p824
-aV1975, \u0160títary nad Radbuzou, Hostou\u0148, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aV1975, Udi\u010da, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
 p825
-aV1975, Oplotec, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVGlorieta Monte del Gozo, Glorieta del Monte del Gozo, Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, España
 p826
-aV1975, Udi\u010da, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
+aVPuglia N.35, Via Puglia, Regio Parco, Circoscrizione 6, Torino, TO, PIE, 10156, Italia
 p827
-aVGlorieta Monte del Gozo, Glorieta del Monte del Gozo, Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, España
-p828
-aVPuglia N.35, Via Puglia, Regio Parco, Circoscrizione 6, Torino, TO, PIE, 10156, Italia
+aaNa(lp828
+VBritish Columbia, Canada
 p829
-aaNa(lp830
-VBritish Columbia, Canada
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+p830
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p831
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
 p832
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p833
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p834
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p835
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p836
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p837
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p838
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p839
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aa(lp839
+VHeemskerk, MRA, Noord-Holland, Nederland, 1968, Nederland
 p840
-aa(lp841
-VHeemskerk, MRA, Noord-Holland, Nederland, 1968, Nederland
+aVL'a Vielle, Mont-Noble, Hérens, Valais - Wallis, 1968, Schweiz, Suisse, Svizzera, Svizra
+p841
+aV1968, Kostolec, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01705, Slovensko
 p842
-aVL'a Vielle, Mont-Noble, Hérens, Valais - Wallis, 1968, Schweiz, Suisse, Svizzera, Svizra
+aVMéndez Álvaro Nº 57, Calle de Méndez Álvaro, Arganzuela, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28045, España
 p843
-aV1968, Kostolec, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01705, Slovensko
+aV1968, Via Virgilio Brocchi, Municipio V Val Polcevera, Genova, GE, LIG, 16162, Italia
 p844
-aVMéndez Álvaro Nº 57, Calle de Méndez Álvaro, Arganzuela, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28045, España
+aVal. Ofiar Terroryzmu 11 wrze\u015bnia - kontenerownia Olechów, Aleja Ofiar Terroryzmu 11 Wrze\u015bnia, Nr 33, \u0141ód\u017a-Widzew, \u0141ód\u017a, \u0142ódzkie, Polska
 p845
-aV1968, Via Virgilio Brocchi, Municipio V Val Polcevera, Genova, GE, LIG, 16162, Italia
+aVSouthwest Garden Home & 56th, Southwest Garden Home Road, Maplewood, Portland, Multnomah County, Oregon, 97225, United States of America
 p846
-aVal. Ofiar Terroryzmu 11 wrze\u015bnia - kontenerownia Olechów, Aleja Ofiar Terroryzmu 11 Wrze\u015bnia, Nr 33, \u0141ód\u017a-Widzew, \u0141ód\u017a, \u0142ódzkie, Polska
+aV1968, 111 Avenue NW, Edmonton, Alberta, T5M 2J2, Canada
 p847
-aVSouthwest Garden Home & 56th, Southwest Garden Home Road, Maplewood, Portland, Multnomah County, Oregon, 97225, United States of America
+aV1968, Am Grünen Löwen, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
 p848
-aV1968, 111 Avenue NW, Edmonton, Alberta, T5M 2J2, Canada
+aVMorgari, Corso Torino, Grugliasco, TO, PIE, 10040, Italia
 p849
-aV1968, Am Grünen Löwen, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
-p850
-aVMorgari, Corso Torino, Grugliasco, TO, PIE, 10040, Italia
+aa(lp850
+VBritish Columbia, Canada
 p851
-aa(lp852
-VBritish Columbia, Canada
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+p852
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p853
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
 p854
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p855
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p856
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p857
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p858
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p859
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p860
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p861
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aa(lp861
+VQuébec, Canada
 p862
-aa(lp863
-VQuébec, Canada
+aVQuiché, Guatemala
+p863
+aVQC, Chalmersgatan, Lorensberg, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 411 27, Sverige
 p864
-aVQuiché, Guatemala
+aVQC, 460, Chemin de Revel, Quartier Saint-Benoît, Moissac, Castelsarrasin, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82200, France
 p865
-aVQC, Chalmersgatan, Lorensberg, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 411 27, Sverige
-p866
-aVQC, Queensbridge Road, Haggerston, London Borough of Hackney, London, Greater London, England, E8 4DU, United Kingdom
+aa(lp866
+VOntario, Canada
 p867
-aVQC, 460, Chemin de Revel, Quartier Saint-Benoît, Moissac, Castelsarrasin, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82200, France
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p868
-aa(lp869
-VOntario, Canada
+aVOshana Region, Namibia
+p869
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
 p870
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p871
-aVOshana Region, Namibia
+aVQeqertaq, Kalaallit Nunaat
 p872
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p873
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p874
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p875
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p876
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p877
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aa(lp877
+VOntario, Canada
 p878
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p879
-aa(lp880
-VOntario, Canada
+aVOshana Region, Namibia
+p880
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
 p881
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p882
-aVOshana Region, Namibia
+aVQeqertaq, Kalaallit Nunaat
 p883
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p884
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p885
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p886
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p887
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p888
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aa(lp888
+VBritish Columbia, Canada
 p889
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p890
-aa(lp891
-VBritish Columbia, Canada
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+p891
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
 p892
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p893
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p894
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p895
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p896
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p897
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p898
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p899
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p900
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p901
-aa(lp902
+aa(lp899
 VPaisley, Renfrewshire, Scotland, United Kingdom
-p903
+p900
 aVPaisley, Ontario, Canada
-p904
+p901
 aVPaisley, Greene County, Pennsylvania, United States of America
-p905
+p902
 aVPaisley, Tioga County, Pennsylvania, United States of America
-p906
+p903
 aVPaisley, Lake County, Oregon, United States of America
-p907
+p904
 aVPaisley, Lake County, Florida, United States of America
-p908
+p905
 aVPaisley, Lake County, Florida, United States of America
-p909
+p906
 aVPaisley, Ontario, Canada
-p910
+p907
 aVPaisley, South Australia, Australia
-p911
+p908
 aVPaisley, Cumberland Township, Greene County, Pennsylvania, 15351, United States of America
-p912
-aa(lp913
+p909
+aa(lp910
 VFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1966, Danmark
-p914
+p911
 aV\u010ciernohájska, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p915
+p912
 aV1966, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p916
+p913
 aVRamírez de Prado - Vara del Rey, Calle de Ramírez de Prado, Arganzuela, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28045, España
-p917
+p914
 aV1966, Tullivuorentie, Ala-Malmi, Malmi, Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomi, 00730, Suomi
-p918
+p915
 aVSouthwest Garden Home & 54th, Southwest Garden Home Road, Maplewood, Portland, Multnomah County, Oregon, 97225, United States of America
-p919
+p916
 aV1966, 102 Avenue NW, Old Strathcona, Edmonton, Alberta, T5J 3S4, Canada
-p920
+p917
 aV1966, Schrenker Feld, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
-p921
+p918
 aVLamarmora, Corso Torino, Grugliasco, TO, PIE, 10095, Italia
-p922
+p919
 aVChestnut Hill Shopping Ctr @ AMC Theaters, Boylston Street, Chestnut Hill, Newton, Middlesex County, Massachusetts, 02467, United States of America
-p923
-aa(lp924
+p920
+aa(lp921
 VScarborough, North Yorkshire, Yorkshire and the Humber, England, United Kingdom
-p925
+p922
 aVScarborough, North Yorkshire, Yorkshire and the Humber, England, United Kingdom
-p926
+p923
 aVScarborough, Toronto, Ontario, Canada
-p927
+p924
 aVScarborough, Cumberland County, Maine, United States of America
-p928
+p925
 aVScarborough, Cape Town Subcouncil 19, Misty Cliffs, City of Cape Town, Western Cape, South Africa
-p929
+p926
 aVScarborough, Redcliffe, QLD, Australia
-p930
+p927
 aVScarborough, Toronto, Ontario, Canada
-p931
+p928
 aVScarborough, Flat Rock Junction, New South Wales, Australia
-p932
+p929
 aVScarborough, Trinidad and Tobago
-p933
+p930
 aVScarborough, Kent, South East, England, United Kingdom
-p934
-aa(lp935
+p931
+aa(lp932
 VNew Westminster, Greater Vancouver Regional District, British Columbia, Canada
-p936
+p933
 aVNew Westminster, Greater Vancouver Regional District, British Columbia, Canada
-p937
+p934
 aVNew Westminster, 8th Street, Downtown, New Westminster, Greater Vancouver Regional District, British Columbia, V3M 6B9, Canada
+p935
+aa(lp936
+VManitoba, Canada
+p937
+aVMbomou, Ködörösêse tî Bêafrîka - République Centrafricaine
 p938
-aa(lp939
-VManitoba, Canada
+aVMB, LOM, Italia
+p939
+aVDowntown, Fort Rouge\u2013East Fort Garry, Winnipeg, Manitoba, MB, Canada
 p940
-aVMbomou, Ködörösêse tî Bêafrîka - République Centrafricaine
+aVMB, 4800-4806, North Western Avenue, Bowmanville, Uptown, Chicago, Cook County, Illinois, 60618, United States of America
 p941
-aVMB, LOM, Italia
+aVMB, Rua Abranches Ferrão, Sete Rios, Lisboa, Grande Lisboa, Lisboa, 1600-001, Portugal
 p942
-aVDowntown, Fort Rouge\u2013East Fort Garry, Winnipeg, Manitoba, MB, Canada
+aVMB, Mansfield Road, Norham Manor, Oxford, Oxon, South East, England, OX1 3SZ, United Kingdom
 p943
-aVMB, 4800-4806, North Western Avenue, Bowmanville, Uptown, Chicago, Cook County, Illinois, 60618, United States of America
+aVMB, Müller-Breslau-Straße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10623, Deutschland
 p944
-aVMB, Rua Abranches Ferrão, Sete Rios, Lisboa, Grande Lisboa, Lisboa, 1600-001, Portugal
+aVMB, Tr\u1ea7n Thánh Tông, Hà N\u1ed9i, Thành ph\u1ed1 Hà N\u1ed9i, 01235, Vi\u1ec7t Nam
 p945
-aVMB, Mansfield Road, Norham Manor, Oxford, Oxon, South East, England, OX1 3SZ, United Kingdom
+aVMB, South Service Road, Bayswater, Queens County, NYC, New York, 11010, United States of America
 p946
-aVMB, Müller-Breslau-Straße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10623, Deutschland
-p947
-aVMB, Tr\u1ea7n Thánh Tông, Hà N\u1ed9i, Thành ph\u1ed1 Hà N\u1ed9i, 01235, Vi\u1ec7t Nam
+aa(lp947
+VOntario, Canada
 p948
-aVMB, South Service Road, Bayswater, Queens County, NYC, New York, 11010, United States of America
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p949
-aa(lp950
-VOntario, Canada
+aVOshana Region, Namibia
+p950
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
 p951
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p952
-aVOshana Region, Namibia
+aVQeqertaq, Kalaallit Nunaat
 p953
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p954
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p955
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p956
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p957
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p958
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aa(lp958
+VOntario, Canada
 p959
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p960
-aa(lp961
-VOntario, Canada
+aVOshana Region, Namibia
+p961
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
 p962
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p963
-aVOshana Region, Namibia
+aVQeqertaq, Kalaallit Nunaat
 p964
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p965
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p966
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p967
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p968
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p969
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aa(lp969
+VOntario, Canada
 p970
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p971
-aa(lp972
-VOntario, Canada
+aVOshana Region, Namibia
+p972
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
 p973
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p974
-aVOshana Region, Namibia
+aVQeqertaq, Kalaallit Nunaat
 p975
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p976
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p977
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p978
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p979
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p980
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p981
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
-p982
-aaNa(lp983
+aaNa(lp980
 VFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1965, Danmark
-p984
+p981
 aVSavièse, Sion, Valais - Wallis, 1965, Schweiz, Suisse, Svizzera, Svizra
-p985
+p982
 aV1965, Clearwater County, Idaho, United States of America
-p986
+p983
 aV1965, Dolný Mo\u0161tenec, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p987
+p984
 aV1965, Horný Mo\u0161tenec, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p988
+p985
 aV1965, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p989
+p986
 aV1965, Horný Mo\u0161tenec, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
+p987
+aa(lp988
+VKohlstadtgraben, Bad Waltersdorf, Hartberg-Fürstenfeld, Steiermark, 8271, Österreich
+p989
+aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
 p990
-aa(lp991
-VKohlstadtgraben, Bad Waltersdorf, Hartberg-Fürstenfeld, Steiermark, 8271, Österreich
+aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+p991
+aVConthey, Valais - Wallis, 1975, Schweiz, Suisse, Svizzera, Svizra
 p992
-aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+aV1975, Vidice, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p993
-aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+aV1975, \u0160títary nad Radbuzou, Hostou\u0148, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p994
-aVConthey, Valais - Wallis, 1975, Schweiz, Suisse, Svizzera, Svizra
+aV1975, Oplotec, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p995
-aV1975, Vidice, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aV1975, Udi\u010da, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
 p996
-aV1975, \u0160títary nad Radbuzou, Hostou\u0148, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVGlorieta Monte del Gozo, Glorieta del Monte del Gozo, Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, España
 p997
-aV1975, Oplotec, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVPuglia N.35, Via Puglia, Regio Parco, Circoscrizione 6, Torino, TO, PIE, 10156, Italia
 p998
-aV1975, Udi\u010da, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
-p999
-aVGlorieta Monte del Gozo, Glorieta del Monte del Gozo, Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, España
+aa(lp999
+VOntario, Canada
 p1000
-aVPuglia N.35, Via Puglia, Regio Parco, Circoscrizione 6, Torino, TO, PIE, 10156, Italia
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1001
-aa(lp1002
-VOntario, Canada
+aVOshana Region, Namibia
+p1002
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
 p1003
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1004
-aVOshana Region, Namibia
+aVQeqertaq, Kalaallit Nunaat
 p1005
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1006
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1007
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1008
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1009
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p1010
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aa(lp1010
+VSlovensko
 p1011
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVSaskatchewan, Canada
 p1012
-aa(lp1013
-VSlovensko
+aV\u015bwi\u0119tokrzyskie, Polska
+p1013
+aVSikkim, India
 p1014
-aVSaskatchewan, Canada
+aV\u10e8\u10d8\u10d3\u10d0 \u10e5\u10d0\u10e0\u10d7\u10da\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1015
-aV\u015bwi\u0119tokrzyskie, Polska
+aV\u0421\u043e\u043a, \u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
 p1016
-aVSikkim, India
+aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
 p1017
-aV\u10e8\u10d8\u10d3\u10d0 \u10e5\u10d0\u10e0\u10d7\u10da\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
 p1018
-aV\u0421\u043e\u043a, \u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aV\u0421\u043e\u043a, \u0418\u0441\u0430\u043a\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
 p1019
-aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
+aV\u0421\u043e\u043a, \u041a\u0430\u043c\u044b\u0448\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
 p1020
-aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
-p1021
-aV\u0421\u043e\u043a, \u0418\u0441\u0430\u043a\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aa(lp1021
+VCardiff, Wales, CF, United Kingdom
 p1022
-aV\u0421\u043e\u043a, \u041a\u0430\u043c\u044b\u0448\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aVCardiff, Wales, CF, United Kingdom
 p1023
-aa(lp1024
-VCardiff, Wales, CF, United Kingdom
+aVCardiff, Main Road, Cardiff Heights, Newcastle-Maitland, New South Wales, 2305, Australia
+p1024
+aVCardiff, Town of LaFayette, Onondaga County, New York, United States of America
 p1025
-aVCardiff, Wales, CF, United Kingdom
+aVCardiff, Jefferson County, Alabama, United States of America
 p1026
-aVCardiff, Main Road, Cardiff Heights, Newcastle-Maitland, New South Wales, 2305, Australia
+aVCardiff, Cambria County, Pennsylvania, United States of America
 p1027
-aVCardiff, Town of LaFayette, Onondaga County, New York, United States of America
+aVCardiff, Waller County, Texas, United States of America
 p1028
-aVCardiff, Jefferson County, Alabama, United States of America
+aVCardiff, Cecil County, Maryland, United States of America
 p1029
-aVCardiff, Cambria County, Pennsylvania, United States of America
+aVCardiff, Garfield County, Colorado, United States of America
 p1030
-aVCardiff, Waller County, Texas, United States of America
+aVCardiff, Atlantic County, New Jersey, United States of America
 p1031
-aVCardiff, Cecil County, Maryland, United States of America
-p1032
-aVCardiff, Garfield County, Colorado, United States of America
+aa(lp1032
+VAlberta, Canada
 p1033
-aVCardiff, Atlantic County, New Jersey, United States of America
-p1034
-aa(lp1035
-VAlberta, Canada
-p1036
 aVAlberta, Brunswick County, Virginia, United States of America
-p1037
+p1034
 aVAlberta, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629
-p1038
+p1035
 aVAlberta, Henry County, Missouri, United States of America
-p1039
+p1036
 aVAlberta, Bienville, Louisiana, United States of America
-p1040
+p1037
 aVAlberta, Harrison, Kentucky, United States of America
-p1041
+p1038
 aVAlberta, Staffanstorp, Skåne, Götaland, Sverige
-p1042
+p1039
 aVAlberta, Baraga County, Michigan, United States of America
-p1043
+p1040
 aVAlberta, Wilcox County, Alabama, United States of America
-p1044
+p1041
 aVAlberta, Stevens County, Minnesota, United States of America
+p1042
+aaNa(lp1043
+VBritish Columbia, Canada
+p1044
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1045
-aaNa(lp1046
-VBritish Columbia, Canada
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+p1046
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
 p1047
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1048
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1049
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1050
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1051
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1052
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1053
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p1054
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p1055
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p1056
-aa(lp1057
+aa(lp1054
 VLondon, Greater London, England, United Kingdom
-p1058
+p1055
 aVLondon, Ontario, Canada
-p1059
+p1056
 aVLondon, Laurel County, Kentucky, United States of America
-p1060
+p1057
 aVLondon, Dane County, Wisconsin, United States of America
-p1061
+p1058
 aVLondon, Madison County, Ohio, United States of America
-p1062
+p1059
 aVLondon, Tulare County, California, United States of America
-p1063
+p1060
 aVLondon, Pope County, Arkansas, United States of America
-p1064
+p1061
 aVLondon, Kanawha County, West Virginia, United States of America
-p1065
+p1062
 aVLondon, Rusk County, Texas, United States of America
-p1066
+p1063
 aVLondon, Richland County, Ohio, United States of America
+p1064
+aa(lp1065
+VBritish Columbia, Canada
+p1066
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1067
-aa(lp1068
-VBritish Columbia, Canada
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+p1068
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
 p1069
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1070
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1071
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1072
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1073
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1074
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1075
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p1076
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p1077
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p1078
-aa(lp1079
+aa(lp1076
 VCardiff, Wales, CF, United Kingdom
-p1080
+p1077
 aVCardiff, Wales, CF, United Kingdom
-p1081
+p1078
 aVCardiff, Main Road, Cardiff Heights, Newcastle-Maitland, New South Wales, 2305, Australia
-p1082
+p1079
 aVCardiff, Town of LaFayette, Onondaga County, New York, United States of America
-p1083
+p1080
 aVCardiff, Jefferson County, Alabama, United States of America
-p1084
+p1081
 aVCardiff, Cambria County, Pennsylvania, United States of America
-p1085
+p1082
 aVCardiff, Waller County, Texas, United States of America
-p1086
+p1083
 aVCardiff, Cecil County, Maryland, United States of America
-p1087
+p1084
 aVCardiff, Garfield County, Colorado, United States of America
-p1088
+p1085
 aVCardiff, Atlantic County, New Jersey, United States of America
-p1089
-aa(lp1090
+p1086
+aa(lp1087
 VHeemskerk, MRA, Noord-Holland, Nederland, 1968, Nederland
-p1091
+p1088
 aVL'a Vielle, Mont-Noble, Hérens, Valais - Wallis, 1968, Schweiz, Suisse, Svizzera, Svizra
-p1092
+p1089
 aV1968, Kostolec, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01705, Slovensko
-p1093
+p1090
 aVMéndez Álvaro Nº 57, Calle de Méndez Álvaro, Arganzuela, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28045, España
-p1094
+p1091
 aV1968, Via Virgilio Brocchi, Municipio V Val Polcevera, Genova, GE, LIG, 16162, Italia
-p1095
+p1092
 aVal. Ofiar Terroryzmu 11 wrze\u015bnia - kontenerownia Olechów, Aleja Ofiar Terroryzmu 11 Wrze\u015bnia, Nr 33, \u0141ód\u017a-Widzew, \u0141ód\u017a, \u0142ódzkie, Polska
-p1096
+p1093
 aVSouthwest Garden Home & 56th, Southwest Garden Home Road, Maplewood, Portland, Multnomah County, Oregon, 97225, United States of America
-p1097
+p1094
 aV1968, 111 Avenue NW, Edmonton, Alberta, T5M 2J2, Canada
-p1098
+p1095
 aV1968, Am Grünen Löwen, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
-p1099
+p1096
 aVMorgari, Corso Torino, Grugliasco, TO, PIE, 10040, Italia
+p1097
+aa(lp1098
+VBritish Columbia, Canada
+p1099
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1100
-aa(lp1101
-VBritish Columbia, Canada
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+p1101
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
 p1102
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1103
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1104
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1105
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1106
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1107
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1108
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p1109
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p1110
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p1111
-aa(lp1112
+aa(lp1109
 VQuébec, Canada
-p1113
+p1110
 aVQuiché, Guatemala
-p1114
+p1111
 aVQC, Chalmersgatan, Lorensberg, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 411 27, Sverige
-p1115
-aVQC, Queensbridge Road, Haggerston, London Borough of Hackney, London, Greater London, England, E8 4DU, United Kingdom
-p1116
+p1112
 aVQC, 460, Chemin de Revel, Quartier Saint-Benoît, Moissac, Castelsarrasin, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82200, France
+p1113
+aa(lp1114
+VOntario, Canada
+p1115
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+p1116
+aVOshana Region, Namibia
 p1117
-aa(lp1118
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1118
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1119
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1120
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1121
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1122
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1123
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1124
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1125
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p1126
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1127
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
-p1128
-aa(lp1129
+aa(lp1125
 VChristchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
-p1130
+p1126
 aVChristchurch, Dorset, South West England, England, United Kingdom
-p1131
+p1127
 aVChristchurch, Station Road, Fairmile, Christchurch, Dorset, South West England, England, United Kingdom
-p1132
+p1128
 aVChristchurch, Gloucestershire, South West England, England, United Kingdom
-p1133
+p1129
 aVChristchurch, Middlesex, Virginia, United States of America
-p1134
+p1130
 aVChristchurch, Cambridgeshire, East of England, England, United Kingdom
-p1135
+p1131
 aVChristchurch, Christ Church Road, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT5 8QJ, United Kingdom
-p1136
+p1132
 aVChristchurch, Wheatway, Abbeydale, Gloucester, Gloucestershire, South West England, England, GL4 5EQ, United Kingdom
-p1137
+p1133
 aVChristchurch, Seaside, Eastbourne, East Sussex, South East, England, BN22 7AU, United Kingdom
-p1138
+p1134
 aVChristchurch, Church Square, Bilton, Starbeck, Harrogate, North Yorkshire, Yorkshire and the Humber, England, HG1 5AG, United Kingdom
+p1135
+aa(lp1136
+VAlberta, Canada
+p1137
+aVAbia, Nigeria
+p1138
+aVStockholms län, Svealand, Sverige
 p1139
-aa(lp1140
-VAlberta, Canada
+aVab, Ogden, Boone County, Iowa, 50212, United States of America
+p1140
+aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
 p1141
-aVAbia, Nigeria
+aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
 p1142
-aVStockholms län, Svealand, Sverige
+aVAB, Homeland, Howell County, Missouri, 65775, United States of America
 p1143
-aVab, Ogden, Boone County, Iowa, 50212, United States of America
+aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
 p1144
-aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
+aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
 p1145
-aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
+aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
 p1146
-aVAB, Homeland, Howell County, Missouri, 65775, United States of America
-p1147
-aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
+aa(lp1147
+VBritish Columbia, Canada
 p1148
-aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1149
-aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1150
-aa(lp1151
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1151
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1152
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1153
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1154
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1155
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1156
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1157
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1158
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1158
+VAlabama, United States of America
 p1159
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVShqipëria
 p1160
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVAL, Região Nordeste, Brasil
 p1161
-aa(lp1162
-VAlabama, United States of America
+aVAlytaus apskritis, Lietuva
+p1162
+aVAL, PIE, Italia
 p1163
-aVShqipëria
+aVAllen County, Kansas, United States of America
 p1164
-aVAL, Região Nordeste, Brasil
+aVAllen County, Ohio, United States of America
 p1165
-aVAlytaus apskritis, Lietuva
+aVArlöv, Lommavägen, Arlöv, Burlöv, Skåne, Götaland, 23235, Sverige
 p1166
-aVAL, PIE, Italia
+aVAlibori, Bénin
 p1167
-aVAllen County, Kansas, United States of America
+aVAle, Västra Götalands län, Götaland, Sverige
 p1168
-aVAllen County, Ohio, United States of America
-p1169
-aVArlöv, Lommavägen, Arlöv, Burlöv, Skåne, Götaland, 23235, Sverige
+aa(lp1169
+VFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1973, Danmark
 p1170
-aVAlibori, Bénin
+aVL'a Vielle, Mont-Noble, Hérens, Valais - Wallis, 1973, Schweiz, Suisse, Svizzera, Svizra
 p1171
-aVAle, Västra Götalands län, Götaland, Sverige
+aV1973, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
 p1172
-aa(lp1173
-VFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1973, Danmark
+aV\u041a\u0443\u0441\u0442 1973, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1173
+aVPyhämaantie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1174
-aVL'a Vielle, Mont-Noble, Hérens, Valais - Wallis, 1973, Schweiz, Suisse, Svizzera, Svizra
+aVVanha Pitkäluodontie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1175
-aV1973, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+aVPyhämaantie, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1176
-aV\u041a\u0443\u0441\u0442 1973, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aVKettelintie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1177
-aVPyhämaantie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aV1973, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
 p1178
-aVVanha Pitkäluodontie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aV1973, Tasnovice, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1179
-aVPyhämaantie, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1180
-aVKettelintie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aa(lp1180
+VNew Brunswick, Canada
 p1181
-aV1973, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
+aVNB, Bayern, Deutschland
 p1182
-aV1973, Tasnovice, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVNoord-Brabant, Nederland
 p1183
-aa(lp1184
-VNew Brunswick, Canada
+aVNusa Tenggara Barat, Indonesia
+p1184
+aVNB, 15, Hallwylstrasse, Kirchenfeld, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3005, Schweiz, Suisse, Svizzera, Svizra
 p1185
-aVNB, Bayern, Deutschland
+aVNB, 15, Hallwylstrasse, Kirchenfeld, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3005, Schweiz, Suisse, Svizzera, Svizra
 p1186
-aVNoord-Brabant, Nederland
+aVT\u1ec9nh Ninh Bình, Vi\u1ec7t Nam
 p1187
-aVNusa Tenggara Barat, Indonesia
+aV\u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0623\u0632\u0631\u0642 Blue Nile State, \u0627\u0644\u0633\u0648\u062f\u0627\u0646 - Sudan
 p1188
-aVNB, 15, Hallwylstrasse, Kirchenfeld, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3005, Schweiz, Suisse, Svizzera, Svizra
+aV\u041d\u0411, \u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 167000, \u0420\u043e\u0441\u0441\u0438\u044f
 p1189
-aVNB, 15, Hallwylstrasse, Kirchenfeld, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3005, Schweiz, Suisse, Svizzera, Svizra
+aVNB, Josef-Baumann-Gasse, KG Leopoldau, Floridsdorf, Wien, 1210, Österreich
 p1190
-aVT\u1ec9nh Ninh Bình, Vi\u1ec7t Nam
-p1191
-aV\u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0623\u0632\u0631\u0642 Blue Nile State, \u0627\u0644\u0633\u0648\u062f\u0627\u0646 - Sudan
+aa(lp1191
+VManitoba, Canada
 p1192
-aV\u041d\u0411, \u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 167000, \u0420\u043e\u0441\u0441\u0438\u044f
+aVMbomou, Ködörösêse tî Bêafrîka - République Centrafricaine
 p1193
-aVNB, Josef-Baumann-Gasse, KG Leopoldau, Floridsdorf, Wien, 1210, Österreich
+aVMB, LOM, Italia
 p1194
-aa(lp1195
-VManitoba, Canada
+aVDowntown, Fort Rouge\u2013East Fort Garry, Winnipeg, Manitoba, MB, Canada
+p1195
+aVMB, 4800-4806, North Western Avenue, Bowmanville, Uptown, Chicago, Cook County, Illinois, 60618, United States of America
 p1196
-aVMbomou, Ködörösêse tî Bêafrîka - République Centrafricaine
+aVMB, Rua Abranches Ferrão, Sete Rios, Lisboa, Grande Lisboa, Lisboa, 1600-001, Portugal
 p1197
-aVMB, LOM, Italia
+aVMB, Mansfield Road, Norham Manor, Oxford, Oxon, South East, England, OX1 3SZ, United Kingdom
 p1198
-aVDowntown, Fort Rouge\u2013East Fort Garry, Winnipeg, Manitoba, MB, Canada
+aVMB, Müller-Breslau-Straße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10623, Deutschland
 p1199
-aVMB, 4800-4806, North Western Avenue, Bowmanville, Uptown, Chicago, Cook County, Illinois, 60618, United States of America
+aVMB, Tr\u1ea7n Thánh Tông, Hà N\u1ed9i, Thành ph\u1ed1 Hà N\u1ed9i, 01235, Vi\u1ec7t Nam
 p1200
-aVMB, Rua Abranches Ferrão, Sete Rios, Lisboa, Grande Lisboa, Lisboa, 1600-001, Portugal
+aVMB, South Service Road, Bayswater, Queens County, NYC, New York, 11010, United States of America
 p1201
-aVMB, Mansfield Road, Norham Manor, Oxford, Oxon, South East, England, OX1 3SZ, United Kingdom
-p1202
-aVMB, Müller-Breslau-Straße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10623, Deutschland
+aa(lp1202
+VOntario, Canada
 p1203
-aVMB, Tr\u1ea7n Thánh Tông, Hà N\u1ed9i, Thành ph\u1ed1 Hà N\u1ed9i, 01235, Vi\u1ec7t Nam
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1204
-aVMB, South Service Road, Bayswater, Queens County, NYC, New York, 11010, United States of America
+aVOshana Region, Namibia
 p1205
-aa(lp1206
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1206
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1207
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1208
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1209
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1210
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1211
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1212
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1213
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1213
+VKohlstadtgraben, Bad Waltersdorf, Hartberg-Fürstenfeld, Steiermark, 8271, Österreich
 p1214
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
 p1215
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
 p1216
-aa(lp1217
-VKohlstadtgraben, Bad Waltersdorf, Hartberg-Fürstenfeld, Steiermark, 8271, Österreich
+aVConthey, Valais - Wallis, 1975, Schweiz, Suisse, Svizzera, Svizra
+p1217
+aV1975, Vidice, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1218
-aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+aV1975, \u0160títary nad Radbuzou, Hostou\u0148, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1219
-aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+aV1975, Oplotec, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1220
-aVConthey, Valais - Wallis, 1975, Schweiz, Suisse, Svizzera, Svizra
+aV1975, Udi\u010da, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
 p1221
-aV1975, Vidice, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVGlorieta Monte del Gozo, Glorieta del Monte del Gozo, Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, España
 p1222
-aV1975, \u0160títary nad Radbuzou, Hostou\u0148, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVPuglia N.35, Via Puglia, Regio Parco, Circoscrizione 6, Torino, TO, PIE, 10156, Italia
 p1223
-aV1975, Oplotec, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1224
-aV1975, Udi\u010da, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
+aa(lp1224
+VKohlschwarzbach, Kainach bei Voitsberg, Voitsberg, Steiermark, 8573, Österreich
 p1225
-aVGlorieta Monte del Gozo, Glorieta del Monte del Gozo, Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, España
+aVFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1974, Danmark
 p1226
-aVPuglia N.35, Via Puglia, Regio Parco, Circoscrizione 6, Torino, TO, PIE, 10156, Italia
+aVArbaz, Sion, Valais - Wallis, 1974, Schweiz, Suisse, Svizzera, Svizra
 p1227
-aa(lp1228
-VKohlschwarzbach, Kainach bei Voitsberg, Voitsberg, Steiermark, 8573, Österreich
+aV\u041a1974, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1228
+aV1974, Svinná u \u0160títar, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1229
-aVFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1974, Danmark
+aV1974, \u0160ebe\u0161\u0165anová, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 017 04, Slovensko
 p1230
-aVArbaz, Sion, Valais - Wallis, 1974, Schweiz, Suisse, Svizzera, Svizra
+aV1974, \u0160ebe\u0161\u0165anová, Pova\u017eská Bystrica, \u0160ebe\u0161\u0165anová, Tren\u010diansky kraj, Západné Slovensko, 017 04, Slovensko
 p1231
-aV\u041a1974, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aVSouthwest Garden Home & 62nd Place, Southwest Garden Home Road, Maplewood, Portland, Multnomah County, Oregon, 97225, United States of America
 p1232
-aV1974, Svinná u \u0160títar, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aV1974, 127 Street NW, The Palisades, Edmonton, Alberta, T5L0Z9, Canada
 p1233
-aV1974, \u0160ebe\u0161\u0165anová, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 017 04, Slovensko
+aV1974, Am Stein, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
 p1234
-aV1974, \u0160ebe\u0161\u0165anová, Pova\u017eská Bystrica, \u0160ebe\u0161\u0165anová, Tren\u010diansky kraj, Západné Slovensko, 017 04, Slovensko
-p1235
-aVSouthwest Garden Home & 62nd Place, Southwest Garden Home Road, Maplewood, Portland, Multnomah County, Oregon, 97225, United States of America
-p1236
-aV1974, 127 Street NW, The Palisades, Edmonton, Alberta, T5L0Z9, Canada
-p1237
-aV1974, Am Stein, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
-p1238
-aa(lp1239
+aa(lp1235
 VFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1972, Danmark
-p1240
+p1236
 aV1972, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
-p1241
+p1237
 aV1972, Plevník-Drienové, Plevník - Drienové, Tren\u010diansky kraj, Západné Slovensko, 018 26, Slovensko
-p1242
+p1238
 aV1972, Plevník-Drienové, Plevník - Drienové, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01826, Slovensko
-p1243
+p1239
 aV1972, \u0425\u0430\u0434\u0436\u0438\u0434\u0438\u043c\u043e\u0432\u043e, \u041e\u0431\u043b\u0430\u0441\u0442 \u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f
-p1244
+p1240
 aV\u0421\u0430\u0442\u043e\u0432\u0447\u0430 -\u0412\u044a\u043b\u043a\u043e\u0441\u0435\u043b, \u0425\u0430\u0434\u0436\u0438\u0434\u0438\u043c\u043e\u0432\u043e, \u041e\u0431\u043b\u0430\u0441\u0442 \u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f
-p1245
+p1241
 aV1972, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
-p1246
+p1242
 aV1972, Medná, Srby, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34521, \u010cesko
-p1247
+p1243
 aV1972, Roudná u Hor\u0161ovského Týna, Srby, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34521, \u010cesko
-p1248
+p1244
 aV1972, \u0413\u044a\u0440\u043c\u0435\u043d, \u041e\u0431\u043b\u0430\u0441\u0442 \u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f
+p1245
+aa(lp1246
+VKohlstadtgraben, Bad Waltersdorf, Hartberg-Fürstenfeld, Steiermark, 8271, Österreich
+p1247
+aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+p1248
+aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
 p1249
-aa(lp1250
-VKohlstadtgraben, Bad Waltersdorf, Hartberg-Fürstenfeld, Steiermark, 8271, Österreich
+aVConthey, Valais - Wallis, 1975, Schweiz, Suisse, Svizzera, Svizra
+p1250
+aV1975, Vidice, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1251
-aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+aV1975, \u0160títary nad Radbuzou, Hostou\u0148, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1252
-aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
+aV1975, Oplotec, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1253
-aVConthey, Valais - Wallis, 1975, Schweiz, Suisse, Svizzera, Svizra
+aV1975, Udi\u010da, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
 p1254
-aV1975, Vidice, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVGlorieta Monte del Gozo, Glorieta del Monte del Gozo, Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, España
 p1255
-aV1975, \u0160títary nad Radbuzou, Hostou\u0148, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVPuglia N.35, Via Puglia, Regio Parco, Circoscrizione 6, Torino, TO, PIE, 10156, Italia
 p1256
-aV1975, Oplotec, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1257
-aV1975, Udi\u010da, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
+aa(lp1257
+VBritish Columbia, Canada
 p1258
-aVGlorieta Monte del Gozo, Glorieta del Monte del Gozo, Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, España
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1259
-aVPuglia N.35, Via Puglia, Regio Parco, Circoscrizione 6, Torino, TO, PIE, 10156, Italia
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1260
-aa(lp1261
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1261
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1262
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1263
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1264
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1265
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1266
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1267
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1268
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1268
+VSlovensko
 p1269
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVSaskatchewan, Canada
 p1270
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aV\u015bwi\u0119tokrzyskie, Polska
 p1271
-aa(lp1272
-VSlovensko
+aVSikkim, India
+p1272
+aV\u10e8\u10d8\u10d3\u10d0 \u10e5\u10d0\u10e0\u10d7\u10da\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1273
-aVSaskatchewan, Canada
+aV\u0421\u043e\u043a, \u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
 p1274
-aV\u015bwi\u0119tokrzyskie, Polska
+aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
 p1275
-aVSikkim, India
+aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
 p1276
-aV\u10e8\u10d8\u10d3\u10d0 \u10e5\u10d0\u10e0\u10d7\u10da\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aV\u0421\u043e\u043a, \u0418\u0441\u0430\u043a\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
 p1277
-aV\u0421\u043e\u043a, \u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aV\u0421\u043e\u043a, \u041a\u0430\u043c\u044b\u0448\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
 p1278
-aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
-p1279
-aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
+aa(lp1279
+VKohlschwarzbach, Kainach bei Voitsberg, Voitsberg, Steiermark, 8573, Österreich
 p1280
-aV\u0421\u043e\u043a, \u0418\u0441\u0430\u043a\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aVFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1974, Danmark
 p1281
-aV\u0421\u043e\u043a, \u041a\u0430\u043c\u044b\u0448\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aVArbaz, Sion, Valais - Wallis, 1974, Schweiz, Suisse, Svizzera, Svizra
 p1282
-aa(lp1283
-VKohlschwarzbach, Kainach bei Voitsberg, Voitsberg, Steiermark, 8573, Österreich
+aV\u041a1974, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1283
+aV1974, Svinná u \u0160títar, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1284
-aVFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1974, Danmark
+aV1974, \u0160ebe\u0161\u0165anová, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 017 04, Slovensko
 p1285
-aVArbaz, Sion, Valais - Wallis, 1974, Schweiz, Suisse, Svizzera, Svizra
+aV1974, \u0160ebe\u0161\u0165anová, Pova\u017eská Bystrica, \u0160ebe\u0161\u0165anová, Tren\u010diansky kraj, Západné Slovensko, 017 04, Slovensko
 p1286
-aV\u041a1974, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aVSouthwest Garden Home & 62nd Place, Southwest Garden Home Road, Maplewood, Portland, Multnomah County, Oregon, 97225, United States of America
 p1287
-aV1974, Svinná u \u0160títar, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aV1974, 127 Street NW, The Palisades, Edmonton, Alberta, T5L0Z9, Canada
 p1288
-aV1974, \u0160ebe\u0161\u0165anová, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 017 04, Slovensko
+aV1974, Am Stein, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
 p1289
-aV1974, \u0160ebe\u0161\u0165anová, Pova\u017eská Bystrica, \u0160ebe\u0161\u0165anová, Tren\u010diansky kraj, Západné Slovensko, 017 04, Slovensko
-p1290
-aVSouthwest Garden Home & 62nd Place, Southwest Garden Home Road, Maplewood, Portland, Multnomah County, Oregon, 97225, United States of America
+aa(lp1290
+VOntario, Canada
 p1291
-aV1974, 127 Street NW, The Palisades, Edmonton, Alberta, T5L0Z9, Canada
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1292
-aV1974, Am Stein, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
+aVOshana Region, Namibia
 p1293
-aa(lp1294
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1294
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1295
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1296
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1297
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1298
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1299
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1300
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1301
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1301
+VOntario, Canada
 p1302
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1303
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVOshana Region, Namibia
 p1304
-aa(lp1305
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1305
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1306
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1307
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1308
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1309
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1310
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1311
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1312
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1312
+VTzeusier, Icogne, Sierre, Valais - Wallis, 1977, Schweiz, Suisse, Svizzera, Svizra
 p1313
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aV1977, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
 p1314
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aV1977, Hatné, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
 p1315
-aa(lp1316
-VTzeusier, Icogne, Sierre, Valais - Wallis, 1977, Schweiz, Suisse, Svizzera, Svizra
+aV1977, Hatné, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
+p1316
+aV1977, Klie\u0161tina, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
 p1317
-aV1977, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+aV1977, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
 p1318
-aV1977, Hatné, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
+aV1977, Byst\u0159ice u B\u011blé nad Radbuzou, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
 p1319
-aV1977, Hatné, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
+aVR-C, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1320
-aV1977, Klie\u0161tina, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
+aVR-C, Kandahar, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1321
-aV1977, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
-p1322
-aV1977, Byst\u0159ice u B\u011blé nad Radbuzou, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
+aa(lp1322
+VOntario, Canada
 p1323
-aVR-C, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1324
-aVR-C, Kandahar, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVOshana Region, Namibia
 p1325
-aa(lp1326
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1326
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1327
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1328
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1329
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1330
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1331
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1332
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1333
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1333
+VAlberta, Canada
 p1334
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVAbia, Nigeria
 p1335
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVStockholms län, Svealand, Sverige
 p1336
-aa(lp1337
-VAlberta, Canada
+aVab, Ogden, Boone County, Iowa, 50212, United States of America
+p1337
+aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
 p1338
-aVAbia, Nigeria
+aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
 p1339
-aVStockholms län, Svealand, Sverige
+aVAB, Homeland, Howell County, Missouri, 65775, United States of America
 p1340
-aVab, Ogden, Boone County, Iowa, 50212, United States of America
+aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
 p1341
-aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
+aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
 p1342
-aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
+aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
 p1343
-aVAB, Homeland, Howell County, Missouri, 65775, United States of America
-p1344
-aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
+aaNa(lp1344
+VFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1973, Danmark
 p1345
-aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
+aVL'a Vielle, Mont-Noble, Hérens, Valais - Wallis, 1973, Schweiz, Suisse, Svizzera, Svizra
 p1346
-aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
+aV1973, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
 p1347
-aaNa(lp1348
-VFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1973, Danmark
+aV\u041a\u0443\u0441\u0442 1973, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1348
+aVPyhämaantie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1349
-aVL'a Vielle, Mont-Noble, Hérens, Valais - Wallis, 1973, Schweiz, Suisse, Svizzera, Svizra
+aVVanha Pitkäluodontie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1350
-aV1973, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+aVPyhämaantie, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1351
-aV\u041a\u0443\u0441\u0442 1973, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aVKettelintie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1352
-aVPyhämaantie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aV1973, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
 p1353
-aVVanha Pitkäluodontie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aV1973, Tasnovice, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1354
-aVPyhämaantie, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1355
-aVKettelintie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aa(lp1355
+VBritish Columbia, Canada
 p1356
-aV1973, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1357
-aV1973, Tasnovice, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1358
-aa(lp1359
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1359
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1360
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1361
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1362
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1363
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1364
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1365
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1366
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1366
+VBritish Columbia, Canada
 p1367
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1368
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1369
-aa(lp1370
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1370
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1371
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1372
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1373
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1374
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1375
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1376
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1377
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p1378
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p1379
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p1380
-aa(lp1381
+aa(lp1377
 VManitoba, Canada
-p1382
+p1378
 aVMbomou, Ködörösêse tî Bêafrîka - République Centrafricaine
-p1383
+p1379
 aVMB, LOM, Italia
-p1384
+p1380
 aVDowntown, Fort Rouge\u2013East Fort Garry, Winnipeg, Manitoba, MB, Canada
-p1385
+p1381
 aVMB, 4800-4806, North Western Avenue, Bowmanville, Uptown, Chicago, Cook County, Illinois, 60618, United States of America
-p1386
+p1382
 aVMB, Rua Abranches Ferrão, Sete Rios, Lisboa, Grande Lisboa, Lisboa, 1600-001, Portugal
-p1387
+p1383
 aVMB, Mansfield Road, Norham Manor, Oxford, Oxon, South East, England, OX1 3SZ, United Kingdom
-p1388
+p1384
 aVMB, Müller-Breslau-Straße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10623, Deutschland
-p1389
+p1385
 aVMB, Tr\u1ea7n Thánh Tông, Hà N\u1ed9i, Thành ph\u1ed1 Hà N\u1ed9i, 01235, Vi\u1ec7t Nam
-p1390
+p1386
 aVMB, South Service Road, Bayswater, Queens County, NYC, New York, 11010, United States of America
-p1391
-aa(lp1392
+p1387
+aa(lp1388
 VNew Brunswick, Canada
-p1393
+p1389
 aVNB, Bayern, Deutschland
-p1394
+p1390
 aVNoord-Brabant, Nederland
-p1395
+p1391
 aVNusa Tenggara Barat, Indonesia
-p1396
+p1392
 aVNB, 15, Hallwylstrasse, Kirchenfeld, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3005, Schweiz, Suisse, Svizzera, Svizra
-p1397
+p1393
 aVNB, 15, Hallwylstrasse, Kirchenfeld, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3005, Schweiz, Suisse, Svizzera, Svizra
-p1398
+p1394
 aVT\u1ec9nh Ninh Bình, Vi\u1ec7t Nam
-p1399
+p1395
 aV\u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0623\u0632\u0631\u0642 Blue Nile State, \u0627\u0644\u0633\u0648\u062f\u0627\u0646 - Sudan
-p1400
+p1396
 aV\u041d\u0411, \u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 167000, \u0420\u043e\u0441\u0441\u0438\u044f
-p1401
+p1397
 aVNB, Josef-Baumann-Gasse, KG Leopoldau, Floridsdorf, Wien, 1210, Österreich
+p1398
+aa(lp1399
+VFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1973, Danmark
+p1400
+aVL'a Vielle, Mont-Noble, Hérens, Valais - Wallis, 1973, Schweiz, Suisse, Svizzera, Svizra
+p1401
+aV1973, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
 p1402
-aa(lp1403
-VFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1973, Danmark
+aV\u041a\u0443\u0441\u0442 1973, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p1403
+aVPyhämaantie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1404
-aVL'a Vielle, Mont-Noble, Hérens, Valais - Wallis, 1973, Schweiz, Suisse, Svizzera, Svizra
+aVVanha Pitkäluodontie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1405
-aV1973, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+aVPyhämaantie, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1406
-aV\u041a\u0443\u0441\u0442 1973, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aVKettelintie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1407
-aVPyhämaantie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aV1973, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
 p1408
-aVVanha Pitkäluodontie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aV1973, Tasnovice, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1409
-aVPyhämaantie, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1410
-aVKettelintie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aa(lp1410
+VNew South Wales, Australia
 p1411
-aV1973, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
+aVCessnock, New South Wales, NSW, Australia
 p1412
-aV1973, Tasnovice, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1413
-aa(lp1414
-VNew South Wales, Australia
+aa(lp1413
+VOntario, Canada
+p1414
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1415
-aVCessnock, New South Wales, NSW, Australia
+aVOshana Region, Namibia
 p1416
-aa(lp1417
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1417
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1418
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1419
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1420
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1421
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1422
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1423
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1424
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p1425
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1426
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
-p1427
-aa(lp1428
+aa(lp1424
 VTzeusier, Icogne, Sierre, Valais - Wallis, 1977, Schweiz, Suisse, Svizzera, Svizra
-p1429
+p1425
 aV1977, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
-p1430
+p1426
 aV1977, Hatné, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
-p1431
+p1427
 aV1977, Hatné, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
-p1432
+p1428
 aV1977, Klie\u0161tina, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
-p1433
+p1429
 aV1977, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
-p1434
+p1430
 aV1977, Byst\u0159ice u B\u011blé nad Radbuzou, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
+p1431
+aVR-C, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1432
+aVR-C, Kandahar, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1433
+aa(lp1434
+VOntario, Canada
 p1435
-aVR-C, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1436
-aVR-C, Kandahar, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVOshana Region, Namibia
 p1437
-aa(lp1438
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1438
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1439
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1440
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1441
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1442
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1443
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1444
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1445
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1445
+VOntario, Canada
 p1446
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1447
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVOshana Region, Namibia
 p1448
-aa(lp1449
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1449
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1450
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1451
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1452
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1453
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1454
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1455
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1456
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1456
+VOntario, Canada
 p1457
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1458
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVOshana Region, Namibia
 p1459
-aa(lp1460
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1460
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1461
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1462
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1463
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1464
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1465
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1466
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1467
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1467
+VNew South Wales, Australia
 p1468
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVCessnock, New South Wales, NSW, Australia
 p1469
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
-p1470
-aa(lp1471
-VNew South Wales, Australia
+aa(lp1470
+VBritish Columbia, Canada
+p1471
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1472
-aVCessnock, New South Wales, NSW, Australia
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1473
-aa(lp1474
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1474
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1475
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1476
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1477
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1478
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1479
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1480
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1481
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p1482
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p1483
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p1484
-aa(lp1485
+aa(lp1481
 VNew South Wales, Australia
-p1486
+p1482
 aVCessnock, New South Wales, NSW, Australia
+p1483
+aa(lp1484
+VOntario, Canada
+p1485
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+p1486
+aVOshana Region, Namibia
 p1487
-aa(lp1488
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1488
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1489
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1490
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1491
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1492
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1493
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1494
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1495
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1495
+VLens, Sierre, Valais - Wallis, 1978, Schweiz, Suisse, Svizzera, Svizra
 p1496
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aV1978, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
 p1497
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aV1978, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
 p1498
-aa(lp1499
-VLens, Sierre, Valais - Wallis, 1978, Schweiz, Suisse, Svizzera, Svizra
+aV1978, T\u0159ískolupy pod P\u0159imdou, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
+p1499
+aV1978, Velké Dvorce, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1500
-aV1978, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+aV1978, T\u0159ískolupy pod P\u0159imdou, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1501
-aV1978, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
+aV1978, Malé Dvorce, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1502
-aV1978, T\u0159ískolupy pod P\u0159imdou, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
+aV1978, Dubec, T\u0159eme\u0161né, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
 p1503
-aV1978, Velké Dvorce, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aV1978, Pavlíkov u T\u0159eme\u0161ného, T\u0159eme\u0161né, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
 p1504
-aV1978, T\u0159ískolupy pod P\u0159imdou, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aV1978, Strá\u017e u Tachova, Strá\u017e, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1505
-aV1978, Malé Dvorce, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1506
-aV1978, Dubec, T\u0159eme\u0161né, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
-p1507
-aV1978, Pavlíkov u T\u0159eme\u0161ného, T\u0159eme\u0161né, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
-p1508
-aV1978, Strá\u017e u Tachova, Strá\u017e, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1509
-aa(lp1510
+aa(lp1506
 VEdmonton, Alberta, Canada
-p1511
+p1507
 aVEdmonton, London Borough of Enfield, London, Greater London, England, United Kingdom
-p1512
+p1508
 aVEdmonton, Metcalfe County, Kentucky, United States of America
-p1513
+p1509
 aVEdmonton, Cairns, QLD, Australia
-p1514
+p1510
 aVEdmonton, 1, Honeywall Lane, Newcastle-under-Lyme, Staffordshire, West Midlands, England, United Kingdom
-p1515
+p1511
 aVThe Edmonton, 275, Bleecker Street, St. James Town, Financial District, Toronto, Ontario, M4X 1G3, Canada
+p1512
+aa(lp1513
+VBritish Columbia, Canada
+p1514
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+p1515
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1516
-aa(lp1517
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1517
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1518
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1519
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1520
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1521
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1522
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1523
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1524
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1524
+V1979, Vâlcea, România
 p1525
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aV1979, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
 p1526
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aV1979, Jadru\u017e, Strá\u017e, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1527
-aa(lp1528
-V1979, Vâlcea, România
+aVR-C, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1528
+aV1979, Dolná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
 p1529
-aV1979, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
+aVR-C, Kandahar, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1530
-aV1979, Jadru\u017e, Strá\u017e, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVPuente de Vallecas, Avenida de Peña Prieta, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28053, España
 p1531
-aVR-C, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVSostegno, Strada Antica di Collegno, Parella, Circoscrizione 4, Torino, TO, PIE, 10146, Italia
 p1532
-aV1979, Dolná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+aVTymienieckiego - \u0141SSE, Wincentego Tymienieckiego, Stary Widzew, \u0141ód\u017a-Widzew, \u0141ód\u017a, \u0142ódzkie, PL, Polska
 p1533
-aVR-C, Kandahar, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVSouthwest Garden Home & 67th, Southwest Garden Home Road, Portland, Washington County, Oregon, 97225, United States of America
 p1534
-aVPuente de Vallecas, Avenida de Peña Prieta, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28053, España
-p1535
-aVSostegno, Strada Antica di Collegno, Parella, Circoscrizione 4, Torino, TO, PIE, 10146, Italia
-p1536
-aVTymienieckiego - \u0141SSE, Wincentego Tymienieckiego, Stary Widzew, \u0141ód\u017a-Widzew, \u0141ód\u017a, \u0142ódzkie, PL, Polska
-p1537
-aVSouthwest Garden Home & 67th, Southwest Garden Home Road, Portland, Washington County, Oregon, 97225, United States of America
-p1538
-aa(lp1539
+aa(lp1535
 VFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1973, Danmark
-p1540
+p1536
 aVL'a Vielle, Mont-Noble, Hérens, Valais - Wallis, 1973, Schweiz, Suisse, Svizzera, Svizra
-p1541
+p1537
 aV1973, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
-p1542
+p1538
 aV\u041a\u0443\u0441\u0442 1973, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p1543
+p1539
 aVPyhämaantie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1544
+p1540
 aVVanha Pitkäluodontie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1545
+p1541
 aVPyhämaantie, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1546
+p1542
 aVKettelintie, Pyhämaa, Uusikaupunki, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1547
+p1543
 aV1973, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
-p1548
+p1544
 aV1973, Tasnovice, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1545
+aa(lp1546
+VBritish Columbia, Canada
+p1547
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+p1548
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1549
-aa(lp1550
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1550
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1551
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1552
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1553
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1554
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1555
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1556
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1557
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1557
+VBritish Columbia, Canada
 p1558
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1559
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1560
-aa(lp1561
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1561
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1562
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1563
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1564
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1565
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1566
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1567
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1568
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1568
+VVästerås, Västmanlands län, Svealand, Sverige
 p1569
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
 p1570
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
 p1571
-aa(lp1572
-VVästerås, Västmanlands län, Svealand, Sverige
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+p1572
+aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
 p1573
-aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
 p1574
-aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1575
-aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1576
-aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1577
-aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
+aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1578
-aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1579
-aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aa(lp1579
+VBritish Columbia, Canada
 p1580
-aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1581
-aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1582
-aa(lp1583
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1583
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1584
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1585
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1586
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1587
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1588
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1589
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1590
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1590
+VVästerås, Västmanlands län, Svealand, Sverige
 p1591
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
 p1592
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
 p1593
-aa(lp1594
-VVästerås, Västmanlands län, Svealand, Sverige
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+p1594
+aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
 p1595
-aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
 p1596
-aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1597
-aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1598
-aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1599
-aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
+aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1600
-aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1601
-aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aa(lp1601
+V1979, Vâlcea, România
 p1602
-aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aV1979, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
 p1603
-aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aV1979, Jadru\u017e, Strá\u017e, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1604
-aa(lp1605
-V1979, Vâlcea, România
+aVR-C, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1605
+aV1979, Dolná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
 p1606
-aV1979, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
+aVR-C, Kandahar, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1607
-aV1979, Jadru\u017e, Strá\u017e, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVPuente de Vallecas, Avenida de Peña Prieta, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28053, España
 p1608
-aVR-C, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVSostegno, Strada Antica di Collegno, Parella, Circoscrizione 4, Torino, TO, PIE, 10146, Italia
 p1609
-aV1979, Dolná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+aVTymienieckiego - \u0141SSE, Wincentego Tymienieckiego, Stary Widzew, \u0141ód\u017a-Widzew, \u0141ód\u017a, \u0142ódzkie, PL, Polska
 p1610
-aVR-C, Kandahar, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVSouthwest Garden Home & 67th, Southwest Garden Home Road, Portland, Washington County, Oregon, 97225, United States of America
 p1611
-aVPuente de Vallecas, Avenida de Peña Prieta, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28053, España
-p1612
-aVSostegno, Strada Antica di Collegno, Parella, Circoscrizione 4, Torino, TO, PIE, 10146, Italia
-p1613
-aVTymienieckiego - \u0141SSE, Wincentego Tymienieckiego, Stary Widzew, \u0141ód\u017a-Widzew, \u0141ód\u017a, \u0142ódzkie, PL, Polska
-p1614
-aVSouthwest Garden Home & 67th, Southwest Garden Home Road, Portland, Washington County, Oregon, 97225, United States of America
-p1615
-aa(lp1616
+aa(lp1612
 VKöping, Västmanlands län, Svealand, Sverige
-p1617
+p1613
 aVFlanmayens, Evolène, Hérens, Valais - Wallis, 1983, Schweiz, Suisse, Svizzera, Svizra
-p1618
+p1614
 aVAbasto, Partido de La Plata, Bs. As., 1983, Argentina
-p1619
+p1615
 aV1983, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p1620
+p1616
 aVRobotnícka, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p1621
+p1617
 aVMilana Rastislava \u0160tefánika, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p1622
+p1618
 aVR-C, \u0648\u0644\u0627\u06cc\u062a \u063a\u0648\u0631, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1619
+aa(lp1620
+V1976, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1621
+aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1976, Nederland
+p1622
+aVConthey, Valais - Wallis, 1976, Schweiz, Suisse, Svizzera, Svizra
 p1623
-aa(lp1624
-V1976, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+aV1976, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
+p1624
+aV1976, Udi\u010da, Tren\u010diansky kraj, Západné Slovensko, 018 01, Slovensko
 p1625
-aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1976, Nederland
+aV1976, Doubravka u B\u011blé nad Radbuzou, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34525, \u010cesko
 p1626
-aVConthey, Valais - Wallis, 1976, Schweiz, Suisse, Svizzera, Svizra
+aV1976, Horná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
 p1627
-aV1976, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
+aV1976, Horná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 02055, Slovensko
 p1628
-aV1976, Udi\u010da, Tren\u010diansky kraj, Západné Slovensko, 018 01, Slovensko
+aV1976, Horná Mariková, Ráztoka, Tren\u010diansky kraj, Západné Slovensko, 02055, Slovensko
 p1629
-aV1976, Doubravka u B\u011blé nad Radbuzou, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34525, \u010cesko
+aV1976, Dolná Mariková, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
 p1630
-aV1976, Horná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p1631
-aV1976, Horná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 02055, Slovensko
+aa(lp1631
+VOntario, Canada
 p1632
-aV1976, Horná Mariková, Ráztoka, Tren\u010diansky kraj, Západné Slovensko, 02055, Slovensko
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1633
-aV1976, Dolná Mariková, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
+aVOshana Region, Namibia
 p1634
-aa(lp1635
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1635
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1636
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1637
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1638
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1639
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1640
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1641
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1642
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1642
+VBritish Columbia, Canada
 p1643
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1644
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1645
-aa(lp1646
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1646
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1647
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1648
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1649
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1650
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1651
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1652
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1653
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aaNa(lp1653
+VVästerås, Västmanlands län, Svealand, Sverige
 p1654
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
 p1655
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
 p1656
-aaNa(lp1657
-VVästerås, Västmanlands län, Svealand, Sverige
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+p1657
+aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
 p1658
-aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
 p1659
-aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1660
-aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1661
-aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1662
-aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
+aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1663
-aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1664
-aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aa(lp1664
+VBritish Columbia, Canada
 p1665
-aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1666
-aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1667
-aa(lp1668
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1668
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1669
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1670
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1671
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1672
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1673
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1674
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1675
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1675
+VOntario, Canada
 p1676
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1677
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVOshana Region, Namibia
 p1678
-aa(lp1679
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1679
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1680
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1681
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1682
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1683
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1684
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1685
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1686
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1686
+VBritish Columbia, Canada
 p1687
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1688
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1689
-aa(lp1690
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1690
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1691
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1692
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1693
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1694
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1695
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1696
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1697
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1697
+VOntario, Canada
 p1698
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1699
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVOshana Region, Namibia
 p1700
-aa(lp1701
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1701
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1702
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1703
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1704
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1705
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1706
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1707
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1708
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p1709
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1710
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
-p1711
-aa(lp1712
+aa(lp1708
 VDevon, South West England, England, United Kingdom
-p1713
+p1709
 aVTopsham, Devon, South West England, England, United Kingdom
-p1714
+p1710
 aVDevon, Leduc County, Alberta, Canada
-p1715
+p1711
 aVDevon, New Castle County, Delaware, United States of America
-p1716
+p1712
 aVDevon, Santa Barbara County, California, United States of America
-p1717
+p1713
 aVDevon, Suffolk County, New York, United States of America
-p1718
+p1714
 aVDevon, Chickasaw County, Iowa, United States of America
-p1719
+p1715
 aVDevon, Bourbon County, Kansas, United States of America
-p1720
+p1716
 aVDevon, Boone County, Kentucky, United States of America
-p1721
+p1717
 aVDevon, Toole County, Montana, United States of America
+p1718
+aa(lp1719
+VOntario, Canada
+p1720
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+p1721
+aVOshana Region, Namibia
 p1722
-aa(lp1723
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1723
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1724
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1725
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1726
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1727
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1728
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1729
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1730
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p1731
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p1732
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
-p1733
-aa(lp1734
+aa(lp1730
 VKohlstadtgraben, Bad Waltersdorf, Hartberg-Fürstenfeld, Steiermark, 8271, Österreich
-p1735
+p1731
 aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
-p1736
+p1732
 aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1975, Nederland
-p1737
+p1733
 aVConthey, Valais - Wallis, 1975, Schweiz, Suisse, Svizzera, Svizra
-p1738
+p1734
 aV1975, Vidice, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1739
+p1735
 aV1975, \u0160títary nad Radbuzou, Hostou\u0148, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1740
+p1736
 aV1975, Oplotec, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1741
+p1737
 aV1975, Udi\u010da, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01801, Slovensko
-p1742
+p1738
 aVGlorieta Monte del Gozo, Glorieta del Monte del Gozo, Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28050, España
-p1743
+p1739
 aVPuglia N.35, Via Puglia, Regio Parco, Circoscrizione 6, Torino, TO, PIE, 10156, Italia
+p1740
+aa(lp1741
+VVästerås, Västmanlands län, Svealand, Sverige
+p1742
+aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p1743
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
 p1744
-aa(lp1745
-VVästerås, Västmanlands län, Svealand, Sverige
+aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+p1745
+aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
 p1746
-aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
 p1747
-aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1748
-aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
+aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1749
-aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
+aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1750
-aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
+aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1751
-aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1752
-aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aa(lp1752
+VBritish Columbia, Canada
 p1753
-aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1754
-aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1755
-aa(lp1756
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1756
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1757
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1758
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1759
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1760
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1761
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1762
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1763
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1763
+VOntario, Canada
 p1764
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1765
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVOshana Region, Namibia
 p1766
-aa(lp1767
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1767
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1768
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1769
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1770
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1771
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1772
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1773
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1774
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1774
+VSala, Västmanlands län, Svealand, Sverige
 p1775
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVVelsen-Zuid, Velsen, MRA, Noord-Holland, Nederland, 1981, Nederland
 p1776
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVHofstade, Zemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1981, België - Belgique - Belgien
 p1777
-aa(lp1778
-VSala, Västmanlands län, Svealand, Sverige
+aVHofstade, Zemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1981, België - Belgique - Belgien
+p1778
+aVVex, Hérens, Valais - Wallis, 1981, Schweiz, Suisse, Svizzera, Svizra
 p1779
-aVVelsen-Zuid, Velsen, MRA, Noord-Holland, Nederland, 1981, Nederland
+aVR-C, Sangin, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1780
-aVHofstade, Zemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1981, België - Belgique - Belgien
+aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1781
-aVHofstade, Zemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1981, België - Belgique - Belgien
+aVR-C, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p1782
-aVVex, Hérens, Valais - Wallis, 1981, Schweiz, Suisse, Svizzera, Svizra
-p1783
-aVR-C, Sangin, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1784
-aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1785
-aVR-C, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1786
-aa(lp1787
+aa(lp1783
 VKohlschwarzbach, Kainach bei Voitsberg, Voitsberg, Steiermark, 8573, Österreich
-p1788
+p1784
 aVFrederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1974, Danmark
-p1789
+p1785
 aVArbaz, Sion, Valais - Wallis, 1974, Schweiz, Suisse, Svizzera, Svizra
-p1790
+p1786
 aV\u041a1974, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p1791
+p1787
 aV1974, Svinná u \u0160títar, Hor\u0161ovský Týn, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1792
+p1788
 aV1974, \u0160ebe\u0161\u0165anová, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 017 04, Slovensko
-p1793
+p1789
 aV1974, \u0160ebe\u0161\u0165anová, Pova\u017eská Bystrica, \u0160ebe\u0161\u0165anová, Tren\u010diansky kraj, Západné Slovensko, 017 04, Slovensko
-p1794
+p1790
 aVSouthwest Garden Home & 62nd Place, Southwest Garden Home Road, Maplewood, Portland, Multnomah County, Oregon, 97225, United States of America
-p1795
+p1791
 aV1974, 127 Street NW, The Palisades, Edmonton, Alberta, T5L0Z9, Canada
-p1796
+p1792
 aV1974, Am Stein, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
-p1797
-aa(lp1798
+p1793
+aa(lp1794
 VWarszawa, mazowieckie, Polska
-p1799
+p1795
 aVWarsaw, Richmond County, Virginia, United States of America
-p1800
+p1796
 aVWarsaw, Kosciusko County, Indiana, United States of America
-p1801
+p1797
 aVWarsaw, Benton County, Missouri, United States of America
-p1802
+p1798
 aVWarsaw, Gallatin County, Kentucky, United States of America
-p1803
+p1799
 aVWarsaw, Hancock County, Illinois, United States of America
-p1804
+p1800
 aVWarsaw, Jefferson County, Pennsylvania, United States of America
-p1805
+p1801
 aVWarsaw, Lackawanna County, Pennsylvania, United States of America
-p1806
+p1802
 aVWarsaw, Kaufman County, Texas, United States of America
-p1807
+p1803
 aVWarsaw, Sumter County, Alabama, United States of America
-p1808
-aa(lp1809
+p1804
+aa(lp1805
 V1976, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p1810
+p1806
 aVIJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1976, Nederland
-p1811
+p1807
 aVConthey, Valais - Wallis, 1976, Schweiz, Suisse, Svizzera, Svizra
-p1812
+p1808
 aV1976, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
-p1813
+p1809
 aV1976, Udi\u010da, Tren\u010diansky kraj, Západné Slovensko, 018 01, Slovensko
-p1814
+p1810
 aV1976, Doubravka u B\u011blé nad Radbuzou, B\u011blá nad Radbuzou, okres Doma\u017elice, Plze\u0148ský kraj, Jihozápad, 34525, \u010cesko
-p1815
+p1811
 aV1976, Horná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p1816
+p1812
 aV1976, Horná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 02055, Slovensko
-p1817
+p1813
 aV1976, Horná Mariková, Ráztoka, Tren\u010diansky kraj, Západné Slovensko, 02055, Slovensko
-p1818
+p1814
 aV1976, Dolná Mariková, Tren\u010diansky kraj, Západné Slovensko, 018 02, Slovensko
-p1819
-aa(lp1820
+p1815
+aa(lp1816
 VAlabama, United States of America
-p1821
+p1817
 aVShqipëria
-p1822
+p1818
 aVAL, Região Nordeste, Brasil
-p1823
+p1819
 aVAlytaus apskritis, Lietuva
-p1824
+p1820
 aVAL, PIE, Italia
-p1825
+p1821
 aVAllen County, Kansas, United States of America
-p1826
+p1822
 aVAllen County, Ohio, United States of America
-p1827
+p1823
 aVArlöv, Lommavägen, Arlöv, Burlöv, Skåne, Götaland, 23235, Sverige
-p1828
+p1824
 aVAlibori, Bénin
-p1829
+p1825
 aVAle, Västra Götalands län, Götaland, Sverige
-p1830
-aa(lp1831
+p1826
+aa(lp1827
 V1979, Vâlcea, România
-p1832
+p1828
 aV1979, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
-p1833
+p1829
 aV1979, Jadru\u017e, Strá\u017e, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1834
+p1830
 aVR-C, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1835
+p1831
 aV1979, Dolná Mariková, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p1836
+p1832
 aVR-C, Kandahar, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1837
+p1833
 aVPuente de Vallecas, Avenida de Peña Prieta, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28053, España
-p1838
+p1834
 aVSostegno, Strada Antica di Collegno, Parella, Circoscrizione 4, Torino, TO, PIE, 10146, Italia
-p1839
+p1835
 aVTymienieckiego - \u0141SSE, Wincentego Tymienieckiego, Stary Widzew, \u0141ód\u017a-Widzew, \u0141ód\u017a, \u0142ódzkie, PL, Polska
-p1840
+p1836
 aVSouthwest Garden Home & 67th, Southwest Garden Home Road, Portland, Washington County, Oregon, 97225, United States of America
+p1837
+aa(lp1838
+VOntario, Canada
+p1839
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+p1840
+aVOshana Region, Namibia
 p1841
-aa(lp1842
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1842
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1843
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1844
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1845
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1846
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1847
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1848
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1849
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1849
+VLens, Sierre, Valais - Wallis, 1978, Schweiz, Suisse, Svizzera, Svizra
 p1850
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aV1978, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
 p1851
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aV1978, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
 p1852
-aa(lp1853
-VLens, Sierre, Valais - Wallis, 1978, Schweiz, Suisse, Svizzera, Svizra
+aV1978, T\u0159ískolupy pod P\u0159imdou, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
+p1853
+aV1978, Velké Dvorce, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1854
-aV1978, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
+aV1978, T\u0159ískolupy pod P\u0159imdou, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1855
-aV1978, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
+aV1978, Malé Dvorce, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1856
-aV1978, T\u0159ískolupy pod P\u0159imdou, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
+aV1978, Dubec, T\u0159eme\u0161né, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
 p1857
-aV1978, Velké Dvorce, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aV1978, Pavlíkov u T\u0159eme\u0161ného, T\u0159eme\u0161né, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
 p1858
-aV1978, T\u0159ískolupy pod P\u0159imdou, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aV1978, Strá\u017e u Tachova, Strá\u017e, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p1859
-aV1978, Malé Dvorce, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1860
-aV1978, Dubec, T\u0159eme\u0161né, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
+aa(lp1860
+VBritish Columbia, Canada
 p1861
-aV1978, Pavlíkov u T\u0159eme\u0161ného, T\u0159eme\u0161né, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1862
-aV1978, Strá\u017e u Tachova, Strá\u017e, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1863
-aa(lp1864
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1864
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1865
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1866
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1867
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1868
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1869
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1870
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1871
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp1871
+VOntario, Canada
 p1872
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1873
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVOshana Region, Namibia
 p1874
-aa(lp1875
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1875
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1876
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1877
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1878
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1879
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1880
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1881
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1882
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1882
+VAlberta, Canada
 p1883
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVAbia, Nigeria
 p1884
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVStockholms län, Svealand, Sverige
 p1885
-aa(lp1886
-VAlberta, Canada
+aVab, Ogden, Boone County, Iowa, 50212, United States of America
+p1886
+aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
 p1887
-aVAbia, Nigeria
+aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
 p1888
-aVStockholms län, Svealand, Sverige
+aVAB, Homeland, Howell County, Missouri, 65775, United States of America
 p1889
-aVab, Ogden, Boone County, Iowa, 50212, United States of America
+aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
 p1890
-aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
+aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
 p1891
-aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
+aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
 p1892
-aVAB, Homeland, Howell County, Missouri, 65775, United States of America
-p1893
-aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
+aa(lp1893
+VBritish Columbia, Canada
 p1894
-aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1895
-aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1896
-aa(lp1897
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1897
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1898
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1899
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1900
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1901
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1902
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1903
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1904
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aaNaNa(lp1904
+VBritish Columbia, Canada
 p1905
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1906
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1907
-aaNaNa(lp1908
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1908
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1909
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1910
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1911
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1912
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1913
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1914
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1915
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p1916
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p1917
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p1918
-aa(lp1919
+aa(lp1915
 VLens, Sierre, Valais - Wallis, 1978, Schweiz, Suisse, Svizzera, Svizra
-p1920
+p1916
 aV1978, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
-p1921
+p1917
 aV1978, Rivera Hernandez, San Pedro Sula, Cortés, 504, Honduras
-p1922
+p1918
 aV1978, T\u0159ískolupy pod P\u0159imdou, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
-p1923
+p1919
 aV1978, Velké Dvorce, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1924
+p1920
 aV1978, T\u0159ískolupy pod P\u0159imdou, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1925
+p1921
 aV1978, Malé Dvorce, P\u0159imda, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p1926
+p1922
 aV1978, Dubec, T\u0159eme\u0161né, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
-p1927
+p1923
 aV1978, Pavlíkov u T\u0159eme\u0161ného, T\u0159eme\u0161né, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34526, \u010cesko
-p1928
+p1924
 aV1978, Strá\u017e u Tachova, Strá\u017e, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p1925
+aa(lp1926
+VBritish Columbia, Canada
+p1927
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+p1928
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1929
-aa(lp1930
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1930
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1931
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1932
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1933
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1934
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1935
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1936
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1937
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p1938
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p1939
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p1940
-aa(lp1941
+aa(lp1937
 VVästerås, Västmanlands län, Svealand, Sverige
-p1942
+p1938
 aV1980, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p1943
+p1939
 aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
-p1944
+p1940
 aVZemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1980, België - Belgique - Belgien
-p1945
+p1941
 aVBrandsen, Partido de Brandsen, Bs. As., 1980, Argentina
-p1946
+p1942
 aVTandang Kutyo, Rizal, Calabarzon, 1980, Philippines
-p1947
+p1943
 aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1948
+p1944
 aVSW-Rd-3, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p1949
+p1945
 aVSW-Rd-2, \u0644\u069a\u06a9\u0631\u06ab\u0627\u0647, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1946
+aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p1947
+aa(lp1948
+VOntario, Canada
+p1949
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1950
-aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVOshana Region, Namibia
 p1951
-aa(lp1952
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1952
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1953
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1954
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1955
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1956
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1957
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1958
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1959
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1959
+VOntario, Canada
 p1960
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p1961
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVOshana Region, Namibia
 p1962
-aa(lp1963
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p1963
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1964
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p1965
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1966
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p1967
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p1968
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p1969
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p1970
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp1970
+VSlovensko
 p1971
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVSaskatchewan, Canada
 p1972
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aV\u015bwi\u0119tokrzyskie, Polska
 p1973
-aa(lp1974
-VSlovensko
+aVSikkim, India
+p1974
+aV\u10e8\u10d8\u10d3\u10d0 \u10e5\u10d0\u10e0\u10d7\u10da\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p1975
-aVSaskatchewan, Canada
+aV\u0421\u043e\u043a, \u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
 p1976
-aV\u015bwi\u0119tokrzyskie, Polska
+aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
 p1977
-aVSikkim, India
+aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
 p1978
-aV\u10e8\u10d8\u10d3\u10d0 \u10e5\u10d0\u10e0\u10d7\u10da\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aV\u0421\u043e\u043a, \u0418\u0441\u0430\u043a\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
 p1979
-aV\u0421\u043e\u043a, \u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aV\u0421\u043e\u043a, \u041a\u0430\u043c\u044b\u0448\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
 p1980
-aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
-p1981
-aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
+aa(lp1981
+VBritish Columbia, Canada
 p1982
-aV\u0421\u043e\u043a, \u0418\u0441\u0430\u043a\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p1983
-aV\u0421\u043e\u043a, \u041a\u0430\u043c\u044b\u0448\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p1984
-aa(lp1985
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p1985
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p1986
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p1987
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p1988
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p1989
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p1990
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p1991
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p1992
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p1993
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p1994
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p1995
-aa(lp1996
+aa(lp1992
 VWorcester, Worcestershire, West Midlands, England, United Kingdom
-p1997
+p1993
 aVWorcester, Worcester County, Massachusetts, United States of America
-p1998
+p1994
 aVWorcester County, Massachusetts, United States of America
-p1999
+p1995
 aVWorcester, Massachusetts, United States of America
-p2000
+p1996
 aVWorcester County, Maryland, United States of America
-p2001
+p1997
 aVWorcester, Cape Winelands District Municipality, Western Cape, South Africa
-p2002
+p1998
 aVWorcester, Town of Worcester, Otsego County, New York, United States of America
-p2003
+p1999
 aVWorcester, Montgomery County, Pennsylvania, United States of America
-p2004
+p2000
 aVWorcester, Audrain County, Missouri, United States of America
-p2005
+p2001
 aVWorcester, Washington County, Vermont, United States of America
-p2006
-aa(lp2007
+p2002
+aa(lp2003
 VSala, Västmanlands län, Svealand, Sverige
-p2008
+p2004
 aVVelsen-Zuid, Velsen, MRA, Noord-Holland, Nederland, 1981, Nederland
-p2009
+p2005
 aVHofstade, Zemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1981, België - Belgique - Belgien
-p2010
+p2006
 aVHofstade, Zemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1981, België - Belgique - Belgien
-p2011
+p2007
 aVVex, Hérens, Valais - Wallis, 1981, Schweiz, Suisse, Svizzera, Svizra
-p2012
+p2008
 aVR-C, Sangin, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2013
+p2009
 aVRoute 611, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2014
+p2010
 aVR-C, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2015
-aa(lp2016
+p2011
+aa(lp2012
 VSlovensko
-p2017
+p2013
 aVSaskatchewan, Canada
-p2018
+p2014
 aV\u015bwi\u0119tokrzyskie, Polska
-p2019
+p2015
 aVSikkim, India
-p2020
+p2016
 aV\u10e8\u10d8\u10d3\u10d0 \u10e5\u10d0\u10e0\u10d7\u10da\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2021
+p2017
 aV\u0421\u043e\u043a, \u0421\u0435\u0440\u0433\u0438\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2022
+p2018
 aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
-p2023
+p2019
 aV\u0160ók, Selice, okres \u0160a\u013ea, Nitriansky kraj, Západné Slovensko, Slovensko
-p2024
+p2020
 aV\u0421\u043e\u043a, \u0418\u0441\u0430\u043a\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2025
+p2021
 aV\u0421\u043e\u043a, \u041a\u0430\u043c\u044b\u0448\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2026
-aa(lp2027
+p2022
+aa(lp2023
 VJos, Jos North, Plateau, Nigeria
-p2028
+p2024
 aVLe Jos, Barcus, Oloron-Sainte-Marie, Pyrénées-Atlantiques, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 64130, France
-p2029
+p2025
 aVLe Jos, Lanne-en-Barétous, Oloron-Sainte-Marie, Pyrénées-Atlantiques, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 64570, France
-p2030
+p2026
 aVLe Jos, Oloron-Sainte-Marie, Pyrénées-Atlantiques, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, France
-p2031
+p2027
 aVLe Jos, Oloron-Sainte-Marie, Pyrénées-Atlantiques, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, France
-p2032
+p2028
 aVJos, Saint-Girons, Ariège, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, France
-p2033
+p2029
 aVJos, Madirac, Bordeaux, Gironde, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 33670, France
-p2034
+p2030
 aVJos, Pont-de-Salars, Rodez, Aveyron, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 12290, France
-p2035
+p2031
 aVLe Joos, Geüs-d'Oloron, Oloron-Sainte-Marie, Pyrénées-Atlantiques, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 64400, France
-p2036
+p2032
 aVJOS, Soa, Méfou-et-Afamba, CE, Cameroun
-p2037
-aa(lp2038
+p2033
+aa(lp2034
 VRandburg, City of Johannesburg Metropolitan Municipality, Gauteng, South Africa
-p2039
+p2035
 aVRandburg, N14, Johannesburg Ward 96, Randburg, City of Johannesburg Metropolitan Municipality, Gauteng, South Africa
+p2036
+aa(lp2037
+VBritish Columbia, Canada
+p2038
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+p2039
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p2040
-aa(lp2041
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p2041
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p2042
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p2043
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p2044
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p2045
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p2046
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p2047
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2048
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp2048
+VBritish Columbia, Canada
 p2049
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p2050
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p2051
-aa(lp2052
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p2052
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p2053
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p2054
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p2055
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p2056
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p2057
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p2058
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2059
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp2059
+VDriehuis NH, Velsen, MRA, Noord-Holland, Nederland, 1985, Nederland
 p2060
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVMotau, Evolène, Hérens, Valais - Wallis, 1985, Schweiz, Suisse, Svizzera, Svizra
 p2061
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aV1985, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2062
-aa(lp2063
-VDriehuis NH, Velsen, MRA, Noord-Holland, Nederland, 1985, Nederland
+aV1985, Pokutice, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p2063
+aV1985, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
 p2064
-aVMotau, Evolène, Hérens, Valais - Wallis, 1985, Schweiz, Suisse, Svizzera, Svizra
+aV1985, Zásada u Kadan\u011b, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
 p2065
-aV1985, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2066
-aV1985, Pokutice, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2067
-aV1985, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+aVRa\u0161ovice, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2068
-aV1985, Zásada u Kadan\u011b, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2069
-aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2070
-aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2071
-aVRa\u0161ovice, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2072
-aa(lp2073
+aa(lp2069
 VDriehuis NH, Velsen, MRA, Noord-Holland, Nederland, 1985, Nederland
-p2074
+p2070
 aVMotau, Evolène, Hérens, Valais - Wallis, 1985, Schweiz, Suisse, Svizzera, Svizra
-p2075
+p2071
 aV1985, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2076
+p2072
 aV1985, Pokutice, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2077
+p2073
 aV1985, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2078
+p2074
 aV1985, Zásada u Kadan\u011b, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2079
+p2075
 aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2080
+p2076
 aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2081
+p2077
 aVRa\u0161ovice, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2082
-aa(lp2083
+p2078
+aa(lp2079
 VArboga, Västmanlands län, Svealand, Sverige
-p2084
+p2080
 aVLes Flaches, Evolène, Hérens, Valais - Wallis, 1984, Schweiz, Suisse, Svizzera, Svizra
-p2085
+p2081
 aV1984, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
-p2086
+p2082
 aV1984, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p2087
+p2083
 aV1984, Podmanín, Pova\u017eská Bystrica, Podmanín, Tren\u010diansky kraj, Západné Slovensko, 017 01, Slovensko
-p2088
+p2084
 aVR-1, \u0648\u0644\u0627\u06cc\u062a \u063a\u0648\u0631, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2089
-aa(lp2090
+p2085
+aa(lp2086
 VOntario, Canada
-p2091
+p2087
 aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
-p2092
+p2088
 aVOshana Region, Namibia
-p2093
+p2089
 aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
-p2094
+p2090
 aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2095
+p2091
 aVQeqertaq, Kalaallit Nunaat
-p2096
+p2092
 aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2097
+p2093
 aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p2098
+p2094
 aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p2099
+p2095
 aVÖn, Umeå, Västerbottens län, Norrland, Sverige
-p2100
-aa(lp2101
+p2096
+aa(lp2097
 VBritish Columbia, Canada
-p2102
+p2098
 aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
-p2103
+p2099
 aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
-p2104
+p2100
 aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
-p2105
+p2101
 aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
-p2106
+p2102
 aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
-p2107
+p2103
 aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2108
+p2104
 aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p2109
+p2105
 aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p2110
+p2106
 aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p2111
-aa(lp2112
+p2107
+aa(lp2108
 VAlberta, Canada
-p2113
+p2109
 aVAbia, Nigeria
-p2114
+p2110
 aVStockholms län, Svealand, Sverige
-p2115
+p2111
 aVab, Ogden, Boone County, Iowa, 50212, United States of America
-p2116
+p2112
 aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
-p2117
+p2113
 aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
-p2118
+p2114
 aVAB, Homeland, Howell County, Missouri, 65775, United States of America
-p2119
+p2115
 aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
-p2120
+p2116
 aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
-p2121
+p2117
 aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
+p2118
+aa(lp2119
+VNagaland, India
+p2120
+aVNewfoundland and Labrador, Canada
+p2121
+aVNederland
 p2122
-aa(lp2123
-VNagaland, India
+aVNL, Jetero Boulevard, Houston, Harris County, Texas, 77205, United States of America
+p2123
+aVNL+, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AX, Nederland
 p2124
-aVNewfoundland and Labrador, Canada
+aVHorseferry Road, Marsham Street, Millbank, City of Westminster, London, Greater London, England, SW1P 3DP, United Kingdom
 p2125
-aVNederland
+aVNastawnia kolejowa N\u0141, 39, Stare Miasto, Namys\u0142ów, gmina Namys\u0142ów, powiat namys\u0142owski, opolskie, Polska
 p2126
-aVNL, Jetero Boulevard, Houston, Harris County, Texas, 77205, United States of America
+aVVery Long Baseline Array, Mehaffey Bridge Road Northeast, Holiday Mobile Home Court, Johnson County, Iowa, 52333, United States of America
 p2127
-aVNL+, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AX, Nederland
+aVÑl, Calle 19, Barrio La Aguas, La Candelaria, Candelaria, Bogotá, 117111, Colombia
 p2128
-aVHorseferry Road, Marsham Street, Millbank, City of Westminster, London, Greater London, England, SW1P 3DP, United Kingdom
+aVNelhammar, H 889, Ukna, Västervik, Kalmar län, Götaland, Sverige
 p2129
-aVNastawnia kolejowa N\u0141, 39, Stare Miasto, Namys\u0142ów, gmina Namys\u0142ów, powiat namys\u0142owski, opolskie, Polska
-p2130
-aVVery Long Baseline Array, Mehaffey Bridge Road Northeast, Holiday Mobile Home Court, Johnson County, Iowa, 52333, United States of America
-p2131
-aVÑl, Calle 19, Barrio La Aguas, La Candelaria, Candelaria, Bogotá, 117111, Colombia
-p2132
-aVNelhammar, H 889, Ukna, Västervik, Kalmar län, Götaland, Sverige
-p2133
-aa(lp2134
+aa(lp2130
 VSalisbury, Wiltshire, South West England, England, United Kingdom
-p2135
+p2131
 aVHarare, Harare Province, Zimbabwe
-p2136
+p2132
 aVSalisbury, Rowan County, North Carolina, United States of America
-p2137
+p2133
 aVSalisbury, Wicomico County, Maryland, United States of America
-p2138
+p2134
 aVSalisbury, Brisbane, QLD, Australia
-p2139
+p2135
 aVSalisbury, Litchfield County, Connecticut, United States of America
-p2140
+p2136
 aVSalisbury, Westmorland County, New Brunswick, Canada
-p2141
+p2137
 aVSalisbury, Essex County, Massachusetts, United States of America
-p2142
+p2138
 aVSalisbury, Merrimack County, New Hampshire, United States of America
-p2143
+p2139
 aVSalisbury, Churchfields Road, Salisbury, Wiltshire, South West England, England, SP2 7FD, United Kingdom
-p2144
-aa(lp2145
+p2140
+aa(lp2141
 VNagaland, India
-p2146
+p2142
 aVNewfoundland and Labrador, Canada
-p2147
+p2143
 aVNederland
-p2148
+p2144
 aVNL, Jetero Boulevard, Houston, Harris County, Texas, 77205, United States of America
-p2149
+p2145
 aVNL+, Vertrekpassage, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118AX, Nederland
-p2150
+p2146
 aVHorseferry Road, Marsham Street, Millbank, City of Westminster, London, Greater London, England, SW1P 3DP, United Kingdom
-p2151
+p2147
 aVNastawnia kolejowa N\u0141, 39, Stare Miasto, Namys\u0142ów, gmina Namys\u0142ów, powiat namys\u0142owski, opolskie, Polska
-p2152
+p2148
 aVVery Long Baseline Array, Mehaffey Bridge Road Northeast, Holiday Mobile Home Court, Johnson County, Iowa, 52333, United States of America
-p2153
+p2149
 aVÑl, Calle 19, Barrio La Aguas, La Candelaria, Candelaria, Bogotá, 117111, Colombia
-p2154
+p2150
 aVNelhammar, H 889, Ukna, Västervik, Kalmar län, Götaland, Sverige
-p2155
-aa(lp2156
+p2151
+aa(lp2152
 V1988, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2157
+p2153
 aVR3, Almar, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2158
+p2154
 aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2155
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2156
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2157
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2158
+aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2159
 aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2160
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2161
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2162
-aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2163
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2164
 aVMYMN-Rd-1, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2161
+aa(lp2162
+VBritish Columbia, Canada
+p2163
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+p2164
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p2165
-aa(lp2166
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p2166
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p2167
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p2168
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p2169
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p2170
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p2171
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p2172
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2173
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p2174
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p2175
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p2176
-aa(lp2177
+aa(lp2173
 VNew Brunswick, Canada
-p2178
+p2174
 aVNB, Bayern, Deutschland
-p2179
+p2175
 aVNoord-Brabant, Nederland
-p2180
+p2176
 aVNusa Tenggara Barat, Indonesia
-p2181
+p2177
 aVNB, 15, Hallwylstrasse, Kirchenfeld, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3005, Schweiz, Suisse, Svizzera, Svizra
-p2182
+p2178
 aVNB, 15, Hallwylstrasse, Kirchenfeld, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern - Berne, 3005, Schweiz, Suisse, Svizzera, Svizra
-p2183
+p2179
 aVT\u1ec9nh Ninh Bình, Vi\u1ec7t Nam
-p2184
+p2180
 aV\u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0623\u0632\u0631\u0642 Blue Nile State, \u0627\u0644\u0633\u0648\u062f\u0627\u0646 - Sudan
-p2185
+p2181
 aV\u041d\u0411, \u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 167000, \u0420\u043e\u0441\u0441\u0438\u044f
-p2186
+p2182
 aVNB, Josef-Baumann-Gasse, KG Leopoldau, Floridsdorf, Wien, 1210, Österreich
+p2183
+aa(lp2184
+VBritish Columbia, Canada
+p2185
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+p2186
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p2187
-aa(lp2188
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p2188
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p2189
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p2190
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p2191
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p2192
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p2193
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p2194
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2195
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp2195
+VOntario, Canada
 p2196
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p2197
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVOshana Region, Namibia
 p2198
-aa(lp2199
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p2199
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2200
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p2201
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2202
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p2203
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p2204
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p2205
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2206
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp2206
+VAlberta, Canada
 p2207
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVAbia, Nigeria
 p2208
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVStockholms län, Svealand, Sverige
 p2209
-aa(lp2210
-VAlberta, Canada
+aVab, Ogden, Boone County, Iowa, 50212, United States of America
+p2210
+aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
 p2211
-aVAbia, Nigeria
+aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
 p2212
-aVStockholms län, Svealand, Sverige
+aVAB, Homeland, Howell County, Missouri, 65775, United States of America
 p2213
-aVab, Ogden, Boone County, Iowa, 50212, United States of America
+aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
 p2214
-aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
+aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
 p2215
-aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
+aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
 p2216
-aVAB, Homeland, Howell County, Missouri, 65775, United States of America
-p2217
-aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
+aa(lp2217
+VOntario, Canada
 p2218
-aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p2219
-aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
+aVOshana Region, Namibia
 p2220
-aa(lp2221
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p2221
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2222
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p2223
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2224
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p2225
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p2226
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p2227
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2228
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp2228
+VAlberta, Canada
 p2229
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVAbia, Nigeria
 p2230
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVStockholms län, Svealand, Sverige
 p2231
-aa(lp2232
-VAlberta, Canada
+aVab, Ogden, Boone County, Iowa, 50212, United States of America
+p2232
+aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
 p2233
-aVAbia, Nigeria
+aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
 p2234
-aVStockholms län, Svealand, Sverige
+aVAB, Homeland, Howell County, Missouri, 65775, United States of America
 p2235
-aVab, Ogden, Boone County, Iowa, 50212, United States of America
+aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
 p2236
-aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
+aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
 p2237
-aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
+aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
 p2238
-aVAB, Homeland, Howell County, Missouri, 65775, United States of America
-p2239
-aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
+aa(lp2239
+VBritish Columbia, Canada
 p2240
-aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p2241
-aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p2242
-aa(lp2243
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p2243
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p2244
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p2245
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p2246
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p2247
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p2248
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p2249
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2250
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p2251
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p2252
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p2253
-aa(lp2254
+aa(lp2250
 VArboga, Västmanlands län, Svealand, Sverige
-p2255
+p2251
 aVLes Flaches, Evolène, Hérens, Valais - Wallis, 1984, Schweiz, Suisse, Svizzera, Svizra
-p2256
+p2252
 aV1984, \u03a0\u03ad\u03bb\u03bb\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03ad\u03bb\u03bb\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 58005, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1
-p2257
+p2253
 aV1984, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p2258
+p2254
 aV1984, Podmanín, Pova\u017eská Bystrica, Podmanín, Tren\u010diansky kraj, Západné Slovensko, 017 01, Slovensko
-p2259
+p2255
 aVR-1, \u0648\u0644\u0627\u06cc\u062a \u063a\u0648\u0631, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2260
-aa(lp2261
+p2256
+aa(lp2257
 VManitoba, Canada
-p2262
+p2258
 aVMbomou, Ködörösêse tî Bêafrîka - République Centrafricaine
-p2263
+p2259
 aVMB, LOM, Italia
-p2264
+p2260
 aVDowntown, Fort Rouge\u2013East Fort Garry, Winnipeg, Manitoba, MB, Canada
-p2265
+p2261
 aVMB, 4800-4806, North Western Avenue, Bowmanville, Uptown, Chicago, Cook County, Illinois, 60618, United States of America
-p2266
+p2262
 aVMB, Rua Abranches Ferrão, Sete Rios, Lisboa, Grande Lisboa, Lisboa, 1600-001, Portugal
-p2267
+p2263
 aVMB, Mansfield Road, Norham Manor, Oxford, Oxon, South East, England, OX1 3SZ, United Kingdom
-p2268
+p2264
 aVMB, Müller-Breslau-Straße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10623, Deutschland
-p2269
+p2265
 aVMB, Tr\u1ea7n Thánh Tông, Hà N\u1ed9i, Thành ph\u1ed1 Hà N\u1ed9i, 01235, Vi\u1ec7t Nam
-p2270
+p2266
 aVMB, South Service Road, Bayswater, Queens County, NYC, New York, 11010, United States of America
+p2267
+aa(lp2268
+V1986, \u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p2269
+aV\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0439\u043e\u0440\u043e\u0432\u0430, \u041d\u0435\u0444\u0442\u0435\u0441\u0442\u0440\u043e\u0439, \u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 150023, \u0420\u043e\u0441\u0441\u0438\u044f
+p2270
+aVWriezener Karree, Fhain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland
 p2271
-aa(lp2272
-V1986, \u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+aVVängavägen, Alingsås kommun, Alingsås, Västra Götalands län, Götaland, Sverige
+p2272
+aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Lestkov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2273
-aV\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0439\u043e\u0440\u043e\u0432\u0430, \u041d\u0435\u0444\u0442\u0435\u0441\u0442\u0440\u043e\u0439, \u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 150023, \u0420\u043e\u0441\u0441\u0438\u044f
+aV1986, Velká Lesná, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2274
-aVWriezener Karree, Fhain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland
+aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2275
-aVVängavägen, Alingsås kommun, Alingsås, Västra Götalands län, Götaland, Sverige
+aV1986, Praznov, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
 p2276
-aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Lestkov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+aV1986, SNP, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
 p2277
-aV1986, Velká Lesná, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+aVSierra Toledana - Patio Santiago, Calle de la Sierra Toledana, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28038, España
 p2278
-aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2279
-aV1986, Praznov, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+aa(lp2279
+VOntario, Canada
 p2280
-aV1986, SNP, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p2281
-aVSierra Toledana - Patio Santiago, Calle de la Sierra Toledana, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28038, España
+aVOshana Region, Namibia
 p2282
-aa(lp2283
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p2283
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2284
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p2285
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2286
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p2287
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p2288
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p2289
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2290
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p2291
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p2292
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
-p2293
-aa(lp2294
+aa(lp2290
 VEdmonton, Alberta, Canada
-p2295
+p2291
 aVEdmonton, London Borough of Enfield, London, Greater London, England, United Kingdom
-p2296
+p2292
 aVEdmonton, Metcalfe County, Kentucky, United States of America
-p2297
+p2293
 aVEdmonton, Cairns, QLD, Australia
-p2298
+p2294
 aVEdmonton, 1, Honeywall Lane, Newcastle-under-Lyme, Staffordshire, West Midlands, England, United Kingdom
-p2299
+p2295
 aVThe Edmonton, 275, Bleecker Street, St. James Town, Financial District, Toronto, Ontario, M4X 1G3, Canada
-p2300
-aa(lp2301
+p2296
+aa(lp2297
 VWellington, Wellington City, Wellington, New Zealand/Aotearoa
-p2302
+p2298
 aVWellington, New Zealand/Aotearoa
-p2303
+p2299
 aVWellington, Telford and Wrekin, West Midlands, England, United Kingdom
-p2304
+p2300
 aVWellington, Somerset, South West England, England, United Kingdom
-p2305
+p2301
 aVWellington, Collingsworth County, Texas, United States of America
-p2306
+p2302
 aVWellington, Jefferson County, Kentucky, United States of America
-p2307
+p2303
 aVWellington, Palm Beach County, Florida, United States of America
-p2308
+p2304
 aVWellington, Palm Beach County, Florida, United States of America
-p2309
+p2305
 aVWellington, Larimer County, Colorado, United States of America
-p2310
+p2306
 aVWellington, Prince County, Prince Edward Island, Canada
+p2307
+aa(lp2308
+VOntario, Canada
+p2309
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+p2310
+aVOshana Region, Namibia
 p2311
-aa(lp2312
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p2312
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2313
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p2314
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2315
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p2316
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p2317
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p2318
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2319
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp2319
+VBritish Columbia, Canada
 p2320
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
 p2321
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p2322
-aa(lp2323
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p2323
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p2324
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p2325
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p2326
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p2327
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p2328
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p2329
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2330
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp2330
+V1986, \u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
 p2331
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aV\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0439\u043e\u0440\u043e\u0432\u0430, \u041d\u0435\u0444\u0442\u0435\u0441\u0442\u0440\u043e\u0439, \u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 150023, \u0420\u043e\u0441\u0441\u0438\u044f
 p2332
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVWriezener Karree, Fhain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland
 p2333
-aa(lp2334
-V1986, \u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+aVVängavägen, Alingsås kommun, Alingsås, Västra Götalands län, Götaland, Sverige
+p2334
+aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Lestkov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2335
-aV\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0439\u043e\u0440\u043e\u0432\u0430, \u041d\u0435\u0444\u0442\u0435\u0441\u0442\u0440\u043e\u0439, \u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 150023, \u0420\u043e\u0441\u0441\u0438\u044f
+aV1986, Velká Lesná, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2336
-aVWriezener Karree, Fhain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland
+aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2337
-aVVängavägen, Alingsås kommun, Alingsås, Västra Götalands län, Götaland, Sverige
+aV1986, Praznov, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
 p2338
-aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Lestkov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+aV1986, SNP, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
 p2339
-aV1986, Velká Lesná, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+aVSierra Toledana - Patio Santiago, Calle de la Sierra Toledana, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28038, España
 p2340
-aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2341
-aV1986, Praznov, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2342
-aV1986, SNP, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2343
-aVSierra Toledana - Patio Santiago, Calle de la Sierra Toledana, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28038, España
-p2344
-aa(lp2345
+aa(lp2341
 VTroon, South Ayrshire, Scotland, United Kingdom
-p2346
+p2342
 aVTroon, Maricopa County, Arizona, United States of America
-p2347
+p2343
 aVTroon, Great Yarmouth, Norfolk, East of England, England, United Kingdom
-p2348
+p2344
 aVTrône - Troon, Avenue des Arts - Kunstlaan, Quartier européen - Europese Wijk, Quartier Européen - Europese Wijk, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
-p2349
+p2345
 aVTroon, Dallas Court, Troon, South Ayrshire, Scotland, KA10 6EF, United Kingdom
-p2350
+p2346
 aVTroon, Cornwall, South West England, England, United Kingdom
-p2351
+p2347
 aVTroon, Beaumont, Jefferson County, Texas, 77707, United States of America
-p2352
+p2348
 aVTroon, Stonydelph, Tamworth, Staffordshire, West Midlands, England, B77 4EG, United Kingdom
-p2353
+p2349
+aVTroon, Grobbendonk, Turnhout, Antwerpen, Vlaanderen, 2280;2288, België - Belgique - Belgien
+p2350
 aVTroon, Lake Charles, Calcasieu Parish, Louisiana, 70605, United States of America
-p2354
-aVTroon, Waterwood, San Jacinto County, Texas, United States of America
-p2355
-aa(lp2356
+p2351
+aa(lp2352
 V1986, \u0417\u0435\u043b\u0435\u043d\u0447\u0443\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2357
+p2353
 aV\u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0439\u043e\u0440\u043e\u0432\u0430, \u041d\u0435\u0444\u0442\u0435\u0441\u0442\u0440\u043e\u0439, \u041a\u0440\u0430\u0441\u043d\u043e\u043f\u0435\u0440\u0435\u043a\u043e\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u043b\u044c, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 150023, \u0420\u043e\u0441\u0441\u0438\u044f
-p2358
+p2354
 aVWriezener Karree, Fhain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland
-p2359
+p2355
 aVVängavägen, Alingsås kommun, Alingsås, Västra Götalands län, Götaland, Sverige
-p2360
+p2356
 aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Lestkov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2361
+p2357
 aV1986, Velká Lesná, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2362
+p2358
 aV1986, Lestkov u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2363
+p2359
 aV1986, Praznov, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2364
+p2360
 aV1986, SNP, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2365
+p2361
 aVSierra Toledana - Patio Santiago, Calle de la Sierra Toledana, Numancia, Puente de Vallecas, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28038, España
+p2362
+aa(lp2363
+VBritish Columbia, Canada
+p2364
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+p2365
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p2366
-aa(lp2367
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p2367
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p2368
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p2369
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p2370
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p2371
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p2372
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p2373
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2374
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp2374
+VOntario, Canada
 p2375
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p2376
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aVOshana Region, Namibia
 p2377
-aa(lp2378
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p2378
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2379
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p2380
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2381
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p2382
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p2383
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p2384
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2385
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp2385
+VOntario, Canada
 p2386
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p2387
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVOshana Region, Namibia
 p2388
-aa(lp2389
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p2389
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2390
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p2391
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2392
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p2393
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p2394
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p2395
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2396
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
+aa(lp2396
+VAlberta, Canada
 p2397
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
+aVAbia, Nigeria
 p2398
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
+aVStockholms län, Svealand, Sverige
 p2399
-aa(lp2400
-VAlberta, Canada
+aVab, Ogden, Boone County, Iowa, 50212, United States of America
+p2400
+aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
 p2401
-aVAbia, Nigeria
+aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
 p2402
-aVStockholms län, Svealand, Sverige
+aVAB, Homeland, Howell County, Missouri, 65775, United States of America
 p2403
-aVab, Ogden, Boone County, Iowa, 50212, United States of America
+aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
 p2404
-aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
+aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
 p2405
-aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
+aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
 p2406
-aVAB, Homeland, Howell County, Missouri, 65775, United States of America
-p2407
-aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
+aa(lp2407
+VOntario, Canada
 p2408
-aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
+aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
 p2409
-aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
+aVOshana Region, Namibia
 p2410
-aa(lp2411
-VOntario, Canada
+aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+p2411
+aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2412
-aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
+aVQeqertaq, Kalaallit Nunaat
 p2413
-aVOshana Region, Namibia
+aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
 p2414
-aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
+aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
 p2415
-aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
+aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
 p2416
-aVQeqertaq, Kalaallit Nunaat
+aVÖn, Umeå, Västerbottens län, Norrland, Sverige
 p2417
-aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2418
-aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p2419
-aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p2420
-aVÖn, Umeå, Västerbottens län, Norrland, Sverige
-p2421
-aa(lp2422
+aa(lp2418
 VKöping, Västmanlands län, Svealand, Sverige
-p2423
+p2419
 aVFlanmayens, Evolène, Hérens, Valais - Wallis, 1983, Schweiz, Suisse, Svizzera, Svizra
-p2424
+p2420
 aVAbasto, Partido de La Plata, Bs. As., 1983, Argentina
-p2425
+p2421
 aV1983, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p2426
+p2422
 aVRobotnícka, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p2427
+p2423
 aVMilana Rastislava \u0160tefánika, Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01701, Slovensko
-p2428
+p2424
 aVR-C, \u0648\u0644\u0627\u06cc\u062a \u063a\u0648\u0631, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2425
+aa(lp2426
+VBritish Columbia, Canada
+p2427
+aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+p2428
+aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
 p2429
-aa(lp2430
-VBritish Columbia, Canada
+aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+p2430
+aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
 p2431
-aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
+aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
 p2432
-aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
+aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
 p2433
-aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
+aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
 p2434
-aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
+aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
 p2435
-aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
+aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
 p2436
-aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2437
-aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
+aa(lp2437
+VVelserbroek, Velsen, MRA, Noord-Holland, Nederland, 1991, Nederland
 p2438
-aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
+aVSion, Valais - Wallis, 1991, Schweiz, Suisse, Svizzera, Svizra
 p2439
-aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
+aV1991, Málkovice, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p2440
-aa(lp2441
-VVelserbroek, Velsen, MRA, Noord-Holland, Nederland, 1991, Nederland
+aV1991, Kurojedy, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+p2441
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2442
-aVSion, Valais - Wallis, 1991, Schweiz, Suisse, Svizzera, Svizra
+aVR-C, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2443
-aV1991, Málkovice, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aVDinetard, Rue Louis Plana, Jolimont - Soupetard - Bonhoure, Toulouse Est, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France
 p2444
-aV1991, Kurojedy, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
+aV1991, Lurzenbacher Straße, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
 p2445
-aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aV1991, \u0e16\u0e19\u0e19\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e27\u0e07\u0e28\u0e4c, \u0e0a\u0e49\u0e32\u0e07\u0e40\u0e1c\u0e37\u0e2d\u0e01, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50000, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22
 p2446
-aVR-C, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aV1991, K 7504, Maselheim, Verwaltungsgemeinschaft Biberach an der Riß, Landkreis Biberach, Regierungsbezirk Tübingen, Baden-Württemberg, 88437, Deutschland
 p2447
-aVDinetard, Rue Louis Plana, Jolimont - Soupetard - Bonhoure, Toulouse Est, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France
-p2448
-aV1991, Lurzenbacher Straße, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
-p2449
-aV1991, \u0e16\u0e19\u0e19\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e27\u0e07\u0e28\u0e4c, \u0e0a\u0e49\u0e32\u0e07\u0e40\u0e1c\u0e37\u0e2d\u0e01, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50000, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22
-p2450
-aV1991, K 7504, Maselheim, Verwaltungsgemeinschaft Biberach an der Riß, Landkreis Biberach, Regierungsbezirk Tübingen, Baden-Württemberg, 88437, Deutschland
-p2451
-aa(lp2452
+aa(lp2448
 VOntario, Canada
-p2453
+p2449
 aVOlne, Verviers, Liège, Wallonie, 4877, België - Belgique - Belgien
-p2454
+p2450
 aVOshana Region, Namibia
-p2455
+p2451
 aVAugne, Limoges, Haute-Vienne, Aquitaine-Limousin-Poitou-Charentes, France métropolitaine, 87120, France
-p2456
+p2452
 aV\u10dd\u10dc\u10d8 (Oni), \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2457
+p2453
 aVQeqertaq, Kalaallit Nunaat
-p2458
+p2454
 aV\u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd
-p2459
+p2455
 aV\u6e29\u53bf, \u6e29\u53bf (Wen), \u7126\u4f5c\u5e02 / Jiaozuo, \u6cb3\u5357\u7701, \u4e2d\u56fd
-p2460
+p2456
 aVÖn, Pargas, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etelä-Suomi, Suomi
-p2461
+p2457
 aVÖn, Umeå, Västerbottens län, Norrland, Sverige
-p2462
-aa(lp2463
+p2458
+aa(lp2459
 V\u041a1989, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2464
+p2460
 aV1989, Po\u010darová, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2465
+p2461
 aV1989, Úho\u0161\u0165any, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2466
+p2462
 aV1989, Domani\u017ea, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2467
+p2463
 aV1989, Zemianska Závada, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2468
+p2464
 aV1989, Dereham Road, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 3TL, United Kingdom
-p2469
-aa(lp2470
+p2465
+aa(lp2466
 V1992, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2471
+p2467
 aVLes Agettes, Hérens, Valais - Wallis, 1992, Schweiz, Suisse, Svizzera, Svizra
-p2472
+p2468
 aV\u041a1992, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2473
+p2469
 aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
-p2474
+p2470
 aV1992, T\u011bchlovice u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
-p2475
+p2471
 aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2476
+p2472
 aV1992, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2477
+p2473
 aV1992, Nynkov, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2478
+p2474
 aVTorggatan, Kyrkholmen, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
-p2479
+p2475
 aVStorgatan, Norrbacka, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
-p2480
-aa(lp2481
+p2476
+aa(lp2477
 VVelserbroek, Velsen, MRA, Noord-Holland, Nederland, 1991, Nederland
-p2482
+p2478
 aVSion, Valais - Wallis, 1991, Schweiz, Suisse, Svizzera, Svizra
-p2483
+p2479
 aV1991, Málkovice, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2484
+p2480
 aV1991, Kurojedy, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2485
+p2481
 aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2486
+p2482
 aVR-C, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2487
+p2483
 aVDinetard, Rue Louis Plana, Jolimont - Soupetard - Bonhoure, Toulouse Est, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France
-p2488
+p2484
 aV1991, Lurzenbacher Straße, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
-p2489
+p2485
 aV1991, \u0e16\u0e19\u0e19\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e27\u0e07\u0e28\u0e4c, \u0e0a\u0e49\u0e32\u0e07\u0e40\u0e1c\u0e37\u0e2d\u0e01, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50000, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22
-p2490
+p2486
 aV1991, K 7504, Maselheim, Verwaltungsgemeinschaft Biberach an der Riß, Landkreis Biberach, Regierungsbezirk Tübingen, Baden-Württemberg, 88437, Deutschland
-p2491
-aa(lp2492
+p2487
+aa(lp2488
 VBritish Columbia, Canada
-p2493
+p2489
 aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
-p2494
+p2490
 aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
-p2495
+p2491
 aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
-p2496
+p2492
 aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
-p2497
+p2493
 aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
-p2498
+p2494
 aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2499
+p2495
 aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p2500
+p2496
 aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p2501
+p2497
 aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p2502
-aa(lp2503
+p2498
+aa(lp2499
 VQuébec, Canada
-p2504
+p2500
 aVQuiché, Guatemala
-p2505
+p2501
 aVQC, Chalmersgatan, Lorensberg, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 411 27, Sverige
-p2506
-aVQC, Queensbridge Road, Haggerston, London Borough of Hackney, London, Greater London, England, E8 4DU, United Kingdom
-p2507
+p2502
 aVQC, 460, Chemin de Revel, Quartier Saint-Benoît, Moissac, Castelsarrasin, Tarn-et-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 82200, France
-p2508
-aa(lp2509
+p2503
+aa(lp2504
 VAlberta, Canada
-p2510
+p2505
 aVAbia, Nigeria
-p2511
+p2506
 aVStockholms län, Svealand, Sverige
-p2512
+p2507
 aVab, Ogden, Boone County, Iowa, 50212, United States of America
-p2513
+p2508
 aVAb, Kæret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark
-p2514
+p2509
 aVAncienne Belgique, 110, Boulevard Anspach - Anspachlaan, Marolles - Marollen, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België - Belgique - Belgien
-p2515
+p2510
 aVAB, Homeland, Howell County, Missouri, 65775, United States of America
-p2516
+p2511
 aVAEB, Igara, Canoas, Microrregião de Porto Alegre, Região Metropolitana de Porto Alegre, Mesorregião Metropolitana de Porto Alegre, RS, Região Sul, 92020510, Brasil
-p2517
+p2512
 aV\u0622\u0628, Ardabil, \u0634\u0647\u0631\u06a9 \u0641\u0631\u0647\u0646\u06af\u06cc\u0627\u0646, \u0627\u0631\u062f\u0628\u064a\u0644, \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, 1, \u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc\u200f\u0627\u064a\u0631\u0627\u0646\u200e
-p2518
+p2513
 aVAB, Spine Road, Guildford Park, Guildford, Surrey, South East, England, GU2 7XH, United Kingdom
-p2519
-aa(lp2520
+p2514
+aa(lp2515
 VNendaz, Conthey, Valais - Wallis, 1994, Schweiz, Suisse, Svizzera, Svizra
-p2521
+p2516
 aV\u041a1994, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2522
+p2517
 aV1994, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2523
-aV1994, Ostrovce, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
-p2524
+p2518
 aVSvoj\u0161ínská, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
-p2525
+p2519
+aV1994, Ostrovce, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
+p2520
 aVEncomienda de Palacios - Arroyo Fontarrón, Calle de la Encomienda de Palacios, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
-p2526
+p2521
 aVCapelli, Via Carrera, Parella, Circoscrizione 4, Torino, TO, PIE, 10146, Italia
-p2527
+p2522
 aVWinship St @ Union St, Winship Street, Aberdeen, Brighton, Boston, Suffolk County, Massachusetts, 02135, United States of America
-p2528
+p2523
 aV1994, Kingsway NW, Edmonton, Alberta, T5G3K2, Canada
-p2529
-aVCalle Tagoro Nº 95, Calle Tagoro, Tagoro, Tacoronte, Santa Cruz de Tenerife, Canarias, 38350, España
-p2530
-aa(lp2531
+p2524
+aV1994, Traders Boulevard East, Britannia, Ont., Peel Region, Ontario, L4Z1W7, Canada
+p2525
+aa(lp2526
 V1988, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2532
+p2527
 aVR3, Almar, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2528
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2529
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2530
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2531
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2532
+aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2533
 aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2534
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2535
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2536
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2537
-aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2538
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2539
 aVMYMN-Rd-1, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2540
-aa(lp2541
+p2535
+aa(lp2536
 V\u041a1989, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2542
+p2537
 aV1989, Po\u010darová, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2543
+p2538
 aV1989, Úho\u0161\u0165any, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2544
+p2539
 aV1989, Domani\u017ea, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2545
+p2540
 aV1989, Zemianska Závada, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2546
+p2541
 aV1989, Dereham Road, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 3TL, United Kingdom
-p2547
-aa(lp2548
+p2542
+aa(lp2543
 VBeckenham, Bromley, London, Greater London, England, United Kingdom
-p2549
+p2544
 aVBeckenham, Perth, Western Australia, Australia
-p2550
+p2545
 aVBeckenham, Christchurch, Christchurch City, Canterbury, New Zealand/Aotearoa
-p2551
+p2546
 aVBeckenham, Railway Parade, Perth, Cannington, Perth, Western Australia, 6107, Australia
-p2552
+p2547
 aVThe Beckenham, High Street, Beckenham, London Borough of Bromley, London, Greater London, England, BR3 1EW, United Kingdom
-p2553
-aa(lp2554
+p2548
+aa(lp2549
 V1988, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2555
+p2550
 aVR3, Almar, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2551
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2552
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2553
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2554
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2555
+aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2556
 aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2557
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2558
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2559
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2560
-aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2561
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2562
 aVMYMN-Rd-1, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2558
+aa(lp2559
+VDriehuis NH, Velsen, MRA, Noord-Holland, Nederland, 1985, Nederland
+p2560
+aVMotau, Evolène, Hérens, Valais - Wallis, 1985, Schweiz, Suisse, Svizzera, Svizra
+p2561
+aV1985, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+p2562
+aV1985, Pokutice, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
 p2563
-aa(lp2564
-VDriehuis NH, Velsen, MRA, Noord-Holland, Nederland, 1985, Nederland
+aV1985, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p2564
+aV1985, Zásada u Kadan\u011b, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
 p2565
-aVMotau, Evolène, Hérens, Valais - Wallis, 1985, Schweiz, Suisse, Svizzera, Svizra
+aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2566
-aV1985, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2567
-aV1985, Pokutice, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+aVRa\u0161ovice, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2568
-aV1985, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2569
-aV1985, Zásada u Kadan\u011b, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2570
-aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2571
-aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2572
-aVRa\u0161ovice, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2573
-aa(lp2574
+aa(lp2569
 VBritish Columbia, Canada
-p2575
+p2570
 aVDowntown, Nelson, Regional District of Central Kootenay, British Columbia, BC, Canada
-p2576
+p2571
 aVBoucotte Centre, Djibock, Ziguinchor, Département de Ziguinchor, Ziguinchor, 52024, Senegal
-p2577
+p2572
 aVCounty Road BC, Fulton County, Ohio, 43502, United States of America
-p2578
+p2573
 aVBc., Atalaia do Norte, Microrregião do Alto Solimões, Mesorregião Sudoeste Amazonense, AM, Região Norte, Brasil
-p2579
+p2574
 aVBC, Södra Vägen, Heden, Centrum, Gbg, Göteborg, Göteborgs och Bohus län, Västra Götalands län, Götaland, 412 53, Sverige
-p2580
+p2575
 aVBC, Rac\u0142awicka, 4 Marca, Osiedle Wspólny Dom, Koszalin, zachodniopomorskie, 75-724, Polska
-p2581
+p2576
 aVBC, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België - Belgique - Belgien
-p2582
+p2577
 aVBC, Via Giacomo Prandina, Grantorto, PD, VEN, Italia
-p2583
+p2578
 aVBC, Gyden, Søborg, Gladsaxe, Gladsaxe Kommune, Region Hovedstaden, 2860, Danmark
-p2584
-aa(lp2585
+p2579
+aa(lp2580
 V1992, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2586
+p2581
 aVLes Agettes, Hérens, Valais - Wallis, 1992, Schweiz, Suisse, Svizzera, Svizra
-p2587
+p2582
 aV\u041a1992, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2588
+p2583
 aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
-p2589
+p2584
 aV1992, T\u011bchlovice u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
-p2590
+p2585
 aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2591
+p2586
 aV1992, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2592
+p2587
 aV1992, Nynkov, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2593
+p2588
 aVTorggatan, Kyrkholmen, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
-p2594
+p2589
 aVStorgatan, Norrbacka, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
+p2590
+aa(lp2591
+V1995, Gamblin, Wood County, Texas, 75497, United States of America
+p2592
+aV1995, Ostrovce, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
+p2593
+aVEncomienda de Palacios - Pico Artilleros, Calle de la Encomienda de Palacios, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
+p2594
+aVMonte Grappa, Via Asinari di Bernezzo, Parella, Circoscrizione 4, Torino, TO, PIE, 10145, Italia
 p2595
-aa(lp2596
-V1995, Gamblin, Wood County, Texas, 75497, United States of America
+aVJames Street, Ushers A ED, Dublin, County Dublin, Leinster, D07, Ireland
+p2596
+aV1995, 107 Avenue NW, Old Strathcona, Edmonton, Alberta, T5H2Z4, Canada
 p2597
-aV1995, Ostrovce, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
+aV1995, Lurzenbacher Straße, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
 p2598
-aVEncomienda de Palacios - Pico Artilleros, Calle de la Encomienda de Palacios, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
+aVLorne, Gutcher Avenue, Sudbury, Ontario, P3C 4S1, Canada
 p2599
-aVMonte Grappa, Via Asinari di Bernezzo, Parella, Circoscrizione 4, Torino, TO, PIE, 10145, Italia
+aVDominick's, 1145, South York Road, Churchville, Bensenville, DuPage County, Illinois, 60106, United States of America
 p2600
-aVJames Street, Ushers A ED, Dublin, County Dublin, Leinster, D07, Ireland
+aV1995, Kollmitzweg, Chamerau, Landkreis Cham, OPf, Bayern, 93466, Deutschland
 p2601
-aV1995, 107 Avenue NW, Old Strathcona, Edmonton, Alberta, T5H2Z4, Canada
-p2602
-aV1995, Lurzenbacher Straße, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
-p2603
-aVLorne, Gutcher Avenue, Sudbury, Ontario, P3C 4S1, Canada
-p2604
-aVDominick's, 1145, South York Road, Churchville, Bensenville, DuPage County, Illinois, 60106, United States of America
-p2605
-aV1995, Kollmitzweg, Chamerau, Landkreis Cham, OPf, Bayern, 93466, Deutschland
-p2606
-aa(lp2607
+aa(lp2602
 VParque das Nações, Lisboa, Grande Lisboa, Lisboa, 1990, Portugal
-p2608
+p2603
 aVRizal, Calabarzon, 1990, Philippines
-p2609
+p2604
 aV1990, Howell County, Missouri, United States of America
+p2605
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2606
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2607
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2608
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2609
+aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2610
-aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2611
-aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aa(lp2611
+VDriehuis NH, Velsen, MRA, Noord-Holland, Nederland, 1985, Nederland
 p2612
-aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aVMotau, Evolène, Hérens, Valais - Wallis, 1985, Schweiz, Suisse, Svizzera, Svizra
 p2613
-aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aV1985, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2614
-aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+aV1985, Pokutice, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
 p2615
-aa(lp2616
-VDriehuis NH, Velsen, MRA, Noord-Holland, Nederland, 1985, Nederland
+aV1985, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+p2616
+aV1985, Zásada u Kadan\u011b, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
 p2617
-aVMotau, Evolène, Hérens, Valais - Wallis, 1985, Schweiz, Suisse, Svizzera, Svizra
+aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2618
-aV1985, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
+aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2619
-aV1985, Pokutice, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
+aVRa\u0161ovice, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
 p2620
-aV1985, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2621
-aV1985, Zásada u Kadan\u011b, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2622
-aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2623
-aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2624
-aVRa\u0161ovice, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2625
-aa(lp2626
+aa(lp2621
 V1995, Gamblin, Wood County, Texas, 75497, United States of America
-p2627
+p2622
 aV1995, Ostrovce, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
-p2628
+p2623
 aVEncomienda de Palacios - Pico Artilleros, Calle de la Encomienda de Palacios, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
-p2629
+p2624
 aVMonte Grappa, Via Asinari di Bernezzo, Parella, Circoscrizione 4, Torino, TO, PIE, 10145, Italia
-p2630
+p2625
 aVJames Street, Ushers A ED, Dublin, County Dublin, Leinster, D07, Ireland
-p2631
+p2626
 aV1995, 107 Avenue NW, Old Strathcona, Edmonton, Alberta, T5H2Z4, Canada
-p2632
+p2627
 aV1995, Lurzenbacher Straße, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
-p2633
+p2628
 aVLorne, Gutcher Avenue, Sudbury, Ontario, P3C 4S1, Canada
-p2634
+p2629
 aVDominick's, 1145, South York Road, Churchville, Bensenville, DuPage County, Illinois, 60106, United States of America
-p2635
+p2630
 aV1995, Kollmitzweg, Chamerau, Landkreis Cham, OPf, Bayern, 93466, Deutschland
-p2636
-aa(lp2637
+p2631
+aa(lp2632
 VDriehuis NH, Velsen, MRA, Noord-Holland, Nederland, 1985, Nederland
-p2638
+p2633
 aVMotau, Evolène, Hérens, Valais - Wallis, 1985, Schweiz, Suisse, Svizzera, Svizra
-p2639
+p2634
 aV1985, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2640
+p2635
 aV1985, Pokutice, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2641
+p2636
 aV1985, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2642
+p2637
 aV1985, Zásada u Kadan\u011b, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2643
+p2638
 aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Klá\u0161terec nad Oh\u0159í, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2644
+p2639
 aV1985, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2645
+p2640
 aVRa\u0161ovice, Ra\u0161ovice u Klá\u0161terce nad Oh\u0159í, Ra\u0161ovice, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2646
-aa(lp2647
+p2641
+aa(lp2642
 V1987, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2648
+p2643
 aVMandelon, Hérémence, Hérens, Valais - Wallis, 1987, Schweiz, Suisse, Svizzera, Svizra
-p2649
+p2644
 aVRanchos, Partido de General Paz, Bs. As., 1987, Argentina
-p2650
+p2645
 aV\u041a1987, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2651
+p2646
 aV1987, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01815, Slovensko
-p2652
+p2647
 aV1987, Bodiná, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01815, Slovensko
-p2653
+p2648
 aV1987, Kotvina, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43151, \u010cesko
-p2654
+p2649
 aV1987, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43163, \u010cesko
-p2655
+p2650
 aV1987, Oslovice, Okounov, okres Chomutov, Ústecký kraj, Severozápad, 43163, \u010cesko
-p2656
+p2651
 aV1987, Strá\u017e nad Oh\u0159í, okres Karlovy Vary, Karlovarský kraj, Severozápad, \u010cesko
-p2657
-aa(lp2658
+p2652
+aa(lp2653
 V1988, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2659
+p2654
 aVR3, Almar, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2655
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2656
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2657
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2658
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2659
+aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2660
 aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2661
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2662
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2663
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2664
-aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2665
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2666
 aVMYMN-Rd-1, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2667
-aa(lp2668
+p2662
+aa(lp2663
 VVelserbroek, Velsen, MRA, Noord-Holland, Nederland, 1991, Nederland
-p2669
+p2664
 aVSion, Valais - Wallis, 1991, Schweiz, Suisse, Svizzera, Svizra
-p2670
+p2665
 aV1991, Málkovice, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2671
+p2666
 aV1991, Kurojedy, Bor, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2672
+p2667
 aVR-C, \u0634\u0628\u0631\u063a\u0627\u0646/Sheberghan, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2673
+p2668
 aVR-C, Jowzjan, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2674
+p2669
 aVDinetard, Rue Louis Plana, Jolimont - Soupetard - Bonhoure, Toulouse Est, Toulouse, Haute-Garonne, Languedoc-Roussillon-Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France
-p2675
+p2670
 aV1991, Lurzenbacher Straße, Gosenbach, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57080, Deutschland
-p2676
+p2671
 aV1991, \u0e16\u0e19\u0e19\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e27\u0e07\u0e28\u0e4c, \u0e0a\u0e49\u0e32\u0e07\u0e40\u0e1c\u0e37\u0e2d\u0e01, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50000, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22
-p2677
+p2672
 aV1991, K 7504, Maselheim, Verwaltungsgemeinschaft Biberach an der Riß, Landkreis Biberach, Regierungsbezirk Tübingen, Baden-Württemberg, 88437, Deutschland
+p2673
+aa(lp2674
+V1992, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+p2675
+aVLes Agettes, Hérens, Valais - Wallis, 1992, Schweiz, Suisse, Svizzera, Svizra
+p2676
+aV\u041a1992, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+p2677
+aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
 p2678
-aa(lp2679
-V1992, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
+aV1992, T\u011bchlovice u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
+p2679
+aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p2680
-aVLes Agettes, Hérens, Valais - Wallis, 1992, Schweiz, Suisse, Svizzera, Svizra
+aV1992, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p2681
-aV\u041a1992, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
+aV1992, Nynkov, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
 p2682
-aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
+aVTorggatan, Kyrkholmen, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
 p2683
-aV1992, T\u011bchlovice u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
+aVStorgatan, Norrbacka, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
 p2684
-aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2685
-aV1992, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2686
-aV1992, Nynkov, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2687
-aVTorggatan, Kyrkholmen, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
-p2688
-aVStorgatan, Norrbacka, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
-p2689
-aa(lp2690
+aa(lp2685
 V\u041a1989, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2691
+p2686
 aV1989, Po\u010darová, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2692
+p2687
 aV1989, Úho\u0161\u0165any, Kada\u0148, okres Chomutov, Ústecký kraj, Severozápad, 43201, \u010cesko
-p2693
+p2688
 aV1989, Domani\u017ea, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2694
+p2689
 aV1989, Zemianska Závada, Pre\u010dín, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, Slovensko
-p2695
+p2690
 aV1989, Dereham Road, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 3TL, United Kingdom
-p2696
-aa(lp2697
+p2691
+aa(lp2692
 V1992, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2698
+p2693
 aVLes Agettes, Hérens, Valais - Wallis, 1992, Schweiz, Suisse, Svizzera, Svizra
-p2699
+p2694
 aV\u041a1992, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2700
+p2695
 aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
-p2701
+p2696
 aV1992, T\u011bchlovice u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34901, \u010cesko
-p2702
+p2697
 aV1992, Otro\u010dín u St\u0159íbra, St\u0159íbro, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2703
+p2698
 aV1992, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2704
+p2699
 aV1992, Nynkov, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2705
+p2700
 aVTorggatan, Kyrkholmen, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
-p2706
+p2701
 aVStorgatan, Norrbacka, Arjeplog, Norrbottens län, Norrland, 93090, Sverige
-p2707
-aa(lp2708
+p2702
+aa(lp2703
 VFagersta, Västmanlands län, Svealand, Sverige
-p2709
+p2704
 aVDowntown, Santa Cruz, Santa Cruz County, California, 1982, United States of America
-p2710
+p2705
 aVElewijt, Zemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1982, België - Belgique - Belgien
-p2711
+p2706
 aVWeerde, Zemst, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1982, België - Belgique - Belgien
-p2712
+p2707
 aVVendes, Saint-Martin (VS), Hérens, Valais - Wallis, 1982, Schweiz, Suisse, Svizzera, Svizra
-p2713
+p2708
 aV1982, Faubourg de Tournai, Saint-Amand-les-Eaux, Valenciennes, Nord, Nord-Pas-de-Calais-Picardie, France métropolitaine, 59230, France
-p2714
+p2709
 aV1982, Podva\u017eie, Pova\u017eská Bystrica, okres Pova\u017eská Bystrica, Tren\u010diansky kraj, Západné Slovensko, 01826, Slovensko
-p2715
+p2710
 aVR-C, Helmand, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2716
+p2711
 aV1982, Wilmersdorfer Straße, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10627, Deutschland
-p2717
+p2712
 aVSouthwest Garden Home & 71st, Southwest Garden Home Road, Portland, Washington County, Oregon, 97223, United States of America
-p2718
-aaNa(lp2719
+p2713
+aaNa(lp2714
 V1988, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2720
+p2715
 aVR3, Almar, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2716
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2717
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2718
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2719
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2720
+aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2721
 aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2722
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2723
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2724
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2725
-aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2726
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2727
 aVMYMN-Rd-1, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2728
-aa(lp2729
+p2723
+aa(lp2724
 VVeysonnaz, Sion, Valais - Wallis, 1993, Schweiz, Suisse, Svizzera, Svizra
-p2730
+p2725
 aV1993, Lobzy u O\u0161elína, O\u0161elín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2731
+p2726
 aVArroyo Fontarrón - Encomienda de Palacios, Calle del Arroyo Fontarrón, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
-p2732
+p2727
 aVRe, Via Asinari di Bernezzo, Parella, Circoscrizione 4, Torino, TO, PIE, 10145, Italia
-p2733
+p2728
 aVOld Kilmainham, Kilmainham, Dublin, County Dublin, Leinster, D07, Ireland
-p2734
+p2729
 aV1993, 39, Piotra Wawrzyniaka, Je\u017cyce, Pozna\u0144, wielkopolskie, 60-505, Polska
-p2735
+p2730
 aV1993, 106 Street NW, Old Strathcona, Edmonton, Alberta, T5K1E4, Canada
-p2736
+p2731
 aV\u0426\u0440\u043a\u0432\u0430 \u0421\u0432\u0435\u0442\u043e\u0433 \u0414\u0438\u043c\u0438\u0442\u0440\u0438\u0458\u0430, \u0411\u0443\u043b\u0435\u0432\u0430\u0440 \u0417\u043e\u0440\u0430\u043d\u0430 \u0402\u0438\u043d\u0452\u0438\u045b\u0430, \u041f\u0430\u0432\u0438\u0459\u043e\u043d\u0438, \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041d\u043e\u0432\u0438 \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11070, \u0421\u0440\u0431\u0438\u0458\u0430
-p2737
+p2732
 aV1993, 44, \u0413\u0432\u0430\u0440\u0434\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0429\u0454\u0434\u0440\u0438\u0449\u0435\u0432\u0435, \u0421\u0454\u0432\u0454\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a, \u0421\u0454\u0432\u0454\u0440\u043e\u0434\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 93409, \u0423\u043a\u0440\u0430\u0457\u043d\u0430
-p2738
+p2733
 aVCalle Tagoro Nº 127, Calle Tagoro, Tagoro, Tacoronte, Santa Cruz de Tenerife, Canarias, 38350, España
-p2739
-aa(lp2740
+p2734
+aa(lp2735
 VNendaz, Conthey, Valais - Wallis, 1994, Schweiz, Suisse, Svizzera, Svizra
-p2741
+p2736
 aV\u041a1994, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u043e\u0441\u0441\u0438\u044f
-p2742
+p2737
 aV1994, Svoj\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, \u010cesko
-p2743
-aV1994, Ostrovce, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
-p2744
+p2738
 aVSvoj\u0161ínská, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
-p2745
+p2739
+aV1994, Ostrovce, \u010cerno\u0161ín, okres Tachov, Plze\u0148ský kraj, Jihozápad, 34958, \u010cesko
+p2740
 aVEncomienda de Palacios - Arroyo Fontarrón, Calle de la Encomienda de Palacios, Fontarrón, Moratalaz, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, España
-p2746
+p2741
 aVCapelli, Via Carrera, Parella, Circoscrizione 4, Torino, TO, PIE, 10146, Italia
-p2747
+p2742
 aVWinship St @ Union St, Winship Street, Aberdeen, Brighton, Boston, Suffolk County, Massachusetts, 02135, United States of America
-p2748
+p2743
 aV1994, Kingsway NW, Edmonton, Alberta, T5G3K2, Canada
-p2749
-aVCalle Tagoro Nº 95, Calle Tagoro, Tagoro, Tacoronte, Santa Cruz de Tenerife, Canarias, 38350, España
-p2750
-aa(lp2751
+p2744
+aV1994, Traders Boulevard East, Britannia, Ont., Peel Region, Ontario, L4Z1W7, Canada
+p2745
+aa(lp2746
 V1988, \u0423\u0440\u0443\u043f\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u043e\u0441\u0441\u0438\u044f
-p2752
+p2747
 aVR3, Almar, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2748
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2749
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2750
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2751
+aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
+p2752
+aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2753
 aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
 p2754
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2755
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2756
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2757
-aVMYMN-Rd-2, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2758
-aVR3, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2759
 aVMYMN-Rd-1, \u0645\u06cc\u0645\u0646\u0647 Maymana, Faryab, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646
-p2760
+p2755
 aa.
