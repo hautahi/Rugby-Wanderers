@@ -599,7 +599,7 @@ Rex Armstrong,England,1925,Prop,1,1,0,0,3,0,Newcastle-upon-Tyne,England
 Edward Massey,England,1925,Scrum-half,3,1,1,1,0,0,W Derby,England
 Joe Periton,England,1925,Flanker,21,12,7,2,18,6,Belfast,Ireland
 Richard Lawson,England,1925,No. 8,1,0,0,1,0,0,Workington,England
-Roderick MacLennan,England,1925,Prop,3,1,1,1,0,0,Glasgow,USA
+Roderick MacLennan,England,1925,Prop,3,1,1,1,0,0,Glasgow,Scotland
 Duncan Cumming,England,1925,No. 8,2,1,1,0,0,0,Blackburn,England
 Stanley Considine,England,1925,Wing,1,1,0,0,0,0,Bilaspur,India
 Alfred Aslett,England,1926,Centre,6,2,3,1,6,2,Calcutta,India
@@ -1376,13 +1376,13 @@ Jack Clifford,England,2016,Back-row,3,3,0,0,0,0,QLD,Australia
 Paul Hill,England,2016,Prop,1,1,0,0,0,0,Aschaffenburg,Germany
 Maro Itoje,England,2016,"Lock, Back-row",2,2,0,0,0,0,Camden,USA
 Elliot Daly,England,2016,Centre,1,1,0,0,0,0,Croydon,England
-John Arthur,Scotland,1871,Halfback,2,1,1,0,NA,0,Glasgow,USA
-William Brown,Scotland,1871,Fullback,5,1,2,2,NA,0,Glasgow,USA
+John Arthur,Scotland,1871,Halfback,2,1,1,0,NA,0,Glasgow,Scotland
+William Brown,Scotland,1871,Fullback,5,1,2,2,NA,0,Glasgow,Scotland
 Angus Buchanan,Scotland,1871,Forward,1,1,0,0,NA,1,Inverary,Canada
-Tom Chalmers,Scotland,1871,Fullback,6,1,3,2,NA,0,Glasgow,USA
+Tom Chalmers,Scotland,1871,Fullback,6,1,3,2,NA,0,Glasgow,Scotland
 Alfred Clunies-Ross,Scotland,1871,Fullback,1,1,0,0,NA,0,Cocos Islands,Australia
 Andrew Colville,Scotland,1871,Forward,2,1,1,0,NA,0,Edinburgh,Scotland
-William Cross,Scotland,1871,Halfback,2,1,1,0,NA,1,Glasgow,USA
+William Cross,Scotland,1871,Halfback,2,1,1,0,NA,1,Glasgow,Scotland
 Daniel Drew,Scotland,1871,Forward,2,1,1,0,NA,0,Dunoon,Scotland
 Jim Finlay,Scotland,1871,Forward,4,1,2,1,NA,1,Edinburgh,Scotland
 William Forsyth,Scotland,1871,Forward,1,1,0,0,NA,0,Ross,USA
@@ -1400,17 +1400,17 @@ John Anderson,Scotland,1872,Forward,1,0,1,0,NA,0,Edinburgh,Scotland
 Leslie Balfour-Melville,Scotland,1872,Fullback,1,0,1,0,NA,0,Edinburgh,Scotland
 Edward Bannerman,Scotland,1872,Forward,2,0,1,1,NA,0,Aberdeenshire,Scotland
 Charles Cathcart,Scotland,1872,Forward,3,0,2,1,NA,0,Edinburgh,Scotland
-James McClure,Scotland,1872,Forward,1,0,1,0,NA,0,Glasgow,USA
+James McClure,Scotland,1872,Forward,1,0,1,0,NA,0,Glasgow,Scotland
 Reginald Maitland,Scotland,1872,Three-quarters,1,0,1,0,NA,0,Hants,Canada
 William Marshall,Scotland,1872,Forward,1,0,1,0,NA,0,,
 Frederick Maxwell,Scotland,1872,Forward,1,0,1,0,NA,0,Devonport,Australia
 Henry Renny-Tailyour,Scotland,1872,Forward,1,0,1,0,NA,0,Mussorrie,
-Henry Allan,Scotland,1873,Forward,1,0,0,1,NA,0,Glasgow,USA
+Henry Allan,Scotland,1873,Forward,1,0,0,1,NA,0,Glasgow,Scotland
 Peter Anton,Scotland,1873,Forward,1,0,0,1,NA,0,Errol,USA
-Charles Bryce,Scotland,1873,Forward,2,0,1,1,NA,0,Glasgow,USA
+Charles Bryce,Scotland,1873,Forward,2,0,1,1,NA,0,Glasgow,Scotland
 John Davidson,Scotland,1873,Forward,2,0,1,1,NA,0,Banchory,Scotland
 William Grant,Scotland,1873,Halfback,2,0,1,1,NA,0,Bengal,India
-George McClure,Scotland,1873,Three-quarters,1,0,0,1,NA,0,Glasgow,USA
+George McClure,Scotland,1873,Three-quarters,1,0,0,1,NA,0,Glasgow,Scotland
 Alexander Petrie,Scotland,1873,Forward,11,4,3,4,NA,0,Birkenhead,England
 James Sanderson,Scotland,1873,Fullback,1,0,0,1,NA,0,Madras,India
 Tom Whittington,Scotland,1873,Forward,1,0,0,1,NA,0,Neath,Wales
@@ -1418,14 +1418,14 @@ Robert Wilson,Scotland,1873,Forward,2,0,1,1,NA,0,,
 Alexander Wood,Scotland,1873,Forward,3,0,1,2,NA,0,Kincardin,Sierra Leone
 Hugh Hamilton,Scotland,1874,Three-quarters,2,0,1,1,NA,0,New South Wales,Wales
 Gilbert Heron,Scotland,1874,Forward,2,0,1,1,NA,0,,
-William Kidston,Scotland,1874,Three-quarters,1,0,1,0,NA,0,Glasgow,USA
+William Kidston,Scotland,1874,Three-quarters,1,0,1,0,NA,0,Glasgow,Scotland
 Tom Neilson,Scotland,1874,Forward,1,0,1,0,NA,0,,
 James Reid,Scotland,1874,Forward,5,2,2,1,NA,1,,
 Alexander Stewart,Scotland,1874,Halfback,2,0,2,0,NA,0,Bombay,India
-John Tod,Scotland,1874,Forward,2,0,1,1,NA,0,Glasgow,USA
+John Tod,Scotland,1874,Forward,2,0,1,1,NA,0,Glasgow,Scotland
 Arthur Young,Scotland,1874,Forward,1,0,1,0,NA,0,,
 Allan Arthur,Scotland,1875,Forward,2,0,1,1,NA,0,,
-Malcolm Cross,Scotland,1875,Three-quarters,9,4,2,3,NA,0,Glasgow,USA
+Malcolm Cross,Scotland,1875,Three-quarters,9,4,2,3,NA,0,Glasgow,Scotland
 James Dunlop,Scotland,1875,Forward,1,0,0,1,NA,0,,
 Alec Finlay,Scotland,1875,Forward,1,0,0,1,NA,0,,
 Ninian Finlay,Scotland,1875,Three-quarters,9,2,3,4,NA,0,Edinburgh,Scotland
@@ -1435,59 +1435,59 @@ Arthur Marshall,Scotland,1875,Forward,1,0,0,1,NA,0,,
 Duncan Robertson,Scotland,1875,Forward,1,0,0,1,NA,0,,
 William Bolton,Scotland,1876,Forward,1,0,1,0,NA,0,Stirling,Scotland
 Nat Brewis,Scotland,1876,Forward,6,2,2,2,NA,0,Nthb,
-James Carrick,Scotland,1876,Fullback,2,1,1,0,NA,0,Glasgow,USA
+James Carrick,Scotland,1876,Fullback,2,1,1,0,NA,0,Glasgow,Scotland
 Gussie Graham,Scotland,1876,Forward,10,4,3,3,NA,1,Middlebie,Scotland
-John Junor,Scotland,1876,Forward,6,2,2,2,NA,0,Glasgow,USA
+John Junor,Scotland,1876,Forward,6,2,2,2,NA,0,Glasgow,Scotland
 David Lang,Scotland,1876,Forward,2,1,1,0,NA,0,Paisley,Scotland
 George Paterson,Scotland,1876,Halfback,1,0,1,0,NA,0,Bangalore,India
 Charles Villar,Scotland,1876,Forward,3,2,1,0,NA,0,Cheltenham,England
-David Watson,Scotland,1876,Forward,3,2,1,0,NA,0,Glasgow,USA
+David Watson,Scotland,1876,Forward,3,2,1,0,NA,0,Glasgow,Scotland
 Henry Johnston,Scotland,1877,Fullback,2,2,0,0,NA,0,Kirkwall,Scotland
-Robert Mackenzie,Scotland,1877,Three-quarters,4,2,1,1,NA,3,Glasgow,USA
-Henry Napier,Scotland,1877,Forward,5,3,0,2,NA,0,Glasgow,USA
+Robert Mackenzie,Scotland,1877,Three-quarters,4,2,1,1,NA,3,Glasgow,Scotland
+Henry Napier,Scotland,1877,Forward,5,3,0,2,NA,0,Glasgow,Scotland
 Edward Pocock,Scotland,1877,Three-quarters,2,2,0,0,NA,1,Clifton,England
-Stewart Smith,Scotland,1877,Forward,2,1,0,1,NA,0,Glasgow,USA
+Stewart Smith,Scotland,1877,Forward,2,1,0,1,NA,0,Glasgow,Scotland
 Thomas Torrie,Scotland,1877,Forward,1,1,0,0,NA,0,Edinburgh,Scotland
 Louis Auldjo,Scotland,1878,Forward,1,0,0,1,NA,0,Cawnpore,Australia
 James Campbell,Scotland,1878,Halfback,5,1,1,3,NA,0,AB,Canada
 Duncan Irvine,Scotland,1878,Forward,3,1,0,2,NA,0,Perthshire,USA
 Bill Maclagan,Scotland,1878,Three-quarters,29,18,6,5,2,4,Edinburgh,Scotland
 George MacLeod,Scotland,1878,Forward,2,1,0,1,NA,0,Midlothian,Scotland
-John Neilson,Scotland,1878,Halfback,2,0,0,2,NA,0,Glasgow,USA
+John Neilson,Scotland,1878,Halfback,2,0,0,2,NA,0,Glasgow,Scotland
 Bob Ainslie,Scotland,1879,Forward,7,4,1,2,NA,3,Lasswade,Scotland
-John Brown,Scotland,1879,Forward,19,12,4,3,NA,2,Glasgow,USA
+John Brown,Scotland,1879,Forward,19,12,4,3,NA,2,Glasgow,Scotland
 William Masters,Scotland,1879,Halfback,3,2,1,0,NA,1,Edinburgh,Scotland
 Errol Smith,Scotland,1879,Forward,1,1,0,0,NA,0,Edinburgh,Scotland
 D. Somerville,Scotland,1879,Forward,6,5,1,0,NA,2,,
 Edward Ewart,Scotland,1879,Forward,3,1,1,1,NA,2,Moffat,USA
-William Brown,Scotland,1880,Halfback,6,4,2,0,NA,2,Glasgow,USA
+William Brown,Scotland,1880,Halfback,6,4,2,0,NA,2,Glasgow,Scotland
 David McCowan,Scotland,1880,Forward,10,5,4,1,NA,1,Ayr,Scotland
-Charles Stewart,Scotland,1880,Forward,2,1,1,0,NA,0,Glasgow,USA
+Charles Stewart,Scotland,1880,Forward,2,1,1,0,NA,0,Glasgow,Scotland
 Jack Tait,Scotland,1880,Forward,2,2,0,0,NA,0,Edinburgh,Scotland
 David Cassels,Scotland,1880,Forward,7,4,3,0,NA,0,Shettleston,Scotland
-Bryce Allan,Scotland,1881,Forward,1,0,1,0,NA,0,Glasgow,USA
+Bryce Allan,Scotland,1881,Forward,1,0,1,0,NA,0,Glasgow,Scotland
 Thomas Begbie,Scotland,1881,Fullback,2,0,1,1,NA,0,E Lothian,Scotland
 Charlie Reid,Scotland,1881,Forward,21,13,4,4,NA,4,Lochwinnoch,Scotland
-George Robb,Scotland,1881,Forward,2,0,1,1,NA,0,Glasgow,USA
+George Robb,Scotland,1881,Forward,2,0,1,1,NA,0,Glasgow,Scotland
 Pat Smeaton,Scotland,1881,Halfback,3,1,2,0,NA,0,Kincardine,Canada
-Archibald Walker,Scotland,1881,Forward,5,3,2,0,NA,0,Glasgow,USA
+Archibald Walker,Scotland,1881,Forward,5,3,2,0,NA,0,Glasgow,Scotland
 Tom Ainslie,Scotland,1881,Forward,12,8,2,2,NA,1,Lasswade,Scotland
 James Fraser,Scotland,1881,Forward,1,0,0,1,NA,0,Hull,England
 Robert Maitland,Scotland,1881,Forward,5,3,0,2,NA,0,Alloa,Scotland
 William Peterkin,Scotland,1881,Forward,8,5,1,2,NA,2,Edinburgh,Scotland
-Bunny Wauchope,Scotland,1881,Halfback,13,9,1,3,NA,6,Glasgow,USA
+Bunny Wauchope,Scotland,1881,Halfback,13,9,1,3,NA,6,Glasgow,Scotland
 Tom Anderson,Scotland,1882,Fullback,1,1,0,0,NA,0,Ledcamerock,
 Fraser Gore,Scotland,1882,Forward,1,1,0,0,NA,0,,
 Augustus Grant-Asher,Scotland,1882,Halfback,7,4,1,2,NA,1,Poona,Australia
 Frank Hunter,Scotland,1882,Three-quarters,1,1,0,0,NA,0,,
 Andrew Philp,Scotland,1882,Three-quarters,1,1,0,0,NA,0,,
 James Veitch,Scotland,1882,Fullback,8,6,1,1,NA,0,Penicuik,Scotland
-James Walker,Scotland,1882,Forward,2,2,0,0,NA,0,Glasgow,USA
-Andrew Walls,Scotland,1882,Forward,10,7,2,1,NA,0,Glasgow,USA
+James Walker,Scotland,1882,Forward,2,2,0,0,NA,0,Glasgow,Scotland
+Andrew Walls,Scotland,1882,Forward,10,7,2,1,NA,0,Glasgow,Scotland
 John Jamieson,Scotland,1883,Forward,9,6,2,1,NA,2,,
-David Kidston,Scotland,1883,Fullback,2,1,1,0,NA,0,Glasgow,USA
+David Kidston,Scotland,1883,Fullback,2,1,1,0,NA,0,Glasgow,Scotland
 David McFarlan,Scotland,1883,Three-quarters,8,7,1,0,NA,4,Meerut,India
-John Mowat,Scotland,1883,Forward,2,1,1,0,NA,0,Glasgow,USA
+John Mowat,Scotland,1883,Forward,2,1,1,0,NA,0,Glasgow,Scotland
 George Aitchison,Scotland,1883,Halfback,1,1,0,0,NA,0,Edinburgh,Scotland
 Marshall Reid,Scotland,1883,Three-quarters,2,1,1,0,NA,0,Partick,Scotland
 George Lindsay,Scotland,1884,Three-quarters,4,3,0,1,NA,5,,
@@ -1497,7 +1497,7 @@ Ernest Roland,Scotland,1884,Three-quarters,2,1,1,0,NA,0,Edinburgh,Scotland
 Pat Harrower,Scotland,1885,Fullback,1,0,0,1,NA,0,Broughty Ferry,Scotland
 Gardyne Maitland,Scotland,1885,Three-quarters,2,1,0,1,NA,0,Alloa,Scotland
 Gordon Mitchell,Scotland,1885,Forward,3,2,0,1,NA,0,Hamilton,NewZealand
-Alexander Stephen,Scotland,1885,Three-quarters,2,1,0,1,NA,0,Glasgow,USA
+Alexander Stephen,Scotland,1885,Three-quarters,2,1,0,1,NA,0,Glasgow,Scotland
 Henry Evans,Scotland,1885,Three-quarters,2,2,0,0,NA,0,Clifton,England
 Walter Irvine,Scotland,1885,Forward,11,8,1,2,NA,0,Aberdeenshre,
 Patrick Wauchope,Scotland,1885,Halfback,6,5,0,1,NA,1,Midlothian,Scotland
@@ -1505,7 +1505,7 @@ Alexander Clay,Scotland,1886,Forward,7,4,1,2,NA,1,Kelso,Scotland
 J. French,Scotland,1886,Forward,4,3,0,1,NA,0,,
 William Holms,Scotland,1886,Three-quarters,6,4,0,2,NA,0,Thox,USA
 Flowerdew McIndoe,Scotland,1886,Fullback,2,2,0,0,NA,0,Hamilton,NewZealand
-William MacLeod,Scotland,1886,Forward,2,2,0,0,NA,0,Glasgow,USA
+William MacLeod,Scotland,1886,Forward,2,2,0,0,NA,0,Glasgow,Scotland
 Charles Milne,Scotland,1886,Forward,3,2,0,1,NA,0,Kingston,Jamaica
 Reggie Morrison,Scotland,1886,Three-quarters,3,2,0,1,NA,2,VIC,Australia
 Duncan MacLeod,Scotland,1886,Forward,2,1,0,1,NA,0,Berwick,England
@@ -1513,9 +1513,9 @@ Matthew McEwan,Scotland,1886,Forward,15,10,3,2,7,2,Ayr,Scotland
 George Wilson,Scotland,1886,Three-quarters,5,3,1,1,0,0,,
 Hugh Ker,Scotland,1887,Forward,7,5,1,1,0,1,Partick,Scotland
 Judy MacMillan,Scotland,1887,Forward,24,17,6,1,0,1,Edinburgh,Scotland
-David Morton,Scotland,1887,Forward,9,6,2,1,0,3,Glasgow,USA
+David Morton,Scotland,1887,Forward,9,6,2,1,0,3,Glasgow,Scotland
 Charles Orr,Scotland,1887,Halfback,16,12,3,1,1,3,Neilston,Scotland
-Alexander Woodrow,Scotland,1887,Three-quarters,3,2,0,1,NA,0,Glasgow,USA
+Alexander Woodrow,Scotland,1887,Three-quarters,3,2,0,1,NA,0,Glasgow,Scotland
 Alec Cameron,Scotland,1887,Fullback,3,1,2,0,0,0,Oban,Scotland
 Henry Chambers,Scotland,1888,Fullback,4,3,1,0,NA,0,Victoria,Australia
 Alfred Duke,Scotland,1888,Forward,6,5,1,0,0,0,Forfar,Scotland
@@ -1524,7 +1524,7 @@ Charles Fraser,Scotland,1888,Halfback,2,1,1,0,NA,0,Paisley,Scotland
 Harry Stevenson,Scotland,1888,Fullback,15,11,3,1,3,0,Edinburgh,Scotland
 Louis Stevenson,Scotland,1888,Forward,1,0,1,0,NA,0,Jedburgh,Scotland
 Tom White,Scotland,1888,Forward,3,2,1,0,NA,0,Cumnock,Scotland
-Alexander Malcolm,Scotland,1888,Forward,1,1,0,0,NA,0,Glasgow,USA
+Alexander Malcolm,Scotland,1888,Forward,1,1,0,0,NA,0,Glasgow,Scotland
 Bill Auld,Scotland,1889,Forward,2,2,0,0,0,0,,
 John Boswell,Scotland,1889,Forward,15,11,3,1,26,5,Garallan,
 William Macdonald,Scotland,1889,Forward,3,2,1,0,0,0,Inverness,Scotland
@@ -1540,22 +1540,22 @@ Gregor MacGregor,Scotland,1890,Three-quarters,13,8,4,1,5,1,Edinburgh,Scotland
 Ian MacIntyre,Scotland,1890,Forward,6,5,1,0,0,0,,
 Paul Clauss,Scotland,1891,Three-quarters,9,8,1,0,6,3,Munich,Germany
 Herbert Leggatt,Scotland,1891,Forward,9,7,2,0,1,1,East Indie,India
-George Neilson,Scotland,1891,Forward,14,8,5,1,6,1,Glasgow,USA
+George Neilson,Scotland,1891,Forward,14,8,5,1,6,1,Glasgow,Scotland
 William Neilson,Scotland,1891,Three-quarters,14,10,2,2,4,1,Bothwell,Scotland
 William Gibson,Scotland,1891,Forward,14,9,4,1,0,0,Edinburgh,Scotland
 William Wotherspoon,Scotland,1891,Halfback,8,5,3,0,3,3,Fife,Scotland
 George Campbell,Scotland,1892,Centre,17,9,5,3,9,2,Sussex,England
 John Millar,Scotland,1892,Forward,6,4,2,0,2,1,,
 Nelson Henderson,Scotland,1892,Forward,1,1,0,0,0,0,London,England
-James Woodburn,Scotland,1892,Three-quarters,1,1,0,0,0,0,Glasgow,USA
+James Woodburn,Scotland,1892,Three-quarters,1,1,0,0,0,0,Glasgow,Scotland
 William Cownie,Scotland,1893,Forward,9,5,3,1,0,0,Edinburgh,Scotland
 James Gowans,Scotland,1893,Wing,8,5,2,1,6,2,Durham,England
-Robert Greig,Scotland,1893,Halfback,2,1,1,0,0,0,Glasgow,USA
-Thomas Hendry,Scotland,1893,Forward,4,2,1,1,0,0,Glasgow,USA
+Robert Greig,Scotland,1893,Halfback,2,1,1,0,0,0,Glasgow,Scotland
+Thomas Hendry,Scotland,1893,Forward,4,2,1,1,0,0,Glasgow,Scotland
 Henry Menzies,Scotland,1893,Forward,4,1,2,1,0,0,ON,Canada
-David Robertson,Scotland,1893,Three-quarters,1,0,1,0,0,0,Glasgow,USA
-James Bishop,Scotland,1893,Forward,1,0,0,1,0,0,Glasgow,USA
-William Donaldson,Scotland,1893,Halfback,6,2,2,2,3,0,Glasgow,USA
+David Robertson,Scotland,1893,Three-quarters,1,0,1,0,0,0,Glasgow,Scotland
+James Bishop,Scotland,1893,Forward,1,0,0,1,0,0,Glasgow,Scotland
+William Donaldson,Scotland,1893,Halfback,6,2,2,2,3,0,Glasgow,Scotland
 D. Fisher,Scotland,1893,Forward,1,0,0,1,0,0,,
 Jim Ford,Scotland,1893,Forward,1,0,0,1,0,0,,
 John Simpson,Scotland,1893,Halfback,13,7,4,2,0,0,,
@@ -1567,13 +1567,13 @@ John Rogerson,Scotland,1894,Fullback,1,0,1,0,0,0,,
 Hugh Wright,Scotland,1894,Forward,1,0,1,0,0,0,Inverary,Canada
 Alexander Anderson,Scotland,1894,Forward,1,0,1,0,0,0,,
 Gordon Neilson,Scotland,1894,Forward,1,1,0,0,0,0,Bothwell,Scotland
-Harry Dods,Scotland,1895,Forward,8,5,2,1,0,0,Glasgow,USA
+Harry Dods,Scotland,1895,Forward,8,5,2,1,0,0,Glasgow,Scotland
 Mattha Elliot,Scotland,1895,Halfback,6,4,1,1,0,0,Hawick,Scotland
 Allan Smith,Scotland,1895,Fullback,11,5,2,4,2,0,,
 Harry Smith,Scotland,1895,Forward,11,5,3,3,3,1,N Berwick,Scotland
 Robin Welsh,Scotland,1895,Wing,4,3,1,0,3,1,Edinburgh,Scotland
 Andrew Balfour,Scotland,1896,Forward,4,1,2,1,0,0,Edinburgh,Scotland
-James Couper,Scotland,1896,Forward,3,0,2,1,0,0,Glasgow,USA
+James Couper,Scotland,1896,Forward,3,0,2,1,0,0,Glasgow,Scotland
 Mark Morrison,Scotland,1896,Forward,26,12,9,5,0,0,Dalmeny,Scotland
 Davie Patterson,Scotland,1896,Halfback,1,0,1,0,0,0,Hawick,Scotland
 Tom Scott,Scotland,1896,Wing,11,4,4,3,6,2,,
@@ -1584,20 +1584,20 @@ Alec Laidlaw,Scotland,1897,Forward,1,1,0,0,0,0,Edinburgh,Scotland
 Ronald Stevenson,Scotland,1897,Forward,6,3,2,1,0,0,South Shields,England
 Alfred Bucher,Scotland,1897,Wing,4,2,2,0,12,4,Edinburgh,Scotland
 Alec Robertson,Scotland,1897,Centre,1,0,1,0,0,0,Edinburgh,Scotland
-John Dykes,Scotland,1898,Forward,10,6,2,2,3,1,Glasgow,USA
+John Dykes,Scotland,1898,Forward,10,6,2,2,3,1,Glasgow,Scotland
 Graham Kerr,Scotland,1898,Forward,8,3,2,3,0,0,Aberdeen,Scotland
 Joe Mabon,Scotland,1898,Halfback,4,1,1,2,0,0,Jedburgh,Scotland
-Andrew MacKinnon,Scotland,1898,Forward,6,3,1,2,0,0,Glasgow,USA
+Andrew MacKinnon,Scotland,1898,Forward,6,3,1,2,0,0,Glasgow,Scotland
 Robbie Neilson,Scotland,1898,Halfback,6,2,1,3,0,0,Bothwell,Scotland
 James Reid,Scotland,1898,Fullback,3,1,1,1,0,0,,
 Robert Scott,Scotland,1898,Forward,3,1,0,2,0,0,,
 Edward Spencer,Scotland,1898,Centre,1,1,0,0,0,0,,
 Tommy Nelson,Scotland,1898,Centre,1,0,0,1,0,0,Edinburgh,Scotland
-Lawrence Harvey,Scotland,1899,Forward,1,0,1,0,0,0,Glasgow,USA
+Lawrence Harvey,Scotland,1899,Forward,1,0,1,0,0,0,Glasgow,Scotland
 Douglas Monypenny,Scotland,1899,Centre,3,2,1,0,3,1,Fife,Scotland
-George Lamond,Scotland,1899,Centre,3,3,0,0,4,0,Glasgow,USA
-Harry Rottenburg,Scotland,1899,Fullback,5,2,1,2,0,0,Glasgow,USA
-William Thomson,Scotland,1899,Forward,3,2,1,0,6,0,Glasgow,USA
+George Lamond,Scotland,1899,Centre,3,3,0,0,4,0,Glasgow,Scotland
+Harry Rottenburg,Scotland,1899,Fullback,5,2,1,2,0,0,Glasgow,Scotland
+William Thomson,Scotland,1899,Forward,3,2,1,0,6,0,Glasgow,Scotland
 John Gillespie,Scotland,1899,Halfback,13,6,4,3,31,5,Edinburgh,Scotland
 David Bedell-Sivright,Scotland,1900,Forward,23,13,10,0,9,3,Edinburgh,Scotland
 Jack Crabbie,Scotland,1900,Wing,6,3,3,0,6,2,Edinburgh,Scotland
@@ -1605,7 +1605,7 @@ Frank Fasson,Scotland,1900,Halfback,5,2,3,0,0,0,Peebles,Scotland
 Frederick Henderson,Scotland,1900,Forward,2,0,1,1,0,0,Dundee,Scotland
 William Morrison,Scotland,1900,Centre,1,0,1,0,0,0,Edinburgh,Scotland
 John Campbell,Scotland,1900,Forward,1,0,0,1,0,0,Las Flores,Uruguay
-James Greenlees,Scotland,1900,Forward,7,3,3,1,0,0,Glasgow,USA
+James Greenlees,Scotland,1900,Forward,7,3,3,1,0,0,Glasgow,Scotland
 Bill Scott,Scotland,1900,Forward,24,11,9,4,2,0,Wishaw,United Kingdom
 William Welsh,Scotland,1900,Wing,8,3,3,2,12,4,Edinburgh,Scotland
 Lewis Bell,Scotland,1900,Forward,3,1,1,1,0,0,Edinburgh,Scotland
@@ -1617,7 +1617,7 @@ Alex Frew,Scotland,1901,Forward,4,3,0,1,3,1,Ayrshire,Scotland
 Jimmy Ross,Scotland,1901,Forward,5,4,1,0,0,0,Roxburgh,Scotland
 Robert Stronach,Scotland,1901,Forward,5,3,2,0,3,1,Partick,Scotland
 Phipps Turnbull,Scotland,1901,Centre,6,3,3,0,3,1,,
-Francis Dods,Scotland,1901,Forward,1,1,0,0,0,0,Glasgow,USA
+Francis Dods,Scotland,1901,Forward,1,1,0,0,0,0,Glasgow,Scotland
 Robert Neill,Scotland,1901,Fullback,4,1,2,1,0,0,Edinburgh,Scotland
 John Bedell-Sivright,Scotland,1902,Forward,1,0,1,0,0,0,Inverkeithing,Scotland
 Bill Kyle,Scotland,1902,Forward,21,10,11,0,6,2,Hawick,Scotland
@@ -1637,7 +1637,7 @@ Alexander Bisset,Scotland,1904,Halfback,1,0,1,0,0,0,Duns,Scotland
 George Crabbie,Scotland,1904,Wing,1,0,1,0,0,0,Edinburgh,Scotland
 Lewis MacLeod,Scotland,1904,Centre,6,2,4,0,0,0,,
 Edward Ross,Scotland,1904,Forward,1,0,1,0,0,0,,
-William Milne,Scotland,1904,Forward,4,2,2,0,0,0,Glasgow,USA
+William Milne,Scotland,1904,Forward,4,2,2,0,0,0,Glasgow,Scotland
 Joseph Waters,Scotland,1904,Forward,2,2,0,0,0,0,Dunoon,Scotland
 Hugh Fletcher,Scotland,1904,Forward,2,1,1,0,0,0,Norwich,England
 John Forbes,Scotland,1905,Centre,3,1,2,0,0,0,Edinburgh,Scotland
@@ -1650,15 +1650,15 @@ William Ritchie,Scotland,1905,Wing,2,1,1,0,0,0,Dunedin,NewZealand
 Tom Elliot,Scotland,1905,Wing,1,1,0,0,0,0,,
 John MacCallum,Scotland,1905,Forward,26,13,13,0,24,2,,
 Hugh Monteith,Scotland,1905,Forward,8,6,2,0,3,1,Dumfriesshi,
-Douglas Schulze,Scotland,1905,Fullback,13,7,6,0,4,0,Glasgow,USA
-Louis Greig,Scotland,1903,Halfback,8,2,4,2,0,0,Glasgow,USA
+Douglas Schulze,Scotland,1905,Fullback,13,7,6,0,4,0,Glasgow,Scotland
+Louis Greig,Scotland,1903,Halfback,8,2,4,2,0,0,Glasgow,Scotland
 James Mackenzie,Scotland,1905,Forward,9,3,6,0,0,0,Sunderland,England
 Ken MacLeod,Scotland,1905,Wing,10,6,4,0,25,4,Dumba,Nigeria
 William Russell,Scotland,1905,Flanker,4,1,3,0,0,0,,
 John Scoular,Scotland,1905,Fullback,5,2,3,0,0,0,Whitehaven,England
 John Simson,Scotland,1905,Wing,7,3,4,0,6,2,,
-Tennant Sloan,Scotland,1905,Centre,7,4,3,0,0,0,Glasgow,USA
-Bill Church,Scotland,1906,Centre,1,0,1,0,0,0,Glasgow,USA
+Tennant Sloan,Scotland,1905,Centre,7,4,3,0,0,0,Glasgow,Scotland
+Bill Church,Scotland,1906,Centre,1,0,1,0,0,0,Glasgow,Scotland
 Alec Purves,Scotland,1906,Wing,10,6,4,0,22,6,Kingston-upon-Thames,England
 Maurie Walter,Scotland,1906,Centre,8,5,3,0,6,2,Yokohama,Japan
 George Frew,Scotland,1906,Forward,15,9,6,0,3,1,Larkhall,United Kingdom
@@ -1676,40 +1676,40 @@ John Wilson,Scotland,1908,Forward,2,0,2,0,0,0,Trinidad,Trinidad
 Colin Gilray,Scotland,1905,Wing,5,3,2,0,3,1,Broughty Ferry,Scotland
 James Robertson,Scotland,1908,Fly-half,1,1,0,0,0,0,,
 Lewis Robertson,Scotland,1908,Forward,9,3,6,0,0,0,Hawthornden,United Kingdom
-Albert Wade,Scotland,1908,Scrum-half,1,1,0,0,0,0,Glasgow,USA
+Albert Wade,Scotland,1908,Scrum-half,1,1,0,0,0,0,Glasgow,Scotland
 Gus Angus,Scotland,1909,Centre,18,7,11,0,9,3,NSW,Australia
-Jim Tennent,Scotland,1909,Halfback,6,3,3,0,15,5,Glasgow,USA
+Jim Tennent,Scotland,1909,Halfback,6,3,3,0,15,5,Glasgow,Scotland
 William Lely,Scotland,1909,Prop,1,1,0,0,0,0,London,England
 Robert Lindsay-Watson,Scotland,1909,Wing,1,1,0,0,3,1,Hawick,Scotland
 John MacGregor,Scotland,1909,Fly-half,1,1,0,0,3,1,Pontypridd,United Kingdom
 Jimmy Pearson,Scotland,1909,Centre,12,6,6,0,10,1,Edinburgh,Scotland
-Charles Stuart,Scotland,1909,Forward,7,3,4,0,3,1,Glasgow,USA
+Charles Stuart,Scotland,1909,Forward,7,3,4,0,3,1,Glasgow,Scotland
 Alexander Moodie,Scotland,1909,Forward,3,2,1,0,0,0,Dundee,Scotland
 James Reid-Kerr,Scotland,1909,Forward,1,1,0,0,0,0,Greenock,Scotland
-Fletcher Buchanan,Scotland,1910,Centre,3,1,2,0,0,0,Glasgow,USA
+Fletcher Buchanan,Scotland,1910,Centre,3,1,2,0,0,0,Glasgow,Scotland
 Ian Robertson,Scotland,1910,Wing,1,1,0,0,6,2,,
 Robert Stevenson,Scotland,1910,Forward,9,3,6,0,0,0,Perth,Australia
 Puss Milroy,Scotland,1910,Scrum-half,12,3,9,0,3,1,Edinburgh,Scotland
 Walter Sutherland,Scotland,1910,Wing,13,4,9,0,12,4,Hawick,Scotland
 Cecil Abercrombie,Scotland,1910,Forward,6,2,4,0,3,1,Mozufferpore,
-Jimmy Dobson,Scotland,1910,Wing,1,1,0,0,3,1,Glasgow,USA
+Jimmy Dobson,Scotland,1910,Wing,1,1,0,0,3,1,Glasgow,Scotland
 Andrew Lindsay,Scotland,1910,Scrum-half,2,1,1,0,0,0,Otepopo,
 Donald Macpherson,Scotland,1905,Wing,3,2,1,0,3,1,Waimate,NewZealand
 Rowland Fraser,Scotland,1911,Prop,4,0,4,0,0,0,Perth,Australia
 Frank Osler,Scotland,1911,Scrum-half,2,0,2,0,0,0,Riversdale,Canada
-Alexander Stevenson,Scotland,1911,Forward,1,0,1,0,0,0,Glasgow,USA
+Alexander Stevenson,Scotland,1911,Forward,1,0,1,0,0,0,Glasgow,Scotland
 Borth Todd,Scotland,1911,Fullback,1,0,1,0,0,0,Peebles,Scotland
 Freddie Turner,Scotland,1911,Flanker,15,4,11,0,37,3,Liverpool,England
 Thomas Young,Scotland,1911,Centre,1,0,1,0,0,0,Hartlepool,England
 Donald Grant,Scotland,1911,Wing,2,0,2,0,0,0,Burma,Burma
 John Macdonald,Scotland,1911,Wing,1,0,1,0,0,0,,
 Andrew Ross,Scotland,1911,Lock,4,0,4,0,0,0,Edinbu,
-Andrew Greig,Scotland,1911,Fullback,1,0,1,0,0,0,Glasgow,USA
+Andrew Greig,Scotland,1911,Fullback,1,0,1,0,0,0,Glasgow,Scotland
 Carl Ogilvy,Scotland,1911,Fullback,3,0,3,0,0,0,,
 David Bain,Scotland,1911,Prop,11,4,7,0,0,0,Edinburgh,Scotland
 John Dobson,Scotland,1911,Hooker,6,2,4,0,0,0,,
 JY Henderson,Scotland,1911,Fly-half,1,0,1,0,0,0,Edinburgh,Scotland
-William Hutchison,Scotland,1911,Lock,1,0,1,0,0,0,Glasgow,USA
+William Hutchison,Scotland,1911,Lock,1,0,1,0,0,0,Glasgow,Scotland
 Ronald Simson,Scotland,1911,Centre,1,0,1,0,3,1,Edinburgh,Scotland
 Stephen Steyn,Scotland,1911,Wing,2,0,2,0,0,0,Moorreesburg,SouthAfrica
 Mike Dickson,Scotland,1912,Fullback,7,4,3,0,0,0,,
@@ -1742,7 +1742,7 @@ Allen Sloan,Scotland,1914,Wing,9,4,5,0,9,3,Edinburgh,Scotland
 Archibald Stewart,Scotland,1914,Forward,1,0,1,0,0,0,Leith,Scotland
 Archibald Symington,Scotland,1914,Lock,2,0,2,0,0,0,Calcutta,India
 Jock Wemyss,Scotland,1914,Prop,7,2,3,2,0,0,Galashiels,Scotland
-Jack Warren,Scotland,1914,Centre,1,0,1,0,0,0,Glasgow,USA
+Jack Warren,Scotland,1914,Centre,1,0,1,0,0,0,Glasgow,Scotland
 James Huggan,Scotland,1914,Wing,1,0,1,0,3,1,Jedburgh,Scotland
 Ian Moffat-Pender,Scotland,1914,Prop,1,0,1,0,0,0,,
 Eric Young,Scotland,1914,Flanker,1,0,1,0,0,0,,
@@ -1751,15 +1751,15 @@ Denoon Duncan,Scotland,1920,Prop,4,3,1,0,0,0,,
 Ernest Fahmy,Scotland,1920,Centre,4,3,1,0,0,0,Amoy,USA
 Bob Gallie,Scotland,1920,Hooker,8,4,4,0,0,0,,
 Finlay Kennedy,Scotland,1920,Prop,5,3,2,0,13,0,,
-Monty Murray,Scotland,1920,Flanker,3,2,1,0,0,0,Glasgow,USA
+Monty Murray,Scotland,1920,Flanker,3,2,1,0,0,0,Glasgow,Scotland
 George Pattullo,Scotland,1920,Fullback,4,3,1,0,0,0,Ceylon,SriLanka
 George Thom,Scotland,1920,Flanker,4,3,1,0,0,0,Fife,Scotland
-Eric MacKay,Scotland,1920,Wing,2,1,1,0,0,0,Glasgow,USA
+Eric MacKay,Scotland,1920,Wing,2,1,1,0,0,0,Glasgow,Scotland
 Neil Macpherson,Scotland,1920,Forward,11,3,7,1,0,0,Cardiff,United Kingdom
 Jake Selby,Scotland,1920,Scrum-half,2,2,0,0,0,0,Port William,USA
 Arthur Browning,Scotland,1920,Wing,7,4,1,2,22,5,Renfrew,Scotland
 Charles Nimmo,Scotland,1920,Scrum-half,1,0,1,0,0,0,Edinburgh,Scotland
-John Bannerman,Scotland,1921,Lock,37,22,13,2,6,2,Glasgow,USA
+John Bannerman,Scotland,1921,Lock,37,22,13,2,6,2,Glasgow,Scotland
 Jimmy Carmichael,Scotland,1921,Wing,3,1,2,0,0,0,Edinburgh,Scotland
 Ronald Cumming,Scotland,1921,Prop,2,1,1,0,0,0,Speyside,Trinidad and Tobago
 Hector Forsayth,Scotland,1921,Fullback,7,2,4,1,0,0,NSW,Australia
@@ -1767,24 +1767,24 @@ Leslie Gracie,Scotland,1921,Centre,13,5,6,2,6,2,Ceylon,SriLanka
 Ian Kilgour,Scotland,1921,Wing,1,0,1,0,0,0,,
 Alpin Thomson,Scotland,1921,Centre,3,1,2,0,3,1,WA,Australia
 Rankin Buchanan,Scotland,1921,Hooker,16,9,6,1,3,1,,
-Russell Donald,Scotland,1921,Fly-half,3,1,2,0,0,0,Glasgow,USA
+Russell Donald,Scotland,1921,Fly-half,3,1,2,0,0,0,Glasgow,Scotland
 George Douglas,Scotland,1921,Lock,1,1,0,0,0,0,,
 Hamish Shaw,Scotland,1921,No. 8,2,1,1,0,0,0,,
 John McCrow,Scotland,1921,Wing,1,0,1,0,0,0,Chirnside,Scotland
-George Murray,Scotland,1921,Prop,2,1,1,0,0,0,Glasgow,USA
+George Murray,Scotland,1921,Prop,2,1,1,0,0,0,Glasgow,Scotland
 Jock Stewart,Scotland,1921,Flanker,1,0,1,0,0,0,,
 Cecil Mackenzie,Scotland,1921,Centre,1,0,1,0,0,0,,
 David Bertram,Scotland,1922,Hooker,11,6,3,2,8,2,Edinburgh,Scotland
 Doug Davies,Scotland,1922,No. 8,24,12,9,3,3,0,Ashkirk,Scotland
-Jimmy Dykes,Scotland,1922,Centre,20,14,5,1,20,3,Glasgow,USA
+Jimmy Dykes,Scotland,1922,Centre,20,14,5,1,20,3,Glasgow,Scotland
 Bill Johnston,Scotland,1922,Fullback,1,0,0,1,0,0,,
 Jock Lawrie,Scotland,1922,Flanker,11,6,3,2,0,0,Melrose,USA
 Eric Liddell,Scotland,1922,Wing,7,4,1,2,12,4,Tientsin,中国
 Phil Macpherson,Scotland,1922,Centre,26,13,10,3,12,4,Newtonmore,Scotland
-Andrew Stevenson,Scotland,1922,Prop,4,2,1,1,0,0,Glasgow,USA
+Andrew Stevenson,Scotland,1922,Prop,4,2,1,1,0,0,Glasgow,Scotland
 Willie Bryce,Scotland,1922,Scrum-half,11,6,4,1,9,3,Lancs,England
 William Dobson,Scotland,1922,Prop,3,1,1,1,0,0,,
-Ronald Warren,Scotland,1922,Fullback,5,2,1,2,0,0,Glasgow,USA
+Ronald Warren,Scotland,1922,Fullback,5,2,1,2,0,0,Glasgow,Scotland
 Jimmy Tolmie,Scotland,1922,Wing,1,0,1,0,0,0,United States,USA
 Dan Drysdale,Scotland,1923,Fullback,30,18,11,1,45,0,Stirlingshire,Scotland
 David Kerr,Scotland,1923,Prop,10,5,5,0,6,2,,
@@ -1792,12 +1792,12 @@ Teddy McLaren,Scotland,1923,Centre,5,3,2,0,9,3,,
 Samuel McQueen,Scotland,1923,Fly-half,4,3,1,0,3,1,Liverpool,England
 Ludo Stuart,Scotland,1923,Lock,8,3,4,1,3,1,,
 Johnny Wallace,Scotland,1921,Wing,17,11,6,0,48,16,NSW,Australia
-Robert Simpson,Scotland,1923,Flanker,1,1,0,0,0,0,Glasgow,USA
+Robert Simpson,Scotland,1923,Flanker,1,1,0,0,0,0,Glasgow,Scotland
 Kelvin Hendrie,Scotland,1924,No. 8,4,2,2,0,0,0,,
 Bob Howie,Scotland,1924,Prop,11,5,5,1,0,0,Gorebridge,Scotland
 Chris Mackintosh,Scotland,1924,Wing,1,0,1,0,0,0,Charville,France
 Andrew Ross,Scotland,1924,Hooker,2,1,1,0,0,0,,
-Herbert Waddell,Scotland,1924,Fly-half,18,11,7,0,45,7,Glasgow,USA
+Herbert Waddell,Scotland,1924,Fly-half,18,11,7,0,45,7,Glasgow,Scotland
 George Aitken,Scotland,1921,Centre,10,8,2,0,0,0,Westport,USA
 Sandy Gillies,Scotland,1924,No. 8,12,10,2,0,26,1,Argyll,Australia
 Ian Smith,Scotland,1924,Wing,34,20,14,0,72,24,VIC,Australia
@@ -1805,14 +1805,14 @@ Robert Henderson,Scotland,1924,Forward,4,1,2,1,0,0,Coldstream,USA
 Robert Millar,Scotland,1924,Wing,1,1,0,0,0,0,,
 James Gilchrist,Scotland,1925,Hooker,1,1,0,0,0,0,,
 David MacMyn,Scotland,1925,Lock,11,10,1,0,6,2,Kirkcudbright,Scotland
-Jimmy Nelson,Scotland,1925,Scrum-half,25,15,9,1,6,2,Glasgow,USA
+Jimmy Nelson,Scotland,1925,Scrum-half,25,15,9,1,6,2,Glasgow,Scotland
 John Paterson,Scotland,1925,Flanker,21,15,6,0,6,2,,
 James Scott,Scotland,1925,Lock,18,13,5,0,6,2,,
 William Stevenson,Scotland,1925,Prop,1,1,0,0,0,0,,
-Jimmie Ireland,Scotland,1925,Hooker,11,9,2,0,0,0,Glasgow,USA
+Jimmie Ireland,Scotland,1925,Hooker,11,9,2,0,0,0,Glasgow,Scotland
 William Berkley,Scotland,1926,Prop,4,3,1,0,0,0,,
 Roy Kinnear,Scotland,1924,Centre,7,2,4,1,0,0,Edinburgh,Scotland
-Max Simmers,Scotland,1926,Wing,28,13,14,1,18,6,Glasgow,USA
+Max Simmers,Scotland,1926,Wing,28,13,14,1,18,6,Glasgow,Scotland
 Jimmie Graham,Scotland,1926,Flanker,15,6,8,1,3,1,Selkirk,Canada
 Gordon Boyd,Scotland,1926,Wing,1,1,0,0,0,0,Lanarkshire,Scotland
 Jock Allan,Scotland,1927,Prop,17,7,9,1,27,0,,
@@ -1840,9 +1840,9 @@ Reginald Langrish,Scotland,1930,Fullback,4,1,3,0,0,0,,
 Bobby Rowand,Scotland,1930,Flanker,7,4,3,0,0,0,,
 Jack Stewart,Scotland,1930,Lock,1,0,1,0,0,0,,
 Frank Waters,Scotland,1930,Flanker,7,1,5,1,7,1,Middx,
-Bill Agnew,Scotland,1930,Lock,2,1,1,0,0,0,Glasgow,USA
+Bill Agnew,Scotland,1930,Lock,2,1,1,0,0,0,Glasgow,Scotland
 Jerry Foster,Scotland,1930,Prop,4,1,3,0,0,0,Hallrule Hobkirk,
-Thomas Hart,Scotland,1930,Centre,2,1,1,0,0,0,Glasgow,USA
+Thomas Hart,Scotland,1930,Centre,2,1,1,0,0,0,Glasgow,Scotland
 Sammy Ford,Scotland,1930,Centre,5,1,3,1,6,2,Hants,Canada
 James Hutton,Scotland,1930,Centre,2,1,0,1,0,0,Tsientsin,
 Henry Polson,Scotland,1930,Flanker,1,0,0,1,0,0,Gala,Nigeria
@@ -1885,7 +1885,7 @@ Jack Watherston,Scotland,1934,Flanker,2,1,1,0,0,0,Edinburgh,Scotland
 Charlie Grieve,Scotland,1935,Fullback,4,1,3,0,4,0,Philippine,Phillipines
 Bob Grieve,Scotland,1935,Prop,7,1,6,0,0,0,St Boswells,Scotland
 Johnny Johnston,Scotland,1935,Wing,5,1,4,0,0,0,Croydon,England
-Ronald Murray,Scotland,1935,Prop,2,1,1,0,0,0,Glasgow,USA
+Ronald Murray,Scotland,1935,Prop,2,1,1,0,0,0,Glasgow,Scotland
 Alastair McNeil,Scotland,1935,Prop,1,0,1,0,0,0,Edinburgh,Scotland
 William Murdoch,Scotland,1935,Fullback,9,3,6,0,15,1,Old Kilpatrick,Canada
 Peter Tait,Scotland,1935,Hooker,1,1,0,0,0,0,,
@@ -1896,7 +1896,7 @@ Malcolm Cooper,Scotland,1936,Flanker,2,0,2,0,0,0,Napier,NewZealand
 Harvey Druitt,Scotland,1936,Hooker,3,0,3,0,0,0,,
 Laurie Duff,Scotland,1936,No. 8,8,4,4,0,6,2,Lanark,United Kingdom
 Hugh Murray,Scotland,1936,Centre,2,0,2,0,3,1,Coatbridge,United Kingdom
-Vivian Weston,Scotland,1936,Flanker,2,0,2,0,0,0,Glasgow,USA
+Vivian Weston,Scotland,1936,Flanker,2,0,2,0,0,0,Glasgow,Scotland
 Robert Whitworth,Scotland,1936,Wing,1,0,1,0,0,0,United States,USA
 Rob Barrie,Scotland,1936,Flanker,1,0,1,0,0,0,Hawick,Scotland
 Maurice Henderson,Scotland,1937,Prop,3,1,2,0,0,0,,
@@ -1907,12 +1907,12 @@ Christian Melville,Scotland,1937,Lock,3,1,2,0,0,0,,
 Bill Ross,Scotland,1937,Fly-half,2,1,1,0,0,0,,
 Bill Young,Scotland,1937,Flanker,10,5,5,0,3,1,Ardrossan,Scotland
 Rab Bruce-Lockhart,Scotland,1937,Fly-half,3,0,3,0,0,0,Rugby,England
-Ian Shaw,Scotland,1937,Centre,1,0,1,0,4,0,Glasgow,USA
+Ian Shaw,Scotland,1937,Centre,1,0,1,0,4,0,Glasgow,Scotland
 Robert Dryden,Scotland,1937,Wing,1,0,1,0,0,0,Edinburgh,Scotland
 Jake Borthwick,Scotland,1938,Prop,2,2,0,0,0,0,Edinburgh,Scotland
 Wilf Crawford,Scotland,1938,Flanker,5,3,2,0,21,1,Rochester,USA
 Tommy Dorward,Scotland,1938,Scrum-half,5,3,2,0,4,0,Galashiels,Scotland
-Archibald Drummond,Scotland,1938,Wing,2,2,0,0,6,1,Glasgow,USA
+Archibald Drummond,Scotland,1938,Wing,2,2,0,0,6,1,Glasgow,Scotland
 John Forrest,Scotland,1938,Wing,3,3,0,0,6,2,Rhodesia,Zimbabwe
 John Hastie,Scotland,1938,Hooker,3,3,0,0,0,0,Peebles,Scotland
 George Roberts,Scotland,1938,Fullback,5,3,2,0,0,0,Edinburgh,Scotland
@@ -1944,7 +1944,7 @@ Bill MacLennan,Scotland,1947,Wing,2,0,2,0,0,0,Edinburgh,Scotland
 John Orr,Scotland,1947,Flanker,2,0,2,0,0,0,Edinburgh,Scotland
 Alexander Watt,Scotland,1947,No. 8,6,1,5,0,0,0,,
 Richard Aitken,Scotland,1947,Prop,1,0,1,0,0,0,Dunbar,Scotland
-Frank Coutts,Scotland,1947,Lock,3,0,3,0,0,0,Glasgow,USA
+Frank Coutts,Scotland,1947,Lock,3,0,3,0,0,0,Glasgow,Scotland
 David Mackenzie,Scotland,1947,Wing,6,1,5,0,0,0,Wallsend-on-Tyne,United Kingdom
 Ernie Anderson,Scotland,1947,Scrum-half,2,0,2,0,0,0,,
 Howard Campbell,Scotland,1947,Prop,4,1,3,0,0,0,Nairobi,Kenya
@@ -1953,7 +1953,7 @@ Jimmy Lees,Scotland,1947,Flanker,5,2,3,0,0,0,Selkirk,Canada
 Duncan McLean,Scotland,1947,No. 8,2,0,2,0,0,0,,
 Billy Munro,Scotland,1947,Centre,2,0,2,0,0,0,,
 Dave Valentine,Scotland,1947,Flanker,2,0,2,0,0,0,Hawick,Scotland
-Dallas Allardice,Scotland,1947,Scrum-half,8,3,5,0,5,0,Glasgow,USA
+Dallas Allardice,Scotland,1947,Scrum-half,8,3,5,0,5,0,Glasgow,Scotland
 Robert Bruce,Scotland,1947,Prop,4,1,3,0,0,0,Aberdeen,Scotland
 Leslie Currie,Scotland,1947,Lock,8,3,5,0,0,0,,
 Hamish Dawson,Scotland,1947,Prop,20,6,14,0,3,1,,
@@ -1962,7 +1962,7 @@ Doddie Lyall,Scotland,1947,Hooker,5,2,3,0,0,0,,
 Charlie McDonald,Scotland,1947,Wing,1,0,1,0,3,0,Jedburgh,Scotland
 Tommy Wright,Scotland,1947,Centre,1,0,1,0,0,0,Hawick,Scotland
 Bill Black,Scotland,1948,Prop,5,2,3,0,0,0,Rutherglen,Scotland
-Angus Cameron,Scotland,1948,Fly-half,19,6,13,0,29,2,Glasgow,USA
+Angus Cameron,Scotland,1948,Fly-half,19,6,13,0,29,2,Glasgow,Scotland
 Stewart Coltman,Scotland,1948,Prop,5,2,3,0,0,0,Hawick,Scotland
 Logie Bruce-Lockhart,Scotland,1948,Fly-half,5,2,3,0,2,0,Rugby,England
 Robert Finlay,Scotland,1948,Lock,1,1,0,0,0,0,Edinburgh,Scotland
@@ -1978,14 +1978,14 @@ Steven Wright,Scotland,1949,Prop,1,0,1,0,0,0,Tsengchow,
 Grahame Budge,Scotland,1950,Prop,5,2,3,0,3,1,MB,Canada
 Dod Burrell,Scotland,1950,Fullback,4,1,3,0,0,0,Galashiels,Scotland
 Arthur Dorward,Scotland,1950,Scrum-half,15,3,12,0,3,0,Galashiels,Scotland
-Bob Gemmill,Scotland,1950,Lock,7,3,4,0,0,0,Glasgow,USA
+Bob Gemmill,Scotland,1950,Lock,7,3,4,0,0,0,Glasgow,Scotland
 Ranald Macdonald,Scotland,1950,Centre,6,3,2,1,6,2,Consett,England
 Douglas Muir,Scotland,1950,Lock,7,2,5,0,0,0,Edinburgh,Scotland
 Donald Sloan,Scotland,1950,Centre,7,3,4,0,9,3,Edinburgh,Scotland
 Donald Scott,Scotland,1950,Centre,10,2,8,0,0,0,Langholm,Danmark
 Tommy Gray,Scotland,1950,Fullback,3,1,2,0,10,0,,
 Hamish Scott,Scotland,1950,Flanker,1,1,0,0,0,0,Edinburgh,Scotland
-Allan Cameron,Scotland,1951,Centre,3,0,3,0,0,0,Glasgow,USA
+Allan Cameron,Scotland,1951,Centre,3,0,3,0,0,0,Glasgow,Scotland
 Ian Coutts,Scotland,1951,Centre,2,0,2,0,0,0,Herne Hill,England
 Jack Hegarty,Scotland,1951,Lock,6,0,6,0,0,0,Hawick,Scotland
 Hamish Inglis,Scotland,1951,Lock,7,1,6,0,2,0,Calcutta,India
@@ -2019,12 +2019,12 @@ Donald Macdonald,Scotland,1953,No. 8,4,0,3,1,0,0,Banff,Canada
 Keith McMillan,Scotland,1953,Flanker,4,0,4,0,0,0,South Africa?,SouthAfrica
 Bruce Thomson,Scotland,1953,Prop,3,0,3,0,0,0,,
 Alec Valentine,Scotland,1953,Flanker,3,0,3,0,0,0,Hawick,Scotland
-Donald Cameron,Scotland,1953,Centre,6,0,6,0,0,0,Glasgow,USA
+Donald Cameron,Scotland,1953,Centre,6,0,6,0,0,0,Glasgow,Scotland
 Edwin Henriksen,Scotland,1953,No. 8,1,0,1,0,0,0,,
 Gurth Hoyer-Millar,Scotland,1953,Hooker,1,0,1,0,0,0,London,England
 Ken Spence,Scotland,1953,Scrum-half,1,0,1,0,0,0,,
 John Wilson,Scotland,1953,Prop,1,0,1,0,0,0,Midlothian,Scotland
-William Cowie,Scotland,1953,No. 8,1,0,1,0,0,0,Glasgow,USA
+William Cowie,Scotland,1953,No. 8,1,0,1,0,0,0,Glasgow,Scotland
 Walter Kerr,Scotland,1953,Flanker,1,0,1,0,0,0,Purley,England
 Ian Swan,Scotland,1953,Wing,17,6,11,0,3,1,St Andrew's,Scotland
 Ewen Fergusson,Scotland,1954,Lock,5,0,5,0,0,0,,
@@ -2036,8 +2036,8 @@ Adam Robson,Scotland,1954,Flanker,22,7,13,2,0,0,Hawick,Scotland
 Kim Elgie,Scotland,1954,Centre,8,2,6,0,14,1,Durban,SouthAfrica
 Pat MacLachlan,Scotland,1954,Scrum-half,4,0,4,0,0,0,South Rhodesia,Zimbabwe
 Graham Ross,Scotland,1954,Fly-half,4,0,4,0,0,0,Edinburgh,Scotland
-Hamish Kemp,Scotland,1954,Lock,27,9,16,2,6,2,Glasgow,USA
-Jimmy Docherty,Scotland,1955,Centre,8,3,4,1,3,0,Glasgow,USA
+Hamish Kemp,Scotland,1954,Lock,27,9,16,2,6,2,Glasgow,Scotland
+Jimmy Docherty,Scotland,1955,Centre,8,3,4,1,3,0,Glasgow,Scotland
 Hugh Duffy,Scotland,1955,Flanker,1,0,1,0,0,0,Shotts,Scotland
 Micky Grant,Scotland,1955,Fly-half,4,2,2,0,0,0,Norwich,England
 Ian Hastie,Scotland,1955,Prop,6,2,3,1,3,1,Kelso,Scotland
@@ -2048,7 +2048,7 @@ William Glen,Scotland,1955,Flanker,1,1,0,0,0,0,,
 James Nichol,Scotland,1955,Scrum-half,3,2,1,0,3,1,Edinburgh,Scotland
 Arthur Smith,Scotland,1955,Wing,36,13,20,3,58,12,Castle Douglas,SouthAfrica
 Robin Chisholm,Scotland,1955,Fullback,11,4,7,0,5,0,St Boswells,Scotland
-Ian MacGregor,Scotland,1955,Flanker,9,4,5,0,0,0,Glasgow,USA
+Ian MacGregor,Scotland,1955,Flanker,9,4,5,0,0,0,Glasgow,Scotland
 Nim Campbell,Scotland,1956,Scrum-half,2,1,1,0,0,0,Rhondda,Wales
 Keith Macdonald,Scotland,1956,Centre,6,2,4,0,0,0,Dundee,Scotland
 Tommy McClung,Scotland,1956,Centre,9,2,7,0,4,0,,
@@ -2058,7 +2058,7 @@ Ken Scotland,Scotland,1957,Fullback,32,13,16,3,79,0,Edinburgh,Scotland
 John Allan,Scotland,1957,Wing,2,0,2,0,0,0,,
 Jimmy Maxwell,Scotland,1957,Fly-half,1,0,1,0,0,0,,
 Ken Smith,Scotland,1957,Flanker,22,8,13,1,3,1,Edinburgh,Scotland
-Gordon Waddell,Scotland,1957,Fly-half,20,6,10,4,0,0,Glasgow,USA
+Gordon Waddell,Scotland,1957,Fly-half,20,6,10,4,0,0,Glasgow,Scotland
 Norman Bruce,Scotland,1958,Hooker,31,13,14,4,9,3,Edinburgh,Scotland
 Mike Robertson,Scotland,1958,Flanker,1,1,0,0,0,0,,
 Tremayne Rodd,Scotland,1958,Scrum-half,14,3,9,2,0,0,,
@@ -2088,7 +2088,7 @@ Alec Hastie,Scotland,1961,Scrum-half,18,10,6,2,0,0,Hawick,Scotland
 John Brash,Scotland,1961,Flanker,1,0,1,0,0,0,,
 Ron Glasgow,Scotland,1962,Flanker,10,5,4,1,9,3,,
 Robert Steven,Scotland,1962,Prop,1,1,0,0,0,0,Fyfe,Australia
-Cameron Boyle,Scotland,1963,Prop,3,2,1,0,0,0,Glasgow,USA
+Cameron Boyle,Scotland,1963,Prop,3,2,1,0,0,0,Glasgow,Scotland
 William Watherston,Scotland,1963,Flanker,3,2,1,0,0,0,Ford Midlothian,Scotland
 David White,Scotland,1963,Centre,4,2,2,0,0,0,,
 Colin Blaikie,Scotland,1963,Fullback,8,4,4,0,15,0,Edinburgh,Scotland
@@ -2103,15 +2103,15 @@ David Chisholm,Scotland,1964,Fly-half,14,8,4,2,15,1,St Boswells,Scotland
 Doug Jackson,Scotland,1964,Wing,8,4,3,1,0,0,,
 Derrick Grant,Scotland,1965,Flanker,14,6,6,2,3,1,Hawick,Scotland
 Frank Laidlaw,Scotland,1965,Hooker,34,10,22,2,0,0,Hawick,Scotland
-Brian Simmers,Scotland,1965,Centre,7,3,4,0,9,0,Glasgow,USA
+Brian Simmers,Scotland,1965,Centre,7,3,4,0,9,0,Glasgow,Scotland
 Peter Stagg,Scotland,1965,Lock,31,10,19,2,0,0,Twickenham,England
 Norm Suddon,Scotland,1965,Prop,13,5,7,1,0,0,Roxburghshire,
 David Whyte,Scotland,1965,Wing,13,6,5,2,6,2,,
 Sandy Hinshelwood,Scotland,1966,Wing,24,8,14,2,18,6,,
 John Macdonald,Scotland,1966,Prop,8,4,3,1,0,0,Kirkcaldy,Scotland
 Jock Turner,Scotland,1966,Centre,24,8,15,1,6,2,Hawick,Scotland
-Alasdair Boyle,Scotland,1966,No. 8,6,2,4,0,3,1,Glasgow,USA
-Sandy Carmichael,Scotland,1967,Prop,50,19,31,0,3,1,Glasgow,USA
+Alasdair Boyle,Scotland,1966,No. 8,6,2,4,0,3,1,Glasgow,Scotland
+Sandy Carmichael,Scotland,1967,Prop,50,19,31,0,3,1,Glasgow,Scotland
 Rob Welsh,Scotland,1967,Centre,2,0,2,0,0,0,Hawick,Scotland
 Ian McCrae,Scotland,1967,Scrum-half,6,2,4,0,0,0,,
 John Frame,Scotland,1967,Centre,23,7,16,0,13,4,Edinburgh,Scotland
@@ -2127,9 +2127,9 @@ Derek Deans,Scotland,1968,Hooker,1,0,1,0,0,0,Hawick,Scotland
 Ian Robertson,Scotland,1968,Fly-half,8,2,6,0,9,1,London,England
 Chris Rea,Scotland,1968,Centre,13,5,8,0,9,3,Dundee,Scotland
 Colin Telfer,Scotland,1968,Fly-half,17,9,8,0,18,3,Hawick,Scotland
-Dick Allan,Scotland,1969,Scrum-half,1,0,1,0,0,0,Glasgow,USA
+Dick Allan,Scotland,1969,Scrum-half,1,0,1,0,0,0,Glasgow,Scotland
 Wilson Lauder,Scotland,1969,Flanker,18,5,13,0,19,2,Fife,Scotland
-Gordon Macdonald,Scotland,1969,Fullback,1,0,1,0,0,0,Glasgow,USA
+Gordon Macdonald,Scotland,1969,Fullback,1,0,1,0,0,0,Glasgow,Scotland
 Ian McLauchlan,Scotland,1969,Prop,51,20,27,4,3,1,Tarbolton,Scotland
 Billy Steele,Scotland,1969,Wing,25,12,13,0,22,6,Langholm,Danmark
 Alastair Biggar,Scotland,1969,Wing,12,5,7,0,3,1,Edinburgh,Scotland
@@ -2205,7 +2205,7 @@ Eric Paxton,Scotland,1982,Flanker,2,0,2,0,0,0,,
 Derek White,Scotland,1982,No. 8,42,22,18,2,44,11,Haddington,Scotland
 Jim Pollock,Scotland,1982,Wing,8,5,2,1,8,2,Wallsend,Scotland
 Rick Gordon,Scotland,1982,Centre,2,1,1,0,0,0,Lahore,India
-Gerry McGuinness,Scotland,1982,Prop,7,1,6,0,0,0,Glasgow,USA
+Gerry McGuinness,Scotland,1982,Prop,7,1,6,0,0,0,Glasgow,Scotland
 Peter Dods,Scotland,1983,Fullback,23,9,12,2,210,2,Galashiels,Scotland
 Tom Smith,Scotland,1983,Lock,4,1,2,1,4,1,E Lothian,Scotland
 Euan Kennedy,Scotland,1983,Centre,4,2,1,1,4,1,Edinburgh,Scotland
@@ -2221,7 +2221,7 @@ Keith Murray,Scotland,1985,Centre,3,0,3,0,0,0,Hawick,Scotland
 Iwan Tukalo,Scotland,1985,Wing,37,19,16,2,60,15,Edinburgh,Scotland
 Finlay Calder,Scotland,1986,Flanker,37,21,14,2,8,2,Haddington,Scotland
 Jeremy Campbell-Lamerton,Scotland,1986,Lock,3,3,0,0,0,0,Gibraltar,Gibraltar
-Matt Duncan,Scotland,1986,Wing,18,9,8,1,28,7,Glasgow,USA
+Matt Duncan,Scotland,1986,Wing,18,9,8,1,28,7,Glasgow,Scotland
 Gavin Hastings,Scotland,1986,Fullback,67,35,30,2,733,18,Edinburgh,Scotland
 Scott Hastings,Scotland,1986,Centre,67,36,29,2,43,10,Edinburgh,Scotland
 David Sole,Scotland,1986,Prop,47,24,21,2,12,3,Aylesbury,England
@@ -2232,7 +2232,7 @@ Derek Turnbull,Scotland,1987,Flanker,15,7,8,0,9,2,Hawick,Scotland
 Damian Cronin,Scotland,1988,Lock,45,20,23,2,23,5,Wegberg,Germany
 Andrew Ker,Scotland,1988,Fly-half,2,0,2,0,0,0,Kelso,Scotland
 Gary Armstrong,Scotland,1988,Scrum-half,51,23,26,2,21,5,Edinburgh,Scotland
-Graham Marshall,Scotland,1988,Flanker,4,3,1,0,0,0,Glasgow,USA
+Graham Marshall,Scotland,1988,Flanker,4,3,1,0,0,0,Glasgow,Scotland
 Craig Chalmers,Scotland,1989,Fly-half,61,28,31,2,172,5,Galashiels,Scotland
 Chris Gray,Scotland,1989,Lock,22,14,7,1,12,3,Haddington,Scotland
 Sean Lineen,Scotland,1989,Centre,29,16,12,1,8,2,Auckland,NewZealand
@@ -2241,11 +2241,11 @@ Paul Burnell,Scotland,1989,Prop,53,26,24,3,5,1,Edinburgh,Scotland
 Tony Stanger,Scotland,1989,Wing,52,22,29,1,106,24,Hawick,Scotland
 George Buchanan-Smith,Scotland,1989,Flanker,2,2,0,0,0,0,Edinburgh,Scotland
 Lindsay Renwick,Scotland,1989,Wing,1,1,0,0,0,0,Hawick,Scotland
-John Allan,Scotland,1990,Hooker,22,11,10,1,0,0,Glasgow,USA
+John Allan,Scotland,1990,Hooker,22,11,10,1,0,0,Glasgow,Scotland
 Alex Moore,Scotland,1990,Wing,5,2,3,0,8,2,QLD,Australia
 Doddie Weir,Scotland,1990,Lock,61,24,35,2,19,4,Edinburgh,Scotland
 David Milne,Scotland,1991,Prop,1,1,0,0,0,0,Edinburgh,Scotland
-Alan Watt,Scotland,1991,Prop,4,2,2,0,0,0,Glasgow,USA
+Alan Watt,Scotland,1991,Prop,4,2,2,0,0,0,Glasgow,Scotland
 Graham Shiel,Scotland,1991,Centre,18,6,11,1,20,3,Galashiels,Scotland
 Neil Edwards,Scotland,1992,Lock,6,2,4,0,4,1,Surrey,England
 Dave McIvor,Scotland,1992,Flanker,6,2,4,0,0,0,Kirkcaldy,Scotland
@@ -2269,14 +2269,14 @@ Shade Munro,Scotland,1994,Lock,7,0,6,1,0,0,Paisley,Scotland
 Alan Sharp,Scotland,1994,Prop,6,0,5,1,0,0,Bristol,England
 Peter Walton,Scotland,1994,Flanker,24,10,13,1,20,4,Alnwick,England
 Michael Dods,Scotland,1994,"Fullback, Wing",8,3,3,2,80,3,Galashiels,Scotland
-Craig Joiner,Scotland,1994,Wing,25,13,12,0,15,3,Glasgow,USA
+Craig Joiner,Scotland,1994,Wing,25,13,12,0,15,3,Glasgow,Scotland
 Kevin McKenzie,Scotland,1994,Hooker,14,6,8,0,5,1,Stirling,Scotland
 Scott Nichol,Scotland,1994,Centre,1,0,1,0,0,0,Selkirk,Scotland
 Derrick Patterson,Scotland,1994,Scrum-half,2,1,1,0,0,0,Hawick,Scotland
 Jeremy Richardson,Scotland,1994,Lock,1,0,1,0,0,0,Crawley,England
-Stewart Campbell,Scotland,1995,Lock,17,9,7,1,0,0,Glasgow,USA
+Stewart Campbell,Scotland,1995,Lock,17,9,7,1,0,0,Glasgow,Scotland
 Dave Hilton,Scotland,1995,Prop,42,19,22,1,5,1,Bristol,England
-Eric Peters,Scotland,1995,Back-row,29,13,16,0,25,5,Glasgow,USA
+Eric Peters,Scotland,1995,Back-row,29,13,16,0,25,5,Glasgow,Scotland
 John Manson,Scotland,1995,Prop,1,0,1,0,0,0,Bridge of Allan,Scotland
 Jim Hay,Scotland,1995,Hooker,1,0,0,1,0,0,Hawick,Scotland
 Stuart Reid,Scotland,1995,Flanker,8,3,4,1,0,0,Kendal,England
@@ -2289,19 +2289,19 @@ Graham Ellis,Scotland,1997,Hooker,4,1,3,0,0,0,Hawick,Scotland
 Tom Smith,Scotland,1997,Prop,67,29,37,1,30,6,London,England
 Cameron Glasgow,Scotland,1997,Fullback,1,0,1,0,0,0,Bridge of Allan,Scotland
 Duncan Hodge,Scotland,1997,Fly-half,26,11,14,1,123,6,Dumfries,Scotland
-James Craig,Scotland,1997,Wing,4,1,2,1,0,0,Glasgow,USA
+James Craig,Scotland,1997,Wing,4,1,2,1,0,0,Glasgow,Scotland
 Grant McKelvey,Scotland,1997,Hooker,1,0,1,0,0,0,Chingola,Zambia
 Scott Murray,Scotland,1997,Lock,87,31,55,1,15,3,Musselburgh,Scotland
 Adam Roxburgh,Scotland,1997,Flanker,8,0,8,0,0,0,Edinburgh,Scotland
 George Graham,Scotland,1997,Prop,25,11,14,0,5,1,Stirling,Scotland
 Stuart Grimes,Scotland,1997,Lock,71,27,43,1,25,5,Aberdeen,Scotland
-Gordon Bulloch,Scotland,1997,Hooker,77,26,50,1,20,4,Glasgow,USA
+Gordon Bulloch,Scotland,1997,Hooker,77,26,50,1,20,4,Glasgow,Scotland
 Simon Holmes,Scotland,1998,Flanker,3,1,2,0,0,0,Workington,England
 Derrick Lee,Scotland,1998,Fullback,12,1,11,0,34,1,Ayr,Scotland
 Shaun Longstaff,Scotland,1998,Wing,15,5,10,0,10,2,Wellington,NewZealand
 Cammie Murray,Scotland,1998,Wing,26,11,14,1,35,7,Hawick,Scotland
 Hugh Gilmour,Scotland,1998,Wing,1,0,1,0,5,1,Edinburgh,Scotland
-Gordon McIlwham,Scotland,1998,Prop,16,5,10,1,0,0,Glasgow,USA
+Gordon McIlwham,Scotland,1998,Prop,16,5,10,1,0,0,Glasgow,Scotland
 Matthew Proudfoot,Scotland,1998,Prop,4,0,4,0,0,0,Klerksdorp,SouthAfrica
 Glenn Metcalfe,Scotland,1998,Fullback,40,17,23,0,20,4,Auckland,NewZealand
 Gordon Simpson,Scotland,1998,No. 8,15,5,10,0,15,3,Takapuna,NewZealand
@@ -2325,7 +2325,7 @@ Jon Petrie,Scotland,2000,Back-row,45,17,27,1,15,3,Dundee,Scotland
 Graeme Beveridge,Scotland,2000,Scrum-half,6,4,2,0,0,0,Edinburgh,Scotland
 Nathan Hines,Scotland,2000,Lock,77,30,46,1,10,2,Wagga Wagga,Australia
 Steve Scott,Scotland,2000,Hooker,11,8,3,0,0,0,Galashiels,Scotland
-Alan Bulloch,Scotland,2000,Centre,5,2,3,0,5,1,Glasgow,USA
+Alan Bulloch,Scotland,2000,Centre,5,2,3,0,5,1,Glasgow,Scotland
 Jon Steel,Scotland,2000,Outside back,5,3,2,0,0,0,Middlesbrough,England
 Simon Taylor,Scotland,2000,Back-row,66,29,37,0,30,6,Stirling,Scotland
 Andrew Henderson,Scotland,2001,Centre,53,17,36,0,40,8,Kent,England
@@ -2335,7 +2335,7 @@ Roland Reid,Scotland,2001,Wing,2,1,1,0,5,1,Middleberg,SouthAfrica
 Brendan Laney,Scotland,2001,"Centre, Fly-half",20,7,13,0,141,4,Invercargill,NewZealand
 Mike Blair,Scotland,2002,Scrum-half,85,33,52,0,35,7,Edinburgh,Scotland
 Andy Craig,Scotland,2002,Centre,23,9,14,0,40,8,Lancs,England
-Rory Kerr,Scotland,2002,Fullback,3,1,2,0,5,1,Glasgow,USA
+Rory Kerr,Scotland,2002,Fullback,3,1,2,0,5,1,Glasgow,Scotland
 Craig Smith,Scotland,2002,Prop,25,12,13,0,0,0,York,England
 Ben Hinshelwood,Scotland,2002,Centre,19,10,9,0,5,1,VIC,Australia
 Allan Jacobsen,Scotland,2002,Prop,65,24,40,1,0,0,Edinburgh,Scotland
@@ -2368,11 +2368,11 @@ Rory Lamont,Scotland,2005,"Fullback, Wing",29,12,17,0,30,6,Perth,Australia
 Kelly Brown,Scotland,2005,Back-row,64,25,38,1,20,4,Edinburgh,Scotland
 Scott Lawson,Scotland,2005,Hooker,46,20,25,1,10,2,Lanark,United Kingdom
 Phil Godman,Scotland,2005,Fly-half,23,10,12,1,71,1,Edinburgh,Scotland
-Euan Murray,Scotland,2005,Prop,66,25,40,1,10,2,Glasgow,USA
+Euan Murray,Scotland,2005,Prop,66,25,40,1,10,2,Glasgow,Scotland
 Andy Wilson,Scotland,2005,"Wing, Back-row",1,1,0,0,0,0,Fort Brown,USA
 Ben MacDougall,Scotland,2006,Outside back,2,0,2,0,0,0,NSW,Australia
 Sam Pinder,Scotland,2006,Scrum-half,2,0,2,0,0,0,Taupo,NewZealand
-Johnnie Beattie,Scotland,2006,No. 8,38,15,22,1,15,3,Glasgow,USA
+Johnnie Beattie,Scotland,2006,No. 8,38,15,22,1,15,3,Glasgow,Scotland
 Rob Dewey,Scotland,2006,"Wing, Centre",13,6,7,0,20,4,Marlborough,NewZealand
 David Callam,Scotland,2006,No. 8,11,3,8,0,5,1,Edinburgh,Scotland
 Jim Hamilton,Scotland,2006,Lock,63,18,44,1,5,1,Swindon,England
@@ -2396,7 +2396,7 @@ Alan MacDonald,Scotland,2009,Back-row,4,1,2,1,0,0,Edinburgh,Scotland
 Richie Gray,Scotland,2010,Lock,55,25,30,0,10,2,Rutherglen,Scotland
 Ruaridh Jackson,Scotland,2010,Fly-half,28,11,17,0,20,0,Northampton,England
 Greig Laidlaw,Scotland,2010,Scrum-half,49,18,31,0,487,4,Edinburgh,Scotland
-Joe Ansbro,Scotland,2010,Centre,11,7,4,0,15,3,Glasgow,USA
+Joe Ansbro,Scotland,2010,Centre,11,7,4,0,15,3,Glasgow,Scotland
 Jack Cuthbert,Scotland,2011,"Wing, Fullback",1,1,0,0,0,0,Bristol,England
 David Denton,Scotland,2011,Back-row,34,9,25,0,0,0,Marondera,Zimbabwe
 Lee Jones,Scotland,2012,Wing,4,0,4,0,5,1,Edinburgh,Scotland
@@ -2404,7 +2404,7 @@ Stuart Hogg,Scotland,2012,Fullback,41,16,25,0,51,9,Melrose,Scotland
 Ed Kalman,Scotland,2012,Prop,2,0,2,0,0,0,Plymouth,England
 Duncan Weir,Scotland,2012,Fly-half,22,9,13,0,57,2,Rutherglen,Scotland
 Matt Scott,Scotland,2012,Centre,34,13,21,0,20,4,Dunfermline,Scotland
-Jon Welsh,Scotland,2012,Prop,11,5,6,0,5,1,Glasgow,USA
+Jon Welsh,Scotland,2012,Prop,11,5,6,0,5,1,Glasgow,Scotland
 Ryan Grant,Scotland,2012,Prop,25,10,15,0,0,0,Kirkcaldy,Scotland
 Tom Brown,Scotland,2012,"Fullback, Wing",1,1,0,0,0,0,Edinburgh,Scotland
 Tim Visser,Scotland,2012,Wing,24,11,13,0,50,10,Zeewolde,Netherlands
@@ -2424,8 +2424,8 @@ Duncan Taylor,Scotland,2013,Wing,15,6,9,0,5,1,Northampton,England
 Peter Murchie,Scotland,2013,Fullback,3,1,2,0,0,0,Carlisle,England
 Tommy Seymour,Scotland,2013,Wing,25,9,16,0,65,13,"Nashville, Tennessee",USA
 Tim Swinson,Scotland,2013,Lock,20,6,14,0,0,0,London,England
-Fraser Brown,Scotland,2013,Hooker,15,5,10,0,0,0,Lanark,United Kingdom
-Jonny Gray,Scotland,2013,Lock,22,7,15,0,5,1,Glasgow,USA
+Fraser Brown,Scotland,2013,Hooker,15,5,10,0,0,0,Edinburgh,Scotland
+Jonny Gray,Scotland,2013,Lock,22,7,15,0,5,1,Glasgow,Scotland
 Kieran Low,Scotland,2013,Lock,5,4,1,0,0,0,Chichester,England
 Chris Fusaro,Scotland,2014,Flanker,4,2,2,0,0,0,Kirkcaldy,Scotland
 Dougie Fife,Scotland,2014,"Wing, Centre",6,1,5,0,5,1,Edinburgh,Scotland
@@ -2444,7 +2444,7 @@ Hamish Watson,Scotland,2015,Back-row,2,1,1,0,0,0,Manchester,England
 Hugh Blake,Scotland,2015,Flanker,1,0,1,0,0,0,Tauranga,NewZealand
 Mike Cusack,Scotland,2015,Prop,2,1,1,0,0,0,Doncaster,England
 John Hardie,Scotland,2015,Flanker,8,4,4,0,15,3,Lumsden,NewZealand
-Rory Hughes,Scotland,2015,"Fullback, Wing",1,1,0,0,0,0,,
+Rory Hughes,Scotland,2015,"Fullback, Wing",1,1,0,0,0,0,Glasgow,Scotland
 Stuart McInally,Scotland,2015,Hooker,5,3,2,0,0,0,Edinburgh,Scotland
 Damien Hoyland,Scotland,2015,Wing,1,1,0,0,0,0,Edinburgh,Scotland
 Willem Nel,Scotland,2015,Prop,11,6,5,0,5,1,Loriesfontein,SouthAfrica
@@ -3598,7 +3598,7 @@ Johnny Lewis,Wales,1887,Halfback,1,1,0,0,NA,0,Llanelly,Australia
 William Towers,Wales,1887,Forward,2,2,0,0,NA,1,Hartlepool,England
 William Howell,Wales,1888,Forward,2,1,1,0,NA,0,Swansea,Wales
 Price Jenkins-Price,Wales,1888,Three-quarters,2,1,1,0,NA,1,Carmarthen,Wales
-Dick Kedzlie,Wales,1888,Forward,2,1,1,0,NA,0,Glasgow,USA
+Dick Kedzlie,Wales,1888,Forward,2,1,1,0,NA,0,Glasgow,Scotland
 John Meredith,Wales,1888,Forward,4,2,2,0,0,0,Morriston,Wales
 Dick Powell,Wales,1888,Forward,2,1,1,0,NA,0,Monmouth,United Kingdom
 Ned Roberts,Wales,1888,Fullback,3,1,2,0,NA,0,Llanelly,Australia
@@ -5175,7 +5175,7 @@ Hannes Strydom,SouthAfrica,1993,Lock,21,12,9,0,5,1,Welkom,SouthAfrica
 Nico Wegner,SouthAfrica,1993,Lock,4,1,3,0,0,0,Nelspruit,SouthAfrica
 Joel Stransky,SouthAfrica,1993,Fly-half,22,16,6,0,240,6,Pietermaritzburg,SouthAfrica
 Balie Swart,SouthAfrica,1993,Prop,16,11,4,1,0,0,Malmesbury,SouthAfrica
-John Allan,SouthAfrica,1990,Hooker,22,11,10,1,0,0,Glasgow,USA
+John Allan,SouthAfrica,1990,Hooker,22,11,10,1,0,0,Glasgow,Scotland
 Henry Honiball,SouthAfrica,1993,Fly-half,35,26,9,0,156,1,EstCourt,SouthAfrica
 Steve Atherton,SouthAfrica,1993,Lock,8,3,4,1,0,0,Gosport,England
 Guy Kebble,SouthAfrica,1993,Prop,4,2,2,0,0,0,Cape Town,SouthAfrica
@@ -5558,7 +5558,7 @@ Harald Baker,Australia,1914,Flanker,3,0,3,0,0,0,NSW,Australia
 Jimmy Flynn,Australia,1914,Centre,2,0,2,0,0,0,QLD,Australia
 Eric Francis,Australia,1914,Wing,2,0,2,0,0,0,QLD,Australia
 John Thompson,Australia,1914,Flanker,1,0,1,0,0,0,QLD,Australia
-Clinker Birt,Australia,1914,No. 8,1,0,1,0,0,0,Glasgow,USA
+Clinker Birt,Australia,1914,No. 8,1,0,1,0,0,0,Glasgow,Scotland
 Samuel Kreutzer,Australia,1914,Prop,1,0,1,0,0,0,QLD,Australia
 William Morrissey,Australia,1914,Prop,1,0,1,0,0,0,QLD,Australia
 Jackie Beith,Australia,1914,Fullback,4,0,4,0,0,0,NSW,Australia
@@ -7130,7 +7130,7 @@ Nathan Harris,NewZealand,2014,Hooker,2,2,0,0,5,1,Tauranga,NewZealand
 Augustine Pulu,NewZealand,2014,Scrum-half,2,2,0,0,0,0,S Auckland,NewZealand
 James Parsons,NewZealand,2014,Hooker,1,1,0,0,0,0,Auckland,NewZealand
 George Moala,NewZealand,2015,Wing,1,1,0,0,5,1,Auckland,NewZealand
-Nepo Laulala,NewZealand,2015,Prop,4,3,1,0,0,0,Fagaalu,USA
+Nepo Laulala,NewZealand,2015,Prop,4,3,1,0,0,0,Motootua,Samoa
 Charlie Ngatai,NewZealand,2015,Centre,1,1,0,0,0,0,Gisborne,NewZealand
 Brad Weber,NewZealand,2015,Scrum-half,1,1,0,0,0,0,Napier,NewZealand
 Waisake Naholo,NewZealand,2015,Wing,3,3,0,0,5,1,Sigatoka,Fiji
@@ -8163,7 +8163,7 @@ Maxime Machenaud,France,2012,Scrum-half,21,10,11,0,43,1,Bordeaux,France
 Christophe Samson,France,2012,Lock,5,2,2,1,0,0,Clermont-Ferrand,France
 Yannick Forestier,France,2012,Prop,11,6,5,0,0,0,Narbonne,France
 Jocelino Suta,France,2012,Lock,6,3,3,0,0,0,Port Vila,Vanuatu
-Sebastien Vahaamahina,France,2012,Lock,17,6,10,1,0,0,New Caledo,Grande Terre et récifs d'Entrecasteaux (eaux territoriales)
+Sebastien Vahaamahina,France,2012,Lock,17,6,10,1,0,0,"Noumea, New Caledonia",France
 Antonie Claassen,France,2013,No. 8,6,2,3,1,0,0,Durban,SouthAfrica
 Gael Fickou,France,2013,Centre,17,10,7,0,10,2,La Seyne-sur-Mer,France
 Camille Lopez,France,2013,Fly-half,9,4,5,0,72,0,Oloron-Sainte-Marie,France
@@ -9676,7 +9676,7 @@ Michele Visentin,Italy,2015,Wing,1,1,0,0,0,0,Paese,Italia
 Carlo Canna,Italy,2015,Fly-half,9,2,7,0,25,1,Benevento,Italia
 Marcello Violi,Italy,2015,Scrum-half,2,0,2,0,0,0,Parma,Italia
 Mattia Bellini,Italy,2016,"Fullback, Wing",3,0,3,0,0,0,Padova,Italia
-Ornel Gega,Italy,2016,Hooker,2,0,2,0,0,0,Albania,Shqipëria
+Ornel Gega,Italy,2016,Hooker,2,0,2,0,0,0,Lazhe,Albania
 Andrea Lovotti,Italy,2016,Prop,3,0,3,0,0,0,Piacenza,Italia
 David Odiete,Italy,2016,Wing,2,0,2,0,0,0,Reggio Emilia,Italia
 Dries van Schalkwyk,Italy,2016,No. 8,2,0,2,0,0,0,Bloemfontein,SouthAfrica
@@ -12343,7 +12343,7 @@ Dave Tucker,Canada,1985,Scrum-half,6,3,3,0,4,1,,
 Roy Radu,Canada,1985,Flanker,12,8,4,0,0,0,BC,Canada
 J.D.O. Devlin,Canada,1985,Wing,2,2,0,0,0,0,,
 E.D. Kettleson,Canada,1985,NA,1,1,0,0,0,0,,
-Gord MacKinnon,Canada,1985,Flanker,28,13,15,0,18,4,Glasgow,USA
+Gord MacKinnon,Canada,1985,Flanker,28,13,15,0,18,4,Glasgow,Scotland
 Paul Vaesen,Canada,1985,Centre,5,4,1,0,8,2,,
 Glen Ennis,Canada,1986,No. 8,32,18,14,0,28,7,BC,Canada
 Rob Frame,Canada,1986,Flanker,6,3,3,0,8,2,,
@@ -12728,7 +12728,7 @@ Ian Gunn,USA,1982,Fullback,1,0,1,0,0,0,,
 Terry Whelan,USA,1982,Prop,5,2,3,0,0,0,,
 Fred Paoli,USA,1982,Prop,20,6,13,1,0,0,United States,USA
 Rick Crivellone,USA,1983,Lock,3,0,3,0,4,1,,
-Ray Nelson,USA,1983,Fullback,25,7,17,1,65,5,Glasgow,USA
+Ray Nelson,USA,1983,Fullback,25,7,17,1,65,5,Glasgow,Scotland
 Mark Ormsby,USA,1983,Wing,1,0,1,0,0,0,,
 Doug Straehley,USA,1983,Scrum-half,2,1,1,0,0,0,,
 Blane Warhurst,USA,1983,Flanker,9,4,4,1,8,2,,
@@ -12782,7 +12782,7 @@ Brian Corcoran,USA,1989,Wing,3,1,2,0,8,2,,
 Barry Daily,USA,1989,Scrum-half,12,5,7,0,16,4,Sanson,France
 Tom McCormack,USA,1989,Hooker,4,2,2,0,4,1,,
 Steve LaPorta,USA,1989,NA,2,1,1,0,0,0,,
-Norm Mottram,USA,1990,Prop,9,2,7,0,0,0,Glasgow,USA
+Norm Mottram,USA,1990,Prop,9,2,7,0,0,0,Glasgow,Scotland
 Mark Sawicki,USA,1990,Flanker,6,3,3,0,0,0,United States,USA
 Joe Burke,USA,1990,Centre,9,4,5,0,0,0,United States,USA
 Mike de Jong,USA,1990,Fly-half,9,3,6,0,18,0,Pretoria,SouthAfrica
