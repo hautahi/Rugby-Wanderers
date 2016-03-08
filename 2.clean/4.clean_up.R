@@ -79,15 +79,16 @@ for (i in 1:length(dic$Name)){
 #-------------------------------------------------------------#
 
 NZ_Herald <- read_csv("manual_adjustments/NZ_data.csv") %>% select(Number,Name,Place)
-NZ_Manual <- read_csv("manual_adjustments/NZ_data_manual.csv",col_names=F) %>%
-  mutate(Number=X2)
+NZ_Manual <- read_csv("manual_adjustments/NZ_data_manual.csv")
 
 NZ_index<-left_join(NZ_Manual, NZ_Herald, by = "Number") %>%
-  select(Name=X1,Place,Number) %>% mutate(Team="NewZealand",
+  select(Name=Name.x,Place,Number,Debut) %>% mutate(Team="NewZealand",
                                           country=sub('.*,\\s*', '',Place),
                                           cities=gsub("^(.*?),.*", "\\1",Place))
 
-d <- left_join(d, NZ_index, by = c("Name" = "Name", "Team" = "Team"))
+# I join using Team and Debut in order to not double up. For example,
+# 2 James Ryan's played for NZ and one for Ireland
+d <- left_join(d, NZ_index, by = c("Name" = "Name", "Team" = "Team","Debut"="Debut"))
 d$born[!is.na(d$Number)] <- d$country[!is.na(d$Number)]
 d$City[!is.na(d$Number)] <- d$cities[!is.na(d$Number)]
 

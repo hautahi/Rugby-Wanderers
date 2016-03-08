@@ -1,836 +1,832 @@
-Name,Team,Debut,Matches,Wins,Losses,Draws,Points,Tries,Birthplace,Birthcountry
-Opai Asher,NewZealand,1903,1,1,0,0,3,1,Tauranga,NewZealand
-Reuben Cooke,NewZealand,1903,1,1,0,0,0,0,Christchurch,NewZealand
-Jimmy Duncan,NewZealand,1903,1,1,0,0,0,0,Dunedin,NewZealand
-Bernard Fanning,NewZealand,1903,2,2,0,0,0,0,Christchurch,NewZealand
-David Gallaher,NewZealand,1903,6,5,1,0,0,0,Ramelton,Ireland
-Mickey Kiernan,NewZealand,1903,1,1,0,0,0,0,Wanganui,NewZealand
-Paddy Long,NewZealand,1903,1,1,0,0,0,0,Auckland,NewZealand
-Duncan McGregor,NewZealand,1903,4,3,1,0,18,6,Kaiapoi,NewZealand
-Dick McGregor,NewZealand,1903,2,2,0,0,3,1,Thames,NewZealand
-Archie McMinn,NewZealand,1903,2,2,0,0,6,2,Marton,NewZealand
-George Nicholson,NewZealand,1903,4,3,0,1,0,0,Auckland,NewZealand
-Bubs Tyler,NewZealand,1903,7,6,1,0,5,1,Auckland,NewZealand
-Daniel Udy,NewZealand,1903,1,1,0,0,0,0,Greytown,NewZealand
-Carbine Wallace,NewZealand,1903,11,8,1,2,53,5,Wellington,NewZealand
-Maurice Wood,NewZealand,1903,2,2,0,0,0,0,Waipawa,NewZealand
-Tom Cross,NewZealand,1904,2,2,0,0,3,1,Dunedin,NewZealand
-Billy Glenn,NewZealand,1904,2,2,0,0,0,0,Greymouth,NewZealand
-Eric Harper,NewZealand,1904,2,2,0,0,6,2,Christchurch,NewZealand
-Peter Harvey,NewZealand,1904,1,1,0,0,0,0,South Rakaia,NewZealand
-Paddy McMinn,NewZealand,1904,1,1,0,0,0,0,Turakina,NewZealand
-Bronco Seeling,NewZealand,1904,11,9,1,1,6,2,Wanganui,NewZealand
-Billy Stead,NewZealand,1904,7,7,0,0,0,0,Invercargill,NewZealand
-Rob Bennet,NewZealand,1905,1,1,0,0,0,0,Caversham,England
-Jerry Burgess,NewZealand,1905,1,1,0,0,0,0,Invercargill,NewZealand
-Ernie Dodd,NewZealand,1905,1,1,0,0,0,0,Wellington,NewZealand
-Bolla Francis,NewZealand,1905,10,7,1,2,16,3,Wanganui,NewZealand
-Colin Gilray,NewZealand,1905,5,3,2,0,3,1,Broughty Ferry,Scotland
-Donald Macpherson,NewZealand,1905,3,2,1,0,3,1,Waimate,NewZealand
-Charles Purdue,NewZealand,1905,1,1,0,0,0,0,Mataura,NewZealand
-Pat Purdue,NewZealand,1905,1,1,0,0,0,0,Dipton,NewZealand
-Bill Smith,NewZealand,1905,1,1,0,0,0,0,Wellington,NewZealand
-John Spencer,NewZealand,1905,2,2,0,0,0,0,Wellington,NewZealand
-Hubert Turtill,NewZealand,1905,1,1,0,0,0,0,London,England
-Eric Watkins,NewZealand,1905,1,1,0,0,0,0,Akaroa,NewZealand
-Edgar Wrigley,NewZealand,1905,1,1,0,0,3,1,Masterton,NewZealand
-Steve Casey,NewZealand,1905,8,6,1,1,0,0,Dunedin,NewZealand
-Bill Cunningham,NewZealand,1905,9,7,0,2,3,1,Rangiaohia,NewZealand
-Bob Deans,NewZealand,1905,5,4,1,0,9,3,Christchurch,NewZealand
-George Gillett,NewZealand,1905,8,6,1,1,7,1,Leeston,NewZealand
-Francis Glasgow,NewZealand,1905,6,5,1,0,9,3,Dunedin,NewZealand
-Jimmy Hunter,NewZealand,1905,11,8,1,2,12,4,Hawera,NewZealand
-Alex McDonald,NewZealand,1905,8,7,1,0,11,3,Dunedin,NewZealand
-Jimmy O'Sullivan,NewZealand,1905,5,3,1,1,0,0,Okaiawa,NewZealand
-Fred Roberts,NewZealand,1905,12,9,2,1,11,2,Wellington,NewZealand
-George Smith,NewZealand,1905,2,2,0,0,6,2,Auckland,NewZealand
-Simon Mynott,NewZealand,1905,8,6,1,1,0,0,Auckland,NewZealand
-Fred Newton,NewZealand,1905,3,2,1,0,3,1,Christchurch,NewZealand
-Bunny Abbott,NewZealand,1906,1,1,0,0,8,2,Camerontown,NewZealand
-Ernest Booth,NewZealand,1906,3,2,0,1,0,0,Teschmakers,NewZealand
-Bill Mackrell,NewZealand,1906,1,1,0,0,0,0,Milton,Australia
-Ginger Colman,NewZealand,1907,4,4,0,0,2,0,Hawera,NewZealand
-Frank Fryer,NewZealand,1907,4,2,0,2,0,0,Riccarton,NewZealand
-Ned Hughes,NewZealand,1907,6,4,1,1,3,1,Invercargill,NewZealand
-Massa Johnston,NewZealand,1907,3,2,0,1,0,0,Dunedin,NewZealand
-Frank Mitchinson,NewZealand,1907,11,8,1,2,32,10,Lawrence,NewZealand
-Don Cameron,NewZealand,1908,3,2,0,1,3,1,Waitara,NewZealand
-Mona Thomson,NewZealand,1908,1,1,0,0,3,1,Napier,NewZealand
-Ranji Wilson,NewZealand,1908,10,7,2,1,6,2,Christchurch,NewZealand
-Paddy Burns,NewZealand,1908,5,2,2,1,6,2,Lyttelton,NewZealand
-Doddy Gray,NewZealand,1908,3,2,0,1,9,3,Unknown,NewZealand
-Don Hamilton,NewZealand,1908,1,0,0,1,0,0,Invercargill,NewZealand
-Peter Murray,NewZealand,1908,1,0,0,1,0,0,Southern Grove,NewZealand
-Sandy Paterson,NewZealand,1908,5,3,1,1,3,1,Dunedin,NewZealand
-Bill Reedy,NewZealand,1908,2,1,0,1,0,0,Buller,USA
-Circus Hayward,NewZealand,1908,1,1,0,0,3,1,Blenheim,NewZealand
-Henry Avery,NewZealand,1910,3,2,1,0,0,0,Wellington,NewZealand
-William Fuller,NewZealand,1910,2,1,1,0,3,1,Christchurch,NewZealand
-Gerald McKellar,NewZealand,1910,3,2,1,0,0,0,Cromwell,NewZealand
-James Maguire,NewZealand,1910,3,2,1,0,0,0,Auckland,NewZealand
-Joe O'Leary,NewZealand,1910,4,3,1,0,16,0,Masterton,NewZealand
-Henry Paton,NewZealand,1910,2,2,0,0,3,1,Dunedin,NewZealand
-Jimmy Ridland,NewZealand,1910,3,2,1,0,0,0,Invercargill,NewZealand
-Jack Stohr,NewZealand,1910,3,2,1,0,6,2,New Plymouth,NewZealand
-Dave Evans,NewZealand,1910,1,0,1,0,0,0,Napier,NewZealand
-Billy Mitchell,NewZealand,1910,2,1,1,0,3,1,Melbourne,Australia
-James Ryan,NewZealand,1910,4,3,1,0,0,0,Masterton,NewZealand
-James Ryan,NewZealand,1910,4,3,1,0,0,0,Christchurch,NewZealand
-Harry Atkinson,NewZealand,1913,1,1,0,0,0,0,Greymouth,NewZealand
-Jock Cuthill,NewZealand,1913,2,2,0,0,0,0,Inverleithen,Scotland
-Norkey Dewar,NewZealand,1913,2,2,0,0,0,0,Wellington,NewZealand
-Doolan Downing,NewZealand,1913,5,5,0,0,0,0,Napier,NewZealand
-Tiger Lynch,NewZealand,1913,4,4,0,0,12,4,Milton,NewZealand
-Dougie McGregor,NewZealand,1913,2,2,0,0,3,1,Thames,NewZealand
-Jock McKenzie,NewZealand,1913,4,4,0,0,15,5,Lyttelton,NewZealand
-Toby Murray,NewZealand,1913,4,4,0,0,9,3,Christchurch,NewZealand
-Dick Roberts,NewZealand,1913,5,5,0,0,29,7,Manaia,NewZealand
-George Sellars,NewZealand,1913,2,2,0,0,0,0,Auckland,NewZealand
-Harry Taylor,NewZealand,1913,5,5,0,0,12,4,Christchurch,NewZealand
-Peter Williams,NewZealand,1913,1,1,0,0,0,0,Dunedin,NewZealand
-Jim Wylie,NewZealand,1913,2,2,0,0,3,1,Galatea,NewZealand
-James Baird,NewZealand,1913,1,1,0,0,0,0,Dunedin,NewZealand
-Buster Barrett,NewZealand,1913,2,1,1,0,0,0,Auckland,NewZealand
-Charles Brown,NewZealand,1913,2,1,1,0,3,1,New Plymouth,NewZealand
-William Cummings,NewZealand,1913,2,1,1,0,3,1,Timaru,NewZealand
-William Francis,NewZealand,1913,5,4,1,0,6,2,New Plymouth,NewZealand
-William Geddes,NewZealand,1913,1,1,0,0,0,0,Auckland,NewZealand
-Charles Gillespie,NewZealand,1913,1,1,0,0,0,0,Masterton,NewZealand
-Edward Hasell,NewZealand,1913,2,1,1,0,3,1,Christchurch,NewZealand
-John Macky,NewZealand,1913,1,1,0,0,0,0,Auckland,NewZealand
-Jim McNeece,NewZealand,1913,5,4,1,0,3,1,Invercargill,NewZealand
-Augustine Spillane,NewZealand,1913,2,1,1,0,0,0,Geraldine,NewZealand
-James Stewart,NewZealand,1913,2,1,1,0,0,0,Kaiapoi,NewZealand
-Reginald Taylor,NewZealand,1913,2,1,1,0,3,1,Hillsborough,NewZealand
-Eric Cockroft,NewZealand,1913,3,2,1,0,0,0,Clinton,NewZealand
-Alfred Fanning,NewZealand,1913,1,0,1,0,3,1,Christchurch,NewZealand
-James Tilyard,NewZealand,1913,1,0,1,0,0,0,Waratah,Australia
-Michael Cain,NewZealand,1913,4,4,0,0,0,0,Waitara,NewZealand
-James Graham,NewZealand,1913,3,3,0,0,10,0,Dunedin,NewZealand
-Robert Black,NewZealand,1914,1,1,0,0,0,0,Arrowtown,NewZealand
-John Bruce,NewZealand,1914,2,2,0,0,0,0,Wellington,NewZealand
-Sal Irvine,NewZealand,1914,3,3,0,0,0,0,Dunedin,NewZealand
-John O'Brien,NewZealand,1914,1,1,0,0,0,0,Wellington,NewZealand
-Teddy Roberts,NewZealand,1914,5,3,1,1,4,0,Wellington,NewZealand
-George Aitken,NewZealand,1921,10,8,2,0,0,0,Westport,NewZealand
-Cecil Badeley,NewZealand,1921,2,1,1,0,0,0,Auckland,NewZealand
-Moke Belliss,NewZealand,1921,3,1,1,1,3,1,Palmerston North,NewZealand
-Jim Donald,NewZealand,1921,2,1,1,0,0,0,Featherston,NewZealand
-Bill Duncan,NewZealand,1921,3,1,1,1,0,0,Port Chalmers,NewZealand
-Richard Fogarty,NewZealand,1921,2,1,0,1,0,0,Matakanui,NewZealand
-Nipper Kingstone,NewZealand,1921,3,1,1,1,0,0,Auckland,NewZealand
-Jim Moffitt,NewZealand,1921,3,1,1,1,0,0,Waikaia,NewZealand
-Ginger Nicholls,NewZealand,1921,1,1,0,0,0,0,Wellington,NewZealand
-Mark Nicholls,NewZealand,1921,10,8,1,1,48,0,Greytown,NewZealand
-Jock Richardson,NewZealand,1921,7,5,1,1,3,1,Dunedin,NewZealand
-John Steel,NewZealand,1921,6,4,1,1,9,3,Dillmanstown,NewZealand
-Percival Storey,NewZealand,1921,2,1,1,0,3,1,Temuka,NewZealand
-Son White,NewZealand,1921,4,4,0,0,3,1,Invercargill,NewZealand
-Andrew McLean,NewZealand,1921,2,0,1,1,3,1,Auckland,NewZealand
-Alfred West,NewZealand,1921,2,0,1,1,0,0,Inglewood,NewZealand
-Billy Fea,NewZealand,1921,1,0,0,1,0,0,Dunedin,NewZealand
-Charles Fletcher,NewZealand,1921,1,0,0,1,0,0,Rewiti,NewZealand
-Karl Ifwersen,NewZealand,1921,1,0,0,1,0,0,Auckland,NewZealand
-Stanley Siddells,NewZealand,1921,1,0,0,1,0,0,Wellington,NewZealand
-Maurice Brownlie,NewZealand,1924,8,6,2,0,6,2,Wanganui,NewZealand
-Bert Cooke,NewZealand,1924,8,7,1,0,12,4,Auckland,NewZealand
-Les Cupples,NewZealand,1924,2,2,0,0,0,0,Otautau,NewZealand
-Bill Dalley,NewZealand,1924,5,3,2,0,0,0,Lyttelton,NewZealand
-Quentin Donald,NewZealand,1924,4,4,0,0,0,0,Featherston,NewZealand
-Augustine Hart,NewZealand,1924,1,1,0,0,0,0,Auckland,NewZealand
-Bull Irvine,NewZealand,1924,5,4,1,0,9,3,Auckland,NewZealand
-Fred Lucas,NewZealand,1924,7,6,1,0,3,1,Auckland,NewZealand
-Read Masters,NewZealand,1924,4,4,0,0,0,0,Picton,NewZealand
-George Nepia,NewZealand,1924,9,7,2,0,5,0,Wairoa,NewZealand
-James Parker,NewZealand,1924,3,3,0,0,3,1,Lyttelton,NewZealand
-Snowy Svenson,NewZealand,1924,4,4,0,0,12,4,Toowoomba,Australia
-Cyril Brownlie,NewZealand,1924,3,3,0,0,0,0,Wanganui,NewZealand
-Neil McGregor,NewZealand,1924,2,2,0,0,0,0,Lowburn,NewZealand
-Jimmy Mill,NewZealand,1924,4,3,1,0,0,0,Tokomaru Bay,NewZealand
-Cliff Porter,NewZealand,1925,7,4,3,0,12,4,Edinburgh,Scotland
-Geoff Alley,NewZealand,1928,3,1,2,0,0,0,Amberly,NewZealand
-Syd Carleton,NewZealand,1928,6,1,5,0,0,0,Christchurch,NewZealand
-Bunny Finlayson,NewZealand,1928,6,3,3,0,0,0,Maungaturoto,NewZealand
-Bert Grenside,NewZealand,1928,6,2,4,0,9,3,Hastings,NewZealand
-Swin Hadley,NewZealand,1928,4,2,2,0,0,0,Wangaroa,NewZealand
-Bill Hazlett,NewZealand,1928,8,5,3,0,0,0,Invercargill,NewZealand
-Lance Johnson,NewZealand,1928,4,2,2,0,0,0,Lumsden,NewZealand
-David Lindsay,NewZealand,1928,3,1,2,0,3,0,Studholm,NewZealand
-Alan Robilliard,NewZealand,1928,4,2,2,0,0,0,Ashburton,NewZealand
-George Scrimshaw,NewZealand,1928,1,0,1,0,0,0,Islington,NewZealand
-Ron Stewart,NewZealand,1928,5,3,2,0,3,1,Waikaia,NewZealand
-Archie Strang,NewZealand,1928,5,4,1,0,13,1,Invercargill,NewZealand
-Tuna Swain,NewZealand,1928,4,2,2,0,3,1,Sydney,Australia
-Reuben McWilliams,NewZealand,1928,10,5,5,0,3,1,Paeroa,NewZealand
-Herb Lilburne,NewZealand,1928,10,3,6,1,4,0,Burnham,NewZealand
-Ian Harvey,NewZealand,1928,1,1,0,0,0,0,Masterton,NewZealand
-Beau Cottrell,NewZealand,1929,11,6,5,0,0,0,Westport,NewZealand
-Bert Geddes,NewZealand,1929,1,0,1,0,0,0,Invercargill,NewZealand
-Bill Heke,NewZealand,1929,3,0,3,0,0,0,Mangakahia,NewZealand
-Lew Hook,NewZealand,1929,3,0,3,0,0,0,Puni,NewZealand
-Charlie Oliver,NewZealand,1929,7,2,5,0,6,2,Wanganui,NewZealand
-Keith Reid,NewZealand,1929,2,0,2,0,0,0,Clareville,NewZealand
-Wattie Reside,NewZealand,1929,1,0,1,0,0,0,Masterton,NewZealand
-Fritz Snow,NewZealand,1929,3,0,3,0,0,0,Nelson,NewZealand
-Charlie Sonntag,NewZealand,1929,3,0,3,0,0,0,Dunedin,NewZealand
-Jack Tuck,NewZealand,1929,3,0,3,0,0,0,Tikokino,NewZealand
-Alfred Waterman,NewZealand,1929,2,0,2,0,0,0,Auckland,NewZealand
-Clinton Stringfellow,NewZealand,1929,2,0,2,0,3,1,Chertsey,NewZealand
-Alfred Kivell,NewZealand,1929,2,0,2,0,0,0,Thames,NewZealand
-Bert Palmer,NewZealand,1929,3,2,1,0,3,1,Mosstown,Ireland
-Rawi Cundy,NewZealand,1929,1,0,1,0,3,0,Featherston,NewZealand
-Tiny Leys,NewZealand,1929,1,0,1,0,0,0,Wellington,NewZealand
-Walter Batty,NewZealand,1930,4,3,1,0,3,1,Tonga,Tonga
-George Hart,NewZealand,1930,11,8,3,0,21,7,Christchurch,NewZealand
-Don Oliver,NewZealand,1930,2,1,1,0,3,1,Dunedin,NewZealand
-Dick Steere,NewZealand,1930,6,4,2,0,0,0,Raetihi,NewZealand
-Merv Corner,NewZealand,1930,6,4,2,0,0,0,Auckland,NewZealand
-John Hore,NewZealand,1930,10,6,3,1,9,3,Dunedin,NewZealand
-Hugh McLean,NewZealand,1930,9,5,4,0,9,3,Wanganui,NewZealand
-Kelly Ball,NewZealand,1931,5,3,2,0,12,4,Foxton,NewZealand
-Ron Bush,NewZealand,1931,1,1,0,0,14,0,Nelson,NewZealand
-Ted Jessep,NewZealand,1931,4,2,1,1,0,0,Sydney,Australia
-Don Max,NewZealand,1931,3,1,1,1,3,1,Nelson,NewZealand
-Tom Metcalfe,NewZealand,1931,2,1,1,0,0,0,Invercargill,NewZealand
-Rusty Page,NewZealand,1931,6,3,2,1,3,1,Dunedin,NewZealand
-George Purdue,NewZealand,1931,4,3,1,0,3,1,Invercargill,NewZealand
-Frank Solomon,NewZealand,1931,3,3,0,0,3,1,Pago Pago,Samoa
-George Bullock-Douglas,NewZealand,1932,5,2,2,1,9,3,Wanganui,NewZealand
-Pat Caughey,NewZealand,1932,9,4,4,1,9,3,Auckland,NewZealand
-Frank Kilby,NewZealand,1932,4,2,1,1,3,1,Invercargill,NewZealand
-Jack Manchester,NewZealand,1932,9,4,4,1,3,1,Waimate,NewZealand
-Bunk Pollock,NewZealand,1932,5,4,1,0,29,0,Petone,NewZealand
-Joe Procter,NewZealand,1932,1,0,1,0,0,0,Dunedin,NewZealand
-Ray Clarke,NewZealand,1932,2,2,0,0,0,0,Warea,NewZealand
-Arthur Collins,NewZealand,1932,3,2,1,0,9,0,Stratford,NewZealand
-Gordon Innes,NewZealand,1932,1,1,0,0,0,0,Dunedin,NewZealand
-Bill Hadley,NewZealand,1934,8,4,3,1,6,2,Auckland,NewZealand
-Bubs Knight,NewZealand,1934,1,0,1,0,3,1,Auckland,NewZealand
-Arthur Lambourn,NewZealand,1934,10,4,5,1,0,0,Maryborough,Australia
-Roderick McKenzie,NewZealand,1934,9,6,3,0,0,0,Rakaia,NewZealand
-Ned Barry,NewZealand,1934,1,0,0,1,0,0,Temuka,NewZealand
-Jack Griffiths,NewZealand,1934,7,5,1,1,0,0,Wellington,NewZealand
-Edward Holder,NewZealand,1934,1,0,0,1,0,0,Seddonville,NewZealand
-Ron King,NewZealand,1934,13,8,4,1,0,0,Waiuta,NewZealand
-Hawea Mataira,NewZealand,1934,1,0,0,1,0,0,Nuhaka,NewZealand
-Mike Gilbert,NewZealand,1935,4,2,2,0,20,0,Rothesay,Scotland
-Tonk Mahoney,NewZealand,1935,4,2,2,0,0,0,Woodville,NewZealand
-Brushy Mitchell,NewZealand,1935,8,5,3,0,12,4,Invercargill,NewZealand
-Tori Reid,NewZealand,1935,9,5,4,0,6,2,Tokomaru Bay,NewZealand
-Joey Sadler,NewZealand,1935,5,4,1,0,0,0,Wellington,NewZealand
-Doug Dalton,NewZealand,1935,9,6,3,0,0,0,Napier,NewZealand
-Snowy Tindill,NewZealand,1936,1,0,1,0,0,0,Nelson,NewZealand
-Everard Jackson,NewZealand,1936,6,4,2,0,0,0,Hastings,NewZealand
-Shorty Killeen,NewZealand,1936,1,1,0,0,0,0,Wellington,NewZealand
-John Rankin,NewZealand,1936,3,2,1,0,6,2,Christchurch,NewZealand
-Jim Watt,NewZealand,1936,2,2,0,0,6,2,Dunedin,NewZealand
-Jock Wells,NewZealand,1936,2,2,0,0,0,0,Onetea,NewZealand
-Colin Gillies,NewZealand,1936,1,1,0,0,0,0,Oamaru,NewZealand
-Ronald Ward,NewZealand,1936,3,2,1,0,0,0,Riverton,NewZealand
-Donald Cobden,NewZealand,1937,1,1,0,0,0,0,Christchurch,NewZealand
-John Dick,NewZealand,1937,3,2,1,0,3,1,Auckland,NewZealand
-John Hooper,NewZealand,1937,3,1,2,0,0,0,Christchurch,NewZealand
-Allan Parkhill,NewZealand,1937,6,4,2,0,3,1,Palmerston,NewZealand
-Harold Simon,NewZealand,1937,3,1,2,0,0,0,Kingston,NewZealand
-John Sullivan,NewZealand,1937,6,4,2,0,9,3,Tahora,NewZealand
-John Taylor,NewZealand,1937,6,4,2,0,24,0,Mataura,NewZealand
-David Trevathan,NewZealand,1937,3,1,2,0,16,0,Mosgiel,NewZealand
-Bill Phillips,NewZealand,1937,3,2,1,0,3,1,Raglan,NewZealand
-Trevor Berghan,NewZealand,1938,3,3,0,0,0,0,Houhora,NewZealand
-Snow Bowman,NewZealand,1938,3,3,0,0,6,2,Auckland,NewZealand
-Les George,NewZealand,1938,3,3,0,0,0,0,Invercargill,NewZealand
-Harold Milliken,NewZealand,1938,3,3,0,0,3,1,Christchurch,NewZealand
-Thomas Morrison,NewZealand,1938,3,3,0,0,4,0,Wellington,NewZealand
-Charlie Quaid,NewZealand,1938,2,2,0,0,0,0,Christchurch,NewZealand
-Charlie Saxton,NewZealand,1938,3,3,0,0,9,3,Kurow,NewZealand
-Fred Allen,NewZealand,1946,6,4,2,0,0,0,Oamaru,NewZealand
-Wally Argus,NewZealand,1946,4,4,0,0,12,4,Auckland,NewZealand
-Has Catley,NewZealand,1946,7,3,4,0,0,0,Hamilton,NewZealand
-John Dunn,NewZealand,1946,1,1,0,0,0,0,Auckland,NewZealand
-Ken Elliott,NewZealand,1946,2,2,0,0,3,1,Wellington,NewZealand
-Ron Elvidge,NewZealand,1946,9,4,4,1,12,4,Timaru,NewZealand
-Jack Finlay,NewZealand,1946,1,1,0,0,3,1,Normanby,NewZealand
-Harry Frazer,NewZealand,1946,5,4,1,0,3,1,Wanganui,NewZealand
-Jimmy Haig,NewZealand,1946,2,2,0,0,3,1,Prestonpans,Scotland
-Maurice McHugh,NewZealand,1946,3,2,1,0,0,0,Auckland,NewZealand
-Pat Rhind,NewZealand,1946,2,2,0,0,0,0,Lyttelton,NewZealand
-Bob Scott,NewZealand,1946,17,10,6,1,74,0,Wellington,NewZealand
-John Smith,NewZealand,1946,4,2,2,0,6,1,Kaikohe,NewZealand
-Roy White,NewZealand,1946,4,4,0,0,3,1,Dannevirke,NewZealand
-Charlie Willocks,NewZealand,1946,5,2,3,0,0,0,Balclutha,NewZealand
-John McRae,NewZealand,1946,2,2,0,0,0,0,Springhills,NewZealand
-Eric Boggs,NewZealand,1946,2,1,1,0,0,0,Whangarei,NewZealand
-Alf Budd,NewZealand,1946,2,1,1,0,0,0,Bluff,NewZealand
-Maurice Goddard,NewZealand,1946,5,3,2,0,3,1,Timaru,NewZealand
-Keith Arnold,NewZealand,1947,2,2,0,0,3,1,Feilding,NewZealand
-Ben Couch,NewZealand,1947,3,1,2,0,0,0,Christchurch,NewZealand
-Ray Dalton,NewZealand,1947,2,2,0,0,0,0,Te Awamutu,NewZealand
-Lachie Grant,NewZealand,1947,4,2,2,0,0,0,Temuka,NewZealand
-John McLean,NewZealand,1947,2,1,1,0,0,0,Thames,NewZealand
-Johnny Simpson,NewZealand,1947,9,4,4,1,0,0,Rotorua,NewZealand
-Percy Tetzlaff,NewZealand,1947,2,2,0,0,0,0,Taupiri,NewZealand
-Neville Thornton,NewZealand,1947,3,2,1,0,3,0,Otahuhu,NewZealand
-Jim Kearney,NewZealand,1947,4,1,3,0,9,1,Naseby,NewZealand
-Tim Mason,NewZealand,1947,1,1,0,0,3,1,Wellington,NewZealand
-Lester Harvey,NewZealand,1949,8,3,4,1,0,0,Dunedin,NewZealand
-Sammy Henderson,NewZealand,1949,7,3,4,0,6,2,Gisborne,NewZealand
-Jack McNab,NewZealand,1949,6,2,3,1,0,0,Owaka,NewZealand
-Laurence Savage,NewZealand,1949,3,0,3,0,0,0,Nelson,NewZealand
-Kevin Skinner,NewZealand,1949,20,12,7,1,3,1,Dunedin,NewZealand
-Peter Johnstone,NewZealand,1949,9,6,2,1,3,1,Mosgiel,NewZealand
-Bill Meates,NewZealand,1949,7,3,3,1,0,0,Greymouth,NewZealand
-Vince Bevan,NewZealand,1949,6,3,2,1,0,0,Wellington,NewZealand
-Kiwi Blake,NewZealand,1949,1,0,1,0,0,0,Carterton,NewZealand
-Ron Bryers,NewZealand,1949,1,0,1,0,0,0,Raetihi,NewZealand
-Ronald Dobson,NewZealand,1949,1,0,1,0,0,0,Auckland,NewZealand
-Arthur Hughes,NewZealand,1949,6,3,2,1,0,0,Invercargill,NewZealand
-Jack Kelly,NewZealand,1949,2,0,2,0,3,0,Ashburton,NewZealand
-Bert Lunn,NewZealand,1949,2,0,2,0,0,0,Alexandra,NewZealand
-Graham Moore,NewZealand,1949,1,0,1,0,3,1,Wellington,NewZealand
-Bill Mumm,NewZealand,1949,1,0,1,0,0,0,Mokihunui,NewZealand
-Rex Orr,NewZealand,1949,1,0,1,0,0,0,Gore,NewZealand
-Bob Stuart,NewZealand,1949,7,3,4,0,3,1,Dunedin,NewZealand
-Tiny White,NewZealand,1949,23,15,7,1,9,3,Gisborne,NewZealand
-Hector Wilson,NewZealand,1949,5,4,1,0,3,1,Beaumont,NewZealand
-Neville Black,NewZealand,1949,1,0,1,0,0,0,Kawakawa,NewZealand
-Pat Crowley,NewZealand,1949,6,3,2,1,3,1,Wanganui,NewZealand
-Des Christian,NewZealand,1949,1,0,1,0,0,0,Auckland,NewZealand
-Red Delamore,NewZealand,1949,1,0,1,0,0,0,Thames,NewZealand
-Jack Bond,NewZealand,1949,1,0,1,0,0,0,Carterton,NewZealand
-Ray O'Callaghan,NewZealand,1949,1,0,1,0,3,0,Wellington,NewZealand
-Des O'Donnell,NewZealand,1949,1,0,1,0,0,0,Palmerston North,NewZealand
-Roy Roper,NewZealand,1949,5,3,1,1,9,3,Owhango,NewZealand
-Harry Rowley,NewZealand,1949,1,0,1,0,0,0,Cromwell,NewZealand
-George Beatty,NewZealand,1950,1,0,0,1,0,0,New Plymouth,NewZealand
-Brownie Cherrington,NewZealand,1950,1,0,0,1,0,0,Otira,NewZealand
-Laurie Haig,NewZealand,1950,9,8,1,0,5,1,Prestonpans,Scotland
-Graham Mexted,NewZealand,1950,1,1,0,0,0,0,Greytown,NewZealand
-John Tanner,NewZealand,1950,5,4,1,0,3,1,Auckland,NewZealand
-Snow Cockerill,NewZealand,1951,3,3,0,0,11,0,Hawera,NewZealand
-Bob Duff,NewZealand,1951,11,8,3,0,0,0,Lyttelton,NewZealand
-Percy Erceg,NewZealand,1951,4,3,1,0,0,0,Waipapakauri,NewZealand
-Ron Jarden,NewZealand,1951,16,11,5,0,42,7,Lower Hutt,NewZealand
-Thomas Lynch,NewZealand,1951,3,3,0,0,9,2,Naseby,NewZealand
-Bill McCaw,NewZealand,1951,5,3,2,0,0,0,Gore,NewZealand
-Eddie Robinson,NewZealand,1951,5,4,1,0,3,1,Bluff,NewZealand
-Leo Steele,NewZealand,1951,3,3,0,0,0,0,Wellington,NewZealand
-Norman Wilson,NewZealand,1951,3,3,0,0,3,1,Masterton,NewZealand
-Raymond Bell,NewZealand,1951,3,2,1,0,6,1,Dunedin,NewZealand
-Peter Eastgate,NewZealand,1952,3,2,1,0,0,0,Nelson,NewZealand
-Allan Elsom,NewZealand,1952,6,3,3,0,3,0,Christchurch,NewZealand
-Jim Fitzgerald,NewZealand,1952,1,0,1,0,3,1,Petone,NewZealand
-John Hotop,NewZealand,1952,3,1,2,0,6,1,Alexandra,NewZealand
-Ian Irvine,NewZealand,1952,1,0,1,0,0,0,Carterton,NewZealand
-Hugh McLaren,NewZealand,1952,1,0,1,0,0,0,Auckland,NewZealand
-Kevin Meates,NewZealand,1952,2,1,1,0,0,0,Greymouth,NewZealand
-Ponty Reid,NewZealand,1952,5,4,1,0,0,0,Te Kuiti,NewZealand
-Noel Bowden,NewZealand,1952,1,1,0,0,3,0,Whangarei,NewZealand
-Mick Bremner,NewZealand,1952,2,1,1,0,0,0,Otorohanga,NewZealand
-Keith Davis,NewZealand,1952,10,7,3,0,0,0,Whakatane,NewZealand
-Ian Hammond,NewZealand,1952,1,1,0,0,0,0,Blenheim,NewZealand
-Jack Skeen,NewZealand,1952,1,1,0,0,0,0,Auckland,NewZealand
-Bill Clark,NewZealand,1953,9,7,2,0,9,3,Motueka,NewZealand
-Ian Clarke,NewZealand,1953,24,19,4,1,0,0,Kaponga,NewZealand
-Nelson Dalzell,NewZealand,1953,5,3,2,0,3,1,Rotherham,NewZealand
-Brian Fitzpatrick,NewZealand,1953,3,1,2,0,0,0,Opotiki,NewZealand
-Ron Hemi,NewZealand,1953,16,12,4,0,3,1,Whangarei,NewZealand
-Richard Bowers,NewZealand,1954,2,1,1,0,0,0,Rawhiti,NewZealand
-Morrie Dixon,NewZealand,1954,10,8,2,0,6,2,Christchurch,NewZealand
-Colin Loader,NewZealand,1954,4,3,1,0,0,0,Dannevirke,NewZealand
-Desmond Oliver,NewZealand,1954,2,1,1,0,0,0,Palmerston North,NewZealand
-Snow White,NewZealand,1954,4,2,2,0,0,0,Kawakawa,NewZealand
-Tiger Hilton-Jones,NewZealand,1954,11,9,2,0,6,2,Kaitaia,NewZealand
-Douglas Wilson,NewZealand,1954,2,2,0,0,0,0,Wanganui,NewZealand
-Robin Archer,NewZealand,1955,4,4,0,0,0,0,Gore,NewZealand
-Peter Burke,NewZealand,1955,3,3,0,0,0,0,Tauranga,NewZealand
-Mark Irwin,NewZealand,1955,7,4,3,0,0,0,Gisborne,NewZealand
-Ross Smith,NewZealand,1955,1,1,0,0,0,0,Ashburton,NewZealand
-Kevin Stuart,NewZealand,1955,1,1,0,0,0,0,Dunedin,NewZealand
-Lindsay Townsend,NewZealand,1955,2,1,1,0,0,0,Mataura,NewZealand
-Ivan Vodanovich,NewZealand,1955,3,2,1,0,3,1,Wanganui,NewZealand
-Pat Walsh,NewZealand,1955,13,10,3,0,12,4,Kaitaia,NewZealand
-Bill Gray,NewZealand,1955,6,4,2,0,0,0,Te Puke,NewZealand
-Tom Katene,NewZealand,1955,1,1,0,0,0,0,Okaiawa,NewZealand
-Ross Brown,NewZealand,1955,16,13,3,0,12,3,New Plymouth,NewZealand
-John Buxton,NewZealand,1955,2,1,1,0,0,0,Auckland,NewZealand
-Tiny Hill,NewZealand,1955,11,9,2,0,0,0,New Plymouth,NewZealand
-Donald McIntosh,NewZealand,1956,4,3,1,0,0,0,Lower Hutt,NewZealand
-Patrick Vincent,NewZealand,1956,2,1,1,0,0,0,Wataroa,NewZealand
-Francis McAtamney,NewZealand,1956,1,0,1,0,0,0,Middlemarch,NewZealand
-Ian MacEwan,NewZealand,1956,20,14,4,2,6,2,Auckland,NewZealand
-Denis Young,NewZealand,1956,22,15,4,3,0,0,Christchurch,NewZealand
-Don Clarke,NewZealand,1956,31,24,4,3,207,2,Pihama,NewZealand
-Terry Lineen,NewZealand,1957,12,8,3,1,0,0,Auckland,NewZealand
-Frank McMullen,NewZealand,1957,11,8,2,1,12,4,Auckland,NewZealand
-Colin Meads,NewZealand,1957,55,41,10,4,21,7,Cambridge,NewZealand
-Wilson Whineray,NewZealand,1957,32,24,5,3,6,2,Auckland,NewZealand
-Mick Cossey,NewZealand,1958,1,1,0,0,0,0,Papakura,NewZealand
-Tom Coughlan,NewZealand,1958,1,1,0,0,0,0,Temuka,NewZealand
-David Graham,NewZealand,1958,22,17,2,3,6,2,Stratford,NewZealand
-Lloyd Ashby,NewZealand,1958,1,0,1,0,0,0,Mataura,NewZealand
-Rex Pickering,NewZealand,1958,3,1,2,0,0,0,Te Kuiti,NewZealand
-Russell Watt,NewZealand,1958,9,5,3,1,3,1,Dunedin,NewZealand
-Adrian Clarke,NewZealand,1958,3,1,2,0,0,0,Christchurch,NewZealand
-William Gillespie,NewZealand,1958,1,1,0,0,0,0,Cromwell,NewZealand
-Brian Finlay,NewZealand,1959,1,1,0,0,0,0,Cromwell,NewZealand
-Bruce McPhail,NewZealand,1959,2,1,1,0,0,0,Ashburton,NewZealand
-Spider Urbahn,NewZealand,1959,3,2,1,0,3,1,Opunake,NewZealand
-Kevin Briscoe,NewZealand,1959,9,5,2,2,0,0,New Plymouth,NewZealand
-Ralph Caulton,NewZealand,1959,16,11,4,1,24,8,Wellington,NewZealand
-Dick Conway,NewZealand,1959,10,5,4,1,3,1,Whakatane,NewZealand
-Tuppy Diack,NewZealand,1959,1,1,0,0,0,0,Invercargill,NewZealand
-John McCullough,NewZealand,1959,3,2,1,0,0,0,Stratford,NewZealand
-Kel Tremain,NewZealand,1959,38,30,5,3,27,9,Auckland,NewZealand
-Des Webb,NewZealand,1959,1,1,0,0,0,0,Kawakawa,NewZealand
-Terry O'Sullivan,NewZealand,1960,4,3,1,0,3,1,New Plymouth,NewZealand
-Ronald Horsley,NewZealand,1960,3,1,1,1,0,0,Wellington,NewZealand
-Kevin Laidlaw,NewZealand,1960,3,1,1,1,0,0,Nightcaps,NewZealand
-Steve Nesbit,NewZealand,1960,2,1,0,1,0,0,Auckland,NewZealand
-Tony Davies,NewZealand,1960,3,2,1,0,0,0,Auckland,NewZealand
-Desmond Connor,NewZealand,1958,24,11,11,2,0,0,Ashgrove,Australia
-Donald McKay,NewZealand,1961,5,5,0,0,6,2,Auckland,NewZealand
-Stan Meads,NewZealand,1961,15,13,2,0,0,0,Arapuni,NewZealand
-Neil Wolfe,NewZealand,1961,6,5,0,1,0,0,New Plymouth,NewZealand
-Vic Yates,NewZealand,1961,3,3,0,0,3,1,Kaitaia,NewZealand
-Paul Little,NewZealand,1961,10,8,0,2,3,1,Auckland,NewZealand
-Rod Heeps,NewZealand,1962,5,4,0,1,3,1,Hamilton,NewZealand
-Waka Nathan,NewZealand,1962,14,13,0,1,12,4,Auckland,NewZealand
-Bruce Watt,NewZealand,1962,8,7,0,1,9,2,Marton,NewZealand
-Raymond Moreton,NewZealand,1962,7,4,2,1,9,2,Invercargill,NewZealand
-Peter Morrissey,NewZealand,1962,3,2,0,1,6,2,Christchurch,NewZealand
-John Creighton,NewZealand,1962,1,1,0,0,0,0,Rotherham,NewZealand
-Jules le Lievre,NewZealand,1962,1,1,0,0,0,0,Akaroa,NewZealand
-Keith Nelson,NewZealand,1962,2,2,0,0,0,0,Auckland,NewZealand
-Mac Herewini,NewZealand,1962,10,9,0,1,21,1,Mokai,NewZealand
-Barry Thomas,NewZealand,1962,4,3,1,0,0,0,Auckland,NewZealand
-Allan Stewart,NewZealand,1963,8,6,1,1,0,0,Timaru,NewZealand
-Ian Uttley,NewZealand,1963,2,2,0,0,0,0,Christchurch,NewZealand
-Derek Arnold,NewZealand,1963,4,4,0,0,0,0,Balclutha,NewZealand
-Malcolm Dick,NewZealand,1963,15,11,3,1,12,4,Auckland,NewZealand
-Ken Gray,NewZealand,1963,24,21,2,1,12,4,Porirua,NewZealand
-Brian Lochore,NewZealand,1964,25,19,5,1,6,2,Masterton,NewZealand
-Chris Laidlaw,NewZealand,1964,20,17,3,0,12,3,Dunedin,NewZealand
-Don Clark,NewZealand,1964,2,2,0,0,0,0,Cromwell,NewZealand
-John Collins,NewZealand,1964,3,3,0,0,0,0,Tokomaru Bay,NewZealand
-Bruce McLeod,NewZealand,1964,24,21,3,0,12,4,Auckland,NewZealand
-Spooky Smith,NewZealand,1964,9,8,1,0,6,2,Dunedin,NewZealand
-Mick Williment,NewZealand,1964,9,8,1,0,70,1,Wellington,NewZealand
-Peter Murdoch,NewZealand,1964,5,3,2,0,6,2,Auckland,NewZealand
-Ron Rangi,NewZealand,1964,10,8,2,0,9,3,Auckland,NewZealand
-Bill Birtwistle,NewZealand,1965,7,6,1,0,12,4,Auckland,NewZealand
-Fergie McCormick,NewZealand,1965,16,13,3,0,121,0,Ashburton,NewZealand
-Jack Hazlett,NewZealand,1966,6,6,0,0,0,0,Invercargill,NewZealand
-Ian MacRae,NewZealand,1966,17,14,3,0,9,3,Christchurch,NewZealand
-Anthony Steel,NewZealand,1966,9,9,0,0,21,7,Greymouth,NewZealand
-Bill Davis,NewZealand,1967,11,11,0,0,12,4,Hastings,NewZealand
-Sid Going,NewZealand,1967,29,17,10,2,44,10,Kawakawa,NewZealand
-John Major,NewZealand,1967,1,1,0,0,0,0,Whakatane,NewZealand
-Jazz Muller,NewZealand,1967,14,9,4,1,0,0,Eltham,NewZealand
-Sam Strahan,NewZealand,1967,17,14,3,0,0,0,Palmerston North,NewZealand
-Earle Kirton,NewZealand,1967,13,12,1,0,12,4,Taumarunui,NewZealand
-Graham Williams,NewZealand,1967,5,5,0,0,0,0,Wellington,NewZealand
-Ian Kirkpatrick,NewZealand,1967,39,25,11,3,57,16,Gisborne,NewZealand
-Alister Hopkinson,NewZealand,1967,9,7,2,0,0,0,Mosgiel,NewZealand
-Wayne Cottrell,NewZealand,1968,9,5,3,1,6,1,Christchurch,NewZealand
-Tom Lister,NewZealand,1968,8,5,2,1,6,2,Ashburton,NewZealand
-Grahame Thorne,NewZealand,1968,10,7,3,0,3,1,Auckland,NewZealand
-Anthony Kreft,NewZealand,1968,1,1,0,0,0,0,Milton,NewZealand
-Michael O'Callaghan,NewZealand,1968,3,3,0,0,0,0,Culverden,NewZealand
-Owen Stephens,NewZealand,1968,6,2,3,1,8,2,Paeroa,NewZealand
-Alan Smith,NewZealand,1969,3,2,1,0,0,0,Stratford,NewZealand
-George Skudder,NewZealand,1969,1,1,0,0,3,1,Te Puke,NewZealand
-Bryan Williams,NewZealand,1970,38,23,12,3,71,10,Auckland,NewZealand
-Alan Sutherland,NewZealand,1970,10,6,3,1,12,3,Blenheim,NewZealand
-Alex Wyllie,NewZealand,1970,11,5,4,2,8,2,Christchurch,NewZealand
-Buff Milner,NewZealand,1970,1,0,1,0,0,0,Tokomaru Bay,NewZealand
-Neil Thimbleby,NewZealand,1970,1,0,1,0,0,0,Lower Hutt,NewZealand
-Ron Urlich,NewZealand,1970,2,0,2,0,0,0,Auckland,NewZealand
-Blair Furlong,NewZealand,1970,1,0,1,0,0,0,Dannevirke,NewZealand
-Gerald Kember,NewZealand,1970,1,0,1,0,14,0,Wellington,NewZealand
-Keith Murdoch,NewZealand,1970,3,2,1,0,4,1,Dunedin,NewZealand
-Bob Burgess,NewZealand,1971,7,3,3,1,6,2,New Plymouth,NewZealand
-Ken Carrington,NewZealand,1971,3,0,2,1,0,0,Whakatane,NewZealand
-Richard Guy,NewZealand,1971,4,1,2,1,0,0,Lower Hutt,NewZealand
-Bruce Hunter,NewZealand,1971,3,1,2,0,0,0,Oamaru,NewZealand
-Alan McNaughton,NewZealand,1971,3,1,2,0,0,0,Christchurch,NewZealand
-Tane Norton,NewZealand,1971,27,16,8,3,0,0,Waikari,NewZealand
-Pole Whiting,NewZealand,1971,20,12,5,3,12,3,Auckland,NewZealand
-Howard Joseph,NewZealand,1971,2,1,1,0,0,0,Christchurch,NewZealand
-Laurie Mains,NewZealand,1971,4,2,1,1,21,1,Dunedin,NewZealand
-Mick Duncan,NewZealand,1971,2,0,1,1,0,0,Waipawa,NewZealand
-Phil Gard,NewZealand,1971,1,0,0,1,0,0,Kurow,NewZealand
-John Dougan,NewZealand,1972,2,1,1,0,4,1,Lower Hutt,NewZealand
-Duncan Hales,NewZealand,1972,4,4,0,0,0,0,Dannevirke,NewZealand
-Jeff Matheson,NewZealand,1972,5,5,0,0,0,0,Palmerston,NewZealand
-Trevor Morris,NewZealand,1972,3,3,0,0,33,0,Nelson,NewZealand
-Mike Parkinson,NewZealand,1972,7,6,1,0,0,0,Wairoa,NewZealand
-Bruce Robertson,NewZealand,1972,34,23,9,2,22,4,Hastings,NewZealand
-Alistair Scown,NewZealand,1972,5,5,0,0,4,1,Patea,NewZealand
-Graham Whiting,NewZealand,1972,6,4,1,1,0,0,Wanganui,NewZealand
-Lyn Jaffray,NewZealand,1972,7,4,3,0,4,1,Dunedin,NewZealand
-Graham Sims,NewZealand,1972,1,1,0,0,0,0,Featherston,NewZealand
-Grant Batty,NewZealand,1972,15,9,5,1,16,4,Greytown,NewZealand
-Joe Karam,NewZealand,1972,10,7,1,2,65,1,Taumarunui,NewZealand
-Hamish Macdonald,NewZealand,1972,12,7,4,1,4,1,Rawene,NewZealand
-Ian Stevens,NewZealand,1972,3,3,0,0,4,1,Waipawa,NewZealand
-Kent Lambert,NewZealand,1972,11,5,5,1,0,0,Wairoa,NewZealand
-Ian Hurst,NewZealand,1973,5,1,2,2,8,2,Oamaru,NewZealand
-Murray Jones,NewZealand,1973,1,0,1,0,0,0,Warkworth,NewZealand
-Robert Lendrum,NewZealand,1973,1,0,1,0,2,0,Waiuku,NewZealand
-Ken Stewart,NewZealand,1973,13,8,4,1,0,0,Gore,NewZealand
-Terry Morrison,NewZealand,1973,1,0,1,0,0,0,Hamilton,NewZealand
-Billy Bush,NewZealand,1974,12,8,3,1,0,0,Napier,NewZealand
-John Callesen,NewZealand,1974,4,3,0,1,0,0,Palmerston North,NewZealand
-Bruce Gemmell,NewZealand,1974,2,1,0,1,0,0,Auckland,NewZealand
-Andy Leslie,NewZealand,1974,10,6,3,1,4,1,Lower Hutt,NewZealand
-Duncan Robertson,NewZealand,1974,10,6,3,1,8,2,Dunedin,NewZealand
-Kerry Tanner,NewZealand,1974,7,5,1,1,0,0,Hamilton,NewZealand
-Jon McLachlan,NewZealand,1974,1,0,0,1,0,0,Auckland,NewZealand
-Ash Gardiner,NewZealand,1974,1,1,0,0,0,0,New Plymouth,NewZealand
-Joe Morgan,NewZealand,1974,5,3,2,0,4,1,Whangarei,NewZealand
-Bill Osborne,NewZealand,1975,16,13,3,0,0,0,Wanganui,NewZealand
-Lyn Davis,NewZealand,1976,3,3,0,0,0,0,Christchurch,NewZealand
-Neil Purvis,NewZealand,1976,1,1,0,0,0,0,Cromwell,NewZealand
-Doug Bruce,NewZealand,1976,14,10,4,0,15,0,Dunedin,NewZealand
-Kevin Everleigh,NewZealand,1976,4,2,2,0,0,0,Palmerston North,NewZealand
-Kit Fawcett,NewZealand,1976,2,1,1,0,0,0,Matamata,NewZealand
-Brad Johnstone,NewZealand,1976,13,10,3,0,8,2,Auckland,NewZealand
-Perry Harris,NewZealand,1976,1,0,1,0,0,0,Feilding,NewZealand
-Frank Oliver,NewZealand,1976,17,11,6,0,4,1,Dunedin,NewZealand
-Terry Mitchell,NewZealand,1976,1,0,1,0,0,0,Takaka,NewZealand
-Colin Farrell,NewZealand,1977,2,1,1,0,0,0,Auckland,NewZealand
-Andy Haden,NewZealand,1977,41,31,9,1,8,2,Wanganui,NewZealand
-Laurie Knight,NewZealand,1977,6,4,2,0,4,1,Auckland,NewZealand
-Mark Taylor,NewZealand,1977,9,5,4,0,4,1,Auckland,NewZealand
-Brian Ford,NewZealand,1977,4,4,0,0,0,0,Kaikoura,NewZealand
-John McEldowney,NewZealand,1977,2,2,0,0,0,0,New Plymouth,NewZealand
-Graham Mourie,NewZealand,1977,21,17,4,0,16,4,Opunake,NewZealand
-Bev Wilson,NewZealand,1977,8,5,3,0,55,0,Dunstan,NewZealand
-John Black,NewZealand,1977,3,0,3,0,0,0,Timaru,NewZealand
-Mark Donaldson,NewZealand,1977,13,9,4,0,4,1,Palmerston North,NewZealand
-Gary Knight,NewZealand,1977,36,27,9,0,4,1,Wellington,NewZealand
-Brian McKechnie,NewZealand,1977,10,7,3,0,46,0,Gore,NewZealand
-Gary Seear,NewZealand,1977,12,8,4,0,11,2,Dunedin,NewZealand
-Stu Wilson,NewZealand,1977,34,25,8,1,76,19,Gore,NewZealand
-Robbie Stuart,NewZealand,1977,1,0,1,0,0,0,Napier,NewZealand
-Andy Dalton,NewZealand,1977,35,30,5,0,12,3,Dunedin,NewZealand
-Barry Ashworth,NewZealand,1978,2,2,0,0,0,0,Waiuku,NewZealand
-John Ashworth,NewZealand,1978,24,18,6,0,4,1,Waikari,NewZealand
-Leicester Rutledge,NewZealand,1978,13,8,5,0,0,0,Christchurch,NewZealand
-Dick Myers,NewZealand,1978,1,0,1,0,0,0,Hamilton,NewZealand
-Clive Currie,NewZealand,1978,2,2,0,0,0,0,Wellington,NewZealand
-Dave Loveridge,NewZealand,1978,24,19,4,1,12,3,Stratford,NewZealand
-Murray Taylor,NewZealand,1979,7,4,3,0,3,0,Hamilton,NewZealand
-Murray Watts,NewZealand,1979,5,2,3,0,4,1,Patea,NewZealand
-Wayne Graham,NewZealand,1979,1,1,0,0,0,0,Tauranga,NewZealand
-Gary Cunningham,NewZealand,1979,5,3,2,0,0,0,Auckland,NewZealand
-Mike McCool,NewZealand,1979,1,0,1,0,0,0,Hastings,NewZealand
-Eddie Dunn,NewZealand,1979,2,2,0,0,4,1,Te Kopuru,NewZealand
-John Fleming,NewZealand,1979,5,3,2,0,4,1,Auckland,NewZealand
-Bernie Fraser,NewZealand,1979,23,17,5,1,24,6,Lautoka,Fiji
-Murray Mexted,NewZealand,1979,34,26,6,2,16,4,Wellington,NewZealand
-John Spiers,NewZealand,1979,5,5,0,0,0,0,Otahuhu,NewZealand
-Richard Wilson,NewZealand,1979,2,2,0,0,10,0,Leeston,NewZealand
-Peter Sloane,NewZealand,1979,1,1,0,0,0,0,Whangarei,NewZealand
-Brett Codlin,NewZealand,1980,3,1,2,0,23,0,Pukekohe,NewZealand
-Hika Reid,NewZealand,1980,9,4,3,2,8,2,Rotorua,NewZealand
-Mark Shaw,NewZealand,1980,30,21,7,2,24,6,Palmerston North,NewZealand
-Wayne Smith,NewZealand,1980,17,11,4,2,6,0,Putaruru,NewZealand
-Tim Twigden,NewZealand,1980,2,1,1,0,0,0,Taumarunui,NewZealand
-Nicky Allen,NewZealand,1980,2,1,1,0,4,1,Auckland,NewZealand
-Lachie Cameron,NewZealand,1980,5,3,2,0,0,0,Hamilton,NewZealand
-Geoffrey Hines,NewZealand,1980,1,0,1,0,0,0,Tokoroa,NewZealand
-Graeme Higginson,NewZealand,1980,6,5,1,0,0,0,Rangiora,NewZealand
-Rod Ketels,NewZealand,1980,5,5,0,0,0,0,Papakura,NewZealand
-Doug Rollerson,NewZealand,1980,8,7,1,0,24,1,Papakura,NewZealand
-Allan Hewson,NewZealand,1981,19,16,3,0,201,4,Lower Hutt,NewZealand
-Andy Jefferd,NewZealand,1981,3,3,0,0,0,0,Gisborne,NewZealand
-Haydn Rickit,NewZealand,1981,2,2,0,0,0,0,Taupo,NewZealand
-Freddy Woodman,NewZealand,1981,3,2,1,0,0,0,Kaikohe,NewZealand
-Greg Burgess,NewZealand,1981,1,0,1,0,0,0,Auckland,NewZealand
-Geoff Old,NewZealand,1981,3,3,0,0,0,0,Eltham,NewZealand
-Steve Pokere,NewZealand,1981,18,15,2,1,8,2,Hawera,NewZealand
-Frank Shelford,NewZealand,1981,4,4,0,0,0,0,Opotiki,NewZealand
-Gary Whetton,NewZealand,1981,58,50,6,2,4,1,Auckland,NewZealand
-Jamie Salmon,NewZealand,1981,15,7,8,0,8,2,Hong Kong,HongKong
-Arthur Stone,NewZealand,1981,9,6,3,0,7,1,Auckland,NewZealand
-Paul Koteka,NewZealand,1981,2,2,0,0,0,0,Tokoroa,NewZealand
-Ian Dunn,NewZealand,1983,3,3,0,0,0,0,Te Kopuru,NewZealand
-Jock Hobbs,NewZealand,1983,21,15,4,2,16,4,Christchurch,NewZealand
-Warwick Taylor,NewZealand,1983,24,21,1,2,20,5,Hamilton,NewZealand
-Albert Anderson,NewZealand,1983,6,3,2,1,0,0,Christchurch,NewZealand
-Gary Braid,NewZealand,1983,2,0,1,1,0,0,Tauranga,NewZealand
-Scott Crichton,NewZealand,1983,2,0,1,1,0,0,Wanganui,NewZealand
-Robbie Deans,NewZealand,1983,5,2,2,1,50,0,Cheviot,NewZealand
-Andy Donald,NewZealand,1983,7,4,2,1,0,0,Wanganui,NewZealand
-Brian McGrattan,NewZealand,1983,6,2,2,2,0,0,Wellington,NewZealand
-Craig Green,NewZealand,1983,20,14,4,2,44,11,Christchurch,NewZealand
-Murray Davie,NewZealand,1983,1,0,1,0,4,1,Christchurch,NewZealand
-John Kirwan,NewZealand,1984,63,48,12,3,143,35,Auckland,NewZealand
-Bruce Smith,NewZealand,1984,3,2,1,0,4,1,Wairoa,NewZealand
-Alan Whetton,NewZealand,1984,35,31,3,1,40,10,Auckland,NewZealand
-Mike Clamp,NewZealand,1984,2,2,0,0,4,1,Wellington,NewZealand
-Kieran Crowley,NewZealand,1985,19,14,4,1,105,5,Kaponga,NewZealand
-David Kirk,NewZealand,1985,17,14,3,0,24,6,Wellington,NewZealand
-Murray Pierce,NewZealand,1985,26,23,2,1,0,0,Timaru,NewZealand
-Grant Fox,NewZealand,1985,46,38,7,1,645,1,New Plymouth,NewZealand
-Steve McDowall,NewZealand,1985,46,38,6,2,12,3,Rotorua,NewZealand
-Vic Simpson,NewZealand,1985,2,1,0,1,0,0,Gisborne,NewZealand
-Kevin Boroevich,NewZealand,1986,3,1,2,0,0,0,Te Kuiti,NewZealand
-Frano Botica,NewZealand,1986,7,4,3,0,6,0,Mangakino,NewZealand
-Mike Brewer,NewZealand,1986,32,22,9,1,4,1,Pukekohe,NewZealand
-Mark Brooke-Cowden,NewZealand,1986,3,2,1,0,8,2,Auckland,NewZealand
-Greg Cooper,NewZealand,1986,7,5,2,0,63,2,Gisborne,NewZealand
-Andy Earl,NewZealand,1986,14,10,4,0,12,3,Christchurch,NewZealand
-Sean Fitzpatrick,NewZealand,1986,92,74,16,2,55,12,Auckland,NewZealand
-Brett Harvey,NewZealand,1986,1,1,0,0,0,0,Palmerston North,NewZealand
-Gordon Macpherson,NewZealand,1986,1,1,0,0,0,0,Gisborne,NewZealand
-Joe Stanley,NewZealand,1986,27,23,3,1,16,4,Auckland,NewZealand
-Terry Wright,NewZealand,1986,30,26,3,1,72,18,Auckland,NewZealand
-Brent Anderson,NewZealand,1986,1,0,1,0,0,0,Lower Hutt,NewZealand
-Michael Speight,NewZealand,1986,1,0,1,0,0,0,Auckland,NewZealand
-Marty Berry,NewZealand,1986,1,0,1,0,0,0,Wellington,NewZealand
-John Drake,NewZealand,1986,8,7,1,0,4,1,Auckland,NewZealand
-Buck Shelford,NewZealand,1986,22,20,1,1,20,5,Rotorua,NewZealand
-John Gallagher,NewZealand,1987,18,17,0,1,52,13,London,England
-Michael Jones,NewZealand,1986,56,43,11,2,56,13,Auckland,NewZealand
-Richard Loe,NewZealand,1987,49,37,10,2,25,6,Christchurch,NewZealand
-Zinzan Brooke,NewZealand,1987,58,45,11,2,89,17,Waiuku,NewZealand
-Bernie McCahill,NewZealand,1987,10,9,1,0,4,1,Auckland,NewZealand
-Bruce Deans,NewZealand,1988,10,9,0,1,24,6,Cheviot,NewZealand
-John Schuster,NewZealand,1988,13,10,1,2,21,1,Apia,Samoa
-Graeme Bachop,NewZealand,1989,39,28,10,1,18,4,Christchurch,NewZealand
-Craig Innes,NewZealand,1989,17,14,3,0,24,6,New Plymouth,NewZealand
-Ian Jones,NewZealand,1990,79,59,18,2,42,9,Whangarei,NewZealand
-Walter Little,NewZealand,1990,50,37,12,1,44,9,Tokoroa,NewZealand
-Kevin Schuler,NewZealand,1990,4,3,1,0,0,0,Te Aroha,NewZealand
-Paul Henderson,NewZealand,1991,7,6,1,0,9,2,Bluff,NewZealand
-John Timu,NewZealand,1991,26,16,9,1,31,7,Dannevirke,NewZealand
-Mark Carter,NewZealand,1991,7,5,2,0,0,0,Auckland,NewZealand
-Jon Preston,NewZealand,1991,10,9,1,0,34,1,Dunedin,NewZealand
-Graham Purvis,NewZealand,1991,2,2,0,0,4,1,Waihi,NewZealand
-Inga Tuigamala,NewZealand,1991,41,27,14,0,36,8,Falesiu,Samoa
-Jason Hewett,NewZealand,1991,1,1,0,0,4,1,Clyde,NewZealand
-Shayne Philpott,NewZealand,1991,2,2,0,0,0,0,Christchurch,NewZealand
-Frank Bunce,NewZealand,1991,59,44,13,2,100,21,Auckland,NewZealand
-Mark Cooksley,NewZealand,1992,11,5,6,0,0,0,Auckland,NewZealand
-Richard Turner,NewZealand,1992,2,1,1,0,4,1,Napier,NewZealand
-Arran Pene,NewZealand,1992,15,9,6,0,16,4,Hamilton,NewZealand
-Eroni Clarke,NewZealand,1992,10,6,4,0,25,6,Apia,Samoa
-Jamie Joseph,NewZealand,1992,29,21,8,0,15,3,Blenheim,NewZealand
-Blair Larsen,NewZealand,1992,17,12,4,1,4,1,Takapuna,NewZealand
-Ant Strachan,NewZealand,1992,11,8,3,0,8,2,Te Awamutu,NewZealand
-Graham Dowd,NewZealand,1992,1,1,0,0,0,0,Takapuna,NewZealand
-Robin Brooke,NewZealand,1992,62,47,13,2,20,4,Warkworth,NewZealand
-Olo Brown,NewZealand,1992,56,40,14,2,20,4,Apia,Samoa
-Matthew Cooper,NewZealand,1992,8,6,2,0,55,2,Gisborne,NewZealand
-Craig Dowd,NewZealand,1993,60,47,13,0,10,2,Auckland,NewZealand
-Lee Stensness,NewZealand,1993,8,8,0,0,15,3,Auckland,NewZealand
-Bull Allen,NewZealand,1993,8,7,0,1,5,1,Stratford,NewZealand
-Marc Ellis,NewZealand,1993,8,6,2,0,55,11,Wellington,NewZealand
-Stu Forster,NewZealand,1993,6,2,4,0,0,0,Pahiatua,NewZealand
-Steve Gordon,NewZealand,1993,2,1,1,0,0,0,Te Awamutu,NewZealand
-Jeff Wilson,NewZealand,1993,60,45,14,1,234,44,Invercargill,NewZealand
-Jonah Lomu,NewZealand,1994,63,44,17,2,185,37,Auckland,NewZealand
-Simon Mannix,NewZealand,1994,1,0,1,0,0,0,Lower Hutt,NewZealand
-Stephen Bachop,NewZealand,1991,23,12,10,1,64,4,Christchurch,NewZealand
-Shane Howarth,NewZealand,1994,23,14,8,1,77,5,Auckland,NewZealand
-Alama Ieremia,NewZealand,1992,35,27,7,1,25,5,Apia,Samoa
-Josh Kronfeld,NewZealand,1995,54,42,11,1,70,14,Hastings,NewZealand
-Andrew Mehrtens,NewZealand,1995,70,49,19,2,967,7,Durban,SouthAfrica
-Glen Osborne,NewZealand,1995,19,16,3,0,55,11,Wanganui,NewZealand
-Norm Hewitt,NewZealand,1995,9,8,0,1,0,0,Hastings,NewZealand
-Eric Rush,NewZealand,1995,9,8,1,0,25,5,Kaeo,NewZealand
-Simon Culhane,NewZealand,1995,6,5,1,0,114,1,Invercargill,NewZealand
-Liam Barry,NewZealand,1995,1,1,0,0,0,0,Takapuna,NewZealand
-Justin Marshall,NewZealand,1995,81,61,19,1,120,24,Gore,NewZealand
-Christian Cullen,NewZealand,1996,58,42,14,2,236,46,Paraparaumu,NewZealand
-Scott McLeod,NewZealand,1996,10,7,2,1,5,1,Brisbane,Australia
-Adrian Cashmore,NewZealand,1996,2,2,0,0,0,0,Tokoroa,NewZealand
-Andrew Blowers,NewZealand,1996,11,10,1,0,0,0,Auckland,NewZealand
-Glenn Taylor,NewZealand,1996,1,0,1,0,0,0,Whangarei,NewZealand
-Taine Randell,NewZealand,1997,51,35,14,2,60,12,Hastings,NewZealand
-Tana Umaga,NewZealand,1997,74,59,14,1,180,36,Lower Hutt,NewZealand
-Anton Oliver,NewZealand,1997,59,42,17,0,15,3,Invercargill,NewZealand
-Charles Riechelmann,NewZealand,1997,6,5,0,1,5,1,Nuku'alofa,Tonga
-Junior Tonu'u,NewZealand,1992,9,7,2,0,5,1,Wellington,NewZealand
-Carlos Spencer,NewZealand,1997,35,27,7,1,291,14,Levin,NewZealand
-Mark Mayerhofler,NewZealand,1998,6,2,4,0,10,2,Auckland,NewZealand
-Todd Blackadder,NewZealand,1998,12,9,3,0,5,1,Rangiora,NewZealand
-Mark Robinson,NewZealand,1998,3,3,0,0,5,1,Palmerston North,NewZealand
-Mark Robinson,NewZealand,1998,3,3,0,0,5,1,Stratford,NewZealand
-Caleb Ralph,NewZealand,1998,14,12,2,0,40,8,Rotorua,NewZealand
-Carl Hoeft,NewZealand,1998,30,20,10,0,0,0,Auckland,NewZealand
-Isitolo Maka,NewZealand,1998,4,1,3,0,5,1,Longoteme,Tonga
-Joeli Vidiri,NewZealand,1994,9,2,7,0,30,6,Nausori Highlands,Fiji
-Scott Robertson,NewZealand,1998,23,17,6,0,20,4,Tauranga,NewZealand
-Royce Willis,NewZealand,1998,12,7,5,0,0,0,Tokoroa,NewZealand
-Norm Berryman,NewZealand,1998,1,0,1,0,0,0,Wellington,NewZealand
-Kees Meeuws,NewZealand,1998,42,31,10,1,50,10,Auckland,NewZealand
-Xavier Rush,NewZealand,1998,8,5,3,0,0,0,Auckland,NewZealand
-Tony Brown,NewZealand,1999,18,15,3,0,171,5,Balclutha,NewZealand
-Daryl Gibson,NewZealand,1999,19,15,4,0,5,1,Lumsden,NewZealand
-Norm Maxwell,NewZealand,1999,36,28,8,0,25,5,Rawene,NewZealand
-Dylan Mika,NewZealand,1994,9,6,3,0,5,1,Auckland,NewZealand
-Greg Feek,NewZealand,1999,10,9,1,0,0,0,New Plymouth,NewZealand
-Byron Kelleher,NewZealand,1999,57,46,11,0,40,8,Dunedin,NewZealand
-Pita Alatini,NewZealand,1995,18,13,5,0,30,6,Nuku'alofa,Tonga
-Mark Hammett,NewZealand,1999,29,25,4,0,15,3,Christchurch,NewZealand
-Reuben Thorne,NewZealand,1999,50,42,8,0,25,5,Christchurch,NewZealand
-Rhys Duggan,NewZealand,1999,1,1,0,0,0,0,Rotorua,NewZealand
-Troy Flavell,NewZealand,2000,22,17,5,0,30,6,Otahuhu,NewZealand
-Greg Somerville,NewZealand,2000,66,55,11,0,5,1,Wairoa,NewZealand
-Doug Howlett,NewZealand,2000,62,51,10,1,245,49,Auckland,NewZealand
-Filo Tiatia,NewZealand,2000,2,2,0,0,10,2,Wellington,NewZealand
-Ron Cribb,NewZealand,2000,15,10,5,0,20,4,Wanganui,NewZealand
-Leon MacDonald,NewZealand,2000,56,48,8,0,141,14,Blenheim,NewZealand
-Mark Robinson,NewZealand,2000,9,7,1,1,5,1,Palmerston North,NewZealand
-Mark Robinson,NewZealand,2000,9,7,1,1,5,1,Stratford,NewZealand
-Gordon Slater,NewZealand,2000,3,2,1,0,5,1,New Plymouth,NewZealand
-Bruce Reihana,NewZealand,2000,2,1,1,0,10,2,Thames,NewZealand
-Jason O'Halloran,NewZealand,2000,1,1,0,0,0,0,Lower Hutt,NewZealand
-Marty Holah,NewZealand,2001,36,27,8,1,15,3,Hamilton,NewZealand
-Carl Hayman,NewZealand,2001,45,36,8,1,10,2,Opunake,NewZealand
-Mark Ranby,NewZealand,2001,1,1,0,0,0,0,Putaruru,NewZealand
-Jerry Collins,NewZealand,2001,48,42,6,0,25,5,Apia,Samoa
-Chris Jack,NewZealand,2001,67,57,10,0,25,5,Christchurch,NewZealand
-Richie McCaw,NewZealand,2001,148,131,15,2,135,27,Oamaru,NewZealand
-Aaron Mauger,NewZealand,2001,45,39,6,0,90,13,Christchurch,NewZealand
-Dave Hewett,NewZealand,2001,22,19,3,0,10,2,Christchurch,NewZealand
-Ben Blair,NewZealand,2001,4,3,1,0,4,0,Westport,NewZealand
-Dion Waller,NewZealand,2001,1,1,0,0,0,0,Turangi,NewZealand
-Joe McDonnell,NewZealand,2002,8,5,2,1,5,1,Hastings,NewZealand
-Simon Maling,NewZealand,2002,11,9,2,0,0,0,Christchurch,NewZealand
-Tom Willis,NewZealand,2002,5,4,1,0,0,0,Dunedin,NewZealand
-Sam Harding,NewZealand,2002,1,1,0,0,0,0,Perth,Australia
-Sam Broomhall,NewZealand,2002,4,2,1,1,0,0,Christchurch,NewZealand
-Steve Devine,NewZealand,2002,10,8,2,0,0,0,Boggabri,Australia
-Andrew Hore,NewZealand,2002,83,70,11,2,40,8,Dunedin,NewZealand
-Keith Lowen,NewZealand,2002,1,0,1,0,0,0,Huntly,NewZealand
-Keith Robinson,NewZealand,2002,12,9,2,1,0,0,Te Aroha,NewZealand
-Ali Williams,NewZealand,2002,77,65,11,1,35,7,Auckland,NewZealand
-Danny Lee,NewZealand,2002,2,0,1,1,5,1,Hastings,NewZealand
-Brad Mika,NewZealand,2002,3,1,1,1,0,0,Auckland,NewZealand
-Dan Braid,NewZealand,2002,6,5,1,0,5,1,Tauranga,NewZealand
-Regan King,NewZealand,2002,1,1,0,0,5,1,Cambridge,NewZealand
-Keven Mealamu,NewZealand,2002,132,114,16,2,60,12,Tokoroa,NewZealand
-Rodney So'oialo,NewZealand,2002,62,53,9,0,30,6,Moto'otua,Samoa
-Tony Woodcock,NewZealand,2002,118,102,15,1,50,10,Helensville,NewZealand
-Paul Steinmetz,NewZealand,2002,1,1,0,0,0,0,Paraparaumu,NewZealand
-Ma'a Nonu,NewZealand,2003,103,91,10,2,155,31,Wellington,NewZealand
-Joe Rokocoko,NewZealand,2003,68,55,13,0,230,46,Nadi,Fiji
-Mils Muliaina,NewZealand,2003,100,84,16,0,170,34,Salelesi,Samoa
-Dan Carter,NewZealand,2003,112,99,12,1,1598,29,Leeston,NewZealand
-Brad Thorn,NewZealand,2003,59,51,8,0,20,4,Mosgiel,NewZealand
-Corey Flynn,NewZealand,2003,15,15,0,0,15,3,Invercargill,NewZealand
-Ben Atiga,NewZealand,2003,1,1,0,0,0,0,Auckland,NewZealand
-Jono Gibbes,NewZealand,2004,8,6,2,0,0,0,Henderson,NewZealand
-Nick Evans,NewZealand,2004,16,15,1,0,103,5,North Shore,NewZealand
-Sam Tuitupou,NewZealand,2004,9,7,2,0,5,1,Auckland,NewZealand
-Craig Newby,NewZealand,2004,3,2,1,0,0,0,Rotorua,NewZealand
-Mose Tuiali'i,NewZealand,2004,9,7,2,0,5,1,Auckland,NewZealand
-Rico Gear,NewZealand,2004,19,16,3,0,55,11,Gisborne,NewZealand
-Conrad Smith,NewZealand,2004,94,84,9,1,130,26,Hawera,NewZealand
-Saimone Taumoepeau,NewZealand,2004,3,3,0,0,5,1,Ha'apai,Tonga
-Steven Bates,NewZealand,2004,1,1,0,0,0,0,Auckland,NewZealand
-Jimmy Cowan,NewZealand,2004,51,44,7,0,35,7,Gore,NewZealand
-Casey Laulala,NewZealand,2004,2,2,0,0,0,0,Moto'otua,Samoa
-Piri Weepu,NewZealand,2004,71,62,8,1,103,7,Lower Hutt,NewZealand
-James Ryan,NewZealand,2005,9,9,0,0,0,0,Masterton,NewZealand
-James Ryan,NewZealand,2005,9,9,0,0,0,0,Christchurch,NewZealand
-Sitiveni Sivivatu,NewZealand,2004,48,37,11,0,165,33,Suva,Fiji
-Derren Witcombe,NewZealand,2005,5,4,1,0,0,0,Hobart,Australia
-Sosene Anesi,NewZealand,2005,1,1,0,0,0,0,Apia,Samoa
-Campbell Johnstone,NewZealand,2005,3,3,0,0,0,0,Waipukurau,NewZealand
-Sione Lauaki,NewZealand,2004,20,15,5,0,30,6,Ha'apai,Tonga
-Luke McAlister,NewZealand,2005,30,24,6,0,153,7,Waitara,NewZealand
-Kevin Senio,NewZealand,2005,1,1,0,0,0,0,Auckland,NewZealand
-Chris Masoe,NewZealand,2005,20,18,2,0,15,3,Savai'i,Samoa
-Neemia Tialata,NewZealand,2005,43,38,5,0,10,2,Lower Hutt,NewZealand
-Angus Macdonald,NewZealand,2005,2,2,0,0,0,0,Whangarei,NewZealand
-John Afoa,NewZealand,2005,36,28,8,0,5,1,Auckland,NewZealand
-Jason Eaton,NewZealand,2005,15,13,2,0,5,1,Palmerston North,NewZealand
-Isaia Toeava,NewZealand,2005,36,30,6,0,40,8,Moto'otua,Samoa
-Clarke Dermody,NewZealand,2006,3,3,0,0,5,1,Invercargill,NewZealand
-Greg Rawlinson,NewZealand,2006,4,4,0,0,0,0,Durban,SouthAfrica
-Jerome Kaino,NewZealand,2006,67,57,9,1,55,11,Tutuila,Samoa
-David Hill,NewZealand,2006,1,1,0,0,0,0,Blenheim,NewZealand
-Scott Hamilton,NewZealand,2006,2,2,0,0,5,1,Christchurch,NewZealand
-Andy Ellis,NewZealand,2006,28,24,4,0,20,4,Christchurch,NewZealand
-Brendon Leonard,NewZealand,2007,13,11,2,0,10,2,Morrinsville,NewZealand
-Ross Filipo,NewZealand,2007,4,3,1,0,0,0,Wellington,NewZealand
-John Schwalger,NewZealand,2007,2,2,0,0,5,1,Apia,Samoa
-Anthony Tuitavake,NewZealand,2008,6,5,1,0,5,1,Auckland,NewZealand
-Adam Thomson,NewZealand,2008,29,24,5,0,30,6,Ashburton,NewZealand
-Anthony Boric,NewZealand,2008,24,23,1,0,10,2,Auckland,NewZealand
-Stephen Donald,NewZealand,2008,23,18,5,0,98,1,Papakura,NewZealand
-Richard Kahui,NewZealand,2008,17,15,2,0,50,10,Tokoroa,NewZealand
-Rudi Wulf,NewZealand,2008,4,3,1,0,0,0,Auckland,NewZealand
-Kevin O'Neill,NewZealand,2008,1,0,1,0,0,0,Te Aroha,NewZealand
-Hosea Gear,NewZealand,2008,14,12,1,1,30,6,Gisborne,NewZealand
-Cory Jane,NewZealand,2008,53,45,6,2,90,18,Wellington,NewZealand
-Jamie Mackintosh,NewZealand,2008,1,1,0,0,0,0,Invercargill,NewZealand
-Liam Messam,NewZealand,2008,43,38,4,1,30,6,Blenheim,NewZealand
-Kieran Read,NewZealand,2008,84,73,9,2,100,20,Papakura,NewZealand
-Isaac Ross,NewZealand,2009,8,4,4,0,10,2,Ashburton,NewZealand
-Bryn Evans,NewZealand,2009,2,1,1,0,0,0,Hastings,NewZealand
-Tanerau Latimer,NewZealand,2009,5,4,1,0,0,0,Te Puke,NewZealand
-Wyatt Crockett,NewZealand,2009,45,43,1,1,5,1,Christchurch,NewZealand
-Lelia Masaga,NewZealand,2009,1,1,0,0,0,0,Wellington,NewZealand
-Aled de Malmanche,NewZealand,2009,5,5,0,0,0,0,Palmerston North,NewZealand
-Owen Franks,NewZealand,2009,78,68,8,2,0,0,Motueka,NewZealand
-George Whitelock,NewZealand,2009,1,1,0,0,5,1,Palmerston North,NewZealand
-Tom Donnelly,NewZealand,2009,15,14,1,0,0,0,Rotorua,NewZealand
-Zac Guildford,NewZealand,2009,10,9,1,0,30,6,Masterton,NewZealand
-Mike Delany,NewZealand,2009,1,1,0,0,0,0,Rotorua,NewZealand
-Tamati Ellison,NewZealand,2009,4,4,0,0,0,0,Wellington,NewZealand
-Ben Smith,NewZealand,2009,48,43,3,2,95,19,Dunedin,NewZealand
-Israel Dagg,NewZealand,2010,49,45,3,1,75,14,Marton,NewZealand
-Ben Franks,NewZealand,2010,47,43,3,1,10,2,Melbourne,Australia
-Benson Stanley,NewZealand,2010,3,3,0,0,0,0,New South Wales,Australia
-Aaron Cruden,NewZealand,2010,37,34,1,2,280,5,Palmerston North,NewZealand
-Victor Vito,NewZealand,2010,33,29,3,1,20,4,Wellington,NewZealand
-Sam Whitelock,NewZealand,2010,73,65,6,2,20,4,Palmerston North,NewZealand
-Rene Ranger,NewZealand,2010,6,6,0,0,5,1,Whangarei,NewZealand
-Alby Mathewson,NewZealand,2010,4,3,1,0,0,0,Hastings,NewZealand
-Colin Slade,NewZealand,2010,21,19,2,0,78,3,Christchurch,NewZealand
-Sonny Bill Williams,NewZealand,2010,33,31,2,0,45,9,Auckland,NewZealand
-Hika Elliot,NewZealand,2010,4,4,0,0,0,0,Hastings,NewZealand
-Jarrad Hoeata,NewZealand,2011,3,2,1,0,0,0,Tauranga,NewZealand
-Brodie Retallick,NewZealand,2012,47,43,2,2,10,2,Rangiora,NewZealand
-Julian Savea,NewZealand,2012,41,37,3,1,190,38,Wellington,NewZealand
-Aaron Smith,NewZealand,2012,47,42,3,2,62,12,Palmerston North,NewZealand
-Sam Cane,NewZealand,2012,31,29,1,1,50,10,Rotorua,NewZealand
-Luke Romano,NewZealand,2012,22,19,2,1,5,1,Nelson,NewZealand
-Beauden Barrett,NewZealand,2012,36,33,2,1,145,9,New Plymouth,NewZealand
-Charlie Faumuina,NewZealand,2012,33,30,2,1,5,1,Auckland,NewZealand
-Dane Coles,NewZealand,2012,36,32,3,1,25,5,Paraparaumu,NewZealand
-Tawera Kerr-Barlow,NewZealand,2012,20,19,1,0,10,2,Australia,Australia
-Ben Afeaki,NewZealand,2013,1,1,0,0,0,0,Auckland,NewZealand
-Jeremy Thrush,NewZealand,2013,12,11,1,0,10,2,Wellington,NewZealand
-Steven Luatua,NewZealand,2013,14,13,1,0,5,1,Auckland,NewZealand
-Charles Piutau,NewZealand,2013,17,17,0,0,25,5,Auckland,NewZealand
-Matt Todd,NewZealand,2013,3,3,0,0,0,0,Christchurch,NewZealand
-Ryan Crotty,NewZealand,2013,15,13,1,1,5,1,Nelson,NewZealand
-Tom Taylor,NewZealand,2013,3,3,0,0,14,0,Christchurch,NewZealand
-Francis Saili,NewZealand,2013,2,2,0,0,0,0,Auckland,NewZealand
-Dominic Bird,NewZealand,2013,2,2,0,0,0,0,Waipukurau,NewZealand
-Frank Halai,NewZealand,2013,1,1,0,0,5,1,Tonga,Tonga
-Jeff Toomaga-Allen,NewZealand,2013,1,1,0,0,0,0,Wellington,NewZealand
-Luke Whitelock,NewZealand,2013,1,1,0,0,0,0,Palmerston North,NewZealand
-Malakai Fekitoa,NewZealand,2014,13,10,2,1,20,4,Ha'apai,Tonga
-TJ Perenara,NewZealand,2014,17,16,1,0,5,1,Porirua,NewZealand
-Patrick Tuipulotu,NewZealand,2014,7,7,0,0,5,1,Auckland,NewZealand
-Joe Moody,NewZealand,2014,11,9,1,1,5,1,Christchurch,NewZealand
-Nathan Harris,NewZealand,2014,2,2,0,0,5,1,Tauranga,NewZealand
-Augustine Pulu,NewZealand,2014,2,2,0,0,0,0,S Auckland,NewZealand
-James Parsons,NewZealand,2014,1,1,0,0,0,0,Auckland,NewZealand
-George Moala,NewZealand,2015,1,1,0,0,5,1,Auckland,NewZealand
-Nepo Laulala,NewZealand,2015,4,3,1,0,0,0,Fagaalu,USA
-Charlie Ngatai,NewZealand,2015,1,1,0,0,0,0,Gisborne,NewZealand
-Brad Weber,NewZealand,2015,1,1,0,0,0,0,Napier,NewZealand
-Waisake Naholo,NewZealand,2015,3,3,0,0,5,1,Sigatoka,Fiji
-Codie Taylor,NewZealand,2015,4,3,1,0,10,2,Levin,NewZealand
-James Broadhurst,NewZealand,2015,1,1,0,0,0,0,Kaitaia,NewZealand
-Lima Sopoaga,NewZealand,2015,1,1,0,0,12,0,Wellington,NewZealand
-Nehe Milner-Skudder,NewZealand,2015,8,7,1,0,40,8,Taihape,NewZealand
+Name,Team,Debut,Position,Matches,Wins,Losses,Draws,Points,Tries,Birthplace,Birthcountry
+Opai Asher,NewZealand,1903,Wing,1,1,0,0,3,1,Tauranga,NewZealand
+Reuben Cooke,NewZealand,1903,Lock,1,1,0,0,0,0,Christchurch,NewZealand
+Jimmy Duncan,NewZealand,1903,Fly-half,1,1,0,0,0,0,Dunedin,NewZealand
+Bernard Fanning,NewZealand,1903,Lock,2,2,0,0,0,0,Christchurch,NewZealand
+David Gallaher,NewZealand,1903,Wing-forward,6,5,1,0,0,0,Ramelton,Ireland
+Mickey Kiernan,NewZealand,1903,Scrum-half,1,1,0,0,0,0,Wanganui,NewZealand
+Paddy Long,NewZealand,1903,Lock,1,1,0,0,0,0,Auckland,NewZealand
+Duncan McGregor,NewZealand,1903,Wing,4,3,1,0,18,6,Kaiapoi,NewZealand
+Dick McGregor,NewZealand,1903,Fullback,2,2,0,0,3,1,Thames,NewZealand
+Archie McMinn,NewZealand,1903,Flanker,2,2,0,0,6,2,Marton,NewZealand
+George Nicholson,NewZealand,1903,Lock,4,3,0,1,0,0,Auckland,NewZealand
+Bubs Tyler,NewZealand,1903,Prop,7,6,1,0,5,1,Auckland,NewZealand
+Daniel Udy,NewZealand,1903,Prop,1,1,0,0,0,0,Greytown,NewZealand
+Carbine Wallace,NewZealand,1903,Wing,11,8,1,2,53,5,Wellington,NewZealand
+Maurice Wood,NewZealand,1903,Five-eighth,2,2,0,0,0,0,Waipawa,NewZealand
+Tom Cross,NewZealand,1904,Lock,2,2,0,0,3,1,Dunedin,NewZealand
+Billy Glenn,NewZealand,1904,Flanker,2,2,0,0,0,0,Greymouth,NewZealand
+Eric Harper,NewZealand,1904,Centre,2,2,0,0,6,2,Christchurch,NewZealand
+Peter Harvey,NewZealand,1904,Scrum-half,1,1,0,0,0,0,South Rakaia,NewZealand
+Paddy McMinn,NewZealand,1904,Prop,1,1,0,0,0,0,Turakina,NewZealand
+Bronco Seeling,NewZealand,1904,Flanker,11,9,1,1,6,2,Wanganui,NewZealand
+Billy Stead,NewZealand,1904,Fly-half,7,7,0,0,0,0,Invercargill,NewZealand
+Rob Bennet,NewZealand,1905,Centre,1,1,0,0,0,0,Dunedin,NewZealand
+Jerry Burgess,NewZealand,1905,Scrum-half,1,1,0,0,0,0,Invercargill,NewZealand
+Ernie Dodd,NewZealand,1905,Prop,1,1,0,0,0,0,Wellington,NewZealand
+Bolla Francis,NewZealand,1905,Lock,10,7,1,2,16,3,Wanganui,NewZealand
+Colin Gilray,NewZealand,1905,Wing,5,3,2,0,3,1,Broughty Ferry,Scotland
+Donald Macpherson,NewZealand,1905,Wing,3,2,1,0,3,1,Waimate,NewZealand
+Charles Purdue,NewZealand,1905,Flanker,1,1,0,0,0,0,Mataura,NewZealand
+Pat Purdue,NewZealand,1905,Lock,1,1,0,0,0,0,Dipton,NewZealand
+Bill Smith,NewZealand,1905,Fly-half,1,1,0,0,0,0,Wellington,NewZealand
+John Spencer,NewZealand,1905,Lock,2,2,0,0,0,0,Wellington,NewZealand
+Hubert Turtill,NewZealand,1905,Fullback,1,1,0,0,0,0,London,England
+Eric Watkins,NewZealand,1905,Prop,1,1,0,0,0,0,Akaroa,NewZealand
+Edgar Wrigley,NewZealand,1905,Five-eighth,1,1,0,0,3,1,Masterton,NewZealand
+Steve Casey,NewZealand,1905,Prop,8,6,1,1,0,0,Dunedin,NewZealand
+Bill Cunningham,NewZealand,1905,Lock,9,7,0,2,3,1,Rangiaohia,NewZealand
+Bob Deans,NewZealand,1905,Centre,5,4,1,0,9,3,Christchurch,NewZealand
+George Gillett,NewZealand,1905,Wing-forward,8,6,1,1,7,1,Leeston,NewZealand
+Francis Glasgow,NewZealand,1905,Lock,6,5,1,0,9,3,Dunedin,NewZealand
+Jimmy Hunter,NewZealand,1905,Five-eighth,11,8,1,2,12,4,Hawera,NewZealand
+Alex McDonald,NewZealand,1905,Flanker,8,7,1,0,11,3,Dunedin,NewZealand
+Jimmy O'Sullivan,NewZealand,1905,Lock,5,3,1,1,0,0,Okaiawa,NewZealand
+Fred Roberts,NewZealand,1905,Scrum-half,12,9,2,1,11,2,Wellington,NewZealand
+George Smith,NewZealand,1905,Wing,2,2,0,0,6,2,Auckland,NewZealand
+Simon Mynott,NewZealand,1905,Fly-half,8,6,1,1,0,0,Auckland,NewZealand
+Fred Newton,NewZealand,1905,Lock,3,2,1,0,3,1,Christchurch,NewZealand
+Bunny Abbott,NewZealand,1906,Wing,1,1,0,0,8,2,Camerontown,NewZealand
+Ernest Booth,NewZealand,1906,Fullback,3,2,0,1,0,0,Teschmakers,NewZealand
+Bill Mackrell,NewZealand,1906,Prop,1,1,0,0,0,0,Milton,Australia
+Ginger Colman,NewZealand,1907,Fullback,4,4,0,0,2,0,Hawera,NewZealand
+Frank Fryer,NewZealand,1907,Wing,4,2,0,2,0,0,Riccarton,NewZealand
+Ned Hughes,NewZealand,1907,Prop,6,4,1,1,3,1,Invercargill,NewZealand
+Massa Johnston,NewZealand,1907,Lock,3,2,0,1,0,0,Dunedin,NewZealand
+Frank Mitchinson,NewZealand,1907,Centre,11,8,1,2,32,10,Lawrence,NewZealand
+Don Cameron,NewZealand,1908,Wing,3,2,0,1,3,1,Waitara,NewZealand
+Mona Thomson,NewZealand,1908,Wing,1,1,0,0,3,1,Napier,NewZealand
+Ranji Wilson,NewZealand,1908,Flanker,10,7,2,1,6,2,Christchurch,NewZealand
+Paddy Burns,NewZealand,1908,Centre,5,2,2,1,6,2,Lyttelton,NewZealand
+Doddy Gray,NewZealand,1908,Fly-half,3,2,0,1,9,3,Unknown,NewZealand
+Don Hamilton,NewZealand,1908,Wing-forward,1,0,0,1,0,0,Invercargill,NewZealand
+Peter Murray,NewZealand,1908,Prop,1,0,0,1,0,0,Southern Grove,NewZealand
+Sandy Paterson,NewZealand,1908,Lock,5,3,1,1,3,1,Dunedin,NewZealand
+Bill Reedy,NewZealand,1908,Prop,2,1,0,1,0,0,Buller,NewZealand
+Circus Hayward,NewZealand,1908,Flanker,1,1,0,0,3,1,Blenheim,NewZealand
+Henry Avery,NewZealand,1910,Wing-forward,3,2,1,0,0,0,Wellington,NewZealand
+William Fuller,NewZealand,1910,Five-eighth,2,1,1,0,3,1,Christchurch,NewZealand
+Gerald McKellar,NewZealand,1910,Flanker,3,2,1,0,0,0,Cromwell,NewZealand
+James Maguire,NewZealand,1910,Prop,3,2,1,0,0,0,Auckland,NewZealand
+Joe O'Leary,NewZealand,1910,Fullback,4,3,1,0,16,0,Masterton,NewZealand
+Henry Paton,NewZealand,1910,Lock,2,2,0,0,3,1,Dunedin,NewZealand
+Jimmy Ridland,NewZealand,1910,Prop,3,2,1,0,0,0,Invercargill,NewZealand
+Jack Stohr,NewZealand,1910,Wing,3,2,1,0,6,2,New Plymouth,NewZealand
+Dave Evans,NewZealand,1910,Lock,1,0,1,0,0,0,Napier,NewZealand
+Billy Mitchell,NewZealand,1910,Wing,2,1,1,0,3,1,Melbourne,Australia
+James Ryan,NewZealand,1910,Five-eighth,4,3,1,0,0,0,Masterton,NewZealand
+Harry Atkinson,NewZealand,1913,Lock,1,1,0,0,0,0,Greymouth,NewZealand
+Jock Cuthill,NewZealand,1913,Fullback,2,2,0,0,0,0,Inverleithen,Scotland
+Norkey Dewar,NewZealand,1913,Flanker,2,2,0,0,0,0,Wellington,NewZealand
+Doolan Downing,NewZealand,1913,Lock,5,5,0,0,0,0,Napier,NewZealand
+Tiger Lynch,NewZealand,1913,Wing,4,4,0,0,12,4,Milton,NewZealand
+Dougie McGregor,NewZealand,1913,Wing,2,2,0,0,3,1,Thames,NewZealand
+Jock McKenzie,NewZealand,1913,Five-eighth,4,4,0,0,15,5,Lyttelton,NewZealand
+Toby Murray,NewZealand,1913,Wing-forward,4,4,0,0,9,3,Christchurch,NewZealand
+Dick Roberts,NewZealand,1913,Centre,5,5,0,0,29,7,Manaia,NewZealand
+George Sellars,NewZealand,1913,Prop,2,2,0,0,0,0,Auckland,NewZealand
+Harry Taylor,NewZealand,1913,Wing,5,5,0,0,12,4,Christchurch,NewZealand
+Peter Williams,NewZealand,1913,Prop,1,1,0,0,0,0,Dunedin,NewZealand
+Jim Wylie,NewZealand,1913,Lock,2,2,0,0,3,1,Galatea,NewZealand
+James Baird,NewZealand,1913,Centre,1,1,0,0,0,0,Dunedin,NewZealand
+Buster Barrett,NewZealand,1913,Flanker,2,1,1,0,0,0,Auckland,NewZealand
+Charles Brown,NewZealand,1913,Scrum-half,2,1,1,0,3,1,New Plymouth,NewZealand
+William Cummings,NewZealand,1913,Lock,2,1,1,0,3,1,Timaru,NewZealand
+William Francis,NewZealand,1913,Prop,5,4,1,0,6,2,New Plymouth,NewZealand
+William Geddes,NewZealand,1913,Fly-half,1,1,0,0,0,0,Auckland,NewZealand
+Charles Gillespie,NewZealand,1913,Lock,1,1,0,0,0,0,Masterton,NewZealand
+Edward Hasell,NewZealand,1913,Prop,2,1,1,0,3,1,Christchurch,NewZealand
+John Macky,NewZealand,1913,Wing,1,1,0,0,0,0,Auckland,NewZealand
+Jim McNeece,NewZealand,1913,Lock,5,4,1,0,3,1,Invercargill,NewZealand
+Augustine Spillane,NewZealand,1913,Five-eighth,2,1,1,0,0,0,Geraldine,NewZealand
+James Stewart,NewZealand,1913,Wing,2,1,1,0,0,0,Kaiapoi,NewZealand
+Reginald Taylor,NewZealand,1913,Wing-forward,2,1,1,0,3,1,Hillsborough,NewZealand
+Eric Cockroft,NewZealand,1913,Fullback,3,2,1,0,0,0,Clinton,NewZealand
+Alfred Fanning,NewZealand,1913,Lock,1,0,1,0,3,1,Christchurch,NewZealand
+James Tilyard,NewZealand,1913,Fly-half,1,0,1,0,0,0,Waratah,Australia
+Michael Cain,NewZealand,1913,Prop,4,4,0,0,0,0,Waitara,NewZealand
+James Graham,NewZealand,1913,Lock,3,3,0,0,10,0,Dunedin,NewZealand
+Robert Black,NewZealand,1914,Fly-half,1,1,0,0,0,0,Arrowtown,NewZealand
+John Bruce,NewZealand,1914,Flanker,2,2,0,0,0,0,Wellington,NewZealand
+Sal Irvine,NewZealand,1914,Lock,3,3,0,0,0,0,Dunedin,NewZealand
+John O'Brien,NewZealand,1914,Fullback,1,1,0,0,0,0,Wellington,NewZealand
+Teddy Roberts,NewZealand,1914,Scrum-half,5,3,1,1,4,0,Wellington,NewZealand
+George Aitken,NewZealand,1921,Centre,10,8,2,0,0,0,Westport,NewZealand
+Cecil Badeley,NewZealand,1921,Fly-half,2,1,1,0,0,0,Auckland,NewZealand
+Moke Belliss,NewZealand,1921,Flanker,3,1,1,1,3,1,Palmerston North,NewZealand
+Jim Donald,NewZealand,1921,Wing-forward,2,1,1,0,0,0,Featherston,NewZealand
+Bill Duncan,NewZealand,1921,Prop,3,1,1,1,0,0,Port Chalmers,NewZealand
+Richard Fogarty,NewZealand,1921,Prop,2,1,0,1,0,0,Matakanui,NewZealand
+Nipper Kingstone,NewZealand,1921,Fullback,3,1,1,1,0,0,Auckland,NewZealand
+Jim Moffitt,NewZealand,1921,Lock,3,1,1,1,0,0,Waikaia,NewZealand
+Ginger Nicholls,NewZealand,1921,Scrum-half,1,1,0,0,0,0,Wellington,NewZealand
+Mark Nicholls,NewZealand,1921,Five-eighth,10,8,1,1,48,0,Greytown,NewZealand
+Jock Richardson,NewZealand,1921,Lock,7,5,1,1,3,1,Dunedin,NewZealand
+John Steel,NewZealand,1921,Wing,6,4,1,1,9,3,Dillmanstown,NewZealand
+Percival Storey,NewZealand,1921,Wing,2,1,1,0,3,1,Temuka,NewZealand
+Son White,NewZealand,1921,Flanker,4,4,0,0,3,1,Invercargill,NewZealand
+Andrew McLean,NewZealand,1921,Lock,2,0,1,1,3,1,Auckland,NewZealand
+Alfred West,NewZealand,1921,Flanker,2,0,1,1,0,0,Inglewood,NewZealand
+Billy Fea,NewZealand,1921,Fly-half,1,0,0,1,0,0,Dunedin,NewZealand
+Charles Fletcher,NewZealand,1921,Flanker,1,0,0,1,0,0,Rewiti,NewZealand
+Karl Ifwersen,NewZealand,1921,Five-eighth,1,0,0,1,0,0,Auckland,NewZealand
+Stanley Siddells,NewZealand,1921,Wing,1,0,0,1,0,0,Wellington,NewZealand
+Maurice Brownlie,NewZealand,1924,Lock,8,6,2,0,6,2,Wanganui,NewZealand
+Bert Cooke,NewZealand,1924,Five-eighth,8,7,1,0,12,4,Auckland,NewZealand
+Les Cupples,NewZealand,1924,Flanker,2,2,0,0,0,0,Otautau,NewZealand
+Bill Dalley,NewZealand,1924,Scrum-half,5,3,2,0,0,0,Lyttelton,NewZealand
+Quentin Donald,NewZealand,1924,Prop,4,4,0,0,0,0,Featherston,NewZealand
+Augustine Hart,NewZealand,1924,Wing,1,1,0,0,0,0,Auckland,NewZealand
+Bull Irvine,NewZealand,1924,Prop,5,4,1,0,9,3,Auckland,NewZealand
+Fred Lucas,NewZealand,1924,Centre,7,6,1,0,3,1,Auckland,NewZealand
+Read Masters,NewZealand,1924,Lock,4,4,0,0,0,0,Picton,NewZealand
+George Nepia,NewZealand,1924,Fullback,9,7,2,0,5,0,Wairoa,NewZealand
+James Parker,NewZealand,1924,Wing-forward,3,3,0,0,3,1,Lyttelton,NewZealand
+Snowy Svenson,NewZealand,1924,Wing,4,4,0,0,12,4,Toowoomba,Australia
+Cyril Brownlie,NewZealand,1924,Lock,3,3,0,0,0,0,Wanganui,NewZealand
+Neil McGregor,NewZealand,1924,Fly-half,2,2,0,0,0,0,Lowburn,NewZealand
+Jimmy Mill,NewZealand,1924,Scrum-half,4,3,1,0,0,0,Tokomaru Bay,NewZealand
+Cliff Porter,NewZealand,1925,Wing-forward,7,4,3,0,12,4,Edinburgh,Scotland
+Geoff Alley,NewZealand,1928,Lock,3,1,2,0,0,0,Amberly,NewZealand
+Syd Carleton,NewZealand,1928,Centre,6,1,5,0,0,0,Christchurch,NewZealand
+Bunny Finlayson,NewZealand,1928,Lock,6,3,3,0,0,0,Maungaturoto,NewZealand
+Bert Grenside,NewZealand,1928,Wing,6,2,4,0,9,3,Hastings,NewZealand
+Swin Hadley,NewZealand,1928,Prop,4,2,2,0,0,0,Wangaroa,NewZealand
+Bill Hazlett,NewZealand,1928,Flanker,8,5,3,0,0,0,Invercargill,NewZealand
+Lance Johnson,NewZealand,1928,Fly-half,4,2,2,0,0,0,Lumsden,NewZealand
+David Lindsay,NewZealand,1928,Fullback,3,1,2,0,3,0,Studholm,NewZealand
+Alan Robilliard,NewZealand,1928,Wing,4,2,2,0,0,0,Ashburton,NewZealand
+George Scrimshaw,NewZealand,1928,Wing-forward,1,0,1,0,0,0,Islington,NewZealand
+Ron Stewart,NewZealand,1928,Wing-forward,5,3,2,0,3,1,Waikaia,NewZealand
+Archie Strang,NewZealand,1928,Fly-half,5,4,1,0,13,1,Invercargill,NewZealand
+Tuna Swain,NewZealand,1928,Prop,4,2,2,0,3,1,Sydney,Australia
+Reuben McWilliams,NewZealand,1928,Flanker,10,5,5,0,3,1,Paeroa,NewZealand
+Herb Lilburne,NewZealand,1928,Fly-half,10,3,6,1,4,0,Burnham,NewZealand
+Ian Harvey,NewZealand,1928,Lock,1,1,0,0,0,0,Masterton,NewZealand
+Beau Cottrell,NewZealand,1929,Prop,11,6,5,0,0,0,Westport,NewZealand
+Bert Geddes,NewZealand,1929,Wing,1,0,1,0,0,0,Invercargill,NewZealand
+Bill Heke,NewZealand,1929,Lock,3,0,3,0,0,0,Mangakahia,NewZealand
+Lew Hook,NewZealand,1929,Centre,3,0,3,0,0,0,Puni,NewZealand
+Charlie Oliver,NewZealand,1929,Five-eighth,7,2,5,0,6,2,Wanganui,NewZealand
+Keith Reid,NewZealand,1929,Prop,2,0,2,0,0,0,Clareville,NewZealand
+Wattie Reside,NewZealand,1929,Lock,1,0,1,0,0,0,Masterton,NewZealand
+Fritz Snow,NewZealand,1929,Flanker,3,0,3,0,0,0,Nelson,NewZealand
+Charlie Sonntag,NewZealand,1929,Lock,3,0,3,0,0,0,Dunedin,NewZealand
+Jack Tuck,NewZealand,1929,Scrum-half,3,0,3,0,0,0,Tikokino,NewZealand
+Alfred Waterman,NewZealand,1929,Wing,2,0,2,0,0,0,Auckland,NewZealand
+Clinton Stringfellow,NewZealand,1929,Centre,2,0,2,0,3,1,Chertsey,NewZealand
+Alfred Kivell,NewZealand,1929,Lock,2,0,2,0,0,0,Thames,NewZealand
+Bert Palmer,NewZealand,1929,Hooker,3,2,1,0,3,1,Mosstown,NewZealand
+Rawi Cundy,NewZealand,1929,Wing-forward,1,0,1,0,3,0,Featherston,NewZealand
+Tiny Leys,NewZealand,1929,Scrum-half,1,0,1,0,0,0,Wellington,NewZealand
+Walter Batty,NewZealand,1930,Flanker,4,3,1,0,3,1,Tonga,Tonga
+George Hart,NewZealand,1930,Wing,11,8,3,0,21,7,Christchurch,NewZealand
+Don Oliver,NewZealand,1930,Wing,2,1,1,0,3,1,Dunedin,NewZealand
+Dick Steere,NewZealand,1930,Lock,6,4,2,0,0,0,Raetihi,NewZealand
+Merv Corner,NewZealand,1930,Scrum-half,6,4,2,0,0,0,Auckland,NewZealand
+John Hore,NewZealand,1930,Prop,10,6,3,1,9,3,Dunedin,NewZealand
+Hugh McLean,NewZealand,1930,Flanker,9,5,4,0,9,3,Wanganui,NewZealand
+Kelly Ball,NewZealand,1931,Wing,5,3,2,0,12,4,Foxton,NewZealand
+Ron Bush,NewZealand,1931,Fullback,1,1,0,0,14,0,Nelson,NewZealand
+Ted Jessep,NewZealand,1931,Prop,4,2,1,1,0,0,Sydney,Australia
+Don Max,NewZealand,1931,Lock,3,1,1,1,3,1,Nelson,NewZealand
+Tom Metcalfe,NewZealand,1931,No. 8,2,1,1,0,0,0,Invercargill,NewZealand
+Rusty Page,NewZealand,1931,Fly-half,6,3,2,1,3,1,Dunedin,NewZealand
+George Purdue,NewZealand,1931,Lock,4,3,1,0,3,1,Invercargill,NewZealand
+Frank Solomon,NewZealand,1931,No. 8,3,3,0,0,3,1,Pago Pago,Samoa
+George Bullock-Douglas,NewZealand,1932,Wing,5,2,2,1,9,3,Wanganui,NewZealand
+Pat Caughey,NewZealand,1932,Centre,9,4,4,1,9,3,Auckland,NewZealand
+Frank Kilby,NewZealand,1932,Scrum-half,4,2,1,1,3,1,Invercargill,NewZealand
+Jack Manchester,NewZealand,1932,Flanker,9,4,4,1,3,1,Waimate,NewZealand
+Bunk Pollock,NewZealand,1932,Five-eighth,5,4,1,0,29,0,Petone,NewZealand
+Joe Procter,NewZealand,1932,Wing,1,0,1,0,0,0,Dunedin,NewZealand
+Ray Clarke,NewZealand,1932,Lock,2,2,0,0,0,0,Warea,NewZealand
+Arthur Collins,NewZealand,1932,Fullback,3,2,1,0,9,0,Stratford,NewZealand
+Gordon Innes,NewZealand,1932,Five-eighth,1,1,0,0,0,0,Dunedin,NewZealand
+Bill Hadley,NewZealand,1934,Hooker,8,4,3,1,6,2,Auckland,NewZealand
+Bubs Knight,NewZealand,1934,Lock,1,0,1,0,3,1,Auckland,NewZealand
+Arthur Lambourn,NewZealand,1934,Prop,10,4,5,1,0,0,Maryborough,Australia
+Roderick McKenzie,NewZealand,1934,Flanker,9,6,3,0,0,0,Rakaia,NewZealand
+Ned Barry,NewZealand,1934,Flanker,1,0,0,1,0,0,Temuka,NewZealand
+Jack Griffiths,NewZealand,1934,Fly-half,7,5,1,1,0,0,Wellington,NewZealand
+Edward Holder,NewZealand,1934,Wing,1,0,0,1,0,0,Seddonville,NewZealand
+Ron King,NewZealand,1934,Lock,13,8,4,1,0,0,Waiuta,NewZealand
+Hawea Mataira,NewZealand,1934,No. 8,1,0,0,1,0,0,Nuhaka,NewZealand
+Mike Gilbert,NewZealand,1935,Fullback,4,2,2,0,20,0,Rothesay,Scotland
+Tonk Mahoney,NewZealand,1935,No. 8,4,2,2,0,0,0,Woodville,NewZealand
+Brushy Mitchell,NewZealand,1935,Centre,8,5,3,0,12,4,Invercargill,NewZealand
+Tori Reid,NewZealand,1935,Lock,9,5,4,0,6,2,Tokomaru Bay,NewZealand
+Joey Sadler,NewZealand,1935,Scrum-half,5,4,1,0,0,0,Wellington,NewZealand
+Doug Dalton,NewZealand,1935,Prop,9,6,3,0,0,0,Napier,NewZealand
+Snowy Tindill,NewZealand,1936,"Fly-half, Scrum-half",1,0,1,0,0,0,Nelson,NewZealand
+Everard Jackson,NewZealand,1936,Prop,6,4,2,0,0,0,Hastings,NewZealand
+Shorty Killeen,NewZealand,1936,Five-eighth,1,1,0,0,0,0,Wellington,NewZealand
+John Rankin,NewZealand,1936,No. 8,3,2,1,0,6,2,Christchurch,NewZealand
+Jim Watt,NewZealand,1936,Wing,2,2,0,0,6,2,Dunedin,NewZealand
+Jock Wells,NewZealand,1936,Flanker,2,2,0,0,0,0,Onetea,NewZealand
+Colin Gillies,NewZealand,1936,Fly-half,1,1,0,0,0,0,Oamaru,NewZealand
+Ronald Ward,NewZealand,1936,Flanker,3,2,1,0,0,0,Riverton,NewZealand
+Donald Cobden,NewZealand,1937,Wing,1,1,0,0,0,0,Christchurch,NewZealand
+John Dick,NewZealand,1937,Wing,3,2,1,0,3,1,Auckland,NewZealand
+John Hooper,NewZealand,1937,Five-eighth,3,1,2,0,0,0,Christchurch,NewZealand
+Allan Parkhill,NewZealand,1937,No. 8,6,4,2,0,3,1,Palmerston,NewZealand
+Harold Simon,NewZealand,1937,Scrum-half,3,1,2,0,0,0,Kingston,NewZealand
+John Sullivan,NewZealand,1937,Centre,6,4,2,0,9,3,Tahora,NewZealand
+John Taylor,NewZealand,1937,Fullback,6,4,2,0,24,0,Mataura,NewZealand
+David Trevathan,NewZealand,1937,Fly-half,3,1,2,0,16,0,Mosgiel,NewZealand
+Bill Phillips,NewZealand,1937,Wing,3,2,1,0,3,1,Raglan,NewZealand
+Trevor Berghan,NewZealand,1938,Fly-half,3,3,0,0,0,0,Houhora,NewZealand
+Snow Bowman,NewZealand,1938,Flanker,3,3,0,0,6,2,Auckland,NewZealand
+Les George,NewZealand,1938,Prop,3,3,0,0,0,0,Invercargill,NewZealand
+Harold Milliken,NewZealand,1938,Lock,3,3,0,0,3,1,Christchurch,NewZealand
+Thomas Morrison,NewZealand,1938,Wing,3,3,0,0,4,0,Wellington,NewZealand
+Charlie Quaid,NewZealand,1938,Hooker,2,2,0,0,0,0,Christchurch,NewZealand
+Charlie Saxton,NewZealand,1938,Scrum-half,3,3,0,0,9,3,Kurow,NewZealand
+Fred Allen,NewZealand,1946,Five-eighth,6,4,2,0,0,0,Oamaru,NewZealand
+Wally Argus,NewZealand,1946,Wing,4,4,0,0,12,4,Auckland,NewZealand
+Has Catley,NewZealand,1946,Hooker,7,3,4,0,0,0,Hamilton,NewZealand
+John Dunn,NewZealand,1946,Wing,1,1,0,0,0,0,Auckland,NewZealand
+Ken Elliott,NewZealand,1946,No. 8,2,2,0,0,3,1,Wellington,NewZealand
+Ron Elvidge,NewZealand,1946,Five-eighth,9,4,4,1,12,4,Timaru,NewZealand
+Jack Finlay,NewZealand,1946,No. 8,1,1,0,0,3,1,Normanby,NewZealand
+Harry Frazer,NewZealand,1946,Lock,5,4,1,0,3,1,Wanganui,NewZealand
+Jimmy Haig,NewZealand,1946,Scrum-half,2,2,0,0,3,1,Prestonpans,Scotland
+Maurice McHugh,NewZealand,1946,Flanker,3,2,1,0,0,0,Auckland,NewZealand
+Pat Rhind,NewZealand,1946,Prop,2,2,0,0,0,0,Lyttelton,NewZealand
+Bob Scott,NewZealand,1946,Fullback,17,10,6,1,74,0,Wellington,NewZealand
+John Smith,NewZealand,1946,Centre,4,2,2,0,6,1,Kaikohe,NewZealand
+Roy White,NewZealand,1946,Flanker,4,4,0,0,3,1,Dannevirke,NewZealand
+Charlie Willocks,NewZealand,1946,Lock,5,2,3,0,0,0,Balclutha,NewZealand
+John McRae,NewZealand,1946,Hooker,2,2,0,0,0,0,Springhills,NewZealand
+Eric Boggs,NewZealand,1946,Wing,2,1,1,0,0,0,Whangarei,NewZealand
+Alf Budd,NewZealand,1946,Lock,2,1,1,0,0,0,Bluff,NewZealand
+Maurice Goddard,NewZealand,1946,Centre,5,3,2,0,3,1,Timaru,NewZealand
+Keith Arnold,NewZealand,1947,Flanker,2,2,0,0,3,1,Feilding,NewZealand
+Ben Couch,NewZealand,1947,Fly-half,3,1,2,0,0,0,Christchurch,NewZealand
+Ray Dalton,NewZealand,1947,Prop,2,2,0,0,0,0,Te Awamutu,NewZealand
+Lachie Grant,NewZealand,1947,Lock,4,2,2,0,0,0,Temuka,NewZealand
+John McLean,NewZealand,1947,Wing,2,1,1,0,0,0,Thames,NewZealand
+Johnny Simpson,NewZealand,1947,Prop,9,4,4,1,0,0,Rotorua,NewZealand
+Percy Tetzlaff,NewZealand,1947,Scrum-half,2,2,0,0,0,0,Taupiri,NewZealand
+Neville Thornton,NewZealand,1947,No. 8,3,2,1,0,3,0,Otahuhu,NewZealand
+Jim Kearney,NewZealand,1947,Fly-half,4,1,3,0,9,1,Naseby,NewZealand
+Tim Mason,NewZealand,1947,Wing,1,1,0,0,3,1,Wellington,NewZealand
+Lester Harvey,NewZealand,1949,Lock,8,3,4,1,0,0,Dunedin,NewZealand
+Sammy Henderson,NewZealand,1949,Wing,7,3,4,0,6,2,Gisborne,NewZealand
+Jack McNab,NewZealand,1949,Flanker,6,2,3,1,0,0,Owaka,NewZealand
+Laurence Savage,NewZealand,1949,Scrum-half,3,0,3,0,0,0,Nelson,NewZealand
+Kevin Skinner,NewZealand,1949,Prop,20,12,7,1,3,1,Dunedin,NewZealand
+Peter Johnstone,NewZealand,1949,No. 8,9,6,2,1,3,1,Mosgiel,NewZealand
+Bill Meates,NewZealand,1949,Wing,7,3,3,1,0,0,Greymouth,NewZealand
+Vince Bevan,NewZealand,1949,Scrum-half,6,3,2,1,0,0,Wellington,NewZealand
+Kiwi Blake,NewZealand,1949,Flanker,1,0,1,0,0,0,Carterton,NewZealand
+Ron Bryers,NewZealand,1949,Lock,1,0,1,0,0,0,Raetihi,NewZealand
+Ronald Dobson,NewZealand,1949,Five-eighth,1,0,1,0,0,0,Auckland,NewZealand
+Arthur Hughes,NewZealand,1949,Hooker,6,3,2,1,0,0,Invercargill,NewZealand
+Jack Kelly,NewZealand,1949,Fullback,2,0,2,0,3,0,Ashburton,NewZealand
+Bert Lunn,NewZealand,1949,Flanker,2,0,2,0,0,0,Alexandra,NewZealand
+Graham Moore,NewZealand,1949,Wing,1,0,1,0,3,1,Wellington,NewZealand
+Bill Mumm,NewZealand,1949,Prop,1,0,1,0,0,0,Mokihunui,NewZealand
+Rex Orr,NewZealand,1949,Fullback,1,0,1,0,0,0,Gore,NewZealand
+Bob Stuart,NewZealand,1949,No. 8,7,3,4,0,3,1,Dunedin,NewZealand
+Tiny White,NewZealand,1949,Lock,23,15,7,1,9,3,Gisborne,NewZealand
+Hector Wilson,NewZealand,1949,Prop,5,4,1,0,3,1,Beaumont,NewZealand
+Neville Black,NewZealand,1949,Scrum-half,1,0,1,0,0,0,Kawakawa,NewZealand
+Pat Crowley,NewZealand,1949,Flanker,6,3,2,1,3,1,Wanganui,NewZealand
+Des Christian,NewZealand,1949,No. 8,1,0,1,0,0,0,Auckland,NewZealand
+Red Delamore,NewZealand,1949,Fly-half,1,0,1,0,0,0,Thames,NewZealand
+Jack Bond,NewZealand,1949,Prop,1,0,1,0,0,0,Carterton,NewZealand
+Ray O'Callaghan,NewZealand,1949,Five-eighth,1,0,1,0,3,0,Wellington,NewZealand
+Des O'Donnell,NewZealand,1949,Prop,1,0,1,0,0,0,Palmerston North,NewZealand
+Roy Roper,NewZealand,1949,Centre,5,3,1,1,9,3,Owhango,NewZealand
+Harry Rowley,NewZealand,1949,No. 8,1,0,1,0,0,0,Cromwell,NewZealand
+George Beatty,NewZealand,1950,Fly-half,1,0,0,1,0,0,New Plymouth,NewZealand
+Brownie Cherrington,NewZealand,1950,Wing,1,0,0,1,0,0,Otira,NewZealand
+Laurie Haig,NewZealand,1950,Fly-half,9,8,1,0,5,1,Prestonpans,Scotland
+Graham Mexted,NewZealand,1950,No. 8,1,1,0,0,0,0,Greytown,NewZealand
+John Tanner,NewZealand,1950,Centre,5,4,1,0,3,1,Auckland,NewZealand
+Snow Cockerill,NewZealand,1951,Fullback,3,3,0,0,11,0,Hawera,NewZealand
+Bob Duff,NewZealand,1951,Lock,11,8,3,0,0,0,Lyttelton,NewZealand
+Percy Erceg,NewZealand,1951,Wing,4,3,1,0,0,0,Waipapakauri,NewZealand
+Ron Jarden,NewZealand,1951,Wing,16,11,5,0,42,7,Lower Hutt,NewZealand
+Thomas Lynch,NewZealand,1951,Five-eighth,3,3,0,0,9,2,Naseby,NewZealand
+Bill McCaw,NewZealand,1951,No. 8,5,3,2,0,0,0,Gore,NewZealand
+Eddie Robinson,NewZealand,1951,Flanker,5,4,1,0,3,1,Bluff,NewZealand
+Leo Steele,NewZealand,1951,Scrum-half,3,3,0,0,0,0,Wellington,NewZealand
+Norman Wilson,NewZealand,1951,Hooker,3,3,0,0,3,1,Masterton,NewZealand
+Raymond Bell,NewZealand,1951,Wing,3,2,1,0,6,1,Dunedin,NewZealand
+Peter Eastgate,NewZealand,1952,Prop,3,2,1,0,0,0,Nelson,NewZealand
+Allan Elsom,NewZealand,1952,Centre,6,3,3,0,3,0,Christchurch,NewZealand
+Jim Fitzgerald,NewZealand,1952,Five-eighth,1,0,1,0,3,1,Petone,NewZealand
+John Hotop,NewZealand,1952,Fly-half,3,1,2,0,6,1,Alexandra,NewZealand
+Ian Irvine,NewZealand,1952,Hooker,1,0,1,0,0,0,Carterton,NewZealand
+Hugh McLaren,NewZealand,1952,No. 8,1,0,1,0,0,0,Auckland,NewZealand
+Kevin Meates,NewZealand,1952,No. 8,2,1,1,0,0,0,Greymouth,NewZealand
+Ponty Reid,NewZealand,1952,Scrum-half,5,4,1,0,0,0,Te Kuiti,NewZealand
+Noel Bowden,NewZealand,1952,Fullback,1,1,0,0,3,0,Whangarei,NewZealand
+Mick Bremner,NewZealand,1952,Five-eighth,2,1,1,0,0,0,Otorohanga,NewZealand
+Keith Davis,NewZealand,1952,Scrum-half,10,7,3,0,0,0,Whakatane,NewZealand
+Ian Hammond,NewZealand,1952,Hooker,1,1,0,0,0,0,Blenheim,NewZealand
+Jack Skeen,NewZealand,1952,Flanker,1,1,0,0,0,0,Auckland,NewZealand
+Bill Clark,NewZealand,1953,Flanker,9,7,2,0,9,3,Motueka,NewZealand
+Ian Clarke,NewZealand,1953,Prop,24,19,4,1,0,0,Kaponga,NewZealand
+Nelson Dalzell,NewZealand,1953,Lock,5,3,2,0,3,1,Rotherham,NewZealand
+Brian Fitzpatrick,NewZealand,1953,Five-eighth,3,1,2,0,0,0,Opotiki,NewZealand
+Ron Hemi,NewZealand,1953,Hooker,16,12,4,0,3,1,Whangarei,NewZealand
+Richard Bowers,NewZealand,1954,Fly-half,2,1,1,0,0,0,Rawhiti,NewZealand
+Morrie Dixon,NewZealand,1954,Wing,10,8,2,0,6,2,Christchurch,NewZealand
+Colin Loader,NewZealand,1954,Centre,4,3,1,0,0,0,Dannevirke,NewZealand
+Desmond Oliver,NewZealand,1954,Flanker,2,1,1,0,0,0,Palmerston North,NewZealand
+Snow White,NewZealand,1954,Prop,4,2,2,0,0,0,Kawakawa,NewZealand
+Tiger Hilton-Jones,NewZealand,1954,Flanker,11,9,2,0,6,2,Kaitaia,NewZealand
+Douglas Wilson,NewZealand,1954,Five-eighth,2,2,0,0,0,0,Wanganui,NewZealand
+Robin Archer,NewZealand,1955,Fly-half,4,4,0,0,0,0,Gore,NewZealand
+Peter Burke,NewZealand,1955,No. 8,3,3,0,0,0,0,Tauranga,NewZealand
+Mark Irwin,NewZealand,1955,Prop,7,4,3,0,0,0,Gisborne,NewZealand
+Ross Smith,NewZealand,1955,Wing,1,1,0,0,0,0,Ashburton,NewZealand
+Kevin Stuart,NewZealand,1955,Fullback,1,1,0,0,0,0,Dunedin,NewZealand
+Lindsay Townsend,NewZealand,1955,Scrum-half,2,1,1,0,0,0,Mataura,NewZealand
+Ivan Vodanovich,NewZealand,1955,Prop,3,2,1,0,3,1,Wanganui,NewZealand
+Pat Walsh,NewZealand,1955,Fullback,13,10,3,0,12,4,Kaitaia,NewZealand
+Bill Gray,NewZealand,1955,Five-eighth,6,4,2,0,0,0,Te Puke,NewZealand
+Tom Katene,NewZealand,1955,Wing,1,1,0,0,0,0,Okaiawa,NewZealand
+Ross Brown,NewZealand,1955,Fly-half,16,13,3,0,12,3,New Plymouth,NewZealand
+John Buxton,NewZealand,1955,Flanker,2,1,1,0,0,0,Auckland,NewZealand
+Tiny Hill,NewZealand,1955,Lock,11,9,2,0,0,0,New Plymouth,NewZealand
+Donald McIntosh,NewZealand,1956,Flanker,4,3,1,0,0,0,Lower Hutt,NewZealand
+Patrick Vincent,NewZealand,1956,Scrum-half,2,1,1,0,0,0,Wataroa,NewZealand
+Francis McAtamney,NewZealand,1956,Prop,1,0,1,0,0,0,Middlemarch,NewZealand
+Ian MacEwan,NewZealand,1956,Lock,20,14,4,2,6,2,Auckland,NewZealand
+Denis Young,NewZealand,1956,Hooker,22,15,4,3,0,0,Christchurch,NewZealand
+Don Clarke,NewZealand,1956,Fullback,31,24,4,3,207,2,Pihama,NewZealand
+Terry Lineen,NewZealand,1957,Five-eighth,12,8,3,1,0,0,Auckland,NewZealand
+Frank McMullen,NewZealand,1957,Wing,11,8,2,1,12,4,Auckland,NewZealand
+Colin Meads,NewZealand,1957,Lock,55,41,10,4,21,7,Cambridge,NewZealand
+Wilson Whineray,NewZealand,1957,Prop,32,24,5,3,6,2,Auckland,NewZealand
+Mick Cossey,NewZealand,1958,Wing,1,1,0,0,0,0,Papakura,NewZealand
+Tom Coughlan,NewZealand,1958,Flanker,1,1,0,0,0,0,Mosgiel,NewZealand
+David Graham,NewZealand,1958,Flanker,22,17,2,3,6,2,Stratford,NewZealand
+Lloyd Ashby,NewZealand,1958,Fullback,1,0,1,0,0,0,Mataura,NewZealand
+Rex Pickering,NewZealand,1958,Flanker,3,1,2,0,0,0,Te Kuiti,NewZealand
+Russell Watt,NewZealand,1958,Wing,9,5,3,1,3,1,Dunedin,NewZealand
+Adrian Clarke,NewZealand,1958,Fly-half,3,1,2,0,0,0,Christchurch,NewZealand
+William Gillespie,NewZealand,1958,Flanker,1,1,0,0,0,0,Cromwell,NewZealand
+Brian Finlay,NewZealand,1959,Flanker,1,1,0,0,0,0,Cromwell,NewZealand
+Bruce McPhail,NewZealand,1959,Wing,2,1,1,0,0,0,Ashburton,NewZealand
+Spider Urbahn,NewZealand,1959,Scrum-half,3,2,1,0,3,1,Opunake,NewZealand
+Kevin Briscoe,NewZealand,1959,Scrum-half,9,5,2,2,0,0,New Plymouth,NewZealand
+Ralph Caulton,NewZealand,1959,Wing,16,11,4,1,24,8,Wellington,NewZealand
+Dick Conway,NewZealand,1959,No. 8,10,5,4,1,3,1,Whakatane,NewZealand
+Tuppy Diack,NewZealand,1959,Wing,1,1,0,0,0,0,Invercargill,NewZealand
+John McCullough,NewZealand,1959,Fly-half,3,2,1,0,0,0,Stratford,NewZealand
+Kel Tremain,NewZealand,1959,Flanker,38,30,5,3,27,9,Auckland,NewZealand
+Des Webb,NewZealand,1959,Hooker,1,1,0,0,0,0,Kawakawa,NewZealand
+Terry O'Sullivan,NewZealand,1960,Centre,4,3,1,0,3,1,New Plymouth,NewZealand
+Ronald Horsley,NewZealand,1960,Lock,3,1,1,1,0,0,Wellington,NewZealand
+Kevin Laidlaw,NewZealand,1960,Centre,3,1,1,1,0,0,Nightcaps,NewZealand
+Steve Nesbit,NewZealand,1960,Fly-half,2,1,0,1,0,0,Auckland,NewZealand
+Tony Davies,NewZealand,1960,Five-eighth,3,2,1,0,0,0,Auckland,NewZealand
+Desmond Connor,NewZealand,1958,Scrum-half,24,11,11,2,0,0,Ashgrove,Australia
+Donald McKay,NewZealand,1961,Wing,5,5,0,0,6,2,Auckland,NewZealand
+Stan Meads,NewZealand,1961,Lock,15,13,2,0,0,0,Arapuni,NewZealand
+Neil Wolfe,NewZealand,1961,Fly-half,6,5,0,1,0,0,New Plymouth,NewZealand
+Vic Yates,NewZealand,1961,No. 8,3,3,0,0,3,1,Kaitaia,NewZealand
+Paul Little,NewZealand,1961,Centre,10,8,0,2,3,1,Auckland,NewZealand
+Rod Heeps,NewZealand,1962,Wing,5,4,0,1,3,1,Hamilton,NewZealand
+Waka Nathan,NewZealand,1962,Flanker,14,13,0,1,12,4,Auckland,NewZealand
+Bruce Watt,NewZealand,1962,Fly-half,8,7,0,1,9,2,Marton,NewZealand
+Raymond Moreton,NewZealand,1962,Five-eighth,7,4,2,1,9,2,Invercargill,NewZealand
+Peter Morrissey,NewZealand,1962,Wing,3,2,0,1,6,2,Christchurch,NewZealand
+John Creighton,NewZealand,1962,Hooker,1,1,0,0,0,0,Rotherham,NewZealand
+Jules le Lievre,NewZealand,1962,Prop,1,1,0,0,0,0,Akaroa,NewZealand
+Keith Nelson,NewZealand,1962,No. 8,2,2,0,0,0,0,Auckland,NewZealand
+Mac Herewini,NewZealand,1962,Fly-half,10,9,0,1,21,1,Mokai,NewZealand
+Barry Thomas,NewZealand,1962,Prop,4,3,1,0,0,0,Auckland,NewZealand
+Allan Stewart,NewZealand,1963,Lock,8,6,1,1,0,0,Timaru,NewZealand
+Ian Uttley,NewZealand,1963,Centre,2,2,0,0,0,0,Christchurch,NewZealand
+Derek Arnold,NewZealand,1963,Five-eighth,4,4,0,0,0,0,Balclutha,NewZealand
+Malcolm Dick,NewZealand,1963,Wing,15,11,3,1,12,4,Auckland,NewZealand
+Ken Gray,NewZealand,1963,Prop,24,21,2,1,12,4,Porirua,NewZealand
+Brian Lochore,NewZealand,1964,No. 8,25,19,5,1,6,2,Masterton,NewZealand
+Chris Laidlaw,NewZealand,1964,Scrum-half,20,17,3,0,12,3,Dunedin,NewZealand
+Don Clark,NewZealand,1964,Flanker,2,2,0,0,0,0,Cromwell,NewZealand
+John Collins,NewZealand,1964,Five-eighth,3,3,0,0,0,0,Tokomaru Bay,NewZealand
+Bruce McLeod,NewZealand,1964,Hooker,24,21,3,0,12,4,Auckland,NewZealand
+Spooky Smith,NewZealand,1964,Wing,9,8,1,0,6,2,Dunedin,NewZealand
+Mick Williment,NewZealand,1964,Fullback,9,8,1,0,70,1,Wellington,NewZealand
+Peter Murdoch,NewZealand,1964,Fly-half,5,3,2,0,6,2,Auckland,NewZealand
+Ron Rangi,NewZealand,1964,Centre,10,8,2,0,9,3,Auckland,NewZealand
+Bill Birtwistle,NewZealand,1965,Wing,7,6,1,0,12,4,Auckland,NewZealand
+Fergie McCormick,NewZealand,1965,Fullback,16,13,3,0,121,0,Ashburton,NewZealand
+Jack Hazlett,NewZealand,1966,Prop,6,6,0,0,0,0,Invercargill,NewZealand
+Ian MacRae,NewZealand,1966,Five-eighth,17,14,3,0,9,3,Christchurch,NewZealand
+Anthony Steel,NewZealand,1966,Wing,9,9,0,0,21,7,Greymouth,NewZealand
+Bill Davis,NewZealand,1967,Centre,11,11,0,0,12,4,Hastings,NewZealand
+Sid Going,NewZealand,1967,Scrum-half,29,17,10,2,44,10,Kawakawa,NewZealand
+John Major,NewZealand,1967,Hooker,1,1,0,0,0,0,Whakatane,NewZealand
+Jazz Muller,NewZealand,1967,Prop,14,9,4,1,0,0,Eltham,NewZealand
+Sam Strahan,NewZealand,1967,Lock,17,14,3,0,0,0,Palmerston North,NewZealand
+Earle Kirton,NewZealand,1967,Fly-half,13,12,1,0,12,4,Taumarunui,NewZealand
+Graham Williams,NewZealand,1967,Flanker,5,5,0,0,0,0,Wellington,NewZealand
+Ian Kirkpatrick,NewZealand,1967,Flanker,39,25,11,3,57,16,Gisborne,NewZealand
+Alister Hopkinson,NewZealand,1967,Prop,9,7,2,0,0,0,Mosgiel,NewZealand
+Wayne Cottrell,NewZealand,1968,Five-eighth,9,5,3,1,6,1,Christchurch,NewZealand
+Tom Lister,NewZealand,1968,Flanker,8,5,2,1,6,2,Ashburton,NewZealand
+Grahame Thorne,NewZealand,1968,Wing,10,7,3,0,3,1,Auckland,NewZealand
+Anthony Kreft,NewZealand,1968,Prop,1,1,0,0,0,0,Milton,NewZealand
+Michael O'Callaghan,NewZealand,1968,Wing,3,3,0,0,0,0,Culverden,NewZealand
+Owen Stephens,NewZealand,1968,Wing,6,2,3,1,8,2,Paeroa,NewZealand
+Alan Smith,NewZealand,1969,Lock,3,2,1,0,0,0,Stratford,NewZealand
+George Skudder,NewZealand,1969,Wing,1,1,0,0,3,1,Te Puke,NewZealand
+Bryan Williams,NewZealand,1970,Wing,38,23,12,3,71,10,Auckland,NewZealand
+Alan Sutherland,NewZealand,1970,No. 8,10,6,3,1,12,3,Blenheim,NewZealand
+Alex Wyllie,NewZealand,1970,Flanker,11,5,4,2,8,2,Christchurch,NewZealand
+Buff Milner,NewZealand,1970,Wing,1,0,1,0,0,0,Tokomaru Bay,NewZealand
+Neil Thimbleby,NewZealand,1970,Prop,1,0,1,0,0,0,Lower Hutt,NewZealand
+Ron Urlich,NewZealand,1970,Hooker,2,0,2,0,0,0,Auckland,NewZealand
+Blair Furlong,NewZealand,1970,Fly-half,1,0,1,0,0,0,Dannevirke,NewZealand
+Gerald Kember,NewZealand,1970,Fullback,1,0,1,0,14,0,Wellington,NewZealand
+Keith Murdoch,NewZealand,1970,Prop,3,2,1,0,4,1,Dunedin,NewZealand
+Bob Burgess,NewZealand,1971,Fly-half,7,3,3,1,6,2,New Plymouth,NewZealand
+Ken Carrington,NewZealand,1971,Wing,3,0,2,1,0,0,Whakatane,NewZealand
+Richard Guy,NewZealand,1971,Prop,4,1,2,1,0,0,Lower Hutt,NewZealand
+Bruce Hunter,NewZealand,1971,Wing,3,1,2,0,0,0,Oamaru,NewZealand
+Alan McNaughton,NewZealand,1971,Flanker,3,1,2,0,0,0,Christchurch,NewZealand
+Tane Norton,NewZealand,1971,Hooker,27,16,8,3,0,0,Waikari,NewZealand
+Pole Whiting,NewZealand,1971,Lock,20,12,5,3,12,3,Auckland,NewZealand
+Howard Joseph,NewZealand,1971,Centre,2,1,1,0,0,0,Christchurch,NewZealand
+Laurie Mains,NewZealand,1971,Fullback,4,2,1,1,21,1,Dunedin,NewZealand
+Mick Duncan,NewZealand,1971,Centre,2,0,1,1,0,0,Waipawa,NewZealand
+Phil Gard,NewZealand,1971,Five-eighth,1,0,0,1,0,0,Kurow,NewZealand
+John Dougan,NewZealand,1972,Fly-half,2,1,1,0,4,1,Lower Hutt,NewZealand
+Duncan Hales,NewZealand,1972,Wing,4,4,0,0,0,0,Dannevirke,NewZealand
+Jeff Matheson,NewZealand,1972,Prop,5,5,0,0,0,0,Palmerston,NewZealand
+Trevor Morris,NewZealand,1972,Fullback,3,3,0,0,33,0,Nelson,NewZealand
+Mike Parkinson,NewZealand,1972,Five-eighth,7,6,1,0,0,0,Wairoa,NewZealand
+Bruce Robertson,NewZealand,1972,Centre,34,23,9,2,22,4,Hastings,NewZealand
+Alistair Scown,NewZealand,1972,Flanker,5,5,0,0,4,1,Patea,NewZealand
+Graham Whiting,NewZealand,1972,Prop,6,4,1,1,0,0,Wanganui,NewZealand
+Lyn Jaffray,NewZealand,1972,Five-eighth,7,4,3,0,4,1,Dunedin,NewZealand
+Graham Sims,NewZealand,1972,Centre,1,1,0,0,0,0,Featherston,NewZealand
+Grant Batty,NewZealand,1972,Wing,15,9,5,1,16,4,Greytown,NewZealand
+Joe Karam,NewZealand,1972,Fullback,10,7,1,2,65,1,Taumarunui,NewZealand
+Hamish Macdonald,NewZealand,1972,Lock,12,7,4,1,4,1,Rawene,NewZealand
+Ian Stevens,NewZealand,1972,Fly-half,3,3,0,0,4,1,Waipawa,NewZealand
+Kent Lambert,NewZealand,1972,Prop,11,5,5,1,0,0,Wairoa,NewZealand
+Ian Hurst,NewZealand,1973,Five-eighth,5,1,2,2,8,2,Oamaru,NewZealand
+Murray Jones,NewZealand,1973,Prop,1,0,1,0,0,0,Warkworth,NewZealand
+Robert Lendrum,NewZealand,1973,Fullback,1,0,1,0,2,0,Waiuku,NewZealand
+Ken Stewart,NewZealand,1973,Flanker,13,8,4,1,0,0,Gore,NewZealand
+Terry Morrison,NewZealand,1973,Wing,1,0,1,0,0,0,Hamilton,NewZealand
+Billy Bush,NewZealand,1974,Prop,12,8,3,1,0,0,Napier,NewZealand
+John Callesen,NewZealand,1974,Lock,4,3,0,1,0,0,Palmerston North,NewZealand
+Bruce Gemmell,NewZealand,1974,Scrum-half,2,1,0,1,0,0,Auckland,NewZealand
+Andy Leslie,NewZealand,1974,No. 8,10,6,3,1,4,1,Lower Hutt,NewZealand
+Duncan Robertson,NewZealand,1974,Fly-half,10,6,3,1,8,2,Dunedin,NewZealand
+Kerry Tanner,NewZealand,1974,Prop,7,5,1,1,0,0,Hamilton,NewZealand
+Jon McLachlan,NewZealand,1974,Wing,1,0,0,1,0,0,Auckland,NewZealand
+Ash Gardiner,NewZealand,1974,Prop,1,1,0,0,0,0,New Plymouth,NewZealand
+Joe Morgan,NewZealand,1974,Five-eighth,5,3,2,0,4,1,Whangarei,NewZealand
+Bill Osborne,NewZealand,1975,Five-eighth,16,13,3,0,0,0,Wanganui,NewZealand
+Lyn Davis,NewZealand,1976,Scrum-half,3,3,0,0,0,0,Christchurch,NewZealand
+Neil Purvis,NewZealand,1976,Wing,1,1,0,0,0,0,Cromwell,NewZealand
+Doug Bruce,NewZealand,1976,Fly-half,14,10,4,0,15,0,Dunedin,NewZealand
+Kevin Everleigh,NewZealand,1976,Flanker,4,2,2,0,0,0,Palmerston North,NewZealand
+Kit Fawcett,NewZealand,1976,Fullback,2,1,1,0,0,0,Matamata,NewZealand
+Brad Johnstone,NewZealand,1976,Prop,13,10,3,0,8,2,Auckland,NewZealand
+Perry Harris,NewZealand,1976,Prop,1,0,1,0,0,0,Feilding,NewZealand
+Frank Oliver,NewZealand,1976,Lock,17,11,6,0,4,1,Dunedin,NewZealand
+Terry Mitchell,NewZealand,1976,Wing,1,0,1,0,0,0,Takaka,NewZealand
+Colin Farrell,NewZealand,1977,Fullback,2,1,1,0,0,0,Auckland,NewZealand
+Andy Haden,NewZealand,1977,Lock,41,31,9,1,8,2,Wanganui,NewZealand
+Laurie Knight,NewZealand,1977,No. 8,6,4,2,0,4,1,Auckland,NewZealand
+Mark Taylor,NewZealand,1977,Five-eighth,9,5,4,0,4,1,Auckland,NewZealand
+Brian Ford,NewZealand,1977,Wing,4,4,0,0,0,0,Kaikoura,NewZealand
+John McEldowney,NewZealand,1977,Prop,2,2,0,0,0,0,New Plymouth,NewZealand
+Graham Mourie,NewZealand,1977,Flanker,21,17,4,0,16,4,Opunake,NewZealand
+Bev Wilson,NewZealand,1977,Fullback,8,5,3,0,55,0,Dunstan,NewZealand
+John Black,NewZealand,1977,Hooker,3,0,3,0,0,0,Timaru,NewZealand
+Mark Donaldson,NewZealand,1977,Scrum-half,13,9,4,0,4,1,Palmerston North,NewZealand
+Gary Knight,NewZealand,1977,Prop,36,27,9,0,4,1,Wellington,NewZealand
+Brian McKechnie,NewZealand,1977,Fullback,10,7,3,0,46,0,Gore,NewZealand
+Gary Seear,NewZealand,1977,No. 8,12,8,4,0,11,2,Dunedin,NewZealand
+Stu Wilson,NewZealand,1977,Wing,34,25,8,1,76,19,Gore,NewZealand
+Robbie Stuart,NewZealand,1977,Lock,1,0,1,0,0,0,Napier,NewZealand
+Andy Dalton,NewZealand,1977,Hooker,35,30,5,0,12,3,Dunedin,NewZealand
+Barry Ashworth,NewZealand,1978,Flanker,2,2,0,0,0,0,Waiuku,NewZealand
+John Ashworth,NewZealand,1978,Prop,24,18,6,0,4,1,Waikari,NewZealand
+Leicester Rutledge,NewZealand,1978,Flanker,13,8,5,0,0,0,Christchurch,NewZealand
+Dick Myers,NewZealand,1978,Flanker,1,0,1,0,0,0,Hamilton,NewZealand
+Clive Currie,NewZealand,1978,Fullback,2,2,0,0,0,0,Wellington,NewZealand
+Dave Loveridge,NewZealand,1978,Scrum-half,24,19,4,1,12,3,Stratford,NewZealand
+Murray Taylor,NewZealand,1979,Fly-half,7,4,3,0,3,0,Hamilton,NewZealand
+Murray Watts,NewZealand,1979,Wing,5,2,3,0,4,1,Patea,NewZealand
+Wayne Graham,NewZealand,1979,Flanker,1,1,0,0,0,0,Tauranga,NewZealand
+Gary Cunningham,NewZealand,1979,Five-eighth,5,3,2,0,0,0,Auckland,NewZealand
+Mike McCool,NewZealand,1979,Lock,1,0,1,0,0,0,Hastings,NewZealand
+Eddie Dunn,NewZealand,1979,Fly-half,2,2,0,0,4,1,Te Kopuru,NewZealand
+John Fleming,NewZealand,1979,Lock,5,3,2,0,4,1,Auckland,NewZealand
+Bernie Fraser,NewZealand,1979,Wing,23,17,5,1,24,6,Lautoka,Fiji
+Murray Mexted,NewZealand,1979,No. 8,34,26,6,2,16,4,Wellington,NewZealand
+John Spiers,NewZealand,1979,Prop,5,5,0,0,0,0,Otahuhu,NewZealand
+Richard Wilson,NewZealand,1979,Fullback,2,2,0,0,10,0,Leeston,NewZealand
+Peter Sloane,NewZealand,1979,Hooker,1,1,0,0,0,0,Whangarei,NewZealand
+Brett Codlin,NewZealand,1980,Fullback,3,1,2,0,23,0,Pukekohe,NewZealand
+Hika Reid,NewZealand,1980,Hooker,9,4,3,2,8,2,Rotorua,NewZealand
+Mark Shaw,NewZealand,1980,Flanker,30,21,7,2,24,6,Palmerston North,NewZealand
+Wayne Smith,NewZealand,1980,Fly-half,17,11,4,2,6,0,Putaruru,NewZealand
+Tim Twigden,NewZealand,1980,Wing,2,1,1,0,0,0,Taumarunui,NewZealand
+Nicky Allen,NewZealand,1980,Fly-half,2,1,1,0,4,1,Auckland,NewZealand
+Lachie Cameron,NewZealand,1980,Five-eighth,5,3,2,0,0,0,Hamilton,NewZealand
+Geoffrey Hines,NewZealand,1980,Flanker,1,0,1,0,0,0,Tokoroa,NewZealand
+Graeme Higginson,NewZealand,1980,Lock,6,5,1,0,0,0,Rangiora,NewZealand
+Rod Ketels,NewZealand,1980,Prop,5,5,0,0,0,0,Papakura,NewZealand
+Doug Rollerson,NewZealand,1980,Fly-half,8,7,1,0,24,1,Papakura,NewZealand
+Allan Hewson,NewZealand,1981,Fullback,19,16,3,0,201,4,Lower Hutt,NewZealand
+Andy Jefferd,NewZealand,1981,Five-eighth,3,3,0,0,0,0,Gisborne,NewZealand
+Haydn Rickit,NewZealand,1981,Lock,2,2,0,0,0,0,Taupo,NewZealand
+Freddy Woodman,NewZealand,1981,Wing,3,2,1,0,0,0,Kaikohe,NewZealand
+Greg Burgess,NewZealand,1981,Prop,1,0,1,0,0,0,Auckland,NewZealand
+Geoff Old,NewZealand,1981,Flanker,3,3,0,0,0,0,Eltham,NewZealand
+Steve Pokere,NewZealand,1981,Centre,18,15,2,1,8,2,Hawera,NewZealand
+Frank Shelford,NewZealand,1981,Flanker,4,4,0,0,0,0,Opotiki,NewZealand
+Gary Whetton,NewZealand,1981,Lock,58,50,6,2,4,1,Auckland,NewZealand
+Jamie Salmon,NewZealand,1981,Centre,15,7,8,0,8,2,Hong Kong,HongKong
+Arthur Stone,NewZealand,1981,Five-eighth,9,6,3,0,7,1,Auckland,NewZealand
+Paul Koteka,NewZealand,1981,Prop,2,2,0,0,0,0,Tokoroa,NewZealand
+Ian Dunn,NewZealand,1983,Fly-half,3,3,0,0,0,0,Te Kopuru,NewZealand
+Jock Hobbs,NewZealand,1983,Flanker,21,15,4,2,16,4,Christchurch,NewZealand
+Warwick Taylor,NewZealand,1983,Five-eighth,24,21,1,2,20,5,Hamilton,NewZealand
+Albert Anderson,NewZealand,1983,Lock,6,3,2,1,0,0,Christchurch,NewZealand
+Gary Braid,NewZealand,1983,Lock,2,0,1,1,0,0,Tauranga,NewZealand
+Scott Crichton,NewZealand,1983,Prop,2,0,1,1,0,0,Wanganui,NewZealand
+Robbie Deans,NewZealand,1983,Fullback,5,2,2,1,50,0,Cheviot,NewZealand
+Andy Donald,NewZealand,1983,Scrum-half,7,4,2,1,0,0,Wanganui,NewZealand
+Brian McGrattan,NewZealand,1983,Prop,6,2,2,2,0,0,Wellington,NewZealand
+Craig Green,NewZealand,1983,Wing,20,14,4,2,44,11,Christchurch,NewZealand
+Murray Davie,NewZealand,1983,Prop,1,0,1,0,4,1,Christchurch,NewZealand
+John Kirwan,NewZealand,1984,Wing,63,48,12,3,143,35,Auckland,NewZealand
+Bruce Smith,NewZealand,1984,Wing,3,2,1,0,4,1,Wairoa,NewZealand
+Alan Whetton,NewZealand,1984,Flanker,35,31,3,1,40,10,Auckland,NewZealand
+Mike Clamp,NewZealand,1984,Wing,2,2,0,0,4,1,Wellington,NewZealand
+Kieran Crowley,NewZealand,1985,Fullback,19,14,4,1,105,5,Kaponga,NewZealand
+David Kirk,NewZealand,1985,Scrum-half,17,14,3,0,24,6,Wellington,NewZealand
+Murray Pierce,NewZealand,1985,Lock,26,23,2,1,0,0,Timaru,NewZealand
+Grant Fox,NewZealand,1985,Fly-half,46,38,7,1,645,1,New Plymouth,NewZealand
+Steve McDowall,NewZealand,1985,Prop,46,38,6,2,12,3,Rotorua,NewZealand
+Vic Simpson,NewZealand,1985,Centre,2,1,0,1,0,0,Gisborne,NewZealand
+Kevin Boroevich,NewZealand,1986,Prop,3,1,2,0,0,0,Te Kuiti,NewZealand
+Frano Botica,NewZealand,1986,Fly-half,7,4,3,0,6,0,Mangakino,NewZealand
+Mike Brewer,NewZealand,1986,Back-row,32,22,9,1,4,1,Pukekohe,NewZealand
+Mark Brooke-Cowden,NewZealand,1986,Flanker,3,2,1,0,8,2,Auckland,NewZealand
+Greg Cooper,NewZealand,1986,Fullback,7,5,2,0,63,2,Gisborne,NewZealand
+Andy Earl,NewZealand,1986,Flanker,14,10,4,0,12,3,Christchurch,NewZealand
+Sean Fitzpatrick,NewZealand,1986,Hooker,92,74,16,2,55,12,Auckland,NewZealand
+Brett Harvey,NewZealand,1986,Flanker,1,1,0,0,0,0,Palmerston North,NewZealand
+Gordon Macpherson,NewZealand,1986,Lock,1,1,0,0,0,0,Gisborne,NewZealand
+Joe Stanley,NewZealand,1986,Centre,27,23,3,1,16,4,Auckland,NewZealand
+Terry Wright,NewZealand,1986,Wing,30,26,3,1,72,18,Auckland,NewZealand
+Brent Anderson,NewZealand,1986,Lock,1,0,1,0,0,0,Lower Hutt,NewZealand
+Michael Speight,NewZealand,1986,Lock,1,0,1,0,0,0,Auckland,NewZealand
+Marty Berry,NewZealand,1986,"Centre, Fly-half",1,0,1,0,0,0,Wellington,NewZealand
+John Drake,NewZealand,1986,Prop,8,7,1,0,4,1,Auckland,NewZealand
+Buck Shelford,NewZealand,1986,No. 8,22,20,1,1,20,5,Rotorua,NewZealand
+John Gallagher,NewZealand,1987,Fullback,18,17,0,1,52,13,London,England
+Michael Jones,NewZealand,1986,Flanker,56,43,11,2,56,13,Auckland,NewZealand
+Richard Loe,NewZealand,1987,Prop,49,37,10,2,25,6,Christchurch,NewZealand
+Zinzan Brooke,NewZealand,1987,No. 8,58,45,11,2,89,17,Waiuku,NewZealand
+Bernie McCahill,NewZealand,1987,Five-eighth,10,9,1,0,4,1,Auckland,NewZealand
+Bruce Deans,NewZealand,1988,Scrum-half,10,9,0,1,24,6,Cheviot,NewZealand
+John Schuster,NewZealand,1988,Centre,13,10,1,2,21,1,Apia,Samoa
+Graeme Bachop,NewZealand,1989,Scrum-half,39,28,10,1,18,4,Christchurch,NewZealand
+Craig Innes,NewZealand,1989,Centre,17,14,3,0,24,6,New Plymouth,NewZealand
+Ian Jones,NewZealand,1990,Lock,79,59,18,2,42,9,Whangarei,NewZealand
+Walter Little,NewZealand,1990,Five-eighth,50,37,12,1,44,9,Tokoroa,NewZealand
+Kevin Schuler,NewZealand,1990,Flanker,4,3,1,0,0,0,Te Aroha,NewZealand
+Paul Henderson,NewZealand,1991,No. 8,7,6,1,0,9,2,Bluff,NewZealand
+John Timu,NewZealand,1991,Fullback,26,16,9,1,31,7,Dannevirke,NewZealand
+Mark Carter,NewZealand,1991,Flanker,7,5,2,0,0,0,Auckland,NewZealand
+Jon Preston,NewZealand,1991,Scrum-half,10,9,1,0,34,1,Dunedin,NewZealand
+Graham Purvis,NewZealand,1991,Prop,2,2,0,0,4,1,Waihi,NewZealand
+Inga Tuigamala,NewZealand,1991,"Wing, Centre",41,27,14,0,36,8,Falesiu,Samoa
+Jason Hewett,NewZealand,1991,Scrum-half,1,1,0,0,4,1,Clyde,NewZealand
+Shayne Philpott,NewZealand,1991,Fullback,2,2,0,0,0,0,Christchurch,NewZealand
+Frank Bunce,NewZealand,1991,Centre,59,44,13,2,100,21,Auckland,NewZealand
+Mark Cooksley,NewZealand,1992,Lock,11,5,6,0,0,0,Auckland,NewZealand
+Richard Turner,NewZealand,1992,Flanker,2,1,1,0,4,1,Napier,NewZealand
+Arran Pene,NewZealand,1992,No. 8,15,9,6,0,16,4,Hamilton,NewZealand
+Eroni Clarke,NewZealand,1992,Five-eighth,10,6,4,0,25,6,Apia,Samoa
+Jamie Joseph,NewZealand,1992,Flanker,29,21,8,0,15,3,Blenheim,NewZealand
+Blair Larsen,NewZealand,1992,Flanker,17,12,4,1,4,1,Takapuna,NewZealand
+Ant Strachan,NewZealand,1992,Scrum-half,11,8,3,0,8,2,Te Awamutu,NewZealand
+Graham Dowd,NewZealand,1992,Prop,1,1,0,0,0,0,Takapuna,NewZealand
+Robin Brooke,NewZealand,1992,Lock,62,47,13,2,20,4,Warkworth,NewZealand
+Olo Brown,NewZealand,1992,Prop,56,40,14,2,20,4,Apia,Samoa
+Matthew Cooper,NewZealand,1992,Five-eighth,8,6,2,0,55,2,Gisborne,NewZealand
+Craig Dowd,NewZealand,1993,Prop,60,47,13,0,10,2,Auckland,NewZealand
+Lee Stensness,NewZealand,1993,"Five-eighth, Centre",8,8,0,0,15,3,Auckland,NewZealand
+Bull Allen,NewZealand,1993,Prop,8,7,0,1,5,1,Stratford,NewZealand
+Marc Ellis,NewZealand,1993,Wing,8,6,2,0,55,11,Wellington,NewZealand
+Stu Forster,NewZealand,1993,Scrum-half,6,2,4,0,0,0,Pahiatua,NewZealand
+Steve Gordon,NewZealand,1993,Lock,2,1,1,0,0,0,Te Awamutu,NewZealand
+Jeff Wilson,NewZealand,1993,Wing,60,45,14,1,234,44,Invercargill,NewZealand
+Jonah Lomu,NewZealand,1994,Wing,63,44,17,2,185,37,Auckland,NewZealand
+Simon Mannix,NewZealand,1994,Fly-half,1,0,1,0,0,0,Lower Hutt,NewZealand
+Stephen Bachop,NewZealand,1991,Fly-half,23,12,10,1,64,4,Christchurch,NewZealand
+Shane Howarth,NewZealand,1994,"Fullback, Fly-half",23,14,8,1,77,5,Auckland,NewZealand
+Alama Ieremia,NewZealand,1992,Five-eighth,35,27,7,1,25,5,Apia,Samoa
+Josh Kronfeld,NewZealand,1995,Flanker,54,42,11,1,70,14,Hastings,NewZealand
+Andrew Mehrtens,NewZealand,1995,Fly-half,70,49,19,2,967,7,Durban,SouthAfrica
+Glen Osborne,NewZealand,1995,Fullback,19,16,3,0,55,11,Wanganui,NewZealand
+Norm Hewitt,NewZealand,1995,Hooker,9,8,0,1,0,0,Hastings,NewZealand
+Eric Rush,NewZealand,1995,Wing,9,8,1,0,25,5,Kaeo,NewZealand
+Simon Culhane,NewZealand,1995,Fly-half,6,5,1,0,114,1,Invercargill,NewZealand
+Liam Barry,NewZealand,1995,Flanker,1,1,0,0,0,0,Takapuna,NewZealand
+Justin Marshall,NewZealand,1995,Scrum-half,81,61,19,1,120,24,Gore,NewZealand
+Christian Cullen,NewZealand,1996,Fullback,58,42,14,2,236,46,Paraparaumu,NewZealand
+Scott McLeod,NewZealand,1996,Centre,10,7,2,1,5,1,Brisbane,Australia
+Adrian Cashmore,NewZealand,1996,Fullback,2,2,0,0,0,0,Tokoroa,NewZealand
+Andrew Blowers,NewZealand,1996,Back-row,11,10,1,0,0,0,Auckland,NewZealand
+Glenn Taylor,NewZealand,1996,Flanker,1,0,1,0,0,0,Whangarei,NewZealand
+Taine Randell,NewZealand,1997,Back-row,51,35,14,2,60,12,Hastings,NewZealand
+Tana Umaga,NewZealand,1997,"Centre, Wing",74,59,14,1,180,36,Lower Hutt,NewZealand
+Anton Oliver,NewZealand,1997,Hooker,59,42,17,0,15,3,Invercargill,NewZealand
+Charles Riechelmann,NewZealand,1997,Flanker,6,5,0,1,5,1,Nuku'alofa,Tonga
+Junior Tonu'u,NewZealand,1992,Scrum-half,9,7,2,0,5,1,Wellington,NewZealand
+Carlos Spencer,NewZealand,1997,"Fly-half, Fullback",35,27,7,1,291,14,Levin,NewZealand
+Mark Mayerhofler,NewZealand,1998,Centre,6,2,4,0,10,2,Auckland,NewZealand
+Todd Blackadder,NewZealand,1998,"Lock, Flanker",12,9,3,0,5,1,Rangiora,NewZealand
+Mark Robinson,NewZealand,1998,Scrum-half,3,3,0,0,5,1,Palmerston North,NewZealand
+Caleb Ralph,NewZealand,1998,"Wing, Centre",14,12,2,0,40,8,Rotorua,NewZealand
+Carl Hoeft,NewZealand,1998,Prop,30,20,10,0,0,0,Auckland,NewZealand
+Isitolo Maka,NewZealand,1998,No. 8,4,1,3,0,5,1,Longoteme,Tonga
+Joeli Vidiri,NewZealand,1994,Wing,9,2,7,0,30,6,Nausori Highlands,Fiji
+Scott Robertson,NewZealand,1998,No. 8,23,17,6,0,20,4,Tauranga,NewZealand
+Royce Willis,NewZealand,1998,Lock,12,7,5,0,0,0,Tokoroa,NewZealand
+Norm Berryman,NewZealand,1998,Centre,1,0,1,0,0,0,Wellington,NewZealand
+Kees Meeuws,NewZealand,1998,Prop,42,31,10,1,50,10,Auckland,NewZealand
+Xavier Rush,NewZealand,1998,No. 8,8,5,3,0,0,0,Auckland,NewZealand
+Tony Brown,NewZealand,1999,Fly-half,18,15,3,0,171,5,Balclutha,NewZealand
+Daryl Gibson,NewZealand,1999,Centre,19,15,4,0,5,1,Lumsden,NewZealand
+Norm Maxwell,NewZealand,1999,Lock,36,28,8,0,25,5,Rawene,NewZealand
+Dylan Mika,NewZealand,1994,Back-row,9,6,3,0,5,1,Auckland,NewZealand
+Greg Feek,NewZealand,1999,Prop,10,9,1,0,0,0,New Plymouth,NewZealand
+Byron Kelleher,NewZealand,1999,Scrum-half,57,46,11,0,40,8,Dunedin,NewZealand
+Pita Alatini,NewZealand,1995,Centre,18,13,5,0,30,6,Nuku'alofa,Tonga
+Mark Hammett,NewZealand,1999,Hooker,29,25,4,0,15,3,Christchurch,NewZealand
+Reuben Thorne,NewZealand,1999,"Lock, Flanker",50,42,8,0,25,5,Christchurch,NewZealand
+Rhys Duggan,NewZealand,1999,Scrum-half,1,1,0,0,0,0,Rotorua,NewZealand
+Troy Flavell,NewZealand,2000,Lock,22,17,5,0,30,6,Otahuhu,NewZealand
+Greg Somerville,NewZealand,2000,Prop,66,55,11,0,5,1,Wairoa,NewZealand
+Doug Howlett,NewZealand,2000,Wing,62,51,10,1,245,49,Auckland,NewZealand
+Filo Tiatia,NewZealand,2000,"Lock, Back-row",2,2,0,0,10,2,Wellington,NewZealand
+Ron Cribb,NewZealand,2000,No. 8,15,10,5,0,20,4,Wanganui,NewZealand
+Leon MacDonald,NewZealand,2000,Fly-half,56,48,8,0,141,14,Blenheim,NewZealand
+Mark Robinson,NewZealand,2000,Centre,9,7,1,1,5,1,Stratford,NewZealand
+Gordon Slater,NewZealand,2000,Prop,3,2,1,0,5,1,New Plymouth,NewZealand
+Bruce Reihana,NewZealand,2000,Fullback,2,1,1,0,10,2,Thames,NewZealand
+Jason O'Halloran,NewZealand,2000,Five-eighth,1,1,0,0,0,0,Lower Hutt,NewZealand
+Marty Holah,NewZealand,2001,Flanker,36,27,8,1,15,3,Hamilton,NewZealand
+Carl Hayman,NewZealand,2001,Prop,45,36,8,1,10,2,Opunake,NewZealand
+Mark Ranby,NewZealand,2001,Centre,1,1,0,0,0,0,Putaruru,NewZealand
+Jerry Collins,NewZealand,2001,Flanker,48,42,6,0,25,5,Apia,Samoa
+Chris Jack,NewZealand,2001,Lock,67,57,10,0,25,5,Christchurch,NewZealand
+Richie McCaw,NewZealand,2001,Flanker,148,131,15,2,135,27,Oamaru,NewZealand
+Aaron Mauger,NewZealand,2001,Centre,45,39,6,0,90,13,Christchurch,NewZealand
+Dave Hewett,NewZealand,2001,Prop,22,19,3,0,10,2,Christchurch,NewZealand
+Ben Blair,NewZealand,2001,Fullback,4,3,1,0,4,0,Westport,NewZealand
+Dion Waller,NewZealand,2001,Lock,1,1,0,0,0,0,Turangi,NewZealand
+Joe McDonnell,NewZealand,2002,Prop,8,5,2,1,5,1,Hastings,NewZealand
+Simon Maling,NewZealand,2002,Lock,11,9,2,0,0,0,Christchurch,NewZealand
+Tom Willis,NewZealand,2002,Hooker,5,4,1,0,0,0,Dunedin,NewZealand
+Sam Harding,NewZealand,2002,Flanker,1,1,0,0,0,0,Perth,Australia
+Sam Broomhall,NewZealand,2002,Back-row,4,2,1,1,0,0,Christchurch,NewZealand
+Steve Devine,NewZealand,2002,Scrum-half,10,8,2,0,0,0,Boggabri,Australia
+Andrew Hore,NewZealand,2002,Hooker,83,70,11,2,40,8,Dunedin,NewZealand
+Keith Lowen,NewZealand,2002,Centre,1,0,1,0,0,0,Huntly,NewZealand
+Keith Robinson,NewZealand,2002,Lock,12,9,2,1,0,0,Te Aroha,NewZealand
+Ali Williams,NewZealand,2002,Lock,77,65,11,1,35,7,Auckland,NewZealand
+Danny Lee,NewZealand,2002,Scrum-half,2,0,1,1,5,1,Hastings,NewZealand
+Brad Mika,NewZealand,2002,Back-row,3,1,1,1,0,0,Auckland,NewZealand
+Dan Braid,NewZealand,2002,Flanker,6,5,1,0,5,1,Tauranga,NewZealand
+Regan King,NewZealand,2002,Centre,1,1,0,0,5,1,Cambridge,NewZealand
+Keven Mealamu,NewZealand,2002,Hooker,132,114,16,2,60,12,Tokoroa,NewZealand
+Rodney So'oialo,NewZealand,2002,Back-row,62,53,9,0,30,6,Moto'otua,Samoa
+Tony Woodcock,NewZealand,2002,Prop,118,102,15,1,50,10,Helensville,NewZealand
+Paul Steinmetz,NewZealand,2002,Centre,1,1,0,0,0,0,Paraparaumu,NewZealand
+Ma'a Nonu,NewZealand,2003,Centre,103,91,10,2,155,31,Wellington,NewZealand
+Joe Rokocoko,NewZealand,2003,Centre,68,55,13,0,230,46,Nadi,Fiji
+Mils Muliaina,NewZealand,2003,Fullback,100,84,16,0,170,34,Salelesi,Samoa
+Dan Carter,NewZealand,2003,Fly-half,112,99,12,1,1598,29,Leeston,NewZealand
+Brad Thorn,NewZealand,2003,Lock,59,51,8,0,20,4,Mosgiel,NewZealand
+Corey Flynn,NewZealand,2003,Hooker,15,15,0,0,15,3,Invercargill,NewZealand
+Ben Atiga,NewZealand,2003,Centre,1,1,0,0,0,0,Auckland,NewZealand
+Jono Gibbes,NewZealand,2004,"Lock, Flanker",8,6,2,0,0,0,Henderson,NewZealand
+Nick Evans,NewZealand,2004,"Fullback, Fly-half",16,15,1,0,103,5,North Shore,NewZealand
+Sam Tuitupou,NewZealand,2004,Centre,9,7,2,0,5,1,Auckland,NewZealand
+Craig Newby,NewZealand,2004,Back-row,3,2,1,0,0,0,Rotorua,NewZealand
+Mose Tuiali'i,NewZealand,2004,Back-row,9,7,2,0,5,1,Auckland,NewZealand
+Rico Gear,NewZealand,2004,"Centre, Wing",19,16,3,0,55,11,Gisborne,NewZealand
+Conrad Smith,NewZealand,2004,Centre,94,84,9,1,130,26,Hawera,NewZealand
+Saimone Taumoepeau,NewZealand,2004,Prop,3,3,0,0,5,1,Ha'apai,Tonga
+Steven Bates,NewZealand,2004,Back-row,1,1,0,0,0,0,Auckland,NewZealand
+Jimmy Cowan,NewZealand,2004,Scrum-half,51,44,7,0,35,7,Gore,NewZealand
+Casey Laulala,NewZealand,2004,Centre,2,2,0,0,0,0,Moto'otua,Samoa
+Piri Weepu,NewZealand,2004,Scrum-half,71,62,8,1,103,7,Lower Hutt,NewZealand
+James Ryan,NewZealand,2005,Lock,9,9,0,0,0,0,Christchurch,NewZealand
+Sitiveni Sivivatu,NewZealand,2004,Wing,48,37,11,0,165,33,Suva,Fiji
+Derren Witcombe,NewZealand,2005,Hooker,5,4,1,0,0,0,Hobart,Australia
+Sosene Anesi,NewZealand,2005,"Fullback, Wing",1,1,0,0,0,0,Apia,Samoa
+Campbell Johnstone,NewZealand,2005,Prop,3,3,0,0,0,0,Waipukurau,NewZealand
+Sione Lauaki,NewZealand,2004,No. 8,20,15,5,0,30,6,Ha'apai,Tonga
+Luke McAlister,NewZealand,2005,Fly-half,30,24,6,0,153,7,Waitara,NewZealand
+Kevin Senio,NewZealand,2005,Scrum-half,1,1,0,0,0,0,Auckland,NewZealand
+Chris Masoe,NewZealand,2005,No. 8,20,18,2,0,15,3,Savai'i,Samoa
+Neemia Tialata,NewZealand,2005,Prop,43,38,5,0,10,2,Lower Hutt,NewZealand
+Angus Macdonald,NewZealand,2005,Back-row,2,2,0,0,0,0,Whangarei,NewZealand
+John Afoa,NewZealand,2005,Prop,36,28,8,0,5,1,Auckland,NewZealand
+Jason Eaton,NewZealand,2005,Lock,15,13,2,0,5,1,Palmerston North,NewZealand
+Isaia Toeava,NewZealand,2005,"Centre, Fullback",36,30,6,0,40,8,Moto'otua,Samoa
+Clarke Dermody,NewZealand,2006,Prop,3,3,0,0,5,1,Invercargill,NewZealand
+Greg Rawlinson,NewZealand,2006,Lock,4,4,0,0,0,0,Durban,SouthAfrica
+Jerome Kaino,NewZealand,2006,Back-row,67,57,9,1,55,11,Tutuila,Samoa
+David Hill,NewZealand,2006,Fly-half,1,1,0,0,0,0,Blenheim,NewZealand
+Scott Hamilton,NewZealand,2006,"Fullback, Wing",2,2,0,0,5,1,Christchurch,NewZealand
+Andy Ellis,NewZealand,2006,Scrum-half,28,24,4,0,20,4,Christchurch,NewZealand
+Brendon Leonard,NewZealand,2007,Scrum-half,13,11,2,0,10,2,Morrinsville,NewZealand
+Ross Filipo,NewZealand,2007,Flanker,4,3,1,0,0,0,Wellington,NewZealand
+John Schwalger,NewZealand,2007,Prop,2,2,0,0,5,1,Apia,Samoa
+Anthony Tuitavake,NewZealand,2008,Wing,6,5,1,0,5,1,Auckland,NewZealand
+Adam Thomson,NewZealand,2008,Back-row,29,24,5,0,30,6,Ashburton,NewZealand
+Anthony Boric,NewZealand,2008,Lock,24,23,1,0,10,2,Auckland,NewZealand
+Stephen Donald,NewZealand,2008,Fly-half,23,18,5,0,98,1,Papakura,NewZealand
+Richard Kahui,NewZealand,2008,"Wing, Centre",17,15,2,0,50,10,Tokoroa,NewZealand
+Rudi Wulf,NewZealand,2008,Wing,4,3,1,0,0,0,Auckland,NewZealand
+Kevin O'Neill,NewZealand,2008,Lock,1,0,1,0,0,0,Te Aroha,NewZealand
+Hosea Gear,NewZealand,2008,Wing,14,12,1,1,30,6,Gisborne,NewZealand
+Cory Jane,NewZealand,2008,Wing,53,45,6,2,90,18,Wellington,NewZealand
+Jamie Mackintosh,NewZealand,2008,Prop,1,1,0,0,0,0,Invercargill,NewZealand
+Liam Messam,NewZealand,2008,Flanker,43,38,4,1,30,6,Blenheim,NewZealand
+Kieran Read,NewZealand,2008,No. 8,84,73,9,2,100,20,Papakura,NewZealand
+Isaac Ross,NewZealand,2009,Lock,8,4,4,0,10,2,Ashburton,NewZealand
+Bryn Evans,NewZealand,2009,Lock,2,1,1,0,0,0,Hastings,NewZealand
+Tanerau Latimer,NewZealand,2009,Flanker,5,4,1,0,0,0,Te Puke,NewZealand
+Wyatt Crockett,NewZealand,2009,Prop,45,43,1,1,5,1,Christchurch,NewZealand
+Lelia Masaga,NewZealand,2009,Wing,1,1,0,0,0,0,Wellington,NewZealand
+Aled de Malmanche,NewZealand,2009,Hooker,5,5,0,0,0,0,Palmerston North,NewZealand
+Owen Franks,NewZealand,2009,Prop,78,68,8,2,0,0,Motueka,NewZealand
+George Whitelock,NewZealand,2009,Flanker,1,1,0,0,5,1,Palmerston North,NewZealand
+Tom Donnelly,NewZealand,2009,Lock,15,14,1,0,0,0,Rotorua,NewZealand
+Zac Guildford,NewZealand,2009,Wing,10,9,1,0,30,6,Masterton,NewZealand
+Mike Delany,NewZealand,2009,Fly-half,1,1,0,0,0,0,Rotorua,NewZealand
+Tamati Ellison,NewZealand,2009,Centre,4,4,0,0,0,0,Wellington,NewZealand
+Ben Smith,NewZealand,2009,Fullback,48,43,3,2,95,19,Dunedin,NewZealand
+Israel Dagg,NewZealand,2010,Fullback,49,45,3,1,75,14,Marton,NewZealand
+Ben Franks,NewZealand,2010,Prop,47,43,3,1,10,2,Melbourne,Australia
+Benson Stanley,NewZealand,2010,Centre,3,3,0,0,0,0,New South Wales,Australia
+Aaron Cruden,NewZealand,2010,Fly-half,37,34,1,2,280,5,Palmerston North,NewZealand
+Victor Vito,NewZealand,2010,Back-row,33,29,3,1,20,4,Wellington,NewZealand
+Sam Whitelock,NewZealand,2010,Lock,73,65,6,2,20,4,Palmerston North,NewZealand
+Rene Ranger,NewZealand,2010,Centre,6,6,0,0,5,1,Whangarei,NewZealand
+Alby Mathewson,NewZealand,2010,Scrum-half,4,3,1,0,0,0,Hastings,NewZealand
+Colin Slade,NewZealand,2010,Fly-half,21,19,2,0,78,3,Christchurch,NewZealand
+Sonny Bill Williams,NewZealand,2010,Centre,33,31,2,0,45,9,Auckland,NewZealand
+Hika Elliot,NewZealand,2010,Hooker,4,4,0,0,0,0,Hastings,NewZealand
+Jarrad Hoeata,NewZealand,2011,Lock,3,2,1,0,0,0,Tauranga,NewZealand
+Brodie Retallick,NewZealand,2012,Lock,47,43,2,2,10,2,Rangiora,NewZealand
+Julian Savea,NewZealand,2012,Wing,41,37,3,1,190,38,Wellington,NewZealand
+Aaron Smith,NewZealand,2012,Scrum-half,47,42,3,2,62,12,Palmerston North,NewZealand
+Sam Cane,NewZealand,2012,Flanker,31,29,1,1,50,10,Rotorua,NewZealand
+Luke Romano,NewZealand,2012,Lock,22,19,2,1,5,1,Nelson,NewZealand
+Beauden Barrett,NewZealand,2012,Fly-half,36,33,2,1,145,9,New Plymouth,NewZealand
+Charlie Faumuina,NewZealand,2012,Prop,33,30,2,1,5,1,Auckland,NewZealand
+Dane Coles,NewZealand,2012,Hooker,36,32,3,1,25,5,Paraparaumu,NewZealand
+Tawera Kerr-Barlow,NewZealand,2012,Scrum-half,20,19,1,0,10,2,Australia,Australia
+Ben Afeaki,NewZealand,2013,Prop,1,1,0,0,0,0,Auckland,NewZealand
+Jeremy Thrush,NewZealand,2013,Lock,12,11,1,0,10,2,Wellington,NewZealand
+Steven Luatua,NewZealand,2013,Flanker,14,13,1,0,5,1,Auckland,NewZealand
+Charles Piutau,NewZealand,2013,Utility back,17,17,0,0,25,5,Auckland,NewZealand
+Matt Todd,NewZealand,2013,Flanker,3,3,0,0,0,0,Christchurch,NewZealand
+Ryan Crotty,NewZealand,2013,Centre,15,13,1,1,5,1,Nelson,NewZealand
+Tom Taylor,NewZealand,2013,Fly-half,3,3,0,0,14,0,Christchurch,NewZealand
+Francis Saili,NewZealand,2013,Centre,2,2,0,0,0,0,Auckland,NewZealand
+Dominic Bird,NewZealand,2013,Lock,2,2,0,0,0,0,Waipukurau,NewZealand
+Frank Halai,NewZealand,2013,Wing,1,1,0,0,5,1,Tonga,Tonga
+Jeff Toomaga-Allen,NewZealand,2013,Prop,1,1,0,0,0,0,Wellington,NewZealand
+Luke Whitelock,NewZealand,2013,Back-row,1,1,0,0,0,0,Palmerston North,NewZealand
+Malakai Fekitoa,NewZealand,2014,Centre,13,10,2,1,20,4,Ha'apai,Tonga
+TJ Perenara,NewZealand,2014,Scrum-half,17,16,1,0,5,1,Porirua,NewZealand
+Patrick Tuipulotu,NewZealand,2014,Lock,7,7,0,0,5,1,Auckland,NewZealand
+Joe Moody,NewZealand,2014,Prop,11,9,1,1,5,1,Christchurch,NewZealand
+Nathan Harris,NewZealand,2014,Hooker,2,2,0,0,5,1,Tauranga,NewZealand
+Augustine Pulu,NewZealand,2014,Scrum-half,2,2,0,0,0,0,S Auckland,NewZealand
+James Parsons,NewZealand,2014,Hooker,1,1,0,0,0,0,Auckland,NewZealand
+George Moala,NewZealand,2015,Wing,1,1,0,0,5,1,Auckland,NewZealand
+Nepo Laulala,NewZealand,2015,Prop,4,3,1,0,0,0,Fagaalu,USA
+Charlie Ngatai,NewZealand,2015,Centre,1,1,0,0,0,0,Gisborne,NewZealand
+Brad Weber,NewZealand,2015,Scrum-half,1,1,0,0,0,0,Napier,NewZealand
+Waisake Naholo,NewZealand,2015,Wing,3,3,0,0,5,1,Sigatoka,Fiji
+Codie Taylor,NewZealand,2015,Hooker,4,3,1,0,10,2,Levin,NewZealand
+James Broadhurst,NewZealand,2015,Lock,1,1,0,0,0,0,Kaitaia,NewZealand
+Lima Sopoaga,NewZealand,2015,Fly-half,1,1,0,0,12,0,Wellington,NewZealand
+Nehe Milner-Skudder,NewZealand,2015,Fullback,8,7,1,0,40,8,Taihape,NewZealand
