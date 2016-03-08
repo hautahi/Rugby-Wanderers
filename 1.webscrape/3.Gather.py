@@ -12,6 +12,8 @@ print "Code is Working..."
 
 import cPickle
 import csv
+import pandas as pd
+import numpy as np
 
 storage =  "./data/"
 
@@ -78,7 +80,6 @@ def extract_birthyear(BIRTH):
 
 	return birth_year
 
-
 def extract_debutyear(DEBUT):
 
     # Separate each string using the comma separator
@@ -96,12 +97,33 @@ def extract_debutyear(DEBUT):
 
     return debut_year
 
+def stat_extract(STATS,string):    
+    MAT=[]
+    for i in range(len(STATS)):
+        mat=STATS[i].get(string)
+        MAT.append(mat)
+    return MAT
+
+def extract_birth_country(mat,i):
+    temp = []
+    for row in mat:
+        if len(row)>i:
+            x = row[-i-1]
+            x=x.strip()
+        else:
+            x = "Missing"
+        temp.append(x)
+    return temp
+
 # Allow user to call the above function using an import command
 if __name__ == "__main__":
 	pass
 
+#-------------------------------------------------------------#
+# 3. Gather data for each country
+#-------------------------------------------------------------#
 
-# Loop over each country
+df=pd.DataFrame([])
 for country in COUNTRY:
 
 	print country
@@ -120,9 +142,6 @@ for country in COUNTRY:
 	Birth_Month = extract_birthmonth(BIRTH)
 	Birth_Year = extract_birthyear(BIRTH)
 
-#-------------------------------------------------------------#
-# 3. Split country strings
-#-------------------------------------------------------------#
 
 	# Take the first country as most likely (For each player, COUNTRY_STRINGS contains a number of different posibilities)
 	likely_country = []
@@ -142,83 +161,43 @@ for country in COUNTRY:
 			x = "Missing"
 		odie.append(x)
 
-	# Extract the string after the last comma and strip any spaces
-	birth_country = []
-	for row in odie:
-			if len(row)>0:
-				x = row[-1]
-				x = x.strip()
-			else:
-				x="Missing"
-			birth_country.append(x)
+	# Extract country strings into more meaningful format
+	birth_country = extract_birth_country(odie,0)
+	birth_country1 = extract_birth_country(odie,1)
+	birth_country2 = extract_birth_country(odie,2)
+	birth_country3 = extract_birth_country(odie,3)
+	birth_country = ['NA' if x is None else x.encode('utf-8') for x in birth_country]
+	birth_country1 = ['NA' if x is None else x.encode('utf-8') for x in birth_country1]
+	birth_country2 = ['NA' if x is None else x.encode('utf-8') for x in birth_country2]
+	birth_country3 = ['NA' if x is None else x.encode('utf-8') for x in birth_country3]
 
-	# Extract the string before the last comma and strip any spaces (use this to differentiate between the UK countries)
-	birth_country1 = []
-	for row in odie:
-		if len(row)>1:
-			x = row[-2]
-			x=x.strip()
-		else:
-			x = "Missing"
-		birth_country1.append(x)
+	# Create a column indicating the team
+	country_col=[]
+	for i in range(len(NAMES)):
+			country_col.append(country)
 
-	# Do the same for next comma, because formatting sometimes places UK country here, for example. 
-	birth_country2 = []
-	for row in odie:
-		if len(row)>2:
-			x = row[-3]
-			x=x.strip()
-		else:
-			x = "Missing"
-		birth_country2.append(x)
+	# Gather all data points into a dataframe    
+	d = {'Name' : NAMES,'Debut' : debut_year,'Position':POSITION,'Matches':stat_extract(STATS,'Mat'),
+	 'Wins':stat_extract(STATS,'Won'),'Losses':stat_extract(STATS,'Lost'),'Draws':stat_extract(STATS,'Draw'),
+	 'Tries':stat_extract(STATS,'Tries'),'City':Birth_City, 'Points':stat_extract(STATS,'Pts'),
+	'BirthMonth':Birth_Month, 'BirthYear':Birth_Year,"City":Birth_City,'Team':country_col,
+	'Bcountry':birth_country,'Bcountry1':birth_country1,'Bcountry2':birth_country2,'Bcountry3':birth_country3}
+	df_country = pd.DataFrame(d)
+	df_country[df_country.isnull()] = np.nan
 
-	# Do the same for next comma, just in case
-	birth_country3 = []
-	for row in odie:
-		if len(row)>3:
-			x = row[-4]
-			x=x.strip()
-		else:
-			x = "Missing"
-		birth_country3.append(x)
+	df = df.append(df_country)
 		
 #-------------------------------------------------------------#
-# 4. Combine data
+# 4. Finalize data
 #-------------------------------------------------------------#
 
-# Country Specific
-	BIG_MAT = []
-	for i in range(len(COUNTRY_STRINGS)):
-		y =	[NAMES[i], str(debut_year[i]), str(POSITION[i]), STATS[i].get('Mat'), STATS[i].get('Won'), STATS[i].get('Lost'),STATS[i].get('Draw'), STATS[i].get('Tries'), STATS[i].get('Pts'), Birth_City[i].encode('utf8'), birth_country[i], birth_country1[i], birth_country2[i], birth_country3[i],str(Birth_Month[i]),str(Birth_Year[i])]
-		BIG_MAT.append(y)
+# Convert relevant numeric variables from string objects
+df['Matches']=pd.to_numeric(df['Matches'])
+df['Wins']=pd.to_numeric(df['Wins'])
+df['Losses']=pd.to_numeric(df['Losses'])
+df['Draws']=pd.to_numeric(df['Draws'])
+df['Tries']=pd.to_numeric(df['Tries'])
+df['Points']=pd.to_numeric(df['Points'])
 
-	HI=[]
-	for i in range(len(BIG_MAT)):
-		current = ['NA' if x is None else x.encode('utf-8') for x in BIG_MAT[i]]
-		HI.append(current)
-
-#-------------------------------------------------------------#
-# 4. Save
-#-------------------------------------------------------------#
-
-# Add column of country name
-FINAL=[]
-for country in COUNTRY:
-
-	print country
-
-	for row in BIG_MAT:
-		x = row+[country]
-		FINAL.append(x)
-
-# Format character encoding
-FINAL_FORMAT=[]
-for i in range(len(FINAL)):
-	current = ['NA' if x is None else x.encode('utf-8') for x in FINAL[i]]
-	FINAL_FORMAT.append(current)
-
-# Save to csv
-f = open("complete.csv",'w+')
-wr = csv.writer(f, dialect='excel')
-wr.writerows(FINAL_FORMAT)
-f.close()
+# Save
+df.to_csv('scraped_data.csv',index=False)
