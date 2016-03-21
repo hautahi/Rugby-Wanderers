@@ -1,7 +1,7 @@
 # Rugby-Wanderers
 
 # Introduction
-An ongoing and often heated debate among the rugby public and media concerns the extent to which international rugby teams "poach" players from other countries. The data contained in this repository is an attempt to provide further empirical rigor to the discussion by allowing cross-country comparisons of migrant rugby players. You can read about the results [here](http://hautahi.github.io/rugby).
+An ongoing and often heated debate among the rugby public and media concerns the extent to which international rugby teams "poach" players from other countries. The data contained in this repository is an attempt to provide empirical rigor to the discussion. You can read about the results in more detail [here](http://hautahi.github.io/rugby).
 
 ## Contents
 * Dataset is [`1.main_data.csv`](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/1.main_data.csv). It contains the names, playing statistics and birthplaces for every person to have played test match rugby for the major nations.
