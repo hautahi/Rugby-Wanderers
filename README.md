@@ -1,9 +1,7 @@
 # Rugby-Wanderers
 
 # Introduction
-An ongoing and often heated debate among the rugby public and media concerns the extent to which international rugby teams "poach" players from other countries. The poaching allegations have largely relied on casual observations and anecdotes rather than any attempt to look at the evidence. The [New Zealand Herald](http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=11278276) provided a notable exception by compiling a dataset of the birthplace of every All Black.
-
-The data contained in this repository is an attempt to provide further empirical rigor to the discussion by allowing cross-country comparisons of migrant rugby players.
+An ongoing and often heated debate among the rugby public and media concerns the extent to which international rugby teams "poach" players from other countries. The data contained in this repository is an attempt to provide further empirical rigor to the discussion by allowing cross-country comparisons of migrant rugby players. You can read about the results [here](http://hautahi.github.io/rugby).
 
 ## Contents
 * Dataset is `final_data.csv`. It contains the names, playing statistics and birthplaces for every person to have played test match rugby for the major nations.
