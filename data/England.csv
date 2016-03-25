@@ -67,7 +67,7 @@ Lennard Stokes,England,1875,Three-quarters,12,8,1,3,NA,0,Greenwich,England
 Louis Birkett,England,1875,Fullback,3,1,1,1,NA,0,St Saviour,Jersey
 Wyndham Evanson,England,1875,Halfback,5,1,1,3,NA,1,Llansoy,Wales
 Josiah Paul,England,1875,Forward,1,0,0,1,NA,0,Glos,France
-Jeaffreson Brewer,England,1875,Forward,1,1,0,0,NA,0,Ebbw Vale,United Kingdom
+Jeaffreson Brewer,England,1875,Forward,1,1,0,0,NA,0,Ebbw Vale,Wales
 Charles Bryden,England,1875,Forward,2,1,1,0,NA,0,Banbury,England
 Mark Bulteel,England,1875,Forward,1,1,0,0,NA,0,Liverpool,England
 Charles Clark,England,1875,Halfback,1,1,0,0,NA,1,W Derby,England
@@ -135,7 +135,7 @@ Walter Hewitt,England,1881,Forward,4,2,0,2,NA,0,Kent,England
 John Ravenscroft,England,1881,Forward,1,1,0,0,NA,0,Wirral,England
 Ryder Richardson,England,1881,Halfback,1,1,0,0,NA,0,Chorlton,England
 James Ward,England,1881,Forward,2,1,0,1,NA,0,Staines,England
-Harry Vassall,England,1881,Forward,5,2,1,2,NA,3,Tadcaster,United Kingdom
+Harry Vassall,England,1881,Forward,5,2,1,2,NA,3,Tadcaster,England
 Charles Wilson,England,1881,Forward,1,1,0,0,NA,0,Norfolk,England
 Frank Wright,England,1881,Halfback,1,0,0,1,NA,0,Leigh,England
 Teddy Beswick,England,1882,Three-quarters,2,0,1,1,NA,0,Penrith,England
@@ -222,7 +222,7 @@ Jack Toothill,England,1890,Forward,12,9,3,0,1,1,Bradford,England
 William Spence,England,1890,Halfback,1,1,0,0,0,0,Cheshire,England
 Frederick Alderson,England,1891,Three-quarters,6,4,2,0,11,1,Nthumberlnd,England
 John Berry,England,1891,Halfback,3,2,1,0,0,0,Fellside,England
-William Bromet,England,1891,Forward,15,11,4,0,2,1,Tadcaster,United Kingdom
+William Bromet,England,1891,Forward,15,11,4,0,2,1,Tadcaster,England
 Percy Christopherson,England,1891,Three-quarters,2,1,1,0,2,2,Blackheath,England
 Tom Kent,England,1891,Forward,6,5,1,0,0,0,Nottingham,England
 William Leake,England,1891,Halfback,3,2,1,0,0,0,Ceylon,SriLanka
@@ -525,7 +525,7 @@ William Hynes,England,1912,Lock,1,1,0,0,0,0,Portsea,England
 Maurice Neale,England,1910,Wing,4,2,2,0,3,1,Thornbury,England
 William Cheesman,England,1913,Scrum-half,4,3,1,0,0,0,Pancras,USA
 Vincent Coates,England,1913,Wing,5,4,1,0,18,6,Edinburgh,Scotland
-Dave Davies,England,1913,Fly-half,22,20,1,1,24,4,Pembroke,Bermuda
+Dave Davies,England,1913,Fly-half,22,20,1,1,24,4,Pembroke,Wales
 Cyril Lowe,England,1913,Wing,25,21,3,1,58,18,Lincs,Wales
 Sidney Smart,England,1913,No. 8,12,10,2,0,0,0,Gloucester,England
 Francis Steinthal,England,1913,Centre,2,2,0,0,0,0,Bradford,England
@@ -534,7 +534,7 @@ Arthur Dingle,England,1913,Wing,3,3,0,0,0,0,Durhm,
 Alfred Kitching,England,1913,Lock,1,1,0,0,0,0,Scarborough,England
 Francis Oakeley,England,1913,Scrum-half,4,4,0,0,0,0,Hereford,England
 Joseph Brunton,England,1914,Lock,3,3,0,0,0,0,Tynemouth,England
-Arthur Bull,England,1914,Prop,1,1,0,0,0,0,Newport Pagnell,England
+Arthur Bull,England,1914,Prop,1,1,0,0,0,0,Newport Pagnell,Wales
 Alfred Maynard,England,1914,Hooker,3,3,0,0,0,0,Kent,England
 Tim Taylor,England,1914,Fly-half,1,1,0,0,0,0,Leicester,England
 Bungy Watson,England,1914,Centre,3,3,0,0,3,1,Southsea,England
@@ -546,26 +546,26 @@ Alexander Sykes,England,1914,Forward,1,1,0,0,0,0,Birkenhead,England
 Barry Cumberlege,England,1920,Fullback,8,6,2,0,2,0,Newcastle-upon-Tyne,England
 Harold Day,England,1920,Wing,4,0,3,1,16,2,Darjeeling,India
 George Halford,England,1920,Lock,2,1,1,0,0,0,Gloucester,England
-Ernest Hammett,England,1920,Centre,8,6,2,0,12,0,Radstock,United Kingdom
+Ernest Hammett,England,1920,Centre,8,6,2,0,12,0,Radstock,Fiji
 Cecil Kershaw,England,1920,Scrum-half,16,13,2,1,6,2,Dhaka,Bangladesh
 Jannie Krige,England,1920,Centre,1,0,1,0,0,0,Caledon,SouthAfrica
 Frank Mellish,England,1920,Flanker,12,8,2,2,3,1,Rondebosch,SouthAfrica
-Laurence Merriam,England,1920,Lock,2,1,1,0,0,0,Islington,United Kingdom
+Laurence Merriam,England,1920,Lock,2,1,1,0,0,0,Islington,England
 James Morgan,England,1920,Hooker,1,0,1,0,0,0,Cockermouth?,England
 Wavell Wakefield,England,1920,Flanker,31,20,8,3,18,6,Beckenham,England
 Jock Wright,England,1920,Prop,2,1,1,0,0,0,Plymouth,England
-Geoffrey Conway,England,1920,No. 8,18,15,2,1,25,1,Cardiff,United Kingdom
+Geoffrey Conway,England,1920,No. 8,18,15,2,1,25,1,Cardiff,Wales
 Wilfrid Lowry,England,1920,Wing,1,1,0,0,0,0,Birkenhead,England
-Harry Millett,England,1920,Fullback,1,1,0,0,0,0,Islington,United Kingdom
+Harry Millett,England,1920,Fullback,1,1,0,0,0,0,Islington,England
 Alastair Smallwood,England,1920,Wing,14,12,1,1,25,7,Alloa,Scotland
 Sos Taylor,England,1920,Prop,2,2,0,0,0,0,Leicester,England
 Stan Harris,England,1920,Wing,4,2,1,1,6,2,Somerset East,SouthAfrica
 Edward Myers,England,1920,Centre,18,15,2,1,13,3,United States,USA
 Tom Voyce,England,1920,Flanker,29,19,6,4,21,6,Gloucester,England
 Freddie Blakiston,England,1920,Flanker,21,13,6,2,9,3,W Derby,England
-Tom Woods,England,1920,Forward,5,5,0,0,3,1,Pontypool,United Kingdom
-Reg Edwards,England,1921,Prop,11,8,2,1,3,1,Newport,United Kingdom
-Ernest Gardner,England,1921,Hooker,10,8,1,1,3,1,Cardiff,United Kingdom
+Tom Woods,England,1920,Forward,5,5,0,0,3,1,Pontypool,Wales
+Reg Edwards,England,1921,Prop,11,8,2,1,3,1,Newport,Wales
+Ernest Gardner,England,1921,Hooker,10,8,1,1,3,1,Cardiff,Wales
 Ron Cove-Smith,England,1921,Lock,33,22,8,3,3,1,Edmonton,Canada
 Quentin King,England,1921,Wing,1,1,0,0,3,1,Bedford,England
 Len Corbett,England,1921,Centre,16,11,4,1,15,3,Bristol,England
@@ -587,7 +587,7 @@ Harold Locke,England,1923,Centre,12,9,2,1,3,1,Birkenhead,England
 Carston Catcheside,England,1924,Wing,8,5,2,1,18,6,Sunderland,England
 Bunny Chantrill,England,1924,Fullback,4,4,0,0,0,0,Barton Regis,England
 Jake Jacob,England,1924,Wing,5,5,0,0,12,4,Elham,England
-Alan Robson,England,1924,Hooker,5,4,0,1,0,0,Lanark,United Kingdom
+Alan Robson,England,1924,Hooker,5,4,0,1,0,0,Lanark,Scotland
 Arthur Young,England,1924,Scrum-half,19,12,7,0,6,2,Darjeeling,India
 Chubby Faithfull,England,1924,Prop,3,2,1,0,0,0,Fareham,United Kingdom
 Richard Hamilton-Wickes,England,1924,Wing,10,4,4,2,12,4,Uxbridge,England
@@ -609,7 +609,7 @@ Bob Hanvey,England,1926,Prop,4,1,2,1,0,0,Wigton,England
 Edward Stanbury,England,1926,Flanker,16,9,6,1,13,0,Devon,England
 John Worton,England,1926,Scrum-half,2,1,0,1,0,0,Fulham,England
 Thomas Devitt,England,1926,Wing,4,3,1,0,0,0,Surrey,England
-Leslie Haslett,England,1926,Lock,2,1,1,0,3,1,Pontypool,United Kingdom
+Leslie Haslett,England,1926,Lock,2,1,1,0,3,1,Pontypool,Wales
 Bill Tucker,England,1926,No. 8,3,1,2,0,0,0,Hamilton,Bermuda
 James Webb,England,1926,No. 8,3,1,2,0,3,1,Northampton,England
 Thomas Coulson,England,1927,No. 8,3,3,0,0,0,0,Bristol,England
@@ -794,7 +794,7 @@ Edward Horsfall,England,1949,Flanker,1,0,1,0,0,0,Huddersfield,England
 Geoffrey Hosking,England,1949,Lock,5,2,3,0,3,1,St Thomas,USA
 Gordon Rimmer,England,1949,Scrum-half,13,3,10,0,0,0,Southport,England
 Clive van Ryneveld,England,1949,Centre,4,2,2,0,9,3,Cape Town,SouthAfrica
-John Kendall-Carpenter,England,1949,No. 8,23,12,10,1,3,1,Cardiff,United Kingdom
+John Kendall-Carpenter,England,1949,No. 8,23,12,10,1,3,1,Cardiff,Wales
 Robert Kennedy,England,1949,Wing,3,2,1,0,3,1,Rhodesia,Zimbabwe
 John Matthews,England,1949,Lock,10,6,4,0,0,0,Hastings,England
 John Steeds,England,1949,Hooker,5,3,2,0,0,0,Edmonton,Canada
@@ -813,12 +813,12 @@ Jasper Bartlett,England,1951,Lock,1,0,1,0,0,0,Birmingham,England
 Ted Hewitt,England,1951,Fullback,3,0,3,0,2,0,Coventry,England
 Philip Moore,England,1951,No. 8,1,0,1,0,0,0,,
 Lionel Oakley,England,1951,Centre,1,0,1,0,0,0,Dacca,বাংলাদেশ
-George Rittson-Thomas,England,1951,Flanker,3,0,3,0,3,1,Cardiff,United Kingdom
+George Rittson-Thomas,England,1951,Flanker,3,0,3,0,3,1,Cardiff,Wales
 Trevor Smith,England,1951,Hooker,1,0,1,0,0,0,Bedford,England
 Bob Stirling,England,1951,Prop,18,10,7,1,3,1,Lichfield,England
 Vic Tindall,England,1951,Wing,4,1,3,0,0,0,Kingsclere,England
 Squire Wilkins,England,1951,Lock,13,7,5,1,0,0,Leeds,England
-Peter Woodruff,England,1951,Wing,4,1,3,0,0,0,Newport,United Kingdom
+Peter Woodruff,England,1951,Wing,4,1,3,0,0,0,Newport,Wales
 Evan Hardy,England,1951,Fly-half,3,1,2,0,0,0,Meerut,India
 Bruce Neale,England,1951,Lock,3,1,2,0,0,0,Chelsea,England
 John Williams,England,1951,Centre,2,1,1,0,0,0,Penzance,United Kingdom
@@ -933,7 +933,7 @@ Ted Rudd,England,1965,Wing,6,0,4,2,0,0,Liverpool,England
 Nicholas Silk,England,1965,Flanker,4,1,2,1,0,0,Lewes,England
 Colin Simpson,England,1965,Wing,1,0,1,0,0,0,Ipswich,England
 Peter Cook,England,1965,Wing,2,1,1,0,0,0,High Wycombe,England
-Andy Hancock,England,1965,Wing,3,1,1,1,3,1,Dartford,United Kingdom
+Andy Hancock,England,1965,Wing,3,1,1,1,3,1,Dartford,England
 Terence Arthur,England,1966,Centre,2,0,1,1,0,0,Hartlepool,England
 Piggy Powell,England,1966,Prop,11,3,6,2,0,0,Rugby,England
 John Pullin,England,1966,Hooker,49,15,28,6,3,1,Thornbury,England
@@ -1076,7 +1076,7 @@ Nick Stringer,England,1982,Fullback,5,3,2,0,0,0,Harrow,England
 Jim Syddall,England,1982,Lock,2,0,2,0,0,0,Barton,England
 Steve Bainbridge,England,1982,"Lock, No. 8",20,7,12,1,0,0,Newcastle-upon-Tyne,England
 Stephen Boyle,England,1983,Lock,3,0,2,1,0,0,Warrington,England
-David Trick,England,1983,Wing,2,0,2,0,0,0,Dartford,United Kingdom
+David Trick,England,1983,Wing,2,0,2,0,0,0,Dartford,England
 Nick Youngs,England,1983,Scrum-half,6,2,4,0,0,0,Norfolk,England
 Paul Simpson,England,1983,Flanker,3,1,2,0,0,0,Leeds,England
 Colin White,England,1983,Prop,4,2,2,0,0,0,Newcastle-upon-Tyne,England
@@ -1097,7 +1097,7 @@ Stuart Barnes,England,1984,Fly-half,10,3,7,0,34,0,Essex,England
 Gareth Chilcott,England,1984,Prop,14,8,6,0,0,0,Bristol,England
 Rob Lozowski,England,1984,Centre,1,0,1,0,0,0,Ealing,England
 Nigel Melville,England,1984,Scrum-half,13,4,9,0,0,0,Leeds,England
-Nigel Redman,England,1984,Lock,20,12,8,0,4,1,Cardiff,United Kingdom
+Nigel Redman,England,1984,Lock,20,12,8,0,4,1,Cardiff,Wales
 Rob Andrew,England,1985,Fly-half,76,53,21,2,407,2,Yorks,England
 Wade Dooley,England,1985,Lock,57,35,20,2,12,3,Warrington,England
 Richard Harding,England,1985,Scrum-half,12,7,4,1,4,1,Bristol,England
@@ -1214,7 +1214,7 @@ Barrie-Jon Mather,England,1999,Centre,1,0,1,0,0,0,Wigan,England
 Trevor Woodman,England,1999,Prop,22,18,4,0,0,0,Plymouth,England
 Joe Worsley,England,1999,Back-row,79,48,30,1,50,10,"Redbridge, London",England
 Ben Cohen,England,2000,Wing,57,40,17,0,155,31,Northampton,England
-Mike Tindall,England,2000,Centre,75,51,24,0,74,14,Otley,United Kingdom
+Mike Tindall,England,2000,Centre,75,51,24,0,74,14,Otley,England
 Iain Balshaw,England,2000,Fullback,38,25,13,0,65,13,Blackburn,England
 Julian White,England,2000,Prop,55,29,25,1,0,0,Plymouth,England
 David Flatman,England,2000,Prop,8,7,1,0,0,0,Maidstone,England
@@ -1241,7 +1241,7 @@ Geoff Appleford,England,2002,Centre,1,1,0,0,0,0,Dundee,Scotland
 Phil Christophers,England,2002,Centre,3,3,0,0,5,1,Heidelberg,Germany
 Alex Codling,England,2002,Lock,1,1,0,0,0,0,Lewisham,England
 Michael Horak,England,2002,Fullback,1,1,0,0,0,0,Johannesburg,SouthAfrica
-Ben Johnston,England,2002,Centre,2,2,0,0,0,0,Clatterbridge,United Kingdom
+Ben Johnston,England,2002,Centre,2,2,0,0,0,0,Clatterbridge,England
 James Simpson-Daniel,England,2002,Wing,10,7,3,0,15,3,Stockton-on-Tees,England
 Robbie Morris,England,2003,Prop,2,2,0,0,0,0,Hertford,England
 Ollie Smith,England,2003,Centre,6,4,1,1,5,1,Leicester,England
@@ -1251,7 +1251,7 @@ Dan Scarbrough,England,2003,Fullback,2,1,1,0,5,1,Bingley,England
 Chris Jones,England,2004,Lock,12,4,8,0,5,1,Manchester,England
 Matt Stevens,England,2004,Prop,44,24,20,0,0,0,Durban,SouthAfrica
 Michael Lipman,England,2004,Flanker,10,4,6,0,0,0,London,England
-Andy Titterrell,England,2004,Hooker,5,3,2,0,0,0,Dartford,United Kingdom
+Andy Titterrell,England,2004,Hooker,5,3,2,0,0,0,Dartford,England
 Tim Payne,England,2004,Prop,22,7,14,1,0,0,Swindon,England
 Mark Cueto,England,2004,Wing,56,29,26,1,100,20,Workington,England
 Andy Hazell,England,2004,Back-row,7,4,3,0,5,1,Gloucester,England
@@ -1305,7 +1305,7 @@ Jason Hobson,England,2008,Prop,1,0,1,0,0,0,Swansea,Wales
 Delon Armitage,England,2008,Fullback,26,16,9,1,44,7,Trinidad,Trinidad
 Riki Flutey,England,2008,Centre,15,7,7,1,20,4,Featherston,NewZealand
 Nick Kennedy,England,2008,Lock,7,4,3,0,5,1,Southampton,England
-Ugo Monye,England,2008,Wing,16,8,7,1,15,3,Islington,United Kingdom
+Ugo Monye,England,2008,Wing,16,8,7,1,15,3,Islington,England
 Dylan Hartley,England,2008,Hooker,69,42,25,2,5,1,Rotorua,NewZealand
 Jordan Crane,England,2008,Back-row,3,1,2,0,0,0,Bromsgrove,England
 Steffon Armitage,England,2009,Back-row,5,4,1,0,0,0,Trinidad,Trinidad
