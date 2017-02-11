@@ -24,11 +24,10 @@ import cPickle
 storage =  "./data/"
 BASE_URL = "http://www.espnscrum.com"
 
-COUNTRY = ["England", "Scotland", "Ireland", "Wales", "SouthAfrica","Australia", "NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan","Canada","USA"]
+#COUNTRY = ["England", "Scotland", "Ireland", "Wales", "SouthAfrica","Australia", "NewZealand", "France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan","Canada","USA"]
+COUNTRY = ["France", "Argentina", "Italy","Samoa","Tonga","Fiji","Japan","Canada","USA"]
 
-TEAM_URL = ["/england/rugby/player/caps.html?team=1", "/scotland/rugby/player/caps.html?team=2",    "/ireland/rugby/player/caps.html?team=3",
-           "/wales/rugby/player/caps.html?team=4",   "/southafrica/rugby/player/caps.html?team=5", "/australia/rugby/player/caps.html?team=6",
-           "/newzealand/rugby/player/caps.html?team=8", "/france/rugby/player/caps.html?team=9",  "/argentina/rugby/player/caps.html?team=10",
+TEAM_URL = ["/france/rugby/player/caps.html?team=9",  "/argentina/rugby/player/caps.html?team=10",
            "/italy/rugby/player/caps.html?team=20","/other/rugby/player/caps.html?team=15", "/other/rugby/player/caps.html?team=16",
            "/other/rugby/player/caps.html?team=14","/other/rugby/player/caps.html?team=23", "/other/rugby/player/caps.html?team=25","/other/rugby/player/caps.html?team=11"]
 

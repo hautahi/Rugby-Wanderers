@@ -36,7 +36,7 @@ COUNTRY <- dic$X2
 names(COUNTRY) <- dic$X1
 
 # Create a new variable that combines all country info
-d$countrylong <- paste(d$Bcountry,d$Bcountry1,d$country2,d$country3,sep=" ")
+d$countrylong <- paste(d$Bcountry,d$Bcountry1,d$Bcountry2,d$Bcountry3,sep=" ")
 
 # Search for each of the country names within the big geography string, then assign
 d$born <- d$Bcountry
@@ -49,6 +49,8 @@ d$born[d$born=="日本"] = "Japan"
 d$born[d$born=="대한민국"] = "Korea"
 d$born[d$born=="中華民國"]="Taiwan"
 d$born[d$born=="България"]="Bulgaria"
+d$born[d$born=="Österreich"]="Austria"
+
 #-------------------------------------------------------------#
 # Manually assign countries according to city name
 #-------------------------------------------------------------#
@@ -101,7 +103,7 @@ for (i in 1:length(COUNTRY)){
 # Tidy up Dataset
 #-------------------------------------------------------------#
 
-main <- d %>% select(Name,Team,Debut,Matches,Wins,Losses,Draws,Points,Tries,
+main <- d %>% select(Name,Team,Debut,Position,Matches,Wins,Losses,Draws,Points,Tries,
                          Birthplace=City,Birthcountry=born)
 
 #-------------------------------------------------------------#

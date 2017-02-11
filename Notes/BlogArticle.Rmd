@@ -1,0 +1,191 @@
+---
+output:
+  html_document:
+    fig_height: 3
+    fig_width: 7
+---
+
+```{r echo=FALSE}
+knitr::read_chunk('blog_code.R')
+```
+
+```{r first, cache=FALSE, echo=FALSE, results='hide', message = FALSE,warning=FALSE}
+<<main>>
+```
+
+```{r cache=FALSE, echo=FALSE,include=FALSE}
+options(scipen=1,digits = 1)
+```
+
+```{r cache=FALSE, echo=FALSE,include=FALSE}
+player1 <- "Ronan O'Gara"
+```
+
+<br>
+Rugby has faced many controversies and alleged conspiracies. Was rugby [complicit](https://en.wikipedia.org/wiki/1981_South_Africa_rugby_union_tour) in [apartheid](http://www.teara.govt.nz/en/photograph/26666/all-white-all-blacks-1928)? Whatever happened to [Keith Murdoch](http://www.smh.com.au/rugby-union/union-news/the-murdoch-myth-all-blacks-legend-lives-life-of-a-recluse-after-infamous-punch-20111020-1mb2p.html)? Did [Suzie the waitress](https://en.wikipedia.org/wiki/1995_Rugby_World_Cup_Final) really stoop so low?  One ongoing controversy concerns the extent to which international rugby teams "poach" players from other countries. Most of the heat is usually directed toward New Zealand, who are accused of being particularly predatory in their foreign recruitment.^[Here are a few examples: [1](http://www.telegraph.co.uk/sport/rugbyunion/2361788/Ruthless-All-Blacks-harvest-fertile-Island-talent.html), [2](http://www.dailymail.co.uk/sport/rugbyunion/article-2612324/All-Blacks-remember-players-theyve-poached-Pacific-Islands.html), [3](http://www.thesundaytimes.co.uk/sto/sport/article137252.ece), [4](http://www.telegraph.co.uk/sport/rugbyunion/international/newzealand/11113937/New-Zealand-owe-a-debt-to-Samoa-that-can-only-be-repaid-with-a-full-touring-party-for-long-overdue-first-Test-visit.html), [5](http://www.theroar.com.au/2012/10/31/the-problem-with-eligibility-in-international-rugby/), [6](http://www.stuff.co.nz/sport/rugby/opinion/10132272/Gifford-Home-truths-about-Pasifika-poaching), [7](http://www.stuff.co.nz/13313/All-Blacks-accused-of-Pacific-pillage-again), and [8](http://www.thesundaytimes.co.uk/sto/sport/article137252.ece).] Until now, this debate among the international rugby public and media has largely relied on casual observations and anecdotes rather than evidence.^[The [New Zealand Herald](http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=11278276) provided a notable exception by compiling a dataset of the birthplace of every [All Black](https://en.wikipedia.org/wiki/New_Zealand_national_rugby_union_team) prior to 2014.]
+
+To bring sanity to the discussion,  I constructed a dataset of the birth place and playing statistics of every international rugby player to have played for the major test nations.^[I scraped the majority of my data from the superb [ESPNscrum](http://www.espnscrum.com) website, which lists statistics for every person to have played a test-match for the major rugby nations. As well as statistics like matches played, points and tries scored, there is also birth information for the majority of players. However, the birthplace information, where available, is limited to the city of birth. I therefore match the birth cities with their respective countries using the [Geopy](https://pypi.python.org/pypi/geopy) geocoding package in Python. This works well for city names that are unique to a particular country, such as [Taumarunui](https://en.wikipedia.org/wiki/Taumarunui). However, in the case of ambiguous city/country pairs, the Geopy package (to the best of my knowledge) returns the city with the highest population, which leads to errors. For example, the Geopy package attributes those players that were born in the town of Hastings, New Zealand as being born in Hastings, England. I therefore also make manual adjustments to the scraped datasets based on my own research. In the case of New Zealand, I use the dataset provided by the [New Zealand Herald](http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=11278276) for players making their test debut prior to 2015.] In the analysis below, I focus on players making their debut in the professional era (post 1996) for the `r length(target)` "major" nations and define a foreign player as someone who was not born in the country for whom they played.^[This definition admittedly has some shortcomings. For example, [`r player1`](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Ireland.csv#L957), who scored `r d$Points[d$Name==player1]` points for `r d$Team[d$Name==player1]`, is considered a foreign born player because he was born in the United States, despite the  fact that few would question his Irish rugby "credentials".] You can find out more about the data and maybe help me fill out a couple missing datapoints [below](#data).
+
+The following table presents an overview of players to debut for each country in the professional era.^[I am missing the birth information for `r fin_df2 %>% filter(Team %in% target) %>% select(MissPlayers) %>% sum()` of these players, and they are not included in this table. `r fin_df2$MissPlayers[fin_df2$Team=="Argentina"]` of the missing players are from Argentina, `r fin_df2$MissPlayers[fin_df2$Team=="Ireland"]` from Ireland and `r fin_df2$MissPlayers[fin_df2$Team=="Italy"]` from Italy.] On average, `r round(mean(FB$TotalPlayers))` players debuted for each country since 1996, which ranged from `r min(FB$TotalPlayers)` for `r FB$Team[which.min(FB$TotalPlayers)]` to `r max(FB$TotalPlayers)` for `r FB$Team[which.max(FB$TotalPlayers)]`.
+
+<br>
+
+<h4>
+<center>
+Player Debuts in the Professional Era (1996 - 2016)
+</center>
+</h4>
+
+<br>
+```{r, results='asis',echo=FALSE,warning=FALSE}
+library(ascii)
+print(ascii(test,include.rownames = TRUE,format='d',
+             align = c("l","c","c","c","c","c","c","c","c","c","c")),type='pandoc')
+```
+
+<br>
+
+
+Much of the debate about player poaching is predicated on the assumption that there has been an increase in the number of foreign born players. The graph below, which presents the number of foreign players making their debut in each year for the 10 major nations, shows that, on the contrary, there is no noticeable trend in the number of foreign players. It has generally fluctuated around an average of `r round(mean(tl$Foreign))` foreign-born debutants per year, with a low of `r min(tl$Foreign)` in `r tl$Debut[which.min(tl$Foreign)]` and a high of `r max(tl$Foreign)` in `r tl$Debut[which.max(tl$Foreign)]`. There were more foreign born players in 2002, for example, than there were in 2015.
+
+<br>
+
+<h4>
+<center>
+Foreign Born Trend
+</center>
+</h4>
+
+<br>
+
+<center>
+```{r, results='asis',echo=FALSE,warning=FALSE}
+tl_g
+```
+</center>
+
+<br>
+
+The graph below shows that `r FB$Team[1]` is the most guilty of poaching. Since 1996, `r FB$"Foreign Born (%)"[1] `% of players making their debut were not born in `r FB$Team[1]`. Next is `r FB$Team[2]` with `r FB$"Foreign Born (%)"[2]`%, Ireland with `r FB$"Foreign Born (%)"[3]`%, Australia with `r FB$"Foreign Born (%)"[4]`% and England with `r FB$"Foreign Born (%)"[5]`%. `r FB$Team[length(target)]` is the least guilty of poaching with just `r FB$"Foreign Born (%)"[length(target)]`% of its players born overseas, followed by `r FB$Team[length(target)-1]` with `r FB$"Foreign Born (%)"[length(target)-1]`%, `r FB$Team[length(target)-2]` with `r FB$"Foreign Born (%)"[length(target)-2]`% and `r FB$Team[length(target)-3]` with `r FB$"Foreign Born (%)"[length(target)-3]`%.
+
+<br>
+
+<h4> 
+<center>
+Foreign Born Players
+</center>
+</h4>
+
+<center>
+```{r,echo=FALSE,warning=FALSE}
+FB_g
+```
+</center>
+
+<br>
+
+```{r,echo=FALSE,warning=FALSE,results='hide'}
+WB <- m1[m1$variable=="Foreign born Population (%)",] %>% arrange(-value)
+```
+
+That no countries are immune to player poaching is not surprising. International migration is a reality of the modern world, and many of the top rugby countries have large foreign born populations. The following graph compares the extent to which the foreign born composition of each rugby side is representative of the general population in that country.^[I use 2010 census data retrieved from the [World Bank Data Bank](http://databank.worldbank.org/data/reports.aspx?source=2&country=ARG&series=&period=#advancedDownloadOptions) (Accessed on 25 March 2016). The dataset is [here](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/WorldBankData/Data.csv) and details of the definitions and sources for each country can be found [here](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/WorldBankData/DefinitionandSource.csv). I do not have separate migration data for the British countries. I therefore use the total United Kingdom figure of `r m1[m1$Team=="England" & m1$variable =="Foreign born Population (%)",3]`% for each of England, Scotland and Wales.] The red bars repeat the foreign born player percentages from the graph above while the blue bars show the percentage of each country’s population that was not born in that country. `r WB$Team[1]` has the highest proportion of its population born overseas, at `r WB$value[1]`%, followed by `r WB$Team[2]` with `r WB$value[2]`% and `r WB$Team[3]` with `r WB$value[3]`%.  By comparing the each country's respective blue and red bars, we see that only New Zealand and Argentina have rugby teams which *under*-represent the foreign-born population. Foreign-born players are *over*-represented for every other country.
+
+<br>
+
+<h4>
+<center>
+Foreign Born Populations vs Foreign Born Players
+</center>
+</h4>
+
+<center>
+```{r, results='asis',echo=FALSE,warning=FALSE}
+popcompare_g
+```
+</center>
+
+<br>
+
+The graph below shows the top 10 "suppliers" of players to the rest of the world. `r Expo$Players[1]` `r Expo$Birthcountry[1]`ers have played for another country. The next largest exporter is `r Expo$Birthcountry[2]` with `r Expo$Players[2]` players. Notable among this list is `r Expo1$Birthcountry[10]`, which has provided `r Expo1$Players[10]` players to the international rugby community, despite not boasting an international rugby side themselves. Notable absences include Scotland, Ireland and Wales, which have provided fewer than 7 players each to other countries, despite having had the services of `r FB$ForeignPlayers[FB$Team=="Ireland"]+FB$ForeignPlayers[FB$Team=="Wales"]+FB$ForeignPlayers[FB$Team=="Scotland"]` foreign born players combined.
+
+<br>
+<h4>
+<center>
+Exports of Foreign Players
+</center>
+</h4>
+
+<center>
+
+<br>
+```{r, results='asis',echo=FALSE,warning=FALSE}
+Expo_g
+```
+</center>
+
+The next table summarises the net contribution of each country to the world rugby stock. The "trade balance" is calculated by subtracting the number of "imported" players from the number of "exported" players. A positive trade balance indicates that a country contributes more players to other countries than it "poaches". Leading the way is `r Trade$Country[1]`, which has provided `r Trade[1,4]` more players to other countries than it has poached. On the other side of the ledger is `r Trade$Country[length(Trade$Country)]`, which has imported `r -Trade$"Trade Balance"[Trade$Country=="Scotland"]` more players than it has exported.
+
+<br>
+
+<h4>
+<center>
+The Trade Balance
+</center>
+</h4>
+
+<br>
+
+<center>
+```{r, results='asis',echo=FALSE,warning=FALSE}
+Trade_g
+```
+</center>
+
+<br>
+
+The final table addresses a common point that is often raised, which is that without imports, some countries would not compete at the same level. While it is true that importing countries get different bang for their buck from their imports, imports tend not to differ too much from their native born teammates.
+
+<br>
+
+<h4>
+<center>
+Player Contributions
+</center>
+</h4>
+
+<br> 
+
+```{r, results='asis',echo=FALSE,warning=FALSE}
+library(ascii)
+print(ascii(cont,include.rownames = F,format='f',digits=c(1),
+             align = c("l","c","c","c","c","c","c","c"),
+            col.width = c(4,1,1,1,1,1,1,1)),type='pandoc')
+```
+
+<br>
+
+<h4 id="data">
+<center>
+Dataset
+</center>
+</h4>
+
+You can scroll through the dataset below, which contains every player from the ten major countries who debuted after 1900. You can download the full dataset [here](https://github.com/hautahi/Rugby-Wanderers/raw/master/data/1.main_data.csv), or you can view each of the individual team datasets at the following links ([Argentina](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Argentina.csv), [England](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/England.csv), [Australia](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Australia.csv), [New Zealand](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/NewZealand.csv), [Scotland](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Scotland.csv), [Ireland](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Ireland.csv), [Wales](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Wales.csv), [South Africa](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/SouthAfrica.csv), [Japan](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Japan.csv), [Samoa](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Samoa.csv), [Fiji](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Fiji.csv), [Tonga](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Tonga.csv),
+[Canada](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Canada.csv), [USA](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/USA.csv), [Italy](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Italy.csv),
+[France](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/France.csv)). The Python and R programs that document both the data scraping and adjustments are available at the [Rugby Wanderers Github Repository](https://github.com/hautahi/Rugby-Wanderers).
+
+<br>
+
+```{r, results='asis',echo=FALSE,warning=FALSE}
+library(DT)
+datatable(han,rownames = FALSE,extensions = c('Scroller'),
+          options = list(deferRender = F, scrollY = 200, scroller = TRUE,
+                         scrollCollapse=TRUE,scrollX = TRUE,
+                         dom = 'Bfrtip',pageLength = 10,
+                          columnDefs = list(list(className = 'dt-center', targets = 2:5))),
+          colnames=c('Tests' = 'Matches', 'Pts' = 'Points'))
+```
+
+<br>
+
+To my knowledge, the player names and playing statistics are accurate (as at February 2016), but the birthplace information remains a work in progress. The data is especially sparse for Canada, the USA and the Pacific Island countries. I welcome any contributions and corrections. Feel free to email me (hautahikingi@gmail.com) with any help you can provide.
