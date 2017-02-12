@@ -589,7 +589,7 @@ Bunny Chantrill,England,1924,Fullback,4.0,4.0,0.0,0.0,0.0,0.0,Barton Regis,Engla
 Jake Jacob,England,1924,Wing,5.0,5.0,0.0,0.0,12.0,4.0,Elham,England
 Alan Robson,England,1924,Hooker,5.0,4.0,0.0,1.0,0.0,0.0,Lanark,Scotland
 Arthur Young,England,1924,Scrum-half,19.0,12.0,7.0,0.0,6.0,2.0,Darjeeling,India
-Chubby Faithfull,England,1924,Prop,3.0,2.0,1.0,0.0,0.0,0.0,Fareham,United Kingdom
+Chubby Faithfull,England,1924,Prop,3.0,2.0,1.0,0.0,0.0,0.0,Fareham,England
 Richard Hamilton-Wickes,England,1924,Wing,10.0,4.0,4.0,2.0,12.0,4.0,Uxbridge,England
 Jim Brough,England,1925,Fullback,2.0,1.0,1.0,0.0,0.0,0.0,Silloth,England
 John Gibbs,England,1925,Wing,7.0,4.0,3.0,0.0,6.0,2.0,Bromley,England
@@ -1316,7 +1316,7 @@ David Wilson,England,2009,Prop,44.0,26.0,17.0,1.0,5.0,1.0,South Shields,England
 Sam Vesty,England,2009,"Fullback, Fly-half",2.0,1.0,1.0,0.0,0.0,0.0,Leicester,England
 Chris Robshaw,England,2009,Back-row,46.0,28.0,18.0,0.0,10.0,2.0,Redhill,England
 Ayoola Erinle,England,2009,Centre,2.0,0.0,2.0,0.0,0.0,0.0,Lagos,Nigeria
-Courtney Lawes,England,2009,"Lock, Back-row",45.0,28.0,16.0,1.0,0.0,0.0,Hackney,USA
+Courtney Lawes,England,2009,"Lock, Back-row",45.0,28.0,16.0,1.0,0.0,0.0,Hackney,England
 Paul Doran Jones,England,2009,Prop,6.0,4.0,2.0,0.0,0.0,0.0,Enfield,England
 Dan Cole,England,2010,Prop,62.0,39.0,21.0,2.0,5.0,1.0,Leicester,England
 Matt Mullan,England,2010,Prop,9.0,4.0,5.0,0.0,0.0,0.0,Brighton,England
@@ -1374,7 +1374,7 @@ Luke Cowan-Dickie,England,2015,"Prop, Hooker",1.0,1.0,0.0,0.0,0.0,0.0,Truro,Engl
 Jamie George,England,2015,Hooker,6.0,5.0,1.0,0.0,0.0,0.0,Welwyn Garden City,England
 Jack Clifford,England,2016,Back-row,3.0,3.0,0.0,0.0,0.0,0.0,QLD,Australia
 Paul Hill,England,2016,Prop,1.0,1.0,0.0,0.0,0.0,0.0,Aschaffenburg,Germany
-Maro Itoje,England,2016,"Lock, Back-row",2.0,2.0,0.0,0.0,0.0,0.0,Camden,USA
+Maro Itoje,England,2016,"Lock, Back-row",2.0,2.0,0.0,0.0,0.0,0.0,Camden,England
 Elliot Daly,England,2016,Centre,1.0,1.0,0.0,0.0,0.0,0.0,Croydon,England
 John Arthur,Scotland,1871,Halfback,2.0,1.0,1.0,0.0,NA,0.0,Glasgow,Scotland
 William Brown,Scotland,1871,Fullback,5.0,1.0,2.0,2.0,NA,0.0,Glasgow,Scotland
@@ -2369,7 +2369,7 @@ Kelly Brown,Scotland,2005,Back-row,64.0,25.0,38.0,1.0,20.0,4.0,Edinburgh,Scotlan
 Scott Lawson,Scotland,2005,Hooker,46.0,20.0,25.0,1.0,10.0,2.0,Lanark,Scotland
 Phil Godman,Scotland,2005,Fly-half,23.0,10.0,12.0,1.0,71.0,1.0,Edinburgh,Scotland
 Euan Murray,Scotland,2005,Prop,66.0,25.0,40.0,1.0,10.0,2.0,Glasgow,Scotland
-Andy Wilson,Scotland,2005,"Wing, Back-row",1.0,1.0,0.0,0.0,0.0,0.0,Fort Brown,USA
+Andy Wilson,Scotland,2005,"Wing, Back-row",1.0,1.0,0.0,0.0,0.0,0.0,Kirkcaldy,Scotland
 Ben MacDougall,Scotland,2006,Outside back,2.0,0.0,2.0,0.0,0.0,0.0,NSW,Australia
 Sam Pinder,Scotland,2006,Scrum-half,2.0,0.0,2.0,0.0,0.0,0.0,Taupo,NewZealand
 Johnnie Beattie,Scotland,2006,No. 8,38.0,15.0,22.0,1.0,15.0,3.0,Glasgow,Scotland
@@ -3367,7 +3367,7 @@ Victor Costello,Ireland,1996,Back-row,39.0,20.0,19.0,0.0,20.0,4.0,Stepaside,Irel
 Kurt McQuilkin,Ireland,1996,Centre,5.0,1.0,4.0,0.0,0.0,0.0,Te Kuiti,NewZealand
 David Humphreys,Ireland,1996,Fly-half,72.0,37.0,34.0,1.0,560.0,6.0,Northern Ireland,Ireland
 Simon Mason,Ireland,1996,Fullback,3.0,1.0,2.0,0.0,42.0,0.0,Wirral,England
-Rob Henderson,Ireland,1996,Centre,32.0,16.0,16.0,0.0,30.0,6.0,Dover,USA
+Rob Henderson,Ireland,1996,Centre,32.0,16.0,16.0,0.0,30.0,6.0,Dover,England
 James Topping,Ireland,1996,Wing,8.0,2.0,6.0,0.0,5.0,1.0,Northern Ireland,Ireland
 Dominic Crotty,Ireland,1996,Fullback,5.0,1.0,3.0,1.0,0.0,0.0,Cork,Ireland
 Stephen McIvor,Ireland,1996,Scrum-half,3.0,0.0,3.0,0.0,0.0,0.0,Dublin,Ireland
@@ -4352,7 +4352,7 @@ Stuart Evans,Wales,1985,Prop,9.0,7.0,2.0,0.0,4.0,1.0,Neath,Wales
 Paul Thorburn,Wales,1985,Fullback,37.0,16.0,20.0,1.0,304.0,2.0,Rheindalen,Germany
 Gareth Roberts,Wales,1985,No. 8,7.0,6.0,1.0,0.0,12.0,3.0,Pontlliw,Wales
 Jonathan Davies,Wales,1985,Fly-half,32.0,19.0,13.0,0.0,81.0,5.0,Trimsaran,Wales
-Phil Davies,Wales,1985,Lock,46.0,22.0,23.0,1.0,21.0,5.0,Seven Sisters,USA
+Phil Davies,Wales,1985,Lock,46.0,22.0,23.0,1.0,21.0,5.0,Seven Sisters,England
 Kevin Hopkins,Wales,1985,Centre,7.0,5.0,2.0,0.0,0.0,0.0,Cwmllynfell,Wales
 John Devereux,Wales,1986,"Wing, Centre",21.0,10.0,11.0,0.0,20.0,5.0,Pontycymmer,Wales
 Robert Jones,Wales,1986,Scrum-half,57.0,24.0,33.0,0.0,19.0,4.0,Trebanos,Wales
@@ -4395,7 +4395,7 @@ Paul Turner,Wales,1989,Fly-half,3.0,1.0,2.0,0.0,0.0,0.0,Newport,Wales
 David Evans,Wales,1989,Fly-half,12.0,2.0,10.0,0.0,6.0,0.0,Wootton Bassett,England
 Arthur Jones,Wales,1989,Wing,13.0,4.0,9.0,0.0,16.0,4.0,Bangor,USA
 Gareth Llewellyn,Wales,1989,Lock,92.0,38.0,54.0,0.0,24.0,5.0,Cardiff,Wales
-Phil Pugh,Wales,1989,Flanker,1.0,0.0,1.0,0.0,0.0,0.0,Seven Sisters,USA
+Phil Pugh,Wales,1989,Flanker,1.0,0.0,1.0,0.0,0.0,0.0,Seven Sisters,England
 Andy Allen,Wales,1990,Lock,3.0,0.0,3.0,0.0,0.0,0.0,Newport,Wales
 Allan Bateman,Wales,1990,Centre,36.0,21.0,15.0,0.0,50.0,10.0,Maesteg,Wales
 Mark Perego,Wales,1990,Flanker,9.0,6.0,3.0,0.0,0.0,0.0,Hants,Canada
@@ -5889,7 +5889,7 @@ Stewart Boyce,Australia,1962,Wing,13.0,5.0,8.0,0.0,12.0,4.0,NSW,Australia
 Lloyd McDermott,Australia,1962,Wing,2.0,0.0,2.0,0.0,0.0,0.0,QLD,Australia
 Jim Miller,Australia,1962,Prop,6.0,3.0,3.0,0.0,0.0,0.0,NSW,Australia
 Paul Perrin,Australia,1962,Lock,1.0,0.0,1.0,0.0,0.0,0.0,NSW,Australia
-Peter Scott,Australia,1962,Centre,2.0,0.0,2.0,0.0,8.0,0.0,ACT,Australia
+Peter Scott,Australia,1962,Centre,2.0,0.0,2.0,0.0,8.0,0.0,ACT,Italy
 Norm Storey,Australia,1962,Fly-half,1.0,0.0,1.0,0.0,0.0,0.0,NSW,Australia
 Jim Boyce,Australia,1962,Wing,12.0,6.0,5.0,1.0,3.0,1.0,NSW,Australia
 Geoff Chapman,Australia,1962,Flanker,3.0,0.0,2.0,1.0,14.0,0.0,NSW,Australia
@@ -5971,7 +5971,7 @@ Gary Grey,Australia,1972,Scrum-half,5.0,1.0,4.0,0.0,0.0,0.0,NSW,Australia
 Bruce Brown,Australia,1972,Prop,2.0,0.0,2.0,0.0,0.0,0.0,QLD,Australia
 Mick Freney,Australia,1972,Hooker,6.0,1.0,5.0,0.0,0.0,0.0,QLD,Australia
 Tony Gelling,Australia,1972,No. 8,2.0,1.0,1.0,0.0,0.0,0.0,NSW,Australia
-Barry Stumbles,Australia,1972,Lock,4.0,1.0,3.0,0.0,4.0,1.0,ACT,Australia
+Barry Stumbles,Australia,1972,Lock,4.0,1.0,3.0,0.0,4.0,1.0,ACT,Italy
 John Cornes,Australia,1972,Scrum-half,1.0,1.0,0.0,0.0,0.0,0.0,Cambridge,England
 Peter Rowles,Australia,1972,Fly-half,2.0,1.0,1.0,0.0,0.0,0.0,NSW,Australia
 Robert Wood,Australia,1972,Lock,1.0,1.0,0.0,0.0,0.0,0.0,QLD,Australia
@@ -6088,7 +6088,7 @@ Rob Lawton,Australia,1988,Prop,4.0,2.0,1.0,1.0,0.0,0.0,Trengganu,Malaysia
 Peter Kay,Australia,1988,Prop,1.0,1.0,0.0,0.0,0.0,0.0,Adelaide,Australia
 Tim Gavin,Australia,1988,No. 8,47.0,31.0,15.0,1.0,40.0,9.0,NSW,Australia
 Lloyd Walker,Australia,1988,Centre,8.0,3.0,4.0,1.0,8.0,2.0,NSW,Australia
-Brad Girvan,Australia,1988,Centre,1.0,0.0,1.0,0.0,0.0,0.0,ACT,Australia
+Brad Girvan,Australia,1988,Centre,1.0,0.0,1.0,0.0,0.0,0.0,ACT,Italy
 Scott Gourley,Australia,1988,Flanker,5.0,3.0,2.0,0.0,12.0,3.0,NSW,Australia
 Acura Niuqila,Australia,1983,Wing,18.0,9.0,9.0,0.0,36.0,9.0,Wainibokasi,Fiji
 Brad Burke,Australia,1988,Scrum-half,1.0,1.0,0.0,0.0,0.0,0.0,NSW,Australia
@@ -6105,7 +6105,7 @@ Brendon Nasser,Australia,1989,Flanker,8.0,5.0,3.0,0.0,0.0,0.0,QLD,Australia
 Darren Junee,Australia,1989,Fullback,4.0,3.0,1.0,0.0,5.0,1.0,NSW,Australia
 Paul Carozza,Australia,1990,Wing,15.0,11.0,4.0,0.0,41.0,9.0,QLD,Australia
 Ewen McKenzie,Australia,1990,Prop,51.0,39.0,12.0,0.0,9.0,2.0,VIC,Australia
-Paul Cornish,Australia,1990,Centre,3.0,1.0,2.0,0.0,4.0,1.0,ACT,Australia
+Paul Cornish,Australia,1990,Centre,3.0,1.0,2.0,0.0,4.0,1.0,ACT,Italy
 Sam Scott-Young,Australia,1990,No. 8,7.0,5.0,2.0,0.0,0.0,0.0,QLD,Australia
 John Flett,Australia,1990,Wing,4.0,3.0,1.0,0.0,0.0,0.0,NSW,Australia
 Peter Slattery,Australia,1990,Scrum-half,17.0,16.0,1.0,0.0,8.0,2.0,QLD,Australia
@@ -6124,13 +6124,13 @@ Brett Johnstone,Australia,1993,Scrum-half,1.0,1.0,0.0,0.0,5.0,1.0,QLD,Australia
 Pat Howard,Australia,1993,Centre,20.0,12.0,7.0,1.0,10.0,2.0,NSW,Australia
 Scott Bowen,Australia,1993,Fly-half,9.0,4.0,5.0,0.0,0.0,0.0,NSW,Australia
 Damian Smith,Australia,1993,Wing,21.0,15.0,6.0,0.0,50.0,10.0,QLD,Australia
-Warwick Waugh,Australia,1993,Lock,8.0,4.0,4.0,0.0,5.0,1.0,ACT,Australia
+Warwick Waugh,Australia,1993,Lock,8.0,4.0,4.0,0.0,5.0,1.0,ACT,Italy
 Ilie Tabua Tamanivalu,Australia,1990,Flanker,26.0,19.0,7.0,0.0,15.0,3.0,Naivicula,Fiji
 Matt Burke,Australia,1993,Fullback,81.0,55.0,25.0,1.0,878.0,29.0,NSW,Australia
 Alistair Murdoch,Australia,1993,Centre,2.0,1.0,1.0,0.0,5.0,1.0,NSW,Australia
 Mike Brial,Australia,1993,Back-row,13.0,8.0,5.0,0.0,5.0,1.0,NSW,Australia
-Matt O'Connor,Australia,1994,Centre,1.0,1.0,0.0,0.0,0.0,0.0,ACT,Australia
-Matt Pini,Australia,1994,Fullback,20.0,10.0,10.0,0.0,20.0,4.0,ACT,Australia
+Matt O'Connor,Australia,1994,Centre,1.0,1.0,0.0,0.0,0.0,0.0,ACT,Italy
+Matt Pini,Australia,1994,Fullback,20.0,10.0,10.0,0.0,20.0,4.0,ACT,Italy
 Dan Herbert,Australia,1994,Centre,67.0,50.0,16.0,1.0,55.0,11.0,QLD,Australia
 Ryan Constable,Australia,1994,Centre,1.0,1.0,0.0,0.0,0.0,0.0,Durban,SouthAfrica
 George Gregan,Australia,1994,Scrum-half,139.0,93.0,44.0,2.0,99.0,18.0,Lusaka,Zambia
@@ -6144,7 +6144,7 @@ Owen Finegan,Australia,1996,"Lock, Back-row",55.0,37.0,16.0,2.0,30.0,6.0,NSW,Aus
 Richard Harry,Australia,1996,Prop,37.0,27.0,9.0,1.0,5.0,1.0,NSW,Australia
 Sam Payne,Australia,1996,Scrum-half,6.0,4.0,2.0,0.0,5.0,1.0,NSW,Australia
 Ben Tune,Australia,1996,Centre,47.0,30.0,16.0,1.0,120.0,24.0,QLD,Australia
-Stephen Larkham,Australia,1996,"Fullback, Fly-half",102.0,68.0,31.0,3.0,135.0,25.0,ACT,Australia
+Stephen Larkham,Australia,1996,"Fullback, Fly-half",102.0,68.0,31.0,3.0,135.0,25.0,ACT,Italy
 Mark Bell,Australia,1996,Hooker,1.0,1.0,0.0,0.0,0.0,0.0,NSW,Australia
 Andrew Heath,Australia,1996,Prop,8.0,4.0,3.0,1.0,0.0,0.0,VIC,Australia
 John Welborn,Australia,1996,Lock,6.0,4.0,2.0,0.0,0.0,0.0,WA,Australia
@@ -6201,7 +6201,7 @@ Mark Bartholomeusz,Australia,2002,Utility back,1.0,1.0,0.0,0.0,0.0,0.0,QLD,Austr
 Morgan Turinui,Australia,2003,Centre,20.0,11.0,9.0,0.0,30.0,6.0,NSW,Australia
 Lote Tuqiri,Australia,2003,Outside back,67.0,40.0,26.0,1.0,150.0,30.0,Namatakula,Fiji
 Daniel Heenan,Australia,2003,"Lock, Flanker",2.0,2.0,0.0,0.0,0.0,0.0,Gatton,Australia
-Al Baxter,Australia,2003,Prop,69.0,40.0,28.0,1.0,5.0,1.0,ACT,Australia
+Al Baxter,Australia,2003,Prop,69.0,40.0,28.0,1.0,5.0,1.0,ACT,Italy
 Matt Dunning,Australia,2003,Prop,45.0,28.0,17.0,0.0,0.0,0.0,Calgary,Canada
 John Roe,Australia,2003,No. 8,19.0,10.0,9.0,0.0,5.0,1.0,QLD,Australia
 Clyde Rathbone,Australia,2004,Centre,26.0,15.0,10.0,1.0,40.0,8.0,Durban,SouthAfrica
@@ -6233,7 +6233,7 @@ Guy Shepherdson,Australia,2006,Prop,17.0,11.0,6.0,0.0,5.0,1.0,Jakarta,Indonesia
 Benn Robinson,Australia,2006,Prop,72.0,36.0,34.0,2.0,15.0,3.0,NSW,Australia
 Brett Sheehan,Australia,2006,Scrum-half,7.0,3.0,3.0,1.0,0.0,0.0,WA,Australia
 Julian Huxley,Australia,2007,"Fullback, Fly-half",9.0,8.0,1.0,0.0,22.0,2.0,NSW,Australia
-Sam Norton-Knight,Australia,2007,Fly-half,2.0,2.0,0.0,0.0,5.0,1.0,ACT,Australia
+Sam Norton-Knight,Australia,2007,Fly-half,2.0,2.0,0.0,0.0,5.0,1.0,ACT,Italy
 Digby Ioane,Australia,2007,"Centre, Wing",35.0,23.0,11.0,1.0,55.0,11.0,Wellington,NewZealand
 James Horwill,Australia,2007,Lock,61.0,35.0,25.0,1.0,30.0,6.0,QLD,Australia
 Berrick Barnes,Australia,2007,Utility back,51.0,34.0,17.0,0.0,200.0,8.0,QLD,Australia
@@ -6249,7 +6249,7 @@ David Pocock,Australia,2008,Flanker,55.0,35.0,19.0,1.0,35.0,7.0,Messina,Italy
 Quade Cooper,Australia,2008,Fly-half,58.0,36.0,21.0,1.0,154.0,8.0,Auckland,NewZealand
 Sekope Kepu,Australia,2008,Prop,63.0,37.0,24.0,2.0,10.0,2.0,NSW,Australia
 James O'Connor,Australia,2008,Wing,44.0,22.0,21.0,1.0,223.0,14.0,QLD,Australia
-Peter Kimlin,Australia,2009,Lock,2.0,2.0,0.0,0.0,0.0,0.0,ACT,Australia
+Peter Kimlin,Australia,2009,Lock,2.0,2.0,0.0,0.0,0.0,0.0,ACT,Italy
 Pek Cowan,Australia,2009,Prop,10.0,8.0,1.0,1.0,0.0,0.0,Wellington,NewZealand
 Will Genia,Australia,2009,Scrum-half,66.0,34.0,31.0,1.0,40.0,8.0,Port Moresby,PNG
 Kurtley Beale,Australia,2009,Fullback,60.0,38.0,20.0,2.0,118.0,12.0,NSW,Australia
@@ -7370,7 +7370,7 @@ Georges Daudignon,France,1928,Scrum-half,1.0,0.0,1.0,0.0,0.0,0.0,Le Boucau,Franc
 Henri Haget,France,1928,"Fly-half, Centre",2.0,1.0,1.0,0.0,6.0,1.0,Biarritz,France
 Louis Magnol,France,1928,Fullback,4.0,0.0,4.0,0.0,0.0,0.0,Foix,France
 Raoul Bonamy,France,1928,Flanker,2.0,0.0,2.0,0.0,3.0,1.0,Saint-Jean-d'Angely,France
-Louis Pellissier,France,1928,Fullback,5.0,2.0,3.0,0.0,0.0,0.0,San Fernando,USA
+Louis Pellissier,France,1928,Fullback,5.0,2.0,3.0,0.0,0.0,0.0,San Fernando,Argentina
 Georges Vaills,France,1928,Hooker,2.0,1.0,1.0,0.0,0.0,0.0,Palau-del-Vidre,France
 Jean Duhau,France,1928,"Prop, Hooker, Lock, Flanker",7.0,4.0,3.0,0.0,14.0,1.0,Ondres,France
 Jean Jardel,France,1928,Wing,2.0,0.0,2.0,0.0,0.0,0.0,Vitrac,France
@@ -8837,7 +8837,7 @@ Lucio Lopez Fleming,Argentina,2004,"Wing, Scrum-half",5.0,4.0,1.0,0.0,20.0,4.0,S
 Fernando Higgs,Argentina,2004,Utility back,5.0,5.0,0.0,0.0,50.0,10.0,Mendoza,Argentina
 Pablo Gomez Cora,Argentina,2004,Centre,4.0,1.0,3.0,0.0,0.0,0.0,Lomas de Zamora,Argentina
 Santiago Artese,Argentina,2004,Lock,1.0,0.0,1.0,0.0,5.0,1.0,Buenos Aires,Argentina
-Augusto Petrilli,Argentina,2004,Back-row,2.0,1.0,1.0,0.0,0.0,0.0,San Fernando,USA
+Augusto Petrilli,Argentina,2004,Back-row,2.0,1.0,1.0,0.0,0.0,0.0,San Fernando,Argentina
 Gonzalo Tiesi,Argentina,2004,Centre,37.0,17.0,20.0,0.0,30.0,6.0,Buenos Aires,Argentina
 Marcos Ayerza,Argentina,2004,Prop,66.0,29.0,36.0,1.0,5.0,1.0,Buenos Aires,Argentina
 Manuel Carizza,Argentina,2004,Lock,46.0,15.0,30.0,1.0,5.0,1.0,Rosario,Argentina
@@ -8872,7 +8872,7 @@ Pablo Gambarini,Argentina,2006,Hooker,8.0,8.0,0.0,0.0,5.0,1.0,Tucuman,Argentina
 Esteban Lozada,Argentina,2006,Lock,22.0,12.0,10.0,0.0,0.0,0.0,Ottignies,Belgium
 Juan Gomez,Argentina,2006,Prop,6.0,4.0,2.0,0.0,0.0,0.0,Buenos Aires,Argentina
 Marcelo Bosch,Argentina,2007,Centre,39.0,9.0,29.0,1.0,60.0,5.0,Buenos Aires,Argentina
-Alejandro Abadie,Argentina,2007,Back-row,5.0,3.0,2.0,0.0,5.0,1.0,San Fernando,USA
+Alejandro Abadie,Argentina,2007,Back-row,5.0,3.0,2.0,0.0,5.0,1.0,San Fernando,Argentina
 Federico Amelong,Argentina,2007,Centre,2.0,2.0,0.0,0.0,5.0,1.0,Rosario,Argentina
 Felipe Aranguren,Argentina,2007,Lock,6.0,6.0,0.0,0.0,5.0,1.0,Buenos Aires,Argentina
 Gabriel Ascarate,Argentina,2007,"Fullback, Centre",16.0,10.0,6.0,0.0,20.0,4.0,San Miguel de Tucuma,Argentina
@@ -9157,7 +9157,7 @@ Giorgio Fornari,Italy,1952,Prop,16.0,10.0,6.0,0.0,3.0,1.0,Parma,Italy
 Enzo Gerosa,Italy,1952,Wing,7.0,5.0,2.0,0.0,15.0,5.0,Milano,Italy
 Francis Martinenghi,Italy,1952,Centre,2.0,2.0,0.0,0.0,0.0,0.0,Milano,Italy
 Riccardo Santopadre,Italy,1952,Fly-half,5.0,3.0,2.0,0.0,0.0,0.0,Macerata,Italy
-Luciano Turcato,Italy,1952,Prop,5.0,4.0,1.0,0.0,2.0,0.0,MN,USA
+Luciano Turcato,Italy,1952,Prop,5.0,4.0,1.0,0.0,2.0,0.0,MN,Italy
 Carlo Zucchi,Italy,1952,Centre,2.0,1.0,1.0,0.0,0.0,0.0,Milano,Italy
 Giorgio Grasselli,Italy,1952,Prop,1.0,1.0,0.0,0.0,0.0,0.0,Roma,Italy
 Mimmo Mancini,Italy,1952,Hooker,12.0,7.0,5.0,0.0,3.0,1.0,Parma,Italy
@@ -9238,7 +9238,7 @@ Andrea d'Alberton,Italy,1966,Centre,5.0,1.0,3.0,1.0,0.0,0.0,,
 Oreste Vene',Italy,1966,Hooker,1.0,0.0,1.0,0.0,0.0,0.0,Parma,Italy
 Gastone Giani,Italy,1966,Centre,5.0,2.0,2.0,1.0,0.0,0.0,Bologna,Italy
 Luciano Modonesi,Italy,1966,Fullback,17.0,10.0,5.0,2.0,6.0,2.0,Brescia,Italy
-Loreto Cucchiarelli,Italy,1966,Flanker,2.0,1.0,1.0,0.0,0.0,0.0,RI,USA
+Loreto Cucchiarelli,Italy,1966,Flanker,2.0,1.0,1.0,0.0,0.0,0.0,RI,Italy
 Carlo Prosperini,Italy,1966,Prop,4.0,2.0,2.0,0.0,3.0,1.0,L'Aquila,Italy
 Franco Gargiulo,Italy,1967,Lock,4.0,2.0,2.0,0.0,0.0,0.0,Roma,Italy
 Adriano Agujari,Italy,1967,Wing,1.0,1.0,0.0,0.0,0.0,0.0,,
@@ -9279,7 +9279,7 @@ Corrado Possamai,Italy,1970,Prop,3.0,3.0,0.0,0.0,0.0,0.0,Treviso,Italy
 Luigi Bernabo,Italy,1970,Lock,5.0,2.0,2.0,1.0,0.0,0.0,La Spezia,Italy
 Angelo Sagramora,Italy,1970,Scrum-half,3.0,2.0,1.0,0.0,0.0,0.0,Venezia,Italy
 Aldo Caluzzi,Italy,1970,Wing,11.0,3.0,6.0,2.0,6.0,0.0,Genova,Italy
-Pietro Monfeli,Italy,1970,Hooker,13.0,3.0,8.0,2.0,0.0,0.0,VT,USA
+Pietro Monfeli,Italy,1970,Hooker,13.0,3.0,8.0,2.0,0.0,0.0,VT,Italy
 Isidoro Quaglio,Italy,1970,Lock,15.0,4.0,10.0,1.0,0.0,0.0,Rovigo,Italy
 Angelo Visentin,Italy,1970,Scrum-half,23.0,8.0,12.0,3.0,18.0,3.0,Rovigo,Italy
 Umberto Cossara,Italy,1971,Flanker,24.0,7.0,13.0,4.0,4.0,1.0,Trieste,Italy
@@ -9287,7 +9287,7 @@ Francesco di Maura,Italy,1971,Lock,1.0,0.0,1.0,0.0,0.0,0.0,Catania,Italy
 Francesco Dotto,Italy,1971,Wing,5.0,1.0,2.0,2.0,11.0,3.0,Treviso,Italy
 Loris Salsi,Italy,1971,Flanker,28.0,10.0,14.0,4.0,4.0,1.0,RE,Italy
 Giuseppe Puglisi,Italy,1971,No. 8,3.0,1.0,1.0,1.0,3.0,1.0,Catania,Italy
-Romano Baraldi,Italy,1971,Wing,1.0,0.0,1.0,0.0,0.0,0.0,MN,USA
+Romano Baraldi,Italy,1971,Wing,1.0,0.0,1.0,0.0,0.0,0.0,MN,Italy
 Savino Colombini,Italy,1971,Prop,1.0,0.0,1.0,0.0,0.0,0.0,Montefranco,Italy
 Ettore Piras,Italy,1971,NA,1.0,0.0,1.0,0.0,0.0,0.0,Venezia,Italy
 Faustino Crepaz,Italy,1972,Wing,1.0,0.0,0.0,1.0,0.0,0.0,Pozza di Fassa,Italy
@@ -9310,7 +9310,7 @@ Edano Cottafava,Italy,1973,Wing,1.0,0.0,1.0,0.0,0.0,0.0,Novi di Modena,Italy
 Paolo Fedrigo,Italy,1973,Prop,1.0,0.0,1.0,0.0,0.0,0.0,VE,Italy
 Mario Piovan,Italy,1973,Lock,10.0,1.0,9.0,0.0,0.0,0.0,Padova,Italy
 Crescenzo Vitelli,Italy,1973,Hooker,5.0,2.0,2.0,1.0,0.0,0.0,NA,Norge
-Anacleto Altigieri,Italy,1973,Prop,27.0,12.0,14.0,1.0,0.0,0.0,VT,USA
+Anacleto Altigieri,Italy,1973,Prop,27.0,12.0,14.0,1.0,0.0,0.0,VT,Italy
 Gerardo Cinti,Italy,1973,Wing,3.0,0.0,3.0,0.0,0.0,0.0,Roma,Italy
 Gilberto Luchini,Italy,1973,Centre,2.0,0.0,2.0,0.0,0.0,0.0,Roma,Italy
 Andrea Selvaggio,Italy,1973,Wing,6.0,1.0,5.0,0.0,0.0,0.0,Genova,Italy
@@ -9323,7 +9323,7 @@ Fabio Molinari,Italy,1973,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Piacenza,Italy
 Marco Pitorri,Italy,1973,NA,1.0,0.0,1.0,0.0,0.0,0.0,Roma,Italy
 Carlo Loranzi,Italy,1973,Flanker,5.0,1.0,4.0,0.0,0.0,0.0,Piacenza,Italy
 Paolo Gargiullo,Italy,1973,Scrum-half,4.0,0.0,4.0,0.0,0.0,0.0,Roma,Italy
-Franco Baraldi,Italy,1973,Flanker,15.0,6.0,8.0,1.0,0.0,0.0,MN,USA
+Franco Baraldi,Italy,1973,Flanker,15.0,6.0,8.0,1.0,0.0,0.0,MN,Italy
 Giancarlo Checchinato,Italy,1973,Lock,5.0,3.0,1.0,1.0,0.0,0.0,RO,Italy
 Ennio Ponzi,Italy,1973,Fly-half,20.0,10.0,8.0,2.0,133.0,0.0,L'Aquila,Italy
 Nino Rossi,Italy,1973,Wing,16.0,10.0,6.0,0.0,12.0,3.0,RO,Italy
@@ -9400,7 +9400,7 @@ Andrea Azzali,Italy,1981,Wing,16.0,9.0,6.0,1.0,20.0,5.0,Parma,Italy
 Marzio Innocenti,Italy,1981,Flanker,42.0,19.0,21.0,2.0,8.0,2.0,Livorno,Italy
 Giancarlo Morelli,Italy,1981,Centre,6.0,4.0,2.0,0.0,0.0,0.0,L'Aquila,Italy
 Claudio Colusso,Italy,1982,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Treviso,Italy
-Mario Nicolosi,Italy,1982,Lock,1.0,1.0,0.0,0.0,0.0,0.0,CT,USA
+Mario Nicolosi,Italy,1982,Lock,1.0,1.0,0.0,0.0,0.0,0.0,CT,Italy
 Alessandro Fusco,Italy,1982,Scrum-half,5.0,4.0,1.0,0.0,0.0,0.0,Napoli,Italy
 Stefano Romagnoli,Italy,1982,Prop,15.0,11.0,4.0,0.0,0.0,0.0,Bologna,Italy
 Antonio Colella,Italy,1983,Lock,41.0,19.0,21.0,1.0,8.0,2.0,Roma,Italy
@@ -9419,7 +9419,7 @@ Antonio Galeazzo,Italy,1985,Hooker,5.0,2.0,3.0,0.0,0.0,0.0,Padova,Italy
 Filipo Vittadello,Italy,1985,Fullback,2.0,2.0,0.0,0.0,4.0,1.0,Padova,Italy
 Francesco Salvadego,Italy,1985,Flanker,1.0,1.0,0.0,0.0,0.0,0.0,Padova,Italy
 Daniele Tebaldi,Italy,1985,Fullback,15.0,5.0,10.0,0.0,7.0,1.0,Parma,Italy
-Stefano Boccazzi,Italy,1985,Scrum-half,2.0,1.0,1.0,0.0,0.0,0.0,MN,USA
+Stefano Boccazzi,Italy,1985,Scrum-half,2.0,1.0,1.0,0.0,0.0,0.0,MN,Italy
 Sergio Appiani,Italy,1985,Flanker,4.0,2.0,2.0,0.0,4.0,1.0,BS,The Bahamas
 Luigi Troiani,Italy,1985,Fullback,47.0,23.0,24.0,0.0,294.0,2.0,NA,Norge
 Sergio Zorzi,Italy,1985,Centre,7.0,3.0,4.0,0.0,0.0,0.0,Treviso,Italy
@@ -9520,7 +9520,7 @@ Corrado Pilat,Italy,1997,"Fly-half, Fullback",7.0,2.0,5.0,0.0,13.0,2.0,Belluno,I
 Stefano Saviozzi,Italy,1998,Hooker,14.0,4.0,10.0,0.0,10.0,2.0,Pisa,Italy
 Giuseppe Lanzi,Italy,1998,Lock,8.0,4.0,4.0,0.0,0.0,0.0,Viterbo,Italy
 Mauro Bergamasco,Italy,1998,Flanker,106.0,31.0,75.0,0.0,75.0,15.0,Padova,Italy
-Matt Pini,Italy,1994,Fullback,20.0,10.0,10.0,0.0,20.0,4.0,ACT,Australia
+Matt Pini,Italy,1994,Fullback,20.0,10.0,10.0,0.0,20.0,4.0,ACT,Italy
 Simone Stocco,Italy,1998,Lock,4.0,1.0,3.0,0.0,5.0,1.0,VE,Italy
 Michele Birtig,Italy,1998,Flanker,2.0,1.0,1.0,0.0,0.0,0.0,Udine,Italy
 Giampiero Mazzi,Italy,1998,Scrum-half,5.0,3.0,2.0,0.0,5.0,1.0,RM,Italy
@@ -9562,7 +9562,7 @@ Giovanni Antoni,Italy,2001,Fullback,2.0,1.0,1.0,0.0,0.0,0.0,Mombasa,Kenya
 Marco Bortolami,Italy,2001,Lock,112.0,29.0,82.0,1.0,35.0,7.0,Padova,Italy
 Roberto Pedrazzi,Italy,2001,"Centre, Wing",8.0,1.0,7.0,0.0,0.0,0.0,Modena,Italy
 Salvatore Garozzo,Italy,2001,"Lock, Back-row",3.0,1.0,2.0,0.0,0.0,0.0,Catania,Italy
-Andrea Benatti,Italy,2001,Back-row,5.0,1.0,4.0,0.0,5.0,1.0,MN,USA
+Andrea Benatti,Italy,2001,Back-row,5.0,1.0,4.0,0.0,5.0,1.0,MN,Italy
 Samuele Pace,Italy,2001,Centre,3.0,1.0,2.0,0.0,0.0,0.0,PC,Italy
 Cristian Zanoletti,Italy,2001,Centre,7.0,1.0,6.0,0.0,0.0,0.0,Brescia,Italy
 Santiago Dellape,Italy,2002,Lock,64.0,18.0,45.0,1.0,15.0,3.0,La Plata,Argentina
@@ -12525,7 +12525,7 @@ Nick Trenkel,Canada,2007,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Randburg,Fiji
 Luke Cudmore,Canada,2008,Lock,1.0,1.0,0.0,0.0,0.0,0.0,BC,Canada
 Tyler Hotson,Canada,2008,Lock,45.0,22.0,22.0,1.0,0.0,0.0,BC,Canada
 Bryn Keys,Canada,2008,Centre,8.0,4.0,4.0,0.0,0.0,0.0,,
-Andy Wilson,Canada,2008,Lock,1.0,1.0,0.0,0.0,0.0,0.0,,
+Andy Wilson,Canada,2008,Lock,1.0,1.0,0.0,0.0,0.0,0.0,Kirkcaldy,Scotland
 Andrew Fagan,Canada,2008,Flanker,1.0,1.0,0.0,0.0,0.0,0.0,,
 Phil MacKenzie,Canada,2008,Wing,31.0,14.0,16.0,1.0,30.0,6.0,ON,Canada
 Nathan Hirayama,Canada,2008,Fly-half,23.0,8.0,15.0,0.0,47.0,1.0,BC,Canada

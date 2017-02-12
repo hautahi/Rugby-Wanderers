@@ -120,17 +120,18 @@ FB_g <- FB %>%
 # ###########################
 
 m <- read_csv("../data/WorldBankData/Data.csv") %>% as.data.frame() %>%
-  filter(`Series Name`=="International migrant stock (% of population)") %>%
-  select(Country,`Foreign born Population (%)`=`2010`)
+  select(`Country` = `Country Name`,`Foreign born Population (%)`=`2015 [YR2015]`) %>%
+  filter(!is.na(Country))
 
 m$Country[m$Country=="United States"]="USA"
 
-temp <- data_frame(Country=c("England","Wales","Scotland"),
-                   "Foreign born Population (%)"=c(m$`Foreign born Population (%)`[m$Country=="United Kingdom"],
-                                                   m$`Foreign born Population (%)`[m$Country=="United Kingdom"],
-                                                   m$`Foreign born Population (%)`[m$Country=="United Kingdom"])) 
+UK_data<- m %>% filter(Country=="United Kingdom") %>% select(`Foreign born Population (%)`)
+UK_data <- UK_data[1,1]
 
-m1 <- m %>% bind_rows(temp) %>% mutate(Team=Country) %>% 
+temp <- data_frame("Country"=c("England","Wales","Scotland"),
+                   "Foreign born Population (%)"=c(UK_data,UK_data,UK_data))
+
+m1 <- m %>% rbind(temp) %>% mutate(Team=Country) %>% 
   filter(Team!="United Kingdom") %>% select(-Country) %>%
   left_join(fin_df2,by="Team") %>%
   rename(`Foreign Born Players (%)`=`Foreign Born (%)`) %>%
