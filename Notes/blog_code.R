@@ -23,7 +23,10 @@ han <- read_csv("../data/1.main_data.csv") %>% as.data.frame() %>%
          Team = ifelse(Team=="NewZealand","New Zealand",Team),
          Birthcountry = ifelse(Birthcountry=="NewZealand","New Zealand",Birthcountry)) %>%
   select(-Position,-Wins,-Losses,-Draws) %>% filter(Debut>1900) %>% arrange(-Debut) %>%
-  filter(Team %in% target)
+  filter(Team %in% target) #%>%
+  # mutate(Birthplace = ifelse(Birthplace=="",Birthcountry,paste(Birthplace,Birthcountry,sep=", "))) %>%
+  # select(-Birthcountry)
+  
 
 # ###########################
 # Crunch Data
@@ -68,7 +71,7 @@ fin_df2 <- fin_df %>% filter(Team==Birthcountry) %>%
 library(reshape2)
 Debut_d <- fin_df2 %>% select(Team,"Native Players" = NativePlayers,"Foreign Players"=ForeignPlayers,
                   "Total Players" =TotalPlayers) %>%
-  melt(,id.vars = "Team", measure.vars = c("Native Players", "Foreign Players")) %>%
+  melt(id.vars = "Team", measure.vars = c("Native Players", "Foreign Players")) %>%
   filter(Team %in% target)
 
 library(ggplot2)
@@ -152,6 +155,11 @@ popcompare_g <- ggplot(m1, aes(x=Team, y=value, fill=variable)) +
 # ###########################
 # Player Exporters
 # ###########################
+
+# Expo <- fin_df %>% filter(Team %in% target,Team!=Birthcountry) %>%
+#   group_by(Birthcountry) %>%
+#   summarise(Players =n(),points=sum(Points),tries=sum(Tries),matches=sum(Matches)) %>%
+#   arrange(desc(Players),Birthcountry)
 
 Expo <- d %>% filter(Team!=Birthcountry) %>%
   group_by(Birthcountry) %>%

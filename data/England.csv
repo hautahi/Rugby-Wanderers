@@ -34,7 +34,7 @@ William Moberly,England,1872,Fullback,1.0,1.0,0.0,0.0,NA,0.0,Sx,England
 Nipper Pinching,England,1872,Forward,1.0,1.0,0.0,0.0,NA,0.0,Gravesend,England
 Percy Wilkinson,England,1872,Halfback,1.0,1.0,0.0,0.0,NA,0.0,Hampstead,England
 Cecil Boyle,England,1873,Halfback,1.0,0.0,0.0,1.0,NA,0.0,London,England
-Ernest Cheston,England,1873,Forward,5.0,3.0,0.0,2.0,NA,1.0,Hackney,USA
+Ernest Cheston,England,1873,Forward,5.0,3.0,0.0,2.0,NA,1.0,Hackney,England
 William Fletcher,England,1873,Forward,2.0,0.0,0.0,2.0,NA,0.0,Kensington,England
 Henry Lawrence,England,1873,Forward,4.0,2.0,0.0,2.0,NA,0.0,Lahore,India
 Henry Marsh,England,1873,Forward,1.0,0.0,0.0,1.0,NA,0.0,NA,Ireland
@@ -429,7 +429,7 @@ William Mills,England,1906,No. 8,11.0,4.0,6.0,1.0,12.0,4.0,Stoke Damerel,England
 James Hutchinson,England,1906,Wing,1.0,0.0,1.0,0.0,0.0,0.0,Stockton-on-Tees,England
 Cecil Milton,England,1906,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Cape Colony,England
 Joseph Sandford,England,1906,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Devon,England
-John Birkett,England,1906,Centre,21.0,12.0,7.0,2.0,34.0,10.0,Richmond,USA
+John Birkett,England,1906,Centre,21.0,12.0,7.0,2.0,34.0,10.0,Richmond,England
 Robert Dibble,England,1906,Forward,22.0,11.0,9.0,2.0,0.0,0.0,Bridgwater,England
 Darkie Peters,England,1906,Fly-half,5.0,2.0,3.0,0.0,6.0,2.0,Salford,England
 Cecil Shaw,England,1906,Forward,6.0,2.0,3.0,1.0,0.0,0.0,Wolverhampton,England
@@ -451,7 +451,7 @@ Andrew Newton,England,1907,Wing,1.0,0.0,1.0,0.0,0.0,0.0,Co Down,Ireland
 Khaki Roberts,England,1907,Forward,3.0,1.0,2.0,0.0,6.0,0.0,Exeter,England
 Sydney Start,England,1907,Scrum-half,1.0,0.0,1.0,0.0,0.0,0.0,Salford,England
 Patsy Boylen,England,1908,Forward,4.0,2.0,2.0,0.0,0.0,0.0,Hartlepool,England
-Ernest Chambers,England,1908,Forward,3.0,2.0,0.0,1.0,0.0,0.0,Hackney,USA
+Ernest Chambers,England,1908,Forward,3.0,2.0,0.0,1.0,0.0,0.0,Hackney,England
 Harry Havelock,England,1908,Flanker,3.0,2.0,1.0,0.0,0.0,0.0,Hartlepool,England
 Walter Lapage,England,1908,Centre,4.0,2.0,2.0,0.0,6.0,2.0,Nantwich,England
 Garnet Portus,England,1908,Fly-half,2.0,2.0,0.0,0.0,3.0,1.0,NSW,Australia
@@ -472,7 +472,7 @@ John Cooper,England,1909,Forward,2.0,0.0,2.0,0.0,0.0,0.0,Birmingham,England
 Percy Down,England,1908,Forward,4.0,0.0,3.0,1.0,0.0,0.0,Clifton,England
 Frederick Knight,England,1909,Flanker,1.0,0.0,1.0,0.0,0.0,0.0,Devon,England
 Edgar Mobbs,England,1909,Wing,7.0,3.0,3.0,1.0,12.0,4.0,Northampton,England
-Alfred Morris,England,1909,Forward,3.0,1.0,2.0,0.0,0.0,0.0,Richmond,USA
+Alfred Morris,England,1909,Forward,3.0,1.0,2.0,0.0,0.0,0.0,Richmond,England
 Sid Penny,England,1909,Forward,1.0,0.0,1.0,0.0,0.0,0.0,London,England
 Frank Tarr,England,1909,Centre,4.0,2.0,2.0,0.0,6.0,2.0,Belper,England
 Herbert Archer,England,1908,Forward,6.0,2.0,3.0,1.0,0.0,0.0,Bridgwater,England
@@ -728,7 +728,7 @@ Harold Wheatley,England,1936,Prop,7.0,3.0,4.0,0.0,0.0,0.0,Coventry,England
 Herbert Toft,England,1936,Hooker,10.0,7.0,3.0,0.0,0.0,0.0,Salford,England
 Arthur Butler,England,1937,Wing,2.0,2.0,0.0,0.0,3.0,1.0,Oxford,England
 David Campbell,England,1937,Flanker,2.0,2.0,0.0,0.0,0.0,0.0,NSW,Australia
-Thomas Huskisson,England,1937,Lock,8.0,6.0,2.0,0.0,0.0,0.0,Richmond,USA
+Thomas Huskisson,England,1937,Lock,8.0,6.0,2.0,0.0,0.0,0.0,Richmond,England
 Tommy Kemp,England,1937,Fly-half,5.0,3.0,1.0,1.0,0.0,0.0,Bolton,England
 Dermot Milman,England,1937,No. 8,4.0,2.0,2.0,0.0,0.0,0.0,Kent,England
 Robin Prescott,England,1937,Prop,6.0,5.0,1.0,0.0,3.0,1.0,Paddington,England
@@ -906,7 +906,7 @@ John Dee,England,1962,Centre,2.0,0.0,1.0,1.0,0.0,0.0,Hartlepool,England
 Andy Hurst,England,1962,Wing,1.0,0.0,0.0,1.0,0.0,0.0,Cairo,Egypt
 Thomas Pargetter,England,1962,Lock,3.0,1.0,1.0,1.0,0.0,0.0,Stratford,NewZealand
 Stanley Purdy,England,1962,Flanker,1.0,0.0,0.0,1.0,0.0,0.0,Rugby,England
-Simon Clarke,England,1963,Scrum-half,13.0,4.0,6.0,3.0,3.0,1.0,Westcliff,USA
+Simon Clarke,England,1963,Scrum-half,13.0,4.0,6.0,3.0,3.0,1.0,Westcliffe-on-Sea,England
 Mike Davis,England,1963,Lock,16.0,5.0,9.0,2.0,0.0,0.0,Lichfield,England
 Beverley Dovey,England,1963,Prop,2.0,1.0,0.0,1.0,0.0,0.0,Forest of Dean,England
 Nick Drake-Lee,England,1963,Prop,8.0,3.0,3.0,2.0,3.0,1.0,Kettering,England
@@ -918,7 +918,7 @@ Tug Wilson,England,1963,Prop,1.0,1.0,0.0,0.0,0.0,0.0,"Wilderness, Western Cape",
 Roger Hosen,England,1963,Fullback,10.0,3.0,7.0,0.0,63.0,0.0,Cornwall,England
 Victor Marriott,England,1963,Flanker,4.0,0.0,4.0,0.0,0.0,0.0,Battersea,England
 John Ranson,England,1963,Wing,7.0,1.0,5.0,1.0,6.0,2.0,Durham,England
-Roger Sangwin,England,1964,Centre,2.0,0.0,1.0,1.0,0.0,0.0,Holderness,USA
+Roger Sangwin,England,1964,Centre,2.0,0.0,1.0,1.0,0.0,0.0,Holderness,England
 Peter Ford,England,1964,Flanker,4.0,1.0,2.0,1.0,0.0,0.0,Gloucester,England
 Bob Rowell,England,1964,Lock,2.0,0.0,1.0,1.0,0.0,0.0,Corbridge,England
 Tom Brophy,England,1964,Fly-half,8.0,1.0,6.0,1.0,0.0,0.0,Liverpool,England
@@ -1372,7 +1372,7 @@ Calum Clark,England,2015,Flanker,1.0,1.0,0.0,0.0,0.0,0.0,Stockton-on-Tees,Englan
 Henry Slade,England,2015,Fly-half,2.0,2.0,0.0,0.0,5.0,1.0,Plymouth,England
 Luke Cowan-Dickie,England,2015,"Prop, Hooker",1.0,1.0,0.0,0.0,0.0,0.0,Truro,England
 Jamie George,England,2015,Hooker,6.0,5.0,1.0,0.0,0.0,0.0,Welwyn Garden City,England
-Jack Clifford,England,2016,Back-row,3.0,3.0,0.0,0.0,0.0,0.0,QLD,Australia
+Jack Clifford,England,2016,Back-row,3.0,3.0,0.0,0.0,0.0,0.0,Brisbane,Australia
 Paul Hill,England,2016,Prop,1.0,1.0,0.0,0.0,0.0,0.0,Aschaffenburg,Germany
 Maro Itoje,England,2016,"Lock, Back-row",2.0,2.0,0.0,0.0,0.0,0.0,Camden,England
 Elliot Daly,England,2016,Centre,1.0,1.0,0.0,0.0,0.0,0.0,Croydon,England

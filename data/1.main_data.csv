@@ -34,7 +34,7 @@ William Moberly,England,1872,Fullback,1.0,1.0,0.0,0.0,NA,0.0,Sx,England
 Nipper Pinching,England,1872,Forward,1.0,1.0,0.0,0.0,NA,0.0,Gravesend,England
 Percy Wilkinson,England,1872,Halfback,1.0,1.0,0.0,0.0,NA,0.0,Hampstead,England
 Cecil Boyle,England,1873,Halfback,1.0,0.0,0.0,1.0,NA,0.0,London,England
-Ernest Cheston,England,1873,Forward,5.0,3.0,0.0,2.0,NA,1.0,Hackney,USA
+Ernest Cheston,England,1873,Forward,5.0,3.0,0.0,2.0,NA,1.0,Hackney,England
 William Fletcher,England,1873,Forward,2.0,0.0,0.0,2.0,NA,0.0,Kensington,England
 Henry Lawrence,England,1873,Forward,4.0,2.0,0.0,2.0,NA,0.0,Lahore,India
 Henry Marsh,England,1873,Forward,1.0,0.0,0.0,1.0,NA,0.0,NA,Ireland
@@ -429,7 +429,7 @@ William Mills,England,1906,No. 8,11.0,4.0,6.0,1.0,12.0,4.0,Stoke Damerel,England
 James Hutchinson,England,1906,Wing,1.0,0.0,1.0,0.0,0.0,0.0,Stockton-on-Tees,England
 Cecil Milton,England,1906,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Cape Colony,England
 Joseph Sandford,England,1906,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Devon,England
-John Birkett,England,1906,Centre,21.0,12.0,7.0,2.0,34.0,10.0,Richmond,USA
+John Birkett,England,1906,Centre,21.0,12.0,7.0,2.0,34.0,10.0,Richmond,England
 Robert Dibble,England,1906,Forward,22.0,11.0,9.0,2.0,0.0,0.0,Bridgwater,England
 Darkie Peters,England,1906,Fly-half,5.0,2.0,3.0,0.0,6.0,2.0,Salford,England
 Cecil Shaw,England,1906,Forward,6.0,2.0,3.0,1.0,0.0,0.0,Wolverhampton,England
@@ -451,7 +451,7 @@ Andrew Newton,England,1907,Wing,1.0,0.0,1.0,0.0,0.0,0.0,Co Down,Ireland
 Khaki Roberts,England,1907,Forward,3.0,1.0,2.0,0.0,6.0,0.0,Exeter,England
 Sydney Start,England,1907,Scrum-half,1.0,0.0,1.0,0.0,0.0,0.0,Salford,England
 Patsy Boylen,England,1908,Forward,4.0,2.0,2.0,0.0,0.0,0.0,Hartlepool,England
-Ernest Chambers,England,1908,Forward,3.0,2.0,0.0,1.0,0.0,0.0,Hackney,USA
+Ernest Chambers,England,1908,Forward,3.0,2.0,0.0,1.0,0.0,0.0,Hackney,England
 Harry Havelock,England,1908,Flanker,3.0,2.0,1.0,0.0,0.0,0.0,Hartlepool,England
 Walter Lapage,England,1908,Centre,4.0,2.0,2.0,0.0,6.0,2.0,Nantwich,England
 Garnet Portus,England,1908,Fly-half,2.0,2.0,0.0,0.0,3.0,1.0,NSW,Australia
@@ -472,7 +472,7 @@ John Cooper,England,1909,Forward,2.0,0.0,2.0,0.0,0.0,0.0,Birmingham,England
 Percy Down,England,1908,Forward,4.0,0.0,3.0,1.0,0.0,0.0,Clifton,England
 Frederick Knight,England,1909,Flanker,1.0,0.0,1.0,0.0,0.0,0.0,Devon,England
 Edgar Mobbs,England,1909,Wing,7.0,3.0,3.0,1.0,12.0,4.0,Northampton,England
-Alfred Morris,England,1909,Forward,3.0,1.0,2.0,0.0,0.0,0.0,Richmond,USA
+Alfred Morris,England,1909,Forward,3.0,1.0,2.0,0.0,0.0,0.0,Richmond,England
 Sid Penny,England,1909,Forward,1.0,0.0,1.0,0.0,0.0,0.0,London,England
 Frank Tarr,England,1909,Centre,4.0,2.0,2.0,0.0,6.0,2.0,Belper,England
 Herbert Archer,England,1908,Forward,6.0,2.0,3.0,1.0,0.0,0.0,Bridgwater,England
@@ -728,7 +728,7 @@ Harold Wheatley,England,1936,Prop,7.0,3.0,4.0,0.0,0.0,0.0,Coventry,England
 Herbert Toft,England,1936,Hooker,10.0,7.0,3.0,0.0,0.0,0.0,Salford,England
 Arthur Butler,England,1937,Wing,2.0,2.0,0.0,0.0,3.0,1.0,Oxford,England
 David Campbell,England,1937,Flanker,2.0,2.0,0.0,0.0,0.0,0.0,NSW,Australia
-Thomas Huskisson,England,1937,Lock,8.0,6.0,2.0,0.0,0.0,0.0,Richmond,USA
+Thomas Huskisson,England,1937,Lock,8.0,6.0,2.0,0.0,0.0,0.0,Richmond,England
 Tommy Kemp,England,1937,Fly-half,5.0,3.0,1.0,1.0,0.0,0.0,Bolton,England
 Dermot Milman,England,1937,No. 8,4.0,2.0,2.0,0.0,0.0,0.0,Kent,England
 Robin Prescott,England,1937,Prop,6.0,5.0,1.0,0.0,3.0,1.0,Paddington,England
@@ -906,7 +906,7 @@ John Dee,England,1962,Centre,2.0,0.0,1.0,1.0,0.0,0.0,Hartlepool,England
 Andy Hurst,England,1962,Wing,1.0,0.0,0.0,1.0,0.0,0.0,Cairo,Egypt
 Thomas Pargetter,England,1962,Lock,3.0,1.0,1.0,1.0,0.0,0.0,Stratford,NewZealand
 Stanley Purdy,England,1962,Flanker,1.0,0.0,0.0,1.0,0.0,0.0,Rugby,England
-Simon Clarke,England,1963,Scrum-half,13.0,4.0,6.0,3.0,3.0,1.0,Westcliff,USA
+Simon Clarke,England,1963,Scrum-half,13.0,4.0,6.0,3.0,3.0,1.0,Westcliffe-on-Sea,England
 Mike Davis,England,1963,Lock,16.0,5.0,9.0,2.0,0.0,0.0,Lichfield,England
 Beverley Dovey,England,1963,Prop,2.0,1.0,0.0,1.0,0.0,0.0,Forest of Dean,England
 Nick Drake-Lee,England,1963,Prop,8.0,3.0,3.0,2.0,3.0,1.0,Kettering,England
@@ -918,7 +918,7 @@ Tug Wilson,England,1963,Prop,1.0,1.0,0.0,0.0,0.0,0.0,"Wilderness, Western Cape",
 Roger Hosen,England,1963,Fullback,10.0,3.0,7.0,0.0,63.0,0.0,Cornwall,England
 Victor Marriott,England,1963,Flanker,4.0,0.0,4.0,0.0,0.0,0.0,Battersea,England
 John Ranson,England,1963,Wing,7.0,1.0,5.0,1.0,6.0,2.0,Durham,England
-Roger Sangwin,England,1964,Centre,2.0,0.0,1.0,1.0,0.0,0.0,Holderness,USA
+Roger Sangwin,England,1964,Centre,2.0,0.0,1.0,1.0,0.0,0.0,Holderness,England
 Peter Ford,England,1964,Flanker,4.0,1.0,2.0,1.0,0.0,0.0,Gloucester,England
 Bob Rowell,England,1964,Lock,2.0,0.0,1.0,1.0,0.0,0.0,Corbridge,England
 Tom Brophy,England,1964,Fly-half,8.0,1.0,6.0,1.0,0.0,0.0,Liverpool,England
@@ -1372,7 +1372,7 @@ Calum Clark,England,2015,Flanker,1.0,1.0,0.0,0.0,0.0,0.0,Stockton-on-Tees,Englan
 Henry Slade,England,2015,Fly-half,2.0,2.0,0.0,0.0,5.0,1.0,Plymouth,England
 Luke Cowan-Dickie,England,2015,"Prop, Hooker",1.0,1.0,0.0,0.0,0.0,0.0,Truro,England
 Jamie George,England,2015,Hooker,6.0,5.0,1.0,0.0,0.0,0.0,Welwyn Garden City,England
-Jack Clifford,England,2016,Back-row,3.0,3.0,0.0,0.0,0.0,0.0,QLD,Australia
+Jack Clifford,England,2016,Back-row,3.0,3.0,0.0,0.0,0.0,0.0,Brisbane,Australia
 Paul Hill,England,2016,Prop,1.0,1.0,0.0,0.0,0.0,0.0,Aschaffenburg,Germany
 Maro Itoje,England,2016,"Lock, Back-row",2.0,2.0,0.0,0.0,0.0,0.0,Camden,England
 Elliot Daly,England,2016,Centre,1.0,1.0,0.0,0.0,0.0,0.0,Croydon,England
@@ -1696,7 +1696,7 @@ Jimmy Dobson,Scotland,1910,Wing,1.0,1.0,0.0,0.0,3.0,1.0,Glasgow,Scotland
 Andrew Lindsay,Scotland,1910,Scrum-half,2.0,1.0,1.0,0.0,0.0,0.0,Otepopo,
 Donald Macpherson,Scotland,1905,Wing,3.0,2.0,1.0,0.0,3.0,1.0,Waimate,NewZealand
 Rowland Fraser,Scotland,1911,Prop,4.0,0.0,4.0,0.0,0.0,0.0,Perth,Australia
-Frank Osler,Scotland,1911,Scrum-half,2.0,0.0,2.0,0.0,0.0,0.0,Riversdale,Canada
+Frank Osler,Scotland,1911,Scrum-half,2.0,0.0,2.0,0.0,0.0,0.0,Riversdale,SouthAfrica
 Alexander Stevenson,Scotland,1911,Forward,1.0,0.0,1.0,0.0,0.0,0.0,Glasgow,Scotland
 Borth Todd,Scotland,1911,Fullback,1.0,0.0,1.0,0.0,0.0,0.0,Peebles,Scotland
 Freddie Turner,Scotland,1911,Flanker,15.0,4.0,11.0,0.0,37.0,3.0,Liverpool,England
@@ -2066,7 +2066,7 @@ Malcolm Swan,Scotland,1958,Lock,8.0,3.0,4.0,1.0,0.0,0.0,Buenos Aires,Argentina
 Christie Elliot,Scotland,1958,Wing,12.0,3.0,7.0,2.0,8.0,0.0,,
 Stan Coughtrie,Scotland,1959,Scrum-half,11.0,5.0,4.0,2.0,8.0,0.0,Hamilton,NewZealand
 Ian Laughland,Scotland,1959,Centre,31.0,13.0,14.0,4.0,9.0,2.0,Bombay,India
-Frans Bos,Scotland,1959,Lock,17.0,6.0,9.0,2.0,3.0,1.0,Richmond,USA
+Frans Bos,Scotland,1959,Lock,17.0,6.0,9.0,2.0,3.0,1.0,Richmond,England
 Jock Davidson,Scotland,1959,No. 8,3.0,1.0,1.0,1.0,0.0,0.0,Ross,USA
 David Rollo,Scotland,1959,Prop,40.0,15.0,20.0,5.0,0.0,0.0,Fife,Scotland
 Jim Shackleton,Scotland,1959,Centre,7.0,2.0,3.0,2.0,3.0,1.0,Assam,India
@@ -2812,7 +2812,7 @@ Robert Burgess,Ireland,1912,Forward,1.0,0.0,1.0,0.0,0.0,0.0,,
 John Clune,Ireland,1912,Lock,6.0,2.0,4.0,0.0,0.0,0.0,Limerick,Ireland
 George Holmes,Ireland,1912,Centre,3.0,0.0,3.0,0.0,0.0,0.0,Rathmines,Fiji
 John Minch,Ireland,1912,Centre,5.0,1.0,4.0,0.0,0.0,0.0,Co Kildare,Ireland
-Geoffrey Schute,Ireland,1912,Forward,3.0,0.0,3.0,0.0,3.0,1.0,Dublin North,USA
+Geoffrey Schute,Ireland,1912,Forward,3.0,0.0,3.0,0.0,3.0,1.0,Dublin North,Ireland
 Charles Stuart,Ireland,1912,Fullback,1.0,0.0,1.0,0.0,0.0,0.0,,
 Richard Watson,Ireland,1912,Wing,1.0,0.0,1.0,0.0,0.0,0.0,,
 James Finlay,Ireland,1913,Forward,6.0,0.0,6.0,0.0,0.0,0.0,Northern Ireland,Ireland
@@ -3497,7 +3497,7 @@ Paddy Jackson,Ireland,2013,Fly-half,13.0,8.0,4.0,1.0,66.0,1.0,Northern Ireland,I
 Luke Marshall,Ireland,2013,Centre,6.0,2.0,3.0,1.0,0.0,0.0,Ballymoney,Ireland
 Ian Madigan,Ireland,2013,Fly-half,28.0,18.0,8.0,2.0,112.0,1.0,Dublin,Ireland
 Stephen Archer,Ireland,2013,Prop,2.0,0.0,2.0,0.0,0.0,0.0,Cork,Ireland
-Paul Marshall,Ireland,2013,Scrum-half,3.0,2.0,1.0,0.0,0.0,0.0,Northern Ireland,Ireland
+Paul Marshall,Ireland,2013,Scrum-half,3.0,2.0,1.0,0.0,0.0,0.0,Lisburn,Ireland
 Robbie Henshaw,Ireland,2013,"Centre, Fullback",18.0,10.0,7.0,1.0,5.0,1.0,Athlone,Ireland
 Stuart Olding,Ireland,2013,Fly-half,2.0,2.0,0.0,0.0,5.0,1.0,Northern Ireland,Ireland
 Jamie Hagan,Ireland,2013,Prop,1.0,1.0,0.0,0.0,0.0,0.0,Dublin,Ireland
@@ -4151,13 +4151,13 @@ Don Devereux,Wales,1958,Prop,3.0,2.0,0.0,1.0,0.0,0.0,Neath,Wales
 Wynne Evans,Wales,1958,Scrum-half,1.0,1.0,0.0,0.0,0.0,0.0,Llandybie,Wales
 Roddy Evans,Wales,1958,Lock,17.0,6.0,8.0,3.0,0.0,0.0,Porthcawl,Wales
 Carwyn James,Wales,1958,Centre,2.0,1.0,1.0,0.0,3.0,0.0,Cefneithin,Wales
-Haydn Morgan,Wales,1958,Flanker,31.0,14.0,14.0,3.0,9.0,3.0,Oakdale,USA
+Haydn Morgan,Wales,1958,Flanker,31.0,14.0,14.0,3.0,9.0,3.0,Oakdale,Wales
 John Evans,Wales,1958,Prop,2.0,1.0,1.0,0.0,0.0,0.0,Mountain Ash,Wales
 Howard Nicholls,Wales,1958,Wing,1.0,1.0,0.0,0.0,0.0,0.0,Maesteg,Wales
 Alun Priday,Wales,1958,Fullback,2.0,2.0,0.0,0.0,0.0,0.0,Cardiff,Wales
 Cyril Roberts,Wales,1958,Wing,2.0,1.0,1.0,0.0,3.0,1.0,Neath,Wales
 Cliff Ashton,Wales,1959,Fly-half,7.0,4.0,2.0,1.0,3.0,1.0,Cwmavon,Wales
-Dewi Bebb,Wales,1959,Wing,42.0,15.0,23.0,4.0,36.0,12.0,Bangor,USA
+Dewi Bebb,Wales,1959,Wing,42.0,15.0,23.0,4.0,36.0,12.0,Bangor,Ireland
 Haydn Davies,Wales,1959,Centre,2.0,1.0,1.0,0.0,0.0,0.0,Cowbridge,Wales
 Ian Ford,Wales,1959,Lock,2.0,1.0,1.0,0.0,0.0,0.0,Cardiff,Wales
 John Leleu,Wales,1959,Flanker,4.0,1.0,3.0,0.0,0.0,0.0,Bristol,England
@@ -4393,7 +4393,7 @@ Hugh Williams-Jones,Wales,1989,Prop,17.0,7.0,10.0,0.0,0.0,0.0,Bryncethin,Wales
 Laurance Delaney,Wales,1989,Prop,11.0,3.0,8.0,0.0,0.0,0.0,Llanelly,Australia
 Paul Turner,Wales,1989,Fly-half,3.0,1.0,2.0,0.0,0.0,0.0,Newport,Wales
 David Evans,Wales,1989,Fly-half,12.0,2.0,10.0,0.0,6.0,0.0,Wootton Bassett,England
-Arthur Jones,Wales,1989,Wing,13.0,4.0,9.0,0.0,16.0,4.0,Bangor,USA
+Arthur Jones,Wales,1989,Wing,13.0,4.0,9.0,0.0,16.0,4.0,Bangor,Ireland
 Gareth Llewellyn,Wales,1989,Lock,92.0,38.0,54.0,0.0,24.0,5.0,Cardiff,Wales
 Phil Pugh,Wales,1989,Flanker,1.0,0.0,1.0,0.0,0.0,0.0,Seven Sisters,England
 Andy Allen,Wales,1990,Lock,3.0,0.0,3.0,0.0,0.0,0.0,Newport,Wales
@@ -4645,7 +4645,7 @@ Nicky Smith,Wales,2014,Prop,3.0,1.0,2.0,0.0,0.0,0.0,Swansea,Wales
 Rob Evans,Wales,2015,Prop,6.0,4.0,1.0,1.0,0.0,0.0,Haverfordwest,Wales
 Dominic Day,Wales,2015,Lock,3.0,2.0,1.0,0.0,0.0,0.0,Pembroke,Wales
 Tyler Morgan,Wales,2015,Centre,3.0,1.0,2.0,0.0,0.0,0.0,Newport,Wales
-Ross Moriarty,Wales,2015,Back-row,4.0,2.0,2.0,0.0,0.0,0.0,Lancs,England
+Ross Moriarty,Wales,2015,Back-row,4.0,2.0,2.0,0.0,0.0,0.0,St Helens,England
 Eli Walker,Wales,2015,Wing,1.0,0.0,1.0,0.0,0.0,0.0,Swansea,Wales
 Gareth Anscombe,Wales,2015,"Fly-half, Fullback",5.0,2.0,3.0,0.0,4.0,0.0,North Shore,NewZealand
 Kristian Dacey,Wales,2015,Hooker,2.0,1.0,1.0,0.0,0.0,0.0,Merthyr Tydfil,Wales
@@ -4821,7 +4821,7 @@ Jack Bester,SouthAfrica,1924,Centre,2.0,2.0,0.0,0.0,3.0,1.0,Moorreesburg,SouthAf
 Nic Bosman,SouthAfrica,1924,Fullback,3.0,2.0,0.0,1.0,0.0,0.0,Pretoria,SouthAfrica
 Pally Truter,SouthAfrica,1924,Scrum-half,2.0,2.0,0.0,0.0,0.0,0.0,Riebeeck-Kasteel,
 Daunce Devine,SouthAfrica,1924,Scrum-half,2.0,0.0,1.0,1.0,0.0,0.0,Paarl,SouthAfrica
-Paul la Grange,SouthAfrica,1924,Flanker,2.0,1.0,0.0,1.0,0.0,0.0,Riversdale,Canada
+Paul la Grange,SouthAfrica,1924,Flanker,2.0,1.0,0.0,1.0,0.0,0.0,Riversdale,SouthAfrica
 Jack Slater,SouthAfrica,1924,Wing,3.0,2.0,0.0,1.0,6.0,2.0,Grahamstown,SouthAfrica
 BV Vanderplank,SouthAfrica,1924,Prop,2.0,1.0,0.0,1.0,0.0,0.0,Pietermaritzburg,SouthAfrica
 George Daneel,SouthAfrica,1928,No. 8,8.0,6.0,2.0,0.0,6.0,2.0,Calvinia,SouthAfrica
@@ -4895,8 +4895,8 @@ Jorrie Jordaan,SouthAfrica,1949,Hooker,4.0,4.0,0.0,0.0,0.0,0.0,Cradock,SouthAfri
 Bubbles Koch,SouthAfrica,1949,Lock,4.0,4.0,0.0,0.0,0.0,0.0,Hopefield,Wales
 Tjol Lategan,SouthAfrica,1949,Centre,11.0,10.0,1.0,0.0,9.0,3.0,Stellenbosch,SouthAfrica
 Buks Marais,SouthAfrica,1949,Wing,5.0,4.0,1.0,0.0,10.0,1.0,Cape Prov,
-Cecil Moss,SouthAfrica,1949,Wing,4.0,4.0,0.0,0.0,0.0,0.0,Riversdale,Canada
-Hennie Muller,SouthAfrica,1949,No. 8,13.0,12.0,1.0,0.0,16.0,3.0,Tvl,USA
+Cecil Moss,SouthAfrica,1949,Wing,4.0,4.0,0.0,0.0,0.0,0.0,Riversdale,SouthAfrica
+Hennie Muller,SouthAfrica,1949,No. 8,13.0,12.0,1.0,0.0,16.0,3.0,Witbank,SouthAfrica
 Louis Strydom,SouthAfrica,1949,Flanker,2.0,2.0,0.0,0.0,0.0,0.0,Robertson,USA
 Fiks van der Merwe,SouthAfrica,1949,Flanker,1.0,1.0,0.0,0.0,0.0,0.0,Cradock,SouthAfrica
 Jack van der Schyff,SouthAfrica,1949,Fullback,5.0,4.0,1.0,0.0,10.0,0.0,Kimberley,SouthAfrica
@@ -4956,7 +4956,7 @@ Mickey Gerber,SouthAfrica,1958,Fullback,3.0,1.0,1.0,1.0,8.0,0.0,Port Elizabeth,S
 Martin Pelser,SouthAfrica,1958,Flanker,11.0,7.0,1.0,3.0,6.0,2.0,Johannesburg,SouthAfrica
 Jan Prinsloo,SouthAfrica,1958,Wing,2.0,0.0,1.0,1.0,0.0,0.0,Pretoria,SouthAfrica
 Johan Steenekamp,SouthAfrica,1958,Lock,1.0,0.0,0.0,1.0,0.0,0.0,Alberton,Canada
-Hugo van Zyl,SouthAfrica,1958,Flanker,17.0,12.0,1.0,4.0,12.0,4.0,Porterville,USA
+Hugo van Zyl,SouthAfrica,1958,Flanker,17.0,12.0,1.0,4.0,12.0,4.0,Porterville,SouthAfrica
 Joe Kaminer,SouthAfrica,1958,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Warmbad,Germany
 Abie Malan,SouthAfrica,1958,Hooker,18.0,9.0,6.0,3.0,3.0,1.0,Kenhardt,SouthAfrica
 Louis Schmidt,SouthAfrica,1958,Flanker,2.0,1.0,1.0,0.0,0.0,0.0,Middelburg-Cape,SouthAfrica
@@ -5005,7 +5005,7 @@ Norman Riley,SouthAfrica,1963,Fly-half,1.0,0.0,1.0,0.0,0.0,0.0,,
 Haas Schoeman,SouthAfrica,1963,Flanker,7.0,1.0,6.0,0.0,0.0,0.0,Prince Albert,Canada
 Nelie Smith,SouthAfrica,1963,Scrum-half,7.0,2.0,5.0,0.0,12.0,1.0,,
 Corra Dirksen,SouthAfrica,1963,Wing,10.0,5.0,3.0,2.0,9.0,3.0,,
-Tiny Naude,SouthAfrica,1963,Lock,14.0,7.0,5.0,2.0,47.0,2.0,Warrenton,USA
+Tiny Naude,SouthAfrica,1963,Lock,14.0,7.0,5.0,2.0,47.0,2.0,Warrenton,SouthAfrica
 Gawie Carelse,SouthAfrica,1964,Lock,14.0,9.0,5.0,0.0,0.0,0.0,Port Elizabeth,SouthAfrica
 Mike Lawless,SouthAfrica,1964,Fly-half,4.0,0.0,2.0,2.0,0.0,0.0,Cape Town,SouthAfrica
 Don Walton,SouthAfrica,1964,Hooker,8.0,3.0,5.0,0.0,0.0,0.0,Durban,SouthAfrica
@@ -5025,7 +5025,7 @@ Albie de Waal,SouthAfrica,1967,No. 8,4.0,2.0,1.0,1.0,0.0,0.0,Moorreesburg,SouthA
 Piet Greyling,SouthAfrica,1967,Flanker,25.0,16.0,5.0,4.0,15.0,5.0,Zastron,SouthAfrica
 Gert Kotze,SouthAfrica,1967,Prop,4.0,2.0,1.0,1.0,0.0,0.0,Vredendal,SouthAfrica
 Tiny Neethling,SouthAfrica,1967,Prop,8.0,4.0,3.0,1.0,0.0,0.0,CapeProv,
-Eben Olivier,SouthAfrica,1967,"Scrum-half, Centre",16.0,11.0,3.0,2.0,15.0,5.0,Kirkswood,USA
+Eben Olivier,SouthAfrica,1967,"Scrum-half, Centre",16.0,11.0,3.0,2.0,15.0,5.0,Kirkswood,SouthAfrica
 Gys Pitzer,SouthAfrica,1967,Hooker,12.0,9.0,1.0,2.0,0.0,0.0,Louis Trichardt,SouthAfrica
 Piet Visagie,SouthAfrica,1967,Fly-half,25.0,18.0,4.0,3.0,130.0,6.0,Kimberley,SouthAfrica
 Syd Nomis,SouthAfrica,1967,Wing,25.0,16.0,4.0,5.0,18.0,6.0,Johannesburg,SouthAfrica
@@ -5049,13 +5049,13 @@ Sakkie Sauermann,SouthAfrica,1971,Prop,5.0,2.0,2.0,1.0,0.0,0.0,Alberton,Canada
 Joggie Viljoen,SouthAfrica,1971,Scrum-half,6.0,4.0,1.0,1.0,6.0,2.0,Cape Town,SouthAfrica
 John Williams,SouthAfrica,1971,Lock,13.0,7.0,4.0,2.0,0.0,0.0,Johannesburg,SouthAfrica
 Morne du Plessis,SouthAfrica,1971,No. 8,22.0,18.0,4.0,0.0,12.0,3.0,Krugersdorp,SouthAfrica
-Hannes Viljoen,SouthAfrica,1971,Wing,3.0,3.0,0.0,0.0,6.0,2.0,Elliott,USA
+Hannes Viljoen,SouthAfrica,1971,Wing,3.0,3.0,0.0,0.0,6.0,2.0,Elliott,SouthAfrica
 Martiens Louw,SouthAfrica,1971,Prop,2.0,2.0,0.0,0.0,0.0,0.0,Germiston,SouthAfrica
 Niek Bezuidenhout,SouthAfrica,1972,Prop,9.0,5.0,3.0,1.0,0.0,0.0,Delmas,Ayiti
 Ray Carlson,SouthAfrica,1972,Fullback,1.0,0.0,1.0,0.0,0.0,0.0,East London,SouthAfrica
 Piet du Plessis,SouthAfrica,1972,Lock,1.0,0.0,1.0,0.0,0.0,0.0,Nylstroom,SouthAfrica
 Dawie Snyman,SouthAfrica,1972,Fullback,10.0,6.0,4.0,0.0,24.0,1.0,Johannesburg,SouthAfrica
-Boland Coetzee,SouthAfrica,1974,Flanker,6.0,4.0,2.0,0.0,0.0,0.0,Porterville,USA
+Boland Coetzee,SouthAfrica,1974,Flanker,6.0,4.0,2.0,0.0,0.0,0.0,Porterville,SouthAfrica
 Kevin de Klerk,SouthAfrica,1974,Lock,13.0,9.0,4.0,0.0,0.0,0.0,Johannesburg,SouthAfrica
 Roy McCallum,SouthAfrica,1974,Scrum-half,1.0,0.0,1.0,0.0,0.0,0.0,Kitwe,Zambia
 Kol Oosthuizen,SouthAfrica,1974,Centre,9.0,7.0,2.0,0.0,8.0,2.0,Cape Prov,
@@ -5212,7 +5212,7 @@ Justin Swart,SouthAfrica,1996,Wing,10.0,6.0,4.0,0.0,5.0,1.0,Stellenbosch,SouthAf
 Danie van Schalkwyk,SouthAfrica,1996,Centre,8.0,3.0,5.0,0.0,10.0,2.0,Boksburg,SouthAfrica
 Dawie Theron,SouthAfrica,1996,Prop,13.0,8.0,5.0,0.0,0.0,0.0,Bloemfontein,SouthAfrica
 Andre Snyman,SouthAfrica,1996,Centre,38.0,26.0,12.0,0.0,50.0,10.0,Natal,SouthAfrica
-Henry Tromp,SouthAfrica,1996,Hooker,4.0,2.0,2.0,0.0,0.0,0.0,South-West Africa,Burkina Faso
+Henry Tromp,SouthAfrica,1996,Hooker,4.0,2.0,2.0,0.0,0.0,0.0,Otjiwarongo,Namibia
 Andre Venter,SouthAfrica,1996,Flanker,66.0,41.0,24.0,1.0,45.0,9.0,Vereeniging,SouthAfrica
 Vlok Cilliers,SouthAfrica,1996,Fly-half,1.0,0.0,1.0,0.0,0.0,0.0,Williston,SouthAfrica
 Wayne Fyvie,SouthAfrica,1996,Flanker,3.0,2.0,1.0,0.0,0.0,0.0,Harrismith,SouthAfrica
@@ -5416,7 +5416,7 @@ Julian Redelinghuys,SouthAfrica,2014,Prop,2.0,1.0,1.0,0.0,0.0,0.0,Pretoria,South
 Jesse Kriel,SouthAfrica,2015,Fullback,11.0,6.0,5.0,0.0,15.0,3.0,Cape Town,SouthAfrica
 Vincent Koch,SouthAfrica,2015,Prop,2.0,0.0,2.0,0.0,0.0,0.0,Empangeni,SouthAfrica
 Lionel Mapoe,SouthAfrica,2015,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Port Elizabeth,SouthAfrica
-Rudy Paige,SouthAfrica,2015,Scrum-half,2.0,2.0,0.0,0.0,0.0,0.0,Riversdale,Canada
+Rudy Paige,SouthAfrica,2015,Scrum-half,2.0,2.0,0.0,0.0,0.0,0.0,Heidelberg,SouthAfrica
 Paddy Carew,Australia,1899,Prop,4.0,1.0,3.0,0.0,0.0,0.0,QLD,Australia
 James Carson,Australia,1899,Prop,1.0,1.0,0.0,0.0,0.0,0.0,Grahamstown,SouthAfrica
 Ginger Colton,Australia,1899,No. 8,2.0,1.0,1.0,0.0,3.0,1.0,QLD,Australia
@@ -5463,7 +5463,7 @@ Sid Riley,Australia,1903,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Auckland,NewZealand
 Stan Wickham,Australia,1903,Centre,5.0,0.0,5.0,0.0,3.0,0.0,NSW,Australia
 Snowy Baker,Australia,1904,Scrum-half,2.0,0.0,2.0,0.0,0.0,0.0,NSW,Australia
 Puddin Colton,Australia,1904,Flanker,2.0,0.0,2.0,0.0,0.0,0.0,QLD,Australia
-Eddie Dore,Australia,1904,Hooker,1.0,0.0,1.0,0.0,0.0,0.0,Limeric,USA
+Eddie Dore,Australia,1904,Hooker,1.0,0.0,1.0,0.0,0.0,0.0,Limerick,Ireland
 Jack Hindmarsh,Australia,1904,Centre,1.0,0.0,1.0,0.0,0.0,0.0,NSW,Australia
 Billy Richards,Australia,1904,Lock,5.0,0.0,5.0,0.0,0.0,0.0,NSW,Australia
 Jack Verge,Australia,1904,Fullback,2.0,0.0,2.0,0.0,0.0,0.0,NSW,Australia
@@ -7127,7 +7127,7 @@ TJ Perenara,NewZealand,2014,Scrum-half,17.0,16.0,1.0,0.0,5.0,1.0,Porirua,NewZeal
 Patrick Tuipulotu,NewZealand,2014,Lock,7.0,7.0,0.0,0.0,5.0,1.0,Auckland,NewZealand
 Joe Moody,NewZealand,2014,Prop,11.0,9.0,1.0,1.0,5.0,1.0,Christchurch,NewZealand
 Nathan Harris,NewZealand,2014,Hooker,2.0,2.0,0.0,0.0,5.0,1.0,Tauranga,NewZealand
-Augustine Pulu,NewZealand,2014,Scrum-half,2.0,2.0,0.0,0.0,0.0,0.0,S Auckland,NewZealand
+Augustine Pulu,NewZealand,2014,Scrum-half,2.0,2.0,0.0,0.0,0.0,0.0,Otahuhu,NewZealand
 James Parsons,NewZealand,2014,Hooker,1.0,1.0,0.0,0.0,0.0,0.0,Auckland,NewZealand
 George Moala,NewZealand,2015,Wing,1.0,1.0,0.0,0.0,5.0,1.0,Auckland,NewZealand
 Nepo Laulala,NewZealand,2015,Prop,4.0,3.0,1.0,0.0,0.0,0.0,Motootua,Samoa
@@ -7666,7 +7666,7 @@ Jean-Claude Berejnoi,France,1963,Prop,27.0,19.0,4.0,4.0,0.0,0.0,Decazeville,Fran
 Jean-Michel Cabanier,France,1963,Hooker,26.0,18.0,5.0,3.0,12.0,4.0,Lavilledieu-du-Templ,
 Andre Herrero,France,1963,Back-row,22.0,14.0,5.0,3.0,6.0,2.0,Puisserguier,France
 Jean-Joseph Rupert,France,1963,Flanker,14.0,9.0,3.0,2.0,12.0,4.0,Saint-Jean-de-Marsac,
-Jacques Bayardon,France,1964,Prop,3.0,0.0,3.0,0.0,0.0,0.0,Macon,USA
+Jacques Bayardon,France,1964,Prop,3.0,0.0,3.0,0.0,0.0,0.0,Macon,France
 Benoit Dauga,France,1964,"Lock, No. 8",63.0,30.0,26.0,7.0,34.0,11.0,Montgaillard,France
 Jean-Baptiste Amestoy,France,1964,Prop,2.0,0.0,2.0,0.0,0.0,0.0,Ustaritz,France
 Jean-Claude Hiquet,France,1964,Fly-half,1.0,0.0,1.0,0.0,0.0,0.0,Soustons,France
@@ -8090,7 +8090,7 @@ Denis Avril,France,2005,Prop,1.0,0.0,1.0,0.0,0.0,0.0,Thouars,France
 Guilliaume Bousses,France,2006,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Toulouse,France
 Benjamin Boyet,France,2006,Fly-half,5.0,1.0,4.0,0.0,11.0,0.0,Vienne,France
 David Attoub,France,2006,Prop,4.0,2.0,2.0,0.0,0.0,0.0,Valence,France
-Thierry Dusautoir,France,2006,Back-row,80.0,41.0,37.0,2.0,30.0,6.0,Ivory Coas,IvoryCoast
+Thierry Dusautoir,France,2006,Back-row,80.0,41.0,37.0,2.0,30.0,6.0,Abidjan,Ivory Coast
 Vincent Debaty,France,2006,Prop,37.0,16.0,19.0,2.0,5.0,1.0,Woluwe-Saint-Lambert,Belgium
 Loic Jacquet,France,2006,Lock,4.0,3.0,1.0,0.0,0.0,0.0,Saint-Doulchard,France
 Lionel Beauxis,France,2007,Fly-half,20.0,12.0,7.0,1.0,125.0,1.0,Tarbes,France
@@ -8196,7 +8196,7 @@ Remy Grosso,France,2015,Wing,1.0,1.0,0.0,0.0,5.0,1.0,Lyon,France
 Sebastien Bezy,France,2016,Scrum-half,3.0,2.0,1.0,0.0,0.0,0.0,Hauts-de-Seine,France
 Jonathan Danty,France,2016,Centre,3.0,2.0,1.0,0.0,0.0,0.0,Paris,France
 Paul Jedrasiak,France,2016,Lock,3.0,2.0,1.0,0.0,0.0,0.0,Montlucon,France
-Virimi Vakatawa,France,2016,Wing,3.0,2.0,1.0,0.0,5.0,1.0,Rangiora,Fiji
+Virimi Vakatawa,France,2016,Wing,3.0,2.0,1.0,0.0,5.0,1.0,Rangiora,NewZealand
 Yacouba Camara,France,2016,Back-row,2.0,2.0,0.0,0.0,0.0,0.0,Aubervilliers,France
 Jefferson Poirot,France,2016,Prop,3.0,2.0,1.0,0.0,0.0,0.0,Val-d'Oise,France
 Camille Chat,France,2016,Hooker,2.0,1.0,1.0,0.0,0.0,0.0,Auxerre,France
@@ -8981,7 +8981,7 @@ Santiago Craig,Argentina,2012,Centre,2.0,2.0,0.0,0.0,15.0,3.0,Buenos Aires,Argen
 Joaquin Tuculet,Argentina,2012,Centre,28.0,12.0,16.0,0.0,40.0,8.0,La Plata,Argentina
 Andres Bordoy,Argentina,2012,Hooker,2.0,1.0,1.0,0.0,0.0,0.0,Rosario,Argentina
 Nahuel Lobo,Argentina,2012,Prop,10.0,1.0,9.0,0.0,0.0,0.0,Chajari,Argentina
-Maximiliano Bustos,Argentina,2012,Prop,7.0,2.0,5.0,0.0,0.0,0.0,Santa Fe,USA
+Maximiliano Bustos,Argentina,2012,Prop,7.0,2.0,5.0,0.0,0.0,0.0,Santa Fe,Argentina
 Juan Cappiello,Argentina,2013,Centre,3.0,3.0,0.0,0.0,5.0,1.0,Buenos Aires,Argentina
 Tomas Carrio,Argentina,2013,Fullback,6.0,6.0,0.0,0.0,15.0,3.0,Chaco,Argentina
 Matias Diaz,Argentina,2013,Prop,11.0,5.0,6.0,0.0,0.0,0.0,Mendoza,Argentina
@@ -9023,7 +9023,7 @@ Guido Petti Pagadizaval,Argentina,2014,Lock,12.0,8.0,4.0,0.0,5.0,1.0,Buenos Aire
 Tomas Lezana,Argentina,2014,Flanker,5.0,4.0,1.0,0.0,5.0,1.0,Santiago del Estero,Argentina
 Geronimo Albertario,Argentina,2015,Lock,2.0,2.0,0.0,0.0,0.0,0.0,Buenos Aires,Argentina
 Gregorio del Prete,Argentina,2015,Scrum-half,1.0,1.0,0.0,0.0,0.0,0.0,Mar del Plata,Argentina
-Juan Leon Novillo,Argentina,2015,Wing,2.0,2.0,0.0,0.0,17.0,1.0,Tucum_n,Argentina
+Juan Leon Novillo,Argentina,2015,Wing,2.0,2.0,0.0,0.0,17.0,1.0,Tucuman,Argentina
 Gonzalo Bertranou,Argentina,2015,Scrum-half,1.0,1.0,0.0,0.0,0.0,0.0,Mendoza,Argentina
 Manuel Plaza,Argentina,2015,Lock,1.0,1.0,0.0,0.0,0.0,0.0,Salta,Argentina
 Juan Pablo Socino,Argentina,2015,Centre,4.0,1.0,3.0,0.0,8.0,0.0,Buenos Aires,Argentina
@@ -9296,7 +9296,7 @@ Giancarlo Cecotti,Italy,1972,No. 8,2.0,1.0,1.0,0.0,0.0,0.0,UD,Italy
 Mario Galletto,Italy,1972,Fly-half,3.0,2.0,1.0,0.0,0.0,0.0,Trieste,Italy
 Paolo Paoletti,Italy,1972,Hooker,20.0,7.0,12.0,1.0,0.0,0.0,RM,Italy
 Giovanni di Cola,Italy,1972,Centre,3.0,0.0,2.0,1.0,0.0,0.0,Acciano.AQ,Italy
-Ambrogio Bona,Italy,1972,Prop,50.0,23.0,24.0,3.0,4.0,1.0,MI,USA
+Ambrogio Bona,Italy,1972,Prop,50.0,23.0,24.0,3.0,4.0,1.0,Monza,Italy
 Franco Paganelli,Italy,1972,NA,1.0,0.0,0.0,1.0,0.0,0.0,Roma,Italy
 Salvatore Bonetti,Italy,1972,No. 8,34.0,12.0,20.0,2.0,12.0,3.0,BS,The Bahamas
 Elio de Anna,Italy,1972,Wing,27.0,12.0,13.0,2.0,32.0,8.0,PN,Pitcairn Islands
@@ -9680,7 +9680,7 @@ Ornel Gega,Italy,2016,Hooker,2.0,0.0,2.0,0.0,0.0,0.0,Lazhe,Albania
 Andrea Lovotti,Italy,2016,Prop,3.0,0.0,3.0,0.0,0.0,0.0,Piacenza,Italy
 David Odiete,Italy,2016,Wing,2.0,0.0,2.0,0.0,0.0,0.0,Reggio Emilia,Italy
 Dries van Schalkwyk,Italy,2016,No. 8,2.0,0.0,2.0,0.0,0.0,0.0,Bloemfontein,SouthAfrica
-Matteo Zanusso,Italy,2016,Prop,3.0,0.0,3.0,0.0,0.0,0.0,VE,Italy
+Matteo Zanusso,Italy,2016,Prop,3.0,0.0,3.0,0.0,0.0,0.0,San Dona di Piave,Italy
 Edoardo Padovani,Italy,2016,Fly-half,2.0,0.0,2.0,0.0,0.0,0.0,Venezia,Italy
 Braam Steyn,Italy,2016,Back-row,1.0,0.0,1.0,0.0,0.0,0.0,Cradock,SouthAfrica
 Agnew,Samoa,1924,Centre,2.0,1.0,1.0,0.0,0.0,0.0,,

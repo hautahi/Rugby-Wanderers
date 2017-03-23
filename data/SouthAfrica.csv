@@ -170,7 +170,7 @@ Jack Bester,SouthAfrica,1924,Centre,2.0,2.0,0.0,0.0,3.0,1.0,Moorreesburg,SouthAf
 Nic Bosman,SouthAfrica,1924,Fullback,3.0,2.0,0.0,1.0,0.0,0.0,Pretoria,SouthAfrica
 Pally Truter,SouthAfrica,1924,Scrum-half,2.0,2.0,0.0,0.0,0.0,0.0,Riebeeck-Kasteel,
 Daunce Devine,SouthAfrica,1924,Scrum-half,2.0,0.0,1.0,1.0,0.0,0.0,Paarl,SouthAfrica
-Paul la Grange,SouthAfrica,1924,Flanker,2.0,1.0,0.0,1.0,0.0,0.0,Riversdale,Canada
+Paul la Grange,SouthAfrica,1924,Flanker,2.0,1.0,0.0,1.0,0.0,0.0,Riversdale,SouthAfrica
 Jack Slater,SouthAfrica,1924,Wing,3.0,2.0,0.0,1.0,6.0,2.0,Grahamstown,SouthAfrica
 BV Vanderplank,SouthAfrica,1924,Prop,2.0,1.0,0.0,1.0,0.0,0.0,Pietermaritzburg,SouthAfrica
 George Daneel,SouthAfrica,1928,No. 8,8.0,6.0,2.0,0.0,6.0,2.0,Calvinia,SouthAfrica
@@ -244,8 +244,8 @@ Jorrie Jordaan,SouthAfrica,1949,Hooker,4.0,4.0,0.0,0.0,0.0,0.0,Cradock,SouthAfri
 Bubbles Koch,SouthAfrica,1949,Lock,4.0,4.0,0.0,0.0,0.0,0.0,Hopefield,Wales
 Tjol Lategan,SouthAfrica,1949,Centre,11.0,10.0,1.0,0.0,9.0,3.0,Stellenbosch,SouthAfrica
 Buks Marais,SouthAfrica,1949,Wing,5.0,4.0,1.0,0.0,10.0,1.0,Cape Prov,
-Cecil Moss,SouthAfrica,1949,Wing,4.0,4.0,0.0,0.0,0.0,0.0,Riversdale,Canada
-Hennie Muller,SouthAfrica,1949,No. 8,13.0,12.0,1.0,0.0,16.0,3.0,Tvl,USA
+Cecil Moss,SouthAfrica,1949,Wing,4.0,4.0,0.0,0.0,0.0,0.0,Riversdale,SouthAfrica
+Hennie Muller,SouthAfrica,1949,No. 8,13.0,12.0,1.0,0.0,16.0,3.0,Witbank,SouthAfrica
 Louis Strydom,SouthAfrica,1949,Flanker,2.0,2.0,0.0,0.0,0.0,0.0,Robertson,USA
 Fiks van der Merwe,SouthAfrica,1949,Flanker,1.0,1.0,0.0,0.0,0.0,0.0,Cradock,SouthAfrica
 Jack van der Schyff,SouthAfrica,1949,Fullback,5.0,4.0,1.0,0.0,10.0,0.0,Kimberley,SouthAfrica
@@ -305,7 +305,7 @@ Mickey Gerber,SouthAfrica,1958,Fullback,3.0,1.0,1.0,1.0,8.0,0.0,Port Elizabeth,S
 Martin Pelser,SouthAfrica,1958,Flanker,11.0,7.0,1.0,3.0,6.0,2.0,Johannesburg,SouthAfrica
 Jan Prinsloo,SouthAfrica,1958,Wing,2.0,0.0,1.0,1.0,0.0,0.0,Pretoria,SouthAfrica
 Johan Steenekamp,SouthAfrica,1958,Lock,1.0,0.0,0.0,1.0,0.0,0.0,Alberton,Canada
-Hugo van Zyl,SouthAfrica,1958,Flanker,17.0,12.0,1.0,4.0,12.0,4.0,Porterville,USA
+Hugo van Zyl,SouthAfrica,1958,Flanker,17.0,12.0,1.0,4.0,12.0,4.0,Porterville,SouthAfrica
 Joe Kaminer,SouthAfrica,1958,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Warmbad,Germany
 Abie Malan,SouthAfrica,1958,Hooker,18.0,9.0,6.0,3.0,3.0,1.0,Kenhardt,SouthAfrica
 Louis Schmidt,SouthAfrica,1958,Flanker,2.0,1.0,1.0,0.0,0.0,0.0,Middelburg-Cape,SouthAfrica
@@ -354,7 +354,7 @@ Norman Riley,SouthAfrica,1963,Fly-half,1.0,0.0,1.0,0.0,0.0,0.0,,
 Haas Schoeman,SouthAfrica,1963,Flanker,7.0,1.0,6.0,0.0,0.0,0.0,Prince Albert,Canada
 Nelie Smith,SouthAfrica,1963,Scrum-half,7.0,2.0,5.0,0.0,12.0,1.0,,
 Corra Dirksen,SouthAfrica,1963,Wing,10.0,5.0,3.0,2.0,9.0,3.0,,
-Tiny Naude,SouthAfrica,1963,Lock,14.0,7.0,5.0,2.0,47.0,2.0,Warrenton,USA
+Tiny Naude,SouthAfrica,1963,Lock,14.0,7.0,5.0,2.0,47.0,2.0,Warrenton,SouthAfrica
 Gawie Carelse,SouthAfrica,1964,Lock,14.0,9.0,5.0,0.0,0.0,0.0,Port Elizabeth,SouthAfrica
 Mike Lawless,SouthAfrica,1964,Fly-half,4.0,0.0,2.0,2.0,0.0,0.0,Cape Town,SouthAfrica
 Don Walton,SouthAfrica,1964,Hooker,8.0,3.0,5.0,0.0,0.0,0.0,Durban,SouthAfrica
@@ -374,7 +374,7 @@ Albie de Waal,SouthAfrica,1967,No. 8,4.0,2.0,1.0,1.0,0.0,0.0,Moorreesburg,SouthA
 Piet Greyling,SouthAfrica,1967,Flanker,25.0,16.0,5.0,4.0,15.0,5.0,Zastron,SouthAfrica
 Gert Kotze,SouthAfrica,1967,Prop,4.0,2.0,1.0,1.0,0.0,0.0,Vredendal,SouthAfrica
 Tiny Neethling,SouthAfrica,1967,Prop,8.0,4.0,3.0,1.0,0.0,0.0,CapeProv,
-Eben Olivier,SouthAfrica,1967,"Scrum-half, Centre",16.0,11.0,3.0,2.0,15.0,5.0,Kirkswood,USA
+Eben Olivier,SouthAfrica,1967,"Scrum-half, Centre",16.0,11.0,3.0,2.0,15.0,5.0,Kirkswood,SouthAfrica
 Gys Pitzer,SouthAfrica,1967,Hooker,12.0,9.0,1.0,2.0,0.0,0.0,Louis Trichardt,SouthAfrica
 Piet Visagie,SouthAfrica,1967,Fly-half,25.0,18.0,4.0,3.0,130.0,6.0,Kimberley,SouthAfrica
 Syd Nomis,SouthAfrica,1967,Wing,25.0,16.0,4.0,5.0,18.0,6.0,Johannesburg,SouthAfrica
@@ -398,13 +398,13 @@ Sakkie Sauermann,SouthAfrica,1971,Prop,5.0,2.0,2.0,1.0,0.0,0.0,Alberton,Canada
 Joggie Viljoen,SouthAfrica,1971,Scrum-half,6.0,4.0,1.0,1.0,6.0,2.0,Cape Town,SouthAfrica
 John Williams,SouthAfrica,1971,Lock,13.0,7.0,4.0,2.0,0.0,0.0,Johannesburg,SouthAfrica
 Morne du Plessis,SouthAfrica,1971,No. 8,22.0,18.0,4.0,0.0,12.0,3.0,Krugersdorp,SouthAfrica
-Hannes Viljoen,SouthAfrica,1971,Wing,3.0,3.0,0.0,0.0,6.0,2.0,Elliott,USA
+Hannes Viljoen,SouthAfrica,1971,Wing,3.0,3.0,0.0,0.0,6.0,2.0,Elliott,SouthAfrica
 Martiens Louw,SouthAfrica,1971,Prop,2.0,2.0,0.0,0.0,0.0,0.0,Germiston,SouthAfrica
 Niek Bezuidenhout,SouthAfrica,1972,Prop,9.0,5.0,3.0,1.0,0.0,0.0,Delmas,Ayiti
 Ray Carlson,SouthAfrica,1972,Fullback,1.0,0.0,1.0,0.0,0.0,0.0,East London,SouthAfrica
 Piet du Plessis,SouthAfrica,1972,Lock,1.0,0.0,1.0,0.0,0.0,0.0,Nylstroom,SouthAfrica
 Dawie Snyman,SouthAfrica,1972,Fullback,10.0,6.0,4.0,0.0,24.0,1.0,Johannesburg,SouthAfrica
-Boland Coetzee,SouthAfrica,1974,Flanker,6.0,4.0,2.0,0.0,0.0,0.0,Porterville,USA
+Boland Coetzee,SouthAfrica,1974,Flanker,6.0,4.0,2.0,0.0,0.0,0.0,Porterville,SouthAfrica
 Kevin de Klerk,SouthAfrica,1974,Lock,13.0,9.0,4.0,0.0,0.0,0.0,Johannesburg,SouthAfrica
 Roy McCallum,SouthAfrica,1974,Scrum-half,1.0,0.0,1.0,0.0,0.0,0.0,Kitwe,Zambia
 Kol Oosthuizen,SouthAfrica,1974,Centre,9.0,7.0,2.0,0.0,8.0,2.0,Cape Prov,
@@ -561,7 +561,7 @@ Justin Swart,SouthAfrica,1996,Wing,10.0,6.0,4.0,0.0,5.0,1.0,Stellenbosch,SouthAf
 Danie van Schalkwyk,SouthAfrica,1996,Centre,8.0,3.0,5.0,0.0,10.0,2.0,Boksburg,SouthAfrica
 Dawie Theron,SouthAfrica,1996,Prop,13.0,8.0,5.0,0.0,0.0,0.0,Bloemfontein,SouthAfrica
 Andre Snyman,SouthAfrica,1996,Centre,38.0,26.0,12.0,0.0,50.0,10.0,Natal,SouthAfrica
-Henry Tromp,SouthAfrica,1996,Hooker,4.0,2.0,2.0,0.0,0.0,0.0,South-West Africa,Burkina Faso
+Henry Tromp,SouthAfrica,1996,Hooker,4.0,2.0,2.0,0.0,0.0,0.0,Otjiwarongo,Namibia
 Andre Venter,SouthAfrica,1996,Flanker,66.0,41.0,24.0,1.0,45.0,9.0,Vereeniging,SouthAfrica
 Vlok Cilliers,SouthAfrica,1996,Fly-half,1.0,0.0,1.0,0.0,0.0,0.0,Williston,SouthAfrica
 Wayne Fyvie,SouthAfrica,1996,Flanker,3.0,2.0,1.0,0.0,0.0,0.0,Harrismith,SouthAfrica
@@ -765,4 +765,4 @@ Julian Redelinghuys,SouthAfrica,2014,Prop,2.0,1.0,1.0,0.0,0.0,0.0,Pretoria,South
 Jesse Kriel,SouthAfrica,2015,Fullback,11.0,6.0,5.0,0.0,15.0,3.0,Cape Town,SouthAfrica
 Vincent Koch,SouthAfrica,2015,Prop,2.0,0.0,2.0,0.0,0.0,0.0,Empangeni,SouthAfrica
 Lionel Mapoe,SouthAfrica,2015,Centre,1.0,0.0,1.0,0.0,0.0,0.0,Port Elizabeth,SouthAfrica
-Rudy Paige,SouthAfrica,2015,Scrum-half,2.0,2.0,0.0,0.0,0.0,0.0,Riversdale,Canada
+Rudy Paige,SouthAfrica,2015,Scrum-half,2.0,2.0,0.0,0.0,0.0,0.0,Heidelberg,SouthAfrica
