@@ -135,6 +135,7 @@ for country in COUNTRY:
 	POSITION = cPickle.load(open(storage + country + "/Position.p","r"))
 	STATS = cPickle.load(open(storage + country + "/Stats.p","r"))
 	BIRTH = cPickle.load(open(storage + country + "/Birth.p","r"))
+	LINK = cPickle.load(open(storage + country + "/Player_links.p","r"))
 
 	# Currently only care about year of debut, so we strip this out
 	debut_year = extract_debutyear(DEBUT)
@@ -180,9 +181,13 @@ for country in COUNTRY:
 	d = {'Name' : NAMES,'Debut' : debut_year,'Position':POSITION,'Matches':stat_extract(STATS,'Mat'),
 	 'Wins':stat_extract(STATS,'Won'),'Losses':stat_extract(STATS,'Lost'),'Draws':stat_extract(STATS,'Draw'),
 	 'Tries':stat_extract(STATS,'Tries'),'City':Birth_City, 'Points':stat_extract(STATS,'Pts'),
-	'BirthMonth':Birth_Month, 'BirthYear':Birth_Year,"City":Birth_City,'Team':country_col,
+	'BirthMonth':Birth_Month, 'BirthYear':Birth_Year,"City":Birth_City,
 	'Bcountry':birth_country,'Bcountry1':birth_country1,'Bcountry2':birth_country2,'Bcountry3':birth_country3}
 	df_country = pd.DataFrame(d)
+	
+	df_country['Team'] = np.asarray(country_col)
+	df_country['Links'] = np.asarray(LINK)
+
 	df_country[df_country.isnull()] = np.nan
 
 	df = df.append(df_country)
