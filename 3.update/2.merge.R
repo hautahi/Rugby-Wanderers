@@ -16,7 +16,7 @@ update_original <- update_original[names(original)]
 
 # Extract New Players
 update_new <- full %>% filter(is.na(Name.x))
-names(update_new) <- gsub(".x", "", names(update_new), fixed = TRUE)
+names(update_new) <- gsub(".y", "", names(update_new), fixed = TRUE)
 update_new <- update_new[names(original)]
 
 # Update data for originals
