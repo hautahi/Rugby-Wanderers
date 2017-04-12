@@ -15,7 +15,8 @@ d <- read_csv("../data/1.main_data.csv") %>%
   mutate(Team = ifelse(Team=="SouthAfrica","South Africa",Team),
          Birthcountry = ifelse(Birthcountry=="SouthAfrica","South Africa",Birthcountry),
          Team = ifelse(Team=="NewZealand","New Zealand",Team),
-         Birthcountry = ifelse(Birthcountry=="NewZealand","New Zealand",Birthcountry))
+         Birthcountry = ifelse(Birthcountry=="NewZealand","New Zealand",Birthcountry)) %>%
+  mutate(Points=ifelse(is.na(Points),0,Points))
 
 han <- read_csv("../data/1.main_data.csv") %>% as.data.frame() %>%
   mutate(Team = ifelse(Team=="SouthAfrica","South Africa",Team),
@@ -216,10 +217,11 @@ tl <- d %>% group_by(Team,Birthcountry,Debut) %>%
   mutate(Birthcountry = ifelse(is.na(Birthcountry),"Missing",Birthcountry)) %>%
   filter(Team!=Birthcountry,Birthcountry!="Missing",Team %in% target) %>%
   group_by(Debut) %>%
-  summarise(Foreign=sum(Players))
+  summarise(Foreign=sum(Players)) %>%
+  filter(Debut!=2017)
 
-tl_g <- ggplot(tl, aes(x=Debut, y=Foreign)) + geom_line(color='lightsteelblue2',size=2) +
-  labs(y="Number of Foreign Born Debutants",x="Year") + theme_bw() + ylim(c(0,30)) +
+tl_g <- tl  %>% ggplot( aes(x=Debut, y=Foreign)) + geom_line(color='lightsteelblue2',size=2) +
+  labs(y="Number of Foreign Born Debutants",x="Year") + theme_bw() + ylim(c(0,40)) +
   theme(legend.title=element_blank(),
         legend.position="bottom",
         panel.grid.major = element_blank(),
