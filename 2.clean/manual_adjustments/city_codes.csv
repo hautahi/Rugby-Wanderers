@@ -1,1 +1,221 @@
-City,CountryAuckland,NewZealandMarton,NewZealandAshburton,NewZealandPalmerston,NewZealandTokomaru,NewZealandCromwell,NewZealandStratford,NewZealandHamilton,NewZealandEltham,NewZealandNZ,NewZealandSaudi,SaudiArabiaSt George,AustraliaWainibokasi,FijiNew Guinea,PNGNaivicula,FijiSchweizer-Reneke,SouthAfricaDerbyshire,EnglandBerkshire,EnglandLahore,IndiaLagos,NigeriaUAE,UAEKarachi,PakistanIOM,EnglandManchester,EnglandBathavon,EnglandCairo,EgyptGuildford,EnglandAshford,EnglandBengal,IndiaNSW,AustraliaWinchester,EnglandWestern Samoa,SamoaTrinidad,TrinidadWindsor,EnglandEton,EnglandBarton,EnglandShanghai,ChinaUmtala,SouthAfricaCanary Is,SpainCaledon,SouthAfricaGeorge,SouthAfricaNatal,SouthAfricaBethlehem,SouthAfricaBellville,SouthAfricaBloemhof,SouthAfricaCeres,SouthAfricaRhodesia,ZimbabweSx,EnglandYorks,EnglandNthumberlnd,EnglandCeylon,SriLankaSy,EnglandCape Colony,EnglandWirral,EnglandCambs,EnglandDerbys,EnglandMiddlesex,EnglandAscot,EnglandCocos Islands,AustraliaKelso,ScotlandWagga Wagga,AustraliaIrvine,ScotlandBurma,BurmaJerusalem,IsraelPhilippine,PhillipinesTekuiti,NewZealandChelmsford,EnglandSussex,EnglandDun Laoighre,IrelandTiberias,IsraelYstradyfodwg,WalesPontywaun,WalesMoascar,EgyptRheindalen,GermanyPontycymmer,WalesCwmasfan,WalesLlantwit Fadre,WalesTreboeth,WalesCifynydd,WalesGurnos Cross,WalesSaint-Pee-sur-Nivell,FranceAlgiers,AlgeriaFrankfort,SouthAfricaTremblay-les-Gonesse,FranceWoluwe-Saint-Lambert,BelgiumIvory Coas,IvoryCoastVienne,FranceAix-en-Province,FranceBrive-la-Gallarde,FranceAgboville,IvoryCoastBrive-la-Gallarde,FranceCanedo Ribeira dPena,PortugalKumba,CameroonAix-le-Province,FranceSaint-Pee-sur-Nivell,FranceEvereux,FranceAlfou,AlgeriaOujda,MoroccoMontagnac-sur-Auvign,FranceSaint-Sauves-d'Auver,FranceSt-Denis-du-Sig,AlgeriaSaint-Maur-des-Fosse,FranceQueanbeyan,AustraliaKimberley,SouthAfricaKempton Park,SouthAfricaVirginia,SouthAfricaElim,SouthAfricaErmelo,SouthAfricaMafeking,SouthAfricaKoue Bokkeveld,SouthAfricaMalmesbury,SouthAfricaWilliston,SouthAfricaDouglas,SouthAfricaLadysmith,SouthAfricaFlorida,SouthAfricaSchweize-Reneke,SouthAfricaKirkwood,SouthAfricaSan Juan,ArgentinaCordoba,ArgentinaSan Miguel de Tucuma,ArgentinaBagni-a-Ripoli,ItalyWA,AustraliaTV,ItalyParana,ArgentinaVE,ItalyBucuresti,RomaniaNarromine,AustraliaPort Macquarie,AustraliaMaclean,AustraliaDubbo,AustraliaPort Moresby,PNGNowra,AustraliaDuke of York Island,PNGSydney,AustraliaHunterville,NewZealandBucks,EnglandMusoorie,IndiaCumb,EnglandBradfo,EnglandCheshire,EnglandNthants,EnglandWaterloo,EnglandPetrograd,RussiaCanton,ChinaBacklow,EnglandBuenos Aires,ArgentinaMX,EnglandHerts,EnglandEstCourt,SouthAfricaSan Isidro,ArgentinaN Harbour,NewZealandBath,EnglandGlasgow,ScotlandSan Fernando,USACardiff,WalesGlynneath,WalesOtley,EnglandDartford,EnglandClatterbridge,EnglandLanark,ScotlandPontypridd,WalesPentyrch,WalesBrecon,WalesPembroke,WalesNorth Shore,NewZealandNewport,WalesPontypool,WalesBuilth Wells,WalesPanteg,WalesCamborne,EnglandTonyrefail,WalesEbbw Vale,WalesAbercrave,WalesWaltham Forest,EnglandIslington,EnglandTadcaster,EnglandNaroi,FijiWaiyevo,FijiLevuka-i-gau,FijiVunidawa,FijiMosimosi,FijiNawaikama,FijiNukuilai,FijiVunidawa,FijiRa,FijiNamosi,FijiKadavu,FijiVauai'i,TongaNautoka,TongaAngahaeua,TongaKiltifo Haapai,TongaBucklow,EnglandHolborn,EnglandMussorrie,IndiaLedcamerock,ScotlandRoxburghshire,ScotlandDarling,SouthAfricaQueenstown Cobh,IrelandTientsin,ChinaOFS,SouthAfricaPR,ItalySiran,FranceAbbassia,EgyptTunis,TunisiaRO,ItalyBoland,SouthAfricaFareham,EnglandMN,ItalySan Fernando,ArgentinaSeven Sisters,EnglandCT,ItalyVT,ItalyRI,ItalyRiversdale,SouthAfricaBangor,IrelandHackney,EnglandMilrose,ScotlandDublin North,IrelandRichmond,England
+City,Country
+Auckland,NewZealand
+Marton,NewZealand
+Ashburton,NewZealand
+Palmerston,NewZealand
+Tokomaru,NewZealand
+Cromwell,NewZealand
+Stratford,NewZealand
+Hamilton,NewZealand
+Eltham,NewZealand
+NZ,NewZealand
+Saudi,SaudiArabia
+St George,Australia
+Wainibokasi,Fiji
+New Guinea,PNG
+Naivicula,Fiji
+Schweizer-Reneke,SouthAfrica
+Derbyshire,England
+Berkshire,England
+Lahore,India
+Lagos,Nigeria
+UAE,UAE
+Karachi,Pakistan
+IOM,England
+Manchester,England
+Bathavon,England
+Cairo,Egypt
+Guildford,England
+Ashford,England
+Bengal,India
+NSW,Australia
+Winchester,England
+Western Samoa,Samoa
+Trinidad,Trinidad
+Windsor,England
+Eton,England
+Barton,England
+Shanghai,China
+Umtala,SouthAfrica
+Canary Is,Spain
+Caledon,SouthAfrica
+George,SouthAfrica
+Natal,SouthAfrica
+Bethlehem,SouthAfrica
+Bellville,SouthAfrica
+Bloemhof,SouthAfrica
+Ceres,SouthAfrica
+Rhodesia,Zimbabwe
+Sx,England
+Yorks,England
+Nthumberlnd,England
+Ceylon,SriLanka
+Sy,England
+Cape Colony,England
+Wirral,England
+Cambs,England
+Derbys,England
+Middlesex,England
+Ascot,England
+Cocos Islands,Australia
+Kelso,Scotland
+Wagga Wagga,Australia
+Irvine,Scotland
+Burma,Burma
+Jerusalem,Israel
+Philippine,Phillipines
+Tekuiti,NewZealand
+Chelmsford,England
+Sussex,England
+Dun Laoighre,Ireland
+Tiberias,Israel
+Ystradyfodwg,Wales
+Pontywaun,Wales
+Moascar,Egypt
+Rheindalen,Germany
+Pontycymmer,Wales
+Cwmasfan,Wales
+Llantwit Fadre,Wales
+Treboeth,Wales
+Cifynydd,Wales
+Gurnos Cross,Wales
+Saint-Pee-sur-Nivell,France
+Algiers,Algeria
+Frankfort,SouthAfrica
+Tremblay-les-Gonesse,France
+Woluwe-Saint-Lambert,Belgium
+Ivory Coas,IvoryCoast
+Vienne,France
+Aix-en-Province,France
+Brive-la-Gallarde,France
+Agboville,IvoryCoast
+Brive-la-Gallarde,France
+Canedo Ribeira dPena,Portugal
+Kumba,Cameroon
+Aix-le-Province,France
+Saint-Pee-sur-Nivell,France
+Evereux,France
+Alfou,Algeria
+Oujda,Morocco
+Montagnac-sur-Auvign,France
+Saint-Sauves-d'Auver,France
+St-Denis-du-Sig,Algeria
+Saint-Maur-des-Fosse,France
+Queanbeyan,Australia
+Kimberley,SouthAfrica
+Kempton Park,SouthAfrica
+Virginia,SouthAfrica
+Elim,SouthAfrica
+Ermelo,SouthAfrica
+Mafeking,SouthAfrica
+Koue Bokkeveld,SouthAfrica
+Malmesbury,SouthAfrica
+Williston,SouthAfrica
+Douglas,SouthAfrica
+Ladysmith,SouthAfrica
+Florida,SouthAfrica
+Schweize-Reneke,SouthAfrica
+Kirkwood,SouthAfrica
+San Juan,Argentina
+Cordoba,Argentina
+San Miguel de Tucuma,Argentina
+Bagni-a-Ripoli,Italy
+WA,Australia
+TV,Italy
+Parana,Argentina
+VE,Italy
+Bucuresti,Romania
+Narromine,Australia
+Port Macquarie,Australia
+Maclean,Australia
+Dubbo,Australia
+Port Moresby,PNG
+Nowra,Australia
+Duke of York Island,PNG
+Sydney,Australia
+Hunterville,NewZealand
+Bucks,England
+Musoorie,India
+Cumb,England
+Bradfo,England
+Cheshire,England
+Nthants,England
+Waterloo,England
+Petrograd,Russia
+Canton,China
+Backlow,England
+Buenos Aires,Argentina
+MX,England
+Herts,England
+EstCourt,SouthAfrica
+San Isidro,Argentina
+N Harbour,NewZealand
+Bath,England
+Glasgow,Scotland
+San Fernando,USA
+Cardiff,Wales
+Glynneath,Wales
+Otley,England
+Dartford,England
+Clatterbridge,England
+Lanark,Scotland
+Pontypridd,Wales
+Pentyrch,Wales
+Brecon,Wales
+Pembroke,Wales
+North Shore,NewZealand
+Newport,Wales
+Pontypool,Wales
+Builth Wells,Wales
+Panteg,Wales
+Camborne,England
+Tonyrefail,Wales
+Ebbw Vale,Wales
+Abercrave,Wales
+Waltham Forest,England
+Islington,England
+Tadcaster,England
+Naroi,Fiji
+Waiyevo,Fiji
+Levuka-i-gau,Fiji
+Vunidawa,Fiji
+Mosimosi,Fiji
+Nawaikama,Fiji
+Nukuilai,Fiji
+Vunidawa,Fiji
+Ra,Fiji
+Namosi,Fiji
+Kadavu,Fiji
+Vauai'i,Tonga
+Nautoka,Tonga
+Angahaeua,Tonga
+Kiltifo Haapai,Tonga
+Bucklow,England
+Holborn,England
+Mussorrie,India
+Ledcamerock,Scotland
+Roxburghshire,Scotland
+Darling,SouthAfrica
+Queenstown Cobh,Ireland
+Tientsin,China
+OFS,SouthAfrica
+PR,Italy
+Siran,France
+Abbassia,Egypt
+Tunis,Tunisia
+RO,Italy
+Boland,SouthAfrica
+Fareham,England
+MN,Italy
+San Fernando,Argentina
+Seven Sisters,England
+CT,Italy
+VT,Italy
+RI,Italy
+Riversdale,SouthAfrica
+Bangor,Ireland
+Hackney,England
+Milrose,Scotland
+Dublin North,Ireland
+Richmond,England
+Pontyprid,Wales
