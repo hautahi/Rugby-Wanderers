@@ -471,7 +471,7 @@ Stewart Boyce,Australia,1962,Wing,13,5,8,0,12,4,NSW,Australia
 Lloyd McDermott,Australia,1962,Wing,2,0,2,0,0,0,QLD,Australia
 Jim Miller,Australia,1962,Prop,6,3,3,0,0,0,NSW,Australia
 Paul Perrin,Australia,1962,Lock,1,0,1,0,0,0,NSW,Australia
-Peter Scott,Australia,1962,Centre,2,0,2,0,8,0,ACT,Italy
+Peter Scott,Australia,1962,Centre,2,0,2,0,8,0,ACT,Australia
 Norm Storey,Australia,1962,Fly-half,1,0,1,0,0,0,NSW,Australia
 Jim Boyce,Australia,1962,Wing,12,6,5,1,3,1,NSW,Australia
 Geoff Chapman,Australia,1962,Flanker,3,0,2,1,14,0,NSW,Australia
@@ -553,7 +553,7 @@ Gary Grey,Australia,1972,Scrum-half,5,1,4,0,0,0,NSW,Australia
 Bruce Brown,Australia,1972,Prop,2,0,2,0,0,0,QLD,Australia
 Mick Freney,Australia,1972,Hooker,6,1,5,0,0,0,QLD,Australia
 Tony Gelling,Australia,1972,No. 8,2,1,1,0,0,0,NSW,Australia
-Barry Stumbles,Australia,1972,Lock,4,1,3,0,4,1,ACT,Italy
+Barry Stumbles,Australia,1972,Lock,4,1,3,0,4,1,ACT,Australia
 John Cornes,Australia,1972,Scrum-half,1,1,0,0,0,0,Cambridge,England
 Peter Rowles,Australia,1972,Fly-half,2,1,1,0,0,0,NSW,Australia
 Robert Wood,Australia,1972,Lock,1,1,0,0,0,0,QLD,Australia
@@ -670,7 +670,7 @@ Rob Lawton,Australia,1988,Prop,4,2,1,1,0,0,Trengganu,Malaysia
 Peter Kay,Australia,1988,Prop,1,1,0,0,0,0,Adelaide,Australia
 Tim Gavin,Australia,1988,No. 8,47,31,15,1,40,9,NSW,Australia
 Lloyd Walker,Australia,1988,Centre,8,3,4,1,8,2,NSW,Australia
-Brad Girvan,Australia,1988,Centre,1,0,1,0,0,0,ACT,Italy
+Brad Girvan,Australia,1988,Centre,1,0,1,0,0,0,ACT,Australia
 Scott Gourley,Australia,1988,Flanker,5,3,2,0,12,3,NSW,Australia
 Acura Niuqila,Australia,1983,Wing,18,9,9,0,36,9,Wainibokasi,Fiji
 Brad Burke,Australia,1988,Scrum-half,1,1,0,0,0,0,NSW,Australia
@@ -687,7 +687,7 @@ Brendon Nasser,Australia,1989,Flanker,8,5,3,0,0,0,QLD,Australia
 Darren Junee,Australia,1989,Fullback,4,3,1,0,5,1,NSW,Australia
 Paul Carozza,Australia,1990,Wing,15,11,4,0,41,9,QLD,Australia
 Ewen McKenzie,Australia,1990,Prop,51,39,12,0,9,2,VIC,Australia
-Paul Cornish,Australia,1990,Centre,3,1,2,0,4,1,ACT,Italy
+Paul Cornish,Australia,1990,Centre,3,1,2,0,4,1,ACT,Australia
 Sam Scott-Young,Australia,1990,No. 8,7,5,2,0,0,0,QLD,Australia
 John Flett,Australia,1990,Wing,4,3,1,0,0,0,NSW,Australia
 Peter Slattery,Australia,1990,Scrum-half,17,16,1,0,8,2,QLD,Australia
@@ -706,13 +706,13 @@ Brett Johnstone,Australia,1993,Scrum-half,1,1,0,0,5,1,QLD,Australia
 Pat Howard,Australia,1993,Centre,20,12,7,1,10,2,NSW,Australia
 Scott Bowen,Australia,1993,Fly-half,9,4,5,0,0,0,NSW,Australia
 Damian Smith,Australia,1993,Wing,21,15,6,0,50,10,QLD,Australia
-Warwick Waugh,Australia,1993,Lock,8,4,4,0,5,1,ACT,Italy
+Warwick Waugh,Australia,1993,Lock,8,4,4,0,5,1,ACT,Australia
 Ilie Tabua Tamanivalu,Australia,1990,Flanker,26,19,7,0,15,3,Naivicula,Fiji
 Matt Burke,Australia,1993,Fullback,81,55,25,1,878,29,NSW,Australia
 Alistair Murdoch,Australia,1993,Centre,2,1,1,0,5,1,NSW,Australia
 Mike Brial,Australia,1993,Back-row,13,8,5,0,5,1,NSW,Australia
-Matt O'Connor,Australia,1994,Centre,1,1,0,0,0,0,ACT,Italy
-Matt Pini,Australia,1994,Fullback,20,10,10,0,20,4,ACT,Italy
+Matt O'Connor,Australia,1994,Centre,1,1,0,0,0,0,ACT,Australia
+Matt Pini,Australia,1994,Fullback,20,10,10,0,20,4,ACT,Australia
 Dan Herbert,Australia,1994,Centre,67,50,16,1,55,11,QLD,Australia
 Ryan Constable,Australia,1994,Centre,1,1,0,0,0,0,Durban,SouthAfrica
 George Gregan,Australia,1994,Scrum-half,139,93,44,2,99,18,Lusaka,Zambia
@@ -726,7 +726,7 @@ Owen Finegan,Australia,1996,"Lock, Back-row",55,37,16,2,30,6,NSW,Australia
 Richard Harry,Australia,1996,Prop,37,27,9,1,5,1,NSW,Australia
 Sam Payne,Australia,1996,Scrum-half,6,4,2,0,5,1,NSW,Australia
 Ben Tune,Australia,1996,Centre,47,30,16,1,120,24,QLD,Australia
-Stephen Larkham,Australia,1996,"Fullback, Fly-half",102,68,31,3,135,25,ACT,Italy
+Stephen Larkham,Australia,1996,"Fullback, Fly-half",102,68,31,3,135,25,Canberra,Australia
 Mark Bell,Australia,1996,Hooker,1,1,0,0,0,0,NSW,Australia
 Andrew Heath,Australia,1996,Prop,8,4,3,1,0,0,VIC,Australia
 John Welborn,Australia,1996,Lock,6,4,2,0,0,0,WA,Australia
@@ -783,7 +783,7 @@ Mark Bartholomeusz,Australia,2002,Utility back,1,1,0,0,0,0,QLD,Australia
 Morgan Turinui,Australia,2003,Centre,20,11,9,0,30,6,NSW,Australia
 Lote Tuqiri,Australia,2003,Outside back,67,40,26,1,150,30,Namatakula,Fiji
 Daniel Heenan,Australia,2003,"Lock, Flanker",2,2,0,0,0,0,Gatton,Australia
-Al Baxter,Australia,2003,Prop,69,40,28,1,5,1,ACT,Italy
+Al Baxter,Australia,2003,Prop,69,40,28,1,5,1,ACT,Australia
 Matt Dunning,Australia,2003,Prop,45,28,17,0,0,0,Calgary,Canada
 John Roe,Australia,2003,No. 8,19,10,9,0,5,1,QLD,Australia
 Clyde Rathbone,Australia,2004,Centre,26,15,10,1,40,8,Durban,SouthAfrica
@@ -815,7 +815,7 @@ Guy Shepherdson,Australia,2006,Prop,17,11,6,0,5,1,Jakarta,Indonesia
 Benn Robinson,Australia,2006,Prop,72,36,34,2,15,3,NSW,Australia
 Brett Sheehan,Australia,2006,Scrum-half,7,3,3,1,0,0,WA,Australia
 Julian Huxley,Australia,2007,"Fullback, Fly-half",9,8,1,0,22,2,NSW,Australia
-Sam Norton-Knight,Australia,2007,Fly-half,2,2,0,0,5,1,ACT,Italy
+Sam Norton-Knight,Australia,2007,Fly-half,2,2,0,0,5,1,ACT,Australia
 Digby Ioane,Australia,2007,"Wing, Centre",35,23,11,1,55,11,Wellington,NewZealand
 James Horwill,Australia,2007,Lock,62,35,26,1,30,6,QLD,Australia
 Berrick Barnes,Australia,2007,Utility back,51,34,17,0,200,8,QLD,Australia
@@ -831,7 +831,7 @@ David Pocock,Australia,2008,Flanker,66,40,25,1,35,7,Gweru,Zimbabwe
 Quade Cooper,Australia,2008,Fly-half,67,40,26,1,154,8,Tokoroa,NewZealand
 Sekope Kepu,Australia,2008,Prop,77,42,33,2,15,3,NSW,Australia
 James O'Connor,Australia,2008,Wing,44,22,21,1,223,14,QLD,Australia
-Peter Kimlin,Australia,2009,Lock,2,2,0,0,0,0,ACT,Italy
+Peter Kimlin,Australia,2009,Lock,2,2,0,0,0,0,ACT,Australia
 Pek Cowan,Australia,2009,Prop,10,8,1,1,0,0,Wellington,NewZealand
 Will Genia,Australia,2009,Scrum-half,75,39,35,1,50,10,Port Moresby,PNG
 Kurtley Beale,Australia,2009,Utility back,60,38,20,2,118,12,NSW,Australia
@@ -850,7 +850,7 @@ Scott Higginbotham,Australia,2010,No. 8,32,20,10,2,15,3,WA,Australia
 Rod Davies,Australia,2011,Wing,1,0,1,0,0,0,QLD,Australia
 Nick Phipps,Australia,2011,Scrum-half,52,29,21,2,30,6,NSW,Australia
 Sitaleki Timani,Australia,2011,Lock,18,10,7,1,0,0,Navutoka,Tonga
-Beau Robinson,Australia,2011,Flanker,1,0,1,0,0,0,NT,Australia
+Beau Robinson,Australia,2011,Flanker,1,0,1,0,0,0,Alice Springs,Australia
 Ben Tapuai,Australia,2011,Centre,7,5,1,1,0,0,QLD,Australia
 Dave Dennis,Australia,2012,Lock,18,11,6,1,0,0,NSW,Australia
 Mike Harris,Australia,2012,Centre,10,6,3,1,55,1,North Shore,NewZealand

@@ -204,8 +204,8 @@ Frederick Lowrie,England,1889,Forward,2,1,1,0,0,0,Wakefield,England
 Arthur Robinson,England,1889,Forward,4,3,1,0,0,0,Darlington,SouthAfrica
 Arty Royle,England,1889,Fullback,1,1,0,0,0,0,Salford,England
 William Scott,England,1889,Halfback,1,1,0,0,0,0,Gateshead,England
-John Sutcliffe,England,1889,Three-quarters,1,1,0,0,3,1,nr Halifax,Germany
-Harry Wilkinson,England,1889,Forward,1,1,0,0,0,0,Halifax,Canada
+John Sutcliffe,England,1889,Three-quarters,1,1,0,0,3,1,nr Halifax,England
+Harry Wilkinson,England,1889,Forward,1,1,0,0,0,0,Halifax,England
 William Yiend,England,1889,Forward,6,5,1,0,0,0,Winchcome,
 Richard Budworth,England,1890,Forward,3,1,2,0,1,1,Essex,England
 Francis Fox,England,1890,Halfback,2,1,1,0,0,0,Wellington,NewZealand
@@ -639,7 +639,7 @@ Geoffrey Sladen,England,1929,Centre,3,1,2,0,0,0,Reigate,England
 Robert Smeddle,England,1929,Wing,4,1,3,0,6,2,Leeds,England
 Jack Swayne,England,1929,No. 8,1,1,0,0,0,0,Musoorie,India
 Herbert Whitley,England,1924,Scrum-half,4,1,2,1,0,0,Morpeth,England
-Harry Wilkinson,England,1929,Flanker,4,2,2,0,6,2,Halifax,Canada
+Harry Wilkinson,England,1929,Flanker,4,2,2,0,6,2,Halifax,England
 Guy Wilson,England,1929,Wing,2,1,1,0,4,0,Leigh,England
 Thomas Harris,England,1929,No. 8,2,1,1,0,0,0,Northampton,England
 Stephen Meikle,England,1929,Fly-half,1,0,1,0,3,1,West Derby,England
@@ -869,7 +869,7 @@ Mike Smith,England,1956,Fly-half,1,0,1,0,0,0,Leicester,England
 Peter Thompson,England,1956,Wing,17,10,3,4,15,5,Scarborough,England
 Ricky Bartlett,England,1957,Fly-half,7,6,0,1,0,0,Kingston-upon-Thames,England
 Bob Challis,England,1957,Fullback,3,3,0,0,10,0,Long Ashton,England
-Phil Horrocks-Taylor,England,1958,Fly-half,10,2,5,3,3,0,Halifax,Canada
+Phil Horrocks-Taylor,England,1958,Fly-half,10,2,5,3,3,0,Halifax,England
 Ronald Syrett,England,1958,Flanker,11,7,1,3,3,1,Amersham,England
 Jim Hetherington,England,1958,Fullback,6,3,1,2,9,0,Brighton,England
 Malcolm Phillips,England,1958,Centre,25,11,8,6,15,5,Prestbury,England
@@ -1179,7 +1179,7 @@ Martin Corry,England,1997,"Lock, Back-row",71,40,30,1,30,6,Birmingham,England
 Tony Diprose,England,1997,No. 8,10,4,5,1,5,1,Essex,England
 Nick Greenstock,England,1997,Centre,4,1,3,0,10,2,UAE,UAE
 Martin Haag,England,1997,Lock,2,1,1,0,0,0,Chelmsford,England
-Jim Mallinder,England,1997,Fullback,2,1,1,0,0,0,Halifax,Canada
+Jim Mallinder,England,1997,Fullback,2,1,1,0,0,0,Halifax,England
 Kevin Yates,England,1997,Prop,4,1,3,0,0,0,AB,Canada
 Richard Cockerill,England,1997,Hooker,27,14,11,2,15,3,Rugby,England
 Danny Grewcock,England,1997,Lock,74,45,28,1,10,2,Coventry,England
@@ -1232,7 +1232,7 @@ Fraser Waters,England,2001,Centre,3,1,2,0,0,0,Cape Town,SouthAfrica
 Olly Barkley,England,2001,Fly-half,23,10,13,0,82,2,London,England
 Tom Palmer,England,2001,Lock,42,23,18,1,0,0,London,England
 Tom Voyce,England,2001,Wing,9,4,5,0,15,3,Truro,England
-Charlie Hodgson,England,2001,Fly-half,38,22,16,0,269,8,Halifax,Canada
+Charlie Hodgson,England,2001,Fly-half,38,22,16,0,269,8,Halifax,England
 Alex Sanderson,England,2001,Back-row,5,4,1,0,5,1,Chester,England
 John Arthur,Scotland,1871,Halfback,2,1,1,0,NA,0,Glasgow,Scotland
 William Brown,Scotland,1871,Fullback,5,1,2,2,NA,0,Glasgow,Scotland
@@ -1418,7 +1418,7 @@ D. Fisher,Scotland,1893,Forward,1,0,0,1,0,0,,
 Jim Ford,Scotland,1893,Forward,1,0,0,1,0,0,,
 John Simpson,Scotland,1893,Halfback,13,7,4,2,0,0,,
 Roger Davidson,Scotland,1893,Forward,1,1,0,0,0,0,Kinfauns,Scotland
-Tom Scott,Scotland,1893,Forward,12,7,3,2,9,0,Melrose,USA
+Tom Scott,Scotland,1893,Forward,12,7,3,2,9,0,Melrose,Scotland
 Henry Gedge,Scotland,1894,Wing,6,4,2,0,10,2,London,England
 Willie McEwan,Scotland,1894,Forward,18,9,5,4,3,1,Edinburgh,Scotland
 John Rogerson,Scotland,1894,Fullback,1,0,1,0,0,0,,
@@ -1636,7 +1636,7 @@ David Bertram,Scotland,1922,Hooker,11,6,3,2,8,2,Edinburgh,Scotland
 Doug Davies,Scotland,1922,No. 8,24,12,9,3,3,0,Ashkirk,Scotland
 Jimmy Dykes,Scotland,1922,Centre,20,14,5,1,20,3,Glasgow,Scotland
 Bill Johnston,Scotland,1922,Fullback,1,0,0,1,0,0,,
-Jock Lawrie,Scotland,1922,Flanker,11,6,3,2,0,0,Melrose,USA
+Jock Lawrie,Scotland,1922,Flanker,11,6,3,2,0,0,Melrose,Scotland
 Eric Liddell,Scotland,1922,Wing,7,4,1,2,12,4,Tientsin,China
 Phil Macpherson,Scotland,1922,Centre,26,13,10,3,12,4,Newtonmore,Scotland
 Andrew Stevenson,Scotland,1922,Prop,4,2,1,1,0,0,Glasgow,Scotland
@@ -1656,7 +1656,7 @@ Bob Howie,Scotland,1924,Prop,11,5,5,1,0,0,Gorebridge,Scotland
 Chris Mackintosh,Scotland,1924,Wing,1,0,1,0,0,0,Charville,France
 Andrew Ross,Scotland,1924,Hooker,2,1,1,0,0,0,,
 Herbert Waddell,Scotland,1924,Fly-half,18,11,7,0,45,7,Glasgow,Scotland
-George Aitken,Scotland,1921,Centre,10,8,2,0,0,0,Westport,USA
+George Aitken,Scotland,1921,Centre,10,8,2,0,0,0,Westport,NewZealand
 Sandy Gillies,Scotland,1924,No. 8,12,10,2,0,26,1,Argyll,Australia
 Ian Smith,Scotland,1924,Wing,34,20,14,0,72,24,VIC,Australia
 Robert Henderson,Scotland,1924,Forward,4,1,2,1,0,0,Coldstream,USA
@@ -1850,7 +1850,7 @@ Hamish Inglis,Scotland,1951,Lock,7,1,6,0,2,0,Calcutta,India
 Norman Mair,Scotland,1951,Hooker,4,1,3,0,0,0,Edinburgh,Scotland
 David Rose,Scotland,1951,Wing,7,1,6,0,9,3,Jedburgh,Scotland
 Iain Ross,Scotland,1951,Scrum-half,4,1,3,0,0,0,,
-Oliver Turnbull,Scotland,1951,Centre,2,0,2,0,0,0,Melrose,USA
+Oliver Turnbull,Scotland,1951,Centre,2,0,2,0,0,0,Melrose,Scotland
 Bob Wilson,Scotland,1951,Prop,8,1,7,0,0,0,Galashiels,Scotland
 Bob Gordon,Scotland,1951,Wing,6,1,5,0,6,2,,
 Bob Taylor,Scotland,1951,Flanker,4,1,3,0,0,0,,
@@ -1858,7 +1858,7 @@ Ian Thomson,Scotland,1951,Fullback,7,1,6,0,27,0,Edinburgh,Scotland
 Ken Dalgleish,Scotland,1951,Wing,4,0,4,0,0,0,Burma,Burma
 John Hart,Scotland,1951,Wing,1,0,1,0,0,0,Stirling,Scotland
 Jimmy Johnston,Scotland,1951,Lock,5,0,5,0,3,1,St Boswells,Scotland
-Les Allan,Scotland,1952,Centre,4,0,4,0,0,0,Melrose,USA
+Les Allan,Scotland,1952,Centre,4,0,4,0,0,0,Melrose,Scotland
 Ian Cordial,Scotland,1952,Centre,4,0,4,0,3,1,,
 Norman Davidson,Scotland,1952,Fly-half,7,0,7,0,3,1,Hawick,Scotland
 John Fox,Scotland,1952,Prop,4,0,4,0,0,0,,
@@ -2809,7 +2809,7 @@ Sean Quinlan,Ireland,1956,Wing,4,1,3,0,0,0,Cork,Ireland
 James Ritchie,Ireland,1956,Flanker,2,0,2,0,0,0,Northern Ireland,Ireland
 Noel Feddis,Ireland,1956,Flanker,1,0,1,0,0,0,Dublin,Ireland
 Brendan Guerin,Ireland,1956,Lock,1,1,0,0,0,0,Waterford,Ireland
-Charlie Lydon,Ireland,1956,Flanker,1,1,0,0,0,0,Westport,USA
+Charlie Lydon,Ireland,1956,Flanker,1,1,0,0,0,0,Lecanvey,Ireland
 Leo Lynch,Ireland,1956,Lock,1,1,0,0,0,0,Dublin,Ireland
 Timothy McGrath,Ireland,1956,No. 8,7,1,6,0,0,0,Cork,Ireland
 Niall Brophy,Ireland,1957,Wing,22,7,12,3,12,4,Dublin,Ireland
@@ -4156,7 +4156,7 @@ Andrew Morkel,SouthAfrica,1903,Wing,1,0,0,1,0,0,Somerset West,SouthAfrica
 PO Nel,SouthAfrica,1903,Forward,3,1,0,2,0,0,Natal,SouthAfrica
 Birdie Partridge,SouthAfrica,1903,Forward,1,0,0,1,0,0,Llanthewy Skirrid,Wales
 Klondyke Raaff,SouthAfrica,1903,Forward,6,2,1,3,3,1,Cape Town,SouthAfrica
-Jimmy Sinclair,SouthAfrica,1903,Forward,1,0,0,1,0,0,Cape Col.,USA
+Jimmy Sinclair,SouthAfrica,1903,Forward,1,0,0,1,0,0,Swellendam,SouthAfrica
 Bertie van Renen,SouthAfrica,1903,Fullback,2,1,0,1,0,0,Constantia,România
 Syd Ashley,SouthAfrica,1903,Centre,1,0,0,1,0,0,Cape Town,SouthAfrica
 George Crampton,SouthAfrica,1903,Forward,1,0,0,1,0,0,Aughrim,Ireland
@@ -4449,7 +4449,7 @@ Jannie Barnard,SouthAfrica,1965,Fly-half,5,1,4,0,0,0,Johannesburg,SouthAfrica
 Dirkie de Vos,SouthAfrica,1965,Scrum-half,3,1,2,0,0,0,Kroonstad,SouthAfrica
 Piet Botha,SouthAfrica,1965,Lock,2,0,2,0,0,0,Florida,SouthAfrica
 Gertjie Brynard,SouthAfrica,1965,Wing,7,3,4,0,6,2,Calvinia,SouthAfrica
-Andy MacDonald,SouthAfrica,1965,Prop,5,1,4,0,0,0,Springs,USA
+Andy MacDonald,SouthAfrica,1965,Prop,5,1,4,0,0,0,Springs,SouthAfrica
 Hambly Parker,SouthAfrica,1965,Prop,2,0,2,0,0,0,Somerset East,SouthAfrica
 Jan Ellis,SouthAfrica,1965,Flanker,38,22,10,6,21,7,Brakpan,SouthAfrica
 Sakkie van Zyl,SouthAfrica,1965,Prop,4,1,3,0,0,0,,
@@ -4554,7 +4554,7 @@ Henning van Aswegen,SouthAfrica,1981,Prop,2,0,2,0,0,0,Okahandja,Namibia
 Burger Geldenhuys,SouthAfrica,1981,Flanker,7,5,2,0,4,1,Kroonstad,SouthAfrica
 Flippie van der Merwe,SouthAfrica,1981,Prop,6,4,2,0,0,0,Dibeng,SouthAfrica
 Div Visser,SouthAfrica,1981,Lock,2,2,0,0,0,0,Cape Town,SouthAfrica
-Colin Beck,SouthAfrica,1981,Centre,3,2,1,0,4,1,Strand,Germany
+Colin Beck,SouthAfrica,1981,Centre,3,2,1,0,4,1,Strand,SouthAfrica
 Johan Heunis,SouthAfrica,1981,Fullback,14,11,3,0,41,2,George,SouthAfrica
 Carel du Plessis,SouthAfrica,1982,Wing,12,10,2,0,16,4,Somerset East,SouthAfrica
 Schalk Burger,SouthAfrica,1984,Flanker,6,5,1,0,0,0,Cape Town,SouthAfrica
@@ -5185,7 +5185,7 @@ Stewart Boyce,Australia,1962,Wing,13,5,8,0,12,4,NSW,Australia
 Lloyd McDermott,Australia,1962,Wing,2,0,2,0,0,0,QLD,Australia
 Jim Miller,Australia,1962,Prop,6,3,3,0,0,0,NSW,Australia
 Paul Perrin,Australia,1962,Lock,1,0,1,0,0,0,NSW,Australia
-Peter Scott,Australia,1962,Centre,2,0,2,0,8,0,ACT,Italy
+Peter Scott,Australia,1962,Centre,2,0,2,0,8,0,ACT,Australia
 Norm Storey,Australia,1962,Fly-half,1,0,1,0,0,0,NSW,Australia
 Jim Boyce,Australia,1962,Wing,12,6,5,1,3,1,NSW,Australia
 Geoff Chapman,Australia,1962,Flanker,3,0,2,1,14,0,NSW,Australia
@@ -5267,7 +5267,7 @@ Gary Grey,Australia,1972,Scrum-half,5,1,4,0,0,0,NSW,Australia
 Bruce Brown,Australia,1972,Prop,2,0,2,0,0,0,QLD,Australia
 Mick Freney,Australia,1972,Hooker,6,1,5,0,0,0,QLD,Australia
 Tony Gelling,Australia,1972,No. 8,2,1,1,0,0,0,NSW,Australia
-Barry Stumbles,Australia,1972,Lock,4,1,3,0,4,1,ACT,Italy
+Barry Stumbles,Australia,1972,Lock,4,1,3,0,4,1,ACT,Australia
 John Cornes,Australia,1972,Scrum-half,1,1,0,0,0,0,Cambridge,England
 Peter Rowles,Australia,1972,Fly-half,2,1,1,0,0,0,NSW,Australia
 Robert Wood,Australia,1972,Lock,1,1,0,0,0,0,QLD,Australia
@@ -5384,7 +5384,7 @@ Rob Lawton,Australia,1988,Prop,4,2,1,1,0,0,Trengganu,Malaysia
 Peter Kay,Australia,1988,Prop,1,1,0,0,0,0,Adelaide,Australia
 Tim Gavin,Australia,1988,No. 8,47,31,15,1,40,9,NSW,Australia
 Lloyd Walker,Australia,1988,Centre,8,3,4,1,8,2,NSW,Australia
-Brad Girvan,Australia,1988,Centre,1,0,1,0,0,0,ACT,Italy
+Brad Girvan,Australia,1988,Centre,1,0,1,0,0,0,ACT,Australia
 Scott Gourley,Australia,1988,Flanker,5,3,2,0,12,3,NSW,Australia
 Acura Niuqila,Australia,1983,Wing,18,9,9,0,36,9,Wainibokasi,Fiji
 Brad Burke,Australia,1988,Scrum-half,1,1,0,0,0,0,NSW,Australia
@@ -5401,7 +5401,7 @@ Brendon Nasser,Australia,1989,Flanker,8,5,3,0,0,0,QLD,Australia
 Darren Junee,Australia,1989,Fullback,4,3,1,0,5,1,NSW,Australia
 Paul Carozza,Australia,1990,Wing,15,11,4,0,41,9,QLD,Australia
 Ewen McKenzie,Australia,1990,Prop,51,39,12,0,9,2,VIC,Australia
-Paul Cornish,Australia,1990,Centre,3,1,2,0,4,1,ACT,Italy
+Paul Cornish,Australia,1990,Centre,3,1,2,0,4,1,ACT,Australia
 Sam Scott-Young,Australia,1990,No. 8,7,5,2,0,0,0,QLD,Australia
 John Flett,Australia,1990,Wing,4,3,1,0,0,0,NSW,Australia
 Peter Slattery,Australia,1990,Scrum-half,17,16,1,0,8,2,QLD,Australia
@@ -5420,13 +5420,13 @@ Brett Johnstone,Australia,1993,Scrum-half,1,1,0,0,5,1,QLD,Australia
 Pat Howard,Australia,1993,Centre,20,12,7,1,10,2,NSW,Australia
 Scott Bowen,Australia,1993,Fly-half,9,4,5,0,0,0,NSW,Australia
 Damian Smith,Australia,1993,Wing,21,15,6,0,50,10,QLD,Australia
-Warwick Waugh,Australia,1993,Lock,8,4,4,0,5,1,ACT,Italy
+Warwick Waugh,Australia,1993,Lock,8,4,4,0,5,1,ACT,Australia
 Ilie Tabua Tamanivalu,Australia,1990,Flanker,26,19,7,0,15,3,Naivicula,Fiji
 Matt Burke,Australia,1993,Fullback,81,55,25,1,878,29,NSW,Australia
 Alistair Murdoch,Australia,1993,Centre,2,1,1,0,5,1,NSW,Australia
 Mike Brial,Australia,1993,Back-row,13,8,5,0,5,1,NSW,Australia
-Matt O'Connor,Australia,1994,Centre,1,1,0,0,0,0,ACT,Italy
-Matt Pini,Australia,1994,Fullback,20,10,10,0,20,4,ACT,Italy
+Matt O'Connor,Australia,1994,Centre,1,1,0,0,0,0,ACT,Australia
+Matt Pini,Australia,1994,Fullback,20,10,10,0,20,4,ACT,Australia
 Dan Herbert,Australia,1994,Centre,67,50,16,1,55,11,QLD,Australia
 Ryan Constable,Australia,1994,Centre,1,1,0,0,0,0,Durban,SouthAfrica
 George Gregan,Australia,1994,Scrum-half,139,93,44,2,99,18,Lusaka,Zambia
@@ -5440,7 +5440,7 @@ Owen Finegan,Australia,1996,"Lock, Back-row",55,37,16,2,30,6,NSW,Australia
 Richard Harry,Australia,1996,Prop,37,27,9,1,5,1,NSW,Australia
 Sam Payne,Australia,1996,Scrum-half,6,4,2,0,5,1,NSW,Australia
 Ben Tune,Australia,1996,Centre,47,30,16,1,120,24,QLD,Australia
-Stephen Larkham,Australia,1996,"Fullback, Fly-half",102,68,31,3,135,25,ACT,Italy
+Stephen Larkham,Australia,1996,"Fullback, Fly-half",102,68,31,3,135,25,Canberra,Australia
 Mark Bell,Australia,1996,Hooker,1,1,0,0,0,0,NSW,Australia
 Andrew Heath,Australia,1996,Prop,8,4,3,1,0,0,VIC,Australia
 John Welborn,Australia,1996,Lock,6,4,2,0,0,0,WA,Australia
@@ -6202,7 +6202,7 @@ Jules Icard,France,1909,Lock,2,0,2,0,0,0,,
 Andre Theuriet,France,1909,Scrum-half,5,0,5,0,0,0,Lyon,France
 Etienne de Jouvencel,France,1909,Fullback,2,0,2,0,0,0,Paris,France
 Paul Dupre,France,1909,Flanker,1,0,1,0,0,0,Gagny,France
-Marcel Burgun,France,1909,"Wing, Centre, Fly-half",11,1,10,0,0,0,St Petersburg,USA
+Marcel Burgun,France,1909,"Wing, Centre, Fly-half",11,1,10,0,0,0,St Petersburg,Russia
 Jacques Gommes,France,1909,"Flanker, Scrum-half",1,0,1,0,0,0,Bordeaux,France
 Augustin Hourdebaigt,France,1909,Lock,5,0,5,0,3,1,Bordeaux,France
 Marcel Legrain,France,1909,"Centre, Flanker, No. 8",12,1,11,0,0,0,Paris,France
@@ -8282,7 +8282,7 @@ Corrado Pilat,Italy,1997,"Fly-half, Fullback",7,2,5,0,13,2,Belluno,Italy
 Stefano Saviozzi,Italy,1998,Hooker,14,4,10,0,10,2,Pisa,Italy
 Giuseppe Lanzi,Italy,1998,Lock,8,4,4,0,0,0,Viterbo,Italy
 Mauro Bergamasco,Italy,1998,Flanker,106,31,75,0,75,15,Padova,Italy
-Matt Pini,Italy,1994,Fullback,20,10,10,0,20,4,ACT,Italy
+Matt Pini,Italy,1994,Fullback,20,10,10,0,20,4,ACT,Australia
 Simone Stocco,Italy,1998,Lock,4,1,3,0,5,1,VE,Italy
 Michele Birtig,Italy,1998,Flanker,2,1,1,0,0,0,Udine,Italy
 Giampiero Mazzi,Italy,1998,Scrum-half,5,3,2,0,5,1,RM,Italy
@@ -11672,7 +11672,7 @@ Mark Bartholomeusz,Australia,2002,Utility back,1,1,0,0,0,0,QLD,Australia
 Morgan Turinui,Australia,2003,Centre,20,11,9,0,30,6,NSW,Australia
 Lote Tuqiri,Australia,2003,Outside back,67,40,26,1,150,30,Namatakula,Fiji
 Daniel Heenan,Australia,2003,"Lock, Flanker",2,2,0,0,0,0,Gatton,Australia
-Al Baxter,Australia,2003,Prop,69,40,28,1,5,1,ACT,Italy
+Al Baxter,Australia,2003,Prop,69,40,28,1,5,1,ACT,Australia
 Matt Dunning,Australia,2003,Prop,45,28,17,0,0,0,Calgary,Canada
 John Roe,Australia,2003,No. 8,19,10,9,0,5,1,QLD,Australia
 Clyde Rathbone,Australia,2004,Centre,26,15,10,1,40,8,Durban,SouthAfrica
@@ -11704,7 +11704,7 @@ Guy Shepherdson,Australia,2006,Prop,17,11,6,0,5,1,Jakarta,Indonesia
 Benn Robinson,Australia,2006,Prop,72,36,34,2,15,3,NSW,Australia
 Brett Sheehan,Australia,2006,Scrum-half,7,3,3,1,0,0,WA,Australia
 Julian Huxley,Australia,2007,"Fullback, Fly-half",9,8,1,0,22,2,NSW,Australia
-Sam Norton-Knight,Australia,2007,Fly-half,2,2,0,0,5,1,ACT,Italy
+Sam Norton-Knight,Australia,2007,Fly-half,2,2,0,0,5,1,ACT,Australia
 Digby Ioane,Australia,2007,"Wing, Centre",35,23,11,1,55,11,Wellington,NewZealand
 James Horwill,Australia,2007,Lock,62,35,26,1,30,6,QLD,Australia
 Berrick Barnes,Australia,2007,Utility back,51,34,17,0,200,8,QLD,Australia
@@ -11720,7 +11720,7 @@ David Pocock,Australia,2008,Flanker,66,40,25,1,35,7,Gweru,Zimbabwe
 Quade Cooper,Australia,2008,Fly-half,67,40,26,1,154,8,Tokoroa,NewZealand
 Sekope Kepu,Australia,2008,Prop,77,42,33,2,15,3,NSW,Australia
 James O'Connor,Australia,2008,Wing,44,22,21,1,223,14,QLD,Australia
-Peter Kimlin,Australia,2009,Lock,2,2,0,0,0,0,ACT,Italy
+Peter Kimlin,Australia,2009,Lock,2,2,0,0,0,0,ACT,Australia
 Pek Cowan,Australia,2009,Prop,10,8,1,1,0,0,Wellington,NewZealand
 Will Genia,Australia,2009,Scrum-half,75,39,35,1,50,10,Port Moresby,PNG
 Kurtley Beale,Australia,2009,Utility back,60,38,20,2,118,12,NSW,Australia
@@ -11739,7 +11739,7 @@ Scott Higginbotham,Australia,2010,No. 8,32,20,10,2,15,3,WA,Australia
 Rod Davies,Australia,2011,Wing,1,0,1,0,0,0,QLD,Australia
 Nick Phipps,Australia,2011,Scrum-half,52,29,21,2,30,6,NSW,Australia
 Sitaleki Timani,Australia,2011,Lock,18,10,7,1,0,0,Navutoka,Tonga
-Beau Robinson,Australia,2011,Flanker,1,0,1,0,0,0,NT,Australia
+Beau Robinson,Australia,2011,Flanker,1,0,1,0,0,0,Alice Springs,Australia
 Ben Tapuai,Australia,2011,Centre,7,5,1,1,0,0,QLD,Australia
 Dave Dennis,Australia,2012,Lock,18,11,6,1,0,0,NSW,Australia
 Mike Harris,Australia,2012,Centre,10,6,3,1,55,1,North Shore,NewZealand
@@ -13090,7 +13090,7 @@ Nathan Hughes,England,2016,Back-row,8,7,1,0,0,0,Lautoka,Fiji
 Kyle Sinckler,England,2016,Prop,8,7,1,0,0,0,Wandsworth,England
 Ben Te'o,England,2016,Centre,8,7,1,0,10,2,Auckland,NewZealand
 Charlie Ewels,England,2016,Lock,3,3,0,0,0,0,Bournemouth,England
-Rory Sutherland,Scotland,2016,Prop,3,2,1,0,0,0,Melrose,USA
+Rory Sutherland,Scotland,2016,Prop,3,2,1,0,0,0,Melrose,Scotland
 Huw Jones,Scotland,2016,Centre,8,5,3,0,20,4,Edinburgh,Scotland
 Allan Dell,Scotland,2016,Prop,8,5,3,0,0,0,Humansdorp,SouthAfrica
 Magnus Bradbury,Scotland,2016,Back-row,1,1,0,0,0,0,Glasgow,Scotland
@@ -13124,7 +13124,7 @@ Jaco Kriel,SouthAfrica,2016,Flanker,7,3,4,0,0,0,Standerton,SouthAfrica
 Bongi Mbonambi,SouthAfrica,2016,Hooker,5,1,4,0,0,0,Bethlehem,SouthAfrica
 Malcolm Marx,SouthAfrica,2016,Hooker,2,0,2,0,0,0,Germiston,SouthAfrica
 Francois Venter,SouthAfrica,2016,Centre,3,0,3,0,0,0,Bloemfontein,SouthAfrica
-Uzair Cassiem,SouthAfrica,2016,Flanker,1,0,1,0,5,1,Strand,Germany
+Uzair Cassiem,SouthAfrica,2016,Flanker,1,0,1,0,5,1,Strand,SouthAfrica
 Rohan Janse van Rensburg,SouthAfrica,2016,Centre,1,0,1,0,0,0,Welkom,SouthAfrica
 Jamba Ulengo,SouthAfrica,2016,Wing,1,0,1,0,0,0,Vryburg,SouthAfrica
 Jean-Luc du Preez,SouthAfrica,2016,Flanker,1,0,1,0,0,0,Durban,SouthAfrica
@@ -13199,7 +13199,7 @@ Oliviero Fabiani,Italy,2016,Hooker,4,1,3,0,0,0,Roma,Italy
 Alberto Lucchese,Italy,2016,Scrum-half,2,0,2,0,0,0,Treviso,Italy
 Jacopo Sarto,Italy,2016,Flanker,1,0,1,0,0,0,VR,Italy
 Tommaso Castello,Italy,2016,Centre,2,1,1,0,0,0,Genova,Italy
-Sami Panico,Italy,2016,Prop,10,3,7,0,0,0,Albano,USA
+Sami Panico,Italy,2016,Prop,10,3,7,0,0,0,Albano,Italy
 Maxime Mbanda,Italy,2016,Back-row,8,2,6,0,0,0,Roma,Italy
 Sebastian Negri da Ollegio,Italy,2016,Lock,2,2,0,0,0,0,Harare,Zimbabwe
 Tommaso Boni,Italy,2016,Centre,2,1,1,0,5,1,VE,Italy
