@@ -26,7 +26,7 @@ Rugby has faced many controversies and alleged conspiracies. Was rugby [complici
 
 To bring sanity to the discussion, I built a dataset of the birthplace and playing statistics of every international rugby player to have played for the major test nations.^[I scraped the majority of my data from the superb [ESPNscrum](http://www.espnscrum.com) website, which lists statistics for every person to have played a test-match for the major rugby nations. As well as statistics like matches played, points and tries scored, there is also birth information for the majority of players. However, the birthplace information, where available, is limited to the city of birth. I therefore match the birth cities with their respective countries using the [Geopy](https://pypi.python.org/pypi/geopy) geocoding package in Python. This works well for city names that are unique to a particular country, such as [Taumarunui](https://en.wikipedia.org/wiki/Taumarunui). However, in the case of ambiguous city/country pairs, the Geopy package (to the best of my knowledge) returns the city with the highest population, which leads to errors. For example, the Geopy package attributes those players that were born in the town of Hastings, New Zealand as being born in Hastings, England. I therefore also make manual adjustments to the scraped datasets based on my own research. In the case of New Zealand, I use the dataset provided by the [New Zealand Herald](http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=11278276) for players making their test debut prior to 2015.] I focus below on players making their debut in the professional era (post 1996) for the `r length(target)` "major" nations and define a foreign player as someone who was not born in the country for whom they played.^[This definition admittedly has some shortcomings. For example, [`r player1`](https://github.com/hautahi/Rugby-Wanderers/blob/master/data/Ireland.csv#L957), who scored `r d$Points[d$Name==player1]` points for `r d$Team[d$Name==player1]`, is considered a foreign born player because he was born in the United States, despite the  fact that few would question his Irish rugby "credentials".] You can find out more about the data and maybe help me fill out a couple missing datapoints [below](#data).
 
-The following table presents an overview of players to debut in the professional era.^[I am missing the birth information for `r fin_df2 %>% filter(Team %in% target) %>% select(MissPlayers) %>% sum()` of these players, and they are not included in this table. `r fin_df2$MissPlayers[fin_df2$Team=="Argentina"]` of the missing players are from Argentina, `r fin_df2$MissPlayers[fin_df2$Team=="Ireland"]` from Ireland, `r fin_df2$MissPlayers[fin_df2$Team=="France"]` from France and `r fin_df2$MissPlayers[fin_df2$Team=="Italy"]` from Italy.] On average, `r round(mean(FB$TotalPlayers))` players debuted for each country since 1996, which ranged from `r min(FB$TotalPlayers)` for `r FB$Team[which.min(FB$TotalPlayers)]` to `r max(FB$TotalPlayers)` for `r FB$Team[which.max(FB$TotalPlayers)]`.
+The following table presents an overview of players to debut in the professional era.^[I am missing the birth information for `r fin_df2 %>% filter(Team %in% target) %>% select(MissPlayers) %>% sum()` of these players, and they are not included in this table. `r fin_df2$MissPlayers[fin_df2$Team=="Argentina"]` of the missing players are from Argentina, `r fin_df2$MissPlayers[fin_df2$Team=="Ireland"]` from Ireland, `r fin_df2$MissPlayers[fin_df2$Team=="France"]` from France and `r fin_df2$MissPlayers[fin_df2$Team=="Italy"]` from Italy.] On average, `r round(mean(FB$TotalPlayers))` players debuted for each country since 1996, ranging from `r min(FB$TotalPlayers)` for `r FB$Team[which.min(FB$TotalPlayers)]` to `r max(FB$TotalPlayers)` for `r FB$Team[which.max(FB$TotalPlayers)]`.
 
 <br>
 
@@ -46,7 +46,7 @@ print(ascii(test,include.rownames = TRUE,format='d',
 <br>
 
 
-Much of the debate about player poaching is based on the assumption of an increasing trend in the number of foreign born players. The graph below presents the number of foreign players making their debut in each year for the 10 major nations. It shows that there was a surge in the number of foreign players in 2016, but otherwise there is no noticeable trend. There were more foreign born players in 2002 than 2015, for example, and the number has generally fluctuated around an average of `r round(mean(tl$Foreign))` foreign-born debutants per year, with a low of `r min(tl$Foreign)` in `r tl$Debut[which.min(tl$Foreign)]` and a high of `r max(tl$Foreign)` in `r tl$Debut[which.max(tl$Foreign)]`. 
+Much of the debate about player poaching assumes an increasing trend in the number of foreign born players. The graph below presents the number of foreign players making their debut in each year for the 10 major nations. It shows that there was a surge in the number of foreign players in 2016, but otherwise there is no noticeable trend. There were more foreign born players in 2002 than 2015, for example, and the number has generally fluctuated around an average of `r round(mean(tl$Foreign))` foreign-born debutants per year, with a low of `r min(tl$Foreign)` in `r tl$Debut[which.min(tl$Foreign)]` and a high of `r max(tl$Foreign)` in `r tl$Debut[which.max(tl$Foreign)]`. 
 
 <br>
 
@@ -94,7 +94,7 @@ That no countries are immune to player poaching shouldn't be surprising. Interna
 
 <h4>
 <center>
-Foreign Born Populations vs Foreign Born Players
+Foreign Born Players vs Foreign Born Populations
 </center>
 </h4>
 
@@ -105,6 +105,24 @@ popcompare_g
 </center>
 
 <br>
+
+The prevalence of Pacific born players in foreign teams has garnered particular interest with both the rugby public and media, although just `r nrow(PI_df)` of the top 10 major countries have had more than two players born in the Pacific Island nations of Samoa, Fiji, and Tonga since 1996.^[While acknowledging the problematic nature of collectively labelling the diverse communities within the South Pacific, for the purposes of this discussion the "Pacific Islands" refers to the countries of Samoa, Fiji and Tonga - the three Pacific Island countries with the largest rugby playing populations.] `r PI_df[PI_df$Team=="Aus",2][[1]]` Wallabies, `r PI_df[PI_df$Team=="Eng",2][[1]]` English players and `r PI_df[PI_df$Team=="NZ",2][[1]]` All Blacks were born in the Pacific. However, these numbers do not tell the full story as each country has vastly different Pacific born populations. `r PI_df[PI_df$Team=="NZ",9][[1]]`% of the New Zealand population were born in the Pacific Islands, compared to just `r PI_df[PI_df$Team=="Aus",9][[1]]`% in Australia and less than 0.1% in England.^[These figures are calculated using 2015 [United Nations](http://www.un.org/en/development/desa/population/migration/data/estimates2/data/UN_MigrantStockByOriginAndDestination_2015.xlsx) and [World Bank](http://data.worldbank.org/data-catalog/Population-ranking-table) data (Accessed on 22 April 2017).] Pacific born athletes are wonderful rugby players, and it is therefore unsurprising that they are *over*-represented in all these teams. However, the extent to which they are over represented differs markedly across teams. While New Zealand has `r ceiling(PI_df[PI_df$Team=="NZ",10][[1]])` times more Pacific born players than would be expected given the population, Australia has `r ceiling(PI_df[PI_df$Team=="Aus",10][[1]])` times more, and England a whopping `r ceiling(PI_df[PI_df$Team=="Eng",10][[1]])` times more.
+
+<br>
+ 
+<h4>
+<center>
+Pacific Born Players vs Pacific Born Populations
+</center>
+</h4>
+
+<center>
+```{r, results='asis',echo=FALSE,warning=FALSE,message=FALSE}
+library(cowplot)
+plot_grid(PI_g, PIpop_g, PIratio_g, align='h', labels=c('','',''),ncol=3)
+```
+</center>
+
 
 The graph below shows the top 10 "suppliers" of players to the rest of the world.^[The next two graphs use data from all countries in order to calculate player exports.] `r Expo$Players[1]` `r Expo$Birthcountry[1]`ers have played for another country. The next largest exporter is `r Expo$Birthcountry[2]` with `r Expo$Players[2]` players. Notable among this list are the Pacific Island countries of Samoa, Tonga and Fiji, which have contributed `r Expo1$Players[Expo1$Birthcountry=="Samoa"]+Expo1$Players[Expo1$Birthcountry=="Fiji"]+Expo1$Players[Expo1$Birthcountry=="Tonga"]` players to the international rugby community. Notable absences include Scotland, Ireland and Wales, which have provided fewer than 7 players each to other countries, despite having had the services of `r FB$ForeignPlayers[FB$Team=="Ireland"]+FB$ForeignPlayers[FB$Team=="Wales"]+FB$ForeignPlayers[FB$Team=="Scotland"]` foreign born players combined.
 
@@ -122,6 +140,9 @@ Exports of Foreign Players
 Expo_g
 ```
 </center>
+
+<br>
+
 
 The next graph summarises the net contribution of each country to the world rugby stock. The "trade balance" is calculated by subtracting the number of "imported" players from the number of "exported" players. A positive trade balance indicates that a country contributes more players to other countries than it "poaches". Leading the way is `r Trade$Country[1]`, which has provided `r Trade[1,4]` more players to other countries than it has poached. On the other side of the ledger is `r Trade$Country[length(Trade$Country)]`, which has imported `r -Trade$"Trade Balance"[Trade$Country=="Scotland"]` more players than it has exported.
 
@@ -189,4 +210,4 @@ datatable(han,rownames = FALSE,extensions = c('Scroller'),
 
 <br>
 
-To my knowledge, the player names and playing statistics are accurate (as at April 2016), but the birthplace information remains a work in progress. The data is especially sparse for Canada, the USA, Argentina and the Pacific Island countries. I welcome any contributions and corrections. Feel free to email me (hautahikingi@gmail.com) with any help you can provide.
+To my knowledge, the player names and playing statistics are accurate (as at April 2017), but the birthplace information remains a work in progress. The data is especially sparse for Canada, the USA, Argentina and the Pacific Island countries. I welcome any contributions and corrections. Feel free to email me (hautahikingi@gmail.com) with any help you can provide.

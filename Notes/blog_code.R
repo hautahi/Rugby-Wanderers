@@ -4,10 +4,15 @@
 library(readr)
 library(dplyr)
 library(ascii)
+library(readxl)
+library("RColorBrewer")
 cutoff <- 1995
 
 target <-  c("Argentina","Australia","England","France","Ireland","New Zealand",
              "Scotland","South Africa","Wales","Italy")
+
+# Choose color Palette
+colorchoice <- brewer.pal(3, "Pastel1")
 
 # Load player data
 d <- read_csv("../data/1.main_data.csv") %>%
@@ -242,6 +247,117 @@ cont <- fin_df2 %>% filter(Team %in% target) %>%
   select(Team,`Points per Native Player`=NatP,`Points per Foreign&nbsp;Player`=FP,
          `Tries per Native Player`=NatT,`Tries per Foreign Player`=FT,
          `Matches per Native Player`=NatM,`Matches per Foreign Player`=FM)
+
+# ###########################
+# Pacific Island Data
+# ###########################
+
+
+# Read UN Data
+UNdata <- read_excel("../data/UN_MigrantStockByOriginAndDestination_2015.xlsx",
+                     sheet = "Table 16",range = "B16:IF281")
+
+# Read World Bank Population Data
+Wpop <- read.csv("../data/WorldBankData/World_Population.csv",skip = 4,stringsAsFactors = F) %>%
+  select(country=X.3,population=X.4) %>%
+  mutate(population=as.numeric(as.numeric(gsub(",", "", population)))*1000)
+
+targetUN <-  c("Argentina","Australia","France","Ireland","New Zealand","South Africa",
+               "Italy","United Kingdom of Great Britain and Northern Ireland")
+
+UN <- UNdata %>% select(country=X__1,Samoa,Fiji,Tonga) %>%
+  filter(country %in% targetUN) %>%
+  mutate(country=ifelse(country=="United Kingdom of Great Britain and Northern Ireland","United Kingdom",country)) %>%
+  left_join(Wpop,by="country") %>%
+  rowwise() %>%
+  mutate(`Pacific Islands`=sum(Samoa,Fiji,Tonga,na.rm=TRUE)/population*100,
+         Samoa=Samoa/population*100,
+         Fiji=Fiji/population*100,
+         Tonga=Tonga/population*100)
+
+UKdata <- UN %>% filter(country=="United Kingdom") %>%
+  data.frame(matrix(rep(.,each=3),nrow=3)) %>% select(1:6) %>%
+  mutate(country=c("England","Scotland","Wales"),
+         `Pacific Islands`=Pacific.Islands) %>%
+  select(-Pacific.Islands)
+
+UN <- UN %>% rbind(UKdata) %>%
+  filter(country!="United Kingdom")
+
+# Create Full Data Frame of Pacific Players
+PI = c("Samoa","Tonga","Fiji")
+
+PI_df <- fin_df %>%
+  filter(Birthcountry %in% PI,Team %in% target) %>%
+  group_by(Team) %>%
+  summarize(`Pacific Island Players`=sum(Players),
+            TotalPlayers=mean(TotalPlayers)) %>%
+  filter(`Pacific Island Players`>2) %>%
+  mutate(PI=`Pacific Island Players`/TotalPlayers*100) %>%
+  left_join(UN,by = c("Team" = "country")) %>%
+  mutate(ratio=PI/`Pacific Islands`,
+         Team=c("Aus","Eng","NZ"))
+
+NZ_df <- fin_df %>%
+  filter(Birthcountry=="New Zealand",Team %in% target,Team!="New Zealand")
+
+g_NZ <- NZ_df %>% ggplot( aes(x=reorder(Team, -`Players`), y=Players)) +
+  geom_bar(stat='identity',position='dodge',fill=colorchoice[1]) + # scale_fill_brewer(palette='Pastel1') +
+  labs(y="New Zealand Born Players",x="") + theme_bw() +
+  theme(legend.title=element_blank(),
+        legend.position="bottom",
+        axis.ticks.x=element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank()) 
+
+PI_g <- PI_df %>% ggplot( aes(x=Team, y=`Pacific Island Players`)) +
+  geom_bar(stat='identity',position='dodge',fill=colorchoice[2]) + # scale_fill_brewer(palette='Pastel1') +
+  labs(y="Number of Pacific Players",x="") + theme_bw() + coord_cartesian(ylim = c(0, 25)) +
+  theme(legend.title=element_blank(),
+        legend.position="bottom",
+        axis.ticks.x=element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank()) 
+
+PIpop_g <- PI_df %>% ggplot(aes(x=Team, y=`Pacific Islands`)) +
+  geom_bar(stat='identity',position='dodge',fill=colorchoice[1]) + 
+  labs(y="Pacific Born Population (%)",x="") + theme_bw() + 
+  coord_cartesian(ylim = c(0, 3)) +
+  theme(legend.title=element_blank(),
+        legend.position="bottom",
+        axis.ticks.x=element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank()) 
+
+PIratio_g <- PI_df %>% ggplot( aes(x=Team, y=ratio)) +
+  geom_bar(stat='identity',position='dodge',fill='#b3cde3') + # scale_fill_brewer(palette='Pastel1') +
+  labs(y="Pacific Player:Population Ratio",x="") + theme_bw() + 
+  theme(legend.title=element_blank(),
+        legend.position="bottom",
+        axis.ticks.x=element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank()) 
+
+PI_temp <- PI_df %>%
+  melt(id.vars = "Team", 
+       measure.vars = c("PI", "Pacific Islands"))
+
+g_PIcompare <- ggplot(PI_temp, aes(x=Team, y=value, fill=variable)) +
+  geom_bar(stat='identity',position='dodge') +
+  scale_fill_brewer(palette='Pastel1',labels=c('Pacific Island Players (%)','Pacific Island Population (%)')) +
+  labs(y="Pacific Island Born (%)",x="") + theme_bw() +
+  theme(legend.title=element_blank(),
+        legend.position="bottom",
+        axis.ticks.x=element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank()) 
+
+odie <- fin_df %>% filter(Birthcountry %in% target, Team %in% target)
 
 # # Create points/player table etc
 # d5 <- d2 %>%
