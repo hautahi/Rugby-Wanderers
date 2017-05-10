@@ -129,23 +129,23 @@ FB_g <- FB %>%
 # ###########################
 
 m <- read_csv("../data/WorldBankData/Data.csv") %>% as.data.frame() %>%
-  select(`Country` = `Country Name`,`Foreign born Population (%)`=`2015 [YR2015]`) %>%
+  select(`Country` = `Country Name`,`Foreign Born Population (%)`=`2015 [YR2015]`) %>%
   filter(!is.na(Country))
 
 m$Country[m$Country=="United States"]="USA"
 
-UK_data<- m %>% filter(Country=="United Kingdom") %>% select(`Foreign born Population (%)`)
+UK_data<- m %>% filter(Country=="United Kingdom") %>% select(`Foreign Born Population (%)`)
 UK_data <- UK_data[1,1]
 
 temp <- data_frame("Country"=c("England","Wales","Scotland"),
-                   "Foreign born Population (%)"=c(UK_data,UK_data,UK_data))
+                   "Foreign Born Population (%)"=c(UK_data,UK_data,UK_data))
 
 m1 <- m %>% rbind(temp) %>% mutate(Team=Country) %>% 
   filter(Team!="United Kingdom") %>% select(-Country) %>%
   left_join(fin_df2,by="Team") %>%
   rename(`Foreign Born Players (%)`=`Foreign Born (%)`) %>%
   melt(id.vars = "Team", 
-       measure.vars = c("Foreign Born Players (%)", "Foreign born Population (%)")) %>%
+       measure.vars = c("Foreign Born Players (%)", "Foreign Born Population (%)")) %>%
   filter(Team %in% target)
   
 popcompare_g <- ggplot(m1, aes(x=Team, y=value, fill=variable)) +
@@ -226,13 +226,12 @@ tl <- d %>% group_by(Team,Birthcountry,Debut) %>%
   filter(Debut!=2017)
 
 tl_g <- tl  %>% ggplot( aes(x=Debut, y=Foreign)) + geom_line(color='lightsteelblue2',size=2) +
-  labs(y="Number of Foreign Born Debutants",x="Year") + theme_bw() + ylim(c(0,40)) +
+  labs(y="Number of Foreign Born Debutants",x="\nYear") + theme_bw() + ylim(c(0,40)) +
   theme(legend.title=element_blank(),
         legend.position="bottom",
         panel.grid.major = element_blank(),
         panel.grid.minor = element_blank(),
-        panel.border = element_blank()
-        ) 
+        panel.border = element_blank())
 
 # ###########################
 # Player Contributions
