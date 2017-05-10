@@ -42,6 +42,27 @@ def extract_birthplace(BIRTH):
 		birth_location.append(x)
 
 	return birth_location
+ 
+
+# This function extracts longer birthplace information
+def extract_birthplace1(BIRTH):
+
+    # Separate each string using the comma separator and drop the strings 
+    # using numbers (which are presumably the birthdate stuff)
+    odie=[]
+    for item in BIRTH:
+        x = item.split(',')
+        y = [s for s in x if not(hasNumbers(s))]
+        odie.append(y)
+
+    # Combine remaining strings into a longer birthplace string
+    birth_location = []
+    for row in odie:
+        x =','.join(row)
+        x = x.strip()
+        birth_location.append(x)
+
+    return birth_location
 
 def extract_birthmonth(BIRTH):
 
@@ -123,7 +144,7 @@ if __name__ == "__main__":
 # 3. Gather data for each country
 #-------------------------------------------------------------#
 
-df=pd.DataFrame([])
+df = pd.DataFrame([])
 for country in COUNTRY:
 
 	print country
@@ -139,10 +160,9 @@ for country in COUNTRY:
 
 	# Currently only care about year of debut, so we strip this out
 	debut_year = extract_debutyear(DEBUT)
-	Birth_City = extract_birthplace(BIRTH)
+	Birth_City = extract_birthplace1(BIRTH)
 	Birth_Month = extract_birthmonth(BIRTH)
 	Birth_Year = extract_birthyear(BIRTH)
-
 
 	# Take the first country as most likely (For each player, COUNTRY_STRINGS contains a number of different posibilities)
 	likely_country = []
