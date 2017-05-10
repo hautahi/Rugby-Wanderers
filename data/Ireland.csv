@@ -61,7 +61,7 @@ James Bristow,Ireland,1879,Forward,1,0,1,0,NA,0,,
 John Cuppaidge,Ireland,1879,Forward,3,0,3,0,NA,1,Dublin,Ireland
 Jack Keon,Ireland,1879,Forward,1,0,1,0,NA,0,"Portloman, Westmeath",Ireland
 William Pike,Ireland,1879,Three-quarters,5,1,3,1,NA,0,"Glendararry, Mayo",Ireland
-Willington Willis,Ireland,1879,Three-quarters,1,0,1,0,NA,0,NA,Perú
+Willington Willis,Ireland,1879,Three-quarters,1,0,1,0,NA,0,NA,
 Arthur Forrest,Ireland,1880,Forward,8,1,6,1,NA,1,Dublin,Ireland
 William Heron,Ireland,1880,Halfback,2,0,2,0,NA,0,,
 Meredith Johnston,Ireland,1880,Halfback,8,1,6,1,NA,1,Dublin,Ireland
@@ -115,7 +115,7 @@ George Wheeler,Ireland,1884,Fullback,2,0,2,0,NA,0,Belfast,Ireland
 William Collis,Ireland,1884,Forward,1,0,1,0,NA,0,,
 Herbert Cook,Ireland,1884,Forward,1,0,1,0,NA,0,"date unknown, ?",
 John Fitzgerald,Ireland,1884,Forward,1,0,1,0,NA,0,"date unknown, ?",
-William Hallaran,Ireland,1884,Halfback,1,0,1,0,NA,0,NA,Sverige
+William Hallaran,Ireland,1884,Halfback,1,0,1,0,NA,0,NA,
 Alexander Hamilton,Ireland,1884,Forward,1,0,1,0,NA,0,"date unknown, ?",
 Walter Johnstone,Ireland,1884,Forward,1,0,1,0,NA,0,Kingstown,Saint Vincent and the Grenadines
 Charles Jordan,Ireland,1884,Wing,1,0,1,0,NA,0,,
@@ -124,7 +124,7 @@ Frederick Moore,Ireland,1884,Forward,4,0,4,0,NA,0,"Glasnevin, Dublin",Ireland
 Lambert Moyers,Ireland,1884,Forward,1,0,1,0,NA,0,Dublin,Ireland
 Thomas Allen,Ireland,1885,Forward,2,0,2,0,NA,0,"Glendermot, Derry",Ireland
 Robert Bradshaw,Ireland,1885,Forward,3,0,3,0,NA,0,"Gorey, Co.Wexford",Ireland
-Ernie Crawford,Ireland,1885,Halfback,2,0,2,0,NA,0,NA,Sverige
+Ernie Crawford,Ireland,1885,Halfback,2,0,2,0,NA,0,NA,
 Thomas Lyle,Ireland,1885,Forward,6,1,5,0,NA,0,"Coleraine, Northern Ireland",Ireland
 Harry Neill,Ireland,1885,Forward,9,2,7,0,NA,0,Geelong,Australia
 John Ross,Ireland,1885,Three-quarters,5,0,5,0,NA,0,Dublin,Ireland
@@ -244,7 +244,7 @@ Michael Ryan,Ireland,1897,Forward,17,7,9,1,3,1,,
 Pierce O'Brien-Butler,Ireland,1897,Fullback,6,3,3,0,0,0,Co.Tipperary,Ireland
 John Davis,Ireland,1898,Forward,2,1,1,0,0,0,"Borris, Co.Carlow",Ireland
 James Franks,Ireland,1898,Forward,3,1,2,0,0,0,"Rathmines, Co.Dublin",Fiji
-Francis Purser,Ireland,1898,Wing,3,1,2,0,0,0,NA,Россия
+Francis Purser,Ireland,1898,Wing,3,1,2,0,0,0,NA,
 Frederick Smithwick,Ireland,1898,Centre,2,0,2,0,0,0,Kildare,Ireland
 Ainsworth Barr,Ireland,1898,Halfback,4,2,2,0,0,0,Belfast,Ireland
 Thomas Little,Ireland,1898,Forward,7,3,3,1,0,0,Dublin,Ireland
@@ -292,7 +292,7 @@ Thomas Robinson,Ireland,1904,Fly-half,10,3,7,0,3,1,,
 Joseph Wallace,Ireland,1903,Forward,5,0,3,2,0,0,"Dromakeenan, Roscrea",Ireland
 Ernest Caddell,Ireland,1904,Scrum-half,13,6,7,0,6,2,"Dundalk, Louth",Ireland
 John Moffatt,Ireland,1904,Wing,4,2,2,0,12,4,"Milltown, Dublin",Ireland
-Reg Edwards,Ireland,1904,Forward,4,3,1,0,0,0,NA,Sverige
+Reg Edwards,Ireland,1904,Forward,4,3,1,0,0,0,NA,
 Hercules Knox,Ireland,1904,Forward,10,6,4,0,0,0,"Gortnor Abbey, Mayo",Ireland
 Maurice Landers,Ireland,1904,Fullback,5,3,2,0,0,0,Cork,Ireland
 Henry Millar,Ireland,1904,Forward,4,3,1,0,0,0,"Blackrock, Co.Dublin",Ireland
@@ -305,7 +305,7 @@ Geoffrey Henebrey,Ireland,1906,Fullback,6,3,3,0,0,0,Birkenhead,England
 William Purdon,Ireland,1906,Scrum-half,3,2,1,0,3,1,Belfast,Ireland
 Michael White,Ireland,1906,Forward,6,3,3,0,0,0,,
 Bertie Gotto,Ireland,1906,Centre,1,0,1,0,0,0,Belfast,Ireland
-George McIldowie,Ireland,1906,Forward,4,0,3,1,3,1,"Strandtown, Belfast, Northern Ireland",SouthAfrica
+George McIldowie,Ireland,1906,Forward,4,0,3,1,3,1,"Strandtown, Belfast, Northern Ireland",Ireland
 William Cogan,Ireland,1907,Forward,2,1,1,0,0,0,Cork,Ireland
 Robert Forbes,Ireland,1907,Forward,1,1,0,0,0,0,"Brentwood, Essex",England
 Thomas Greeves,Ireland,1907,Centre,5,2,3,0,0,0,,
@@ -343,12 +343,12 @@ Cyril O'Callaghan,Ireland,1910,Wing,7,5,2,0,6,2,Carlow,Ireland
 William Smyth,Ireland,1910,Forward,3,1,2,0,0,0,"Dirraw, Co.Antrim",Ireland
 William Beatty,Ireland,1910,Prop,3,3,0,0,0,0,"Hollywood, Co.Down",Ireland
 William Tyrrell,Ireland,1910,Forward,9,4,5,0,9,3,Belfast,Ireland
-Samuel Campbell,Ireland,1911,Forward,12,7,5,0,0,0,NA,Argentina
+Samuel Campbell,Ireland,1911,Forward,12,7,5,0,0,0,NA,
 Michael Heffernan,Ireland,1911,Forward,4,3,1,0,3,1,,
 Alexander Jackson,Ireland,1911,Centre,10,6,4,0,9,3,Dublin,Ireland
 James Smyth,Ireland,1911,Forward,3,3,0,0,0,0,"Dirraw, Co.Antrim",Ireland
 Richard Graham,Ireland,1911,Fullback,1,1,0,0,0,0,,
-William Edwards,Ireland,1912,Forward,2,1,1,0,0,0,"Strandtown, Northern Ireland",SouthAfrica
+William Edwards,Ireland,1912,Forward,2,1,1,0,0,0,"Strandtown, Northern Ireland",Ireland
 Robert Hemphill,Ireland,1912,Forward,4,3,1,0,0,0,,
 George McConnell,Ireland,1912,Forward,4,2,2,0,0,0,"Famad, Co.Donegal",Ireland
 Charles MacIvor,Ireland,1912,Wing,7,4,3,0,3,1,"British Antilles, West Indies",Nederland
@@ -401,7 +401,7 @@ James O'Neill,Ireland,1920,Scrum-half,1,0,1,0,0,0,Belfast,Ireland
 Alfred Price,Ireland,1920,Prop,2,0,2,0,3,1,"Glenbeigh, Co Kerry",Ireland
 Patrick Roddy,Ireland,1920,Centre,2,0,2,0,0,0,,
 Michael Bradley,Ireland,1920,Prop,19,9,10,0,0,0,Cork,Ireland
-Bill Cunningham,Ireland,1920,Fly-half,9,2,6,1,6,2,NA,Argentina
+Bill Cunningham,Ireland,1920,Fly-half,9,2,6,1,6,2,NA,
 Norman Potterton,Ireland,1920,No. 8,1,0,1,0,0,0,Dublin,Ireland
 Declan Browne,Ireland,1920,Hooker,1,0,1,0,0,0,,
 John Smyth,Ireland,1920,Flanker,1,0,1,0,0,0,"Holywood, Co Down",Ireland
@@ -694,7 +694,7 @@ Michael O'Callaghan,Ireland,1962,Prop,3,1,1,1,0,0,,
 Patrick Casey,Ireland,1963,Wing,12,4,6,2,9,3,Dublin,Ireland
 John Murray,Ireland,1963,Fly-half,1,0,1,0,0,0,Dublin,Ireland
 Eamonn McGuire,Ireland,1963,Flanker,8,2,5,1,0,0,Galway,Ireland
-Brian Marshall,Ireland,1963,Fullback,1,0,0,1,0,0,NA,Norge
+Brian Marshall,Ireland,1963,Fullback,1,0,0,1,0,0,NA,
 Alan Duggan,Ireland,1963,Wing,25,14,8,3,34,11,Dublin,Ireland
 John Fortune,Ireland,1963,Wing,2,1,1,0,3,1,Dublin,Ireland
 Mike Gibson,Ireland,1964,Centre,81,31,39,11,112,9,"Belfast, Northern Ireland",Ireland
@@ -1071,7 +1071,7 @@ Jack Conan,Ireland,2015,No. 8,1,1,0,0,0,0,Dublin,Ireland
 Nathan White,Ireland,2015,Prop,13,7,5,1,0,0,Hawera,NewZealand
 Tadhg Furlong,Ireland,2015,Prop,16,7,8,1,0,0,New Ross,Canada
 CJ Stander,Ireland,2016,Back-row,15,8,6,1,30,6,George,SouthAfrica
-Stuart McCloskey,Ireland,2016,Centre,1,0,1,0,0,0,"Newtonards, Northern Ireland",
+Stuart McCloskey,Ireland,2016,Centre,1,0,1,0,0,0,"Newtonards, Northern Ireland",Ireland
 Josh van der Flier,Ireland,2016,Flanker,7,4,3,0,0,0,Dublin,Ireland
 Ultan Dillane,Ireland,2016,Lock,10,7,3,0,5,1,Paris,France
 Finlay Bealham,Ireland,2016,Prop,6,4,2,0,0,0,Canberra,Australia
@@ -1085,7 +1085,7 @@ Jack O'Donoghue,Ireland,2016,Back-row,1,1,0,0,0,0,Waterford,Ireland
 Garry Ringrose,Ireland,2016,Centre,8,5,3,0,10,2,Dublin,Ireland
 Niyi Adeolokun,Ireland,2016,Wing,1,1,0,0,0,0,Ibadan,Nigeria
 Dan Leavy,Ireland,2016,Flanker,2,2,0,0,0,0,Donnybrook,Ireland
-Luke McGrath,Ireland,2016,Scrum-half,2,2,0,0,0,0,"Hamilton, ONT",NewZealand
+Luke McGrath,Ireland,2016,Scrum-half,2,2,0,0,0,0,"Hamilton, Ontario",Canada
 John Ryan,Ireland,2016,Prop,6,4,2,0,0,0,Cork,Ireland
 James Tracy,Ireland,2016,Hooker,2,2,0,0,5,1,Kildare,Ireland
 Niall Scannell,Ireland,2017,Hooker,4,3,1,0,0,0,Cork,Ireland

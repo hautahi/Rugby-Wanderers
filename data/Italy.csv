@@ -9,7 +9,7 @@ Lucio Cesani,Italy,1929,Wing,4,2,2,0,0,0,,
 Domenico Dondana,Italy,1929,Fullback,2,1,1,0,0,0,,
 Giovanni Dora,Italy,1929,Centre,1,0,1,0,0,0,,
 Alberto Modonesi,Italy,1929,Scrum-half,1,0,1,0,0,0,,
-Piero Paselli,Italy,1929,Flanker,3,2,1,0,0,0,NA,Perú
+Piero Paselli,Italy,1929,Flanker,3,2,1,0,0,0,NA,
 Carlo Raffo,Italy,1929,Prop,6,4,1,1,0,0,,
 Paolo Vinci II,Italy,1929,Centre,3,2,1,0,3,1,"New York, NY, United States",USA
 Francesco Vinci III,Italy,1929,Centre,15,7,6,2,20,4,"New York, NY, United States",USA
@@ -17,32 +17,32 @@ Pietro Vinci IV,Italy,1929,Centre,13,7,5,1,0,0,Briey,France
 Amando Nisti,Italy,1929,Prop,2,1,1,0,0,0,Roma,Italy
 Giovanni Paolin,Italy,1929,NA,1,0,1,0,0,0,,
 Eugenio Vinci I,Italy,1929,NA,1,0,1,0,0,0,"Santo Domingo, Dominican",Philippines
-Giuseppe Bigi,Italy,1930,Scrum-half,2,2,0,0,0,0,NA,Perú
-Alberto di Bello,Italy,1930,Hooker,4,3,0,1,0,0,NA,Perú
+Giuseppe Bigi,Italy,1930,Scrum-half,2,2,0,0,0,0,NA,
+Alberto di Bello,Italy,1930,Hooker,4,3,0,1,0,0,NA,
 Angelo Morimondi,Italy,1930,Fullback,4,3,0,1,0,0,Milano,Italy
 Ernesto Nathan,Italy,1930,Centre,1,1,0,0,0,0,,
-Giuseppe Sessa,Italy,1930,Lock,1,1,0,0,0,0,NA,Svizra
+Giuseppe Sessa,Italy,1930,Lock,1,1,0,0,0,0,NA,
 Amerigo Centinari,Italy,1930,NA,1,1,0,0,0,0,,
-Leandro Tagliabue,Italy,1930,Prop,7,4,2,1,0,0,NA,Perú
+Leandro Tagliabue,Italy,1930,Prop,7,4,2,1,0,0,NA,
 Ivan Aloisio,Italy,1933,No. 8,7,5,1,1,7,1,Genova,Italy
 Aurelio Cazzini,Italy,1933,Wing,15,9,4,2,12,4,"Gaggiano, MI",USA
 Felice Colombo,Italy,1933,Lock,1,1,0,0,0,0,Milano,Italy
-Alberto Crespi,Italy,1933,Lock,6,4,1,1,0,0,NA,Perú
-Giuseppe Gattoni,Italy,1933,Centre,2,2,0,0,0,0,NA,Perú
+Alberto Crespi,Italy,1933,Lock,6,4,1,1,0,0,NA,
+Giuseppe Gattoni,Italy,1933,Centre,2,2,0,0,0,0,NA,
 Renzo Maffioli,Italy,1933,Centre,11,7,2,2,10,2,Milano,Italy
 Umberto Moretti,Italy,1933,Scrum-half,7,5,1,1,0,0,Milano,Italy
 Ferdinando Tozzi,Italy,1933,NA,1,1,0,0,0,0,Napoli,Italy
 Fernando Trebbi,Italy,1933,Fullback,2,2,0,0,0,0,Bologna,Italy
-Riccardo Aymonod,Italy,1933,Fly-half,4,2,1,1,6,2,NA,Perú
+Riccardo Aymonod,Italy,1933,Fly-half,4,2,1,1,6,2,NA,
 Giogio Bortolini,Italy,1933,Prop,2,1,0,1,0,0,"Budrio, BO",Bolivia
 Mario Campagna,Italy,1933,Scrum-half,8,3,3,2,3,1,Milano,Italy
 Arrigo Marescalchi,Italy,1933,No. 8,3,1,1,1,3,1,,
 Eraldo Sgorbati,Italy,1933,Flanker,12,5,6,1,0,0,Novi Piemonte,Italy
 Ariosto Agosti,Italy,1933,NA,1,1,0,0,0,0,"Stradella, PV",Italy
-Luigi Brighetti,Italy,1934,Flanker,1,0,0,1,0,0,NA,Perú
+Luigi Brighetti,Italy,1934,Flanker,1,0,0,1,0,0,NA,
 Gastone de Angelis,Italy,1934,Lock,5,2,1,2,0,0,Lecce,Italy
 Angelo Albonico,Italy,1934,Lock,10,4,5,1,0,0,Turin,Italy
-Giuseppe Piana,Italy,1934,Fly-half,6,3,3,0,0,0,NA,Perú
+Giuseppe Piana,Italy,1934,Fly-half,6,3,3,0,0,0,NA,
 Giancarlo Zani,Italy,1934,Hooker,1,1,0,0,0,0,Milano,Italy
 Orlando Maestri,Italy,1935,Prop,3,1,2,0,0,0,,
 Giuseppe Visentin,Italy,1935,Flanker,9,4,5,0,18,4,Padova,Italy
@@ -90,7 +90,7 @@ Francesco Battaglini,Italy,1948,Flanker,1,0,1,0,0,0,Rovigo,Italy
 Vittorio Borsetto,Italy,1948,Prop,2,1,1,0,0,0,"date unknown, Canale di Villadose,",
 Carlo de Vecchi,Italy,1948,No. 8,1,0,1,0,0,0,Milano,Italy
 Umberto Faccioli,Italy,1948,Fly-half,1,0,1,0,0,0,,
-Enrico Fava,Italy,1948,Centre,2,1,1,0,5,0,NA,Perú
+Enrico Fava,Italy,1948,Centre,2,1,1,0,5,0,NA,
 Renzo Maini,Italy,1948,Flanker,2,1,1,0,0,0,"Sorbolo, PR",Italy
 Italo Mattacchini,Italy,1948,Hooker,9,4,5,0,0,0,Nereto,Italy
 Giuseppe Molinari,Italy,1948,Prop,1,0,1,0,0,0,,
@@ -138,15 +138,15 @@ Mario Percudani,Italy,1952,No. 8,9,5,4,0,9,3,Parma,Italy
 Giancarlo Malosti,Italy,1953,Flanker,7,2,5,0,3,1,Rovigo,Italy
 Nando Barbini,Italy,1953,Fullback,13,10,3,0,19,2,Milano,Italy
 Romano Bettarello,Italy,1953,Centre,2,2,0,0,0,0,"Villadose, RO",Italy
-Gianfranco Zanchi,Italy,1953,No. 8,5,5,0,0,0,0,NA,Norge
+Gianfranco Zanchi,Italy,1953,No. 8,5,5,0,0,0,0,NA,
 Italo Scodavolpe,Italy,1954,Lock,1,1,0,0,0,0,Pescara,Italy
 Remo Zanatta,Italy,1954,Centre,2,1,1,0,0,0,Treviso,Italy
 Sergio Silvestri,Italy,1954,Wing,1,0,1,0,0,0,Roma,Italy
 Andrea Taveggia,Italy,1954,Prop,16,8,8,0,11,1,Milano,Italy
 Alberto Comin,Italy,1955,Centre,8,4,4,0,9,0,Padova,Italy
-Antonio Danieli,Italy,1955,Prop,5,3,2,0,0,0,NA,Norge
+Antonio Danieli,Italy,1955,Prop,5,3,2,0,0,0,NA,
 Ciano Luise I,Italy,1955,Wing,10,6,4,0,3,1,Padova,Italy
-Aldo Mioni,Italy,1955,Fly-half,4,1,3,0,0,0,"Tagliacozzo, AQ",Antarctica
+Aldo Mioni,Italy,1955,Fly-half,4,1,3,0,0,0,"Tagliacozzo, AQ",Italy
 Gianni Riccardi,Italy,1955,Lock,7,4,3,0,0,0,"Castegnato, BS",The Bahamas
 Matteo Silini,Italy,1955,Lock,8,5,3,0,0,0,Fidenza,Italy
 Ivano Ponchia,Italy,1955,Wing,7,3,4,0,0,0,Padova,Italy
@@ -175,7 +175,7 @@ Ottorino Bettarello,Italy,1958,Scrum-half,3,1,2,0,0,0,Rovigo,Italy
 Enzo Bellinazzo,Italy,1958,Wing,14,6,7,1,3,1,"Lendinara, RO",Italy
 Gastone Biadene,Italy,1958,Centre,2,1,1,0,0,0,,
 Massimo Braga,Italy,1958,Scrum-half,1,1,0,0,0,0,Brescia,Italy
-Antonio di Zitti,Italy,1958,Flanker,22,12,9,1,25,0,"Rocca di Mezzo, AQ",Antarctica
+Antonio di Zitti,Italy,1958,Flanker,22,12,9,1,25,0,"Rocca di Mezzo, AQ",Italy
 Paolo Quintavalla,Italy,1958,Lock,1,1,0,0,0,0,Parma,Italy
 Pietro Sguario,Italy,1958,Wing,6,3,3,0,3,1,Abbazia Fiume,Hrvatska
 Lucio Avigo,Italy,1959,Hooker,11,4,6,1,0,0,Brescia,Italy
@@ -187,7 +187,7 @@ Gian Maria del Bono,Italy,1960,Wing,10,4,6,0,3,1,Brescia,Italy
 Elio Fusco,Italy,1960,Scrum-half,11,3,8,0,6,2,Napoli,Italy
 Basilio Rovelli,Italy,1960,Hooker,4,2,2,0,0,0,"Cusio, BG",Bulgaria
 Franco Zani,Italy,1960,Lock,11,3,7,1,0,0,"Iseo, BS",The Bahamas
-Angelo Autore,Italy,1961,Fullback,12,8,3,1,13,1,"Rocca di Cambio, AQ",Antarctica
+Angelo Autore,Italy,1961,Fullback,12,8,3,1,13,1,"Rocca di Cambio, AQ",Italy
 Erasmo Augeri,Italy,1962,Fly-half,4,1,3,0,3,1,Napoli,Italy
 Giorgio Troncon,Italy,1962,Centre,12,5,6,1,3,1,Padova,Italy
 Vittorio Ambron,Italy,1962,Wing,24,13,9,2,42,10,Benevento,Italy
@@ -305,11 +305,11 @@ Bernadino di Cola,Italy,1973,Centre,1,0,1,0,0,0,Acciano.AQ,Italy
 Antonio Tassin,Italy,1973,Flanker,1,0,1,0,0,0,"Lendinara, RO",Italy
 Mauro Zingarelli,Italy,1973,Hooker,1,0,1,0,0,0,Giulianova,Italy
 Giancarlo Cucchiella,Italy,1973,Prop,22,9,12,1,4,1,L'Aquila,Italy
-Pasquale Presutti,Italy,1974,Prop,8,2,5,1,0,0,"Trasacco, AQ",Antarctica
+Pasquale Presutti,Italy,1974,Prop,8,2,5,1,0,0,"Trasacco, AQ",Italy
 Edoardo Scalzotto,Italy,1974,Centre,3,0,3,0,4,1,Padova,Italy
 Evelino Aio,Italy,1974,Scrum-half,1,1,0,0,4,1,L'Aquila,Italy
 Fiorenzo Blessano,Italy,1975,Centre,21,10,9,2,16,4,"Montebelluna, TV",Italy
-Fulvio di Carlo,Italy,1975,Prop,13,7,5,1,4,1,"Roio, AQ",Antarctica
+Fulvio di Carlo,Italy,1975,Prop,13,7,5,1,4,1,"Roio, AQ",Italy
 Paolo Ferracin,Italy,1975,Hooker,10,5,4,1,0,0,"Lendinara, RO",Italy
 Pierluigi Camiscioni,Italy,1975,Lock,7,3,4,0,0,0,San Benedetto Tronto,Italy
 Antonio Falancia,Italy,1975,Scrum-half,2,1,1,0,0,0,L'Aquila,Italy
@@ -506,7 +506,7 @@ Laurent Travini,Italy,1999,Lock,5,2,3,0,0,0,Gap,France
 Sandro Ceppolino,Italy,1999,Centre,5,2,3,0,5,1,Villa Ballester,Argentina
 Andrea de Rossi,Italy,1999,No. 8,34,11,23,0,10,2,Genova,Italy
 Andrea Scanavacca,Italy,1999,Fly-half,11,6,5,0,49,2,Rovigo,Italy
-Luciano Cornella,Italy,1999,No. 8,1,1,0,0,0,0,NA,Svizra
+Luciano Cornella,Italy,1999,No. 8,1,1,0,0,0,0,NA,
 Andrea Masi,Italy,1999,Centre,95,23,72,0,65,13,L'Aquila,Italy
 Federico Pucciariello,Italy,1999,Prop,8,1,7,0,5,1,Rosario,Argentina
 Nicolas Zisti,Italy,1999,Centre,4,0,4,0,0,0,"Sydney, NSW",Australia
@@ -535,7 +535,7 @@ Marco Bortolami,Italy,2001,Lock,112,29,82,1,35,7,Padova,Italy
 Roberto Pedrazzi,Italy,2001,"Wing, Centre",8,1,7,0,0,0,Modena,Italy
 Salvatore Garozzo,Italy,2001,"Lock, Back-row",3,1,2,0,0,0,Catania,Italy
 Andrea Benatti,Italy,2001,Back-row,5,1,4,0,5,1,"Viadana, MN",Italy
-Samuele Pace,Italy,2001,Centre,3,1,2,0,0,0,"Ponte dell'Oglio, PC",
+Samuele Pace,Italy,2001,Centre,3,1,2,0,0,0,"Ponte dell'Oglio, PC",Italy
 Cristian Zanoletti,Italy,2001,Centre,7,1,6,0,0,0,Brescia,Italy
 Santiago Dellape,Italy,2002,Lock,64,18,45,1,15,3,La Plata,Argentina
 Matthew Phillips,Italy,2002,No. 8,14,1,13,0,15,3,Kaitaia,NewZealand
@@ -665,7 +665,7 @@ Maxime Mbanda,Italy,2016,Back-row,8,2,6,0,0,0,Roma,Italy
 Sebastian Negri da Ollegio,Italy,2016,Lock,2,2,0,0,0,0,Harare,Zimbabwe
 Tommaso Boni,Italy,2016,Centre,2,1,1,0,5,1,"Mestre, VE",Italy
 Giorgio Bronzini,Italy,2016,Scrum-half,7,1,6,0,0,0,"Viadana, MN",Italy
-Simone Ferrari,Italy,2016,Prop,2,1,1,0,0,0,Cernusco sul Navigli,
+Simone Ferrari,Italy,2016,Prop,2,1,1,0,0,0,Cernusco sul Navigli,Italy
 Nicola Quaglio,Italy,2016,Prop,2,1,1,0,0,0,Rovigo,Italy
 Luca Sperandio,Italy,2017,Wing,2,0,2,0,0,0,Treviso,Italy
 Federico Ruzza,Italy,2017,Lock,1,0,1,0,0,0,Padova,Italy

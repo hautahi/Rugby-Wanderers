@@ -95,7 +95,7 @@ P. Swepson,Samoa,1957,NA,1,0,0,1,0,0,,
 F. Tuatagaloa,Samoa,1957,NA,1,0,0,1,0,0,,
 M. Vili,Samoa,1957,NA,1,0,0,1,0,0,,
 Faleata Asi,Samoa,1963,Flanker,2,0,2,0,0,0,,
-Fautai Fa'asiu,Samoa,1963,Wing,1,0,1,0,0,0,NA,Svizra
+Fautai Fa'asiu,Samoa,1963,Wing,1,0,1,0,0,0,NA,
 Salele Feagai,Samoa,1963,Prop,2,0,2,0,0,0,,
 Hans Kruse,Samoa,1963,Hooker,2,0,2,0,0,0,,
 A. Liaina,Samoa,1963,Wing,1,0,1,0,0,0,,
@@ -169,12 +169,12 @@ Tufua Se'umanutafa,Samoa,1981,Wing,1,0,1,0,0,0,,
 Pio Sioa,Samoa,1981,Lock,2,0,2,0,0,0,,
 Dickie Tafua,Samoa,1981,Prop,18,8,9,1,4,1,,
 Ieti Solipo,Samoa,1981,Flanker,1,0,1,0,0,0,,
-Va'a Tasi,Samoa,1981,Wing,9,4,4,1,4,1,NA,Sverige
+Va'a Tasi,Samoa,1981,Wing,9,4,4,1,4,1,NA,
 Jack Huch,Samoa,1982,Wing,4,0,3,1,0,0,,
 Maafala Lima,Samoa,1982,Flanker,2,0,1,1,0,0,,
 Fa'aniniva Ropati,Samoa,1982,Fullback,5,2,2,1,3,0,,
 Fa'afetai Sua,Samoa,1982,Hooker,13,4,8,1,4,1,,
-Sepe Tupuola,Samoa,1982,Flanker,13,5,7,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Sepe Tupuola,Samoa,1982,Flanker,13,5,7,1,0,0,NA,
 Sanele Skelton,Samoa,1982,Replacement,1,0,0,1,0,0,,
 S. Lameta,Samoa,1982,Replacement,1,0,1,0,0,0,,
 Pati Maligi,Samoa,1982,Flanker,11,6,5,0,4,1,,
@@ -208,13 +208,13 @@ Tele'a Aialupo,Samoa,1986,Fullback,1,0,1,0,6,0,,
 P. Alalatoa,Samoa,1986,Lock,1,0,1,0,0,0,,
 Michael Jones,Samoa,1986,Flanker,56,43,11,2,56,13,Auckland,NewZealand
 Ma'atusi Krause,Samoa,1986,Flanker,1,0,1,0,0,0,,
-Malaefatu Patolo,Samoa,1986,Hooker,3,0,3,0,0,0,NA,Sverige
+Malaefatu Patolo,Samoa,1986,Hooker,3,0,3,0,0,0,NA,
 To'o Vaega,Samoa,1986,Centre,61,35,25,1,71,12,"Moto'otua, Western Samoa",Samoa
 Palemia Alalafoa,Samoa,1986,Lock,1,0,1,0,0,0,,
 Alani Fata,Samoa,1986,Flanker,1,0,1,0,0,0,,
 Faalelei Feimanatufa,Samoa,1986,Flanker,1,0,1,0,0,0,,
 Keneti Taylor,Samoa,1986,Wing,1,0,1,0,0,0,,
-John Ah Kuoi,Samoa,1987,Centre,6,3,3,0,11,2,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+John Ah Kuoi,Samoa,1987,Centre,6,3,3,0,11,2,NA,
 Vaivase Fa'asua,Samoa,1987,Flanker,4,1,2,1,4,1,,
 Ekeroma Lauaiufi,Samoa,1987,Lock,15,5,9,1,4,1,Western Samoa,Samoa
 Afa Leu'u,Samoa,1987,Prop,10,7,3,0,4,1,Auckland,NewZealand
@@ -233,7 +233,7 @@ Suliveta Uati,Samoa,1988,Scrum-half,2,1,0,1,0,0,,
 Tauvere Ugapo,Samoa,1988,Wing,7,4,2,1,0,0,,
 Lafaele Mano,Samoa,1988,Flanker,3,0,2,1,4,1,,
 Taumaloto Tofilau,Samoa,1988,No. 8,1,0,0,1,0,0,,
-Vili Alalatoa,Samoa,1988,Prop,10,6,4,0,0,0,NA,Sverige
+Vili Alalatoa,Samoa,1988,Prop,10,6,4,0,0,0,NA,
 Peter Fatialofa,Samoa,1988,Prop,34,18,15,1,14,3,"Apia, Western Samoa",Samoa
 Saini Lemamea,Samoa,1988,Lock,13,7,6,0,4,1,"Apia, Western Samoa",Samoa
 Daryl Williams,Samoa,1988,Lock,5,1,4,0,0,0,Auckland,NewZealand
@@ -251,7 +251,7 @@ F. Taiomaivao,Samoa,1989,NA,1,1,0,0,0,0,,
 S. Telea,Samoa,1989,NA,1,1,0,0,0,0,,
 Sila Vaifale,Samoa,1989,Flanker,28,18,9,1,16,4,"Lepea, Western Samoa",Samoa
 S.P. Ching,Samoa,1990,Lock,3,3,0,0,0,0,,
-Danny Kaleopa,Samoa,1990,Flanker,7,6,1,0,12,3,NA,Danmark
+Danny Kaleopa,Samoa,1990,Flanker,7,6,1,0,12,3,NA,
 Milovale Moke,Samoa,1990,Scrum-half,5,5,0,0,0,0,,
 Timo Tagaloa,Samoa,1990,Wing,9,7,2,0,24,6,Auckland,NewZealand
 David Sio,Samoa,1990,Prop,2,2,0,0,0,0,"Apia, Western Samoa",Samoa
@@ -272,46 +272,46 @@ Frank Bunce,Samoa,1991,Centre,59,44,13,2,100,21,Auckland,NewZealand
 Mat Keenan,Samoa,1991,Lock,10,6,4,0,0,0,"Rarotonsa, Western Samoa",Fiji
 Pat Lam,Samoa,1991,No. 8,34,15,17,2,25,5,Auckland,NewZealand
 Alama Ieremia,Samoa,1992,Five-eighth,35,27,7,1,25,5,"Apia, Western Samoa",Samoa
-Kose Seinafo,Samoa,1992,"Wing, Centre",1,1,0,0,0,0,NA,Austria
+Kose Seinafo,Samoa,1992,"Wing, Centre",1,1,0,0,0,0,NA,
 Freddie Tuilagi,Samoa,1992,"Centre, Wing",17,8,9,0,10,2,"Apia, Western Samoa",Samoa
 Junior Tonu'u,Samoa,1992,Scrum-half,9,7,2,0,5,1,Wellington,NewZealand
 Darren Kellett,Samoa,1993,Fly-half,13,7,5,1,137,2,Auckland,NewZealand
 Potu Leavasa,Samoa,1993,Lock,17,11,5,1,0,0,"Apia, Western Samoa",Samoa
-Tala Leiasamaiva'o,Samoa,1993,Hooker,18,9,8,1,5,1,NA,Danmark
+Tala Leiasamaiva'o,Samoa,1993,Hooker,18,9,8,1,5,1,NA,
 Palamia Lilomaiava,Samoa,1993,Prop,1,0,1,0,0,0,,
 George Latu,Samoa,1994,Prop,10,4,6,0,0,0,"Apia, Western Samoa",Samoa
 Tu Nu'uali'itia,Samoa,1994,Scrum-half,8,3,5,0,5,1,Auckland,NewZealand
-Sam Kaleta,Samoa,1992,Flanker,11,5,5,1,5,1,NA,Danmark
-Rudolf Moors,Samoa,1994,Scrum-half,1,1,0,0,0,0,NA,Nederland
-Toa Samania,Samoa,1994,Fullback,9,6,3,0,28,2,NA,Danmark
+Sam Kaleta,Samoa,1992,Flanker,11,5,5,1,5,1,NA,
+Rudolf Moors,Samoa,1994,Scrum-half,1,1,0,0,0,0,NA,
+Toa Samania,Samoa,1994,Fullback,9,6,3,0,28,2,NA,
 Vaa Vitale,Samoa,1994,Scrum-half,5,2,3,0,0,0,"Apia, Western Samoa",Samoa
 Dylan Mika,Samoa,1994,Back-row,9,6,3,0,5,1,Auckland,NewZealand
 George Harder,Samoa,1995,Wing,4,2,2,0,15,3,"Moto'otua, Western Samoa",Samoa
 George Leaupepe,Samoa,1995,Wing,26,12,12,2,50,10,"Apia, Western Samoa",Samoa
 Mike Mika,Samoa,1995,Prop,15,6,7,2,0,0,Lower Hutt,NewZealand
-Esera Puleitu,Samoa,1995,Fly-half,2,0,2,0,0,0,NA,Austria
+Esera Puleitu,Samoa,1995,Fly-half,2,0,2,0,0,0,NA,
 Mike Umaga,Samoa,1995,Centre,13,5,7,1,13,2,Auckland,NewZealand
-Fata Sini,Samoa,1995,Fly-half,4,1,3,0,10,2,NA,Danmark
+Fata Sini,Samoa,1995,Fly-half,4,1,3,0,10,2,NA,
 Brendan Reidy,Samoa,1995,Prop,18,7,10,1,0,0,Wellington,NewZealand
-Joe Filemu,Samoa,1995,Scrum-half,22,13,7,2,5,1,NA,Austria
-Veli Patu,Samoa,1995,Fullback,5,1,3,1,13,2,NA,Danmark
+Joe Filemu,Samoa,1995,Scrum-half,22,13,7,2,5,1,NA,
+Veli Patu,Samoa,1995,Fullback,5,1,3,1,13,2,NA,
 Alex Telea,Samoa,1995,Wing,5,1,3,1,15,3,Lower Hutt,NewZealand
-Stephen Smith,Samoa,1995,Lock,8,2,4,2,0,0,NA,Danmark
+Stephen Smith,Samoa,1995,Lock,8,2,4,2,0,0,NA,
 Terry Fanolua,Samoa,1996,Centre,29,17,12,0,35,7,"Moto'otua, Western Samoa",Samoa
 Sene Ta'ala,Samoa,1996,Flanker,18,11,6,1,0,0,Johnsonville,USA
-Fa'avaivai Tanoa'i,Samoa,1996,Fly-half,2,1,1,0,10,0,NA,Austria
-Onehunga Matauiau Esau,Samoa,1996,Hooker,9,4,5,0,0,0,NA,Austria
-Kaisa Tuigamala,Samoa,1996,Centre,1,0,1,0,0,0,NA,Danmark
+Fa'avaivai Tanoa'i,Samoa,1996,Fly-half,2,1,1,0,10,0,NA,
+Onehunga Matauiau Esau,Samoa,1996,Hooker,9,4,5,0,0,0,NA,
+Kaisa Tuigamala,Samoa,1996,Centre,1,0,1,0,0,0,NA,
 Zak Feau'nati,Samoa,1996,No. 8,14,9,4,1,10,2,Wellington,NewZealand
 Afato So'oalo,Samoa,1996,Wing,20,12,7,1,75,15,"Apia, Western Samoa",Samoa
 Inga Tuigamala,Samoa,1991,"Wing, Centre",41,27,14,0,36,8,"Faleasiu, Western Samoa",Samoa
 Earl Va'a,Samoa,1996,Fly-half,28,15,12,1,174,3,Wellington,NewZealand
-Robbie Ale,Samoa,1997,Prop,6,4,2,0,10,2,NA,Danmark
+Robbie Ale,Samoa,1997,Prop,6,4,2,0,10,2,NA,
 John Clarke,Samoa,1997,Scrum-half,5,4,1,0,10,2,Lower Hutt,NewZealand
 Silao Leaegailesolo,Samoa,1997,Centre,19,10,9,0,145,2,"Apia, Western Samoa",Samoa
 Trevor Leota,Samoa,1997,Hooker,30,15,14,1,5,1,Auckland,NewZealand
-Tupae Pati,Samoa,1997,Fly-half,1,1,0,0,0,0,NA,Austria
-Richard Rasmussen,Samoa,1997,Lock,1,1,0,0,0,0,NA,Svizra
+Tupae Pati,Samoa,1997,Fly-half,1,1,0,0,0,0,NA,
+Richard Rasmussen,Samoa,1997,Lock,1,1,0,0,0,0,NA,
 Kepi Faiva'ai,Samoa,1998,Prop,9,4,4,1,0,0,Wellington,NewZealand
 Fosi Pala'amo,Samoa,1998,Prop,14,7,7,0,5,1,Murupara,NewZealand
 Opeta Palepoi,Samoa,1998,"Flanker, Lock",43,24,19,0,10,2,"Apia, Western Samoa",Samoa
@@ -323,26 +323,26 @@ Malua Tipi,Samoa,1998,Lock,7,2,5,0,0,0,,
 Andrew Va'a,Samoa,1998,Hooker,1,0,1,0,0,0,,
 Craig Glendinning,Samoa,1999,No. 8,22,13,8,1,5,1,Otahuhu,NewZealand
 Ali Koko,Samoa,1999,Wing,1,0,1,0,10,2,Pago Pago,USA
-Mepi Faoagali,Samoa,1999,"Centre, Wing",2,1,1,0,0,0,NA,Россия
-Mark Luafalealo,Samoa,1999,Prop,10,6,4,0,0,0,NA,Austria
+Mepi Faoagali,Samoa,1999,"Centre, Wing",2,1,1,0,0,0,NA,
+Mark Luafalealo,Samoa,1999,Prop,10,6,4,0,0,0,NA,
 Semo Sititi,Samoa,1999,Flanker,63,33,30,0,85,17,"Moto'otua, Western Samoa",Samoa
 Tanner Vili,Samoa,1999,Centre,34,16,17,1,99,4,Auckland,NewZealand
-Fa'apulou So'olefai,Samoa,1999,"Wing, Centre",9,4,4,1,0,0,NA,Svizra
+Fa'apulou So'olefai,Samoa,1999,"Wing, Centre",9,4,4,1,0,0,NA,
 John Schuster,Samoa,1988,Centre,13,10,1,2,21,1,"Apia, Western Samoa",Samoa
 Tani Fuga,Samoa,1999,Hooker,13,7,6,0,5,1,"Apia, Western Samoa",Samoa
-Polo Asi,Samoa,1999,Prop,15,8,7,0,0,0,NA,Austria
-Tom Curtis,Samoa,2000,Lock,6,5,1,0,10,2,NA,Danmark
+Polo Asi,Samoa,1999,Prop,15,8,7,0,0,0,NA,
+Tom Curtis,Samoa,2000,Lock,6,5,1,0,10,2,NA,
 Lome Fa'atau,Samoa,2000,Wing,40,19,21,0,75,15,Wellington,NewZealand
 Kas Lealamanu'a,Samoa,2000,Prop,31,14,17,0,5,1,"Wellington, Western Samoa",Samoa
 Elvis Seveali'i,Samoa,2000,Centre,22,11,11,0,45,9,Wellington,NewZealand
-Malaga Leota,Samoa,2000,Prop,2,2,0,0,0,0,NA,Svizra
+Malaga Leota,Samoa,2000,Prop,2,2,0,0,0,0,NA,
 Denning Tyrell,Samoa,2000,Scrum-half,13,8,5,0,0,0,"Moto'otua, Western Samoa",Samoa
 Tim Cowley,Samoa,2000,Flanker,3,3,0,0,0,0,Tokoroa,NewZealand
 Ngapaku Ngapaku,Samoa,2000,Fly-half,3,3,0,0,2,0,Otahuhu,NewZealand
 Iva Motusaga,Samoa,2000,Flanker,3,1,2,0,0,0,Porirua,NewZealand
-S. Fa'asua Taua,Samoa,2000,No. 8,1,0,1,0,0,0,NA,Svizra
+S. Fa'asua Taua,Samoa,2000,No. 8,1,0,1,0,0,0,NA,
 Junior Maligi,Samoa,2000,No. 8,2,0,2,0,0,0,,
-Luke Mealamu,Samoa,2000,No. 8,2,0,2,0,0,0,NA,Svizra
+Luke Mealamu,Samoa,2000,No. 8,2,0,2,0,0,0,NA,
 Sika Poching,Samoa,2000,Lock,3,1,2,0,0,0,,
 Quintan Sanft,Samoa,2000,Fly-half,2,0,2,0,6,0,,
 Alfie To'oala Vaeluaga,Samoa,2000,Back-row,13,6,7,0,0,0,"Faga, Western Samoa",Samoa
@@ -352,8 +352,8 @@ Pule Misa,Samoa,2000,NA,2,0,2,0,0,0,,
 Mahonri Schwalger,Samoa,2000,Hooker,42,18,24,0,20,4,"Apia, Western Samoa",Samoa
 Dan Tafeamalii,Samoa,2000,Prop,2,0,2,0,0,0,,
 Aleki Toleafoa,Samoa,2000,Fly-half,4,1,3,0,0,0,"Apia, Western Samoa",Samoa
-Setefano Tone,Samoa,2000,Lock,2,0,2,0,0,0,NA,Austria
-Mussolini Schuster,Samoa,2000,Wing,2,0,2,0,0,0,NA,Sverige
+Setefano Tone,Samoa,2000,Lock,2,0,2,0,0,0,NA,
+Mussolini Schuster,Samoa,2000,Wing,2,0,2,0,0,0,NA,
 Anthony Mika,Samoa,2000,Flanker,1,0,1,0,0,0,Auckland,NewZealand
 Leo Lafaiali'i,Samoa,2001,Lock,27,14,13,0,0,0,Auckland,NewZealand
 Patrick Segi,Samoa,2001,Flanker,11,7,4,0,5,1,Auckland,NewZealand
@@ -370,41 +370,41 @@ Carl Manu,Samoa,2002,Centre,4,2,2,0,0,0,Christchurch,NewZealand
 Henry Tuilagi,Samoa,2002,No. 8,10,4,6,0,5,1,"Fatausi-Fogapoa, Western Samoa",Samoa
 Alesana Tuilagi,Samoa,2002,Wing,38,17,20,1,90,18,"Fatausi-Fogapoa, Western Samoa",Samoa
 Maurie Fa'asavalu,Samoa,2002,Back-row,27,14,13,0,10,2,"Moto'otua, Western Samoa",Samoa
-Ponali Tapelu,Samoa,2002,Flanker,1,0,1,0,0,0,NA,România
+Ponali Tapelu,Samoa,2002,Flanker,1,0,1,0,0,0,NA,
 Ron Fanu'atanu,Samoa,2003,Wing,2,1,1,0,5,1,"Apia, Western Samoa",Samoa
 Fa'atonu Fili,Samoa,2003,"Centre, Fly-half",5,1,4,0,8,0,Wellington,NewZealand
 Dale Rasmussen,Samoa,2003,Centre,9,4,5,0,0,0,Auckland,NewZealand
-Gaolo Elisara,Samoa,2003,Centre,2,1,1,0,0,0,NA,Svizra
+Gaolo Elisara,Samoa,2003,Centre,2,1,1,0,0,0,NA,
 Des Tuiali'i,Samoa,2003,Flanker,5,2,3,0,0,0,"Apia, Western Samoa",Samoa
 Dom Feau'nati,Samoa,2003,Centre,5,3,2,0,25,5,Wellington,NewZealand
 Sailosi Tagicakibau,Samoa,2003,Wing,24,12,12,0,35,7,Auckland,NewZealand
-Pama Petia,Samoa,2003,No. 8,1,1,0,0,0,0,NA,Svizra
-Peter Poulos,Samoa,2003,Flanker,4,2,2,0,0,0,NA,Svizra
-Simon Lemalu,Samoa,2003,Prop,13,6,7,0,5,1,NA,Sverige
+Pama Petia,Samoa,2003,No. 8,1,1,0,0,0,0,NA,
+Peter Poulos,Samoa,2003,Flanker,4,2,2,0,0,0,NA,
+Simon Lemalu,Samoa,2003,Prop,13,6,7,0,5,1,NA,
 Romi Ropati,Samoa,2003,Centre,2,0,2,0,0,0,Auckland,NewZealand
 David Lemi,Samoa,2004,Wing,42,19,22,1,55,11,"Apia, Western Samoa",Samoa
 Ulia Ulia,Samoa,2004,Back-row,11,7,4,0,5,1,"Apia, Western Samoa",Samoa
 Roger Warren,Samoa,2004,Fly-half,12,7,5,0,119,0,Western Samoa,Samoa
-Nathan George,Samoa,2004,Lock,2,1,1,0,0,0,NA,România
+Nathan George,Samoa,2004,Lock,2,1,1,0,0,0,NA,
 John Senio,Samoa,2004,Scrum-half,10,6,4,0,10,2,Western Samoa,Samoa
-Loleni Tafunai,Samoa,2004,Hooker,11,7,4,0,10,2,NA,Sverige
+Loleni Tafunai,Samoa,2004,Hooker,11,7,4,0,10,2,NA,
 Michael von Dincklage,Samoa,2004,Lock,1,0,1,0,0,0,Auckland,NewZealand
-Ray Tuivaiti,Samoa,2004,Flanker,1,0,1,0,0,0,NA,Sverige
+Ray Tuivaiti,Samoa,2004,Flanker,1,0,1,0,0,0,NA,
 Lolo Lui,Samoa,2004,Fullback,25,17,8,0,36,0,"Apia, Western Samoa",Samoa
 Simaika Mikaele,Samoa,2004,Flanker,10,6,4,0,0,0,NA,Samoa
 Census Johnston,Samoa,2005,Prop,55,23,31,1,20,4,Auckland,NewZealand
 Apoua Stewart,Samoa,2005,"Fullback, Wing",2,1,1,0,0,0,Wellington,NewZealand
 Justin Va'a,Samoa,2005,Prop,23,9,14,0,10,2,Lower Hutt,NewZealand
-Lualua Vailoaloa,Samoa,2005,Back-row,4,1,3,0,0,0,NA,Sverige
+Lualua Vailoaloa,Samoa,2005,Back-row,4,1,3,0,0,0,NA,
 Dan Leo,Samoa,2005,Lock,42,22,19,1,5,1,Palmerston North,NewZealand
-Jamie Parkinson,Samoa,2005,Prop,2,1,1,0,0,0,NA,Svizra
-Faletoese Talapusi,Samoa,2005,Centre,5,3,2,0,2,0,NA,Sverige
-Notise Tauafao,Samoa,2005,Scrum-half,16,10,6,0,5,1,NA,Sverige
+Jamie Parkinson,Samoa,2005,Prop,2,1,1,0,0,0,NA,
+Faletoese Talapusi,Samoa,2005,Centre,5,3,2,0,2,0,NA,
+Notise Tauafao,Samoa,2005,Scrum-half,16,10,6,0,5,1,NA,
 Paul Tupai,Samoa,2005,"Lock, Back-row",5,2,3,0,0,0,Rotorua,NewZealand
 Filisoa Fa'aiu,Samoa,2005,No. 8,1,1,0,0,0,0,,
 Donald Kerslake,Samoa,2005,Prop,9,7,2,0,0,0,Christchurch,NewZealand
 Muliufi Salanoa,Samoa,2005,"Prop, Hooker",10,7,3,0,0,0,"Apia, Western Samoa",Samoa
-Iosefa Taina,Samoa,2005,Back-row,5,3,2,0,0,0,NA,Svizra
+Iosefa Taina,Samoa,2005,Back-row,5,3,2,0,0,0,NA,
 Andy Tuilagi,Samoa,2005,Centre,17,11,5,1,25,5,"Apia, Western Samoa",Samoa
 Daniel Farani,Samoa,2005,Back-row,9,5,4,0,15,3,Wellington,NewZealand
 Pelu Taele-Pavihi,Samoa,2005,Lock,8,5,3,0,0,0,Dunedin,NewZealand

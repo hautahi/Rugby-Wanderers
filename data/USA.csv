@@ -31,7 +31,7 @@ George Fish,USA,1920,No. 8,1,1,0,0,0,0,"Los Angeles, CA, United States",USA
 Jim Fitzpatrick,USA,1920,Centre,2,1,1,0,0,0,"Los Angeles, CA, United States",USA
 Lou Hunter,USA,1920,Lock,1,1,0,0,3,1,"Louisville, KY, United States",USA
 Morris Kirksey,USA,1920,Lock,1,1,0,0,0,0,"Waxahachie, TX, United States",USA
-Charles Mehan,USA,1920,Front-row,2,1,1,0,0,0,NA,Svizra
+Charles Mehan,USA,1920,Front-row,2,1,1,0,0,0,NA,
 John Muldoon,USA,1920,Second-row,2,1,1,0,0,0,"Ione, CA, United States",USA
 John O'Neil,USA,1920,Front-row,4,3,1,0,0,0,"Faulkton, SD, United States",USA
 Jack Patrick,USA,1920,Lock,3,3,0,0,12,4,"Palo Alto, CA, United States",USA
@@ -66,7 +66,7 @@ Gary Brackett,USA,1976,Lock,3,0,3,0,0,0,,
 Del Chipman,USA,1976,Wing,2,1,1,0,0,0,,
 Fred Khasigian,USA,1976,Hooker,1,0,1,0,0,0,,
 Tom Klein,USA,1976,Flanker,3,1,2,0,4,1,,
-Skip Niebauer,USA,1976,Flanker,9,0,8,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Skip Niebauer,USA,1976,Flanker,9,0,8,1,0,0,NA,
 Mickey Ording,USA,1976,Prop,4,1,3,0,0,0,,
 Kip Oxman,USA,1976,Fullback,1,0,1,0,12,0,,
 Greg Schneeweis,USA,1976,Centre,2,0,2,0,0,0,"Long Beach, CA, United States",USA
@@ -84,7 +84,7 @@ Terry Scott,USA,1976,Scrum-half,1,0,1,0,6,0,,
 Woody Stone,USA,1976,Wing,1,0,1,0,0,0,,
 Danny Wack,USA,1976,Centre,4,1,3,0,0,0,,
 Barry Waite,USA,1976,Flanker,1,0,1,0,0,0,,
-Bob Causey,USA,1977,Lock,8,1,5,2,0,0,NA,Perú
+Bob Causey,USA,1977,Lock,8,1,5,2,0,0,NA,
 Jay Hanson,USA,1977,Hooker,7,0,7,0,0,0,,
 Bruce Henderson,USA,1977,Prop,1,0,1,0,0,0,,
 Dennis Jablonski,USA,1977,Fullback,4,1,3,0,28,0,,
@@ -101,30 +101,30 @@ Brad Andrews,USA,1978,No. 8,2,1,1,0,0,0,,
 Gerry Kelleher,USA,1978,Lock,2,1,1,0,0,0,,
 Jessie Lopez,USA,1978,Hooker,1,1,0,0,0,0,"Fort Worth, IN, United States",USA
 Gary Wilson,USA,1978,Prop,5,1,4,0,0,0,,
-Rick Bailey,USA,1979,Prop,11,2,8,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Dave Briley,USA,1979,Prop,4,0,4,0,0,0,NA,Россия
+Rick Bailey,USA,1979,Prop,11,2,8,1,0,0,NA,
+Dave Briley,USA,1979,Prop,4,0,4,0,0,0,NA,
 Jack Clark,USA,1979,Lock,2,0,2,0,0,0,,
-Dick Cooke,USA,1979,Scrum-half,6,0,6,0,21,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Mike Fanucchi,USA,1979,Centre,3,0,3,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Jeff Hollings,USA,1979,Hooker,2,0,2,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Dick Cooke,USA,1979,Scrum-half,6,0,6,0,21,0,NA,
+Mike Fanucchi,USA,1979,Centre,3,0,3,0,0,0,NA,
+Jeff Hollings,USA,1979,Hooker,2,0,2,0,0,0,NA,
 Boyd Morrison,USA,1979,Centre,2,0,2,0,0,0,,
-Chimere Okezie,USA,1979,Wing,6,0,5,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Chimere Okezie,USA,1979,Wing,6,0,5,1,0,0,NA,
 Joe Sheitlin,USA,1979,Wing,1,0,1,0,0,0,,
-John Fowler,USA,1980,Flanker,7,0,6,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+John Fowler,USA,1980,Flanker,7,0,6,1,0,0,NA,
 Tim Moser,USA,1980,Lock,1,0,1,0,0,0,,
 Mike Purcell,USA,1980,Wing,14,3,9,2,16,4,"Erie, PA, United States",USA
-Brian Swords,USA,1980,Lock,3,0,3,0,0,0,NA,Россия
+Brian Swords,USA,1980,Lock,3,0,3,0,0,0,NA,
 Douglas Parks,USA,1980,Fullback,1,0,1,0,0,0,,
 Tom Smith,USA,1980,Fly-half,4,0,4,0,3,0,,
-Lin Walton,USA,1980,Wing,4,0,4,0,4,1,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Ed Burlingham,USA,1980,Lock,14,3,9,2,0,0,NA,Perú
-Chip Howard,USA,1980,Fullback,1,0,1,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Lin Walton,USA,1980,Wing,4,0,4,0,4,1,NA,
+Ed Burlingham,USA,1980,Lock,14,3,9,2,0,0,NA,
+Chip Howard,USA,1980,Fullback,1,0,1,0,0,0,NA,
 Tim O'Brien,USA,1980,Centre,3,0,3,0,0,0,,
-Denis Shanagher,USA,1980,Centre,9,2,5,2,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Art Ward,USA,1980,No. 8,2,0,2,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Roy Helu,USA,1981,Centre,12,3,8,1,8,2,NA,Perú
-Gary Lambert,USA,1981,Flanker,18,6,11,1,12,3,NA,Perú
-Steve Finkel,USA,1981,Flanker,6,0,6,0,0,0,NA,Perú
+Denis Shanagher,USA,1980,Centre,9,2,5,2,0,0,NA,
+Art Ward,USA,1980,No. 8,2,0,2,0,0,0,NA,
+Roy Helu,USA,1981,Centre,12,3,8,1,8,2,NA,
+Gary Lambert,USA,1981,Flanker,18,6,11,1,12,3,NA,
+Steve Finkel,USA,1981,Flanker,6,0,6,0,0,0,NA,
 Jamie Grant,USA,1981,Hooker,1,0,1,0,0,0,,
 Dave Bateman,USA,1982,Scrum-half,5,1,3,1,0,0,,
 John Jelaco,USA,1982,Prop,2,0,1,1,0,0,,
@@ -137,16 +137,16 @@ Rick Crivellone,USA,1983,Lock,3,0,3,0,4,1,,
 Ray Nelson,USA,1983,Fullback,25,7,17,1,65,5,Glasgow,Scotland
 Mark Ormsby,USA,1983,Wing,1,0,1,0,0,0,,
 Doug Straehley,USA,1983,Scrum-half,2,1,1,0,0,0,,
-Blane Warhurst,USA,1983,Flanker,9,4,4,1,8,2,NA,Perú
+Blane Warhurst,USA,1983,Flanker,9,4,4,1,8,2,NA,
 Jake Burkhardt,USA,1983,Flanker,2,0,2,0,0,0,,
-Bill Shiflet,USA,1983,Lock,4,1,3,0,0,0,NA,Perú
-Neal Brendel,USA,1983,Prop,6,3,3,0,0,0,NA,Perú
+Bill Shiflet,USA,1983,Lock,4,1,3,0,0,0,NA,
+Neal Brendel,USA,1983,Prop,6,3,3,0,0,0,NA,
 Mark Deaton,USA,1983,No. 8,3,2,1,0,0,0,,
 Jon Hartman,USA,1983,Wing,2,1,1,0,4,1,,
 Ian Loveseth,USA,1983,NA,1,0,1,0,0,0,,
-Mike Caulder,USA,1984,Fly-half,3,1,2,0,4,1,NA,Perú
-John Everett,USA,1984,Hooker,7,4,2,1,0,0,NA,Perú
-Butch Horwath,USA,1984,Prop,7,3,4,0,0,0,NA,Perú
+Mike Caulder,USA,1984,Fly-half,3,1,2,0,4,1,NA,
+John Everett,USA,1984,Hooker,7,4,2,1,0,0,NA,
+Butch Horwath,USA,1984,Prop,7,3,4,0,0,0,NA,
 Dave Jenkinson,USA,1984,Centre,3,1,1,1,0,0,,
 Whit Everett,USA,1985,Flanker,3,1,1,1,4,1,,
 Kevin Higgins,USA,1985,Centre,28,9,18,1,16,4,"Buffalo, NY, United States",USA
@@ -154,22 +154,22 @@ Mike Inns,USA,1985,Fullback,3,1,2,0,22,0,,
 Willie Jefferson,USA,1985,Wing,6,1,5,0,8,2,"Los Angeles, CA, United States",USA
 Kevin Swords,USA,1985,Lock,36,11,25,0,8,2,"Chicago, IL, United States",USA
 Bruce Monroe,USA,1985,Hooker,1,0,1,0,0,0,,
-Joe Clarkson,USA,1986,Fly-half,5,2,2,1,13,1,NA,Perú
-Dave Dickson,USA,1986,Scrum-half,2,0,1,1,0,0,NA,Perú
+Joe Clarkson,USA,1986,Fly-half,5,2,2,1,13,1,NA,
+Dave Dickson,USA,1986,Scrum-half,2,0,1,1,0,0,NA,
 Lance Manga,USA,1986,Prop,8,2,5,1,0,0,"Philadelphia, PA, United States",USA
 Brian Vizard,USA,1986,No. 8,22,7,14,1,0,0,"California, United States",USA
-Dave Horton,USA,1986,Fly-half,3,0,3,0,9,0,NA,Perú
+Dave Horton,USA,1986,Fly-half,3,0,3,0,9,0,NA,
 John Mickel,USA,1986,Scrum-half,1,0,1,0,0,0,,
-Tommy Vinick,USA,1986,Centre,3,0,3,0,0,0,NA,Perú
+Tommy Vinick,USA,1986,Centre,3,0,3,0,0,0,NA,
 Alec Montgomery,USA,1986,Fullback,6,1,5,0,0,0,,
 Bill Bernhard,USA,1987,Fullback,1,1,0,0,11,0,,
 Gary Hein,USA,1987,Wing,25,7,18,0,12,3,"Los Angeles, CA, United States",USA
-Mike Saunders,USA,1987,Scrum-half,12,4,8,0,8,2,NA,Perú
+Mike Saunders,USA,1987,Scrum-half,12,4,8,0,8,2,NA,
 Pat Johnson,USA,1987,Hooker,16,3,13,0,4,1,"La Grange, GA, United States",USA
 Tony Ridnell,USA,1987,No. 8,14,4,10,0,4,1,"New York, NY, United States",USA
 Mark Carlson,USA,1987,Flanker,2,0,2,0,0,0,,
 Chris Doherty,USA,1987,Hooker,1,0,1,0,0,0,,
-Jeff Peter,USA,1987,Flanker,2,0,2,0,0,0,NA,Perú
+Jeff Peter,USA,1987,Flanker,2,0,2,0,0,0,NA,
 Mark Williams,USA,1987,Centre,37,11,26,0,143,3,Ellsbury,USA
 Ron Zenker,USA,1987,Lock,2,0,2,0,0,0,,
 Sam Vaka,USA,1987,Centre,1,0,1,0,0,0,,
@@ -180,7 +180,7 @@ Barry Williams,USA,1988,Wing,4,2,2,0,12,3,,
 Bill Leversee,USA,1988,Lock,15,6,9,0,12,3,"Van Nuys, CA, United States",USA
 Knutson,USA,1988,NA,1,0,1,0,0,0,,
 Rob Farley,USA,1989,Flanker,16,5,11,0,4,1,"New London, CT, United States",Italy
-Gerry McDonald,USA,1989,Prop,3,0,3,0,0,0,NA,Sverige
+Gerry McDonald,USA,1989,Prop,3,0,3,0,0,0,NA,
 Mike Siano,USA,1989,Flanker,4,1,3,0,8,2,,
 Russ Isaac,USA,1989,Lock,2,0,2,0,0,0,,
 Chris Lippert,USA,1989,Prop,38,12,26,0,0,0,"California, United States",USA
@@ -192,7 +192,7 @@ Norm Mottram,USA,1990,Prop,9,2,7,0,0,0,Glasgow,Scotland
 Mark Sawicki,USA,1990,Flanker,6,3,3,0,0,0,"Chicago, IL, United States",USA
 Joe Burke,USA,1990,Centre,9,4,5,0,0,0,"Albany, NY, United States",USA
 Mike de Jong,USA,1990,Fly-half,9,3,6,0,18,0,Pretoria,SouthAfrica
-Don James,USA,1990,Prop,9,2,7,0,0,0,NA,Россия
+Don James,USA,1990,Prop,9,2,7,0,0,0,NA,
 Rory Lewis,USA,1990,Wing,2,1,1,0,4,1,,
 Chris Williams,USA,1990,Wing,6,3,3,0,4,1,,
 Dennis Gonzalez,USA,1990,Flanker,3,1,2,0,0,0,,
@@ -209,57 +209,57 @@ Jay Wilkerson,USA,1991,Flanker,17,6,11,0,5,1,"Lakewood, CO, United States",USA
 Graham Downes,USA,1992,Prop,1,1,0,0,0,0,Durban,SouthAfrica
 James Keller,USA,1992,Lock,2,1,1,0,0,0,,
 Ramon Samaniego,USA,1992,Scrum-half,1,1,0,0,0,0,,
-Rich Schurfield,USA,1992,Wing,5,2,3,0,14,3,NA,Austria
+Rich Schurfield,USA,1992,Wing,5,2,3,0,14,3,NA,
 Mark Gale,USA,1992,Fly-half,1,0,1,0,9,0,,
 Greg Goodman,USA,1992,Scrum-half,1,0,1,0,0,0,,
 Brannen Smoot,USA,1992,No. 8,1,0,1,0,0,0,,
 David Steinbauer,USA,1992,No. 8,2,0,2,0,0,0,,
 B. Tofaeono,USA,1992,Wing,1,0,1,0,0,0,,
 Mike Waterman,USA,1992,Centre,1,0,1,0,0,0,,
-Vaea Anitoni,USA,1990,Wing,47,14,33,0,130,26,NA,Danmark
+Vaea Anitoni,USA,1990,Wing,47,14,33,0,130,26,NA,
 Mark Vandermolen,USA,1992,NA,1,0,1,0,0,0,,
-Andre Bachelet,USA,1993,Scrum-half,33,11,22,0,56,7,NA,Danmark
+Andre Bachelet,USA,1993,Scrum-half,33,11,22,0,56,7,NA,
 Tom Billups,USA,1993,Hooker,44,14,30,0,10,2,"Iowa, United States",USA
-Chris Campbell,USA,1993,Flanker,5,1,4,0,5,1,NA,Nederland
+Chris Campbell,USA,1993,Flanker,5,1,4,0,5,1,NA,
 Wayne Chai,USA,1993,Centre,1,0,1,0,0,0,,
 Brian Geraghty,USA,1993,Centre,1,0,1,0,0,0,,
 Tim Petersen,USA,1993,Prop,1,0,1,0,0,0,,
-Chris Schlereth,USA,1993,Wing,3,1,2,0,0,0,NA,Nederland
-Maika Sika,USA,1993,Fullback,17,6,11,0,5,1,NA,Danmark
-Rob Randell,USA,1993,Lock,12,3,9,0,0,0,NA,Danmark
-Mark Scharrenberg,USA,1993,Centre,39,15,24,0,40,8,NA,Nederland
-Ed Schram,USA,1993,Centre,7,2,5,0,5,1,NA,Nederland
-Richard Tardits,USA,1993,Flanker,24,8,16,0,10,2,NA,Danmark
-Steve Hiatt,USA,1993,Fullback,3,0,3,0,0,0,NA,Nederland
+Chris Schlereth,USA,1993,Wing,3,1,2,0,0,0,NA,
+Maika Sika,USA,1993,Fullback,17,6,11,0,5,1,NA,
+Rob Randell,USA,1993,Lock,12,3,9,0,0,0,NA,
+Mark Scharrenberg,USA,1993,Centre,39,15,24,0,40,8,NA,
+Ed Schram,USA,1993,Centre,7,2,5,0,5,1,NA,
+Richard Tardits,USA,1993,Flanker,24,8,16,0,10,2,NA,
+Steve Hiatt,USA,1993,Fullback,3,0,3,0,0,0,NA,
 Rob Lumkong,USA,1994,No. 8,29,9,20,0,20,4,Trinidad,Trinidad
-Tomasi Takau,USA,1994,Centre,25,6,19,0,30,6,NA,Nederland
-Scott Bracken,USA,1994,Prop,2,1,1,0,0,0,NA,Nederland
-Ray Green,USA,1994,Centre,11,4,7,0,5,1,NA,Danmark
+Tomasi Takau,USA,1994,Centre,25,6,19,0,30,6,NA,
+Scott Bracken,USA,1994,Prop,2,1,1,0,0,0,NA,
+Ray Green,USA,1994,Centre,11,4,7,0,5,1,NA,
 Dan Lyle,USA,1994,No. 8,45,17,28,0,30,6,"San Diego, CA, United States",USA
-Matt Alexander,USA,1995,Fly-half,24,11,13,0,286,5,NA,Danmark
-Mike Fabling,USA,1995,Fullback,1,1,0,0,0,0,NA,Danmark
-Aaron Freeman,USA,1995,Lock,2,1,1,0,0,0,NA,Danmark
+Matt Alexander,USA,1995,Fly-half,24,11,13,0,286,5,NA,
+Mike Fabling,USA,1995,Fullback,1,1,0,0,0,0,NA,
+Aaron Freeman,USA,1995,Lock,2,1,1,0,0,0,NA,
 Jon Holtzman,USA,1995,Flanker,4,2,2,0,0,0,"San Diego, CA, United States",USA
 Ray Lehner,USA,1995,Prop,37,15,22,0,0,0,"Sacramento, CA, United States",USA
-Joe Santos,USA,1995,Wing,4,2,2,0,0,0,NA,Nederland
-Pat Malloy,USA,1995,NA,1,1,0,0,0,0,NA,Danmark
-Malakai Delai,USA,1996,Wing,15,5,10,0,15,3,NA,Nederland
+Joe Santos,USA,1995,Wing,4,2,2,0,0,0,NA,
+Pat Malloy,USA,1995,NA,1,1,0,0,0,0,NA,
+Malakai Delai,USA,1996,Wing,15,5,10,0,15,3,NA,
 Luke Gross,USA,1996,Lock,62,21,41,0,0,0,"Decateur, IN, United States",USA
-Joe Rissone,USA,1996,Prop,5,2,3,0,0,0,NA,Danmark
-Jason Walker,USA,1996,Flanker,25,8,17,0,20,4,NA,Nederland
+Joe Rissone,USA,1996,Prop,5,2,3,0,0,0,NA,
+Jason Walker,USA,1996,Flanker,25,8,17,0,20,4,NA,
 Cliff Vogl,USA,1996,Lock,12,4,8,0,0,0,Karlsruhe,Germany
 Alec Parker,USA,1996,Lock,58,23,35,0,5,1,"Aspen, CO, United States",USA
 Sean Allen,USA,1996,Hooker,7,2,5,0,0,0,"California, United States",USA
-Tim Kluempers,USA,1996,Prop,5,1,4,0,0,0,NA,Nederland
-Lenny Sanft,USA,1996,NA,1,0,1,0,0,0,NA,Nederland
+Tim Kluempers,USA,1996,Prop,5,1,4,0,0,0,NA,
+Lenny Sanft,USA,1996,NA,1,0,1,0,0,0,NA,
 Jared Hopkins,USA,1996,Flanker,1,1,0,0,0,0,,
 Bill LeClerc,USA,1996,Prop,12,7,5,0,15,3,Whangarei,NewZealand
-Juan Grobler,USA,1996,Centre,33,10,23,0,35,7,NA,Danmark
+Juan Grobler,USA,1996,Centre,33,10,23,0,35,7,NA,
 Bob Lockrem,USA,1996,Wing,2,1,1,0,0,0,,
 Kevin Dalzell,USA,1996,Scrum-half,42,15,27,0,109,8,Durban,SouthAfrica
 Dave Hodges,USA,1996,Back-row,53,17,36,0,20,4,"Long Beach, CA, United States",USA
 Brian Hightower,USA,1997,Wing,17,6,11,0,40,8,"Baltimore, MD, United States",USA
-Chris Morrow,USA,1997,Fullback,12,3,9,0,7,0,NA,Danmark
+Chris Morrow,USA,1997,Fullback,12,3,9,0,7,0,NA,
 Tini Saulala,USA,1997,Centre,20,6,14,0,30,6,Vava'u,Tonga
 Mike Stanaway,USA,1997,Prop,6,1,5,0,0,0,,
 Chip Curtis,USA,1997,Wing,5,1,4,0,0,0,"New Orleans, LA, United States",USA
@@ -270,39 +270,39 @@ Scott Yungling,USA,1997,Flanker,2,1,1,0,0,0,,
 David Care,USA,1998,Flanker,3,2,1,0,0,0,"Flint, MI, United States",USA
 John McBride,USA,1998,Prop,11,5,6,0,0,0,"St Louis, MO, United States",USA
 Andre Blom,USA,1998,Wing,13,5,8,0,29,5,George,SouthAfrica
-Jason Raven,USA,1998,Wing,2,0,2,0,0,0,NA,Россия
+Jason Raven,USA,1998,Wing,2,0,2,0,0,0,NA,
 Bart Furrow,USA,1998,Prop,4,0,4,0,0,0,,
 C.D. Labounty,USA,1998,Wing,2,0,2,0,0,0,"Bellingham, WA, United States",Australia
 Tasi Mo'unga,USA,1998,Back-row,20,4,16,0,10,2,Ha'asini,Tonga
-Shaun Paga,USA,1998,Flanker,15,4,11,0,15,3,NA,Svizra
+Shaun Paga,USA,1998,Flanker,15,4,11,0,15,3,NA,
 George Sucher,USA,1998,"Hooker, Prop",15,4,11,0,5,1,"Philadelphia, PA, United States",USA
 Malakai Tabuvuya,USA,1998,Wing,1,0,1,0,0,0,,
-Britt Howard,USA,1998,Scrum-half,4,0,4,0,0,0,NA,Nederland
+Britt Howard,USA,1998,Scrum-half,4,0,4,0,0,0,NA,
 Doug Gillies,USA,1998,No. 8,2,1,1,0,0,0,"Yass, NSW",Australia
 Kirk Khasigian,USA,1998,Hooker,37,12,25,0,15,3,"Sacramento, CA, United States",USA
 Bob LeClerc,USA,1998,Lock,2,1,1,0,0,0,Whangarei,NewZealand
-Ian Stevens,USA,1998,Fly-half,1,0,1,0,4,0,NA,Danmark
+Ian Stevens,USA,1998,Fly-half,1,0,1,0,4,0,NA,
 Philippe Farner,USA,1999,Lock,18,7,11,0,5,1,Dar-es-Salaam,Tanzania
 David Niu,USA,1999,Fly-half,8,3,5,0,8,1,"Sydney, NSW",Australia
-Joe Clayton,USA,1999,Prop,11,3,8,0,5,1,NA,Danmark
-Marc l'Huillier,USA,1999,Prop,2,0,2,0,0,0,NA,Россия
+Joe Clayton,USA,1999,Prop,11,3,8,0,5,1,NA,
+Marc l'Huillier,USA,1999,Prop,2,0,2,0,0,0,NA,
 Jesse Coulson,USA,1999,Scrum-half,1,0,1,0,0,0,Auckland,NewZealand
-Eric Reed,USA,1999,Lock,7,1,6,0,0,0,NA,Austria
+Eric Reed,USA,1999,Lock,7,1,6,0,0,0,NA,
 Phillip Eloff,USA,2000,Centre,35,15,20,0,50,10,Thabazimbi,SouthAfrica
 Matt Kane,USA,2000,Lock,7,2,5,0,0,0,"Seattle, WA, United States",Australia
 Kort Schubert,USA,2000,Back-row,49,16,33,0,20,4,"Sacramento, CA, United States",USA
 Grant Wells,USA,2000,Fly-half,12,3,9,0,100,0,Christchurch,NewZealand
-Don Younger,USA,2000,Flanker,4,2,2,0,0,0,NA,Svizra
-Tom Kelleher,USA,2000,Lock,5,2,3,0,0,0,NA,Nederland
-John Burke,USA,2000,Flanker,2,1,1,0,0,0,NA,Danmark
-Robbie Flynn,USA,2000,Hooker,9,2,7,0,5,1,NA,Danmark
+Don Younger,USA,2000,Flanker,4,2,2,0,0,0,NA,
+Tom Kelleher,USA,2000,Lock,5,2,3,0,0,0,NA,
+John Burke,USA,2000,Flanker,2,1,1,0,0,0,NA,
+Robbie Flynn,USA,2000,Hooker,9,2,7,0,5,1,NA,
 Link Wilfley,USA,2000,Fly-half,20,7,13,0,63,3,"Denver, CO, United States",USA
-Olo Fifita,USA,2000,Flanker,17,2,15,0,5,1,NA,Nederland
+Olo Fifita,USA,2000,Flanker,17,2,15,0,5,1,NA,
 Mike MacDonald,USA,2000,Prop,67,21,46,0,30,6,"Berkeley, CA, United States",USA
 Roger Grant,USA,2000,Wing,1,0,1,0,0,0,"Dublin, GA, United States",USA
 Jason Gillam,USA,2000,Flanker,1,0,1,0,0,0,,
 Mose Timoteo,USA,2000,Scrum-half,32,10,22,0,15,3,Pago Pago,USA
-Jovesa Naivalu,USA,2000,Wing,10,2,8,0,20,4,NA,Svizra
+Jovesa Naivalu,USA,2000,Wing,10,2,8,0,20,4,NA,
 Paul Still,USA,2000,Prop,7,1,6,0,0,0,"Berkeley, CA, United States",USA
 Jason Keyter,USA,2000,Wing,17,5,12,0,13,2,Port Elizabeth,SouthAfrica
 Alex Magleby,USA,2000,Flanker,4,1,3,0,0,0,"Salt Lake City, UT, United States",USA
@@ -310,22 +310,22 @@ John Buchholz,USA,2001,Fullback,9,2,7,0,0,0,"Santa Rosa, CA, United States",USA
 Kimball Kjar,USA,2001,Scrum-half,19,4,15,0,10,2,"Provo, UT, United States",USA
 Jone Naqica,USA,2001,"Fullback, Wing",8,2,6,0,10,2,Suva,Fiji
 Dan Dorsey,USA,2001,Prop,24,10,14,0,5,1,"Inglewood, CA, United States",USA
-Brian Surgener,USA,2001,Lock,12,3,9,0,0,0,NA,Svizra
+Brian Surgener,USA,2001,Lock,12,3,9,0,0,0,NA,
 Mike Hercus,USA,2002,Fly-half,48,19,29,0,465,9,"Falls Church, VI, United States",USA
-Aaron Satchwell,USA,2002,No. 8,2,1,1,0,0,0,NA,Danmark
-Dan Anderson,USA,2002,Hooker,1,0,1,0,0,0,NA,Danmark
-Conrad Hodgson,USA,2002,Flanker,11,6,5,0,10,2,NA,Svizra
+Aaron Satchwell,USA,2002,No. 8,2,1,1,0,0,0,NA,
+Dan Anderson,USA,2002,Hooker,1,0,1,0,0,0,NA,
+Conrad Hodgson,USA,2002,Flanker,11,6,5,0,10,2,NA,
 Andy McGarry,USA,2002,Prop,2,1,1,0,0,0,"Dayton, OH, United States",USA
 John Tarpoff,USA,2002,Prop,12,5,7,0,0,0,"St Louis, MO, United States",USA
 David Fee,USA,2002,Wing,28,12,16,0,45,9,"Chicago, IL, United States",USA
 Cayo Nicolau,USA,2002,Centre,4,2,2,0,10,2,Belem,Palestinian Territory
-Chris Miller,USA,2002,Hooker,2,1,1,0,0,0,NA,Svizra
+Chris Miller,USA,2002,Hooker,2,1,1,0,0,0,NA,
 Al Lakomskis,USA,2002,Fullback,4,0,4,0,0,0,Lincoln,USA
 Kain Cross,USA,2003,Centre,12,6,6,0,25,5,"Dubbo, NSW",Australia
 Riaan van Zyl,USA,2003,Wing,13,7,6,0,45,9,Stellenbosch,SouthAfrica
 Paul Emerick,USA,2003,"Fullback, Centre",53,21,32,0,85,17,"Emmetsburg, IA, United States",USA
 Mark Griffin,USA,2003,Hooker,9,4,5,0,0,0,Oakham,England
-Christian Long,USA,2003,Lock,1,1,0,0,0,0,NA,Россия
+Christian Long,USA,2003,Lock,1,1,0,0,0,0,NA,
 Jacob Waasdorp,USA,2003,Prop,15,5,10,0,5,1,"Pasadena, CA, United States",USA
 Jurie Gouws,USA,2003,Flanker,8,2,6,0,0,0,Durban,SouthAfrica
 Matt Sherman,USA,2003,Fly-half,7,1,6,0,6,0,"San Francisco, CA, United States",USA
@@ -337,29 +337,29 @@ Salesi Sika,USA,2003,"Wing, Centre",22,4,18,0,25,5,Haveluloto,Tonga
 Albert Tuipulotu,USA,2004,Centre,19,5,14,0,15,3,"San Mateo, CA, United States",USA
 David Williams,USA,2004,Scrum-half,11,3,8,0,0,0,Bristol,England
 Francois Viljoen,USA,2004,Fullback,18,5,13,0,69,1,"Oakland, CA, United States",USA
-Tony Petruzzella,USA,2004,Flanker,9,2,7,0,0,0,NA,Sverige
+Tony Petruzzella,USA,2004,Flanker,9,2,7,0,0,0,NA,
 Chris Osentowski,USA,2004,Prop,18,4,14,0,0,0,"Des Moines, IA, United States",USA
 James Lik,USA,2005,Lock,3,1,2,0,0,0,"New Hyde Park, NY, United States",USA
 Mike Palefau,USA,2005,Wing,11,2,9,0,15,3,"Kahuki, HI, United States",USA
-Andrew Ryland,USA,2005,Flanker,4,2,2,0,0,0,NA,Sverige
+Andrew Ryland,USA,2005,Flanker,4,2,2,0,0,0,NA,
 Louis Stanfill,USA,2005,Lock,56,16,39,1,15,3,"Sacramento, CA, United States",USA
 John Hartman,USA,2005,Wing,2,0,2,0,0,0,"St Louis, MO, United States",USA
 Mike Mangan,USA,2005,No. 8,17,4,13,0,0,0,"Chicago, IL, United States",USA
-Mike Hobson,USA,2005,Hooker,1,1,0,0,0,0,NA,România
-Doug Rowe,USA,2005,Scrum-half,2,1,1,0,0,0,NA,Россия
+Mike Hobson,USA,2005,Hooker,1,1,0,0,0,0,NA,
+Doug Rowe,USA,2005,Scrum-half,2,1,1,0,0,0,NA,
 Mike French,USA,2005,Prop,8,2,6,0,0,0,"Anchorage, AK, United States",USA
 Scott Jones,USA,2005,"Wing, Centre",2,1,1,0,0,0,"Murray, KT, United States",USA
 Jason Pye,USA,2005,"Wing, Fullback",2,1,1,0,0,0,"New Orleans, LA, United States",USA
-Carl Hansen,USA,2005,Lock,4,1,3,0,0,0,NA,Россия
+Carl Hansen,USA,2005,Lock,4,1,3,0,0,0,NA,
 Vaha Esikia,USA,2006,Centre,13,3,10,0,20,4,"Nieafu, Vava'u",Tonga
 Jeff Hullinger,USA,2006,Wing,5,3,2,0,30,6,"San Clemente, CA, United States",USA
 Owen Lentz,USA,2006,"Hooker, Flanker",8,1,7,0,0,0,King William's Town,SouthAfrica
 Tyson Meek,USA,2006,Scrum-half,4,1,3,0,0,0,"Plano, TX, United States",USA
 Pate Tuilevuka,USA,2006,"Centre, Fly-half",10,5,5,0,12,2,Suva,Fiji
 Mark Aylor,USA,2006,Back-row,11,3,8,0,0,0,"San Angelo, TX, United States",USA
-Brian Barnard,USA,2006,Wing,4,1,3,0,5,1,NA,Sverige
+Brian Barnard,USA,2006,Wing,4,1,3,0,5,1,NA,
 Patrick Bell,USA,2006,"Prop, Hooker",7,3,4,0,10,2,Pietermaritzburg,SouthAfrica
-Brian Schoener,USA,2006,Lock,3,0,3,0,0,0,NA,Svizra
+Brian Schoener,USA,2006,Lock,3,0,3,0,0,0,NA,
 Jason Kelly,USA,2006,Fly-half,3,1,2,0,6,0,Timaru,NewZealand
 Jeremy Nash,USA,2006,Wing,2,0,2,0,0,0,,
 Scott Lawrence,USA,2006,Flanker,5,3,2,0,0,0,NA,

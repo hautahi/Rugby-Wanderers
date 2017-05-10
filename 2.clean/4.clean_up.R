@@ -64,6 +64,8 @@ temp <- grepl(dic$City[i],d$City)
 d$born[temp==TRUE]=dic$Country[i]
 }
 
+d$born[is.na(d$City)]=""
+
 #-------------------------------------------------------------#
 # Manually assign details according to player name
 #-------------------------------------------------------------#

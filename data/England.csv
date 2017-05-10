@@ -53,7 +53,7 @@ James Genth,England,1874,Forward,2,1,0,1,NA,0,"Ardwick, Manchester",England
 Edward Kewley,England,1874,Forward,7,4,1,2,NA,1,"Eton, Bucks",England
 William Milton,England,1874,Three-quarters,2,2,0,0,NA,0,"Lt.Marlow, Bucks",England
 Sidney Parker,England,1874,Forward,2,1,0,1,NA,0,"Shirburn Castle, Oxon",England
-William Stafford,England,1874,Forward,1,1,0,0,NA,0,NA,Norge
+William Stafford,England,1874,Forward,1,1,0,0,NA,0,NA,
 Roger Walker,England,1874,Forward,5,4,0,1,NA,0,Bury,England
 Frank Adams,England,1875,Forward,7,4,0,3,NA,2,Newcastle-upon-Tyne,England
 Edward Fraser,England,1875,Forward,1,1,0,0,NA,0,Burnside,USA
@@ -265,7 +265,7 @@ John Hall,England,1894,Forward,3,1,2,0,0,0,Gateshead,England
 Charles Hooper,England,1894,Centre,3,1,2,0,0,0,"Stonehouse, Glos",France
 Samuel Morfitt,England,1894,Centre,6,2,4,0,9,3,Kingston-upon-Hull,England
 Harry Speed,England,1894,Forward,4,1,3,0,0,0,Castleford,England
-William Tucker,England,1894,Forward,5,3,2,0,0,0,NA,Danmark
+William Tucker,England,1894,Forward,5,3,2,0,0,0,NA,
 Bob Wood,England,1894,Halfback,1,0,1,0,0,0,Pontefract,England
 Albert Elliott,England,1894,Forward,1,0,1,0,0,0,"Basset Mnt, Sthampton",
 Walter Jackson,England,1894,Wing,1,0,1,0,0,0,Gloucester,England
@@ -657,9 +657,9 @@ Brian Black,England,1930,Lock,15,4,9,2,34,2,Grahamstown,SouthAfrica
 Jeff Forrest,England,1930,Lock,10,4,4,2,2,0,Barnet,England
 Peter Howard,England,1930,No. 8,8,2,4,2,0,0,Maidenhead,England
 Joe Kendrew,England,1930,Prop,10,5,3,2,2,0,Barnstaple,England
-Frank Malir,England,1930,Centre,3,1,1,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Frank Malir,England,1930,Centre,3,1,1,1,0,0,NA,
 Matthew Robson,England,1930,Centre,4,2,1,1,3,1,Bellingham,USA
-Wilf Sobey,England,1930,Scrum-half,5,2,2,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Wilf Sobey,England,1930,Scrum-half,5,2,2,1,0,0,NA,
 Alan Key,England,1930,Scrum-half,2,0,2,0,0,0,Amersham,England
 Peter Brook,England,1930,Flanker,3,1,1,1,0,0,Thornton Heath,England
 John Hubbard,England,1930,Fullback,1,0,0,1,0,0,Woolwich,England
@@ -770,7 +770,7 @@ James George,England,1947,Lock,3,2,1,0,0,0,Falmouth,England
 Cyril Holmes,England,1947,Wing,3,1,2,0,3,1,Bolton,England
 Ossie Newton-Thompson,England,1947,Scrum-half,2,2,0,0,0,0,Paddington,England
 Bob Weighill,England,1947,No. 8,4,2,2,0,0,0,Kings Norton,England
-George Gibbs,England,1947,Prop,2,1,1,0,0,0,NA,Norge
+George Gibbs,England,1947,Prop,2,1,1,0,0,0,NA,
 Syd Newman,England,1947,Fullback,3,1,1,1,3,0,Pretoria,SouthAfrica
 Vic Roberts,England,1947,Flanker,16,7,9,0,6,2,Penryn,England
 Eric Evans,England,1948,Hooker,30,17,10,3,15,5,Droylsden,England
@@ -804,14 +804,14 @@ John Cain,England,1950,Flanker,1,0,1,0,0,0,W Derby,England
 Murray Hofmeyer,England,1950,Fullback,3,0,3,0,7,0,Pretoria,SouthAfrica
 Wally Holmes,England,1950,Prop,16,8,7,1,0,0,Nuneaton,England
 Herbert Jones,England,1950,Lock,3,1,2,0,0,0,"Landkey, Barnstaple?",England
-Harry Small,England,1950,Flanker,4,1,3,0,0,0,NA,Norge
+Harry Small,England,1950,Flanker,4,1,3,0,0,0,NA,
 John Smith,England,1950,Wing,4,1,3,0,12,4,Stroud,England
 Akker Adkins,England,1950,Lock,7,4,2,1,3,1,Coventry,England
 John Hyde,England,1950,Wing,2,0,2,0,0,0,Wellingborough,England
 John Baume,England,1950,Prop,1,0,1,0,0,0,Dewsbury,England
 Jasper Bartlett,England,1951,Lock,1,0,1,0,0,0,Birmingham,England
 Ted Hewitt,England,1951,Fullback,3,0,3,0,2,0,Coventry,England
-Philip Moore,England,1951,No. 8,1,0,1,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Philip Moore,England,1951,No. 8,1,0,1,0,0,0,NA,
 Lionel Oakley,England,1951,Centre,1,0,1,0,0,0,Dhaka,Bangladesh
 George Rittson-Thomas,England,1951,Flanker,3,0,3,0,3,1,Cardiff,Wales
 Trevor Smith,England,1951,Hooker,1,0,1,0,0,0,Bedford,England
@@ -843,7 +843,7 @@ Sandy Sanders,England,1954,Prop,9,5,4,0,0,0,Fulham,England
 Peter Yarranton,England,1954,Lock,5,3,2,0,0,0,Acton,England
 Peter Young,England,1954,Lock,9,4,4,1,3,1,Bristol,England
 John Bance,England,1954,Lock,1,1,0,0,0,0,Kingsclere,England
-Nigel Gibbs,England,1954,Fullback,2,1,1,0,4,0,NA,Norge
+Nigel Gibbs,England,1954,Fullback,2,1,1,0,4,0,NA,
 Vic Leadbetter,England,1954,No. 8,2,1,1,0,0,0,Kettering,England
 Ernie Robinson,England,1954,Hooker,4,2,1,1,0,0,,
 Johnny Williams,England,1954,Scrum-half,9,3,5,1,3,1,Leeds N,USA
@@ -878,7 +878,7 @@ Alfred Herbert,England,1958,Flanker,6,2,1,3,0,0,Stroud,England
 John Scott,England,1958,Fullback,1,1,0,0,0,0,Exeter,England
 Gordon Bendon,England,1959,Prop,4,1,1,2,0,0,Lambeth,England
 Bev Risman,England,1959,Fly-half,12,4,5,3,18,2,Salford,England
-Stephen Smith,England,1959,Scrum-half,5,1,2,2,0,0,NA,Россия
+Stephen Smith,England,1959,Scrum-half,5,1,2,2,0,0,NA,
 John Wackett,England,1959,Hooker,2,1,1,0,0,0,Hatfield,England
 Larry Webb,England,1959,Prop,4,1,1,2,0,0,"Melbourne, VIC",Australia
 Brian Wightman,England,1959,No. 8,5,1,3,1,0,0,Birmingham,England

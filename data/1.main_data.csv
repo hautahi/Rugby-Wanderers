@@ -53,7 +53,7 @@ James Genth,England,1874,Forward,2,1,0,1,NA,0,"Ardwick, Manchester",England
 Edward Kewley,England,1874,Forward,7,4,1,2,NA,1,"Eton, Bucks",England
 William Milton,England,1874,Three-quarters,2,2,0,0,NA,0,"Lt.Marlow, Bucks",England
 Sidney Parker,England,1874,Forward,2,1,0,1,NA,0,"Shirburn Castle, Oxon",England
-William Stafford,England,1874,Forward,1,1,0,0,NA,0,NA,Norge
+William Stafford,England,1874,Forward,1,1,0,0,NA,0,NA,
 Roger Walker,England,1874,Forward,5,4,0,1,NA,0,Bury,England
 Frank Adams,England,1875,Forward,7,4,0,3,NA,2,Newcastle-upon-Tyne,England
 Edward Fraser,England,1875,Forward,1,1,0,0,NA,0,Burnside,USA
@@ -265,7 +265,7 @@ John Hall,England,1894,Forward,3,1,2,0,0,0,Gateshead,England
 Charles Hooper,England,1894,Centre,3,1,2,0,0,0,"Stonehouse, Glos",France
 Samuel Morfitt,England,1894,Centre,6,2,4,0,9,3,Kingston-upon-Hull,England
 Harry Speed,England,1894,Forward,4,1,3,0,0,0,Castleford,England
-William Tucker,England,1894,Forward,5,3,2,0,0,0,NA,Danmark
+William Tucker,England,1894,Forward,5,3,2,0,0,0,NA,
 Bob Wood,England,1894,Halfback,1,0,1,0,0,0,Pontefract,England
 Albert Elliott,England,1894,Forward,1,0,1,0,0,0,"Basset Mnt, Sthampton",
 Walter Jackson,England,1894,Wing,1,0,1,0,0,0,Gloucester,England
@@ -657,9 +657,9 @@ Brian Black,England,1930,Lock,15,4,9,2,34,2,Grahamstown,SouthAfrica
 Jeff Forrest,England,1930,Lock,10,4,4,2,2,0,Barnet,England
 Peter Howard,England,1930,No. 8,8,2,4,2,0,0,Maidenhead,England
 Joe Kendrew,England,1930,Prop,10,5,3,2,2,0,Barnstaple,England
-Frank Malir,England,1930,Centre,3,1,1,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Frank Malir,England,1930,Centre,3,1,1,1,0,0,NA,
 Matthew Robson,England,1930,Centre,4,2,1,1,3,1,Bellingham,USA
-Wilf Sobey,England,1930,Scrum-half,5,2,2,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Wilf Sobey,England,1930,Scrum-half,5,2,2,1,0,0,NA,
 Alan Key,England,1930,Scrum-half,2,0,2,0,0,0,Amersham,England
 Peter Brook,England,1930,Flanker,3,1,1,1,0,0,Thornton Heath,England
 John Hubbard,England,1930,Fullback,1,0,0,1,0,0,Woolwich,England
@@ -770,7 +770,7 @@ James George,England,1947,Lock,3,2,1,0,0,0,Falmouth,England
 Cyril Holmes,England,1947,Wing,3,1,2,0,3,1,Bolton,England
 Ossie Newton-Thompson,England,1947,Scrum-half,2,2,0,0,0,0,Paddington,England
 Bob Weighill,England,1947,No. 8,4,2,2,0,0,0,Kings Norton,England
-George Gibbs,England,1947,Prop,2,1,1,0,0,0,NA,Norge
+George Gibbs,England,1947,Prop,2,1,1,0,0,0,NA,
 Syd Newman,England,1947,Fullback,3,1,1,1,3,0,Pretoria,SouthAfrica
 Vic Roberts,England,1947,Flanker,16,7,9,0,6,2,Penryn,England
 Eric Evans,England,1948,Hooker,30,17,10,3,15,5,Droylsden,England
@@ -804,14 +804,14 @@ John Cain,England,1950,Flanker,1,0,1,0,0,0,W Derby,England
 Murray Hofmeyer,England,1950,Fullback,3,0,3,0,7,0,Pretoria,SouthAfrica
 Wally Holmes,England,1950,Prop,16,8,7,1,0,0,Nuneaton,England
 Herbert Jones,England,1950,Lock,3,1,2,0,0,0,"Landkey, Barnstaple?",England
-Harry Small,England,1950,Flanker,4,1,3,0,0,0,NA,Norge
+Harry Small,England,1950,Flanker,4,1,3,0,0,0,NA,
 John Smith,England,1950,Wing,4,1,3,0,12,4,Stroud,England
 Akker Adkins,England,1950,Lock,7,4,2,1,3,1,Coventry,England
 John Hyde,England,1950,Wing,2,0,2,0,0,0,Wellingborough,England
 John Baume,England,1950,Prop,1,0,1,0,0,0,Dewsbury,England
 Jasper Bartlett,England,1951,Lock,1,0,1,0,0,0,Birmingham,England
 Ted Hewitt,England,1951,Fullback,3,0,3,0,2,0,Coventry,England
-Philip Moore,England,1951,No. 8,1,0,1,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Philip Moore,England,1951,No. 8,1,0,1,0,0,0,NA,
 Lionel Oakley,England,1951,Centre,1,0,1,0,0,0,Dhaka,Bangladesh
 George Rittson-Thomas,England,1951,Flanker,3,0,3,0,3,1,Cardiff,Wales
 Trevor Smith,England,1951,Hooker,1,0,1,0,0,0,Bedford,England
@@ -843,7 +843,7 @@ Sandy Sanders,England,1954,Prop,9,5,4,0,0,0,Fulham,England
 Peter Yarranton,England,1954,Lock,5,3,2,0,0,0,Acton,England
 Peter Young,England,1954,Lock,9,4,4,1,3,1,Bristol,England
 John Bance,England,1954,Lock,1,1,0,0,0,0,Kingsclere,England
-Nigel Gibbs,England,1954,Fullback,2,1,1,0,4,0,NA,Norge
+Nigel Gibbs,England,1954,Fullback,2,1,1,0,4,0,NA,
 Vic Leadbetter,England,1954,No. 8,2,1,1,0,0,0,Kettering,England
 Ernie Robinson,England,1954,Hooker,4,2,1,1,0,0,,
 Johnny Williams,England,1954,Scrum-half,9,3,5,1,3,1,Leeds N,USA
@@ -878,7 +878,7 @@ Alfred Herbert,England,1958,Flanker,6,2,1,3,0,0,Stroud,England
 John Scott,England,1958,Fullback,1,1,0,0,0,0,Exeter,England
 Gordon Bendon,England,1959,Prop,4,1,1,2,0,0,Lambeth,England
 Bev Risman,England,1959,Fly-half,12,4,5,3,18,2,Salford,England
-Stephen Smith,England,1959,Scrum-half,5,1,2,2,0,0,NA,Россия
+Stephen Smith,England,1959,Scrum-half,5,1,2,2,0,0,NA,
 John Wackett,England,1959,Hooker,2,1,1,0,0,0,Hatfield,England
 Larry Webb,England,1959,Prop,4,1,1,2,0,0,"Melbourne, VIC",Australia
 Brian Wightman,England,1959,No. 8,5,1,3,1,0,0,Birmingham,England
@@ -1281,7 +1281,7 @@ Tom Neilson,Scotland,1874,Forward,1,0,1,0,NA,0,,
 James Reid,Scotland,1874,Forward,5,2,2,1,NA,1,,
 Alexander Stewart,Scotland,1874,Halfback,2,0,2,0,NA,0,Bombay,India
 John Tod,Scotland,1874,Forward,2,0,1,1,NA,0,Glasgow,Scotland
-Arthur Young,Scotland,1874,Forward,1,0,1,0,NA,0,NA,Danmark
+Arthur Young,Scotland,1874,Forward,1,0,1,0,NA,0,NA,
 Allan Arthur,Scotland,1875,Forward,2,0,1,1,NA,0,,
 Malcolm Cross,Scotland,1875,Three-quarters,9,4,2,3,NA,0,Glasgow,Scotland
 James Dunlop,Scotland,1875,Forward,1,0,0,1,NA,0,,
@@ -1348,7 +1348,7 @@ David McFarlan,Scotland,1883,Three-quarters,8,7,1,0,NA,4,Meerut,India
 John Mowat,Scotland,1883,Forward,2,1,1,0,NA,0,Glasgow,Scotland
 George Aitchison,Scotland,1883,Halfback,1,1,0,0,NA,0,"St Giles, Edinburgh",Scotland
 Marshall Reid,Scotland,1883,Three-quarters,2,1,1,0,NA,0,Partick,Scotland
-George Lindsay,Scotland,1884,Three-quarters,4,3,0,1,NA,5,NA,Sverige
+George Lindsay,Scotland,1884,Three-quarters,4,3,0,1,NA,5,NA,
 John Tod,Scotland,1884,Forward,9,6,1,2,NA,2,"Crieff, Perth",Australia
 Charles Berry,Scotland,1884,Forward,9,5,2,2,NA,0,"Leuchars, Fife",Scotland
 Ernest Roland,Scotland,1884,Three-quarters,2,1,1,0,NA,0,"St Andrew, Edinburgh",Scotland
@@ -1387,7 +1387,7 @@ Bill Auld,Scotland,1889,Forward,2,2,0,0,0,0,,
 John Boswell,Scotland,1889,Forward,15,11,3,1,26,5,Garallan,
 William Macdonald,Scotland,1889,Forward,3,2,1,0,0,0,"Invergarry, Inverness",Scotland
 James Marsh,Scotland,1889,Three-quarters,3,3,0,0,0,0,,
-Alfred Methuen,Scotland,1889,Forward,2,2,0,0,NA,0,NA,Norge
+Alfred Methuen,Scotland,1889,Forward,2,2,0,0,NA,0,NA,
 Alexander Aitken,Scotland,1889,Forward,1,1,0,0,NA,0,"Newington, Edinburgh",Scotland
 Darsie Anderson,Scotland,1889,Halfback,8,6,2,0,1,1,"Abbey Wood, Kent",England
 J.G. McKendrick,Scotland,1889,Forward,1,1,0,0,NA,0,"date unknown, ?",
@@ -1436,7 +1436,7 @@ Mark Morrison,Scotland,1896,Forward,26,12,9,5,0,0,Dalmeny,Scotland
 Davie Patterson,Scotland,1896,Halfback,1,0,1,0,0,0,Hawick,Scotland
 Tom Scott,Scotland,1896,Wing,11,4,4,3,6,2,,
 Alec Timms,Scotland,1896,Centre,17,11,5,1,19,4,"Geelong, VIC",Australia
-Charles Fleming,Scotland,1896,Centre,3,2,0,1,3,1,NA,Norge
+Charles Fleming,Scotland,1896,Centre,3,2,0,1,3,1,NA,
 George Turnbull,Scotland,1896,Forward,5,2,2,1,3,1,,
 Alec Laidlaw,Scotland,1897,Forward,1,1,0,0,0,0,Edinburgh,Scotland
 Ronald Stevenson,Scotland,1897,Forward,6,3,2,1,0,0,South Shields,England
@@ -1570,7 +1570,7 @@ JY Henderson,Scotland,1911,Fly-half,1,0,1,0,0,0,Edinburgh,Scotland
 William Hutchison,Scotland,1911,Lock,1,0,1,0,0,0,Glasgow,Scotland
 Ronald Simson,Scotland,1911,Centre,1,0,1,0,3,1,Edinburgh,Scotland
 Stephen Steyn,Scotland,1911,Wing,2,0,2,0,0,0,Moorreesburg,SouthAfrica
-Mike Dickson,Scotland,1912,Fullback,7,4,3,0,0,0,NA,Sverige
+Mike Dickson,Scotland,1912,Fullback,7,4,3,0,0,0,NA,
 Sandy Gunn,Scotland,1912,Fly-half,5,2,3,0,3,1,Pontypool,Wales
 Colin Hill,Scotland,1912,Forward,2,1,1,0,0,0,"Glenwood, Leslie, Fife",Scotland
 Dave Howie,Scotland,1912,Lock,7,3,4,0,0,0,"Roseberry Temple, Mid",USA
@@ -1605,7 +1605,7 @@ James Huggan,Scotland,1914,Wing,1,0,1,0,3,1,Jedburgh,Scotland
 Ian Moffat-Pender,Scotland,1914,Prop,1,0,1,0,0,0,,
 Eric Young,Scotland,1914,Flanker,1,0,1,0,0,0,,
 Gerard Crole,Scotland,1920,Wing,4,3,1,0,9,3,"Calton, Edinburgh",Scotland
-Denoon Duncan,Scotland,1920,Prop,4,3,1,0,0,0,NA,Austria
+Denoon Duncan,Scotland,1920,Prop,4,3,1,0,0,0,NA,
 Ernest Fahmy,Scotland,1920,Centre,4,3,1,0,0,0,Amoy,USA
 Bob Gallie,Scotland,1920,Hooker,8,4,4,0,0,0,,
 Finlay Kennedy,Scotland,1920,Prop,5,3,2,0,13,0,,
@@ -1624,18 +1624,18 @@ Hector Forsayth,Scotland,1921,Fullback,7,2,4,1,0,0,"Sydney, NSW",Australia
 Leslie Gracie,Scotland,1921,Centre,13,5,6,2,6,2,"Colombo, Ceylon",SriLanka
 Ian Kilgour,Scotland,1921,Wing,1,0,1,0,0,0,,
 Alpin Thomson,Scotland,1921,Centre,3,1,2,0,3,1,"Perth, WA",Australia
-Rankin Buchanan,Scotland,1921,Hooker,16,9,6,1,3,1,NA,Svizra
+Rankin Buchanan,Scotland,1921,Hooker,16,9,6,1,3,1,NA,
 Russell Donald,Scotland,1921,Fly-half,3,1,2,0,0,0,Glasgow,Scotland
 George Douglas,Scotland,1921,Lock,1,1,0,0,0,0,,
 Hamish Shaw,Scotland,1921,No. 8,2,1,1,0,0,0,,
 John McCrow,Scotland,1921,Wing,1,0,1,0,0,0,Chirnside,Scotland
 George Murray,Scotland,1921,Prop,2,1,1,0,0,0,"Maryhill, Glasgow",Scotland
 Jock Stewart,Scotland,1921,Flanker,1,0,1,0,0,0,,
-Cecil Mackenzie,Scotland,1921,Centre,1,0,1,0,0,0,NA,Argentina
+Cecil Mackenzie,Scotland,1921,Centre,1,0,1,0,0,0,NA,
 David Bertram,Scotland,1922,Hooker,11,6,3,2,8,2,Edinburgh,Scotland
 Doug Davies,Scotland,1922,No. 8,24,12,9,3,3,0,Ashkirk,Scotland
 Jimmy Dykes,Scotland,1922,Centre,20,14,5,1,20,3,"Partick, Glasgow",Scotland
-Bill Johnston,Scotland,1922,Fullback,1,0,0,1,0,0,NA,Svizra
+Bill Johnston,Scotland,1922,Fullback,1,0,0,1,0,0,NA,
 Jock Lawrie,Scotland,1922,Flanker,11,6,3,2,0,0,Melrose,Scotland
 Eric Liddell,Scotland,1922,Wing,7,4,1,2,12,4,Tientsin,China
 Phil Macpherson,Scotland,1922,Centre,26,13,10,3,12,4,Newtonmore,Scotland
@@ -1651,10 +1651,10 @@ Samuel McQueen,Scotland,1923,Fly-half,4,3,1,0,3,1,Liverpool,England
 Ludo Stuart,Scotland,1923,Lock,8,3,4,1,3,1,,
 Johnny Wallace,Scotland,1921,Wing,17,11,6,0,48,16,"Machsville, NSW",Australia
 Robert Simpson,Scotland,1923,Flanker,1,1,0,0,0,0,"Kinning Park, Glasgow",Scotland
-Kelvin Hendrie,Scotland,1924,No. 8,4,2,2,0,0,0,NA,Lëtzebuerg
+Kelvin Hendrie,Scotland,1924,No. 8,4,2,2,0,0,0,NA,
 Bob Howie,Scotland,1924,Prop,11,5,5,1,0,0,Gorebridge,Scotland
 Chris Mackintosh,Scotland,1924,Wing,1,0,1,0,0,0,Charville,France
-Andrew Ross,Scotland,1924,Hooker,2,1,1,0,0,0,NA,Sverige
+Andrew Ross,Scotland,1924,Hooker,2,1,1,0,0,0,NA,
 Herbert Waddell,Scotland,1924,Fly-half,18,11,7,0,45,7,Glasgow,Scotland
 George Aitken,Scotland,1921,Centre,10,8,2,0,0,0,Westport,NewZealand
 Sandy Gillies,Scotland,1924,No. 8,12,10,2,0,26,1,"Easdale, Argyll",Australia
@@ -1674,7 +1674,7 @@ Max Simmers,Scotland,1926,Wing,28,13,14,1,18,6,Glasgow,Scotland
 Jimmie Graham,Scotland,1926,Flanker,15,6,8,1,3,1,Selkirk,Canada
 Gordon Boyd,Scotland,1926,Wing,1,1,0,0,0,0,"Cadder, Lanarkshire",Scotland
 Jock Allan,Scotland,1927,Prop,17,7,9,1,27,0,,
-Edward Taylor,Scotland,1927,Wing,2,2,0,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Edward Taylor,Scotland,1927,Wing,2,2,0,0,0,0,NA,
 Peter Douty,Scotland,1927,Scrum-half,3,2,1,0,3,1,Leeds,England
 William Ferguson,Scotland,1927,Prop,5,2,3,0,0,0,,
 Harry Greenlees,Scotland,1927,Fly-half,6,4,1,1,0,0,Pollockshields,
@@ -1734,7 +1734,7 @@ Lindsay Lambie,Scotland,1934,Flanker,7,2,5,0,3,1,"Eastwood, Lanark",Scotland
 Douglas Lowe,Scotland,1934,Lock,1,0,1,0,0,0,,
 Kenneth Marshall,Scotland,1934,Fullback,8,2,6,0,0,0,Kimberley,SouthAfrica
 Jack Park,Scotland,1934,Wing,1,0,1,0,0,0,Edinburgh,Scotland
-Wilson Shaw,Scotland,1934,Fly-half,19,6,13,0,28,8,NA,Norge
+Wilson Shaw,Scotland,1934,Fly-half,19,6,13,0,28,8,NA,
 David Thom,Scotland,1934,Flanker,5,1,4,0,3,1,Hawick,Scotland
 James Cotter,Scotland,1934,Fly-half,2,1,1,0,0,0,Motherwell,Scotland
 Gordon Cottington,Scotland,1934,Hooker,5,1,4,0,0,0,,
@@ -1861,7 +1861,7 @@ Jimmy Johnston,Scotland,1951,Lock,5,0,5,0,3,1,St Boswells,Scotland
 Les Allan,Scotland,1952,Centre,4,0,4,0,0,0,Melrose,Scotland
 Ian Cordial,Scotland,1952,Centre,4,0,4,0,3,1,,
 Norman Davidson,Scotland,1952,Fly-half,7,0,7,0,3,1,Hawick,Scotland
-John Fox,Scotland,1952,Prop,4,0,4,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+John Fox,Scotland,1952,Prop,4,0,4,0,0,0,NA,
 Kelso Fulton,Scotland,1952,Scrum-half,2,0,2,0,0,0,Edinburgh,Scotland
 Jim Greenwood,Scotland,1952,No. 8,24,10,13,1,6,2,Dunfermline,Scotland
 Norman Munnoch,Scotland,1952,Hooker,3,0,3,0,0,0,"Polmont, nr Falkirk",
@@ -1870,12 +1870,12 @@ Neil Cameron,Scotland,1952,Fullback,3,0,3,0,2,0,Carlisle,England
 Percy Friebe,Scotland,1952,No. 8,1,0,1,0,0,0,,
 David Gilbert-Smith,Scotland,1952,Flanker,1,0,1,0,0,0,Poona,Australia
 James Inglis,Scotland,1952,Prop,1,0,1,0,0,0,,
-Grant Weatherstone,Scotland,1952,Wing,16,2,12,2,9,3,NA,Norge
+Grant Weatherstone,Scotland,1952,Wing,16,2,12,2,9,3,NA,
 Chick Henderson,Scotland,1953,"Lock, Flanker",9,0,9,0,9,3,Johannesburg,SouthAfrica
 Jock King,Scotland,1953,Hooker,4,0,4,0,0,0,,
 Donald Macdonald,Scotland,1953,No. 8,4,0,3,1,0,0,Banff,Canada
 Keith McMillan,Scotland,1953,Flanker,4,0,4,0,0,0,South Africa?,SouthAfrica
-Bruce Thomson,Scotland,1953,Prop,3,0,3,0,0,0,NA,België - Belgique - Belgien
+Bruce Thomson,Scotland,1953,Prop,3,0,3,0,0,0,NA,
 Alec Valentine,Scotland,1953,Flanker,3,0,3,0,0,0,Hawick,Scotland
 Donald Cameron,Scotland,1953,Centre,6,0,6,0,0,0,Glasgow,Scotland
 Edwin Henriksen,Scotland,1953,No. 8,1,0,1,0,0,0,,
@@ -1885,7 +1885,7 @@ John Wilson,Scotland,1953,Prop,1,0,1,0,0,0,"Boghall, Midlothian",Scotland
 William Cowie,Scotland,1953,No. 8,1,0,1,0,0,0,Glasgow,Scotland
 Walter Kerr,Scotland,1953,Flanker,1,0,1,0,0,0,Purley,England
 Ian Swan,Scotland,1953,Wing,17,6,11,0,3,1,St Andrew's,Scotland
-Ewen Fergusson,Scotland,1954,Lock,5,0,5,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Ewen Fergusson,Scotland,1954,Lock,5,0,5,0,0,0,NA,
 Bob MacEwen,Scotland,1954,Hooker,13,3,10,0,0,0,Oxford,England
 Hugh McLeod,Scotland,1954,Prop,46,16,27,3,0,0,Hawick,Scotland
 John Marshall,Scotland,1954,Fullback,5,0,5,0,0,0,"Dore, Sheffield",England
@@ -1921,7 +1921,7 @@ Norman Bruce,Scotland,1958,Hooker,31,13,14,4,9,3,Edinburgh,Scotland
 Mike Robertson,Scotland,1958,Flanker,1,1,0,0,0,0,,
 Tremayne Rodd,Scotland,1958,Scrum-half,14,3,9,2,0,0,,
 Malcolm Swan,Scotland,1958,Lock,8,3,4,1,0,0,Buenos Aires,Argentina
-Christie Elliot,Scotland,1958,Wing,12,3,7,2,8,0,NA,Norge
+Christie Elliot,Scotland,1958,Wing,12,3,7,2,8,0,NA,
 Stan Coughtrie,Scotland,1959,Scrum-half,11,5,4,2,8,0,Hamilton,NewZealand
 Ian Laughland,Scotland,1959,Centre,31,13,14,4,9,2,Bombay,India
 Frans Bos,Scotland,1959,Lock,17,6,9,2,3,1,Richmond,England
@@ -1965,7 +1965,7 @@ Brian Simmers,Scotland,1965,Centre,7,3,4,0,9,0,Glasgow,Scotland
 Peter Stagg,Scotland,1965,Lock,31,10,19,2,0,0,Twickenham,England
 Norm Suddon,Scotland,1965,Prop,13,5,7,1,0,0,"Cavers, Roxburghshire",Scotland
 David Whyte,Scotland,1965,Wing,13,6,5,2,6,2,,
-Sandy Hinshelwood,Scotland,1966,Wing,24,8,14,2,18,6,NA,Norge
+Sandy Hinshelwood,Scotland,1966,Wing,24,8,14,2,18,6,NA,
 John Macdonald,Scotland,1966,Prop,8,4,3,1,0,0,Kirkcaldy,Scotland
 Jock Turner,Scotland,1966,Centre,24,8,15,1,6,2,Hawick,Scotland
 Alasdair Boyle,Scotland,1966,No. 8,6,2,4,0,3,1,Glasgow,Scotland
@@ -2055,7 +2055,7 @@ Steve Munro,Scotland,1980,Wing,10,5,5,0,8,2,Ayr,Scotland
 Ken Lawrie,Scotland,1980,Hooker,3,1,2,0,0,0,Gala,Nigeria
 Bryan Gossman,Scotland,1980,Fly-half,3,0,3,0,6,0,"West Kilbride, Ayrshire",Scotland
 Norrie Rowan,Scotland,1980,Prop,13,4,9,0,0,0,Edinburgh,Scotland
-Jim Gossman,Scotland,1980,Centre,1,0,1,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Jim Gossman,Scotland,1980,Centre,1,0,1,0,0,0,NA,
 Jim Calder,Scotland,1981,Flanker,28,12,14,2,12,3,Haddington,Scotland
 Iain Paxton,Scotland,1981,No. 8,40,17,20,3,20,5,Dunfermline,Scotland
 Roger Baird,Scotland,1981,Wing,31,13,16,2,4,1,Kelso,Scotland
@@ -2070,7 +2070,7 @@ Euan Kennedy,Scotland,1983,Centre,4,2,1,1,4,1,Edinburgh,Scotland
 Alister Campbell,Scotland,1984,Lock,15,7,8,0,0,0,Hawick,Scotland
 Gordon Hunter,Scotland,1984,Scrum-half,4,1,3,0,0,0,Hawick,Scotland
 Gary Callander,Scotland,1984,Hooker,6,1,5,0,0,0,Kelso,Scotland
-Sean McGaughey,Scotland,1984,Flanker,1,0,1,0,0,0,NA,Sverige
+Sean McGaughey,Scotland,1984,Flanker,1,0,1,0,0,0,NA,
 John Jeffrey,Scotland,1984,Flanker,40,22,16,2,44,11,Kelso,Scotland
 Gregor Mackenzie,Scotland,1984,Prop,1,0,1,0,0,0,Inverness,Scotland
 Peter Steven,Scotland,1984,Wing,4,0,4,0,0,0,Kilwinning,Scotland
@@ -2227,7 +2227,7 @@ James Bristow,Ireland,1879,Forward,1,0,1,0,NA,0,,
 John Cuppaidge,Ireland,1879,Forward,3,0,3,0,NA,1,Dublin,Ireland
 Jack Keon,Ireland,1879,Forward,1,0,1,0,NA,0,"Portloman, Westmeath",Ireland
 William Pike,Ireland,1879,Three-quarters,5,1,3,1,NA,0,"Glendararry, Mayo",Ireland
-Willington Willis,Ireland,1879,Three-quarters,1,0,1,0,NA,0,NA,Perú
+Willington Willis,Ireland,1879,Three-quarters,1,0,1,0,NA,0,NA,
 Arthur Forrest,Ireland,1880,Forward,8,1,6,1,NA,1,Dublin,Ireland
 William Heron,Ireland,1880,Halfback,2,0,2,0,NA,0,,
 Meredith Johnston,Ireland,1880,Halfback,8,1,6,1,NA,1,Dublin,Ireland
@@ -2281,7 +2281,7 @@ George Wheeler,Ireland,1884,Fullback,2,0,2,0,NA,0,Belfast,Ireland
 William Collis,Ireland,1884,Forward,1,0,1,0,NA,0,,
 Herbert Cook,Ireland,1884,Forward,1,0,1,0,NA,0,"date unknown, ?",
 John Fitzgerald,Ireland,1884,Forward,1,0,1,0,NA,0,"date unknown, ?",
-William Hallaran,Ireland,1884,Halfback,1,0,1,0,NA,0,NA,Sverige
+William Hallaran,Ireland,1884,Halfback,1,0,1,0,NA,0,NA,
 Alexander Hamilton,Ireland,1884,Forward,1,0,1,0,NA,0,"date unknown, ?",
 Walter Johnstone,Ireland,1884,Forward,1,0,1,0,NA,0,Kingstown,Saint Vincent and the Grenadines
 Charles Jordan,Ireland,1884,Wing,1,0,1,0,NA,0,,
@@ -2290,7 +2290,7 @@ Frederick Moore,Ireland,1884,Forward,4,0,4,0,NA,0,"Glasnevin, Dublin",Ireland
 Lambert Moyers,Ireland,1884,Forward,1,0,1,0,NA,0,Dublin,Ireland
 Thomas Allen,Ireland,1885,Forward,2,0,2,0,NA,0,"Glendermot, Derry",Ireland
 Robert Bradshaw,Ireland,1885,Forward,3,0,3,0,NA,0,"Gorey, Co.Wexford",Ireland
-Ernie Crawford,Ireland,1885,Halfback,2,0,2,0,NA,0,NA,Sverige
+Ernie Crawford,Ireland,1885,Halfback,2,0,2,0,NA,0,NA,
 Thomas Lyle,Ireland,1885,Forward,6,1,5,0,NA,0,"Coleraine, Northern Ireland",Ireland
 Harry Neill,Ireland,1885,Forward,9,2,7,0,NA,0,Geelong,Australia
 John Ross,Ireland,1885,Three-quarters,5,0,5,0,NA,0,Dublin,Ireland
@@ -2410,7 +2410,7 @@ Michael Ryan,Ireland,1897,Forward,17,7,9,1,3,1,,
 Pierce O'Brien-Butler,Ireland,1897,Fullback,6,3,3,0,0,0,Co.Tipperary,Ireland
 John Davis,Ireland,1898,Forward,2,1,1,0,0,0,"Borris, Co.Carlow",Ireland
 James Franks,Ireland,1898,Forward,3,1,2,0,0,0,"Rathmines, Co.Dublin",Fiji
-Francis Purser,Ireland,1898,Wing,3,1,2,0,0,0,NA,Россия
+Francis Purser,Ireland,1898,Wing,3,1,2,0,0,0,NA,
 Frederick Smithwick,Ireland,1898,Centre,2,0,2,0,0,0,Kildare,Ireland
 Ainsworth Barr,Ireland,1898,Halfback,4,2,2,0,0,0,Belfast,Ireland
 Thomas Little,Ireland,1898,Forward,7,3,3,1,0,0,Dublin,Ireland
@@ -2458,7 +2458,7 @@ Thomas Robinson,Ireland,1904,Fly-half,10,3,7,0,3,1,,
 Joseph Wallace,Ireland,1903,Forward,5,0,3,2,0,0,"Dromakeenan, Roscrea",Ireland
 Ernest Caddell,Ireland,1904,Scrum-half,13,6,7,0,6,2,"Dundalk, Louth",Ireland
 John Moffatt,Ireland,1904,Wing,4,2,2,0,12,4,"Milltown, Dublin",Ireland
-Reg Edwards,Ireland,1904,Forward,4,3,1,0,0,0,NA,Sverige
+Reg Edwards,Ireland,1904,Forward,4,3,1,0,0,0,NA,
 Hercules Knox,Ireland,1904,Forward,10,6,4,0,0,0,"Gortnor Abbey, Mayo",Ireland
 Maurice Landers,Ireland,1904,Fullback,5,3,2,0,0,0,Cork,Ireland
 Henry Millar,Ireland,1904,Forward,4,3,1,0,0,0,"Blackrock, Co.Dublin",Ireland
@@ -2471,7 +2471,7 @@ Geoffrey Henebrey,Ireland,1906,Fullback,6,3,3,0,0,0,Birkenhead,England
 William Purdon,Ireland,1906,Scrum-half,3,2,1,0,3,1,Belfast,Ireland
 Michael White,Ireland,1906,Forward,6,3,3,0,0,0,,
 Bertie Gotto,Ireland,1906,Centre,1,0,1,0,0,0,Belfast,Ireland
-George McIldowie,Ireland,1906,Forward,4,0,3,1,3,1,"Strandtown, Belfast, Northern Ireland",SouthAfrica
+George McIldowie,Ireland,1906,Forward,4,0,3,1,3,1,"Strandtown, Belfast, Northern Ireland",Ireland
 William Cogan,Ireland,1907,Forward,2,1,1,0,0,0,Cork,Ireland
 Robert Forbes,Ireland,1907,Forward,1,1,0,0,0,0,"Brentwood, Essex",England
 Thomas Greeves,Ireland,1907,Centre,5,2,3,0,0,0,,
@@ -2509,12 +2509,12 @@ Cyril O'Callaghan,Ireland,1910,Wing,7,5,2,0,6,2,Carlow,Ireland
 William Smyth,Ireland,1910,Forward,3,1,2,0,0,0,"Dirraw, Co.Antrim",Ireland
 William Beatty,Ireland,1910,Prop,3,3,0,0,0,0,"Hollywood, Co.Down",Ireland
 William Tyrrell,Ireland,1910,Forward,9,4,5,0,9,3,Belfast,Ireland
-Samuel Campbell,Ireland,1911,Forward,12,7,5,0,0,0,NA,Argentina
+Samuel Campbell,Ireland,1911,Forward,12,7,5,0,0,0,NA,
 Michael Heffernan,Ireland,1911,Forward,4,3,1,0,3,1,,
 Alexander Jackson,Ireland,1911,Centre,10,6,4,0,9,3,Dublin,Ireland
 James Smyth,Ireland,1911,Forward,3,3,0,0,0,0,"Dirraw, Co.Antrim",Ireland
 Richard Graham,Ireland,1911,Fullback,1,1,0,0,0,0,,
-William Edwards,Ireland,1912,Forward,2,1,1,0,0,0,"Strandtown, Northern Ireland",SouthAfrica
+William Edwards,Ireland,1912,Forward,2,1,1,0,0,0,"Strandtown, Northern Ireland",Ireland
 Robert Hemphill,Ireland,1912,Forward,4,3,1,0,0,0,,
 George McConnell,Ireland,1912,Forward,4,2,2,0,0,0,"Famad, Co.Donegal",Ireland
 Charles MacIvor,Ireland,1912,Wing,7,4,3,0,3,1,"British Antilles, West Indies",Nederland
@@ -2567,7 +2567,7 @@ James O'Neill,Ireland,1920,Scrum-half,1,0,1,0,0,0,Belfast,Ireland
 Alfred Price,Ireland,1920,Prop,2,0,2,0,3,1,"Glenbeigh, Co Kerry",Ireland
 Patrick Roddy,Ireland,1920,Centre,2,0,2,0,0,0,,
 Michael Bradley,Ireland,1920,Prop,19,9,10,0,0,0,Cork,Ireland
-Bill Cunningham,Ireland,1920,Fly-half,9,2,6,1,6,2,NA,Argentina
+Bill Cunningham,Ireland,1920,Fly-half,9,2,6,1,6,2,NA,
 Norman Potterton,Ireland,1920,No. 8,1,0,1,0,0,0,Dublin,Ireland
 Declan Browne,Ireland,1920,Hooker,1,0,1,0,0,0,,
 John Smyth,Ireland,1920,Flanker,1,0,1,0,0,0,"Holywood, Co Down",Ireland
@@ -2860,7 +2860,7 @@ Michael O'Callaghan,Ireland,1962,Prop,3,1,1,1,0,0,,
 Patrick Casey,Ireland,1963,Wing,12,4,6,2,9,3,Dublin,Ireland
 John Murray,Ireland,1963,Fly-half,1,0,1,0,0,0,Dublin,Ireland
 Eamonn McGuire,Ireland,1963,Flanker,8,2,5,1,0,0,Galway,Ireland
-Brian Marshall,Ireland,1963,Fullback,1,0,0,1,0,0,NA,Norge
+Brian Marshall,Ireland,1963,Fullback,1,0,0,1,0,0,NA,
 Alan Duggan,Ireland,1963,Wing,25,14,8,3,34,11,Dublin,Ireland
 John Fortune,Ireland,1963,Wing,2,1,1,0,3,1,Dublin,Ireland
 Mike Gibson,Ireland,1964,Centre,81,31,39,11,112,9,"Belfast, Northern Ireland",Ireland
@@ -4094,7 +4094,7 @@ Frank Guthrie,SouthAfrica,1891,Halfback,3,0,3,0,0,0,Notting Hill,England
 Frank Hamilton,SouthAfrica,1891,Forward,1,0,1,0,0,0,Cape Town,SouthAfrica
 Edward Little,SouthAfrica,1891,Forward,2,0,2,0,0,0,Midlothian,Scotland
 Japie Louw,SouthAfrica,1891,Forward,3,0,3,0,0,0,Fisantekraal,SouthAfrica
-George Merry,SouthAfrica,1891,Forward,1,0,1,0,0,0,NA,Svizra
+George Merry,SouthAfrica,1891,Forward,1,0,1,0,0,0,NA,
 Alf Richards,SouthAfrica,1891,Halfback,3,0,3,0,0,0,Grahamstown,SouthAfrica
 Mosey van Buuren,SouthAfrica,1891,Wing,1,0,1,0,0,0,Burgersdorp,SouthAfrica
 Oupa Versfeld,SouthAfrica,1891,Forward,3,0,3,0,0,0,Cape Town,SouthAfrica
@@ -4716,7 +4716,7 @@ Faan Rautenbach,SouthAfrica,2002,Prop,14,9,5,0,5,1,Bethlehem,SouthAfrica
 Paddy Carew,Australia,1899,Prop,4,1,3,0,0,0,"Pine Mountain, QLD",Australia
 James Carson,Australia,1899,Prop,1,1,0,0,0,0,Grahamstown,SouthAfrica
 Ginger Colton,Australia,1899,No. 8,2,1,1,0,3,1,"Brisbane, QLD",Australia
-Walter Davis,Australia,1899,Lock,3,1,2,0,0,0,NA,Perú
+Walter Davis,Australia,1899,Lock,3,1,2,0,0,0,NA,
 Charlie Ellis,Australia,1899,Lock,4,1,3,0,0,0,"Newcastle, NSW",Australia
 Poley Evans,Australia,1899,Wing,2,1,1,0,3,1,"Indooroopilly, QLD",Australia
 Austin Gralton,Australia,1899,Scrum-half,3,1,2,0,0,0,"Kempsey, NSW",Australia
@@ -4745,7 +4745,7 @@ Iggy O'Donnell,Australia,1899,Fly-half,2,0,2,0,0,0,"Hillston, NSW",Australia
 Bill Webb,Australia,1899,Prop,2,0,2,0,0,0,Dunedin,NewZealand
 Bill Hardcastle,Australia,1899,Flanker,2,0,2,0,0,0,Wellington,NewZealand
 Jack O'Donnell,Australia,1899,Hooker,1,0,1,0,0,0,"Hillston, NSW",Australia
-Jum Sampson,Australia,1899,No. 8,1,0,1,0,0,0,NA,Perú
+Jum Sampson,Australia,1899,No. 8,1,0,1,0,0,0,NA,
 Alec Burdon,Australia,1903,Prop,4,0,4,0,3,1,"Sydney, NSW",Australia
 Lew Evans,Australia,1903,Fly-half,3,0,3,0,0,0,"Brisbane, QLD",Australia
 James Joyce,Australia,1903,Lock,1,0,1,0,0,0,"Penrith, NSW",Australia
@@ -7208,7 +7208,7 @@ Emilio Dominguez,Argentina,1949,Lock,6,0,5,1,0,0,,
 Luis Dorado,Argentina,1949,Wing,1,0,1,0,0,0,,
 Barry Holmes,Argentina,1949,Fullback,6,2,4,0,4,0,Buenos Aires,Argentina
 Miguel Hughes,Argentina,1949,Flanker,2,0,2,0,0,0,,
-Pedro Macadam,Argentina,1949,Centre,2,0,2,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Pedro Macadam,Argentina,1949,Centre,2,0,2,0,0,0,NA,
 Carlos Orti,Argentina,1949,Prop,2,0,2,0,0,0,,
 Alfredo Palma,Argentina,1949,Centre,6,0,5,1,3,1,,
 Juan Petrone,Argentina,1949,Prop,2,0,2,0,0,0,,
@@ -7278,7 +7278,7 @@ Eduardo Gonzalez del Solar,Argentina,1960,Scrum-half,4,3,1,0,3,1,,
 Enrique Krossler,Argentina,1960,Wing,3,0,3,0,0,0,,
 Enrico Neri,Argentina,1960,Wing,13,7,6,0,36,12,,
 Ricardo Oliveri,Argentina,1960,Centre,6,3,3,0,34,1,,
-Aitor Otano,Argentina,1960,Lock,26,15,9,2,18,6,NA,Norge
+Aitor Otano,Argentina,1960,Lock,26,15,9,2,18,6,NA,
 Jorge Pulido,Argentina,1960,Flanker,1,0,1,0,0,0,,
 Rodolfo Schmidt,Argentina,1960,Lock,7,4,3,0,0,0,,
 Florencio Varela,Argentina,1960,No. 8,1,0,1,0,0,0,,
@@ -7295,7 +7295,7 @@ Guillermo Montes de Oca,Argentina,1961,Flanker,3,3,0,0,6,2,,
 Martin Odriozola,Argentina,1961,"Centre, Fly-half",2,2,0,0,0,0,,
 Eduardo Scharemberg,Argentina,1961,Flanker,11,8,2,1,9,3,,
 Luis Varela,Argentina,1961,Lock,3,3,0,0,0,0,,
-Adolfo Etchegaray,Argentina,1964,Scrum-half,25,15,9,1,10,3,NA,Perú
+Adolfo Etchegaray,Argentina,1964,Scrum-half,25,15,9,1,10,3,NA,
 Nicanor Gonzalez del Solar,Argentina,1964,Hooker,8,5,2,1,0,0,,
 Jose Lasalle,Argentina,1964,Fullback,1,1,0,0,3,1,,
 Raul Loyola,Argentina,1964,Flanker,19,12,5,2,33,11,,
@@ -7318,8 +7318,8 @@ Guillermo Illia,Argentina,1965,Lock,1,0,1,0,0,0,,
 Marcelo Pascual,Argentina,1965,"Wing, Centre",21,13,6,2,24,8,,
 Eduardo Espana,Argentina,1965,Wing,6,4,1,1,12,4,,
 Eduardo Poggi,Argentina,1965,Fly-half,7,4,2,1,36,1,,
-Arturo Rodriguez Jurado,Argentina,1965,Centre,24,12,10,2,43,11,NA,Perú
-Hector Silva,Argentina,1965,No. 8,24,15,6,3,16,5,NA,Perú
+Arturo Rodriguez Jurado,Argentina,1965,Centre,24,12,10,2,43,11,NA,
+Hector Silva,Argentina,1965,No. 8,24,15,6,3,16,5,NA,
 Luis Gradin,Argentina,1965,Scrum-half,14,9,4,1,32,5,,
 Adrian Anthony,Argentina,1965,Lock,19,12,6,1,6,2,,
 Eduardo Quetglas,Argentina,1965,Wing,1,1,0,0,0,0,,
@@ -7328,9 +7328,9 @@ Miguel Chesta,Argentina,1966,Flanker,6,3,2,1,3,1,,
 Marcos Dumas,Argentina,1966,Fullback,2,0,2,0,0,0,,
 Ricardo Handley,Argentina,1966,Hooker,14,8,5,1,0,0,,
 Jose Imhoff,Argentina,1967,No. 8,2,2,0,0,0,0,,
-Hector Mendez,Argentina,1967,Fly-half,2,2,0,0,15,1,NA,Perú
+Hector Mendez,Argentina,1967,Fly-half,2,2,0,0,15,1,NA,
 Ronaldo Seaton,Argentina,1967,Hooker,2,2,0,0,0,0,,
-Alejandro Travaglini,Argentina,1967,Centre,27,15,12,0,36,10,NA,Perú
+Alejandro Travaglini,Argentina,1967,Centre,27,15,12,0,36,10,NA,
 Mario Walther,Argentina,1967,Wing,17,13,3,1,31,9,,
 Dudley Morgan,Argentina,1967,Fullback,11,8,3,0,0,0,,
 Marcelo Farina,Argentina,1968,Prop,4,2,1,1,0,0,,
@@ -7347,13 +7347,13 @@ Guillermo Blacksley,Argentina,1971,Scrum-half,1,0,1,0,0,0,,
 Ricardo Espagnol,Argentina,1971,Fly-half,1,0,1,0,6,0,,
 Roberto Matarazzo,Argentina,1971,Centre,15,9,6,0,20,5,,
 Jorge Wittman,Argentina,1971,Flanker,8,6,2,0,0,0,,
-Jose Fernandez,Argentina,1971,Lock,24,12,11,1,3,1,NA,Perú
+Jose Fernandez,Argentina,1971,Lock,24,12,11,1,3,1,NA,
 Miguel Morgan,Argentina,1971,No. 8,3,3,0,0,3,1,,
-Hugo Nicola,Argentina,1971,Prop,15,7,7,1,6,2,NA,Perú
-Jose Costante,Argentina,1971,Hooker,9,6,2,1,6,2,NA,Perú
+Hugo Nicola,Argentina,1971,Prop,15,7,7,1,6,2,NA,
+Jose Costante,Argentina,1971,Hooker,9,6,2,1,6,2,NA,
 Julio Walther,Argentina,1971,Centre,1,1,0,0,3,1,,
 Guillermo Casas,Argentina,1971,Hooker,6,3,3,0,4,1,,
-Jorge Carracedo,Argentina,1971,Flanker,19,10,8,1,28,8,NA,Perú
+Jorge Carracedo,Argentina,1971,Flanker,19,10,8,1,28,8,NA,
 Ruben Castro,Argentina,1971,Lock,3,3,0,0,0,0,,
 Gustavo Foster,Argentina,1971,Fullback,4,4,0,0,3,1,,
 Fernando Insua,Argentina,1971,Prop,18,8,9,1,4,1,,
@@ -7362,33 +7362,33 @@ Marcelo Martinez Mosquera,Argentina,1971,Wing,1,1,0,0,6,2,,
 Hugo Porta,Argentina,1971,Fly-half,66,26,35,5,651,12,Buenos Aires,Argentina
 Marcelo Rodriguez Jurado,Argentina,1971,Centre,4,4,0,0,58,10,,
 Alberto Velasquez,Argentina,1971,Flanker,2,2,0,0,3,1,,
-Jorge Braceras,Argentina,1971,Hooker,5,2,3,0,6,2,NA,Perú
+Jorge Braceras,Argentina,1971,Hooker,5,2,3,0,6,2,NA,
 Gustavo Pimentel,Argentina,1971,Centre,1,1,0,0,0,0,,
 Alejandro Altberg,Argentina,1972,Wing,5,4,1,0,4,1,,
 Eduardo Morgan,Argentina,1972,"Fullback, Wing",12,7,5,0,127,12,,
-Martin Alonso,Argentina,1973,Fullback,5,2,2,1,4,1,NA,Perú
-Mario Carluccio,Argentina,1973,Prop,10,5,4,1,0,0,NA,Perú
+Martin Alonso,Argentina,1973,Fullback,5,2,2,1,4,1,NA,
+Mario Carluccio,Argentina,1973,Prop,10,5,4,1,0,0,NA,
 Juan Dumas,Argentina,1973,Hooker,5,4,1,0,4,1,,
 Jose Virasoro,Argentina,1973,Lock,6,5,1,0,4,1,,
 Miguel Iglesias,Argentina,1973,Flanker,3,1,2,0,0,0,,
 Carlos Bottarini,Argentina,1973,Lock,15,10,5,0,4,1,,
 Roberto Fariello,Argentina,1973,Prop,3,2,1,0,8,2,,
 Martin Giargia,Argentina,1973,Prop,5,5,0,0,4,1,,
-Raul Sanz,Argentina,1973,No. 8,7,4,2,1,24,6,NA,Perú
+Raul Sanz,Argentina,1973,No. 8,7,4,2,1,24,6,NA,
 Guillermo Perez Leiros,Argentina,1973,Wing,2,1,1,0,16,4,,
-Rito Iraneta,Argentina,1974,Prop,3,0,3,0,0,0,NA,Perú
+Rito Iraneta,Argentina,1974,Prop,3,0,3,0,0,0,NA,
 Arturo Orzabal,Argentina,1974,Prop,2,0,2,0,0,0,,
 Osvaldo Rocha,Argentina,1974,Hooker,2,0,2,0,0,0,,
-Guillermo Alvarez,Argentina,1975,Wing,9,8,1,0,56,14,NA,Perú
+Guillermo Alvarez,Argentina,1975,Wing,9,8,1,0,56,14,NA,
 Eduardo Brouchou,Argentina,1975,Wing,4,4,0,0,16,4,,
 Juan Cato,Argentina,1975,Flanker,2,2,0,0,4,1,,
 Jorge Copello,Argentina,1975,Fullback,2,2,0,0,0,0,,
 Felix d'Agnilo,Argentina,1975,Flanker,6,6,0,0,12,3,,
 Miguel Devoto,Argentina,1975,Fly-half,4,4,0,0,4,1,,
 Javier Escalante,Argentina,1975,Centre,7,6,1,0,16,2,,
-Alejandro Iachetti,Argentina,1975,Lock,38,18,17,3,12,3,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Tomas Landajo,Argentina,1975,Scrum-half,18,9,6,3,13,1,NA,Perú
-Roberto Lucke,Argentina,1975,No. 8,5,5,0,0,8,2,NA,Perú
+Alejandro Iachetti,Argentina,1975,Lock,38,18,17,3,12,3,NA,
+Tomas Landajo,Argentina,1975,Scrum-half,18,9,6,3,13,1,NA,
+Roberto Lucke,Argentina,1975,No. 8,5,5,0,0,8,2,NA,
 Ernesto Miguens,Argentina,1975,No. 8,3,3,0,0,8,2,,
 Manuel Parra,Argentina,1975,Lock,3,3,0,0,0,0,,
 Eduardo Sanguinetti,Argentina,1975,Fullback,9,6,3,0,36,3,,
@@ -7398,24 +7398,24 @@ Camilo Abud,Argentina,1975,Prop,3,3,0,0,0,0,,
 Julio Bach,Argentina,1975,Flanker,3,3,0,0,8,2,,
 Eduardo de Forteza,Argentina,1975,Fly-half,3,3,0,0,66,2,,
 Buenaventura Minguez,Argentina,1975,No. 8,13,10,3,0,20,5,,
-Ricardo Muniz,Argentina,1975,Fullback,3,3,0,0,8,2,NA,Perú
+Ricardo Muniz,Argentina,1975,Fullback,3,3,0,0,8,2,NA,
 Nestor Bozzo,Argentina,1975,Hooker,1,1,0,0,4,1,,
 Javier Capalbo,Argentina,1975,Centre,4,4,0,0,42,1,,
 Daniel Beccar Varela,Argentina,1975,Wing,6,0,5,1,0,0,Buenos Aires,Argentina
-Jorge Gauweloose,Argentina,1975,Wing,8,1,6,1,8,2,NA,Perú
-Ricardo Mastai,Argentina,1975,No. 8,11,5,5,1,8,2,NA,Perú
+Jorge Gauweloose,Argentina,1975,Wing,8,1,6,1,8,2,NA,
+Ricardo Mastai,Argentina,1975,No. 8,11,5,5,1,8,2,NA,
 Carlos Neyra,Argentina,1975,Flanker,6,1,5,0,0,0,Santa Fe,USA
-Martin Sansot,Argentina,1975,Fullback,18,6,11,1,63,7,NA,Perú
+Martin Sansot,Argentina,1975,Fullback,18,6,11,1,63,7,NA,
 Carlos Bori,Argentina,1975,No. 8,1,0,1,0,0,0,,
 Alejandro Cerioni,Argentina,1975,Prop,5,2,2,1,8,2,,
 Gonzalo Beccar Varela,Argentina,1976,Centre,7,2,4,1,30,1,Buenos Aires,Argentina
-Eliseo Branca,Argentina,1976,Lock,40,19,17,4,20,5,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Adolfo Cappelletti,Argentina,1977,Wing,17,4,10,3,20,5,NA,Perú
-Ricardo Castagna,Argentina,1977,Scrum-half,1,0,1,0,0,0,NA,Perú
-Horacio Mazzini,Argentina,1977,No. 8,2,0,1,1,0,0,NA,Perú
+Eliseo Branca,Argentina,1976,Lock,40,19,17,4,20,5,NA,
+Adolfo Cappelletti,Argentina,1977,Wing,17,4,10,3,20,5,NA,
+Ricardo Castagna,Argentina,1977,Scrum-half,1,0,1,0,0,0,NA,
+Horacio Mazzini,Argentina,1977,No. 8,2,0,1,1,0,0,NA,
 Fernando Bustillo,Argentina,1977,Prop,6,4,1,1,0,0,,
 Luis Balfour,Argentina,1977,Centre,4,4,0,0,12,3,,
-Alejandro Cubelli,Argentina,1977,Hooker,21,10,9,2,16,4,NA,Perú
+Alejandro Cubelli,Argentina,1977,Hooker,21,10,9,2,16,4,NA,
 Eduardo Garcia Teran,Argentina,1977,Fullback,6,6,0,0,40,10,,
 Guillermo Morgan,Argentina,1977,Wing,7,7,0,0,56,14,,
 Ricardo Passaglia,Argentina,1977,Lock,5,3,1,1,8,2,,
@@ -7425,17 +7425,17 @@ Gabriel Allen,Argentina,1977,Lock,1,1,0,0,4,1,,
 Pablo Guarrochena,Argentina,1977,Fly-half,1,1,0,0,29,0,,
 Jorge Posse,Argentina,1977,Hooker,1,1,0,0,0,0,,
 Santos Rosatti,Argentina,1977,Prop,2,2,0,0,0,0,,
-Marcelo Campo,Argentina,1978,Wing,26,8,16,2,36,9,NA,Perú
+Marcelo Campo,Argentina,1978,Wing,26,8,16,2,36,9,NA,
 Marcelo Loffreda,Argentina,1978,Centre,50,29,18,3,57,11,Buenos Aires,Argentina
-Rafael Madero,Argentina,1978,"Fullback, Centre, Fly-half",44,20,20,4,42,9,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Tomas Petersen,Argentina,1978,Flanker,30,11,16,3,16,4,NA,Perú
-Gabriel Travaglini,Argentina,1978,No. 8,23,8,13,2,32,8,NA,Perú
+Rafael Madero,Argentina,1978,"Fullback, Centre, Fly-half",44,20,20,4,42,9,NA,
+Tomas Petersen,Argentina,1978,Flanker,30,11,16,3,16,4,NA,
+Gabriel Travaglini,Argentina,1978,No. 8,23,8,13,2,32,8,NA,
 Carlos Serrano,Argentina,1978,Flanker,7,4,3,0,0,0,,
-Alfredo Soares Gache,Argentina,1978,Scrum-half,15,7,7,1,0,0,NA,Perú
-Marcos Iachetti,Argentina,1979,Lock,4,1,3,0,0,0,NA,Perú
-Javier Perez Cobo,Argentina,1979,Hooker,6,2,3,1,4,1,NA,Perú
+Alfredo Soares Gache,Argentina,1978,Scrum-half,15,7,7,1,0,0,NA,
+Marcos Iachetti,Argentina,1979,Lock,4,1,3,0,0,0,NA,
+Javier Perez Cobo,Argentina,1979,Hooker,6,2,3,1,4,1,NA,
 Topo Rodriguez,Argentina,1979,Prop,43,25,16,2,0,0,Cordoba,Argentina
-Ernesto Ure,Argentina,1979,Flanker,27,9,16,2,20,5,NA,Perú
+Ernesto Ure,Argentina,1979,Flanker,27,9,16,2,20,5,NA,
 Fernando Argerich,Argentina,1979,Fullback,1,1,0,0,4,1,,
 Andres Courreges,Argentina,1979,Hooker,15,10,4,1,16,4,,
 Miguel Glastra,Argentina,1979,Lock,4,3,1,0,0,0,,
@@ -7451,7 +7451,7 @@ Mario Negri,Argentina,1979,No. 8,3,3,0,0,8,2,,
 Alejandro Puccio,Argentina,1979,Wing,5,4,1,0,12,3,,
 Jaime Sartori,Argentina,1979,Hooker,3,3,0,0,12,3,,
 Marcelo Dip,Argentina,1979,Fly-half,2,2,0,0,40,1,,
-Fernando Morel,Argentina,1979,Prop,23,10,11,2,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Fernando Morel,Argentina,1979,Prop,23,10,11,2,0,0,NA,
 Daniel Baetti,Argentina,1980,Scrum-half,19,10,8,1,112,4,NA,Argentina
 Juan Pablo Piccardo,Argentina,1980,Centre,6,3,3,0,28,1,NA,Argentina
 Jorge Allen,Argentina,1980,Flanker,29,15,12,2,4,1,Vicente Lopez,Argentina
@@ -7470,76 +7470,76 @@ Diego Cuesta Silva,Argentina,1983,"Wing, Centre",65,31,32,2,125,28,Buenos Aires,
 Sebastian Dassen,Argentina,1983,Centre,3,3,0,0,8,2,,
 Lucio de Chazal,Argentina,1983,Hooker,3,3,0,0,4,1,,
 Gonzalo Gasso,Argentina,1983,Lock,2,2,0,0,0,0,,
-Pedro Lanza,Argentina,1983,Wing,16,9,6,1,24,6,NA,Austria
-Alejandro Schiavio,Argentina,1983,Flanker,6,3,3,0,0,0,NA,Sverige
-Alejandro Scolni,Argentina,1983,"Fullback, Wing",19,9,10,0,32,8,NA,Sverige
-Marcos Baeck,Argentina,1983,Flanker,7,6,1,0,12,3,NA,Perú
+Pedro Lanza,Argentina,1983,Wing,16,9,6,1,24,6,NA,
+Alejandro Schiavio,Argentina,1983,Flanker,6,3,3,0,0,0,NA,
+Alejandro Scolni,Argentina,1983,"Fullback, Wing",19,9,10,0,32,8,NA,
+Marcos Baeck,Argentina,1983,Flanker,7,6,1,0,12,3,NA,
 Marcelo Carrique,Argentina,1983,Fullback,2,2,0,0,0,0,,
 Carlos Cordeiro,Argentina,1983,Prop,1,1,0,0,4,1,,
 Jose Carlos Galvalisi,Argentina,1983,Prop,2,2,0,0,0,0,,
 Ricardo Sauze,Argentina,1983,Fly-half,1,1,0,0,7,0,,
 Eduardo Torello,Argentina,1983,Scrum-half,2,2,0,0,0,0,,
 Diego Cash,Argentina,1984,Prop,41,14,25,2,12,3,Buenos Aires,Argentina
-Juan Lanza,Argentina,1985,Wing,13,6,6,1,32,8,NA,Austria
-Fabian Turnes,Argentina,1984,Centre,29,11,16,2,65,5,NA,Danmark
+Juan Lanza,Argentina,1985,Wing,13,6,6,1,32,8,NA,
+Fabian Turnes,Argentina,1984,Centre,29,11,16,2,65,5,NA,
 Fabio Gomez,Argentina,1985,Scrum-half,9,4,5,0,4,1,Buenos Aires,Argentina
 Rodrigo de la Arena,Argentina,1985,Fullback,4,3,1,0,17,4,,
 Pedro Merlo,Argentina,1985,Scrum-half,2,2,0,0,16,4,,
 Luis Molina,Argentina,1985,Prop,12,6,6,0,0,0,San Miguel de Tucuma,Argentina
-Daniel Sanes,Argentina,1985,Prop,9,8,1,0,8,2,NA,Sverige
+Daniel Sanes,Argentina,1985,Prop,9,8,1,0,8,2,NA,
 Jose Luis Visca,Argentina,1985,Flanker,1,1,0,0,8,2,,
 Guillermo Holmgren,Argentina,1985,Scrum-half,2,0,1,1,0,0,,
-Sergio Carossio,Argentina,1985,Lock,3,1,1,1,0,0,NA,Sverige
+Sergio Carossio,Argentina,1985,Lock,3,1,1,1,0,0,NA,
 Eduardo Valesani,Argentina,1986,Prop,2,0,2,0,0,0,,
-Joaquin Uriarte,Argentina,1986,Lock,2,1,1,0,0,0,NA,Perú
-Jose Mostany,Argentina,1987,Flanker,3,1,2,0,0,0,NA,Perú
+Joaquin Uriarte,Argentina,1986,Lock,2,1,1,0,0,0,NA,
+Jose Mostany,Argentina,1987,Flanker,3,1,2,0,0,0,NA,
 Sebastian Salvat,Argentina,1987,Centre,37,21,16,0,58,12,Buenos Aires,Argentina
-Martin Yanguela,Argentina,1987,Scrum-half,1,1,0,0,0,0,NA,Perú
+Martin Yanguela,Argentina,1987,Scrum-half,1,1,0,0,0,0,NA,
 Guillermo Angaut,Argentina,1987,Fullback,7,2,5,0,0,0,La Plata,Argentina
 Pablo Garreton,Argentina,1987,Flanker,31,14,16,1,8,2,San Miguel de Tucuma,Argentina
 Marcelo Ricci,Argentina,1987,No. 8,1,1,0,0,0,0,,
-Juan Jose Angelillo,Argentina,1987,Hooker,26,19,7,0,17,4,NA,Austria
+Juan Jose Angelillo,Argentina,1987,Hooker,26,19,7,0,17,4,NA,
 Javier Caminotti,Argentina,1987,Centre,3,3,0,0,4,1,,
-Roberto Cobelo,Argentina,1987,Lock,3,3,0,0,0,0,NA,Perú
+Roberto Cobelo,Argentina,1987,Lock,3,3,0,0,0,0,NA,
 Julio Coria,Argentina,1987,Prop,4,4,0,0,4,1,,
 Pablo Franchi,Argentina,1987,Flanker,3,3,0,0,8,2,,
 Mario Gerosa,Argentina,1987,Wing,9,5,4,0,36,8,Rosario,Argentina
-Cristian Mendy,Argentina,1987,Wing,17,10,6,1,28,7,NA,Danmark
+Cristian Mendy,Argentina,1987,Wing,17,10,6,1,28,7,NA,
 Mario Carreras,Argentina,1987,Flanker,8,2,6,0,8,2,Buenos Aires,Argentina
-Julio Clement,Argentina,1987,Hooker,2,2,0,0,0,0,NA,Perú
+Julio Clement,Argentina,1987,Hooker,2,2,0,0,0,0,NA,
 Dardo Gonzalez,Argentina,1987,Prop,3,1,2,0,0,0,,
 Santiago Meson,Argentina,1987,Fullback,34,23,11,0,365,8,San Miguel de Tucuma,Argentina
-Hernan Vidou,Argentina,1987,Fly-half,6,3,3,0,48,1,NA,Danmark
+Hernan Vidou,Argentina,1987,Fly-half,6,3,3,0,48,1,NA,
 Gabriel Teran Nougues,Argentina,1988,Wing,1,0,1,0,0,0,,
 Fernando Conti,Argentina,1988,Flanker,1,0,1,0,0,0,,
-Federico Silvestre,Argentina,1988,Scrum-half,7,5,2,0,8,2,NA,Perú
-Miguel Bertranou,Argentina,1989,No. 8,15,6,9,0,8,2,NA,Danmark
-Marcelo Valesani,Argentina,1989,Lock,10,6,4,0,0,0,NA,Perú
-Juan Soler Valls,Argentina,1989,Fullback,4,4,0,0,20,5,NA,Perú
+Federico Silvestre,Argentina,1988,Scrum-half,7,5,2,0,8,2,NA,
+Miguel Bertranou,Argentina,1989,No. 8,15,6,9,0,8,2,NA,
+Marcelo Valesani,Argentina,1989,Lock,10,6,4,0,0,0,NA,
+Juan Soler Valls,Argentina,1989,Fullback,4,4,0,0,20,5,NA,
 Pablo Buabse,Argentina,1989,"Lock, Flanker",7,4,3,0,0,0,San Miguel de Tucuma,Argentina
-Pablo di Nisio,Argentina,1989,Flanker,3,1,2,0,0,0,NA,Perú
-Marcelo Righentini,Argentina,1989,Wing,1,0,1,0,0,0,NA,Perú
+Pablo di Nisio,Argentina,1989,Flanker,3,1,2,0,0,0,NA,
+Marcelo Righentini,Argentina,1989,Wing,1,0,1,0,0,0,NA,
 Pablo Camerlinckx,Argentina,1989,No. 8,32,17,14,1,36,8,Buenos Aires,Argentina
 Diego Halle,Argentina,1989,Fly-half,5,5,0,0,4,1,,
 Gustavo Jorge,Argentina,1989,Wing,23,17,6,0,111,24,Lomas de Zamora,Argentina
 Federico Schacht,Argentina,1989,Wing,6,5,1,0,36,9,,
-Jose Simes,Argentina,1989,Lock,12,9,3,0,0,0,NA,Danmark
+Jose Simes,Argentina,1989,Lock,12,9,3,0,0,0,NA,
 Juan Coppola,Argentina,1989,Centre,2,2,0,0,12,3,,
 Diego Dominguez,Argentina,1989,Fly-half,76,29,46,1,1010,9,Cordoba,Argentina
 Hector Lacarra,Argentina,1989,Prop,2,2,0,0,0,0,,
-Sergio Bunader,Argentina,1989,No. 8,2,1,1,0,12,3,NA,Sverige
-Adrian Rocca,Argentina,1989,Prop,7,4,3,0,4,1,NA,Sverige
+Sergio Bunader,Argentina,1989,No. 8,2,1,1,0,12,3,NA,
+Adrian Rocca,Argentina,1989,Prop,7,4,3,0,4,1,NA,
 Javier Grondona,Argentina,1990,Lock,1,0,1,0,0,0,,
 Ricardo Zanero,Argentina,1990,Wing,1,0,1,0,0,0,,
 Matias Allen,Argentina,1990,Centre,5,1,4,0,0,0,Buenos Aires,Argentina
-Pablo Garzon,Argentina,1990,Fullback,3,2,1,0,12,3,NA,Perú
+Pablo Garzon,Argentina,1990,Fullback,3,2,1,0,12,3,NA,
 Manuel Aguirre,Argentina,1990,Prop,3,1,2,0,0,0,Buenos Aires,Argentina
-Rodrigo Crexell,Argentina,1990,Scrum-half,14,8,6,0,32,5,NA,Nederland
+Rodrigo Crexell,Argentina,1990,Scrum-half,14,8,6,0,32,5,NA,
 Santiago Ezcurra,Argentina,1990,Wing,2,0,2,0,0,0,,
 Hernan Garcia Simon,Argentina,1990,Centre,7,0,7,0,4,1,Buenos Aires,Argentina
 Ricardo le Fort,Argentina,1990,Hooker,16,8,8,0,5,1,San Miguel de Tucuma,Argentina
 German Llanes,Argentina,1990,Lock,42,13,28,1,5,1,"Canada Seca, Buenos Aires",Argentina
-Agustin Macome,Argentina,1990,Flanker,4,2,2,0,4,1,NA,Danmark
+Agustin Macome,Argentina,1990,Flanker,4,2,2,0,4,1,NA,
 Federico Mendez Azpillaga,Argentina,1990,"Prop, Hooker",73,33,40,0,70,14,Mendoza,Argentina
 Pedro Sporleder,Argentina,1990,Lock,78,41,36,1,70,14,Buenos Aires,Argentina
 Lisandro Arbizu,Argentina,1990,Fly-half,86,41,44,1,188,17,Buenos Aires,Argentina
@@ -7559,7 +7559,7 @@ Federico Jose Mendez,Argentina,1991,Fly-half,6,6,0,0,63,1,,
 Julio Jose Paz,Argentina,1991,Hooker,3,3,0,0,0,0,,
 Franco Rossi,Argentina,1991,No. 8,4,3,1,0,12,3,Rosario,Argentina
 Guillermo Ugartemendia,Argentina,1991,"Lock, No. 8",13,8,5,0,5,1,Buenos Aires,Argentina
-Marcelo Urbano,Argentina,1991,Prop,7,6,1,0,0,0,NA,Danmark
+Marcelo Urbano,Argentina,1991,Prop,7,6,1,0,0,0,NA,
 Ariel Mammana,Argentina,1991,Hooker,3,3,0,0,0,0,,
 Eduardo Pittinari,Argentina,1991,Lock,3,3,0,0,4,1,,
 Patricio Noriega,Argentina,1991,Prop,49,32,17,0,10,2,Buenos Aires,Argentina
@@ -7572,11 +7572,11 @@ Raul Perez,Argentina,1992,Flanker,21,14,7,0,5,1,Buenos Aires,Argentina
 Normando Ferrari,Argentina,1992,"No. 8, Lock",2,2,0,0,0,0,,
 Eduardo Garbarino,Argentina,1992,Hooker,2,2,0,0,0,0,,
 Matias Roby,Argentina,1992,Wing,2,2,0,0,5,1,,
-Leandro Bouza,Argentina,1992,Wing,1,1,0,0,0,0,NA,Россия
-Gonzalo Garcia Orsetti,Argentina,1992,Flanker,2,2,0,0,0,0,NA,Россия
+Leandro Bouza,Argentina,1992,Wing,1,1,0,0,0,0,NA,
+Gonzalo Garcia Orsetti,Argentina,1992,Flanker,2,2,0,0,0,0,NA,
 Pablo Cremaschi,Argentina,1993,Centre,6,6,0,0,40,3,,
 Roberto Grau,Argentina,1993,Prop,47,19,28,0,10,2,Buenos Aires,Argentina
-Sebastian Irazoqui,Argentina,1993,No. 8,8,6,2,0,5,1,NA,Nederland
+Sebastian Irazoqui,Argentina,1993,No. 8,8,6,2,0,5,1,NA,
 Diego Silvetti,Argentina,1993,Hooker,1,1,0,0,5,1,,
 Martin Grau,Argentina,1993,NA,1,1,0,0,0,0,,
 Matias Corral,Argentina,1993,Prop,17,8,9,0,5,1,Buenos Aires,Argentina
@@ -7590,7 +7590,7 @@ Pablo Fernandez Bravo,Argentina,1993,Flanker,2,0,2,0,0,0,,
 Nicolas Fernandez Miranda,Argentina,1994,Scrum-half,46,33,13,0,30,6,Buenos Aires,Argentina
 Rolando Martin,Argentina,1994,Flanker,86,44,41,1,90,18,Maryland,USA
 Martin Pfister,Argentina,1994,Wing,6,2,4,0,10,2,,
-Francisco Garcia,Argentina,1994,Centre,13,5,8,0,10,2,NA,Danmark
+Francisco Garcia,Argentina,1994,Centre,13,5,8,0,10,2,NA,
 Jose Cilley,Argentina,1994,Fly-half,15,6,9,0,138,2,Buenos Aires,Argentina
 Diego Albanese,Argentina,1995,Wing,55,24,30,1,50,10,Mar del Plata,Argentina
 Nicolas Bossicovich,Argentina,1995,Lock,2,2,0,0,0,0,Rosario,Argentina
@@ -7599,9 +7599,9 @@ Martin Lerga,Argentina,1995,Lock,5,4,1,0,0,0,,
 Fernando del Castillo,Argentina,1995,Centre,6,5,1,0,0,0,Rosario,Argentina
 Agustin Pichot,Argentina,1995,Scrum-half,71,34,36,1,60,12,Buenos Aires,Argentina
 Ezequiel Jurado,Argentina,1995,Fullback,28,11,16,1,30,6,Rosario,Argentina
-Jose Luna,Argentina,1995,Wing,8,7,1,0,129,4,NA,Россия
+Jose Luna,Argentina,1995,Wing,8,7,1,0,129,4,NA,
 Omar Portillo,Argentina,1995,Lock,4,4,0,0,5,1,,
-Martin Sugasti,Argentina,1995,Flanker,2,2,0,0,5,1,NA,Danmark
+Martin Sugasti,Argentina,1995,Flanker,2,2,0,0,5,1,NA,
 Roberto Petti,Argentina,1995,Lock,2,2,0,0,0,0,,
 Pablo Bouza,Argentina,1996,Lock,37,27,10,0,50,10,Rosario,Argentina
 Carlos Promanzio,Argentina,1996,Hooker,10,4,6,0,5,1,NA,Argentina
@@ -7705,7 +7705,7 @@ Juan Martin Hernandez,Argentina,2003,Fullback,58,29,29,0,149,7,Buenos Aires,Arge
 Francisco Lecot,Argentina,2003,Prop,4,4,0,0,0,0,Catamarca,Argentina
 Leonardo Ortiz,Argentina,2003,Hooker,3,3,0,0,0,0,,
 Martin Schusterman,Argentina,2003,Flanker,17,13,4,0,5,1,San Juan,Argentina
-Martin Rospide,Argentina,2003,Prop,3,3,0,0,0,0,NA,România
+Martin Rospide,Argentina,2003,Prop,3,3,0,0,0,0,NA,
 Federico Cortopasso,Argentina,2003,Hooker,2,2,0,0,0,0,NA,Argentina
 Julio Freixas,Argentina,2003,Centre,2,2,0,0,5,1,NA,Argentina
 Federico Serra Miras,Argentina,2003,Fullback,10,8,2,0,26,2,Buenos Aires,Argentina
@@ -7731,14 +7731,14 @@ Alberto Vernet Basualdo,Argentina,2004,Hooker,12,9,3,0,0,0,Buenos Aires,Argentin
 Miguel Avramovic,Argentina,2005,Centre,11,6,5,0,20,4,Buenos Aires,Argentina
 Juan Manuel Leguizamon,Argentina,2005,Back-row,65,27,38,0,50,10,Santiago del Estero,Argentina
 Agustin Creevy,Argentina,2005,Hooker,46,16,30,0,10,2,La Plata,Argentina
-Jaime Arocena Mesones,Argentina,2005,Lock,3,2,1,0,0,0,NA,Svizra
-Facundo Barni,Argentina,2005,Back-row,1,1,0,0,5,1,NA,Sverige
+Jaime Arocena Mesones,Argentina,2005,Lock,3,2,1,0,0,0,NA,
+Facundo Barni,Argentina,2005,Back-row,1,1,0,0,5,1,NA,
 Javier Belloto,Argentina,2005,Back-row,2,2,0,0,0,0,,
 Agustin Costa Repetto,Argentina,2005,"Hooker, Prop",3,2,1,0,10,2,Buenos Aires,Argentina
-Bruno Fabricio Cuezzo,Argentina,2005,No. 8,3,3,0,0,0,0,NA,Россия
+Bruno Fabricio Cuezzo,Argentina,2005,No. 8,3,3,0,0,0,0,NA,
 Tomas de Vedia,Argentina,2005,Wing,4,4,0,0,5,1,Buenos Aires,Argentina
-Gaston Graco,Argentina,2005,Fly-half,2,2,0,0,13,1,NA,Sverige
-Javier Irazusta,Argentina,2005,Centre,2,2,0,0,0,0,NA,Sverige
+Gaston Graco,Argentina,2005,Fly-half,2,2,0,0,13,1,NA,
+Javier Irazusta,Argentina,2005,Centre,2,2,0,0,0,0,NA,
 Roman Miralles,Argentina,2005,Fullback,7,7,0,0,15,3,Rosario,Argentina
 Horacio San Martin,Argentina,2005,Centre,4,3,1,0,0,0,Formosa,Brasil
 Nicolas Vergallo,Argentina,2005,Scrum-half,35,15,19,1,0,0,Rosario,Argentina
@@ -7748,7 +7748,7 @@ Nicolas Carizza,Argentina,2005,Lock,2,2,0,0,0,0,,
 Jose Ignacio Correa,Argentina,2005,NA,1,1,0,0,2,0,,
 Gaston de Robertis,Argentina,2005,Prop,6,5,1,0,0,0,Buenos Aires,Argentina
 Genaro Fessia,Argentina,2005,Back-row,14,10,4,0,15,3,Cordoba,Argentina
-Facundo Borelli,Argentina,2005,Hooker,1,1,0,0,0,0,NA,Sverige
+Facundo Borelli,Argentina,2005,Hooker,1,1,0,0,0,0,NA,
 Conrado Lopez Alonso,Argentina,2005,NA,1,1,0,0,0,0,,
 Horacio Agulla,Argentina,2005,Wing,63,25,37,1,30,6,Buenos Aires,Argentina
 Matias Cortese,Argentina,2005,Hooker,15,7,8,0,5,1,Mendoza,Argentina
@@ -7799,7 +7799,7 @@ Lucio Cesani,Italy,1929,Wing,4,2,2,0,0,0,,
 Domenico Dondana,Italy,1929,Fullback,2,1,1,0,0,0,,
 Giovanni Dora,Italy,1929,Centre,1,0,1,0,0,0,,
 Alberto Modonesi,Italy,1929,Scrum-half,1,0,1,0,0,0,,
-Piero Paselli,Italy,1929,Flanker,3,2,1,0,0,0,NA,Perú
+Piero Paselli,Italy,1929,Flanker,3,2,1,0,0,0,NA,
 Carlo Raffo,Italy,1929,Prop,6,4,1,1,0,0,,
 Paolo Vinci II,Italy,1929,Centre,3,2,1,0,3,1,"New York, NY, United States",USA
 Francesco Vinci III,Italy,1929,Centre,15,7,6,2,20,4,"New York, NY, United States",USA
@@ -7807,32 +7807,32 @@ Pietro Vinci IV,Italy,1929,Centre,13,7,5,1,0,0,Briey,France
 Amando Nisti,Italy,1929,Prop,2,1,1,0,0,0,Roma,Italy
 Giovanni Paolin,Italy,1929,NA,1,0,1,0,0,0,,
 Eugenio Vinci I,Italy,1929,NA,1,0,1,0,0,0,"Santo Domingo, Dominican",Philippines
-Giuseppe Bigi,Italy,1930,Scrum-half,2,2,0,0,0,0,NA,Perú
-Alberto di Bello,Italy,1930,Hooker,4,3,0,1,0,0,NA,Perú
+Giuseppe Bigi,Italy,1930,Scrum-half,2,2,0,0,0,0,NA,
+Alberto di Bello,Italy,1930,Hooker,4,3,0,1,0,0,NA,
 Angelo Morimondi,Italy,1930,Fullback,4,3,0,1,0,0,Milano,Italy
 Ernesto Nathan,Italy,1930,Centre,1,1,0,0,0,0,,
-Giuseppe Sessa,Italy,1930,Lock,1,1,0,0,0,0,NA,Svizra
+Giuseppe Sessa,Italy,1930,Lock,1,1,0,0,0,0,NA,
 Amerigo Centinari,Italy,1930,NA,1,1,0,0,0,0,,
-Leandro Tagliabue,Italy,1930,Prop,7,4,2,1,0,0,NA,Perú
+Leandro Tagliabue,Italy,1930,Prop,7,4,2,1,0,0,NA,
 Ivan Aloisio,Italy,1933,No. 8,7,5,1,1,7,1,Genova,Italy
 Aurelio Cazzini,Italy,1933,Wing,15,9,4,2,12,4,"Gaggiano, MI",USA
 Felice Colombo,Italy,1933,Lock,1,1,0,0,0,0,Milano,Italy
-Alberto Crespi,Italy,1933,Lock,6,4,1,1,0,0,NA,Perú
-Giuseppe Gattoni,Italy,1933,Centre,2,2,0,0,0,0,NA,Perú
+Alberto Crespi,Italy,1933,Lock,6,4,1,1,0,0,NA,
+Giuseppe Gattoni,Italy,1933,Centre,2,2,0,0,0,0,NA,
 Renzo Maffioli,Italy,1933,Centre,11,7,2,2,10,2,Milano,Italy
 Umberto Moretti,Italy,1933,Scrum-half,7,5,1,1,0,0,Milano,Italy
 Ferdinando Tozzi,Italy,1933,NA,1,1,0,0,0,0,Napoli,Italy
 Fernando Trebbi,Italy,1933,Fullback,2,2,0,0,0,0,Bologna,Italy
-Riccardo Aymonod,Italy,1933,Fly-half,4,2,1,1,6,2,NA,Perú
+Riccardo Aymonod,Italy,1933,Fly-half,4,2,1,1,6,2,NA,
 Giogio Bortolini,Italy,1933,Prop,2,1,0,1,0,0,"Budrio, BO",Bolivia
 Mario Campagna,Italy,1933,Scrum-half,8,3,3,2,3,1,Milano,Italy
 Arrigo Marescalchi,Italy,1933,No. 8,3,1,1,1,3,1,,
 Eraldo Sgorbati,Italy,1933,Flanker,12,5,6,1,0,0,Novi Piemonte,Italy
 Ariosto Agosti,Italy,1933,NA,1,1,0,0,0,0,"Stradella, PV",Italy
-Luigi Brighetti,Italy,1934,Flanker,1,0,0,1,0,0,NA,Perú
+Luigi Brighetti,Italy,1934,Flanker,1,0,0,1,0,0,NA,
 Gastone de Angelis,Italy,1934,Lock,5,2,1,2,0,0,Lecce,Italy
 Angelo Albonico,Italy,1934,Lock,10,4,5,1,0,0,Turin,Italy
-Giuseppe Piana,Italy,1934,Fly-half,6,3,3,0,0,0,NA,Perú
+Giuseppe Piana,Italy,1934,Fly-half,6,3,3,0,0,0,NA,
 Giancarlo Zani,Italy,1934,Hooker,1,1,0,0,0,0,Milano,Italy
 Orlando Maestri,Italy,1935,Prop,3,1,2,0,0,0,,
 Giuseppe Visentin,Italy,1935,Flanker,9,4,5,0,18,4,Padova,Italy
@@ -7880,7 +7880,7 @@ Francesco Battaglini,Italy,1948,Flanker,1,0,1,0,0,0,Rovigo,Italy
 Vittorio Borsetto,Italy,1948,Prop,2,1,1,0,0,0,"date unknown, Canale di Villadose,",
 Carlo de Vecchi,Italy,1948,No. 8,1,0,1,0,0,0,Milano,Italy
 Umberto Faccioli,Italy,1948,Fly-half,1,0,1,0,0,0,,
-Enrico Fava,Italy,1948,Centre,2,1,1,0,5,0,NA,Perú
+Enrico Fava,Italy,1948,Centre,2,1,1,0,5,0,NA,
 Renzo Maini,Italy,1948,Flanker,2,1,1,0,0,0,"Sorbolo, PR",Italy
 Italo Mattacchini,Italy,1948,Hooker,9,4,5,0,0,0,Nereto,Italy
 Giuseppe Molinari,Italy,1948,Prop,1,0,1,0,0,0,,
@@ -7928,15 +7928,15 @@ Mario Percudani,Italy,1952,No. 8,9,5,4,0,9,3,Parma,Italy
 Giancarlo Malosti,Italy,1953,Flanker,7,2,5,0,3,1,Rovigo,Italy
 Nando Barbini,Italy,1953,Fullback,13,10,3,0,19,2,Milano,Italy
 Romano Bettarello,Italy,1953,Centre,2,2,0,0,0,0,"Villadose, RO",Italy
-Gianfranco Zanchi,Italy,1953,No. 8,5,5,0,0,0,0,NA,Norge
+Gianfranco Zanchi,Italy,1953,No. 8,5,5,0,0,0,0,NA,
 Italo Scodavolpe,Italy,1954,Lock,1,1,0,0,0,0,Pescara,Italy
 Remo Zanatta,Italy,1954,Centre,2,1,1,0,0,0,Treviso,Italy
 Sergio Silvestri,Italy,1954,Wing,1,0,1,0,0,0,Roma,Italy
 Andrea Taveggia,Italy,1954,Prop,16,8,8,0,11,1,Milano,Italy
 Alberto Comin,Italy,1955,Centre,8,4,4,0,9,0,Padova,Italy
-Antonio Danieli,Italy,1955,Prop,5,3,2,0,0,0,NA,Norge
+Antonio Danieli,Italy,1955,Prop,5,3,2,0,0,0,NA,
 Ciano Luise I,Italy,1955,Wing,10,6,4,0,3,1,Padova,Italy
-Aldo Mioni,Italy,1955,Fly-half,4,1,3,0,0,0,"Tagliacozzo, AQ",Antarctica
+Aldo Mioni,Italy,1955,Fly-half,4,1,3,0,0,0,"Tagliacozzo, AQ",Italy
 Gianni Riccardi,Italy,1955,Lock,7,4,3,0,0,0,"Castegnato, BS",The Bahamas
 Matteo Silini,Italy,1955,Lock,8,5,3,0,0,0,Fidenza,Italy
 Ivano Ponchia,Italy,1955,Wing,7,3,4,0,0,0,Padova,Italy
@@ -7965,7 +7965,7 @@ Ottorino Bettarello,Italy,1958,Scrum-half,3,1,2,0,0,0,Rovigo,Italy
 Enzo Bellinazzo,Italy,1958,Wing,14,6,7,1,3,1,"Lendinara, RO",Italy
 Gastone Biadene,Italy,1958,Centre,2,1,1,0,0,0,,
 Massimo Braga,Italy,1958,Scrum-half,1,1,0,0,0,0,Brescia,Italy
-Antonio di Zitti,Italy,1958,Flanker,22,12,9,1,25,0,"Rocca di Mezzo, AQ",Antarctica
+Antonio di Zitti,Italy,1958,Flanker,22,12,9,1,25,0,"Rocca di Mezzo, AQ",Italy
 Paolo Quintavalla,Italy,1958,Lock,1,1,0,0,0,0,Parma,Italy
 Pietro Sguario,Italy,1958,Wing,6,3,3,0,3,1,Abbazia Fiume,Hrvatska
 Lucio Avigo,Italy,1959,Hooker,11,4,6,1,0,0,Brescia,Italy
@@ -7977,7 +7977,7 @@ Gian Maria del Bono,Italy,1960,Wing,10,4,6,0,3,1,Brescia,Italy
 Elio Fusco,Italy,1960,Scrum-half,11,3,8,0,6,2,Napoli,Italy
 Basilio Rovelli,Italy,1960,Hooker,4,2,2,0,0,0,"Cusio, BG",Bulgaria
 Franco Zani,Italy,1960,Lock,11,3,7,1,0,0,"Iseo, BS",The Bahamas
-Angelo Autore,Italy,1961,Fullback,12,8,3,1,13,1,"Rocca di Cambio, AQ",Antarctica
+Angelo Autore,Italy,1961,Fullback,12,8,3,1,13,1,"Rocca di Cambio, AQ",Italy
 Erasmo Augeri,Italy,1962,Fly-half,4,1,3,0,3,1,Napoli,Italy
 Giorgio Troncon,Italy,1962,Centre,12,5,6,1,3,1,Padova,Italy
 Vittorio Ambron,Italy,1962,Wing,24,13,9,2,42,10,Benevento,Italy
@@ -8095,11 +8095,11 @@ Bernadino di Cola,Italy,1973,Centre,1,0,1,0,0,0,Acciano.AQ,Italy
 Antonio Tassin,Italy,1973,Flanker,1,0,1,0,0,0,"Lendinara, RO",Italy
 Mauro Zingarelli,Italy,1973,Hooker,1,0,1,0,0,0,Giulianova,Italy
 Giancarlo Cucchiella,Italy,1973,Prop,22,9,12,1,4,1,L'Aquila,Italy
-Pasquale Presutti,Italy,1974,Prop,8,2,5,1,0,0,"Trasacco, AQ",Antarctica
+Pasquale Presutti,Italy,1974,Prop,8,2,5,1,0,0,"Trasacco, AQ",Italy
 Edoardo Scalzotto,Italy,1974,Centre,3,0,3,0,4,1,Padova,Italy
 Evelino Aio,Italy,1974,Scrum-half,1,1,0,0,4,1,L'Aquila,Italy
 Fiorenzo Blessano,Italy,1975,Centre,21,10,9,2,16,4,"Montebelluna, TV",Italy
-Fulvio di Carlo,Italy,1975,Prop,13,7,5,1,4,1,"Roio, AQ",Antarctica
+Fulvio di Carlo,Italy,1975,Prop,13,7,5,1,4,1,"Roio, AQ",Italy
 Paolo Ferracin,Italy,1975,Hooker,10,5,4,1,0,0,"Lendinara, RO",Italy
 Pierluigi Camiscioni,Italy,1975,Lock,7,3,4,0,0,0,San Benedetto Tronto,Italy
 Antonio Falancia,Italy,1975,Scrum-half,2,1,1,0,0,0,L'Aquila,Italy
@@ -8296,7 +8296,7 @@ Laurent Travini,Italy,1999,Lock,5,2,3,0,0,0,Gap,France
 Sandro Ceppolino,Italy,1999,Centre,5,2,3,0,5,1,Villa Ballester,Argentina
 Andrea de Rossi,Italy,1999,No. 8,34,11,23,0,10,2,Genova,Italy
 Andrea Scanavacca,Italy,1999,Fly-half,11,6,5,0,49,2,Rovigo,Italy
-Luciano Cornella,Italy,1999,No. 8,1,1,0,0,0,0,NA,Svizra
+Luciano Cornella,Italy,1999,No. 8,1,1,0,0,0,0,NA,
 Andrea Masi,Italy,1999,Centre,95,23,72,0,65,13,L'Aquila,Italy
 Federico Pucciariello,Italy,1999,Prop,8,1,7,0,5,1,Rosario,Argentina
 Nicolas Zisti,Italy,1999,Centre,4,0,4,0,0,0,"Sydney, NSW",Australia
@@ -8405,7 +8405,7 @@ P. Swepson,Samoa,1957,NA,1,0,0,1,0,0,,
 F. Tuatagaloa,Samoa,1957,NA,1,0,0,1,0,0,,
 M. Vili,Samoa,1957,NA,1,0,0,1,0,0,,
 Faleata Asi,Samoa,1963,Flanker,2,0,2,0,0,0,,
-Fautai Fa'asiu,Samoa,1963,Wing,1,0,1,0,0,0,NA,Svizra
+Fautai Fa'asiu,Samoa,1963,Wing,1,0,1,0,0,0,NA,
 Salele Feagai,Samoa,1963,Prop,2,0,2,0,0,0,,
 Hans Kruse,Samoa,1963,Hooker,2,0,2,0,0,0,,
 A. Liaina,Samoa,1963,Wing,1,0,1,0,0,0,,
@@ -8479,12 +8479,12 @@ Tufua Se'umanutafa,Samoa,1981,Wing,1,0,1,0,0,0,,
 Pio Sioa,Samoa,1981,Lock,2,0,2,0,0,0,,
 Dickie Tafua,Samoa,1981,Prop,18,8,9,1,4,1,,
 Ieti Solipo,Samoa,1981,Flanker,1,0,1,0,0,0,,
-Va'a Tasi,Samoa,1981,Wing,9,4,4,1,4,1,NA,Sverige
+Va'a Tasi,Samoa,1981,Wing,9,4,4,1,4,1,NA,
 Jack Huch,Samoa,1982,Wing,4,0,3,1,0,0,,
 Maafala Lima,Samoa,1982,Flanker,2,0,1,1,0,0,,
 Fa'aniniva Ropati,Samoa,1982,Fullback,5,2,2,1,3,0,,
 Fa'afetai Sua,Samoa,1982,Hooker,13,4,8,1,4,1,,
-Sepe Tupuola,Samoa,1982,Flanker,13,5,7,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Sepe Tupuola,Samoa,1982,Flanker,13,5,7,1,0,0,NA,
 Sanele Skelton,Samoa,1982,Replacement,1,0,0,1,0,0,,
 S. Lameta,Samoa,1982,Replacement,1,0,1,0,0,0,,
 Pati Maligi,Samoa,1982,Flanker,11,6,5,0,4,1,,
@@ -8518,13 +8518,13 @@ Tele'a Aialupo,Samoa,1986,Fullback,1,0,1,0,6,0,,
 P. Alalatoa,Samoa,1986,Lock,1,0,1,0,0,0,,
 Michael Jones,Samoa,1986,Flanker,56,43,11,2,56,13,Auckland,NewZealand
 Ma'atusi Krause,Samoa,1986,Flanker,1,0,1,0,0,0,,
-Malaefatu Patolo,Samoa,1986,Hooker,3,0,3,0,0,0,NA,Sverige
+Malaefatu Patolo,Samoa,1986,Hooker,3,0,3,0,0,0,NA,
 To'o Vaega,Samoa,1986,Centre,61,35,25,1,71,12,"Moto'otua, Western Samoa",Samoa
 Palemia Alalafoa,Samoa,1986,Lock,1,0,1,0,0,0,,
 Alani Fata,Samoa,1986,Flanker,1,0,1,0,0,0,,
 Faalelei Feimanatufa,Samoa,1986,Flanker,1,0,1,0,0,0,,
 Keneti Taylor,Samoa,1986,Wing,1,0,1,0,0,0,,
-John Ah Kuoi,Samoa,1987,Centre,6,3,3,0,11,2,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+John Ah Kuoi,Samoa,1987,Centre,6,3,3,0,11,2,NA,
 Vaivase Fa'asua,Samoa,1987,Flanker,4,1,2,1,4,1,,
 Ekeroma Lauaiufi,Samoa,1987,Lock,15,5,9,1,4,1,Western Samoa,Samoa
 Afa Leu'u,Samoa,1987,Prop,10,7,3,0,4,1,Auckland,NewZealand
@@ -8543,7 +8543,7 @@ Suliveta Uati,Samoa,1988,Scrum-half,2,1,0,1,0,0,,
 Tauvere Ugapo,Samoa,1988,Wing,7,4,2,1,0,0,,
 Lafaele Mano,Samoa,1988,Flanker,3,0,2,1,4,1,,
 Taumaloto Tofilau,Samoa,1988,No. 8,1,0,0,1,0,0,,
-Vili Alalatoa,Samoa,1988,Prop,10,6,4,0,0,0,NA,Sverige
+Vili Alalatoa,Samoa,1988,Prop,10,6,4,0,0,0,NA,
 Peter Fatialofa,Samoa,1988,Prop,34,18,15,1,14,3,"Apia, Western Samoa",Samoa
 Saini Lemamea,Samoa,1988,Lock,13,7,6,0,4,1,"Apia, Western Samoa",Samoa
 Daryl Williams,Samoa,1988,Lock,5,1,4,0,0,0,Auckland,NewZealand
@@ -8561,7 +8561,7 @@ F. Taiomaivao,Samoa,1989,NA,1,1,0,0,0,0,,
 S. Telea,Samoa,1989,NA,1,1,0,0,0,0,,
 Sila Vaifale,Samoa,1989,Flanker,28,18,9,1,16,4,"Lepea, Western Samoa",Samoa
 S.P. Ching,Samoa,1990,Lock,3,3,0,0,0,0,,
-Danny Kaleopa,Samoa,1990,Flanker,7,6,1,0,12,3,NA,Danmark
+Danny Kaleopa,Samoa,1990,Flanker,7,6,1,0,12,3,NA,
 Milovale Moke,Samoa,1990,Scrum-half,5,5,0,0,0,0,,
 Timo Tagaloa,Samoa,1990,Wing,9,7,2,0,24,6,Auckland,NewZealand
 David Sio,Samoa,1990,Prop,2,2,0,0,0,0,"Apia, Western Samoa",Samoa
@@ -8582,46 +8582,46 @@ Frank Bunce,Samoa,1991,Centre,59,44,13,2,100,21,Auckland,NewZealand
 Mat Keenan,Samoa,1991,Lock,10,6,4,0,0,0,"Rarotonsa, Western Samoa",Fiji
 Pat Lam,Samoa,1991,No. 8,34,15,17,2,25,5,Auckland,NewZealand
 Alama Ieremia,Samoa,1992,Five-eighth,35,27,7,1,25,5,"Apia, Western Samoa",Samoa
-Kose Seinafo,Samoa,1992,"Wing, Centre",1,1,0,0,0,0,NA,Austria
+Kose Seinafo,Samoa,1992,"Wing, Centre",1,1,0,0,0,0,NA,
 Freddie Tuilagi,Samoa,1992,"Centre, Wing",17,8,9,0,10,2,"Apia, Western Samoa",Samoa
 Junior Tonu'u,Samoa,1992,Scrum-half,9,7,2,0,5,1,Wellington,NewZealand
 Darren Kellett,Samoa,1993,Fly-half,13,7,5,1,137,2,Auckland,NewZealand
 Potu Leavasa,Samoa,1993,Lock,17,11,5,1,0,0,"Apia, Western Samoa",Samoa
-Tala Leiasamaiva'o,Samoa,1993,Hooker,18,9,8,1,5,1,NA,Danmark
+Tala Leiasamaiva'o,Samoa,1993,Hooker,18,9,8,1,5,1,NA,
 Palamia Lilomaiava,Samoa,1993,Prop,1,0,1,0,0,0,,
 George Latu,Samoa,1994,Prop,10,4,6,0,0,0,"Apia, Western Samoa",Samoa
 Tu Nu'uali'itia,Samoa,1994,Scrum-half,8,3,5,0,5,1,Auckland,NewZealand
-Sam Kaleta,Samoa,1992,Flanker,11,5,5,1,5,1,NA,Danmark
-Rudolf Moors,Samoa,1994,Scrum-half,1,1,0,0,0,0,NA,Nederland
-Toa Samania,Samoa,1994,Fullback,9,6,3,0,28,2,NA,Danmark
+Sam Kaleta,Samoa,1992,Flanker,11,5,5,1,5,1,NA,
+Rudolf Moors,Samoa,1994,Scrum-half,1,1,0,0,0,0,NA,
+Toa Samania,Samoa,1994,Fullback,9,6,3,0,28,2,NA,
 Vaa Vitale,Samoa,1994,Scrum-half,5,2,3,0,0,0,"Apia, Western Samoa",Samoa
 Dylan Mika,Samoa,1994,Back-row,9,6,3,0,5,1,Auckland,NewZealand
 George Harder,Samoa,1995,Wing,4,2,2,0,15,3,"Moto'otua, Western Samoa",Samoa
 George Leaupepe,Samoa,1995,Wing,26,12,12,2,50,10,"Apia, Western Samoa",Samoa
 Mike Mika,Samoa,1995,Prop,15,6,7,2,0,0,Lower Hutt,NewZealand
-Esera Puleitu,Samoa,1995,Fly-half,2,0,2,0,0,0,NA,Austria
+Esera Puleitu,Samoa,1995,Fly-half,2,0,2,0,0,0,NA,
 Mike Umaga,Samoa,1995,Centre,13,5,7,1,13,2,Auckland,NewZealand
-Fata Sini,Samoa,1995,Fly-half,4,1,3,0,10,2,NA,Danmark
+Fata Sini,Samoa,1995,Fly-half,4,1,3,0,10,2,NA,
 Brendan Reidy,Samoa,1995,Prop,18,7,10,1,0,0,Wellington,NewZealand
-Joe Filemu,Samoa,1995,Scrum-half,22,13,7,2,5,1,NA,Austria
-Veli Patu,Samoa,1995,Fullback,5,1,3,1,13,2,NA,Danmark
+Joe Filemu,Samoa,1995,Scrum-half,22,13,7,2,5,1,NA,
+Veli Patu,Samoa,1995,Fullback,5,1,3,1,13,2,NA,
 Alex Telea,Samoa,1995,Wing,5,1,3,1,15,3,Lower Hutt,NewZealand
-Stephen Smith,Samoa,1995,Lock,8,2,4,2,0,0,NA,Danmark
+Stephen Smith,Samoa,1995,Lock,8,2,4,2,0,0,NA,
 Terry Fanolua,Samoa,1996,Centre,29,17,12,0,35,7,"Moto'otua, Western Samoa",Samoa
 Sene Ta'ala,Samoa,1996,Flanker,18,11,6,1,0,0,Johnsonville,USA
-Fa'avaivai Tanoa'i,Samoa,1996,Fly-half,2,1,1,0,10,0,NA,Austria
-Onehunga Matauiau Esau,Samoa,1996,Hooker,9,4,5,0,0,0,NA,Austria
-Kaisa Tuigamala,Samoa,1996,Centre,1,0,1,0,0,0,NA,Danmark
+Fa'avaivai Tanoa'i,Samoa,1996,Fly-half,2,1,1,0,10,0,NA,
+Onehunga Matauiau Esau,Samoa,1996,Hooker,9,4,5,0,0,0,NA,
+Kaisa Tuigamala,Samoa,1996,Centre,1,0,1,0,0,0,NA,
 Zak Feau'nati,Samoa,1996,No. 8,14,9,4,1,10,2,Wellington,NewZealand
 Afato So'oalo,Samoa,1996,Wing,20,12,7,1,75,15,"Apia, Western Samoa",Samoa
 Inga Tuigamala,Samoa,1991,"Wing, Centre",41,27,14,0,36,8,"Faleasiu, Western Samoa",Samoa
 Earl Va'a,Samoa,1996,Fly-half,28,15,12,1,174,3,Wellington,NewZealand
-Robbie Ale,Samoa,1997,Prop,6,4,2,0,10,2,NA,Danmark
+Robbie Ale,Samoa,1997,Prop,6,4,2,0,10,2,NA,
 John Clarke,Samoa,1997,Scrum-half,5,4,1,0,10,2,Lower Hutt,NewZealand
 Silao Leaegailesolo,Samoa,1997,Centre,19,10,9,0,145,2,"Apia, Western Samoa",Samoa
 Trevor Leota,Samoa,1997,Hooker,30,15,14,1,5,1,Auckland,NewZealand
-Tupae Pati,Samoa,1997,Fly-half,1,1,0,0,0,0,NA,Austria
-Richard Rasmussen,Samoa,1997,Lock,1,1,0,0,0,0,NA,Svizra
+Tupae Pati,Samoa,1997,Fly-half,1,1,0,0,0,0,NA,
+Richard Rasmussen,Samoa,1997,Lock,1,1,0,0,0,0,NA,
 Kepi Faiva'ai,Samoa,1998,Prop,9,4,4,1,0,0,Wellington,NewZealand
 Fosi Pala'amo,Samoa,1998,Prop,14,7,7,0,5,1,Murupara,NewZealand
 Opeta Palepoi,Samoa,1998,"Flanker, Lock",43,24,19,0,10,2,"Apia, Western Samoa",Samoa
@@ -8633,26 +8633,26 @@ Malua Tipi,Samoa,1998,Lock,7,2,5,0,0,0,,
 Andrew Va'a,Samoa,1998,Hooker,1,0,1,0,0,0,,
 Craig Glendinning,Samoa,1999,No. 8,22,13,8,1,5,1,Otahuhu,NewZealand
 Ali Koko,Samoa,1999,Wing,1,0,1,0,10,2,Pago Pago,USA
-Mepi Faoagali,Samoa,1999,"Centre, Wing",2,1,1,0,0,0,NA,Россия
-Mark Luafalealo,Samoa,1999,Prop,10,6,4,0,0,0,NA,Austria
+Mepi Faoagali,Samoa,1999,"Centre, Wing",2,1,1,0,0,0,NA,
+Mark Luafalealo,Samoa,1999,Prop,10,6,4,0,0,0,NA,
 Semo Sititi,Samoa,1999,Flanker,63,33,30,0,85,17,"Moto'otua, Western Samoa",Samoa
 Tanner Vili,Samoa,1999,Centre,34,16,17,1,99,4,Auckland,NewZealand
-Fa'apulou So'olefai,Samoa,1999,"Wing, Centre",9,4,4,1,0,0,NA,Svizra
+Fa'apulou So'olefai,Samoa,1999,"Wing, Centre",9,4,4,1,0,0,NA,
 John Schuster,Samoa,1988,Centre,13,10,1,2,21,1,"Apia, Western Samoa",Samoa
 Tani Fuga,Samoa,1999,Hooker,13,7,6,0,5,1,"Apia, Western Samoa",Samoa
-Polo Asi,Samoa,1999,Prop,15,8,7,0,0,0,NA,Austria
-Tom Curtis,Samoa,2000,Lock,6,5,1,0,10,2,NA,Danmark
+Polo Asi,Samoa,1999,Prop,15,8,7,0,0,0,NA,
+Tom Curtis,Samoa,2000,Lock,6,5,1,0,10,2,NA,
 Lome Fa'atau,Samoa,2000,Wing,40,19,21,0,75,15,Wellington,NewZealand
 Kas Lealamanu'a,Samoa,2000,Prop,31,14,17,0,5,1,"Wellington, Western Samoa",Samoa
 Elvis Seveali'i,Samoa,2000,Centre,22,11,11,0,45,9,Wellington,NewZealand
-Malaga Leota,Samoa,2000,Prop,2,2,0,0,0,0,NA,Svizra
+Malaga Leota,Samoa,2000,Prop,2,2,0,0,0,0,NA,
 Denning Tyrell,Samoa,2000,Scrum-half,13,8,5,0,0,0,"Moto'otua, Western Samoa",Samoa
 Tim Cowley,Samoa,2000,Flanker,3,3,0,0,0,0,Tokoroa,NewZealand
 Ngapaku Ngapaku,Samoa,2000,Fly-half,3,3,0,0,2,0,Otahuhu,NewZealand
 Iva Motusaga,Samoa,2000,Flanker,3,1,2,0,0,0,Porirua,NewZealand
-S. Fa'asua Taua,Samoa,2000,No. 8,1,0,1,0,0,0,NA,Svizra
+S. Fa'asua Taua,Samoa,2000,No. 8,1,0,1,0,0,0,NA,
 Junior Maligi,Samoa,2000,No. 8,2,0,2,0,0,0,,
-Luke Mealamu,Samoa,2000,No. 8,2,0,2,0,0,0,NA,Svizra
+Luke Mealamu,Samoa,2000,No. 8,2,0,2,0,0,0,NA,
 Sika Poching,Samoa,2000,Lock,3,1,2,0,0,0,,
 Quintan Sanft,Samoa,2000,Fly-half,2,0,2,0,6,0,,
 Alfie To'oala Vaeluaga,Samoa,2000,Back-row,13,6,7,0,0,0,"Faga, Western Samoa",Samoa
@@ -8662,8 +8662,8 @@ Pule Misa,Samoa,2000,NA,2,0,2,0,0,0,,
 Mahonri Schwalger,Samoa,2000,Hooker,42,18,24,0,20,4,"Apia, Western Samoa",Samoa
 Dan Tafeamalii,Samoa,2000,Prop,2,0,2,0,0,0,,
 Aleki Toleafoa,Samoa,2000,Fly-half,4,1,3,0,0,0,"Apia, Western Samoa",Samoa
-Setefano Tone,Samoa,2000,Lock,2,0,2,0,0,0,NA,Austria
-Mussolini Schuster,Samoa,2000,Wing,2,0,2,0,0,0,NA,Sverige
+Setefano Tone,Samoa,2000,Lock,2,0,2,0,0,0,NA,
+Mussolini Schuster,Samoa,2000,Wing,2,0,2,0,0,0,NA,
 Anthony Mika,Samoa,2000,Flanker,1,0,1,0,0,0,Auckland,NewZealand
 Leo Lafaiali'i,Samoa,2001,Lock,27,14,13,0,0,0,Auckland,NewZealand
 Patrick Segi,Samoa,2001,Flanker,11,7,4,0,5,1,Auckland,NewZealand
@@ -8680,41 +8680,41 @@ Carl Manu,Samoa,2002,Centre,4,2,2,0,0,0,Christchurch,NewZealand
 Henry Tuilagi,Samoa,2002,No. 8,10,4,6,0,5,1,"Fatausi-Fogapoa, Western Samoa",Samoa
 Alesana Tuilagi,Samoa,2002,Wing,38,17,20,1,90,18,"Fatausi-Fogapoa, Western Samoa",Samoa
 Maurie Fa'asavalu,Samoa,2002,Back-row,27,14,13,0,10,2,"Moto'otua, Western Samoa",Samoa
-Ponali Tapelu,Samoa,2002,Flanker,1,0,1,0,0,0,NA,România
+Ponali Tapelu,Samoa,2002,Flanker,1,0,1,0,0,0,NA,
 Ron Fanu'atanu,Samoa,2003,Wing,2,1,1,0,5,1,"Apia, Western Samoa",Samoa
 Fa'atonu Fili,Samoa,2003,"Centre, Fly-half",5,1,4,0,8,0,Wellington,NewZealand
 Dale Rasmussen,Samoa,2003,Centre,9,4,5,0,0,0,Auckland,NewZealand
-Gaolo Elisara,Samoa,2003,Centre,2,1,1,0,0,0,NA,Svizra
+Gaolo Elisara,Samoa,2003,Centre,2,1,1,0,0,0,NA,
 Des Tuiali'i,Samoa,2003,Flanker,5,2,3,0,0,0,"Apia, Western Samoa",Samoa
 Dom Feau'nati,Samoa,2003,Centre,5,3,2,0,25,5,Wellington,NewZealand
 Sailosi Tagicakibau,Samoa,2003,Wing,24,12,12,0,35,7,Auckland,NewZealand
-Pama Petia,Samoa,2003,No. 8,1,1,0,0,0,0,NA,Svizra
-Peter Poulos,Samoa,2003,Flanker,4,2,2,0,0,0,NA,Svizra
-Simon Lemalu,Samoa,2003,Prop,13,6,7,0,5,1,NA,Sverige
+Pama Petia,Samoa,2003,No. 8,1,1,0,0,0,0,NA,
+Peter Poulos,Samoa,2003,Flanker,4,2,2,0,0,0,NA,
+Simon Lemalu,Samoa,2003,Prop,13,6,7,0,5,1,NA,
 Romi Ropati,Samoa,2003,Centre,2,0,2,0,0,0,Auckland,NewZealand
 David Lemi,Samoa,2004,Wing,42,19,22,1,55,11,"Apia, Western Samoa",Samoa
 Ulia Ulia,Samoa,2004,Back-row,11,7,4,0,5,1,"Apia, Western Samoa",Samoa
 Roger Warren,Samoa,2004,Fly-half,12,7,5,0,119,0,Western Samoa,Samoa
-Nathan George,Samoa,2004,Lock,2,1,1,0,0,0,NA,România
+Nathan George,Samoa,2004,Lock,2,1,1,0,0,0,NA,
 John Senio,Samoa,2004,Scrum-half,10,6,4,0,10,2,Western Samoa,Samoa
-Loleni Tafunai,Samoa,2004,Hooker,11,7,4,0,10,2,NA,Sverige
+Loleni Tafunai,Samoa,2004,Hooker,11,7,4,0,10,2,NA,
 Michael von Dincklage,Samoa,2004,Lock,1,0,1,0,0,0,Auckland,NewZealand
-Ray Tuivaiti,Samoa,2004,Flanker,1,0,1,0,0,0,NA,Sverige
+Ray Tuivaiti,Samoa,2004,Flanker,1,0,1,0,0,0,NA,
 Lolo Lui,Samoa,2004,Fullback,25,17,8,0,36,0,"Apia, Western Samoa",Samoa
 Simaika Mikaele,Samoa,2004,Flanker,10,6,4,0,0,0,NA,Samoa
 Census Johnston,Samoa,2005,Prop,55,23,31,1,20,4,Auckland,NewZealand
 Apoua Stewart,Samoa,2005,"Fullback, Wing",2,1,1,0,0,0,Wellington,NewZealand
 Justin Va'a,Samoa,2005,Prop,23,9,14,0,10,2,Lower Hutt,NewZealand
-Lualua Vailoaloa,Samoa,2005,Back-row,4,1,3,0,0,0,NA,Sverige
+Lualua Vailoaloa,Samoa,2005,Back-row,4,1,3,0,0,0,NA,
 Dan Leo,Samoa,2005,Lock,42,22,19,1,5,1,Palmerston North,NewZealand
-Jamie Parkinson,Samoa,2005,Prop,2,1,1,0,0,0,NA,Svizra
-Faletoese Talapusi,Samoa,2005,Centre,5,3,2,0,2,0,NA,Sverige
-Notise Tauafao,Samoa,2005,Scrum-half,16,10,6,0,5,1,NA,Sverige
+Jamie Parkinson,Samoa,2005,Prop,2,1,1,0,0,0,NA,
+Faletoese Talapusi,Samoa,2005,Centre,5,3,2,0,2,0,NA,
+Notise Tauafao,Samoa,2005,Scrum-half,16,10,6,0,5,1,NA,
 Paul Tupai,Samoa,2005,"Lock, Back-row",5,2,3,0,0,0,Rotorua,NewZealand
 Filisoa Fa'aiu,Samoa,2005,No. 8,1,1,0,0,0,0,,
 Donald Kerslake,Samoa,2005,Prop,9,7,2,0,0,0,Christchurch,NewZealand
 Muliufi Salanoa,Samoa,2005,"Prop, Hooker",10,7,3,0,0,0,"Apia, Western Samoa",Samoa
-Iosefa Taina,Samoa,2005,Back-row,5,3,2,0,0,0,NA,Svizra
+Iosefa Taina,Samoa,2005,Back-row,5,3,2,0,0,0,NA,
 Andy Tuilagi,Samoa,2005,Centre,17,11,5,1,25,5,"Apia, Western Samoa",Samoa
 O. Faupula,Tonga,1924,NA,3,1,1,1,0,0,,
 Te. Fifita,Tonga,1924,NA,3,1,1,1,0,0,,
@@ -8848,7 +8848,7 @@ Kimpu 'Inoke,Tonga,1967,Flanker,11,3,7,1,10,3,,
 Kei 'Iongi,Tonga,1967,Wing,12,4,7,1,10,2,,
 Etuini Kelemeni,Tonga,1967,Wing,3,0,2,1,0,0,,
 Tali Latukefu,Tonga,1967,Fly-half,6,1,4,1,0,0,,
-Tevita Leger,Tonga,1967,Flanker,2,0,2,0,0,0,NA,Norge
+Tevita Leger,Tonga,1967,Flanker,2,0,2,0,0,0,NA,
 Tuilipe Mapa,Tonga,1967,Scrum-half,2,0,1,1,0,0,,
 Viliami Pahulu,Tonga,1967,Hooker,9,4,4,1,16,0,,
 Samiuela Tatafu,Tonga,1967,Fullback,1,0,1,0,0,0,,
@@ -8876,7 +8876,7 @@ Sami Latu,Tonga,1972,Centre,10,3,7,0,12,3,,
 Taufu'i Moala,Tonga,1972,Wing,1,0,1,0,0,0,,
 Kulini Motu'apuaka,Tonga,1972,Prop,1,0,1,0,0,0,,
 Ilavalu Taufa,Tonga,1972,Fullback,1,0,1,0,2,0,,
-Polutele Tuihalamaka,Tonga,1972,Lock,14,3,11,0,4,1,NA,Perú
+Polutele Tuihalamaka,Tonga,1972,Lock,14,3,11,0,4,1,NA,
 Fatai Kefu,Tonga,1972,Fullback,6,1,5,0,0,0,,
 Eukaliti Hehepoto,Tonga,1972,Hooker,5,2,3,0,4,1,,
 Tevita Bloomfield,Tonga,1973,Prop,5,2,3,0,0,0,,
@@ -8884,7 +8884,7 @@ Ha'unga Fonua,Tonga,1973,Scrum-half,7,3,4,0,4,1,,
 F. Hufanga,Tonga,1973,Lock,1,1,0,0,0,0,,
 Valita Ma'ake,Tonga,1973,Fullback,17,6,11,0,47,0,,
 Siope Matapule,Tonga,1973,Wing,2,1,1,0,0,0,,
-Fakahau Valu,Tonga,1973,Flanker,25,7,18,0,24,6,NA,Perú
+Fakahau Valu,Tonga,1973,Flanker,25,7,18,0,24,6,NA,
 Sione Foliaki,Tonga,1973,Fly-half,3,1,2,0,0,0,,
 Pasifiki Tonga,Tonga,1973,Prop,1,0,1,0,0,0,,
 Fa'aleo Tupi,Tonga,1973,Lock,8,2,6,0,4,1,,
@@ -8921,25 +8921,25 @@ Siai Liava'a,Tonga,1979,Lock,4,1,3,0,0,0,,
 Peseti Ma'afu,Tonga,1979,Scrum-half,10,4,6,0,4,1,,
 Tui'pulotu Viliame,Tonga,1979,Centre,1,0,1,0,0,0,,
 Ofa Hiko,Tonga,1979,Prop,1,0,1,0,0,0,,
-Alamoni Liava'a,Tonga,1979,Centre,14,4,10,0,31,3,NA,Perú
+Alamoni Liava'a,Tonga,1979,Centre,14,4,10,0,31,3,NA,
 Prince Mailefihi,Tonga,1979,Lock,2,0,2,0,0,0,,
-Nofomuli Taumoefolau,Tonga,1979,Wing,18,4,13,1,20,5,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Nofomuli Taumoefolau,Tonga,1979,Wing,18,4,13,1,20,5,NA,
 Tui'pulotu Maka,Tonga,1979,Wing,3,2,1,0,4,1,,
 M. Malu,Tonga,1979,Flanker,1,1,0,0,0,0,,
 Malakai Pulumu,Tonga,1979,Flanker,6,4,2,0,0,0,,
 Puniani Tu'ipulotu,Tonga,1979,Hooker,2,2,0,0,7,0,,
 Mailefihi Tuku'aho,Tonga,1979,Lock,4,3,1,0,0,0,Nuku'alofa,Tonga
 Soane Hola,Tonga,1979,Lock,1,1,0,0,0,0,,
-Talanoa Kitekei'aho,Tonga,1979,Centre,4,1,3,0,0,0,NA,Perú
+Talanoa Kitekei'aho,Tonga,1979,Centre,4,1,3,0,0,0,NA,
 Kulikefu Lomu,Tonga,1979,Centre,1,1,0,0,0,0,,
-Soakai Motu'apuaka,Tonga,1979,Prop,3,2,1,0,0,0,NA,Perú
+Soakai Motu'apuaka,Tonga,1979,Prop,3,2,1,0,0,0,NA,
 Semisi Faleafa,Tonga,1980,Centre,1,1,0,0,0,0,,
 Fou Ma'afu,Tonga,1980,Wing,9,3,5,1,12,3,,
 Fili Moala,Tonga,1980,Hooker,12,5,7,0,4,1,,
 Sione Vai,Tonga,1980,Centre,1,1,0,0,4,1,,
 Sweet Leilani Fekau,Tonga,1981,Centre,5,1,4,0,0,0,,
 Poseisei Havili,Tonga,1981,Flanker,3,1,2,0,0,0,,
-Viliami Lutua,Tonga,1981,Prop,7,1,5,1,0,0,NA,Perú
+Viliami Lutua,Tonga,1981,Prop,7,1,5,1,0,0,NA,
 Sitini Mahe,Tonga,1981,Lock,3,1,2,0,0,0,,
 Paea Moala,Tonga,1981,Wing,3,1,2,0,4,1,,
 Soape Nuku,Tonga,1981,Centre,5,2,3,0,14,1,,
@@ -8947,7 +8947,7 @@ Sisi Tu'ipulotu,Tonga,1981,Prop,1,0,1,0,0,0,,
 Pohahau Palu,Tonga,1981,Flanker,1,1,0,0,0,0,,
 Siale Vai,Tonga,1981,Fullback,4,1,3,0,9,0,,
 Sanilaita,Tonga,1981,Wing,1,1,0,0,0,0,,
-Amone Fungavaka,Tonga,1982,Hooker,13,3,10,0,4,1,NA,Perú
+Amone Fungavaka,Tonga,1982,Hooker,13,3,10,0,4,1,NA,
 Tu'ikolovatu Halafihi,Tonga,1982,Fullback,5,2,3,0,3,0,,
 Liapo Halavatau,Tonga,1982,Lock,2,0,2,0,0,0,,
 T. Kapeli,Tonga,1982,No. 8,1,0,1,0,0,0,,
@@ -8957,7 +8957,7 @@ Feleti Moala,Tonga,1982,Scrum-half,4,2,2,0,0,0,,
 Pule Moala,Tonga,1982,Centre,6,1,5,0,0,0,,
 Tevita Soane,Tonga,1982,Lock,7,3,4,0,0,0,,
 Poese Taukolo,Tonga,1982,Flanker,2,0,2,0,0,0,,
-Hakatoa Tupou,Tonga,1982,Prop,9,1,8,0,4,1,NA,Perú
+Hakatoa Tupou,Tonga,1982,Prop,9,1,8,0,4,1,NA,
 Kapelilei Vunipola,Tonga,1982,Fly-half,6,1,5,0,0,0,,
 Mesui Fanga'uta,Tonga,1982,Wing,1,0,1,0,0,0,,
 Vatuniloka Fifita,Tonga,1982,No. 8,1,0,1,0,0,0,,
@@ -8965,7 +8965,7 @@ Ha'unga Petelo,Tonga,1982,Fullback,1,0,1,0,0,0,,
 Feleti Taniela,Tonga,1982,Wing,1,0,1,0,0,0,,
 Viliami Vunipola,Tonga,1982,Centre,1,0,1,0,0,0,,
 Pau Afeaki,Tonga,1983,Flanker,2,1,1,0,0,0,,
-Talai Fifita,Tonga,1983,Scrum-half,11,2,9,0,16,4,NA,Sverige
+Talai Fifita,Tonga,1983,Scrum-half,11,2,9,0,16,4,NA,
 Viliami Maka,Tonga,1983,Lock,4,2,2,0,0,0,,
 Kouliti Ma'u,Tonga,1983,Prop,5,2,3,0,8,2,,
 Laukau Ofa,Tonga,1983,Wing,5,1,4,0,0,0,,
@@ -8975,13 +8975,13 @@ Heneli Pau'u,Tonga,1983,Prop,2,1,1,0,0,0,,
 Tohi Leha,Tonga,1983,Flanker,2,0,2,0,0,0,,
 Pau'u Lolohea,Tonga,1983,Flanker,2,0,2,0,0,0,,
 Tu'ihalafatai Ma'afu,Tonga,1983,Wing,2,0,2,0,4,1,,
-Takai Makisi,Tonga,1983,Prop,4,1,3,0,0,0,NA,Perú
+Takai Makisi,Tonga,1983,Prop,4,1,3,0,0,0,NA,
 Mo'unga Taufateau,Tonga,1983,Fullback,4,1,3,0,4,1,,
 Paula Taholo,Tonga,1983,Prop,1,0,1,0,0,0,,
 Sinali-Tui Latu,Tonga,1984,No. 8,34,11,23,0,18,4,Ha'apai,Tonga
 Feao Lavemai,Tonga,1984,Centre,4,2,2,0,4,1,,
 Sekona Taufa,Tonga,1984,Wing,1,1,0,0,0,0,,
-Tali Ete'aki,Tonga,1984,Fullback,13,2,11,0,0,0,NA,Perú
+Tali Ete'aki,Tonga,1984,Fullback,13,2,11,0,0,0,NA,
 Paula Tupou,Tonga,1984,No. 8,3,0,3,0,0,0,,
 Laifai'i Kauhalaniua,Tonga,1984,Fly-half,1,0,1,0,0,0,,
 Peni Fakava,Tonga,1985,Wing,2,1,1,0,0,0,,
@@ -8989,25 +8989,25 @@ Manisela Hekeheke,Tonga,1985,Flanker,4,2,2,0,0,0,,
 Fetaiaki Langi,Tonga,1985,Flanker,6,2,4,0,4,1,,
 Pila Maka,Tonga,1985,Lock,1,1,0,0,0,0,,
 Lui Stanley,Tonga,1985,Centre,1,1,0,0,0,0,,
-Latu Vaeno,Tonga,1985,Prop,4,2,2,0,0,0,NA,Perú
+Latu Vaeno,Tonga,1985,Prop,4,2,2,0,0,0,NA,
 Lausii Hopoate,Tonga,1986,Wing,1,0,1,0,0,0,,
-Emosi Koloto,Tonga,1986,Flanker,1,0,1,0,0,0,NA,Danmark
+Emosi Koloto,Tonga,1986,Flanker,1,0,1,0,0,0,NA,
 Funa Moala,Tonga,1986,Prop,1,0,1,0,0,0,,
-Samiu Mohi,Tonga,1986,Centre,6,1,5,0,0,0,NA,Perú
-Mofuike Tu'ungafasi,Tonga,1986,Lock,5,1,4,0,0,0,NA,Perú
+Samiu Mohi,Tonga,1986,Centre,6,1,5,0,0,0,NA,
+Mofuike Tu'ungafasi,Tonga,1986,Lock,5,1,4,0,0,0,NA,
 Vaivao Fa'aumu,Tonga,1986,Centre,4,1,3,0,0,0,,
-Maliu Filise,Tonga,1986,No. 8,4,1,3,0,0,0,NA,Perú
+Maliu Filise,Tonga,1986,No. 8,4,1,3,0,0,0,NA,
 Popolini Ta'univao,Tonga,1986,Flanker,1,1,0,0,0,0,,
 Totilini Tuavao,Tonga,1986,Flanker,1,0,1,0,0,0,,
-Soane 'Asi,Tonga,1987,Wing,1,0,1,0,0,0,NA,Perú
-Quddus Fielea,Tonga,1987,Wing,12,1,11,0,8,2,NA,Danmark
-Kasi Fine,Tonga,1987,Lock,4,0,4,0,0,0,NA,Perú
-Kini Fotu,Tonga,1987,No. 8,8,1,7,0,4,1,NA,Perú
-Taipaleti Tu'uta,Tonga,1987,Flanker,8,2,6,0,0,0,NA,Perú
-Sione Tahaafe,Tonga,1987,No. 8,1,0,1,0,0,0,NA,Perú
-Lemeki Vaipulu,Tonga,1987,Fly-half,1,0,1,0,0,0,NA,Perú
-Asa Amone,Tonga,1987,Fly-half,5,0,5,0,12,0,NA,Danmark
-Manu Vunipola,Tonga,1987,Scrum-half,36,12,23,1,9,2,NA,Perú
+Soane 'Asi,Tonga,1987,Wing,1,0,1,0,0,0,NA,
+Quddus Fielea,Tonga,1987,Wing,12,1,11,0,8,2,NA,
+Kasi Fine,Tonga,1987,Lock,4,0,4,0,0,0,NA,
+Kini Fotu,Tonga,1987,No. 8,8,1,7,0,4,1,NA,
+Taipaleti Tu'uta,Tonga,1987,Flanker,8,2,6,0,0,0,NA,
+Sione Tahaafe,Tonga,1987,No. 8,1,0,1,0,0,0,NA,
+Lemeki Vaipulu,Tonga,1987,Fly-half,1,0,1,0,0,0,NA,
+Asa Amone,Tonga,1987,Fly-half,5,0,5,0,12,0,NA,
+Manu Vunipola,Tonga,1987,Scrum-half,36,12,23,1,9,2,NA,
 Siaosi 'Atiola,Tonga,1987,No. 8,8,1,6,1,4,1,,
 Inoke Finau,Tonga,1987,Prop,5,0,5,0,0,0,,
 Maimoa Havili,Tonga,1987,Lock,2,0,1,1,8,0,,
@@ -9016,11 +9016,11 @@ Kite Tuivailala,Tonga,1987,Fly-half,12,2,9,1,21,0,,
 Lopeti Uhatafe,Tonga,1987,Fly-half,2,0,2,0,5,0,,
 Semi Ve'ehala,Tonga,1987,Back-row,9,2,6,1,0,0,,
 Chris Manu,Tonga,1987,Scrum-half,4,1,3,0,0,0,,
-Liueli Fusimalohi,Tonga,1987,Fullback,5,0,4,1,0,0,NA,Perú
+Liueli Fusimalohi,Tonga,1987,Fullback,5,0,4,1,0,0,NA,
 Tevita Hafoka,Tonga,1987,Lock,1,0,1,0,0,0,,
 Kolona Latu,Tonga,1987,Lock,1,0,1,0,4,1,,
 Fa'onelua Fakaua,Tonga,1988,Fly-half,1,0,1,0,0,0,,
-Kuli Faletau,Tonga,1988,Lock,20,7,12,1,9,2,NA,Austria
+Kuli Faletau,Tonga,1988,Lock,20,7,12,1,9,2,NA,
 Fatai Ika,Tonga,1988,Centre,6,1,4,1,0,0,,
 Maliepo Toma,Tonga,1988,No. 8,6,0,6,0,4,1,,
 Soane Finau,Tonga,1988,Prop,8,2,6,0,0,0,,
@@ -9030,22 +9030,22 @@ Hikifo'ou Vaingolo,Tonga,1988,Centre,1,0,1,0,0,0,,
 'Asisi Pou'uhila,Tonga,1988,Centre,1,0,0,1,0,0,,
 Takitoa Taumoepeau,Tonga,1988,Wing,1,0,0,1,0,0,,
 Koloni Tuivailala,Tonga,1988,Lock,1,0,0,1,4,1,,
-Fe'ao Vunipola,Tonga,1988,Hooker,34,13,20,1,15,3,NA,Nederland
+Fe'ao Vunipola,Tonga,1988,Hooker,34,13,20,1,15,3,NA,
 Koliniata Feke,Tonga,1988,Wing,6,1,4,1,0,0,,
 Samiu Mafi,Tonga,1988,Wing,6,2,4,0,0,0,,
-Tinitale Makalea,Tonga,1988,No. 8,1,0,1,0,0,0,NA,Nederland
+Tinitale Makalea,Tonga,1988,No. 8,1,0,1,0,0,0,NA,
 Liueli Susimalofi,Tonga,1989,Centre,1,0,1,0,0,0,,
 Moimoi Halatanu,Tonga,1989,Fullback,1,1,0,0,0,0,,
 Feao Filikitonga,Tonga,1990,Prop,2,0,2,0,0,0,,
-Isi Tapueluelu,Tonga,1990,Fullback,13,3,10,0,25,5,NA,Danmark
+Isi Tapueluelu,Tonga,1990,Fullback,13,3,10,0,25,5,NA,
 Ikani Taufa,Tonga,1990,Scrum-half,1,0,1,0,0,0,,
 Nafe Tufui,Tonga,1990,Scrum-half,8,3,5,0,12,0,,
-Elisi Vunipola,Tonga,1990,Fly-half,41,15,26,0,50,8,NA,Danmark
+Elisi Vunipola,Tonga,1990,Fly-half,41,15,26,0,50,8,NA,
 Tevita Lavaki,Tonga,1990,Prop,3,1,2,0,0,0,,
 Amanaki Vaha'akolo,Tonga,1990,Centre,2,1,1,0,0,0,,
 Fololisi Masila,Tonga,1990,Hooker,11,0,11,0,14,3,,
 Peniola Ahofono,Tonga,1990,Scrum-half,1,0,1,0,0,0,,
-Vaea Anitoni,Tonga,1990,Wing,47,14,33,0,130,26,NA,Danmark
+Vaea Anitoni,Tonga,1990,Wing,47,14,33,0,130,26,NA,
 Feleti Faotusa,Tonga,1990,Prop,1,0,1,0,0,0,,
 Takau Lutua,Tonga,1990,Prop,9,6,3,0,0,0,,
 Uafe Niuila,Tonga,1990,Centre,1,0,1,0,0,0,,
@@ -9058,37 +9058,37 @@ Lopeti Samiu,Tonga,1991,Prop,1,0,1,0,0,0,,
 Sione Vaeno,Tonga,1991,Wing,1,0,1,0,0,0,,
 Tevita Va'enuku,Tonga,1991,Wing,15,4,11,0,24,5,,
 Soane Hiko,Tonga,1991,Wing,1,0,1,0,0,0,,
-Alatini Saulala,Tonga,1991,Centre,2,0,2,0,0,0,NA,Nederland
+Alatini Saulala,Tonga,1991,Centre,2,0,2,0,0,0,NA,
 Fatui Lagilagi,Tonga,1991,Prop,1,0,1,0,0,0,,
 Huihahau Nisa,Tonga,1991,Fly-half,3,1,2,0,6,0,,
 Semi Taupeaafe,Tonga,1991,"Wing, Centre",15,4,11,0,0,0,Nuku'alofa,Tonga
 Pelimani Fisi'iahi,Tonga,1992,Lock,1,0,1,0,5,1,,
-Rudi Kapeli,Tonga,1992,Hooker,4,2,2,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Rudi Kapeli,Tonga,1992,Hooker,4,2,2,0,0,0,NA,
 Dave Latailakepa,Tonga,1992,No. 8,3,1,2,0,0,0,,
-Holani Pohiva,Tonga,1992,No. 8,4,0,4,0,0,0,NA,Danmark
+Holani Pohiva,Tonga,1992,No. 8,4,0,4,0,0,0,NA,
 Chris Schaumkel,Tonga,1992,Fly-half,4,1,3,0,8,0,,
-Isi Tu'ivai,Tonga,1992,Wing,15,6,9,0,38,6,NA,Danmark
+Isi Tu'ivai,Tonga,1992,Wing,15,6,9,0,38,6,NA,
 Mistana Vea,Tonga,1992,Wing,2,1,1,0,3,0,,
-Tasi Vikilani,Tonga,1992,No. 8,4,1,3,0,0,0,NA,Danmark
+Tasi Vikilani,Tonga,1992,No. 8,4,1,3,0,0,0,NA,
 Isi Fatani,Tonga,1992,Lock,25,11,13,1,25,5,Nuku'alofa,Tonga
 Siaosi Latu,Tonga,1992,Prop,3,2,1,0,0,0,,
 Tevita Pau'u,Tonga,1992,Wing,1,1,0,0,0,0,,
 Tavake Tuineau,Tonga,1992,Wing,6,2,4,0,0,0,,
-Ipolito Fenukitau,Tonga,1993,Flanker,18,5,13,0,15,3,NA,Danmark
+Ipolito Fenukitau,Tonga,1993,Flanker,18,5,13,0,15,3,NA,
 Samisoni Lolo,Tonga,1993,Flanker,1,0,1,0,0,0,,
 Feleti Mahoni,Tonga,1993,Flanker,13,5,8,0,15,3,Maufanga,Tonga
 Valita Moa,Tonga,1993,Prop,2,0,2,0,0,0,,
-Edwin Talakai,Tonga,1993,Prop,8,3,5,0,0,0,NA,Россия
+Edwin Talakai,Tonga,1993,Prop,8,3,5,0,0,0,NA,
 Pauliasi Vakamalolo,Tonga,1993,Centre,1,0,1,0,0,0,,
 Martin Manukia,Tonga,1993,No. 8,6,2,4,0,5,1,,
-Feleti Fakaongo,Tonga,1993,"Lock, Flanker",14,6,8,0,0,0,NA,Danmark
+Feleti Fakaongo,Tonga,1993,"Lock, Flanker",14,6,8,0,0,0,NA,
 Manu Lavaka,Tonga,1993,Centre,4,1,3,0,5,1,,
 A. Tulikaki,Tonga,1993,Scrum-half,1,0,1,0,0,0,,
 Afu Uasi,Tonga,1993,Wing,4,2,2,0,5,1,,
-Finau Ma'afu,Tonga,1993,Wing,1,1,0,0,0,0,NA,Perú
+Finau Ma'afu,Tonga,1993,Wing,1,1,0,0,0,0,NA,
 Semisi Tongia,Tonga,1993,Hooker,1,1,0,0,0,0,,
 Falamani Mafi,Tonga,1993,Lock,22,8,14,0,10,2,Kanokupolu,Tonga
-Alaska Taufa,Tonga,1993,Wing,5,2,3,0,5,1,NA,Danmark
+Alaska Taufa,Tonga,1993,Wing,5,2,3,0,5,1,NA,
 Taipe Vave,Tonga,1993,Fullback,1,0,1,0,4,0,,
 Tu'ihakavalu Kolo,Tonga,1993,Fly-half,3,1,2,0,5,1,,
 Falanisi Manukia,Tonga,1993,Fly-half,7,3,4,0,10,2,,
@@ -9096,21 +9096,21 @@ Kolau Fokofuka,Tonga,1993,Prop,8,4,4,0,0,0,,
 Sateki Tuipulotu,Tonga,1993,Fullback,20,9,11,0,190,5,Auckland,NewZealand
 Unaloto Fa,Tonga,1994,Prop,6,1,5,0,5,1,,
 Peneili Latu,Tonga,1994,Centre,9,4,5,0,0,0,,
-Valai Taumoepeau,Tonga,1994,Flanker,4,1,3,0,0,0,NA,Danmark
-Sam Alatini,Tonga,1994,Centre,6,2,4,0,0,0,NA,Danmark
-Kati Tu'ipulotu,Tonga,1994,Flanker,16,5,10,1,5,1,NA,Danmark
-Kilioni Tuipulotu,Tonga,1994,No. 8,4,2,2,0,0,0,NA,Россия
+Valai Taumoepeau,Tonga,1994,Flanker,4,1,3,0,0,0,NA,
+Sam Alatini,Tonga,1994,Centre,6,2,4,0,0,0,NA,
+Kati Tu'ipulotu,Tonga,1994,Flanker,16,5,10,1,5,1,NA,
+Kilioni Tuipulotu,Tonga,1994,No. 8,4,2,2,0,0,0,NA,
 Jonathan Tupou,Tonga,1994,Prop,1,1,0,0,0,0,,
 Pouvalu Latukefu,Tonga,1995,Lock,8,4,4,0,5,1,,
-David Manako,Tonga,1995,Centre,4,4,0,0,15,3,NA,Россия
-Mana 'Otai,Tonga,1995,No. 8,5,3,2,0,5,1,NA,Nederland
+David Manako,Tonga,1995,Centre,4,4,0,0,15,3,NA,
+Mana 'Otai,Tonga,1995,No. 8,5,3,2,0,5,1,NA,
 Taholo Anitoni,Tonga,1995,Centre,5,3,2,0,5,1,,
-Va'a Toloke,Tonga,1995,No. 8,19,9,10,0,10,2,NA,Austria
+Va'a Toloke,Tonga,1995,No. 8,19,9,10,0,10,2,NA,
 Saili Fe'ao,Tonga,1995,Hooker,2,0,2,0,0,0,,
-Willie Lose,Tonga,1995,Lock,3,1,2,0,0,0,NA,Danmark
-Unuoi Va'enuku,Tonga,1995,Centre,3,1,2,0,0,0,NA,Россия
+Willie Lose,Tonga,1995,Lock,3,1,2,0,0,0,NA,
+Unuoi Va'enuku,Tonga,1995,Centre,3,1,2,0,0,0,NA,
 Inoke Afeaki,Tonga,1995,"Lock, Flanker",27,6,21,0,15,3,Tofoa,Tonga
-Simana Mafile'o,Tonga,1995,Centre,12,7,5,0,15,3,NA,Nederland
+Simana Mafile'o,Tonga,1995,Centre,12,7,5,0,15,3,NA,
 Taipe Isitolo,Tonga,1995,Fullback,3,2,1,0,10,0,,
 Akuila Mafi,Tonga,1995,Fly-half,1,1,0,0,0,0,,
 Pita Alatini,Tonga,1995,Centre,18,13,5,0,30,6,Nuku'alofa,Tonga
@@ -9119,31 +9119,31 @@ Paula Tuitavake,Tonga,1995,Centre,1,0,1,0,0,0,,
 Tevita Asi,Tonga,1996,Wing,1,0,1,0,0,0,,
 Paula Kalanivalu,Tonga,1996,Centre,1,0,1,0,0,0,,
 Lani Katoa,Tonga,1996,Flanker,8,3,5,0,0,0,,
-Hemani Lavaka,Tonga,1996,Prop,15,2,13,0,10,2,NA,Nederland
-Etu Manu,Tonga,1996,Centre,6,2,4,0,5,1,NA,Danmark
+Hemani Lavaka,Tonga,1996,Prop,15,2,13,0,10,2,NA,
+Etu Manu,Tonga,1996,Centre,6,2,4,0,5,1,NA,
 Ngalu Taufo'ou,Tonga,1996,Prop,23,10,13,0,15,3,Ha'apai,Tonga
 Josh Taumalolo,Tonga,1996,Centre,26,12,13,1,118,14,Nuku'alofa,Tonga
-Maikolo Kaihea,Tonga,1996,Hooker,7,4,2,1,0,0,NA,Danmark
-Fepikou Tatafu,Tonga,1996,Wing,23,10,12,1,50,10,NA,Austria
-Gustavo Tonga,Tonga,1996,Fullback,13,7,6,0,114,1,NA,Danmark
+Maikolo Kaihea,Tonga,1996,Hooker,7,4,2,1,0,0,NA,
+Fepikou Tatafu,Tonga,1996,Wing,23,10,12,1,50,10,NA,
+Gustavo Tonga,Tonga,1996,Fullback,13,7,6,0,114,1,NA,
 Ma'ama Molitika,Tonga,1996,Back-row,21,7,14,0,5,1,Ha'apai,Tonga
-Viliami Uhi,Tonga,1996,Centre,7,3,4,0,5,1,NA,Danmark
-Semisi Faka'osi'folau,Tonga,1996,Centre,13,4,9,0,25,5,NA,Россия
-Damien Penesini,Tonga,1997,Prop,6,5,1,0,0,0,NA,Россия
-Tau Siale,Tonga,1997,Hooker,3,2,1,0,0,0,NA,Danmark
+Viliami Uhi,Tonga,1996,Centre,7,3,4,0,5,1,NA,
+Semisi Faka'osi'folau,Tonga,1996,Centre,13,4,9,0,25,5,NA,
+Damien Penesini,Tonga,1997,Prop,6,5,1,0,0,0,NA,
+Tau Siale,Tonga,1997,Hooker,3,2,1,0,0,0,NA,
 Alipate Ta'ufo'ou,Tonga,1997,Lock,6,3,3,0,5,1,,
 Talanoa Tohi,Tonga,1997,Lock,3,2,1,0,0,0,,
-Latiume Maka,Tonga,1997,"Prop, Hooker",20,9,10,1,10,2,NA,Danmark
+Latiume Maka,Tonga,1997,"Prop, Hooker",20,9,10,1,10,2,NA,
 Semi Tulikifanga,Tonga,1997,Scrum-half,4,1,3,0,0,0,,
 Dave Tiueti,Tonga,1997,Centre,21,8,12,1,33,6,Tofoa,Tonga
-Vikilani Afeaki,Tonga,1997,Fullback,3,0,3,0,0,0,NA,Austria
+Vikilani Afeaki,Tonga,1997,Fullback,3,0,3,0,0,0,NA,
 Johnny Ngauamo,Tonga,1997,Centre,6,1,5,0,5,1,Nuku'alofa,Tonga
 David Briggs,Tonga,1997,Prop,1,0,1,0,0,0,Auckland,NewZealand
-Saia Latu,Tonga,1997,Flanker,12,4,8,0,0,0,NA,Svizra
+Saia Latu,Tonga,1997,Flanker,12,4,8,0,0,0,NA,
 Vili Ma'asi,Tonga,1997,Hooker,32,7,25,0,15,3,Tofoa,Tonga
 Tom Matakiongo,Tonga,1997,Flanker,1,0,1,0,0,0,,
 Sione Tuipulotu,Tonga,1997,Scrum-half,29,9,19,1,13,2,Ha'apai,Tonga
-Simon Hafoka,Tonga,1997,Hooker,1,0,1,0,0,0,NA,Austria
+Simon Hafoka,Tonga,1997,Hooker,1,0,1,0,0,0,NA,
 Sione Tai,Tonga,1997,Fly-half,2,0,2,0,5,1,,
 Salesi Finau,Tonga,1998,Centre,13,4,8,1,5,1,Neiafu,Tonga
 Pierre Hola,Tonga,1998,"Wing, Fly-half",40,13,27,0,322,11,Longolongo,Tonga
@@ -9152,19 +9152,19 @@ Jonathan Koloi,Tonga,1998,Flanker,15,6,9,0,30,6,Nuku'alofa,Tonga
 Tauna'holo Taufahema,Tonga,1998,Wing,17,5,11,1,41,5,Nautoka,Tonga
 Brian Wooley,Tonga,1998,Fly-half,9,3,5,1,3,0,Wellington,NewZealand
 Hese Fakatou,Tonga,1998,Back-row,5,1,4,0,0,0,Kolofo'ou,Tonga
-Uiniati Moa,Tonga,1998,Prop,3,0,3,0,0,0,NA,Россия
-Ma'afu Pale,Tonga,1998,"Hooker, Prop",7,3,4,0,5,1,NA,Austria
-Matt te Pou,Tonga,1998,Flanker,13,4,9,0,5,1,NA,Austria
+Uiniati Moa,Tonga,1998,Prop,3,0,3,0,0,0,NA,
+Ma'afu Pale,Tonga,1998,"Hooker, Prop",7,3,4,0,5,1,NA,
+Matt te Pou,Tonga,1998,Flanker,13,4,9,0,5,1,NA,
 David Edwards,Tonga,1998,Flanker,10,4,5,1,0,0,Auckland,NewZealand
 Sililo Martens,Tonga,1998,Scrum-half,32,9,22,1,15,3,Auckland,NewZealand
 Jeff Sitoa,Tonga,1998,Lock,1,0,1,0,0,0,,
-Sam Hala,Tonga,1999,Wing,9,4,5,0,20,4,NA,Austria
+Sam Hala,Tonga,1999,Wing,9,4,5,0,20,4,NA,
 Puke Faletau,Tonga,1999,Prop,9,4,4,1,0,0,Neiafu,Tonga
 'Aleki Lutui,Tonga,1999,Hooker,45,12,32,1,25,5,Tofoa,Tonga
 Tevita Taumoepeau,Tonga,1999,Prop,35,12,23,0,12,2,"Hihifo, Haapai",Tonga
-Sengili Tuihalamaka,Tonga,1999,Wing,5,1,4,0,32,1,NA,Svizra
-Keni Fisilau,Tonga,1999,Centre,6,0,6,0,0,0,NA,Россия
-Kisione Ahota'eiloa,Tonga,1999,Flanker,6,2,3,1,10,2,NA,Svizra
+Sengili Tuihalamaka,Tonga,1999,Wing,5,1,4,0,32,1,NA,
+Keni Fisilau,Tonga,1999,Centre,6,0,6,0,0,0,NA,
+Kisione Ahota'eiloa,Tonga,1999,Flanker,6,2,3,1,10,2,NA,
 Ta'u Fainga'anuku,Tonga,1999,Prop,12,3,8,1,5,1,Kiltifo Haapai,Tonga
 Epi Taione,Tonga,1999,Centre,24,7,17,0,15,3,Vauai'i,Tonga
 Hotili 'Asi,Tonga,2000,Prop,1,0,1,0,0,0,,
@@ -9172,31 +9172,31 @@ Chris Hala'ufia,Tonga,2000,No. 8,24,7,17,0,25,5,Neiafu,Tonga
 Aisea Havili Kaufusi,Tonga,2000,Wing,14,5,9,0,20,4,Ha'ateiho,Tonga
 Apai Kaitu'u,Tonga,2000,No. 8,1,0,1,0,0,0,,
 Epafasi Ta'ufo'ou,Tonga,2000,Centre,6,3,3,0,5,1,,
-Lotu Filipine,Tonga,2000,Back-row,8,4,4,0,20,4,NA,Sverige
-Fakataha Molitika,Tonga,2000,Lock,7,1,6,0,0,0,NA,Svizra
-Sioeli Nau,Tonga,2000,Scrum-half,9,3,6,0,10,2,NA,Россия
+Lotu Filipine,Tonga,2000,Back-row,8,4,4,0,20,4,NA,
+Fakataha Molitika,Tonga,2000,Lock,7,1,6,0,0,0,NA,
+Sioeli Nau,Tonga,2000,Scrum-half,9,3,6,0,10,2,NA,
 Movete 'Oto'ota,Tonga,2000,Fly-half,4,0,4,0,0,0,,
-Solomone Matangi,Tonga,2000,Wing,8,3,5,0,25,5,NA,Россия
+Solomone Matangi,Tonga,2000,Wing,8,3,5,0,25,5,NA,
 Soane Havea,Tonga,2000,Fly-half,28,11,17,0,0,0,NA,Tonga
 Henry Saafi,Tonga,2000,Flanker,1,0,1,0,0,0,,
 Loni Manako,Tonga,2000,Centre,2,1,1,0,0,0,,
-Tevita Fifita,Tonga,2001,No. 8,5,3,2,0,15,3,NA,Svizra
+Tevita Fifita,Tonga,2001,No. 8,5,3,2,0,15,3,NA,
 Nisifolo Naufahu,Tonga,2001,No. 8,16,6,10,0,10,2,Auckland,NewZealand
-Manako Tonga,Tonga,2001,No. 8,6,3,3,0,0,0,NA,Россия
+Manako Tonga,Tonga,2001,No. 8,6,3,3,0,0,0,NA,
 Viliami Vaki,Tonga,2001,Back-row,36,10,26,0,35,7,Vava'u,Tonga
 Taufa'ao Filise,Tonga,2001,Prop,22,3,19,0,5,1,Malapo,Indonesia
 Gus Leger,Tonga,2001,Centre,15,3,12,0,0,0,Tokoroa,NewZealand
-John Pale,Tonga,2001,Prop,9,1,8,0,0,0,NA,Россия
-Toni Alatini,Tonga,2001,Scrum-half,8,1,7,0,0,0,NA,Danmark
+John Pale,Tonga,2001,Prop,9,1,8,0,0,0,NA,
+Toni Alatini,Tonga,2001,Scrum-half,8,1,7,0,0,0,NA,
 Lua Lokotui,Tonga,2001,"Lock, Flanker",28,13,15,0,15,3,Auckland,NewZealand
-Salesi Moimoi,Tonga,2001,Wing,1,0,1,0,0,0,NA,Svizra
+Salesi Moimoi,Tonga,2001,Wing,1,0,1,0,0,0,NA,
 Mo'unga Kafatolu,Tonga,2002,Fullback,3,1,2,0,5,1,,
 Andrew Mailei,Tonga,2002,Centre,22,9,13,0,40,5,Auckland,NewZealand
 Stanley Afeaki,Tonga,2002,Flanker,13,4,9,0,35,7,Lower Hutt,NewZealand
-Nick Hau,Tonga,2002,Centre,2,0,2,0,0,0,NA,România
-Sione Fonua,Tonga,2002,Wing,12,2,10,0,15,3,NA,Sverige
+Nick Hau,Tonga,2002,Centre,2,0,2,0,0,0,NA,
+Sione Fonua,Tonga,2002,Wing,12,2,10,0,15,3,NA,
 Emosi Kauhenga,Tonga,2002,Lock,14,6,8,0,0,0,Folaha,Tonga
-Laukau Lile,Tonga,2002,Centre,3,1,2,0,0,0,NA,Россия
+Laukau Lile,Tonga,2002,Centre,3,1,2,0,0,0,NA,
 Kisi Pulu,Tonga,2002,Prop,32,12,20,0,15,3,Leimatu'a,Tonga
 Kilioni Bakewa,Tonga,2002,Wing,3,2,1,0,0,0,,
 Tonga Lea'aetoa,Tonga,2002,Prop,26,13,13,0,5,1,Auckland,NewZealand
@@ -9204,27 +9204,27 @@ Milton Ngauamo,Tonga,2002,Lock,17,6,11,0,5,1,Auckland,NewZealand
 David Palu,Tonga,2002,Scrum-half,14,6,8,0,39,7,Wellington,NewZealand
 John Payne,Tonga,2002,Centre,11,4,7,0,5,1,Manly,Australia
 Ephraim Taukafa,Tonga,2002,Hooker,33,14,19,0,30,6,Auckland,NewZealand
-Lisiate 'Ulufonua,Tonga,2002,Fullback,4,4,0,0,10,2,NA,Россия
+Lisiate 'Ulufonua,Tonga,2002,Fullback,4,4,0,0,10,2,NA,
 Willie Gibbons,Tonga,2002,Fly-half,4,2,2,0,0,0,,
 Taniela Tulia,Tonga,2002,Wing,10,4,6,0,35,7,,
 Feki Latusalu,Tonga,2003,Hooker,2,2,0,0,0,0,,
 Tevita Tu'ifua,Tonga,2003,"Wing, Centre",15,6,9,0,20,4,Nomuka,Tonga
-Johnny Tu'amoheloa,Tonga,2003,Back-row,4,1,3,0,0,0,NA,Sverige
+Johnny Tu'amoheloa,Tonga,2003,Back-row,4,1,3,0,0,0,NA,
 Suka Hufanga,Tonga,2003,Wing,28,14,14,0,25,5,Hourna,France
 Kafalosi Tonga,Tonga,2003,Prop,6,1,5,0,0,0,Auckland,NewZealand
 Sila Va'enuku,Tonga,2003,Wing,12,1,11,0,15,3,NA,Tonga
-Edward Langi,Tonga,2003,Back-row,1,0,1,0,0,0,NA,Austria
-Pila Fifita,Tonga,2003,"Centre, Wing",2,0,2,0,0,0,NA,Austria
+Edward Langi,Tonga,2003,Back-row,1,0,1,0,0,0,NA,
+Pila Fifita,Tonga,2003,"Centre, Wing",2,0,2,0,0,0,NA,
 Fangatapu 'Apikotoa,Tonga,2004,Utility back,30,8,21,1,147,2,Fasi-moe-afi,Tonga
 Lisiate Fa'aoso,Tonga,2004,Lock,16,6,9,1,5,1,Kolonga,Tonga
-Ofa Misa,Tonga,2004,Back-row,2,0,2,0,0,0,NA,România
-Mosese Moala,Tonga,2004,Prop,2,0,2,0,0,0,NA,Svizra
-Seti Filo,Tonga,2004,Back-row,2,0,2,0,0,0,NA,Sverige
+Ofa Misa,Tonga,2004,Back-row,2,0,2,0,0,0,NA,
+Mosese Moala,Tonga,2004,Prop,2,0,2,0,0,0,NA,
+Seti Filo,Tonga,2004,Back-row,2,0,2,0,0,0,NA,
 Sefa Vaka,Tonga,2004,Centre,13,3,10,0,10,2,Kolofo'ou,Tonga
-Sikuti Vunipola,Tonga,2004,Scrum-half,3,0,3,0,0,0,NA,România
+Sikuti Vunipola,Tonga,2004,Scrum-half,3,0,3,0,0,0,NA,
 Seti Kiole,Tonga,2005,Wing,9,2,7,0,10,2,Holopeka,Tonga
 Mosese Makasini,Tonga,2005,Lock,4,0,4,0,5,1,,
-Matini Tupou,Tonga,2005,No. 8,4,1,3,0,0,0,NA,Sverige
+Matini Tupou,Tonga,2005,No. 8,4,1,3,0,0,0,NA,
 Siaosi Taufa,Tonga,2005,Scrum-half,4,0,4,0,0,0,,
 Hudson Tonga'uiha,Tonga,2005,Centre,24,8,16,0,30,6,Tofoa,Tonga
 Ueleni Fono,Tonga,2005,No. 8,4,0,4,0,0,0,Holopeka,Tonga
@@ -9284,7 +9284,7 @@ Joape Suluaqalo,Fiji,1932,Hooker,3,3,0,0,9,3,,
 Sunia Tubuna,Fiji,1932,Fullback,3,3,0,0,0,0,,
 Peni Tuidraki,Fiji,1932,Fly-half,3,3,0,0,4,0,,
 Vilitati Vavaitamana,Fiji,1932,Lock,10,7,2,1,0,0,,
-Samu Baravilala,Fiji,1934,Fly-half,7,5,2,0,42,3,NA,Perú
+Samu Baravilala,Fiji,1934,Fly-half,7,5,2,0,42,3,NA,
 Sairusi Bola,Fiji,1934,Lock,1,1,0,0,0,0,,
 Isoa Gavidi,Fiji,1934,Fullback,4,2,1,1,0,0,,
 Seru Ralawa,Fiji,1934,Utility back,7,4,2,1,14,2,,
@@ -9316,7 +9316,7 @@ Emosi Dawai,Fiji,1947,Wing,1,1,0,0,3,1,,
 Luke Dawai,Fiji,1947,Forward,2,2,0,0,0,0,,
 Solomone Mataiyavi,Fiji,1947,Lock,2,2,0,0,0,0,,
 Onisimo Naikovu,Fiji,1947,Prop,4,3,1,0,0,0,,
-Tuiyau Naitini,Fiji,1947,Scrum-half,5,3,2,0,0,0,NA,Perú
+Tuiyau Naitini,Fiji,1947,Scrum-half,5,3,2,0,0,0,NA,
 Etuate Nima,Fiji,1947,Wing,3,2,1,0,12,4,,
 Manasa Nukuvou,Fiji,1947,Flanker,5,4,1,0,0,0,,
 Ilisoni Ravoka,Fiji,1947,Wing,4,3,1,0,6,2,,
@@ -9351,7 +9351,7 @@ Savenaca Pe,Fiji,1951,Prop,5,3,2,0,6,2,,
 Peni Tove,Fiji,1951,Prop,1,1,0,0,0,0,,
 Semesa Seruvatu,Fiji,1952,Lock,7,3,4,0,6,2,,
 Isikeli Cawa,Fiji,1952,Lock,3,3,0,0,0,0,,
-Samuela Domoni,Fiji,1952,Centre,3,2,1,0,3,1,NA,Nederland
+Samuela Domoni,Fiji,1952,Centre,3,2,1,0,3,1,NA,
 Navitalai Taga,Fiji,1952,Centre,1,1,0,0,0,0,,
 Mesake Biumaiwai,Fiji,1954,Centre,4,1,3,0,0,0,,
 Aminisitai Burogolevu,Fiji,1954,Wing,2,1,1,0,3,1,,
@@ -9374,11 +9374,11 @@ Jone Tabaiwalu,Fiji,1957,Lock,11,6,4,1,6,2,,
 Baniua Tanivukavu,Fiji,1957,Wing,1,1,0,0,0,0,,
 Nat Uluiviti,Fiji,1957,Fullback,3,2,1,0,23,0,Natauloa,
 Apenisa Kuruisaqila,Fiji,1957,Flanker,2,1,1,0,0,0,,
-Peni Wadali,Fiji,1957,Flanker,1,1,0,0,0,0,NA,Perú
+Peni Wadali,Fiji,1957,Flanker,1,1,0,0,0,0,NA,
 Kaiava Bose,Fiji,1958,Fly-half,7,2,4,1,8,0,,
 Ilaitia Ravouvou,Fiji,1958,Lock,4,2,2,0,0,0,,
 Maika Ravula,Fiji,1958,Flanker,3,2,1,0,6,2,,
-Inoke Tabualevu,Fiji,1958,Fullback,6,4,1,1,27,1,NA,Perú
+Inoke Tabualevu,Fiji,1958,Fullback,6,4,1,1,27,1,NA,
 Eremasi Lovodua,Fiji,1958,Wing,11,6,4,1,36,8,,
 Seru Tuisese,Fiji,1958,Fullback,8,5,3,0,3,0,,
 Patimio Tatukivei,Fiji,1958,Flanker,1,0,1,0,3,1,,
@@ -9387,7 +9387,7 @@ Suliasi Cavu,Fiji,1958,Prop,13,8,5,0,6,2,,
 Ulaiasi Radike,Fiji,1959,Wing,1,0,1,0,0,0,,
 Sakiusa Tuva,Fiji,1959,Hooker,4,0,3,1,0,0,,
 Eliki Gaunavou,Fiji,1961,Fullback,3,0,2,1,0,0,,
-Sailosi Kepa,Fiji,1961,Flanker,1,0,1,0,0,0,NA,Perú
+Sailosi Kepa,Fiji,1961,Flanker,1,0,1,0,0,0,NA,
 Jone Nabou,Fiji,1961,Flanker,3,0,2,1,3,1,,
 Joeli Naucabalavu,Fiji,1961,"Lock, No. 8",8,3,4,1,6,2,Kumi,Uganda
 Simione Rarasea,Fiji,1961,Centre,1,0,1,0,0,0,,
@@ -9422,9 +9422,9 @@ Setareki Vola,Fiji,1964,Centre,1,1,0,0,0,0,,
 Amenatave Gutugutuwai,Fiji,1967,Wing,4,2,2,0,3,1,,
 Moritikei Nabuta,Fiji,1967,Prop,9,7,2,0,6,2,,
 Kiniviliame Nalatu,Fiji,1967,Wing,6,1,3,2,3,1,,
-Samu Naqelevuki,Fiji,1967,Fullback,12,6,4,2,12,4,NA,Perú
+Samu Naqelevuki,Fiji,1967,Fullback,12,6,4,2,12,4,NA,
 Sakiasi Ose,Fiji,1967,Flanker,1,1,0,0,0,0,,
-Nasivi Ravouvou,Fiji,1967,Lock,18,8,8,2,15,5,NA,Perú
+Nasivi Ravouvou,Fiji,1967,Lock,18,8,8,2,15,5,NA,
 Setareki Tamanivalu,Fiji,1967,Flanker,3,2,0,1,0,0,,
 Sakopo Vodivodi,Fiji,1967,Scrum-half,3,2,0,1,3,0,,
 Vilaime Waka,Fiji,1967,Utility back,3,2,0,1,0,0,,
@@ -9455,20 +9455,20 @@ Ilaitia Tuisese,Fiji,1969,"Lock, No. 8",17,8,8,1,17,5,,
 Inia Namua,Fiji,1969,Centre,1,1,0,0,8,2,,
 Atonio Racika,Fiji,1969,Hooker,30,13,16,1,19,5,,
 Josateki Radrodro,Fiji,1970,Wing,3,1,1,1,3,1,,
-Jo Sovau,Fiji,1970,Prop,11,3,7,1,9,2,NA,Perú
+Jo Sovau,Fiji,1970,Prop,11,3,7,1,9,2,NA,
 Josaia Visei,Fiji,1970,Fullback,9,3,6,0,7,1,,
 Isimeli Batibasaga,Fiji,1970,Scrum-half,13,7,6,0,65,1,,
 Inoke Buadromo,Fiji,1970,Fullback,1,1,0,0,3,1,,
 Ravuama Latilevu,Fiji,1970,Centre,7,3,4,0,11,3,,
 Sitiveni Ligamamada Rabuka,Fiji,1970,Prop,2,2,0,0,0,0,,
-Vuniani Varo,Fiji,1970,Wing,7,5,2,0,33,8,NA,Perú
-Jope Jnr. Naucabalavu Jnr.,Fiji,1972,Lock,12,4,8,0,4,1,NA,Perú
+Vuniani Varo,Fiji,1970,Wing,7,5,2,0,33,8,NA,
+Jope Jnr. Naucabalavu Jnr.,Fiji,1972,Lock,12,4,8,0,4,1,NA,
 Tevita Rabuli,Fiji,1972,Centre,9,2,7,0,4,1,,
 Taito Rauluni,Fiji,1972,"Fullback, Scrum-half",3,1,2,0,0,0,,
 Wame Gavidi,Fiji,1972,"Wing, Centre",20,7,13,0,14,3,,
 Nimilote Ratudina,Fiji,1972,Prop,14,6,8,0,14,1,,
 Aminiasi Naituyaga,Fiji,1972,Fullback,5,0,5,0,9,0,,
-Rupeni Qaraniqio,Fiji,1972,Flanker,20,8,12,0,4,1,NA,Perú
+Rupeni Qaraniqio,Fiji,1972,Flanker,20,8,12,0,4,1,NA,
 Dan Lobendhan,Fiji,1973,Fly-half,3,1,2,0,4,1,"Vitawa, Rakiraki",Fiji
 Rodney Samuels,Fiji,1973,Flanker,6,1,5,0,0,0,,
 Joe Savou,Fiji,1973,Prop,1,0,1,0,0,0,,
@@ -9480,7 +9480,7 @@ Luke Namadila,Fiji,1973,Centre,4,1,3,0,0,0,,
 Seremaia Cavuilati,Fiji,1974,Wing,4,0,4,0,4,1,,
 Vilikesa Mocelutu,Fiji,1974,No. 8,3,0,3,0,12,3,Toki,Japan
 Watisoni Nasalo,Fiji,1974,Fly-half,3,0,3,0,0,0,,
-Isikeli Tasere,Fiji,1974,Prop,4,0,4,0,0,0,NA,Perú
+Isikeli Tasere,Fiji,1974,Prop,4,0,4,0,0,0,NA,
 Meli Masitabua,Fiji,1974,Fly-half,1,0,1,0,0,0,,
 Ilikimi Batibasaga,Fiji,1974,Wing,1,0,1,0,0,0,,
 Isikeli Cagilaba,Fiji,1974,No. 8,9,4,5,0,4,1,,
@@ -9525,13 +9525,13 @@ Ilikimi Kunagogo,Fiji,1980,Lock,3,0,3,0,0,0,,
 Sanivalati Laulau,Fiji,1980,Wing,32,15,16,1,80,20,,
 Isimeli Radrodro,Fiji,1980,Fly-half,3,1,2,0,3,0,,
 Eneri Ratudradra,Fiji,1980,Flanker,8,2,6,0,0,0,,
-Tuimasi Tubananitu,Fiji,1980,Prop,19,11,7,1,16,4,NA,Perú
+Tuimasi Tubananitu,Fiji,1980,Prop,19,11,7,1,16,4,NA,
 Lemeki Vuetaki,Fiji,1980,Fullback,3,1,2,0,15,0,,
 Vesivesi Bose,Fiji,1980,Utility back,1,0,1,0,0,0,,
 Kameli Nayacalevu,Fiji,1980,Centre,15,8,6,1,20,5,,
 Kata Ratumuri,Fiji,1980,Lock,3,2,1,0,4,1,,
 Sunia Seru,Fiji,1980,Hooker,2,0,2,0,0,0,,
-Vikikesa Vatuwaliwali,Fiji,1980,Flanker,16,7,8,1,0,0,NA,Perú
+Vikikesa Vatuwaliwali,Fiji,1980,Flanker,16,7,8,1,0,0,NA,
 Isimeli Cerelala,Fiji,1980,Lock,2,0,2,0,0,0,,
 Jone Ratu,Fiji,1980,"Fullback, Wing, Fly-half",11,4,6,1,6,0,,
 Navitalai Senilagakali,Fiji,1980,Fly-half,3,0,3,0,0,0,,
@@ -9547,25 +9547,25 @@ Esala Teleni,Fiji,1982,No. 8,23,9,13,1,32,8,,
 Sialeni Vuetaki,Fiji,1982,Prop,6,4,1,1,0,0,,
 Sela Gutugutuwai,Fiji,1982,Flanker,12,7,5,0,12,3,,
 Ilai Musunamasi,Fiji,1982,Fullback,4,2,2,0,22,0,,
-Willie Rokowailoa,Fiji,1982,Fly-half,17,9,8,0,66,3,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Willie Rokowailoa,Fiji,1982,Fly-half,17,9,8,0,66,3,NA,
 Peter Kean,Fiji,1982,Hooker,5,3,2,0,0,0,,
 Rusiate Namoro,Fiji,1982,"Prop, Hooker",22,8,14,0,8,2,,
 Waisale Natuna,Fiji,1982,Scrum-half,2,1,1,0,0,0,,
 Lewis Politini,Fiji,1982,Lock,4,1,3,0,4,1,Suva,Fiji
 Setareki Vero,Fiji,1982,Wing,5,1,4,0,8,2,,
-Kaiava Salusalu,Fiji,1982,Centre,14,8,6,0,36,9,NA,Perú
+Kaiava Salusalu,Fiji,1982,Centre,14,8,6,0,36,9,NA,
 Severo Koroduadua Waqanibau,Fiji,1982,Fullback,27,10,16,1,268,0,Galoa,Niger
 Isikeli Tikoduadua,Fiji,1982,Wing,3,0,3,0,0,0,,
 Josevata Naikidi,Fiji,1982,Lock,1,0,1,0,0,0,,
 Tiko Bucaonadi,Fiji,1983,Prop,2,1,1,0,0,0,,
-Paula Nawalu,Fiji,1983,Scrum-half,17,6,11,0,7,1,NA,Perú
-Koli Rokoroi,Fiji,1983,"Lock, No. 8",21,10,11,0,8,2,NA,Perú
+Paula Nawalu,Fiji,1983,Scrum-half,17,6,11,0,7,1,NA,
+Koli Rokoroi,Fiji,1983,"Lock, No. 8",21,10,11,0,8,2,NA,
 Samu Yalayala,Fiji,1983,Wing,10,7,3,0,27,6,,
 Dusilele Bola,Fiji,1983,Scrum-half,6,3,3,0,0,0,,
 Acura Niuqila,Fiji,1983,Wing,18,9,9,0,36,9,Wainibokasi,Fiji
 Sairusi Tabualevu,Fiji,1983,Hooker,1,0,1,0,0,0,,
-Epali Rakai,Fiji,1983,Hooker,17,7,10,0,0,0,NA,Perú
-Sairusi Naituku,Fiji,1983,Prop,18,8,9,1,4,1,NA,Perú
+Epali Rakai,Fiji,1983,Hooker,17,7,10,0,0,0,NA,
+Sairusi Naituku,Fiji,1983,Prop,18,8,9,1,4,1,NA,
 Emosi Katonitabua,Fiji,1984,Centre,6,3,3,0,0,0,,
 Peni Rauluni,Fiji,1984,Centre,5,3,2,0,8,2,,
 Epeli Turuva,Fiji,1984,Fullback,3,0,3,0,3,0,,
@@ -9573,7 +9573,7 @@ Ilaitia Savai,Fiji,1984,Lock,38,12,26,0,12,3,Nakalawaca,
 Inoke Tabualevu,Fiji,1984,Fullback,2,1,1,0,5,0,,
 Isikeli Leweniqila,Fiji,1984,Fly-half,1,0,1,0,2,0,,
 Belasio Vukiwai,Fiji,1984,Hooker,1,0,1,0,0,0,,
-Peceli Gale,Fiji,1984,No. 8,12,5,6,1,12,3,NA,Perú
+Peceli Gale,Fiji,1984,No. 8,12,5,6,1,12,3,NA,
 Solomoni Rasolea,Fiji,1984,Wing,5,2,3,0,4,1,,
 Nemani Matirewa,Fiji,1984,Flanker,4,2,2,0,0,0,,
 Tevita Tukunia,Fiji,1984,Fly-half,1,1,0,0,0,0,,
@@ -9583,88 +9583,88 @@ Bruce Naulago,Fiji,1985,Prop,2,1,1,0,4,1,,
 Rusiate Cavubulu,Fiji,1985,No. 8,4,2,2,0,4,1,,
 Mosese Nabati,Fiji,1985,Wing,4,0,4,0,0,0,,
 Jo Qoro,Fiji,1985,Flanker,1,0,1,0,0,0,,
-Tomasi Cama,Fiji,1985,Centre,13,4,9,0,8,2,NA,Perú
+Tomasi Cama,Fiji,1985,Centre,13,4,9,0,8,2,NA,
 Semi Talawadua,Fiji,1985,Fly-half,1,0,1,0,4,1,,
-Serupepeli Tuvula,Fiji,1985,Wing,7,1,6,0,8,2,NA,Perú
+Serupepeli Tuvula,Fiji,1985,Wing,7,1,6,0,8,2,NA,
 Aliposo Waqaliti,Fiji,1985,Flanker,1,0,1,0,0,0,,
-Jimi Damu,Fiji,1985,Wing,4,0,4,0,14,1,NA,Sverige
-Peni Volavola,Fiji,1985,Prop,11,4,7,0,0,0,NA,Austria
-Jone Kubu,Fiji,1985,Fullback,11,4,7,0,6,0,NA,Perú
-Savenaca Aria,Fiji,1986,Centre,10,1,7,2,8,2,NA,Россия
-Alifereti Dere Ratu,Fiji,1986,Flanker,12,4,8,0,0,0,NA,Sverige
-Sirilo Lovokuru,Fiji,1986,"Centre, Fly-half",4,2,2,0,24,1,NA,Perú
+Jimi Damu,Fiji,1985,Wing,4,0,4,0,14,1,NA,
+Peni Volavola,Fiji,1985,Prop,11,4,7,0,0,0,NA,
+Jone Kubu,Fiji,1985,Fullback,11,4,7,0,6,0,NA,
+Savenaca Aria,Fiji,1986,Centre,10,1,7,2,8,2,NA,
+Alifereti Dere Ratu,Fiji,1986,Flanker,12,4,8,0,0,0,NA,
+Sirilo Lovokuru,Fiji,1986,"Centre, Fly-half",4,2,2,0,24,1,NA,
 Ifereimi Tawake,Fiji,1986,"Lock, Flanker",46,16,29,1,25,4,Sigatoka,Fiji
-Saula Bueta,Fiji,1986,Flanker,1,0,1,0,0,0,NA,Austria
-Osea Koliloa,Fiji,1986,Flanker,3,2,1,0,4,1,NA,Perú
+Saula Bueta,Fiji,1986,Flanker,1,0,1,0,0,0,NA,
+Osea Koliloa,Fiji,1986,Flanker,3,2,1,0,4,1,NA,
 Viliame Lilidamu,Fiji,1986,Wing,3,2,1,0,0,0,,
 Tom Mitchell,Fiji,1986,"Wing, Centre",11,5,4,2,24,6,Taveuni,Fiji
-Salacieli Naivilawasa,Fiji,1986,Hooker,21,9,10,2,8,2,NA,Sverige
-Pauliasi Tabulutu,Fiji,1986,Scrum-half,18,9,8,1,4,1,NA,Danmark
+Salacieli Naivilawasa,Fiji,1986,Hooker,21,9,10,2,8,2,NA,
+Pauliasi Tabulutu,Fiji,1986,Scrum-half,18,9,8,1,4,1,NA,
 Waisake Turaga,Fiji,1986,Fly-half,1,0,1,0,0,0,,
 Fabiano Vakadrano,Fiji,1986,Wing,1,0,1,0,0,0,,
-Kavekini Nalaga,Fiji,1986,Wing,3,3,0,0,4,1,NA,Perú
-Ilaitia Ravouvou,Fiji,1986,"Fly-half, Wing",4,4,0,0,12,3,NA,Perú
+Kavekini Nalaga,Fiji,1986,Wing,3,3,0,0,4,1,NA,
+Ilaitia Ravouvou,Fiji,1986,"Fly-half, Wing",4,4,0,0,12,3,NA,
 Peni Tora,Fiji,1986,Flanker,2,2,0,0,0,0,,
 Epineri Naituku,Fiji,1987,Centre,2,1,1,0,0,0,,
-Manasa Qoro,Fiji,1987,Flanker,4,2,2,0,11,2,NA,Perú
-John Sanday,Fiji,1987,"Lock, No. 8",2,1,1,0,0,0,NA,Perú
-Samu Vunivalu,Fiji,1987,Flanker,3,1,2,0,0,0,NA,Perú
+Manasa Qoro,Fiji,1987,Flanker,4,2,2,0,11,2,NA,
+John Sanday,Fiji,1987,"Lock, No. 8",2,1,1,0,0,0,NA,
+Samu Vunivalu,Fiji,1987,Flanker,3,1,2,0,0,0,NA,
 Jioji Cama,Fiji,1987,Lock,1,0,1,0,4,1,,
-Livai Kididromo,Fiji,1987,Flanker,4,0,2,2,0,0,NA,Perú
+Livai Kididromo,Fiji,1987,Flanker,4,0,2,2,0,0,NA,
 Mosese Taga,Fiji,1987,"Prop, Hooker",34,13,20,1,4,1,Nailaga,
-Aisake Nadolo,Fiji,1987,Lock,23,8,14,1,5,1,NA,Россия
+Aisake Nadolo,Fiji,1987,Lock,23,8,14,1,5,1,NA,
 Tukeli Nakauta,Fiji,1987,Flanker,3,3,0,0,0,0,,
 Niko Baleiverata,Fiji,1988,Wing,4,2,1,1,0,0,,
 Kini Malai,Fiji,1988,Fly-half,3,2,0,1,4,1,,
-Noa Nadruku,Fiji,1988,Centre,13,5,6,2,8,2,NA,Danmark
+Noa Nadruku,Fiji,1988,Centre,13,5,6,2,8,2,NA,
 Ilisoni Naituku,Fiji,1988,Prop,7,2,4,1,0,0,,
-Pita Naruma,Fiji,1988,Flanker,15,4,10,1,4,1,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Max Olsson,Fiji,1988,"No. 8, Lock",7,3,4,0,12,3,NA,Danmark
+Pita Naruma,Fiji,1988,Flanker,15,4,10,1,4,1,NA,
+Max Olsson,Fiji,1988,"No. 8, Lock",7,3,4,0,12,3,NA,
 Mesake Rasari,Fiji,1988,Lock,10,4,4,2,16,4,,
 Kinijoji Sarai,Fiji,1988,Fullback,3,2,0,1,24,0,,
-Sakeasi Vonalagi,Fiji,1988,Back-row,9,2,5,2,9,2,NA,Danmark
+Sakeasi Vonalagi,Fiji,1988,Back-row,9,2,5,2,9,2,NA,
 Mesake Seavula,Fiji,1988,Scrum-half,3,2,0,1,4,1,,
 John Edwards,Fiji,1988,Fly-half,1,0,0,1,0,0,,
 Aporosa Ranuku Kenatale,Fiji,1988,Prop,1,0,0,1,0,0,,
 Waisale Vatubua,Fiji,1988,Wing,2,1,0,1,8,2,,
-Meli Radrekusa,Fiji,1988,Lock,1,1,0,0,0,0,NA,Nederland
-Tevita Vonolagi,Fiji,1988,Wing,16,7,9,0,42,7,NA,Austria
-Luke Erenavula,Fiji,1989,Wing,7,3,4,0,8,2,NA,Danmark
+Meli Radrekusa,Fiji,1988,Lock,1,1,0,0,0,0,NA,
+Tevita Vonolagi,Fiji,1988,Wing,16,7,9,0,42,7,NA,
+Luke Erenavula,Fiji,1989,Wing,7,3,4,0,8,2,NA,
 Aminiasi Radrodro,Fiji,1989,Fly-half,2,1,1,0,0,0,,
 Isikeli Waqavatu,Fiji,1989,Wing,4,2,2,0,8,2,,
 Joeli Vulavou,Fiji,1989,Scrum-half,1,0,1,0,0,0,,
 Waisale Serevi,Fiji,1989,Utility back,38,15,23,0,221,11,Suva,Fiji
-Tomasi Lovo,Fiji,1989,"Fly-half, Wing",9,2,7,0,8,1,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Tomasi Lovo,Fiji,1989,"Fly-half, Wing",9,2,7,0,8,1,NA,
 Lekima Vasuvulagi,Fiji,1989,Scrum-half,3,1,2,0,0,0,,
 Mosese Natuilagilagi,Fiji,1989,Fullback,8,3,5,0,14,3,,
 Vuata Narisia,Fiji,1990,Fly-half,2,2,0,0,0,0,,
 Alipate Rabitu,Fiji,1990,Hooker,5,1,4,0,0,0,,
 Ilie Tabua Tamanivalu,Fiji,1990,Flanker,26,19,7,0,15,3,Naivicula,Fiji
-Timoci Wainiqolo,Fiji,1990,Flanker,5,4,1,0,4,1,NA,Россия
+Timoci Wainiqolo,Fiji,1990,Flanker,5,4,1,0,4,1,NA,
 Sunia Banuve,Fiji,1990,Centre,1,1,0,0,0,0,,
-Epeli Naituivau,Fiji,1990,Prop,22,9,13,0,9,2,NA,Sverige
-Fili Seru,Fiji,1990,Wing,10,4,6,0,16,4,NA,Danmark
-Vesito Rauluni,Fiji,1990,"Centre, Wing",4,1,3,0,8,2,NA,Danmark
-Dranivesi Baleiwei,Fiji,1990,Hooker,5,2,3,0,0,0,NA,Россия
-Sam Domoni,Fiji,1990,Lock,6,3,3,0,0,0,NA,Nederland
+Epeli Naituivau,Fiji,1990,Prop,22,9,13,0,9,2,NA,
+Fili Seru,Fiji,1990,Wing,10,4,6,0,16,4,NA,
+Vesito Rauluni,Fiji,1990,"Centre, Wing",4,1,3,0,8,2,NA,
+Dranivesi Baleiwei,Fiji,1990,Hooker,5,2,3,0,0,0,NA,
+Sam Domoni,Fiji,1990,Lock,6,3,3,0,0,0,NA,
 Niumaia Korovata,Fiji,1990,Wing,3,2,1,0,16,4,,
 Waisea Suka,Fiji,1990,Scrum-half,3,1,2,0,14,1,,
-Opeti Turuva,Fiji,1990,Fullback,11,4,7,0,58,1,NA,Danmark
+Opeti Turuva,Fiji,1990,Fullback,11,4,7,0,58,1,NA,
 Pio Kubuwai,Fiji,1991,Flanker,2,1,1,0,4,1,,
-Kalaveti Naisoro,Fiji,1991,Centre,5,2,3,0,8,2,NA,Nederland
-Tomasi Rabaka,Fiji,1991,Fly-half,4,2,2,0,24,1,NA,Danmark
-Sekove Sadria,Fiji,1991,Prop,7,1,6,0,0,0,NA,Danmark
+Kalaveti Naisoro,Fiji,1991,Centre,5,2,3,0,8,2,NA,
+Tomasi Rabaka,Fiji,1991,Fly-half,4,2,2,0,24,1,NA,
+Sekove Sadria,Fiji,1991,Prop,7,1,6,0,0,0,NA,
 Pita Dau,Fiji,1991,Fly-half,3,1,2,0,12,0,,
-Laisenia Katonawale,Fiji,1991,Flanker,4,2,2,0,0,0,NA,Danmark
-Joeli Taqaiwai,Fiji,1991,"Centre, Wing",2,1,1,0,4,1,NA,Россия
-Mosese Vosanibole,Fiji,1991,Scrum-half,2,1,1,0,0,0,NA,Sverige
-Naibuka Vuli,Fiji,1991,Prop,5,1,4,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Lemeki Koroi,Fiji,1992,Centre,4,1,3,0,0,0,NA,Nederland
+Laisenia Katonawale,Fiji,1991,Flanker,4,2,2,0,0,0,NA,
+Joeli Taqaiwai,Fiji,1991,"Centre, Wing",2,1,1,0,4,1,NA,
+Mosese Vosanibole,Fiji,1991,Scrum-half,2,1,1,0,0,0,NA,
+Naibuka Vuli,Fiji,1991,Prop,5,1,4,0,0,0,NA,
+Lemeki Koroi,Fiji,1992,Centre,4,1,3,0,0,0,NA,
 Sami Rabaka Nasagavesi,Fiji,1992,Scrum-half,29,15,14,0,14,3,Nadi,Fiji
 Isaia Rasila,Fiji,1992,"Prop, Hooker",34,18,16,0,10,2,Vunavutu,
 Viliame Rauluni,Fiji,1992,Centre,3,1,2,0,0,0,,
 Viliame Sovalevu,Fiji,1992,Wing,2,0,2,0,0,0,,
-Seta Tawake Naivaluwaqa,Fiji,1992,Flanker,22,11,11,0,10,2,NA,Nederland
+Seta Tawake Naivaluwaqa,Fiji,1992,Flanker,22,11,11,0,10,2,NA,
 Mesake Navugona,Fiji,1992,Wing,2,0,2,0,0,0,,
 Sakeasi Verevuni,Fiji,1992,Prop,2,0,2,0,0,0,,
 Anasa Koroitamana,Fiji,1992,Scrum-half,1,0,1,0,0,0,,
@@ -9672,15 +9672,15 @@ Gabirieli Naborisi,Fiji,1992,Flanker,1,0,1,0,0,0,,
 Eliki Tikodraubuta,Fiji,1992,Utility back,1,0,1,0,6,0,,
 Jioji Vatubua,Fiji,1992,Centre,1,0,1,0,0,0,,
 Aisea Komaitai,Fiji,1992,Wing,3,0,3,0,0,0,,
-Esala Nauga,Fiji,1992,Centre,8,1,7,0,0,0,NA,Danmark
-Eparama Tuivunivono,Fiji,1992,Flanker,5,1,4,0,0,0,NA,Danmark
+Esala Nauga,Fiji,1992,Centre,8,1,7,0,0,0,NA,
+Eparama Tuivunivono,Fiji,1992,Flanker,5,1,4,0,0,0,NA,
 Joeli Matanatabu,Fiji,1993,Flanker,2,0,2,0,0,0,,
 Waisea Mateiwai,Fiji,1993,Centre,3,1,2,0,0,0,,
 Apenisa Sassen,Fiji,1993,Hooker,1,1,0,0,0,0,,
-Eminoni Batimala,Fiji,1994,Hooker,12,4,8,0,5,1,NA,Danmark
+Eminoni Batimala,Fiji,1994,Hooker,12,4,8,0,5,1,NA,
 Jonas Campbell,Fiji,1994,Flanker,6,1,5,0,0,0,,
 Maka Kafoa,Fiji,1994,Lock,2,0,2,0,0,0,,
-Alfi Mocelutu Vuivau,Fiji,1994,No. 8,36,17,19,0,20,4,NA,Россия
+Alfi Mocelutu Vuivau,Fiji,1994,No. 8,36,17,19,0,20,4,NA,
 Apisai Mucunabitu,Fiji,1994,Centre,2,0,2,0,0,0,,
 Gabrieli Penjueli,Fiji,1994,Hooker,1,0,1,0,0,0,,
 Ilaisa Saukuru,Fiji,1994,Fullback,3,0,3,0,8,0,,
@@ -9692,22 +9692,22 @@ Livai Rasala,Fiji,1994,Prop,2,0,2,0,0,0,,
 Joeli Vidiri,Fiji,1994,Wing,9,2,7,0,30,6,Nausori Highland,
 Napolini Vitau,Fiji,1994,Scrum-half,2,0,2,0,0,0,,
 Rasolosolo Bogisa,Fiji,1994,Prop,4,0,4,0,3,0,Nadi,Fiji
-Jason McLennan,Fiji,1994,Scrum-half,9,4,5,0,0,0,NA,Danmark
+Jason McLennan,Fiji,1994,Scrum-half,9,4,5,0,0,0,NA,
 Sitaveni Matalulu,Fiji,1994,Flanker,3,1,2,0,0,0,,
-Filipe Rayasi,Fiji,1994,Fullback,13,4,9,0,20,4,NA,Nederland
+Filipe Rayasi,Fiji,1994,Fullback,13,4,9,0,20,4,NA,
 Joni Toloi,Fiji,1994,Centre,4,1,3,0,0,0,,
 Joeli Veitayaki,Fiji,1994,Prop,49,26,23,0,15,3,Matuku,Fiji
 Ron Williams,Fiji,1994,Prop,4,1,3,0,0,0,,
-Marika Korovou,Fiji,1994,Flanker,4,1,3,0,0,0,NA,Россия
-Paula Bale,Fiji,1995,Wing,5,1,4,0,5,1,NA,Danmark
+Marika Korovou,Fiji,1994,Flanker,4,1,3,0,0,0,NA,
+Paula Bale,Fiji,1995,Wing,5,1,4,0,5,1,NA,
 Lawrence Little,Fiji,1995,Centre,16,8,8,0,5,1,Tokoroa,NewZealand
 Dan Rouse,Fiji,1995,Prop,28,15,13,0,5,1,Suva,Fiji
 Sale Sorovaki,Fiji,1995,Centre,19,8,11,0,10,2,Kadavu,Fiji
 Emori Katalau,Fiji,1995,Lock,48,25,23,0,20,4,Rakiraki,Fiji
 Jacob Rauluni,Fiji,1995,Scrum-half,49,26,23,0,30,6,Suva,Fiji
-Manasa Bari,Fiji,1995,Wing,18,9,9,0,60,12,NA,Austria
+Manasa Bari,Fiji,1995,Wing,18,9,9,0,60,12,NA,
 Billy Cavubati,Fiji,1995,Prop,27,13,14,0,0,0,Ba,France
-Waisiki Masirewa Loco,Fiji,1995,Flanker,5,1,4,0,5,1,NA,Danmark
+Waisiki Masirewa Loco,Fiji,1995,Flanker,5,1,4,0,5,1,NA,
 Greg Smith,Fiji,1995,Hooker,44,24,20,0,5,1,Hamilton,NewZealand
 Tomasi Tamanivalu,Fiji,1995,Flanker,8,3,5,0,0,0,,
 Jone Waqabitu,Fiji,1995,Fullback,17,8,9,0,28,4,Sigatoka,Fiji
@@ -9719,65 +9719,65 @@ Sunia Nasilasila,Fiji,1996,Wing,2,2,0,0,5,1,,
 Apenisa Naevo,Fiji,1996,"Lock, Flanker",34,20,14,0,30,6,Nadi,Fiji
 Niko Qoro,Fiji,1996,Prop,10,6,4,0,0,0,Tavua,Fiji
 A. Naqicu,Fiji,1996,NA,2,2,0,0,5,1,,
-Setoki Niqara,Fiji,1996,Lock,2,1,1,0,5,1,NA,Россия
-Jone Vakaloloma,Fiji,1996,Scrum-half,1,1,0,0,0,0,NA,Nederland
+Setoki Niqara,Fiji,1996,Lock,2,1,1,0,5,1,NA,
+Jone Vakaloloma,Fiji,1996,Scrum-half,1,1,0,0,0,0,NA,
 Ilaitia Vuiyasawa,Fiji,1996,Fly-half,1,1,0,0,0,0,,
 Moses Rauluni,Fiji,1996,Scrum-half,53,24,29,0,20,4,Suva,Fiji
-Fero Lasagavibau,Fiji,1997,Wing,23,11,12,0,80,16,NA,Россия
-Aminiasi Naituyaga,Fiji,1997,Flanker,4,2,2,0,0,0,NA,Danmark
+Fero Lasagavibau,Fiji,1997,Wing,23,11,12,0,80,16,NA,
+Aminiasi Naituyaga,Fiji,1997,Flanker,4,2,2,0,0,0,NA,
 Simon Raiwalui,Fiji,1997,Lock,46,26,20,0,20,4,Auckland,NewZealand
 Meli Tamanitoakula,Fiji,1998,Flanker,3,1,2,0,0,0,,
 Sikeli Nasau,Fiji,1998,"Prop, Hooker",1,1,0,0,0,0,Lautoka,Fiji
 Samu Saumaisue,Fiji,1998,Flanker,3,2,1,0,0,0,,
-Meli Nakauta,Fiji,1998,Centre,9,6,3,0,5,1,NA,Nederland
+Meli Nakauta,Fiji,1998,Centre,9,6,3,0,5,1,NA,
 Inoke Male,Fiji,1998,No. 8,15,10,5,0,5,1,Nausori,Fiji
-Aparama Bosekora,Fiji,1998,Wing,1,1,0,0,0,0,NA,Nederland
+Aparama Bosekora,Fiji,1998,Wing,1,1,0,0,0,0,NA,
 Viliame Satala,Fiji,1999,Centre,29,14,15,0,80,16,Lautoka,Fiji
 Koli Sewabu,Fiji,1999,Back-row,24,14,10,0,15,3,Suva,Fiji
 Waisake Sotutu,Fiji,1999,"Wing, Centre",12,8,4,0,10,2,Suva,Fiji
 Marika Vunibaka,Fiji,1999,Wing,17,11,6,0,40,8,Suva,Fiji
 Manu Tikomaimakogai,Fiji,1999,Wing,11,7,4,0,45,9,Nausori,Fiji
-Jope Tuikabe,Fiji,1999,Back-row,17,10,7,0,15,3,NA,Danmark
-Sikeli Qauqau,Fiji,1999,Utility back,1,0,1,0,5,1,NA,Danmark
+Jope Tuikabe,Fiji,1999,Back-row,17,10,7,0,15,3,NA,
+Sikeli Qauqau,Fiji,1999,Utility back,1,0,1,0,5,1,NA,
 Tabai Matson,Fiji,1999,Centre,2,1,1,0,0,0,Nausori,Fiji
-Paula Biutanaseva,Fiji,1999,Prop,13,8,5,0,0,0,NA,Danmark
+Paula Biutanaseva,Fiji,1999,Prop,13,8,5,0,0,0,NA,
 Alifereti Doviverata,Fiji,1999,No. 8,42,22,20,0,25,5,Suva,Fiji
-Sirilo Lala Ragata,Fiji,1999,Utility back,5,4,1,0,5,1,NA,Danmark
+Sirilo Lala Ragata,Fiji,1999,Utility back,5,4,1,0,5,1,NA,
 Sailosi Naiteqe,Fiji,2000,Flanker,6,4,2,0,0,0,Nausori,Fiji
-Saimoni Rokini,Fiji,2000,"Wing, Centre",10,8,2,0,5,1,NA,Danmark
-Kameli Tilalati,Fiji,2000,Centre,2,1,1,0,0,0,NA,Россия
+Saimoni Rokini,Fiji,2000,"Wing, Centre",10,8,2,0,5,1,NA,
+Kameli Tilalati,Fiji,2000,Centre,2,1,1,0,0,0,NA,
 Seremaia Baikeinuku,Fiji,2000,"Fly-half, Centre",58,26,31,1,332,5,Nausori,Fiji
-Peniasi Damu,Fiji,2000,"Prop, Hooker",10,7,3,0,0,0,NA,Danmark
+Peniasi Damu,Fiji,2000,"Prop, Hooker",10,7,3,0,0,0,NA,
 Bill Gadolo,Fiji,2000,Hooker,20,10,10,0,5,1,Suva,Fiji
 Alipate Naqaya,Fiji,2000,Wing,2,2,0,0,0,0,Sigatoka,Fiji
 Seru Rabeni,Fiji,2000,Centre,39,18,21,0,29,5,Bua,Fiji
 Ilaitia Tuisese,Fiji,2000,Back-row,2,1,1,0,0,0,Nausori,Fiji
 Norman Ligairi,Fiji,2000,Wing,52,25,27,0,80,16,Nadi,Fiji
-Jolame Nadolo,Fiji,2000,Wing,5,4,1,0,0,0,NA,Austria
+Jolame Nadolo,Fiji,2000,Wing,5,4,1,0,0,0,NA,
 Vilimoni Delasau,Fiji,2000,Wing,32,16,16,0,65,13,Ba,France
-Kameli Natoba,Fiji,2000,Fullback,6,5,1,0,15,3,NA,Austria
+Kameli Natoba,Fiji,2000,Fullback,6,5,1,0,15,3,NA,
 Henry Qiodravu,Fiji,2000,Prop,18,10,8,0,0,0,Suva,Fiji
 Semisi Dakuiyaco,Fiji,2000,Lock,1,1,0,0,0,0,Suva,Fiji
 Dan Baleinadogo,Fiji,2001,Centre,10,7,3,0,0,0,Suva,Fiji
 Joseph Koroiadi,Fiji,2001,No. 8,1,0,1,0,0,0,,
-Epeli Ratuniata,Fiji,2001,Prop,4,2,2,0,0,0,NA,Россия
+Epeli Ratuniata,Fiji,2001,Prop,4,2,2,0,0,0,NA,
 Sisa Koyamaibole,Fiji,2001,No. 8,53,22,30,1,15,3,Suva,Fiji
 Adriu Rinakama,Fiji,2001,Wing,3,3,0,0,0,0,Tavua,Fiji
-Pita Bolea,Fiji,2001,Wing,1,1,0,0,0,0,NA,Danmark
+Pita Bolea,Fiji,2001,Wing,1,1,0,0,0,0,NA,
 Sunia Sevu,Fiji,2001,Flanker,1,1,0,0,0,0,Nausori,Fiji
 Mesake Davu,Fiji,2001,No. 8,2,0,2,0,0,0,Nadi,Fiji
 Isoa Domolailai,Fiji,2001,Lock,13,5,8,0,0,0,Sigatoka,Fiji
 Apisai Nagi Mavua,Fiji,2001,Prop,11,6,5,0,0,0,Navua,Fiji
-Ilai Derenalagi,Fiji,2001,Wing,1,0,1,0,0,0,NA,Россия
+Ilai Derenalagi,Fiji,2001,Wing,1,0,1,0,0,0,NA,
 Richard Nyholt,Fiji,2001,Prop,13,6,7,0,0,0,Lautoka,Fiji
 Emori Tuisese,Fiji,2001,Centre,1,0,1,0,0,0,,
 Tevita Latianara,Fiji,2002,Wing,2,2,0,0,5,1,Suva,Fiji
 Isaac Mow,Fiji,2002,Centre,5,3,2,0,10,2,Korovou,Fiji
-Joseph Narruhn,Fiji,2002,"Wing, Fly-half",8,3,5,0,39,3,NA,Austria
+Joseph Narruhn,Fiji,2002,"Wing, Fly-half",8,3,5,0,39,3,NA,
 Ifereimi Rawaqa,Fiji,2002,Lock,42,18,23,1,15,3,Lautoka,Fiji
 Senirusi Seruvakula,Fiji,2002,Flanker,1,1,0,0,0,0,Suva,Fiji
 Epeli Ruivadra,Fiji,2002,"Centre, Wing",17,8,9,0,5,1,Nausori,Fiji
-Timoci Yacabula,Fiji,2002,Lock,3,2,1,0,0,0,NA,Россия
+Timoci Yacabula,Fiji,2002,Lock,3,2,1,0,0,0,NA,
 Atonio Nariva,Fiji,2002,Fullback,3,1,2,0,0,0,Namosi,Fiji
 Kele Leawere,Fiji,2002,Lock,28,14,14,0,25,5,Sigatoka,Fiji
 Kitione Salawa,Fiji,2003,Flanker,6,2,4,0,0,0,Lautoka,Fiji
@@ -9993,7 +9993,7 @@ Masao Yoshida,Japan,1974,Centre,18,4,14,0,12,3,,
 Hitoshi Kano,Japan,1974,Centre,2,1,1,0,6,1,,
 Osamu Koyabu,Japan,1974,Fly-half,1,1,0,0,4,1,,
 Susumu Kurihara,Japan,1974,Wing,1,1,0,0,4,1,,
-Yuji Matsuo,Japan,1974,Fly-half,24,8,15,1,73,3,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Yuji Matsuo,Japan,1974,Fly-half,24,8,15,1,73,3,NA,
 Nobufumi Tanaka,Japan,1974,"Centre, Fullback",15,5,10,0,44,2,,
 Shigeru Toyoda,Japan,1974,Lock,1,1,0,0,0,0,,
 Osamu Yamashita,Japan,1974,Flanker,1,1,0,0,0,0,,
@@ -10026,15 +10026,15 @@ Mitsuru Sakamoto,Japan,1978,Flanker,3,2,1,0,4,1,,
 Toshihiko Kitahara,Japan,1978,Lock,1,1,0,0,0,0,,
 Takeaki Toyoda,Japan,1978,Prop,1,1,0,0,4,1,,
 Tetsuro Yajima,Japan,1978,Centre,3,1,2,0,0,0,,
-Koji Horaguchi,Japan,1979,Prop,24,5,18,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Koji Horaguchi,Japan,1979,Prop,24,5,18,1,0,0,NA,
 Naohisa Tanifuji,Japan,1979,Fullback,14,4,10,0,8,2,,
 Takashi Kudo-Nakayama,Japan,1979,Wing,1,0,1,0,0,0,,
 Hideo Toshima,Japan,1979,Centre,14,5,8,1,32,8,,
 Kazuo Sejimo,Japan,1979,No. 8,13,5,7,1,4,1,,
-Michihito Chida,Japan,1980,No. 8,26,8,16,2,16,4,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Michihito Chida,Japan,1980,No. 8,26,8,16,2,16,4,NA,
 Jiro Ishiyama,Japan,1980,Prop,18,5,12,1,4,1,,
 Hiroaki Takahashi,Japan,1980,Flanker,1,0,0,1,0,0,,
-Tsuyoshi Fujita,Japan,1980,Hooker,32,7,24,1,16,4,NA,Sverige
+Tsuyoshi Fujita,Japan,1980,Hooker,32,7,24,1,16,4,NA,
 Takashi Ito,Japan,1980,Flanker,8,4,4,0,0,0,,
 Hikaru Kawachi,Japan,1980,Flanker,10,3,7,0,8,2,,
 Shinichi Oikawa,Japan,1980,Fly-half,1,0,1,0,5,0,,
@@ -10050,43 +10050,43 @@ Masahiro Inoue,Japan,1982,Hooker,5,2,3,0,0,0,,
 Takao Ooba,Japan,1982,Prop,1,0,1,0,0,0,,
 Takanobu Kondo,Japan,1982,Lock,2,0,2,0,0,0,,
 Seiji Hirao,Japan,1982,Fly-half,35,7,27,1,18,1,Kyoto,Japan
-Yasuharu Kawase,Japan,1982,Flanker,10,1,9,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Yasuharu Kawase,Japan,1982,Flanker,10,1,9,0,0,0,NA,
 Kimitaka Morioka,Japan,1982,Fly-half,1,0,1,0,0,0,,
 Noboru Watanabe,Japan,1982,NA,1,0,1,0,0,0,,
 Koji Kawachi,Japan,1983,Lock,2,1,1,0,0,0,,
 Hideo Kobayashi,Japan,1983,Centre,7,1,6,0,23,0,,
-Atsushi Oyagi,Japan,1983,Lock,30,6,23,1,12,3,NA,Sverige
+Atsushi Oyagi,Japan,1983,Lock,30,6,23,1,12,3,NA,
 Kenzo Takada,Japan,1983,Flanker,1,0,1,0,0,0,,
 Tetsuya Higashida,Japan,1983,Wing,1,0,1,0,0,0,,
-Toshitaka Kimura,Japan,1984,Prop,10,1,9,0,0,0,NA,Austria
+Toshitaka Kimura,Japan,1984,Prop,10,1,9,0,0,0,NA,
 Masahiko Koshiyama,Japan,1984,Flanker,10,2,8,0,4,1,,
-Shinji Onuki,Japan,1984,Wing,15,2,12,1,12,3,NA,Sverige
+Shinji Onuki,Japan,1984,Wing,15,2,12,1,12,3,NA,
 Masato Yasuda,Japan,1984,Fullback,1,0,1,0,0,0,,
-Masaharu Aizawa,Japan,1984,Prop,11,2,8,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Toshiro Yoshino,Japan,1985,Utility back,7,0,7,0,4,1,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Shogo Mukai,Japan,1985,Fullback,13,1,11,1,0,0,NA,Sverige
-Daijiro Murai,Japan,1985,Fullback,8,0,8,0,4,1,NA,Sverige
+Masaharu Aizawa,Japan,1984,Prop,11,2,8,1,0,0,NA,
+Toshiro Yoshino,Japan,1985,Utility back,7,0,7,0,4,1,NA,
+Shogo Mukai,Japan,1985,Fullback,13,1,11,1,0,0,NA,
+Daijiro Murai,Japan,1985,Fullback,8,0,8,0,4,1,NA,
 Yoshifumi Kasai,Japan,1985,Flanker,2,0,2,0,0,0,,
-Eiji Kutsuki,Japan,1985,Centre,30,10,19,1,39,9,NA,Sverige
+Eiji Kutsuki,Japan,1985,Centre,30,10,19,1,39,9,NA,
 Toshihiro Matsunaga,Japan,1985,Centre,2,0,2,0,0,0,,
-Nofomuli Taumoefolau,Japan,1979,Wing,18,4,13,1,20,5,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Nofomuli Taumoefolau,Japan,1979,Wing,18,4,13,1,20,5,NA,
 Masato Tsuchida,Japan,1985,Flanker,1,0,1,0,0,0,,
 Kinya Konishi,Japan,1986,Lock,2,0,1,1,0,0,,
 Katsuhiro Matsuo,Japan,1986,Fly-half,23,8,14,1,61,3,Miyazaki,Japan
 Osamu Ota,Japan,1986,Prop,27,10,16,1,5,1,Akitai,
-Hopoi Taione,Japan,1986,No. 8,4,1,2,1,0,0,NA,Philippines
-Koji Yasumi,Japan,1986,Prop,3,1,2,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Hopoi Taione,Japan,1986,No. 8,4,1,2,1,0,0,NA,
+Koji Yasumi,Japan,1986,Prop,3,1,2,0,0,0,NA,
 Katsunori Ishii,Japan,1986,Fullback,1,0,1,0,0,0,,
-Seiji Kurihara,Japan,1986,Lock,3,0,3,0,0,0,NA,Россия
+Seiji Kurihara,Japan,1986,Lock,3,0,3,0,0,0,NA,
 Yoshihiko Sakuraba,Japan,1986,Lock,43,17,26,0,5,1,Akita,Japan
-Katsufumi Miyamoto,Japan,1986,Flanker,9,0,9,0,4,1,NA,Danmark
+Katsufumi Miyamoto,Japan,1986,Flanker,9,0,9,0,4,1,NA,
 Yuji Masutome,Japan,1986,Hooker,1,0,1,0,0,0,,
-Kojiro Yoshinaga,Japan,1986,Centre,6,0,6,0,11,2,NA,Sverige
-Hisataka Ikuta,Japan,1987,Scrum-half,4,0,4,0,0,0,NA,Sverige
+Kojiro Yoshinaga,Japan,1986,Centre,6,0,6,0,11,2,NA,
+Hisataka Ikuta,Japan,1987,Scrum-half,4,0,4,0,0,0,NA,
 Sinali-Tui Latu,Japan,1984,No. 8,34,11,23,0,18,4,Ha'apai,Tonga
-Mitsutake Hagimoto,Japan,1987,Scrum-half,1,0,1,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Minoru Okidoi,Japan,1987,Wing,4,0,4,0,25,2,NA,Danmark
-Tsutomu Hirose,Japan,1987,Hooker,3,0,3,0,0,0,NA,Austria
+Mitsutake Hagimoto,Japan,1987,Scrum-half,1,0,1,0,0,0,NA,
+Minoru Okidoi,Japan,1987,Wing,4,0,4,0,25,2,NA,
+Tsutomu Hirose,Japan,1987,Hooker,3,0,3,0,0,0,NA,
 Katsumi Sogumo,Japan,1987,Flanker,1,0,1,0,0,0,,
 Masami Horikoshi,Japan,1988,Scrum-half,27,10,17,0,21,5,Tokyo,Japan
 Kenji Imakoma,Japan,1988,Centre,2,0,2,0,12,3,,
@@ -10097,28 +10097,28 @@ Yoshihito Yoshida,Japan,1988,Wing,31,11,20,0,97,19,Akita,Japan
 Masayuki Nagai,Japan,1988,Prop,2,0,2,0,0,0,,
 Toshitsugu Yamamoto,Japan,1988,Fullback,3,1,2,0,14,1,,
 Kiyoshi Imaizumi,Japan,1988,Fullback,8,4,4,0,15,3,Tokyo,Japan
-Shinobu Aoki,Japan,1989,Fly-half,5,1,4,0,4,1,NA,Nederland
+Shinobu Aoki,Japan,1989,Fly-half,5,1,4,0,4,1,NA,
 Hiroyuki Kajihara,Japan,1989,Flanker,31,12,19,0,28,6,Yamanasi,Japan
-Shuji Nakashima,Japan,1989,Flanker,11,4,7,0,0,0,NA,Danmark
+Shuji Nakashima,Japan,1989,Flanker,11,4,7,0,0,0,NA,
 Masanori Takura,Japan,1989,Prop,16,8,8,0,5,1,Kyoto,Japan
 Ekeroma Lauaiufi,Japan,1987,Lock,15,5,9,1,4,1,Western Samoa,Samoa
 Tadashi Goda,Japan,1990,Wing,8,2,6,0,4,1,,
 Kazuaki Takahashi,Japan,1990,Prop,22,5,17,0,5,1,Tokyo,Japan
-Takahiro Hosokawa,Japan,1990,Fullback,10,3,7,0,115,3,NA,Danmark
+Takahiro Hosokawa,Japan,1990,Fullback,10,3,7,0,115,3,NA,
 Narihiro Watanabe,Japan,1990,Scrum-half,1,0,1,0,0,0,,
 Masahiro Kunda,Japan,1990,Hooker,48,20,28,0,5,1,Aichi,Japan
 Kiyomi Fukumoro,Japan,1990,Fullback,1,0,1,0,5,0,,
 Susumu Fukuoka,Japan,1990,Centre,1,0,1,0,0,0,,
-Hirofumi Ouchi,Japan,1990,Flanker,5,1,4,0,0,0,NA,Danmark
+Hirofumi Ouchi,Japan,1990,Flanker,5,1,4,0,0,0,NA,
 Wataru Murata,Japan,1991,Scrum-half,41,15,26,0,84,5,Fukuoka,Japan
 Yukio Motoki,Japan,1991,Centre,79,31,47,1,45,9,Osaka,Japan
-Tatsuya Maeda,Japan,1991,Fullback,4,1,3,0,26,0,NA,Nederland
+Tatsuya Maeda,Japan,1991,Fullback,4,1,3,0,26,0,NA,
 Terunori Masuho,Japan,1991,Wing,47,20,27,0,147,29,Tokyo,Japan
-Sam Kaleta,Japan,1992,Flanker,11,5,5,1,5,1,NA,Danmark
-Jun Komura,Japan,1992,Flanker,4,2,2,0,0,0,NA,Danmark
-Sione-Tupo Latu Mailangi,Japan,1992,No. 8,9,6,3,0,20,4,NA,Россия
+Sam Kaleta,Japan,1992,Flanker,11,5,5,1,5,1,NA,
+Jun Komura,Japan,1992,Flanker,4,2,2,0,0,0,NA,
+Sione-Tupo Latu Mailangi,Japan,1992,No. 8,9,6,3,0,20,4,NA,
 Tsutomu Matsuda,Japan,1992,"Wing, Fullback",43,20,23,0,70,14,Saitama,Japan
-Lopeti Oto,Japan,1992,Wing,8,2,6,0,35,7,NA,Россия
+Lopeti Oto,Japan,1992,Wing,8,2,6,0,35,7,NA,
 Noriyuki Owashi,Japan,1992,Fly-half,1,1,0,0,7,0,,
 Hirohisa Kato,Japan,1993,Centre,2,0,2,0,0,0,,
 Hidco Kaneshiro,Japan,1993,Flanker,1,0,1,0,0,0,,
@@ -10141,9 +10141,9 @@ Andrew McCormick,Japan,1996,Centre,25,13,12,0,15,3,Christchurch,NewZealand
 Toshikazu Nakamichi,Japan,1996,"Prop, Hooker",16,7,9,0,0,0,Osaka,Japan
 Hiroki Ozeki,Japan,1996,Wing,5,3,2,0,10,2,,
 Yasunori Watanabe,Japan,1996,"Lock, Flanker",34,14,19,1,40,8,Tokyo,Japan
-Kenichi Kimura,Japan,1996,Prop,1,0,1,0,0,0,NA,Nederland
+Kenichi Kimura,Japan,1996,Prop,1,0,1,0,0,0,NA,
 Kenji Sato,Japan,1996,Flanker,5,1,4,0,0,0,,
-Kazu Hamabe,Japan,1996,Prop,12,4,8,0,0,0,NA,Россия
+Kazu Hamabe,Japan,1996,Prop,12,4,8,0,0,0,NA,
 Masaaki Sakata,Japan,1996,Hooker,30,10,20,0,25,5,Kyoto,Japan
 Osami Yatsuhashi,Japan,1996,Centre,12,5,7,0,25,5,Nara,Japan
 Daisuke Ohata,Japan,1996,Wing,58,27,30,1,345,69,Osaka,Japan
@@ -10154,17 +10154,17 @@ Robert Gordon,Japan,1997,No. 8,17,6,11,0,10,2,Te Awamutu,NewZealand
 Ken Iwabuchi,Japan,1997,Fly-half,21,9,12,0,40,5,Tokyo,Japan
 Keiji Mizobe,Japan,1997,Prop,4,1,3,0,0,0,,
 Pat Tuidraki,Japan,1994,Wing,25,8,17,0,50,10,Lautoka,Fiji
-Kenichi Wada,Japan,1997,Wing,5,0,5,0,5,1,NA,Danmark
+Kenichi Wada,Japan,1997,Wing,5,0,5,0,5,1,NA,
 Jun Oyamada,Japan,1997,Wing,2,0,2,0,0,0,Akita,Japan
 Kohei Oguchi,Japan,1997,Prop,10,2,8,0,0,0,Saitama,Japan
 Kazuya Koizumi,Japan,1997,Lock,13,2,11,0,0,0,Yamanasi,Japan
 Shin Hasegawa,Japan,1997,"Prop, Hooker",40,14,26,0,5,1,Kyoto,Japan
-Stephen Miln,Japan,1998,Fullback,5,2,3,0,34,0,NA,Danmark
-Naoto Nakamura,Japan,1998,Prop,20,11,9,0,10,2,NA,Nederland
-Greg Smith,Japan,1998,Flanker,17,9,8,0,15,3,NA,Nederland
-Ross Thompson,Japan,1998,"Lock, No. 8",6,2,4,0,25,5,NA,Sverige
+Stephen Miln,Japan,1998,Fullback,5,2,3,0,34,0,NA,
+Naoto Nakamura,Japan,1998,Prop,20,11,9,0,10,2,NA,
+Greg Smith,Japan,1998,Flanker,17,9,8,0,15,3,NA,
+Ross Thompson,Japan,1998,"Lock, No. 8",6,2,4,0,25,5,NA,
 Keisuke Sawaki,Japan,1998,Fly-half,8,6,2,0,27,2,Akita,Japan
-Katsuji Ohara,Japan,1998,Scrum-half,5,3,2,0,0,0,NA,Россия
+Katsuji Ohara,Japan,1998,Scrum-half,5,3,2,0,0,0,NA,
 Masahiro Kurokawa,Japan,1998,No. 8,8,3,5,0,5,1,Tochigi,Japan
 Takafumi Hirao,Japan,1998,Wing,12,6,5,1,25,5,Osaka,Japan
 Masamitsu Oyabu,Japan,1998,Centre,1,0,1,0,0,0,,
@@ -10182,7 +10182,7 @@ Hideki Nanba,Japan,2000,Centre,24,8,16,0,30,6,Kanagawa,Japan
 Naoya Okubo,Japan,2000,Lock,6,1,5,0,0,0,Kanagawa,Japan
 Yuji Sonoda,Japan,2000,Scrum-half,18,5,13,0,10,2,Osaka,Japan
 Hiroshi Sugawara,Japan,2000,Back-row,6,1,5,0,0,0,Gifu,Japan
-Karl Todd,Japan,2000,Lock,3,0,3,0,0,0,NA,Danmark
+Karl Todd,Japan,2000,Lock,3,0,3,0,0,0,NA,
 Masahiko Toyoyoma,Japan,2000,Prop,24,9,15,0,15,3,Osaka,Japan
 Toru Kurihara,Japan,2000,Fullback,28,9,19,0,347,20,Ibaraki,Japan
 Shotaro Onishi,Japan,2000,"Centre, Fly-half",33,15,17,1,71,2,Osaka,Japan
@@ -10199,14 +10199,14 @@ Masao Amino,Japan,2000,Hooker,10,2,8,0,0,0,Yamanasi,Japan
 Masanao Washiya,Japan,2000,No. 8,2,1,1,0,0,0,Nara,Japan
 Noboru Yasuda,Japan,2000,Hooker,2,1,1,0,0,0,Osaka,Japan
 Toshikazu Fumihara,Japan,2000,Prop,1,0,1,0,0,0,Osaka,Japan
-Reo Kawai,Japan,2000,Centre,1,0,1,0,0,0,NA,Danmark
+Reo Kawai,Japan,2000,Centre,1,0,1,0,0,0,NA,
 Koichi Kubo,Japan,2000,Back-row,20,8,11,1,15,3,Saitama,Japan
 Soushi Fuchigami,Japan,2000,Fly-half,5,2,3,0,22,3,Fukuoka,Japan
-Nataniela Oto,Japan,2001,Flanker,12,4,8,0,20,4,NA,Svizra
+Nataniela Oto,Japan,2001,Flanker,12,4,8,0,20,4,NA,
 Kenichi Takayanagi,Japan,2001,Prop,1,1,0,0,0,0,Osaka,Japan
 Yutaka Tsujimoto,Japan,2001,Hooker,1,1,0,0,0,0,Osaka,Japan
 Shinichi Tsukita,Japan,2001,Scrum-half,9,5,4,0,9,0,Fukuoka,Japan
-Lautangi Vatuvei,Japan,2001,Lock,23,11,10,2,45,9,NA,Svizra
+Lautangi Vatuvei,Japan,2001,Lock,23,11,10,2,45,9,NA,
 Masahito Yamamoto,Japan,2001,Prop,26,8,17,1,5,1,Aichi,Japan
 Akihito Kato,Japan,2001,Hooker,3,2,1,0,0,0,Akita,Japan
 Hajime Kiso,Japan,2001,"Lock, Back-row",32,12,19,1,0,0,Osaka,Japan
@@ -10214,14 +10214,14 @@ Kazunaka Motoyoshi,Japan,2001,Prop,1,1,0,0,0,0,Kanagawa,Japan
 Yuya Saito,Japan,2001,No. 8,14,7,6,1,20,4,Tokyo,Japan
 Eiji Yamamoto,Japan,2001,No. 8,3,0,3,0,0,0,Fukuoka,Japan
 Hirotoki Onozawa,Japan,2001,Wing,81,41,37,3,275,55,Shizuoka,Japan
-Jun Akune,Japan,2001,Lock,2,1,1,0,0,0,NA,Svizra
+Jun Akune,Japan,2001,Lock,2,1,1,0,0,0,NA,
 Ryo Yamamura,Japan,2001,Prop,40,14,24,2,5,1,Saga,Japan
 Hideyuki Yoshida,Japan,2001,"Fullback, Fly-half",16,7,9,0,5,1,Gunma,Japan
 Yuichi Hisadomi,Japan,2002,Prop,21,9,11,1,5,1,Saga,Japan
 Andy Miller,Japan,2002,Fly-half,10,6,4,0,70,6,Te Puke,NewZealand
 Takuro Miuchi,Japan,2002,Back-row,48,20,27,1,35,7,Fukuoka,Japan
 Adam Parker,Japan,2002,Lock,18,6,12,0,10,2,Christchurch,NewZealand
-Dean Anglesey,Japan,2002,Flanker,3,2,1,0,10,2,NA,Nederland
+Dean Anglesey,Japan,2002,Flanker,3,2,1,0,10,2,NA,
 Tsuyoshi Kinoshita,Japan,2002,Lock,2,0,2,0,5,1,Hyogo,Japan
 Takashi Yoshida,Japan,2002,"Fullback, Wing",4,1,3,0,15,3,Nagasaki,Japan
 Masahiro Shichinohe,Japan,2002,Hooker,2,1,1,0,0,0,Iwate,Japan
@@ -10243,7 +10243,7 @@ Masatoshi Mukoyama,Japan,2004,Centre,6,1,4,1,10,2,Kumamoto,Japan
 Koichi Ohigashi,Japan,2004,Fullback,7,4,2,1,15,3,Osaka,Japan
 Wataru Ikeda,Japan,2004,Scrum-half,14,5,8,1,61,1,Miyagi,Japan
 Hitoshi Ono,Japan,2004,Lock,96,60,33,3,65,13,Fukushima,Japan
-Feletikiki Mau,Japan,2004,Flanker,6,2,4,0,0,0,NA,Svizra
+Feletikiki Mau,Japan,2004,Flanker,6,2,4,0,0,0,NA,
 Kyohei Morita,Japan,2004,"Fullback, Fly-half",8,3,5,0,72,0,Osaka,Japan
 Mitsugu Yamamoto,Japan,2004,Hooker,10,5,5,0,15,3,Okayama,Japan
 Kosuke Endo,Japan,2004,"Fullback, Wing",41,19,20,2,90,18,Hokkaido,Japan
@@ -10261,12 +10261,12 @@ Christian Loamanu,Japan,2005,Centre,16,4,11,1,25,5,Tatakamotonga,Tonga
 Hare Makiri,Japan,2005,"Lock, Flanker",26,7,18,1,20,4,Thames,NewZealand
 Tomoaki Nakai,Japan,2005,Flanker,12,5,7,0,0,0,Kumamoto,Japan
 Hiroshi Takahashi,Japan,2005,Prop,5,1,4,0,0,0,Tokyo,Japan
-Jamie Washington,Japan,2005,Lock,7,3,4,0,0,0,NA,Austria
+Jamie Washington,Japan,2005,Lock,7,3,4,0,0,0,NA,
 Ayumu Goromaru,Japan,2005,Fullback,56,39,17,0,708,18,Fukuoka,Japan
 Shota Goto,Japan,2005,Scrum-half,8,3,5,0,0,0,Kanagawa,Japan
 Shigeyasu Takagi,Japan,2005,"Prop, Flanker",5,2,3,0,5,1,Hyogo,Japan
 Masakazu Nakabayashi,Japan,2005,Hooker,4,3,1,0,0,0,Kyoto,Japan
-Katoni Otukolo,Japan,2005,Centre,3,2,1,0,15,3,NA,Sverige
+Katoni Otukolo,Japan,2005,Centre,3,2,1,0,15,3,NA,
 Philip O'Reilly,Japan,2005,Flanker,11,6,4,1,35,7,NA,NewZealand
 Teppei Tomioka,Japan,2005,Centre,2,0,2,0,0,0,Fukuoka,Japan
 Jumpei Enomoto,Japan,2005,Centre,1,1,0,0,0,0,Tokyo,Japan
@@ -10346,7 +10346,7 @@ A.E. Foster,Canada,1970,Flanker,5,1,4,0,0,0,,
 R.O. Jackson,Canada,1970,Lock,2,0,2,0,0,0,,
 O. Johnson,Canada,1970,NA,1,0,1,0,0,0,,
 G. MacDonald,Canada,1970,NA,1,0,1,0,0,0,,
-Spence McTavish,Canada,1970,Centre,22,7,14,1,20,5,NA,Perú
+Spence McTavish,Canada,1970,Centre,22,7,14,1,20,5,NA,
 K. Myhre,Canada,1970,NA,1,0,1,0,0,0,,
 Doug Schick,Canada,1970,Centre,2,0,2,0,0,0,,
 W. Thomson,Canada,1970,NA,1,0,1,0,0,0,,
@@ -10426,14 +10426,14 @@ Bill Spofford,Canada,1981,Prop,1,0,1,0,0,0,,
 Jamie Hawthorn,Canada,1982,Wing,6,2,4,0,0,0,"Vancouver, BC",Canada
 Evan Jones,Canada,1982,No. 8,3,1,2,0,0,0,,
 Paul Monaghan,Canada,1982,Centre,1,0,1,0,0,0,"Victoria, BC",Canada
-Mark Wyatt,Canada,1982,Fullback,29,13,15,1,234,2,NA,Sverige
+Mark Wyatt,Canada,1982,Fullback,29,13,15,1,234,2,NA,
 Tony Godziek,Canada,1982,Flanker,8,2,5,1,0,0,"Oakville, ON",Canada
 John Lecky,Canada,1982,Centre,18,9,8,1,4,1,"Winnipeg, MB",Canada
 Bernie Bonenberg,Canada,1983,Hooker,3,2,1,0,0,0,,
 F. Forster,Canada,1983,Wing,3,2,1,0,0,0,,
 P.J. MacLean,Canada,1983,Fly-half,4,2,2,0,0,0,,
 McLean,Canada,1983,Fly-half,1,1,0,0,3,0,,
-Ross Breen,Canada,1983,Prop,2,1,1,0,0,0,NA,Perú
+Ross Breen,Canada,1983,Prop,2,1,1,0,0,0,NA,
 Z. Cvitak,Canada,1983,Flanker,1,0,1,0,0,0,,
 Jim Delaney,Canada,1983,Centre,1,0,1,0,0,0,,
 G. Fraser,Canada,1983,Centre,1,0,1,0,0,0,,
@@ -10446,23 +10446,23 @@ Matt Kokan,Canada,1984,Lock,3,1,2,0,0,0,,
 P.A. Kyle,Canada,1984,Replacement,1,0,1,0,0,0,,
 Ian Stuart,Canada,1984,Centre,21,9,12,0,13,3,"Vancouver, BC",Canada
 Tom Woods,Canada,1984,Centre,19,8,11,0,5,1,"Victoria, BC",Canada
-Norman Carr,Canada,1985,Centre,2,0,2,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Norman Carr,Canada,1985,Centre,2,0,2,0,0,0,NA,
 Mike Clarkin,Canada,1985,Wing,2,0,2,0,0,0,,
 Marius Felix,Canada,1985,Lock,4,2,2,0,0,0,,
-Bill Handson,Canada,1985,Prop,9,4,5,0,0,0,NA,Perú
+Bill Handson,Canada,1985,Prop,9,4,5,0,0,0,NA,
 A.C. McGann,Canada,1985,Fullback,2,0,2,0,0,0,,
-Randy McKellar,Canada,1985,Prop,4,0,4,0,0,0,NA,Perú
+Randy McKellar,Canada,1985,Prop,4,0,4,0,0,0,NA,
 John Robertsen,Canada,1985,Lock,9,5,4,0,0,0,East London,SouthAfrica
 Karl Svoboda,Canada,1985,Hooker,24,12,12,0,0,0,"Belleville, ON",Canada
-Dave Tucker,Canada,1985,Scrum-half,6,3,3,0,4,1,NA,Perú
+Dave Tucker,Canada,1985,Scrum-half,6,3,3,0,4,1,NA,
 Roy Radu,Canada,1985,Flanker,12,8,4,0,0,0,"Burnaby, BC",Canada
 J.D.O. Devlin,Canada,1985,Wing,2,2,0,0,0,0,,
 E.D. Kettleson,Canada,1985,NA,1,1,0,0,0,0,,
 Gord MacKinnon,Canada,1985,Flanker,28,13,15,0,18,4,Glasgow,Scotland
-Paul Vaesen,Canada,1985,Centre,5,4,1,0,8,2,NA,Perú
+Paul Vaesen,Canada,1985,Centre,5,4,1,0,8,2,NA,
 Glen Ennis,Canada,1986,No. 8,32,18,14,0,28,7,"Vancouver, BC",Canada
-Rob Frame,Canada,1986,Flanker,6,3,3,0,8,2,NA,Perú
-Ian Hyde-Lay,Canada,1986,Fly-half,3,1,2,0,7,1,NA,Perú
+Rob Frame,Canada,1986,Flanker,6,3,3,0,8,2,NA,
+Ian Hyde-Lay,Canada,1986,Fly-half,3,1,2,0,7,1,NA,
 Eddie Evans,Canada,1986,Prop,49,30,19,0,14,3,"Terrace, BC",Canada
 Gareth Rees,Canada,1986,Fullback,55,31,24,0,491,7,"Duncan, BC",Canada
 Ron van den Brink,Canada,1986,Lock,8,5,3,0,4,1,"Maple Ridge, BC",Canada
@@ -10476,7 +10476,7 @@ Stuart Creagh,Canada,1988,Prop,1,0,1,0,0,0,,
 Chris Fowler,Canada,1988,Lock,2,0,2,0,0,0,,
 A.R. Heaman,Canada,1988,Wing,1,0,1,0,0,0,,
 David Speirs,Canada,1988,Hooker,5,2,3,0,0,0,"Toronto, ON",Canada
-Shayne Brown,Canada,1989,Centre,2,1,1,0,4,1,NA,Danmark
+Shayne Brown,Canada,1989,Centre,2,1,1,0,4,1,NA,
 John Graf,Canada,1989,Scrum-half,54,29,25,0,89,9,"Vancouver, BC",Canada
 Bobby Ross,Canada,1989,Fly-half,58,30,28,0,419,7,"Victoria, BC",Canada
 Paul Szabo,Canada,1989,Prop,9,5,4,0,0,0,New Westminster,Canada
@@ -10491,7 +10491,7 @@ Scott MacKinnon,Canada,1992,Wing,4,3,1,0,5,1,"Scarborough, ON",Canada
 Jeff Knauer,Canada,1992,Lock,5,3,2,0,0,0,"New Mexico, United States",USA
 M. Williams,Canada,1992,Centre,3,1,2,0,0,0,,
 Kevin Wirachowski,Canada,1992,Prop,19,12,7,0,15,3,"Port Alberni, BC",Canada
-Julian Loveday,Canada,1993,Wing,10,5,5,0,5,1,NA,Austria
+Julian Loveday,Canada,1993,Wing,10,5,5,0,5,1,NA,
 John Hutchinson,Canada,1993,Flanker,50,23,27,0,40,8,"Toronto, ON",Canada
 Chris Whittaker,Canada,1993,Lock,16,9,7,0,5,1,"Victoria, BC",Canada
 Ian Kennedy,Canada,1993,Hooker,2,1,1,0,5,1,,
@@ -10509,21 +10509,21 @@ Courtney Smith,Canada,1995,Wing,21,10,11,0,40,8,Kingston,Jamaica
 Alan Tynan,Canada,1995,Scrum-half,5,2,3,0,10,2,"Vancouver, BC",Canada
 Gareth Rowlands,Canada,1995,Lock,6,1,5,0,0,0,Cardiff,Wales
 Rod Snow,Canada,1995,Prop,62,27,33,2,40,8,"Bonavista, NL",India
-Barry Ebl,Canada,1995,Wing,3,1,2,0,0,0,NA,Nederland
+Barry Ebl,Canada,1995,Wing,3,1,2,0,0,0,NA,
 Chris Michaluk,Canada,1995,No. 8,4,3,1,0,0,0,"Kelowna, BC",Canada
 David Penney,Canada,1995,Prop,7,2,5,0,0,0,"St John's, NL",India
 Nick Clapinson,Canada,1995,Prop,2,0,2,0,0,0,"Lachine, QC",Canada
-Rob Card,Canada,1996,Scrum-half,8,4,4,0,0,0,NA,Austria
+Rob Card,Canada,1996,Scrum-half,8,4,4,0,0,0,NA,
 Jim Yeganegi,Canada,1996,Flanker,2,1,1,0,0,0,,
 Richard Bice,Canada,1996,Prop,22,10,12,0,0,0,"Vancouver, BC",Canada
-Jason Hall,Canada,1996,Centre,7,5,2,0,5,1,NA,Nederland
+Jason Hall,Canada,1996,Centre,7,5,2,0,5,1,NA,
 Tony Healy,Canada,1996,Lock,15,12,3,0,0,0,"Nanaimo, BC",Canada
 Dennis Clarke,Canada,1996,Centre,1,0,1,0,0,0,"Montreal, QC",Canada
 Jeff Tomlinson,Canada,1996,Back-row,3,2,1,0,0,0,"Toronto, ON",Canada
 Scott Bryan,Canada,1996,Centre,20,9,11,0,15,3,"Toronto, ON",Canada
 Joe Haley,Canada,1996,Fullback,1,1,0,0,0,0,"N Vancouver, BC",Canada
 Scott Hendry,Canada,1996,Hooker,3,2,1,0,5,1,Paisley,Scotland
-Brian Mosychuck,Canada,1996,Prop,2,1,1,0,0,0,NA,Danmark
+Brian Mosychuck,Canada,1996,Prop,2,1,1,0,0,0,NA,
 Kyle Nichols,Canada,1996,Centre,25,11,13,1,61,10,Scarborough,England
 Mike Schmid,Canada,1996,No. 8,24,12,12,0,10,2,New Westminster,Canada
 Jason Penaluna,Canada,1996,Fly-half,1,1,0,0,5,1,"Winnipeg, MB",Canada
@@ -10531,8 +10531,8 @@ Brian McCarthy,Canada,1996,Lock,5,3,2,0,0,0,"Brockville, ON",Canada
 John Tait,Canada,1997,Lock,37,14,22,1,5,1,"Orangeville, ON",Canada
 Adam Marshall,Canada,1997,"Prop, Hooker",2,1,1,0,0,0,"Toronto, ON",Canada
 C. Smythe,Canada,1997,Wing,2,1,1,0,0,0,,
-Kevin Morgan,Canada,1997,Hooker,4,3,1,0,0,0,NA,Danmark
-Colin Robertson,Canada,1997,Centre,7,7,0,0,15,3,NA,Austria
+Kevin Morgan,Canada,1997,Hooker,4,3,1,0,0,0,NA,
+Colin Robertson,Canada,1997,Centre,7,7,0,0,15,3,NA,
 Joe Pagano,Canada,1997,Wing,10,6,4,0,15,3,"Toronto, ON",Canada
 Dan Baugh,Canada,1998,Back-row,27,11,15,1,25,5,"Regina, SK",Slovensko
 Pat Dunkley,Canada,1998,Hooker,38,14,23,1,15,3,Cardiff,Wales
@@ -10542,7 +10542,7 @@ Rob Robson,Canada,1998,Flanker,3,0,3,0,0,0,"Victoria, BC",Canada
 Nik Witkowski,Canada,1998,Centre,34,14,19,1,30,6,London,England
 Jon Thiel,Canada,1998,Prop,44,14,28,2,20,4,"Victoria, BC",Canada
 Jeremy Cordle,Canada,1998,Wing,6,2,4,0,5,1,Cardiff,Wales
-Roger Robinson,Canada,1998,Centre,1,1,0,0,0,0,NA,Nederland
+Roger Robinson,Canada,1998,Centre,1,1,0,0,0,0,NA,
 Ryan Banks,Canada,1999,Back-row,36,12,23,1,15,3,"Vancouver, BC",Canada
 Fred Asselin,Canada,1999,Wing,15,7,8,0,15,3,"Montreal, QC",Canada
 Morgan Williams,Canada,1999,Scrum-half,56,18,36,2,68,13,"Kingston, ON",Canada
@@ -10550,29 +10550,29 @@ Duane Major,Canada,1999,Prop,12,4,7,1,0,0,Christchurch,NewZealand
 Jared Barker,Canada,2000,Fly-half,18,10,8,0,226,2,"Edmonton, AB",Canada
 Garth Cooke,Canada,2000,Prop,25,8,17,0,0,0,"Grandforks, BC",Canada
 Sean Fauth,Canada,2000,Wing,29,12,16,1,35,7,"Calgary, AL",USA
-Ed Knaggs,Canada,2000,Lock,19,6,12,1,0,0,NA,Danmark
+Ed Knaggs,Canada,2000,Lock,19,6,12,1,0,0,NA,
 Phil Murphy,Canada,2000,No. 8,20,7,12,1,25,5,"Saint John, NB",Canada
 Kevin Tkachuk,Canada,2000,Prop,55,18,37,0,25,5,"Thompson, MB",Canada
 Adam van Staveren,Canada,2000,Flanker,20,8,12,0,0,0,"Pickering, ON",Canada
-Mark Irvine,Canada,2000,"Centre, Flanker",8,3,4,1,0,0,NA,Austria
-Nick Milau,Canada,2000,"Fullback, Scrum-half",2,1,1,0,0,0,NA,Austria
-Gregor Dixon,Canada,2000,Flanker,10,3,6,1,0,0,NA,Danmark
-Jason Verstraten,Canada,2000,"Centre, Wing",3,1,2,0,5,1,NA,Austria
+Mark Irvine,Canada,2000,"Centre, Flanker",8,3,4,1,0,0,NA,
+Nick Milau,Canada,2000,"Fullback, Scrum-half",2,1,1,0,0,0,NA,
+Gregor Dixon,Canada,2000,Flanker,10,3,6,1,0,0,NA,
+Jason Verstraten,Canada,2000,"Centre, Wing",3,1,2,0,5,1,NA,
 John Cannon,Canada,2001,Centre,31,8,23,0,0,0,"Abbotsford, BC",Canada
 Ed Fairhurst,Canada,2001,Scrum-half,57,22,34,1,46,4,"Regina, SK",Slovensko
-Jeff Williams,Canada,2001,"Fullback, Wing",5,2,3,0,0,0,NA,Austria
+Jeff Williams,Canada,2001,"Fullback, Wing",5,2,3,0,0,0,NA,
 Dale Burleigh,Canada,2001,Hooker,5,2,3,0,5,1,"London, ON",Canada
 Marco di Girolomo,Canada,2001,Scrum-half,22,8,14,0,15,3,"Toronto, ON",Canada
-Ron Johnstone,Canada,2001,Lock,8,4,4,0,0,0,NA,Svizra
+Ron Johnstone,Canada,2001,Lock,8,4,4,0,0,0,NA,
 Boris Stoikos,Canada,2001,Prop,1,1,0,0,0,0,"Toronto, ON",Canada
 Colin Yukes,Canada,2001,"Lock, Flanker",36,11,24,1,0,0,"Edmonton, AB",Canada
 Brad Major,Canada,2001,Flanker,2,0,2,0,0,0,,
-Shane Thompson,Canada,2001,"Centre, Scrum-half",2,0,2,0,0,0,NA,Danmark
+Shane Thompson,Canada,2001,"Centre, Scrum-half",2,0,2,0,0,0,NA,
 Mike Danskin,Canada,2001,Fly-half,3,0,3,0,8,0,"Victoria, BC",Canada
 Mark Lawson,Canada,2002,Hooker,26,10,16,0,5,1,"Vancouver, BC",Canada
 Jamie Cudmore,Canada,2002,Lock,39,12,26,1,10,2,"Winnipeg, MB",Canada
 Matt King,Canada,2002,"Wing, Flanker",11,4,7,0,0,0,"Woodstock, NB",Canada
-Leif Carlson,Canada,2002,Flanker,3,0,3,0,0,0,NA,Danmark
+Leif Carlson,Canada,2002,Flanker,3,0,3,0,0,0,NA,
 Quentin Fyffe,Canada,2003,Fullback,15,6,9,0,25,5,"Gosford, NSW",Australia
 A.E. Allen,USA,1912,Centre,1,0,1,0,0,0,,
 J. Arrell,USA,1912,Prop,1,0,1,0,0,0,,
@@ -10606,7 +10606,7 @@ George Fish,USA,1920,No. 8,1,1,0,0,0,0,"Los Angeles, CA, United States",USA
 Jim Fitzpatrick,USA,1920,Centre,2,1,1,0,0,0,"Los Angeles, CA, United States",USA
 Lou Hunter,USA,1920,Lock,1,1,0,0,3,1,"Louisville, KY, United States",USA
 Morris Kirksey,USA,1920,Lock,1,1,0,0,0,0,"Waxahachie, TX, United States",USA
-Charles Mehan,USA,1920,Front-row,2,1,1,0,0,0,NA,Svizra
+Charles Mehan,USA,1920,Front-row,2,1,1,0,0,0,NA,
 John Muldoon,USA,1920,Second-row,2,1,1,0,0,0,"Ione, CA, United States",USA
 John O'Neil,USA,1920,Front-row,4,3,1,0,0,0,"Faulkton, SD, United States",USA
 Jack Patrick,USA,1920,Lock,3,3,0,0,12,4,"Palo Alto, CA, United States",USA
@@ -10641,7 +10641,7 @@ Gary Brackett,USA,1976,Lock,3,0,3,0,0,0,,
 Del Chipman,USA,1976,Wing,2,1,1,0,0,0,,
 Fred Khasigian,USA,1976,Hooker,1,0,1,0,0,0,,
 Tom Klein,USA,1976,Flanker,3,1,2,0,4,1,,
-Skip Niebauer,USA,1976,Flanker,9,0,8,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Skip Niebauer,USA,1976,Flanker,9,0,8,1,0,0,NA,
 Mickey Ording,USA,1976,Prop,4,1,3,0,0,0,,
 Kip Oxman,USA,1976,Fullback,1,0,1,0,12,0,,
 Greg Schneeweis,USA,1976,Centre,2,0,2,0,0,0,"Long Beach, CA, United States",USA
@@ -10659,7 +10659,7 @@ Terry Scott,USA,1976,Scrum-half,1,0,1,0,6,0,,
 Woody Stone,USA,1976,Wing,1,0,1,0,0,0,,
 Danny Wack,USA,1976,Centre,4,1,3,0,0,0,,
 Barry Waite,USA,1976,Flanker,1,0,1,0,0,0,,
-Bob Causey,USA,1977,Lock,8,1,5,2,0,0,NA,Perú
+Bob Causey,USA,1977,Lock,8,1,5,2,0,0,NA,
 Jay Hanson,USA,1977,Hooker,7,0,7,0,0,0,,
 Bruce Henderson,USA,1977,Prop,1,0,1,0,0,0,,
 Dennis Jablonski,USA,1977,Fullback,4,1,3,0,28,0,,
@@ -10676,30 +10676,30 @@ Brad Andrews,USA,1978,No. 8,2,1,1,0,0,0,,
 Gerry Kelleher,USA,1978,Lock,2,1,1,0,0,0,,
 Jessie Lopez,USA,1978,Hooker,1,1,0,0,0,0,"Fort Worth, IN, United States",USA
 Gary Wilson,USA,1978,Prop,5,1,4,0,0,0,,
-Rick Bailey,USA,1979,Prop,11,2,8,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Dave Briley,USA,1979,Prop,4,0,4,0,0,0,NA,Россия
+Rick Bailey,USA,1979,Prop,11,2,8,1,0,0,NA,
+Dave Briley,USA,1979,Prop,4,0,4,0,0,0,NA,
 Jack Clark,USA,1979,Lock,2,0,2,0,0,0,,
-Dick Cooke,USA,1979,Scrum-half,6,0,6,0,21,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Mike Fanucchi,USA,1979,Centre,3,0,3,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Jeff Hollings,USA,1979,Hooker,2,0,2,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Dick Cooke,USA,1979,Scrum-half,6,0,6,0,21,0,NA,
+Mike Fanucchi,USA,1979,Centre,3,0,3,0,0,0,NA,
+Jeff Hollings,USA,1979,Hooker,2,0,2,0,0,0,NA,
 Boyd Morrison,USA,1979,Centre,2,0,2,0,0,0,,
-Chimere Okezie,USA,1979,Wing,6,0,5,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Chimere Okezie,USA,1979,Wing,6,0,5,1,0,0,NA,
 Joe Sheitlin,USA,1979,Wing,1,0,1,0,0,0,,
-John Fowler,USA,1980,Flanker,7,0,6,1,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+John Fowler,USA,1980,Flanker,7,0,6,1,0,0,NA,
 Tim Moser,USA,1980,Lock,1,0,1,0,0,0,,
 Mike Purcell,USA,1980,Wing,14,3,9,2,16,4,"Erie, PA, United States",USA
-Brian Swords,USA,1980,Lock,3,0,3,0,0,0,NA,Россия
+Brian Swords,USA,1980,Lock,3,0,3,0,0,0,NA,
 Douglas Parks,USA,1980,Fullback,1,0,1,0,0,0,,
 Tom Smith,USA,1980,Fly-half,4,0,4,0,3,0,,
-Lin Walton,USA,1980,Wing,4,0,4,0,4,1,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Ed Burlingham,USA,1980,Lock,14,3,9,2,0,0,NA,Perú
-Chip Howard,USA,1980,Fullback,1,0,1,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
+Lin Walton,USA,1980,Wing,4,0,4,0,4,1,NA,
+Ed Burlingham,USA,1980,Lock,14,3,9,2,0,0,NA,
+Chip Howard,USA,1980,Fullback,1,0,1,0,0,0,NA,
 Tim O'Brien,USA,1980,Centre,3,0,3,0,0,0,,
-Denis Shanagher,USA,1980,Centre,9,2,5,2,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Art Ward,USA,1980,No. 8,2,0,2,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
-Roy Helu,USA,1981,Centre,12,3,8,1,8,2,NA,Perú
-Gary Lambert,USA,1981,Flanker,18,6,11,1,12,3,NA,Perú
-Steve Finkel,USA,1981,Flanker,6,0,6,0,0,0,NA,Perú
+Denis Shanagher,USA,1980,Centre,9,2,5,2,0,0,NA,
+Art Ward,USA,1980,No. 8,2,0,2,0,0,0,NA,
+Roy Helu,USA,1981,Centre,12,3,8,1,8,2,NA,
+Gary Lambert,USA,1981,Flanker,18,6,11,1,12,3,NA,
+Steve Finkel,USA,1981,Flanker,6,0,6,0,0,0,NA,
 Jamie Grant,USA,1981,Hooker,1,0,1,0,0,0,,
 Dave Bateman,USA,1982,Scrum-half,5,1,3,1,0,0,,
 John Jelaco,USA,1982,Prop,2,0,1,1,0,0,,
@@ -10712,16 +10712,16 @@ Rick Crivellone,USA,1983,Lock,3,0,3,0,4,1,,
 Ray Nelson,USA,1983,Fullback,25,7,17,1,65,5,Glasgow,Scotland
 Mark Ormsby,USA,1983,Wing,1,0,1,0,0,0,,
 Doug Straehley,USA,1983,Scrum-half,2,1,1,0,0,0,,
-Blane Warhurst,USA,1983,Flanker,9,4,4,1,8,2,NA,Perú
+Blane Warhurst,USA,1983,Flanker,9,4,4,1,8,2,NA,
 Jake Burkhardt,USA,1983,Flanker,2,0,2,0,0,0,,
-Bill Shiflet,USA,1983,Lock,4,1,3,0,0,0,NA,Perú
-Neal Brendel,USA,1983,Prop,6,3,3,0,0,0,NA,Perú
+Bill Shiflet,USA,1983,Lock,4,1,3,0,0,0,NA,
+Neal Brendel,USA,1983,Prop,6,3,3,0,0,0,NA,
 Mark Deaton,USA,1983,No. 8,3,2,1,0,0,0,,
 Jon Hartman,USA,1983,Wing,2,1,1,0,4,1,,
 Ian Loveseth,USA,1983,NA,1,0,1,0,0,0,,
-Mike Caulder,USA,1984,Fly-half,3,1,2,0,4,1,NA,Perú
-John Everett,USA,1984,Hooker,7,4,2,1,0,0,NA,Perú
-Butch Horwath,USA,1984,Prop,7,3,4,0,0,0,NA,Perú
+Mike Caulder,USA,1984,Fly-half,3,1,2,0,4,1,NA,
+John Everett,USA,1984,Hooker,7,4,2,1,0,0,NA,
+Butch Horwath,USA,1984,Prop,7,3,4,0,0,0,NA,
 Dave Jenkinson,USA,1984,Centre,3,1,1,1,0,0,,
 Whit Everett,USA,1985,Flanker,3,1,1,1,4,1,,
 Kevin Higgins,USA,1985,Centre,28,9,18,1,16,4,"Buffalo, NY, United States",USA
@@ -10729,22 +10729,22 @@ Mike Inns,USA,1985,Fullback,3,1,2,0,22,0,,
 Willie Jefferson,USA,1985,Wing,6,1,5,0,8,2,"Los Angeles, CA, United States",USA
 Kevin Swords,USA,1985,Lock,36,11,25,0,8,2,"Chicago, IL, United States",USA
 Bruce Monroe,USA,1985,Hooker,1,0,1,0,0,0,,
-Joe Clarkson,USA,1986,Fly-half,5,2,2,1,13,1,NA,Perú
-Dave Dickson,USA,1986,Scrum-half,2,0,1,1,0,0,NA,Perú
+Joe Clarkson,USA,1986,Fly-half,5,2,2,1,13,1,NA,
+Dave Dickson,USA,1986,Scrum-half,2,0,1,1,0,0,NA,
 Lance Manga,USA,1986,Prop,8,2,5,1,0,0,"Philadelphia, PA, United States",USA
 Brian Vizard,USA,1986,No. 8,22,7,14,1,0,0,"California, United States",USA
-Dave Horton,USA,1986,Fly-half,3,0,3,0,9,0,NA,Perú
+Dave Horton,USA,1986,Fly-half,3,0,3,0,9,0,NA,
 John Mickel,USA,1986,Scrum-half,1,0,1,0,0,0,,
-Tommy Vinick,USA,1986,Centre,3,0,3,0,0,0,NA,Perú
+Tommy Vinick,USA,1986,Centre,3,0,3,0,0,0,NA,
 Alec Montgomery,USA,1986,Fullback,6,1,5,0,0,0,,
 Bill Bernhard,USA,1987,Fullback,1,1,0,0,11,0,,
 Gary Hein,USA,1987,Wing,25,7,18,0,12,3,"Los Angeles, CA, United States",USA
-Mike Saunders,USA,1987,Scrum-half,12,4,8,0,8,2,NA,Perú
+Mike Saunders,USA,1987,Scrum-half,12,4,8,0,8,2,NA,
 Pat Johnson,USA,1987,Hooker,16,3,13,0,4,1,"La Grange, GA, United States",USA
 Tony Ridnell,USA,1987,No. 8,14,4,10,0,4,1,"New York, NY, United States",USA
 Mark Carlson,USA,1987,Flanker,2,0,2,0,0,0,,
 Chris Doherty,USA,1987,Hooker,1,0,1,0,0,0,,
-Jeff Peter,USA,1987,Flanker,2,0,2,0,0,0,NA,Perú
+Jeff Peter,USA,1987,Flanker,2,0,2,0,0,0,NA,
 Mark Williams,USA,1987,Centre,37,11,26,0,143,3,Ellsbury,USA
 Ron Zenker,USA,1987,Lock,2,0,2,0,0,0,,
 Sam Vaka,USA,1987,Centre,1,0,1,0,0,0,,
@@ -10755,7 +10755,7 @@ Barry Williams,USA,1988,Wing,4,2,2,0,12,3,,
 Bill Leversee,USA,1988,Lock,15,6,9,0,12,3,"Van Nuys, CA, United States",USA
 Knutson,USA,1988,NA,1,0,1,0,0,0,,
 Rob Farley,USA,1989,Flanker,16,5,11,0,4,1,"New London, CT, United States",Italy
-Gerry McDonald,USA,1989,Prop,3,0,3,0,0,0,NA,Sverige
+Gerry McDonald,USA,1989,Prop,3,0,3,0,0,0,NA,
 Mike Siano,USA,1989,Flanker,4,1,3,0,8,2,,
 Russ Isaac,USA,1989,Lock,2,0,2,0,0,0,,
 Chris Lippert,USA,1989,Prop,38,12,26,0,0,0,"California, United States",USA
@@ -10767,7 +10767,7 @@ Norm Mottram,USA,1990,Prop,9,2,7,0,0,0,Glasgow,Scotland
 Mark Sawicki,USA,1990,Flanker,6,3,3,0,0,0,"Chicago, IL, United States",USA
 Joe Burke,USA,1990,Centre,9,4,5,0,0,0,"Albany, NY, United States",USA
 Mike de Jong,USA,1990,Fly-half,9,3,6,0,18,0,Pretoria,SouthAfrica
-Don James,USA,1990,Prop,9,2,7,0,0,0,NA,Россия
+Don James,USA,1990,Prop,9,2,7,0,0,0,NA,
 Rory Lewis,USA,1990,Wing,2,1,1,0,4,1,,
 Chris Williams,USA,1990,Wing,6,3,3,0,4,1,,
 Dennis Gonzalez,USA,1990,Flanker,3,1,2,0,0,0,,
@@ -10784,57 +10784,57 @@ Jay Wilkerson,USA,1991,Flanker,17,6,11,0,5,1,"Lakewood, CO, United States",USA
 Graham Downes,USA,1992,Prop,1,1,0,0,0,0,Durban,SouthAfrica
 James Keller,USA,1992,Lock,2,1,1,0,0,0,,
 Ramon Samaniego,USA,1992,Scrum-half,1,1,0,0,0,0,,
-Rich Schurfield,USA,1992,Wing,5,2,3,0,14,3,NA,Austria
+Rich Schurfield,USA,1992,Wing,5,2,3,0,14,3,NA,
 Mark Gale,USA,1992,Fly-half,1,0,1,0,9,0,,
 Greg Goodman,USA,1992,Scrum-half,1,0,1,0,0,0,,
 Brannen Smoot,USA,1992,No. 8,1,0,1,0,0,0,,
 David Steinbauer,USA,1992,No. 8,2,0,2,0,0,0,,
 B. Tofaeono,USA,1992,Wing,1,0,1,0,0,0,,
 Mike Waterman,USA,1992,Centre,1,0,1,0,0,0,,
-Vaea Anitoni,USA,1990,Wing,47,14,33,0,130,26,NA,Danmark
+Vaea Anitoni,USA,1990,Wing,47,14,33,0,130,26,NA,
 Mark Vandermolen,USA,1992,NA,1,0,1,0,0,0,,
-Andre Bachelet,USA,1993,Scrum-half,33,11,22,0,56,7,NA,Danmark
+Andre Bachelet,USA,1993,Scrum-half,33,11,22,0,56,7,NA,
 Tom Billups,USA,1993,Hooker,44,14,30,0,10,2,"Iowa, United States",USA
-Chris Campbell,USA,1993,Flanker,5,1,4,0,5,1,NA,Nederland
+Chris Campbell,USA,1993,Flanker,5,1,4,0,5,1,NA,
 Wayne Chai,USA,1993,Centre,1,0,1,0,0,0,,
 Brian Geraghty,USA,1993,Centre,1,0,1,0,0,0,,
 Tim Petersen,USA,1993,Prop,1,0,1,0,0,0,,
-Chris Schlereth,USA,1993,Wing,3,1,2,0,0,0,NA,Nederland
-Maika Sika,USA,1993,Fullback,17,6,11,0,5,1,NA,Danmark
-Rob Randell,USA,1993,Lock,12,3,9,0,0,0,NA,Danmark
-Mark Scharrenberg,USA,1993,Centre,39,15,24,0,40,8,NA,Nederland
-Ed Schram,USA,1993,Centre,7,2,5,0,5,1,NA,Nederland
-Richard Tardits,USA,1993,Flanker,24,8,16,0,10,2,NA,Danmark
-Steve Hiatt,USA,1993,Fullback,3,0,3,0,0,0,NA,Nederland
+Chris Schlereth,USA,1993,Wing,3,1,2,0,0,0,NA,
+Maika Sika,USA,1993,Fullback,17,6,11,0,5,1,NA,
+Rob Randell,USA,1993,Lock,12,3,9,0,0,0,NA,
+Mark Scharrenberg,USA,1993,Centre,39,15,24,0,40,8,NA,
+Ed Schram,USA,1993,Centre,7,2,5,0,5,1,NA,
+Richard Tardits,USA,1993,Flanker,24,8,16,0,10,2,NA,
+Steve Hiatt,USA,1993,Fullback,3,0,3,0,0,0,NA,
 Rob Lumkong,USA,1994,No. 8,29,9,20,0,20,4,Trinidad,Trinidad
-Tomasi Takau,USA,1994,Centre,25,6,19,0,30,6,NA,Nederland
-Scott Bracken,USA,1994,Prop,2,1,1,0,0,0,NA,Nederland
-Ray Green,USA,1994,Centre,11,4,7,0,5,1,NA,Danmark
+Tomasi Takau,USA,1994,Centre,25,6,19,0,30,6,NA,
+Scott Bracken,USA,1994,Prop,2,1,1,0,0,0,NA,
+Ray Green,USA,1994,Centre,11,4,7,0,5,1,NA,
 Dan Lyle,USA,1994,No. 8,45,17,28,0,30,6,"San Diego, CA, United States",USA
-Matt Alexander,USA,1995,Fly-half,24,11,13,0,286,5,NA,Danmark
-Mike Fabling,USA,1995,Fullback,1,1,0,0,0,0,NA,Danmark
-Aaron Freeman,USA,1995,Lock,2,1,1,0,0,0,NA,Danmark
+Matt Alexander,USA,1995,Fly-half,24,11,13,0,286,5,NA,
+Mike Fabling,USA,1995,Fullback,1,1,0,0,0,0,NA,
+Aaron Freeman,USA,1995,Lock,2,1,1,0,0,0,NA,
 Jon Holtzman,USA,1995,Flanker,4,2,2,0,0,0,"San Diego, CA, United States",USA
 Ray Lehner,USA,1995,Prop,37,15,22,0,0,0,"Sacramento, CA, United States",USA
-Joe Santos,USA,1995,Wing,4,2,2,0,0,0,NA,Nederland
-Pat Malloy,USA,1995,NA,1,1,0,0,0,0,NA,Danmark
-Malakai Delai,USA,1996,Wing,15,5,10,0,15,3,NA,Nederland
+Joe Santos,USA,1995,Wing,4,2,2,0,0,0,NA,
+Pat Malloy,USA,1995,NA,1,1,0,0,0,0,NA,
+Malakai Delai,USA,1996,Wing,15,5,10,0,15,3,NA,
 Luke Gross,USA,1996,Lock,62,21,41,0,0,0,"Decateur, IN, United States",USA
-Joe Rissone,USA,1996,Prop,5,2,3,0,0,0,NA,Danmark
-Jason Walker,USA,1996,Flanker,25,8,17,0,20,4,NA,Nederland
+Joe Rissone,USA,1996,Prop,5,2,3,0,0,0,NA,
+Jason Walker,USA,1996,Flanker,25,8,17,0,20,4,NA,
 Cliff Vogl,USA,1996,Lock,12,4,8,0,0,0,Karlsruhe,Germany
 Alec Parker,USA,1996,Lock,58,23,35,0,5,1,"Aspen, CO, United States",USA
 Sean Allen,USA,1996,Hooker,7,2,5,0,0,0,"California, United States",USA
-Tim Kluempers,USA,1996,Prop,5,1,4,0,0,0,NA,Nederland
-Lenny Sanft,USA,1996,NA,1,0,1,0,0,0,NA,Nederland
+Tim Kluempers,USA,1996,Prop,5,1,4,0,0,0,NA,
+Lenny Sanft,USA,1996,NA,1,0,1,0,0,0,NA,
 Jared Hopkins,USA,1996,Flanker,1,1,0,0,0,0,,
 Bill LeClerc,USA,1996,Prop,12,7,5,0,15,3,Whangarei,NewZealand
-Juan Grobler,USA,1996,Centre,33,10,23,0,35,7,NA,Danmark
+Juan Grobler,USA,1996,Centre,33,10,23,0,35,7,NA,
 Bob Lockrem,USA,1996,Wing,2,1,1,0,0,0,,
 Kevin Dalzell,USA,1996,Scrum-half,42,15,27,0,109,8,Durban,SouthAfrica
 Dave Hodges,USA,1996,Back-row,53,17,36,0,20,4,"Long Beach, CA, United States",USA
 Brian Hightower,USA,1997,Wing,17,6,11,0,40,8,"Baltimore, MD, United States",USA
-Chris Morrow,USA,1997,Fullback,12,3,9,0,7,0,NA,Danmark
+Chris Morrow,USA,1997,Fullback,12,3,9,0,7,0,NA,
 Tini Saulala,USA,1997,Centre,20,6,14,0,30,6,Vava'u,Tonga
 Mike Stanaway,USA,1997,Prop,6,1,5,0,0,0,,
 Chip Curtis,USA,1997,Wing,5,1,4,0,0,0,"New Orleans, LA, United States",USA
@@ -10845,39 +10845,39 @@ Scott Yungling,USA,1997,Flanker,2,1,1,0,0,0,,
 David Care,USA,1998,Flanker,3,2,1,0,0,0,"Flint, MI, United States",USA
 John McBride,USA,1998,Prop,11,5,6,0,0,0,"St Louis, MO, United States",USA
 Andre Blom,USA,1998,Wing,13,5,8,0,29,5,George,SouthAfrica
-Jason Raven,USA,1998,Wing,2,0,2,0,0,0,NA,Россия
+Jason Raven,USA,1998,Wing,2,0,2,0,0,0,NA,
 Bart Furrow,USA,1998,Prop,4,0,4,0,0,0,,
 C.D. Labounty,USA,1998,Wing,2,0,2,0,0,0,"Bellingham, WA, United States",Australia
 Tasi Mo'unga,USA,1998,Back-row,20,4,16,0,10,2,Ha'asini,Tonga
-Shaun Paga,USA,1998,Flanker,15,4,11,0,15,3,NA,Svizra
+Shaun Paga,USA,1998,Flanker,15,4,11,0,15,3,NA,
 George Sucher,USA,1998,"Hooker, Prop",15,4,11,0,5,1,"Philadelphia, PA, United States",USA
 Malakai Tabuvuya,USA,1998,Wing,1,0,1,0,0,0,,
-Britt Howard,USA,1998,Scrum-half,4,0,4,0,0,0,NA,Nederland
+Britt Howard,USA,1998,Scrum-half,4,0,4,0,0,0,NA,
 Doug Gillies,USA,1998,No. 8,2,1,1,0,0,0,"Yass, NSW",Australia
 Kirk Khasigian,USA,1998,Hooker,37,12,25,0,15,3,"Sacramento, CA, United States",USA
 Bob LeClerc,USA,1998,Lock,2,1,1,0,0,0,Whangarei,NewZealand
-Ian Stevens,USA,1998,Fly-half,1,0,1,0,4,0,NA,Danmark
+Ian Stevens,USA,1998,Fly-half,1,0,1,0,4,0,NA,
 Philippe Farner,USA,1999,Lock,18,7,11,0,5,1,Dar-es-Salaam,Tanzania
 David Niu,USA,1999,Fly-half,8,3,5,0,8,1,"Sydney, NSW",Australia
-Joe Clayton,USA,1999,Prop,11,3,8,0,5,1,NA,Danmark
-Marc l'Huillier,USA,1999,Prop,2,0,2,0,0,0,NA,Россия
+Joe Clayton,USA,1999,Prop,11,3,8,0,5,1,NA,
+Marc l'Huillier,USA,1999,Prop,2,0,2,0,0,0,NA,
 Jesse Coulson,USA,1999,Scrum-half,1,0,1,0,0,0,Auckland,NewZealand
-Eric Reed,USA,1999,Lock,7,1,6,0,0,0,NA,Austria
+Eric Reed,USA,1999,Lock,7,1,6,0,0,0,NA,
 Phillip Eloff,USA,2000,Centre,35,15,20,0,50,10,Thabazimbi,SouthAfrica
 Matt Kane,USA,2000,Lock,7,2,5,0,0,0,"Seattle, WA, United States",Australia
 Kort Schubert,USA,2000,Back-row,49,16,33,0,20,4,"Sacramento, CA, United States",USA
 Grant Wells,USA,2000,Fly-half,12,3,9,0,100,0,Christchurch,NewZealand
-Don Younger,USA,2000,Flanker,4,2,2,0,0,0,NA,Svizra
-Tom Kelleher,USA,2000,Lock,5,2,3,0,0,0,NA,Nederland
-John Burke,USA,2000,Flanker,2,1,1,0,0,0,NA,Danmark
-Robbie Flynn,USA,2000,Hooker,9,2,7,0,5,1,NA,Danmark
+Don Younger,USA,2000,Flanker,4,2,2,0,0,0,NA,
+Tom Kelleher,USA,2000,Lock,5,2,3,0,0,0,NA,
+John Burke,USA,2000,Flanker,2,1,1,0,0,0,NA,
+Robbie Flynn,USA,2000,Hooker,9,2,7,0,5,1,NA,
 Link Wilfley,USA,2000,Fly-half,20,7,13,0,63,3,"Denver, CO, United States",USA
-Olo Fifita,USA,2000,Flanker,17,2,15,0,5,1,NA,Nederland
+Olo Fifita,USA,2000,Flanker,17,2,15,0,5,1,NA,
 Mike MacDonald,USA,2000,Prop,67,21,46,0,30,6,"Berkeley, CA, United States",USA
 Roger Grant,USA,2000,Wing,1,0,1,0,0,0,"Dublin, GA, United States",USA
 Jason Gillam,USA,2000,Flanker,1,0,1,0,0,0,,
 Mose Timoteo,USA,2000,Scrum-half,32,10,22,0,15,3,Pago Pago,USA
-Jovesa Naivalu,USA,2000,Wing,10,2,8,0,20,4,NA,Svizra
+Jovesa Naivalu,USA,2000,Wing,10,2,8,0,20,4,NA,
 Paul Still,USA,2000,Prop,7,1,6,0,0,0,"Berkeley, CA, United States",USA
 Jason Keyter,USA,2000,Wing,17,5,12,0,13,2,Port Elizabeth,SouthAfrica
 Alex Magleby,USA,2000,Flanker,4,1,3,0,0,0,"Salt Lake City, UT, United States",USA
@@ -10885,22 +10885,22 @@ John Buchholz,USA,2001,Fullback,9,2,7,0,0,0,"Santa Rosa, CA, United States",USA
 Kimball Kjar,USA,2001,Scrum-half,19,4,15,0,10,2,"Provo, UT, United States",USA
 Jone Naqica,USA,2001,"Fullback, Wing",8,2,6,0,10,2,Suva,Fiji
 Dan Dorsey,USA,2001,Prop,24,10,14,0,5,1,"Inglewood, CA, United States",USA
-Brian Surgener,USA,2001,Lock,12,3,9,0,0,0,NA,Svizra
+Brian Surgener,USA,2001,Lock,12,3,9,0,0,0,NA,
 Mike Hercus,USA,2002,Fly-half,48,19,29,0,465,9,"Falls Church, VI, United States",USA
-Aaron Satchwell,USA,2002,No. 8,2,1,1,0,0,0,NA,Danmark
-Dan Anderson,USA,2002,Hooker,1,0,1,0,0,0,NA,Danmark
-Conrad Hodgson,USA,2002,Flanker,11,6,5,0,10,2,NA,Svizra
+Aaron Satchwell,USA,2002,No. 8,2,1,1,0,0,0,NA,
+Dan Anderson,USA,2002,Hooker,1,0,1,0,0,0,NA,
+Conrad Hodgson,USA,2002,Flanker,11,6,5,0,10,2,NA,
 Andy McGarry,USA,2002,Prop,2,1,1,0,0,0,"Dayton, OH, United States",USA
 John Tarpoff,USA,2002,Prop,12,5,7,0,0,0,"St Louis, MO, United States",USA
 David Fee,USA,2002,Wing,28,12,16,0,45,9,"Chicago, IL, United States",USA
 Cayo Nicolau,USA,2002,Centre,4,2,2,0,10,2,Belem,Palestinian Territory
-Chris Miller,USA,2002,Hooker,2,1,1,0,0,0,NA,Svizra
+Chris Miller,USA,2002,Hooker,2,1,1,0,0,0,NA,
 Al Lakomskis,USA,2002,Fullback,4,0,4,0,0,0,Lincoln,USA
 Kain Cross,USA,2003,Centre,12,6,6,0,25,5,"Dubbo, NSW",Australia
 Riaan van Zyl,USA,2003,Wing,13,7,6,0,45,9,Stellenbosch,SouthAfrica
 Paul Emerick,USA,2003,"Fullback, Centre",53,21,32,0,85,17,"Emmetsburg, IA, United States",USA
 Mark Griffin,USA,2003,Hooker,9,4,5,0,0,0,Oakham,England
-Christian Long,USA,2003,Lock,1,1,0,0,0,0,NA,Россия
+Christian Long,USA,2003,Lock,1,1,0,0,0,0,NA,
 Jacob Waasdorp,USA,2003,Prop,15,5,10,0,5,1,"Pasadena, CA, United States",USA
 Jurie Gouws,USA,2003,Flanker,8,2,6,0,0,0,Durban,SouthAfrica
 Matt Sherman,USA,2003,Fly-half,7,1,6,0,6,0,"San Francisco, CA, United States",USA
@@ -10912,29 +10912,29 @@ Salesi Sika,USA,2003,"Wing, Centre",22,4,18,0,25,5,Haveluloto,Tonga
 Albert Tuipulotu,USA,2004,Centre,19,5,14,0,15,3,"San Mateo, CA, United States",USA
 David Williams,USA,2004,Scrum-half,11,3,8,0,0,0,Bristol,England
 Francois Viljoen,USA,2004,Fullback,18,5,13,0,69,1,"Oakland, CA, United States",USA
-Tony Petruzzella,USA,2004,Flanker,9,2,7,0,0,0,NA,Sverige
+Tony Petruzzella,USA,2004,Flanker,9,2,7,0,0,0,NA,
 Chris Osentowski,USA,2004,Prop,18,4,14,0,0,0,"Des Moines, IA, United States",USA
 James Lik,USA,2005,Lock,3,1,2,0,0,0,"New Hyde Park, NY, United States",USA
 Mike Palefau,USA,2005,Wing,11,2,9,0,15,3,"Kahuki, HI, United States",USA
-Andrew Ryland,USA,2005,Flanker,4,2,2,0,0,0,NA,Sverige
+Andrew Ryland,USA,2005,Flanker,4,2,2,0,0,0,NA,
 Louis Stanfill,USA,2005,Lock,56,16,39,1,15,3,"Sacramento, CA, United States",USA
 John Hartman,USA,2005,Wing,2,0,2,0,0,0,"St Louis, MO, United States",USA
 Mike Mangan,USA,2005,No. 8,17,4,13,0,0,0,"Chicago, IL, United States",USA
-Mike Hobson,USA,2005,Hooker,1,1,0,0,0,0,NA,România
-Doug Rowe,USA,2005,Scrum-half,2,1,1,0,0,0,NA,Россия
+Mike Hobson,USA,2005,Hooker,1,1,0,0,0,0,NA,
+Doug Rowe,USA,2005,Scrum-half,2,1,1,0,0,0,NA,
 Mike French,USA,2005,Prop,8,2,6,0,0,0,"Anchorage, AK, United States",USA
 Scott Jones,USA,2005,"Wing, Centre",2,1,1,0,0,0,"Murray, KT, United States",USA
 Jason Pye,USA,2005,"Wing, Fullback",2,1,1,0,0,0,"New Orleans, LA, United States",USA
-Carl Hansen,USA,2005,Lock,4,1,3,0,0,0,NA,Россия
+Carl Hansen,USA,2005,Lock,4,1,3,0,0,0,NA,
 Vaha Esikia,USA,2006,Centre,13,3,10,0,20,4,"Nieafu, Vava'u",Tonga
 Jeff Hullinger,USA,2006,Wing,5,3,2,0,30,6,"San Clemente, CA, United States",USA
 Owen Lentz,USA,2006,"Hooker, Flanker",8,1,7,0,0,0,King William's Town,SouthAfrica
 Tyson Meek,USA,2006,Scrum-half,4,1,3,0,0,0,"Plano, TX, United States",USA
 Pate Tuilevuka,USA,2006,"Centre, Fly-half",10,5,5,0,12,2,Suva,Fiji
 Mark Aylor,USA,2006,Back-row,11,3,8,0,0,0,"San Angelo, TX, United States",USA
-Brian Barnard,USA,2006,Wing,4,1,3,0,5,1,NA,Sverige
+Brian Barnard,USA,2006,Wing,4,1,3,0,5,1,NA,
 Patrick Bell,USA,2006,"Prop, Hooker",7,3,4,0,10,2,Pietermaritzburg,SouthAfrica
-Brian Schoener,USA,2006,Lock,3,0,3,0,0,0,NA,Svizra
+Brian Schoener,USA,2006,Lock,3,0,3,0,0,0,NA,
 Jason Kelly,USA,2006,Fly-half,3,1,2,0,6,0,Timaru,NewZealand
 Jeremy Nash,USA,2006,Wing,2,0,2,0,0,0,,
 Steve Thompson,England,2002,Hooker,76,49,25,2,20,4,Hemel Hempstead,England
@@ -11353,7 +11353,7 @@ Jack Conan,Ireland,2015,No. 8,1,1,0,0,0,0,Dublin,Ireland
 Nathan White,Ireland,2015,Prop,13,7,5,1,0,0,Hawera,NewZealand
 Tadhg Furlong,Ireland,2015,Prop,16,7,8,1,0,0,New Ross,Canada
 CJ Stander,Ireland,2016,Back-row,15,8,6,1,30,6,George,SouthAfrica
-Stuart McCloskey,Ireland,2016,Centre,1,0,1,0,0,0,"Newtonards, Northern Ireland",
+Stuart McCloskey,Ireland,2016,Centre,1,0,1,0,0,0,"Newtonards, Northern Ireland",Ireland
 Josh van der Flier,Ireland,2016,Flanker,7,4,3,0,0,0,Dublin,Ireland
 Ultan Dillane,Ireland,2016,Lock,10,7,3,0,5,1,Paris,France
 Matt Cardey,Wales,2000,Fullback,1,1,0,0,0,0,Papakura,NewZealand
@@ -11397,7 +11397,7 @@ Nicky Robinson,Wales,2003,Fly-half,13,7,6,0,42,2,Cardiff,Wales
 Huw Bennett,Wales,2003,Hooker,51,25,25,1,0,0,Ebbw Vale,Wales
 Adam Jones,Wales,2003,Prop,100,49,48,3,10,2,Abercrave,Wales
 Nathan Brew,Wales,2003,"Wing, Centre",1,1,0,0,5,1,S.Glamorgan,Wales
-Brent Cockbain,Wales,2003,Lock,24,13,11,0,5,1,"Innisfail, Cairns",
+Brent Cockbain,Wales,2003,Lock,24,13,11,0,5,1,"Innisfail, Cairns",Australia
 Paul James,Wales,2003,Prop,66,30,35,1,0,0,Neath,Wales
 Mike Phillips,Wales,2003,Scrum-half,99,47,50,2,50,10,Carmarthen,Wales
 James Bater,Wales,2003,Back-row,1,1,0,0,0,0,Bridgend,Wales
@@ -11933,7 +11933,7 @@ Julien Laharrague,France,2005,Fullback,12,7,4,1,20,4,Tarbes,France
 Benoit Baby,France,2005,Centre,9,5,4,0,8,1,Lavelanet,France
 David Marty,France,2005,Centre,37,30,7,0,55,11,Perpignan,France
 Julien Candelon,France,2005,Wing,2,0,1,1,10,2,Agen,France
-Florian Fritz,France,2005,Centre,34,14,18,2,24,3,"Sens, Burgundy",
+Florian Fritz,France,2005,Centre,34,14,18,2,24,3,"Sens, Burgundy",France
 Romain Millo-Chluski,France,2005,Lock,18,10,7,1,0,0,Ris-Orangis,France
 Denis Avril,France,2005,Prop,1,0,1,0,0,0,Thouars,France
 Guilliaume Bousses,France,2006,Centre,1,0,1,0,0,0,Toulouse,France
@@ -12191,7 +12191,7 @@ Marco Bortolami,Italy,2001,Lock,112,29,82,1,35,7,Padova,Italy
 Roberto Pedrazzi,Italy,2001,"Wing, Centre",8,1,7,0,0,0,Modena,Italy
 Salvatore Garozzo,Italy,2001,"Lock, Back-row",3,1,2,0,0,0,Catania,Italy
 Andrea Benatti,Italy,2001,Back-row,5,1,4,0,5,1,"Viadana, MN",Italy
-Samuele Pace,Italy,2001,Centre,3,1,2,0,0,0,"Ponte dell'Oglio, PC",
+Samuele Pace,Italy,2001,Centre,3,1,2,0,0,0,"Ponte dell'Oglio, PC",Italy
 Cristian Zanoletti,Italy,2001,Centre,7,1,6,0,0,0,Brescia,Italy
 Santiago Dellape,Italy,2002,Lock,64,18,45,1,15,3,La Plata,Argentina
 Matthew Phillips,Italy,2002,No. 8,14,1,13,0,15,3,Kaitaia,NewZealand
@@ -13108,7 +13108,7 @@ Jack O'Donoghue,Ireland,2016,Back-row,1,1,0,0,0,0,Waterford,Ireland
 Garry Ringrose,Ireland,2016,Centre,8,5,3,0,10,2,Dublin,Ireland
 Niyi Adeolokun,Ireland,2016,Wing,1,1,0,0,0,0,Ibadan,Nigeria
 Dan Leavy,Ireland,2016,Flanker,2,2,0,0,0,0,Donnybrook,Ireland
-Luke McGrath,Ireland,2016,Scrum-half,2,2,0,0,0,0,"Hamilton, ONT",NewZealand
+Luke McGrath,Ireland,2016,Scrum-half,2,2,0,0,0,0,"Hamilton, Ontario",Canada
 John Ryan,Ireland,2016,Prop,6,4,2,0,0,0,Cork,Ireland
 James Tracy,Ireland,2016,Hooker,2,2,0,0,5,1,Kildare,Ireland
 Niall Scannell,Ireland,2017,Hooker,4,3,1,0,0,0,Cork,Ireland
@@ -13204,7 +13204,7 @@ Maxime Mbanda,Italy,2016,Back-row,8,2,6,0,0,0,Roma,Italy
 Sebastian Negri da Ollegio,Italy,2016,Lock,2,2,0,0,0,0,Harare,Zimbabwe
 Tommaso Boni,Italy,2016,Centre,2,1,1,0,5,1,"Mestre, VE",Italy
 Giorgio Bronzini,Italy,2016,Scrum-half,7,1,6,0,0,0,"Viadana, MN",Italy
-Simone Ferrari,Italy,2016,Prop,2,1,1,0,0,0,Cernusco sul Navigli,
+Simone Ferrari,Italy,2016,Prop,2,1,1,0,0,0,Cernusco sul Navigli,Italy
 Nicola Quaglio,Italy,2016,Prop,2,1,1,0,0,0,Rovigo,Italy
 Luca Sperandio,Italy,2017,Wing,2,0,2,0,0,0,Treviso,Italy
 Federico Ruzza,Italy,2017,Lock,1,0,1,0,0,0,Padova,Italy
