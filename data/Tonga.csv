@@ -131,7 +131,7 @@ Kimpu 'Inoke,Tonga,1967,Flanker,11,3,7,1,10,3,,
 Kei 'Iongi,Tonga,1967,Wing,12,4,7,1,10,2,,
 Etuini Kelemeni,Tonga,1967,Wing,3,0,2,1,0,0,,
 Tali Latukefu,Tonga,1967,Fly-half,6,1,4,1,0,0,,
-Tevita Leger,Tonga,1967,Flanker,2,0,2,0,0,0,,
+Tevita Leger,Tonga,1967,Flanker,2,0,2,0,0,0,NA,Norge
 Tuilipe Mapa,Tonga,1967,Scrum-half,2,0,1,1,0,0,,
 Viliami Pahulu,Tonga,1967,Hooker,9,4,4,1,16,0,,
 Samiuela Tatafu,Tonga,1967,Fullback,1,0,1,0,0,0,,
@@ -159,7 +159,7 @@ Sami Latu,Tonga,1972,Centre,10,3,7,0,12,3,,
 Taufu'i Moala,Tonga,1972,Wing,1,0,1,0,0,0,,
 Kulini Motu'apuaka,Tonga,1972,Prop,1,0,1,0,0,0,,
 Ilavalu Taufa,Tonga,1972,Fullback,1,0,1,0,2,0,,
-Polutele Tuihalamaka,Tonga,1972,Lock,14,3,11,0,4,1,,
+Polutele Tuihalamaka,Tonga,1972,Lock,14,3,11,0,4,1,NA,Perú
 Fatai Kefu,Tonga,1972,Fullback,6,1,5,0,0,0,,
 Eukaliti Hehepoto,Tonga,1972,Hooker,5,2,3,0,4,1,,
 Tevita Bloomfield,Tonga,1973,Prop,5,2,3,0,0,0,,
@@ -167,7 +167,7 @@ Ha'unga Fonua,Tonga,1973,Scrum-half,7,3,4,0,4,1,,
 F. Hufanga,Tonga,1973,Lock,1,1,0,0,0,0,,
 Valita Ma'ake,Tonga,1973,Fullback,17,6,11,0,47,0,,
 Siope Matapule,Tonga,1973,Wing,2,1,1,0,0,0,,
-Fakahau Valu,Tonga,1973,Flanker,25,7,18,0,24,6,,
+Fakahau Valu,Tonga,1973,Flanker,25,7,18,0,24,6,NA,Perú
 Sione Foliaki,Tonga,1973,Fly-half,3,1,2,0,0,0,,
 Pasifiki Tonga,Tonga,1973,Prop,1,0,1,0,0,0,,
 Fa'aleo Tupi,Tonga,1973,Lock,8,2,6,0,4,1,,
@@ -204,25 +204,25 @@ Siai Liava'a,Tonga,1979,Lock,4,1,3,0,0,0,,
 Peseti Ma'afu,Tonga,1979,Scrum-half,10,4,6,0,4,1,,
 Tui'pulotu Viliame,Tonga,1979,Centre,1,0,1,0,0,0,,
 Ofa Hiko,Tonga,1979,Prop,1,0,1,0,0,0,,
-Alamoni Liava'a,Tonga,1979,Centre,14,4,10,0,31,3,,
+Alamoni Liava'a,Tonga,1979,Centre,14,4,10,0,31,3,NA,Perú
 Prince Mailefihi,Tonga,1979,Lock,2,0,2,0,0,0,,
-Nofomuli Taumoefolau,Tonga,1979,Wing,18,4,13,1,20,5,,
+Nofomuli Taumoefolau,Tonga,1979,Wing,18,4,13,1,20,5,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
 Tui'pulotu Maka,Tonga,1979,Wing,3,2,1,0,4,1,,
 M. Malu,Tonga,1979,Flanker,1,1,0,0,0,0,,
 Malakai Pulumu,Tonga,1979,Flanker,6,4,2,0,0,0,,
 Puniani Tu'ipulotu,Tonga,1979,Hooker,2,2,0,0,7,0,,
 Mailefihi Tuku'aho,Tonga,1979,Lock,4,3,1,0,0,0,Nuku'alofa,Tonga
 Soane Hola,Tonga,1979,Lock,1,1,0,0,0,0,,
-Talanoa Kitekei'aho,Tonga,1979,Centre,4,1,3,0,0,0,,
+Talanoa Kitekei'aho,Tonga,1979,Centre,4,1,3,0,0,0,NA,Perú
 Kulikefu Lomu,Tonga,1979,Centre,1,1,0,0,0,0,,
-Soakai Motu'apuaka,Tonga,1979,Prop,3,2,1,0,0,0,,
+Soakai Motu'apuaka,Tonga,1979,Prop,3,2,1,0,0,0,NA,Perú
 Semisi Faleafa,Tonga,1980,Centre,1,1,0,0,0,0,,
 Fou Ma'afu,Tonga,1980,Wing,9,3,5,1,12,3,,
 Fili Moala,Tonga,1980,Hooker,12,5,7,0,4,1,,
 Sione Vai,Tonga,1980,Centre,1,1,0,0,4,1,,
 Sweet Leilani Fekau,Tonga,1981,Centre,5,1,4,0,0,0,,
 Poseisei Havili,Tonga,1981,Flanker,3,1,2,0,0,0,,
-Viliami Lutua,Tonga,1981,Prop,7,1,5,1,0,0,,
+Viliami Lutua,Tonga,1981,Prop,7,1,5,1,0,0,NA,Perú
 Sitini Mahe,Tonga,1981,Lock,3,1,2,0,0,0,,
 Paea Moala,Tonga,1981,Wing,3,1,2,0,4,1,,
 Soape Nuku,Tonga,1981,Centre,5,2,3,0,14,1,,
@@ -230,7 +230,7 @@ Sisi Tu'ipulotu,Tonga,1981,Prop,1,0,1,0,0,0,,
 Pohahau Palu,Tonga,1981,Flanker,1,1,0,0,0,0,,
 Siale Vai,Tonga,1981,Fullback,4,1,3,0,9,0,,
 Sanilaita,Tonga,1981,Wing,1,1,0,0,0,0,,
-Amone Fungavaka,Tonga,1982,Hooker,13,3,10,0,4,1,,
+Amone Fungavaka,Tonga,1982,Hooker,13,3,10,0,4,1,NA,Perú
 Tu'ikolovatu Halafihi,Tonga,1982,Fullback,5,2,3,0,3,0,,
 Liapo Halavatau,Tonga,1982,Lock,2,0,2,0,0,0,,
 T. Kapeli,Tonga,1982,No. 8,1,0,1,0,0,0,,
@@ -240,7 +240,7 @@ Feleti Moala,Tonga,1982,Scrum-half,4,2,2,0,0,0,,
 Pule Moala,Tonga,1982,Centre,6,1,5,0,0,0,,
 Tevita Soane,Tonga,1982,Lock,7,3,4,0,0,0,,
 Poese Taukolo,Tonga,1982,Flanker,2,0,2,0,0,0,,
-Hakatoa Tupou,Tonga,1982,Prop,9,1,8,0,4,1,,
+Hakatoa Tupou,Tonga,1982,Prop,9,1,8,0,4,1,NA,Perú
 Kapelilei Vunipola,Tonga,1982,Fly-half,6,1,5,0,0,0,,
 Mesui Fanga'uta,Tonga,1982,Wing,1,0,1,0,0,0,,
 Vatuniloka Fifita,Tonga,1982,No. 8,1,0,1,0,0,0,,
@@ -248,7 +248,7 @@ Ha'unga Petelo,Tonga,1982,Fullback,1,0,1,0,0,0,,
 Feleti Taniela,Tonga,1982,Wing,1,0,1,0,0,0,,
 Viliami Vunipola,Tonga,1982,Centre,1,0,1,0,0,0,,
 Pau Afeaki,Tonga,1983,Flanker,2,1,1,0,0,0,,
-Talai Fifita,Tonga,1983,Scrum-half,11,2,9,0,16,4,,
+Talai Fifita,Tonga,1983,Scrum-half,11,2,9,0,16,4,NA,Sverige
 Viliami Maka,Tonga,1983,Lock,4,2,2,0,0,0,,
 Kouliti Ma'u,Tonga,1983,Prop,5,2,3,0,8,2,,
 Laukau Ofa,Tonga,1983,Wing,5,1,4,0,0,0,,
@@ -258,13 +258,13 @@ Heneli Pau'u,Tonga,1983,Prop,2,1,1,0,0,0,,
 Tohi Leha,Tonga,1983,Flanker,2,0,2,0,0,0,,
 Pau'u Lolohea,Tonga,1983,Flanker,2,0,2,0,0,0,,
 Tu'ihalafatai Ma'afu,Tonga,1983,Wing,2,0,2,0,4,1,,
-Takai Makisi,Tonga,1983,Prop,4,1,3,0,0,0,,
+Takai Makisi,Tonga,1983,Prop,4,1,3,0,0,0,NA,Perú
 Mo'unga Taufateau,Tonga,1983,Fullback,4,1,3,0,4,1,,
 Paula Taholo,Tonga,1983,Prop,1,0,1,0,0,0,,
 Sinali-Tui Latu,Tonga,1984,No. 8,34,11,23,0,18,4,Ha'apai,Tonga
 Feao Lavemai,Tonga,1984,Centre,4,2,2,0,4,1,,
 Sekona Taufa,Tonga,1984,Wing,1,1,0,0,0,0,,
-Tali Ete'aki,Tonga,1984,Fullback,13,2,11,0,0,0,,
+Tali Ete'aki,Tonga,1984,Fullback,13,2,11,0,0,0,NA,Perú
 Paula Tupou,Tonga,1984,No. 8,3,0,3,0,0,0,,
 Laifai'i Kauhalaniua,Tonga,1984,Fly-half,1,0,1,0,0,0,,
 Peni Fakava,Tonga,1985,Wing,2,1,1,0,0,0,,
@@ -272,25 +272,25 @@ Manisela Hekeheke,Tonga,1985,Flanker,4,2,2,0,0,0,,
 Fetaiaki Langi,Tonga,1985,Flanker,6,2,4,0,4,1,,
 Pila Maka,Tonga,1985,Lock,1,1,0,0,0,0,,
 Lui Stanley,Tonga,1985,Centre,1,1,0,0,0,0,,
-Latu Vaeno,Tonga,1985,Prop,4,2,2,0,0,0,,
+Latu Vaeno,Tonga,1985,Prop,4,2,2,0,0,0,NA,Perú
 Lausii Hopoate,Tonga,1986,Wing,1,0,1,0,0,0,,
-Emosi Koloto,Tonga,1986,Flanker,1,0,1,0,0,0,,
+Emosi Koloto,Tonga,1986,Flanker,1,0,1,0,0,0,NA,Danmark
 Funa Moala,Tonga,1986,Prop,1,0,1,0,0,0,,
-Samiu Mohi,Tonga,1986,Centre,6,1,5,0,0,0,,
-Mofuike Tu'ungafasi,Tonga,1986,Lock,5,1,4,0,0,0,,
+Samiu Mohi,Tonga,1986,Centre,6,1,5,0,0,0,NA,Perú
+Mofuike Tu'ungafasi,Tonga,1986,Lock,5,1,4,0,0,0,NA,Perú
 Vaivao Fa'aumu,Tonga,1986,Centre,4,1,3,0,0,0,,
-Maliu Filise,Tonga,1986,No. 8,4,1,3,0,0,0,,
+Maliu Filise,Tonga,1986,No. 8,4,1,3,0,0,0,NA,Perú
 Popolini Ta'univao,Tonga,1986,Flanker,1,1,0,0,0,0,,
 Totilini Tuavao,Tonga,1986,Flanker,1,0,1,0,0,0,,
-Soane 'Asi,Tonga,1987,Wing,1,0,1,0,0,0,,
-Quddus Fielea,Tonga,1987,Wing,12,1,11,0,8,2,,
-Kasi Fine,Tonga,1987,Lock,4,0,4,0,0,0,,
-Kini Fotu,Tonga,1987,No. 8,8,1,7,0,4,1,,
-Taipaleti Tu'uta,Tonga,1987,Flanker,8,2,6,0,0,0,,
-Sione Tahaafe,Tonga,1987,No. 8,1,0,1,0,0,0,,
-Lemeki Vaipulu,Tonga,1987,Fly-half,1,0,1,0,0,0,,
-Asa Amone,Tonga,1987,Fly-half,5,0,5,0,12,0,,
-Manu Vunipola,Tonga,1987,Scrum-half,36,12,23,1,9,2,,
+Soane 'Asi,Tonga,1987,Wing,1,0,1,0,0,0,NA,Perú
+Quddus Fielea,Tonga,1987,Wing,12,1,11,0,8,2,NA,Danmark
+Kasi Fine,Tonga,1987,Lock,4,0,4,0,0,0,NA,Perú
+Kini Fotu,Tonga,1987,No. 8,8,1,7,0,4,1,NA,Perú
+Taipaleti Tu'uta,Tonga,1987,Flanker,8,2,6,0,0,0,NA,Perú
+Sione Tahaafe,Tonga,1987,No. 8,1,0,1,0,0,0,NA,Perú
+Lemeki Vaipulu,Tonga,1987,Fly-half,1,0,1,0,0,0,NA,Perú
+Asa Amone,Tonga,1987,Fly-half,5,0,5,0,12,0,NA,Danmark
+Manu Vunipola,Tonga,1987,Scrum-half,36,12,23,1,9,2,NA,Perú
 Siaosi 'Atiola,Tonga,1987,No. 8,8,1,6,1,4,1,,
 Inoke Finau,Tonga,1987,Prop,5,0,5,0,0,0,,
 Maimoa Havili,Tonga,1987,Lock,2,0,1,1,8,0,,
@@ -299,11 +299,11 @@ Kite Tuivailala,Tonga,1987,Fly-half,12,2,9,1,21,0,,
 Lopeti Uhatafe,Tonga,1987,Fly-half,2,0,2,0,5,0,,
 Semi Ve'ehala,Tonga,1987,Back-row,9,2,6,1,0,0,,
 Chris Manu,Tonga,1987,Scrum-half,4,1,3,0,0,0,,
-Liueli Fusimalohi,Tonga,1987,Fullback,5,0,4,1,0,0,,
+Liueli Fusimalohi,Tonga,1987,Fullback,5,0,4,1,0,0,NA,Perú
 Tevita Hafoka,Tonga,1987,Lock,1,0,1,0,0,0,,
 Kolona Latu,Tonga,1987,Lock,1,0,1,0,4,1,,
 Fa'onelua Fakaua,Tonga,1988,Fly-half,1,0,1,0,0,0,,
-Kuli Faletau,Tonga,1988,Lock,20,7,12,1,9,2,,
+Kuli Faletau,Tonga,1988,Lock,20,7,12,1,9,2,NA,Austria
 Fatai Ika,Tonga,1988,Centre,6,1,4,1,0,0,,
 Maliepo Toma,Tonga,1988,No. 8,6,0,6,0,4,1,,
 Soane Finau,Tonga,1988,Prop,8,2,6,0,0,0,,
@@ -313,22 +313,22 @@ Hikifo'ou Vaingolo,Tonga,1988,Centre,1,0,1,0,0,0,,
 'Asisi Pou'uhila,Tonga,1988,Centre,1,0,0,1,0,0,,
 Takitoa Taumoepeau,Tonga,1988,Wing,1,0,0,1,0,0,,
 Koloni Tuivailala,Tonga,1988,Lock,1,0,0,1,4,1,,
-Fe'ao Vunipola,Tonga,1988,Hooker,34,13,20,1,15,3,,
+Fe'ao Vunipola,Tonga,1988,Hooker,34,13,20,1,15,3,NA,Nederland
 Koliniata Feke,Tonga,1988,Wing,6,1,4,1,0,0,,
 Samiu Mafi,Tonga,1988,Wing,6,2,4,0,0,0,,
-Tinitale Makalea,Tonga,1988,No. 8,1,0,1,0,0,0,,
+Tinitale Makalea,Tonga,1988,No. 8,1,0,1,0,0,0,NA,Nederland
 Liueli Susimalofi,Tonga,1989,Centre,1,0,1,0,0,0,,
 Moimoi Halatanu,Tonga,1989,Fullback,1,1,0,0,0,0,,
 Feao Filikitonga,Tonga,1990,Prop,2,0,2,0,0,0,,
-Isi Tapueluelu,Tonga,1990,Fullback,13,3,10,0,25,5,,
+Isi Tapueluelu,Tonga,1990,Fullback,13,3,10,0,25,5,NA,Danmark
 Ikani Taufa,Tonga,1990,Scrum-half,1,0,1,0,0,0,,
 Nafe Tufui,Tonga,1990,Scrum-half,8,3,5,0,12,0,,
-Elisi Vunipola,Tonga,1990,Fly-half,41,15,26,0,50,8,,
+Elisi Vunipola,Tonga,1990,Fly-half,41,15,26,0,50,8,NA,Danmark
 Tevita Lavaki,Tonga,1990,Prop,3,1,2,0,0,0,,
 Amanaki Vaha'akolo,Tonga,1990,Centre,2,1,1,0,0,0,,
 Fololisi Masila,Tonga,1990,Hooker,11,0,11,0,14,3,,
 Peniola Ahofono,Tonga,1990,Scrum-half,1,0,1,0,0,0,,
-Vaea Anitoni,Tonga,1990,Wing,47,14,33,0,130,26,,
+Vaea Anitoni,Tonga,1990,Wing,47,14,33,0,130,26,NA,Danmark
 Feleti Faotusa,Tonga,1990,Prop,1,0,1,0,0,0,,
 Takau Lutua,Tonga,1990,Prop,9,6,3,0,0,0,,
 Uafe Niuila,Tonga,1990,Centre,1,0,1,0,0,0,,
@@ -341,37 +341,37 @@ Lopeti Samiu,Tonga,1991,Prop,1,0,1,0,0,0,,
 Sione Vaeno,Tonga,1991,Wing,1,0,1,0,0,0,,
 Tevita Va'enuku,Tonga,1991,Wing,15,4,11,0,24,5,,
 Soane Hiko,Tonga,1991,Wing,1,0,1,0,0,0,,
-Alatini Saulala,Tonga,1991,Centre,2,0,2,0,0,0,,
+Alatini Saulala,Tonga,1991,Centre,2,0,2,0,0,0,NA,Nederland
 Fatui Lagilagi,Tonga,1991,Prop,1,0,1,0,0,0,,
 Huihahau Nisa,Tonga,1991,Fly-half,3,1,2,0,6,0,,
 Semi Taupeaafe,Tonga,1991,"Wing, Centre",15,4,11,0,0,0,Nuku'alofa,Tonga
 Pelimani Fisi'iahi,Tonga,1992,Lock,1,0,1,0,5,1,,
-Rudi Kapeli,Tonga,1992,Hooker,4,2,2,0,0,0,,
+Rudi Kapeli,Tonga,1992,Hooker,4,2,2,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
 Dave Latailakepa,Tonga,1992,No. 8,3,1,2,0,0,0,,
-Holani Pohiva,Tonga,1992,No. 8,4,0,4,0,0,0,,
+Holani Pohiva,Tonga,1992,No. 8,4,0,4,0,0,0,NA,Danmark
 Chris Schaumkel,Tonga,1992,Fly-half,4,1,3,0,8,0,,
-Isi Tu'ivai,Tonga,1992,Wing,15,6,9,0,38,6,,
+Isi Tu'ivai,Tonga,1992,Wing,15,6,9,0,38,6,NA,Danmark
 Mistana Vea,Tonga,1992,Wing,2,1,1,0,3,0,,
-Tasi Vikilani,Tonga,1992,No. 8,4,1,3,0,0,0,,
+Tasi Vikilani,Tonga,1992,No. 8,4,1,3,0,0,0,NA,Danmark
 Isi Fatani,Tonga,1992,Lock,25,11,13,1,25,5,Nuku'alofa,Tonga
 Siaosi Latu,Tonga,1992,Prop,3,2,1,0,0,0,,
 Tevita Pau'u,Tonga,1992,Wing,1,1,0,0,0,0,,
 Tavake Tuineau,Tonga,1992,Wing,6,2,4,0,0,0,,
-Ipolito Fenukitau,Tonga,1993,Flanker,18,5,13,0,15,3,,
+Ipolito Fenukitau,Tonga,1993,Flanker,18,5,13,0,15,3,NA,Danmark
 Samisoni Lolo,Tonga,1993,Flanker,1,0,1,0,0,0,,
 Feleti Mahoni,Tonga,1993,Flanker,13,5,8,0,15,3,Maufanga,Tonga
 Valita Moa,Tonga,1993,Prop,2,0,2,0,0,0,,
-Edwin Talakai,Tonga,1993,Prop,8,3,5,0,0,0,,
+Edwin Talakai,Tonga,1993,Prop,8,3,5,0,0,0,NA,Россия
 Pauliasi Vakamalolo,Tonga,1993,Centre,1,0,1,0,0,0,,
 Martin Manukia,Tonga,1993,No. 8,6,2,4,0,5,1,,
-Feleti Fakaongo,Tonga,1993,"Lock, Flanker",14,6,8,0,0,0,,
+Feleti Fakaongo,Tonga,1993,"Lock, Flanker",14,6,8,0,0,0,NA,Danmark
 Manu Lavaka,Tonga,1993,Centre,4,1,3,0,5,1,,
 A. Tulikaki,Tonga,1993,Scrum-half,1,0,1,0,0,0,,
 Afu Uasi,Tonga,1993,Wing,4,2,2,0,5,1,,
-Finau Ma'afu,Tonga,1993,Wing,1,1,0,0,0,0,,
+Finau Ma'afu,Tonga,1993,Wing,1,1,0,0,0,0,NA,Perú
 Semisi Tongia,Tonga,1993,Hooker,1,1,0,0,0,0,,
 Falamani Mafi,Tonga,1993,Lock,22,8,14,0,10,2,Kanokupolu,Tonga
-Alaska Taufa,Tonga,1993,Wing,5,2,3,0,5,1,,
+Alaska Taufa,Tonga,1993,Wing,5,2,3,0,5,1,NA,Danmark
 Taipe Vave,Tonga,1993,Fullback,1,0,1,0,4,0,,
 Tu'ihakavalu Kolo,Tonga,1993,Fly-half,3,1,2,0,5,1,,
 Falanisi Manukia,Tonga,1993,Fly-half,7,3,4,0,10,2,,
@@ -379,21 +379,21 @@ Kolau Fokofuka,Tonga,1993,Prop,8,4,4,0,0,0,,
 Sateki Tuipulotu,Tonga,1993,Fullback,20,9,11,0,190,5,Auckland,NewZealand
 Unaloto Fa,Tonga,1994,Prop,6,1,5,0,5,1,,
 Peneili Latu,Tonga,1994,Centre,9,4,5,0,0,0,,
-Valai Taumoepeau,Tonga,1994,Flanker,4,1,3,0,0,0,,
-Sam Alatini,Tonga,1994,Centre,6,2,4,0,0,0,,
-Kati Tu'ipulotu,Tonga,1994,Flanker,16,5,10,1,5,1,,
-Kilioni Tuipulotu,Tonga,1994,No. 8,4,2,2,0,0,0,,
+Valai Taumoepeau,Tonga,1994,Flanker,4,1,3,0,0,0,NA,Danmark
+Sam Alatini,Tonga,1994,Centre,6,2,4,0,0,0,NA,Danmark
+Kati Tu'ipulotu,Tonga,1994,Flanker,16,5,10,1,5,1,NA,Danmark
+Kilioni Tuipulotu,Tonga,1994,No. 8,4,2,2,0,0,0,NA,Россия
 Jonathan Tupou,Tonga,1994,Prop,1,1,0,0,0,0,,
 Pouvalu Latukefu,Tonga,1995,Lock,8,4,4,0,5,1,,
-David Manako,Tonga,1995,Centre,4,4,0,0,15,3,,
-Mana 'Otai,Tonga,1995,No. 8,5,3,2,0,5,1,,
+David Manako,Tonga,1995,Centre,4,4,0,0,15,3,NA,Россия
+Mana 'Otai,Tonga,1995,No. 8,5,3,2,0,5,1,NA,Nederland
 Taholo Anitoni,Tonga,1995,Centre,5,3,2,0,5,1,,
-Va'a Toloke,Tonga,1995,No. 8,19,9,10,0,10,2,,
+Va'a Toloke,Tonga,1995,No. 8,19,9,10,0,10,2,NA,Austria
 Saili Fe'ao,Tonga,1995,Hooker,2,0,2,0,0,0,,
-Willie Lose,Tonga,1995,Lock,3,1,2,0,0,0,,
-Unuoi Va'enuku,Tonga,1995,Centre,3,1,2,0,0,0,,
+Willie Lose,Tonga,1995,Lock,3,1,2,0,0,0,NA,Danmark
+Unuoi Va'enuku,Tonga,1995,Centre,3,1,2,0,0,0,NA,Россия
 Inoke Afeaki,Tonga,1995,"Lock, Flanker",27,6,21,0,15,3,Tofoa,Tonga
-Simana Mafile'o,Tonga,1995,Centre,12,7,5,0,15,3,,
+Simana Mafile'o,Tonga,1995,Centre,12,7,5,0,15,3,NA,Nederland
 Taipe Isitolo,Tonga,1995,Fullback,3,2,1,0,10,0,,
 Akuila Mafi,Tonga,1995,Fly-half,1,1,0,0,0,0,,
 Pita Alatini,Tonga,1995,Centre,18,13,5,0,30,6,Nuku'alofa,Tonga
@@ -402,52 +402,52 @@ Paula Tuitavake,Tonga,1995,Centre,1,0,1,0,0,0,,
 Tevita Asi,Tonga,1996,Wing,1,0,1,0,0,0,,
 Paula Kalanivalu,Tonga,1996,Centre,1,0,1,0,0,0,,
 Lani Katoa,Tonga,1996,Flanker,8,3,5,0,0,0,,
-Hemani Lavaka,Tonga,1996,Prop,15,2,13,0,10,2,,
-Etu Manu,Tonga,1996,Centre,6,2,4,0,5,1,,
+Hemani Lavaka,Tonga,1996,Prop,15,2,13,0,10,2,NA,Nederland
+Etu Manu,Tonga,1996,Centre,6,2,4,0,5,1,NA,Danmark
 Ngalu Taufo'ou,Tonga,1996,Prop,23,10,13,0,15,3,Ha'apai,Tonga
 Josh Taumalolo,Tonga,1996,Centre,26,12,13,1,118,14,Nuku'alofa,Tonga
-Maikolo Kaihea,Tonga,1996,Hooker,7,4,2,1,0,0,,
-Fepikou Tatafu,Tonga,1996,Wing,23,10,12,1,50,10,,
-Gustavo Tonga,Tonga,1996,Fullback,13,7,6,0,114,1,,
+Maikolo Kaihea,Tonga,1996,Hooker,7,4,2,1,0,0,NA,Danmark
+Fepikou Tatafu,Tonga,1996,Wing,23,10,12,1,50,10,NA,Austria
+Gustavo Tonga,Tonga,1996,Fullback,13,7,6,0,114,1,NA,Danmark
 Ma'ama Molitika,Tonga,1996,Back-row,21,7,14,0,5,1,Ha'apai,Tonga
-Viliami Uhi,Tonga,1996,Centre,7,3,4,0,5,1,,
-Semisi Faka'osi'folau,Tonga,1996,Centre,13,4,9,0,25,5,,
-Damien Penesini,Tonga,1997,Prop,6,5,1,0,0,0,,
-Tau Siale,Tonga,1997,Hooker,3,2,1,0,0,0,,
+Viliami Uhi,Tonga,1996,Centre,7,3,4,0,5,1,NA,Danmark
+Semisi Faka'osi'folau,Tonga,1996,Centre,13,4,9,0,25,5,NA,Россия
+Damien Penesini,Tonga,1997,Prop,6,5,1,0,0,0,NA,Россия
+Tau Siale,Tonga,1997,Hooker,3,2,1,0,0,0,NA,Danmark
 Alipate Ta'ufo'ou,Tonga,1997,Lock,6,3,3,0,5,1,,
 Talanoa Tohi,Tonga,1997,Lock,3,2,1,0,0,0,,
-Latiume Maka,Tonga,1997,"Prop, Hooker",20,9,10,1,10,2,,
+Latiume Maka,Tonga,1997,"Prop, Hooker",20,9,10,1,10,2,NA,Danmark
 Semi Tulikifanga,Tonga,1997,Scrum-half,4,1,3,0,0,0,,
 Dave Tiueti,Tonga,1997,Centre,21,8,12,1,33,6,Tofoa,Tonga
-Vikilani Afeaki,Tonga,1997,Fullback,3,0,3,0,0,0,,
+Vikilani Afeaki,Tonga,1997,Fullback,3,0,3,0,0,0,NA,Austria
 Johnny Ngauamo,Tonga,1997,Centre,6,1,5,0,5,1,Nuku'alofa,Tonga
 David Briggs,Tonga,1997,Prop,1,0,1,0,0,0,Auckland,NewZealand
-Saia Latu,Tonga,1997,Flanker,12,4,8,0,0,0,,
+Saia Latu,Tonga,1997,Flanker,12,4,8,0,0,0,NA,Svizra
 Vili Ma'asi,Tonga,1997,Hooker,32,7,25,0,15,3,Tofoa,Tonga
 Tom Matakiongo,Tonga,1997,Flanker,1,0,1,0,0,0,,
 Sione Tuipulotu,Tonga,1997,Scrum-half,29,9,19,1,13,2,Ha'apai,Tonga
-Simon Hafoka,Tonga,1997,Hooker,1,0,1,0,0,0,,
+Simon Hafoka,Tonga,1997,Hooker,1,0,1,0,0,0,NA,Austria
 Sione Tai,Tonga,1997,Fly-half,2,0,2,0,5,1,,
 Salesi Finau,Tonga,1998,Centre,13,4,8,1,5,1,Neiafu,Tonga
 Pierre Hola,Tonga,1998,"Wing, Fly-half",40,13,27,0,322,11,Longolongo,Tonga
-Benhur Kivalu,Tonga,1998,"No. 8, Lock",39,14,24,1,40,8,Western Samoa,Samoa
+Benhur Kivalu,Tonga,1998,"No. 8, Lock",39,14,24,1,40,8,"Vaiola, Western Samoa",Samoa
 Jonathan Koloi,Tonga,1998,Flanker,15,6,9,0,30,6,Nuku'alofa,Tonga
 Tauna'holo Taufahema,Tonga,1998,Wing,17,5,11,1,41,5,Nautoka,Tonga
 Brian Wooley,Tonga,1998,Fly-half,9,3,5,1,3,0,Wellington,NewZealand
 Hese Fakatou,Tonga,1998,Back-row,5,1,4,0,0,0,Kolofo'ou,Tonga
-Uiniati Moa,Tonga,1998,Prop,3,0,3,0,0,0,,
-Ma'afu Pale,Tonga,1998,"Hooker, Prop",7,3,4,0,5,1,,
-Matt te Pou,Tonga,1998,Flanker,13,4,9,0,5,1,,
+Uiniati Moa,Tonga,1998,Prop,3,0,3,0,0,0,NA,Россия
+Ma'afu Pale,Tonga,1998,"Hooker, Prop",7,3,4,0,5,1,NA,Austria
+Matt te Pou,Tonga,1998,Flanker,13,4,9,0,5,1,NA,Austria
 David Edwards,Tonga,1998,Flanker,10,4,5,1,0,0,Auckland,NewZealand
 Sililo Martens,Tonga,1998,Scrum-half,32,9,22,1,15,3,Auckland,NewZealand
 Jeff Sitoa,Tonga,1998,Lock,1,0,1,0,0,0,,
-Sam Hala,Tonga,1999,Wing,9,4,5,0,20,4,,
+Sam Hala,Tonga,1999,Wing,9,4,5,0,20,4,NA,Austria
 Puke Faletau,Tonga,1999,Prop,9,4,4,1,0,0,Neiafu,Tonga
 'Aleki Lutui,Tonga,1999,Hooker,45,12,32,1,25,5,Tofoa,Tonga
-Tevita Taumoepeau,Tonga,1999,Prop,35,12,23,0,12,2,Haapai,Tonga
-Sengili Tuihalamaka,Tonga,1999,Wing,5,1,4,0,32,1,,
-Keni Fisilau,Tonga,1999,Centre,6,0,6,0,0,0,,
-Kisione Ahota'eiloa,Tonga,1999,Flanker,6,2,3,1,10,2,,
+Tevita Taumoepeau,Tonga,1999,Prop,35,12,23,0,12,2,"Hihifo, Haapai",Tonga
+Sengili Tuihalamaka,Tonga,1999,Wing,5,1,4,0,32,1,NA,Svizra
+Keni Fisilau,Tonga,1999,Centre,6,0,6,0,0,0,NA,Россия
+Kisione Ahota'eiloa,Tonga,1999,Flanker,6,2,3,1,10,2,NA,Svizra
 Ta'u Fainga'anuku,Tonga,1999,Prop,12,3,8,1,5,1,Kiltifo Haapai,Tonga
 Epi Taione,Tonga,1999,Centre,24,7,17,0,15,3,Vauai'i,Tonga
 Hotili 'Asi,Tonga,2000,Prop,1,0,1,0,0,0,,
@@ -455,31 +455,31 @@ Chris Hala'ufia,Tonga,2000,No. 8,24,7,17,0,25,5,Neiafu,Tonga
 Aisea Havili Kaufusi,Tonga,2000,Wing,14,5,9,0,20,4,Ha'ateiho,Tonga
 Apai Kaitu'u,Tonga,2000,No. 8,1,0,1,0,0,0,,
 Epafasi Ta'ufo'ou,Tonga,2000,Centre,6,3,3,0,5,1,,
-Lotu Filipine,Tonga,2000,Back-row,8,4,4,0,20,4,,
-Fakataha Molitika,Tonga,2000,Lock,7,1,6,0,0,0,,
-Sioeli Nau,Tonga,2000,Scrum-half,9,3,6,0,10,2,,
+Lotu Filipine,Tonga,2000,Back-row,8,4,4,0,20,4,NA,Sverige
+Fakataha Molitika,Tonga,2000,Lock,7,1,6,0,0,0,NA,Svizra
+Sioeli Nau,Tonga,2000,Scrum-half,9,3,6,0,10,2,NA,Россия
 Movete 'Oto'ota,Tonga,2000,Fly-half,4,0,4,0,0,0,,
-Solomone Matangi,Tonga,2000,Wing,8,3,5,0,25,5,,
+Solomone Matangi,Tonga,2000,Wing,8,3,5,0,25,5,NA,Россия
 Soane Havea,Tonga,2000,Fly-half,28,11,17,0,0,0,NA,Tonga
 Henry Saafi,Tonga,2000,Flanker,1,0,1,0,0,0,,
 Loni Manako,Tonga,2000,Centre,2,1,1,0,0,0,,
-Tevita Fifita,Tonga,2001,No. 8,5,3,2,0,15,3,,
+Tevita Fifita,Tonga,2001,No. 8,5,3,2,0,15,3,NA,Svizra
 Nisifolo Naufahu,Tonga,2001,No. 8,16,6,10,0,10,2,Auckland,NewZealand
-Manako Tonga,Tonga,2001,No. 8,6,3,3,0,0,0,,
+Manako Tonga,Tonga,2001,No. 8,6,3,3,0,0,0,NA,Россия
 Viliami Vaki,Tonga,2001,Back-row,36,10,26,0,35,7,Vava'u,Tonga
 Taufa'ao Filise,Tonga,2001,Prop,22,3,19,0,5,1,Malapo,Indonesia
 Gus Leger,Tonga,2001,Centre,15,3,12,0,0,0,Tokoroa,NewZealand
-John Pale,Tonga,2001,Prop,9,1,8,0,0,0,,
-Toni Alatini,Tonga,2001,Scrum-half,8,1,7,0,0,0,,
+John Pale,Tonga,2001,Prop,9,1,8,0,0,0,NA,Россия
+Toni Alatini,Tonga,2001,Scrum-half,8,1,7,0,0,0,NA,Danmark
 Lua Lokotui,Tonga,2001,"Lock, Flanker",28,13,15,0,15,3,Auckland,NewZealand
-Salesi Moimoi,Tonga,2001,Wing,1,0,1,0,0,0,,
+Salesi Moimoi,Tonga,2001,Wing,1,0,1,0,0,0,NA,Svizra
 Mo'unga Kafatolu,Tonga,2002,Fullback,3,1,2,0,5,1,,
 Andrew Mailei,Tonga,2002,Centre,22,9,13,0,40,5,Auckland,NewZealand
 Stanley Afeaki,Tonga,2002,Flanker,13,4,9,0,35,7,Lower Hutt,NewZealand
-Nick Hau,Tonga,2002,Centre,2,0,2,0,0,0,,
-Sione Fonua,Tonga,2002,Wing,12,2,10,0,15,3,,
+Nick Hau,Tonga,2002,Centre,2,0,2,0,0,0,NA,România
+Sione Fonua,Tonga,2002,Wing,12,2,10,0,15,3,NA,Sverige
 Emosi Kauhenga,Tonga,2002,Lock,14,6,8,0,0,0,Folaha,Tonga
-Laukau Lile,Tonga,2002,Centre,3,1,2,0,0,0,,
+Laukau Lile,Tonga,2002,Centre,3,1,2,0,0,0,NA,Россия
 Kisi Pulu,Tonga,2002,Prop,32,12,20,0,15,3,Leimatu'a,Tonga
 Kilioni Bakewa,Tonga,2002,Wing,3,2,1,0,0,0,,
 Tonga Lea'aetoa,Tonga,2002,Prop,26,13,13,0,5,1,Auckland,NewZealand
@@ -487,177 +487,177 @@ Milton Ngauamo,Tonga,2002,Lock,17,6,11,0,5,1,Auckland,NewZealand
 David Palu,Tonga,2002,Scrum-half,14,6,8,0,39,7,Wellington,NewZealand
 John Payne,Tonga,2002,Centre,11,4,7,0,5,1,Manly,Australia
 Ephraim Taukafa,Tonga,2002,Hooker,33,14,19,0,30,6,Auckland,NewZealand
-Lisiate 'Ulufonua,Tonga,2002,Fullback,4,4,0,0,10,2,,
+Lisiate 'Ulufonua,Tonga,2002,Fullback,4,4,0,0,10,2,NA,Россия
 Willie Gibbons,Tonga,2002,Fly-half,4,2,2,0,0,0,,
 Taniela Tulia,Tonga,2002,Wing,10,4,6,0,35,7,,
 Feki Latusalu,Tonga,2003,Hooker,2,2,0,0,0,0,,
 Tevita Tu'ifua,Tonga,2003,"Wing, Centre",15,6,9,0,20,4,Nomuka,Tonga
-Johnny Tu'amoheloa,Tonga,2003,Back-row,4,1,3,0,0,0,,
+Johnny Tu'amoheloa,Tonga,2003,Back-row,4,1,3,0,0,0,NA,Sverige
 Suka Hufanga,Tonga,2003,Wing,28,14,14,0,25,5,Hourna,France
 Kafalosi Tonga,Tonga,2003,Prop,6,1,5,0,0,0,Auckland,NewZealand
 Sila Va'enuku,Tonga,2003,Wing,12,1,11,0,15,3,NA,Tonga
-Edward Langi,Tonga,2003,Back-row,1,0,1,0,0,0,,
-Pila Fifita,Tonga,2003,"Centre, Wing",2,0,2,0,0,0,,
+Edward Langi,Tonga,2003,Back-row,1,0,1,0,0,0,NA,Austria
+Pila Fifita,Tonga,2003,"Centre, Wing",2,0,2,0,0,0,NA,Austria
 Fangatapu 'Apikotoa,Tonga,2004,Utility back,30,8,21,1,147,2,Fasi-moe-afi,Tonga
 Lisiate Fa'aoso,Tonga,2004,Lock,16,6,9,1,5,1,Kolonga,Tonga
-Ofa Misa,Tonga,2004,Back-row,2,0,2,0,0,0,,
-Mosese Moala,Tonga,2004,Prop,2,0,2,0,0,0,,
-Seti Filo,Tonga,2004,Back-row,2,0,2,0,0,0,,
+Ofa Misa,Tonga,2004,Back-row,2,0,2,0,0,0,NA,România
+Mosese Moala,Tonga,2004,Prop,2,0,2,0,0,0,NA,Svizra
+Seti Filo,Tonga,2004,Back-row,2,0,2,0,0,0,NA,Sverige
 Sefa Vaka,Tonga,2004,Centre,13,3,10,0,10,2,Kolofo'ou,Tonga
-Sikuti Vunipola,Tonga,2004,Scrum-half,3,0,3,0,0,0,,
+Sikuti Vunipola,Tonga,2004,Scrum-half,3,0,3,0,0,0,NA,România
 Seti Kiole,Tonga,2005,Wing,9,2,7,0,10,2,Holopeka,Tonga
 Mosese Makasini,Tonga,2005,Lock,4,0,4,0,5,1,,
-Matini Tupou,Tonga,2005,No. 8,4,1,3,0,0,0,,
+Matini Tupou,Tonga,2005,No. 8,4,1,3,0,0,0,NA,Sverige
 Siaosi Taufa,Tonga,2005,Scrum-half,4,0,4,0,0,0,,
 Hudson Tonga'uiha,Tonga,2005,Centre,24,8,16,0,30,6,Tofoa,Tonga
 Ueleni Fono,Tonga,2005,No. 8,4,0,4,0,0,0,Holopeka,Tonga
-Siope Kapeli,Tonga,2005,Back-row,1,0,1,0,0,0,,
-Samuela Lisala,Tonga,2005,"Wing, Centre",2,0,2,0,0,0,,
-Kana Fakava,Tonga,2005,Prop,1,0,1,0,0,0,,
+Siope Kapeli,Tonga,2005,Back-row,1,0,1,0,0,0,NA,
+Samuela Lisala,Tonga,2005,"Wing, Centre",2,0,2,0,0,0,NA,
+Kana Fakava,Tonga,2005,Prop,1,0,1,0,0,0,NA,
 Sione Niu Tonga,Tonga,2005,Outside back,3,0,3,0,5,1,,
 Sione Masima,Tonga,2005,Scrum-half,1,0,1,0,0,0,,
-Rodney Mahe,Tonga,2005,Back-row,8,4,4,0,0,0,,
+Rodney Mahe,Tonga,2005,Back-row,8,4,4,0,0,0,NA,
 Fotu'aika Naitoko,Tonga,2005,Prop,1,0,1,0,0,0,,
 Sione Taukapo,Tonga,2005,Centre,1,0,1,0,0,0,,
 Soane Tonga'uiha,Tonga,2004,Prop,21,8,13,0,5,1,Houma,USA
 Peni Fakalelu,Tonga,2005,Prop,6,3,3,0,10,2,Holonga,Tonga
 Alani Maka,Tonga,2005,Prop,1,0,1,0,0,0,Longoteme,Tonga
-Talite Vaioleti,Tonga,2005,Lock,2,1,1,0,0,0,,
+Talite Vaioleti,Tonga,2005,Lock,2,1,1,0,0,0,NA,
 Kele Hehea,Tonga,2006,Lock,21,13,8,0,10,2,Vaini,Tonga
-Nili Latu Langilangi,Tonga,2006,Back-row,52,19,32,1,23,4,Tongatapu,Tonga
-Tatafu Na'aniumotu,Tonga,2006,Centre,6,4,2,0,0,0,,
+Nili Latu Langilangi,Tonga,2006,Back-row,52,19,32,1,23,4,"Tofoa, Tongatapu",Tonga
+Tatafu Na'aniumotu,Tonga,2006,Centre,6,4,2,0,0,0,NA,
 Tevita Vaikona,Tonga,2006,"Wing, Centre",4,3,1,0,25,5,NA,Tonga
-Viliami Hakalo,Tonga,2006,"Fullback, Centre",9,4,5,0,22,3,,
-Kaiongo Tupou,Tonga,2006,Centre,12,5,7,0,15,3,Tongatapu,Tonga
-Isieli Fine,Tonga,2007,Lock,4,1,3,0,0,0,,
+Viliami Hakalo,Tonga,2006,"Fullback, Centre",9,4,5,0,22,3,NA,
+Kaiongo Tupou,Tonga,2006,Centre,12,5,7,0,15,3,"Tofoa, Tongatapu",Tonga
+Isieli Fine,Tonga,2007,Lock,4,1,3,0,0,0,NA,
 Tevita Fonua,Tonga,2007,Prop,1,1,0,0,0,0,,
-Teu'imuli Kaufusi,Tonga,2007,Lock,8,2,6,0,10,2,,
+Teu'imuli Kaufusi,Tonga,2007,Lock,8,2,6,0,10,2,NA,
 Vunga Lilo,Tonga,2007,Wing,42,19,23,0,87,12,Koulo,Tonga
-Sione Poteki,Tonga,2007,Hooker,1,1,0,0,0,0,,
+Sione Poteki,Tonga,2007,Hooker,1,1,0,0,0,0,NA,
 Vaea Poteki,Tonga,2007,Fly-half,1,1,0,0,10,2,,
 Toma Toke,Tonga,2007,Prop,12,4,8,0,5,1,Ha'ateiho,Tonga
 Hale T-Pole,Tonga,2006,"Lock, Flanker",38,17,21,0,10,2,Kolomotu'a,Tonga
-Atonio Halangahu,Tonga,2007,Hooker,2,2,0,0,0,0,,
+Atonio Halangahu,Tonga,2007,Hooker,2,2,0,0,0,0,NA,
 Sione Kalamafoni,Tonga,2007,Back-row,31,11,20,0,10,2,Matahau,Tonga
-Hemani Paea,Tonga,2007,Centre,4,3,1,0,5,1,,
+Hemani Paea,Tonga,2007,Centre,4,3,1,0,5,1,NA,
 Folauhola Tatua'a,Tonga,2007,NA,1,1,0,0,0,0,,
-Makoni Finau,Tonga,2007,Prop,6,1,5,0,0,0,,
-Tevita 'Ahoafi,Tonga,2007,Scrum-half,2,0,2,0,0,0,,
-Setaleki Lu'au,Tonga,2007,Fullback,1,0,1,0,0,0,,
+Makoni Finau,Tonga,2007,Prop,6,1,5,0,0,0,NA,
+Tevita 'Ahoafi,Tonga,2007,Scrum-half,2,0,2,0,0,0,NA,
+Setaleki Lu'au,Tonga,2007,Fullback,1,0,1,0,0,0,NA,
 Sateki Mata'u,Tonga,2007,Prop,2,0,2,0,0,0,Ha'ateiho,Tonga
-Naisa Sikalu,Tonga,2007,Flanker,4,0,4,0,0,0,,
-Tevita Tanginoa,Tonga,2007,Lock,2,0,2,0,0,0,,
-Samiu Vahafolau,Tonga,2007,No. 8,14,8,6,0,10,2,Vavau,Tonga
-Lisiate Tafa,Tonga,2007,"Wing, Centre",1,0,1,0,0,0,,
+Naisa Sikalu,Tonga,2007,Flanker,4,0,4,0,0,0,NA,
+Tevita Tanginoa,Tonga,2007,Lock,2,0,2,0,0,0,NA,
+Samiu Vahafolau,Tonga,2007,No. 8,14,8,6,0,10,2,"Ovaka, Vavau",Tonga
+Lisiate Tafa,Tonga,2007,"Wing, Centre",1,0,1,0,0,0,NA,
 Patrick Tamoua,Tonga,2007,NA,1,0,1,0,0,0,,
 Lopeti Lolohea,Tonga,2007,Flanker,1,0,1,0,0,0,,
-Mesui Lemoto,Tonga,2007,Fullback,1,1,0,0,6,0,,
+Mesui Lemoto,Tonga,2007,Fullback,1,1,0,0,6,0,NA,
 Finau Maka,Tonga,2007,Back-row,9,4,5,0,5,1,Longoteme,Tonga
 Enele Taufa,Tonga,2007,Scrum-half,4,2,2,0,0,0,Ha'ateiho,Tonga
-Josh Afu,Tonga,2008,Back-row,17,6,10,1,5,1,QLD,Australia
-Sione Lavaka,Tonga,2008,Wing,1,0,1,0,0,0,,
-Tupou Palu,Tonga,2008,Wing,1,0,1,0,0,0,,
+Josh Afu,Tonga,2008,Back-row,17,6,10,1,5,1,"Brisbane, QLD",Australia
+Sione Lavaka,Tonga,2008,Wing,1,0,1,0,0,0,NA,
+Tupou Palu,Tonga,2008,Wing,1,0,1,0,0,0,NA,
 Semisi Telefoni,Tonga,2008,Prop,5,3,2,0,0,0,Auckland,NewZealand
-Samiuela Ika,Tonga,2008,Lock,3,0,3,0,0,0,,
-Sione Timani,Tonga,2008,Lock,8,3,5,0,0,0,Tongatapu,Tonga
-Semosoni Pone,Tonga,2008,Fullback,3,2,1,0,0,0,,
+Samiuela Ika,Tonga,2008,Lock,3,0,3,0,0,0,NA,
+Sione Timani,Tonga,2008,Lock,8,3,5,0,0,0,"Tofoa, Tongatapu",Tonga
+Semosoni Pone,Tonga,2008,Fullback,3,2,1,0,0,0,NA,
 'Alipate Fatafehi,Tonga,2009,Centre,19,8,11,0,20,4,Sigatoka,Fiji
-David Tevita Halaifonua Tonga,Tonga,2009,Wing,21,8,12,1,17,2,Vava'u,Tonga
-Ilaisa Ma'asi,Tonga,2009,Hooker,19,8,11,0,5,1,Tongatapu,Tonga
-Po'alo'i Taula,Tonga,2009,Prop,5,1,4,0,0,0,,
+David Tevita Halaifonua Tonga,Tonga,2009,Wing,21,8,12,1,17,2,"Nieafu, Vava'u",
+Ilaisa Ma'asi,Tonga,2009,Hooker,19,8,11,0,5,1,"Tofoa, Tongatapu",Tonga
+Po'alo'i Taula,Tonga,2009,Prop,5,1,4,0,0,0,NA,
 Opeti Fonua,Tonga,2009,No. 8,11,2,9,0,10,2,Kolonga,Tonga
-Pasuka Mapakaitolo,Tonga,2009,Back-row,5,1,3,1,5,1,,
-Mateo Malupo,Tonga,2009,Wing,4,2,2,0,0,0,,
-Mahe Fangupo,Tonga,2009,"Centre, Fly-half",4,1,3,0,0,0,,
+Pasuka Mapakaitolo,Tonga,2009,Back-row,5,1,3,1,5,1,NA,
+Mateo Malupo,Tonga,2009,Wing,4,2,2,0,0,0,NA,
+Mahe Fangupo,Tonga,2009,"Centre, Fly-half",4,1,3,0,0,0,NA,
 Fou-Ki-Moana Katoa,Tonga,2009,Wing,1,0,1,0,0,0,,
-Siosaia Palei,Tonga,2009,Wing,1,0,1,0,0,0,,
+Siosaia Palei,Tonga,2009,Wing,1,0,1,0,0,0,NA,
 Kilifi Fangupo,Tonga,2009,Scrum-half,1,1,0,0,0,0,Tonga Tapu,Tonga
-Paula Kata,Tonga,2009,Flanker,4,1,3,0,0,0,,
+Paula Kata,Tonga,2009,Flanker,4,1,3,0,0,0,NA,
 Etueni Siua,Tonga,2009,Wing,3,3,0,0,0,0,,
 Sione Vaiomounga,Tonga,2009,"Hooker, Flanker",13,5,8,0,5,1,Tefisi,Tonga
-Mani Vakaloa,Tonga,2009,Wing,1,1,0,0,5,1,,
+Mani Vakaloa,Tonga,2009,Wing,1,1,0,0,5,1,NA,
 Kurt Morath,Tonga,2009,Fly-half,30,16,14,0,338,2,Takapuna,NewZealand
 Manu Ahota'e'iloa,Tonga,2010,Centre,3,0,3,0,0,0,Meifu,臺灣
-Akameta Fe'ao,Tonga,2010,Lock,2,0,2,0,0,0,,
-Saia Fekitoa,Tonga,2010,Wing,2,0,2,0,0,0,,
-Kelepi Halafihi,Tonga,2010,Lock,2,0,2,0,0,0,,
-Daniel Morath,Tonga,2010,Scrum-half,3,1,2,0,0,0,,
-Alepini Olosoni,Tonga,2010,"Lock, Flanker",3,0,3,0,5,1,,
+Akameta Fe'ao,Tonga,2010,Lock,2,0,2,0,0,0,NA,
+Saia Fekitoa,Tonga,2010,Wing,2,0,2,0,0,0,NA,
+Kelepi Halafihi,Tonga,2010,Lock,2,0,2,0,0,0,NA,
+Daniel Morath,Tonga,2010,Scrum-half,3,1,2,0,0,0,NA,
+Alepini Olosoni,Tonga,2010,"Lock, Flanker",3,0,3,0,5,1,NA,
 Alaska Taufa,Tonga,2010,Wing,12,2,9,1,20,4,Ha'ateiho,Tonga
-Samisoni Fisilau,Tonga,2010,Scrum-half,18,4,13,1,2,0,Tongatapu,Tonga
-Sione Fukofuka,Tonga,2010,Prop,2,0,2,0,0,0,,
-Steve Mafi,Tonga,2010,Flanker,20,9,11,0,0,0,NSW,Australia
+Samisoni Fisilau,Tonga,2010,Scrum-half,18,4,13,1,2,0,"Tofoa, Tongatapu",Tonga
+Sione Fukofuka,Tonga,2010,Prop,2,0,2,0,0,0,NA,
+Steve Mafi,Tonga,2010,Flanker,20,9,11,0,0,0,"Fairfield, NSW",Australia
 Will Helu,Tonga,2010,Wing,23,9,14,0,35,7,Otahuhu,NewZealand
-Haani Halaeua,Tonga,2010,Flanker,2,0,2,0,0,0,,
-Viliami Pola,Tonga,2010,Prop,4,1,3,0,0,0,,
-Aloisio Mailangi,Tonga,2010,Flanker,1,0,1,0,0,0,,
-Damien Fakafanu,Tonga,2010,"Wing, Centre",2,1,1,0,5,1,,
-Taumei Hikila,Tonga,2010,Lock,1,1,0,0,5,1,,
-Rutikha Ilolahia,Tonga,2010,Back-row,1,1,0,0,0,0,,
+Haani Halaeua,Tonga,2010,Flanker,2,0,2,0,0,0,NA,
+Viliami Pola,Tonga,2010,Prop,4,1,3,0,0,0,NA,
+Aloisio Mailangi,Tonga,2010,Flanker,1,0,1,0,0,0,NA,
+Damien Fakafanu,Tonga,2010,"Wing, Centre",2,1,1,0,5,1,NA,
+Taumei Hikila,Tonga,2010,Lock,1,1,0,0,5,1,NA,
+Rutikha Ilolahia,Tonga,2010,Back-row,1,1,0,0,0,0,NA,
 Petuliki Mateo,Tonga,2010,Centre,1,1,0,0,5,1,,
-Kama Sakalia,Tonga,2010,Hooker,9,3,5,1,0,0,,
-Paea Siulangapo,Tonga,2010,Back-row,1,1,0,0,0,0,,
-Michael Toloke,Tonga,2010,Fullback,1,1,0,0,12,1,,
+Kama Sakalia,Tonga,2010,Hooker,9,3,5,1,0,0,NA,
+Paea Siulangapo,Tonga,2010,Back-row,1,1,0,0,0,0,NA,
+Michael Toloke,Tonga,2010,Fullback,1,1,0,0,12,1,NA,
 Sione Vaioleti,Tonga,2010,Flanker,1,1,0,0,0,0,,
-Sioeli Faupula,Tonga,2010,NA,1,1,0,0,0,0,,
+Sioeli Faupula,Tonga,2010,NA,1,1,0,0,0,0,NA,
 Kuea Kolokihakaufiji,Tonga,2010,Flanker,1,1,0,0,0,0,,
-Pila Iongi,Tonga,2011,Wing,21,9,12,0,45,9,Tongatapu,Tonga
-Pepa Koloamatangi,Tonga,2011,Flanker,3,2,1,0,0,0,,
+Pila Iongi,Tonga,2011,Wing,21,9,12,0,45,9,"Tofoa, Tongatapu",Tonga
+Pepa Koloamatangi,Tonga,2011,Flanker,3,2,1,0,0,0,NA,
 Viliami Ma'afu,Tonga,2011,No. 8,28,13,14,1,15,3,Longolongo,Tonga
-Ofa Fainga'anuku,Tonga,2011,Prop,3,1,2,0,0,0,,
-Paula Kaho,Tonga,2011,No. 8,8,4,4,0,5,1,,
-Eddie Paea,Tonga,2011,Halfback,2,1,1,0,0,0,NSW,Australia
-Silivenusi Taumoepeau,Tonga,2011,Centre,1,1,0,0,0,0,,
+Ofa Fainga'anuku,Tonga,2011,Prop,3,1,2,0,0,0,NA,
+Paula Kaho,Tonga,2011,No. 8,8,4,4,0,5,1,NA,
+Eddie Paea,Tonga,2011,Halfback,2,1,1,0,0,0,"Sydney, NSW",Australia
+Silivenusi Taumoepeau,Tonga,2011,Centre,1,1,0,0,0,0,NA,
 Sona Taumalolo,Tonga,2011,Prop,20,9,11,0,20,4,Ha'akame,Tonga
 Joe Tuineau,Tonga,2011,Lock,28,17,11,0,5,1,Suva,Fiji
-Tevita Ula,Tonga,2011,Flanker,1,1,0,0,0,0,,
+Tevita Ula,Tonga,2011,Flanker,1,1,0,0,0,0,NA,
 Sila Puafisi,Tonga,2011,Prop,26,11,14,1,0,0,Tefisi,Tonga
-Maleko Latu,Tonga,2011,Prop,1,0,1,0,0,0,,
+Maleko Latu,Tonga,2011,Prop,1,0,1,0,0,0,NA,
 Tomasi Palu,Tonga,2011,Scrum-half,11,5,6,0,9,0,Wellington,NewZealand
 Halani 'Aulika,Tonga,2011,Prop,17,10,7,0,5,1,Angahaeua,Tonga
-Taniela Moa,Tonga,2011,Scrum-half,21,10,11,0,15,3,Tongatapu,Tonga
-Fetu'u Vainikolo,Tonga,2011,Wing,28,14,13,1,85,17,Tongatapu,Tonga
+Taniela Moa,Tonga,2011,Scrum-half,21,10,11,0,15,3,"Tofoa, Tongatapu",Tonga
+Fetu'u Vainikolo,Tonga,2011,Wing,28,14,13,1,85,17,"Tofoa, Tongatapu",Tonga
 Siale Piutau,Tonga,2011,"Wing, Centre",27,12,14,1,15,3,Auckland,NewZealand
-Mafi Kefu,Tonga,2012,Centre,3,1,2,0,0,0,QLD,Australia
+Mafi Kefu,Tonga,2012,Centre,3,1,2,0,0,0,"Brisbane, QLD",Australia
 Viliami Fainga'a,Tonga,2012,"Prop, Back-row",3,0,3,0,0,0,NSW,Australia
 Tevita Mailau,Tonga,2012,Prop,21,11,9,1,0,0,Manly,Australia
 Sione Piukala,Tonga,2012,Centre,17,8,9,0,15,3,Futu,Tonga
-Elvis Taione,Tonga,2012,Hooker,27,13,14,0,0,0,Tongatapu,Tonga
+Elvis Taione,Tonga,2012,Hooker,27,13,14,0,0,0,"Tofoa, Tongatapu",Tonga
 Eddie Aholelei,Tonga,2013,Prop,9,1,7,1,5,1,Auckland,NewZealand
 Taione Vea,Tonga,2013,Prop,6,2,4,0,0,0,Auckland,NewZealand
 Viliami Fihaki,Tonga,2013,Back-row,8,3,4,1,10,2,Nuku'alofa,Tonga
-Samisone Masima,Tonga,2013,Lock,2,1,1,0,0,0,,
+Samisone Masima,Tonga,2013,Lock,2,1,1,0,0,0,NA,
 Fraser Anderson,Tonga,2013,"Wing, Centre",4,1,2,1,5,1,Auckland,NewZealand
-Siale Fahiua,Tonga,2013,Scrum-half,2,1,1,0,2,0,,
+Siale Fahiua,Tonga,2013,Scrum-half,2,1,1,0,2,0,NA,
 Dan Faleafa,Tonga,2013,"Lock, Flanker",10,4,5,1,5,1,Auckland,NewZealand
-Rocky Havili,Tonga,2013,"Wing, Centre",1,0,1,0,0,0,,
+Rocky Havili,Tonga,2013,"Wing, Centre",1,0,1,0,0,0,NA,
 Uili Kolo'ofai,Tonga,2013,Lock,8,3,5,0,0,0,Auckland,NewZealand
 Latiume Fosita,Tonga,2013,Fly-half,21,9,11,1,36,1,Takapuna,NewZealand
 Suliasi Taufalele,Tonga,2013,Hooker,4,0,3,1,0,0,Tokoroa,NewZealand
-Mata'ali Paea,Tonga,2013,Centre,1,0,1,0,0,0,,
+Mata'ali Paea,Tonga,2013,Centre,1,0,1,0,0,0,NA,
 Otulea Katoa,Tonga,2014,Wing,9,5,3,1,10,2,Havelu,France
 Paula Ngauamo,Tonga,2014,Hooker,9,5,3,1,0,0,Christchurch,NewZealand
-Tane Takulua,Tonga,2014,Scrum-half,20,10,9,1,88,7,Tongatapu,Tonga
+Tane Takulua,Tonga,2014,Scrum-half,20,10,9,1,88,7,"Tofoa, Tongatapu",Tonga
 Paea Fa'anunu,Tonga,2014,Prop,5,4,1,0,0,0,Auckland,NewZealand
 Siua Halanukonuka,Tonga,2014,Prop,4,4,0,0,0,0,Tofoa,Tonga
 Sione Lea,Tonga,2014,Prop,3,2,1,0,0,0,Vava'u,Tonga
 Telusa Veainu,Tonga,2015,Wing,9,5,4,0,25,5,Kawakawa,NewZealand
 Viliami Tahitu'a,Tonga,2015,Centre,3,2,1,0,0,0,Auckland,NewZealand
-Sefo Sakalia,Tonga,2015,Hooker,2,2,0,0,0,0,,
-Jack Ram,Tonga,2015,Back-row,11,6,5,0,15,3,NSW,Australia
-Sefo Ma'ake,Tonga,2015,Scrum-half,1,1,0,0,0,0,Vava'u,Tonga
-Sione Faletau,Tonga,2016,Prop,3,0,3,0,0,0,,
+Sefo Sakalia,Tonga,2015,Hooker,2,2,0,0,0,0,NA,
+Jack Ram,Tonga,2015,Back-row,11,6,5,0,15,3,"Sydney, NSW",Australia
+Sefo Ma'ake,Tonga,2015,Scrum-half,1,1,0,0,0,0,"Nieafu, Vava'u",
+Sione Faletau,Tonga,2016,Prop,3,0,3,0,0,0,NA,
 Daniel Kilioni,Tonga,2016,Wing,2,0,2,0,0,0,Havelu,France
 Nafi Tuitavake,Tonga,2016,Wing,4,3,1,0,0,0,Auckland,NewZealand
-Sione Anga'aelangi,Tonga,2016,Hooker,3,0,3,0,0,0,NSW,Australia
-Kali Hala,Tonga,2016,Fullback,5,3,2,0,5,1,,
-'Apakuki Ma'afu,Tonga,2016,Fullback,3,0,3,0,0,0,NSW,Australia
-Fusi Malimali,Tonga,2016,Prop,1,0,1,0,0,0,,
-Sione Tau,Tonga,2016,Back-row,3,0,3,0,0,0,,
+Sione Anga'aelangi,Tonga,2016,Hooker,3,0,3,0,0,0,"Sydney, NSW",Australia
+Kali Hala,Tonga,2016,Fullback,5,3,2,0,5,1,NA,
+'Apakuki Ma'afu,Tonga,2016,Fullback,3,0,3,0,0,0,"Camperdown, NSW",Australia
+Fusi Malimali,Tonga,2016,Prop,1,0,1,0,0,0,NA,
+Sione Tau,Tonga,2016,Back-row,3,0,3,0,0,0,NA,
 Wayne Ngaluafe,Tonga,2016,Scrum-half,1,0,1,0,0,0,Auckland,NewZealand
-Martin Naufahu,Tonga,2016,Fly-half,1,0,1,0,0,0,,
+Martin Naufahu,Tonga,2016,Fly-half,1,0,1,0,0,0,NA,
 Tevita Koloamatangi,Tonga,2016,Flanker,3,3,0,0,0,0,Auckland,NewZealand
 Kotoni Ale,Tonga,2016,Flanker,2,2,0,0,0,0,Auckland,NewZealand
 Valentino Mapapalangi,Tonga,2016,Lock,3,3,0,0,0,0,Auckland,NewZealand
-Fetuli Paea,Tonga,2016,Wing,1,1,0,0,0,0,,
+Fetuli Paea,Tonga,2016,Wing,1,1,0,0,0,0,NA,
 Cooper Vuna,Tonga,2012,"Wing, Centre",3,3,0,0,0,0,Auckland,NewZealand

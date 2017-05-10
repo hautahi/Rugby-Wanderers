@@ -65,7 +65,7 @@ A.E. Foster,Canada,1970,Flanker,5,1,4,0,0,0,,
 R.O. Jackson,Canada,1970,Lock,2,0,2,0,0,0,,
 O. Johnson,Canada,1970,NA,1,0,1,0,0,0,,
 G. MacDonald,Canada,1970,NA,1,0,1,0,0,0,,
-Spence McTavish,Canada,1970,Centre,22,7,14,1,20,5,,
+Spence McTavish,Canada,1970,Centre,22,7,14,1,20,5,NA,Perú
 K. Myhre,Canada,1970,NA,1,0,1,0,0,0,,
 Doug Schick,Canada,1970,Centre,2,0,2,0,0,0,,
 W. Thomson,Canada,1970,NA,1,0,1,0,0,0,,
@@ -90,8 +90,8 @@ Ro Hindson,Canada,1973,Lock,31,9,21,1,9,0,Durban,SouthAfrica
 Barry Legh,Canada,1973,Fullback,3,0,3,0,0,0,,
 H. Wyndham,Canada,1973,Prop,1,0,1,0,8,2,,
 R. McGeein,Canada,1973,NA,1,0,1,0,0,0,,
-John Billingsley,Canada,1974,Fly-half,9,4,5,0,0,0,BC,Canada
-Hans de Goede,Canada,1974,Lock,24,8,15,1,8,2,Netherland,Philippines
+John Billingsley,Canada,1974,Fly-half,9,4,5,0,0,0,"Vancouver, BC",Canada
+Hans de Goede,Canada,1974,Lock,24,8,15,1,8,2,"Amsterdam, Netherland",Philippines
 Alan Douglas,Canada,1974,Prop,1,0,1,0,4,1,,
 M.A. Eckardt,Canada,1974,Prop,5,1,4,0,0,0,,
 P. Howlett,Canada,1974,Flanker,1,0,1,0,0,0,,
@@ -113,333 +113,333 @@ Bill Collins,Canada,1977,Lock,2,1,1,0,0,0,,
 M.J.W. Dandy,Canada,1977,Wing,3,1,2,0,0,0,,
 D.C. Eburne,Canada,1977,Lock,3,1,2,0,0,0,,
 G.G. Gonis,Canada,1977,Fullback,4,1,3,0,9,1,,
-Robbie Greig,Canada,1977,Centre,10,4,6,0,8,2,BC,Canada
-Preston Wiley,Canada,1977,Scrum-half,10,4,6,0,22,0,BC,Canada
+Robbie Greig,Canada,1977,Centre,10,4,6,0,8,2,"Vancouver, BC",Canada
+Preston Wiley,Canada,1977,Scrum-half,10,4,6,0,22,0,"Vancouver, BC",Canada
 F. Carson,Canada,1977,NA,1,0,1,0,0,0,,
-Garry Hirayama,Canada,1977,Fly-half,12,3,8,1,0,0,MB,Canada
+Garry Hirayama,Canada,1977,Fly-half,12,3,8,1,0,0,"Winnipeg, MB",Canada
 Gary Grant,Canada,1977,Lock,6,1,5,0,0,0,,
 S. Wood,Canada,1977,NA,1,0,1,0,0,0,,
 E.R. Stapleton,Canada,1978,Wing,2,0,2,0,4,1,,
 Michael Williams,Canada,1978,Centre,4,1,3,0,0,0,,
-Jim Donaldson,Canada,1978,No. 8,13,5,7,1,7,1,BC,Canada
+Jim Donaldson,Canada,1978,No. 8,13,5,7,1,7,1,"Trail, BC",Canada
 G.R. Johnston,Canada,1978,No. 8,1,0,1,0,0,0,,
 K.J. Peace,Canada,1978,Prop,5,2,3,0,4,1,,
 J.D. Shaw,Canada,1978,Lock,1,0,1,0,0,0,,
-Graham Taylor,Canada,1978,Fullback,10,5,5,0,8,0,BC,Canada
+Graham Taylor,Canada,1978,Fullback,10,5,5,0,8,0,"Vancouver, BC",Canada
 Larry Chung,Canada,1978,NA,1,0,1,0,0,0,,
 D.G. van Eeuwen,Canada,1978,Prop,2,1,1,0,0,0,,
 Andrew Bibby,Canada,1979,Centre,9,3,6,0,7,1,Barnet,England
 Robin Russell,Canada,1979,Flanker,4,1,3,0,0,0,,
-Ron McInnes,Canada,1979,Prop,13,4,8,1,0,0,SK,Slovensko
+Ron McInnes,Canada,1979,Prop,13,4,8,1,0,0,"Saskatoon, SK",Slovensko
 Dave Sinnott,Canada,1979,Flanker,3,1,2,0,0,0,,
 Don Carson,Canada,1980,Flanker,10,3,6,1,0,0,New Westminster,Canada
-Gary Dukelow,Canada,1980,Prop,14,4,9,1,0,0,BC,Canada
-Mark Schiefler,Canada,1980,Centre,9,3,5,1,12,0,BC,Canada
-Chuck Shergold,Canada,1980,Wing,3,2,1,0,0,0,BC,Canada
-John Phelan,Canada,1980,Flanker,5,0,5,0,0,0,AB,Canada
-Garland Jennings,Canada,1981,Lock,5,2,3,0,0,0,NL,India
+Gary Dukelow,Canada,1980,Prop,14,4,9,1,0,0,"Terrace, BC",Canada
+Mark Schiefler,Canada,1980,Centre,9,3,5,1,12,0,"Dawson Creek, BC",Canada
+Chuck Shergold,Canada,1980,Wing,3,2,1,0,0,0,"Victoria, BC",Canada
+John Phelan,Canada,1980,Flanker,5,0,5,0,0,0,"Red Deer, AB",Canada
+Garland Jennings,Canada,1981,Lock,5,2,3,0,0,0,"Corner Brook, NL",India
 Charlie MacLaghlan,Canada,1981,Hooker,3,0,3,0,0,0,,
-Ian MacMillan,Canada,1981,Scrum-half,9,2,6,1,0,0,ON,Canada
+Ian MacMillan,Canada,1981,Scrum-half,9,2,6,1,0,0,"Toronto, ON",Canada
 Jim Moyes,Canada,1981,Centre,5,0,4,1,0,0,Bournemouth,England
 Bill Spofford,Canada,1981,Prop,1,0,1,0,0,0,,
-Jamie Hawthorn,Canada,1982,Wing,6,2,4,0,0,0,BC,Canada
+Jamie Hawthorn,Canada,1982,Wing,6,2,4,0,0,0,"Vancouver, BC",Canada
 Evan Jones,Canada,1982,No. 8,3,1,2,0,0,0,,
-Paul Monaghan,Canada,1982,Centre,1,0,1,0,0,0,BC,Canada
-Mark Wyatt,Canada,1982,Fullback,29,13,15,1,234,2,,
-Tony Godziek,Canada,1982,Flanker,8,2,5,1,0,0,ON,Canada
-John Lecky,Canada,1982,Centre,18,9,8,1,4,1,MB,Canada
+Paul Monaghan,Canada,1982,Centre,1,0,1,0,0,0,"Victoria, BC",Canada
+Mark Wyatt,Canada,1982,Fullback,29,13,15,1,234,2,NA,Sverige
+Tony Godziek,Canada,1982,Flanker,8,2,5,1,0,0,"Oakville, ON",Canada
+John Lecky,Canada,1982,Centre,18,9,8,1,4,1,"Winnipeg, MB",Canada
 Bernie Bonenberg,Canada,1983,Hooker,3,2,1,0,0,0,,
 F. Forster,Canada,1983,Wing,3,2,1,0,0,0,,
 P.J. MacLean,Canada,1983,Fly-half,4,2,2,0,0,0,,
 McLean,Canada,1983,Fly-half,1,1,0,0,3,0,,
-Ross Breen,Canada,1983,Prop,2,1,1,0,0,0,,
+Ross Breen,Canada,1983,Prop,2,1,1,0,0,0,NA,Perú
 Z. Cvitak,Canada,1983,Flanker,1,0,1,0,0,0,,
 Jim Delaney,Canada,1983,Centre,1,0,1,0,0,0,,
 G. Fraser,Canada,1983,Centre,1,0,1,0,0,0,,
 Cliff Jones,Canada,1983,Wing,2,1,1,0,0,0,,
-Pat Palmer,Canada,1983,Wing,17,8,9,0,36,9,BC,Canada
+Pat Palmer,Canada,1983,Wing,17,8,9,0,36,9,"Vancouver, BC",Canada
 R. Strang,Canada,1983,Lock,1,0,1,0,0,0,,
 John Vivian,Canada,1983,Hooker,2,0,2,0,0,0,,
-Steve Gray,Canada,1984,Centre,47,25,22,0,26,6,ON,Canada
+Steve Gray,Canada,1984,Centre,47,25,22,0,26,6,"Ottawa, ON",Canada
 Matt Kokan,Canada,1984,Lock,3,1,2,0,0,0,,
 P.A. Kyle,Canada,1984,Replacement,1,0,1,0,0,0,,
-Ian Stuart,Canada,1984,Centre,21,9,12,0,13,3,BC,Canada
-Tom Woods,Canada,1984,Centre,19,8,11,0,5,1,BC,Canada
-Norman Carr,Canada,1985,Centre,2,0,2,0,0,0,,
+Ian Stuart,Canada,1984,Centre,21,9,12,0,13,3,"Vancouver, BC",Canada
+Tom Woods,Canada,1984,Centre,19,8,11,0,5,1,"Victoria, BC",Canada
+Norman Carr,Canada,1985,Centre,2,0,2,0,0,0,NA,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر
 Mike Clarkin,Canada,1985,Wing,2,0,2,0,0,0,,
 Marius Felix,Canada,1985,Lock,4,2,2,0,0,0,,
-Bill Handson,Canada,1985,Prop,9,4,5,0,0,0,,
+Bill Handson,Canada,1985,Prop,9,4,5,0,0,0,NA,Perú
 A.C. McGann,Canada,1985,Fullback,2,0,2,0,0,0,,
-Randy McKellar,Canada,1985,Prop,4,0,4,0,0,0,,
+Randy McKellar,Canada,1985,Prop,4,0,4,0,0,0,NA,Perú
 John Robertsen,Canada,1985,Lock,9,5,4,0,0,0,East London,SouthAfrica
-Karl Svoboda,Canada,1985,Hooker,24,12,12,0,0,0,ON,Canada
-Dave Tucker,Canada,1985,Scrum-half,6,3,3,0,4,1,,
-Roy Radu,Canada,1985,Flanker,12,8,4,0,0,0,BC,Canada
+Karl Svoboda,Canada,1985,Hooker,24,12,12,0,0,0,"Belleville, ON",Canada
+Dave Tucker,Canada,1985,Scrum-half,6,3,3,0,4,1,NA,Perú
+Roy Radu,Canada,1985,Flanker,12,8,4,0,0,0,"Burnaby, BC",Canada
 J.D.O. Devlin,Canada,1985,Wing,2,2,0,0,0,0,,
 E.D. Kettleson,Canada,1985,NA,1,1,0,0,0,0,,
 Gord MacKinnon,Canada,1985,Flanker,28,13,15,0,18,4,Glasgow,Scotland
-Paul Vaesen,Canada,1985,Centre,5,4,1,0,8,2,,
-Glen Ennis,Canada,1986,No. 8,32,18,14,0,28,7,BC,Canada
-Rob Frame,Canada,1986,Flanker,6,3,3,0,8,2,,
-Ian Hyde-Lay,Canada,1986,Fly-half,3,1,2,0,7,1,,
-Eddie Evans,Canada,1986,Prop,49,30,19,0,14,3,BC,Canada
-Gareth Rees,Canada,1986,Fullback,55,31,24,0,491,7,BC,Canada
-Ron van den Brink,Canada,1986,Lock,8,5,3,0,4,1,BC,Canada
-Bruce Breen,Canada,1986,Flanker,9,7,2,0,4,1,AB,Canada
-Mark Cardinal,Canada,1986,Hooker,35,19,16,0,14,3,BC,Canada
-Norm Hadley,Canada,1987,Lock,15,8,7,0,0,0,MB,Canada
+Paul Vaesen,Canada,1985,Centre,5,4,1,0,8,2,NA,Perú
+Glen Ennis,Canada,1986,No. 8,32,18,14,0,28,7,"Vancouver, BC",Canada
+Rob Frame,Canada,1986,Flanker,6,3,3,0,8,2,NA,Perú
+Ian Hyde-Lay,Canada,1986,Fly-half,3,1,2,0,7,1,NA,Perú
+Eddie Evans,Canada,1986,Prop,49,30,19,0,14,3,"Terrace, BC",Canada
+Gareth Rees,Canada,1986,Fullback,55,31,24,0,491,7,"Duncan, BC",Canada
+Ron van den Brink,Canada,1986,Lock,8,5,3,0,4,1,"Maple Ridge, BC",Canada
+Bruce Breen,Canada,1986,Flanker,9,7,2,0,4,1,"Lethbridge, AB",Canada
+Mark Cardinal,Canada,1986,Hooker,35,19,16,0,14,3,"Victoria, BC",Canada
+Norm Hadley,Canada,1987,Lock,15,8,7,0,0,0,"Winnipeg, MB",Canada
 Mark Holmes,Canada,1987,Lock,1,1,0,0,0,0,,
-Chris Tynan,Canada,1987,Scrum-half,20,15,5,0,18,4,BC,Canada
+Chris Tynan,Canada,1987,Scrum-half,20,15,5,0,18,4,"Vancouver, BC",Canada
 Tony Arthurs,Canada,1988,Prop,1,0,1,0,0,0,,
 Stuart Creagh,Canada,1988,Prop,1,0,1,0,0,0,,
 Chris Fowler,Canada,1988,Lock,2,0,2,0,0,0,,
 A.R. Heaman,Canada,1988,Wing,1,0,1,0,0,0,,
-David Speirs,Canada,1988,Hooker,5,2,3,0,0,0,ON,Canada
-Shayne Brown,Canada,1989,Centre,2,1,1,0,4,1,,
-John Graf,Canada,1989,Scrum-half,54,29,25,0,89,9,BC,Canada
-Bobby Ross,Canada,1989,Fly-half,58,30,28,0,419,7,BC,Canada
+David Speirs,Canada,1988,Hooker,5,2,3,0,0,0,"Toronto, ON",Canada
+Shayne Brown,Canada,1989,Centre,2,1,1,0,4,1,NA,Danmark
+John Graf,Canada,1989,Scrum-half,54,29,25,0,89,9,"Vancouver, BC",Canada
+Bobby Ross,Canada,1989,Fly-half,58,30,28,0,419,7,"Victoria, BC",Canada
 Paul Szabo,Canada,1989,Prop,9,5,4,0,0,0,New Westminster,Canada
-Scott Stewart,Canada,1989,Fullback,64,29,34,1,84,5,BC,Canada
-Alan Charron,Canada,1990,Back-row,76,40,36,0,44,9,ON,Canada
-Dave Lougheed,Canada,1990,"Centre, Wing",34,14,20,0,35,7,ON,Canada
-Dan Jackart,Canada,1991,Prop,21,12,9,0,15,3,BC,Canada
-Christian Stewart,Canada,1991,Centre,17,8,9,0,10,2,ON,Canada
-Ian Gordon,Canada,1991,Flanker,27,14,13,0,0,0,BC,Canada
-Colin McKenzie,Canada,1992,No. 8,25,14,11,0,10,2,BC,Canada
-Scott MacKinnon,Canada,1992,Wing,4,3,1,0,5,1,ON,Canada
-Jeff Knauer,Canada,1992,Lock,5,3,2,0,0,0,United States,USA
+Scott Stewart,Canada,1989,Fullback,64,29,34,1,84,5,"Vancouver, BC",Canada
+Alan Charron,Canada,1990,Back-row,76,40,36,0,44,9,"Ottawa, ON",Canada
+Dave Lougheed,Canada,1990,"Centre, Wing",34,14,20,0,35,7,"Toronto, ON",Canada
+Dan Jackart,Canada,1991,Prop,21,12,9,0,15,3,"Natal, BC",SouthAfrica
+Christian Stewart,Canada,1991,Centre,17,8,9,0,10,2,"Toronto, ON",Canada
+Ian Gordon,Canada,1991,Flanker,27,14,13,0,0,0,"Vancouver, BC",Canada
+Colin McKenzie,Canada,1992,No. 8,25,14,11,0,10,2,"Vancouver, BC",Canada
+Scott MacKinnon,Canada,1992,Wing,4,3,1,0,5,1,"Scarborough, ON",Canada
+Jeff Knauer,Canada,1992,Lock,5,3,2,0,0,0,"New Mexico, United States",USA
 M. Williams,Canada,1992,Centre,3,1,2,0,0,0,,
-Kevin Wirachowski,Canada,1992,Prop,19,12,7,0,15,3,BC,Canada
-Julian Loveday,Canada,1993,Wing,10,5,5,0,5,1,,
-John Hutchinson,Canada,1993,Flanker,50,23,27,0,40,8,ON,Canada
-Chris Whittaker,Canada,1993,Lock,16,9,7,0,5,1,BC,Canada
+Kevin Wirachowski,Canada,1992,Prop,19,12,7,0,15,3,"Port Alberni, BC",Canada
+Julian Loveday,Canada,1993,Wing,10,5,5,0,5,1,NA,Austria
+John Hutchinson,Canada,1993,Flanker,50,23,27,0,40,8,"Toronto, ON",Canada
+Chris Whittaker,Canada,1993,Lock,16,9,7,0,5,1,"Victoria, BC",Canada
 Ian Kennedy,Canada,1993,Hooker,2,1,1,0,5,1,,
-Ian MacKay,Canada,1993,Scrum-half,2,1,1,0,0,0,BC,Canada
-Ron Toews,Canada,1993,Wing,16,9,7,0,0,0,MB,Canada
-Ian Cooper,Canada,1993,NA,1,1,0,0,0,0,BC,Canada
-Mike James,Canada,1994,Lock,56,26,29,1,20,4,BC,Canada
-Winston Stanley,Canada,1994,Wing,66,27,38,1,123,24,BC,Canada
-Paul LeBlanc,Canada,1994,Prop,4,2,2,0,0,0,QC,Canada
+Ian MacKay,Canada,1993,Scrum-half,2,1,1,0,0,0,"Dawson Creek, BC",Canada
+Ron Toews,Canada,1993,Wing,16,9,7,0,0,0,"Winnipeg, MB",Canada
+Ian Cooper,Canada,1993,NA,1,1,0,0,0,0,"Vancouver, BC",Canada
+Mike James,Canada,1994,Lock,56,26,29,1,20,4,"Vancouver, BC",Canada
+Winston Stanley,Canada,1994,Wing,66,27,38,1,123,24,"Victoria, BC",Canada
+Paul LeBlanc,Canada,1994,Prop,4,2,2,0,0,0,"Sept-Iles, QC",Canada
 Kevin Whitley,Canada,1995,Lock,1,0,1,0,0,0,Bandar Seri Begawan,Brunei Darussalam
 Jeff Grout,Canada,1995,Lock,1,1,0,0,0,0,,
 Shawn Lytton,Canada,1995,Wing,9,6,3,0,5,1,Tokyo,Japan
 Danny Nikas,Canada,1995,Hooker,2,1,1,0,0,0,,
 Courtney Smith,Canada,1995,Wing,21,10,11,0,40,8,Kingston,Jamaica
-Alan Tynan,Canada,1995,Scrum-half,5,2,3,0,10,2,BC,Canada
+Alan Tynan,Canada,1995,Scrum-half,5,2,3,0,10,2,"Vancouver, BC",Canada
 Gareth Rowlands,Canada,1995,Lock,6,1,5,0,0,0,Cardiff,Wales
-Rod Snow,Canada,1995,Prop,62,27,33,2,40,8,NL,India
-Barry Ebl,Canada,1995,Wing,3,1,2,0,0,0,,
-Chris Michaluk,Canada,1995,No. 8,4,3,1,0,0,0,BC,Canada
-David Penney,Canada,1995,Prop,7,2,5,0,0,0,NL,India
-Nick Clapinson,Canada,1995,Prop,2,0,2,0,0,0,QC,Canada
-Rob Card,Canada,1996,Scrum-half,8,4,4,0,0,0,,
+Rod Snow,Canada,1995,Prop,62,27,33,2,40,8,"Bonavista, NL",India
+Barry Ebl,Canada,1995,Wing,3,1,2,0,0,0,NA,Nederland
+Chris Michaluk,Canada,1995,No. 8,4,3,1,0,0,0,"Kelowna, BC",Canada
+David Penney,Canada,1995,Prop,7,2,5,0,0,0,"St John's, NL",India
+Nick Clapinson,Canada,1995,Prop,2,0,2,0,0,0,"Lachine, QC",Canada
+Rob Card,Canada,1996,Scrum-half,8,4,4,0,0,0,NA,Austria
 Jim Yeganegi,Canada,1996,Flanker,2,1,1,0,0,0,,
-Richard Bice,Canada,1996,Prop,22,10,12,0,0,0,BC,Canada
-Jason Hall,Canada,1996,Centre,7,5,2,0,5,1,,
-Tony Healy,Canada,1996,Lock,15,12,3,0,0,0,BC,Canada
-Dennis Clarke,Canada,1996,Centre,1,0,1,0,0,0,QC,Canada
-Jeff Tomlinson,Canada,1996,Back-row,3,2,1,0,0,0,ON,Canada
-Scott Bryan,Canada,1996,Centre,20,9,11,0,15,3,ON,Canada
-Joe Haley,Canada,1996,Fullback,1,1,0,0,0,0,BC,Canada
+Richard Bice,Canada,1996,Prop,22,10,12,0,0,0,"Vancouver, BC",Canada
+Jason Hall,Canada,1996,Centre,7,5,2,0,5,1,NA,Nederland
+Tony Healy,Canada,1996,Lock,15,12,3,0,0,0,"Nanaimo, BC",Canada
+Dennis Clarke,Canada,1996,Centre,1,0,1,0,0,0,"Montreal, QC",Canada
+Jeff Tomlinson,Canada,1996,Back-row,3,2,1,0,0,0,"Toronto, ON",Canada
+Scott Bryan,Canada,1996,Centre,20,9,11,0,15,3,"Toronto, ON",Canada
+Joe Haley,Canada,1996,Fullback,1,1,0,0,0,0,"N Vancouver, BC",Canada
 Scott Hendry,Canada,1996,Hooker,3,2,1,0,5,1,Paisley,Scotland
-Brian Mosychuck,Canada,1996,Prop,2,1,1,0,0,0,,
+Brian Mosychuck,Canada,1996,Prop,2,1,1,0,0,0,NA,Danmark
 Kyle Nichols,Canada,1996,Centre,25,11,13,1,61,10,Scarborough,England
 Mike Schmid,Canada,1996,No. 8,24,12,12,0,10,2,New Westminster,Canada
-Jason Penaluna,Canada,1996,Fly-half,1,1,0,0,5,1,MB,Canada
-Brian McCarthy,Canada,1996,Lock,5,3,2,0,0,0,ON,Canada
-John Tait,Canada,1997,Lock,37,14,22,1,5,1,ON,Canada
-Adam Marshall,Canada,1997,"Prop, Hooker",2,1,1,0,0,0,ON,Canada
+Jason Penaluna,Canada,1996,Fly-half,1,1,0,0,5,1,"Winnipeg, MB",Canada
+Brian McCarthy,Canada,1996,Lock,5,3,2,0,0,0,"Brockville, ON",Canada
+John Tait,Canada,1997,Lock,37,14,22,1,5,1,"Orangeville, ON",Canada
+Adam Marshall,Canada,1997,"Prop, Hooker",2,1,1,0,0,0,"Toronto, ON",Canada
 C. Smythe,Canada,1997,Wing,2,1,1,0,0,0,,
-Kevin Morgan,Canada,1997,Hooker,4,3,1,0,0,0,,
-Colin Robertson,Canada,1997,Centre,7,7,0,0,15,3,,
-Joe Pagano,Canada,1997,Wing,10,6,4,0,15,3,ON,Canada
-Dan Baugh,Canada,1998,Back-row,27,11,15,1,25,5,SK,Slovensko
+Kevin Morgan,Canada,1997,Hooker,4,3,1,0,0,0,NA,Danmark
+Colin Robertson,Canada,1997,Centre,7,7,0,0,15,3,NA,Austria
+Joe Pagano,Canada,1997,Wing,10,6,4,0,15,3,"Toronto, ON",Canada
+Dan Baugh,Canada,1998,Back-row,27,11,15,1,25,5,"Regina, SK",Slovensko
 Pat Dunkley,Canada,1998,Hooker,38,14,23,1,15,3,Cardiff,Wales
 Harry Toews,Canada,1998,Prop,11,5,6,0,5,1,Alberta,Canada
 Troy MacDonald,Canada,1998,"Fly-half, Scrum-half",1,0,1,0,0,0,,
-Rob Robson,Canada,1998,Flanker,3,0,3,0,0,0,BC,Canada
+Rob Robson,Canada,1998,Flanker,3,0,3,0,0,0,"Victoria, BC",Canada
 Nik Witkowski,Canada,1998,Centre,34,14,19,1,30,6,London,England
-Jon Thiel,Canada,1998,Prop,44,14,28,2,20,4,BC,Canada
+Jon Thiel,Canada,1998,Prop,44,14,28,2,20,4,"Victoria, BC",Canada
 Jeremy Cordle,Canada,1998,Wing,6,2,4,0,5,1,Cardiff,Wales
-Roger Robinson,Canada,1998,Centre,1,1,0,0,0,0,,
-Ryan Banks,Canada,1999,Back-row,36,12,23,1,15,3,BC,Canada
-Fred Asselin,Canada,1999,Wing,15,7,8,0,15,3,QC,Canada
-Morgan Williams,Canada,1999,Scrum-half,56,18,36,2,68,13,ON,Canada
+Roger Robinson,Canada,1998,Centre,1,1,0,0,0,0,NA,Nederland
+Ryan Banks,Canada,1999,Back-row,36,12,23,1,15,3,"Vancouver, BC",Canada
+Fred Asselin,Canada,1999,Wing,15,7,8,0,15,3,"Montreal, QC",Canada
+Morgan Williams,Canada,1999,Scrum-half,56,18,36,2,68,13,"Kingston, ON",Canada
 Duane Major,Canada,1999,Prop,12,4,7,1,0,0,Christchurch,NewZealand
-Jared Barker,Canada,2000,Fly-half,18,10,8,0,226,2,AB,Canada
-Garth Cooke,Canada,2000,Prop,25,8,17,0,0,0,BC,Canada
-Sean Fauth,Canada,2000,Wing,29,12,16,1,35,7,AL,USA
-Ed Knaggs,Canada,2000,Lock,19,6,12,1,0,0,,
-Phil Murphy,Canada,2000,No. 8,20,7,12,1,25,5,NB,Canada
-Kevin Tkachuk,Canada,2000,Prop,55,18,37,0,25,5,MB,Canada
-Adam van Staveren,Canada,2000,Flanker,20,8,12,0,0,0,ON,Canada
-Mark Irvine,Canada,2000,"Centre, Flanker",8,3,4,1,0,0,,
-Nick Milau,Canada,2000,"Fullback, Scrum-half",2,1,1,0,0,0,,
-Gregor Dixon,Canada,2000,Flanker,10,3,6,1,0,0,,
-Jason Verstraten,Canada,2000,"Centre, Wing",3,1,2,0,5,1,,
-John Cannon,Canada,2001,Centre,31,8,23,0,0,0,BC,Canada
-Ed Fairhurst,Canada,2001,Scrum-half,57,22,34,1,46,4,SK,Slovensko
-Jeff Williams,Canada,2001,"Fullback, Wing",5,2,3,0,0,0,,
-Dale Burleigh,Canada,2001,Hooker,5,2,3,0,5,1,ON,Canada
-Marco di Girolomo,Canada,2001,Scrum-half,22,8,14,0,15,3,ON,Canada
-Ron Johnstone,Canada,2001,Lock,8,4,4,0,0,0,,
-Boris Stoikos,Canada,2001,Prop,1,1,0,0,0,0,ON,Canada
-Colin Yukes,Canada,2001,"Lock, Flanker",36,11,24,1,0,0,AB,Canada
+Jared Barker,Canada,2000,Fly-half,18,10,8,0,226,2,"Edmonton, AB",Canada
+Garth Cooke,Canada,2000,Prop,25,8,17,0,0,0,"Grandforks, BC",Canada
+Sean Fauth,Canada,2000,Wing,29,12,16,1,35,7,"Calgary, AL",USA
+Ed Knaggs,Canada,2000,Lock,19,6,12,1,0,0,NA,Danmark
+Phil Murphy,Canada,2000,No. 8,20,7,12,1,25,5,"Saint John, NB",Canada
+Kevin Tkachuk,Canada,2000,Prop,55,18,37,0,25,5,"Thompson, MB",Canada
+Adam van Staveren,Canada,2000,Flanker,20,8,12,0,0,0,"Pickering, ON",Canada
+Mark Irvine,Canada,2000,"Centre, Flanker",8,3,4,1,0,0,NA,Austria
+Nick Milau,Canada,2000,"Fullback, Scrum-half",2,1,1,0,0,0,NA,Austria
+Gregor Dixon,Canada,2000,Flanker,10,3,6,1,0,0,NA,Danmark
+Jason Verstraten,Canada,2000,"Centre, Wing",3,1,2,0,5,1,NA,Austria
+John Cannon,Canada,2001,Centre,31,8,23,0,0,0,"Abbotsford, BC",Canada
+Ed Fairhurst,Canada,2001,Scrum-half,57,22,34,1,46,4,"Regina, SK",Slovensko
+Jeff Williams,Canada,2001,"Fullback, Wing",5,2,3,0,0,0,NA,Austria
+Dale Burleigh,Canada,2001,Hooker,5,2,3,0,5,1,"London, ON",Canada
+Marco di Girolomo,Canada,2001,Scrum-half,22,8,14,0,15,3,"Toronto, ON",Canada
+Ron Johnstone,Canada,2001,Lock,8,4,4,0,0,0,NA,Svizra
+Boris Stoikos,Canada,2001,Prop,1,1,0,0,0,0,"Toronto, ON",Canada
+Colin Yukes,Canada,2001,"Lock, Flanker",36,11,24,1,0,0,"Edmonton, AB",Canada
 Brad Major,Canada,2001,Flanker,2,0,2,0,0,0,,
-Shane Thompson,Canada,2001,"Centre, Scrum-half",2,0,2,0,0,0,,
-Mike Danskin,Canada,2001,Fly-half,3,0,3,0,8,0,BC,Canada
-Mark Lawson,Canada,2002,Hooker,26,10,16,0,5,1,BC,Canada
-Jamie Cudmore,Canada,2002,Lock,39,12,26,1,10,2,MB,Canada
-Matt King,Canada,2002,"Wing, Flanker",11,4,7,0,0,0,NB,Canada
-Leif Carlson,Canada,2002,Flanker,3,0,3,0,0,0,,
-Quentin Fyffe,Canada,2003,Fullback,15,6,9,0,25,5,NSW,Australia
-David Moonlight,Canada,2003,Wing,4,0,4,0,0,0,ON,Canada
-Chad Plater,Canada,2003,Prop,1,0,1,0,0,0,,
-Pat Riordan,Canada,2003,Hooker,43,20,21,2,20,4,ON,Canada
-Ryan Smith,Canada,2003,Centre,51,18,31,2,45,9,ON,Canada
-Aaron Abrams,Canada,2003,Hooker,22,7,15,0,10,2,ON,Canada
-James Pritchard,Canada,2003,"Fullback, Wing",62,26,34,2,607,18,NSW,Australia
-Jim Douglas,Canada,2003,Flanker,9,2,7,0,0,0,BC,Canada
-Jeff Reid,Canada,2003,No. 8,5,1,4,0,0,0,NSW,Australia
-Josh Jackson,Canada,2003,Lock,24,6,17,1,0,0,ON,Canada
-Pat Bickerton,Canada,2004,Back-row,2,1,1,0,0,0,,
+Shane Thompson,Canada,2001,"Centre, Scrum-half",2,0,2,0,0,0,NA,Danmark
+Mike Danskin,Canada,2001,Fly-half,3,0,3,0,8,0,"Victoria, BC",Canada
+Mark Lawson,Canada,2002,Hooker,26,10,16,0,5,1,"Vancouver, BC",Canada
+Jamie Cudmore,Canada,2002,Lock,39,12,26,1,10,2,"Winnipeg, MB",Canada
+Matt King,Canada,2002,"Wing, Flanker",11,4,7,0,0,0,"Woodstock, NB",Canada
+Leif Carlson,Canada,2002,Flanker,3,0,3,0,0,0,NA,Danmark
+Quentin Fyffe,Canada,2003,Fullback,15,6,9,0,25,5,"Gosford, NSW",Australia
+David Moonlight,Canada,2003,Wing,4,0,4,0,0,0,"Whitby, ON",Canada
+Chad Plater,Canada,2003,Prop,1,0,1,0,0,0,NA,
+Pat Riordan,Canada,2003,Hooker,43,20,21,2,20,4,"London, ON",Canada
+Ryan Smith,Canada,2003,Centre,51,18,31,2,45,9,"Kitchener, ON",Canada
+Aaron Abrams,Canada,2003,Hooker,22,7,15,0,10,2,"London, ON",Canada
+James Pritchard,Canada,2003,"Fullback, Wing",62,26,34,2,607,18,"Parks, NSW",Australia
+Jim Douglas,Canada,2003,Flanker,9,2,7,0,0,0,"Duncan, BC",Canada
+Jeff Reid,Canada,2003,No. 8,5,1,4,0,0,0,"Sydney, NSW",Australia
+Josh Jackson,Canada,2003,Lock,24,6,17,1,0,0,"Fergus, ON",Canada
+Pat Bickerton,Canada,2004,Back-row,2,1,1,0,0,0,NA,
 Forrest Gainer,Canada,2004,Prop,16,4,12,0,0,0,Edmonton,Canada
-Stan McKeen,Canada,2004,Back-row,20,7,13,0,0,0,BC,Canada
-Sean O'Leary,Canada,2004,Lock,6,3,3,0,0,0,,
-Alby Pasutto,Canada,2004,Prop,2,1,1,0,0,0,,
-Mike Pyke,Canada,2004,"Fullback, Wing",22,9,12,1,40,6,BC,Canada
-Mike Webb,Canada,2004,Flanker,18,7,10,1,0,0,BC,Canada
-Tyler Wish,Canada,2004,Wing,2,1,1,0,5,1,,
-Mike Burak,Canada,2004,Lock,29,8,20,1,0,0,BC,Canada
-Brian Collins,Canada,2004,Flanker,2,1,1,0,0,0,,
-Pat Fleck,Canada,2004,Scrum-half,7,3,4,0,0,0,,
-Tony LaCarte,Canada,2004,Wing,2,1,1,0,0,0,,
-Barkley Luke,Canada,2004,Centre,2,1,1,0,0,0,,
-Dan Pletch,Canada,2004,Prop,31,13,17,1,10,2,ON,Canada
-Matt Weingart,Canada,2004,Scrum-half,7,3,4,0,0,0,BC,Canada
+Stan McKeen,Canada,2004,Back-row,20,7,13,0,0,0,"Vancouver, BC",Canada
+Sean O'Leary,Canada,2004,Lock,6,3,3,0,0,0,NA,
+Alby Pasutto,Canada,2004,Prop,2,1,1,0,0,0,NA,
+Mike Pyke,Canada,2004,"Fullback, Wing",22,9,12,1,40,6,"Victoria, BC",Canada
+Mike Webb,Canada,2004,Flanker,18,7,10,1,0,0,"N Vancouver, BC",Canada
+Tyler Wish,Canada,2004,Wing,2,1,1,0,5,1,NA,
+Mike Burak,Canada,2004,Lock,29,8,20,1,0,0,"Vancouver, BC",Canada
+Brian Collins,Canada,2004,Flanker,2,1,1,0,0,0,NA,
+Pat Fleck,Canada,2004,Scrum-half,7,3,4,0,0,0,NA,
+Tony LaCarte,Canada,2004,Wing,2,1,1,0,0,0,NA,
+Barkley Luke,Canada,2004,Centre,2,1,1,0,0,0,NA,
+Dan Pletch,Canada,2004,Prop,31,13,17,1,10,2,"Lucan, ON",Canada
+Matt Weingart,Canada,2004,Scrum-half,7,3,4,0,0,0,"Williams Lake, BC",Canada
 Mike Langley,Canada,2004,Flanker,2,1,1,0,0,0,,
-Stirling Richmond,Canada,2004,Wing,8,1,7,0,15,3,,
-Christoph Strubin,Canada,2004,Prop,2,0,2,0,0,0,BC,Canada
-Derek Daypuck,Canada,2004,"Centre, Fly-half",17,6,11,0,54,1,ON,Canada
-Dave Spicer,Canada,2004,"Centre, Fly-half",17,6,10,1,10,2,BC,Canada
-Aaron Carpenter,Canada,2005,"Hooker, Back-row",75,28,45,2,80,16,ON,Canada
+Stirling Richmond,Canada,2004,Wing,8,1,7,0,15,3,NA,
+Christoph Strubin,Canada,2004,Prop,2,0,2,0,0,0,"N Vancouver, BC",Canada
+Derek Daypuck,Canada,2004,"Centre, Fly-half",17,6,11,0,54,1,"London, ON",Canada
+Dave Spicer,Canada,2004,"Centre, Fly-half",17,6,10,1,10,2,"Victoria, BC",Canada
+Aaron Carpenter,Canada,2005,"Hooker, Back-row",75,28,45,2,80,16,"Hamilton, ON",NewZealand
 Dave Ramsay,Canada,2005,Flanker,1,1,0,0,0,0,Devon,England
-Luke Tait,Canada,2005,Lock,20,8,12,0,5,1,ON,Canada
-Ken Goodland,Canada,2005,Back-row,1,1,0,0,0,0,,
-Ollie Atkinson,Canada,2005,"Lock, Flanker",5,3,2,0,0,0,,
-Brodie Henderson,Canada,2005,Wing,3,1,2,0,10,2,BC,Canada
-Dean van Camp,Canada,2005,"Wing, Centre",9,4,5,0,5,1,ON,Canada
-Kevin Parfrey,Canada,2005,Flanker,1,1,0,0,0,0,,
-Simon Pacey,Canada,2005,Wing,1,0,1,0,0,0,,
+Luke Tait,Canada,2005,Lock,20,8,12,0,5,1,"Barrie, ON",Canada
+Ken Goodland,Canada,2005,Back-row,1,1,0,0,0,0,NA,
+Ollie Atkinson,Canada,2005,"Lock, Flanker",5,3,2,0,0,0,NA,
+Brodie Henderson,Canada,2005,Wing,3,1,2,0,10,2,"N Vancouver, BC",Canada
+Dean van Camp,Canada,2005,"Wing, Centre",9,4,5,0,5,1,"Port Perry, ON",Canada
+Kevin Parfrey,Canada,2005,Flanker,1,1,0,0,0,0,NA,
+Simon Pacey,Canada,2005,Wing,1,0,1,0,0,0,NA,
 Kris Witkowski,Canada,2005,Centre,3,1,2,0,0,0,Warsaw,Polska
-Peter Densmore,Canada,2005,Hooker,1,0,1,0,0,0,,
-Casey Dunning,Canada,2005,Prop,5,1,4,0,0,0,AL,USA
-Iain Exner,Canada,2005,Prop,2,0,2,0,0,0,,
-Sean-Michael Stephen,Canada,2005,"Lock, Back-row",22,7,15,0,25,5,ON,Canada
-Simon Rodgers,Canada,2005,Fly-half,1,0,1,0,0,0,,
-Akio Tyler,Canada,2005,Centre,1,1,0,0,0,0,BC,Canada
-Mike Pletch,Canada,2005,"Prop, Hooker",26,11,14,1,0,0,ON,Canada
-Adam Kleeberger,Canada,2005,Flanker,38,17,19,2,20,4,AB,Canada
-Ryan McWhinney,Canada,2005,Centre,2,0,2,0,0,0,BC,Canada
+Peter Densmore,Canada,2005,Hooker,1,0,1,0,0,0,NA,
+Casey Dunning,Canada,2005,Prop,5,1,4,0,0,0,"Calgary, AL",Canada
+Iain Exner,Canada,2005,Prop,2,0,2,0,0,0,NA,
+Sean-Michael Stephen,Canada,2005,"Lock, Back-row",22,7,15,0,25,5,"Oakville, ON",Canada
+Simon Rodgers,Canada,2005,Fly-half,1,0,1,0,0,0,NA,
+Akio Tyler,Canada,2005,Centre,1,1,0,0,0,0,"Surrey, BC",Canada
+Mike Pletch,Canada,2005,"Prop, Hooker",26,11,14,1,0,0,"Lucan, ON",Canada
+Adam Kleeberger,Canada,2005,Flanker,38,17,19,2,20,4,"Elk Point, AB",Canada
+Ryan McWhinney,Canada,2005,Centre,2,0,2,0,0,0,"Abbotsford, BC",Canada
 Scott Hunter,Canada,2005,Lock,1,0,1,0,0,0,,
 Ryan Stewart,Canada,2005,Wing,1,0,1,0,0,0,,
-Justin Mensah-Coker,Canada,2006,Wing,26,12,13,1,35,7,BC,Canada
-Chris Pack,Canada,2006,Centre,2,1,1,0,0,0,,
-Dave Biddle,Canada,2006,Flanker,6,1,5,0,0,0,BC,Canada
-Matt Phinney,Canada,2006,"Lock, Back-row",2,0,2,0,0,0,,
-Mike Barbieri,Canada,2006,Prop,2,1,1,0,0,0,ON,Canada
-Ander Monro,Canada,2006,Fly-half,30,15,14,1,65,3,ON,Canada
-Hubert Buydens,Canada,2006,Prop,43,17,25,1,0,0,SK,Slovensko
-Craig Culpan,Canada,2006,Centre,7,2,4,1,5,1,BC,Canada
+Justin Mensah-Coker,Canada,2006,Wing,26,12,13,1,35,7,"Vancouver, BC",Canada
+Chris Pack,Canada,2006,Centre,2,1,1,0,0,0,NA,
+Dave Biddle,Canada,2006,Flanker,6,1,5,0,0,0,"Vancouver, BC",Canada
+Matt Phinney,Canada,2006,"Lock, Back-row",2,0,2,0,0,0,NA,
+Mike Barbieri,Canada,2006,Prop,2,1,1,0,0,0,"Toronto, ON",Canada
+Ander Monro,Canada,2006,Fly-half,30,15,14,1,65,3,"North York, ON",Canada
+Hubert Buydens,Canada,2006,Prop,43,17,25,1,0,0,"Saskatoon, SK",Canada
+Craig Culpan,Canada,2006,Centre,7,2,4,1,5,1,"Vancouver, BC",Canada
 DTH van der Merwe,Canada,2006,Wing,42,14,26,2,115,23,Worcester,England
 Stu Ault,Canada,2006,"Lock, Back-row",7,4,3,0,0,0,Ontario,Canada
-Scott Franklin,Canada,2007,Prop,12,5,5,2,0,0,SK,Slovensko
+Scott Franklin,Canada,2007,Prop,12,5,5,2,0,0,"Regina, SK",Canada
 Nanyak Dala,Canada,2007,Flanker,37,17,20,0,20,4,Jos,Nigeria
 Nick Trenkel,Canada,2007,Centre,1,0,1,0,0,0,Randburg,Fiji
-Luke Cudmore,Canada,2008,Lock,1,1,0,0,0,0,BC,Canada
-Tyler Hotson,Canada,2008,Lock,45,22,22,1,0,0,BC,Canada
-Bryn Keys,Canada,2008,Centre,8,4,4,0,0,0,,
+Luke Cudmore,Canada,2008,Lock,1,1,0,0,0,0,"Vancouver, BC",Canada
+Tyler Hotson,Canada,2008,Lock,45,22,22,1,0,0,"Vancouver, BC",Canada
+Bryn Keys,Canada,2008,Centre,8,4,4,0,0,0,NA,
 Andy Wilson,Canada,2008,Lock,1,1,0,0,0,0,Kirkcaldy,Scotland
-Andrew Fagan,Canada,2008,Flanker,1,1,0,0,0,0,,
-Phil MacKenzie,Canada,2008,Wing,32,15,16,1,35,7,ON,Canada
-Nathan Hirayama,Canada,2008,Fly-half,23,8,15,0,47,1,BC,Canada
-Jebb Sinclair,Canada,2008,Lock,42,19,22,1,10,2,AB,Canada
-Ciaran Hearn,Canada,2008,"Fullback, Centre",53,20,33,0,35,6,NL,India
+Andrew Fagan,Canada,2008,Flanker,1,1,0,0,0,0,NA,
+Phil MacKenzie,Canada,2008,Wing,32,15,16,1,35,7,"Oakville, ON",Canada
+Nathan Hirayama,Canada,2008,Fly-half,23,8,15,0,47,1,"Richmond, BC",England
+Jebb Sinclair,Canada,2008,Lock,42,19,22,1,10,2,"Red Deer, AB",Canada
+Ciaran Hearn,Canada,2008,"Fullback, Centre",53,20,33,0,35,6,"St John's, NL",Canada
 Matt Evans,Canada,2008,Wing,38,14,23,1,50,10,Salisbury,England
-Frank Walsh,Canada,2008,Prop,4,0,4,0,0,0,NL,India
-Sean Duke,Canada,2008,Wing,11,7,4,0,20,4,,
-Jason Marshall,Canada,2008,Prop,31,16,14,1,15,3,BC,Canada
-Chauncey O'Toole,Canada,2009,Flanker,21,12,8,1,15,3,NB,Canada
-Phil Mack,Canada,2009,Scrum-half,38,11,27,0,15,3,BC,Canada
-Doug Wooldridge,Canada,2009,Prop,23,8,15,0,0,0,ON,Canada
-Andrew Tiedemann,Canada,2009,Prop,38,16,22,0,5,1,AB,Canada
-John Moonlight,Canada,2009,Back-row,23,10,13,0,15,3,ON,Canada
-Nick Blevins,Canada,2009,Centre,41,16,25,0,45,9,AB,Canada
-Sean White,Canada,2009,Scrum-half,27,15,11,1,10,2,BC,Canada
-Tom Dolezel,Canada,2009,Prop,16,11,5,0,5,1,,
-Brian Erichsen,Canada,2009,Lock,5,5,0,0,0,0,MB,Canada
-Mark MacSween,Canada,2009,Flanker,1,1,0,0,0,0,,
-Mike Scholz,Canada,2009,Centre,6,5,1,0,0,0,ON,Canada
+Frank Walsh,Canada,2008,Prop,4,0,4,0,0,0,"St John's, NL",Canada
+Sean Duke,Canada,2008,Wing,11,7,4,0,20,4,NA,
+Jason Marshall,Canada,2008,Prop,31,16,14,1,15,3,"N Vancouver, BC",Canada
+Chauncey O'Toole,Canada,2009,Flanker,21,12,8,1,15,3,"Bellisle, NB",
+Phil Mack,Canada,2009,Scrum-half,38,11,27,0,15,3,"Victoria, BC",Canada
+Doug Wooldridge,Canada,2009,Prop,23,8,15,0,0,0,"Lindsay, ON",Canada
+Andrew Tiedemann,Canada,2009,Prop,38,16,22,0,5,1,"St Albert, AB",Canada
+John Moonlight,Canada,2009,Back-row,23,10,13,0,15,3,"Scarborough, ON",Canada
+Nick Blevins,Canada,2009,Centre,41,16,25,0,45,9,"Edmonton, AB",Canada
+Sean White,Canada,2009,Scrum-half,27,15,11,1,10,2,"Victoria, BC",Canada
+Tom Dolezel,Canada,2009,Prop,16,11,5,0,5,1,NA,
+Brian Erichsen,Canada,2009,Lock,5,5,0,0,0,0,"Winnipeg, MB",Canada
+Mark MacSween,Canada,2009,Flanker,1,1,0,0,0,0,NA,
+Mike Scholz,Canada,2009,Centre,6,5,1,0,0,0,"London, ON",Canada
 Ryan Hamilton,Canada,2010,Hooker,17,11,5,1,0,0,Edmonton,Canada
 Jeremy Kyne,Canada,2010,Flanker,2,1,0,1,0,0,Wellington,NewZealand
-Taylor Paris,Canada,2010,Wing,20,9,11,0,70,14,ON,Canada
-Connor Braid,Canada,2010,"Centre, Fly-half",22,6,16,0,36,2,BC,Canada
-Mitch Gudgeon,Canada,2010,Lock,2,2,0,0,0,0,,
+Taylor Paris,Canada,2010,Wing,20,9,11,0,70,14,"Barrie, ON",Canada
+Connor Braid,Canada,2010,"Centre, Fly-half",22,6,16,0,36,2,"Victoria, BC",Canada
+Mitch Gudgeon,Canada,2010,Lock,2,2,0,0,0,0,NA,
 Jamie Mackenzie,Canada,2010,Scrum-half,10,6,4,0,0,0,Troon,Scotland
-Jon Phelan,Canada,2010,Lock,23,9,14,0,0,0,,
-Conor Trainor,Canada,2011,Centre,27,6,20,1,35,7,BC,Canada
-Brett Beukeboom,Canada,2012,Lock,23,7,16,0,0,0,ON,Canada
-Tyler Ardron,Canada,2012,Flanker,22,7,15,0,10,2,ON,Canada
-Jeff Hassler,Canada,2012,Wing,17,4,13,0,20,4,AB,Canada
-Ray Barkwill,Canada,2012,Hooker,39,13,26,0,15,3,ON,Canada
-Eric Wilson,Canada,2012,Fullback,2,1,1,0,0,0,,
-Harry Jones,Canada,2012,"Fullback, Fly-half",20,7,13,0,38,5,BC,Canada
-Pat Parfrey,Canada,2013,Centre,15,7,8,0,15,3,,
-Liam Underwood,Canada,2013,Fly-half,13,4,9,0,17,0,ON,Canada
-Aaron Flagg,Canada,2013,Lock,1,0,1,0,0,0,,
-Michael Fuailefau,Canada,2013,Centre,1,0,1,0,0,0,,
-Cam Pierce,Canada,2013,Lock,3,2,1,0,0,0,,
-Jake Ilnicki,Canada,2013,Prop,18,4,14,0,0,0,BC,Canada
-Benoit Piffero,Canada,2013,Hooker,12,3,9,0,0,0,QC,Canada
-Kyle Gilmour,Canada,2013,Flanker,15,4,11,0,0,0,AB,Canada
+Jon Phelan,Canada,2010,Lock,23,9,14,0,0,0,NA,
+Conor Trainor,Canada,2011,Centre,27,6,20,1,35,7,"Vancouver, BC",Canada
+Brett Beukeboom,Canada,2012,Lock,23,7,16,0,0,0,"Lindsay, ON",Canada
+Tyler Ardron,Canada,2012,Flanker,22,7,15,0,10,2,"Peterborough, ON",Canada
+Jeff Hassler,Canada,2012,Wing,17,4,13,0,20,4,"Okotoks, AB",Canada
+Ray Barkwill,Canada,2012,Hooker,39,13,26,0,15,3,"Niagara Falls, ON",Canada
+Eric Wilson,Canada,2012,Fullback,2,1,1,0,0,0,NA,
+Harry Jones,Canada,2012,"Fullback, Fly-half",20,7,13,0,38,5,"Vancouver, BC",Canada
+Pat Parfrey,Canada,2013,Centre,15,7,8,0,15,3,NA,
+Liam Underwood,Canada,2013,Fly-half,13,4,9,0,17,0,"Toronto, ON",Canada
+Aaron Flagg,Canada,2013,Lock,1,0,1,0,0,0,NA,
+Michael Fuailefau,Canada,2013,Centre,1,0,1,0,0,0,NA,
+Cam Pierce,Canada,2013,Lock,3,2,1,0,0,0,NA,
+Jake Ilnicki,Canada,2013,Prop,18,4,14,0,0,0,"Williams Lake, BC",Canada
+Benoit Piffero,Canada,2013,Hooker,12,3,9,0,0,0,"Montreal, QC",Canada
+Kyle Gilmour,Canada,2013,Flanker,15,4,11,0,0,0,"Fort McMurray, AB",Canada
 Djustice Sears-Duru,Canada,2013,Prop,26,7,19,0,0,0,Edmonton,Canada
-Gordon McRorie,Canada,2014,Scrum-half,27,6,21,0,185,4,,
-Jordan Wilson-Ross,Canada,2014,"Fullback, Wing",4,2,2,0,5,1,,
+Gordon McRorie,Canada,2014,Scrum-half,27,6,21,0,185,4,NA,
+Jordan Wilson-Ross,Canada,2014,"Fullback, Wing",4,2,2,0,5,1,NA,
 Richard Thorpe,Canada,2014,Flanker,8,0,8,0,0,0,Beckenham,England
-Thyssen de Goede,Canada,2015,Flanker,2,0,2,0,0,0,,
-Callum Morrison,Canada,2015,Flanker,5,1,4,0,0,0,,
-Evan Olmstead,Canada,2015,Flanker,13,2,11,0,5,1,BC,Canada
-Gradyn Bowd,Canada,2016,Centre,8,4,4,0,0,0,,
-Paul Ciulini,Canada,2016,Lock,6,3,3,0,5,1,,
-Dan Moor,Canada,2016,Wing,11,5,6,0,20,4,,
-Clay Panga,Canada,2016,Centre,6,3,3,0,10,2,,
-Lucas Rumball,Canada,2016,Back-row,12,5,7,0,10,2,,
-Mozac Samson,Canada,2016,Fullback,4,2,2,0,0,0,,
-Allistair Clark,Canada,2016,Flanker,6,4,2,0,5,1,,
-Kyle Baille,Canada,2016,Lock,8,3,5,0,5,1,AB,Canada
-Liam Chisholm,Canada,2016,Lock,5,2,3,0,0,0,,
-Andrew Ferguson,Canada,2016,Scrum-half,3,2,1,0,17,0,,
-Duncan Maguire,Canada,2016,Wing,3,2,1,0,5,1,,
-Brock Staller,Canada,2016,Centre,7,3,4,0,6,0,,
-Rob Brouwer,Canada,2016,Lock,9,3,6,0,0,0,,
+Thyssen de Goede,Canada,2015,Flanker,2,0,2,0,0,0,NA,
+Callum Morrison,Canada,2015,Flanker,5,1,4,0,0,0,NA,
+Evan Olmstead,Canada,2015,Flanker,13,2,11,0,5,1,"N Vancouver, BC",Canada
+Gradyn Bowd,Canada,2016,Centre,8,4,4,0,0,0,NA,
+Paul Ciulini,Canada,2016,Lock,6,3,3,0,5,1,NA,
+Dan Moor,Canada,2016,Wing,11,5,6,0,20,4,NA,
+Clay Panga,Canada,2016,Centre,6,3,3,0,10,2,NA,
+Lucas Rumball,Canada,2016,Back-row,12,5,7,0,10,2,NA,
+Mozac Samson,Canada,2016,Fullback,4,2,2,0,0,0,NA,
+Allistair Clark,Canada,2016,Flanker,6,4,2,0,5,1,NA,
+Kyle Baille,Canada,2016,Lock,8,3,5,0,5,1,"St Albert, AB",Canada
+Liam Chisholm,Canada,2016,Lock,5,2,3,0,0,0,NA,
+Andrew Ferguson,Canada,2016,Scrum-half,3,2,1,0,17,0,NA,
+Duncan Maguire,Canada,2016,Wing,3,2,1,0,5,1,NA,
+Brock Staller,Canada,2016,Centre,7,3,4,0,6,0,NA,
+Rob Brouwer,Canada,2016,Lock,9,3,6,0,0,0,NA,
 Joe Dolesau,Canada,2016,Wing,1,1,0,0,0,0,,
-Michael Hamson,Canada,2016,No. 8,2,2,0,0,5,1,,
-Eric Howard,Canada,2016,Hooker,9,4,5,0,0,0,,
-Brett Johnson,Canada,2016,Wing,2,2,0,0,5,1,,
-Jacob Robinson,Canada,2016,Wing,1,1,0,0,0,0,,
-Ryan Kotlewski,Canada,2016,Prop,2,1,1,0,0,0,,
-Matt Heaton,Canada,2016,Lock,5,0,5,0,0,0,BC,Canada
-Matt Tierney,Canada,2016,Prop,6,2,4,0,0,0,ONT,Canada
-Admir Cevjanovic,Canada,2016,Lock,7,1,6,0,5,1,Yugoslavia,México
-Ben LeSage,Canada,2016,Centre,1,0,1,0,0,0,,
-Giuseppe du Toit,Canada,2017,Fly-half,4,1,3,0,0,0,,
-Conor Keys,Canada,2017,Lock,2,1,1,0,NA,0,,
-Oliver Nott,Canada,2017,Flanker,2,1,1,0,NA,0,,
-George Barton,Canada,2017,NA,2,1,1,0,NA,2,BC,Canada
-Matt Beukeboom,Canada,2017,Lock,3,1,2,0,0,0,,
+Michael Hamson,Canada,2016,No. 8,2,2,0,0,5,1,NA,
+Eric Howard,Canada,2016,Hooker,9,4,5,0,0,0,NA,
+Brett Johnson,Canada,2016,Wing,2,2,0,0,5,1,NA,
+Jacob Robinson,Canada,2016,Wing,1,1,0,0,0,0,NA,
+Ryan Kotlewski,Canada,2016,Prop,2,1,1,0,0,0,NA,
+Matt Heaton,Canada,2016,Lock,5,0,5,0,0,0,"Ladysmith, BC",SouthAfrica
+Matt Tierney,Canada,2016,Prop,6,2,4,0,0,0,"Mississauga, ONT",Canada
+Admir Cevjanovic,Canada,2016,Lock,7,1,6,0,5,1,"Bosnia, Yugoslavia",
+Ben LeSage,Canada,2016,Centre,1,0,1,0,0,0,NA,
+Giuseppe du Toit,Canada,2017,Fly-half,4,1,3,0,0,0,NA,
+Conor Keys,Canada,2017,Lock,2,1,1,0,NA,0,NA,
+Oliver Nott,Canada,2017,Flanker,2,1,1,0,NA,0,NA,
+George Barton,Canada,2017,NA,2,1,1,0,NA,2,"Duncan, BC",Canada
+Matt Beukeboom,Canada,2017,Lock,3,1,2,0,0,0,NA,
 Cole Keith,Canada,2017,NA,2,1,1,0,NA,0,,
-Reegan O'Gorman,Canada,2017,Lock,4,1,3,0,0,0,,
-Robbie Povey,Canada,2017,Fly-half,3,1,2,0,NA,0,,
-Lucas Albornoz,Canada,2017,Lock,1,0,1,0,NA,0,,
-Kainoa Lloyd,Canada,2017,Wing,1,0,1,0,NA,0,,
+Reegan O'Gorman,Canada,2017,Lock,4,1,3,0,0,0,NA,
+Robbie Povey,Canada,2017,Fly-half,3,1,2,0,NA,0,NA,
+Lucas Albornoz,Canada,2017,Lock,1,0,1,0,NA,0,NA,
+Kainoa Lloyd,Canada,2017,Wing,1,0,1,0,NA,0,NA,
 Rory McDonell,Canada,2017,Wing,1,0,1,0,0,0,,

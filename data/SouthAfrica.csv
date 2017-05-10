@@ -1,29 +1,29 @@
 Name,Team,Debut,Position,Matches,Wins,Losses,Draws,Points,Tries,Birthplace,Birthcountry
 Fred Alexander,SouthAfrica,1891,Forward,2,0,2,0,0,0,Malmesbury,SouthAfrica
-Bill Bisset,SouthAfrica,1891,Forward,2,0,2,0,0,0,Cape Town,SouthAfrica
+Bill Bisset,SouthAfrica,1891,Forward,2,0,2,0,0,0,"Kenilworth, Cape Town",SouthAfrica
 Harry Boyes,SouthAfrica,1891,Wing,2,0,2,0,0,0,Cape Town,SouthAfrica
-Herbert Castens,SouthAfrica,1891,Forward,1,0,1,0,0,0,E Cape,USA
+Herbert Castens,SouthAfrica,1891,Forward,1,0,1,0,0,0,"Pearston, E Cape",USA
 Tiger Devenish,SouthAfrica,1891,Forward,1,0,1,0,0,0,Victoria West,SouthAfrica
 Ben Duff,SouthAfrica,1891,Fullback,3,0,3,0,0,0,Swellendam,SouthAfrica
 Frank Guthrie,SouthAfrica,1891,Halfback,3,0,3,0,0,0,Notting Hill,England
 Frank Hamilton,SouthAfrica,1891,Forward,1,0,1,0,0,0,Cape Town,SouthAfrica
 Edward Little,SouthAfrica,1891,Forward,2,0,2,0,0,0,Midlothian,Scotland
 Japie Louw,SouthAfrica,1891,Forward,3,0,3,0,0,0,Fisantekraal,SouthAfrica
-George Merry,SouthAfrica,1891,Forward,1,0,1,0,0,0,,
+George Merry,SouthAfrica,1891,Forward,1,0,1,0,0,0,NA,Svizra
 Alf Richards,SouthAfrica,1891,Halfback,3,0,3,0,0,0,Grahamstown,SouthAfrica
 Mosey van Buuren,SouthAfrica,1891,Wing,1,0,1,0,0,0,Burgersdorp,SouthAfrica
 Oupa Versfeld,SouthAfrica,1891,Forward,3,0,3,0,0,0,Cape Town,SouthAfrica
 Chubb Vigne,SouthAfrica,1891,Centre,3,0,3,0,0,0,Fort Beaufort,SouthAfrica
 Sas de Kock,SouthAfrica,1891,Wing,1,0,1,0,0,0,Hopetown,SouthAfrica
-Fairy Heatlie,SouthAfrica,1891,Forward,7,2,4,1,6,0,Cape Prov,
+Fairy Heatlie,SouthAfrica,1891,Forward,7,2,4,1,6,0,"Worcester, Cape Prov",
 Jackie Powell,SouthAfrica,1891,Halfback,4,0,2,2,0,0,Cape Town,SouthAfrica
 Bob Shand,SouthAfrica,1891,Forward,2,0,2,0,0,0,Tulbagh,SouthAfrica
 Toski Smith,SouthAfrica,1891,Forward,3,0,3,0,0,0,Wynberg,SouthAfrica
 Dan Smith,SouthAfrica,1891,Forward,1,0,1,0,0,0,Durban,SouthAfrica
 Bob Snedden,SouthAfrica,1891,Forward,1,0,1,0,0,0,Kirkgate,England
-Wilfred Trenery,SouthAfrica,1891,Forward,1,0,1,0,0,0,Cornwall,England
-Charlie Chignell,SouthAfrica,1891,Forward,1,0,1,0,0,0,Devon,England
-Jack Hartley,SouthAfrica,1891,Wing,1,0,1,0,0,0,Krugersdorp,SouthAfrica
+Wilfred Trenery,SouthAfrica,1891,Forward,1,0,1,0,0,0,"Hayle, Cornwall",England
+Charlie Chignell,SouthAfrica,1891,Forward,1,0,1,0,0,0,"Heavitree, Devon",England
+Jack Hartley,SouthAfrica,1891,Wing,1,0,1,0,0,0,"Vaalbank, Krugersdorp",SouthAfrica
 Jim McKendrick,SouthAfrica,1891,Flanker,1,0,1,0,0,0,Stellenbosch,SouthAfrica
 Charlie van Renen,SouthAfrica,1891,Forward,3,1,2,0,0,0,Constantia,România
 Hasie Versfeld,SouthAfrica,1891,Wing,1,0,1,0,0,0,Wynberg,SouthAfrica
@@ -35,17 +35,17 @@ Corbett Gorton,SouthAfrica,1896,Forward,1,0,1,0,0,0,Burton Extra,England
 Dykie Lyons,SouthAfrica,1896,Fullback,1,0,1,0,0,0,Port Elizabeth,SouthAfrica
 PJ Meyer,SouthAfrica,1896,Forward,1,0,1,0,0,0,,
 Francis Myburgh,SouthAfrica,1896,Halfback,1,0,1,0,0,0,Cape Town,SouthAfrica
-Ernest Olver,SouthAfrica,1896,Wing,1,0,1,0,0,0,Cornwall,England
+Ernest Olver,SouthAfrica,1896,Wing,1,0,1,0,0,0,"Liskeard, Cornwall",England
 Paul Scott,SouthAfrica,1896,Forward,4,1,3,0,0,0,New Brunswick,Canada
-Percy Twentyman-Jones,SouthAfrica,1896,Wing,3,1,2,0,3,1,Cape Col.,USA
+Percy Twentyman-Jones,SouthAfrica,1896,Wing,3,1,2,0,3,1,"Beaufort W, Cape Col.",USA
 Scraps Wessels,SouthAfrica,1896,Forward,3,0,3,0,0,0,Boshof,SouthAfrica
-Ben Andrew,SouthAfrica,1896,Forward,1,0,1,0,0,0,Lancs,England
+Ben Andrew,SouthAfrica,1896,Forward,1,0,1,0,0,0,"Hey, Lancs",England
 Allan Beswick,SouthAfrica,1896,Forward,3,1,2,0,0,0,Queenstown,NewZealand
 Davie Cope,SouthAfrica,1896,Fullback,1,0,1,0,2,0,Kimberley,SouthAfrica
 Jim Crosby,SouthAfrica,1896,Forward,1,0,1,0,0,0,Cape Town,SouthAfrica
 Charles Devenish,SouthAfrica,1896,Forward,1,0,1,0,0,0,Victoria West,SouthAfrica
 George Devenish,SouthAfrica,1896,Halfback,1,0,1,0,0,0,Riversdale District,SouthAfrica
-Spanner Forbes,SouthAfrica,1896,Centre,NA,NA,NA,NA,NA,NA,VIC,Australia
+Spanner Forbes,SouthAfrica,1896,Centre,NA,NA,NA,NA,NA,NA,"Mount Ararat, VIC",Australia
 Alf Larard,SouthAfrica,1896,Halfback,2,1,1,0,3,1,Kingston-upon-Hull,England
 Tom Mellet,SouthAfrica,1896,Forward,1,0,1,0,0,0,Potchefstroom,SouthAfrica
 Theo Samuels,SouthAfrica,1896,Fullback,3,1,2,0,6,2,George,SouthAfrica
@@ -58,19 +58,19 @@ Danie Theunissen,SouthAfrica,1896,Forward,1,0,1,0,0,0,Somerset West,SouthAfrica
 Patats Cloete,SouthAfrica,1896,Forward,1,1,0,0,0,0,Cape Town,SouthAfrica
 Paul de Waal,SouthAfrica,1896,Forward,1,1,0,0,0,0,nr.Kanonkop,
 Tommy Etlinger,SouthAfrica,1896,Halfback,1,1,0,0,0,0,London,England
-Tommy Hepburn,SouthAfrica,1896,Centre,1,1,0,0,2,0,Bechuanala,
-Herman van Broekhuizen,SouthAfrica,1896,Forward,1,1,0,0,0,0,Netherland,Philippines
+Tommy Hepburn,SouthAfrica,1896,Centre,1,1,0,0,2,0,"Shoshong, Bechuanala",
+Herman van Broekhuizen,SouthAfrica,1896,Forward,1,1,0,0,0,0,"Ryse, Netherland",Philippines
 Joe Barry,SouthAfrica,1903,Wing,3,1,0,2,3,1,Robertson District,SouthAfrica
-Charlie Brown,SouthAfrica,1903,Forward,3,1,0,2,0,0,South-West Africa,Burkina Faso
+Charlie Brown,SouthAfrica,1903,Forward,3,1,0,2,0,0,"Kuruman, South-West Africa",Burkina Faso
 Uncle Dobbin,SouthAfrica,1903,Halfback,9,5,1,3,3,1,Bethulie,SouthAfrica
-Alex Frew,SouthAfrica,1901,Forward,4,3,0,1,3,1,Ayrshire,Scotland
+Alex Frew,SouthAfrica,1901,Forward,4,3,0,1,3,1,"Loudon, Ayrshire",Scotland
 Charlie Jones,SouthAfrica,1903,Fullback,2,0,0,2,0,0,Kimberley,SouthAfrica
 Japie Krige,SouthAfrica,1903,Centre,5,3,1,1,3,1,Klein Drakenstein,SouthAfrica
 Willie McEwan,SouthAfrica,1894,Forward,18,9,5,4,3,1,Edinburgh,Scotland
 Andrew Morkel,SouthAfrica,1903,Wing,1,0,0,1,0,0,Somerset West,SouthAfrica
-PO Nel,SouthAfrica,1903,Forward,3,1,0,2,0,0,Natal,SouthAfrica
+PO Nel,SouthAfrica,1903,Forward,3,1,0,2,0,0,"Greytown, Natal",SouthAfrica
 Birdie Partridge,SouthAfrica,1903,Forward,1,0,0,1,0,0,Llanthewy Skirrid,Wales
-Klondyke Raaff,SouthAfrica,1903,Forward,6,2,1,3,3,1,Cape Town,SouthAfrica
+Klondyke Raaff,SouthAfrica,1903,Forward,6,2,1,3,3,1,"Robben Is, Cape Town",SouthAfrica
 Jimmy Sinclair,SouthAfrica,1903,Forward,1,0,0,1,0,0,Swellendam,SouthAfrica
 Bertie van Renen,SouthAfrica,1903,Fullback,2,1,0,1,0,0,Constantia,România
 Syd Ashley,SouthAfrica,1903,Centre,1,0,0,1,0,0,Cape Town,SouthAfrica
@@ -83,8 +83,8 @@ Rajah Martheze,SouthAfrica,1903,Forward,3,2,0,1,0,0,Cape Province,Solomon Island
 Henry Metcalf,SouthAfrica,1903,Forward,1,0,0,1,0,0,Caledon,SouthAfrica
 Jock Anderson,SouthAfrica,1903,Forward,1,1,0,0,0,0,Cape Town,SouthAfrica
 John Botha,SouthAfrica,1903,Forward,1,1,0,0,0,0,Cape Town,SouthAfrica
-Paddy Carolin,SouthAfrica,1903,Halfback,3,2,1,0,0,0,E Province,Rwanda
-Hugh Ferris,SouthAfrica,1901,Scrum-half,2,1,1,0,0,0,Co Down,Ireland
+Paddy Carolin,SouthAfrica,1903,Halfback,3,2,1,0,0,0,"Alicedale, E Province",Rwanda
+Hugh Ferris,SouthAfrica,1901,Scrum-half,2,1,1,0,0,0,"Newry, Co Down",Ireland
 Tommy Hobson,SouthAfrica,1903,Halfback,1,1,0,0,0,0,Somerset East,SouthAfrica
 Bob Loubser,SouthAfrica,1903,Wing,7,5,1,1,9,3,Klipheuvel,
 Alec Reid,SouthAfrica,1903,Forward,1,1,0,0,3,1,Swellendam District,SouthAfrica
@@ -92,10 +92,10 @@ Polla Roos,SouthAfrica,1903,Forward,4,3,0,1,0,0,Rus-en-Vrede,SouthAfrica
 Koei Brink,SouthAfrica,1906,Forward,3,1,1,1,0,0,Kuils River,SouthAfrica
 Cocky Brooks,SouthAfrica,1906,Forward,1,0,1,0,0,0,King William's Town,SouthAfrica
 Adam Burdett,SouthAfrica,1906,Forward,2,1,1,0,0,0,Oudtshoorn,SouthAfrica
-Bingo Burger,SouthAfrica,1906,Forward,4,2,2,0,0,0,Cape Prov.,
+Bingo Burger,SouthAfrica,1906,Forward,4,2,2,0,0,0,"Hamburg, Cape Prov.",
 Pinkie Daneel,SouthAfrica,1906,Forward,4,2,1,1,0,0,Bredasdorp,SouthAfrica
 Boy de Villiers,SouthAfrica,1906,Centre,3,1,1,1,0,0,Paarl,SouthAfrica
-Dietlof Mare,SouthAfrica,1906,Forward,1,0,1,0,0,0,Boland,SouthAfrica
+Dietlof Mare,SouthAfrica,1906,Forward,1,0,1,0,0,0,"Wellington, Boland",SouthAfrica
 Alf Marsberg,SouthAfrica,1906,Wing,3,1,1,1,0,0,Queenstown,NewZealand
 Sommie Morkel,SouthAfrica,1906,Forward,4,2,1,1,0,0,Kimberley,SouthAfrica
 Anton Stegmann,SouthAfrica,1906,Wing,2,1,1,0,3,1,Cradock,SouthAfrica
@@ -104,10 +104,10 @@ Dirk Jackson,SouthAfrica,1906,Halfback,3,2,0,1,0,0,Constantia,România
 Steve Joubert,SouthAfrica,1906,Fullback,3,2,0,1,8,1,Uniondale,USA
 Pietie le Roux,SouthAfrica,1906,Forward,3,2,0,1,0,0,Paarl,SouthAfrica
 Dougie Morkel,SouthAfrica,1906,Forward,9,8,0,1,38,3,Kimberley,SouthAfrica
-Billy Millar,SouthAfrica,1906,Forward,6,4,1,1,6,2,Cape Prov,
+Billy Millar,SouthAfrica,1906,Forward,6,4,1,1,6,2,"Bedford, Cape Prov",
 Nic Crosby,SouthAfrica,1910,Forward,2,2,0,0,0,0,Tarkastad,SouthAfrica
-Max Davison,SouthAfrica,1910,Forward,1,1,0,0,0,0,Cape Prov,
-Dirkie de Villiers,SouthAfrica,1910,Centre,3,2,1,0,3,1,Boland,SouthAfrica
+Max Davison,SouthAfrica,1910,Forward,1,1,0,0,0,0,"Bedford, Cape Prov",
+Dirkie de Villiers,SouthAfrica,1910,Centre,3,2,1,0,3,1,"Wellington, Boland",SouthAfrica
 Cocky Hahn,SouthAfrica,1910,Wing,3,2,1,0,3,1,Paarl,SouthAfrica
 Noel Howe-Browne,SouthAfrica,1910,Forward,3,2,1,0,0,0,,
 Lammetjie Luyt,SouthAfrica,1910,Halfback,7,6,1,0,8,2,Ceres,SouthAfrica
@@ -116,7 +116,7 @@ Cliff Riordan,SouthAfrica,1910,Forward,2,1,1,0,0,0,Colesberg,SouthAfrica
 Henry Walker,SouthAfrica,1910,Forward,3,2,1,0,0,0,Uitenhage,SouthAfrica
 Arthur Williams,SouthAfrica,1910,Forward,1,1,0,0,0,0,Kimberley,SouthAfrica
 Percy Allport,SouthAfrica,1910,Fullback,2,1,1,0,3,1,Calvinia,SouthAfrica
-Antonie Lombard,SouthAfrica,1910,Forward,1,0,1,0,0,0,Cape Prov,
+Antonie Lombard,SouthAfrica,1910,Forward,1,0,1,0,0,0,"Bedford, Cape Prov",
 Dick Luyt,SouthAfrica,1910,Centre,7,6,1,0,3,1,Ceres,SouthAfrica
 Wally Mills,SouthAfrica,1910,Wing,1,0,1,0,3,1,Durbanville,SouthAfrica
 Toby Moll,SouthAfrica,1910,Forward,1,0,1,0,0,0,Cape Town,SouthAfrica
@@ -131,8 +131,8 @@ John Luyt,SouthAfrica,1912,Forward,4,4,0,0,0,0,Ceres,SouthAfrica
 Boetie McHardy,SouthAfrica,1912,Wing,5,5,0,0,18,6,Bloemfontein,SouthAfrica
 Jacky Morkel,SouthAfrica,1912,Centre,5,5,0,0,16,4,Somerset West,SouthAfrica
 Gerhard Morkel,SouthAfrica,1912,Fullback,8,6,1,1,16,0,Somerset West,SouthAfrica
-Jan Stegmann,SouthAfrica,1912,Wing,5,5,0,0,15,5,Cape Prov,
-Tommy Thompson,SouthAfrica,1912,Forward,3,3,0,0,0,0,Cape Prov,
+Jan Stegmann,SouthAfrica,1912,Wing,5,5,0,0,15,5,"Bedford, Cape Prov",
+Tommy Thompson,SouthAfrica,1912,Forward,3,3,0,0,0,0,"Sterling, Cape Prov",
 Tom van Vuuren,SouthAfrica,1912,Forward,5,5,0,0,0,0,Adelaide,Australia
 John McCulloch,SouthAfrica,1913,Halfback,2,2,0,0,0,0,Kimberley,SouthAfrica
 Eddie Shum,SouthAfrica,1913,Forward,1,1,0,0,0,0,Estcourt,Canada
@@ -176,7 +176,7 @@ BV Vanderplank,SouthAfrica,1924,Prop,2,1,0,1,0,0,Pietermaritzburg,SouthAfrica
 George Daneel,SouthAfrica,1928,No. 8,8,6,2,0,6,2,Calvinia,SouthAfrica
 Pierie de Villiers,SouthAfrica,1928,Scrum-half,8,6,2,0,0,0,Worcester,England
 Brooke Duffy,SouthAfrica,1928,Centre,1,1,0,0,0,0,East London,SouthAfrica
-Flip Nel,SouthAfrica,1928,Lock,16,13,3,0,3,1,Natal,SouthAfrica
+Flip Nel,SouthAfrica,1928,Lock,16,13,3,0,3,1,"Kranskop, Natal",SouthAfrica
 Sharkey Osler,SouthAfrica,1928,Centre,1,1,0,0,0,0,Aliwal North,SouthAfrica
 Hennie Potgieter,SouthAfrica,1928,Lock,2,1,1,0,0,0,,
 Nic Pretorius,SouthAfrica,1928,Flanker,4,2,2,0,0,0,Vryburg,SouthAfrica
@@ -188,19 +188,19 @@ Neville Tod,SouthAfrica,1928,Wing,1,0,1,0,0,0,Durban,SouthAfrica
 JC van der Westhuizen,SouthAfrica,1928,Centre,4,2,2,0,3,1,Darling,SouthAfrica
 Manus de Jongh,SouthAfrica,1928,Wing,1,1,0,0,3,1,Moorreesburg,SouthAfrica
 AF du Toit,SouthAfrica,1928,Lock,2,1,1,0,0,0,Stellenbosch,SouthAfrica
-Boy Louw,SouthAfrica,1928,Prop,18,14,4,0,3,1,Boland,SouthAfrica
+Boy Louw,SouthAfrica,1928,Prop,18,14,4,0,3,1,"Wellington, Boland",SouthAfrica
 Poim Oliver,SouthAfrica,1928,Prop,2,1,1,0,0,0,Graaf-Reinet,SouthAfrica
 Willie Rousseau,SouthAfrica,1928,Centre,2,1,1,0,0,0,Steynsburg,SouthAfrica
 PK Morkel,SouthAfrica,1928,Wing,1,0,1,0,0,0,Koelenhof,SouthAfrica
 Jock van Niekerk,SouthAfrica,1928,Wing,1,0,1,0,0,0,Constantia,România
 Ferdie Bergh,SouthAfrica,1931,Lock,17,13,4,0,21,7,Stellenbosch,SouthAfrica
-Danie Craven,SouthAfrica,1931,Scrum-half,16,12,4,0,6,2,OFS,SouthAfrica
+Danie Craven,SouthAfrica,1931,Scrum-half,16,12,4,0,6,2,"Lindley, OFS",SouthAfrica
 Geoff Gray,SouthAfrica,1931,Centre,4,3,1,0,0,0,Hastings,England
 Bert Kipling,SouthAfrica,1931,Hooker,9,7,2,0,0,0,Kimberley,SouthAfrica
 Andre McDonald,SouthAfrica,1931,Flanker,4,4,0,0,0,0,Murraysburg,SouthAfrica
 Alvi van der Merwe,SouthAfrica,1931,Flanker,1,1,0,0,0,0,Rawsonville,Fiji
 Floors Venter,SouthAfrica,1931,Wing,3,3,0,0,0,0,Pietersburg,SouthAfrica
-Jimmy White,SouthAfrica,1931,Centre,10,7,3,0,10,2,CapeProv,
+Jimmy White,SouthAfrica,1931,Centre,10,7,3,0,10,2,"Queenstown, CapeProv",
 Morris Zimerman,SouthAfrica,1931,Wing,4,4,0,0,3,1,Jansenville,SouthAfrica
 Nic Bierman,SouthAfrica,1931,Flanker,1,1,0,0,0,0,Potchefstroom,SouthAfrica
 Ponie van der Westhuizen,SouthAfrica,1931,Wing,3,3,0,0,0,0,Darling,SouthAfrica
@@ -218,7 +218,7 @@ Joe Nykamp,SouthAfrica,1933,Prop,1,0,1,0,0,0,Pretoria,SouthAfrica
 Paul Visser,SouthAfrica,1933,Prop,1,0,1,0,0,0,Lichtenburg,Germany
 Ginger Clark,SouthAfrica,1933,Flanker,1,1,0,0,0,0,Kimberley,SouthAfrica
 Fred Smollan,SouthAfrica,1933,Flanker,3,2,1,0,0,0,Uitenhage,SouthAfrica
-John Apsey,SouthAfrica,1933,No. 8,3,2,1,0,0,0,Cape Town,SouthAfrica
+John Apsey,SouthAfrica,1933,No. 8,3,2,1,0,0,0,"Kenilworth, Cape Town",SouthAfrica
 Bunny Reid,SouthAfrica,1933,Fullback,1,1,0,0,0,0,East London,SouthAfrica
 Louis Babrow,SouthAfrica,1937,Centre,5,4,1,0,9,3,Smithfield,USA
 Ebbo Bastard,SouthAfrica,1937,Flanker,6,4,2,0,6,2,Kokstad,SouthAfrica
@@ -237,13 +237,13 @@ Roger Sherriff,SouthAfrica,1938,Lock,3,2,1,0,0,0,Kimberley,SouthAfrica
 Johnny Bester,SouthAfrica,1938,Wing,2,1,1,0,6,2,Moorreesburg,SouthAfrica
 George Smith,SouthAfrica,1938,Fullback,1,0,1,0,0,0,"Manly, Sydney",Australia
 Hannes Brewis,SouthAfrica,1949,Fly-half,10,10,0,0,18,1,Oudtshoorn,SouthAfrica
-Felix du Plessis,SouthAfrica,1949,Lock,3,3,0,0,0,0,OFS,SouthAfrica
+Felix du Plessis,SouthAfrica,1949,Lock,3,3,0,0,0,0,"Steynsburg, OFS",SouthAfrica
 Floors Duvenage,SouthAfrica,1949,Centre,2,2,0,0,0,0,Vryburg,SouthAfrica
 Okey Geffin,SouthAfrica,1949,Prop,7,7,0,0,48,0,Johannesburg,SouthAfrica
 Jorrie Jordaan,SouthAfrica,1949,Hooker,4,4,0,0,0,0,Cradock,SouthAfrica
 Bubbles Koch,SouthAfrica,1949,Lock,4,4,0,0,0,0,Hopefield,Wales
 Tjol Lategan,SouthAfrica,1949,Centre,11,10,1,0,9,3,Stellenbosch,SouthAfrica
-Buks Marais,SouthAfrica,1949,Wing,5,4,1,0,10,1,Cape Prov,
+Buks Marais,SouthAfrica,1949,Wing,5,4,1,0,10,1,"Worcester, Cape Prov",
 Cecil Moss,SouthAfrica,1949,Wing,4,4,0,0,0,0,Riversdale,SouthAfrica
 Hennie Muller,SouthAfrica,1949,No. 8,13,12,1,0,16,3,Witbank,SouthAfrica
 Louis Strydom,SouthAfrica,1949,Flanker,2,2,0,0,0,0,Robertson,USA
@@ -254,7 +254,7 @@ Ballie Wahl,SouthAfrica,1949,Scrum-half,1,1,0,0,0,0,Paarl,SouthAfrica
 Salty du Rand,SouthAfrica,1949,Lock,21,15,6,0,12,4,Hofmeyr,SouthAfrica
 Fonnie du Toit,SouthAfrica,1949,Scrum-half,8,8,0,0,6,2,Vryburg,SouthAfrica
 Chris Koch,SouthAfrica,1949,Prop,22,15,6,1,15,5,Moorreesburg,SouthAfrica
-Ryk van Schoor,SouthAfrica,1949,Centre,12,11,1,0,6,2,CapePrv,
+Ryk van Schoor,SouthAfrica,1949,Centre,12,11,1,0,6,2,"Philadelphia, CapePrv",
 Flip Geel,SouthAfrica,1949,Lock,1,1,0,0,0,0,Boshof,SouthAfrica
 Willem Barnard,SouthAfrica,1949,Lock,2,2,0,0,0,0,Upington,SouthAfrica
 Carrots Geraghty,SouthAfrica,1949,Wing,1,1,0,0,0,0,Port Beaufort,SouthAfrica
@@ -285,11 +285,11 @@ Daan Retief,SouthAfrica,1955,Flanker,9,5,4,0,12,4,Lichtenburg,Germany
 Des Sinclair,SouthAfrica,1955,Centre,4,2,2,0,0,0,Johannesburg,SouthAfrica
 Sias Swart,SouthAfrica,1955,Wing,1,0,1,0,3,1,Ofjiwarongo,
 Clive Ulyate,SouthAfrica,1955,Fly-half,7,3,4,0,6,1,Johannesburg,SouthAfrica
-Tom van Vollenhoven,SouthAfrica,1955,Wing,7,4,3,0,15,4,OFS,SouthAfrica
+Tom van Vollenhoven,SouthAfrica,1955,Wing,7,4,3,0,15,4,"Bethlehem, OFS",SouthAfrica
 Dawie Ackermann,SouthAfrica,1955,Flanker,8,4,4,0,3,1,Aliwal North,SouthAfrica
 Roy Dryburgh,SouthAfrica,1955,Fullback,8,4,4,0,28,3,Cape Town,SouthAfrica
-Wilf Rosenberg,SouthAfrica,1955,Centre,5,2,2,1,6,2,Cape Town,SouthAfrica
-Bertus van der Merwe,SouthAfrica,1955,Hooker,12,6,5,1,0,0,CapeProv,
+Wilf Rosenberg,SouthAfrica,1955,Centre,5,2,2,1,6,2,"Sea Point, Cape Town",SouthAfrica
+Bertus van der Merwe,SouthAfrica,1955,Hooker,12,6,5,1,0,0,"Rawsonville, CapeProv",Fiji
 Butch Lochner,SouthAfrica,1955,No. 8,9,3,5,1,6,2,Vredenburg,SouthAfrica
 Popeye Strydom,SouthAfrica,1955,Scrum-half,6,2,3,1,0,0,Kareedouw,SouthAfrica
 Pat Montini,SouthAfrica,1956,Centre,2,2,0,0,0,0,Cape Town,SouthAfrica
@@ -319,7 +319,7 @@ Dougie Holton,SouthAfrica,1960,Prop,1,1,0,0,0,0,Cape Town,SouthAfrica
 Doug Hopwood,SouthAfrica,1960,No. 8,22,15,4,3,15,5,Cape Town,SouthAfrica
 Dave Stewart,SouthAfrica,1960,Centre,11,7,3,1,9,1,,
 Robert Twigge,SouthAfrica,1960,Wing,1,1,0,0,0,0,,
-Des van Jaarsveldt,SouthAfrica,1960,Flanker,1,1,0,0,3,1,South Rhodesia,Zimbabwe
+Des van Jaarsveldt,SouthAfrica,1960,Flanker,1,1,0,0,3,1,"Bulawayo, South Rhodesia",Zimbabwe
 Mike Antelme,SouthAfrica,1960,Wing,5,2,1,2,0,0,Durban,SouthAfrica
 Dick Lockyear,SouthAfrica,1960,Scrum-half,6,3,1,2,20,0,,
 Avril Malan,SouthAfrica,1960,Lock,16,8,5,3,0,0,Pretoria,SouthAfrica
@@ -336,7 +336,7 @@ Attie Baard,SouthAfrica,1960,No. 8,1,1,0,0,0,0,Kakamas,SouthAfrica
 Frik du Preez,SouthAfrica,1961,Lock,38,24,8,6,11,1,Rustenberg,SouthAfrica
 Colin Greenwood,SouthAfrica,1961,Centre,1,1,0,0,6,2,Cape Town,SouthAfrica
 Charlie Nimb,SouthAfrica,1961,Fly-half,1,1,0,0,9,0,Paarl,SouthAfrica
-Ben-Piet van Zyl,SouthAfrica,1961,Wing,1,1,0,0,6,2,South Rhodesia,Zimbabwe
+Ben-Piet van Zyl,SouthAfrica,1961,Wing,1,1,0,0,6,2,"Gwelo, South Rhodesia",Zimbabwe
 Piet van Zyl,SouthAfrica,1961,Lock,1,1,0,0,0,0,,
 Mof Myburgh,SouthAfrica,1962,Prop,18,12,2,4,0,0,Senekal,SouthAfrica
 Ormy Taylor,SouthAfrica,1962,Wing,1,0,0,1,0,0,,
@@ -373,7 +373,7 @@ HO de Villiers,SouthAfrica,1967,Fullback,14,8,3,3,26,0,Johannesburg,SouthAfrica
 Albie de Waal,SouthAfrica,1967,No. 8,4,2,1,1,0,0,Moorreesburg,SouthAfrica
 Piet Greyling,SouthAfrica,1967,Flanker,25,16,5,4,15,5,Zastron,SouthAfrica
 Gert Kotze,SouthAfrica,1967,Prop,4,2,1,1,0,0,Vredendal,SouthAfrica
-Tiny Neethling,SouthAfrica,1967,Prop,8,4,3,1,0,0,CapeProv,
+Tiny Neethling,SouthAfrica,1967,Prop,8,4,3,1,0,0,"Rawsonville, CapeProv",Fiji
 Eben Olivier,SouthAfrica,1967,"Scrum-half, Centre",16,11,3,2,15,5,Kirkswood,SouthAfrica
 Gys Pitzer,SouthAfrica,1967,Hooker,12,9,1,2,0,0,Louis Trichardt,SouthAfrica
 Piet Visagie,SouthAfrica,1967,Fly-half,25,18,4,3,130,6,Kimberley,SouthAfrica
@@ -381,7 +381,7 @@ Syd Nomis,SouthAfrica,1967,Wing,25,16,4,5,18,6,Johannesburg,SouthAfrica
 Rodney Gould,SouthAfrica,1968,Fullback,4,3,0,1,3,0,King William's Town,SouthAfrica
 Thys Lourens,SouthAfrica,1968,Flanker,3,2,0,1,3,1,Vryheid,SouthAfrica
 Andre de Wet,SouthAfrica,1969,Lock,3,2,1,0,0,0,Kokstad,SouthAfrica
-Gert Muller,SouthAfrica,1969,Wing,14,6,5,3,12,4,Natal,SouthAfrica
+Gert Muller,SouthAfrica,1969,Wing,14,6,5,3,12,4,"Vryheid, Natal",SouthAfrica
 Charlie Cockrell,SouthAfrica,1969,Hooker,3,0,1,2,0,0,Cape Town,SouthAfrica
 Tonie Roux,SouthAfrica,1969,Centre,7,0,4,3,0,0,Pretoria,SouthAfrica
 Andy van der Watt,SouthAfrica,1969,Wing,3,0,2,1,0,0,Krugersdorp,SouthAfrica
@@ -407,7 +407,7 @@ Dawie Snyman,SouthAfrica,1972,Fullback,10,6,4,0,24,1,Johannesburg,SouthAfrica
 Boland Coetzee,SouthAfrica,1974,Flanker,6,4,2,0,0,0,Porterville,SouthAfrica
 Kevin de Klerk,SouthAfrica,1974,Lock,13,9,4,0,0,0,Johannesburg,SouthAfrica
 Roy McCallum,SouthAfrica,1974,Scrum-half,1,0,1,0,0,0,Kitwe,Zambia
-Kol Oosthuizen,SouthAfrica,1974,Centre,9,7,2,0,8,2,Cape Prov,
+Kol Oosthuizen,SouthAfrica,1974,Centre,9,7,2,0,8,2,"Worcester, Cape Prov",
 Chris Pope,SouthAfrica,1974,Wing,9,4,4,1,4,1,Stellenbosch,SouthAfrica
 Peter Whipp,SouthAfrica,1974,Centre,8,6,2,0,4,1,East London,SouthAfrica
 Paul Bayvel,SouthAfrica,1974,Scrum-half,10,7,2,1,0,0,Johannesburg,SouthAfrica
@@ -427,7 +427,7 @@ Kleintjie Grobler,SouthAfrica,1974,Back-row,3,2,0,1,4,1,Pretoria,SouthAfrica
 Rampie Stander,SouthAfrica,1974,Prop,5,3,1,1,0,0,Cape Town,SouthAfrica
 Robert Cockrell,SouthAfrica,1974,Hooker,11,8,3,0,4,1,Cape Town,SouthAfrica
 Tossie Fourie,SouthAfrica,1974,Wing,4,4,0,0,10,1,Uitenhage,SouthAfrica
-Ian Robertson,SouthAfrica,1974,Centre,5,4,1,0,3,0,South Rhodesia,Zimbabwe
+Ian Robertson,SouthAfrica,1974,Centre,5,4,1,0,3,0,"Salisbury, South Rhodesia",Zimbabwe
 Willem Stapelberg,SouthAfrica,1974,Wing,2,2,0,0,8,2,Pretoria,SouthAfrica
 Andre Bestbier,SouthAfrica,1974,Hooker,1,1,0,0,0,0,Potchefstroom,SouthAfrica
 Derek van den Berg,SouthAfrica,1975,Prop,4,3,1,0,0,0,Cape Town,SouthAfrica
@@ -454,7 +454,7 @@ Gysie Pienaar,SouthAfrica,1980,Fullback,13,10,3,0,14,2,Bloemfontein,SouthAfrica
 Willie Kahts,SouthAfrica,1980,Hooker,11,10,1,0,4,1,Volksrust,SouthAfrica
 Martiens le Roux,SouthAfrica,1980,Prop,8,7,1,0,0,0,Wesselsbron,SouthAfrica
 Divan Serfontein,SouthAfrica,1980,Scrum-half,19,15,4,0,12,3,Krugersdorp,SouthAfrica
-David Smith,SouthAfrica,1980,Centre,4,3,1,0,0,0,South Rhodesia,Zimbabwe
+David Smith,SouthAfrica,1980,Centre,4,3,1,0,0,0,"Bulawayo, South Rhodesia",Zimbabwe
 Thys Burger,SouthAfrica,1980,No. 8,3,3,0,0,8,2,Pietersburg,SouthAfrica
 Ewoud Malan,SouthAfrica,1980,Hooker,2,1,1,0,0,0,Groblersdal,SouthAfrica
 Danie Gerber,SouthAfrica,1980,Centre,24,16,8,0,82,19,Port Elizabeth,SouthAfrica
@@ -473,14 +473,14 @@ Colin Beck,SouthAfrica,1981,Centre,3,2,1,0,4,1,Strand,SouthAfrica
 Johan Heunis,SouthAfrica,1981,Fullback,14,11,3,0,41,2,George,SouthAfrica
 Carel du Plessis,SouthAfrica,1982,Wing,12,10,2,0,16,4,Somerset East,SouthAfrica
 Schalk Burger,SouthAfrica,1984,Flanker,6,5,1,0,0,0,Cape Town,SouthAfrica
-Chris Rogers,SouthAfrica,1984,Hooker,4,4,0,0,0,0,South Rhodesia,Zimbabwe
+Chris Rogers,SouthAfrica,1984,Hooker,4,4,0,0,0,0,"Bulawayo, South Rhodesia",Zimbabwe
 John Villet,SouthAfrica,1984,Centre,2,2,0,0,0,0,Ceres,SouthAfrica
 Rudi Visagie,SouthAfrica,1984,Lock,5,4,0,1,0,0,Nelspruit,SouthAfrica
 Avril Williams,SouthAfrica,1984,Wing,2,2,0,0,0,0,Paarl,SouthAfrica
 Anton Barnard,SouthAfrica,1984,Prop,4,3,1,0,0,0,George,SouthAfrica
 Michael du Plessis,SouthAfrica,1984,Centre,8,7,1,0,7,1,Somerset East,SouthAfrica
 Kulu Ferreira,SouthAfrica,1984,Flanker,2,2,0,0,4,1,Kroonstad,SouthAfrica
-Nick Mallett,SouthAfrica,1984,No. 8,2,2,0,0,4,1,Herts,England
+Nick Mallett,SouthAfrica,1984,No. 8,2,2,0,0,4,1,"Haileybury, Herts",England
 Attie Strauss,SouthAfrica,1984,Prop,2,2,0,0,0,0,Calvinia,SouthAfrica
 Wahl Bartmann,SouthAfrica,1986,Flanker,8,4,4,0,0,0,Florida,SouthAfrica
 Jannie Breedt,SouthAfrica,1986,No. 8,8,5,3,0,0,0,Kempton Park,SouthAfrica
@@ -545,7 +545,7 @@ Os du Randt,SouthAfrica,1994,Prop,80,52,27,1,25,5,Elliot,SouthAfrica
 Tommy Laubscher,SouthAfrica,1994,Prop,6,6,0,0,0,0,Vredenburg,SouthAfrica
 Christiaan Scholtz,SouthAfrica,1994,Centre,4,4,0,0,0,0,Stutterheim,SouthAfrica
 James Dalton,SouthAfrica,1994,Hooker,43,35,8,0,25,5,Johannesburg,SouthAfrica
-Chris Badenhorst,SouthAfrica,1994,Wing,2,2,0,0,10,2,South-West Africa,Burkina Faso
+Chris Badenhorst,SouthAfrica,1994,Wing,2,2,0,0,10,2,"Windhoek, South-West Africa",Burkina Faso
 Elandre van den Bergh,SouthAfrica,1994,Flanker,1,1,0,0,0,0,Pretoria,SouthAfrica
 Phillip Schutte,SouthAfrica,1994,Lock,2,2,0,0,0,0,Pretoria,SouthAfrica
 Chris Rossouw,SouthAfrica,1995,Hooker,9,8,1,0,10,2,Pretoria,SouthAfrica
@@ -554,18 +554,18 @@ Garry Pagel,SouthAfrica,1995,Prop,5,5,0,0,0,0,King William's Town,SouthAfrica
 Robbie Brink,SouthAfrica,1995,Flanker,2,2,0,0,0,0,Pretoria,SouthAfrica
 Marius Hurter,SouthAfrica,1995,Prop,13,6,7,0,0,0,Potchefstroom,SouthAfrica
 Krynauw Otto,SouthAfrica,1995,Lock,38,28,10,0,5,1,Belfast,Ireland
-Gary Teichmann,SouthAfrica,1995,No. 8,42,29,13,0,30,6,Rhodesia,Zimbabwe
+Gary Teichmann,SouthAfrica,1995,No. 8,42,29,13,0,30,6,"Gwelo, Rhodesia",Zimbabwe
 Toks van der Linde,SouthAfrica,1995,Prop,7,6,1,0,0,0,Senekal,SouthAfrica
 Johan Ackermann,SouthAfrica,1996,Lock,13,7,6,0,0,0,Benoni,SouthAfrica
 Justin Swart,SouthAfrica,1996,Wing,10,6,4,0,5,1,Stellenbosch,SouthAfrica
 Danie van Schalkwyk,SouthAfrica,1996,Centre,8,3,5,0,10,2,Boksburg,SouthAfrica
 Dawie Theron,SouthAfrica,1996,Prop,13,8,5,0,0,0,Bloemfontein,SouthAfrica
-Andre Snyman,SouthAfrica,1996,Centre,38,26,12,0,50,10,Natal,SouthAfrica
+Andre Snyman,SouthAfrica,1996,Centre,38,26,12,0,50,10,"Newcastle, Natal",SouthAfrica
 Henry Tromp,SouthAfrica,1996,Hooker,4,2,2,0,0,0,Otjiwarongo,Namibia
 Andre Venter,SouthAfrica,1996,Flanker,66,41,24,1,45,9,Vereeniging,SouthAfrica
 Vlok Cilliers,SouthAfrica,1996,Fly-half,1,0,1,0,0,0,Williston,SouthAfrica
 Wayne Fyvie,SouthAfrica,1996,Flanker,3,2,1,0,0,0,Harrismith,SouthAfrica
-Adrian Garvey,SouthAfrica,1990,Prop,38,28,10,0,28,6,Rhodesia,Zimbabwe
+Adrian Garvey,SouthAfrica,1990,Prop,38,28,10,0,28,6,"Bulawayo, Rhodesia",Zimbabwe
 Edrich Lubbe,SouthAfrica,1997,Centre,2,1,1,0,17,0,Caledon,SouthAfrica
 Russell Bennett,SouthAfrica,1997,Fullback,6,2,4,0,10,2,Adelaide,Australia
 Percy Montgomery,SouthAfrica,1997,Fullback,102,67,34,1,893,25,Walvis Bay,Namibia
@@ -578,14 +578,14 @@ Schutte Bekker,SouthAfrica,1997,Flanker,1,1,0,0,0,0,Nelspruit,SouthAfrica
 Braam Els,SouthAfrica,1997,Flanker,1,1,0,0,0,0,Kroonstad,SouthAfrica
 Dick Muir,SouthAfrica,1997,Centre,5,5,0,0,10,2,Kokstad,SouthAfrica
 Andrew Aitken,SouthAfrica,1997,Flanker,7,7,0,0,0,0,Durban,SouthAfrica
-Bobby Skinstad,SouthAfrica,1997,Flanker,42,29,12,1,55,11,Rhodesia,Zimbabwe
+Bobby Skinstad,SouthAfrica,1997,Flanker,42,29,12,1,55,11,"Bulawayo, Rhodesia",Zimbabwe
 Willie Meyer,SouthAfrica,1997,Prop,26,16,10,0,5,1,Port Elizabeth,SouthAfrica
 Franco Smith,SouthAfrica,1997,Fly-half,9,8,1,0,23,2,Lichtenburg,Germany
 Gaffie du Toit,SouthAfrica,1998,"Fullback, Fly-half",14,9,5,0,108,5,Cape Town,SouthAfrica
 Stefan Terblanche,SouthAfrica,1998,Centre,37,26,11,0,95,19,Mossel Bay,SouthAfrica
 McNeil Hendricks,SouthAfrica,1998,Wing,2,2,0,0,5,1,"Malmesbury, Western Cape",SouthAfrica
 Robbie Kempson,SouthAfrica,1998,Prop,37,23,13,1,5,1,Queenstown,SouthAfrica
-Christian Stewart,SouthAfrica,1991,Centre,17,8,9,0,10,2,ON,Canada
+Christian Stewart,SouthAfrica,1991,Centre,17,8,9,0,10,2,"Toronto, ON",Canada
 Selborne Boome,SouthAfrica,1999,Lock,20,11,9,0,5,1,Somerset West,SouthAfrica
 Robbie Fleck,SouthAfrica,1999,Centre,31,16,14,1,50,10,Cape Town,SouthAfrica
 Breyton Paulse,SouthAfrica,1999,Wing,64,36,27,1,130,26,Koue Bokkeveld,SouthAfrica
@@ -637,7 +637,7 @@ Danie Coetzee,SouthAfrica,2002,Hooker,15,9,6,0,5,1,Harrismith,SouthAfrica
 Delarey du Preez,SouthAfrica,2002,Hooker,2,1,1,0,5,1,Queenstown,SouthAfrica
 Shaun Sowerby,SouthAfrica,2002,No. 8,1,1,0,0,0,0,Vereeniging,SouthAfrica
 Hendro Scholtz,SouthAfrica,2002,Back-row,5,3,2,0,5,1,Bethlehem,SouthAfrica
-Bakkies Botha,SouthAfrica,2002,Lock,85,64,21,0,35,7,Natal,SouthAfrica
+Bakkies Botha,SouthAfrica,2002,Lock,85,64,21,0,35,7,"Newcastle, Natal",SouthAfrica
 Jean de Villiers,SouthAfrica,2002,Centre,109,71,35,3,135,27,Paarl,SouthAfrica
 Wessel Roux,SouthAfrica,2002,Prop,3,0,3,0,0,0,Bothaville,SouthAfrica
 Pedrie Wannenburg,SouthAfrica,2002,No. 8,20,12,8,0,15,3,Nelspruit,SouthAfrica
@@ -678,7 +678,7 @@ Gary Botha,SouthAfrica,2005,Hooker,12,8,4,0,0,0,Pretoria,SouthAfrica
 Meyer Bosman,SouthAfrica,2005,Centre,3,1,2,0,7,0,Bethlehem,SouthAfrica
 Johann Muller,SouthAfrica,2006,Lock,24,15,9,0,0,0,Mossel Bay,SouthAfrica
 Wynand Olivier,SouthAfrica,2006,Centre,38,19,18,1,5,1,Welkom,SouthAfrica
-Akona Ndungane,SouthAfrica,2006,Wing,11,7,4,0,5,1,Transkei,SouthAfrica
+Akona Ndungane,SouthAfrica,2006,Wing,11,7,4,0,5,1,"Umtala, Transkei",SouthAfrica
 Pierre Spies,SouthAfrica,2006,No. 8,53,36,16,1,35,7,Pretoria,SouthAfrica
 BJ Botha,SouthAfrica,2006,Prop,25,17,8,0,5,1,Durban,SouthAfrica
 Ruan Pienaar,SouthAfrica,2006,Scrum-half,88,59,27,2,135,8,Bloemfontein,SouthAfrica
@@ -699,7 +699,7 @@ Heinke van der Merwe,SouthAfrica,2007,Prop,5,4,1,0,0,0,Johannesburg,SouthAfrica
 Andries Bekker,SouthAfrica,2008,Lock,29,18,10,1,5,1,Goodwood,SouthAfrica
 Brian Mujati,SouthAfrica,2008,Prop,12,8,4,0,0,0,Bulawayo,Zimbabwe
 Tendai Mtawarira,SouthAfrica,2008,Prop,87,54,31,2,10,2,Harare,Zimbabwe
-Odwa Ndungane,SouthAfrica,2008,Wing,9,5,4,0,10,2,Transkei,SouthAfrica
+Odwa Ndungane,SouthAfrica,2008,Wing,9,5,4,0,10,2,"Umtala, Transkei",SouthAfrica
 Schalk Brits,SouthAfrica,2008,Hooker,10,9,1,0,5,1,Empangeni,SouthAfrica
 Adriaan Strauss,SouthAfrica,2008,Hooker,66,37,27,2,30,6,Bloemfontein,SouthAfrica
 Jongi Nokwe,SouthAfrica,2008,Wing,4,2,2,0,25,5,Eastern Cape,SouthAfrica

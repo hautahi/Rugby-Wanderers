@@ -10,23 +10,23 @@ Georges Jerome,France,1906,Lock,2,0,2,0,3,1,Cayenne,France
 Henri Lacassagne,France,1906,Scrum-half,2,0,2,0,0,0,Viella,France
 Gaston Lane,France,1906,"Wing, Centre",16,1,15,0,3,1,Paris,France
 Henri Levee,France,1906,Centre,1,0,1,0,0,0,Paris,France
-Allan Muhr,France,1906,"Lock, Prop",3,0,3,0,6,2,United States,USA
+Allan Muhr,France,1906,"Lock, Prop",3,0,3,0,6,2,"Philadelphia, PA, United States",USA
 Augustin Pujol,France,1906,Wing,1,0,1,0,2,0,Toulouse,France
 Paul Sagot,France,1906,"Wing, Centre",3,0,3,0,5,1,Dijon,France
-Andre Verges,France,1906,"Prop, Lock",3,0,3,0,0,0,,
+Andre Verges,France,1906,"Prop, Lock",3,0,3,0,0,0,"date unknown, ?",
 Pierre Gaudermen,France,1906,No. 8,1,0,1,0,0,0,Paris,France
 Albert Hubert,France,1906,Fly-half,7,0,7,0,0,0,Noisy-le-Sec,France
 Emile Lesieur,France,1906,"Centre, Wing",12,0,12,0,6,2,Paris,France
 Ernest Lewis,France,1906,Centre,1,0,1,0,0,0,Cardiff,Wales
 Paul Maclos,France,1906,"Flanker, Wing, Centre",2,0,2,0,7,0,Amazy,France
-G. Maurin,France,1906,Flanker,1,0,1,0,0,0,,
+G. Maurin,France,1906,Flanker,1,0,1,0,0,0,"date unknown, ?",
 Theodore Varvier,France,1906,"Fullback, Centre, Fly-half",6,0,6,0,0,0,Lyon,France
 Charles Beaurin-Gressier,France,1907,"Prop, No. 8",2,0,2,0,0,0,Paris,France
 Marc Giacardy,France,1907,"Fly-half, Flanker, Halfback",1,0,1,0,0,0,Bordeaux,France
-Henri Isaac,France,1907,Fullback,2,0,2,0,0,0,Guadeloupe,France
+Henri Isaac,France,1907,Fullback,2,0,2,0,0,0,"Basse-Terre, Guadeloupe",France
 Henri Martin,France,1907,"Centre, Fullback",2,0,2,0,0,0,Cayenne,France
 Paul Mauriat,France,1907,"Lock, Prop, Hooker",19,1,18,0,5,1,Neuville-sur-Saone,France
-A. Poirier,France,1907,Hooker,1,0,1,0,0,0,,
+A. Poirier,France,1907,Hooker,1,0,1,0,0,0,"date unknown, ?",
 Charles Vareilles,France,1907,Wing,5,0,5,0,4,0,Saigon,Việt Nam
 Georges Borchard,France,1908,"Lock, Flanker, Hooker",5,0,5,0,0,0,Bordeaux,France
 Rene Duval,France,1908,"Fly-half, Flanker",6,0,6,0,0,0,Paris,France
@@ -39,7 +39,7 @@ Alphonse Masse,France,1908,"Lock, Flanker",7,0,7,0,0,0,Saint-Christophe-de-,Fran
 Jean Caujolle,France,1909,Fullback,5,0,5,0,0,0,Saint-Girons,France
 Georges Fourcade,France,1909,Hooker,2,0,2,0,0,0,Saint-Pierre-sur-Dro,
 Henri Houblain,France,1909,Centre,2,0,2,0,0,0,,
-Jules Icard,France,1909,Lock,2,0,2,0,0,0,,
+Jules Icard,France,1909,Lock,2,0,2,0,0,0,"date unknown, ?",
 Andre Theuriet,France,1909,Scrum-half,5,0,5,0,0,0,Lyon,France
 Etienne de Jouvencel,France,1909,Fullback,2,0,2,0,0,0,Paris,France
 Paul Dupre,France,1909,Flanker,1,0,1,0,0,0,Gagny,France
@@ -53,11 +53,11 @@ Joe Anduran,France,1910,Hooker,1,0,1,0,0,0,Bayonne,France
 Rene Boudreaux,France,1910,Prop,2,0,2,0,0,0,Paris,France
 Maurice Bruneau,France,1910,"Wing, Centre, Fly-half",4,0,4,0,3,1,Bordeaux,France
 Remi Laffitte,France,1910,"Flanker, Centre",2,0,2,0,3,1,Osserain,France
-R. Menrath,France,1910,Fullback,1,0,1,0,8,0,,
+R. Menrath,France,1910,Fullback,1,0,1,0,8,0,"date unknown, ?",
 M. Thevenot,France,1910,"Prop, Lock",3,0,3,0,0,0,,
 Jules Cadenat,France,1910,"Prop, Lock, No. 8",7,0,7,0,0,0,Beziers,France
 Julien Combe,France,1910,Fullback,4,1,3,0,0,0,,
-Jacques Dedet,France,1910,"Centre, Fly-half",8,0,8,0,0,0,New Caledo,France
+Jacques Dedet,France,1910,"Centre, Fly-half",8,0,8,0,0,0,"Houailou, New Caledo",France
 Guillaume Laterrade,France,1910,"Scrum-half, Halfback",5,1,4,0,3,1,Tarbes,France
 Joseph de Muizon,France,1910,Wing,1,0,1,0,0,0,Versailles,France
 Fernand Roujas,France,1910,Fly-half,1,0,1,0,0,0,La Mas d'Azil,France
@@ -945,7 +945,7 @@ Julien Laharrague,France,2005,Fullback,12,7,4,1,20,4,Tarbes,France
 Benoit Baby,France,2005,Centre,9,5,4,0,8,1,Lavelanet,France
 David Marty,France,2005,Centre,37,30,7,0,55,11,Perpignan,France
 Julien Candelon,France,2005,Wing,2,0,1,1,10,2,Agen,France
-Florian Fritz,France,2005,Centre,34,14,18,2,24,3,Burgundy,France
+Florian Fritz,France,2005,Centre,34,14,18,2,24,3,"Sens, Burgundy",
 Romain Millo-Chluski,France,2005,Lock,18,10,7,1,0,0,Ris-Orangis,France
 Denis Avril,France,2005,Prop,1,0,1,0,0,0,Thouars,France
 Guilliaume Bousses,France,2006,Centre,1,0,1,0,0,0,Toulouse,France
@@ -1067,15 +1067,15 @@ Remy Bonfils,France,2016,Hooker,2,1,1,0,5,1,Paris,France
 William Demotte,France,2016,Lock,1,0,1,0,0,0,Clermont-Ferrand,France
 Kevin Gourdon,France,2016,Flanker,10,5,5,0,0,0,Valence,Spain
 Julien le Devedec,France,2016,Lock,9,5,4,0,0,0,Sainte-Foy-la-Grande,France
-Xavier Mignot,France,2016,Centre,1,0,1,0,0,0,,
+Xavier Mignot,France,2016,Centre,1,0,1,0,0,0,NA,
 Julien Rey,France,2016,Centre,2,1,1,0,0,0,Toulouse,France
 Baptiste Serin,France,2016,Scrum-half,10,5,5,0,24,0,La Teste-de-Buch,France
 Clement Maynadier,France,2016,Hooker,3,1,2,0,0,0,Toulouse,France
 Fabrice Metz,France,2016,Lock,1,0,1,0,0,0,Strasbourg,France
-Lucas Pointud,France,2016,Prop,2,1,1,0,0,0,,
+Lucas Pointud,France,2016,Prop,2,1,1,0,0,0,NA,
 Kelian Galletier,France,2016,Flanker,1,1,0,0,0,0,Montpellier,France
 Cyril Baille,France,2016,Prop,8,4,4,0,0,0,Pau,France
 Arthur Iturria,France,2017,Lock,1,0,1,0,0,0,Bayonne,France
 Henry Chavancy,France,2017,"Wing, Centre",1,0,1,0,0,0,Strasbourg,France
-Fabien Sanconnie,France,2017,Flanker,2,2,0,0,0,0,Correze,France
+Fabien Sanconnie,France,2017,Flanker,2,2,0,0,0,0,"Larche, Correze",France
 Antoine Dupont,France,2017,Scrum-half,2,2,0,0,0,0,Lannemezan,France

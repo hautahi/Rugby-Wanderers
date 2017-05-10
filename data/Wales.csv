@@ -1,22 +1,22 @@
 Name,Team,Debut,Position,Matches,Wins,Losses,Draws,Points,Tries,Birthplace,Birthcountry
-Jim Bevan,Wales,1881,Three-quarters,1,0,1,0,NA,0,VIC,Australia
-Godfrey Darbishire,Wales,1881,Forward,1,0,1,0,NA,0,Lancs,England
+Jim Bevan,Wales,1881,Three-quarters,1,0,1,0,NA,0,"Caulfield, VIC",Australia
+Godfrey Darbishire,Wales,1881,Forward,1,0,1,0,NA,0,"Chorlton, Lancs",England
 Barry Girling,Wales,1881,Forward,1,0,1,0,NA,0,Bristol,England
-George Harding,Wales,1881,Forward,4,1,3,0,NA,0,Lancs,England
+George Harding,Wales,1881,Forward,4,1,3,0,NA,0,"Rusholme, Lancs",England
 Edward Lewis,Wales,1881,Halfback,1,0,1,0,NA,0,Llandovery,Wales
 Bathurst Mann,Wales,1881,Forward,1,0,1,0,NA,0,The Curragh,Ireland
 Charlie Newman,Wales,1881,Halfback,10,1,7,2,NA,0,Newport,Wales
-Edward Peake,Wales,1881,Three-quarters,1,0,1,0,NA,0,Monmouth,Wales
+Edward Peake,Wales,1881,Three-quarters,1,0,1,0,NA,0,"Tideham, Monmouth",Wales
 William Phillips,Wales,1881,Forward,5,2,3,0,NA,0,Cardiff,Wales
 Frank Purdon,Wales,1881,Forward,4,1,3,0,NA,0,Co Westmeath,Ireland
-Aneurin Rees,Wales,1881,Forward,1,0,1,0,NA,0,Llandovery,Wales
+Aneurin Rees,Wales,1881,Forward,1,0,1,0,NA,0,"Tonn, Llandovery",Wales
 Richard Summers,Wales,1881,Fullback,1,0,1,0,NA,0,Haverfordwest,Wales
 Edward Treharne,Wales,1881,Forward,2,0,2,0,NA,0,Ystradyfodwg,Wales
 Leonard Watkins,Wales,1881,Halfback,1,0,1,0,NA,0,Abergavenny,Wales
 Richard Williams,Wales,1881,Forward,1,0,1,0,NA,0,Llowes,Wales
 Thomas Baker-Jones,Wales,1882,Forward,6,1,4,1,NA,1,Newport,Wales
 Ronald Bridie,Wales,1882,Halfback,1,1,0,0,NA,1,Cape of Good Hope,SouthAfrica
-Tom Clapp,Wales,1882,Forward,14,4,8,2,NA,2,Marylebon,
+Tom Clapp,Wales,1882,Forward,14,4,8,2,NA,2,"Portman Sq, Marylebon",
 Samuel Clark,Wales,1882,Fullback,2,2,0,0,NA,0,Weymouth,England
 Bill Evans,Wales,1882,Three-quarters,2,1,1,0,NA,1,Rhymney,Wales
 Bob Gould,Wales,1882,Forward,11,2,7,2,NA,0,Newport,Wales
@@ -26,21 +26,21 @@ William Norton,Wales,1882,Three-quarters,6,2,4,0,NA,1,Carmarthen,Wales
 Hugh Vincent,Wales,1882,Forward,1,1,0,0,NA,0,Caernarfon,Wales
 Tom Williams,Wales,1882,Forward,1,1,0,0,NA,0,Llwynypia,Wales
 Harry Bowen,Wales,1882,Fullback,4,0,3,1,NA,0,Llanelly,Australia
-Alfred Cattell,Wales,1882,Forward,2,0,2,0,NA,0,Rutland,England
+Alfred Cattell,Wales,1882,Forward,2,0,2,0,NA,0,"Cottesmore, Rutland",England
 James Clare,Wales,1882,Three-quarters,1,0,1,0,NA,0,London,England
 Dai Gwyn,Wales,1882,Centre,6,1,4,1,0,0,Swansea,Wales
-Thomas Judson,Wales,1882,Forward,2,0,2,0,NA,1,Lancs,England
+Thomas Judson,Wales,1882,Forward,2,0,2,0,NA,1,"Ashton-u-Lyne, Lancs",England
 John Griffin,Wales,1883,Forward,1,0,1,0,NA,0,Southampton,England
 Arthur Jones,Wales,1883,Forward,1,0,1,0,NA,0,Risca,Wales
 Horace Lyne,Wales,1883,Forward,5,1,4,0,NA,0,Newport,Wales
-Charles Allen,Wales,1884,Three-quarters,2,0,2,0,NA,1,Lancashire,England
+Charles Allen,Wales,1884,Three-quarters,2,0,2,0,NA,1,"Prestwich, Lancashire",England
 Frederick Andrews,Wales,1884,Forward,2,0,2,0,NA,0,Swansea,Wales
 William Gwynn,Wales,1884,Halfback,5,1,3,1,NA,0,Swansea,Wales
 Frederick Margrave,Wales,1884,Forward,2,0,2,0,NA,0,Llanelly,Australia
 Joe Simpson,Wales,1884,Forward,3,1,2,0,NA,0,Sedgefield,England
 John Smith,Wales,1884,Forward,3,1,2,0,NA,0,Manchester,England
 Charles Taylor,Wales,1884,Three-quarters,9,2,5,2,NA,0,Ruabon,Wales
-Tom Barlow,Wales,1884,Fullback,1,1,0,0,NA,0,Lancs,England
+Tom Barlow,Wales,1884,Fullback,1,1,0,0,NA,0,"Pendleton, Lancs",England
 Samuel Goldsworthy,Wales,1884,Forward,3,1,1,1,NA,0,Swansea,Wales
 Frank Hancock,Wales,1884,Three-quarters,4,1,2,1,NA,0,Wiveliscombe,England
 John Hinton,Wales,1884,Forward,1,1,0,0,NA,0,Bombay,India
@@ -53,7 +53,7 @@ Ernest Rowland,Wales,1885,Forward,1,0,1,0,NA,0,Neath,Wales
 Lewis Thomas,Wales,1885,Forward,2,0,1,1,NA,0,Merthyr Tydfil,Wales
 Edward Alexander,Wales,1885,Forward,5,1,2,2,NA,0,Monknash,Wales
 Frank Hill,Wales,1885,Forward,15,6,7,2,0,0,Cardiff,Wales
-D. Morgan,Wales,1885,Forward,7,1,4,2,NA,1,,
+D. Morgan,Wales,1885,Forward,7,1,4,2,NA,1,"date unknown, ?",
 Willie Thomas,Wales,1885,Forward,11,3,5,3,0,0,Fishguard,Wales
 William Bowen,Wales,1886,Forward,13,3,8,2,0,0,Pembroke,Wales
 Billy Douglas,Wales,1886,Three-quarters,4,0,3,1,NA,0,Barry,Wales
@@ -76,20 +76,20 @@ Dick Kedzlie,Wales,1888,Forward,2,1,1,0,NA,0,Glasgow,Scotland
 John Meredith,Wales,1888,Forward,4,2,2,0,0,0,Morriston,Wales
 Dick Powell,Wales,1888,Forward,2,1,1,0,NA,0,Monmouth,Wales
 Ned Roberts,Wales,1888,Fullback,3,1,2,0,NA,0,Llanelly,Australia
-T. Williams,Wales,1888,Forward,2,1,1,0,NA,0,,
+T. Williams,Wales,1888,Forward,2,1,1,0,NA,0,"date unknown, ?",
 Charlie Arthur,Wales,1888,Centre,3,1,2,0,0,0,King's Lynn,England
 Charlie Thomas,Wales,1888,Halfback,9,3,5,1,1,1,Newport,Wales
 Norman Biggs,Wales,1888,Wing,8,4,4,0,4,2,Cardiff,Wales
 Dickie Garrett,Wales,1888,Centre,8,3,4,1,0,0,Cardiff,Wales
 Dan Griffiths,Wales,1888,Forward,2,1,1,0,NA,0,Cwmduad,
 Jim Hannan,Wales,1888,Forward,19,7,11,1,2,2,Newport,Wales
-Charles Harding,Wales,1888,Forward,3,1,2,0,NA,0,Lancs,England
+Charles Harding,Wales,1888,Forward,3,1,2,0,NA,0,"Rusholme, Lancs",England
 Syd Nicholls,Wales,1888,Forward,4,1,3,0,0,0,Hartpury,England
 George Thomas,Wales,1888,Wing,3,1,1,1,0,1,,
 Jim Webb,Wales,1888,Fullback,2,1,1,0,NA,0,Broughton Gifford,England
 Teddy Bishop,Wales,1889,Centre,1,0,1,0,NA,0,Swansea,Wales
 David Evans,Wales,1889,Forward,5,1,3,1,0,0,Dowlais,Wales
-Rosser Evans,Wales,1889,Halfback,1,0,1,0,NA,0,Aberdare,Wales
+Rosser Evans,Wales,1889,Halfback,1,0,1,0,NA,0,"Cwmbach, Aberdare",Wales
 Rowley Thomas,Wales,1889,Forward,7,1,5,1,0,0,Henllan Amgoed,Wales
 Abel Davies,Wales,1889,Wing,1,0,1,0,NA,0,Llandyssul,Wales
 Giotto Griffiths,Wales,1889,Halfback,1,0,1,0,NA,0,Llanelly,Australia
@@ -101,19 +101,19 @@ Walter Rice-Evans,Wales,1890,Forward,3,0,3,0,0,0,Neath,Wales
 Stephen Thomas,Wales,1890,Forward,3,2,1,0,0,0,Kidwelly,Wales
 Thomas Graham,Wales,1890,Forward,12,5,6,1,3,1,Newcastle-upon-Tyne,England
 Hugh Ingledew,Wales,1890,Halfback,3,0,2,1,0,0,Cardiff,Wales
-Percy Bennett,Wales,1891,Forward,4,0,4,0,0,0,Cornwall,England
+Percy Bennett,Wales,1891,Forward,4,0,4,0,0,0,"Padstow, Cornwall",England
 Harry Packer,Wales,1891,Forward,7,3,4,0,0,0,Chipping Norton,England
 Tom Pearson,Wales,1891,Wing,13,6,7,0,10,4,Bombay,India
 Edward Pegge,Wales,1891,Forward,1,0,1,0,0,0,Briton Ferry,Wales
 David Daniel,Wales,1891,Forward,8,3,5,0,0,0,Llanelly,Australia
 Billy McCutcheon,Wales,1891,Wing,7,3,4,0,2,1,Swansea,Wales
-Ralph Sweet-Escott,Wales,1891,Halfback,3,1,2,0,0,0,Staffs,Kenya
+Ralph Sweet-Escott,Wales,1891,Halfback,3,1,2,0,0,0,"Essington, Staffs",Kenya
 Tom Deacon,Wales,1891,Forward,4,1,3,0,0,0,Swansea,Wales
 David James,Wales,1891,Halfback,4,2,2,0,0,0,Swansea,Wales
 Boomer Nicholl,Wales,1891,Forward,15,7,8,0,0,0,Llanegwad,Wales
 David Samuel,Wales,1891,Forward,2,2,0,0,1,1,Swansea,Wales
 John Samuel,Wales,1891,Forward,1,1,0,0,0,0,Swansea,Wales
-Arthur Boucher,Wales,1892,Forward,13,5,8,0,3,1,Salop,England
+Arthur Boucher,Wales,1892,Forward,13,5,8,0,3,1,"Gobowen, Salop",England
 Frank Mills,Wales,1892,Forward,13,5,8,0,0,0,Mountain Ash,Wales
 Percy Phillips,Wales,1892,Fly-half,6,4,2,0,0,0,Machen,Wales
 George Rowles,Wales,1892,Halfback,1,0,1,0,0,0,Pontypool,Wales
@@ -136,7 +136,7 @@ Tom Jackson,Wales,1895,Forward,1,0,1,0,0,0,Swansea,Wales
 Ernie George,Wales,1895,Forward,3,1,2,0,0,0,Llantwit Major,Wales
 Evan Lloyd,Wales,1895,Wing,1,0,1,0,0,0,Llanelly,Australia
 Tom Pook,Wales,1895,Forward,1,0,1,0,0,0,Plymouth,England
-Albert Jenkin,Wales,1895,Forward,2,1,1,0,0,0,Hants,Canada
+Albert Jenkin,Wales,1895,Forward,2,1,1,0,0,0,"Ibsley, Hants",Canada
 Dai Morgan,Wales,1895,Fly-half,2,1,1,0,0,0,Llanelly,Australia
 Cliff Bowen,Wales,1896,Wing,4,2,2,0,3,1,Morriston,Wales
 Bert Dauncey,Wales,1896,Wing,3,1,2,0,0,0,Pontypool,Wales
@@ -149,7 +149,7 @@ Bill Morris,Wales,1896,Forward,3,2,1,0,0,0,Llanelly,Australia
 Gwyn Nicholls,Wales,1896,Centre,28,19,8,1,19,5,Westbury-on-Severn,England
 Llewellyn Lloyd,Wales,1896,Fly-half,12,7,5,0,9,3,Newport,Wales
 Fred Miller,Wales,1896,Forward,7,5,2,0,0,0,Derby,England
-Fred Cornish,Wales,1897,Forward,4,2,2,0,0,0,Somerse,England
+Fred Cornish,Wales,1897,Forward,4,2,2,0,0,0,"Otterhampton, Somerse",England
 Dick Hellings,Wales,1897,Forward,9,5,4,0,3,1,Tiverton,England
 Dan Jones,Wales,1897,Halfback,1,1,0,0,3,1,Taibach,Wales
 Jack Rapps,Wales,1897,Forward,1,1,0,0,0,0,Llantrisant,Wales
@@ -157,11 +157,11 @@ Billy Alexander,Wales,1898,Forward,7,3,4,0,6,2,Glynneath,Wales
 Joe Booth,Wales,1898,Forward,1,1,0,0,0,0,Blaenavon,Wales
 George Boots,Wales,1898,Forward,16,11,4,1,3,1,Aberbeeg,Wales
 Hopkin Davies,Wales,1898,Lock,4,2,2,0,0,0,Clydach,Wales
-Tom Dobson,Wales,1898,Forward,4,2,2,0,3,1,Caithness,Scotland
+Tom Dobson,Wales,1898,Forward,4,2,2,0,3,1,"Keiss, Caithness",Scotland
 Viv Huzzey,Wales,1898,Wing,5,2,3,0,16,4,Varteg Hill,Wales
 Pussy Jones,Wales,1898,Centre,2,1,1,0,0,0,,
 Jere Blake,Wales,1899,Forward,9,6,3,0,0,0,Cardiff,Wales
-Alfred Brice,Wales,1899,Forward,18,12,5,1,8,2,Somerset,England
+Alfred Brice,Wales,1899,Forward,18,12,5,1,8,2,"Weare, Somerset",England
 Jehoida Hodges,Wales,1899,Forward,23,17,5,1,18,6,Risca,Wales
 Willie Llewellyn,Wales,1899,Wing,24,18,5,1,60,20,Tonypandy,Wales
 Will Parker,Wales,1899,Forward,2,1,1,0,0,0,Swansea,Wales
@@ -211,14 +211,14 @@ Jack Powell,Wales,1906,Forward,1,0,1,0,0,0,Merthyr Tydfil,Wales
 Dai Westacott,Wales,1906,Forward,1,0,1,0,0,0,Cardiff,Wales
 John Dyke,Wales,1906,Fullback,1,0,1,0,0,0,Narberth,Wales
 Jack Jenkins,Wales,1906,Forward,1,0,1,0,0,0,Newbridge,Ireland
-Dick Thomas,Wales,1906,Forward,4,3,1,0,0,0,Rhondda,Wales
+Dick Thomas,Wales,1906,Forward,4,3,1,0,0,0,"Ferndale, Rhondda",Wales
 Johnny Williams,Wales,1906,Wing,19,15,3,1,51,17,Whitchurch,England
 John Alf Brown,Wales,1907,Forward,7,6,1,0,3,1,Cardiff,Wales
 Bailey Davies,Wales,1907,Fullback,1,1,0,0,0,0,Llanwenog,
 Billy Dowell,Wales,1907,Forward,7,6,1,0,0,0,Pontypool,Wales
 Jack Evans,Wales,1907,Centre,3,2,1,0,0,0,Llanybyther,Wales
 James Watts,Wales,1907,Forward,11,10,1,0,6,2,Carmarthen,Wales
-Jim Webb,Wales,1907,Lock,23,18,5,0,6,2,Glos,France
+Jim Webb,Wales,1907,Lock,23,18,5,0,6,2,"West Dean, Glos",France
 Dickie David,Wales,1907,Scrum-half,1,1,0,0,0,0,Cardiff,Wales
 Ponty Jones,Wales,1907,Wing,1,1,0,0,3,1,Pontypool,Wales
 Tommy Vile,Wales,1904,Scrum-half,11,6,5,0,0,0,Newport,Wales
@@ -229,7 +229,7 @@ Ivor Morgan,Wales,1908,Flanker,13,12,1,0,18,6,Haverfordwest,Wales
 Phil Waller,Wales,1908,Forward,9,7,2,0,0,0,Bath,England
 Jack Bancroft,Wales,1909,Fullback,18,14,4,0,88,0,Swansea,Wales
 Jake Blackmore,Wales,1909,Forward,1,1,0,0,0,0,Bedwellty,Wales
-Mel Baker,Wales,1909,Wing,4,3,1,0,12,4,Monmouth,Wales
+Mel Baker,Wales,1909,Wing,4,3,1,0,12,4,"Redwick, Monmouth",Wales
 Thomas Lloyd,Wales,1909,Forward,7,6,1,0,0,0,Neath,Wales
 Rees Thomas,Wales,1909,Forward,8,5,3,0,3,1,Caldicot,Wales
 Ben Gronow,Wales,1910,Forward,4,3,1,0,3,1,Bridgend,Wales
@@ -238,12 +238,12 @@ Harry Jarman,Wales,1910,Forward,7,4,3,0,0,0,Talywain,Wales
 Joe Pugsley,Wales,1910,Hooker,7,6,1,0,6,2,Swansea,Wales
 Ernie Jenkins,Wales,1910,Flanker,2,2,0,0,0,0,Upper Cwmbran,Wales
 Willie Morgan,Wales,1908,Halfback,3,1,1,1,0,0,Sketty,Wales
-Billy Spiller,Wales,1910,Centre,10,7,3,0,16,4,Cardiff,Wales
+Billy Spiller,Wales,1910,Centre,10,7,3,0,16,4,"St Fagans, Cardiff",Wales
 Louis Dyke,Wales,1910,Centre,4,4,0,0,7,1,Penarth,Wales
 Fred Birt,Wales,1911,Centre,7,3,4,0,7,0,Newport,Wales
 Percy Coldrick,Wales,1911,Lock,6,5,1,0,0,0,Caerleon,Wales
 Bill Perry,Wales,1911,Lock,1,1,0,0,0,0,Neath,Wales
-Jim Birch,Wales,1911,Prop,2,2,0,0,0,0,Nthampton,
+Jim Birch,Wales,1911,Prop,2,2,0,0,0,0,"St Andrews, Nthampton",
 William Evans,Wales,1911,Forward,1,1,0,0,0,0,Nantyglo,Wales
 Ewan Davies,Wales,1912,Wing,2,1,1,0,6,2,Cardiff,Wales
 Howell Davies,Wales,1912,Hooker,2,1,1,0,0,0,Skewen,Wales
@@ -258,13 +258,13 @@ Frank Hawkins,Wales,1912,Flanker,2,1,1,0,0,0,Wiveliscombe,England
 Harry Hiam,Wales,1912,Prop,2,1,1,0,0,0,Swansea,Wales
 Billy Jenkins,Wales,1912,Flanker,4,3,1,0,0,0,Cardiff,Wales
 Brin Lewis,Wales,1912,Wing,2,1,1,0,6,2,Pontardawe,Wales
-Walter Martin,Wales,1912,Fly-half,3,1,2,0,0,0,Essex,England
+Walter Martin,Wales,1912,Fly-half,3,1,2,0,0,0,"Woodford, Essex",England
 Gus Merry,Wales,1912,Hooker,2,1,1,0,0,0,Newport,Wales
 Tom Williams,Wales,1912,Flanker,6,4,2,0,3,1,Dunvant,Wales
 Harold Thomas,Wales,1912,Fullback,1,1,0,0,2,0,Swansea,Wales
 Frank Andrews,Wales,1912,Back-row,4,2,2,0,0,0,Ross-on-Wye,England
 Billy Geen,Wales,1912,Wing,3,1,2,0,0,0,Newport,Wales
-Bert Hollingdale,Wales,1912,No. 8,2,0,2,0,0,0,Swansea,Wales
+Bert Hollingdale,Wales,1912,No. 8,2,0,2,0,0,0,"Cockett, Swansea",Wales
 Percy Jones,Wales,1912,Lock,8,5,3,0,0,0,Pontypridd,Wales
 Johnnie Morgan,Wales,1912,Flanker,2,0,2,0,0,0,Alejandra,Estados Unidos Mexicanos
 Fred Perrett,Wales,1912,Prop,5,3,2,0,0,0,Briton Ferry,Wales
@@ -281,7 +281,7 @@ Mark Lewis,Wales,1913,Wing,1,1,0,0,0,0,Pontypridd,Wales
 William Evans,Wales,1914,Centre,4,3,1,0,3,1,Tonypandy,Wales
 Jack Jones,Wales,1914,Prop,4,3,1,0,3,1,Bedwellty,Wales
 Edgar Morgan,Wales,1908,No. 8,6,3,2,1,0,0,Pontardawe,Wales
-David Watts,Wales,1914,Lock,4,3,1,0,0,0,Maesteg,Wales
+David Watts,Wales,1914,Lock,4,3,1,0,0,0,"Cwmdu, Maesteg",Wales
 William Watts,Wales,1914,Centre,1,0,1,0,3,1,Llanelly,Australia
 Ivor Davies,Wales,1914,Wing,3,3,0,0,6,2,Carmarthen,Wales
 Jack Wetter,Wales,1914,Fly-half,10,6,4,0,14,4,Newport,Wales
@@ -321,7 +321,7 @@ Docker Winmill,Wales,1921,Prop,4,2,2,0,0,0,Bedwellty,Wales
 Paul Baker-Jones,Wales,1921,Centre,1,0,1,0,0,0,Newport,Wales
 William Bowen,Wales,1921,Fly-half,6,4,1,1,6,2,Swansea,Wales
 Frankie Evans,Wales,1921,Wing,1,0,1,0,0,0,Dafen,Wales
-Tom Roberts,Wales,1921,Lock,9,5,3,1,0,0,Risca,Wales
+Tom Roberts,Wales,1921,Lock,9,5,3,1,0,0,"Machen, Risca",Wales
 Harry Davies,Wales,1921,Centre,3,3,0,0,0,0,Llanelly,Australia
 Ossie Male,Wales,1921,Fullback,11,3,8,0,15,0,Newport,Wales
 Tudor Williams,Wales,1921,Scrum-half,1,1,0,0,0,0,,
@@ -340,10 +340,10 @@ John Stephens,Wales,1922,Flanker,4,3,0,1,0,0,Llanbadarn Fawr,Wales
 Fred Samuel,Wales,1922,Fullback,3,2,0,1,4,0,Llanelly,Australia
 Arthur Cornish,Wales,1923,Centre,10,3,6,1,7,1,Cardiff,Wales
 Dai Davies,Wales,1923,Prop,2,0,2,0,0,0,Treorchy,Wales
-Rowe Harding,Wales,1923,Wing,20,6,12,2,15,5,Swansea,Wales
+Rowe Harding,Wales,1923,Wing,20,6,12,2,15,5,"Birchgrove, Swansea",Wales
 Gwilym Michael,Wales,1923,Flanker,3,1,2,0,3,1,Pontardawe,Wales
 Gethin Thomas,Wales,1923,Lock,4,1,3,0,0,0,Llwynhendy,Wales
-Joe Thompson,Wales,1923,No. 8,1,0,1,0,0,0,Bristol,England
+Joe Thompson,Wales,1923,No. 8,1,0,1,0,0,0,"Hambrook, Bristol",England
 Lew Jenkins,Wales,1923,Lock,2,1,1,0,0,0,Senghenydo,
 Dai John,Wales,1923,Fly-half,5,2,3,0,9,3,Loughor,Wales
 Dan Pascoe,Wales,1923,Flanker,2,1,1,0,0,0,Llanharan,Wales
@@ -361,7 +361,7 @@ Glyn Morris,Wales,1924,Prop,2,0,2,0,0,0,Burry Port,Wales
 Bill Ould,Wales,1924,Lock,2,0,2,0,0,0,Glyncorrwg,Wales
 Albert Owen,Wales,1924,Fly-half,1,0,1,0,3,1,Gurnos Cross,Wales
 Charlie Pugh,Wales,1924,Lock,7,1,6,0,3,1,Pontypridd,Wales
-Ivor Thomas,Wales,1924,Hooker,1,0,1,0,0,0,Bridgend,Wales
+Ivor Thomas,Wales,1924,Hooker,1,0,1,0,0,0,"Pontyrhyl, Bridgend",Wales
 Edward Watkins,Wales,1924,Scrum-half,4,1,3,0,4,0,Neath,Wales
 Harold Davies,Wales,1924,Centre,2,0,2,0,0,0,Newport,Wales
 Jack Elwyn Evans,Wales,1924,Centre,1,0,1,0,0,0,Brynamman,Wales
@@ -375,7 +375,7 @@ Dai Parker,Wales,1924,Prop,15,4,10,1,14,0,Llansamlet,Wales
 Bob Randall,Wales,1924,Lock,2,1,1,0,0,0,Neath,Wales
 Ernie Finch,Wales,1924,Wing,7,3,4,0,12,4,Pembroke Dock,Wales
 Joe Jones,Wales,1924,Centre,1,1,0,0,0,0,Pontardawe,Wales
-Arnold Rickards,Wales,1924,Lock,1,1,0,0,3,1,Glos,France
+Arnold Rickards,Wales,1924,Lock,1,1,0,0,3,1,"Thornbury, Glos",France
 Bert Stock,Wales,1924,Centre,4,1,2,1,0,0,Newport,Wales
 Cliff Williams,Wales,1924,Hooker,2,0,2,0,0,0,Llangennech,Wales
 Eddie Williams,Wales,1924,Fly-half,2,1,1,0,0,0,Cwmllynfell,Wales
@@ -388,7 +388,7 @@ Cyril Thomas,Wales,1925,Wing,2,0,2,0,3,1,Bridgend,Wales
 Evan Williams,Wales,1925,Centre,2,0,2,0,0,0,Port Talbot,Wales
 Ron Herrera,Wales,1925,Lock,8,3,4,1,6,2,Wattsville,USA
 Steve Lawrence,Wales,1925,Prop,6,2,4,0,0,0,Treorchy,Wales
-Eddie Beynon,Wales,1925,Flanker,2,1,1,0,0,0,Gower,USA
+Eddie Beynon,Wales,1925,Flanker,2,1,1,0,0,0,"Langland, Gower",USA
 Will Lewis,Wales,1925,Flanker,1,1,0,0,0,0,Morriston,Wales
 Jim Brown,Wales,1925,Lock,1,0,1,0,0,0,Cardiff,Wales
 Sydney Hinam,Wales,1925,Flanker,5,2,2,1,0,0,Pontypool,Wales
@@ -421,13 +421,13 @@ Jim Burns,Wales,1927,Prop,2,1,1,0,0,0,Cardiff,Wales
 Guy Stewart-Morgan,Wales,1927,Centre,8,5,2,1,13,3,Garnant,Wales
 Lonza Bowdler,Wales,1927,Hooker,15,5,9,1,0,0,Abercarn,Wales
 Gus Broughton,Wales,1927,No. 8,2,1,1,0,0,0,Llandough,Wales
-Tal Harris,Wales,1927,Scrum-half,1,0,1,0,0,0,Cardiff,Wales
+Tal Harris,Wales,1927,Scrum-half,1,0,1,0,0,0,"Maindy, Cardiff",Wales
 Tom Hollingdale,Wales,1927,No. 8,6,1,5,0,0,0,Waunarlwydd,Wales
 David Jenkins,Wales,1927,Prop,2,0,2,0,0,0,Resolven,Wales
 Dan Jones,Wales,1927,Wing,1,0,1,0,0,0,Neath Abbey,Wales
 Iorwerth Jones,Wales,1927,No. 8,5,1,4,0,0,0,Loughor,Wales
 Roy Jones,Wales,1927,Centre,2,0,2,0,0,0,Swansea,Wales
-Cecil Pritchard,Wales,1928,Hooker,8,3,4,1,0,0,Pontypool,Wales
+Cecil Pritchard,Wales,1928,Hooker,8,3,4,1,0,0,"Tranch, Pontypool",Wales
 Archie Skym,Wales,1928,Prop,20,9,9,2,6,2,Drefach,Wales
 Gwyn Davies,Wales,1928,Wing,3,0,3,0,0,0,Aberkenfig,Wales
 Jack Bassett,Wales,1929,Fullback,20,9,9,2,29,0,Trebanog,Wales
@@ -447,7 +447,7 @@ Ocker Thomas,Wales,1930,Flanker,1,0,1,0,0,0,Merthyr Tydfil,Wales
 Ronnie Boon,Wales,1930,Wing,12,7,4,1,20,4,Barry,Wales
 Bert Day,Wales,1930,Hooker,5,3,1,1,0,0,Griffithstown,Wales
 Chick Jones,Wales,1930,Centre,2,0,2,0,7,1,Morriston,Wales
-Dai Thomas,Wales,1930,Lock,11,5,5,1,0,0,Swansea,Wales
+Dai Thomas,Wales,1930,Lock,11,5,5,1,0,0,"date unknown, Swansea",Wales
 Norman Fender,Wales,1930,Flanker,6,5,0,1,3,1,Cardiff,Wales
 Howie Jones,Wales,1930,Wing,2,2,0,0,3,1,Glynneath,Wales
 Claud Davey,Wales,1930,Centre,23,14,7,2,15,5,Garnant,Wales
@@ -470,7 +470,7 @@ Bryn Evans,Wales,1933,Scrum-half,1,0,1,0,0,0,Penclawdd,Wales
 Ron Morris,Wales,1933,Fly-half,2,0,2,0,0,0,Carmarthen,Wales
 Billy Moore,Wales,1933,Lock,1,0,1,0,0,0,Garw Valley,Wales
 Lew Rees,Wales,1933,Flanker,1,0,1,0,0,0,Treherbert,Wales
-Bun Cowey,Wales,1934,Wing,4,2,1,1,9,3,Wilts,SouthAfrica
+Bun Cowey,Wales,1934,Wing,4,2,1,1,9,3,"Tidworth, Wilts",SouthAfrica
 Cecil Davies,Wales,1934,Prop,1,0,1,0,0,0,Pontypridd,Wales
 David Evans,Wales,1934,Scrum-half,1,0,1,0,0,0,Barry,Wales
 John Evans,Wales,1934,Hooker,1,0,1,0,0,0,Newport,Wales
@@ -497,7 +497,7 @@ Harry Payne,Wales,1935,Prop,1,1,0,0,0,0,Treboeth,Wales
 Haydn Tanner,Wales,1935,Scrum-half,26,12,12,2,0,0,Gowerton,Wales
 Don Tarr,Wales,1935,Hooker,1,1,0,0,0,0,Llandeilo Fawr,Wales
 Eddie Watkins,Wales,1935,Lock,8,4,4,0,0,0,Caerphilly,Wales
-Edgar Long,Wales,1936,Flanker,7,4,2,1,0,0,Gowert,
+Edgar Long,Wales,1936,Flanker,7,4,2,1,0,0,"Three Crosses, Gowert",
 Barney McCall,Wales,1936,Wing,3,2,0,1,0,0,Clifton,England
 Harold Thomas,Wales,1936,Lock,6,2,3,1,0,0,Neath,Wales
 Griff Williams,Wales,1936,Lock,3,2,0,1,0,0,Pontypridd,Wales
@@ -602,12 +602,12 @@ Len Davies,Wales,1954,Flanker,3,3,0,0,0,0,Bynea,Wales
 Ray Williams,Wales,1954,Wing,3,3,0,0,3,1,Felinfoel,Wales
 Glyn Davies,Wales,1955,Flanker,1,1,0,0,0,0,Cefn Fforest,Wales
 Arthur Edwards,Wales,1955,Fullback,2,1,1,0,3,0,Bynea,Wales
-Gordon Wells,Wales,1955,Centre,7,5,1,1,3,1,Rhondda,Wales
+Gordon Wells,Wales,1955,Centre,7,5,1,1,3,1,"Porth, Rhondda",Wales
 Garfield Owen,Wales,1955,Fullback,6,5,1,0,26,0,Llanharan,Wales
 Derek Williams,Wales,1955,Flanker,2,2,0,0,3,1,Cardiff,Wales
 Onllwyn Brace,Wales,1956,Scrum-half,9,6,3,0,3,1,Pontarddulais,Wales
 Cowboy Davies,Wales,1956,Wing,3,2,1,0,6,2,Bancyfelin,Wales
-Harry Morgan,Wales,1956,Centre,4,3,1,0,3,1,Pontypool,Wales
+Harry Morgan,Wales,1956,Centre,4,3,1,0,3,1,"Goytre, Pontypool",Wales
 Ray Prosser,Wales,1956,Prop,23,13,9,1,3,1,Pontypool,Wales
 Rex Richards,Wales,1956,Prop,1,1,0,0,0,0,Newport,Wales
 Geoff Whitson,Wales,1956,Flanker,3,3,0,0,0,0,Newport,Wales
@@ -628,7 +628,7 @@ Carwyn James,Wales,1958,Centre,2,1,1,0,3,0,Cefneithin,Wales
 Haydn Morgan,Wales,1958,Flanker,31,14,14,3,9,3,Oakdale,Wales
 John Evans,Wales,1958,Prop,2,1,1,0,0,0,Mountain Ash,Wales
 Howard Nicholls,Wales,1958,Wing,1,1,0,0,0,0,Maesteg,Wales
-Alun Priday,Wales,1958,Fullback,2,2,0,0,0,0,Cardiff,Wales
+Alun Priday,Wales,1958,Fullback,2,2,0,0,0,0,"Whitchurch, Cardiff",Wales
 Cyril Roberts,Wales,1958,Wing,2,1,1,0,3,1,Neath,Wales
 Cliff Ashton,Wales,1959,Fly-half,7,4,2,1,3,1,Cwmavon,Wales
 Dewi Bebb,Wales,1959,Wing,42,15,23,4,36,12,Bangor,Ireland
@@ -653,7 +653,7 @@ Brian Jones,Wales,1960,Centre,2,1,1,0,0,0,Cwmcarn,Wales
 Bryan Richards,Wales,1960,Fly-half,1,0,1,0,0,0,Neath,Wales
 Denis Evans,Wales,1960,Wing,1,0,1,0,0,0,Scunthorpe,England
 Kingsley Jones,Wales,1960,Prop,14,4,8,2,0,0,Pontypridd,Wales
-David Nash,Wales,1960,No. 8,6,3,3,0,0,0,Monmouth,Wales
+David Nash,Wales,1960,No. 8,6,3,3,0,0,0,"Markham, Monmouth",Wales
 Tony O'Connor,Wales,1960,Scrum-half,5,2,2,1,0,0,Neath,Wales
 Ken Richards,Wales,1960,Fly-half,5,2,3,0,9,1,Bridgend,Wales
 Meirion Roberts,Wales,1960,Centre,8,3,5,0,0,0,Abergwyngregin,
@@ -686,7 +686,7 @@ Graham Jones,Wales,1963,Flanker,3,1,2,0,3,1,Garndiffaith,Wales
 Bill Morris,Wales,1963,Wing,2,1,1,0,0,0,Borth,Wales
 Howie Norris,Wales,1963,Prop,5,1,4,0,0,0,Porth,Wales
 Alan Thomas,Wales,1963,Flanker,2,0,1,1,0,0,Beckenham,England
-Dick Uzzell,Wales,1963,Centre,5,3,2,0,0,0,Bargoed,Wales
+Dick Uzzell,Wales,1963,Centre,5,3,2,0,0,0,"Deri, Bargoed",Wales
 Keith Bradshaw,Wales,1964,Centre,9,5,2,2,36,1,Cefn Cribbwr,
 John Mantle,Wales,1964,No. 8,2,0,1,1,0,0,Cardiff,Wales
 David Weaver,Wales,1964,Wing,1,0,0,1,0,0,Glynneath,Wales
@@ -730,7 +730,7 @@ Mervyn Davies,Wales,1969,No. 8,46,31,9,6,7,2,Swansea,Wales
 JPR Williams,Wales,1969,Fullback,63,42,15,6,39,6,Cardiff,Wales
 Phil Bennett,Wales,1969,Fly-half,37,23,9,5,210,5,Felinfoel,Wales
 Geoff Evans,Wales,1970,Lock,7,5,1,1,0,0,Llanelly,Australia
-Barry Llewelyn,Wales,1970,Prop,13,10,2,1,3,1,Lancs,England
+Barry Llewelyn,Wales,1970,Prop,13,10,2,1,3,1,"Ashton, Lancs",England
 Vic Perrins,Wales,1970,Hooker,2,1,0,1,0,0,Newport,Wales
 Laurie Daniel,Wales,1970,Wing,1,1,0,0,5,1,Pontypool,Wales
 Ray Hopkins,Wales,1970,Scrum-half,2,2,0,0,3,1,Maesteg,Wales
@@ -738,7 +738,7 @@ Keith Hughes,Wales,1970,Centre,3,2,1,0,0,0,Glanamman,Wales
 Stuart Gallacher,Wales,1970,Lock,1,1,0,0,0,0,Llanelly,Australia
 Arthur Lewis,Wales,1970,Centre,11,9,2,0,4,1,Crumlin,Ireland
 Roy Mathias,Wales,1970,Wing,1,1,0,0,0,0,Llanelly,Australia
-Jim Shanklin,Wales,1970,Wing,4,2,2,0,4,1,Tenby,Wales
+Jim Shanklin,Wales,1970,Wing,4,2,2,0,4,1,"E Williamston, Tenby",Wales
 John Bevan,Wales,1971,Wing,11,9,2,0,19,5,Tylorstown,Wales
 Mike Roberts,Wales,1971,Lock,8,6,2,0,4,1,St Asaph,Wales
 Roy Bergiers,Wales,1972,Centre,11,7,4,0,8,2,Carmarthen,Wales
@@ -758,7 +758,7 @@ Walter Williams,Wales,1974,Prop,2,0,0,2,0,0,Neath,Wales
 Ian Robinson,Wales,1974,Lock,2,0,1,1,0,0,Cardiff,Wales
 Roger Blyth,Wales,1974,Fullback,6,2,4,0,6,1,Swansea,Wales
 John Bevan,Wales,1975,Fly-half,4,3,1,0,3,0,Neath,Wales
-Trefor Evans,Wales,1975,Flanker,11,9,2,0,8,2,Lancs,England
+Trefor Evans,Wales,1975,Flanker,11,9,2,0,8,2,"Chorley, Lancs",England
 Charlie Faulkner,Wales,1975,Prop,19,14,5,0,4,1,Newport,Wales
 Steve Fenwick,Wales,1975,Centre,34,21,13,0,152,4,Caerphilly,Wales
 Ray Gravell,Wales,1975,Centre,27,17,10,0,8,2,Kidwelly,Wales
@@ -835,7 +835,7 @@ Paul Moriarty,Wales,1986,Flanker,21,14,7,0,16,4,Morriston,Wales
 Huw Richards,Wales,1986,Lock,4,3,1,0,0,0,Carmarthen,Wales
 Glen Webbe,Wales,1986,Wing,10,5,5,0,16,4,Cardiff,Wales
 Ieuan Evans,Wales,1987,Wing,79,34,44,1,161,34,Capel Dewi,Wales
-Kevin Phillips,Wales,1987,Hooker,20,6,13,1,0,0,Whitland,Wales
+Kevin Phillips,Wales,1987,Hooker,20,6,13,1,0,0,"Hebron, Whitland",Wales
 Richie Collins,Wales,1987,Flanker,28,12,16,0,9,2,Cardiff,Wales
 Peter Francis,Wales,1987,Prop,1,0,1,0,0,0,Cowbridge,Wales
 Mark Jones,Wales,1987,Back-row,15,4,11,0,8,2,Tredegar,Wales
@@ -872,7 +872,7 @@ Gareth Llewellyn,Wales,1989,Lock,92,38,54,0,24,5,Cardiff,Wales
 Phil Pugh,Wales,1989,Flanker,1,0,1,0,0,0,Seven Sisters,England
 Andy Allen,Wales,1990,Lock,3,0,3,0,0,0,Newport,Wales
 Allan Bateman,Wales,1990,Centre,36,21,15,0,50,10,Maesteg,Wales
-Mark Perego,Wales,1990,Flanker,9,6,3,0,0,0,Hants,Canada
+Mark Perego,Wales,1990,Flanker,9,6,3,0,0,0,"Winchester, Hants",England
 Brian Williams,Wales,1990,Prop,5,0,5,0,0,0,Penffordd,Wales
 Steve Ford,Wales,1990,Wing,8,2,5,1,8,2,Cardiff,Wales
 Alan Edmunds,Wales,1990,Wing,2,0,2,0,0,0,Neath,Wales
@@ -896,7 +896,7 @@ Garin Jenkins,Wales,1991,Hooker,58,34,24,0,10,2,Ynysybwl,Wales
 Luc Evans,Wales,1991,Fly-half,1,0,1,0,0,0,Treherbert,Wales
 Ken Waters,Wales,1991,Hooker,1,0,1,0,0,0,Cwmbran,Wales
 Mike Rayer,Wales,1991,Fullback,21,13,8,0,23,4,Cardiff,Wales
-Tony Copsey,Wales,1992,Lock,16,8,8,0,0,0,Essex,England
+Tony Copsey,Wales,1992,Lock,16,8,8,0,0,0,"Romford, Essex",England
 Stuart Davies,Wales,1992,No. 8,17,9,8,0,9,2,Swansea,Wales
 Colin Stephens,Wales,1992,Fly-half,4,1,3,0,9,0,Morriston,Wales
 Roger Bidgood,Wales,1992,Centre,5,5,0,0,5,1,Caerphilly,Wales
@@ -923,7 +923,7 @@ Spencer John,Wales,1995,Prop,18,5,12,1,0,0,W Glamorgan,Wales
 Andrew Gibbs,Wales,1995,Flanker,6,3,3,0,0,0,Pontypool,Wales
 Andrew Moore,Wales,1995,Scrum-half,4,3,1,0,10,2,Cardiff,Wales
 Gareth Thomas,Wales,1995,Utility back,103,51,51,1,205,41,Ogwr,Wales
-Stuart Roy,Wales,1995,Lock,1,1,0,0,0,0,Cambs,England
+Stuart Roy,Wales,1995,Lock,1,1,0,0,0,0,"Ely, Cambs",England
 Mark Bennett,Wales,1995,Flanker,3,1,2,0,5,1,Neath,Wales
 Jonathan Humphreys,Wales,1995,Hooker,35,15,20,0,10,2,Bridgend,Wales
 Greg Prosser,Wales,1995,Lock,1,0,1,0,0,0,Swansea,Wales
@@ -937,7 +937,7 @@ Leigh Davies,Wales,1996,Centre,21,11,10,0,20,4,Neath,Wales
 Gwyn Jones,Wales,1996,Flanker,13,8,5,0,5,1,Swansea,Wales
 Andrew Lewis,Wales,1996,"Hooker, Prop",29,19,10,0,0,0,Swansea,Wales
 Arwel Thomas,Wales,1996,Fly-half,23,12,11,0,211,11,Carmarthen,Wales
-Matthew Wintle,Wales,1996,Centre,1,1,0,0,0,0,M Glamorgan,Wales
+Matthew Wintle,Wales,1996,Centre,1,1,0,0,0,0,"Bridgend, M Glamorgan",Wales
 Rob Howley,Wales,1996,Scrum-half,61,29,31,1,50,10,Bridgend,Wales
 Mike Voyle,Wales,1996,Lock,22,12,10,0,0,0,Caerphilly,Wales
 Dafydd James,Wales,1996,"Centre, Wing",51,24,26,1,80,16,Mufulira,Zambia
@@ -973,7 +973,7 @@ Matthew Robinson,Wales,1999,"Wing, Centre",4,2,2,0,0,0,Cardiff,Wales
 Peter Rogers,Wales,1999,"Prop, Hooker",18,13,5,0,0,0,Maidstone,England
 Brett Sinkinson,Wales,1999,Flanker,20,13,7,0,5,1,Rotorua,NewZealand
 Nick Walne,Wales,1999,Wing,3,3,0,0,5,1,Scunthorpe,England
-Jason Jones-Hughes,Wales,1999,Centre,3,2,1,0,0,0,NSW,Australia
+Jason Jones-Hughes,Wales,1999,Centre,3,2,1,0,0,0,"Sydney, NSW",Australia
 Richard Smith,Wales,2000,Scrum-half,1,0,1,0,0,0,Pontypool,Wales
 Shane Williams,Wales,2000,Wing,91,42,46,3,300,60,Morriston,Wales
 Nathan Budgett,Wales,2000,"Lock, Flanker",12,7,5,0,10,2,Newport,Wales
@@ -997,7 +997,7 @@ Iestyn Harris,Wales,2001,"Halfback, Back-row",25,10,15,0,108,1,Oldham,England
 Anthony Sullivan,Wales,2001,Wing,2,1,1,0,0,0,Hull,England
 Duncan Jones,Wales,2001,Prop,57,26,29,2,0,0,Neath,Wales
 Craig Morgan,Wales,2002,"Fullback, Wing",10,3,7,0,15,3,Pontypridd,Wales
-Andy Marinos,Wales,2002,Centre,8,2,6,0,5,1,Rhodesia,Zimbabwe
+Andy Marinos,Wales,2002,Centre,8,2,6,0,5,1,"Salisbury, Rhodesia",Zimbabwe
 Michael Owen,Wales,2002,Back-row,42,19,21,2,10,2,Church Village,Wales
 Martyn Madden,Wales,2002,Prop,5,2,3,0,0,0,Cardiff,Wales
 Richard Parks,Wales,2002,Flanker,4,2,2,0,0,0,Pontypridd,Wales
@@ -1018,7 +1018,7 @@ Nicky Robinson,Wales,2003,Fly-half,13,7,6,0,42,2,Cardiff,Wales
 Huw Bennett,Wales,2003,Hooker,51,25,25,1,0,0,Ebbw Vale,Wales
 Adam Jones,Wales,2003,Prop,100,49,48,3,10,2,Abercrave,Wales
 Nathan Brew,Wales,2003,"Wing, Centre",1,1,0,0,5,1,S.Glamorgan,Wales
-Brent Cockbain,Wales,2003,Lock,24,13,11,0,5,1,Cairns,Australia
+Brent Cockbain,Wales,2003,Lock,24,13,11,0,5,1,"Innisfail, Cairns",
 Paul James,Wales,2003,Prop,66,30,35,1,0,0,Neath,Wales
 Mike Phillips,Wales,2003,Scrum-half,99,47,50,2,50,10,Carmarthen,Wales
 James Bater,Wales,2003,Back-row,1,1,0,0,0,0,Bridgend,Wales
@@ -1080,7 +1080,7 @@ George North,Wales,2010,Wing,72,37,33,2,160,32,King's Lynn,England
 Rhys Priestland,Wales,2011,Fly-half,48,25,22,1,95,1,Llangathen,Wales
 Josh Turnbull,Wales,2011,Back-row,8,3,5,0,0,0,Haverfordwest,Wales
 Ryan Bevington,Wales,2011,Prop,13,7,6,0,0,0,Bridgend,Wales
-Taulupe Faletau,Wales,2011,Back-row,67,34,32,1,35,7,Tongatapu,Tonga
+Taulupe Faletau,Wales,2011,Back-row,67,34,32,1,35,7,"Tofoa, Tongatapu",Tonga
 Scott Andrews,Wales,2011,Prop,13,5,8,0,0,0,Church Village,Wales
 Lloyd Burns,Wales,2011,Hooker,7,4,3,0,5,1,Panteg,Wales
 Scott Williams,Wales,2011,Centre,46,26,20,0,50,10,Carmarthen,Wales
@@ -1093,14 +1093,14 @@ Lou Reed,Wales,2012,Lock,5,3,2,0,0,0,Treorchy,Wales
 Rhys Webb,Wales,2012,Scrum-half,28,14,14,0,35,7,Bridgend,Wales
 Rhodri Jones,Wales,2012,Prop,14,7,7,0,0,0,Aberystwyth,Wales
 Harry Robinson,Wales,2012,Wing,3,2,1,0,10,2,Pentyrch,Wales
-Liam Williams,Wales,2012,Fullback,43,21,21,1,40,8,Morriston,Wales
+Liam Williams,Wales,2012,Fullback,43,21,21,1,40,8,Swansea,Wales
 Adam Warren,Wales,2012,Centre,1,1,0,0,0,0,Burry Port,Wales
 Ashley Beck,Wales,2012,Centre,7,2,5,0,10,2,Neath,Wales
 Aaron Jarvis,Wales,2012,Prop,18,10,8,0,0,0,Exeter,England
 Andrew Coombs,Wales,2013,Back-row,10,6,4,0,0,0,Merthyr Tydfil,Wales
 Olly Kohn,Wales,2013,Lock,1,0,1,0,0,0,Bristol,England
 Dafydd Howells,Wales,2013,Wing,2,1,1,0,0,0,Brecon,Wales
-James King,Wales,2013,Flanker,11,7,4,0,0,0,VIC,Australia
+James King,Wales,2013,Flanker,11,7,4,0,0,0,"Wodonga, VIC",Australia
 Emyr Phillips,Wales,2013,Hooker,3,2,1,0,0,0,Llandovery,Wales
 Owen Williams,Wales,2013,Centre,4,2,2,0,5,1,Merthyr Tydfil,Wales
 Dan Baker,Wales,2013,Back-row,3,1,2,0,0,0,Neath,Wales
@@ -1126,4 +1126,4 @@ Kristian Dacey,Wales,2015,Hooker,3,1,2,0,0,0,Merthyr Tydfil,Wales
 Tomas Francis,Wales,2015,Prop,22,11,10,1,0,0,York,England
 Ellis Jenkins,Wales,2016,Back-row,3,0,3,0,0,0,Church Village,Wales
 Sam Davies,Wales,2016,Fly-half,6,4,2,0,3,0,Swansea,Wales
-Cory Hill,Wales,2016,Lock,5,3,2,0,0,0,Pontyprid,Wales
+Cory Hill,Wales,2016,Lock,5,3,2,0,0,0,"Maesycoed, Pontyprid",Wales
