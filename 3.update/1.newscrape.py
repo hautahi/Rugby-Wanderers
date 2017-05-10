@@ -46,6 +46,9 @@ TEAM_URL = ["/england/rugby/player/caps.html?team=1", "/scotland/rugby/player/ca
 # 3. Define Functions
 #-------------------------------------------------------------#
 
+def hasNumbers(inputString):
+	return any(char.isdigit() for char in inputString)
+
 def make_soup(url):
     html = urlopen(url).read()
     return BeautifulSoup(html, "lxml")
@@ -209,6 +212,26 @@ def extract_birthplace(BIRTH):
 
 	return birth_location
  
+# This function extracts longer birthplace information
+def extract_birthplace1(BIRTH):
+
+    # Separate each string using the comma separator and drop the strings 
+    # using numbers (which are presumably the birthdate stuff)
+    odie=[]
+    for item in BIRTH:
+        x = item.split(',')
+        y = [s for s in x if not(hasNumbers(s))]
+        odie.append(y)
+
+    # Combine remaining strings into a longer birthplace string
+    birth_location = []
+    for row in odie:
+        x =','.join(row)
+        x = x.strip()
+        birth_location.append(x)
+
+    return birth_location
+ 
 def extract_birth_country(mat,i):
     temp = []
     for row in mat:
@@ -306,7 +329,6 @@ for link in df[0]:
             continue
         break
 
-
     # Get player name
     name = get_player_name(soup)
     name = name.encode('utf8')
@@ -332,14 +354,21 @@ for link in df[0]:
     # Get Player Stats
     stats = get_stats(soup)
     STATS.append(stats)
+    
+# Save data as Python objects
+cPickle.dump(NAMES,open(storage + "/Names.p","w+"))
+cPickle.dump(BIRTH,open(storage + "/Birth.p","w+"))
+cPickle.dump(DEBUT,open(storage + "/Debut.p","w+"))
+cPickle.dump(POSITION,open(storage + "/Position.p","w+"))
+cPickle.dump(STATS,open(storage +  "/Stats.p","w+"))
+
+print('Retrieving Statistics took %d seconds' % (time.time() - start_time))
 
 # Currently only care about year of debut, so we strip this out
 DEBUT_YEAR = extract_debutyear(DEBUT)
-Birth_City = extract_birthplace(BIRTH)
+Birth_City = extract_birthplace1(BIRTH)
 Birth_Month = extract_birthmonth(BIRTH)
 Birth_Year = extract_birthyear(BIRTH)
-
-print('Retrieving Statistics took %d seconds' % (time.time() - start_time))
 
 #-------------------------------------------------------------#
 # 4. Geocode
