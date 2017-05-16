@@ -1,7 +1,7 @@
 Name,Team,Debut,Position,Matches,Wins,Losses,Draws,Points,Tries,Birthplace,Birthcountry
 William Allen,Ireland,1875,Forward,1,0,1,0,NA,0,"West Derby, Lancs",England
-George Andrews,Ireland,1875,Forward,2,0,2,0,NA,0,"date unknown, ?",
-W.H. Ash,Ireland,1875,Forward,3,0,3,0,NA,0,"date unknown, ?",
+George Andrews,Ireland,1875,Forward,2,0,2,0,NA,0, ,
+W.H. Ash,Ireland,1875,Forward,3,0,3,0,NA,0, ,
 Maurice Barlow,Ireland,1875,Forward,1,0,1,0,NA,0,Dublin,Ireland
 Richard Bell,Ireland,1875,Three-quarters,2,0,2,0,NA,0,,
 Brab Casement,Ireland,1875,Forward,3,0,3,0,NA,0,"Ballycastle, Co Antri",France
@@ -12,7 +12,7 @@ William Gaffikin,Ireland,1875,Forward,1,0,1,0,NA,0,,
 Edgar Galbraith,Ireland,1875,Forward,1,0,1,0,NA,0,Dublin,Ireland
 Richard Galbraith,Ireland,1875,Fullback,3,0,3,0,NA,0,Dublin,Ireland
 Francis Hewson,Ireland,1875,Forward,1,0,1,0,NA,0,,
-Sandy McDonald,Ireland,1875,Forward,13,1,11,1,NA,0,"Newtonards, Co.Down, Northern Ireland",Ireland
+Sandy McDonald,Ireland,1875,Forward,13,1,11,1,NA,0,"Newtonards, County Down, Northern Ireland",Ireland
 Edward MacIlwaine,Ireland,1875,Forward,2,0,2,0,NA,0,,
 Robert Maginniss,Ireland,1875,Forward,2,0,2,0,NA,0,"Newton-Saville, Tyron, Northern Ireland",Ireland
 John Myles,Ireland,1875,Halfback,1,0,1,0,NA,0,Limerick,Ireland
@@ -21,38 +21,38 @@ Robert Walkington,Ireland,1875,Fullback,10,0,9,1,NA,0,"Alabama, United States",U
 Henry Walsh,Ireland,1875,Forward,2,0,2,0,NA,0,Dublin,Ireland
 David Arnott,Ireland,1875,Forward,1,0,1,0,NA,0,Tynemouth,England
 Tim Cuscaden,Ireland,1875,Forward,1,0,1,0,NA,0,Wexford,Ireland
-William Finlay,Ireland,1875,Forward,8,0,8,0,NA,0,"date unknown, ?",
-R. Greer,Ireland,1875,Forward,1,0,1,0,NA,0,"date unknown, ?",
-Edward Hobson,Ireland,1875,Three-quarters,1,0,1,0,NA,0,"Hollyfort, Co.Wexford",Ireland
-John Ireland,Ireland,1875,Forward,2,0,2,0,NA,0,"date unknown, ?",
-Hamilton Moore,Ireland,1875,Fullback,2,0,2,0,NA,0,"Connor, Co.Antrim",Ireland
-Ashley Westby,Ireland,1875,Forward,1,0,1,0,NA,0,Co.Dublin,Ireland
-H. Brown,Ireland,1877,Three-quarters,1,0,1,0,NA,0,"date unknown, ?",
-Thomas Brown,Ireland,1877,Forward,2,0,2,0,NA,0,"date unknown, ?",
+William Finlay,Ireland,1875,Forward,8,0,8,0,NA,0, ,
+R. Greer,Ireland,1875,Forward,1,0,1,0,NA,0, ,
+Edward Hobson,Ireland,1875,Three-quarters,1,0,1,0,NA,0,"Hollyfort, County Wexford",Ireland
+John Ireland,Ireland,1875,Forward,2,0,2,0,NA,0, ,
+Hamilton Moore,Ireland,1875,Fullback,2,0,2,0,NA,0,"Connor, County Antrim",Ireland
+Ashley Westby,Ireland,1875,Forward,1,0,1,0,NA,0,County Dublin,Ireland
+H. Brown,Ireland,1877,Three-quarters,1,0,1,0,NA,0, ,
+Thomas Brown,Ireland,1877,Forward,2,0,2,0,NA,0, ,
 Henry Edwards,Ireland,1877,Forward,2,0,2,0,NA,0,Carnarvon,Australia
 Thomas Gordon,Ireland,1877,Halfback,3,0,3,0,NA,0,,
 William Hamilton,Ireland,1877,Forward,1,0,1,0,NA,0,,
-Harry Jackson,Ireland,1877,Forward,1,0,1,0,NA,0,"Clones, Co.Monaghan",Ireland
+Harry Jackson,Ireland,1877,Forward,1,0,1,0,NA,0,"Clones, County Monaghan",Ireland
 Hugh Kelly,Ireland,1877,Forward,6,0,6,0,NA,0,,
 Frederick Kidd,Ireland,1877,Three-quarters,3,0,3,0,NA,0,Newry,Ireland
 Augustus Whitestone,Ireland,1877,Halfback,5,0,5,0,NA,0,Dublin,Ireland
 William Wilson,Ireland,1877,Forward,2,0,2,0,NA,0,,
-J. Currell,Ireland,1877,Forward,1,0,1,0,NA,0,"date unknown, ?",
-James Heron,Ireland,1877,Halfback,2,0,2,0,NA,0,"Moira, Co.Down",Ireland
+J. Currell,Ireland,1877,Forward,1,0,1,0,NA,0, ,
+James Heron,Ireland,1877,Halfback,2,0,2,0,NA,0,"Moira, County Down",Ireland
 Henry Murray,Ireland,1877,Forward,3,0,3,0,NA,0,Dublin,Ireland
 Garvett Shaw,Ireland,1877,Fullback,1,0,1,0,NA,0,Belfast,Ireland
 Edward Croker,Ireland,1878,Forward,1,0,1,0,NA,0,,
 George Fagan,Ireland,1878,Halfback,1,0,1,0,NA,0,Bengal,India
-W. Griffiths,Ireland,1878,Forward,1,0,1,0,NA,0,"date unknown, ?",
-Barney Hughes,Ireland,1878,Forward,12,1,10,1,NA,0,"date unknown, ?",
+W. Griffiths,Ireland,1878,Forward,1,0,1,0,NA,0, ,
+Barney Hughes,Ireland,1878,Forward,12,1,10,1,NA,0, ,
 Robert Matier,Ireland,1878,Three-quarters,2,0,2,0,NA,0,Belfast,Ireland
-William Moore,Ireland,1878,Forward,1,0,1,0,NA,0,"Connor, Co.Antrim",Ireland
+William Moore,Ireland,1878,Forward,1,0,1,0,NA,0,"Connor, County Antrim",Ireland
 Frederick Schute,Ireland,1878,Forward,2,0,2,0,NA,0,Bradford,England
-Arthur Archer,Ireland,1879,Forward,1,0,1,0,NA,0,Co.Kildare,Ireland
+Arthur Archer,Ireland,1879,Forward,1,0,1,0,NA,0,County Kildare,Ireland
 Jack Bagot,Ireland,1879,Three-quarters,5,1,4,0,NA,0,"Ballymoe, Galway",Ireland
 William Cummins,Ireland,1879,Forward,3,0,2,1,NA,0,Cork,Ireland
 William Goulding,Ireland,1879,Halfback,1,0,1,0,NA,0,"Shandon, Cork",Ireland
-Thomas Harrison,Ireland,1879,Three-quarters,3,0,3,0,NA,0,"date unknown, ?",
+Thomas Harrison,Ireland,1879,Three-quarters,3,0,3,0,NA,0, ,
 William Neville,Ireland,1879,Forward,2,0,2,0,NA,0,West Indie,India
 Henry Purdon,Ireland,1879,Forward,5,1,4,0,NA,0,Belfast,Ireland
 George Scriven,Ireland,1879,Forward,8,0,8,0,NA,0,Dublin,Ireland
@@ -69,41 +69,41 @@ Francis Kennedy,Ireland,1880,Forward,3,0,3,0,NA,0,,
 Alfred Miller,Ireland,1880,Forward,3,0,3,0,NA,0,Kingstown,Saint Vincent and the Grenadines
 William Wallis,Ireland,1880,Forward,5,1,4,0,NA,0,Dublin,Ireland
 David Browning,Ireland,1881,Forward,2,1,1,0,NA,0,,
-John Burkitt,Ireland,1881,Forward,1,0,1,0,NA,0,"Kilkee, Co.Clare",Ireland
+John Burkitt,Ireland,1881,Forward,1,0,1,0,NA,0,"Kilkee, County Clare",Ireland
 Alfred MacMullen,Ireland,1881,Forward,2,1,1,0,NA,0,,
 Jones Morell,Ireland,1881,Forward,4,1,2,1,NA,0,"Dungannon, Tyrone",USA
 William Peirce,Ireland,1881,Three-quarters,1,0,1,0,NA,0,,
 Henry Spunner,Ireland,1881,Halfback,3,1,2,0,NA,0,,
 Jack Johnston,Ireland,1881,Forward,9,2,7,0,NA,0,,
-Robert McLean,Ireland,1881,Three-quarters,10,1,8,1,NA,0,"date unknown, ?",
+Robert McLean,Ireland,1881,Three-quarters,10,1,8,1,NA,0, ,
 Joseph Atkinson,Ireland,1882,Three-quarters,2,0,2,0,NA,0,Dublin,Ireland
 Gerrard Bent,Ireland,1882,Halfback,2,0,1,1,NA,0,Greenwich,England
-Arthur Downing,Ireland,1882,Forward,1,0,1,0,NA,0,Monkstown?,Ireland
+Arthur Downing,Ireland,1882,Forward,1,0,1,0,NA,0,Monkstown,Ireland
 William Fletcher,Ireland,1882,Halfback,3,0,3,0,NA,0,,
 Ernest Greene,Ireland,1882,Three-quarters,4,0,4,0,NA,1,Dublin,Ireland
 Frederick Heuston,Ireland,1882,Forward,3,0,3,0,NA,0,Tipperary,Ireland
-John Kennedy,Ireland,1882,Forward,2,0,2,0,NA,0,"Spafield, Co.Tipperar",USA
+John Kennedy,Ireland,1882,Forward,2,0,2,0,NA,0,"Spafield, County Tipperar",USA
 Ted McCarthy,Ireland,1882,Forward,1,0,1,0,NA,0,,
 Thomas McCarthy,Ireland,1882,Three-quarters,1,0,1,0,NA,0,"Bansha, Tipperary",Ireland
 Bob Thompson,Ireland,1882,Forward,1,0,1,0,NA,0,,
 Thomas Johnson-Smyth,Ireland,1882,Forward,1,0,0,1,NA,0,,
 Robert Nelson,Ireland,1882,Forward,4,0,3,1,NA,0,,
 Oliver Stokes,Ireland,1882,Forward,2,0,1,1,NA,1,"Woolwich, Kent",England
-Edward Wolfe,Ireland,1882,Three-quarters,1,0,0,1,NA,0,"Co.Monaghan, Northern Ireland",Ireland
+Edward Wolfe,Ireland,1882,Three-quarters,1,0,0,1,NA,0,"County Monaghan, Northern Ireland",Ireland
 John Buchanan,Ireland,1882,Forward,3,0,3,0,NA,0,,
-Robert Morrow,Ireland,1882,Fullback,10,0,10,0,NA,0,"date unknown, ?",
+Robert Morrow,Ireland,1882,Fullback,10,0,10,0,NA,0, ,
 Alexander O'Sullivan,Ireland,1882,Forward,1,0,1,0,NA,0,Cork,Ireland
 Joe Pedlow,Ireland,1882,Three-quarters,2,0,2,0,NA,0,,
-Stewart Bruce,Ireland,1883,Forward,3,0,3,0,NA,0,"Co.Derry, Northern Ireland",Ireland
+Stewart Bruce,Ireland,1883,Forward,3,0,3,0,NA,0,"County Derry, Northern Ireland",Ireland
 Henry King,Ireland,1883,Forward,2,0,2,0,NA,0,London,England
 Frank Moore,Ireland,1883,Forward,4,0,4,0,NA,0,"Glasnevin, Dublin",Ireland
 Rowland Scovell,Ireland,1883,Three-quarters,2,0,2,0,NA,0,Kingstown,Saint Vincent and the Grenadines
-Peyton Warren,Ireland,1883,Halfback,1,0,1,0,NA,0,"Clontarf, Co.Dublin",Ireland
+Peyton Warren,Ireland,1883,Halfback,1,0,1,0,NA,0,"Clontarf, County Dublin",Ireland
 Samuel Collier,Ireland,1883,Halfback,1,0,1,0,NA,0,"Lisburn, Northern Ireland",Ireland
 Henry Brabazon,Ireland,1884,Forward,3,0,3,0,NA,0,nr Mullingar,
 William Higgin,Ireland,1884,Halfback,2,0,2,0,NA,0,Belfast,Ireland
-Francis Levis,Ireland,1884,Forward,1,0,1,0,NA,0,"Skibbereen, Co.Cork",Ireland
-Daniel Ross,Ireland,1884,Three-quarters,5,0,5,0,NA,0,"Hollywood, Co.Down",Ireland
+Francis Levis,Ireland,1884,Forward,1,0,1,0,NA,0,"Skibbereen, County Cork",Ireland
+Daniel Ross,Ireland,1884,Three-quarters,5,0,5,0,NA,0,"Hollywood, County Down",Ireland
 William Rutherford,Ireland,1884,Forward,6,1,5,0,NA,0,Tipperary,Ireland
 Alexander Gordon,Ireland,1884,Forward,1,0,1,0,NA,0,Dublin,Ireland
 Thomas Hobbs,Ireland,1884,Forward,2,0,2,0,NA,0,Ambala,India
@@ -113,26 +113,26 @@ Forbes Maguire,Ireland,1884,Forward,1,0,1,0,NA,0,Dublin,Ireland
 John O'Sullivan,Ireland,1884,Fullback,2,0,2,0,NA,0,Limerick,Ireland
 George Wheeler,Ireland,1884,Fullback,2,0,2,0,NA,0,Belfast,Ireland
 William Collis,Ireland,1884,Forward,1,0,1,0,NA,0,,
-Herbert Cook,Ireland,1884,Forward,1,0,1,0,NA,0,"date unknown, ?",
-John Fitzgerald,Ireland,1884,Forward,1,0,1,0,NA,0,"date unknown, ?",
+Herbert Cook,Ireland,1884,Forward,1,0,1,0,NA,0, ,
+John Fitzgerald,Ireland,1884,Forward,1,0,1,0,NA,0, ,
 William Hallaran,Ireland,1884,Halfback,1,0,1,0,NA,0,NA,
-Alexander Hamilton,Ireland,1884,Forward,1,0,1,0,NA,0,"date unknown, ?",
+Alexander Hamilton,Ireland,1884,Forward,1,0,1,0,NA,0, ,
 Walter Johnstone,Ireland,1884,Forward,1,0,1,0,NA,0,Kingstown,Saint Vincent and the Grenadines
 Charles Jordan,Ireland,1884,Wing,1,0,1,0,NA,0,,
 John McDaniel,Ireland,1884,Wing,1,0,1,0,NA,0,Newport,Wales
 Frederick Moore,Ireland,1884,Forward,4,0,4,0,NA,0,"Glasnevin, Dublin",Ireland
 Lambert Moyers,Ireland,1884,Forward,1,0,1,0,NA,0,Dublin,Ireland
 Thomas Allen,Ireland,1885,Forward,2,0,2,0,NA,0,"Glendermot, Derry",Ireland
-Robert Bradshaw,Ireland,1885,Forward,3,0,3,0,NA,0,"Gorey, Co.Wexford",Ireland
+Robert Bradshaw,Ireland,1885,Forward,3,0,3,0,NA,0,"Gorey, County Wexford",Ireland
 Ernie Crawford,Ireland,1885,Halfback,2,0,2,0,NA,0,NA,
 Thomas Lyle,Ireland,1885,Forward,6,1,5,0,NA,0,"Coleraine, Northern Ireland",Ireland
 Harry Neill,Ireland,1885,Forward,9,2,7,0,NA,0,Geelong,Australia
 John Ross,Ireland,1885,Three-quarters,5,0,5,0,NA,0,Dublin,Ireland
 Thomas Shanahan,Ireland,1885,Forward,6,1,5,0,NA,1,Waterford,Ireland
-Robert Warren,Ireland,1885,Halfback,15,3,11,1,0,1,"India, Co.Meath",Ireland
-J.A. Thompson,Ireland,1885,Forward,2,0,2,0,NA,0,"date unknown, ?",
+Robert Warren,Ireland,1885,Halfback,15,3,11,1,0,1,"India, County Meath",Ireland
+J.A. Thompson,Ireland,1885,Forward,2,0,2,0,NA,0, ,
 William Hogg,Ireland,1885,Forward,1,0,1,0,NA,0,"Granitefield, Dublin",Ireland
-D.V. Hunter,Ireland,1885,Halfback,1,0,1,0,NA,0,"date unknown, ?",
+D.V. Hunter,Ireland,1885,Halfback,1,0,1,0,NA,0, ,
 Joseph Chambers,Ireland,1886,Forward,5,1,4,0,NA,0,Co Cavan,Ireland
 Victor le Fanu,Ireland,1886,Forward,11,3,8,0,0,0,Dublin,Ireland
 Ralph Massy-Westropp,Ireland,1886,Forward,1,0,1,0,NA,0,Worcester,England
@@ -140,10 +140,10 @@ Maxy Carpendale,Ireland,1886,Three-quarters,4,1,3,0,NA,0,"Mazagan, Bombay",India
 Robert Herrick,Ireland,1886,Halfback,1,0,1,0,NA,0,"Templemartin, Cork",Ireland
 James McMordie,Ireland,1886,Forward,1,0,1,0,NA,0,Belfast,Ireland
 Francis Miller,Ireland,1886,Forward,1,0,1,0,NA,0,,
-Joseph Ross,Ireland,1886,Halfback,1,0,1,0,NA,0,"date unknown, Hollywood, Co.Down",Ireland
+Joseph Ross,Ireland,1886,Halfback,1,0,1,0,NA,0," Hollywood, County Down",Ireland
 Frank Stoker,Ireland,1886,Forward,5,1,4,0,0,0,Dublin,Ireland
 James Waites,Ireland,1886,Forward,7,1,5,1,0,1,"Preson, Lancs",England
-John Dick,Ireland,1887,Forward,3,1,2,0,NA,0,Lisburn.Co.Antrim,Ireland
+John Dick,Ireland,1887,Forward,3,1,2,0,NA,0,Lisburn County Antrim,Ireland
 John Macauley,Ireland,1887,Forward,2,1,1,0,NA,0,Limerick,Ireland
 James McLaughlin,Ireland,1887,Halfback,4,2,2,0,NA,0,,
 Robert Montgomery,Ireland,1887,Three-quarters,5,2,3,0,0,4,Belfast,Ireland
@@ -153,12 +153,12 @@ Charles Tillie,Ireland,1887,Three-quarters,4,2,2,0,NA,1,Londonderry,Ireland
 Dolway Walkington,Ireland,1887,Fullback,8,2,5,1,3,0,Belfast,Ireland
 Edward Walshe,Ireland,1887,Forward,7,2,5,0,4,2,,
 Malcolm Moore,Ireland,1887,Forward,3,1,2,0,NA,0,"Glasnevin, Dublin",Ireland
-W. Davison,Ireland,1887,Forward,1,0,1,0,NA,0,"date unknown, ?",
+W. Davison,Ireland,1887,Forward,1,0,1,0,NA,0, ,
 Patrick O'Connor,Ireland,1887,Halfback,1,0,1,0,NA,0,,
 Thomas Taggart,Ireland,1887,Forward,1,0,1,0,NA,0,Bushmills,Ireland
-William Ekin,Ireland,1888,Forward,2,1,1,0,NA,0,"Coagh, Co.Tyrone",Ireland
-Robert Mayne,Ireland,1888,Forward,2,1,1,0,NA,0,"date unknown, ?",
-James Moffatt,Ireland,1888,Forward,7,1,5,1,0,0,"date unknown, ?",
+William Ekin,Ireland,1888,Forward,2,1,1,0,NA,0,"Coagh, County Tyrone",Ireland
+Robert Mayne,Ireland,1888,Forward,2,1,1,0,NA,0, ,
+James Moffatt,Ireland,1888,Forward,7,1,5,1,0,0, ,
 Ernest Stoker,Ireland,1888,Forward,2,1,1,0,NA,0,Dublin,Ireland
 William Morton,Ireland,1888,Forward,1,0,1,0,NA,0,"Nenagh, Tipperary",Ireland
 Alfred Walpole,Ireland,1888,Three-quarters,2,0,2,0,NA,0,Roscommon,Ireland
@@ -173,19 +173,19 @@ James Stevenson,Ireland,1888,Halfback,2,0,2,0,NA,0,Dungannon,Ireland
 David Woods,Ireland,1888,Three-quarters,2,0,2,0,NA,1,,
 Thomas Donovan,Ireland,1889,Forward,1,0,1,0,NA,0,"Blarney, Cork",Ireland
 Luke Holmes,Ireland,1889,Fullback,2,1,1,0,NA,0,Belfast,Ireland
-Llewellyn Nash,Ireland,1889,Forward,6,0,5,1,0,0,"Kinsale, Co.Cork",Ireland
+Llewellyn Nash,Ireland,1889,Forward,6,0,5,1,0,0,"Kinsale, County Cork",Ireland
 Thomas Pedlow,Ireland,1889,Three-quarters,2,1,1,0,NA,0,,
 Charles Stack,Ireland,1889,Forward,1,0,1,0,NA,0,Lifford,Ireland
 Robert Yeates,Ireland,1889,Three-quarters,2,1,1,0,NA,0,"Mooltan, W Bengal",India
 John Cotton,Ireland,1889,Forward,1,1,0,0,NA,1,,
-Robert Dunlop,Ireland,1889,Three-quarters,11,2,8,1,1,1,"date unknown, ?",
+Robert Dunlop,Ireland,1889,Three-quarters,11,2,8,1,1,1, ,
 Alaster McDonnell,Ireland,1889,Halfback,4,1,2,1,0,1,Dublin,Ireland
 Henry Richey,Ireland,1889,Forward,2,1,1,0,0,0,Dublin,Ireland
 William Davis,Ireland,1890,Forward,9,0,8,1,0,0,Ferozopore,
 Eddie Doran,Ireland,1890,Forward,2,0,1,1,0,0,Dublin,Ireland
 Harry Gifford,Ireland,1890,Fullback,1,0,1,0,0,0,Dublin,Ireland
 Ralph Johnston,Ireland,1890,Three-quarters,3,0,2,1,0,0,Kingstown,Saint Vincent and the Grenadines
-J. Roche,Ireland,1890,Forward,7,1,5,1,5,0,"date unknown, ?",
+J. Roche,Ireland,1890,Forward,7,1,5,1,5,0, ,
 Hugh Galbraith,Ireland,1890,Forward,1,0,0,1,0,0,Londonderry,Ireland
 Benjamin Tuke,Ireland,1890,Halfback,9,3,6,0,0,0,Dublin,Ireland
 Sam Lee,Ireland,1891,Centre,19,8,9,2,1,1,"Dunaghadee, Down",Ireland
@@ -195,37 +195,37 @@ George Collopy,Ireland,1891,Forward,2,0,2,0,0,0,Limerick,Ireland
 Edward Frazer,Ireland,1891,Forward,2,0,2,0,0,0,"Lavagh, Drumkeeran",Ireland
 Robert Stokes,Ireland,1891,Forward,2,0,2,0,0,0,"Woolwich, Kent",England
 Herbert Wells,Ireland,1891,Three-quarters,4,2,2,0,3,1,"Agra, W Bengal",India
-Thomas Fogarty,Ireland,1891,Forward,1,0,1,0,0,0,"date unknown, ?",
+Thomas Fogarty,Ireland,1891,Forward,1,0,1,0,0,0, ,
 Robert Pedlow,Ireland,1891,Halfback,1,0,1,0,0,0,,
 William Gardiner,Ireland,1892,Wing,17,6,9,2,6,2,"Armagh, Northern Ireland",Ireland
-T.J. Johnston,Ireland,1892,Forward,6,1,4,1,0,0,"date unknown, ?",
+T.J. Johnston,Ireland,1892,Forward,6,1,4,1,0,0, ,
 Thomas Peel,Ireland,1892,Fullback,3,1,2,0,0,0,Limerick,Ireland
 Robert Smith,Ireland,1892,Forward,1,0,1,0,0,0,Dublin,Ireland
-Thomas Thornhill,Ireland,1892,Halfback,4,1,3,0,0,0,"Fintona, Co.Tyrone",Ireland
+Thomas Thornhill,Ireland,1892,Halfback,4,1,3,0,0,0,"Fintona, County Tyrone",Ireland
 Arthur Wallis,Ireland,1892,Forward,5,1,4,0,0,0,"Donnycarney, Dublin",Ireland
 Coo Clinch,Ireland,1892,Forward,14,6,7,1,0,0,Dublin,Ireland
 Frederick Davies,Ireland,1892,Halfback,5,1,3,1,2,1,"Rathdown, Dublin",Fiji
 Michael Egan,Ireland,1893,Forward,2,0,2,0,0,0,,
-Sam Gardiner,Ireland,1893,Fullback,2,0,1,1,0,0,"date unknown, ?",
+Sam Gardiner,Ireland,1893,Fullback,2,0,1,1,0,0, ,
 Robert Johnston,Ireland,1893,Wing,5,3,2,0,0,0,"Laputa, Co Donegal",Ireland
 Harry Lindsay,Ireland,1893,Forward,13,6,5,2,3,1,"Armagh, Northern Ireland",Ireland
-Walter Brown,Ireland,1893,Halfback,5,3,1,1,0,0,"Donnybrook, Co.Dublin",Ireland
-Herbert Forrest,Ireland,1893,Forward,2,0,1,1,0,0,"Donnybrook, Co.Dublin",Ireland
+Walter Brown,Ireland,1893,Halfback,5,3,1,1,0,0,"Donnybrook, County Dublin",Ireland
+Herbert Forrest,Ireland,1893,Forward,2,0,1,1,0,0,"Donnybrook, County Dublin",Ireland
 Lucius Gwynn,Ireland,1893,Centre,7,4,2,1,0,0,"Ramelton, Donegal",Fiji
-Bryan O'Brien,Ireland,1893,Forward,2,0,1,1,0,0,Co.Limerick,Ireland
+Bryan O'Brien,Ireland,1893,Forward,2,0,1,1,0,0,County Limerick,Ireland
 Robert Hamilton,Ireland,1893,Forward,1,0,1,0,0,0,Dublin,Ireland
 William Sparrow,Ireland,1893,Fullback,2,1,1,0,0,0,Kilkenny,Ireland
 Tom Crean,Ireland,1894,Forward,13,8,4,1,9,3,Dublin,Ireland
 James Lytle,Ireland,1894,Forward,12,8,3,1,6,1,Belfast,Ireland
-George Walmsley,Ireland,1894,Forward,1,1,0,0,0,0,"Navan, Co.Meath",Ireland
+George Walmsley,Ireland,1894,Forward,1,1,0,0,0,0,"Navan, County Meath",Ireland
 Andrew Bond,Ireland,1894,Forward,2,2,0,0,0,0,,
-Patrick Grant,Ireland,1894,Fullback,2,2,0,0,0,0,"Donnybrook, Co.Dublin",Ireland
-Alfred Brunker,Ireland,1895,Forward,2,0,2,0,0,0,"Rathmines, Co.Dublin",Fiji
-Hugh McCoull,Ireland,1895,Forward,4,1,3,0,0,0,"Castlereagh, Co.Down",Ireland
+Patrick Grant,Ireland,1894,Fullback,2,2,0,0,0,0,"Donnybrook, County Dublin",Ireland
+Alfred Brunker,Ireland,1895,Forward,2,0,2,0,0,0,"Rathmines, County Dublin",Fiji
+Hugh McCoull,Ireland,1895,Forward,4,1,3,0,0,0,"Castlereagh, County Down",Ireland
 Louis Magee,Ireland,1895,Halfback,31,14,15,2,9,2,Dublin,Ireland
 Joseph Magee,Ireland,1895,Wing,2,0,2,0,0,0,Dublin,Ireland
 Thomas Stevenson,Ireland,1895,Centre,7,3,3,1,3,1,Londonderry,Ireland
-Glascott Symes,Ireland,1895,Fullback,1,0,1,0,0,0,"Westport, Co.Mayo",NewZealand
+Glascott Symes,Ireland,1895,Fullback,1,0,1,0,0,0,"Westport, County Mayo",NewZealand
 John Fulton,Ireland,1895,Fullback,16,6,10,0,0,0,,
 Edward MacIlwaine,Ireland,1895,Forward,2,0,2,0,0,0,Belfast,Ireland
 Alexander Montgomery,Ireland,1895,Centre,1,0,1,0,0,0,Belfast,Ireland
@@ -239,20 +239,20 @@ Bill Byron,Ireland,1896,Forward,11,7,3,1,0,0,"Londonderry, Northern Ireland",Ire
 James Sealy,Ireland,1896,Forward,13,8,3,2,6,2,"Dundrum, Dublin",Ireland
 George McAllan,Ireland,1896,Fullback,2,1,0,1,0,0,Belfast,Ireland
 John McIlwaine,Ireland,1897,Forward,7,4,3,0,0,0,Belfast,Ireland
-John Ryan,Ireland,1897,Forward,14,6,7,1,3,1,"date unknown, ?",
+John Ryan,Ireland,1897,Forward,14,6,7,1,3,1, ,
 Michael Ryan,Ireland,1897,Forward,17,7,9,1,3,1,,
-Pierce O'Brien-Butler,Ireland,1897,Fullback,6,3,3,0,0,0,Co.Tipperary,Ireland
-John Davis,Ireland,1898,Forward,2,1,1,0,0,0,"Borris, Co.Carlow",Ireland
-James Franks,Ireland,1898,Forward,3,1,2,0,0,0,"Rathmines, Co.Dublin",Fiji
+Pierce O'Brien-Butler,Ireland,1897,Fullback,6,3,3,0,0,0,County Tipperary,Ireland
+John Davis,Ireland,1898,Forward,2,1,1,0,0,0,"Borris, County Carlow",Ireland
+James Franks,Ireland,1898,Forward,3,1,2,0,0,0,"Rathmines, County Dublin",Fiji
 Francis Purser,Ireland,1898,Wing,3,1,2,0,0,0,NA,
 Frederick Smithwick,Ireland,1898,Centre,2,0,2,0,0,0,Kildare,Ireland
 Ainsworth Barr,Ireland,1898,Halfback,4,2,2,0,0,0,Belfast,Ireland
 Thomas Little,Ireland,1898,Forward,7,3,3,1,0,0,Dublin,Ireland
 Ned McCarthy,Ireland,1898,Forward,1,0,1,0,0,0,Cork,Ireland
-Thomas Ahearne,Ireland,1899,Forward,1,1,0,0,0,0,"date unknown, ?",
+Thomas Ahearne,Ireland,1899,Forward,1,1,0,0,0,0, ,
 James Allison,Ireland,1899,Centre,12,4,7,1,4,0,,
-William Brown,Ireland,1899,Wing,1,1,0,0,0,0,"date unknown, ?",
-Ian Davidson,Ireland,1899,Wing,10,3,5,2,6,2,"Ballyhackamore, Co.Do",USA
+William Brown,Ireland,1899,Wing,1,1,0,0,0,0, ,
+Ian Davidson,Ireland,1899,Wing,10,3,5,2,6,2,"Ballyhackamore, County Do",USA
 George Harman,Ireland,1899,Centre,2,2,0,0,0,0,"Crosshaven, Co Cork",Ireland
 Tom McGown,Ireland,1899,Forward,7,5,2,0,0,0,Belfast,Ireland
 Edward Campbell,Ireland,1899,Wing,4,2,2,0,3,1,,
@@ -295,7 +295,7 @@ John Moffatt,Ireland,1904,Wing,4,2,2,0,12,4,"Milltown, Dublin",Ireland
 Reg Edwards,Ireland,1904,Forward,4,3,1,0,0,0,NA,
 Hercules Knox,Ireland,1904,Forward,10,6,4,0,0,0,"Gortnor Abbey, Mayo",Ireland
 Maurice Landers,Ireland,1904,Fullback,5,3,2,0,0,0,Cork,Ireland
-Henry Millar,Ireland,1904,Forward,4,3,1,0,0,0,"Blackrock, Co.Dublin",Ireland
+Henry Millar,Ireland,1904,Forward,4,3,1,0,0,0,"Blackrock, County Dublin",Ireland
 Harry Thrift,Ireland,1904,Wing,18,8,10,0,15,5,Dublin,Ireland
 Basil MacLear,Ireland,1905,Centre,11,5,6,0,18,4,Portsmouth,England
 Hugh Wilson,Ireland,1905,Forward,18,6,12,0,0,0,"Rashee, Co Antrim",Fiji
@@ -314,22 +314,22 @@ Charles Thompson,Ireland,1907,Wing,13,4,8,1,15,5,,
 Frederick Harvey,Ireland,1907,Fullback,2,1,1,0,0,0,"Athboy, Co Meath",Ireland
 Billy Hinton,Ireland,1907,Fullback,16,6,9,1,4,0,,
 Charles Adams,Ireland,1908,Forward,16,10,6,0,3,1,,
-Herbert Aston,Ireland,1908,Halfback,2,0,2,0,3,1,"Rathcoole, Co.Dublin",Fiji
+Herbert Aston,Ireland,1908,Halfback,2,0,2,0,3,1,"Rathcoole, County Dublin",Fiji
 Gerald Beckett,Ireland,1908,Centre,3,1,2,0,3,1,,
 Thomas Harpur,Ireland,1908,Forward,3,1,2,0,0,0,Mountmellick,Ireland
 Edward Morphy,Ireland,1908,Forward,1,0,1,0,0,0,Dublin,Ireland
 Frank Smartt,Ireland,1908,Scrum-half,3,1,2,0,0,0,,
-Tom Smyth,Ireland,1908,Forward,16,5,10,1,6,2,"Dirraw, Co.Antrim, Northern Ireland",Ireland
+Tom Smyth,Ireland,1908,Forward,16,5,10,1,6,2,"Dirraw, County Antrim, Northern Ireland",Ireland
 Bethel Solomons,Ireland,1908,Forward,10,2,7,1,0,0,Dublin,Ireland
 Ernest Deane,Ireland,1909,Wing,1,0,1,0,0,0,Limerick,Ireland
 Michael Garry,Ireland,1909,Forward,7,3,4,0,0,0,,
 Godfrey Pinion,Ireland,1909,Fly-half,4,1,3,0,2,0,Belfast,Ireland
 Oliver Piper,Ireland,1909,Forward,9,2,6,1,0,0,Neath,Wales
-John Blackham,Ireland,1909,Hooker,6,1,4,1,0,0,Queen's Co.,USA
+John Blackham,Ireland,1909,Hooker,6,1,4,1,0,0,Queen's County ,USA
 Thomas Halpin,Ireland,1909,Forward,13,6,6,1,0,0,,
 Richard Magrath,Ireland,1909,Wing,1,0,1,0,0,0,Cork City,England
 Frederick McCormac,Ireland,1909,Scrum-half,3,1,2,0,0,0,Dalkey,Ireland
-Jack O'Connor,Ireland,1909,Scrum-half,1,1,0,0,3,1,"date unknown, ?",
+Jack O'Connor,Ireland,1909,Scrum-half,1,1,0,0,3,1, ,
 Alexander Foster,Ireland,1910,Centre,19,10,8,1,15,5,"Londonderry, Northern Ireland",Ireland
 Dickie Lloyd,Ireland,1910,Fly-half,19,8,10,1,75,2,"Tamnamore, Tyrone",USA
 Joseph Quinn,Ireland,1910,Wing,15,8,6,1,27,9,Dublin,Ireland
@@ -340,36 +340,36 @@ Herbert Moore,Ireland,1910,Forward,8,4,4,0,0,0,"Downpatrick, Northern Ireland",I
 Robert Lyle,Ireland,1910,Centre,2,1,1,0,0,0,,
 Arthur McClinton,Ireland,1910,Fly-half,2,1,1,0,2,0,Belfast,Ireland
 Cyril O'Callaghan,Ireland,1910,Wing,7,5,2,0,6,2,Carlow,Ireland
-William Smyth,Ireland,1910,Forward,3,1,2,0,0,0,"Dirraw, Co.Antrim",Ireland
-William Beatty,Ireland,1910,Prop,3,3,0,0,0,0,"Hollywood, Co.Down",Ireland
+William Smyth,Ireland,1910,Forward,3,1,2,0,0,0,"Dirraw, County Antrim",Ireland
+William Beatty,Ireland,1910,Prop,3,3,0,0,0,0,"Hollywood, County Down",Ireland
 William Tyrrell,Ireland,1910,Forward,9,4,5,0,9,3,Belfast,Ireland
 Samuel Campbell,Ireland,1911,Forward,12,7,5,0,0,0,NA,
 Michael Heffernan,Ireland,1911,Forward,4,3,1,0,3,1,,
 Alexander Jackson,Ireland,1911,Centre,10,6,4,0,9,3,Dublin,Ireland
-James Smyth,Ireland,1911,Forward,3,3,0,0,0,0,"Dirraw, Co.Antrim",Ireland
+James Smyth,Ireland,1911,Forward,3,3,0,0,0,0,"Dirraw, County Antrim",Ireland
 Richard Graham,Ireland,1911,Fullback,1,1,0,0,0,0,,
 William Edwards,Ireland,1912,Forward,2,1,1,0,0,0,"Strandtown, Northern Ireland",Ireland
 Robert Hemphill,Ireland,1912,Forward,4,3,1,0,0,0,,
-George McConnell,Ireland,1912,Forward,4,2,2,0,0,0,"Famad, Co.Donegal",Ireland
+George McConnell,Ireland,1912,Forward,4,2,2,0,0,0,"Famad, County Donegal",Ireland
 Charles MacIvor,Ireland,1912,Wing,7,4,3,0,3,1,"British Antilles, West Indies",Nederland
 d'Arcy Patterson,Ireland,1912,Forward,8,4,4,0,3,1,Belfast,Ireland
 Myley Abraham,Ireland,1912,Centre,5,2,3,0,0,0,Dublin,Ireland
 George Killeen,Ireland,1912,Forward,10,4,6,0,0,0,"Kilrush, Co Clare",Ireland
-George Brown,Ireland,1912,Prop,3,2,1,0,3,1,"Kilmacow, Co.Kilkenny",Ireland
-Robin Wright,Ireland,1912,Fullback,1,1,0,0,0,0,"date unknown, ?",
+George Brown,Ireland,1912,Prop,3,2,1,0,3,1,"Kilmacow, County Kilkenny",Ireland
+Robin Wright,Ireland,1912,Fullback,1,1,0,0,0,0, ,
 Robert Burgess,Ireland,1912,Forward,1,0,1,0,0,0,,
 John Clune,Ireland,1912,Lock,6,2,4,0,0,0,Limerick,Ireland
 George Holmes,Ireland,1912,Centre,3,0,3,0,0,0,Rathmines,Fiji
 John Minch,Ireland,1912,Centre,5,1,4,0,0,0,"Athy, Co Kildare",Ireland
 Geoffrey Schute,Ireland,1912,Forward,3,0,3,0,3,1,Dublin North,Ireland
 Charles Stuart,Ireland,1912,Fullback,1,0,1,0,0,0,,
-Richard Watson,Ireland,1912,Wing,1,0,1,0,0,0,"date unknown, ?",
+Richard Watson,Ireland,1912,Wing,1,0,1,0,0,0, ,
 James Finlay,Ireland,1913,Forward,6,0,6,0,0,0,"Banbridge, Co Down, Northern Ireland",Ireland
 Ernest Jeffares,Ireland,1913,Forward,2,0,2,0,0,0,Dublin,Ireland
 Patrick Stokes,Ireland,1913,Flanker,12,3,9,0,12,4,"Fethard, Tipperary",Ireland
 Gordon Young,Ireland,1913,Fullback,1,0,1,0,0,0,"Carrigaline, Cork",Ireland
 Frank Bennett,Ireland,1913,Wing,1,0,1,0,0,0,Clonakilty,Ireland
-J.W. McConnell,Ireland,1913,Fullback,1,0,1,0,0,0,"date unknown, ?",
+J.W. McConnell,Ireland,1913,Fullback,1,0,1,0,0,0, ,
 Patrick O'Connell,Ireland,1913,Forward,6,3,3,0,0,0,Co Tipperary,Ireland
 Stanhope Polden,Ireland,1913,Scrum-half,4,2,2,0,0,0,Dublin,Ireland
 Albert Stewart,Ireland,1913,Centre,3,2,1,0,3,1,Belfast,Ireland
@@ -388,12 +388,12 @@ Nick Butler,Ireland,1920,Prop,1,0,1,0,0,0,Limerick,Ireland
 Henry Coulter,Ireland,1920,Hooker,3,0,3,0,0,0,"Glastry, Co Down",Ireland
 William Crawford,Ireland,1920,Fullback,30,12,17,1,18,0,Belfast,Ireland
 Robert Crichton,Ireland,1920,Lock,15,3,11,1,0,0,,
-William Cullen,Ireland,1920,Centre,1,0,1,0,0,0,Balghupar,
+William Cullen,Ireland,1920,Centre,1,0,1,0,0,0,Balghupar,India
 James Dickson,Ireland,1920,Wing,3,0,3,0,3,1,Enniskillen,Ireland
 George Doherty,Ireland,1920,Lock,7,1,6,0,0,0,Wandsworth,England
 Arthur Horan,Ireland,1920,Scrum-half,2,0,2,0,0,0,"Hackney, London",England
 William Roche,Ireland,1920,No. 8,3,0,3,0,0,0,Limerick,Ireland
-Thomas Wallace,Ireland,1920,Centre,3,0,3,0,0,0,"Kirkshill, Ballymayo",
+Thomas Wallace,Ireland,1920,Centre,3,0,3,0,0,0,"Kirkshill, Ballymayo",Ireland
 Andy Courtney,Ireland,1920,Prop,7,1,6,0,0,0,Nenagh,Ireland
 William Duggan,Ireland,1920,Centre,2,0,2,0,0,0,"Skahabeg, Cork",Ireland
 Basil McFarland,Ireland,1920,Wing,4,0,4,0,4,0,"Londonderry, Northern Ireland",Ireland
@@ -405,8 +405,8 @@ Bill Cunningham,Ireland,1920,Fly-half,9,2,6,1,6,2,NA,
 Norman Potterton,Ireland,1920,No. 8,1,0,1,0,0,0,Dublin,Ireland
 Declan Browne,Ireland,1920,Hooker,1,0,1,0,0,0,,
 John Smyth,Ireland,1920,Flanker,1,0,1,0,0,0,"Holywood, Co Down",Ireland
-George Stephenson,Ireland,1920,Centre,42,20,20,2,89,14,"Dromore, Co.Down, Northern Ireland",Ireland
-John Bermingham,Ireland,1921,Prop,4,1,3,0,0,0,"Rhode, Co.Offaly",Ireland
+George Stephenson,Ireland,1920,Centre,42,20,20,2,89,14,"Dromore, County Down, Northern Ireland",Ireland
+John Bermingham,Ireland,1921,Prop,4,1,3,0,0,0,"Rhode, County Offaly",Ireland
 Henry Cormac,Ireland,1921,Wing,3,1,2,0,0,0,Howth,Ireland
 Denis Cussen,Ireland,1921,Wing,15,6,9,0,15,5,"Newcastle W, Limerick",Ireland
 Charles Hallaran,Ireland,1921,Lock,15,6,9,0,0,0,Ceylon,SriLanka
@@ -414,26 +414,26 @@ Thomas McClelland,Ireland,1921,Flanker,16,5,11,0,6,2,,
 Thomas Mayne,Ireland,1921,Scrum-half,3,1,2,0,0,0,Belfast,Ireland
 Noel Purcell,Ireland,1921,No. 8,4,1,3,0,0,0,Dublin,Ireland
 John Thompson,Ireland,1921,Flanker,8,2,6,0,0,0,,
-Cecil Davidson,Ireland,1921,Wing,1,0,1,0,0,0,"date unknown, ?",
+Cecil Davidson,Ireland,1921,Wing,1,0,1,0,0,0, ,
 Thomas Wallis,Ireland,1921,Wing,5,1,4,0,14,1,"Rathdown, Dublin",Fiji
 Samuel McVicker,Ireland,1922,Lock,4,1,3,0,0,0,"Mosside, Co Antrim, Northern Ireland",Ireland
 Reuben Owens,Ireland,1922,Flanker,2,0,2,0,0,0,Dublin,Ireland
 Donal Sullivan,Ireland,1922,Centre,4,1,3,0,0,0,"Mallow, Co Cork",Ireland
 Jim Wheeler,Ireland,1922,Fly-half,5,1,4,0,0,0,Belfast,Ireland
 Joseph Clarke,Ireland,1922,Scrum-half,7,2,5,0,3,1,Dundrum,Ireland
-John Egan,Ireland,1922,Flanker,1,0,1,0,0,0,"date unknown, ?",
-Ivan Popham,Ireland,1922,Lock,4,1,3,0,0,0,"date unknown, ?",
-Henry Stephenson,Ireland,1922,Wing,14,5,8,1,12,4,"Dromore, Co.Down, Northern Ireland",Ireland
-Joseph Gillespie,Ireland,1922,Prop,2,1,1,0,0,0,"Boyle, Co.Roscommon",Ireland
+John Egan,Ireland,1922,Flanker,1,0,1,0,0,0, ,
+Ivan Popham,Ireland,1922,Lock,4,1,3,0,0,0, ,
+Henry Stephenson,Ireland,1922,Wing,14,5,8,1,12,4,"Dromore, County Down, Northern Ireland",Ireland
+Joseph Gillespie,Ireland,1922,Prop,2,1,1,0,0,0,"Boyle, County Roscommon",Ireland
 Joe Stewart,Ireland,1922,Fullback,10,6,3,1,0,0,Boghill,Ireland
 Dick Collopy,Ireland,1923,Prop,13,5,7,1,0,0,,
 Dunlop Cunningham,Ireland,1923,Lock,6,3,2,1,0,0,Belfast,Ireland
 James Gardiner,Ireland,1923,Centre,13,5,7,1,3,1,,
-Robert Gray,Ireland,1923,No. 8,4,2,2,0,0,0,"Ballybray, Co Monaghn",
+Robert Gray,Ireland,1923,No. 8,4,2,2,0,0,0,"Ballybay, County Monaghan",Ireland
 William Hall,Ireland,1923,Fly-half,6,2,4,0,0,0,Belfast,Ireland
 Finlay Jackson,Ireland,1923,Centre,1,0,1,0,0,0,Belfast,Ireland
 Robert McClenahan,Ireland,1923,Wing,3,1,2,0,0,0,,
-Jack Mahony,Ireland,1923,No. 8,1,0,1,0,0,0,"date unknown, ?",
+Jack Mahony,Ireland,1923,No. 8,1,0,1,0,0,0, ,
 Peter Dunn,Ireland,1923,Lock,1,0,1,0,0,0,,
 Jamie Clinch,Ireland,1923,Flanker,30,16,12,2,0,0,"Clondalkin, Dublin",Ireland
 Arthur Douglas,Ireland,1923,Wing,5,1,4,0,6,2,Belfast,Ireland
@@ -459,7 +459,7 @@ Joseph Neill,Ireland,1926,Flanker,1,1,0,0,0,0,,
 Allan Buchanan,Ireland,1926,Prop,6,4,2,0,0,0,,
 Charles Payne,Ireland,1926,Hooker,16,10,5,1,0,0,Belfast,Ireland
 Jack Gage,Ireland,1926,Wing,5,4,1,0,3,1,Worcester,England
-Charles Hanrahan,Ireland,1926,Prop,20,11,8,1,3,1,"date unknown, ?",
+Charles Hanrahan,Ireland,1926,Prop,20,11,8,1,3,1, ,
 Maurice Atkinson,Ireland,1927,Centre,2,1,1,0,0,0,Belfast,Ireland
 Jim Ganly,Ireland,1927,Wing,12,7,5,0,24,7,Dublin,Ireland
 Paul Murray,Ireland,1927,Scrum-half,23,11,12,0,33,1,Dublin,Ireland
@@ -467,11 +467,11 @@ Norman Ross,Ireland,1927,No. 8,2,1,1,0,0,0,"Clough, Ballymena",Ireland
 Hugh McVicker,Ireland,1927,Lock,5,3,2,0,3,1,"Ballymoney, Northern Ireland",Ireland
 Theodore Pike,Ireland,1927,Prop,8,5,3,0,3,1,Thurles,Ireland
 Joxer Arigho,Ireland,1928,Wing,16,8,7,1,18,6,Dublin,Ireland
-Thomas Bramwell,Ireland,1928,Hooker,1,1,0,0,0,0,"Larne, Co.Antrim",Ireland
+Thomas Bramwell,Ireland,1928,Hooker,1,1,0,0,0,0,"Larne, County Antrim",Ireland
 Reginald Odbert,Ireland,1928,Centre,1,1,0,0,0,0,Monkstown,Ireland
 Rowland Byers,Ireland,1928,Wing,5,3,1,1,0,0,Belfast,Ireland
 Jerry Mullane,Ireland,1928,Flanker,2,2,0,0,0,0,Newcastle West,Ireland
-Mike Dunne,Ireland,1928,Lock,16,7,9,0,0,0,Co.Dublin,Ireland
+Mike Dunne,Ireland,1928,Lock,16,7,9,0,0,0,County Dublin,Ireland
 Hugh Browne,Ireland,1929,Hooker,3,1,1,1,2,0,"St Giles, London",England
 John Synge,Ireland,1929,Flanker,1,0,1,0,0,0,Dublin,Ireland
 Morgan Crowe,Ireland,1929,Centre,13,6,6,1,6,2,Dublin,Ireland
@@ -483,7 +483,7 @@ Noel Murphy,Ireland,1930,Flanker,11,5,6,0,0,0,Cork,Ireland
 Henry O'Neill,Ireland,1930,Prop,11,4,7,0,0,0,Portstewart,Ireland
 Frederick Williamson,Ireland,1930,Fullback,3,2,1,0,0,0,Wexford,Ireland
 Ter Casey,Ireland,1930,Hooker,2,1,1,0,0,0,Limerick,Ireland
-Major Egan,Ireland,1931,Fullback,3,1,2,0,0,0,"date unknown, ?",
+Major Egan,Ireland,1931,Fullback,3,1,2,0,0,0, ,
 Edward Lightfoot,Ireland,1931,Wing,11,5,6,0,9,3,Dublin,Ireland
 Jack Russell,Ireland,1931,Lock,19,8,11,0,6,2,Queenstown Cobh,Ireland
 Jack Siggins,Ireland,1931,No. 8,24,11,13,0,12,1,Belfast,Ireland
@@ -528,8 +528,8 @@ Fred Moran,Ireland,1936,Wing,9,5,4,0,18,6,,
 Thomas Corken,Ireland,1937,Hooker,3,2,1,0,0,0,"Lisburn, Northern Ireland",Ireland
 George Cromey,Ireland,1937,Fly-half,10,5,5,0,6,2,"Ahogil, Ballymena, Northern Ireland",Ireland
 Blair Mayne,Ireland,1937,Lock,9,4,5,0,3,1,"Newtownards, Northern Ireland",Ireland
-Charles Reidy,Ireland,1937,Prop,1,1,0,0,0,0,"St Geo.Sq, London",England
-Ted Ryan,Ireland,1937,Prop,3,1,2,0,0,0,"Scariff, Co.Clare",Ireland
+Charles Reidy,Ireland,1937,Prop,1,1,0,0,0,0,"St Geo Sq, London",England
+Ted Ryan,Ireland,1937,Prop,3,1,2,0,0,0,"Scariff, County Clare",Ireland
 Maurice Daly,Ireland,1938,Wing,1,0,1,0,3,1,,
 John Irwin,Ireland,1938,No. 8,5,2,3,0,3,1,"Ulster, Northern Ireland",Ireland
 Victor Lyttle,Ireland,1938,Wing,3,2,1,0,0,0,Belfast,Ireland
@@ -552,7 +552,7 @@ Donal Hingerty,Ireland,1947,Flanker,4,2,2,0,0,0,Dublin,Ireland
 Ernie Keeffe,Ireland,1947,Lock,6,3,3,0,0,0,Cork,Ireland
 Jackie Kyle,Ireland,1947,Fly-half,52,25,22,5,30,9,"Belfast, Northern Ireland",Ireland
 Bill McKay,Ireland,1947,Flanker,29,16,10,3,9,3,Waterford,Ireland
-Barney Mullan,Ireland,1947,Wing,8,6,2,0,36,6,"date unknown, ?",
+Barney Mullan,Ireland,1947,Wing,8,6,2,0,36,6, ,
 Karl Mullen,Ireland,1947,Hooker,28,16,9,3,0,0,Courtown Harbour,Ireland
 Matthew Neely,Ireland,1947,Prop,4,2,2,0,0,0,"Craigs, Ballymena, Northern Ireland",Ireland
 Brendan Quinn,Ireland,1947,Wing,1,0,1,0,0,0,Dublin,Ireland
@@ -572,7 +572,7 @@ Paddy Reid,Ireland,1947,Centre,4,3,1,0,3,1,Limerick,Ireland
 Richard Wilkinson,Ireland,1947,Lock,1,0,1,0,0,0,Dublin,Ireland
 Jim McCarthy,Ireland,1948,Flanker,28,15,10,3,24,8,Cork,Ireland
 Hugh de Lacy,Ireland,1948,Scrum-half,2,2,0,0,0,0,,
-John Mattsson,Ireland,1948,Fullback,1,1,0,0,0,0,"Bandon, Co.Cork",Ireland
+John Mattsson,Ireland,1948,Fullback,1,1,0,0,0,0,"Bandon, County Cork",Ireland
 Des O'Brien,Ireland,1948,No. 8,20,12,6,2,3,1,Dublin,Ireland
 Michael O'Flanagan,Ireland,1948,Centre,1,1,0,0,0,0,Dublin,Ireland
 Tom Clifford,Ireland,1949,Prop,19,10,7,2,3,1,Tipperary,Ireland
@@ -584,7 +584,7 @@ Noel Henderson,Ireland,1949,Centre,41,18,19,4,54,3,"Drumahoe, Co Derry, Northern
 John Burgess,Ireland,1950,Scrum-half,2,0,1,1,3,0,Tipperary,Ireland
 Arthur Curtis,Ireland,1950,Flanker,3,1,1,1,3,1,Shanghai,China
 Des McKibbin,Ireland,1950,Prop,8,4,2,2,3,0,"Belfast, Northern Ireland",Ireland
-Louis Crowe,Ireland,1950,Wing,3,1,2,0,3,1,"Cahir, Co.Tipperary",Ireland
+Louis Crowe,Ireland,1950,Wing,3,1,2,0,3,1,"Cahir, County Tipperary",Ireland
 George Phipps,Ireland,1950,Centre,5,1,4,0,0,0,Peshawar,India
 John Blayney,Ireland,1950,Centre,1,1,0,0,3,1,Dublin,Ireland
 Jack Molony,Ireland,1950,Lock,1,1,0,0,0,0,Thurles,Ireland
@@ -600,7 +600,7 @@ Angus McMorrow,Ireland,1951,Fullback,1,0,0,1,0,0,Sligo,Ireland
 Antony Browne,Ireland,1951,Centre,1,0,1,0,3,1,,
 Gerry Murphy,Ireland,1951,Fullback,6,1,5,0,5,0,"Bangor, Co Down, Northern Ireland",Ireland
 Robin Thompson,Ireland,1951,Lock,14,4,10,0,0,0,"Belfast, Northern Ireland",Ireland
-John Notley,Ireland,1952,Fullback,2,2,0,0,2,0,"Drumsna, Co Roscom'n",
+John Notley,Ireland,1952,Fullback,2,2,0,0,2,0,Drumsna,Ireland
 Mick Dargan,Ireland,1952,Flanker,2,1,1,0,0,0,Dublin,Ireland
 Archie O'Leary,Ireland,1952,Lock,3,1,2,0,0,0,Cork,Ireland
 Niall Bailey,Ireland,1952,Wing,1,0,1,0,0,0,Dublin,Ireland
@@ -633,7 +633,7 @@ William Tector,Ireland,1955,Fullback,3,0,2,1,0,0,"Clonroche, Co Wexford",Ireland
 Mick Madden,Ireland,1955,Lock,3,0,2,1,0,0,Cork,Ireland
 Richard Roche,Ireland,1955,Wing,4,1,2,1,0,0,"Woodford, Co Galway",Ireland
 Sean McDermott,Ireland,1955,Scrum-half,2,0,2,0,0,0,Kinsale,Ireland
-David MacSweeney,Ireland,1955,Flanker,1,0,1,0,0,0,"Cappoquin, Co Waterf",
+David MacSweeney,Ireland,1955,Flanker,1,0,1,0,0,0,"Cappoquin, County Waterford",Ireland
 George Ross,Ireland,1955,No. 8,1,0,1,0,0,0,"Portadown, Northern Ireland",Ireland
 Cecil Fagan,Ireland,1956,Prop,3,1,2,0,0,0,Dublin,Ireland
 Adrian Kennedy,Ireland,1956,No. 8,1,0,1,0,0,0,"Londonderry, Northern Ireland",Ireland
@@ -768,7 +768,7 @@ Brendan Foley,Ireland,1976,Lock,11,2,9,0,0,0,Limerick,Ireland
 Phil Orr,Ireland,1976,Prop,59,20,36,3,0,0,Dublin,Ireland
 Donal Canniffe,Ireland,1976,Scrum-half,2,1,1,0,0,0,Mullingar,Ireland
 Ronnie Hakin,Ireland,1976,Lock,6,0,6,0,0,0,"Belfast, Northern Ireland",Ireland
-Lawrence Moloney,Ireland,1976,Fullback,4,1,3,0,0,0,Co.Cork,Ireland
+Lawrence Moloney,Ireland,1976,Fullback,4,1,3,0,0,0,County Cork,Ireland
 Stephen Blake-Knox,Ireland,1976,Wing,3,1,2,0,0,0,Dublin,Ireland
 Joseph Brady,Ireland,1976,Centre,2,1,1,0,0,0,Dublin,Ireland
 Harold Steele,Ireland,1976,Lock,10,4,5,1,0,0,"Cookstown, Northern Ireland",Ireland
@@ -804,7 +804,7 @@ Ian Burns,Ireland,1980,Fly-half,1,0,1,0,0,0,Dublin,Ireland
 David Irwin,Ireland,1980,Centre,28,7,21,0,8,2,"Belfast, Northern Ireland",Ireland
 Hugo MacNeill,Ireland,1981,Fullback,40,15,24,1,46,10,Dublin,Ireland
 Francis Quinn,Ireland,1981,Wing,3,0,3,0,0,0,Dublin,Ireland
-Kenneth Hooks,Ireland,1981,Wing,6,2,4,0,4,1,"Markethill, Co.Armagh, Northern Ireland",Ireland
+Kenneth Hooks,Ireland,1981,Wing,6,2,4,0,4,1,"Markethill, County Armagh, Northern Ireland",Ireland
 Paul Dean,Ireland,1981,Fly-half,32,13,18,1,19,4,Dublin,Ireland
 Jerry Holland,Ireland,1981,Lock,3,0,3,0,0,0,Cork,Ireland
 John Murphy,Ireland,1981,Fullback,3,1,2,0,5,0,Bray,Ireland
@@ -953,7 +953,7 @@ Alan Quinlan,Ireland,1999,Back-row,27,19,8,0,30,6,Tipperary,Ireland
 Bob Casey,Ireland,1999,Lock,7,3,3,1,5,1,Dublin,Ireland
 Simon Easterby,Ireland,2000,Back-row,67,43,23,1,45,9,Harrogate,England
 John Hayes,Ireland,2000,Prop,107,67,37,3,10,2,Cappamore,Ireland
-Shane Horgan,Ireland,2000,"Wing, Centre",69,40,27,2,105,21,"Bellewstown, Co.Meath",Ireland
+Shane Horgan,Ireland,2000,"Wing, Centre",69,40,27,2,105,21,"Bellewstown, County Meath",Ireland
 Ronan O'Gara,Ireland,2000,Fly-half,130,73,54,3,1083,16,San Diego,USA
 Peter Stringer,Ireland,2000,Scrum-half,98,67,30,1,30,6,Cork,Ireland
 Peter McKenna,Ireland,2000,"Fullback, Wing",1,0,1,0,0,0,Dublin,Ireland
@@ -985,7 +985,7 @@ Denis Leamy,Ireland,2004,Back-row,57,36,20,1,10,2,Tipperary,Ireland
 Matt McCullough,Ireland,2005,"Lock, Flanker",4,2,2,0,0,0,,
 Roger Wilson,Ireland,2005,No. 8,1,1,0,0,0,0,"Belfast, Northern Ireland",Ireland
 Kieran Campbell,Ireland,2005,Scrum-half,3,3,0,0,0,0,"Hillingdon, London",England
-Trevor Hogan,Ireland,2005,Lock,4,3,1,0,0,0,"Nenagh, Co.Tipperary",Ireland
+Trevor Hogan,Ireland,2005,Lock,4,3,1,0,0,0,"Nenagh, County Tipperary",Ireland
 Bernard Jackman,Ireland,2005,Hooker,9,4,5,0,0,0,Carlow,Ireland
 David Quinlan,Ireland,2005,Centre,2,2,0,0,0,0,Dublin,Ireland
 Kieran Lewis,Ireland,2005,"Wing, Centre",3,1,2,0,0,0,Dublin,Ireland
@@ -1069,7 +1069,7 @@ Dominic Ryan,Ireland,2014,Flanker,1,1,0,0,0,0,Dublin,Ireland
 Robin Copeland,Ireland,2014,Back-row,1,1,0,0,0,0,Wexford,Ireland
 Jack Conan,Ireland,2015,No. 8,1,1,0,0,0,0,Dublin,Ireland
 Nathan White,Ireland,2015,Prop,13,7,5,1,0,0,Hawera,NewZealand
-Tadhg Furlong,Ireland,2015,Prop,16,7,8,1,0,0,New Ross,Canada
+Tadhg Furlong,Ireland,2015,Prop,16,7,8,1,0,0,"Campile, Wexford",Ireland
 CJ Stander,Ireland,2016,Back-row,15,8,6,1,30,6,George,SouthAfrica
 Stuart McCloskey,Ireland,2016,Centre,1,0,1,0,0,0,"Newtonards, Northern Ireland",Ireland
 Josh van der Flier,Ireland,2016,Flanker,7,4,3,0,0,0,Dublin,Ireland

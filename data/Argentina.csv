@@ -3,7 +3,7 @@ A. Bover,Argentina,1910,Prop,1,0,1,0,0,0,,
 A. Donelly,Argentina,1910,Hooker,1,0,1,0,0,0,,
 Oswald Gebbie,Argentina,1910,Centre,1,0,1,0,0,0,Florencia Varela,Argentina
 L.H. Gribbell,Argentina,1910,Flanker,1,0,1,0,0,0,,
-Fairy Heatlie,Argentina,1891,Forward,7,2,4,1,6,0,"Worcester, Cape Prov",
+Fairy Heatlie,Argentina,1891,Forward,7,2,4,1,6,0,"Worcester, Cape Prov",SouthAfrica
 F. Henrys,Argentina,1910,Lock,1,0,1,0,0,0,,
 Frank Heriot,Argentina,1910,Centre,1,0,1,0,0,0,"Manila, Philippine",Phillipines
 W.H. Hyman,Argentina,1910,Flanker,1,0,1,0,0,0,,
@@ -485,7 +485,7 @@ Eduardo Garbarino,Argentina,1992,Hooker,2,2,0,0,0,0,,
 Matias Roby,Argentina,1992,Wing,2,2,0,0,5,1,,
 Leandro Bouza,Argentina,1992,Wing,1,1,0,0,0,0,NA,
 Gonzalo Garcia Orsetti,Argentina,1992,Flanker,2,2,0,0,0,0,NA,
-Pablo Cremaschi,Argentina,1993,Centre,6,6,0,0,40,3,,
+Pablo Cremaschi,Argentina,1993,Centre,6,6,0,0,40,3,NA,Argentina
 Roberto Grau,Argentina,1993,Prop,47,19,28,0,10,2,Buenos Aires,Argentina
 Sebastian Irazoqui,Argentina,1993,No. 8,8,6,2,0,5,1,NA,
 Diego Silvetti,Argentina,1993,Hooker,1,1,0,0,5,1,,
@@ -510,7 +510,7 @@ Martin Lerga,Argentina,1995,Lock,5,4,1,0,0,0,,
 Fernando del Castillo,Argentina,1995,Centre,6,5,1,0,0,0,Rosario,Argentina
 Agustin Pichot,Argentina,1995,Scrum-half,71,34,36,1,60,12,Buenos Aires,Argentina
 Ezequiel Jurado,Argentina,1995,Fullback,28,11,16,1,30,6,Rosario,Argentina
-Jose Luna,Argentina,1995,Wing,8,7,1,0,129,4,NA,
+Jose Luna,Argentina,1995,Wing,8,7,1,0,129,4,NA,Argentina
 Omar Portillo,Argentina,1995,Lock,4,4,0,0,5,1,,
 Martin Sugasti,Argentina,1995,Flanker,2,2,0,0,5,1,NA,
 Roberto Petti,Argentina,1995,Lock,2,2,0,0,0,0,,
@@ -599,7 +599,7 @@ Jose Nunez Piossek,Argentina,2001,"Centre, Wing",28,18,10,0,145,29,Tucuman,Argen
 Leonardo Roldan,Argentina,2001,Lock,2,2,0,0,5,1,Rosario,Argentina
 Juan Jose Villar,Argentina,2001,Hooker,5,5,0,0,0,0,NA,Argentina
 Matias Albina,Argentina,2001,Scrum-half,10,9,1,0,20,4,La Plata,Argentina
-Francisco Leonelli Morey,Argentina,2001,"Fullback, Wing",16,13,3,0,40,8,"S.C.de la Sierra, Bolivia",Bolivia
+Francisco Leonelli Morey,Argentina,2001,"Fullback, Wing",16,13,3,0,40,8,"S C de la Sierra, Bolivia",Bolivia
 Mariano Sambucetti,Argentina,2001,Lock,11,9,2,0,15,3,Buenos Aires,Argentina
 Emiliano Bergamaschi,Argentina,2001,Prop,1,1,0,0,0,0,Rosario,Argentina
 Pablo Cardinali,Argentina,2001,Prop,5,5,0,0,0,0,La Plata,Argentina

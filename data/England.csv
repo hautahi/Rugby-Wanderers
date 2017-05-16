@@ -51,7 +51,7 @@ Charles Crosse,England,1874,Forward,2,2,0,0,NA,0,"Bushey, Herts",England
 Foster Cunliffe,England,1874,Forward,1,1,0,0,NA,0,Llanfyllin,Wales
 James Genth,England,1874,Forward,2,1,0,1,NA,0,"Ardwick, Manchester",England
 Edward Kewley,England,1874,Forward,7,4,1,2,NA,1,"Eton, Bucks",England
-William Milton,England,1874,Three-quarters,2,2,0,0,NA,0,"Lt.Marlow, Bucks",England
+William Milton,England,1874,Three-quarters,2,2,0,0,NA,0,"Lt Marlow, Bucks",England
 Sidney Parker,England,1874,Forward,2,1,0,1,NA,0,"Shirburn Castle, Oxon",England
 William Stafford,England,1874,Forward,1,1,0,0,NA,0,NA,
 Roger Walker,England,1874,Forward,5,4,0,1,NA,0,Bury,England
@@ -236,7 +236,7 @@ Arthur Briggs,England,1892,Halfback,3,3,0,0,0,0,,
 Edward Bullough,England,1892,Forward,3,3,0,0,0,0,Wigan,England
 Charles Emmott,England,1892,Halfback,1,1,0,0,0,0,"Shipley, Bradford",England
 Scatter Hubbard,England,1892,Three-quarters,2,2,0,0,2,1,Benares,Australia
-William Nicholl,England,1892,Forward,2,2,0,0,2,1,"Raistrick, Yorks?",Fiji
+William Nicholl,England,1892,Forward,2,2,0,0,2,1,"Raistrick, Yorks",Fiji
 James Pyke,England,1892,Forward,1,1,0,0,0,0,St Helens,England
 Wardlaw Thomson,England,1892,Centre,4,3,1,0,3,1,"Inyati, Matabeleland, South Rhodesia",Zimbabwe
 Abel Ashworth,England,1892,Forward,1,1,0,0,0,0,Ashton,England
@@ -356,7 +356,7 @@ Arthur Luxmoore,England,1900,Forward,2,0,1,1,0,0,Hendon,England
 Edgar Elliot,England,1901,Wing,4,0,3,1,6,2,"Roker, Sunderland",England
 Nigel Fletcher,England,1901,Forward,4,0,4,0,0,0,"Pancras, London",England
 Charles Gibson,England,1901,Forward,1,0,1,0,0,0,Gateshead,England
-David Graham,England,1901,Forward,1,0,1,0,0,0,Aspatria?,England
+David Graham,England,1901,Forward,1,0,1,0,0,0,Aspatria,England
 Arthur O'Neill,England,1901,Forward,3,0,3,0,0,0,,
 Ernest Roberts,England,1901,Forward,6,0,6,0,0,0,Lowestoft,England
 John Sagar,England,1901,Fullback,2,0,2,0,0,0,Easington,England
@@ -373,7 +373,7 @@ Bernard Oughtred,England,1901,Fly-half,6,2,4,0,0,0,Hartlepool,England
 Henry Weston,England,1901,Forward,1,0,1,0,0,0,Potterspury,England
 Denys Dobson,England,1902,Forward,10,5,5,0,9,3,"Douglas, Isle of Ma",SouthAfrica
 George Fraser,England,1902,Forward,5,2,3,0,0,0,Fulham,England
-John Jewitt,England,1902,Lock,1,0,1,0,0,0,"Quebec, Co.Durham",England
+John Jewitt,England,1902,Lock,1,0,1,0,0,0,"Quebec, County Durham",England
 Philip Nicholas,England,1902,Wing,1,0,1,0,0,0,Monmouth,Wales
 John Raphael,England,1902,Centre,9,4,5,0,3,1,Brussels,België - Belgique - Belgien
 Leonard Tosswill,England,1902,Forward,3,2,1,0,0,0,Exeter,England
@@ -403,7 +403,7 @@ Sam Irvin,England,1905,Fullback,1,0,1,0,0,0,Hartlepool,England
 John Mathias,England,1905,Lock,4,0,4,0,0,0,Cardigan,Wales
 Francis Palmer,England,1905,Wing,1,0,1,0,0,0,Hereford,England
 Walter Rogers,England,1905,Forward,2,0,2,0,0,0,"Pewsey, Wilts",SouthAfrica
-John Green,England,1905,Forward,8,3,4,1,0,0,Skipton?,England
+John Green,England,1905,Forward,8,3,4,1,0,0,Skipton,England
 William Grylls,England,1905,Lock,1,0,1,0,0,0,Redruth,England
 Harry Shewring,England,1905,Centre,10,3,6,1,3,1,Keynsham,England
 Christopher Stanger-Leathes,England,1904,Fullback,2,1,1,0,0,0,Kensington,England
@@ -458,7 +458,7 @@ Garnet Portus,England,1908,Fly-half,2,2,0,0,3,1,"Morpeth, NSW",Australia
 Herbert Sibree,England,1908,Scrum-half,3,2,1,0,0,0,Antananarivo,Madagasikara
 Alf Wood,England,1908,Fullback,3,2,1,0,8,0,Wolverhampton,England
 Dick Gilbert,England,1908,Forward,3,1,2,0,0,0,Dartmouth,England
-Rupert Williamson,England,1908,Scrum-half,5,2,3,0,6,2,South Africa?,SouthAfrica
+Rupert Williamson,England,1908,Scrum-half,5,2,3,0,6,2,South Africa,SouthAfrica
 Jumbo Vassall,England,1908,Centre,4,1,2,1,0,0,"Torrington, Devon",England
 Fischer Burges-Watson,England,1908,Forward,2,0,2,0,3,1,Portsea,England
 Maffer Davey,England,1908,Fly-half,3,0,3,0,0,0,Redruth,England
@@ -513,7 +513,7 @@ William Mann,England,1911,Forward,3,1,2,0,3,1,Edmonton,Canada
 Alan Roberts,England,1911,Wing,8,5,3,0,15,5,Newcastle-upon-Tyne,England
 John Scholfield,England,1911,Centre,1,0,1,0,3,1,Fylde,England
 Samuel Williams,England,1910,Fullback,7,3,4,0,0,0,Rogerston,USA
-Ronald Lagden,England,1911,No. 8,1,1,0,0,4,0,"Maseru, Basutoland",
+Ronald Lagden,England,1911,No. 8,1,1,0,0,4,0,Maseru,Lesotho
 Henry Brougham,England,1912,Wing,4,3,1,0,9,3,Wellington College,NewZealand
 John Eddison,England,1912,Forward,4,3,1,0,3,1,Edinburgh,Scotland
 Dave Holland,England,1912,Forward,3,2,1,0,3,1,Gloucester,England
@@ -530,7 +530,7 @@ Cyril Lowe,England,1913,Wing,25,21,3,1,58,18,"Holbeach, Lincs",Wales
 Sidney Smart,England,1913,No. 8,12,10,2,0,0,0,Gloucester,England
 Francis Steinthal,England,1913,Centre,2,2,0,0,0,0,Bradford,England
 George Ward,England,1913,No. 8,6,6,0,0,0,0,"Bottesford, Leicester",England
-Arthur Dingle,England,1913,Wing,3,3,0,0,0,0,"Hetton-le-Hole, Durhm",
+Arthur Dingle,England,1913,Wing,3,3,0,0,0,0,Hetton-le-Hole,England
 Alfred Kitching,England,1913,Lock,1,1,0,0,0,0,Scarborough,England
 Francis Oakeley,England,1913,Scrum-half,4,4,0,0,0,0,Hereford,England
 Joseph Brunton,England,1914,Lock,3,3,0,0,0,0,Tynemouth,England
@@ -551,7 +551,7 @@ Cecil Kershaw,England,1920,Scrum-half,16,13,2,1,6,2,Dhaka,Bangladesh
 Jannie Krige,England,1920,Centre,1,0,1,0,0,0,Caledon,SouthAfrica
 Frank Mellish,England,1920,Flanker,12,8,2,2,3,1,Rondebosch,SouthAfrica
 Laurence Merriam,England,1920,Lock,2,1,1,0,0,0,Islington,England
-James Morgan,England,1920,Hooker,1,0,1,0,0,0,Cockermouth?,England
+James Morgan,England,1920,Hooker,1,0,1,0,0,0,Cockermouth,England
 Wavell Wakefield,England,1920,Flanker,31,20,8,3,18,6,Beckenham,England
 Jock Wright,England,1920,Prop,2,1,1,0,0,0,Plymouth,England
 Geoffrey Conway,England,1920,No. 8,18,15,2,1,25,1,Cardiff,Wales
@@ -803,7 +803,7 @@ Ian Botting,England,1950,Wing,2,1,1,0,0,0,Dunedin,NewZealand
 John Cain,England,1950,Flanker,1,0,1,0,0,0,W Derby,England
 Murray Hofmeyer,England,1950,Fullback,3,0,3,0,7,0,Pretoria,SouthAfrica
 Wally Holmes,England,1950,Prop,16,8,7,1,0,0,Nuneaton,England
-Herbert Jones,England,1950,Lock,3,1,2,0,0,0,"Landkey, Barnstaple?",England
+Herbert Jones,England,1950,Lock,3,1,2,0,0,0,"Landkey, Barnstaple",England
 Harry Small,England,1950,Flanker,4,1,3,0,0,0,NA,
 John Smith,England,1950,Wing,4,1,3,0,12,4,Stroud,England
 Akker Adkins,England,1950,Lock,7,4,2,1,3,1,Coventry,England
@@ -835,7 +835,7 @@ Nick Labuschagne,England,1953,Hooker,5,2,2,1,0,0,Durban,SouthAfrica
 Martin Regan,England,1953,Fly-half,12,8,3,1,3,1,St Helens,England
 Jeff Butterfield,England,1953,Centre,32,18,9,5,27,8,Heckmondwike,England
 Tug Wilson,England,1953,Flanker,8,5,3,0,12,4,"Wilderness, Western Cape",SouthAfrica
-Phil Davies,England,1953,Centre,14,7,5,2,3,1,"Abberley, Worcs",
+Phil Davies,England,1953,Centre,14,7,5,2,3,1,"Abberley, Worcs",England
 Reg Higgins,England,1954,Flanker,14,9,4,1,6,2,"Widnes, Lancs",England
 Ian King,England,1954,Fullback,3,2,1,0,5,0,Leyburn,England
 Pat Quinn,England,1954,Centre,5,3,2,0,0,0,"Widnes, Lancs",England
@@ -984,7 +984,7 @@ Stack Stevens,England,1969,Prop,25,9,15,1,8,2,"Godolphin, Cornwall",England
 Chris Wardlow,England,1969,Centre,6,2,3,1,0,0,Carlisle,England
 John Novak,England,1970,Wing,3,0,3,0,3,1,Stratford-upon-Avon,England
 Mike Bulpitt,England,1970,Wing,1,0,1,0,0,0,"Richmond, Yorks",England
-Barry Jackson,England,1970,Prop,2,0,2,0,0,0,Manchester N?,England
+Barry Jackson,England,1970,Prop,2,0,2,0,0,0,Manchester N,England
 Tony Jorden,England,1970,Fullback,7,3,3,1,22,0,"Radlett, Hertfordshire",England
 Mike Leadbetter,England,1970,Lock,1,0,1,0,0,0,Southport,England
 Gerry Redmond,England,1970,No. 8,1,0,1,0,0,0,Weston,England

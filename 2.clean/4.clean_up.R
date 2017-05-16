@@ -18,6 +18,10 @@ d$Bcountry[d$Bcountry == 'g'] <- ""
 # Clear known errors in birthcity
 d$City[d$City == 'date unknown'] <- ""
 d$City[d$City == '?'] <- ""
+d$City <- gsub("Co+\\.", "County ", d$City)
+d$City <- gsub("\\?", "", d$City)
+d$City <- gsub("date unknown+\\,", "", d$City)
+d$City <- gsub("\\.", " ", d$City)
 
 # Remove entries if birthcity contains a number
 d$Bcountry[grepl(pattern="[[:digit:]]", x=d$City)==TRUE] <- ""

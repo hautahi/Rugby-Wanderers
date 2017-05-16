@@ -87,7 +87,7 @@ Enrico Zanetti,Italy,1942,Flanker,1,1,0,0,0,0,Venezia,Italy
 Giuseppe Sessi,Italy,1942,NA,1,1,0,0,0,0,"Scandiano, RE",Italy
 Aldo Battagion,Italy,1948,Scrum-half,2,1,1,0,2,0,Bergamo,Italy
 Francesco Battaglini,Italy,1948,Flanker,1,0,1,0,0,0,Rovigo,Italy
-Vittorio Borsetto,Italy,1948,Prop,2,1,1,0,0,0,"date unknown, Canale di Villadose,",
+Vittorio Borsetto,Italy,1948,Prop,2,1,1,0,0,0,Villadose,Italy
 Carlo de Vecchi,Italy,1948,No. 8,1,0,1,0,0,0,Milano,Italy
 Umberto Faccioli,Italy,1948,Fly-half,1,0,1,0,0,0,,
 Enrico Fava,Italy,1948,Centre,2,1,1,0,5,0,NA,
@@ -267,7 +267,7 @@ Agostino Puppo,Italy,1972,Centre,20,4,14,2,4,1,Genova,Italy
 Giancarlo Cecotti,Italy,1972,No. 8,2,1,1,0,0,0,"Gonars, UD",Italy
 Mario Galletto,Italy,1972,Fly-half,3,2,1,0,0,0,Trieste,Italy
 Paolo Paoletti,Italy,1972,Hooker,20,7,12,1,0,0,"Frascati, RM",Italy
-Giovanni di Cola,Italy,1972,Centre,3,0,2,1,0,0,Acciano.AQ,Italy
+Giovanni di Cola,Italy,1972,Centre,3,0,2,1,0,0,Acciano AQ,Italy
 Ambrogio Bona,Italy,1972,Prop,50,23,24,3,4,1,Monza,Italy
 Franco Paganelli,Italy,1972,NA,1,0,0,1,0,0,Roma,Italy
 Salvatore Bonetti,Italy,1972,No. 8,34,12,20,2,12,3,"Lumezzane, BS",The Bahamas
@@ -276,7 +276,7 @@ Adriano Fedrigo,Italy,1972,Lock,41,17,21,3,8,2,"San Dona, VE",Italy
 Nello Francescato,Italy,1972,Centre,42,15,25,2,24,6,"Sardara, CA",Canada
 Fabio Gargiullo,Italy,1972,Centre,1,1,0,0,0,0,Roma,Italy
 Manrico Marchetto,Italy,1972,Wing,43,19,19,5,84,21,Treviso,Italy
-Francesco Vialetto,Italy,1972,Fullback,1,1,0,0,9,0,"Campolongo s Brenta,",
+Francesco Vialetto,Italy,1972,Fullback,1,1,0,0,9,0,Campolongo sul Brenta,Italy
 Giorgio Lari,Italy,1972,Fly-half,8,4,4,0,24,0,Roma,Italy
 Edano Cottafava,Italy,1973,Wing,1,0,1,0,0,0,Novi di Modena,Italy
 Paolo Fedrigo,Italy,1973,Prop,1,0,1,0,0,0,"San Dona, VE",Italy
@@ -288,7 +288,7 @@ Gilberto Luchini,Italy,1973,Centre,2,0,2,0,0,0,Roma,Italy
 Andrea Selvaggio,Italy,1973,Wing,6,1,5,0,0,0,Genova,Italy
 Antonio Spagnoli,Italy,1973,NA,1,0,1,0,0,0,"Frascati, RM",Italy
 Antonio Rocca,Italy,1973,No. 8,4,0,4,0,0,0,Padova,Italy
-Arturo Bergamasco,Italy,1973,Flanker,4,1,3,0,0,0,"Carrara Sto Stefano,",
+Arturo Bergamasco,Italy,1973,Flanker,4,1,3,0,0,0,Carrara Santo Stefano,Italy
 Renzo Ganzerla,Italy,1973,Wing,2,0,2,0,0,0,"Chioggia, VE",Italy
 Luigi Mattarolo,Italy,1973,Fullback,7,1,5,1,31,1,Padova,Italy
 Fabio Molinari,Italy,1973,Centre,1,0,1,0,0,0,Piacenza,Italy
@@ -300,8 +300,8 @@ Giancarlo Checchinato,Italy,1973,Lock,5,3,1,1,0,0,"Crespino, RO",Italy
 Ennio Ponzi,Italy,1973,Fly-half,20,10,8,2,133,0,L'Aquila,Italy
 Nino Rossi,Italy,1973,Wing,16,10,6,0,12,3,"Arqua Polesine, RO",Italy
 Raffaello Salvan,Italy,1973,Centre,2,2,0,0,7,1,"Vescovana, RO",Italy
-Pietro Vezzani,Italy,1973,Centre,10,6,3,1,12,3,"Santo Stefano Magra,",
-Bernadino di Cola,Italy,1973,Centre,1,0,1,0,0,0,Acciano.AQ,Italy
+Pietro Vezzani,Italy,1973,Centre,10,6,3,1,12,3,Santo Stefano di Magra,Italy
+Bernadino di Cola,Italy,1973,Centre,1,0,1,0,0,0,Acciano AQ,Italy
 Antonio Tassin,Italy,1973,Flanker,1,0,1,0,0,0,"Lendinara, RO",Italy
 Mauro Zingarelli,Italy,1973,Hooker,1,0,1,0,0,0,Giulianova,Italy
 Giancarlo Cucchiella,Italy,1973,Prop,22,9,12,1,4,1,L'Aquila,Italy
@@ -317,7 +317,7 @@ Gianni Franceschini,Italy,1975,Scrum-half,11,4,6,1,4,1,Venezia,Italy
 Fabrizio Gaetaniello,Italy,1975,Fullback,39,19,16,4,23,5,Livorno,Italy
 Eusebio Passarotto,Italy,1975,NA,1,1,0,0,0,0,,
 Giorgio Morelli,Italy,1976,Hooker,26,12,13,1,12,3,L'Aquila,Italy
-Paolo Mariani,Italy,1976,Flanker,22,10,12,0,16,4,"Paterno di Avezzano,",
+Paolo Mariani,Italy,1976,Flanker,22,10,12,0,16,4,Paterno,Italy
 Narcisio Zanella,Italy,1976,Flanker,8,5,3,0,0,0,Rovigo,Italy
 Ercole Manni,Italy,1976,Scrum-half,5,3,2,0,8,2,Roma,Italy
 Rino Francescato,Italy,1976,Centre,38,19,18,1,12,3,Treviso,Italy
@@ -331,7 +331,7 @@ Carlo Casagrande,Italy,1977,NA,1,0,1,0,0,0,Treviso,Italy
 Giuseppe Artuso,Italy,1977,Flanker,31,12,16,3,4,1,Reggio Calabria,Italy
 Crescenzo Bentivoglio,Italy,1977,Fullback,1,0,1,0,0,0,Reggio Calabria,Italy
 Luciano Borsetto,Italy,1977,Prop,1,0,1,0,0,0,Rovigo,Italy
-Oscar Collodo,Italy,1977,Fly-half,15,4,9,2,47,2,"Berne, Switzerlan",
+Oscar Collodo,Italy,1977,Fly-half,15,4,9,2,47,2,Bern,Switzerland
 Andrea Lijoi,Italy,1977,Lock,5,2,2,1,0,0,Roma,Italy
 Paolo Pavesi,Italy,1977,Hooker,3,1,2,0,0,0,"Roccabianca, PR",Italy
 Lucio Pelliccione,Italy,1977,Centre,1,0,1,0,0,0,L'Aquila,Italy
@@ -423,7 +423,7 @@ Mose de Stefani,Italy,1989,Hooker,1,1,0,0,0,0,Rovigo,Italy
 Pierpaolo Pedroni,Italy,1989,"Lock, No. 8",25,11,14,0,10,2,Cremona,Italy
 Massimo Giovanelli,Italy,1989,Flanker,60,27,32,1,19,4,Parma,Italy
 Massimo Cuttitta,Italy,1990,Prop,69,32,36,1,29,6,Latina,Italy
-Franco Properzi-Curti,Italy,1990,Prop,54,21,32,1,15,3,Derha Dun,
+Franco Properzi-Curti,Italy,1990,Prop,54,21,32,1,15,3,Dehradun,India
 Mauro Tommasi,Italy,1990,Centre,7,5,2,0,10,2,Brindisi,Italy
 Umberto Casellato,Italy,1990,Scrum-half,10,8,2,0,5,1,Treviso,Italy
 Carlo Checchinato,Italy,1990,Lock,83,31,51,1,105,21,Adria,Italy

@@ -5,7 +5,7 @@ library(readr)
 library(dplyr)
 library(ascii)
 library(readxl)
-library("RColorBrewer")
+library(RColorBrewer)
 cutoff <- 1995
 
 target <-  c("Argentina","Australia","England","France","Ireland","New Zealand",
@@ -114,14 +114,14 @@ FB <- fin_df2 %>% filter(Team %in% target) %>% arrange(-`Foreign Born (%)`)
 
 FB_g <- FB %>%
   ggplot(aes(x=reorder(Team, -`Foreign Born (%)`),
-                            y=`Foreign Born (%)`,fill=Team,label = `Foreign Born (%)`)) +
-  geom_bar(stat = "identity") + theme_bw() +
-  scale_fill_manual(values=group.colors) + 
+             y=`Foreign Born (%)`,fill=Team,label = `Foreign Born (%)`)) +
+  theme_bw() +
+  geom_bar(stat='identity',position='dodge',fill=colorchoice[2]) +
   theme(axis.ticks.x=element_blank(),
-    legend.title=element_blank(),
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.border = element_blank()) + ylim(c(0,50)) +
+        legend.title=element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank()) + ylim(c(0,50)) +
   labs(y="Foreign Born Percentage",x="") + theme(legend.position="none")
 
 # ###########################
@@ -149,7 +149,9 @@ m1 <- m %>% rbind(temp) %>% mutate(Team=Country) %>%
   filter(Team %in% target)
   
 popcompare_g <- ggplot(m1, aes(x=Team, y=value, fill=variable)) +
-  geom_bar(stat='identity',position='dodge') +  scale_fill_brewer(palette='Pastel1') +
+  geom_bar(stat='identity',position='dodge') +  
+  scale_fill_manual(values = c(colorchoice[2], colorchoice[1])) +
+  #scale_fill_brewer(palette='Pastel1') +
   labs(y="Foreign Born (%)",x="") + theme_bw() + coord_cartesian(ylim = c(0, 50)) +
   theme(legend.title=element_blank(),
         legend.position="bottom",
@@ -225,7 +227,7 @@ tl <- d %>% group_by(Team,Birthcountry,Debut) %>%
   summarise(Foreign=sum(Players)) %>%
   filter(Debut!=2017)
 
-tl_g <- tl  %>% ggplot( aes(x=Debut, y=Foreign)) + geom_line(color='lightsteelblue2',size=2) +
+tl_g <- tl  %>% ggplot( aes(x=Debut, y=Foreign)) + geom_line(color=colorchoice[2],size=2) +
   labs(y="Number of Foreign Born Debutants",x="\nYear") + theme_bw() + ylim(c(0,40)) +
   theme(legend.title=element_blank(),
         legend.position="bottom",
