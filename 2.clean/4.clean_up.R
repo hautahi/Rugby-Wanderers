@@ -22,6 +22,8 @@ d$City <- gsub("Co+\\.", "County ", d$City)
 d$City <- gsub("\\?", "", d$City)
 d$City <- gsub("date unknown+\\,", "", d$City)
 d$City <- gsub("\\.", " ", d$City)
+d$City <- gsub("\\,+ Northern Ireland", "", d$City)
+d$City <- gsub("Co ", "County ", d$City)
 
 # Remove entries if birthcity contains a number
 d$Bcountry[grepl(pattern="[[:digit:]]", x=d$City)==TRUE] <- ""
