@@ -1546,14 +1546,14 @@ Alexander Moodie,Scotland,1909,Forward,3,2,1,0,0,0,"Balmuirfield, Dundee",Scotla
 James Reid-Kerr,Scotland,1909,Forward,1,1,0,0,0,0,Greenock,Scotland
 Fletcher Buchanan,Scotland,1910,Centre,3,1,2,0,0,0,Glasgow,Scotland
 Ian Robertson,Scotland,1910,Wing,1,1,0,0,6,2,,
-Robert Stevenson,Scotland,1910,Forward,9,3,6,0,0,0,Perth,Australia
+Robert Stevenson,Scotland,1910,Forward,9,3,6,0,0,0,Perth,Scotland
 Puss Milroy,Scotland,1910,Scrum-half,12,3,9,0,3,1,Edinburgh,Scotland
 Walter Sutherland,Scotland,1910,Wing,13,4,9,0,12,4,Hawick,Scotland
 Cecil Abercrombie,Scotland,1910,Forward,6,2,4,0,3,1,Mozufferpore,India
 Jimmy Dobson,Scotland,1910,Wing,1,1,0,0,3,1,"Cathcart, Glasgow",Scotland
 Andrew Lindsay,Scotland,1910,Scrum-half,2,1,1,0,0,0,"Otepopo, North Otago",NewZealand
 Donald Macpherson,Scotland,1905,Wing,3,2,1,0,3,1,Waimate,NewZealand
-Rowland Fraser,Scotland,1911,Prop,4,0,4,0,0,0,Perth,Australia
+Rowland Fraser,Scotland,1911,Prop,4,0,4,0,0,0,Perth,Scotland
 Frank Osler,Scotland,1911,Scrum-half,2,0,2,0,0,0,Riversdale,SouthAfrica
 Alexander Stevenson,Scotland,1911,Forward,1,0,1,0,0,0,Glasgow,Scotland
 Borth Todd,Scotland,1911,Fullback,1,0,1,0,0,0,"Inverleithin, Peebles",Scotland
@@ -2007,7 +2007,7 @@ Bobby Clark,Scotland,1972,Hooker,9,5,4,0,4,1,Edinburgh,Scotland
 Jim Renwick,Scotland,1972,Centre,53,17,33,3,67,8,Hawick,Scotland
 Alan Lawson,Scotland,1972,Scrum-half,15,5,8,2,12,3,Kirkcaldy,Scotland
 Ian Barnes,Scotland,1972,Lock,7,2,5,0,0,0,Hawick,Scotland
-Lewis Dick,Scotland,1972,Wing,14,6,8,0,8,2,Perth,Australia
+Lewis Dick,Scotland,1972,Wing,14,6,8,0,8,2,Perth,Scotland
 Ian Forsyth,Scotland,1972,Centre,6,3,3,0,4,1,Edinburgh,Scotland
 Andy Irvine,Scotland,1972,Fullback,60,22,34,4,301,12,Edinburgh,Scotland
 Ian McGeechan,Scotland,1972,Centre,40,15,22,3,24,0,Leeds,England
@@ -2314,7 +2314,7 @@ John Macauley,Ireland,1887,Forward,2,1,1,0,NA,0,Limerick,Ireland
 James McLaughlin,Ireland,1887,Halfback,4,2,2,0,NA,0,,
 Robert Montgomery,Ireland,1887,Three-quarters,5,2,3,0,0,4,Belfast,Ireland
 Daniel Rambaut,Ireland,1887,Three-quarters,4,2,2,0,NA,0,Waterford,Ireland
-Robert Stevenson,Ireland,1887,Forward,14,3,9,2,0,0,Dungannon,Ireland
+Robert Stevenson,Ireland,1887,Forward,14,3,9,2,0,0,Perth,Scotland
 Charles Tillie,Ireland,1887,Three-quarters,4,2,2,0,NA,1,Londonderry,Ireland
 Dolway Walkington,Ireland,1887,Fullback,8,2,5,1,3,0,Belfast,Ireland
 Edward Walshe,Ireland,1887,Forward,7,2,5,0,4,2,,
@@ -11127,7 +11127,7 @@ Chris Cusiter,Scotland,2004,Scrum-half,71,24,45,2,15,3,Aberdeen,Scotland
 Ally Hogg,Scotland,2004,Back-row,48,15,33,0,50,10,Stirling,Scotland
 Tom Philip,Scotland,2004,Outside back,5,0,5,0,0,0,Edinburgh,Scotland
 Dan Parks,Scotland,2004,Fly-half,67,25,41,1,266,4,Hornsby,Australia
-Sean Lamont,Scotland,2004,Wing,105,44,60,1,70,14,Perth,Australia
+Sean Lamont,Scotland,2004,Wing,105,44,60,1,70,14,Perth,Scotland
 Hugo Southwell,Scotland,2004,Fullback,59,22,36,1,40,8,London,England
 Graeme Morrison,Scotland,2004,Centre,35,14,20,1,15,3,Hong Kong,HongKong
 Craig Hamilton,Scotland,2004,Lock,5,2,3,0,0,0,Dumfries,Scotland
@@ -11136,7 +11136,7 @@ Scott Macleod,Scotland,2004,Lock,24,11,13,0,0,0,Hawick,Scotland
 Ross Ford,Scotland,2004,Hooker,108,44,63,1,10,2,Leith,Scotland
 Alastair Kellock,Scotland,2004,Lock,56,24,31,1,5,1,Bishopbriggs,Scotland
 Jon Dunbar,Scotland,2005,Back-row,2,1,1,0,0,0,Wegberg,Germany
-Rory Lamont,Scotland,2005,"Fullback, Wing",29,12,17,0,30,6,Perth,Australia
+Rory Lamont,Scotland,2005,"Fullback, Wing",29,12,17,0,30,6,Perth,Scotland
 Kelly Brown,Scotland,2005,Back-row,64,25,38,1,20,4,Edinburgh,Scotland
 Scott Lawson,Scotland,2005,Hooker,46,20,25,1,10,2,Lanark,Scotland
 Phil Godman,Scotland,2005,Fly-half,23,10,12,1,71,1,Edinburgh,Scotland
@@ -11221,7 +11221,7 @@ Stuart McInally,Scotland,2015,Hooker,9,6,3,0,0,0,Edinburgh,Scotland
 Damien Hoyland,Scotland,2015,Wing,2,2,0,0,0,0,Edinburgh,Scotland
 Willem Nel,Scotland,2015,Prop,15,9,6,0,10,2,Loriesfontein,SouthAfrica
 Josh Strauss,Scotland,2015,Flanker,11,7,4,0,0,0,Bellville,SouthAfrica
-Zander Fagerson,Scotland,2016,Prop,9,5,4,0,0,0,Perth,Australia
+Zander Fagerson,Scotland,2016,Prop,9,5,4,0,0,0,Perth,Scotland
 Pat Duignan,Ireland,1998,"Wing, Centre",2,2,0,0,5,1,NA,Canada
 Girvan Dempsey,Ireland,1998,Fullback,82,50,32,0,95,19,Dublin,Ireland
 Cieran Scally,Ireland,1998,Scrum-half,4,3,1,0,10,2,Dublin,Ireland
