@@ -3,7 +3,8 @@ library(readr)
 library(dplyr)
 
 # Load data created from Python
-d <- read_csv("../1.webscrape/scraped_data.csv")
+#d <- read_csv("../1.webscrape/scraped_data.csv")
+d <- read_csv("../3.update/merged_update.csv")
 
 #-------------------------------------------------------------#
 # Remove known errors
